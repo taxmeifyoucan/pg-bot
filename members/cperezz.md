@@ -28,6 +28,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Issue] [trie/bintrie: flag-byte serialization for stem padding (follow-up to #34055)](https://github.com/ethereum/go-ethereum/issues/34759) - 2026-04-18
 * [Commit] [core/state: handle *bintrie.BinaryTrie in mustCopyTrie (#34758)](https://github.com/ethereum/go-ethereum/commit/53ff723cc70de40dd31e819053fdb7e054f683d0) - 2026-04-18
 * [Commit] [trie/bintrie: skip clean nodes in CollectNodes to reduce commit write amplification (#34754)](https://github.com/ethereum/go-ethereum/commit/61bfacc52f79df35f2e3caa5c72f5dc9e650c685) - 2026-04-18
+* [Commit] [trie/bintrie: replace BinaryNode interface with GC-free NodeRef arena (#34055)](https://github.com/ethereum/go-ethereum/commit/b6d415c88d79d165acad68db69666f35871457e4) - 2026-04-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4094221117) - 2026-04-11
 * [Review] [Review on: feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635#pullrequestreview-4105549199) - 2026-04-14

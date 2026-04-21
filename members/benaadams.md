@@ -70,6 +70,26 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Remove joc from sync actions](https://github.com/NethermindEth/nethermind/pull/11236#pullrequestreview-4135896253) - 2026-04-19
 * [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11239#pullrequestreview-4135607271) - 2026-04-19
 * [Commit] [fix(merge): validate safe/finalized as ancestors of new head (#11187)](https://github.com/NethermindEth/nethermind/commit/45842edbd89efa7c8904d91af4b64bf368b9b5df) - 2026-04-20
+* [Review] [Review on: Add new default for gnosis and gnosis archive config](https://github.com/NethermindEth/nethermind/pull/11269#pullrequestreview-4144562699) - 2026-04-21
+* [Pull Request] [Optimize EvmMemory](https://github.com/NethermindEth/nethermind/pull/11247) - 2026-04-20
+* [Review] [Review on: Optimize EvmMemory](https://github.com/NethermindEth/nethermind/pull/11247#pullrequestreview-4141793337) - 2026-04-20
+* [Review] [Review on: chore(zkevm): Remove unnecessary zkEVM conditions](https://github.com/NethermindEth/nethermind/pull/11255#pullrequestreview-4141712929) - 2026-04-20
+* [Pull Request] [fix(merge): allow lower finalized FCUs and add Paris engine pyspec coverage](https://github.com/NethermindEth/nethermind/pull/11259) - 2026-04-20
+* [Review] [Review on: fix(merge): allow lower finalized FCUs and add Paris engine pyspec coverage](https://github.com/NethermindEth/nethermind/pull/11259#pullrequestreview-4141445956) - 2026-04-20
+* [Review] [Review on: Glamsterdam - Engine API Changes](https://github.com/NethermindEth/nethermind/pull/11081#pullrequestreview-4139681756) - 2026-04-20
+* [Review] [Review on: Optimize EVM stack](https://github.com/NethermindEth/nethermind/pull/11230#pullrequestreview-4138144647) - 2026-04-20
+* [Review] [Review on: Refactor DB migrations to use DI](https://github.com/NethermindEth/nethermind/pull/11242#pullrequestreview-4138276141) - 2026-04-20
+* [Review] [Review on: chore(tools): enforce code style in build, apply dotnet format](https://github.com/NethermindEth/nethermind/pull/11228#pullrequestreview-4138299422) - 2026-04-20
+* [Review] [Review on: ci(claude-review): drop concurrency group](https://github.com/NethermindEth/nethermind/pull/11251#pullrequestreview-4139170424) - 2026-04-20
+* [Pull Request] [Fix flaky tests in PruningScenariosTests](https://github.com/NethermindEth/nethermind/pull/11248) - 2026-04-20
+* [Review] [Review on: Fix flaky tests in PruningScenariosTests](https://github.com/NethermindEth/nethermind/pull/11248#pullrequestreview-4138821731) - 2026-04-20
+* [Review] [Review on: test(sync): fix flaky StateSyncFeedTests timeout handling](https://github.com/NethermindEth/nethermind/pull/11226#pullrequestreview-4138303174) - 2026-04-20
+* [Review] [Review on: TransactionResult Extensibility Improvements](https://github.com/NethermindEth/nethermind/pull/11243#pullrequestreview-4137886305) - 2026-04-20
+* [Review] [Review on: perf(trie): tune BulkSet parallelism and dispatch for storage-flush workloads](https://github.com/NethermindEth/nethermind/pull/11241#pullrequestreview-4138291380) - 2026-04-20
+* [Review] [Review on: feat(logging): add DebugError/DebugWarn helpers with Kind property for Seq](https://github.com/NethermindEth/nethermind/pull/11157#pullrequestreview-4138104876) - 2026-04-20
+* [Commit] [Optimize EvmMemory (#11247)](https://github.com/NethermindEth/nethermind/commit/649843cda4e0ed80d5570753c59c75deaa8aee39) - 2026-04-20
+* [Commit] [fix(merge): allow lower finalized FCUs and add Paris engine pyspec coverage (#11259)](https://github.com/NethermindEth/nethermind/commit/8e80ae36b5a0a430a5d838ea279f8772d13d374d) - 2026-04-20
+* [Commit] [Fix flaky tests in PruningScenariosTests (#11248)](https://github.com/NethermindEth/nethermind/commit/425a2a3fe87fb3c95fb7ccebf3bc96f83c02013d) - 2026-04-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

@@ -14,6 +14,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: add CREATE and CREATE2 to transfer log list](https://github.com/ethereum/EIPs/pull/11474) - 2026-04-01
 
+* [Commit] [Update EIP-7708: add CREATE and CREATE2 to transfer log list](https://github.com/ethereum/EIPs/commit/1e2f3319997b1725e05f69dfc438db59a666b86d) - 2026-04-20
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: internal/ethapi, eth/gasestimator: honor block overrides in estimate gas](https://github.com/ethereum/go-ethereum/pull/34081#pullrequestreview-4046182237) - 2026-04-01
 * [Review] [Review on: triedb/pathdb: implement history index pruner](https://github.com/ethereum/go-ethereum/pull/33999#pullrequestreview-4047403049) - 2026-04-01
@@ -28,8 +29,13 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: cmd/geth: add Prague pruning points for hoodi](https://github.com/ethereum/go-ethereum/pull/34714#pullrequestreview-4106056386) - 2026-04-14
 * [Pull Request] [.github: add windows runner smoke test](https://github.com/ethereum/go-ethereum/pull/34742) - 2026-04-16
 * [Commit] [eth/tracers: fix codehash in prestate diffmode (#34675)](https://github.com/ethereum/go-ethereum/commit/f63e9f3a80cd568f6d68c3c9858839784220d038) - 2026-04-16
+* [Review] [Review on: eth, internal/ethapi: add eth_capabilities RPC method](https://github.com/ethereum/go-ethereum/pull/33886#pullrequestreview-4139127289) - 2026-04-20
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
+* [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [cmd: add hivequery (hq) command](https://github.com/ethereum/hive/pull/1438) - 2026-04-20
 ## Q1 2026
 
 

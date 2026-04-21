@@ -42,6 +42,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Feat:implement eth_feehistory and eth_maxPriorityFeePerGas ](https://github.com/status-im/nimbus-eth1/pull/4112#pullrequestreview-4093519986) - 2026-04-11
 * [Pull Request] [Add the state/codes sort into Witness build phase](https://github.com/status-im/nimbus-eth1/pull/4141) - 2026-04-16
 * [Commit] [Add the state/codes sort into Witness build phase (#4141)](https://github.com/status-im/nimbus-eth1/commit/4877d3f7e4109d4075d24dbaf5b5bb6cb1487dd3) - 2026-04-16
+* [Review] [Review on: Feat:Fix Debug_* RPC endpoints](https://github.com/status-im/nimbus-eth1/pull/4069#pullrequestreview-4141111625) - 2026-04-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

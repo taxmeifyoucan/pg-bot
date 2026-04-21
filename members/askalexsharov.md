@@ -284,6 +284,13 @@ Team: Erigon
 * [Pull Request] [log: demote from Debug to Trace. move logging out of external mutexes. optimize log formatter](https://github.com/erigontech/erigon/pull/20662) - 2026-04-19
 * [Issue] [Capling: long-living `rotx` in blob_downloader](https://github.com/erigontech/erigon/issues/20663) - 2026-04-19
 * [Issue] [Caplin: long living `rwtx` in Antiquary](https://github.com/erigontech/erigon/issues/20664) - 2026-04-19
+* [Review] [Review on: claude: add a section about devnet specs in erigon-implement-eip skill](https://github.com/erigontech/erigon/pull/20685#pullrequestreview-4139659766) - 2026-04-20
+* [Pull Request] [tests: use t.Context() instead of context.Background() in tests](https://github.com/erigontech/erigon/pull/20688) - 2026-04-20
+* [Review] [Review on: cherry-pick: from release/3.4 to main](https://github.com/erigontech/erigon/pull/20658#pullrequestreview-4139275566) - 2026-04-20
+* [Review] [Review on: integrity, stagedsync: cap state collation at block snapshots progress](https://github.com/erigontech/erigon/pull/20680#pullrequestreview-4139238758) - 2026-04-20
+* [Review] [Review on: claude: add skill for implementing an eip](https://github.com/erigontech/erigon/pull/20672#pullrequestreview-4137568908) - 2026-04-20
+* [Issue] [experiment: systems-level shard layer above RecSplit buckets](https://github.com/erigontech/erigon/issues/20687) - 2026-04-20
+* [Commit] [cherry-pick: from release/3.4 to main (#20658)](https://github.com/erigontech/erigon/commit/1146652301d3624e352f8eeb5f4fcbc1dfedee89) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

@@ -29,6 +29,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [claude: improve test skills with submodule and ramdisk prerequisites (#20616)](https://github.com/erigontech/erigon/commit/6f410c9d6e27123310f212b9e59e2dea1922d733) - 2026-04-17
 * [Pull Request] [claude: add skill for implementing an eip](https://github.com/erigontech/erigon/pull/20672) - 2026-04-20
 * [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-7981](https://github.com/erigontech/erigon/pull/20671) - 2026-04-20
+* [Pull Request] [[DO-NOT-MERGE] ci: use hive eest stable fixtures instead of develop](https://github.com/erigontech/erigon/pull/20689) - 2026-04-20
+* [Pull Request] [claude: add a section about devnet specs in erigon-implement-eip skill](https://github.com/erigontech/erigon/pull/20685) - 2026-04-20
+* [Pull Request] [claude: add hive eest consume-rlp to /hive-test skill](https://github.com/erigontech/erigon/pull/20690) - 2026-04-20
+* [Review] [Review on: execution/state: preserve versionedReads for destroyed accounts in FinalizeTx](https://github.com/erigontech/erigon/pull/20660#pullrequestreview-4139247894) - 2026-04-20
+* [Review] [Review on: [DO-NOT-MERGE] execution: implement EIP-7976 ](https://github.com/erigontech/erigon/pull/20613#pullrequestreview-4139797138) - 2026-04-20
+* [Commit] [claude: add a section about devnet specs in erigon-implement-eip skill (#20685)](https://github.com/erigontech/erigon/commit/c17602c77175ad4c2ac0143761f74d86448be03d) - 2026-04-20
+* [Commit] [claude: add skill for implementing an eip (#20672)](https://github.com/erigontech/erigon/commit/03d195cc8e3fdbf1ed3140f4b4e47059aff287a1) - 2026-04-20
 ## Q1 2026
 
 

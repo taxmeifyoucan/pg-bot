@@ -51,6 +51,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: detect nimbus-eth1 by new `Nimbus/` client version prefix](https://github.com/ethpandaops/dora/pull/644) - 2026-04-17
 * [Commit] [Merge pull request #644 from ethpandaops/bbusa/fix-nimbusel-exec-time](https://github.com/ethpandaops/dora/commit/ea8b99d7ac0f548c4a3b5ead7453532143ffd595) - 2026-04-17
 * [Commit] [fix: detect nimbus-eth1 by new `Nimbus/` client version prefix](https://github.com/ethpandaops/dora/commit/b13726cc537d0d4589a92fb4db4261e6cdbd1593) - 2026-04-17
+* [Pull Request] [Bump go-eth2-client to ethpandaops master for v1.7.0-alpha.5](https://github.com/ethpandaops/dora/pull/649) - 2026-04-20
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -59,6 +60,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16623) - 2026-04-01
 
 * [Commit] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset (#16623)](https://github.com/OffchainLabs/prysm/commit/321828e775b7abf6607553ac878760af930eae8c) - 2026-04-14
+* [Pull Request] [Initialise ExecutionRequestsRoot and ParentExecutionRequests in gloasGenesisBlock](https://github.com/OffchainLabs/prysm/pull/16705) - 2026-04-20
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112) - 2026-04-08
 
@@ -103,6 +105,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [ci: bump pinned GitHub Actions to latest (#158)](https://github.com/ethpandaops/template-devnets/commit/254b32c9621944012d978017e59489c3eb70db78) - 2026-04-14
 * [Review] [Review on: rework ipv6 setup](https://github.com/ethpandaops/template-devnets/pull/159#pullrequestreview-4119656167) - 2026-04-16
 * [Pull Request] [feat: add HackMD sync helper](https://github.com/ethpandaops/template-devnets/pull/160) - 2026-04-17
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
 ## Q1 2026
 
 

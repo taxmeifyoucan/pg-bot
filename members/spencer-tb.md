@@ -47,6 +47,22 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): EIP-7708 - finalization burn log ordering + coinbase fee no-log](https://github.com/ethereum/execution-specs/pull/2717) - 2026-04-19
 * [Review] [Review on: feat(tests): EIP-8037 - CALL with value to selfdestructed account](https://github.com/ethereum/execution-specs/pull/2646#pullrequestreview-4135979256) - 2026-04-19
 * [Review] [Review on: feat(spec-specs, tests): EIP-8037 - per-dimension block gas limit check at tx inclusion](https://github.com/ethereum/execution-specs/pull/2703#pullrequestreview-4136010248) - 2026-04-19
+* [Pull Request] [feat(spec-specs, tests): align EIP-8037 with `forks/amsterdam` GasCosts refactor](https://github.com/ethereum/execution-specs/pull/2737) - 2026-04-21
+* [Review] [Review on: feat(tests, spec-specs): add full cost per state byte pricing function for EIP-8037](https://github.com/ethereum/execution-specs/pull/2687#pullrequestreview-4144019031) - 2026-04-20
+* [Pull Request] [feat(test-consume): add engine-witness simulator for witness verification](https://github.com/ethereum/execution-specs/pull/2724) - 2026-04-20
+* [Review] [Review on: feat(tests): EIP-8037 additional state gas coverage](https://github.com/ethereum/execution-specs/pull/2718#pullrequestreview-4143073135) - 2026-04-20
+* [Review] [Review on: feat(spec-specs,tests): EIP-8037 nested child frame refunds](https://github.com/ethereum/execution-specs/pull/2733#pullrequestreview-4143049801) - 2026-04-20
+* [Pull Request] [feat(spec-specs, tests): EIP-8037 - apply calldata floor to sender refund](https://github.com/ethereum/execution-specs/pull/2728) - 2026-04-20
+* [Pull Request] [feat(spec-specs, tests): EIP-8037 SSTORE refund clamp and initcode fixture guard](https://github.com/ethereum/execution-specs/pull/2729) - 2026-04-20
+* [Pull Request] [chore(tests): restore and extend Amsterdam ported static skip list](https://github.com/ethereum/execution-specs/pull/2732) - 2026-04-20
+* [Review] [Review on: refactor(spec): use uint32 instead of uint64 for block access index](https://github.com/ethereum/execution-specs/pull/2730#pullrequestreview-4141167706) - 2026-04-20
+* [Pull Request] [feat(tests): prepare `test_scenarios` and `test_all_opcodes` for EIP-8037](https://github.com/ethereum/execution-specs/pull/2727) - 2026-04-20
+* [Review] [Review on: feat(specs,tests): EIP-7928 - Update BAL index to uint64](https://github.com/ethereum/execution-specs/pull/2713#pullrequestreview-4137916702) - 2026-04-20
+* [Review] [Review on: feat(tests): tighten invalid-path BAL coverage for EIP-2935 and EIP-4788](https://github.com/ethereum/execution-specs/pull/2716#pullrequestreview-4138992955) - 2026-04-20
+* [Review] [Review on: feat(test-client-clis): tolerate missing trace file for rejected txs](https://github.com/ethereum/execution-specs/pull/2709#pullrequestreview-4139164945) - 2026-04-20
+* [Review] [Review on: feat(spec-specs, tests): add system address BAL tests](https://github.com/ethereum/execution-specs/pull/2715#pullrequestreview-4138873376) - 2026-04-20
+* [Pull Request] [feat(tests): EIP-8073 - remove stale header verify on CALL to selfdestructed tests](https://github.com/ethereum/execution-specs/pull/2725) - 2026-04-20
+* [Commit] [feat(tests): prepare `test_scenarios` and `test_all_opcodes` for EIP-8037 (#2727)](https://github.com/ethereum/execution-specs/commit/4c47daacfbe2e5ae95d79753b131acc904eceda7) - 2026-04-20
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 
@@ -83,6 +99,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: Update EIP-8037: add per-dimension block gas limit check](https://github.com/ethereum/EIPs/pull/11536#pullrequestreview-4127995638) - 2026-04-17
 * [Commit] [Update EIP-8037: more state gas accounting changes](https://github.com/ethereum/EIPs/commit/4f0332706351a67eae4adf1bfac880dfb412d237) - 2026-04-17
 * [Pull Request] [Update EIP-8037: Clarify SSTORE restoration refund rollback semantics](https://github.com/ethereum/EIPs/pull/11548) - 2026-04-19
+* [Commit] [Update EIP-8037: Clarify SSTORE restoration refund rollback semantics](https://github.com/ethereum/EIPs/commit/9493cd502540bb5b50e01aa3708835fb87fce0bc) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4112057595) - 2026-04-15
 

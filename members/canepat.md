@@ -20,6 +20,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [debug_executionWitness: collapse witness root mismatch at chain tip](https://github.com/erigontech/erigon/issues/20608) - 2026-04-16
 * [Review] [Review on: rpc: add call limits for eth_simulateV1](https://github.com/erigontech/erigon/pull/20232#pullrequestreview-4127617371) - 2026-04-17
+* [Review] [Review on: rpc:  fix three testing_buildBlockV1 hive test failures](https://github.com/erigontech/erigon/pull/20698#pullrequestreview-4143420591) - 2026-04-20
 ## Q1 2026
 
 

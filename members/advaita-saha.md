@@ -29,6 +29,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [testing: txpool bugs](https://github.com/status-im/nimbus-eth1/pull/4143) - 2026-04-17
 * [Pull Request] [manual GC cleanup](https://github.com/status-im/nimbus-eth1/pull/4147) - 2026-04-18
 * [Issue] [add single binary tests](https://github.com/status-im/nimbus-eth1/issues/4150) - 2026-04-19
+* [Pull Request] [add blockBuilding test API](https://github.com/status-im/nimbus-eth1/pull/4154) - 2026-04-20
+* [Issue] [inefficient blob transaction handling in txpool](https://github.com/status-im/nimbus-eth1/issues/4155) - 2026-04-20
 ## Q1 2026
 
 

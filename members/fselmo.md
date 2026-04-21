@@ -30,10 +30,20 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [feat: add more invalid BAL test cases; extend invalid case coverage (#2653)](https://github.com/ethereum/execution-specs/commit/d206d4f2b8558d742b9ddd31407e69e5cf05e6cf) - 2026-04-15
 * [Review] [Review on: Add account-only BAL invalid test](https://github.com/ethereum/execution-specs/pull/2712#pullrequestreview-4131431478) - 2026-04-17
 * [Pull Request] [chore(test-types): adds extra modifier validation; adds unit tests](https://github.com/ethereum/execution-specs/pull/2710) - 2026-04-17
+* [Review] [Review on: feat(tests, spec-specs): add full cost per state byte pricing function for EIP-8037](https://github.com/ethereum/execution-specs/pull/2687#pullrequestreview-4143537279) - 2026-04-20
+* [Review] [Review on: feat(tests): EIP-8037 additional state gas coverage](https://github.com/ethereum/execution-specs/pull/2718#pullrequestreview-4142948064) - 2026-04-20
+* [Pull Request] [feat(spec-specs,tests): EIP-8037 nested child frame refunds](https://github.com/ethereum/execution-specs/pull/2733) - 2026-04-20
+* [Pull Request] [refactor(spec): use uint32 instead of uint64 for block access index](https://github.com/ethereum/execution-specs/pull/2730) - 2026-04-20
+* [Review] [Review on: feat(tests): prepare `test_scenarios` and `test_all_opcodes` for EIP-8037](https://github.com/ethereum/execution-specs/pull/2727#pullrequestreview-4140858879) - 2026-04-20
+* [Review] [Review on: feat(specs,tests): EIP-7928 - Update BAL index to uint64](https://github.com/ethereum/execution-specs/pull/2713#pullrequestreview-4140950113) - 2026-04-20
+* [Commit] [refactor: use uint32 instead of uint64 for block access index (#2730)](https://github.com/ethereum/execution-specs/commit/97c13c14cce1ff6955ef3a9e6dd6b1c74e4ccc57) - 2026-04-20
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14
 * [Commit] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1` (#34722)](https://github.com/ethereum/go-ethereum/commit/c9fea44616560d42c4a67704c1cb79a1445741f8) - 2026-04-14
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141218984) - 2026-04-20
 ## Q1 2026
 
 

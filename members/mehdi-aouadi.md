@@ -33,6 +33,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [add unblinded execution payload cache (#10568)](https://github.com/Consensys/teku/commit/771355b1c056dee6d72f870d66bc6716288b857d) - 2026-04-15
 * [Review] [Review on: fix ci permissions (and make windowsBuild not blocking)](https://github.com/Consensys/teku/pull/10570#pullrequestreview-4120289879) - 2026-04-16
 * [Review] [Review on: Make vote tracking slot-aware and add backward-compatible vote update plumbing (3 of 7)](https://github.com/Consensys/teku/pull/10573#pullrequestreview-4129237543) - 2026-04-17
+* [Review] [Review on: Gloas changes for v1.7.0-alpha.5](https://github.com/Consensys/teku/pull/10581#pullrequestreview-4141470987) - 2026-04-20
+* [Pull Request] [fetch execution payload on payload attestation](https://github.com/Consensys/teku/pull/10579) - 2026-04-20
+* [Review] [Review on: fetch execution payload on payload attestation](https://github.com/Consensys/teku/pull/10579#pullrequestreview-4141148142) - 2026-04-20
+* [Commit] [fetch execution payload on payload attestation (#10579)](https://github.com/Consensys/teku/commit/807b299cb1eb8c19450bcd8ada274370326b0726) - 2026-04-20
 ## Q1 2026
 
 

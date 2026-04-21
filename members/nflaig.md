@@ -128,6 +128,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Add epoch boundary tests for gloas](https://github.com/ethereum/consensus-specs/pull/5127) - 2026-04-19
 * [Pull Request] [Add prepare execution payload tests for gloas](https://github.com/ethereum/consensus-specs/pull/5129) - 2026-04-19
 * [Pull Request] [Add note about withdrawal deduction in gloas](https://github.com/ethereum/consensus-specs/pull/5128) - 2026-04-19
+* [Pull Request] [Remove incorrect anchor seed for payload votes](https://github.com/ethereum/consensus-specs/pull/5135) - 2026-04-20
+* [Commit] [Remove incorrect anchor seed for payload votes (#5135)](https://github.com/ethereum/consensus-specs/commit/c7a0a852746d07e56d4784f9614abb9d4211c27f) - 2026-04-20
+* [Commit] [Add note about withdrawal deduction in gloas (#5128)](https://github.com/ethereum/consensus-specs/commit/48d5dd51ee028ddec0b1b6d8511aee161880ffa4) - 2026-04-20
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

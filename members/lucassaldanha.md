@@ -14,6 +14,22 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/teku/pull/10516#pullrequestreview-4125921937) - 2026-04-17
 * [Review] [Review on: fix renovate](https://github.com/Consensys/teku/pull/10574#pullrequestreview-4125811196) - 2026-04-17
+
+* [Review] [Review on: publish to maven-central as well as cloudsmith](https://github.com/Consensys/teku/pull/10576#pullrequestreview-4138499603) - 2026-04-20
+* [Review] [Review on: build: Update custom renderer coordinates for license reporter](https://github.com/Consensys/teku/pull/10577#pullrequestreview-4137078502) - 2026-04-20
+* [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/teku/pull/10516#pullrequestreview-4137228878) - 2026-04-20
+[Consensys/discovery](https://github.com/Consensys/discovery)
+* [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
+
+[libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
+* [Pull Request] [Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459) - 2026-04-20
+* [Pull Request] [Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/454) - 2026-04-20
+* [Pull Request] [Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455) - 2026-04-20
+* [Review] [Review on: Fixed mainClassname for Pinger.](https://github.com/libp2p/jvm-libp2p/pull/453#pullrequestreview-4139276477) - 2026-04-20
+* [Pull Request] [docs: partial-messages extension design](https://github.com/libp2p/jvm-libp2p/pull/457) - 2026-04-20
+* [Issue] [Upgrade Kotlin from 1.6.21 to 2.x](https://github.com/libp2p/jvm-libp2p/issues/458) - 2026-04-20
+* [Issue] [Gossip routing integration for partial messages](https://github.com/libp2p/jvm-libp2p/issues/456) - 2026-04-20
+* [Commit] [Fix ConnectionClosedException propagating to Netty event loop from MuxChannel.doWrite (#455)](https://github.com/libp2p/jvm-libp2p/commit/9445f0d331149374cd114aebaf98e0d91f5532da) - 2026-04-20
 ## Q1 2026
 
 

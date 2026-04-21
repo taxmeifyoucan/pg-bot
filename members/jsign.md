@@ -21,6 +21,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): add execution witness support to other fixture formats](https://github.com/ethereum/execution-specs/pull/2667) - 2026-04-13
 * [Review] [Review on: feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635#pullrequestreview-4106818686) - 2026-04-14
 * [Commit] [feat(benchmark): Add deep-branch SLOAD stateful test (#2635)](https://github.com/ethereum/execution-specs/commit/c8c246c8892fce58091e16b0b593e1dd4613673a) - 2026-04-15
+* [Review] [Review on: feat(test-consume): add engine-witness simulator for witness verification](https://github.com/ethereum/execution-specs/pull/2724#pullrequestreview-4143431485) - 2026-04-20
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01

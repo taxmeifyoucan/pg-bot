@@ -46,6 +46,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-plugins-filler): aggregate --verify-traces results across xdist workers](https://github.com/ethereum/execution-specs/pull/2664#pullrequestreview-4115479753) - 2026-04-15
 * [Review] [Review on: feat: add more invalid BAL test cases; extend invalid case coverage](https://github.com/ethereum/execution-specs/pull/2653#pullrequestreview-4113381258) - 2026-04-15
 * [Commit] [feat(test-forks): Gas-limit-aware `Fork`, fork-aware `Environment` (#2690)](https://github.com/ethereum/execution-specs/commit/c3462e030f7e2cebe93688d15d2423dcf16fc8cc) - 2026-04-17
+* [Review] [Review on: feat(tests): prepare `test_scenarios` and `test_all_opcodes` for EIP-8037](https://github.com/ethereum/execution-specs/pull/2727#pullrequestreview-4141121003) - 2026-04-20
+* [Review] [Review on: feat(tests): EIP-7708 - finalization burn log ordering + coinbase fee no-log](https://github.com/ethereum/execution-specs/pull/2717#pullrequestreview-4139549929) - 2026-04-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 ## Q1 2026

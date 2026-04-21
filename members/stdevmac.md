@@ -27,6 +27,12 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [Trie exceptions from Block 1 on op-mainnet archive sync on master](https://github.com/NethermindEth/nethermind/issues/11194) - 2026-04-16
 * [Commit] [ci: bump mainnet Flat sync timeout to 6h in sync-master-validation (#11195)](https://github.com/NethermindEth/nethermind/commit/c6ea4bf101752bdfbf5951258d7e6a811cdb76e3) - 2026-04-16
 * [Pull Request] [Remove joc from sync actions](https://github.com/NethermindEth/nethermind/pull/11236) - 2026-04-18
+* [Pull Request] [Add new default for gnosis and gnosis archive config](https://github.com/NethermindEth/nethermind/pull/11269) - 2026-04-21
+* [Review] [Review on: chore: update publish docker github actions docker/login-action, dock…](https://github.com/NethermindEth/nethermind/pull/10778#pullrequestreview-4144366161) - 2026-04-21
+* [Review] [Review on: fix(merge): allow lower finalized FCUs and add Paris engine pyspec coverage](https://github.com/NethermindEth/nethermind/pull/11259#pullrequestreview-4141355209) - 2026-04-20
+* [Review] [Review on: ci(hive): remove build-block-from-mempool from known failures](https://github.com/NethermindEth/nethermind/pull/11250#pullrequestreview-4139256312) - 2026-04-20
+* [Issue] [Warning: "Unable to completely prune persisted nodes" spam on Base mainnet](https://github.com/NethermindEth/nethermind/issues/11264) - 2026-04-20
+* [Commit] [Remove joc from sync actions (#11236)](https://github.com/NethermindEth/nethermind/commit/76de25f7cca78da82eea74c5d57f6432ae3ba40c) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

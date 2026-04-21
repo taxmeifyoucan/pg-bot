@@ -52,6 +52,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] [EVMv2 AddOperationV2](https://github.com/besu-eth/besu/pull/10255) - 2026-04-17
 * [Review] [Review on: Minor Mulmod v2 refactor](https://github.com/besu-eth/besu/pull/10253#pullrequestreview-4133921012) - 2026-04-18
 * [Commit] [Minor Mulmod v2 refactor (#10253)](https://github.com/besu-eth/besu/commit/4f54a6d93d3f041e2e61ec2fbd3c7e4e4a8f4edf) - 2026-04-19
+* [Review] [Review on: ci: replace Gradle Docker tasks with GHA in develop-pr workflow](https://github.com/besu-eth/besu/pull/10256#pullrequestreview-4144346317) - 2026-04-21
+* [Pull Request] [Evmv2 v1 Stack Bridge](https://github.com/besu-eth/besu/pull/10274) - 2026-04-20
+* [Issue] [OutOfMemoryError during Sync](https://github.com/besu-eth/besu/issues/10283) - 2026-04-21
+* [Commit] [Increase disconnect await timeout in flaky P2P rejection tests (#10267)](https://github.com/besu-eth/besu/commit/cb40f8916b6df7b3e065efab6f55fa404a039e4e) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

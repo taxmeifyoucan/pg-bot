@@ -60,6 +60,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Remove tracer dependency from ValidateGas](https://github.com/NethermindEth/nethermind/pull/11182#pullrequestreview-4127504419) - 2026-04-17
 * [Commit] [Fix amsterdam hive tests (#11151)](https://github.com/NethermindEth/nethermind/commit/6e5b9481100691e07377163cbce813c49d7cf343) - 2026-04-17
 * [Pull Request] [Require account-only BAL reads](https://github.com/NethermindEth/nethermind/pull/11229) - 2026-04-18
+* [Pull Request] [Break on regular message before status receival](https://github.com/NethermindEth/nethermind/pull/11262) - 2026-04-20
+* [Pull Request] [Break on unknown receipts; ignore unknown blocks](https://github.com/NethermindEth/nethermind/pull/11263) - 2026-04-20
+* [Review] [Review on: Break on unknown receipts; ignore unknown blocks](https://github.com/NethermindEth/nethermind/pull/11263#pullrequestreview-4142502651) - 2026-04-20
+* [Pull Request] [Implement dynamic EIP-8037 costs](https://github.com/NethermindEth/nethermind/pull/11257) - 2026-04-20
+* [Review] [Review on: test(sync): fix flaky StateSyncFeedTests timeout handling](https://github.com/NethermindEth/nethermind/pull/11226#pullrequestreview-4138640633) - 2026-04-20
+* [Issue] [Implement bal-devnet-4](https://github.com/NethermindEth/nethermind/issues/11258) - 2026-04-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 
@@ -67,6 +73,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Add account-only BAL invalid test](https://github.com/ethereum/execution-specs/pull/2712) - 2026-04-17
 * [Pull Request] [feat(spec-specs, tests): add system address BAL tests](https://github.com/ethereum/execution-specs/pull/2715) - 2026-04-18
 * [Commit] [feat(spec-specs, tests): add account-only BAL invalid test (#2712)](https://github.com/ethereum/execution-specs/commit/e8f01a69d055409e4f91fbec6f9e264c8cd77174) - 2026-04-18
+* [Commit] [feat(spec-specs, tests): add system address BAL tests (#2715)](https://github.com/ethereum/execution-specs/commit/668cde5e1842a0e8683c7a313b690762e0237dde) - 2026-04-20
 ## Q1 2026
 
 

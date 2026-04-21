@@ -18,6 +18,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: eth: protect high-value peers from random dropping based on tx inclusion stats](https://github.com/ethereum/go-ethereum/pull/34702#pullrequestreview-4108839201) - 2026-04-14
 * [Pull Request] [eth/downloader: drop peers sending invalid bodies or receipts](https://github.com/ethereum/go-ethereum/pull/34745) - 2026-04-17
 * [Pull Request] [eth/protocols, eth/downloader: allow skipping unavailable responses](https://github.com/ethereum/go-ethereum/pull/34746) - 2026-04-17
+* [Pull Request] [crypto/kzg4844: add cell-related functions](https://github.com/ethereum/go-ethereum/pull/34766) - 2026-04-20
 ## Q1 2026
 
 

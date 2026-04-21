@@ -23,6 +23,7 @@ Team: Grandine
 * [Review] [Review on: Refactor `validate_data_column_sidecar_with_state` function](https://github.com/grandinetech/grandine/pull/657#pullrequestreview-4130093717) - 2026-04-17
 * [Review] [Review on: feat: Add ProposerPreferences gossip handling and broadcasting](https://github.com/grandinetech/grandine/pull/579#pullrequestreview-4129228741) - 2026-04-17
 * [Review] [Review on: Feature/consensus specs v1.7.0 alpha4](https://github.com/grandinetech/grandine/pull/667#pullrequestreview-4128025553) - 2026-04-17
+* [Review] [Review on: Updates to publish signed execution payload bid API endpoint:](https://github.com/grandinetech/grandine/pull/668#pullrequestreview-4138565635) - 2026-04-20
 ## Q1 2026
 
 

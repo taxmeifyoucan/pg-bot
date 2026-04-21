@@ -34,6 +34,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: docs: [main] add MCP FAQ entries](https://github.com/erigontech/erigon/pull/20605#pullrequestreview-4128277362) - 2026-04-17
 * [Review] [Review on: db/state: fix MaxStep using MinTxNum in DomainRoTx.prune](https://github.com/erigontech/erigon/pull/20609#pullrequestreview-4128275077) - 2026-04-17
 * [Review] [Review on: rpc : optimize eth_getLogs](https://github.com/erigontech/erigon/pull/20561#pullrequestreview-4135869782) - 2026-04-19
+* [Review] [Review on: ci: fix release version check for pre-releases and app-id deprecation](https://github.com/erigontech/erigon/pull/20668#pullrequestreview-4139168746) - 2026-04-20
+* [Review] [Review on: ci: replace deprecated app-id with client-id in create-github-app-token steps](https://github.com/erigontech/erigon/pull/20669#pullrequestreview-4139165345) - 2026-04-20
 ## Q1 2026
 
 

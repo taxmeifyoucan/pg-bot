@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aanto
 
 ## Contributions
 
+## Q2 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Simplify reproducible builds: single version pin, add binary tarball + AppImage outputs](https://github.com/sigp/lighthouse/pull/9147) - 2026-04-20
 ## Q1 2026
 
 

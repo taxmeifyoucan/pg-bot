@@ -24,6 +24,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: EIP-8045 - Exclude slashed validators from duties](https://github.com/Consensys/teku/pull/10560#pullrequestreview-4117497842) - 2026-04-15
 * [Review] [Review on: add renovatebot and codeowners](https://github.com/Consensys/teku/pull/10538#pullrequestreview-4125103335) - 2026-04-16
 * [Review] [Review on: SingleBockProviderFulu with soft and hard limit for sampled blocks](https://github.com/Consensys/teku/pull/10533#pullrequestreview-4125832426) - 2026-04-17
+* [Commit] [Fix ipv6 discovery (#10516)](https://github.com/Consensys/teku/commit/bf348b7271f09fb3a89e9e0d6e08acf6cbf292a9) - 2026-04-20
 ## Q1 2026
 
 

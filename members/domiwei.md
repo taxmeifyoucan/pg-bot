@@ -23,6 +23,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [p2p/sentry: event-driven StatusData cache, merge dual db.View (#20464)](https://github.com/erigontech/erigon/commit/f199a66e1714da833fd258ea511aef9816f4fe7b) - 2026-04-14
 * [Review] [Review on: [r3.4] cl/caplin: fix nil pointer panics in GetEthV1ValidatorAttestationData](https://github.com/erigontech/erigon/pull/20600#pullrequestreview-4120486404) - 2026-04-16
 
+* [Review] [Review on: state: convert standalone inverted index slices to fixed-size arrays](https://github.com/erigontech/erigon/pull/20396#pullrequestreview-4136970695) - 2026-04-20
+* [Pull Request] [db/state: skip DB entries within file range in DomainLatestIterFile](https://github.com/erigontech/erigon/pull/20674) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

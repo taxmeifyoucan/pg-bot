@@ -50,6 +50,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [[wip] feat: support binding discv5 and discv4 to the same port](https://github.com/paradigmxyz/reth/pull/23613) - 2026-04-17
 * [Review] [Review on: fix(db): use sync=true for rocksdb WriteOptions](https://github.com/paradigmxyz/reth/pull/23603#pullrequestreview-4128304038) - 2026-04-17
 * [Commit] [fix: don't cache stateful precompiles (#23619)](https://github.com/paradigmxyz/reth/commit/98ebc3454f339bdaf8901a24a0be4c4ba539e77a) - 2026-04-17
+* [Pull Request] [refactor: encapsulate state fetching in db provider](https://github.com/paradigmxyz/reth/pull/23656) - 2026-04-20
+* [Review] [Review on: refactor: encapsulate state fetching in db provider](https://github.com/paradigmxyz/reth/pull/23656#pullrequestreview-4141030891) - 2026-04-20
+* [Commit] [refactor: encapsulate state fetching in db provider (#23656)](https://github.com/paradigmxyz/reth/commit/e92af360aeb29d59b00f73d429139dd94714a658) - 2026-04-20
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
@@ -61,6 +64,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [feat: propagate InitialAndFloorGas to validate_against_state_and_deduct_caller (#3577)](https://github.com/bluealloy/revm/commit/a1a18248bd35699392fb84274865edba1b6d0955) - 2026-04-16
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
+* [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4140591296) - 2026-04-20
 ## Q1 2026
 
 

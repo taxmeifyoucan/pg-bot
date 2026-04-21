@@ -61,6 +61,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc : optimize eth_getLogs](https://github.com/erigontech/erigon/pull/20561#pullrequestreview-4136537831) - 2026-04-19
 * [Review] [Review on: rpc: fix testing build block v1 according Hive Test](https://github.com/erigontech/erigon/pull/20592#pullrequestreview-4136516768) - 2026-04-19
 * [Pull Request] [[WIP] rpc: compression with libdeflate](https://github.com/erigontech/erigon/pull/20665) - 2026-04-19
+* [Pull Request] [rpc:  fix three testing_buildBlockV1 hive test failures](https://github.com/erigontech/erigon/pull/20698) - 2026-04-20
+* [Pull Request] [rpc: fix txpool_content/contentFrom/status hive test failures](https://github.com/erigontech/erigon/pull/20699) - 2026-04-20
+* [Commit] [rpc:  fix three testing_buildBlockV1 hive test failures (#20698)](https://github.com/erigontech/erigon/commit/468a5940f178bf7e4363898ef85d251fe4b9dcab) - 2026-04-20
+* [Commit] [rpc: fix testing build block v1 according Hive Test (#20592)](https://github.com/erigontech/erigon/commit/9e324702a50a3e4488b33d3d9294a22c874d45e3) - 2026-04-20
+* [Commit] [update test version (#20623)](https://github.com/erigontech/erigon/commit/691a145b5e76b9c066cd7e1d606d54d8fb89f1ee) - 2026-04-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

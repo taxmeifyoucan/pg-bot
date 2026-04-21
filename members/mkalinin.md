@@ -17,6 +17,10 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Add Yann Vonlanthen from Protocol Consensus](https://github.com/protocolguild/documentation/pull/493#pullrequestreview-4119971090) - 2026-04-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Fast Confirmation Rule (#4747)](https://github.com/ethereum/consensus-specs/commit/6deb93bd024e2ccb51cddbd90566a14c2410134b) - 2026-04-16
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
+* [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20
 ## Q1 2026
 
 

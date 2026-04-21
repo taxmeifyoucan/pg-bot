@@ -56,6 +56,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: revert dual-state from regen, block production, and metrics](https://github.com/ChainSafe/lodestar/pull/9218#pullrequestreview-4125870265) - 2026-04-17
 * [Pull Request] [perf(fork-choice): precompute per-chain attestation scores (FCR)](https://github.com/ChainSafe/lodestar/pull/9227) - 2026-04-17
 * [Review] [Review on: feat: trigger processExecutionPayload() once](https://github.com/ChainSafe/lodestar/pull/9223#pullrequestreview-4125802453) - 2026-04-17
+* [Commit] [feat: trigger processExecutionPayload() once (#9223)](https://github.com/ChainSafe/lodestar/commit/e341cdc61414e52420790a58c99881a873480d68) - 2026-04-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

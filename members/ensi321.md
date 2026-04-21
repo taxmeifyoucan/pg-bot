@@ -47,6 +47,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 
+* [Pull Request] [Call `_build_invalid_envelope` with proper overwrite](https://github.com/ethereum/consensus-specs/pull/5133) - 2026-04-20
+* [Commit] [Call `_build_invalid_envelope` with proper overwrite (#5133)](https://github.com/ethereum/consensus-specs/commit/b979163fe33b301fd215e818c1d715f83c24de9d) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
 ## Q1 2026

@@ -31,6 +31,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: EIP-8045 - Exclude slashed validators from duties](https://github.com/Consensys/teku/pull/10560#pullrequestreview-4118077350) - 2026-04-16
 * [Commit] [   Added POST /eth/v1/beacon/pool/payload_attestations endpoint (#10534)](https://github.com/Consensys/teku/commit/e18002a6652761bb53af484458206a4143fd09a3) - 2026-04-17
 * [Review] [Review on: Make vote tracking slot-aware and add backward-compatible vote update plumbing (3 of 7)](https://github.com/Consensys/teku/pull/10573#pullrequestreview-4136619856) - 2026-04-19
+* [Review] [Review on: Bump brace-expansion, gh-pages and eslint in /.openapidoc](https://github.com/Consensys/teku/pull/10540#pullrequestreview-4136995945) - 2026-04-20
 ## Q1 2026
 
 

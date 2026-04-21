@@ -26,6 +26,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Update docker base images to include updated RocksDB](https://github.com/status-im/nimbus-eth1/pull/4144) - 2026-04-17
 * [Commit] [MPT rlp encoding helper templates (#4145)](https://github.com/status-im/nimbus-eth1/commit/74c672defd22f3255588a4691b29a45135489955) - 2026-04-17
 * [Commit] [Update docker base images to include updated RocksDB (#4144)](https://github.com/status-im/nimbus-eth1/commit/f2ad42dca544d60e73243678c6a86da7ed306390) - 2026-04-17
+* [Pull Request] [Update bal index type to uint64](https://github.com/status-im/nimbus-eth1/pull/4151) - 2026-04-20
+* [Commit] [Update bal index type to uint64 (#4151)](https://github.com/status-im/nimbus-eth1/commit/c7a238a4af1f4bd2928a1fe7ff972dbab8728837) - 2026-04-20
 ## Q1 2026
 
 

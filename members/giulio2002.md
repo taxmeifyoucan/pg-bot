@@ -39,6 +39,7 @@ Team: Erigon
 * [Review] [Review on: db/recsplit/eliasfano32: fix searchUpperReverse off-by-one on no-solution fast path](https://github.com/erigontech/erigon/pull/20566#pullrequestreview-4112630427) - 2026-04-15
 
 * [Review] [Review on: cmd/utils, p2p/sentry: honor explicit empty --bootnodes](https://github.com/erigontech/erigon/pull/20630#pullrequestreview-4134146456) - 2026-04-18
+* [Review] [Review on: tools/create-ramdisk: retry when chocolatey silently fails on Windows](https://github.com/erigontech/erigon/pull/20695#pullrequestreview-4142344026) - 2026-04-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 ## Q1 2026

@@ -79,9 +79,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 * [Issue] [EIP-7708: Missing negative test for CALL with value to coinbase](https://github.com/ethereum/execution-specs/issues/2692) - 2026-04-16
 * [Issue] [EIP-7708: Missing test for multi-account finalization burn log ordering](https://github.com/ethereum/execution-specs/issues/2691) - 2026-04-16
+* [Review] [Review on: feat(tests): EIP-7708 - finalization burn log ordering + coinbase fee no-log](https://github.com/ethereum/execution-specs/pull/2717#pullrequestreview-4138524657) - 2026-04-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4138243461) - 2026-04-20
 ## Q1 2026
 
 

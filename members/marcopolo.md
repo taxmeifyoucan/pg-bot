@@ -11,6 +11,9 @@ Github: [@marcopolo](https://github.com/marcopolo)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add sukunrt to P2P Networking](https://github.com/protocolguild/documentation/pull/488#pullrequestreview-4100292791) - 2026-04-13
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Cell dissemination via Partial Messages on Gloas](https://github.com/ethereum/consensus-specs/pull/5141) - 2026-04-20
 ## Q1 2026
 
 

@@ -15,6 +15,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [FOCIL Breakout #32, April 07, 2026](https://github.com/ethereum/pm/issues/2006) - 2026-04-06
 
+* [Issue] [FOCIL Breakout #33, April 21, 2026](https://github.com/ethereum/pm/issues/2031) - 2026-04-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Refactor EIP8025 proof engine and p2p interface](https://github.com/ethereum/consensus-specs/pull/5055#pullrequestreview-4066901763) - 2026-04-07
 * [Review] [Review on: In networking tests, yield values after mutating them](https://github.com/ethereum/consensus-specs/pull/5050#pullrequestreview-4066620904) - 2026-04-07
@@ -32,6 +33,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Fix BeaconBlocksByRange typo](https://github.com/ethereum/consensus-specs/pull/5109) - 2026-04-14
 * [Commit] [Fix BeaconBlocksByRange typo (#5109)](https://github.com/ethereum/consensus-specs/commit/76ed00ccd0733ccfa9f7dd87448876b25b18aab4) - 2026-04-14
 * [Review] [Review on: Define deprecated functions](https://github.com/ethereum/consensus-specs/pull/5105#pullrequestreview-4111858906) - 2026-04-15
+* [Pull Request] [Update inclusion list deadlines](https://github.com/ethereum/consensus-specs/pull/5138) - 2026-04-20
+* [Review] [Review on: Update inclusion list deadlines](https://github.com/ethereum/consensus-specs/pull/5138#pullrequestreview-4141402584) - 2026-04-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

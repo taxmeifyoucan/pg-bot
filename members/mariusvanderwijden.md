@@ -42,10 +42,17 @@ Team: Geth
 * [Pull Request] [core: implement eip-7976: Increase Calldata Floor Cost](https://github.com/ethereum/go-ethereum/pull/34748) - 2026-04-17
 * [Review] [Review on: cmd/evm: move parseTestMetadata regexp to package-level var for efficiency](https://github.com/ethereum/go-ethereum/pull/34730#pullrequestreview-4127089386) - 2026-04-17
 * [Review] [Review on: cmd/evm: fix gasUsed reporting in --create path to return gas used, not gas left](https://github.com/ethereum/go-ethereum/pull/34732#pullrequestreview-4127099260) - 2026-04-17
+* [Review] [Review on: consensus, core, internal, miner: remove FinalizeAndAssemble](https://github.com/ethereum/go-ethereum/pull/34726#pullrequestreview-4140172653) - 2026-04-20
+* [Pull Request] [eth/catalyst: allow reorging the head block to a parent](https://github.com/ethereum/go-ethereum/pull/34767) - 2026-04-20
+* [Review] [Review on: core/vm, eth, tests: introduce gas budget](https://github.com/ethereum/go-ethereum/pull/34712#pullrequestreview-4137903668) - 2026-04-20
+* [Review] [Review on: core: implement eip-7981: Increase Access List Cost](https://github.com/ethereum/go-ethereum/pull/34755#pullrequestreview-4137910021) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4104716651) - 2026-04-14
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4138859251) - 2026-04-20
 ## Q1 2026
 
 

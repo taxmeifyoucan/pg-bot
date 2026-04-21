@@ -21,6 +21,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Improve placement of rodata in qemu/native linux](https://github.com/NethermindEth/bflat-riscv64/commit/c068611bc48a66867b58abcd0e8099ff4b58c01e) - 2026-04-19
 * [Commit] [Fix main() arguments](https://github.com/NethermindEth/bflat-riscv64/commit/ca2b20ae59f0545ccddfe4b037b0c561c8c736e6) - 2026-04-19
 * [Commit] [Add bflat-ts badge](https://github.com/NethermindEth/bflat-riscv64/commit/5ffc8c74583a2353b442510ffcfec7498edd33f9) - 2026-04-19
+* [Commit] [Update badge](https://github.com/NethermindEth/bflat-riscv64/commit/8f6bf37da0ac0a2d0fde6c7a94060712d69dac58) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 

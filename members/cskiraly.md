@@ -16,6 +16,8 @@ Team: Codex DAS
 * [Commit] [cmd/devp2p/internal/v5test: fix hive test for discv5 findnode results (#34043)](https://github.com/ethereum/go-ethereum/commit/c453b99a57abdce283864ee29f1c90a10e7c887a) - 2026-04-14
 * [Review] [Review on: eth: protect high-value peers from random dropping based on tx inclusion stats](https://github.com/ethereum/go-ethereum/pull/34702#pullrequestreview-4112657013) - 2026-04-15
 * [Review] [Review on: eth: protect high-value peers from random dropping based on tx inclusion stats](https://github.com/ethereum/go-ethereum/pull/34702#pullrequestreview-4135679675) - 2026-04-19
+* [Pull Request] [cmd/devp2p: add more hive discv5 coverage](https://github.com/ethereum/go-ethereum/pull/34770) - 2026-04-20
+* [Pull Request] [eth: add request-latency peer-drop protection and split peerstats from txtracker](https://github.com/ethereum/go-ethereum/pull/34771) - 2026-04-20
 ## Q1 2026
 
 

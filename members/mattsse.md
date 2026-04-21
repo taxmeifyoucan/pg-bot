@@ -142,6 +142,14 @@ Team: Reth
 * [Review] [Review on: chore(deps): weekly `cargo update`](https://github.com/paradigmxyz/reth/pull/23628#pullrequestreview-4135610026) - 2026-04-19
 * [Pull Request] [fix: address nightly clippy warnings](https://github.com/paradigmxyz/reth/pull/23630) - 2026-04-19
 * [Commit] [fix: address nightly clippy warnings (#23630)](https://github.com/paradigmxyz/reth/commit/8c826a5cd0fe655a183c13203fc8169835713bed) - 2026-04-19
+* [Review] [Review on: refactor: encapsulate state fetching in db provider](https://github.com/paradigmxyz/reth/pull/23656#pullrequestreview-4141546461) - 2026-04-20
+* [Review] [Review on: chore(bench): add cli flag to fetch bal by default](https://github.com/paradigmxyz/reth/pull/23655#pullrequestreview-4141600278) - 2026-04-20
+* [Review] [Review on: feat(p2p): optionally fetch BAL with full blocks](https://github.com/paradigmxyz/reth/pull/23629#pullrequestreview-4140700055) - 2026-04-20
+* [Review] [Review on: chore: release 2.1.0](https://github.com/paradigmxyz/reth/pull/23641#pullrequestreview-4139748809) - 2026-04-20
+* [Review] [Review on: perf(txpool): replace BTreeMap with imbl::OrdMap in BestTransactions](https://github.com/paradigmxyz/reth/pull/23621#pullrequestreview-4138030604) - 2026-04-20
+* [Review] [Review on: chore(BAL): added bal boundary checking](https://github.com/paradigmxyz/reth/pull/23623#pullrequestreview-4139252993) - 2026-04-20
+* [Review] [Review on: chore(BAL): enabled bal building in ethereum payload](https://github.com/paradigmxyz/reth/pull/23597#pullrequestreview-4139234767) - 2026-04-20
+* [Commit] [fix(engine): align Amsterdam endpoint validation (#23625)](https://github.com/paradigmxyz/reth/commit/d577814eb1c3bbf6393448dcabd0d152ce45ccc4) - 2026-04-20
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

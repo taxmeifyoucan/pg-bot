@@ -85,6 +85,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Issue] [Cache empty execution requests root](https://github.com/OffchainLabs/prysm/issues/16691) - 2026-04-17
 * [Issue] [Cache payload envelopes to avoid DB read on proposer path](https://github.com/OffchainLabs/prysm/issues/16697) - 2026-04-19
 * [Issue] [Optimize payload verification gossip: avoid DB block read in happy case](https://github.com/OffchainLabs/prysm/issues/16696) - 2026-04-19
+* [Issue] [Proactively pull late payloads via RPC](https://github.com/OffchainLabs/prysm/issues/16704) - 2026-04-20
+* [Issue] [Payload envelope processing copies state unnecessarily](https://github.com/OffchainLabs/prysm/issues/16703) - 2026-04-20
+* [Issue] [Unnecessary state copy when populating NSC from a cached state](https://github.com/OffchainLabs/prysm/issues/16702) - 2026-04-20
+* [Issue] [State-diff save path bypasses the state cache](https://github.com/OffchainLabs/prysm/issues/16701) - 2026-04-20
+* [Issue] [State defrag is in hot path of receive block](https://github.com/OffchainLabs/prysm/issues/16700) - 2026-04-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 ## Q1 2026

@@ -156,6 +156,30 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Remove joc from sync actions](https://github.com/NethermindEth/nethermind/pull/11236#pullrequestreview-4135555596) - 2026-04-19
 * [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11239#pullrequestreview-4135556905) - 2026-04-19
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11238#pullrequestreview-4135555980) - 2026-04-19
+* [Review] [Review on: test(snap): dispose AccountRangeMessage in snap tests](https://github.com/NethermindEth/nethermind/pull/11244#pullrequestreview-4137834257) - 2026-04-20
+* [Pull Request] [Disconnect on unknown protocol message type](https://github.com/NethermindEth/nethermind/pull/11266) - 2026-04-20
+* [Review] [Review on: Disconnect on unknown protocol message type](https://github.com/NethermindEth/nethermind/pull/11266#pullrequestreview-4144019240) - 2026-04-20
+* [Review] [Review on: Break on regular message before status receival](https://github.com/NethermindEth/nethermind/pull/11262#pullrequestreview-4143587347) - 2026-04-20
+* [Review] [Review on: Break on unknown receipts; ignore unknown blocks](https://github.com/NethermindEth/nethermind/pull/11263#pullrequestreview-4143573223) - 2026-04-20
+* [Review] [Review on: Optimize EvmMemory](https://github.com/NethermindEth/nethermind/pull/11247#pullrequestreview-4138168420) - 2026-04-20
+* [Review] [Review on: chore(zkevm): Remove unnecessary zkEVM conditions](https://github.com/NethermindEth/nethermind/pull/11255#pullrequestreview-4141593631) - 2026-04-20
+* [Review] [Review on: Allow `HistoryPruner` to be callable via decorator](https://github.com/NethermindEth/nethermind/pull/11098#pullrequestreview-4138979986) - 2026-04-20
+* [Review] [Review on: feat: add `StateComposition` plugin — real-time state metrics with incremental tracking](https://github.com/NethermindEth/nethermind/pull/10995#pullrequestreview-4141037199) - 2026-04-20
+* [Review] [Review on: HistoryPruner: self-bootstrap in TryPruneHistory instead of relying on SyncServer](https://github.com/NethermindEth/nethermind/pull/11254#pullrequestreview-4141408145) - 2026-04-20
+* [Pull Request] [refactor(test): de-duplicate StateComposition tests](https://github.com/NethermindEth/nethermind/pull/11256) - 2026-04-20
+* [Review] [Review on: fix(merge): allow lower finalized FCUs and add Paris engine pyspec coverage](https://github.com/NethermindEth/nethermind/pull/11259#pullrequestreview-4141386169) - 2026-04-20
+* [Review] [Review on: Optimize EVM stack](https://github.com/NethermindEth/nethermind/pull/11230#pullrequestreview-4138111551) - 2026-04-20
+* [Review] [Review on: Refactor DB migrations to use DI](https://github.com/NethermindEth/nethermind/pull/11242#pullrequestreview-4138062644) - 2026-04-20
+* [Review] [Review on: fix build - BenchmarkDotNet Version](https://github.com/NethermindEth/nethermind/pull/11253#pullrequestreview-4139911936) - 2026-04-20
+* [Review] [Review on: removes MaxFeePerGas for eth_estimateGas ](https://github.com/NethermindEth/nethermind/pull/11192#pullrequestreview-4138174829) - 2026-04-20
+* [Review] [Review on: ci(hive): remove build-block-from-mempool from known failures](https://github.com/NethermindEth/nethermind/pull/11250#pullrequestreview-4139201016) - 2026-04-20
+* [Pull Request] [ci(claude-review): drop concurrency group](https://github.com/NethermindEth/nethermind/pull/11251) - 2026-04-20
+* [Review] [Review on: TransactionResult Extensibility Improvements](https://github.com/NethermindEth/nethermind/pull/11243#pullrequestreview-4137847866) - 2026-04-20
+* [Review] [Review on: perf(trie): tune BulkSet parallelism and dispatch for storage-flush workloads](https://github.com/NethermindEth/nethermind/pull/11241#pullrequestreview-4138059163) - 2026-04-20
+* [Review] [Review on: feat(logging): add DebugError/DebugWarn helpers with Kind property for Seq](https://github.com/NethermindEth/nethermind/pull/11157#pullrequestreview-4138132255) - 2026-04-20
+* [Commit] [ci(claude-review): drop concurrency group (#11251)](https://github.com/NethermindEth/nethermind/commit/32c431f483453a80899e032e493602e60439efe9) - 2026-04-20
+* [Commit] [test(sync): fix flaky StateSyncFeedTests timeout handling (#11226)](https://github.com/NethermindEth/nethermind/commit/f460322d911b877008af685f85c041cb1b7d0a20) - 2026-04-20
+* [Commit] [ci: Auto-run Claude review and gate merges on verdict (#11150)](https://github.com/NethermindEth/nethermind/commit/a84a82424052dff3b3fc89dcea428a53539d75e6) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 ## Q1 2026

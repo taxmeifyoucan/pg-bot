@@ -57,6 +57,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [fixing wrong path name in execution payload bid api](https://github.com/OffchainLabs/prysm/pull/16690) - 2026-04-17
 * [Commit] [Validator block v4 (#16594)](https://github.com/OffchainLabs/prysm/commit/495056625e4598ca654562a4807a68a178c33c85) - 2026-04-17
 * [Commit] [fixing wrong path name in execution payload bid api (#16690)](https://github.com/OffchainLabs/prysm/commit/c298c504ef754144850c508b5c2613dd92f43dc3) - 2026-04-17
+* [Review] [Review on: Add BAL, slot pre-compile, and engine-api implementations](https://github.com/OffchainLabs/prysm/pull/16687#pullrequestreview-4142954345) - 2026-04-20
+* [Pull Request] [stateless block v4](https://github.com/OffchainLabs/prysm/pull/16699) - 2026-04-20
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

@@ -88,8 +88,23 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Fix some syntax warnings (#5121)](https://github.com/ethereum/consensus-specs/commit/02425c637311c056df6b392419eb17eda61c92f5) - 2026-04-17
 * [Review] [Review on: Update dependency ruff to v0.15.11](https://github.com/ethereum/consensus-specs/pull/5131#pullrequestreview-4136939216) - 2026-04-20
 * [Review] [Review on: Update actions/upload-artifact action to v7.0.1](https://github.com/ethereum/consensus-specs/pull/5130#pullrequestreview-4136937663) - 2026-04-20
+* [Pull Request] [Define deprecated containers](https://github.com/ethereum/consensus-specs/pull/5142) - 2026-04-20
+* [Review] [Review on: Add compliance testing support for Gloas](https://github.com/ethereum/consensus-specs/pull/5107#pullrequestreview-4143622538) - 2026-04-20
+* [Pull Request] [Move deposit contract to new repo](https://github.com/ethereum/consensus-specs/pull/5137) - 2026-04-20
+* [Pull Request] [Deprecate functions for previous upgrades](https://github.com/ethereum/consensus-specs/pull/5139) - 2026-04-20
+* [Review] [Review on: Remove incorrect anchor seed for payload votes](https://github.com/ethereum/consensus-specs/pull/5135#pullrequestreview-4140955947) - 2026-04-20
+* [Review] [Review on: Update inclusion list deadlines](https://github.com/ethereum/consensus-specs/pull/5138#pullrequestreview-4141237096) - 2026-04-20
+* [Review] [Review on: Add note about withdrawal deduction in gloas](https://github.com/ethereum/consensus-specs/pull/5128#pullrequestreview-4140942179) - 2026-04-20
+* [Review] [Review on: Call `_build_invalid_envelope` with proper overwrite](https://github.com/ethereum/consensus-specs/pull/5133#pullrequestreview-4140855076) - 2026-04-20
+* [Review] [Review on: Fix the comptests test_gen failure due to #5094 update](https://github.com/ethereum/consensus-specs/pull/5134#pullrequestreview-4140617244) - 2026-04-20
+* [Review] [Review on: Speed up fork choice tests](https://github.com/ethereum/consensus-specs/pull/5136#pullrequestreview-4140599411) - 2026-04-20
+* [Review] [Review on: Update astral-sh/setup-uv action to v8.1.0](https://github.com/ethereum/consensus-specs/pull/5132#pullrequestreview-4140102625) - 2026-04-20
+* [Commit] [Deprecate functions for previous upgrades (#5139)](https://github.com/ethereum/consensus-specs/commit/4c708402deb8d2c5bc90b412022867e2da5dc398) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
+
+[ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
+* [Review] [Review on: feat: add Zig bindings](https://github.com/ethereum/c-kzg-4844/pull/641#pullrequestreview-4143043773) - 2026-04-20
 ## Q1 2026
 
 

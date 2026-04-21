@@ -13,6 +13,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [Feature/parallel txs codehash](https://github.com/NethermindEth/nethermind/pull/11158) - 2026-04-15
 * [Pull Request] [Feature/parallel tx fix](https://github.com/NethermindEth/nethermind/pull/11200) - 2026-04-17
+* [Pull Request] [Feature/parallel txs fixes](https://github.com/NethermindEth/nethermind/pull/11261) - 2026-04-20
+* [Pull Request] [Feature/parallel txs fixes](https://github.com/NethermindEth/nethermind/pull/11252) - 2026-04-20
 ## Q1 2026
 
 

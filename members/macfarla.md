@@ -36,6 +36,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Remove unitTest split support from update-test-reports workflow](https://github.com/besu-eth/besu/pull/10162#pullrequestreview-4047936036) - 2026-04-02
 * [Issue] [remove holesky network references](https://github.com/besu-eth/besu/issues/10161) - 2026-04-02
 * [Commit] [add block number (corresponding to blockhash) to admin_peers (#10163)](https://github.com/besu-eth/besu/commit/8f6a654d159cfe44270721eb9591b2c1055277b5) - 2026-04-02
+* [Review] [Review on: Increase disconnect await timeout in flaky P2P rejection tests](https://github.com/besu-eth/besu/pull/10267#pullrequestreview-4137214211) - 2026-04-20
+* [Issue] [implement new RPC method eth_getStorageValues](https://github.com/besu-eth/besu/issues/10282) - 2026-04-21
+* [Issue] [rename InvalidSystemCallAddressException](https://github.com/besu-eth/besu/issues/10281) - 2026-04-21
+* [Commit] [SystemCallProcessor: remove duplicate logging (#10152)](https://github.com/besu-eth/besu/commit/570bc9f9c2f85bef4a276c6e39c3e896747989ca) - 2026-04-21
 ## Q1 2026
 
 

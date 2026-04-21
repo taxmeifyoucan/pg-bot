@@ -17,6 +17,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Pull Request] [Remove pre-EIP-8 RLPx handshake support](https://github.com/besu-eth/besu/pull/10257) - 2026-04-17
 * [Review] [Review on: Reject Status with mismatched protocolVersion vs layout](https://github.com/besu-eth/besu/pull/10241#pullrequestreview-4125728218) - 2026-04-17
 * [Commit] [remove pre EIP8 handshake support (#10257)](https://github.com/besu-eth/besu/commit/d2032017bb3b8cb215a97303980a1e4a643f7180) - 2026-04-17
+* [Pull Request] [Header download progress](https://github.com/besu-eth/besu/pull/10275) - 2026-04-20
+* [Review] [Review on: Header download progress](https://github.com/besu-eth/besu/pull/10275#pullrequestreview-4138562079) - 2026-04-20
 ## Q1 2026
 
 

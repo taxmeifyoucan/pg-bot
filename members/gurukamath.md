@@ -8,6 +8,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: refactor(specs): make `State` fork agnostic](https://github.com/ethereum/execution-specs/pull/2381#pullrequestreview-4139628168) - 2026-04-20
 ## Q1 2026
 
 

@@ -14,6 +14,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: core, eth/protocols/snap: Snap/2 Protocol + BAL Serving](https://github.com/ethereum/go-ethereum/pull/34083#pullrequestreview-4058178276) - 2026-04-04
 
+* [Pull Request] [core/rawdb: clarify ReadLastPivotNumber comment](https://github.com/ethereum/go-ethereum/pull/34773) - 2026-04-20
+* [Commit] [core/rawdb: clarify ReadLastPivotNumber comment (#34773)](https://github.com/ethereum/go-ethereum/commit/e447a2696de71d9d6c56664a9e7c87ac6077f178) - 2026-04-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8189: Use RLP empty str placeholder, add bytes parameter to GetBlockAccessLists](https://github.com/ethereum/EIPs/pull/11498) - 2026-04-09
 * [Commit] [Update EIP-8189: Use RLP empty str placeholder, add bytes parameter to GetBlockAccessLists](https://github.com/ethereum/EIPs/commit/3c8f89d1d24ed8b8fa5c47648d220e99b1ea0bbf) - 2026-04-09
@@ -22,6 +24,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-7976: clarify token abstraction](https://github.com/ethereum/EIPs/commit/15e4f96ccd6a2e9d5dd307a52be1d4e60ec6eed1) - 2026-04-15
 * [Pull Request] [Update EIP-7928: Change uint16 block access index to uint64 and clarify CL-side](https://github.com/ethereum/EIPs/pull/11535) - 2026-04-17
 * [Commit] [Update EIP-7928: Change uint16 block access index to uint64 and clarify CL-side](https://github.com/ethereum/EIPs/commit/5ba661a10afbfd4b2f66ee9cd7480678b435e9e3) - 2026-04-19
+* [Pull Request] [Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550) - 2026-04-20
+* [Commit] [Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/commit/645099785a50a0c9eb568496fffc2a8978b3e9f4) - 2026-04-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11
@@ -30,6 +34,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [feat(tests): add test for worst-case prefetcher performance (#2657)](https://github.com/ethereum/execution-specs/commit/132c09d48bce13d063cbaee5e490b13fa63726c6) - 2026-04-15
 
 * [Pull Request] [feat(specs,tests): EIP-7928 - Update BAL index to uint64](https://github.com/ethereum/execution-specs/pull/2713) - 2026-04-18
+* [Pull Request] [feat(specs,tests): EIP-7928 - Change block access list index to uint32](https://github.com/ethereum/execution-specs/pull/2731) - 2026-04-20
+* [Commit] [feat(spec-specs, tests): EIP-7928 - Update BAL index to uint64 (#2713)](https://github.com/ethereum/execution-specs/commit/554bd418ba77f543940ca3b460c365c575eb72bd) - 2026-04-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use `engine_getPayloadV6`](https://github.com/ethereum/consensus-specs/pull/5123) - 2026-04-17
 * [Commit] [Use `engine_getPayloadV6` (#5123)](https://github.com/ethereum/consensus-specs/commit/81c27174232bedc50f71c2c4b78b07e2951252cd) - 2026-04-17

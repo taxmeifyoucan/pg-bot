@@ -30,6 +30,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: docs(specs): add Specs section and rehome top-level docs](https://github.com/ethereum/execution-specs/pull/2677#pullrequestreview-4107833320) - 2026-04-14
 * [Issue] [Move `REFUND_AUTH_PER_EXISTING_ACCOUNT` and `TX_MAX_GAS_LIMIT` with other gas constants](https://github.com/ethereum/execution-specs/issues/2680) - 2026-04-14
 * [Issue] [Fix spurious diffs introduced in #2396](https://github.com/ethereum/execution-specs/issues/2681) - 2026-04-14
+* [Commit] [feat(doc): add directory listings to py modules (#2658)](https://github.com/ethereum/execution-specs/commit/e8e9c3813c2f35b9d45b05ee580cff0936a0123d) - 2026-04-20
 ## Q1 2026
 
 

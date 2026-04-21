@@ -23,6 +23,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: feat(tests): stateful test filling for benchmark tests](https://github.com/ethereum/execution-specs/pull/2637#pullrequestreview-4117737570) - 2026-04-16
 * [Pull Request] [fix(benchmarks): fix `test_sload_bloated_prefetch_miss` and `test_sload_bloated_multi_contract` in execute remote filler](https://github.com/ethereum/execution-specs/pull/2688) - 2026-04-15
 * [Review] [Review on: feat(spec-specs, tests): EIP-8037 - zero execution state gas on top-level failure](https://github.com/ethereum/execution-specs/pull/2689#pullrequestreview-4136699256) - 2026-04-19
+* [Review] [Review on: feat(spec-specs, tests): EIP-8037 - 0 to x to 0 SSTORE refunds to state gas](https://github.com/ethereum/execution-specs/pull/2698#pullrequestreview-4136945971) - 2026-04-20
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4083109528) - 2026-04-09
 
@@ -33,6 +34,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-8070: Rename protocol version to eth/72 and fix typos](https://github.com/ethereum/EIPs/pull/11524#pullrequestreview-4111286656) - 2026-04-15
 * [Review] [Review on: Add EIP: Withdrawal credentials preregistration](https://github.com/ethereum/EIPs/pull/11450#pullrequestreview-4111865315) - 2026-04-15
 * [Review] [Review on: Add EIP: EVMification](https://github.com/ethereum/EIPs/pull/11432#pullrequestreview-4123441883) - 2026-04-16
+* [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4144151782) - 2026-04-20
+* [Review] [Review on: Add EIP: State Tiering by Write Age](https://github.com/ethereum/EIPs/pull/11390#pullrequestreview-4143991387) - 2026-04-20
+* [Review] [Review on: Update EIP-8037: add per-dimension block gas limit check](https://github.com/ethereum/EIPs/pull/11536#pullrequestreview-4137085410) - 2026-04-20
 ## Q1 2026
 
 

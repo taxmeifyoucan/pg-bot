@@ -18,6 +18,7 @@ Github: [@leolara](https://github.com/leolara)
 * [Commit] [fix(test-plugins-filler): aggregate --verify-traces results across xdist workers (#2664)](https://github.com/ethereum/execution-specs/commit/64dc4ac9f2c5a52bde5a01c2023ee0225420fd4d) - 2026-04-15
 * [Pull Request] [feat(scripts): use dynamic addresses in ported static tests](https://github.com/ethereum/execution-specs/pull/2695) - 2026-04-16
 * [Pull Request] [fix(plugins/transition_tool): tolerate missing trace file for rejected txs](https://github.com/ethereum/execution-specs/pull/2709) - 2026-04-17
+* [Commit] [feat(test-client-clis): tolerate missing trace file for rejected txs (#2709)](https://github.com/ethereum/execution-specs/commit/464f61d45f1d903562c4924a1a487c0df4247ad7) - 2026-04-20
 ## Q1 2026
 
 

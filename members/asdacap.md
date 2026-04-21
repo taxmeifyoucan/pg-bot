@@ -92,6 +92,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(trie): tune BulkSet parallelism and dispatch for storage-flush workloads](https://github.com/NethermindEth/nethermind/pull/11241) - 2026-04-19
 * [Review] [Review on: perf(trie): tune BulkSet parallelism and dispatch for storage-flush workloads](https://github.com/NethermindEth/nethermind/pull/11241#pullrequestreview-4135576456) - 2026-04-19
 * [Commit] [perf(state): avoid copy on BulkSet via ArrayPoolList ownership transfer (#11240)](https://github.com/NethermindEth/nethermind/commit/436c65bbc31a6a434a79be0bc54ca39a6126577b) - 2026-04-19
+* [Pull Request] [feat(state): persist FlatLayout and refuse mismatched restarts](https://github.com/NethermindEth/nethermind/pull/11271) - 2026-04-21
+* [Pull Request] [fix(db): wait for in-flight timer callback in DbMetricsUpdater.Dispose](https://github.com/NethermindEth/nethermind/pull/11270) - 2026-04-21
+* [Pull Request] [Store TotalDifficulty in a skip-indexed block info store](https://github.com/NethermindEth/nethermind/pull/11249) - 2026-04-20
+* [Review] [Review on: Fix flaky tests in PruningScenariosTests](https://github.com/NethermindEth/nethermind/pull/11248#pullrequestreview-4138646446) - 2026-04-20
+* [Review] [Review on: test(sync): fix flaky StateSyncFeedTests timeout handling](https://github.com/NethermindEth/nethermind/pull/11226#pullrequestreview-4138418775) - 2026-04-20
+* [Pull Request] [refactor(bal): replace sorted collections with plain List<T>](https://github.com/NethermindEth/nethermind/pull/11246) - 2026-04-20
+* [Commit] [Refactor DB migrations to use DI (#11242)](https://github.com/NethermindEth/nethermind/commit/42c551f4aba4bf3ab03889c6d35e7a065e3ba0a7) - 2026-04-20
+* [Commit] [perf(trie): tune BulkSet parallelism and dispatch for storage-flush workloads (#11241)](https://github.com/NethermindEth/nethermind/commit/21910a055260d65c1fa4123ed45355740d6c101e) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

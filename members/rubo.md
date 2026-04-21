@@ -47,6 +47,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore: Change `codecov/project` status (#11227)](https://github.com/NethermindEth/nethermind/commit/20d83484cb54ae232509debadba29246b7c98473) - 2026-04-17
 * [Review] [Review on: ZiskGuest: update bflat to v17.1.0 image (GVM improvements)](https://github.com/NethermindEth/nethermind/pull/11235#pullrequestreview-4135198283) - 2026-04-18
 * [Review] [Review on: ZiskGuest: enable stacktrace data to facilitate possible GVM resolution](https://github.com/NethermindEth/nethermind/pull/11234#pullrequestreview-4135174198) - 2026-04-18
+* [Pull Request] [chore(zkevm): Remove unnecessary zkEVM conditions](https://github.com/NethermindEth/nethermind/pull/11255) - 2026-04-20
+* [Commit] [chore(zkevm): Remove unnecessary zkEVM conditions (#11255)](https://github.com/NethermindEth/nethermind/commit/bc0da0e723abe36e8f1c8216259481c6189469c9) - 2026-04-20
 ## Q1 2026
 
 

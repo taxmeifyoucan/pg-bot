@@ -30,6 +30,12 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [add bal check during block processing and block building](https://github.com/besu-eth/besu/pull/10250) - 2026-04-16
 * [Commit] [enable bal parallelization for all blocks and not only head (#10234)](https://github.com/besu-eth/besu/commit/226a8f9abc424d8cf14613a9f1f584eda4663170) - 2026-04-16
 * [Review] [Review on: Enforce EIP-7928 BAL item budget per transaction in processing and mining](https://github.com/besu-eth/besu/pull/10250#pullrequestreview-4129744876) - 2026-04-17
+
+* [Pull Request] [Change block access list index to uint32](https://github.com/besu-eth/besu/pull/10279) - 2026-04-20
+* [Review] [Review on: Enforce EIP-7928 BAL item budget per transaction in processing and mining](https://github.com/besu-eth/besu/pull/10250#pullrequestreview-4138930949) - 2026-04-20
+* [Commit] [Change block access list index to uint32 (#10279)](https://github.com/besu-eth/besu/commit/a942f4987fde422865115b625c68287393c683e1) - 2026-04-20
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026
 
 

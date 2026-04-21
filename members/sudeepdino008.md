@@ -91,6 +91,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [commitment, execctx: fix InsertBlocks failure during block catch-up (#20546)](https://github.com/erigontech/erigon/commit/ad7ea1e537da9d0424a034510106d6b01172ba84) - 2026-04-14
 * [Issue] [make StateRootVerifyByHistory faster](https://github.com/erigontech/erigon/issues/20612) - 2026-04-17
 * [Pull Request] [membatch: delegate HistorySeek and HistoryRange to db](https://github.com/erigontech/erigon/pull/20637) - 2026-04-18
+* [Review] [Review on: tests: use t.Context() instead of context.Background() in tests](https://github.com/erigontech/erigon/pull/20688#pullrequestreview-4140023107) - 2026-04-20
+* [Pull Request] [integrity, stagedsync: cap state collation at block snapshots progress](https://github.com/erigontech/erigon/pull/20680) - 2026-04-20
+* [Pull Request] [db/state: propagate tx.Unwind error up](https://github.com/erigontech/erigon/pull/20681) - 2026-04-20
+* [Pull Request] [stage_exec: more modes of testing](https://github.com/erigontech/erigon/pull/20682) - 2026-04-20
+* [Commit] [integrity, stagedsync: cap state collation at block snapshots progress (#20680)](https://github.com/erigontech/erigon/commit/9c527c57c4a870bd02a2b9a1f30924efb1ab6f24) - 2026-04-20
 ## Q1 2026
 
 

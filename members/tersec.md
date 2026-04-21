@@ -59,6 +59,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Fix add missing enr](https://github.com/status-im/nimbus-eth2/pull/8273#pullrequestreview-4136145379) - 2026-04-19
 * [Review] [Review on: Fix Gloas clearance](https://github.com/status-im/nimbus-eth2/pull/8091#pullrequestreview-4136003854) - 2026-04-19
 * [Pull Request] [ensure some consensus spec not-actually-constants aren't used](https://github.com/status-im/nimbus-eth2/pull/8288) - 2026-04-19
+* [Review] [Review on: Add discovery custody filter ability.](https://github.com/status-im/nimbus-eth2/pull/8263#pullrequestreview-4137054586) - 2026-04-20
+* [Review] [Review on: clarify some naming conventions](https://github.com/status-im/nimbus-eth2/pull/8287#pullrequestreview-4139198716) - 2026-04-20
+* [Review] [Review on: nix: allow configuring LOG_LEVEL for builds](https://github.com/status-im/nimbus-eth2/pull/8296#pullrequestreview-4139232220) - 2026-04-20
+* [Pull Request] [ensure newPayload/fcU enforce timeouts regardless of responses](https://github.com/status-im/nimbus-eth2/pull/8294) - 2026-04-20
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

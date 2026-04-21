@@ -170,6 +170,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [ci: make assertoor_glamsterdam_test non-gating](https://github.com/erigontech/erigon/pull/20642) - 2026-04-18
 * [Commit] [cmd/utils, p2p/sentry: honor explicit empty --bootnodes (#20630)](https://github.com/erigontech/erigon/commit/d32e562db8769248c5efb0bf094f472b770f3732) - 2026-04-18
 * [Commit] [ci: make assertoor_glamsterdam_test non-gating (#20642)](https://github.com/erigontech/erigon/commit/04e11fbe80e61696b13033e10f711c6dc37b26b5) - 2026-04-18
+* [Pull Request] [cl/block_collector: don't wipe post-gap rows and skip duplicates in Flush](https://github.com/erigontech/erigon/pull/20700) - 2026-04-20
+* [Pull Request] [tools/create-ramdisk: retry when chocolatey silently fails on Windows](https://github.com/erigontech/erigon/pull/20695) - 2026-04-20
+* [Pull Request] [engineapi, execmodule: support reorg to head's ancestor (execution-apis#770)](https://github.com/erigontech/erigon/pull/20697) - 2026-04-20
+* [Pull Request] [Yperbasis/test20691](https://github.com/erigontech/erigon/pull/20692) - 2026-04-20
+* [Pull Request] [cmd/utils: gate chain defaults by --networkid for P2P discovery](https://github.com/erigontech/erigon/pull/20694) - 2026-04-20
+* [Pull Request] [execution/vm: preserve EIP-4788 no-op-when-not-deployed syscall semantics](https://github.com/erigontech/erigon/pull/20691) - 2026-04-20
+* [Review] [Review on: update test version](https://github.com/erigontech/erigon/pull/20623#pullrequestreview-4138507845) - 2026-04-20
+* [Review] [Review on: chore: Widen Block Access List index to uint32 (EIP-7928)](https://github.com/erigontech/erigon/pull/20679#pullrequestreview-4141193377) - 2026-04-20
+* [Review] [Review on: cherry-pick: from release/3.4 to main](https://github.com/erigontech/erigon/pull/20658#pullrequestreview-4138490490) - 2026-04-20
+* [Review] [Review on: state: convert standalone inverted index slices to fixed-size arrays](https://github.com/erigontech/erigon/pull/20396#pullrequestreview-4138611219) - 2026-04-20
+* [Review] [Review on: txpool: propagate sender info read errors in validateTx](https://github.com/erigontech/erigon/pull/20239#pullrequestreview-4139208911) - 2026-04-20
+* [Review] [Review on: Log: replace additional structure for json by typed fields](https://github.com/erigontech/erigon/pull/20340#pullrequestreview-4138522682) - 2026-04-20
+* [Commit] [tools/create-ramdisk: retry when chocolatey silently fails on Windows (#20695)](https://github.com/erigontech/erigon/commit/9b7bc72c4775e56b3d65bfcf483bfcf3f4352bc4) - 2026-04-20
+* [Commit] [execution/state: preserve versionedReads for destroyed accounts in FinalizeTx (#20660)](https://github.com/erigontech/erigon/commit/10e9c8057cbe1f964591ed29d6f71285cd5e0eca) - 2026-04-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

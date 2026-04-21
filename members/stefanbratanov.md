@@ -28,6 +28,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Defer payload processing to next block (part 1)](https://github.com/Consensys/teku/pull/10575) - 2026-04-17
 * [Review] [Review on: Defer payload processing to next block (part 1)](https://github.com/Consensys/teku/pull/10575#pullrequestreview-4129384185) - 2026-04-17
 * [Review] [Review on: Defer payload processing to next block (part 1)](https://github.com/Consensys/teku/pull/10575#pullrequestreview-4136529077) - 2026-04-19
+* [Pull Request] [Gloas changes for v1.7.0-alpha.5](https://github.com/Consensys/teku/pull/10581) - 2026-04-20
+* [Review] [Review on: Gloas changes for v1.7.0-alpha.5](https://github.com/Consensys/teku/pull/10581#pullrequestreview-4143034405) - 2026-04-20
+* [Issue] [Identify issue when running gossip reference tests](https://github.com/Consensys/teku/issues/10578) - 2026-04-20
+* [Issue] [Make ethspecify consistent](https://github.com/Consensys/teku/issues/10580) - 2026-04-20
+* [Commit] [Defer payload processing to next block (#10575)](https://github.com/Consensys/teku/commit/be38db77b84b757437a601eb084e8eaa0fcc1e36) - 2026-04-20
+
+[libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
+* [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 ## Q1 2026
 
 

@@ -47,6 +47,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Enforce EIP-7928 BAL item budget per transaction in processing and mining](https://github.com/besu-eth/besu/pull/10250#pullrequestreview-4129232981) - 2026-04-17
 * [Pull Request] [Update Gradle plugin for Besu plugin development to 0.2.0](https://github.com/besu-eth/besu/pull/10263) - 2026-04-17
 * [Commit] [Layered txpool: enable balance check by default (#10175)](https://github.com/besu-eth/besu/commit/6529db03800189ac00f7d15c7d4eb1af8a78f893) - 2026-04-17
+* [Pull Request] [Enforce that blob_versioned_hashes field len matches number of blobs](https://github.com/besu-eth/besu/pull/10278) - 2026-04-20
+* [Review] [Review on: Fix updateForkChoice ignoring setNewHead failure](https://github.com/besu-eth/besu/pull/10224#pullrequestreview-4138966311) - 2026-04-20
+* [Issue] [Flaky: PeerDiscoveryAgentV5Test > shouldEvictPeerWhenPermissionsRevoked()](https://github.com/besu-eth/besu/issues/10280) - 2026-04-20
+* [Commit] [Update Gradle plugin for Besu plugin development to 0.2.0 (#10263)](https://github.com/besu-eth/besu/commit/52a8db8db07441c6f346e2cdd768354b962eefb1) - 2026-04-20
+* [Commit] [Include slotNumber in payloadIdentifier generation (#10242)](https://github.com/besu-eth/besu/commit/af1b318c7164c740bc9a8fd3e62e4c22cca9a95a) - 2026-04-20
 ## Q1 2026
 
 
