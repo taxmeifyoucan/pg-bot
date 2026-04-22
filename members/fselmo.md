@@ -37,11 +37,13 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(tests): prepare `test_scenarios` and `test_all_opcodes` for EIP-8037](https://github.com/ethereum/execution-specs/pull/2727#pullrequestreview-4140858879) - 2026-04-20
 * [Review] [Review on: feat(specs,tests): EIP-7928 - Update BAL index to uint64](https://github.com/ethereum/execution-specs/pull/2713#pullrequestreview-4140950113) - 2026-04-20
 * [Commit] [refactor: use uint32 instead of uint64 for block access index (#2730)](https://github.com/ethereum/execution-specs/commit/97c13c14cce1ff6955ef3a9e6dd6b1c74e4ccc57) - 2026-04-20
+* [Review] [Review on: fix(tooling): `just static` codespell finds 200+ typos for `json_infra/fixtures`, skip it](https://github.com/ethereum/execution-specs/pull/2706#pullrequestreview-4149278757) - 2026-04-21
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14
 * [Commit] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1` (#34722)](https://github.com/ethereum/go-ethereum/commit/c9fea44616560d42c4a67704c1cb79a1445741f8) - 2026-04-14
 
+* [Pull Request] [cmd/evm/internal/t8ntool: stream t8n alloc to ease heavy memory cases](https://github.com/ethereum/go-ethereum/pull/34785) - 2026-04-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141218984) - 2026-04-20
 ## Q1 2026

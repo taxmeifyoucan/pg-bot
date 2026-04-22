@@ -100,11 +100,18 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Speed up fork choice tests](https://github.com/ethereum/consensus-specs/pull/5136#pullrequestreview-4140599411) - 2026-04-20
 * [Review] [Review on: Update astral-sh/setup-uv action to v8.1.0](https://github.com/ethereum/consensus-specs/pull/5132#pullrequestreview-4140102625) - 2026-04-20
 * [Commit] [Deprecate functions for previous upgrades (#5139)](https://github.com/ethereum/consensus-specs/commit/4c708402deb8d2c5bc90b412022867e2da5dc398) - 2026-04-20
+* [Pull Request] [Remove docs directory](https://github.com/ethereum/consensus-specs/pull/5144) - 2026-04-21
+* [Review] [Review on: Add sliced test generation for comptests](https://github.com/ethereum/consensus-specs/pull/5126#pullrequestreview-4150509931) - 2026-04-21
+* [Review] [Review on: Modify comptests to use pytest](https://github.com/ethereum/consensus-specs/pull/5143#pullrequestreview-4150162666) - 2026-04-21
+* [Review] [Review on: Add executable gossip validation functions for altair](https://github.com/ethereum/consensus-specs/pull/5033#pullrequestreview-4148401205) - 2026-04-21
+* [Commit] [Move deposit contract to new repo (#5137)](https://github.com/ethereum/consensus-specs/commit/af4a77680b216c7142e3c2dc2195b42b8aea04f2) - 2026-04-21
+* [Commit] [Add executable gossip validation functions for altair (#5033)](https://github.com/ethereum/consensus-specs/commit/5dac261c78eda16b383f7b6d832495880bdd015c) - 2026-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Review] [Review on: feat: add Zig bindings](https://github.com/ethereum/c-kzg-4844/pull/641#pullrequestreview-4143043773) - 2026-04-20
+* [Review] [Review on: Add zig bindings](https://github.com/ethereum/c-kzg-4844/pull/641#pullrequestreview-4150960650) - 2026-04-21
 ## Q1 2026
 
 

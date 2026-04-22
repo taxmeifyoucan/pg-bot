@@ -32,6 +32,14 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Fix slasher OOM](https://github.com/sigp/lighthouse/pull/9141) - 2026-04-16
 * [Review] [Review on: Fix slasher OOM](https://github.com/sigp/lighthouse/pull/9141#pullrequestreview-4125029046) - 2026-04-16
 * [Review] [Review on: Fix slasher OOM](https://github.com/sigp/lighthouse/pull/9141#pullrequestreview-4135610076) - 2026-04-19
+* [Pull Request] [Remove more mentions of "pending"/"full" states](https://github.com/sigp/lighthouse/pull/9156) - 2026-04-22
+* [Review] [Review on: Remove more mentions of "pending"/"full" states](https://github.com/sigp/lighthouse/pull/9156#pullrequestreview-4151495288) - 2026-04-22
+* [Pull Request] [Gloas HTTP API tests passing](https://github.com/sigp/lighthouse/pull/9154) - 2026-04-21
+* [Review] [Review on: Re-issue `ForkchoiceUpdate` based on updated `PayloadStatus`](https://github.com/sigp/lighthouse/pull/9102#pullrequestreview-4151220912) - 2026-04-21
+* [Review] [Review on: Gloas engine api updates](https://github.com/sigp/lighthouse/pull/9150#pullrequestreview-4145719835) - 2026-04-21
+* [Pull Request] [Revert Gloas API changes from 9092](https://github.com/sigp/lighthouse/pull/9151) - 2026-04-21
+* [Review] [Review on: Remove `test_logger` feature](https://github.com/sigp/lighthouse/pull/9125#pullrequestreview-4145712852) - 2026-04-21
+* [Issue] [Delete `/eth/v1/builder/states/{state_id}/expected_withdrawals` API](https://github.com/sigp/lighthouse/issues/9158) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

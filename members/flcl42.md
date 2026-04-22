@@ -66,6 +66,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Implement dynamic EIP-8037 costs](https://github.com/NethermindEth/nethermind/pull/11257) - 2026-04-20
 * [Review] [Review on: test(sync): fix flaky StateSyncFeedTests timeout handling](https://github.com/NethermindEth/nethermind/pull/11226#pullrequestreview-4138640633) - 2026-04-20
 * [Issue] [Implement bal-devnet-4](https://github.com/NethermindEth/nethermind/issues/11258) - 2026-04-20
+* [Review] [Review on: style: enforce additional IDE style rules as warnings](https://github.com/NethermindEth/nethermind/pull/11283#pullrequestreview-4149646375) - 2026-04-21
+* [Pull Request] [Add missing solution dependencies](https://github.com/NethermindEth/nethermind/pull/11286) - 2026-04-21
+* [Review] [Review on: Disconnect on unknown protocol message type](https://github.com/NethermindEth/nethermind/pull/11266#pullrequestreview-4146130043) - 2026-04-21
+* [Commit] [Add missing solution dependencies (#11286)](https://github.com/NethermindEth/nethermind/commit/ec604f3c2ebdb78e9a14f8665c264ffe64726e31) - 2026-04-21
+* [Commit] [Break on regular message before status receival (#11262)](https://github.com/NethermindEth/nethermind/commit/a4165b2904d6f4d4be1b366e14e0be2ced2745b0) - 2026-04-21
+* [Commit] [Break on unknown receipts; ignore unknown blocks (#11263)](https://github.com/NethermindEth/nethermind/commit/c88a7a982e519eacc8f0aad5f7042cd852146472) - 2026-04-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

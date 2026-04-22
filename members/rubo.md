@@ -49,6 +49,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ZiskGuest: enable stacktrace data to facilitate possible GVM resolution](https://github.com/NethermindEth/nethermind/pull/11234#pullrequestreview-4135174198) - 2026-04-18
 * [Pull Request] [chore(zkevm): Remove unnecessary zkEVM conditions](https://github.com/NethermindEth/nethermind/pull/11255) - 2026-04-20
 * [Commit] [chore(zkevm): Remove unnecessary zkEVM conditions (#11255)](https://github.com/NethermindEth/nethermind/commit/bc0da0e723abe36e8f1c8216259481c6189469c9) - 2026-04-20
+* [Review] [Review on: Additional BAL hive tests](https://github.com/NethermindEth/nethermind/pull/11285#pullrequestreview-4150446023) - 2026-04-21
+* [Review] [Review on: ci(expb): live streaming, SSE metrics, summary reports, and dotTrace profiling](https://github.com/NethermindEth/nethermind/pull/11268#pullrequestreview-4150878730) - 2026-04-21
+* [Pull Request] [chore: Update packages](https://github.com/NethermindEth/nethermind/pull/11290) - 2026-04-21
+* [Review] [Review on: perf: disable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/11289#pullrequestreview-4149235831) - 2026-04-21
+* [Review] [Review on: Add missing solution dependencies](https://github.com/NethermindEth/nethermind/pull/11286#pullrequestreview-4148907993) - 2026-04-21
+* [Commit] [chore: Update packages (#11290)](https://github.com/NethermindEth/nethermind/commit/7c2e1cbad164bfc33f7a4653453d441bae28ac4c) - 2026-04-21
 ## Q1 2026
 
 

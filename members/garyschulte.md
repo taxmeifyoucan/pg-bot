@@ -18,6 +18,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Review] [Review on: Feature/preimage store rebased](https://github.com/besu-eth/besu/pull/10208#pullrequestreview-4083308572) - 2026-04-09
 * [Commit] [Feature add block import trace to eth simulate (#10211)](https://github.com/besu-eth/besu/commit/3e74feeaea00909ee30b85fe55443c691fcdf451) - 2026-04-14
 * [Review] [Review on: BlockSimulator fix](https://github.com/besu-eth/besu/pull/10251#pullrequestreview-4124510063) - 2026-04-16
+* [Review] [Review on: remove KNOWN_ISSUES.md ](https://github.com/besu-eth/besu/pull/10300#pullrequestreview-4150876303) - 2026-04-21
 ## Q1 2026
 
 

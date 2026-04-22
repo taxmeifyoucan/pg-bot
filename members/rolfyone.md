@@ -32,6 +32,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [   Added POST /eth/v1/beacon/pool/payload_attestations endpoint (#10534)](https://github.com/Consensys/teku/commit/e18002a6652761bb53af484458206a4143fd09a3) - 2026-04-17
 * [Review] [Review on: Make vote tracking slot-aware and add backward-compatible vote update plumbing (3 of 7)](https://github.com/Consensys/teku/pull/10573#pullrequestreview-4136619856) - 2026-04-19
 * [Review] [Review on: Bump brace-expansion, gh-pages and eslint in /.openapidoc](https://github.com/Consensys/teku/pull/10540#pullrequestreview-4136995945) - 2026-04-20
+* [Review] [Review on: Make vote tracking slot-aware and add backward-compatible vote update plumbing (3 of 7)](https://github.com/Consensys/teku/pull/10573#pullrequestreview-4145989406) - 2026-04-21
+* [Pull Request] [⏺ Update 3rd party libraries](https://github.com/Consensys/teku/pull/10583) - 2026-04-21
+* [Review] [Review on: ⏺ Update 3rd party libraries](https://github.com/Consensys/teku/pull/10583#pullrequestreview-4144882802) - 2026-04-21
+* [Commit] [Update 3rd party libraries (#10583)](https://github.com/Consensys/teku/commit/a8a78fc4809ae8b80198c8c30b20c9fb2323c7cf) - 2026-04-21
 ## Q1 2026
 
 

@@ -53,6 +53,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [refactor: encapsulate state fetching in db provider](https://github.com/paradigmxyz/reth/pull/23656) - 2026-04-20
 * [Review] [Review on: refactor: encapsulate state fetching in db provider](https://github.com/paradigmxyz/reth/pull/23656#pullrequestreview-4141030891) - 2026-04-20
 * [Commit] [refactor: encapsulate state fetching in db provider (#23656)](https://github.com/paradigmxyz/reth/commit/e92af360aeb29d59b00f73d429139dd94714a658) - 2026-04-20
+* [Review] [Review on: refactor(provider): use overlay builders in historical state paths](https://github.com/paradigmxyz/reth/pull/23667#pullrequestreview-4149561359) - 2026-04-21
+* [Review] [Review on: fix(engine): let consensus impls control which errors are transient](https://github.com/paradigmxyz/reth/pull/23668#pullrequestreview-4149644242) - 2026-04-21
+* [Review] [Review on: chore(BAL): enable BAL building in evm](https://github.com/paradigmxyz/reth/pull/23575#pullrequestreview-4147607913) - 2026-04-21
+* [Review] [Review on: feat(bal): scaffold BAL store abstraction](https://github.com/paradigmxyz/reth/pull/23596#pullrequestreview-4146782598) - 2026-04-21
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

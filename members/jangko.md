@@ -27,6 +27,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Unify processTransaction and tx_packer](https://github.com/status-im/nimbus-eth1/pull/4148) - 2026-04-18
 * [Commit] [Unify processTransaction and tx_packer (#4148)](https://github.com/status-im/nimbus-eth1/commit/01949287dd581a11cd02f107d90e2477497d750f) - 2026-04-18
 * [Commit] [Implement eth_getStorageValues (#4146)](https://github.com/status-im/nimbus-eth1/commit/5341dd137d5e72bbe952c080c7fc23b9ee3dee6c) - 2026-04-18
+* [Pull Request] [bal-devnet-4](https://github.com/status-im/nimbus-eth1/pull/4158) - 2026-04-21
 ## Q1 2026
 
 

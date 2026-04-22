@@ -100,6 +100,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor(bal): replace sorted collections with plain List<T>](https://github.com/NethermindEth/nethermind/pull/11246) - 2026-04-20
 * [Commit] [Refactor DB migrations to use DI (#11242)](https://github.com/NethermindEth/nethermind/commit/42c551f4aba4bf3ab03889c6d35e7a065e3ba0a7) - 2026-04-20
 * [Commit] [perf(trie): tune BulkSet parallelism and dispatch for storage-flush workloads (#11241)](https://github.com/NethermindEth/nethermind/commit/21910a055260d65c1fa4123ed45355740d6c101e) - 2026-04-20
+* [Pull Request] [Add BAL warmup layer: HintBal, cache-gated ReadBalAsync, trie warmer integration](https://github.com/NethermindEth/nethermind/pull/11296) - 2026-04-22
+* [Pull Request] [feat: BAL recorder plugin — record and replay block access lists for prewarming benchmarks](https://github.com/NethermindEth/nethermind/pull/11276) - 2026-04-21
+* [Review] [Review on: feat: BAL recorder plugin — record and replay block access lists for prewarming benchmarks](https://github.com/NethermindEth/nethermind/pull/11276#pullrequestreview-4146700853) - 2026-04-21
+* [Review] [Review on: Additional BAL hive tests](https://github.com/NethermindEth/nethermind/pull/11285#pullrequestreview-4151484979) - 2026-04-22
+* [Review] [Review on: fix(hive): use 60M default gas limit for testing_buildBlockV1](https://github.com/NethermindEth/nethermind/pull/11292#pullrequestreview-4151477030) - 2026-04-22
+* [Pull Request] [perf(trie): fused BulkSet+Commit in a single descent](https://github.com/NethermindEth/nethermind/pull/11284) - 2026-04-21
+* [Pull Request] [perf(trie): skip TrieNode wrapping for extension children already unresolved to Hash256](https://github.com/NethermindEth/nethermind/pull/11273) - 2026-04-21
+* [Review] [Review on: perf(trie): skip TrieNode wrapping for extension children already unresolved to Hash256](https://github.com/NethermindEth/nethermind/pull/11273#pullrequestreview-4145967451) - 2026-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

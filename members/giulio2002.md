@@ -40,6 +40,8 @@ Team: Erigon
 
 * [Review] [Review on: cmd/utils, p2p/sentry: honor explicit empty --bootnodes](https://github.com/erigontech/erigon/pull/20630#pullrequestreview-4134146456) - 2026-04-18
 * [Review] [Review on: tools/create-ramdisk: retry when chocolatey silently fails on Windows](https://github.com/erigontech/erigon/pull/20695#pullrequestreview-4142344026) - 2026-04-20
+* [Review] [Review on: makefile: `solc` depend on `OPENZEPPELIN` ](https://github.com/erigontech/erigon/pull/20708#pullrequestreview-4150025902) - 2026-04-21
+* [Review] [Review on: parallel_exec: removing 1 spamming `Background files build` log](https://github.com/erigontech/erigon/pull/20706#pullrequestreview-4145415443) - 2026-04-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 ## Q1 2026

@@ -46,6 +46,7 @@ Team: Geth
 * [Pull Request] [eth/catalyst: allow reorging the head block to a parent](https://github.com/ethereum/go-ethereum/pull/34767) - 2026-04-20
 * [Review] [Review on: core/vm, eth, tests: introduce gas budget](https://github.com/ethereum/go-ethereum/pull/34712#pullrequestreview-4137903668) - 2026-04-20
 * [Review] [Review on: core: implement eip-7981: Increase Access List Cost](https://github.com/ethereum/go-ethereum/pull/34755#pullrequestreview-4137910021) - 2026-04-20
+* [Commit] [core: implement eip-7976: Increase Calldata Floor Cost (#34748)](https://github.com/ethereum/go-ethereum/commit/ac406c2fe752b0624c62f66095c9240ecec40078) - 2026-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

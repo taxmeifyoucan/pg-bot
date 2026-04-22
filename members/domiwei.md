@@ -25,6 +25,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 * [Review] [Review on: state: convert standalone inverted index slices to fixed-size arrays](https://github.com/erigontech/erigon/pull/20396#pullrequestreview-4136970695) - 2026-04-20
 * [Pull Request] [db/state: skip DB entries within file range in DomainLatestIterFile](https://github.com/erigontech/erigon/pull/20674) - 2026-04-20
+* [Review] [Review on: [wip] Revert "Revert "[r3.4] logger: avoid mutex contention""](https://github.com/erigontech/erigon/pull/20703#pullrequestreview-4151663268) - 2026-04-22
+* [Review] [Review on: [wip] Revert "Revert "logger: avoid mutex contention""](https://github.com/erigontech/erigon/pull/20702#pullrequestreview-4151659819) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

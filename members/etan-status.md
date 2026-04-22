@@ -45,6 +45,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: use justified rather than fcr for engine API safe block hash](https://github.com/status-im/nimbus-eth2/pull/8280#pullrequestreview-4126751696) - 2026-04-17
 * [Pull Request] [Deprecate access to ExecutionPayloadHeader from light client data](https://github.com/status-im/nimbus-eth2/pull/8297) - 2026-04-20
 * [Pull Request] [implement proposer preferences sending](https://github.com/status-im/nimbus-eth2/pull/8299) - 2026-04-20
+* [Pull Request] [Pass RuntimeConfig to light client fork migration helpers](https://github.com/status-im/nimbus-eth2/pull/8313) - 2026-04-21
+* [Pull Request] [Move light client helpers further down in the file](https://github.com/status-im/nimbus-eth2/pull/8309) - 2026-04-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

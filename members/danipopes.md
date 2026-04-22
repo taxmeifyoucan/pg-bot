@@ -205,6 +205,17 @@ Team: Reth
 * [Commit] [perf: specialize hot builtins for const inputs (#307)](https://github.com/paradigmxyz/revmc/commit/9345e6460a6276b6d7c5f0a6c5963e4c9c8042c9) - 2026-04-19
 * [Commit] [refactor: simplify RawEvmCompilerFn signature (#306)](https://github.com/paradigmxyz/revmc/commit/4a98421083351277104c8d904cfe532ea4ae7e67) - 2026-04-19
 * [Commit] [chore(scripts): rewrite shell scripts as Python (#305)](https://github.com/paradigmxyz/revmc/commit/f19adcd8fc11bad9103478fe2583038767b3359e) - 2026-04-19
+* [Pull Request] [perf: promote Gas struct to local alloca](https://github.com/paradigmxyz/revmc/pull/321) - 2026-04-21
+* [Pull Request] [perf: make op_info_map and make_map const](https://github.com/paradigmxyz/revmc/pull/322) - 2026-04-21
+* [Pull Request] [perf: always store gas before overflow check](https://github.com/paradigmxyz/revmc/pull/318) - 2026-04-21
+* [Pull Request] [feat: support injecting extra LLVM args via API or env var](https://github.com/paradigmxyz/revmc/pull/320) - 2026-04-21
+* [Pull Request] [perf: cache gas_params in EvmContext](https://github.com/paradigmxyz/revmc/pull/319) - 2026-04-21
+* [Commit] [feat: support injecting extra LLVM args via API or env var (#320)](https://github.com/paradigmxyz/revmc/commit/5c8f95084931dcfe19f9bf2fb9802d892fc83c63) - 2026-04-21
+* [Commit] [feat: add burntpix benchmark and unify execution paths (#316)](https://github.com/paradigmxyz/revmc/commit/17b3eef8f8e9dd533244aa7f8c1aa5eeddcffdce) - 2026-04-21
+* [Commit] [perf: cache gas_params in EvmContext (#319)](https://github.com/paradigmxyz/revmc/commit/bb3c5e69350f08af3b1b037261574a8ee6cd28c2) - 2026-04-21
+* [Commit] [fix: lazily build inst_lines in take_inst_lines](https://github.com/paradigmxyz/revmc/commit/c4619827f7a36d1a94192d6007c1576eb1567f41) - 2026-04-21
+* [Commit] [chore: update AGENTS.md](https://github.com/paradigmxyz/revmc/commit/bceb5e779961da08cbf8def2dfe294baffe42e2d) - 2026-04-21
+* [Commit] [perf: truncate to i64 before jumping to dynamic jump table (#317)](https://github.com/paradigmxyz/revmc/commit/326e6f84958477515bc35869f92ac45cf5e81632) - 2026-04-21
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -239,6 +250,20 @@ Team: Reth
 * [Commit] [refactor(interpreter): dedup account loading across host instructions (#3562)](https://github.com/bluealloy/revm/commit/11bd373376d285037b40ec154e28608642c0a766) - 2026-04-15
 * [Commit] [fix: opcode struct panics/safety (#3566)](https://github.com/bluealloy/revm/commit/df14277203f3b8c4a7b96dd8886ad8eeabb69f40) - 2026-04-15
 * [Commit] [perf(interpreter): separate instruction and gas tables (#3561)](https://github.com/bluealloy/revm/commit/d4b39c8532b7ea38193afd6b324ab9d8d8c51ad3) - 2026-04-20
+* [Pull Request] [refactor(primitives): add SpecId::NEXT, drop num_enum dependency](https://github.com/bluealloy/revm/pull/3593) - 2026-04-22
+* [Pull Request] [chore: enable and fix clippy::missing_const_for_fn](https://github.com/bluealloy/revm/pull/3592) - 2026-04-21
+* [Pull Request] [chore: missed clippy](https://github.com/bluealloy/revm/pull/3591) - 2026-04-21
+* [Pull Request] [perf: no alloc for empty accounts](https://github.com/bluealloy/revm/pull/3590) - 2026-04-21
+* [Pull Request] [perf: avoid cloning precompiles on warmup](https://github.com/bluealloy/revm/pull/3586) - 2026-04-21
+* [Review] [Review on: perf(interpreter): optimize MLOAD/MSTORE with direct u256 memory ops](https://github.com/bluealloy/revm/pull/3588#pullrequestreview-4148295828) - 2026-04-21
+* [Pull Request] [test: fix missed merge conflict](https://github.com/bluealloy/revm/pull/3587) - 2026-04-21
+* [Issue] [Make `Account::original_info` optional](https://github.com/bluealloy/revm/issues/3585) - 2026-04-21
+* [Issue] [Use optimized index type for transaction ID](https://github.com/bluealloy/revm/issues/3584) - 2026-04-21
+* [Issue] [Use optimized index type for account ID](https://github.com/bluealloy/revm/issues/3583) - 2026-04-21
+* [Issue] [Audit all #[allow(...)]](https://github.com/bluealloy/revm/issues/3582) - 2026-04-21
+* [Commit] [chore: missed clippy (#3591)](https://github.com/bluealloy/revm/commit/6226003c210e6aa01ef7cd9c0af282904cc5c412) - 2026-04-21
+* [Commit] [perf: avoid cloning precompiles on warmup (#3586)](https://github.com/bluealloy/revm/commit/c3fcc99a8b8c881969cc517e03a0b8018afa30bf) - 2026-04-21
+* [Commit] [test: fix missed merge conflict (#3587)](https://github.com/bluealloy/revm/commit/f55150aa4bd67c9ec8bc6e585f6d4f0ad14071e8) - 2026-04-21
 ## Q1 2026
 
 

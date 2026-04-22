@@ -36,6 +36,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [DO-NOT-MERGE] execution: implement EIP-7976 ](https://github.com/erigontech/erigon/pull/20613#pullrequestreview-4139797138) - 2026-04-20
 * [Commit] [claude: add a section about devnet specs in erigon-implement-eip skill (#20685)](https://github.com/erigontech/erigon/commit/c17602c77175ad4c2ac0143761f74d86448be03d) - 2026-04-20
 * [Commit] [claude: add skill for implementing an eip (#20672)](https://github.com/erigontech/erigon/commit/03d195cc8e3fdbf1ed3140f4b4e47059aff287a1) - 2026-04-20
+* [Review] [Review on: execution/stagedsync: gate BAL size check on Amsterdam](https://github.com/erigontech/erigon/pull/20717#pullrequestreview-4149531086) - 2026-04-21
+* [Review] [Review on: chore: Widen Block Access List index to uint32 (EIP-7928)](https://github.com/erigontech/erigon/pull/20679#pullrequestreview-4149584762) - 2026-04-21
+* [Pull Request] [execution-spec-tests: use develop v5.4.0 since stable doesnt have fusaka](https://github.com/erigontech/erigon/pull/20718) - 2026-04-21
+* [Pull Request] [ci: speedup hive eest consume-rlp by removing unnecessary NAT discovery](https://github.com/erigontech/erigon/pull/20715) - 2026-04-21
+* [Review] [Review on: execution/vm: preserve EIP-4788 no-op-when-not-deployed syscall semantics](https://github.com/erigontech/erigon/pull/20691#pullrequestreview-4144831076) - 2026-04-21
+* [Commit] [execution-spec-tests: use develop v5.4.0 since stable doesnt have fusaka (#20718)](https://github.com/erigontech/erigon/commit/fbae94b427c5092f39e1c6fb52d1879d88a6dfc6) - 2026-04-21
+* [Commit] [ci: speedup hive eest consume-rlp by removing unnecessary NAT discovery (#20715)](https://github.com/erigontech/erigon/commit/4effc11a7269abe4890e4bcf3005453e1ed992b9) - 2026-04-21
+* [Commit] [execution/tests: update eest fixtures to stable v5.4.0 (#20541)](https://github.com/erigontech/erigon/commit/adad10a33fd903376993603fd5fb53d75b8b281c) - 2026-04-21
+* [Commit] [claude: add hive eest consume-rlp to /hive-test skill (#20690)](https://github.com/erigontech/erigon/commit/80d4c3566d4ab0b627696a450678714352b46e0d) - 2026-04-21
 ## Q1 2026
 
 

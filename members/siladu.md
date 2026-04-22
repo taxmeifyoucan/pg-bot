@@ -56,6 +56,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] [Evmv2 v1 Stack Bridge](https://github.com/besu-eth/besu/pull/10274) - 2026-04-20
 * [Issue] [OutOfMemoryError during Sync](https://github.com/besu-eth/besu/issues/10283) - 2026-04-21
 * [Commit] [Increase disconnect await timeout in flaky P2P rejection tests (#10267)](https://github.com/besu-eth/besu/commit/cb40f8916b6df7b3e065efab6f55fa404a039e4e) - 2026-04-20
+* [Pull Request] [Add MulOperationV2](https://github.com/besu-eth/besu/pull/10291) - 2026-04-21
+* [Review] [Review on: Add MulOperationV2](https://github.com/besu-eth/besu/pull/10291#pullrequestreview-4147477537) - 2026-04-21
+* [Review] [Review on: Add ChaindId, Coinbase, Gaslimit and PrevRandao to EVM v2](https://github.com/besu-eth/besu/pull/10298#pullrequestreview-4151504799) - 2026-04-22
+* [Issue] [Upgrade execution-spec-tests to 5.4.0 and fix tests](https://github.com/besu-eth/besu/issues/10287) - 2026-04-21
+* [Commit] [EVMv2 AddOperationV2 (#10255)](https://github.com/besu-eth/besu/commit/11a4595883b644ecd8d86711a7fa58f03cb3b114) - 2026-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

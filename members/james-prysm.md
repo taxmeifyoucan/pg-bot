@@ -59,6 +59,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fixing wrong path name in execution payload bid api (#16690)](https://github.com/OffchainLabs/prysm/commit/c298c504ef754144850c508b5c2613dd92f43dc3) - 2026-04-17
 * [Review] [Review on: Add BAL, slot pre-compile, and engine-api implementations](https://github.com/OffchainLabs/prysm/pull/16687#pullrequestreview-4142954345) - 2026-04-20
 * [Pull Request] [stateless block v4](https://github.com/OffchainLabs/prysm/pull/16699) - 2026-04-20
+* [Review] [Review on: Add BAL, slot pre-compile, and engine-api implementations](https://github.com/OffchainLabs/prysm/pull/16687#pullrequestreview-4149432950) - 2026-04-21
+* [Review] [Review on: Cache random_bytes in compute_balance_weighted_selection](https://github.com/OffchainLabs/prysm/pull/16708#pullrequestreview-4148441198) - 2026-04-21
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

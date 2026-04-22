@@ -44,6 +44,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Gloas: also count weight from equivocating committee members when determining if head is weak](https://github.com/ChainSafe/lodestar/issues/9232) - 2026-04-18
 * [Issue] [Proposer reorg blocks if `is_proposer_equivocation`](https://github.com/ChainSafe/lodestar/issues/9231) - 2026-04-18
 * [Issue] [Update ssz dependency to v1.3.1](https://github.com/ChainSafe/lodestar/issues/9237) - 2026-04-20
+* [Pull Request] [feat: implement EIP-7843 and alpha.5 containers](https://github.com/ChainSafe/lodestar/pull/9254) - 2026-04-21
+* [Review] [Review on: feat: implement EIP-7843 and alpha.5 containers](https://github.com/ChainSafe/lodestar/pull/9254#pullrequestreview-4151644487) - 2026-04-22
+* [Commit] [feat: merge BAL into ePBS (#9226)](https://github.com/ChainSafe/lodestar/commit/0bc48d3b5424075199c15f1fcc6a31a31ee97fa6) - 2026-04-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 

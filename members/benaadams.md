@@ -90,6 +90,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Optimize EvmMemory (#11247)](https://github.com/NethermindEth/nethermind/commit/649843cda4e0ed80d5570753c59c75deaa8aee39) - 2026-04-20
 * [Commit] [fix(merge): allow lower finalized FCUs and add Paris engine pyspec coverage (#11259)](https://github.com/NethermindEth/nethermind/commit/8e80ae36b5a0a430a5d838ea279f8772d13d374d) - 2026-04-20
 * [Commit] [Fix flaky tests in PruningScenariosTests (#11248)](https://github.com/NethermindEth/nethermind/commit/425a2a3fe87fb3c95fb7ccebf3bc96f83c02013d) - 2026-04-20
+* [Pull Request] [Additional BAL hive tests](https://github.com/NethermindEth/nethermind/pull/11285) - 2026-04-21
+* [Review] [Review on: ci(expb): live streaming, SSE metrics, summary reports, and dotTrace profiling](https://github.com/NethermindEth/nethermind/pull/11268#pullrequestreview-4147967311) - 2026-04-21
+* [Review] [Review on: chore: Update packages](https://github.com/NethermindEth/nethermind/pull/11290#pullrequestreview-4150519548) - 2026-04-21
+* [Review] [Review on: perf: disable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/11289#pullrequestreview-4149225898) - 2026-04-21
+* [Review] [Review on: style: enforce additional IDE style rules as warnings](https://github.com/NethermindEth/nethermind/pull/11283#pullrequestreview-4149745751) - 2026-04-21
+* [Review] [Review on: `eth_call`, `eth_createAccessList`, `eth_estimateGas`, `debug_traceCall`, `debug_traceCallMany` : honour gasCap as default gas, remove block-gas-limit ceiling for RPC calls](https://github.com/NethermindEth/nethermind/pull/11282#pullrequestreview-4149379972) - 2026-04-21
+* [Commit] [Optimize EVM stack (#11230)](https://github.com/NethermindEth/nethermind/commit/70e0717eb3648c5a13ce831097d60ecfc7b90b1c) - 2026-04-21
+* [Commit] [Tell AGENTS versions of C# and .NET (#11272)](https://github.com/NethermindEth/nethermind/commit/d7e8cea9d273dc0bfb749a0466d4ee6471ba747e) - 2026-04-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

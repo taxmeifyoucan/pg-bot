@@ -150,6 +150,16 @@ Team: Reth
 * [Review] [Review on: chore(BAL): added bal boundary checking](https://github.com/paradigmxyz/reth/pull/23623#pullrequestreview-4139252993) - 2026-04-20
 * [Review] [Review on: chore(BAL): enabled bal building in ethereum payload](https://github.com/paradigmxyz/reth/pull/23597#pullrequestreview-4139234767) - 2026-04-20
 * [Commit] [fix(engine): align Amsterdam endpoint validation (#23625)](https://github.com/paradigmxyz/reth/commit/d577814eb1c3bbf6393448dcabd0d152ce45ccc4) - 2026-04-20
+* [Review] [Review on: chore(BAL): added parallelization and batch io flags](https://github.com/paradigmxyz/reth/pull/23663#pullrequestreview-4146436053) - 2026-04-21
+* [Review] [Review on: fix(engine): let consensus impls control which errors are transient](https://github.com/paradigmxyz/reth/pull/23668#pullrequestreview-4148997742) - 2026-04-21
+* [Pull Request] [fix(engine): configure invalid header cache hit eviction](https://github.com/paradigmxyz/reth/pull/23670) - 2026-04-21
+* [Pull Request] [refactor(consensus): unify opaque error helpers](https://github.com/paradigmxyz/reth/pull/23669) - 2026-04-21
+* [Review] [Review on: feat(bal): scaffold BAL store abstraction](https://github.com/paradigmxyz/reth/pull/23596#pullrequestreview-4146473476) - 2026-04-21
+* [Review] [Review on: chore(BAL): enabled bal building in ethereum payload](https://github.com/paradigmxyz/reth/pull/23597#pullrequestreview-4146549678) - 2026-04-21
+* [Review] [Review on: feat(p2p): optionally fetch BAL with full blocks](https://github.com/paradigmxyz/reth/pull/23629#pullrequestreview-4146381769) - 2026-04-21
+* [Review] [Review on: feat(net): add snap/2 wire helpers and messages](https://github.com/paradigmxyz/reth/pull/23611#pullrequestreview-4146234619) - 2026-04-21
+* [Review] [Review on: chore(BAL): added bal boundary checking](https://github.com/paradigmxyz/reth/pull/23623#pullrequestreview-4146164803) - 2026-04-21
+* [Commit] [refactor(consensus): unify opaque error helpers (#23669)](https://github.com/paradigmxyz/reth/commit/252fe42c54834286df840ab53d30befcfa1503ab) - 2026-04-21
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

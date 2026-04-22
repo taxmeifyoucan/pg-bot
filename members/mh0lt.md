@@ -86,6 +86,7 @@ Team: Erigon
 * [Commit] [db/state: restore empty tombstones on unwind and honor them in getLatestFromDb (#20627)](https://github.com/erigontech/erigon/commit/d593fd35361553f572b510f4698a49db82769bf9) - 2026-04-18
 * [Commit] [node/components/sentry: extract sentry component from backend.go (#20629)](https://github.com/erigontech/erigon/commit/e33b55911f0da9e9f2736feeef855cdde85354f7) - 2026-04-19
 * [Review] [Review on: execution/state: preserve versionedReads for destroyed accounts in FinalizeTx](https://github.com/erigontech/erigon/pull/20660#pullrequestreview-4138191578) - 2026-04-20
+* [Review] [Review on: db/state: preserve per-step unwind entries so Flush reverts every orphan](https://github.com/erigontech/erigon/pull/20710#pullrequestreview-4146654360) - 2026-04-21
 ## Q1 2026
 
 

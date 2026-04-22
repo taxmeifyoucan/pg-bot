@@ -19,6 +19,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [eth/downloader: drop peers sending invalid bodies or receipts](https://github.com/ethereum/go-ethereum/pull/34745) - 2026-04-17
 * [Pull Request] [eth/protocols, eth/downloader: allow skipping unavailable responses](https://github.com/ethereum/go-ethereum/pull/34746) - 2026-04-17
 * [Pull Request] [crypto/kzg4844: add cell-related functions](https://github.com/ethereum/go-ethereum/pull/34766) - 2026-04-20
+* [Pull Request] [eth/protocols: stop serving on unavailable responses](https://github.com/ethereum/go-ethereum/pull/34787) - 2026-04-21
+* [Review] [Review on: crypto/kzg4844: add cell-related functions](https://github.com/ethereum/go-ethereum/pull/34766#pullrequestreview-4150096584) - 2026-04-21
 ## Q1 2026
 
 

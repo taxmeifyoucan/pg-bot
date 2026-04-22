@@ -35,6 +35,9 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Define deprecated functions](https://github.com/ethereum/consensus-specs/pull/5105#pullrequestreview-4111858906) - 2026-04-15
 * [Pull Request] [Update inclusion list deadlines](https://github.com/ethereum/consensus-specs/pull/5138) - 2026-04-20
 * [Review] [Review on: Update inclusion list deadlines](https://github.com/ethereum/consensus-specs/pull/5138#pullrequestreview-4141402584) - 2026-04-20
+* [Review] [Review on: Move deposit contract to new repo](https://github.com/ethereum/consensus-specs/pull/5137#pullrequestreview-4149636232) - 2026-04-21
+* [Review] [Review on: Add executable gossip validation functions for altair](https://github.com/ethereum/consensus-specs/pull/5033#pullrequestreview-4145318575) - 2026-04-21
+* [Review] [Review on: Update inclusion list deadlines](https://github.com/ethereum/consensus-specs/pull/5138#pullrequestreview-4148803567) - 2026-04-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14
@@ -42,6 +45,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4120675668) - 2026-04-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8142: Make BiB modular](https://github.com/ethereum/EIPs/pull/11530) - 2026-04-16
+* [Commit] [Update EIP-8142: Make BiB modular](https://github.com/ethereum/EIPs/commit/9d3040cb3002e2181275be7fe5e1c8bf47412c09) - 2026-04-21
 ## Q1 2026
 
 

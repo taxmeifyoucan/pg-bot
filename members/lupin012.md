@@ -66,6 +66,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc:  fix three testing_buildBlockV1 hive test failures (#20698)](https://github.com/erigontech/erigon/commit/468a5940f178bf7e4363898ef85d251fe4b9dcab) - 2026-04-20
 * [Commit] [rpc: fix testing build block v1 according Hive Test (#20592)](https://github.com/erigontech/erigon/commit/9e324702a50a3e4488b33d3d9294a22c874d45e3) - 2026-04-20
 * [Commit] [update test version (#20623)](https://github.com/erigontech/erigon/commit/691a145b5e76b9c066cd7e1d606d54d8fb89f1ee) - 2026-04-20
+* [Pull Request] [rpc: txpool_content*() filter BlobTx as nethermind and Geth (for Hive test)](https://github.com/erigontech/erigon/pull/20719) - 2026-04-21
+* [Commit] [rpc: txpool_content*() filter BlobTx as nethermind and Geth (for Hive test) (#20719)](https://github.com/erigontech/erigon/commit/975b52e18b04d8a0eeec67b45def012de8c65fcd) - 2026-04-21
+* [Commit] [rpc: fix txpool_content/contentFrom/status hive test failures (#20699)](https://github.com/erigontech/erigon/commit/317b82e2553655a6b0dba6138145d14a49a00d07) - 2026-04-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

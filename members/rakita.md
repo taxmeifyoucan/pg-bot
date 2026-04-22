@@ -52,6 +52,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [refactor: thread reservoir through OOG constructors](https://github.com/bluealloy/revm/pull/3580) - 2026-04-17
 * [Commit] [refactor: thread reservoir through OOG constructors (#3580)](https://github.com/bluealloy/revm/commit/5cf2cc40f4fc9faf7aa10a066e8276911b1a9a88) - 2026-04-18
 * [Pull Request] [feat(gas): EIP-8037 issue #2 — 0→x→0 storage reservoir refill](https://github.com/bluealloy/revm/pull/3581) - 2026-04-20
+* [Pull Request] [refactor(gas): rename InitialAndFloorGas.initial_total_gas to regular_gas](https://github.com/bluealloy/revm/pull/3589) - 2026-04-21
+* [Review] [Review on: perf: avoid cloning precompiles on warmup](https://github.com/bluealloy/revm/pull/3586#pullrequestreview-4148340552) - 2026-04-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

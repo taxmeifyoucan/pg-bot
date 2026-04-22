@@ -52,6 +52,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #644 from ethpandaops/bbusa/fix-nimbusel-exec-time](https://github.com/ethpandaops/dora/commit/ea8b99d7ac0f548c4a3b5ead7453532143ffd595) - 2026-04-17
 * [Commit] [fix: detect nimbus-eth1 by new `Nimbus/` client version prefix](https://github.com/ethpandaops/dora/commit/b13726cc537d0d4589a92fb4db4261e6cdbd1593) - 2026-04-17
 * [Pull Request] [Bump go-eth2-client to ethpandaops master for v1.7.0-alpha.5](https://github.com/ethpandaops/dora/pull/649) - 2026-04-20
+* [Pull Request] [fix: only apply beaconapi.clientIndex filter when explicitly set](https://github.com/ethpandaops/dora/pull/652) - 2026-04-21
+* [Review] [Review on: add more download options to block details page](https://github.com/ethpandaops/dora/pull/650#pullrequestreview-4147766084) - 2026-04-21
+* [Pull Request] [fix: only apply beaconapi.clientIndex filter when explicitly set](https://github.com/ethpandaops/dora/pull/651) - 2026-04-21
+* [Review] [Review on: spec 1.7.0 alpha.5 + BAL UI](https://github.com/ethpandaops/dora/pull/648#pullrequestreview-4146501767) - 2026-04-21
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -61,6 +65,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Commit] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset (#16623)](https://github.com/OffchainLabs/prysm/commit/321828e775b7abf6607553ac878760af930eae8c) - 2026-04-14
 * [Pull Request] [Initialise ExecutionRequestsRoot and ParentExecutionRequests in gloasGenesisBlock](https://github.com/OffchainLabs/prysm/pull/16705) - 2026-04-20
+* [Pull Request] [fix(forkchoice): skip slot-start check for tree root node](https://github.com/OffchainLabs/prysm/pull/16707) - 2026-04-21
+* [Pull Request] [fix(engine): unmarshal slotNumber in ExecutionBundleGloas](https://github.com/OffchainLabs/prysm/pull/16706) - 2026-04-21
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112) - 2026-04-08
 
@@ -87,6 +93,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Switch go-eth2-client to ethpandaops/go-eth2-client v0.0.1](https://github.com/ethpandaops/assertoor/pull/158) - 2026-04-14
 * [Commit] [Merge pull request #154 from ethpandaops/dependabot/go_modules/dependencies-1abbae87ba](https://github.com/ethpandaops/assertoor/commit/80e94556e9fa07d6918b61b84f2f89d4c54dc527) - 2026-04-14
 * [Commit] [Switch go-eth2-client from attestantio fork to ethpandaops/go-eth2-client v0.0.1](https://github.com/ethpandaops/assertoor/commit/a9efec50cada45a82ebbebdb87d6b8b3af28497b) - 2026-04-14
+* [Pull Request] [build(deps): bump spamoor to pick up go-ethereum glamsterdam-devnet-0](https://github.com/ethpandaops/assertoor/pull/160) - 2026-04-21
+* [Pull Request] [Bump go-eth2-client to v0.1.0](https://github.com/ethpandaops/assertoor/pull/159) - 2026-04-21
+* [Commit] [Merge pull request #159 from ethpandaops/bump-go-eth2-client-0.1.0](https://github.com/ethpandaops/assertoor/commit/431e5ef03bc298b2e0855b2b268aa2bcade201d6) - 2026-04-21
+* [Commit] [Bump go-eth2-client to v0.1.0](https://github.com/ethpandaops/assertoor/commit/af06c8d1c6a2f965bc87d9f2f0bad59a2927dd1c) - 2026-04-21
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/lab/pull/432) - 2026-04-09
 * [Commit] [Merge pull request #432 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/lab/commit/c3be9674e52453b5788e377f0cbf8f508dd7073e) - 2026-04-09
@@ -108,6 +118,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
+* [Pull Request] [core/txpool: report actual 110% threshold in intrinsic gas error](https://github.com/ethereum/go-ethereum/pull/34782) - 2026-04-21
+* [Pull Request] [internal/telemetry: add gRPC transport for OTLP trace export](https://github.com/ethereum/go-ethereum/pull/33941) - 2026-04-21
+* [Commit] [internal/telemetry: add gRPC transport for OTLP trace export (#33941)](https://github.com/ethereum/go-ethereum/commit/f568ab9931167ecfaef8f9696dfd0d52a861f2fd) - 2026-04-21
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [Pin Docker base image to debian:trixie-slim; add ca-certificates](https://github.com/status-im/nimbus-eth2/pull/8310) - 2026-04-21
 ## Q1 2026
 
 

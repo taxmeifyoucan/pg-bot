@@ -18,6 +18,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: publish to maven-central as well as cloudsmith](https://github.com/Consensys/teku/pull/10576#pullrequestreview-4138499603) - 2026-04-20
 * [Review] [Review on: build: Update custom renderer coordinates for license reporter](https://github.com/Consensys/teku/pull/10577#pullrequestreview-4137078502) - 2026-04-20
 * [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/teku/pull/10516#pullrequestreview-4137228878) - 2026-04-20
+* [Pull Request] [build: skip CI checks on docs-only changes](https://github.com/Consensys/teku/pull/10585) - 2026-04-21
+* [Review] [Review on: build: skip CI checks on docs-only changes](https://github.com/Consensys/teku/pull/10585#pullrequestreview-4146475565) - 2026-04-21
+* [Pull Request] [Added .worktrees to .gitignore](https://github.com/Consensys/teku/pull/10584) - 2026-04-21
+* [Pull Request] [build: support long file names in TAR distribution repackaging](https://github.com/Consensys/teku/pull/10582) - 2026-04-21
+* [Commit] [build: skip CI checks on docs-only changes (#10585)](https://github.com/Consensys/teku/commit/93ed6e3ddd75ad8ee954213aee247db1a3a33e2e) - 2026-04-21
+* [Commit] [Added .worktrees to .gitignore (#10584)](https://github.com/Consensys/teku/commit/f782f0c315ab385eb4c9067b41fc0b9e81067d85) - 2026-04-21
+* [Commit] [build: support long file names in TAR distribution repackaging (#10582)](https://github.com/Consensys/teku/commit/f68d064a4bafda190d0ccebdbe10a0cdddfad3a2) - 2026-04-21
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
@@ -30,6 +37,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Upgrade Kotlin from 1.6.21 to 2.x](https://github.com/libp2p/jvm-libp2p/issues/458) - 2026-04-20
 * [Issue] [Gossip routing integration for partial messages](https://github.com/libp2p/jvm-libp2p/issues/456) - 2026-04-20
 * [Commit] [Fix ConnectionClosedException propagating to Netty event loop from MuxChannel.doWrite (#455)](https://github.com/libp2p/jvm-libp2p/commit/9445f0d331149374cd114aebaf98e0d91f5532da) - 2026-04-20
+* [Pull Request] [Wire per-topic partial-messages SubOpts flags (#444)](https://github.com/libp2p/jvm-libp2p/pull/460) - 2026-04-21
 ## Q1 2026
 
 

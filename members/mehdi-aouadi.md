@@ -37,6 +37,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [fetch execution payload on payload attestation](https://github.com/Consensys/teku/pull/10579) - 2026-04-20
 * [Review] [Review on: fetch execution payload on payload attestation](https://github.com/Consensys/teku/pull/10579#pullrequestreview-4141148142) - 2026-04-20
 * [Commit] [fetch execution payload on payload attestation (#10579)](https://github.com/Consensys/teku/commit/807b299cb1eb8c19450bcd8ada274370326b0726) - 2026-04-20
+* [Pull Request] [add execution payload historical sync](https://github.com/Consensys/teku/pull/10592) - 2026-04-21
+* [Review] [Review on: Gloas changes for v1.7.0-alpha.5](https://github.com/Consensys/teku/pull/10581#pullrequestreview-4147625981) - 2026-04-21
+* [Review] [Review on: Make availability checker NOOP for `on_Block` for Gloas](https://github.com/Consensys/teku/pull/10591#pullrequestreview-4147404355) - 2026-04-21
 ## Q1 2026
 
 

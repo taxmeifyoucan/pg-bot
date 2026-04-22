@@ -57,6 +57,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [perf(fork-choice): precompute per-chain attestation scores (FCR)](https://github.com/ChainSafe/lodestar/pull/9227) - 2026-04-17
 * [Review] [Review on: feat: trigger processExecutionPayload() once](https://github.com/ChainSafe/lodestar/pull/9223#pullrequestreview-4125802453) - 2026-04-17
 * [Commit] [feat: trigger processExecutionPayload() once (#9223)](https://github.com/ChainSafe/lodestar/commit/e341cdc61414e52420790a58c99881a873480d68) - 2026-04-20
+* [Pull Request] [feat: cache the last 2 PayloadEnvelopeInputs](https://github.com/ChainSafe/lodestar/pull/9249) - 2026-04-21
+* [Pull Request] [feat: gloas range sync](https://github.com/ChainSafe/lodestar/pull/9242) - 2026-04-21
+* [Review] [Review on: feat: gloas range sync](https://github.com/ChainSafe/lodestar/pull/9242#pullrequestreview-4146486483) - 2026-04-21
+* [Review] [Review on: feat: merge BAL into ePBS](https://github.com/ChainSafe/lodestar/pull/9226#pullrequestreview-4145978004) - 2026-04-21
+* [Review] [Review on: feat: add unknown payload envelope sync flow](https://github.com/ChainSafe/lodestar/pull/9241#pullrequestreview-4145876151) - 2026-04-21
+* [Pull Request] [fix: gate loadOtherState validators/balances preload behind opt-in](https://github.com/ChainSafe/lodestar/pull/9245) - 2026-04-21
+* [Review] [Review on: fix: gate loadOtherState validators/balances preload behind opt-in](https://github.com/ChainSafe/lodestar/pull/9245#pullrequestreview-4148375901) - 2026-04-21
+* [Commit] [fix: gate loadOtherState validators/balances preload behind opt-in (#9245)](https://github.com/ChainSafe/lodestar/commit/abc719ddc14b052765ca6e56a7e8d1bc53f86f0b) - 2026-04-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

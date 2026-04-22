@@ -76,6 +76,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [feat(sha256-air): add SHA-256 compression AIR crate](https://github.com/Plonky3/Plonky3/pull/1563) - 2026-04-17
 * [Review] [Review on: perf(interpolation): optimize barycentric weights via algebraic identity](https://github.com/Plonky3/Plonky3/pull/1553#pullrequestreview-4134708582) - 2026-04-18
 * [Review] [Review on: feat: bus-based cross-AIR interactions and lookup crate redesign](https://github.com/Plonky3/Plonky3/pull/1566#pullrequestreview-4136575733) - 2026-04-19
+* [Review] [Review on: air,batch-stark: show labels in constraint panic output](https://github.com/Plonky3/Plonky3/pull/1570#pullrequestreview-4150896049) - 2026-04-21
+* [Review] [Review on: Add debug shape checks](https://github.com/Plonky3/Plonky3/pull/1568#pullrequestreview-4146036243) - 2026-04-21
 ## Q1 2026
 
 

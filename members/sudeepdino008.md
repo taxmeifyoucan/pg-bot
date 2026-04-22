@@ -96,6 +96,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db/state: propagate tx.Unwind error up](https://github.com/erigontech/erigon/pull/20681) - 2026-04-20
 * [Pull Request] [stage_exec: more modes of testing](https://github.com/erigontech/erigon/pull/20682) - 2026-04-20
 * [Commit] [integrity, stagedsync: cap state collation at block snapshots progress (#20680)](https://github.com/erigontech/erigon/commit/9c527c57c4a870bd02a2b9a1f30924efb1ab6f24) - 2026-04-20
+* [Review] [Review on: recsplit: off-heap EliasFano build](https://github.com/erigontech/erigon/pull/20640#pullrequestreview-4146981588) - 2026-04-21
+* [Pull Request] [[wip] Bound integrity](https://github.com/erigontech/erigon/pull/20714) - 2026-04-21
+* [Pull Request] [cp: cap state collation at block snapshots progress](https://github.com/erigontech/erigon/pull/20701) - 2026-04-21
+* [Issue] [GetBlobs failed](https://github.com/erigontech/erigon/issues/20709) - 2026-04-21
 ## Q1 2026
 
 

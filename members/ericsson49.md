@@ -27,6 +27,8 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 * [Commit] [Add compliance testing support for Gloas (#5107)](https://github.com/ethereum/consensus-specs/commit/629dceddbf32fe7ce582b8b709cf8ab71adca6f5) - 2026-04-20
 * [Commit] [Fix the comptests test_gen failure due to #5094 (#5134)](https://github.com/ethereum/consensus-specs/commit/b29562e4825c63862e41592b16860ef3d6d9b538) - 2026-04-20
 * [Commit] [Speed up fork choice tests (#5136)](https://github.com/ethereum/consensus-specs/commit/c5d50e3e8cbfa2aaa1a8262b6052e2e6a61977e5) - 2026-04-20
+* [Pull Request] [Modify comptests to use pytest](https://github.com/ethereum/consensus-specs/pull/5143) - 2026-04-21
+* [Commit] [Add sliced test generation for comptests (#5126)](https://github.com/ethereum/consensus-specs/commit/ccc96eb9bf90e8ac94947efec4415be83a7de73d) - 2026-04-21
 ## Q1 2026
 
 

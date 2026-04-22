@@ -109,6 +109,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Investigate Goodbye response behavior](https://github.com/ChainSafe/lodestar/issues/9220) - 2026-04-15
 * [Review] [Review on: feat: merge BAL into ePBS](https://github.com/ChainSafe/lodestar/pull/9226#pullrequestreview-4128812414) - 2026-04-17
 * [Review] [Review on: feat: merge BAL into ePBS](https://github.com/ChainSafe/lodestar/pull/9226#pullrequestreview-4136245237) - 2026-04-19
+* [Review] [Review on: feat: cache the last 2 PayloadEnvelopeInputs](https://github.com/ChainSafe/lodestar/pull/9249#pullrequestreview-4149654964) - 2026-04-21
+* [Review] [Review on: feat: merge BAL into ePBS](https://github.com/ChainSafe/lodestar/pull/9226#pullrequestreview-4150894819) - 2026-04-21
+* [Review] [Review on: fix: revert anchor block PTC vote override](https://github.com/ChainSafe/lodestar/pull/9244#pullrequestreview-4146920757) - 2026-04-21
+* [Review] [Review on: fix: gate loadOtherState validators/balances preload behind opt-in](https://github.com/ChainSafe/lodestar/pull/9245#pullrequestreview-4149803987) - 2026-04-21
+* [Review] [Review on: fix: align SSE parent root with predicted proposer head](https://github.com/ChainSafe/lodestar/pull/9251#pullrequestreview-4149873436) - 2026-04-21
+* [Review] [Review on: chore(deps): bump fastify from 5.8.3 to 5.8.5](https://github.com/ChainSafe/lodestar/pull/9250#pullrequestreview-4149864738) - 2026-04-21
+* [Review] [Review on: fix: prevent seed state cache poisoning in loadState clone](https://github.com/ChainSafe/lodestar/pull/9246#pullrequestreview-4149815009) - 2026-04-21
+* [Issue] [Review when to send FCU in gloas](https://github.com/ChainSafe/lodestar/issues/9243) - 2026-04-21
+* [Commit] [feat: add cached PTC window to the state (#9211)](https://github.com/ChainSafe/lodestar/commit/9c8becae00bfb0a46fe217b39eff6955468d0702) - 2026-04-21
+* [Commit] [fix: use fork choice for parent payload status in block production (#9209)](https://github.com/ChainSafe/lodestar/commit/9fa9f08ef6837ffee69553350b0bc6c6bb2053e0) - 2026-04-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -131,6 +141,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Remove incorrect anchor seed for payload votes](https://github.com/ethereum/consensus-specs/pull/5135) - 2026-04-20
 * [Commit] [Remove incorrect anchor seed for payload votes (#5135)](https://github.com/ethereum/consensus-specs/commit/c7a0a852746d07e56d4784f9614abb9d4211c27f) - 2026-04-20
 * [Commit] [Add note about withdrawal deduction in gloas (#5128)](https://github.com/ethereum/consensus-specs/commit/48d5dd51ee028ddec0b1b6d8511aee161880ffa4) - 2026-04-20
+* [Review] [Review on: Update inclusion list deadlines](https://github.com/ethereum/consensus-specs/pull/5138#pullrequestreview-4148533558) - 2026-04-21
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

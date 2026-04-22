@@ -16,6 +16,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Fix ipv6 discovery (#202)](https://github.com/Consensys/discovery/commit/973e8e08c7e3f67c226b7451bdf08d2a3ae7b2d9) - 2026-04-01
 
 * [Review] [Review on: add renovate](https://github.com/Consensys/discovery/pull/206#pullrequestreview-4103243073) - 2026-04-14
+* [Pull Request] [reduce log level](https://github.com/Consensys/discovery/pull/216) - 2026-04-22
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/teku/pull/10516#pullrequestreview-4041785930) - 2026-04-01
 * [Review] [Review on: added executors for some alpha4 test cases](https://github.com/Consensys/teku/pull/10545#pullrequestreview-4048271089) - 2026-04-02
@@ -25,6 +26,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: add renovatebot and codeowners](https://github.com/Consensys/teku/pull/10538#pullrequestreview-4125103335) - 2026-04-16
 * [Review] [Review on: SingleBockProviderFulu with soft and hard limit for sampled blocks](https://github.com/Consensys/teku/pull/10533#pullrequestreview-4125832426) - 2026-04-17
 * [Commit] [Fix ipv6 discovery (#10516)](https://github.com/Consensys/teku/commit/bf348b7271f09fb3a89e9e0d6e08acf6cbf292a9) - 2026-04-20
+* [Pull Request] [increase memory allocation for netty to 64](https://github.com/Consensys/teku/pull/10593) - 2026-04-22
+* [Review] [Review on: build: skip CI checks on docs-only changes](https://github.com/Consensys/teku/pull/10585#pullrequestreview-4146687478) - 2026-04-21
+* [Review] [Review on: ⏺ Update 3rd party libraries](https://github.com/Consensys/teku/pull/10583#pullrequestreview-4144857247) - 2026-04-21
+* [Review] [Review on: Added .worktrees to .gitignore](https://github.com/Consensys/teku/pull/10584#pullrequestreview-4144934015) - 2026-04-21
+* [Review] [Review on: build: support long file names in TAR distribution repackaging](https://github.com/Consensys/teku/pull/10582#pullrequestreview-4144768605) - 2026-04-21
 ## Q1 2026
 
 

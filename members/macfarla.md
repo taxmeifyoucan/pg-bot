@@ -40,6 +40,21 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [implement new RPC method eth_getStorageValues](https://github.com/besu-eth/besu/issues/10282) - 2026-04-21
 * [Issue] [rename InvalidSystemCallAddressException](https://github.com/besu-eth/besu/issues/10281) - 2026-04-21
 * [Commit] [SystemCallProcessor: remove duplicate logging (#10152)](https://github.com/besu-eth/besu/commit/570bc9f9c2f85bef4a276c6e39c3e896747989ca) - 2026-04-21
+* [Review] [Review on: Header download progress](https://github.com/besu-eth/besu/pull/10275#pullrequestreview-4145195800) - 2026-04-21
+* [Review] [Review on: feat: implement eth_getStorageValues RPC method](https://github.com/besu-eth/besu/pull/10259#pullrequestreview-4145320828) - 2026-04-21
+* [Review] [Review on: Fix data race in SyncDurationMetrics timers map](https://github.com/besu-eth/besu/pull/10277#pullrequestreview-4151310749) - 2026-04-21
+* [Review] [Review on: fix: use non-zero exit code on disk-full shutdown](https://github.com/besu-eth/besu/pull/10254#pullrequestreview-4151297458) - 2026-04-21
+* [Review] [Review on: DebugOperationTracer #10115 - 10 : storage snapshot timing ](https://github.com/besu-eth/besu/pull/10176#pullrequestreview-4151278946) - 2026-04-21
+* [Review] [Review on: Fixed - logging cleanup for invalid blocks #10160](https://github.com/besu-eth/besu/pull/10180#pullrequestreview-4151008338) - 2026-04-21
+* [Pull Request] [remove KNOWN_ISSUES.md ](https://github.com/besu-eth/besu/pull/10300) - 2026-04-21
+* [Review] [Review on: feat(debug): add enableReturnData param and returnData field ](https://github.com/besu-eth/besu/pull/10172#pullrequestreview-4150865760) - 2026-04-21
+* [Review] [Review on: Enforce that blob_versioned_hashes field len matches number of blobs](https://github.com/besu-eth/besu/pull/10278#pullrequestreview-4144798538) - 2026-04-21
+* [Review] [Review on: Take empty block period seconds out of experimental](https://github.com/besu-eth/besu/pull/10264#pullrequestreview-4146335730) - 2026-04-21
+* [Pull Request] [[CHANGELOG] add unreleased section](https://github.com/besu-eth/besu/pull/10286) - 2026-04-21
+* [Issue] [txpool_content failing hive test due to lower case address output](https://github.com/besu-eth/besu/issues/10301) - 2026-04-22
+* [Issue] [new RPC method: eth_getTransactionBySenderAndNonce](https://github.com/besu-eth/besu/issues/10284) - 2026-04-21
+* [Issue] [Analysis: eth_capabilities RPC for implementation](https://github.com/besu-eth/besu/issues/10285) - 2026-04-21
+* [Commit] [[CHANGELOG] add unreleased section (#10286)](https://github.com/besu-eth/besu/commit/1feadbd53b1d8e218ce2f9a500471b8b31466f54) - 2026-04-21
 ## Q1 2026
 
 

@@ -34,6 +34,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Issue] [Make ethspecify consistent](https://github.com/Consensys/teku/issues/10580) - 2026-04-20
 * [Commit] [Defer payload processing to next block (#10575)](https://github.com/Consensys/teku/commit/be38db77b84b757437a601eb084e8eaa0fcc1e36) - 2026-04-20
 
+* [Review] [Review on: Gloas changes for v1.7.0-alpha.5](https://github.com/Consensys/teku/pull/10581#pullrequestreview-4145943508) - 2026-04-21
+* [Pull Request] [Make availability checker NOOP for `on_Block` for Gloas](https://github.com/Consensys/teku/pull/10591) - 2026-04-21
+* [Review] [Review on: Make vote tracking slot-aware and add backward-compatible vote update plumbing (3 of 7)](https://github.com/Consensys/teku/pull/10573#pullrequestreview-4146900798) - 2026-04-21
+* [Commit] [Gloas changes for v1.7.0-alpha.5 (#10581)](https://github.com/Consensys/teku/commit/cb3311334cb356bddd877ceeaf0545e7fbacf369) - 2026-04-21
+* [Commit] [Make availability checker NOOP for `on_Block` for Gloas (#10591)](https://github.com/Consensys/teku/commit/68027b52924bfde0d4ce93f365d3bbf360a483b5) - 2026-04-21
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 ## Q1 2026

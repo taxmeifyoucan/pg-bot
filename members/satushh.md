@@ -26,6 +26,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Fix duplicate peer entries in the blob sidecar fetch retry list during initial sync](https://github.com/OffchainLabs/prysm/pull/16682) - 2026-04-14
 * [Review] [Review on: Validator block v4](https://github.com/OffchainLabs/prysm/pull/16594#pullrequestreview-4122758276) - 2026-04-16
 * [Review] [Review on: Validator block v4](https://github.com/OffchainLabs/prysm/pull/16594#pullrequestreview-4130482603) - 2026-04-17
+* [Pull Request] [Cache random_bytes in compute_balance_weighted_selection](https://github.com/OffchainLabs/prysm/pull/16708) - 2026-04-21
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

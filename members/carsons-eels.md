@@ -16,6 +16,7 @@ Github: [@carsons-eels](https://github.com/carsons-eels)
 * [Review] [Review on: feat(tooling): align versioning scheme to 6.19.0](https://github.com/ethereum/execution-specs/pull/2464#pullrequestreview-4103524418) - 2026-04-14
 * [Pull Request] [refactor(spec-specs): add opcode gas constants](https://github.com/ethereum/execution-specs/pull/2396) - 2026-04-20
 * [Commit] [refactor(spec-specs): add opcode gas constants (#2396)](https://github.com/ethereum/execution-specs/commit/5502bd80829eabc5e6c585bdfbc7f55c69901f26) - 2026-04-20
+* [Review] [Review on: Replace `Uint(len(...))` with `ulen(...)`](https://github.com/ethereum/execution-specs/pull/2580#pullrequestreview-4146425360) - 2026-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489) - 2026-04-10
 

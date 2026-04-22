@@ -184,6 +184,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: Log: replace additional structure for json by typed fields](https://github.com/erigontech/erigon/pull/20340#pullrequestreview-4138522682) - 2026-04-20
 * [Commit] [tools/create-ramdisk: retry when chocolatey silently fails on Windows (#20695)](https://github.com/erigontech/erigon/commit/9b7bc72c4775e56b3d65bfcf483bfcf3f4352bc4) - 2026-04-20
 * [Commit] [execution/state: preserve versionedReads for destroyed accounts in FinalizeTx (#20660)](https://github.com/erigontech/erigon/commit/10e9c8057cbe1f964591ed29d6f71285cd5e0eca) - 2026-04-20
+* [Review] [Review on: state: convert standalone inverted index slices to fixed-size arrays](https://github.com/erigontech/erigon/pull/20396#pullrequestreview-4145975752) - 2026-04-21
+* [Pull Request] [execution/stagedsync: gate BAL size check on Amsterdam](https://github.com/erigontech/erigon/pull/20717) - 2026-04-21
+* [Review] [Review on: execution-spec-tests: use develop v5.4.0 since stable doesnt have fusaka](https://github.com/erigontech/erigon/pull/20718#pullrequestreview-4148202474) - 2026-04-21
+* [Review] [Review on: execution/abi: add MakeTopics boundary regression tests](https://github.com/erigontech/erigon/pull/20693#pullrequestreview-4145969268) - 2026-04-21
+* [Pull Request] [[r34] db/state: preserve per-step unwind entries so Flush reverts every orphan](https://github.com/erigontech/erigon/pull/20716) - 2026-04-21
+* [Pull Request] [db/state: preserve per-step unwind entries so Flush reverts every orphan](https://github.com/erigontech/erigon/pull/20710) - 2026-04-21
+* [Review] [Review on: execution/abi: add tuple invalid-name regression test](https://github.com/erigontech/erigon/pull/20696#pullrequestreview-4146067088) - 2026-04-21
+* [Review] [Review on: cl/block_collector: don't wipe post-gap rows and skip duplicates in Flush](https://github.com/erigontech/erigon/pull/20700#pullrequestreview-4146286783) - 2026-04-21
+* [Review] [Review on: execution/tests: update eest fixtures to stable v5.4.0](https://github.com/erigontech/erigon/pull/20541#pullrequestreview-4145999888) - 2026-04-21
+* [Issue] [[4/6 Execution] Unwind Execution log is misleading at batch boundaries — looks like a 54-block mainnet reorg but isn't](https://github.com/erigontech/erigon/issues/20713) - 2026-04-21
+* [Commit] [execution/stagedsync: gate BAL size check on Amsterdam (#20717)](https://github.com/erigontech/erigon/commit/7d4ae6002e5770687c9a2f2f8c16d45b0ca3a6ac) - 2026-04-21
+* [Commit] [db/state: preserve per-step unwind entries so Flush reverts every orphan (#20710)](https://github.com/erigontech/erigon/commit/2813e8fc3958128ae5bbb528297e4465caeaac27) - 2026-04-21
+* [Commit] [cmd/utils: gate chain defaults by --networkid for P2P discovery (#20694)](https://github.com/erigontech/erigon/commit/9ae70355cb5324a2b25eb3f877cf5c7dd6dcfa2c) - 2026-04-21
+* [Commit] [execution/vm: preserve EIP-4788 no-op-when-not-deployed syscall semantics (#20691)](https://github.com/erigontech/erigon/commit/139e4e378f8b9e6e851ced62940d9d96b27ed898) - 2026-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

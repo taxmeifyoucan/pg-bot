@@ -29,6 +29,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Implement BaseFee, blobBaseFee, CallValue, GasPrice, Balance and SelfBalance for EVM v2](https://github.com/besu-eth/besu/pull/10229) - 2026-04-13
 * [Review] [Review on: Implement BaseFee, blobBaseFee, CallValue, GasPrice, Balance and SelfBalance for EVM v2](https://github.com/besu-eth/besu/pull/10229#pullrequestreview-4112012082) - 2026-04-15
 * [Review] [Review on: Implement BaseFee, blobBaseFee, CallValue, GasPrice, Balance and SelfBalance for EVM v2](https://github.com/besu-eth/besu/pull/10229#pullrequestreview-4121503416) - 2026-04-16
+* [Pull Request] [Add ChaindId, Coinbase, Gaslimit and PrevRandao to EVM v2](https://github.com/besu-eth/besu/pull/10298) - 2026-04-21
+* [Review] [Review on: Refactor and fixes for JMH benchmarks](https://github.com/besu-eth/besu/pull/10269#pullrequestreview-4146601272) - 2026-04-21
+* [Review] [Review on: Replace Address.hashCache Guava LoadingCache with Caffeine](https://github.com/besu-eth/besu/pull/10235#pullrequestreview-4146878798) - 2026-04-21
+* [Review] [Review on: Add txsSelectionHighScore metric for per-included-tx selection time](https://github.com/besu-eth/besu/pull/10265#pullrequestreview-4147673004) - 2026-04-21
+* [Commit] [Implement BaseFee, blobBaseFee, CallValue, GasPrice, Balance and SelfBalance for EVM v2 (#10229)](https://github.com/besu-eth/besu/commit/131b1f7b8f2ec76460916f8975218e16f28d9f6a) - 2026-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

@@ -8,6 +8,11 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [test(tests-eip-8024): end-of-code stack underflow regression](https://github.com/ethereum/execution-specs/pull/2741) - 2026-04-21
 ## Q1 2026
 
 

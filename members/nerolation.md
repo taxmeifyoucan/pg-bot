@@ -26,6 +26,9 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-7928: Change uint16 block access index to uint64 and clarify CL-side](https://github.com/ethereum/EIPs/commit/5ba661a10afbfd4b2f66ee9cd7480678b435e9e3) - 2026-04-19
 * [Pull Request] [Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550) - 2026-04-20
 * [Commit] [Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/commit/645099785a50a0c9eb568496fffc2a8978b3e9f4) - 2026-04-20
+* [Pull Request] [Update EIP-8159: Correct empty bal response to 0x80 empty string](https://github.com/ethereum/EIPs/pull/11553) - 2026-04-21
+* [Review] [Review on: Update EIP-8189: Use RLP empty str placeholder, add bytes parameter to GetBlockAccessLists](https://github.com/ethereum/EIPs/pull/11498#pullrequestreview-4146841599) - 2026-04-21
+* [Commit] [Update EIP-8159: Correct empty bal response to 0x80 empty string](https://github.com/ethereum/EIPs/commit/dce42b99fe0f94423955e2d316fd1b8138e80291) - 2026-04-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11
@@ -39,6 +42,9 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use `engine_getPayloadV6`](https://github.com/ethereum/consensus-specs/pull/5123) - 2026-04-17
 * [Commit] [Use `engine_getPayloadV6` (#5123)](https://github.com/ethereum/consensus-specs/commit/81c27174232bedc50f71c2c4b78b07e2951252cd) - 2026-04-17
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Fix snap/2 BAL message wire format per EIP-8189](https://github.com/besu-eth/besu/pull/10289) - 2026-04-21
 ## Q1 2026
 
 

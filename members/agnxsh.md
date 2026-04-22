@@ -18,6 +18,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add batch deletion of columns with test](https://github.com/status-im/nimbus-eth2/pull/8283) - 2026-04-17
 * [Pull Request] [clarify some naming conventions](https://github.com/status-im/nimbus-eth2/pull/8287) - 2026-04-19
 * [Pull Request] [speedup block processing with batch verification](https://github.com/status-im/nimbus-eth2/pull/8302) - 2026-04-20
+* [Pull Request] [add batch validation path for column to speedup gossip validaiton](https://github.com/status-im/nimbus-eth2/pull/8314) - 2026-04-21
+* [Review] [Review on: speedup block processing with batch verification](https://github.com/status-im/nimbus-eth2/pull/8302#pullrequestreview-4145137617) - 2026-04-21
+* [Pull Request] [improve getBlobs flow and add metrics](https://github.com/status-im/nimbus-eth2/pull/8311) - 2026-04-21
 ## Q1 2026
 
 

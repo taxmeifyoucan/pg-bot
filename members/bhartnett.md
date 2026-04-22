@@ -28,6 +28,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Update docker base images to include updated RocksDB (#4144)](https://github.com/status-im/nimbus-eth1/commit/f2ad42dca544d60e73243678c6a86da7ed306390) - 2026-04-17
 * [Pull Request] [Update bal index type to uint64](https://github.com/status-im/nimbus-eth1/pull/4151) - 2026-04-20
 * [Commit] [Update bal index type to uint64 (#4151)](https://github.com/status-im/nimbus-eth1/commit/c7a238a4af1f4bd2928a1fe7ff972dbab8728837) - 2026-04-20
+* [Pull Request] [Update bal index type to uint32](https://github.com/status-im/nimbus-eth1/pull/4156) - 2026-04-21
+* [Commit] [Update bal index type to uint32 (#4156)](https://github.com/status-im/nimbus-eth1/commit/6a4d2b24529c4ee20109eda2168216fe74a81e00) - 2026-04-21
 ## Q1 2026
 
 

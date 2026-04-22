@@ -25,6 +25,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: Auto-run Claude review and gate merges on verdict](https://github.com/NethermindEth/nethermind/pull/11150#pullrequestreview-4129264347) - 2026-04-17
 * [Pull Request] [ci(expb): live streaming, SSE metrics, summary reports, and dotTrace profiling](https://github.com/NethermindEth/nethermind/pull/11268) - 2026-04-20
 * [Review] [Review on: Remove joc from sync actions](https://github.com/NethermindEth/nethermind/pull/11236#pullrequestreview-4140434397) - 2026-04-20
+* [Pull Request] [perf: disable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/11289) - 2026-04-21
+* [Review] [Review on: Add new default for gnosis and gnosis archive config](https://github.com/NethermindEth/nethermind/pull/11269#pullrequestreview-4145793128) - 2026-04-21
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

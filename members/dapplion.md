@@ -22,6 +22,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Gloas database pruning & beacon_chain tests](https://github.com/sigp/lighthouse/pull/8998#pullrequestreview-4086429147) - 2026-04-10
 * [Review] [Review on: Gloas database pruning & beacon_chain tests](https://github.com/sigp/lighthouse/pull/8998#pullrequestreview-4087037594) - 2026-04-10
 * [Review] [Review on: Make ExecutionHash not option in ForkChoiceParams](https://github.com/sigp/lighthouse/pull/8901#pullrequestreview-4101542046) - 2026-04-13
+* [Pull Request] [Gloas lookup sync](https://github.com/sigp/lighthouse/pull/9155) - 2026-04-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 ## Q1 2026

@@ -31,6 +31,10 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core/state: handle *bintrie.BinaryTrie in mustCopyTrie](https://github.com/ethereum/go-ethereum/pull/34758#pullrequestreview-4134725701) - 2026-04-18
 * [Review] [Review on: trie/bintrie: skip clean nodes in CollectNodes to reduce commit write amplification](https://github.com/ethereum/go-ethereum/pull/34754#pullrequestreview-4134114937) - 2026-04-18
 * [Review] [Review on: core/state: separate trie reader to mptReader and ubtReader](https://github.com/ethereum/go-ethereum/pull/34763#pullrequestreview-4139513684) - 2026-04-20
+* [Pull Request] [accounts/usbwallet: revert github.com/karalabe/hid to fix freebsd build](https://github.com/ethereum/go-ethereum/pull/34784) - 2026-04-21
+* [Review] [Review on: consensus, core, internal, miner: remove FinalizeAndAssemble](https://github.com/ethereum/go-ethereum/pull/34726#pullrequestreview-4150140754) - 2026-04-21
+* [Pull Request] [trie/bintrie: print todot path in binary](https://github.com/ethereum/go-ethereum/pull/34777) - 2026-04-21
+* [Commit] [trie/bintrie: print todot path in binary (#34777)](https://github.com/ethereum/go-ethereum/commit/c374e74ee189f1f3068cea41f676dd61dfa66209) - 2026-04-21
 ## Q1 2026
 
 

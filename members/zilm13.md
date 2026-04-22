@@ -24,6 +24,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Make vote tracking slot-aware and add backward-compatible vote update plumbing (3 of 7)](https://github.com/Consensys/teku/pull/10573#pullrequestreview-4130682201) - 2026-04-17
 * [Review] [Review on:    Added POST /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10534#pullrequestreview-4127057123) - 2026-04-17
 * [Review] [Review on: fetch execution payload on payload attestation](https://github.com/Consensys/teku/pull/10579#pullrequestreview-4139910528) - 2026-04-20
+* [Review] [Review on: Introduce a phase0 forkchoice model seam without changing behavior (4 of 7)](https://github.com/Consensys/teku/pull/10590#pullrequestreview-4148021703) - 2026-04-21
 ## Q1 2026
 
 

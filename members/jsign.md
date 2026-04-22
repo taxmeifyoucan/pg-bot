@@ -45,6 +45,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: Introduction of REST based + SSZ serialized `new-payload-with-witness`](https://github.com/ethereum/execution-apis/pull/773#pullrequestreview-4094049144) - 2026-04-11
 * [Review] [Review on: Introduction of REST based + SSZ serialized `new-payload-with-witness`](https://github.com/ethereum/execution-apis/pull/773#pullrequestreview-4106042648) - 2026-04-14
 * [Review] [Review on: Introduction of REST based + SSZ serialized `new-payload-with-witness`](https://github.com/ethereum/execution-apis/pull/773#pullrequestreview-4113032207) - 2026-04-15
+
+[eth-act/ere](https://github.com/eth-act/ere)
+* [Review] [Review on: fix: enable `rustls-tls` for `ere-server`](https://github.com/eth-act/ere/pull/338#pullrequestreview-4148779317) - 2026-04-21
 ## Q1 2026
 
 

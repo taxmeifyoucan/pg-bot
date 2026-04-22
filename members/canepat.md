@@ -21,6 +21,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Issue] [debug_executionWitness: collapse witness root mismatch at chain tip](https://github.com/erigontech/erigon/issues/20608) - 2026-04-16
 * [Review] [Review on: rpc: add call limits for eth_simulateV1](https://github.com/erigontech/erigon/pull/20232#pullrequestreview-4127617371) - 2026-04-17
 * [Review] [Review on: rpc:  fix three testing_buildBlockV1 hive test failures](https://github.com/erigontech/erigon/pull/20698#pullrequestreview-4143420591) - 2026-04-20
+* [Review] [Review on: rpc: txpool_content*() filter BlobTx as nethermind and Geth (for Hive test)](https://github.com/erigontech/erigon/pull/20719#pullrequestreview-4150707440) - 2026-04-21
+* [Review] [Review on: rpc: fix txpool_content/contentFrom/status hive test failures](https://github.com/erigontech/erigon/pull/20699#pullrequestreview-4148275699) - 2026-04-21
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [clients/erigon: enable graphql](https://github.com/ethereum/hive/pull/1439) - 2026-04-21
+* [Commit] [clients/erigon: enable graphql (#1439)](https://github.com/ethereum/hive/commit/322d44567697b628d60453a234fce4f253e3a79d) - 2026-04-21
 ## Q1 2026
 
 

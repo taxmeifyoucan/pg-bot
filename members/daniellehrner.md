@@ -57,6 +57,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [bal- devnet-4: Reenable dynamic costPerStateByte calculation](https://github.com/besu-eth/besu/pull/10260) - 2026-04-17
 * [Pull Request] [ engine_newPayload: introduce spec-driven composition infrastructure](https://github.com/besu-eth/besu/pull/10258) - 2026-04-17
 * [Review] [Review on: Change block access list index to uint32](https://github.com/besu-eth/besu/pull/10279#pullrequestreview-4142299086) - 2026-04-20
+* [Pull Request] [Add eip 7976 to bal-devnet-4](https://github.com/besu-eth/besu/pull/10296) - 2026-04-21
+* [Pull Request] [Add EIP-7981 to bal-devnet-4](https://github.com/besu-eth/besu/pull/10297) - 2026-04-21
+* [Pull Request] [Feat/reenable dynamic cpsb calculation](https://github.com/besu-eth/besu/pull/10295) - 2026-04-21
+* [Pull Request] [Reenable dynamic cpsb calculation on bal-devnet-4](https://github.com/besu-eth/besu/pull/10292) - 2026-04-21
+* [Pull Request] [Add EIP-7976 to bal-devnet-4](https://github.com/besu-eth/besu/pull/10290) - 2026-04-21
+* [Pull Request] [Merge main into bal-devnet-4](https://github.com/besu-eth/besu/pull/10293) - 2026-04-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

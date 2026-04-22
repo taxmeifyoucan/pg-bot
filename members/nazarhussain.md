@@ -17,6 +17,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add Zig peer manager module with NAPI bindings](https://github.com/ChainSafe/lodestar-z/pull/308) - 2026-04-07
 
 * [Review] [Review on: feat: multi-threaded bls for lodestar integration](https://github.com/ChainSafe/lodestar-z/pull/306#pullrequestreview-4101678074) - 2026-04-13
+* [Pull Request] [feat: use high level zapi dsl](https://github.com/ChainSafe/lodestar-z/pull/320) - 2026-04-21
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-4097078708) - 2026-04-13
 * [Review] [Review on: fix(prover): implement eth_getBlockNumber verified request handler](https://github.com/ChainSafe/lodestar/pull/9203#pullrequestreview-4097017101) - 2026-04-13

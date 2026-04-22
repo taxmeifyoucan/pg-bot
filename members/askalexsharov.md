@@ -291,6 +291,29 @@ Team: Erigon
 * [Review] [Review on: claude: add skill for implementing an eip](https://github.com/erigontech/erigon/pull/20672#pullrequestreview-4137568908) - 2026-04-20
 * [Issue] [experiment: systems-level shard layer above RecSplit buckets](https://github.com/erigontech/erigon/issues/20687) - 2026-04-20
 * [Commit] [cherry-pick: from release/3.4 to main (#20658)](https://github.com/erigontech/erigon/commit/1146652301d3624e352f8eeb5f4fcbc1dfedee89) - 2026-04-20
+* [Pull Request] [[wip] Revert "Revert "[r3.4] logger: avoid mutex contention""](https://github.com/erigontech/erigon/pull/20703) - 2026-04-21
+* [Pull Request] [test-hive.yml validation](https://github.com/erigontech/erigon/pull/20720) - 2026-04-22
+* [Pull Request] [[wip] Revert "Revert "logger: avoid mutex contention""](https://github.com/erigontech/erigon/pull/20702) - 2026-04-21
+* [Review] [Review on: build(deps): bump github/gh-aw from 0.43.7 to 0.68.3](https://github.com/erigontech/erigon/pull/20675#pullrequestreview-4151625302) - 2026-04-22
+* [Review] [Review on: build(deps): bump actions/upload-artifact from 4 to 7](https://github.com/erigontech/erigon/pull/20676#pullrequestreview-4151625066) - 2026-04-22
+* [Review] [Review on: build(deps): bump actions/cache from 4 to 5](https://github.com/erigontech/erigon/pull/20677#pullrequestreview-4151624603) - 2026-04-22
+* [Review] [Review on: build(deps): bump actions/github-script from 8.0.0 to 9.0.0](https://github.com/erigontech/erigon/pull/20678#pullrequestreview-4151624639) - 2026-04-22
+* [Review] [Review on: db/state: propagate tx.Unwind error up](https://github.com/erigontech/erigon/pull/20681#pullrequestreview-4151618368) - 2026-04-22
+* [Pull Request] [makefile: `solc` depend on `OPENZEPPELIN` ](https://github.com/erigontech/erigon/pull/20708) - 2026-04-21
+* [Pull Request] [parallel_exec: removing 1 spamming `Background files build` log](https://github.com/erigontech/erigon/pull/20706) - 2026-04-21
+* [Review] [Review on: ci: speedup hive eest consume-rlp by removing unnecessary NAT discovery](https://github.com/erigontech/erigon/pull/20715#pullrequestreview-4147728316) - 2026-04-21
+* [Review] [Review on: [r34] db/state: preserve per-step unwind entries so Flush reverts every orphan](https://github.com/erigontech/erigon/pull/20716#pullrequestreview-4148041419) - 2026-04-21
+* [Review] [Review on: cmd/utils: gate chain defaults by --networkid for P2P discovery](https://github.com/erigontech/erigon/pull/20694#pullrequestreview-4146140968) - 2026-04-21
+* [Review] [Review on: Bound domain merge limit; add CLI override](https://github.com/erigontech/erigon/pull/20705#pullrequestreview-4145350731) - 2026-04-21
+* [Pull Request] [bumper: rely on `go generate` (as all other code generators in go)](https://github.com/erigontech/erigon/pull/20704) - 2026-04-21
+* [Review] [Review on: cp: cap state collation at block snapshots progress](https://github.com/erigontech/erigon/pull/20701#pullrequestreview-4145069772) - 2026-04-21
+* [Review] [Review on: commitment: eliminate BranchMerger from fold→encode→write hot path](https://github.com/erigontech/erigon/pull/20548#pullrequestreview-4144992574) - 2026-04-21
+* [Issue] [parallel_exec: chiado exec from 0 trie-root missmatch](https://github.com/erigontech/erigon/issues/20711) - 2026-04-21
+* [Commit] [state: convert standalone inverted index slices to fixed-size arrays (#20396)](https://github.com/erigontech/erigon/commit/2692710f454595875f71a44480c66d5c956fc6de) - 2026-04-21
+* [Commit] [makefile: `solc` depend on `OPENZEPPELIN`  (#20708)](https://github.com/erigontech/erigon/commit/c904d473dbedd402a65621afc4b90d2004a14560) - 2026-04-21
+* [Commit] [parallel_exec: removing 1 spamming `Background files build` log (#20706)](https://github.com/erigontech/erigon/commit/57c7d5082c1e4617168ca4e2c7ca347fbfd03bbb) - 2026-04-21
+* [Commit] [recsplit: off-heap EliasFano build (#20640)](https://github.com/erigontech/erigon/commit/bc3a812e0a28aa98ab13eaeba7e7289092c700be) - 2026-04-21
+* [Commit] [db/state: inv_index merge remove 1 intermediate buffer to reduce peak memory (#20597)](https://github.com/erigontech/erigon/commit/80ba94138f32fca0eb63a9369afb28f61fc0cffb) - 2026-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

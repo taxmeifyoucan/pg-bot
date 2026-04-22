@@ -48,6 +48,9 @@ Team: Reth
 * [Review] [Review on: feat(engine): suppress persistence during payload building](https://github.com/paradigmxyz/reth/pull/23618#pullrequestreview-4141600187) - 2026-04-20
 * [Review] [Review on: chore(docs): normalize Grafana dashboard JSON formatting and tags](https://github.com/paradigmxyz/reth/pull/23266#pullrequestreview-4140446370) - 2026-04-20
 * [Review] [Review on: fix(engine): revert #23541 and #23578](https://github.com/paradigmxyz/reth/pull/23646#pullrequestreview-4140351378) - 2026-04-20
+* [Review] [Review on: fix(ci): use second most recent snapshot as previous](https://github.com/paradigmxyz/reth/pull/23671#pullrequestreview-4150194325) - 2026-04-21
+* [Review] [Review on: fix(engine): let consensus impls control which errors are transient](https://github.com/paradigmxyz/reth/pull/23668#pullrequestreview-4149027804) - 2026-04-21
+* [Review] [Review on: refactor(trie): remove TrieNodeProvider](https://github.com/paradigmxyz/reth/pull/23658#pullrequestreview-4146961352) - 2026-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

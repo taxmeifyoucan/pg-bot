@@ -180,8 +180,16 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [ci(claude-review): drop concurrency group (#11251)](https://github.com/NethermindEth/nethermind/commit/32c431f483453a80899e032e493602e60439efe9) - 2026-04-20
 * [Commit] [test(sync): fix flaky StateSyncFeedTests timeout handling (#11226)](https://github.com/NethermindEth/nethermind/commit/f460322d911b877008af685f85c041cb1b7d0a20) - 2026-04-20
 * [Commit] [ci: Auto-run Claude review and gate merges on verdict (#11150)](https://github.com/NethermindEth/nethermind/commit/a84a82424052dff3b3fc89dcea428a53539d75e6) - 2026-04-20
+* [Review] [Review on: `eth_call`, `eth_createAccessList`, `eth_estimateGas`, `debug_traceCall`, `debug_traceCallMany` : honour gasCap as default gas, remove block-gas-limit ceiling for RPC calls](https://github.com/NethermindEth/nethermind/pull/11282#pullrequestreview-4149324170) - 2026-04-21
+* [Review] [Review on: Break on regular message before status receival](https://github.com/NethermindEth/nethermind/pull/11262#pullrequestreview-4146990975) - 2026-04-21
+* [Review] [Review on: Optimize EVM stack](https://github.com/NethermindEth/nethermind/pull/11230#pullrequestreview-4147583101) - 2026-04-21
+* [Review] [Review on: perf(trie): skip TrieNode wrapping for extension children already unresolved to Hash256](https://github.com/NethermindEth/nethermind/pull/11273#pullrequestreview-4145452482) - 2026-04-21
+* [Review] [Review on: Add new default for gnosis and gnosis archive config](https://github.com/NethermindEth/nethermind/pull/11269#pullrequestreview-4145173771) - 2026-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: test(tests-eip-8024): end-of-code stack underflow regression](https://github.com/ethereum/execution-specs/pull/2741#pullrequestreview-4147896148) - 2026-04-21
 ## Q1 2026
 
 

@@ -20,6 +20,7 @@ Team: Grandine
 * [Commit] [Update `rustls` & `rustls-webpki` where possible, update audit.toml](https://github.com/grandinetech/grandine/commit/4a3e46f27d3c1b1317cc065d5ccbf8c70fcfd03e) - 2026-04-16
 * [Commit] [Add ptc_window field to the beacon state](https://github.com/grandinetech/grandine/commit/4607b7aba850327231c4027d5e88909a5275aec3) - 2026-04-17
 * [Commit] [  Implement gossip validation for consensus-specs v1.7.0-alpha4](https://github.com/grandinetech/grandine/commit/8135ab7a93a7297df499bc830ea451dc7c6cf873) - 2026-04-17
+* [Review] [Review on: Fix `payload_attributes` SSE event values](https://github.com/grandinetech/grandine/pull/669#pullrequestreview-4148360031) - 2026-04-21
 ## Q1 2026
 
 

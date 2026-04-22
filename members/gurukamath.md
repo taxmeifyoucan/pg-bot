@@ -13,6 +13,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(specs): make `State` fork agnostic](https://github.com/ethereum/execution-specs/pull/2381#pullrequestreview-4139628168) - 2026-04-20
+* [Review] [Review on: fix(tooling): `just static` codespell finds 200+ typos for `json_infra/fixtures`, skip it](https://github.com/ethereum/execution-specs/pull/2706#pullrequestreview-4148876712) - 2026-04-21
 ## Q1 2026
 
 

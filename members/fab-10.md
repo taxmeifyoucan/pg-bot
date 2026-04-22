@@ -52,6 +52,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Issue] [Flaky: PeerDiscoveryAgentV5Test > shouldEvictPeerWhenPermissionsRevoked()](https://github.com/besu-eth/besu/issues/10280) - 2026-04-20
 * [Commit] [Update Gradle plugin for Besu plugin development to 0.2.0 (#10263)](https://github.com/besu-eth/besu/commit/52a8db8db07441c6f346e2cdd768354b962eefb1) - 2026-04-20
 * [Commit] [Include slotNumber in payloadIdentifier generation (#10242)](https://github.com/besu-eth/besu/commit/af1b318c7164c740bc9a8fd3e62e4c22cca9a95a) - 2026-04-20
+* [Review] [Review on:  engine_newPayload: introduce spec-driven composition infrastructure](https://github.com/besu-eth/besu/pull/10258#pullrequestreview-4146880059) - 2026-04-21
+* [Review] [Review on: Enforce that blob_versioned_hashes field len matches number of blobs](https://github.com/besu-eth/besu/pull/10278#pullrequestreview-4146145538) - 2026-04-21
+* [Commit] [Enforce that blob_versioned_hashes match blobs (#10278)](https://github.com/besu-eth/besu/commit/c8d4d0412595cea15012aa4c1eb659575656ba26) - 2026-04-21
 ## Q1 2026
 
 

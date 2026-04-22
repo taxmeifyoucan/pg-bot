@@ -19,6 +19,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Review] [Review on: ci: bump tests-spec timeout to 20m](https://github.com/NethermindEth/nethermind/pull/11109#pullrequestreview-4095254911) - 2026-04-12
 * [Review] [Review on: ci: make EVM benchmark iteration counts configurable](https://github.com/NethermindEth/nethermind/pull/11118#pullrequestreview-4097451069) - 2026-04-13
 
+* [Review] [Review on: perf: disable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/11289#pullrequestreview-4149887540) - 2026-04-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4099273114) - 2026-04-13
 ## Q1 2026
