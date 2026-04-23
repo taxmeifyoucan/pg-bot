@@ -34,6 +34,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Replace Address.hashCache Guava LoadingCache with Caffeine](https://github.com/besu-eth/besu/pull/10235#pullrequestreview-4146878798) - 2026-04-21
 * [Review] [Review on: Add txsSelectionHighScore metric for per-included-tx selection time](https://github.com/besu-eth/besu/pull/10265#pullrequestreview-4147673004) - 2026-04-21
 * [Commit] [Implement BaseFee, blobBaseFee, CallValue, GasPrice, Balance and SelfBalance for EVM v2 (#10229)](https://github.com/besu-eth/besu/commit/131b1f7b8f2ec76460916f8975218e16f28d9f6a) - 2026-04-21
+* [Review] [Review on: Add MulOperationV2](https://github.com/besu-eth/besu/pull/10291#pullrequestreview-4154689536) - 2026-04-22
+* [Review] [Review on: SubOperationV2](https://github.com/besu-eth/besu/pull/10304#pullrequestreview-4154811003) - 2026-04-22
+* [Commit] [Add ChaindId, Coinbase, Gaslimit and PrevRandao to EVM v2 (#10298)](https://github.com/besu-eth/besu/commit/181bb0b217e9120d2401d873083fe1c94ca5e637) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

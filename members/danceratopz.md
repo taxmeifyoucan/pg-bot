@@ -63,6 +63,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(test-cli): always print full pytest command in ci & add to summary](https://github.com/ethereum/execution-specs/pull/2719) - 2026-04-19
 * [Pull Request] [feat(test-fill): enable phase-1-only pre-alloc generation](https://github.com/ethereum/execution-specs/pull/2720) - 2026-04-19
 * [Issue] [Tracker: Faster, More Targeted Test Fixture Releases](https://github.com/ethereum/execution-specs/issues/2736) - 2026-04-20
+* [Commit] [feat(test-fill): enable phase-1-only pre-alloc generation (#2720)](https://github.com/ethereum/execution-specs/commit/8a85b5458dabbf068f5155cee7a54782d5d1313e) - 2026-04-22
+* [Commit] [feat(doc): re-write readme/top-level docs and add specs section to html docs (#2677)](https://github.com/ethereum/execution-specs/commit/739ecad65686e5bb5f82f1355524fa297914f991) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 ## Q1 2026

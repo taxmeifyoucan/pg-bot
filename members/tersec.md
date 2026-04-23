@@ -67,6 +67,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: speedup block processing with batch verification](https://github.com/status-im/nimbus-eth2/pull/8302#pullrequestreview-4145127365) - 2026-04-21
 * [Review] [Review on: improve getBlobs flow and add metrics](https://github.com/status-im/nimbus-eth2/pull/8311#pullrequestreview-4151308189) - 2026-04-21
 * [Pull Request] [fix ImplicitTemplateRedefinition warning and prevent them from reoccurring](https://github.com/status-im/nimbus-eth2/pull/8308) - 2026-04-21
+* [Review] [Review on: Gloas update v1.7.0-alpha.5](https://github.com/status-im/nimbus-eth2/pull/8285#pullrequestreview-4151950375) - 2026-04-22
+* [Pull Request] [update local testnet Geth to 1.17.2](https://github.com/status-im/nimbus-eth2/pull/8315) - 2026-04-22
+* [Review] [Review on: add batch validation path for column to speedup gossip validaiton](https://github.com/status-im/nimbus-eth2/pull/8314#pullrequestreview-4151766770) - 2026-04-22
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

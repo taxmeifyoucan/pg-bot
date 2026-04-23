@@ -17,6 +17,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 
 * [Review] [Review on: add renovate](https://github.com/Consensys/discovery/pull/206#pullrequestreview-4103243073) - 2026-04-14
 * [Pull Request] [reduce log level](https://github.com/Consensys/discovery/pull/216) - 2026-04-22
+* [Pull Request] [Revert "fix: prevent pipeline errors from killing Reactor subscriptio…](https://github.com/Consensys/discovery/pull/217) - 2026-04-22
+* [Review] [Review on: Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218#pullrequestreview-4158388641) - 2026-04-22
+* [Commit] [reduce log level (#216)](https://github.com/Consensys/discovery/commit/114bd04729e494fc901486ac8f8233df5a60b0f0) - 2026-04-22
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/teku/pull/10516#pullrequestreview-4041785930) - 2026-04-01
 * [Review] [Review on: added executors for some alpha4 test cases](https://github.com/Consensys/teku/pull/10545#pullrequestreview-4048271089) - 2026-04-02
@@ -31,6 +34,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: ⏺ Update 3rd party libraries](https://github.com/Consensys/teku/pull/10583#pullrequestreview-4144857247) - 2026-04-21
 * [Review] [Review on: Added .worktrees to .gitignore](https://github.com/Consensys/teku/pull/10584#pullrequestreview-4144934015) - 2026-04-21
 * [Review] [Review on: build: support long file names in TAR distribution repackaging](https://github.com/Consensys/teku/pull/10582#pullrequestreview-4144768605) - 2026-04-21
+* [Pull Request] [downgrade netty back to 4.2.10](https://github.com/Consensys/teku/pull/10595) - 2026-04-22
+* [Commit] [downgrade netty (#10595)](https://github.com/Consensys/teku/commit/fc1991c69e3ae7d541b8f78c8d83a27e9001706c) - 2026-04-22
 ## Q1 2026
 
 

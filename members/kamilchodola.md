@@ -27,6 +27,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Remove joc from sync actions](https://github.com/NethermindEth/nethermind/pull/11236#pullrequestreview-4140434397) - 2026-04-20
 * [Pull Request] [perf: disable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/11289) - 2026-04-21
 * [Review] [Review on: Add new default for gnosis and gnosis archive config](https://github.com/NethermindEth/nethermind/pull/11269#pullrequestreview-4145793128) - 2026-04-21
+* [Pull Request] [fix(expb): default <<AMOUNT>> placeholder for push and PR triggers](https://github.com/NethermindEth/nethermind/pull/11300) - 2026-04-22
+* [Commit] [feat(logging): add DebugError/DebugWarn helpers with Kind property for Seq (#11157)](https://github.com/NethermindEth/nethermind/commit/288e684338bd378ca47e7a5496ea038189cbccf4) - 2026-04-22
+* [Commit] [perf: disable ReadyToRun AOT compilation (#11289)](https://github.com/NethermindEth/nethermind/commit/382af36217dc588b823761ac65f8cb6ae873a2d0) - 2026-04-22
+* [Commit] [fix(expb): default <<AMOUNT>> placeholder for push and PR triggers (#11300)](https://github.com/NethermindEth/nethermind/commit/80bfb0604d30cd8fbf1e68076e1489581386b0c7) - 2026-04-22
+* [Commit] [ci(expb): live streaming, SSE metrics, summary reports, and dotTrace profiling (#11268)](https://github.com/NethermindEth/nethermind/commit/e883f71451b31aaf9391972778553f6f498aa894) - 2026-04-22
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02
@@ -52,6 +57,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: skip release asset upload when generate job failed](https://github.com/NethermindEth/gas-benchmarks/commit/655a8bfc367f704ad886b9dd66d9ad9db5ea428e) - 2026-04-13
 * [Commit] [fix: increment _PREP_SLOT_COUNTER during replay so mitm seeds correct starting slot](https://github.com/NethermindEth/gas-benchmarks/commit/bd2df19ab63f8c9bef3f60926c3c40f8ecf543ae) - 2026-04-13
 * [Commit] [fix: rename EEST to EELS in release notes template, add repo to parameters](https://github.com/NethermindEth/gas-benchmarks/commit/0211818ea5b17d2ba08fe201f6f800ccc7fecd8c) - 2026-04-14
+* [Commit] [chore: remove stateful mainnet from amsterdam release workstreams](https://github.com/NethermindEth/gas-benchmarks/commit/36c365efe28d44d2bdb03eb3e2f28c1dd543b180) - 2026-04-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Remove unused bloatnet factory entries from mainnet stubs](https://github.com/ethereum/execution-specs/pull/2670) - 2026-04-13
 * [Commit] [refactor(test-benchmark): remove unused bloatnet factory entries from mainnet stubs (#2670)](https://github.com/ethereum/execution-specs/commit/a830dab6f130151ab9023a473b7543120aa21961) - 2026-04-14

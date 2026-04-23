@@ -27,6 +27,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Validator block v4](https://github.com/OffchainLabs/prysm/pull/16594#pullrequestreview-4122758276) - 2026-04-16
 * [Review] [Review on: Validator block v4](https://github.com/OffchainLabs/prysm/pull/16594#pullrequestreview-4130482603) - 2026-04-17
 * [Pull Request] [Cache random_bytes in compute_balance_weighted_selection](https://github.com/OffchainLabs/prysm/pull/16708) - 2026-04-21
+* [Review] [Review on: Cache random_bytes in compute_balance_weighted_selection](https://github.com/OffchainLabs/prysm/pull/16708#pullrequestreview-4155938234) - 2026-04-22
+* [Commit] [Cache random_bytes in compute_balance_weighted_selection (#16708)](https://github.com/OffchainLabs/prysm/commit/cc484f8752da94cc60b2ecec566ffbdb1cd936d0) - 2026-04-22
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

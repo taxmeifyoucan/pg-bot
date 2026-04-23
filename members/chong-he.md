@@ -25,6 +25,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Fix total_effective_balance=0 in `PreEpochCache`](https://github.com/sigp/lighthouse/pull/9106#pullrequestreview-4079591425) - 2026-04-09
 * [Review] [Review on: Bump `warp` and begin `axum` migration](https://github.com/sigp/lighthouse/pull/9001#pullrequestreview-4086691164) - 2026-04-10
 * [Pull Request] [Remove `test_logger` feature](https://github.com/sigp/lighthouse/pull/9125) - 2026-04-13
+* [Review] [Review on: Fix audit failure for `rustls-webpki`](https://github.com/sigp/lighthouse/pull/9161#pullrequestreview-4154204523) - 2026-04-22
+* [Review] [Review on: Remove `test_logger` feature](https://github.com/sigp/lighthouse/pull/9125#pullrequestreview-4151892308) - 2026-04-22
 ## Q1 2026
 
 

@@ -98,6 +98,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: `eth_call`, `eth_createAccessList`, `eth_estimateGas`, `debug_traceCall`, `debug_traceCallMany` : honour gasCap as default gas, remove block-gas-limit ceiling for RPC calls](https://github.com/NethermindEth/nethermind/pull/11282#pullrequestreview-4149379972) - 2026-04-21
 * [Commit] [Optimize EVM stack (#11230)](https://github.com/NethermindEth/nethermind/commit/70e0717eb3648c5a13ce831097d60ecfc7b90b1c) - 2026-04-21
 * [Commit] [Tell AGENTS versions of C# and .NET (#11272)](https://github.com/NethermindEth/nethermind/commit/d7e8cea9d273dc0bfb749a0466d4ee6471ba747e) - 2026-04-21
+* [Review] [Review on: txpool: add `txpool_contentFrom`, fix `txpool_status` hex format, fix `txpool_content`](https://github.com/NethermindEth/nethermind/pull/11305#pullrequestreview-4156170673) - 2026-04-22
+* [Pull Request] [Enforce EIP-3675 uncle ban at the spec level](https://github.com/NethermindEth/nethermind/pull/11302) - 2026-04-22
+* [Review] [Review on: Enforce EIP-3675 uncle ban at the spec level](https://github.com/NethermindEth/nethermind/pull/11302#pullrequestreview-4155712939) - 2026-04-22
+* [Review] [Review on: perf: disable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/11289#pullrequestreview-4153731917) - 2026-04-22
+* [Pull Request] [Reduce dirty nodes lock contention](https://github.com/NethermindEth/nethermind/pull/11297) - 2026-04-22
+* [Review] [Review on: Reduce dirty nodes lock contention](https://github.com/NethermindEth/nethermind/pull/11297#pullrequestreview-4153809982) - 2026-04-22
+* [Review] [Review on: fix(db): wait for in-flight timer callback in DbMetricsUpdater.Dispose](https://github.com/NethermindEth/nethermind/pull/11270#pullrequestreview-4152008265) - 2026-04-22
+* [Review] [Review on: fix(expb): default <<AMOUNT>> placeholder for push and PR triggers](https://github.com/NethermindEth/nethermind/pull/11300#pullrequestreview-4153944585) - 2026-04-22
+* [Commit] [Enforce EIP-3675 uncle ban at the spec level (#11302)](https://github.com/NethermindEth/nethermind/commit/b4abe662d65de1752ade99ac867a8e3490637c14) - 2026-04-22
+* [Commit] [Reduce dirty nodes lock contention (#11297)](https://github.com/NethermindEth/nethermind/commit/d347d247d88ec537afb0982a801dd8f0cc2f1582) - 2026-04-22
+* [Commit] [Additional BAL hive tests (#11285)](https://github.com/NethermindEth/nethermind/commit/f1e321be4c1f9a698525fe585604263ec120ba91) - 2026-04-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

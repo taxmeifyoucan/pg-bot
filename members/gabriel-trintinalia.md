@@ -8,6 +8,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 ## Contributions
 
+## Q2 2026
+
+
+[Consensys/discovery](https://github.com/Consensys/discovery)
+* [Pull Request] [fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219) - 2026-04-22
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [fix: allow NodeRecords with no endpoints in discv5 AddressAccessPolicy](https://github.com/besu-eth/besu/pull/10308) - 2026-04-22
 ## Q1 2026
 
 

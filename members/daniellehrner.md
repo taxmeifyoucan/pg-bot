@@ -63,6 +63,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Reenable dynamic cpsb calculation on bal-devnet-4](https://github.com/besu-eth/besu/pull/10292) - 2026-04-21
 * [Pull Request] [Add EIP-7976 to bal-devnet-4](https://github.com/besu-eth/besu/pull/10290) - 2026-04-21
 * [Pull Request] [Merge main into bal-devnet-4](https://github.com/besu-eth/besu/pull/10293) - 2026-04-21
+* [Review] [Review on: Rename InvalidSystemCallAddressException to SystemCallNoCodeAtAddressException](https://github.com/besu-eth/besu/pull/10305#pullrequestreview-4157730928) - 2026-04-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

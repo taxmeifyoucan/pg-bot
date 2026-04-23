@@ -21,6 +21,8 @@ Team: Grandine
 * [Commit] [Add ptc_window field to the beacon state](https://github.com/grandinetech/grandine/commit/4607b7aba850327231c4027d5e88909a5275aec3) - 2026-04-17
 * [Commit] [  Implement gossip validation for consensus-specs v1.7.0-alpha4](https://github.com/grandinetech/grandine/commit/8135ab7a93a7297df499bc830ea451dc7c6cf873) - 2026-04-17
 * [Review] [Review on: Fix `payload_attributes` SSE event values](https://github.com/grandinetech/grandine/pull/669#pullrequestreview-4148360031) - 2026-04-21
+* [Review] [Review on: Update Gloas event data](https://github.com/grandinetech/grandine/pull/670#pullrequestreview-4155806837) - 2026-04-22
+* [Commit] [Updates to publish signed execution payload bid API endpoint:](https://github.com/grandinetech/grandine/commit/900100d4d3cdf0f2f057cc8d83a1ba3205532a51) - 2026-04-22
 ## Q1 2026
 
 

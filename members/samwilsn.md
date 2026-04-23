@@ -17,6 +17,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Update EIP-7840: fix grammar](https://github.com/ethereum/EIPs/pull/10308#pullrequestreview-4069861522) - 2026-04-07
 * [Review] [Review on: Update EIP-7516: fix BLOBBASEFEE example bytecode to 0x4a00](https://github.com/ethereum/EIPs/pull/10774#pullrequestreview-4069856067) - 2026-04-07
 
+* [Review] [Review on: Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/pull/11438#pullrequestreview-4157665211) - 2026-04-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec): Abstract py-ecc implementation detail from EIP-2537](https://github.com/ethereum/execution-specs/pull/2384#pullrequestreview-4078371779) - 2026-04-08
 * [Pull Request] [chore(tooling,deps): update mypy to 1.20](https://github.com/ethereum/execution-specs/pull/2633) - 2026-04-08
@@ -32,6 +33,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Fix spurious diffs introduced in #2396](https://github.com/ethereum/execution-specs/issues/2681) - 2026-04-14
 * [Commit] [feat(doc): add directory listings to py modules (#2658)](https://github.com/ethereum/execution-specs/commit/e8e9c3813c2f35b9d45b05ee580cff0936a0123d) - 2026-04-20
 * [Review] [Review on: fix(evm_tools): avoid cloning unchanged fork template in ForkCache](https://github.com/ethereum/execution-specs/pull/2738#pullrequestreview-4148607726) - 2026-04-21
+* [Review] [Review on: fix(bls12_381): added raise for all InvalidParameter exceptions in decode_g1_scalar_pair / decode_g2_scalar_pair](https://github.com/ethereum/execution-specs/pull/2742#pullrequestreview-4157001277) - 2026-04-22
+* [Review] [Review on: fix(evm_tools): avoid cloning unchanged fork template in ForkCache](https://github.com/ethereum/execution-specs/pull/2738#pullrequestreview-4156626281) - 2026-04-22
+* [Review] [Review on: Replace `Uint(len(...))` with `ulen(...)`](https://github.com/ethereum/execution-specs/pull/2580#pullrequestreview-4156229161) - 2026-04-22
+* [Commit] [Replace `Uint(len(...))` with `ulen(...)` (#2580)](https://github.com/ethereum/execution-specs/commit/6f43bc6fb36852f48de008e8ddd7374ee3cfe86c) - 2026-04-22
 ## Q1 2026
 
 

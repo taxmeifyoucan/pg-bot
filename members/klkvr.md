@@ -57,6 +57,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(engine): let consensus impls control which errors are transient](https://github.com/paradigmxyz/reth/pull/23668#pullrequestreview-4149644242) - 2026-04-21
 * [Review] [Review on: chore(BAL): enable BAL building in evm](https://github.com/paradigmxyz/reth/pull/23575#pullrequestreview-4147607913) - 2026-04-21
 * [Review] [Review on: feat(bal): scaffold BAL store abstraction](https://github.com/paradigmxyz/reth/pull/23596#pullrequestreview-4146782598) - 2026-04-21
+* [Pull Request] [perf: avoid reopening .csoff on every changeset lookup](https://github.com/paradigmxyz/reth/pull/23687) - 2026-04-22
+* [Review] [Review on: feat(p2p): Discv5 is enabled by default](https://github.com/paradigmxyz/reth/pull/23686#pullrequestreview-4156647001) - 2026-04-22
+* [Review] [Review on: feat(bench): add reorg mode to new-payload-fcu](https://github.com/paradigmxyz/reth/pull/23666#pullrequestreview-4156002775) - 2026-04-22
+* [Review] [Review on: chore(BAL): BasicBlockExecutor change](https://github.com/paradigmxyz/reth/pull/23674#pullrequestreview-4154307967) - 2026-04-22
+* [Commit] [perf: avoid reopening .csoff on every changeset lookup (#23687)](https://github.com/paradigmxyz/reth/commit/7839f3d876b32842b059ca8171242b807ba1fc80) - 2026-04-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

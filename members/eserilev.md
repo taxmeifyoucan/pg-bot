@@ -46,6 +46,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Remove more mentions of "pending"/"full" states](https://github.com/sigp/lighthouse/pull/9156#pullrequestreview-4151511590) - 2026-04-22
 * [Pull Request] [Gloas engine api updates](https://github.com/sigp/lighthouse/pull/9150) - 2026-04-21
 * [Review] [Review on: Revert Gloas API changes from 9092](https://github.com/sigp/lighthouse/pull/9151#pullrequestreview-4145648223) - 2026-04-21
+* [Pull Request] [Default envelope to always avail](https://github.com/sigp/lighthouse/pull/9165) - 2026-04-22
+* [Pull Request] [Gloas ptc duties beacon node response](https://github.com/sigp/lighthouse/pull/9164) - 2026-04-22
+* [Pull Request] [At the fork transition ensure we build ontop of the correct parent block hash](https://github.com/sigp/lighthouse/pull/9160) - 2026-04-22
+* [Review] [Review on: At the fork transition ensure we build ontop of the correct parent block hash](https://github.com/sigp/lighthouse/pull/9160#pullrequestreview-4153969307) - 2026-04-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 ## Q1 2026

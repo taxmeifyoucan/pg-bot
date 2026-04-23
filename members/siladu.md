@@ -61,6 +61,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Add ChaindId, Coinbase, Gaslimit and PrevRandao to EVM v2](https://github.com/besu-eth/besu/pull/10298#pullrequestreview-4151504799) - 2026-04-22
 * [Issue] [Upgrade execution-spec-tests to 5.4.0 and fix tests](https://github.com/besu-eth/besu/issues/10287) - 2026-04-21
 * [Commit] [EVMv2 AddOperationV2 (#10255)](https://github.com/besu-eth/besu/commit/11a4595883b644ecd8d86711a7fa58f03cb3b114) - 2026-04-21
+* [Review] [Review on: ci: replace Gradle Docker tasks with GHA in develop-pr workflow](https://github.com/besu-eth/besu/pull/10256#pullrequestreview-4151818069) - 2026-04-22
+* [Pull Request] [SubOperationV2](https://github.com/besu-eth/besu/pull/10304) - 2026-04-22
+* [Review] [Review on: SubOperationV2](https://github.com/besu-eth/besu/pull/10304#pullrequestreview-4153924667) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

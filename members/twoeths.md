@@ -65,6 +65,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: gate loadOtherState validators/balances preload behind opt-in](https://github.com/ChainSafe/lodestar/pull/9245) - 2026-04-21
 * [Review] [Review on: fix: gate loadOtherState validators/balances preload behind opt-in](https://github.com/ChainSafe/lodestar/pull/9245#pullrequestreview-4148375901) - 2026-04-21
 * [Commit] [fix: gate loadOtherState validators/balances preload behind opt-in (#9245)](https://github.com/ChainSafe/lodestar/commit/abc719ddc14b052765ca6e56a7e8d1bc53f86f0b) - 2026-04-21
+* [Review] [Review on: feat: defer payload processing to next block](https://github.com/ChainSafe/lodestar/pull/9257#pullrequestreview-4155781777) - 2026-04-22
+* [Pull Request] [fix: drop payloadStatus from Checkpoint](https://github.com/ChainSafe/lodestar/pull/9259) - 2026-04-22
+* [Review] [Review on: fix: drop payloadStatus from Checkpoint](https://github.com/ChainSafe/lodestar/pull/9259#pullrequestreview-4156274765) - 2026-04-22
+* [Review] [Review on: feat: add unknown payload envelope sync flow](https://github.com/ChainSafe/lodestar/pull/9241#pullrequestreview-4152074211) - 2026-04-22
+* [Review] [Review on: feat: implement EIP-7843 and alpha.5 containers](https://github.com/ChainSafe/lodestar/pull/9254#pullrequestreview-4152283184) - 2026-04-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

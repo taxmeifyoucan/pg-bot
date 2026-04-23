@@ -14,6 +14,7 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Review] [Review on: Refactor sync-supported-chains workflow and add sync smoke test CI check](https://github.com/NethermindEth/nethermind/pull/10898#pullrequestreview-4083205502) - 2026-04-09
 * [Review] [Review on: feat: integrate Grafana Alloy and Loki for metrics and logging](https://github.com/NethermindEth/nethermind/pull/11189#pullrequestreview-4149113800) - 2026-04-21
+* [Review] [Review on: feat: integrate Grafana Alloy and Loki for metrics and logging](https://github.com/NethermindEth/nethermind/pull/11189#pullrequestreview-4155505733) - 2026-04-22
 ## Q1 2026
 
 

@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: Exclude IntelliJ bin/default output from Spotless shell script check](https://github.com/besu-eth/besu/pull/10210#pullrequestreview-4086933245) - 2026-04-10
 * [Commit] [Handle peer permission updates in PeerDiscoveryAgentV5 (#10193)](https://github.com/besu-eth/besu/commit/9111964e0ddb5ba02585ef318a3be4eb16b6784b) - 2026-04-15
 * [Review] [Review on: remove unnecessary check that a peer has the dao block](https://github.com/besu-eth/besu/pull/10244#pullrequestreview-4118704880) - 2026-04-16
+* [Review] [Review on: Flaky BackwardSyncContextTest: remove broken Awaitility pattern](https://github.com/besu-eth/besu/pull/10303#pullrequestreview-4159071365) - 2026-04-23
 ## Q1 2026
 
 

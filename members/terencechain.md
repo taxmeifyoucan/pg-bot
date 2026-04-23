@@ -93,6 +93,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Add BAL, slot pre-compile, and engine-api implementations](https://github.com/OffchainLabs/prysm/pull/16687#pullrequestreview-4148032496) - 2026-04-21
 * [Pull Request] [Update fastssz to 7a6eb71](https://github.com/OffchainLabs/prysm/pull/16710) - 2026-04-21
 * [Commit] [Update fastssz to 7a6eb71 (#16710)](https://github.com/OffchainLabs/prysm/commit/ea9bcf32c9d60c90b117edfa2329ef14c106e307) - 2026-04-21
+* [Commit] [Add BAL, slot pre-compile, and engine-api implementations (#16687)](https://github.com/OffchainLabs/prysm/commit/060e4fc148607b67b8d1fe34c55ef89555aa4c47) - 2026-04-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 ## Q1 2026

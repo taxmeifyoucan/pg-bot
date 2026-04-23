@@ -51,6 +51,12 @@ Team: Reth
 * [Review] [Review on: fix(ci): use second most recent snapshot as previous](https://github.com/paradigmxyz/reth/pull/23671#pullrequestreview-4150194325) - 2026-04-21
 * [Review] [Review on: fix(engine): let consensus impls control which errors are transient](https://github.com/paradigmxyz/reth/pull/23668#pullrequestreview-4149027804) - 2026-04-21
 * [Review] [Review on: refactor(trie): remove TrieNodeProvider](https://github.com/paradigmxyz/reth/pull/23658#pullrequestreview-4146961352) - 2026-04-21
+* [Review] [Review on: feat(db): detect and warn about ZFS](https://github.com/paradigmxyz/reth/pull/23685#pullrequestreview-4156065182) - 2026-04-22
+* [Review] [Review on: fix(bench): require local benchmark data](https://github.com/paradigmxyz/reth/pull/23679#pullrequestreview-4154515148) - 2026-04-22
+* [Pull Request] [fix(re-execute): disable read tx timeout](https://github.com/paradigmxyz/reth/pull/23680) - 2026-04-22
+* [Pull Request] [deps: bump rustls-webpki](https://github.com/paradigmxyz/reth/pull/23681) - 2026-04-22
+* [Commit] [fix(re-execute): disable read tx timeout (#23680)](https://github.com/paradigmxyz/reth/commit/f1ed5f0ade01fb60125ac68859677a954ce89083) - 2026-04-22
+* [Commit] [deps: bump rustls-webpki (#23681)](https://github.com/paradigmxyz/reth/commit/6364fb87d04d3ba352776582b44396f79e6555fc) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

@@ -25,6 +25,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Validate payload envelope through processing](https://github.com/grandinetech/grandine/pull/662#pullrequestreview-4082418251) - 2026-04-09
 * [Review] [Review on: Refactor `validate_data_column_sidecar_with_state` function](https://github.com/grandinetech/grandine/pull/657#pullrequestreview-4133981588) - 2026-04-18
 * [Pull Request] [Update Gloas event data](https://github.com/grandinetech/grandine/pull/670) - 2026-04-21
+* [Pull Request] [Add `#![no_main]` to suppress duplicate entry point error](https://github.com/grandinetech/grandine/pull/671) - 2026-04-22
+* [Commit] [Add `#![no_main]` to suppress duplicate entry point error](https://github.com/grandinetech/grandine/commit/98ac7a8b6181285fed5d4b190cacbd1639de749f) - 2026-04-22
+* [Commit] [Update Gloas event data](https://github.com/grandinetech/grandine/commit/d25fa1a69ef719d33d1c2dcb8e5b713d535f67f6) - 2026-04-22
 ## Q1 2026
 
 

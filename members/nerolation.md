@@ -45,6 +45,9 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix snap/2 BAL message wire format per EIP-8189](https://github.com/besu-eth/besu/pull/10289) - 2026-04-21
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [simulators/devp2p: add snap2 suite for EIP-8189 conformance tests](https://github.com/ethereum/hive/pull/1440) - 2026-04-22
 ## Q1 2026
 
 

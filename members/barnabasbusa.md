@@ -97,6 +97,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Bump go-eth2-client to v0.1.0](https://github.com/ethpandaops/assertoor/pull/159) - 2026-04-21
 * [Commit] [Merge pull request #159 from ethpandaops/bump-go-eth2-client-0.1.0](https://github.com/ethpandaops/assertoor/commit/431e5ef03bc298b2e0855b2b268aa2bcade201d6) - 2026-04-21
 * [Commit] [Bump go-eth2-client to v0.1.0](https://github.com/ethpandaops/assertoor/commit/af06c8d1c6a2f965bc87d9f2f0bad59a2927dd1c) - 2026-04-21
+* [Pull Request] [Show build commit hash in web UI footer](https://github.com/ethpandaops/assertoor/pull/162) - 2026-04-22
+* [Commit] [Merge branch 'master' into pk910/bump-spamoor](https://github.com/ethpandaops/assertoor/commit/b63ac3f0df189159ed90070237ef2351f825ce7c) - 2026-04-22
+* [Commit] [Merge pull request #162 from ethpandaops/bbusa/footer-commit-hash](https://github.com/ethpandaops/assertoor/commit/8fe11229c9cd7b1a0858e3ffac0e24955291fe27) - 2026-04-22
+* [Commit] [Show build commit hash in web UI footer](https://github.com/ethpandaops/assertoor/commit/222bbf3b4eb596d3b4b3edb4c2ea75e76aa9f1c4) - 2026-04-22
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/lab/pull/432) - 2026-04-09
 * [Commit] [Merge pull request #432 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/lab/commit/c3be9674e52453b5788e377f0cbf8f508dd7073e) - 2026-04-09
@@ -122,6 +126,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [internal/telemetry: add gRPC transport for OTLP trace export](https://github.com/ethereum/go-ethereum/pull/33941) - 2026-04-21
 * [Commit] [internal/telemetry: add gRPC transport for OTLP trace export (#33941)](https://github.com/ethereum/go-ethereum/commit/f568ab9931167ecfaef8f9696dfd0d52a861f2fd) - 2026-04-21
 
+* [Pull Request] [miner: supply a slot number when synthesising pending block post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/34792) - 2026-04-22
+* [Pull Request] [miner: supply a slot number when synthesising pending block post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/34790) - 2026-04-22
+* [Pull Request] [miner: supply a slot number when synthesising pending block post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/34791) - 2026-04-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Pin Docker base image to debian:trixie-slim; add ca-certificates](https://github.com/status-im/nimbus-eth2/pull/8310) - 2026-04-21
 ## Q1 2026

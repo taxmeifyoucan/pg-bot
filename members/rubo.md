@@ -55,6 +55,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf: disable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/11289#pullrequestreview-4149235831) - 2026-04-21
 * [Review] [Review on: Add missing solution dependencies](https://github.com/NethermindEth/nethermind/pull/11286#pullrequestreview-4148907993) - 2026-04-21
 * [Commit] [chore: Update packages (#11290)](https://github.com/NethermindEth/nethermind/commit/7c2e1cbad164bfc33f7a4653453d441bae28ac4c) - 2026-04-21
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11295#pullrequestreview-4152909118) - 2026-04-22
+* [Review] [Review on: txpool: add `txpool_contentFrom`, fix `txpool_status` hex format, fix `txpool_content`](https://github.com/NethermindEth/nethermind/pull/11305#pullrequestreview-4156494720) - 2026-04-22
 ## Q1 2026
 
 

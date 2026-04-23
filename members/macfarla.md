@@ -55,6 +55,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [new RPC method: eth_getTransactionBySenderAndNonce](https://github.com/besu-eth/besu/issues/10284) - 2026-04-21
 * [Issue] [Analysis: eth_capabilities RPC for implementation](https://github.com/besu-eth/besu/issues/10285) - 2026-04-21
 * [Commit] [[CHANGELOG] add unreleased section (#10286)](https://github.com/besu-eth/besu/commit/1feadbd53b1d8e218ce2f9a500471b8b31466f54) - 2026-04-21
+
+* [Pull Request] [Flaky BackwardSyncContextTest: remove broken Awaitility pattern](https://github.com/besu-eth/besu/pull/10303) - 2026-04-22
+* [Review] [Review on: Flaky BackwardSyncContextTest: remove broken Awaitility pattern](https://github.com/besu-eth/besu/pull/10303#pullrequestreview-4158085728) - 2026-04-22
+* [Review] [Review on: Publish Guava as an API dependency from plugin-api](https://github.com/besu-eth/besu/pull/10248#pullrequestreview-4151783231) - 2026-04-22
+* [Review] [Review on: fix: allow NodeRecords with no endpoints in discv5 AddressAccessPolicy](https://github.com/besu-eth/besu/pull/10308#pullrequestreview-4158498094) - 2026-04-22
+* [Pull Request] [Add GHA workflow timeouts](https://github.com/besu-eth/besu/pull/10302) - 2026-04-22
+* [Review] [Review on: Publish besu-evm as an API dependency from plugin-api](https://github.com/besu-eth/besu/pull/10262#pullrequestreview-4151779716) - 2026-04-22
+* [Commit] [clean stop bws if world state unavailable (#10021)](https://github.com/besu-eth/besu/commit/4c2676279a5c7c9131a4ca4af0f922a44c7b59c0) - 2026-04-23
+[Consensys/discovery](https://github.com/Consensys/discovery)
+* [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [clients/besu: enable discv5](https://github.com/ethereum/hive/pull/1442) - 2026-04-22
 ## Q1 2026
 
 

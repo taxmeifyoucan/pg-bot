@@ -47,6 +47,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: implement EIP-7843 and alpha.5 containers](https://github.com/ChainSafe/lodestar/pull/9254) - 2026-04-21
 * [Review] [Review on: feat: implement EIP-7843 and alpha.5 containers](https://github.com/ChainSafe/lodestar/pull/9254#pullrequestreview-4151644487) - 2026-04-22
 * [Commit] [feat: merge BAL into ePBS (#9226)](https://github.com/ChainSafe/lodestar/commit/0bc48d3b5424075199c15f1fcc6a31a31ee97fa6) - 2026-04-21
+* [Pull Request] [feat: defer payload processing to next block](https://github.com/ChainSafe/lodestar/pull/9257) - 2026-04-22
+* [Commit] [feat: implement EIP-7843 and alpha.5 containers (#9254)](https://github.com/ChainSafe/lodestar/commit/e5b13221e5277ff693e979a7fbc1a6cf7712bd05) - 2026-04-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 

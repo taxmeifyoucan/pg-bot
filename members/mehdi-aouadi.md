@@ -40,6 +40,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [add execution payload historical sync](https://github.com/Consensys/teku/pull/10592) - 2026-04-21
 * [Review] [Review on: Gloas changes for v1.7.0-alpha.5](https://github.com/Consensys/teku/pull/10581#pullrequestreview-4147625981) - 2026-04-21
 * [Review] [Review on: Make availability checker NOOP for `on_Block` for Gloas](https://github.com/Consensys/teku/pull/10591#pullrequestreview-4147404355) - 2026-04-21
+* [Pull Request] [Proposer preferences gloas only](https://github.com/Consensys/teku/pull/10596) - 2026-04-22
+* [Review] [Review on: Proposer preferences gloas only](https://github.com/Consensys/teku/pull/10596#pullrequestreview-4154806620) - 2026-04-22
+* [Review] [Review on: add execution payload historical sync](https://github.com/Consensys/teku/pull/10592#pullrequestreview-4155945937) - 2026-04-22
 ## Q1 2026
 
 

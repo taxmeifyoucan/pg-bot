@@ -54,6 +54,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat(gas): EIP-8037 issue #2 — 0→x→0 storage reservoir refill](https://github.com/bluealloy/revm/pull/3581) - 2026-04-20
 * [Pull Request] [refactor(gas): rename InitialAndFloorGas.initial_total_gas to regular_gas](https://github.com/bluealloy/revm/pull/3589) - 2026-04-21
 * [Review] [Review on: perf: avoid cloning precompiles on warmup](https://github.com/bluealloy/revm/pull/3586#pullrequestreview-4148340552) - 2026-04-21
+* [Pull Request] [feat(gas): implement EIP-7981 access list cost increase](https://github.com/bluealloy/revm/pull/3598) - 2026-04-22
+* [Pull Request] [feat(gas): EIP-7976 — increase calldata floor cost to 64/64](https://github.com/bluealloy/revm/pull/3597) - 2026-04-22
+* [Review] [Review on: chore: enable and fix clippy::missing_const_for_fn](https://github.com/bluealloy/revm/pull/3592#pullrequestreview-4152925876) - 2026-04-22
+* [Review] [Review on: perf: no alloc for empty accounts](https://github.com/bluealloy/revm/pull/3590#pullrequestreview-4152923162) - 2026-04-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

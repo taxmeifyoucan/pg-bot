@@ -72,6 +72,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Add missing solution dependencies (#11286)](https://github.com/NethermindEth/nethermind/commit/ec604f3c2ebdb78e9a14f8665c264ffe64726e31) - 2026-04-21
 * [Commit] [Break on regular message before status receival (#11262)](https://github.com/NethermindEth/nethermind/commit/a4165b2904d6f4d4be1b366e14e0be2ced2745b0) - 2026-04-21
 * [Commit] [Break on unknown receipts; ignore unknown blocks (#11263)](https://github.com/NethermindEth/nethermind/commit/c88a7a982e519eacc8f0aad5f7042cd852146472) - 2026-04-21
+* [Review] [Review on: EIP-7976 — Increase calldata floor cost](https://github.com/NethermindEth/nethermind/pull/11293#pullrequestreview-4153607721) - 2026-04-22
+* [Review] [Review on: Enforce EIP-3675 uncle ban at the spec level](https://github.com/NethermindEth/nethermind/pull/11302#pullrequestreview-4155062060) - 2026-04-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

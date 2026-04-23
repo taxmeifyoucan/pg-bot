@@ -23,6 +23,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Remove pre-EIP-8 RLPx handshake support](https://github.com/besu-eth/besu/pull/10257#pullrequestreview-4129499485) - 2026-04-17
 * [Review] [Review on: Layered txpool: enable balance check by default](https://github.com/besu-eth/besu/pull/10175#pullrequestreview-4131140286) - 2026-04-17
 * [Issue] [2026-05-12 Contributor Call](https://github.com/besu-eth/besu/issues/10299) - 2026-04-21
+* [Pull Request] [Gate final-version docker tags on release publish, not draft](https://github.com/besu-eth/besu/pull/10306) - 2026-04-22
+* [Review] [Review on: Gate final-version docker tags on release publish, not draft](https://github.com/besu-eth/besu/pull/10306#pullrequestreview-4157274289) - 2026-04-22
 ## Q1 2026
 
 

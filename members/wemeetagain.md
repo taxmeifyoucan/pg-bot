@@ -28,6 +28,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add unknown payload envelope sync flow](https://github.com/ChainSafe/lodestar/pull/9241) - 2026-04-20
 * [Review] [Review on: feat: trigger processExecutionPayload() once](https://github.com/ChainSafe/lodestar/pull/9223#pullrequestreview-4140617585) - 2026-04-20
 * [Review] [Review on: fix: prevent seed state cache poisoning in loadState clone](https://github.com/ChainSafe/lodestar/pull/9246#pullrequestreview-4149103095) - 2026-04-21
+* [Review] [Review on: fix: drop payloadStatus from Checkpoint](https://github.com/ChainSafe/lodestar/pull/9259#pullrequestreview-4157988156) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 ## Q1 2026

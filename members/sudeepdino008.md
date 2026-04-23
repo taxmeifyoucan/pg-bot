@@ -100,6 +100,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[wip] Bound integrity](https://github.com/erigontech/erigon/pull/20714) - 2026-04-21
 * [Pull Request] [cp: cap state collation at block snapshots progress](https://github.com/erigontech/erigon/pull/20701) - 2026-04-21
 * [Issue] [GetBlobs failed](https://github.com/erigontech/erigon/issues/20709) - 2026-04-21
+* [Review] [Review on: add time budget for integrity checks](https://github.com/erigontech/erigon/pull/20714#pullrequestreview-4153775147) - 2026-04-22
+* [Review] [Review on: db/version: enforce upper-bound file version check](https://github.com/erigontech/erigon/pull/20722#pullrequestreview-4152957878) - 2026-04-22
+* [Review] [Review on: txpool: add GetBlobs to GrpcDisabled stub](https://github.com/erigontech/erigon/pull/20723#pullrequestreview-4152536502) - 2026-04-22
+* [Issue] [different format for page compressed history](https://github.com/erigontech/erigon/issues/20726) - 2026-04-22
+* [Commit] [db/state: propagate tx.Unwind error up (#20681)](https://github.com/erigontech/erigon/commit/5659a90a41e86ae2cd6882df7825066f0d6aaa23) - 2026-04-22
 ## Q1 2026
 
 

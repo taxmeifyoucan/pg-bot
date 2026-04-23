@@ -25,6 +25,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on:    Added POST /eth/v1/beacon/pool/payload_attestations endpoint](https://github.com/Consensys/teku/pull/10534#pullrequestreview-4127057123) - 2026-04-17
 * [Review] [Review on: fetch execution payload on payload attestation](https://github.com/Consensys/teku/pull/10579#pullrequestreview-4139910528) - 2026-04-20
 * [Review] [Review on: Introduce a phase0 forkchoice model seam without changing behavior (4 of 7)](https://github.com/Consensys/teku/pull/10590#pullrequestreview-4148021703) - 2026-04-21
+
+* [Review] [Review on: target java 25](https://github.com/Consensys/teku/pull/10567#pullrequestreview-4156115955) - 2026-04-22
+* [Issue] [Netty memory allocation issues](https://github.com/Consensys/teku/issues/10597) - 2026-04-22
+[Consensys/discovery](https://github.com/Consensys/discovery)
+* [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 ## Q1 2026
 
 

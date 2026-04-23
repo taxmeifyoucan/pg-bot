@@ -20,6 +20,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Allow `HistoryPruner` to be callable via decorator](https://github.com/NethermindEth/nethermind/pull/11098) - 2026-04-10
 * [Review] [Review on: feat: add call count limit for trace_callMany](https://github.com/NethermindEth/nethermind/pull/11085#pullrequestreview-4097485408) - 2026-04-13
 * [Review] [Review on: fix: add bounds check before unsafe RLP length deserialization](https://github.com/NethermindEth/nethermind/pull/11088#pullrequestreview-4097238638) - 2026-04-13
+* [Review] [Review on: fix: skip AuRa finalization startup walk on post-merge chains](https://github.com/NethermindEth/nethermind/pull/11306#pullrequestreview-4155701905) - 2026-04-22
 ## Q1 2026
 
 

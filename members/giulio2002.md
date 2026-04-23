@@ -42,8 +42,12 @@ Team: Erigon
 * [Review] [Review on: tools/create-ramdisk: retry when chocolatey silently fails on Windows](https://github.com/erigontech/erigon/pull/20695#pullrequestreview-4142344026) - 2026-04-20
 * [Review] [Review on: makefile: `solc` depend on `OPENZEPPELIN` ](https://github.com/erigontech/erigon/pull/20708#pullrequestreview-4150025902) - 2026-04-21
 * [Review] [Review on: parallel_exec: removing 1 spamming `Background files build` log](https://github.com/erigontech/erigon/pull/20706#pullrequestreview-4145415443) - 2026-04-21
+* [Review] [Review on: `RPC_DROP_RESPONSE` to not drop errors](https://github.com/erigontech/erigon/pull/20721#pullrequestreview-4155304384) - 2026-04-22
+* [Review] [Review on: test-hive.yml validation](https://github.com/erigontech/erigon/pull/20720#pullrequestreview-4152399627) - 2026-04-22
+* [Review] [Review on: bumper: rely on `go generate` (as all other code generators in go)](https://github.com/erigontech/erigon/pull/20704#pullrequestreview-4152399809) - 2026-04-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
+* [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22
 ## Q1 2026
 
 

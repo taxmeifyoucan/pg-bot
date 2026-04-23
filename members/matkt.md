@@ -37,6 +37,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Add eip 7976 to bal-devnet-4](https://github.com/besu-eth/besu/pull/10296#pullrequestreview-4148391295) - 2026-04-21
 * [Review] [Review on: Feat/reenable dynamic cpsb calculation](https://github.com/besu-eth/besu/pull/10295#pullrequestreview-4148127717) - 2026-04-21
 * [Issue] [Update EIP-8189: Use RLP empty str placeholder, add bytes parameter to GetBlockAccessLists](https://github.com/besu-eth/besu/issues/10288) - 2026-04-21
+* [Review] [Review on: Add EIP-7981 to bal-devnet-4](https://github.com/besu-eth/besu/pull/10297#pullrequestreview-4155636521) - 2026-04-22
+* [Commit] [Enforce EIP-7928 BAL item budget per transaction in processing and mining (#10250)](https://github.com/besu-eth/besu/commit/20539742507eee8ec580ef2dd19eddeea592e23e) - 2026-04-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

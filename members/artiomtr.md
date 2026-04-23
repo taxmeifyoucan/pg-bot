@@ -15,6 +15,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Handle non-power-of-two length persistent vectors](https://github.com/grandinetech/grandine/pull/663) - 2026-04-09
 * [Commit] [Handle non-power-of-two length persistent vectors](https://github.com/grandinetech/grandine/commit/083146f2cc7383674adb22ebc5b5a40c5d2cdd5d) - 2026-04-16
 * [Review] [Review on: Add Fast Confirmation Rule (FCR) implementation](https://github.com/grandinetech/grandine/pull/656#pullrequestreview-4146839820) - 2026-04-21
+* [Review] [Review on: Add `#![no_main]` to suppress duplicate entry point error](https://github.com/grandinetech/grandine/pull/671#pullrequestreview-4154151630) - 2026-04-22
+* [Pull Request] [Update rust toolchain to 1.95.0](https://github.com/grandinetech/grandine/pull/672) - 2026-04-22
 ## Q1 2026
 
 

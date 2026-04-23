@@ -106,6 +106,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add executable gossip validation functions for altair](https://github.com/ethereum/consensus-specs/pull/5033#pullrequestreview-4148401205) - 2026-04-21
 * [Commit] [Move deposit contract to new repo (#5137)](https://github.com/ethereum/consensus-specs/commit/af4a77680b216c7142e3c2dc2195b42b8aea04f2) - 2026-04-21
 * [Commit] [Add executable gossip validation functions for altair (#5033)](https://github.com/ethereum/consensus-specs/commit/5dac261c78eda16b383f7b6d832495880bdd015c) - 2026-04-21
+* [Review] [Review on: Add executable gossip validation functions for capella](https://github.com/ethereum/consensus-specs/pull/5049#pullrequestreview-4155584077) - 2026-04-22
+* [Review] [Review on: Add executable gossip validation functions for bellatrix](https://github.com/ethereum/consensus-specs/pull/5047#pullrequestreview-4154483075) - 2026-04-22
+* [Commit] [Add executable gossip validation functions for capella (#5049)](https://github.com/ethereum/consensus-specs/commit/dd834d4b55170605747539220042c9bdedb721d7) - 2026-04-22
+* [Commit] [Add executable gossip validation functions for bellatrix (#5047)](https://github.com/ethereum/consensus-specs/commit/1d11202c19d6fd5c2f69d15c6f78dff1e911be18) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

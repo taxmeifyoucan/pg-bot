@@ -36,6 +36,10 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #491 from shekhirin/patch-7](https://github.com/protocolguild/documentation/commit/752697f894804ee535837fa35bb585e6d934eaca) - 2026-04-20
 * [Commit] [Merge branch 'main' into patch-7](https://github.com/protocolguild/documentation/commit/8ef4724eae795426042296c9fd8c9d33427ae33e) - 2026-04-20
 * [Commit] [Merge pull request #492 from rjl493456442/add-jonny](https://github.com/protocolguild/documentation/commit/7e146973aa9ba01914899bd4a67d22b9b46bd793) - 2026-04-21
+* [Commit] [Merge pull request #495 from yperbasis/yperbasis/add_willian](https://github.com/protocolguild/documentation/commit/d148f39bc97e18ede7da42b1f1f83f82f7e57768) - 2026-04-22
+* [Commit] [Merge branch 'main' into yperbasis/add_willian](https://github.com/protocolguild/documentation/commit/8b8d5e60bf98eb0f1a0ffbda1dc9b8be0b903b9b) - 2026-04-22
+* [Commit] [Merge pull request #493 from saltiniroberto/patch-2](https://github.com/protocolguild/documentation/commit/f02fd67615943f2b107058194e8248faecb76b83) - 2026-04-22
+* [Commit] [Merge pull request #494 from matthewkeil/mkeil/nopminate-grapebaba](https://github.com/protocolguild/documentation/commit/51ac8a5c8df41d0ad3d537b47ce9ebb90850d184) - 2026-04-22
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Pull Request] [Extend hero image, fix social cards + dark more favicon](https://github.com/protocolguild/protocol-guild-site/pull/57) - 2026-04-13
 * [Commit] [Merge pull request #57 from protocolguild/staging3](https://github.com/protocolguild/protocol-guild-site/commit/3f3c631fc0a5787812805c9a305bb1c2d854026b) - 2026-04-13

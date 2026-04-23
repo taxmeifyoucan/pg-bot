@@ -29,6 +29,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-8037: Refund state gas on all frame failures including top level](https://github.com/ethereum/EIPs/pull/11476#pullrequestreview-4126864187) - 2026-04-17
 * [Review] [Review on: Update EIP-8037: Clarify SSTORE restoration refund rollback semantics](https://github.com/ethereum/EIPs/pull/11548#pullrequestreview-4138042651) - 2026-04-20
 * [Commit] [Update EIP-8037: add per-dimension block gas limit check](https://github.com/ethereum/EIPs/commit/fabf144654d9ab2374aeb1bbf4ffde1aebb99935) - 2026-04-20
+* [Review] [Review on: Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332#pullrequestreview-4152712484) - 2026-04-22
 ## Q1 2026
 
 

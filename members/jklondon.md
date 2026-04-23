@@ -36,6 +36,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: rpc : optimize eth_getLogs](https://github.com/erigontech/erigon/pull/20561#pullrequestreview-4135869782) - 2026-04-19
 * [Review] [Review on: ci: fix release version check for pre-releases and app-id deprecation](https://github.com/erigontech/erigon/pull/20668#pullrequestreview-4139168746) - 2026-04-20
 * [Review] [Review on: ci: replace deprecated app-id with client-id in create-github-app-token steps](https://github.com/erigontech/erigon/pull/20669#pullrequestreview-4139165345) - 2026-04-20
+* [Pull Request] [added Caplin not nil type check to the tests](https://github.com/erigontech/erigon/pull/18278) - 2026-04-22
+* [Review] [Review on: [wip] rs: sharded fusefilter v2](https://github.com/erigontech/erigon/pull/20644#pullrequestreview-4154746428) - 2026-04-22
+* [Commit] [added Caplin not nil type check to the tests (#18278)](https://github.com/erigontech/erigon/commit/ed62c59cbd1bb1987737574b9bbcce44798b49bf) - 2026-04-22
 ## Q1 2026
 
 

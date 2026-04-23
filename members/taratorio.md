@@ -45,6 +45,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: speedup hive eest consume-rlp by removing unnecessary NAT discovery (#20715)](https://github.com/erigontech/erigon/commit/4effc11a7269abe4890e4bcf3005453e1ed992b9) - 2026-04-21
 * [Commit] [execution/tests: update eest fixtures to stable v5.4.0 (#20541)](https://github.com/erigontech/erigon/commit/adad10a33fd903376993603fd5fb53d75b8b281c) - 2026-04-21
 * [Commit] [claude: add hive eest consume-rlp to /hive-test skill (#20690)](https://github.com/erigontech/erigon/commit/80d4c3566d4ab0b627696a450678714352b46e0d) - 2026-04-21
+* [Review] [Review on: execution: implement EIP-7976 ](https://github.com/erigontech/erigon/pull/20613#pullrequestreview-4157735881) - 2026-04-22
+* [Review] [Review on: engineapi: validate payloadAttributes before SYNCING short-circuit](https://github.com/erigontech/erigon/pull/20728#pullrequestreview-4155392073) - 2026-04-22
+* [Review] [Review on: Add Claude Code GitHub Workflow](https://github.com/erigontech/erigon/pull/20727#pullrequestreview-4154310442) - 2026-04-22
+* [Review] [Review on: chore: Widen Block Access List index to uint32 (EIP-7928)](https://github.com/erigontech/erigon/pull/20679#pullrequestreview-4152964846) - 2026-04-22
+* [Review] [Review on: tests: overlay-based block execution with genesis cache](https://github.com/erigontech/erigon/pull/20063#pullrequestreview-4154364530) - 2026-04-22
+* [Pull Request] [execution/tests: update devnet fixtures to v5.7.0-alpha](https://github.com/erigontech/erigon/pull/20725) - 2026-04-22
+* [Commit] [execution/tests: update devnet fixtures to v5.7.0-alpha (#20725)](https://github.com/erigontech/erigon/commit/c9833c4dd13e5609c09f79b9cc2087d07f413d35) - 2026-04-22
 ## Q1 2026
 
 

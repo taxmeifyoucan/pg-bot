@@ -61,6 +61,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [stateless block v4](https://github.com/OffchainLabs/prysm/pull/16699) - 2026-04-20
 * [Review] [Review on: Add BAL, slot pre-compile, and engine-api implementations](https://github.com/OffchainLabs/prysm/pull/16687#pullrequestreview-4149432950) - 2026-04-21
 * [Review] [Review on: Cache random_bytes in compute_balance_weighted_selection](https://github.com/OffchainLabs/prysm/pull/16708#pullrequestreview-4148441198) - 2026-04-21
+* [Review] [Review on: Cache random_bytes in compute_balance_weighted_selection](https://github.com/OffchainLabs/prysm/pull/16708#pullrequestreview-4155982916) - 2026-04-22
+* [Pull Request] [e2e fix for add bal](https://github.com/OffchainLabs/prysm/pull/16713) - 2026-04-22
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

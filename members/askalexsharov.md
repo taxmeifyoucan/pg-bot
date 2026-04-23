@@ -314,6 +314,26 @@ Team: Erigon
 * [Commit] [parallel_exec: removing 1 spamming `Background files build` log (#20706)](https://github.com/erigontech/erigon/commit/57c7d5082c1e4617168ca4e2c7ca347fbfd03bbb) - 2026-04-21
 * [Commit] [recsplit: off-heap EliasFano build (#20640)](https://github.com/erigontech/erigon/commit/bc3a812e0a28aa98ab13eaeba7e7289092c700be) - 2026-04-21
 * [Commit] [db/state: inv_index merge remove 1 intermediate buffer to reduce peak memory (#20597)](https://github.com/erigontech/erigon/commit/80ba94138f32fca0eb63a9369afb28f61fc0cffb) - 2026-04-21
+* [Review] [Review on: docs: backport v3.4 documentation updates to main](https://github.com/erigontech/erigon/pull/20737#pullrequestreview-4158881571) - 2026-04-23
+* [Pull Request] [rm autoresearch skill](https://github.com/erigontech/erigon/pull/20740) - 2026-04-23
+* [Review] [Review on: common, node, cl, db: dedupe copy-pasted constants and vars](https://github.com/erigontech/erigon/pull/20731#pullrequestreview-4158998288) - 2026-04-23
+* [Review] [Review on: add time budget for integrity checks](https://github.com/erigontech/erigon/pull/20714#pullrequestreview-4153635640) - 2026-04-22
+* [Pull Request] [[r3.4] db/version: enforce upper-bound file version check](https://github.com/erigontech/erigon/pull/20739) - 2026-04-23
+* [Review] [Review on: docs: document --caplin.columns-keep-slots flag (PeerDAS column retention)](https://github.com/erigontech/erigon/pull/20729#pullrequestreview-4158940538) - 2026-04-23
+* [Review] [Review on: docs: document --erigondb.domain.steps-in-frozen-file flag](https://github.com/erigontech/erigon/pull/20730#pullrequestreview-4158940432) - 2026-04-23
+* [Review] [Review on: docs: document v3.4 release features and breaking changes](https://github.com/erigontech/erigon/pull/20736#pullrequestreview-4158881804) - 2026-04-23
+* [Review] [Review on: Add Claude Code GitHub Workflow](https://github.com/erigontech/erigon/pull/20727#pullrequestreview-4153823615) - 2026-04-22
+* [Pull Request] [`RPC_DROP_RESPONSE` to not drop errors](https://github.com/erigontech/erigon/pull/20721) - 2026-04-22
+* [Review] [Review on: tests: overlay-based block execution with genesis cache](https://github.com/erigontech/erigon/pull/20063#pullrequestreview-4154630013) - 2026-04-22
+* [Review] [Review on: execution/trie: enhance trie hashing flow and correct key encoding](https://github.com/erigontech/erigon/pull/20712#pullrequestreview-4152854757) - 2026-04-22
+* [Review] [Review on: cmd/evm: fix gasUsed reporting in --create path](https://github.com/erigontech/erigon/pull/20614#pullrequestreview-4152235688) - 2026-04-22
+* [Pull Request] [db/version: enforce upper-bound file version check](https://github.com/erigontech/erigon/pull/20722) - 2026-04-22
+* [Review] [Review on: [r3.4] fix fork choice block validation and error propagation](https://github.com/erigontech/erigon/pull/20724#pullrequestreview-4152860621) - 2026-04-22
+* [Review] [Review on: p2p: normalize write errors and reset error map per log interval](https://github.com/erigontech/erigon/pull/20673#pullrequestreview-4152734971) - 2026-04-22
+* [Commit] [`RPC_DROP_RESPONSE` to not drop errors (#20721)](https://github.com/erigontech/erigon/commit/016ba97045dcebf96c2c60edede4d06117c03ebd) - 2026-04-22
+* [Commit] [db/version: enforce upper-bound file version check (#20722)](https://github.com/erigontech/erigon/commit/91088e6edc5d003bbcc307e7469b95196d0a36e5) - 2026-04-22
+* [Commit] [bumper: rely on `go generate` (as all other code generators in go) (#20704)](https://github.com/erigontech/erigon/commit/218f7d0af9ab691960f3395f1e2e0c3c638045ab) - 2026-04-22
+* [Commit] [test-hive.yml validation (#20720)](https://github.com/erigontech/erigon/commit/577899204f6d6cb6fcf97604b8eeeeedbeabd892) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

@@ -40,6 +40,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Revert Gloas API changes from 9092](https://github.com/sigp/lighthouse/pull/9151) - 2026-04-21
 * [Review] [Review on: Remove `test_logger` feature](https://github.com/sigp/lighthouse/pull/9125#pullrequestreview-4145712852) - 2026-04-21
 * [Issue] [Delete `/eth/v1/builder/states/{state_id}/expected_withdrawals` API](https://github.com/sigp/lighthouse/issues/9158) - 2026-04-22
+* [Review] [Review on: Gloas `PayloadAttestation` gossip verification](https://github.com/sigp/lighthouse/pull/9145#pullrequestreview-4151935164) - 2026-04-22
+* [Review] [Review on: At the fork transition ensure we build ontop of the correct parent block hash](https://github.com/sigp/lighthouse/pull/9160#pullrequestreview-4153352689) - 2026-04-22
+* [Issue] [Don't send 0x00 block hash for Gloas genesis block](https://github.com/sigp/lighthouse/issues/9167) - 2026-04-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

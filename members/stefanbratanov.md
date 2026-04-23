@@ -41,6 +41,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Make availability checker NOOP for `on_Block` for Gloas (#10591)](https://github.com/Consensys/teku/commit/68027b52924bfde0d4ce93f365d3bbf360a483b5) - 2026-04-21
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
+* [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22
 ## Q1 2026
 
 

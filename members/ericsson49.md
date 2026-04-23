@@ -29,6 +29,7 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 * [Commit] [Speed up fork choice tests (#5136)](https://github.com/ethereum/consensus-specs/commit/c5d50e3e8cbfa2aaa1a8262b6052e2e6a61977e5) - 2026-04-20
 * [Pull Request] [Modify comptests to use pytest](https://github.com/ethereum/consensus-specs/pull/5143) - 2026-04-21
 * [Commit] [Add sliced test generation for comptests (#5126)](https://github.com/ethereum/consensus-specs/commit/ccc96eb9bf90e8ac94947efec4415be83a7de73d) - 2026-04-21
+* [Review] [Review on: Modify comptests to use pytest](https://github.com/ethereum/consensus-specs/pull/5143#pullrequestreview-4152667490) - 2026-04-22
 ## Q1 2026
 
 

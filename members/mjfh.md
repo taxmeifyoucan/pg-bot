@@ -18,6 +18,8 @@ Team: Nimbus
 * [Commit] [Snap sync resume and download session fixes (#4097)](https://github.com/status-im/nimbus-eth1/commit/14941c67a188f53d5bb4de2ed0857d560083ff97) - 2026-04-02
 * [Pull Request] [Snap sync refactor state db index tables](https://github.com/status-im/nimbus-eth1/pull/4118) - 2026-04-13
 * [Commit] [Snap sync refactor state db index tables (#4118)](https://github.com/status-im/nimbus-eth1/commit/5c1b3e26b70600c352e548dff81782e8d8906e59) - 2026-04-13
+* [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4164) - 2026-04-22
+* [Commit] [Snap sync maint update (#4164)](https://github.com/status-im/nimbus-eth1/commit/3b426d56cfdbcd841508e5c64b7b457a96d2ac9d) - 2026-04-22
 ## Q1 2026
 
 

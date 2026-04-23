@@ -43,6 +43,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Issue] [Flaky test: Can_change_branch_on_invalid_block times out on CI](https://github.com/NethermindEth/nethermind/issues/11148) - 2026-04-15
 * [Review] [Review on: Remove Eip-7907](https://github.com/NethermindEth/nethermind/pull/11199#pullrequestreview-4127499473) - 2026-04-17
 * [Review] [Review on: `eth_call`, `eth_createAccessList`, `eth_estimateGas`, `debug_traceCall`, `debug_traceCallMany` : honour gasCap as default gas, remove block-gas-limit ceiling for RPC calls](https://github.com/NethermindEth/nethermind/pull/11282#pullrequestreview-4148635936) - 2026-04-21
+* [Review] [Review on: fix: skip AuRa finalization startup walk on post-merge chains](https://github.com/NethermindEth/nethermind/pull/11306#pullrequestreview-4155743877) - 2026-04-22
+* [Review] [Review on: fix: skip AuRa finalization startup walk on post-merge chains (1.37.0-rc2 backport)](https://github.com/NethermindEth/nethermind/pull/11307#pullrequestreview-4155747913) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

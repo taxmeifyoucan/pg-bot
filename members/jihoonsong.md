@@ -38,6 +38,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Move deposit contract to new repo](https://github.com/ethereum/consensus-specs/pull/5137#pullrequestreview-4149636232) - 2026-04-21
 * [Review] [Review on: Add executable gossip validation functions for altair](https://github.com/ethereum/consensus-specs/pull/5033#pullrequestreview-4145318575) - 2026-04-21
 * [Review] [Review on: Update inclusion list deadlines](https://github.com/ethereum/consensus-specs/pull/5138#pullrequestreview-4148803567) - 2026-04-21
+* [Review] [Review on: Add executable gossip validation functions for capella](https://github.com/ethereum/consensus-specs/pull/5049#pullrequestreview-4155094110) - 2026-04-22
+* [Review] [Review on: Add executable gossip validation functions for bellatrix](https://github.com/ethereum/consensus-specs/pull/5047#pullrequestreview-4153531011) - 2026-04-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

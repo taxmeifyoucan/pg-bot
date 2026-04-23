@@ -216,6 +216,18 @@ Team: Reth
 * [Commit] [fix: lazily build inst_lines in take_inst_lines](https://github.com/paradigmxyz/revmc/commit/c4619827f7a36d1a94192d6007c1576eb1567f41) - 2026-04-21
 * [Commit] [chore: update AGENTS.md](https://github.com/paradigmxyz/revmc/commit/bceb5e779961da08cbf8def2dfe294baffe42e2d) - 2026-04-21
 * [Commit] [perf: truncate to i64 before jumping to dynamic jump table (#317)](https://github.com/paradigmxyz/revmc/commit/326e6f84958477515bc35869f92ac45cf5e81632) - 2026-04-21
+* [Pull Request] [perf: inline CALLDATALOAD with direct-load fast path](https://github.com/paradigmxyz/revmc/pull/328) - 2026-04-22
+* [Pull Request] [perf: inline ADDRESS, CALLER, CALLVALUE, RETURNDATASIZE, CALLDATASIZE](https://github.com/paradigmxyz/revmc/pull/327) - 2026-04-22
+* [Pull Request] [refactor: unify --load path with PreparedBench](https://github.com/paradigmxyz/revmc/pull/326) - 2026-04-22
+* [Pull Request] [perf: always store gas before overflow check + cgpp-huge-func tuning](https://github.com/paradigmxyz/revmc/pull/323) - 2026-04-22
+* [Pull Request] [chore: unify benchmark scripts and clean up bench infra](https://github.com/paradigmxyz/revmc/pull/324) - 2026-04-22
+* [Pull Request] [refactor: flatten JumpTarget Const/Multi into Resolved](https://github.com/paradigmxyz/revmc/pull/325) - 2026-04-22
+* [Commit] [perf: inline ADDRESS, CALLER, CALLVALUE, RETURNDATASIZE, CALLDATASIZE (#327)](https://github.com/paradigmxyz/revmc/commit/5cf878e184df75666ded64a5527aa11f1be63840) - 2026-04-23
+* [Commit] [refactor: unify --load path with PreparedBench (#326)](https://github.com/paradigmxyz/revmc/commit/dfe08d081b7b688ab48ad30499e409762e7d53bf) - 2026-04-22
+* [Commit] [perf: always store gas before overflow check + cgpp-huge-func tuning (#323)](https://github.com/paradigmxyz/revmc/commit/d1c65b878db1360b027438de6b4ee40315b36d10) - 2026-04-22
+* [Commit] [chore: unify benchmark scripts and clean up bench infra (#324)](https://github.com/paradigmxyz/revmc/commit/1879ef419311d4000279ae5f9c34ff6332b5235d) - 2026-04-22
+* [Commit] [refactor: flatten JumpTarget Const/Multi into Resolved (#325)](https://github.com/paradigmxyz/revmc/commit/d8b06843415950e0967d09070af0a1b99dda5912) - 2026-04-22
+* [Commit] [perf: exit trampoline for builtin errors (#314)](https://github.com/paradigmxyz/revmc/commit/ecbc5f38e338a078510925999ce5cbc81d16b294) - 2026-04-22
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -236,6 +248,7 @@ Team: Reth
 * [Review] [Review on: refactor: encapsulate state fetching in db provider](https://github.com/paradigmxyz/reth/pull/23656#pullrequestreview-4141427241) - 2026-04-20
 * [Review] [Review on: chore(bench): add cli flag to fetch bal by default](https://github.com/paradigmxyz/reth/pull/23655#pullrequestreview-4141433327) - 2026-04-20
 * [Commit] [chore(docs): normalize Grafana dashboard JSON formatting and tags (#23266)](https://github.com/paradigmxyz/reth/commit/d58c6e3d0723a28f655e89da83c3738e47dcc364) - 2026-04-20
+* [Review] [Review on: perf: avoid reopening .csoff on every changeset lookup](https://github.com/paradigmxyz/reth/pull/23687#pullrequestreview-4157403960) - 2026-04-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14
@@ -264,6 +277,11 @@ Team: Reth
 * [Commit] [chore: missed clippy (#3591)](https://github.com/bluealloy/revm/commit/6226003c210e6aa01ef7cd9c0af282904cc5c412) - 2026-04-21
 * [Commit] [perf: avoid cloning precompiles on warmup (#3586)](https://github.com/bluealloy/revm/commit/c3fcc99a8b8c881969cc517e03a0b8018afa30bf) - 2026-04-21
 * [Commit] [test: fix missed merge conflict (#3587)](https://github.com/bluealloy/revm/commit/f55150aa4bd67c9ec8bc6e585f6d4f0ad14071e8) - 2026-04-21
+* [Pull Request] [perf: move memory_limit check into cold resize path](https://github.com/bluealloy/revm/pull/3599) - 2026-04-22
+* [Pull Request] [chore: bump rustls-webpki for advisory](https://github.com/bluealloy/revm/pull/3600) - 2026-04-22
+* [Commit] [chore: bump rustls-webpki for advisory (#3600)](https://github.com/bluealloy/revm/commit/b0792f8d30ebe6b4873c4b8d7d7e2cd00b34ed60) - 2026-04-22
+* [Commit] [chore: enable and fix clippy::missing_const_for_fn (#3592)](https://github.com/bluealloy/revm/commit/eaf125a8753ef5946e0db21ddd8f3d27cce493db) - 2026-04-22
+* [Commit] [perf: no alloc for empty accounts (#3590)](https://github.com/bluealloy/revm/commit/64eb8d441b3e7e5a5e09812b36097ce831f1c786) - 2026-04-22
 ## Q1 2026
 
 

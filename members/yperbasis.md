@@ -198,6 +198,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/state: preserve per-step unwind entries so Flush reverts every orphan (#20710)](https://github.com/erigontech/erigon/commit/2813e8fc3958128ae5bbb528297e4465caeaac27) - 2026-04-21
 * [Commit] [cmd/utils: gate chain defaults by --networkid for P2P discovery (#20694)](https://github.com/erigontech/erigon/commit/9ae70355cb5324a2b25eb3f877cf5c7dd6dcfa2c) - 2026-04-21
 * [Commit] [execution/vm: preserve EIP-4788 no-op-when-not-deployed syscall semantics (#20691)](https://github.com/erigontech/erigon/commit/139e4e378f8b9e6e851ced62940d9d96b27ed898) - 2026-04-21
+* [Pull Request] [common, node, cl, db: dedupe copy-pasted constants and vars](https://github.com/erigontech/erigon/pull/20731) - 2026-04-22
+* [Review] [Review on: execution/abi: cap simulated CallContract gas in Osaka](https://github.com/erigontech/erigon/pull/20707#pullrequestreview-4154734466) - 2026-04-22
+* [Pull Request] [engineapi: validate payloadAttributes before SYNCING short-circuit](https://github.com/erigontech/erigon/pull/20728) - 2026-04-22
+* [Pull Request] [Add Claude Code GitHub Workflow](https://github.com/erigontech/erigon/pull/20727) - 2026-04-22
+* [Pull Request] [p2p, txpool: fix Hive eth devp2p test failures](https://github.com/erigontech/erigon/pull/20733) - 2026-04-22
+* [Review] [Review on: execution/abi: add MakeTopics boundary regression tests](https://github.com/erigontech/erigon/pull/20693#pullrequestreview-4152986687) - 2026-04-22
+* [Pull Request] [cmd/utils/app: fix import hang when block fails execution](https://github.com/erigontech/erigon/pull/20735) - 2026-04-22
+* [Review] [Review on: execution/tests: update devnet fixtures to v5.7.0-alpha](https://github.com/erigontech/erigon/pull/20725#pullrequestreview-4153244093) - 2026-04-22
+* [Commit] [engineapi: validate payloadAttributes before SYNCING short-circuit (#20728)](https://github.com/erigontech/erigon/commit/5f5404046823270007b242791a80c9283195c67a) - 2026-04-22
+* [Commit] [cl/block_collector: don't wipe post-gap rows and skip duplicates in Flush (#20700)](https://github.com/erigontech/erigon/commit/28e321885d0c3db5fd577850c4bf0a607e78aaa5) - 2026-04-22
+* [Commit] [Add Claude Code GitHub Workflow (#20727)](https://github.com/erigontech/erigon/commit/d08f8e01f579b9fa47e144a8beffca0a893cdea5) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
@@ -211,6 +222,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/erigon: fix discv5 test isolation](https://github.com/ethereum/hive/pull/1427) - 2026-04-17
+* [Review] [Review on: clients/erigon: fix discv5 NAT and bootnode handling](https://github.com/ethereum/hive/pull/1427#pullrequestreview-4153483529) - 2026-04-22
+* [Commit] [clients/erigon: fix discv5 NAT and bootnode handling (#1427)](https://github.com/ethereum/hive/commit/e1a791868b3079ad706c46ef5b976f12e2dc9fcf) - 2026-04-22
 ## Q1 2026
 
 

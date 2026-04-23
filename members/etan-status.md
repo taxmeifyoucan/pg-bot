@@ -47,6 +47,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [implement proposer preferences sending](https://github.com/status-im/nimbus-eth2/pull/8299) - 2026-04-20
 * [Pull Request] [Pass RuntimeConfig to light client fork migration helpers](https://github.com/status-im/nimbus-eth2/pull/8313) - 2026-04-21
 * [Pull Request] [Move light client helpers further down in the file](https://github.com/status-im/nimbus-eth2/pull/8309) - 2026-04-21
+* [Pull Request] [Move light client init code further down as Gloas prep](https://github.com/status-im/nimbus-eth2/pull/8320) - 2026-04-22
+* [Pull Request] [Remove unneeded lcDataStore.serve checks from internal APIs](https://github.com/status-im/nimbus-eth2/pull/8321) - 2026-04-22
+* [Pull Request] [Cleanup unused fork choice variable](https://github.com/status-im/nimbus-eth2/pull/8319) - 2026-04-22
+* [Pull Request] [Light client execution_block_hash helper](https://github.com/status-im/nimbus-eth2/pull/8317) - 2026-04-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

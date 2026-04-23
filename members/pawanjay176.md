@@ -25,6 +25,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Pull Request] [Rust 1.95 lints](https://github.com/sigp/lighthouse/pull/9142) - 2026-04-16
 * [Review] [Review on: Rust 1.95 lints](https://github.com/sigp/lighthouse/pull/9142#pullrequestreview-4125136481) - 2026-04-16
 * [Review] [Review on: Fix slasher OOM](https://github.com/sigp/lighthouse/pull/9141#pullrequestreview-4123181862) - 2026-04-16
+* [Pull Request] [Avoid lint and fmt for agents](https://github.com/sigp/lighthouse/pull/9166) - 2026-04-22
+* [Review] [Review on: Default envelope to always avail](https://github.com/sigp/lighthouse/pull/9165#pullrequestreview-4157003069) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4100433052) - 2026-04-13

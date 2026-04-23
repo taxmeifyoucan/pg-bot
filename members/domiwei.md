@@ -27,6 +27,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db/state: skip DB entries within file range in DomainLatestIterFile](https://github.com/erigontech/erigon/pull/20674) - 2026-04-20
 * [Review] [Review on: [wip] Revert "Revert "[r3.4] logger: avoid mutex contention""](https://github.com/erigontech/erigon/pull/20703#pullrequestreview-4151663268) - 2026-04-22
 * [Review] [Review on: [wip] Revert "Revert "logger: avoid mutex contention""](https://github.com/erigontech/erigon/pull/20702#pullrequestreview-4151659819) - 2026-04-22
+* [Review] [Review on: cl/block_collector: don't wipe post-gap rows and skip duplicates in Flush](https://github.com/erigontech/erigon/pull/20700#pullrequestreview-4153377730) - 2026-04-22
+* [Pull Request] [txpool: add GetBlobs to GrpcDisabled stub](https://github.com/erigontech/erigon/pull/20723) - 2026-04-22
+* [Pull Request] [[r3.4] fix fork choice block validation and error propagation](https://github.com/erigontech/erigon/pull/20724) - 2026-04-22
+* [Commit] [txpool: add GetBlobs to GrpcDisabled stub (#20723)](https://github.com/erigontech/erigon/commit/bdbb2caadace43f073fbe06d735073bcaa686238) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

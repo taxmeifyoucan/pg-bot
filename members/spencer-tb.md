@@ -63,6 +63,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec-specs, tests): add system address BAL tests](https://github.com/ethereum/execution-specs/pull/2715#pullrequestreview-4138873376) - 2026-04-20
 * [Pull Request] [feat(tests): EIP-8073 - remove stale header verify on CALL to selfdestructed tests](https://github.com/ethereum/execution-specs/pull/2725) - 2026-04-20
 * [Commit] [feat(tests): prepare `test_scenarios` and `test_all_opcodes` for EIP-8037 (#2727)](https://github.com/ethereum/execution-specs/commit/4c47daacfbe2e5ae95d79753b131acc904eceda7) - 2026-04-20
+* [Issue] [Optimistic Inclusion (OI) of Amsterdam EIPs For Simpler Releases](https://github.com/ethereum/execution-specs/issues/2744) - 2026-04-22
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

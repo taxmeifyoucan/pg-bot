@@ -185,6 +185,22 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Optimize EVM stack](https://github.com/NethermindEth/nethermind/pull/11230#pullrequestreview-4147583101) - 2026-04-21
 * [Review] [Review on: perf(trie): skip TrieNode wrapping for extension children already unresolved to Hash256](https://github.com/NethermindEth/nethermind/pull/11273#pullrequestreview-4145452482) - 2026-04-21
 * [Review] [Review on: Add new default for gnosis and gnosis archive config](https://github.com/NethermindEth/nethermind/pull/11269#pullrequestreview-4145173771) - 2026-04-21
+* [Review] [Review on: fix(hive): use 60M default gas limit for testing_buildBlockV1](https://github.com/NethermindEth/nethermind/pull/11292#pullrequestreview-4153375512) - 2026-04-22
+* [Review] [Review on: Optimize caching & tests for precompiles](https://github.com/NethermindEth/nethermind/pull/11309#pullrequestreview-4158045566) - 2026-04-22
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11295#pullrequestreview-4158165916) - 2026-04-22
+* [Pull Request] [fix: skip AuRa finalization startup walk on post-merge chains](https://github.com/NethermindEth/nethermind/pull/11306) - 2026-04-22
+* [Review] [Review on: feat: add `StateComposition` plugin — real-time state metrics with incremental tracking](https://github.com/NethermindEth/nethermind/pull/10995#pullrequestreview-4153223744) - 2026-04-22
+* [Pull Request] [fix: skip AuRa finalization startup walk on post-merge chains (1.37.0-rc2 backport)](https://github.com/NethermindEth/nethermind/pull/11307) - 2026-04-22
+* [Review] [Review on: fix: serialize testing_commitBlockV1 payload with EthereumJsonSerializer](https://github.com/NethermindEth/nethermind/pull/11280#pullrequestreview-4153219290) - 2026-04-22
+* [Review] [Review on: EIP-7976 — Increase calldata floor cost](https://github.com/NethermindEth/nethermind/pull/11293#pullrequestreview-4153326255) - 2026-04-22
+* [Review] [Review on: HistoryPruner: self-bootstrap in TryPruneHistory instead of relying on SyncServer](https://github.com/NethermindEth/nethermind/pull/11254#pullrequestreview-4154305420) - 2026-04-22
+* [Review] [Review on: Enforce EIP-3675 uncle ban at the spec level](https://github.com/NethermindEth/nethermind/pull/11302#pullrequestreview-4155687418) - 2026-04-22
+* [Review] [Review on: perf: disable ReadyToRun AOT compilation](https://github.com/NethermindEth/nethermind/pull/11289#pullrequestreview-4154143928) - 2026-04-22
+* [Review] [Review on: Reduce dirty nodes lock contention](https://github.com/NethermindEth/nethermind/pull/11297#pullrequestreview-4153757765) - 2026-04-22
+* [Review] [Review on: fix: PatriciaTree commit deadlock on bounded scheduler](https://github.com/NethermindEth/nethermind/pull/11299#pullrequestreview-4154152220) - 2026-04-22
+* [Review] [Review on: fix(db): wait for in-flight timer callback in DbMetricsUpdater.Dispose](https://github.com/NethermindEth/nethermind/pull/11270#pullrequestreview-4153641330) - 2026-04-22
+* [Review] [Review on: fix(specs): initialize Gnosis and Chiado transition activations](https://github.com/NethermindEth/nethermind/pull/11274#pullrequestreview-4153498341) - 2026-04-22
+* [Review] [Review on: chore: modify the error message to remove inconsistency](https://github.com/NethermindEth/nethermind/pull/11288#pullrequestreview-4153660493) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

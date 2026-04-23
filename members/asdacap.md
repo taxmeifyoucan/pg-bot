@@ -108,6 +108,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(trie): fused BulkSet+Commit in a single descent](https://github.com/NethermindEth/nethermind/pull/11284) - 2026-04-21
 * [Pull Request] [perf(trie): skip TrieNode wrapping for extension children already unresolved to Hash256](https://github.com/NethermindEth/nethermind/pull/11273) - 2026-04-21
 * [Review] [Review on: perf(trie): skip TrieNode wrapping for extension children already unresolved to Hash256](https://github.com/NethermindEth/nethermind/pull/11273#pullrequestreview-4145967451) - 2026-04-21
+* [Review] [Review on: fix: use pattern matching in TrieNode.Decoder (IDE0019)](https://github.com/NethermindEth/nethermind/pull/11312#pullrequestreview-4158844110) - 2026-04-23
+* [Review] [Review on: fix: PatriciaTree commit deadlock on bounded scheduler](https://github.com/NethermindEth/nethermind/pull/11299#pullrequestreview-4154348819) - 2026-04-22
+* [Review] [Review on: fix(db): wait for in-flight timer callback in DbMetricsUpdater.Dispose](https://github.com/NethermindEth/nethermind/pull/11270#pullrequestreview-4153640779) - 2026-04-22
+* [Commit] [perf(trie): skip TrieNode wrapping for extension children already unresolved to Hash256 (#11273)](https://github.com/NethermindEth/nethermind/commit/b9f402895eace908fe8434f79899f467ad64290c) - 2026-04-23
+* [Commit] [fix(db): wait for in-flight timer callback in DbMetricsUpdater.Dispose (#11270)](https://github.com/NethermindEth/nethermind/commit/658c75a5c17c5e25af313cc5daa24a2cfd6d57ed) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

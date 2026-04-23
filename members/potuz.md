@@ -51,6 +51,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17
+* [Pull Request] [Add EIP: Independent CL/EL Sync](https://github.com/ethereum/EIPs/pull/11557) - 2026-04-22
 ## Q1 2026
 
 

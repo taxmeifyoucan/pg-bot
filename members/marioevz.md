@@ -48,6 +48,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(test-forks): Gas-limit-aware `Fork`, fork-aware `Environment` (#2690)](https://github.com/ethereum/execution-specs/commit/c3462e030f7e2cebe93688d15d2423dcf16fc8cc) - 2026-04-17
 * [Review] [Review on: feat(tests): prepare `test_scenarios` and `test_all_opcodes` for EIP-8037](https://github.com/ethereum/execution-specs/pull/2727#pullrequestreview-4141121003) - 2026-04-20
 * [Review] [Review on: feat(tests): EIP-7708 - finalization burn log ordering + coinbase fee no-log](https://github.com/ethereum/execution-specs/pull/2717#pullrequestreview-4139549929) - 2026-04-20
+* [Pull Request] [feat(tests): Add EIP-7708 checks to 6780 tests](https://github.com/ethereum/execution-specs/pull/2743) - 2026-04-22
+* [Review] [Review on: feat(test-fill): enable phase-1-only pre-alloc generation](https://github.com/ethereum/execution-specs/pull/2720#pullrequestreview-4154737551) - 2026-04-22
+* [Review] [Review on: feat(doc): re-write readme/top-level docs and add specs section to html docs](https://github.com/ethereum/execution-specs/pull/2677#pullrequestreview-4154684043) - 2026-04-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 ## Q1 2026

@@ -21,6 +21,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: EVMv2 AddOperationV2](https://github.com/besu-eth/besu/pull/10255#pullrequestreview-4140071406) - 2026-04-20
 * [Review] [Review on: Refactor and fixes for JMH benchmarks](https://github.com/besu-eth/besu/pull/10269#pullrequestreview-4146431817) - 2026-04-21
 * [Commit] [Refactor and fixes for JMH benchmarks regarding signed values (#10269)](https://github.com/besu-eth/besu/commit/6498b73788ae6e1b1154bee068b2992813df270b) - 2026-04-21
+* [Review] [Review on: Add MulOperationV2](https://github.com/besu-eth/besu/pull/10291#pullrequestreview-4155389955) - 2026-04-22
+* [Review] [Review on: SubOperationV2](https://github.com/besu-eth/besu/pull/10304#pullrequestreview-4153400948) - 2026-04-22
+* [Review] [Review on: Evmv2 v1 Stack Bridge](https://github.com/besu-eth/besu/pull/10274#pullrequestreview-4153764443) - 2026-04-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088219054) - 2026-04-10
 ## Q1 2026

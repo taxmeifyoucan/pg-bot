@@ -160,6 +160,18 @@ Team: Reth
 * [Review] [Review on: feat(net): add snap/2 wire helpers and messages](https://github.com/paradigmxyz/reth/pull/23611#pullrequestreview-4146234619) - 2026-04-21
 * [Review] [Review on: chore(BAL): added bal boundary checking](https://github.com/paradigmxyz/reth/pull/23623#pullrequestreview-4146164803) - 2026-04-21
 * [Commit] [refactor(consensus): unify opaque error helpers (#23669)](https://github.com/paradigmxyz/reth/commit/252fe42c54834286df840ab53d30befcfa1503ab) - 2026-04-21
+* [Review] [Review on: feat(p2p): Discv5 is enabled by default](https://github.com/paradigmxyz/reth/pull/23686#pullrequestreview-4156666923) - 2026-04-22
+* [Review] [Review on: chore: add DecodedBal in ExecutionEnv](https://github.com/paradigmxyz/reth/pull/23675#pullrequestreview-4152772342) - 2026-04-22
+* [Pull Request] [fix(rpc): clean up eth state cache reorg entries](https://github.com/paradigmxyz/reth/pull/23683) - 2026-04-22
+* [Review] [Review on: fix(re-execute): disable read tx timeout](https://github.com/paradigmxyz/reth/pull/23680#pullrequestreview-4153870697) - 2026-04-22
+* [Review] [Review on: deps: bump rustls-webpki](https://github.com/paradigmxyz/reth/pull/23681#pullrequestreview-4153981584) - 2026-04-22
+* [Review] [Review on: fix(trie): length-prefix StoredSubNode inner node in compact codec](https://github.com/paradigmxyz/reth/pull/23634#pullrequestreview-4152680364) - 2026-04-22
+* [Review] [Review on: fix(engine): keep state hook when BAL prewarm is skipped](https://github.com/paradigmxyz/reth/pull/23673#pullrequestreview-4152712763) - 2026-04-22
+* [Pull Request] [chore(deps): bump alloy crates to 2.0.1](https://github.com/paradigmxyz/reth/pull/23677) - 2026-04-22
+* [Review] [Review on: test: remove unsafe env::set_var(RUST_LOG) from tests](https://github.com/paradigmxyz/reth/pull/23672#pullrequestreview-4152664720) - 2026-04-22
+* [Commit] [fix(engine): configure invalid header cache hit eviction (#23670)](https://github.com/paradigmxyz/reth/commit/e89b4611e4efa33cd4f700f9fffd2daebb1b51a8) - 2026-04-22
+* [Commit] [chore(deps): bump alloy crates to 2.0.1 (#23677)](https://github.com/paradigmxyz/reth/commit/d55458479d003e33affbfa7cb487357e7952dcea) - 2026-04-22
+* [Commit] [feat(net): add snap/2 wire helpers and messages (#23611)](https://github.com/paradigmxyz/reth/commit/f39c47bd11b72ed19c6ec1cba868511a504cb5a7) - 2026-04-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
