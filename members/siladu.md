@@ -64,6 +64,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: ci: replace Gradle Docker tasks with GHA in develop-pr workflow](https://github.com/besu-eth/besu/pull/10256#pullrequestreview-4151818069) - 2026-04-22
 * [Pull Request] [SubOperationV2](https://github.com/besu-eth/besu/pull/10304) - 2026-04-22
 * [Review] [Review on: SubOperationV2](https://github.com/besu-eth/besu/pull/10304#pullrequestreview-4153924667) - 2026-04-22
+* [Review] [Review on: SubOperationV2](https://github.com/besu-eth/besu/pull/10304#pullrequestreview-4159492282) - 2026-04-23
+* [Review] [Review on: Add MulOperationV2](https://github.com/besu-eth/besu/pull/10291#pullrequestreview-4159599728) - 2026-04-23
+* [Commit] [SubOperationV2 (#10304)](https://github.com/besu-eth/besu/commit/fb3cbf0798da67ecfe722c35b51f6ae8232f09f6) - 2026-04-23
+* [Commit] [Add MulOperationV2 (#10291)](https://github.com/besu-eth/besu/commit/1a52a5ff0327e8f116e2c555d9835895b1995785) - 2026-04-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

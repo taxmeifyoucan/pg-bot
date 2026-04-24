@@ -25,6 +25,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Header download progress](https://github.com/besu-eth/besu/pull/10275#pullrequestreview-4145312825) - 2026-04-21
 * [Review] [Review on: Fix: QBFT produces blocks immediately when transactions arrive during empty block period](https://github.com/besu-eth/besu/pull/10153#pullrequestreview-4151776601) - 2026-04-22
 * [Review] [Review on: Header download progress](https://github.com/besu-eth/besu/pull/10275#pullrequestreview-4151816624) - 2026-04-22
+* [Review] [Review on: Bonsai archive hybrid](https://github.com/besu-eth/besu/pull/10192#pullrequestreview-4167079385) - 2026-04-24
+* [Review] [Review on: Speed up backward sync phase 1 relinking after restart](https://github.com/besu-eth/besu/pull/10276#pullrequestreview-4160033656) - 2026-04-23
 ## Q1 2026
 
 

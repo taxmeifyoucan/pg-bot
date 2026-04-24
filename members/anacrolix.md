@@ -14,6 +14,10 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Issue] [ci: attribute scheduled and flaky test failures to the originating commit](https://github.com/erigontech/erigon/issues/20300) - 2026-04-03
 * [Review] [Review on: [SharovBot] engineapi: fix flaky tests caused by TOCTOU port races](https://github.com/erigontech/erigon/pull/20328#pullrequestreview-4109832401) - 2026-04-14
 * [Commit] [CI-GUIDELINES: add job placement decision tree and tables (#20188)](https://github.com/erigontech/erigon/commit/ce4f577d35f68a2e429a4c7169bc9e678fa9c566) - 2026-04-17
+* [Review] [Review on: p2p: normalize write errors and reset error map per log interval](https://github.com/erigontech/erigon/pull/20673#pullrequestreview-4166864459) - 2026-04-23
+* [Pull Request] [[r3.4] anacrolix/torrent: Serve peerconn panic fix](https://github.com/erigontech/erigon/pull/20765) - 2026-04-23
+* [Pull Request] [anacrolix/torrent: Serve peerconn panic fix](https://github.com/erigontech/erigon/pull/20748) - 2026-04-23
+* [Commit] [anacrolix/torrent: Serve peerconn panic fix (#20748)](https://github.com/erigontech/erigon/commit/2b1856faffd43ff1ab283d2200f6249eea6d5dd7) - 2026-04-23
 ## Q1 2026
 
 

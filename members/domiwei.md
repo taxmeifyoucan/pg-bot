@@ -31,6 +31,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [txpool: add GetBlobs to GrpcDisabled stub](https://github.com/erigontech/erigon/pull/20723) - 2026-04-22
 * [Pull Request] [[r3.4] fix fork choice block validation and error propagation](https://github.com/erigontech/erigon/pull/20724) - 2026-04-22
 * [Commit] [txpool: add GetBlobs to GrpcDisabled stub (#20723)](https://github.com/erigontech/erigon/commit/bdbb2caadace43f073fbe06d735073bcaa686238) - 2026-04-22
+* [Pull Request] [p2p: normalize write errors and reset error map per log interval](https://github.com/erigontech/erigon/pull/20673) - 2026-04-24
+* [Review] [Review on: p2p: normalize write errors and reset error map per log interval](https://github.com/erigontech/erigon/pull/20673#pullrequestreview-4161147138) - 2026-04-23
+* [Review] [Review on: db/state: skip DB entries within file range in DomainLatestIterFile](https://github.com/erigontech/erigon/pull/20674#pullrequestreview-4159449176) - 2026-04-23
+* [Commit] [p2p: normalize write errors and reset error map per log interval (#20673)](https://github.com/erigontech/erigon/commit/7383932af018165899455640e5b395fbf9636f83) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

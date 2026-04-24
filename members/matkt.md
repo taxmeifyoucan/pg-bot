@@ -39,6 +39,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Issue] [Update EIP-8189: Use RLP empty str placeholder, add bytes parameter to GetBlockAccessLists](https://github.com/besu-eth/besu/issues/10288) - 2026-04-21
 * [Review] [Review on: Add EIP-7981 to bal-devnet-4](https://github.com/besu-eth/besu/pull/10297#pullrequestreview-4155636521) - 2026-04-22
 * [Commit] [Enforce EIP-7928 BAL item budget per transaction in processing and mining (#10250)](https://github.com/besu-eth/besu/commit/20539742507eee8ec580ef2dd19eddeea592e23e) - 2026-04-22
+* [Pull Request] [fix devnet 4 build](https://github.com/besu-eth/besu/pull/10319) - 2026-04-23
+* [Pull Request] [Prefetch + cross block cache into bal devnet 4](https://github.com/besu-eth/besu/pull/10317) - 2026-04-23
+* [Pull Request] [Prefetch + cross block cache into bal devnet 4](https://github.com/besu-eth/besu/pull/10315) - 2026-04-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

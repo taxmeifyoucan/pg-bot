@@ -109,6 +109,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Enforce EIP-3675 uncle ban at the spec level (#11302)](https://github.com/NethermindEth/nethermind/commit/b4abe662d65de1752ade99ac867a8e3490637c14) - 2026-04-22
 * [Commit] [Reduce dirty nodes lock contention (#11297)](https://github.com/NethermindEth/nethermind/commit/d347d247d88ec537afb0982a801dd8f0cc2f1582) - 2026-04-22
 * [Commit] [Additional BAL hive tests (#11285)](https://github.com/NethermindEth/nethermind/commit/f1e321be4c1f9a698525fe585604263ec120ba91) - 2026-04-22
+* [Pull Request] [Fast-path simple EOA transfers and reshape VM loop and substate](https://github.com/NethermindEth/nethermind/pull/11323) - 2026-04-23
+* [Review] [Review on: fix: bump Microsoft.AspNetCore.DataProtection to 10.0.7 (GHSA-9mv3-2cwr-p262)](https://github.com/NethermindEth/nethermind/pull/11331#pullrequestreview-4165970904) - 2026-04-23
+* [Review] [Review on: eth_simulateV1 - MovePrecompileToAddress validation (-38022)](https://github.com/NethermindEth/nethermind/pull/11326#pullrequestreview-4164821715) - 2026-04-23
+* [Review] [Review on: fix: guard AuRa finalization wiring on head state, not config flag](https://github.com/NethermindEth/nethermind/pull/11313#pullrequestreview-4164949451) - 2026-04-23
+* [Review] [Review on: `eth_feeHistory` fixes](https://github.com/NethermindEth/nethermind/pull/11322#pullrequestreview-4163977334) - 2026-04-23
+* [Review] [Review on: Add GetEffectiveInput override to ModExp precompiles](https://github.com/NethermindEth/nethermind/pull/11316#pullrequestreview-4161548778) - 2026-04-23
+* [Pull Request] [Avoid pooled RLP aliasing in read-only trie clones](https://github.com/NethermindEth/nethermind/pull/11314) - 2026-04-23
+* [Review] [Review on: Optimize caching & tests for precompiles](https://github.com/NethermindEth/nethermind/pull/11309#pullrequestreview-4160019115) - 2026-04-23
+* [Commit] [Avoid pooled RLP aliasing in read-only trie clones (#11314)](https://github.com/NethermindEth/nethermind/commit/d67352fd1531a712352bf9ac67cef9268e03ce7f) - 2026-04-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

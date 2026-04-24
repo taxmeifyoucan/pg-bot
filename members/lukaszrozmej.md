@@ -201,6 +201,20 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(db): wait for in-flight timer callback in DbMetricsUpdater.Dispose](https://github.com/NethermindEth/nethermind/pull/11270#pullrequestreview-4153641330) - 2026-04-22
 * [Review] [Review on: fix(specs): initialize Gnosis and Chiado transition activations](https://github.com/NethermindEth/nethermind/pull/11274#pullrequestreview-4153498341) - 2026-04-22
 * [Review] [Review on: chore: modify the error message to remove inconsistency](https://github.com/NethermindEth/nethermind/pull/11288#pullrequestreview-4153660493) - 2026-04-22
+* [Review] [Review on: Optimize flat-state block prewarming and overlap post-processing](https://github.com/NethermindEth/nethermind/pull/11317#pullrequestreview-4162105261) - 2026-04-23
+* [Review] [Review on: fix(build): copy Directory.Build.targets into release image](https://github.com/NethermindEth/nethermind/pull/11333#pullrequestreview-4166441645) - 2026-04-23
+* [Review] [Review on: eth_simulateV1 - MovePrecompileToAddress validation (-38022)](https://github.com/NethermindEth/nethermind/pull/11326#pullrequestreview-4164096047) - 2026-04-23
+* [Review] [Review on: fix: guard AuRa finalization wiring on head state, not config flag](https://github.com/NethermindEth/nethermind/pull/11313#pullrequestreview-4160436478) - 2026-04-23
+* [Review] [Review on: `eth_feeHistory` fixes](https://github.com/NethermindEth/nethermind/pull/11322#pullrequestreview-4163097914) - 2026-04-23
+* [Review] [Review on: fix(test): treat ArrowGlacier and GrayGlacier as pre-merge](https://github.com/NethermindEth/nethermind/pull/11315#pullrequestreview-4163691784) - 2026-04-23
+* [Review] [Review on: Allow `HistoryPruner` to be callable via decorator](https://github.com/NethermindEth/nethermind/pull/11098#pullrequestreview-4162998283) - 2026-04-23
+* [Pull Request] [Add GetEffectiveInput override to ModExp precompiles](https://github.com/NethermindEth/nethermind/pull/11316) - 2026-04-23
+* [Review] [Review on: Account for blob wrapper v0/v1 difference in rlp limits](https://github.com/NethermindEth/nethermind/pull/11319#pullrequestreview-4162267529) - 2026-04-23
+* [Review] [Review on: Fix Claude review wip-label-removed trigger](https://github.com/NethermindEth/nethermind/pull/11320#pullrequestreview-4162464953) - 2026-04-23
+* [Review] [Review on: Avoid pooled RLP aliasing in read-only trie clones](https://github.com/NethermindEth/nethermind/pull/11314#pullrequestreview-4160529570) - 2026-04-23
+* [Review] [Review on: Optimize caching & tests for precompiles](https://github.com/NethermindEth/nethermind/pull/11309#pullrequestreview-4160500264) - 2026-04-23
+* [Commit] [fix: skip AuRa finalization startup walk on post-merge chains (#11306)](https://github.com/NethermindEth/nethermind/commit/1de3245dd92ecf4cd68de4bb68aac04dcc65763a) - 2026-04-23
+* [Commit] [Add GetEffectiveInput override to ModExp precompiles (#11316)](https://github.com/NethermindEth/nethermind/commit/9e5f10956c9338ba7c7ab5273d1d7e670d21e6d3) - 2026-04-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

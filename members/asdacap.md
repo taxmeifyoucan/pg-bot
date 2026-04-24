@@ -113,6 +113,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(db): wait for in-flight timer callback in DbMetricsUpdater.Dispose](https://github.com/NethermindEth/nethermind/pull/11270#pullrequestreview-4153640779) - 2026-04-22
 * [Commit] [perf(trie): skip TrieNode wrapping for extension children already unresolved to Hash256 (#11273)](https://github.com/NethermindEth/nethermind/commit/b9f402895eace908fe8434f79899f467ad64290c) - 2026-04-23
 * [Commit] [fix(db): wait for in-flight timer callback in DbMetricsUpdater.Dispose (#11270)](https://github.com/NethermindEth/nethermind/commit/658c75a5c17c5e25af313cc5daa24a2cfd6d57ed) - 2026-04-22
+* [Pull Request] [analyzers: NETH003 — file name must match the contained type name](https://github.com/NethermindEth/nethermind/pull/11337) - 2026-04-24
+* [Review] [Review on: analyzers: NETH003 — file name must match the contained type name](https://github.com/NethermindEth/nethermind/pull/11337#pullrequestreview-4167401102) - 2026-04-24
+* [Review] [Review on: Optimize flat-state block prewarming and overlap post-processing](https://github.com/NethermindEth/nethermind/pull/11317#pullrequestreview-4161963811) - 2026-04-23
+* [Review] [Review on: feat: add `StateComposition` plugin — real-time state metrics with incremental tracking](https://github.com/NethermindEth/nethermind/pull/10995#pullrequestreview-4166828534) - 2026-04-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

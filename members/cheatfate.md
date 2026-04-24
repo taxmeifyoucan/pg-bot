@@ -16,6 +16,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: added lookup to last persisted column indices at boot](https://github.com/status-im/nimbus-eth2/pull/8213#pullrequestreview-4061871708) - 2026-04-06
 * [Pull Request] [Add discovery custody filter ability.](https://github.com/status-im/nimbus-eth2/pull/8263) - 2026-04-13
 * [Review] [Review on: Add discovery custody filter ability.](https://github.com/status-im/nimbus-eth2/pull/8263#pullrequestreview-4142712139) - 2026-04-20
+* [Pull Request] [Add debugging peer columns distribution REST call.](https://github.com/status-im/nimbus-eth2/pull/8326) - 2026-04-23
 ## Q1 2026
 
 

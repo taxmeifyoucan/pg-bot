@@ -32,6 +32,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf: disable ReadyToRun AOT compilation (#11289)](https://github.com/NethermindEth/nethermind/commit/382af36217dc588b823761ac65f8cb6ae873a2d0) - 2026-04-22
 * [Commit] [fix(expb): default <<AMOUNT>> placeholder for push and PR triggers (#11300)](https://github.com/NethermindEth/nethermind/commit/80bfb0604d30cd8fbf1e68076e1489581386b0c7) - 2026-04-22
 * [Commit] [ci(expb): live streaming, SSE metrics, summary reports, and dotTrace profiling (#11268)](https://github.com/NethermindEth/nethermind/commit/e883f71451b31aaf9391972778553f6f498aa894) - 2026-04-22
+* [Pull Request] [Optimize flat-state block prewarming and overlap post-processing](https://github.com/NethermindEth/nethermind/pull/11317) - 2026-04-23
+* [Review] [Review on: Bump up the version to 1.38.0-unstable](https://github.com/NethermindEth/nethermind/pull/11330#pullrequestreview-4165645423) - 2026-04-23
+* [Review] [Review on: Avoid pooled RLP aliasing in read-only trie clones](https://github.com/NethermindEth/nethermind/pull/11314#pullrequestreview-4161414384) - 2026-04-23
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

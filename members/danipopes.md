@@ -228,6 +228,16 @@ Team: Reth
 * [Commit] [chore: unify benchmark scripts and clean up bench infra (#324)](https://github.com/paradigmxyz/revmc/commit/1879ef419311d4000279ae5f9c34ff6332b5235d) - 2026-04-22
 * [Commit] [refactor: flatten JumpTarget Const/Multi into Resolved (#325)](https://github.com/paradigmxyz/revmc/commit/d8b06843415950e0967d09070af0a1b99dda5912) - 2026-04-22
 * [Commit] [perf: exit trampoline for builtin errors (#314)](https://github.com/paradigmxyz/revmc/commit/ecbc5f38e338a078510925999ce5cbc81d16b294) - 2026-04-22
+* [Pull Request] [perf: poison scratch stack slots at section boundaries for DSE](https://github.com/paradigmxyz/revmc/pull/332) - 2026-04-23
+* [Pull Request] [refactor: make iconst_256 take impl TryInto<U256>](https://github.com/paradigmxyz/revmc/pull/333) - 2026-04-24
+* [Pull Request] [perf: inline BYTE IR builtin](https://github.com/paradigmxyz/revmc/pull/331) - 2026-04-23
+* [Pull Request] [perf: optimize SIGNEXTEND IR builtin with arithmetic shift](https://github.com/paradigmxyz/revmc/pull/330) - 2026-04-23
+* [Pull Request] [feat: add OnChainLMv2 benchmark](https://github.com/paradigmxyz/revmc/pull/329) - 2026-04-23
+* [Commit] [refactor: make iconst_256 take impl TryInto<U256> (#333)](https://github.com/paradigmxyz/revmc/commit/de8c48d4ce41a934c453fe39da007fee13c4b744) - 2026-04-24
+* [Commit] [perf: inline BYTE IR builtin (#331)](https://github.com/paradigmxyz/revmc/commit/07c949e8335ef8d569e367ab5140ca27a22ddb8f) - 2026-04-23
+* [Commit] [perf: optimize SIGNEXTEND IR builtin with arithmetic shift (#330)](https://github.com/paradigmxyz/revmc/commit/db46f0cd149c952aaeed7de79c47fec4b59bc65f) - 2026-04-23
+* [Commit] [feat: add OnChainLMv2 benchmark (#329)](https://github.com/paradigmxyz/revmc/commit/a9d98b0e92bc5a11dc50191cbb4b57cfe9f525ad) - 2026-04-23
+* [Commit] [chore: rm unused builtins](https://github.com/paradigmxyz/revmc/commit/018c393d83d9baed6f9bac0b435c670c21bccd4a) - 2026-04-23
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -249,6 +259,10 @@ Team: Reth
 * [Review] [Review on: chore(bench): add cli flag to fetch bal by default](https://github.com/paradigmxyz/reth/pull/23655#pullrequestreview-4141433327) - 2026-04-20
 * [Commit] [chore(docs): normalize Grafana dashboard JSON formatting and tags (#23266)](https://github.com/paradigmxyz/reth/commit/d58c6e3d0723a28f655e89da83c3738e47dcc364) - 2026-04-20
 * [Review] [Review on: perf: avoid reopening .csoff on every changeset lookup](https://github.com/paradigmxyz/reth/pull/23687#pullrequestreview-4157403960) - 2026-04-22
+* [Review] [Review on: feat(tracing): add `std` feature gate to `reth-tracing` for wasm compatibility](https://github.com/paradigmxyz/reth/pull/23699#pullrequestreview-4166964119) - 2026-04-24
+* [Review] [Review on: fix(discv5): use Weak reference in kbuckets bg task to release port on shutdown](https://github.com/paradigmxyz/reth/pull/23282#pullrequestreview-4166959226) - 2026-04-24
+* [Review] [Review on: perf(re-execute): configurable rocksdb block cache size and re-use of mdbx provider](https://github.com/paradigmxyz/reth/pull/23701#pullrequestreview-4165056628) - 2026-04-23
+* [Review] [Review on: fix(db): move unix deps section after strum in Cargo.toml](https://github.com/paradigmxyz/reth/pull/23697#pullrequestreview-4163059918) - 2026-04-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14
@@ -282,6 +296,11 @@ Team: Reth
 * [Commit] [chore: bump rustls-webpki for advisory (#3600)](https://github.com/bluealloy/revm/commit/b0792f8d30ebe6b4873c4b8d7d7e2cd00b34ed60) - 2026-04-22
 * [Commit] [chore: enable and fix clippy::missing_const_for_fn (#3592)](https://github.com/bluealloy/revm/commit/eaf125a8753ef5946e0db21ddd8f3d27cce493db) - 2026-04-22
 * [Commit] [perf: no alloc for empty accounts (#3590)](https://github.com/bluealloy/revm/commit/64eb8d441b3e7e5a5e09812b36097ce831f1c786) - 2026-04-22
+* [Pull Request] [perf(interpreter): use arithmetic shift for SIGNEXTEND](https://github.com/bluealloy/revm/pull/3606) - 2026-04-23
+* [Pull Request] [refactor: remove SharedMemory in favor of per-interpreter owned Memory](https://github.com/bluealloy/revm/pull/3601) - 2026-04-23
+* [Pull Request] [refactor(precompile): use static OnceLock array for Precompiles init](https://github.com/bluealloy/revm/pull/3602) - 2026-04-23
+* [Review] [Review on: refactor(precompile): use static OnceLock array for Precompiles init](https://github.com/bluealloy/revm/pull/3602#pullrequestreview-4163069169) - 2026-04-23
+* [Commit] [refactor!: return Result from instruction functions (#3558)](https://github.com/bluealloy/revm/commit/6bafcd77111dd9fb59493117e152e5f21b8dd898) - 2026-04-23
 ## Q1 2026
 
 

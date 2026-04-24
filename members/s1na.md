@@ -34,6 +34,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [.gitea: add installer and archive steps for windows](https://github.com/ethereum/go-ethereum/pull/34793) - 2026-04-22
 * [Commit] [.gitea: add installer and archive steps for windows (#34793)](https://github.com/ethereum/go-ethereum/commit/b0ead5e17bb3e479137fb545da2fef27e1e51672) - 2026-04-22
 * [Commit] [.github: add windows runner (#34742)](https://github.com/ethereum/go-ethereum/commit/87b030780e0edc82a1d48969fd05a0f9a84727f2) - 2026-04-22
+* [Pull Request] [eth/fetcher: lazy-allocate hashes slice in scheduleFetches](https://github.com/ethereum/go-ethereum/pull/34804) - 2026-04-23
+* [Review] [Review on: eth/fetcher: lazy-allocate hashes slice in scheduleFetches](https://github.com/ethereum/go-ethereum/pull/34804#pullrequestreview-4163393592) - 2026-04-23
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20

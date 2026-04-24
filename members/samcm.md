@@ -13,6 +13,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Review] [Review on: consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805#pullrequestreview-4086653555) - 2026-04-10
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
+* [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23
 ## Q1 2026
 
 

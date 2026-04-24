@@ -43,6 +43,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Gloas `PayloadAttestation` gossip verification](https://github.com/sigp/lighthouse/pull/9145#pullrequestreview-4151935164) - 2026-04-22
 * [Review] [Review on: At the fork transition ensure we build ontop of the correct parent block hash](https://github.com/sigp/lighthouse/pull/9160#pullrequestreview-4153352689) - 2026-04-22
 * [Issue] [Don't send 0x00 block hash for Gloas genesis block](https://github.com/sigp/lighthouse/issues/9167) - 2026-04-23
+* [Review] [Review on: Avoid lint and fmt for agents](https://github.com/sigp/lighthouse/pull/9166#pullrequestreview-4159154855) - 2026-04-23
+* [Review] [Review on: Re-issue `ForkchoiceUpdate` based on updated `PayloadStatus`](https://github.com/sigp/lighthouse/pull/9102#pullrequestreview-4161999210) - 2026-04-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10
@@ -50,6 +52,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Gloas: `on_block` is ill-defined at fork boundary](https://github.com/ethereum/consensus-specs/issues/5096) - 2026-04-12
 * [Review] [Review on: Fix `test_builder_payment_after_missed_epochs`](https://github.com/ethereum/consensus-specs/pull/5120#pullrequestreview-4125536386) - 2026-04-17
+* [Review] [Review on: Simplify `apply_parent_execution_payload` function signature](https://github.com/ethereum/consensus-specs/pull/5150#pullrequestreview-4162276057) - 2026-04-23
+* [Issue] [Check `is_genesis_block` in `process_parent_execution_payload` is dead code](https://github.com/ethereum/consensus-specs/issues/5149) - 2026-04-23
+* [Issue] [Why does `apply_parent_execution_payload` take the `parent_bid` as an argument?](https://github.com/ethereum/consensus-specs/issues/5148) - 2026-04-23
 ## Q1 2026
 
 

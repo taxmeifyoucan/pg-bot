@@ -57,6 +57,7 @@ Team: Reth
 * [Pull Request] [deps: bump rustls-webpki](https://github.com/paradigmxyz/reth/pull/23681) - 2026-04-22
 * [Commit] [fix(re-execute): disable read tx timeout (#23680)](https://github.com/paradigmxyz/reth/commit/f1ed5f0ade01fb60125ac68859677a954ce89083) - 2026-04-22
 * [Commit] [deps: bump rustls-webpki (#23681)](https://github.com/paradigmxyz/reth/commit/6364fb87d04d3ba352776582b44396f79e6555fc) - 2026-04-22
+* [Review] [Review on: feat(provider): add storage range provider](https://github.com/paradigmxyz/reth/pull/23616#pullrequestreview-4162126491) - 2026-04-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

@@ -39,6 +39,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [added Caplin not nil type check to the tests](https://github.com/erigontech/erigon/pull/18278) - 2026-04-22
 * [Review] [Review on: [wip] rs: sharded fusefilter v2](https://github.com/erigontech/erigon/pull/20644#pullrequestreview-4154746428) - 2026-04-22
 * [Commit] [added Caplin not nil type check to the tests (#18278)](https://github.com/erigontech/erigon/commit/ed62c59cbd1bb1987737574b9bbcce44798b49bf) - 2026-04-22
+* [Review] [Review on: seg: add rm-blocks command to remove latest block snapshot files](https://github.com/erigontech/erigon/pull/20554#pullrequestreview-4163107556) - 2026-04-23
 ## Q1 2026
 
 

@@ -25,6 +25,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Bump `rustls-webpki` to unblock CI](https://github.com/sigp/lighthouse/pull/9130) - 2026-04-15
 * [Review] [Review on: Rust 1.95 lints](https://github.com/sigp/lighthouse/pull/9142#pullrequestreview-4124106259) - 2026-04-16
 * [Pull Request] [Fix audit failure for `rustls-webpki`](https://github.com/sigp/lighthouse/pull/9161) - 2026-04-22
+* [Review] [Review on: Avoid lint and fmt for agents](https://github.com/sigp/lighthouse/pull/9166#pullrequestreview-4159890441) - 2026-04-23
 ## Q1 2026
 
 

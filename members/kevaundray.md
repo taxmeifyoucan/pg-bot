@@ -36,6 +36,9 @@ Team: Consensus R&D (EF)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: EVMification](https://github.com/ethereum/EIPs/pull/11432#pullrequestreview-4123921830) - 2026-04-16
 * [Commit] [Add EIP: EVMification](https://github.com/ethereum/EIPs/commit/f78f8fab43f7e0689df51e59873259ceebc2df5c) - 2026-04-16
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Issue] [Optional proofs: Add K of N label](https://github.com/ethpandaops/dora/issues/654) - 2026-04-23
 ## Q1 2026
 
 

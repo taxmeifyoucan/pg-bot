@@ -23,6 +23,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Reject Status with mismatched protocolVersion vs layout](https://github.com/besu-eth/besu/pull/10241#pullrequestreview-4158942126) - 2026-04-23
 * [Review] [Review on: clean stop bws if world state unavailable](https://github.com/besu-eth/besu/pull/10021#pullrequestreview-4152124177) - 2026-04-22
 * [Commit] [Header download progress (#10275)](https://github.com/besu-eth/besu/commit/fa3eaf7cf33883c957d7faf1b623a0aba2f59a51) - 2026-04-22
+* [Review] [Review on: Eth and Snap message improvements](https://github.com/besu-eth/besu/pull/10130#pullrequestreview-4167265340) - 2026-04-24
 ## Q1 2026
 
 

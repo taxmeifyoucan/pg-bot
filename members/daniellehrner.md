@@ -64,6 +64,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Add EIP-7976 to bal-devnet-4](https://github.com/besu-eth/besu/pull/10290) - 2026-04-21
 * [Pull Request] [Merge main into bal-devnet-4](https://github.com/besu-eth/besu/pull/10293) - 2026-04-21
 * [Review] [Review on: Rename InvalidSystemCallAddressException to SystemCallNoCodeAtAddressException](https://github.com/besu-eth/besu/pull/10305#pullrequestreview-4157730928) - 2026-04-22
+* [Pull Request] [EIP-8037 changes for bal devnet 4](https://github.com/besu-eth/besu/pull/10313) - 2026-04-23
+* [Review] [Review on: fix devnet 4 build](https://github.com/besu-eth/besu/pull/10319#pullrequestreview-4162552117) - 2026-04-23
+* [Review] [Review on: Prefetch + cross block cache into bal devnet 4](https://github.com/besu-eth/besu/pull/10317#pullrequestreview-4161870446) - 2026-04-23
+* [Pull Request] [Merge main into bal-devnet-4](https://github.com/besu-eth/besu/pull/10314) - 2026-04-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

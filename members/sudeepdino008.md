@@ -105,6 +105,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: txpool: add GetBlobs to GrpcDisabled stub](https://github.com/erigontech/erigon/pull/20723#pullrequestreview-4152536502) - 2026-04-22
 * [Issue] [different format for page compressed history](https://github.com/erigontech/erigon/issues/20726) - 2026-04-22
 * [Commit] [db/state: propagate tx.Unwind error up (#20681)](https://github.com/erigontech/erigon/commit/5659a90a41e86ae2cd6882df7825066f0d6aaa23) - 2026-04-22
+* [Review] [Review on: db/state: skip DB entries within file range in DomainLatestIterFile](https://github.com/erigontech/erigon/pull/20674#pullrequestreview-4161038562) - 2026-04-23
+* [Review] [Review on: db/state: make recalcVisibleFiles self-contained](https://github.com/erigontech/erigon/pull/20744#pullrequestreview-4161009838) - 2026-04-23
+* [Review] [Review on: db/state: close leaked stream cursors in iterators](https://github.com/erigontech/erigon/pull/20750#pullrequestreview-4161032761) - 2026-04-23
+* [Review] [Review on: [r3.4] db/version: enforce upper-bound file version check](https://github.com/erigontech/erigon/pull/20739#pullrequestreview-4161006214) - 2026-04-23
 ## Q1 2026
 
 

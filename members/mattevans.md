@@ -22,6 +22,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(vector-logs.yaml): enhance logging transformation to differentiate between docker-compose and kurtosis environments](https://github.com/ethpandaops/xatu/commit/6b32654d8583d749f83d6fb610408af25a7d7efa) - 2026-04-09
 * [Commit] [Merge pull request #806 from ethpandaops/feat/ch-logs-local](https://github.com/ethpandaops/xatu/commit/182a44a07d9c6ecf6d596c98a4fb39ba9a78dc00) - 2026-04-09
 * [Commit] [feat(local): add docker container log collection to ch](https://github.com/ethpandaops/xatu/commit/40b95b73ea35ab8ccbd57085184c3d2aad8440a5) - 2026-04-09
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Review] [Review on: feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433#pullrequestreview-4166900256) - 2026-04-23
 ## Q1 2026
 
 

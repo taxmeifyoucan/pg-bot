@@ -94,6 +94,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Update fastssz to 7a6eb71](https://github.com/OffchainLabs/prysm/pull/16710) - 2026-04-21
 * [Commit] [Update fastssz to 7a6eb71 (#16710)](https://github.com/OffchainLabs/prysm/commit/ea9bcf32c9d60c90b117edfa2329ef14c106e307) - 2026-04-21
 * [Commit] [Add BAL, slot pre-compile, and engine-api implementations (#16687)](https://github.com/OffchainLabs/prysm/commit/060e4fc148607b67b8d1fe34c55ef89555aa4c47) - 2026-04-22
+* [Pull Request] [Fix highest execution payload bid cache sharing between sync and RPC](https://github.com/OffchainLabs/prysm/pull/16717) - 2026-04-23
+* [Commit] [Fix highest execution payload bid cache sharing between sync and RPC (#16717)](https://github.com/OffchainLabs/prysm/commit/69fc0163ec60e6d745d5e46161d91f2102836e93) - 2026-04-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 ## Q1 2026

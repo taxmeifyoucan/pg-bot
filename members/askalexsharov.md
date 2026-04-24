@@ -334,6 +334,25 @@ Team: Erigon
 * [Commit] [db/version: enforce upper-bound file version check (#20722)](https://github.com/erigontech/erigon/commit/91088e6edc5d003bbcc307e7469b95196d0a36e5) - 2026-04-22
 * [Commit] [bumper: rely on `go generate` (as all other code generators in go) (#20704)](https://github.com/erigontech/erigon/commit/218f7d0af9ab691960f3395f1e2e0c3c638045ab) - 2026-04-22
 * [Commit] [test-hive.yml validation (#20720)](https://github.com/erigontech/erigon/commit/577899204f6d6cb6fcf97604b8eeeeedbeabd892) - 2026-04-22
+* [Review] [Review on: p2p: normalize write errors and reset error map per log interval](https://github.com/erigontech/erigon/pull/20673#pullrequestreview-4166847545) - 2026-04-23
+* [Review] [Review on: p2p, txpool: fix Hive eth devp2p test failures](https://github.com/erigontech/erigon/pull/20733#pullrequestreview-4167222994) - 2026-04-24
+* [Review] [Review on: [r3.4] anacrolix/torrent: Serve peerconn panic fix](https://github.com/erigontech/erigon/pull/20765#pullrequestreview-4167215570) - 2026-04-24
+* [Review] [Review on: fix(fusefilter): decode SegmentCount from header[4:8], not header[8:12]](https://github.com/erigontech/erigon/pull/20764#pullrequestreview-4166826932) - 2026-04-23
+* [Review] [Review on: qa-tests: save detailed test report to view test failure details in the hive-ui](https://github.com/erigontech/erigon/pull/20760#pullrequestreview-4167078460) - 2026-04-24
+* [Review] [Review on: anacrolix/torrent: Serve peerconn panic fix](https://github.com/erigontech/erigon/pull/20748#pullrequestreview-4162282676) - 2026-04-23
+* [Pull Request] [cp: cherry-pick batch 5 from release/3.4 to main](https://github.com/erigontech/erigon/pull/20759) - 2026-04-23
+* [Review] [Review on: [SharovBot] ci: install iproute2 in hive Dockerfile to fix --nat=extip crash](https://github.com/erigontech/erigon/pull/20741#pullrequestreview-4159178017) - 2026-04-23
+* [Review] [Review on: rpc: zero-alloc memory word encoding in JsonStreamLogger](https://github.com/erigontech/erigon/pull/20754#pullrequestreview-4162548468) - 2026-04-23
+* [Review] [Review on: seg: add rm-blocks command to remove latest block snapshot files](https://github.com/erigontech/erigon/pull/20554#pullrequestreview-4161173747) - 2026-04-23
+* [Review] [Review on: cmd/utils/app: fix import hang when block fails execution](https://github.com/erigontech/erigon/pull/20735#pullrequestreview-4162317418) - 2026-04-23
+* [Review] [Review on: Update version modifier to 'rc.5'](https://github.com/erigontech/erigon/pull/20757#pullrequestreview-4162336808) - 2026-04-23
+* [Pull Request] [db/state: make recalcVisibleFiles self-contained](https://github.com/erigontech/erigon/pull/20744) - 2026-04-23
+* [Pull Request] [[wip] db/state: replace Walk callbacks with btree Iter in dirty_files.go](https://github.com/erigontech/erigon/pull/20745) - 2026-04-23
+* [Pull Request] [domain.collate: remove double buffering](https://github.com/erigontech/erigon/pull/20742) - 2026-04-23
+* [Review] [Review on: [3.4] cherry-pick fix prestate](https://github.com/erigontech/erigon/pull/20756#pullrequestreview-4162286350) - 2026-04-23
+* [Pull Request] [[wip] db/state: History.collate - reduce seeks and copies](https://github.com/erigontech/erigon/pull/20747) - 2026-04-23
+* [Commit] [db/state: make recalcVisibleFiles self-contained (#20744)](https://github.com/erigontech/erigon/commit/28cd3c9eff8b56b58fd41e323ae0cbc3e1c11104) - 2026-04-23
+* [Commit] [Log: replace additional structure for json by typed fields (#20340)](https://github.com/erigontech/erigon/commit/8dd602f91d4b2742389cc7131cb956e4c7fa79ca) - 2026-04-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

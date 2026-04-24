@@ -30,6 +30,7 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 * [Pull Request] [Modify comptests to use pytest](https://github.com/ethereum/consensus-specs/pull/5143) - 2026-04-21
 * [Commit] [Add sliced test generation for comptests (#5126)](https://github.com/ethereum/consensus-specs/commit/ccc96eb9bf90e8ac94947efec4415be83a7de73d) - 2026-04-21
 * [Review] [Review on: Modify comptests to use pytest](https://github.com/ethereum/consensus-specs/pull/5143#pullrequestreview-4152667490) - 2026-04-22
+* [Pull Request] [Improve comptests Fork Choice generator](https://github.com/ethereum/consensus-specs/pull/5147) - 2026-04-23
 ## Q1 2026
 
 

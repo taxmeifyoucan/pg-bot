@@ -33,6 +33,13 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: ci(hive): remove build-block-from-mempool from known failures](https://github.com/NethermindEth/nethermind/pull/11250#pullrequestreview-4139256312) - 2026-04-20
 * [Issue] [Warning: "Unable to completely prune persisted nodes" spam on Base mainnet](https://github.com/NethermindEth/nethermind/issues/11264) - 2026-04-20
 * [Commit] [Remove joc from sync actions (#11236)](https://github.com/NethermindEth/nethermind/commit/76de25f7cca78da82eea74c5d57f6432ae3ba40c) - 2026-04-20
+* [Pull Request] [fix(build): enable R2R platform packs on the locked restore](https://github.com/NethermindEth/nethermind/pull/11334) - 2026-04-23
+* [Pull Request] [fix(build): copy Directory.Build.targets into release image](https://github.com/NethermindEth/nethermind/pull/11333) - 2026-04-23
+* [Pull Request] [fix: bump Microsoft.AspNetCore.DataProtection to 10.0.7 (GHSA-9mv3-2cwr-p262)](https://github.com/NethermindEth/nethermind/pull/11331) - 2026-04-23
+* [Review] [Review on: Bump up the version to 1.38.0-unstable](https://github.com/NethermindEth/nethermind/pull/11330#pullrequestreview-4165986150) - 2026-04-23
+* [Pull Request] [Update Directory.Build.props for 1.37.0](https://github.com/NethermindEth/nethermind/pull/11329) - 2026-04-23
+* [Pull Request] [fix: guard AuRa finalization wiring on head state, not config flag](https://github.com/NethermindEth/nethermind/pull/11313) - 2026-04-23
+* [Review] [Review on: Account for blob wrapper v0/v1 difference in rlp limits](https://github.com/NethermindEth/nethermind/pull/11319#pullrequestreview-4162437107) - 2026-04-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

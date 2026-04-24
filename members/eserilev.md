@@ -50,6 +50,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Gloas ptc duties beacon node response](https://github.com/sigp/lighthouse/pull/9164) - 2026-04-22
 * [Pull Request] [At the fork transition ensure we build ontop of the correct parent block hash](https://github.com/sigp/lighthouse/pull/9160) - 2026-04-22
 * [Review] [Review on: At the fork transition ensure we build ontop of the correct parent block hash](https://github.com/sigp/lighthouse/pull/9160#pullrequestreview-4153969307) - 2026-04-22
+* [Review] [Review on: Avoid lint and fmt for agents](https://github.com/sigp/lighthouse/pull/9166#pullrequestreview-4159602273) - 2026-04-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 ## Q1 2026

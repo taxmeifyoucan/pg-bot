@@ -21,6 +21,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: use high level zapi dsl](https://github.com/ChainSafe/lodestar-z/pull/320#pullrequestreview-4152705963) - 2026-04-22
 * [Pull Request] [feat: migrate BeaconStateView to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/323) - 2026-04-22
 * [Review] [Review on: feat: migrate BeaconStateView to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/323#pullrequestreview-4153958319) - 2026-04-22
+* [Review] [Review on: feat: use high level zapi dsl](https://github.com/ChainSafe/lodestar-z/pull/320#pullrequestreview-4162354396) - 2026-04-23
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-4097078708) - 2026-04-13
 * [Review] [Review on: fix(prover): implement eth_getBlockNumber verified request handler](https://github.com/ChainSafe/lodestar/pull/9203#pullrequestreview-4097017101) - 2026-04-13

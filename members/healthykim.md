@@ -21,6 +21,11 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [crypto/kzg4844: add cell-related functions](https://github.com/ethereum/go-ethereum/pull/34766) - 2026-04-20
 * [Pull Request] [eth/protocols: stop serving on unavailable responses](https://github.com/ethereum/go-ethereum/pull/34787) - 2026-04-21
 * [Review] [Review on: crypto/kzg4844: add cell-related functions](https://github.com/ethereum/go-ethereum/pull/34766#pullrequestreview-4150096584) - 2026-04-21
+
+* [Review] [Review on: eth/fetcher: lazy-allocate hashes slice in scheduleFetches](https://github.com/ethereum/go-ethereum/pull/34804#pullrequestreview-4162154720) - 2026-04-23
+* [Commit] [crypto/kzg4844: add cell-related functions (#34766)](https://github.com/ethereum/go-ethereum/commit/526ad4f6f1dc79d36ae8a7bd75a3ff18ac8a0a60) - 2026-04-23
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
 ## Q1 2026
 
 

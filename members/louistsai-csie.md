@@ -47,6 +47,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): stateful test filling for benchmark tests](https://github.com/ethereum/execution-specs/pull/2637#pullrequestreview-4139137273) - 2026-04-20
 * [Issue] [UX improve for precompile benchmark test cases](https://github.com/ethereum/execution-specs/issues/2739) - 2026-04-21
 * [Pull Request] [feat(test-execute): raise contract deployment gas limit for 8037.](https://github.com/ethereum/execution-specs/pull/2745) - 2026-04-22
+* [Pull Request] [fix(test-benchmark): zero tx included in `ecpairing` benchmark](https://github.com/ethereum/execution-specs/pull/2749) - 2026-04-23
 ## Q1 2026
 
 

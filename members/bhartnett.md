@@ -30,6 +30,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Update bal index type to uint64 (#4151)](https://github.com/status-im/nimbus-eth1/commit/c7a238a4af1f4bd2928a1fe7ff972dbab8728837) - 2026-04-20
 * [Pull Request] [Update bal index type to uint32](https://github.com/status-im/nimbus-eth1/pull/4156) - 2026-04-21
 * [Commit] [Update bal index type to uint32 (#4156)](https://github.com/status-im/nimbus-eth1/commit/6a4d2b24529c4ee20109eda2168216fe74a81e00) - 2026-04-21
+* [Pull Request] [Switch RocksDB block cache from LruCache to HyperClockCache](https://github.com/status-im/nimbus-eth1/pull/4169) - 2026-04-23
+* [Commit] [Switch RocksDB block cache from LruCache to HyperClockCache (#4169)](https://github.com/status-im/nimbus-eth1/commit/cc5c6dc2b0c2aea36dad565873a19d536199d7f1) - 2026-04-23
 ## Q1 2026
 
 

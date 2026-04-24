@@ -26,6 +26,7 @@ Team: Erigon
 * [Pull Request] [qa-tests: bump lighthouse version](https://github.com/erigontech/erigon/pull/20598) - 2026-04-16
 * [Pull Request] [[r3.4] qa-tests: bump lighthouse version](https://github.com/erigontech/erigon/pull/20599) - 2026-04-16
 * [Commit] [qa-tests: bump lighthouse version (#20598)](https://github.com/erigontech/erigon/commit/f4abdebc60a79bcc625fec9a4306ccc35670bfd9) - 2026-04-16
+* [Pull Request] [qa-tests: save detailed test report to view test failure details in the hive-ui](https://github.com/erigontech/erigon/pull/20760) - 2026-04-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10

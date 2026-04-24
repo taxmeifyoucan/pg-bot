@@ -110,6 +110,16 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add executable gossip validation functions for bellatrix](https://github.com/ethereum/consensus-specs/pull/5047#pullrequestreview-4154483075) - 2026-04-22
 * [Commit] [Add executable gossip validation functions for capella (#5049)](https://github.com/ethereum/consensus-specs/commit/dd834d4b55170605747539220042c9bdedb721d7) - 2026-04-22
 * [Commit] [Add executable gossip validation functions for bellatrix (#5047)](https://github.com/ethereum/consensus-specs/commit/1d11202c19d6fd5c2f69d15c6f78dff1e911be18) - 2026-04-22
+* [Review] [Review on: Cell dissemination via Partial Messages on Gloas](https://github.com/ethereum/consensus-specs/pull/5141#pullrequestreview-4163994657) - 2026-04-23
+* [Pull Request] [Add prepare-release skill](https://github.com/ethereum/consensus-specs/pull/5156) - 2026-04-23
+* [Review] [Review on: Simplify `apply_parent_execution_payload` function signature](https://github.com/ethereum/consensus-specs/pull/5150#pullrequestreview-4162336864) - 2026-04-23
+* [Review] [Review on: Clarify payment eviction if older than previous epoch](https://github.com/ethereum/consensus-specs/pull/5154#pullrequestreview-4164912252) - 2026-04-23
+* [Pull Request] [Add run-tests skill](https://github.com/ethereum/consensus-specs/pull/5153) - 2026-04-23
+* [Review] [Review on: Restore payload processing test cases](https://github.com/ethereum/consensus-specs/pull/5155#pullrequestreview-4164957245) - 2026-04-23
+* [Pull Request] [Add executable gossip validation functions for deneb](https://github.com/ethereum/consensus-specs/pull/5146) - 2026-04-23
+* [Commit] [Add run-tests skill (#5153)](https://github.com/ethereum/consensus-specs/commit/aad96a6b9cc0818262c22491a06defca780da3af) - 2026-04-23
+* [Commit] [Remove docs directory (#5144)](https://github.com/ethereum/consensus-specs/commit/47c14a17ceed8c63173fd47e4df394583dc69108) - 2026-04-23
+* [Commit] [Define deprecated containers (#5142)](https://github.com/ethereum/consensus-specs/commit/1bf2c6bd85a0a5097501777d702e39a0f8c1ea5b) - 2026-04-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

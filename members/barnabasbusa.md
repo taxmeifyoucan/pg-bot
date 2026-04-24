@@ -56,6 +56,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: add more download options to block details page](https://github.com/ethpandaops/dora/pull/650#pullrequestreview-4147766084) - 2026-04-21
 * [Pull Request] [fix: only apply beaconapi.clientIndex filter when explicitly set](https://github.com/ethpandaops/dora/pull/651) - 2026-04-21
 * [Review] [Review on: spec 1.7.0 alpha.5 + BAL UI](https://github.com/ethpandaops/dora/pull/648#pullrequestreview-4146501767) - 2026-04-21
+* [Pull Request] [log: raise BAL decode failures to error level](https://github.com/ethpandaops/dora/pull/653) - 2026-04-23
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -77,6 +78,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Exclude slashed validators from all duties (EIP-8045)](https://github.com/ethereum/consensus-specs/pull/5115) - 2026-04-16
 * [Pull Request] [Let exits use consolidation queue (EIP-8080)](https://github.com/ethereum/consensus-specs/pull/5116) - 2026-04-16
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129830270) - 2026-04-17
+* [Pull Request] [EIP-8025: make ExecutionEngine highly recommended but optional](https://github.com/ethereum/consensus-specs/pull/5151) - 2026-04-23
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [Remove broken update_project_wiki job](https://github.com/ethpandaops/assertoor/pull/156) - 2026-04-09
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/assertoor/pull/155) - 2026-04-09

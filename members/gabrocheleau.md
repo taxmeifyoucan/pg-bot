@@ -16,6 +16,9 @@ Team: EthereumJS
 * [Commit] [fix: resolve dependabot security vulnerabilities in dependencies (#4273)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/8d573a64158e6d1d2ee6e4f438d1e2846772f355) - 2026-04-02
 * [Review] [Review on: vm: Consume BAL function](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4264#pullrequestreview-4083740975) - 2026-04-09
 
+* [Pull Request] [vm: update execution-spec-tests fixtures to bal@v5.7.0](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4279) - 2026-04-23
+* [Review] [Review on: rlp: fix hexToBytes bug](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4276#pullrequestreview-4165410959) - 2026-04-23
+* [Pull Request] [mpt: awasm noble keccak](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4278) - 2026-04-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 ## Q1 2026

@@ -57,6 +57,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: downgrade netty back to 4.2.10](https://github.com/Consensys/teku/pull/10595#pullrequestreview-4155102321) - 2026-04-22
 * [Pull Request] [Avoid ssz-backed IndexedAttestation](https://github.com/Consensys/teku/pull/10599) - 2026-04-22
 * [Commit] [Introduce a phase0 forkchoice model seam without changing behavior (4 of 7) (#10590)](https://github.com/Consensys/teku/commit/725ee8bb4a55ede9eec201f4a7810046f565a0ea) - 2026-04-22
+* [Review] [Review on: add execution payload historical sync](https://github.com/Consensys/teku/pull/10592#pullrequestreview-4165995817) - 2026-04-23
+* [Pull Request] [Add dormant Gloas forkchoice spec helpers and fork-gated utilities (5 of 7)](https://github.com/Consensys/teku/pull/10600) - 2026-04-23
+* [Review] [Review on: Add dormant Gloas forkchoice spec helpers and fork-gated utilities (5 of 7)](https://github.com/Consensys/teku/pull/10600#pullrequestreview-4161827942) - 2026-04-23
+* [Pull Request] [5067 compliance](https://github.com/Consensys/teku/pull/10601) - 2026-04-23
+* [Review] [Review on: target java 25](https://github.com/Consensys/teku/pull/10567#pullrequestreview-4160328018) - 2026-04-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

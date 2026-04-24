@@ -62,6 +62,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat(bench): add reorg mode to new-payload-fcu](https://github.com/paradigmxyz/reth/pull/23666#pullrequestreview-4156002775) - 2026-04-22
 * [Review] [Review on: chore(BAL): BasicBlockExecutor change](https://github.com/paradigmxyz/reth/pull/23674#pullrequestreview-4154307967) - 2026-04-22
 * [Commit] [perf: avoid reopening .csoff on every changeset lookup (#23687)](https://github.com/paradigmxyz/reth/commit/7839f3d876b32842b059ca8171242b807ba1fc80) - 2026-04-22
+* [Pull Request] [perf(re-execute): configurable rocksdb block cache size and re-use of mdbx provider](https://github.com/paradigmxyz/reth/pull/23701) - 2026-04-23
+* [Review] [Review on: refactor(provider): use overlay builders in historical state paths](https://github.com/paradigmxyz/reth/pull/23667#pullrequestreview-4163036941) - 2026-04-23
+* [Review] [Review on: chore: add DecodedBal in ExecutionEnv](https://github.com/paradigmxyz/reth/pull/23675#pullrequestreview-4161264085) - 2026-04-23
+* [Commit] [perf(re-execute): configurable rocksdb block cache size and re-use of mdbx provider (#23701)](https://github.com/paradigmxyz/reth/commit/fa6b44b038888453aff97c6028147f0b2ba11ae0) - 2026-04-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

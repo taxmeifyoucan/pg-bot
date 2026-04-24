@@ -25,9 +25,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [build: skip CI checks on docs-only changes (#10585)](https://github.com/Consensys/teku/commit/93ed6e3ddd75ad8ee954213aee247db1a3a33e2e) - 2026-04-21
 * [Commit] [Added .worktrees to .gitignore (#10584)](https://github.com/Consensys/teku/commit/f782f0c315ab385eb4c9067b41fc0b9e81067d85) - 2026-04-21
 * [Commit] [build: support long file names in TAR distribution repackaging (#10582)](https://github.com/Consensys/teku/commit/f68d064a4bafda190d0ccebdbe10a0cdddfad3a2) - 2026-04-21
+* [Review] [Review on: upgrade discovery to 26.4.1](https://github.com/Consensys/teku/pull/10602#pullrequestreview-4167174742) - 2026-04-24
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
+* [Review] [Review on: update codeowners file](https://github.com/Consensys/discovery/pull/220#pullrequestreview-4167257351) - 2026-04-24
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459) - 2026-04-20
 * [Pull Request] [Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/454) - 2026-04-20
@@ -38,6 +40,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Gossip routing integration for partial messages](https://github.com/libp2p/jvm-libp2p/issues/456) - 2026-04-20
 * [Commit] [Fix ConnectionClosedException propagating to Netty event loop from MuxChannel.doWrite (#455)](https://github.com/libp2p/jvm-libp2p/commit/9445f0d331149374cd114aebaf98e0d91f5532da) - 2026-04-20
 * [Pull Request] [Wire per-topic partial-messages SubOpts flags (#444)](https://github.com/libp2p/jvm-libp2p/pull/460) - 2026-04-21
+* [Commit] [Update dependencies (#459)](https://github.com/libp2p/jvm-libp2p/commit/a88d1ed9f060e7ca1bd1cfea41fda703f61b8022) - 2026-04-23
 ## Q1 2026
 
 

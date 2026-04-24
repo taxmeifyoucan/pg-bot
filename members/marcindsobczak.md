@@ -14,6 +14,10 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [feat: Add testing_buildBlockV1 RPC endpoint and make IBlockProducerEnv IAsyncDisposable](https://github.com/NethermindEth/nethermind/pull/9901) - 2026-04-13
 * [Commit] [feat: Add testing_buildBlockV1 RPC endpoint and make IBlockProducerEnv IAsyncDisposable (#9901)](https://github.com/NethermindEth/nethermind/commit/104176a316aae8d0e5fbc69efe9e946a02df9b8d) - 2026-04-13
+
+* [Review] [Review on: fix: serialize testing_commitBlockV1 payload with EthereumJsonSerializer](https://github.com/NethermindEth/nethermind/pull/11280#pullrequestreview-4161643047) - 2026-04-23
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787) - 2026-04-23
 ## Q1 2026
 
 

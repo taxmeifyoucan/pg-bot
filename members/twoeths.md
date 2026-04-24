@@ -70,6 +70,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: drop payloadStatus from Checkpoint](https://github.com/ChainSafe/lodestar/pull/9259#pullrequestreview-4156274765) - 2026-04-22
 * [Review] [Review on: feat: add unknown payload envelope sync flow](https://github.com/ChainSafe/lodestar/pull/9241#pullrequestreview-4152074211) - 2026-04-22
 * [Review] [Review on: feat: implement EIP-7843 and alpha.5 containers](https://github.com/ChainSafe/lodestar/pull/9254#pullrequestreview-4152283184) - 2026-04-22
+* [Review] [Review on: fix: emit `payload_attributes` for local proposals by default](https://github.com/ChainSafe/lodestar/pull/9258#pullrequestreview-4165509376) - 2026-04-23
+* [Pull Request] [feat: cache the last 2 PayloadEnvelopeInputs](https://github.com/ChainSafe/lodestar/pull/9260) - 2026-04-23
+* [Review] [Review on: feat: cache the last 2 PayloadEnvelopeInputs](https://github.com/ChainSafe/lodestar/pull/9260#pullrequestreview-4161689533) - 2026-04-23
+* [Review] [Review on: fix: add check on bid gossip for blob kzg commitment len](https://github.com/ChainSafe/lodestar/pull/9261#pullrequestreview-4164631690) - 2026-04-23
+* [Review] [Review on: feat: cache the last 2 PayloadEnvelopeInputs](https://github.com/ChainSafe/lodestar/pull/9249#pullrequestreview-4162520947) - 2026-04-23
+* [Review] [Review on: fix: drop payloadStatus from Checkpoint](https://github.com/ChainSafe/lodestar/pull/9259#pullrequestreview-4159769529) - 2026-04-23
+* [Commit] [feat: cache the last 2 PayloadEnvelopeInputs (#9260)](https://github.com/ChainSafe/lodestar/commit/07875b3e0ccd619fff71e52a3dedd275c531ecc0) - 2026-04-23
+* [Commit] [fix: drop payloadStatus from Checkpoint (#9259)](https://github.com/ChainSafe/lodestar/commit/ca1fc40294f60cd5a9dabaeb21143a08ce986a9a) - 2026-04-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

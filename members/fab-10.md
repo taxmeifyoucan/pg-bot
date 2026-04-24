@@ -55,6 +55,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on:  engine_newPayload: introduce spec-driven composition infrastructure](https://github.com/besu-eth/besu/pull/10258#pullrequestreview-4146880059) - 2026-04-21
 * [Review] [Review on: Enforce that blob_versioned_hashes field len matches number of blobs](https://github.com/besu-eth/besu/pull/10278#pullrequestreview-4146145538) - 2026-04-21
 * [Commit] [Enforce that blob_versioned_hashes match blobs (#10278)](https://github.com/besu-eth/besu/commit/c8d4d0412595cea15012aa4c1eb659575656ba26) - 2026-04-21
+
+* [Review] [Review on: remove KNOWN_ISSUES.md ](https://github.com/besu-eth/besu/pull/10300#pullrequestreview-4163461358) - 2026-04-23
+* [Review] [Review on: Add GHA workflow timeouts](https://github.com/besu-eth/besu/pull/10302#pullrequestreview-4163453872) - 2026-04-23
+* [Review] [Review on: Pin Dockerfile base images by SHA256 digest](https://github.com/besu-eth/besu/pull/10309#pullrequestreview-4160782448) - 2026-04-23
+* [Review] [Review on: chore(plugin-api): remove methods deprecated since 25.1.0 in BesuConf…](https://github.com/besu-eth/besu/pull/10268#pullrequestreview-4161674259) - 2026-04-23
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
+* [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23
 ## Q1 2026
 
 

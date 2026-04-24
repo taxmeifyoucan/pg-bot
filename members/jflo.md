@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [2026-05-12 Contributor Call](https://github.com/besu-eth/besu/issues/10299) - 2026-04-21
 * [Pull Request] [Gate final-version docker tags on release publish, not draft](https://github.com/besu-eth/besu/pull/10306) - 2026-04-22
 * [Review] [Review on: Gate final-version docker tags on release publish, not draft](https://github.com/besu-eth/besu/pull/10306#pullrequestreview-4157274289) - 2026-04-22
+* [Pull Request] [agent skill for executing besu releases](https://github.com/besu-eth/besu/pull/10320) - 2026-04-23
 ## Q1 2026
 
 

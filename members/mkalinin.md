@@ -22,6 +22,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20
 * [Pull Request] [engine: Restrict no-reorg to the prefix of known finalized](https://github.com/ethereum/execution-apis/pull/786) - 2026-04-22
+* [Commit] [engine: Restrict no-reorg to the prefix of known finalized (#786)](https://github.com/ethereum/execution-apis/commit/4db2ff91a1811f40aa7c23547eef9d2bc789d27e) - 2026-04-23
 ## Q1 2026
 
 

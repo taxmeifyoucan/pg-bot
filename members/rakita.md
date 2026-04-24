@@ -58,6 +58,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat(gas): EIP-7976 — increase calldata floor cost to 64/64](https://github.com/bluealloy/revm/pull/3597) - 2026-04-22
 * [Review] [Review on: chore: enable and fix clippy::missing_const_for_fn](https://github.com/bluealloy/revm/pull/3592#pullrequestreview-4152925876) - 2026-04-22
 * [Review] [Review on: perf: no alloc for empty accounts](https://github.com/bluealloy/revm/pull/3590#pullrequestreview-4152923162) - 2026-04-22
+* [Pull Request] [feat(gas): EIP-8037 dynamic CPSB derived from block gas limit](https://github.com/bluealloy/revm/pull/3603) - 2026-04-23
+* [Review] [Review on: feat(database): add State::has_bal helper](https://github.com/bluealloy/revm/pull/3604#pullrequestreview-4163977147) - 2026-04-23
+* [Review] [Review on: refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558#pullrequestreview-4160874629) - 2026-04-23
+* [Review] [Review on: perf: move memory_limit check into cold resize path](https://github.com/bluealloy/revm/pull/3599#pullrequestreview-4162271734) - 2026-04-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

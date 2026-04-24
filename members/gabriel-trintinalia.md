@@ -16,6 +16,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: allow NodeRecords with no endpoints in discv5 AddressAccessPolicy](https://github.com/besu-eth/besu/pull/10308) - 2026-04-22
+* [Pull Request] [fix: fix DefaultPeerId comparator](https://github.com/besu-eth/besu/pull/10321) - 2026-04-23
+* [Commit] [Fix DefaultPeerId comparator (#10321)](https://github.com/besu-eth/besu/commit/f15a1b0c60f6cc57ab7f59e7f388975bd8e4c6e6) - 2026-04-23
+* [Commit] [fix: allow NodeRecords with no endpoints in discv5 AddressAccessPolicy (#10308)](https://github.com/besu-eth/besu/commit/6f365343d52f6420d8cb2eed1c1adfb3503053a9) - 2026-04-23
 ## Q1 2026
 
 

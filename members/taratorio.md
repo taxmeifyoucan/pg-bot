@@ -52,6 +52,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: tests: overlay-based block execution with genesis cache](https://github.com/erigontech/erigon/pull/20063#pullrequestreview-4154364530) - 2026-04-22
 * [Pull Request] [execution/tests: update devnet fixtures to v5.7.0-alpha](https://github.com/erigontech/erigon/pull/20725) - 2026-04-22
 * [Commit] [execution/tests: update devnet fixtures to v5.7.0-alpha (#20725)](https://github.com/erigontech/erigon/commit/c9833c4dd13e5609c09f79b9cc2087d07f413d35) - 2026-04-22
+* [Review] [Review on: execution/stagedsync: use BlockOverlay read view for BLOCKHASH lookups](https://github.com/erigontech/erigon/pull/20762#pullrequestreview-4163870753) - 2026-04-23
+* [Review] [Review on: cmd/utils/app: fix import hang when block fails execution](https://github.com/erigontech/erigon/pull/20735#pullrequestreview-4162547296) - 2026-04-23
+* [Commit] [execution: implement EIP-7976  (#20613)](https://github.com/erigontech/erigon/commit/00ba022d6a5b292f8102247bd0a59f09cbdb8c01) - 2026-04-23
 ## Q1 2026
 
 

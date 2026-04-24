@@ -34,6 +34,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Issue] [crash originating from pruner](https://github.com/status-im/nimbus-eth1/issues/4157) - 2026-04-21
 * [Commit] [fix: txpool bugs (#4143)](https://github.com/status-im/nimbus-eth1/commit/d882fe56a0381134e3c0a44a52ded778a1d1a702) - 2026-04-21
 * [Pull Request] [fixes for engineAPI high latency](https://github.com/status-im/nimbus-eth1/pull/4166) - 2026-04-22
+* [Review] [Review on: fixes for engineAPI high latency](https://github.com/status-im/nimbus-eth1/pull/4166#pullrequestreview-4163776268) - 2026-04-23
 ## Q1 2026
 
 

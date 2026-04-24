@@ -45,9 +45,16 @@ Team: Erigon
 * [Review] [Review on: `RPC_DROP_RESPONSE` to not drop errors](https://github.com/erigontech/erigon/pull/20721#pullrequestreview-4155304384) - 2026-04-22
 * [Review] [Review on: test-hive.yml validation](https://github.com/erigontech/erigon/pull/20720#pullrequestreview-4152399627) - 2026-04-22
 * [Review] [Review on: bumper: rely on `go generate` (as all other code generators in go)](https://github.com/erigontech/erigon/pull/20704#pullrequestreview-4152399809) - 2026-04-22
+* [Review] [Review on: rm autoresearch skill](https://github.com/erigontech/erigon/pull/20740#pullrequestreview-4167401892) - 2026-04-24
+* [Review] [Review on: claude: replace launch-bal-devnet-2 skill with launch-bal-devnet-3](https://github.com/erigontech/erigon/pull/20758#pullrequestreview-4164765482) - 2026-04-23
+* [Review] [Review on: db/state: make recalcVisibleFiles self-contained](https://github.com/erigontech/erigon/pull/20744#pullrequestreview-4160057179) - 2026-04-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22
+* [Pull Request] [Update EIP-8178: Add Barnabas Busa as co-author](https://github.com/ethereum/EIPs/pull/11566) - 2026-04-23
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: SSZ-REST Engine API Transport for Prysm](https://github.com/OffchainLabs/prysm/pull/16447#pullrequestreview-4166734850) - 2026-04-23
 ## Q1 2026
 
 

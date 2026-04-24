@@ -51,11 +51,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Remove unneeded lcDataStore.serve checks from internal APIs](https://github.com/status-im/nimbus-eth2/pull/8321) - 2026-04-22
 * [Pull Request] [Cleanup unused fork choice variable](https://github.com/status-im/nimbus-eth2/pull/8319) - 2026-04-22
 * [Pull Request] [Light client execution_block_hash helper](https://github.com/status-im/nimbus-eth2/pull/8317) - 2026-04-22
+* [Pull Request] [Revamp newPayload calls to enable light client based flow](https://github.com/status-im/nimbus-eth2/pull/8329) - 2026-04-23
+* [Pull Request] [Add gindex constants for Gloas light client](https://github.com/status-im/nimbus-eth2/pull/8327) - 2026-04-23
+* [Pull Request] [Extend light client test coverage with finalityUpdate checks](https://github.com/status-im/nimbus-eth2/pull/8325) - 2026-04-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
 * [Pull Request] [Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113) - 2026-04-15
 * [Commit] [Swap latest_block_hash / latest_execution_payload_bid (#5113)](https://github.com/ethereum/consensus-specs/commit/c83d6bca4fe62311f4c8348811eac9e7ef6d08ea) - 2026-04-16
+* [Pull Request] [Add EIP-4788 parent_beacon_block_root to ExecutionPayloadEnvelope](https://github.com/ethereum/consensus-specs/pull/5152) - 2026-04-23
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13

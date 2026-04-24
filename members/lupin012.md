@@ -69,6 +69,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: txpool_content*() filter BlobTx as nethermind and Geth (for Hive test)](https://github.com/erigontech/erigon/pull/20719) - 2026-04-21
 * [Commit] [rpc: txpool_content*() filter BlobTx as nethermind and Geth (for Hive test) (#20719)](https://github.com/erigontech/erigon/commit/975b52e18b04d8a0eeec67b45def012de8c65fcd) - 2026-04-21
 * [Commit] [rpc: fix txpool_content/contentFrom/status hive test failures (#20699)](https://github.com/erigontech/erigon/commit/317b82e2553655a6b0dba6138145d14a49a00d07) - 2026-04-21
+* [Pull Request] [rpc: zero-alloc memory word encoding in JsonStreamLogger](https://github.com/erigontech/erigon/pull/20754) - 2026-04-23
+* [Pull Request] [[3.4] cherry-pick fix prestate](https://github.com/erigontech/erigon/pull/20756) - 2026-04-23
+* [Pull Request] [rpc align debug trace flags with execution-apis spec (#762)](https://github.com/erigontech/erigon/pull/20755) - 2026-04-23
+* [Pull Request] [[3.4] rpc: cherry-pick tracing logger memory encoding (#20478) ](https://github.com/erigontech/erigon/pull/20749) - 2026-04-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -81,6 +85,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration: add metadata description field to test fixtures](https://github.com/erigontech/rpc-tests/pull/549) - 2026-04-17
 * [Commit] [integration runner: add --max-failures flag to cap test output  (#548)](https://github.com/erigontech/rpc-tests/commit/38c204c177ec28d4c586b53095c5ac4b0b952471) - 2026-04-17
 * [Commit] [integration: add metadata description field to test fixtures (#549)](https://github.com/erigontech/rpc-tests/commit/8f39fc4521a7e50fa10fadc0b2a95834eb70d591) - 2026-04-19
+* [Pull Request] [integration-test: mod enable tracer flag in debug_ request](https://github.com/erigontech/rpc-tests/pull/550) - 2026-04-23
 ## Q1 2026
 
 

@@ -74,6 +74,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Break on unknown receipts; ignore unknown blocks (#11263)](https://github.com/NethermindEth/nethermind/commit/c88a7a982e519eacc8f0aad5f7042cd852146472) - 2026-04-21
 * [Review] [Review on: EIP-7976 — Increase calldata floor cost](https://github.com/NethermindEth/nethermind/pull/11293#pullrequestreview-4153607721) - 2026-04-22
 * [Review] [Review on: Enforce EIP-3675 uncle ban at the spec level](https://github.com/NethermindEth/nethermind/pull/11302#pullrequestreview-4155062060) - 2026-04-22
+* [Review] [Review on: EIP-7981 — Access list token floor pricing](https://github.com/NethermindEth/nethermind/pull/11311#pullrequestreview-4160429049) - 2026-04-23
+* [Review] [Review on: fix: guard AuRa finalization wiring on head state, not config flag](https://github.com/NethermindEth/nethermind/pull/11313#pullrequestreview-4165353628) - 2026-04-23
+* [Pull Request] [Account for blob wrapper v0/v1 difference in rlp limits](https://github.com/NethermindEth/nethermind/pull/11319) - 2026-04-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

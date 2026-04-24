@@ -36,6 +36,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: build: support long file names in TAR distribution repackaging](https://github.com/Consensys/teku/pull/10582#pullrequestreview-4144768605) - 2026-04-21
 * [Pull Request] [downgrade netty back to 4.2.10](https://github.com/Consensys/teku/pull/10595) - 2026-04-22
 * [Commit] [downgrade netty (#10595)](https://github.com/Consensys/teku/commit/fc1991c69e3ae7d541b8f78c8d83a27e9001706c) - 2026-04-22
+* [Pull Request] [upgrade discovery to 26.4.1](https://github.com/Consensys/teku/pull/10602) - 2026-04-24
 ## Q1 2026
 
 

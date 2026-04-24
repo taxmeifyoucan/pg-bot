@@ -63,6 +63,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [Add GHA workflow timeouts](https://github.com/besu-eth/besu/pull/10302) - 2026-04-22
 * [Review] [Review on: Publish besu-evm as an API dependency from plugin-api](https://github.com/besu-eth/besu/pull/10262#pullrequestreview-4151779716) - 2026-04-22
 * [Commit] [clean stop bws if world state unavailable (#10021)](https://github.com/besu-eth/besu/commit/4c2676279a5c7c9131a4ca4af0f922a44c7b59c0) - 2026-04-23
+* [Review] [Review on: fix: reject non-hex block numbers in debug_getRawBlock, debug_getRawHeader, debug_getRawReceipts](https://github.com/besu-eth/besu/pull/10240#pullrequestreview-4159142767) - 2026-04-23
+* [Review] [Review on: feat: implement eth_getStorageValues RPC method](https://github.com/besu-eth/besu/pull/10259#pullrequestreview-4160210135) - 2026-04-23
+* [Review] [Review on: Fix data race in SyncDurationMetrics timers map](https://github.com/besu-eth/besu/pull/10277#pullrequestreview-4166218409) - 2026-04-23
+* [Pull Request] [Worker threads not released after engine API timeout, blocking subsequent requests](https://github.com/besu-eth/besu/pull/10311) - 2026-04-23
+* [Review] [Review on: Worker threads not released after engine API timeout, blocking subsequent requests](https://github.com/besu-eth/besu/pull/10311#pullrequestreview-4159959918) - 2026-04-23
+* [Pull Request] [Pin Dockerfile base images by SHA256 digest](https://github.com/besu-eth/besu/pull/10309) - 2026-04-23
+* [Review] [Review on: fix: fix DefaultPeerId comparator](https://github.com/besu-eth/besu/pull/10321#pullrequestreview-4166294958) - 2026-04-23
+* [Review] [Review on: fix: allow NodeRecords with no endpoints in discv5 AddressAccessPolicy](https://github.com/besu-eth/besu/pull/10308#pullrequestreview-4166087364) - 2026-04-23
+* [Issue] [Flaky test SECP256R1AcceptanceTest > transactionShouldBeSuccessful()](https://github.com/besu-eth/besu/issues/10323) - 2026-04-23
+* [Issue] [engine_newPayloadV4 timeouts prevent node recovery under storage pressure](https://github.com/besu-eth/besu/issues/10310) - 2026-04-23
+* [Commit] [remove KNOWN_ISSUES.md (#10300)](https://github.com/besu-eth/besu/commit/b75a4e8714fea4fa64d078947c68126e006c33b9) - 2026-04-23
+* [Commit] [Add GHA workflow timeouts (#10302)](https://github.com/besu-eth/besu/commit/011ae33345c30702e5327bd7ad3d02cdd3d6d7f5) - 2026-04-23
+* [Commit] [Pin Dockerfile base images by SHA256 digest (#10309)](https://github.com/besu-eth/besu/commit/0edc51969cd32cb9c8e171b847d9380df7fd1740) - 2026-04-23
+* [Commit] [Flaky BackwardSyncContextTest: remove broken Awaitility pattern (#10303)](https://github.com/besu-eth/besu/commit/6636e5c05191364af72b95eb6b6b55470a89acdd) - 2026-04-23
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

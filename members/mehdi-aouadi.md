@@ -43,6 +43,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [Proposer preferences gloas only](https://github.com/Consensys/teku/pull/10596) - 2026-04-22
 * [Review] [Review on: Proposer preferences gloas only](https://github.com/Consensys/teku/pull/10596#pullrequestreview-4154806620) - 2026-04-22
 * [Review] [Review on: add execution payload historical sync](https://github.com/Consensys/teku/pull/10592#pullrequestreview-4155945937) - 2026-04-22
+* [Review] [Review on: add execution payload historical sync](https://github.com/Consensys/teku/pull/10592#pullrequestreview-4162805240) - 2026-04-23
 ## Q1 2026
 
 

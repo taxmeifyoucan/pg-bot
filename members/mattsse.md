@@ -172,9 +172,25 @@ Team: Reth
 * [Commit] [fix(engine): configure invalid header cache hit eviction (#23670)](https://github.com/paradigmxyz/reth/commit/e89b4611e4efa33cd4f700f9fffd2daebb1b51a8) - 2026-04-22
 * [Commit] [chore(deps): bump alloy crates to 2.0.1 (#23677)](https://github.com/paradigmxyz/reth/commit/d55458479d003e33affbfa7cb487357e7952dcea) - 2026-04-22
 * [Commit] [feat(net): add snap/2 wire helpers and messages (#23611)](https://github.com/paradigmxyz/reth/commit/f39c47bd11b72ed19c6ec1cba868511a504cb5a7) - 2026-04-22
+* [Review] [Review on: feat(net): add BAL requirement to block access list requests](https://github.com/paradigmxyz/reth/pull/23682#pullrequestreview-4160454558) - 2026-04-23
+* [Pull Request] [fix(net): retain active session buffer capacity](https://github.com/paradigmxyz/reth/pull/23702) - 2026-04-23
+* [Review] [Review on: chore(rpc): pass block timestamp to txn](https://github.com/paradigmxyz/reth/pull/23700#pullrequestreview-4164328353) - 2026-04-23
+* [Review] [Review on: fix(rpc): restore Osaka gas cap for eth_createAccessList](https://github.com/paradigmxyz/reth/pull/23574#pullrequestreview-4162747758) - 2026-04-23
+* [Review] [Review on: refactor(engine): enable sharing of PayloadProcessor and state caches](https://github.com/paradigmxyz/reth/pull/23354#pullrequestreview-4162821894) - 2026-04-23
+* [Review] [Review on: perf(chain-state): flatten in-memory overlay for O(1) state reads](https://github.com/paradigmxyz/reth/pull/23633#pullrequestreview-4162607784) - 2026-04-23
+* [Review] [Review on: fix(rpc): reject trace_filter ranges in pruned history](https://github.com/paradigmxyz/reth/pull/23600#pullrequestreview-4162469775) - 2026-04-23
+* [Review] [Review on: chore(deps): bump actions/setup-python from 5 to 6](https://github.com/paradigmxyz/reth/pull/23689#pullrequestreview-4162049805) - 2026-04-23
+* [Review] [Review on: feat: add snapclient implementation for Fetchclient](https://github.com/paradigmxyz/reth/pull/23640#pullrequestreview-4162025039) - 2026-04-23
+* [Review] [Review on: fix(era): align ERA1 export with spec](https://github.com/paradigmxyz/reth/pull/23693#pullrequestreview-4161870620) - 2026-04-23
+* [Review] [Review on: fix(net): track unknown tx types in announcement metrics](https://github.com/paradigmxyz/reth/pull/23688#pullrequestreview-4160448335) - 2026-04-23
+* [Review] [Review on: fix(cli): use TxTy and ReceiptTy for static-file db get](https://github.com/paradigmxyz/reth/pull/23692#pullrequestreview-4161518196) - 2026-04-23
+* [Review] [Review on: chore: add DecodedBal in ExecutionEnv](https://github.com/paradigmxyz/reth/pull/23675#pullrequestreview-4160412125) - 2026-04-23
+* [Commit] [fix(rpc): clean up eth state cache reorg entries (#23683)](https://github.com/paradigmxyz/reth/commit/bbcfe354a18a66b41034e592084c96aca7d1e5b1) - 2026-04-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
+* [Pull Request] [feat(database): add State::has_bal helper](https://github.com/bluealloy/revm/pull/3604) - 2026-04-23
+* [Commit] [feat(database): add State::has_bal helper (#3604)](https://github.com/bluealloy/revm/commit/5a68bb527be818e963ea468ea4fb2e33d18bd7bb) - 2026-04-23
 ## Q1 2026
 
 

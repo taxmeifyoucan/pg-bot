@@ -17,6 +17,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 * [Pull Request] [refactor(specs): make `State` fork agnostic](https://github.com/ethereum/execution-specs/pull/2381) - 2026-04-22
 * [Commit] [refactor(specs): make `State` fork agnostic (#2381)](https://github.com/ethereum/execution-specs/commit/610d5387ae39a9ffb2690f67841ddccef3c5736c) - 2026-04-22
+* [Pull Request] [refactor(specs): port state refactor to older forks](https://github.com/ethereum/execution-specs/pull/2750) - 2026-04-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332#pullrequestreview-4152757786) - 2026-04-22
 * [Commit] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/commit/c550387e917485af69a6999aea45270a555e2eb7) - 2026-04-22

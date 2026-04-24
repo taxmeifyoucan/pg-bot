@@ -70,12 +70,16 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Gloas update v1.7.0-alpha.5](https://github.com/status-im/nimbus-eth2/pull/8285#pullrequestreview-4151950375) - 2026-04-22
 * [Pull Request] [update local testnet Geth to 1.17.2](https://github.com/status-im/nimbus-eth2/pull/8315) - 2026-04-22
 * [Review] [Review on: add batch validation path for column to speedup gossip validaiton](https://github.com/status-im/nimbus-eth2/pull/8314#pullrequestreview-4151766770) - 2026-04-22
+* [Pull Request] [check with all Glamsterdam payloadattributes for early proposal fcUs](https://github.com/status-im/nimbus-eth2/pull/8328) - 2026-04-23
+* [Review] [Review on: improve getBlobs flow and add metrics](https://github.com/status-im/nimbus-eth2/pull/8311#pullrequestreview-4165486410) - 2026-04-23
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
 
 * [Pull Request] [Revert "build(deps): bump vendor/nimcrypto from `dbe36fa` to `b3dbc9c`"](https://github.com/status-im/nimbus-eth1/pull/4149) - 2026-04-19
 * [Commit] [Revert "build(deps): bump vendor/nimcrypto from `dbe36fa` to `b3dbc9c` (#4129)" (#4149)](https://github.com/status-im/nimbus-eth1/commit/b548086a1338dd590d0e34d07d8008d501ae98a1) - 2026-04-19
+* [Review] [Review on: fixes for engineAPI high latency](https://github.com/status-im/nimbus-eth1/pull/4166#pullrequestreview-4163682924) - 2026-04-23
+* [Review] [Review on: nix: use Nix NBS flake and add derivations](https://github.com/status-im/nimbus-eth1/pull/4102#pullrequestreview-4162229848) - 2026-04-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 ## Q1 2026

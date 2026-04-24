@@ -122,6 +122,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: defer payload processing to next block](https://github.com/ChainSafe/lodestar/pull/9257#pullrequestreview-4155554176) - 2026-04-22
 * [Review] [Review on: feat: implement EIP-7843 and alpha.5 containers](https://github.com/ChainSafe/lodestar/pull/9254#pullrequestreview-4151988453) - 2026-04-22
 * [Review] [Review on: fix: emit `payload_attributes` for local proposals by default](https://github.com/ChainSafe/lodestar/pull/9258#pullrequestreview-4153815201) - 2026-04-22
+* [Pull Request] [feat: wire parent execution requests in block production](https://github.com/ChainSafe/lodestar/pull/9265) - 2026-04-23
+* [Review] [Review on: feat: wire parent execution requests in block production](https://github.com/ChainSafe/lodestar/pull/9265#pullrequestreview-4166235272) - 2026-04-23
+* [Review] [Review on: fix: emit `payload_attributes` for local proposals by default](https://github.com/ChainSafe/lodestar/pull/9258#pullrequestreview-4165693482) - 2026-04-23
+* [Review] [Review on: feat: cache the last 2 PayloadEnvelopeInputs](https://github.com/ChainSafe/lodestar/pull/9260#pullrequestreview-4164753965) - 2026-04-23
+* [Review] [Review on: fix: revert anchor block PTC vote override](https://github.com/ChainSafe/lodestar/pull/9264#pullrequestreview-4164581717) - 2026-04-23
+* [Pull Request] [fix: add check on bid gossip for blob kzg commitment len](https://github.com/ChainSafe/lodestar/pull/9261) - 2026-04-23
+* [Review] [Review on: feat: defer payload processing to next block](https://github.com/ChainSafe/lodestar/pull/9257#pullrequestreview-4162157830) - 2026-04-23
+* [Review] [Review on: feat: cache the last 2 PayloadEnvelopeInputs](https://github.com/ChainSafe/lodestar/pull/9249#pullrequestreview-4161939146) - 2026-04-23
+* [Issue] [Fix computeAnchorCheckpoint for gloas genesis](https://github.com/ChainSafe/lodestar/issues/9262) - 2026-04-23
+* [Commit] [feat: wire parent execution requests in block production (#9265)](https://github.com/ChainSafe/lodestar/commit/78c66bac71c1d88ce03657882f195cd6071db98d) - 2026-04-23
+* [Commit] [fix: add check on bid gossip for blob kzg commitment len (#9261)](https://github.com/ChainSafe/lodestar/commit/7622a1076ce62d1ae6577986ce29360aabb25850) - 2026-04-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -146,6 +157,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add note about withdrawal deduction in gloas (#5128)](https://github.com/ethereum/consensus-specs/commit/48d5dd51ee028ddec0b1b6d8511aee161880ffa4) - 2026-04-20
 * [Review] [Review on: Update inclusion list deadlines](https://github.com/ethereum/consensus-specs/pull/5138#pullrequestreview-4148533558) - 2026-04-21
 * [Commit] [Add epoch boundary tests for gloas (#5127)](https://github.com/ethereum/consensus-specs/commit/c461e4a69cad949754314e06dc847f65d93daffe) - 2026-04-22
+* [Review] [Review on: Add `prepare_execution_payload` tests for gloas](https://github.com/ethereum/consensus-specs/pull/5129#pullrequestreview-4160622220) - 2026-04-23
+* [Pull Request] [Simplify `apply_parent_execution_payload` function signature](https://github.com/ethereum/consensus-specs/pull/5150) - 2026-04-23
+* [Pull Request] [Clarify payment eviction if older than previous epoch](https://github.com/ethereum/consensus-specs/pull/5154) - 2026-04-23
+* [Pull Request] [Restore payload processing test cases](https://github.com/ethereum/consensus-specs/pull/5155) - 2026-04-23
+* [Review] [Review on: Restore payload processing test cases](https://github.com/ethereum/consensus-specs/pull/5155#pullrequestreview-4165163237) - 2026-04-23
+* [Review] [Review on: Update inclusion list deadlines](https://github.com/ethereum/consensus-specs/pull/5138#pullrequestreview-4161207331) - 2026-04-23
+* [Commit] [Clarify payment eviction if older than previous epoch (#5154)](https://github.com/ethereum/consensus-specs/commit/3171cfbe020b334e100978251ec0f867d8044de4) - 2026-04-23
+* [Commit] [Add prepare execution payload tests for gloas (#5129)](https://github.com/ethereum/consensus-specs/commit/0b78f4e441af88bb2074fac2a9ec5d30d6207cc3) - 2026-04-23
+* [Commit] [Simplify `apply_parent_execution_payload` function signature (#5150)](https://github.com/ethereum/consensus-specs/commit/f0b6283a5d9a509232b7d423c6df390563544d48) - 2026-04-23
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

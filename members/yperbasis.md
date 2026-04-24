@@ -209,6 +209,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [engineapi: validate payloadAttributes before SYNCING short-circuit (#20728)](https://github.com/erigontech/erigon/commit/5f5404046823270007b242791a80c9283195c67a) - 2026-04-22
 * [Commit] [cl/block_collector: don't wipe post-gap rows and skip duplicates in Flush (#20700)](https://github.com/erigontech/erigon/commit/28e321885d0c3db5fd577850c4bf0a607e78aaa5) - 2026-04-22
 * [Commit] [Add Claude Code GitHub Workflow (#20727)](https://github.com/erigontech/erigon/commit/d08f8e01f579b9fa47e144a8beffca0a893cdea5) - 2026-04-22
+* [Review] [Review on: p2p, txpool: fix Hive eth devp2p test failures](https://github.com/erigontech/erigon/pull/20733#pullrequestreview-4161264329) - 2026-04-23
+* [Review] [Review on: execution: implement EIP-7976 ](https://github.com/erigontech/erigon/pull/20613#pullrequestreview-4161010190) - 2026-04-23
+* [Pull Request] [claude: replace launch-bal-devnet-2 skill with launch-bal-devnet-3](https://github.com/erigontech/erigon/pull/20758) - 2026-04-23
+* [Pull Request] [execution/stagedsync: use BlockOverlay read view for BLOCKHASH lookups](https://github.com/erigontech/erigon/pull/20762) - 2026-04-23
+* [Pull Request] [db/state: refuse aggregation when MDBX has a gap vs snapshot coverage](https://github.com/erigontech/erigon/pull/20752) - 2026-04-23
+* [Review] [Review on: [SharovBot] fix: add 0x prefix to structLogs storage keys/values in debug_traceCall](https://github.com/erigontech/erigon/pull/20753#pullrequestreview-4161713561) - 2026-04-23
+* [Review] [Review on: [3.4] rpc: cherry-pick tracing logger memory encoding (#20478) ](https://github.com/erigontech/erigon/pull/20749#pullrequestreview-4161290716) - 2026-04-23
+* [Review] [Review on: common, node, cl, db: dedupe copy-pasted constants and vars](https://github.com/erigontech/erigon/pull/20731#pullrequestreview-4160670419) - 2026-04-23
+* [Review] [Review on: Log: replace additional structure for json by typed fields](https://github.com/erigontech/erigon/pull/20340#pullrequestreview-4160820243) - 2026-04-23
+* [Issue] [fusefilter: reader decodes SegmentCount from the wrong header offset](https://github.com/erigontech/erigon/issues/20751) - 2026-04-23
+* [Commit] [claude: replace launch-bal-devnet-2 skill with launch-bal-devnet-3 (#20758)](https://github.com/erigontech/erigon/commit/7d9307b5a5c4a39cb202e208b1a528be1ae5d5be) - 2026-04-23
+* [Commit] [execution/stagedsync: use BlockOverlay read view for BLOCKHASH lookups (#20762)](https://github.com/erigontech/erigon/commit/5951773566a6eab14e5d166e5ea7b080c6bc7c43) - 2026-04-23
+* [Commit] [cmd/utils/app: fix import hang when block fails execution (#20735)](https://github.com/erigontech/erigon/commit/ee73933abc9e062ccfb2115dd93ac1bd6b5e5c40) - 2026-04-23
+* [Commit] [common, node, cl, db: dedupe copy-pasted constants and vars (#20731)](https://github.com/erigontech/erigon/commit/52aef5fd762da51cb0f1d7f4abaa6260afe666e5) - 2026-04-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
@@ -224,6 +238,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [clients/erigon: fix discv5 test isolation](https://github.com/ethereum/hive/pull/1427) - 2026-04-17
 * [Review] [Review on: clients/erigon: fix discv5 NAT and bootnode handling](https://github.com/ethereum/hive/pull/1427#pullrequestreview-4153483529) - 2026-04-22
 * [Commit] [clients/erigon: fix discv5 NAT and bootnode handling (#1427)](https://github.com/ethereum/hive/commit/e1a791868b3079ad706c46ef5b976f12e2dc9fcf) - 2026-04-22
+* [Pull Request] [clients/erigon: install iproute2 for ip command](https://github.com/ethereum/hive/pull/1445) - 2026-04-23
+* [Commit] [clients/erigon: install iproute2 for ip command (#1445)](https://github.com/ethereum/hive/commit/737a9a5a6b3a75d965fa33821c21e37327ec1a6c) - 2026-04-23
 ## Q1 2026
 
 
