@@ -49,6 +49,7 @@ Team: Geth
 * [Commit] [core: implement eip-7976: Increase Calldata Floor Cost (#34748)](https://github.com/ethereum/go-ethereum/commit/ac406c2fe752b0624c62f66095c9240ecec40078) - 2026-04-21
 * [Pull Request] [Bal devnet 4](https://github.com/ethereum/go-ethereum/pull/34797) - 2026-04-22
 * [Pull Request] [Bal devnet 4](https://github.com/ethereum/go-ethereum/pull/34806) - 2026-04-23
+* [Review] [Review on: miner: re-used basefee and big.Int in loop](https://github.com/ethereum/go-ethereum/pull/34783#pullrequestreview-4170160240) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

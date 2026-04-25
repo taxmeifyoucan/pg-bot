@@ -87,6 +87,12 @@ Team: Erigon
 * [Commit] [node/components/sentry: extract sentry component from backend.go (#20629)](https://github.com/erigontech/erigon/commit/e33b55911f0da9e9f2736feeef855cdde85354f7) - 2026-04-19
 * [Review] [Review on: execution/state: preserve versionedReads for destroyed accounts in FinalizeTx](https://github.com/erigontech/erigon/pull/20660#pullrequestreview-4138191578) - 2026-04-20
 * [Review] [Review on: db/state: preserve per-step unwind entries so Flush reverts every orphan](https://github.com/erigontech/erigon/pull/20710#pullrequestreview-4146654360) - 2026-04-21
+* [Pull Request] [cmd/utils: expose executor perf toggles as --exec.* CLI flags](https://github.com/erigontech/erigon/pull/20797) - 2026-04-24
+* [Pull Request] [p2p/protocols/eth: EIP-8159 eth/71 wire protocol (PR 1/3)](https://github.com/erigontech/erigon/pull/20793) - 2026-04-24
+* [Pull Request] [p2p/sentry, node/eth: EIP-8159 eth/71 BAL fetcher + background downloader (PR 3/3)](https://github.com/erigontech/erigon/pull/20795) - 2026-04-24
+* [Pull Request] [p2p/protocols/eth, p2p/sentry: EIP-8159 eth/71 handler + sentry dispatch (PR 2/3)](https://github.com/erigontech/erigon/pull/20794) - 2026-04-24
+* [Issue] [bal-devnet-3: block 503 gas mismatch (EIP-8037 state-gas accounting)](https://github.com/erigontech/erigon/issues/20791) - 2026-04-24
+* [Commit] [cmd/utils: expose executor perf toggles as --exec.* CLI flags (#20797)](https://github.com/erigontech/erigon/commit/3fa93ab9faa18f6630972d2117a764f1309d5c8b) - 2026-04-24
 ## Q1 2026
 
 

@@ -8,6 +8,11 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 ## Contributions
 
+## Q2 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Update 01-membership.md](https://github.com/protocolguild/documentation/pull/496) - 2026-04-24
 ## Q4 2025
 
 

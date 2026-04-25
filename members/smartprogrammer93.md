@@ -45,6 +45,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: `eth_call`, `eth_createAccessList`, `eth_estimateGas`, `debug_traceCall`, `debug_traceCallMany` : honour gasCap as default gas, remove block-gas-limit ceiling for RPC calls](https://github.com/NethermindEth/nethermind/pull/11282#pullrequestreview-4148635936) - 2026-04-21
 * [Review] [Review on: fix: skip AuRa finalization startup walk on post-merge chains](https://github.com/NethermindEth/nethermind/pull/11306#pullrequestreview-4155743877) - 2026-04-22
 * [Review] [Review on: fix: skip AuRa finalization startup walk on post-merge chains (1.37.0-rc2 backport)](https://github.com/NethermindEth/nethermind/pull/11307#pullrequestreview-4155747913) - 2026-04-22
+* [Pull Request] [docs(jsonrpc): correct descriptions for proof_getTransactionByHash / proof_getTransactionReceipt](https://github.com/NethermindEth/nethermind/pull/11344) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

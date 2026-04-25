@@ -215,6 +215,15 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Optimize caching & tests for precompiles](https://github.com/NethermindEth/nethermind/pull/11309#pullrequestreview-4160500264) - 2026-04-23
 * [Commit] [fix: skip AuRa finalization startup walk on post-merge chains (#11306)](https://github.com/NethermindEth/nethermind/commit/1de3245dd92ecf4cd68de4bb68aac04dcc65763a) - 2026-04-23
 * [Commit] [Add GetEffectiveInput override to ModExp precompiles (#11316)](https://github.com/NethermindEth/nethermind/commit/9e5f10956c9338ba7c7ab5273d1d7e670d21e6d3) - 2026-04-23
+* [Review] [Review on: style: enable nullable for Logging, Config, and leaf packages](https://github.com/NethermindEth/nethermind/pull/11119#pullrequestreview-4170618507) - 2026-04-24
+* [Review] [Review on: fix(test): treat ArrowGlacier and GrayGlacier as pre-merge](https://github.com/NethermindEth/nethermind/pull/11315#pullrequestreview-4172600678) - 2026-04-24
+* [Review] [Review on: debug_traceCallMany: strip filler blocks from overrides result](https://github.com/NethermindEth/nethermind/pull/11348#pullrequestreview-4174040837) - 2026-04-24
+* [Review] [Review on: fix(network): ignore background task cancellation during session shut…](https://github.com/NethermindEth/nethermind/pull/11321#pullrequestreview-4172618768) - 2026-04-24
+* [Review] [Review on: fix remove balance checks from eth_simulate_v1](https://github.com/NethermindEth/nethermind/pull/11332#pullrequestreview-4170568445) - 2026-04-24
+* [Review] [Review on: fix(tracer): guard NativeCallTracer against empty call stack on CREATE transactions](https://github.com/NethermindEth/nethermind/pull/11340#pullrequestreview-4169728231) - 2026-04-24
+* [Review] [Review on: `eth_call` & `eth_getBalance` - error codes and messages for Geth compatibility](https://github.com/NethermindEth/nethermind/pull/11335#pullrequestreview-4169187391) - 2026-04-24
+* [Review] [Review on: analyzers: NETH003 — file name must match the contained type name](https://github.com/NethermindEth/nethermind/pull/11337#pullrequestreview-4169216120) - 2026-04-24
+* [Review] [Review on: `eth_getStorageAt` - invalid storage key error message](https://github.com/NethermindEth/nethermind/pull/11338#pullrequestreview-4169196824) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

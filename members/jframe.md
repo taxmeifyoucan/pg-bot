@@ -27,6 +27,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Header download progress](https://github.com/besu-eth/besu/pull/10275#pullrequestreview-4151816624) - 2026-04-22
 * [Review] [Review on: Bonsai archive hybrid](https://github.com/besu-eth/besu/pull/10192#pullrequestreview-4167079385) - 2026-04-24
 * [Review] [Review on: Speed up backward sync phase 1 relinking after restart](https://github.com/besu-eth/besu/pull/10276#pullrequestreview-4160033656) - 2026-04-23
+* [Review] [Review on: Worker threads not released after engine API timeout, blocking subsequent requests](https://github.com/besu-eth/besu/pull/10311#pullrequestreview-4168228466) - 2026-04-24
 ## Q1 2026
 
 

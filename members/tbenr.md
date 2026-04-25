@@ -62,6 +62,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Add dormant Gloas forkchoice spec helpers and fork-gated utilities (5 of 7)](https://github.com/Consensys/teku/pull/10600#pullrequestreview-4161827942) - 2026-04-23
 * [Pull Request] [5067 compliance](https://github.com/Consensys/teku/pull/10601) - 2026-04-23
 * [Review] [Review on: target java 25](https://github.com/Consensys/teku/pull/10567#pullrequestreview-4160328018) - 2026-04-23
+* [Pull Request] [Add dormant Gloas forkchoice model and rebuild support (6 of 7)](https://github.com/Consensys/teku/pull/10610) - 2026-04-24
+* [Review] [Review on: Small Gloas fixes](https://github.com/Consensys/teku/pull/10607#pullrequestreview-4171371412) - 2026-04-24
+* [Pull Request] [Avoid resolving unchanged forkchoice votes](https://github.com/Consensys/teku/pull/10604) - 2026-04-24
+* [Review] [Review on: Add dormant Gloas forkchoice spec helpers and fork-gated utilities (5 of 7)](https://github.com/Consensys/teku/pull/10600#pullrequestreview-4171030525) - 2026-04-24
+* [Review] [Review on: Disable TimerServiceTest on Windows](https://github.com/Consensys/teku/pull/10603#pullrequestreview-4169047716) - 2026-04-24
+* [Issue] [optimize computeEquivocatingCommitteeWeight](https://github.com/Consensys/teku/issues/10609) - 2026-04-24
+* [Issue] [should_apply_proposer_boost equivocation](https://github.com/Consensys/teku/issues/10608) - 2026-04-24
+* [Issue] [improve\remove getForkChoiceModelForPayloadDecision](https://github.com/Consensys/teku/issues/10606) - 2026-04-24
+* [Commit] [Avoid ssz-backed IndexedAttestation (#10599)](https://github.com/Consensys/teku/commit/3ac495f19d01b22e3c83ac4209818bfc9f5a3616) - 2026-04-24
+* [Commit] [Avoid resolving unchanged forkchoice votes (#10604)](https://github.com/Consensys/teku/commit/b2f5aba8dbe58bb6bd28b0faa1ed0ce5fe0f5e7b) - 2026-04-24
+* [Commit] [Add dormant Gloas forkchoice spec helpers and fork-gated utilities (5 of 7) (#10600)](https://github.com/Consensys/teku/commit/baf47da78e649cee983b95979c62d4e0782a905d) - 2026-04-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

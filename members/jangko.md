@@ -32,6 +32,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Bump nim-web3 (#4163)](https://github.com/status-im/nimbus-eth1/commit/f9a151471536c4e644cda82892909054d18832d9) - 2026-04-22
 * [Pull Request] [Fix EIP-2935 and EIP-4788 system contract](https://github.com/status-im/nimbus-eth1/pull/4170) - 2026-04-23
 * [Commit] [Fix EIP-2935 and EIP-4788 system contract (#4170)](https://github.com/status-im/nimbus-eth1/commit/8f4cd8a5b5e375b1ae9a1916b783b043a6f8af9c) - 2026-04-23
+* [Review] [Review on: fix: bal bug in unify tx validation](https://github.com/status-im/nimbus-eth1/pull/4173#pullrequestreview-4168816235) - 2026-04-24
+* [Review] [Review on: devp2p eth/71 fixes and tests](https://github.com/status-im/nimbus-eth1/pull/4172#pullrequestreview-4169007418) - 2026-04-24
 ## Q1 2026
 
 

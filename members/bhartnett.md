@@ -32,6 +32,11 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Update bal index type to uint32 (#4156)](https://github.com/status-im/nimbus-eth1/commit/6a4d2b24529c4ee20109eda2168216fe74a81e00) - 2026-04-21
 * [Pull Request] [Switch RocksDB block cache from LruCache to HyperClockCache](https://github.com/status-im/nimbus-eth1/pull/4169) - 2026-04-23
 * [Commit] [Switch RocksDB block cache from LruCache to HyperClockCache (#4169)](https://github.com/status-im/nimbus-eth1/commit/cc5c6dc2b0c2aea36dad565873a19d536199d7f1) - 2026-04-23
+* [Review] [Review on: manual GC cleanup](https://github.com/status-im/nimbus-eth1/pull/4147#pullrequestreview-4170859027) - 2026-04-24
+* [Review] [Review on: async `updateBase`](https://github.com/status-im/nimbus-eth1/pull/4174#pullrequestreview-4170613992) - 2026-04-24
+* [Pull Request] [devp2p eth/71 fixes and tests](https://github.com/status-im/nimbus-eth1/pull/4172) - 2026-04-24
+* [Review] [Review on: devp2p eth/71 fixes and tests](https://github.com/status-im/nimbus-eth1/pull/4172#pullrequestreview-4168506657) - 2026-04-24
+* [Commit] [devp2p eth/71 fixes and tests (#4172)](https://github.com/status-im/nimbus-eth1/commit/e94cd937342cb28813ca8db71483104c3f4653e6) - 2026-04-24
 ## Q1 2026
 
 

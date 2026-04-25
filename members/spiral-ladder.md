@@ -32,8 +32,18 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat: add `bench_ssz` step](https://github.com/ChainSafe/lodestar-z/pull/318) - 2026-04-17
 * [Review] [Review on: chore(style): apply style guide fixes to bls_batch](https://github.com/ChainSafe/lodestar-z/pull/230#pullrequestreview-4127728384) - 2026-04-17
 * [Commit] [test: per-target spec tests (#317)](https://github.com/ChainSafe/lodestar-z/commit/379816521e591a97ff1e4bb0d4374d85c3c39f02) - 2026-04-17
+* [Pull Request] [fix(build): remove windows as one of the targets in zapi](https://github.com/ChainSafe/lodestar-z/pull/325) - 2026-04-24
+* [Review] [Review on: fix(build): remove windows as one of the targets in zapi](https://github.com/ChainSafe/lodestar-z/pull/325#pullrequestreview-4172184622) - 2026-04-24
+* [Pull Request] [fix(deps): update hashtree and blst.zig](https://github.com/ChainSafe/lodestar-z/pull/326) - 2026-04-24
+* [Review] [Review on: chore: upgrade to Zig 0.16](https://github.com/ChainSafe/lodestar-z/pull/319#pullrequestreview-4171854911) - 2026-04-24
+* [Commit] [fix(build): remove windows as one of the targets in zapi (#325)](https://github.com/ChainSafe/lodestar-z/commit/58b4a2ea4b1e14aa2c67e0b85e8ff545890cb953) - 2026-04-24
+* [Commit] [fix(deps): update hashtree and blst.zig (#326)](https://github.com/ChainSafe/lodestar-z/commit/be214cb11d69166f371f0b81030aa8b6d7245005) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: chore: fail nightly spec tests workflow if any tests failed](https://github.com/ChainSafe/lodestar/pull/9271#pullrequestreview-4170211824) - 2026-04-24
+* [Review] [Review on: chore: add workflow to run nightly spec tests](https://github.com/ChainSafe/lodestar/pull/9268#pullrequestreview-4169597282) - 2026-04-24
 ## Q1 2026
 
 

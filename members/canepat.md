@@ -17,6 +17,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545#pullrequestreview-4088800936) - 2026-04-10
 * [Review] [Review on: integration runner: add --max-failures flag to cap test output ](https://github.com/erigontech/rpc-tests/pull/548#pullrequestreview-4097595660) - 2026-04-13
 
+* [Review] [Review on: integration: update disablememory->enableMemory in debug_trace* test.tar](https://github.com/erigontech/rpc-tests/pull/551#pullrequestreview-4172161360) - 2026-04-24
+* [Review] [Review on: integration: disableMemory -> enableMemory in debug_trace* tests](https://github.com/erigontech/rpc-tests/pull/550#pullrequestreview-4169111323) - 2026-04-24
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [debug_executionWitness: collapse witness root mismatch at chain tip](https://github.com/erigontech/erigon/issues/20608) - 2026-04-16
 * [Review] [Review on: rpc: add call limits for eth_simulateV1](https://github.com/erigontech/erigon/pull/20232#pullrequestreview-4127617371) - 2026-04-17

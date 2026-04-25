@@ -42,6 +42,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [fix devnet 4 build](https://github.com/besu-eth/besu/pull/10319) - 2026-04-23
 * [Pull Request] [Prefetch + cross block cache into bal devnet 4](https://github.com/besu-eth/besu/pull/10317) - 2026-04-23
 * [Pull Request] [Prefetch + cross block cache into bal devnet 4](https://github.com/besu-eth/besu/pull/10315) - 2026-04-23
+* [Review] [Review on: EIP-8037 changes for bal devnet 4](https://github.com/besu-eth/besu/pull/10313#pullrequestreview-4168084496) - 2026-04-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

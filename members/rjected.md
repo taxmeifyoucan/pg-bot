@@ -40,6 +40,7 @@ Team: Reth
 * [Commit] [fix(ci): use second most recent snapshot as previous (#23671)](https://github.com/paradigmxyz/reth/commit/b1ac2641079c89fa2010d732575cf76fb632836a) - 2026-04-21
 * [Review] [Review on: feat(p2p): Discv5 is enabled by default](https://github.com/paradigmxyz/reth/pull/23686#pullrequestreview-4156657460) - 2026-04-22
 * [Review] [Review on: fix(net): retain active session buffer capacity](https://github.com/paradigmxyz/reth/pull/23702#pullrequestreview-4165376645) - 2026-04-23
+* [Review] [Review on: perf(revm): enable `p256-aws-lc-rs` feature](https://github.com/paradigmxyz/reth/pull/23721#pullrequestreview-4173229588) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
 ## Q1 2026

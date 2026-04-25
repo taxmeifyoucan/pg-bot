@@ -18,6 +18,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Feature/parallel txs taiko fix](https://github.com/NethermindEth/nethermind/pull/11277) - 2026-04-21
 * [Pull Request] [Feature/parallel txs fix test](https://github.com/NethermindEth/nethermind/pull/11328) - 2026-04-23
 * [Pull Request] [reuse worldstate](https://github.com/NethermindEth/nethermind/pull/11318) - 2026-04-23
+* [Pull Request] [Feature/parallel txs lukasz comments](https://github.com/NethermindEth/nethermind/pull/11347) - 2026-04-24
 ## Q1 2026
 
 

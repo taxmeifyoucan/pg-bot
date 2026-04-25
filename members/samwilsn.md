@@ -18,6 +18,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Update EIP-7516: fix BLOBBASEFEE example bytecode to 0x4a00](https://github.com/ethereum/EIPs/pull/10774#pullrequestreview-4069856067) - 2026-04-07
 
 * [Review] [Review on: Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/pull/11438#pullrequestreview-4157665211) - 2026-04-22
+* [Review] [Review on: Website: show withdrawn reason](https://github.com/ethereum/EIPs/pull/11529#pullrequestreview-4170894083) - 2026-04-24
+* [Commit] [Create review.instructions.md](https://github.com/ethereum/EIPs/commit/12b6e8016411d5766db6387a96dfa3d43a906f77) - 2026-04-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec): Abstract py-ecc implementation detail from EIP-2537](https://github.com/ethereum/execution-specs/pull/2384#pullrequestreview-4078371779) - 2026-04-08
 * [Pull Request] [chore(tooling,deps): update mypy to 1.20](https://github.com/ethereum/execution-specs/pull/2633) - 2026-04-08

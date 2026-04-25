@@ -28,6 +28,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Add `#![no_main]` to suppress duplicate entry point error](https://github.com/grandinetech/grandine/pull/671) - 2026-04-22
 * [Commit] [Add `#![no_main]` to suppress duplicate entry point error](https://github.com/grandinetech/grandine/commit/98ac7a8b6181285fed5d4b190cacbd1639de749f) - 2026-04-22
 * [Commit] [Update Gloas event data](https://github.com/grandinetech/grandine/commit/d25fa1a69ef719d33d1c2dcb8e5b713d535f67f6) - 2026-04-22
+* [Review] [Review on: feat(gloas): add `GET /eth/v1/beacon/execution_payload_envelope/{block_id}](https://github.com/grandinetech/grandine/pull/674#pullrequestreview-4169133530) - 2026-04-24
 ## Q1 2026
 
 

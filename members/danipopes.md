@@ -238,6 +238,21 @@ Team: Reth
 * [Commit] [perf: optimize SIGNEXTEND IR builtin with arithmetic shift (#330)](https://github.com/paradigmxyz/revmc/commit/db46f0cd149c952aaeed7de79c47fec4b59bc65f) - 2026-04-23
 * [Commit] [feat: add OnChainLMv2 benchmark (#329)](https://github.com/paradigmxyz/revmc/commit/a9d98b0e92bc5a11dc50191cbb4b57cfe9f525ad) - 2026-04-23
 * [Commit] [chore: rm unused builtins](https://github.com/paradigmxyz/revmc/commit/018c393d83d9baed6f9bac0b435c670c21bccd4a) - 2026-04-23
+* [Pull Request] [perf: virtual stack for section-local SSA caching](https://github.com/paradigmxyz/revmc/pull/335) - 2026-04-24
+* [Pull Request] [perf: local gas alloca to eliminate gas pointer reloads](https://github.com/paradigmxyz/revmc/pull/341) - 2026-04-24
+* [Pull Request] [feat: cross-block DSE over fallthrough chains](https://github.com/paradigmxyz/revmc/pull/340) - 2026-04-24
+* [Pull Request] [feat: compiler improvements, EIP-8037 state gas, on_log callback](https://github.com/paradigmxyz/revmc/pull/339) - 2026-04-24
+* [Pull Request] [feat: impl state gas](https://github.com/paradigmxyz/revmc/pull/338) - 2026-04-24
+* [Pull Request] [chore: fix sections stats, log longest blocks, improve bench script](https://github.com/paradigmxyz/revmc/pull/337) - 2026-04-24
+* [Review] [Review on: chore: fix sections stats, log longest blocks, improve bench script](https://github.com/paradigmxyz/revmc/pull/337#pullrequestreview-4168018264) - 2026-04-24
+* [Pull Request] [refactor: remove raw jit variant benchmarks](https://github.com/paradigmxyz/revmc/pull/336) - 2026-04-24
+* [Pull Request] [feat(scripts): add spill/reload counts to bench.py codegen analysis](https://github.com/paradigmxyz/revmc/pull/334) - 2026-04-24
+* [Commit] [chore(AGENTS): don't summarize benchmarks](https://github.com/paradigmxyz/revmc/commit/9689a45573d6316cace5e6f9d741aaa66c240470) - 2026-04-24
+* [Commit] [feat: compiler improvements, EIP-8037 state gas, on_log callback (#339)](https://github.com/paradigmxyz/revmc/commit/87b8027e23ba8d22724f0b01a00920d4ddedb417) - 2026-04-24
+* [Commit] [feat: impl state gas (#338)](https://github.com/paradigmxyz/revmc/commit/58ffbf4fc638d80315ea207a5a333cb208641664) - 2026-04-24
+* [Commit] [chore: fix sections stats, log longest blocks, improve bench script (#337)](https://github.com/paradigmxyz/revmc/commit/450616b5c92300b0be36676d7b308c08d931b485) - 2026-04-24
+* [Commit] [refactor: remove raw jit variant benchmarks (#336)](https://github.com/paradigmxyz/revmc/commit/f2555ffa61cab22c8fdbd30689e01e81d6c83019) - 2026-04-24
+* [Commit] [feat(scripts): add spill/reload counts to bench.py codegen analysis (#334)](https://github.com/paradigmxyz/revmc/commit/2deb30f7ac62f1b8cfd672c13de7dcca585cf496) - 2026-04-24
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -263,6 +278,8 @@ Team: Reth
 * [Review] [Review on: fix(discv5): use Weak reference in kbuckets bg task to release port on shutdown](https://github.com/paradigmxyz/reth/pull/23282#pullrequestreview-4166959226) - 2026-04-24
 * [Review] [Review on: perf(re-execute): configurable rocksdb block cache size and re-use of mdbx provider](https://github.com/paradigmxyz/reth/pull/23701#pullrequestreview-4165056628) - 2026-04-23
 * [Review] [Review on: fix(db): move unix deps section after strum in Cargo.toml](https://github.com/paradigmxyz/reth/pull/23697#pullrequestreview-4163059918) - 2026-04-23
+* [Pull Request] [fix(docker): make RUSTFLAGS additive to platform-specific flags](https://github.com/paradigmxyz/reth/pull/23722) - 2026-04-24
+* [Review] [Review on: perf(revm): enable `p256-aws-lc-rs` feature](https://github.com/paradigmxyz/reth/pull/23721#pullrequestreview-4173222306) - 2026-04-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14
@@ -301,6 +318,14 @@ Team: Reth
 * [Pull Request] [refactor(precompile): use static OnceLock array for Precompiles init](https://github.com/bluealloy/revm/pull/3602) - 2026-04-23
 * [Review] [Review on: refactor(precompile): use static OnceLock array for Precompiles init](https://github.com/bluealloy/revm/pull/3602#pullrequestreview-4163069169) - 2026-04-23
 * [Commit] [refactor!: return Result from instruction functions (#3558)](https://github.com/bluealloy/revm/commit/6bafcd77111dd9fb59493117e152e5f21b8dd898) - 2026-04-23
+* [Pull Request] [perf(precompile): vendor blake2b_simd for BLAKE2 compression](https://github.com/bluealloy/revm/pull/3609) - 2026-04-24
+* [Review] [Review on: feat(account): Optimized index type for account ID using `non-max`](https://github.com/bluealloy/revm/pull/3605#pullrequestreview-4173543901) - 2026-04-24
+* [Pull Request] [refactor: remove pointer field from GasParams](https://github.com/bluealloy/revm/pull/3608) - 2026-04-24
+* [Commit] [perf(precompile): vendor blake2b_simd for BLAKE2 compression (#3609)](https://github.com/bluealloy/revm/commit/a71d065883192bd91a47d299a99f2a8b8dfaeefc) - 2026-04-24
+* [Commit] [perf: move memory_limit check into cold resize path (#3599)](https://github.com/bluealloy/revm/commit/3b8e2c91e6a4c759250d8007105290d3bc2d8417) - 2026-04-24
+* [Commit] [refactor(precompile): use static OnceLock array for Precompiles init (#3602)](https://github.com/bluealloy/revm/commit/2e72f176187359afd2493d2e51d80d36d256a13b) - 2026-04-24
+* [Commit] [refactor(primitives): add SpecId::NEXT, drop num_enum dependency (#3593)](https://github.com/bluealloy/revm/commit/4bb2af86e78827318c3f0035c0db031082b37510) - 2026-04-24
+* [Commit] [refactor: remove pointer field from GasParams (#3608)](https://github.com/bluealloy/revm/commit/5764f1bfc859d47ee3eff4132476136b80658bb9) - 2026-04-24
 ## Q1 2026
 
 

@@ -120,6 +120,16 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Add run-tests skill (#5153)](https://github.com/ethereum/consensus-specs/commit/aad96a6b9cc0818262c22491a06defca780da3af) - 2026-04-23
 * [Commit] [Remove docs directory (#5144)](https://github.com/ethereum/consensus-specs/commit/47c14a17ceed8c63173fd47e4df394583dc69108) - 2026-04-23
 * [Commit] [Define deprecated containers (#5142)](https://github.com/ethereum/consensus-specs/commit/1bf2c6bd85a0a5097501777d702e39a0f8c1ea5b) - 2026-04-23
+* [Review] [Review on: Add prepare-release skill](https://github.com/ethereum/consensus-specs/pull/5156#pullrequestreview-4173643873) - 2026-04-24
+* [Review] [Review on: Fix epoch boundary tests](https://github.com/ethereum/consensus-specs/pull/5158#pullrequestreview-4170571651) - 2026-04-24
+* [Review] [Review on: Generate compliance tests with pytest plugin](https://github.com/ethereum/consensus-specs/pull/5143#pullrequestreview-4170675745) - 2026-04-24
+* [Review] [Review on: Avoid slashing the same validator twice in the comptests](https://github.com/ethereum/consensus-specs/pull/5160#pullrequestreview-4171517926) - 2026-04-24
+* [Review] [Review on: Add `parent_beacon_block_root` to `ExecutionPayloadEnvelope`](https://github.com/ethereum/consensus-specs/pull/5152#pullrequestreview-4171207734) - 2026-04-24
+* [Review] [Review on: Remove `PartialDataColumnHeader`](https://github.com/ethereum/consensus-specs/pull/5141#pullrequestreview-4170848386) - 2026-04-24
+* [Pull Request] [Fix website syntax highlighting](https://github.com/ethereum/consensus-specs/pull/5159) - 2026-04-24
+* [Review] [Review on: Align `should_extend_payload` with Gloas](https://github.com/ethereum/consensus-specs/pull/5157#pullrequestreview-4170550741) - 2026-04-24
+* [Commit] [Add prepare-release skill (#5156)](https://github.com/ethereum/consensus-specs/commit/4eccd4688187eec00a10dd9b4c0bb9ac7589af74) - 2026-04-25
+* [Commit] [Fix website syntax highlighting (#5159)](https://github.com/ethereum/consensus-specs/commit/dfb6d172e5e7c98d9f0349b0495d5c0926e68b2f) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

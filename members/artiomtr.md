@@ -17,6 +17,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Review] [Review on: Add Fast Confirmation Rule (FCR) implementation](https://github.com/grandinetech/grandine/pull/656#pullrequestreview-4146839820) - 2026-04-21
 * [Review] [Review on: Add `#![no_main]` to suppress duplicate entry point error](https://github.com/grandinetech/grandine/pull/671#pullrequestreview-4154151630) - 2026-04-22
 * [Pull Request] [Update rust toolchain to 1.95.0](https://github.com/grandinetech/grandine/pull/672) - 2026-04-22
+* [Commit] [Update rust toolchain to 1.95.0](https://github.com/grandinetech/grandine/commit/4413b701c78064c9624e8914eb30592c6f2ac835) - 2026-04-24
 ## Q1 2026
 
 

@@ -77,11 +77,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Add GHA workflow timeouts (#10302)](https://github.com/besu-eth/besu/commit/011ae33345c30702e5327bd7ad3d02cdd3d6d7f5) - 2026-04-23
 * [Commit] [Pin Dockerfile base images by SHA256 digest (#10309)](https://github.com/besu-eth/besu/commit/0edc51969cd32cb9c8e171b847d9380df7fd1740) - 2026-04-23
 * [Commit] [Flaky BackwardSyncContextTest: remove broken Awaitility pattern (#10303)](https://github.com/besu-eth/besu/commit/6636e5c05191364af72b95eb6b6b55470a89acdd) - 2026-04-23
+* [Review] [Review on: feat: implement eth_getStorageValues RPC method](https://github.com/besu-eth/besu/pull/10259#pullrequestreview-4167486164) - 2026-04-24
+* [Review] [Review on: fix: validate parameters before fork support in engine_newPayload](https://github.com/besu-eth/besu/pull/10249#pullrequestreview-4168068682) - 2026-04-24
+* [Review] [Review on: Eth and Snap message improvements](https://github.com/besu-eth/besu/pull/10130#pullrequestreview-4167456078) - 2026-04-24
+* [Commit] [Worker threads not released after engine API timeout, blocking subsequent requests (#10311)](https://github.com/besu-eth/besu/commit/21128d97b02307a0660f7041fdabcf00afce2df3) - 2026-04-24
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: enable discv5](https://github.com/ethereum/hive/pull/1442) - 2026-04-22
+* [Review] [Review on:  Add HIVE_DISCV5 flag for besu](https://github.com/ethereum/hive/pull/1447#pullrequestreview-4173647805) - 2026-04-24
 ## Q1 2026
 
 

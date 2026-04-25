@@ -58,6 +58,9 @@ Team: Reth
 * [Commit] [fix(re-execute): disable read tx timeout (#23680)](https://github.com/paradigmxyz/reth/commit/f1ed5f0ade01fb60125ac68859677a954ce89083) - 2026-04-22
 * [Commit] [deps: bump rustls-webpki (#23681)](https://github.com/paradigmxyz/reth/commit/6364fb87d04d3ba352776582b44396f79e6555fc) - 2026-04-22
 * [Review] [Review on: feat(provider): add storage range provider](https://github.com/paradigmxyz/reth/pull/23616#pullrequestreview-4162126491) - 2026-04-23
+* [Pull Request] [perf(revm): enable `p256-aws-lc-rs` feature](https://github.com/paradigmxyz/reth/pull/23721) - 2026-04-24
+* [Pull Request] [fix(storage): `reth db migrate-v2` for pruned nodes](https://github.com/paradigmxyz/reth/pull/23716) - 2026-04-24
+* [Commit] [perf(revm): enable `p256-aws-lc-rs` feature (#23721)](https://github.com/paradigmxyz/reth/commit/b27169430154fbdf0f1def8c4156515a70666e03) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

@@ -68,6 +68,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: fix devnet 4 build](https://github.com/besu-eth/besu/pull/10319#pullrequestreview-4162552117) - 2026-04-23
 * [Review] [Review on: Prefetch + cross block cache into bal devnet 4](https://github.com/besu-eth/besu/pull/10317#pullrequestreview-4161870446) - 2026-04-23
 * [Pull Request] [Merge main into bal-devnet-4](https://github.com/besu-eth/besu/pull/10314) - 2026-04-23
+* [Review] [Review on: EIP-8037 changes for bal devnet 4](https://github.com/besu-eth/besu/pull/10313#pullrequestreview-4170690495) - 2026-04-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

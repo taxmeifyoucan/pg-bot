@@ -78,6 +78,11 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat: bus-based cross-AIR interactions and lookup crate redesign](https://github.com/Plonky3/Plonky3/pull/1566#pullrequestreview-4136575733) - 2026-04-19
 * [Review] [Review on: air,batch-stark: show labels in constraint panic output](https://github.com/Plonky3/Plonky3/pull/1570#pullrequestreview-4150896049) - 2026-04-21
 * [Review] [Review on: Add debug shape checks](https://github.com/Plonky3/Plonky3/pull/1568#pullrequestreview-4146036243) - 2026-04-21
+* [Review] [Review on: Perf simd compress hi dot](https://github.com/Plonky3/Plonky3/pull/1574#pullrequestreview-4174083245) - 2026-04-24
+* [Review] [Review on: bench(dft): use iter_batched to exclude clone cost from measurement](https://github.com/Plonky3/Plonky3/pull/1575#pullrequestreview-4172001796) - 2026-04-24
+* [Review] [Review on: whir: stacked sumcheck](https://github.com/Plonky3/Plonky3/pull/1554#pullrequestreview-4169957460) - 2026-04-24
+* [Review] [Review on: perf(monty-31/neon): specialized exp_4 skipping intermediate reduction](https://github.com/Plonky3/Plonky3/pull/1558#pullrequestreview-4169146752) - 2026-04-24
+* [Commit] [perf(monty-31/neon): specialized exp_4 skipping intermediate reduction (#1558)](https://github.com/Plonky3/Plonky3/commit/7401a9f25f8daadd8d67f6b5ff9d92a172f5de5b) - 2026-04-24
 ## Q1 2026
 
 

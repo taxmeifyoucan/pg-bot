@@ -133,6 +133,26 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Fix computeAnchorCheckpoint for gloas genesis](https://github.com/ChainSafe/lodestar/issues/9262) - 2026-04-23
 * [Commit] [feat: wire parent execution requests in block production (#9265)](https://github.com/ChainSafe/lodestar/commit/78c66bac71c1d88ce03657882f195cd6071db98d) - 2026-04-23
 * [Commit] [fix: add check on bid gossip for blob kzg commitment len (#9261)](https://github.com/ChainSafe/lodestar/commit/7622a1076ce62d1ae6577986ce29360aabb25850) - 2026-04-23
+* [Pull Request] [fix: clone block header during payload envelope verification](https://github.com/ChainSafe/lodestar/pull/9277) - 2026-04-25
+* [Pull Request] [test: fix unknownBlockSync e2e assertions for gloas](https://github.com/ChainSafe/lodestar/pull/9276) - 2026-04-24
+* [Pull Request] [feat: wire up proposer_preferences gossip topic](https://github.com/ChainSafe/lodestar/pull/9275) - 2026-04-24
+* [Review] [Review on: feat: wire up proposer_preferences gossip topic](https://github.com/ChainSafe/lodestar/pull/9275#pullrequestreview-4173829124) - 2026-04-24
+* [Pull Request] [fix: properly handle starting from gloas at genesis](https://github.com/ChainSafe/lodestar/pull/9273) - 2026-04-24
+* [Review] [Review on: feat: support nightly spec tests](https://github.com/ChainSafe/lodestar/pull/9221#pullrequestreview-4168563391) - 2026-04-24
+* [Review] [Review on: fix: avoid getParentPayloadStatus throw at Gloas anchor](https://github.com/ChainSafe/lodestar/pull/9267#pullrequestreview-4172174230) - 2026-04-24
+* [Review] [Review on: feat: range sync for gloas](https://github.com/ChainSafe/lodestar/pull/9269#pullrequestreview-4170295292) - 2026-04-24
+* [Pull Request] [feat: update sync notifier for gloas](https://github.com/ChainSafe/lodestar/pull/9272) - 2026-04-24
+* [Review] [Review on: feat: update sync notifier for gloas](https://github.com/ChainSafe/lodestar/pull/9272#pullrequestreview-4171261612) - 2026-04-24
+* [Pull Request] [chore: fail nightly spec tests workflow if any tests failed](https://github.com/ChainSafe/lodestar/pull/9271) - 2026-04-24
+* [Pull Request] [chore: remove epoch_boundary sanity handler](https://github.com/ChainSafe/lodestar/pull/9270) - 2026-04-24
+* [Pull Request] [chore: add workflow to run nightly spec tests](https://github.com/ChainSafe/lodestar/pull/9268) - 2026-04-24
+* [Review] [Review on: chore: add workflow to run nightly spec tests](https://github.com/ChainSafe/lodestar/pull/9268#pullrequestreview-4169442265) - 2026-04-24
+* [Review] [Review on: chore: bump kurtosis-assertoor action to v1.0.1 to fix nightly sim](https://github.com/ChainSafe/lodestar/pull/9266#pullrequestreview-4168325155) - 2026-04-24
+* [Commit] [fix: properly handle starting from gloas at genesis (#9273)](https://github.com/ChainSafe/lodestar/commit/a142c56215260f9f3f266b952904aff697c0cbb0) - 2026-04-24
+* [Commit] [feat: update sync notifier for gloas (#9272)](https://github.com/ChainSafe/lodestar/commit/f758dd5f3872ee956eed48a11cb993b9e3a28ba6) - 2026-04-24
+* [Commit] [chore: remove epoch_boundary sanity handler (#9270)](https://github.com/ChainSafe/lodestar/commit/bc569affb9bdd8aa73857676b318f433ea95c8e0) - 2026-04-24
+* [Commit] [chore: fail nightly spec tests workflow if any tests failed (#9271)](https://github.com/ChainSafe/lodestar/commit/3d6ae250a4c03cd6383ec8cd0f36408180d4fb45) - 2026-04-24
+* [Commit] [chore: add workflow to run nightly spec tests (#9268)](https://github.com/ChainSafe/lodestar/commit/a140dd987edd3e8b65f8a327c91beb620bbddf5b) - 2026-04-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -166,6 +186,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Clarify payment eviction if older than previous epoch (#5154)](https://github.com/ethereum/consensus-specs/commit/3171cfbe020b334e100978251ec0f867d8044de4) - 2026-04-23
 * [Commit] [Add prepare execution payload tests for gloas (#5129)](https://github.com/ethereum/consensus-specs/commit/0b78f4e441af88bb2074fac2a9ec5d30d6207cc3) - 2026-04-23
 * [Commit] [Simplify `apply_parent_execution_payload` function signature (#5150)](https://github.com/ethereum/consensus-specs/commit/f0b6283a5d9a509232b7d423c6df390563544d48) - 2026-04-23
+* [Pull Request] [Fix epoch boundary tests](https://github.com/ethereum/consensus-specs/pull/5158) - 2026-04-24
+* [Review] [Review on: Restore payload processing test cases](https://github.com/ethereum/consensus-specs/pull/5155#pullrequestreview-4170084677) - 2026-04-24
+* [Review] [Review on: Align `should_extend_payload` with Gloas](https://github.com/ethereum/consensus-specs/pull/5157#pullrequestreview-4168611882) - 2026-04-24
+* [Commit] [Fix epoch boundary tests (#5158)](https://github.com/ethereum/consensus-specs/commit/13b3fc076370bc3651d2504d0556052dcf8f2866) - 2026-04-24
+* [Commit] [Restore payload processing test cases (#5155)](https://github.com/ethereum/consensus-specs/commit/4797b3ac59f8e9fc566b462fd0c4af61f3282ba9) - 2026-04-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

@@ -77,6 +77,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: EIP-7981 — Access list token floor pricing](https://github.com/NethermindEth/nethermind/pull/11311#pullrequestreview-4160429049) - 2026-04-23
 * [Review] [Review on: fix: guard AuRa finalization wiring on head state, not config flag](https://github.com/NethermindEth/nethermind/pull/11313#pullrequestreview-4165353628) - 2026-04-23
 * [Pull Request] [Account for blob wrapper v0/v1 difference in rlp limits](https://github.com/NethermindEth/nethermind/pull/11319) - 2026-04-23
+* [Pull Request] [Make blockhash recorder as real tx so we record bal writes](https://github.com/NethermindEth/nethermind/pull/11345) - 2026-04-24
+* [Review] [Review on: analyzers: NETH003 — file name must match the contained type name](https://github.com/NethermindEth/nethermind/pull/11337#pullrequestreview-4168853632) - 2026-04-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

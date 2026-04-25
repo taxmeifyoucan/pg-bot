@@ -117,6 +117,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: analyzers: NETH003 — file name must match the contained type name](https://github.com/NethermindEth/nethermind/pull/11337#pullrequestreview-4167401102) - 2026-04-24
 * [Review] [Review on: Optimize flat-state block prewarming and overlap post-processing](https://github.com/NethermindEth/nethermind/pull/11317#pullrequestreview-4161963811) - 2026-04-23
 * [Review] [Review on: feat: add `StateComposition` plugin — real-time state metrics with incremental tracking](https://github.com/NethermindEth/nethermind/pull/10995#pullrequestreview-4166828534) - 2026-04-23
+* [Review] [Review on: perf: eliminate redundant storage tree commits in FlatWorldStateScope](https://github.com/NethermindEth/nethermind/pull/11349#pullrequestreview-4174420684) - 2026-04-25
+* [Pull Request] [sync: fix beacon headers re-downloaded after #10876 changed GetBlockHashOnMainOrBestDifficultyHash](https://github.com/NethermindEth/nethermind/pull/11339) - 2026-04-24
+* [Review] [Review on: `eth_getRawTransactionByHash` fix](https://github.com/NethermindEth/nethermind/pull/11336#pullrequestreview-4168787780) - 2026-04-24
+* [Commit] [style: enable nullable for Logging, Config, and leaf packages (#11119)](https://github.com/NethermindEth/nethermind/commit/cd8e5888697b212a4e90d0fc2fb60b152be02414) - 2026-04-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

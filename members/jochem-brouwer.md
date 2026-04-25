@@ -39,6 +39,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-8037: add per-dimension block gas limit check](https://github.com/ethereum/EIPs/pull/11536#pullrequestreview-4137085410) - 2026-04-20
 * [Review] [Review on: Add EIP: State Tiering by Write Age](https://github.com/ethereum/EIPs/pull/11390#pullrequestreview-4146296609) - 2026-04-21
 
+* [Review] [Review on: Update EIP-8037: Proposal for Revising 8037](https://github.com/ethereum/EIPs/pull/11570#pullrequestreview-4173811003) - 2026-04-24
+* [Commit] [Website: show withdrawn reason](https://github.com/ethereum/EIPs/commit/ed407880da72a7a070323123d98d2425324d0c83) - 2026-04-24
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Correctly name devnet-2 genesis and introduce devnet-3 genesis](https://github.com/NethermindEth/gas-benchmarks/pull/139) - 2026-04-22
 ## Q1 2026

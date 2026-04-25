@@ -44,6 +44,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Proposer preferences gloas only](https://github.com/Consensys/teku/pull/10596#pullrequestreview-4154806620) - 2026-04-22
 * [Review] [Review on: add execution payload historical sync](https://github.com/Consensys/teku/pull/10592#pullrequestreview-4155945937) - 2026-04-22
 * [Review] [Review on: add execution payload historical sync](https://github.com/Consensys/teku/pull/10592#pullrequestreview-4162805240) - 2026-04-23
+* [Pull Request] [serve finalized execution payload envelopes by range](https://github.com/Consensys/teku/pull/10605) - 2026-04-24
+* [Review] [Review on: serve finalized execution payload envelopes by range](https://github.com/Consensys/teku/pull/10605#pullrequestreview-4170458140) - 2026-04-24
+* [Review] [Review on: add execution payload historical sync](https://github.com/Consensys/teku/pull/10592#pullrequestreview-4170069923) - 2026-04-24
+* [Commit] [serve finalized execution payload envelopes by range (#10605)](https://github.com/Consensys/teku/commit/2b36f003feb5682cec3f80278e1466f85cb02f98) - 2026-04-24
 ## Q1 2026
 
 

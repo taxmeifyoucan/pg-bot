@@ -68,6 +68,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Add MulOperationV2](https://github.com/besu-eth/besu/pull/10291#pullrequestreview-4159599728) - 2026-04-23
 * [Commit] [SubOperationV2 (#10304)](https://github.com/besu-eth/besu/commit/fb3cbf0798da67ecfe722c35b51f6ae8232f09f6) - 2026-04-23
 * [Commit] [Add MulOperationV2 (#10291)](https://github.com/besu-eth/besu/commit/1a52a5ff0327e8f116e2c555d9835895b1995785) - 2026-04-23
+* [Review] [Review on: add DIV MOD SMOD SDIV impls to EVM V2](https://github.com/besu-eth/besu/pull/10318#pullrequestreview-4168474347) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

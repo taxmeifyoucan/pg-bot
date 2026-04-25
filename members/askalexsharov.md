@@ -353,6 +353,23 @@ Team: Erigon
 * [Pull Request] [[wip] db/state: History.collate - reduce seeks and copies](https://github.com/erigontech/erigon/pull/20747) - 2026-04-23
 * [Commit] [db/state: make recalcVisibleFiles self-contained (#20744)](https://github.com/erigontech/erigon/commit/28cd3c9eff8b56b58fd41e323ae0cbc3e1c11104) - 2026-04-23
 * [Commit] [Log: replace additional structure for json by typed fields (#20340)](https://github.com/erigontech/erigon/commit/8dd602f91d4b2742389cc7131cb956e4c7fa79ca) - 2026-04-23
+* [Review] [Review on: cmd/utils: expose executor perf toggles as --exec.* CLI flags](https://github.com/erigontech/erigon/pull/20797#pullrequestreview-4171070299) - 2026-04-24
+* [Review] [Review on: execution/commitment: enchance MPT hashing hot-paths to reduce allocations](https://github.com/erigontech/erigon/pull/20796#pullrequestreview-4171110295) - 2026-04-24
+* [Pull Request] [`erigon seg ls`: show dictionary size on disk and in mem](https://github.com/erigontech/erigon/pull/20790) - 2026-04-24
+* [Review] [Review on: p2p/sentry, node/direct: bound fan-out stream buffers to prevent OOM](https://github.com/erigontech/erigon/pull/20783#pullrequestreview-4169583193) - 2026-04-24
+* [Pull Request] [[3.4] seg: show dict size and mem in seg ls output (cherry-pick)](https://github.com/erigontech/erigon/pull/20792) - 2026-04-24
+* [Review] [Review on: db/downloader: raise TestBTPeerDiscovery_AddPeersFromENR timeout to 2m](https://github.com/erigontech/erigon/pull/20786#pullrequestreview-4169691128) - 2026-04-24
+* [Review] [Review on: docs: document backport PR conventions for release branches](https://github.com/erigontech/erigon/pull/20768#pullrequestreview-4169597876) - 2026-04-24
+* [Pull Request] [db/kv, db/state: use PutCurrent instead of DeleteCurrent+Put in domain flush](https://github.com/erigontech/erigon/pull/20769) - 2026-04-24
+* [Pull Request] [follow-up: broken fuse](https://github.com/erigontech/erigon/pull/20767) - 2026-04-24
+* [Review] [Review on: cl/services: relax epoch-mismatch guard to allow previous epoch](https://github.com/erigontech/erigon/pull/20780#pullrequestreview-4169111180) - 2026-04-24
+* [Review] [Review on: [3.4] rpc: add --rpc.logs.maxresults limit on log rpc-API (#19721) (cherry-pick)](https://github.com/erigontech/erigon/pull/20784#pullrequestreview-4169636814) - 2026-04-24
+* [Pull Request] [[r3.4] db/state: skip DB entries within file range in DomainLatestIterFile](https://github.com/erigontech/erigon/pull/20785) - 2026-04-24
+* [Pull Request] [[r3.4] `SpawnStageHistoryDownload`: didn't support graceful restart](https://github.com/erigontech/erigon/pull/20766) - 2026-04-24
+* [Pull Request] [[performance] Merge recent main into performance branch](https://github.com/erigontech/erigon/pull/20782) - 2026-04-24
+* [Commit] [`erigon seg ls`: show dictionary size on disk and in mem (#20790)](https://github.com/erigontech/erigon/commit/dcda464ad4fbe351d32fe031639d20fd3b7499c7) - 2026-04-24
+* [Commit] [db/kv, db/state: use PutCurrent instead of DeleteCurrent+Put in domain flush (#20769)](https://github.com/erigontech/erigon/commit/9fe46312e88f798e2f1df41bad32fedcbd9e4298) - 2026-04-24
+* [Commit] [follow-up: broken fuse (#20767)](https://github.com/erigontech/erigon/commit/c5a0ee5aaf99f7c0dc47fd8d0df95c0659eb784e) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

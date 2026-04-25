@@ -72,6 +72,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add batch validation path for column to speedup gossip validaiton](https://github.com/status-im/nimbus-eth2/pull/8314#pullrequestreview-4151766770) - 2026-04-22
 * [Pull Request] [check with all Glamsterdam payloadattributes for early proposal fcUs](https://github.com/status-im/nimbus-eth2/pull/8328) - 2026-04-23
 * [Review] [Review on: improve getBlobs flow and add metrics](https://github.com/status-im/nimbus-eth2/pull/8311#pullrequestreview-4165486410) - 2026-04-23
+* [Pull Request] [avoid LC-related assertion in Gloas/Heze](https://github.com/status-im/nimbus-eth2/pull/8331) - 2026-04-25
+* [Review] [Review on: fix(nix): for ncli,ncli_db target, do install check with help flag](https://github.com/status-im/nimbus-eth2/pull/8330#pullrequestreview-4171830683) - 2026-04-24
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

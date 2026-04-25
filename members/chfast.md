@@ -73,6 +73,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [crypto: Restrict conjugate() to degree-2 extension fields (#1485)](https://github.com/ipsilon/evmone/commit/06adc7532c794af22df86f0d2db9a823ff7f8a2e) - 2026-04-14
 * [Pull Request] [Add missing inline keyword to always_inline functions](https://github.com/ipsilon/evmone/pull/1510) - 2026-04-15
 * [Commit] [Add missing inline keyword to always_inline functions (#1510)](https://github.com/ipsilon/evmone/commit/b487188ceba0f29d1cd2c6cefc4fbb6e3e63607b) - 2026-04-15
+* [Pull Request] [ci: Don't run legacy state tests](https://github.com/ipsilon/evmone/pull/1512) - 2026-04-24
+* [Pull Request] [ci: set LLVM_PROFILE_FILE per run in ethereum-tests job](https://github.com/ipsilon/evmone/pull/1513) - 2026-04-24
+* [Commit] [ci: Don't run legacy state tests (#1512)](https://github.com/ipsilon/evmone/commit/ff942e2a385232a2b2813b73e488fe63f8490ec5) - 2026-04-24
+* [Commit] [ci: set LLVM_PROFILE_FILE per run in ethereum-tests job (#1513)](https://github.com/ipsilon/evmone/commit/14fbedcfa2c3b9faa4020738d6c637cf62cadd9d) - 2026-04-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -82,6 +86,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: feat(tests): EIP-7708 - finalization burn log ordering + coinbase fee no-log](https://github.com/ethereum/execution-specs/pull/2717#pullrequestreview-4138524657) - 2026-04-20
 * [Issue] [EIP-8037: spec ambiguity on when state_gas_used is committed within a single opcode](https://github.com/ethereum/execution-specs/issues/2748) - 2026-04-23
 * [Issue] [EIP-8037: missing CREATE state-charge commits then immediate regular OOG test](https://github.com/ethereum/execution-specs/issues/2747) - 2026-04-23
+* [Pull Request] [feat(tests): port stPreCompiledContracts/modexp 128-byte carry cases](https://github.com/ethereum/execution-specs/pull/2753) - 2026-04-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

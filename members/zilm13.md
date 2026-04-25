@@ -28,6 +28,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 
 * [Review] [Review on: target java 25](https://github.com/Consensys/teku/pull/10567#pullrequestreview-4156115955) - 2026-04-22
 * [Issue] [Netty memory allocation issues](https://github.com/Consensys/teku/issues/10597) - 2026-04-22
+* [Review] [Review on: Proposer preferences gloas only](https://github.com/Consensys/teku/pull/10596#pullrequestreview-4173368618) - 2026-04-24
+* [Review] [Review on: Avoid ssz-backed IndexedAttestation](https://github.com/Consensys/teku/pull/10599#pullrequestreview-4171934614) - 2026-04-24
+* [Review] [Review on: Avoid resolving unchanged forkchoice votes](https://github.com/Consensys/teku/pull/10604#pullrequestreview-4170842260) - 2026-04-24
+* [Review] [Review on: serve finalized execution payload envelopes by range](https://github.com/Consensys/teku/pull/10605#pullrequestreview-4170983747) - 2026-04-24
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

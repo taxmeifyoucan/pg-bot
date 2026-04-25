@@ -19,6 +19,7 @@ Team: EthereumJS
 * [Pull Request] [vm: update execution-spec-tests fixtures to bal@v5.7.0](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4279) - 2026-04-23
 * [Review] [Review on: rlp: fix hexToBytes bug](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4276#pullrequestreview-4165410959) - 2026-04-23
 * [Pull Request] [mpt: awasm noble keccak](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4278) - 2026-04-23
+* [Commit] [vm: update execution-spec-tests fixtures to bal@v5.7.0 (#4279)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/8fc5f9a2e8d9e4a8c16b248f34cd42d77c0ea75c) - 2026-04-24
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 ## Q1 2026

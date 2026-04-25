@@ -27,6 +27,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Remove `test_logger` feature](https://github.com/sigp/lighthouse/pull/9125) - 2026-04-13
 * [Review] [Review on: Fix audit failure for `rustls-webpki`](https://github.com/sigp/lighthouse/pull/9161#pullrequestreview-4154204523) - 2026-04-22
 * [Review] [Review on: Remove `test_logger` feature](https://github.com/sigp/lighthouse/pull/9125#pullrequestreview-4151892308) - 2026-04-22
+* [Pull Request] [Implement GET `v2/node/version` endpoint](https://github.com/sigp/lighthouse/pull/9171) - 2026-04-24
+* [Review] [Review on: Implement GET `v2/node/version` endpoint](https://github.com/sigp/lighthouse/pull/9171#pullrequestreview-4167830245) - 2026-04-24
 ## Q1 2026
 
 

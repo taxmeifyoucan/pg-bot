@@ -24,6 +24,9 @@ Github: [@healthykim](https://github.com/healthykim)
 
 * [Review] [Review on: eth/fetcher: lazy-allocate hashes slice in scheduleFetches](https://github.com/ethereum/go-ethereum/pull/34804#pullrequestreview-4162154720) - 2026-04-23
 * [Commit] [crypto/kzg4844: add cell-related functions (#34766)](https://github.com/ethereum/go-ethereum/commit/526ad4f6f1dc79d36ae8a7bd75a3ff18ac8a0a60) - 2026-04-23
+* [Review] [Review on: eth/protocols/snap: fix data race on testPeer counters](https://github.com/ethereum/go-ethereum/pull/34802#pullrequestreview-4170117595) - 2026-04-24
+* [Review] [Review on: eth/fetcher: lazy-allocate hashes slice in scheduleFetches](https://github.com/ethereum/go-ethereum/pull/34804#pullrequestreview-4169949873) - 2026-04-24
+* [Commit] [eth/fetcher: lazy-allocate hashes slice in scheduleFetches](https://github.com/ethereum/go-ethereum/commit/0da22dee450115c0d4841eae7c555a503b85cdc9) - 2026-04-24
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
 ## Q1 2026

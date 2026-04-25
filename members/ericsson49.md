@@ -31,6 +31,10 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 * [Commit] [Add sliced test generation for comptests (#5126)](https://github.com/ethereum/consensus-specs/commit/ccc96eb9bf90e8ac94947efec4415be83a7de73d) - 2026-04-21
 * [Review] [Review on: Modify comptests to use pytest](https://github.com/ethereum/consensus-specs/pull/5143#pullrequestreview-4152667490) - 2026-04-22
 * [Pull Request] [Improve comptests Fork Choice generator](https://github.com/ethereum/consensus-specs/pull/5147) - 2026-04-23
+* [Review] [Review on: Improve comptests fork choice generator](https://github.com/ethereum/consensus-specs/pull/5147#pullrequestreview-4170904477) - 2026-04-24
+* [Pull Request] [Avoid slashing the same validator twice in the comptests](https://github.com/ethereum/consensus-specs/pull/5160) - 2026-04-24
+* [Commit] [Avoid slashing the same validator twice in the comptests (#5160)](https://github.com/ethereum/consensus-specs/commit/a7ab94b72eab717f30389eedfce5aea5f05579d7) - 2026-04-24
+* [Commit] [Generate compliance tests with pytest plugin (#5143)](https://github.com/ethereum/consensus-specs/commit/46f991cbb309cd4cbecabf017a548574b0c0b5bf) - 2026-04-24
 ## Q1 2026
 
 

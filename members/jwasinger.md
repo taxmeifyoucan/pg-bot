@@ -33,6 +33,9 @@ Team: Geth
 * [Review] [Review on: internal: fmt.Println -> fmt.Fprintln](https://github.com/ethereum/go-ethereum/pull/34769#pullrequestreview-4140127221) - 2026-04-20
 * [Review] [Review on: core: track the state access footprint](https://github.com/ethereum/go-ethereum/pull/34776#pullrequestreview-4151502589) - 2026-04-22
 * [Review] [Review on: core: track the state access footprint](https://github.com/ethereum/go-ethereum/pull/34776#pullrequestreview-4151966192) - 2026-04-22
+* [Review] [Review on: core/state, core/types/bal: copy stateReadList in StateDB.Copy](https://github.com/ethereum/go-ethereum/pull/34814#pullrequestreview-4171617327) - 2026-04-24
+* [Review] [Review on: eth/fetcher: lazy-allocate hashes slice in scheduleFetches](https://github.com/ethereum/go-ethereum/pull/34804#pullrequestreview-4167505311) - 2026-04-24
+* [Review] [Review on: core/types/bal: update the BAL definition to the latest spec](https://github.com/ethereum/go-ethereum/pull/34799#pullrequestreview-4167452720) - 2026-04-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

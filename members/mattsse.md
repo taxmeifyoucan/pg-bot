@@ -186,6 +186,25 @@ Team: Reth
 * [Review] [Review on: fix(cli): use TxTy and ReceiptTy for static-file db get](https://github.com/paradigmxyz/reth/pull/23692#pullrequestreview-4161518196) - 2026-04-23
 * [Review] [Review on: chore: add DecodedBal in ExecutionEnv](https://github.com/paradigmxyz/reth/pull/23675#pullrequestreview-4160412125) - 2026-04-23
 * [Commit] [fix(rpc): clean up eth state cache reorg entries (#23683)](https://github.com/paradigmxyz/reth/commit/bbcfe354a18a66b41034e592084c96aca7d1e5b1) - 2026-04-23
+* [Review] [Review on: feat: external ip when listen addr is unspecified](https://github.com/paradigmxyz/reth/pull/23639#pullrequestreview-4168714240) - 2026-04-24
+* [Review] [Review on: feat: bound memory footpring of p2p messages](https://github.com/paradigmxyz/reth/pull/23718#pullrequestreview-4172808588) - 2026-04-24
+* [Review] [Review on: fix(discv5): use Weak reference in kbuckets bg task to release port on shutdown](https://github.com/paradigmxyz/reth/pull/23282#pullrequestreview-4171634577) - 2026-04-24
+* [Review] [Review on: feat: avoid RLP-decoding `NewBlock` payloads](https://github.com/paradigmxyz/reth/pull/23712#pullrequestreview-4171541133) - 2026-04-24
+* [Review] [Review on: chore: added empty request check to storage values](https://github.com/paradigmxyz/reth/pull/23714#pullrequestreview-4171805442) - 2026-04-24
+* [Review] [Review on: feat(tracing): add `std` feature gate to `reth-tracing` for wasm compatibility](https://github.com/paradigmxyz/reth/pull/23699#pullrequestreview-4168680113) - 2026-04-24
+* [Pull Request] [chore(engine): log transient invalid header cache skips](https://github.com/paradigmxyz/reth/pull/23711) - 2026-04-24
+* [Pull Request] [fix(net): respect peer requirements for fetch followups](https://github.com/paradigmxyz/reth/pull/23706) - 2026-04-24
+* [Review] [Review on: feat(bench): add reorg mode to new-payload-fcu](https://github.com/paradigmxyz/reth/pull/23666#pullrequestreview-4169878069) - 2026-04-24
+* [Pull Request] [chore(db): derive Eq for IntegerList](https://github.com/paradigmxyz/reth/pull/23709) - 2026-04-24
+* [Review] [Review on: chore: reth core bumped to v0.3.1](https://github.com/paradigmxyz/reth/pull/23707#pullrequestreview-4169480800) - 2026-04-24
+* [Review] [Review on: feat(net): add BAL requirement to block access list requests](https://github.com/paradigmxyz/reth/pull/23682#pullrequestreview-4169015843) - 2026-04-24
+* [Review] [Review on: fix(cli): preserve `trusted_nodes_only` from config when `--trusted-only` is not set](https://github.com/paradigmxyz/reth/pull/23703#pullrequestreview-4168639258) - 2026-04-24
+* [Review] [Review on: fix(era-downloader): infer ERA1 from indexed file names](https://github.com/paradigmxyz/reth/pull/23695#pullrequestreview-4168697908) - 2026-04-24
+* [Review] [Review on: fix(cli): use node types in execution stage dump](https://github.com/paradigmxyz/reth/pull/23705#pullrequestreview-4168599288) - 2026-04-24
+* [Commit] [chore(engine): log transient invalid header cache skips (#23711)](https://github.com/paradigmxyz/reth/commit/05e6da66e1d1212fb544ba7b470308a0b64a9283) - 2026-04-24
+* [Commit] [fix(net): respect peer requirements for fetch followups (#23706)](https://github.com/paradigmxyz/reth/commit/6be5520e3498ec2104bb69e13d3254c3acabece4) - 2026-04-24
+* [Commit] [chore(db): derive Eq for IntegerList (#23709)](https://github.com/paradigmxyz/reth/commit/40c30dbc73e35d7cbf0fe31789492bed505babcd) - 2026-04-24
+* [Commit] [fix(net): retain active session buffer capacity (#23702)](https://github.com/paradigmxyz/reth/commit/ba3cd2872ae34e4dcd0605a2106f5cd48ebcbdea) - 2026-04-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

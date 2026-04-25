@@ -37,6 +37,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [trie/bintrie: print todot path in binary (#34777)](https://github.com/ethereum/go-ethereum/commit/c374e74ee189f1f3068cea41f676dd61dfa66209) - 2026-04-21
 * [Pull Request] [core, trie, triedb: group 2^N binary trie nodes in serialization](https://github.com/ethereum/go-ethereum/pull/34794) - 2026-04-22
 * [Commit] [accounts/usbwallet: revert github.com/karalabe/hid to fix freebsd build (#34784)](https://github.com/ethereum/go-ethereum/commit/eb3283fb2ef8b606d35fb6e30d2e036c186be45e) - 2026-04-22
+* [Review] [Review on: core, trie, triedb: group 2^N binary trie nodes in serialization](https://github.com/ethereum/go-ethereum/pull/34794#pullrequestreview-4171481581) - 2026-04-24
 ## Q1 2026
 
 

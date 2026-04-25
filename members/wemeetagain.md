@@ -17,6 +17,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 * [Review] [Review on: test: per-target spec tests](https://github.com/ChainSafe/lodestar-z/pull/317#pullrequestreview-4121958330) - 2026-04-16
 * [Review] [Review on: test: per-target spec tests](https://github.com/ChainSafe/lodestar-z/pull/317#pullrequestreview-4129742954) - 2026-04-17
+* [Review] [Review on: fix(build): remove windows as one of the targets in zapi](https://github.com/ChainSafe/lodestar-z/pull/325#pullrequestreview-4172194238) - 2026-04-24
+* [Review] [Review on: fix(deps): update hashtree and blst.zig](https://github.com/ChainSafe/lodestar-z/pull/326#pullrequestreview-4172325173) - 2026-04-24
+* [Review] [Review on: chore: upgrade to Zig 0.16](https://github.com/ChainSafe/lodestar-z/pull/319#pullrequestreview-4171617205) - 2026-04-24
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -30,6 +33,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: prevent seed state cache poisoning in loadState clone](https://github.com/ChainSafe/lodestar/pull/9246#pullrequestreview-4149103095) - 2026-04-21
 * [Review] [Review on: fix: drop payloadStatus from Checkpoint](https://github.com/ChainSafe/lodestar/pull/9259#pullrequestreview-4157988156) - 2026-04-22
 * [Review] [Review on: feat: wire parent execution requests in block production](https://github.com/ChainSafe/lodestar/pull/9265#pullrequestreview-4166275962) - 2026-04-23
+* [Review] [Review on: feat: update sync notifier for gloas](https://github.com/ChainSafe/lodestar/pull/9272#pullrequestreview-4171193837) - 2026-04-24
+* [Commit] [feat: add unknown payload envelope sync flow (#9241)](https://github.com/ChainSafe/lodestar/commit/1540a78cd0d876dec4f04dcd3b7f7021b3b996b6) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 ## Q1 2026

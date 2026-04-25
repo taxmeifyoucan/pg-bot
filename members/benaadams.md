@@ -118,6 +118,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Avoid pooled RLP aliasing in read-only trie clones](https://github.com/NethermindEth/nethermind/pull/11314) - 2026-04-23
 * [Review] [Review on: Optimize caching & tests for precompiles](https://github.com/NethermindEth/nethermind/pull/11309#pullrequestreview-4160019115) - 2026-04-23
 * [Commit] [Avoid pooled RLP aliasing in read-only trie clones (#11314)](https://github.com/NethermindEth/nethermind/commit/d67352fd1531a712352bf9ac67cef9268e03ce7f) - 2026-04-23
+* [Review] [Review on: Fast-path simple EOA transfers and reshape VM loop and substate](https://github.com/NethermindEth/nethermind/pull/11323#pullrequestreview-4169785260) - 2026-04-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

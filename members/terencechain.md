@@ -96,6 +96,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add BAL, slot pre-compile, and engine-api implementations (#16687)](https://github.com/OffchainLabs/prysm/commit/060e4fc148607b67b8d1fe34c55ef89555aa4c47) - 2026-04-22
 * [Pull Request] [Fix highest execution payload bid cache sharing between sync and RPC](https://github.com/OffchainLabs/prysm/pull/16717) - 2026-04-23
 * [Commit] [Fix highest execution payload bid cache sharing between sync and RPC (#16717)](https://github.com/OffchainLabs/prysm/commit/69fc0163ec60e6d745d5e46161d91f2102836e93) - 2026-04-23
+* [Pull Request] [Glamsterdam devnet 0](https://github.com/OffchainLabs/prysm/pull/16720) - 2026-04-24
+* [Pull Request] [Harden execution payload envelope nil checks](https://github.com/OffchainLabs/prysm/pull/16718) - 2026-04-24
+* [Commit] [Implement defer payload processing (#16658)](https://github.com/OffchainLabs/prysm/commit/8b0cdc2db94d1fa2b4a76aa4ac1a8bf10e4e9ca0) - 2026-04-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 ## Q1 2026

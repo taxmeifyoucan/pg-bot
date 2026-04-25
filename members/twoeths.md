@@ -78,6 +78,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: drop payloadStatus from Checkpoint](https://github.com/ChainSafe/lodestar/pull/9259#pullrequestreview-4159769529) - 2026-04-23
 * [Commit] [feat: cache the last 2 PayloadEnvelopeInputs (#9260)](https://github.com/ChainSafe/lodestar/commit/07875b3e0ccd619fff71e52a3dedd275c531ecc0) - 2026-04-23
 * [Commit] [fix: drop payloadStatus from Checkpoint (#9259)](https://github.com/ChainSafe/lodestar/commit/ca1fc40294f60cd5a9dabaeb21143a08ce986a9a) - 2026-04-23
+* [Pull Request] [feat: range sync for gloas](https://github.com/ChainSafe/lodestar/pull/9269) - 2026-04-24
+* [Review] [Review on: feat: range sync for gloas](https://github.com/ChainSafe/lodestar/pull/9269#pullrequestreview-4169770045) - 2026-04-24
+* [Review] [Review on: chore: add workflow to run nightly spec tests](https://github.com/ChainSafe/lodestar/pull/9268#pullrequestreview-4169589835) - 2026-04-24
+* [Commit] [feat: range sync for gloas (#9269)](https://github.com/ChainSafe/lodestar/commit/180030f94698662a6329216fece033d596d114bc) - 2026-04-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

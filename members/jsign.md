@@ -38,6 +38,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [Remove using Reth stateless fork & other misc improvements](https://github.com/eth-act/zkevm-benchmark-workload/pull/279) - 2026-04-23
 * [Review] [Review on: Remove using Reth stateless fork & other misc improvements](https://github.com/eth-act/zkevm-benchmark-workload/pull/279#pullrequestreview-4166490415) - 2026-04-23
 * [Review] [Review on: feat: update `ere` to `v0.8.0`](https://github.com/eth-act/zkevm-benchmark-workload/pull/278#pullrequestreview-4162580928) - 2026-04-23
+* [Pull Request] [chore: update Rust version to 1.93 in Cargo.toml and Dockerfile](https://github.com/eth-act/zkevm-benchmark-workload/pull/280) - 2026-04-24
+* [Commit] [chore: update Rust version to 1.93 in Cargo.toml and Dockerfile (#280)](https://github.com/eth-act/zkevm-benchmark-workload/commit/42faca85f65e01c6cf3e7c5ad43011fe9a5120b4) - 2026-04-24
+* [Commit] [Remove using Reth stateless fork & other misc improvements (#279)](https://github.com/eth-act/zkevm-benchmark-workload/commit/43cb58388b692611a4d69ab822480578066198c0) - 2026-04-24
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08

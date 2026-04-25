@@ -39,6 +39,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [refactor: use uint32 instead of uint64 for block access index (#2730)](https://github.com/ethereum/execution-specs/commit/97c13c14cce1ff6955ef3a9e6dd6b1c74e4ccc57) - 2026-04-20
 * [Review] [Review on: fix(tooling): `just static` codespell finds 200+ typos for `json_infra/fixtures`, skip it](https://github.com/ethereum/execution-specs/pull/2706#pullrequestreview-4149278757) - 2026-04-21
 * [Commit] [chore(test-types): adds extra modifier validation; adds unit tests (#2710)](https://github.com/ethereum/execution-specs/commit/49b882e814a925380c8dd85822a715dd88203f13) - 2026-04-22
+* [Review] [Review on: fix(test-benchmark): zero tx included in `ecpairing` benchmark](https://github.com/ethereum/execution-specs/pull/2749#pullrequestreview-4170546421) - 2026-04-24
+* [Pull Request] [feat(test-tools): t8n file streaming optimizations](https://github.com/ethereum/execution-specs/pull/2751) - 2026-04-24
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14

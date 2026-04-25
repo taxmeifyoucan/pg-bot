@@ -48,6 +48,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Issue] [UX improve for precompile benchmark test cases](https://github.com/ethereum/execution-specs/issues/2739) - 2026-04-21
 * [Pull Request] [feat(test-execute): raise contract deployment gas limit for 8037.](https://github.com/ethereum/execution-specs/pull/2745) - 2026-04-22
 * [Pull Request] [fix(test-benchmark): zero tx included in `ecpairing` benchmark](https://github.com/ethereum/execution-specs/pull/2749) - 2026-04-23
+* [Review] [Review on: fix(test-benchmark): zero tx included in `ecpairing` benchmark](https://github.com/ethereum/execution-specs/pull/2749#pullrequestreview-4170309536) - 2026-04-24
+* [Commit] [fix(test-benchmark): zero tx included in `ecpairing` benchmark (#2749)](https://github.com/ethereum/execution-specs/commit/8d8301cc534fb3d51054eb0535f848d96491d972) - 2026-04-24
 ## Q1 2026
 
 

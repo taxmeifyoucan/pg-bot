@@ -39,6 +39,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Make vote tracking slot-aware and add backward-compatible vote update plumbing (3 of 7)](https://github.com/Consensys/teku/pull/10573#pullrequestreview-4146900798) - 2026-04-21
 * [Commit] [Gloas changes for v1.7.0-alpha.5 (#10581)](https://github.com/Consensys/teku/commit/cb3311334cb356bddd877ceeaf0545e7fbacf369) - 2026-04-21
 * [Commit] [Make availability checker NOOP for `on_Block` for Gloas (#10591)](https://github.com/Consensys/teku/commit/68027b52924bfde0d4ce93f365d3bbf360a483b5) - 2026-04-21
+* [Pull Request] [Small Gloas fixes](https://github.com/Consensys/teku/pull/10607) - 2026-04-24
+* [Review] [Review on: serve finalized execution payload envelopes by range](https://github.com/Consensys/teku/pull/10605#pullrequestreview-4170374700) - 2026-04-24
+* [Pull Request] [Disable TimerServiceTest on Windows](https://github.com/Consensys/teku/pull/10603) - 2026-04-24
+* [Commit] [Small Gloas fixes (#10607)](https://github.com/Consensys/teku/commit/fe093376320d3d2504f09269e77e65520b66963d) - 2026-04-24
+* [Commit] [Disable TimerServiceTest on Windows (#10603)](https://github.com/Consensys/teku/commit/91e2c0feb730d45540724e10b763c5bac270406e) - 2026-04-24
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

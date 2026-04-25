@@ -18,6 +18,8 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Pull Request] [[r3.4] anacrolix/torrent: Serve peerconn panic fix](https://github.com/erigontech/erigon/pull/20765) - 2026-04-23
 * [Pull Request] [anacrolix/torrent: Serve peerconn panic fix](https://github.com/erigontech/erigon/pull/20748) - 2026-04-23
 * [Commit] [anacrolix/torrent: Serve peerconn panic fix (#20748)](https://github.com/erigontech/erigon/commit/2b1856faffd43ff1ab283d2200f6249eea6d5dd7) - 2026-04-23
+* [Pull Request] [docs: document backport PR conventions for release branches](https://github.com/erigontech/erigon/pull/20768) - 2026-04-24
+* [Commit] [docs: document backport PR conventions for release branches (#20768)](https://github.com/erigontech/erigon/commit/d4e32aa497b63c76b964c7934151a8c0f3eec51c) - 2026-04-24
 ## Q1 2026
 
 

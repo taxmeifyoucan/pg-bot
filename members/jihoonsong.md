@@ -41,6 +41,9 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Add executable gossip validation functions for capella](https://github.com/ethereum/consensus-specs/pull/5049#pullrequestreview-4155094110) - 2026-04-22
 * [Review] [Review on: Add executable gossip validation functions for bellatrix](https://github.com/ethereum/consensus-specs/pull/5047#pullrequestreview-4153531011) - 2026-04-22
 * [Commit] [Update inclusion list deadlines (#5138)](https://github.com/ethereum/consensus-specs/commit/4083c503344e1107ee61da572bf89963230a0714) - 2026-04-23
+* [Review] [Review on: Fix website syntax highlighting](https://github.com/ethereum/consensus-specs/pull/5159#pullrequestreview-4170552247) - 2026-04-24
+* [Pull Request] [Align `should_extend_payload` with Gloas](https://github.com/ethereum/consensus-specs/pull/5157) - 2026-04-24
+* [Commit] [Add missing rebase from #5094 to Heze (#5157)](https://github.com/ethereum/consensus-specs/commit/52c619de3c88e65a865b9ec257ce52994c55041c) - 2026-04-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

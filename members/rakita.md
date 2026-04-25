@@ -62,6 +62,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: feat(database): add State::has_bal helper](https://github.com/bluealloy/revm/pull/3604#pullrequestreview-4163977147) - 2026-04-23
 * [Review] [Review on: refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558#pullrequestreview-4160874629) - 2026-04-23
 * [Review] [Review on: perf: move memory_limit check into cold resize path](https://github.com/bluealloy/revm/pull/3599#pullrequestreview-4162271734) - 2026-04-23
+* [Pull Request] [fix(post-execution): clamp reservoir when floor gas exceeds limit budget](https://github.com/bluealloy/revm/pull/3607) - 2026-04-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

@@ -35,6 +35,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [fix: txpool bugs (#4143)](https://github.com/status-im/nimbus-eth1/commit/d882fe56a0381134e3c0a44a52ded778a1d1a702) - 2026-04-21
 * [Pull Request] [fixes for engineAPI high latency](https://github.com/status-im/nimbus-eth1/pull/4166) - 2026-04-22
 * [Review] [Review on: fixes for engineAPI high latency](https://github.com/status-im/nimbus-eth1/pull/4166#pullrequestreview-4163776268) - 2026-04-23
+* [Pull Request] [async `updateBase`](https://github.com/status-im/nimbus-eth1/pull/4174) - 2026-04-24
+* [Review] [Review on: async `updateBase`](https://github.com/status-im/nimbus-eth1/pull/4174#pullrequestreview-4170639876) - 2026-04-24
+* [Pull Request] [fix: bal bug in unify tx validation](https://github.com/status-im/nimbus-eth1/pull/4173) - 2026-04-24
+* [Commit] [fix bal bug in unify tx validation (#4173)](https://github.com/status-im/nimbus-eth1/commit/7c20ce61a72eb274b7974114092996d1a5dbe719) - 2026-04-24
 ## Q1 2026
 
 

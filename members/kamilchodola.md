@@ -35,6 +35,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Optimize flat-state block prewarming and overlap post-processing](https://github.com/NethermindEth/nethermind/pull/11317) - 2026-04-23
 * [Review] [Review on: Bump up the version to 1.38.0-unstable](https://github.com/NethermindEth/nethermind/pull/11330#pullrequestreview-4165645423) - 2026-04-23
 * [Review] [Review on: Avoid pooled RLP aliasing in read-only trie clones](https://github.com/NethermindEth/nethermind/pull/11314#pullrequestreview-4161414384) - 2026-04-23
+* [Pull Request] [perf: eliminate redundant storage tree commits in FlatWorldStateScope](https://github.com/NethermindEth/nethermind/pull/11349) - 2026-04-24
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

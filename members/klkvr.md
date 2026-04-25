@@ -66,6 +66,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: refactor(provider): use overlay builders in historical state paths](https://github.com/paradigmxyz/reth/pull/23667#pullrequestreview-4163036941) - 2026-04-23
 * [Review] [Review on: chore: add DecodedBal in ExecutionEnv](https://github.com/paradigmxyz/reth/pull/23675#pullrequestreview-4161264085) - 2026-04-23
 * [Commit] [perf(re-execute): configurable rocksdb block cache size and re-use of mdbx provider (#23701)](https://github.com/paradigmxyz/reth/commit/fa6b44b038888453aff97c6028147f0b2ba11ae0) - 2026-04-23
+* [Pull Request] [feat: bound memory footpring of p2p messages](https://github.com/paradigmxyz/reth/pull/23718) - 2026-04-24
+* [Pull Request] [feat(re-execute): verify reverts against changesets](https://github.com/paradigmxyz/reth/pull/23717) - 2026-04-24
+* [Pull Request] [feat: avoid RLP-decoding `NewBlock` payloads](https://github.com/paradigmxyz/reth/pull/23712) - 2026-04-24
+* [Review] [Review on: fix(net): respect peer requirements for fetch followups](https://github.com/paradigmxyz/reth/pull/23706#pullrequestreview-4169939230) - 2026-04-24
+* [Commit] [feat: avoid RLP-decoding `NewBlock` payloads (#23712)](https://github.com/paradigmxyz/reth/commit/79578e35b85fe65373bf68924bbeae0b871f2d1d) - 2026-04-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

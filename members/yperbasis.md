@@ -223,6 +223,25 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/stagedsync: use BlockOverlay read view for BLOCKHASH lookups (#20762)](https://github.com/erigontech/erigon/commit/5951773566a6eab14e5d166e5ea7b080c6bc7c43) - 2026-04-23
 * [Commit] [cmd/utils/app: fix import hang when block fails execution (#20735)](https://github.com/erigontech/erigon/commit/ee73933abc9e062ccfb2115dd93ac1bd6b5e5c40) - 2026-04-23
 * [Commit] [common, node, cl, db: dedupe copy-pasted constants and vars (#20731)](https://github.com/erigontech/erigon/commit/52aef5fd762da51cb0f1d7f4abaa6260afe666e5) - 2026-04-23
+* [Pull Request] [ci: bump hive-eest --sim.parallelism from 12 to 24](https://github.com/erigontech/erigon/pull/20799) - 2026-04-24
+* [Pull Request] [ci: fail-fast ci-gate in merge queue by cancelling on leaf failure](https://github.com/erigontech/erigon/pull/20789) - 2026-04-24
+* [Review] [Review on: rpc/mcp: fix tools/call hanging indefinitely under DB load](https://github.com/erigontech/erigon/pull/20778#pullrequestreview-4169392373) - 2026-04-24
+* [Pull Request] [p2p/sentry, node/direct: bound fan-out stream buffers to prevent OOM](https://github.com/erigontech/erigon/pull/20783) - 2026-04-24
+* [Pull Request] [p2p/protocols/wit, p2p/sentry: validate WitnessPageResponse fields](https://github.com/erigontech/erigon/pull/20798) - 2026-04-24
+* [Review] [Review on: p2p/protocols/wit, p2p/sentry: validate WitnessPageResponse fields](https://github.com/erigontech/erigon/pull/20798#pullrequestreview-4171212565) - 2026-04-24
+* [Pull Request] [db/downloader: raise TestBTPeerDiscovery_AddPeersFromENR timeout to 2m](https://github.com/erigontech/erigon/pull/20786) - 2026-04-24
+* [Review] [Review on: cp: cherry-pick batch 5 from release/3.4 to main](https://github.com/erigontech/erigon/pull/20759#pullrequestreview-4169268430) - 2026-04-24
+* [Review] [Review on: p2p/protocols/eth: EIP-8159 eth/71 wire protocol (PR 1/3)](https://github.com/erigontech/erigon/pull/20793#pullrequestreview-4170863702) - 2026-04-24
+* [Review] [Review on: [3.4] rpc: zero-alloc memory word encoding in JsonStreamLogger (#20754) (cherry-pick)](https://github.com/erigontech/erigon/pull/20787#pullrequestreview-4169749366) - 2026-04-24
+* [Review] [Review on: [3.4] tracing: fix prestateTracer diff mode missing deleted accounts (flaky)](https://github.com/erigontech/erigon/pull/20775#pullrequestreview-4169647352) - 2026-04-24
+* [Review] [Review on: crypto/kzg: add cell-level KZG functions for eth/72](https://github.com/erigontech/erigon/pull/20763#pullrequestreview-4169799809) - 2026-04-24
+* [Review] [Review on: [SharovBot] execution/types: fix EEST hive receipt hash regression](https://github.com/erigontech/erigon/pull/20779#pullrequestreview-4169302052) - 2026-04-24
+* [Review] [Review on: domain.collate: remove double buffering](https://github.com/erigontech/erigon/pull/20742#pullrequestreview-4169154229) - 2026-04-24
+* [Review] [Review on: [performance] Merge recent main into performance branch](https://github.com/erigontech/erigon/pull/20782#pullrequestreview-4169368216) - 2026-04-24
+* [Commit] [ci: fail-fast ci-gate in merge queue by cancelling on leaf failure (#20789)](https://github.com/erigontech/erigon/commit/9baae53d92d543297440a16239ac7f3c55fd9dc1) - 2026-04-24
+* [Commit] [p2p/sentry, node/direct: bound fan-out stream buffers to prevent OOM (#20783)](https://github.com/erigontech/erigon/commit/2453786982858546f14523a7680b4c633b6336e9) - 2026-04-24
+* [Commit] [db/downloader: raise TestBTPeerDiscovery_AddPeersFromENR timeout to 2m (#20786)](https://github.com/erigontech/erigon/commit/3e6a7a07515a003e9851a6cef69015def4d9ae69) - 2026-04-24
+* [Commit] [p2p, txpool: fix Hive eth devp2p test failures (#20733)](https://github.com/erigontech/erigon/commit/fe063a8262146991bc3c4c15bbe8ee21f1355ea8) - 2026-04-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
