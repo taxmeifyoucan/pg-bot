@@ -224,6 +224,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: `eth_call` & `eth_getBalance` - error codes and messages for Geth compatibility](https://github.com/NethermindEth/nethermind/pull/11335#pullrequestreview-4169187391) - 2026-04-24
 * [Review] [Review on: analyzers: NETH003 — file name must match the contained type name](https://github.com/NethermindEth/nethermind/pull/11337#pullrequestreview-4169216120) - 2026-04-24
 * [Review] [Review on: `eth_getStorageAt` - invalid storage key error message](https://github.com/NethermindEth/nethermind/pull/11338#pullrequestreview-4169196824) - 2026-04-24
+* [Review] [Review on: debug_traceCallMany: strip filler blocks from overrides result](https://github.com/NethermindEth/nethermind/pull/11348#pullrequestreview-4175311945) - 2026-04-25
+* [Review] [Review on: perf: eliminate redundant storage tree commits in FlatWorldStateScope](https://github.com/NethermindEth/nethermind/pull/11349#pullrequestreview-4175313035) - 2026-04-25
+* [Review] [Review on: docs(jsonrpc): correct descriptions for proof_getTransactionByHash / proof_getTransactionReceipt](https://github.com/NethermindEth/nethermind/pull/11344#pullrequestreview-4175312659) - 2026-04-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

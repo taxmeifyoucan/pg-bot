@@ -60,6 +60,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(build): enable R2R platform packs on the locked restore](https://github.com/NethermindEth/nethermind/pull/11334#pullrequestreview-4166564321) - 2026-04-23
 * [Review] [Review on: fix(build): copy Directory.Build.targets into release image](https://github.com/NethermindEth/nethermind/pull/11333#pullrequestreview-4166413226) - 2026-04-23
 * [Review] [Review on: docs(jsonrpc): correct descriptions for proof_getTransactionByHash / proof_getTransactionReceipt](https://github.com/NethermindEth/nethermind/pull/11344#pullrequestreview-4170369977) - 2026-04-24
+* [Pull Request] [chore: Support and migrate to Ubuntu 26.04](https://github.com/NethermindEth/nethermind/pull/11355) - 2026-04-25
 ## Q1 2026
 
 

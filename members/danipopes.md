@@ -253,6 +253,9 @@ Team: Reth
 * [Commit] [chore: fix sections stats, log longest blocks, improve bench script (#337)](https://github.com/paradigmxyz/revmc/commit/450616b5c92300b0be36676d7b308c08d931b485) - 2026-04-24
 * [Commit] [refactor: remove raw jit variant benchmarks (#336)](https://github.com/paradigmxyz/revmc/commit/f2555ffa61cab22c8fdbd30689e01e81d6c83019) - 2026-04-24
 * [Commit] [feat(scripts): add spill/reload counts to bench.py codegen analysis (#334)](https://github.com/paradigmxyz/revmc/commit/2deb30f7ac62f1b8cfd672c13de7dcca585cf496) - 2026-04-24
+* [Pull Request] [perf: inline address masking and improve constant folding](https://github.com/paradigmxyz/revmc/pull/342) - 2026-04-25
+* [Pull Request] [refactor: remove input value caching in translate](https://github.com/paradigmxyz/revmc/pull/343) - 2026-04-25
+* [Commit] [refactor: remove input value caching in translate (#343)](https://github.com/paradigmxyz/revmc/commit/53a1d144815da4655068248cc8827e1951ae82bf) - 2026-04-25
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -326,6 +329,7 @@ Team: Reth
 * [Commit] [refactor(precompile): use static OnceLock array for Precompiles init (#3602)](https://github.com/bluealloy/revm/commit/2e72f176187359afd2493d2e51d80d36d256a13b) - 2026-04-24
 * [Commit] [refactor(primitives): add SpecId::NEXT, drop num_enum dependency (#3593)](https://github.com/bluealloy/revm/commit/4bb2af86e78827318c3f0035c0db031082b37510) - 2026-04-24
 * [Commit] [refactor: remove pointer field from GasParams (#3608)](https://github.com/bluealloy/revm/commit/5764f1bfc859d47ee3eff4132476136b80658bb9) - 2026-04-24
+* [Review] [Review on: feat(account): Optimized index type for account ID using `non-max`](https://github.com/bluealloy/revm/pull/3605#pullrequestreview-4175801493) - 2026-04-25
 ## Q1 2026
 
 

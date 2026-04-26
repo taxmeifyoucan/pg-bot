@@ -71,6 +71,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [feat: avoid RLP-decoding `NewBlock` payloads](https://github.com/paradigmxyz/reth/pull/23712) - 2026-04-24
 * [Review] [Review on: fix(net): respect peer requirements for fetch followups](https://github.com/paradigmxyz/reth/pull/23706#pullrequestreview-4169939230) - 2026-04-24
 * [Commit] [feat: avoid RLP-decoding `NewBlock` payloads (#23712)](https://github.com/paradigmxyz/reth/commit/79578e35b85fe65373bf68924bbeae0b871f2d1d) - 2026-04-24
+* [Commit] [feat(re-execute): verify reverts against changesets (#23717)](https://github.com/paradigmxyz/reth/commit/6886cd7742dd0d3abc03e55d2b22b88ea8952a2e) - 2026-04-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

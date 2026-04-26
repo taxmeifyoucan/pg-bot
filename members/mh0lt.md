@@ -93,6 +93,7 @@ Team: Erigon
 * [Pull Request] [p2p/protocols/eth, p2p/sentry: EIP-8159 eth/71 handler + sentry dispatch (PR 2/3)](https://github.com/erigontech/erigon/pull/20794) - 2026-04-24
 * [Issue] [bal-devnet-3: block 503 gas mismatch (EIP-8037 state-gas accounting)](https://github.com/erigontech/erigon/issues/20791) - 2026-04-24
 * [Commit] [cmd/utils: expose executor perf toggles as --exec.* CLI flags (#20797)](https://github.com/erigontech/erigon/commit/3fa93ab9faa18f6630972d2117a764f1309d5c8b) - 2026-04-24
+* [Pull Request] [parallel commitment calculations implemented](https://github.com/erigontech/erigon/pull/20805) - 2026-04-25
 ## Q1 2026
 
 

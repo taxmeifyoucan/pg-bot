@@ -153,6 +153,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: remove epoch_boundary sanity handler (#9270)](https://github.com/ChainSafe/lodestar/commit/bc569affb9bdd8aa73857676b318f433ea95c8e0) - 2026-04-24
 * [Commit] [chore: fail nightly spec tests workflow if any tests failed (#9271)](https://github.com/ChainSafe/lodestar/commit/3d6ae250a4c03cd6383ec8cd0f36408180d4fb45) - 2026-04-24
 * [Commit] [chore: add workflow to run nightly spec tests (#9268)](https://github.com/ChainSafe/lodestar/commit/a140dd987edd3e8b65f8a327c91beb620bbddf5b) - 2026-04-24
+* [Pull Request] [chore: remove isParentBlockFull](https://github.com/ChainSafe/lodestar/pull/9280) - 2026-04-25
+* [Review] [Review on: chore: remove isParentBlockFull](https://github.com/ChainSafe/lodestar/pull/9280#pullrequestreview-4176294859) - 2026-04-25
+* [Review] [Review on: feat: wire up proposer_preferences gossip topic](https://github.com/ChainSafe/lodestar/pull/9275#pullrequestreview-4176266921) - 2026-04-25
+* [Review] [Review on: fix: avoid metrics crash on payload envelope publish](https://github.com/ChainSafe/lodestar/pull/9279#pullrequestreview-4175986094) - 2026-04-25
+* [Review] [Review on: test: fix unknownBlockSync e2e assertions for gloas](https://github.com/ChainSafe/lodestar/pull/9276#pullrequestreview-4175138216) - 2026-04-25
+* [Commit] [feat: wire up proposer_preferences gossip topic (#9275)](https://github.com/ChainSafe/lodestar/commit/66d2c102e372f755710098a55229a24837e9ebbf) - 2026-04-25
+* [Commit] [test: fix unknownBlockSync e2e assertions for gloas (#9276)](https://github.com/ChainSafe/lodestar/commit/dfb984e7795f84a6db20092fde3cdf5322866eea) - 2026-04-25
+* [Commit] [fix: clone block header during payload envelope verification (#9277)](https://github.com/ChainSafe/lodestar/commit/38479366cce61bdff2a74f1996783ddd9891223a) - 2026-04-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

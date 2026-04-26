@@ -35,6 +35,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: wire parent execution requests in block production](https://github.com/ChainSafe/lodestar/pull/9265#pullrequestreview-4166275962) - 2026-04-23
 * [Review] [Review on: feat: update sync notifier for gloas](https://github.com/ChainSafe/lodestar/pull/9272#pullrequestreview-4171193837) - 2026-04-24
 * [Commit] [feat: add unknown payload envelope sync flow (#9241)](https://github.com/ChainSafe/lodestar/commit/1540a78cd0d876dec4f04dcd3b7f7021b3b996b6) - 2026-04-24
+* [Review] [Review on: feat: wire up proposer_preferences gossip topic](https://github.com/ChainSafe/lodestar/pull/9275#pullrequestreview-4175983648) - 2026-04-25
+* [Review] [Review on: fix: avoid metrics crash on payload envelope publish](https://github.com/ChainSafe/lodestar/pull/9279#pullrequestreview-4175992546) - 2026-04-25
+* [Review] [Review on: test: fix unknownBlockSync e2e assertions for gloas](https://github.com/ChainSafe/lodestar/pull/9276#pullrequestreview-4175281756) - 2026-04-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 ## Q1 2026

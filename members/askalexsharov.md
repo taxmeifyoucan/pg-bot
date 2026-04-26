@@ -370,6 +370,16 @@ Team: Erigon
 * [Commit] [`erigon seg ls`: show dictionary size on disk and in mem (#20790)](https://github.com/erigontech/erigon/commit/dcda464ad4fbe351d32fe031639d20fd3b7499c7) - 2026-04-24
 * [Commit] [db/kv, db/state: use PutCurrent instead of DeleteCurrent+Put in domain flush (#20769)](https://github.com/erigontech/erigon/commit/9fe46312e88f798e2f1df41bad32fedcbd9e4298) - 2026-04-24
 * [Commit] [follow-up: broken fuse (#20767)](https://github.com/erigontech/erigon/commit/c5a0ee5aaf99f7c0dc47fd8d0df95c0659eb784e) - 2026-04-24
+* [Review] [Review on: rpc align debug trace flags with execution-apis spec (#762)](https://github.com/erigontech/erigon/pull/20755#pullrequestreview-4176288263) - 2026-04-25
+* [Pull Request] [bloatnet: disable `CheckCommitmentKvDeref` ](https://github.com/erigontech/erigon/pull/20813) - 2026-04-25
+* [Pull Request] [bloatnet: allow unknown checkers](https://github.com/erigontech/erigon/pull/20810) - 2026-04-25
+* [Pull Request] [bloatnet: allow unknown integrity checks](https://github.com/erigontech/erigon/pull/20806) - 2026-04-25
+* [Review] [Review on: p2p/protocols/wit, p2p/sentry: validate WitnessPageResponse fields](https://github.com/erigontech/erigon/pull/20798#pullrequestreview-4174884645) - 2026-04-25
+* [Review] [Review on: build(deps): bump go.opentelemetry.io/otel from 1.39.0 to 1.41.0](https://github.com/erigontech/erigon/pull/20804#pullrequestreview-4174692838) - 2026-04-25
+* [Review] [Review on: db/integrity: fix sync.Pool never Put back maps](https://github.com/erigontech/erigon/pull/20802#pullrequestreview-4174666767) - 2026-04-25
+* [Review] [Review on: db/integrity: use injected logger in CheckCommitmentRoot](https://github.com/erigontech/erigon/pull/20803#pullrequestreview-4174628158) - 2026-04-25
+* [Issue] [bloatnet: disable `CheckCommitmentKvDeref` enable sampling](https://github.com/erigontech/erigon/issues/20814) - 2026-04-25
+* [Commit] [cp: cherry-pick batch 5 from release/3.4 to main (#20759)](https://github.com/erigontech/erigon/commit/0b720ee0f92fcd33ece45ebd173a19b6bb7601e7) - 2026-04-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

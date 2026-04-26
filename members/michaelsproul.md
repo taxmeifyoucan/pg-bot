@@ -45,6 +45,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Don't send 0x00 block hash for Gloas genesis block](https://github.com/sigp/lighthouse/issues/9167) - 2026-04-23
 * [Review] [Review on: Avoid lint and fmt for agents](https://github.com/sigp/lighthouse/pull/9166#pullrequestreview-4159154855) - 2026-04-23
 * [Review] [Review on: Re-issue `ForkchoiceUpdate` based on updated `PayloadStatus`](https://github.com/sigp/lighthouse/pull/9102#pullrequestreview-4161999210) - 2026-04-23
+* [Review] [Review on: Fix builder exit signature batch verification logic and small refactor](https://github.com/sigp/lighthouse/pull/9173#pullrequestreview-4176263755) - 2026-04-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

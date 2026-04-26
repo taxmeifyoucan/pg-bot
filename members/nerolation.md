@@ -41,6 +41,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [feat(specs,tests): EIP-7928 - Update BAL index to uint64](https://github.com/ethereum/execution-specs/pull/2713) - 2026-04-18
 * [Pull Request] [feat(specs,tests): EIP-7928 - Change block access list index to uint32](https://github.com/ethereum/execution-specs/pull/2731) - 2026-04-20
 * [Commit] [feat(spec-specs, tests): EIP-7928 - Update BAL index to uint64 (#2713)](https://github.com/ethereum/execution-specs/commit/554bd418ba77f543940ca3b460c365c575eb72bd) - 2026-04-20
+* [Pull Request] [feat(tests): Add worst-case SSTORE test](https://github.com/ethereum/execution-specs/pull/2757) - 2026-04-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use `engine_getPayloadV6`](https://github.com/ethereum/consensus-specs/pull/5123) - 2026-04-17
 * [Commit] [Use `engine_getPayloadV6` (#5123)](https://github.com/ethereum/consensus-specs/commit/81c27174232bedc50f71c2c4b78b07e2951252cd) - 2026-04-17

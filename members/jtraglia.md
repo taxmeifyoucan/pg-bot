@@ -130,6 +130,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Align `should_extend_payload` with Gloas](https://github.com/ethereum/consensus-specs/pull/5157#pullrequestreview-4170550741) - 2026-04-24
 * [Commit] [Add prepare-release skill (#5156)](https://github.com/ethereum/consensus-specs/commit/4eccd4688187eec00a10dd9b4c0bb9ac7589af74) - 2026-04-25
 * [Commit] [Fix website syntax highlighting (#5159)](https://github.com/ethereum/consensus-specs/commit/dfb6d172e5e7c98d9f0349b0495d5c0926e68b2f) - 2026-04-24
+* [Pull Request] [Add commit skill](https://github.com/ethereum/consensus-specs/pull/5163) - 2026-04-25
+* [Review] [Review on: Bump EIP-8025 `MAX_PROOF_SIZE` to 400 KiB](https://github.com/ethereum/consensus-specs/pull/5162#pullrequestreview-4175520413) - 2026-04-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

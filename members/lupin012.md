@@ -77,6 +77,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[3.4] tracing: fix prestateTracer diff mode missing deleted accounts (flaky)](https://github.com/erigontech/erigon/pull/20775) - 2026-04-24
 * [Pull Request] [[3.4] rpc: add --rpc.logs.maxresults limit on log rpc-API (#19721) (cherry-pick)](https://github.com/erigontech/erigon/pull/20784) - 2026-04-24
 * [Commit] [rpc: zero-alloc memory word encoding in JsonStreamLogger (#20754)](https://github.com/erigontech/erigon/commit/32d71ee5415b95ad97257b262f980486fb407cc5) - 2026-04-24
+* [Review] [Review on: rpc: compression with libdeflate](https://github.com/erigontech/erigon/pull/20665#pullrequestreview-4175242359) - 2026-04-25
+* [Pull Request] [rpc: fix prestateTracer diff mode missing deleted accounts](https://github.com/erigontech/erigon/pull/20807) - 2026-04-25
+* [Pull Request] [QA: enable test also on http-compressed and websockets for historical mainnet](https://github.com/erigontech/erigon/pull/20815) - 2026-04-25
+* [Commit] [rpc align debug trace flags with execution-apis spec (#762) (#20755)](https://github.com/erigontech/erigon/commit/7d7ceebc7f34d50f7d121710036765aa659759f1) - 2026-04-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -92,6 +96,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration-test: mod enable tracer flag in debug_ request](https://github.com/erigontech/rpc-tests/pull/550) - 2026-04-23
 * [Pull Request] [integration: update disablememory->enableMemory in debug_trace* test.tar](https://github.com/erigontech/rpc-tests/pull/551) - 2026-04-24
 * [Commit] [integration: disableMemory -> enableMemory in debug_trace* tests (#550)](https://github.com/erigontech/rpc-tests/commit/9ac350ff540e342e834f97e840adcf783a95e6c7) - 2026-04-24
+* [Commit] [integration: update disablememory->enableMemory in debug_trace* test.tar (#551)](https://github.com/erigontech/rpc-tests/commit/9b024e4ae754b1957368f061b5f695facef5a868) - 2026-04-25
 ## Q1 2026
 
 

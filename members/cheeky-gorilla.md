@@ -40,6 +40,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge branch 'main' into yperbasis/add_willian](https://github.com/protocolguild/documentation/commit/8b8d5e60bf98eb0f1a0ffbda1dc9b8be0b903b9b) - 2026-04-22
 * [Commit] [Merge pull request #493 from saltiniroberto/patch-2](https://github.com/protocolguild/documentation/commit/f02fd67615943f2b107058194e8248faecb76b83) - 2026-04-22
 * [Commit] [Merge pull request #494 from matthewkeil/mkeil/nopminate-grapebaba](https://github.com/protocolguild/documentation/commit/51ac8a5c8df41d0ad3d537b47ce9ebb90850d184) - 2026-04-22
+* [Commit] [Merge pull request #496 from fredrik0x/patch-8](https://github.com/protocolguild/documentation/commit/e37d218e11417820746760ef46bf5b25e1e9e621) - 2026-04-25
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Pull Request] [Extend hero image, fix social cards + dark more favicon](https://github.com/protocolguild/protocol-guild-site/pull/57) - 2026-04-13
 * [Commit] [Merge pull request #57 from protocolguild/staging3](https://github.com/protocolguild/protocol-guild-site/commit/3f3c631fc0a5787812805c9a305bb1c2d854026b) - 2026-04-13

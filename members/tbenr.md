@@ -73,6 +73,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Avoid ssz-backed IndexedAttestation (#10599)](https://github.com/Consensys/teku/commit/3ac495f19d01b22e3c83ac4209818bfc9f5a3616) - 2026-04-24
 * [Commit] [Avoid resolving unchanged forkchoice votes (#10604)](https://github.com/Consensys/teku/commit/b2f5aba8dbe58bb6bd28b0faa1ed0ce5fe0f5e7b) - 2026-04-24
 * [Commit] [Add dormant Gloas forkchoice spec helpers and fork-gated utilities (5 of 7) (#10600)](https://github.com/Consensys/teku/commit/baf47da78e649cee983b95979c62d4e0782a905d) - 2026-04-24
+* [Review] [Review on: Add dormant Gloas forkchoice model and rebuild support (6 of 7)](https://github.com/Consensys/teku/pull/10610#pullrequestreview-4176259381) - 2026-04-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

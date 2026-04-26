@@ -205,6 +205,13 @@ Team: Reth
 * [Commit] [fix(net): respect peer requirements for fetch followups (#23706)](https://github.com/paradigmxyz/reth/commit/6be5520e3498ec2104bb69e13d3254c3acabece4) - 2026-04-24
 * [Commit] [chore(db): derive Eq for IntegerList (#23709)](https://github.com/paradigmxyz/reth/commit/40c30dbc73e35d7cbf0fe31789492bed505babcd) - 2026-04-24
 * [Commit] [fix(net): retain active session buffer capacity (#23702)](https://github.com/paradigmxyz/reth/commit/ba3cd2872ae34e4dcd0605a2106f5cd48ebcbdea) - 2026-04-24
+* [Review] [Review on: feat(re-execute): verify reverts against changesets](https://github.com/paradigmxyz/reth/pull/23717#pullrequestreview-4175137221) - 2026-04-25
+* [Review] [Review on: feat(net): enforce BAL response soft limit](https://github.com/paradigmxyz/reth/pull/23725#pullrequestreview-4175596672) - 2026-04-25
+* [Review] [Review on: feat(net): add Basic in-memory BAL store](https://github.com/paradigmxyz/reth/pull/23710#pullrequestreview-4175445241) - 2026-04-25
+* [Review] [Review on: bench: enable `keccak-cache-global` feature in `reth-bb` binary](https://github.com/paradigmxyz/reth/pull/23723#pullrequestreview-4175474448) - 2026-04-25
+* [Review] [Review on: fix(rpc): include block numbers in `BlockRangeExceedsHead` error](https://github.com/paradigmxyz/reth/pull/23720#pullrequestreview-4175141756) - 2026-04-25
+* [Review] [Review on: fix(ci): clean bench checkouts and lock cargo builds](https://github.com/paradigmxyz/reth/pull/23708#pullrequestreview-4175137457) - 2026-04-25
+* [Review] [Review on: fix(txpool): log failed transaction re-injection on reorg](https://github.com/paradigmxyz/reth/pull/23719#pullrequestreview-4175131478) - 2026-04-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

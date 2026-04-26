@@ -15,6 +15,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [eth2: bump](https://github.com/status-im/nimbus-eth1/pull/4113) - 2026-04-10
 * [Commit] [backtrace: bump to new build (#4064)](https://github.com/status-im/nimbus-eth1/commit/fd0c1a2d8871b4846b9ef897442932089ab3a661) - 2026-04-10
 * [Commit] [eth2: bump (#4113)](https://github.com/status-im/nimbus-eth1/commit/8486b84e41067e3ea566f6cec21b0e45396488f8) - 2026-04-11
+* [Review] [Review on: manual GC cleanup](https://github.com/status-im/nimbus-eth1/pull/4147#pullrequestreview-4175466106) - 2026-04-25
 ## Q1 2026
 
 

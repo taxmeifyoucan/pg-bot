@@ -242,6 +242,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [p2p/sentry, node/direct: bound fan-out stream buffers to prevent OOM (#20783)](https://github.com/erigontech/erigon/commit/2453786982858546f14523a7680b4c633b6336e9) - 2026-04-24
 * [Commit] [db/downloader: raise TestBTPeerDiscovery_AddPeersFromENR timeout to 2m (#20786)](https://github.com/erigontech/erigon/commit/3e6a7a07515a003e9851a6cef69015def4d9ae69) - 2026-04-24
 * [Commit] [p2p, txpool: fix Hive eth devp2p test failures (#20733)](https://github.com/erigontech/erigon/commit/fe063a8262146991bc3c4c15bbe8ee21f1355ea8) - 2026-04-24
+* [Pull Request] [ci: enable hive-eest client pool (~2.7× faster gate)](https://github.com/erigontech/erigon/pull/20812) - 2026-04-25
+* [Pull Request] [txnprovider/txpool: tolerate invalid EIP-7702 auth tuples](https://github.com/erigontech/erigon/pull/20809) - 2026-04-25
+* [Review] [Review on: txpool: propagate sender info read errors in validateTx](https://github.com/erigontech/erigon/pull/20239#pullrequestreview-4175341686) - 2026-04-25
+* [Review] [Review on: types: remove heap allocations from GetEffectiveGasTip](https://github.com/erigontech/erigon/pull/20808#pullrequestreview-4175375690) - 2026-04-25
+* [Issue] [txpool: malformed sender signature on any tx drops sibling txs in the same Transactions/PooledTransactions packet](https://github.com/erigontech/erigon/issues/20811) - 2026-04-25
+* [Commit] [p2p/protocols/wit, p2p/sentry: validate WitnessPageResponse fields (#20798)](https://github.com/erigontech/erigon/commit/f8fd26c515665c168f0d1c9a5ae4e770ca512b01) - 2026-04-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
@@ -259,6 +265,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [clients/erigon: fix discv5 NAT and bootnode handling (#1427)](https://github.com/ethereum/hive/commit/e1a791868b3079ad706c46ef5b976f12e2dc9fcf) - 2026-04-22
 * [Pull Request] [clients/erigon: install iproute2 for ip command](https://github.com/ethereum/hive/pull/1445) - 2026-04-23
 * [Commit] [clients/erigon: install iproute2 for ip command (#1445)](https://github.com/ethereum/hive/commit/737a9a5a6b3a75d965fa33821c21e37327ec1a6c) - 2026-04-23
+* [Pull Request] [libhive: optional warm-daemon client pool](https://github.com/ethereum/hive/pull/1449) - 2026-04-25
 ## Q1 2026
 
 

@@ -61,6 +61,8 @@ Team: Reth
 * [Pull Request] [perf(revm): enable `p256-aws-lc-rs` feature](https://github.com/paradigmxyz/reth/pull/23721) - 2026-04-24
 * [Pull Request] [fix(storage): `reth db migrate-v2` for pruned nodes](https://github.com/paradigmxyz/reth/pull/23716) - 2026-04-24
 * [Commit] [perf(revm): enable `p256-aws-lc-rs` feature (#23721)](https://github.com/paradigmxyz/reth/commit/b27169430154fbdf0f1def8c4156515a70666e03) - 2026-04-24
+* [Pull Request] [bench: enable `keccak-cache-global` feature in `reth-bb` binary](https://github.com/paradigmxyz/reth/pull/23723) - 2026-04-25
+* [Commit] [bench: enable `keccak-cache-global` feature in `reth-bb` binary (#23723)](https://github.com/paradigmxyz/reth/commit/f344f5abfb7c3901e03b038b29e457ce837bca0f) - 2026-04-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

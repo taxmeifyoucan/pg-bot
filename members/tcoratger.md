@@ -83,6 +83,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: whir: stacked sumcheck](https://github.com/Plonky3/Plonky3/pull/1554#pullrequestreview-4169957460) - 2026-04-24
 * [Review] [Review on: perf(monty-31/neon): specialized exp_4 skipping intermediate reduction](https://github.com/Plonky3/Plonky3/pull/1558#pullrequestreview-4169146752) - 2026-04-24
 * [Commit] [perf(monty-31/neon): specialized exp_4 skipping intermediate reduction (#1558)](https://github.com/Plonky3/Plonky3/commit/7401a9f25f8daadd8d67f6b5ff9d92a172f5de5b) - 2026-04-24
+* [Pull Request] [feat(field): add Field::mul_slices for elementwise slice multiplication](https://github.com/Plonky3/Plonky3/pull/1577) - 2026-04-25
+* [Review] [Review on: fix(monty-31): eliminate twiddle cache race condition](https://github.com/Plonky3/Plonky3/pull/1561#pullrequestreview-4175580510) - 2026-04-25
 ## Q1 2026
 
 
