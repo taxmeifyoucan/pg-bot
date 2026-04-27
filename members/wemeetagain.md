@@ -38,6 +38,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: wire up proposer_preferences gossip topic](https://github.com/ChainSafe/lodestar/pull/9275#pullrequestreview-4175983648) - 2026-04-25
 * [Review] [Review on: fix: avoid metrics crash on payload envelope publish](https://github.com/ChainSafe/lodestar/pull/9279#pullrequestreview-4175992546) - 2026-04-25
 * [Review] [Review on: test: fix unknownBlockSync e2e assertions for gloas](https://github.com/ChainSafe/lodestar/pull/9276#pullrequestreview-4175281756) - 2026-04-25
+* [Pull Request] [feat: call fcu in importExecutionPayload](https://github.com/ChainSafe/lodestar/pull/9285) - 2026-04-26
+* [Pull Request] [feat: add PTC data availability and quorum tracking](https://github.com/ChainSafe/lodestar/pull/9284) - 2026-04-26
+* [Review] [Review on: chore: remove isParentBlockFull](https://github.com/ChainSafe/lodestar/pull/9280#pullrequestreview-4177561895) - 2026-04-26
+* [Pull Request] [feat: include payload attestations when producing block](https://github.com/ChainSafe/lodestar/pull/9283) - 2026-04-26
+* [Review] [Review on: feat: include payload attestations when producing block](https://github.com/ChainSafe/lodestar/pull/9283#pullrequestreview-4177557053) - 2026-04-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 ## Q1 2026

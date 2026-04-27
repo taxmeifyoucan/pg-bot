@@ -161,6 +161,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: wire up proposer_preferences gossip topic (#9275)](https://github.com/ChainSafe/lodestar/commit/66d2c102e372f755710098a55229a24837e9ebbf) - 2026-04-25
 * [Commit] [test: fix unknownBlockSync e2e assertions for gloas (#9276)](https://github.com/ChainSafe/lodestar/commit/dfb984e7795f84a6db20092fde3cdf5322866eea) - 2026-04-25
 * [Commit] [fix: clone block header during payload envelope verification (#9277)](https://github.com/ChainSafe/lodestar/commit/38479366cce61bdff2a74f1996783ddd9891223a) - 2026-04-25
+* [Review] [Review on: feat: include payload attestations when producing block](https://github.com/ChainSafe/lodestar/pull/9283#pullrequestreview-4177070391) - 2026-04-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

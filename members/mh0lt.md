@@ -94,6 +94,8 @@ Team: Erigon
 * [Issue] [bal-devnet-3: block 503 gas mismatch (EIP-8037 state-gas accounting)](https://github.com/erigontech/erigon/issues/20791) - 2026-04-24
 * [Commit] [cmd/utils: expose executor perf toggles as --exec.* CLI flags (#20797)](https://github.com/erigontech/erigon/commit/3fa93ab9faa18f6630972d2117a764f1309d5c8b) - 2026-04-24
 * [Pull Request] [parallel commitment calculations implemented](https://github.com/erigontech/erigon/pull/20805) - 2026-04-25
+* [Pull Request] [p2p: preserve full enode for inbound connections from static peers](https://github.com/erigontech/erigon/pull/20827) - 2026-04-26
+* [Commit] [p2p/protocols/eth: EIP-8159 eth/71 wire protocol (PR 1/3) (#20793)](https://github.com/erigontech/erigon/commit/0f080ebe93dd4dc6c07cac66b26deaa6709a2dac) - 2026-04-26
 ## Q1 2026
 
 

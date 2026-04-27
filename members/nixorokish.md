@@ -18,6 +18,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Issue] [All Core Devs - Execution (ACDE) #234, April 9, 2026](https://github.com/ethereum/pm/issues/2004) - 2026-04-04
 * [Issue] [All Core Devs - Execution (ACDE) #235, April 23, 2026](https://github.com/ethereum/pm/issues/2015) - 2026-04-11
 * [Issue] [All Core Devs - Consensus (ACDC) #178, Apr 30, 2026](https://github.com/ethereum/pm/issues/2028) - 2026-04-18
+* [Issue] [All Core Devs - Execution (ACDE) #236, May 7, 2026](https://github.com/ethereum/pm/issues/2033) - 2026-04-26
 ## Q1 2026
 
 

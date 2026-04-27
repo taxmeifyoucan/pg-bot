@@ -248,6 +248,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: types: remove heap allocations from GetEffectiveGasTip](https://github.com/erigontech/erigon/pull/20808#pullrequestreview-4175375690) - 2026-04-25
 * [Issue] [txpool: malformed sender signature on any tx drops sibling txs in the same Transactions/PooledTransactions packet](https://github.com/erigontech/erigon/issues/20811) - 2026-04-25
 * [Commit] [p2p/protocols/wit, p2p/sentry: validate WitnessPageResponse fields (#20798)](https://github.com/erigontech/erigon/commit/f8fd26c515665c168f0d1c9a5ae4e770ca512b01) - 2026-04-25
+* [Review] [Review on: CI: centralise RPC_VERSION in workflow env and fix rpc-tests cache stale files](https://github.com/erigontech/erigon/pull/20824#pullrequestreview-4177112469) - 2026-04-26
+* [Review] [Review on: execution: implement EIP-7981](https://github.com/erigontech/erigon/pull/20671#pullrequestreview-4177096511) - 2026-04-26
+* [Commit] [txnprovider/txpool: tolerate invalid EIP-7702 auth tuples (#20809)](https://github.com/erigontech/erigon/commit/e84e2d07623129ded62a0988e8eae473200c8886) - 2026-04-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

@@ -20,6 +20,9 @@ Github: [@leolara](https://github.com/leolara)
 * [Pull Request] [fix(plugins/transition_tool): tolerate missing trace file for rejected txs](https://github.com/ethereum/execution-specs/pull/2709) - 2026-04-17
 * [Commit] [feat(test-client-clis): tolerate missing trace file for rejected txs (#2709)](https://github.com/ethereum/execution-specs/commit/464f61d45f1d903562c4924a1a487c0df4247ad7) - 2026-04-20
 * [Review] [Review on: feat(scripts): use dynamic addresses in ported static tests](https://github.com/ethereum/execution-specs/pull/2695#pullrequestreview-4175495978) - 2026-04-25
+* [Review] [Review on: feat(scripts): use dynamic addresses in ported static tests](https://github.com/ethereum/execution-specs/pull/2695#pullrequestreview-4176547673) - 2026-04-26
+* [Issue] [verify-traces: asymmetry between in-memory and disk-loaded traces for failed-during-execution txs (extend #2709)](https://github.com/ethereum/execution-specs/issues/2758) - 2026-04-26
+* [Commit] [feat(scripts): use dynamic addresses in ported static tests (#2695)](https://github.com/ethereum/execution-specs/commit/e7043cccec0466c011685b132e8853cdd7879ed3) - 2026-04-26
 ## Q1 2026
 
 

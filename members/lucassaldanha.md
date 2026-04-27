@@ -41,6 +41,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Fix ConnectionClosedException propagating to Netty event loop from MuxChannel.doWrite (#455)](https://github.com/libp2p/jvm-libp2p/commit/9445f0d331149374cd114aebaf98e0d91f5532da) - 2026-04-20
 * [Pull Request] [Wire per-topic partial-messages SubOpts flags (#444)](https://github.com/libp2p/jvm-libp2p/pull/460) - 2026-04-21
 * [Commit] [Update dependencies (#459)](https://github.com/libp2p/jvm-libp2p/commit/a88d1ed9f060e7ca1bd1cfea41fda703f61b8022) - 2026-04-23
+* [Commit] [Add partial-messages extension design document (#457)](https://github.com/libp2p/jvm-libp2p/commit/b7d836178e9fac4c9ab215496db56bc9f8d4c8d0) - 2026-04-26
 ## Q1 2026
 
 

@@ -31,6 +31,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Field Trie: Implement copy on write and base/overlay scheme. (#16512)](https://github.com/OffchainLabs/prysm/commit/2620d0af66c20c1859d2f97149227c5d6d68b817) - 2026-04-20
 * [Review] [Review on: stateless block v4](https://github.com/OffchainLabs/prysm/pull/16699#pullrequestreview-4160323323) - 2026-04-23
 * [Issue] [Initial sync is really slow](https://github.com/OffchainLabs/prysm/issues/16714) - 2026-04-23
+* [Pull Request] [`getFCUArgs`: Add early return for forkchoice update arguments in non-regular sync.](https://github.com/OffchainLabs/prysm/pull/16721) - 2026-04-26
 ## Q1 2026
 
 

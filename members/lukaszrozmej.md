@@ -227,6 +227,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: debug_traceCallMany: strip filler blocks from overrides result](https://github.com/NethermindEth/nethermind/pull/11348#pullrequestreview-4175311945) - 2026-04-25
 * [Review] [Review on: perf: eliminate redundant storage tree commits in FlatWorldStateScope](https://github.com/NethermindEth/nethermind/pull/11349#pullrequestreview-4175313035) - 2026-04-25
 * [Review] [Review on: docs(jsonrpc): correct descriptions for proof_getTransactionByHash / proof_getTransactionReceipt](https://github.com/NethermindEth/nethermind/pull/11344#pullrequestreview-4175312659) - 2026-04-25
+* [Pull Request] [perf(sync): allow multiple allocation slots per peer (lock-free rewrite)](https://github.com/NethermindEth/nethermind/pull/11361) - 2026-04-26
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11356#pullrequestreview-4176571616) - 2026-04-26
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11357#pullrequestreview-4176571700) - 2026-04-26
+* [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11358#pullrequestreview-4176571781) - 2026-04-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

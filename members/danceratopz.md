@@ -67,6 +67,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(doc): re-write readme/top-level docs and add specs section to html docs (#2677)](https://github.com/ethereum/execution-specs/commit/739ecad65686e5bb5f82f1355524fa297914f991) - 2026-04-22
 * [Review] [Review on: feat(ci,docs): build and publish a combined HTML and spec doc artifact](https://github.com/ethereum/execution-specs/pull/2638#pullrequestreview-4175782817) - 2026-04-25
 * [Commit] [feat(ci,docs): build and publish a combined HTML and spec doc artifact (#2638)](https://github.com/ethereum/execution-specs/commit/8db70f9324b17f5a98821c277059c8daef3a408b) - 2026-04-25
+* [Review] [Review on: feat(doc): usefully sort diff directory listings](https://github.com/ethereum/execution-specs/pull/2756#pullrequestreview-4177292361) - 2026-04-26
+* [Review] [Review on: fix(tooling,ci): collect filled fixtures in json-loader pytest step](https://github.com/ethereum/execution-specs/pull/2754#pullrequestreview-4177076097) - 2026-04-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 ## Q1 2026

@@ -212,6 +212,9 @@ Team: Reth
 * [Review] [Review on: fix(rpc): include block numbers in `BlockRangeExceedsHead` error](https://github.com/paradigmxyz/reth/pull/23720#pullrequestreview-4175141756) - 2026-04-25
 * [Review] [Review on: fix(ci): clean bench checkouts and lock cargo builds](https://github.com/paradigmxyz/reth/pull/23708#pullrequestreview-4175137457) - 2026-04-25
 * [Review] [Review on: fix(txpool): log failed transaction re-injection on reorg](https://github.com/paradigmxyz/reth/pull/23719#pullrequestreview-4175131478) - 2026-04-25
+* [Review] [Review on: feat(network): add BAL request e2e coverage](https://github.com/paradigmxyz/reth/pull/23727#pullrequestreview-4177280023) - 2026-04-26
+* [Review] [Review on: fix(cli): warn on failed bootnode resolution instead of silent drop](https://github.com/paradigmxyz/reth/pull/23729#pullrequestreview-4177274638) - 2026-04-26
+* [Review] [Review on: fix(cli): avoid u64 underflow in setup_without_evm for genesis-block header](https://github.com/paradigmxyz/reth/pull/23728#pullrequestreview-4177026524) - 2026-04-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

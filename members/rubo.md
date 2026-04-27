@@ -61,6 +61,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(build): copy Directory.Build.targets into release image](https://github.com/NethermindEth/nethermind/pull/11333#pullrequestreview-4166413226) - 2026-04-23
 * [Review] [Review on: docs(jsonrpc): correct descriptions for proof_getTransactionByHash / proof_getTransactionReceipt](https://github.com/NethermindEth/nethermind/pull/11344#pullrequestreview-4170369977) - 2026-04-24
 * [Pull Request] [chore: Support and migrate to Ubuntu 26.04](https://github.com/NethermindEth/nethermind/pull/11355) - 2026-04-25
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11356#pullrequestreview-4177475551) - 2026-04-26
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11364#pullrequestreview-4177483582) - 2026-04-26
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11357#pullrequestreview-4177472682) - 2026-04-26
 ## Q1 2026
 
 

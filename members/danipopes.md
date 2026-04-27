@@ -256,6 +256,9 @@ Team: Reth
 * [Pull Request] [perf: inline address masking and improve constant folding](https://github.com/paradigmxyz/revmc/pull/342) - 2026-04-25
 * [Pull Request] [refactor: remove input value caching in translate](https://github.com/paradigmxyz/revmc/pull/343) - 2026-04-25
 * [Commit] [refactor: remove input value caching in translate (#343)](https://github.com/paradigmxyz/revmc/commit/53a1d144815da4655068248cc8827e1951ae82bf) - 2026-04-25
+* [Pull Request] [perf: set dead_on_return on stack arg if stack is not observed](https://github.com/paradigmxyz/revmc/pull/344) - 2026-04-27
+* [Pull Request] [fix(scripts): match bare 'N B' jit size in bench remarks](https://github.com/paradigmxyz/revmc/pull/345) - 2026-04-27
+* [Commit] [fix(scripts): match bare 'N B' jit size in bench remarks (#345)](https://github.com/paradigmxyz/revmc/commit/b537c60c485c3839cf6dea6b3fd0714cda4e23b1) - 2026-04-27
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -330,6 +333,8 @@ Team: Reth
 * [Commit] [refactor(primitives): add SpecId::NEXT, drop num_enum dependency (#3593)](https://github.com/bluealloy/revm/commit/4bb2af86e78827318c3f0035c0db031082b37510) - 2026-04-24
 * [Commit] [refactor: remove pointer field from GasParams (#3608)](https://github.com/bluealloy/revm/commit/5764f1bfc859d47ee3eff4132476136b80658bb9) - 2026-04-24
 * [Review] [Review on: feat(account): Optimized index type for account ID using `non-max`](https://github.com/bluealloy/revm/pull/3605#pullrequestreview-4175801493) - 2026-04-25
+* [Review] [Review on: fix(precompile): use SIGMA period 10 in blake2 portable path](https://github.com/bluealloy/revm/pull/3616#pullrequestreview-4177465821) - 2026-04-26
+* [Review] [Review on: perf(precompile): vendor blake2b_simd for BLAKE2 compression](https://github.com/bluealloy/revm/pull/3609#pullrequestreview-4176807161) - 2026-04-26
 ## Q1 2026
 
 

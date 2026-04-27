@@ -79,6 +79,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [include execution requests in self-built payloads and use correct EIP-7843 slot number](https://github.com/status-im/nimbus-eth2/pull/8334) - 2026-04-25
 * [Pull Request] [avoid gloas crash when no grandparent block](https://github.com/status-im/nimbus-eth2/pull/8333) - 2026-04-25
 * [Pull Request] [avoid phantom bpo fork validator functions with post-fulu genesis](https://github.com/status-im/nimbus-eth2/pull/8332) - 2026-04-25
+* [Pull Request] [various gloas spec alignments](https://github.com/status-im/nimbus-eth2/pull/8339) - 2026-04-26
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

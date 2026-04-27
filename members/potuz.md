@@ -48,6 +48,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Remove impossible branch in forkchoice](https://github.com/ethereum/consensus-specs/pull/4892) - 2026-04-17
 * [Commit] [Remove impossible branch in forkchoice (#4892)](https://github.com/ethereum/consensus-specs/commit/9648e23ff8ddcc53ad916377b341a53579610c0f) - 2026-04-17
 
+* [Issue] [Several issues with Gloas genesis](https://github.com/ethereum/consensus-specs/issues/5168) - 2026-04-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17

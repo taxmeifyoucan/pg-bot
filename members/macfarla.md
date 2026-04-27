@@ -87,6 +87,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: enable discv5](https://github.com/ethereum/hive/pull/1442) - 2026-04-22
 * [Review] [Review on:  Add HIVE_DISCV5 flag for besu](https://github.com/ethereum/hive/pull/1447#pullrequestreview-4173647805) - 2026-04-24
+* [Review] [Review on: Make address key lookup case-insensitive in simulator](https://github.com/ethereum/hive/pull/1446#pullrequestreview-4177836608) - 2026-04-27
 ## Q1 2026
 
 

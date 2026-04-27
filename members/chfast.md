@@ -16,6 +16,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 * [Pull Request] [execution/state: drop ethconfig.Sync dependency from StateV3](https://github.com/erigontech/erigon/pull/20425) - 2026-04-08
 * [Review] [Review on: execution/state: drop ethconfig.Sync dependency from StateV3](https://github.com/erigontech/erigon/pull/20425#pullrequestreview-4079999505) - 2026-04-09
+* [Pull Request] [[throwaway] Instrument EVM to log SELFDESTRUCT burn events](https://github.com/erigontech/erigon/pull/20828) - 2026-04-26
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Pull Request] [crypto: Use local accumulator t[] in mul_amm_256 to avoid aliasing](https://github.com/ipsilon/evmone/pull/1477) - 2026-04-02
 * [Issue] [Check clang's wrap behavior types](https://github.com/ipsilon/evmone/issues/1476) - 2026-04-02

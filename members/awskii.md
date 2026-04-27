@@ -85,6 +85,7 @@ Team: Erigon
 * [Pull Request] [commitment: parallelize deref domain calculation](https://github.com/erigontech/erigon/pull/20622) - 2026-04-17
 * [Commit] [add CL attribute tag to log (#20588)](https://github.com/erigontech/erigon/commit/db6c8b8f06f53d6f7c324db0da220691bfe15383) - 2026-04-18
 * [Commit] [commitment: parallelize deref domain calculation (#20622)](https://github.com/erigontech/erigon/commit/1abb4b802c246453c2ebf9a8ae8c26b142111559) - 2026-04-21
+* [Review] [Review on: warmuper: blocking and more ](https://github.com/erigontech/erigon/pull/20819#pullrequestreview-4176904948) - 2026-04-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

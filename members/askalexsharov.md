@@ -380,6 +380,12 @@ Team: Erigon
 * [Review] [Review on: db/integrity: use injected logger in CheckCommitmentRoot](https://github.com/erigontech/erigon/pull/20803#pullrequestreview-4174628158) - 2026-04-25
 * [Issue] [bloatnet: disable `CheckCommitmentKvDeref` enable sampling](https://github.com/erigontech/erigon/issues/20814) - 2026-04-25
 * [Commit] [cp: cherry-pick batch 5 from release/3.4 to main (#20759)](https://github.com/erigontech/erigon/commit/0b720ee0f92fcd33ece45ebd173a19b6bb7601e7) - 2026-04-25
+* [Pull Request] [app.go](https://github.com/erigontech/erigon/pull/20829) - 2026-04-27
+* [Pull Request] [warmuper: blocking and more ](https://github.com/erigontech/erigon/pull/20819) - 2026-04-26
+* [Pull Request] [[wip] db/state: refactor DomainLatestIterFile cursor lifecycle](https://github.com/erigontech/erigon/pull/20817) - 2026-04-26
+* [Review] [Review on: txnprovider/txpool: tolerate invalid EIP-7702 auth tuples](https://github.com/erigontech/erigon/pull/20809#pullrequestreview-4176609704) - 2026-04-26
+* [Pull Request] [[wip] db/state: refactor DomainLatestIterFile cursor lifecycle](https://github.com/erigontech/erigon/pull/20816) - 2026-04-26
+* [Commit] [domain.collate: remove double buffering (#20742)](https://github.com/erigontech/erigon/commit/fa9a2531bc51c4fa9c58644922efe928e3038acb) - 2026-04-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

@@ -101,6 +101,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Implement defer payload processing (#16658)](https://github.com/OffchainLabs/prysm/commit/8b0cdc2db94d1fa2b4a76aa4ac1a8bf10e4e9ca0) - 2026-04-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
+* [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26
 ## Q1 2026
 
 

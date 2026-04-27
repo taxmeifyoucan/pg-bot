@@ -57,6 +57,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: only apply beaconapi.clientIndex filter when explicitly set](https://github.com/ethpandaops/dora/pull/651) - 2026-04-21
 * [Review] [Review on: spec 1.7.0 alpha.5 + BAL UI](https://github.com/ethpandaops/dora/pull/648#pullrequestreview-4146501767) - 2026-04-21
 * [Pull Request] [log: raise BAL decode failures to error level](https://github.com/ethpandaops/dora/pull/653) - 2026-04-23
+* [Pull Request] [sort slot view tabs alphabetically](https://github.com/ethpandaops/dora/pull/656) - 2026-04-26
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01

@@ -21,6 +21,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(justfile): collect filled fixtures in json-loader pytest step](https://github.com/ethereum/execution-specs/pull/2754) - 2026-04-24
 * [Pull Request] [feat(amsterdam): apply transfer log costs to EIP-2780](https://github.com/ethereum/execution-specs/pull/2752) - 2026-04-24
 * [Pull Request] [feat(specs,tests): Implement EIP-2780](https://github.com/ethereum/execution-specs/pull/2175) - 2026-04-24
+* [Commit] [fix(justfile): make json-loader pytest step collect filled fixtures (#2754)](https://github.com/ethereum/execution-specs/commit/5a2cba1c787fe8ece487dfed7bca8e9a4dc95f2e) - 2026-04-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332#pullrequestreview-4152757786) - 2026-04-22
 * [Commit] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/commit/c550387e917485af69a6999aea45270a555e2eb7) - 2026-04-22

@@ -61,6 +61,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Swap latest_block_hash / latest_execution_payload_bid (#5113)](https://github.com/ethereum/consensus-specs/commit/c83d6bca4fe62311f4c8348811eac9e7ef6d08ea) - 2026-04-16
 * [Pull Request] [Add EIP-4788 parent_beacon_block_root to ExecutionPayloadEnvelope](https://github.com/ethereum/consensus-specs/pull/5152) - 2026-04-23
 * [Commit] [Add `parent_beacon_block_root` to `ExecutionPayloadEnvelope` (#5152)](https://github.com/ethereum/consensus-specs/commit/c9e0d02c2c343e522a0e4e9a574ce0d234918d73) - 2026-04-24
+* [Pull Request] [Pass `BeaconState` to `block_to_light_client_header`](https://github.com/ethereum/consensus-specs/pull/5167) - 2026-04-26
+* [Pull Request] [Mark Fulu as deployed on mainnet](https://github.com/ethereum/consensus-specs/pull/5165) - 2026-04-26
+* [Pull Request] [Split out `is_valid_merkle_branch` root computation](https://github.com/ethereum/consensus-specs/pull/5166) - 2026-04-26
+* [Commit] [Mark Fulu as deployed on mainnet (#5165)](https://github.com/ethereum/consensus-specs/commit/855f73f0de43f2e9be5929cea153591ba1c34145) - 2026-04-26
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13

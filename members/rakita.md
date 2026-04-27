@@ -15,6 +15,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [WIP bump alloy-evm to af60ab3, remove gas output from execute_transaction](https://github.com/paradigmxyz/reth/pull/23327) - 2026-04-01
 
 * [Review] [Review on: chore: validate bal at last](https://github.com/paradigmxyz/reth/pull/23343#pullrequestreview-4055691460) - 2026-04-03
+* [Pull Request] [feat(devnet4): integrate revm devnet4 + paired forks (rev 7a2de5a4)](https://github.com/paradigmxyz/reth/pull/23732) - 2026-04-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: cache selfbalance and prevrandao values](https://github.com/bluealloy/revm/pull/3538) - 2026-04-02
 * [Pull Request] [feat: Add local context accessors to CallInput](https://github.com/bluealloy/revm/pull/3537) - 2026-04-02
@@ -63,6 +64,13 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558#pullrequestreview-4160874629) - 2026-04-23
 * [Review] [Review on: perf: move memory_limit check into cold resize path](https://github.com/bluealloy/revm/pull/3599#pullrequestreview-4162271734) - 2026-04-23
 * [Pull Request] [fix(post-execution): clamp reservoir when floor gas exceeds limit budget](https://github.com/bluealloy/revm/pull/3607) - 2026-04-24
+* [Pull Request] [chore: backport v107 release notes from branch](https://github.com/bluealloy/revm/pull/3617) - 2026-04-26
+* [Pull Request] [devnet4: EIP-7976/7981/8037 gas updates](https://github.com/bluealloy/revm/pull/3615) - 2026-04-26
+* [Pull Request] [fix(precompile): use SIGMA period 10 in blake2 portable path](https://github.com/bluealloy/revm/pull/3616) - 2026-04-26
+* [Review] [Review on: perf(precompile): vendor blake2b_simd for BLAKE2 compression](https://github.com/bluealloy/revm/pull/3609#pullrequestreview-4176762038) - 2026-04-26
+* [Pull Request] [fix(eip8037): correct CREATE state-gas refund propagation and unwind](https://github.com/bluealloy/revm/pull/3614) - 2026-04-26
+* [Commit] [chore: backport v107 release notes from branch (#3617)](https://github.com/bluealloy/revm/commit/bcdd8ad739fa0d653790c098a960880ced937274) - 2026-04-26
+* [Commit] [fix(precompile): use SIGMA period 10 in blake2 portable path (#3616)](https://github.com/bluealloy/revm/commit/304be679f9207a633a408323eb89d07121dc159e) - 2026-04-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

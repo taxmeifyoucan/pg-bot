@@ -26,6 +26,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Eth and Snap message improvements](https://github.com/besu-eth/besu/pull/10130#pullrequestreview-4167265340) - 2026-04-24
 * [Review] [Review on: Eth and Snap message improvements](https://github.com/besu-eth/besu/pull/10130#pullrequestreview-4167652137) - 2026-04-24
 * [Commit] [Eth and Snap message improvements (#10130)](https://github.com/besu-eth/besu/commit/caca0666eff7ac74358bb2ede242a78774bba895) - 2026-04-24
+* [Pull Request] [Remove dead GetNodeData/NodeData code (removed in eth/68)](https://github.com/besu-eth/besu/pull/10330) - 2026-04-27
 ## Q1 2026
 
 
