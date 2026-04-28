@@ -23,6 +23,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Pubkey cache: Use map+mutex instead of LRU cache](https://github.com/OffchainLabs/prysm/pull/16654#pullrequestreview-4121036026) - 2026-04-16
 * [Review] [Review on: Fix highest execution payload bid cache sharing between sync and RPC](https://github.com/OffchainLabs/prysm/pull/16717#pullrequestreview-4163973427) - 2026-04-23
 * [Pull Request] [statediff logs cleanup](https://github.com/OffchainLabs/prysm/pull/16715) - 2026-04-23
+* [Pull Request] [ignore .env](https://github.com/OffchainLabs/prysm/pull/16722) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

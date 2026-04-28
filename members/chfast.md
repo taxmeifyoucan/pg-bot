@@ -88,6 +88,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [EIP-8037: spec ambiguity on when state_gas_used is committed within a single opcode](https://github.com/ethereum/execution-specs/issues/2748) - 2026-04-23
 * [Issue] [EIP-8037: missing CREATE state-charge commits then immediate regular OOG test](https://github.com/ethereum/execution-specs/issues/2747) - 2026-04-23
 * [Pull Request] [feat(tests): port stPreCompiledContracts/modexp 128-byte carry cases](https://github.com/ethereum/execution-specs/pull/2753) - 2026-04-24
+* [Commit] [feat(tests): port stPreCompiledContracts/modexp 128-byte carry cases (#2753)](https://github.com/ethereum/execution-specs/commit/93984e2567a7d69cff4fff6927643e86072d8a0a) - 2026-04-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

@@ -39,6 +39,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Review] [Review on: async `updateBase`](https://github.com/status-im/nimbus-eth1/pull/4174#pullrequestreview-4170639876) - 2026-04-24
 * [Pull Request] [fix: bal bug in unify tx validation](https://github.com/status-im/nimbus-eth1/pull/4173) - 2026-04-24
 * [Commit] [fix bal bug in unify tx validation (#4173)](https://github.com/status-im/nimbus-eth1/commit/7c20ce61a72eb274b7974114092996d1a5dbe719) - 2026-04-24
+* [Pull Request] [add metrics to engineAPI](https://github.com/status-im/nimbus-eth1/pull/4183) - 2026-04-27
+* [Review] [Review on: add metrics to engineAPI](https://github.com/status-im/nimbus-eth1/pull/4183#pullrequestreview-4181036855) - 2026-04-27
 ## Q1 2026
 
 

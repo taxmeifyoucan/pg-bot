@@ -81,6 +81,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix: validate parameters before fork support in engine_newPayload](https://github.com/besu-eth/besu/pull/10249#pullrequestreview-4168068682) - 2026-04-24
 * [Review] [Review on: Eth and Snap message improvements](https://github.com/besu-eth/besu/pull/10130#pullrequestreview-4167456078) - 2026-04-24
 * [Commit] [Worker threads not released after engine API timeout, blocking subsequent requests (#10311)](https://github.com/besu-eth/besu/commit/21128d97b02307a0660f7041fdabcf00afce2df3) - 2026-04-24
+* [Review] [Review on: Log4j CVE fix](https://github.com/besu-eth/besu/pull/10332#pullrequestreview-4185350969) - 2026-04-28
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

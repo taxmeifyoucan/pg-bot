@@ -16,6 +16,8 @@ Team: EthereumJS
 * [Pull Request] [vm: Fix BlockBuilder bug](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4277) - 2026-04-22
 * [Pull Request] [rlp: fix hexToBytes bug](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4276) - 2026-04-22
 * [Commit] [rlp: fix hexToBytes bug (#4276)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/7a45848656438872e8c6c274631fe43075b1b08d) - 2026-04-23
+* [Pull Request] [Implement EIP-7981: Increase Access List Cost](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4282) - 2026-04-27
+* [Review] [Review on: vm: EIP-7976 (calldata floor cost)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4280#pullrequestreview-4184330417) - 2026-04-27
 ## Q1 2026
 
 

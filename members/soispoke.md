@@ -8,6 +8,11 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Add EIP: Fallback Proposers](https://github.com/ethereum/EIPs/pull/11572) - 2026-04-27
 ## Q2 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

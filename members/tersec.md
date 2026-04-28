@@ -80,6 +80,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [avoid gloas crash when no grandparent block](https://github.com/status-im/nimbus-eth2/pull/8333) - 2026-04-25
 * [Pull Request] [avoid phantom bpo fork validator functions with post-fulu genesis](https://github.com/status-im/nimbus-eth2/pull/8332) - 2026-04-25
 * [Pull Request] [various gloas spec alignments](https://github.com/status-im/nimbus-eth2/pull/8339) - 2026-04-26
+* [Review] [Review on: Update block gossip validation](https://github.com/status-im/nimbus-eth2/pull/8335#pullrequestreview-4182072292) - 2026-04-27
+* [Pull Request] [fix proposal execution head at genesis; rm non-spec SSE; ensure envelopse SSE has envelope in database](https://github.com/status-im/nimbus-eth2/pull/8340) - 2026-04-27
+* [Pull Request] [only use canonical block hashes for fcU](https://github.com/status-im/nimbus-eth2/pull/8345) - 2026-04-27
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -90,6 +93,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: nix: use Nix NBS flake and add derivations](https://github.com/status-im/nimbus-eth1/pull/4102#pullrequestreview-4162229848) - 2026-04-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
+* [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27
 ## Q1 2026
 
 

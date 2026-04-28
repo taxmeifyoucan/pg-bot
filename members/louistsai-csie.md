@@ -50,6 +50,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [fix(test-benchmark): zero tx included in `ecpairing` benchmark](https://github.com/ethereum/execution-specs/pull/2749) - 2026-04-23
 * [Review] [Review on: fix(test-benchmark): zero tx included in `ecpairing` benchmark](https://github.com/ethereum/execution-specs/pull/2749#pullrequestreview-4170309536) - 2026-04-24
 * [Commit] [fix(test-benchmark): zero tx included in `ecpairing` benchmark (#2749)](https://github.com/ethereum/execution-specs/commit/8d8301cc534fb3d51054eb0535f848d96491d972) - 2026-04-24
+* [Review] [Review on: refactor(test-execute): include EIP-8037 state-gas in contract deployment](https://github.com/ethereum/execution-specs/pull/2760#pullrequestreview-4181293966) - 2026-04-27
+* [Review] [Review on: feat(tests): Add worst-case SSTORE test](https://github.com/ethereum/execution-specs/pull/2757#pullrequestreview-4181549095) - 2026-04-27
 ## Q1 2026
 
 

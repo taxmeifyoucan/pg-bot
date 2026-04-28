@@ -386,6 +386,20 @@ Team: Erigon
 * [Review] [Review on: txnprovider/txpool: tolerate invalid EIP-7702 auth tuples](https://github.com/erigontech/erigon/pull/20809#pullrequestreview-4176609704) - 2026-04-26
 * [Pull Request] [[wip] db/state: refactor DomainLatestIterFile cursor lifecycle](https://github.com/erigontech/erigon/pull/20816) - 2026-04-26
 * [Commit] [domain.collate: remove double buffering (#20742)](https://github.com/erigontech/erigon/commit/fa9a2531bc51c4fa9c58644922efe928e3038acb) - 2026-04-26
+* [Review] [Review on: txnprovider/txpool: lower `best()` "Waiting for block" log to Trace](https://github.com/erigontech/erigon/pull/20846#pullrequestreview-4185294253) - 2026-04-28
+* [Review] [Review on: rpc: clamp zero batch concurrency](https://github.com/erigontech/erigon/pull/20842#pullrequestreview-4181226144) - 2026-04-27
+* [Pull Request] [cherry-picks from release/3.4 to main](https://github.com/erigontech/erigon/pull/20830) - 2026-04-27
+* [Review] [Review on: db/state, db/kv: extract calculateMergeStartTxNum helper](https://github.com/erigontech/erigon/pull/20836#pullrequestreview-4180157467) - 2026-04-27
+* [Pull Request] [[r3.4] ci: filter release BINARIES by Makefile targets to fix mcp build failure on release branches](https://github.com/erigontech/erigon/pull/20833) - 2026-04-27
+* [Review] [Review on: [performance] [cherry-pick] Bound domain merge limit; add CLI override (#20705)](https://github.com/erigontech/erigon/pull/20837#pullrequestreview-4179788243) - 2026-04-27
+* [Review] [Review on: cmd/utils/app: skip commitment history integrity checks when disabled](https://github.com/erigontech/erigon/pull/20835#pullrequestreview-4179105309) - 2026-04-27
+* [Pull Request] [rpc/mcp: fix tools/call hanging indefinitely under DB load](https://github.com/erigontech/erigon/pull/20834) - 2026-04-27
+* [Review] [Review on: build(deps): bump actions/checkout from 4 to 6](https://github.com/erigontech/erigon/pull/20832#pullrequestreview-4178889825) - 2026-04-27
+* [Review] [Review on: build(deps): bump gacts/run-and-post-run from 1.4.3 to 1.4.4](https://github.com/erigontech/erigon/pull/20831#pullrequestreview-4178887089) - 2026-04-27
+* [Review] [Review on: rpc: reject empty BatchCall](https://github.com/erigontech/erigon/pull/20761#pullrequestreview-4178046818) - 2026-04-27
+* [Commit] [cherry-picks from release/3.4 to main (#20830)](https://github.com/erigontech/erigon/commit/f157dc970cff4490c5bc5b3538634ce3cfdce975) - 2026-04-27
+* [Commit] [db/state: replace Walk callbacks with btree Iter in dirty_files.go (#20745)](https://github.com/erigontech/erigon/commit/5b9971261e79442b0f3737a2e473324f227b7805) - 2026-04-27
+* [Commit] [db/state: simplify DomainLatestIterFile (#20817)](https://github.com/erigontech/erigon/commit/375af180bac2a4f624bd9a8d2cf91a3b1fe7972b) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

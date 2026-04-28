@@ -26,6 +26,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Gate final-version docker tags on release publish, not draft](https://github.com/besu-eth/besu/pull/10306) - 2026-04-22
 * [Review] [Review on: Gate final-version docker tags on release publish, not draft](https://github.com/besu-eth/besu/pull/10306#pullrequestreview-4157274289) - 2026-04-22
 * [Pull Request] [agent skill for executing besu releases](https://github.com/besu-eth/besu/pull/10320) - 2026-04-23
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 ## Q1 2026
 
 

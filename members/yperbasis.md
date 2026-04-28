@@ -251,6 +251,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: CI: centralise RPC_VERSION in workflow env and fix rpc-tests cache stale files](https://github.com/erigontech/erigon/pull/20824#pullrequestreview-4177112469) - 2026-04-26
 * [Review] [Review on: execution: implement EIP-7981](https://github.com/erigontech/erigon/pull/20671#pullrequestreview-4177096511) - 2026-04-26
 * [Commit] [txnprovider/txpool: tolerate invalid EIP-7702 auth tuples (#20809)](https://github.com/erigontech/erigon/commit/e84e2d07623129ded62a0988e8eae473200c8886) - 2026-04-26
+* [Review] [Review on: execution/stagedsync: replay fee selfdestructs in finalizeTx](https://github.com/erigontech/erigon/pull/20840#pullrequestreview-4181367048) - 2026-04-27
+* [Review] [Review on: CI: centralise RPC_VERSION in file and fix rpc-tests cache stale files](https://github.com/erigontech/erigon/pull/20824#pullrequestreview-4178101782) - 2026-04-27
+* [Review] [Review on: p2p/protocols/eth, p2p/sentry: EIP-8159 eth/71 handler + sentry dispatch (PR 2/3)](https://github.com/erigontech/erigon/pull/20794#pullrequestreview-4181389686) - 2026-04-27
+* [Pull Request] [Yperbasis/test20843](https://github.com/erigontech/erigon/pull/20844) - 2026-04-27
+* [Pull Request] [execution/state: don't seed initial BAL balance from post-write reads](https://github.com/erigontech/erigon/pull/20843) - 2026-04-27
+* [Review] [Review on: cherry-picks from release/3.4 to main](https://github.com/erigontech/erigon/pull/20830#pullrequestreview-4181327062) - 2026-04-27
+* [Review] [Review on: rpc: send clean close frame on websocket disconnect](https://github.com/erigontech/erigon/pull/20788#pullrequestreview-4178760339) - 2026-04-27
+* [Review] [Review on: parallel commitment calculations implemented](https://github.com/erigontech/erigon/pull/20805#pullrequestreview-4178720337) - 2026-04-27
+* [Review] [Review on: execution/execmodule: allow reorgs on canonical chain up to finalised hash](https://github.com/erigontech/erigon/pull/20825#pullrequestreview-4178081785) - 2026-04-27
+* [Commit] [ci: enable hive-eest client pool (~2.7× faster gate) (#20812)](https://github.com/erigontech/erigon/commit/8460422467a5ae6df8c4d9072e18e1a2c09885c5) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

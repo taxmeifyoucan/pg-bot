@@ -41,6 +41,9 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [fix: guard AuRa finalization wiring on head state, not config flag](https://github.com/NethermindEth/nethermind/pull/11313) - 2026-04-23
 * [Review] [Review on: Account for blob wrapper v0/v1 difference in rlp limits](https://github.com/NethermindEth/nethermind/pull/11319#pullrequestreview-4162437107) - 2026-04-23
 * [Review] [Review on: chore: Support and migrate to Ubuntu 26.04](https://github.com/NethermindEth/nethermind/pull/11355#pullrequestreview-4176393176) - 2026-04-26
+* [Pull Request] [Update/1.37.1 missing prs](https://github.com/NethermindEth/nethermind/pull/11377) - 2026-04-27
+* [Review] [Review on: Quicknode fix](https://github.com/NethermindEth/nethermind/pull/11376#pullrequestreview-4183383806) - 2026-04-27
+* [Review] [Review on: feat: integrate Grafana Alloy and Loki for metrics and logging](https://github.com/NethermindEth/nethermind/pull/11189#pullrequestreview-4181148056) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

@@ -20,6 +20,7 @@ Team: Geth
 * [Pull Request] [Update EIP-8141: add value field to frame](https://github.com/ethereum/EIPs/pull/11534) - 2026-04-16
 * [Commit] [Update EIP-8141: add value field to frame](https://github.com/ethereum/EIPs/commit/a74eab9893682038712f7d10846e486ddcb6d8b5) - 2026-04-16
 * [Review] [Review on: Update EIP-8141: add support for guarantors](https://github.com/ethereum/EIPs/pull/11555#pullrequestreview-4151787566) - 2026-04-22
+* [Review] [Review on: Add EIP: Independent CL/EL Sync](https://github.com/ethereum/EIPs/pull/11557#pullrequestreview-4181954637) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4105687607) - 2026-04-14
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113766865) - 2026-04-15

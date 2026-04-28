@@ -63,6 +63,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Cache random_bytes in compute_balance_weighted_selection](https://github.com/OffchainLabs/prysm/pull/16708#pullrequestreview-4148441198) - 2026-04-21
 * [Review] [Review on: Cache random_bytes in compute_balance_weighted_selection](https://github.com/OffchainLabs/prysm/pull/16708#pullrequestreview-4155982916) - 2026-04-22
 * [Pull Request] [e2e fix for add bal](https://github.com/OffchainLabs/prysm/pull/16713) - 2026-04-22
+* [Review] [Review on: SSZ-REST Engine API Transport for Prysm](https://github.com/OffchainLabs/prysm/pull/16447#pullrequestreview-4180585103) - 2026-04-27
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

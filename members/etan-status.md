@@ -65,6 +65,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Mark Fulu as deployed on mainnet](https://github.com/ethereum/consensus-specs/pull/5165) - 2026-04-26
 * [Pull Request] [Split out `is_valid_merkle_branch` root computation](https://github.com/ethereum/consensus-specs/pull/5166) - 2026-04-26
 * [Commit] [Mark Fulu as deployed on mainnet (#5165)](https://github.com/ethereum/consensus-specs/commit/855f73f0de43f2e9be5929cea153591ba1c34145) - 2026-04-26
+* [Pull Request] [Add `create_genesis_block` helper to light client tests](https://github.com/ethereum/consensus-specs/pull/5173) - 2026-04-27
+* [Commit] [Split out `is_valid_merkle_branch` root computation (#5166)](https://github.com/ethereum/consensus-specs/commit/fc0fba20624f128aa038db18badc6c711ad5f5cc) - 2026-04-27
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13

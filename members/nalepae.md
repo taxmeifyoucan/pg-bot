@@ -32,6 +32,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: stateless block v4](https://github.com/OffchainLabs/prysm/pull/16699#pullrequestreview-4160323323) - 2026-04-23
 * [Issue] [Initial sync is really slow](https://github.com/OffchainLabs/prysm/issues/16714) - 2026-04-23
 * [Pull Request] [`getFCUArgs`: Add early return for forkchoice update arguments in non-regular sync.](https://github.com/OffchainLabs/prysm/pull/16721) - 2026-04-26
+* [Pull Request] [Fixed missed first attestation for newly-activated validators when the validator client runs with `--enable-beacon-rest-api`.](https://github.com/OffchainLabs/prysm/pull/16726) - 2026-04-27
+* [Issue] [When using the `--enable-beacon-rest-api` flag, the first attestation after activation of a validator is always missed](https://github.com/OffchainLabs/prysm/issues/16723) - 2026-04-27
 ## Q1 2026
 
 

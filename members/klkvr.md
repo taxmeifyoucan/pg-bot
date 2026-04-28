@@ -72,6 +72,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(net): respect peer requirements for fetch followups](https://github.com/paradigmxyz/reth/pull/23706#pullrequestreview-4169939230) - 2026-04-24
 * [Commit] [feat: avoid RLP-decoding `NewBlock` payloads (#23712)](https://github.com/paradigmxyz/reth/commit/79578e35b85fe65373bf68924bbeae0b871f2d1d) - 2026-04-24
 * [Commit] [feat(re-execute): verify reverts against changesets (#23717)](https://github.com/paradigmxyz/reth/commit/6886cd7742dd0d3abc03e55d2b22b88ea8952a2e) - 2026-04-25
+* [Review] [Review on: fix(payload): track Amsterdam block gas in builders](https://github.com/paradigmxyz/reth/pull/23743#pullrequestreview-4181297643) - 2026-04-27
+* [Review] [Review on: refactor(evm): return gas output from block builder](https://github.com/paradigmxyz/reth/pull/23744#pullrequestreview-4180983237) - 2026-04-27
+* [Commit] [feat: bound memory footpring of p2p messages (#23718)](https://github.com/paradigmxyz/reth/commit/91d248e6fa0a4c26c5b9fbf465f861e64f555c4c) - 2026-04-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

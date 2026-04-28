@@ -22,6 +22,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635#pullrequestreview-4106818686) - 2026-04-14
 * [Commit] [feat(benchmark): Add deep-branch SLOAD stateful test (#2635)](https://github.com/ethereum/execution-specs/commit/c8c246c8892fce58091e16b0b593e1dd4613673a) - 2026-04-15
 * [Review] [Review on: feat(test-consume): add engine-witness simulator for witness verification](https://github.com/ethereum/execution-specs/pull/2724#pullrequestreview-4143431485) - 2026-04-20
+* [Pull Request] [feat(zkevm): properly handle invalid txs in the guest program input bytes](https://github.com/ethereum/execution-specs/pull/2768) - 2026-04-27
+* [Pull Request] [feat(zkevm): Fix Withdrawal.amount type to comply to the consensus specs](https://github.com/ethereum/execution-specs/pull/2764) - 2026-04-27
+* [Pull Request] [feat(zkevm): fix execution requests type in NewPayloadRequest](https://github.com/ethereum/execution-specs/pull/2761) - 2026-04-27
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01
@@ -41,6 +44,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [chore: update Rust version to 1.93 in Cargo.toml and Dockerfile](https://github.com/eth-act/zkevm-benchmark-workload/pull/280) - 2026-04-24
 * [Commit] [chore: update Rust version to 1.93 in Cargo.toml and Dockerfile (#280)](https://github.com/eth-act/zkevm-benchmark-workload/commit/42faca85f65e01c6cf3e7c5ad43011fe9a5120b4) - 2026-04-24
 * [Commit] [Remove using Reth stateless fork & other misc improvements (#279)](https://github.com/eth-act/zkevm-benchmark-workload/commit/43cb58388b692611a4d69ab822480578066198c0) - 2026-04-24
+* [Pull Request] [feat: update dependencies for ere-guests](https://github.com/eth-act/zkevm-benchmark-workload/pull/282) - 2026-04-27
+* [Review] [Review on: feat: add zisk cluster benchmark support](https://github.com/eth-act/zkevm-benchmark-workload/pull/281#pullrequestreview-4180548007) - 2026-04-27
+* [Commit] [feat: update dependencies for ere-guests (#282)](https://github.com/eth-act/zkevm-benchmark-workload/commit/1a6ae1414f45e7a64e274469c95b9b2b3b251df2) - 2026-04-27
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08

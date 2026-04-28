@@ -13,6 +13,18 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #77, April 13, 2026](https://github.com/ethereum/pm/issues/2008) - 2026-04-07
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [feat(beacon-node): run consensus-specs fork-choice compliance tests](https://github.com/ChainSafe/lodestar/pull/9290) - 2026-04-27
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Wire fork-choice compliance test suites](https://github.com/Consensys/teku/pull/10621) - 2026-04-27
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [ef_tests: wire fork-choice compliance suites](https://github.com/sigp/lighthouse/pull/9185) - 2026-04-27
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [spectest: wire fork-choice compliance suites ](https://github.com/OffchainLabs/prysm/pull/16724) - 2026-04-27
 ## Q1 2026
 
 

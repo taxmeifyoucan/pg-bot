@@ -21,6 +21,8 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Support optional execution and proof engines in optimistic sync](https://github.com/ethereum/consensus-specs/pull/5161#pullrequestreview-4171594735) - 2026-04-24
 * [Review] [Review on: Avoid slashing the same validator twice in the comptests](https://github.com/ethereum/consensus-specs/pull/5160#pullrequestreview-4171443745) - 2026-04-24
 * [Review] [Review on: Add `parent_beacon_block_root` to `ExecutionPayloadEnvelope`](https://github.com/ethereum/consensus-specs/pull/5152#pullrequestreview-4171154124) - 2026-04-24
+* [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182198688) - 2026-04-27
+* [Review] [Review on: Split out `is_valid_merkle_branch` root computation](https://github.com/ethereum/consensus-specs/pull/5166#pullrequestreview-4178304382) - 2026-04-27
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

@@ -35,6 +35,8 @@ Team: Erigon
 * [Review] [Review on: integration tool: clear result after verify sync is done](https://github.com/erigontech/rpc-tests/pull/546#pullrequestreview-4088868866) - 2026-04-10
 * [Review] [Review on: integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545#pullrequestreview-4088869742) - 2026-04-10
 * [Review] [Review on: integration: add metadata description field to test fixtures](https://github.com/erigontech/rpc-tests/pull/549#pullrequestreview-4136283990) - 2026-04-19
+* [Review] [Review on: integration: extend eth_simulateV1 tests](https://github.com/erigontech/rpc-tests/pull/553#pullrequestreview-4178674463) - 2026-04-27
+* [Review] [Review on: integration: fix expected deletedAccounts in debug_traceBlockByNumber](https://github.com/erigontech/rpc-tests/pull/552#pullrequestreview-4178676457) - 2026-04-27
 ## Q1 2026
 
 

@@ -18,6 +18,9 @@ Github: [@carsons-eels](https://github.com/carsons-eels)
 * [Commit] [refactor(spec-specs): add opcode gas constants (#2396)](https://github.com/ethereum/execution-specs/commit/5502bd80829eabc5e6c585bdfbc7f55c69901f26) - 2026-04-20
 * [Review] [Review on: Replace `Uint(len(...))` with `ulen(...)`](https://github.com/ethereum/execution-specs/pull/2580#pullrequestreview-4146425360) - 2026-04-21
 * [Review] [Review on: Replace `Uint(len(...))` with `ulen(...)`](https://github.com/ethereum/execution-specs/pull/2580#pullrequestreview-4153097252) - 2026-04-22
+* [Pull Request] [fix(spec): fix bad formatting indroduced by large refactor](https://github.com/ethereum/execution-specs/pull/2763) - 2026-04-27
+* [Review] [Review on: feat(tests): Add EIP-7708 checks to 6780 tests](https://github.com/ethereum/execution-specs/pull/2743#pullrequestreview-4181174616) - 2026-04-27
+* [Commit] [fix(spec): fix bad formatting indroduced by large refactor (#2763)](https://github.com/ethereum/execution-specs/commit/1fdd7e327fc81fd3e79041d80b03330fe5b42bfb) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489) - 2026-04-10
 

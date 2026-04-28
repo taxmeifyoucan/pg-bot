@@ -27,6 +27,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Gloas - add get_payload_attestation_endpoint](https://github.com/sigp/lighthouse/pull/8497#pullrequestreview-4126852735) - 2026-04-17
 * [Review] [Review on: Fix slasher OOM](https://github.com/sigp/lighthouse/pull/9141#pullrequestreview-4136784794) - 2026-04-20
 * [Review] [Review on: Fix total_effective_balance=0 in `PreEpochCache`](https://github.com/sigp/lighthouse/pull/9106#pullrequestreview-4136781222) - 2026-04-20
+* [Pull Request] [Fix spurious re-org logs on ePBS payload status changes](https://github.com/sigp/lighthouse/pull/9191) - 2026-04-27
+* [Pull Request] [Add payload attestation to op pool and pack into block](https://github.com/sigp/lighthouse/pull/9180) - 2026-04-27
+* [Review] [Review on: Add payload attestation to op pool and pack into block](https://github.com/sigp/lighthouse/pull/9180#pullrequestreview-4181880613) - 2026-04-27
+* [Review] [Review on: fix: gloas from genesis](https://github.com/sigp/lighthouse/pull/9190#pullrequestreview-4184527373) - 2026-04-27
+* [Review] [Review on: Gloas publish data columns during local block building](https://github.com/sigp/lighthouse/pull/9182#pullrequestreview-4181923776) - 2026-04-27
+* [Review] [Review on: Add payload attestation validator duty](https://github.com/sigp/lighthouse/pull/9178#pullrequestreview-4179842564) - 2026-04-27
+* [Review] [Review on: Gloas `PayloadAttestation` gossip verification](https://github.com/sigp/lighthouse/pull/9145#pullrequestreview-4179074491) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026

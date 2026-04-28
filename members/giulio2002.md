@@ -50,6 +50,7 @@ Team: Erigon
 * [Review] [Review on: db/state: make recalcVisibleFiles self-contained](https://github.com/erigontech/erigon/pull/20744#pullrequestreview-4160057179) - 2026-04-23
 * [Review] [Review on: [3.4] seg: show dict size and mem in seg ls output (cherry-pick)](https://github.com/erigontech/erigon/pull/20792#pullrequestreview-4171288914) - 2026-04-24
 * [Review] [Review on: ci: enable hive-eest client pool (~2.7× faster gate)](https://github.com/erigontech/erigon/pull/20812#pullrequestreview-4177250108) - 2026-04-26
+* [Review] [Review on: [r3.4] ci: filter release BINARIES by Makefile targets to fix mcp build failure on release branches](https://github.com/erigontech/erigon/pull/20833#pullrequestreview-4179964633) - 2026-04-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22
@@ -57,6 +58,9 @@ Team: Erigon
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: SSZ-REST Engine API Transport for Prysm](https://github.com/OffchainLabs/prysm/pull/16447#pullrequestreview-4166734850) - 2026-04-23
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core: skip tx gas cap after Amsterdam](https://github.com/ethereum/go-ethereum/pull/34841) - 2026-04-27
 ## Q1 2026
 
 

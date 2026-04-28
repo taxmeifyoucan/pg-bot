@@ -44,9 +44,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Disable TimerServiceTest on Windows](https://github.com/Consensys/teku/pull/10603) - 2026-04-24
 * [Commit] [Small Gloas fixes (#10607)](https://github.com/Consensys/teku/commit/fe093376320d3d2504f09269e77e65520b66963d) - 2026-04-24
 * [Commit] [Disable TimerServiceTest on Windows (#10603)](https://github.com/Consensys/teku/commit/91e2c0feb730d45540724e10b763c5bac270406e) - 2026-04-24
+* [Pull Request] [Prototype Focil](https://github.com/Consensys/teku/pull/10619) - 2026-04-27
+* [Pull Request] [Focil](https://github.com/Consensys/teku/pull/10618) - 2026-04-27
+* [Review] [Review on: Using correct getMinEpochsForBlobSidecarsRequests() for blob_by_root range analysis](https://github.com/Consensys/teku/pull/10617#pullrequestreview-4180269734) - 2026-04-27
+* [Review] [Review on: chore: extend by_root reqresp serve range to match by_range](https://github.com/Consensys/teku/pull/10616#pullrequestreview-4179847666) - 2026-04-27
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22
+* [Review] [Review on: Skip CI for documentation-only changes](https://github.com/libp2p/jvm-libp2p/pull/464#pullrequestreview-4181200461) - 2026-04-27
 ## Q1 2026
 
 

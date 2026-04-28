@@ -54,11 +54,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: properly handle starting from gloas at genesis](https://github.com/ChainSafe/lodestar/pull/9273#pullrequestreview-4173760131) - 2026-04-24
 * [Pull Request] [fix: alpha.5 genesis](https://github.com/ChainSafe/lodestar/pull/9274) - 2026-04-24
 * [Review] [Review on: chore: remove epoch_boundary sanity handler](https://github.com/ChainSafe/lodestar/pull/9270#pullrequestreview-4170336871) - 2026-04-24
+* [Pull Request] [feat: add gossip bid selection to block production](https://github.com/ChainSafe/lodestar/pull/9289) - 2026-04-27
+* [Review] [Review on: feat: add gossip bid selection to block production](https://github.com/ChainSafe/lodestar/pull/9289#pullrequestreview-4181962975) - 2026-04-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 
 * [Pull Request] [Call `_build_invalid_envelope` with proper overwrite](https://github.com/ethereum/consensus-specs/pull/5133) - 2026-04-20
 * [Commit] [Call `_build_invalid_envelope` with proper overwrite (#5133)](https://github.com/ethereum/consensus-specs/commit/b979163fe33b301fd215e818c1d715f83c24de9d) - 2026-04-20
+* [Pull Request] [Remove `should_override_forkchoice_update`](https://github.com/ethereum/consensus-specs/pull/5174) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
 ## Q1 2026

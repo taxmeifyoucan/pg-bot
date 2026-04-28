@@ -47,6 +47,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1` (#34722)](https://github.com/ethereum/go-ethereum/commit/c9fea44616560d42c4a67704c1cb79a1445741f8) - 2026-04-14
 
 * [Pull Request] [cmd/evm/internal/t8ntool: stream t8n alloc to ease heavy memory cases](https://github.com/ethereum/go-ethereum/pull/34785) - 2026-04-21
+* [Commit] [cmd/evm/internal/t8ntool: stream t8n alloc to ease heavy memory cases (#34785)](https://github.com/ethereum/go-ethereum/commit/442bd28b0bad76674348a67b4c9f8689170bfcdb) - 2026-04-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141218984) - 2026-04-20
 ## Q1 2026

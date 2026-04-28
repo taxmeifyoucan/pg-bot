@@ -43,6 +43,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: remove isParentBlockFull](https://github.com/ChainSafe/lodestar/pull/9280#pullrequestreview-4177561895) - 2026-04-26
 * [Pull Request] [feat: include payload attestations when producing block](https://github.com/ChainSafe/lodestar/pull/9283) - 2026-04-26
 * [Review] [Review on: feat: include payload attestations when producing block](https://github.com/ChainSafe/lodestar/pull/9283#pullrequestreview-4177557053) - 2026-04-26
+* [Pull Request] [feat: wire in PTC duties](https://github.com/ChainSafe/lodestar/pull/9287) - 2026-04-27
+* [Review] [Review on: feat: wire in PTC duties](https://github.com/ChainSafe/lodestar/pull/9287#pullrequestreview-4180766221) - 2026-04-27
+* [Review] [Review on: fix: correct DA status for payload](https://github.com/ChainSafe/lodestar/pull/9278#pullrequestreview-4181140939) - 2026-04-27
+* [Commit] [feat: wire in PTC duties (#9287)](https://github.com/ChainSafe/lodestar/commit/549a5b8115996f5e769ad899c33b8d0252dd376b) - 2026-04-27
+* [Commit] [fix: call fcu in importExecutionPayload (#9285)](https://github.com/ChainSafe/lodestar/commit/4358217e121ba31f0a3f8284bb17fd260f6a7ae7) - 2026-04-27
+* [Commit] [feat: include payload attestations when producing block (#9283)](https://github.com/ChainSafe/lodestar/commit/23543891dfe0ddb8e4b53f009863a6996cc02246) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 ## Q1 2026

@@ -162,6 +162,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: fix unknownBlockSync e2e assertions for gloas (#9276)](https://github.com/ChainSafe/lodestar/commit/dfb984e7795f84a6db20092fde3cdf5322866eea) - 2026-04-25
 * [Commit] [fix: clone block header during payload envelope verification (#9277)](https://github.com/ChainSafe/lodestar/commit/38479366cce61bdff2a74f1996783ddd9891223a) - 2026-04-25
 * [Review] [Review on: feat: include payload attestations when producing block](https://github.com/ChainSafe/lodestar/pull/9283#pullrequestreview-4177070391) - 2026-04-26
+* [Pull Request] [fix: drop voluntary exits invalidated by parent execution requests](https://github.com/ChainSafe/lodestar/pull/9292) - 2026-04-27
+* [Review] [Review on: fix: drop voluntary exits invalidated by parent execution requests](https://github.com/ChainSafe/lodestar/pull/9292#pullrequestreview-4184759998) - 2026-04-27
+* [Review] [Review on: fix: call fcu in importExecutionPayload](https://github.com/ChainSafe/lodestar/pull/9285#pullrequestreview-4178289608) - 2026-04-27
+* [Review] [Review on: feat: wire in PTC duties](https://github.com/ChainSafe/lodestar/pull/9287#pullrequestreview-4179832879) - 2026-04-27
+* [Review] [Review on: feat: add PTC data availability and quorum tracking](https://github.com/ChainSafe/lodestar/pull/9284#pullrequestreview-4179820219) - 2026-04-27
+* [Review] [Review on: fix: skip impossible payload envelope sync targets](https://github.com/ChainSafe/lodestar/pull/9281#pullrequestreview-4178150522) - 2026-04-27
+* [Review] [Review on: feat: include payload attestations when producing block](https://github.com/ChainSafe/lodestar/pull/9283#pullrequestreview-4178082925) - 2026-04-27
+* [Issue] [Review prepare next slot in gloas](https://github.com/ChainSafe/lodestar/issues/9286) - 2026-04-27
+* [Commit] [chore: remove isParentBlockFull (#9280)](https://github.com/ChainSafe/lodestar/commit/7733cd3832947b6eb2641e2633eb5265cde3ba75) - 2026-04-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -200,6 +209,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Align `should_extend_payload` with Gloas](https://github.com/ethereum/consensus-specs/pull/5157#pullrequestreview-4168611882) - 2026-04-24
 * [Commit] [Fix epoch boundary tests (#5158)](https://github.com/ethereum/consensus-specs/commit/13b3fc076370bc3651d2504d0556052dcf8f2866) - 2026-04-24
 * [Commit] [Restore payload processing test cases (#5155)](https://github.com/ethereum/consensus-specs/commit/4797b3ac59f8e9fc566b462fd0c4af61f3282ba9) - 2026-04-24
+* [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181936909) - 2026-04-27
+* [Review] [Review on: Note voluntary exit selection with deferred payload processing](https://github.com/ethereum/consensus-specs/pull/5176#pullrequestreview-4181154982) - 2026-04-27
+* [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179901037) - 2026-04-27
+* [Review] [Review on: Test that voluntary exit with withdrawal request fails](https://github.com/ethereum/consensus-specs/pull/5175#pullrequestreview-4180936444) - 2026-04-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

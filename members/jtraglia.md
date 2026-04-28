@@ -133,6 +133,19 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Add commit skill](https://github.com/ethereum/consensus-specs/pull/5163) - 2026-04-25
 * [Review] [Review on: Bump EIP-8025 `MAX_PROOF_SIZE` to 400 KiB](https://github.com/ethereum/consensus-specs/pull/5162#pullrequestreview-4175520413) - 2026-04-25
 * [Review] [Review on: Mark Fulu as deployed on mainnet](https://github.com/ethereum/consensus-specs/pull/5165#pullrequestreview-4176953518) - 2026-04-26
+* [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011066) - 2026-04-27
+* [Pull Request] [Note voluntary exit selection with deferred payload processing](https://github.com/ethereum/consensus-specs/pull/5176) - 2026-04-27
+* [Review] [Review on: Note voluntary exit selection with deferred payload processing](https://github.com/ethereum/consensus-specs/pull/5176#pullrequestreview-4181134367) - 2026-04-27
+* [Pull Request] [Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172) - 2026-04-27
+* [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4181020740) - 2026-04-27
+* [Review] [Review on: Split out `is_valid_merkle_branch` root computation](https://github.com/ethereum/consensus-specs/pull/5166#pullrequestreview-4181320973) - 2026-04-27
+* [Review] [Review on: Update dependency mypy to v1.20.2](https://github.com/ethereum/consensus-specs/pull/5170#pullrequestreview-4181282730) - 2026-04-27
+* [Pull Request] [Test that voluntary exit with withdrawal request fails](https://github.com/ethereum/consensus-specs/pull/5175) - 2026-04-27
+* [Review] [Review on: Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164#pullrequestreview-4180993330) - 2026-04-27
+* [Commit] [Add commit skill (#5163)](https://github.com/ethereum/consensus-specs/commit/f86389617e35e3d1d10d0dc096336ee341a6f91a) - 2026-04-27
+* [Commit] [Note voluntary exit selection with deferred payload processing (#5176)](https://github.com/ethereum/consensus-specs/commit/4d099451dd1a251cbc8c3b15273fbb89f9661b24) - 2026-04-27
+* [Commit] [Fix genesis state in Gloas (#5172)](https://github.com/ethereum/consensus-specs/commit/e9f599e899287069aa0d4f368dc0eed68de3292b) - 2026-04-27
+* [Commit] [Test that voluntary exit with withdrawal request fails (#5175)](https://github.com/ethereum/consensus-specs/commit/bb951ff86409fae161c96582ab513069dc5dc57b) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

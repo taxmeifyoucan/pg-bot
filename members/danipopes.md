@@ -259,6 +259,23 @@ Team: Reth
 * [Pull Request] [perf: set dead_on_return on stack arg if stack is not observed](https://github.com/paradigmxyz/revmc/pull/344) - 2026-04-27
 * [Pull Request] [fix(scripts): match bare 'N B' jit size in bench remarks](https://github.com/paradigmxyz/revmc/pull/345) - 2026-04-27
 * [Commit] [fix(scripts): match bare 'N B' jit size in bench remarks (#345)](https://github.com/paradigmxyz/revmc/commit/b537c60c485c3839cf6dea6b3fd0714cda4e23b1) - 2026-04-27
+* [Pull Request] [feat(statetest): log progress every second](https://github.com/paradigmxyz/revmc/pull/354) - 2026-04-27
+* [Pull Request] [feat(compiler): add force_out_of_gas config](https://github.com/paradigmxyz/revmc/pull/353) - 2026-04-27
+* [Pull Request] [perf(context): store Gas inline in EvmContext](https://github.com/paradigmxyz/revmc/pull/352) - 2026-04-27
+* [Pull Request] [fix(examples): wire runner example to JIT via JitEvm](https://github.com/paradigmxyz/revmc/pull/349) - 2026-04-27
+* [Pull Request] [refactor: inline assert_spec_id builtin](https://github.com/paradigmxyz/revmc/pull/351) - 2026-04-27
+* [Pull Request] [chore(scripts): improve bench.py output and document workflow](https://github.com/paradigmxyz/revmc/pull/350) - 2026-04-27
+* [Pull Request] [refactor: intern bytecode immediates at parse time](https://github.com/paradigmxyz/revmc/pull/348) - 2026-04-27
+* [Pull Request] [fix(builtins): correct argmem memory effect](https://github.com/paradigmxyz/revmc/pull/347) - 2026-04-27
+* [Pull Request] [perf: assume non-null pointers in JIT'd function signature](https://github.com/paradigmxyz/revmc/pull/346) - 2026-04-27
+* [Commit] [test: timeout back to 600s](https://github.com/paradigmxyz/revmc/commit/b70076a56f31b33a4347cf5f659e228f941f14f8) - 2026-04-27
+* [Commit] [perf(context): store Gas inline in EvmContext (#352)](https://github.com/paradigmxyz/revmc/commit/ac550df63e0f1dca9772952617d3facb44781ff6) - 2026-04-27
+* [Commit] [fix(examples): wire runner example to JIT via JitEvm (#349)](https://github.com/paradigmxyz/revmc/commit/8b737e55a213a80cb161beb67ebdaeb8fbf812ee) - 2026-04-27
+* [Commit] [chore(scripts): improve bench.py output and document workflow (#350)](https://github.com/paradigmxyz/revmc/commit/ab2482711b09ed49c3fbd901e6a43df3b8578613) - 2026-04-27
+* [Commit] [refactor: intern bytecode immediates at parse time (#348)](https://github.com/paradigmxyz/revmc/commit/85140022e14ba240b0a1c5ad2ceb40de85de2cad) - 2026-04-27
+* [Commit] [perf: virtual stack for section-local SSA caching (#335)](https://github.com/paradigmxyz/revmc/commit/1f4f761862e99efea55d57b98c0cfcc351a57506) - 2026-04-27
+* [Commit] [fix(builtins): correct argmem memory effect (#347)](https://github.com/paradigmxyz/revmc/commit/583d36b80c8b7a3dffe1b1ef40d213bd1d15192d) - 2026-04-27
+* [Commit] [perf: assume non-null pointers in JIT'd function signature (#346)](https://github.com/paradigmxyz/revmc/commit/451a83b67e70b8de41e982013ea6d94d210c6f32) - 2026-04-27
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -286,6 +303,7 @@ Team: Reth
 * [Review] [Review on: fix(db): move unix deps section after strum in Cargo.toml](https://github.com/paradigmxyz/reth/pull/23697#pullrequestreview-4163059918) - 2026-04-23
 * [Pull Request] [fix(docker): make RUSTFLAGS additive to platform-specific flags](https://github.com/paradigmxyz/reth/pull/23722) - 2026-04-24
 * [Review] [Review on: perf(revm): enable `p256-aws-lc-rs` feature](https://github.com/paradigmxyz/reth/pull/23721#pullrequestreview-4173222306) - 2026-04-24
+* [Review] [Review on: perf(docker): add platform-specific RUSTFLAGS to Dockerfile](https://github.com/paradigmxyz/reth/pull/23738#pullrequestreview-4179533483) - 2026-04-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14
@@ -335,6 +353,16 @@ Team: Reth
 * [Review] [Review on: feat(account): Optimized index type for account ID using `non-max`](https://github.com/bluealloy/revm/pull/3605#pullrequestreview-4175801493) - 2026-04-25
 * [Review] [Review on: fix(precompile): use SIGMA period 10 in blake2 portable path](https://github.com/bluealloy/revm/pull/3616#pullrequestreview-4177465821) - 2026-04-26
 * [Review] [Review on: perf(precompile): vendor blake2b_simd for BLAKE2 compression](https://github.com/bluealloy/revm/pull/3609#pullrequestreview-4176807161) - 2026-04-26
+* [Pull Request] [ci: use Depot runners](https://github.com/bluealloy/revm/pull/3621) - 2026-04-27
+* [Pull Request] [ci: update test workflows](https://github.com/bluealloy/revm/pull/3620) - 2026-04-27
+* [Review] [Review on: handler: reject nonce-max senders before execution](https://github.com/bluealloy/revm/pull/3531#pullrequestreview-4184079792) - 2026-04-27
+* [Review] [Review on: fix(context): use storage_by_account_id fast path in sload](https://github.com/bluealloy/revm/pull/3535#pullrequestreview-4183868849) - 2026-04-27
+* [Review] [Review on: feat(state): Optimized index type for transaction ID using non-max](https://github.com/bluealloy/revm/pull/3610#pullrequestreview-4183862905) - 2026-04-27
+* [Review] [Review on: fix(precompile): tighten cfg on blake2 avx2 module](https://github.com/bluealloy/revm/pull/3613#pullrequestreview-4183705329) - 2026-04-27
+* [Review] [Review on: feat(account): Optimized index type for account ID using `non-max`](https://github.com/bluealloy/revm/pull/3605#pullrequestreview-4183712905) - 2026-04-27
+* [Review] [Review on: chore: audit #[allow] attributes](https://github.com/bluealloy/revm/pull/3611#pullrequestreview-4183681180) - 2026-04-27
+* [Review] [Review on: feat: show address or slot in BAL error](https://github.com/bluealloy/revm/pull/3619#pullrequestreview-4183731515) - 2026-04-27
+* [Commit] [ci: update test workflows (#3620)](https://github.com/bluealloy/revm/commit/4c2883b01e5fc3958e78c97a14fb9cda0d17bff6) - 2026-04-27
 ## Q1 2026
 
 

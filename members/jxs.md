@@ -18,6 +18,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Review] [Review on: fix: validate request ID length in Message::decode()](https://github.com/sigp/discv5/pull/296#pullrequestreview-4119673276) - 2026-04-16
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4142445947) - 2026-04-20
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4163610955) - 2026-04-23
+* [Review] [Review on: Fix: ipv4/ipv6_contactable metrics never updated](https://github.com/sigp/discv5/pull/300#pullrequestreview-4180115359) - 2026-04-27
 ## Q4 2025
 
 

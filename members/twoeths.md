@@ -86,6 +86,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: correct DA status for payload](https://github.com/ChainSafe/lodestar/pull/9278#pullrequestreview-4175896687) - 2026-04-25
 * [Review] [Review on: test: fix unknownBlockSync e2e assertions for gloas](https://github.com/ChainSafe/lodestar/pull/9276#pullrequestreview-4175200857) - 2026-04-25
 * [Review] [Review on: fix: clone block header during payload envelope verification](https://github.com/ChainSafe/lodestar/pull/9277#pullrequestreview-4175053506) - 2026-04-25
+* [Review] [Review on: fix: call fcu in importExecutionPayload](https://github.com/ChainSafe/lodestar/pull/9285#pullrequestreview-4181680025) - 2026-04-27
+* [Review] [Review on: feat: add PTC data availability and quorum tracking](https://github.com/ChainSafe/lodestar/pull/9284#pullrequestreview-4179027474) - 2026-04-27
+* [Commit] [fix: correct DA status for payload (#9278)](https://github.com/ChainSafe/lodestar/commit/958956d6ba2d861307df718f40cbd63068d034f1) - 2026-04-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

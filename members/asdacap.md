@@ -125,6 +125,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor: remove NodeData satellite protocol](https://github.com/NethermindEth/nethermind/pull/11359) - 2026-04-26
 * [Pull Request] [perf(sync): allow multiple sync allocation slots per peer](https://github.com/NethermindEth/nethermind/pull/11360) - 2026-04-26
 * [Commit] [analyzers: NETH003 — file name must match the contained type name (#11337)](https://github.com/NethermindEth/nethermind/commit/09bd5a2de270968df8ae877a89561b890a85e990) - 2026-04-26
+* [Review] [Review on: chore: Support and migrate to Ubuntu 26.04](https://github.com/NethermindEth/nethermind/pull/11355#pullrequestreview-4178222637) - 2026-04-27
+* [Pull Request] [refactor(init): convert ExitOnInvalidBlock and InitDatabase to DI](https://github.com/NethermindEth/nethermind/pull/11366) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

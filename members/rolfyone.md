@@ -36,6 +36,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [⏺ Update 3rd party libraries](https://github.com/Consensys/teku/pull/10583) - 2026-04-21
 * [Review] [Review on: ⏺ Update 3rd party libraries](https://github.com/Consensys/teku/pull/10583#pullrequestreview-4144882802) - 2026-04-21
 * [Commit] [Update 3rd party libraries (#10583)](https://github.com/Consensys/teku/commit/a8a78fc4809ae8b80198c8c30b20c9fb2323c7cf) - 2026-04-21
+* [Review] [Review on: Using correct getMinEpochsForBlobSidecarsRequests() for blob_by_root range analysis](https://github.com/Consensys/teku/pull/10617#pullrequestreview-4180727323) - 2026-04-27
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
+
+[libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
+* [Review] [Review on: Update .gitignore to  include .worktrees](https://github.com/libp2p/jvm-libp2p/pull/462#pullrequestreview-4180956822) - 2026-04-27
 ## Q1 2026
 
 

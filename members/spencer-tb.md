@@ -64,6 +64,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): EIP-8073 - remove stale header verify on CALL to selfdestructed tests](https://github.com/ethereum/execution-specs/pull/2725) - 2026-04-20
 * [Commit] [feat(tests): prepare `test_scenarios` and `test_all_opcodes` for EIP-8037 (#2727)](https://github.com/ethereum/execution-specs/commit/4c47daacfbe2e5ae95d79753b131acc904eceda7) - 2026-04-20
 * [Issue] [Optimistic Inclusion (OI) of Amsterdam EIPs For Simpler Releases](https://github.com/ethereum/execution-specs/issues/2744) - 2026-04-22
+* [Pull Request] [feat(specs): EIP-8037 state-delta counter (frame-diff alternative) [DRAFT]](https://github.com/ethereum/execution-specs/pull/2765) - 2026-04-27
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 
@@ -106,6 +107,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/engine: make `SetBlock` robust for reorg chains](https://github.com/ethereum/hive/pull/1395#pullrequestreview-4129638641) - 2026-04-17
+* [Review] [Review on: clients/go-ethereum: restore amsterdam entry in blobSchedule](https://github.com/ethereum/hive/pull/1452#pullrequestreview-4180204275) - 2026-04-27
 ## Q1 2026
 
 

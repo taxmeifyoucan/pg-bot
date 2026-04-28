@@ -231,6 +231,13 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11356#pullrequestreview-4176571616) - 2026-04-26
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11357#pullrequestreview-4176571700) - 2026-04-26
 * [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11358#pullrequestreview-4176571781) - 2026-04-26
+* [Review] [Review on: More optimizations for precompile caching](https://github.com/NethermindEth/nethermind/pull/11373#pullrequestreview-4183329015) - 2026-04-27
+* [Review] [Review on: Update/1.37.1 missing prs](https://github.com/NethermindEth/nethermind/pull/11377#pullrequestreview-4184922521) - 2026-04-28
+* [Review] [Review on: fix(eth_simulateV1): return spec-compliant error codes and messages for fee cap and insufficient funds](https://github.com/NethermindEth/nethermind/pull/11372#pullrequestreview-4183619872) - 2026-04-27
+* [Review] [Review on: feat(state): persist FlatLayout and refuse mismatched restarts](https://github.com/NethermindEth/nethermind/pull/11271#pullrequestreview-4183638650) - 2026-04-27
+* [Review] [Review on: refactor: remove NodeData satellite protocol](https://github.com/NethermindEth/nethermind/pull/11359#pullrequestreview-4183582973) - 2026-04-27
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11364#pullrequestreview-4183574099) - 2026-04-27
+* [Review] [Review on: Quicknode fix](https://github.com/NethermindEth/nethermind/pull/11376#pullrequestreview-4183411899) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

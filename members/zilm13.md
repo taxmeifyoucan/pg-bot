@@ -33,6 +33,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Avoid resolving unchanged forkchoice votes](https://github.com/Consensys/teku/pull/10604#pullrequestreview-4170842260) - 2026-04-24
 * [Review] [Review on: serve finalized execution payload envelopes by range](https://github.com/Consensys/teku/pull/10605#pullrequestreview-4170983747) - 2026-04-24
 * [Review] [Review on: Add dormant Gloas forkchoice model and rebuild support (6 of 7)](https://github.com/Consensys/teku/pull/10610#pullrequestreview-4175558788) - 2026-04-25
+* [Review] [Review on: Add dormant Gloas forkchoice model and rebuild support (6 of 7)](https://github.com/Consensys/teku/pull/10610#pullrequestreview-4178994938) - 2026-04-27
+* [Pull Request] [Fix genesis state in Gloas](https://github.com/Consensys/teku/pull/10615) - 2026-04-27
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

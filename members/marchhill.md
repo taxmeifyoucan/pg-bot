@@ -19,6 +19,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Feature/parallel txs fix test](https://github.com/NethermindEth/nethermind/pull/11328) - 2026-04-23
 * [Pull Request] [reuse worldstate](https://github.com/NethermindEth/nethermind/pull/11318) - 2026-04-23
 * [Pull Request] [Feature/parallel txs lukasz comments](https://github.com/NethermindEth/nethermind/pull/11347) - 2026-04-24
+* [Pull Request] [optimise bal structures](https://github.com/NethermindEth/nethermind/pull/11371) - 2026-04-27
+* [Pull Request] [Parallel transaction execution with BALs](https://github.com/NethermindEth/nethermind/pull/9182) - 2026-04-27
+* [Commit] [Parallel transaction execution with BALs (#9182)](https://github.com/NethermindEth/nethermind/commit/54ecbb8c356926feb435b647029d94e4a135ca6d) - 2026-04-27
 ## Q1 2026
 
 

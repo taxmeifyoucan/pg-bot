@@ -96,6 +96,12 @@ Team: Erigon
 * [Pull Request] [parallel commitment calculations implemented](https://github.com/erigontech/erigon/pull/20805) - 2026-04-25
 * [Pull Request] [p2p: preserve full enode for inbound connections from static peers](https://github.com/erigontech/erigon/pull/20827) - 2026-04-26
 * [Commit] [p2p/protocols/eth: EIP-8159 eth/71 wire protocol (PR 1/3) (#20793)](https://github.com/erigontech/erigon/commit/0f080ebe93dd4dc6c07cac66b26deaa6709a2dac) - 2026-04-26
+* [Pull Request] [ci: temporarily skip debug_traceBlockByNumber/test_{33,34} after prestateTracer fix](https://github.com/erigontech/erigon/pull/20845) - 2026-04-27
+* [Commit] [p2p/protocols/eth, p2p/sentry: EIP-8159 eth/71 handler + sentry dispatch (PR 2/3) (#20794)](https://github.com/erigontech/erigon/commit/c568a381bdbda2220e6d6503f46de7dff68e0b22) - 2026-04-27
+* [Commit] [p2p: preserve full enode for inbound connections from static peers (#20827)](https://github.com/erigontech/erigon/commit/e2606f209ef6c50619216b2cd8fc3272c069adad) - 2026-04-27
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026
 
 

@@ -21,6 +21,9 @@ Team: EthereumJS
 * [Pull Request] [mpt: awasm noble keccak](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4278) - 2026-04-23
 * [Commit] [vm: update execution-spec-tests fixtures to bal@v5.7.0 (#4279)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/8fc5f9a2e8d9e4a8c16b248f34cd42d77c0ea75c) - 2026-04-24
 * [Pull Request] [vm: EIP-7976 (calldata floor cost)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4280) - 2026-04-27
+* [Pull Request] [docs: cleanup](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4281) - 2026-04-27
+* [Commit] [vm: EIP-7976 (calldata floor cost) (#4280)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/a404e7b19b3e03ecfb59bf90e82a596a87df9501) - 2026-04-27
+* [Commit] [docs: pre-release docs overhaul (#4281)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/25417b7f640f751762c47da185b8c726dbde6245) - 2026-04-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 ## Q1 2026

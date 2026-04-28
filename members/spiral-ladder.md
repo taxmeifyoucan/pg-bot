@@ -38,6 +38,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: upgrade to Zig 0.16](https://github.com/ChainSafe/lodestar-z/pull/319#pullrequestreview-4171854911) - 2026-04-24
 * [Commit] [fix(build): remove windows as one of the targets in zapi (#325)](https://github.com/ChainSafe/lodestar-z/commit/58b4a2ea4b1e14aa2c67e0b85e8ff545890cb953) - 2026-04-24
 * [Commit] [fix(deps): update hashtree and blst.zig (#326)](https://github.com/ChainSafe/lodestar-z/commit/be214cb11d69166f371f0b81030aa8b6d7245005) - 2026-04-24
+* [Pull Request] [ci: downgrade `publish-bindings` workflow to use `ubuntu-22.04` instead](https://github.com/ChainSafe/lodestar-z/pull/327) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

@@ -71,6 +71,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [fix(eip8037): correct CREATE state-gas refund propagation and unwind](https://github.com/bluealloy/revm/pull/3614) - 2026-04-26
 * [Commit] [chore: backport v107 release notes from branch (#3617)](https://github.com/bluealloy/revm/commit/bcdd8ad739fa0d653790c098a960880ced937274) - 2026-04-26
 * [Commit] [fix(precompile): use SIGMA period 10 in blake2 portable path (#3616)](https://github.com/bluealloy/revm/commit/304be679f9207a633a408323eb89d07121dc159e) - 2026-04-26
+* [Review] [Review on: feat: show address or slot in BAL error](https://github.com/bluealloy/revm/pull/3619#pullrequestreview-4181429431) - 2026-04-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

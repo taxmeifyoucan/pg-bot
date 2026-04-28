@@ -69,6 +69,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Prefetch + cross block cache into bal devnet 4](https://github.com/besu-eth/besu/pull/10317#pullrequestreview-4161870446) - 2026-04-23
 * [Pull Request] [Merge main into bal-devnet-4](https://github.com/besu-eth/besu/pull/10314) - 2026-04-23
 * [Review] [Review on: EIP-8037 changes for bal devnet 4](https://github.com/besu-eth/besu/pull/10313#pullrequestreview-4170690495) - 2026-04-24
+* [Pull Request] [Restrict no-reorg to the prefix of known finalized](https://github.com/besu-eth/besu/pull/10335) - 2026-04-27
+* [Pull Request] [fix cpsb to 1173 for amsterdam](https://github.com/besu-eth/besu/pull/10334) - 2026-04-27
+* [Review] [Review on: fix cpsb to 1173 for amsterdam](https://github.com/besu-eth/besu/pull/10334#pullrequestreview-4180987368) - 2026-04-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

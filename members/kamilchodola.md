@@ -65,6 +65,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Remove unused bloatnet factory entries from mainnet stubs](https://github.com/ethereum/execution-specs/pull/2670) - 2026-04-13
 * [Commit] [refactor(test-benchmark): remove unused bloatnet factory entries from mainnet stubs (#2670)](https://github.com/ethereum/execution-specs/commit/a830dab6f130151ab9023a473b7543120aa21961) - 2026-04-14
+* [Pull Request] [investigate: 32KB contract deploy fails — missing EIP-7954 in devnet genesis](https://github.com/ethereum/execution-specs/pull/2767) - 2026-04-27
+* [Pull Request] [Kch 8037 fix](https://github.com/ethereum/execution-specs/pull/2766) - 2026-04-27
 ## Q1 2026
 
 

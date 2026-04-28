@@ -39,6 +39,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [accounts/usbwallet: revert github.com/karalabe/hid to fix freebsd build (#34784)](https://github.com/ethereum/go-ethereum/commit/eb3283fb2ef8b606d35fb6e30d2e036c186be45e) - 2026-04-22
 * [Review] [Review on: core, trie, triedb: group 2^N binary trie nodes in serialization](https://github.com/ethereum/go-ethereum/pull/34794#pullrequestreview-4171481581) - 2026-04-24
 * [Review] [Review on: core/state: and instead of or](https://github.com/ethereum/go-ethereum/pull/34819#pullrequestreview-4176783073) - 2026-04-26
+* [Review] [Review on: accounts/scwallet: truncate before write](https://github.com/ethereum/go-ethereum/pull/34815#pullrequestreview-4181604038) - 2026-04-27
 ## Q1 2026
 
 

@@ -79,6 +79,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Account for blob wrapper v0/v1 difference in rlp limits](https://github.com/NethermindEth/nethermind/pull/11319) - 2026-04-23
 * [Pull Request] [Make blockhash recorder as real tx so we record bal writes](https://github.com/NethermindEth/nethermind/pull/11345) - 2026-04-24
 * [Review] [Review on: analyzers: NETH003 — file name must match the contained type name](https://github.com/NethermindEth/nethermind/pull/11337#pullrequestreview-4168853632) - 2026-04-24
+* [Review] [Review on: eth/71](https://github.com/NethermindEth/nethermind/pull/10844#pullrequestreview-4181352022) - 2026-04-27
+* [Review] [Review on: Align EIP-7928 BlockAccessIndex with uint32 spec, add validation](https://github.com/NethermindEth/nethermind/pull/11362#pullrequestreview-4179123644) - 2026-04-27
+* [Review] [Review on: Reorg up to lastFinalized block](https://github.com/NethermindEth/nethermind/pull/11354#pullrequestreview-4180428617) - 2026-04-27
+* [Review] [Review on: revert: do not skip balance validation in eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/11368#pullrequestreview-4180228278) - 2026-04-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 
@@ -87,6 +91,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [feat(spec-specs, tests): add system address BAL tests](https://github.com/ethereum/execution-specs/pull/2715) - 2026-04-18
 * [Commit] [feat(spec-specs, tests): add account-only BAL invalid test (#2712)](https://github.com/ethereum/execution-specs/commit/e8f01a69d055409e4f91fbec6f9e264c8cd77174) - 2026-04-18
 * [Commit] [feat(spec-specs, tests): add system address BAL tests (#2715)](https://github.com/ethereum/execution-specs/commit/668cde5e1842a0e8683c7a313b690762e0237dde) - 2026-04-20
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4179442515) - 2026-04-27
 ## Q1 2026
 
 

@@ -114,6 +114,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] `SpawnStageHistoryDownload`: didn't support graceful restart](https://github.com/erigontech/erigon/pull/20766#pullrequestreview-4169528420) - 2026-04-24
 * [Review] [Review on: domain.collate: remove double buffering](https://github.com/erigontech/erigon/pull/20742#pullrequestreview-4169517453) - 2026-04-24
 * [Commit] [seg: add rm-blocks command to remove latest block snapshot files (#20554)](https://github.com/erigontech/erigon/commit/fe1b92d78a719c3000eb9581812a4f0eec3364d6) - 2026-04-24
+* [Review] [Review on: db/state: replace Walk callbacks with btree Iter in dirty_files.go](https://github.com/erigontech/erigon/pull/20745#pullrequestreview-4180403786) - 2026-04-27
+* [Pull Request] [cp: integrity check PRs to performance (#20435, #20680, #20714, #20835)](https://github.com/erigontech/erigon/pull/20838) - 2026-04-27
+* [Pull Request] [cp: skip commitment history integrity checks when disabled](https://github.com/erigontech/erigon/pull/20839) - 2026-04-27
+* [Review] [Review on: [wip] db/state: remove CheckSnapshotsCompatibility (pre-3.1 compat check)](https://github.com/erigontech/erigon/pull/20746#pullrequestreview-4180407934) - 2026-04-27
+* [Pull Request] [cmd/utils/app: skip commitment history integrity checks when disabled](https://github.com/erigontech/erigon/pull/20835) - 2026-04-27
+* [Review] [Review on: db/state: simplify DomainLatestIterFile](https://github.com/erigontech/erigon/pull/20817#pullrequestreview-4178926043) - 2026-04-27
+* [Commit] [cmd/utils/app: skip commitment history integrity checks when disabled (#20835)](https://github.com/erigontech/erigon/commit/c0e211f74acaaffa526cd5d26f7c2987e13cde54) - 2026-04-27
 ## Q1 2026
 
 

@@ -53,8 +53,22 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Avoid lint and fmt for agents](https://github.com/sigp/lighthouse/pull/9166#pullrequestreview-4159602273) - 2026-04-23
 * [Pull Request] [Fix builder exit signature batch verification logic and small refactor](https://github.com/sigp/lighthouse/pull/9173) - 2026-04-25
 * [Review] [Review on: Re-issue `ForkchoiceUpdate` based on updated `PayloadStatus`](https://github.com/sigp/lighthouse/pull/9102#pullrequestreview-4175287009) - 2026-04-25
+* [Review] [Review on: Add payload attestation to op pool and pack into block](https://github.com/sigp/lighthouse/pull/9180#pullrequestreview-4184317953) - 2026-04-27
+* [Review] [Review on: Fix validator manager compilation](https://github.com/sigp/lighthouse/pull/9187#pullrequestreview-4184176587) - 2026-04-27
+* [Pull Request] [Glamsterdam devnet 0](https://github.com/sigp/lighthouse/pull/9193) - 2026-04-27
+* [Pull Request] [Glamsterdam devnet 0](https://github.com/sigp/lighthouse/pull/9188) - 2026-04-27
+* [Pull Request] [Gloas publish data columns during local block building](https://github.com/sigp/lighthouse/pull/9182) - 2026-04-27
+* [Review] [Review on: Gloas publish data columns during local block building](https://github.com/sigp/lighthouse/pull/9182#pullrequestreview-4182038356) - 2026-04-27
+* [Pull Request] [Gloas filter conflicting voluntary exits](https://github.com/sigp/lighthouse/pull/9183) - 2026-04-27
+* [Pull Request] [Add payload attestation validator duty](https://github.com/sigp/lighthouse/pull/9178) - 2026-04-27
+* [Review] [Review on: Add payload attestation validator duty](https://github.com/sigp/lighthouse/pull/9178#pullrequestreview-4180445031) - 2026-04-27
+* [Pull Request] [Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9181) - 2026-04-27
+* [Review] [Review on: Gloas `PayloadAttestation` gossip verification](https://github.com/sigp/lighthouse/pull/9145#pullrequestreview-4179360161) - 2026-04-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
+* [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27
+* [Review] [Review on: Note voluntary exit selection with deferred payload processing](https://github.com/ethereum/consensus-specs/pull/5176#pullrequestreview-4180995325) - 2026-04-27
+* [Review] [Review on: Test that voluntary exit with withdrawal request fails](https://github.com/ethereum/consensus-specs/pull/5175#pullrequestreview-4180758170) - 2026-04-27
 ## Q1 2026
 
 

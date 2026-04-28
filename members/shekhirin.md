@@ -63,9 +63,19 @@ Team: Reth
 * [Commit] [perf(revm): enable `p256-aws-lc-rs` feature (#23721)](https://github.com/paradigmxyz/reth/commit/b27169430154fbdf0f1def8c4156515a70666e03) - 2026-04-24
 * [Pull Request] [bench: enable `keccak-cache-global` feature in `reth-bb` binary](https://github.com/paradigmxyz/reth/pull/23723) - 2026-04-25
 * [Commit] [bench: enable `keccak-cache-global` feature in `reth-bb` binary (#23723)](https://github.com/paradigmxyz/reth/commit/f344f5abfb7c3901e03b038b29e457ce837bca0f) - 2026-04-25
+* [Review] [Review on: refactor(evm): return gas output from block builder](https://github.com/paradigmxyz/reth/pull/23744#pullrequestreview-4180989000) - 2026-04-27
+* [Pull Request] [ci: add Amsterdam Hive variant](https://github.com/paradigmxyz/reth/pull/23736) - 2026-04-27
+* [Review] [Review on: ci: add Amsterdam Hive variant](https://github.com/paradigmxyz/reth/pull/23736#pullrequestreview-4180623858) - 2026-04-27
+* [Pull Request] [perf(docker): add platform-specific RUSTFLAGS to Dockerfile](https://github.com/paradigmxyz/reth/pull/23738) - 2026-04-27
+* [Commit] [ci: add Amsterdam Hive variant (#23736)](https://github.com/paradigmxyz/reth/commit/d4ca2e2687dab5fa7f38e70325b9a476f9172c83) - 2026-04-27
+* [Commit] [perf(docker): add platform-specific RUSTFLAGS to Dockerfile (#23738)](https://github.com/paradigmxyz/reth/commit/e5e0abb47e48c51a838d657029507459b26cb881) - 2026-04-27
+* [Commit] [fix(storage): `reth db migrate-v2` for pruned nodes (#23716)](https://github.com/paradigmxyz/reth/commit/db17c899c311867ac1adbbe7295a83bd463353c7) - 2026-04-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Review] [Review on: fix(state): canonicalize BAL alloy ordering](https://github.com/bluealloy/revm/pull/3618#pullrequestreview-4180873597) - 2026-04-27
 ## Q1 2026
 
 

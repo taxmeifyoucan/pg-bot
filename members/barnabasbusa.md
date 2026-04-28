@@ -58,6 +58,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: spec 1.7.0 alpha.5 + BAL UI](https://github.com/ethpandaops/dora/pull/648#pullrequestreview-4146501767) - 2026-04-21
 * [Pull Request] [log: raise BAL decode failures to error level](https://github.com/ethpandaops/dora/pull/653) - 2026-04-23
 * [Pull Request] [sort slot view tabs alphabetically](https://github.com/ethpandaops/dora/pull/656) - 2026-04-26
+* [Pull Request] [validators_summary: proposal accuracy & PTC inclusion stats](https://github.com/ethpandaops/dora/pull/660) - 2026-04-27
+* [Pull Request] [fix: clamp sync committee assigned count to available bits](https://github.com/ethpandaops/dora/pull/659) - 2026-04-27
+* [Commit] [Merge pull request #660 from ethpandaops/bbusa/validators-summary-proposals-ptc](https://github.com/ethpandaops/dora/commit/326465f4a085e7f2fa44954cbe43017546e343eb) - 2026-04-27
+* [Commit] [validators_summary: drop PTC cache, compute on demand](https://github.com/ethpandaops/dora/commit/39b03a5413fcadcc52cd026863ea286907729452) - 2026-04-27
+* [Commit] [Merge remote-tracking branch 'origin/master' into bbusa/validators-summary-proposals-ptc](https://github.com/ethpandaops/dora/commit/8e84ed7ce3068c93af51af622941d33675036d58) - 2026-04-27
+* [Commit] [chore: trigger CI](https://github.com/ethpandaops/dora/commit/c14a3b2e0a1b3f6a8829b411d015971c8a39cca3) - 2026-04-27
+* [Commit] [validators_summary: add proposal accuracy & PTC inclusion stats](https://github.com/ethpandaops/dora/commit/35547c60d130085ce182d16964dbe28d7416962c) - 2026-04-27
+* [Commit] [fix: clamp sync committee assigned count to available bits](https://github.com/ethpandaops/dora/commit/bca76262dcc2c852583fea2afc205264ab041199) - 2026-04-27
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -80,6 +88,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Let exits use consolidation queue (EIP-8080)](https://github.com/ethereum/consensus-specs/pull/5116) - 2026-04-16
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129830270) - 2026-04-17
 * [Pull Request] [EIP-8025: make ExecutionEngine highly recommended but optional](https://github.com/ethereum/consensus-specs/pull/5151) - 2026-04-23
+* [Pull Request] [Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177) - 2026-04-27
+* [Commit] [Change minimal `PTC_SIZE` to 16 validators (#5177)](https://github.com/ethereum/consensus-specs/commit/73317f55baf4045b738cb225bea662661fa16304) - 2026-04-27
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [Remove broken update_project_wiki job](https://github.com/ethpandaops/assertoor/pull/156) - 2026-04-09
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/assertoor/pull/155) - 2026-04-09

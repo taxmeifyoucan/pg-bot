@@ -102,6 +102,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26
+* [Commit] [Change proposer preference validator index check to ignore (#5164)](https://github.com/ethereum/consensus-specs/commit/b995cf35e2d90f53b7cbaffe678d4a9604d73593) - 2026-04-27
 ## Q1 2026
 
 

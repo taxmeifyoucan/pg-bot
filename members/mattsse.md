@@ -215,11 +215,28 @@ Team: Reth
 * [Review] [Review on: feat(network): add BAL request e2e coverage](https://github.com/paradigmxyz/reth/pull/23727#pullrequestreview-4177280023) - 2026-04-26
 * [Review] [Review on: fix(cli): warn on failed bootnode resolution instead of silent drop](https://github.com/paradigmxyz/reth/pull/23729#pullrequestreview-4177274638) - 2026-04-26
 * [Review] [Review on: fix(cli): avoid u64 underflow in setup_without_evm for genesis-block header](https://github.com/paradigmxyz/reth/pull/23728#pullrequestreview-4177026524) - 2026-04-26
+* [Review] [Review on: feat(tracing): add `std` feature gate to `reth-tracing` for wasm compatibility](https://github.com/paradigmxyz/reth/pull/23699#pullrequestreview-4179322119) - 2026-04-27
+* [Pull Request] [fix(payload): track Amsterdam block gas in builders](https://github.com/paradigmxyz/reth/pull/23743) - 2026-04-27
+* [Review] [Review on: fix(payload): track Amsterdam block gas in builders](https://github.com/paradigmxyz/reth/pull/23743#pullrequestreview-4181422021) - 2026-04-27
+* [Review] [Review on: chore: bump bal index in right pos(payload validator)](https://github.com/paradigmxyz/reth/pull/23746#pullrequestreview-4181308775) - 2026-04-27
+* [Review] [Review on: perf(db): Pass ExecutedBlocks to OverlayBuilder, reduce reverts queried](https://github.com/paradigmxyz/reth/pull/23657#pullrequestreview-4180615203) - 2026-04-27
+* [Pull Request] [refactor(evm): return gas output from block builder](https://github.com/paradigmxyz/reth/pull/23744) - 2026-04-27
+* [Review] [Review on: feat(rpc): use BAL for transaction replay state](https://github.com/paradigmxyz/reth/pull/23734#pullrequestreview-4179031942) - 2026-04-27
+* [Review] [Review on: feat: external ip when listen addr is unspecified](https://github.com/paradigmxyz/reth/pull/23639#pullrequestreview-4179398194) - 2026-04-27
+* [Review] [Review on: fix(trie): handle inline root nodes in fast path](https://github.com/paradigmxyz/reth/pull/23742#pullrequestreview-4180762146) - 2026-04-27
+* [Review] [Review on: fix(cli): avoid dump-stage setup panics](https://github.com/paradigmxyz/reth/pull/23741#pullrequestreview-4180753992) - 2026-04-27
+* [Review] [Review on: ci: add Amsterdam Hive variant](https://github.com/paradigmxyz/reth/pull/23736#pullrequestreview-4180653361) - 2026-04-27
+* [Review] [Review on: test(bench): cover payload version encoding](https://github.com/paradigmxyz/reth/pull/23739#pullrequestreview-4179641682) - 2026-04-27
+* [Review] [Review on: fix(trie): account for heap-allocated blinded hashes in `SparseNode::memory_size`](https://github.com/paradigmxyz/reth/pull/23726#pullrequestreview-4179057442) - 2026-04-27
+* [Review] [Review on: fix(execution-types): set first_block when extending empty ExecutionOutcome](https://github.com/paradigmxyz/reth/pull/23730#pullrequestreview-4179114401) - 2026-04-27
+* [Commit] [refactor(evm): return gas output from block builder (#23744)](https://github.com/paradigmxyz/reth/commit/aca626110751d4a6e64441419bfed2cc724d6c00) - 2026-04-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
 * [Pull Request] [feat(database): add State::has_bal helper](https://github.com/bluealloy/revm/pull/3604) - 2026-04-23
 * [Commit] [feat(database): add State::has_bal helper (#3604)](https://github.com/bluealloy/revm/commit/5a68bb527be818e963ea468ea4fb2e33d18bd7bb) - 2026-04-23
+* [Pull Request] [fix(state): canonicalize BAL alloy ordering](https://github.com/bluealloy/revm/pull/3618) - 2026-04-27
+* [Commit] [fix(state): canonicalize BAL alloy ordering (#3618)](https://github.com/bluealloy/revm/commit/070b237fd23839690bb0890831319086ea1e4945) - 2026-04-27
 ## Q1 2026
 
 

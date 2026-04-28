@@ -49,11 +49,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Remove impossible branch in forkchoice (#4892)](https://github.com/ethereum/consensus-specs/commit/9648e23ff8ddcc53ad916377b341a53579610c0f) - 2026-04-17
 
 * [Issue] [Several issues with Gloas genesis](https://github.com/ethereum/consensus-specs/issues/5168) - 2026-04-26
+* [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181908895) - 2026-04-27
+* [Review] [Review on: Note voluntary exit selection with deferred payload processing](https://github.com/ethereum/consensus-specs/pull/5176#pullrequestreview-4181899533) - 2026-04-27
+* [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179924448) - 2026-04-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17
 * [Pull Request] [Add EIP: Independent CL/EL Sync](https://github.com/ethereum/EIPs/pull/11557) - 2026-04-22
 * [Review] [Review on: Add EIP: Independent CL/EL Sync](https://github.com/ethereum/EIPs/pull/11557#pullrequestreview-4161218314) - 2026-04-23
+* [Commit] [Add EIP: Independent CL/EL Sync](https://github.com/ethereum/EIPs/commit/92fe4fee9d95859776289bfcb1b2846a3e872661) - 2026-04-27
 ## Q1 2026
 
 

@@ -26,6 +26,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Added .worktrees to .gitignore (#10584)](https://github.com/Consensys/teku/commit/f782f0c315ab385eb4c9067b41fc0b9e81067d85) - 2026-04-21
 * [Commit] [build: support long file names in TAR distribution repackaging (#10582)](https://github.com/Consensys/teku/commit/f68d064a4bafda190d0ccebdbe10a0cdddfad3a2) - 2026-04-21
 * [Review] [Review on: upgrade discovery to 26.4.1](https://github.com/Consensys/teku/pull/10602#pullrequestreview-4167174742) - 2026-04-24
+* [Pull Request] [teku 10451](https://github.com/Consensys/teku/pull/10620) - 2026-04-27
+* [Pull Request] [Using correct getMinEpochsForBlobSidecarsRequests() for blob_by_root range analysis](https://github.com/Consensys/teku/pull/10617) - 2026-04-27
+* [Pull Request] [chore: extend by_root reqresp serve range to match by_range](https://github.com/Consensys/teku/pull/10616) - 2026-04-27
+* [Review] [Review on: add renovatebot to cla](https://github.com/Consensys/teku/pull/10612#pullrequestreview-4178887095) - 2026-04-27
+* [Commit] [Using correct getMinEpochsForBlobSidecarsRequests() for blob_by_root range analysis (#10617)](https://github.com/Consensys/teku/commit/a6733515c31c08e747f89677f643452654cb57ae) - 2026-04-27
+* [Commit] [chore: extend by_root reqresp serve range to match by_range (#10616)](https://github.com/Consensys/teku/commit/7a4aca89b76be10d44edfec7a7de09f9be66c2c6) - 2026-04-27
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
@@ -42,6 +48,18 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Wire per-topic partial-messages SubOpts flags (#444)](https://github.com/libp2p/jvm-libp2p/pull/460) - 2026-04-21
 * [Commit] [Update dependencies (#459)](https://github.com/libp2p/jvm-libp2p/commit/a88d1ed9f060e7ca1bd1cfea41fda703f61b8022) - 2026-04-23
 * [Commit] [Add partial-messages extension design document (#457)](https://github.com/libp2p/jvm-libp2p/commit/b7d836178e9fac4c9ab215496db56bc9f8d4c8d0) - 2026-04-26
+
+* [Pull Request] [Routing: full-message suppression for partial-message peers (step 6)](https://github.com/libp2p/jvm-libp2p/pull/467) - 2026-04-27
+* [Pull Request] [Add partial-messages end-to-end integration test (step 5)](https://github.com/libp2p/jvm-libp2p/pull/466) - 2026-04-27
+* [Pull Request] [Skip CI for documentation-only changes](https://github.com/libp2p/jvm-libp2p/pull/464) - 2026-04-27
+* [Pull Request] [Implement outbound publishPartial (step 4)](https://github.com/libp2p/jvm-libp2p/pull/465) - 2026-04-27
+* [Pull Request] [Update .gitignore to  include .worktrees](https://github.com/libp2p/jvm-libp2p/pull/462) - 2026-04-27
+* [Pull Request] [Implement inbound RPC.partial dispatch (step 3)](https://github.com/libp2p/jvm-libp2p/pull/463) - 2026-04-27
+* [Pull Request] [Add PartialMessagesHandler API and GroupState container (step 2)](https://github.com/libp2p/jvm-libp2p/pull/461) - 2026-04-27
+* [Commit] [Skip CI for documentation-only changes (#464)](https://github.com/libp2p/jvm-libp2p/commit/772b2b0b895eb36b657cc4d1210a29d875bee03f) - 2026-04-27
+* [Commit] [Update .gitignore to  include .worktrees (#462)](https://github.com/libp2p/jvm-libp2p/commit/de6d0ec9634ef427016ce1ef665627f596ff6a9c) - 2026-04-27
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026
 
 

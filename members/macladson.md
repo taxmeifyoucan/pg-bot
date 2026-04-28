@@ -26,6 +26,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Rust 1.95 lints](https://github.com/sigp/lighthouse/pull/9142#pullrequestreview-4124106259) - 2026-04-16
 * [Pull Request] [Fix audit failure for `rustls-webpki`](https://github.com/sigp/lighthouse/pull/9161) - 2026-04-22
 * [Review] [Review on: Avoid lint and fmt for agents](https://github.com/sigp/lighthouse/pull/9166#pullrequestreview-4159890441) - 2026-04-23
+* [Review] [Review on: Add HTTP API spec test to Lighthouse](https://github.com/sigp/lighthouse/pull/8904#pullrequestreview-4182554926) - 2026-04-27
+* [Pull Request] [Fix validator manager compilation](https://github.com/sigp/lighthouse/pull/9187) - 2026-04-27
 ## Q1 2026
 
 
