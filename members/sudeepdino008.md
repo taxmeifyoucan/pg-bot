@@ -121,6 +121,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cmd/utils/app: skip commitment history integrity checks when disabled](https://github.com/erigontech/erigon/pull/20835) - 2026-04-27
 * [Review] [Review on: db/state: simplify DomainLatestIterFile](https://github.com/erigontech/erigon/pull/20817#pullrequestreview-4178926043) - 2026-04-27
 * [Commit] [cmd/utils/app: skip commitment history integrity checks when disabled (#20835)](https://github.com/erigontech/erigon/commit/c0e211f74acaaffa526cd5d26f7c2987e13cde54) - 2026-04-27
+* [Commit] [db/state: fix benchmark comment to reflect O(N) merge behaviour (#20868)](https://github.com/erigontech/erigon/commit/5ab223d6988599a427fe97e852fbd34db1eda554) - 2026-04-28
 ## Q1 2026
 
 

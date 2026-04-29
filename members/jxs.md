@@ -19,6 +19,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4142445947) - 2026-04-20
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4163610955) - 2026-04-23
 * [Review] [Review on: Fix: ipv4/ipv6_contactable metrics never updated](https://github.com/sigp/discv5/pull/300#pullrequestreview-4180115359) - 2026-04-27
+* [Review] [Review on: Fix clippy errors](https://github.com/sigp/discv5/pull/301#pullrequestreview-4187262952) - 2026-04-28
+* [Review] [Review on: fix: restore `&mut` APIs for `PendingEntry`](https://github.com/sigp/discv5/pull/302#pullrequestreview-4189809733) - 2026-04-28
+* [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4187745982) - 2026-04-28
 ## Q4 2025
 
 

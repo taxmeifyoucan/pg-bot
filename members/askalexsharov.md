@@ -400,6 +400,11 @@ Team: Erigon
 * [Commit] [cherry-picks from release/3.4 to main (#20830)](https://github.com/erigontech/erigon/commit/f157dc970cff4490c5bc5b3538634ce3cfdce975) - 2026-04-27
 * [Commit] [db/state: replace Walk callbacks with btree Iter in dirty_files.go (#20745)](https://github.com/erigontech/erigon/commit/5b9971261e79442b0f3737a2e473324f227b7805) - 2026-04-27
 * [Commit] [db/state: simplify DomainLatestIterFile (#20817)](https://github.com/erigontech/erigon/commit/375af180bac2a4f624bd9a8d2cf91a3b1fe7972b) - 2026-04-27
+* [Review] [Review on: db/state: reset reader on recsplit collision retry in SimpleAccessorBuilder](https://github.com/erigontech/erigon/pull/20886#pullrequestreview-4193699653) - 2026-04-29
+* [Review] [Review on: p2p/discover: fix expired matcher iteration in discover reply loop](https://github.com/erigontech/erigon/pull/20869#pullrequestreview-4188580728) - 2026-04-28
+* [Pull Request] [cmd/utils: clarify --snap.skip-state-snapshot-download vs --prune.mode=blocks](https://github.com/erigontech/erigon/pull/20859) - 2026-04-28
+* [Review] [Review on: db/state: extract findMergeRangeInFiles helper](https://github.com/erigontech/erigon/pull/20871#pullrequestreview-4188577182) - 2026-04-28
+* [Commit] [cmd/utils: clarify --snap.skip-state-snapshot-download vs --prune.mode=blocks (#20859)](https://github.com/erigontech/erigon/commit/1124c7d61a7b8386f1a298036e61b91b61a5205f) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

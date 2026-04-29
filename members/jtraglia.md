@@ -146,6 +146,18 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Note voluntary exit selection with deferred payload processing (#5176)](https://github.com/ethereum/consensus-specs/commit/4d099451dd1a251cbc8c3b15273fbb89f9661b24) - 2026-04-27
 * [Commit] [Fix genesis state in Gloas (#5172)](https://github.com/ethereum/consensus-specs/commit/e9f599e899287069aa0d4f368dc0eed68de3292b) - 2026-04-27
 * [Commit] [Test that voluntary exit with withdrawal request fails (#5175)](https://github.com/ethereum/consensus-specs/commit/bb951ff86409fae161c96582ab513069dc5dc57b) - 2026-04-27
+* [Review] [Review on: Add checkpoint root to proposer preferences](https://github.com/ethereum/consensus-specs/pull/5190#pullrequestreview-4192517350) - 2026-04-28
+* [Review] [Review on: Increase exit and consolidation churn (EIP-8061)](https://github.com/ethereum/consensus-specs/pull/5061#pullrequestreview-4186773117) - 2026-04-28
+* [Review] [Review on: Extend light client protocol for Gloas](https://github.com/ethereum/consensus-specs/pull/5178#pullrequestreview-4192172783) - 2026-04-28
+* [Review] [Review on: Remove stale test around `process_builder_pending_payments`](https://github.com/ethereum/consensus-specs/pull/5187#pullrequestreview-4191246450) - 2026-04-28
+* [Pull Request] [Bump version to v1.7.0-alpha.6](https://github.com/ethereum/consensus-specs/pull/5189) - 2026-04-28
+* [Review] [Review on: Update light client test format to emit store forkversion](https://github.com/ethereum/consensus-specs/pull/5188#pullrequestreview-4191118603) - 2026-04-28
+* [Review] [Review on: Let exits use consolidation queue (EIP-8080)](https://github.com/ethereum/consensus-specs/pull/5116#pullrequestreview-4186549237) - 2026-04-28
+* [Review] [Review on: Improve comptests fork choice generator](https://github.com/ethereum/consensus-specs/pull/5147#pullrequestreview-4189417680) - 2026-04-28
+* [Review] [Review on: Make fork digest for pre-fulu epoch compatible across specs](https://github.com/ethereum/consensus-specs/pull/5182#pullrequestreview-4188685399) - 2026-04-28
+* [Review] [Review on: Resolve TODO to not use the hacky testing setup](https://github.com/ethereum/consensus-specs/pull/5184#pullrequestreview-4188398495) - 2026-04-28
+* [Review] [Review on: Add `create_signed_genesis_block` helper](https://github.com/ethereum/consensus-specs/pull/5173#pullrequestreview-4186720800) - 2026-04-28
+* [Commit] [Bump version to v1.7.0-alpha.6 (#5189)](https://github.com/ethereum/consensus-specs/commit/949ddccfec523c7d8ba7b14d54a90d926aaff928) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

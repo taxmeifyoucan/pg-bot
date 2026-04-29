@@ -51,6 +51,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Stateless: Fix empty witness.state nodes case for putSubtrie](https://github.com/status-im/nimbus-eth1/pull/4179) - 2026-04-27
 * [Commit] [Stateless: Fix empty witness.state nodes case for putSubtrie (#4179)](https://github.com/status-im/nimbus-eth1/commit/5e0c044241b8f0087a16adc6848d2070a9dc5f5a) - 2026-04-27
 * [Commit] [Add to witness trie node for collapsed branch surviving sibling (#4177)](https://github.com/status-im/nimbus-eth1/commit/46614cd5066731d7870e4e9054682909ad943b20) - 2026-04-27
+* [Commit] [Stateless: Add emptyRoot shortpaths to fix several issues (#4184)](https://github.com/status-im/nimbus-eth1/commit/1ff033a7a53927949e61da272c1fed902f16bab2) - 2026-04-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

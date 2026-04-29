@@ -40,6 +40,10 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core, trie, triedb: group 2^N binary trie nodes in serialization](https://github.com/ethereum/go-ethereum/pull/34794#pullrequestreview-4171481581) - 2026-04-24
 * [Review] [Review on: core/state: and instead of or](https://github.com/ethereum/go-ethereum/pull/34819#pullrequestreview-4176783073) - 2026-04-26
 * [Review] [Review on: accounts/scwallet: truncate before write](https://github.com/ethereum/go-ethereum/pull/34815#pullrequestreview-4181604038) - 2026-04-27
+* [Pull Request] [cmd/evm/internal/t8ntool, core/state, trie/bintrie: record inserted structure](https://github.com/ethereum/go-ethereum/pull/34843) - 2026-04-28
+* [Review] [Review on: accounts/keystore: enable fsnotify watcher on linux/arm64](https://github.com/ethereum/go-ethereum/pull/34834#pullrequestreview-4189254682) - 2026-04-28
+* [Pull Request] [core/vm: implement stack arena](https://github.com/ethereum/go-ethereum/pull/33960) - 2026-04-28
+* [Commit] [core/vm: implement stack arena (#33960)](https://github.com/ethereum/go-ethereum/commit/4dc7d461556a2ccde3cd6bbe816bd448755a0e07) - 2026-04-28
 ## Q1 2026
 
 

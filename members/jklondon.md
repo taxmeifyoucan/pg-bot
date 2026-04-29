@@ -43,6 +43,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: `erigon seg ls`: show dictionary size on disk and in mem](https://github.com/erigontech/erigon/pull/20790#pullrequestreview-4171057495) - 2026-04-24
 * [Review] [Review on: rpc/mcp: fix tools/call hanging indefinitely under DB load](https://github.com/erigontech/erigon/pull/20778#pullrequestreview-4169612208) - 2026-04-24
 * [Review] [Review on: cp: cherry-pick batch 5 from release/3.4 to main](https://github.com/erigontech/erigon/pull/20759#pullrequestreview-4171059717) - 2026-04-24
+* [Pull Request] [execution, cl: persist initial-cycle lifecycle by block TTL](https://github.com/erigontech/erigon/pull/20895) - 2026-04-28
+* [Issue] [ottersync and exec stages to new prune algo](https://github.com/erigontech/erigon/issues/20858) - 2026-04-28
+* [Issue] [fix prune t/o >2s after restart on ottersync and exec stages](https://github.com/erigontech/erigon/issues/20854) - 2026-04-28
+* [Issue] [add drain readers option to new tx (or rethink)](https://github.com/erigontech/erigon/issues/20855) - 2026-04-28
+* [Issue] [add readers metrics from last mdbx release](https://github.com/erigontech/erigon/issues/20856) - 2026-04-28
+* [Issue] [change prune algo according to new libmdbx range del feature](https://github.com/erigontech/erigon/issues/20857) - 2026-04-28
 ## Q1 2026
 
 

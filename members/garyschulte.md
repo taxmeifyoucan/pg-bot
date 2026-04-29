@@ -20,6 +20,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Review] [Review on: BlockSimulator fix](https://github.com/besu-eth/besu/pull/10251#pullrequestreview-4124510063) - 2026-04-16
 * [Review] [Review on: remove KNOWN_ISSUES.md ](https://github.com/besu-eth/besu/pull/10300#pullrequestreview-4150876303) - 2026-04-21
 * [Review] [Review on: Bonsai archive hybrid](https://github.com/besu-eth/besu/pull/10192#pullrequestreview-4184857564) - 2026-04-27
+* [Review] [Review on: Bound precompile result caches to semantic-prefix slice](https://github.com/besu-eth/besu/pull/10350#pullrequestreview-4191944449) - 2026-04-28
 ## Q1 2026
 
 

@@ -8,6 +8,11 @@ Team: [ethereum/pm](https://github.com/ethereum/pm)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7773: PFI EIP-7979 and EIP-8163](https://github.com/ethereum/EIPs/pull/11574#pullrequestreview-4189208422) - 2026-04-28
 ## Q3 2025
 
 

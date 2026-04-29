@@ -32,6 +32,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: add renovatebot to cla](https://github.com/Consensys/teku/pull/10612#pullrequestreview-4178887095) - 2026-04-27
 * [Commit] [Using correct getMinEpochsForBlobSidecarsRequests() for blob_by_root range analysis (#10617)](https://github.com/Consensys/teku/commit/a6733515c31c08e747f89677f643452654cb57ae) - 2026-04-27
 * [Commit] [chore: extend by_root reqresp serve range to match by_range (#10616)](https://github.com/Consensys/teku/commit/7a4aca89b76be10d44edfec7a7de09f9be66c2c6) - 2026-04-27
+* [Review] [Review on: publish to maven-central as well as cloudsmith](https://github.com/Consensys/teku/pull/10576#pullrequestreview-4186557350) - 2026-04-28
+* [Pull Request] [Fix ArithmeticException for builder-indexed voluntary exits in MappedOperationPool](https://github.com/Consensys/teku/pull/10632) - 2026-04-28
+* [Pull Request] [Add integration tests for ExecutionPayloadEnvelopesByRangeV1 and ExecutionPayloadEnvelopesByRootV1](https://github.com/Consensys/teku/pull/10631) - 2026-04-28
+* [Pull Request] [Extend by_root reqresp serve range to match by_range](https://github.com/Consensys/teku/pull/10627) - 2026-04-28
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
@@ -58,6 +62,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Add PartialMessagesHandler API and GroupState container (step 2)](https://github.com/libp2p/jvm-libp2p/pull/461) - 2026-04-27
 * [Commit] [Skip CI for documentation-only changes (#464)](https://github.com/libp2p/jvm-libp2p/commit/772b2b0b895eb36b657cc4d1210a29d875bee03f) - 2026-04-27
 * [Commit] [Update .gitignore to  include .worktrees (#462)](https://github.com/libp2p/jvm-libp2p/commit/de6d0ec9634ef427016ce1ef665627f596ff6a9c) - 2026-04-27
+* [Pull Request] [Gossipsub partial messages — mixed-peer interop test + simulator scenario (step 10)](https://github.com/libp2p/jvm-libp2p/pull/471) - 2026-04-28
+* [Pull Request] [Implement IHAVE replacement with onEmitGossip for partial-message peers (step 9)](https://github.com/libp2p/jvm-libp2p/pull/470) - 2026-04-28
+* [Pull Request] [Wire heartbeat TTL GC and cleanup hooks for partial messages (step 8)](https://github.com/libp2p/jvm-libp2p/pull/469) - 2026-04-28
+* [Pull Request] [Implement IDONTWANT suppression for partial-message peers (step 7)](https://github.com/libp2p/jvm-libp2p/pull/468) - 2026-04-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

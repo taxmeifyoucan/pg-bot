@@ -17,6 +17,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Pull Request] [feat(beacon-node): run consensus-specs fork-choice compliance tests](https://github.com/ChainSafe/lodestar/pull/9290) - 2026-04-27
 
+* [Review] [Review on: feat(beacon-node): run consensus-specs fork-choice compliance tests](https://github.com/ChainSafe/lodestar/pull/9290#pullrequestreview-4187126110) - 2026-04-28
+* [Issue] [compliance fork-choice tests: gloas SSZ types diverge from consensus-specs master](https://github.com/ChainSafe/lodestar/issues/9295) - 2026-04-28
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Wire fork-choice compliance test suites](https://github.com/Consensys/teku/pull/10621) - 2026-04-27
 
@@ -25,6 +27,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [spectest: wire fork-choice compliance suites ](https://github.com/OffchainLabs/prysm/pull/16724) - 2026-04-27
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [wire fork-choice compliance test data](https://github.com/status-im/nimbus-eth2/pull/8355) - 2026-04-28
+* [Review] [Review on: wire fork-choice compliance test data](https://github.com/status-im/nimbus-eth2/pull/8355#pullrequestreview-4190155283) - 2026-04-28
 ## Q1 2026
 
 

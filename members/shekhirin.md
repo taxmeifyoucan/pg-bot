@@ -70,6 +70,16 @@ Team: Reth
 * [Commit] [ci: add Amsterdam Hive variant (#23736)](https://github.com/paradigmxyz/reth/commit/d4ca2e2687dab5fa7f38e70325b9a476f9172c83) - 2026-04-27
 * [Commit] [perf(docker): add platform-specific RUSTFLAGS to Dockerfile (#23738)](https://github.com/paradigmxyz/reth/commit/e5e0abb47e48c51a838d657029507459b26cb881) - 2026-04-27
 * [Commit] [fix(storage): `reth db migrate-v2` for pruned nodes (#23716)](https://github.com/paradigmxyz/reth/commit/db17c899c311867ac1adbbe7295a83bd463353c7) - 2026-04-27
+* [Review] [Review on: feat(engine): add BAL parallel execution primitives](https://github.com/paradigmxyz/reth/pull/23783#pullrequestreview-4190069487) - 2026-04-28
+* [Review] [Review on: ci: harden supply chain across all workflows](https://github.com/paradigmxyz/reth/pull/23785#pullrequestreview-4190136460) - 2026-04-28
+* [Pull Request] [feat(engine): return error on too deep reorg](https://github.com/paradigmxyz/reth/pull/23784) - 2026-04-28
+* [Review] [Review on: fix(bench): run feature first in GitHub workflow](https://github.com/paradigmxyz/reth/pull/23777#pullrequestreview-4189925148) - 2026-04-28
+* [Pull Request] [[DO NOT MERGE] BAL devnet 5](https://github.com/paradigmxyz/reth/pull/23780) - 2026-04-28
+* [Pull Request] [deps: bump alloy-evm to 0.33.3](https://github.com/paradigmxyz/reth/pull/23778) - 2026-04-28
+* [Commit] [deps: bump alloy-evm to 0.33.3 (#23778)](https://github.com/paradigmxyz/reth/commit/a8fc13dc25a7b33c6723e2d289d13f8ac546abd8) - 2026-04-28
+* [Commit] [feat(engine): disable BAL storage prefetch on CLI arg (#23770)](https://github.com/paradigmxyz/reth/commit/b04346ffe5e52393551d6c67f933eb2b0f387f24) - 2026-04-28
+* [Commit] [ci(hive): ignore more EIP-7610 tests (#23769)](https://github.com/paradigmxyz/reth/commit/674623f14ec584cdf943c0a86fecb0306d046f10) - 2026-04-28
+* [Commit] [ci(hive): tag Reth image correctly and update fixtures (#23765)](https://github.com/paradigmxyz/reth/commit/af6d20b5ea21874c682b8ffb1cfb23fb8dee4ce1) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

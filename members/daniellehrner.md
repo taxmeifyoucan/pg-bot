@@ -72,6 +72,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Restrict no-reorg to the prefix of known finalized](https://github.com/besu-eth/besu/pull/10335) - 2026-04-27
 * [Pull Request] [fix cpsb to 1173 for amsterdam](https://github.com/besu-eth/besu/pull/10334) - 2026-04-27
 * [Review] [Review on: fix cpsb to 1173 for amsterdam](https://github.com/besu-eth/besu/pull/10334#pullrequestreview-4180987368) - 2026-04-27
+* [Review] [Review on: Restrict no-reorg to the prefix of known finalized](https://github.com/besu-eth/besu/pull/10335#pullrequestreview-4190299814) - 2026-04-28
+* [Pull Request] [Merge latest main into bal-devnet-3](https://github.com/besu-eth/besu/pull/10345) - 2026-04-28
+* [Commit] [Restrict no-reorg to the prefix of known finalized (#10335)](https://github.com/besu-eth/besu/commit/29946563a75b8919421c141d752394acc18028f7) - 2026-04-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

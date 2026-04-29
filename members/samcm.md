@@ -17,6 +17,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23
+
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Review] [Review on: Add validation for validator start and end ranges](https://github.com/ethpandaops/template-devnets/pull/164#pullrequestreview-4193596946) - 2026-04-29
 ## Q1 2026
 
 

@@ -19,6 +19,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: remove unnecessary check that a peer has the dao block](https://github.com/besu-eth/besu/pull/10244#pullrequestreview-4118704880) - 2026-04-16
 * [Review] [Review on: Flaky BackwardSyncContextTest: remove broken Awaitility pattern](https://github.com/besu-eth/besu/pull/10303#pullrequestreview-4159071365) - 2026-04-23
 * [Pull Request] [Use discoveryV5 in unit and acceptance tests](https://github.com/besu-eth/besu/pull/10337) - 2026-04-28
+* [Commit] [Use discoveryV5 in unit and acceptance tests (#10337)](https://github.com/besu-eth/besu/commit/9cfd1e07bef9b8fd36606501b895272a5022d874) - 2026-04-29
+* [Commit] [Remove peer task system feature toggle from ForwardSyncStep (#10197)](https://github.com/besu-eth/besu/commit/4e6f4b6b826d6a1e81815acb20077b13827e172c) - 2026-04-28
 ## Q1 2026
 
 

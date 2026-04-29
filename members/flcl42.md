@@ -83,6 +83,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Align EIP-7928 BlockAccessIndex with uint32 spec, add validation](https://github.com/NethermindEth/nethermind/pull/11362#pullrequestreview-4179123644) - 2026-04-27
 * [Review] [Review on: Reorg up to lastFinalized block](https://github.com/NethermindEth/nethermind/pull/11354#pullrequestreview-4180428617) - 2026-04-27
 * [Review] [Review on: revert: do not skip balance validation in eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/11368#pullrequestreview-4180228278) - 2026-04-27
+* [Pull Request] [Refine runner configs; activate discovery](https://github.com/NethermindEth/nethermind/pull/11384) - 2026-04-28
+* [Review] [Review on: eth/71](https://github.com/NethermindEth/nethermind/pull/10844#pullrequestreview-4188141929) - 2026-04-28
+* [Review] [Review on: feat(state): persist FlatLayout and refuse mismatched restarts](https://github.com/NethermindEth/nethermind/pull/11271#pullrequestreview-4188162206) - 2026-04-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

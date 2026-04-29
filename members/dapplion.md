@@ -26,9 +26,15 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Deprecate gossip blobs](https://github.com/sigp/lighthouse/pull/9126#pullrequestreview-4157426482) - 2026-04-22
 * [Review] [Review on: Gloas ptc duties beacon node response](https://github.com/sigp/lighthouse/pull/8415#pullrequestreview-4177062139) - 2026-04-26
 * [Review] [Review on: Gloas set `AttestationData.index` ](https://github.com/sigp/lighthouse/pull/9100#pullrequestreview-4176954635) - 2026-04-26
+* [Review] [Review on: Gloas HTTP API tests passing](https://github.com/sigp/lighthouse/pull/9154#pullrequestreview-4189347185) - 2026-04-28
+* [Review] [Review on: Gloas publish data columns during local block building](https://github.com/sigp/lighthouse/pull/9182#pullrequestreview-4186754166) - 2026-04-28
+* [Review] [Review on: Gloas filter conflicting voluntary exits](https://github.com/sigp/lighthouse/pull/9183#pullrequestreview-4188619456) - 2026-04-28
+* [Review] [Review on: Wire up ePBS SSE events and fix envelope availability](https://github.com/sigp/lighthouse/pull/9199#pullrequestreview-4187048783) - 2026-04-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 
+* [Pull Request] [Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181) - 2026-04-28
+* [Pull Request] [Add `beacon_block_headers_by_root` req/resp on Gloas](https://github.com/ethereum/consensus-specs/pull/5179) - 2026-04-28
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4181435690) - 2026-04-27
 ## Q1 2026

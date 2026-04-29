@@ -35,6 +35,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: fix: bal bug in unify tx validation](https://github.com/status-im/nimbus-eth1/pull/4173#pullrequestreview-4168816235) - 2026-04-24
 * [Review] [Review on: devp2p eth/71 fixes and tests](https://github.com/status-im/nimbus-eth1/pull/4172#pullrequestreview-4169007418) - 2026-04-24
 * [Pull Request] [Reduce XDeclaredButNotUsed warnings and other warnings](https://github.com/status-im/nimbus-eth1/pull/4178) - 2026-04-27
+* [Pull Request] [Fix nightly build](https://github.com/status-im/nimbus-eth1/pull/4187) - 2026-04-29
+* [Commit] [Reduce XDeclaredButNotUsed warnings and other warnings (#4178)](https://github.com/status-im/nimbus-eth1/commit/7bd94ad70bbd9bffc10065530e7fe46c7f05885e) - 2026-04-28
 ## Q1 2026
 
 

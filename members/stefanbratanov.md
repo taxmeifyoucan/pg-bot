@@ -48,6 +48,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Focil](https://github.com/Consensys/teku/pull/10618) - 2026-04-27
 * [Review] [Review on: Using correct getMinEpochsForBlobSidecarsRequests() for blob_by_root range analysis](https://github.com/Consensys/teku/pull/10617#pullrequestreview-4180269734) - 2026-04-27
 * [Review] [Review on: chore: extend by_root reqresp serve range to match by_range](https://github.com/Consensys/teku/pull/10616#pullrequestreview-4179847666) - 2026-04-27
+* [Pull Request] [glamsterdam-devnet-0](https://github.com/Consensys/teku/pull/10626) - 2026-04-28
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

@@ -44,6 +44,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [Update/1.37.1 missing prs](https://github.com/NethermindEth/nethermind/pull/11377) - 2026-04-27
 * [Review] [Review on: Quicknode fix](https://github.com/NethermindEth/nethermind/pull/11376#pullrequestreview-4183383806) - 2026-04-27
 * [Review] [Review on: feat: integrate Grafana Alloy and Loki for metrics and logging](https://github.com/NethermindEth/nethermind/pull/11189#pullrequestreview-4181148056) - 2026-04-27
+* [Review] [Review on: fix: remove broken backlog warning in AsyncFileWriteQueue](https://github.com/NethermindEth/nethermind/pull/11386#pullrequestreview-4193095471) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

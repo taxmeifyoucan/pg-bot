@@ -230,6 +230,17 @@ Team: Reth
 * [Review] [Review on: fix(trie): account for heap-allocated blinded hashes in `SparseNode::memory_size`](https://github.com/paradigmxyz/reth/pull/23726#pullrequestreview-4179057442) - 2026-04-27
 * [Review] [Review on: fix(execution-types): set first_block when extending empty ExecutionOutcome](https://github.com/paradigmxyz/reth/pull/23730#pullrequestreview-4179114401) - 2026-04-27
 * [Commit] [refactor(evm): return gas output from block builder (#23744)](https://github.com/paradigmxyz/reth/commit/aca626110751d4a6e64441419bfed2cc724d6c00) - 2026-04-27
+* [Review] [Review on: feat: introduce memory-bound channel for network<->tx manager messages](https://github.com/paradigmxyz/reth/pull/23802#pullrequestreview-4192378182) - 2026-04-28
+* [Review] [Review on: feat(engine): add BAL parallel execution primitives](https://github.com/paradigmxyz/reth/pull/23783#pullrequestreview-4190168796) - 2026-04-28
+* [Review] [Review on: ci: harden supply chain across all workflows](https://github.com/paradigmxyz/reth/pull/23785#pullrequestreview-4190136436) - 2026-04-28
+* [Review] [Review on: feat: support binding discv5 and discv4 to the same port](https://github.com/paradigmxyz/reth/pull/23613#pullrequestreview-4189044858) - 2026-04-28
+* [Pull Request] [test(rpc): cover admin node info discv5 port](https://github.com/paradigmxyz/reth/pull/23781) - 2026-04-28
+* [Review] [Review on: deps: bump alloy-evm to 0.33.3](https://github.com/paradigmxyz/reth/pull/23778#pullrequestreview-4189321091) - 2026-04-28
+* [Review] [Review on: fix(net): apply count cap to BlockAccessLists request handler](https://github.com/paradigmxyz/reth/pull/23754#pullrequestreview-4186770703) - 2026-04-28
+* [Review] [Review on: feat(net): enable ETH70 by default (#23771)](https://github.com/paradigmxyz/reth/pull/23772#pullrequestreview-4188602445) - 2026-04-28
+* [Commit] [test(rpc): cover admin node info discv5 port (#23781)](https://github.com/paradigmxyz/reth/commit/473f85c558cd8b3fa8743408f71fe412b36524ee) - 2026-04-28
+* [Commit] [fix(payload): track Amsterdam block gas in builders (#23743)](https://github.com/paradigmxyz/reth/commit/4c1f6b65078b254f9561b6d96644a37ac277796e) - 2026-04-28
+* [Commit] [perf(engine): spawn BAL hashed state before storage prefetch (#23761)](https://github.com/paradigmxyz/reth/commit/5b10e03c5cd6d4f1b6176a18bb53fbeb86622950) - 2026-04-28
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -237,6 +248,11 @@ Team: Reth
 * [Commit] [feat(database): add State::has_bal helper (#3604)](https://github.com/bluealloy/revm/commit/5a68bb527be818e963ea468ea4fb2e33d18bd7bb) - 2026-04-23
 * [Pull Request] [fix(state): canonicalize BAL alloy ordering](https://github.com/bluealloy/revm/pull/3618) - 2026-04-27
 * [Commit] [fix(state): canonicalize BAL alloy ordering (#3618)](https://github.com/bluealloy/revm/commit/070b237fd23839690bb0890831319086ea1e4945) - 2026-04-27
+* [Review] [Review on: chore: update alloy-eip7928 to newer version](https://github.com/bluealloy/revm/pull/3627#pullrequestreview-4189019528) - 2026-04-28
+* [Pull Request] [chore(deps): bump alloy-eip7928 to 0.4](https://github.com/bluealloy/revm/pull/3623) - 2026-04-28
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
 ## Q1 2026
 
 

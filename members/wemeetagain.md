@@ -20,6 +20,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(build): remove windows as one of the targets in zapi](https://github.com/ChainSafe/lodestar-z/pull/325#pullrequestreview-4172194238) - 2026-04-24
 * [Review] [Review on: fix(deps): update hashtree and blst.zig](https://github.com/ChainSafe/lodestar-z/pull/326#pullrequestreview-4172325173) - 2026-04-24
 * [Review] [Review on: chore: upgrade to Zig 0.16](https://github.com/ChainSafe/lodestar-z/pull/319#pullrequestreview-4171617205) - 2026-04-24
+* [Review] [Review on: chore: move state clones out of benchmark run functions](https://github.com/ChainSafe/lodestar-z/pull/324#pullrequestreview-4192200160) - 2026-04-28
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -49,8 +50,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: wire in PTC duties (#9287)](https://github.com/ChainSafe/lodestar/commit/549a5b8115996f5e769ad899c33b8d0252dd376b) - 2026-04-27
 * [Commit] [fix: call fcu in importExecutionPayload (#9285)](https://github.com/ChainSafe/lodestar/commit/4358217e121ba31f0a3f8284bb17fd260f6a7ae7) - 2026-04-27
 * [Commit] [feat: include payload attestations when producing block (#9283)](https://github.com/ChainSafe/lodestar/commit/23543891dfe0ddb8e4b53f009863a6996cc02246) - 2026-04-27
+* [Pull Request] [fix: queue payload envelopes in network processor](https://github.com/ChainSafe/lodestar/pull/9300) - 2026-04-28
+* [Review] [Review on: fix: queue payload envelopes in network processor](https://github.com/ChainSafe/lodestar/pull/9300#pullrequestreview-4192289607) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Track nay PTC votes](https://github.com/ethereum/consensus-specs/pull/5180) - 2026-04-28
+* [Review] [Review on: Extend light client protocol for Gloas](https://github.com/ethereum/consensus-specs/pull/5178#pullrequestreview-4190391863) - 2026-04-28
 ## Q1 2026
 
 

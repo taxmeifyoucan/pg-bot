@@ -70,6 +70,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(doc): usefully sort diff directory listings](https://github.com/ethereum/execution-specs/pull/2756#pullrequestreview-4177292361) - 2026-04-26
 * [Review] [Review on: fix(tooling,ci): collect filled fixtures in json-loader pytest step](https://github.com/ethereum/execution-specs/pull/2754#pullrequestreview-4177076097) - 2026-04-26
 * [Review] [Review on: feat(test-tools): t8n file streaming optimizations](https://github.com/ethereum/execution-specs/pull/2751#pullrequestreview-4181558406) - 2026-04-27
+* [Pull Request] [chore(tests): cap `test_selfdestruct_after_create2_collision` at Osaka](https://github.com/ethereum/execution-specs/pull/2777) - 2026-04-28
+* [Pull Request] [feat(docs,ci): enable docs build and publishing for the `mainnet` branch](https://github.com/ethereum/execution-specs/pull/2775) - 2026-04-28
+* [Pull Request] [fix(ci): redirect Go caches to a per-job temp dir](https://github.com/ethereum/execution-specs/pull/2774) - 2026-04-28
+* [Pull Request] [fix(ci): install build deps in hive-consume dev mode](https://github.com/ethereum/execution-specs/pull/2773) - 2026-04-28
+* [Review] [Review on: feat(doc): sort fork directory listings chronologically](https://github.com/ethereum/execution-specs/pull/2756#pullrequestreview-4187583179) - 2026-04-28
+* [Review] [Review on: feat(test-tools): t8n file streaming optimizations](https://github.com/ethereum/execution-specs/pull/2751#pullrequestreview-4187323767) - 2026-04-28
+* [Commit] [fix(ci): install build deps in hive-consume dev mode (#2773)](https://github.com/ethereum/execution-specs/commit/6333758e404889469abfed22a3028fa0eb459520) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 ## Q1 2026

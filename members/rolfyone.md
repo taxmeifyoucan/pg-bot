@@ -38,6 +38,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Update 3rd party libraries (#10583)](https://github.com/Consensys/teku/commit/a8a78fc4809ae8b80198c8c30b20c9fb2323c7cf) - 2026-04-21
 * [Review] [Review on: Using correct getMinEpochsForBlobSidecarsRequests() for blob_by_root range analysis](https://github.com/Consensys/teku/pull/10617#pullrequestreview-4180727323) - 2026-04-27
 
+* [Review] [Review on: Fix genesis state in Gloas](https://github.com/Consensys/teku/pull/10615#pullrequestreview-4188793713) - 2026-04-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

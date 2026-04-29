@@ -39,6 +39,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(evm_tools): avoid cloning unchanged fork template in ForkCache](https://github.com/ethereum/execution-specs/pull/2738#pullrequestreview-4156626281) - 2026-04-22
 * [Review] [Review on: Replace `Uint(len(...))` with `ulen(...)`](https://github.com/ethereum/execution-specs/pull/2580#pullrequestreview-4156229161) - 2026-04-22
 * [Commit] [Replace `Uint(len(...))` with `ulen(...)` (#2580)](https://github.com/ethereum/execution-specs/commit/6f43bc6fb36852f48de008e8ddd7374ee3cfe86c) - 2026-04-22
+* [Pull Request] [feat(doc): sort fork directory listings chronologically](https://github.com/ethereum/execution-specs/pull/2756) - 2026-04-28
+* [Commit] [feat(doc): sort fork directory listings chronologically (#2756)](https://github.com/ethereum/execution-specs/commit/78fe5d2cdf5481ae4fbd2c69305eff10599f884f) - 2026-04-28
 ## Q1 2026
 
 

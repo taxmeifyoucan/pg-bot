@@ -27,6 +27,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Gate final-version docker tags on release publish, not draft](https://github.com/besu-eth/besu/pull/10306#pullrequestreview-4157274289) - 2026-04-22
 * [Pull Request] [agent skill for executing besu releases](https://github.com/besu-eth/besu/pull/10320) - 2026-04-23
 
+* [Pull Request] [CHANGELOG: prep for 26.5.0](https://github.com/besu-eth/besu/pull/10355) - 2026-04-29
+* [Review] [Review on: Lazy get block bodies message decoding](https://github.com/besu-eth/besu/pull/10342#pullrequestreview-4189526495) - 2026-04-28
+* [Pull Request] [Bound precompile result caches to semantic-prefix slice](https://github.com/besu-eth/besu/pull/10350) - 2026-04-28
+* [Review] [Review on: Log4j CVE fix](https://github.com/besu-eth/besu/pull/10332#pullrequestreview-4190383852) - 2026-04-28
+* [Commit] [Bound precompile result caches to semantic-prefix slice (#10350)](https://github.com/besu-eth/besu/commit/91796a19d85d124bf7ce623e153e03c5234a842b) - 2026-04-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 ## Q1 2026

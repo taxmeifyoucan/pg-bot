@@ -49,6 +49,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix spurious re-org logs on ePBS payload status changes](https://github.com/sigp/lighthouse/pull/9191#pullrequestreview-4185100641) - 2026-04-28
 * [Review] [Review on: Add payload attestation to op pool and pack into block](https://github.com/sigp/lighthouse/pull/9180#pullrequestreview-4185075923) - 2026-04-28
 * [Review] [Review on: fix: gloas from genesis](https://github.com/sigp/lighthouse/pull/9190#pullrequestreview-4185061441) - 2026-04-28
+* [Pull Request] [Update proposer boost calculation](https://github.com/sigp/lighthouse/pull/9215) - 2026-04-29
+* [Pull Request] [Send correct payload hashes for safe/finalized in fcU](https://github.com/sigp/lighthouse/pull/9204) - 2026-04-28
+* [Review] [Review on: Fix spurious re-org logs on ePBS payload status changes](https://github.com/sigp/lighthouse/pull/9191#pullrequestreview-4186747180) - 2026-04-28
+* [Issue] [Better storage for historical blobs](https://github.com/sigp/lighthouse/issues/9214) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

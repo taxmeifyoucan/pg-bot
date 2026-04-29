@@ -31,6 +31,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Cache random_bytes in compute_balance_weighted_selection (#16708)](https://github.com/OffchainLabs/prysm/commit/cc484f8752da94cc60b2ecec566ffbdb1cd936d0) - 2026-04-22
 * [Review] [Review on: stateless block v4](https://github.com/OffchainLabs/prysm/pull/16699#pullrequestreview-4161657453) - 2026-04-23
 * [Pull Request] [Cache empty execution requests root](https://github.com/OffchainLabs/prysm/pull/16725) - 2026-04-27
+* [Pull Request] [Fix data column sidecar topic label in p2p_topic_peer_count](https://github.com/OffchainLabs/prysm/pull/16727) - 2026-04-28
+* [Review] [Review on: `getFCUArgs`: Add early return for forkchoice update arguments in non-regular sync.](https://github.com/OffchainLabs/prysm/pull/16721#pullrequestreview-4187497522) - 2026-04-28
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

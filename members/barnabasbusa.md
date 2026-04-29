@@ -66,6 +66,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore: trigger CI](https://github.com/ethpandaops/dora/commit/c14a3b2e0a1b3f6a8829b411d015971c8a39cca3) - 2026-04-27
 * [Commit] [validators_summary: add proposal accuracy & PTC inclusion stats](https://github.com/ethpandaops/dora/commit/35547c60d130085ce182d16964dbe28d7416962c) - 2026-04-27
 * [Commit] [fix: clamp sync committee assigned count to available bits](https://github.com/ethpandaops/dora/commit/bca76262dcc2c852583fea2afc205264ab041199) - 2026-04-27
+* [Review] [Review on: show ptc votes even when duties are pruned (after 2 epochs)](https://github.com/ethpandaops/dora/pull/662#pullrequestreview-4192247139) - 2026-04-28
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -133,6 +134,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: rework ipv6 setup](https://github.com/ethpandaops/template-devnets/pull/159#pullrequestreview-4119656167) - 2026-04-16
 * [Pull Request] [feat: add HackMD sync helper](https://github.com/ethpandaops/template-devnets/pull/160) - 2026-04-17
 
+* [Pull Request] [Add validation for validator start and end ranges](https://github.com/ethpandaops/template-devnets/pull/164) - 2026-04-29
+* [Pull Request] [chore: fail playbook if devnet_name is still "template"](https://github.com/ethpandaops/template-devnets/pull/163) - 2026-04-28
+* [Review] [Review on: Update default syncoor Docker image in workflow YAML](https://github.com/ethpandaops/template-devnets/pull/161#pullrequestreview-4193239295) - 2026-04-28
+* [Pull Request] [chore: bump mitogen to 0.3.43](https://github.com/ethpandaops/template-devnets/pull/162) - 2026-04-28
+* [Commit] [Add validation for validator start and end ranges (#164)](https://github.com/ethpandaops/template-devnets/commit/3e00076a920be228764f4cfebe0cfd33f1ddfd35) - 2026-04-29
+* [Commit] [chore: fail playbook if devnet_name is still "template" (#163)](https://github.com/ethpandaops/template-devnets/commit/be356d01771fe9a3dd2bb7425186199fca9ffb45) - 2026-04-28
+* [Commit] [chore: bump mitogen to 0.3.43 (#162)](https://github.com/ethpandaops/template-devnets/commit/8860712f5fca47fef8297da9d616b74f3a0a6ff5) - 2026-04-28
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
 * [Pull Request] [core/txpool: report actual 110% threshold in intrinsic gas error](https://github.com/ethereum/go-ethereum/pull/34782) - 2026-04-21
@@ -144,6 +152,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [miner: supply a slot number when synthesising pending block post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/34791) - 2026-04-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Pin Docker base image to debian:trixie-slim; add ca-certificates](https://github.com/status-im/nimbus-eth2/pull/8310) - 2026-04-21
+
+[ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
+* [Pull Request] [feat(discovery/clients): add ethrex to default execution clients](https://github.com/ethpandaops/cartographoor/pull/89) - 2026-04-28
+* [Commit] [Merge pull request #89 from ethpandaops/bbusa/add-ethrex-to-discovery](https://github.com/ethpandaops/cartographoor/commit/2e02857de6b1f8b012fa45ed8760f19dcc93c8d5) - 2026-04-28
+* [Commit] [feat(discovery/clients): add ethrex to default execution clients](https://github.com/ethpandaops/cartographoor/commit/0d50528b5b448237596d0f5d02b94e343e2133a3) - 2026-04-28
 ## Q1 2026
 
 

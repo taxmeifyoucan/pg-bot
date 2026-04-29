@@ -78,6 +78,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [ci: set LLVM_PROFILE_FILE per run in ethereum-tests job](https://github.com/ipsilon/evmone/pull/1513) - 2026-04-24
 * [Commit] [ci: Don't run legacy state tests (#1512)](https://github.com/ipsilon/evmone/commit/ff942e2a385232a2b2813b73e488fe63f8490ec5) - 2026-04-24
 * [Commit] [ci: set LLVM_PROFILE_FILE per run in ethereum-tests job (#1513)](https://github.com/ipsilon/evmone/commit/14fbedcfa2c3b9faa4020738d6c637cf62cadd9d) - 2026-04-24
+* [Pull Request] [CodeAnalysis: merge raw_code/executable_code into code()](https://github.com/ipsilon/evmone/pull/1516) - 2026-04-28
+* [Pull Request] [evmc: Drop EOFCREATE (EOF leftover)](https://github.com/ipsilon/evmone/pull/1515) - 2026-04-28
+* [Pull Request] [evmc: Drop tx initcodes (TXCREATE leftover)](https://github.com/ipsilon/evmone/pull/1514) - 2026-04-28
+* [Commit] [evmc: Drop EOFCREATE (EOF leftover) (#1515)](https://github.com/ipsilon/evmone/commit/3d0336c20ad14cde62ff4d51f2726e7982e39f8c) - 2026-04-28
+* [Commit] [evmc: Drop tx initcodes (TXCREATE leftover) (#1514)](https://github.com/ipsilon/evmone/commit/d3771ce767c2ccbf5332ec658c04d8407c029987) - 2026-04-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10

@@ -29,6 +29,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: add DIV MOD SMOD SDIV impls to EVM V2](https://github.com/besu-eth/besu/pull/10318#pullrequestreview-4169498882) - 2026-04-24
 * [Commit] [add DIV MOD SMOD SDIV impls to EVM V2 (#10318)](https://github.com/besu-eth/besu/commit/dc4cb93d003f917792dfc892fcefed2dd66c1d06) - 2026-04-25
 * [Review] [Review on: fix cpsb to 1173 for amsterdam](https://github.com/besu-eth/besu/pull/10334#pullrequestreview-4181408011) - 2026-04-27
+* [Review] [Review on: bal-devnet-3 - Improve BAL account and storage slots sorting](https://github.com/besu-eth/besu/pull/10351#pullrequestreview-4192307586) - 2026-04-28
+* [Review] [Review on: Add --verbose to evmtool block-test, default off](https://github.com/besu-eth/besu/pull/10348#pullrequestreview-4190500025) - 2026-04-28
+* [Review] [Review on: Merge latest main into bal-devnet-3](https://github.com/besu-eth/besu/pull/10345#pullrequestreview-4190149857) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088219054) - 2026-04-10
 ## Q1 2026

@@ -34,6 +34,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Gloas publish data columns during local block building](https://github.com/sigp/lighthouse/pull/9182#pullrequestreview-4181923776) - 2026-04-27
 * [Review] [Review on: Add payload attestation validator duty](https://github.com/sigp/lighthouse/pull/9178#pullrequestreview-4179842564) - 2026-04-27
 * [Review] [Review on: Gloas `PayloadAttestation` gossip verification](https://github.com/sigp/lighthouse/pull/9145#pullrequestreview-4179074491) - 2026-04-27
+* [Review] [Review on: Gossip reprocessed payload envelopes that are timely](https://github.com/sigp/lighthouse/pull/9210#pullrequestreview-4192484644) - 2026-04-28
+* [Review] [Review on: implement gloas data column verification](https://github.com/sigp/lighthouse/pull/9202#pullrequestreview-4190242337) - 2026-04-28
+* [Review] [Review on: Gloas HTTP API tests passing](https://github.com/sigp/lighthouse/pull/9154#pullrequestreview-4190101662) - 2026-04-28
+* [Pull Request] [Wire up ePBS SSE events and fix envelope availability](https://github.com/sigp/lighthouse/pull/9199) - 2026-04-28
+* [Review] [Review on: Fix spurious re-org logs on ePBS payload status changes](https://github.com/sigp/lighthouse/pull/9191#pullrequestreview-4186692810) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026

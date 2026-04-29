@@ -54,6 +54,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Revamp newPayload calls to enable light client based flow](https://github.com/status-im/nimbus-eth2/pull/8329) - 2026-04-23
 * [Pull Request] [Add gindex constants for Gloas light client](https://github.com/status-im/nimbus-eth2/pull/8327) - 2026-04-23
 * [Pull Request] [Extend light client test coverage with finalityUpdate checks](https://github.com/status-im/nimbus-eth2/pull/8325) - 2026-04-23
+* [Pull Request] [Add LightClientDataFork.Gloas](https://github.com/status-im/nimbus-eth2/pull/8363) - 2026-04-28
+* [Pull Request] [Fix blob_data_available: false on every PTC vote](https://github.com/status-im/nimbus-eth2/pull/8362) - 2026-04-28
+* [Pull Request] [Remove deprecated libnimbus_lc APIs](https://github.com/status-im/nimbus-eth2/pull/8360) - 2026-04-28
+* [Pull Request] [Fix compile for recent nim-ssz bump](https://github.com/status-im/nimbus-eth2/pull/8361) - 2026-04-28
+* [Pull Request] [Update LC sync test to track store fork via version instead of digest](https://github.com/status-im/nimbus-eth2/pull/8359) - 2026-04-28
+* [Pull Request] [Add Gloas light client containers](https://github.com/status-im/nimbus-eth2/pull/8354) - 2026-04-28
+* [Pull Request] [Move is_valid_normalized_merkle_branch to Electra](https://github.com/status-im/nimbus-eth2/pull/8350) - 2026-04-28
+* [Pull Request] [Update light client Gloas proof constants](https://github.com/status-im/nimbus-eth2/pull/8352) - 2026-04-28
+* [Pull Request] [Update light client test schedules for Gloas](https://github.com/status-im/nimbus-eth2/pull/8351) - 2026-04-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
@@ -67,6 +76,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Mark Fulu as deployed on mainnet (#5165)](https://github.com/ethereum/consensus-specs/commit/855f73f0de43f2e9be5929cea153591ba1c34145) - 2026-04-26
 * [Pull Request] [Add `create_genesis_block` helper to light client tests](https://github.com/ethereum/consensus-specs/pull/5173) - 2026-04-27
 * [Commit] [Split out `is_valid_merkle_branch` root computation (#5166)](https://github.com/ethereum/consensus-specs/commit/fc0fba20624f128aa038db18badc6c711ad5f5cc) - 2026-04-27
+* [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4188593624) - 2026-04-28
+* [Pull Request] [Extend light client protocol for Gloas](https://github.com/ethereum/consensus-specs/pull/5178) - 2026-04-28
+* [Review] [Review on: Extend light client protocol for Gloas](https://github.com/ethereum/consensus-specs/pull/5178#pullrequestreview-4191071558) - 2026-04-28
+* [Pull Request] [Update light client test format to emit store forkversion](https://github.com/ethereum/consensus-specs/pull/5188) - 2026-04-28
+* [Pull Request] [Make fork digest for pre-fulu epoch compatible across specs](https://github.com/ethereum/consensus-specs/pull/5182) - 2026-04-28
+* [Commit] [Extend light client protocol for Gloas (#5178)](https://github.com/ethereum/consensus-specs/commit/279b0ebe911ea02b626d632e372f78b59a53ba61) - 2026-04-28
+* [Commit] [Update light client test format to emit store forkversion (#5188)](https://github.com/ethereum/consensus-specs/commit/cbea9143e4c9da31183670244327e8f00d3b60eb) - 2026-04-28
+* [Commit] [Make fork digest for pre-fulu epoch compatible across specs (#5182)](https://github.com/ethereum/consensus-specs/commit/4d623657a12ef326b7a50107589e6b0c33b439ec) - 2026-04-28
+* [Commit] [Add `create_signed_genesis_block` helper (#5173)](https://github.com/ethereum/consensus-specs/commit/330bda3eb2f7a829e70c152d1fb46971e8d4d886) - 2026-04-28
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13
@@ -75,6 +93,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Fix nim-bncurve branch tracking (#4127)](https://github.com/status-im/nimbus-eth1/commit/d807323de2c82f7250895e2931a8fc9183f3e96b) - 2026-04-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527#pullrequestreview-4116283789) - 2026-04-15
+* [Review] [Review on: Add EIP: GitChain](https://github.com/ethereum/EIPs/pull/9579#pullrequestreview-4191344274) - 2026-04-28
 ## Q1 2026
 
 

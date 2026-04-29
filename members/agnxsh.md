@@ -22,6 +22,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: speedup block processing with batch verification](https://github.com/status-im/nimbus-eth2/pull/8302#pullrequestreview-4145137617) - 2026-04-21
 * [Pull Request] [improve getBlobs flow and add metrics](https://github.com/status-im/nimbus-eth2/pull/8311) - 2026-04-21
 * [Pull Request] [add batch putting of data column sidecars](https://github.com/status-im/nimbus-eth2/pull/8336) - 2026-04-25
+* [Pull Request] [add slot number to getBlobs logs](https://github.com/status-im/nimbus-eth2/pull/8356) - 2026-04-28
 ## Q1 2026
 
 

@@ -87,6 +87,30 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: fix(monty-31): eliminate twiddle cache race condition](https://github.com/Plonky3/Plonky3/pull/1561#pullrequestreview-4175580510) - 2026-04-25
 * [Review] [Review on: Perf simd compress hi dot](https://github.com/Plonky3/Plonky3/pull/1574#pullrequestreview-4181393542) - 2026-04-27
 * [Review] [Review on: field: specialize packed mixed_dot_product by chunk strategy](https://github.com/Plonky3/Plonky3/pull/1573#pullrequestreview-4181304911) - 2026-04-27
+
+* [Pull Request] [fix(goldilocks): canonicalize sub_asm and harden NEON ASM tests](https://github.com/Plonky3/Plonky3/pull/1591) - 2026-04-28
+* [Pull Request] [perf(split_eq): SIMD-delayed compress_prefix_to_packed for the Packed eq1 path](https://github.com/Plonky3/Plonky3/pull/1592) - 2026-04-28
+* [Review] [Review on: Add BN254 deserialize boundary regression tests](https://github.com/Plonky3/Plonky3/pull/1583#pullrequestreview-4189604529) - 2026-04-28
+* [Pull Request] [bench(whir): add end-to-end PCS benchmark suite](https://github.com/Plonky3/Plonky3/pull/1582) - 2026-04-28
+* [Review] [Review on: fix: proper reduction in goldilocks NEON add computation](https://github.com/Plonky3/Plonky3/pull/1580#pullrequestreview-4188983224) - 2026-04-28
+* [Review] [Review on: Guard Rescue num_rounds against invalid capacity](https://github.com/Plonky3/Plonky3/pull/1578#pullrequestreview-4188084471) - 2026-04-28
+* [Review] [Review on: perf(interpolation): optimize barycentric weights via algebraic identity](https://github.com/Plonky3/Plonky3/pull/1553#pullrequestreview-4187897449) - 2026-04-28
+* [Review] [Review on: fix(bn254): add Poseidon2 round-number constants and fix benchmark](https://github.com/Plonky3/Plonky3/pull/1557#pullrequestreview-4187742627) - 2026-04-28
+* [Review] [Review on: whir: full integration from whir-p3](https://github.com/Plonky3/Plonky3/pull/1523#pullrequestreview-4187529989) - 2026-04-28
+* [Review] [Review on: feat(field): add Field::mul_slices for elementwise slice multiplication](https://github.com/Plonky3/Plonky3/pull/1577#pullrequestreview-4187758619) - 2026-04-28
+* [Issue] [[HVZK-WHIR 2/6] Private zero-evader for OOD samples](https://github.com/Plonky3/Plonky3/issues/1585) - 2026-04-28
+* [Issue] [Tracking: HVZK-WHIR — zero-knowledge variant of WHIR (eprint 2026/391)](https://github.com/Plonky3/Plonky3/issues/1590) - 2026-04-28
+* [Issue] [[HVZK-WHIR 6/6] Compose HVZK-WHIR PCS + end-to-end tests](https://github.com/Plonky3/Plonky3/issues/1589) - 2026-04-28
+* [Issue] [[HVZK-WHIR 5/6] HVZK base-case IOPP](https://github.com/Plonky3/Plonky3/issues/1588) - 2026-04-28
+* [Issue] [[HVZK-WHIR 4/6] HVZK code-switching round](https://github.com/Plonky3/Plonky3/issues/1587) - 2026-04-28
+* [Issue] [[HVZK-WHIR 3/6] HVZK sumcheck with sublinear masks](https://github.com/Plonky3/Plonky3/issues/1586) - 2026-04-28
+* [Issue] [[HVZK-WHIR 1/6] ZK encoding trait + Reed–Solomon instantiation](https://github.com/Plonky3/Plonky3/issues/1584) - 2026-04-28
+* [Commit] [perf(interpolation): optimize barycentric weights via algebraic identity (#1553)](https://github.com/Plonky3/Plonky3/commit/d8e8b2221c985d2e3c3e5e786bcf3025c7c985a2) - 2026-04-28
+* [Commit] [fix(bn254): add Poseidon2 round-number constants and fix benchmark (#1557)](https://github.com/Plonky3/Plonky3/commit/22fb19ee127858c8007de93d6e98ecf39c14082f) - 2026-04-28
+* [Commit] [fri: full test coverage for verifier errors (#1529)](https://github.com/Plonky3/Plonky3/commit/78e569bca9e8a631850e3bd342b0bddf0a7394f9) - 2026-04-28
+* [Commit] [whir: full integration from whir-p3 (#1523)](https://github.com/Plonky3/Plonky3/commit/6c4824823345b5903f03e06fa7a97733f22b9842) - 2026-04-28
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 ## Q1 2026
 
 

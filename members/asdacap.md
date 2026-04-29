@@ -127,6 +127,19 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [analyzers: NETH003 — file name must match the contained type name (#11337)](https://github.com/NethermindEth/nethermind/commit/09bd5a2de270968df8ae877a89561b890a85e990) - 2026-04-26
 * [Review] [Review on: chore: Support and migrate to Ubuntu 26.04](https://github.com/NethermindEth/nethermind/pull/11355#pullrequestreview-4178222637) - 2026-04-27
 * [Pull Request] [refactor(init): convert ExitOnInvalidBlock and InitDatabase to DI](https://github.com/NethermindEth/nethermind/pull/11366) - 2026-04-27
+* [Review] [Review on: Reorg up to lastFinalized block](https://github.com/NethermindEth/nethermind/pull/11354#pullrequestreview-4185761322) - 2026-04-28
+* [Review] [Review on: style: enable nullable for Nethermind.Serialization.Json and Nethermind.Serialization.Rlp](https://github.com/NethermindEth/nethermind/pull/11350#pullrequestreview-4186051622) - 2026-04-28
+* [Review] [Review on: feat(merge): add testing_commitBlockV1 to commit a block on the chain head](https://github.com/NethermindEth/nethermind/pull/11385#pullrequestreview-4193413028) - 2026-04-29
+* [Review] [Review on: fix(statecomp): serialize empty histograms and run bootstrap on first new head](https://github.com/NethermindEth/nethermind/pull/11382#pullrequestreview-4193477729) - 2026-04-29
+* [Review] [Review on: Refine runner configs; activate discovery](https://github.com/NethermindEth/nethermind/pull/11384#pullrequestreview-4193475775) - 2026-04-29
+* [Pull Request] [fix(flat-state): wait for TrieWarmer in-flight jobs before disposing SnapshotBundle](https://github.com/NethermindEth/nethermind/pull/11394) - 2026-04-29
+* [Review] [Review on: perf(sync): allow multiple allocation slots per peer (lock-free rewrite)](https://github.com/NethermindEth/nethermind/pull/11361#pullrequestreview-4193393983) - 2026-04-29
+* [Review] [Review on: refactor(init): convert ExitOnInvalidBlock and InitDatabase to DI](https://github.com/NethermindEth/nethermind/pull/11366#pullrequestreview-4188596528) - 2026-04-28
+* [Review] [Review on: test: raise NewPayloadBlockProcessingTimeout in merge tests](https://github.com/NethermindEth/nethermind/pull/11381#pullrequestreview-4189028966) - 2026-04-28
+* [Review] [Review on: Allow `HistoryPruner` to be callable via decorator](https://github.com/NethermindEth/nethermind/pull/11098#pullrequestreview-4186856021) - 2026-04-28
+* [Commit] [refactor(init): convert ExitOnInvalidBlock and InitDatabase to DI (#11366)](https://github.com/NethermindEth/nethermind/commit/31a673a6a46a12ef9405b6949c3bfe95eadce3da) - 2026-04-28
+* [Commit] [feat(state): persist FlatLayout and refuse mismatched restarts (#11271)](https://github.com/NethermindEth/nethermind/commit/b5b1d4cebacbfcfa08d74b321561d82f8eba5b83) - 2026-04-28
+* [Commit] [refactor: remove NodeData satellite protocol (#11359)](https://github.com/NethermindEth/nethermind/commit/7359c84eaa771901afb3dc7812dfad28609e54bc) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

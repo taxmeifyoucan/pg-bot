@@ -43,6 +43,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Prefetch + cross block cache into bal devnet 4](https://github.com/besu-eth/besu/pull/10317) - 2026-04-23
 * [Pull Request] [Prefetch + cross block cache into bal devnet 4](https://github.com/besu-eth/besu/pull/10315) - 2026-04-23
 * [Review] [Review on: EIP-8037 changes for bal devnet 4](https://github.com/besu-eth/besu/pull/10313#pullrequestreview-4168084496) - 2026-04-24
+* [Review] [Review on: Treat response size limit as soft cap for all snap messages](https://github.com/besu-eth/besu/pull/10343#pullrequestreview-4187917001) - 2026-04-28
+* [Review] [Review on: Move MutableWorldState and StateRootCommitter to plugin-api; preparement for creating WorldStateArchiveProvider](https://github.com/besu-eth/besu/pull/10135#pullrequestreview-4187728167) - 2026-04-28
+* [Pull Request] [Path-based world state: batch trie-log rolls to cut memory use](https://github.com/besu-eth/besu/pull/10344) - 2026-04-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

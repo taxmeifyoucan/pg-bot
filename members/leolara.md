@@ -23,6 +23,7 @@ Github: [@leolara](https://github.com/leolara)
 * [Review] [Review on: feat(scripts): use dynamic addresses in ported static tests](https://github.com/ethereum/execution-specs/pull/2695#pullrequestreview-4176547673) - 2026-04-26
 * [Issue] [verify-traces: asymmetry between in-memory and disk-loaded traces for failed-during-execution txs (extend #2709)](https://github.com/ethereum/execution-specs/issues/2758) - 2026-04-26
 * [Commit] [feat(scripts): use dynamic addresses in ported static tests (#2695)](https://github.com/ethereum/execution-specs/commit/e7043cccec0466c011685b132e8853cdd7879ed3) - 2026-04-26
+* [Pull Request] [fix(test-client-clis): write empty trace placeholder for rejected txs](https://github.com/ethereum/execution-specs/pull/2772) - 2026-04-28
 ## Q1 2026
 
 

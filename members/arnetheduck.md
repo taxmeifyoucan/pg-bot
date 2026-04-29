@@ -20,6 +20,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid blocking main thread on reconstruction](https://github.com/status-im/nimbus-eth2/pull/8346) - 2026-04-27
+* [Pull Request] [gloas: pool cleanups](https://github.com/status-im/nimbus-eth2/pull/8348) - 2026-04-28
+* [Pull Request] [gloas: don't (re)load block to to send payload attestation](https://github.com/status-im/nimbus-eth2/pull/8349) - 2026-04-28
+* [Review] [Review on: Check parent block full](https://github.com/status-im/nimbus-eth2/pull/7664#pullrequestreview-4187119104) - 2026-04-28
 ## Q1 2026
 
 

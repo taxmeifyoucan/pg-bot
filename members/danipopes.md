@@ -276,6 +276,28 @@ Team: Reth
 * [Commit] [perf: virtual stack for section-local SSA caching (#335)](https://github.com/paradigmxyz/revmc/commit/1f4f761862e99efea55d57b98c0cfcc351a57506) - 2026-04-27
 * [Commit] [fix(builtins): correct argmem memory effect (#347)](https://github.com/paradigmxyz/revmc/commit/583d36b80c8b7a3dffe1b1ef40d213bd1d15192d) - 2026-04-27
 * [Commit] [perf: assume non-null pointers in JIT'd function signature (#346)](https://github.com/paradigmxyz/revmc/commit/451a83b67e70b8de41e982013ea6d94d210c6f32) - 2026-04-27
+* [Pull Request] [perf: assume memory size after mresize](https://github.com/paradigmxyz/revmc/pull/363) - 2026-04-29
+* [Pull Request] [perf: optimize constant-base exp](https://github.com/paradigmxyz/revmc/pull/361) - 2026-04-28
+* [Pull Request] [perf(llvm): limit expensive live range splitting](https://github.com/paradigmxyz/revmc/pull/362) - 2026-04-28
+* [Pull Request] [fix(compiler): route all errors through failure](https://github.com/paradigmxyz/revmc/pull/360) - 2026-04-28
+* [Pull Request] [feat(cli): auto-detect run input](https://github.com/paradigmxyz/revmc/pull/359) - 2026-04-28
+* [Review] [Review on: fix(builtins): call host.log before on_log callback](https://github.com/paradigmxyz/revmc/pull/357#pullrequestreview-4190825980) - 2026-04-28
+* [Review] [Review on: fix: set finalized only after finalize completes successfully](https://github.com/paradigmxyz/revmc/pull/355#pullrequestreview-4190841052) - 2026-04-28
+* [Pull Request] [perf(statetest): reuse runtime EVM](https://github.com/paradigmxyz/revmc/pull/358) - 2026-04-28
+* [Pull Request] [perf: avoid copying call input](https://github.com/paradigmxyz/revmc/pull/356) - 2026-04-28
+* [Commit] [perf: optimize constant-base exp (#361)](https://github.com/paradigmxyz/revmc/commit/b7f522e0b69fde40e47094050816a2eac47c2042) - 2026-04-28
+* [Commit] [perf(llvm): limit expensive live range splitting (#362)](https://github.com/paradigmxyz/revmc/commit/4c678ea479901458c43cd076d71c7a3ab3da0369) - 2026-04-28
+* [Commit] [chore(cli): don't compile twice, bench fixes](https://github.com/paradigmxyz/revmc/commit/03a9a1077acbadf2e21046563831210c57028876) - 2026-04-28
+* [Commit] [chore(bench): don't build main with incremental](https://github.com/paradigmxyz/revmc/commit/82ff659531e5241be065295214dec77d1aedca73) - 2026-04-28
+* [Commit] [feat(compiler): add single_error config (#353)](https://github.com/paradigmxyz/revmc/commit/84a9805ca7dac738d0354f81ba844c00c9f46afc) - 2026-04-28
+* [Commit] [fix(compiler): route all errors through failure (#360)](https://github.com/paradigmxyz/revmc/commit/b1e78347c6186907bb54909870ef54aabc981990) - 2026-04-28
+* [Commit] [chore: disable perf support in tests](https://github.com/paradigmxyz/revmc/commit/8b92bf21f7e1451d7c904f68cfe84c7239d40c7f) - 2026-04-28
+* [Commit] [feat(cli): auto-detect run input (#359)](https://github.com/paradigmxyz/revmc/commit/3d1508cfcfaa0c382786add3a5cd4a5986f4cd69) - 2026-04-28
+* [Commit] [chore(bench): default extra dirs to tmp/mainnet](https://github.com/paradigmxyz/revmc/commit/799c4e623055e0fc2ae722a85498a998e7ac5b03) - 2026-04-28
+* [Commit] [perf(statetest): reuse runtime EVM (#358)](https://github.com/paradigmxyz/revmc/commit/5fd21207dc2c8a1c37b96db2052513ada47d322a) - 2026-04-28
+* [Commit] [perf: set dead_on_return on stack arg if stack is not observed (#344)](https://github.com/paradigmxyz/revmc/commit/e46d8ffcf2fc19f9e8920daf9227347e0091cf32) - 2026-04-28
+* [Commit] [feat: implement JIT runtime (#139)](https://github.com/paradigmxyz/revmc/commit/fde1f1ce32f3901d70f93214fb7d596745be3bc5) - 2026-04-28
+* [Commit] [perf: avoid copying call input (#356)](https://github.com/paradigmxyz/revmc/commit/be67384add53840e6227a6f7e8f19f50b511e7ac) - 2026-04-28
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -304,6 +326,7 @@ Team: Reth
 * [Pull Request] [fix(docker): make RUSTFLAGS additive to platform-specific flags](https://github.com/paradigmxyz/reth/pull/23722) - 2026-04-24
 * [Review] [Review on: perf(revm): enable `p256-aws-lc-rs` feature](https://github.com/paradigmxyz/reth/pull/23721#pullrequestreview-4173222306) - 2026-04-24
 * [Review] [Review on: perf(docker): add platform-specific RUSTFLAGS to Dockerfile](https://github.com/paradigmxyz/reth/pull/23738#pullrequestreview-4179533483) - 2026-04-27
+* [Review] [Review on: perf(db): prebind cursor operation metrics](https://github.com/paradigmxyz/reth/pull/23654#pullrequestreview-4188963088) - 2026-04-28
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14
@@ -363,6 +386,11 @@ Team: Reth
 * [Review] [Review on: chore: audit #[allow] attributes](https://github.com/bluealloy/revm/pull/3611#pullrequestreview-4183681180) - 2026-04-27
 * [Review] [Review on: feat: show address or slot in BAL error](https://github.com/bluealloy/revm/pull/3619#pullrequestreview-4183731515) - 2026-04-27
 * [Commit] [ci: update test workflows (#3620)](https://github.com/bluealloy/revm/commit/4c2883b01e5fc3958e78c97a14fb9cda0d17bff6) - 2026-04-27
+* [Pull Request] [refactor(gas): simplify log2floor](https://github.com/bluealloy/revm/pull/3629) - 2026-04-28
+* [Pull Request] [refactor: wrap shared memory buffer](https://github.com/bluealloy/revm/pull/3628) - 2026-04-28
+* [Pull Request] [refactor(interpreter): unify call handlers](https://github.com/bluealloy/revm/pull/3626) - 2026-04-28
+* [Review] [Review on: chore(deps): bump alloy-eip7928 to 0.4](https://github.com/bluealloy/revm/pull/3623#pullrequestreview-4188220981) - 2026-04-28
+* [Commit] [refactor(gas): simplify log2floor (#3629)](https://github.com/bluealloy/revm/commit/bd8986240664637f4f103e3d36dcb7aef4d1d686) - 2026-04-28
 ## Q1 2026
 
 

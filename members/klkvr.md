@@ -75,6 +75,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(payload): track Amsterdam block gas in builders](https://github.com/paradigmxyz/reth/pull/23743#pullrequestreview-4181297643) - 2026-04-27
 * [Review] [Review on: refactor(evm): return gas output from block builder](https://github.com/paradigmxyz/reth/pull/23744#pullrequestreview-4180983237) - 2026-04-27
 * [Commit] [feat: bound memory footpring of p2p messages (#23718)](https://github.com/paradigmxyz/reth/commit/91d248e6fa0a4c26c5b9fbf465f861e64f555c4c) - 2026-04-27
+* [Pull Request] [feat: introduce memory-bound channel for network<->tx manager messages](https://github.com/paradigmxyz/reth/pull/23802) - 2026-04-28
+* [Review] [Review on: refactor: expose executor transaction result type](https://github.com/paradigmxyz/reth/pull/23759#pullrequestreview-4187468273) - 2026-04-28
+* [Commit] [feat: introduce memory-bound channel for network<->tx manager messages (#23802)](https://github.com/paradigmxyz/reth/commit/ad0882928833ae70125416957153f8d8847b03fc) - 2026-04-28
+* [Commit] [feat: support binding discv5 and discv4 to the same port (#23613)](https://github.com/paradigmxyz/reth/commit/87d878a9794fd8f057de0fc4c22206460861a37d) - 2026-04-28
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
@@ -87,6 +91,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4140591296) - 2026-04-20
+* [Pull Request] [fix: restore `&mut` APIs for `PendingEntry`](https://github.com/sigp/discv5/pull/302) - 2026-04-28
+* [Commit] [fix: restore &mut APIs for PendingEntry (#302)](https://github.com/sigp/discv5/commit/0f95be100206ffda358e7d26d9ef9e7aed23312e) - 2026-04-28
+* [Commit] [feat: add escape hatch for fallback decoding (#299)](https://github.com/sigp/discv5/commit/0c29cab68423a03796d268ac666836c11f46b48e) - 2026-04-28
 ## Q1 2026
 
 

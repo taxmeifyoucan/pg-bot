@@ -31,6 +31,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: updated duties using split endpoints](https://github.com/OffchainLabs/prysm/pull/16421#pullrequestreview-4105517630) - 2026-04-14
 * [Review] [Review on: fixing wrong path name in execution payload bid api](https://github.com/OffchainLabs/prysm/pull/16690#pullrequestreview-4130014891) - 2026-04-17
 * [Review] [Review on: Prevent expensive state replay when computing sync committees members for the current period](https://github.com/OffchainLabs/prysm/pull/16688#pullrequestreview-4129411346) - 2026-04-17
+* [Pull Request] [Fix Forkchoice panic](https://github.com/OffchainLabs/prysm/pull/16728) - 2026-04-28
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08
@@ -52,6 +53,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181908895) - 2026-04-27
 * [Review] [Review on: Note voluntary exit selection with deferred payload processing](https://github.com/ethereum/consensus-specs/pull/5176#pullrequestreview-4181899533) - 2026-04-27
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179924448) - 2026-04-27
+* [Pull Request] [Force the proposer to reorg unavailable blocks](https://github.com/ethereum/consensus-specs/pull/5186) - 2026-04-28
+* [Pull Request] [Enable independent CL/EL sync (EIP-8237)](https://github.com/ethereum/consensus-specs/pull/5183) - 2026-04-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17

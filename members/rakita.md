@@ -72,6 +72,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: backport v107 release notes from branch (#3617)](https://github.com/bluealloy/revm/commit/bcdd8ad739fa0d653790c098a960880ced937274) - 2026-04-26
 * [Commit] [fix(precompile): use SIGMA period 10 in blake2 portable path (#3616)](https://github.com/bluealloy/revm/commit/304be679f9207a633a408323eb89d07121dc159e) - 2026-04-26
 * [Review] [Review on: feat: show address or slot in BAL error](https://github.com/bluealloy/revm/pull/3619#pullrequestreview-4181429431) - 2026-04-27
+* [Pull Request] [refactor(eip8037): introduce NewStateTracker, drop state_gas_spent/refill_amount](https://github.com/bluealloy/revm/pull/3625) - 2026-04-28
+* [Pull Request] [feat(eip8037): defer state-gas OOG to frame return](https://github.com/bluealloy/revm/pull/3622) - 2026-04-28
+* [Pull Request] [feat(bal-devnet-4): Changes needed for devnet](https://github.com/bluealloy/revm/pull/3624) - 2026-04-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 
@@ -80,6 +83,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [Update EIP-8175: CALL/CREATE capabilities, fee_auth, and new opcodes](https://github.com/ethereum/EIPs/commit/8bb55846b3d4f3fe4efc542a818b8c17a472074d) - 2026-04-06
 * [Pull Request] [Update EIP-8175: Add TX_GAS_LIMIT opcode](https://github.com/ethereum/EIPs/pull/11501) - 2026-04-09
 * [Commit] [Update EIP-8175: Add TX_GAS_LIMIT opcode](https://github.com/ethereum/EIPs/commit/089e0ab5272cdd411db548a5fce72eb3ee2dbca6) - 2026-04-09
+* [Review] [Review on: Update EIP-8037: fixed CPSB + frame accounting](https://github.com/ethereum/EIPs/pull/11573#pullrequestreview-4187565661) - 2026-04-28
 ## Q1 2026
 
 

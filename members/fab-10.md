@@ -60,9 +60,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Add GHA workflow timeouts](https://github.com/besu-eth/besu/pull/10302#pullrequestreview-4163453872) - 2026-04-23
 * [Review] [Review on: Pin Dockerfile base images by SHA256 digest](https://github.com/besu-eth/besu/pull/10309#pullrequestreview-4160782448) - 2026-04-23
 * [Review] [Review on: chore(plugin-api): remove methods deprecated since 25.1.0 in BesuConf…](https://github.com/besu-eth/besu/pull/10268#pullrequestreview-4161674259) - 2026-04-23
+* [Review] [Review on: Encode Frontier transaction type as 0x80](https://github.com/besu-eth/besu/pull/10316#pullrequestreview-4188139924) - 2026-04-28
+* [Review] [Review on: Restrict no-reorg to the prefix of known finalized](https://github.com/besu-eth/besu/pull/10335#pullrequestreview-4188390202) - 2026-04-28
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23
+* [Commit] [clients/besu: Update Docker images to build and run with Java 25 (#1444)](https://github.com/ethereum/hive/commit/f38b899254ceca7edaa3810778801c357e071f68) - 2026-04-28
 ## Q1 2026
 
 

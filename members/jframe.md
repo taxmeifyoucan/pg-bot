@@ -29,6 +29,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Speed up backward sync phase 1 relinking after restart](https://github.com/besu-eth/besu/pull/10276#pullrequestreview-4160033656) - 2026-04-23
 * [Review] [Review on: Worker threads not released after engine API timeout, blocking subsequent requests](https://github.com/besu-eth/besu/pull/10311#pullrequestreview-4168228466) - 2026-04-24
 * [Review] [Review on: Remove dead GetNodeData/NodeData code (removed in eth/68)](https://github.com/besu-eth/besu/pull/10330#pullrequestreview-4178019625) - 2026-04-27
+* [Review] [Review on: Bonsai archive hybrid](https://github.com/besu-eth/besu/pull/10192#pullrequestreview-4185645234) - 2026-04-28
+* [Pull Request] [Remove Bonsai archive freezer storage and Archiver component](https://github.com/besu-eth/besu/pull/10339) - 2026-04-28
+* [Review] [Review on: Remove peer task system feature toggle from ForwardSyncStep](https://github.com/besu-eth/besu/pull/10197#pullrequestreview-4185685063) - 2026-04-28
+* [Issue] [Remove Bonsai archive freezer storage and Archiver component](https://github.com/besu-eth/besu/issues/10338) - 2026-04-28
 ## Q1 2026
 
 

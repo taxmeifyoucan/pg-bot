@@ -64,6 +64,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Add payload attestation validator duty](https://github.com/sigp/lighthouse/pull/9178#pullrequestreview-4180445031) - 2026-04-27
 * [Pull Request] [Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9181) - 2026-04-27
 * [Review] [Review on: Gloas `PayloadAttestation` gossip verification](https://github.com/sigp/lighthouse/pull/9145#pullrequestreview-4179360161) - 2026-04-27
+* [Pull Request] [Gossip reprocessed payload envelopes that are timely](https://github.com/sigp/lighthouse/pull/9210) - 2026-04-28
+* [Pull Request] [Implement gloas proposer preference vc duty](https://github.com/sigp/lighthouse/pull/9208) - 2026-04-28
+* [Pull Request] [Gloas range sync](https://github.com/sigp/lighthouse/pull/9207) - 2026-04-28
+* [Review] [Review on: Parent envelope unknown lookup](https://github.com/sigp/lighthouse/pull/9039#pullrequestreview-4189893608) - 2026-04-28
+* [Review] [Review on: Add payload attestation to op pool and pack into block](https://github.com/sigp/lighthouse/pull/9180#pullrequestreview-4187757630) - 2026-04-28
+* [Review] [Review on: Wire up ePBS SSE events and fix envelope availability](https://github.com/sigp/lighthouse/pull/9199#pullrequestreview-4186931230) - 2026-04-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

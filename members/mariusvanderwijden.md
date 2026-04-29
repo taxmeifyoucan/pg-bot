@@ -51,6 +51,7 @@ Team: Geth
 * [Pull Request] [Bal devnet 4](https://github.com/ethereum/go-ethereum/pull/34806) - 2026-04-23
 * [Review] [Review on: miner: re-used basefee and big.Int in loop](https://github.com/ethereum/go-ethereum/pull/34783#pullrequestreview-4170160240) - 2026-04-24
 * [Pull Request] [core: implement EIP-8037: state creation gas cost increase (new spec)](https://github.com/ethereum/go-ethereum/pull/34837) - 2026-04-27
+* [Review] [Review on: core: skip tx gas cap after Amsterdam](https://github.com/ethereum/go-ethereum/pull/34841#pullrequestreview-4188657204) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

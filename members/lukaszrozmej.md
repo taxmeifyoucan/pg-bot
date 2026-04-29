@@ -238,6 +238,23 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: refactor: remove NodeData satellite protocol](https://github.com/NethermindEth/nethermind/pull/11359#pullrequestreview-4183582973) - 2026-04-27
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11364#pullrequestreview-4183574099) - 2026-04-27
 * [Review] [Review on: Quicknode fix](https://github.com/NethermindEth/nethermind/pull/11376#pullrequestreview-4183411899) - 2026-04-27
+* [Review] [Review on: fix(eth_simulateV1): return spec-compliant error codes and messages for fee cap and insufficient funds](https://github.com/NethermindEth/nethermind/pull/11372#pullrequestreview-4187934365) - 2026-04-28
+* [Review] [Review on: feat(merge): add testing_commitBlockV1 to commit a block on the chain head](https://github.com/NethermindEth/nethermind/pull/11385#pullrequestreview-4192807670) - 2026-04-28
+* [Review] [Review on: Refine runner configs; activate discovery](https://github.com/NethermindEth/nethermind/pull/11384#pullrequestreview-4192909495) - 2026-04-28
+* [Review] [Review on: fix: remove broken backlog warning in AsyncFileWriteQueue](https://github.com/NethermindEth/nethermind/pull/11386#pullrequestreview-4189281113) - 2026-04-28
+* [Review] [Review on: Error codes and messages for Geth compatibility](https://github.com/NethermindEth/nethermind/pull/11335#pullrequestreview-4187419807) - 2026-04-28
+* [Review] [Review on: `debug_executionwitness` RPC implementation](https://github.com/NethermindEth/nethermind/pull/11352#pullrequestreview-4187395020) - 2026-04-28
+* [Review] [Review on: refactor(init): convert ExitOnInvalidBlock and InitDatabase to DI](https://github.com/NethermindEth/nethermind/pull/11366#pullrequestreview-4186891065) - 2026-04-28
+* [Review] [Review on: fix(test): treat ArrowGlacier and GrayGlacier as pre-merge](https://github.com/NethermindEth/nethermind/pull/11315#pullrequestreview-4189118232) - 2026-04-28
+* [Pull Request] [test: raise NewPayloadBlockProcessingTimeout in merge tests](https://github.com/NethermindEth/nethermind/pull/11381) - 2026-04-28
+* [Review] [Review on: test(evm): add RIPEMD-160 precompile vectors](https://github.com/NethermindEth/nethermind/pull/11378#pullrequestreview-4186764247) - 2026-04-28
+* [Pull Request] [test: bump 10s timeouts that flake on Flat DB CI](https://github.com/NethermindEth/nethermind/pull/11380) - 2026-04-28
+* [Review] [Review on: sync: fix beacon headers re-downloaded after #10876 changed GetBlockHashOnMainOrBestDifficultyHash](https://github.com/NethermindEth/nethermind/pull/11339#pullrequestreview-4187921744) - 2026-04-28
+* [Review] [Review on: perf(trie): fused BulkSet+Commit in a single descent](https://github.com/NethermindEth/nethermind/pull/11284#pullrequestreview-4187555568) - 2026-04-28
+* [Review] [Review on: Allow `HistoryPruner` to be callable via decorator](https://github.com/NethermindEth/nethermind/pull/11098#pullrequestreview-4186613467) - 2026-04-28
+* [Review] [Review on: More optimizations for precompile caching](https://github.com/NethermindEth/nethermind/pull/11373#pullrequestreview-4186599943) - 2026-04-28
+* [Commit] [test: raise NewPayloadBlockProcessingTimeout in merge tests (#11381)](https://github.com/NethermindEth/nethermind/commit/38da24277089b65fc52979ee0c992e03a356c405) - 2026-04-28
+* [Commit] [test: bump 10s timeouts that flake on Flat DB CI (#11380)](https://github.com/NethermindEth/nethermind/commit/36546bb28d9ef881b6affff54f6a7c89546eae9e) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

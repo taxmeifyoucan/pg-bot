@@ -47,6 +47,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: skip AuRa finalization startup walk on post-merge chains (1.37.0-rc2 backport)](https://github.com/NethermindEth/nethermind/pull/11307#pullrequestreview-4155747913) - 2026-04-22
 * [Pull Request] [docs(jsonrpc): correct descriptions for proof_getTransactionByHash / proof_getTransactionReceipt](https://github.com/NethermindEth/nethermind/pull/11344) - 2026-04-24
 * [Commit] [docs(jsonrpc): correct descriptions for proof_getTransactionByHash / proof_getTransactionReceipt (#11344)](https://github.com/NethermindEth/nethermind/commit/9cba44cda1a922740f11b619ad7e6387bf52bb68) - 2026-04-25
+* [Review] [Review on: Fix Taiko snap-sync and RPC noise](https://github.com/NethermindEth/nethermind/pull/11387#pullrequestreview-4190385253) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

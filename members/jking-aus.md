@@ -17,3 +17,4 @@ Github: [@jking-aus](https://github.com/jking-aus)
 * [Pull Request] [fix: gloas from genesis](https://github.com/sigp/lighthouse/pull/9190) - 2026-04-27
 * [Pull Request] [fix: resolve remaining merge conflict markers from #9178](https://github.com/sigp/lighthouse/pull/9192) - 2026-04-27
 * [Pull Request] [fix: gloas from genesis](https://github.com/sigp/lighthouse/pull/9186) - 2026-04-27
+* [Pull Request] [Increase exit consolidation churn](https://github.com/sigp/lighthouse/pull/9211) - 2026-04-28

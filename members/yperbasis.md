@@ -261,6 +261,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: parallel commitment calculations implemented](https://github.com/erigontech/erigon/pull/20805#pullrequestreview-4178720337) - 2026-04-27
 * [Review] [Review on: execution/execmodule: allow reorgs on canonical chain up to finalised hash](https://github.com/erigontech/erigon/pull/20825#pullrequestreview-4178081785) - 2026-04-27
 * [Commit] [ci: enable hive-eest client pool (~2.7× faster gate) (#20812)](https://github.com/erigontech/erigon/commit/8460422467a5ae6df8c4d9072e18e1a2c09885c5) - 2026-04-27
+* [Review] [Review on: parallel commitment calculations implemented](https://github.com/erigontech/erigon/pull/20805#pullrequestreview-4186824766) - 2026-04-28
+* [Pull Request] [engineapi: defer V3 payloadAttributes checks until head is VALID](https://github.com/erigontech/erigon/pull/20891) - 2026-04-28
+* [Pull Request] [cmd/utils/app, execution/vm: fix hive legacy-cancun blockchain failures](https://github.com/erigontech/erigon/pull/20892) - 2026-04-28
+* [Review] [Review on: cmd/utils/app, execution/vm: fix hive legacy-cancun blockchain failures](https://github.com/erigontech/erigon/pull/20892#pullrequestreview-4192733419) - 2026-04-28
+* [Review] [Review on: docs: Docusaurus migration with v3.3 versioned docs](https://github.com/erigontech/erigon/pull/20883#pullrequestreview-4191531835) - 2026-04-28
+* [Review] [Review on: CI: centralise RPC_VERSION in file and fix rpc-tests cache stale files](https://github.com/erigontech/erigon/pull/20824#pullrequestreview-4186801256) - 2026-04-28
+* [Review] [Review on: claude: add skill for running local kurtosis testnets](https://github.com/erigontech/erigon/pull/20876#pullrequestreview-4189938348) - 2026-04-28
+* [Pull Request] [[bal-devnet-3] warmuper: blocking and more (#20877)](https://github.com/erigontech/erigon/pull/20884) - 2026-04-28
+* [Review] [Review on: p2p/sentry, node/eth: EIP-8159 eth/71 BAL fetcher + background downloader (PR 3/3)](https://github.com/erigontech/erigon/pull/20795#pullrequestreview-4188704182) - 2026-04-28
+* [Review] [Review on: [bal-devnet-3] p2p, txpool: fix Hive eth devp2p test failures (#20733)](https://github.com/erigontech/erigon/pull/20879#pullrequestreview-4189977012) - 2026-04-28
+* [Review] [Review on: execution/abi: fix regex submatch for parsing variable size in types](https://github.com/erigontech/erigon/pull/20823#pullrequestreview-4187576110) - 2026-04-28
+* [Pull Request] [warmuper: blocking and more (#20819)](https://github.com/erigontech/erigon/pull/20877) - 2026-04-28
+* [Pull Request] [claude: re-apply launch-bal-devnet-3 skill rename (restore #20758)](https://github.com/erigontech/erigon/pull/20873) - 2026-04-28
+* [Issue] [Constantinople-fork divergence on legacy Cancun GeneralStateTests](https://github.com/erigontech/erigon/issues/20894) - 2026-04-28
+* [Commit] [warmuper: blocking and more (#20819) (#20877)](https://github.com/erigontech/erigon/commit/bfc30afb89919361687da113f5d2941ea3958910) - 2026-04-28
+* [Commit] [claude: re-apply launch-bal-devnet-3 skill rename (restore #20758) (#20873)](https://github.com/erigontech/erigon/commit/bf9171d0922d0a96449770b5d618d737e1d4ce27) - 2026-04-28
+* [Commit] [execution/state: don't seed initial BAL balance from post-write reads (#20843)](https://github.com/erigontech/erigon/commit/aa2b21cce80ef171c957ba2a0d66ab526d4b5db1) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

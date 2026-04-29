@@ -22,6 +22,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: migrate BeaconStateView to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/323) - 2026-04-22
 * [Review] [Review on: feat: migrate BeaconStateView to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/323#pullrequestreview-4153958319) - 2026-04-22
 * [Review] [Review on: feat: use high level zapi dsl](https://github.com/ChainSafe/lodestar-z/pull/320#pullrequestreview-4162354396) - 2026-04-23
+* [Pull Request] [feat: migrate blst,pubkeys to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/331) - 2026-04-28
+* [Pull Request] [feat: migrate BeaconStateView to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/330) - 2026-04-28
+* [Review] [Review on: ci: downgrade `publish-bindings` workflow to use `ubuntu-22.04` instead](https://github.com/ChainSafe/lodestar-z/pull/327#pullrequestreview-4188572924) - 2026-04-28
+* [Commit] [feat: use high level zapi dsl (#320)](https://github.com/ChainSafe/lodestar-z/commit/2515713d0d08d21aa2c0fa3d3beea2c84d641d7f) - 2026-04-28
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-4097078708) - 2026-04-13
 * [Review] [Review on: fix(prover): implement eth_getBlockNumber verified request handler](https://github.com/ChainSafe/lodestar/pull/9203#pullrequestreview-4097017101) - 2026-04-13
@@ -29,6 +33,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(prover): implement eth_getBlockNumber verified request handler](https://github.com/ChainSafe/lodestar/pull/9203#pullrequestreview-4105231286) - 2026-04-14
 * [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-4104944613) - 2026-04-14
 
+* [Pull Request] [chore: upgrade pnpm to v11](https://github.com/ChainSafe/lodestar/pull/9299) - 2026-04-28
+* [Review] [Review on: chore: upgrade pnpm to v11](https://github.com/ChainSafe/lodestar/pull/9299#pullrequestreview-4191941084) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116154021) - 2026-04-15
 

@@ -99,10 +99,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Glamsterdam devnet 0](https://github.com/OffchainLabs/prysm/pull/16720) - 2026-04-24
 * [Pull Request] [Harden execution payload envelope nil checks](https://github.com/OffchainLabs/prysm/pull/16718) - 2026-04-24
 * [Commit] [Implement defer payload processing (#16658)](https://github.com/OffchainLabs/prysm/commit/8b0cdc2db94d1fa2b4a76aa4ac1a8bf10e4e9ca0) - 2026-04-24
+* [Review] [Review on: Fix Forkchoice panic](https://github.com/OffchainLabs/prysm/pull/16728#pullrequestreview-4192515916) - 2026-04-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26
 * [Commit] [Change proposer preference validator index check to ignore (#5164)](https://github.com/ethereum/consensus-specs/commit/b995cf35e2d90f53b7cbaffe678d4a9604d73593) - 2026-04-27
+* [Review] [Review on: Increase exit and consolidation churn (EIP-8061)](https://github.com/ethereum/consensus-specs/pull/5061#pullrequestreview-4189933391) - 2026-04-28
 ## Q1 2026
 
 

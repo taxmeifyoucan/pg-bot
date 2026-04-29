@@ -82,6 +82,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Eth and Snap message improvements](https://github.com/besu-eth/besu/pull/10130#pullrequestreview-4167456078) - 2026-04-24
 * [Commit] [Worker threads not released after engine API timeout, blocking subsequent requests (#10311)](https://github.com/besu-eth/besu/commit/21128d97b02307a0660f7041fdabcf00afce2df3) - 2026-04-24
 * [Review] [Review on: Log4j CVE fix](https://github.com/besu-eth/besu/pull/10332#pullrequestreview-4185350969) - 2026-04-28
+* [Review] [Review on: fix: restore interrupt flag in JSON-RPC trace and NAT handlers](https://github.com/besu-eth/besu/pull/10326#pullrequestreview-4193688207) - 2026-04-29
+* [Review] [Review on: Encode Frontier transaction type as 0x80](https://github.com/besu-eth/besu/pull/10316#pullrequestreview-4186069089) - 2026-04-28
+* [Review] [Review on: CHANGELOG: prep for 26.5.0](https://github.com/besu-eth/besu/pull/10355#pullrequestreview-4193610082) - 2026-04-29
+* [Review] [Review on: fix: stabilize flaky SECP256R1AcceptanceTest (#10323)](https://github.com/besu-eth/besu/pull/10324#pullrequestreview-4193601957) - 2026-04-29
+* [Review] [Review on: Use discoveryV5 in unit and acceptance tests](https://github.com/besu-eth/besu/pull/10337#pullrequestreview-4186103574) - 2026-04-28
+* [Review] [Review on: refactor: replace eager string concatenation with SLF4J parameterized logging](https://github.com/besu-eth/besu/pull/10352#pullrequestreview-4192698424) - 2026-04-28
+* [Pull Request] [Limit bonsai head roll-forward distance](https://github.com/besu-eth/besu/pull/10341) - 2026-04-28
+* [Review] [Review on: Fix forkchoice update reporting VALID after failed setNewHead](https://github.com/besu-eth/besu/pull/10271#pullrequestreview-4186034297) - 2026-04-28
+* [Pull Request] [remove matrix from acceptance tests workflow](https://github.com/besu-eth/besu/pull/10340) - 2026-04-28
+* [Review] [Review on: fix: avoid mutating generated node counter in snap sync completion log](https://github.com/besu-eth/besu/pull/10333#pullrequestreview-4186087766) - 2026-04-28
+* [Review] [Review on: DebugOperationTracer #10115 - 10 : storage snapshot timing ](https://github.com/besu-eth/besu/pull/10176#pullrequestreview-4185968441) - 2026-04-28
+* [Review] [Review on: Feat-11 : Add `limit` param to stop opcode trace capture after N steps](https://github.com/besu-eth/besu/pull/10173#pullrequestreview-4185892379) - 2026-04-28
+* [Review] [Review on: feat(debug): add enableReturnData param and returnData field ](https://github.com/besu-eth/besu/pull/10172#pullrequestreview-4185821994) - 2026-04-28
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

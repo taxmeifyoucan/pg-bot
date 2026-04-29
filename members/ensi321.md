@@ -56,12 +56,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: remove epoch_boundary sanity handler](https://github.com/ChainSafe/lodestar/pull/9270#pullrequestreview-4170336871) - 2026-04-24
 * [Pull Request] [feat: add gossip bid selection to block production](https://github.com/ChainSafe/lodestar/pull/9289) - 2026-04-27
 * [Review] [Review on: feat: add gossip bid selection to block production](https://github.com/ChainSafe/lodestar/pull/9289#pullrequestreview-4181962975) - 2026-04-27
+* [Review] [Review on: fix: drop voluntary exits invalidated by parent execution requests](https://github.com/ChainSafe/lodestar/pull/9292#pullrequestreview-4186771561) - 2026-04-28
+* [Issue] [Explore implementing relay multiplexer post-gloas](https://github.com/ChainSafe/lodestar/issues/9298) - 2026-04-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 
 * [Pull Request] [Call `_build_invalid_envelope` with proper overwrite](https://github.com/ethereum/consensus-specs/pull/5133) - 2026-04-20
 * [Commit] [Call `_build_invalid_envelope` with proper overwrite (#5133)](https://github.com/ethereum/consensus-specs/commit/b979163fe33b301fd215e818c1d715f83c24de9d) - 2026-04-20
 * [Pull Request] [Remove `should_override_forkchoice_update`](https://github.com/ethereum/consensus-specs/pull/5174) - 2026-04-27
+* [Review] [Review on: Track nay PTC votes](https://github.com/ethereum/consensus-specs/pull/5180#pullrequestreview-4191522687) - 2026-04-28
+* [Review] [Review on: Increase exit and consolidation churn (EIP-8061)](https://github.com/ethereum/consensus-specs/pull/5061#pullrequestreview-4190190447) - 2026-04-28
+* [Pull Request] [Remove stale test around `process_builder_pending_payments`](https://github.com/ethereum/consensus-specs/pull/5187) - 2026-04-28
+* [Commit] [Remove stale test around `process_builder_pending_payments` (#5187)](https://github.com/ethereum/consensus-specs/commit/5a52cab58fc90bbef986cc798ce49b8f846092c2) - 2026-04-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
 ## Q1 2026

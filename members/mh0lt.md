@@ -100,6 +100,12 @@ Team: Erigon
 * [Commit] [p2p/protocols/eth, p2p/sentry: EIP-8159 eth/71 handler + sentry dispatch (PR 2/3) (#20794)](https://github.com/erigontech/erigon/commit/c568a381bdbda2220e6d6503f46de7dff68e0b22) - 2026-04-27
 * [Commit] [p2p: preserve full enode for inbound connections from static peers (#20827)](https://github.com/erigontech/erigon/commit/e2606f209ef6c50619216b2cd8fc3272c069adad) - 2026-04-27
 
+* [Pull Request] [p2p/sentry, rpc: restore eth/71 server-side dispatch (EIP-7928 / EIP-8159 Amsterdam)](https://github.com/erigontech/erigon/pull/20893) - 2026-04-28
+* [Pull Request] [[bal-devnet-3] p2p, txpool: fix Hive eth devp2p test failures (#20733)](https://github.com/erigontech/erigon/pull/20879) - 2026-04-28
+* [Pull Request] [[bal-devnet-3] p2p/protocols/eth, p2p/sentry: EIP-8159 eth/71 handler + sentry dispatch (#20794)](https://github.com/erigontech/erigon/pull/20881) - 2026-04-28
+* [Pull Request] [[bal-devnet-3] p2p/protocols/eth: EIP-8159 eth/71 wire protocol (#20793)](https://github.com/erigontech/erigon/pull/20880) - 2026-04-28
+* [Commit] [cmd/utils: add --exec.serial flag to clamp workers to 1 (#20853)](https://github.com/erigontech/erigon/commit/5340dd0a5049947d87bde9f758e5d8010ac60437) - 2026-04-28
+* [Commit] [ci: temporarily skip debug_traceBlockByNumber/test_{33,34} after prestateTracer fix (#20845)](https://github.com/erigontech/erigon/commit/93b3463022bd27101b756882a769a656cec3d299) - 2026-04-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

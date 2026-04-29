@@ -23,6 +23,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: skip AuRa finalization startup walk on post-merge chains](https://github.com/NethermindEth/nethermind/pull/11306#pullrequestreview-4155701905) - 2026-04-22
 * [Review] [Review on: Allow `HistoryPruner` to be callable via decorator](https://github.com/NethermindEth/nethermind/pull/11098#pullrequestreview-4161151535) - 2026-04-23
 * [Review] [Review on: Allow `HistoryPruner` to be callable via decorator](https://github.com/NethermindEth/nethermind/pull/11098#pullrequestreview-4168848063) - 2026-04-24
+* [Review] [Review on: test(evm): add RIPEMD-160 precompile vectors](https://github.com/NethermindEth/nethermind/pull/11378#pullrequestreview-4188183011) - 2026-04-28
+* [Commit] [Allow `HistoryPruner` to be callable via decorator (#11098)](https://github.com/NethermindEth/nethermind/commit/72ff986776a8707168da3da472de84726ac0d14a) - 2026-04-28
 ## Q1 2026
 
 

@@ -171,6 +171,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: include payload attestations when producing block](https://github.com/ChainSafe/lodestar/pull/9283#pullrequestreview-4178082925) - 2026-04-27
 * [Issue] [Review prepare next slot in gloas](https://github.com/ChainSafe/lodestar/issues/9286) - 2026-04-27
 * [Commit] [chore: remove isParentBlockFull (#9280)](https://github.com/ChainSafe/lodestar/commit/7733cd3832947b6eb2641e2633eb5265cde3ba75) - 2026-04-27
+* [Issue] [Review builder circuit breaker in gloas](https://github.com/ChainSafe/lodestar/issues/9296) - 2026-04-28
+* [Issue] [Review how we handle envelopes for unknown blockroot](https://github.com/ChainSafe/lodestar/issues/9294) - 2026-04-28
+* [Commit] [fix: drop voluntary exits invalidated by parent execution requests (#9292)](https://github.com/ChainSafe/lodestar/commit/a6d86000518a445fd68da9b422cc6a72d487b7e3) - 2026-04-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -213,6 +216,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Note voluntary exit selection with deferred payload processing](https://github.com/ethereum/consensus-specs/pull/5176#pullrequestreview-4181154982) - 2026-04-27
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179901037) - 2026-04-27
 * [Review] [Review on: Test that voluntary exit with withdrawal request fails](https://github.com/ethereum/consensus-specs/pull/5175#pullrequestreview-4180936444) - 2026-04-27
+* [Pull Request] [Add checkpoint root to proposer preferences](https://github.com/ethereum/consensus-specs/pull/5190) - 2026-04-28
+* [Review] [Review on: Add checkpoint root to proposer preferences](https://github.com/ethereum/consensus-specs/pull/5190#pullrequestreview-4193348904) - 2026-04-29
+* [Pull Request] [Fix slot check in proposer preferences gossip](https://github.com/ethereum/consensus-specs/pull/5191) - 2026-04-29
+* [Review] [Review on: Track nay PTC votes](https://github.com/ethereum/consensus-specs/pull/5180#pullrequestreview-4193281113) - 2026-04-28
+* [Commit] [Add checkpoint root to proposer preferences (#5190)](https://github.com/ethereum/consensus-specs/commit/22d02412b53b50d6c31c3a1e1558e735f9cb504b) - 2026-04-28
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

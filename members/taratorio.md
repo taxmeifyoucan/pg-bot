@@ -59,6 +59,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-8037 changes for bal-devnet-4](https://github.com/erigontech/erigon/pull/20821) - 2026-04-26
 * [Pull Request] [[DO-NOT-MERGE] glamsterdam-devnet-0](https://github.com/erigontech/erigon/pull/20822) - 2026-04-26
 * [Commit] [execution: implement EIP-7981 (#20671)](https://github.com/erigontech/erigon/commit/209ea3dac754d4af18fcb0e7ca98bbb30eda4aa4) - 2026-04-26
+* [Pull Request] [[DO-NOT-MERGE] bal-devnet-5](https://github.com/erigontech/erigon/pull/20866) - 2026-04-28
+* [Pull Request] [[DO-NOT-MERGE] [bal-devnet-5] execution: implement 8037 2d gas metering with journaling](https://github.com/erigontech/erigon/pull/20867) - 2026-04-28
+* [Pull Request] [claude: add skill for running local kurtosis testnets](https://github.com/erigontech/erigon/pull/20876) - 2026-04-28
+* [Review] [Review on: claude: add skill for running local kurtosis testnets](https://github.com/erigontech/erigon/pull/20876#pullrequestreview-4190551402) - 2026-04-28
+* [Review] [Review on: claude: re-apply launch-bal-devnet-3 skill rename (restore #20758)](https://github.com/erigontech/erigon/pull/20873#pullrequestreview-4188955375) - 2026-04-28
+* [Issue] [[bal-devnet-5] Update/revise changes to EIP-8037: State Creation Gas Cost Increase](https://github.com/erigontech/erigon/issues/20887) - 2026-04-28
+* [Issue] [[glamsterdam-devnet-0] allow reorgs on canonical chain up to finalised hash](https://github.com/erigontech/erigon/issues/20888) - 2026-04-28
+* [Commit] [claude: lower comment verbosity via CLAUDE.md guideline (#20870)](https://github.com/erigontech/erigon/commit/95b4843bbb4fd5248c3fcbef17f4abec99b10cd1) - 2026-04-28
 ## Q1 2026
 
 

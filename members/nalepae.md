@@ -34,6 +34,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [`getFCUArgs`: Add early return for forkchoice update arguments in non-regular sync.](https://github.com/OffchainLabs/prysm/pull/16721) - 2026-04-26
 * [Pull Request] [Fixed missed first attestation for newly-activated validators when the validator client runs with `--enable-beacon-rest-api`.](https://github.com/OffchainLabs/prysm/pull/16726) - 2026-04-27
 * [Issue] [When using the `--enable-beacon-rest-api` flag, the first attestation after activation of a validator is always missed](https://github.com/OffchainLabs/prysm/issues/16723) - 2026-04-27
+* [Review] [Review on: Fix Forkchoice panic](https://github.com/OffchainLabs/prysm/pull/16728#pullrequestreview-4192295901) - 2026-04-28
+* [Commit] [Fixed missed first attestation for newly-activated validators when the validator client runs with `--enable-beacon-rest-api`. (#16726)](https://github.com/OffchainLabs/prysm/commit/78b8eba9a9e495e53a85c5cd1afc439ef3c12bfb) - 2026-04-28
 ## Q1 2026
 
 
