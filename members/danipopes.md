@@ -298,6 +298,13 @@ Team: Reth
 * [Commit] [perf: set dead_on_return on stack arg if stack is not observed (#344)](https://github.com/paradigmxyz/revmc/commit/e46d8ffcf2fc19f9e8920daf9227347e0091cf32) - 2026-04-28
 * [Commit] [feat: implement JIT runtime (#139)](https://github.com/paradigmxyz/revmc/commit/fde1f1ce32f3901d70f93214fb7d596745be3bc5) - 2026-04-28
 * [Commit] [perf: avoid copying call input (#356)](https://github.com/paradigmxyz/revmc/commit/be67384add53840e6227a6f7e8f19f50b511e7ac) - 2026-04-28
+* [Pull Request] [perf: inline calldataload](https://github.com/paradigmxyz/revmc/pull/367) - 2026-04-30
+* [Pull Request] [perf: reduce stack length IR](https://github.com/paradigmxyz/revmc/pull/366) - 2026-04-29
+* [Pull Request] [feat(runtime): add out-of-process JIT mode](https://github.com/paradigmxyz/revmc/pull/365) - 2026-04-29
+* [Pull Request] [chore: don't add comments](https://github.com/paradigmxyz/revmc/pull/364) - 2026-04-29
+* [Commit] [perf: eliminate redundant memory resize checks (#363)](https://github.com/paradigmxyz/revmc/commit/421ab3c47327dc35aee2b98c2094605be15d2d30) - 2026-04-30
+* [Commit] [chore: don't add comments (#364)](https://github.com/paradigmxyz/revmc/commit/b2f2dccbd3fc6df997b468b10c6e1b9cdc7baf05) - 2026-04-29
+* [Commit] [perf: inline MLOAD/MSTORE (#342)](https://github.com/paradigmxyz/revmc/commit/11077b00549cb218a3c34ed51f86adca04a87fb3) - 2026-04-29
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -327,6 +334,7 @@ Team: Reth
 * [Review] [Review on: perf(revm): enable `p256-aws-lc-rs` feature](https://github.com/paradigmxyz/reth/pull/23721#pullrequestreview-4173222306) - 2026-04-24
 * [Review] [Review on: perf(docker): add platform-specific RUSTFLAGS to Dockerfile](https://github.com/paradigmxyz/reth/pull/23738#pullrequestreview-4179533483) - 2026-04-27
 * [Review] [Review on: perf(db): prebind cursor operation metrics](https://github.com/paradigmxyz/reth/pull/23654#pullrequestreview-4188963088) - 2026-04-28
+* [Review] [Review on: perf(db): prebind cursor operation metrics](https://github.com/paradigmxyz/reth/pull/23654#pullrequestreview-4196340469) - 2026-04-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

@@ -25,6 +25,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(bal): skip prestate entries when checking account existence in BAL](https://github.com/NethermindEth/nethermind/pull/11389#pullrequestreview-4191062936) - 2026-04-28
 * [Review] [Review on: optimise bal structures](https://github.com/NethermindEth/nethermind/pull/11371#pullrequestreview-4187530328) - 2026-04-28
 * [Review] [Review on: test: bump 10s timeouts that flake on Flat DB CI](https://github.com/NethermindEth/nethermind/pull/11380#pullrequestreview-4188465714) - 2026-04-28
+* [Review] [Review on: Reorg up to lastFinalized block](https://github.com/NethermindEth/nethermind/pull/11396#pullrequestreview-4195291065) - 2026-04-29
+* [Pull Request] [consensus: standardize slow block JSON output for cross-client metrics](https://github.com/NethermindEth/nethermind/pull/11400) - 2026-04-29
+* [Review] [Review on: consensus: standardize slow block JSON output for cross-client metrics](https://github.com/NethermindEth/nethermind/pull/11400#pullrequestreview-4196786757) - 2026-04-29
+* [Review] [Review on: fix(parallel): capture and rethrow worker exceptions in ParallelUnbalancedWork](https://github.com/NethermindEth/nethermind/pull/11398#pullrequestreview-4195431447) - 2026-04-29
 ## Q1 2026
 
 

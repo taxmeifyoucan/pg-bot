@@ -49,10 +49,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Using correct getMinEpochsForBlobSidecarsRequests() for blob_by_root range analysis](https://github.com/Consensys/teku/pull/10617#pullrequestreview-4180269734) - 2026-04-27
 * [Review] [Review on: chore: extend by_root reqresp serve range to match by_range](https://github.com/Consensys/teku/pull/10616#pullrequestreview-4179847666) - 2026-04-27
 * [Pull Request] [glamsterdam-devnet-0](https://github.com/Consensys/teku/pull/10626) - 2026-04-28
+* [Pull Request] [Focil Prototype](https://github.com/Consensys/teku/pull/10644) - 2026-04-29
+* [Pull Request] [glamsterdam-devnet-0 fixes](https://github.com/Consensys/teku/pull/10637) - 2026-04-29
+* [Review] [Review on: fix execution payload](https://github.com/Consensys/teku/pull/10638#pullrequestreview-4196862539) - 2026-04-29
+* [Review] [Review on: skip execution payload envelope unblinding when BAL is null](https://github.com/Consensys/teku/pull/10634#pullrequestreview-4195549903) - 2026-04-29
+* [Review] [Review on: glamsterdam-devnet-0 changes](https://github.com/Consensys/teku/pull/10626#pullrequestreview-4195263800) - 2026-04-29
+* [Commit] [glamsterdam-devnet-0 changes (#10626)](https://github.com/Consensys/teku/commit/070728caedba2cc4aae21dfa3a9deb084001500a) - 2026-04-29
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22
 * [Review] [Review on: Skip CI for documentation-only changes](https://github.com/libp2p/jvm-libp2p/pull/464#pullrequestreview-4181200461) - 2026-04-27
+* [Review] [Review on: Filter backoff peers in subscribe() and make v1.3 honour backoff/IDONTWANT](https://github.com/libp2p/jvm-libp2p/pull/472#pullrequestreview-4194906223) - 2026-04-29
 ## Q1 2026
 
 

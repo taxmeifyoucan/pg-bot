@@ -405,6 +405,19 @@ Team: Erigon
 * [Pull Request] [cmd/utils: clarify --snap.skip-state-snapshot-download vs --prune.mode=blocks](https://github.com/erigontech/erigon/pull/20859) - 2026-04-28
 * [Review] [Review on: db/state: extract findMergeRangeInFiles helper](https://github.com/erigontech/erigon/pull/20871#pullrequestreview-4188577182) - 2026-04-28
 * [Commit] [cmd/utils: clarify --snap.skip-state-snapshot-download vs --prune.mode=blocks (#20859)](https://github.com/erigontech/erigon/commit/1124c7d61a7b8386f1a298036e61b91b61a5205f) - 2026-04-28
+* [Review] [Review on: rpc: compression with libdeflate](https://github.com/erigontech/erigon/pull/20665#pullrequestreview-4193898561) - 2026-04-29
+* [Review] [Review on: add ReceiptRoot integrity check](https://github.com/erigontech/erigon/pull/20902#pullrequestreview-4196439344) - 2026-04-29
+* [Pull Request] [[wip] db/state, stagedsync: add agg.WarmupDB() to pre-warm OS page cache](https://github.com/erigontech/erigon/pull/20905) - 2026-04-29
+* [Review] [Review on: integration: guard unwind boundaries](https://github.com/erigontech/erigon/pull/20906#pullrequestreview-4195261145) - 2026-04-29
+* [Review] [Review on: commitment: eliminate BranchMerger from fold→encode→write hot path](https://github.com/erigontech/erigon/pull/20548#pullrequestreview-4193705081) - 2026-04-29
+* [Pull Request] [[wip] db/state, stagedsync: add agg.WarmupDB() to pre-warm OS page cache](https://github.com/erigontech/erigon/pull/20901) - 2026-04-29
+* [Review] [Review on: enforce block-snapshots cap inside aggregator collation](https://github.com/erigontech/erigon/pull/20900#pullrequestreview-4194319225) - 2026-04-29
+* [Pull Request] [cmd/utils: add --only-history flag to rm-state command](https://github.com/erigontech/erigon/pull/20899) - 2026-04-29
+* [Review] [Review on: enforce block-snapshots cap inside aggregator collation](https://github.com/erigontech/erigon/pull/20852#pullrequestreview-4193881145) - 2026-04-29
+* [Review] [Review on: QA: enable test also on http-compressed and websockets for historical mainnet](https://github.com/erigontech/erigon/pull/20815#pullrequestreview-4193885307) - 2026-04-29
+* [Review] [Review on: engineapi: defer V3 payloadAttributes checks until head is VALID](https://github.com/erigontech/erigon/pull/20891#pullrequestreview-4193853398) - 2026-04-29
+* [Review] [Review on: db/state: add unit tests for findMergeRangeInFiles](https://github.com/erigontech/erigon/pull/20882#pullrequestreview-4193791474) - 2026-04-29
+* [Review] [Review on: common/log: redact --ethstats credentials in startup command log](https://github.com/erigontech/erigon/pull/20890#pullrequestreview-4193855277) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

@@ -37,6 +37,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Reduce XDeclaredButNotUsed warnings and other warnings](https://github.com/status-im/nimbus-eth1/pull/4178) - 2026-04-27
 * [Pull Request] [Fix nightly build](https://github.com/status-im/nimbus-eth1/pull/4187) - 2026-04-29
 * [Commit] [Reduce XDeclaredButNotUsed warnings and other warnings (#4178)](https://github.com/status-im/nimbus-eth1/commit/7bd94ad70bbd9bffc10065530e7fe46c7f05885e) - 2026-04-28
+* [Commit] [Fix nightly build (#4187)](https://github.com/status-im/nimbus-eth1/commit/8f8f972b5e8ae765d32962e77c88c53881753cf0) - 2026-04-29
 ## Q1 2026
 
 

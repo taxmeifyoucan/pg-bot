@@ -29,6 +29,8 @@ Team: Erigon
 * [Pull Request] [qa-tests: save detailed test report to view test failure details in the hive-ui](https://github.com/erigontech/erigon/pull/20760) - 2026-04-23
 * [Review] [Review on: ci: fail-fast ci-gate in merge queue by cancelling on leaf failure](https://github.com/erigontech/erigon/pull/20789#pullrequestreview-4171044248) - 2026-04-24
 * [Commit] [qa-tests: save detailed test report to view test failure details in the hive-ui (#20760)](https://github.com/erigontech/erigon/commit/b2cdd4e4aca45300385f9a223b1c0af655cbd95f) - 2026-04-24
+* [Issue] [Reconfigure Nitro-Erigon test runner to run Erigon tests](https://github.com/erigontech/erigon/issues/20907) - 2026-04-29
+* [Issue] [Update pre-built dbs with the last release](https://github.com/erigontech/erigon/issues/20904) - 2026-04-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10

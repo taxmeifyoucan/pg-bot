@@ -30,6 +30,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Commit] [remove get node data (#10330)](https://github.com/besu-eth/besu/commit/fc63750c0224d83c84d4062b16c4282026faef5f) - 2026-04-27
 * [Pull Request] [Lazy get block bodies message decoding](https://github.com/besu-eth/besu/pull/10342) - 2026-04-28
 * [Commit] [Lazy get block bodies message decoding (#10342)](https://github.com/besu-eth/besu/commit/d422133a4f8de58b68da79496e1a27060d687d5d) - 2026-04-28
+* [Review] [Review on: Return empty node for impossibly long trie paths in `GetTrieNodes`](https://github.com/besu-eth/besu/pull/10347#pullrequestreview-4202011675) - 2026-04-30
 ## Q1 2026
 
 

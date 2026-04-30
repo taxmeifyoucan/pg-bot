@@ -39,9 +39,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Using correct getMinEpochsForBlobSidecarsRequests() for blob_by_root range analysis](https://github.com/Consensys/teku/pull/10617#pullrequestreview-4180727323) - 2026-04-27
 
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/Consensys/teku/pull/10615#pullrequestreview-4188793713) - 2026-04-28
+* [Review] [Review on: Add commit-hash tag to localDocker build task](https://github.com/Consensys/teku/pull/10643#pullrequestreview-4197925687) - 2026-04-29
+* [Review] [Review on: glamsterdam-devnet-0 changes](https://github.com/Consensys/teku/pull/10626#pullrequestreview-4195585957) - 2026-04-29
+* [Issue] [NodeDataProvider now needs gloas predicates](https://github.com/Consensys/teku/issues/10635) - 2026-04-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 
+* [Review] [Review on: Distinguish absent PTC votes from negative votes](https://github.com/ethereum/consensus-specs/pull/5180#pullrequestreview-4197398619) - 2026-04-29
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Update .gitignore to  include .worktrees](https://github.com/libp2p/jvm-libp2p/pull/462#pullrequestreview-4180956822) - 2026-04-27
 ## Q1 2026

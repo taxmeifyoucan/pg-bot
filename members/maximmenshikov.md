@@ -23,6 +23,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Add bflat-ts badge](https://github.com/NethermindEth/bflat-riscv64/commit/5ffc8c74583a2353b442510ffcfec7498edd33f9) - 2026-04-19
 * [Commit] [Update badge](https://github.com/NethermindEth/bflat-riscv64/commit/8f6bf37da0ac0a2d0fde6c7a94060712d69dac58) - 2026-04-20
 * [Commit] [Update badge again](https://github.com/NethermindEth/bflat-riscv64/commit/2c6c43ca29d452c2bcbaee1416cb9313d857b865) - 2026-04-27
+* [Commit] [BuildCommand: trim bss for Zisk](https://github.com/NethermindEth/bflat-riscv64/commit/7482577fee3277234ed923818369a03490ddc4b9) - 2026-04-29
+* [Commit] [patch_elf: support --trim-bss](https://github.com/NethermindEth/bflat-riscv64/commit/014e767cc5838591262f16431bb85b761f460c15) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 

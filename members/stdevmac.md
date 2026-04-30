@@ -45,6 +45,11 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: Quicknode fix](https://github.com/NethermindEth/nethermind/pull/11376#pullrequestreview-4183383806) - 2026-04-27
 * [Review] [Review on: feat: integrate Grafana Alloy and Loki for metrics and logging](https://github.com/NethermindEth/nethermind/pull/11189#pullrequestreview-4181148056) - 2026-04-27
 * [Review] [Review on: fix: remove broken backlog warning in AsyncFileWriteQueue](https://github.com/NethermindEth/nethermind/pull/11386#pullrequestreview-4193095471) - 2026-04-28
+* [Pull Request] [fix(state): honour SELFDESTRUCT marker in PerContractState.StorageRoot](https://github.com/NethermindEth/nethermind/pull/11424) - 2026-04-30
+* [Review] [Review on: Upgrade discv5](https://github.com/NethermindEth/nethermind/pull/11419#pullrequestreview-4201298309) - 2026-04-29
+* [Pull Request] [fix(discovery): swallow benign ArgumentException from discv5 TableManager on early shutdown](https://github.com/NethermindEth/nethermind/pull/11416) - 2026-04-29
+* [Pull Request] [feat(core): responsive startup logo with adaptive layout](https://github.com/NethermindEth/nethermind/pull/11413) - 2026-04-29
+* [Issue] [Crash on shutdown: ArgumentException in Discv5Protocol.StopAsync when stopped before init completes](https://github.com/NethermindEth/nethermind/issues/11415) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

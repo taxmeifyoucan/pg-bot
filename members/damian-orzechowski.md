@@ -25,6 +25,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Allow `HistoryPruner` to be callable via decorator](https://github.com/NethermindEth/nethermind/pull/11098#pullrequestreview-4168848063) - 2026-04-24
 * [Review] [Review on: test(evm): add RIPEMD-160 precompile vectors](https://github.com/NethermindEth/nethermind/pull/11378#pullrequestreview-4188183011) - 2026-04-28
 * [Commit] [Allow `HistoryPruner` to be callable via decorator (#11098)](https://github.com/NethermindEth/nethermind/commit/72ff986776a8707168da3da472de84726ac0d14a) - 2026-04-28
+* [Review] [Review on: Snapshot fixes](https://github.com/NethermindEth/nethermind/pull/11401#pullrequestreview-4195966215) - 2026-04-29
+* [Review] [Review on: feat(merge): add testing_commitBlockV1 to commit a block on the chain head](https://github.com/NethermindEth/nethermind/pull/11385#pullrequestreview-4195701327) - 2026-04-29
+* [Review] [Review on: sync: fix beacon headers re-downloaded after #10876 changed GetBlockHashOnMainOrBestDifficultyHash](https://github.com/NethermindEth/nethermind/pull/11339#pullrequestreview-4198415341) - 2026-04-29
+* [Review] [Review on: perf(sync): allow multiple allocation slots per peer (lock-free rewrite)](https://github.com/NethermindEth/nethermind/pull/11361#pullrequestreview-4195682684) - 2026-04-29
+* [Review] [Review on: fix(test): treat ArrowGlacier and GrayGlacier as pre-merge](https://github.com/NethermindEth/nethermind/pull/11315#pullrequestreview-4195739279) - 2026-04-29
 ## Q1 2026
 
 

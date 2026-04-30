@@ -52,6 +52,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [cmd/evm/internal/t8ntool: stream t8n alloc to ease heavy memory cases (#34785)](https://github.com/ethereum/go-ethereum/commit/442bd28b0bad76674348a67b4c9f8689170bfcdb) - 2026-04-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141218984) - 2026-04-20
+
+[gballet/go-ethereum](https://github.com/gballet/go-ethereum)
+* [Pull Request] [cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575) - 2026-04-29
 ## Q1 2026
 
 

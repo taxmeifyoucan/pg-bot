@@ -93,6 +93,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: queue payload envelopes in network processor](https://github.com/ChainSafe/lodestar/pull/9300#pullrequestreview-4192198518) - 2026-04-28
 * [Pull Request] [fix: gloas checkpoint sync](https://github.com/ChainSafe/lodestar/pull/9293) - 2026-04-28
 * [Review] [Review on: fix: gloas checkpoint sync](https://github.com/ChainSafe/lodestar/pull/9293#pullrequestreview-4186699540) - 2026-04-28
+* [Pull Request] [fix: allow known PayloadEnvelopeInput](https://github.com/ChainSafe/lodestar/pull/9307) - 2026-04-29
+* [Review] [Review on: fix: allow known PayloadEnvelopeInput](https://github.com/ChainSafe/lodestar/pull/9307#pullrequestreview-4198487329) - 2026-04-29
+* [Review] [Review on: feat: add dependent root to proposer preferences](https://github.com/ChainSafe/lodestar/pull/9303#pullrequestreview-4197206976) - 2026-04-29
+* [Pull Request] [chore: more logs for range sync](https://github.com/ChainSafe/lodestar/pull/9302) - 2026-04-29
+* [Review] [Review on: fix: queue payload envelopes in network processor](https://github.com/ChainSafe/lodestar/pull/9300#pullrequestreview-4196119852) - 2026-04-29
+* [Issue] [gloamsterdam-devnet-0: Missing PayloadEnvelopeInput for known block](https://github.com/ChainSafe/lodestar/issues/9306) - 2026-04-29
+* [Commit] [fix: allow known PayloadEnvelopeInput (#9307)](https://github.com/ChainSafe/lodestar/commit/a45ba75824fb1c20c475d8140336e121c1c0f20b) - 2026-04-29
+* [Commit] [chore: more logs for range sync (#9302)](https://github.com/ChainSafe/lodestar/commit/1213f9c92dcdfbba14926c0f7a1b2d21b0cc9e29) - 2026-04-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

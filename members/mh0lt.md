@@ -106,6 +106,8 @@ Team: Erigon
 * [Pull Request] [[bal-devnet-3] p2p/protocols/eth: EIP-8159 eth/71 wire protocol (#20793)](https://github.com/erigontech/erigon/pull/20880) - 2026-04-28
 * [Commit] [cmd/utils: add --exec.serial flag to clamp workers to 1 (#20853)](https://github.com/erigontech/erigon/commit/5340dd0a5049947d87bde9f758e5d8010ac60437) - 2026-04-28
 * [Commit] [ci: temporarily skip debug_traceBlockByNumber/test_{33,34} after prestateTracer fix (#20845)](https://github.com/erigontech/erigon/commit/93b3463022bd27101b756882a769a656cec3d299) - 2026-04-28
+* [Pull Request] [[bal-devnet-3] --exec.no-prune now disables all DB pruning](https://github.com/erigontech/erigon/pull/20914) - 2026-04-29
+* [Pull Request] [execution/stagedsync, cmd/utils: --exec.no-prune now disables all DB pruning](https://github.com/erigontech/erigon/pull/20915) - 2026-04-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

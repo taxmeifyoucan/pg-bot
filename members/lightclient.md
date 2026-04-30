@@ -23,6 +23,12 @@ Team: Geth
 * [Review] [Review on: Add EIP: Independent CL/EL Sync](https://github.com/ethereum/EIPs/pull/11557#pullrequestreview-4181954637) - 2026-04-27
 * [Pull Request] [Update EIP-8141: allow payer to approve before sender](https://github.com/ethereum/EIPs/pull/11575) - 2026-04-28
 * [Commit] [Update EIP-8141: allow payer to approve before sender](https://github.com/ethereum/EIPs/commit/778fcc1dfd1b1d7fb9a33d8111744efa3b0dd631) - 2026-04-28
+* [Pull Request] [Update EIP-8141: allow payer to approve before sender](https://github.com/ethereum/EIPs/pull/11580) - 2026-04-29
+* [Review] [Review on: Update EIP-8141: allow payer to approve before sender](https://github.com/ethereum/EIPs/pull/11575#pullrequestreview-4195824418) - 2026-04-29
+* [Pull Request] [Update EIP-8141: remove the rlp call batch for default account](https://github.com/ethereum/EIPs/pull/11577) - 2026-04-29
+* [Pull Request] [Update EIP-8141: allow payer to approve before sender"](https://github.com/ethereum/EIPs/pull/11579) - 2026-04-29
+* [Commit] [Update EIP-8141: remove the rlp call batch for default account](https://github.com/ethereum/EIPs/commit/d3a30ad46317d3ef89267fc78b27a9bc58135900) - 2026-04-29
+* [Commit] [Update EIP-8141: allow payer to approve before sender" (#11579)](https://github.com/ethereum/EIPs/commit/9da8dd815e80e8dc87b3d3c6dcce486b811347bc) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4105687607) - 2026-04-14
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113766865) - 2026-04-15

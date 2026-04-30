@@ -63,6 +63,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Move is_valid_normalized_merkle_branch to Electra](https://github.com/status-im/nimbus-eth2/pull/8350) - 2026-04-28
 * [Pull Request] [Update light client Gloas proof constants](https://github.com/status-im/nimbus-eth2/pull/8352) - 2026-04-28
 * [Pull Request] [Update light client test schedules for Gloas](https://github.com/status-im/nimbus-eth2/pull/8351) - 2026-04-28
+* [Pull Request] [Update light clients for Gloas](https://github.com/status-im/nimbus-eth2/pull/8368) - 2026-04-29
+* [Pull Request] [Collect Gloas light client data](https://github.com/status-im/nimbus-eth2/pull/8367) - 2026-04-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
@@ -85,6 +87,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update light client test format to emit store forkversion (#5188)](https://github.com/ethereum/consensus-specs/commit/cbea9143e4c9da31183670244327e8f00d3b60eb) - 2026-04-28
 * [Commit] [Make fork digest for pre-fulu epoch compatible across specs (#5182)](https://github.com/ethereum/consensus-specs/commit/4d623657a12ef326b7a50107589e6b0c33b439ec) - 2026-04-28
 * [Commit] [Add `create_signed_genesis_block` helper (#5173)](https://github.com/ethereum/consensus-specs/commit/330bda3eb2f7a829e70c152d1fb46971e8d4d886) - 2026-04-28
+* [Review] [Review on: Distinguish absent PTC votes from negative votes](https://github.com/ethereum/consensus-specs/pull/5180#pullrequestreview-4197233796) - 2026-04-29
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13

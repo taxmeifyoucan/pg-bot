@@ -79,6 +79,13 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: refactor: expose executor transaction result type](https://github.com/paradigmxyz/reth/pull/23759#pullrequestreview-4187468273) - 2026-04-28
 * [Commit] [feat: introduce memory-bound channel for network<->tx manager messages (#23802)](https://github.com/paradigmxyz/reth/commit/ad0882928833ae70125416957153f8d8847b03fc) - 2026-04-28
 * [Commit] [feat: support binding discv5 and discv4 to the same port (#23613)](https://github.com/paradigmxyz/reth/commit/87d878a9794fd8f057de0fc4c22206460861a37d) - 2026-04-28
+* [Pull Request] [feat: customizable discovery defaults](https://github.com/paradigmxyz/reth/pull/23843) - 2026-04-29
+* [Pull Request] [chore: don't enforce non-empty blocks in e2e payload building](https://github.com/paradigmxyz/reth/pull/23837) - 2026-04-29
+* [Pull Request] [fix(re-execute): properly handle selfdestructed storage slots](https://github.com/paradigmxyz/reth/pull/23832) - 2026-04-29
+* [Review] [Review on: feat(engine): add getBlobsV4 endpoint](https://github.com/paradigmxyz/reth/pull/23767#pullrequestreview-4196706755) - 2026-04-29
+* [Commit] [feat: customizable discovery defaults (#23843)](https://github.com/paradigmxyz/reth/commit/d25de30050c0cf89e97a08222ae108f81fa2d4c7) - 2026-04-29
+* [Commit] [chore: don't enforce non-empty blocks in e2e payload building (#23837)](https://github.com/paradigmxyz/reth/commit/077e5eecfef02e2fc32d35cd6f79ab5975b975a1) - 2026-04-29
+* [Commit] [fix(re-execute): properly handle selfdestructed storage slots (#23832)](https://github.com/paradigmxyz/reth/commit/88505c7fcbfdebfd3b56d88c86b62e950043c6c4) - 2026-04-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

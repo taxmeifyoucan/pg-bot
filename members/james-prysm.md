@@ -66,6 +66,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: SSZ-REST Engine API Transport for Prysm](https://github.com/OffchainLabs/prysm/pull/16447#pullrequestreview-4180585103) - 2026-04-27
 * [Review] [Review on: SSZ-REST Engine API Transport for Prysm](https://github.com/OffchainLabs/prysm/pull/16447#pullrequestreview-4189288240) - 2026-04-28
 * [Review] [Review on: Fixed missed first attestation for newly-activated validators when the validator client runs with `--enable-beacon-rest-api`.](https://github.com/OffchainLabs/prysm/pull/16726#pullrequestreview-4188181052) - 2026-04-28
+* [Review] [Review on: stateless block v4](https://github.com/OffchainLabs/prysm/pull/16699#pullrequestreview-4197239260) - 2026-04-29
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

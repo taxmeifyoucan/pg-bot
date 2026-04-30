@@ -75,6 +75,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Restrict no-reorg to the prefix of known finalized](https://github.com/besu-eth/besu/pull/10335#pullrequestreview-4190299814) - 2026-04-28
 * [Pull Request] [Merge latest main into bal-devnet-3](https://github.com/besu-eth/besu/pull/10345) - 2026-04-28
 * [Commit] [Restrict no-reorg to the prefix of known finalized (#10335)](https://github.com/besu-eth/besu/commit/29946563a75b8919421c141d752394acc18028f7) - 2026-04-28
+* [Pull Request] [bal-devnet-5: fixes for snobal-devnet-5@v8037.0.0 tests](https://github.com/besu-eth/besu/pull/10367) - 2026-04-29
+* [Pull Request] [update 8037 implementation to meter state gas only on the frame end](https://github.com/besu-eth/besu/pull/10357) - 2026-04-29
+* [Pull Request] [update 8037 implementation to meter state gas only on the frame end](https://github.com/besu-eth/besu/pull/10358) - 2026-04-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

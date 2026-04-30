@@ -18,3 +18,5 @@ Github: [@jking-aus](https://github.com/jking-aus)
 * [Pull Request] [fix: resolve remaining merge conflict markers from #9178](https://github.com/sigp/lighthouse/pull/9192) - 2026-04-27
 * [Pull Request] [fix: gloas from genesis](https://github.com/sigp/lighthouse/pull/9186) - 2026-04-27
 * [Pull Request] [Increase exit consolidation churn](https://github.com/sigp/lighthouse/pull/9211) - 2026-04-28
+* [Pull Request] [fix: payload_attestation_data when no block received for slot](https://github.com/sigp/lighthouse/pull/9225) - 2026-04-29
+* [Review] [Review on: fix: payload_attestation_data when no block received for slot](https://github.com/sigp/lighthouse/pull/9225#pullrequestreview-4198210740) - 2026-04-29

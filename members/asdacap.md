@@ -140,6 +140,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [refactor(init): convert ExitOnInvalidBlock and InitDatabase to DI (#11366)](https://github.com/NethermindEth/nethermind/commit/31a673a6a46a12ef9405b6949c3bfe95eadce3da) - 2026-04-28
 * [Commit] [feat(state): persist FlatLayout and refuse mismatched restarts (#11271)](https://github.com/NethermindEth/nethermind/commit/b5b1d4cebacbfcfa08d74b321561d82f8eba5b83) - 2026-04-28
 * [Commit] [refactor: remove NodeData satellite protocol (#11359)](https://github.com/NethermindEth/nethermind/commit/7359c84eaa771901afb3dc7812dfad28609e54bc) - 2026-04-28
+* [Pull Request] [fix(flat-db): skip ImportFlatDb when pruning trie state lacks head root](https://github.com/NethermindEth/nethermind/pull/11422) - 2026-04-29
+* [Pull Request] [feat(init): auto-detect active state backend at startup](https://github.com/NethermindEth/nethermind/pull/11404) - 2026-04-29
+* [Review] [Review on: feat(init): auto-detect active state backend at startup](https://github.com/NethermindEth/nethermind/pull/11404#pullrequestreview-4197607272) - 2026-04-29
+* [Pull Request] [perf(state): drive storage trie warm-up from writes via HintSet](https://github.com/NethermindEth/nethermind/pull/11409) - 2026-04-29
+* [Review] [Review on: Reorg up to lastFinalized block](https://github.com/NethermindEth/nethermind/pull/11396#pullrequestreview-4195269756) - 2026-04-29
+* [Commit] [sync: fix beacon headers re-downloaded after #10876 changed GetBlockHashOnMainOrBestDifficultyHash (#11339)](https://github.com/NethermindEth/nethermind/commit/81d0aa267f107d40cf7e7a593a5a2c7d156b1a83) - 2026-04-29
+* [Commit] [fix(flat-state): wait for TrieWarmer in-flight jobs before disposing SnapshotBundle (#11394)](https://github.com/NethermindEth/nethermind/commit/3d6caea07ddd015e21820dc8e7285c9c4f7c2c22) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

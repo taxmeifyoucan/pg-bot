@@ -31,6 +31,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [wire fork-choice compliance test data](https://github.com/status-im/nimbus-eth2/pull/8355) - 2026-04-28
 * [Review] [Review on: wire fork-choice compliance test data](https://github.com/status-im/nimbus-eth2/pull/8355#pullrequestreview-4190155283) - 2026-04-28
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Review] [Review on: Fix execution block / receipts JSON downloads on Gloas slots](https://github.com/ethpandaops/dora/pull/666#pullrequestreview-4200553533) - 2026-04-29
+
+[ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
+* [Pull Request] [feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/90) - 2026-04-29
+* [Commit] [fix(config.production.yaml): reuse bal.jpg image for glamsterdam-devnets](https://github.com/ethpandaops/cartographoor/commit/619e4c46218ec206340ccafd0bda95a7ae573577) - 2026-04-29
+* [Commit] [feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/commit/28e56f45c6711e4309de3b070ea3e6490b62fb76) - 2026-04-29
 ## Q1 2026
 
 

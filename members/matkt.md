@@ -46,6 +46,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Treat response size limit as soft cap for all snap messages](https://github.com/besu-eth/besu/pull/10343#pullrequestreview-4187917001) - 2026-04-28
 * [Review] [Review on: Move MutableWorldState and StateRootCommitter to plugin-api; preparement for creating WorldStateArchiveProvider](https://github.com/besu-eth/besu/pull/10135#pullrequestreview-4187728167) - 2026-04-28
 * [Pull Request] [Path-based world state: batch trie-log rolls to cut memory use](https://github.com/besu-eth/besu/pull/10344) - 2026-04-28
+* [Pull Request] [add flag to disable bal stateroot](https://github.com/besu-eth/besu/pull/10363) - 2026-04-29
+* [Pull Request] [add flag to disable bal stateroot on devnet 3](https://github.com/besu-eth/besu/pull/10365) - 2026-04-29
+* [Pull Request] [Add flag to disable bal stateroot devnet 3](https://github.com/besu-eth/besu/pull/10364) - 2026-04-29
+* [Review] [Review on: bal-devnet-3 - Improve BAL account and storage slots sorting](https://github.com/besu-eth/besu/pull/10351#pullrequestreview-4194306865) - 2026-04-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

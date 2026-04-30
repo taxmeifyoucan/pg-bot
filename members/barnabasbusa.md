@@ -67,6 +67,19 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [validators_summary: add proposal accuracy & PTC inclusion stats](https://github.com/ethpandaops/dora/commit/35547c60d130085ce182d16964dbe28d7416962c) - 2026-04-27
 * [Commit] [fix: clamp sync committee assigned count to available bits](https://github.com/ethpandaops/dora/commit/bca76262dcc2c852583fea2afc205264ab041199) - 2026-04-27
 * [Review] [Review on: show ptc votes even when duties are pruned (after 2 epochs)](https://github.com/ethpandaops/dora/pull/662#pullrequestreview-4192247139) - 2026-04-28
+* [Pull Request] [Fix execution block / receipts JSON downloads on Gloas slots](https://github.com/ethpandaops/dora/pull/666) - 2026-04-29
+* [Review] [Review on: Bump the ui-package-dependencies group in /ui-package with 3 updates](https://github.com/ethpandaops/dora/pull/658#pullrequestreview-4199931771) - 2026-04-29
+* [Pull Request] [Swap epoch range filter for slot range on Filtered Slots page](https://github.com/ethpandaops/dora/pull/665) - 2026-04-29
+* [Pull Request] [fix: scope slot page bids to the current slot](https://github.com/ethpandaops/dora/pull/664) - 2026-04-29
+* [Review] [Review on:  correct EIP-8025 proof type mappings in slot proofs template](https://github.com/ethpandaops/dora/pull/663#pullrequestreview-4194949877) - 2026-04-29
+* [Commit] [Merge pull request #658 from ethpandaops/dependabot/npm_and_yarn/ui-package/ui-package-dependencies-f8317151a4](https://github.com/ethpandaops/dora/commit/89029dd0f8e52853d56ba0476192857a841d7c29) - 2026-04-29
+* [Commit] [Merge branch 'master' into dependabot/npm_and_yarn/ui-package/ui-package-dependencies-f8317151a4](https://github.com/ethpandaops/dora/commit/5cf4e20a8d32598e0884e6cc87e4c25ac64403a9) - 2026-04-29
+* [Commit] [Merge pull request #665 from ethpandaops/bbusa/slot-filter-on-filtered-slots](https://github.com/ethpandaops/dora/commit/01a000fce5ca2f9412b8f4f738751ae9a06dc361) - 2026-04-29
+* [Commit] [feat(slots-filtered): swap epoch range filter for slot range](https://github.com/ethpandaops/dora/commit/99408c7d9946e4bdf698b22e7cdc587e7f2057e9) - 2026-04-29
+* [Commit] [fix: push slot filter down into bid cache + DB query](https://github.com/ethpandaops/dora/commit/8f0b1ea92b64abebb937e575752d12cda0d03913) - 2026-04-29
+* [Commit] [chore: trigger CI](https://github.com/ethpandaops/dora/commit/61df21827f4bac7cf7f895a5d890ae1c13923d22) - 2026-04-29
+* [Commit] [fix: scope slot page bids to the current slot](https://github.com/ethpandaops/dora/commit/99062281fb7a30f47e8c7f06a1574c7c15d22a57) - 2026-04-29
+* [Commit] [Merge pull request #663 from chetanyb/update-zkvm-mapping](https://github.com/ethpandaops/dora/commit/2078e440efacb9fe24fa0968cdf3862ce57de135) - 2026-04-29
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -141,6 +154,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Add validation for validator start and end ranges (#164)](https://github.com/ethpandaops/template-devnets/commit/3e00076a920be228764f4cfebe0cfd33f1ddfd35) - 2026-04-29
 * [Commit] [chore: fail playbook if devnet_name is still "template" (#163)](https://github.com/ethpandaops/template-devnets/commit/be356d01771fe9a3dd2bb7425186199fca9ffb45) - 2026-04-28
 * [Commit] [chore: bump mitogen to 0.3.43 (#162)](https://github.com/ethpandaops/template-devnets/commit/8860712f5fca47fef8297da9d616b74f3a0a6ff5) - 2026-04-28
+* [Commit] [nimbus changes](https://github.com/ethpandaops/template-devnets/commit/89dc7ee1b2540245751f233cd7719141f8c38922) - 2026-04-29
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
 * [Pull Request] [core/txpool: report actual 110% threshold in intrinsic gas error](https://github.com/ethereum/go-ethereum/pull/34782) - 2026-04-21

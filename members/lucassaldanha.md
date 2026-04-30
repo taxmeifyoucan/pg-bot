@@ -36,6 +36,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Fix ArithmeticException for builder-indexed voluntary exits in MappedOperationPool](https://github.com/Consensys/teku/pull/10632) - 2026-04-28
 * [Pull Request] [Add integration tests for ExecutionPayloadEnvelopesByRangeV1 and ExecutionPayloadEnvelopesByRootV1](https://github.com/Consensys/teku/pull/10631) - 2026-04-28
 * [Pull Request] [Extend by_root reqresp serve range to match by_range](https://github.com/Consensys/teku/pull/10627) - 2026-04-28
+* [Pull Request] [Add commit-hash tag to localDocker build task](https://github.com/Consensys/teku/pull/10643) - 2026-04-29
+* [Pull Request] [Add commit-hash tag to localDocker build task](https://github.com/Consensys/teku/pull/10642) - 2026-04-29
+* [Pull Request] [Add commit-hash tag to localDocker build task](https://github.com/Consensys/teku/pull/10641) - 2026-04-29
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
@@ -66,6 +69,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Implement IHAVE replacement with onEmitGossip for partial-message peers (step 9)](https://github.com/libp2p/jvm-libp2p/pull/470) - 2026-04-28
 * [Pull Request] [Wire heartbeat TTL GC and cleanup hooks for partial messages (step 8)](https://github.com/libp2p/jvm-libp2p/pull/469) - 2026-04-28
 * [Pull Request] [Implement IDONTWANT suppression for partial-message peers (step 7)](https://github.com/libp2p/jvm-libp2p/pull/468) - 2026-04-28
+* [Pull Request] [Gossipsub partial messages — full implementation (Steps 1–10)](https://github.com/libp2p/jvm-libp2p/pull/473) - 2026-04-29
+* [Pull Request] [Filter backoff peers in subscribe() and make v1.3 honour backoff/IDONTWANT](https://github.com/libp2p/jvm-libp2p/pull/472) - 2026-04-29
+* [Commit] [Filter backoff peers in subscribe() and make v1.3 honour backoff/IDONTWANT (#472)](https://github.com/libp2p/jvm-libp2p/commit/ddbf62a36eee04e1db5299861b54ba1fd86d8a99) - 2026-04-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

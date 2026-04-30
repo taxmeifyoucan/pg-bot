@@ -24,11 +24,16 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182198688) - 2026-04-27
 * [Review] [Review on: Split out `is_valid_merkle_branch` root computation](https://github.com/ethereum/consensus-specs/pull/5166#pullrequestreview-4178304382) - 2026-04-27
 * [Review] [Review on: Remove `should_override_forkchoice_update`](https://github.com/ethereum/consensus-specs/pull/5174#pullrequestreview-4189313004) - 2026-04-28
+* [Review] [Review on: Restore `viable_for_head_roots_and_weights` for gloas](https://github.com/ethereum/consensus-specs/pull/5195#pullrequestreview-4196173385) - 2026-04-29
+* [Pull Request] [Gloas: Modify notify_forkchoice_updated](https://github.com/ethereum/consensus-specs/pull/5197) - 2026-04-29
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20
 * [Pull Request] [engine: Restrict no-reorg to the prefix of known finalized](https://github.com/ethereum/execution-apis/pull/786) - 2026-04-22
 * [Commit] [engine: Restrict no-reorg to the prefix of known finalized (#786)](https://github.com/ethereum/execution-apis/commit/4db2ff91a1811f40aa7c23547eef9d2bc789d27e) - 2026-04-23
+* [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4193835405) - 2026-04-29
+* [Review] [Review on: engine: add -38005 error codes in `engine_newPayloadV2`, ` engine_getPayloadV2` and `engine_forkchoiceUpdatedV2` openrpc methods](https://github.com/ethereum/execution-apis/pull/780#pullrequestreview-4195871629) - 2026-04-29
+* [Review] [Review on: engine: move PayloadAttributesV4 into Amsterdam structures](https://github.com/ethereum/execution-apis/pull/778#pullrequestreview-4195856684) - 2026-04-29
 ## Q1 2026
 
 

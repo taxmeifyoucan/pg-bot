@@ -278,6 +278,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [warmuper: blocking and more (#20819) (#20877)](https://github.com/erigontech/erigon/commit/bfc30afb89919361687da113f5d2941ea3958910) - 2026-04-28
 * [Commit] [claude: re-apply launch-bal-devnet-3 skill rename (restore #20758) (#20873)](https://github.com/erigontech/erigon/commit/bf9171d0922d0a96449770b5d618d737e1d4ce27) - 2026-04-28
 * [Commit] [execution/state: don't seed initial BAL balance from post-write reads (#20843)](https://github.com/erigontech/erigon/commit/aa2b21cce80ef171c957ba2a0d66ab526d4b5db1) - 2026-04-28
+* [Review] [Review on: cmd/utils/app, execution/vm: fix hive legacy-cancun blockchain failures](https://github.com/erigontech/erigon/pull/20892#pullrequestreview-4197637973) - 2026-04-29
+* [Pull Request] [rpc: use library Close helper for websocket disconnect](https://github.com/erigontech/erigon/pull/20913) - 2026-04-29
+* [Review] [Review on: [SharovBot] engineapi: fix flaky tests caused by TOCTOU port races](https://github.com/erigontech/erigon/pull/20328#pullrequestreview-4196037128) - 2026-04-29
+* [Review] [Review on: WIP: Gloas upgrade](https://github.com/erigontech/erigon/pull/18956#pullrequestreview-4197816506) - 2026-04-29
+* [Review] [Review on: execution/execmodule: allow reorgs on canonical chain up to finalised hash](https://github.com/erigontech/erigon/pull/20825#pullrequestreview-4194878136) - 2026-04-29
+* [Review] [Review on: docs: Docusaurus migration with v3.3 versioned docs](https://github.com/erigontech/erigon/pull/20883#pullrequestreview-4194897504) - 2026-04-29
+* [Review] [Review on: parallel commitment calculations implemented](https://github.com/erigontech/erigon/pull/20805#pullrequestreview-4195743136) - 2026-04-29
+* [Review] [Review on: commitment: eliminate BranchMerger from fold→encode→write hot path](https://github.com/erigontech/erigon/pull/20548#pullrequestreview-4195855696) - 2026-04-29
+* [Commit] [rpc: use library Close helper for websocket disconnect (#20913)](https://github.com/erigontech/erigon/commit/d7b2a6332701b97b5a7861c30cff065207a4cd76) - 2026-04-29
+* [Commit] [engineapi: defer V3 payloadAttributes checks until head is VALID (#20891)](https://github.com/erigontech/erigon/commit/02e42de904b16edebd68898dde3189fffd9c99cc) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

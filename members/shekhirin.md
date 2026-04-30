@@ -80,6 +80,13 @@ Team: Reth
 * [Commit] [feat(engine): disable BAL storage prefetch on CLI arg (#23770)](https://github.com/paradigmxyz/reth/commit/b04346ffe5e52393551d6c67f933eb2b0f387f24) - 2026-04-28
 * [Commit] [ci(hive): ignore more EIP-7610 tests (#23769)](https://github.com/paradigmxyz/reth/commit/674623f14ec584cdf943c0a86fecb0306d046f10) - 2026-04-28
 * [Commit] [ci(hive): tag Reth image correctly and update fixtures (#23765)](https://github.com/paradigmxyz/reth/commit/af6d20b5ea21874c682b8ffb1cfb23fb8dee4ce1) - 2026-04-28
+* [Review] [Review on: chore: don't enforce non-empty blocks in e2e payload building](https://github.com/paradigmxyz/reth/pull/23837#pullrequestreview-4197853692) - 2026-04-29
+* [Review] [Review on: fix(tree): prioritize BAL prewarm for state root task](https://github.com/paradigmxyz/reth/pull/23839#pullrequestreview-4197995884) - 2026-04-29
+* [Pull Request] [fix(engine): do not install state hook if BAL is disabled](https://github.com/paradigmxyz/reth/pull/23835) - 2026-04-29
+* [Review] [Review on: chore: release 2.2.0](https://github.com/paradigmxyz/reth/pull/23831#pullrequestreview-4196818900) - 2026-04-29
+* [Review] [Review on: feat(engine): add getBlobsV4 endpoint](https://github.com/paradigmxyz/reth/pull/23767#pullrequestreview-4196694198) - 2026-04-29
+* [Review] [Review on: feat(engine): return error on too deep reorg](https://github.com/paradigmxyz/reth/pull/23784#pullrequestreview-4195221340) - 2026-04-29
+* [Commit] [ci(hive): update amsterdam fixtures and branch (#23807)](https://github.com/paradigmxyz/reth/commit/76e886578b26dd18b14c21ef0e7f387284776566) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

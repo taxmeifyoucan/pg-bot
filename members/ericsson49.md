@@ -36,6 +36,11 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 * [Commit] [Avoid slashing the same validator twice in the comptests (#5160)](https://github.com/ethereum/consensus-specs/commit/a7ab94b72eab717f30389eedfce5aea5f05579d7) - 2026-04-24
 * [Commit] [Generate compliance tests with pytest plugin (#5143)](https://github.com/ethereum/consensus-specs/commit/46f991cbb309cd4cbecabf017a548574b0c0b5bf) - 2026-04-24
 * [Commit] [Improve comptests fork choice generator (#5147)](https://github.com/ethereum/consensus-specs/commit/547551d269d4fb0d51c247d935058d68b6ec6979) - 2026-04-28
+* [Pull Request] [Use `Union[None, T]` instead of `Optional[T]` in SSZ datastructures](https://github.com/ethereum/consensus-specs/pull/5200) - 2026-04-30
+* [Pull Request] [Restore `viable_for_head_roots_and_weights` for gloas](https://github.com/ethereum/consensus-specs/pull/5195) - 2026-04-29
+* [Pull Request] [Limit test group size for comptests](https://github.com/ethereum/consensus-specs/pull/5193) - 2026-04-29
+* [Commit] [Restore `viable_for_head_roots_and_weights` for gloas (#5195)](https://github.com/ethereum/consensus-specs/commit/ecbb89228f1c1dd6686b9752634fa882d092ef08) - 2026-04-29
+* [Commit] [Limit test group size for comptests (#5193)](https://github.com/ethereum/consensus-specs/commit/19eefe28c8e479336873e2d8f5281baa27e13711) - 2026-04-29
 ## Q1 2026
 
 

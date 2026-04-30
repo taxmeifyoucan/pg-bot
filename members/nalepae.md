@@ -36,6 +36,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [When using the `--enable-beacon-rest-api` flag, the first attestation after activation of a validator is always missed](https://github.com/OffchainLabs/prysm/issues/16723) - 2026-04-27
 * [Review] [Review on: Fix Forkchoice panic](https://github.com/OffchainLabs/prysm/pull/16728#pullrequestreview-4192295901) - 2026-04-28
 * [Commit] [Fixed missed first attestation for newly-activated validators when the validator client runs with `--enable-beacon-rest-api`. (#16726)](https://github.com/OffchainLabs/prysm/commit/78b8eba9a9e495e53a85c5cd1afc439ef3c12bfb) - 2026-04-28
+* [Review] [Review on: stateless block v4](https://github.com/OffchainLabs/prysm/pull/16699#pullrequestreview-4196994545) - 2026-04-29
+* [Pull Request] [Reduce chain service processing time at epoch transition](https://github.com/OffchainLabs/prysm/pull/16731) - 2026-04-29
+* [Review] [Review on: Reduce chain service processing time at epoch transition](https://github.com/OffchainLabs/prysm/pull/16731#pullrequestreview-4198389541) - 2026-04-29
+* [Issue] [On mainnet, a lot of blocks at slot 0 are synced > 4 seconds into the slot](https://github.com/OffchainLabs/prysm/issues/16730) - 2026-04-29
 ## Q1 2026
 
 

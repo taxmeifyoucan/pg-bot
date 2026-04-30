@@ -41,6 +41,15 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [ci: downgrade `publish-bindings` workflow to use `ubuntu-22.04` instead](https://github.com/ChainSafe/lodestar-z/pull/327) - 2026-04-28
 * [Pull Request] [chore(bls): expose bls sizes](https://github.com/ChainSafe/lodestar-z/pull/328) - 2026-04-28
 * [Commit] [ci: downgrade `publish-bindings` workflow to use `ubuntu-22.04` instead (#327)](https://github.com/ChainSafe/lodestar-z/commit/fbd5ae90a78fb962a86b12ebf403eb9b4708ef8f) - 2026-04-28
+* [Review] [Review on: feat: migrate BeaconStateView to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/330#pullrequestreview-4193745458) - 2026-04-29
+* [Pull Request] [fix(stf): commit before bulk read](https://github.com/ChainSafe/lodestar-z/pull/334) - 2026-04-29
+* [Review] [Review on: fix(stf): commit before bulk read](https://github.com/ChainSafe/lodestar-z/pull/334#pullrequestreview-4196837088) - 2026-04-29
+* [Pull Request] [refactor: use dontTransferCache on the bindings layer](https://github.com/ChainSafe/lodestar-z/pull/333) - 2026-04-29
+* [Pull Request] [chore: mv utils/anchor_checkpoint.zig to top-level](https://github.com/ChainSafe/lodestar-z/pull/332) - 2026-04-29
+* [Review] [Review on: chore: mv utils/anchor_checkpoint.zig to top-level](https://github.com/ChainSafe/lodestar-z/pull/332#pullrequestreview-4195096918) - 2026-04-29
+* [Commit] [refactor: use dontTransferCache on the bindings layer (#333)](https://github.com/ChainSafe/lodestar-z/commit/de1bd6eb2444a3dcda0976230cb1f62b666deffa) - 2026-04-29
+* [Commit] [chore: mv utils/anchor_checkpoint.zig to top-level (#332)](https://github.com/ChainSafe/lodestar-z/commit/8c4898b35a81fb788348d2e75ff86807b6416f76) - 2026-04-29
+* [Commit] [chore(bls): expose bls sizes (#328)](https://github.com/ChainSafe/lodestar-z/commit/60cca7975d6a238389c77a11216c0d8b9dfca933) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

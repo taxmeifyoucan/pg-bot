@@ -86,6 +86,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Refine runner configs; activate discovery](https://github.com/NethermindEth/nethermind/pull/11384) - 2026-04-28
 * [Review] [Review on: eth/71](https://github.com/NethermindEth/nethermind/pull/10844#pullrequestreview-4188141929) - 2026-04-28
 * [Review] [Review on: feat(state): persist FlatLayout and refuse mismatched restarts](https://github.com/NethermindEth/nethermind/pull/11271#pullrequestreview-4188162206) - 2026-04-28
+* [Pull Request] [Upgrade discv5](https://github.com/NethermindEth/nethermind/pull/11419) - 2026-04-29
+* [Pull Request] [Fix snap lengths](https://github.com/NethermindEth/nethermind/pull/11414) - 2026-04-29
+* [Commit] [Refine runner configs; activate discovery (#11384)](https://github.com/NethermindEth/nethermind/commit/ca1c909467fdf01c3b3f714c2fbd17798bffc05f) - 2026-04-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

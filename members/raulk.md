@@ -18,3 +18,6 @@ Github: [@raulk](https://github.com/raulk)
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Gloas: remove duplicated `parent_execution_requests` from `BeaconBlockBody`](https://github.com/ethereum/consensus-specs/issues/5185) - 2026-04-28
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [feat(gloas): add gossip block wire type](https://github.com/OffchainLabs/prysm/pull/16729) - 2026-04-29

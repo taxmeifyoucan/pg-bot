@@ -128,6 +128,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Bal devnet 5](https://github.com/NethermindEth/nethermind/pull/11392) - 2026-04-28
 * [Review] [Review on: fix(bal): skip prestate entries when checking account existence in BAL](https://github.com/NethermindEth/nethermind/pull/11389#pullrequestreview-4191980211) - 2026-04-28
 * [Pull Request] [Bal devnet 5](https://github.com/NethermindEth/nethermind/pull/11383) - 2026-04-28
+* [Pull Request] [fix(parallel): capture and rethrow worker exceptions in ParallelUnbalancedWork](https://github.com/NethermindEth/nethermind/pull/11398) - 2026-04-29
+* [Review] [Review on: fix(parallel): capture and rethrow worker exceptions in ParallelUnbalancedWork](https://github.com/NethermindEth/nethermind/pull/11398#pullrequestreview-4195458349) - 2026-04-29
+* [Commit] [fix(parallel): capture and rethrow worker exceptions in ParallelUnbalancedWork (#11398)](https://github.com/NethermindEth/nethermind/commit/309f046aa02b80c216f4d96330e01f4cff43107b) - 2026-04-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

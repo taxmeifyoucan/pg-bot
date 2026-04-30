@@ -95,6 +95,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: DebugOperationTracer #10115 - 10 : storage snapshot timing ](https://github.com/besu-eth/besu/pull/10176#pullrequestreview-4185968441) - 2026-04-28
 * [Review] [Review on: Feat-11 : Add `limit` param to stop opcode trace capture after N steps](https://github.com/besu-eth/besu/pull/10173#pullrequestreview-4185892379) - 2026-04-28
 * [Review] [Review on: feat(debug): add enableReturnData param and returnData field ](https://github.com/besu-eth/besu/pull/10172#pullrequestreview-4185821994) - 2026-04-28
+* [Review] [Review on: Fix forkchoice update reporting VALID after failed setNewHead](https://github.com/besu-eth/besu/pull/10271#pullrequestreview-4193807295) - 2026-04-29
+* [Review] [Review on: feat(debug): add enableReturnData param and returnData field ](https://github.com/besu-eth/besu/pull/10172#pullrequestreview-4201627135) - 2026-04-30
+* [Review] [Review on: add flag to disable bal stateroot](https://github.com/besu-eth/besu/pull/10363#pullrequestreview-4201409150) - 2026-04-29
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

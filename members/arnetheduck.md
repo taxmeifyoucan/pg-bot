@@ -23,6 +23,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [gloas: pool cleanups](https://github.com/status-im/nimbus-eth2/pull/8348) - 2026-04-28
 * [Pull Request] [gloas: don't (re)load block to to send payload attestation](https://github.com/status-im/nimbus-eth2/pull/8349) - 2026-04-28
 * [Review] [Review on: Check parent block full](https://github.com/status-im/nimbus-eth2/pull/7664#pullrequestreview-4187119104) - 2026-04-28
+
+* [Pull Request] [gloas: reduce envelope root request size](https://github.com/status-im/nimbus-eth2/pull/8370) - 2026-04-29
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4195918133) - 2026-04-29
 ## Q1 2026
 
 

@@ -41,6 +41,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: remove broken backlog warning in AsyncFileWriteQueue (#11386)](https://github.com/NethermindEth/nethermind/commit/d97d88f2c75a1bc6eda3cfe2c674e01aa5ccc854) - 2026-04-28
 * [Commit] [fix(bal): skip prestate entries when checking account existence in BAL (#11389)](https://github.com/NethermindEth/nethermind/commit/db8489d9fbc4aa7b029413817e7e6730579ef49f) - 2026-04-28
 * [Commit] [perf: eliminate redundant storage tree commits in FlatWorldStateScope (#11349)](https://github.com/NethermindEth/nethermind/commit/aa9609ad52726e9bc1332d6e67d26d3a1f0abffd) - 2026-04-28
+* [Pull Request] [fix: mark top-level CREATE account for selfdestruct state gas refund](https://github.com/NethermindEth/nethermind/pull/11407) - 2026-04-29
+* [Pull Request] [Fix/bal code deposit state gas](https://github.com/NethermindEth/nethermind/pull/11405) - 2026-04-29
+* [Pull Request] [Feat/evm enginetest](https://github.com/NethermindEth/nethermind/pull/11399) - 2026-04-29
+* [Review] [Review on: fix(parallel): capture and rethrow worker exceptions in ParallelUnbalancedWork](https://github.com/NethermindEth/nethermind/pull/11398#pullrequestreview-4195302314) - 2026-04-29
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02
@@ -71,6 +75,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Add remote exec workflow for stateful-generator](https://github.com/NethermindEth/gas-benchmarks/pull/140) - 2026-04-28
 * [Commit] [chore: remove generator-amsterdam genesis files from LFS tracking](https://github.com/NethermindEth/gas-benchmarks/commit/5e27c5498c074843c39862188b0e6156386136db) - 2026-04-29
 * [Commit] [feat: add jochemnet chain support to stateful generator (#141)](https://github.com/NethermindEth/gas-benchmarks/commit/a4722007eb65bf4ac5a693f9d6bcd8fc906c5ba2) - 2026-04-28
+* [Commit] [Resolve jochemnet generation paths from chainspec](https://github.com/NethermindEth/gas-benchmarks/commit/a569479401929f36100f9916d43657bd50a12042) - 2026-04-29
+* [Commit] [Always use jochemnet stubs for jochemnet generation](https://github.com/NethermindEth/gas-benchmarks/commit/e4ca5365689cb6ae13a74265886eaca3a53f9b71) - 2026-04-29
+* [Commit] [Use jochemnet stubs for jochemnet generation](https://github.com/NethermindEth/gas-benchmarks/commit/17b7aa25c7a560e334dcc31e5c11d9a8bbb80297) - 2026-04-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Remove unused bloatnet factory entries from mainnet stubs](https://github.com/ethereum/execution-specs/pull/2670) - 2026-04-13
 * [Commit] [refactor(test-benchmark): remove unused bloatnet factory entries from mainnet stubs (#2670)](https://github.com/ethereum/execution-specs/commit/a830dab6f130151ab9023a473b7543120aa21961) - 2026-04-14

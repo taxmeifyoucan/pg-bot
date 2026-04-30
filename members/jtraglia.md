@@ -158,6 +158,21 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Resolve TODO to not use the hacky testing setup](https://github.com/ethereum/consensus-specs/pull/5184#pullrequestreview-4188398495) - 2026-04-28
 * [Review] [Review on: Add `create_signed_genesis_block` helper](https://github.com/ethereum/consensus-specs/pull/5173#pullrequestreview-4186720800) - 2026-04-28
 * [Commit] [Bump version to v1.7.0-alpha.6 (#5189)](https://github.com/ethereum/consensus-specs/commit/949ddccfec523c7d8ba7b14d54a90d926aaff928) - 2026-04-28
+* [Review] [Review on: Restore `viable_for_head_roots_and_weights` for gloas](https://github.com/ethereum/consensus-specs/pull/5195#pullrequestreview-4196493325) - 2026-04-29
+* [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4194838271) - 2026-04-29
+* [Review] [Review on: Add suggestion to queue sidecars per peer](https://github.com/ethereum/consensus-specs/pull/5199#pullrequestreview-4198037283) - 2026-04-29
+* [Review] [Review on: Distinguish absent PTC votes from negative votes](https://github.com/ethereum/consensus-specs/pull/5180#pullrequestreview-4197008256) - 2026-04-29
+* [Pull Request] [Simplify `bid.parent_block_hash` initialization](https://github.com/ethereum/consensus-specs/pull/5194) - 2026-04-29
+* [Review] [Review on: Set `blob_data_available` in `PayloadAttestationMessage`](https://github.com/ethereum/consensus-specs/pull/4769#pullrequestreview-4197717024) - 2026-04-29
+* [Review] [Review on: Gloas: Modify notify_forkchoice_updated](https://github.com/ethereum/consensus-specs/pull/5197#pullrequestreview-4196772670) - 2026-04-29
+* [Review] [Review on: Use dependent root for proposer preferences](https://github.com/ethereum/consensus-specs/pull/5196#pullrequestreview-4196741064) - 2026-04-29
+* [Pull Request] [Bump version to v1.7.0-alpha.7](https://github.com/ethereum/consensus-specs/pull/5198) - 2026-04-29
+* [Review] [Review on: Remove `should_override_forkchoice_update`](https://github.com/ethereum/consensus-specs/pull/5174#pullrequestreview-4196544532) - 2026-04-29
+* [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4195282838) - 2026-04-29
+* [Review] [Review on: Limit test group size for comptests](https://github.com/ethereum/consensus-specs/pull/5193#pullrequestreview-4195242947) - 2026-04-29
+* [Review] [Review on: Fix slot check in proposer preferences gossip](https://github.com/ethereum/consensus-specs/pull/5191#pullrequestreview-4194903718) - 2026-04-29
+* [Commit] [Simplify `bid.parent_block_hash` initialization (#5194)](https://github.com/ethereum/consensus-specs/commit/68d8934757faf214cd542f82318a98f13089ef1c) - 2026-04-29
+* [Commit] [Bump version to v1.7.0-alpha.7 (#5198)](https://github.com/ethereum/consensus-specs/commit/150973213867d4e382adea310746b4917fd74340) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

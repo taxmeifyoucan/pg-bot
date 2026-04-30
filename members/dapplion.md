@@ -30,13 +30,19 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Gloas publish data columns during local block building](https://github.com/sigp/lighthouse/pull/9182#pullrequestreview-4186754166) - 2026-04-28
 * [Review] [Review on: Gloas filter conflicting voluntary exits](https://github.com/sigp/lighthouse/pull/9183#pullrequestreview-4188619456) - 2026-04-28
 * [Review] [Review on: Wire up ePBS SSE events and fix envelope availability](https://github.com/sigp/lighthouse/pull/9199#pullrequestreview-4187048783) - 2026-04-28
+* [Pull Request] [Generalise reconstruct_historic_states for ranged replay](https://github.com/sigp/lighthouse/pull/9222) - 2026-04-29
+* [Pull Request] [Add Gloas bid inclusion](https://github.com/sigp/lighthouse/pull/9221) - 2026-04-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 
 * [Pull Request] [Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181) - 2026-04-28
 * [Pull Request] [Add `beacon_block_headers_by_root` req/resp on Gloas](https://github.com/ethereum/consensus-specs/pull/5179) - 2026-04-28
+* [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4196026269) - 2026-04-29
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4181435690) - 2026-04-27
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [refactor(payload): make EthereumPayloadBuilder generic over node primitives](https://github.com/paradigmxyz/reth/pull/23827) - 2026-04-29
 ## Q1 2026
 
 

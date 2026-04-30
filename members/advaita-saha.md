@@ -43,6 +43,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Review] [Review on: add metrics to engineAPI](https://github.com/status-im/nimbus-eth1/pull/4183#pullrequestreview-4181036855) - 2026-04-27
 * [Pull Request] [improve `eth_getTransactionReceipt` performance](https://github.com/status-im/nimbus-eth1/pull/4186) - 2026-04-28
 * [Commit] [improve eth_getTransactionReceipt performance (#4186)](https://github.com/status-im/nimbus-eth1/commit/64dc87258d3d716c42422e9d6a8a947ff9bf6173) - 2026-04-28
+* [Pull Request] [improve `eth_getLogs`](https://github.com/status-im/nimbus-eth1/pull/4191) - 2026-04-29
 ## Q1 2026
 
 

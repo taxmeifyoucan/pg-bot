@@ -33,6 +33,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Remove Bonsai archive freezer storage and Archiver component](https://github.com/besu-eth/besu/pull/10339) - 2026-04-28
 * [Review] [Review on: Remove peer task system feature toggle from ForwardSyncStep](https://github.com/besu-eth/besu/pull/10197#pullrequestreview-4185685063) - 2026-04-28
 * [Issue] [Remove Bonsai archive freezer storage and Archiver component](https://github.com/besu-eth/besu/issues/10338) - 2026-04-28
+* [Issue] [Distinguish Bonsai archive migration in progress in JSON-RPC responses](https://github.com/besu-eth/besu/issues/10356) - 2026-04-29
 ## Q1 2026
 
 

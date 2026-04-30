@@ -41,6 +41,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Replace `Uint(len(...))` with `ulen(...)` (#2580)](https://github.com/ethereum/execution-specs/commit/6f43bc6fb36852f48de008e8ddd7374ee3cfe86c) - 2026-04-22
 * [Pull Request] [feat(doc): sort fork directory listings chronologically](https://github.com/ethereum/execution-specs/pull/2756) - 2026-04-28
 * [Commit] [feat(doc): sort fork directory listings chronologically (#2756)](https://github.com/ethereum/execution-specs/commit/78fe5d2cdf5481ae4fbd2c69305eff10599f884f) - 2026-04-28
+* [Pull Request] [feat(doc): replace index with __init__.py](https://github.com/ethereum/execution-specs/pull/2779) - 2026-04-29
 ## Q1 2026
 
 

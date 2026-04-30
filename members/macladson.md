@@ -28,6 +28,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Avoid lint and fmt for agents](https://github.com/sigp/lighthouse/pull/9166#pullrequestreview-4159890441) - 2026-04-23
 * [Review] [Review on: Add HTTP API spec test to Lighthouse](https://github.com/sigp/lighthouse/pull/8904#pullrequestreview-4182554926) - 2026-04-27
 * [Pull Request] [Fix validator manager compilation](https://github.com/sigp/lighthouse/pull/9187) - 2026-04-27
+* [Pull Request] [Remove `EthSpec`](https://github.com/sigp/lighthouse/pull/9229) - 2026-04-29
 ## Q1 2026
 
 

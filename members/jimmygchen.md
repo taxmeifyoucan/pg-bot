@@ -39,6 +39,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Gloas HTTP API tests passing](https://github.com/sigp/lighthouse/pull/9154#pullrequestreview-4190101662) - 2026-04-28
 * [Pull Request] [Wire up ePBS SSE events and fix envelope availability](https://github.com/sigp/lighthouse/pull/9199) - 2026-04-28
 * [Review] [Review on: Fix spurious re-org logs on ePBS payload status changes](https://github.com/sigp/lighthouse/pull/9191#pullrequestreview-4186692810) - 2026-04-28
+* [Review] [Review on: fix: payload_attestation_data when no block received for slot](https://github.com/sigp/lighthouse/pull/9225#pullrequestreview-4198122848) - 2026-04-29
+* [Pull Request] [Replace electra sync tests with gloas sync tests on CI](https://github.com/sigp/lighthouse/pull/9228) - 2026-04-29
+* [Pull Request] [Import execution payload envelope locally during HTTP API publication](https://github.com/sigp/lighthouse/pull/9226) - 2026-04-29
+* [Review] [Review on: Update proposer boost calculation](https://github.com/sigp/lighthouse/pull/9215#pullrequestreview-4196646193) - 2026-04-29
+* [Review] [Review on: Add Gloas bid inclusion](https://github.com/sigp/lighthouse/pull/9221#pullrequestreview-4196035666) - 2026-04-29
+* [Review] [Review on: Update CI: warp runnner to use snapshot and use warm](https://github.com/sigp/lighthouse/pull/9217#pullrequestreview-4195175780) - 2026-04-29
+* [Review] [Review on: Spec v1.7.0-alpha.6 and Gloas genesis](https://github.com/sigp/lighthouse/pull/9190#pullrequestreview-4195037321) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026

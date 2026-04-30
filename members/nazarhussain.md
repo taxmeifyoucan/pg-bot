@@ -26,6 +26,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: migrate BeaconStateView to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/330) - 2026-04-28
 * [Review] [Review on: ci: downgrade `publish-bindings` workflow to use `ubuntu-22.04` instead](https://github.com/ChainSafe/lodestar-z/pull/327#pullrequestreview-4188572924) - 2026-04-28
 * [Commit] [feat: use high level zapi dsl (#320)](https://github.com/ChainSafe/lodestar-z/commit/2515713d0d08d21aa2c0fa3d3beea2c84d641d7f) - 2026-04-28
+* [Review] [Review on: feat: migrate BeaconStateView to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/330#pullrequestreview-4197445527) - 2026-04-29
+* [Review] [Review on: fix(stf): commit before bulk read](https://github.com/ChainSafe/lodestar-z/pull/334#pullrequestreview-4197531928) - 2026-04-29
+* [Review] [Review on: refactor: use dontTransferCache on the bindings layer](https://github.com/ChainSafe/lodestar-z/pull/333#pullrequestreview-4197432165) - 2026-04-29
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-4097078708) - 2026-04-13
 * [Review] [Review on: fix(prover): implement eth_getBlockNumber verified request handler](https://github.com/ChainSafe/lodestar/pull/9203#pullrequestreview-4097017101) - 2026-04-13

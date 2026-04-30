@@ -109,6 +109,12 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [fix(bn254): add Poseidon2 round-number constants and fix benchmark (#1557)](https://github.com/Plonky3/Plonky3/commit/22fb19ee127858c8007de93d6e98ecf39c14082f) - 2026-04-28
 * [Commit] [fri: full test coverage for verifier errors (#1529)](https://github.com/Plonky3/Plonky3/commit/78e569bca9e8a631850e3bd342b0bddf0a7394f9) - 2026-04-28
 * [Commit] [whir: full integration from whir-p3 (#1523)](https://github.com/Plonky3/Plonky3/commit/6c4824823345b5903f03e06fa7a97733f22b9842) - 2026-04-28
+* [Review] [Review on: perf(split_eq): SIMD-delayed compress_prefix_to_packed for the Packed eq1 path](https://github.com/Plonky3/Plonky3/pull/1592#pullrequestreview-4199489299) - 2026-04-29
+* [Pull Request] [perf(whir): delayed Montgomery reduction in sumcheck round-coefficient kernel](https://github.com/Plonky3/Plonky3/pull/1597) - 2026-04-29
+* [Review] [Review on: poseidon1: verify generated constants against Rust tables](https://github.com/Plonky3/Plonky3/pull/1594#pullrequestreview-4200737422) - 2026-04-29
+* [Review] [Review on: [HVZK-WHIR 2/6] Private zero-evader for OOD samples](https://github.com/Plonky3/Plonky3/pull/1593#pullrequestreview-4199129804) - 2026-04-29
+* [Review] [Review on: fix(goldilocks): canonicalize sub_asm and harden NEON ASM tests](https://github.com/Plonky3/Plonky3/pull/1591#pullrequestreview-4197267391) - 2026-04-29
+* [Commit] [fix(goldilocks): canonicalize sub_asm and harden NEON ASM tests (#1591)](https://github.com/Plonky3/Plonky3/commit/a7fbd36973b7467364b16404443c841ced1ff4da) - 2026-04-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 ## Q1 2026

@@ -32,6 +32,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Bound precompile result caches to semantic-prefix slice](https://github.com/besu-eth/besu/pull/10350) - 2026-04-28
 * [Review] [Review on: Log4j CVE fix](https://github.com/besu-eth/besu/pull/10332#pullrequestreview-4190383852) - 2026-04-28
 * [Commit] [Bound precompile result caches to semantic-prefix slice (#10350)](https://github.com/besu-eth/besu/commit/91796a19d85d124bf7ce623e153e03c5234a842b) - 2026-04-28
+* [Review] [Review on: CHANGELOG: prep for 26.5.0](https://github.com/besu-eth/besu/pull/10355#pullrequestreview-4198006393) - 2026-04-29
+* [Commit] [CHANGELOG: prep for 26.5.0 (#10355)](https://github.com/besu-eth/besu/commit/17cdf6264ac5851e448c633b5f15667cb6bd4d25) - 2026-04-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 ## Q1 2026

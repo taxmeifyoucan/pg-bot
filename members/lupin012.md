@@ -87,6 +87,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [QA : extend test on eth_simulateV1 with test on historical and latest](https://github.com/erigontech/erigon/pull/20818) - 2026-04-26
 * [Commit] [rpc : optimize eth_getLogs (#20561)](https://github.com/erigontech/erigon/commit/fd5786b1f3da1674e4b4d29c991902af336da61b) - 2026-04-26
 * [Commit] [CI: centralise RPC_VERSION in file and fix rpc-tests cache stale files (#20824)](https://github.com/erigontech/erigon/commit/d844d74a6b5c1075a38c27a109325257a601cca5) - 2026-04-28
+* [Review] [Review on: rpc: add canonical hash cache](https://github.com/erigontech/erigon/pull/19173#pullrequestreview-4200609716) - 2026-04-29
+* [Pull Request] [ rpc/graphql: implement transaction resolver, fix Long scalar and pre-Byzantium status ](https://github.com/erigontech/erigon/pull/20916) - 2026-04-29
+* [Commit] [rpc: compression with libdeflate (#20665)](https://github.com/erigontech/erigon/commit/5b0ba8d75e30eb94ede1e004a2a27f7ca7ae0977) - 2026-04-29
+* [Commit] [QA: enable test also on http-compressed and websockets for historical mainnet (#20815)](https://github.com/erigontech/erigon/commit/58576d51f5cba271f2abc926495256c1a88cb319) - 2026-04-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

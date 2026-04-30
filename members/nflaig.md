@@ -174,6 +174,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Review builder circuit breaker in gloas](https://github.com/ChainSafe/lodestar/issues/9296) - 2026-04-28
 * [Issue] [Review how we handle envelopes for unknown blockroot](https://github.com/ChainSafe/lodestar/issues/9294) - 2026-04-28
 * [Commit] [fix: drop voluntary exits invalidated by parent execution requests (#9292)](https://github.com/ChainSafe/lodestar/commit/a6d86000518a445fd68da9b422cc6a72d487b7e3) - 2026-04-28
+* [Review] [Review on: feat: add PTC data availability and quorum tracking](https://github.com/ChainSafe/lodestar/pull/9284#pullrequestreview-4201171286) - 2026-04-29
+* [Pull Request] [fix: remove gloas genesis workarounds](https://github.com/ChainSafe/lodestar/pull/9308) - 2026-04-29
+* [Review] [Review on: fix: remove gloas genesis workarounds](https://github.com/ChainSafe/lodestar/pull/9308#pullrequestreview-4201080885) - 2026-04-29
+* [Review] [Review on: fix: allow known PayloadEnvelopeInput](https://github.com/ChainSafe/lodestar/pull/9307#pullrequestreview-4200568067) - 2026-04-29
+* [Pull Request] [feat: add dependent root to proposer preferences](https://github.com/ChainSafe/lodestar/pull/9303) - 2026-04-29
+* [Review] [Review on: feat: add dependent root to proposer preferences](https://github.com/ChainSafe/lodestar/pull/9303#pullrequestreview-4197414209) - 2026-04-29
+* [Review] [Review on: fix: queue payload envelopes in network processor](https://github.com/ChainSafe/lodestar/pull/9300#pullrequestreview-4196132467) - 2026-04-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -221,6 +228,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Fix slot check in proposer preferences gossip](https://github.com/ethereum/consensus-specs/pull/5191) - 2026-04-29
 * [Review] [Review on: Track nay PTC votes](https://github.com/ethereum/consensus-specs/pull/5180#pullrequestreview-4193281113) - 2026-04-28
 * [Commit] [Add checkpoint root to proposer preferences (#5190)](https://github.com/ethereum/consensus-specs/commit/22d02412b53b50d6c31c3a1e1558e735f9cb504b) - 2026-04-28
+* [Review] [Review on: Distinguish absent PTC votes from negative votes](https://github.com/ethereum/consensus-specs/pull/5180#pullrequestreview-4196013417) - 2026-04-29
+* [Review] [Review on: Simplify `bid.parent_block_hash` initialization](https://github.com/ethereum/consensus-specs/pull/5194#pullrequestreview-4197282916) - 2026-04-29
+* [Review] [Review on: Set `blob_data_available` in `PayloadAttestationMessage`](https://github.com/ethereum/consensus-specs/pull/4769#pullrequestreview-4197778785) - 2026-04-29
+* [Pull Request] [Use dependent root for proposer preferences](https://github.com/ethereum/consensus-specs/pull/5196) - 2026-04-29
+* [Commit] [Use dependent root for proposer preferences (#5196)](https://github.com/ethereum/consensus-specs/commit/6ed1d3de19ac8f0520cfa26c44834684b8ee42a0) - 2026-04-29
+* [Commit] [Fix slot check in proposer preferences gossip (#5191)](https://github.com/ethereum/consensus-specs/commit/df7a4fc4e607da870db5e6a1b0a6e613c2031110) - 2026-04-29
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

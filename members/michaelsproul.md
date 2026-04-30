@@ -53,6 +53,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Send correct payload hashes for safe/finalized in fcU](https://github.com/sigp/lighthouse/pull/9204) - 2026-04-28
 * [Review] [Review on: Fix spurious re-org logs on ePBS payload status changes](https://github.com/sigp/lighthouse/pull/9191#pullrequestreview-4186747180) - 2026-04-28
 * [Issue] [Better storage for historical blobs](https://github.com/sigp/lighthouse/issues/9214) - 2026-04-29
+* [Pull Request] [Avoid 0x00 block hashes in fcU](https://github.com/sigp/lighthouse/pull/9233) - 2026-04-30
+* [Review] [Review on: Spec v1.7.0-alpha.6 and Gloas genesis](https://github.com/sigp/lighthouse/pull/9190#pullrequestreview-4194876016) - 2026-04-29
+* [Pull Request] [Spec v1.7.0-alpha.6](https://github.com/sigp/lighthouse/pull/9216) - 2026-04-29
+* [Review] [Review on: Spec v1.7.0-alpha.6](https://github.com/sigp/lighthouse/pull/9216#pullrequestreview-4194626274) - 2026-04-29
+* [Issue] [Implement gossip validation tests from EF test vectors](https://github.com/sigp/lighthouse/issues/9232) - 2026-04-30
+* [Issue] [Clean up "churn limit" code](https://github.com/sigp/lighthouse/issues/9218) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

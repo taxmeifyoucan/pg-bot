@@ -83,6 +83,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [evmc: Drop tx initcodes (TXCREATE leftover)](https://github.com/ipsilon/evmone/pull/1514) - 2026-04-28
 * [Commit] [evmc: Drop EOFCREATE (EOF leftover) (#1515)](https://github.com/ipsilon/evmone/commit/3d0336c20ad14cde62ff4d51f2726e7982e39f8c) - 2026-04-28
 * [Commit] [evmc: Drop tx initcodes (TXCREATE leftover) (#1514)](https://github.com/ipsilon/evmone/commit/d3771ce767c2ccbf5332ec658c04d8407c029987) - 2026-04-28
+* [Pull Request] [Implement EIP-7843: SLOTNUM opcode](https://github.com/ipsilon/evmone/pull/1517) - 2026-04-29
+* [Pull Request] [ci: Run clang-format check on evmc/](https://github.com/ipsilon/evmone/pull/1518) - 2026-04-29
+* [Commit] [ci: Run clang-format check on evmc/ (#1518)](https://github.com/ipsilon/evmone/commit/c5e083697c3f3b4bf09fd35169b377a3b0f074bc) - 2026-04-29
+* [Commit] [CodeAnalysis: merge raw_code/executable_code into code() (#1516)](https://github.com/ipsilon/evmone/commit/eb47152b96b4c30e9427ab991792c5a8ca284869) - 2026-04-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10

@@ -67,6 +67,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [[bal-devnet-5] Update/revise changes to EIP-8037: State Creation Gas Cost Increase](https://github.com/erigontech/erigon/issues/20887) - 2026-04-28
 * [Issue] [[glamsterdam-devnet-0] allow reorgs on canonical chain up to finalised hash](https://github.com/erigontech/erigon/issues/20888) - 2026-04-28
 * [Commit] [claude: lower comment verbosity via CLAUDE.md guideline (#20870)](https://github.com/erigontech/erigon/commit/95b4843bbb4fd5248c3fcbef17f4abec99b10cd1) - 2026-04-28
+* [Review] [Review on: cmd/utils/app, execution/vm: fix hive legacy-cancun blockchain failures](https://github.com/erigontech/erigon/pull/20892#pullrequestreview-4196662401) - 2026-04-29
+* [Commit] [claude: add skill for running local kurtosis testnets (#20876)](https://github.com/erigontech/erigon/commit/cc3894587aae1a06e869d4a6d25372c1615bce96) - 2026-04-29
+* [Commit] [execution/execmodule: allow reorgs on canonical chain up to finalised hash (#20825)](https://github.com/erigontech/erigon/commit/67ece3f9519d6f0960a95e3dfd0ee929dffff640) - 2026-04-29
 ## Q1 2026
 
 

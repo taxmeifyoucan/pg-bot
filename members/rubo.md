@@ -66,6 +66,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11357#pullrequestreview-4177472682) - 2026-04-26
 * [Commit] [chore: Support and migrate to Ubuntu 26.04 (#11355)](https://github.com/NethermindEth/nethermind/commit/5faea5d68ef2a97c3b8ed097f2248a7537f0b15a) - 2026-04-27
 * [Review] [Review on: `debug_executionwitness` RPC implementation](https://github.com/NethermindEth/nethermind/pull/11352#pullrequestreview-4189375962) - 2026-04-28
+* [Review] [Review on: test: stabilize CI flakes (timeout bumps + log noise)](https://github.com/NethermindEth/nethermind/pull/11402#pullrequestreview-4197904079) - 2026-04-29
+* [Review] [Review on: ci: bump NuGet cache key to evict corrupt Windows entries](https://github.com/NethermindEth/nethermind/pull/11408#pullrequestreview-4197593250) - 2026-04-29
 ## Q1 2026
 
 

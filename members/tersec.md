@@ -86,6 +86,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: wire fork-choice compliance test data](https://github.com/status-im/nimbus-eth2/pull/8355#pullrequestreview-4190138115) - 2026-04-28
 * [Review] [Review on: Add Gloas light client containers](https://github.com/status-im/nimbus-eth2/pull/8354#pullrequestreview-4189800488) - 2026-04-28
 * [Review] [Review on: Recover envelope sse events](https://github.com/status-im/nimbus-eth2/pull/8347#pullrequestreview-4189865353) - 2026-04-28
+* [Review] [Review on: Fix blob_data_available for blocks without blobs](https://github.com/status-im/nimbus-eth2/pull/8364#pullrequestreview-4194148241) - 2026-04-29
+* [Pull Request] [fill gloas withdrawals during block production properly based on parent block parent/full](https://github.com/status-im/nimbus-eth2/pull/8365) - 2026-04-29
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

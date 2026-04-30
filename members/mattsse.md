@@ -241,6 +241,24 @@ Team: Reth
 * [Commit] [test(rpc): cover admin node info discv5 port (#23781)](https://github.com/paradigmxyz/reth/commit/473f85c558cd8b3fa8743408f71fe412b36524ee) - 2026-04-28
 * [Commit] [fix(payload): track Amsterdam block gas in builders (#23743)](https://github.com/paradigmxyz/reth/commit/4c1f6b65078b254f9561b6d96644a37ac277796e) - 2026-04-28
 * [Commit] [perf(engine): spawn BAL hashed state before storage prefetch (#23761)](https://github.com/paradigmxyz/reth/commit/5b10e03c5cd6d4f1b6176a18bb53fbeb86622950) - 2026-04-28
+* [Review] [Review on: feat: customizable discovery defaults](https://github.com/paradigmxyz/reth/pull/23843#pullrequestreview-4200833244) - 2026-04-29
+* [Review] [Review on: fix(engine): apply finalized state after syncing FCU head import](https://github.com/paradigmxyz/reth/pull/23838#pullrequestreview-4198161001) - 2026-04-29
+* [Review] [Review on: fix(engine): keep state hook for BAL fallbacks](https://github.com/paradigmxyz/reth/pull/23834#pullrequestreview-4197454019) - 2026-04-29
+* [Review] [Review on: chore: don't enforce non-empty blocks in e2e payload building](https://github.com/paradigmxyz/reth/pull/23837#pullrequestreview-4197789134) - 2026-04-29
+* [Pull Request] [feat: DO NOT MERGE: bal-devnet-3](https://github.com/paradigmxyz/reth/pull/23808) - 2026-04-29
+* [Review] [Review on: fix(re-execute): properly handle selfdestructed storage slots](https://github.com/paradigmxyz/reth/pull/23832#pullrequestreview-4196823152) - 2026-04-29
+* [Review] [Review on: chore: release 2.2.0](https://github.com/paradigmxyz/reth/pull/23831#pullrequestreview-4196900831) - 2026-04-29
+* [Review] [Review on: refactor(payload): make EthereumPayloadBuilder generic over node primitives](https://github.com/paradigmxyz/reth/pull/23827#pullrequestreview-4196816783) - 2026-04-29
+* [Review] [Review on: chore: remaining Devnet3 fixes](https://github.com/paradigmxyz/reth/pull/23826#pullrequestreview-4196404848) - 2026-04-29
+* [Pull Request] [feat(engine): add getBlobsV4 endpoint](https://github.com/paradigmxyz/reth/pull/23767) - 2026-04-29
+* [Pull Request] [chore(deps): bump alloy to 2.0.4](https://github.com/paradigmxyz/reth/pull/23828) - 2026-04-29
+* [Review] [Review on: fix(rpc): narrow getLogs retry range](https://github.com/paradigmxyz/reth/pull/23818#pullrequestreview-4195668802) - 2026-04-29
+* [Pull Request] [chore(deps): bump alloy to 2.0.3](https://github.com/paradigmxyz/reth/pull/23819) - 2026-04-29
+* [Pull Request] [chore(deps): bump alloy to 2.0.2](https://github.com/paradigmxyz/reth/pull/23816) - 2026-04-29
+* [Pull Request] [docs(engine): clarify BAL storage prefetch flag](https://github.com/paradigmxyz/reth/pull/23815) - 2026-04-29
+* [Commit] [feat(engine): add getBlobsV4 endpoint (#23767)](https://github.com/paradigmxyz/reth/commit/5f85eb7ac84f638e6280e9df71a6248c8eb2e93c) - 2026-04-29
+* [Commit] [chore(deps): bump alloy to 2.0.4 (#23828)](https://github.com/paradigmxyz/reth/commit/c194c17a2719500f32c5e807e9f9d68c91628c2a) - 2026-04-29
+* [Commit] [docs(engine): clarify BAL storage prefetch flag (#23815)](https://github.com/paradigmxyz/reth/commit/73ec2c9d5608e044d5018cd5d59f530f59ef3405) - 2026-04-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

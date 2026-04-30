@@ -48,6 +48,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: serve finalized execution payload envelopes by range](https://github.com/Consensys/teku/pull/10605#pullrequestreview-4170458140) - 2026-04-24
 * [Review] [Review on: add execution payload historical sync](https://github.com/Consensys/teku/pull/10592#pullrequestreview-4170069923) - 2026-04-24
 * [Commit] [serve finalized execution payload envelopes by range (#10605)](https://github.com/Consensys/teku/commit/2b36f003feb5682cec3f80278e1466f85cb02f98) - 2026-04-24
+* [Pull Request] [update test](https://github.com/Consensys/teku/pull/10633) - 2026-04-29
+* [Pull Request] [fix execution payload](https://github.com/Consensys/teku/pull/10638) - 2026-04-29
+* [Pull Request] [skip execution payload envelope unblinding when BAL is null](https://github.com/Consensys/teku/pull/10634) - 2026-04-29
+* [Review] [Review on: Proposer preferences gloas only](https://github.com/Consensys/teku/pull/10596#pullrequestreview-4195075787) - 2026-04-29
+* [Review] [Review on: serve finalized execution payload envelopes by range](https://github.com/Consensys/teku/pull/10605#pullrequestreview-4195102485) - 2026-04-29
+* [Commit] [skip execution payload envelope unblinding when BAL is null (#10634)](https://github.com/Consensys/teku/commit/52cd9f42366221ad4cf37f57782b3a235e669ab7) - 2026-04-29
+* [Commit] [update test (#10633)](https://github.com/Consensys/teku/commit/7849b0a9ccce5fc87c5dc3c769937efe583b3df3) - 2026-04-29
 ## Q1 2026
 
 

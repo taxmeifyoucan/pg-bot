@@ -255,6 +255,23 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: More optimizations for precompile caching](https://github.com/NethermindEth/nethermind/pull/11373#pullrequestreview-4186599943) - 2026-04-28
 * [Commit] [test: raise NewPayloadBlockProcessingTimeout in merge tests (#11381)](https://github.com/NethermindEth/nethermind/commit/38da24277089b65fc52979ee0c992e03a356c405) - 2026-04-28
 * [Commit] [test: bump 10s timeouts that flake on Flat DB CI (#11380)](https://github.com/NethermindEth/nethermind/commit/36546bb28d9ef881b6affff54f6a7c89546eae9e) - 2026-04-28
+* [Review] [Review on: fix: isSyncing in hoodi](https://github.com/NethermindEth/nethermind/pull/11410#pullrequestreview-4200629813) - 2026-04-29
+* [Review] [Review on: `txpool_content` fix](https://github.com/NethermindEth/nethermind/pull/11417#pullrequestreview-4201164822) - 2026-04-29
+* [Review] [Review on: Fix snap lengths](https://github.com/NethermindEth/nethermind/pull/11414#pullrequestreview-4200704762) - 2026-04-29
+* [Review] [Review on: extension methods for ITransactionProcessor](https://github.com/NethermindEth/nethermind/pull/11393#pullrequestreview-4198012439) - 2026-04-29
+* [Review] [Review on: fix(eth_simulateV1): return spec-compliant message for out-of-order block number (-38020)](https://github.com/NethermindEth/nethermind/pull/11403#pullrequestreview-4197364920) - 2026-04-29
+* [Review] [Review on: fix(statecomp): serialize empty histograms and run bootstrap on first new head](https://github.com/NethermindEth/nethermind/pull/11382#pullrequestreview-4198334883) - 2026-04-29
+* [Review] [Review on: test: dispose ECIES buffers on assertion failure](https://github.com/NethermindEth/nethermind/pull/11395#pullrequestreview-4195919765) - 2026-04-29
+* [Review] [Review on: Engine api glamsterdam cleanup](https://github.com/NethermindEth/nethermind/pull/11388#pullrequestreview-4196575751) - 2026-04-29
+* [Review] [Review on: Reorg up to lastFinalized block](https://github.com/NethermindEth/nethermind/pull/11396#pullrequestreview-4195659475) - 2026-04-29
+* [Pull Request] [test: stabilize CI flakes (timeout bumps + log noise)](https://github.com/NethermindEth/nethermind/pull/11402) - 2026-04-29
+* [Pull Request] [ci: bump NuGet cache key to evict corrupt Windows entries](https://github.com/NethermindEth/nethermind/pull/11408) - 2026-04-29
+* [Review] [Review on: fix: mark top-level CREATE account for selfdestruct state gas refund](https://github.com/NethermindEth/nethermind/pull/11407#pullrequestreview-4197356035) - 2026-04-29
+* [Review] [Review on: fix(flat-state): wait for TrieWarmer in-flight jobs before disposing SnapshotBundle](https://github.com/NethermindEth/nethermind/pull/11394#pullrequestreview-4196414917) - 2026-04-29
+* [Review] [Review on: fix(eth_simulateV1): return spec-compliant message for intrinsic gas error (-38013)](https://github.com/NethermindEth/nethermind/pull/11397#pullrequestreview-4195629191) - 2026-04-29
+* [Review] [Review on: fix(parallel): capture and rethrow worker exceptions in ParallelUnbalancedWork](https://github.com/NethermindEth/nethermind/pull/11398#pullrequestreview-4195435550) - 2026-04-29
+* [Commit] [test: stabilize CI flakes (timeout bumps + log noise) (#11402)](https://github.com/NethermindEth/nethermind/commit/e9f14e087e9d117b31e4bf5b4d615f8c8b2cf363) - 2026-04-29
+* [Commit] [perf(sync): allow multiple allocation slots per peer (lock-free rewrite) (#11361)](https://github.com/NethermindEth/nethermind/commit/f1c296f9a9f9e0a2dd6359f4eb4b89d2bd5f23cc) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

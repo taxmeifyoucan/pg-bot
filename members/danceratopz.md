@@ -77,8 +77,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(doc): sort fork directory listings chronologically](https://github.com/ethereum/execution-specs/pull/2756#pullrequestreview-4187583179) - 2026-04-28
 * [Review] [Review on: feat(test-tools): t8n file streaming optimizations](https://github.com/ethereum/execution-specs/pull/2751#pullrequestreview-4187323767) - 2026-04-28
 * [Commit] [fix(ci): install build deps in hive-consume dev mode (#2773)](https://github.com/ethereum/execution-specs/commit/6333758e404889469abfed22a3028fa0eb459520) - 2026-04-28
+* [Pull Request] [fix(test-forks): treat transition fork variants as equal to canonical](https://github.com/ethereum/execution-specs/pull/2782) - 2026-04-30
+* [Pull Request] [chore(ci): generate-all-formats for mainnet fixture releases](https://github.com/ethereum/execution-specs/pull/2781) - 2026-04-29
+* [Review] [Review on: feat(doc): replace index with __init__.py](https://github.com/ethereum/execution-specs/pull/2779#pullrequestreview-4201500549) - 2026-04-29
+* [Commit] [chore(ci): generate-all-formats for mainnet fixture releases (#2781)](https://github.com/ethereum/execution-specs/commit/bf9dbb4dfe86298d54b07816fc1bd36ec062b004) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Pull Request] [Fix execution-specs EIP Authors Manual links](https://github.com/ethereum/pm/pull/2036) - 2026-04-30
 ## Q1 2026
 
 

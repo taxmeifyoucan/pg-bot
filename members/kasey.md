@@ -19,6 +19,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Pull Request] [Miscellanious small fixes for partial columns PRs](https://github.com/OffchainLabs/prysm/pull/16659) - 2026-04-13
 * [Pull Request] [Support context cancellation in PartialColumnBroadcaster](https://github.com/OffchainLabs/prysm/pull/16684) - 2026-04-16
 * [Review] [Review on: Update fastssz to 7a6eb71](https://github.com/OffchainLabs/prysm/pull/16710#pullrequestreview-4151022099) - 2026-04-21
+* [Pull Request] [DONTMERGEME: Partialmsg gloas integration](https://github.com/OffchainLabs/prysm/pull/16733) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486) - 2026-04-09
 ## Q1 2026

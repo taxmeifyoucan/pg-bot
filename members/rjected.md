@@ -43,6 +43,10 @@ Team: Reth
 * [Review] [Review on: perf(revm): enable `p256-aws-lc-rs` feature](https://github.com/paradigmxyz/reth/pull/23721#pullrequestreview-4173229588) - 2026-04-24
 * [Review] [Review on: feat(engine): return error on too deep reorg](https://github.com/paradigmxyz/reth/pull/23784#pullrequestreview-4190182713) - 2026-04-28
 * [Review] [Review on: test(rpc): cover admin node info discv5 port](https://github.com/paradigmxyz/reth/pull/23781#pullrequestreview-4189915163) - 2026-04-28
+* [Pull Request] [fix(tree): prioritize BAL prewarm for state root task](https://github.com/paradigmxyz/reth/pull/23839) - 2026-04-29
+* [Pull Request] [fix(engine): do not install state hook if BAL is disabled (#23835)](https://github.com/paradigmxyz/reth/pull/23836) - 2026-04-29
+* [Review] [Review on: fix: skip `move_to_static_files` for `storage.v2`](https://github.com/paradigmxyz/reth/pull/23814#pullrequestreview-4196826195) - 2026-04-29
+* [Pull Request] [fix: stop hive image loading from masking failures](https://github.com/paradigmxyz/reth/pull/23817) - 2026-04-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
 ## Q1 2026

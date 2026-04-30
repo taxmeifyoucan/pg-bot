@@ -37,6 +37,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [devp2p eth/71 fixes and tests](https://github.com/status-im/nimbus-eth1/pull/4172) - 2026-04-24
 * [Review] [Review on: devp2p eth/71 fixes and tests](https://github.com/status-im/nimbus-eth1/pull/4172#pullrequestreview-4168506657) - 2026-04-24
 * [Commit] [devp2p eth/71 fixes and tests (#4172)](https://github.com/status-im/nimbus-eth1/commit/e94cd937342cb28813ca8db71483104c3f4653e6) - 2026-04-24
+* [Pull Request] [Remove ref types from account and storage leaf caches](https://github.com/status-im/nimbus-eth1/pull/4192) - 2026-04-29
+* [Review] [Review on: Remove ref types from account and storage leaf caches](https://github.com/status-im/nimbus-eth1/pull/4192#pullrequestreview-4198321261) - 2026-04-29
+* [Pull Request] [Remove ref types from account and storage leaf caches](https://github.com/status-im/nimbus-eth1/pull/4188) - 2026-04-29
 ## Q1 2026
 
 

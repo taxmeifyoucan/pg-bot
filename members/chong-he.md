@@ -31,6 +31,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Implement GET `v2/node/version` endpoint](https://github.com/sigp/lighthouse/pull/9171#pullrequestreview-4167830245) - 2026-04-24
 * [Pull Request] [Delete some `reorg`-related CLI flags and read from spec](https://github.com/sigp/lighthouse/pull/9177) - 2026-04-27
 * [Review] [Review on: Delete some `reorg`-related CLI flags and read from spec](https://github.com/sigp/lighthouse/pull/9177#pullrequestreview-4181013101) - 2026-04-27
+* [Review] [Review on: Add SSZ response to HTTP API endpoints](https://github.com/sigp/lighthouse/pull/8907#pullrequestreview-4193760623) - 2026-04-29
 ## Q1 2026
 
 

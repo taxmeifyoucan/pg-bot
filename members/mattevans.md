@@ -25,6 +25,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Review] [Review on: feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433#pullrequestreview-4166900256) - 2026-04-23
+
+[ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
+* [Review] [Review on: feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/90#pullrequestreview-4195314057) - 2026-04-29
+* [Commit] [Merge pull request #90 from ethpandaops/feat/add-glamsterdam-devnets](https://github.com/ethpandaops/cartographoor/commit/6a3003492dbaa5640c12cbf22738b61cc70aba63) - 2026-04-29
 ## Q1 2026
 
 

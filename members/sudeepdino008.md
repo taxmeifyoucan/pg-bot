@@ -122,6 +122,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state: simplify DomainLatestIterFile](https://github.com/erigontech/erigon/pull/20817#pullrequestreview-4178926043) - 2026-04-27
 * [Commit] [cmd/utils/app: skip commitment history integrity checks when disabled (#20835)](https://github.com/erigontech/erigon/commit/c0e211f74acaaffa526cd5d26f7c2987e13cde54) - 2026-04-27
 * [Commit] [db/state: fix benchmark comment to reflect O(N) merge behaviour (#20868)](https://github.com/erigontech/erigon/commit/5ab223d6988599a427fe97e852fbd34db1eda554) - 2026-04-28
+* [Pull Request] [add ReceiptRoot integrity check](https://github.com/erigontech/erigon/pull/20902) - 2026-04-29
+* [Pull Request] [wip](https://github.com/erigontech/erigon/pull/20903) - 2026-04-29
+* [Pull Request] [cmd/utils/app: fix seg reset not removing chaindata](https://github.com/erigontech/erigon/pull/20908) - 2026-04-29
+* [Pull Request] [enforce block-snapshots cap inside aggregator collation](https://github.com/erigontech/erigon/pull/20900) - 2026-04-29
+* [Pull Request] [enforce block-snapshots cap inside aggregator collation](https://github.com/erigontech/erigon/pull/20852) - 2026-04-29
+* [Issue] [step accumulation during snapshot-to-chaintip catchup](https://github.com/erigontech/erigon/issues/20911) - 2026-04-29
+* [Issue] [RCache: missing PostState for pre-Byzantium receipts](https://github.com/erigontech/erigon/issues/20910) - 2026-04-29
+* [Commit] [enforce block-snapshots cap inside aggregator collation (#20900)](https://github.com/erigontech/erigon/commit/2e50c368f1f665297be578e0d873304d12e9694f) - 2026-04-29
 ## Q1 2026
 
 
