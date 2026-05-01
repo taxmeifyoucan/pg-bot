@@ -81,11 +81,20 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(ci): generate-all-formats for mainnet fixture releases](https://github.com/ethereum/execution-specs/pull/2781) - 2026-04-29
 * [Review] [Review on: feat(doc): replace index with __init__.py](https://github.com/ethereum/execution-specs/pull/2779#pullrequestreview-4201500549) - 2026-04-29
 * [Commit] [chore(ci): generate-all-formats for mainnet fixture releases (#2781)](https://github.com/ethereum/execution-specs/commit/bf9dbb4dfe86298d54b07816fc1bd36ec062b004) - 2026-04-29
+* [Review] [Review on: feat(doc): replace index with __init__.py](https://github.com/ethereum/execution-specs/pull/2779#pullrequestreview-4207607382) - 2026-04-30
+* [Pull Request] [fix(tests) fix ported quadratic complexity tests](https://github.com/ethereum/execution-specs/pull/2784) - 2026-04-30
+* [Review] [Review on: feat(spec-specs,tests): apply transfer log costs to EIP-2780](https://github.com/ethereum/execution-specs/pull/2752#pullrequestreview-4204090114) - 2026-04-30
+* [Pull Request] [feat(tests): cover EIP-7708 CREATE log rollback on outer revert](https://github.com/ethereum/execution-specs/pull/2785) - 2026-04-30
+* [Commit] [fix(test-forks): treat transition fork variants as equal to canonical (#2782)](https://github.com/ethereum/execution-specs/commit/9d18733602f7a4ed41001c16525943ca0836af4c) - 2026-04-30
+* [Commit] [fix(tests) fix ported quadratic complexity tests (#2784)](https://github.com/ethereum/execution-specs/commit/e4c43d6d02be6222af45edb06326203eacc9f032) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Fix execution-specs EIP Authors Manual links](https://github.com/ethereum/pm/pull/2036) - 2026-04-30
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-2780: Add missing 7708 log costs](https://github.com/ethereum/EIPs/pull/11586) - 2026-04-30
 ## Q1 2026
 
 

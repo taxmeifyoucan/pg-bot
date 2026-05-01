@@ -272,6 +272,23 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(parallel): capture and rethrow worker exceptions in ParallelUnbalancedWork](https://github.com/NethermindEth/nethermind/pull/11398#pullrequestreview-4195435550) - 2026-04-29
 * [Commit] [test: stabilize CI flakes (timeout bumps + log noise) (#11402)](https://github.com/NethermindEth/nethermind/commit/e9f14e087e9d117b31e4bf5b4d615f8c8b2cf363) - 2026-04-29
 * [Commit] [perf(sync): allow multiple allocation slots per peer (lock-free rewrite) (#11361)](https://github.com/NethermindEth/nethermind/commit/f1c296f9a9f9e0a2dd6359f4eb4b89d2bd5f23cc) - 2026-04-29
+* [Review] [Review on: fix: Revise dependency caching](https://github.com/NethermindEth/nethermind/pull/11444#pullrequestreview-4209404515) - 2026-05-01
+* [Pull Request] [fix(db): cross-column snapshot atomicity + Windows-flake stress reproducer](https://github.com/NethermindEth/nethermind/pull/11443) - 2026-04-30
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11423#pullrequestreview-4207139891) - 2026-04-30
+* [Review] [Review on: chore: Remove NuGet package caching](https://github.com/NethermindEth/nethermind/pull/11440#pullrequestreview-4206104369) - 2026-04-30
+* [Pull Request] [debug_traceCallMany: extend timeout CTS lifetime to enumerator disposal](https://github.com/NethermindEth/nethermind/pull/11429) - 2026-04-30
+* [Review] [Review on: fix(merge): bound dangling block cache growth](https://github.com/NethermindEth/nethermind/pull/11426#pullrequestreview-4204390539) - 2026-04-30
+* [Pull Request] [Disable ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/11441) - 2026-04-30
+* [Review] [Review on: Corrected error codes for eth simulate ](https://github.com/NethermindEth/nethermind/pull/11430#pullrequestreview-4204647703) - 2026-04-30
+* [Review] [Review on: IDriveInfo DI improvements](https://github.com/NethermindEth/nethermind/pull/11437#pullrequestreview-4205155830) - 2026-04-30
+* [Review] [Review on: fix(statecomp): serialize empty histograms and run bootstrap on first new head](https://github.com/NethermindEth/nethermind/pull/11382#pullrequestreview-4205315927) - 2026-04-30
+* [Review] [Review on: Snapshot fixes](https://github.com/NethermindEth/nethermind/pull/11401#pullrequestreview-4203173041) - 2026-04-30
+* [Review] [Review on: fix(fastsync): clean flat storage when account is null in `VerifyStorageUpdated`](https://github.com/NethermindEth/nethermind/pull/11411#pullrequestreview-4204600038) - 2026-04-30
+* [Pull Request] [fix(prewarm): run speculative prewarming when BAL EIP is not active](https://github.com/NethermindEth/nethermind/pull/11432) - 2026-04-30
+* [Review] [Review on: fix(state): honour SELFDESTRUCT marker in PerContractState.StorageRoot](https://github.com/NethermindEth/nethermind/pull/11424#pullrequestreview-4203438049) - 2026-04-30
+* [Review] [Review on: fix(flat-db): skip ImportFlatDb when pruning trie state lacks head root](https://github.com/NethermindEth/nethermind/pull/11422#pullrequestreview-4203122154) - 2026-04-30
+* [Review] [Review on: Upgrade discv5](https://github.com/NethermindEth/nethermind/pull/11419#pullrequestreview-4203104150) - 2026-04-30
+* [Commit] [fix(prewarm): run speculative prewarming when BAL EIP is not active (#11432)](https://github.com/NethermindEth/nethermind/commit/0dcf42d14e61e8bd06e4c7b29ded61248e74d0e1) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

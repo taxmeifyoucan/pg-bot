@@ -130,6 +130,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [step accumulation during snapshot-to-chaintip catchup](https://github.com/erigontech/erigon/issues/20911) - 2026-04-29
 * [Issue] [RCache: missing PostState for pre-Byzantium receipts](https://github.com/erigontech/erigon/issues/20910) - 2026-04-29
 * [Commit] [enforce block-snapshots cap inside aggregator collation (#20900)](https://github.com/erigontech/erigon/commit/2e50c368f1f665297be578e0d873304d12e9694f) - 2026-04-29
+* [Pull Request] [cmd/utils/app, db/integrity: add check-rcache-root-at-blk[-range] commands](https://github.com/erigontech/erigon/pull/20921) - 2026-04-30
+* [Pull Request] [cp: fix seg reset not removing chaindata (#20908)](https://github.com/erigontech/erigon/pull/20919) - 2026-04-30
+* [Commit] [add ReceiptRoot integrity check (#20902)](https://github.com/erigontech/erigon/commit/318c7533f3cfb8868e1ec20523e4612b89d3509a) - 2026-04-30
+* [Commit] [cmd/utils/app: fix seg reset not removing chaindata (#20908)](https://github.com/erigontech/erigon/commit/c8a8ad323214b0ea3a37bfaad25992035a414c1d) - 2026-04-30
 ## Q1 2026
 
 

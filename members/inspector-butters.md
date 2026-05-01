@@ -24,6 +24,9 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Fix highest execution payload bid cache sharing between sync and RPC](https://github.com/OffchainLabs/prysm/pull/16717#pullrequestreview-4163973427) - 2026-04-23
 * [Pull Request] [statediff logs cleanup](https://github.com/OffchainLabs/prysm/pull/16715) - 2026-04-23
 * [Pull Request] [ignore .env](https://github.com/OffchainLabs/prysm/pull/16722) - 2026-04-27
+* [Pull Request] [remove saving states to hotStateDB in stateDiff mode](https://github.com/OffchainLabs/prysm/pull/16739) - 2026-04-30
+* [Review] [Review on: Reduce chain service processing time at epoch transition](https://github.com/OffchainLabs/prysm/pull/16731#pullrequestreview-4203656755) - 2026-04-30
+* [Commit] [statediff logs cleanup (#16715)](https://github.com/OffchainLabs/prysm/commit/ff625554ad8bc66c758fb464c961085495f791f3) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

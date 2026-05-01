@@ -131,6 +131,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix(parallel): capture and rethrow worker exceptions in ParallelUnbalancedWork](https://github.com/NethermindEth/nethermind/pull/11398) - 2026-04-29
 * [Review] [Review on: fix(parallel): capture and rethrow worker exceptions in ParallelUnbalancedWork](https://github.com/NethermindEth/nethermind/pull/11398#pullrequestreview-4195458349) - 2026-04-29
 * [Commit] [fix(parallel): capture and rethrow worker exceptions in ParallelUnbalancedWork (#11398)](https://github.com/NethermindEth/nethermind/commit/309f046aa02b80c216f4d96330e01f4cff43107b) - 2026-04-29
+* [Pull Request] [Bal devnet 6](https://github.com/NethermindEth/nethermind/pull/11436) - 2026-04-30
+* [Pull Request] [Fix parallel execution metrics and opcode tracing](https://github.com/NethermindEth/nethermind/pull/11445) - 2026-04-30
+* [Review] [Review on: IDriveInfo DI improvements](https://github.com/NethermindEth/nethermind/pull/11437#pullrequestreview-4205559089) - 2026-04-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

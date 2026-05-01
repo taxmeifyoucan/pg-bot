@@ -50,6 +50,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [refactor: use dontTransferCache on the bindings layer (#333)](https://github.com/ChainSafe/lodestar-z/commit/de1bd6eb2444a3dcda0976230cb1f62b666deffa) - 2026-04-29
 * [Commit] [chore: mv utils/anchor_checkpoint.zig to top-level (#332)](https://github.com/ChainSafe/lodestar-z/commit/8c4898b35a81fb788348d2e75ff86807b6416f76) - 2026-04-29
 * [Commit] [chore(bls): expose bls sizes (#328)](https://github.com/ChainSafe/lodestar-z/commit/60cca7975d6a238389c77a11216c0d8b9dfca933) - 2026-04-29
+* [Review] [Review on: feat: migrate BeaconStateView to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/330#pullrequestreview-4204062549) - 2026-04-30
+* [Commit] [fix(stf): commit before bulk read (#334)](https://github.com/ChainSafe/lodestar-z/commit/7a0b26267316591e66c2c94f49de2e608143deff) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

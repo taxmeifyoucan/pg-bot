@@ -53,6 +53,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: queue payload envelopes in network processor](https://github.com/ChainSafe/lodestar/pull/9300) - 2026-04-28
 * [Review] [Review on: fix: queue payload envelopes in network processor](https://github.com/ChainSafe/lodestar/pull/9300#pullrequestreview-4192289607) - 2026-04-28
 * [Commit] [fix: queue payload envelopes in network processor (#9300)](https://github.com/ChainSafe/lodestar/commit/1629c3a59e9edb709c4341c5dc421aa447c4a498) - 2026-04-29
+* [Review] [Review on: fix: range sync mismarks partial batches as fully downloaded](https://github.com/ChainSafe/lodestar/pull/9311#pullrequestreview-4204224544) - 2026-04-30
+* [Review] [Review on: feat: add dependent root to proposer preferences](https://github.com/ChainSafe/lodestar/pull/9303#pullrequestreview-4203480323) - 2026-04-30
+* [Review] [Review on: feat: implement EIP-8061 increase exit and consolidation churn](https://github.com/ChainSafe/lodestar/pull/9305#pullrequestreview-4203534009) - 2026-04-30
+* [Review] [Review on: feat: add PTC data availability and quorum tracking](https://github.com/ChainSafe/lodestar/pull/9284#pullrequestreview-4203367379) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

@@ -60,6 +60,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Review] [Review on: fix: enable `rustls-tls` for `ere-server`](https://github.com/eth-act/ere/pull/338#pullrequestreview-4148779317) - 2026-04-21
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/pull/11587) - 2026-04-30
 ## Q1 2026
 
 

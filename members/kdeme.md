@@ -54,6 +54,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Stateless: Add emptyRoot shortpaths to fix several issues (#4184)](https://github.com/status-im/nimbus-eth1/commit/1ff033a7a53927949e61da272c1fed902f16bab2) - 2026-04-28
 * [Pull Request] [Stateless: Fix state root mismatches for stateless execution](https://github.com/status-im/nimbus-eth1/pull/4189) - 2026-04-29
 * [Commit] [Stateless: Fix state root mismatches for stateless execution (#4189)](https://github.com/status-im/nimbus-eth1/commit/bad3b3845029f3cf534f1f69dbd49dfc2d5839d6) - 2026-04-29
+* [Pull Request] [Stateless: more lenient witness.headers compare for eest](https://github.com/status-im/nimbus-eth1/pull/4193) - 2026-04-30
+* [Commit] [Stateless: more lenient witness.headers compare for eest (#4193)](https://github.com/status-im/nimbus-eth1/commit/856cc0b98473a40f349c9e47c1a3e1ec38bbbc23) - 2026-04-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

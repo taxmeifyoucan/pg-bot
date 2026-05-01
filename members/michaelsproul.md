@@ -59,6 +59,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Spec v1.7.0-alpha.6](https://github.com/sigp/lighthouse/pull/9216#pullrequestreview-4194626274) - 2026-04-29
 * [Issue] [Implement gossip validation tests from EF test vectors](https://github.com/sigp/lighthouse/issues/9232) - 2026-04-30
 * [Issue] [Clean up "churn limit" code](https://github.com/sigp/lighthouse/issues/9218) - 2026-04-29
+* [Review] [Review on: Delete some `reorg`-related CLI flags and read from spec](https://github.com/sigp/lighthouse/pull/9177#pullrequestreview-4202442981) - 2026-04-30
+* [Review] [Review on: Submit ptc votes that we produce to the ptc op pool](https://github.com/sigp/lighthouse/pull/9231#pullrequestreview-4202066529) - 2026-04-30
+* [Pull Request] [Optimise hdiff buffer handling by (re)using Milhouse data structures](https://github.com/sigp/lighthouse/pull/9236) - 2026-04-30
+* [Review] [Review on: Remove `test_logger` feature](https://github.com/sigp/lighthouse/pull/9125#pullrequestreview-4202432036) - 2026-04-30
+* [Review] [Review on: Generalise reconstruct_historic_states for ranged replay](https://github.com/sigp/lighthouse/pull/9222#pullrequestreview-4202099545) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

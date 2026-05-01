@@ -22,6 +22,8 @@ Team: Nimbus
 * [Commit] [Snap sync maint update (#4164)](https://github.com/status-im/nimbus-eth1/commit/3b426d56cfdbcd841508e5c64b7b457a96d2ac9d) - 2026-04-22
 * [Pull Request] [Snap sync trie builder fixes](https://github.com/status-im/nimbus-eth1/pull/4185) - 2026-04-28
 * [Commit] [Snap sync trie builder fixes (#4185)](https://github.com/status-im/nimbus-eth1/commit/9370f9fe20f378ea44c0dbe92bce559ae278e8b3) - 2026-04-28
+* [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4195) - 2026-04-30
+* [Commit] [Snap sync maint update (#4195)](https://github.com/status-im/nimbus-eth1/commit/50b06f833817d8eed6de0504939843fc34f9306b) - 2026-04-30
 ## Q1 2026
 
 

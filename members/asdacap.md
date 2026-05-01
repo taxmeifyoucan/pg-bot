@@ -147,6 +147,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Reorg up to lastFinalized block](https://github.com/NethermindEth/nethermind/pull/11396#pullrequestreview-4195269756) - 2026-04-29
 * [Commit] [sync: fix beacon headers re-downloaded after #10876 changed GetBlockHashOnMainOrBestDifficultyHash (#11339)](https://github.com/NethermindEth/nethermind/commit/81d0aa267f107d40cf7e7a593a5a2c7d156b1a83) - 2026-04-29
 * [Commit] [fix(flat-state): wait for TrieWarmer in-flight jobs before disposing SnapshotBundle (#11394)](https://github.com/NethermindEth/nethermind/commit/3d6caea07ddd015e21820dc8e7285c9c4f7c2c22) - 2026-04-29
+* [Review] [Review on: fix(state): honour SELFDESTRUCT marker in PerContractState.StorageRoot](https://github.com/NethermindEth/nethermind/pull/11424#pullrequestreview-4204107273) - 2026-04-30
+* [Issue] [BlockCachePreWarmer disabled on all non-EIP-7928 chains after parallel-execution change](https://github.com/NethermindEth/nethermind/issues/11427) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

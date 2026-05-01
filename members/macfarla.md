@@ -98,6 +98,18 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Fix forkchoice update reporting VALID after failed setNewHead](https://github.com/besu-eth/besu/pull/10271#pullrequestreview-4193807295) - 2026-04-29
 * [Review] [Review on: feat(debug): add enableReturnData param and returnData field ](https://github.com/besu-eth/besu/pull/10172#pullrequestreview-4201627135) - 2026-04-30
 * [Review] [Review on: add flag to disable bal stateroot](https://github.com/besu-eth/besu/pull/10363#pullrequestreview-4201409150) - 2026-04-29
+* [Review] [Review on: Feat-11 : Add `limit` param to stop opcode trace capture after N steps](https://github.com/besu-eth/besu/pull/10173#pullrequestreview-4209426563) - 2026-05-01
+* [Review] [Review on: DebugOperationTracer #10115 - 10 : storage snapshot timing ](https://github.com/besu-eth/besu/pull/10176#pullrequestreview-4209413581) - 2026-05-01
+* [Review] [Review on: Fixed - logging cleanup for invalid blocks #10160](https://github.com/besu-eth/besu/pull/10180#pullrequestreview-4209386579) - 2026-05-01
+* [Review] [Review on: fix: cap EIP-8037 same-tx-selfdestruct refund at execution state gas](https://github.com/besu-eth/besu/pull/10385#pullrequestreview-4209329553) - 2026-05-01
+* [Review] [Review on: Fix flaky test PeerDiscoveryAgentV5Test.shouldEvictPeerWhenPermissionsRevoked](https://github.com/besu-eth/besu/pull/10384#pullrequestreview-4209130640) - 2026-04-30
+* [Review] [Review on: fix(rpc): add eth_getTransactionBySenderAndNonce](https://github.com/besu-eth/besu/pull/10346#pullrequestreview-4202371692) - 2026-04-30
+* [Review] [Review on: Gate final-version docker tags on release publish, not draft](https://github.com/besu-eth/besu/pull/10306#pullrequestreview-4208241181) - 2026-04-30
+* [Review] [Review on: fix: return -38003 for FCUv1 timestamp errors](https://github.com/besu-eth/besu/pull/10353#pullrequestreview-4202531178) - 2026-04-30
+* [Pull Request] [fix: rename balHash JSON key to blockAccessListHash in block results](https://github.com/besu-eth/besu/pull/10373) - 2026-04-30
+* [Review] [Review on: fix: rename balHash JSON key to blockAccessListHash in block results](https://github.com/besu-eth/besu/pull/10373#pullrequestreview-4203167645) - 2026-04-30
+* [Review] [Review on: feat(jsonrpc): implement eth_capabilities RPC method](https://github.com/besu-eth/besu/pull/10322#pullrequestreview-4202360636) - 2026-04-30
+* [Review] [Review on: fix: avoid TOCTOU on head block reads in eth_getFilterLogs](https://github.com/besu-eth/besu/pull/10368#pullrequestreview-4202467681) - 2026-04-30
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 
@@ -105,6 +117,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [clients/besu: enable discv5](https://github.com/ethereum/hive/pull/1442) - 2026-04-22
 * [Review] [Review on:  Add HIVE_DISCV5 flag for besu](https://github.com/ethereum/hive/pull/1447#pullrequestreview-4173647805) - 2026-04-24
 * [Review] [Review on: Make address key lookup case-insensitive in simulator](https://github.com/ethereum/hive/pull/1446#pullrequestreview-4177836608) - 2026-04-27
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: update java.projectId for maven](https://github.com/Consensys/teku/pull/10662#pullrequestreview-4209600176) - 2026-05-01
+* [Review] [Review on: remove the gradle pieces in renovate config](https://github.com/Consensys/teku/pull/10661#pullrequestreview-4208862737) - 2026-04-30
+* [Review] [Review on: add javadoc so we can publish to maven central](https://github.com/Consensys/teku/pull/10647#pullrequestreview-4208856583) - 2026-04-30
 ## Q1 2026
 
 

@@ -29,6 +29,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [consensus: standardize slow block JSON output for cross-client metrics](https://github.com/NethermindEth/nethermind/pull/11400) - 2026-04-29
 * [Review] [Review on: consensus: standardize slow block JSON output for cross-client metrics](https://github.com/NethermindEth/nethermind/pull/11400#pullrequestreview-4196786757) - 2026-04-29
 * [Review] [Review on: fix(parallel): capture and rethrow worker exceptions in ParallelUnbalancedWork](https://github.com/NethermindEth/nethermind/pull/11398#pullrequestreview-4195431447) - 2026-04-29
+* [Pull Request] [Skip reorg only if ancestor of finalised block](https://github.com/NethermindEth/nethermind/pull/11439) - 2026-04-30
+* [Review] [Review on: Skip reorg only if ancestor of finalised block](https://github.com/NethermindEth/nethermind/pull/11439#pullrequestreview-4205887897) - 2026-04-30
+* [Review] [Review on: Optimise parallel execution: reduce worldstate, txprocessor allocations](https://github.com/NethermindEth/nethermind/pull/11318#pullrequestreview-4203699106) - 2026-04-30
 ## Q1 2026
 
 

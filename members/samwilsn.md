@@ -42,6 +42,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(doc): sort fork directory listings chronologically](https://github.com/ethereum/execution-specs/pull/2756) - 2026-04-28
 * [Commit] [feat(doc): sort fork directory listings chronologically (#2756)](https://github.com/ethereum/execution-specs/commit/78fe5d2cdf5481ae4fbd2c69305eff10599f884f) - 2026-04-28
 * [Pull Request] [feat(doc): replace index with __init__.py](https://github.com/ethereum/execution-specs/pull/2779) - 2026-04-29
+* [Review] [Review on: feat(tools): use Hardfork for fork module loading](https://github.com/ethereum/execution-specs/pull/2778#pullrequestreview-4206354844) - 2026-04-30
+* [Issue] [Fix `__init__.py` file name in rendered diffs](https://github.com/ethereum/execution-specs/issues/2788) - 2026-04-30
+* [Commit] [feat(doc): replace index with __init__.py (#2779)](https://github.com/ethereum/execution-specs/commit/8a052aa9d2034eb936c7da87062680a8af1ed061) - 2026-04-30
 ## Q1 2026
 
 

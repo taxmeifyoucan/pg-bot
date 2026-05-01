@@ -101,6 +101,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [gloamsterdam-devnet-0: Missing PayloadEnvelopeInput for known block](https://github.com/ChainSafe/lodestar/issues/9306) - 2026-04-29
 * [Commit] [fix: allow known PayloadEnvelopeInput (#9307)](https://github.com/ChainSafe/lodestar/commit/a45ba75824fb1c20c475d8140336e121c1c0f20b) - 2026-04-29
 * [Commit] [chore: more logs for range sync (#9302)](https://github.com/ChainSafe/lodestar/commit/1213f9c92dcdfbba14926c0f7a1b2d21b0cc9e29) - 2026-04-29
+* [Pull Request] [fix: range sync mismarks partial batches as fully downloaded](https://github.com/ChainSafe/lodestar/pull/9311) - 2026-04-30
+* [Review] [Review on: fix: range sync mismarks partial batches as fully downloaded](https://github.com/ChainSafe/lodestar/pull/9311#pullrequestreview-4204213714) - 2026-04-30
+* [Review] [Review on: feat: add dependent root to proposer preferences](https://github.com/ChainSafe/lodestar/pull/9303#pullrequestreview-4203598009) - 2026-04-30
+* [Commit] [fix: range sync mismarks partial batches as fully downloaded (#9311)](https://github.com/ChainSafe/lodestar/commit/a691e9b4dd5017d8005534235d599710f5e6d2b0) - 2026-04-30
+* [Commit] [fix: gloas checkpoint sync (#9293)](https://github.com/ChainSafe/lodestar/commit/2fba242f5d53ab26b4b8e477d7dc6b48d743f5a2) - 2026-04-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

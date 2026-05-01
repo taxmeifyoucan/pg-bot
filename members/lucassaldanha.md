@@ -39,6 +39,24 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Add commit-hash tag to localDocker build task](https://github.com/Consensys/teku/pull/10643) - 2026-04-29
 * [Pull Request] [Add commit-hash tag to localDocker build task](https://github.com/Consensys/teku/pull/10642) - 2026-04-29
 * [Pull Request] [Add commit-hash tag to localDocker build task](https://github.com/Consensys/teku/pull/10641) - 2026-04-29
+* [Review] [Review on: add javadoc so we can publish to maven central](https://github.com/Consensys/teku/pull/10647#pullrequestreview-4203730048) - 2026-04-30
+* [Pull Request] [Fix invalid javadoc causing Cloudsmith publish to fail](https://github.com/Consensys/teku/pull/10660) - 2026-04-30
+* [Pull Request] [Fix javadoc tag](https://github.com/Consensys/teku/pull/10659) - 2026-04-30
+* [Review] [Review on: Add integration tests for ExecutionPayloadEnvelopesByRangeV1 and ExecutionPayloadEnvelopesByRootV1](https://github.com/Consensys/teku/pull/10631#pullrequestreview-4205826318) - 2026-04-30
+* [Pull Request] [feature/another disabled](https://github.com/Consensys/teku/pull/10658) - 2026-04-30
+* [Pull Request] [Disable SchemaDefinitionCacheTest on Windows](https://github.com/Consensys/teku/pull/10656) - 2026-04-30
+* [Pull Request] [Change CI runner from ubuntu-24.04 to ubuntu-latest-128](https://github.com/Consensys/teku/pull/10655) - 2026-04-30
+* [Pull Request] [Update runner for assemble job to ubuntu-latest-128](https://github.com/Consensys/teku/pull/10652) - 2026-04-30
+* [Review] [Review on: Fix `--p2p-advertised-udp-port-ipv6` using wrong variable](https://github.com/Consensys/teku/pull/10630#pullrequestreview-4203377300) - 2026-04-30
+* [Pull Request] [Update GitHub Actions self-hosted runners to Ubuntu 24](https://github.com/Consensys/teku/pull/10650) - 2026-04-30
+* [Commit] [Fix javadoc tag (#10659)](https://github.com/Consensys/teku/commit/e1c78f058d980179e67da46daf3d6a22e517a3c4) - 2026-04-30
+* [Commit] [Add integration tests for ExecutionPayloadEnvelopesByRangeV1 and ExecutionPayloadEnvelopesByRootV1 (#10631)](https://github.com/Consensys/teku/commit/4b9034864b3ab8915ba2f3df945d1e752ea0fdb8) - 2026-04-30
+* [Commit] [Another ignore for windows (#10658)](https://github.com/Consensys/teku/commit/3a6faa4a666adcfa1a0f9e3e891497af42f16318) - 2026-04-30
+* [Commit] [Disable SchemaDefinitionCacheTest on Windows (#10656)](https://github.com/Consensys/teku/commit/ed3afd4b53c7bbda425b1810244cb5f0360ef841) - 2026-04-30
+* [Commit] [Change CI runner from ubuntu-24.04 to ubuntu-latest-128 (#10655)](https://github.com/Consensys/teku/commit/23bb46f598acac9a80aaac831a2fb893e87f018b) - 2026-04-30
+* [Commit] [Update runner for assemble job to ubuntu-latest-128 (#10652)](https://github.com/Consensys/teku/commit/9d9c6197a4efe6841f0ae5521d059d7dc233704d) - 2026-04-30
+* [Commit] [Add commit-hash tag to localDocker build task (#10643)](https://github.com/Consensys/teku/commit/eed66800dc94a7667fb4302e5c282e204334d174) - 2026-04-30
+* [Commit] [Update GitHub Actions self-hosted runners to Ubuntu 24 (#10650)](https://github.com/Consensys/teku/commit/6e36e834fc11ca7c079fc3a81dc224597135e4cc) - 2026-04-30
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 

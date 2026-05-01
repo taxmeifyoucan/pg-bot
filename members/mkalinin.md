@@ -26,6 +26,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Remove `should_override_forkchoice_update`](https://github.com/ethereum/consensus-specs/pull/5174#pullrequestreview-4189313004) - 2026-04-28
 * [Review] [Review on: Restore `viable_for_head_roots_and_weights` for gloas](https://github.com/ethereum/consensus-specs/pull/5195#pullrequestreview-4196173385) - 2026-04-29
 * [Pull Request] [Gloas: Modify notify_forkchoice_updated](https://github.com/ethereum/consensus-specs/pull/5197) - 2026-04-29
+* [Review] [Review on: Gloas: Modify notify_forkchoice_updated](https://github.com/ethereum/consensus-specs/pull/5197#pullrequestreview-4204684243) - 2026-04-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

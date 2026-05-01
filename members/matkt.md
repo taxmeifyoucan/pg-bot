@@ -50,6 +50,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [add flag to disable bal stateroot on devnet 3](https://github.com/besu-eth/besu/pull/10365) - 2026-04-29
 * [Pull Request] [Add flag to disable bal stateroot devnet 3](https://github.com/besu-eth/besu/pull/10364) - 2026-04-29
 * [Review] [Review on: bal-devnet-3 - Improve BAL account and storage slots sorting](https://github.com/besu-eth/besu/pull/10351#pullrequestreview-4194306865) - 2026-04-29
+* [Review] [Review on: Skip BAL apply during snap sync if not enabled on the first pivot](https://github.com/besu-eth/besu/pull/10376#pullrequestreview-4204435580) - 2026-04-30
+* [Review] [Review on: fix: avoid mutating generated node counter in snap sync completion log](https://github.com/besu-eth/besu/pull/10333#pullrequestreview-4203829417) - 2026-04-30
+* [Review] [Review on: Move MutableWorldState and StateRootCommitter to plugin-api; preparement for creating WorldStateArchiveProvider](https://github.com/besu-eth/besu/pull/10135#pullrequestreview-4202756359) - 2026-04-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

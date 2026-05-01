@@ -34,6 +34,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Fix data column sidecar topic label in p2p_topic_peer_count](https://github.com/OffchainLabs/prysm/pull/16727) - 2026-04-28
 * [Review] [Review on: `getFCUArgs`: Add early return for forkchoice update arguments in non-regular sync.](https://github.com/OffchainLabs/prysm/pull/16721#pullrequestreview-4187497522) - 2026-04-28
 * [Pull Request] [metrics: add payload_attestation_inserts_total labelled by claim](https://github.com/OffchainLabs/prysm/pull/16732) - 2026-04-29
+* [Pull Request] [Increase minimal preset PTC_SIZE from 2 to 16](https://github.com/OffchainLabs/prysm/pull/16737) - 2026-04-30
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

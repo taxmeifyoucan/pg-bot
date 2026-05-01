@@ -31,6 +31,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8159: Correct empty bal response to 0x80 empty string](https://github.com/ethereum/EIPs/commit/dce42b99fe0f94423955e2d316fd1b8138e80291) - 2026-04-21
 * [Pull Request] [Update EIP-7981: Simplify pseudocode in reference implementation](https://github.com/ethereum/EIPs/pull/11564) - 2026-04-23
 * [Commit] [Update EIP-7981: Simplify pseudocode in reference implementation](https://github.com/ethereum/EIPs/commit/706296e06bf9b700bf046cfaa80bd5c3ebbc89c3) - 2026-04-23
+* [Pull Request] [Update EIP-8141: Add 2D nonces](https://github.com/ethereum/EIPs/pull/11584) - 2026-04-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11

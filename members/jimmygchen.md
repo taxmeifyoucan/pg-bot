@@ -46,6 +46,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Add Gloas bid inclusion](https://github.com/sigp/lighthouse/pull/9221#pullrequestreview-4196035666) - 2026-04-29
 * [Review] [Review on: Update CI: warp runnner to use snapshot and use warm](https://github.com/sigp/lighthouse/pull/9217#pullrequestreview-4195175780) - 2026-04-29
 * [Review] [Review on: Spec v1.7.0-alpha.6 and Gloas genesis](https://github.com/sigp/lighthouse/pull/9190#pullrequestreview-4195037321) - 2026-04-29
+* [Review] [Review on: Gloas payload cache](https://github.com/sigp/lighthouse/pull/9209#pullrequestreview-4208753902) - 2026-04-30
+* [Review] [Review on: fix: payload_attestation_data when no block received for slot](https://github.com/sigp/lighthouse/pull/9225#pullrequestreview-4203524079) - 2026-04-30
+* [Review] [Review on: Implement gloas proposer preference vc duty](https://github.com/sigp/lighthouse/pull/9208#pullrequestreview-4205543049) - 2026-04-30
+* [Review] [Review on: Implement beacon_blocks_by_head](https://github.com/sigp/lighthouse/pull/9237#pullrequestreview-4203767921) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026

@@ -45,8 +45,12 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [core/vm: implement stack arena](https://github.com/ethereum/go-ethereum/pull/33960) - 2026-04-28
 * [Commit] [core/vm: implement stack arena (#33960)](https://github.com/ethereum/go-ethereum/commit/4dc7d461556a2ccde3cd6bbe816bd448755a0e07) - 2026-04-28
 
+* [Review] [Review on: core, params: binary conversion activation](https://github.com/ethereum/go-ethereum/pull/34004#pullrequestreview-4205109865) - 2026-04-30
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Review] [Review on: cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575#pullrequestreview-4195917013) - 2026-04-29
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/pull/11587#pullrequestreview-4207017413) - 2026-04-30
 ## Q1 2026
 
 

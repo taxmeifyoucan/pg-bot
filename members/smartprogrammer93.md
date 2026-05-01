@@ -48,6 +48,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [docs(jsonrpc): correct descriptions for proof_getTransactionByHash / proof_getTransactionReceipt](https://github.com/NethermindEth/nethermind/pull/11344) - 2026-04-24
 * [Commit] [docs(jsonrpc): correct descriptions for proof_getTransactionByHash / proof_getTransactionReceipt (#11344)](https://github.com/NethermindEth/nethermind/commit/9cba44cda1a922740f11b619ad7e6387bf52bb68) - 2026-04-25
 * [Review] [Review on: Fix Taiko snap-sync and RPC noise](https://github.com/NethermindEth/nethermind/pull/11387#pullrequestreview-4190385253) - 2026-04-28
+* [Review] [Review on: fix: Revise dependency caching](https://github.com/NethermindEth/nethermind/pull/11444#pullrequestreview-4207596127) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

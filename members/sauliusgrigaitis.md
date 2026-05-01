@@ -8,6 +8,11 @@ Team: Grandine
 
 ## Contributions
 
+## Q2 2026
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Commit] [Updated build instructions in readme](https://github.com/grandinetech/grandine/commit/45610eb066473c61652e3194b537f982d4a44006) - 2026-04-30
 ## Q1 2026
 
 

@@ -50,6 +50,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [fix(discovery): swallow benign ArgumentException from discv5 TableManager on early shutdown](https://github.com/NethermindEth/nethermind/pull/11416) - 2026-04-29
 * [Pull Request] [feat(core): responsive startup logo with adaptive layout](https://github.com/NethermindEth/nethermind/pull/11413) - 2026-04-29
 * [Issue] [Crash on shutdown: ArgumentException in Discv5Protocol.StopAsync when stopped before init completes](https://github.com/NethermindEth/nethermind/issues/11415) - 2026-04-29
+* [Review] [Review on: fix: Revise dependency caching](https://github.com/NethermindEth/nethermind/pull/11444#pullrequestreview-4209435774) - 2026-05-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

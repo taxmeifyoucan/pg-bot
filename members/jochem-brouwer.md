@@ -24,6 +24,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [fix(benchmarks): fix `test_sload_bloated_prefetch_miss` and `test_sload_bloated_multi_contract` in execute remote filler](https://github.com/ethereum/execution-specs/pull/2688) - 2026-04-15
 * [Review] [Review on: feat(spec-specs, tests): EIP-8037 - zero execution state gas on top-level failure](https://github.com/ethereum/execution-specs/pull/2689#pullrequestreview-4136699256) - 2026-04-19
 * [Review] [Review on: feat(spec-specs, tests): EIP-8037 - 0 to x to 0 SSTORE refunds to state gas](https://github.com/ethereum/execution-specs/pull/2698#pullrequestreview-4136945971) - 2026-04-20
+* [Review] [Review on: refactor(test-benchmark): support 8037 for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2787#pullrequestreview-4208733379) - 2026-04-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4083109528) - 2026-04-09
 

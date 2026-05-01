@@ -418,6 +418,16 @@ Team: Erigon
 * [Review] [Review on: engineapi: defer V3 payloadAttributes checks until head is VALID](https://github.com/erigontech/erigon/pull/20891#pullrequestreview-4193853398) - 2026-04-29
 * [Review] [Review on: db/state: add unit tests for findMergeRangeInFiles](https://github.com/erigontech/erigon/pull/20882#pullrequestreview-4193791474) - 2026-04-29
 * [Review] [Review on: common/log: redact --ethstats credentials in startup command log](https://github.com/erigontech/erigon/pull/20890#pullrequestreview-4193855277) - 2026-04-29
+* [Review] [Review on: [DO-NOT-MERGE] ci: shard hive eest consume-engine by fork sub-directory](https://github.com/erigontech/erigon/pull/20931#pullrequestreview-4209527493) - 2026-05-01
+* [Review] [Review on:  rpc/graphql: implement transaction resolver, fix Long scalar and pre-Byzantium status ](https://github.com/erigontech/erigon/pull/20916#pullrequestreview-4202366806) - 2026-04-30
+* [Review] [Review on: p2p/discover: fix expired matcher iteration in discover reply loop](https://github.com/erigontech/erigon/pull/20869#pullrequestreview-4202389091) - 2026-04-30
+* [Review] [Review on: ci: bump docs-deploy actions to Node.js 24-compatible versions](https://github.com/erigontech/erigon/pull/20925#pullrequestreview-4204220721) - 2026-04-30
+* [Review] [Review on: cp: fix seg reset not removing chaindata (#20908)](https://github.com/erigontech/erigon/pull/20919#pullrequestreview-4202990627) - 2026-04-30
+* [Review] [Review on: common/log: redact --ethstats credentials in startup command log](https://github.com/erigontech/erigon/pull/20890#pullrequestreview-4202372882) - 2026-04-30
+* [Review] [Review on: execution/stagedsync, cmd/utils: --exec.no-prune now disables all DB pruning](https://github.com/erigontech/erigon/pull/20915#pullrequestreview-4202169289) - 2026-04-30
+* [Review] [Review on: cmd/utils/app: fix seg reset not removing chaindata](https://github.com/erigontech/erigon/pull/20908#pullrequestreview-4202363763) - 2026-04-30
+* [Review] [Review on: build(deps): bump docker/setup-buildx-action from 3 to 4](https://github.com/erigontech/erigon/pull/19739#pullrequestreview-4202398810) - 2026-04-30
+* [Commit] [cmd/utils: add --only-history flag to rm-state command (#20899)](https://github.com/erigontech/erigon/commit/e4ed80c0825bea485d1d799802f18b80b01bf11f) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

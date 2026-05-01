@@ -40,6 +40,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Reduce chain service processing time at epoch transition](https://github.com/OffchainLabs/prysm/pull/16731) - 2026-04-29
 * [Review] [Review on: Reduce chain service processing time at epoch transition](https://github.com/OffchainLabs/prysm/pull/16731#pullrequestreview-4198389541) - 2026-04-29
 * [Issue] [On mainnet, a lot of blocks at slot 0 are synced > 4 seconds into the slot](https://github.com/OffchainLabs/prysm/issues/16730) - 2026-04-29
+* [Review] [Review on: stateless block v4](https://github.com/OffchainLabs/prysm/pull/16699#pullrequestreview-4203930544) - 2026-04-30
+* [Pull Request] [Balance cache](https://github.com/OffchainLabs/prysm/pull/16738) - 2026-04-30
+* [Review] [Review on: statediff logs cleanup](https://github.com/OffchainLabs/prysm/pull/16715#pullrequestreview-4203755877) - 2026-04-30
+* [Commit] [Reduce chain service processing time at epoch transition (#16731)](https://github.com/OffchainLabs/prysm/commit/1490c56a5080e939daf4cb286da239e6176cb094) - 2026-04-30
 ## Q1 2026
 
 

@@ -115,6 +115,14 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: [HVZK-WHIR 2/6] Private zero-evader for OOD samples](https://github.com/Plonky3/Plonky3/pull/1593#pullrequestreview-4199129804) - 2026-04-29
 * [Review] [Review on: fix(goldilocks): canonicalize sub_asm and harden NEON ASM tests](https://github.com/Plonky3/Plonky3/pull/1591#pullrequestreview-4197267391) - 2026-04-29
 * [Commit] [fix(goldilocks): canonicalize sub_asm and harden NEON ASM tests (#1591)](https://github.com/Plonky3/Plonky3/commit/a7fbd36973b7467364b16404443c841ced1ff4da) - 2026-04-29
+* [Review] [Review on: fix(whir): use unbiased rejection sampling for STIR query indices](https://github.com/Plonky3/Plonky3/pull/1598#pullrequestreview-4208999561) - 2026-04-30
+* [Review] [Review on: Add carry-critical NEON dot product regression tests](https://github.com/Plonky3/Plonky3/pull/1600#pullrequestreview-4207648036) - 2026-04-30
+* [Review] [Review on: feat(merkle-tree): add Merkle path pruning for compact multi-opening proofs](https://github.com/Plonky3/Plonky3/pull/1544#pullrequestreview-4205703953) - 2026-04-30
+* [Review] [Review on: feat(interpolation): add arbitrary-point Lagrange interpolation trait](https://github.com/Plonky3/Plonky3/pull/1552#pullrequestreview-4205571851) - 2026-04-30
+* [Review] [Review on: feat: bus-based cross-AIR interactions and lookup crate redesign](https://github.com/Plonky3/Plonky3/pull/1566#pullrequestreview-4205491421) - 2026-04-30
+* [Review] [Review on: perf(split_eq): SIMD-delayed compress_prefix_to_packed for the Packed eq1 path](https://github.com/Plonky3/Plonky3/pull/1592#pullrequestreview-4205349745) - 2026-04-30
+* [Issue] [Amortize verifier cost in MerkleTreeMmcs::verify_batch_pruned](https://github.com/Plonky3/Plonky3/issues/1599) - 2026-04-30
+* [Commit] [perf(split_eq): SIMD-delayed compress_prefix_to_packed for the Packed eq1 path (#1592)](https://github.com/Plonky3/Plonky3/commit/9372169b6720776926a43aa8cb705940b1586a4f) - 2026-04-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 ## Q1 2026

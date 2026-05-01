@@ -78,6 +78,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [bal-devnet-5: fixes for snobal-devnet-5@v8037.0.0 tests](https://github.com/besu-eth/besu/pull/10367) - 2026-04-29
 * [Pull Request] [update 8037 implementation to meter state gas only on the frame end](https://github.com/besu-eth/besu/pull/10357) - 2026-04-29
 * [Pull Request] [update 8037 implementation to meter state gas only on the frame end](https://github.com/besu-eth/besu/pull/10358) - 2026-04-29
+* [Pull Request] [Add EIP-7976 to Amsterdam](https://github.com/besu-eth/besu/pull/10375) - 2026-04-30
+* [Review] [Review on: Add EIP-7976 to Amsterdam](https://github.com/besu-eth/besu/pull/10375#pullrequestreview-4203671653) - 2026-04-30
+* [Pull Request] [fixes for snobal-devnet-6@v1.1.0](https://github.com/besu-eth/besu/pull/10383) - 2026-04-30
+* [Pull Request] [1. set of fixes for snobal-devnet-6@v1.0.0](https://github.com/besu-eth/besu/pull/10382) - 2026-04-30
+* [Pull Request] [Restrict no-reorg to the prefix of known finalized on bal-devnet-6](https://github.com/besu-eth/besu/pull/10379) - 2026-04-30
+* [Pull Request] [Revert EIP-8037 back to bal-devnet-4 spec and add fixed cpsb](https://github.com/besu-eth/besu/pull/10378) - 2026-04-30
+* [Pull Request] [Merge latest EIP-8037 changes into glamsterdam-devnet-0](https://github.com/besu-eth/besu/pull/10374) - 2026-04-30
+* [Pull Request] [bal-devnet-5: fixes for snobal-devnet-5@v8037.0.1 tests](https://github.com/besu-eth/besu/pull/10372) - 2026-04-30
+* [Commit] [Add EIP-7976 to Amsterdam (#10375)](https://github.com/besu-eth/besu/commit/f87cb9c6e02a6d615e0b427709b1bef54647b70a) - 2026-04-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

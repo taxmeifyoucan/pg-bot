@@ -34,6 +34,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [Bound precompile result caches to semantic-prefix slice (#10350)](https://github.com/besu-eth/besu/commit/91796a19d85d124bf7ce623e153e03c5234a842b) - 2026-04-28
 * [Review] [Review on: CHANGELOG: prep for 26.5.0](https://github.com/besu-eth/besu/pull/10355#pullrequestreview-4198006393) - 2026-04-29
 * [Commit] [CHANGELOG: prep for 26.5.0 (#10355)](https://github.com/besu-eth/besu/commit/17cdf6264ac5851e448c633b5f15667cb6bd4d25) - 2026-04-29
+* [Review] [Review on: Add EIP-7976 to Amsterdam](https://github.com/besu-eth/besu/pull/10375#pullrequestreview-4206077243) - 2026-04-30
+* [Pull Request] [CHANGELOG: add Unreleased section above 26.5.0](https://github.com/besu-eth/besu/pull/10381) - 2026-04-30
+* [Commit] [Gate final-version docker tags on release publish, not draft (#10306)](https://github.com/besu-eth/besu/commit/f3e26cf2def9dd530fb0acf2014c3e25a15dbe59) - 2026-04-30
+* [Commit] [CHANGELOG: add Unreleased section above 26.5.0 (#10381)](https://github.com/besu-eth/besu/commit/7b09000cf2011f04a12890f9527d795aed3cd0c6) - 2026-04-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 ## Q1 2026

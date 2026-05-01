@@ -91,6 +91,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [ rpc/graphql: implement transaction resolver, fix Long scalar and pre-Byzantium status ](https://github.com/erigontech/erigon/pull/20916) - 2026-04-29
 * [Commit] [rpc: compression with libdeflate (#20665)](https://github.com/erigontech/erigon/commit/5b0ba8d75e30eb94ede1e004a2a27f7ca7ae0977) - 2026-04-29
 * [Commit] [QA: enable test also on http-compressed and websockets for historical mainnet (#20815)](https://github.com/erigontech/erigon/commit/58576d51f5cba271f2abc926495256c1a88cb319) - 2026-04-29
+* [Pull Request] [QA: reduce perf load for some qps to avoid 503](https://github.com/erigontech/erigon/pull/20935) - 2026-04-30
+* [Pull Request] [rpc: bound WebSocket write with wsPingInterval timeout](https://github.com/erigontech/erigon/pull/20923) - 2026-04-30
+* [Review] [Review on: rpc: bound WebSocket write with wsPingInterval timeout](https://github.com/erigontech/erigon/pull/20923#pullrequestreview-4207544558) - 2026-04-30
+* [Pull Request] [Hive: change execution apis version](https://github.com/erigontech/erigon/pull/20924) - 2026-04-30
+* [Commit] [ rpc/graphql: implement transaction resolver, fix Long scalar and pre-Byzantium status  (#20916)](https://github.com/erigontech/erigon/commit/4b281cefe0349f074dd8899945aa670f0e57ded5) - 2026-04-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -110,6 +115,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration test: fix exp response for deletedAccounts](https://github.com/erigontech/rpc-tests/pull/552) - 2026-04-26
 * [Pull Request] [integration test: Extend test on eth simulate v1](https://github.com/erigontech/rpc-tests/pull/553) - 2026-04-26
 * [Commit] [fix exp resp (#552)](https://github.com/erigontech/rpc-tests/commit/42d2516df053814e918d6b70e3d59508d44be233) - 2026-04-28
+* [Pull Request] [integration-tests: executes only historical tests NOT all tests if -L or --tests-on-latest-block is not specified](https://github.com/erigontech/rpc-tests/pull/555) - 2026-04-30
 ## Q1 2026
 
 

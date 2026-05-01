@@ -17,6 +17,7 @@ Team: Applied Research Group (ARG)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Fix header formatting in eip-7773.md](https://github.com/ethereum/EIPs/pull/11533#pullrequestreview-4124122980) - 2026-04-16
 * [Review] [Review on: Update EIP-7773: Add Networking EIPs section](https://github.com/ethereum/EIPs/pull/11452#pullrequestreview-4122108051) - 2026-04-16
+* [Review] [Review on: Update EIP-8081: Add EIP-8141 to CFI; EIP-7716 and EIP-8205 to PFI in Hegotá meta EIP](https://github.com/ethereum/EIPs/pull/11537#pullrequestreview-4205143970) - 2026-04-30
 ## Q1 2026
 
 

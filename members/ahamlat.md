@@ -43,6 +43,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: add flag to disable bal stateroot on devnet 3](https://github.com/besu-eth/besu/pull/10365#pullrequestreview-4197466331) - 2026-04-29
 * [Pull Request] [fix issues and disable preload](https://github.com/besu-eth/besu/pull/10361) - 2026-04-29
 * [Pull Request] [Bal devnet 3 - Fix build issues and disable preload](https://github.com/besu-eth/besu/pull/10360) - 2026-04-29
+* [Pull Request] [Improve Partial Block Access List sorting](https://github.com/besu-eth/besu/pull/10380) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

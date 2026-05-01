@@ -173,6 +173,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Fix slot check in proposer preferences gossip](https://github.com/ethereum/consensus-specs/pull/5191#pullrequestreview-4194903718) - 2026-04-29
 * [Commit] [Simplify `bid.parent_block_hash` initialization (#5194)](https://github.com/ethereum/consensus-specs/commit/68d8934757faf214cd542f82318a98f13089ef1c) - 2026-04-29
 * [Commit] [Bump version to v1.7.0-alpha.7 (#5198)](https://github.com/ethereum/consensus-specs/commit/150973213867d4e382adea310746b4917fd74340) - 2026-04-29
+* [Review] [Review on: Gloas: Modify notify_forkchoice_updated](https://github.com/ethereum/consensus-specs/pull/5197#pullrequestreview-4203930937) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

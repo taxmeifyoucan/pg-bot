@@ -305,6 +305,11 @@ Team: Reth
 * [Commit] [perf: eliminate redundant memory resize checks (#363)](https://github.com/paradigmxyz/revmc/commit/421ab3c47327dc35aee2b98c2094605be15d2d30) - 2026-04-30
 * [Commit] [chore: don't add comments (#364)](https://github.com/paradigmxyz/revmc/commit/b2f2dccbd3fc6df997b468b10c6e1b9cdc7baf05) - 2026-04-29
 * [Commit] [perf: inline MLOAD/MSTORE (#342)](https://github.com/paradigmxyz/revmc/commit/11077b00549cb218a3c34ed51f86adca04a87fb3) - 2026-04-29
+* [Pull Request] [Resolve stack-balance return jumps](https://github.com/paradigmxyz/revmc/pull/368) - 2026-04-30
+* [Commit] [test: don't show passing tests in nextest](https://github.com/paradigmxyz/revmc/commit/be0966614fd8bfcd4ab0184538b0e809988b806f) - 2026-04-30
+* [Commit] [chore(meta): cleanup](https://github.com/paradigmxyz/revmc/commit/dd3232148a243500b6aca48844040fa130b453ce) - 2026-04-30
+* [Commit] [chore(meta): add -o description to AGENTS.md](https://github.com/paradigmxyz/revmc/commit/fcb01de75b256a7f80ce924942db482c19a83dff) - 2026-04-30
+* [Commit] [chore: clean up runner](https://github.com/paradigmxyz/revmc/commit/4c5aeab19ead563b994dba16b7f7e87ef8bb6a7e) - 2026-04-30
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -335,6 +340,8 @@ Team: Reth
 * [Review] [Review on: perf(docker): add platform-specific RUSTFLAGS to Dockerfile](https://github.com/paradigmxyz/reth/pull/23738#pullrequestreview-4179533483) - 2026-04-27
 * [Review] [Review on: perf(db): prebind cursor operation metrics](https://github.com/paradigmxyz/reth/pull/23654#pullrequestreview-4188963088) - 2026-04-28
 * [Review] [Review on: perf(db): prebind cursor operation metrics](https://github.com/paradigmxyz/reth/pull/23654#pullrequestreview-4196340469) - 2026-04-29
+* [Review] [Review on: chore: default to min-trace-logs](https://github.com/paradigmxyz/reth/pull/23851#pullrequestreview-4204819507) - 2026-04-30
+* [Commit] [chore(mdbx): replace deprecated MDBX_NOTLS with MDBX_NOSTICKYTHREADS (#23378)](https://github.com/paradigmxyz/reth/commit/fcfa8287f69a3509fcfef95d1b4dc8948ec86665) - 2026-04-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

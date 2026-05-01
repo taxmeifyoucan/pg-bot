@@ -89,6 +89,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Upgrade discv5](https://github.com/NethermindEth/nethermind/pull/11419) - 2026-04-29
 * [Pull Request] [Fix snap lengths](https://github.com/NethermindEth/nethermind/pull/11414) - 2026-04-29
 * [Commit] [Refine runner configs; activate discovery (#11384)](https://github.com/NethermindEth/nethermind/commit/ca1c909467fdf01c3b3f714c2fbd17798bffc05f) - 2026-04-29
+* [Pull Request] [Handle quick channel closing](https://github.com/NethermindEth/nethermind/pull/11428) - 2026-04-30
+* [Review] [Review on: fix(prewarm): run speculative prewarming when BAL EIP is not active](https://github.com/NethermindEth/nethermind/pull/11432#pullrequestreview-4204213771) - 2026-04-30
+* [Commit] [Fix snap lengths (#11414)](https://github.com/NethermindEth/nethermind/commit/5ff585edd00461a7503cc8971d240e41d114de78) - 2026-04-30
+* [Commit] [Upgrade discv5 (#11419)](https://github.com/NethermindEth/nethermind/commit/2075fbb02c1c35a041f3a67a70cfb1a369f3d36a) - 2026-04-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

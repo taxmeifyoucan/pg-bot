@@ -61,6 +61,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: bump spec test version to v1.7.0-alpha.6](https://github.com/ChainSafe/lodestar/pull/9304) - 2026-04-29
 * [Pull Request] [feat: implement EIP-8061 increase exit and consolidation churn](https://github.com/ChainSafe/lodestar/pull/9305) - 2026-04-29
 * [Review] [Review on: chore: more logs for range sync](https://github.com/ChainSafe/lodestar/pull/9302#pullrequestreview-4196941191) - 2026-04-29
+* [Pull Request] [feat: only give proposer boost to canonical proposer](https://github.com/ChainSafe/lodestar/pull/9313) - 2026-04-30
+* [Review] [Review on: feat: add PTC data availability and quorum tracking](https://github.com/ChainSafe/lodestar/pull/9284#pullrequestreview-4202820463) - 2026-04-30
+* [Review] [Review on: fix: remove gloas genesis workarounds](https://github.com/ChainSafe/lodestar/pull/9308#pullrequestreview-4202585340) - 2026-04-30
+* [Commit] [feat: implement EIP-8061 increase exit and consolidation churn (#9305)](https://github.com/ChainSafe/lodestar/commit/87cbe69c66d7b8280e2d47bd662381af3b5473dd) - 2026-04-30
+* [Commit] [feat: bump spec test version to v1.7.0-alpha.6 (#9304)](https://github.com/ChainSafe/lodestar/commit/07452fe3b73b5ce0b930b6e0a90e06224536950c) - 2026-04-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 

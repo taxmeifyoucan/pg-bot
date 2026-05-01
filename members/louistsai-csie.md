@@ -55,6 +55,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [refactor(test-benchmark): increase auth tx gas limit for storage benchmark](https://github.com/ethereum/execution-specs/pull/2771) - 2026-04-28
 * [Review] [Review on: chore(tests): cap `test_selfdestruct_after_create2_collision` at Osaka](https://github.com/ethereum/execution-specs/pull/2777#pullrequestreview-4191041733) - 2026-04-28
 * [Review] [Review on: refactor(test-benchmark): increase auth tx gas limit for storage benchmark](https://github.com/ethereum/execution-specs/pull/2771#pullrequestreview-4196207636) - 2026-04-29
+* [Pull Request] [refactor(test-benchmark): add cache strategy to sstore benchmark](https://github.com/ethereum/execution-specs/pull/2789) - 2026-04-30
+* [Pull Request] [refactor(test-benchmark): support 8037 for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2787) - 2026-04-30
+* [Review] [Review on: fix(test-benchmark): disable cache strats except NO_CACHE for now](https://github.com/ethereum/execution-specs/pull/2786#pullrequestreview-4204601981) - 2026-04-30
 ## Q1 2026
 
 

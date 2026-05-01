@@ -34,6 +34,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Remove peer task system feature toggle from ForwardSyncStep](https://github.com/besu-eth/besu/pull/10197#pullrequestreview-4185685063) - 2026-04-28
 * [Issue] [Remove Bonsai archive freezer storage and Archiver component](https://github.com/besu-eth/besu/issues/10338) - 2026-04-28
 * [Issue] [Distinguish Bonsai archive migration in progress in JSON-RPC responses](https://github.com/besu-eth/besu/issues/10356) - 2026-04-29
+* [Review] [Review on: fix: avoid mutating generated node counter in snap sync completion log](https://github.com/besu-eth/besu/pull/10333#pullrequestreview-4202552909) - 2026-04-30
 ## Q1 2026
 
 

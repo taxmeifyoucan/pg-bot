@@ -25,6 +25,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Check parent block full](https://github.com/status-im/nimbus-eth2/pull/7664#pullrequestreview-4187119104) - 2026-04-28
 
 * [Pull Request] [gloas: reduce envelope root request size](https://github.com/status-im/nimbus-eth2/pull/8370) - 2026-04-29
+* [Review] [Review on: Limit missing envelope requests](https://github.com/status-im/nimbus-eth2/pull/8372#pullrequestreview-4203311089) - 2026-04-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4195918133) - 2026-04-29
 ## Q1 2026

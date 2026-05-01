@@ -30,6 +30,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: sync: fix beacon headers re-downloaded after #10876 changed GetBlockHashOnMainOrBestDifficultyHash](https://github.com/NethermindEth/nethermind/pull/11339#pullrequestreview-4198415341) - 2026-04-29
 * [Review] [Review on: perf(sync): allow multiple allocation slots per peer (lock-free rewrite)](https://github.com/NethermindEth/nethermind/pull/11361#pullrequestreview-4195682684) - 2026-04-29
 * [Review] [Review on: fix(test): treat ArrowGlacier and GrayGlacier as pre-merge](https://github.com/NethermindEth/nethermind/pull/11315#pullrequestreview-4195739279) - 2026-04-29
+* [Review] [Review on: Snapshot fixes](https://github.com/NethermindEth/nethermind/pull/11401#pullrequestreview-4203170240) - 2026-04-30
 ## Q1 2026
 
 

@@ -42,6 +42,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Add commit-hash tag to localDocker build task](https://github.com/Consensys/teku/pull/10643#pullrequestreview-4197925687) - 2026-04-29
 * [Review] [Review on: glamsterdam-devnet-0 changes](https://github.com/Consensys/teku/pull/10626#pullrequestreview-4195585957) - 2026-04-29
 * [Issue] [NodeDataProvider now needs gloas predicates](https://github.com/Consensys/teku/issues/10635) - 2026-04-29
+* [Review] [Review on: Fix javadoc tag](https://github.com/Consensys/teku/pull/10659#pullrequestreview-4207639465) - 2026-04-30
+* [Review] [Review on: Disable SchemaDefinitionCacheTest on Windows](https://github.com/Consensys/teku/pull/10656#pullrequestreview-4206661061) - 2026-04-30
+* [Review] [Review on: Change CI runner from ubuntu-24.04 to ubuntu-latest-128](https://github.com/Consensys/teku/pull/10655#pullrequestreview-4206532813) - 2026-04-30
+* [Review] [Review on: Update runner for assemble job to ubuntu-latest-128](https://github.com/Consensys/teku/pull/10652#pullrequestreview-4206167029) - 2026-04-30
+* [Review] [Review on: Stabilize forkchoice state during block production](https://github.com/Consensys/teku/pull/10646#pullrequestreview-4203968205) - 2026-04-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

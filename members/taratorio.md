@@ -70,6 +70,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cmd/utils/app, execution/vm: fix hive legacy-cancun blockchain failures](https://github.com/erigontech/erigon/pull/20892#pullrequestreview-4196662401) - 2026-04-29
 * [Commit] [claude: add skill for running local kurtosis testnets (#20876)](https://github.com/erigontech/erigon/commit/cc3894587aae1a06e869d4a6d25372c1615bce96) - 2026-04-29
 * [Commit] [execution/execmodule: allow reorgs on canonical chain up to finalised hash (#20825)](https://github.com/erigontech/erigon/commit/67ece3f9519d6f0960a95e3dfd0ee929dffff640) - 2026-04-29
+* [Pull Request] [[DO-NOT-MERGE] ci: shard hive eest consume-engine by fork sub-directory](https://github.com/erigontech/erigon/pull/20931) - 2026-04-30
+* [Pull Request] [[DO-NOT-MERGE] bal-devnet-6](https://github.com/erigontech/erigon/pull/20926) - 2026-04-30
+* [Pull Request] [[DO-NOT-MERGE] [bal-devnet-6] execution: implement 8037 changes](https://github.com/erigontech/erigon/pull/20927) - 2026-04-30
 ## Q1 2026
 
 

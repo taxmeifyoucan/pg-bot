@@ -181,6 +181,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add dependent root to proposer preferences](https://github.com/ChainSafe/lodestar/pull/9303) - 2026-04-29
 * [Review] [Review on: feat: add dependent root to proposer preferences](https://github.com/ChainSafe/lodestar/pull/9303#pullrequestreview-4197414209) - 2026-04-29
 * [Review] [Review on: fix: queue payload envelopes in network processor](https://github.com/ChainSafe/lodestar/pull/9300#pullrequestreview-4196132467) - 2026-04-29
+* [Review] [Review on: chore: index proposer preferences by slot first](https://github.com/ChainSafe/lodestar/pull/9312#pullrequestreview-4205782568) - 2026-04-30
+* [Review] [Review on: feat: implement EIP-8061 increase exit and consolidation churn](https://github.com/ChainSafe/lodestar/pull/9305#pullrequestreview-4203625182) - 2026-04-30
+* [Review] [Review on: feat: bump spec test version to v1.7.0-alpha.6](https://github.com/ChainSafe/lodestar/pull/9304#pullrequestreview-4203315327) - 2026-04-30
+* [Review] [Review on: fix: gloas checkpoint sync](https://github.com/ChainSafe/lodestar/pull/9293#pullrequestreview-4203405171) - 2026-04-30
+* [Issue] [index proposer preferences by slot first](https://github.com/ChainSafe/lodestar/issues/9309) - 2026-04-30
+* [Commit] [feat: add dependent root to proposer preferences (#9303)](https://github.com/ChainSafe/lodestar/commit/1a5237210332b1fa330478ac34ba8091d02e6437) - 2026-04-30
+* [Commit] [fix: remove gloas genesis workarounds (#9308)](https://github.com/ChainSafe/lodestar/commit/3bcc6d0ad5c290a811a8ecf8a277603629014653) - 2026-04-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

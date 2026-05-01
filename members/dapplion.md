@@ -32,6 +32,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Wire up ePBS SSE events and fix envelope availability](https://github.com/sigp/lighthouse/pull/9199#pullrequestreview-4187048783) - 2026-04-28
 * [Pull Request] [Generalise reconstruct_historic_states for ranged replay](https://github.com/sigp/lighthouse/pull/9222) - 2026-04-29
 * [Pull Request] [Add Gloas bid inclusion](https://github.com/sigp/lighthouse/pull/9221) - 2026-04-29
+* [Pull Request] [Implement beacon_blocks_by_head](https://github.com/sigp/lighthouse/pull/9237) - 2026-04-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 

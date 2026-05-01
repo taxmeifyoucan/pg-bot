@@ -259,6 +259,13 @@ Team: Reth
 * [Commit] [feat(engine): add getBlobsV4 endpoint (#23767)](https://github.com/paradigmxyz/reth/commit/5f85eb7ac84f638e6280e9df71a6248c8eb2e93c) - 2026-04-29
 * [Commit] [chore(deps): bump alloy to 2.0.4 (#23828)](https://github.com/paradigmxyz/reth/commit/c194c17a2719500f32c5e807e9f9d68c91628c2a) - 2026-04-29
 * [Commit] [docs(engine): clarify BAL storage prefetch flag (#23815)](https://github.com/paradigmxyz/reth/commit/73ec2c9d5608e044d5018cd5d59f530f59ef3405) - 2026-04-29
+* [Review] [Review on: feat(net): add optional BAL fetching for block ranges](https://github.com/paradigmxyz/reth/pull/23779#pullrequestreview-4206722712) - 2026-04-30
+* [Pull Request] [feat(engine): add shared block accessor to EthBuiltPayload](https://github.com/paradigmxyz/reth/pull/23862) - 2026-04-30
+* [Pull Request] [feat(engine): convert built payload to execution data](https://github.com/paradigmxyz/reth/pull/23859) - 2026-04-30
+* [Review] [Review on: fix(net): prevent eth/68 tx request packing overflow](https://github.com/paradigmxyz/reth/pull/23848#pullrequestreview-4203769394) - 2026-04-30
+* [Pull Request] [feat(payload): expose built payload block access list](https://github.com/paradigmxyz/reth/pull/23860) - 2026-04-30
+* [Review] [Review on: refactor: remove the unneeded bal hash check.](https://github.com/paradigmxyz/reth/pull/23855#pullrequestreview-4204638743) - 2026-04-30
+* [Commit] [feat(engine): convert built payload to execution data (#23859)](https://github.com/paradigmxyz/reth/commit/e98fb4af981d84ff2c50f6f86d863060a77484e6) - 2026-04-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

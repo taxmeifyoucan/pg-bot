@@ -80,6 +80,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore: trigger CI](https://github.com/ethpandaops/dora/commit/61df21827f4bac7cf7f895a5d890ae1c13923d22) - 2026-04-29
 * [Commit] [fix: scope slot page bids to the current slot](https://github.com/ethpandaops/dora/commit/99062281fb7a30f47e8c7f06a1574c7c15d22a57) - 2026-04-29
 * [Commit] [Merge pull request #663 from chetanyb/update-zkvm-mapping](https://github.com/ethpandaops/dora/commit/2078e440efacb9fe24fa0968cdf3862ce57de135) - 2026-04-29
+* [Pull Request] [feat(chainspec): add gloas EIP-8061 churn limits and heze INCLUSION_LIST_DUE_BPS](https://github.com/ethpandaops/dora/pull/668) - 2026-04-30
+* [Pull Request] [chore(deps): bump go-eth2-client to v0.1.1](https://github.com/ethpandaops/dora/pull/669) - 2026-04-30
+* [Commit] [Merge pull request #668 from ethpandaops/bbusa/alpha7-spec-values](https://github.com/ethpandaops/dora/commit/a8cbb48399cd6c2e3130a78bf54cca748973cab9) - 2026-04-30
+* [Commit] [Merge pull request #669 from ethpandaops/bbusa/bump-go-eth2-client-0.1.1](https://github.com/ethpandaops/dora/commit/aa64cf81f9b8e55cd2ef6bf2fe2335d244ee6697) - 2026-04-30
+* [Commit] [chore(deps): bump go-eth2-client to v0.1.1](https://github.com/ethpandaops/dora/commit/22fe8837571e081e25c0715e0c80a2eec258b3eb) - 2026-04-30
+* [Commit] [feat(chainspec): add heze INCLUSION_LIST_DUE_BPS](https://github.com/ethpandaops/dora/commit/c9addccf93bf9b5625041eb67c3445d6a20f5235) - 2026-04-30
+* [Commit] [feat(chainspec): add gloas EIP-8061 churn limits](https://github.com/ethpandaops/dora/commit/c39700f739b85c40839e860e1224af136a2f94b0) - 2026-04-30
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -128,6 +135,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge branch 'master' into pk910/bump-spamoor](https://github.com/ethpandaops/assertoor/commit/b63ac3f0df189159ed90070237ef2351f825ce7c) - 2026-04-22
 * [Commit] [Merge pull request #162 from ethpandaops/bbusa/footer-commit-hash](https://github.com/ethpandaops/assertoor/commit/8fe11229c9cd7b1a0858e3ffac0e24955291fe27) - 2026-04-22
 * [Commit] [Show build commit hash in web UI footer](https://github.com/ethpandaops/assertoor/commit/222bbf3b4eb596d3b4b3edb4c2ea75e76aa9f1c4) - 2026-04-22
+* [Pull Request] [chore(deps): bump go-eth2-client to v0.1.1](https://github.com/ethpandaops/assertoor/pull/165) - 2026-04-30
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/lab/pull/432) - 2026-04-09
 * [Commit] [Merge pull request #432 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/lab/commit/c3be9674e52453b5788e377f0cbf8f508dd7073e) - 2026-04-09
@@ -141,6 +149,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Update EIP-8070: Prefix title with eth/72 protocol version](https://github.com/ethereum/EIPs/pull/11531) - 2026-04-16
 * [Commit] [Update EIP-7773: Add Networking EIPs section](https://github.com/ethereum/EIPs/commit/c79a3768c1d52d939b07acb8576d207ea5b7d9fa) - 2026-04-16
 * [Commit] [Update EIP-8070: Prefix title with eth/72 protocol version](https://github.com/ethereum/EIPs/commit/ea725b44a1ab60147814f8f0ddd5e26f74ce0643) - 2026-04-16
+* [Review] [Review on: Update EIP-7723: Add new ACDE/C Facilitators to Meta & Process EIPs](https://github.com/ethereum/EIPs/pull/11585#pullrequestreview-4203735731) - 2026-04-30
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [ci: bump pinned GitHub Actions to latest](https://github.com/ethpandaops/template-devnets/pull/158) - 2026-04-14
 * [Commit] [ci: bump pinned GitHub Actions to latest (#158)](https://github.com/ethpandaops/template-devnets/commit/254b32c9621944012d978017e59489c3eb70db78) - 2026-04-14
@@ -167,6 +176,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Pin Docker base image to debian:trixie-slim; add ca-certificates](https://github.com/status-im/nimbus-eth2/pull/8310) - 2026-04-21
 
+* [Issue] [Gloas: ExecutionPayloadEnvelope published with parent_beacon_block_root = 0x000...000](https://github.com/status-im/nimbus-eth2/issues/8378) - 2026-04-30
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [feat(discovery/clients): add ethrex to default execution clients](https://github.com/ethpandaops/cartographoor/pull/89) - 2026-04-28
 * [Commit] [Merge pull request #89 from ethpandaops/bbusa/add-ethrex-to-discovery](https://github.com/ethpandaops/cartographoor/commit/2e02857de6b1f8b012fa45ed8760f19dcc93c8d5) - 2026-04-28

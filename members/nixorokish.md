@@ -21,6 +21,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Issue] [All Core Devs - Execution (ACDE) #235, April 23, 2026](https://github.com/ethereum/pm/issues/2015) - 2026-04-11
 * [Issue] [All Core Devs - Consensus (ACDC) #178, Apr 30, 2026](https://github.com/ethereum/pm/issues/2028) - 2026-04-18
 * [Issue] [All Core Devs - Execution (ACDE) #236, May 7, 2026](https://github.com/ethereum/pm/issues/2033) - 2026-04-26
+* [Commit] [Merge pull request #2036 from danceratopz/fix-eip-authors-guide-links](https://github.com/ethereum/pm/commit/3cb21eb3650dcddbdea202c2b2217f8538f364fd) - 2026-04-30
 ## Q1 2026
 
 

@@ -49,6 +49,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [add drain readers option to new tx (or rethink)](https://github.com/erigontech/erigon/issues/20855) - 2026-04-28
 * [Issue] [add readers metrics from last mdbx release](https://github.com/erigontech/erigon/issues/20856) - 2026-04-28
 * [Issue] [change prune algo according to new libmdbx range del feature](https://github.com/erigontech/erigon/issues/20857) - 2026-04-28
+* [Review] [Review on: .github/workflows/release: fix cancellation handling and rollback condition](https://github.com/erigontech/erigon/pull/20872#pullrequestreview-4207687574) - 2026-04-30
+* [Issue] [Clarification of deprecated NewTransaction method](https://github.com/erigontech/erigon/issues/20922) - 2026-04-30
 ## Q1 2026
 
 

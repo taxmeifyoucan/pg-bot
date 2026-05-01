@@ -35,6 +35,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Review] [Review on: feat(benchmark): Add deep-branch SLOAD stateful test](https://github.com/ethereum/execution-specs/pull/2635#pullrequestreview-4105549199) - 2026-04-14
 * [Review] [Review on: chore(test-benchmark): remove unused stateful benchmarks](https://github.com/ethereum/execution-specs/pull/2686#pullrequestreview-4123067756) - 2026-04-16
 
+* [Pull Request] [fix(test-benchmark): disable cache strats except NO_CACHE for now](https://github.com/ethereum/execution-specs/pull/2786) - 2026-04-30
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(cli): avoid u64 underflow in setup_without_evm for genesis-block header](https://github.com/paradigmxyz/reth/pull/23728) - 2026-04-26
 * [Commit] [fix(cli): avoid u64 underflow in setup_without_evm for genesis-block header (#23728)](https://github.com/paradigmxyz/reth/commit/bd4cd28a8df764a912c807085ff6d54cd7b5c198) - 2026-04-26

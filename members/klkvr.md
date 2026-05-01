@@ -86,6 +86,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [feat: customizable discovery defaults (#23843)](https://github.com/paradigmxyz/reth/commit/d25de30050c0cf89e97a08222ae108f81fa2d4c7) - 2026-04-29
 * [Commit] [chore: don't enforce non-empty blocks in e2e payload building (#23837)](https://github.com/paradigmxyz/reth/commit/077e5eecfef02e2fc32d35cd6f79ab5975b975a1) - 2026-04-29
 * [Commit] [fix(re-execute): properly handle selfdestructed storage slots (#23832)](https://github.com/paradigmxyz/reth/commit/88505c7fcbfdebfd3b56d88c86b62e950043c6c4) - 2026-04-29
+* [Review] [Review on: fix(cli): verify repaired trie state root before commit](https://github.com/paradigmxyz/reth/pull/23854#pullrequestreview-4207264697) - 2026-04-30
+* [Review] [Review on: feat(engine): convert built payload to execution data](https://github.com/paradigmxyz/reth/pull/23859#pullrequestreview-4204726331) - 2026-04-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

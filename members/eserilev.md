@@ -73,6 +73,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Submit ptc votes that we produce to the ptc op pool](https://github.com/sigp/lighthouse/pull/9231) - 2026-04-29
 * [Review] [Review on: Import execution payload envelope locally during HTTP API publication](https://github.com/sigp/lighthouse/pull/9226#pullrequestreview-4198277689) - 2026-04-29
 * [Issue] [Cant submit PTC vote for a missed slot](https://github.com/sigp/lighthouse/issues/9220) - 2026-04-29
+* [Review] [Review on: Gloas payload cache](https://github.com/sigp/lighthouse/pull/9209#pullrequestreview-4209118346) - 2026-04-30
+* [Review] [Review on: Implement gloas proposer preference vc duty](https://github.com/sigp/lighthouse/pull/9208#pullrequestreview-4203761095) - 2026-04-30
+* [Pull Request] [Glamsterdam devnet 2](https://github.com/sigp/lighthouse/pull/9245) - 2026-04-30
+* [Pull Request] [Gloas fix genesis](https://github.com/sigp/lighthouse/pull/9244) - 2026-04-30
+* [Pull Request] [Gloas proposer preferences alpha 7](https://github.com/sigp/lighthouse/pull/9239) - 2026-04-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

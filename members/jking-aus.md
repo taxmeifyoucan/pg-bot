@@ -20,3 +20,6 @@ Github: [@jking-aus](https://github.com/jking-aus)
 * [Pull Request] [Increase exit consolidation churn](https://github.com/sigp/lighthouse/pull/9211) - 2026-04-28
 * [Pull Request] [fix: payload_attestation_data when no block received for slot](https://github.com/sigp/lighthouse/pull/9225) - 2026-04-29
 * [Review] [Review on: fix: payload_attestation_data when no block received for slot](https://github.com/sigp/lighthouse/pull/9225#pullrequestreview-4198210740) - 2026-04-29
+* [Review] [Review on: fix: payload_attestation_data when no block received for slot](https://github.com/sigp/lighthouse/pull/9225#pullrequestreview-4203239810) - 2026-04-30
+* [Pull Request] [fix: restore genesis_block bid population for ef-tests](https://github.com/sigp/lighthouse/pull/9246) - 2026-04-30
+* [Review] [Review on: Gloas proposer preferences alpha 7](https://github.com/sigp/lighthouse/pull/9239#pullrequestreview-4203679927) - 2026-04-30

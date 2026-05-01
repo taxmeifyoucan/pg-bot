@@ -43,6 +43,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: update test](https://github.com/Consensys/teku/pull/10633#pullrequestreview-4195185114) - 2026-04-29
 * [Review] [Review on: glamsterdam-devnet-0 changes](https://github.com/Consensys/teku/pull/10626#pullrequestreview-4195483197) - 2026-04-29
 * [Issue] [Move `onExecutionPayloadEnvelope` out from ForkChoice, not longer belongs to](https://github.com/Consensys/teku/issues/10636) - 2026-04-29
+* [Pull Request] [Glamsterdam devnet 2](https://github.com/Consensys/teku/pull/10654) - 2026-04-30
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

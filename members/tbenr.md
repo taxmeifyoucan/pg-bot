@@ -78,6 +78,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Remove impossible builder already exited check](https://github.com/Consensys/teku/issues/10611) - 2026-04-26
 * [Pull Request] [Stabilize forkchoice state during block production](https://github.com/Consensys/teku/pull/10646) - 2026-04-29
 * [Pull Request] [Handle Gloas finalization boundary](https://github.com/Consensys/teku/pull/10639) - 2026-04-29
+* [Review] [Review on: Fix javadoc tag](https://github.com/Consensys/teku/pull/10659#pullrequestreview-4207418784) - 2026-04-30
+* [Pull Request] [fix findhead on payload import (with tiny cleanup in DefaultExecutionPayloadBidManager)](https://github.com/Consensys/teku/pull/10649) - 2026-04-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

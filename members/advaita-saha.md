@@ -44,6 +44,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [improve `eth_getTransactionReceipt` performance](https://github.com/status-im/nimbus-eth1/pull/4186) - 2026-04-28
 * [Commit] [improve eth_getTransactionReceipt performance (#4186)](https://github.com/status-im/nimbus-eth1/commit/64dc87258d3d716c42422e9d6a8a947ff9bf6173) - 2026-04-28
 * [Pull Request] [improve `eth_getLogs`](https://github.com/status-im/nimbus-eth1/pull/4191) - 2026-04-29
+* [Pull Request] [pre-flight fcu for speed bump](https://github.com/status-im/nimbus-eth1/pull/4194) - 2026-04-30
+* [Commit] [improve `eth_getLogs` (#4191)](https://github.com/status-im/nimbus-eth1/commit/3cbeeb8ce82702a8ae5f40f27ef1ada4da92ca88) - 2026-04-30
 ## Q1 2026
 
 

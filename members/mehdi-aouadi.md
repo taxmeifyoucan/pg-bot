@@ -55,6 +55,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: serve finalized execution payload envelopes by range](https://github.com/Consensys/teku/pull/10605#pullrequestreview-4195102485) - 2026-04-29
 * [Commit] [skip execution payload envelope unblinding when BAL is null (#10634)](https://github.com/Consensys/teku/commit/52cd9f42366221ad4cf37f57782b3a235e669ab7) - 2026-04-29
 * [Commit] [update test (#10633)](https://github.com/Consensys/teku/commit/7849b0a9ccce5fc87c5dc3c769937efe583b3df3) - 2026-04-29
+* [Review] [Review on: Add integration tests for ExecutionPayloadEnvelopesByRangeV1 and ExecutionPayloadEnvelopesByRootV1](https://github.com/Consensys/teku/pull/10631#pullrequestreview-4205707518) - 2026-04-30
+* [Review] [Review on: Update GitHub Actions self-hosted runners to Ubuntu 24](https://github.com/Consensys/teku/pull/10650#pullrequestreview-4205166657) - 2026-04-30
 ## Q1 2026
 
 

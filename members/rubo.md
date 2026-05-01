@@ -68,6 +68,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: `debug_executionwitness` RPC implementation](https://github.com/NethermindEth/nethermind/pull/11352#pullrequestreview-4189375962) - 2026-04-28
 * [Review] [Review on: test: stabilize CI flakes (timeout bumps + log noise)](https://github.com/NethermindEth/nethermind/pull/11402#pullrequestreview-4197904079) - 2026-04-29
 * [Review] [Review on: ci: bump NuGet cache key to evict corrupt Windows entries](https://github.com/NethermindEth/nethermind/pull/11408#pullrequestreview-4197593250) - 2026-04-29
+* [Pull Request] [fix: Revise dependency caching](https://github.com/NethermindEth/nethermind/pull/11444) - 2026-04-30
+* [Review] [Review on: chore: Remove NuGet package caching](https://github.com/NethermindEth/nethermind/pull/11440#pullrequestreview-4206358989) - 2026-04-30
 ## Q1 2026
 
 

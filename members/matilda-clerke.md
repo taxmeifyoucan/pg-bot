@@ -21,6 +21,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Use discoveryV5 in unit and acceptance tests](https://github.com/besu-eth/besu/pull/10337) - 2026-04-28
 * [Commit] [Use discoveryV5 in unit and acceptance tests (#10337)](https://github.com/besu-eth/besu/commit/9cfd1e07bef9b8fd36606501b895272a5022d874) - 2026-04-29
 * [Commit] [Remove peer task system feature toggle from ForwardSyncStep (#10197)](https://github.com/besu-eth/besu/commit/4e6f4b6b826d6a1e81815acb20077b13827e172c) - 2026-04-28
+* [Pull Request] [Fix flaky test PeerDiscoveryAgentV5Test.shouldEvictPeerWhenPermissionsRevoked](https://github.com/besu-eth/besu/pull/10384) - 2026-04-30
+* [Commit] [Fix flaky test PeerDiscoveryAgentV5Test.shouldEvictPeerWhenPermissionsRevoked (#10384)](https://github.com/besu-eth/besu/commit/1634a3671bfff75c2c9faf2bf927da601f507757) - 2026-04-30
 ## Q1 2026
 
 

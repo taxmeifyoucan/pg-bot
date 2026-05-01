@@ -88,6 +88,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Recover envelope sse events](https://github.com/status-im/nimbus-eth2/pull/8347#pullrequestreview-4189865353) - 2026-04-28
 * [Review] [Review on: Fix blob_data_available for blocks without blobs](https://github.com/status-im/nimbus-eth2/pull/8364#pullrequestreview-4194148241) - 2026-04-29
 * [Pull Request] [fill gloas withdrawals during block production properly based on parent block parent/full](https://github.com/status-im/nimbus-eth2/pull/8365) - 2026-04-29
+* [Pull Request] [use v1.7.0-alpha.7 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8374) - 2026-04-30
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -96,6 +97,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Revert "build(deps): bump vendor/nimcrypto from `dbe36fa` to `b3dbc9c` (#4129)" (#4149)](https://github.com/status-im/nimbus-eth1/commit/b548086a1338dd590d0e34d07d8008d501ae98a1) - 2026-04-19
 * [Review] [Review on: fixes for engineAPI high latency](https://github.com/status-im/nimbus-eth1/pull/4166#pullrequestreview-4163682924) - 2026-04-23
 * [Review] [Review on: nix: use Nix NBS flake and add derivations](https://github.com/status-im/nimbus-eth1/pull/4102#pullrequestreview-4162229848) - 2026-04-23
+* [Review] [Review on: proxy: WASM/JS Binding](https://github.com/status-im/nimbus-eth1/pull/4010#pullrequestreview-4202826423) - 2026-04-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27

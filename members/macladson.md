@@ -29,6 +29,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Add HTTP API spec test to Lighthouse](https://github.com/sigp/lighthouse/pull/8904#pullrequestreview-4182554926) - 2026-04-27
 * [Pull Request] [Fix validator manager compilation](https://github.com/sigp/lighthouse/pull/9187) - 2026-04-27
 * [Pull Request] [Remove `EthSpec`](https://github.com/sigp/lighthouse/pull/9229) - 2026-04-29
+* [Review] [Review on: Remove `EthSpec`](https://github.com/sigp/lighthouse/pull/9229#pullrequestreview-4206478765) - 2026-04-30
 ## Q1 2026
 
 

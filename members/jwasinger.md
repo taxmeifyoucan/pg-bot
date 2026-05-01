@@ -42,6 +42,10 @@ Team: Geth
 * [Review] [Review on: core/state: track the block-level accessList](https://github.com/ethereum/go-ethereum/pull/34803#pullrequestreview-4179574101) - 2026-04-27
 * [Review] [Review on: core: skip tx gas cap after Amsterdam](https://github.com/ethereum/go-ethereum/pull/34841#pullrequestreview-4190144929) - 2026-04-28
 * [Review] [Review on: core: implement BAL reader for prefetching](https://github.com/ethereum/go-ethereum/pull/33737#pullrequestreview-4188145261) - 2026-04-28
+* [Review] [Review on: internal/ethapi, eth, eth/catalyst: gate eth_syncing on CL handshake](https://github.com/ethereum/go-ethereum/pull/34855#pullrequestreview-4205807836) - 2026-04-30
+* [Review] [Review on: fix: in lax_der_parsing in lax_der_parsing.c](https://github.com/ethereum/go-ethereum/pull/34856#pullrequestreview-4205725653) - 2026-04-30
+* [Pull Request] [core/vm: don't wrap `ErrOutOfGas` errors returned from the dynamic gas check in `ErrOutOfGas`](https://github.com/ethereum/go-ethereum/pull/34857) - 2026-04-30
+* [Review] [Review on: core/vm: don't wrap `ErrOutOfGas` errors returned from the dynamic gas check in `ErrOutOfGas`](https://github.com/ethereum/go-ethereum/pull/34857#pullrequestreview-4205677360) - 2026-04-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

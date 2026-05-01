@@ -288,6 +288,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: commitment: eliminate BranchMerger from fold→encode→write hot path](https://github.com/erigontech/erigon/pull/20548#pullrequestreview-4195855696) - 2026-04-29
 * [Commit] [rpc: use library Close helper for websocket disconnect (#20913)](https://github.com/erigontech/erigon/commit/d7b2a6332701b97b5a7861c30cff065207a4cd76) - 2026-04-29
 * [Commit] [engineapi: defer V3 payloadAttributes checks until head is VALID (#20891)](https://github.com/erigontech/erigon/commit/02e42de904b16edebd68898dde3189fffd9c99cc) - 2026-04-29
+* [Pull Request] [rpc: cancel in-flight op on fatal read error to fix Call hang](https://github.com/erigontech/erigon/pull/20932) - 2026-04-30
+* [Review] [Review on: execution/abi: return errors for invalid ParseTopics output](https://github.com/erigontech/erigon/pull/20800#pullrequestreview-4203444219) - 2026-04-30
+* [Review] [Review on: p2p/sentry, node/eth: EIP-8159 eth/71 BAL fetcher + background downloader (PR 3/3)](https://github.com/erigontech/erigon/pull/20795#pullrequestreview-4204547934) - 2026-04-30
+* [Review] [Review on: types: remove heap allocations from GetEffectiveGasTip](https://github.com/erigontech/erigon/pull/20808#pullrequestreview-4203336169) - 2026-04-30
+* [Commit] [cmd/utils/app, execution/vm: fix hive legacy-cancun blockchain failures (#20892)](https://github.com/erigontech/erigon/commit/fd74bee35249627419fa88a78806edd974ba2d58) - 2026-04-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
