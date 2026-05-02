@@ -50,6 +50,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: fix: payload_attestation_data when no block received for slot](https://github.com/sigp/lighthouse/pull/9225#pullrequestreview-4203524079) - 2026-04-30
 * [Review] [Review on: Implement gloas proposer preference vc duty](https://github.com/sigp/lighthouse/pull/9208#pullrequestreview-4205543049) - 2026-04-30
 * [Review] [Review on: Implement beacon_blocks_by_head](https://github.com/sigp/lighthouse/pull/9237#pullrequestreview-4203767921) - 2026-04-30
+* [Review] [Review on: Implement gloas proposer preference vc duty](https://github.com/sigp/lighthouse/pull/9208#pullrequestreview-4210862498) - 2026-05-01
+* [Review] [Review on: fix: prevent duplicate column reconstruction dispatch](https://github.com/sigp/lighthouse/pull/9250#pullrequestreview-4211076160) - 2026-05-01
+* [Review] [Review on: Implement beacon_blocks_by_head](https://github.com/sigp/lighthouse/pull/9237#pullrequestreview-4210694482) - 2026-05-01
+* [Review] [Review on: fix: payload_attestation_data when no block received for slot](https://github.com/sigp/lighthouse/pull/9225#pullrequestreview-4210652962) - 2026-05-01
+* [Review] [Review on: Avoid 0x00 block hashes in fcU](https://github.com/sigp/lighthouse/pull/9233#pullrequestreview-4210590894) - 2026-05-01
+* [Issue] [Review web3signer message types for Gloas](https://github.com/sigp/lighthouse/issues/9252) - 2026-05-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026

@@ -55,6 +55,7 @@ Team: Erigon
 * [Review] [Review on: rpc: use library Close helper for websocket disconnect](https://github.com/erigontech/erigon/pull/20913#pullrequestreview-4199522973) - 2026-04-29
 * [Pull Request] [execution: optional GEVM backend behind --use-gevm flag](https://github.com/erigontech/erigon/pull/20934) - 2026-04-30
 * [Review] [Review on: cmd/utils: add --only-history flag to rm-state command](https://github.com/erigontech/erigon/pull/20899#pullrequestreview-4204234976) - 2026-04-30
+* [Review] [Review on: rpc: cancel in-flight op on fatal read error to fix Call hang](https://github.com/erigontech/erigon/pull/20932#pullrequestreview-4213601620) - 2026-05-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

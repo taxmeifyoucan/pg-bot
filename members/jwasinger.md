@@ -46,6 +46,7 @@ Team: Geth
 * [Review] [Review on: fix: in lax_der_parsing in lax_der_parsing.c](https://github.com/ethereum/go-ethereum/pull/34856#pullrequestreview-4205725653) - 2026-04-30
 * [Pull Request] [core/vm: don't wrap `ErrOutOfGas` errors returned from the dynamic gas check in `ErrOutOfGas`](https://github.com/ethereum/go-ethereum/pull/34857) - 2026-04-30
 * [Review] [Review on: core/vm: don't wrap `ErrOutOfGas` errors returned from the dynamic gas check in `ErrOutOfGas`](https://github.com/ethereum/go-ethereum/pull/34857#pullrequestreview-4205677360) - 2026-04-30
+* [Review] [Review on: eth/tracers: fix evm trace for t8n](https://github.com/ethereum/go-ethereum/pull/34862#pullrequestreview-4211401036) - 2026-05-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

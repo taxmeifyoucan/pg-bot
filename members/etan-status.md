@@ -67,6 +67,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Collect Gloas light client data](https://github.com/status-im/nimbus-eth2/pull/8367) - 2026-04-29
 * [Pull Request] [Enable Gloas light client tests](https://github.com/status-im/nimbus-eth2/pull/8377) - 2026-04-30
 * [Pull Request] [Set --sync-light-client-finality=true by default in standalone LC](https://github.com/status-im/nimbus-eth2/pull/8376) - 2026-04-30
+* [Pull Request] [Extend EIP-7732 checks](https://github.com/status-im/nimbus-eth2/pull/8384) - 2026-05-01
+* [Pull Request] [Add Gloas EIP-8061 config to API](https://github.com/status-im/nimbus-eth2/pull/8382) - 2026-05-01
+* [Pull Request] [EIP-7732 fixes](https://github.com/status-im/nimbus-eth2/pull/8383) - 2026-05-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

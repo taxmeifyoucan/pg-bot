@@ -87,6 +87,9 @@ Team: Reth
 * [Review] [Review on: feat(engine): add getBlobsV4 endpoint](https://github.com/paradigmxyz/reth/pull/23767#pullrequestreview-4196694198) - 2026-04-29
 * [Review] [Review on: feat(engine): return error on too deep reorg](https://github.com/paradigmxyz/reth/pull/23784#pullrequestreview-4195221340) - 2026-04-29
 * [Commit] [ci(hive): update amsterdam fixtures and branch (#23807)](https://github.com/paradigmxyz/reth/commit/76e886578b26dd18b14c21ef0e7f387284776566) - 2026-04-29
+* [Pull Request] [refactor(tree): reduce BAL cloning across validation and execution](https://github.com/paradigmxyz/reth/pull/23915) - 2026-05-01
+* [Pull Request] [Add static-file storage for bytecodes](https://github.com/paradigmxyz/reth/pull/23913) - 2026-05-01
+* [Review] [Review on: feat(engine): add BAL final hash mismatch diagnostic](https://github.com/paradigmxyz/reth/pull/23907#pullrequestreview-4210735250) - 2026-05-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

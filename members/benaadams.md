@@ -134,6 +134,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Bal devnet 6](https://github.com/NethermindEth/nethermind/pull/11436) - 2026-04-30
 * [Pull Request] [Fix parallel execution metrics and opcode tracing](https://github.com/NethermindEth/nethermind/pull/11445) - 2026-04-30
 * [Review] [Review on: IDriveInfo DI improvements](https://github.com/NethermindEth/nethermind/pull/11437#pullrequestreview-4205559089) - 2026-04-30
+* [Pull Request] [Bal devnet 3 benchmarks](https://github.com/NethermindEth/nethermind/pull/11450) - 2026-05-01
+* [Pull Request] [perf(bal): zero-alloc dict-lookup ValidateBlockAccessList](https://github.com/NethermindEth/nethermind/pull/11448) - 2026-05-01
+* [Review] [Review on: perf(bal): zero-alloc dict-lookup ValidateBlockAccessList](https://github.com/NethermindEth/nethermind/pull/11448#pullrequestreview-4210963797) - 2026-05-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

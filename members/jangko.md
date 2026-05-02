@@ -39,6 +39,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Reduce XDeclaredButNotUsed warnings and other warnings (#4178)](https://github.com/status-im/nimbus-eth1/commit/7bd94ad70bbd9bffc10065530e7fe46c7f05885e) - 2026-04-28
 * [Commit] [Fix nightly build (#4187)](https://github.com/status-im/nimbus-eth1/commit/8f8f972b5e8ae765d32962e77c88c53881753cf0) - 2026-04-29
 * [Pull Request] [bal-devnet-6](https://github.com/status-im/nimbus-eth1/pull/4196) - 2026-04-30
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 ## Q1 2026
 
 

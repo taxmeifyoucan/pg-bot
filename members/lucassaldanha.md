@@ -57,10 +57,19 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Update runner for assemble job to ubuntu-latest-128 (#10652)](https://github.com/Consensys/teku/commit/9d9c6197a4efe6841f0ae5521d059d7dc233704d) - 2026-04-30
 * [Commit] [Add commit-hash tag to localDocker build task (#10643)](https://github.com/Consensys/teku/commit/eed66800dc94a7667fb4302e5c282e204334d174) - 2026-04-30
 * [Commit] [Update GitHub Actions self-hosted runners to Ubuntu 24 (#10650)](https://github.com/Consensys/teku/commit/6e36e834fc11ca7c079fc3a81dc224597135e4cc) - 2026-04-30
+* [Pull Request] [Fix netty error](https://github.com/Consensys/teku/pull/10668) - 2026-05-01
+* [Pull Request] [Fix decoder reuse after dispose in RPC response decoding](https://github.com/Consensys/teku/pull/10667) - 2026-05-01
+* [Review] [Review on: Add Gradle task to fetch fork-choice compliance test data](https://github.com/Consensys/teku/pull/10621#pullrequestreview-4211023183) - 2026-05-01
+* [Review] [Review on: further tweaks to debug tool](https://github.com/Consensys/teku/pull/10665#pullrequestreview-4210756169) - 2026-05-01
+* [Issue] [Block attestations](https://github.com/Consensys/teku/issues/10671) - 2026-05-01
+* [Issue] [Payload reorg handling](https://github.com/Consensys/teku/issues/10670) - 2026-05-01
+* [Issue] [Fetch payload by root when missing (attestation and block processing)](https://github.com/Consensys/teku/issues/10669) - 2026-05-01
+* [Commit] [Fix decoder reuse after dispose in RPC response decoding (#10667)](https://github.com/Consensys/teku/commit/c05af0eaa0533dc8f40a330eb46f39084b30b680) - 2026-05-01
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
 * [Review] [Review on: update codeowners file](https://github.com/Consensys/discovery/pull/220#pullrequestreview-4167257351) - 2026-04-24
+* [Review] [Review on: remove gradle config from renovate](https://github.com/Consensys/discovery/pull/223#pullrequestreview-4210443410) - 2026-05-01
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459) - 2026-04-20
 * [Pull Request] [Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/454) - 2026-04-20

@@ -44,6 +44,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [fix issues and disable preload](https://github.com/besu-eth/besu/pull/10361) - 2026-04-29
 * [Pull Request] [Bal devnet 3 - Fix build issues and disable preload](https://github.com/besu-eth/besu/pull/10360) - 2026-04-29
 * [Pull Request] [Improve Partial Block Access List sorting](https://github.com/besu-eth/besu/pull/10380) - 2026-04-30
+* [Pull Request] [improve AccessLocationTracker performance](https://github.com/besu-eth/besu/pull/10395) - 2026-05-01
+* [Pull Request] [Improve performance of BAL sorting entries](https://github.com/besu-eth/besu/pull/10392) - 2026-05-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

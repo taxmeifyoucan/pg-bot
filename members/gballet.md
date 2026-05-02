@@ -46,6 +46,9 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [core/vm: implement stack arena (#33960)](https://github.com/ethereum/go-ethereum/commit/4dc7d461556a2ccde3cd6bbe816bd448755a0e07) - 2026-04-28
 
 * [Review] [Review on: core, params: binary conversion activation](https://github.com/ethereum/go-ethereum/pull/34004#pullrequestreview-4205109865) - 2026-04-30
+* [Review] [Review on: core/vm: don't wrap `ErrOutOfGas` errors returned from the dynamic gas check in `ErrOutOfGas`](https://github.com/ethereum/go-ethereum/pull/34857#pullrequestreview-4211158047) - 2026-05-01
+* [Review] [Review on: eth/tracers: fix evm trace for t8n](https://github.com/ethereum/go-ethereum/pull/34862#pullrequestreview-4211579328) - 2026-05-01
+* [Commit] [trie: group 2^N binary trie nodes in serialization (#34794)](https://github.com/ethereum/go-ethereum/commit/a15778c52f3f5e5922d6ecd29bf62df500733c6b) - 2026-05-01
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Review] [Review on: cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575#pullrequestreview-4195917013) - 2026-04-29
 

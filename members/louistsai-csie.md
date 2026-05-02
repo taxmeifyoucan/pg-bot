@@ -58,6 +58,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [refactor(test-benchmark): add cache strategy to sstore benchmark](https://github.com/ethereum/execution-specs/pull/2789) - 2026-04-30
 * [Pull Request] [refactor(test-benchmark): support 8037 for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2787) - 2026-04-30
 * [Review] [Review on: fix(test-benchmark): disable cache strats except NO_CACHE for now](https://github.com/ethereum/execution-specs/pull/2786#pullrequestreview-4204601981) - 2026-04-30
+* [Review] [Review on: feat(test-benchmark): storage initialization helper with 7702 authorization](https://github.com/ethereum/execution-specs/pull/2672#pullrequestreview-4210683095) - 2026-05-01
+* [Pull Request] [experiment: bal benchmark with eip-8037](https://github.com/ethereum/execution-specs/pull/2791) - 2026-05-01
 ## Q1 2026
 
 

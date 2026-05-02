@@ -47,6 +47,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Change CI runner from ubuntu-24.04 to ubuntu-latest-128](https://github.com/Consensys/teku/pull/10655#pullrequestreview-4206532813) - 2026-04-30
 * [Review] [Review on: Update runner for assemble job to ubuntu-latest-128](https://github.com/Consensys/teku/pull/10652#pullrequestreview-4206167029) - 2026-04-30
 * [Review] [Review on: Stabilize forkchoice state during block production](https://github.com/Consensys/teku/pull/10646#pullrequestreview-4203968205) - 2026-04-30
+* [Review] [Review on: Fix invalid javadoc causing Cloudsmith publish to fail](https://github.com/Consensys/teku/pull/10660#pullrequestreview-4210559504) - 2026-05-01
+* [Pull Request] [further tweaks to debug tool](https://github.com/Consensys/teku/pull/10665) - 2026-05-01
+* [Commit] [further tweaks to debug tool (#10665)](https://github.com/Consensys/teku/commit/811e9d1ba61ccdb1ed8dadda3b92e9ad1481e89c) - 2026-05-01
+* [Commit] [made column name width dynamic in debug tool (#10664)](https://github.com/Consensys/teku/commit/2cfb853eb6eeb1099da00215c7e7946e8b8e0425) - 2026-05-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

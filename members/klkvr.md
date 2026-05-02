@@ -88,6 +88,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix(re-execute): properly handle selfdestructed storage slots (#23832)](https://github.com/paradigmxyz/reth/commit/88505c7fcbfdebfd3b56d88c86b62e950043c6c4) - 2026-04-29
 * [Review] [Review on: fix(cli): verify repaired trie state root before commit](https://github.com/paradigmxyz/reth/pull/23854#pullrequestreview-4207264697) - 2026-04-30
 * [Review] [Review on: feat(engine): convert built payload to execution data](https://github.com/paradigmxyz/reth/pull/23859#pullrequestreview-4204726331) - 2026-04-30
+* [Pull Request] [chore(deps): bump hickory-resolver](https://github.com/paradigmxyz/reth/pull/23914) - 2026-05-01
+* [Pull Request] [refactor: simplify reth-bb](https://github.com/paradigmxyz/reth/pull/23912) - 2026-05-01
+* [Review] [Review on: fix(reth-bb): renumber bal_index space at segment boundaries](https://github.com/paradigmxyz/reth/pull/23868#pullrequestreview-4211071905) - 2026-05-01
+* [Commit] [chore(deps): bump hickory-resolver (#23914)](https://github.com/paradigmxyz/reth/commit/38c627ce8f1a3bb82bed8a6beb3016f62c50016d) - 2026-05-01
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

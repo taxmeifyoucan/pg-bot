@@ -25,6 +25,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): properly handle invalid txs in the guest program input bytes](https://github.com/ethereum/execution-specs/pull/2768) - 2026-04-27
 * [Pull Request] [feat(zkevm): Fix Withdrawal.amount type to comply to the consensus specs](https://github.com/ethereum/execution-specs/pull/2764) - 2026-04-27
 * [Pull Request] [feat(zkevm): fix execution requests type in NewPayloadRequest](https://github.com/ethereum/execution-specs/pull/2761) - 2026-04-27
+* [Issue] [Tests exist which create blocks with more than 16 withdrawals](https://github.com/ethereum/execution-specs/issues/2792) - 2026-05-01
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01

@@ -87,6 +87,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): cover EIP-7708 CREATE log rollback on outer revert](https://github.com/ethereum/execution-specs/pull/2785) - 2026-04-30
 * [Commit] [fix(test-forks): treat transition fork variants as equal to canonical (#2782)](https://github.com/ethereum/execution-specs/commit/9d18733602f7a4ed41001c16525943ca0836af4c) - 2026-04-30
 * [Commit] [fix(tests) fix ported quadratic complexity tests (#2784)](https://github.com/ethereum/execution-specs/commit/e4c43d6d02be6222af45edb06326203eacc9f032) - 2026-04-30
+* [Pull Request] [fix(consume): better xdist detection for consume](https://github.com/ethereum/execution-specs/pull/2793) - 2026-05-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 

@@ -26,6 +26,7 @@ Github: [@leolara](https://github.com/leolara)
 * [Pull Request] [fix(test-client-clis): write empty trace placeholder for rejected txs](https://github.com/ethereum/execution-specs/pull/2772) - 2026-04-28
 * [Pull Request] [chore(ported_static): sync from forks/amsterdam onto snøbal/4](https://github.com/ethereum/execution-specs/pull/2783) - 2026-04-30
 * [Review] [Review on: fix(tests) fix ported quadratic complexity tests](https://github.com/ethereum/execution-specs/pull/2784#pullrequestreview-4204604846) - 2026-04-30
+* [Pull Request] [fix(ported_static): fork-specific Amsterdam balance for OoG refund tests](https://github.com/ethereum/execution-specs/pull/2790) - 2026-05-01
 ## Q1 2026
 
 

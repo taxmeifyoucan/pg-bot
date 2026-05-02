@@ -64,6 +64,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Restrict no-reorg to the prefix of known finalized](https://github.com/besu-eth/besu/pull/10335#pullrequestreview-4188390202) - 2026-04-28
 * [Review] [Review on: update 8037 implementation to meter state gas only on the frame end](https://github.com/besu-eth/besu/pull/10357#pullrequestreview-4195120076) - 2026-04-29
 * [Review] [Review on: update 8037 implementation to meter state gas only on the frame end](https://github.com/besu-eth/besu/pull/10358#pullrequestreview-4194882106) - 2026-04-29
+* [Review] [Review on: Add EIP-7981 to Amsterdam](https://github.com/besu-eth/besu/pull/10388#pullrequestreview-4210926074) - 2026-05-01
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

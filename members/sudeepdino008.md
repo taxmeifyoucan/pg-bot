@@ -134,6 +134,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cp: fix seg reset not removing chaindata (#20908)](https://github.com/erigontech/erigon/pull/20919) - 2026-04-30
 * [Commit] [add ReceiptRoot integrity check (#20902)](https://github.com/erigontech/erigon/commit/318c7533f3cfb8868e1ec20523e4612b89d3509a) - 2026-04-30
 * [Commit] [cmd/utils/app: fix seg reset not removing chaindata (#20908)](https://github.com/erigontech/erigon/commit/c8a8ad323214b0ea3a37bfaad25992035a414c1d) - 2026-04-30
+* [Pull Request] [cmd/integration: allow resume of commitment rebuild (no history case)](https://github.com/erigontech/erigon/pull/20939) - 2026-05-01
+* [Pull Request] [change block retire's "keep in db" value to MaxReorgDepth](https://github.com/erigontech/erigon/pull/20943) - 2026-05-01
+* [Pull Request] [.github/workflows: run qa-stage-exec daily at 04:00 UTC](https://github.com/erigontech/erigon/pull/20937) - 2026-05-01
+* [Review] [Review on: [r3.4] db/state: 4x default step, transparent execution log, no key referencing](https://github.com/erigontech/erigon/pull/20930#pullrequestreview-4210379587) - 2026-05-01
+* [Commit] [cmd/integration: allow resume of commitment rebuild (no history case) (#20939)](https://github.com/erigontech/erigon/commit/9a82c5871adc576d1ce3f797394d25667d9cdbef) - 2026-05-01
+* [Commit] [stage_exec: enable it for ci and add more configurations (#20682)](https://github.com/erigontech/erigon/commit/6d23e6ae71c7f15215e06f07ede216a8f37463ee) - 2026-05-01
 ## Q1 2026
 
 

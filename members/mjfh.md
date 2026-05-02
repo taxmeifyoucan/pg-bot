@@ -24,6 +24,8 @@ Team: Nimbus
 * [Commit] [Snap sync trie builder fixes (#4185)](https://github.com/status-im/nimbus-eth1/commit/9370f9fe20f378ea44c0dbe92bce559ae278e8b3) - 2026-04-28
 * [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4195) - 2026-04-30
 * [Commit] [Snap sync maint update (#4195)](https://github.com/status-im/nimbus-eth1/commit/50b06f833817d8eed6de0504939843fc34f9306b) - 2026-04-30
+* [Pull Request] [Snap sync optimise mpt tree builder](https://github.com/status-im/nimbus-eth1/pull/4198) - 2026-05-01
+* [Commit] [Snap sync optimise mpt tree builder (#4198)](https://github.com/status-im/nimbus-eth1/commit/09c2a271d7e1a49bd46f6096b6c4e34e297f8474) - 2026-05-01
 ## Q1 2026
 
 

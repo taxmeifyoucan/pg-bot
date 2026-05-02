@@ -53,6 +53,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Skip BAL apply during snap sync if not enabled on the first pivot](https://github.com/besu-eth/besu/pull/10376#pullrequestreview-4204435580) - 2026-04-30
 * [Review] [Review on: fix: avoid mutating generated node counter in snap sync completion log](https://github.com/besu-eth/besu/pull/10333#pullrequestreview-4203829417) - 2026-04-30
 * [Review] [Review on: Move MutableWorldState and StateRootCommitter to plugin-api; preparement for creating WorldStateArchiveProvider](https://github.com/besu-eth/besu/pull/10135#pullrequestreview-4202756359) - 2026-04-30
+* [Pull Request] [feat: Add cross-block code caching for improved performance](https://github.com/besu-eth/besu/pull/10390) - 2026-05-01
+* [Pull Request] [remove timeout for bal parallelization ](https://github.com/besu-eth/besu/pull/10389) - 2026-05-01
+* [Commit] [add flag to disable bal stateroot (#10363)](https://github.com/besu-eth/besu/commit/7ec1d9adead4f605b9550a13d7a8c38ab8f570c1) - 2026-05-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

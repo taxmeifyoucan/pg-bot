@@ -70,6 +70,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: bump NuGet cache key to evict corrupt Windows entries](https://github.com/NethermindEth/nethermind/pull/11408#pullrequestreview-4197593250) - 2026-04-29
 * [Pull Request] [fix: Revise dependency caching](https://github.com/NethermindEth/nethermind/pull/11444) - 2026-04-30
 * [Review] [Review on: chore: Remove NuGet package caching](https://github.com/NethermindEth/nethermind/pull/11440#pullrequestreview-4206358989) - 2026-04-30
+* [Commit] [fix: Revise dependency caching (#11444)](https://github.com/NethermindEth/nethermind/commit/c18a952a918fc0ba037d831811070e5dcfc0c1a3) - 2026-05-01
 ## Q1 2026
 
 

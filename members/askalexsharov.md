@@ -428,6 +428,13 @@ Team: Erigon
 * [Review] [Review on: cmd/utils/app: fix seg reset not removing chaindata](https://github.com/erigontech/erigon/pull/20908#pullrequestreview-4202363763) - 2026-04-30
 * [Review] [Review on: build(deps): bump docker/setup-buildx-action from 3 to 4](https://github.com/erigontech/erigon/pull/19739#pullrequestreview-4202398810) - 2026-04-30
 * [Commit] [cmd/utils: add --only-history flag to rm-state command (#20899)](https://github.com/erigontech/erigon/commit/e4ed80c0825bea485d1d799802f18b80b01bf11f) - 2026-04-30
+* [Review] [Review on: cmd/integration: allow resume of commitment rebuild (no history case)](https://github.com/erigontech/erigon/pull/20939#pullrequestreview-4210723693) - 2026-05-01
+* [Review] [Review on: stage_exec: enable it for ci and add more configurations](https://github.com/erigontech/erigon/pull/20682#pullrequestreview-4210498361) - 2026-05-01
+* [Review] [Review on: change block retire's "keep in db" value to MaxReorgDepth](https://github.com/erigontech/erigon/pull/20943#pullrequestreview-4210885664) - 2026-05-01
+* [Pull Request] [warmuper: cancelable worker](https://github.com/erigontech/erigon/pull/20941) - 2026-05-01
+* [Pull Request] [[wip] cmd/utils, db/integrity, db/seg: fix channel-range loops to be cancellable while idle](https://github.com/erigontech/erigon/pull/20942) - 2026-05-01
+* [Pull Request] [warmuper: worker to be cancellable](https://github.com/erigontech/erigon/pull/20940) - 2026-05-01
+* [Pull Request] [[wip] db/state: restore domain infinity merge default broken by #20705](https://github.com/erigontech/erigon/pull/20936) - 2026-05-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

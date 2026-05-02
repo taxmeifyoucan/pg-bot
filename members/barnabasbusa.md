@@ -87,6 +87,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore(deps): bump go-eth2-client to v0.1.1](https://github.com/ethpandaops/dora/commit/22fe8837571e081e25c0715e0c80a2eec258b3eb) - 2026-04-30
 * [Commit] [feat(chainspec): add heze INCLUSION_LIST_DUE_BPS](https://github.com/ethpandaops/dora/commit/c9addccf93bf9b5625041eb67c3445d6a20f5235) - 2026-04-30
 * [Commit] [feat(chainspec): add gloas EIP-8061 churn limits](https://github.com/ethpandaops/dora/commit/c39700f739b85c40839e860e1224af136a2f94b0) - 2026-04-30
+* [Pull Request] [Add Heze (EIP-7805) block + state handling to indexer and statecache](https://github.com/ethpandaops/dora/pull/673) - 2026-05-01
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01

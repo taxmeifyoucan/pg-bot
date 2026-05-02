@@ -48,6 +48,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix parallel execution metrics and opcode tracing](https://github.com/NethermindEth/nethermind/pull/11445#pullrequestreview-4208864236) - 2026-04-30
 * [Pull Request] [perf: optimize BAL lookups and eliminate redundant GetCodeHash calls](https://github.com/NethermindEth/nethermind/pull/11446) - 2026-04-30
 * [Pull Request] [Fix EIP-8037 cross-frame state gas restoration accounting](https://github.com/NethermindEth/nethermind/pull/11433) - 2026-04-30
+* [Pull Request] [perf: replace O(n²) InsertSorted with deferred O(n log n) rebuild](https://github.com/NethermindEth/nethermind/pull/11455) - 2026-05-01
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

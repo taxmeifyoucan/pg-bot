@@ -188,6 +188,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [index proposer preferences by slot first](https://github.com/ChainSafe/lodestar/issues/9309) - 2026-04-30
 * [Commit] [feat: add dependent root to proposer preferences (#9303)](https://github.com/ChainSafe/lodestar/commit/1a5237210332b1fa330478ac34ba8091d02e6437) - 2026-04-30
 * [Commit] [fix: remove gloas genesis workarounds (#9308)](https://github.com/ChainSafe/lodestar/commit/3bcc6d0ad5c290a811a8ecf8a277603629014653) - 2026-04-30
+* [Review] [Review on: fix: prune PayloadEnvelopeInput on the same branch](https://github.com/ChainSafe/lodestar/pull/9317#pullrequestreview-4212536984) - 2026-05-01
+* [Review] [Review on: feat: add gossip bid selection to block production](https://github.com/ChainSafe/lodestar/pull/9289#pullrequestreview-4210687792) - 2026-05-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -241,6 +243,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Use dependent root for proposer preferences](https://github.com/ethereum/consensus-specs/pull/5196) - 2026-04-29
 * [Commit] [Use dependent root for proposer preferences (#5196)](https://github.com/ethereum/consensus-specs/commit/6ed1d3de19ac8f0520cfa26c44834684b8ee42a0) - 2026-04-29
 * [Commit] [Fix slot check in proposer preferences gossip (#5191)](https://github.com/ethereum/consensus-specs/commit/df7a4fc4e607da870db5e6a1b0a6e613c2031110) - 2026-04-29
+* [Review] [Review on: Fix gossip validation tests](https://github.com/ethereum/consensus-specs/pull/5201#pullrequestreview-4210743367) - 2026-05-01
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

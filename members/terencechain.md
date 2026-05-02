@@ -102,6 +102,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Fix Forkchoice panic](https://github.com/OffchainLabs/prysm/pull/16728#pullrequestreview-4192515916) - 2026-04-28
 * [Review] [Review on: remove saving states to hotStateDB in stateDiff mode](https://github.com/OffchainLabs/prysm/pull/16739#pullrequestreview-4207034312) - 2026-04-30
 * [Pull Request] [Include `ptc_window` in gloas debug state v2 response](https://github.com/OffchainLabs/prysm/pull/16736) - 2026-04-30
+* [Pull Request] [Implement spec `V1.7.0 alpha.7` and pass spec tests](https://github.com/OffchainLabs/prysm/pull/16750) - 2026-05-02
+* [Pull Request] [Re-broadcast pending payload envelopes after processing](https://github.com/OffchainLabs/prysm/pull/16747) - 2026-05-01
+* [Pull Request] [Propagate BAL when unblinding execution payloads](https://github.com/OffchainLabs/prysm/pull/16746) - 2026-05-01
+* [Pull Request] [Use head aware state for payload attestation processing](https://github.com/OffchainLabs/prysm/pull/16745) - 2026-05-01
+* [Pull Request] [Disable retries for `PayloadAttestationData` and downgrade missed slot logs](https://github.com/OffchainLabs/prysm/pull/16743) - 2026-05-01
+* [Pull Request] [Drain pending blocks when payload envelope arrives](https://github.com/OffchainLabs/prysm/pull/16749) - 2026-05-01
+* [Pull Request] [Request payload envelope when pending block's parent payload mi…](https://github.com/OffchainLabs/prysm/pull/16748) - 2026-05-01
+* [Pull Request] [Cache PayloadAttestationData and dedupe concurrent PTC requests](https://github.com/OffchainLabs/prysm/pull/16744) - 2026-05-01
+* [Pull Request] [Glamsterdam devnet 2](https://github.com/OffchainLabs/prysm/pull/16741) - 2026-05-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

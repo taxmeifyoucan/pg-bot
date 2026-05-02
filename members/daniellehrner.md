@@ -87,6 +87,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Merge latest EIP-8037 changes into glamsterdam-devnet-0](https://github.com/besu-eth/besu/pull/10374) - 2026-04-30
 * [Pull Request] [bal-devnet-5: fixes for snobal-devnet-5@v8037.0.1 tests](https://github.com/besu-eth/besu/pull/10372) - 2026-04-30
 * [Commit] [Add EIP-7976 to Amsterdam (#10375)](https://github.com/besu-eth/besu/commit/f87cb9c6e02a6d615e0b427709b1bef54647b70a) - 2026-04-30
+* [Pull Request] [Add EIP-7981 to Amsterdam](https://github.com/besu-eth/besu/pull/10388) - 2026-05-01
+* [Review] [Review on: Add EIP-7981 to Amsterdam](https://github.com/besu-eth/besu/pull/10388#pullrequestreview-4212187300) - 2026-05-01
+* [Pull Request] [perf: skip account/storage preloader on importFrom](https://github.com/besu-eth/besu/pull/10393) - 2026-05-01
+* [Review] [Review on: fix: cap EIP-8037 same-tx-selfdestruct refund at execution state gas](https://github.com/besu-eth/besu/pull/10385#pullrequestreview-4210419616) - 2026-05-01
+* [Commit] [Add EIP-7981 to Amsterdam (#10388)](https://github.com/besu-eth/besu/commit/80b381ee9f94e2e25465cb4e99f03ea70a7e94ef) - 2026-05-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

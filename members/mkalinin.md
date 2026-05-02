@@ -35,6 +35,10 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4193835405) - 2026-04-29
 * [Review] [Review on: engine: add -38005 error codes in `engine_newPayloadV2`, ` engine_getPayloadV2` and `engine_forkchoiceUpdatedV2` openrpc methods](https://github.com/ethereum/execution-apis/pull/780#pullrequestreview-4195871629) - 2026-04-29
 * [Review] [Review on: engine: move PayloadAttributesV4 into Amsterdam structures](https://github.com/ethereum/execution-apis/pull/778#pullrequestreview-4195856684) - 2026-04-29
+
+* [Review] [Review on: Fix: engine nits](https://github.com/ethereum/execution-apis/pull/753#pullrequestreview-4210340435) - 2026-05-01
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4210578979) - 2026-05-01
 ## Q1 2026
 
 

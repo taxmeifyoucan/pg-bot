@@ -43,6 +43,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(test-tools): t8n file streaming optimizations](https://github.com/ethereum/execution-specs/pull/2751) - 2026-04-24
 * [Review] [Review on: fix(ci): install build deps in hive-consume dev mode](https://github.com/ethereum/execution-specs/pull/2773#pullrequestreview-4188479935) - 2026-04-28
 * [Commit] [feat(test-tools): t8n file streaming optimizations (#2751)](https://github.com/ethereum/execution-specs/commit/c48eceaca0082049e19ad75af00c56f63c128efe) - 2026-04-28
+* [Review] [Review on: feat(test-benchmark): storage initialization helper with 7702 authorization](https://github.com/ethereum/execution-specs/pull/2672#pullrequestreview-4211182275) - 2026-05-01
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14
@@ -50,6 +51,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 
 * [Pull Request] [cmd/evm/internal/t8ntool: stream t8n alloc to ease heavy memory cases](https://github.com/ethereum/go-ethereum/pull/34785) - 2026-04-21
 * [Commit] [cmd/evm/internal/t8ntool: stream t8n alloc to ease heavy memory cases (#34785)](https://github.com/ethereum/go-ethereum/commit/442bd28b0bad76674348a67b4c9f8689170bfcdb) - 2026-04-27
+* [Pull Request] [eth/tracers: fix evm trace for t8n](https://github.com/ethereum/go-ethereum/pull/34862) - 2026-05-01
+* [Review] [Review on: eth/tracers: fix evm trace for t8n](https://github.com/ethereum/go-ethereum/pull/34862#pullrequestreview-4211408949) - 2026-05-01
+* [Commit] [eth/tracers: fix evm trace for t8n (#34862)](https://github.com/ethereum/go-ethereum/commit/b9c5fe6d26342d625c9a393bef9ccd5209c6d888) - 2026-05-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141218984) - 2026-04-20
 

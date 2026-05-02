@@ -57,6 +57,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add dependent root to proposer preferences](https://github.com/ChainSafe/lodestar/pull/9303#pullrequestreview-4203480323) - 2026-04-30
 * [Review] [Review on: feat: implement EIP-8061 increase exit and consolidation churn](https://github.com/ChainSafe/lodestar/pull/9305#pullrequestreview-4203534009) - 2026-04-30
 * [Review] [Review on: feat: add PTC data availability and quorum tracking](https://github.com/ChainSafe/lodestar/pull/9284#pullrequestreview-4203367379) - 2026-04-30
+* [Issue] [increase slot observability for 6 second slots](https://github.com/ChainSafe/lodestar/issues/9321) - 2026-05-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

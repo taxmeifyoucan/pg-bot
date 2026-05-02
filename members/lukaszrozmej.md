@@ -289,6 +289,11 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(flat-db): skip ImportFlatDb when pruning trie state lacks head root](https://github.com/NethermindEth/nethermind/pull/11422#pullrequestreview-4203122154) - 2026-04-30
 * [Review] [Review on: Upgrade discv5](https://github.com/NethermindEth/nethermind/pull/11419#pullrequestreview-4203104150) - 2026-04-30
 * [Commit] [fix(prewarm): run speculative prewarming when BAL EIP is not active (#11432)](https://github.com/NethermindEth/nethermind/commit/0dcf42d14e61e8bd06e4c7b29ded61248e74d0e1) - 2026-04-30
+* [Review] [Review on: feat(rpc): add eth_capabilities method for routing capability discovery](https://github.com/NethermindEth/nethermind/pull/11438#pullrequestreview-4210671466) - 2026-05-01
+* [Review] [Review on: perf: optimize BAL lookups and eliminate redundant GetCodeHash calls](https://github.com/NethermindEth/nethermind/pull/11446#pullrequestreview-4211007964) - 2026-05-01
+* [Pull Request] [fix: misleading "100% Old Headers" and "Unable to find beacon header" logs at fresh sync start](https://github.com/NethermindEth/nethermind/pull/11449) - 2026-05-01
+* [Review] [Review on: Handle quick channel closing](https://github.com/NethermindEth/nethermind/pull/11428#pullrequestreview-4210666331) - 2026-05-01
+* [Commit] [debug_traceCallMany: extend timeout CTS lifetime to enumerator disposal (#11429)](https://github.com/NethermindEth/nethermind/commit/5fde52eb8ee18768010c8619097fea4896d3cc30) - 2026-05-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

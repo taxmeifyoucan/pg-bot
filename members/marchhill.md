@@ -32,6 +32,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Skip reorg only if ancestor of finalised block](https://github.com/NethermindEth/nethermind/pull/11439) - 2026-04-30
 * [Review] [Review on: Skip reorg only if ancestor of finalised block](https://github.com/NethermindEth/nethermind/pull/11439#pullrequestreview-4205887897) - 2026-04-30
 * [Review] [Review on: Optimise parallel execution: reduce worldstate, txprocessor allocations](https://github.com/NethermindEth/nethermind/pull/11318#pullrequestreview-4203699106) - 2026-04-30
+* [Pull Request] [optimise bal generation](https://github.com/NethermindEth/nethermind/pull/11452) - 2026-05-01
+* [Commit] [Optimise parallel execution: reduce worldstate, txprocessor allocations (#11318)](https://github.com/NethermindEth/nethermind/commit/0d6d5eb6f962a5403b4903f1598a45e29cc98260) - 2026-05-01
 ## Q1 2026
 
 

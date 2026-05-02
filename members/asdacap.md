@@ -149,6 +149,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(flat-state): wait for TrieWarmer in-flight jobs before disposing SnapshotBundle (#11394)](https://github.com/NethermindEth/nethermind/commit/3d6caea07ddd015e21820dc8e7285c9c4f7c2c22) - 2026-04-29
 * [Review] [Review on: fix(state): honour SELFDESTRUCT marker in PerContractState.StorageRoot](https://github.com/NethermindEth/nethermind/pull/11424#pullrequestreview-4204107273) - 2026-04-30
 * [Issue] [BlockCachePreWarmer disabled on all non-EIP-7928 chains after parallel-execution change](https://github.com/NethermindEth/nethermind/issues/11427) - 2026-04-30
+* [Pull Request] [Add NETH004 analyzer banning ConcurrentDictionary.Keys/.Values](https://github.com/NethermindEth/nethermind/pull/11462) - 2026-05-01
+* [Pull Request] [Add NETH004 analyzer: redundant Span<T>.ToArray() at call sites](https://github.com/NethermindEth/nethermind/pull/11464) - 2026-05-02
+* [Pull Request] [Add NETH004: enforce RunContinuationsAsynchronously on TaskCompletionSource](https://github.com/NethermindEth/nethermind/pull/11465) - 2026-05-02
+* [Review] [Review on: fix(snap-sync): defer `FinalizeSync` to end of state sync to prevent canonical chain wipe](https://github.com/NethermindEth/nethermind/pull/11458#pullrequestreview-4213842045) - 2026-05-01
+* [Pull Request] [perf(flat-state): avoid LOH allocation from ConcurrentDictionary.Keys in Snapshot](https://github.com/NethermindEth/nethermind/pull/11459) - 2026-05-01
+* [Pull Request] [perf(db): account native rocksdb memory via GC.AddMemoryPressure](https://github.com/NethermindEth/nethermind/pull/11453) - 2026-05-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

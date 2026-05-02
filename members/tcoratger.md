@@ -123,6 +123,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(split_eq): SIMD-delayed compress_prefix_to_packed for the Packed eq1 path](https://github.com/Plonky3/Plonky3/pull/1592#pullrequestreview-4205349745) - 2026-04-30
 * [Issue] [Amortize verifier cost in MerkleTreeMmcs::verify_batch_pruned](https://github.com/Plonky3/Plonky3/issues/1599) - 2026-04-30
 * [Commit] [perf(split_eq): SIMD-delayed compress_prefix_to_packed for the Packed eq1 path (#1592)](https://github.com/Plonky3/Plonky3/commit/9372169b6720776926a43aa8cb705940b1586a4f) - 2026-04-30
+* [Review] [Review on: refactor(challenger): align bits==0 short-circuit across grind impls](https://github.com/Plonky3/Plonky3/pull/1602#pullrequestreview-4210787045) - 2026-05-01
+* [Review] [Review on: feat: extract ZK encoding traits to p3-zk-codes](https://github.com/Plonky3/Plonky3/pull/1601#pullrequestreview-4210793471) - 2026-05-01
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 ## Q1 2026

@@ -26,6 +26,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Pull Request] [gloas: reduce envelope root request size](https://github.com/status-im/nimbus-eth2/pull/8370) - 2026-04-29
 * [Review] [Review on: Limit missing envelope requests](https://github.com/status-im/nimbus-eth2/pull/8372#pullrequestreview-4203311089) - 2026-04-30
+* [Pull Request] [gloas: store sidecars](https://github.com/status-im/nimbus-eth2/pull/8380) - 2026-05-01
+* [Review] [Review on: optimize data column pruning and prune payload envelopes along blocks](https://github.com/status-im/nimbus-eth2/pull/8353#pullrequestreview-4210009634) - 2026-05-01
+* [Review] [Review on: Set --sync-light-client-finality=true by default in standalone LC](https://github.com/status-im/nimbus-eth2/pull/8376#pullrequestreview-4209989161) - 2026-05-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4195918133) - 2026-04-29
 ## Q1 2026

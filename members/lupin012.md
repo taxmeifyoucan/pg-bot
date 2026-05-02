@@ -96,6 +96,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: bound WebSocket write with wsPingInterval timeout](https://github.com/erigontech/erigon/pull/20923#pullrequestreview-4207544558) - 2026-04-30
 * [Pull Request] [Hive: change execution apis version](https://github.com/erigontech/erigon/pull/20924) - 2026-04-30
 * [Commit] [ rpc/graphql: implement transaction resolver, fix Long scalar and pre-Byzantium status  (#20916)](https://github.com/erigontech/erigon/commit/4b281cefe0349f074dd8899945aa670f0e57ded5) - 2026-04-30
+* [Commit] [rpc: bound WebSocket write with wsPingInterval timeout (#20923)](https://github.com/erigontech/erigon/commit/a32e5c75ec7b2fcbbcdf1c88a6ecc073513eb2f7) - 2026-05-01
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

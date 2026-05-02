@@ -106,6 +106,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add dependent root to proposer preferences](https://github.com/ChainSafe/lodestar/pull/9303#pullrequestreview-4203598009) - 2026-04-30
 * [Commit] [fix: range sync mismarks partial batches as fully downloaded (#9311)](https://github.com/ChainSafe/lodestar/commit/a691e9b4dd5017d8005534235d599710f5e6d2b0) - 2026-04-30
 * [Commit] [fix: gloas checkpoint sync (#9293)](https://github.com/ChainSafe/lodestar/commit/2fba242f5d53ab26b4b8e477d7dc6b48d743f5a2) - 2026-04-30
+* [Pull Request] [fix: prune PayloadEnvelopeInput on the same branch](https://github.com/ChainSafe/lodestar/pull/9317) - 2026-05-01
+* [Review] [Review on: feat: add gossip bid selection to block production](https://github.com/ChainSafe/lodestar/pull/9289#pullrequestreview-4211284241) - 2026-05-01
+* [Review] [Review on: feat: only give proposer boost to canonical proposer](https://github.com/ChainSafe/lodestar/pull/9313#pullrequestreview-4211199705) - 2026-05-01
+* [Issue] [Error onDiscovered - Cannot read properties of undefined (reading 'includes')](https://github.com/ChainSafe/lodestar/issues/9320) - 2026-05-01
+* [Issue] [BLOCK_ERROR_PARENT_PAYLOAD_UNKNOWN in Range Sync](https://github.com/ChainSafe/lodestar/issues/9319) - 2026-05-01
+* [Issue] [UnknownBlock sync failed to process block](https://github.com/ChainSafe/lodestar/issues/9316) - 2026-05-01
+* [Issue] [UnknownBlockSync: cannot find peer with needed columns=[]](https://github.com/ChainSafe/lodestar/issues/9315) - 2026-05-01
+* [Issue] [Find better way to prune PayloadEnvelopeInput](https://github.com/ChainSafe/lodestar/issues/9318) - 2026-05-01
+* [Commit] [fix: prune PayloadEnvelopeInput on the same branch (#9317)](https://github.com/ChainSafe/lodestar/commit/35940ffd61ad7e29f5de376e13587d044b27b246) - 2026-05-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

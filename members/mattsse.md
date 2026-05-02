@@ -266,6 +266,9 @@ Team: Reth
 * [Pull Request] [feat(payload): expose built payload block access list](https://github.com/paradigmxyz/reth/pull/23860) - 2026-04-30
 * [Review] [Review on: refactor: remove the unneeded bal hash check.](https://github.com/paradigmxyz/reth/pull/23855#pullrequestreview-4204638743) - 2026-04-30
 * [Commit] [feat(engine): convert built payload to execution data (#23859)](https://github.com/paradigmxyz/reth/commit/e98fb4af981d84ff2c50f6f86d863060a77484e6) - 2026-04-30
+* [Review] [Review on: chore(deps): bump hickory-resolver](https://github.com/paradigmxyz/reth/pull/23914#pullrequestreview-4212094891) - 2026-05-01
+* [Review] [Review on: feat(engine): add BAL final hash mismatch diagnostic](https://github.com/paradigmxyz/reth/pull/23907#pullrequestreview-4211403339) - 2026-05-01
+* [Review] [Review on: chore: update rpc-compat expected failures](https://github.com/paradigmxyz/reth/pull/23867#pullrequestreview-4210925790) - 2026-05-01
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
