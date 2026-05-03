@@ -148,6 +148,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update EIP-8141: Tighten spec (#11521)](https://github.com/ethereum/EIPs/commit/131df0a65558113e5bc1cdcd79c29bb3d844a7e5) - 2026-04-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4081943781) - 2026-04-09
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [chore(test-client-clis): update Nethermind exception mappings](https://github.com/ethereum/execution-specs/pull/2794) - 2026-05-02
+* [Issue] [Missing EIP-8037 fixture: per-tx pre-validation admits txs whose worst-case-OR overflows but actual two-dim routing fits](https://github.com/ethereum/execution-specs/issues/2795) - 2026-05-03
 ## Q1 2026
 
 

@@ -30,6 +30,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Commit] [eth/downloader: drop peers sending invalid bodies or receipts (#34745)](https://github.com/ethereum/go-ethereum/commit/75a64ee3413ef324641b9306efdb5d57e8a01cf8) - 2026-04-30
 * [Review] [Review on: core, trie, triedb: group 2^N binary trie nodes in serialization](https://github.com/ethereum/go-ethereum/pull/34794#pullrequestreview-4210584761) - 2026-05-01
 * [Review] [Review on: internal/era/onedb: return false if err](https://github.com/ethereum/go-ethereum/pull/34816#pullrequestreview-4210784047) - 2026-05-01
+* [Review] [Review on: core/txpool/blobpool: fix gapped queue size cap, add metrics](https://github.com/ethereum/go-ethereum/pull/34831#pullrequestreview-4214844535) - 2026-05-02
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
 ## Q1 2026

@@ -97,6 +97,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [Hive: change execution apis version](https://github.com/erigontech/erigon/pull/20924) - 2026-04-30
 * [Commit] [ rpc/graphql: implement transaction resolver, fix Long scalar and pre-Byzantium status  (#20916)](https://github.com/erigontech/erigon/commit/4b281cefe0349f074dd8899945aa670f0e57ded5) - 2026-04-30
 * [Commit] [rpc: bound WebSocket write with wsPingInterval timeout (#20923)](https://github.com/erigontech/erigon/commit/a32e5c75ec7b2fcbbcdf1c88a6ecc073513eb2f7) - 2026-05-01
+* [Review] [Review on: rpc/jsonrpc: use overridden fee values consistently in eth_estimateGas and eth_call](https://github.com/erigontech/erigon/pull/20949#pullrequestreview-4215242402) - 2026-05-02
+* [Pull Request] [CI: cache hit supports both tag and branch in RPC_VERSION](https://github.com/erigontech/erigon/pull/20954) - 2026-05-02
+* [Pull Request] [rpc: implement eth_capabilities method](https://github.com/erigontech/erigon/pull/20951) - 2026-05-02
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

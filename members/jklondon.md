@@ -51,6 +51,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [change prune algo according to new libmdbx range del feature](https://github.com/erigontech/erigon/issues/20857) - 2026-04-28
 * [Review] [Review on: .github/workflows/release: fix cancellation handling and rollback condition](https://github.com/erigontech/erigon/pull/20872#pullrequestreview-4207687574) - 2026-04-30
 * [Issue] [Clarification of deprecated NewTransaction method](https://github.com/erigontech/erigon/issues/20922) - 2026-04-30
+* [Pull Request] [db/temporal: add commit gate APIs](https://github.com/erigontech/erigon/pull/20953) - 2026-05-02
 ## Q1 2026
 
 

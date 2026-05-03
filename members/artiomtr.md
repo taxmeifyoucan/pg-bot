@@ -19,6 +19,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Update rust toolchain to 1.95.0](https://github.com/grandinetech/grandine/pull/672) - 2026-04-22
 * [Commit] [Update rust toolchain to 1.95.0](https://github.com/grandinetech/grandine/commit/4413b701c78064c9624e8914eb30592c6f2ac835) - 2026-04-24
 * [Pull Request] [Update nethermind build to 1.37.1](https://github.com/grandinetech/grandine/pull/675) - 2026-05-01
+* [Commit] [Set proper argument names in nethermind plugin](https://github.com/grandinetech/grandine/commit/eeb33a92284751b71a0f44f410308235657c55f3) - 2026-05-02
+* [Commit] [Fix zisk installation in CI](https://github.com/grandinetech/grandine/commit/b0d3909d92595ec3c2c500eeece20a020a777c21) - 2026-05-02
+* [Commit] [Update Autofac dependency to 9.1.0](https://github.com/grandinetech/grandine/commit/14100c183d0d306bf943e610a678847d39af9ef0) - 2026-05-02
 ## Q1 2026
 
 

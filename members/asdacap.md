@@ -155,6 +155,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(snap-sync): defer `FinalizeSync` to end of state sync to prevent canonical chain wipe](https://github.com/NethermindEth/nethermind/pull/11458#pullrequestreview-4213842045) - 2026-05-01
 * [Pull Request] [perf(flat-state): avoid LOH allocation from ConcurrentDictionary.Keys in Snapshot](https://github.com/NethermindEth/nethermind/pull/11459) - 2026-05-01
 * [Pull Request] [perf(db): account native rocksdb memory via GC.AddMemoryPressure](https://github.com/NethermindEth/nethermind/pull/11453) - 2026-05-01
+* [Pull Request] [perf: Embed Address bytes inline to remove secondary allocation](https://github.com/NethermindEth/nethermind/pull/11469) - 2026-05-03
+* [Review] [Review on: style: remove unused `using`s in Benchmarks solution](https://github.com/NethermindEth/nethermind/pull/11463#pullrequestreview-4214557449) - 2026-05-02
+* [Review] [Review on: fix: misleading "100% Old Headers" and "Unable to find beacon header" logs at fresh sync start](https://github.com/NethermindEth/nethermind/pull/11449#pullrequestreview-4214554619) - 2026-05-02
+* [Review] [Review on: style: enforce expression-bodied operators](https://github.com/NethermindEth/nethermind/pull/11460#pullrequestreview-4214556272) - 2026-05-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

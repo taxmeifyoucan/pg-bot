@@ -435,6 +435,9 @@ Team: Erigon
 * [Pull Request] [[wip] cmd/utils, db/integrity, db/seg: fix channel-range loops to be cancellable while idle](https://github.com/erigontech/erigon/pull/20942) - 2026-05-01
 * [Pull Request] [warmuper: worker to be cancellable](https://github.com/erigontech/erigon/pull/20940) - 2026-05-01
 * [Pull Request] [[wip] db/state: restore domain infinity merge default broken by #20705](https://github.com/erigontech/erigon/pull/20936) - 2026-05-01
+* [Pull Request] [[wip] domain: store largeValues in own auto-increment-id table](https://github.com/erigontech/erigon/pull/20952) - 2026-05-02
+* [Pull Request] [[wip] domain: store largeValues in own auto-increment-id table](https://github.com/erigontech/erigon/pull/20947) - 2026-05-02
+* [Review] [Review on: [SharovBot] fix: stage-exec workflow --result-file arg name mismatch](https://github.com/erigontech/erigon/pull/20950#pullrequestreview-4214641868) - 2026-05-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

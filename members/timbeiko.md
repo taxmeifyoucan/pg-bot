@@ -15,6 +15,9 @@ Team: [ethereum/pm](https://github.com/ethereum/pm)
 * [Review] [Review on: Update EIP-7773: PFI EIP-7979 and EIP-8163](https://github.com/ethereum/EIPs/pull/11574#pullrequestreview-4189208422) - 2026-04-28
 * [Pull Request] [Update EIP-7723: Add new ACDE/C Facilitators to Meta & Process EIPs](https://github.com/ethereum/EIPs/pull/11585) - 2026-04-30
 * [Commit] [Update EIP-7723: Add new ACDE/C Facilitators to Meta & Process EIPs](https://github.com/ethereum/EIPs/commit/d11ae258ef6ad8ae8fe5fedf28cea0c6c626ef00) - 2026-04-30
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Tim Beiko](https://github.com/protocolguild/documentation/pull/497) - 2026-05-02
 ## Q3 2025
 
 

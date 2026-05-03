@@ -52,6 +52,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [chore(bls): expose bls sizes (#328)](https://github.com/ChainSafe/lodestar-z/commit/60cca7975d6a238389c77a11216c0d8b9dfca933) - 2026-04-29
 * [Review] [Review on: feat: migrate BeaconStateView to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/330#pullrequestreview-4204062549) - 2026-04-30
 * [Commit] [fix(stf): commit before bulk read (#334)](https://github.com/ChainSafe/lodestar-z/commit/7a0b26267316591e66c2c94f49de2e608143deff) - 2026-04-30
+* [Pull Request] [fix(stf): post state not being committed when verify state root is true](https://github.com/ChainSafe/lodestar-z/pull/338) - 2026-05-02
+* [Review] [Review on: fix(stf): post state not being committed when verify state root is true](https://github.com/ChainSafe/lodestar-z/pull/338#pullrequestreview-4214262533) - 2026-05-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

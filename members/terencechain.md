@@ -111,6 +111,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Request payload envelope when pending block's parent payload mi…](https://github.com/OffchainLabs/prysm/pull/16748) - 2026-05-01
 * [Pull Request] [Cache PayloadAttestationData and dedupe concurrent PTC requests](https://github.com/OffchainLabs/prysm/pull/16744) - 2026-05-01
 * [Pull Request] [Glamsterdam devnet 2](https://github.com/OffchainLabs/prysm/pull/16741) - 2026-05-01
+* [Pull Request] [Apply parent execution payload before building block](https://github.com/OffchainLabs/prysm/pull/16751) - 2026-05-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

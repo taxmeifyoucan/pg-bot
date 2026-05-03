@@ -294,6 +294,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [fix: misleading "100% Old Headers" and "Unable to find beacon header" logs at fresh sync start](https://github.com/NethermindEth/nethermind/pull/11449) - 2026-05-01
 * [Review] [Review on: Handle quick channel closing](https://github.com/NethermindEth/nethermind/pull/11428#pullrequestreview-4210666331) - 2026-05-01
 * [Commit] [debug_traceCallMany: extend timeout CTS lifetime to enumerator disposal (#11429)](https://github.com/NethermindEth/nethermind/commit/5fde52eb8ee18768010c8619097fea4896d3cc30) - 2026-05-01
+* [Review] [Review on: style: remove unused `using`s in Benchmarks solution](https://github.com/NethermindEth/nethermind/pull/11463#pullrequestreview-4214771761) - 2026-05-02
+* [Review] [Review on: style: enforce null-coalescing operator](https://github.com/NethermindEth/nethermind/pull/11461#pullrequestreview-4214772505) - 2026-05-02
+* [Review] [Review on: style: enforce expression-bodied operators](https://github.com/NethermindEth/nethermind/pull/11460#pullrequestreview-4214772178) - 2026-05-02
+* [Commit] [fix: misleading "100% Old Headers" and "Unable to find beacon header" logs at fresh sync start (#11449)](https://github.com/NethermindEth/nethermind/commit/d710905db10cbf62091f43f047b3747e0a0fe9ed) - 2026-05-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

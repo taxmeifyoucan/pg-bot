@@ -269,6 +269,12 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump hickory-resolver](https://github.com/paradigmxyz/reth/pull/23914#pullrequestreview-4212094891) - 2026-05-01
 * [Review] [Review on: feat(engine): add BAL final hash mismatch diagnostic](https://github.com/paradigmxyz/reth/pull/23907#pullrequestreview-4211403339) - 2026-05-01
 * [Review] [Review on: chore: update rpc-compat expected failures](https://github.com/paradigmxyz/reth/pull/23867#pullrequestreview-4210925790) - 2026-05-01
+* [Review] [Review on: feat(storage): add in-memory BAL retention](https://github.com/paradigmxyz/reth/pull/23873#pullrequestreview-4215227066) - 2026-05-02
+* [Review] [Review on: docs: update admin namespace docs](https://github.com/paradigmxyz/reth/pull/23916#pullrequestreview-4215147799) - 2026-05-02
+* [Review] [Review on: feat(eth-wire): add capability message id helpers](https://github.com/paradigmxyz/reth/pull/23908#pullrequestreview-4215163435) - 2026-05-02
+* [Review] [Review on: feat(tracing): add `std` feature gate to `reth-tracing` for wasm compatibility](https://github.com/paradigmxyz/reth/pull/23699#pullrequestreview-4215182780) - 2026-05-02
+* [Commit] [feat(payload): expose built payload block access list (#23860)](https://github.com/paradigmxyz/reth/commit/44879c32020594ce9e322b264e4ce59022b964db) - 2026-05-02
+* [Commit] [feat(engine): add shared block accessor to EthBuiltPayload (#23862)](https://github.com/paradigmxyz/reth/commit/6d9ea5af49c2b405e9bf2fc56cd88ea97db9d763) - 2026-05-02
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

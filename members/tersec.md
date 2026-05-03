@@ -89,6 +89,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Fix blob_data_available for blocks without blobs](https://github.com/status-im/nimbus-eth2/pull/8364#pullrequestreview-4194148241) - 2026-04-29
 * [Pull Request] [fill gloas withdrawals during block production properly based on parent block parent/full](https://github.com/status-im/nimbus-eth2/pull/8365) - 2026-04-29
 * [Pull Request] [use v1.7.0-alpha.7 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8374) - 2026-04-30
+* [Review] [Review on: Implement  /eth/v1/beacon/execution_payload_bid REST endpoint (POST)](https://github.com/status-im/nimbus-eth2/pull/8385#pullrequestreview-4214731388) - 2026-05-02
+* [Review] [Review on: add batch putting of data column sidecars](https://github.com/status-im/nimbus-eth2/pull/8336#pullrequestreview-4214725961) - 2026-05-02
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

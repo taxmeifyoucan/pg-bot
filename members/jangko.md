@@ -40,6 +40,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fix nightly build (#4187)](https://github.com/status-im/nimbus-eth1/commit/8f8f972b5e8ae765d32962e77c88c53881753cf0) - 2026-04-29
 * [Pull Request] [bal-devnet-6](https://github.com/status-im/nimbus-eth1/pull/4196) - 2026-04-30
 
+* [Pull Request] [Bump nimbus-eth2](https://github.com/status-im/nimbus-eth1/pull/4201) - 2026-05-02
+* [Commit] [Bump nimbus-eth2 (#4201)](https://github.com/status-im/nimbus-eth1/commit/853e182ef45597245a928c8935d6709c2bb38c94) - 2026-05-03
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 ## Q1 2026

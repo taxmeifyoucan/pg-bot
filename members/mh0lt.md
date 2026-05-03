@@ -111,6 +111,8 @@ Team: Erigon
 * [Pull Request] [snapshot-flow: trust + validation + producer-gate scaffolding (low-risk preparation)](https://github.com/erigontech/erigon/pull/20933) - 2026-04-30
 * [Issue] [Erigon trails geth/besu/nethermind by ~1.5–2× on cold-SSTORE-bloated workloads; planned fix blocked by --experimental.concurrent-commitment wrong-trie-root bug](https://github.com/erigontech/erigon/issues/20920) - 2026-04-30
 * [Commit] [execution/stagedsync, cmd/utils: --exec.no-prune now disables all DB pruning (#20915)](https://github.com/erigontech/erigon/commit/fda665c0ab797989b0f286bb8bedcdb0a881bbdb) - 2026-04-30
+* [Issue] [commitment: GetAsOf on-disk shortcut missing — drives ~2 GiB unnecessary history-file I/O on SSTORE-bloated benchmark](https://github.com/erigontech/erigon/issues/20955) - 2026-05-02
+* [Issue] [exec3/remove-rwtx-threading-merge-main ~34% slower than bal-devnet-3 on SSTORE-bloated benchmark — for visibility](https://github.com/erigontech/erigon/issues/20956) - 2026-05-02
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

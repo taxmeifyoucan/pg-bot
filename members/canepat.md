@@ -21,6 +21,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: integration: disableMemory -> enableMemory in debug_trace* tests](https://github.com/erigontech/rpc-tests/pull/550#pullrequestreview-4169111323) - 2026-04-24
 * [Review] [Review on: integration: extend eth_simulateV1 tests](https://github.com/erigontech/rpc-tests/pull/553#pullrequestreview-4179898388) - 2026-04-27
 * [Review] [Review on: integration: fix expected deletedAccounts in debug_traceBlockByNumber](https://github.com/erigontech/rpc-tests/pull/552#pullrequestreview-4178885299) - 2026-04-27
+* [Review] [Review on: integration: executes only historical tests NOT all tests if -L or --tests-on-latest-block is not specified](https://github.com/erigontech/rpc-tests/pull/555#pullrequestreview-4215192131) - 2026-05-02
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [debug_executionWitness: collapse witness root mismatch at chain tip](https://github.com/erigontech/erigon/issues/20608) - 2026-04-16
 * [Review] [Review on: rpc: add call limits for eth_simulateV1](https://github.com/erigontech/erigon/pull/20232#pullrequestreview-4127617371) - 2026-04-17
