@@ -32,6 +32,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7981: Simplify pseudocode in reference implementation](https://github.com/ethereum/EIPs/pull/11564) - 2026-04-23
 * [Commit] [Update EIP-7981: Simplify pseudocode in reference implementation](https://github.com/ethereum/EIPs/commit/706296e06bf9b700bf046cfaa80bd5c3ebbc89c3) - 2026-04-23
 * [Pull Request] [Update EIP-8141: Add 2D nonces](https://github.com/ethereum/EIPs/pull/11584) - 2026-04-30
+* [Pull Request] [Add EIP: Ancestor-Indexed BALs](https://github.com/ethereum/EIPs/pull/11595) - 2026-05-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11

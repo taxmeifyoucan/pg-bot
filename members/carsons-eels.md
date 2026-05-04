@@ -27,6 +27,8 @@ Github: [@carsons-eels](https://github.com/carsons-eels)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7708: add CREATE and CREATE2 to transfer log list](https://github.com/ethereum/EIPs/pull/11474#pullrequestreview-4141547676) - 2026-04-20
 * [Pull Request] [Update EIP-8037: Proposal for Revising 8037](https://github.com/ethereum/EIPs/pull/11570) - 2026-04-24
+* [Pull Request] [Update EIP-7708: Soldøgn Interop Breakout Decisions](https://github.com/ethereum/EIPs/pull/11596) - 2026-05-03
+* [Commit] [Update EIP-7708: interop breakout decisions](https://github.com/ethereum/EIPs/commit/100615c2c6f34b6105d3de22a1f3390ff3e1e232) - 2026-05-03
 ## Q1 2026
 
 

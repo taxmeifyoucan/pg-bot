@@ -51,6 +51,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [feat(core): responsive startup logo with adaptive layout](https://github.com/NethermindEth/nethermind/pull/11413) - 2026-04-29
 * [Issue] [Crash on shutdown: ArgumentException in Discv5Protocol.StopAsync when stopped before init completes](https://github.com/NethermindEth/nethermind/issues/11415) - 2026-04-29
 * [Review] [Review on: fix: Revise dependency caching](https://github.com/NethermindEth/nethermind/pull/11444#pullrequestreview-4209435774) - 2026-05-01
+* [Review] [Review on: Fix: `/health` endpoint reports `ClUnavailable` after 5 minutes (1.37.x regression)](https://github.com/NethermindEth/nethermind/pull/11474#pullrequestreview-4216358738) - 2026-05-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

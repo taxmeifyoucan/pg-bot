@@ -64,6 +64,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Optimise hdiff buffer handling by (re)using Milhouse data structures](https://github.com/sigp/lighthouse/pull/9236) - 2026-04-30
 * [Review] [Review on: Remove `test_logger` feature](https://github.com/sigp/lighthouse/pull/9125#pullrequestreview-4202432036) - 2026-04-30
 * [Review] [Review on: Generalise reconstruct_historic_states for ranged replay](https://github.com/sigp/lighthouse/pull/9222#pullrequestreview-4202099545) - 2026-04-30
+* [Review] [Review on: Remove `TestRandom`](https://github.com/sigp/lighthouse/pull/9006#pullrequestreview-4217080301) - 2026-05-04
+* [Review] [Review on: Unblock CI by temporarily ignoring `hickory-proto` audit failures](https://github.com/sigp/lighthouse/pull/9257#pullrequestreview-4216189240) - 2026-05-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

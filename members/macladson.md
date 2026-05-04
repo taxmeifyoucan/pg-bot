@@ -30,6 +30,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Fix validator manager compilation](https://github.com/sigp/lighthouse/pull/9187) - 2026-04-27
 * [Pull Request] [Remove `EthSpec`](https://github.com/sigp/lighthouse/pull/9229) - 2026-04-29
 * [Review] [Review on: Remove `EthSpec`](https://github.com/sigp/lighthouse/pull/9229#pullrequestreview-4206478765) - 2026-04-30
+* [Pull Request] [Unblock CI by temporarily ignoring `hickory-proto` audit failures](https://github.com/sigp/lighthouse/pull/9257) - 2026-05-03
+* [Issue] [`hickory-proto` audit failure tracking issue](https://github.com/sigp/lighthouse/issues/9258) - 2026-05-03
 ## Q1 2026
 
 

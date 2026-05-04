@@ -298,6 +298,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: style: enforce null-coalescing operator](https://github.com/NethermindEth/nethermind/pull/11461#pullrequestreview-4214772505) - 2026-05-02
 * [Review] [Review on: style: enforce expression-bodied operators](https://github.com/NethermindEth/nethermind/pull/11460#pullrequestreview-4214772178) - 2026-05-02
 * [Commit] [fix: misleading "100% Old Headers" and "Unable to find beacon header" logs at fresh sync start (#11449)](https://github.com/NethermindEth/nethermind/commit/d710905db10cbf62091f43f047b3747e0a0fe9ed) - 2026-05-02
+* [Review] [Review on: perf: Embed Address bytes inline to remove secondary allocation](https://github.com/NethermindEth/nethermind/pull/11469#pullrequestreview-4215925464) - 2026-05-03
+* [Pull Request] [fix(snap-sync): drive FlatSnapTrieFactory init/finalize from SnapSyncRunner.Run](https://github.com/NethermindEth/nethermind/pull/11472) - 2026-05-03
+* [Review] [Review on: style: enforce `static` keyword for stateless lambdas](https://github.com/NethermindEth/nethermind/pull/11476#pullrequestreview-4216757060) - 2026-05-03
+* [Review] [Review on: Fix: `/health` endpoint reports `ClUnavailable` after 5 minutes (1.37.x regression)](https://github.com/NethermindEth/nethermind/pull/11474#pullrequestreview-4216423515) - 2026-05-03
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11467#pullrequestreview-4215910187) - 2026-05-03
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11468#pullrequestreview-4215910262) - 2026-05-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

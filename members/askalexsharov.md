@@ -438,6 +438,13 @@ Team: Erigon
 * [Pull Request] [[wip] domain: store largeValues in own auto-increment-id table](https://github.com/erigontech/erigon/pull/20952) - 2026-05-02
 * [Pull Request] [[wip] domain: store largeValues in own auto-increment-id table](https://github.com/erigontech/erigon/pull/20947) - 2026-05-02
 * [Review] [Review on: [SharovBot] fix: stage-exec workflow --result-file arg name mismatch](https://github.com/erigontech/erigon/pull/20950#pullrequestreview-4214641868) - 2026-05-02
+* [Pull Request] [TotalMemory: calc once](https://github.com/erigontech/erigon/pull/20960) - 2026-05-03
+* [Review] [Review on: CI: cache hit supports both tag and branch in RPC_VERSION](https://github.com/erigontech/erigon/pull/20954#pullrequestreview-4216187106) - 2026-05-03
+* [Pull Request] [db/state: take commitment.domain existence filter in-mem](https://github.com/erigontech/erigon/pull/20958) - 2026-05-03
+* [Pull Request] [commitment: remove WarmupCache.enabled atomic.Bool](https://github.com/erigontech/erigon/pull/20959) - 2026-05-03
+* [Pull Request] [db/state: remove CheckSnapshotsCompatibility (pre-3.1 compat check)](https://github.com/erigontech/erigon/pull/20746) - 2026-05-03
+* [Pull Request] [db/state: commitment domain existence filter - flags to get it in-mem (now it's on mmap)](https://github.com/erigontech/erigon/pull/20957) - 2026-05-03
+* [Commit] [db/state: remove CheckSnapshotsCompatibility (pre-3.1 compat check) (#20746)](https://github.com/erigontech/erigon/commit/bbbc7f9997c87dd56e46d00cada79f2ad0f6e400) - 2026-05-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

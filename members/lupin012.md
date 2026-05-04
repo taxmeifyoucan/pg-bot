@@ -100,6 +100,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc/jsonrpc: use overridden fee values consistently in eth_estimateGas and eth_call](https://github.com/erigontech/erigon/pull/20949#pullrequestreview-4215242402) - 2026-05-02
 * [Pull Request] [CI: cache hit supports both tag and branch in RPC_VERSION](https://github.com/erigontech/erigon/pull/20954) - 2026-05-02
 * [Pull Request] [rpc: implement eth_capabilities method](https://github.com/erigontech/erigon/pull/20951) - 2026-05-02
+* [Pull Request] [rpc: add canonical hash cache](https://github.com/erigontech/erigon/pull/19173) - 2026-05-03
+* [Commit] [CI: cache hit supports both tag and branch in RPC_VERSION (#20954)](https://github.com/erigontech/erigon/commit/8373ebec29256965f9597109a54749e83ccdd99d) - 2026-05-03
+* [Commit] [rpc: add canonical hash cache (#19173)](https://github.com/erigontech/erigon/commit/4d282a403a8faa307a60c3352a454ae461da8f6a) - 2026-05-03
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -120,6 +123,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration test: Extend test on eth simulate v1](https://github.com/erigontech/rpc-tests/pull/553) - 2026-04-26
 * [Commit] [fix exp resp (#552)](https://github.com/erigontech/rpc-tests/commit/42d2516df053814e918d6b70e3d59508d44be233) - 2026-04-28
 * [Pull Request] [integration-tests: executes only historical tests NOT all tests if -L or --tests-on-latest-block is not specified](https://github.com/erigontech/rpc-tests/pull/555) - 2026-04-30
+* [Pull Request] [integration: add -C flag to include tests requiring committed history](https://github.com/erigontech/rpc-tests/pull/556) - 2026-05-03
+* [Commit] [integration: extend eth_simulateV1 tests (#553)](https://github.com/erigontech/rpc-tests/commit/a8f05b0fcd298e94bfb1255b91979c6b932ce679) - 2026-05-03
+* [Commit] [default executes only historical tests NOT all tests (#555)](https://github.com/erigontech/rpc-tests/commit/a612b5e6f9de4a436b696194af2f4c40b7a1ca57) - 2026-05-03
 ## Q1 2026
 
 

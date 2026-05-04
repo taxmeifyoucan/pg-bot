@@ -34,6 +34,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Add Gloas bid inclusion](https://github.com/sigp/lighthouse/pull/9221) - 2026-04-29
 * [Pull Request] [Implement beacon_blocks_by_head](https://github.com/sigp/lighthouse/pull/9237) - 2026-04-30
 * [Review] [Review on: Generalise reconstruct_historic_states for ranged replay](https://github.com/sigp/lighthouse/pull/9222#pullrequestreview-4210563811) - 2026-05-01
+* [Pull Request] [ci: require AI assistance disclosure in PRs](https://github.com/sigp/lighthouse/pull/9260) - 2026-05-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 

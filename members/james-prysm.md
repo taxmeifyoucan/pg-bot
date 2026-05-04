@@ -68,6 +68,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Fixed missed first attestation for newly-activated validators when the validator client runs with `--enable-beacon-rest-api`.](https://github.com/OffchainLabs/prysm/pull/16726#pullrequestreview-4188181052) - 2026-04-28
 * [Review] [Review on: stateless block v4](https://github.com/OffchainLabs/prysm/pull/16699#pullrequestreview-4197239260) - 2026-04-29
 * [Commit] [stateless block v4 (#16699)](https://github.com/OffchainLabs/prysm/commit/d35d65625f593b50126a6180bb2403d8c038de8f) - 2026-05-01
+* [Review] [Review on: Propagate BAL when unblinding execution payloads](https://github.com/OffchainLabs/prysm/pull/16746#pullrequestreview-4216677860) - 2026-05-03
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

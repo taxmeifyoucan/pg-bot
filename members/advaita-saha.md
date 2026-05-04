@@ -49,6 +49,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [clear blk from async closure env](https://github.com/status-im/nimbus-eth1/pull/4199) - 2026-05-01
 * [Review] [Review on: pre-flight fcu for speed bump](https://github.com/status-im/nimbus-eth1/pull/4194#pullrequestreview-4210275317) - 2026-05-01
 * [Pull Request] [add metrics version](https://github.com/status-im/nimbus-eth1/pull/4202) - 2026-05-02
+* [Review] [Review on: clear blk from async closure env](https://github.com/status-im/nimbus-eth1/pull/4199#pullrequestreview-4216010956) - 2026-05-03
+* [Pull Request] [remove `nextAsyncNanoSleep` from syncer as FC already yields](https://github.com/status-im/nimbus-eth1/pull/4203) - 2026-05-03
+* [Commit] [add metrics version (#4202)](https://github.com/status-im/nimbus-eth1/commit/9f80f9911f41a5d1c20d67e3b2464c68c6cca865) - 2026-05-03
 ## Q1 2026
 
 

@@ -406,6 +406,8 @@ Team: Reth
 * [Pull Request] [refactor(interpreter): unify call handlers](https://github.com/bluealloy/revm/pull/3626) - 2026-04-28
 * [Review] [Review on: chore(deps): bump alloy-eip7928 to 0.4](https://github.com/bluealloy/revm/pull/3623#pullrequestreview-4188220981) - 2026-04-28
 * [Commit] [refactor(gas): simplify log2floor (#3629)](https://github.com/bluealloy/revm/commit/bd8986240664637f4f103e3d36dcb7aef4d1d686) - 2026-04-28
+* [Pull Request] [chore: rm unused MemoryExtensionResult](https://github.com/bluealloy/revm/pull/3646) - 2026-05-03
+* [Pull Request] [ci: run develop EEST fixtures by default](https://github.com/bluealloy/revm/pull/3645) - 2026-05-03
 ## Q1 2026
 
 

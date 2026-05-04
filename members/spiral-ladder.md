@@ -54,6 +54,11 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [fix(stf): commit before bulk read (#334)](https://github.com/ChainSafe/lodestar-z/commit/7a0b26267316591e66c2c94f49de2e608143deff) - 2026-04-30
 * [Pull Request] [fix(stf): post state not being committed when verify state root is true](https://github.com/ChainSafe/lodestar-z/pull/338) - 2026-05-02
 * [Review] [Review on: fix(stf): post state not being committed when verify state root is true](https://github.com/ChainSafe/lodestar-z/pull/338#pullrequestreview-4214262533) - 2026-05-02
+* [Pull Request] [refactor(bindings): align `StateTransitionOpts` bindings parsing with ts version](https://github.com/ChainSafe/lodestar-z/pull/340) - 2026-05-03
+* [Review] [Review on: refactor(bindings): align `StateTransitionOpts` bindings parsing with ts version](https://github.com/ChainSafe/lodestar-z/pull/340#pullrequestreview-4216313418) - 2026-05-03
+* [Pull Request] [fix(bindings): rm redundant state transition bindings](https://github.com/ChainSafe/lodestar-z/pull/339) - 2026-05-03
+* [Commit] [refactor(bindings): align `StateTransitionOpts` bindings parsing with ts version (#340)](https://github.com/ChainSafe/lodestar-z/commit/eaf590e5bcf575dc210b9e4f59a418ed3bc66f76) - 2026-05-03
+* [Commit] [fix(bindings): rm redundant state transition bindings (#339)](https://github.com/ChainSafe/lodestar-z/commit/bf8a8f9172b8e62e460e81862416f5f92378e92c) - 2026-05-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

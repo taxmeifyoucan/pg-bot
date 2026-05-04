@@ -159,6 +159,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: style: remove unused `using`s in Benchmarks solution](https://github.com/NethermindEth/nethermind/pull/11463#pullrequestreview-4214557449) - 2026-05-02
 * [Review] [Review on: fix: misleading "100% Old Headers" and "Unable to find beacon header" logs at fresh sync start](https://github.com/NethermindEth/nethermind/pull/11449#pullrequestreview-4214554619) - 2026-05-02
 * [Review] [Review on: style: enforce expression-bodied operators](https://github.com/NethermindEth/nethermind/pull/11460#pullrequestreview-4214556272) - 2026-05-02
+* [Review] [Review on: Add NETH004: enforce RunContinuationsAsynchronously on TaskCompletionSource](https://github.com/NethermindEth/nethermind/pull/11465#pullrequestreview-4217179456) - 2026-05-04
+* [Review] [Review on: Fix EIP-8037 cross-frame state gas restoration accounting](https://github.com/NethermindEth/nethermind/pull/11433#pullrequestreview-4217165629) - 2026-05-04
+* [Review] [Review on: Skip reorg only if ancestor of finalised block](https://github.com/NethermindEth/nethermind/pull/11439#pullrequestreview-4217136708) - 2026-05-04
+* [Review] [Review on: Disable ParallelWorldState](https://github.com/NethermindEth/nethermind/pull/11441#pullrequestreview-4217131233) - 2026-05-04
+* [Review] [Review on: perf(db): account native rocksdb memory via GC.AddMemoryPressure](https://github.com/NethermindEth/nethermind/pull/11453#pullrequestreview-4217125979) - 2026-05-04
+* [Review] [Review on: fix(snap-sync): drive FlatSnapTrieFactory init/finalize from SnapSyncRunner.Run](https://github.com/NethermindEth/nethermind/pull/11472#pullrequestreview-4217096870) - 2026-05-04
+* [Review] [Review on: Fix: `/health` endpoint reports `ClUnavailable` after 5 minutes (1.37.x regression)](https://github.com/NethermindEth/nethermind/pull/11474#pullrequestreview-4217094972) - 2026-05-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026
