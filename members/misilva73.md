@@ -32,6 +32,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332#pullrequestreview-4152712484) - 2026-04-22
 * [Pull Request] [Update EIP-8037: fixed CPSB + frame accounting](https://github.com/ethereum/EIPs/pull/11573) - 2026-04-27
 * [Review] [Review on: Update EIP-8037: fixed CPSB + frame accounting](https://github.com/ethereum/EIPs/pull/11573#pullrequestreview-4188526403) - 2026-04-28
+* [Commit] [Update EIP-8037: fixed CPSB + frame accounting](https://github.com/ethereum/EIPs/commit/80c580b2ad323eb2797058801467b160ae2d5968) - 2026-05-04
 ## Q1 2026
 
 

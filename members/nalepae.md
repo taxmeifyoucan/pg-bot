@@ -44,6 +44,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Balance cache](https://github.com/OffchainLabs/prysm/pull/16738) - 2026-04-30
 * [Review] [Review on: statediff logs cleanup](https://github.com/OffchainLabs/prysm/pull/16715#pullrequestreview-4203755877) - 2026-04-30
 * [Commit] [Reduce chain service processing time at epoch transition (#16731)](https://github.com/OffchainLabs/prysm/commit/1490c56a5080e939daf4cb286da239e6176cb094) - 2026-04-30
+* [Commit] [`getFCUArgs`: Add early return for forkchoice update arguments in non-regular sync. (#16721)](https://github.com/OffchainLabs/prysm/commit/964cc8f2fbaeea9ebe4f902c7d5d4574846e2ebc) - 2026-05-04
 ## Q1 2026
 
 

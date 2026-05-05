@@ -52,6 +52,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Review] [Review on: clear blk from async closure env](https://github.com/status-im/nimbus-eth1/pull/4199#pullrequestreview-4216010956) - 2026-05-03
 * [Pull Request] [remove `nextAsyncNanoSleep` from syncer as FC already yields](https://github.com/status-im/nimbus-eth1/pull/4203) - 2026-05-03
 * [Commit] [add metrics version (#4202)](https://github.com/status-im/nimbus-eth1/commit/9f80f9911f41a5d1c20d67e3b2464c68c6cca865) - 2026-05-03
+* [Commit] [remove `nextAsyncNanoSleep` from syncer as FC already yields (#4203)](https://github.com/status-im/nimbus-eth1/commit/0ad49e82a5566f92a507e51c2d5dbe84da520db8) - 2026-05-04
 ## Q1 2026
 
 

@@ -110,6 +110,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix: rename balHash JSON key to blockAccessListHash in block results](https://github.com/besu-eth/besu/pull/10373#pullrequestreview-4203167645) - 2026-04-30
 * [Review] [Review on: feat(jsonrpc): implement eth_capabilities RPC method](https://github.com/besu-eth/besu/pull/10322#pullrequestreview-4202360636) - 2026-04-30
 * [Review] [Review on: fix: avoid TOCTOU on head block reads in eth_getFilterLogs](https://github.com/besu-eth/besu/pull/10368#pullrequestreview-4202467681) - 2026-04-30
+* [Review] [Review on: proposed adjustments to release process](https://github.com/besu-eth/besu/pull/10411#pullrequestreview-4223777177) - 2026-05-04
+* [Review] [Review on: ethereum, plugins: throttle SnapSync and share RocksDB block cache](https://github.com/besu-eth/besu/pull/10369#pullrequestreview-4224612514) - 2026-05-05
+* [Review] [Review on: Fix snap/2 encoding and response size limits](https://github.com/besu-eth/besu/pull/10391#pullrequestreview-4224582207) - 2026-05-05
+* [Review] [Review on: Treat response size limit as soft cap for all snap messages](https://github.com/besu-eth/besu/pull/10343#pullrequestreview-4218227974) - 2026-05-04
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

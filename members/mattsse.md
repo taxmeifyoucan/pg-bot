@@ -278,6 +278,18 @@ Team: Reth
 * [Review] [Review on: feat(storage): add BAL notification stream](https://github.com/paradigmxyz/reth/pull/23918#pullrequestreview-4216012916) - 2026-05-03
 * [Review] [Review on: fix(rpc): register pubsub listeners before accept](https://github.com/paradigmxyz/reth/pull/23917#pullrequestreview-4216156905) - 2026-05-03
 * [Review] [Review on: feat(storage): add in-memory BAL retention](https://github.com/paradigmxyz/reth/pull/23873#pullrequestreview-4215999217) - 2026-05-03
+* [Review] [Review on: fix(net): validate EIP-1459 hash labels before caching entries](https://github.com/paradigmxyz/reth/pull/22582#pullrequestreview-4222007460) - 2026-05-04
+* [Pull Request] [fix(rpc): relax forkchoice update error match](https://github.com/paradigmxyz/reth/pull/23941) - 2026-05-04
+* [Review] [Review on: perf: avoid clone](https://github.com/paradigmxyz/reth/pull/23940#pullrequestreview-4221308857) - 2026-05-04
+* [Review] [Review on: feat: spawn deferred trie work for directly inserted payloads](https://github.com/paradigmxyz/reth/pull/23935#pullrequestreview-4220812723) - 2026-05-04
+* [Review] [Review on: refactor(generate-big-blocks): don't recompute receipts root](https://github.com/paradigmxyz/reth/pull/23930#pullrequestreview-4219688897) - 2026-05-04
+* [Review] [Review on: feat: add bal validation in post execution](https://github.com/paradigmxyz/reth/pull/23496#pullrequestreview-4218795039) - 2026-05-04
+* [Review] [Review on: perf(engine): acknowledge save_blocks before prune](https://github.com/paradigmxyz/reth/pull/23904#pullrequestreview-4219591203) - 2026-05-04
+* [Review] [Review on: feat(engine): propagate downloaded decoded BALs](https://github.com/paradigmxyz/reth/pull/23911#pullrequestreview-4218559964) - 2026-05-04
+* [Pull Request] [refactor(payload): require built payload conversion](https://github.com/paradigmxyz/reth/pull/23928) - 2026-05-04
+* [Review] [Review on: refactor(payload): require built payload conversion](https://github.com/paradigmxyz/reth/pull/23928#pullrequestreview-4219483583) - 2026-05-04
+* [Commit] [refactor(payload): require built payload conversion (#23928)](https://github.com/paradigmxyz/reth/commit/0b55b2c5db1f3058937f989751c289d3ff0987ed) - 2026-05-04
+* [Commit] [chore: fix nightly clippy warnings (#23923)](https://github.com/paradigmxyz/reth/commit/d2b4ab53d4189b682afe12af090111347df3b1c5) - 2026-05-04
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

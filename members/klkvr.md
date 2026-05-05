@@ -92,6 +92,14 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [refactor: simplify reth-bb](https://github.com/paradigmxyz/reth/pull/23912) - 2026-05-01
 * [Review] [Review on: fix(reth-bb): renumber bal_index space at segment boundaries](https://github.com/paradigmxyz/reth/pull/23868#pullrequestreview-4211071905) - 2026-05-01
 * [Commit] [chore(deps): bump hickory-resolver (#23914)](https://github.com/paradigmxyz/reth/commit/38c627ce8f1a3bb82bed8a6beb3016f62c50016d) - 2026-05-01
+* [Pull Request] [perf: avoid clone](https://github.com/paradigmxyz/reth/pull/23940) - 2026-05-04
+* [Pull Request] [feat: spawn deferred trie work for directly inserted payloads](https://github.com/paradigmxyz/reth/pull/23935) - 2026-05-04
+* [Review] [Review on: feat: spawn deferred trie work for directly inserted payloads](https://github.com/paradigmxyz/reth/pull/23935#pullrequestreview-4220558983) - 2026-05-04
+* [Pull Request] [refactor(generate-big-blocks): don't recompute receipts root](https://github.com/paradigmxyz/reth/pull/23930) - 2026-05-04
+* [Review] [Review on: feat: add bal validation in post execution](https://github.com/paradigmxyz/reth/pull/23496#pullrequestreview-4219379499) - 2026-05-04
+* [Review] [Review on: refactor(payload): require built payload conversion](https://github.com/paradigmxyz/reth/pull/23928#pullrequestreview-4219450342) - 2026-05-04
+* [Commit] [feat: spawn deferred trie work for directly inserted payloads (#23935)](https://github.com/paradigmxyz/reth/commit/d5c5b0b63308eb6ff3e3391a79ef4dbcfc4f8b52) - 2026-05-04
+* [Commit] [refactor(generate-big-blocks): don't recompute receipts root (#23930)](https://github.com/paradigmxyz/reth/commit/b45e99b8e7b6a890d8731a47cfde0f763f6084d3) - 2026-05-04
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

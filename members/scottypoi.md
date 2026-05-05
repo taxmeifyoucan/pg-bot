@@ -18,6 +18,7 @@ Team: EthereumJS
 * [Commit] [rlp: fix hexToBytes bug (#4276)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/7a45848656438872e8c6c274631fe43075b1b08d) - 2026-04-23
 * [Pull Request] [Implement EIP-7981: Increase Access List Cost](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4282) - 2026-04-27
 * [Review] [Review on: vm: EIP-7976 (calldata floor cost)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4280#pullrequestreview-4184330417) - 2026-04-27
+* [Commit] [Implement EIP-7981: Increase Access List Cost (#4282)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/7842586e441d831f71daa88c31e262bc102843fb) - 2026-05-04
 ## Q1 2026
 
 

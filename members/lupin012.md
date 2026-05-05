@@ -103,6 +103,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: add canonical hash cache](https://github.com/erigontech/erigon/pull/19173) - 2026-05-03
 * [Commit] [CI: cache hit supports both tag and branch in RPC_VERSION (#20954)](https://github.com/erigontech/erigon/commit/8373ebec29256965f9597109a54749e83ccdd99d) - 2026-05-03
 * [Commit] [rpc: add canonical hash cache (#19173)](https://github.com/erigontech/erigon/commit/4d282a403a8faa307a60c3352a454ae461da8f6a) - 2026-05-03
+* [Pull Request] [ci: add --commitment-history flag to rpc test scripts](https://github.com/erigontech/erigon/pull/20981) - 2026-05-04
+* [Review] [Review on: rpc/rpchelper: cap commitment replay tmp DB map size on Windows](https://github.com/erigontech/erigon/pull/20980#pullrequestreview-4223580175) - 2026-05-04
+* [Review] [Review on: rpc/jsonrpc: add eth_simulateV1 maxUsedGas tests](https://github.com/erigontech/erigon/pull/20946#pullrequestreview-4223544359) - 2026-05-04
+* [Review] [Review on: rpc/jsonrpc: use overridden fee values consistently in eth_estimateGas and eth_call](https://github.com/erigontech/erigon/pull/20949#pullrequestreview-4223529194) - 2026-05-04
+* [Review] [Review on: graphql: fix parameterized account fields and block logs](https://github.com/erigontech/erigon/pull/20539#pullrequestreview-4223364770) - 2026-05-04
+* [Commit] [QA: reduce perf load for some qps to avoid 503 (#20935)](https://github.com/erigontech/erigon/commit/6e84233d063eb2a50b643ac696a3fbfaf6a127f5) - 2026-05-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

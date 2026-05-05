@@ -23,6 +23,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [improve getBlobs flow and add metrics](https://github.com/status-im/nimbus-eth2/pull/8311) - 2026-04-21
 * [Pull Request] [add batch putting of data column sidecars](https://github.com/status-im/nimbus-eth2/pull/8336) - 2026-04-25
 * [Pull Request] [add slot number to getBlobs logs](https://github.com/status-im/nimbus-eth2/pull/8356) - 2026-04-28
+* [Pull Request] [catch the first column gossip addition event for getBlobs](https://github.com/status-im/nimbus-eth2/pull/8393) - 2026-05-04
 ## Q1 2026
 
 

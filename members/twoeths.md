@@ -115,6 +115,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [UnknownBlockSync: cannot find peer with needed columns=[]](https://github.com/ChainSafe/lodestar/issues/9315) - 2026-05-01
 * [Issue] [Find better way to prune PayloadEnvelopeInput](https://github.com/ChainSafe/lodestar/issues/9318) - 2026-05-01
 * [Commit] [fix: prune PayloadEnvelopeInput on the same branch (#9317)](https://github.com/ChainSafe/lodestar/commit/35940ffd61ad7e29f5de376e13587d044b27b246) - 2026-05-01
+* [Review] [Review on: fix: only trigger gloas blobs tracker in gossip](https://github.com/ChainSafe/lodestar/pull/9322#pullrequestreview-4217370685) - 2026-05-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

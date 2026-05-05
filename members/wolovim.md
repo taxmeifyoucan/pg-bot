@@ -22,6 +22,7 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: fix shifting calendar event](https://github.com/ethereum/pm/commit/5b64b300b5831a5398634b050fa690a1550307bd) - 2026-04-14
 * [Commit] [acdbot: fix dep path](https://github.com/ethereum/pm/commit/f529e079d25543118007f0b2abfed5d52cb4ab1a) - 2026-04-15
 * [Commit] [acdbot: change stateless occurrence rate](https://github.com/ethereum/pm/commit/772add71af9cd28658a05f5bbf08ba5340ac25e9) - 2026-04-29
+* [Commit] [acdbot: add to trusted list for fcr](https://github.com/ethereum/pm/commit/a321e2f15b4cbfefadce060677d5785c9c0f6226) - 2026-05-04
 ## Q1 2026
 
 

@@ -71,6 +71,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add Gloas EIP-8061 config to API](https://github.com/status-im/nimbus-eth2/pull/8382) - 2026-05-01
 * [Pull Request] [EIP-7732 fixes](https://github.com/status-im/nimbus-eth2/pull/8383) - 2026-05-01
 * [Pull Request] [Rename ElectraCommitteeValidatorsBits to AggregationBits](https://github.com/status-im/nimbus-eth2/pull/8389) - 2026-05-03
+* [Pull Request] [Remove SomeAttestation](https://github.com/status-im/nimbus-eth2/pull/8396) - 2026-05-04
+* [Pull Request] [Move Altair EpochParticipationFlags from Base to Altair](https://github.com/status-im/nimbus-eth2/pull/8395) - 2026-05-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

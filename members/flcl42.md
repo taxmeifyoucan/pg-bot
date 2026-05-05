@@ -94,6 +94,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix snap lengths (#11414)](https://github.com/NethermindEth/nethermind/commit/5ff585edd00461a7503cc8971d240e41d114de78) - 2026-04-30
 * [Commit] [Upgrade discv5 (#11419)](https://github.com/NethermindEth/nethermind/commit/2075fbb02c1c35a041f3a67a70cfb1a369f3d36a) - 2026-04-30
 * [Pull Request] [Improve eth/70 checks](https://github.com/NethermindEth/nethermind/pull/11456) - 2026-05-01
+* [Review] [Review on: Fixes for RLP integers and bool decoding](https://github.com/NethermindEth/nethermind/pull/11479#pullrequestreview-4218888013) - 2026-05-04
+* [Commit] [Handle quick channel closing (#11428)](https://github.com/NethermindEth/nethermind/commit/93b3e3b20675ad1203889c1ec02e610a001ebde2) - 2026-05-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

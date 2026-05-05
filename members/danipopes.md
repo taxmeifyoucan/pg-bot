@@ -408,6 +408,7 @@ Team: Reth
 * [Commit] [refactor(gas): simplify log2floor (#3629)](https://github.com/bluealloy/revm/commit/bd8986240664637f4f103e3d36dcb7aef4d1d686) - 2026-04-28
 * [Pull Request] [chore: rm unused MemoryExtensionResult](https://github.com/bluealloy/revm/pull/3646) - 2026-05-03
 * [Pull Request] [ci: run develop EEST fixtures by default](https://github.com/bluealloy/revm/pull/3645) - 2026-05-03
+* [Pull Request] [refactor: remove unused spec ids](https://github.com/bluealloy/revm/pull/3649) - 2026-05-04
 ## Q1 2026
 
 

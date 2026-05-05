@@ -45,6 +45,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tools): use Hardfork for fork module loading](https://github.com/ethereum/execution-specs/pull/2778#pullrequestreview-4206354844) - 2026-04-30
 * [Issue] [Fix `__init__.py` file name in rendered diffs](https://github.com/ethereum/execution-specs/issues/2788) - 2026-04-30
 * [Commit] [feat(doc): replace index with __init__.py (#2779)](https://github.com/ethereum/execution-specs/commit/8a052aa9d2034eb936c7da87062680a8af1ed061) - 2026-04-30
+* [Review] [Review on: feat(docs,ci): enable docs build and publishing for the `mainnet` branch](https://github.com/ethereum/execution-specs/pull/2775#pullrequestreview-4222598402) - 2026-05-04
+* [Review] [Review on: feat(tools): use Hardfork for fork module loading](https://github.com/ethereum/execution-specs/pull/2778#pullrequestreview-4221695665) - 2026-05-04
+* [Issue] [Add navigation between forks in the rendered documentation](https://github.com/ethereum/execution-specs/issues/2798) - 2026-05-04
 ## Q1 2026
 
 

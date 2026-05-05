@@ -137,6 +137,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Bal devnet 3 benchmarks](https://github.com/NethermindEth/nethermind/pull/11450) - 2026-05-01
 * [Pull Request] [perf(bal): zero-alloc dict-lookup ValidateBlockAccessList](https://github.com/NethermindEth/nethermind/pull/11448) - 2026-05-01
 * [Review] [Review on: perf(bal): zero-alloc dict-lookup ValidateBlockAccessList](https://github.com/NethermindEth/nethermind/pull/11448#pullrequestreview-4210963797) - 2026-05-01
+* [Review] [Review on: Fixes for RLP integers and bool decoding](https://github.com/NethermindEth/nethermind/pull/11479#pullrequestreview-4219529719) - 2026-05-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08
@@ -152,6 +153,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): update Nethermind exception mappings](https://github.com/ethereum/execution-specs/pull/2794) - 2026-05-02
 * [Issue] [Missing EIP-8037 fixture: per-tx pre-validation admits txs whose worst-case-OR overflows but actual two-dim routing fits](https://github.com/ethereum/execution-specs/issues/2795) - 2026-05-03
+* [Commit] [Update Nethermind exception mappings (#2794)](https://github.com/ethereum/execution-specs/commit/8fa9a0572578af805b5acd53f8319f53d9eb3b9a) - 2026-05-04
 ## Q1 2026
 
 

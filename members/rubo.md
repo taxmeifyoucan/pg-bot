@@ -73,6 +73,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: Revise dependency caching (#11444)](https://github.com/NethermindEth/nethermind/commit/c18a952a918fc0ba037d831811070e5dcfc0c1a3) - 2026-05-01
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11467#pullrequestreview-4216121512) - 2026-05-03
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11468#pullrequestreview-4216121824) - 2026-05-03
+* [Pull Request] [feat(zkevm): Migrate to zkVM standards](https://github.com/NethermindEth/nethermind/pull/11481) - 2026-05-04
+* [Review] [Review on: feat(zkevm): Migrate to zkVM standards](https://github.com/NethermindEth/nethermind/pull/11481#pullrequestreview-4221695935) - 2026-05-04
+* [Review] [Review on: TransactionForRpc improvements](https://github.com/NethermindEth/nethermind/pull/11484#pullrequestreview-4222355393) - 2026-05-04
 ## Q1 2026
 
 

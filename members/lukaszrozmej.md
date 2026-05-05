@@ -304,6 +304,18 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Fix: `/health` endpoint reports `ClUnavailable` after 5 minutes (1.37.x regression)](https://github.com/NethermindEth/nethermind/pull/11474#pullrequestreview-4216423515) - 2026-05-03
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11467#pullrequestreview-4215910187) - 2026-05-03
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11468#pullrequestreview-4215910262) - 2026-05-03
+* [Review] [Review on: perf(db): account native rocksdb memory via GC.AddMemoryPressure](https://github.com/NethermindEth/nethermind/pull/11453#pullrequestreview-4219262416) - 2026-05-04
+* [Review] [Review on: Add NETH004: enforce RunContinuationsAsynchronously on TaskCompletionSource](https://github.com/NethermindEth/nethermind/pull/11465#pullrequestreview-4221089361) - 2026-05-04
+* [Review] [Review on: Add NETH004 analyzer banning ConcurrentDictionary.Keys/.Values](https://github.com/NethermindEth/nethermind/pull/11462#pullrequestreview-4219243538) - 2026-05-04
+* [Review] [Review on: feat(zkevm): Migrate to zkVM standards](https://github.com/NethermindEth/nethermind/pull/11481#pullrequestreview-4221221900) - 2026-05-04
+* [Review] [Review on: fix(ReceiptForRpc): omit non-spec `error` field from receipt JSON-RPC responses](https://github.com/NethermindEth/nethermind/pull/11454#pullrequestreview-4221252790) - 2026-05-04
+* [Pull Request] [test: bump TestBlockchain.DefaultTimeout 10s -> 30s](https://github.com/NethermindEth/nethermind/pull/11486) - 2026-05-04
+* [Review] [Review on: test: regression tests for #9002 - barrier decrease after partial sync leaves feed stuck](https://github.com/NethermindEth/nethermind/pull/11483#pullrequestreview-4221142523) - 2026-05-04
+* [Review] [Review on: fix(eth_createAccessList): complete access list across pre-Berlin and reverted frames](https://github.com/NethermindEth/nethermind/pull/11431#pullrequestreview-4221149056) - 2026-05-04
+* [Review] [Review on: Skip reorg only if ancestor of finalised block](https://github.com/NethermindEth/nethermind/pull/11439#pullrequestreview-4221097350) - 2026-05-04
+* [Review] [Review on: Fix: `/health` endpoint reports `ClUnavailable` after 5 minutes (1.37.x regression)](https://github.com/NethermindEth/nethermind/pull/11474#pullrequestreview-4220178746) - 2026-05-04
+* [Review] [Review on: refactor: serialise FinalizeSync via captured per-round pivot](https://github.com/NethermindEth/nethermind/pull/11477#pullrequestreview-4219160443) - 2026-05-04
+* [Review] [Review on: Fixes for RLP integers and bool decoding](https://github.com/NethermindEth/nethermind/pull/11479#pullrequestreview-4219403083) - 2026-05-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

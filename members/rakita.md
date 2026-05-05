@@ -77,6 +77,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat(bal-devnet-4): Changes needed for devnet](https://github.com/bluealloy/revm/pull/3624) - 2026-04-28
 * [Pull Request] [fix(eip8037): keep eip7702 reservoir refund out of gross tx state gas](https://github.com/bluealloy/revm/pull/3633) - 2026-04-29
 * [Pull Request] [refactor(eip8037): defer state-gas to frame return via NewStateTracker](https://github.com/bluealloy/revm/pull/3634) - 2026-04-29
+* [Pull Request] [feat(eip8037): bal-devnet-6 EIP-8037/7702 fixes & devnet fixtures](https://github.com/bluealloy/revm/pull/3647) - 2026-05-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

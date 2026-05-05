@@ -126,6 +126,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: refactor(challenger): align bits==0 short-circuit across grind impls](https://github.com/Plonky3/Plonky3/pull/1602#pullrequestreview-4210787045) - 2026-05-01
 * [Review] [Review on: feat: extract ZK encoding traits to p3-zk-codes](https://github.com/Plonky3/Plonky3/pull/1601#pullrequestreview-4210793471) - 2026-05-01
 * [Pull Request] [feat(challenger): typed Fiat-Shamir transcript layer (DSFS / IETF draft)](https://github.com/Plonky3/Plonky3/pull/1603) - 2026-05-02
+* [Pull Request] [bench(whir): head-to-head FRI vs WHIR PCS comparison across Poseidon1 / Poseidon2 / Blake3](https://github.com/Plonky3/Plonky3/pull/1607) - 2026-05-04
+* [Commit] [feat(interpolation): add arbitrary-point Lagrange interpolation trait (#1552)](https://github.com/Plonky3/Plonky3/commit/6aef7a74c5691b5b9ebcce8ee02dc50c3e010082) - 2026-05-04
+* [Commit] [test(keccak-air): add proptests for AIR constraints and trace generation (#1562)](https://github.com/Plonky3/Plonky3/commit/d72b79b21cf54c69e73f4d22b9f729a10186c023) - 2026-05-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 ## Q1 2026

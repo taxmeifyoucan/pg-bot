@@ -445,6 +445,19 @@ Team: Erigon
 * [Pull Request] [db/state: remove CheckSnapshotsCompatibility (pre-3.1 compat check)](https://github.com/erigontech/erigon/pull/20746) - 2026-05-03
 * [Pull Request] [db/state: commitment domain existence filter - flags to get it in-mem (now it's on mmap)](https://github.com/erigontech/erigon/pull/20957) - 2026-05-03
 * [Commit] [db/state: remove CheckSnapshotsCompatibility (pre-3.1 compat check) (#20746)](https://github.com/erigontech/erigon/commit/bbbc7f9997c87dd56e46d00cada79f2ad0f6e400) - 2026-05-03
+* [Review] [Review on: db/state: clip merge windows that straddle existing files](https://github.com/erigontech/erigon/pull/20909#pullrequestreview-4219267752) - 2026-05-04
+* [Review] [Review on: execution: move enginextestrunner to execution/engineapi/engineapitester](https://github.com/erigontech/erigon/pull/20975#pullrequestreview-4219674211) - 2026-05-04
+* [Pull Request] [db/state: clip merge windows that straddle existing files](https://github.com/erigontech/erigon/pull/20974) - 2026-05-04
+* [Pull Request] [db/state: clip merge windows that straddle existing files](https://github.com/erigontech/erigon/pull/20973) - 2026-05-04
+* [Review] [Review on: improve log messages for state collation cap](https://github.com/erigontech/erigon/pull/20971#pullrequestreview-4218476725) - 2026-05-04
+* [Pull Request] [db/state: unify commitment-branch referencing predicate](https://github.com/erigontech/erigon/pull/20963) - 2026-05-04
+* [Review] [Review on: change block retire's "keep in db" value to MaxReorgDepth](https://github.com/erigontech/erigon/pull/20964#pullrequestreview-4218484123) - 2026-05-04
+* [Pull Request] [ci: skip sonar and claude-review for dependabot PRs](https://github.com/erigontech/erigon/pull/20972) - 2026-05-04
+* [Review] [Review on: build(deps): bump github/gh-aw from 0.68.3 to 0.71.1](https://github.com/erigontech/erigon/pull/20970#pullrequestreview-4218177849) - 2026-05-04
+* [Review] [Review on: build(deps): bump actions/upload-artifact from 6 to 7](https://github.com/erigontech/erigon/pull/20968#pullrequestreview-4218177367) - 2026-05-04
+* [Review] [Review on: build(deps): bump SonarSource/sonarqube-scan-action from 7 to 8](https://github.com/erigontech/erigon/pull/20969#pullrequestreview-4218177113) - 2026-05-04
+* [Issue] [small stepSize: "gap" warning](https://github.com/erigontech/erigon/issues/20967) - 2026-05-04
+* [Commit] [TotalMemory: calc once (#20960)](https://github.com/erigontech/erigon/commit/866f5f3d4d110fd119d7a1b64e22aeee966c3492) - 2026-05-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

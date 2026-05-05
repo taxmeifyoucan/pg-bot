@@ -42,6 +42,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Remove ref types from account and storage leaf caches](https://github.com/status-im/nimbus-eth1/pull/4188) - 2026-04-29
 * [Review] [Review on: pre-flight fcu for speed bump](https://github.com/status-im/nimbus-eth1/pull/4194#pullrequestreview-4210250553) - 2026-05-01
 * [Commit] [Remove ref types from account and storage leaf caches (#4192)](https://github.com/status-im/nimbus-eth1/commit/8cc94ca821facbd9e73c316285b4a17e63284e31) - 2026-05-01
+* [Pull Request] [Use zero as the isEmpty indicator for CachedStoLeaf to save memory](https://github.com/status-im/nimbus-eth1/pull/4206) - 2026-05-04
+* [Commit] [Use zero as the isEmpty indicator for CachedStoLeaf to save memory (#4206)](https://github.com/status-im/nimbus-eth1/commit/d02e0ae763a0b6936a37726b85af1de8ff6959bd) - 2026-05-04
 ## Q1 2026
 
 

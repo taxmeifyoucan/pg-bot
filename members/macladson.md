@@ -32,6 +32,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Remove `EthSpec`](https://github.com/sigp/lighthouse/pull/9229#pullrequestreview-4206478765) - 2026-04-30
 * [Pull Request] [Unblock CI by temporarily ignoring `hickory-proto` audit failures](https://github.com/sigp/lighthouse/pull/9257) - 2026-05-03
 * [Issue] [`hickory-proto` audit failure tracking issue](https://github.com/sigp/lighthouse/issues/9258) - 2026-05-03
+* [Review] [Review on: Remove `TestRandom`](https://github.com/sigp/lighthouse/pull/9006#pullrequestreview-4218610658) - 2026-05-04
 ## Q1 2026
 
 

@@ -59,6 +59,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add PTC data availability and quorum tracking](https://github.com/ChainSafe/lodestar/pull/9284#pullrequestreview-4203367379) - 2026-04-30
 * [Issue] [increase slot observability for 6 second slots](https://github.com/ChainSafe/lodestar/issues/9321) - 2026-05-01
 * [Pull Request] [fix: only trigger gloas blobs tracker in gossip](https://github.com/ChainSafe/lodestar/pull/9322) - 2026-05-02
+* [Commit] [fix: only trigger gloas blobs tracker in gossip (#9322)](https://github.com/ChainSafe/lodestar/commit/374360e50a5de058b777a94d041089f9999d0726) - 2026-05-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

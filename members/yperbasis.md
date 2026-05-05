@@ -296,6 +296,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [SharovBot] fix: RunTestMain should skip immediately when ERIGON_SKIP_EXECUTION_TESTS is set](https://github.com/erigontech/erigon/pull/20928#pullrequestreview-4210718736) - 2026-05-01
 * [Review] [Review on: rpc: bound WebSocket write with wsPingInterval timeout](https://github.com/erigontech/erigon/pull/20923#pullrequestreview-4210491750) - 2026-05-01
 * [Commit] [rpc: cancel in-flight op on fatal read error to fix Call hang (#20932)](https://github.com/erigontech/erigon/commit/ce3a410ddc68646bf7ece8e26b2117503783ae38) - 2026-05-01
+* [Review] [Review on: QA: reduce perf load for some qps to avoid 503](https://github.com/erigontech/erigon/pull/20935#pullrequestreview-4218494933) - 2026-05-04
+* [Review] [Review on: parallel commitment calculations implemented](https://github.com/erigontech/erigon/pull/20805#pullrequestreview-4218590625) - 2026-05-04
+* [Review] [Review on: cmd, dbg: add --exec.no-background-maintenance flag for focused perf testing](https://github.com/erigontech/erigon/pull/20977#pullrequestreview-4221052601) - 2026-05-04
+* [Review] [Review on: ci: skip sonar and claude-review for dependabot PRs](https://github.com/erigontech/erigon/pull/20972#pullrequestreview-4218558982) - 2026-05-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

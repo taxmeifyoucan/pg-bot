@@ -59,6 +59,14 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix(bindings): rm redundant state transition bindings](https://github.com/ChainSafe/lodestar-z/pull/339) - 2026-05-03
 * [Commit] [refactor(bindings): align `StateTransitionOpts` bindings parsing with ts version (#340)](https://github.com/ChainSafe/lodestar-z/commit/eaf590e5bcf575dc210b9e4f59a418ed3bc66f76) - 2026-05-03
 * [Commit] [fix(bindings): rm redundant state transition bindings (#339)](https://github.com/ChainSafe/lodestar-z/commit/bf8a8f9172b8e62e460e81862416f5f92378e92c) - 2026-05-03
+* [Pull Request] [refactor: make XXXDecisionRoot fns return `js.String`](https://github.com/ChainSafe/lodestar-z/pull/342) - 2026-05-04
+* [Review] [Review on: refactor: make XXXDecisionRoot fns return `js.String`](https://github.com/ChainSafe/lodestar-z/pull/342#pullrequestreview-4217395706) - 2026-05-04
+* [Pull Request] [chore: add repository.url to package.json](https://github.com/ChainSafe/lodestar-z/pull/345) - 2026-05-04
+* [Pull Request] [chore(release): bump version to v0.1.1](https://github.com/ChainSafe/lodestar-z/pull/344) - 2026-05-04
+* [Pull Request] [feat(ci): fix access for publishing bindings](https://github.com/ChainSafe/lodestar-z/pull/343) - 2026-05-04
+* [Commit] [chore: add repository.url to package.json (#345)](https://github.com/ChainSafe/lodestar-z/commit/72e25a2842d93bb2d31039e84fbb7c9ed34103f4) - 2026-05-04
+* [Commit] [chore(release): bump version to v0.1.1 (#344)](https://github.com/ChainSafe/lodestar-z/commit/2a70b7998fd3febaf4389bdb42b29895b32bd7cf) - 2026-05-04
+* [Commit] [feat(ci): fix access for publishing bindings (#343)](https://github.com/ChainSafe/lodestar-z/commit/88b65b9d1201cbc7714693e0332b411e42101e7e) - 2026-05-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

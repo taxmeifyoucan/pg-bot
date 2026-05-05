@@ -18,6 +18,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [refactor(consensus): extract validate_block_post_execution_without_gas_used helper](https://github.com/paradigmxyz/reth/pull/23562) - 2026-04-15
 * [Review] [Review on: chore: don't enforce non-empty blocks in e2e payload building](https://github.com/paradigmxyz/reth/pull/23837#pullrequestreview-4197806747) - 2026-04-29
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [docs(ee-tests): reference `eip8037.md` instead of stale `tip1016.md` in README](https://github.com/bluealloy/revm/pull/3648) - 2026-05-04
 ## Q1 2026
 
 

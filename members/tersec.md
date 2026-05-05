@@ -95,6 +95,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [mv blob_quarantine column_quarantine](https://github.com/status-im/nimbus-eth2/pull/8390) - 2026-05-03
 * [Review] [Review on: mv blob_quarantine column_quarantine](https://github.com/status-im/nimbus-eth2/pull/8390#pullrequestreview-4216572846) - 2026-05-03
 * [Review] [Review on: Implement  /eth/v1/beacon/execution_payload_bid REST endpoint (POST)](https://github.com/status-im/nimbus-eth2/pull/8385#pullrequestreview-4216605940) - 2026-05-03
+* [Review] [Review on: add batch putting of data column sidecars](https://github.com/status-im/nimbus-eth2/pull/8336#pullrequestreview-4223501513) - 2026-05-04
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

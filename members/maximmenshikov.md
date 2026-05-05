@@ -25,6 +25,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Update badge again](https://github.com/NethermindEth/bflat-riscv64/commit/2c6c43ca29d452c2bcbaee1416cb9313d857b865) - 2026-04-27
 * [Commit] [BuildCommand: trim bss for Zisk](https://github.com/NethermindEth/bflat-riscv64/commit/7482577fee3277234ed923818369a03490ddc4b9) - 2026-04-29
 * [Commit] [patch_elf: support --trim-bss](https://github.com/NethermindEth/bflat-riscv64/commit/014e767cc5838591262f16431bb85b761f460c15) - 2026-04-29
+* [Commit] [Wrap inline_bump_alloc_aligned unmangled](https://github.com/NethermindEth/bflat-riscv64/commit/036bebe11d27c3ccf50c82c2c099599ac21c5b92) - 2026-05-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 
@@ -33,6 +34,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [ZiskGuest: enable stacktrace data to facilitate possible GVM resolution](https://github.com/NethermindEth/nethermind/pull/11234) - 2026-04-18
 * [Commit] [ZiskGuest: update bflat to v17.1.0 image (GVM improvements)](https://github.com/NethermindEth/nethermind/commit/0a7ca7a0f9d7ea17b4dbd8095a46bdbb762f1b41) - 2026-04-19
 * [Commit] [ZiskGuest: enable stacktrace data to facilitate possible GVM resolution](https://github.com/NethermindEth/nethermind/commit/5160c3e8c544594fcde8f78cce38bc9a8ab6c8ef) - 2026-04-18
+* [Review] [Review on: feat(zkevm): Migrate to zkVM standards](https://github.com/NethermindEth/nethermind/pull/11481#pullrequestreview-4224060707) - 2026-05-04
 ## Q1 2026
 
 

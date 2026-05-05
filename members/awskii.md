@@ -91,6 +91,7 @@ Team: Erigon
 * [Pull Request] [[r3.4] db/state: 4x default step, transparent execution log, no key referencing](https://github.com/erigontech/erigon/pull/20930) - 2026-04-30
 * [Pull Request] [eest: add EIP-8025 execution witness test suite (93 zkevm fixtures)](https://github.com/erigontech/erigon/pull/20938) - 2026-05-01
 * [Review] [Review on: db/state, db/integrity: unify commitment-branch referencing predicate](https://github.com/erigontech/erigon/pull/20944#pullrequestreview-4216178280) - 2026-05-03
+* [Review] [Review on: TotalMemory: calc once](https://github.com/erigontech/erigon/pull/20960#pullrequestreview-4222840535) - 2026-05-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

@@ -74,6 +74,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[DO-NOT-MERGE] bal-devnet-6](https://github.com/erigontech/erigon/pull/20926) - 2026-04-30
 * [Pull Request] [[DO-NOT-MERGE] [bal-devnet-6] execution: implement 8037 changes](https://github.com/erigontech/erigon/pull/20927) - 2026-04-30
 * [Review] [Review on: warmuper: cancelable worker](https://github.com/erigontech/erigon/pull/20941#pullrequestreview-4210714853) - 2026-05-01
+* [Pull Request] [execution: move enginextestrunner to execution/engineapi/engineapitester](https://github.com/erigontech/erigon/pull/20975) - 2026-05-04
+* [Commit] [execution: move enginextestrunner to execution/engineapi/engineapitester (#20975)](https://github.com/erigontech/erigon/commit/a133b6de0595db578b4693f301c6fe75e56ddcbb) - 2026-05-04
 ## Q1 2026
 
 

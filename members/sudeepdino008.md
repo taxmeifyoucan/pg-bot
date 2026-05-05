@@ -140,6 +140,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] db/state: 4x default step, transparent execution log, no key referencing](https://github.com/erigontech/erigon/pull/20930#pullrequestreview-4210379587) - 2026-05-01
 * [Commit] [cmd/integration: allow resume of commitment rebuild (no history case) (#20939)](https://github.com/erigontech/erigon/commit/9a82c5871adc576d1ce3f797394d25667d9cdbef) - 2026-05-01
 * [Commit] [stage_exec: enable it for ci and add more configurations (#20682)](https://github.com/erigontech/erigon/commit/6d23e6ae71c7f15215e06f07ede216a8f37463ee) - 2026-05-01
+* [Review] [Review on: db/state: clip merge windows that straddle existing files](https://github.com/erigontech/erigon/pull/20974#pullrequestreview-4219537396) - 2026-05-04
+* [Pull Request] [improve log messages for state collation cap](https://github.com/erigontech/erigon/pull/20971) - 2026-05-04
+* [Review] [Review on: db/state: unify commitment-branch referencing predicate](https://github.com/erigontech/erigon/pull/20963#pullrequestreview-4217560348) - 2026-05-04
+* [Pull Request] [change block retire's "keep in db" value to MaxReorgDepth](https://github.com/erigontech/erigon/pull/20964) - 2026-05-04
+* [Pull Request] [[performance] enforce block-snapshots cap inside aggregator collation](https://github.com/erigontech/erigon/pull/20966) - 2026-05-04
+* [Commit] [improve log messages for state collation cap (#20971)](https://github.com/erigontech/erigon/commit/43459eecef8fa1525baa4d8982f944af503266a5) - 2026-05-04
+* [Commit] [change block retire's "keep in db" value to MaxReorgDepth (#20964)](https://github.com/erigontech/erigon/commit/8935f7d63d283f2bf0866e0c8700b0c5089edd84) - 2026-05-04
 ## Q1 2026
 
 

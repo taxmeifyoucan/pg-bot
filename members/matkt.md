@@ -56,6 +56,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [feat: Add cross-block code caching for improved performance](https://github.com/besu-eth/besu/pull/10390) - 2026-05-01
 * [Pull Request] [remove timeout for bal parallelization ](https://github.com/besu-eth/besu/pull/10389) - 2026-05-01
 * [Commit] [add flag to disable bal stateroot (#10363)](https://github.com/besu-eth/besu/commit/7ec1d9adead4f605b9550a13d7a8c38ab8f570c1) - 2026-05-01
+* [Pull Request] [change bal default config](https://github.com/besu-eth/besu/pull/10410) - 2026-05-04
+* [Pull Request] [Bal devnet 3 set correctly the prefetcher flag in BalConfiguration](https://github.com/besu-eth/besu/pull/10409) - 2026-05-04
+* [Pull Request] [fix prefetcher](https://github.com/besu-eth/besu/pull/10405) - 2026-05-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

@@ -175,6 +175,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Bump version to v1.7.0-alpha.7 (#5198)](https://github.com/ethereum/consensus-specs/commit/150973213867d4e382adea310746b4917fd74340) - 2026-04-29
 * [Review] [Review on: Gloas: Modify notify_forkchoice_updated](https://github.com/ethereum/consensus-specs/pull/5197#pullrequestreview-4203930937) - 2026-04-30
 * [Pull Request] [Fix gossip validation tests](https://github.com/ethereum/consensus-specs/pull/5201) - 2026-05-01
+* [Pull Request] [Remove pre-capella check in BTEC gossip handler](https://github.com/ethereum/consensus-specs/pull/5205) - 2026-05-04
+* [Review] [Review on: Update release-drafter/release-drafter action to v7.2.1](https://github.com/ethereum/consensus-specs/pull/5204#pullrequestreview-4219072325) - 2026-05-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

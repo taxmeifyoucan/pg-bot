@@ -166,6 +166,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(db): account native rocksdb memory via GC.AddMemoryPressure](https://github.com/NethermindEth/nethermind/pull/11453#pullrequestreview-4217125979) - 2026-05-04
 * [Review] [Review on: fix(snap-sync): drive FlatSnapTrieFactory init/finalize from SnapSyncRunner.Run](https://github.com/NethermindEth/nethermind/pull/11472#pullrequestreview-4217096870) - 2026-05-04
 * [Review] [Review on: Fix: `/health` endpoint reports `ClUnavailable` after 5 minutes (1.37.x regression)](https://github.com/NethermindEth/nethermind/pull/11474#pullrequestreview-4217094972) - 2026-05-04
+* [Review] [Review on: perf(db): account native rocksdb memory via GC.AddMemoryPressure](https://github.com/NethermindEth/nethermind/pull/11453#pullrequestreview-4224543036) - 2026-05-05
+* [Review] [Review on: Add NETH004 analyzer banning ConcurrentDictionary.Keys/.Values](https://github.com/NethermindEth/nethermind/pull/11462#pullrequestreview-4224226428) - 2026-05-04
+* [Pull Request] [refactor: serialise FinalizeSync via captured per-round pivot](https://github.com/NethermindEth/nethermind/pull/11477) - 2026-05-04
+* [Commit] [refactor: serialise FinalizeSync via captured per-round pivot (#11477)](https://github.com/NethermindEth/nethermind/commit/12fabc9d2d3831f4cfdfa9eb57e4e8896c5d664a) - 2026-05-04
+* [Commit] [refactor: simplify snap+state sync dispatcher (#11102)](https://github.com/NethermindEth/nethermind/commit/60e7e76f44a4f8363d7bb73053dd2c14be80af60) - 2026-05-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

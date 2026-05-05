@@ -93,6 +93,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: fix: cap EIP-8037 same-tx-selfdestruct refund at execution state gas](https://github.com/besu-eth/besu/pull/10385#pullrequestreview-4210419616) - 2026-05-01
 * [Commit] [Add EIP-7981 to Amsterdam (#10388)](https://github.com/besu-eth/besu/commit/80b381ee9f94e2e25465cb4e99f03ea70a7e94ef) - 2026-05-01
 * [Pull Request] [Add latest EIP-8037 spec to Amsterdam](https://github.com/besu-eth/besu/pull/10396) - 2026-05-02
+* [Review] [Review on: change bal default config](https://github.com/besu-eth/besu/pull/10410#pullrequestreview-4220545064) - 2026-05-04
+* [Review] [Review on: fix prefetcher](https://github.com/besu-eth/besu/pull/10405#pullrequestreview-4217818206) - 2026-05-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 
