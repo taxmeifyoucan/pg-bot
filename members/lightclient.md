@@ -32,6 +32,7 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: Relax mempool rules to not require a specific factory](https://github.com/ethereum/EIPs/pull/11567#pullrequestreview-4204911789) - 2026-04-30
 * [Review] [Review on: Update EIP-8013: Move to Draft](https://github.com/ethereum/EIPs/pull/11560#pullrequestreview-4204803852) - 2026-04-30
 * [Review] [Review on: Add EIP: Remove SELFDESTRUCT Burn](https://github.com/ethereum/EIPs/pull/11590#pullrequestreview-4211043829) - 2026-05-01
+* [Review] [Review on: Update EIP-8141: Disable EIP-3607 check for frame transactions](https://github.com/ethereum/EIPs/pull/11272#pullrequestreview-4231135619) - 2026-05-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4105687607) - 2026-04-14
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113766865) - 2026-04-15

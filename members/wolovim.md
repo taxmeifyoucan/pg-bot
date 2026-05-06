@@ -23,6 +23,7 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: fix dep path](https://github.com/ethereum/pm/commit/f529e079d25543118007f0b2abfed5d52cb4ab1a) - 2026-04-15
 * [Commit] [acdbot: change stateless occurrence rate](https://github.com/ethereum/pm/commit/772add71af9cd28658a05f5bbf08ba5340ac25e9) - 2026-04-29
 * [Commit] [acdbot: add to trusted list for fcr](https://github.com/ethereum/pm/commit/a321e2f15b4cbfefadce060677d5785c9c0f6226) - 2026-05-04
+* [Commit] [acdbot: add to trusted list for pqi](https://github.com/ethereum/pm/commit/14a8608634fa5e16135c09b19f68d24f6deae670) - 2026-05-05
 ## Q1 2026
 
 

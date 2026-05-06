@@ -28,6 +28,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Issue] [Tests exist which create blocks with more than 16 withdrawals](https://github.com/ethereum/execution-specs/issues/2792) - 2026-05-01
 * [Pull Request] [feat(zkevm): add forks description into ChainConfig](https://github.com/ethereum/execution-specs/pull/2797) - 2026-05-04
 * [Review] [Review on: feat(zkevm): add forks description into ChainConfig](https://github.com/ethereum/execution-specs/pull/2797#pullrequestreview-4223537216) - 2026-05-04
+* [Pull Request] [feat(zkevm): allow blockchain tests to skip stateless validation](https://github.com/ethereum/execution-specs/pull/2805) - 2026-05-05
+* [Review] [Review on: feat(zkevm): allow blockchain tests to skip stateless validation](https://github.com/ethereum/execution-specs/pull/2805#pullrequestreview-4231071114) - 2026-05-05
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01
@@ -50,6 +52,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat: update dependencies for ere-guests](https://github.com/eth-act/zkevm-benchmark-workload/pull/282) - 2026-04-27
 * [Review] [Review on: feat: add zisk cluster benchmark support](https://github.com/eth-act/zkevm-benchmark-workload/pull/281#pullrequestreview-4180548007) - 2026-04-27
 * [Commit] [feat: update dependencies for ere-guests (#282)](https://github.com/eth-act/zkevm-benchmark-workload/commit/1a6ae1414f45e7a64e274469c95b9b2b3b251df2) - 2026-04-27
+* [Pull Request] [update EEST benchmark release reference](https://github.com/eth-act/zkevm-benchmark-workload/pull/283) - 2026-05-05
+* [Commit] [update EEST benchmark release reference (#283)](https://github.com/eth-act/zkevm-benchmark-workload/commit/d216e12d61ba04bd3cd05ce8a0b7bd537e2711df) - 2026-05-05
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08
@@ -64,6 +68,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Review] [Review on: fix: enable `rustls-tls` for `ere-server`](https://github.com/eth-act/ere/pull/338#pullrequestreview-4148779317) - 2026-04-21
 
+* [Review] [Review on: feat: update `zisk` to `v0.17.0`](https://github.com/eth-act/ere/pull/351#pullrequestreview-4228344854) - 2026-05-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/pull/11587) - 2026-04-30
 ## Q1 2026

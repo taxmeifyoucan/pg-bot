@@ -73,6 +73,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Rename ElectraCommitteeValidatorsBits to AggregationBits](https://github.com/status-im/nimbus-eth2/pull/8389) - 2026-05-03
 * [Pull Request] [Remove SomeAttestation](https://github.com/status-im/nimbus-eth2/pull/8396) - 2026-05-04
 * [Pull Request] [Move Altair EpochParticipationFlags from Base to Altair](https://github.com/status-im/nimbus-eth2/pull/8395) - 2026-05-04
+* [Pull Request] [Drop redundant 'item' template](https://github.com/status-im/nimbus-eth2/pull/8402) - 2026-05-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
@@ -96,6 +97,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Make fork digest for pre-fulu epoch compatible across specs (#5182)](https://github.com/ethereum/consensus-specs/commit/4d623657a12ef326b7a50107589e6b0c33b439ec) - 2026-04-28
 * [Commit] [Add `create_signed_genesis_block` helper (#5173)](https://github.com/ethereum/consensus-specs/commit/330bda3eb2f7a829e70c152d1fb46971e8d4d886) - 2026-04-28
 * [Review] [Review on: Distinguish absent PTC votes from negative votes](https://github.com/ethereum/consensus-specs/pull/5180#pullrequestreview-4197233796) - 2026-04-29
+* [Review] [Review on: Use `Union[None, T]` instead of `Optional[T]` in SSZ datastructures](https://github.com/ethereum/consensus-specs/pull/5200#pullrequestreview-4225466879) - 2026-05-05
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13
@@ -105,6 +107,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527#pullrequestreview-4116283789) - 2026-04-15
 * [Review] [Review on: Add EIP: GitChain](https://github.com/ethereum/EIPs/pull/9579#pullrequestreview-4191344274) - 2026-04-28
+* [Pull Request] [Update EIP-7688: Make Transaction progressive](https://github.com/ethereum/EIPs/pull/11603) - 2026-05-05
+* [Commit] [Update EIP-7688: Make Transaction progressive](https://github.com/ethereum/EIPs/commit/d2fb2b2e6104e7484f552bf142c500a9d2a6ef4e) - 2026-05-05
 ## Q1 2026
 
 

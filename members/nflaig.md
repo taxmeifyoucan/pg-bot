@@ -244,6 +244,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Use dependent root for proposer preferences (#5196)](https://github.com/ethereum/consensus-specs/commit/6ed1d3de19ac8f0520cfa26c44834684b8ee42a0) - 2026-04-29
 * [Commit] [Fix slot check in proposer preferences gossip (#5191)](https://github.com/ethereum/consensus-specs/commit/df7a4fc4e607da870db5e6a1b0a6e613c2031110) - 2026-04-29
 * [Review] [Review on: Fix gossip validation tests](https://github.com/ethereum/consensus-specs/pull/5201#pullrequestreview-4210743367) - 2026-05-01
+* [Review] [Review on: Remove pre-capella check in BTEC gossip handler](https://github.com/ethereum/consensus-specs/pull/5205#pullrequestreview-4228386550) - 2026-05-05
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

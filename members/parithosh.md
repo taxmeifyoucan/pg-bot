@@ -14,6 +14,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #77, April 13, 2026](https://github.com/ethereum/pm/issues/2008) - 2026-04-07
 
+* [Issue] [All Core Devs - Testing (ACDT) #79, May 11, 2026](https://github.com/ethereum/pm/issues/2038) - 2026-05-05
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Pull Request] [feat(beacon-node): run consensus-specs fork-choice compliance tests](https://github.com/ChainSafe/lodestar/pull/9290) - 2026-04-27
 

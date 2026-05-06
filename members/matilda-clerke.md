@@ -24,6 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Fix flaky test PeerDiscoveryAgentV5Test.shouldEvictPeerWhenPermissionsRevoked](https://github.com/besu-eth/besu/pull/10384) - 2026-04-30
 * [Commit] [Fix flaky test PeerDiscoveryAgentV5Test.shouldEvictPeerWhenPermissionsRevoked (#10384)](https://github.com/besu-eth/besu/commit/1634a3671bfff75c2c9faf2bf927da601f507757) - 2026-04-30
 * [Pull Request] [Handle new IPv6 addresses by updating NodeRecordManager](https://github.com/besu-eth/besu/pull/10416) - 2026-05-05
+* [Review] [Review on: fix(core): resolve native file descriptor leaks in Era1 archive import and TOML configuration parsing](https://github.com/besu-eth/besu/pull/10408#pullrequestreview-4224991731) - 2026-05-05
 ## Q1 2026
 
 

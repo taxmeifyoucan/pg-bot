@@ -67,6 +67,12 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [chore: add repository.url to package.json (#345)](https://github.com/ChainSafe/lodestar-z/commit/72e25a2842d93bb2d31039e84fbb7c9ed34103f4) - 2026-05-04
 * [Commit] [chore(release): bump version to v0.1.1 (#344)](https://github.com/ChainSafe/lodestar-z/commit/2a70b7998fd3febaf4389bdb42b29895b32bd7cf) - 2026-05-04
 * [Commit] [feat(ci): fix access for publishing bindings (#343)](https://github.com/ChainSafe/lodestar-z/commit/88b65b9d1201cbc7714693e0332b411e42101e7e) - 2026-05-04
+* [Pull Request] [[wip] feat(bindings): align `BeaconStateView` with `IBeaconStateView`](https://github.com/ChainSafe/lodestar-z/pull/347) - 2026-05-05
+* [Review] [Review on: [wip] feat(bindings): align `BeaconStateView` with `IBeaconStateView`](https://github.com/ChainSafe/lodestar-z/pull/347#pullrequestreview-4230415968) - 2026-05-05
+* [Pull Request] [refactor(bindings): use `toU32()` where it makes sense instead of `toI64()`](https://github.com/ChainSafe/lodestar-z/pull/349) - 2026-05-05
+* [Pull Request] [fix: param order in BeaconBlockBody](https://github.com/ChainSafe/lodestar-z/pull/348) - 2026-05-05
+* [Commit] [refactor: make XXXDecisionRoot fns return `js.String` (#342)](https://github.com/ChainSafe/lodestar-z/commit/aef44205b31dd48916c43cc3d47b918434e4901d) - 2026-05-05
+* [Commit] [fix: param order in BeaconBlockBody (#348)](https://github.com/ChainSafe/lodestar-z/commit/d8b9c06992d479c278d046813e398301c5a67c47) - 2026-05-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

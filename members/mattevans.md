@@ -23,6 +23,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #806 from ethpandaops/feat/ch-logs-local](https://github.com/ethpandaops/xatu/commit/182a44a07d9c6ecf6d596c98a4fb39ba9a78dc00) - 2026-04-09
 * [Commit] [feat(local): add docker container log collection to ch](https://github.com/ethpandaops/xatu/commit/40b95b73ea35ab8ccbd57085184c3d2aad8440a5) - 2026-04-09
 
+* [Review] [Review on: cannon: add direct-to-clickhouse output sink](https://github.com/ethpandaops/xatu/pull/808#pullrequestreview-4231643520) - 2026-05-05
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Review] [Review on: feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433#pullrequestreview-4166900256) - 2026-04-23
 
@@ -30,6 +31,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Review] [Review on: feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/90#pullrequestreview-4195314057) - 2026-04-29
 * [Commit] [Merge pull request #90 from ethpandaops/feat/add-glamsterdam-devnets](https://github.com/ethpandaops/cartographoor/commit/6a3003492dbaa5640c12cbf22738b61cc70aba63) - 2026-04-29
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Pull Request] [feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167) - 2026-05-06
 ## Q1 2026
 
 

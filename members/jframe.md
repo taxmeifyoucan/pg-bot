@@ -37,6 +37,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: fix: avoid mutating generated node counter in snap sync completion log](https://github.com/besu-eth/besu/pull/10333#pullrequestreview-4202552909) - 2026-04-30
 * [Review] [Review on: fix: two QBFT regressions on chains that run PoS through the merge](https://github.com/besu-eth/besu/pull/10415#pullrequestreview-4224870088) - 2026-05-05
 * [Commit] [Bonsai archive hybrid mode (#10192)](https://github.com/besu-eth/besu/commit/a19384ce3657e2c5d368a1e39a40ccc2693f09db) - 2026-05-05
+* [Review] [Review on: Remove Bonsai archive freezer storage and Archiver component](https://github.com/besu-eth/besu/pull/10339#pullrequestreview-4232629291) - 2026-05-06
+* [Review] [Review on: fix: two QBFT regressions on chains that run PoS through the merge](https://github.com/besu-eth/besu/pull/10415#pullrequestreview-4231343043) - 2026-05-05
 ## Q1 2026
 
 

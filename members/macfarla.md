@@ -114,6 +114,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: ethereum, plugins: throttle SnapSync and share RocksDB block cache](https://github.com/besu-eth/besu/pull/10369#pullrequestreview-4224612514) - 2026-05-05
 * [Review] [Review on: Fix snap/2 encoding and response size limits](https://github.com/besu-eth/besu/pull/10391#pullrequestreview-4224582207) - 2026-05-05
 * [Review] [Review on: Treat response size limit as soft cap for all snap messages](https://github.com/besu-eth/besu/pull/10343#pullrequestreview-4218227974) - 2026-05-04
+* [Review] [Review on: Agentic PR guidance for Contributors](https://github.com/besu-eth/besu/pull/10414#pullrequestreview-4225330071) - 2026-05-05
+* [Review] [Review on: fix(controller): fall back to PoS when no consensus mechanism declared in genesis](https://github.com/besu-eth/besu/pull/10266#pullrequestreview-4225299835) - 2026-05-05
+* [Review] [Review on: feat(jsonrpc): implement eth_capabilities RPC method](https://github.com/besu-eth/besu/pull/10322#pullrequestreview-4224975654) - 2026-05-05
+* [Pull Request] [reference tests: gradle extract fixtures: regenerate if needed](https://github.com/besu-eth/besu/pull/10417) - 2026-05-05
+* [Review] [Review on: ethereum: ensure world state trie is not cleared when block hash is m…](https://github.com/besu-eth/besu/pull/10398#pullrequestreview-4224931812) - 2026-05-05
+* [Review] [Review on: nat: Enable NullAway and fix null-safety violations](https://github.com/besu-eth/besu/pull/10370#pullrequestreview-4225123279) - 2026-05-05
+* [Review] [Review on: fix: close `RlpBlockImporter` after RLP block import to release executor threads](https://github.com/besu-eth/besu/pull/10413#pullrequestreview-4225086427) - 2026-05-05
+* [Review] [Review on: DebugOperationTracer #10115 - 10 : storage snapshot timing ](https://github.com/besu-eth/besu/pull/10176#pullrequestreview-4225023006) - 2026-05-05
+* [Review] [Review on: Feat-11 : Add `limit` param to stop opcode trace capture after N steps](https://github.com/besu-eth/besu/pull/10173#pullrequestreview-4225099796) - 2026-05-05
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

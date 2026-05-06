@@ -290,6 +290,15 @@ Team: Reth
 * [Review] [Review on: refactor(payload): require built payload conversion](https://github.com/paradigmxyz/reth/pull/23928#pullrequestreview-4219483583) - 2026-05-04
 * [Commit] [refactor(payload): require built payload conversion (#23928)](https://github.com/paradigmxyz/reth/commit/0b55b2c5db1f3058937f989751c289d3ff0987ed) - 2026-05-04
 * [Commit] [chore: fix nightly clippy warnings (#23923)](https://github.com/paradigmxyz/reth/commit/d2b4ab53d4189b682afe12af090111347df3b1c5) - 2026-05-04
+* [Review] [Review on: fix(rpc): support block overrides in estimateGas](https://github.com/paradigmxyz/reth/pull/23990#pullrequestreview-4229118879) - 2026-05-05
+* [Review] [Review on: feat(rpc): add a ssz proxy layer for engine-api methods](https://github.com/paradigmxyz/reth/pull/23936#pullrequestreview-4227432259) - 2026-05-05
+* [Review] [Review on: feat(BAL): restructure the loop](https://github.com/paradigmxyz/reth/pull/23988#pullrequestreview-4228557643) - 2026-05-05
+* [Review] [Review on: fix(engine): increase state root task timeout to 4s](https://github.com/paradigmxyz/reth/pull/23949#pullrequestreview-4225757564) - 2026-05-05
+* [Review] [Review on: fix(rpc): fill `maxUsedGas` in simulate results](https://github.com/paradigmxyz/reth/pull/23983#pullrequestreview-4227344484) - 2026-05-05
+* [Review] [Review on: fix: skip already-known executed blocks](https://github.com/paradigmxyz/reth/pull/23987#pullrequestreview-4227756310) - 2026-05-05
+* [Review] [Review on: feat(debug-client): pass execution data from providers](https://github.com/paradigmxyz/reth/pull/23969#pullrequestreview-4225867454) - 2026-05-05
+* [Review] [Review on: chore: refactor parbal](https://github.com/paradigmxyz/reth/pull/23979#pullrequestreview-4226700615) - 2026-05-05
+* [Commit] [fix(rpc): relax forkchoice update error match (#23941)](https://github.com/paradigmxyz/reth/commit/1497ee78aaf9f2807f234433f7e106caac14a845) - 2026-05-05
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -300,6 +309,7 @@ Team: Reth
 * [Review] [Review on: chore: update alloy-eip7928 to newer version](https://github.com/bluealloy/revm/pull/3627#pullrequestreview-4189019528) - 2026-04-28
 * [Pull Request] [chore(deps): bump alloy-eip7928 to 0.4](https://github.com/bluealloy/revm/pull/3623) - 2026-04-28
 
+* [Review] [Review on: refactor: use `Cow` for warm precompile addresses](https://github.com/bluealloy/revm/pull/3652#pullrequestreview-4228199863) - 2026-05-05
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
 ## Q1 2026

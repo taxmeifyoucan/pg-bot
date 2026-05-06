@@ -90,6 +90,12 @@ Team: Reth
 * [Pull Request] [refactor(tree): reduce BAL cloning across validation and execution](https://github.com/paradigmxyz/reth/pull/23915) - 2026-05-01
 * [Pull Request] [Add static-file storage for bytecodes](https://github.com/paradigmxyz/reth/pull/23913) - 2026-05-01
 * [Review] [Review on: feat(engine): add BAL final hash mismatch diagnostic](https://github.com/paradigmxyz/reth/pull/23907#pullrequestreview-4210735250) - 2026-05-01
+* [Pull Request] [refactor(tree): split sparse trie hashed state messages](https://github.com/paradigmxyz/reth/pull/24000) - 2026-05-05
+* [Pull Request] [fix(bench): reenable minio binaries cache](https://github.com/paradigmxyz/reth/pull/23993) - 2026-05-05
+* [Review] [Review on: fix: disable OTLP by default in bench workflow](https://github.com/paradigmxyz/reth/pull/23994#pullrequestreview-4229511957) - 2026-05-05
+* [Review] [Review on: fix(bench): skip big-block snapshot downloads](https://github.com/paradigmxyz/reth/pull/23992#pullrequestreview-4229484591) - 2026-05-05
+* [Pull Request] [ci(bench): update snapshots with `reth download`](https://github.com/paradigmxyz/reth/pull/23984) - 2026-05-05
+* [Commit] [ci(bench): update snapshots with `reth download` (#23984)](https://github.com/paradigmxyz/reth/commit/883505692f84d8ac4388f6c2753ab23041cf643a) - 2026-05-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

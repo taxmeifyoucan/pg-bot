@@ -50,6 +50,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix Taiko snap-sync and RPC noise](https://github.com/NethermindEth/nethermind/pull/11387#pullrequestreview-4190385253) - 2026-04-28
 * [Review] [Review on: fix: Revise dependency caching](https://github.com/NethermindEth/nethermind/pull/11444#pullrequestreview-4207596127) - 2026-04-30
 * [Review] [Review on: Handle quick channel closing](https://github.com/NethermindEth/nethermind/pull/11428#pullrequestreview-4223063151) - 2026-05-04
+* [Review] [Review on: test: bump TestBlockchain.DefaultTimeout 10s -> 30s](https://github.com/NethermindEth/nethermind/pull/11486#pullrequestreview-4225040979) - 2026-05-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

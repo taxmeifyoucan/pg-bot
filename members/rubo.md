@@ -76,6 +76,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(zkevm): Migrate to zkVM standards](https://github.com/NethermindEth/nethermind/pull/11481) - 2026-05-04
 * [Review] [Review on: feat(zkevm): Migrate to zkVM standards](https://github.com/NethermindEth/nethermind/pull/11481#pullrequestreview-4221695935) - 2026-05-04
 * [Review] [Review on: TransactionForRpc improvements](https://github.com/NethermindEth/nethermind/pull/11484#pullrequestreview-4222355393) - 2026-05-04
+* [Pull Request] [fix: Fix dependency caching](https://github.com/NethermindEth/nethermind/pull/11499) - 2026-05-05
 ## Q1 2026
 
 

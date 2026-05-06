@@ -310,6 +310,10 @@ Team: Reth
 * [Commit] [chore(meta): cleanup](https://github.com/paradigmxyz/revmc/commit/dd3232148a243500b6aca48844040fa130b453ce) - 2026-04-30
 * [Commit] [chore(meta): add -o description to AGENTS.md](https://github.com/paradigmxyz/revmc/commit/fcb01de75b256a7f80ce924942db482c19a83dff) - 2026-04-30
 * [Commit] [chore: clean up runner](https://github.com/paradigmxyz/revmc/commit/4c5aeab19ead563b994dba16b7f7e87ef8bb6a7e) - 2026-04-30
+* [Pull Request] [refactor(bench): use fixture json inputs](https://github.com/paradigmxyz/revmc/pull/371) - 2026-05-05
+* [Pull Request] [refactor: localize branch helpers](https://github.com/paradigmxyz/revmc/pull/370) - 2026-05-05
+* [Commit] [refactor: localize branch helpers (#370)](https://github.com/paradigmxyz/revmc/commit/f25795cb8cc8bfad87ccfbf0332db8572c794a55) - 2026-05-05
+* [Commit] [chore: remove extra word in comment](https://github.com/paradigmxyz/revmc/commit/76c35e65711998ad662c9c8b8c44a83386902987) - 2026-05-05
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -409,6 +413,11 @@ Team: Reth
 * [Pull Request] [chore: rm unused MemoryExtensionResult](https://github.com/bluealloy/revm/pull/3646) - 2026-05-03
 * [Pull Request] [ci: run develop EEST fixtures by default](https://github.com/bluealloy/revm/pull/3645) - 2026-05-03
 * [Pull Request] [refactor: remove unused spec ids](https://github.com/bluealloy/revm/pull/3649) - 2026-05-04
+* [Review] [Review on: refactor: use `Cow` for warm precompile addresses](https://github.com/bluealloy/revm/pull/3652#pullrequestreview-4228179044) - 2026-05-05
+* [Commit] [ci: run develop EEST fixtures by default (#3645)](https://github.com/bluealloy/revm/commit/db65a37fa4fdd84b78e4f053f724526530572d08) - 2026-05-05
+* [Commit] [refactor(interpreter): unify call handlers (#3626)](https://github.com/bluealloy/revm/commit/ac5f365f0df9c80c56bc8b1340f2a05c9565e1e7) - 2026-05-05
+* [Commit] [chore: rm unused MemoryExtensionResult (#3646)](https://github.com/bluealloy/revm/commit/3a436bd0627bf99b39765db2b6aadd790bc118f0) - 2026-05-05
+* [Commit] [refactor: remove unused spec ids (#3649)](https://github.com/bluealloy/revm/commit/c661e79ac941214f8ca458e1cba9de216571c948) - 2026-05-05
 ## Q1 2026
 
 

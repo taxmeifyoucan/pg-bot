@@ -30,6 +30,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(stf): commit before bulk read](https://github.com/ChainSafe/lodestar-z/pull/334#pullrequestreview-4197531928) - 2026-04-29
 * [Review] [Review on: refactor: use dontTransferCache on the bindings layer](https://github.com/ChainSafe/lodestar-z/pull/333#pullrequestreview-4197432165) - 2026-04-29
 * [Commit] [feat: migrate BeaconStateView to use zapi js dsl (#330)](https://github.com/ChainSafe/lodestar-z/commit/cd458472495f9598eda64a02c43b1ef521750e7e) - 2026-04-30
+* [Review] [Review on: refactor: make XXXDecisionRoot fns return `js.String`](https://github.com/ChainSafe/lodestar-z/pull/342#pullrequestreview-4228041568) - 2026-05-05
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-4097078708) - 2026-04-13
 * [Review] [Review on: fix(prover): implement eth_getBlockNumber verified request handler](https://github.com/ChainSafe/lodestar/pull/9203#pullrequestreview-4097017101) - 2026-04-13

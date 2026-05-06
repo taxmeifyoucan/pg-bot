@@ -25,6 +25,8 @@ Team: EthereumJS
 * [Commit] [vm: EIP-7976 (calldata floor cost) (#4280)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/a404e7b19b3e03ecfb59bf90e82a596a87df9501) - 2026-04-27
 * [Commit] [docs: pre-release docs overhaul (#4281)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/25417b7f640f751762c47da185b8c726dbde6245) - 2026-04-27
 * [Review] [Review on: Implement EIP-7981: Increase Access List Cost](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4282#pullrequestreview-4217268333) - 2026-05-04
+* [Pull Request] [chore: point dev fixtures to snobal-devnet-6@v1.1.0](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4284) - 2026-05-05
+* [Commit] [chore: point dev fixtures to snobal-devnet-6@v1.1.0 (#4284)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/4479713bad20a710bbb803058084042426ae7414) - 2026-05-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 ## Q1 2026

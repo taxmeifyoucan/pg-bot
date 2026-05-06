@@ -53,6 +53,8 @@ Team: Geth
 * [Pull Request] [core: implement EIP-8037: state creation gas cost increase (new spec)](https://github.com/ethereum/go-ethereum/pull/34837) - 2026-04-27
 * [Review] [Review on: core: skip tx gas cap after Amsterdam](https://github.com/ethereum/go-ethereum/pull/34841#pullrequestreview-4188657204) - 2026-04-28
 * [Pull Request] [core/catalyst: engine_hasBlobs](https://github.com/ethereum/go-ethereum/pull/34859) - 2026-04-30
+* [Review] [Review on: accounts/abi/bind: re-export event signature mismatch errors](https://github.com/ethereum/go-ethereum/pull/34868#pullrequestreview-4226790475) - 2026-05-05
+* [Issue] [Flakey test on windows amd64](https://github.com/ethereum/go-ethereum/issues/34877) - 2026-05-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

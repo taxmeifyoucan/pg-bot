@@ -31,6 +31,7 @@ Team: Erigon
 * [Commit] [qa-tests: save detailed test report to view test failure details in the hive-ui (#20760)](https://github.com/erigontech/erigon/commit/b2cdd4e4aca45300385f9a223b1c0af655cbd95f) - 2026-04-24
 * [Issue] [Reconfigure Nitro-Erigon test runner to run Erigon tests](https://github.com/erigontech/erigon/issues/20907) - 2026-04-29
 * [Issue] [Update pre-built dbs with the last release](https://github.com/erigontech/erigon/issues/20904) - 2026-04-29
+* [Review] [Review on: ci: add --commitment-history flag to rpc test scripts](https://github.com/erigontech/erigon/pull/20981#pullrequestreview-4231796397) - 2026-05-05
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10
@@ -39,6 +40,7 @@ Team: Erigon
 * [Review] [Review on: integration: add metadata description field to test fixtures](https://github.com/erigontech/rpc-tests/pull/549#pullrequestreview-4136283990) - 2026-04-19
 * [Review] [Review on: integration: extend eth_simulateV1 tests](https://github.com/erigontech/rpc-tests/pull/553#pullrequestreview-4178674463) - 2026-04-27
 * [Review] [Review on: integration: fix expected deletedAccounts in debug_traceBlockByNumber](https://github.com/erigontech/rpc-tests/pull/552#pullrequestreview-4178676457) - 2026-04-27
+* [Review] [Review on: integration: add -C flag to include tests requiring commitment-history](https://github.com/erigontech/rpc-tests/pull/556#pullrequestreview-4231787167) - 2026-05-05
 ## Q1 2026
 
 

@@ -17,6 +17,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add discovery custody filter ability.](https://github.com/status-im/nimbus-eth2/pull/8263) - 2026-04-13
 * [Review] [Review on: Add discovery custody filter ability.](https://github.com/status-im/nimbus-eth2/pull/8263#pullrequestreview-4142712139) - 2026-04-20
 * [Pull Request] [Add debugging peer columns distribution REST call.](https://github.com/status-im/nimbus-eth2/pull/8326) - 2026-04-23
+* [Pull Request] [Fix Validator Custody issues.](https://github.com/status-im/nimbus-eth2/pull/8404) - 2026-05-05
+* [Pull Request] [Fix subscribe/unsubscribe sequence which should not be introduced, un…](https://github.com/status-im/nimbus-eth2/pull/8403) - 2026-05-05
 ## Q1 2026
 
 

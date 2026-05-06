@@ -59,6 +59,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [change bal default config](https://github.com/besu-eth/besu/pull/10410) - 2026-05-04
 * [Pull Request] [Bal devnet 3 set correctly the prefetcher flag in BalConfiguration](https://github.com/besu-eth/besu/pull/10409) - 2026-05-04
 * [Pull Request] [fix prefetcher](https://github.com/besu-eth/besu/pull/10405) - 2026-05-04
+* [Pull Request] [Fix block hash lookup issue](https://github.com/besu-eth/besu/pull/10419) - 2026-05-05
+* [Review] [Review on: Fix block hash lookup issue](https://github.com/besu-eth/besu/pull/10419#pullrequestreview-4228168274) - 2026-05-05
+* [Pull Request] [Fix blockHashLookup parallelization issue ](https://github.com/besu-eth/besu/pull/10418) - 2026-05-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

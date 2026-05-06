@@ -36,6 +36,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [metrics: add payload_attestation_inserts_total labelled by claim](https://github.com/OffchainLabs/prysm/pull/16732) - 2026-04-29
 * [Pull Request] [Increase minimal preset PTC_SIZE from 2 to 16](https://github.com/OffchainLabs/prysm/pull/16737) - 2026-04-30
 * [Pull Request] [db: prune execution payload envelopes during historical data deletion](https://github.com/OffchainLabs/prysm/pull/16742) - 2026-05-01
+* [Review] [Review on: Drain pending blocks when payload envelope arrives](https://github.com/OffchainLabs/prysm/pull/16749#pullrequestreview-4227784451) - 2026-05-05
+* [Review] [Review on: Disable retries for `PayloadAttestationData` and downgrade missed slot logs](https://github.com/OffchainLabs/prysm/pull/16743#pullrequestreview-4228741837) - 2026-05-05
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

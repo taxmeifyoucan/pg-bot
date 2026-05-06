@@ -100,6 +100,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: refactor(payload): require built payload conversion](https://github.com/paradigmxyz/reth/pull/23928#pullrequestreview-4219450342) - 2026-05-04
 * [Commit] [feat: spawn deferred trie work for directly inserted payloads (#23935)](https://github.com/paradigmxyz/reth/commit/d5c5b0b63308eb6ff3e3391a79ef4dbcfc4f8b52) - 2026-05-04
 * [Commit] [refactor(generate-big-blocks): don't recompute receipts root (#23930)](https://github.com/paradigmxyz/reth/commit/b45e99b8e7b6a890d8731a47cfde0f763f6084d3) - 2026-05-04
+* [Pull Request] [fix: skip already-known executed blocks](https://github.com/paradigmxyz/reth/pull/23987) - 2026-05-05
+* [Commit] [fix: skip already-known executed blocks (#23987)](https://github.com/paradigmxyz/reth/commit/12ec7c57281c611355a02a2032ea7330ed9d3c68) - 2026-05-05
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
@@ -109,6 +111,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [feat propagate `InitialAndFloorGas` to stateful validation](https://github.com/bluealloy/revm/pull/3577) - 2026-04-16
 * [Commit] [refactor: pass reservoir into `first_frame_input` (#3578)](https://github.com/bluealloy/revm/commit/ea8d1f513278fca56a29f509a92f7f50dcaae6f8) - 2026-04-16
 * [Commit] [feat: propagate InitialAndFloorGas to validate_against_state_and_deduct_caller (#3577)](https://github.com/bluealloy/revm/commit/a1a18248bd35699392fb84274865edba1b6d0955) - 2026-04-16
+* [Pull Request] [fix: gracefully handle commits with non-cached accounts](https://github.com/bluealloy/revm/pull/3657) - 2026-05-05
+* [Pull Request] [Revert "refactor: use `Cow` for warm precompile addresses"](https://github.com/bluealloy/revm/pull/3653) - 2026-05-05
+* [Pull Request] [refactor: use `Cow` for warm precompile addresses](https://github.com/bluealloy/revm/pull/3652) - 2026-05-05
+* [Commit] [Revert "refactor: use `Cow` for warm precompile addresses (#3652)" (#3653)](https://github.com/bluealloy/revm/commit/2d8762342d23195bf6f372167658684e25ff3254) - 2026-05-05
+* [Commit] [refactor: use `Cow` for warm precompile addresses (#3652)](https://github.com/bluealloy/revm/commit/aace21d47b7a1cc4316cae0f7c5eb3a36096bfbb) - 2026-05-05
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4140591296) - 2026-04-20

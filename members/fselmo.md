@@ -44,6 +44,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: fix(ci): install build deps in hive-consume dev mode](https://github.com/ethereum/execution-specs/pull/2773#pullrequestreview-4188479935) - 2026-04-28
 * [Commit] [feat(test-tools): t8n file streaming optimizations (#2751)](https://github.com/ethereum/execution-specs/commit/c48eceaca0082049e19ad75af00c56f63c128efe) - 2026-04-28
 * [Review] [Review on: feat(test-benchmark): storage initialization helper with 7702 authorization](https://github.com/ethereum/execution-specs/pull/2672#pullrequestreview-4211182275) - 2026-05-01
+* [Pull Request] [feat(spec,test): backport interop related changes](https://github.com/ethereum/execution-specs/pull/2806) - 2026-05-05
+* [Review] [Review on: refactor(test-benchmark): support 8037 for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2787#pullrequestreview-4231227597) - 2026-05-05
+* [Issue] [Align EIP-8037 with latest spec changes for bal-devnet-7](https://github.com/ethereum/execution-specs/issues/2804) - 2026-05-05
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14

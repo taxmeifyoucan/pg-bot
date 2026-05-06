@@ -71,6 +71,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Generalise reconstruct_historic_states for ranged replay](https://github.com/sigp/lighthouse/pull/9222#pullrequestreview-4217254970) - 2026-05-04
 * [Pull Request] [lcli apply-hdiff/compute-hdiff](https://github.com/sigp/lighthouse/pull/9261) - 2026-05-04
 * [Review] [Review on: Fix O(n²) find_head and stack overflow in filter_block_tree](https://github.com/sigp/lighthouse/pull/9090#pullrequestreview-4217213395) - 2026-05-04
+* [Review] [Review on: Generalise reconstruct_historic_states for ranged replay](https://github.com/sigp/lighthouse/pull/9222#pullrequestreview-4232660278) - 2026-05-06
+* [Review] [Review on: Remove `TestRandom`](https://github.com/sigp/lighthouse/pull/9006#pullrequestreview-4225564674) - 2026-05-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

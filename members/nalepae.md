@@ -45,6 +45,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: statediff logs cleanup](https://github.com/OffchainLabs/prysm/pull/16715#pullrequestreview-4203755877) - 2026-04-30
 * [Commit] [Reduce chain service processing time at epoch transition (#16731)](https://github.com/OffchainLabs/prysm/commit/1490c56a5080e939daf4cb286da239e6176cb094) - 2026-04-30
 * [Commit] [`getFCUArgs`: Add early return for forkchoice update arguments in non-regular sync. (#16721)](https://github.com/OffchainLabs/prysm/commit/964cc8f2fbaeea9ebe4f902c7d5d4574846e2ebc) - 2026-05-04
+
+* [Review] [Review on: Write `totalEffectiveBalance` in `balanceCache` eagerly in `ProcessEffectiveBalanceUpdates`.](https://github.com/OffchainLabs/prysm/pull/16738#pullrequestreview-4228294050) - 2026-05-05
+* [Issue] [After an Internet outage, Prysm cannot find peers](https://github.com/OffchainLabs/prysm/issues/16755) - 2026-05-05
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 ## Q1 2026
 
 

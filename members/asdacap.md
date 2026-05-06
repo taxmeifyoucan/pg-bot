@@ -171,6 +171,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor: serialise FinalizeSync via captured per-round pivot](https://github.com/NethermindEth/nethermind/pull/11477) - 2026-05-04
 * [Commit] [refactor: serialise FinalizeSync via captured per-round pivot (#11477)](https://github.com/NethermindEth/nethermind/commit/12fabc9d2d3831f4cfdfa9eb57e4e8896c5d664a) - 2026-05-04
 * [Commit] [refactor: simplify snap+state sync dispatcher (#11102)](https://github.com/NethermindEth/nethermind/commit/60e7e76f44a4f8363d7bb73053dd2c14be80af60) - 2026-05-04
+* [Review] [Review on: test: regression tests for #9002 - barrier decrease after partial sync leaves feed stuck](https://github.com/NethermindEth/nethermind/pull/11483#pullrequestreview-4227415258) - 2026-05-05
+* [Review] [Review on: fix: prevent negative RequestSize crash when beacon pivot destination advances mid-sync](https://github.com/NethermindEth/nethermind/pull/11478#pullrequestreview-4225738339) - 2026-05-05
+* [Commit] [Add NETH004 analyzer banning ConcurrentDictionary.Keys/.Values (#11462)](https://github.com/NethermindEth/nethermind/commit/49a985dff23112fcfd180cd5d5293253bae8fbba) - 2026-05-06
+* [Commit] [perf: Embed Address bytes inline to remove secondary allocation (#11469)](https://github.com/NethermindEth/nethermind/commit/3b36172fe8bf348ea0071282d678d3da13a98ac5) - 2026-05-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

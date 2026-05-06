@@ -316,6 +316,11 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Fix: `/health` endpoint reports `ClUnavailable` after 5 minutes (1.37.x regression)](https://github.com/NethermindEth/nethermind/pull/11474#pullrequestreview-4220178746) - 2026-05-04
 * [Review] [Review on: refactor: serialise FinalizeSync via captured per-round pivot](https://github.com/NethermindEth/nethermind/pull/11477#pullrequestreview-4219160443) - 2026-05-04
 * [Review] [Review on: Fixes for RLP integers and bool decoding](https://github.com/NethermindEth/nethermind/pull/11479#pullrequestreview-4219403083) - 2026-05-04
+* [Review] [Review on: test: regression tests for #9002 - barrier decrease after partial sync leaves feed stuck](https://github.com/NethermindEth/nethermind/pull/11483#pullrequestreview-4228399214) - 2026-05-05
+* [Review] [Review on: fix: enable EnablePerMethodMetrics by default](https://github.com/NethermindEth/nethermind/pull/11494#pullrequestreview-4228623705) - 2026-05-05
+* [Review] [Review on: RPC: `admin_*` peer-management endpoints improvements](https://github.com/NethermindEth/nethermind/pull/11489#pullrequestreview-4227218030) - 2026-05-05
+* [Review] [Review on: More RLP limits, sizes, and positions checks](https://github.com/NethermindEth/nethermind/pull/11488#pullrequestreview-4225020354) - 2026-05-05
+* [Commit] [test: bump TestBlockchain.DefaultTimeout 10s -> 30s (#11486)](https://github.com/NethermindEth/nethermind/commit/1ce5d3101f08e3a1b22ecb89ef6ee8e01ea1356a) - 2026-05-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

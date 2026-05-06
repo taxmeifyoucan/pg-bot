@@ -59,6 +59,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Update GitHub Actions self-hosted runners to Ubuntu 24](https://github.com/Consensys/teku/pull/10650#pullrequestreview-4205166657) - 2026-04-30
 * [Review] [Review on: Focil heze](https://github.com/Consensys/teku/pull/10666#pullrequestreview-4218339602) - 2026-05-04
 * [Commit] [Proposer preferences gloas only (#10596)](https://github.com/Consensys/teku/commit/aa9ef6f8ad934f27be91344cc20fdac4dc8c163f) - 2026-05-04
+* [Review] [Review on: Focil heze](https://github.com/Consensys/teku/pull/10666#pullrequestreview-4229778980) - 2026-05-05
 ## Q1 2026
 
 

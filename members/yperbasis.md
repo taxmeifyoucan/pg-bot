@@ -300,6 +300,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: parallel commitment calculations implemented](https://github.com/erigontech/erigon/pull/20805#pullrequestreview-4218590625) - 2026-05-04
 * [Review] [Review on: cmd, dbg: add --exec.no-background-maintenance flag for focused perf testing](https://github.com/erigontech/erigon/pull/20977#pullrequestreview-4221052601) - 2026-05-04
 * [Review] [Review on: ci: skip sonar and claude-review for dependabot PRs](https://github.com/erigontech/erigon/pull/20972#pullrequestreview-4218558982) - 2026-05-04
+* [Review] [Review on: QA : extend test on eth_simulateV1 with test on historical and latest](https://github.com/erigontech/erigon/pull/20818#pullrequestreview-4226711567) - 2026-05-05
+* [Pull Request] [test-fixtures: lazy-download manifest replaces eest-fixtures submodule](https://github.com/erigontech/erigon/pull/21002) - 2026-05-05
+* [Review] [Review on: [bal-devnet-3] p2p/protocols/eth: EIP-8159 eth/71 wire protocol (#20793)](https://github.com/erigontech/erigon/pull/20880#pullrequestreview-4226234971) - 2026-05-05
+* [Pull Request] [execution/tests: enforce checkNonce/checkTransaction in state harness](https://github.com/erigontech/erigon/pull/21001) - 2026-05-05
+* [Review] [Review on: txnprovider/shutter: resolve flaky TestShutterBlockBuilding - pool stop race](https://github.com/erigontech/erigon/pull/20985#pullrequestreview-4228103361) - 2026-05-05
+* [Review] [Review on: docs: replace Quantify with Montserrat 800 in navbar title](https://github.com/erigontech/erigon/pull/20997#pullrequestreview-4228062546) - 2026-05-05
+* [Review] [Review on: docs: add LLM-friendly content export (llms.txt / llms-full.txt)](https://github.com/erigontech/erigon/pull/20993#pullrequestreview-4227386348) - 2026-05-05
+* [Pull Request] [txpool: recover queued txs misclassified by stale senders.info race](https://github.com/erigontech/erigon/pull/20996) - 2026-05-05
+* [Review] [Review on: docs: self-host brand fonts (remove Google Fonts / CDN)](https://github.com/erigontech/erigon/pull/20991#pullrequestreview-4227300947) - 2026-05-05
+* [Pull Request] [execution/protocol: validate logs bloom on pre-Byzantium blocks](https://github.com/erigontech/erigon/pull/20994) - 2026-05-05
+* [Review] [Review on: [r3.4] docs: mobile footer fix, SEO meta tags, and OG image](https://github.com/erigontech/erigon/pull/20978#pullrequestreview-4226631489) - 2026-05-05
+* [Review] [Review on: parallel commitment calculations implemented](https://github.com/erigontech/erigon/pull/20805#pullrequestreview-4226216114) - 2026-05-05
+* [Review] [Review on: execution, cl: persist initial-cycle lifecycle by block TTL](https://github.com/erigontech/erigon/pull/20895#pullrequestreview-4226303267) - 2026-05-05
+* [Issue] [txnprovider/shutter: re-establish dropped contract event subscriptions](https://github.com/erigontech/erigon/issues/20999) - 2026-05-05
+* [Issue] [txpool: deduplicate addTxns and addTxnsOnNewBlock](https://github.com/erigontech/erigon/issues/20998) - 2026-05-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
@@ -318,6 +333,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [clients/erigon: install iproute2 for ip command](https://github.com/ethereum/hive/pull/1445) - 2026-04-23
 * [Commit] [clients/erigon: install iproute2 for ip command (#1445)](https://github.com/ethereum/hive/commit/737a9a5a6b3a75d965fa33821c21e37327ec1a6c) - 2026-04-23
 * [Pull Request] [libhive: optional warm-daemon client pool](https://github.com/ethereum/hive/pull/1449) - 2026-04-25
+* [Pull Request] [simulators/ethereum/engine: bump PayloadProductionClientDelay 1s -> 2s](https://github.com/ethereum/hive/pull/1462) - 2026-05-05
 ## Q1 2026
 
 

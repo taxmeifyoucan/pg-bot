@@ -109,6 +109,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc/jsonrpc: use overridden fee values consistently in eth_estimateGas and eth_call](https://github.com/erigontech/erigon/pull/20949#pullrequestreview-4223529194) - 2026-05-04
 * [Review] [Review on: graphql: fix parameterized account fields and block logs](https://github.com/erigontech/erigon/pull/20539#pullrequestreview-4223364770) - 2026-05-04
 * [Commit] [QA: reduce perf load for some qps to avoid 503 (#20935)](https://github.com/erigontech/erigon/commit/6e84233d063eb2a50b643ac696a3fbfaf6a127f5) - 2026-05-04
+* [Review] [Review on: QA : extend test on eth_simulateV1 with test on historical and latest](https://github.com/erigontech/erigon/pull/20818#pullrequestreview-4231162231) - 2026-05-05
+* [Review] [Review on: rpc/jsonrpc: resolve block number before checkPruneHistory](https://github.com/erigontech/erigon/pull/20589#pullrequestreview-4231562306) - 2026-05-05
+* [Review] [Review on: rpc/jsonrpc: add eth_simulateV1 maxUsedGas tests](https://github.com/erigontech/erigon/pull/20946#pullrequestreview-4231532484) - 2026-05-05
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

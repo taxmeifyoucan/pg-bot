@@ -53,6 +53,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: fix: Revise dependency caching](https://github.com/NethermindEth/nethermind/pull/11444#pullrequestreview-4209435774) - 2026-05-01
 * [Review] [Review on: Fix: `/health` endpoint reports `ClUnavailable` after 5 minutes (1.37.x regression)](https://github.com/NethermindEth/nethermind/pull/11474#pullrequestreview-4216358738) - 2026-05-03
 * [Review] [Review on: healthcheck fix](https://github.com/NethermindEth/nethermind/pull/11482#pullrequestreview-4220850823) - 2026-05-04
+* [Pull Request] [Add workflow for project stability sync](https://github.com/NethermindEth/nethermind/pull/11500) - 2026-05-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

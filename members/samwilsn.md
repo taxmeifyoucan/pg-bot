@@ -48,6 +48,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(docs,ci): enable docs build and publishing for the `mainnet` branch](https://github.com/ethereum/execution-specs/pull/2775#pullrequestreview-4222598402) - 2026-05-04
 * [Review] [Review on: feat(tools): use Hardfork for fork module loading](https://github.com/ethereum/execution-specs/pull/2778#pullrequestreview-4221695665) - 2026-05-04
 * [Issue] [Add navigation between forks in the rendered documentation](https://github.com/ethereum/execution-specs/issues/2798) - 2026-05-04
+* [Pull Request] [chore(spec-tool): check bpo forks in linter](https://github.com/ethereum/execution-specs/pull/2803) - 2026-05-05
 ## Q1 2026
 
 

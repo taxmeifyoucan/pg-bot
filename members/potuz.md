@@ -33,6 +33,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Prevent expensive state replay when computing sync committees members for the current period](https://github.com/OffchainLabs/prysm/pull/16688#pullrequestreview-4129411346) - 2026-04-17
 * [Pull Request] [Fix Forkchoice panic](https://github.com/OffchainLabs/prysm/pull/16728) - 2026-04-28
 * [Review] [Review on: `getFCUArgs`: Add early return for forkchoice update arguments in non-regular sync.](https://github.com/OffchainLabs/prysm/pull/16721#pullrequestreview-4220509501) - 2026-05-04
+* [Review] [Review on: Drain pending blocks when payload envelope arrives](https://github.com/OffchainLabs/prysm/pull/16749#pullrequestreview-4230834771) - 2026-05-05
+* [Review] [Review on: Use head aware state for payload attestation processing](https://github.com/OffchainLabs/prysm/pull/16745#pullrequestreview-4228868421) - 2026-05-05
+* [Review] [Review on: Write `totalEffectiveBalance` in `balanceCache` eagerly in `ProcessEffectiveBalanceUpdates`.](https://github.com/OffchainLabs/prysm/pull/16738#pullrequestreview-4228130560) - 2026-05-05
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

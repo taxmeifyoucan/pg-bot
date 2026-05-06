@@ -113,6 +113,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Glamsterdam devnet 2](https://github.com/OffchainLabs/prysm/pull/16741) - 2026-05-01
 * [Pull Request] [Apply parent execution payload before building block](https://github.com/OffchainLabs/prysm/pull/16751) - 2026-05-02
 * [Pull Request] [Add `EffectiveBalanceAtIndex` and use it in PTC committee selection](https://github.com/OffchainLabs/prysm/pull/16753) - 2026-05-03
+* [Review] [Review on: Fix Forkchoice panic](https://github.com/OffchainLabs/prysm/pull/16728#pullrequestreview-4228768228) - 2026-05-05
+* [Commit] [Drain pending blocks when payload envelope arrives (#16749)](https://github.com/OffchainLabs/prysm/commit/192eb4983300e2db3ac922f976e3be8540d6ea99) - 2026-05-05
+* [Commit] [Add `EffectiveBalanceAtIndex` and use it in PTC committee selection (#16753)](https://github.com/OffchainLabs/prysm/commit/d19b6ed97df7914292bdbd33ca82578aa1a43ce4) - 2026-05-05
+* [Commit] [Disable retries for `PayloadAttestationData` and downgrade missed slot logs (#16743)](https://github.com/OffchainLabs/prysm/commit/ebbae4aa6fc0fd240511cd07065f2febfb4d75d7) - 2026-05-05
+* [Commit] [Use head aware state for payload attestation processing (#16745)](https://github.com/OffchainLabs/prysm/commit/4150f65fe41ca2bb7af761a0eff1b23843827b8f) - 2026-05-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

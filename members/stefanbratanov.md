@@ -60,6 +60,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Changes for v1.7.0-alpha.7](https://github.com/Consensys/teku/pull/10648) - 2026-04-30
 * [Review] [Review on: Fix decoder reuse after dispose in RPC response decoding](https://github.com/Consensys/teku/pull/10667#pullrequestreview-4211129821) - 2026-05-01
 * [Review] [Review on: Focil heze](https://github.com/Consensys/teku/pull/10666#pullrequestreview-4218953095) - 2026-05-04
+* [Review] [Review on: Focil heze](https://github.com/Consensys/teku/pull/10666#pullrequestreview-4226779021) - 2026-05-05
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

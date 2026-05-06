@@ -147,6 +147,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[performance] enforce block-snapshots cap inside aggregator collation](https://github.com/erigontech/erigon/pull/20966) - 2026-05-04
 * [Commit] [improve log messages for state collation cap (#20971)](https://github.com/erigontech/erigon/commit/43459eecef8fa1525baa4d8982f944af503266a5) - 2026-05-04
 * [Commit] [change block retire's "keep in db" value to MaxReorgDepth (#20964)](https://github.com/erigontech/erigon/commit/8935f7d63d283f2bf0866e0c8700b0c5089edd84) - 2026-05-04
+* [Issue] [hoodi gas mismatch](https://github.com/erigontech/erigon/issues/20995) - 2026-05-05
+* [Issue] [commitment rebuild sometimes gives state root mistmatch on disabled squeeze](https://github.com/erigontech/erigon/issues/20992) - 2026-05-05
 ## Q1 2026
 
 

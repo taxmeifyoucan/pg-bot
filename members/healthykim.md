@@ -32,6 +32,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: internal/era/onedb: return false if err](https://github.com/ethereum/go-ethereum/pull/34816#pullrequestreview-4210784047) - 2026-05-01
 * [Review] [Review on: core/txpool/blobpool: fix gapped queue size cap, add metrics](https://github.com/ethereum/go-ethereum/pull/34831#pullrequestreview-4214844535) - 2026-05-02
 * [Review] [Review on: eth/downloader: use batch index in deliver reconstruct](https://github.com/ethereum/go-ethereum/pull/34870#pullrequestreview-4222794801) - 2026-05-04
+* [Pull Request] [core: add BlobTxForPool type](https://github.com/ethereum/go-ethereum/pull/34882) - 2026-05-05
+* [Pull Request] [core, eth: implement eth71](https://github.com/ethereum/go-ethereum/pull/34879) - 2026-05-05
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
 ## Q1 2026

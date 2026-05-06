@@ -129,8 +129,16 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [bench(whir): head-to-head FRI vs WHIR PCS comparison across Poseidon1 / Poseidon2 / Blake3](https://github.com/Plonky3/Plonky3/pull/1607) - 2026-05-04
 * [Commit] [feat(interpolation): add arbitrary-point Lagrange interpolation trait (#1552)](https://github.com/Plonky3/Plonky3/commit/6aef7a74c5691b5b9ebcce8ee02dc50c3e010082) - 2026-05-04
 * [Commit] [test(keccak-air): add proptests for AIR constraints and trace generation (#1562)](https://github.com/Plonky3/Plonky3/commit/d72b79b21cf54c69e73f4d22b9f729a10186c023) - 2026-05-04
+* [Pull Request] [refactor(air): merge PeriodicAirBuilder into AirBuilder](https://github.com/Plonky3/Plonky3/pull/1611) - 2026-05-05
+* [Review] [Review on: perf(field): preserve packed ILP in batch_multiplicative_inverse for non-WIDTH-aligned inputs](https://github.com/Plonky3/Plonky3/pull/1608#pullrequestreview-4229572363) - 2026-05-05
+* [Review] [Review on: feat(field): add Field::mul_slices for elementwise slice multiplication](https://github.com/Plonky3/Plonky3/pull/1577#pullrequestreview-4229634043) - 2026-05-05
+* [Review] [Review on: perf(whir): delayed Montgomery reduction in sumcheck round-coefficient kernel](https://github.com/Plonky3/Plonky3/pull/1597#pullrequestreview-4229062111) - 2026-05-05
+* [Issue] [Refactor: merge PeriodicAirBuilder into AirBuilder for symbolic resolve](https://github.com/Plonky3/Plonky3/issues/1610) - 2026-05-05
+* [Commit] [feat: bus-based cross-AIR interactions and lookup crate redesign (#1566)](https://github.com/Plonky3/Plonky3/commit/a5c7c66db901c77dcbf29752d0a57622d024803c) - 2026-05-05
+* [Commit] [perf(whir): delayed Montgomery reduction in sumcheck round-coefficient kernel (#1597)](https://github.com/Plonky3/Plonky3/commit/478d2b476864c38c6ed120f3e6f3b44d9e64fc1d) - 2026-05-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
+* [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05
 ## Q1 2026
 
 

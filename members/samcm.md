@@ -14,13 +14,23 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Review] [Review on: consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805#pullrequestreview-4086653555) - 2026-04-10
 
+* [Pull Request] [cannon: add direct-to-clickhouse output sink](https://github.com/ethpandaops/xatu/pull/808) - 2026-05-05
+* [Commit] [Merge pull request #792 from ethpandaops/release/consumoor](https://github.com/ethpandaops/xatu/commit/cee7278dd9d69b99767dd5ac2c4d4d317848435e) - 2026-05-05
+* [Commit] [ci(smoke): probe vector-http-kafka via host port (busybox has no /dev/tcp)](https://github.com/ethpandaops/xatu/commit/fdb7f46ddb77d41a49ec43864d2e04a84974f06f) - 2026-05-05
+* [Commit] [Merge remote-tracking branch 'origin/master' into release/consumoor](https://github.com/ethpandaops/xatu/commit/ca8004c5950a48c95cdaa839f406794c681ef7eb) - 2026-05-05
+* [Commit] [ci(govulncheck): whitelist unfixable docker/docker server-side vulns](https://github.com/ethpandaops/xatu/commit/ce9dbf8510fb5fdcbbca9479ea756b44bb71190e) - 2026-05-05
+* [Commit] [ci: pick latest Go for govulncheck, wait for vector-http-kafka in smoke test](https://github.com/ethpandaops/xatu/commit/2d86ace38da2654250969dfbbbda3f947a43785c) - 2026-05-05
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23
 
 * [Pull Request] [fix(slot-detail): prefer canonical block when slot has competing fork](https://github.com/ethpandaops/lab/pull/434) - 2026-05-05
+* [Commit] [fix(slot-detail): prefer canonical block when slot has competing fork (#434)](https://github.com/ethpandaops/lab/commit/172fd23c17849c48f75eb8bdd5c3cb50c89db958) - 2026-05-05
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Review] [Review on: Add validation for validator start and end ranges](https://github.com/ethpandaops/template-devnets/pull/164#pullrequestreview-4193596946) - 2026-04-29
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Review] [Review on: feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167#pullrequestreview-4232485880) - 2026-05-06
 ## Q1 2026
 
 

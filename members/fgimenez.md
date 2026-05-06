@@ -21,6 +21,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)
 
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [docs(ee-tests): reference `eip8037.md` instead of stale `tip1016.md` in README](https://github.com/bluealloy/revm/pull/3648) - 2026-05-04
+* [Commit] [docs(ee-tests): reference `eip8037.md` instead of stale `tip1016.md` in README (#3648)](https://github.com/bluealloy/revm/commit/40f4cb62adfebd09d01b03f811372f700924ee92) - 2026-05-05
 ## Q1 2026
 
 

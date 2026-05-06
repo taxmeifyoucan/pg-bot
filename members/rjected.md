@@ -49,6 +49,8 @@ Team: Reth
 * [Pull Request] [fix: stop hive image loading from masking failures](https://github.com/paradigmxyz/reth/pull/23817) - 2026-04-29
 * [Pull Request] [fix: update snapshot CLI references for tempo](https://github.com/paradigmxyz/reth/pull/23953) - 2026-05-04
 * [Pull Request] [fix(engine): increase state root task timeout to 4s](https://github.com/paradigmxyz/reth/pull/23949) - 2026-05-04
+* [Pull Request] [fix(provider): add default rocksdb write buffer manager](https://github.com/paradigmxyz/reth/pull/24001) - 2026-05-05
+* [Commit] [fix(engine): increase state root task timeout to 4s (#23949)](https://github.com/paradigmxyz/reth/commit/83287322d5d15a7a72bd9419f3ee766f7ae1426a) - 2026-05-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
 ## Q1 2026
