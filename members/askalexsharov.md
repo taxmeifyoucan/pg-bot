@@ -459,6 +459,7 @@ Team: Erigon
 * [Issue] [small stepSize: "gap" warning](https://github.com/erigontech/erigon/issues/20967) - 2026-05-04
 * [Commit] [TotalMemory: calc once (#20960)](https://github.com/erigontech/erigon/commit/866f5f3d4d110fd119d7a1b64e22aeee966c3492) - 2026-05-04
 * [Commit] [commitment: remove WarmupCache.enabled atomic.Bool (#20959)](https://github.com/erigontech/erigon/commit/919cc829c8f6bd0d3e67e4b1d747451e7cbbb33e) - 2026-05-05
+* [Commit] [ci: skip sonar and claude-review for dependabot PRs (#20972)](https://github.com/erigontech/erigon/commit/0d361416d6cb2b2b61b06d430fd8ead266e5e418) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

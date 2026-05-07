@@ -76,6 +76,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: warmuper: cancelable worker](https://github.com/erigontech/erigon/pull/20941#pullrequestreview-4210714853) - 2026-05-01
 * [Pull Request] [execution: move enginextestrunner to execution/engineapi/engineapitester](https://github.com/erigontech/erigon/pull/20975) - 2026-05-04
 * [Commit] [execution: move enginextestrunner to execution/engineapi/engineapitester (#20975)](https://github.com/erigontech/erigon/commit/a133b6de0595db578b4693f301c6fe75e56ddcbb) - 2026-05-04
+* [Review] [Review on: execution/vm, test-fixtures: bump eest_benchmark to v0.0.9 + small EVM dispatch wins](https://github.com/erigontech/erigon/pull/21014#pullrequestreview-4240835685) - 2026-05-07
+* [Pull Request] [[r3.4] warmuper: blocking and more (#20819)](https://github.com/erigontech/erigon/pull/21022) - 2026-05-07
+* [Review] [Review on: test-fixtures: lazy-download manifest replaces eest-fixtures submodule](https://github.com/erigontech/erigon/pull/21002#pullrequestreview-4233060759) - 2026-05-06
+* [Pull Request] [shutter: revert AI slop](https://github.com/erigontech/erigon/pull/21005) - 2026-05-06
+* [Pull Request] [execution/execmodule: use last known finalised hash for fcu finalisedBlockNum](https://github.com/erigontech/erigon/pull/21007) - 2026-05-06
+* [Pull Request] [execution/engineapitester: refactor enginex and engineapitester to not depend on testing.TB](https://github.com/erigontech/erigon/pull/21006) - 2026-05-06
+* [Review] [Review on: execution/tests: enforce checkNonce/checkTransaction in state harness](https://github.com/erigontech/erigon/pull/21001#pullrequestreview-4234163440) - 2026-05-06
+* [Review] [Review on: execution/protocol: validate logs bloom on pre-Byzantium blocks](https://github.com/erigontech/erigon/pull/20994#pullrequestreview-4233289451) - 2026-05-06
+* [Commit] [shutter: revert AI slop (#21005)](https://github.com/erigontech/erigon/commit/795a3b825ac0246832b2f2650754246154885e79) - 2026-05-06
+* [Commit] [execution/execmodule: use last known finalised hash for fcu finalisedBlockNum (#21007)](https://github.com/erigontech/erigon/commit/85c5905c74229b0f3ed777b3ad9bb6f1c43876d7) - 2026-05-06
+* [Commit] [execution/engineapitester: refactor enginex and engineapitester to not depend on testing.TB (#21006)](https://github.com/erigontech/erigon/commit/01cf22e2b48d5285d7cf614866841d9ff23f70cf) - 2026-05-06
 ## Q1 2026
 
 

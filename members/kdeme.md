@@ -57,6 +57,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Stateless: more lenient witness.headers compare for eest](https://github.com/status-im/nimbus-eth1/pull/4193) - 2026-04-30
 * [Commit] [Stateless: more lenient witness.headers compare for eest (#4193)](https://github.com/status-im/nimbus-eth1/commit/856cc0b98473a40f349c9e47c1a3e1ec38bbbc23) - 2026-04-30
 * [Pull Request] [Add tracking of EIP-7702 delegation target in BAL on aborted calls](https://github.com/status-im/nimbus-eth1/pull/4210) - 2026-05-05
+* [Pull Request] [Update eest zkevm version to v0.3.4](https://github.com/status-im/nimbus-eth1/pull/4216) - 2026-05-06
+* [Commit] [Update eest zkevm version to v0.3.4 (#4216)](https://github.com/status-im/nimbus-eth1/commit/b983c8f8a8cf805d4ff4135139539eafcf82b613) - 2026-05-06
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

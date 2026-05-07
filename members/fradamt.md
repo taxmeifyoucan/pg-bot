@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q2 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Force the proposer to reorg unavailable blocks](https://github.com/ethereum/consensus-specs/pull/5186#pullrequestreview-4235405922) - 2026-05-06
 ## Q4 2025
 
 

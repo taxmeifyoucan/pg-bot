@@ -97,6 +97,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Fixes for RLP integers and bool decoding](https://github.com/NethermindEth/nethermind/pull/11479#pullrequestreview-4218888013) - 2026-05-04
 * [Commit] [Handle quick channel closing (#11428)](https://github.com/NethermindEth/nethermind/commit/93b3e3b20675ad1203889c1ec02e610a001ebde2) - 2026-05-04
 * [Review] [Review on: More RLP limits, sizes, and positions checks](https://github.com/NethermindEth/nethermind/pull/11488#pullrequestreview-4227241575) - 2026-05-05
+* [Review] [Review on: perf: report BloomFilter unmanaged allocation to GC](https://github.com/NethermindEth/nethermind/pull/11503#pullrequestreview-4235203235) - 2026-05-06
+* [Review] [Review on: RLP tx decoding fixes](https://github.com/NethermindEth/nethermind/pull/11496#pullrequestreview-4235235388) - 2026-05-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

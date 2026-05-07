@@ -60,6 +60,13 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: fix(test-benchmark): disable cache strats except NO_CACHE for now](https://github.com/ethereum/execution-specs/pull/2786#pullrequestreview-4204601981) - 2026-04-30
 * [Review] [Review on: feat(test-benchmark): storage initialization helper with 7702 authorization](https://github.com/ethereum/execution-specs/pull/2672#pullrequestreview-4210683095) - 2026-05-01
 * [Pull Request] [experiment: bal benchmark with eip-8037](https://github.com/ethereum/execution-specs/pull/2791) - 2026-05-01
+* [Review] [Review on: refactor(test-benchmark): support 8037 for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2787#pullrequestreview-4237111762) - 2026-05-06
+* [Pull Request] [chore(test-benchmark): re-enable `blockhash` benchmark](https://github.com/ethereum/execution-specs/pull/2809) - 2026-05-06
+* [Review] [Review on: refactor(tests): parametrize `max_code_size` for EIP-3860 & 1153](https://github.com/ethereum/execution-specs/pull/2780#pullrequestreview-4233344762) - 2026-05-06
+* [Pull Request] [experiment(test-benchmark): check blockhash opcode speed.](https://github.com/ethereum/execution-specs/pull/2808) - 2026-05-06
+* [Issue] [Backport benchmark changes from `devnets/bal/3` to the latest `devnet/main` branch.](https://github.com/ethereum/execution-specs/issues/2807) - 2026-05-06
+* [Commit] [chore(test-benchmark): re-enable `blockhash` benchmark (#2809)](https://github.com/ethereum/execution-specs/commit/5cdb055e069e246a877c8aa018079eb0b9093f57) - 2026-05-06
+* [Commit] [feat(test-benchmark): storage initialization helper with 7702 authorization (#2672)](https://github.com/ethereum/execution-specs/commit/63b589ec776c30eafc500c02f7a4489202959fbb) - 2026-05-06
 ## Q1 2026
 
 

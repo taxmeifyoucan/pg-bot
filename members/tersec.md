@@ -98,6 +98,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add batch putting of data column sidecars](https://github.com/status-im/nimbus-eth2/pull/8336#pullrequestreview-4223501513) - 2026-05-04
 * [Review] [Review on: Fix Validator Custody issues.](https://github.com/status-im/nimbus-eth2/pull/8404#pullrequestreview-4232080863) - 2026-05-05
 * [Pull Request] [improve KZG performance by precomputation](https://github.com/status-im/nimbus-eth2/pull/8405) - 2026-05-05
+* [Review] [Review on: add partial data column quarantine for partial column gossip management, add tests for the same](https://github.com/status-im/nimbus-eth2/pull/8410#pullrequestreview-4239302111) - 2026-05-06
+* [Review] [Review on: fix payload signature verification in execution payload gossip validation](https://github.com/status-im/nimbus-eth2/pull/8388#pullrequestreview-4236264362) - 2026-05-06
+* [Review] [Review on: Implement  /eth/v1/beacon/execution_payload_bid REST endpoint (POST)](https://github.com/status-im/nimbus-eth2/pull/8385#pullrequestreview-4235348942) - 2026-05-06
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

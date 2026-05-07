@@ -138,6 +138,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(bal): zero-alloc dict-lookup ValidateBlockAccessList](https://github.com/NethermindEth/nethermind/pull/11448) - 2026-05-01
 * [Review] [Review on: perf(bal): zero-alloc dict-lookup ValidateBlockAccessList](https://github.com/NethermindEth/nethermind/pull/11448#pullrequestreview-4210963797) - 2026-05-01
 * [Review] [Review on: Fixes for RLP integers and bool decoding](https://github.com/NethermindEth/nethermind/pull/11479#pullrequestreview-4219529719) - 2026-05-04
+* [Pull Request] [chore: Update dependencies](https://github.com/NethermindEth/nethermind/pull/11512) - 2026-05-06
+* [Review] [Review on: Improve eth/70 checks](https://github.com/NethermindEth/nethermind/pull/11456#pullrequestreview-4234920024) - 2026-05-06
+* [Review] [Review on: feat(zkevm): Enable BAL in stateless execution](https://github.com/NethermindEth/nethermind/pull/11505#pullrequestreview-4235361629) - 2026-05-06
+* [Commit] [chore: Update dependencies (#11512)](https://github.com/NethermindEth/nethermind/commit/f1fd673b01ab2ecbfda9fe5f374c41c74ee3e0ec) - 2026-05-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

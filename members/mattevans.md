@@ -24,6 +24,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(local): add docker container log collection to ch](https://github.com/ethpandaops/xatu/commit/40b95b73ea35ab8ccbd57085184c3d2aad8440a5) - 2026-04-09
 
 * [Review] [Review on: cannon: add direct-to-clickhouse output sink](https://github.com/ethpandaops/xatu/pull/808#pullrequestreview-4231643520) - 2026-05-05
+* [Review] [Review on: fix(kafka): exporter size check should use MaxMessageBytes, not FlushBytes](https://github.com/ethpandaops/xatu/pull/810#pullrequestreview-4234628925) - 2026-05-06
+* [Review] [Review on: fix(kafka): make Producer.MaxMessageBytes configurable](https://github.com/ethpandaops/xatu/pull/809#pullrequestreview-4234127907) - 2026-05-06
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Review] [Review on: feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433#pullrequestreview-4166900256) - 2026-04-23
 

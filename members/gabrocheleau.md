@@ -27,6 +27,8 @@ Team: EthereumJS
 * [Review] [Review on: Implement EIP-7981: Increase Access List Cost](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4282#pullrequestreview-4217268333) - 2026-05-04
 * [Pull Request] [chore: point dev fixtures to snobal-devnet-6@v1.1.0](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4284) - 2026-05-05
 * [Commit] [chore: point dev fixtures to snobal-devnet-6@v1.1.0 (#4284)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/4479713bad20a710bbb803058084042426ae7414) - 2026-05-05
+* [Pull Request] [feat: EIP-8037 frame-revert refund + CREATE/CALL state-gas (continuation)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4286) - 2026-05-06
+* [Pull Request] [feat: EIP-8037 (State Creation Gas Cost Increase) — scaffolding + partial implementation](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4285) - 2026-05-06
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 ## Q1 2026

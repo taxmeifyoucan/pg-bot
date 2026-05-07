@@ -190,6 +190,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: remove gloas genesis workarounds (#9308)](https://github.com/ChainSafe/lodestar/commit/3bcc6d0ad5c290a811a8ecf8a277603629014653) - 2026-04-30
 * [Review] [Review on: fix: prune PayloadEnvelopeInput on the same branch](https://github.com/ChainSafe/lodestar/pull/9317#pullrequestreview-4212536984) - 2026-05-01
 * [Review] [Review on: feat: add gossip bid selection to block production](https://github.com/ChainSafe/lodestar/pull/9289#pullrequestreview-4210687792) - 2026-05-01
+* [Review] [Review on: fix(cli): skip backtick code spans in docs sanitizer](https://github.com/ChainSafe/lodestar/pull/9334#pullrequestreview-4238108064) - 2026-05-06
+* [Pull Request] [fix: include latest payload bid in gloas genesis block](https://github.com/ChainSafe/lodestar/pull/9336) - 2026-05-06
+* [Review] [Review on: fix: include latest payload bid in gloas genesis block](https://github.com/ChainSafe/lodestar/pull/9336#pullrequestreview-4239110043) - 2026-05-06
+* [Review] [Review on: docs: clarify --serveHistoricalState and --chain.pruneHistory help text](https://github.com/ChainSafe/lodestar/pull/9328#pullrequestreview-4234891681) - 2026-05-06
+* [Commit] [fix: include latest payload bid in gloas genesis block (#9336)](https://github.com/ChainSafe/lodestar/commit/657dd16e6151c7e9927e7df33ee9f34f0052af13) - 2026-05-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

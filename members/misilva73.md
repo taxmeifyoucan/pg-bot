@@ -33,6 +33,9 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Pull Request] [Update EIP-8037: fixed CPSB + frame accounting](https://github.com/ethereum/EIPs/pull/11573) - 2026-04-27
 * [Review] [Review on: Update EIP-8037: fixed CPSB + frame accounting](https://github.com/ethereum/EIPs/pull/11573#pullrequestreview-4188526403) - 2026-04-28
 * [Commit] [Update EIP-8037: fixed CPSB + frame accounting](https://github.com/ethereum/EIPs/commit/80c580b2ad323eb2797058801467b160ae2d5968) - 2026-05-04
+* [Pull Request] [Update EIP-8037: Fix bugs from bal-devnet-6](https://github.com/ethereum/EIPs/pull/11611) - 2026-05-06
+* [Pull Request] [Update EIP-8037: Clarify SELFDESTRUCT charges](https://github.com/ethereum/EIPs/pull/11606) - 2026-05-06
+* [Commit] [Update EIP-8037: Clarify SELFDESTRUCT charges](https://github.com/ethereum/EIPs/commit/1d1e455c9e43b1e400b58b5475eac8a636f83555) - 2026-05-06
 ## Q1 2026
 
 

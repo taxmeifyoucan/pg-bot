@@ -83,6 +83,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Simplify `apply_parent_execution_payload` function signature](https://github.com/ethereum/consensus-specs/pull/5150#pullrequestreview-4162276057) - 2026-04-23
 * [Issue] [Check `is_genesis_block` in `process_parent_execution_payload` is dead code](https://github.com/ethereum/consensus-specs/issues/5149) - 2026-04-23
 * [Issue] [Why does `apply_parent_execution_payload` take the `parent_bid` as an argument?](https://github.com/ethereum/consensus-specs/issues/5148) - 2026-04-23
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756) - 2026-05-06
+* [Review] [Review on: Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756#pullrequestreview-4232967261) - 2026-05-06
 ## Q1 2026
 
 

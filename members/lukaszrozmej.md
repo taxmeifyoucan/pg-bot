@@ -321,6 +321,19 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: RPC: `admin_*` peer-management endpoints improvements](https://github.com/NethermindEth/nethermind/pull/11489#pullrequestreview-4227218030) - 2026-05-05
 * [Review] [Review on: More RLP limits, sizes, and positions checks](https://github.com/NethermindEth/nethermind/pull/11488#pullrequestreview-4225020354) - 2026-05-05
 * [Commit] [test: bump TestBlockchain.DefaultTimeout 10s -> 30s (#11486)](https://github.com/NethermindEth/nethermind/commit/1ce5d3101f08e3a1b22ecb89ef6ee8e01ea1356a) - 2026-05-05
+* [Review] [Review on: Minor fixes from AI audit](https://github.com/NethermindEth/nethermind/pull/11406#pullrequestreview-4234782375) - 2026-05-06
+* [Review] [Review on: fixed half-empty trace result](https://github.com/NethermindEth/nethermind/pull/11466#pullrequestreview-4234863834) - 2026-05-06
+* [Review] [Review on: feat: add `proof_getProofWithMeta` JSON-RPC method](https://github.com/NethermindEth/nethermind/pull/11498#pullrequestreview-4236496515) - 2026-05-06
+* [Review] [Review on: Improve eth/70 checks](https://github.com/NethermindEth/nethermind/pull/11456#pullrequestreview-4234977858) - 2026-05-06
+* [Review] [Review on: fix(ReceiptForRpc): omit non-spec `error` field from receipt JSON-RPC responses](https://github.com/NethermindEth/nethermind/pull/11454#pullrequestreview-4236262389) - 2026-05-06
+* [Review] [Review on: fix: stack overflow in debug_trace](https://github.com/NethermindEth/nethermind/pull/11487#pullrequestreview-4234751731) - 2026-05-06
+* [Review] [Review on: perf: report BloomFilter unmanaged allocation to GC](https://github.com/NethermindEth/nethermind/pull/11503#pullrequestreview-4233749751) - 2026-05-06
+* [Review] [Review on: RLP tx decoding fixes](https://github.com/NethermindEth/nethermind/pull/11496#pullrequestreview-4235436993) - 2026-05-06
+* [Review] [Review on: feat(zkevm): Enable BAL in stateless execution](https://github.com/NethermindEth/nethermind/pull/11505#pullrequestreview-4235014722) - 2026-05-06
+* [Review] [Review on: Add NETH004: enforce RunContinuationsAsynchronously on TaskCompletionSource](https://github.com/NethermindEth/nethermind/pull/11465#pullrequestreview-4235020461) - 2026-05-06
+* [Review] [Review on: feat(zkevm): Migrate to zkVM standards](https://github.com/NethermindEth/nethermind/pull/11481#pullrequestreview-4233346802) - 2026-05-06
+* [Review] [Review on: fix: Fix dependency caching](https://github.com/NethermindEth/nethermind/pull/11499#pullrequestreview-4233755001) - 2026-05-06
+* [Review] [Review on: Bump up the version to 1.39.0-unstable](https://github.com/NethermindEth/nethermind/pull/11502#pullrequestreview-4233751926) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

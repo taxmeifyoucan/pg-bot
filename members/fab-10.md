@@ -66,6 +66,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: update 8037 implementation to meter state gas only on the frame end](https://github.com/besu-eth/besu/pull/10358#pullrequestreview-4194882106) - 2026-04-29
 * [Review] [Review on: Add EIP-7981 to Amsterdam](https://github.com/besu-eth/besu/pull/10388#pullrequestreview-4210926074) - 2026-05-01
 * [Review] [Review on: Add txsSelectionHighScore metric for per-included-tx selection time](https://github.com/besu-eth/besu/pull/10265#pullrequestreview-4227188327) - 2026-05-05
+* [Review] [Review on: fix: update dependencies to fix CVEs](https://github.com/besu-eth/besu/pull/10420#pullrequestreview-4234680753) - 2026-05-06
+* [Pull Request] [WIP: engine API refactor](https://github.com/besu-eth/besu/pull/10428) - 2026-05-06
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

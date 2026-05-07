@@ -45,6 +45,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: ethclient: add maxUsedGas to simulate call results](https://github.com/ethereum/go-ethereum/pull/34820#pullrequestreview-4212648427) - 2026-05-01
 * [Review] [Review on: eth/tracers: fix evm trace for t8n](https://github.com/ethereum/go-ethereum/pull/34862#pullrequestreview-4211400948) - 2026-05-01
 * [Review] [Review on: eth/tracers: forward V2 state hooks through mux tracer](https://github.com/ethereum/go-ethereum/pull/34869#pullrequestreview-4222901677) - 2026-05-04
+* [Pull Request] [.gitea: cross-compile windows on release](https://github.com/ethereum/go-ethereum/pull/34889) - 2026-05-06
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20

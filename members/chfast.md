@@ -100,6 +100,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [state: Refactor tx intrinsic gas cost computation (#1523)](https://github.com/ipsilon/evmone/commit/3f4bcaeaf144c59fe93de8f1b21dff7368cafa0c) - 2026-05-05
 * [Commit] [build: Upgrade google/benchmark to v1.9.5 (#1522)](https://github.com/ipsilon/evmone/commit/e927aac1d2274af8e9ddce695768b5d5b163b574) - 2026-05-05
 * [Commit] [build,ci: Enable _LIBCPP_REMOVE_TRANSITIVE_INCLUDES for libc++ (#1521)](https://github.com/ipsilon/evmone/commit/6f2e4fc14e5ef08613dd8b1f113a9588cd4948d1) - 2026-05-05
+* [Pull Request] [Implement EIP-7778: Block Gas Accounting without Refunds](https://github.com/ipsilon/evmone/pull/1526) - 2026-05-06
+* [Pull Request] [build: Add PCH for evmone-unittests](https://github.com/ipsilon/evmone/pull/1525) - 2026-05-06
+* [Commit] [build: Add PCH for evmone-unittests (#1525)](https://github.com/ipsilon/evmone/commit/a8fc92cdb432e32ad571655b09f8968f31d82daa) - 2026-05-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -121,6 +124,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [Update EIP-7981: Simplify spec](https://github.com/ethereum/EIPs/pull/11600) - 2026-05-04
 * [Review] [Review on: Update EIP-7981: Simplify spec](https://github.com/ethereum/EIPs/pull/11600#pullrequestreview-4226327986) - 2026-05-05
 * [Commit] [Update EIP-7981: Simplify spec](https://github.com/ethereum/EIPs/commit/71d3353c3f6776485539fe2ec526b7cc80780bfc) - 2026-05-05
+* [Commit] [Add EIP-8246: Remove SELFDESTRUCT Burn (#11590)](https://github.com/ethereum/EIPs/commit/630c3420dacd31a90ce702b76092f4c9f085d4d4) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4138243461) - 2026-04-20
 

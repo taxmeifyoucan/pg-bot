@@ -44,6 +44,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: glamsterdam-devnet-0 changes](https://github.com/Consensys/teku/pull/10626#pullrequestreview-4195483197) - 2026-04-29
 * [Issue] [Move `onExecutionPayloadEnvelope` out from ForkChoice, not longer belongs to](https://github.com/Consensys/teku/issues/10636) - 2026-04-29
 * [Pull Request] [Glamsterdam devnet 2](https://github.com/Consensys/teku/pull/10654) - 2026-04-30
+* [Review] [Review on: v1.7.0 alpha.7 changes](https://github.com/Consensys/teku/pull/10673#pullrequestreview-4236250245) - 2026-05-06
+* [Pull Request] [Add all networking reference tests. Some are ignored because test fixtures are broken](https://github.com/Consensys/teku/pull/10677) - 2026-05-06
+* [Review] [Review on: Add all networking reference tests. Some are ignored because test fixtures are broken](https://github.com/Consensys/teku/pull/10677#pullrequestreview-4236686183) - 2026-05-06
+* [Review] [Review on: Skip redundant chain head updates](https://github.com/Consensys/teku/pull/10675#pullrequestreview-4236095794) - 2026-05-06
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

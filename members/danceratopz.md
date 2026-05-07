@@ -89,6 +89,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(tests) fix ported quadratic complexity tests (#2784)](https://github.com/ethereum/execution-specs/commit/e4c43d6d02be6222af45edb06326203eacc9f032) - 2026-04-30
 * [Pull Request] [fix(consume): better xdist detection for consume](https://github.com/ethereum/execution-specs/pull/2793) - 2026-05-01
 * [Review] [Review on: feat(docs,ci): enable docs build and publishing for the `mainnet` branch](https://github.com/ethereum/execution-specs/pull/2775#pullrequestreview-4226002378) - 2026-05-05
+* [Review] [Review on: feat(docs,ci): enable docs build and publishing for the `mainnet` branch](https://github.com/ethereum/execution-specs/pull/2775#pullrequestreview-4234171131) - 2026-05-06
+* [Pull Request] [chore(doc): remove unmaintained `docs/CHANGELOG`](https://github.com/ethereum/execution-specs/pull/2810) - 2026-05-06
+* [Review] [Review on: chore(test-benchmark): re-enable `blockhash` benchmark](https://github.com/ethereum/execution-specs/pull/2809#pullrequestreview-4234141481) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 
@@ -98,6 +101,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add missing 7708 log costs](https://github.com/ethereum/EIPs/pull/11586) - 2026-04-30
 
+* [Review] [Review on: Update EIP-7723: update SFI definition based on ACDT#74](https://github.com/ethereum/EIPs/pull/11475#pullrequestreview-4235751199) - 2026-05-06
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: clients/ethrex: import block files individually](https://github.com/ethereum/hive/pull/1461#pullrequestreview-4226428886) - 2026-05-05
 ## Q1 2026

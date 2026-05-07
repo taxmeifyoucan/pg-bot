@@ -66,6 +66,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Optimistic Inclusion (OI) of Amsterdam EIPs For Simpler Releases](https://github.com/ethereum/execution-specs/issues/2744) - 2026-04-22
 * [Pull Request] [feat(specs): EIP-8037 state-delta counter (frame-diff alternative) [DRAFT]](https://github.com/ethereum/execution-specs/pull/2765) - 2026-04-27
 * [Review] [Review on: refactor(test-benchmark): increase auth tx gas limit for storage benchmark](https://github.com/ethereum/execution-specs/pull/2771#pullrequestreview-4196171314) - 2026-04-29
+* [Pull Request] [feat(spec-specs, tests): EIP-8037 halt refunds spilled state gas](https://github.com/ethereum/execution-specs/pull/2815) - 2026-05-06
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

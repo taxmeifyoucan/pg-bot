@@ -24,6 +24,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add batch putting of data column sidecars](https://github.com/status-im/nimbus-eth2/pull/8336) - 2026-04-25
 * [Pull Request] [add slot number to getBlobs logs](https://github.com/status-im/nimbus-eth2/pull/8356) - 2026-04-28
 * [Pull Request] [catch the first column gossip addition event for getBlobs](https://github.com/status-im/nimbus-eth2/pull/8393) - 2026-05-04
+* [Pull Request] [add partial data column quarantine for partial column gossip management, add tests for the same](https://github.com/status-im/nimbus-eth2/pull/8410) - 2026-05-06
+* [Pull Request] [add some updated specs and helpers, flag for Partial Messages](https://github.com/status-im/nimbus-eth2/pull/8409) - 2026-05-06
 ## Q1 2026
 
 

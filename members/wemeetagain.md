@@ -21,6 +21,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(deps): update hashtree and blst.zig](https://github.com/ChainSafe/lodestar-z/pull/326#pullrequestreview-4172325173) - 2026-04-24
 * [Review] [Review on: chore: upgrade to Zig 0.16](https://github.com/ChainSafe/lodestar-z/pull/319#pullrequestreview-4171617205) - 2026-04-24
 * [Review] [Review on: chore: move state clones out of benchmark run functions](https://github.com/ChainSafe/lodestar-z/pull/324#pullrequestreview-4192200160) - 2026-04-28
+* [Review] [Review on: feat: add clock module for slot/epoch timing (Zig 0.16)](https://github.com/ChainSafe/lodestar-z/pull/301#pullrequestreview-4239374120) - 2026-05-06
+* [Review] [Review on: feat: bindings to `getExpectedWithdrawals` and native tweaks](https://github.com/ChainSafe/lodestar-z/pull/350#pullrequestreview-4238031459) - 2026-05-06
+* [Review] [Review on: feat: migrate blst,pubkeys to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/331#pullrequestreview-4239298136) - 2026-05-06
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -60,6 +63,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [increase slot observability for 6 second slots](https://github.com/ChainSafe/lodestar/issues/9321) - 2026-05-01
 * [Pull Request] [fix: only trigger gloas blobs tracker in gossip](https://github.com/ChainSafe/lodestar/pull/9322) - 2026-05-02
 * [Commit] [fix: only trigger gloas blobs tracker in gossip (#9322)](https://github.com/ChainSafe/lodestar/commit/374360e50a5de058b777a94d041089f9999d0726) - 2026-05-04
+* [Review] [Review on: fix: checkpoint sync for skipped slot](https://github.com/ChainSafe/lodestar/pull/9329#pullrequestreview-4238959867) - 2026-05-06
+* [Review] [Review on: fix: include latest payload bid in gloas genesis block](https://github.com/ChainSafe/lodestar/pull/9336#pullrequestreview-4239182838) - 2026-05-06
+* [Pull Request] [feat: better self-rate-limit handling](https://github.com/ChainSafe/lodestar/pull/9335) - 2026-05-06
+* [Pull Request] [feat: add beacon_blocks_by_head reqresp](https://github.com/ChainSafe/lodestar/pull/9331) - 2026-05-06
+* [Review] [Review on: feat: add beacon_blocks_by_head reqresp](https://github.com/ChainSafe/lodestar/pull/9331#pullrequestreview-4235818143) - 2026-05-06
+* [Commit] [feat(reqresp): track peer rate-limit backoff in SelfRateLimiter (#9034)](https://github.com/ChainSafe/lodestar/commit/12d35509c02e460c7d9a1eaeb26efa06aa2a942f) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

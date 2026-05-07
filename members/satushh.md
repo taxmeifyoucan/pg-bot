@@ -38,6 +38,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [db: prune execution payload envelopes during historical data deletion](https://github.com/OffchainLabs/prysm/pull/16742) - 2026-05-01
 * [Review] [Review on: Drain pending blocks when payload envelope arrives](https://github.com/OffchainLabs/prysm/pull/16749#pullrequestreview-4227784451) - 2026-05-05
 * [Review] [Review on: Disable retries for `PayloadAttestationData` and downgrade missed slot logs](https://github.com/OffchainLabs/prysm/pull/16743#pullrequestreview-4228741837) - 2026-05-05
+* [Review] [Review on: Re-broadcast pending payload envelopes after processing](https://github.com/OffchainLabs/prysm/pull/16747#pullrequestreview-4236298332) - 2026-05-06
+* [Review] [Review on: implements ptc beacon apis](https://github.com/OffchainLabs/prysm/pull/16306#pullrequestreview-4235989530) - 2026-05-06
+* [Commit] [Cache empty execution requests root (#16725)](https://github.com/OffchainLabs/prysm/commit/4d407084131f583f97a4c32637076a2ced55e472) - 2026-05-06
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

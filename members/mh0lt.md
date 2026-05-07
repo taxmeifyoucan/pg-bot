@@ -124,6 +124,13 @@ Team: Erigon
 * [Commit] [p2p/sentry, node/eth: EIP-8159 eth/71 BAL fetcher + background downloader (PR 3/3) (#20795)](https://github.com/erigontech/erigon/commit/2d73b3dcd5216b5d228eabcc91a657f6a5025f5b) - 2026-05-04
 * [Pull Request] [[bal-devnet-3] rpc/jsonrpc, cmd: tooling used to find the eth/71 dispatch bug (#20893)](https://github.com/erigontech/erigon/pull/21003) - 2026-05-05
 * [Commit] [parallel commitment calculations implemented (#20805)](https://github.com/erigontech/erigon/commit/b72aa7b4f7e3ea209f54c09c5d9b07cd5715ca43) - 2026-05-05
+* [Review] [Review on: snapshot-flow: trust + validation + producer-gate scaffolding (low-risk preparation)](https://github.com/erigontech/erigon/pull/20933#pullrequestreview-4238894672) - 2026-05-06
+* [Pull Request] [ci: matrix-test serial vs parallel exec across the test workflows](https://github.com/erigontech/erigon/pull/21017) - 2026-05-06
+* [Pull Request] [[bal-devnet-3] cmd, dbg: add --exec.no-background-maintenance flag (#20977)](https://github.com/erigontech/erigon/pull/21015) - 2026-05-06
+* [Pull Request] [stagedsync: fix commitmentCalculator asOfReader.txNum=0 lazy-load on snapshot-loaded chains](https://github.com/erigontech/erigon/pull/21010) - 2026-05-06
+* [Review] [Review on: execution/execmodule: use last known finalised hash for fcu finalisedBlockNum](https://github.com/erigontech/erigon/pull/21007#pullrequestreview-4234438543) - 2026-05-06
+* [Review] [Review on: execution/engineapitester: refactor enginex and engineapitester to not depend on testing.TB](https://github.com/erigontech/erigon/pull/21006#pullrequestreview-4234414937) - 2026-05-06
+* [Commit] [cmd, dbg: add --exec.no-background-maintenance flag for focused perf testing (#20977)](https://github.com/erigontech/erigon/commit/6c23cd54e6d61de506bb29292f942bd221bb1d6e) - 2026-05-06
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

@@ -299,6 +299,17 @@ Team: Reth
 * [Review] [Review on: feat(debug-client): pass execution data from providers](https://github.com/paradigmxyz/reth/pull/23969#pullrequestreview-4225867454) - 2026-05-05
 * [Review] [Review on: chore: refactor parbal](https://github.com/paradigmxyz/reth/pull/23979#pullrequestreview-4226700615) - 2026-05-05
 * [Commit] [fix(rpc): relax forkchoice update error match (#23941)](https://github.com/paradigmxyz/reth/commit/1497ee78aaf9f2807f234433f7e106caac14a845) - 2026-05-05
+* [Review] [Review on: feat(node, db-common): add --debug.skip-genesis-validation](https://github.com/paradigmxyz/reth/pull/23919#pullrequestreview-4236552096) - 2026-05-06
+* [Review] [Review on: chore: add eth72 version](https://github.com/paradigmxyz/reth/pull/24012#pullrequestreview-4236126789) - 2026-05-06
+* [Review] [Review on: fix(provider): add default rocksdb write buffer manager](https://github.com/paradigmxyz/reth/pull/24001#pullrequestreview-4233584550) - 2026-05-06
+* [Pull Request] [fix(discv5): advertise configured NAT IP in ENR](https://github.com/paradigmxyz/reth/pull/24013) - 2026-05-06
+* [Review] [Review on: feat(debug-client): support block access list payload conversion](https://github.com/paradigmxyz/reth/pull/23989#pullrequestreview-4235012624) - 2026-05-06
+* [Review] [Review on: fix(discv5): propagate `--nat extip:<IP>` to the local ENR](https://github.com/paradigmxyz/reth/pull/23755#pullrequestreview-4236331175) - 2026-05-06
+* [Review] [Review on: feat(rpc): add balstore retention cache arg](https://github.com/paradigmxyz/reth/pull/24002#pullrequestreview-4234590157) - 2026-05-06
+* [Review] [Review on: refactor(storage): add decoded BAL lookup](https://github.com/paradigmxyz/reth/pull/23998#pullrequestreview-4234603268) - 2026-05-06
+* [Pull Request] [feat(storage): add disk BAL store](https://github.com/paradigmxyz/reth/pull/24008) - 2026-05-06
+* [Review] [Review on: deps: bump libmdbx to v0.13.12](https://github.com/paradigmxyz/reth/pull/24007#pullrequestreview-4235190352) - 2026-05-06
+* [Commit] [fix(discv5): advertise configured NAT IP in ENR (#24013)](https://github.com/paradigmxyz/reth/commit/5acc992ebfc7f6db10a1dd35f2fc317c91db7a8c) - 2026-05-06
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

@@ -73,6 +73,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix: param order in BeaconBlockBody](https://github.com/ChainSafe/lodestar-z/pull/348) - 2026-05-05
 * [Commit] [refactor: make XXXDecisionRoot fns return `js.String` (#342)](https://github.com/ChainSafe/lodestar-z/commit/aef44205b31dd48916c43cc3d47b918434e4901d) - 2026-05-05
 * [Commit] [fix: param order in BeaconBlockBody (#348)](https://github.com/ChainSafe/lodestar-z/commit/d8b9c06992d479c278d046813e398301c5a67c47) - 2026-05-05
+* [Pull Request] [feat: bindings to `getExpectedWithdrawals` and native tweaks](https://github.com/ChainSafe/lodestar-z/pull/350) - 2026-05-06
+* [Review] [Review on: feat: bindings to `getExpectedWithdrawals` and native tweaks](https://github.com/ChainSafe/lodestar-z/pull/350#pullrequestreview-4233008516) - 2026-05-06
+* [Pull Request] [feat: support native loadState](https://github.com/ChainSafe/lodestar-z/pull/351) - 2026-05-06
+* [Commit] [feat: bindings to `getExpectedWithdrawals` and native tweaks (#350)](https://github.com/ChainSafe/lodestar-z/commit/f47bc66eb882a052cfbe0606c11507fae0dadc83) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

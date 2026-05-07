@@ -41,6 +41,21 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [proposed adjustments to release process](https://github.com/besu-eth/besu/pull/10411) - 2026-05-04
 * [Review] [Review on: proposed adjustments to release process](https://github.com/besu-eth/besu/pull/10411#pullrequestreview-4222817824) - 2026-05-04
 * [Pull Request] [Agentic PR guidance for Contributors](https://github.com/besu-eth/besu/pull/10414) - 2026-05-04
+* [Review] [Review on: proposed adjustments to release process](https://github.com/besu-eth/besu/pull/10411#pullrequestreview-4237401787) - 2026-05-06
+* [Issue] [Java 25 upgrade: build configuration](https://github.com/besu-eth/besu/issues/10435) - 2026-05-06
+* [Issue] [Migrate Besu to JSpecify + NullAway across all production modules](https://github.com/besu-eth/besu/issues/10440) - 2026-05-06
+* [Issue] [JSpecify migration — Phase 5: large modules (ethereum/p2p, app)](https://github.com/besu-eth/besu/issues/10445) - 2026-05-06
+* [Issue] [JSpecify migration — Phase 4: consensus and medium modules](https://github.com/besu-eth/besu/issues/10444) - 2026-05-06
+* [Issue] [JSpecify migration — Phase 3: datatypes and plugin-api (public API surface)](https://github.com/besu-eth/besu/issues/10443) - 2026-05-06
+* [Issue] [JSpecify migration — Phase 2: small leaf modules](https://github.com/besu-eth/besu/issues/10442) - 2026-05-06
+* [Issue] [JSpecify migration — Phase 1: switch-flip on modules already using JSpecify](https://github.com/besu-eth/besu/issues/10441) - 2026-05-06
+* [Issue] [Java 25 upgrade: documentation / release](https://github.com/besu-eth/besu/issues/10439) - 2026-05-06
+* [Issue] [Java 25 upgrade: dependency / tooling compatibility](https://github.com/besu-eth/besu/issues/10438) - 2026-05-06
+* [Issue] [Java 25 upgrade: Docker](https://github.com/besu-eth/besu/issues/10437) - 2026-05-06
+* [Issue] [Java 25 upgrade: CI/CD](https://github.com/besu-eth/besu/issues/10436) - 2026-05-06
+* [Issue] [Upgrade Java baseline from 21 to 25](https://github.com/besu-eth/besu/issues/10434) - 2026-05-06
+* [Issue] [2026-05-12 Contributor Call](https://github.com/besu-eth/besu/issues/10433) - 2026-05-06
+* [Commit] [proposed adjustments to release process (#10411)](https://github.com/besu-eth/besu/commit/f027e9a7a99a2b91976e604e533517a64a836045) - 2026-05-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 ## Q1 2026

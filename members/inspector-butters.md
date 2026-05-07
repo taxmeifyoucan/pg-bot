@@ -29,6 +29,9 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [statediff logs cleanup (#16715)](https://github.com/OffchainLabs/prysm/commit/ff625554ad8bc66c758fb464c961085495f791f3) - 2026-04-30
 * [Commit] [remove saving states to hotStateDB in stateDiff mode (#16739)](https://github.com/OffchainLabs/prysm/commit/61031fdcb9df0bc34343784b282439a371c4ac29) - 2026-05-01
 * [Review] [Review on: Add `EffectiveBalanceAtIndex` and use it in PTC committee selection](https://github.com/OffchainLabs/prysm/pull/16753#pullrequestreview-4219480217) - 2026-05-04
+* [Pull Request] [remove call to hotstatedb from migrateToColdHdiff](https://github.com/OffchainLabs/prysm/pull/16761) - 2026-05-06
+* [Pull Request] [boundary slot check for state diff cache](https://github.com/OffchainLabs/prysm/pull/16760) - 2026-05-06
+* [Review] [Review on: Include `ptc_window` in gloas debug state v2 response](https://github.com/OffchainLabs/prysm/pull/16736#pullrequestreview-4234463008) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

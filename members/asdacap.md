@@ -175,6 +175,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: prevent negative RequestSize crash when beacon pivot destination advances mid-sync](https://github.com/NethermindEth/nethermind/pull/11478#pullrequestreview-4225738339) - 2026-05-05
 * [Commit] [Add NETH004 analyzer banning ConcurrentDictionary.Keys/.Values (#11462)](https://github.com/NethermindEth/nethermind/commit/49a985dff23112fcfd180cd5d5293253bae8fbba) - 2026-05-06
 * [Commit] [perf: Embed Address bytes inline to remove secondary allocation (#11469)](https://github.com/NethermindEth/nethermind/commit/3b36172fe8bf348ea0071282d678d3da13a98ac5) - 2026-05-05
+* [Pull Request] [perf: report BloomFilter unmanaged allocation to GC](https://github.com/NethermindEth/nethermind/pull/11503) - 2026-05-06
+* [Pull Request] [fix: prevent negative RequestSize crash when beacon pivot destination advances mid-sync](https://github.com/NethermindEth/nethermind/pull/11478) - 2026-05-06
+* [Issue] [BAL DB should key by (blockNumber, blockHash), not blockHash alone, to avoid RocksDB write amplification](https://github.com/NethermindEth/nethermind/issues/11504) - 2026-05-06
+* [Commit] [perf: report BloomFilter unmanaged allocation to GC (#11503)](https://github.com/NethermindEth/nethermind/commit/73fb507fcddd703563cdb850b35e4bc216d925cc) - 2026-05-06
+* [Commit] [fix: prevent negative RequestSize crash when beacon pivot destination advances mid-sync (#11478)](https://github.com/NethermindEth/nethermind/commit/61c20c5196800aef79a48b0f82ff276910482d55) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

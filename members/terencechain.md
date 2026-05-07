@@ -118,12 +118,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add `EffectiveBalanceAtIndex` and use it in PTC committee selection (#16753)](https://github.com/OffchainLabs/prysm/commit/d19b6ed97df7914292bdbd33ca82578aa1a43ce4) - 2026-05-05
 * [Commit] [Disable retries for `PayloadAttestationData` and downgrade missed slot logs (#16743)](https://github.com/OffchainLabs/prysm/commit/ebbae4aa6fc0fd240511cd07065f2febfb4d75d7) - 2026-05-05
 * [Commit] [Use head aware state for payload attestation processing (#16745)](https://github.com/OffchainLabs/prysm/commit/4150f65fe41ca2bb7af761a0eff1b23843827b8f) - 2026-05-05
+* [Pull Request] [Glamsterdam devnet 3](https://github.com/OffchainLabs/prysm/pull/16763) - 2026-05-06
+* [Review] [Review on: Cache empty execution requests root](https://github.com/OffchainLabs/prysm/pull/16725#pullrequestreview-4236761840) - 2026-05-06
+* [Commit] [Propagate BAL when unblinding execution payloads (#16746)](https://github.com/OffchainLabs/prysm/commit/b988bcaf084e6dce81cc7b08649ec5f8540fc18c) - 2026-05-07
+* [Commit] [Re-broadcast pending payload envelopes after processing (#16747)](https://github.com/OffchainLabs/prysm/commit/c03fbc62f5668abad10c059688d949d581450de7) - 2026-05-06
+* [Commit] [Include `ptc_window` in gloas debug state v2 response (#16736)](https://github.com/OffchainLabs/prysm/commit/3ef5c10542d8ebffbc7f67c209679c41db3cd611) - 2026-05-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26
 * [Commit] [Change proposer preference validator index check to ignore (#5164)](https://github.com/ethereum/consensus-specs/commit/b995cf35e2d90f53b7cbaffe678d4a9604d73593) - 2026-04-27
 * [Review] [Review on: Increase exit and consolidation churn (EIP-8061)](https://github.com/ethereum/consensus-specs/pull/5061#pullrequestreview-4189933391) - 2026-04-28
 * [Review] [Review on: Gloas: Modify notify_forkchoice_updated](https://github.com/ethereum/consensus-specs/pull/5197#pullrequestreview-4203035358) - 2026-04-30
+* [Review] [Review on: Payload reorg](https://github.com/ethereum/consensus-specs/pull/5210#pullrequestreview-4236643511) - 2026-05-06
 ## Q1 2026
 
 

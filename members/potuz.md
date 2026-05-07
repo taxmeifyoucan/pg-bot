@@ -60,6 +60,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Force the proposer to reorg unavailable blocks](https://github.com/ethereum/consensus-specs/pull/5186) - 2026-04-28
 * [Pull Request] [Enable independent CL/EL sync (EIP-8237)](https://github.com/ethereum/consensus-specs/pull/5183) - 2026-04-28
 * [Review] [Review on: Distinguish absent PTC votes from negative votes](https://github.com/ethereum/consensus-specs/pull/5180#pullrequestreview-4197207505) - 2026-04-29
+* [Pull Request] [Use different deadlines for payload and blob data availability](https://github.com/ethereum/consensus-specs/pull/5212) - 2026-05-06
+* [Pull Request] [Payload reorg](https://github.com/ethereum/consensus-specs/pull/5210) - 2026-05-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17

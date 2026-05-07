@@ -69,8 +69,10 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: fix: enable `rustls-tls` for `ere-server`](https://github.com/eth-act/ere/pull/338#pullrequestreview-4148779317) - 2026-04-21
 
 * [Review] [Review on: feat: update `zisk` to `v0.17.0`](https://github.com/eth-act/ere/pull/351#pullrequestreview-4228344854) - 2026-05-05
+* [Review] [Review on: feat: update `detect_sdk_version`](https://github.com/eth-act/ere/pull/353#pullrequestreview-4235753036) - 2026-05-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/pull/11587) - 2026-04-30
+* [Review] [Review on: Update EIP-8025: Move to Draft](https://github.com/ethereum/EIPs/pull/11604#pullrequestreview-4237887906) - 2026-05-06
 ## Q1 2026
 
 

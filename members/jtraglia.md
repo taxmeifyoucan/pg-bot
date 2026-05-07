@@ -182,6 +182,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Use `Union[None, T]` instead of `Optional[T]` in SSZ datastructures](https://github.com/ethereum/consensus-specs/pull/5200#pullrequestreview-4229684276) - 2026-05-05
 * [Pull Request] [Use `list` instead of `Vector` in the `Store` class](https://github.com/ethereum/consensus-specs/pull/5208) - 2026-05-05
 * [Commit] [Use `list` instead of `Vector` in the `Store` class (#5208)](https://github.com/ethereum/consensus-specs/commit/90cee983d1691f631d7e5f678554ff8ad95aec84) - 2026-05-05
+* [Review] [Review on: Force the proposer to reorg unavailable blocks](https://github.com/ethereum/consensus-specs/pull/5186#pullrequestreview-4236287421) - 2026-05-06
+* [Review] [Review on: Add executable gossip validation functions for deneb](https://github.com/ethereum/consensus-specs/pull/5146#pullrequestreview-4237891764) - 2026-05-06
+* [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4235820691) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

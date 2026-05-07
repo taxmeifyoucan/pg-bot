@@ -35,6 +35,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: bal-devnet-3 - Improve BAL account and storage slots sorting](https://github.com/besu-eth/besu/pull/10351#pullrequestreview-4194884647) - 2026-04-29
 * [Review] [Review on: Agentic PR guidance for Contributors](https://github.com/besu-eth/besu/pull/10414#pullrequestreview-4226718528) - 2026-05-05
 * [Review] [Review on: Fix block hash lookup issue](https://github.com/besu-eth/besu/pull/10419#pullrequestreview-4227473857) - 2026-05-05
+* [Review] [Review on: Fix block hash lookup issue](https://github.com/besu-eth/besu/pull/10419#pullrequestreview-4235458727) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088219054) - 2026-04-10
 ## Q1 2026

@@ -15,6 +15,11 @@ Github: [@bharath-123](https://github.com/bharath-123)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set `blob_data_available` in `PayloadAttestationMessage`](https://github.com/ethereum/consensus-specs/pull/4769) - 2026-04-29
 * [Commit] [Set `blob_data_available` in `PayloadAttestationMessage` (#4769)](https://github.com/ethereum/consensus-specs/commit/ef2d6ad5bd9b45f65c6459f572a5b9b7c1ee2dce) - 2026-04-29
+* [Review] [Review on: Force the proposer to reorg unavailable blocks](https://github.com/ethereum/consensus-specs/pull/5186#pullrequestreview-4234493426) - 2026-05-06
+* [Review] [Review on: Payload reorg](https://github.com/ethereum/consensus-specs/pull/5210#pullrequestreview-4236874788) - 2026-05-06
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Add EIP: Blob Streaming](https://github.com/ethereum/EIPs/pull/11610) - 2026-05-06
 ## Q1 2026
 
 

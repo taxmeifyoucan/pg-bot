@@ -20,6 +20,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge remote-tracking branch 'origin/master' into release/consumoor](https://github.com/ethpandaops/xatu/commit/ca8004c5950a48c95cdaa839f406794c681ef7eb) - 2026-05-05
 * [Commit] [ci(govulncheck): whitelist unfixable docker/docker server-side vulns](https://github.com/ethpandaops/xatu/commit/ce9dbf8510fb5fdcbbca9479ea756b44bb71190e) - 2026-05-05
 * [Commit] [ci: pick latest Go for govulncheck, wait for vector-http-kafka in smoke test](https://github.com/ethpandaops/xatu/commit/2d86ace38da2654250969dfbbbda3f947a43785c) - 2026-05-05
+* [Pull Request] [[codex] improve execution mimicry peering](https://github.com/ethpandaops/xatu/pull/811) - 2026-05-06
+* [Pull Request] [fix(kafka): exporter size check should use MaxMessageBytes, not FlushBytes](https://github.com/ethpandaops/xatu/pull/810) - 2026-05-06
+* [Pull Request] [fix(kafka): make Producer.MaxMessageBytes configurable](https://github.com/ethpandaops/xatu/pull/809) - 2026-05-06
+* [Commit] [fix(kafka): exporter size check should use MaxMessageBytes, not FlushBytes (#810)](https://github.com/ethpandaops/xatu/commit/1e346b00956748aa7ad769d5ab8726e012932682) - 2026-05-06
+* [Commit] [fix(kafka): make Producer.MaxMessageBytes configurable (#809)](https://github.com/ethpandaops/xatu/commit/c9e05545d4400b2be4d1611c3abd08b85b0a2a2b) - 2026-05-06
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23

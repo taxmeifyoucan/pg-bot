@@ -48,6 +48,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 * [Review] [Review on: Write `totalEffectiveBalance` in `balanceCache` eagerly in `ProcessEffectiveBalanceUpdates`.](https://github.com/OffchainLabs/prysm/pull/16738#pullrequestreview-4228294050) - 2026-05-05
 * [Issue] [After an Internet outage, Prysm cannot find peers](https://github.com/OffchainLabs/prysm/issues/16755) - 2026-05-05
+* [Issue] [When using `--enable-beacon-rest-api`, an exited validator while in sync committee does not participate and accumulates penalty](https://github.com/OffchainLabs/prysm/issues/16759) - 2026-05-06
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 ## Q1 2026

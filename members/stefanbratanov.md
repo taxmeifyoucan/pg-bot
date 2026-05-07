@@ -61,6 +61,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Fix decoder reuse after dispose in RPC response decoding](https://github.com/Consensys/teku/pull/10667#pullrequestreview-4211129821) - 2026-05-01
 * [Review] [Review on: Focil heze](https://github.com/Consensys/teku/pull/10666#pullrequestreview-4218953095) - 2026-05-04
 * [Review] [Review on: Focil heze](https://github.com/Consensys/teku/pull/10666#pullrequestreview-4226779021) - 2026-05-05
+* [Pull Request] [v1.7.0 alpha.7 changes](https://github.com/Consensys/teku/pull/10673) - 2026-05-06
+* [Review] [Review on: v1.7.0 alpha.7 changes](https://github.com/Consensys/teku/pull/10673#pullrequestreview-4236719792) - 2026-05-06
+* [Review] [Review on: trigger ci for protype and devnet branches](https://github.com/Consensys/teku/pull/10676#pullrequestreview-4235992203) - 2026-05-06
+* [Review] [Review on: Add all networking reference tests. Some are ignored because test fixtures are broken](https://github.com/Consensys/teku/pull/10677#pullrequestreview-4236208500) - 2026-05-06
+* [Commit] [v1.7.0 alpha.7 changes (#10673)](https://github.com/Consensys/teku/commit/9585840759123b722b7f89260a9f3252a508cf67) - 2026-05-06
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

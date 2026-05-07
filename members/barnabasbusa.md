@@ -88,6 +88,17 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(chainspec): add heze INCLUSION_LIST_DUE_BPS](https://github.com/ethpandaops/dora/commit/c9addccf93bf9b5625041eb67c3445d6a20f5235) - 2026-04-30
 * [Commit] [feat(chainspec): add gloas EIP-8061 churn limits](https://github.com/ethpandaops/dora/commit/c39700f739b85c40839e860e1224af136a2f94b0) - 2026-04-30
 * [Pull Request] [Add Heze (EIP-7805) block + state handling to indexer and statecache](https://github.com/ethpandaops/dora/pull/673) - 2026-05-01
+* [Review] [Review on: de-prioritize besu for trace requests](https://github.com/ethpandaops/dora/pull/655#pullrequestreview-4236870290) - 2026-05-06
+* [Pull Request] [db: switch SQLite driver from glebarez to mattn/go-sqlite3](https://github.com/ethpandaops/dora/pull/678) - 2026-05-06
+* [Pull Request] [indexer: bump tx-indexer commit timeouts from 30s to 45s](https://github.com/ethpandaops/dora/pull/679) - 2026-05-06
+* [Pull Request] [db: SQLite pragma tuning + chunk GetDepositTxsByIndexes](https://github.com/ethpandaops/dora/pull/677) - 2026-05-06
+* [Review] [Review on: add "PENDING" voting status](https://github.com/ethpandaops/dora/pull/676#pullrequestreview-4234419812) - 2026-05-06
+* [Commit] [Merge pull request #678 from barnabasbusa/bbusa/sqlite-mattn-driver](https://github.com/ethpandaops/dora/commit/ceda6357c6b072795e524f3dfb8f0cb45c7e71b0) - 2026-05-06
+* [Commit] [Merge pull request #679 from barnabasbusa/bbusa/txindexer-bump-commit-timeout](https://github.com/ethpandaops/dora/commit/06964eac58edbbbf47a1820204654d0ce04661a0) - 2026-05-06
+* [Commit] [indexer: bump tx-indexer commit timeouts from 30s to 45s](https://github.com/ethpandaops/dora/commit/98e237e67421608892b868bad7d07c80546b61f7) - 2026-05-06
+* [Commit] [db: switch SQLite driver from glebarez to mattn/go-sqlite3](https://github.com/ethpandaops/dora/commit/6ec7a638522d54f0f43507f6bf78a0fcb2cfd652) - 2026-05-06
+* [Commit] [db: chunk GetDepositTxsByIndexes to stay under SQLite variable limit](https://github.com/ethpandaops/dora/commit/9b28bb3479a43ec202e484baf25925e60759adcc) - 2026-05-06
+* [Commit] [db: tune SQLite pragmas alongside WAL](https://github.com/ethpandaops/dora/commit/2ffbd6eaf1e301c90c90b2823e56063ad03da068) - 2026-05-06
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -151,6 +162,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Update EIP-7773: Add Networking EIPs section](https://github.com/ethereum/EIPs/commit/c79a3768c1d52d939b07acb8576d207ea5b7d9fa) - 2026-04-16
 * [Commit] [Update EIP-8070: Prefix title with eth/72 protocol version](https://github.com/ethereum/EIPs/commit/ea725b44a1ab60147814f8f0ddd5e26f74ce0643) - 2026-04-16
 * [Review] [Review on: Update EIP-7723: Add new ACDE/C Facilitators to Meta & Process EIPs](https://github.com/ethereum/EIPs/pull/11585#pullrequestreview-4203735731) - 2026-04-30
+* [Pull Request] [Add EIP: Cap deposit requests per block](https://github.com/ethereum/EIPs/pull/11607) - 2026-05-06
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [ci: bump pinned GitHub Actions to latest](https://github.com/ethpandaops/template-devnets/pull/158) - 2026-04-14
 * [Commit] [ci: bump pinned GitHub Actions to latest (#158)](https://github.com/ethpandaops/template-devnets/commit/254b32c9621944012d978017e59489c3eb70db78) - 2026-04-14
@@ -165,6 +177,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore: fail playbook if devnet_name is still "template" (#163)](https://github.com/ethpandaops/template-devnets/commit/be356d01771fe9a3dd2bb7425186199fca9ffb45) - 2026-04-28
 * [Commit] [chore: bump mitogen to 0.3.43 (#162)](https://github.com/ethpandaops/template-devnets/commit/8860712f5fca47fef8297da9d616b74f3a0a6ff5) - 2026-04-28
 * [Commit] [nimbus changes](https://github.com/ethpandaops/template-devnets/commit/89dc7ee1b2540245751f233cd7719141f8c38922) - 2026-04-29
+* [Pull Request] [Hetzner: cpx (new gen) defaults + capacity-aware placement](https://github.com/ethpandaops/template-devnets/pull/166) - 2026-05-06
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
 * [Pull Request] [core/txpool: report actual 110% threshold in intrinsic gas error](https://github.com/ethereum/go-ethereum/pull/34782) - 2026-04-21

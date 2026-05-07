@@ -16,6 +16,13 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #56 from pvecchiarelli/main](https://github.com/protocolguild/protocol-guild-site/commit/18fd9e1d605697d746047ce9ec75a4f0d65a7bb5) - 2026-04-02
 * [Commit] [Create 20260402-shape-takes-1-percent-pledge.md](https://github.com/protocolguild/protocol-guild-site/commit/ba69e2106d5c14fd76848dde1f6f68b7d9e4b6d8) - 2026-04-02
 * [Commit] [Add Shape Pledge Blog Cover Image](https://github.com/protocolguild/protocol-guild-site/commit/ad8001f4cd7ab2878d94f5b2e5b6dca0067ff82d) - 2026-04-02
+* [Commit] [Update 2206.05.01-agora-dao.md](https://github.com/protocolguild/protocol-guild-site/commit/ca11fbc476ac4b883f3a1f4048e8f623c2f70a47) - 2026-05-06
+* [Commit] [Delete public/20260501-agora-dao/Agora2.png](https://github.com/protocolguild/protocol-guild-site/commit/5baba6d5ed3c26755f49f63d4dea98847683305d) - 2026-05-06
+* [Commit] [Update banner graphic](https://github.com/protocolguild/protocol-guild-site/commit/ba78194a757c4568e78a1943aee12e67ab685bc6) - 2026-05-06
+* [Commit] [Update Banner](https://github.com/protocolguild/protocol-guild-site/commit/38df40dc8dd73870d53baa935b882db5e7455772) - 2026-05-06
+* [Commit] [Delete public/20260501-agora-dao/agora.jpeg](https://github.com/protocolguild/protocol-guild-site/commit/154555a4209aca4831b66d2ad8e8c2f34686f9bb) - 2026-05-06
+* [Commit] [Update cover image](https://github.com/protocolguild/protocol-guild-site/commit/3c50d077cdaa52f1d9a71a902678ecf2c357b0a0) - 2026-05-06
+* [Commit] [Add updated banner](https://github.com/protocolguild/protocol-guild-site/commit/e6c51f42cd00a5d1bf95980ea3807271269cea38) - 2026-05-06
 ## Q1 2026
 
 

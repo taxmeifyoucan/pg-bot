@@ -45,6 +45,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Use zero as the isEmpty indicator for CachedStoLeaf to save memory](https://github.com/status-im/nimbus-eth1/pull/4206) - 2026-05-04
 * [Commit] [Use zero as the isEmpty indicator for CachedStoLeaf to save memory (#4206)](https://github.com/status-im/nimbus-eth1/commit/d02e0ae763a0b6936a37726b85af1de8ff6959bd) - 2026-05-04
 * [Issue] [Block-Level Access Lists - Remaining tasks](https://github.com/status-im/nimbus-eth1/issues/4212) - 2026-05-05
+* [Pull Request] [Add code size cache to the kvt backend](https://github.com/status-im/nimbus-eth1/pull/4214) - 2026-05-06
 ## Q1 2026
 
 

@@ -77,6 +77,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat(zkevm): Migrate to zkVM standards](https://github.com/NethermindEth/nethermind/pull/11481#pullrequestreview-4221695935) - 2026-05-04
 * [Review] [Review on: TransactionForRpc improvements](https://github.com/NethermindEth/nethermind/pull/11484#pullrequestreview-4222355393) - 2026-05-04
 * [Pull Request] [fix: Fix dependency caching](https://github.com/NethermindEth/nethermind/pull/11499) - 2026-05-05
+* [Review] [Review on: chore: Update dependencies](https://github.com/NethermindEth/nethermind/pull/11512#pullrequestreview-4239830785) - 2026-05-06
+* [Pull Request] [feat(zkevm): Enable BAL in stateless execution](https://github.com/NethermindEth/nethermind/pull/11505) - 2026-05-06
+* [Commit] [feat(zkevm): Enable BAL in stateless execution (#11505)](https://github.com/NethermindEth/nethermind/commit/e8f371ed440491a9dff7c33bd44eb896764ed563) - 2026-05-06
+* [Commit] [feat(zkevm): Migrate to zkVM standards (#11481)](https://github.com/NethermindEth/nethermind/commit/58838b654288e446d7accacd7fdaab2a1b84983d) - 2026-05-06
 ## Q1 2026
 
 

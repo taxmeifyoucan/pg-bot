@@ -123,6 +123,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix: close `RlpBlockImporter` after RLP block import to release executor threads](https://github.com/besu-eth/besu/pull/10413#pullrequestreview-4225086427) - 2026-05-05
 * [Review] [Review on: DebugOperationTracer #10115 - 10 : storage snapshot timing ](https://github.com/besu-eth/besu/pull/10176#pullrequestreview-4225023006) - 2026-05-05
 * [Review] [Review on: Feat-11 : Add `limit` param to stop opcode trace capture after N steps](https://github.com/besu-eth/besu/pull/10173#pullrequestreview-4225099796) - 2026-05-05
+* [Review] [Review on: Handle new IPv6 addresses by updating NodeRecordManager](https://github.com/besu-eth/besu/pull/10416#pullrequestreview-4240784093) - 2026-05-07
+* [Review] [Review on: proposed adjustments to release process](https://github.com/besu-eth/besu/pull/10411#pullrequestreview-4240586160) - 2026-05-07
+* [Review] [Review on: ci: migrate develop.yml Docker build to GitHub Actions](https://github.com/besu-eth/besu/pull/10366#pullrequestreview-4240561421) - 2026-05-07
+* [Review] [Review on: Fix forkchoice update reporting VALID after failed setNewHead](https://github.com/besu-eth/besu/pull/10271#pullrequestreview-4233667830) - 2026-05-06
+* [Review] [Review on: feat(jsonrpc): implement eth_capabilities RPC method](https://github.com/besu-eth/besu/pull/10322#pullrequestreview-4233634202) - 2026-05-06
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

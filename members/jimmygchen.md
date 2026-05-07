@@ -56,6 +56,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: fix: payload_attestation_data when no block received for slot](https://github.com/sigp/lighthouse/pull/9225#pullrequestreview-4210652962) - 2026-05-01
 * [Review] [Review on: Avoid 0x00 block hashes in fcU](https://github.com/sigp/lighthouse/pull/9233#pullrequestreview-4210590894) - 2026-05-01
 * [Issue] [Review web3signer message types for Gloas](https://github.com/sigp/lighthouse/issues/9252) - 2026-05-01
+* [Review] [Review on: Implement beacon_blocks_by_head](https://github.com/sigp/lighthouse/pull/9237#pullrequestreview-4237329982) - 2026-05-06
+* [Pull Request] [Move gossip column KZG verification off async runtime](https://github.com/sigp/lighthouse/pull/9271) - 2026-05-06
+* [Issue] [Consider relaxing data column reconstruction deadline for ePBS](https://github.com/sigp/lighthouse/issues/9270) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026

@@ -47,6 +47,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(spec,test): backport interop related changes](https://github.com/ethereum/execution-specs/pull/2806) - 2026-05-05
 * [Review] [Review on: refactor(test-benchmark): support 8037 for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2787#pullrequestreview-4231227597) - 2026-05-05
 * [Issue] [Align EIP-8037 with latest spec changes for bal-devnet-7](https://github.com/ethereum/execution-specs/issues/2804) - 2026-05-05
+* [Pull Request] [fix(spec,test): 7702 refund block-level gas accounting for EIP-8037](https://github.com/ethereum/execution-specs/pull/2816) - 2026-05-06
+* [Review] [Review on: feat(tests): add EIP-7928 BALs missing test when multiple consecutive…](https://github.com/ethereum/execution-specs/pull/2813#pullrequestreview-4237215045) - 2026-05-06
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14

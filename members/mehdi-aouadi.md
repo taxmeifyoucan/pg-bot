@@ -60,6 +60,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Focil heze](https://github.com/Consensys/teku/pull/10666#pullrequestreview-4218339602) - 2026-05-04
 * [Commit] [Proposer preferences gloas only (#10596)](https://github.com/Consensys/teku/commit/aa9ef6f8ad934f27be91344cc20fdac4dc8c163f) - 2026-05-04
 * [Review] [Review on: Focil heze](https://github.com/Consensys/teku/pull/10666#pullrequestreview-4229778980) - 2026-05-05
+* [Pull Request] [trigger ci for prototype and devnet branches](https://github.com/Consensys/teku/pull/10679) - 2026-05-06
+* [Pull Request] [Gloas store transaction](https://github.com/Consensys/teku/pull/10674) - 2026-05-06
+* [Review] [Review on: v1.7.0 alpha.7 changes](https://github.com/Consensys/teku/pull/10673#pullrequestreview-4236565942) - 2026-05-06
+* [Pull Request] [trigger ci for protype and devnet branches](https://github.com/Consensys/teku/pull/10676) - 2026-05-06
+* [Review] [Review on: trigger ci for protype and devnet branches](https://github.com/Consensys/teku/pull/10676#pullrequestreview-4236835211) - 2026-05-06
+* [Pull Request] [Focil heze](https://github.com/Consensys/teku/pull/10666) - 2026-05-06
+* [Commit] [trigger ci for protype and devnet branches (#10676)](https://github.com/Consensys/teku/commit/f5e3d7f52ebdd2967500be2af40efe412e06aba1) - 2026-05-06
 ## Q1 2026
 
 

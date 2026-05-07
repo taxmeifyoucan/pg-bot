@@ -315,6 +315,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution, cl: persist initial-cycle lifecycle by block TTL](https://github.com/erigontech/erigon/pull/20895#pullrequestreview-4226303267) - 2026-05-05
 * [Issue] [txnprovider/shutter: re-establish dropped contract event subscriptions](https://github.com/erigontech/erigon/issues/20999) - 2026-05-05
 * [Issue] [txpool: deduplicate addTxns and addTxnsOnNewBlock](https://github.com/erigontech/erigon/issues/20998) - 2026-05-05
+* [Pull Request] [execution/vm, test-fixtures: bump eest_benchmark to v0.0.9 + small EVM dispatch wins](https://github.com/erigontech/erigon/pull/21014) - 2026-05-06
+* [Review] [Review on: QA : extend test on eth_simulateV1 with test on historical and latest](https://github.com/erigontech/erigon/pull/20818#pullrequestreview-4234561694) - 2026-05-06
+* [Review] [Review on: cmd, dbg: add --exec.no-background-maintenance flag for focused perf testing](https://github.com/erigontech/erigon/pull/20977#pullrequestreview-4235757535) - 2026-05-06
+* [Pull Request] [.github: auto-rerun CI Gate leaves that lose runner communication](https://github.com/erigontech/erigon/pull/21011) - 2026-05-06
+* [Review] [Review on: ci: skip sonar and claude-review for dependabot PRs](https://github.com/erigontech/erigon/pull/20972#pullrequestreview-4236197139) - 2026-05-06
+* [Review] [Review on: test-fixtures: lazy-download manifest replaces eest-fixtures submodule](https://github.com/erigontech/erigon/pull/21002#pullrequestreview-4234467923) - 2026-05-06
+* [Review] [Review on: cl: implement GLOAS (EIP-7732 ePBS) for Caplin](https://github.com/erigontech/erigon/pull/18956#pullrequestreview-4234940236) - 2026-05-06
+* [Review] [Review on: shutter: revert AI slop](https://github.com/erigontech/erigon/pull/21005#pullrequestreview-4234625784) - 2026-05-06
+* [Commit] [test-fixtures: lazy-download manifest replaces eest-fixtures submodule (#21002)](https://github.com/erigontech/erigon/commit/ef9b48ff6a4d8b4203fe1587e90dd210e04dffda) - 2026-05-06
+* [Commit] [execution/tests: enforce checkNonce/checkTransaction in state harness (#21001)](https://github.com/erigontech/erigon/commit/f6e2a5e3bff31d6dd3cd9a359997130565d32b35) - 2026-05-06
+* [Commit] [execution/protocol: validate logs bloom on pre-Byzantium blocks (#20994)](https://github.com/erigontech/erigon/commit/5cae27da80cdb0ad42abb3fb853151ef3bc4828a) - 2026-05-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

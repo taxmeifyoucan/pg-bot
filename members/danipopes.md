@@ -314,6 +314,13 @@ Team: Reth
 * [Pull Request] [refactor: localize branch helpers](https://github.com/paradigmxyz/revmc/pull/370) - 2026-05-05
 * [Commit] [refactor: localize branch helpers (#370)](https://github.com/paradigmxyz/revmc/commit/f25795cb8cc8bfad87ccfbf0332db8572c794a55) - 2026-05-05
 * [Commit] [chore: remove extra word in comment](https://github.com/paradigmxyz/revmc/commit/76c35e65711998ad662c9c8b8c44a83386902987) - 2026-05-05
+* [Pull Request] [test: cover internal helpers](https://github.com/paradigmxyz/revmc/pull/376) - 2026-05-06
+* [Pull Request] [fix: resolve constant jumpi conditions](https://github.com/paradigmxyz/revmc/pull/374) - 2026-05-06
+* [Pull Request] [feat: resolve Solidity jump patterns](https://github.com/paradigmxyz/revmc/pull/375) - 2026-05-06
+* [Pull Request] [feat: add context-sensitive jump analysis](https://github.com/paradigmxyz/revmc/pull/372) - 2026-05-06
+* [Pull Request] [fix: resolve constant jumpi conditions](https://github.com/paradigmxyz/revmc/pull/373) - 2026-05-06
+* [Commit] [test: cover internal helpers (#376)](https://github.com/paradigmxyz/revmc/commit/ff2c972ccf84ebe843b265fe35df66d02e5bf1b8) - 2026-05-06
+* [Commit] [refactor(bench): use fixture json inputs (#371)](https://github.com/paradigmxyz/revmc/commit/c665f0766987b5d3847dc4013b094d6b1822e1cb) - 2026-05-06
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -346,6 +353,8 @@ Team: Reth
 * [Review] [Review on: perf(db): prebind cursor operation metrics](https://github.com/paradigmxyz/reth/pull/23654#pullrequestreview-4196340469) - 2026-04-29
 * [Review] [Review on: chore: default to min-trace-logs](https://github.com/paradigmxyz/reth/pull/23851#pullrequestreview-4204819507) - 2026-04-30
 * [Commit] [chore(mdbx): replace deprecated MDBX_NOTLS with MDBX_NOSTICKYTHREADS (#23378)](https://github.com/paradigmxyz/reth/commit/fcfa8287f69a3509fcfef95d1b4dc8948ec86665) - 2026-04-30
+* [Review] [Review on: fix(provider): add default rocksdb write buffer manager](https://github.com/paradigmxyz/reth/pull/24001#pullrequestreview-4233765061) - 2026-05-06
+* [Review] [Review on: deps: bump libmdbx to v0.13.12](https://github.com/paradigmxyz/reth/pull/24007#pullrequestreview-4235203561) - 2026-05-06
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

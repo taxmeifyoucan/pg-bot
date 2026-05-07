@@ -69,6 +69,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: stateless block v4](https://github.com/OffchainLabs/prysm/pull/16699#pullrequestreview-4197239260) - 2026-04-29
 * [Commit] [stateless block v4 (#16699)](https://github.com/OffchainLabs/prysm/commit/d35d65625f593b50126a6180bb2403d8c038de8f) - 2026-05-01
 * [Review] [Review on: Propagate BAL when unblinding execution payloads](https://github.com/OffchainLabs/prysm/pull/16746#pullrequestreview-4216677860) - 2026-05-03
+* [Review] [Review on: Propagate BAL when unblinding execution payloads](https://github.com/OffchainLabs/prysm/pull/16746#pullrequestreview-4239115017) - 2026-05-06
+* [Pull Request] [proposer settings updates for proposer preferences validator client side](https://github.com/OffchainLabs/prysm/pull/16762) - 2026-05-06
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

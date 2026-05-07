@@ -62,6 +62,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Fix block hash lookup issue](https://github.com/besu-eth/besu/pull/10419) - 2026-05-05
 * [Review] [Review on: Fix block hash lookup issue](https://github.com/besu-eth/besu/pull/10419#pullrequestreview-4228168274) - 2026-05-05
 * [Pull Request] [Fix blockHashLookup parallelization issue ](https://github.com/besu-eth/besu/pull/10418) - 2026-05-05
+* [Review] [Review on: Fix snap/2 encoding and response size limits](https://github.com/besu-eth/besu/pull/10391#pullrequestreview-4233487014) - 2026-05-06
+* [Commit] [improves the thread-safety of block hash lookups during parallel transaction execution](https://github.com/besu-eth/besu/commit/2c5791433c3e224d6b333411f2d78fe9de6aa6a8) - 2026-05-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

@@ -51,6 +51,9 @@ Team: Geth
 * [Review] [Review on: core, core/state: instrument BAL slow-block metrics](https://github.com/ethereum/go-ethereum/pull/34861#pullrequestreview-4216338223) - 2026-05-03
 * [Review] [Review on: cmd, core, internal, miner: wrap pre/post-execution](https://github.com/ethereum/go-ethereum/pull/34812#pullrequestreview-4229874191) - 2026-05-05
 * [Review] [Review on: core, core/state: instrument BAL slow-block metrics](https://github.com/ethereum/go-ethereum/pull/34861#pullrequestreview-4229016846) - 2026-05-05
+* [Pull Request] [cmd,core,tests: introduce new BAL execution flags, log BAL slow blocks, surface prefetch reader time as a metric](https://github.com/ethereum/go-ethereum/pull/34892) - 2026-05-06
+* [Review] [Review on: cmd,core,tests: introduce new BAL execution flags, log BAL slow blocks, surface prefetch reader time as a metric](https://github.com/ethereum/go-ethereum/pull/34892#pullrequestreview-4238798353) - 2026-05-06
+* [Review] [Review on: cmd, core, internal, miner: wrap pre/post-execution](https://github.com/ethereum/go-ethereum/pull/34812#pullrequestreview-4235203844) - 2026-05-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026
