@@ -84,6 +84,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Check `is_genesis_block` in `process_parent_execution_payload` is dead code](https://github.com/ethereum/consensus-specs/issues/5149) - 2026-04-23
 * [Issue] [Why does `apply_parent_execution_payload` take the `parent_bid` as an argument?](https://github.com/ethereum/consensus-specs/issues/5148) - 2026-04-23
 
+* [Issue] [Effective balances tests emit `pre_epoch.ssz_snappy` prior to mutations](https://github.com/ethereum/consensus-specs/issues/5214) - 2026-05-07
+* [Issue] [PTC window processing not run for `post_epoch.ssz_snappy`](https://github.com/ethereum/consensus-specs/issues/5213) - 2026-05-07
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756) - 2026-05-06
 * [Review] [Review on: Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756#pullrequestreview-4232967261) - 2026-05-06

@@ -24,6 +24,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add clock module for slot/epoch timing (Zig 0.16)](https://github.com/ChainSafe/lodestar-z/pull/301#pullrequestreview-4239374120) - 2026-05-06
 * [Review] [Review on: feat: bindings to `getExpectedWithdrawals` and native tweaks](https://github.com/ChainSafe/lodestar-z/pull/350#pullrequestreview-4238031459) - 2026-05-06
 * [Review] [Review on: feat: migrate blst,pubkeys to use zapi js dsl](https://github.com/ChainSafe/lodestar-z/pull/331#pullrequestreview-4239298136) - 2026-05-06
+* [Review] [Review on: test(epoch): add unit tests for inactivity leak functions](https://github.com/ChainSafe/lodestar-z/pull/262#pullrequestreview-4247834084) - 2026-05-07
+* [Review] [Review on: fix(bindings): refcount Pool to fix teardown panic](https://github.com/ChainSafe/lodestar-z/pull/352#pullrequestreview-4247805524) - 2026-05-07
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -69,6 +71,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add beacon_blocks_by_head reqresp](https://github.com/ChainSafe/lodestar/pull/9331) - 2026-05-06
 * [Review] [Review on: feat: add beacon_blocks_by_head reqresp](https://github.com/ChainSafe/lodestar/pull/9331#pullrequestreview-4235818143) - 2026-05-06
 * [Commit] [feat(reqresp): track peer rate-limit backoff in SelfRateLimiter (#9034)](https://github.com/ChainSafe/lodestar/commit/12d35509c02e460c7d9a1eaeb26efa06aa2a942f) - 2026-05-06
+* [Commit] [feat: better self-rate-limit handling (#9335)](https://github.com/ChainSafe/lodestar/commit/ff409c46ce80564b6d91cfe4f6badc4389254981) - 2026-05-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

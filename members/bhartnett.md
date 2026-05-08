@@ -46,6 +46,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Use zero as the isEmpty indicator for CachedStoLeaf to save memory (#4206)](https://github.com/status-im/nimbus-eth1/commit/d02e0ae763a0b6936a37726b85af1de8ff6959bd) - 2026-05-04
 * [Issue] [Block-Level Access Lists - Remaining tasks](https://github.com/status-im/nimbus-eth1/issues/4212) - 2026-05-05
 * [Pull Request] [Add code size cache to the kvt backend](https://github.com/status-im/nimbus-eth1/pull/4214) - 2026-05-06
+* [Review] [Review on: Use RlpArrayBufWriter for rlp encoding in stateroot computation](https://github.com/status-im/nimbus-eth1/pull/4115#pullrequestreview-4242126904) - 2026-05-07
 ## Q1 2026
 
 

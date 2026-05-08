@@ -185,6 +185,14 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Force the proposer to reorg unavailable blocks](https://github.com/ethereum/consensus-specs/pull/5186#pullrequestreview-4236287421) - 2026-05-06
 * [Review] [Review on: Add executable gossip validation functions for deneb](https://github.com/ethereum/consensus-specs/pull/5146#pullrequestreview-4237891764) - 2026-05-06
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4235820691) - 2026-05-06
+* [Pull Request] [Drop `pre_epoch`/`post_epoch` from hysteresis test](https://github.com/ethereum/consensus-specs/pull/5217) - 2026-05-07
+* [Pull Request] [Add gloas epoch processing functions in `get_process_calls`](https://github.com/ethereum/consensus-specs/pull/5216) - 2026-05-07
+* [Pull Request] [Define new `get_deposit_churn_limit` function](https://github.com/ethereum/consensus-specs/pull/5220) - 2026-05-07
+* [Pull Request] [Add separate pending builder deposits queue](https://github.com/ethereum/consensus-specs/pull/5219) - 2026-05-07
+* [Review] [Review on: Use `MIN_SEED_LOOKAHEAD` in proposer preferences](https://github.com/ethereum/consensus-specs/pull/5215#pullrequestreview-4244159107) - 2026-05-07
+* [Commit] [Drop `pre_epoch`/`post_epoch` from hysteresis test (#5217)](https://github.com/ethereum/consensus-specs/commit/47360222a7554ea208012a41f9fd92816086c0d5) - 2026-05-07
+* [Commit] [Add gloas epoch processing functions in `get_process_calls` (#5216)](https://github.com/ethereum/consensus-specs/commit/cb5c4edb6fc52ece2b967b11c2d544407b2e5dd6) - 2026-05-07
+* [Commit] [Fix gossip validation tests (#5201)](https://github.com/ethereum/consensus-specs/commit/158aa60b42156fa26ce977bf4dc7543ec170d66b) - 2026-05-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

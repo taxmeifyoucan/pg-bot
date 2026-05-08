@@ -48,6 +48,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Add all networking reference tests. Some are ignored because test fixtures are broken](https://github.com/Consensys/teku/pull/10677) - 2026-05-06
 * [Review] [Review on: Add all networking reference tests. Some are ignored because test fixtures are broken](https://github.com/Consensys/teku/pull/10677#pullrequestreview-4236686183) - 2026-05-06
 * [Review] [Review on: Skip redundant chain head updates](https://github.com/Consensys/teku/pull/10675#pullrequestreview-4236095794) - 2026-05-06
+* [Review] [Review on: Handle Gloas finalization boundary](https://github.com/Consensys/teku/pull/10680#pullrequestreview-4246116944) - 2026-05-07
+* [Review] [Review on: Add all networking reference tests. Some are ignored because test fixtures are broken](https://github.com/Consensys/teku/pull/10677#pullrequestreview-4246870122) - 2026-05-07
+* [Commit] [Add all networking reference tests. Some are ignored because test fixtures are broken (#10677)](https://github.com/Consensys/teku/commit/6d57abab7f8384cef45d8d6cd3343e01f8bed363) - 2026-05-07
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

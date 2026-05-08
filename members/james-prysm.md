@@ -71,6 +71,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Propagate BAL when unblinding execution payloads](https://github.com/OffchainLabs/prysm/pull/16746#pullrequestreview-4216677860) - 2026-05-03
 * [Review] [Review on: Propagate BAL when unblinding execution payloads](https://github.com/OffchainLabs/prysm/pull/16746#pullrequestreview-4239115017) - 2026-05-06
 * [Pull Request] [proposer settings updates for proposer preferences validator client side](https://github.com/OffchainLabs/prysm/pull/16762) - 2026-05-06
+* [Review] [Review on: handle reorgs for proposer preferences](https://github.com/OffchainLabs/prysm/pull/16651#pullrequestreview-4246965493) - 2026-05-07
+* [Review] [Review on: Harden execution payload envelope nil checks](https://github.com/OffchainLabs/prysm/pull/16718#pullrequestreview-4244989003) - 2026-05-07
+* [Pull Request] [avoid htr and Stater.State(stateId) on get state root endpoint](https://github.com/OffchainLabs/prysm/pull/16765) - 2026-05-07
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

@@ -131,6 +131,12 @@ Team: Erigon
 * [Review] [Review on: execution/execmodule: use last known finalised hash for fcu finalisedBlockNum](https://github.com/erigontech/erigon/pull/21007#pullrequestreview-4234438543) - 2026-05-06
 * [Review] [Review on: execution/engineapitester: refactor enginex and engineapitester to not depend on testing.TB](https://github.com/erigontech/erigon/pull/21006#pullrequestreview-4234414937) - 2026-05-06
 * [Commit] [cmd, dbg: add --exec.no-background-maintenance flag for focused perf testing (#20977)](https://github.com/erigontech/erigon/commit/6c23cd54e6d61de506bb29292f942bd221bb1d6e) - 2026-05-06
+* [Pull Request] [execution/stagedsync: extract helpers so robustness tests drive production](https://github.com/erigontech/erigon/pull/21046) - 2026-05-07
+* [Pull Request] [execution/stagedsync: don't flag maxBlockNum on partial-batch apply-loop exit](https://github.com/erigontech/erigon/pull/21039) - 2026-05-07
+* [Pull Request] [state, stagedsync: parallel-exec wrong-root fix for SD vs EIP-161 emptyRemoval](https://github.com/erigontech/erigon/pull/21032) - 2026-05-07
+* [Pull Request] [execution/execmodule: wire stateCache into canonical UpdateForkChoice](https://github.com/erigontech/erigon/pull/21042) - 2026-05-07
+* [Review] [Review on: ci: matrix-test serial vs parallel exec across the test workflows](https://github.com/erigontech/erigon/pull/21017#pullrequestreview-4243482354) - 2026-05-07
+* [Commit] [stagedsync: fix commitmentCalculator asOfReader.txNum=0 lazy-load on snapshot-loaded chains (#21010)](https://github.com/erigontech/erigon/commit/69d618119bcede6c2ce0d674397926335b12dbec) - 2026-05-07
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

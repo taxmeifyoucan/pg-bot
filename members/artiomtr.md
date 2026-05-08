@@ -22,6 +22,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Set proper argument names in nethermind plugin](https://github.com/grandinetech/grandine/commit/eeb33a92284751b71a0f44f410308235657c55f3) - 2026-05-02
 * [Commit] [Fix zisk installation in CI](https://github.com/grandinetech/grandine/commit/b0d3909d92595ec3c2c500eeece20a020a777c21) - 2026-05-02
 * [Commit] [Update Autofac dependency to 9.1.0](https://github.com/grandinetech/grandine/commit/14100c183d0d306bf943e610a678847d39af9ef0) - 2026-05-02
+* [Review] [Review on: Decouple validator from beacon node via traits](https://github.com/grandinetech/grandine/pull/677#pullrequestreview-4242166093) - 2026-05-07
 ## Q1 2026
 
 

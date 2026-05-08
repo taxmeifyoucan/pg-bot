@@ -355,6 +355,7 @@ Team: Reth
 * [Commit] [chore(mdbx): replace deprecated MDBX_NOTLS with MDBX_NOSTICKYTHREADS (#23378)](https://github.com/paradigmxyz/reth/commit/fcfa8287f69a3509fcfef95d1b4dc8948ec86665) - 2026-04-30
 * [Review] [Review on: fix(provider): add default rocksdb write buffer manager](https://github.com/paradigmxyz/reth/pull/24001#pullrequestreview-4233765061) - 2026-05-06
 * [Review] [Review on: deps: bump libmdbx to v0.13.12](https://github.com/paradigmxyz/reth/pull/24007#pullrequestreview-4235203561) - 2026-05-06
+* [Review] [Review on: feat: run payload builder on a named os thread](https://github.com/paradigmxyz/reth/pull/24038#pullrequestreview-4245717135) - 2026-05-07
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

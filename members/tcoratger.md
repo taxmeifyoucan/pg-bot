@@ -137,6 +137,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [feat: bus-based cross-AIR interactions and lookup crate redesign (#1566)](https://github.com/Plonky3/Plonky3/commit/a5c7c66db901c77dcbf29752d0a57622d024803c) - 2026-05-05
 * [Commit] [perf(whir): delayed Montgomery reduction in sumcheck round-coefficient kernel (#1597)](https://github.com/Plonky3/Plonky3/commit/478d2b476864c38c6ed120f3e6f3b44d9e64fc1d) - 2026-05-05
 * [Review] [Review on: whir: wire stacked layouts to pcs](https://github.com/Plonky3/Plonky3/pull/1612#pullrequestreview-4239685564) - 2026-05-06
+* [Review] [Review on: refactor(air): merge PeriodicAirBuilder into AirBuilder](https://github.com/Plonky3/Plonky3/pull/1611#pullrequestreview-4247539561) - 2026-05-07
+* [Commit] [refactor(air): merge PeriodicAirBuilder into AirBuilder (#1611)](https://github.com/Plonky3/Plonky3/commit/b638013721b7c9c07b171cb79a47366c928fb550) - 2026-05-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

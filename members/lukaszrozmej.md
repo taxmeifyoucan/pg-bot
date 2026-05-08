@@ -334,6 +334,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: feat(zkevm): Migrate to zkVM standards](https://github.com/NethermindEth/nethermind/pull/11481#pullrequestreview-4233346802) - 2026-05-06
 * [Review] [Review on: fix: Fix dependency caching](https://github.com/NethermindEth/nethermind/pull/11499#pullrequestreview-4233755001) - 2026-05-06
 * [Review] [Review on: Bump up the version to 1.39.0-unstable](https://github.com/NethermindEth/nethermind/pull/11502#pullrequestreview-4233751926) - 2026-05-06
+* [Review] [Review on: fix(eth_createAccessList): preserve reverted-frame accesses and exclude precompiles](https://github.com/NethermindEth/nethermind/pull/11431#pullrequestreview-4241796283) - 2026-05-07
+* [Review] [Review on: fixed half-empty trace result](https://github.com/NethermindEth/nethermind/pull/11466#pullrequestreview-4241727779) - 2026-05-07
+* [Review] [Review on: feat: add `proof_getProofWithMeta` JSON-RPC method](https://github.com/NethermindEth/nethermind/pull/11498#pullrequestreview-4241734361) - 2026-05-07
+* [Review] [Review on: fix: PoW re-sync downloads already processed blocks](https://github.com/NethermindEth/nethermind/pull/11514#pullrequestreview-4245003273) - 2026-05-07
+* [Review] [Review on: perf(state): drive storage trie warm-up from writes via HintSet](https://github.com/NethermindEth/nethermind/pull/11409#pullrequestreview-4242156698) - 2026-05-07
+* [Review] [Review on: fix: drop buffered frame bytes on `FrameQueue.Clear`](https://github.com/NethermindEth/nethermind/pull/11510#pullrequestreview-4241654738) - 2026-05-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

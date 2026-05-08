@@ -87,6 +87,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [shutter: revert AI slop (#21005)](https://github.com/erigontech/erigon/commit/795a3b825ac0246832b2f2650754246154885e79) - 2026-05-06
 * [Commit] [execution/execmodule: use last known finalised hash for fcu finalisedBlockNum (#21007)](https://github.com/erigontech/erigon/commit/85c5905c74229b0f3ed777b3ad9bb6f1c43876d7) - 2026-05-06
 * [Commit] [execution/engineapitester: refactor enginex and engineapitester to not depend on testing.TB (#21006)](https://github.com/erigontech/erigon/commit/01cf22e2b48d5285d7cf614866841d9ff23f70cf) - 2026-05-06
+* [Pull Request] [cmd/evm: add enginexrunner alongside staterunner and blockrunner](https://github.com/erigontech/erigon/pull/21027) - 2026-05-07
+* [Pull Request] [claude: add generic launch-devnet skill](https://github.com/erigontech/erigon/pull/21024) - 2026-05-07
+* [Commit] [cmd/evm: add enginexrunner alongside staterunner and blockrunner (#21027)](https://github.com/erigontech/erigon/commit/12113dd93b643f2a129c8cf76f5a66b42458cff0) - 2026-05-07
 ## Q1 2026
 
 

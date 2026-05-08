@@ -57,6 +57,8 @@ Team: Geth
 * [Issue] [Flakey test on windows amd64](https://github.com/ethereum/go-ethereum/issues/34877) - 2026-05-05
 * [Commit] [core: implement eip-7981: Increase Access List Cost (#34755)](https://github.com/ethereum/go-ethereum/commit/aaa2b662856dcd8527dfb452ceee605467967fb1) - 2026-05-06
 * [Commit] [eth/catalyst: allow reorging the head block to a parent (#34767)](https://github.com/ethereum/go-ethereum/commit/4d2af275e1fe34eeafc50bbb61ea5bb96f11b10c) - 2026-05-06
+* [Pull Request] [core: implement EIP-8254: Cap deposit requests per block](https://github.com/ethereum/go-ethereum/pull/34901) - 2026-05-07
+* [Review] [Review on: core/state: track the block-level accessList](https://github.com/ethereum/go-ethereum/pull/34803#pullrequestreview-4241762763) - 2026-05-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

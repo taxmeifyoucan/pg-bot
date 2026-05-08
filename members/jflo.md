@@ -56,6 +56,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Upgrade Java baseline from 21 to 25](https://github.com/besu-eth/besu/issues/10434) - 2026-05-06
 * [Issue] [2026-05-12 Contributor Call](https://github.com/besu-eth/besu/issues/10433) - 2026-05-06
 * [Commit] [proposed adjustments to release process (#10411)](https://github.com/besu-eth/besu/commit/f027e9a7a99a2b91976e604e533517a64a836045) - 2026-05-07
+* [Pull Request] [chore(changelog): fold Unreleased entries into 26.5.0 for RC2](https://github.com/besu-eth/besu/pull/10455) - 2026-05-07
+* [Commit] [chore(changelog): fold Unreleased entries into 26.5.0 (#10455)](https://github.com/besu-eth/besu/commit/9b674a5da6c3da11603ef4cb00e0beaecf24730a) - 2026-05-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 ## Q1 2026

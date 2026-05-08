@@ -149,6 +149,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [change block retire's "keep in db" value to MaxReorgDepth (#20964)](https://github.com/erigontech/erigon/commit/8935f7d63d283f2bf0866e0c8700b0c5089edd84) - 2026-05-04
 * [Issue] [hoodi gas mismatch](https://github.com/erigontech/erigon/issues/20995) - 2026-05-05
 * [Issue] [commitment rebuild sometimes gives state root mistmatch on disabled squeeze](https://github.com/erigontech/erigon/issues/20992) - 2026-05-05
+* [Review] [Review on: db/state: refuse aggregation when MDBX has a gap vs snapshot coverage](https://github.com/erigontech/erigon/pull/20752#pullrequestreview-4243314629) - 2026-05-07
+* [Pull Request] [db/integrity: enable CommitmentRoot check on all .kv files](https://github.com/erigontech/erigon/pull/21029) - 2026-05-07
+* [Commit] [wire --erigondb.domain.steps-in-frozen-file for stage_exec and seg retire (#21025)](https://github.com/erigontech/erigon/commit/ec7a3615f5d5361cb4e25db4b91dd95dec64efa8) - 2026-05-07
+* [Commit] [db/state, db/integrity: FilesOnlyStateReader for commitment rebuild and CommitmentRoot (#21026)](https://github.com/erigontech/erigon/commit/a81cc87dccaf389e6cd14dc4d8471fe5971de95e) - 2026-05-07
+* [Commit] [cmd/utils/app: wait for background build/merge before MergeLoop in seg retire (#21023)](https://github.com/erigontech/erigon/commit/fa2ab7f9829909d363cbfa531cda8650933b103a) - 2026-05-07
 ## Q1 2026
 
 

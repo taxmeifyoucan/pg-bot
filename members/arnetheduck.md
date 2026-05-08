@@ -21,6 +21,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: clear blk from async closure env](https://github.com/status-im/nimbus-eth1/pull/4199#pullrequestreview-4215995235) - 2026-05-03
 * [Review] [Review on: Remove ref types from account and storage leaf caches](https://github.com/status-im/nimbus-eth1/pull/4192#pullrequestreview-4216028874) - 2026-05-03
 * [Pull Request] [chronos: bump to vtbl-stream](https://github.com/status-im/nimbus-eth1/pull/4207) - 2026-05-04
+* [Review] [Review on: Use RlpArrayBufWriter for rlp encoding in stateroot computation](https://github.com/status-im/nimbus-eth1/pull/4115#pullrequestreview-4241993289) - 2026-05-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid blocking main thread on reconstruction](https://github.com/status-im/nimbus-eth2/pull/8346) - 2026-04-27
 * [Pull Request] [gloas: pool cleanups](https://github.com/status-im/nimbus-eth2/pull/8348) - 2026-04-28
@@ -37,6 +38,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [chronos: bump to vtbl-stream](https://github.com/status-im/nimbus-eth2/pull/8394) - 2026-05-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4195918133) - 2026-04-29
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Add EIP: Execution-Layer Reorg State Retention Window](https://github.com/ethereum/EIPs/pull/11601#pullrequestreview-4242207500) - 2026-05-07
 ## Q1 2026
 
 

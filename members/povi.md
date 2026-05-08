@@ -25,6 +25,7 @@ Team: Grandine
 * [Review] [Review on: Feature/consensus specs v1.7.0 alpha4](https://github.com/grandinetech/grandine/pull/667#pullrequestreview-4128025553) - 2026-04-17
 * [Review] [Review on: Updates to publish signed execution payload bid API endpoint:](https://github.com/grandinetech/grandine/pull/668#pullrequestreview-4138565635) - 2026-04-20
 * [Review] [Review on: Update rust toolchain to 1.95.0](https://github.com/grandinetech/grandine/pull/672#pullrequestreview-4161349431) - 2026-04-23
+* [Review] [Review on: Test full epoch processing](https://github.com/grandinetech/grandine/pull/680#pullrequestreview-4243835980) - 2026-05-07
 ## Q1 2026
 
 

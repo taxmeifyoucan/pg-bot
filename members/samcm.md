@@ -25,6 +25,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix(kafka): make Producer.MaxMessageBytes configurable](https://github.com/ethpandaops/xatu/pull/809) - 2026-05-06
 * [Commit] [fix(kafka): exporter size check should use MaxMessageBytes, not FlushBytes (#810)](https://github.com/ethpandaops/xatu/commit/1e346b00956748aa7ad769d5ab8726e012932682) - 2026-05-06
 * [Commit] [fix(kafka): make Producer.MaxMessageBytes configurable (#809)](https://github.com/ethpandaops/xatu/commit/c9e05545d4400b2be4d1611c3abd08b85b0a2a2b) - 2026-05-06
+* [Pull Request] [[codex] balance mimicry execution peer selection](https://github.com/ethpandaops/xatu/pull/816) - 2026-05-07
+* [Pull Request] [feat(discovery): support bootstrapRpcUrl for RPC-backed Status](https://github.com/ethpandaops/xatu/pull/815) - 2026-05-07
+* [Review] [Review on: feat: migrate to ethpandaops/go-eth2-client; wire ePBS sourcing](https://github.com/ethpandaops/xatu/pull/813#pullrequestreview-4241007509) - 2026-05-07
+* [Commit] [feat(discovery): support bootstrapRpcUrl for RPC-backed Status (#815)](https://github.com/ethpandaops/xatu/commit/5fab83ec14df31d7c9e0b783af092a89f4838462) - 2026-05-07
+* [Commit] [cannon: add direct-to-clickhouse output sink (#808)](https://github.com/ethpandaops/xatu/commit/7fda2e0722263c4d94ca73ca0af3c4e53b55a8c3) - 2026-05-07
+* [Commit] [[codex] improve execution mimicry peering (#811)](https://github.com/ethpandaops/xatu/commit/6cda3c452fbec6fcb7b19577a9d892ce86291d17) - 2026-05-07
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23

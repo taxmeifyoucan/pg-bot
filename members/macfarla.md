@@ -128,6 +128,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: ci: migrate develop.yml Docker build to GitHub Actions](https://github.com/besu-eth/besu/pull/10366#pullrequestreview-4240561421) - 2026-05-07
 * [Review] [Review on: Fix forkchoice update reporting VALID after failed setNewHead](https://github.com/besu-eth/besu/pull/10271#pullrequestreview-4233667830) - 2026-05-06
 * [Review] [Review on: feat(jsonrpc): implement eth_capabilities RPC method](https://github.com/besu-eth/besu/pull/10322#pullrequestreview-4233634202) - 2026-05-06
+* [Review] [Review on: Agentic PR guidance for Contributors](https://github.com/besu-eth/besu/pull/10414#pullrequestreview-4248855146) - 2026-05-08
+* [Review] [Review on: Lazy RLP decoding for GetReceiptsMessage](https://github.com/besu-eth/besu/pull/10450#pullrequestreview-4248820038) - 2026-05-08
+* [Review] [Review on: Lazy RLP decoding for GetPooledTransactionsMessage](https://github.com/besu-eth/besu/pull/10449#pullrequestreview-4248810211) - 2026-05-08
+* [Pull Request] [fix: close LRUCache and ColumnFamilyOptions](https://github.com/besu-eth/besu/pull/10456) - 2026-05-08
+* [Review] [Review on: fix: return -38003 for FCUv1 timestamp errors](https://github.com/besu-eth/besu/pull/10353#pullrequestreview-4240944215) - 2026-05-07
+* [Review] [Review on: Fixed - logging cleanup for invalid blocks #10160](https://github.com/besu-eth/besu/pull/10180#pullrequestreview-4240985593) - 2026-05-07
+* [Review] [Review on: remove timeout for bal parallelization ](https://github.com/besu-eth/besu/pull/10389#pullrequestreview-4242985361) - 2026-05-07
+* [Review] [Review on: fix(referencetests): upgrade execution-spec-tests to v5.4.0 and handle expected exceptions](https://github.com/besu-eth/besu/pull/10307#pullrequestreview-4240887341) - 2026-05-07
+* [Review] [Review on: Handle new IPv6 addresses by updating NodeRecordManager](https://github.com/besu-eth/besu/pull/10416#pullrequestreview-4241290940) - 2026-05-07
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

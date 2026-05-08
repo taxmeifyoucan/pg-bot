@@ -30,6 +30,10 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(zkevm): add forks description into ChainConfig](https://github.com/ethereum/execution-specs/pull/2797#pullrequestreview-4223537216) - 2026-05-04
 * [Pull Request] [feat(zkevm): allow blockchain tests to skip stateless validation](https://github.com/ethereum/execution-specs/pull/2805) - 2026-05-05
 * [Review] [Review on: feat(zkevm): allow blockchain tests to skip stateless validation](https://github.com/ethereum/execution-specs/pull/2805#pullrequestreview-4231071114) - 2026-05-05
+* [Pull Request] [feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826) - 2026-05-07
+* [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4247917486) - 2026-05-07
+* [Pull Request] [feat(zkevm): fill public_keys execution witness field](https://github.com/ethereum/execution-specs/pull/2825) - 2026-05-07
+* [Review] [Review on: feat(zkevm): fill public_keys execution witness field](https://github.com/ethereum/execution-specs/pull/2825#pullrequestreview-4247230706) - 2026-05-07
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01

@@ -326,6 +326,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [test-fixtures: lazy-download manifest replaces eest-fixtures submodule (#21002)](https://github.com/erigontech/erigon/commit/ef9b48ff6a4d8b4203fe1587e90dd210e04dffda) - 2026-05-06
 * [Commit] [execution/tests: enforce checkNonce/checkTransaction in state harness (#21001)](https://github.com/erigontech/erigon/commit/f6e2a5e3bff31d6dd3cd9a359997130565d32b35) - 2026-05-06
 * [Commit] [execution/protocol: validate logs bloom on pre-Byzantium blocks (#20994)](https://github.com/erigontech/erigon/commit/5cae27da80cdb0ad42abb3fb853151ef3bc4828a) - 2026-05-06
+* [Review] [Review on: execution/stagedsync: don't flag maxBlockNum on partial-batch apply-loop exit](https://github.com/erigontech/erigon/pull/21039#pullrequestreview-4244274380) - 2026-05-07
+* [Review] [Review on: stagedsync: fix commitmentCalculator asOfReader.txNum=0 lazy-load on snapshot-loaded chains](https://github.com/erigontech/erigon/pull/21010#pullrequestreview-4245268475) - 2026-05-07
+* [Review] [Review on: execution/tracing: Fix exclude address list in AccessListTracer](https://github.com/erigontech/erigon/pull/21036#pullrequestreview-4244618184) - 2026-05-07
+* [Review] [Review on: state, stagedsync: parallel-exec wrong-root fix for SD vs EIP-161 emptyRemoval](https://github.com/erigontech/erigon/pull/21032#pullrequestreview-4244269919) - 2026-05-07
+* [Review] [Review on: docs: May 2026 w19 maintenance — stale flags, broken links, accuracy fixes](https://github.com/erigontech/erigon/pull/21018#pullrequestreview-4244577182) - 2026-05-07
+* [Review] [Review on: docs: add llms.txt generator script and update root llms.txt](https://github.com/erigontech/erigon/pull/21000#pullrequestreview-4244523188) - 2026-05-07
+* [Review] [Review on: docs: replace Quantify with Montserrat 800 in navbar title](https://github.com/erigontech/erigon/pull/20997#pullrequestreview-4243178111) - 2026-05-07
+* [Pull Request] [execution/abi: don't unset Amsterdam in NewSimulatedBackendWithConfig](https://github.com/erigontech/erigon/pull/21031) - 2026-05-07
+* [Review] [Review on: cl: implement GLOAS (EIP-7732 ePBS) for Caplin](https://github.com/erigontech/erigon/pull/18956#pullrequestreview-4244738468) - 2026-05-07
+* [Review] [Review on: cmd/evm: add enginexrunner alongside staterunner and blockrunner](https://github.com/erigontech/erigon/pull/21027#pullrequestreview-4244353025) - 2026-05-07
+* [Review] [Review on: fix(execution,rpc): fix Osaka defaults for simulated calls](https://github.com/erigontech/erigon/pull/20026#pullrequestreview-4244291821) - 2026-05-07
+* [Review] [Review on: claude: add generic launch-devnet skill](https://github.com/erigontech/erigon/pull/21024#pullrequestreview-4244312295) - 2026-05-07
+* [Commit] [execution/abi: don't unset Amsterdam in NewSimulatedBackendWithConfig (#21031)](https://github.com/erigontech/erigon/commit/5047cc9ffe53fbdf4cf41b2f4970562cc085fad7) - 2026-05-07
+* [Commit] [db/state: refuse aggregation when MDBX has a gap vs snapshot coverage (#20752)](https://github.com/erigontech/erigon/commit/a53c5760e137c2b1bc2596f44c5103e35bd58888) - 2026-05-07
+* [Commit] [txpool: recover queued txs misclassified by stale senders.info race (#20996)](https://github.com/erigontech/erigon/commit/ba95b98800eb21d57eeb52f425c4c7d4a1a03109) - 2026-05-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

@@ -460,6 +460,15 @@ Team: Erigon
 * [Commit] [TotalMemory: calc once (#20960)](https://github.com/erigontech/erigon/commit/866f5f3d4d110fd119d7a1b64e22aeee966c3492) - 2026-05-04
 * [Commit] [commitment: remove WarmupCache.enabled atomic.Bool (#20959)](https://github.com/erigontech/erigon/commit/919cc829c8f6bd0d3e67e4b1d747451e7cbbb33e) - 2026-05-05
 * [Commit] [ci: skip sonar and claude-review for dependabot PRs (#20972)](https://github.com/erigontech/erigon/commit/0d361416d6cb2b2b61b06d430fd8ead266e5e418) - 2026-05-06
+* [Review] [Review on: p2p/discover: copy buffer before sending read errors to unhandled](https://github.com/erigontech/erigon/pull/21041#pullrequestreview-4248756229) - 2026-05-08
+* [Review] [Review on: execution/commitmentdb: copy branch slice returned by `TrieContext.Branch` before sending via channel](https://github.com/erigontech/erigon/pull/21034#pullrequestreview-4248740879) - 2026-05-08
+* [Review] [Review on: [r3.4] db/state: 4x default step, transparent execution log, no key referencing](https://github.com/erigontech/erigon/pull/20930#pullrequestreview-4248829646) - 2026-05-08
+* [Review] [Review on: prune, state, snapshotsync: bound commitment history retention by block count](https://github.com/erigontech/erigon/pull/21021#pullrequestreview-4248799469) - 2026-05-08
+* [Review] [Review on: db/downloader: preserve writeFile error when cleanup runs](https://github.com/erigontech/erigon/pull/21040#pullrequestreview-4248760228) - 2026-05-08
+* [Review] [Review on: [r3.4] execution/commitment/commitmentdb: own branch slice returned by TrieContext.Branch](https://github.com/erigontech/erigon/pull/21044#pullrequestreview-4248742891) - 2026-05-08
+* [Review] [Review on: db/version: default snapshot git branch to performance](https://github.com/erigontech/erigon/pull/21048#pullrequestreview-4248724504) - 2026-05-08
+* [Review] [Review on: performance: cherry-pick inc-shard-def-size updates](https://github.com/erigontech/erigon/pull/21033#pullrequestreview-4243638207) - 2026-05-07
+* [Issue] [overcommit advise must be copy-pastable](https://github.com/erigontech/erigon/issues/21049) - 2026-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

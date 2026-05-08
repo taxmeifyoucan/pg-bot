@@ -67,6 +67,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(specs): EIP-8037 state-delta counter (frame-diff alternative) [DRAFT]](https://github.com/ethereum/execution-specs/pull/2765) - 2026-04-27
 * [Review] [Review on: refactor(test-benchmark): increase auth tx gas limit for storage benchmark](https://github.com/ethereum/execution-specs/pull/2771#pullrequestreview-4196171314) - 2026-04-29
 * [Pull Request] [feat(spec-specs, tests): EIP-8037 halt refunds spilled state gas](https://github.com/ethereum/execution-specs/pull/2815) - 2026-05-06
+* [Pull Request] [feat(spec-specs, tests): EIP-8037 more refund fixes](https://github.com/ethereum/execution-specs/pull/2823) - 2026-05-07
+* [Review] [Review on: fix(spec,test): 7702 refund block-level gas accounting for EIP-8037](https://github.com/ethereum/execution-specs/pull/2816#pullrequestreview-4245311956) - 2026-05-07
+* [Pull Request] [feat(spec-specs, tests): EIP-8037 drop double refund on incorporate_child_on_error](https://github.com/ethereum/execution-specs/pull/2822) - 2026-05-07
+* [Issue] [EIP-7610 Implementation Tracker: Revert creation for non-empty storage](https://github.com/ethereum/execution-specs/issues/2819) - 2026-05-07
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 
@@ -104,6 +108,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Update EIP-8037: more state gas accounting changes](https://github.com/ethereum/EIPs/commit/4f0332706351a67eae4adf1bfac880dfb412d237) - 2026-04-17
 * [Pull Request] [Update EIP-8037: Clarify SSTORE restoration refund rollback semantics](https://github.com/ethereum/EIPs/pull/11548) - 2026-04-19
 * [Commit] [Update EIP-8037: Clarify SSTORE restoration refund rollback semantics](https://github.com/ethereum/EIPs/commit/9493cd502540bb5b50e01aa3708835fb87fce0bc) - 2026-04-20
+* [Review] [Review on: Update EIP-7723: update SFI definition based on ACDT#74](https://github.com/ethereum/EIPs/pull/11475#pullrequestreview-4243004106) - 2026-05-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4112057595) - 2026-04-15
 

@@ -93,6 +93,14 @@ Team: Erigon
 * [Review] [Review on: db/state, db/integrity: unify commitment-branch referencing predicate](https://github.com/erigontech/erigon/pull/20944#pullrequestreview-4216178280) - 2026-05-03
 * [Review] [Review on: TotalMemory: calc once](https://github.com/erigontech/erigon/pull/20960#pullrequestreview-4222840535) - 2026-05-04
 * [Review] [Review on: [r3.4] db/state: 4x default step, transparent execution log, no key referencing](https://github.com/erigontech/erigon/pull/20930#pullrequestreview-4229648595) - 2026-05-05
+* [Pull Request] [execution/commitmentdb: copy branch slice returned by `TrieContext.Branch` before sending via channel](https://github.com/erigontech/erigon/pull/21034) - 2026-05-07
+* [Pull Request] [[r3.4] execution/commitment/commitmentdb: own branch slice returned by TrieContext.Branch](https://github.com/erigontech/erigon/pull/21044) - 2026-05-07
+* [Review] [Review on: [performance] sync claude-code-review and ci-gate workflows with main](https://github.com/erigontech/erigon/pull/21043#pullrequestreview-4246459806) - 2026-05-07
+* [Pull Request] [performance: fix key referencing threshold check](https://github.com/erigontech/erigon/pull/21037) - 2026-05-07
+* [Review] [Review on: [performance] Update the performance branch to point to latest of performance on erigon-snapshot repo](https://github.com/erigontech/erigon/pull/21035#pullrequestreview-4245191177) - 2026-05-07
+* [Pull Request] [performance: fix key referencing threshold check (2)](https://github.com/erigontech/erigon/pull/21038) - 2026-05-07
+* [Pull Request] [performance: cherry-pick inc-shard-def-size updates](https://github.com/erigontech/erigon/pull/21033) - 2026-05-07
+* [Commit] [execution/commitmentdb: copy branch slice returned by `TrieContext.Branch` before sending via channel (#21034)](https://github.com/erigontech/erigon/commit/f9aea42dd842796901b53356af90188bf832eede) - 2026-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

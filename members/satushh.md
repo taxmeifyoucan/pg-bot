@@ -41,6 +41,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Re-broadcast pending payload envelopes after processing](https://github.com/OffchainLabs/prysm/pull/16747#pullrequestreview-4236298332) - 2026-05-06
 * [Review] [Review on: implements ptc beacon apis](https://github.com/OffchainLabs/prysm/pull/16306#pullrequestreview-4235989530) - 2026-05-06
 * [Commit] [Cache empty execution requests root (#16725)](https://github.com/OffchainLabs/prysm/commit/4d407084131f583f97a4c32637076a2ced55e472) - 2026-05-06
+* [Review] [Review on: Harden execution payload envelope nil checks](https://github.com/OffchainLabs/prysm/pull/16718#pullrequestreview-4245263333) - 2026-05-07
+* [Review] [Review on: Request payload envelope when pending block's parent payload mi…](https://github.com/OffchainLabs/prysm/pull/16748#pullrequestreview-4244030361) - 2026-05-07
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

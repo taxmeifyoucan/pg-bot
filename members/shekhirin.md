@@ -104,6 +104,11 @@ Team: Reth
 * [Commit] [ci(bench): move metrics to port 9001 (#24009)](https://github.com/paradigmxyz/reth/commit/098ede2b3c85e7899c7bcc3cd471d0a3504fa77f) - 2026-05-06
 * [Commit] [deps: bump libmdbx to v0.13.12 (#24007)](https://github.com/paradigmxyz/reth/commit/39b2c738a84d661a1f09750a582dde951da122d1) - 2026-05-06
 * [Commit] [ci(bench): reenable minio binaries cache (#23993)](https://github.com/paradigmxyz/reth/commit/360332258ad5f8fbbdba2d1c400c4b8dc039d96c) - 2026-05-06
+* [Pull Request] [feat: run payload builder on a named os thread](https://github.com/paradigmxyz/reth/pull/24038) - 2026-05-07
+* [Review] [Review on: feat: run payload builder on a named os thread](https://github.com/paradigmxyz/reth/pull/24038#pullrequestreview-4245708282) - 2026-05-07
+* [Review] [Review on: ci(bench): link Reth repo in Slack notifications](https://github.com/paradigmxyz/reth/pull/24039#pullrequestreview-4244915245) - 2026-05-07
+* [Review] [Review on: chore: extract spawn_receipt_root_task](https://github.com/paradigmxyz/reth/pull/24031#pullrequestreview-4242408250) - 2026-05-07
+* [Commit] [feat: run payload builder on a named os thread (#24038)](https://github.com/paradigmxyz/reth/commit/fcc65301e96fa4e67886edc31793f0a951e0003c) - 2026-05-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

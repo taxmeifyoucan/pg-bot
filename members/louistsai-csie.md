@@ -67,6 +67,15 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Issue] [Backport benchmark changes from `devnets/bal/3` to the latest `devnet/main` branch.](https://github.com/ethereum/execution-specs/issues/2807) - 2026-05-06
 * [Commit] [chore(test-benchmark): re-enable `blockhash` benchmark (#2809)](https://github.com/ethereum/execution-specs/commit/5cdb055e069e246a877c8aa018079eb0b9093f57) - 2026-05-06
 * [Commit] [feat(test-benchmark): storage initialization helper with 7702 authorization (#2672)](https://github.com/ethereum/execution-specs/commit/63b589ec776c30eafc500c02f7a4489202959fbb) - 2026-05-06
+* [Review] [Review on: feat(test-cli): Add support for testing block building via simulator](https://github.com/ethereum/execution-specs/pull/2679#pullrequestreview-4241805608) - 2026-05-07
+* [Pull Request] [refactor(test-benchmark): support 8037 for `SSTORE` benchmark (NEVER MERGE)](https://github.com/ethereum/execution-specs/pull/2820) - 2026-05-07
+* [Review] [Review on: refactor(specs): move `REFUND_AUTH_PER_EXISTING_ACCOUNT` and `TX_MAX_GAS_LIMIT` to gas modules](https://github.com/ethereum/execution-specs/pull/2700#pullrequestreview-4242778310) - 2026-05-07
+* [Review] [Review on: feat(tests): cover EIP-7708 CREATE log rollback on outer revert](https://github.com/ethereum/execution-specs/pull/2785#pullrequestreview-4242511081) - 2026-05-07
+* [Review] [Review on: refactor(tests): `tx_gas` and `cold_gas` for `gas_test` generator](https://github.com/ethereum/execution-specs/pull/2083#pullrequestreview-4242223220) - 2026-05-07
+* [Review] [Review on: refactor(tests): parametrize `max_code_size` for EIP-3860 & 1153](https://github.com/ethereum/execution-specs/pull/2780#pullrequestreview-4241009365) - 2026-05-07
+* [Pull Request] [refactor(test-benchmark): precompile input parameter format](https://github.com/ethereum/execution-specs/pull/2817) - 2026-05-07
+* [Review] [Review on: refactor(test-benchmark): precompile input parameter format](https://github.com/ethereum/execution-specs/pull/2817#pullrequestreview-4241207652) - 2026-05-07
+* [Review] [Review on: test(test-benchmark): add `bn128_add` precompile special case benchmarks](https://github.com/ethereum/execution-specs/pull/2811#pullrequestreview-4240990518) - 2026-05-07
 ## Q1 2026
 
 

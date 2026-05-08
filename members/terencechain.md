@@ -123,6 +123,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Propagate BAL when unblinding execution payloads (#16746)](https://github.com/OffchainLabs/prysm/commit/b988bcaf084e6dce81cc7b08649ec5f8540fc18c) - 2026-05-07
 * [Commit] [Re-broadcast pending payload envelopes after processing (#16747)](https://github.com/OffchainLabs/prysm/commit/c03fbc62f5668abad10c059688d949d581450de7) - 2026-05-06
 * [Commit] [Include `ptc_window` in gloas debug state v2 response (#16736)](https://github.com/OffchainLabs/prysm/commit/3ef5c10542d8ebffbc7f67c209679c41db3cd611) - 2026-05-06
+* [Review] [Review on: Request payload envelope when pending block's parent payload mi…](https://github.com/OffchainLabs/prysm/pull/16748#pullrequestreview-4244831097) - 2026-05-07
+* [Review] [Review on: Cache PayloadAttestationData and dedupe concurrent PTC requests](https://github.com/OffchainLabs/prysm/pull/16744#pullrequestreview-4244715552) - 2026-05-07
+* [Commit] [Harden execution payload envelope nil checks (#16718)](https://github.com/OffchainLabs/prysm/commit/295855ff518611fc569c0f2b2620ac62faa12335) - 2026-05-07
+* [Commit] [Apply parent execution payload before building block (#16751)](https://github.com/OffchainLabs/prysm/commit/3287a385252f87d1e519d3806c7494e64c8bb772) - 2026-05-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

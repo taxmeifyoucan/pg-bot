@@ -118,6 +118,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: only trigger gloas blobs tracker in gossip](https://github.com/ChainSafe/lodestar/pull/9322#pullrequestreview-4217370685) - 2026-05-04
 * [Review] [Review on: fix: prevent seed state cache poisoning in loadState clone](https://github.com/ChainSafe/lodestar/pull/9246#pullrequestreview-4240859610) - 2026-05-07
 * [Pull Request] [fix: checkpoint sync for skipped slot](https://github.com/ChainSafe/lodestar/pull/9329) - 2026-05-06
+* [Review] [Review on: feat: only give proposer boost to canonical proposer](https://github.com/ChainSafe/lodestar/pull/9313#pullrequestreview-4249072169) - 2026-05-08
+* [Review] [Review on: feat: add beacon_blocks_by_head reqresp](https://github.com/ChainSafe/lodestar/pull/9331#pullrequestreview-4242713442) - 2026-05-07
+* [Review] [Review on: fix: prevent seed state cache poisoning in loadState clone](https://github.com/ChainSafe/lodestar/pull/9246#pullrequestreview-4240941519) - 2026-05-07
+* [Commit] [fix: checkpoint sync for skipped slot (#9329)](https://github.com/ChainSafe/lodestar/commit/05a33e512fb4b0c850de388ef34cf0896fb0f215) - 2026-05-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

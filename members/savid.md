@@ -14,6 +14,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Pull Request] [consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805) - 2026-04-08
 * [Review] [Review on: feat(local): add docker container log collection to ch](https://github.com/ethpandaops/xatu/pull/806#pullrequestreview-4080346244) - 2026-04-09
+* [Review] [Review on: feat: add payload_status to ForkChoiceNodeV2](https://github.com/ethpandaops/xatu/pull/819#pullrequestreview-4248618966) - 2026-05-08
+* [Review] [Review on: feat: wire ePBS SSE handlers + cannon derivers](https://github.com/ethpandaops/xatu/pull/814#pullrequestreview-4241459592) - 2026-05-07
+* [Review] [Review on: [codex] improve execution mimicry peering](https://github.com/ethpandaops/xatu/pull/811#pullrequestreview-4241378644) - 2026-05-07
 ## Q1 2026
 
 

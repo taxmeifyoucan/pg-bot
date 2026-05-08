@@ -31,6 +31,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: feat(gloas): add `GET /eth/v1/beacon/execution_payload_envelope/{block_id}](https://github.com/grandinetech/grandine/pull/674#pullrequestreview-4169133530) - 2026-04-24
 * [Review] [Review on: feat: Add ProposerPreferences gossip handling and broadcasting](https://github.com/grandinetech/grandine/pull/579#pullrequestreview-4175138497) - 2026-04-25
 * [Pull Request] [Small fixes](https://github.com/grandinetech/grandine/pull/676) - 2026-05-04
+* [Pull Request] [Test full epoch processing](https://github.com/grandinetech/grandine/pull/680) - 2026-05-07
+* [Pull Request] [fix: include block hash in Gloas genesis block](https://github.com/grandinetech/grandine/pull/679) - 2026-05-07
 ## Q1 2026
 
 

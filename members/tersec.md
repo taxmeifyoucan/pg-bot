@@ -101,6 +101,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add partial data column quarantine for partial column gossip management, add tests for the same](https://github.com/status-im/nimbus-eth2/pull/8410#pullrequestreview-4239302111) - 2026-05-06
 * [Review] [Review on: fix payload signature verification in execution payload gossip validation](https://github.com/status-im/nimbus-eth2/pull/8388#pullrequestreview-4236264362) - 2026-05-06
 * [Review] [Review on: Implement  /eth/v1/beacon/execution_payload_bid REST endpoint (POST)](https://github.com/status-im/nimbus-eth2/pull/8385#pullrequestreview-4235348942) - 2026-05-06
+* [Review] [Review on: Recover envelope sse events](https://github.com/status-im/nimbus-eth2/pull/8347#pullrequestreview-4244237043) - 2026-05-07
+* [Review] [Review on: fix: use correct condition for withdrawal computation](https://github.com/status-im/nimbus-eth2/pull/8415#pullrequestreview-4244309546) - 2026-05-07
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

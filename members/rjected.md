@@ -53,6 +53,8 @@ Team: Reth
 * [Commit] [fix(engine): increase state root task timeout to 4s (#23949)](https://github.com/paradigmxyz/reth/commit/83287322d5d15a7a72bd9419f3ee766f7ae1426a) - 2026-05-05
 * [Pull Request] [feat: support snapshot manifests from full nodes](https://github.com/paradigmxyz/reth/pull/24027) - 2026-05-06
 * [Commit] [fix(provider): add default rocksdb write buffer manager (#24001)](https://github.com/paradigmxyz/reth/commit/6cc20bf9e7a6271a1715abaf43f0a3263f234f31) - 2026-05-06
+* [Pull Request] [fix(download): accept tempo-style modular manifest fields](https://github.com/paradigmxyz/reth/pull/24049) - 2026-05-07
+* [Commit] [fix: update snapshot CLI references for tempo (#23953)](https://github.com/paradigmxyz/reth/commit/194ece23c3e9b03a26042ea887246d359e4fc47e) - 2026-05-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
 ## Q1 2026

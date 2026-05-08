@@ -310,6 +310,21 @@ Team: Reth
 * [Pull Request] [feat(storage): add disk BAL store](https://github.com/paradigmxyz/reth/pull/24008) - 2026-05-06
 * [Review] [Review on: deps: bump libmdbx to v0.13.12](https://github.com/paradigmxyz/reth/pull/24007#pullrequestreview-4235190352) - 2026-05-06
 * [Commit] [fix(discv5): advertise configured NAT IP in ENR (#24013)](https://github.com/paradigmxyz/reth/commit/5acc992ebfc7f6db10a1dd35f2fc317c91db7a8c) - 2026-05-06
+* [Review] [Review on: feat: fix number of workers](https://github.com/paradigmxyz/reth/pull/24034#pullrequestreview-4243119058) - 2026-05-07
+* [Review] [Review on: fix(bench): separate hourly workflow name for ClickHouse](https://github.com/paradigmxyz/reth/pull/24040#pullrequestreview-4247077677) - 2026-05-07
+* [Review] [Review on: fix: update snapshot CLI references for tempo](https://github.com/paradigmxyz/reth/pull/23953#pullrequestreview-4241687759) - 2026-05-07
+* [Review] [Review on: feat: support big blocks in `reth-bench new-payload-fcu`](https://github.com/paradigmxyz/reth/pull/24028#pullrequestreview-4241551550) - 2026-05-07
+* [Review] [Review on: chore: added structs for eip 8070](https://github.com/paradigmxyz/reth/pull/24024#pullrequestreview-4241578539) - 2026-05-07
+* [Review] [Review on: feat(rpc): cache revm BAL in eth state cache](https://github.com/paradigmxyz/reth/pull/24037#pullrequestreview-4243982036) - 2026-05-07
+* [Pull Request] [fix(engine): gate BAL parallel execution on state cache](https://github.com/paradigmxyz/reth/pull/24035) - 2026-05-07
+* [Review] [Review on: refactor: further simplify generate-big-block](https://github.com/paradigmxyz/reth/pull/24025#pullrequestreview-4241536773) - 2026-05-07
+* [Pull Request] [fix(engine): enforce BAL commit gas accounting](https://github.com/paradigmxyz/reth/pull/24036) - 2026-05-07
+* [Review] [Review on: refactor: use crossbeam receiver for tx recovery](https://github.com/paradigmxyz/reth/pull/24032#pullrequestreview-4242837952) - 2026-05-07
+* [Review] [Review on: feat(engine): include rejection reason in InvalidBlock event](https://github.com/paradigmxyz/reth/pull/23945#pullrequestreview-4241636849) - 2026-05-07
+* [Pull Request] [chore: merge main into bal-devnet-3](https://github.com/paradigmxyz/reth/pull/24033) - 2026-05-07
+* [Review] [Review on: feat(storage): add BAL store pruning](https://github.com/paradigmxyz/reth/pull/24023#pullrequestreview-4241571525) - 2026-05-07
+* [Review] [Review on: feat(trie): expose proof worker pool utilization gauges](https://github.com/paradigmxyz/reth/pull/24026#pullrequestreview-4241646291) - 2026-05-07
+* [Review] [Review on: refactor(rpc): centralize transaction info builders](https://github.com/paradigmxyz/reth/pull/24030#pullrequestreview-4241642013) - 2026-05-07
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

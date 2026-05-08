@@ -195,6 +195,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: include latest payload bid in gloas genesis block](https://github.com/ChainSafe/lodestar/pull/9336#pullrequestreview-4239110043) - 2026-05-06
 * [Review] [Review on: docs: clarify --serveHistoricalState and --chain.pruneHistory help text](https://github.com/ChainSafe/lodestar/pull/9328#pullrequestreview-4234891681) - 2026-05-06
 * [Commit] [fix: include latest payload bid in gloas genesis block (#9336)](https://github.com/ChainSafe/lodestar/commit/657dd16e6151c7e9927e7df33ee9f34f0052af13) - 2026-05-06
+* [Review] [Review on: fix: checkpoint sync for skipped slot](https://github.com/ChainSafe/lodestar/pull/9329#pullrequestreview-4243618212) - 2026-05-07
+* [Review] [Review on: feat: better self-rate-limit handling](https://github.com/ChainSafe/lodestar/pull/9335#pullrequestreview-4243331870) - 2026-05-07
+* [Issue] [Do we run full transition tests?](https://github.com/ChainSafe/lodestar/issues/9340) - 2026-05-07
+* [Issue] [Review is known ptc attester](https://github.com/ChainSafe/lodestar/issues/9338) - 2026-05-07
+* [Issue] [Update weak subjectivity calculation for EIP-8061](https://github.com/ChainSafe/lodestar/issues/9337) - 2026-05-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -250,6 +255,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix slot check in proposer preferences gossip (#5191)](https://github.com/ethereum/consensus-specs/commit/df7a4fc4e607da870db5e6a1b0a6e613c2031110) - 2026-04-29
 * [Review] [Review on: Fix gossip validation tests](https://github.com/ethereum/consensus-specs/pull/5201#pullrequestreview-4210743367) - 2026-05-01
 * [Review] [Review on: Remove pre-capella check in BTEC gossip handler](https://github.com/ethereum/consensus-specs/pull/5205#pullrequestreview-4228386550) - 2026-05-05
+* [Pull Request] [Make ForkChoiceNode a dataclass instead of SSZ Container](https://github.com/ethereum/consensus-specs/pull/5218) - 2026-05-07
+* [Pull Request] [Use `MIN_SEED_LOOKAHEAD` in proposer preferences](https://github.com/ethereum/consensus-specs/pull/5215) - 2026-05-07
+* [Review] [Review on: Use `MIN_SEED_LOOKAHEAD` in proposer preferences](https://github.com/ethereum/consensus-specs/pull/5215#pullrequestreview-4244502098) - 2026-05-07
+* [Review] [Review on: Force the proposer to reorg unavailable blocks](https://github.com/ethereum/consensus-specs/pull/5186#pullrequestreview-4244384212) - 2026-05-07
+* [Commit] [Use `MIN_SEED_LOOKAHEAD` in proposer preferences (#5215)](https://github.com/ethereum/consensus-specs/commit/c0abcb9c9c6f3f4f4e1f0ed775a43796f3f7a1ae) - 2026-05-07
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

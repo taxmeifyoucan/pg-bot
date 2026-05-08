@@ -36,6 +36,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Pull Request] [Update EIP-8037: Fix bugs from bal-devnet-6](https://github.com/ethereum/EIPs/pull/11611) - 2026-05-06
 * [Pull Request] [Update EIP-8037: Clarify SELFDESTRUCT charges](https://github.com/ethereum/EIPs/pull/11606) - 2026-05-06
 * [Commit] [Update EIP-8037: Clarify SELFDESTRUCT charges](https://github.com/ethereum/EIPs/commit/1d1e455c9e43b1e400b58b5475eac8a636f83555) - 2026-05-06
+* [Pull Request] [Update EIP-8037: Update parameters and rationale section](https://github.com/ethereum/EIPs/pull/11616) - 2026-05-07
+* [Review] [Review on: Update EIP-8037: Fix bugs from bal-devnet-6](https://github.com/ethereum/EIPs/pull/11611#pullrequestreview-4244465732) - 2026-05-07
 ## Q1 2026
 
 

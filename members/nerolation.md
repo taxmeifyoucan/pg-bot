@@ -35,6 +35,12 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Add EIP: Ancestor-Indexed BALs](https://github.com/ethereum/EIPs/pull/11595) - 2026-05-03
 * [Pull Request] [Add EIP: Execution-Layer Reorg State Retention Window](https://github.com/ethereum/EIPs/pull/11601) - 2026-05-05
 * [Review] [Review on: Update EIP-7981: Simplify spec](https://github.com/ethereum/EIPs/pull/11600#pullrequestreview-4226087229) - 2026-05-05
+* [Review] [Review on: Add EIP: Execution-Layer Reorg State Retention Window](https://github.com/ethereum/EIPs/pull/11601#pullrequestreview-4243143282) - 2026-05-07
+* [Pull Request] [Update EIP-8081: PFI EIPs 8131, 8146 and 8250 for Hegota](https://github.com/ethereum/EIPs/pull/11615) - 2026-05-07
+* [Pull Request] [Update EIP-7981: Update reference implementation](https://github.com/ethereum/EIPs/pull/11614) - 2026-05-07
+* [Pull Request] [Update EIP-8131: Clarify worst-case block size reduction, align 7976](https://github.com/ethereum/EIPs/pull/11613) - 2026-05-07
+* [Commit] [Update EIP-7981: Update reference implementation](https://github.com/ethereum/EIPs/commit/ff38d6d99bc34721d33b77d79dd3ab4b86079cb7) - 2026-05-07
+* [Commit] [Update EIP-8131: Clarify worst-case block size reduction, align 7976](https://github.com/ethereum/EIPs/commit/1707e6d11a9a56ab62b430e95bf83d0e8b2505ef) - 2026-05-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11
@@ -47,6 +53,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [feat(spec-specs, tests): EIP-7928 - Update BAL index to uint64 (#2713)](https://github.com/ethereum/execution-specs/commit/554bd418ba77f543940ca3b460c365c575eb72bd) - 2026-04-20
 * [Pull Request] [feat(tests): Add worst-case SSTORE test](https://github.com/ethereum/execution-specs/pull/2757) - 2026-04-25
 * [Pull Request] [feat(spec): EIP-8237 partial header hash](https://github.com/ethereum/execution-specs/pull/2770) - 2026-04-28
+* [Pull Request] [feat(specs): implement EIP-8254: Cap deposit requests per block](https://github.com/ethereum/execution-specs/pull/2818) - 2026-05-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use `engine_getPayloadV6`](https://github.com/ethereum/consensus-specs/pull/5123) - 2026-04-17
 * [Commit] [Use `engine_getPayloadV6` (#5123)](https://github.com/ethereum/consensus-specs/commit/81c27174232bedc50f71c2c4b78b07e2951252cd) - 2026-04-17

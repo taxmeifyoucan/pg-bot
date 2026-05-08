@@ -57,6 +57,9 @@ Team: Erigon
 * [Review] [Review on: cmd/utils: add --only-history flag to rm-state command](https://github.com/erigontech/erigon/pull/20899#pullrequestreview-4204234976) - 2026-04-30
 * [Review] [Review on: rpc: cancel in-flight op on fatal read error to fix Call hang](https://github.com/erigontech/erigon/pull/20932#pullrequestreview-4213601620) - 2026-05-01
 * [Review] [Review on: db/state: commitment domain existence filter - flags to get it in-mem (now it's on mmap)](https://github.com/erigontech/erigon/pull/20957#pullrequestreview-4215950684) - 2026-05-03
+* [Review] [Review on: execution/abi: don't unset Amsterdam in NewSimulatedBackendWithConfig](https://github.com/erigontech/erigon/pull/21031#pullrequestreview-4244669063) - 2026-05-07
+* [Review] [Review on: db/state: refuse aggregation when MDBX has a gap vs snapshot coverage](https://github.com/erigontech/erigon/pull/20752#pullrequestreview-4243029364) - 2026-05-07
+* [Review] [Review on: txpool: recover queued txs misclassified by stale senders.info race](https://github.com/erigontech/erigon/pull/20996#pullrequestreview-4243028878) - 2026-05-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

@@ -15,6 +15,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Issue] [suggestion: Increase invalid test coverage using the framework](https://github.com/ethereum/execution-specs/issues/2705) - 2026-04-17
 
 * [Pull Request] [🚧 wip: System derived negative tests for BAL](https://github.com/ethereum/execution-specs/pull/2755) - 2026-04-24
+* [Pull Request] [🧪 feat(tests):  EIP-7928 BAL test for 7702 account call with low balance](https://github.com/ethereum/execution-specs/pull/2824) - 2026-05-07
 [raxhvl/pglanding-raxhvl](https://github.com/raxhvl/pglanding-raxhvl)
 * [Commit] [✨ feat: Butterfly](https://github.com/raxhvl/pglanding-raxhvl/commit/4a4fc6b3eb90c580e7f119a1f799a3a11818d27d) - 2026-04-17
 ## Q1 2026

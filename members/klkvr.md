@@ -108,6 +108,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [perf(generate-big-blocks): don't fetch receipts](https://github.com/paradigmxyz/reth/pull/24011) - 2026-05-06
 * [Commit] [perf: avoid clone (#23940)](https://github.com/paradigmxyz/reth/commit/96be18816d351e4409f404d063f2013297528f56) - 2026-05-06
 * [Commit] [perf(generate-big-blocks): don't fetch receipts (#24011)](https://github.com/paradigmxyz/reth/commit/b46f961237450b632c4cbece3b844e99d3064bba) - 2026-05-06
+* [Pull Request] [feat: generate big blocks in flight](https://github.com/paradigmxyz/reth/pull/24048) - 2026-05-07
+* [Commit] [feat: support big blocks in `reth-bench new-payload-fcu` (#24028)](https://github.com/paradigmxyz/reth/commit/e89258ae8d546fec0df4cd10b4119d3b7387a662) - 2026-05-07
+* [Commit] [refactor: further simplify generate-big-block (#24025)](https://github.com/paradigmxyz/reth/commit/d497929a72c5bcda4f56974d640a677fe5b7f736) - 2026-05-07
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
@@ -123,6 +126,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [Revert "refactor: use `Cow` for warm precompile addresses (#3652)" (#3653)](https://github.com/bluealloy/revm/commit/2d8762342d23195bf6f372167658684e25ff3254) - 2026-05-05
 * [Commit] [refactor: use `Cow` for warm precompile addresses (#3652)](https://github.com/bluealloy/revm/commit/aace21d47b7a1cc4316cae0f7c5eb3a36096bfbb) - 2026-05-05
 * [Commit] [fix: gracefully handle commits of non-cached accounts (#3657)](https://github.com/bluealloy/revm/commit/345f2c34c57bb9fc7c9669453222361629ea4c41) - 2026-05-06
+* [Pull Request] [refactor: restructure `Journal` traits](https://github.com/bluealloy/revm/pull/3663) - 2026-05-07
+* [Commit] [refactor: restructure `Journal` traits (#3663)](https://github.com/bluealloy/revm/commit/ae93983a7d2fcb902f3fdf48b42ff6a5bc0bdb67) - 2026-05-07
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4140591296) - 2026-04-20

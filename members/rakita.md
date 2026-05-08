@@ -86,6 +86,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: refactor: remove unused spec ids](https://github.com/bluealloy/revm/pull/3649#pullrequestreview-4227947711) - 2026-05-05
 * [Commit] [fix(ee-tests): sort snapshot map keys for hasher independence (#3655)](https://github.com/bluealloy/revm/commit/848e0cfa215a73028c2731ed2c9f7a26f0e9b261) - 2026-05-05
 * [Commit] [test(ee-tests): switch to insta for snapshot assertions (#3654)](https://github.com/bluealloy/revm/commit/1087b0f8dccb7c27e2ac34c9a048056271d52322) - 2026-05-05
+* [Review] [Review on: refactor: restructure `Journal` traits](https://github.com/bluealloy/revm/pull/3663#pullrequestreview-4243830173) - 2026-05-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

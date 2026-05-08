@@ -26,6 +26,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Handle new IPv6 addresses by updating NodeRecordManager](https://github.com/besu-eth/besu/pull/10416) - 2026-05-05
 * [Review] [Review on: fix(core): resolve native file descriptor leaks in Era1 archive import and TOML configuration parsing](https://github.com/besu-eth/besu/pull/10408#pullrequestreview-4224991731) - 2026-05-05
 * [Review] [Review on: Handle new IPv6 addresses by updating NodeRecordManager](https://github.com/besu-eth/besu/pull/10416#pullrequestreview-4240830642) - 2026-05-07
+* [Review] [Review on: refactor: move revert reason flag into data storage config](https://github.com/besu-eth/besu/pull/10401#pullrequestreview-4248188184) - 2026-05-07
 ## Q1 2026
 
 

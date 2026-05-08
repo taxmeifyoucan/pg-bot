@@ -36,6 +36,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Generalise reconstruct_historic_states for ranged replay](https://github.com/sigp/lighthouse/pull/9222#pullrequestreview-4210563811) - 2026-05-01
 * [Pull Request] [ci: require AI assistance disclosure in PRs](https://github.com/sigp/lighthouse/pull/9260) - 2026-05-03
 * [Review] [Review on: Generalise reconstruct_historic_states for ranged replay](https://github.com/sigp/lighthouse/pull/9222#pullrequestreview-4218920394) - 2026-05-04
+* [Pull Request] [ERA file consumer and producer via LCLI](https://github.com/sigp/lighthouse/pull/9273) - 2026-05-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 

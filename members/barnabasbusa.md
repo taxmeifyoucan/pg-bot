@@ -99,6 +99,32 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [db: switch SQLite driver from glebarez to mattn/go-sqlite3](https://github.com/ethpandaops/dora/commit/6ec7a638522d54f0f43507f6bf78a0fcb2cfd652) - 2026-05-06
 * [Commit] [db: chunk GetDepositTxsByIndexes to stay under SQLite variable limit](https://github.com/ethpandaops/dora/commit/9b28bb3479a43ec202e484baf25925e60759adcc) - 2026-05-06
 * [Commit] [db: tune SQLite pragmas alongside WAL](https://github.com/ethpandaops/dora/commit/2ffbd6eaf1e301c90c90b2823e56063ad03da068) - 2026-05-06
+* [Pull Request] [feat(slot): regroup slot sub-tabs and rename slugs](https://github.com/ethpandaops/dora/pull/684) - 2026-05-07
+* [Pull Request] [feat(slot): persist active sub-tab in URL hash](https://github.com/ethpandaops/dora/pull/688) - 2026-05-07
+* [Pull Request] [feat: add API endpoints for new gloas slot properties](https://github.com/ethpandaops/dora/pull/686) - 2026-05-07
+* [Review] [Review on: Use fork agnostic types](https://github.com/ethpandaops/dora/pull/681#pullrequestreview-4243130422) - 2026-05-07
+* [Pull Request] [fix: 404 on unknown slot, plus inclusion-list tx matching on gloas+](https://github.com/ethpandaops/dora/pull/687) - 2026-05-07
+* [Pull Request] [fix: render BAL tx details From/To as hex instead of base64](https://github.com/ethpandaops/dora/pull/685) - 2026-05-07
+* [Pull Request] [fix: link Builder column on slot Bids tab to /builder/<idx>](https://github.com/ethpandaops/dora/pull/682) - 2026-05-07
+* [Commit] [Merge pull request #688 from ethpandaops/bbusa/slot-tab-hash-sync](https://github.com/ethpandaops/dora/commit/71586dfe474a132bec957ace28d886c49c9a69ab) - 2026-05-07
+* [Commit] [Merge branch 'master' into bbusa/slot-tab-hash-sync](https://github.com/ethpandaops/dora/commit/fcecc553777be6d269e7620843a087fd7ec2e79d) - 2026-05-07
+* [Commit] [Merge pull request #686 from ethpandaops/bbusa/api-slot-gloas-endpoints](https://github.com/ethpandaops/dora/commit/4efd4b2335fc9cf778f703cb89670239ab20e7f9) - 2026-05-07
+* [Commit] [feat(slot): persist active sub-tab in URL hash](https://github.com/ethpandaops/dora/commit/0fae8219cd9180cbbd2a9ff32d8003d9950d3011) - 2026-05-07
+* [Commit] [fix: adapt slot v1 API handlers to fork-agnostic block types](https://github.com/ethpandaops/dora/commit/47d19fe79ee1bd59bc164d2e796af6c786d00f41) - 2026-05-07
+* [Commit] [Merge branch 'master' into pk910/deprio-besu-traces](https://github.com/ethpandaops/dora/commit/8ece190d0fdbfc510d08b6fda7647fe02c1b61e3) - 2026-05-07
+* [Commit] [Merge branch 'master' into bbusa/api-slot-gloas-endpoints](https://github.com/ethpandaops/dora/commit/83915e2fb7d96e80be8b274164a1983a9589d7b5) - 2026-05-07
+* [Commit] [refactor: dedupe slotOrHash parsing in APISlotV1](https://github.com/ethpandaops/dora/commit/be230dfe3e5f2193fdfd7ab5ac88b7fb5fdff304) - 2026-05-07
+* [Commit] [fix: read transactions from SignedExecutionPayloadEnvelope on gloas+](https://github.com/ethpandaops/dora/commit/6635fe3988a57f88ad98a444ab0d90c29fd748a8) - 2026-05-07
+* [Commit] [refactor: fold slot resolver helper into slot_v1.go](https://github.com/ethpandaops/dora/commit/1b21d2632cd312def9951ae2748cd290e965ea9e) - 2026-05-07
+* [Commit] [Merge pull request #687 from ethpandaops/bbusa/fix-slot-detail-404](https://github.com/ethpandaops/dora/commit/d22b3fa4d2800b9f41d46c30bed7e52c9a0e3425) - 2026-05-07
+* [Commit] [fix: return 404 (not 500) on unknown slot for BAL/ptc_votes/payload_header](https://github.com/ethpandaops/dora/commit/481c056665ad50fda62a2349a9e64010e5e66d80) - 2026-05-07
+* [Commit] [feat: harmonize builder_index across bids and payload_header](https://github.com/ethpandaops/dora/commit/0ebbb7df64abe02bebe200557dd48076dd876f9a) - 2026-05-07
+* [Commit] [docs: regenerate swagger spec for new slot endpoints](https://github.com/ethpandaops/dora/commit/1e015996db6489996f053ce7ed3e3f79538727a9) - 2026-05-07
+* [Commit] [feat: add API endpoints for new gloas slot properties](https://github.com/ethpandaops/dora/commit/656d730a7aeda0b6d564d2f776395029e2e66f9f) - 2026-05-07
+* [Commit] [Merge pull request #685 from ethpandaops/bbusa/fix-bal-tx-details-hex](https://github.com/ethpandaops/dora/commit/8b2c0e9856be960c765901a5f098c8b3a6a1cbed) - 2026-05-07
+* [Commit] [fix: render BAL tx details From/To as hex instead of base64](https://github.com/ethpandaops/dora/commit/07434391e739579135cae6c308ec6e485a1410ae) - 2026-05-07
+* [Commit] [Merge pull request #682 from ethpandaops/bbusa/fix-bids-builder-link](https://github.com/ethpandaops/dora/commit/25693007804d13929104b2aabe6d0a079ac03c33) - 2026-05-07
+* [Commit] [fix: link Builder column on slot Bids tab to /builder/<idx>](https://github.com/ethpandaops/dora/commit/40e3d26478cae334a307a86b4867b6537b4635a3) - 2026-05-07
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01

@@ -53,6 +53,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(doc): re-write readme/top-level docs and add specs section to html docs](https://github.com/ethereum/execution-specs/pull/2677#pullrequestreview-4154684043) - 2026-04-22
 * [Pull Request] [feat(test-forks): Revert gas-limit-aware `Fork`, fork-aware `Environment`](https://github.com/ethereum/execution-specs/pull/2762) - 2026-04-27
 * [Review] [Review on: fix(spec): fix bad formatting indroduced by large refactor](https://github.com/ethereum/execution-specs/pull/2763#pullrequestreview-4181699651) - 2026-04-27
+* [Issue] [EIP-8246 Implementation Tracker: Remove SELFDESTRUCT Burn](https://github.com/ethereum/execution-specs/issues/2821) - 2026-05-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 ## Q1 2026

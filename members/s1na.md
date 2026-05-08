@@ -46,6 +46,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: eth/tracers: fix evm trace for t8n](https://github.com/ethereum/go-ethereum/pull/34862#pullrequestreview-4211400948) - 2026-05-01
 * [Review] [Review on: eth/tracers: forward V2 state hooks through mux tracer](https://github.com/ethereum/go-ethereum/pull/34869#pullrequestreview-4222901677) - 2026-05-04
 * [Pull Request] [.gitea: cross-compile windows on release](https://github.com/ethereum/go-ethereum/pull/34889) - 2026-05-06
+* [Review] [Review on: feat(ethapi): add eth_baseFee RPC method](https://github.com/ethereum/go-ethereum/pull/34904#pullrequestreview-4247219165) - 2026-05-07
+* [Review] [Review on: eth/tracers: fix data race on interruption reason across tracers](https://github.com/ethereum/go-ethereum/pull/34827#pullrequestreview-4247360952) - 2026-05-07
+* [Pull Request] [internal/era: update to latest ere spec](https://github.com/ethereum/go-ethereum/pull/34896) - 2026-05-07
+* [Review] [Review on: .gitea: cross-compile windows on release](https://github.com/ethereum/go-ethereum/pull/34889#pullrequestreview-4246834659) - 2026-05-07
+* [Review] [Review on: eth/tracers/logger: fix exclude address list](https://github.com/ethereum/go-ethereum/pull/34887#pullrequestreview-4243803675) - 2026-05-07
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20

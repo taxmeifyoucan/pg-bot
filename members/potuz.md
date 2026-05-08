@@ -36,6 +36,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Drain pending blocks when payload envelope arrives](https://github.com/OffchainLabs/prysm/pull/16749#pullrequestreview-4230834771) - 2026-05-05
 * [Review] [Review on: Use head aware state for payload attestation processing](https://github.com/OffchainLabs/prysm/pull/16745#pullrequestreview-4228868421) - 2026-05-05
 * [Review] [Review on: Write `totalEffectiveBalance` in `balanceCache` eagerly in `ProcessEffectiveBalanceUpdates`.](https://github.com/OffchainLabs/prysm/pull/16738#pullrequestreview-4228130560) - 2026-05-05
+* [Review] [Review on: Implement spec `V1.7.0 alpha.7` and pass spec tests](https://github.com/OffchainLabs/prysm/pull/16750#pullrequestreview-4243882023) - 2026-05-07
+* [Review] [Review on: Apply parent execution payload before building block](https://github.com/OffchainLabs/prysm/pull/16751#pullrequestreview-4243875959) - 2026-05-07
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08
@@ -62,6 +64,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Distinguish absent PTC votes from negative votes](https://github.com/ethereum/consensus-specs/pull/5180#pullrequestreview-4197207505) - 2026-04-29
 * [Pull Request] [Use different deadlines for payload and blob data availability](https://github.com/ethereum/consensus-specs/pull/5212) - 2026-05-06
 * [Pull Request] [Payload reorg](https://github.com/ethereum/consensus-specs/pull/5210) - 2026-05-06
+* [Review] [Review on: Add separate pending builder deposits queue](https://github.com/ethereum/consensus-specs/pull/5219#pullrequestreview-4247793662) - 2026-05-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17
