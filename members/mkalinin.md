@@ -29,6 +29,10 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Gloas: Modify notify_forkchoice_updated](https://github.com/ethereum/consensus-specs/pull/5197#pullrequestreview-4204684243) - 2026-04-30
 * [Review] [Review on: Support optional execution and proof engines in optimistic sync](https://github.com/ethereum/consensus-specs/pull/5161#pullrequestreview-4234003947) - 2026-05-06
 * [Review] [Review on: Support optional execution and proof engines in optimistic sync](https://github.com/ethereum/consensus-specs/pull/5161#pullrequestreview-4241517268) - 2026-05-07
+* [Review] [Review on: Count PTC votes from duplicated validators](https://github.com/ethereum/consensus-specs/pull/5222#pullrequestreview-4252194610) - 2026-05-08
+* [Review] [Review on: Define new `get_deposit_churn_limit` function](https://github.com/ethereum/consensus-specs/pull/5220#pullrequestreview-4250983998) - 2026-05-08
+* [Pull Request] [Add separate pending builder deposits queue, Take 2](https://github.com/ethereum/consensus-specs/pull/5221) - 2026-05-08
+* [Review] [Review on: Add separate pending builder deposits queue, Take 2](https://github.com/ethereum/consensus-specs/pull/5221#pullrequestreview-4251844022) - 2026-05-08
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

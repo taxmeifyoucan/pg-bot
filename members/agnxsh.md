@@ -26,6 +26,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [catch the first column gossip addition event for getBlobs](https://github.com/status-im/nimbus-eth2/pull/8393) - 2026-05-04
 * [Pull Request] [add partial data column quarantine for partial column gossip management, add tests for the same](https://github.com/status-im/nimbus-eth2/pull/8410) - 2026-05-06
 * [Pull Request] [add some updated specs and helpers, flag for Partial Messages](https://github.com/status-im/nimbus-eth2/pull/8409) - 2026-05-06
+* [Review] [Review on: add partial data column quarantine for partial column gossip management, add tests for the same](https://github.com/status-im/nimbus-eth2/pull/8410#pullrequestreview-4253150874) - 2026-05-08
 ## Q1 2026
 
 

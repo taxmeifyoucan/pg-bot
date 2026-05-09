@@ -57,6 +57,7 @@ Team: Geth
 * [Review] [Review on: core/state: fix StateDB Reader Error Discard After Commit](https://github.com/ethereum/go-ethereum/pull/34899#pullrequestreview-4248149343) - 2026-05-07
 * [Review] [Review on: core: record SetParentBeaconRoot beacon-root accesses in BAL](https://github.com/ethereum/go-ethereum/pull/34897#pullrequestreview-4248134733) - 2026-05-07
 * [Review] [Review on: core, core/state: instrument BAL slow-block metrics](https://github.com/ethereum/go-ethereum/pull/34861#pullrequestreview-4243949531) - 2026-05-07
+* [Review] [Review on: core/vm, core, miner: abort timed-out block transactions](https://github.com/ethereum/go-ethereum/pull/34905#pullrequestreview-4252572018) - 2026-05-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

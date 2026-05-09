@@ -154,6 +154,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [wire --erigondb.domain.steps-in-frozen-file for stage_exec and seg retire (#21025)](https://github.com/erigontech/erigon/commit/ec7a3615f5d5361cb4e25db4b91dd95dec64efa8) - 2026-05-07
 * [Commit] [db/state, db/integrity: FilesOnlyStateReader for commitment rebuild and CommitmentRoot (#21026)](https://github.com/erigontech/erigon/commit/a81cc87dccaf389e6cd14dc4d8471fe5971de95e) - 2026-05-07
 * [Commit] [cmd/utils/app: wait for background build/merge before MergeLoop in seg retire (#21023)](https://github.com/erigontech/erigon/commit/fa2ab7f9829909d363cbfa531cda8650933b103a) - 2026-05-07
+* [Review] [Review on: dirty files: remove direct file deletes](https://github.com/erigontech/erigon/pull/21053#pullrequestreview-4249661912) - 2026-05-08
+* [Review] [Review on: db/state: serialize Aggregator.Set*Workers to fix race with collate (blocks #21039 CI)](https://github.com/erigontech/erigon/pull/21062#pullrequestreview-4250896406) - 2026-05-08
+* [Review] [Review on: channel-range loops to be cancellable while idle](https://github.com/erigontech/erigon/pull/20942#pullrequestreview-4249667987) - 2026-05-08
+* [Review] [Review on: remove `erigon support` command](https://github.com/erigontech/erigon/pull/21054#pullrequestreview-4249676380) - 2026-05-08
+* [Commit] [cmd/utils/app, db/integrity: add check-rcache-root-at-blk[-range] commands (#20921)](https://github.com/erigontech/erigon/commit/55039365e46873d80f011555360935041253f72a) - 2026-05-08
+* [Commit] [db/integrity: enable CommitmentRoot check on all .kv files (#21029)](https://github.com/erigontech/erigon/commit/a98a674454d55d5b5d3911de13afa9f928c86db8) - 2026-05-08
 ## Q1 2026
 
 

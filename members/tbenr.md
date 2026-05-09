@@ -85,6 +85,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Skip redundant chain head updates](https://github.com/Consensys/teku/pull/10675) - 2026-05-06
 * [Review] [Review on: Skip redundant chain head updates](https://github.com/Consensys/teku/pull/10675#pullrequestreview-4236265069) - 2026-05-06
 * [Issue] [[glamsterdam-devnet-3] self building could build invalid payload](https://github.com/Consensys/teku/issues/10682) - 2026-05-07
+* [Pull Request] [devnet2 stack 02 execution payload](https://github.com/Consensys/teku/pull/10684) - 2026-05-08
+* [Pull Request] [devnet2 stack 01 Stabilize fork-choice state during block production](https://github.com/Consensys/teku/pull/10683) - 2026-05-08
+* [Pull Request] [devnet2 stack 03 gloas builder](https://github.com/Consensys/teku/pull/10685) - 2026-05-08
+* [Pull Request] [devnet2 stack 05 final devnet2](https://github.com/Consensys/teku/pull/10687) - 2026-05-08
+* [Pull Request] [devnet2 stack 04 parent consistency](https://github.com/Consensys/teku/pull/10686) - 2026-05-08
+* [Review] [Review on: glamsterdam-devnet-2 (v1.7.0-alpha.7 changes)](https://github.com/Consensys/teku/pull/10657#pullrequestreview-4250537864) - 2026-05-08
+* [Review] [Review on: Improve execution payload processing flow](https://github.com/Consensys/teku/pull/10681#pullrequestreview-4250919829) - 2026-05-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

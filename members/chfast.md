@@ -127,6 +127,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Update EIP-7981: Simplify spec](https://github.com/ethereum/EIPs/commit/71d3353c3f6776485539fe2ec526b7cc80780bfc) - 2026-05-05
 * [Commit] [Add EIP-8246: Remove SELFDESTRUCT Burn (#11590)](https://github.com/ethereum/EIPs/commit/630c3420dacd31a90ce702b76092f4c9f085d4d4) - 2026-05-06
 * [Review] [Review on: Update EIP-7981: Update reference implementation](https://github.com/ethereum/EIPs/pull/11614#pullrequestreview-4242752105) - 2026-05-07
+* [Pull Request] [Update EIP-8246: small spec style changes](https://github.com/ethereum/EIPs/pull/11632) - 2026-05-08
+* [Pull Request] [Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631) - 2026-05-08
+* [Pull Request] [Update EIP-8246: Fix typos and grammar](https://github.com/ethereum/EIPs/pull/11630) - 2026-05-08
+* [Pull Request] [Update EIP-8246: Move to Review](https://github.com/ethereum/EIPs/pull/11626) - 2026-05-08
+* [Pull Request] [Update EIP-7773: CFI EIP-8246 for Glamsterdam](https://github.com/ethereum/EIPs/pull/11625) - 2026-05-08
+* [Commit] [Update EIP-8246: small spec style changes](https://github.com/ethereum/EIPs/commit/3b30ff829e5e698f1c6f69427111d194b80af38d) - 2026-05-08
+* [Commit] [Update EIP-8246: Fix typos and grammar](https://github.com/ethereum/EIPs/commit/4e303336fc9970887aea31579f9e804f4a186030) - 2026-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4138243461) - 2026-04-20
 

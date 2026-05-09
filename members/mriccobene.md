@@ -44,6 +44,8 @@ Team: Erigon
 * [Review] [Review on: integration: extend eth_simulateV1 tests](https://github.com/erigontech/rpc-tests/pull/553#pullrequestreview-4178674463) - 2026-04-27
 * [Review] [Review on: integration: fix expected deletedAccounts in debug_traceBlockByNumber](https://github.com/erigontech/rpc-tests/pull/552#pullrequestreview-4178676457) - 2026-04-27
 * [Review] [Review on: integration: add -C flag to include tests requiring commitment-history](https://github.com/erigontech/rpc-tests/pull/556#pullrequestreview-4231787167) - 2026-05-05
+* [Review] [Review on: compare: fix nested JSON indentation in result file dump](https://github.com/erigontech/rpc-tests/pull/558#pullrequestreview-4251712719) - 2026-05-08
+* [Review] [Review on: add eth_capability test](https://github.com/erigontech/rpc-tests/pull/557#pullrequestreview-4251709975) - 2026-05-08
 ## Q1 2026
 
 

@@ -69,6 +69,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Improve execution payload processing flow](https://github.com/Consensys/teku/pull/10681) - 2026-05-07
 * [Review] [Review on: Improve execution payload processing flow](https://github.com/Consensys/teku/pull/10681#pullrequestreview-4245502015) - 2026-05-07
 * [Review] [Review on: Add all networking reference tests. Some are ignored because test fixtures are broken](https://github.com/Consensys/teku/pull/10677#pullrequestreview-4246859133) - 2026-05-07
+* [Review] [Review on: Improve execution payload processing flow](https://github.com/Consensys/teku/pull/10681#pullrequestreview-4251601738) - 2026-05-08
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

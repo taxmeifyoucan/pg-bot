@@ -65,6 +65,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Use different deadlines for payload and blob data availability](https://github.com/ethereum/consensus-specs/pull/5212) - 2026-05-06
 * [Pull Request] [Payload reorg](https://github.com/ethereum/consensus-specs/pull/5210) - 2026-05-06
 * [Review] [Review on: Add separate pending builder deposits queue](https://github.com/ethereum/consensus-specs/pull/5219#pullrequestreview-4247793662) - 2026-05-07
+* [Review] [Review on: Raise `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 8192 epochs](https://github.com/ethereum/consensus-specs/pull/5223#pullrequestreview-4253275062) - 2026-05-08
+* [Review] [Review on: Add separate pending builder deposits queue, Take 2](https://github.com/ethereum/consensus-specs/pull/5221#pullrequestreview-4251715930) - 2026-05-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17

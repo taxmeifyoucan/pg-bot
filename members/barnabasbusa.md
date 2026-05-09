@@ -149,6 +149,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [EIP-8025: make ExecutionEngine highly recommended but optional](https://github.com/ethereum/consensus-specs/pull/5151) - 2026-04-23
 * [Pull Request] [Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177) - 2026-04-27
 * [Commit] [Change minimal `PTC_SIZE` to 16 validators (#5177)](https://github.com/ethereum/consensus-specs/commit/73317f55baf4045b738cb225bea662661fa16304) - 2026-04-27
+* [Review] [Review on: Raise `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 8192 epochs](https://github.com/ethereum/consensus-specs/pull/5223#pullrequestreview-4253118462) - 2026-05-08
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [Remove broken update_project_wiki job](https://github.com/ethpandaops/assertoor/pull/156) - 2026-04-09
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/assertoor/pull/155) - 2026-04-09
@@ -221,6 +222,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(discovery/clients): add ethrex to default execution clients](https://github.com/ethpandaops/cartographoor/pull/89) - 2026-04-28
 * [Commit] [Merge pull request #89 from ethpandaops/bbusa/add-ethrex-to-discovery](https://github.com/ethpandaops/cartographoor/commit/2e02857de6b1f8b012fa45ed8760f19dcc93c8d5) - 2026-04-28
 * [Commit] [feat(discovery/clients): add ethrex to default execution clients](https://github.com/ethpandaops/cartographoor/commit/0d50528b5b448237596d0f5d02b94e343e2133a3) - 2026-04-28
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: feat: add ssz to engine api](https://github.com/ethereum/execution-apis/pull/764#pullrequestreview-4250706918) - 2026-05-08
 ## Q1 2026
 
 

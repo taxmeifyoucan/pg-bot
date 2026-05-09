@@ -54,8 +54,18 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(test-forks): Revert gas-limit-aware `Fork`, fork-aware `Environment`](https://github.com/ethereum/execution-specs/pull/2762) - 2026-04-27
 * [Review] [Review on: fix(spec): fix bad formatting indroduced by large refactor](https://github.com/ethereum/execution-specs/pull/2763#pullrequestreview-4181699651) - 2026-04-27
 * [Issue] [EIP-8246 Implementation Tracker: Remove SELFDESTRUCT Burn](https://github.com/ethereum/execution-specs/issues/2821) - 2026-05-07
+* [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255752336) - 2026-05-08
+* [Review] [Review on: fix(cli): add pytest EIP markers for valid_from tests](https://github.com/ethereum/execution-specs/pull/2701#pullrequestreview-4255995116) - 2026-05-08
+* [Review] [Review on: fix(ported_static): bump gas budgets for EIP-8037 state-gas headroom on Amsterdam](https://github.com/ethereum/execution-specs/pull/2796#pullrequestreview-4255956548) - 2026-05-08
+* [Review] [Review on: refactor(test-benchmark): precompile input parameter format](https://github.com/ethereum/execution-specs/pull/2817#pullrequestreview-4255859260) - 2026-05-08
+* [Review] [Review on: feat(spec, spec-specs): EIP-7997](https://github.com/ethereum/execution-specs/pull/2802#pullrequestreview-4252606231) - 2026-05-08
+* [Review] [Review on: feat(tests): cover EIP-7708 CREATE log rollback on outer revert](https://github.com/ethereum/execution-specs/pull/2785#pullrequestreview-4255575785) - 2026-05-08
+* [Commit] [feat(test-forks): Revert gas-limit-aware `Fork`, fork-aware `Environment` (#2762)](https://github.com/ethereum/execution-specs/commit/462ee80572c70821e384341e51b5d56b4479b126) - 2026-05-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7708: Use EIP-8246 to simplify](https://github.com/ethereum/EIPs/pull/11634) - 2026-05-08
 ## Q1 2026
 
 

@@ -341,6 +341,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/abi: don't unset Amsterdam in NewSimulatedBackendWithConfig (#21031)](https://github.com/erigontech/erigon/commit/5047cc9ffe53fbdf4cf41b2f4970562cc085fad7) - 2026-05-07
 * [Commit] [db/state: refuse aggregation when MDBX has a gap vs snapshot coverage (#20752)](https://github.com/erigontech/erigon/commit/a53c5760e137c2b1bc2596f44c5103e35bd58888) - 2026-05-07
 * [Commit] [txpool: recover queued txs misclassified by stale senders.info race (#20996)](https://github.com/erigontech/erigon/commit/ba95b98800eb21d57eeb52f425c4c7d4a1a03109) - 2026-05-07
+* [Review] [Review on: state, stagedsync: parallel-exec wrong-root fix for SD vs EIP-161 emptyRemoval](https://github.com/erigontech/erigon/pull/21032#pullrequestreview-4251415169) - 2026-05-08
+* [Pull Request] [execution/stagedsync: advance Execution stage to snapshot commitment block](https://github.com/erigontech/erigon/pull/21069) - 2026-05-08
+* [Pull Request] [execution/protocol/rules/aura: don't panic on syscall failure in IsServiceTransaction](https://github.com/erigontech/erigon/pull/21068) - 2026-05-08
+* [Review] [Review on: execution/protocol/rules/aura: don't panic on syscall failure in IsServiceTransaction](https://github.com/erigontech/erigon/pull/21068#pullrequestreview-4252993577) - 2026-05-08
+* [Pull Request] [ci: add discv5 to devp2p Hive shard, bump hive pins](https://github.com/erigontech/erigon/pull/21065) - 2026-05-08
+* [Review] [Review on: [r3.4] docs: trace response fields reference + sync-monitoring guidance](https://github.com/erigontech/erigon/pull/21063#pullrequestreview-4251537188) - 2026-05-08
+* [Review] [Review on: execution/stagedsync: don't flag maxBlockNum on partial-batch apply-loop exit](https://github.com/erigontech/erigon/pull/21039#pullrequestreview-4251528996) - 2026-05-08
+* [Review] [Review on: [r3.4] docs: May 2026 w19 maintenance — stale flags, broken links, accuracy fixes](https://github.com/erigontech/erigon/pull/21018#pullrequestreview-4251329759) - 2026-05-08
+* [Review] [Review on: execution/execmodule: wire stateCache into canonical UpdateForkChoice](https://github.com/erigontech/erigon/pull/21042#pullrequestreview-4251322948) - 2026-05-08
+* [Review] [Review on: claude: add generic launch-devnet skill](https://github.com/erigontech/erigon/pull/21024#pullrequestreview-4251434760) - 2026-05-08
+* [Review] [Review on: p2p/sentry, rpc: restore eth/71 server-side dispatch (EIP-7928 / EIP-8159 Amsterdam)](https://github.com/erigontech/erigon/pull/20893#pullrequestreview-4251563926) - 2026-05-08
+* [Issue] [eth_call crashed: invalid opcode: SHR](https://github.com/erigontech/erigon/issues/21066) - 2026-05-08
+* [Commit] [ci: add discv5 to devp2p Hive shard, bump hive pins (#21065)](https://github.com/erigontech/erigon/commit/a9a3c6d4a0405ef74b5d04c9d035fe26b3c3263b) - 2026-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

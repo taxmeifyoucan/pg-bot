@@ -127,6 +127,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Cache PayloadAttestationData and dedupe concurrent PTC requests](https://github.com/OffchainLabs/prysm/pull/16744#pullrequestreview-4244715552) - 2026-05-07
 * [Commit] [Harden execution payload envelope nil checks (#16718)](https://github.com/OffchainLabs/prysm/commit/295855ff518611fc569c0f2b2620ac62faa12335) - 2026-05-07
 * [Commit] [Apply parent execution payload before building block (#16751)](https://github.com/OffchainLabs/prysm/commit/3287a385252f87d1e519d3806c7494e64c8bb772) - 2026-05-07
+* [Pull Request] [Add gloas fork choice spec tests](https://github.com/OffchainLabs/prysm/pull/16771) - 2026-05-08
+* [Pull Request] [Add gloas random and rewards spec tests](https://github.com/OffchainLabs/prysm/pull/16770) - 2026-05-08
+* [Pull Request] [Add gloas operations spec tests](https://github.com/OffchainLabs/prysm/pull/16769) - 2026-05-08
+* [Pull Request] [Add gloas epoch processing spec tests](https://github.com/OffchainLabs/prysm/pull/16768) - 2026-05-08
+* [Commit] [Cache PayloadAttestationData and dedupe concurrent PTC requests (#16744)](https://github.com/OffchainLabs/prysm/commit/6a2dfaab953d1e87d51e39d03b1f7d3da550df96) - 2026-05-08
+* [Commit] [Implement spec `V1.7.0 alpha.7` and pass spec tests (#16750)](https://github.com/OffchainLabs/prysm/commit/651b9bc2909ed4eb8995a55d8c5543c9acefb479) - 2026-05-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

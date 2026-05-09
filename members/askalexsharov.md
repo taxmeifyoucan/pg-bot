@@ -469,6 +469,21 @@ Team: Erigon
 * [Review] [Review on: db/version: default snapshot git branch to performance](https://github.com/erigontech/erigon/pull/21048#pullrequestreview-4248724504) - 2026-05-08
 * [Review] [Review on: performance: cherry-pick inc-shard-def-size updates](https://github.com/erigontech/erigon/pull/21033#pullrequestreview-4243638207) - 2026-05-07
 * [Issue] [overcommit advise must be copy-pastable](https://github.com/erigontech/erigon/issues/21049) - 2026-05-08
+* [Pull Request] [dirty files: remove direct file deletes](https://github.com/erigontech/erigon/pull/21053) - 2026-05-08
+* [Pull Request] [gitignore: *.local.json ](https://github.com/erigontech/erigon/pull/21052) - 2026-05-08
+* [Pull Request] [Revert "[r3.4] db/state: 4x default step, transparent execution log, no key referencing"](https://github.com/erigontech/erigon/pull/21057) - 2026-05-08
+* [Pull Request] [[r3.4] db/version: bump version to 3.4.1](https://github.com/erigontech/erigon/pull/21061) - 2026-05-08
+* [Review] [Review on: execution: speedup enginextestrunner by disabling txpool and sentry](https://github.com/erigontech/erigon/pull/21059#pullrequestreview-4250734100) - 2026-05-08
+* [Review] [Review on: cmd/evm: parallel workers in evm statetest and blocktest](https://github.com/erigontech/erigon/pull/21058#pullrequestreview-4250011992) - 2026-05-08
+* [Review] [Review on: execution: make block read aheader non-global](https://github.com/erigontech/erigon/pull/21056#pullrequestreview-4250004050) - 2026-05-08
+* [Pull Request] [remove `erigon support` command](https://github.com/erigontech/erigon/pull/21054) - 2026-05-08
+* [Review] [Review on: cl/checkpoint_sync: suppress cancellation noise](https://github.com/erigontech/erigon/pull/21050#pullrequestreview-4249345441) - 2026-05-08
+* [Review] [Review on: cmd/utils/app, db/integrity: add check-rcache-root-at-blk[-range] commands](https://github.com/erigontech/erigon/pull/20921#pullrequestreview-4249419009) - 2026-05-08
+* [Review] [Review on: db/integrity: enable CommitmentRoot check on all .kv files](https://github.com/erigontech/erigon/pull/21029#pullrequestreview-4249417867) - 2026-05-08
+* [Review] [Review on: cl, downloader: suppress context-canceled warnings on shutdown](https://github.com/erigontech/erigon/pull/21051#pullrequestreview-4249350623) - 2026-05-08
+* [Issue] [Explore `sequence.Ranges()` iterator api](https://github.com/erigontech/erigon/issues/21055) - 2026-05-08
+* [Commit] [gitignore: *.local.json  (#21052)](https://github.com/erigontech/erigon/commit/9f7fbdff1d29222c9a2eae4070eb63ff6d3b008c) - 2026-05-08
+* [Commit] [remove `erigon support` command (#21054)](https://github.com/erigontech/erigon/commit/5c577df9406535ad972142c3c8ee70a4e3b8cfcc) - 2026-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

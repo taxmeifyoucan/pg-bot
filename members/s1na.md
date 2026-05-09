@@ -51,6 +51,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [internal/era: update to latest ere spec](https://github.com/ethereum/go-ethereum/pull/34896) - 2026-05-07
 * [Review] [Review on: .gitea: cross-compile windows on release](https://github.com/ethereum/go-ethereum/pull/34889#pullrequestreview-4246834659) - 2026-05-07
 * [Review] [Review on: eth/tracers/logger: fix exclude address list](https://github.com/ethereum/go-ethereum/pull/34887#pullrequestreview-4243803675) - 2026-05-07
+* [Review] [Review on: eth/tracers: fix data race on interruption reason across tracers](https://github.com/ethereum/go-ethereum/pull/34827#pullrequestreview-4255028397) - 2026-05-08
+* [Commit] [.gitea, build: cross-compile windows binaries (#34889)](https://github.com/ethereum/go-ethereum/commit/592209c0ee99bd9c3046d27ecea5b970c64a8730) - 2026-05-08
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20

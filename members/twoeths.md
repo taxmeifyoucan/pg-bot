@@ -122,6 +122,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add beacon_blocks_by_head reqresp](https://github.com/ChainSafe/lodestar/pull/9331#pullrequestreview-4242713442) - 2026-05-07
 * [Review] [Review on: fix: prevent seed state cache poisoning in loadState clone](https://github.com/ChainSafe/lodestar/pull/9246#pullrequestreview-4240941519) - 2026-05-07
 * [Commit] [fix: checkpoint sync for skipped slot (#9329)](https://github.com/ChainSafe/lodestar/commit/05a33e512fb4b0c850de388ef34cf0896fb0f215) - 2026-05-07
+* [Issue] [Gloas pending deposits performance issue](https://github.com/ChainSafe/lodestar/issues/9341) - 2026-05-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

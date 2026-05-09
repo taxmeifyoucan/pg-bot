@@ -109,6 +109,8 @@ Team: Reth
 * [Review] [Review on: ci(bench): link Reth repo in Slack notifications](https://github.com/paradigmxyz/reth/pull/24039#pullrequestreview-4244915245) - 2026-05-07
 * [Review] [Review on: chore: extract spawn_receipt_root_task](https://github.com/paradigmxyz/reth/pull/24031#pullrequestreview-4242408250) - 2026-05-07
 * [Commit] [feat: run payload builder on a named os thread (#24038)](https://github.com/paradigmxyz/reth/commit/fcc65301e96fa4e67886edc31793f0a951e0003c) - 2026-05-07
+* [Review] [Review on: refactor(engine): add validation output type](https://github.com/paradigmxyz/reth/pull/24089#pullrequestreview-4252836582) - 2026-05-08
+* [Review] [Review on: fix(ci): configure bench chart git identity](https://github.com/paradigmxyz/reth/pull/24073#pullrequestreview-4251194865) - 2026-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

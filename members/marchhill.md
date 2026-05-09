@@ -37,6 +37,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Feature/parallel txs optimise prestate load](https://github.com/NethermindEth/nethermind/pull/11495) - 2026-05-05
 * [Pull Request] [Bal devnet 6 benchmarks](https://github.com/NethermindEth/nethermind/pull/11511) - 2026-05-06
 * [Review] [Review on: feat(zkevm): Enable BAL in stateless execution](https://github.com/NethermindEth/nethermind/pull/11505#pullrequestreview-4235411461) - 2026-05-06
+* [Review] [Review on: Bal devnet 6 benchmarks](https://github.com/NethermindEth/nethermind/pull/11511#pullrequestreview-4251465862) - 2026-05-08
 ## Q1 2026
 
 

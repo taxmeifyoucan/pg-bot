@@ -38,6 +38,10 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Commit] [Update EIP-8037: Clarify SELFDESTRUCT charges](https://github.com/ethereum/EIPs/commit/1d1e455c9e43b1e400b58b5475eac8a636f83555) - 2026-05-06
 * [Pull Request] [Update EIP-8037: Update parameters and rationale section](https://github.com/ethereum/EIPs/pull/11616) - 2026-05-07
 * [Review] [Review on: Update EIP-8037: Fix bugs from bal-devnet-6](https://github.com/ethereum/EIPs/pull/11611#pullrequestreview-4244465732) - 2026-05-07
+* [Review] [Review on: Update EIP-2780: Add missing 7708 log costs for CREATE with endowment](https://github.com/ethereum/EIPs/pull/11586#pullrequestreview-4250373203) - 2026-05-08
+* [Pull Request] [Update EIP-8038: Align with 8037 and clarify spec & rationale](https://github.com/ethereum/EIPs/pull/11623) - 2026-05-08
+* [Pull Request] [Update EIP-7904: Interop numbers](https://github.com/ethereum/EIPs/pull/11622) - 2026-05-08
+* [Review] [Review on: Update EIP-8037: Fix bugs from bal-devnet-6](https://github.com/ethereum/EIPs/pull/11611#pullrequestreview-4250153183) - 2026-05-08
 ## Q1 2026
 
 

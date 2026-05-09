@@ -15,6 +15,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Pull Request] [Update EIP-7773: minor errors](https://github.com/ethereum/EIPs/pull/11496) - 2026-04-09
 * [Pull Request] [Update EIP-7773: PFI EIP-7979 and EIP-8163](https://github.com/ethereum/EIPs/pull/11574) - 2026-04-28
 * [Commit] [Update EIP-7773: PFI EIP-7979 and EIP-8163](https://github.com/ethereum/EIPs/commit/1037d6ef44bd42f1e744a09bda5af33b8d986cf9) - 2026-04-28
+* [Commit] [Update EIP-7723: update SFI definition based on ACDT#74 (#11475)](https://github.com/ethereum/EIPs/commit/d8de18bb9da22fa910bef39bb98ce97eb38f8f54) - 2026-05-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Commit] [Fix CI: downgrade Requests to 2.32.5 for Python 3.9 compatibility](https://github.com/ethereum/pm/commit/b8ce2627f82c7790432c37c2b66c0083ee61c96d) - 2026-04-01
 * [Issue] [All Core Devs - Execution (ACDE) #234, April 9, 2026](https://github.com/ethereum/pm/issues/2004) - 2026-04-04

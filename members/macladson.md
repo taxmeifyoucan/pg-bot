@@ -33,6 +33,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Unblock CI by temporarily ignoring `hickory-proto` audit failures](https://github.com/sigp/lighthouse/pull/9257) - 2026-05-03
 * [Issue] [`hickory-proto` audit failure tracking issue](https://github.com/sigp/lighthouse/issues/9258) - 2026-05-03
 * [Review] [Review on: Remove `TestRandom`](https://github.com/sigp/lighthouse/pull/9006#pullrequestreview-4218610658) - 2026-05-04
+* [Review] [Review on: Fix execution integration test CI failure](https://github.com/sigp/lighthouse/pull/9277#pullrequestreview-4250503640) - 2026-05-08
 ## Q1 2026
 
 

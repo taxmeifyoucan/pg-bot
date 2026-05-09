@@ -20,6 +20,7 @@ Team: Codex DAS
 * [Pull Request] [eth: add request-latency peer-drop protection and split peerstats from txtracker](https://github.com/ethereum/go-ethereum/pull/34771) - 2026-04-20
 * [Review] [Review on: cmd/devp2p: add more hive discv5 coverage](https://github.com/ethereum/go-ethereum/pull/34770#pullrequestreview-4146898191) - 2026-04-21
 * [Pull Request] [p2p/discover: Add crawl iterator based on direct FINDNODE requests](https://github.com/ethereum/go-ethereum/pull/34900) - 2026-05-07
+* [Review] [Review on: p2p/discover: decouple nodeFeed from Table mutex in waitForNodes](https://github.com/ethereum/go-ethereum/pull/34898#pullrequestreview-4250874816) - 2026-05-08
 ## Q1 2026
 
 

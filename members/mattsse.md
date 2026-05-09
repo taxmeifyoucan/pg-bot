@@ -325,6 +325,35 @@ Team: Reth
 * [Review] [Review on: feat(storage): add BAL store pruning](https://github.com/paradigmxyz/reth/pull/24023#pullrequestreview-4241571525) - 2026-05-07
 * [Review] [Review on: feat(trie): expose proof worker pool utilization gauges](https://github.com/paradigmxyz/reth/pull/24026#pullrequestreview-4241646291) - 2026-05-07
 * [Review] [Review on: refactor(rpc): centralize transaction info builders](https://github.com/paradigmxyz/reth/pull/24030#pullrequestreview-4241642013) - 2026-05-07
+* [Review] [Review on: feat(net): make full block BAL lookup optional](https://github.com/paradigmxyz/reth/pull/24074#pullrequestreview-4254909262) - 2026-05-08
+* [Review] [Review on: feat(db): add balstore cache size arg](https://github.com/paradigmxyz/reth/pull/24002#pullrequestreview-4255005350) - 2026-05-08
+* [Pull Request] [refactor(engine): move BlockOrPayload to tree types](https://github.com/paradigmxyz/reth/pull/24093) - 2026-05-08
+* [Pull Request] [fix(engine): prune BAL store from persistence task](https://github.com/paradigmxyz/reth/pull/24084) - 2026-05-08
+* [Review] [Review on: fix(bench): align CSV comparison by block number](https://github.com/paradigmxyz/reth/pull/24091#pullrequestreview-4254737684) - 2026-05-08
+* [Pull Request] [DO NOT MERGE feat(net): advertise eth71 protocol](https://github.com/paradigmxyz/reth/pull/24086) - 2026-05-08
+* [Review] [Review on: fix: 🇵🇱 polish BAL error story](https://github.com/paradigmxyz/reth/pull/24061#pullrequestreview-4250657697) - 2026-05-08
+* [Pull Request] [refactor(engine): add validation output type](https://github.com/paradigmxyz/reth/pull/24089) - 2026-05-08
+* [Review] [Review on: chore: add eth_getBlockAccessList method](https://github.com/paradigmxyz/reth/pull/24080#pullrequestreview-4251747768) - 2026-05-08
+* [Pull Request] [fix(engine): flush BAL store after saving blocks](https://github.com/paradigmxyz/reth/pull/24087) - 2026-05-08
+* [Review] [Review on: fix(engine): flush BAL store after saving blocks](https://github.com/paradigmxyz/reth/pull/24087#pullrequestreview-4252496917) - 2026-05-08
+* [Pull Request] [fix(engine): insert validated payload bals into store](https://github.com/paradigmxyz/reth/pull/24088) - 2026-05-08
+* [Review] [Review on: chore: handle GetCells requests](https://github.com/paradigmxyz/reth/pull/24085#pullrequestreview-4252262173) - 2026-05-08
+* [Pull Request] [feat: parallel execution](https://github.com/paradigmxyz/reth/pull/23924) - 2026-05-08
+* [Pull Request] [refactor(rpc): cache decoded revm BALs](https://github.com/paradigmxyz/reth/pull/24079) - 2026-05-08
+* [Review] [Review on: refactor(rpc): cache decoded revm BALs](https://github.com/paradigmxyz/reth/pull/24079#pullrequestreview-4252019884) - 2026-05-08
+* [Review] [Review on: feat(rpc): implement eth_baseFee](https://github.com/paradigmxyz/reth/pull/24050#pullrequestreview-4250180843) - 2026-05-08
+* [Pull Request] [chore(deps): bump alloy-eip7928 to 0.3.6](https://github.com/paradigmxyz/reth/pull/24075) - 2026-05-08
+* [Review] [Review on: feat(rpc): cache revm BAL in eth state cache](https://github.com/paradigmxyz/reth/pull/24037#pullrequestreview-4251164790) - 2026-05-08
+* [Review] [Review on: feat(storage): add BalStore insert_many](https://github.com/paradigmxyz/reth/pull/24066#pullrequestreview-4250744678) - 2026-05-08
+* [Review] [Review on: chore: update Grafana dashboard overview.json](https://github.com/paradigmxyz/reth/pull/24067#pullrequestreview-4250968949) - 2026-05-08
+* [Pull Request] [feat(storage): add BAL store flush hook](https://github.com/paradigmxyz/reth/pull/24071) - 2026-05-08
+* [Review] [Review on: chore: add GetCells and Cells message](https://github.com/paradigmxyz/reth/pull/24041#pullrequestreview-4250261832) - 2026-05-08
+* [Commit] [fix(engine): prune BAL store from persistence task (#24084)](https://github.com/paradigmxyz/reth/commit/e873a930eb7bfdc7bb159f5dec055612d5c5a0ac) - 2026-05-08
+* [Commit] [refactor(engine): add validation output type (#24089)](https://github.com/paradigmxyz/reth/commit/95ec83ab1f138159bcaa92e299ab97d377b4a92c) - 2026-05-08
+* [Commit] [feat: parallel execution (#23924)](https://github.com/paradigmxyz/reth/commit/9e4e249e32db4ada982f32c03be25c3e0688d944) - 2026-05-08
+* [Commit] [refactor(rpc): cache decoded revm BALs (#24079)](https://github.com/paradigmxyz/reth/commit/ccf28c292d4d89de0aa4cc2213178b6abf467d86) - 2026-05-08
+* [Commit] [chore(deps): bump alloy-eip7928 to 0.3.6 (#24075)](https://github.com/paradigmxyz/reth/commit/d9850419d5cd70ddbfe90069f39f1d508d837ff4) - 2026-05-08
+* [Commit] [feat(storage): add BAL store flush hook (#24071)](https://github.com/paradigmxyz/reth/commit/b29668ec7d9e352b5e0eb57746900c7971da4dbf) - 2026-05-08
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -336,6 +365,8 @@ Team: Reth
 * [Pull Request] [chore(deps): bump alloy-eip7928 to 0.4](https://github.com/bluealloy/revm/pull/3623) - 2026-04-28
 
 * [Review] [Review on: refactor: use `Cow` for warm precompile addresses](https://github.com/bluealloy/revm/pull/3652#pullrequestreview-4228199863) - 2026-05-05
+* [Pull Request] [feat(state): add Bal::try_from_alloy](https://github.com/bluealloy/revm/pull/3665) - 2026-05-08
+* [Commit] [feat(state): add Bal::try_from_alloy (#3665)](https://github.com/bluealloy/revm/commit/8850aec02d7924b8b29274c7315efacb16905cd6) - 2026-05-08
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
 ## Q1 2026

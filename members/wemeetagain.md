@@ -72,6 +72,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add beacon_blocks_by_head reqresp](https://github.com/ChainSafe/lodestar/pull/9331#pullrequestreview-4235818143) - 2026-05-06
 * [Commit] [feat(reqresp): track peer rate-limit backoff in SelfRateLimiter (#9034)](https://github.com/ChainSafe/lodestar/commit/12d35509c02e460c7d9a1eaeb26efa06aa2a942f) - 2026-05-06
 * [Commit] [feat: better self-rate-limit handling (#9335)](https://github.com/ChainSafe/lodestar/commit/ff409c46ce80564b6d91cfe4f6badc4389254981) - 2026-05-07
+* [Pull Request] [chore: move lightclient and prover to external repo](https://github.com/ChainSafe/lodestar/pull/9346) - 2026-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

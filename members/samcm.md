@@ -31,6 +31,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(discovery): support bootstrapRpcUrl for RPC-backed Status (#815)](https://github.com/ethpandaops/xatu/commit/5fab83ec14df31d7c9e0b783af092a89f4838462) - 2026-05-07
 * [Commit] [cannon: add direct-to-clickhouse output sink (#808)](https://github.com/ethpandaops/xatu/commit/7fda2e0722263c4d94ca73ca0af3c4e53b55a8c3) - 2026-05-07
 * [Commit] [[codex] improve execution mimicry peering (#811)](https://github.com/ethpandaops/xatu/commit/6cda3c452fbec6fcb7b19577a9d892ce86291d17) - 2026-05-07
+* [Pull Request] [feat(libp2p): add local_peer_id to join/leave additional data](https://github.com/ethpandaops/xatu/pull/821) - 2026-05-08
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23

@@ -26,6 +26,8 @@ Team: Nimbus
 * [Commit] [Snap sync maint update (#4195)](https://github.com/status-im/nimbus-eth1/commit/50b06f833817d8eed6de0504939843fc34f9306b) - 2026-04-30
 * [Pull Request] [Snap sync optimise mpt tree builder](https://github.com/status-im/nimbus-eth1/pull/4198) - 2026-05-01
 * [Commit] [Snap sync optimise mpt tree builder (#4198)](https://github.com/status-im/nimbus-eth1/commit/09c2a271d7e1a49bd46f6096b6c4e34e297f8474) - 2026-05-01
+* [Pull Request] [Snap sync provide mpt analyser framework](https://github.com/status-im/nimbus-eth1/pull/4226) - 2026-05-08
+* [Commit] [Snap sync provide mpt analyser framework (#4226)](https://github.com/status-im/nimbus-eth1/commit/32def7b5a0b1bd37f703a5d78c8ee83c7bed3859) - 2026-05-08
 ## Q1 2026
 
 

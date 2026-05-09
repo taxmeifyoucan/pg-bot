@@ -103,6 +103,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Implement  /eth/v1/beacon/execution_payload_bid REST endpoint (POST)](https://github.com/status-im/nimbus-eth2/pull/8385#pullrequestreview-4235348942) - 2026-05-06
 * [Review] [Review on: Recover envelope sse events](https://github.com/status-im/nimbus-eth2/pull/8347#pullrequestreview-4244237043) - 2026-05-07
 * [Review] [Review on: fix: use correct condition for withdrawal computation](https://github.com/status-im/nimbus-eth2/pull/8415#pullrequestreview-4244309546) - 2026-05-07
+* [Review] [Review on: fix: gloas block gossip validation](https://github.com/status-im/nimbus-eth2/pull/8422#pullrequestreview-4256042221) - 2026-05-08
+* [Review] [Review on: nix: add NixOS BN and VC service definitions](https://github.com/status-im/nimbus-eth2/pull/8424#pullrequestreview-4254114194) - 2026-05-08
+* [Review] [Review on: fix: apply parent execution requests before proposal](https://github.com/status-im/nimbus-eth2/pull/8421#pullrequestreview-4255926490) - 2026-05-08
+* [Review] [Review on: add partial data column quarantine for partial column gossip management, add tests for the same](https://github.com/status-im/nimbus-eth2/pull/8410#pullrequestreview-4253139967) - 2026-05-08
+* [Review] [Review on: Recover envelope sse events](https://github.com/status-im/nimbus-eth2/pull/8347#pullrequestreview-4252043329) - 2026-05-08
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -115,6 +120,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [more Nim warnings -> errors](https://github.com/status-im/nimbus-eth1/pull/4204) - 2026-05-03
 * [Issue] [CycleCreated warning in nimbus_verified_proxy_wasm target](https://github.com/status-im/nimbus-eth1/issues/4205) - 2026-05-03
 * [Commit] [more Nim warnings -> errors (#4204)](https://github.com/status-im/nimbus-eth1/commit/b83fb394fe5b9d88be49aaf877df8bec33879229) - 2026-05-03
+* [Review] [Review on: txframe blobify and persist](https://github.com/status-im/nimbus-eth1/pull/4220#pullrequestreview-4255958531) - 2026-05-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27

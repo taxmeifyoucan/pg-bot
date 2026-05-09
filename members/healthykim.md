@@ -37,6 +37,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: core: add BlobTxForPool type](https://github.com/ethereum/go-ethereum/pull/34882#pullrequestreview-4237078582) - 2026-05-06
 * [Review] [Review on: core/txpool/blobpool: reduce lock contention](https://github.com/ethereum/go-ethereum/pull/34840#pullrequestreview-4234763907) - 2026-05-06
 * [Commit] [eth/protocols/eth: stop serving on unavailable responses (#34787)](https://github.com/ethereum/go-ethereum/commit/ea1cf7bf5ee07562284f9d050a6def9704d258e7) - 2026-05-06
+* [Review] [Review on: core/txpool/blobpool: continue on cell proof error in `GetBlobs`](https://github.com/ethereum/go-ethereum/pull/34891#pullrequestreview-4251627810) - 2026-05-08
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
 ## Q1 2026

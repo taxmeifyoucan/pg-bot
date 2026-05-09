@@ -39,6 +39,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/services: relax epoch-mismatch guard to allow previous epoch (#20780)](https://github.com/erigontech/erigon/commit/809f091587809756f00b63ca20a386bb949f89f5) - 2026-04-24
 * [Commit] [cl/gossip: fix conditions forwarding, ENR lifecycle, and epoch-mismatch (#20772)](https://github.com/erigontech/erigon/commit/ca3b85eee017ff6faa0585867f124b61f3d92e60) - 2026-04-24
 * [Pull Request] [cl, downloader: suppress context-canceled warnings on shutdown](https://github.com/erigontech/erigon/pull/21051) - 2026-05-08
+* [Review] [Review on: cl/gossip,p2p: guard negative subnet index in ENR updates](https://github.com/erigontech/erigon/pull/21012#pullrequestreview-4250677059) - 2026-05-08
+* [Review] [Review on: cl/gossip: pass registration conditions to validators](https://github.com/erigontech/erigon/pull/20578#pullrequestreview-4250626114) - 2026-05-08
+* [Commit] [cl, downloader: suppress context-canceled warnings on shutdown (#21051)](https://github.com/erigontech/erigon/commit/9415441fd8ed4b36454c73aa268d3d1b7f2d8215) - 2026-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

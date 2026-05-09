@@ -78,12 +78,15 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat: support native loadState](https://github.com/ChainSafe/lodestar-z/pull/351) - 2026-05-06
 * [Commit] [feat: bindings to `getExpectedWithdrawals` and native tweaks (#350)](https://github.com/ChainSafe/lodestar-z/commit/f47bc66eb882a052cfbe0606c11507fae0dadc83) - 2026-05-06
 * [Pull Request] [feat: asyncAggregateWithRandomness](https://github.com/ChainSafe/lodestar-z/pull/353) - 2026-05-07
+* [Pull Request] [feat(ci): conditionally publish bindings with tag](https://github.com/ChainSafe/lodestar-z/pull/355) - 2026-05-08
+* [Commit] [feat(ci): conditionally publish bindings with tag (#355)](https://github.com/ChainSafe/lodestar-z/commit/ea7791983dbc280e17579b9ca73e4f62c937ae4f) - 2026-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: chore: fail nightly spec tests workflow if any tests failed](https://github.com/ChainSafe/lodestar/pull/9271#pullrequestreview-4170211824) - 2026-04-24
 * [Review] [Review on: chore: add workflow to run nightly spec tests](https://github.com/ChainSafe/lodestar/pull/9268#pullrequestreview-4169597282) - 2026-04-24
+* [Pull Request] [feat: consume asyncAggregateWithRandomness branch from lodestar-z](https://github.com/ChainSafe/lodestar/pull/9342) - 2026-05-08
 ## Q1 2026
 
 

@@ -87,6 +87,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [fix(ee-tests): sort snapshot map keys for hasher independence (#3655)](https://github.com/bluealloy/revm/commit/848e0cfa215a73028c2731ed2c9f7a26f0e9b261) - 2026-05-05
 * [Commit] [test(ee-tests): switch to insta for snapshot assertions (#3654)](https://github.com/bluealloy/revm/commit/1087b0f8dccb7c27e2ac34c9a048056271d52322) - 2026-05-05
 * [Review] [Review on: refactor: restructure `Journal` traits](https://github.com/bluealloy/revm/pull/3663#pullrequestreview-4243830173) - 2026-05-07
+* [Pull Request] [feat(eip8037): bal-devnet-7 EIP-8037/7702 fixes & devnet fixtures](https://github.com/bluealloy/revm/pull/3667) - 2026-05-08
+* [Review] [Review on: perf(interpreter): cache init_code_hash in CreateInputs for inspector reuse](https://github.com/bluealloy/revm/pull/3664#pullrequestreview-4251584340) - 2026-05-08
+* [Pull Request] [docs: expand `BalError` documentation](https://github.com/bluealloy/revm/pull/3666) - 2026-05-08
+* [Review] [Review on: feat(state): add Bal::try_from_alloy](https://github.com/bluealloy/revm/pull/3665#pullrequestreview-4251480544) - 2026-05-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

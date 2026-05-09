@@ -44,6 +44,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Bump nimbus-eth2 (#4201)](https://github.com/status-im/nimbus-eth1/commit/853e182ef45597245a928c8935d6709c2bb38c94) - 2026-05-03
 * [Pull Request] [Reduce repeated call to intrinsicGas](https://github.com/status-im/nimbus-eth1/pull/4213) - 2026-05-06
 * [Commit] [Reduce repeated call to intrinsicGas (#4213)](https://github.com/status-im/nimbus-eth1/commit/48f0a6bbb902a736056df7eefc5b363675a46e54) - 2026-05-07
+* [Pull Request] [Simplify processTransaction](https://github.com/status-im/nimbus-eth1/pull/4221) - 2026-05-08
+* [Commit] [Simplify processTransaction (#4221)](https://github.com/status-im/nimbus-eth1/commit/5306a908bf9c00348fdde9dda8e4b4c4fc620731) - 2026-05-08
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 ## Q1 2026

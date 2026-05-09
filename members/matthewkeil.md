@@ -44,6 +44,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: merge v1.42.0 back to unstable (#9210)](https://github.com/ChainSafe/lodestar/commit/568a81a1487c82114c5c21f8ff757623af0b072f) - 2026-04-13
 * [Commit] [chore: v1.42.0 release (#9169)](https://github.com/ChainSafe/lodestar/commit/443e0a476dd6ff62f5977875741de0a38ba4e1ef) - 2026-04-13
 
+* [Pull Request] [chore: v1.43.0 release](https://github.com/ChainSafe/lodestar/pull/9344) - 2026-05-08
+* [Review] [Review on: ci: drop redundant pnpm bootstrap on arm64 publish](https://github.com/ChainSafe/lodestar/pull/9345#pullrequestreview-4252911213) - 2026-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494) - 2026-04-15
 ## Q1 2026

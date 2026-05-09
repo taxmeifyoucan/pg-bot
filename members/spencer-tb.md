@@ -71,6 +71,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(spec,test): 7702 refund block-level gas accounting for EIP-8037](https://github.com/ethereum/execution-specs/pull/2816#pullrequestreview-4245311956) - 2026-05-07
 * [Pull Request] [feat(spec-specs, tests): EIP-8037 drop double refund on incorporate_child_on_error](https://github.com/ethereum/execution-specs/pull/2822) - 2026-05-07
 * [Issue] [EIP-7610 Implementation Tracker: Revert creation for non-empty storage](https://github.com/ethereum/execution-specs/issues/2819) - 2026-05-07
+* [Pull Request] [feat(spec-specs, tests): EIP-8037 refund intrinsic NEW_ACCOUNT for tx-created contracts destroyed in same tx](https://github.com/ethereum/execution-specs/pull/2828) - 2026-05-08
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

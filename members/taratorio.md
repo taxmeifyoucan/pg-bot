@@ -90,6 +90,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cmd/evm: add enginexrunner alongside staterunner and blockrunner](https://github.com/erigontech/erigon/pull/21027) - 2026-05-07
 * [Pull Request] [claude: add generic launch-devnet skill](https://github.com/erigontech/erigon/pull/21024) - 2026-05-07
 * [Commit] [cmd/evm: add enginexrunner alongside staterunner and blockrunner (#21027)](https://github.com/erigontech/erigon/commit/12113dd93b643f2a129c8cf76f5a66b42458cff0) - 2026-05-07
+* [Review] [Review on: ci: add discv5 to devp2p Hive shard, bump hive pins](https://github.com/erigontech/erigon/pull/21065#pullrequestreview-4251888754) - 2026-05-08
+* [Review] [Review on: Revert "[r3.4] db/state: 4x default step, transparent execution log, no key referencing"](https://github.com/erigontech/erigon/pull/21057#pullrequestreview-4251205031) - 2026-05-08
+* [Review] [Review on: [r3.4] db/version: bump version to 3.4.1](https://github.com/erigontech/erigon/pull/21061#pullrequestreview-4251189447) - 2026-05-08
+* [Pull Request] [execution: speedup enginextestrunner by disabling txpool and sentry](https://github.com/erigontech/erigon/pull/21059) - 2026-05-08
+* [Pull Request] [cmd/evm: parallel workers in evm statetest and blocktest](https://github.com/erigontech/erigon/pull/21058) - 2026-05-08
+* [Pull Request] [execution: make block read aheader non-global](https://github.com/erigontech/erigon/pull/21056) - 2026-05-08
+* [Commit] [claude: add generic launch-devnet skill (#21024)](https://github.com/erigontech/erigon/commit/074f0cd66c2d0976e6bb7a26b8d0264154ac740b) - 2026-05-08
+* [Commit] [execution: speedup enginextestrunner by disabling txpool and sentry (#21059)](https://github.com/erigontech/erigon/commit/966348b73eadc8112e59638fb9b970bca5f1be00) - 2026-05-08
+* [Commit] [cmd/evm: parallel workers in evm statetest and blocktest (#21058)](https://github.com/erigontech/erigon/commit/830e6de83582adb91e375987754fb7e3d8b943cc) - 2026-05-08
+* [Commit] [execution: make block read aheader non-global (#21056)](https://github.com/erigontech/erigon/commit/97ff85c0b3fd210fa715fa6053fdc7b5b691a191) - 2026-05-08
 ## Q1 2026
 
 

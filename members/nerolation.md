@@ -41,6 +41,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-8131: Clarify worst-case block size reduction, align 7976](https://github.com/ethereum/EIPs/pull/11613) - 2026-05-07
 * [Commit] [Update EIP-7981: Update reference implementation](https://github.com/ethereum/EIPs/commit/ff38d6d99bc34721d33b77d79dd3ab4b86079cb7) - 2026-05-07
 * [Commit] [Update EIP-8131: Clarify worst-case block size reduction, align 7976](https://github.com/ethereum/EIPs/commit/1707e6d11a9a56ab62b430e95bf83d0e8b2505ef) - 2026-05-07
+* [Pull Request] [Update EIP-8131: Add empirical impact report](https://github.com/ethereum/EIPs/pull/11628) - 2026-05-08
+* [Commit] [Update EIP-8131: Add empirical impact report](https://github.com/ethereum/EIPs/commit/7ea4ed579a193cbc271662a55ad7d51924d2d81d) - 2026-05-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11
@@ -63,6 +65,9 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators/devp2p: add snap2 suite for EIP-8189 conformance tests](https://github.com/ethereum/hive/pull/1440) - 2026-04-22
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [all: align EIP-7928 spec with latest EIP (uint32 BlockAccessIndex, header hash, debug getter)](https://github.com/ethereum/execution-apis/pull/794) - 2026-05-08
 ## Q1 2026
 
 

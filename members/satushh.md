@@ -43,11 +43,16 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Cache empty execution requests root (#16725)](https://github.com/OffchainLabs/prysm/commit/4d407084131f583f97a4c32637076a2ced55e472) - 2026-05-06
 * [Review] [Review on: Harden execution payload envelope nil checks](https://github.com/OffchainLabs/prysm/pull/16718#pullrequestreview-4245263333) - 2026-05-07
 * [Review] [Review on: Request payload envelope when pending block's parent payload mi…](https://github.com/OffchainLabs/prysm/pull/16748#pullrequestreview-4244030361) - 2026-05-07
+* [Review] [Review on: Cache PayloadAttestationData and dedupe concurrent PTC requests](https://github.com/OffchainLabs/prysm/pull/16744#pullrequestreview-4254223065) - 2026-05-08
+* [Review] [Review on: Request payload envelope when pending block's parent payload mi…](https://github.com/OffchainLabs/prysm/pull/16748#pullrequestreview-4253869456) - 2026-05-08
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4097464771) - 2026-04-13
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Count PTC votes from duplicated validators](https://github.com/ethereum/consensus-specs/pull/5222#pullrequestreview-4253637646) - 2026-05-08
 ## Q1 2026
 
 

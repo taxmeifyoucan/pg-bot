@@ -193,6 +193,15 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Drop `pre_epoch`/`post_epoch` from hysteresis test (#5217)](https://github.com/ethereum/consensus-specs/commit/47360222a7554ea208012a41f9fd92816086c0d5) - 2026-05-07
 * [Commit] [Add gloas epoch processing functions in `get_process_calls` (#5216)](https://github.com/ethereum/consensus-specs/commit/cb5c4edb6fc52ece2b967b11c2d544407b2e5dd6) - 2026-05-07
 * [Commit] [Fix gossip validation tests (#5201)](https://github.com/ethereum/consensus-specs/commit/158aa60b42156fa26ce977bf4dc7543ec170d66b) - 2026-05-07
+* [Pull Request] [Add note about validating deposit signatures before the fork](https://github.com/ethereum/consensus-specs/pull/5227) - 2026-05-08
+* [Pull Request] [Split out partial columns feature](https://github.com/ethereum/consensus-specs/pull/5226) - 2026-05-08
+* [Pull Request] [Bump version to v1.7.0-alpha.8](https://github.com/ethereum/consensus-specs/pull/5225) - 2026-05-08
+* [Review] [Review on: Count PTC votes from duplicated validators](https://github.com/ethereum/consensus-specs/pull/5222#pullrequestreview-4252324519) - 2026-05-08
+* [Pull Request] [Add new `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD_GLOAS` preset](https://github.com/ethereum/consensus-specs/pull/5224) - 2026-05-08
+* [Pull Request] [Raise `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 8192 epochs](https://github.com/ethereum/consensus-specs/pull/5223) - 2026-05-08
+* [Review] [Review on: Define new `get_deposit_churn_limit` function](https://github.com/ethereum/consensus-specs/pull/5220#pullrequestreview-4252899357) - 2026-05-08
+* [Review] [Review on: Add separate pending builder deposits queue, Take 2](https://github.com/ethereum/consensus-specs/pull/5221#pullrequestreview-4252382700) - 2026-05-08
+* [Commit] [Bump version to v1.7.0-alpha.8 (#5225)](https://github.com/ethereum/consensus-specs/commit/e47395b4a656c29b07c6577127162d16ef7e526a) - 2026-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

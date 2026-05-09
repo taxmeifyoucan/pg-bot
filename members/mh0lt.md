@@ -137,6 +137,12 @@ Team: Erigon
 * [Pull Request] [execution/execmodule: wire stateCache into canonical UpdateForkChoice](https://github.com/erigontech/erigon/pull/21042) - 2026-05-07
 * [Review] [Review on: ci: matrix-test serial vs parallel exec across the test workflows](https://github.com/erigontech/erigon/pull/21017#pullrequestreview-4243482354) - 2026-05-07
 * [Commit] [stagedsync: fix commitmentCalculator asOfReader.txNum=0 lazy-load on snapshot-loaded chains (#21010)](https://github.com/erigontech/erigon/commit/69d618119bcede6c2ce0d674397926335b12dbec) - 2026-05-07
+* [Review] [Review on: execution/stagedsync: advance Execution stage to snapshot commitment block](https://github.com/erigontech/erigon/pull/21069#pullrequestreview-4253128511) - 2026-05-08
+* [Pull Request] [db/state: serialize Aggregator.Set*Workers to fix race with collate (blocks #21039 CI)](https://github.com/erigontech/erigon/pull/21062) - 2026-05-08
+* [Commit] [state, stagedsync: parallel-exec wrong-root fix for SD vs EIP-161 emptyRemoval (#21032)](https://github.com/erigontech/erigon/commit/95d96627ceedcda47cff3075b409365eb7f43170) - 2026-05-08
+* [Commit] [execution/stagedsync: don't flag maxBlockNum on partial-batch apply-loop exit (#21039)](https://github.com/erigontech/erigon/commit/2346a98bc86b77d90aeb12bfdbff69c2456f5ae9) - 2026-05-08
+* [Commit] [execution/execmodule: wire stateCache into canonical UpdateForkChoice (#21042)](https://github.com/erigontech/erigon/commit/9907f6efa521a2d29b5c889505c9ef6989037738) - 2026-05-08
+* [Commit] [db/state: serialize Aggregator.Set*Workers to fix race with collate (blocks #21039 CI) (#21062)](https://github.com/erigontech/erigon/commit/2d4e53d0fa80e9c0e71529ed183bea07c73458fe) - 2026-05-08
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

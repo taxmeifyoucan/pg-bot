@@ -100,6 +100,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf: report BloomFilter unmanaged allocation to GC](https://github.com/NethermindEth/nethermind/pull/11503#pullrequestreview-4235203235) - 2026-05-06
 * [Review] [Review on: RLP tx decoding fixes](https://github.com/NethermindEth/nethermind/pull/11496#pullrequestreview-4235235388) - 2026-05-06
 * [Commit] [eth/71 (#10844)](https://github.com/NethermindEth/nethermind/commit/ac4fc1524e509677ba2337ead1a2bb7487c4114f) - 2026-05-07
+* [Review] [Review on: Minor fixes from AI audit](https://github.com/NethermindEth/nethermind/pull/11406#pullrequestreview-4250126241) - 2026-05-08
+* [Commit] [Improve eth/70 checks (#11456)](https://github.com/NethermindEth/nethermind/commit/33837880884009a09715ceaa7f72c67c90c2850a) - 2026-05-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

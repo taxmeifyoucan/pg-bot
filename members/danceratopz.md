@@ -105,6 +105,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 * [Review] [Review on: Update EIP-7723: update SFI definition based on ACDT#74](https://github.com/ethereum/EIPs/pull/11475#pullrequestreview-4235751199) - 2026-05-06
 * [Review] [Review on: Update EIP-7723: update SFI definition based on ACDT#74](https://github.com/ethereum/EIPs/pull/11475#pullrequestreview-4244643322) - 2026-05-07
+* [Pull Request] [Update EIP-7708: Add gas costs for system-emitted transfer and burn logs](https://github.com/ethereum/EIPs/pull/11627) - 2026-05-08
+* [Review] [Review on: Update EIP-7708: Add gas costs for system-emitted transfer and burn logs](https://github.com/ethereum/EIPs/pull/11627#pullrequestreview-4251124385) - 2026-05-08
+* [Review] [Review on: Update EIP-2780: Add missing 7708 log costs for CREATE with endowment](https://github.com/ethereum/EIPs/pull/11586#pullrequestreview-4250614950) - 2026-05-08
+* [Commit] [Update EIP-2780: Add missing 7708 log costs for CREATE with endowment](https://github.com/ethereum/EIPs/commit/4b612eec2ef70611bba3e0819d137dcfb9b6cd81) - 2026-05-08
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: clients/ethrex: import block files individually](https://github.com/ethereum/hive/pull/1461#pullrequestreview-4226428886) - 2026-05-05
 ## Q1 2026

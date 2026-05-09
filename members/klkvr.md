@@ -111,6 +111,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [feat: generate big blocks in flight](https://github.com/paradigmxyz/reth/pull/24048) - 2026-05-07
 * [Commit] [feat: support big blocks in `reth-bench new-payload-fcu` (#24028)](https://github.com/paradigmxyz/reth/commit/e89258ae8d546fec0df4cd10b4119d3b7387a662) - 2026-05-07
 * [Commit] [refactor: further simplify generate-big-block (#24025)](https://github.com/paradigmxyz/reth/commit/d497929a72c5bcda4f56974d640a677fe5b7f736) - 2026-05-07
+* [Commit] [feat: generate big blocks in flight (#24048)](https://github.com/paradigmxyz/reth/commit/3628a38f06a070ed1f443440ffcbd9f95946b6b8) - 2026-05-08
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

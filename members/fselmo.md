@@ -53,6 +53,10 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(tests): 8037-Add tests for 7702 interactions](https://github.com/ethereum/execution-specs/pull/2722#pullrequestreview-4246811796) - 2026-05-07
 * [Review] [Review on: feat(spec-specs, tests): EIP-8037 more refund fixes](https://github.com/ethereum/execution-specs/pull/2823#pullrequestreview-4247865595) - 2026-05-07
 * [Review] [Review on: refactor(test-benchmark): support 8037 for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2787#pullrequestreview-4241050591) - 2026-05-07
+* [Review] [Review on: feat(test-cli): Add support for testing block building via simulator](https://github.com/ethereum/execution-specs/pull/2679#pullrequestreview-4255744435) - 2026-05-08
+* [Review] [Review on: 🧪 feat(tests):  EIP-7928 BAL test for 7702 account call with low balance](https://github.com/ethereum/execution-specs/pull/2824#pullrequestreview-4255722257) - 2026-05-08
+* [Pull Request] [feat(spec,test): update bal-devnet-7 EIP-8037 bytes values; CPSB 1174 -> 1530](https://github.com/ethereum/execution-specs/pull/2827) - 2026-05-08
+* [Review] [Review on: feat(spec-specs, tests): 8037 more 2d edge cases](https://github.com/ethereum/execution-specs/pull/2735#pullrequestreview-4252753970) - 2026-05-08
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14

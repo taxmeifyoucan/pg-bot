@@ -340,11 +340,21 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: PoW re-sync downloads already processed blocks](https://github.com/NethermindEth/nethermind/pull/11514#pullrequestreview-4245003273) - 2026-05-07
 * [Review] [Review on: perf(state): drive storage trie warm-up from writes via HintSet](https://github.com/NethermindEth/nethermind/pull/11409#pullrequestreview-4242156698) - 2026-05-07
 * [Review] [Review on: fix: drop buffered frame bytes on `FrameQueue.Clear`](https://github.com/NethermindEth/nethermind/pull/11510#pullrequestreview-4241654738) - 2026-05-07
+* [Review] [Review on: Return remainder buffer to pool in KeccakHash.UpdateFinalTo](https://github.com/NethermindEth/nethermind/pull/11532#pullrequestreview-4254995924) - 2026-05-08
+* [Review] [Review on: RPC: add `eth_signTransaction`](https://github.com/NethermindEth/nethermind/pull/11517#pullrequestreview-4250944178) - 2026-05-08
+* [Review] [Review on: Eliminate ForcedNumberConversion boxing on set](https://github.com/NethermindEth/nethermind/pull/11536#pullrequestreview-4255466066) - 2026-05-08
+* [Pull Request] [fix: stabilize ParallelUnbalancedWork fault propagation + flaky engine tests](https://github.com/NethermindEth/nethermind/pull/11534) - 2026-05-08
+* [Pull Request] [test: mark Should_process_block_as_expected_V2/V4/V6 as NonParallelizable](https://github.com/NethermindEth/nethermind/pull/11535) - 2026-05-08
+* [Issue] [SSZ source generator: emit InlineArray for fixed-size byte vectors (commitments, proofs, hashes)](https://github.com/NethermindEth/nethermind/issues/11525) - 2026-05-08
+* [Commit] [fix: stabilize ParallelUnbalancedWork fault propagation + flaky engine tests (#11534)](https://github.com/NethermindEth/nethermind/commit/92f2fbfdbd54381b1138606de3d846e74eda27c8) - 2026-05-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: test(tests-eip-8024): end-of-code stack underflow regression](https://github.com/ethereum/execution-specs/pull/2741#pullrequestreview-4147896148) - 2026-04-21
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: feat: add ssz to engine api](https://github.com/ethereum/execution-apis/pull/764#pullrequestreview-4250463618) - 2026-05-08
 ## Q1 2026
 
 

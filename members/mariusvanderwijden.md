@@ -66,6 +66,7 @@ Team: Geth
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4138859251) - 2026-04-20
+* [Pull Request] [engine: add Rest-SSZ spec](https://github.com/ethereum/execution-apis/pull/793) - 2026-05-08
 ## Q1 2026
 
 

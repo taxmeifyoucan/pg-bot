@@ -200,6 +200,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Do we run full transition tests?](https://github.com/ChainSafe/lodestar/issues/9340) - 2026-05-07
 * [Issue] [Review is known ptc attester](https://github.com/ChainSafe/lodestar/issues/9338) - 2026-05-07
 * [Issue] [Update weak subjectivity calculation for EIP-8061](https://github.com/ChainSafe/lodestar/issues/9337) - 2026-05-07
+* [Review] [Review on: ci: drop redundant pnpm bootstrap on arm64 publish](https://github.com/ChainSafe/lodestar/pull/9345#pullrequestreview-4252907482) - 2026-05-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -260,6 +261,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Use `MIN_SEED_LOOKAHEAD` in proposer preferences](https://github.com/ethereum/consensus-specs/pull/5215#pullrequestreview-4244502098) - 2026-05-07
 * [Review] [Review on: Force the proposer to reorg unavailable blocks](https://github.com/ethereum/consensus-specs/pull/5186#pullrequestreview-4244384212) - 2026-05-07
 * [Commit] [Use `MIN_SEED_LOOKAHEAD` in proposer preferences (#5215)](https://github.com/ethereum/consensus-specs/commit/c0abcb9c9c6f3f4f4e1f0ed775a43796f3f7a1ae) - 2026-05-07
+* [Pull Request] [Count PTC votes from duplicated validators](https://github.com/ethereum/consensus-specs/pull/5222) - 2026-05-08
+* [Review] [Review on: Count PTC votes from duplicated validators](https://github.com/ethereum/consensus-specs/pull/5222#pullrequestreview-4253523393) - 2026-05-08
+* [Commit] [Count PTC votes from duplicated validators (#5222)](https://github.com/ethereum/consensus-specs/commit/96838e5bab9e222369e9eb233f839efa497294a8) - 2026-05-08
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 ## Q1 2026

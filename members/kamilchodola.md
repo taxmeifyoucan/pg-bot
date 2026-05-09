@@ -49,6 +49,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf: optimize BAL lookups and eliminate redundant GetCodeHash calls](https://github.com/NethermindEth/nethermind/pull/11446) - 2026-04-30
 * [Pull Request] [Fix EIP-8037 cross-frame state gas restoration accounting](https://github.com/NethermindEth/nethermind/pull/11433) - 2026-04-30
 * [Pull Request] [perf: replace O(n²) InsertSorted with deferred O(n log n) rebuild](https://github.com/NethermindEth/nethermind/pull/11455) - 2026-05-01
+* [Pull Request] [feat: add gas-benchmark skill for automated repricing benchmarks](https://github.com/NethermindEth/nethermind/pull/11526) - 2026-05-08
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02
@@ -83,6 +84,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Always use jochemnet stubs for jochemnet generation](https://github.com/NethermindEth/gas-benchmarks/commit/e4ca5365689cb6ae13a74265886eaca3a53f9b71) - 2026-04-29
 * [Commit] [Use jochemnet stubs for jochemnet generation](https://github.com/NethermindEth/gas-benchmarks/commit/17b7aa25c7a560e334dcc31e5c11d9a8bbb80297) - 2026-04-29
 * [Pull Request] [Feat/individual opcode trace files](https://github.com/NethermindEth/gas-benchmarks/pull/142) - 2026-04-30
+* [Pull Request] [Feat/stateful generator nethermind diag](https://github.com/NethermindEth/gas-benchmarks/pull/143) - 2026-05-08
+* [Commit] [Feat/stateful generator nethermind diag (#143)](https://github.com/NethermindEth/gas-benchmarks/commit/458efc89653e1569aab899ea15f7702dd6315b6b) - 2026-05-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Remove unused bloatnet factory entries from mainnet stubs](https://github.com/ethereum/execution-specs/pull/2670) - 2026-04-13
 * [Commit] [refactor(test-benchmark): remove unused bloatnet factory entries from mainnet stubs (#2670)](https://github.com/ethereum/execution-specs/commit/a830dab6f130151ab9023a473b7543120aa21961) - 2026-04-14

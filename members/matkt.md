@@ -67,6 +67,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: chore(changelog): fold Unreleased entries into 26.5.0 for RC2](https://github.com/besu-eth/besu/pull/10455#pullrequestreview-4244714083) - 2026-05-07
 * [Review] [Review on: Improve performance of BAL sorting entries](https://github.com/besu-eth/besu/pull/10392#pullrequestreview-4241410152) - 2026-05-07
 * [Review] [Review on: feat: Add cross-block code caching for improved performance](https://github.com/besu-eth/besu/pull/10390#pullrequestreview-4241724728) - 2026-05-07
+* [Commit] [remove timeout for bal parallelization  (#10389)](https://github.com/besu-eth/besu/commit/8d5bc6e59fc60f435d4e0c2739cb69b5640724dc) - 2026-05-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026
