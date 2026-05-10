@@ -53,6 +53,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Add all networking reference tests. Some are ignored because test fixtures are broken (#10677)](https://github.com/Consensys/teku/commit/6d57abab7f8384cef45d8d6cd3343e01f8bed363) - 2026-05-07
 * [Review] [Review on: devnet2 stack 02 execution payload](https://github.com/Consensys/teku/pull/10684#pullrequestreview-4255063446) - 2026-05-08
 * [Review] [Review on: devnet2 stack 01 Stabilize fork-choice state during block production](https://github.com/Consensys/teku/pull/10683#pullrequestreview-4253047945) - 2026-05-08
+* [Review] [Review on: devnet2 stack 03 gloas builder](https://github.com/Consensys/teku/pull/10685#pullrequestreview-4257801683) - 2026-05-09
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

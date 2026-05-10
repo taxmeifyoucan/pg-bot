@@ -33,6 +33,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Small fixes](https://github.com/grandinetech/grandine/pull/676) - 2026-05-04
 * [Pull Request] [Test full epoch processing](https://github.com/grandinetech/grandine/pull/680) - 2026-05-07
 * [Pull Request] [fix: include block hash in Gloas genesis block](https://github.com/grandinetech/grandine/pull/679) - 2026-05-07
+* [Pull Request] [Fix pool attestation benchmark](https://github.com/grandinetech/grandine/pull/681) - 2026-05-09
 ## Q1 2026
 
 

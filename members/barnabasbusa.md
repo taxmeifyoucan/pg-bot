@@ -205,6 +205,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore: bump mitogen to 0.3.43 (#162)](https://github.com/ethpandaops/template-devnets/commit/8860712f5fca47fef8297da9d616b74f3a0a6ff5) - 2026-04-28
 * [Commit] [nimbus changes](https://github.com/ethpandaops/template-devnets/commit/89dc7ee1b2540245751f233cd7719141f8c38922) - 2026-04-29
 * [Pull Request] [Hetzner: cpx (new gen) defaults + capacity-aware placement](https://github.com/ethpandaops/template-devnets/pull/166) - 2026-05-06
+* [Review] [Review on: add buildoor](https://github.com/ethpandaops/template-devnets/pull/165#pullrequestreview-4256930430) - 2026-05-09
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
 * [Pull Request] [core/txpool: report actual 110% threshold in intrinsic gas error](https://github.com/ethereum/go-ethereum/pull/34782) - 2026-04-21
@@ -223,6 +224,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #89 from ethpandaops/bbusa/add-ethrex-to-discovery](https://github.com/ethpandaops/cartographoor/commit/2e02857de6b1f8b012fa45ed8760f19dcc93c8d5) - 2026-04-28
 * [Commit] [feat(discovery/clients): add ethrex to default execution clients](https://github.com/ethpandaops/cartographoor/commit/0d50528b5b448237596d0f5d02b94e343e2133a3) - 2026-04-28
 
+* [Review] [Review on: add spamoor & buildoor to service detection](https://github.com/ethpandaops/cartographoor/pull/92#pullrequestreview-4256928074) - 2026-05-09
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add ssz to engine api](https://github.com/ethereum/execution-apis/pull/764#pullrequestreview-4250706918) - 2026-05-08
 ## Q1 2026

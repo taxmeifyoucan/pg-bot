@@ -111,6 +111,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update EIP-7688: Make Transaction progressive](https://github.com/ethereum/EIPs/pull/11603) - 2026-05-05
 * [Commit] [Update EIP-7688: Make Transaction progressive](https://github.com/ethereum/EIPs/commit/d2fb2b2e6104e7484f552bf142c500a9d2a6ef4e) - 2026-05-05
 * [Review] [Review on: Update EIP-7708: Add gas costs for system-emitted transfer and burn logs](https://github.com/ethereum/EIPs/pull/11627#pullrequestreview-4252669648) - 2026-05-08
+* [Review] [Review on: Update EIP-7708: Use EIP-8246 to simplify](https://github.com/ethereum/EIPs/pull/11634#pullrequestreview-4257164421) - 2026-05-09
 ## Q1 2026
 
 

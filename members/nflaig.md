@@ -201,6 +201,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Review is known ptc attester](https://github.com/ChainSafe/lodestar/issues/9338) - 2026-05-07
 * [Issue] [Update weak subjectivity calculation for EIP-8061](https://github.com/ChainSafe/lodestar/issues/9337) - 2026-05-07
 * [Review] [Review on: ci: drop redundant pnpm bootstrap on arm64 publish](https://github.com/ChainSafe/lodestar/pull/9345#pullrequestreview-4252907482) - 2026-05-08
+* [Review] [Review on: fix(pmt): dedupe hashtree hasher dependency](https://github.com/ChainSafe/lodestar/pull/9349#pullrequestreview-4258054374) - 2026-05-09
+* [Review] [Review on: chore: move lightclient and prover to external repo](https://github.com/ChainSafe/lodestar/pull/9346#pullrequestreview-4257566038) - 2026-05-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

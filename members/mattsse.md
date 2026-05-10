@@ -354,6 +354,7 @@ Team: Reth
 * [Commit] [refactor(rpc): cache decoded revm BALs (#24079)](https://github.com/paradigmxyz/reth/commit/ccf28c292d4d89de0aa4cc2213178b6abf467d86) - 2026-05-08
 * [Commit] [chore(deps): bump alloy-eip7928 to 0.3.6 (#24075)](https://github.com/paradigmxyz/reth/commit/d9850419d5cd70ddbfe90069f39f1d508d837ff4) - 2026-05-08
 * [Commit] [feat(storage): add BAL store flush hook (#24071)](https://github.com/paradigmxyz/reth/commit/b29668ec7d9e352b5e0eb57746900c7971da4dbf) - 2026-05-08
+* [Pull Request] [feat(net): default BAL requests to optional](https://github.com/paradigmxyz/reth/pull/24095) - 2026-05-09
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

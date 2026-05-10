@@ -347,6 +347,13 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [test: mark Should_process_block_as_expected_V2/V4/V6 as NonParallelizable](https://github.com/NethermindEth/nethermind/pull/11535) - 2026-05-08
 * [Issue] [SSZ source generator: emit InlineArray for fixed-size byte vectors (commitments, proofs, hashes)](https://github.com/NethermindEth/nethermind/issues/11525) - 2026-05-08
 * [Commit] [fix: stabilize ParallelUnbalancedWork fault propagation + flaky engine tests (#11534)](https://github.com/NethermindEth/nethermind/commit/92f2fbfdbd54381b1138606de3d846e74eda27c8) - 2026-05-08
+* [Review] [Review on: perf(trie): share cached nodes across read-only walks (CloneForReadOnly 19.2 GB -> 1.4 MB)](https://github.com/NethermindEth/nethermind/pull/11539#pullrequestreview-4258536504) - 2026-05-09
+* [Review] [Review on: RPC: add `eth_getRawTransactionByBlockHashAndIndex` & `eth_getRawTransactionByBlockNumberAndIndex` & `eth_sendRawTransactionSync`](https://github.com/NethermindEth/nethermind/pull/11521#pullrequestreview-4257310392) - 2026-05-09
+* [Review] [Review on: New pivot for XDC mainnet](https://github.com/NethermindEth/nethermind/pull/11528#pullrequestreview-4257101071) - 2026-05-09
+* [Pull Request] [fix(test): relax For_WhenWorkerFaults bound to range/2 for [no-intrinsics]](https://github.com/NethermindEth/nethermind/pull/11537) - 2026-05-09
+* [Review] [Review on: fix(eth_createAccessList): preserve reverted-frame accesses and exclude precompiles](https://github.com/NethermindEth/nethermind/pull/11431#pullrequestreview-4257422109) - 2026-05-09
+* [Review] [Review on: feat(config): show non-default values on startup](https://github.com/NethermindEth/nethermind/pull/11523#pullrequestreview-4257084103) - 2026-05-09
+* [Commit] [fix(test): relax For_WhenWorkerFaults bound to range/2 for [no-intrinsics] (#11537)](https://github.com/NethermindEth/nethermind/commit/3867915ff270a0cee36d5beea6e53cbdf9a37481) - 2026-05-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

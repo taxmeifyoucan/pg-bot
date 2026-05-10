@@ -141,6 +141,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration: add -C flag to include tests requiring commitment-history (#556)](https://github.com/erigontech/rpc-tests/commit/656ef2d552cb42cbf2ff47eac02c69caa7d2a4f5) - 2026-05-06
 * [Pull Request] [compare: fix nested JSON indentation in result file dump](https://github.com/erigontech/rpc-tests/pull/558) - 2026-05-08
 * [Pull Request] [add eth_capability test](https://github.com/erigontech/rpc-tests/pull/557) - 2026-05-08
+* [Commit] [compare: fix nested JSON indentation in result file dump (#558)](https://github.com/erigontech/rpc-tests/commit/cd95138a0084bec68a2755e8058094194b4479f5) - 2026-05-09
 ## Q1 2026
 
 

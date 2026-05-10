@@ -151,6 +151,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Return remainder buffer to pool in KeccakHash.UpdateFinalTo (#11532)](https://github.com/NethermindEth/nethermind/commit/37655bb358370548b30b2b74a1fd8b7c1609d940) - 2026-05-09
 * [Commit] [Eliminate ForcedNumberConversion boxing on set (#11536)](https://github.com/NethermindEth/nethermind/commit/3ee558585cb797515cc93d45d9bffeebffc37fed) - 2026-05-08
 * [Commit] [Bal devnet 6 (#11436)](https://github.com/NethermindEth/nethermind/commit/481b6b17cc97960c85744b743c22168ec0ef43c2) - 2026-05-08
+* [Pull Request] [perf(trie): share cached nodes across read-only walks (CloneForReadOnly 19.2 GB -> 1.4 MB)](https://github.com/NethermindEth/nethermind/pull/11539) - 2026-05-09
+* [Review] [Review on: fix(test): relax For_WhenWorkerFaults bound to range/2 for [no-intrinsics]](https://github.com/NethermindEth/nethermind/pull/11537#pullrequestreview-4257519046) - 2026-05-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

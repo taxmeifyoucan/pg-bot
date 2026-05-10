@@ -484,6 +484,11 @@ Team: Erigon
 * [Issue] [Explore `sequence.Ranges()` iterator api](https://github.com/erigontech/erigon/issues/21055) - 2026-05-08
 * [Commit] [gitignore: *.local.json  (#21052)](https://github.com/erigontech/erigon/commit/9f7fbdff1d29222c9a2eae4070eb63ff6d3b008c) - 2026-05-08
 * [Commit] [remove `erigon support` command (#21054)](https://github.com/erigontech/erigon/commit/5c577df9406535ad972142c3c8ee70a4e3b8cfcc) - 2026-05-08
+* [Review] [Review on: db/snapcfg: internalize SnapshotSource enum, drop stale TODOs](https://github.com/erigontech/erigon/pull/21079#pullrequestreview-4258743069) - 2026-05-10
+* [Pull Request] [db/state: introduce DirtyFiles and visibleFiles types with batch methods](https://github.com/erigontech/erigon/pull/21076) - 2026-05-09
+* [Review] [Review on: ci: skip Go jobs and add docs-site build for docs-only PRs](https://github.com/erigontech/erigon/pull/21045#pullrequestreview-4257485921) - 2026-05-09
+* [Pull Request] [db/state: encapsulate worker state into 1 struct](https://github.com/erigontech/erigon/pull/21075) - 2026-05-09
+* [Review] [Review on: execution/commitmentdb: copy branch slice returned by TrieContext.Branch (#21034)](https://github.com/erigontech/erigon/pull/21071#pullrequestreview-4256527649) - 2026-05-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

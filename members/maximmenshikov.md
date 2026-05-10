@@ -26,6 +26,16 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [BuildCommand: trim bss for Zisk](https://github.com/NethermindEth/bflat-riscv64/commit/7482577fee3277234ed923818369a03490ddc4b9) - 2026-04-29
 * [Commit] [patch_elf: support --trim-bss](https://github.com/NethermindEth/bflat-riscv64/commit/014e767cc5838591262f16431bb85b761f460c15) - 2026-04-29
 * [Commit] [Wrap inline_bump_alloc_aligned unmangled](https://github.com/NethermindEth/bflat-riscv64/commit/036bebe11d27c3ccf50c82c2c099599ac21c5b92) - 2026-05-04
+* [Pull Request] [Add documentation/project site](https://github.com/NethermindEth/bflat-riscv64/pull/12) - 2026-05-09
+* [Pull Request] [Disable code/data splitting](https://github.com/NethermindEth/bflat-riscv64/pull/11) - 2026-05-09
+* [Pull Request] [Move security cookie to .data section instead of .text](https://github.com/NethermindEth/bflat-riscv64/pull/10) - 2026-05-09
+* [Commit] [Update baseurl/url](https://github.com/NethermindEth/bflat-riscv64/commit/7e4792b5392b99171818d9374edc0f9128e98b3d) - 2026-05-09
+* [Commit] [gitignore: ignore _site folder](https://github.com/NethermindEth/bflat-riscv64/commit/436b0a8bf74b8fe164e68999c55ca2f0abdc51b2) - 2026-05-09
+* [Commit] [bflat: add project site](https://github.com/NethermindEth/bflat-riscv64/commit/35875b24314c269c04f6933dc64bb40060d6535a) - 2026-05-09
+* [Commit] [bflat: avoid stale dotnet package due to missing identification of version](https://github.com/NethermindEth/bflat-riscv64/commit/4595008772540b55565be23ce2d2302e870bc41e) - 2026-05-09
+* [Commit] [bflat: switch to dotnet b18 that contains code/data splitting improvements](https://github.com/NethermindEth/bflat-riscv64/commit/88b178ffadf339854cd5ab9e99b6e8b0fcb77681) - 2026-05-09
+* [Commit] [BuildCommand: disable code/data splitting](https://github.com/NethermindEth/bflat-riscv64/commit/88a9508ea006b585082aa5b29634bce5b625fb88) - 2026-05-09
+* [Commit] [Move security cookie to .data section instead of .text](https://github.com/NethermindEth/bflat-riscv64/commit/6914904f6389e4afe67f9b884044c4d07330e6e9) - 2026-05-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 

@@ -202,6 +202,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Define new `get_deposit_churn_limit` function](https://github.com/ethereum/consensus-specs/pull/5220#pullrequestreview-4252899357) - 2026-05-08
 * [Review] [Review on: Add separate pending builder deposits queue, Take 2](https://github.com/ethereum/consensus-specs/pull/5221#pullrequestreview-4252382700) - 2026-05-08
 * [Commit] [Bump version to v1.7.0-alpha.8 (#5225)](https://github.com/ethereum/consensus-specs/commit/e47395b4a656c29b07c6577127162d16ef7e526a) - 2026-05-08
+* [Review] [Review on: Modify `notify_forkchoice_updated`](https://github.com/ethereum/consensus-specs/pull/5197#pullrequestreview-4257735628) - 2026-05-09
+* [Commit] [Split out partial columns feature (#5226)](https://github.com/ethereum/consensus-specs/commit/08eb882f6f6060be907f70b2b17ac29df0949bd6) - 2026-05-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

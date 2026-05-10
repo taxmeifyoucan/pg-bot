@@ -54,6 +54,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [add metrics version (#4202)](https://github.com/status-im/nimbus-eth1/commit/9f80f9911f41a5d1c20d67e3b2464c68c6cca865) - 2026-05-03
 * [Commit] [remove `nextAsyncNanoSleep` from syncer as FC already yields (#4203)](https://github.com/status-im/nimbus-eth1/commit/0ad49e82a5566f92a507e51c2d5dbe84da520db8) - 2026-05-04
 * [Pull Request] [txframe blobify and persist](https://github.com/status-im/nimbus-eth1/pull/4220) - 2026-05-07
+* [Review] [Review on: txframe blobify and persist](https://github.com/status-im/nimbus-eth1/pull/4220#pullrequestreview-4257014350) - 2026-05-09
 ## Q1 2026
 
 

@@ -16,6 +16,7 @@ Github: [@marcopolo](https://github.com/marcopolo)
 * [Pull Request] [Cell dissemination via Partial Messages on Gloas](https://github.com/ethereum/consensus-specs/pull/5141) - 2026-04-20
 * [Review] [Review on: Cell dissemination via Partial Messages on Gloas](https://github.com/ethereum/consensus-specs/pull/5141#pullrequestreview-4165876790) - 2026-04-23
 * [Commit] [Remove `PartialDataColumnHeader` (#5141)](https://github.com/ethereum/consensus-specs/commit/738983e1e8fd08fe9b87668867caf569ca84fb49) - 2026-04-24
+* [Review] [Review on: Split out partial columns feature](https://github.com/ethereum/consensus-specs/pull/5226#pullrequestreview-4256694618) - 2026-05-09
 ## Q1 2026
 
 

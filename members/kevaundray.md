@@ -40,6 +40,7 @@ Team: Consensus R&D (EF)
 * [Commit] [Add EIP: EVMification](https://github.com/ethereum/EIPs/commit/f78f8fab43f7e0689df51e59873259ceebc2df5c) - 2026-04-16
 
 * [Review] [Review on: Update EIP-8025: Move to Draft](https://github.com/ethereum/EIPs/pull/11604#pullrequestreview-4238665649) - 2026-05-06
+* [Review] [Review on: Update EIP-8025: Move to Draft](https://github.com/ethereum/EIPs/pull/11604#pullrequestreview-4258286654) - 2026-05-09
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Issue] [Optional proofs: Add K of N label](https://github.com/ethpandaops/dora/issues/654) - 2026-04-23
 ## Q1 2026

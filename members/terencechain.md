@@ -133,6 +133,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Add gloas epoch processing spec tests](https://github.com/OffchainLabs/prysm/pull/16768) - 2026-05-08
 * [Commit] [Cache PayloadAttestationData and dedupe concurrent PTC requests (#16744)](https://github.com/OffchainLabs/prysm/commit/6a2dfaab953d1e87d51e39d03b1f7d3da550df96) - 2026-05-08
 * [Commit] [Implement spec `V1.7.0 alpha.7` and pass spec tests (#16750)](https://github.com/OffchainLabs/prysm/commit/651b9bc2909ed4eb8995a55d8c5543c9acefb479) - 2026-05-08
+* [Review] [Review on: handle reorgs for proposer preferences](https://github.com/OffchainLabs/prysm/pull/16651#pullrequestreview-4256465787) - 2026-05-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

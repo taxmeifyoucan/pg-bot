@@ -139,6 +139,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: whir: wire stacked layouts to pcs](https://github.com/Plonky3/Plonky3/pull/1612#pullrequestreview-4239685564) - 2026-05-06
 * [Review] [Review on: refactor(air): merge PeriodicAirBuilder into AirBuilder](https://github.com/Plonky3/Plonky3/pull/1611#pullrequestreview-4247539561) - 2026-05-07
 * [Commit] [refactor(air): merge PeriodicAirBuilder into AirBuilder (#1611)](https://github.com/Plonky3/Plonky3/commit/b638013721b7c9c07b171cb79a47366c928fb550) - 2026-05-07
+* [Review] [Review on: perf(goldilocks): scalar add/sub for PackedGoldilocksNeon](https://github.com/Plonky3/Plonky3/pull/1619#pullrequestreview-4258427450) - 2026-05-09
+* [Review] [Review on: feat: add security estimation](https://github.com/Plonky3/Plonky3/pull/1329#pullrequestreview-4258470599) - 2026-05-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

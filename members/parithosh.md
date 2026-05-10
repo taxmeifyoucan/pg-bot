@@ -20,6 +20,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Review] [Review on: feat(beacon-node): run consensus-specs fork-choice compliance tests](https://github.com/ChainSafe/lodestar/pull/9290#pullrequestreview-4187126110) - 2026-04-28
 * [Issue] [compliance fork-choice tests: gloas SSZ types diverge from consensus-specs master](https://github.com/ChainSafe/lodestar/issues/9295) - 2026-04-28
+* [Pull Request] [fix: builder payment quorum integer overflow at mainnet-scale stake](https://github.com/ChainSafe/lodestar/pull/9350) - 2026-05-09
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Wire fork-choice compliance test suites](https://github.com/Consensys/teku/pull/10621) - 2026-04-27
 

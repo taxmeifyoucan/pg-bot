@@ -33,6 +33,9 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Define new `get_deposit_churn_limit` function](https://github.com/ethereum/consensus-specs/pull/5220#pullrequestreview-4250983998) - 2026-05-08
 * [Pull Request] [Add separate pending builder deposits queue, Take 2](https://github.com/ethereum/consensus-specs/pull/5221) - 2026-05-08
 * [Review] [Review on: Add separate pending builder deposits queue, Take 2](https://github.com/ethereum/consensus-specs/pull/5221#pullrequestreview-4251844022) - 2026-05-08
+* [Review] [Review on: Add new `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD_GLOAS` preset](https://github.com/ethereum/consensus-specs/pull/5224#pullrequestreview-4257041512) - 2026-05-09
+* [Review] [Review on: Raise `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 8192 epochs](https://github.com/ethereum/consensus-specs/pull/5223#pullrequestreview-4257034755) - 2026-05-09
+* [Commit] [Modify `notify_forkchoice_updated` (#5197)](https://github.com/ethereum/consensus-specs/commit/57b4a975b5b1bebd9ec9178193cbaa94678762ed) - 2026-05-09
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20
@@ -43,6 +46,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: engine: move PayloadAttributesV4 into Amsterdam structures](https://github.com/ethereum/execution-apis/pull/778#pullrequestreview-4195856684) - 2026-04-29
 
 * [Review] [Review on: Fix: engine nits](https://github.com/ethereum/execution-apis/pull/753#pullrequestreview-4210340435) - 2026-05-01
+* [Review] [Review on: all: align EIP-7928 spec with latest EIP (uint32 BlockAccessIndex, header hash, debug getter)](https://github.com/ethereum/execution-apis/pull/794#pullrequestreview-4257036803) - 2026-05-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4210578979) - 2026-05-01
 * [Review] [Review on: Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4233437938) - 2026-05-06
