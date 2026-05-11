@@ -141,6 +141,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: feat(debug): add enableReturnData param and returnData field ](https://github.com/besu-eth/besu/pull/10172#pullrequestreview-4250557087) - 2026-05-08
 * [Review] [Review on: fix: use non-zero exit code on disk-full shutdown](https://github.com/besu-eth/besu/pull/10254#pullrequestreview-4249412923) - 2026-05-08
 * [Review] [Review on: fix: return -38003 for FCUv1 timestamp errors](https://github.com/besu-eth/besu/pull/10353#pullrequestreview-4249213829) - 2026-05-08
+* [Review] [Review on: DebugOperationTracer #10115 - 10 : storage snapshot timing ](https://github.com/besu-eth/besu/pull/10176#pullrequestreview-4260234851) - 2026-05-11
+* [Review] [Review on: Fix snap/2 encoding and response size limits](https://github.com/besu-eth/besu/pull/10391#pullrequestreview-4260185089) - 2026-05-11
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

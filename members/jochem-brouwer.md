@@ -45,6 +45,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-8037: fixed CPSB + frame accounting](https://github.com/ethereum/EIPs/pull/11573#pullrequestreview-4187705730) - 2026-04-28
 * [Pull Request] [Add EIP: Remove pre-Spurious-Dragon accounts](https://github.com/ethereum/EIPs/pull/11605) - 2026-05-06
 * [Review] [Review on: Add EIP: Remove pre-Spurious-Dragon accounts](https://github.com/ethereum/EIPs/pull/11605#pullrequestreview-4239740446) - 2026-05-06
+* [Review] [Review on: Update EIP-8025: Move to Draft](https://github.com/ethereum/EIPs/pull/11604#pullrequestreview-4260052636) - 2026-05-10
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Correctly name devnet-2 genesis and introduce devnet-3 genesis](https://github.com/NethermindEth/gas-benchmarks/pull/139) - 2026-04-22
 

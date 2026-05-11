@@ -36,6 +36,14 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat: switch to dotnet b18 that contains code/data splitting improvements](https://github.com/NethermindEth/bflat-riscv64/commit/88b178ffadf339854cd5ab9e99b6e8b0fcb77681) - 2026-05-09
 * [Commit] [BuildCommand: disable code/data splitting](https://github.com/NethermindEth/bflat-riscv64/commit/88a9508ea006b585082aa5b29634bce5b625fb88) - 2026-05-09
 * [Commit] [Move security cookie to .data section instead of .text](https://github.com/NethermindEth/bflat-riscv64/commit/6914904f6389e4afe67f9b884044c4d07330e6e9) - 2026-05-09
+* [Pull Request] [Use dotnet with fixed relocations](https://github.com/NethermindEth/bflat-riscv64/pull/17) - 2026-05-10
+* [Pull Request] [PAL: Give runtime synthetic stack size](https://github.com/NethermindEth/bflat-riscv64/pull/16) - 2026-05-10
+* [Pull Request] [Fix zisk_sim operation by introducing proper CGroup wrapper](https://github.com/NethermindEth/bflat-riscv64/pull/15) - 2026-05-10
+* [Pull Request] [Check wrapped symbols for sanity](https://github.com/NethermindEth/bflat-riscv64/pull/14) - 2026-05-10
+* [Commit] [Use dotnet with fixed relocations](https://github.com/NethermindEth/bflat-riscv64/commit/24a485b86f0201f9f25333c4274afaf2211d97e9) - 2026-05-10
+* [Commit] [Give synthetic stack size](https://github.com/NethermindEth/bflat-riscv64/commit/f016c1251e6d63933ffd639277fa37307610a228) - 2026-05-10
+* [Commit] [Fix zisk_sim operation by introducing proper CGroup wrapper](https://github.com/NethermindEth/bflat-riscv64/commit/b8e4cc3aeeca655df63ae0ab06318f9f295598bc) - 2026-05-10
+* [Commit] [Check wrapped symbols for sanity](https://github.com/NethermindEth/bflat-riscv64/commit/e795caecacb5a687eea5c724ac8c9366e54cd00b) - 2026-05-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 

@@ -110,6 +110,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Recover envelope sse events](https://github.com/status-im/nimbus-eth2/pull/8347#pullrequestreview-4252043329) - 2026-05-08
 * [Review] [Review on: fix: gloas block gossip validation](https://github.com/status-im/nimbus-eth2/pull/8422#pullrequestreview-4257894253) - 2026-05-09
 * [Pull Request] [add gloas DataColumnSidecar quarantine tests](https://github.com/status-im/nimbus-eth2/pull/8427) - 2026-05-09
+* [Pull Request] [rm unused code](https://github.com/status-im/nimbus-eth2/pull/8428) - 2026-05-10
+* [Review] [Review on: fix: apply parent execution requests before proposal](https://github.com/status-im/nimbus-eth2/pull/8421#pullrequestreview-4258808952) - 2026-05-10
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

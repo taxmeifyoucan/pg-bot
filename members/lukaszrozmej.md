@@ -354,6 +354,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(eth_createAccessList): preserve reverted-frame accesses and exclude precompiles](https://github.com/NethermindEth/nethermind/pull/11431#pullrequestreview-4257422109) - 2026-05-09
 * [Review] [Review on: feat(config): show non-default values on startup](https://github.com/NethermindEth/nethermind/pull/11523#pullrequestreview-4257084103) - 2026-05-09
 * [Commit] [fix(test): relax For_WhenWorkerFaults bound to range/2 for [no-intrinsics] (#11537)](https://github.com/NethermindEth/nethermind/commit/3867915ff270a0cee36d5beea6e53cbdf9a37481) - 2026-05-09
+* [Pull Request] [docs(agents): guideline for avoiding test duplication](https://github.com/NethermindEth/nethermind/pull/11546) - 2026-05-10
+* [Pull Request] [docs(agents): self-documenting code + <summary>/<remarks> guidance](https://github.com/NethermindEth/nethermind/pull/11544) - 2026-05-10
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11541#pullrequestreview-4258983072) - 2026-05-10
+* [Commit] [docs(agents): self-documenting code + <summary>/<remarks> guidance (#11544)](https://github.com/NethermindEth/nethermind/commit/684639be6cfb4f5f469319d3c56db6f87e8c1820) - 2026-05-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

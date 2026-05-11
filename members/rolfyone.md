@@ -58,6 +58,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Remove pre-capella check in BTEC gossip handler](https://github.com/ethereum/consensus-specs/pull/5205#pullrequestreview-4219428636) - 2026-05-04
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Update .gitignore to  include .worktrees](https://github.com/libp2p/jvm-libp2p/pull/462#pullrequestreview-4180956822) - 2026-04-27
+
+[Consensys/discovery](https://github.com/Consensys/discovery)
+* [Pull Request] [Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/224) - 2026-05-11
+* [Commit] [Downgrade routine peer-interaction logs from DEBUG to TRACE (#224)](https://github.com/Consensys/discovery/commit/9b9119956dac602cd21dd332f2d2415923d74c22) - 2026-05-11
 ## Q1 2026
 
 

@@ -489,6 +489,8 @@ Team: Erigon
 * [Review] [Review on: ci: skip Go jobs and add docs-site build for docs-only PRs](https://github.com/erigontech/erigon/pull/21045#pullrequestreview-4257485921) - 2026-05-09
 * [Pull Request] [db/state: encapsulate worker state into 1 struct](https://github.com/erigontech/erigon/pull/21075) - 2026-05-09
 * [Review] [Review on: execution/commitmentdb: copy branch slice returned by TrieContext.Branch (#21034)](https://github.com/erigontech/erigon/pull/21071#pullrequestreview-4256527649) - 2026-05-09
+* [Review] [Review on: rpc: Fix regression on eth_createAccessList and add mgt ctx.err in loop](https://github.com/erigontech/erigon/pull/21086#pullrequestreview-4259185227) - 2026-05-10
+* [Review] [Review on: disable two tests eth_createAccessList  & debug_traceTransaction](https://github.com/erigontech/erigon/pull/21087#pullrequestreview-4259323574) - 2026-05-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

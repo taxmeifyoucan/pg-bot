@@ -134,6 +134,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [Update EIP-7773: CFI EIP-8246 for Glamsterdam](https://github.com/ethereum/EIPs/pull/11625) - 2026-05-08
 * [Commit] [Update EIP-8246: small spec style changes](https://github.com/ethereum/EIPs/commit/3b30ff829e5e698f1c6f69427111d194b80af38d) - 2026-05-08
 * [Commit] [Update EIP-8246: Fix typos and grammar](https://github.com/ethereum/EIPs/commit/4e303336fc9970887aea31579f9e804f4a186030) - 2026-05-08
+* [Commit] [Update EIP-7773: CFI EIP-8246 for Glamsterdam](https://github.com/ethereum/EIPs/commit/e88ce5971abb73ba526a6e3653313a82ca3f2ebe) - 2026-05-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4138243461) - 2026-04-20
 

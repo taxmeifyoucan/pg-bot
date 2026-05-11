@@ -355,6 +355,11 @@ Team: Reth
 * [Commit] [chore(deps): bump alloy-eip7928 to 0.3.6 (#24075)](https://github.com/paradigmxyz/reth/commit/d9850419d5cd70ddbfe90069f39f1d508d837ff4) - 2026-05-08
 * [Commit] [feat(storage): add BAL store flush hook (#24071)](https://github.com/paradigmxyz/reth/commit/b29668ec7d9e352b5e0eb57746900c7971da4dbf) - 2026-05-08
 * [Pull Request] [feat(net): default BAL requests to optional](https://github.com/paradigmxyz/reth/pull/24095) - 2026-05-09
+* [Review] [Review on: chore: add get_cell fn in BlobStore trait](https://github.com/paradigmxyz/reth/pull/24098#pullrequestreview-4259114604) - 2026-05-10
+* [Pull Request] [fix(payload): avoid tx pool for empty payloads](https://github.com/paradigmxyz/reth/pull/24103) - 2026-05-10
+* [Review] [Review on: chore: added NewPooledTransactionHashes72 for eth/72](https://github.com/paradigmxyz/reth/pull/24101#pullrequestreview-4259453716) - 2026-05-10
+* [Review] [Review on: chore: added NewPooledTransactionHashes72 for eth/72](https://github.com/paradigmxyz/reth/pull/24090#pullrequestreview-4259173157) - 2026-05-10
+* [Commit] [fix(payload): avoid tx pool for empty payloads (#24103)](https://github.com/paradigmxyz/reth/commit/5fa1f450019c7364cca35ba32ba4c32c535b26e2) - 2026-05-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

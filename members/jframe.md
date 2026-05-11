@@ -43,6 +43,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Agentic PR guidance for Contributors](https://github.com/besu-eth/besu/pull/10414#pullrequestreview-4233088462) - 2026-05-06
 * [Commit] [Remove Bonsai archive freezer storage and Archiver component (#10339)](https://github.com/besu-eth/besu/commit/ef1b7c65f313012a30d6d1edd98f6c2837d54367) - 2026-05-06
 * [Review] [Review on: Lazy RLP decoding for GetPooledTransactionsMessage](https://github.com/besu-eth/besu/pull/10449#pullrequestreview-4249539059) - 2026-05-08
+* [Pull Request] [Snap sync flat DB performance improvement using byte comparator](https://github.com/besu-eth/besu/pull/10467) - 2026-05-11
+* [Review] [Review on: Snap sync flat DB performance improvement using byte comparator](https://github.com/besu-eth/besu/pull/10467#pullrequestreview-4260158144) - 2026-05-11
 ## Q1 2026
 
 

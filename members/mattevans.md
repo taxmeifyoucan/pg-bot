@@ -14,6 +14,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Commit] [Merge pull request #220 from ethpandaops/dependabot/github_actions/actions-231d80a922](https://github.com/ethpandaops/contributoor/commit/ef7836bff842e8b74a97a70585d51aada1c15324) - 2026-04-07
 
+* [Pull Request] [fix(go.mod): fix kt versions so int tests run](https://github.com/ethpandaops/contributoor/pull/227) - 2026-05-11
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Review] [Review on: consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805#pullrequestreview-4072535003) - 2026-04-08
 * [Pull Request] [feat(vector-logs.yaml): ch logs parse kt labels](https://github.com/ethpandaops/xatu/pull/807) - 2026-04-09

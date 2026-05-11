@@ -143,6 +143,9 @@ Team: Erigon
 * [Commit] [execution/stagedsync: don't flag maxBlockNum on partial-batch apply-loop exit (#21039)](https://github.com/erigontech/erigon/commit/2346a98bc86b77d90aeb12bfdbff69c2456f5ae9) - 2026-05-08
 * [Commit] [execution/execmodule: wire stateCache into canonical UpdateForkChoice (#21042)](https://github.com/erigontech/erigon/commit/9907f6efa521a2d29b5c889505c9ef6989037738) - 2026-05-08
 * [Commit] [db/state: serialize Aggregator.Set*Workers to fix race with collate (blocks #21039 CI) (#21062)](https://github.com/erigontech/erigon/commit/2d4e53d0fa80e9c0e71529ed183bea07c73458fe) - 2026-05-08
+* [Pull Request] [.claude/skills: add panda-install skill](https://github.com/erigontech/erigon/pull/21090) - 2026-05-10
+* [Pull Request] [execution/stagedsync, db/state: parallel-commitment correctness for reorg/unwind + SD recreate](https://github.com/erigontech/erigon/pull/21088) - 2026-05-10
+* [Commit] [.claude/skills: add panda-install skill (#21090)](https://github.com/erigontech/erigon/commit/78c23781984fe7b0ea923f8514b4ab10e299233a) - 2026-05-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

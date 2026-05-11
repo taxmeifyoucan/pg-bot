@@ -83,6 +83,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat(zkevm): Migrate to zkVM standards (#11481)](https://github.com/NethermindEth/nethermind/commit/58838b654288e446d7accacd7fdaab2a1b84983d) - 2026-05-06
 
 * [Commit] [fix: Fix dependency caching (#11499)](https://github.com/NethermindEth/nethermind/commit/c736474a93cb2fce7ab64a74375a93f6ad16be4e) - 2026-05-08
+* [Review] [Review on: docs(agents): self-documenting code + <summary>/<remarks> guidance](https://github.com/NethermindEth/nethermind/pull/11544#pullrequestreview-4259188329) - 2026-05-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 ## Q1 2026

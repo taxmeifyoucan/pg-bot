@@ -141,6 +141,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [refactor(air): merge PeriodicAirBuilder into AirBuilder (#1611)](https://github.com/Plonky3/Plonky3/commit/b638013721b7c9c07b171cb79a47366c928fb550) - 2026-05-07
 * [Review] [Review on: perf(goldilocks): scalar add/sub for PackedGoldilocksNeon](https://github.com/Plonky3/Plonky3/pull/1619#pullrequestreview-4258427450) - 2026-05-09
 * [Review] [Review on: feat: add security estimation](https://github.com/Plonky3/Plonky3/pull/1329#pullrequestreview-4258470599) - 2026-05-09
+* [Pull Request] [test(field): cover packed-extension Div with per-lane consistency check](https://github.com/Plonky3/Plonky3/pull/1624) - 2026-05-10
+* [Review] [Review on: field: expand packed-extension API; fix unsound PackedValue impls](https://github.com/Plonky3/Plonky3/pull/1620#pullrequestreview-4259964370) - 2026-05-10
+* [Review] [Review on: perf(goldilocks): scalar add/sub for PackedGoldilocksNeon](https://github.com/Plonky3/Plonky3/pull/1619#pullrequestreview-4259199429) - 2026-05-10
+* [Issue] [test(whir): add unit tests for each verifier error variant](https://github.com/Plonky3/Plonky3/issues/1625) - 2026-05-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

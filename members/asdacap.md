@@ -183,6 +183,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(state): drive storage trie warm-up from writes via HintSet](https://github.com/NethermindEth/nethermind/pull/11409#pullrequestreview-4242082934) - 2026-05-07
 * [Commit] [feat: BAL recorder plugin — record and replay block access lists for prewarming benchmarks (#11276)](https://github.com/NethermindEth/nethermind/commit/c7abfa5224fd3b69f927a581f1fb4b92eb7e3372) - 2026-05-07
 * [Commit] [perf(state): drive storage trie warm-up from writes via HintSet (#11409)](https://github.com/NethermindEth/nethermind/commit/e4edacf60836f2353b2edf38b35883744e0bbd10) - 2026-05-07
+* [Review] [Review on: ci: split build from test to lower peak memory; keep swap](https://github.com/NethermindEth/nethermind/pull/11549#pullrequestreview-4260188827) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

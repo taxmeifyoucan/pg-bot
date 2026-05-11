@@ -73,6 +73,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [EIP-7610 Implementation Tracker: Revert creation for non-empty storage](https://github.com/ethereum/execution-specs/issues/2819) - 2026-05-07
 * [Pull Request] [feat(spec-specs, tests): EIP-8037 refund intrinsic NEW_ACCOUNT for tx-created contracts destroyed in same tx](https://github.com/ethereum/execution-specs/pull/2828) - 2026-05-08
 * [Issue] [EIP-8141 Implementation Tracker: Frame Transaction](https://github.com/ethereum/execution-specs/issues/2829) - 2026-05-09
+* [Review] [Review on: feat(spec,test): update bal-devnet-7 EIP-8037 bytes values; CPSB 1174 -> 1530](https://github.com/ethereum/execution-specs/pull/2827#pullrequestreview-4259962162) - 2026-05-10
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

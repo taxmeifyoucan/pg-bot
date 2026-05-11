@@ -115,6 +115,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: fix trace call block overrides](https://github.com/erigontech/erigon/pull/21019) - 2026-05-06
 * [Commit] [QA : extend test on eth_simulateV1 with test on historical and latest (#20818)](https://github.com/erigontech/erigon/commit/c128fdd35e274cc2fe57dfdfe39685c03fb2b74c) - 2026-05-06
 * [Pull Request] [rpc graphql: fix graphql eip4844 fields](https://github.com/erigontech/erigon/pull/21060) - 2026-05-08
+* [Pull Request] [rpc: Fix regression on eth_createAccessList and add mgt ctx.err in loop](https://github.com/erigontech/erigon/pull/21086) - 2026-05-10
+* [Pull Request] [rpctest: implement positional topic invariant in EthGetLogsInvariants](https://github.com/erigontech/erigon/pull/21084) - 2026-05-10
+* [Pull Request] [disable two tests eth_createAccessList  & debug_traceTransaction](https://github.com/erigontech/erigon/pull/21087) - 2026-05-10
+* [Review] [Review on: rpc: preserve topic wildcard positions in log subscriptions](https://github.com/erigontech/erigon/pull/21067#pullrequestreview-4258987655) - 2026-05-10
+* [Commit] [disable two tests eth_createAccessList  & debug_traceTransaction (#21087)](https://github.com/erigontech/erigon/commit/047644db2720e836ddb8ee2562c788a335a5131a) - 2026-05-10
+* [Commit] [ci: add --commitment-history flag to rpc test scripts (#20981)](https://github.com/erigontech/erigon/commit/a3ee1555862221983379350f8eb581d315ae0293) - 2026-05-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -142,6 +148,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [compare: fix nested JSON indentation in result file dump](https://github.com/erigontech/rpc-tests/pull/558) - 2026-05-08
 * [Pull Request] [add eth_capability test](https://github.com/erigontech/rpc-tests/pull/557) - 2026-05-08
 * [Commit] [compare: fix nested JSON indentation in result file dump (#558)](https://github.com/erigontech/rpc-tests/commit/cd95138a0084bec68a2755e8058094194b4479f5) - 2026-05-09
+* [Pull Request] [integration_test: set ws timeout](https://github.com/erigontech/rpc-tests/pull/559) - 2026-05-10
 ## Q1 2026
 
 

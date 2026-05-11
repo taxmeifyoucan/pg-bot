@@ -153,6 +153,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Bal devnet 6 (#11436)](https://github.com/NethermindEth/nethermind/commit/481b6b17cc97960c85744b743c22168ec0ef43c2) - 2026-05-08
 * [Pull Request] [perf(trie): share cached nodes across read-only walks (CloneForReadOnly 19.2 GB -> 1.4 MB)](https://github.com/NethermindEth/nethermind/pull/11539) - 2026-05-09
 * [Review] [Review on: fix(test): relax For_WhenWorkerFaults bound to range/2 for [no-intrinsics]](https://github.com/NethermindEth/nethermind/pull/11537#pullrequestreview-4257519046) - 2026-05-09
+* [Pull Request] [feat(consensus): cap deposit requests per produced block (EIP-8254)](https://github.com/NethermindEth/nethermind/pull/11550) - 2026-05-11
+* [Review] [Review on: feat(consensus): cap deposit requests per produced block (EIP-8254)](https://github.com/NethermindEth/nethermind/pull/11550#pullrequestreview-4260145975) - 2026-05-11
+* [Pull Request] [ci: split build from test to lower peak memory; keep swap](https://github.com/NethermindEth/nethermind/pull/11549) - 2026-05-10
+* [Review] [Review on: feat(processing): parallel-safe gas-price aggregation, base-fee fallback](https://github.com/NethermindEth/nethermind/pull/11542#pullrequestreview-4259811627) - 2026-05-10
+* [Pull Request] [perf(evm): tighten CALL hot path; fix EIP-7702 delegation-to-precompile semantics](https://github.com/NethermindEth/nethermind/pull/11547) - 2026-05-10
+* [Review] [Review on: docs(agents): guideline for avoiding test duplication](https://github.com/NethermindEth/nethermind/pull/11546#pullrequestreview-4259315027) - 2026-05-10
+* [Review] [Review on: docs(agents): self-documenting code + <summary>/<remarks> guidance](https://github.com/NethermindEth/nethermind/pull/11544#pullrequestreview-4259296826) - 2026-05-10
+* [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11543#pullrequestreview-4259297850) - 2026-05-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08
@@ -162,6 +170,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Update EIP-8141: Tighten spec](https://github.com/ethereum/EIPs/pull/11521) - 2026-04-13
 * [Review] [Review on: Update EIP-8141: Tighten spec](https://github.com/ethereum/EIPs/pull/11521#pullrequestreview-4096670633) - 2026-04-13
 * [Commit] [Update EIP-8141: Tighten spec (#11521)](https://github.com/ethereum/EIPs/commit/131df0a65558113e5bc1cdcd79c29bb3d844a7e5) - 2026-04-14
+* [Review] [Review on: Update EIP-7773: SFI 8 EL Amsterdam EIPs](https://github.com/ethereum/EIPs/pull/11399#pullrequestreview-4259786032) - 2026-05-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4081943781) - 2026-04-09
 
@@ -169,6 +178,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [chore(test-client-clis): update Nethermind exception mappings](https://github.com/ethereum/execution-specs/pull/2794) - 2026-05-02
 * [Issue] [Missing EIP-8037 fixture: per-tx pre-validation admits txs whose worst-case-OR overflows but actual two-dim routing fits](https://github.com/ethereum/execution-specs/issues/2795) - 2026-05-03
 * [Commit] [Update Nethermind exception mappings (#2794)](https://github.com/ethereum/execution-specs/commit/8fa9a0572578af805b5acd53f8319f53d9eb3b9a) - 2026-05-04
+* [Issue] [EIP-7928 BAL: missing test coverage for direct DELEGATECALL/CALLCODE to a precompile (bal-devnet-7)](https://github.com/ethereum/execution-specs/issues/2830) - 2026-05-10
 ## Q1 2026
 
 
