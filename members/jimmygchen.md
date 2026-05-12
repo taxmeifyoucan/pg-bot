@@ -60,6 +60,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Move gossip column KZG verification off async runtime](https://github.com/sigp/lighthouse/pull/9271) - 2026-05-06
 * [Issue] [Consider relaxing data column reconstruction deadline for ePBS](https://github.com/sigp/lighthouse/issues/9270) - 2026-05-06
 * [Pull Request] [Optimise slow block verification tests](https://github.com/sigp/lighthouse/pull/9274) - 2026-05-07
+* [Review] [Review on: Dont penalize payload envelope peers after gossip verification](https://github.com/sigp/lighthouse/pull/9283#pullrequestreview-4261187298) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026

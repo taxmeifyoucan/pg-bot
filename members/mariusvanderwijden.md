@@ -60,6 +60,9 @@ Team: Geth
 * [Pull Request] [core: implement EIP-8254: Cap deposit requests per block](https://github.com/ethereum/go-ethereum/pull/34901) - 2026-05-07
 * [Review] [Review on: core/state: track the block-level accessList](https://github.com/ethereum/go-ethereum/pull/34803#pullrequestreview-4241762763) - 2026-05-07
 * [Commit] [appveyor.yml: remove appveyor configuration (#34720)](https://github.com/ethereum/go-ethereum/commit/18becee8cb01f6d35224a6bac3e45d49b2074857) - 2026-05-10
+* [Review] [Review on: version: release go-ethereum v1.17.3 stable](https://github.com/ethereum/go-ethereum/pull/34937#pullrequestreview-4264547315) - 2026-05-11
+* [Pull Request] [core: use uint256 in core.Message](https://github.com/ethereum/go-ethereum/pull/34934) - 2026-05-11
+* [Commit] [core: use uint256 in core.Message (#34934)](https://github.com/ethereum/go-ethereum/commit/e1047b9c8489ed2e26845498b58e3e30dad66f1c) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

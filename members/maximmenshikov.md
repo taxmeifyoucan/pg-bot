@@ -44,6 +44,11 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Give synthetic stack size](https://github.com/NethermindEth/bflat-riscv64/commit/f016c1251e6d63933ffd639277fa37307610a228) - 2026-05-10
 * [Commit] [Fix zisk_sim operation by introducing proper CGroup wrapper](https://github.com/NethermindEth/bflat-riscv64/commit/b8e4cc3aeeca655df63ae0ab06318f9f295598bc) - 2026-05-10
 * [Commit] [Check wrapped symbols for sanity](https://github.com/NethermindEth/bflat-riscv64/commit/e795caecacb5a687eea5c724ac8c9366e54cd00b) - 2026-05-10
+* [Pull Request] [Make slow dispatch fast](https://github.com/NethermindEth/bflat-riscv64/pull/19) - 2026-05-12
+* [Pull Request] [Zisk: enable twice more RAM](https://github.com/NethermindEth/bflat-riscv64/pull/18) - 2026-05-11
+* [Commit] [Clean up cache interface dispatcher mechanism](https://github.com/NethermindEth/bflat-riscv64/commit/0b4a87e8679bef09c8eca731251f3abe338c9122) - 2026-05-12
+* [Commit] [Make slow dispatch fast](https://github.com/NethermindEth/bflat-riscv64/commit/a5e3a3078b983490bbd65c1df6444d1a26c53b70) - 2026-05-12
+* [Commit] [Zisk: enable twice more RAM](https://github.com/NethermindEth/bflat-riscv64/commit/6e34b93fa5c614a2e3d7c6f6852adaefd7f62171) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 

@@ -49,6 +49,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Write `totalEffectiveBalance` in `balanceCache` eagerly in `ProcessEffectiveBalanceUpdates`.](https://github.com/OffchainLabs/prysm/pull/16738#pullrequestreview-4228294050) - 2026-05-05
 * [Issue] [After an Internet outage, Prysm cannot find peers](https://github.com/OffchainLabs/prysm/issues/16755) - 2026-05-05
 * [Issue] [When using `--enable-beacon-rest-api`, an exited validator while in sync committee does not participate and accumulates penalty](https://github.com/OffchainLabs/prysm/issues/16759) - 2026-05-06
+* [Pull Request] [Update go-ethereum to v1.17.3](https://github.com/OffchainLabs/prysm/pull/16775) - 2026-05-11
+* [Review] [Review on: updated duties using split endpoints](https://github.com/OffchainLabs/prysm/pull/16421#pullrequestreview-4263850341) - 2026-05-11
+* [Commit] [Write `totalEffectiveBalance` in `balanceCache` eagerly in `ProcessEffectiveBalanceUpdates`. (#16738)](https://github.com/OffchainLabs/prysm/commit/719831b82e2753734a6949d7b147bb2403870be2) - 2026-05-11
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 ## Q1 2026

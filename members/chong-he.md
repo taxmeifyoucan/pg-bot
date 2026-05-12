@@ -36,6 +36,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Add full epoch transition test to the EF tests](https://github.com/sigp/lighthouse/pull/9275) - 2026-05-07
 * [Pull Request] [Fix execution integration test CI failure](https://github.com/sigp/lighthouse/pull/9277) - 2026-05-08
 * [Issue] [Automatically pull latest version of Nethermind in EL test](https://github.com/sigp/lighthouse/issues/9279) - 2026-05-08
+* [Review] [Review on: Add full epoch transition test to the EF tests](https://github.com/sigp/lighthouse/pull/9275#pullrequestreview-4260579991) - 2026-05-11
 ## Q1 2026
 
 

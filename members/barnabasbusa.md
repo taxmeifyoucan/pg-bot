@@ -190,6 +190,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Update EIP-8070: Prefix title with eth/72 protocol version](https://github.com/ethereum/EIPs/commit/ea725b44a1ab60147814f8f0ddd5e26f74ce0643) - 2026-04-16
 * [Review] [Review on: Update EIP-7723: Add new ACDE/C Facilitators to Meta & Process EIPs](https://github.com/ethereum/EIPs/pull/11585#pullrequestreview-4203735731) - 2026-04-30
 * [Pull Request] [Add EIP: Cap deposit requests per block](https://github.com/ethereum/EIPs/pull/11607) - 2026-05-06
+* [Pull Request] [Add EIP: Gas Limit Schedule](https://github.com/ethereum/EIPs/pull/11644) - 2026-05-11
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [ci: bump pinned GitHub Actions to latest](https://github.com/ethpandaops/template-devnets/pull/158) - 2026-04-14
 * [Commit] [ci: bump pinned GitHub Actions to latest (#158)](https://github.com/ethpandaops/template-devnets/commit/254b32c9621944012d978017e59489c3eb70db78) - 2026-04-14

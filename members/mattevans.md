@@ -15,6 +15,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #220 from ethpandaops/dependabot/github_actions/actions-231d80a922](https://github.com/ethpandaops/contributoor/commit/ef7836bff842e8b74a97a70585d51aada1c15324) - 2026-04-07
 
 * [Pull Request] [fix(go.mod): fix kt versions so int tests run](https://github.com/ethpandaops/contributoor/pull/227) - 2026-05-11
+* [Pull Request] [chore: refactor command line flags and logging fields for better clar…](https://github.com/ethpandaops/contributoor/pull/230) - 2026-05-11
+* [Commit] [Merge pull request #230 from ethpandaops/chore/linting-issues-ver-bump](https://github.com/ethpandaops/contributoor/commit/5704c507769c2d24c6929ea88af37d9483f5b971) - 2026-05-11
+* [Commit] [chore: refactor command line flags and logging fields for better clarity and maintainability](https://github.com/ethpandaops/contributoor/commit/3f0b19519f05574ddee123284ee3a86907113d75) - 2026-05-11
+* [Commit] [fix(go.mod): update otlptracehttp dependency from v1.42.0 to v1.43.0 to address compatibility and improvements in functionality](https://github.com/ethpandaops/contributoor/commit/53289217d09faf43e71bcef7cf7e347d9a35deb4) - 2026-05-11
+* [Commit] [Merge pull request #229 from ethpandaops/dependabot/go_modules/go-dependencies-dd2c669ff9](https://github.com/ethpandaops/contributoor/commit/62cd5590ac7da8cd75461829743679a5eca1d960) - 2026-05-11
+* [Commit] [Merge pull request #225 from ethpandaops/dependabot/github_actions/actions-b745ac94e4](https://github.com/ethpandaops/contributoor/commit/4d12ac7e98efed4d5b5dc06c16dd18421652fa65) - 2026-05-11
+* [Commit] [chore(go.mod): update dependencies to latest versions for improved stability and security](https://github.com/ethpandaops/contributoor/commit/4dcc57c3a136f5a1857037a8f79a801cd3422763) - 2026-05-11
+* [Commit] [Merge pull request #227 from ethpandaops/chore/fix-kt-tests](https://github.com/ethpandaops/contributoor/commit/77ea3f23747d4c2af210d4e268c5a00e101eb2a7) - 2026-05-11
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Review] [Review on: consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805#pullrequestreview-4072535003) - 2026-04-08
 * [Pull Request] [feat(vector-logs.yaml): ch logs parse kt labels](https://github.com/ethpandaops/xatu/pull/807) - 2026-04-09
@@ -31,6 +39,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: add payload_status to ForkChoiceNodeV2](https://github.com/ethpandaops/xatu/pull/819) - 2026-05-08
 * [Pull Request] [feat: wire ePBS SSE handlers + cannon derivers](https://github.com/ethpandaops/xatu/pull/814) - 2026-05-07
 * [Pull Request] [feat: migrate to ethpandaops/go-eth2-client; wire ePBS sourcing](https://github.com/ethpandaops/xatu/pull/813) - 2026-05-07
+* [Pull Request] [chore(workflows): bumpity bump bump](https://github.com/ethpandaops/xatu/pull/822) - 2026-05-11
+* [Commit] [Merge pull request #822 from ethpandaops/chore/fix-ci-go-bump](https://github.com/ethpandaops/xatu/commit/ba00172082a6e2be2345fa194fae74700f1ca3a8) - 2026-05-12
+* [Commit] [chore(workflows): update Golang version to 1.26.2 and golangci-lint version to 2.12.2 for consistency and compatibility](https://github.com/ethpandaops/xatu/commit/a814d0faba78782e3188a3701c775174fb06c595) - 2026-05-11
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Review] [Review on: feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433#pullrequestreview-4166900256) - 2026-04-23
 
@@ -41,6 +52,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167) - 2026-05-06
+
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Review] [Review on: vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168#pullrequestreview-4268512547) - 2026-05-12
 ## Q1 2026
 
 

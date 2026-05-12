@@ -146,6 +146,11 @@ Team: Erigon
 * [Pull Request] [.claude/skills: add panda-install skill](https://github.com/erigontech/erigon/pull/21090) - 2026-05-10
 * [Pull Request] [execution/stagedsync, db/state: parallel-commitment correctness for reorg/unwind + SD recreate](https://github.com/erigontech/erigon/pull/21088) - 2026-05-10
 * [Commit] [.claude/skills: add panda-install skill (#21090)](https://github.com/erigontech/erigon/commit/78c23781984fe7b0ea923f8514b4ab10e299233a) - 2026-05-11
+* [Review] [Review on: execution/stagedsync, db/state: parallel-commitment correctness for reorg/unwind + SD recreate](https://github.com/erigontech/erigon/pull/21088#pullrequestreview-4263281557) - 2026-05-11
+* [Issue] [Parallel-exec hardening: residual functional test failures under EXEC3_PARALLEL=true unrelated to commitment-accumulator races](https://github.com/erigontech/erigon/issues/21108) - 2026-05-11
+* [Issue] [Parallel-exec hardening: stage-exec-test (from-0 / chaintip / resume-nonchaintip) fails in both serial and parallel modes](https://github.com/erigontech/erigon/issues/21107) - 2026-05-11
+* [Issue] [Lock-free parallel execution: derive per-block changesets post-hoc, remove changeset accumulator from the exec path](https://github.com/erigontech/erigon/issues/21106) - 2026-05-11
+* [Commit] [execution/stagedsync, db/state: parallel-commitment correctness for reorg/unwind + SD recreate (#21088)](https://github.com/erigontech/erigon/commit/bfa03df625c6928a354b79427ed344e74567c76b) - 2026-05-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

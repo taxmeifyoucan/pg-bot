@@ -111,6 +111,16 @@ Team: Reth
 * [Commit] [feat: run payload builder on a named os thread (#24038)](https://github.com/paradigmxyz/reth/commit/fcc65301e96fa4e67886edc31793f0a951e0003c) - 2026-05-07
 * [Review] [Review on: refactor(engine): add validation output type](https://github.com/paradigmxyz/reth/pull/24089#pullrequestreview-4252836582) - 2026-05-08
 * [Review] [Review on: fix(ci): configure bench chart git identity](https://github.com/paradigmxyz/reth/pull/24073#pullrequestreview-4251194865) - 2026-05-08
+* [Review] [Review on: ci(bench): derive default warmup from block count](https://github.com/paradigmxyz/reth/pull/24131#pullrequestreview-4265173932) - 2026-05-11
+* [Review] [Review on: refactor(engine): add block or payload type helpers](https://github.com/paradigmxyz/reth/pull/24119#pullrequestreview-4262897444) - 2026-05-11
+* [Review] [Review on: fix(ci): clean up scheduled bench cpu latency helper](https://github.com/paradigmxyz/reth/pull/24124#pullrequestreview-4263676518) - 2026-05-11
+* [Review] [Review on: ci(bench): add checkout step to save-state job](https://github.com/paradigmxyz/reth/pull/24125#pullrequestreview-4263376324) - 2026-05-11
+* [Review] [Review on: refactor(engine): remove redundant BAL argument](https://github.com/paradigmxyz/reth/pull/24123#pullrequestreview-4263284374) - 2026-05-11
+* [Pull Request] [refactor(pool): pass error by value to `mark_invalid`](https://github.com/paradigmxyz/reth/pull/24121) - 2026-05-11
+* [Pull Request] [ci(bench): route scheduled benchmarks through txgen](https://github.com/paradigmxyz/reth/pull/24117) - 2026-05-11
+* [Review] [Review on: ci(bench): require PR author to be an org member](https://github.com/paradigmxyz/reth/pull/24115#pullrequestreview-4262198747) - 2026-05-11
+* [Commit] [refactor(pool): pass error by value to `mark_invalid` (#24121)](https://github.com/paradigmxyz/reth/commit/735417251bbcc55036672be53a3ce343aefabdb1) - 2026-05-11
+* [Commit] [ci(bench): route scheduled benchmarks through txgen (#24117)](https://github.com/paradigmxyz/reth/commit/849e9446c82432921a5b45225cf5254c63e41476) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

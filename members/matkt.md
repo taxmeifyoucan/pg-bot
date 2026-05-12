@@ -68,6 +68,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Improve performance of BAL sorting entries](https://github.com/besu-eth/besu/pull/10392#pullrequestreview-4241410152) - 2026-05-07
 * [Review] [Review on: feat: Add cross-block code caching for improved performance](https://github.com/besu-eth/besu/pull/10390#pullrequestreview-4241724728) - 2026-05-07
 * [Commit] [remove timeout for bal parallelization  (#10389)](https://github.com/besu-eth/besu/commit/8d5bc6e59fc60f435d4e0c2739cb69b5640724dc) - 2026-05-08
+* [Review] [Review on: fix: close LRUCache and ColumnFamilyOptions](https://github.com/besu-eth/besu/pull/10456#pullrequestreview-4260946769) - 2026-05-11
+* [Review] [Review on: fix: incremental frontierRootHash to avoid O(N²) on pre-Byzantium blocks](https://github.com/besu-eth/besu/pull/10220#pullrequestreview-4261233939) - 2026-05-11
+* [Review] [Review on: Fix snap/2 encoding and response size limits](https://github.com/besu-eth/besu/pull/10391#pullrequestreview-4260993271) - 2026-05-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

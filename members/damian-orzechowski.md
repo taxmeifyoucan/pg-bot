@@ -31,6 +31,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(sync): allow multiple allocation slots per peer (lock-free rewrite)](https://github.com/NethermindEth/nethermind/pull/11361#pullrequestreview-4195682684) - 2026-04-29
 * [Review] [Review on: fix(test): treat ArrowGlacier and GrayGlacier as pre-merge](https://github.com/NethermindEth/nethermind/pull/11315#pullrequestreview-4195739279) - 2026-04-29
 * [Review] [Review on: Snapshot fixes](https://github.com/NethermindEth/nethermind/pull/11401#pullrequestreview-4203170240) - 2026-04-30
+* [Review] [Review on: ci: split build from test to lower peak memory; keep swap](https://github.com/NethermindEth/nethermind/pull/11549#pullrequestreview-4261667458) - 2026-05-11
 ## Q1 2026
 
 

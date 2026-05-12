@@ -65,6 +65,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Payload reorg handling](https://github.com/Consensys/teku/issues/10670) - 2026-05-01
 * [Issue] [Fetch payload by root when missing (attestation and block processing)](https://github.com/Consensys/teku/issues/10669) - 2026-05-01
 * [Commit] [Fix decoder reuse after dispose in RPC response decoding (#10667)](https://github.com/Consensys/teku/commit/c05af0eaa0533dc8f40a330eb46f39084b30b680) - 2026-05-01
+* [Review] [Review on: Add JaCoCo coverage reporting for unit and reference tests](https://github.com/Consensys/teku/pull/10692#pullrequestreview-4267979774) - 2026-05-11
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 

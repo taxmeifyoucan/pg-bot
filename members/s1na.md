@@ -54,11 +54,14 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: eth/tracers: fix data race on interruption reason across tracers](https://github.com/ethereum/go-ethereum/pull/34827#pullrequestreview-4255028397) - 2026-05-08
 * [Commit] [.gitea, build: cross-compile windows binaries (#34889)](https://github.com/ethereum/go-ethereum/commit/592209c0ee99bd9c3046d27ecea5b970c64a8730) - 2026-05-08
 * [Review] [Review on: eth/tracers: fix data race on interruption reason across tracers](https://github.com/ethereum/go-ethereum/pull/34827#pullrequestreview-4257542463) - 2026-05-09
+* [Pull Request] [internal/ethapi: fix withdrawal regression in eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/34939) - 2026-05-11
+* [Commit] [internal/ethapi: fix withdrawal regression in eth_simulateV1 (#34939)](https://github.com/ethereum/go-ethereum/commit/c16684c1eec23bdc3f806827713aad380a6a90f3) - 2026-05-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20
 
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4147787091) - 2026-04-21
+* [Pull Request] [eth: add eth_subscribe and unsubscribe methods](https://github.com/ethereum/execution-apis/pull/797) - 2026-05-11
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [cmd: add hivequery (hq) command](https://github.com/ethereum/hive/pull/1438) - 2026-04-20
 * [Commit] [cmd/hq: add hivequery (hq) command (#1438)](https://github.com/ethereum/hive/commit/e4209f3c6a50b82e022730f5e49c3b331fc10e8c) - 2026-04-21

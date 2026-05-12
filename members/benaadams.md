@@ -161,6 +161,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: docs(agents): guideline for avoiding test duplication](https://github.com/NethermindEth/nethermind/pull/11546#pullrequestreview-4259315027) - 2026-05-10
 * [Review] [Review on: docs(agents): self-documenting code + <summary>/<remarks> guidance](https://github.com/NethermindEth/nethermind/pull/11544#pullrequestreview-4259296826) - 2026-05-10
 * [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11543#pullrequestreview-4259297850) - 2026-05-10
+* [Pull Request] [Bal devnet 7](https://github.com/NethermindEth/nethermind/pull/11561) - 2026-05-11
+* [Review] [Review on: ci: add nightly Docker image build](https://github.com/NethermindEth/nethermind/pull/11559#pullrequestreview-4263551698) - 2026-05-11
+* [Review] [Review on: Make RefundOnContractCollision overridable for Arbitrum plugin needs](https://github.com/NethermindEth/nethermind/pull/11554#pullrequestreview-4262400953) - 2026-05-11
+* [Commit] [perf(evm): tighten CALL hot path; fix EIP-7702 delegation-to-precompile semantics (#11547)](https://github.com/NethermindEth/nethermind/commit/e913d87bf593e2e0b24ce9568ff57ed38c7d5628) - 2026-05-11
+* [Commit] [ci: split build from test to lower peak memory; keep swap (#11549)](https://github.com/NethermindEth/nethermind/commit/c9b6529da179bd6d4cd952b879a74aa24b33c479) - 2026-05-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08
@@ -171,6 +176,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Update EIP-8141: Tighten spec](https://github.com/ethereum/EIPs/pull/11521#pullrequestreview-4096670633) - 2026-04-13
 * [Commit] [Update EIP-8141: Tighten spec (#11521)](https://github.com/ethereum/EIPs/commit/131df0a65558113e5bc1cdcd79c29bb3d844a7e5) - 2026-04-14
 * [Review] [Review on: Update EIP-7773: SFI 8 EL Amsterdam EIPs](https://github.com/ethereum/EIPs/pull/11399#pullrequestreview-4259786032) - 2026-05-10
+* [Review] [Review on: Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540#pullrequestreview-4263898579) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4081943781) - 2026-04-09
 
@@ -179,6 +185,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Issue] [Missing EIP-8037 fixture: per-tx pre-validation admits txs whose worst-case-OR overflows but actual two-dim routing fits](https://github.com/ethereum/execution-specs/issues/2795) - 2026-05-03
 * [Commit] [Update Nethermind exception mappings (#2794)](https://github.com/ethereum/execution-specs/commit/8fa9a0572578af805b5acd53f8319f53d9eb3b9a) - 2026-05-04
 * [Issue] [EIP-7928 BAL: missing test coverage for direct DELEGATECALL/CALLCODE to a precompile (bal-devnet-7)](https://github.com/ethereum/execution-specs/issues/2830) - 2026-05-10
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: all: align EIP-7928 spec with latest EIP (uint32 BlockAccessIndex, header hash, debug getter)](https://github.com/ethereum/execution-apis/pull/794#pullrequestreview-4263914654) - 2026-05-11
 ## Q1 2026
 
 

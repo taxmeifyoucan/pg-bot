@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219) - 2026-04-22
 
+* [Review] [Review on: Fix IPv6 outbound dial bootstrap](https://github.com/Consensys/discovery/pull/225#pullrequestreview-4263964146) - 2026-05-11
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: allow NodeRecords with no endpoints in discv5 AddressAccessPolicy](https://github.com/besu-eth/besu/pull/10308) - 2026-04-22
 * [Pull Request] [fix: fix DefaultPeerId comparator](https://github.com/besu-eth/besu/pull/10321) - 2026-04-23

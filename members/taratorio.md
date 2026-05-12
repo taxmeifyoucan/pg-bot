@@ -101,6 +101,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cmd/evm: parallel workers in evm statetest and blocktest (#21058)](https://github.com/erigontech/erigon/commit/830e6de83582adb91e375987754fb7e3d8b943cc) - 2026-05-08
 * [Commit] [execution: make block read aheader non-global (#21056)](https://github.com/erigontech/erigon/commit/97ff85c0b3fd210fa715fa6053fdc7b5b691a191) - 2026-05-08
 * [Pull Request] [[DO-NOT-MERGE] execution: extract spec tests out of make test-all](https://github.com/erigontech/erigon/pull/21092) - 2026-05-11
+* [Pull Request] [cmd/evm: fix regressions in statetest cmd](https://github.com/erigontech/erigon/pull/21111) - 2026-05-11
 ## Q1 2026
 
 

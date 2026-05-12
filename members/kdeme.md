@@ -61,6 +61,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update eest zkevm version to v0.3.4 (#4216)](https://github.com/status-im/nimbus-eth1/commit/b983c8f8a8cf805d4ff4135139539eafcf82b613) - 2026-05-06
 * [Pull Request] [Add to witness trie node for collapsed branch surviving sibling - part 2](https://github.com/status-im/nimbus-eth1/pull/4219) - 2026-05-07
 * [Commit] [Add to witness trie node for collapsed branch surviving sibling - part 2 (#4219)](https://github.com/status-im/nimbus-eth1/commit/68acb279379052852cc632567ad1510d1300572c) - 2026-05-07
+* [Commit] [Ere format read/write/verify implementation (#3979)](https://github.com/status-im/nimbus-eth1/commit/5d020b0181d286bf28be2270d9b14cb50443d9f4) - 2026-05-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

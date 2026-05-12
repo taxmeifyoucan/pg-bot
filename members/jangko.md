@@ -46,6 +46,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Reduce repeated call to intrinsicGas (#4213)](https://github.com/status-im/nimbus-eth1/commit/48f0a6bbb902a736056df7eefc5b363675a46e54) - 2026-05-07
 * [Pull Request] [Simplify processTransaction](https://github.com/status-im/nimbus-eth1/pull/4221) - 2026-05-08
 * [Commit] [Simplify processTransaction (#4221)](https://github.com/status-im/nimbus-eth1/commit/5306a908bf9c00348fdde9dda8e4b4c4fc620731) - 2026-05-08
+* [Pull Request] [Fix eest cache path: eest_devnet to eest_develop](https://github.com/status-im/nimbus-eth1/pull/4232) - 2026-05-12
+* [Pull Request] [bal-devnet-7](https://github.com/status-im/nimbus-eth1/pull/4227) - 2026-05-11
+* [Pull Request] [Add initial Bogota fork support](https://github.com/status-im/nimbus-eth1/pull/4228) - 2026-05-11
+* [Commit] [Add initial Bogota fork support (#4228)](https://github.com/status-im/nimbus-eth1/commit/56ab1ca43a83c55380c8a14b2b26fa939d03ebdd) - 2026-05-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 ## Q1 2026

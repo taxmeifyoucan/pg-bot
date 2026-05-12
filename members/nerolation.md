@@ -69,6 +69,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [all: align EIP-7928 spec with latest EIP (uint32 BlockAccessIndex, header hash, debug getter)](https://github.com/ethereum/execution-apis/pull/794) - 2026-05-08
+* [Commit] [all: align EIP-7928 spec with latest EIP (uint32 BlockAccessIndex, header hash, debug getter) (#794)](https://github.com/ethereum/execution-apis/commit/f46158fce37992ffa0a17f0da1bdbb76adc23b79) - 2026-05-11
 ## Q1 2026
 
 

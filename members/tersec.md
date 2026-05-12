@@ -112,6 +112,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add gloas DataColumnSidecar quarantine tests](https://github.com/status-im/nimbus-eth2/pull/8427) - 2026-05-09
 * [Pull Request] [rm unused code](https://github.com/status-im/nimbus-eth2/pull/8428) - 2026-05-10
 * [Review] [Review on: fix: apply parent execution requests before proposal](https://github.com/status-im/nimbus-eth2/pull/8421#pullrequestreview-4258808952) - 2026-05-10
+* [Review] [Review on: fix: apply parent execution requests before proposal](https://github.com/status-im/nimbus-eth2/pull/8421#pullrequestreview-4268507399) - 2026-05-12
+* [Review] [Review on: catch the first column gossip addition event for getBlobs](https://github.com/status-im/nimbus-eth2/pull/8393#pullrequestreview-4264019390) - 2026-05-11
+* [Review] [Review on: nix: add NixOS BN and VC service definitions](https://github.com/status-im/nimbus-eth2/pull/8424#pullrequestreview-4262349390) - 2026-05-11
+* [Review] [Review on: Implement external execution payload bid selection for Gloas proposals](https://github.com/status-im/nimbus-eth2/pull/8416#pullrequestreview-4263346216) - 2026-05-11
+* [Review] [Review on: fix: gloas block gossip validation](https://github.com/status-im/nimbus-eth2/pull/8422#pullrequestreview-4263453297) - 2026-05-11
+* [Review] [Review on: add partial data column quarantine for partial column gossip management, add tests for the same](https://github.com/status-im/nimbus-eth2/pull/8410#pullrequestreview-4263306391) - 2026-05-11
+* [Commit] [rm too-precise "for Ethereum" from changelog](https://github.com/status-im/nimbus-eth2/commit/6fb05f36804d53c2e8e014cfeeea8ad7996a5efe) - 2026-05-11
+* [Commit] [version v26.5.0](https://github.com/status-im/nimbus-eth2/commit/818893ea47ea5c50f117722c20d840e312fe4a3b) - 2026-05-11
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -125,6 +133,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [CycleCreated warning in nimbus_verified_proxy_wasm target](https://github.com/status-im/nimbus-eth1/issues/4205) - 2026-05-03
 * [Commit] [more Nim warnings -> errors (#4204)](https://github.com/status-im/nimbus-eth1/commit/b83fb394fe5b9d88be49aaf877df8bec33879229) - 2026-05-03
 * [Review] [Review on: txframe blobify and persist](https://github.com/status-im/nimbus-eth1/pull/4220#pullrequestreview-4255958531) - 2026-05-08
+* [Pull Request] [Revert "proxy: Go binding"](https://github.com/status-im/nimbus-eth1/pull/4231) - 2026-05-11
+* [Review] [Review on: nix: use lib.fileset to limit package rebuilds](https://github.com/status-im/nimbus-eth1/pull/4229#pullrequestreview-4265633806) - 2026-05-11
+* [Commit] [Revert "proxy: Go binding (#4200)" (#4231)](https://github.com/status-im/nimbus-eth1/commit/f6b15a44b030542667da8940aeeb07648f0fa4da) - 2026-05-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27

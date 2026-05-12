@@ -51,6 +51,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: Revise dependency caching](https://github.com/NethermindEth/nethermind/pull/11444#pullrequestreview-4207596127) - 2026-04-30
 * [Review] [Review on: Handle quick channel closing](https://github.com/NethermindEth/nethermind/pull/11428#pullrequestreview-4223063151) - 2026-05-04
 * [Review] [Review on: test: bump TestBlockchain.DefaultTimeout 10s -> 30s](https://github.com/NethermindEth/nethermind/pull/11486#pullrequestreview-4225040979) - 2026-05-05
+* [Review] [Review on: feat(config): show non-default values on startup](https://github.com/NethermindEth/nethermind/pull/11523#pullrequestreview-4264687807) - 2026-05-11
+* [Review] [Review on: perf(evm): tighten CALL hot path; fix EIP-7702 delegation-to-precompile semantics](https://github.com/NethermindEth/nethermind/pull/11547#pullrequestreview-4264154309) - 2026-05-11
+* [Review] [Review on: Gate batch lookup by network](https://github.com/NethermindEth/nethermind/pull/11556#pullrequestreview-4263120954) - 2026-05-11
+* [Review] [Review on: fix: charge spawn estimate for CREATE/CREATE2 post-trace bail](https://github.com/NethermindEth/nethermind/pull/11555#pullrequestreview-4262554147) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

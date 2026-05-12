@@ -17,6 +17,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat: add payload_status to ForkChoiceNodeV2](https://github.com/ethpandaops/xatu/pull/819#pullrequestreview-4248618966) - 2026-05-08
 * [Review] [Review on: feat: wire ePBS SSE handlers + cannon derivers](https://github.com/ethpandaops/xatu/pull/814#pullrequestreview-4241459592) - 2026-05-07
 * [Review] [Review on: [codex] improve execution mimicry peering](https://github.com/ethpandaops/xatu/pull/811#pullrequestreview-4241378644) - 2026-05-07
+* [Review] [Review on: chore(workflows): bumpity bump bump](https://github.com/ethpandaops/xatu/pull/822#pullrequestreview-4268206085) - 2026-05-11
 ## Q1 2026
 
 

@@ -48,6 +48,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Add code size cache to the kvt backend](https://github.com/status-im/nimbus-eth1/pull/4214) - 2026-05-06
 * [Review] [Review on: Use RlpArrayBufWriter for rlp encoding in stateroot computation](https://github.com/status-im/nimbus-eth1/pull/4115#pullrequestreview-4242126904) - 2026-05-07
 * [Pull Request] [Add ConcurrentLruCache and tests](https://github.com/status-im/nimbus-eth1/pull/4225) - 2026-05-08
+* [Commit] [Add ConcurrentLruCache and tests (#4225)](https://github.com/status-im/nimbus-eth1/commit/70cf24b45fd47333386e41b60098222313af4aae) - 2026-05-11
 ## Q1 2026
 
 

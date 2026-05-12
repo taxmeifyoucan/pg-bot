@@ -46,6 +46,7 @@ Team: Erigon
 * [Review] [Review on: integration: add -C flag to include tests requiring commitment-history](https://github.com/erigontech/rpc-tests/pull/556#pullrequestreview-4231787167) - 2026-05-05
 * [Review] [Review on: compare: fix nested JSON indentation in result file dump](https://github.com/erigontech/rpc-tests/pull/558#pullrequestreview-4251712719) - 2026-05-08
 * [Review] [Review on: add eth_capability test](https://github.com/erigontech/rpc-tests/pull/557#pullrequestreview-4251709975) - 2026-05-08
+* [Review] [Review on: integration_test: set ws timeout](https://github.com/erigontech/rpc-tests/pull/559#pullrequestreview-4261150216) - 2026-05-11
 ## Q1 2026
 
 

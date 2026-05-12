@@ -28,6 +28,9 @@ Github: [@leolara](https://github.com/leolara)
 * [Review] [Review on: fix(tests) fix ported quadratic complexity tests](https://github.com/ethereum/execution-specs/pull/2784#pullrequestreview-4204604846) - 2026-04-30
 * [Pull Request] [fix(ported_static): fork-specific Amsterdam balance for OoG refund tests](https://github.com/ethereum/execution-specs/pull/2790) - 2026-05-01
 * [Pull Request] [fix(ported_static): bump gas budgets for EIP-8037 state-gas headroom on Amsterdam](https://github.com/ethereum/execution-specs/pull/2796) - 2026-05-04
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [ Add tech-debt audit (RFC — for discussion, not for merge)](https://github.com/ethereum/consensus-specs/pull/5233) - 2026-05-11
 ## Q1 2026
 
 

@@ -23,6 +23,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Fix zisk installation in CI](https://github.com/grandinetech/grandine/commit/b0d3909d92595ec3c2c500eeece20a020a777c21) - 2026-05-02
 * [Commit] [Update Autofac dependency to 9.1.0](https://github.com/grandinetech/grandine/commit/14100c183d0d306bf943e610a678847d39af9ef0) - 2026-05-02
 * [Review] [Review on: Decouple validator from beacon node via traits](https://github.com/grandinetech/grandine/pull/677#pullrequestreview-4242166093) - 2026-05-07
+* [Pull Request] [Rocksdb database backend](https://github.com/grandinetech/grandine/pull/684) - 2026-05-11
+* [Pull Request] [Rocksdb database backend](https://github.com/grandinetech/grandine/pull/683) - 2026-05-11
+* [Review] [Review on: Fix pool attestation benchmark](https://github.com/grandinetech/grandine/pull/681#pullrequestreview-4261549960) - 2026-05-11
 ## Q1 2026
 
 

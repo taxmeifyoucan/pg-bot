@@ -145,6 +145,17 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: field: expand packed-extension API; fix unsound PackedValue impls](https://github.com/Plonky3/Plonky3/pull/1620#pullrequestreview-4259964370) - 2026-05-10
 * [Review] [Review on: perf(goldilocks): scalar add/sub for PackedGoldilocksNeon](https://github.com/Plonky3/Plonky3/pull/1619#pullrequestreview-4259199429) - 2026-05-10
 * [Issue] [test(whir): add unit tests for each verifier error variant](https://github.com/Plonky3/Plonky3/issues/1625) - 2026-05-10
+* [Review] [Review on: fix(whir): mark UniqueDecoding log_eta as undefined](https://github.com/Plonky3/Plonky3/pull/1630#pullrequestreview-4263850795) - 2026-05-11
+* [Pull Request] [chore: remove needless_range_loop allows across the workspace](https://github.com/Plonky3/Plonky3/pull/1632) - 2026-05-11
+* [Pull Request] [chore: use T::zero_vec(n) instead of vec![T::ZERO; n]](https://github.com/Plonky3/Plonky3/pull/1633) - 2026-05-11
+* [Pull Request] [feat(lookup): single-terminal LogUp aux trace](https://github.com/Plonky3/Plonky3/pull/1628) - 2026-05-11
+* [Review] [Review on: `fix(matrix): interpolate_arbitrary_point honors documented duplicate-domain contract`](https://github.com/Plonky3/Plonky3/pull/1627#pullrequestreview-4262612278) - 2026-05-11
+* [Review] [Review on: test(whir): verifier error coverage](https://github.com/Plonky3/Plonky3/pull/1626#pullrequestreview-4262372410) - 2026-05-11
+* [Review] [Review on: fix(whir): return verifier errors instead of panicking on malformed proof shape](https://github.com/Plonky3/Plonky3/pull/1616#pullrequestreview-4262257509) - 2026-05-11
+* [Commit] [chore: remove needless_range_loop allows across the workspace (#1632)](https://github.com/Plonky3/Plonky3/commit/eeff4c67d7bc5ec745a8477dc76db2450bdca716) - 2026-05-11
+* [Commit] [chore: use T::zero_vec(n) instead of vec![T::ZERO; n] (#1633)](https://github.com/Plonky3/Plonky3/commit/eb680b256c651fc370c050db58edacc6429e56b8) - 2026-05-11
+* [Commit] [feat(merkle-tree): add Merkle path pruning for compact multi-opening proofs (#1544)](https://github.com/Plonky3/Plonky3/commit/c307e950dafc1a0b66a3be3cb521975b5bbf3aa7) - 2026-05-11
+* [Commit] [test(field): cover packed-extension Div with per-lane consistency check (#1624)](https://github.com/Plonky3/Plonky3/commit/ba22d49a0257ad9cdbd178834f8b84e21feaf455) - 2026-05-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

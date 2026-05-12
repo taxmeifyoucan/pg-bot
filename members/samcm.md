@@ -41,6 +41,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Review] [Review on: Add validation for validator start and end ranges](https://github.com/ethpandaops/template-devnets/pull/164#pullrequestreview-4193596946) - 2026-04-29
 
+* [Pull Request] [vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168) - 2026-05-12
+* [Review] [Review on: vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168#pullrequestreview-4268518279) - 2026-05-12
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Review] [Review on: feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167#pullrequestreview-4232485880) - 2026-05-06
 ## Q1 2026

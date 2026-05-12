@@ -68,6 +68,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Add txsSelectionHighScore metric for per-included-tx selection time](https://github.com/besu-eth/besu/pull/10265#pullrequestreview-4227188327) - 2026-05-05
 * [Review] [Review on: fix: update dependencies to fix CVEs](https://github.com/besu-eth/besu/pull/10420#pullrequestreview-4234680753) - 2026-05-06
 * [Pull Request] [WIP: engine API refactor](https://github.com/besu-eth/besu/pull/10428) - 2026-05-06
+* [Pull Request] [Refactor engine_forkchoiceUpdated into sealed version hierarchy](https://github.com/besu-eth/besu/pull/10475) - 2026-05-11
+* [Issue] [EIP-8070: eth/72 - Sparse Blobpool](https://github.com/besu-eth/besu/issues/10474) - 2026-05-11
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

@@ -143,6 +143,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix: return -38003 for FCUv1 timestamp errors](https://github.com/besu-eth/besu/pull/10353#pullrequestreview-4249213829) - 2026-05-08
 * [Review] [Review on: DebugOperationTracer #10115 - 10 : storage snapshot timing ](https://github.com/besu-eth/besu/pull/10176#pullrequestreview-4260234851) - 2026-05-11
 * [Review] [Review on: Fix snap/2 encoding and response size limits](https://github.com/besu-eth/besu/pull/10391#pullrequestreview-4260185089) - 2026-05-11
+* [Review] [Review on: Fix unhandled exceptions on malformed trace index in `trace_get` RPC](https://github.com/besu-eth/besu/pull/10404#pullrequestreview-4260569986) - 2026-05-11
+* [Review] [Review on: refactor: replace eager string concatenation with SLF4J parameterized logging](https://github.com/besu-eth/besu/pull/10352#pullrequestreview-4260590192) - 2026-05-11
+* [Review] [Review on: Fix lost fork-block updates in ChainDataPruner](https://github.com/besu-eth/besu/pull/10331#pullrequestreview-4260544248) - 2026-05-11
+* [Review] [Review on: chore: bump build tooling (google-java-format 1.35.0, JaCoCo 0.8.14) for JDK 25](https://github.com/besu-eth/besu/pull/10470#pullrequestreview-4260511913) - 2026-05-11
+* [Review] [Review on: fix(controller): fall back to PoS when no consensus mechanism declared in genesis](https://github.com/besu-eth/besu/pull/10266#pullrequestreview-4260560541) - 2026-05-11
+* [Issue] [Implement eth_getRawTransactionByHash RPC method](https://github.com/besu-eth/besu/issues/10477) - 2026-05-12
+* [Issue] [flaky test: BalStateRootCommitterFactoryTest](https://github.com/besu-eth/besu/issues/10476) - 2026-05-12
+* [Commit] [fix: close LRUCache and ColumnFamilyOptions (#10456)](https://github.com/besu-eth/besu/commit/323056595f2ef6be5efd9482d8c4421e890f77d1) - 2026-05-11
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

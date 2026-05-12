@@ -76,6 +76,15 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [refactor(test-benchmark): precompile input parameter format](https://github.com/ethereum/execution-specs/pull/2817) - 2026-05-07
 * [Review] [Review on: refactor(test-benchmark): precompile input parameter format](https://github.com/ethereum/execution-specs/pull/2817#pullrequestreview-4241207652) - 2026-05-07
 * [Review] [Review on: test(test-benchmark): add `bn128_add` precompile special case benchmarks](https://github.com/ethereum/execution-specs/pull/2811#pullrequestreview-4240990518) - 2026-05-07
+
+* [Review] [Review on: feat(test-cli): Add support for testing block building via simulator](https://github.com/ethereum/execution-specs/pull/2679#pullrequestreview-4261231389) - 2026-05-11
+* [Review] [Review on: refactor(test-benchmark): precompile input parameter format](https://github.com/ethereum/execution-specs/pull/2817#pullrequestreview-4260946599) - 2026-05-11
+* [Pull Request] [feat(specs-spec, tests): implement eip-7904 and framework support](https://github.com/ethereum/execution-specs/pull/2831) - 2026-05-11
+* [Review] [Review on: feat(tests): cover EIP-7708 CREATE log rollback on outer revert](https://github.com/ethereum/execution-specs/pull/2785#pullrequestreview-4261190279) - 2026-05-11
+* [Review] [Review on: fix(test-benchmark): use named constants and labeled calldata in precompile benchmarks](https://github.com/ethereum/execution-specs/pull/2759#pullrequestreview-4261122372) - 2026-05-11
+* [Commit] [refactor(test-benchmark): precompile input parameter format (#2817)](https://github.com/ethereum/execution-specs/commit/c29f8949da4041dd139405e328e94e637add1b87) - 2026-05-11
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 ## Q1 2026
 
 

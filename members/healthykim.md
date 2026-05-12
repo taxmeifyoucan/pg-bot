@@ -38,6 +38,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: core/txpool/blobpool: reduce lock contention](https://github.com/ethereum/go-ethereum/pull/34840#pullrequestreview-4234763907) - 2026-05-06
 * [Commit] [eth/protocols/eth: stop serving on unavailable responses (#34787)](https://github.com/ethereum/go-ethereum/commit/ea1cf7bf5ee07562284f9d050a6def9704d258e7) - 2026-05-06
 * [Review] [Review on: core/txpool/blobpool: continue on cell proof error in `GetBlobs`](https://github.com/ethereum/go-ethereum/pull/34891#pullrequestreview-4251627810) - 2026-05-08
+* [Review] [Review on: eth/catalyst: fix getBlobsV3 partial/complete metrics](https://github.com/ethereum/go-ethereum/pull/34666#pullrequestreview-4267031523) - 2026-05-11
+* [Review] [Review on: core/txpool/blobpool: prevent data loss in limbo.update on setAndIndex failure](https://github.com/ethereum/go-ethereum/pull/34665#pullrequestreview-4262846265) - 2026-05-11
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
 ## Q1 2026

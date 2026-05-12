@@ -203,6 +203,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: ci: drop redundant pnpm bootstrap on arm64 publish](https://github.com/ChainSafe/lodestar/pull/9345#pullrequestreview-4252907482) - 2026-05-08
 * [Review] [Review on: fix(pmt): dedupe hashtree hasher dependency](https://github.com/ChainSafe/lodestar/pull/9349#pullrequestreview-4258054374) - 2026-05-09
 * [Review] [Review on: chore: move lightclient and prover to external repo](https://github.com/ChainSafe/lodestar/pull/9346#pullrequestreview-4257566038) - 2026-05-09
+* [Review] [Review on: chore(deps): bump actions group (excluding setup-node and pnpm/action-setup)](https://github.com/ChainSafe/lodestar/pull/9353#pullrequestreview-4267976656) - 2026-05-11
+* [Review] [Review on: fix(docs): allow core-js postinstall scripts under pnpm v11](https://github.com/ChainSafe/lodestar/pull/9356#pullrequestreview-4267723285) - 2026-05-11
+* [Review] [Review on: chore: upgrade pnpm to v11](https://github.com/ChainSafe/lodestar/pull/9299#pullrequestreview-4265211766) - 2026-05-11
+* [Review] [Review on: fix: dedupe persistent-merkle-tree to recover hashtree hasher](https://github.com/ChainSafe/lodestar/pull/9352#pullrequestreview-4261383392) - 2026-05-11
+* [Review] [Review on: docs: update RELEASE.md](https://github.com/ChainSafe/lodestar/pull/9172#pullrequestreview-4261605224) - 2026-05-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -266,8 +271,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Count PTC votes from duplicated validators](https://github.com/ethereum/consensus-specs/pull/5222) - 2026-05-08
 * [Review] [Review on: Count PTC votes from duplicated validators](https://github.com/ethereum/consensus-specs/pull/5222#pullrequestreview-4253523393) - 2026-05-08
 * [Commit] [Count PTC votes from duplicated validators (#5222)](https://github.com/ethereum/consensus-specs/commit/96838e5bab9e222369e9eb233f839efa497294a8) - 2026-05-08
+* [Review] [Review on: Add executable gossip validation functions for deneb](https://github.com/ethereum/consensus-specs/pull/5146#pullrequestreview-4267628943) - 2026-05-11
+* [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4266773003) - 2026-05-11
+* [Pull Request] [Add `target_gas_limit` to `PayloadAttributes`](https://github.com/ethereum/consensus-specs/pull/5235) - 2026-05-11
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796) - 2026-05-11
+* [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4266294777) - 2026-05-11
 ## Q1 2026
 
 

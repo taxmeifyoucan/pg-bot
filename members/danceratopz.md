@@ -94,12 +94,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: chore(test-benchmark): re-enable `blockhash` benchmark](https://github.com/ethereum/execution-specs/pull/2809#pullrequestreview-4234141481) - 2026-05-06
 * [Review] [Review on: feat(test-cli): Add support for testing block building via simulator](https://github.com/ethereum/execution-specs/pull/2679#pullrequestreview-4245001493) - 2026-05-07
 * [Commit] [chore(doc): remove unmaintained `docs/CHANGELOG` (#2810)](https://github.com/ethereum/execution-specs/commit/c9d8be0101c6649e060950317e14fb4f515f70e9) - 2026-05-07
+* [Review] [Review on: refactor(spec-specs,test-types): replace `pycryptodome` with `hashlib` for keccak](https://github.com/ethereum/execution-specs/pull/2370#pullrequestreview-4264258870) - 2026-05-11
+* [Review] [Review on: feat(tests): cover EIP-7708 CREATE log rollback on outer revert](https://github.com/ethereum/execution-specs/pull/2785#pullrequestreview-4261245297) - 2026-05-11
+* [Commit] [feat(test-cli): always print full pytest command in ci & add to summary (#2719)](https://github.com/ethereum/execution-specs/commit/44923d4bcdbcaa48ef1536a453c390a0ebf08220) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Pull Request] [Fix execution-specs EIP Authors Manual links](https://github.com/ethereum/pm/pull/2036) - 2026-04-30
 
+* [Issue] [All Core Devs - Testing (ACDT) #80, May 18, 2026](https://github.com/ethereum/pm/issues/2049) - 2026-05-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add missing 7708 log costs](https://github.com/ethereum/EIPs/pull/11586) - 2026-04-30
 

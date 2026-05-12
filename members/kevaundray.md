@@ -16,6 +16,7 @@ Team: Consensus R&D (EF)
 
 * [Review] [Review on: feat(zkevm): add forks description into ChainConfig](https://github.com/ethereum/execution-specs/pull/2797#pullrequestreview-4223823200) - 2026-05-04
 * [Review] [Review on: test: Add 64 byte test cases for SHA256 and RIPEMD160 precompile benchmarks](https://github.com/ethereum/execution-specs/pull/2801#pullrequestreview-4224205645) - 2026-05-04
+* [Review] [Review on: feat(zkevm): fill public_keys execution witness field](https://github.com/ethereum/execution-specs/pull/2825#pullrequestreview-4263982117) - 2026-05-11
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: cmd/evm: add enginetest command for direct engine fixture execution](https://github.com/ethereum/go-ethereum/pull/34650#pullrequestreview-4056846336) - 2026-04-03
 * [Pull Request] [core/vm: Idea for enabling an experimental evm](https://github.com/ethereum/go-ethereum/pull/34645) - 2026-04-03

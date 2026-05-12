@@ -67,6 +67,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: trigger ci for protype and devnet branches](https://github.com/Consensys/teku/pull/10676#pullrequestreview-4236835211) - 2026-05-06
 * [Pull Request] [Focil heze](https://github.com/Consensys/teku/pull/10666) - 2026-05-06
 * [Commit] [trigger ci for protype and devnet branches (#10676)](https://github.com/Consensys/teku/commit/f5e3d7f52ebdd2967500be2af40efe412e06aba1) - 2026-05-06
+* [Commit] [trigger ci for prototype and devnet branches (#10679)](https://github.com/Consensys/teku/commit/09bfad93822b15c6b3e3ed7a0354014d031a8d00) - 2026-05-11
 ## Q1 2026
 
 

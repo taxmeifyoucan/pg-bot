@@ -40,6 +40,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 * [Pull Request] [chore: upgrade pnpm to v11](https://github.com/ChainSafe/lodestar/pull/9299) - 2026-04-28
 * [Review] [Review on: chore: upgrade pnpm to v11](https://github.com/ChainSafe/lodestar/pull/9299#pullrequestreview-4191941084) - 2026-04-28
+* [Commit] [chore: upgrade pnpm to v11 (#9299)](https://github.com/ChainSafe/lodestar/commit/59c06807b63c9f70b5fb6436866b1f99242c8bee) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116154021) - 2026-04-15
 

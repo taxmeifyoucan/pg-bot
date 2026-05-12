@@ -38,12 +38,14 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Generalise reconstruct_historic_states for ranged replay](https://github.com/sigp/lighthouse/pull/9222#pullrequestreview-4218920394) - 2026-05-04
 * [Pull Request] [ERA file consumer and producer via LCLI](https://github.com/sigp/lighthouse/pull/9273) - 2026-05-07
 * [Pull Request] [Drop unused EthSpec generic from Stores](https://github.com/sigp/lighthouse/pull/9281) - 2026-05-08
+* [Issue] [Fast block/blob archive node via ERA files](https://github.com/sigp/lighthouse/issues/9285) - 2026-05-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 
 * [Pull Request] [Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181) - 2026-04-28
 * [Pull Request] [Add `beacon_block_headers_by_root` req/resp on Gloas](https://github.com/ethereum/consensus-specs/pull/5179) - 2026-04-28
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4196026269) - 2026-04-29
+* [Commit] [Add `beacon_blocks_by_head` ReqResp (#5181)](https://github.com/ethereum/consensus-specs/commit/945a70ae5bf1e6d8d4835c5bce4e4675b5fcec85) - 2026-05-11
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4181435690) - 2026-04-27
 

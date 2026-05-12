@@ -51,6 +51,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [further tweaks to debug tool](https://github.com/Consensys/teku/pull/10665) - 2026-05-01
 * [Commit] [further tweaks to debug tool (#10665)](https://github.com/Consensys/teku/commit/811e9d1ba61ccdb1ed8dadda3b92e9ad1481e89c) - 2026-05-01
 * [Commit] [made column name width dynamic in debug tool (#10664)](https://github.com/Consensys/teku/commit/2cfb853eb6eeb1099da00215c7e7946e8b8e0425) - 2026-05-01
+* [Pull Request] [Add JaCoCo coverage reporting for unit and reference tests](https://github.com/Consensys/teku/pull/10692) - 2026-05-11
+* [Review] [Review on: Add JaCoCo coverage reporting for unit and reference tests](https://github.com/Consensys/teku/pull/10692#pullrequestreview-4268005556) - 2026-05-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

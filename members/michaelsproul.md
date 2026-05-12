@@ -73,6 +73,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix O(n²) find_head and stack overflow in filter_block_tree](https://github.com/sigp/lighthouse/pull/9090#pullrequestreview-4217213395) - 2026-05-04
 * [Review] [Review on: Generalise reconstruct_historic_states for ranged replay](https://github.com/sigp/lighthouse/pull/9222#pullrequestreview-4232660278) - 2026-05-06
 * [Review] [Review on: Remove `TestRandom`](https://github.com/sigp/lighthouse/pull/9006#pullrequestreview-4225564674) - 2026-05-05
+* [Review] [Review on: Add full epoch transition test to the EF tests](https://github.com/sigp/lighthouse/pull/9275#pullrequestreview-4261239529) - 2026-05-11
+* [Issue] [Append client tag to graffiti _by default_](https://github.com/sigp/lighthouse/issues/9287) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

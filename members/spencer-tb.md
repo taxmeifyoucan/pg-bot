@@ -74,6 +74,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(spec-specs, tests): EIP-8037 refund intrinsic NEW_ACCOUNT for tx-created contracts destroyed in same tx](https://github.com/ethereum/execution-specs/pull/2828) - 2026-05-08
 * [Issue] [EIP-8141 Implementation Tracker: Frame Transaction](https://github.com/ethereum/execution-specs/issues/2829) - 2026-05-09
 * [Review] [Review on: feat(spec,test): update bal-devnet-7 EIP-8037 bytes values; CPSB 1174 -> 1530](https://github.com/ethereum/execution-specs/pull/2827#pullrequestreview-4259962162) - 2026-05-10
+* [Pull Request] [chore(tests): stop mutating parametrize values in EL request helpers](https://github.com/ethereum/execution-specs/pull/2833) - 2026-05-11
+* [Commit] [chore(tests): stop mutating parametrize values in EL request helpers (#2833)](https://github.com/ethereum/execution-specs/commit/f3557261908f5dea21bbcab2f49ca3bec13c7869) - 2026-05-11
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 
@@ -112,6 +114,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Update EIP-8037: Clarify SSTORE restoration refund rollback semantics](https://github.com/ethereum/EIPs/pull/11548) - 2026-04-19
 * [Commit] [Update EIP-8037: Clarify SSTORE restoration refund rollback semantics](https://github.com/ethereum/EIPs/commit/9493cd502540bb5b50e01aa3708835fb87fce0bc) - 2026-04-20
 * [Review] [Review on: Update EIP-7723: update SFI definition based on ACDT#74](https://github.com/ethereum/EIPs/pull/11475#pullrequestreview-4243004106) - 2026-05-07
+* [Commit] [Update EIP-7773: SFI 8 EL Amsterdam EIPs](https://github.com/ethereum/EIPs/commit/ffebcbc15d49445bbc8d59021d85484ef9d7a69c) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4112057595) - 2026-04-15
 

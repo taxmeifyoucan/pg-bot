@@ -63,6 +63,9 @@ Team: Erigon
 * [Review] [Review on: gitignore: *.local.json ](https://github.com/erigontech/erigon/pull/21052#pullrequestreview-4254353918) - 2026-05-08
 * [Pull Request] [execution/vm: add --use-gevm flag to opt-in to GEVM as the EVM](https://github.com/erigontech/erigon/pull/21070) - 2026-05-08
 * [Review] [Review on: execution/protocol/rules/aura: don't panic on syscall failure in IsServiceTransaction](https://github.com/erigontech/erigon/pull/21068#pullrequestreview-4252823212) - 2026-05-08
+* [Pull Request] [types, vm, dbg: remove unique handles for account keys](https://github.com/erigontech/erigon/pull/21120) - 2026-05-12
+* [Pull Request] [execution/vm: add --use-gevm flag to opt-in to GEVM as the EVM](https://github.com/erigontech/erigon/pull/21113) - 2026-05-11
+* [Review] [Review on: db/kv/mdbx: comment on 9K roTxsLimiter target](https://github.com/erigontech/erigon/pull/21094#pullrequestreview-4262551573) - 2026-05-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

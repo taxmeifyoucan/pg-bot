@@ -160,6 +160,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: remove `erigon support` command](https://github.com/erigontech/erigon/pull/21054#pullrequestreview-4249676380) - 2026-05-08
 * [Commit] [cmd/utils/app, db/integrity: add check-rcache-root-at-blk[-range] commands (#20921)](https://github.com/erigontech/erigon/commit/55039365e46873d80f011555360935041253f72a) - 2026-05-08
 * [Commit] [db/integrity: enable CommitmentRoot check on all .kv files (#21029)](https://github.com/erigontech/erigon/commit/a98a674454d55d5b5d3911de13afa9f928c86db8) - 2026-05-08
+* [Pull Request] [fix error message for Versions.MustSupport ](https://github.com/erigontech/erigon/pull/21101) - 2026-05-11
+* [Review] [Review on: commit: less data in logs during commit rebuild](https://github.com/erigontech/erigon/pull/21112#pullrequestreview-4263950633) - 2026-05-11
+* [Pull Request] [cmd/integration/commands: force unbounded domain merge for commitment rebuild](https://github.com/erigontech/erigon/pull/21105) - 2026-05-11
+* [Pull Request] [Revert "db/version: enforce upper-bound file version check (#20722)"](https://github.com/erigontech/erigon/pull/21103) - 2026-05-11
+* [Issue] [re-add upper limit version check for snapshot files](https://github.com/erigontech/erigon/issues/21104) - 2026-05-11
+* [Commit] [fix error message for Versions.MustSupport  (#21101)](https://github.com/erigontech/erigon/commit/0dcc895d08699b2238a8b19389f3f7c557fd08fd) - 2026-05-11
+* [Commit] [cmd/integration/commands: force unbounded domain merge for commitment rebuild (#21105)](https://github.com/erigontech/erigon/commit/ddf60f0513041206309f2baf4960f5342f0a3ed1) - 2026-05-11
 ## Q1 2026
 
 

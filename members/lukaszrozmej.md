@@ -358,6 +358,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [docs(agents): self-documenting code + <summary>/<remarks> guidance](https://github.com/NethermindEth/nethermind/pull/11544) - 2026-05-10
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11541#pullrequestreview-4258983072) - 2026-05-10
 * [Commit] [docs(agents): self-documenting code + <summary>/<remarks> guidance (#11544)](https://github.com/NethermindEth/nethermind/commit/684639be6cfb4f5f469319d3c56db6f87e8c1820) - 2026-05-10
+* [Review] [Review on: fix(eth_simulateV1): preserve custom block header type](https://github.com/NethermindEth/nethermind/pull/11506#pullrequestreview-4264507794) - 2026-05-11
+* [Review] [Review on: perf(jsonrpc): route eth_call through shareable tx processor pool](https://github.com/NethermindEth/nethermind/pull/11548#pullrequestreview-4262068259) - 2026-05-11
+* [Review] [Review on: feat(config): show non-default values on startup](https://github.com/NethermindEth/nethermind/pull/11523#pullrequestreview-4264653456) - 2026-05-11
+* [Review] [Review on: XDC Discovery](https://github.com/NethermindEth/nethermind/pull/11527#pullrequestreview-4264564341) - 2026-05-11
+* [Review] [Review on: perf(evm): tighten CALL hot path; fix EIP-7702 delegation-to-precompile semantics](https://github.com/NethermindEth/nethermind/pull/11547#pullrequestreview-4262862132) - 2026-05-11
+* [Review] [Review on: ci: add nightly Docker image build](https://github.com/NethermindEth/nethermind/pull/11559#pullrequestreview-4263991238) - 2026-05-11
+* [Review] [Review on: Workflow for auto update XDC pivots](https://github.com/NethermindEth/nethermind/pull/11545#pullrequestreview-4262133438) - 2026-05-11
+* [Review] [Review on: feat(processing): parallel-safe gas-price aggregation, base-fee fallback](https://github.com/NethermindEth/nethermind/pull/11542#pullrequestreview-4262882375) - 2026-05-11
+* [Review] [Review on: Make RefundOnContractCollision overridable for Arbitrum plugin needs](https://github.com/NethermindEth/nethermind/pull/11554#pullrequestreview-4262642091) - 2026-05-11
+* [Review] [Review on: ci: split build from test to lower peak memory; keep swap](https://github.com/NethermindEth/nethermind/pull/11549#pullrequestreview-4262168114) - 2026-05-11
+* [Commit] [docs(agents): guideline for avoiding test duplication (#11546)](https://github.com/NethermindEth/nethermind/commit/78fc2a125a5e9be8d82f398071bccd28d2c0a3d0) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

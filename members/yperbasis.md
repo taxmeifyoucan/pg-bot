@@ -354,6 +354,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: p2p/sentry, rpc: restore eth/71 server-side dispatch (EIP-7928 / EIP-8159 Amsterdam)](https://github.com/erigontech/erigon/pull/20893#pullrequestreview-4251563926) - 2026-05-08
 * [Issue] [eth_call crashed: invalid opcode: SHR](https://github.com/erigontech/erigon/issues/21066) - 2026-05-08
 * [Commit] [ci: add discv5 to devp2p Hive shard, bump hive pins (#21065)](https://github.com/erigontech/erigon/commit/a9a3c6d4a0405ef74b5d04c9d035fe26b3c3263b) - 2026-05-08
+* [Pull Request] [p2p/protocols/eth: switch NewBlockPacket.TD to uint256.Int](https://github.com/erigontech/erigon/pull/21119) - 2026-05-11
+* [Pull Request] [ci: keep tagged docker base images cached between hive jobs](https://github.com/erigontech/erigon/pull/21115) - 2026-05-11
+* [Review] [Review on: engineapi: preallocate NewPayload transactions](https://github.com/erigontech/erigon/pull/21109#pullrequestreview-4264705151) - 2026-05-11
+* [Review] [Review on: execution/stagedsync, db/state: parallel-commitment correctness for reorg/unwind + SD recreate](https://github.com/erigontech/erigon/pull/21088#pullrequestreview-4263580368) - 2026-05-11
+* [Review] [Review on: cmd/evm: fix regressions in statetest cmd](https://github.com/erigontech/erigon/pull/21111#pullrequestreview-4264715310) - 2026-05-11
+* [Review] [Review on: [r3.4] ci(docs): auto-update hardware requirements disk sizes from sync CI](https://github.com/erigontech/erigon/pull/21030#pullrequestreview-4262424830) - 2026-05-11
+* [Review] [Review on: execution: extract spec tests out of make test-all](https://github.com/erigontech/erigon/pull/21092#pullrequestreview-4262616847) - 2026-05-11
+* [Review] [Review on: build(deps): bump github/gh-aw from 0.71.1 to 0.73.0](https://github.com/erigontech/erigon/pull/21097#pullrequestreview-4262492393) - 2026-05-11
+* [Review] [Review on: build(deps): bump actions/cache from 4 to 5](https://github.com/erigontech/erigon/pull/21096#pullrequestreview-4262489782) - 2026-05-11
+* [Review] [Review on: [r3.4] docs: enforce brand font consistency and fix installation page UX](https://github.com/erigontech/erigon/pull/20997#pullrequestreview-4262450593) - 2026-05-11
+* [Review] [Review on: [r3.4] docs: trace response fields reference + sync-monitoring guidance](https://github.com/erigontech/erigon/pull/21063#pullrequestreview-4262408308) - 2026-05-11
+* [Review] [Review on: [r3.4] docs: regenerate llms.txt after sync-modes update](https://github.com/erigontech/erigon/pull/21074#pullrequestreview-4262349092) - 2026-05-11
+* [Commit] [execution/stagedsync: advance Execution stage to snapshot commitment block (#21069)](https://github.com/erigontech/erigon/commit/a462f7fa835207a646a3f0de0b32f3a4e798b2a4) - 2026-05-11
+* [Commit] [execution/protocol/rules/aura: don't panic on syscall failure in IsServiceTransaction (#21068)](https://github.com/erigontech/erigon/commit/4851f2581843b06d804476ce7eb468d87549c83b) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

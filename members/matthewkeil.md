@@ -46,6 +46,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 * [Pull Request] [chore: v1.43.0 release](https://github.com/ChainSafe/lodestar/pull/9344) - 2026-05-08
 * [Review] [Review on: ci: drop redundant pnpm bootstrap on arm64 publish](https://github.com/ChainSafe/lodestar/pull/9345#pullrequestreview-4252911213) - 2026-05-08
+* [Review] [Review on: chore: upgrade pnpm to v11](https://github.com/ChainSafe/lodestar/pull/9299#pullrequestreview-4265175080) - 2026-05-11
+* [Review] [Review on: chore: move lightclient and prover to external repo](https://github.com/ChainSafe/lodestar/pull/9346#pullrequestreview-4262147078) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494) - 2026-04-15
 ## Q1 2026

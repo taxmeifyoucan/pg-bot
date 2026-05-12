@@ -360,6 +360,24 @@ Team: Reth
 * [Review] [Review on: chore: added NewPooledTransactionHashes72 for eth/72](https://github.com/paradigmxyz/reth/pull/24101#pullrequestreview-4259453716) - 2026-05-10
 * [Review] [Review on: chore: added NewPooledTransactionHashes72 for eth/72](https://github.com/paradigmxyz/reth/pull/24090#pullrequestreview-4259173157) - 2026-05-10
 * [Commit] [fix(payload): avoid tx pool for empty payloads (#24103)](https://github.com/paradigmxyz/reth/commit/5fa1f450019c7364cca35ba32ba4c32c535b26e2) - 2026-05-10
+* [Review] [Review on: feat(rpc): use BAL for transaction replay state](https://github.com/paradigmxyz/reth/pull/23734#pullrequestreview-4262829300) - 2026-05-11
+* [Review] [Review on: feat(payload): Allow PayloadBuilder to pass in custom state roots for verification](https://github.com/paradigmxyz/reth/pull/23884#pullrequestreview-4265687707) - 2026-05-11
+* [Pull Request] [fix(net): validate downloaded block access list hashes](https://github.com/paradigmxyz/reth/pull/24113) - 2026-05-11
+* [Review] [Review on: feat: support custom state root strategies](https://github.com/paradigmxyz/reth/pull/24130#pullrequestreview-4264800476) - 2026-05-11
+* [Pull Request] [fix(engine): validate received BAL on serial path](https://github.com/paradigmxyz/reth/pull/24122) - 2026-05-11
+* [Pull Request] [refactor(engine): add block or payload type helpers](https://github.com/paradigmxyz/reth/pull/24119) - 2026-05-11
+* [Pull Request] [refactor(engine): remove redundant BAL argument](https://github.com/paradigmxyz/reth/pull/24123) - 2026-05-11
+* [Review] [Review on: refactor(pool): pass error by value to `mark_invalid`](https://github.com/paradigmxyz/reth/pull/24121#pullrequestreview-4263139762) - 2026-05-11
+* [Review] [Review on: fix(init-state): reduce memory during large imports](https://github.com/paradigmxyz/reth/pull/23825#pullrequestreview-4262822700) - 2026-05-11
+* [Pull Request] [refactor(bal): use native BAL diff diagnostics](https://github.com/paradigmxyz/reth/pull/24118) - 2026-05-11
+* [Pull Request] [fix(engine): validate BAL gas limit without redecoding](https://github.com/paradigmxyz/reth/pull/24109) - 2026-05-11
+* [Commit] [fix(engine): validate received BAL on serial path (#24122)](https://github.com/paradigmxyz/reth/commit/8b10a417faeb2cbb0361480802e6113b5043fac9) - 2026-05-11
+* [Commit] [refactor(engine): add block or payload type helpers (#24119)](https://github.com/paradigmxyz/reth/commit/3ea2d063b534f64ebfeeff1376b9c11048a642bc) - 2026-05-11
+* [Commit] [refactor(engine): remove redundant BAL argument (#24123)](https://github.com/paradigmxyz/reth/commit/a5bd8d6824e7212e610fb7a838cbfc6c7df1bc9a) - 2026-05-11
+* [Commit] [refactor(bal): use native BAL diff diagnostics (#24118)](https://github.com/paradigmxyz/reth/commit/12f167c045e8bed3272eece2aa17c5a6f5862427) - 2026-05-11
+* [Commit] [fix(engine): validate BAL gas limit without redecoding (#24109)](https://github.com/paradigmxyz/reth/commit/146d73f1be596695e92d70868f137e5dcaf7ebe0) - 2026-05-11
+* [Commit] [fix(engine): flush BAL store after saving blocks (#24087)](https://github.com/paradigmxyz/reth/commit/15cdd606b43f49f065437c5d533dbd809d8cf631) - 2026-05-11
+* [Commit] [feat(net): default BAL requests to optional (#24095)](https://github.com/paradigmxyz/reth/commit/d3af3801429b015a0fba0cfb4515a84abac5c352) - 2026-05-11
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -373,6 +391,7 @@ Team: Reth
 * [Review] [Review on: refactor: use `Cow` for warm precompile addresses](https://github.com/bluealloy/revm/pull/3652#pullrequestreview-4228199863) - 2026-05-05
 * [Pull Request] [feat(state): add Bal::try_from_alloy](https://github.com/bluealloy/revm/pull/3665) - 2026-05-08
 * [Commit] [feat(state): add Bal::try_from_alloy (#3665)](https://github.com/bluealloy/revm/commit/8850aec02d7924b8b29274c7315efacb16905cd6) - 2026-05-08
+* [Pull Request] [feat: add borrowed alloy BAL conversion](https://github.com/bluealloy/revm/pull/3670) - 2026-05-11
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
 ## Q1 2026

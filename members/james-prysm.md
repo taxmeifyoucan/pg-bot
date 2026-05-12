@@ -75,6 +75,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Harden execution payload envelope nil checks](https://github.com/OffchainLabs/prysm/pull/16718#pullrequestreview-4244989003) - 2026-05-07
 * [Pull Request] [avoid htr and Stater.State(stateId) on get state root endpoint](https://github.com/OffchainLabs/prysm/pull/16765) - 2026-05-07
 * [Pull Request] [replace tracked validators cache with proposer preference](https://github.com/OffchainLabs/prysm/pull/16767) - 2026-05-08
+* [Review] [Review on: Strip stack trace from Downscore peer log reason field](https://github.com/OffchainLabs/prysm/pull/16776#pullrequestreview-4268385340) - 2026-05-12
+* [Review] [Review on: handle reorgs for proposer preferences](https://github.com/OffchainLabs/prysm/pull/16651#pullrequestreview-4266916025) - 2026-05-11
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

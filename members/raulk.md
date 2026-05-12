@@ -23,3 +23,6 @@ Github: [@raulk](https://github.com/raulk)
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [feat(gloas): add gossip block wire type](https://github.com/OffchainLabs/prysm/pull/16729) - 2026-04-29
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Review] [Review on: improve KZG performance by precomputation](https://github.com/status-im/nimbus-eth2/pull/8405#pullrequestreview-4262698672) - 2026-05-11

@@ -61,6 +61,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec, spec-specs): EIP-7997](https://github.com/ethereum/execution-specs/pull/2802#pullrequestreview-4252606231) - 2026-05-08
 * [Review] [Review on: feat(tests): cover EIP-7708 CREATE log rollback on outer revert](https://github.com/ethereum/execution-specs/pull/2785#pullrequestreview-4255575785) - 2026-05-08
 * [Commit] [feat(test-forks): Revert gas-limit-aware `Fork`, fork-aware `Environment` (#2762)](https://github.com/ethereum/execution-specs/commit/462ee80572c70821e384341e51b5d56b4479b126) - 2026-05-08
+* [Review] [Review on: feat(test): Increase BAL coverage with tests and BAL expectations for some existing](https://github.com/ethereum/execution-specs/pull/2834#pullrequestreview-4267493856) - 2026-05-11
+* [Review] [Review on: feat(test-cli): always print full pytest command in ci & add to summary](https://github.com/ethereum/execution-specs/pull/2719#pullrequestreview-4267847119) - 2026-05-11
+* [Review] [Review on: fix(ci): redirect Go caches to a per-job temp dir](https://github.com/ethereum/execution-specs/pull/2774#pullrequestreview-4267835152) - 2026-05-11
+* [Review] [Review on: fix(traces): tracing consistency between input and output alloc formatting](https://github.com/ethereum/execution-specs/pull/2832#pullrequestreview-4266087301) - 2026-05-11
+* [Review] [Review on: chore(tests): stop mutating parametrize values in EL request helpers](https://github.com/ethereum/execution-specs/pull/2833#pullrequestreview-4265551958) - 2026-05-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

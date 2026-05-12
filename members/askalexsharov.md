@@ -491,6 +491,12 @@ Team: Erigon
 * [Review] [Review on: execution/commitmentdb: copy branch slice returned by TrieContext.Branch (#21034)](https://github.com/erigontech/erigon/pull/21071#pullrequestreview-4256527649) - 2026-05-09
 * [Review] [Review on: rpc: Fix regression on eth_createAccessList and add mgt ctx.err in loop](https://github.com/erigontech/erigon/pull/21086#pullrequestreview-4259185227) - 2026-05-10
 * [Review] [Review on: disable two tests eth_createAccessList  & debug_traceTransaction](https://github.com/erigontech/erigon/pull/21087#pullrequestreview-4259323574) - 2026-05-10
+* [Review] [Review on: [r3.4] [1/3] cmd: improve commitment snapshot removal output (cherry-pick #20202)](https://github.com/erigontech/erigon/pull/21116#pullrequestreview-4268449399) - 2026-05-12
+* [Review] [Review on: execution/stagedsync, db/state: parallel-commitment correctness for reorg/unwind + SD recreate](https://github.com/erigontech/erigon/pull/21088#pullrequestreview-4260528152) - 2026-05-11
+* [Review] [Review on: cmd/integration/commands: force unbounded domain merge for commitment rebuild](https://github.com/erigontech/erigon/pull/21105#pullrequestreview-4263776042) - 2026-05-11
+* [Review] [Review on: Revert "db/version: enforce upper-bound file version check (#20722)"](https://github.com/erigontech/erigon/pull/21103#pullrequestreview-4263772581) - 2026-05-11
+* [Pull Request] [db/kv/mdbx: comment on 9K roTxsLimiter target](https://github.com/erigontech/erigon/pull/21094) - 2026-05-11
+* [Commit] [db/kv/mdbx: comment on 9K roTxsLimiter target (#21094)](https://github.com/erigontech/erigon/commit/18db6e025f6fa0ecf6f1c8b96919522831eaed41) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

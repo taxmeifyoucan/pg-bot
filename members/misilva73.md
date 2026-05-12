@@ -18,6 +18,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Issue] [Glamsterdam Repricings #5, April 1, 2026](https://github.com/ethereum/pm/issues/2000) - 2026-04-01
 
 * [Issue] [Glamsterdam Repricings #6, April 15, 2026](https://github.com/ethereum/pm/issues/2016) - 2026-04-13
+* [Issue] [Glamsterdam Repricings #7, May 13, 2026](https://github.com/ethereum/pm/issues/2048) - 2026-05-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493#pullrequestreview-4073794211) - 2026-04-08
 * [Pull Request] [Update EIP-8007: Sync descriptions with latest EIP-7976 and EIP-7981 drafts](https://github.com/ethereum/EIPs/pull/11499) - 2026-04-09
@@ -42,6 +43,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Pull Request] [Update EIP-8038: Align with 8037 and clarify spec & rationale](https://github.com/ethereum/EIPs/pull/11623) - 2026-05-08
 * [Pull Request] [Update EIP-7904: Interop numbers](https://github.com/ethereum/EIPs/pull/11622) - 2026-05-08
 * [Review] [Review on: Update EIP-8037: Fix bugs from bal-devnet-6](https://github.com/ethereum/EIPs/pull/11611#pullrequestreview-4250153183) - 2026-05-08
+* [Pull Request] [Update EIP-2780: Align with 8037 and 8038](https://github.com/ethereum/EIPs/pull/11645) - 2026-05-11
 ## Q1 2026
 
 

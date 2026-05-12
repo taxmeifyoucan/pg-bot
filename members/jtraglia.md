@@ -206,6 +206,15 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Split out partial columns feature (#5226)](https://github.com/ethereum/consensus-specs/commit/08eb882f6f6060be907f70b2b17ac29df0949bd6) - 2026-05-09
 * [Review] [Review on: Update release-drafter/release-drafter action to v7.3.0](https://github.com/ethereum/consensus-specs/pull/5230#pullrequestreview-4260339984) - 2026-05-11
 * [Review] [Review on: Update actions/labeler action to v6.1.0](https://github.com/ethereum/consensus-specs/pull/5229#pullrequestreview-4260338833) - 2026-05-11
+* [Review] [Review on: Check gas limit consistency with the target](https://github.com/ethereum/consensus-specs/pull/5236#pullrequestreview-4265688838) - 2026-05-11
+* [Review] [Review on:  Add tech-debt audit (RFC — for discussion, not for merge)](https://github.com/ethereum/consensus-specs/pull/5233#pullrequestreview-4268633102) - 2026-05-12
+* [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4266113571) - 2026-05-11
+* [Pull Request] [Move safe-block into specs directory](https://github.com/ethereum/consensus-specs/pull/5237) - 2026-05-11
+* [Pull Request] [Remove code for generating pseudo KZG trusted setup](https://github.com/ethereum/consensus-specs/pull/5234) - 2026-05-11
+* [Review] [Review on: Add `target_gas_limit` to `PayloadAttributes`](https://github.com/ethereum/consensus-specs/pull/5235#pullrequestreview-4265600118) - 2026-05-11
+* [Review] [Review on: Update dependency mypy to v2](https://github.com/ethereum/consensus-specs/pull/5231#pullrequestreview-4260722874) - 2026-05-11
+* [Commit] [Add executable gossip validation functions for deneb (#5146)](https://github.com/ethereum/consensus-specs/commit/e89b4036ed2972c031a6896643c2e1579d1dfccf) - 2026-05-12
+* [Commit] [Remove code for generating pseudo KZG trusted setup (#5234)](https://github.com/ethereum/consensus-specs/commit/faa403959523dac6391de9fdaf42a8a9c23fdedf) - 2026-05-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

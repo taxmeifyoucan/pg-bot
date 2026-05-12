@@ -57,6 +57,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: 🧪 feat(tests):  EIP-7928 BAL test for 7702 account call with low balance](https://github.com/ethereum/execution-specs/pull/2824#pullrequestreview-4255722257) - 2026-05-08
 * [Pull Request] [feat(spec,test): update bal-devnet-7 EIP-8037 bytes values; CPSB 1174 -> 1530](https://github.com/ethereum/execution-specs/pull/2827) - 2026-05-08
 * [Review] [Review on: feat(spec-specs, tests): 8037 more 2d edge cases](https://github.com/ethereum/execution-specs/pull/2735#pullrequestreview-4252753970) - 2026-05-08
+* [Pull Request] [fix(spec,test):  align with latest EIP-8037 auth refund changes](https://github.com/ethereum/execution-specs/pull/2836) - 2026-05-11
+* [Pull Request] [feat(test): Increase BAL coverage with tests and BAL expectations for some existing](https://github.com/ethereum/execution-specs/pull/2834) - 2026-05-11
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14
