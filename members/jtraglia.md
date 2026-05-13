@@ -215,6 +215,15 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update dependency mypy to v2](https://github.com/ethereum/consensus-specs/pull/5231#pullrequestreview-4260722874) - 2026-05-11
 * [Commit] [Add executable gossip validation functions for deneb (#5146)](https://github.com/ethereum/consensus-specs/commit/e89b4036ed2972c031a6896643c2e1579d1dfccf) - 2026-05-12
 * [Commit] [Remove code for generating pseudo KZG trusted setup (#5234)](https://github.com/ethereum/consensus-specs/commit/faa403959523dac6391de9fdaf42a8a9c23fdedf) - 2026-05-11
+* [Pull Request] [Add package action](https://github.com/ethereum/consensus-specs/pull/5243) - 2026-05-12
+* [Pull Request] [Define per-builder configs in `ProposerPreferences`](https://github.com/ethereum/consensus-specs/pull/5241) - 2026-05-12
+* [Pull Request] [Add executable gossip validation functions for electra](https://github.com/ethereum/consensus-specs/pull/5238) - 2026-05-12
+* [Pull Request] [Remove separate `VERSION.txt` file](https://github.com/ethereum/consensus-specs/pull/5242) - 2026-05-12
+* [Review] [Review on:  Add tech-debt audit (RFC — for discussion, not for merge)](https://github.com/ethereum/consensus-specs/pull/5233#pullrequestreview-4274624735) - 2026-05-12
+* [Review] [Review on: Unify comments across executable p2p specs](https://github.com/ethereum/consensus-specs/pull/5240#pullrequestreview-4272936826) - 2026-05-12
+* [Review] [Review on: Fix fork-choice comptest attester slashing limit](https://github.com/ethereum/consensus-specs/pull/5239#pullrequestreview-4272434905) - 2026-05-12
+* [Commit] [Add executable gossip validation functions for electra (#5238)](https://github.com/ethereum/consensus-specs/commit/0e70a492d3e7a8dd64ca3be28916187264327e78) - 2026-05-12
+* [Commit] [Remove separate `VERSION.txt` file (#5242)](https://github.com/ethereum/consensus-specs/commit/02978f3a2b6bc397f223b4b7cdf0ef1546e9492a) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

@@ -61,6 +61,9 @@ Team: Geth
 * [Review] [Review on: internal/ethapi: fix withdrawal regression in eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/34939#pullrequestreview-4268343261) - 2026-05-12
 * [Review] [Review on: cmd, core, internal, miner: wrap pre/post-execution](https://github.com/ethereum/go-ethereum/pull/34812#pullrequestreview-4265856682) - 2026-05-11
 * [Review] [Review on: core/txpool/legacypool: skip MaxTxGas purge when Amsterdam is active](https://github.com/ethereum/go-ethereum/pull/34931#pullrequestreview-4266636601) - 2026-05-11
+* [Review] [Review on: node: default OpenTelemetry SampleRatio to 1.0](https://github.com/ethereum/go-ethereum/pull/34948#pullrequestreview-4272681616) - 2026-05-12
+* [Review] [Review on: cmd/abigen: respect --v2=false](https://github.com/ethereum/go-ethereum/pull/34943#pullrequestreview-4272319029) - 2026-05-12
+* [Review] [Review on: accounts/abi: fix unittest code](https://github.com/ethereum/go-ethereum/pull/34740#pullrequestreview-4272380667) - 2026-05-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

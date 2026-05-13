@@ -108,6 +108,13 @@ Team: Erigon
 * [Review] [Review on: execution/stagedsync, db/state: parallel-commitment correctness for reorg/unwind + SD recreate](https://github.com/erigontech/erigon/pull/21088#pullrequestreview-4262976804) - 2026-05-11
 * [Pull Request] [commit: less data in logs during commit rebuild](https://github.com/erigontech/erigon/pull/21112) - 2026-05-11
 * [Commit] [commit: less data in logs during commit rebuild (#21112)](https://github.com/erigontech/erigon/commit/3f6727a9539574a7cbd967bfb2949d6054cd7547) - 2026-05-11
+* [Pull Request] [[r3.4] wire `--erigondb.domain.steps-in-frozen-file` for `stage_exec` and `seg retire`](https://github.com/erigontech/erigon/pull/21149) - 2026-05-12
+* [Pull Request] [[r3.4] db/state, ethconfig: bound domain merge; add --erigondb.domain.steps-in-frozen-file](https://github.com/erigontech/erigon/pull/21148) - 2026-05-12
+* [Pull Request] [[r3.4] db/state, cmd/integration: 4x larger commitment rebuild shard, squeeze flag transparent](https://github.com/erigontech/erigon/pull/21147) - 2026-05-12
+* [Pull Request] [commitment/nibbles: add V2 key encoder/decoder](https://github.com/erigontech/erigon/pull/21146) - 2026-05-12
+* [Pull Request] [[r3.4] commitment: nibbles consolidation (#20407)](https://github.com/erigontech/erigon/pull/21141) - 2026-05-12
+* [Pull Request] [[r3.4] db/state, db/integrity: FilesOnlyStateReader for commitment rebuild and CommitmentRoot](https://github.com/erigontech/erigon/pull/21143) - 2026-05-12
+* [Pull Request] [[r3.4] perf cherry-picks: commitment rebuild resume, seg retire merge, kv integrity](https://github.com/erigontech/erigon/pull/21135) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

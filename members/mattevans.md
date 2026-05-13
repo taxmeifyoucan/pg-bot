@@ -42,6 +42,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore(workflows): bumpity bump bump](https://github.com/ethpandaops/xatu/pull/822) - 2026-05-11
 * [Commit] [Merge pull request #822 from ethpandaops/chore/fix-ci-go-bump](https://github.com/ethpandaops/xatu/commit/ba00172082a6e2be2345fa194fae74700f1ca3a8) - 2026-05-12
 * [Commit] [chore(workflows): update Golang version to 1.26.2 and golangci-lint version to 2.12.2 for consistency and compatibility](https://github.com/ethpandaops/xatu/commit/a814d0faba78782e3188a3701c775174fb06c595) - 2026-05-11
+* [Pull Request] [feat: beacon_synthetic_* events](https://github.com/ethpandaops/xatu/pull/825) - 2026-05-13
+* [Pull Request] [feat: wire ePBS gossipsub producers for the 4 Gloas topics](https://github.com/ethpandaops/xatu/pull/823) - 2026-05-12
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Review] [Review on: feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433#pullrequestreview-4166900256) - 2026-04-23
 

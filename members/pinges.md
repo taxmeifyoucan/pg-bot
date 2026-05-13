@@ -41,6 +41,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Lazy RLP decoding for GetReceiptsMessage](https://github.com/besu-eth/besu/pull/10450#pullrequestreview-4261396047) - 2026-05-11
 * [Review] [Review on: Lazy RLP decoding for GetPooledTransactionsMessage](https://github.com/besu-eth/besu/pull/10449#pullrequestreview-4260941829) - 2026-05-11
 * [Commit] [Lazy RLP decoding for GetPooledTransactionsMessage (#10449)](https://github.com/besu-eth/besu/commit/cc2ff31322f99b396bdca2723230ffc95888af16) - 2026-05-11
+* [Review] [Review on: Snap sync flat DB heal performance improvement using byte comparator](https://github.com/besu-eth/besu/pull/10467#pullrequestreview-4277518766) - 2026-05-13
+* [Issue] [Snap sync: fallback head pivot can become an invalid anchor](https://github.com/besu-eth/besu/issues/10485) - 2026-05-12
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [snap: GetTrieNodes accepts invalid compact-encoded paths instead of rejecting them](https://github.com/ethereum/go-ethereum/issues/34853) - 2026-04-30
 ## Q1 2026

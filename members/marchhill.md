@@ -40,6 +40,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Bal devnet 6 benchmarks](https://github.com/NethermindEth/nethermind/pull/11511#pullrequestreview-4251465862) - 2026-05-08
 * [Pull Request] [Bal devnet 6 benchmarks test 2](https://github.com/NethermindEth/nethermind/pull/11560) - 2026-05-11
 * [Pull Request] [Bal devnet 6 benchmarks test](https://github.com/NethermindEth/nethermind/pull/11557) - 2026-05-11
+* [Pull Request] [Bal devnet 7 benchmarks](https://github.com/NethermindEth/nethermind/pull/11573) - 2026-05-12
 ## Q1 2026
 
 

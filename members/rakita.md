@@ -16,6 +16,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 * [Review] [Review on: chore: validate bal at last](https://github.com/paradigmxyz/reth/pull/23343#pullrequestreview-4055691460) - 2026-04-03
 * [Pull Request] [feat(devnet4): integrate revm devnet4 + paired forks (rev 7a2de5a4)](https://github.com/paradigmxyz/reth/pull/23732) - 2026-04-26
+* [Pull Request] [feat: Amsterdam bal-devnet-7](https://github.com/paradigmxyz/reth/pull/24152) - 2026-05-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: cache selfbalance and prevrandao values](https://github.com/bluealloy/revm/pull/3538) - 2026-04-02
 * [Pull Request] [feat: Add local context accessors to CallInput](https://github.com/bluealloy/revm/pull/3537) - 2026-04-02
@@ -91,6 +92,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: perf(interpreter): cache init_code_hash in CreateInputs for inspector reuse](https://github.com/bluealloy/revm/pull/3664#pullrequestreview-4251584340) - 2026-05-08
 * [Pull Request] [docs: expand `BalError` documentation](https://github.com/bluealloy/revm/pull/3666) - 2026-05-08
 * [Review] [Review on: feat(state): add Bal::try_from_alloy](https://github.com/bluealloy/revm/pull/3665#pullrequestreview-4251480544) - 2026-05-08
+* [Review] [Review on: fix(eip8037): align bal-devnet-7 system call gas limit](https://github.com/bluealloy/revm/pull/3672#pullrequestreview-4272165767) - 2026-05-12
+* [Review] [Review on: fix(inspector): use build_result_gas in inspect_run_system_call](https://github.com/bluealloy/revm/pull/3637#pullrequestreview-4270883006) - 2026-05-12
+* [Review] [Review on: feat: add borrowed alloy BAL conversion](https://github.com/bluealloy/revm/pull/3670#pullrequestreview-4270845142) - 2026-05-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

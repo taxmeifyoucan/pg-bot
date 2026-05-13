@@ -135,6 +135,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Implement spec `V1.7.0 alpha.7` and pass spec tests (#16750)](https://github.com/OffchainLabs/prysm/commit/651b9bc2909ed4eb8995a55d8c5543c9acefb479) - 2026-05-08
 * [Review] [Review on: handle reorgs for proposer preferences](https://github.com/OffchainLabs/prysm/pull/16651#pullrequestreview-4256465787) - 2026-05-09
 * [Pull Request] [Strip stack trace from Downscore peer log reason field](https://github.com/OffchainLabs/prysm/pull/16776) - 2026-05-11
+* [Pull Request] [Stop downscoring peers for hitting our serving rate limit](https://github.com/OffchainLabs/prysm/pull/16781) - 2026-05-12
+* [Pull Request] [Double the global per peer rpc rate limit](https://github.com/OffchainLabs/prysm/pull/16780) - 2026-05-12
+* [Pull Request] [Don't punish the block peer when the envelope response is empty](https://github.com/OffchainLabs/prysm/pull/16779) - 2026-05-12
+* [Review] [Review on: Use forwarding peer ID when queuing deferred Gloas data columns](https://github.com/OffchainLabs/prysm/pull/16778#pullrequestreview-4274060373) - 2026-05-12
+* [Commit] [Add gloas epoch processing spec tests (#16768)](https://github.com/OffchainLabs/prysm/commit/da3fa0c69a8399ea57fc098099e0271e4fee5022) - 2026-05-12
+* [Commit] [Add gloas operations spec tests (#16769)](https://github.com/OffchainLabs/prysm/commit/f953322a03fdb125b44028a380cd4662d2d38b5b) - 2026-05-12
+* [Commit] [Strip stack trace from Downscore peer log reason field (#16776)](https://github.com/OffchainLabs/prysm/commit/2760c072ecb4599adb98e8ae4100b1dd99c405d0) - 2026-05-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

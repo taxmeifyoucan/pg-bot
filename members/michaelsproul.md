@@ -75,6 +75,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Remove `TestRandom`](https://github.com/sigp/lighthouse/pull/9006#pullrequestreview-4225564674) - 2026-05-05
 * [Review] [Review on: Add full epoch transition test to the EF tests](https://github.com/sigp/lighthouse/pull/9275#pullrequestreview-4261239529) - 2026-05-11
 * [Issue] [Append client tag to graffiti _by default_](https://github.com/sigp/lighthouse/issues/9287) - 2026-05-12
+* [Pull Request] [Fork choice compliance tests](https://github.com/sigp/lighthouse/pull/9295) - 2026-05-12
+* [Review] [Review on: Fork choice compliance tests](https://github.com/sigp/lighthouse/pull/9295#pullrequestreview-4276965315) - 2026-05-12
+* [Review] [Review on: Optimise hdiff buffer handling by (re)using Milhouse data structures](https://github.com/sigp/lighthouse/pull/9236#pullrequestreview-4269671552) - 2026-05-12
+* [Review] [Review on: Fix stale `beacon_state_root` in test helpers](https://github.com/sigp/lighthouse/pull/9289#pullrequestreview-4269226131) - 2026-05-12
+* [Review] [Review on: `ignore-ws-check` flag doesnt allow the node to start outside the weak subjectivity period](https://github.com/sigp/lighthouse/pull/9290#pullrequestreview-4269507537) - 2026-05-12
+* [Issue] [Remove pre-Fulu gossip logic and devnet support](https://github.com/sigp/lighthouse/issues/9296) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

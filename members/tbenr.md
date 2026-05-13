@@ -97,6 +97,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Improve test coverage after #10683](https://github.com/Consensys/teku/issues/10691) - 2026-05-11
 * [Issue] [Simplify ForkChoiceNotifierImpl](https://github.com/Consensys/teku/issues/10690) - 2026-05-11
 * [Commit] [devnet2 stack 01 Stabilize fork-choice state during block production (#10683)](https://github.com/Consensys/teku/commit/dc831040c995cbdb5274d85d315970cbc1382c8d) - 2026-05-11
+* [Commit] [devnet2 stack 02 execution payload (#10684)](https://github.com/Consensys/teku/commit/c86c77ea073082ef40fc74da871343d2ea8b37ad) - 2026-05-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

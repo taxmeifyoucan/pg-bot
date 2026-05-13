@@ -54,6 +54,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db/temporal: add commit gate APIs](https://github.com/erigontech/erigon/pull/20953) - 2026-05-02
 * [Review] [Review on: commitment: remove WarmupCache.enabled atomic.Bool](https://github.com/erigontech/erigon/pull/20959#pullrequestreview-4226898502) - 2026-05-05
 * [Review] [Review on: [r3.4] docs: add llms.txt generator script and update root llms.txt](https://github.com/erigontech/erigon/pull/21000#pullrequestreview-4254356892) - 2026-05-08
+* [Pull Request] [[r3.4] execution/stagedsync: find diffset by actually-executed hash on unwind](https://github.com/erigontech/erigon/pull/21157) - 2026-05-13
+* [Review] [Review on: exec: separate tickers of logging and membatch-size-check ](https://github.com/erigontech/erigon/pull/21125#pullrequestreview-4275011767) - 2026-05-12
+* [Review] [Review on: claude: add rules from release/3.4 (branch-naming, lint-fixes)](https://github.com/erigontech/erigon/pull/21126#pullrequestreview-4271221730) - 2026-05-12
+* [Pull Request] [recsplit: sharded FuseFilter (cherry-pick #20644)](https://github.com/erigontech/erigon/pull/21144) - 2026-05-12
 ## Q1 2026
 
 

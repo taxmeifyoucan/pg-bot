@@ -102,6 +102,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: make block read aheader non-global (#21056)](https://github.com/erigontech/erigon/commit/97ff85c0b3fd210fa715fa6053fdc7b5b691a191) - 2026-05-08
 * [Pull Request] [[DO-NOT-MERGE] execution: extract spec tests out of make test-all](https://github.com/erigontech/erigon/pull/21092) - 2026-05-11
 * [Pull Request] [cmd/evm: fix regressions in statetest cmd](https://github.com/erigontech/erigon/pull/21111) - 2026-05-11
+* [Pull Request] [sonar: exclude docs/** from analysis](https://github.com/erigontech/erigon/pull/21155) - 2026-05-12
+* [Pull Request] [execution: fix 73 failing tests in benchmark shards](https://github.com/erigontech/erigon/pull/21160) - 2026-05-13
+* [Review] [Review on: execution: parallel-exec correctness + perf fixes; gate residual EXEC3_PARALLEL flakes (#21136)](https://github.com/erigontech/erigon/pull/21153#pullrequestreview-4277516314) - 2026-05-13
+* [Review] [Review on: cmd/evm: fix regressions in statetest cmd](https://github.com/erigontech/erigon/pull/21111#pullrequestreview-4269040833) - 2026-05-12
+* [Pull Request] [execution: fix 37 failing state tests on stable shard](https://github.com/erigontech/erigon/pull/21124) - 2026-05-12
+* [Review] [Review on: execution: extract spec tests out of make test-all](https://github.com/erigontech/erigon/pull/21092#pullrequestreview-4269195610) - 2026-05-12
+* [Commit] [cmd/evm: fix regressions in statetest cmd (#21111)](https://github.com/erigontech/erigon/commit/92d4a28982124c76ece84169529c846cf183e672) - 2026-05-12
+* [Commit] [execution: fix 37 failing state tests on stable shard (#21124)](https://github.com/erigontech/erigon/commit/387384086c50556b3dd5e8f19a4cd2e49813c742) - 2026-05-12
+* [Commit] [execution: extract spec tests out of make test-all (#21092)](https://github.com/erigontech/erigon/commit/4646132492800db836b997ac28e1110c52e3ff9a) - 2026-05-12
 ## Q1 2026
 
 

@@ -102,6 +102,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [eth/71 (#10844)](https://github.com/NethermindEth/nethermind/commit/ac4fc1524e509677ba2337ead1a2bb7487c4114f) - 2026-05-07
 * [Review] [Review on: Minor fixes from AI audit](https://github.com/NethermindEth/nethermind/pull/11406#pullrequestreview-4250126241) - 2026-05-08
 * [Commit] [Improve eth/70 checks (#11456)](https://github.com/NethermindEth/nethermind/commit/33837880884009a09715ceaa7f72c67c90c2850a) - 2026-05-08
+* [Pull Request] [Absent system acc is not created on touch](https://github.com/NethermindEth/nethermind/pull/11575) - 2026-05-12
+* [Review] [Review on: Bal devnet 7](https://github.com/NethermindEth/nethermind/pull/11561#pullrequestreview-4270080129) - 2026-05-12
+* [Pull Request] [Unify assertions](https://github.com/NethermindEth/nethermind/pull/11567) - 2026-05-12
+* [Pull Request] [Handle IPAddress JSON](https://github.com/NethermindEth/nethermind/pull/11571) - 2026-05-12
+* [Review] [Review on: test: stabilize getPayloadV1 improving-blocks and Simple_test_sync](https://github.com/NethermindEth/nethermind/pull/11568#pullrequestreview-4271035698) - 2026-05-12
+* [Commit] [Handle IPAddress JSON (#11571)](https://github.com/NethermindEth/nethermind/commit/bb17118406aa73b43227c35cb067d60879371238) - 2026-05-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

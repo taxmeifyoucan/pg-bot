@@ -368,6 +368,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] docs: regenerate llms.txt after sync-modes update](https://github.com/erigontech/erigon/pull/21074#pullrequestreview-4262349092) - 2026-05-11
 * [Commit] [execution/stagedsync: advance Execution stage to snapshot commitment block (#21069)](https://github.com/erigontech/erigon/commit/a462f7fa835207a646a3f0de0b32f3a4e798b2a4) - 2026-05-11
 * [Commit] [execution/protocol/rules/aura: don't panic on syscall failure in IsServiceTransaction (#21068)](https://github.com/erigontech/erigon/commit/4851f2581843b06d804476ce7eb468d87549c83b) - 2026-05-11
+* [Review] [Review on: exec: separate tickers of logging and membatch-size-check ](https://github.com/erigontech/erigon/pull/21125#pullrequestreview-4271543692) - 2026-05-12
+* [Review] [Review on: cmd/evm: fix regressions in statetest cmd](https://github.com/erigontech/erigon/pull/21111#pullrequestreview-4271396949) - 2026-05-12
+* [Review] [Review on: Hive: change execution apis version](https://github.com/erigontech/erigon/pull/20924#pullrequestreview-4270079778) - 2026-05-12
+* [Review] [Review on: [r3.4] docs: May 2026 w20 — v3.4.1 update](https://github.com/erigontech/erigon/pull/21129#pullrequestreview-4272231461) - 2026-05-12
+* [Review] [Review on: execution, rlp: switch total difficulty and chainID to uint256.Int](https://github.com/erigontech/erigon/pull/21119#pullrequestreview-4272564623) - 2026-05-12
+* [Review] [Review on: cl: implement GLOAS (EIP-7732 ePBS) for Caplin](https://github.com/erigontech/erigon/pull/18956#pullrequestreview-4271793442) - 2026-05-12
+* [Review] [Review on: workflows/release: tag after artifact checks](https://github.com/erigontech/erigon/pull/21073#pullrequestreview-4272545580) - 2026-05-12
+* [Review] [Review on: docs: May 2026 w20 — v3.4.1 update [main/gitbook]](https://github.com/erigontech/erigon/pull/21130#pullrequestreview-4273438715) - 2026-05-12
+* [Issue] [Complete testing of parallel commitment and turn it on as default](https://github.com/erigontech/erigon/issues/21137) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

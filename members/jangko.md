@@ -50,6 +50,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [bal-devnet-7](https://github.com/status-im/nimbus-eth1/pull/4227) - 2026-05-11
 * [Pull Request] [Add initial Bogota fork support](https://github.com/status-im/nimbus-eth1/pull/4228) - 2026-05-11
 * [Commit] [Add initial Bogota fork support (#4228)](https://github.com/status-im/nimbus-eth1/commit/56ab1ca43a83c55380c8a14b2b26fa939d03ebdd) - 2026-05-11
+* [Pull Request] [EVM system call has it's own setupComputation](https://github.com/status-im/nimbus-eth1/pull/4233) - 2026-05-12
+* [Commit] [Fix eest cache path: eest_devnet to eest_develop (#4232)](https://github.com/status-im/nimbus-eth1/commit/b34e6be8de440a344ff3742e56c97da54ad52b52) - 2026-05-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 ## Q1 2026

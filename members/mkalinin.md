@@ -47,9 +47,15 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 
 * [Review] [Review on: Fix: engine nits](https://github.com/ethereum/execution-apis/pull/753#pullrequestreview-4210340435) - 2026-05-01
 * [Review] [Review on: all: align EIP-7928 spec with latest EIP (uint32 BlockAccessIndex, header hash, debug getter)](https://github.com/ethereum/execution-apis/pull/794#pullrequestreview-4257036803) - 2026-05-09
+* [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4271560983) - 2026-05-12
+* [Pull Request] [engine: Deduplicate PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/798) - 2026-05-12
+* [Commit] [engine: Deduplicate PayloadAttributesV4 (#798)](https://github.com/ethereum/execution-apis/commit/452a0f8bca3b225fcf347c1b201a862a9e954c3e) - 2026-05-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4210578979) - 2026-05-01
 * [Review] [Review on: Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4233437938) - 2026-05-06
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Fast Confirmation Rule (FCR) #8, May 26, 2026](https://github.com/ethereum/pm/issues/2053) - 2026-05-12
 ## Q1 2026
 
 

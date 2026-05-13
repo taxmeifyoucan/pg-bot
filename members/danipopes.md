@@ -321,6 +321,8 @@ Team: Reth
 * [Pull Request] [fix: resolve constant jumpi conditions](https://github.com/paradigmxyz/revmc/pull/373) - 2026-05-06
 * [Commit] [test: cover internal helpers (#376)](https://github.com/paradigmxyz/revmc/commit/ff2c972ccf84ebe843b265fe35df66d02e5bf1b8) - 2026-05-06
 * [Commit] [refactor(bench): use fixture json inputs (#371)](https://github.com/paradigmxyz/revmc/commit/c665f0766987b5d3847dc4013b094d6b1822e1cb) - 2026-05-06
+* [Review] [Review on: chore: align dependencies with reth](https://github.com/paradigmxyz/revmc/pull/377#pullrequestreview-4274510114) - 2026-05-12
+* [Commit] [fix: resolve constant jumpi conditions (#374)](https://github.com/paradigmxyz/revmc/commit/065f53f177971eb369949d436e666e7627a7bf56) - 2026-05-12
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -428,6 +430,7 @@ Team: Reth
 * [Commit] [refactor(interpreter): unify call handlers (#3626)](https://github.com/bluealloy/revm/commit/ac5f365f0df9c80c56bc8b1340f2a05c9565e1e7) - 2026-05-05
 * [Commit] [chore: rm unused MemoryExtensionResult (#3646)](https://github.com/bluealloy/revm/commit/3a436bd0627bf99b39765db2b6aadd790bc118f0) - 2026-05-05
 * [Commit] [refactor: remove unused spec ids (#3649)](https://github.com/bluealloy/revm/commit/c661e79ac941214f8ca458e1cba9de216571c948) - 2026-05-05
+* [Pull Request] [feat(precompile): add matter-labs bn254 backend](https://github.com/bluealloy/revm/pull/3673) - 2026-05-12
 ## Q1 2026
 
 

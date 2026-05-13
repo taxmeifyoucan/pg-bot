@@ -23,6 +23,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Review] [Review on: Bound precompile result caches to semantic-prefix slice](https://github.com/besu-eth/besu/pull/10350#pullrequestreview-4191944449) - 2026-04-28
 * [Review] [Review on: Gate final-version docker tags on release publish, not draft](https://github.com/besu-eth/besu/pull/10306#pullrequestreview-4208216973) - 2026-04-30
 * [Review] [Review on: CHANGELOG: add Unreleased section above 26.5.0](https://github.com/besu-eth/besu/pull/10381#pullrequestreview-4208062600) - 2026-04-30
+* [Review] [Review on: feat(publish-release): add workflow_dispatch trigger, gated to maintainers](https://github.com/besu-eth/besu/pull/10491#pullrequestreview-4275807787) - 2026-05-12
+* [Review] [Review on: fix(publish-release): keep gh release download in workspace cwd](https://github.com/besu-eth/besu/pull/10490#pullrequestreview-4274780563) - 2026-05-12
 ## Q1 2026
 
 

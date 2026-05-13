@@ -100,6 +100,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139132541) - 2026-04-20
+
+* [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4274552729) - 2026-05-12
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540#pullrequestreview-4274585905) - 2026-05-12
 ## Q1 2026
 
 

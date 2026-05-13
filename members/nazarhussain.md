@@ -31,6 +31,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: use dontTransferCache on the bindings layer](https://github.com/ChainSafe/lodestar-z/pull/333#pullrequestreview-4197432165) - 2026-04-29
 * [Commit] [feat: migrate BeaconStateView to use zapi js dsl (#330)](https://github.com/ChainSafe/lodestar-z/commit/cd458472495f9598eda64a02c43b1ef521750e7e) - 2026-04-30
 * [Review] [Review on: refactor: make XXXDecisionRoot fns return `js.String`](https://github.com/ChainSafe/lodestar-z/pull/342#pullrequestreview-4228041568) - 2026-05-05
+* [Commit] [feat: migrate blst,pubkeys to use zapi js dsl (#331)](https://github.com/ChainSafe/lodestar-z/commit/fcd26caf6c36f8aecfea9ed9c7b5a36e27293bcb) - 2026-05-12
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-4097078708) - 2026-04-13
 * [Review] [Review on: fix(prover): implement eth_getBlockNumber verified request handler](https://github.com/ChainSafe/lodestar/pull/9203#pullrequestreview-4097017101) - 2026-04-13
@@ -41,6 +42,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: upgrade pnpm to v11](https://github.com/ChainSafe/lodestar/pull/9299) - 2026-04-28
 * [Review] [Review on: chore: upgrade pnpm to v11](https://github.com/ChainSafe/lodestar/pull/9299#pullrequestreview-4191941084) - 2026-04-28
 * [Commit] [chore: upgrade pnpm to v11 (#9299)](https://github.com/ChainSafe/lodestar/commit/59c06807b63c9f70b5fb6436866b1f99242c8bee) - 2026-05-11
+* [Review] [Review on: chore: remove unused flare package](https://github.com/ChainSafe/lodestar/pull/9358#pullrequestreview-4273478288) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116154021) - 2026-04-15
 

@@ -83,6 +83,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): cover EIP-7708 CREATE log rollback on outer revert](https://github.com/ethereum/execution-specs/pull/2785#pullrequestreview-4261190279) - 2026-05-11
 * [Review] [Review on: fix(test-benchmark): use named constants and labeled calldata in precompile benchmarks](https://github.com/ethereum/execution-specs/pull/2759#pullrequestreview-4261122372) - 2026-05-11
 * [Commit] [refactor(test-benchmark): precompile input parameter format (#2817)](https://github.com/ethereum/execution-specs/commit/c29f8949da4041dd139405e328e94e637add1b87) - 2026-05-11
+* [Pull Request] [feat(spec-spec, tests): Implement eip-8246 and testing scenario](https://github.com/ethereum/execution-specs/pull/2842) - 2026-05-12
+* [Pull Request] [experiment(test-benchmark): migrate benchmark to bal-devnet-7](https://github.com/ethereum/execution-specs/pull/2841) - 2026-05-12
+* [Pull Request] [feat(spec-specs, tests): merge eip-7778 into `forks/amsterdam`](https://github.com/ethereum/execution-specs/pull/2840) - 2026-05-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 ## Q1 2026

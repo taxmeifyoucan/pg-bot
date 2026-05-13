@@ -156,6 +156,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [chore: use T::zero_vec(n) instead of vec![T::ZERO; n] (#1633)](https://github.com/Plonky3/Plonky3/commit/eb680b256c651fc370c050db58edacc6429e56b8) - 2026-05-11
 * [Commit] [feat(merkle-tree): add Merkle path pruning for compact multi-opening proofs (#1544)](https://github.com/Plonky3/Plonky3/commit/c307e950dafc1a0b66a3be3cb521975b5bbf3aa7) - 2026-05-11
 * [Commit] [test(field): cover packed-extension Div with per-lane consistency check (#1624)](https://github.com/Plonky3/Plonky3/commit/ba22d49a0257ad9cdbd178834f8b84e21feaf455) - 2026-05-11
+* [Review] [Review on: fix: leverage packing for `Powers`](https://github.com/Plonky3/Plonky3/pull/1639#pullrequestreview-4273309596) - 2026-05-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

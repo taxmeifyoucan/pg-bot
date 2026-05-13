@@ -23,10 +23,12 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs,tests): Implement EIP-2780](https://github.com/ethereum/execution-specs/pull/2175) - 2026-04-24
 * [Commit] [fix(justfile): make json-loader pytest step collect filled fixtures (#2754)](https://github.com/ethereum/execution-specs/commit/5a2cba1c787fe8ece487dfed7bca8e9a4dc95f2e) - 2026-04-26
 * [Review] [Review on: refactor(specs): port state refactor to older forks](https://github.com/ethereum/execution-specs/pull/2750#pullrequestreview-4263870415) - 2026-05-11
+* [Commit] [refactor(specs): port state refactor to older forks (#2750)](https://github.com/ethereum/execution-specs/commit/87c52b41144feac9b42b7b8913a147571d5553c5) - 2026-05-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332#pullrequestreview-4152757786) - 2026-04-22
 * [Commit] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/commit/c550387e917485af69a6999aea45270a555e2eb7) - 2026-04-22
 * [Review] [Review on: Update EIP-2780: Add missing 7708 log costs](https://github.com/ethereum/EIPs/pull/11586#pullrequestreview-4226455949) - 2026-05-05
+* [Review] [Review on: Update EIP-2780: Align with 8037 and 8038](https://github.com/ethereum/EIPs/pull/11645#pullrequestreview-4270577559) - 2026-05-12
 ## Q1 2026
 
 

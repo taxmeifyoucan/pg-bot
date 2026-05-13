@@ -34,6 +34,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Issue] [`hickory-proto` audit failure tracking issue](https://github.com/sigp/lighthouse/issues/9258) - 2026-05-03
 * [Review] [Review on: Remove `TestRandom`](https://github.com/sigp/lighthouse/pull/9006#pullrequestreview-4218610658) - 2026-05-04
 * [Review] [Review on: Fix execution integration test CI failure](https://github.com/sigp/lighthouse/pull/9277#pullrequestreview-4250503640) - 2026-05-08
+* [Pull Request] [Add macro to simplify `into_full_block` implementations](https://github.com/sigp/lighthouse/pull/9294) - 2026-05-12
 ## Q1 2026
 
 

@@ -28,6 +28,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add some updated specs and helpers, flag for Partial Messages](https://github.com/status-im/nimbus-eth2/pull/8409) - 2026-05-06
 * [Review] [Review on: add partial data column quarantine for partial column gossip management, add tests for the same](https://github.com/status-im/nimbus-eth2/pull/8410#pullrequestreview-4253150874) - 2026-05-08
 * [Review] [Review on: catch the first column gossip addition event for getBlobs](https://github.com/status-im/nimbus-eth2/pull/8393#pullrequestreview-4267020009) - 2026-05-11
+* [Pull Request] [deprecate blob sidecar support in block publishing paths](https://github.com/status-im/nimbus-eth2/pull/8434) - 2026-05-12
+* [Review] [Review on: catch the first column gossip addition event for getBlobs](https://github.com/status-im/nimbus-eth2/pull/8393#pullrequestreview-4270363409) - 2026-05-12
+* [Review] [Review on: Fix ColumnQuarantine to start  use correct amount of supernode columns.](https://github.com/status-im/nimbus-eth2/pull/8417#pullrequestreview-4272368929) - 2026-05-12
 ## Q1 2026
 
 

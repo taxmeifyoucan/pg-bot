@@ -58,8 +58,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [proposed adjustments to release process (#10411)](https://github.com/besu-eth/besu/commit/f027e9a7a99a2b91976e604e533517a64a836045) - 2026-05-07
 * [Pull Request] [chore(changelog): fold Unreleased entries into 26.5.0 for RC2](https://github.com/besu-eth/besu/pull/10455) - 2026-05-07
 * [Commit] [chore(changelog): fold Unreleased entries into 26.5.0 (#10455)](https://github.com/besu-eth/besu/commit/9b674a5da6c3da11603ef4cb00e0beaecf24730a) - 2026-05-07
+* [Review] [Review on: fix(runner): initialize missing optional configurations in RunnerBuilder to prevent NPEs](https://github.com/besu-eth/besu/pull/10454#pullrequestreview-4273827152) - 2026-05-12
+* [Review] [Review on: fix: rename balHash JSON key to blockAccessListHash in block results](https://github.com/besu-eth/besu/pull/10373#pullrequestreview-4273692869) - 2026-05-12
+* [Pull Request] [feat(publish-release): add workflow_dispatch trigger, gated to maintainers](https://github.com/besu-eth/besu/pull/10491) - 2026-05-12
+* [Pull Request] [fix(publish-release): keep gh release download in workspace cwd](https://github.com/besu-eth/besu/pull/10490) - 2026-05-12
+* [Commit] [feat(publish-release): add workflow_dispatch trigger, gated via environment (#10491)](https://github.com/besu-eth/besu/commit/c8ca8a029a7feef70a10fc82afd97d6317aebdfd) - 2026-05-12
+* [Commit] [fix(publish-release): keep gh release download in workspace cwd (#10490)](https://github.com/besu-eth/besu/commit/be72aa2ae9fca47dfe5a00abf5d8117d01f4c972) - 2026-05-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
+* [Issue] [Encrypt The Mempool #4, May 13, 2026](https://github.com/ethereum/pm/issues/2054) - 2026-05-12
 ## Q1 2026
 
 

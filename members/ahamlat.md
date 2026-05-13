@@ -50,6 +50,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: feat: Add cross-block code caching for improved performance](https://github.com/besu-eth/besu/pull/10390#pullrequestreview-4264015885) - 2026-05-11
 * [Review] [Review on: Improve performance of BAL sorting entries](https://github.com/besu-eth/besu/pull/10392#pullrequestreview-4262246169) - 2026-05-11
 * [Commit] [Improve performance of BAL sorting entries (#10392)](https://github.com/besu-eth/besu/commit/4352a43b47e437ba6c289b04ca0a92acb7b4476f) - 2026-05-11
+* [Review] [Review on: add cross block cache for trie nodes](https://github.com/besu-eth/besu/pull/10489#pullrequestreview-4272112437) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

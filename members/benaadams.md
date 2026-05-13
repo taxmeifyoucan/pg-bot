@@ -166,6 +166,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Make RefundOnContractCollision overridable for Arbitrum plugin needs](https://github.com/NethermindEth/nethermind/pull/11554#pullrequestreview-4262400953) - 2026-05-11
 * [Commit] [perf(evm): tighten CALL hot path; fix EIP-7702 delegation-to-precompile semantics (#11547)](https://github.com/NethermindEth/nethermind/commit/e913d87bf593e2e0b24ce9568ff57ed38c7d5628) - 2026-05-11
 * [Commit] [ci: split build from test to lower peak memory; keep swap (#11549)](https://github.com/NethermindEth/nethermind/commit/c9b6529da179bd6d4cd952b879a74aa24b33c479) - 2026-05-11
+* [Pull Request] [Update .NET dependencies to 10.0.8](https://github.com/NethermindEth/nethermind/pull/11581) - 2026-05-12
+* [Review] [Review on: Update .NET dependencies to 10.0.8](https://github.com/NethermindEth/nethermind/pull/11581#pullrequestreview-4275387771) - 2026-05-12
+* [Review] [Review on: `eth_sign` improvemetns & `eth_account` is implemented flag fix](https://github.com/NethermindEth/nethermind/pull/11574#pullrequestreview-4274581947) - 2026-05-12
+* [Pull Request] [Align EIP-8037 gas accounting with execution-specs](https://github.com/NethermindEth/nethermind/pull/11579) - 2026-05-12
+* [Review] [Review on: Bal devnet 7](https://github.com/NethermindEth/nethermind/pull/11561#pullrequestreview-4272344730) - 2026-05-12
+* [Review] [Review on: Handle IPAddress JSON](https://github.com/NethermindEth/nethermind/pull/11571#pullrequestreview-4272423989) - 2026-05-12
+* [Commit] [Update .NET dependencies to 10.0.8 (#11581)](https://github.com/NethermindEth/nethermind/commit/ec87b31157d8e82729a7719f3ebeb279e3368b7f) - 2026-05-12
+* [Commit] [Bal devnet 7 (#11561)](https://github.com/NethermindEth/nethermind/commit/9f69a03e46c5b11d5f65b518fbff69c2f36caf91) - 2026-05-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08
@@ -186,6 +194,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update Nethermind exception mappings (#2794)](https://github.com/ethereum/execution-specs/commit/8fa9a0572578af805b5acd53f8319f53d9eb3b9a) - 2026-05-04
 * [Issue] [EIP-7928 BAL: missing test coverage for direct DELEGATECALL/CALLCODE to a precompile (bal-devnet-7)](https://github.com/ethereum/execution-specs/issues/2830) - 2026-05-10
 
+* [Pull Request] [fix(consume): align NethermindExceptionMapper with current client error strings](https://github.com/ethereum/execution-specs/pull/2838) - 2026-05-12
+* [Review] [Review on: fix(consume): align NethermindExceptionMapper with current client error strings](https://github.com/ethereum/execution-specs/pull/2838#pullrequestreview-4269206535) - 2026-05-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: all: align EIP-7928 spec with latest EIP (uint32 BlockAccessIndex, header hash, debug getter)](https://github.com/ethereum/execution-apis/pull/794#pullrequestreview-4263914654) - 2026-05-11
 ## Q1 2026

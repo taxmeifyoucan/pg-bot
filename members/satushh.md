@@ -45,6 +45,10 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Request payload envelope when pending block's parent payload mi…](https://github.com/OffchainLabs/prysm/pull/16748#pullrequestreview-4244030361) - 2026-05-07
 * [Review] [Review on: Cache PayloadAttestationData and dedupe concurrent PTC requests](https://github.com/OffchainLabs/prysm/pull/16744#pullrequestreview-4254223065) - 2026-05-08
 * [Review] [Review on: Request payload envelope when pending block's parent payload mi…](https://github.com/OffchainLabs/prysm/pull/16748#pullrequestreview-4253869456) - 2026-05-08
+* [Pull Request] [Use forwarding peer ID when queuing deferred Gloas data columns](https://github.com/OffchainLabs/prysm/pull/16778) - 2026-05-12
+* [Review] [Review on: Strip stack trace from Downscore peer log reason field](https://github.com/OffchainLabs/prysm/pull/16776#pullrequestreview-4272050013) - 2026-05-12
+* [Pull Request] [[WIP] sync: cap pending Gloas column sidecars per peer (spec 5199)](https://github.com/OffchainLabs/prysm/pull/16777) - 2026-05-12
+* [Commit] [Use forwarding peer ID when queuing deferred Gloas data columns (#16778)](https://github.com/OffchainLabs/prysm/commit/cf7cfc1cb2b3031c66d49d6e47f9b0aa708ab1dd) - 2026-05-12
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

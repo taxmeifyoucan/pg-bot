@@ -32,6 +32,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(test): treat ArrowGlacier and GrayGlacier as pre-merge](https://github.com/NethermindEth/nethermind/pull/11315#pullrequestreview-4195739279) - 2026-04-29
 * [Review] [Review on: Snapshot fixes](https://github.com/NethermindEth/nethermind/pull/11401#pullrequestreview-4203170240) - 2026-04-30
 * [Review] [Review on: ci: split build from test to lower peak memory; keep swap](https://github.com/NethermindEth/nethermind/pull/11549#pullrequestreview-4261667458) - 2026-05-11
+* [Pull Request] [chore: Update dependencies (#11512)](https://github.com/NethermindEth/nethermind/pull/11580) - 2026-05-12
+* [Review] [Review on: test: stabilize getPayloadV1 improving-blocks and Simple_test_sync](https://github.com/NethermindEth/nethermind/pull/11568#pullrequestreview-4271180222) - 2026-05-12
 ## Q1 2026
 
 

@@ -151,6 +151,10 @@ Team: Erigon
 * [Issue] [Parallel-exec hardening: stage-exec-test (from-0 / chaintip / resume-nonchaintip) fails in both serial and parallel modes](https://github.com/erigontech/erigon/issues/21107) - 2026-05-11
 * [Issue] [Lock-free parallel execution: derive per-block changesets post-hoc, remove changeset accumulator from the exec path](https://github.com/erigontech/erigon/issues/21106) - 2026-05-11
 * [Commit] [execution/stagedsync, db/state: parallel-commitment correctness for reorg/unwind + SD recreate (#21088)](https://github.com/erigontech/erigon/commit/bfa03df625c6928a354b79427ed344e74567c76b) - 2026-05-11
+* [Pull Request] [execution: parallel-exec correctness + perf fixes; gate residual EXEC3_PARALLEL flakes (#21136)](https://github.com/erigontech/erigon/pull/21153) - 2026-05-12
+* [Pull Request] [execution/stagedsync: install the per-block changeset accumulator before any of the block's writes](https://github.com/erigontech/erigon/pull/21145) - 2026-05-12
+* [Issue] [Parallel-exec: route the per-tx writeset through one faithful path; remove normalizeWriteSet/calcState; carry serial-finalize signals on ExecutionResult](https://github.com/erigontech/erigon/issues/21138) - 2026-05-12
+* [Issue] [Parallel-exec: residual functional failures skipped to land the exec-mode CI matrix](https://github.com/erigontech/erigon/issues/21136) - 2026-05-12
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

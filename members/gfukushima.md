@@ -20,6 +20,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Revert "fix: prevent pipeline errors from killing Reactor subscriptio…](https://github.com/Consensys/discovery/pull/217) - 2026-04-22
 * [Review] [Review on: Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218#pullrequestreview-4158388641) - 2026-04-22
 * [Commit] [reduce log level (#216)](https://github.com/Consensys/discovery/commit/114bd04729e494fc901486ac8f8233df5a60b0f0) - 2026-04-22
+* [Review] [Review on: Fix IPv6 outbound dial bootstrap](https://github.com/Consensys/discovery/pull/225#pullrequestreview-4276967651) - 2026-05-12
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Fix ipv6 discovery](https://github.com/Consensys/teku/pull/10516#pullrequestreview-4041785930) - 2026-04-01
 * [Review] [Review on: added executors for some alpha4 test cases](https://github.com/Consensys/teku/pull/10545#pullrequestreview-4048271089) - 2026-04-02

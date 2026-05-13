@@ -52,6 +52,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Update go-ethereum to v1.17.3](https://github.com/OffchainLabs/prysm/pull/16775) - 2026-05-11
 * [Review] [Review on: updated duties using split endpoints](https://github.com/OffchainLabs/prysm/pull/16421#pullrequestreview-4263850341) - 2026-05-11
 * [Commit] [Write `totalEffectiveBalance` in `balanceCache` eagerly in `ProcessEffectiveBalanceUpdates`. (#16738)](https://github.com/OffchainLabs/prysm/commit/719831b82e2753734a6949d7b147bb2403870be2) - 2026-05-11
+* [Review] [Review on: proposer settings updates for proposer preferences validator client side](https://github.com/OffchainLabs/prysm/pull/16762#pullrequestreview-4273593630) - 2026-05-12
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 ## Q1 2026

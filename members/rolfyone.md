@@ -53,6 +53,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [made column name width dynamic in debug tool (#10664)](https://github.com/Consensys/teku/commit/2cfb853eb6eeb1099da00215c7e7946e8b8e0425) - 2026-05-01
 * [Pull Request] [Add JaCoCo coverage reporting for unit and reference tests](https://github.com/Consensys/teku/pull/10692) - 2026-05-11
 * [Review] [Review on: Add JaCoCo coverage reporting for unit and reference tests](https://github.com/Consensys/teku/pull/10692#pullrequestreview-4268005556) - 2026-05-11
+* [Pull Request] [  Added timeout to DAS availability check with graceful expiry](https://github.com/Consensys/teku/pull/10694) - 2026-05-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

@@ -121,6 +121,9 @@ Team: Reth
 * [Review] [Review on: ci(bench): require PR author to be an org member](https://github.com/paradigmxyz/reth/pull/24115#pullrequestreview-4262198747) - 2026-05-11
 * [Commit] [refactor(pool): pass error by value to `mark_invalid` (#24121)](https://github.com/paradigmxyz/reth/commit/735417251bbcc55036672be53a3ce343aefabdb1) - 2026-05-11
 * [Commit] [ci(bench): route scheduled benchmarks through txgen (#24117)](https://github.com/paradigmxyz/reth/commit/849e9446c82432921a5b45225cf5254c63e41476) - 2026-05-11
+* [Review] [Review on: perf(reth-bench): buffer recent block hash requests](https://github.com/paradigmxyz/reth/pull/24176#pullrequestreview-4276411782) - 2026-05-12
+* [Review] [Review on: bench: show per-phase status in PR comment during benchmark runs](https://github.com/paradigmxyz/reth/pull/24158#pullrequestreview-4273474544) - 2026-05-12
+* [Review] [Review on: ci(bench): use online CPUs for reth affinity](https://github.com/paradigmxyz/reth/pull/24148#pullrequestreview-4272518886) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

@@ -40,6 +40,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: core/txpool/blobpool: continue on cell proof error in `GetBlobs`](https://github.com/ethereum/go-ethereum/pull/34891#pullrequestreview-4251627810) - 2026-05-08
 * [Review] [Review on: eth/catalyst: fix getBlobsV3 partial/complete metrics](https://github.com/ethereum/go-ethereum/pull/34666#pullrequestreview-4267031523) - 2026-05-11
 * [Review] [Review on: core/txpool/blobpool: prevent data loss in limbo.update on setAndIndex failure](https://github.com/ethereum/go-ethereum/pull/34665#pullrequestreview-4262846265) - 2026-05-11
+* [Commit] [core/txpool/blobpool: add blobTxForPool type (#34882)](https://github.com/ethereum/go-ethereum/commit/726d657a4a03015171b649daca70abf6a54a9d6b) - 2026-05-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
 ## Q1 2026

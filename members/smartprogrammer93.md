@@ -55,6 +55,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(evm): tighten CALL hot path; fix EIP-7702 delegation-to-precompile semantics](https://github.com/NethermindEth/nethermind/pull/11547#pullrequestreview-4264154309) - 2026-05-11
 * [Review] [Review on: Gate batch lookup by network](https://github.com/NethermindEth/nethermind/pull/11556#pullrequestreview-4263120954) - 2026-05-11
 * [Review] [Review on: fix: charge spawn estimate for CREATE/CREATE2 post-trace bail](https://github.com/NethermindEth/nethermind/pull/11555#pullrequestreview-4262554147) - 2026-05-11
+* [Review] [Review on: Update .NET dependencies to 10.0.8](https://github.com/NethermindEth/nethermind/pull/11581#pullrequestreview-4275417477) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

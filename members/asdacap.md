@@ -186,6 +186,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: split build from test to lower peak memory; keep swap](https://github.com/NethermindEth/nethermind/pull/11549#pullrequestreview-4260188827) - 2026-05-11
 * [Pull Request] [perf(state): invoke HintBal from BlockCachePreWarmer to warm BAL slots](https://github.com/NethermindEth/nethermind/pull/11551) - 2026-05-11
 * [Review] [Review on: perf(state): invoke HintBal from BlockCachePreWarmer to warm BAL slots](https://github.com/NethermindEth/nethermind/pull/11551#pullrequestreview-4260776898) - 2026-05-11
+* [Review] [Review on: fix(snap-sync): refresh pivot instead of punishing the only peer (#6803)](https://github.com/NethermindEth/nethermind/pull/11569#pullrequestreview-4276894512) - 2026-05-12
+* [Review] [Review on: XDC Fix sync ](https://github.com/NethermindEth/nethermind/pull/11562#pullrequestreview-4270249783) - 2026-05-12
+* [Review] [Review on: Minor fixes from AI audit #2](https://github.com/NethermindEth/nethermind/pull/11563#pullrequestreview-4269030340) - 2026-05-12
+* [Review] [Review on: feat: add SkipMetricsTracking property to DbSettings](https://github.com/NethermindEth/nethermind/pull/11515#pullrequestreview-4269435973) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

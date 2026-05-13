@@ -30,6 +30,7 @@ Team: EthereumJS
 * [Pull Request] [feat: EIP-8037 frame-revert refund + CREATE/CALL state-gas (continuation)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4286) - 2026-05-06
 * [Pull Request] [feat: EIP-8037 (State Creation Gas Cost Increase) — scaffolding + partial implementation](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4285) - 2026-05-06
 * [Pull Request] [evm/vm: EIP-8037 follow-ups (parametric CPSB, 7702 auth refund, SD storage refund, system call split)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4287) - 2026-05-07
+* [Issue] [Consider enabling npm min-release-age for supply chain protection](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4289) - 2026-05-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 ## Q1 2026

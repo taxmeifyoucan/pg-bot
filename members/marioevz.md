@@ -66,6 +66,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(ci): redirect Go caches to a per-job temp dir](https://github.com/ethereum/execution-specs/pull/2774#pullrequestreview-4267835152) - 2026-05-11
 * [Review] [Review on: fix(traces): tracing consistency between input and output alloc formatting](https://github.com/ethereum/execution-specs/pull/2832#pullrequestreview-4266087301) - 2026-05-11
 * [Review] [Review on: chore(tests): stop mutating parametrize values in EL request helpers](https://github.com/ethereum/execution-specs/pull/2833#pullrequestreview-4265551958) - 2026-05-11
+* [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7708 ETH transfers emit a log](https://github.com/ethereum/execution-specs/pull/2844#pullrequestreview-4274301658) - 2026-05-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

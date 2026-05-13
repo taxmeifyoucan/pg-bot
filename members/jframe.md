@@ -45,6 +45,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Lazy RLP decoding for GetPooledTransactionsMessage](https://github.com/besu-eth/besu/pull/10449#pullrequestreview-4249539059) - 2026-05-08
 * [Pull Request] [Snap sync flat DB performance improvement using byte comparator](https://github.com/besu-eth/besu/pull/10467) - 2026-05-11
 * [Review] [Review on: Snap sync flat DB performance improvement using byte comparator](https://github.com/besu-eth/besu/pull/10467#pullrequestreview-4260158144) - 2026-05-11
+* [Review] [Review on: fix(discv5): IPv6 ENR auto-discovery via peer consensus (#9874)](https://github.com/besu-eth/besu/pull/10468#pullrequestreview-4269479321) - 2026-05-12
+* [Review] [Review on: Lazy RLP decoding for GetReceiptsMessage](https://github.com/besu-eth/besu/pull/10450#pullrequestreview-4269785556) - 2026-05-12
+* [Review] [Review on: Snap sync flat DB heal performance improvement using byte comparator](https://github.com/besu-eth/besu/pull/10467#pullrequestreview-4277248216) - 2026-05-13
+* [Commit] [Snap sync flat DB heal performance improvement using byte comparator (#10467)](https://github.com/besu-eth/besu/commit/c880cb8c889f6008a392aa62fdbb981104106f0b) - 2026-05-13
 ## Q1 2026
 
 

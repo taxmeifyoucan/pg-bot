@@ -57,6 +57,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: devnet2 stack 03 gloas builder](https://github.com/Consensys/teku/pull/10685#pullrequestreview-4261771586) - 2026-05-11
 * [Review] [Review on: devnet2 stack 04 parent consistency](https://github.com/Consensys/teku/pull/10686#pullrequestreview-4263873998) - 2026-05-11
 * [Review] [Review on: devnet2 stack 05 final devnet2](https://github.com/Consensys/teku/pull/10687#pullrequestreview-4265158382) - 2026-05-11
+* [Pull Request] [Cleanup ethspecify](https://github.com/Consensys/teku/pull/10693) - 2026-05-12
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

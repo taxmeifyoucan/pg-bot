@@ -24,6 +24,8 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: change stateless occurrence rate](https://github.com/ethereum/pm/commit/772add71af9cd28658a05f5bbf08ba5340ac25e9) - 2026-04-29
 * [Commit] [acdbot: add to trusted list for fcr](https://github.com/ethereum/pm/commit/a321e2f15b4cbfefadce060677d5785c9c0f6226) - 2026-05-04
 * [Commit] [acdbot: add to trusted list for pqi](https://github.com/ethereum/pm/commit/14a8608634fa5e16135c09b19f68d24f6deae670) - 2026-05-05
+* [Commit] [acdbot: bump sonnet model](https://github.com/ethereum/pm/commit/95ed6d3e193a5a314b7cf31c0ab0fb3609a66d52) - 2026-05-12
+* [Commit] [acdbot: add zkevm facilitator to trusted list](https://github.com/ethereum/pm/commit/9cd4f5807c8acee1467aaebab80cdaeea5fde8ab) - 2026-05-12
 ## Q1 2026
 
 

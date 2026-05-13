@@ -120,6 +120,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add partial data column quarantine for partial column gossip management, add tests for the same](https://github.com/status-im/nimbus-eth2/pull/8410#pullrequestreview-4263306391) - 2026-05-11
 * [Commit] [rm too-precise "for Ethereum" from changelog](https://github.com/status-im/nimbus-eth2/commit/6fb05f36804d53c2e8e014cfeeea8ad7996a5efe) - 2026-05-11
 * [Commit] [version v26.5.0](https://github.com/status-im/nimbus-eth2/commit/818893ea47ea5c50f117722c20d840e312fe4a3b) - 2026-05-11
+* [Review] [Review on: catch the first column gossip addition event for getBlobs](https://github.com/status-im/nimbus-eth2/pull/8393#pullrequestreview-4269464565) - 2026-05-12
+* [Review] [Review on: fix: apply parent execution requests before proposal](https://github.com/status-im/nimbus-eth2/pull/8421#pullrequestreview-4269321683) - 2026-05-12
+* [Review] [Review on: add batch validation path for column to speedup gossip validaiton](https://github.com/status-im/nimbus-eth2/pull/8314#pullrequestreview-4269000799) - 2026-05-12
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

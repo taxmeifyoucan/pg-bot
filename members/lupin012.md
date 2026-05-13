@@ -122,6 +122,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [disable two tests eth_createAccessList  & debug_traceTransaction (#21087)](https://github.com/erigontech/erigon/commit/047644db2720e836ddb8ee2562c788a335a5131a) - 2026-05-10
 * [Commit] [ci: add --commitment-history flag to rpc test scripts (#20981)](https://github.com/erigontech/erigon/commit/a3ee1555862221983379350f8eb581d315ae0293) - 2026-05-10
 * [Commit] [rpc graphql: fix graphql eip4844 fields (#21060)](https://github.com/erigontech/erigon/commit/ead28e6c4fd70f79ec85214a044da454a022ac7b) - 2026-05-11
+* [Review] [Review on: rpc: fail closed on AsMessage errors in debug tracing](https://github.com/erigontech/erigon/pull/21142#pullrequestreview-4276430317) - 2026-05-12
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

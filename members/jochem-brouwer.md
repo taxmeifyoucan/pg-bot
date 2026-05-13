@@ -25,6 +25,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: feat(spec-specs, tests): EIP-8037 - zero execution state gas on top-level failure](https://github.com/ethereum/execution-specs/pull/2689#pullrequestreview-4136699256) - 2026-04-19
 * [Review] [Review on: feat(spec-specs, tests): EIP-8037 - 0 to x to 0 SSTORE refunds to state gas](https://github.com/ethereum/execution-specs/pull/2698#pullrequestreview-4136945971) - 2026-04-20
 * [Review] [Review on: refactor(test-benchmark): support 8037 for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2787#pullrequestreview-4208733379) - 2026-04-30
+* [Pull Request] [feat(benchmarks): add eth transfer cases for repricing](https://github.com/ethereum/execution-specs/pull/2837) - 2026-05-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4083109528) - 2026-04-09
 
@@ -46,6 +47,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Add EIP: Remove pre-Spurious-Dragon accounts](https://github.com/ethereum/EIPs/pull/11605) - 2026-05-06
 * [Review] [Review on: Add EIP: Remove pre-Spurious-Dragon accounts](https://github.com/ethereum/EIPs/pull/11605#pullrequestreview-4239740446) - 2026-05-06
 * [Review] [Review on: Update EIP-8025: Move to Draft](https://github.com/ethereum/EIPs/pull/11604#pullrequestreview-4260052636) - 2026-05-10
+* [Review] [Review on: Add EIP: Gas Limit Schedule](https://github.com/ethereum/EIPs/pull/11644#pullrequestreview-4270958607) - 2026-05-12
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Correctly name devnet-2 genesis and introduce devnet-3 genesis](https://github.com/NethermindEth/gas-benchmarks/pull/139) - 2026-04-22
 

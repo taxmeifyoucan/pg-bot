@@ -38,6 +38,7 @@ Team: Geth
 * [Review] [Review on: Update EIP-7723: update SFI definition based on ACDT#74](https://github.com/ethereum/EIPs/pull/11475#pullrequestreview-4252506470) - 2026-05-08
 * [Review] [Review on: Add EIP: Keyed Nonces for Frame Transactions](https://github.com/ethereum/EIPs/pull/11598#pullrequestreview-4266605816) - 2026-05-11
 * [Commit] [Update EIP-8141: Frames cleanup (#11621)](https://github.com/ethereum/EIPs/commit/235d5056eea9df33be7517a9c48872cd2eca2971) - 2026-05-11
+* [Review] [Review on: Update EIP-8141: Support atomic batching with any frames](https://github.com/ethereum/EIPs/pull/11652#pullrequestreview-4274768366) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4105687607) - 2026-04-14
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113766865) - 2026-04-15

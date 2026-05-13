@@ -378,6 +378,30 @@ Team: Reth
 * [Commit] [fix(engine): validate BAL gas limit without redecoding (#24109)](https://github.com/paradigmxyz/reth/commit/146d73f1be596695e92d70868f137e5dcaf7ebe0) - 2026-05-11
 * [Commit] [fix(engine): flush BAL store after saving blocks (#24087)](https://github.com/paradigmxyz/reth/commit/15cdd606b43f49f065437c5d533dbd809d8cf631) - 2026-05-11
 * [Commit] [feat(net): default BAL requests to optional (#24095)](https://github.com/paradigmxyz/reth/commit/d3af3801429b015a0fba0cfb4515a84abac5c352) - 2026-05-11
+* [Pull Request] [perf(reth-bench): buffer recent block hash requests](https://github.com/paradigmxyz/reth/pull/24176) - 2026-05-12
+* [Pull Request] [refactor(rpc): simplify blob bundle validation](https://github.com/paradigmxyz/reth/pull/24169) - 2026-05-12
+* [Pull Request] [docs: update security contact](https://github.com/paradigmxyz/reth/pull/24165) - 2026-05-12
+* [Pull Request] [feat(rpc): add builder submission v6 validation](https://github.com/paradigmxyz/reth/pull/24170) - 2026-05-12
+* [Review] [Review on: feat(engine): add BAL store flush and prune duration metrics](https://github.com/paradigmxyz/reth/pull/24133#pullrequestreview-4270944795) - 2026-05-12
+* [Review] [Review on: fix(engine): trigger backfill when canonical header is ahead of execution (#23234)](https://github.com/paradigmxyz/reth/pull/24136#pullrequestreview-4269640455) - 2026-05-12
+* [Pull Request] [refactor(tasks): use parking_lot mutex in lazy handle](https://github.com/paradigmxyz/reth/pull/24161) - 2026-05-12
+* [Review] [Review on: refactor: spawn full block validation](https://github.com/paradigmxyz/reth/pull/24160#pullrequestreview-4274772096) - 2026-05-12
+* [Pull Request] [fix(net): model unavailable BALs explicitly](https://github.com/paradigmxyz/reth/pull/24157) - 2026-05-12
+* [Review] [Review on: chore: handle GetCells request](https://github.com/paradigmxyz/reth/pull/24129#pullrequestreview-4269477430) - 2026-05-12
+* [Pull Request] [perf(txpool): avoid full pending truncation sort](https://github.com/paradigmxyz/reth/pull/24154) - 2026-05-12
+* [Pull Request] [docs(engine): update getPayloadV6 handler docs](https://github.com/paradigmxyz/reth/pull/24156) - 2026-05-12
+* [Pull Request] [fix(storage): return in-memory BAL ranges](https://github.com/paradigmxyz/reth/pull/24155) - 2026-05-12
+* [Pull Request] [feat(rpc): support BAL with block RLP payloads](https://github.com/paradigmxyz/reth/pull/24153) - 2026-05-12
+* [Review] [Review on: fix(op): skip finalized hash as backfill target on OP Stack](https://github.com/paradigmxyz/reth/pull/24140#pullrequestreview-4270785182) - 2026-05-12
+* [Review] [Review on: feat(engine): support BAL in create_reorg_head](https://github.com/paradigmxyz/reth/pull/24147#pullrequestreview-4272368510) - 2026-05-12
+* [Commit] [perf(reth-bench): buffer recent block hash requests (#24176)](https://github.com/paradigmxyz/reth/commit/bedf3346b33705d2ddddb9d87219b735fab53591) - 2026-05-12
+* [Commit] [refactor(rpc): simplify blob bundle validation (#24169)](https://github.com/paradigmxyz/reth/commit/a638890c387582c44f87f1f8da081f664beaac07) - 2026-05-12
+* [Commit] [docs: update security contact (#24165)](https://github.com/paradigmxyz/reth/commit/c71343b84f95be89b2b0dae851586c3c6319e5ef) - 2026-05-12
+* [Commit] [refactor(tasks): use parking_lot mutex in lazy handle (#24161)](https://github.com/paradigmxyz/reth/commit/f10844da81af9b7da8ca125c0761e7683c15de8c) - 2026-05-12
+* [Commit] [fix(net): model unavailable BALs explicitly (#24157)](https://github.com/paradigmxyz/reth/commit/abcbab871ddbc154c5eda4863bc6ba44170544fe) - 2026-05-12
+* [Commit] [docs(engine): update getPayloadV6 handler docs (#24156)](https://github.com/paradigmxyz/reth/commit/0b9b729690445bd08822b3ac15621d25db867bda) - 2026-05-12
+* [Commit] [feat(rpc): support BAL with block RLP payloads (#24153)](https://github.com/paradigmxyz/reth/commit/e8a5a3cbfb34aea3d31b7a4302791185fa016472) - 2026-05-12
+* [Commit] [fix(net): validate downloaded block access list hashes (#24113)](https://github.com/paradigmxyz/reth/commit/596323794e32798451f53b567be990e918edec82) - 2026-05-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -392,6 +416,7 @@ Team: Reth
 * [Pull Request] [feat(state): add Bal::try_from_alloy](https://github.com/bluealloy/revm/pull/3665) - 2026-05-08
 * [Commit] [feat(state): add Bal::try_from_alloy (#3665)](https://github.com/bluealloy/revm/commit/8850aec02d7924b8b29274c7315efacb16905cd6) - 2026-05-08
 * [Pull Request] [feat: add borrowed alloy BAL conversion](https://github.com/bluealloy/revm/pull/3670) - 2026-05-11
+* [Commit] [feat: add borrowed alloy BAL conversion (#3670)](https://github.com/bluealloy/revm/commit/0900ee3983618bb378e9a736fd6f3f70a8ef8f0d) - 2026-05-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
 ## Q1 2026

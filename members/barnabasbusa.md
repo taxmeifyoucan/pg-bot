@@ -191,6 +191,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: Update EIP-7723: Add new ACDE/C Facilitators to Meta & Process EIPs](https://github.com/ethereum/EIPs/pull/11585#pullrequestreview-4203735731) - 2026-04-30
 * [Pull Request] [Add EIP: Cap deposit requests per block](https://github.com/ethereum/EIPs/pull/11607) - 2026-05-06
 * [Pull Request] [Add EIP: Gas Limit Schedule](https://github.com/ethereum/EIPs/pull/11644) - 2026-05-11
+* [Review] [Review on: Add EIP: Gas Limit Schedule](https://github.com/ethereum/EIPs/pull/11644#pullrequestreview-4271140958) - 2026-05-12
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [ci: bump pinned GitHub Actions to latest](https://github.com/ethpandaops/template-devnets/pull/158) - 2026-04-14
 * [Commit] [ci: bump pinned GitHub Actions to latest (#158)](https://github.com/ethpandaops/template-devnets/commit/254b32c9621944012d978017e59489c3eb70db78) - 2026-04-14
@@ -207,6 +208,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [nimbus changes](https://github.com/ethpandaops/template-devnets/commit/89dc7ee1b2540245751f233cd7719141f8c38922) - 2026-04-29
 * [Pull Request] [Hetzner: cpx (new gen) defaults + capacity-aware placement](https://github.com/ethpandaops/template-devnets/pull/166) - 2026-05-06
 * [Review] [Review on: add buildoor](https://github.com/ethpandaops/template-devnets/pull/165#pullrequestreview-4256930430) - 2026-05-09
+* [Review] [Review on: vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168#pullrequestreview-4269317484) - 2026-05-12
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
 * [Pull Request] [core/txpool: report actual 110% threshold in intrinsic gas error](https://github.com/ethereum/go-ethereum/pull/34782) - 2026-04-21
@@ -216,6 +218,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [miner: supply a slot number when synthesising pending block post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/34792) - 2026-04-22
 * [Pull Request] [miner: supply a slot number when synthesising pending block post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/34790) - 2026-04-22
 * [Pull Request] [miner: supply a slot number when synthesising pending block post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/34791) - 2026-04-22
+* [Pull Request] [node: default OpenTelemetry SampleRatio to 1.0](https://github.com/ethereum/go-ethereum/pull/34948) - 2026-05-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Pin Docker base image to debian:trixie-slim; add ca-certificates](https://github.com/status-im/nimbus-eth2/pull/8310) - 2026-04-21
 

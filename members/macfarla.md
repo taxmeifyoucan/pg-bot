@@ -151,6 +151,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [Implement eth_getRawTransactionByHash RPC method](https://github.com/besu-eth/besu/issues/10477) - 2026-05-12
 * [Issue] [flaky test: BalStateRootCommitterFactoryTest](https://github.com/besu-eth/besu/issues/10476) - 2026-05-12
 * [Commit] [fix: close LRUCache and ColumnFamilyOptions (#10456)](https://github.com/besu-eth/besu/commit/323056595f2ef6be5efd9482d8c4421e890f77d1) - 2026-05-11
+* [Review] [Review on: Enable NullAway for metrics core](https://github.com/besu-eth/besu/pull/10453#pullrequestreview-4270611292) - 2026-05-12
+* [Pull Request] [Fix/engine new payload invalid request type](https://github.com/besu-eth/besu/pull/10484) - 2026-05-12
+* [Pull Request] [testing_buildBlockV1  - error if tx provided but not applied](https://github.com/besu-eth/besu/pull/10486) - 2026-05-12
+* [Review] [Review on: Add the possibility to pass a custom data storage configuration during reference tests](https://github.com/besu-eth/besu/pull/10483#pullrequestreview-4270398626) - 2026-05-12
+* [Review] [Review on: DebugOperationTracer #10115 - 10 : storage snapshot timing ](https://github.com/besu-eth/besu/pull/10176#pullrequestreview-4268830980) - 2026-05-12
+* [Review] [Review on: Fix unhandled exceptions on malformed trace index in `trace_get` RPC](https://github.com/besu-eth/besu/pull/10404#pullrequestreview-4268774267) - 2026-05-12
+* [Pull Request] [Restore eth_coinbase RPC method](https://github.com/besu-eth/besu/pull/10478) - 2026-05-12
+* [Issue] [Add debug_traceCallMany RPC method](https://github.com/besu-eth/besu/issues/10479) - 2026-05-12
+* [Issue] [debug_getModifiedAccountsByHash and debug_getModifiedAccountsByNumber RPC methods](https://github.com/besu-eth/besu/issues/10480) - 2026-05-12
+* [Commit] [fix: rename balHash JSON key to blockAccessListHash in block results (#10373)](https://github.com/besu-eth/besu/commit/22671fa742c55acb0695364680391cb62575e091) - 2026-05-12
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 
@@ -159,6 +169,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on:  Add HIVE_DISCV5 flag for besu](https://github.com/ethereum/hive/pull/1447#pullrequestreview-4173647805) - 2026-04-24
 * [Review] [Review on: Make address key lookup case-insensitive in simulator](https://github.com/ethereum/hive/pull/1446#pullrequestreview-4177836608) - 2026-04-27
 
+* [Pull Request] [simulators/ethereum/rpc-compat: ignore error.message fields everywhere](https://github.com/ethereum/hive/pull/1399) - 2026-05-12
+* [Commit] [simulators/ethereum/rpc-compat: ignore error.message fields everywhere (#1399)](https://github.com/ethereum/hive/commit/6f704d0cd8fb4dfd3f635abcc5a3ea6cd395e61b) - 2026-05-12
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: update java.projectId for maven](https://github.com/Consensys/teku/pull/10662#pullrequestreview-4209600176) - 2026-05-01
 * [Review] [Review on: remove the gradle pieces in renovate config](https://github.com/Consensys/teku/pull/10661#pullrequestreview-4208862737) - 2026-04-30

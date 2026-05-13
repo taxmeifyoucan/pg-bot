@@ -42,6 +42,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/gossip,p2p: guard negative subnet index in ENR updates](https://github.com/erigontech/erigon/pull/21012#pullrequestreview-4250677059) - 2026-05-08
 * [Review] [Review on: cl/gossip: pass registration conditions to validators](https://github.com/erigontech/erigon/pull/20578#pullrequestreview-4250626114) - 2026-05-08
 * [Commit] [cl, downloader: suppress context-canceled warnings on shutdown (#21051)](https://github.com/erigontech/erigon/commit/9415441fd8ed4b36454c73aa268d3d1b7f2d8215) - 2026-05-08
+* [Review] [Review on: cl/forkchoice: key optimistic store by blockRoot](https://github.com/erigontech/erigon/pull/21110#pullrequestreview-4270206646) - 2026-05-12
+* [Issue] [cl/forkchoice: HasEnvelope used as proxy for is_payload_verified in GLOAS fork choice](https://github.com/erigontech/erigon/issues/21131) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

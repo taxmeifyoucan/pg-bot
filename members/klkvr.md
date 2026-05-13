@@ -119,6 +119,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [fix(reth-bb): stage big block plan for payloads](https://github.com/paradigmxyz/reth/pull/24116) - 2026-05-11
 * [Commit] [refactor: simplify reth-bb (#23912)](https://github.com/paradigmxyz/reth/commit/5e2c16912e1af16b289fd82fc88f3a909c1ac653) - 2026-05-11
 * [Commit] [feat: support custom state root strategies (#24130)](https://github.com/paradigmxyz/reth/commit/abaccb269fa1b1c39cf998d5c0b4b1ada3b8c2f0) - 2026-05-11
+* [Pull Request] [refactor: spawn full block validation](https://github.com/paradigmxyz/reth/pull/24160) - 2026-05-12
+* [Review] [Review on: fix(net): model unavailable BALs explicitly](https://github.com/paradigmxyz/reth/pull/24157#pullrequestreview-4274785970) - 2026-05-12
+* [Review] [Review on: feat(rpc): support BAL with block RLP payloads](https://github.com/paradigmxyz/reth/pull/24153#pullrequestreview-4272645361) - 2026-05-12
+* [Commit] [refactor: spawn full block validation (#24160)](https://github.com/paradigmxyz/reth/commit/2c1cb29da7111e1dd8d77abe9bb2e23a75b2da7c) - 2026-05-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

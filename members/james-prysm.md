@@ -77,6 +77,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [replace tracked validators cache with proposer preference](https://github.com/OffchainLabs/prysm/pull/16767) - 2026-05-08
 * [Review] [Review on: Strip stack trace from Downscore peer log reason field](https://github.com/OffchainLabs/prysm/pull/16776#pullrequestreview-4268385340) - 2026-05-12
 * [Review] [Review on: handle reorgs for proposer preferences](https://github.com/OffchainLabs/prysm/pull/16651#pullrequestreview-4266916025) - 2026-05-11
+* [Review] [Review on: Add gloas epoch processing spec tests](https://github.com/OffchainLabs/prysm/pull/16768#pullrequestreview-4273307364) - 2026-05-12
+* [Review] [Review on: proposer settings updates for proposer preferences validator client side](https://github.com/OffchainLabs/prysm/pull/16762#pullrequestreview-4273664277) - 2026-05-12
+* [Review] [Review on: Add gloas operations spec tests](https://github.com/OffchainLabs/prysm/pull/16769#pullrequestreview-4273625325) - 2026-05-12
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

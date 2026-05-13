@@ -44,6 +44,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Pull Request] [Update EIP-7904: Interop numbers](https://github.com/ethereum/EIPs/pull/11622) - 2026-05-08
 * [Review] [Review on: Update EIP-8037: Fix bugs from bal-devnet-6](https://github.com/ethereum/EIPs/pull/11611#pullrequestreview-4250153183) - 2026-05-08
 * [Pull Request] [Update EIP-2780: Align with 8037 and 8038](https://github.com/ethereum/EIPs/pull/11645) - 2026-05-11
+* [Review] [Review on: Update EIP-2780: Align with 8037 and 8038](https://github.com/ethereum/EIPs/pull/11645#pullrequestreview-4271246986) - 2026-05-12
 ## Q1 2026
 
 

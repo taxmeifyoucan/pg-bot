@@ -71,6 +71,13 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: fix: close LRUCache and ColumnFamilyOptions](https://github.com/besu-eth/besu/pull/10456#pullrequestreview-4260946769) - 2026-05-11
 * [Review] [Review on: fix: incremental frontierRootHash to avoid O(N²) on pre-Byzantium blocks](https://github.com/besu-eth/besu/pull/10220#pullrequestreview-4261233939) - 2026-05-11
 * [Review] [Review on: Fix snap/2 encoding and response size limits](https://github.com/besu-eth/besu/pull/10391#pullrequestreview-4260993271) - 2026-05-11
+* [Review] [Review on: Add latest EIP-8037 spec to Amsterdam](https://github.com/besu-eth/besu/pull/10396#pullrequestreview-4270948502) - 2026-05-12
+* [Review] [Review on: feat: Add cross-block code caching for improved performance](https://github.com/besu-eth/besu/pull/10390#pullrequestreview-4271155723) - 2026-05-12
+* [Pull Request] [add cross block cache for trie nodes](https://github.com/besu-eth/besu/pull/10489) - 2026-05-12
+* [Pull Request] [Add the possibility to pass a custom data storage configuration during reference tests](https://github.com/besu-eth/besu/pull/10483) - 2026-05-12
+* [Review] [Review on: Add the possibility to pass a custom data storage configuration during reference tests](https://github.com/besu-eth/besu/pull/10483#pullrequestreview-4271298403) - 2026-05-12
+* [Review] [Review on: Add gradle task to run custom tests](https://github.com/besu-eth/besu/pull/10488#pullrequestreview-4271362166) - 2026-05-12
+* [Commit] [Add the possibility to pass a custom data storage configuration during reference tests (#10483)](https://github.com/besu-eth/besu/commit/9fcf3cc4aa746b84d0e0eaab86a00a0263f5b374) - 2026-05-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

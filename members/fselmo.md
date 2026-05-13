@@ -59,6 +59,10 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(spec-specs, tests): 8037 more 2d edge cases](https://github.com/ethereum/execution-specs/pull/2735#pullrequestreview-4252753970) - 2026-05-08
 * [Pull Request] [fix(spec,test):  align with latest EIP-8037 auth refund changes](https://github.com/ethereum/execution-specs/pull/2836) - 2026-05-11
 * [Pull Request] [feat(test): Increase BAL coverage with tests and BAL expectations for some existing](https://github.com/ethereum/execution-specs/pull/2834) - 2026-05-11
+* [Review] [Review on: feat(test): Increase BAL coverage with tests and BAL expectations for some existing](https://github.com/ethereum/execution-specs/pull/2834#pullrequestreview-4273280817) - 2026-05-12
+* [Review] [Review on: feat(benchmarks): add eth transfer cases for repricing](https://github.com/ethereum/execution-specs/pull/2837#pullrequestreview-4274715549) - 2026-05-12
+* [Review] [Review on: fix(ported_static): fork-conditional gas bumps for ~340 EIP-8037 Amsterdam tests](https://github.com/ethereum/execution-specs/pull/2839#pullrequestreview-4274695452) - 2026-05-12
+* [Review] [Review on: feat(spec-specs, tests): remove SD state gas refunds from EIP-8037](https://github.com/ethereum/execution-specs/pull/2845#pullrequestreview-4274605011) - 2026-05-12
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14

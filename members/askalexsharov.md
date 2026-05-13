@@ -497,6 +497,18 @@ Team: Erigon
 * [Review] [Review on: Revert "db/version: enforce upper-bound file version check (#20722)"](https://github.com/erigontech/erigon/pull/21103#pullrequestreview-4263772581) - 2026-05-11
 * [Pull Request] [db/kv/mdbx: comment on 9K roTxsLimiter target](https://github.com/erigontech/erigon/pull/21094) - 2026-05-11
 * [Commit] [db/kv/mdbx: comment on 9K roTxsLimiter target (#21094)](https://github.com/erigontech/erigon/commit/18db6e025f6fa0ecf6f1c8b96919522831eaed41) - 2026-05-11
+* [Pull Request] [exec: separate tickers of logging and membatch-size-check ](https://github.com/erigontech/erigon/pull/21125) - 2026-05-12
+* [Review] [Review on: execution: fix 73 failing tests in benchmark shards](https://github.com/erigontech/erigon/pull/21160#pullrequestreview-4277634941) - 2026-05-13
+* [Pull Request] [claude: add rules from release/3.4 (branch-naming, lint-fixes)](https://github.com/erigontech/erigon/pull/21126) - 2026-05-12
+* [Review] [Review on: execution: fix 37 failing state tests on stable shard](https://github.com/erigontech/erigon/pull/21124#pullrequestreview-4269373502) - 2026-05-12
+* [Pull Request] [[WIP] ci: add actionlint, zizmor, shellcheck to lint job](https://github.com/erigontech/erigon/pull/21127) - 2026-05-12
+* [Review] [Review on: tracers: fix Stop/GetResult race in native tracers](https://github.com/erigontech/erigon/pull/21123#pullrequestreview-4269080949) - 2026-05-12
+* [Review] [Review on: rpc/gasprice: avoid feeHistory tip allocations](https://github.com/erigontech/erigon/pull/21121#pullrequestreview-4269444549) - 2026-05-12
+* [Issue] [ci: fix pre-existing zizmor security findings (template-injection, cache-poisoning, permissions)](https://github.com/erigontech/erigon/issues/21132) - 2026-05-12
+* [Issue] [ci: fix shellcheck warnings in workflow inline scripts, re-enable actionlint shellcheck integration](https://github.com/erigontech/erigon/issues/21128) - 2026-05-12
+* [Commit] [exec: separate tickers of logging and membatch-size-check  (#21125)](https://github.com/erigontech/erigon/commit/aa2523e0994712207675c5b161d054964c96f803) - 2026-05-13
+* [Commit] [claude: add rules from release/3.4 (branch-naming, lint-fixes) (#21126)](https://github.com/erigontech/erigon/commit/36a1c8e7ee5ceae443a058355d62852bdcae2594) - 2026-05-12
+* [Commit] [recsplit: sharded FuseFilter (#20644)](https://github.com/erigontech/erigon/commit/be36d4fc166e031d55ab9a5c570c77ada83f0716) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

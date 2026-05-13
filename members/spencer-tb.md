@@ -76,6 +76,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec,test): update bal-devnet-7 EIP-8037 bytes values; CPSB 1174 -> 1530](https://github.com/ethereum/execution-specs/pull/2827#pullrequestreview-4259962162) - 2026-05-10
 * [Pull Request] [chore(tests): stop mutating parametrize values in EL request helpers](https://github.com/ethereum/execution-specs/pull/2833) - 2026-05-11
 * [Commit] [chore(tests): stop mutating parametrize values in EL request helpers (#2833)](https://github.com/ethereum/execution-specs/commit/f3557261908f5dea21bbcab2f49ca3bec13c7869) - 2026-05-11
+* [Review] [Review on: fix(ported_static): fork-conditional gas bumps for ~340 EIP-8037 Amsterdam tests](https://github.com/ethereum/execution-specs/pull/2839#pullrequestreview-4274267336) - 2026-05-12
+* [Pull Request] [feat(spec-specs, tests): remove SD state gas refunds from EIP-8037](https://github.com/ethereum/execution-specs/pull/2845) - 2026-05-12
+* [Review] [Review on: fix(spec,test):  align with latest EIP-8037 auth refund changes](https://github.com/ethereum/execution-specs/pull/2836#pullrequestreview-4272185826) - 2026-05-12
+* [Issue] [SFI EIPs Merge to `forks/amsterdam`](https://github.com/ethereum/execution-specs/issues/2846) - 2026-05-12
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 
@@ -115,12 +119,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Update EIP-8037: Clarify SSTORE restoration refund rollback semantics](https://github.com/ethereum/EIPs/commit/9493cd502540bb5b50e01aa3708835fb87fce0bc) - 2026-04-20
 * [Review] [Review on: Update EIP-7723: update SFI definition based on ACDT#74](https://github.com/ethereum/EIPs/pull/11475#pullrequestreview-4243004106) - 2026-05-07
 * [Commit] [Update EIP-7773: SFI 8 EL Amsterdam EIPs](https://github.com/ethereum/EIPs/commit/ffebcbc15d49445bbc8d59021d85484ef9d7a69c) - 2026-05-11
+* [Review] [Review on: Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540#pullrequestreview-4273874837) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4112057595) - 2026-04-15
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/engine: make `SetBlock` robust for reorg chains](https://github.com/ethereum/hive/pull/1395#pullrequestreview-4129638641) - 2026-04-17
 * [Review] [Review on: clients/go-ethereum: restore amsterdam entry in blobSchedule](https://github.com/ethereum/hive/pull/1452#pullrequestreview-4180204275) - 2026-04-27
+* [Review] [Review on: clients/ethrex: feature-detect --http.api flag](https://github.com/ethereum/hive/pull/1485#pullrequestreview-4274361889) - 2026-05-12
 ## Q1 2026
 
 

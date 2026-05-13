@@ -26,6 +26,12 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Rocksdb database backend](https://github.com/grandinetech/grandine/pull/684) - 2026-05-11
 * [Pull Request] [Rocksdb database backend](https://github.com/grandinetech/grandine/pull/683) - 2026-05-11
 * [Review] [Review on: Fix pool attestation benchmark](https://github.com/grandinetech/grandine/pull/681#pullrequestreview-4261549960) - 2026-05-11
+
+[grandinetech/rust-kzg](https://github.com/grandinetech/rust-kzg)
+* [Pull Request] [Add new MSM algorithms](https://github.com/grandinetech/rust-kzg/pull/327) - 2026-05-12
+* [Commit] [Add new MSM algorithms](https://github.com/grandinetech/rust-kzg/commit/e0260b236eb451311adc4fb55b4b3c9779900cf3) - 2026-05-12
+* [Commit] [Optimize batch addition performance](https://github.com/grandinetech/rust-kzg/commit/014b889e4da2462068de01e5109c4dd748ed82a0) - 2026-05-12
+* [Commit] [Added tests & benchmarks for batch addition](https://github.com/grandinetech/rust-kzg/commit/e04a3b52d065ae98293cf93d7aadc3c6a1404be4) - 2026-05-12
 ## Q1 2026
 
 

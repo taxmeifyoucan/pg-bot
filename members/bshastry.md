@@ -13,6 +13,10 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [test(tests-eip-8024): end-of-code stack underflow regression](https://github.com/ethereum/execution-specs/pull/2741) - 2026-04-21
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [ci: add fork-author guard to evm-opcode-benchmark-diff workflow](https://github.com/NethermindEth/nethermind/pull/11576) - 2026-05-12
+* [Commit] [ci: add fork-author guard to evm-opcode-benchmark-diff workflow (#11576)](https://github.com/NethermindEth/nethermind/commit/4c8b45d3bf247f0f40c961b9b5d33e3cb4aeb9a2) - 2026-05-12
 ## Q1 2026
 
 

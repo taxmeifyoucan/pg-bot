@@ -126,6 +126,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: dedupe persistent-merkle-tree to recover hashtree hasher](https://github.com/ChainSafe/lodestar/pull/9352) - 2026-05-11
 * [Review] [Review on: fix: dedupe persistent-merkle-tree to recover hashtree hasher](https://github.com/ChainSafe/lodestar/pull/9352#pullrequestreview-4260901561) - 2026-05-11
 * [Commit] [fix: dedupe persistent-merkle-tree to recover hashtree hasher (#9352)](https://github.com/ChainSafe/lodestar/commit/899087b3b2187663a48a32956b634b769c299c38) - 2026-05-11
+* [Review] [Review on: feat: add beacon_blocks_by_head reqresp](https://github.com/ChainSafe/lodestar/pull/9331#pullrequestreview-4277544179) - 2026-05-13
+* [Review] [Review on: fix(sync): use rate-limit backoff metadata](https://github.com/ChainSafe/lodestar/pull/9354#pullrequestreview-4271265815) - 2026-05-12
+* [Issue] [glamsterdam-devnet-3: lodestar tries downloading from the same peer over and over again](https://github.com/ChainSafe/lodestar/issues/9357) - 2026-05-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
@@ -134,6 +137,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: support multi-threaded RefCount](https://github.com/ChainSafe/lodestar-z/pull/62) - 2026-04-17
 * [Commit] [fix: support multi-threaded RefCount (#62)](https://github.com/ChainSafe/lodestar-z/commit/28edb161478f2e45a00f0418624e97028ad38b3b) - 2026-04-17
+* [Review] [Review on: feat: asyncAggregateWithRandomness](https://github.com/ChainSafe/lodestar-z/pull/353#pullrequestreview-4269081704) - 2026-05-12
+* [Issue] [Memory Safety Review](https://github.com/ChainSafe/lodestar-z/issues/357) - 2026-05-12
 ## Q1 2026
 
 

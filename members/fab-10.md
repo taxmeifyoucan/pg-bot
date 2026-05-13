@@ -70,6 +70,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [WIP: engine API refactor](https://github.com/besu-eth/besu/pull/10428) - 2026-05-06
 * [Pull Request] [Refactor engine_forkchoiceUpdated into sealed version hierarchy](https://github.com/besu-eth/besu/pull/10475) - 2026-05-11
 * [Issue] [EIP-8070: eth/72 - Sparse Blobpool](https://github.com/besu-eth/besu/issues/10474) - 2026-05-11
+* [Review] [Review on: Refactor `engine_forkchoiceUpdated` into sealed version hierarchy](https://github.com/besu-eth/besu/pull/10475#pullrequestreview-4272712853) - 2026-05-12
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

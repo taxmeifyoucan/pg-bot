@@ -35,6 +35,7 @@ Team: Erigon
 * [Issue] [Performance regression on the chain tip](https://github.com/erigontech/erigon/issues/21008) - 2026-05-06
 * [Issue] [CL committee related warnings](https://github.com/erigontech/erigon/issues/21009) - 2026-05-06
 * [Review] [Review on: ci: matrix-test serial vs parallel exec across the test workflows](https://github.com/erigontech/erigon/pull/21017#pullrequestreview-4242706916) - 2026-05-07
+* [Issue] [execution fails due to "nonce too low" error](https://github.com/erigontech/erigon/issues/21133) - 2026-05-12
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10

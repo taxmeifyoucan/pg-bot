@@ -41,6 +41,8 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 * [Pull Request] [Limit test group size for comptests](https://github.com/ethereum/consensus-specs/pull/5193) - 2026-04-29
 * [Commit] [Restore `viable_for_head_roots_and_weights` for gloas (#5195)](https://github.com/ethereum/consensus-specs/commit/ecbb89228f1c1dd6686b9752634fa882d092ef08) - 2026-04-29
 * [Commit] [Limit test group size for comptests (#5193)](https://github.com/ethereum/consensus-specs/commit/19eefe28c8e479336873e2d8f5281baa27e13711) - 2026-04-29
+* [Pull Request] [Fix fork-choice comptest attester slashing limit](https://github.com/ethereum/consensus-specs/pull/5239) - 2026-05-12
+* [Commit] [Fix fork-choice comptest attester slashing limit (#5239)](https://github.com/ethereum/consensus-specs/commit/c99ef33a68d252b7eff742cbc5dd1d2cc5008c52) - 2026-05-12
 ## Q1 2026
 
 

@@ -369,6 +369,19 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Make RefundOnContractCollision overridable for Arbitrum plugin needs](https://github.com/NethermindEth/nethermind/pull/11554#pullrequestreview-4262642091) - 2026-05-11
 * [Review] [Review on: ci: split build from test to lower peak memory; keep swap](https://github.com/NethermindEth/nethermind/pull/11549#pullrequestreview-4262168114) - 2026-05-11
 * [Commit] [docs(agents): guideline for avoiding test duplication (#11546)](https://github.com/NethermindEth/nethermind/commit/78fc2a125a5e9be8d82f398071bccd28d2c0a3d0) - 2026-05-11
+* [Review] [Review on: `eth_sign` improvemetns & `eth_account` is implemented flag fix](https://github.com/NethermindEth/nethermind/pull/11574#pullrequestreview-4273603111) - 2026-05-12
+* [Review] [Review on: ci: add fork-author guard to evm-opcode-benchmark-diff workflow](https://github.com/NethermindEth/nethermind/pull/11576#pullrequestreview-4273765909) - 2026-05-12
+* [Review] [Review on: feat(chainspec): support shanghai/cancun/prague/osaka hardfork labels](https://github.com/NethermindEth/nethermind/pull/11553#pullrequestreview-4273794100) - 2026-05-12
+* [Review] [Review on: Use generic decoding results for block and tx; remove IRlpObjectDecoder](https://github.com/NethermindEth/nethermind/pull/10759#pullrequestreview-4269901349) - 2026-05-12
+* [Review] [Review on: Absent system acc is not created on touch](https://github.com/NethermindEth/nethermind/pull/11575#pullrequestreview-4273544076) - 2026-05-12
+* [Review] [Review on: fix(rpc): return unavailable for missing trie nodes](https://github.com/NethermindEth/nethermind/pull/11564#pullrequestreview-4269721403) - 2026-05-12
+* [Review] [Review on: fix: eth62 queue on disconnect](https://github.com/NethermindEth/nethermind/pull/11572#pullrequestreview-4273197296) - 2026-05-12
+* [Review] [Review on: Bal devnet 7](https://github.com/NethermindEth/nethermind/pull/11561#pullrequestreview-4271226573) - 2026-05-12
+* [Review] [Review on: Handle IPAddress JSON](https://github.com/NethermindEth/nethermind/pull/11571#pullrequestreview-4272371299) - 2026-05-12
+* [Pull Request] [test: stabilize getPayloadV1 improving-blocks and Simple_test_sync](https://github.com/NethermindEth/nethermind/pull/11568) - 2026-05-12
+* [Review] [Review on: XDC Fix sync ](https://github.com/NethermindEth/nethermind/pull/11562#pullrequestreview-4270283592) - 2026-05-12
+* [Review] [Review on: Minor fixes from AI audit #2](https://github.com/NethermindEth/nethermind/pull/11563#pullrequestreview-4269706412) - 2026-05-12
+* [Commit] [test: stabilize getPayloadV1 improving-blocks and Simple_test_sync (#11568)](https://github.com/NethermindEth/nethermind/commit/0b19902ab7bdfbc175269732590a8549033d4637) - 2026-05-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

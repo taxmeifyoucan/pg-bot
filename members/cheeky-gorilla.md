@@ -46,6 +46,16 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #57 from protocolguild/staging3](https://github.com/protocolguild/protocol-guild-site/commit/3f3c631fc0a5787812805c9a305bb1c2d854026b) - 2026-04-13
 * [Pull Request] [Add Agora blog post](https://github.com/protocolguild/protocol-guild-site/pull/58) - 2026-05-06
 * [Commit] [Merge pull request #58 from protocolguild/temp-blog](https://github.com/protocolguild/protocol-guild-site/commit/57bb488de449de0006abdf109988a77bbbe968d5) - 2026-05-06
+* [Pull Request] [Add Aztec blog](https://github.com/protocolguild/protocol-guild-site/pull/59) - 2026-05-12
+* [Commit] [Update learn more's](https://github.com/protocolguild/protocol-guild-site/commit/dff49484f3b93fcfe630993dcdd71cbca3e4cc3a) - 2026-05-12
+* [Commit] [Add Twitter - Aztec blog](https://github.com/protocolguild/protocol-guild-site/commit/e9c3e20e6456384ef6638edca6f1b9cf6f0c6546) - 2026-05-12
+* [Commit] [Add donation tx - Aztec blog](https://github.com/protocolguild/protocol-guild-site/commit/ab8bd960890d8945b6e6c46dec816c59a5e202d0) - 2026-05-12
+* [Commit] [Add Aztec](https://github.com/protocolguild/protocol-guild-site/commit/3ebbb1da3fca3952152616dbf01e3331832f02ea) - 2026-05-12
+* [Commit] [Add Aztec](https://github.com/protocolguild/protocol-guild-site/commit/5251283956c754596a5ac6ae46f93024427a77a6) - 2026-05-12
+* [Commit] [Merge pull request #59 from protocolguild/temp-blog2](https://github.com/protocolguild/protocol-guild-site/commit/f225f5dae6da1f431a1c059d4197d4531c2b0994) - 2026-05-12
+* [Commit] [Add Aztec blog](https://github.com/protocolguild/protocol-guild-site/commit/056d10318a1da882540d36f3b5f06caeecad1d45) - 2026-05-12
+* [Commit] [Add Aztec blog](https://github.com/protocolguild/protocol-guild-site/commit/3adbefe4108cea27b8d51295a6f2c47b57c72442) - 2026-05-12
+* [Commit] [Add Aztec logo](https://github.com/protocolguild/protocol-guild-site/commit/b0be624f87037e89330147e12457fe55f151385e) - 2026-05-12
 ## Q1 2026
 
 

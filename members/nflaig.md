@@ -208,6 +208,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: upgrade pnpm to v11](https://github.com/ChainSafe/lodestar/pull/9299#pullrequestreview-4265211766) - 2026-05-11
 * [Review] [Review on: fix: dedupe persistent-merkle-tree to recover hashtree hasher](https://github.com/ChainSafe/lodestar/pull/9352#pullrequestreview-4261383392) - 2026-05-11
 * [Review] [Review on: docs: update RELEASE.md](https://github.com/ChainSafe/lodestar/pull/9172#pullrequestreview-4261605224) - 2026-05-11
+* [Review] [Review on: chore: remove unused flare package](https://github.com/ChainSafe/lodestar/pull/9358#pullrequestreview-4273209190) - 2026-05-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -274,6 +275,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add executable gossip validation functions for deneb](https://github.com/ethereum/consensus-specs/pull/5146#pullrequestreview-4267628943) - 2026-05-11
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4266773003) - 2026-05-11
 * [Pull Request] [Add `target_gas_limit` to `PayloadAttributes`](https://github.com/ethereum/consensus-specs/pull/5235) - 2026-05-11
+* [Review] [Review on: Check gas limit consistency with the target](https://github.com/ethereum/consensus-specs/pull/5236#pullrequestreview-4270773780) - 2026-05-12
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 
