@@ -123,6 +123,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: catch the first column gossip addition event for getBlobs](https://github.com/status-im/nimbus-eth2/pull/8393#pullrequestreview-4269464565) - 2026-05-12
 * [Review] [Review on: fix: apply parent execution requests before proposal](https://github.com/status-im/nimbus-eth2/pull/8421#pullrequestreview-4269321683) - 2026-05-12
 * [Review] [Review on: add batch validation path for column to speedup gossip validaiton](https://github.com/status-im/nimbus-eth2/pull/8314#pullrequestreview-4269000799) - 2026-05-12
+* [Pull Request] [align two Gloas state transition functions with alpha.7 spec](https://github.com/status-im/nimbus-eth2/pull/8440) - 2026-05-14
+* [Pull Request] [stop syncing pre-Fulu blobs](https://github.com/status-im/nimbus-eth2/pull/8439) - 2026-05-13
+* [Review] [Review on: avoid copies of sidecars across the codebase](https://github.com/status-im/nimbus-eth2/pull/8437#pullrequestreview-4284606951) - 2026-05-13
+* [Review] [Review on: catch the first column gossip addition event for getBlobs](https://github.com/status-im/nimbus-eth2/pull/8393#pullrequestreview-4284569821) - 2026-05-13
+* [Review] [Review on: deprecate blob sidecar support in block publishing paths](https://github.com/status-im/nimbus-eth2/pull/8434#pullrequestreview-4279755422) - 2026-05-13
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

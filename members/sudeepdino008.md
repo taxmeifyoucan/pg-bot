@@ -168,6 +168,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [fix error message for Versions.MustSupport  (#21101)](https://github.com/erigontech/erigon/commit/0dcc895d08699b2238a8b19389f3f7c557fd08fd) - 2026-05-11
 * [Commit] [cmd/integration/commands: force unbounded domain merge for commitment rebuild (#21105)](https://github.com/erigontech/erigon/commit/ddf60f0513041206309f2baf4960f5342f0a3ed1) - 2026-05-11
 * [Review] [Review on: [r3.4] perf cherry-picks: commitment rebuild resume, seg retire merge, kv integrity](https://github.com/erigontech/erigon/pull/21135#pullrequestreview-4271343285) - 2026-05-12
+* [Review] [Review on: db/state: introduce DirtyFiles and visibleFiles types with batch methods](https://github.com/erigontech/erigon/pull/21076#pullrequestreview-4278832421) - 2026-05-13
+* [Review] [Review on: db/state: encapsulate worker state into 1 struct](https://github.com/erigontech/erigon/pull/21075#pullrequestreview-4280704313) - 2026-05-13
 ## Q1 2026
 
 

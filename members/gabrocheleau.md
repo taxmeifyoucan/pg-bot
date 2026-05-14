@@ -31,6 +31,12 @@ Team: EthereumJS
 * [Pull Request] [feat: EIP-8037 (State Creation Gas Cost Increase) — scaffolding + partial implementation](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4285) - 2026-05-06
 * [Pull Request] [evm/vm: EIP-8037 follow-ups (parametric CPSB, 7702 auth refund, SD storage refund, system call split)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4287) - 2026-05-07
 * [Issue] [Consider enabling npm min-release-age for supply chain protection](https://github.com/ethereumjs/ethereumjs-monorepo/issues/4289) - 2026-05-12
+* [Pull Request] [evm/vm: EIP-8037 v7 fixtures (param bump + spill/auth/top-level-create refunds)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4293) - 2026-05-13
+* [Pull Request] [chore: point dev fixtures to bal@v7.0.0](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4292) - 2026-05-13
+* [Pull Request] [chore: add .npmrc with min-release-age=3 days](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4291) - 2026-05-13
+* [Commit] [chore: point dev fixtures to bal@v7.0.0 (#4292)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/535e43564141ae446ecd73b57728c03ebe86d3fc) - 2026-05-13
+* [Commit] [feat: EIP-8037 (State Creation Gas Cost Increase)  (#4285)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/9beaec8cec99d54f99d1ce25dd4ce150b065399c) - 2026-05-13
+* [Commit] [chore: add .npmrc with min-release-age=3 (#4291)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/c52caf7659949d43a78d54f31071e0df9c1f7f6c) - 2026-05-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 ## Q1 2026

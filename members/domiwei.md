@@ -44,6 +44,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl, downloader: suppress context-canceled warnings on shutdown (#21051)](https://github.com/erigontech/erigon/commit/9415441fd8ed4b36454c73aa268d3d1b7f2d8215) - 2026-05-08
 * [Review] [Review on: cl/forkchoice: key optimistic store by blockRoot](https://github.com/erigontech/erigon/pull/21110#pullrequestreview-4270206646) - 2026-05-12
 * [Issue] [cl/forkchoice: HasEnvelope used as proxy for is_payload_verified in GLOAS fork choice](https://github.com/erigontech/erigon/issues/21131) - 2026-05-12
+* [Commit] [cl: implement GLOAS (EIP-7732 ePBS) for Caplin (#18956)](https://github.com/erigontech/erigon/commit/f3ad70f1f7c59949e3f749022d5510aac936395e) - 2026-05-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

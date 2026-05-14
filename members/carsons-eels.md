@@ -22,6 +22,9 @@ Github: [@carsons-eels](https://github.com/carsons-eels)
 * [Review] [Review on: feat(tests): Add EIP-7708 checks to 6780 tests](https://github.com/ethereum/execution-specs/pull/2743#pullrequestreview-4181174616) - 2026-04-27
 * [Commit] [fix(spec): fix bad formatting indroduced by large refactor (#2763)](https://github.com/ethereum/execution-specs/commit/1fdd7e327fc81fd3e79041d80b03330fe5b42bfb) - 2026-04-27
 * [Pull Request] [feat(spec-specs, spec-tests): add EIP-7708 ETH transfers emit a log](https://github.com/ethereum/execution-specs/pull/2844) - 2026-05-12
+* [Pull Request] [feat(spec-specs, tests): add EIP-7954 Increase Maximum Contract Size](https://github.com/ethereum/execution-specs/pull/2850) - 2026-05-13
+* [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7708 ETH transfers emit a log](https://github.com/ethereum/execution-specs/pull/2844#pullrequestreview-4278064046) - 2026-05-13
+* [Commit] [feat(spec-specs, spec-tests): add EIP-7708 ETH transfers emit a log (#2844)](https://github.com/ethereum/execution-specs/commit/2037311529b307e7029004f26dd3471eec364fcd) - 2026-05-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489) - 2026-04-10
 

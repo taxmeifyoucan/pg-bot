@@ -161,6 +161,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [Add debug_traceCallMany RPC method](https://github.com/besu-eth/besu/issues/10479) - 2026-05-12
 * [Issue] [debug_getModifiedAccountsByHash and debug_getModifiedAccountsByNumber RPC methods](https://github.com/besu-eth/besu/issues/10480) - 2026-05-12
 * [Commit] [fix: rename balHash JSON key to blockAccessListHash in block results (#10373)](https://github.com/besu-eth/besu/commit/22671fa742c55acb0695364680391cb62575e091) - 2026-05-12
+* [Review] [Review on: Fix eth/71 BlockAccessLists wire encoding](https://github.com/besu-eth/besu/pull/10497#pullrequestreview-4286864442) - 2026-05-14
+* [Review] [Review on: Enable NullAway static null-safety analysis for datatypes module](https://github.com/besu-eth/besu/pull/10394#pullrequestreview-4286703867) - 2026-05-14
+* [Pull Request] [testing_buildBlockV1: exclude null fields from result](https://github.com/besu-eth/besu/pull/10492) - 2026-05-13
+* [Review] [Review on: testing_buildBlockV1: exclude null fields from result](https://github.com/besu-eth/besu/pull/10492#pullrequestreview-4278518797) - 2026-05-13
+* [Review] [Review on: fix flaky PeerDiscoveryAgentV5Test.shouldEvictPeerWhenPermissionsRevoked](https://github.com/besu-eth/besu/pull/10494#pullrequestreview-4280264157) - 2026-05-13
+* [Issue] [flaky test PeerDiscoveryAgentV5Test](https://github.com/besu-eth/besu/issues/10493) - 2026-05-13
+* [Commit] [Fix/engine new payload invalid request type (#10484)](https://github.com/besu-eth/besu/commit/63382aefeb0cd31f0cc7e623cfb7c1363263fa54) - 2026-05-13
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

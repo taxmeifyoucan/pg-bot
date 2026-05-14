@@ -98,6 +98,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Simplify ForkChoiceNotifierImpl](https://github.com/Consensys/teku/issues/10690) - 2026-05-11
 * [Commit] [devnet2 stack 01 Stabilize fork-choice state during block production (#10683)](https://github.com/Consensys/teku/commit/dc831040c995cbdb5274d85d315970cbc1382c8d) - 2026-05-11
 * [Commit] [devnet2 stack 02 execution payload (#10684)](https://github.com/Consensys/teku/commit/c86c77ea073082ef40fc74da871343d2ea8b37ad) - 2026-05-12
+* [Review] [Review on:   Added timeout to DAS availability check with graceful expiry](https://github.com/Consensys/teku/pull/10694#pullrequestreview-4283675720) - 2026-05-13
+* [Review] [Review on: Update google java format to the latest](https://github.com/Consensys/teku/pull/10697#pullrequestreview-4284883507) - 2026-05-13
+* [Review] [Review on: Fix external provider store test](https://github.com/Consensys/teku/pull/10696#pullrequestreview-4284483812) - 2026-05-13
+* [Review] [Review on: devnet2 stack 04 parent consistency](https://github.com/Consensys/teku/pull/10686#pullrequestreview-4283262451) - 2026-05-13
+* [Issue] [Remote\Local bid comparison](https://github.com/Consensys/teku/issues/10695) - 2026-05-13
+* [Commit] [devnet2 stack 04 parent consistency (#10686)](https://github.com/Consensys/teku/commit/2ddef103b8880f32e709dfd6014cc08d5f7196dd) - 2026-05-13
+* [Commit] [devnet2 stack 03 gloas builder (#10685)](https://github.com/Consensys/teku/commit/598fe45c01d00c75d993387476b2d93ad876ea0e) - 2026-05-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

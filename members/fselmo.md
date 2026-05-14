@@ -63,6 +63,13 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(benchmarks): add eth transfer cases for repricing](https://github.com/ethereum/execution-specs/pull/2837#pullrequestreview-4274715549) - 2026-05-12
 * [Review] [Review on: fix(ported_static): fork-conditional gas bumps for ~340 EIP-8037 Amsterdam tests](https://github.com/ethereum/execution-specs/pull/2839#pullrequestreview-4274695452) - 2026-05-12
 * [Review] [Review on: feat(spec-specs, tests): remove SD state gas refunds from EIP-8037](https://github.com/ethereum/execution-specs/pull/2845#pullrequestreview-4274605011) - 2026-05-12
+* [Pull Request] [test(tests): inter-dependent tx tests for BAL parallelization](https://github.com/ethereum/execution-specs/pull/2851) - 2026-05-13
+* [Review] [Review on: test(tests): inter-dependent tx tests for BAL parallelization](https://github.com/ethereum/execution-specs/pull/2851#pullrequestreview-4286039553) - 2026-05-13
+* [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7843 SLOTNUM opcode](https://github.com/ethereum/execution-specs/pull/2853#pullrequestreview-4285967957) - 2026-05-13
+* [Pull Request] [test(tests): extend BALs coverage](https://github.com/ethereum/execution-specs/pull/2854) - 2026-05-13
+* [Review] [Review on: feat(tests, spec-specs): refill auth state gas on delegation clear for EIP-8037](https://github.com/ethereum/execution-specs/pull/2848#pullrequestreview-4282689026) - 2026-05-13
+* [Commit] [feat(test-cli): Add support for testing block building via simulator (#2679)](https://github.com/ethereum/execution-specs/commit/d61f7ac51d5fb058186e9d75013d763fe5aabdb6) - 2026-05-13
+* [Commit] [feat(test): Increase BAL coverage with tests and BAL expectations for some existing (#2834)](https://github.com/ethereum/execution-specs/commit/e45c0eda7c4d4a66efce430c93acd7a07ee94215) - 2026-05-13
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14

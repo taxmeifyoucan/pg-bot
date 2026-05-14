@@ -377,6 +377,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: workflows/release: tag after artifact checks](https://github.com/erigontech/erigon/pull/21073#pullrequestreview-4272545580) - 2026-05-12
 * [Review] [Review on: docs: May 2026 w20 — v3.4.1 update [main/gitbook]](https://github.com/erigontech/erigon/pull/21130#pullrequestreview-4273438715) - 2026-05-12
 * [Issue] [Complete testing of parallel commitment and turn it on as default](https://github.com/erigontech/erigon/issues/21137) - 2026-05-12
+* [Review] [Review on: execution/vm: add --use-gevm flag to opt-in to GEVM as the EVM](https://github.com/erigontech/erigon/pull/21158#pullrequestreview-4280566325) - 2026-05-13
+* [Pull Request] [.github: update CODEOWNERS](https://github.com/erigontech/erigon/pull/21169) - 2026-05-13
+* [Review] [Review on: [r3.4] execution/stagedsync: find diffset by actually-executed hash on unwind](https://github.com/erigontech/erigon/pull/21157#pullrequestreview-4280980565) - 2026-05-13
+* [Review] [Review on: rpc: implement eth_capabilities method](https://github.com/erigontech/erigon/pull/20951#pullrequestreview-4281129557) - 2026-05-13
+* [Review] [Review on: execution: fix unwind edge cases for parallel exec and add benchmark-parallel exec shards to CI](https://github.com/erigontech/erigon/pull/21163#pullrequestreview-4280875313) - 2026-05-13
+* [Review] [Review on: docs: refresh stale source paths in programmer and RTD guides](https://github.com/erigontech/erigon/pull/21139#pullrequestreview-4279540249) - 2026-05-13
+* [Review] [Review on: ci: matrix-test serial vs parallel exec across the test workflows](https://github.com/erigontech/erigon/pull/21017#pullrequestreview-4280819259) - 2026-05-13
+* [Review] [Review on: execution/tracing: forward system call hooks through mux and provide VMContext on system call start](https://github.com/erigontech/erigon/pull/20948#pullrequestreview-4281188824) - 2026-05-13
+* [Review] [Review on: docs: document erigondb domain merge cap flag [main]](https://github.com/erigontech/erigon/pull/21130#pullrequestreview-4281052600) - 2026-05-13
+* [Issue] [Switch to GEVM](https://github.com/erigontech/erigon/issues/21167) - 2026-05-13
+* [Commit] [.github: update CODEOWNERS (#21169)](https://github.com/erigontech/erigon/commit/7e41ff294b6ff214dc4a6777aad4951e0c0a38b8) - 2026-05-14
+* [Commit] [docs/site: fix Dependabot npm alerts via overrides (#21168)](https://github.com/erigontech/erigon/commit/71acfeae548d54748cb4c7c10b825d8c4f5d2629) - 2026-05-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

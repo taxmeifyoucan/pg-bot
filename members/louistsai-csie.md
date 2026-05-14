@@ -86,6 +86,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(spec-spec, tests): Implement eip-8246 and testing scenario](https://github.com/ethereum/execution-specs/pull/2842) - 2026-05-12
 * [Pull Request] [experiment(test-benchmark): migrate benchmark to bal-devnet-7](https://github.com/ethereum/execution-specs/pull/2841) - 2026-05-12
 * [Pull Request] [feat(spec-specs, tests): merge eip-7778 into `forks/amsterdam`](https://github.com/ethereum/execution-specs/pull/2840) - 2026-05-12
+* [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7778 block gas accounting without refunds](https://github.com/ethereum/execution-specs/pull/2840#pullrequestreview-4283490047) - 2026-05-13
+* [Review] [Review on: feat(benchmarks): add eth transfer cases for repricing](https://github.com/ethereum/execution-specs/pull/2837#pullrequestreview-4282509144) - 2026-05-13
+* [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7708 ETH transfers emit a log](https://github.com/ethereum/execution-specs/pull/2844#pullrequestreview-4278671386) - 2026-05-13
+* [Commit] [feat(spec-specs, spec-tests): add EIP-7778 block gas accounting without refunds (#2840)](https://github.com/ethereum/execution-specs/commit/cd8c9815985f40e4a3486f388d764357d33b5c24) - 2026-05-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 ## Q1 2026

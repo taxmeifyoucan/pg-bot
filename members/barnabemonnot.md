@@ -13,6 +13,7 @@ Team: Robust Incentives Group (RIG)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Yann Vonlanthen from Protocol Consensus](https://github.com/protocolguild/documentation/pull/493#pullrequestreview-4114444731) - 2026-04-15
+* [Pull Request] [Remove Barnabé Monnot from Protocol Architecture](https://github.com/protocolguild/documentation/pull/498) - 2026-05-13
 ## Q2 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

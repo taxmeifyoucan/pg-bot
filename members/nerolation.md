@@ -44,6 +44,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-8131: Add empirical impact report](https://github.com/ethereum/EIPs/pull/11628) - 2026-05-08
 * [Commit] [Update EIP-8131: Add empirical impact report](https://github.com/ethereum/EIPs/commit/7ea4ed579a193cbc271662a55ad7d51924d2d81d) - 2026-05-08
 * [Pull Request] [Update EIP-7862: Add Delayed State Root to PFI](https://github.com/ethereum/EIPs/pull/11637) - 2026-05-10
+* [Pull Request] [Update EIP-8141: Add EXPIRY_VERIFIER frame for tx expiry](https://github.com/ethereum/EIPs/pull/11662) - 2026-05-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11

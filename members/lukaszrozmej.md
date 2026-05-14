@@ -382,6 +382,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: XDC Fix sync ](https://github.com/NethermindEth/nethermind/pull/11562#pullrequestreview-4270283592) - 2026-05-12
 * [Review] [Review on: Minor fixes from AI audit #2](https://github.com/NethermindEth/nethermind/pull/11563#pullrequestreview-4269706412) - 2026-05-12
 * [Commit] [test: stabilize getPayloadV1 improving-blocks and Simple_test_sync (#11568)](https://github.com/NethermindEth/nethermind/commit/0b19902ab7bdfbc175269732590a8549033d4637) - 2026-05-12
+* [Review] [Review on: feat(init): auto-detect active state backend at startup](https://github.com/NethermindEth/nethermind/pull/11404#pullrequestreview-4278821999) - 2026-05-13
+* [Review] [Review on: Use generic decoding results for block and tx; remove IRlpObjectDecoder](https://github.com/NethermindEth/nethermind/pull/10759#pullrequestreview-4282575125) - 2026-05-13
+* [Review] [Review on: `eth_signTransaction` eliminate allocations & improvements](https://github.com/NethermindEth/nethermind/pull/11587#pullrequestreview-4282439453) - 2026-05-13
+* [Review] [Review on: Align EIP-8037 gas accounting with BAL tests v7.1.0](https://github.com/NethermindEth/nethermind/pull/11579#pullrequestreview-4281931825) - 2026-05-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

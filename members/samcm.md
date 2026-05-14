@@ -35,6 +35,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(output): add s3blobstore sink for blob sidecar archival](https://github.com/ethpandaops/xatu/pull/826) - 2026-05-13
 * [Pull Request] [consumoor: add disabledTables config to skip output tables](https://github.com/ethpandaops/xatu/pull/824) - 2026-05-12
 * [Review] [Review on: feat: wire ePBS gossipsub producers for the 4 Gloas topics](https://github.com/ethpandaops/xatu/pull/823#pullrequestreview-4268775885) - 2026-05-12
+* [Pull Request] [feat(local): swap xatu-server to direct kafka output with protobuf](https://github.com/ethpandaops/xatu/pull/834) - 2026-05-14
+* [Pull Request] [feat: capture fast_confirmation beacon-api event in sentry](https://github.com/ethpandaops/xatu/pull/830) - 2026-05-13
+* [Pull Request] [feat: capture fast_confirmation beacon-api event in sentry](https://github.com/ethpandaops/xatu/pull/829) - 2026-05-13
+* [Pull Request] [chore: swap go-eth2-client to ethpandaops fork v0.1.2](https://github.com/ethpandaops/xatu/pull/828) - 2026-05-13
+* [Review] [Review on: feat: PTC vote three-state breakdown + EIP-7843 slot_number coverage](https://github.com/ethpandaops/xatu/pull/827#pullrequestreview-4278004576) - 2026-05-13
+* [Commit] [chore: swap go-eth2-client to ethpandaops fork v0.1.2 (#828)](https://github.com/ethpandaops/xatu/commit/ca4ae309f1a789442e491278e075a572c6d6d0d4) - 2026-05-13
+* [Commit] [feat(output): add s3blobstore sink for blob sidecar archival](https://github.com/ethpandaops/xatu/commit/a8390f63b188352391323af6dfbcbebd6499cc0c) - 2026-05-13
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23

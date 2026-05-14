@@ -64,6 +64,10 @@ Team: Geth
 * [Review] [Review on: node: default OpenTelemetry SampleRatio to 1.0](https://github.com/ethereum/go-ethereum/pull/34948#pullrequestreview-4272681616) - 2026-05-12
 * [Review] [Review on: cmd/abigen: respect --v2=false](https://github.com/ethereum/go-ethereum/pull/34943#pullrequestreview-4272319029) - 2026-05-12
 * [Review] [Review on: accounts/abi: fix unittest code](https://github.com/ethereum/go-ethereum/pull/34740#pullrequestreview-4272380667) - 2026-05-12
+* [Review] [Review on: core, consensus, internal, eth, miner: construct block accessList](https://github.com/ethereum/go-ethereum/pull/34957#pullrequestreview-4284324190) - 2026-05-13
+* [Pull Request] [core/types/bal: add additional static validation for access lists](https://github.com/ethereum/go-ethereum/pull/34967) - 2026-05-13
+* [Review] [Review on: core/types/bal: add additional static validation for access lists](https://github.com/ethereum/go-ethereum/pull/34967#pullrequestreview-4286131090) - 2026-05-13
+* [Review] [Review on: core/state: track the block-level accessList](https://github.com/ethereum/go-ethereum/pull/34803#pullrequestreview-4281655914) - 2026-05-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

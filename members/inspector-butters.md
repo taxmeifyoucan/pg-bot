@@ -33,6 +33,9 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [boundary slot check for state diff cache](https://github.com/OffchainLabs/prysm/pull/16760) - 2026-05-06
 * [Review] [Review on: Include `ptc_window` in gloas debug state v2 response](https://github.com/OffchainLabs/prysm/pull/16736#pullrequestreview-4234463008) - 2026-05-06
 * [Review] [Review on: Harden execution payload envelope nil checks](https://github.com/OffchainLabs/prysm/pull/16718#pullrequestreview-4244899653) - 2026-05-07
+* [Pull Request] [Move SaveState() timing metric](https://github.com/OffchainLabs/prysm/pull/16783) - 2026-05-13
+* [Review] [Review on: Move SaveState() timing metric](https://github.com/OffchainLabs/prysm/pull/16783#pullrequestreview-4281472458) - 2026-05-13
+* [Commit] [Move SaveState() timing metric (#16783)](https://github.com/OffchainLabs/prysm/commit/e31e0c19e3de83db7b6d721b8c078ce235e4fdb4) - 2026-05-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

@@ -27,6 +27,7 @@ Team: Grandine
 * [Review] [Review on: Update rust toolchain to 1.95.0](https://github.com/grandinetech/grandine/pull/672#pullrequestreview-4161349431) - 2026-04-23
 * [Review] [Review on: Test full epoch processing](https://github.com/grandinetech/grandine/pull/680#pullrequestreview-4243835980) - 2026-05-07
 * [Review] [Review on: fix: include block hash in Gloas genesis block](https://github.com/grandinetech/grandine/pull/679#pullrequestreview-4252519488) - 2026-05-08
+* [Pull Request] [Use separate DB for storing blobs](https://github.com/grandinetech/grandine/pull/685) - 2026-05-13
 ## Q1 2026
 
 

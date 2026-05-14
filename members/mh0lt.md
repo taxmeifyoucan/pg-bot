@@ -155,6 +155,10 @@ Team: Erigon
 * [Pull Request] [execution/stagedsync: install the per-block changeset accumulator before any of the block's writes](https://github.com/erigontech/erigon/pull/21145) - 2026-05-12
 * [Issue] [Parallel-exec: route the per-tx writeset through one faithful path; remove normalizeWriteSet/calcState; carry serial-finalize signals on ExecutionResult](https://github.com/erigontech/erigon/issues/21138) - 2026-05-12
 * [Issue] [Parallel-exec: residual functional failures skipped to land the exec-mode CI matrix](https://github.com/erigontech/erigon/issues/21136) - 2026-05-12
+* [Pull Request] [execution/stagedsync: fix parallel-exec BAL race from duplicate coinbase BalancePath write in finalize](https://github.com/erigontech/erigon/pull/21177) - 2026-05-13
+* [Pull Request] [execution/stagedsync: use applyTx for commitment txNum to avoid stale fallback](https://github.com/erigontech/erigon/pull/21174) - 2026-05-13
+* [Review] [Review on: execution: fix unwind edge cases for parallel exec and add benchmark-parallel exec shards to CI](https://github.com/erigontech/erigon/pull/21163#pullrequestreview-4279276638) - 2026-05-13
+* [Commit] [execution/stagedsync: use applyTx for commitment txNum to avoid stale fallback (#21174)](https://github.com/erigontech/erigon/commit/448a0828b563184f002bf8d1f300c50c41e0429a) - 2026-05-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

@@ -39,6 +39,8 @@ Team: Geth
 * [Review] [Review on: Add EIP: Keyed Nonces for Frame Transactions](https://github.com/ethereum/EIPs/pull/11598#pullrequestreview-4266605816) - 2026-05-11
 * [Commit] [Update EIP-8141: Frames cleanup (#11621)](https://github.com/ethereum/EIPs/commit/235d5056eea9df33be7517a9c48872cd2eca2971) - 2026-05-11
 * [Review] [Review on: Update EIP-8141: Support atomic batching with any frames](https://github.com/ethereum/EIPs/pull/11652#pullrequestreview-4274768366) - 2026-05-12
+* [Pull Request] [Update EIP-7851: Few tweaks to 7851 and 8151](https://github.com/ethereum/EIPs/pull/11661) - 2026-05-13
+* [Commit] [Update EIP-7851: Few tweaks to 7851 and 8151](https://github.com/ethereum/EIPs/commit/3010b58ba1d15abb754a499aa87a52e580765031) - 2026-05-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4105687607) - 2026-04-14
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113766865) - 2026-04-15

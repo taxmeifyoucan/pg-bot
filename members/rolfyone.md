@@ -54,6 +54,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Add JaCoCo coverage reporting for unit and reference tests](https://github.com/Consensys/teku/pull/10692) - 2026-05-11
 * [Review] [Review on: Add JaCoCo coverage reporting for unit and reference tests](https://github.com/Consensys/teku/pull/10692#pullrequestreview-4268005556) - 2026-05-11
 * [Pull Request] [  Added timeout to DAS availability check with graceful expiry](https://github.com/Consensys/teku/pull/10694) - 2026-05-12
+* [Pull Request] [Avoid completing SSE async context directly](https://github.com/Consensys/teku/pull/10699) - 2026-05-13
+* [Review] [Review on:   Added timeout to DAS availability check with graceful expiry](https://github.com/Consensys/teku/pull/10694#pullrequestreview-4284915780) - 2026-05-13
+* [Pull Request] [Avoid signing execution-optimistic validator duties](https://github.com/Consensys/teku/pull/10698) - 2026-05-13
+* [Commit] [Avoid completing SSE async context directly (#10699)](https://github.com/Consensys/teku/commit/b5cdf3518fddddf0d189ef33660a238eec245bd7) - 2026-05-13
+* [Commit] [  Added timeout to DAS availability check with graceful expiry (#10694)](https://github.com/Consensys/teku/commit/43f1a49c8012ed0e02b4da71d318ec65aa364fdc) - 2026-05-13
+* [Commit] [Add JaCoCo coverage reporting for unit and reference tests (#10692)](https://github.com/Consensys/teku/commit/bdda456a3d238d36e65e466baff661081d29e924) - 2026-05-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

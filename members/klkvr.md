@@ -123,6 +123,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(net): model unavailable BALs explicitly](https://github.com/paradigmxyz/reth/pull/24157#pullrequestreview-4274785970) - 2026-05-12
 * [Review] [Review on: feat(rpc): support BAL with block RLP payloads](https://github.com/paradigmxyz/reth/pull/24153#pullrequestreview-4272645361) - 2026-05-12
 * [Commit] [refactor: spawn full block validation (#24160)](https://github.com/paradigmxyz/reth/commit/2c1cb29da7111e1dd8d77abe9bb2e23a75b2da7c) - 2026-05-12
+* [Pull Request] [perf: add and use `Cursor::replace_current`](https://github.com/paradigmxyz/reth/pull/24206) - 2026-05-13
+* [Pull Request] [fix: properly handle dummy blocks in migrate-v2](https://github.com/paradigmxyz/reth/pull/24189) - 2026-05-13
+* [Commit] [feat: retain announced port (#24182)](https://github.com/paradigmxyz/reth/commit/e2dc712cfae154be8e6a41f1b44c8e86188c3992) - 2026-05-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

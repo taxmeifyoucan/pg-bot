@@ -402,6 +402,13 @@ Team: Reth
 * [Commit] [docs(engine): update getPayloadV6 handler docs (#24156)](https://github.com/paradigmxyz/reth/commit/0b9b729690445bd08822b3ac15621d25db867bda) - 2026-05-12
 * [Commit] [feat(rpc): support BAL with block RLP payloads (#24153)](https://github.com/paradigmxyz/reth/commit/e8a5a3cbfb34aea3d31b7a4302791185fa016472) - 2026-05-12
 * [Commit] [fix(net): validate downloaded block access list hashes (#24113)](https://github.com/paradigmxyz/reth/commit/596323794e32798451f53b567be990e918edec82) - 2026-05-12
+* [Review] [Review on: feat(examples): add custom state root example](https://github.com/paradigmxyz/reth/pull/24135#pullrequestreview-4278971333) - 2026-05-13
+* [Review] [Review on: fix: properly handle dummy blocks in migrate-v2](https://github.com/paradigmxyz/reth/pull/24189#pullrequestreview-4283438420) - 2026-05-13
+* [Review] [Review on: fix(reth-bb): stage big block plan for payloads](https://github.com/paradigmxyz/reth/pull/24116#pullrequestreview-4281603237) - 2026-05-13
+* [Commit] [fix(rpc): reuse cached block access lists (#24185)](https://github.com/paradigmxyz/reth/commit/9b6a79ff9c72e467bebcde2369c574cb22927cc7) - 2026-05-13
+* [Commit] [refactor(storage): remove BAL range lookup (#24180)](https://github.com/paradigmxyz/reth/commit/89b39c1c0f31e99dfcc2c072b38701930704218e) - 2026-05-13
+* [Commit] [fix(engine): return BALs in payload range v2 (#24177)](https://github.com/paradigmxyz/reth/commit/d4151617a2d2e573a9e828f0bd56787b210e7098) - 2026-05-13
+* [Commit] [fix(net): bind discovery to net-if address (#24178)](https://github.com/paradigmxyz/reth/commit/06b2d3730ddee66ab45161f3c1cac8857cf218e3) - 2026-05-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

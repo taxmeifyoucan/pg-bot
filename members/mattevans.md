@@ -44,6 +44,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [chore(workflows): update Golang version to 1.26.2 and golangci-lint version to 2.12.2 for consistency and compatibility](https://github.com/ethpandaops/xatu/commit/a814d0faba78782e3188a3701c775174fb06c595) - 2026-05-11
 * [Pull Request] [feat: beacon_synthetic_* events](https://github.com/ethpandaops/xatu/pull/825) - 2026-05-13
 * [Pull Request] [feat: wire ePBS gossipsub producers for the 4 Gloas topics](https://github.com/ethpandaops/xatu/pull/823) - 2026-05-12
+* [Review] [Review on: feat(local): swap xatu-server to direct kafka output with protobuf](https://github.com/ethpandaops/xatu/pull/834#pullrequestreview-4286827000) - 2026-05-14
+* [Pull Request] [feat: add OnPayloadAttestationProcessed observe hook](https://github.com/ethpandaops/xatu/pull/833) - 2026-05-13
+* [Review] [Review on: chore: swap go-eth2-client to ethpandaops fork v0.1.2](https://github.com/ethpandaops/xatu/pull/828#pullrequestreview-4279875215) - 2026-05-13
+* [Review] [Review on: feat(output): add s3blobstore sink for blob sidecar archival](https://github.com/ethpandaops/xatu/pull/826#pullrequestreview-4278103185) - 2026-05-13
+* [Pull Request] [feat: PTC vote three-state breakdown + EIP-7843 slot_number coverage](https://github.com/ethpandaops/xatu/pull/827) - 2026-05-13
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Review] [Review on: feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433#pullrequestreview-4166900256) - 2026-04-23
 

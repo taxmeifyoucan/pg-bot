@@ -95,6 +95,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Add latest EIP-8037 spec to Amsterdam](https://github.com/besu-eth/besu/pull/10396) - 2026-05-02
 * [Review] [Review on: change bal default config](https://github.com/besu-eth/besu/pull/10410#pullrequestreview-4220545064) - 2026-05-04
 * [Review] [Review on: fix prefetcher](https://github.com/besu-eth/besu/pull/10405#pullrequestreview-4217818206) - 2026-05-04
+* [Review] [Review on: Add latest EIP-8037 spec to Amsterdam](https://github.com/besu-eth/besu/pull/10396#pullrequestreview-4280493698) - 2026-05-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

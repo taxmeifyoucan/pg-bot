@@ -80,6 +80,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(spec-specs, tests): remove SD state gas refunds from EIP-8037](https://github.com/ethereum/execution-specs/pull/2845) - 2026-05-12
 * [Review] [Review on: fix(spec,test):  align with latest EIP-8037 auth refund changes](https://github.com/ethereum/execution-specs/pull/2836#pullrequestreview-4272185826) - 2026-05-12
 * [Issue] [SFI EIPs Merge to `forks/amsterdam`](https://github.com/ethereum/execution-specs/issues/2846) - 2026-05-12
+* [Pull Request] [feat(tests, spec-specs): refill auth state gas on delegation clear for EIP-8037](https://github.com/ethereum/execution-specs/pull/2848) - 2026-05-13
+* [Pull Request] [feat(tests): EIP-8037 create OOG state gas boundary coverage](https://github.com/ethereum/execution-specs/pull/2847) - 2026-05-13
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

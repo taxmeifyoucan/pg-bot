@@ -98,6 +98,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): cover EIP-7708 CREATE log rollback on outer revert](https://github.com/ethereum/execution-specs/pull/2785#pullrequestreview-4261245297) - 2026-05-11
 * [Commit] [feat(test-cli): always print full pytest command in ci & add to summary (#2719)](https://github.com/ethereum/execution-specs/commit/44923d4bcdbcaa48ef1536a453c390a0ebf08220) - 2026-05-11
 * [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7708 ETH transfers emit a log](https://github.com/ethereum/execution-specs/pull/2844#pullrequestreview-4275897499) - 2026-05-12
+* [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7778 block gas accounting without refunds](https://github.com/ethereum/execution-specs/pull/2840#pullrequestreview-4282097743) - 2026-05-13
+* [Pull Request] [refactor(tests): replace runtime skip in EIP-7778 calldata test](https://github.com/ethereum/execution-specs/pull/2852) - 2026-05-13
+* [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7708 ETH transfers emit a log](https://github.com/ethereum/execution-specs/pull/2844#pullrequestreview-4279379614) - 2026-05-13
+* [Issue] [Replace invalid field `gas_used` in expected_receipts in 7778 test](https://github.com/ethereum/execution-specs/issues/2855) - 2026-05-13
+* [Commit] [refactor(tests): Use `filter_combinations` marker to drop infeasible cell in `test_varying_calldata_costs` (#2852)](https://github.com/ethereum/execution-specs/commit/cc8022a2340a55a825f44b8db9105785a4cbb83f) - 2026-05-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 

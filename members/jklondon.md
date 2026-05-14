@@ -58,6 +58,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: exec: separate tickers of logging and membatch-size-check ](https://github.com/erigontech/erigon/pull/21125#pullrequestreview-4275011767) - 2026-05-12
 * [Review] [Review on: claude: add rules from release/3.4 (branch-naming, lint-fixes)](https://github.com/erigontech/erigon/pull/21126#pullrequestreview-4271221730) - 2026-05-12
 * [Pull Request] [recsplit: sharded FuseFilter (cherry-pick #20644)](https://github.com/erigontech/erigon/pull/21144) - 2026-05-12
+* [Review] [Review on: [r3.4] execution/stagedsync: find diffset by actually-executed hash on unwind](https://github.com/erigontech/erigon/pull/21157#pullrequestreview-4279597086) - 2026-05-13
+* [Commit] [db/recsplit: set ExistenceFilterVersion to 1 (#21164)](https://github.com/erigontech/erigon/commit/ee507cee2f6a6614acf896c0e75093181ec78c0f) - 2026-05-13
 ## Q1 2026
 
 

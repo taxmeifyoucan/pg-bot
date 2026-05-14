@@ -98,6 +98,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 
+* [Review] [Review on: feat(tests, spec-specs): refill auth state gas on delegation clear for EIP-8037](https://github.com/ethereum/execution-specs/pull/2848#pullrequestreview-4282609265) - 2026-05-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8175: CALL/CREATE capabilities, fee_auth, and new opcodes](https://github.com/ethereum/EIPs/pull/11490) - 2026-04-06
 * [Commit] [Update EIP-8175: CALL/CREATE capabilities, fee_auth, and new opcodes](https://github.com/ethereum/EIPs/commit/8bb55846b3d4f3fe4efc542a818b8c17a472074d) - 2026-04-06

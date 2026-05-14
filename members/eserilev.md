@@ -82,6 +82,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Dont penalize payload envelope peers after gossip verification](https://github.com/sigp/lighthouse/pull/9283#pullrequestreview-4263567044) - 2026-05-11
 * [Review] [Review on: chore: remove builder_index from produce_block_v4](https://github.com/sigp/lighthouse/pull/9267#pullrequestreview-4264780497) - 2026-05-11
 * [Pull Request] [`ignore-ws-check` flag doesnt allow the node to start outside the weak subjectivity period](https://github.com/sigp/lighthouse/pull/9290) - 2026-05-12
+* [Pull Request] [Gloas add spans for deposit signature verification](https://github.com/sigp/lighthouse/pull/9302) - 2026-05-13
+* [Issue] [Disable priming proposer shuffling cache during checkpoint sync](https://github.com/sigp/lighthouse/issues/9299) - 2026-05-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

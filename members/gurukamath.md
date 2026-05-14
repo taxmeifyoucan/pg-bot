@@ -24,6 +24,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [fix(justfile): make json-loader pytest step collect filled fixtures (#2754)](https://github.com/ethereum/execution-specs/commit/5a2cba1c787fe8ece487dfed7bca8e9a4dc95f2e) - 2026-04-26
 * [Review] [Review on: refactor(specs): port state refactor to older forks](https://github.com/ethereum/execution-specs/pull/2750#pullrequestreview-4263870415) - 2026-05-11
 * [Commit] [refactor(specs): port state refactor to older forks (#2750)](https://github.com/ethereum/execution-specs/commit/87c52b41144feac9b42b7b8913a147571d5553c5) - 2026-05-12
+* [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7778 block gas accounting without refunds](https://github.com/ethereum/execution-specs/pull/2840#pullrequestreview-4281315794) - 2026-05-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332#pullrequestreview-4152757786) - 2026-04-22
 * [Commit] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/commit/c550387e917485af69a6999aea45270a555e2eb7) - 2026-04-22

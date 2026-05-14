@@ -129,6 +129,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add beacon_blocks_by_head reqresp](https://github.com/ChainSafe/lodestar/pull/9331#pullrequestreview-4277544179) - 2026-05-13
 * [Review] [Review on: fix(sync): use rate-limit backoff metadata](https://github.com/ChainSafe/lodestar/pull/9354#pullrequestreview-4271265815) - 2026-05-12
 * [Issue] [glamsterdam-devnet-3: lodestar tries downloading from the same peer over and over again](https://github.com/ChainSafe/lodestar/issues/9357) - 2026-05-12
+* [Pull Request] [fix: handle ptc votes from same duplicated validators](https://github.com/ChainSafe/lodestar/pull/9369) - 2026-05-14
+* [Pull Request] [fix: do not range sync the same peer again](https://github.com/ChainSafe/lodestar/pull/9360) - 2026-05-13
+* [Review] [Review on: fix: do not range sync the same peer again](https://github.com/ChainSafe/lodestar/pull/9360#pullrequestreview-4278179577) - 2026-05-13
+* [Pull Request] [feat: assert chain segment in range sync](https://github.com/ChainSafe/lodestar/pull/9361) - 2026-05-13
+* [Review] [Review on: feat: assert chain segment in range sync](https://github.com/ChainSafe/lodestar/pull/9361#pullrequestreview-4279085162) - 2026-05-13
+* [Review] [Review on: fix(sync): use rate-limit backoff metadata](https://github.com/ChainSafe/lodestar/pull/9354#pullrequestreview-4279103959) - 2026-05-13
+* [Issue] [glamsterdam-devnet-3:  Error emitting head event](https://github.com/ChainSafe/lodestar/issues/9365) - 2026-05-13
+* [Commit] [fix: do not range sync the same peer again (#9360)](https://github.com/ChainSafe/lodestar/commit/c9dc2b2332c9900172b1bc9b9fb88cad844ce02b) - 2026-05-13
+* [Commit] [feat: assert chain segment in range sync (#9361)](https://github.com/ChainSafe/lodestar/commit/ac258a8def970097cbc2b03111c6c994db7baf83) - 2026-05-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

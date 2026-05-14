@@ -219,6 +219,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [miner: supply a slot number when synthesising pending block post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/34790) - 2026-04-22
 * [Pull Request] [miner: supply a slot number when synthesising pending block post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/34791) - 2026-04-22
 * [Pull Request] [node: default OpenTelemetry SampleRatio to 1.0](https://github.com/ethereum/go-ethereum/pull/34948) - 2026-05-12
+* [Commit] [node: default OpenTelemetry SampleRatio to 1.0 (#34948)](https://github.com/ethereum/go-ethereum/commit/da34eb59fdee4b0d12e3cf0b8a5e5b3546cb0632) - 2026-05-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Pin Docker base image to debian:trixie-slim; add ca-certificates](https://github.com/status-im/nimbus-eth2/pull/8310) - 2026-04-21
 

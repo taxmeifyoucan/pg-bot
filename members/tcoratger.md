@@ -157,9 +157,17 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [feat(merkle-tree): add Merkle path pruning for compact multi-opening proofs (#1544)](https://github.com/Plonky3/Plonky3/commit/c307e950dafc1a0b66a3be3cb521975b5bbf3aa7) - 2026-05-11
 * [Commit] [test(field): cover packed-extension Div with per-lane consistency check (#1624)](https://github.com/Plonky3/Plonky3/commit/ba22d49a0257ad9cdbd178834f8b84e21feaf455) - 2026-05-11
 * [Review] [Review on: fix: leverage packing for `Powers`](https://github.com/Plonky3/Plonky3/pull/1639#pullrequestreview-4273309596) - 2026-05-12
+* [Review] [Review on: [HVZK-WHIR 3/6] HVZK sumcheck with sublinear masks](https://github.com/Plonky3/Plonky3/pull/1605#pullrequestreview-4282331862) - 2026-05-13
+* [Review] [Review on: feat: add WASM32 SIMD128 support for Goldilocks](https://github.com/Plonky3/Plonky3/pull/1644#pullrequestreview-4280022292) - 2026-05-13
+* [Review] [Review on: fix: faster packed than scalar Goldilocks MDS layer for poseidon1](https://github.com/Plonky3/Plonky3/pull/1645#pullrequestreview-4279910108) - 2026-05-13
+* [Review] [Review on: ci: reduce WHIR test cost](https://github.com/Plonky3/Plonky3/pull/1641#pullrequestreview-4278220930) - 2026-05-13
+* [Review] [Review on: test(whir): BCSS25 proximity gap validation + UniqueDecoding log_eta fix](https://github.com/Plonky3/Plonky3/pull/1631#pullrequestreview-4278643826) - 2026-05-13
+* [Review] [Review on: symmetric: assert MultiField32Pad10 const parameters](https://github.com/Plonky3/Plonky3/pull/1638#pullrequestreview-4278211929) - 2026-05-13
+* [Issue] [Land STIR as a low-degree test alongside FRI/WHIR](https://github.com/Plonky3/Plonky3/issues/1647) - 2026-05-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05
+* [Issue] [Post-Quantum (PQ) Interop #39, May 13, 2026](https://github.com/ethereum/pm/issues/2055) - 2026-05-13
 ## Q1 2026
 
 

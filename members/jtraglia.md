@@ -224,6 +224,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Fix fork-choice comptest attester slashing limit](https://github.com/ethereum/consensus-specs/pull/5239#pullrequestreview-4272434905) - 2026-05-12
 * [Commit] [Add executable gossip validation functions for electra (#5238)](https://github.com/ethereum/consensus-specs/commit/0e70a492d3e7a8dd64ca3be28916187264327e78) - 2026-05-12
 * [Commit] [Remove separate `VERSION.txt` file (#5242)](https://github.com/ethereum/consensus-specs/commit/02978f3a2b6bc397f223b4b7cdf0ef1546e9492a) - 2026-05-12
+* [Review] [Review on: Redesign Fork Choice abstractions](https://github.com/ethereum/consensus-specs/pull/5249#pullrequestreview-4284328408) - 2026-05-13
+* [Review] [Review on: Implement improvements to comptests generator](https://github.com/ethereum/consensus-specs/pull/5247#pullrequestreview-4281688939) - 2026-05-13
+* [Review] [Review on: Fix `on_execution_payload_envelope` tests](https://github.com/ethereum/consensus-specs/pull/5244#pullrequestreview-4278406240) - 2026-05-13
+* [Pull Request] [Add executable gossip validation functions for fulu](https://github.com/ethereum/consensus-specs/pull/5246) - 2026-05-13
+* [Commit] [Add package action (#5243)](https://github.com/ethereum/consensus-specs/commit/4f597a4bb68fb00accca4dde242a4f1dc0844ec7) - 2026-05-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

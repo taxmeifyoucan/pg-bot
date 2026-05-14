@@ -31,6 +31,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [deprecate blob sidecar support in block publishing paths](https://github.com/status-im/nimbus-eth2/pull/8434) - 2026-05-12
 * [Review] [Review on: catch the first column gossip addition event for getBlobs](https://github.com/status-im/nimbus-eth2/pull/8393#pullrequestreview-4270363409) - 2026-05-12
 * [Review] [Review on: Fix ColumnQuarantine to start  use correct amount of supernode columns.](https://github.com/status-im/nimbus-eth2/pull/8417#pullrequestreview-4272368929) - 2026-05-12
+* [Pull Request] [avoid copies of sidecars across the codebase](https://github.com/status-im/nimbus-eth2/pull/8437) - 2026-05-13
+* [Review] [Review on: Add MissingTable for quarantines](https://github.com/status-im/nimbus-eth2/pull/8407#pullrequestreview-4281244722) - 2026-05-13
+* [Pull Request] [add beacon blocks by head](https://github.com/status-im/nimbus-eth2/pull/8436) - 2026-05-13
+* [Review] [Review on: deprecate blob sidecar support in block publishing paths](https://github.com/status-im/nimbus-eth2/pull/8434#pullrequestreview-4281218553) - 2026-05-13
 ## Q1 2026
 
 

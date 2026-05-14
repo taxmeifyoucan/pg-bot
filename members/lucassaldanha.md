@@ -66,11 +66,20 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Fetch payload by root when missing (attestation and block processing)](https://github.com/Consensys/teku/issues/10669) - 2026-05-01
 * [Commit] [Fix decoder reuse after dispose in RPC response decoding (#10667)](https://github.com/Consensys/teku/commit/c05af0eaa0533dc8f40a330eb46f39084b30b680) - 2026-05-01
 * [Review] [Review on: Add JaCoCo coverage reporting for unit and reference tests](https://github.com/Consensys/teku/pull/10692#pullrequestreview-4267979774) - 2026-05-11
+* [Pull Request] [QUIC transport: ENR-based peer discovery, preferred QUIC dialing, and optional TCP disable](https://github.com/Consensys/teku/pull/10700) - 2026-05-14
+* [Review] [Review on: Avoid completing SSE async context directly](https://github.com/Consensys/teku/pull/10699#pullrequestreview-4285930217) - 2026-05-13
+* [Review] [Review on: Add JaCoCo coverage reporting for unit and reference tests](https://github.com/Consensys/teku/pull/10692#pullrequestreview-4278424762) - 2026-05-13
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
 * [Review] [Review on: update codeowners file](https://github.com/Consensys/discovery/pull/220#pullrequestreview-4167257351) - 2026-04-24
 * [Review] [Review on: remove gradle config from renovate](https://github.com/Consensys/discovery/pull/223#pullrequestreview-4210443410) - 2026-05-01
+* [Pull Request] [Fix concurrent local ENR custom field updates](https://github.com/Consensys/discovery/pull/229) - 2026-05-13
+* [Review] [Review on: fix: track multiple pending WHOAREYOU challenges during handshake](https://github.com/Consensys/discovery/pull/230#pullrequestreview-4278400890) - 2026-05-13
+* [Pull Request] [Created Claude config](https://github.com/Consensys/discovery/pull/231) - 2026-05-13
+* [Issue] [Track multiple pending WHOAREYOU challenges during handshake](https://github.com/Consensys/discovery/issues/228) - 2026-05-13
+* [Commit] [Fix concurrent local ENR custom field updates (#229)](https://github.com/Consensys/discovery/commit/f85f30525e40f9aa2c58698573b3358cd292bae0) - 2026-05-14
+* [Commit] [Created Claude config (#231)](https://github.com/Consensys/discovery/commit/a70b108a6ccc59d1cf15b87dcefa8ff55e4503fb) - 2026-05-13
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459) - 2026-04-20
 * [Pull Request] [Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/454) - 2026-04-20
@@ -100,6 +109,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Gossipsub partial messages — full implementation (Steps 1–10)](https://github.com/libp2p/jvm-libp2p/pull/473) - 2026-04-29
 * [Pull Request] [Filter backoff peers in subscribe() and make v1.3 honour backoff/IDONTWANT](https://github.com/libp2p/jvm-libp2p/pull/472) - 2026-04-29
 * [Commit] [Filter backoff peers in subscribe() and make v1.3 honour backoff/IDONTWANT (#472)](https://github.com/libp2p/jvm-libp2p/commit/ddbf62a36eee04e1db5299861b54ba1fd86d8a99) - 2026-04-29
+* [Pull Request] [Addressing gaps identified on QUIC implementation](https://github.com/libp2p/jvm-libp2p/pull/476) - 2026-05-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

@@ -51,6 +51,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Correctly name devnet-2 genesis and introduce devnet-3 genesis](https://github.com/NethermindEth/gas-benchmarks/pull/139) - 2026-04-22
 
+* [Pull Request] [Add extra optional withdrawals to prefund EOAs](https://github.com/NethermindEth/gas-benchmarks/pull/144) - 2026-05-13
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: cmd/geth, core/state, tests: rework EIP7610 check](https://github.com/ethereum/go-ethereum/pull/34718#pullrequestreview-4239466921) - 2026-05-06
 ## Q1 2026

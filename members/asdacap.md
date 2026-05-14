@@ -190,6 +190,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: XDC Fix sync ](https://github.com/NethermindEth/nethermind/pull/11562#pullrequestreview-4270249783) - 2026-05-12
 * [Review] [Review on: Minor fixes from AI audit #2](https://github.com/NethermindEth/nethermind/pull/11563#pullrequestreview-4269030340) - 2026-05-12
 * [Review] [Review on: feat: add SkipMetricsTracking property to DbSettings](https://github.com/NethermindEth/nethermind/pull/11515#pullrequestreview-4269435973) - 2026-05-12
+* [Review] [Review on: feat(init): auto-detect active state backend at startup](https://github.com/NethermindEth/nethermind/pull/11404#pullrequestreview-4281857114) - 2026-05-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

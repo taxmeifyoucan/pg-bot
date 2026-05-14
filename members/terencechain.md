@@ -142,6 +142,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add gloas epoch processing spec tests (#16768)](https://github.com/OffchainLabs/prysm/commit/da3fa0c69a8399ea57fc098099e0271e4fee5022) - 2026-05-12
 * [Commit] [Add gloas operations spec tests (#16769)](https://github.com/OffchainLabs/prysm/commit/f953322a03fdb125b44028a380cd4662d2d38b5b) - 2026-05-12
 * [Commit] [Strip stack trace from Downscore peer log reason field (#16776)](https://github.com/OffchainLabs/prysm/commit/2760c072ecb4599adb98e8ae4100b1dd99c405d0) - 2026-05-12
+* [Pull Request] [Glamsterdam devnet 3 deposits](https://github.com/OffchainLabs/prysm/pull/16788) - 2026-05-13
+* [Pull Request] [Don't downscore block peer on envelope mismatch from different peer](https://github.com/OffchainLabs/prysm/pull/16785) - 2026-05-13
+* [Pull Request] [do not review: pre verify envelope deposits](https://github.com/OffchainLabs/prysm/pull/16787) - 2026-05-13
+* [Commit] [Don't downscore block peer on envelope mismatch from different peer (#16785)](https://github.com/OffchainLabs/prysm/commit/69c6c6d9c38338a2b65c56b63d2fda8e924a3a2b) - 2026-05-13
+* [Commit] [Add gloas fork choice spec tests (#16771)](https://github.com/OffchainLabs/prysm/commit/6962cb327a7f7af8c6fc2fb78751d199ca7b8fd0) - 2026-05-13
+* [Commit] [Don't punish the block peer when the envelope response is empty and is a different peeer (#16779)](https://github.com/OffchainLabs/prysm/commit/7218bd102a95fee5019b0f2b640c074496f4d11e) - 2026-05-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

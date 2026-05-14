@@ -71,6 +71,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Refactor engine_forkchoiceUpdated into sealed version hierarchy](https://github.com/besu-eth/besu/pull/10475) - 2026-05-11
 * [Issue] [EIP-8070: eth/72 - Sparse Blobpool](https://github.com/besu-eth/besu/issues/10474) - 2026-05-11
 * [Review] [Review on: Refactor `engine_forkchoiceUpdated` into sealed version hierarchy](https://github.com/besu-eth/besu/pull/10475#pullrequestreview-4272712853) - 2026-05-12
+* [Pull Request] [refactor: introduce PreparePayloadArgs builder for MergeMiningCoordinator.preparePayload](https://github.com/besu-eth/besu/pull/10496) - 2026-05-13
+* [Pull Request] [Add support for fail on unknown JSON properties unless are null](https://github.com/besu-eth/besu/pull/10495) - 2026-05-13
+* [Review] [Review on: Add support for fail on unknown JSON properties unless are null](https://github.com/besu-eth/besu/pull/10495#pullrequestreview-4281994800) - 2026-05-13
+* [Review] [Review on: Add txsSelectionHighScore metric for per-included-tx selection time](https://github.com/besu-eth/besu/pull/10265#pullrequestreview-4281777016) - 2026-05-13
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

@@ -64,6 +64,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [fix(publish-release): keep gh release download in workspace cwd](https://github.com/besu-eth/besu/pull/10490) - 2026-05-12
 * [Commit] [feat(publish-release): add workflow_dispatch trigger, gated via environment (#10491)](https://github.com/besu-eth/besu/commit/c8ca8a029a7feef70a10fc82afd97d6317aebdfd) - 2026-05-12
 * [Commit] [fix(publish-release): keep gh release download in workspace cwd (#10490)](https://github.com/besu-eth/besu/commit/be72aa2ae9fca47dfe5a00abf5d8117d01f4c972) - 2026-05-12
+* [Review] [Review on: Fix/engine new payload invalid request type](https://github.com/besu-eth/besu/pull/10484#pullrequestreview-4284759651) - 2026-05-13
+* [Review] [Review on: refactor: introduce PreparePayloadArgs builder for MergeMiningCoordinator.preparePayload](https://github.com/besu-eth/besu/pull/10496#pullrequestreview-4285255241) - 2026-05-13
+* [Review] [Review on: Add support for fail on unknown JSON properties unless are null](https://github.com/besu-eth/besu/pull/10495#pullrequestreview-4284923707) - 2026-05-13
+* [Review] [Review on: Enable NullAway static null-safety analysis for ethereum:rlp module](https://github.com/besu-eth/besu/pull/10397#pullrequestreview-4284698422) - 2026-05-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 * [Issue] [Encrypt The Mempool #4, May 13, 2026](https://github.com/ethereum/pm/issues/2054) - 2026-05-12

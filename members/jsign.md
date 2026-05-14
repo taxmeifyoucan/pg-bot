@@ -61,6 +61,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [feat: update dependencies for ere-guests (#282)](https://github.com/eth-act/zkevm-benchmark-workload/commit/1a6ae1414f45e7a64e274469c95b9b2b3b251df2) - 2026-04-27
 * [Pull Request] [update EEST benchmark release reference](https://github.com/eth-act/zkevm-benchmark-workload/pull/283) - 2026-05-05
 * [Commit] [update EEST benchmark release reference (#283)](https://github.com/eth-act/zkevm-benchmark-workload/commit/d216e12d61ba04bd3cd05ce8a0b7bd537e2711df) - 2026-05-05
+* [Pull Request] [Update to ere@v0.9.1 and ere-guests@v0.10.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/284) - 2026-05-13
+* [Review] [Review on: Update to ere@v0.9.1 and ere-guests@v0.10.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/284#pullrequestreview-4285050719) - 2026-05-13
+* [Commit] [Update to ere@v0.9.1 and ere-guests@v0.10.0 (#284)](https://github.com/eth-act/zkevm-benchmark-workload/commit/073561e92735994e27e5b87ee4e6941d0c83ff76) - 2026-05-13
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08

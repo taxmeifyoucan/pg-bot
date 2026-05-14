@@ -36,6 +36,8 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Add new `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD_GLOAS` preset](https://github.com/ethereum/consensus-specs/pull/5224#pullrequestreview-4257041512) - 2026-05-09
 * [Review] [Review on: Raise `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 8192 epochs](https://github.com/ethereum/consensus-specs/pull/5223#pullrequestreview-4257034755) - 2026-05-09
 * [Commit] [Modify `notify_forkchoice_updated` (#5197)](https://github.com/ethereum/consensus-specs/commit/57b4a975b5b1bebd9ec9178193cbaa94678762ed) - 2026-05-09
+* [Pull Request] [Redesign Fork Choice abstractions](https://github.com/ethereum/consensus-specs/pull/5249) - 2026-05-13
+* [Review] [Review on: Redesign Fork Choice abstractions](https://github.com/ethereum/consensus-specs/pull/5249#pullrequestreview-4284376970) - 2026-05-13
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

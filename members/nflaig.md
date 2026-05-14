@@ -209,6 +209,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: dedupe persistent-merkle-tree to recover hashtree hasher](https://github.com/ChainSafe/lodestar/pull/9352#pullrequestreview-4261383392) - 2026-05-11
 * [Review] [Review on: docs: update RELEASE.md](https://github.com/ChainSafe/lodestar/pull/9172#pullrequestreview-4261605224) - 2026-05-11
 * [Review] [Review on: chore: remove unused flare package](https://github.com/ChainSafe/lodestar/pull/9358#pullrequestreview-4273209190) - 2026-05-12
+* [Review] [Review on: fix(ci): install caxa via npx to unblock binary release under pnpm v11](https://github.com/ChainSafe/lodestar/pull/9367#pullrequestreview-4284800575) - 2026-05-13
+* [Review] [Review on: chore(deps): bump systeminformation from 5.30.8 to 5.31.6](https://github.com/ChainSafe/lodestar/pull/9366#pullrequestreview-4284190386) - 2026-05-13
+* [Pull Request] [fix: improve error handling for invalid execution payloads from gossip](https://github.com/ChainSafe/lodestar/pull/9363) - 2026-05-13
+* [Review] [Review on: fix: improve error handling for invalid execution payloads from gossip](https://github.com/ChainSafe/lodestar/pull/9363#pullrequestreview-4281032769) - 2026-05-13
+* [Review] [Review on: fix: do not range sync the same peer again](https://github.com/ChainSafe/lodestar/pull/9360#pullrequestreview-4281132763) - 2026-05-13
+* [Review] [Review on: feat: add beacon_blocks_by_head reqresp](https://github.com/ChainSafe/lodestar/pull/9331#pullrequestreview-4280154911) - 2026-05-13
+* [Review] [Review on: feat: assert chain segment in range sync](https://github.com/ChainSafe/lodestar/pull/9361#pullrequestreview-4280212919) - 2026-05-13
+* [Issue] [Add handler for new `on_payload_attestation_message` tests](https://github.com/ChainSafe/lodestar/issues/9364) - 2026-05-13
+* [Commit] [fix: improve error handling for invalid execution payloads from gossip (#9363)](https://github.com/ChainSafe/lodestar/commit/8ad5d8be4cc65ae069a503f1ba9a98d42ead58df) - 2026-05-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -276,6 +285,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4266773003) - 2026-05-11
 * [Pull Request] [Add `target_gas_limit` to `PayloadAttributes`](https://github.com/ethereum/consensus-specs/pull/5235) - 2026-05-11
 * [Review] [Review on: Check gas limit consistency with the target](https://github.com/ethereum/consensus-specs/pull/5236#pullrequestreview-4270773780) - 2026-05-12
+* [Review] [Review on: Remove pre-capella check in BTEC gossip handler](https://github.com/ethereum/consensus-specs/pull/5205#pullrequestreview-4281483645) - 2026-05-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 

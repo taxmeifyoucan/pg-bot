@@ -111,6 +111,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cmd/evm: fix regressions in statetest cmd (#21111)](https://github.com/erigontech/erigon/commit/92d4a28982124c76ece84169529c846cf183e672) - 2026-05-12
 * [Commit] [execution: fix 37 failing state tests on stable shard (#21124)](https://github.com/erigontech/erigon/commit/387384086c50556b3dd5e8f19a4cd2e49813c742) - 2026-05-12
 * [Commit] [execution: extract spec tests out of make test-all (#21092)](https://github.com/erigontech/erigon/commit/4646132492800db836b997ac28e1110c52e3ff9a) - 2026-05-12
+* [Pull Request] [execution: fix unwind edge cases for parallel exec and add benchmark-parallel exec shards to CI](https://github.com/erigontech/erigon/pull/21163) - 2026-05-13
+* [Commit] [execution: fix unwind edge cases for parallel exec and add benchmark-parallel exec shards to CI (#21163)](https://github.com/erigontech/erigon/commit/3ecebba2dffa758de7936bc089f43a6f4ece8d4c) - 2026-05-13
 ## Q1 2026
 
 

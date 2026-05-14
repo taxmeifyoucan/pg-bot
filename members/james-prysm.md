@@ -80,6 +80,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Add gloas epoch processing spec tests](https://github.com/OffchainLabs/prysm/pull/16768#pullrequestreview-4273307364) - 2026-05-12
 * [Review] [Review on: proposer settings updates for proposer preferences validator client side](https://github.com/OffchainLabs/prysm/pull/16762#pullrequestreview-4273664277) - 2026-05-12
 * [Review] [Review on: Add gloas operations spec tests](https://github.com/OffchainLabs/prysm/pull/16769#pullrequestreview-4273625325) - 2026-05-12
+* [Commit] [handle reorgs for proposer preferences (#16651)](https://github.com/OffchainLabs/prysm/commit/9f9bde4303746b6709dfeba3576837577e389355) - 2026-05-13
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

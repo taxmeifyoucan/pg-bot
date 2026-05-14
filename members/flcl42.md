@@ -108,6 +108,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Handle IPAddress JSON](https://github.com/NethermindEth/nethermind/pull/11571) - 2026-05-12
 * [Review] [Review on: test: stabilize getPayloadV1 improving-blocks and Simple_test_sync](https://github.com/NethermindEth/nethermind/pull/11568#pullrequestreview-4271035698) - 2026-05-12
 * [Commit] [Handle IPAddress JSON (#11571)](https://github.com/NethermindEth/nethermind/commit/bb17118406aa73b43227c35cb067d60879371238) - 2026-05-12
+* [Review] [Review on: Update BAL pyspec fixtures to v7.1.1](https://github.com/NethermindEth/nethermind/pull/11595#pullrequestreview-4283769392) - 2026-05-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

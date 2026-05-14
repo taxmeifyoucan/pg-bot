@@ -69,6 +69,10 @@ Team: Erigon
 * [Pull Request] [execution/vm: add --use-gevm flag to opt-in to GEVM as the EVM](https://github.com/erigontech/erigon/pull/21150) - 2026-05-12
 * [Pull Request] [execution/vm: add --use-gevm flag to opt-in to GEVM as the EVM](https://github.com/erigontech/erigon/pull/21158) - 2026-05-13
 * [Review] [Review on: claude: add rules from release/3.4 (branch-naming, lint-fixes)](https://github.com/erigontech/erigon/pull/21126#pullrequestreview-4269545348) - 2026-05-12
+* [Review] [Review on: .github: update CODEOWNERS](https://github.com/erigontech/erigon/pull/21169#pullrequestreview-4282406826) - 2026-05-13
+* [Review] [Review on: execution/stagedsync: use applyTx for commitment txNum to avoid stale fallback](https://github.com/erigontech/erigon/pull/21174#pullrequestreview-4283485592) - 2026-05-13
+* [Review] [Review on: ci: add actionlint, zizmor, shellcheck to lint job](https://github.com/erigontech/erigon/pull/21127#pullrequestreview-4284221745) - 2026-05-13
+* [Issue] [Bad state after commit b72aa7b4f7e3ea209f54c09c5d9b07cd5715ca43](https://github.com/erigontech/erigon/issues/21171) - 2026-05-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

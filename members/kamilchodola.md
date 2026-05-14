@@ -54,6 +54,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [ci: add nightly Docker image build](https://github.com/NethermindEth/nethermind/pull/11559) - 2026-05-11
 * [Commit] [ci: add nightly Docker image build (#11559)](https://github.com/NethermindEth/nethermind/commit/a330d89e862474e15b88929ad6646ad549d10c9c) - 2026-05-11
 * [Review] [Review on: feat(config): show non-default values on startup](https://github.com/NethermindEth/nethermind/pull/11523#pullrequestreview-4270400552) - 2026-05-12
+* [Pull Request] [fix: suppress ExecutionContext flow in prewarmer to fix non-deterministic block stats](https://github.com/NethermindEth/nethermind/pull/11597) - 2026-05-13
+* [Review] [Review on: Update BAL pyspec fixtures to v7.1.1](https://github.com/NethermindEth/nethermind/pull/11595#pullrequestreview-4283696164) - 2026-05-13
+* [Review] [Review on: Align EIP-8037 gas accounting with BAL tests v7.1.0](https://github.com/NethermindEth/nethermind/pull/11579#pullrequestreview-4282320721) - 2026-05-13
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

@@ -40,6 +40,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Apply parent execution payload before building block](https://github.com/OffchainLabs/prysm/pull/16751#pullrequestreview-4243875959) - 2026-05-07
 * [Review] [Review on: Write `totalEffectiveBalance` in `balanceCache` eagerly in `ProcessEffectiveBalanceUpdates`.](https://github.com/OffchainLabs/prysm/pull/16738#pullrequestreview-4265452716) - 2026-05-11
 * [Review] [Review on: Strip stack trace from Downscore peer log reason field](https://github.com/OffchainLabs/prysm/pull/16776#pullrequestreview-4271497740) - 2026-05-12
+* [Review] [Review on: Don't downscore block peer on envelope mismatch from different peer](https://github.com/OffchainLabs/prysm/pull/16785#pullrequestreview-4283203520) - 2026-05-13
+* [Pull Request] [Apply boost on weak](https://github.com/OffchainLabs/prysm/pull/16786) - 2026-05-13
+* [Review] [Review on: Add gloas fork choice spec tests](https://github.com/OffchainLabs/prysm/pull/16771#pullrequestreview-4283229590) - 2026-05-13
+* [Review] [Review on: Don't punish the block peer when the envelope response is empty and is a different peeer](https://github.com/OffchainLabs/prysm/pull/16779#pullrequestreview-4282518763) - 2026-05-13
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

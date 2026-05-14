@@ -81,6 +81,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat(ci): conditionally publish bindings with tag](https://github.com/ChainSafe/lodestar-z/pull/355) - 2026-05-08
 * [Commit] [feat(ci): conditionally publish bindings with tag (#355)](https://github.com/ChainSafe/lodestar-z/commit/ea7791983dbc280e17579b9ca73e4f62c937ae4f) - 2026-05-08
 * [Pull Request] [feat(bindings/bls): use external buffers for blst operations](https://github.com/ChainSafe/lodestar-z/pull/356) - 2026-05-12
+* [Review] [Review on: feat: asyncAggregateWithRandomness](https://github.com/ChainSafe/lodestar-z/pull/353#pullrequestreview-4282565227) - 2026-05-13
+* [Pull Request] [feat(blst): use external buffers for blst operations](https://github.com/ChainSafe/lodestar-z/pull/358) - 2026-05-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 
