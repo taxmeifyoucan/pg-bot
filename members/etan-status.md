@@ -76,6 +76,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Drop redundant 'item' template](https://github.com/status-im/nimbus-eth2/pull/8402) - 2026-05-05
 * [Pull Request] [Add metrics to nimbus_light_client](https://github.com/status-im/nimbus-eth2/pull/8411) - 2026-05-07
 * [Pull Request] [Revert "Do not compute shuffling for answering total_active_balance query (#8214)"](https://github.com/status-im/nimbus-eth2/pull/8431) - 2026-05-11
+* [Pull Request] [Add config option for controlling LC data backfill](https://github.com/status-im/nimbus-eth2/pull/8445) - 2026-05-14
+* [Pull Request] [Fix gossip check for committee length](https://github.com/status-im/nimbus-eth2/pull/8447) - 2026-05-14
+* [Pull Request] [Use constant-time comparison for validating API token](https://github.com/status-im/nimbus-eth2/pull/8448) - 2026-05-14
+* [Pull Request] [Preserve negative peer score across reconnections](https://github.com/status-im/nimbus-eth2/pull/8446) - 2026-05-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

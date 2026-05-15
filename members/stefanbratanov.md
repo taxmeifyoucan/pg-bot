@@ -73,6 +73,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: devnet2 stack 01 Stabilize fork-choice state during block production](https://github.com/Consensys/teku/pull/10683#pullrequestreview-4257458300) - 2026-05-09
 * [Pull Request] [Execution Payload processing improvements](https://github.com/Consensys/teku/pull/10688) - 2026-05-11
 * [Review] [Review on: devnet2 stack 02 execution payload](https://github.com/Consensys/teku/pull/10684#pullrequestreview-4270974419) - 2026-05-12
+* [Pull Request] [Batch new builder deposit signature verifications during block processing](https://github.com/Consensys/teku/pull/10708) - 2026-05-14
+* [Review] [Review on: devnet2 stack 05 final devnet2](https://github.com/Consensys/teku/pull/10687#pullrequestreview-4289516875) - 2026-05-14
+* [Pull Request] [Enable Gloas acceptance tests](https://github.com/Consensys/teku/pull/10703) - 2026-05-14
+* [Review] [Review on: Enable Gloas acceptance tests](https://github.com/Consensys/teku/pull/10703#pullrequestreview-4289079666) - 2026-05-14
+* [Commit] [Enable Gloas acceptance tests (#10703)](https://github.com/Consensys/teku/commit/db2c7fac8ac458122a67a2bfa8e015678f1c1a35) - 2026-05-14
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

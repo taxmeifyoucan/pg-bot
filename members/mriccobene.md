@@ -48,6 +48,7 @@ Team: Erigon
 * [Review] [Review on: compare: fix nested JSON indentation in result file dump](https://github.com/erigontech/rpc-tests/pull/558#pullrequestreview-4251712719) - 2026-05-08
 * [Review] [Review on: add eth_capability test](https://github.com/erigontech/rpc-tests/pull/557#pullrequestreview-4251709975) - 2026-05-08
 * [Review] [Review on: integration_test: set ws timeout](https://github.com/erigontech/rpc-tests/pull/559#pullrequestreview-4261150216) - 2026-05-11
+* [Review] [Review on: integration_test: change rsp for eth_capability & improve mgt ignore-filed metadata](https://github.com/erigontech/rpc-tests/pull/561#pullrequestreview-4289965225) - 2026-05-14
 ## Q1 2026
 
 

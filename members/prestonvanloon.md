@@ -16,6 +16,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Fastssz update to allow generics (#16628)](https://github.com/OffchainLabs/prysm/commit/108e2806cbc754db78c1f7bf913c66100be63a2d) - 2026-04-01
 * [Review] [Review on: `ProcessEffectiveBalanceUpdates`: Avoid copying a validator when the computed effective balance is unchanged.](https://github.com/OffchainLabs/prysm/pull/16631#pullrequestreview-4056253594) - 2026-04-03
 * [Review] [Review on: Implement spec `V1.7.0 alpha.7` and pass spec tests](https://github.com/OffchainLabs/prysm/pull/16750#pullrequestreview-4248607903) - 2026-05-08
+* [Review] [Review on: compress state diff anchor cache](https://github.com/OffchainLabs/prysm/pull/16790#pullrequestreview-4292613649) - 2026-05-14
+* [Review] [Review on: state diff anchors cache metrics](https://github.com/OffchainLabs/prysm/pull/16789#pullrequestreview-4292597416) - 2026-05-14
+* [Review] [Review on: boundary slot check for state diff cache](https://github.com/OffchainLabs/prysm/pull/16760#pullrequestreview-4291782634) - 2026-05-14
 ## Q1 2026
 
 

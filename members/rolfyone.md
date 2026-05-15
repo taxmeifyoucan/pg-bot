@@ -60,6 +60,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Avoid completing SSE async context directly (#10699)](https://github.com/Consensys/teku/commit/b5cdf3518fddddf0d189ef33660a238eec245bd7) - 2026-05-13
 * [Commit] [  Added timeout to DAS availability check with graceful expiry (#10694)](https://github.com/Consensys/teku/commit/43f1a49c8012ed0e02b4da71d318ec65aa364fdc) - 2026-05-13
 * [Commit] [Add JaCoCo coverage reporting for unit and reference tests (#10692)](https://github.com/Consensys/teku/commit/bdda456a3d238d36e65e466baff661081d29e924) - 2026-05-13
+* [Review] [Review on: Trying to fix the most common flaky test failures](https://github.com/Consensys/teku/pull/10709#pullrequestreview-4294808942) - 2026-05-15
+* [Pull Request] [Log Gloas builder deposit processing timings](https://github.com/Consensys/teku/pull/10704) - 2026-05-14
+* [Review] [Review on: Update ethspecify, mostly for Gloas functions](https://github.com/Consensys/teku/pull/10706#pullrequestreview-4293860022) - 2026-05-14
+* [Commit] [Log Gloas builder deposit processing timings (#10704)](https://github.com/Consensys/teku/commit/682f99b69307a6de74000fc3aa48281bcdbcb1e6) - 2026-05-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

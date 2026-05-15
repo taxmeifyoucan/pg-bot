@@ -23,6 +23,7 @@ Team: Grandine
 * [Review] [Review on: Fix `payload_attributes` SSE event values](https://github.com/grandinetech/grandine/pull/669#pullrequestreview-4148360031) - 2026-04-21
 * [Review] [Review on: Update Gloas event data](https://github.com/grandinetech/grandine/pull/670#pullrequestreview-4155806837) - 2026-04-22
 * [Commit] [Updates to publish signed execution payload bid API endpoint:](https://github.com/grandinetech/grandine/commit/900100d4d3cdf0f2f057cc8d83a1ba3205532a51) - 2026-04-22
+* [Review] [Review on: Add `single_attestation` event topic and use it for single attestations](https://github.com/grandinetech/grandine/pull/688#pullrequestreview-4288704136) - 2026-05-14
 ## Q1 2026
 
 

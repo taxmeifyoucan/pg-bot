@@ -49,6 +49,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: chore: swap go-eth2-client to ethpandaops fork v0.1.2](https://github.com/ethpandaops/xatu/pull/828#pullrequestreview-4279875215) - 2026-05-13
 * [Review] [Review on: feat(output): add s3blobstore sink for blob sidecar archival](https://github.com/ethpandaops/xatu/pull/826#pullrequestreview-4278103185) - 2026-05-13
 * [Pull Request] [feat: PTC vote three-state breakdown + EIP-7843 slot_number coverage](https://github.com/ethpandaops/xatu/pull/827) - 2026-05-13
+* [Pull Request] [feat: port otel work to glammy work](https://github.com/ethpandaops/xatu/pull/840) - 2026-05-14
+* [Review] [Review on: feat(observability): full OTel traces with gRPC propagation](https://github.com/ethpandaops/xatu/pull/835#pullrequestreview-4287646406) - 2026-05-14
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Review] [Review on: feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433#pullrequestreview-4166900256) - 2026-04-23
 

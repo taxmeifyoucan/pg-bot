@@ -70,6 +70,9 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(tests, spec-specs): refill auth state gas on delegation clear for EIP-8037](https://github.com/ethereum/execution-specs/pull/2848#pullrequestreview-4282689026) - 2026-05-13
 * [Commit] [feat(test-cli): Add support for testing block building via simulator (#2679)](https://github.com/ethereum/execution-specs/commit/d61f7ac51d5fb058186e9d75013d763fe5aabdb6) - 2026-05-13
 * [Commit] [feat(test): Increase BAL coverage with tests and BAL expectations for some existing (#2834)](https://github.com/ethereum/execution-specs/commit/e45c0eda7c4d4a66efce430c93acd7a07ee94215) - 2026-05-13
+* [Pull Request] [feat(tests): eip7928 checklist v1](https://github.com/ethereum/execution-specs/pull/2859) - 2026-05-14
+* [Review] [Review on: test(tests): inter-dependent tx tests for BAL parallelization](https://github.com/ethereum/execution-specs/pull/2851#pullrequestreview-4291390589) - 2026-05-14
+* [Commit] [test(tests): inter-dependent tx tests for BAL parallelization (#2851)](https://github.com/ethereum/execution-specs/commit/267a2bd335ca47698636d33168f27282ba8f1958) - 2026-05-14
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14

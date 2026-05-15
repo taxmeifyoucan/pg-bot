@@ -229,6 +229,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Fix `on_execution_payload_envelope` tests](https://github.com/ethereum/consensus-specs/pull/5244#pullrequestreview-4278406240) - 2026-05-13
 * [Pull Request] [Add executable gossip validation functions for fulu](https://github.com/ethereum/consensus-specs/pull/5246) - 2026-05-13
 * [Commit] [Add package action (#5243)](https://github.com/ethereum/consensus-specs/commit/4f597a4bb68fb00accca4dde242a4f1dc0844ec7) - 2026-05-13
+* [Review] [Review on: Force the proposer to reorg unavailable blocks](https://github.com/ethereum/consensus-specs/pull/5186#pullrequestreview-4292195297) - 2026-05-14
+* [Review] [Review on: Introduce separate payload availability deadline](https://github.com/ethereum/consensus-specs/pull/5212#pullrequestreview-4294537109) - 2026-05-15
+* [Review] [Review on: Add `process_withdrawals` test for builder queue+sweep collision](https://github.com/ethereum/consensus-specs/pull/5253#pullrequestreview-4292135083) - 2026-05-14
+* [Review] [Review on: Yield mutated state in gossip block test](https://github.com/ethereum/consensus-specs/pull/5252#pullrequestreview-4290585781) - 2026-05-14
+* [Commit] [Raise `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 8192 epochs (#5223)](https://github.com/ethereum/consensus-specs/commit/d192f91eea8f61f8c4325c501fcba53b5a57025b) - 2026-05-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

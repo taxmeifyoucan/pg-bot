@@ -522,6 +522,16 @@ Team: Erigon
 * [Commit] [ci: add actionlint, zizmor, shellcheck to lint job (#21127)](https://github.com/erigontech/erigon/commit/a9bbb96cb23def4c72802f0ea6591002d09f759a) - 2026-05-13
 * [Commit] [db/state: encapsulate worker state into 1 struct (#21075)](https://github.com/erigontech/erigon/commit/cda9b858889fdc204977b09fe9a142d624ba5a80) - 2026-05-13
 * [Commit] [channel-range loops to be cancellable while idle (#20942)](https://github.com/erigontech/erigon/commit/a29b88d6c3ffab563aadb0494abec3ffa007514e) - 2026-05-13
+* [Review] [Review on: execution/execmodule: prune chaindata in CommitCycle (+ release roTx, bloatnet collation gate)](https://github.com/erigontech/erigon/pull/21192#pullrequestreview-4294502806) - 2026-05-15
+* [Pull Request] [cmd/integration: add mdbx_copy compact in-place one-liner](https://github.com/erigontech/erigon/pull/21189) - 2026-05-14
+* [Review] [Review on: cl/forkchoice: fix infinite loop in getState when state file is missing](https://github.com/erigontech/erigon/pull/21188#pullrequestreview-4288687501) - 2026-05-14
+* [Review] [Review on: cl/beacon: fix liveness endpoint checking previous epoch participation](https://github.com/erigontech/erigon/pull/21187#pullrequestreview-4288709974) - 2026-05-14
+* [Pull Request] [[wip] db/state: fix readyForCollation when block snapshots exist but state files do not](https://github.com/erigontech/erigon/pull/21183) - 2026-05-14
+* [Pull Request] [[wip] `PipelineExecutor.ProcessFrozenBlocks` to call `agg.CollateAndPruneIfNeeded()`](https://github.com/erigontech/erigon/pull/21185) - 2026-05-14
+* [Pull Request] [[wip] stagedsync, stageloop, storage: informative assert messages for HasAgg type-assertion panics](https://github.com/erigontech/erigon/pull/21184) - 2026-05-14
+* [Commit] [cmd/integration: add mdbx_copy compact in-place one-liner (#21189)](https://github.com/erigontech/erigon/commit/1b6a991f7ff51ea3f3deef95881ef53175256ea7) - 2026-05-14
+* [Commit] [deps: golangci-lint v2.11.4→v2.12.2, golang.org/x/  (#21182)](https://github.com/erigontech/erigon/commit/f2616bbcfd4ce4bef6bc52fab0015a90382cfef0) - 2026-05-14
+* [Commit] [ci: add test-kurtosis-gloas.yml to zizmor cache-poisoning ignore list (#21181)](https://github.com/erigontech/erigon/commit/0252ae3b93187ba159130820593ce9f565cc4787) - 2026-05-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

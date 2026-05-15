@@ -126,6 +126,13 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [perf: add and use `Cursor::replace_current`](https://github.com/paradigmxyz/reth/pull/24206) - 2026-05-13
 * [Pull Request] [fix: properly handle dummy blocks in migrate-v2](https://github.com/paradigmxyz/reth/pull/24189) - 2026-05-13
 * [Commit] [feat: retain announced port (#24182)](https://github.com/paradigmxyz/reth/commit/e2dc712cfae154be8e6a41f1b44c8e86188c3992) - 2026-05-13
+* [Pull Request] [perf: more aggressive trie parallelization](https://github.com/paradigmxyz/reth/pull/24258) - 2026-05-14
+* [Pull Request] [perf(bal): initialize state providers once per worker](https://github.com/paradigmxyz/reth/pull/24254) - 2026-05-14
+* [Pull Request] [feat(migrate-v2): migrate mdbx -> rocksdb](https://github.com/paradigmxyz/reth/pull/24230) - 2026-05-14
+* [Review] [Review on: feat(reth-bb): enable otlp, otlp-logs, portable revm, and js-tracer by default](https://github.com/paradigmxyz/reth/pull/24251#pullrequestreview-4292180414) - 2026-05-14
+* [Review] [Review on: feat(cli): add `download --force` snapshot overwrite support](https://github.com/paradigmxyz/reth/pull/24229#pullrequestreview-4290190810) - 2026-05-14
+* [Commit] [perf(bal): initialize state providers once per worker (#24254)](https://github.com/paradigmxyz/reth/commit/f511fee5689835c680260ea8ba3cc259db026b2c) - 2026-05-14
+* [Commit] [fix: properly handle dummy blocks in migrate-v2 (#24189)](https://github.com/paradigmxyz/reth/commit/4e515ac5fd06655300b3e3c820005170bce9418d) - 2026-05-14
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

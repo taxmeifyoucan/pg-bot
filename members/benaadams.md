@@ -180,6 +180,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Use generic decoding results for block and tx; remove IRlpObjectDecoder](https://github.com/NethermindEth/nethermind/pull/10759#pullrequestreview-4283269841) - 2026-05-13
 * [Commit] [Update BAL pyspec fixtures to v7.1.1 (#11595)](https://github.com/NethermindEth/nethermind/commit/32391cb9bb4ed48032e56ba519512941c8094fb5) - 2026-05-13
 * [Commit] [Align EIP-8037 gas accounting with BAL tests v7.1.0 (#11579)](https://github.com/NethermindEth/nethermind/commit/66068b4f5836de84070d5b527e80b0af7e092f76) - 2026-05-13
+* [Pull Request] [Default Discovery to V4](https://github.com/NethermindEth/nethermind/pull/11614) - 2026-05-15
+* [Review] [Review on: Make AddSelfDestructLog available for the use in Arbitrum plugin](https://github.com/NethermindEth/nethermind/pull/11613#pullrequestreview-4294414586) - 2026-05-15
+* [Review] [Review on: fix: Remove redundant target framework](https://github.com/NethermindEth/nethermind/pull/11612#pullrequestreview-4291025427) - 2026-05-14
+* [Review] [Review on: Make InstructionSelfDestruct public to be reused in Arbitrum](https://github.com/NethermindEth/nethermind/pull/11605#pullrequestreview-4289271643) - 2026-05-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

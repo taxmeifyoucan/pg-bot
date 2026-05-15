@@ -76,6 +76,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Check gas limit consistency with the target](https://github.com/ethereum/consensus-specs/pull/5236) - 2026-05-11
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4266524076) - 2026-05-11
 * [Review] [Review on: Check gas limit consistency with the target](https://github.com/ethereum/consensus-specs/pull/5236#pullrequestreview-4271673233) - 2026-05-12
+* [Review] [Review on: Add `target_gas_limit` to `PayloadAttributes`](https://github.com/ethereum/consensus-specs/pull/5235#pullrequestreview-4290663266) - 2026-05-14
+* [Commit] [Introduce separate payload availability deadline (#5212)](https://github.com/ethereum/consensus-specs/commit/e4cf08637e5ee959d134d680e37a52cb0be50270) - 2026-05-15
+* [Commit] [Force the proposer to reorg unavailable blocks (#5186)](https://github.com/ethereum/consensus-specs/commit/63fc11ef4112b3777db1cce942222382e49f9c09) - 2026-05-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17

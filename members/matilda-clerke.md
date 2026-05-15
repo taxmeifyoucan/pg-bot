@@ -27,6 +27,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: fix(core): resolve native file descriptor leaks in Era1 archive import and TOML configuration parsing](https://github.com/besu-eth/besu/pull/10408#pullrequestreview-4224991731) - 2026-05-05
 * [Review] [Review on: Handle new IPv6 addresses by updating NodeRecordManager](https://github.com/besu-eth/besu/pull/10416#pullrequestreview-4240830642) - 2026-05-07
 * [Review] [Review on: refactor: move revert reason flag into data storage config](https://github.com/besu-eth/besu/pull/10401#pullrequestreview-4248188184) - 2026-05-07
+
+[Consensys/discovery](https://github.com/Consensys/discovery)
+* [Review] [Review on: test: fix flake in shouldRecoverAfterErrorWhileDecodingInboundMessage](https://github.com/Consensys/discovery/pull/233#pullrequestreview-4287579358) - 2026-05-14
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [[HOUSEKEEPING] Remove CLI arguments and related cleanups post 26.1.0](https://github.com/Consensys/teku/pull/10701) - 2026-05-14
+* [Review] [Review on: [HOUSEKEEPING] Remove CLI arguments and related cleanups post 26.1.0](https://github.com/Consensys/teku/pull/10701#pullrequestreview-4287688105) - 2026-05-14
+* [Commit] [[HOUSEKEEPING] Remove CLI arguments and related cleanups post 26.1.0 (#10701)](https://github.com/Consensys/teku/commit/3419eda852b34706af6e238ad028fe82955efdc9) - 2026-05-14
 ## Q1 2026
 
 

@@ -49,6 +49,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Lazy RLP decoding for GetReceiptsMessage](https://github.com/besu-eth/besu/pull/10450#pullrequestreview-4269785556) - 2026-05-12
 * [Review] [Review on: Snap sync flat DB heal performance improvement using byte comparator](https://github.com/besu-eth/besu/pull/10467#pullrequestreview-4277248216) - 2026-05-13
 * [Commit] [Snap sync flat DB heal performance improvement using byte comparator (#10467)](https://github.com/besu-eth/besu/commit/c880cb8c889f6008a392aa62fdbb981104106f0b) - 2026-05-13
+* [Review] [Review on: fix: avoid storing total difficulty for PoS blocks](https://github.com/besu-eth/besu/pull/10458#pullrequestreview-4294650881) - 2026-05-15
+* [Pull Request] [Bonsai Archive state proofs](https://github.com/besu-eth/besu/pull/10503) - 2026-05-15
+* [Issue] [feat: Bonsai Archive with State Proofs (eth_getProof support)](https://github.com/besu-eth/besu/issues/10504) - 2026-05-15
 ## Q1 2026
 
 

@@ -90,8 +90,12 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(benchmarks): add eth transfer cases for repricing](https://github.com/ethereum/execution-specs/pull/2837#pullrequestreview-4282509144) - 2026-05-13
 * [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7708 ETH transfers emit a log](https://github.com/ethereum/execution-specs/pull/2844#pullrequestreview-4278671386) - 2026-05-13
 * [Commit] [feat(spec-specs, spec-tests): add EIP-7778 block gas accounting without refunds (#2840)](https://github.com/ethereum/execution-specs/commit/cd8c9815985f40e4a3486f388d764357d33b5c24) - 2026-05-13
+* [Review] [Review on: feat(test-benchmark): add eth transfer cases for repricing](https://github.com/ethereum/execution-specs/pull/2837#pullrequestreview-4288432578) - 2026-05-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
+
+[NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
+* [Review] [Review on: Add extra optional withdrawals to prefund EOAs](https://github.com/NethermindEth/gas-benchmarks/pull/144#pullrequestreview-4287688087) - 2026-05-14
 ## Q1 2026
 
 

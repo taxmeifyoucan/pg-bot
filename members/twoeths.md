@@ -138,6 +138,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [glamsterdam-devnet-3:  Error emitting head event](https://github.com/ChainSafe/lodestar/issues/9365) - 2026-05-13
 * [Commit] [fix: do not range sync the same peer again (#9360)](https://github.com/ChainSafe/lodestar/commit/c9dc2b2332c9900172b1bc9b9fb88cad844ce02b) - 2026-05-13
 * [Commit] [feat: assert chain segment in range sync (#9361)](https://github.com/ChainSafe/lodestar/commit/ac258a8def970097cbc2b03111c6c994db7baf83) - 2026-05-13
+* [Review] [Review on: fix: handle ptc votes from same duplicated validators](https://github.com/ChainSafe/lodestar/pull/9369#pullrequestreview-4286966121) - 2026-05-14
+* [Pull Request] [chore: add logs and metrics for execution payload](https://github.com/ChainSafe/lodestar/pull/9370) - 2026-05-14
+* [Review] [Review on: chore: add logs and metrics for execution payload](https://github.com/ChainSafe/lodestar/pull/9370#pullrequestreview-4287988218) - 2026-05-14
+* [Review] [Review on: refactor: payload envelope input -- pruneBelowParent](https://github.com/ChainSafe/lodestar/pull/9326#pullrequestreview-4287951398) - 2026-05-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
@@ -148,6 +152,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: support multi-threaded RefCount (#62)](https://github.com/ChainSafe/lodestar-z/commit/28edb161478f2e45a00f0418624e97028ad38b3b) - 2026-04-17
 * [Review] [Review on: feat: asyncAggregateWithRandomness](https://github.com/ChainSafe/lodestar-z/pull/353#pullrequestreview-4269081704) - 2026-05-12
 * [Issue] [Memory Safety Review](https://github.com/ChainSafe/lodestar-z/issues/357) - 2026-05-12
+* [Review] [Review on: feat: asyncAggregateWithRandomness](https://github.com/ChainSafe/lodestar-z/pull/353#pullrequestreview-4287060111) - 2026-05-14
 ## Q1 2026
 
 

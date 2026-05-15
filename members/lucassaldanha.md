@@ -69,6 +69,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [QUIC transport: ENR-based peer discovery, preferred QUIC dialing, and optional TCP disable](https://github.com/Consensys/teku/pull/10700) - 2026-05-14
 * [Review] [Review on: Avoid completing SSE async context directly](https://github.com/Consensys/teku/pull/10699#pullrequestreview-4285930217) - 2026-05-13
 * [Review] [Review on: Add JaCoCo coverage reporting for unit and reference tests](https://github.com/Consensys/teku/pull/10692#pullrequestreview-4278424762) - 2026-05-13
+* [Pull Request] [Trying to fix the most common flaky test failures](https://github.com/Consensys/teku/pull/10709) - 2026-05-15
+* [Review] [Review on: Trying to fix the most common flaky test failures](https://github.com/Consensys/teku/pull/10709#pullrequestreview-4294779861) - 2026-05-15
+* [Review] [Review on: Log Gloas builder deposit processing timings](https://github.com/Consensys/teku/pull/10704#pullrequestreview-4293854346) - 2026-05-14
+* [Review] [Review on: target java 25](https://github.com/Consensys/teku/pull/10567#pullrequestreview-4293515236) - 2026-05-14
+* [Review] [Review on: [HOUSEKEEPING] Remove CLI arguments and related cleanups post 26.1.0](https://github.com/Consensys/teku/pull/10701#pullrequestreview-4288042756) - 2026-05-14
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
@@ -80,6 +85,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Track multiple pending WHOAREYOU challenges during handshake](https://github.com/Consensys/discovery/issues/228) - 2026-05-13
 * [Commit] [Fix concurrent local ENR custom field updates (#229)](https://github.com/Consensys/discovery/commit/f85f30525e40f9aa2c58698573b3358cd292bae0) - 2026-05-14
 * [Commit] [Created Claude config (#231)](https://github.com/Consensys/discovery/commit/a70b108a6ccc59d1cf15b87dcefa8ff55e4503fb) - 2026-05-13
+* [Review] [Review on: build: Add Java 25 build compatibility](https://github.com/Consensys/discovery/pull/232#pullrequestreview-4294329054) - 2026-05-15
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459) - 2026-04-20
 * [Pull Request] [Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/454) - 2026-04-20

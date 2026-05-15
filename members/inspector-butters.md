@@ -36,6 +36,10 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [Move SaveState() timing metric](https://github.com/OffchainLabs/prysm/pull/16783) - 2026-05-13
 * [Review] [Review on: Move SaveState() timing metric](https://github.com/OffchainLabs/prysm/pull/16783#pullrequestreview-4281472458) - 2026-05-13
 * [Commit] [Move SaveState() timing metric (#16783)](https://github.com/OffchainLabs/prysm/commit/e31e0c19e3de83db7b6d721b8c078ce235e4fdb4) - 2026-05-13
+* [Pull Request] [compress state diff anchor cache](https://github.com/OffchainLabs/prysm/pull/16790) - 2026-05-14
+* [Pull Request] [state diff anchors cache metrics](https://github.com/OffchainLabs/prysm/pull/16789) - 2026-05-14
+* [Review] [Review on: Add gloas random and rewards spec tests](https://github.com/OffchainLabs/prysm/pull/16770#pullrequestreview-4289205369) - 2026-05-14
+* [Review] [Review on: Add gloas support to hdiff state diffs](https://github.com/OffchainLabs/prysm/pull/16590#pullrequestreview-4290768191) - 2026-05-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

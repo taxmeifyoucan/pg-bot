@@ -73,6 +73,12 @@ Team: Erigon
 * [Review] [Review on: execution/stagedsync: use applyTx for commitment txNum to avoid stale fallback](https://github.com/erigontech/erigon/pull/21174#pullrequestreview-4283485592) - 2026-05-13
 * [Review] [Review on: ci: add actionlint, zizmor, shellcheck to lint job](https://github.com/erigontech/erigon/pull/21127#pullrequestreview-4284221745) - 2026-05-13
 * [Issue] [Bad state after commit b72aa7b4f7e3ea209f54c09c5d9b07cd5715ca43](https://github.com/erigontech/erigon/issues/21171) - 2026-05-13
+* [Review] [Review on: diagnostics/syscheck: make kernel-hint fix commands copy-pastable](https://github.com/erigontech/erigon/pull/21202#pullrequestreview-4294760010) - 2026-05-15
+* [Pull Request] [Added SSZ REST for Engine API](https://github.com/erigontech/erigon/pull/21203) - 2026-05-15
+* [Pull Request] [execution/engineapi: add SSZ-REST Engine API transport](https://github.com/erigontech/erigon/pull/21201) - 2026-05-14
+* [Pull Request] [DO NOT MERGE  - this is for the lab](https://github.com/erigontech/erigon/pull/21196) - 2026-05-14
+* [Pull Request] [DO NOT MERGE - panda lab](https://github.com/erigontech/erigon/pull/21195) - 2026-05-14
+* [Review] [Review on: cmd/integration: add mdbx_copy compact in-place one-liner](https://github.com/erigontech/erigon/pull/21189#pullrequestreview-4289090107) - 2026-05-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

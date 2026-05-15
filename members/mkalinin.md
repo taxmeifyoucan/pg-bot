@@ -15,6 +15,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4103534107) - 2026-04-14
 
 * [Review] [Review on: Add Yann Vonlanthen from Protocol Consensus](https://github.com/protocolguild/documentation/pull/493#pullrequestreview-4119971090) - 2026-04-16
+* [Review] [Review on: Remove Barnabé Monnot from Protocol Architecture](https://github.com/protocolguild/documentation/pull/498#pullrequestreview-4287334667) - 2026-05-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Fast Confirmation Rule (#4747)](https://github.com/ethereum/consensus-specs/commit/6deb93bd024e2ccb51cddbd90566a14c2410134b) - 2026-04-16
 
@@ -38,6 +39,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Commit] [Modify `notify_forkchoice_updated` (#5197)](https://github.com/ethereum/consensus-specs/commit/57b4a975b5b1bebd9ec9178193cbaa94678762ed) - 2026-05-09
 * [Pull Request] [Redesign Fork Choice abstractions](https://github.com/ethereum/consensus-specs/pull/5249) - 2026-05-13
 * [Review] [Review on: Redesign Fork Choice abstractions](https://github.com/ethereum/consensus-specs/pull/5249#pullrequestreview-4284376970) - 2026-05-13
+* [Review] [Review on: Embed `payload_status` into `head` fork choice check](https://github.com/ethereum/consensus-specs/pull/5250#pullrequestreview-4287323519) - 2026-05-14
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

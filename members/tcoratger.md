@@ -164,6 +164,15 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: test(whir): BCSS25 proximity gap validation + UniqueDecoding log_eta fix](https://github.com/Plonky3/Plonky3/pull/1631#pullrequestreview-4278643826) - 2026-05-13
 * [Review] [Review on: symmetric: assert MultiField32Pad10 const parameters](https://github.com/Plonky3/Plonky3/pull/1638#pullrequestreview-4278211929) - 2026-05-13
 * [Issue] [Land STIR as a low-degree test alongside FRI/WHIR](https://github.com/Plonky3/Plonky3/issues/1647) - 2026-05-13
+* [Review] [Review on: feat(whir): HVZK code-switching round (Construction 9.7)](https://github.com/Plonky3/Plonky3/pull/1636#pullrequestreview-4290693057) - 2026-05-14
+* [Pull Request] [perf: fast paths for mul_2exp_u64(0) and mul_2exp_u64(1)](https://github.com/Plonky3/Plonky3/pull/1654) - 2026-05-14
+* [Review] [Review on: symmetric: move PaddingFreeSponge assertions into new](https://github.com/Plonky3/Plonky3/pull/1653#pullrequestreview-4291349207) - 2026-05-14
+* [Review] [Review on: feat: add security estimation](https://github.com/Plonky3/Plonky3/pull/1329#pullrequestreview-4290871371) - 2026-05-14
+* [Review] [Review on: Enforce Positive max_log_arity](https://github.com/Plonky3/Plonky3/pull/1652#pullrequestreview-4290451825) - 2026-05-14
+* [Review] [Review on: feat: add WASM32 SIMD128 support for Goldilocks](https://github.com/Plonky3/Plonky3/pull/1644#pullrequestreview-4288504138) - 2026-05-14
+* [Review] [Review on: whir: fail fast on STIR query and index count mismatch](https://github.com/Plonky3/Plonky3/pull/1646#pullrequestreview-4288501048) - 2026-05-14
+* [Review] [Review on: perf(merkle-tree): amortize verifier cost in verify_batch_pruned](https://github.com/Plonky3/Plonky3/pull/1648#pullrequestreview-4288988982) - 2026-05-14
+* [Commit] [perf: fast paths for mul_2exp_u64(0) and mul_2exp_u64(1) (#1654)](https://github.com/Plonky3/Plonky3/commit/022623bb0fe0fdfcad7a0ba0448eeec40abb3a51) - 2026-05-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

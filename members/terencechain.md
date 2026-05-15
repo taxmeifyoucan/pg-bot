@@ -148,6 +148,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Don't downscore block peer on envelope mismatch from different peer (#16785)](https://github.com/OffchainLabs/prysm/commit/69c6c6d9c38338a2b65c56b63d2fda8e924a3a2b) - 2026-05-13
 * [Commit] [Add gloas fork choice spec tests (#16771)](https://github.com/OffchainLabs/prysm/commit/6962cb327a7f7af8c6fc2fb78751d199ca7b8fd0) - 2026-05-13
 * [Commit] [Don't punish the block peer when the envelope response is empty and is a different peeer (#16779)](https://github.com/OffchainLabs/prysm/commit/7218bd102a95fee5019b0f2b640c074496f4d11e) - 2026-05-13
+* [Commit] [Request payload envelope when pending block's parent payload mi… (#16748)](https://github.com/OffchainLabs/prysm/commit/c1a7a8ff96714a20623306f96985cc3dbcce534a) - 2026-05-15
+* [Commit] [Add gloas random and rewards spec tests (#16770)](https://github.com/OffchainLabs/prysm/commit/51cb80ffa1945c646398b5049cadf85dab6b6af7) - 2026-05-14
+* [Commit] [Add gloas support to hdiff state diffs (#16590)](https://github.com/OffchainLabs/prysm/commit/8418292133065ffe1eba53c377b8344b8f11546f) - 2026-05-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

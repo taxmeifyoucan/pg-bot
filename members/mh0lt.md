@@ -159,6 +159,8 @@ Team: Erigon
 * [Pull Request] [execution/stagedsync: use applyTx for commitment txNum to avoid stale fallback](https://github.com/erigontech/erigon/pull/21174) - 2026-05-13
 * [Review] [Review on: execution: fix unwind edge cases for parallel exec and add benchmark-parallel exec shards to CI](https://github.com/erigontech/erigon/pull/21163#pullrequestreview-4279276638) - 2026-05-13
 * [Commit] [execution/stagedsync: use applyTx for commitment txNum to avoid stale fallback (#21174)](https://github.com/erigontech/erigon/commit/448a0828b563184f002bf8d1f300c50c41e0429a) - 2026-05-13
+* [Commit] [execution: parallel-exec correctness + perf fixes; gate residual EXEC3_PARALLEL flakes (#21136) (#21153)](https://github.com/erigontech/erigon/commit/958b2fbb8579135330894416119014c267cbe26b) - 2026-05-15
+* [Commit] [execution/stagedsync: fix parallel-exec BAL race from duplicate coinbase BalancePath write in finalize (#21177)](https://github.com/erigontech/erigon/commit/9912fc5661e6edb0dd2e9dfa55ac7b445cfc0b0a) - 2026-05-14
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

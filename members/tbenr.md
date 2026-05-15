@@ -105,9 +105,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Remote\Local bid comparison](https://github.com/Consensys/teku/issues/10695) - 2026-05-13
 * [Commit] [devnet2 stack 04 parent consistency (#10686)](https://github.com/Consensys/teku/commit/2ddef103b8880f32e709dfd6014cc08d5f7196dd) - 2026-05-13
 * [Commit] [devnet2 stack 03 gloas builder (#10685)](https://github.com/Consensys/teku/commit/598fe45c01d00c75d993387476b2d93ad876ea0e) - 2026-05-13
+* [Review] [Review on: Enable Gloas acceptance tests](https://github.com/Consensys/teku/pull/10703#pullrequestreview-4289771630) - 2026-05-14
+* [Review] [Review on: [HOUSEKEEPING] Remove CLI arguments and related cleanups post 26.1.0](https://github.com/Consensys/teku/pull/10701#pullrequestreview-4288285179) - 2026-05-14
+* [Issue] [Adapt circuit breaker logic for gloas](https://github.com/Consensys/teku/issues/10702) - 2026-05-14
+* [Commit] [target java 25 (#10567)](https://github.com/Consensys/teku/commit/1bd7f993e4a1a1a28c42d55c0a415a9091acf1f1) - 2026-05-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16
+* [Issue] [Adapt circuitbreaker logic to GLOAS](https://github.com/ethereum/consensus-specs/issues/5251) - 2026-05-14
 ## Q1 2026
 
 

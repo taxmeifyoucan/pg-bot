@@ -41,10 +41,13 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: Support atomic batching with any frames](https://github.com/ethereum/EIPs/pull/11652#pullrequestreview-4274768366) - 2026-05-12
 * [Pull Request] [Update EIP-7851: Few tweaks to 7851 and 8151](https://github.com/ethereum/EIPs/pull/11661) - 2026-05-13
 * [Commit] [Update EIP-7851: Few tweaks to 7851 and 8151](https://github.com/ethereum/EIPs/commit/3010b58ba1d15abb754a499aa87a52e580765031) - 2026-05-13
+* [Review] [Review on: Update EIP-8141: Add EXPIRY_VERIFIER frame for tx expiry](https://github.com/ethereum/EIPs/pull/11662#pullrequestreview-4293006863) - 2026-05-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4105687607) - 2026-04-14
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113766865) - 2026-04-15
 
+* [Review] [Review on: Remove Tim Beiko](https://github.com/protocolguild/documentation/pull/497#pullrequestreview-4291901915) - 2026-05-14
+* [Review] [Review on: Remove Barnabé Monnot from Protocol Architecture](https://github.com/protocolguild/documentation/pull/498#pullrequestreview-4291898415) - 2026-05-14
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: add ux improvement changes](https://github.com/ethereum/go-ethereum/pull/34885#pullrequestreview-4236428200) - 2026-05-06
 ## Q1 2026

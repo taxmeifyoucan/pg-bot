@@ -60,6 +60,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [recsplit: sharded FuseFilter (cherry-pick #20644)](https://github.com/erigontech/erigon/pull/21144) - 2026-05-12
 * [Review] [Review on: [r3.4] execution/stagedsync: find diffset by actually-executed hash on unwind](https://github.com/erigontech/erigon/pull/21157#pullrequestreview-4279597086) - 2026-05-13
 * [Commit] [db/recsplit: set ExistenceFilterVersion to 1 (#21164)](https://github.com/erigontech/erigon/commit/ee507cee2f6a6614acf896c0e75093181ec78c0f) - 2026-05-13
+* [Pull Request] [diagnostics/syscheck: make kernel-hint fix commands copy-pastable](https://github.com/erigontech/erigon/pull/21202) - 2026-05-14
+* [Review] [Review on: execution/stagedsync: check batch fullness after every block](https://github.com/erigontech/erigon/pull/21193#pullrequestreview-4292330448) - 2026-05-14
+* [Review] [Review on: execution/execmodule: prune chaindata in CommitCycle (+ release roTx, bloatnet collation gate)](https://github.com/erigontech/erigon/pull/21192#pullrequestreview-4292328300) - 2026-05-14
+* [Pull Request] [db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots](https://github.com/erigontech/erigon/pull/21200) - 2026-05-14
+* [Review] [Review on: deps: golangci-lint v2.11.4→v2.12.2, golang.org/x/ ](https://github.com/erigontech/erigon/pull/21182#pullrequestreview-4289068731) - 2026-05-14
+* [Issue] [snapshotsync: add flag to skip downloading old commitment history snapshots](https://github.com/erigontech/erigon/issues/21198) - 2026-05-14
+* [Issue] [state, prune: locally delete old commitment history snapshot files](https://github.com/erigontech/erigon/issues/21199) - 2026-05-14
 ## Q1 2026
 
 

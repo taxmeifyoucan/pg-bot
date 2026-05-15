@@ -32,6 +32,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(fork_choice): add Prometheus metrics module](https://github.com/ChainSafe/lodestar-z/pull/309#pullrequestreview-4272642446) - 2026-05-12
 * [Review] [Review on: feat(bindings/bls): use external buffers for blst operations](https://github.com/ChainSafe/lodestar-z/pull/356#pullrequestreview-4272711832) - 2026-05-12
 * [Review] [Review on: fix: improve atomic ordering in ThreadPool and NAPI init](https://github.com/ChainSafe/lodestar-z/pull/310#pullrequestreview-4282204500) - 2026-05-13
+* [Review] [Review on: feat: asyncAggregateWithRandomness](https://github.com/ChainSafe/lodestar-z/pull/353#pullrequestreview-4287149405) - 2026-05-14
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -89,6 +90,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: consume asyncAggregateWithRandomness branch from lodestar-z](https://github.com/ChainSafe/lodestar/pull/9342#pullrequestreview-4284218354) - 2026-05-13
 * [Commit] [feat: add beacon_blocks_by_head reqresp (#9331)](https://github.com/ChainSafe/lodestar/commit/be5f70c0c8fac86f7354314913fccccbcfd244bd) - 2026-05-13
 * [Commit] [fix(sync): use rate-limit backoff metadata (#9354)](https://github.com/ChainSafe/lodestar/commit/5adb1cab7b4cd37cea4c60c7490d86ba0cc02158) - 2026-05-13
+* [Review] [Review on: fix: handle ptc votes from same duplicated validators](https://github.com/ChainSafe/lodestar/pull/9369#pullrequestreview-4290783785) - 2026-05-14
+* [Review] [Review on: chore: move lightclient and prover to external repo](https://github.com/ChainSafe/lodestar/pull/9346#pullrequestreview-4290546337) - 2026-05-14
+* [Commit] [chore: move lightclient and prover to external repo (#9346)](https://github.com/ChainSafe/lodestar/commit/8e18007572b46fe2988291e58a22c326fb33fc44) - 2026-05-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

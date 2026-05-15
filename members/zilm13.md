@@ -64,6 +64,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: devnet2 stack 04 parent consistency](https://github.com/Consensys/teku/pull/10686#pullrequestreview-4284142968) - 2026-05-13
 * [Commit] [Update google java format to the latest (#10697)](https://github.com/Consensys/teku/commit/b5871bb958131f5145d6d2e4596e2ef47d63e424) - 2026-05-13
 * [Commit] [Fix external provider store test (#10696)](https://github.com/Consensys/teku/commit/c4522fb234365d99a30e3647506f19c3408067bd) - 2026-05-13
+* [Pull Request] [Update ethspecify, mostly for Gloas functions](https://github.com/Consensys/teku/pull/10706) - 2026-05-14
+* [Pull Request] [Cleanup ethspecify](https://github.com/Consensys/teku/pull/10705) - 2026-05-14
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

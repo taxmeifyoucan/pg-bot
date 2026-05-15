@@ -170,6 +170,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] perf cherry-picks: commitment rebuild resume, seg retire merge, kv integrity](https://github.com/erigontech/erigon/pull/21135#pullrequestreview-4271343285) - 2026-05-12
 * [Review] [Review on: db/state: introduce DirtyFiles and visibleFiles types with batch methods](https://github.com/erigontech/erigon/pull/21076#pullrequestreview-4278832421) - 2026-05-13
 * [Review] [Review on: db/state: encapsulate worker state into 1 struct](https://github.com/erigontech/erigon/pull/21075#pullrequestreview-4280704313) - 2026-05-13
+* [Pull Request] [[wip] speed up ChangeSets3 prune at chain tip](https://github.com/erigontech/erigon/pull/21204) - 2026-05-15
+* [Pull Request] [execution/stagedsync: check batch fullness after every block](https://github.com/erigontech/erigon/pull/21193) - 2026-05-14
+* [Pull Request] [execution/execmodule: prune chaindata in CommitCycle (+ release roTx, bloatnet collation gate)](https://github.com/erigontech/erigon/pull/21192) - 2026-05-14
+* [Review] [Review on: execution, db/integrity: set PostState on pre-Byzantium receipts in RCache](https://github.com/erigontech/erigon/pull/21072#pullrequestreview-4287099320) - 2026-05-14
+* [Review] [Review on: [wip] db/state: fix readyForCollation when block snapshots exist but state files do not](https://github.com/erigontech/erigon/pull/21183#pullrequestreview-4287285847) - 2026-05-14
 ## Q1 2026
 
 

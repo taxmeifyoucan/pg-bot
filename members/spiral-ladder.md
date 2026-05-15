@@ -83,6 +83,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat(bindings/bls): use external buffers for blst operations](https://github.com/ChainSafe/lodestar-z/pull/356) - 2026-05-12
 * [Review] [Review on: feat: asyncAggregateWithRandomness](https://github.com/ChainSafe/lodestar-z/pull/353#pullrequestreview-4282565227) - 2026-05-13
 * [Pull Request] [feat(blst): use external buffers for blst operations](https://github.com/ChainSafe/lodestar-z/pull/358) - 2026-05-13
+* [Commit] [feat: asyncAggregateWithRandomness (#353)](https://github.com/ChainSafe/lodestar-z/commit/28b43a9da89cb0d7df3504506f10efc1163941cb) - 2026-05-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 
@@ -90,6 +91,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: fail nightly spec tests workflow if any tests failed](https://github.com/ChainSafe/lodestar/pull/9271#pullrequestreview-4170211824) - 2026-04-24
 * [Review] [Review on: chore: add workflow to run nightly spec tests](https://github.com/ChainSafe/lodestar/pull/9268#pullrequestreview-4169597282) - 2026-04-24
 * [Pull Request] [feat: consume asyncAggregateWithRandomness branch from lodestar-z](https://github.com/ChainSafe/lodestar/pull/9342) - 2026-05-08
+* [Pull Request] [chore: install zig 0.16.0 in Dockerfile](https://github.com/ChainSafe/lodestar/pull/9371) - 2026-05-14
+* [Review] [Review on: chore: install zig 0.16.0 in Dockerfile](https://github.com/ChainSafe/lodestar/pull/9371#pullrequestreview-4288639588) - 2026-05-14
 ## Q1 2026
 
 

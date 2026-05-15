@@ -109,6 +109,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: test: stabilize getPayloadV1 improving-blocks and Simple_test_sync](https://github.com/NethermindEth/nethermind/pull/11568#pullrequestreview-4271035698) - 2026-05-12
 * [Commit] [Handle IPAddress JSON (#11571)](https://github.com/NethermindEth/nethermind/commit/bb17118406aa73b43227c35cb067d60879371238) - 2026-05-12
 * [Review] [Review on: Update BAL pyspec fixtures to v7.1.1](https://github.com/NethermindEth/nethermind/pull/11595#pullrequestreview-4283769392) - 2026-05-13
+* [Review] [Review on: Make AddSelfDestructLog available for the use in Arbitrum plugin](https://github.com/NethermindEth/nethermind/pull/11613#pullrequestreview-4293469281) - 2026-05-14
+* [Review] [Review on: Absent system acc is not created on touch](https://github.com/NethermindEth/nethermind/pull/11575#pullrequestreview-4289147072) - 2026-05-14
+* [Review] [Review on: `eth_signTransaction` eliminate allocations & improvements](https://github.com/NethermindEth/nethermind/pull/11587#pullrequestreview-4288671807) - 2026-05-14
+* [Commit] [Absent system acc is not created on touch (#11575)](https://github.com/NethermindEth/nethermind/commit/bede13515cb9b1005ddd4fdf955224c9e18fa4f8) - 2026-05-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

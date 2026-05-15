@@ -326,6 +326,8 @@ Team: Reth
 * [Pull Request] [fix: materialize stack for dedup redirects](https://github.com/paradigmxyz/revmc/pull/378) - 2026-05-13
 * [Pull Request] [refactor: generalize jit evm factory](https://github.com/paradigmxyz/revmc/pull/379) - 2026-05-13
 * [Commit] [fix: materialize stack for dedup redirects (#378)](https://github.com/paradigmxyz/revmc/commit/f2a31d82ec9f0d783876a20d5343d9e98675e94b) - 2026-05-13
+* [Pull Request] [fix: preserve jump entry blocks](https://github.com/paradigmxyz/revmc/pull/380) - 2026-05-14
+* [Commit] [fix: preserve jump entry blocks (#380)](https://github.com/paradigmxyz/revmc/commit/3a4c49dd4340cba8d3fc68132e05ff131e1e7406) - 2026-05-14
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -362,6 +364,7 @@ Team: Reth
 * [Review] [Review on: deps: bump libmdbx to v0.13.12](https://github.com/paradigmxyz/reth/pull/24007#pullrequestreview-4235203561) - 2026-05-06
 * [Review] [Review on: feat: run payload builder on a named os thread](https://github.com/paradigmxyz/reth/pull/24038#pullrequestreview-4245717135) - 2026-05-07
 * [Review] [Review on: feat: integrate revmc JIT](https://github.com/paradigmxyz/reth/pull/23230#pullrequestreview-4280791325) - 2026-05-13
+* [Review] [Review on: perf(bal): initialize state providers once per worker](https://github.com/paradigmxyz/reth/pull/24254#pullrequestreview-4292855093) - 2026-05-14
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

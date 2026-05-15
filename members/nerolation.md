@@ -45,6 +45,10 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8131: Add empirical impact report](https://github.com/ethereum/EIPs/commit/7ea4ed579a193cbc271662a55ad7d51924d2d81d) - 2026-05-08
 * [Pull Request] [Update EIP-7862: Add Delayed State Root to PFI](https://github.com/ethereum/EIPs/pull/11637) - 2026-05-10
 * [Pull Request] [Update EIP-8141: Add EXPIRY_VERIFIER frame for tx expiry](https://github.com/ethereum/EIPs/pull/11662) - 2026-05-13
+* [Pull Request] [Update EIP-7928: Fix contract creation wording](https://github.com/ethereum/EIPs/pull/11667) - 2026-05-14
+* [Commit] [Update EIP-8141: Add EXPIRY_VERIFIER frame for tx expiry](https://github.com/ethereum/EIPs/commit/0b19715637bb81a43e0d208f2b78899795356306) - 2026-05-14
+* [Commit] [Add EIP: Execution-Layer Reorg State Retention Window](https://github.com/ethereum/EIPs/commit/5e93443637cbe48432e06224aed7f819e97bdcfb) - 2026-05-14
+* [Commit] [Update EIP-7928: Fix contract creation wording](https://github.com/ethereum/EIPs/commit/22b2e961fbb28cd0976271b3afb1b7895a025542) - 2026-05-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11

@@ -73,6 +73,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec-spec, tests): Implement eip-8246 and testing scenario](https://github.com/ethereum/execution-specs/pull/2842#pullrequestreview-4285605466) - 2026-05-13
 * [Review] [Review on: refactor(tests): replace runtime skip in EIP-7778 calldata test](https://github.com/ethereum/execution-specs/pull/2852#pullrequestreview-4285258861) - 2026-05-13
 * [Review] [Review on: fix(consume): add ethereum/execution-specs to SUPPORTED_REPOS](https://github.com/ethereum/execution-specs/pull/2849#pullrequestreview-4285216985) - 2026-05-13
+* [Pull Request] [feat(test-specs): Test mutators](https://github.com/ethereum/execution-specs/pull/2860) - 2026-05-14
+* [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7843 SLOTNUM opcode](https://github.com/ethereum/execution-specs/pull/2853#pullrequestreview-4291758694) - 2026-05-14
+* [Review] [Review on: test(tests): inter-dependent tx tests for BAL parallelization](https://github.com/ethereum/execution-specs/pull/2851#pullrequestreview-4291375509) - 2026-05-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

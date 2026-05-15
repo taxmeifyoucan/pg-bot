@@ -113,6 +113,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: extract spec tests out of make test-all (#21092)](https://github.com/erigontech/erigon/commit/4646132492800db836b997ac28e1110c52e3ff9a) - 2026-05-12
 * [Pull Request] [execution: fix unwind edge cases for parallel exec and add benchmark-parallel exec shards to CI](https://github.com/erigontech/erigon/pull/21163) - 2026-05-13
 * [Commit] [execution: fix unwind edge cases for parallel exec and add benchmark-parallel exec shards to CI (#21163)](https://github.com/erigontech/erigon/commit/3ecebba2dffa758de7936bc089f43a6f4ece8d4c) - 2026-05-13
+* [Review] [Review on: execution: parallel-exec correctness + perf fixes; gate residual EXEC3_PARALLEL flakes (#21136)](https://github.com/erigontech/erigon/pull/21153#pullrequestreview-4289147679) - 2026-05-14
+* [Review] [Review on: Added SSZ REST for Engine API](https://github.com/erigontech/erigon/pull/21203#pullrequestreview-4294700998) - 2026-05-15
+* [Review] [Review on: execution/stagedsync: fix parallel-exec BAL race from duplicate coinbase BalancePath write in finalize](https://github.com/erigontech/erigon/pull/21177#pullrequestreview-4288883502) - 2026-05-14
+* [Review] [Review on: ci: add test-kurtosis-gloas.yml to zizmor cache-poisoning ignore list](https://github.com/erigontech/erigon/pull/21181#pullrequestreview-4287974923) - 2026-05-14
 ## Q1 2026
 
 

@@ -85,6 +85,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: Fix dependency caching (#11499)](https://github.com/NethermindEth/nethermind/commit/c736474a93cb2fce7ab64a74375a93f6ad16be4e) - 2026-05-08
 * [Review] [Review on: docs(agents): self-documenting code + <summary>/<remarks> guidance](https://github.com/NethermindEth/nethermind/pull/11544#pullrequestreview-4259188329) - 2026-05-10
 * [Review] [Review on: Update .NET dependencies to 10.0.8](https://github.com/NethermindEth/nethermind/pull/11581#pullrequestreview-4275369154) - 2026-05-12
+* [Pull Request] [fix: Remove redundant target framework](https://github.com/NethermindEth/nethermind/pull/11612) - 2026-05-14
+* [Commit] [fix: Remove redundant target framework (#11612)](https://github.com/NethermindEth/nethermind/commit/203f93ef2cc5f6b874e1585fea9ab989f24a7afb) - 2026-05-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 ## Q1 2026

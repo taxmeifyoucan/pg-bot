@@ -78,6 +78,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Add the possibility to pass a custom data storage configuration during reference tests](https://github.com/besu-eth/besu/pull/10483#pullrequestreview-4271298403) - 2026-05-12
 * [Review] [Review on: Add gradle task to run custom tests](https://github.com/besu-eth/besu/pull/10488#pullrequestreview-4271362166) - 2026-05-12
 * [Commit] [Add the possibility to pass a custom data storage configuration during reference tests (#10483)](https://github.com/besu-eth/besu/commit/9fcf3cc4aa746b84d0e0eaab86a00a0263f5b374) - 2026-05-12
+* [Pull Request] [fix flaky test on BalStateRootCommitterFactoryTest](https://github.com/besu-eth/besu/pull/10500) - 2026-05-14
+* [Review] [Review on: fix flaky test on BalStateRootCommitterFactoryTest](https://github.com/besu-eth/besu/pull/10500#pullrequestreview-4287529647) - 2026-05-14
+* [Review] [Review on: Fix eth/71 BlockAccessLists wire encoding](https://github.com/besu-eth/besu/pull/10497#pullrequestreview-4287431029) - 2026-05-14
+* [Commit] [fix flaky test on BalStateRootCommitterFactoryTest (#10500)](https://github.com/besu-eth/besu/commit/2dc5255d31f1218d47941420266e3c8558d8de27) - 2026-05-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

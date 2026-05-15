@@ -386,6 +386,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Use generic decoding results for block and tx; remove IRlpObjectDecoder](https://github.com/NethermindEth/nethermind/pull/10759#pullrequestreview-4282575125) - 2026-05-13
 * [Review] [Review on: `eth_signTransaction` eliminate allocations & improvements](https://github.com/NethermindEth/nethermind/pull/11587#pullrequestreview-4282439453) - 2026-05-13
 * [Review] [Review on: Align EIP-8037 gas accounting with BAL tests v7.1.0](https://github.com/NethermindEth/nethermind/pull/11579#pullrequestreview-4281931825) - 2026-05-13
+* [Pull Request] [feat(engine): support targetGasLimit in PayloadAttributesV4](https://github.com/NethermindEth/nethermind/pull/11611) - 2026-05-14
+* [Review] [Review on: fix: Remove redundant target framework](https://github.com/NethermindEth/nethermind/pull/11612#pullrequestreview-4291071018) - 2026-05-14
+* [Review] [Review on: Make InstructionSelfDestruct public to be reused in Arbitrum](https://github.com/NethermindEth/nethermind/pull/11605#pullrequestreview-4289206332) - 2026-05-14
+* [Review] [Review on: fix: suppress ExecutionContext flow in prewarmer to fix non-deterministic block stats](https://github.com/NethermindEth/nethermind/pull/11597#pullrequestreview-4289237175) - 2026-05-14
+* [Review] [Review on: Absent system acc is not created on touch](https://github.com/NethermindEth/nethermind/pull/11575#pullrequestreview-4288910906) - 2026-05-14
+* [Review] [Review on: `eth_signTransaction` eliminate allocations & improvements](https://github.com/NethermindEth/nethermind/pull/11587#pullrequestreview-4287971428) - 2026-05-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 
@@ -394,6 +400,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add ssz to engine api](https://github.com/ethereum/execution-apis/pull/764#pullrequestreview-4250463618) - 2026-05-08
+
+* [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4290710648) - 2026-05-14
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540#pullrequestreview-4291157966) - 2026-05-14
 ## Q1 2026
 
 

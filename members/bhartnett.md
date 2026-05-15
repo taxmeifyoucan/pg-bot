@@ -51,6 +51,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Add ConcurrentLruCache and tests (#4225)](https://github.com/status-im/nimbus-eth1/commit/70cf24b45fd47333386e41b60098222313af4aae) - 2026-05-11
 * [Pull Request] [Concurrency types performance and safety improvements](https://github.com/status-im/nimbus-eth1/pull/4234) - 2026-05-12
 * [Commit] [Concurrency types performance and safety improvements (#4234)](https://github.com/status-im/nimbus-eth1/commit/8cd617c400e4f926f960baafda2f04000fc28b7c) - 2026-05-12
+* [Pull Request] [Optimistic state prefetch](https://github.com/status-im/nimbus-eth1/pull/4238) - 2026-05-14
 ## Q1 2026
 
 

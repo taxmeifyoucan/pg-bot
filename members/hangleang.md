@@ -35,6 +35,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [fix: include block hash in Gloas genesis block](https://github.com/grandinetech/grandine/pull/679) - 2026-05-07
 * [Pull Request] [Fix pool attestation benchmark](https://github.com/grandinetech/grandine/pull/681) - 2026-05-09
 * [Pull Request] [Add builder_indices cache to beacon state](https://github.com/grandinetech/grandine/pull/682) - 2026-05-11
+* [Pull Request] [Add proposer preferences event](https://github.com/grandinetech/grandine/pull/691) - 2026-05-14
+* [Pull Request] [Don't respond error for ignored payload bid](https://github.com/grandinetech/grandine/pull/692) - 2026-05-14
+* [Pull Request] [Add execution_payload and execution_payload_gossip event](https://github.com/grandinetech/grandine/pull/690) - 2026-05-14
 ## Q1 2026
 
 

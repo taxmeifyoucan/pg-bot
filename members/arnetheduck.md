@@ -39,6 +39,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4195918133) - 2026-04-29
 
+* [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4287908785) - 2026-05-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Execution-Layer Reorg State Retention Window](https://github.com/ethereum/EIPs/pull/11601#pullrequestreview-4242207500) - 2026-05-07
 ## Q1 2026

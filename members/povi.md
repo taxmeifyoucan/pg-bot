@@ -28,6 +28,11 @@ Team: Grandine
 * [Review] [Review on: Test full epoch processing](https://github.com/grandinetech/grandine/pull/680#pullrequestreview-4243835980) - 2026-05-07
 * [Review] [Review on: fix: include block hash in Gloas genesis block](https://github.com/grandinetech/grandine/pull/679#pullrequestreview-4252519488) - 2026-05-08
 * [Pull Request] [Use separate DB for storing blobs](https://github.com/grandinetech/grandine/pull/685) - 2026-05-13
+* [Pull Request] [Add `single_attestation` event topic and use it for single attestations](https://github.com/grandinetech/grandine/pull/688) - 2026-05-14
+* [Review] [Review on: Add proposer preferences event](https://github.com/grandinetech/grandine/pull/691#pullrequestreview-4290003244) - 2026-05-14
+* [Review] [Review on: Don't respond error for ignored payload bid](https://github.com/grandinetech/grandine/pull/692#pullrequestreview-4289997440) - 2026-05-14
+* [Review] [Review on: Fix pool attestation benchmark](https://github.com/grandinetech/grandine/pull/681#pullrequestreview-4289984107) - 2026-05-14
+* [Commit] [Add `single_attestation` event topic and use it for single attestations. Fixes #687](https://github.com/grandinetech/grandine/commit/0db0d663b8f870ab743ff2fe76135439470156d8) - 2026-05-14
 ## Q1 2026
 
 

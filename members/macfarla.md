@@ -168,6 +168,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix flaky PeerDiscoveryAgentV5Test.shouldEvictPeerWhenPermissionsRevoked](https://github.com/besu-eth/besu/pull/10494#pullrequestreview-4280264157) - 2026-05-13
 * [Issue] [flaky test PeerDiscoveryAgentV5Test](https://github.com/besu-eth/besu/issues/10493) - 2026-05-13
 * [Commit] [Fix/engine new payload invalid request type (#10484)](https://github.com/besu-eth/besu/commit/63382aefeb0cd31f0cc7e623cfb7c1363263fa54) - 2026-05-13
+* [Pull Request] [fix: reject non-0x-prefixed tx hash in debug_getRawTransaction](https://github.com/besu-eth/besu/pull/10505) - 2026-05-15
+* [Review] [Review on: fix: reject non-hex parameters in debug_getRawBlock, debug_getRawHeader, debug_getRawReceipts, eth_getProof, and debug_getRawTransaction](https://github.com/besu-eth/besu/pull/10240#pullrequestreview-4294646586) - 2026-05-15
+* [Review] [Review on: fix: use non-zero exit code on disk-full shutdown](https://github.com/besu-eth/besu/pull/10254#pullrequestreview-4294464756) - 2026-05-15
+* [Pull Request] [add eth_getTransactionBySenderAndNonce RPC](https://github.com/besu-eth/besu/pull/10501) - 2026-05-14
+* [Review] [Review on: Improvement: Delegate TransactionBroadcaster peer shuffling to ThreadLocalRandom](https://github.com/besu-eth/besu/pull/10328#pullrequestreview-4294168712) - 2026-05-14
+* [Review] [Review on: fix flaky test on BalStateRootCommitterFactoryTest](https://github.com/besu-eth/besu/pull/10500#pullrequestreview-4287597748) - 2026-05-14
+* [Review] [Review on: refactor: replace eager string concatenation with SLF4J parameterized logging](https://github.com/besu-eth/besu/pull/10352#pullrequestreview-4288380933) - 2026-05-14
+* [Review] [Review on: fix(jsonrpc): eth_capabilities state/stateproofs disabled detection](https://github.com/besu-eth/besu/pull/10377#pullrequestreview-4286924739) - 2026-05-14
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

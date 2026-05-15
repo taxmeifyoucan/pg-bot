@@ -42,6 +42,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat: PTC vote three-state breakdown + EIP-7843 slot_number coverage](https://github.com/ethpandaops/xatu/pull/827#pullrequestreview-4278004576) - 2026-05-13
 * [Commit] [chore: swap go-eth2-client to ethpandaops fork v0.1.2 (#828)](https://github.com/ethpandaops/xatu/commit/ca4ae309f1a789442e491278e075a572c6d6d0d4) - 2026-05-13
 * [Commit] [feat(output): add s3blobstore sink for blob sidecar archival](https://github.com/ethpandaops/xatu/commit/a8390f63b188352391323af6dfbcbebd6499cc0c) - 2026-05-13
+* [Pull Request] [fix(processor): stop per-trace partitioning in BatchItemProcessor (OOM)](https://github.com/ethpandaops/xatu/pull/841) - 2026-05-15
+* [Pull Request] [fix(output/http): bound http.Transport connection pool to fix v1.12.0 OOM](https://github.com/ethpandaops/xatu/pull/837) - 2026-05-14
+* [Pull Request] [feat(observability): full OTel traces with gRPC propagation](https://github.com/ethpandaops/xatu/pull/835) - 2026-05-14
+* [Pull Request] [chore: bump go-eth2-client to fix grandine attestation log spam](https://github.com/ethpandaops/xatu/pull/836) - 2026-05-14
+* [Commit] [feat(observability): full OTel traces with gRPC propagation (#835)](https://github.com/ethpandaops/xatu/commit/cd0627bff34f4557959638f506a42636eefd9f7b) - 2026-05-14
+* [Commit] [feat(local): swap xatu-server to direct kafka output with protobuf (#834)](https://github.com/ethpandaops/xatu/commit/908ea1c6b14091e4492836af922f86d9ad8dceab) - 2026-05-14
+* [Commit] [feat: capture fast_confirmation beacon-api event in sentry (#830)](https://github.com/ethpandaops/xatu/commit/467c4b952f5580f0bfb808941f95a96abcdcad8d) - 2026-05-14
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23
@@ -55,6 +62,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168#pullrequestreview-4268518279) - 2026-05-12
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Review] [Review on: feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167#pullrequestreview-4232485880) - 2026-05-06
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [fix(sse): route SingleAttestation to single_attestation event topic](https://github.com/grandinetech/grandine/pull/689) - 2026-05-14
+* [Issue] [SSE `attestation` topic emits `SingleAttestation` payloads](https://github.com/grandinetech/grandine/issues/687) - 2026-05-14
 ## Q1 2026
 
 

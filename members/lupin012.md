@@ -126,6 +126,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: add position field to callTracer withLog tests](https://github.com/erigontech/erigon/pull/21175) - 2026-05-13
 * [Review] [Review on: rpc: implement eth_capabilities method](https://github.com/erigontech/erigon/pull/20951#pullrequestreview-4284686607) - 2026-05-13
 * [Review] [Review on: rpc: fail closed on AsMessage errors in debug tracing](https://github.com/erigontech/erigon/pull/21142#pullrequestreview-4283806825) - 2026-05-13
+* [Review] [Review on: execution, db/integrity: set PostState on pre-Byzantium receipts in RCache](https://github.com/erigontech/erigon/pull/21072#pullrequestreview-4292538565) - 2026-05-14
+* [Review] [Review on: rpc: reuse storage composite key buffers](https://github.com/erigontech/erigon/pull/21134#pullrequestreview-4292376454) - 2026-05-14
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -156,6 +158,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration_test: set ws timeout](https://github.com/erigontech/rpc-tests/pull/559) - 2026-05-10
 * [Commit] [add eth_capability test (#557)](https://github.com/erigontech/rpc-tests/commit/0fcbcd5cb80b2df4e4af6f79a3dfb66f1718f4b1) - 2026-05-11
 * [Commit] [set ws timeout (#559)](https://github.com/erigontech/rpc-tests/commit/0bb848d3143cd918aeda27504aef6b800741e9b7) - 2026-05-11
+* [Pull Request] [integration_test: change rsp for eth_capability & improve mgt ignore-filed metadata](https://github.com/erigontech/rpc-tests/pull/561) - 2026-05-14
+* [Commit] [uèpdate exp rsp (#561)](https://github.com/erigontech/rpc-tests/commit/51a907f9e49c05d7f1630c1202e31a32b9329ead) - 2026-05-14
 ## Q1 2026
 
 

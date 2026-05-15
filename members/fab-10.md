@@ -75,6 +75,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Add support for fail on unknown JSON properties unless are null](https://github.com/besu-eth/besu/pull/10495) - 2026-05-13
 * [Review] [Review on: Add support for fail on unknown JSON properties unless are null](https://github.com/besu-eth/besu/pull/10495#pullrequestreview-4281994800) - 2026-05-13
 * [Review] [Review on: Add txsSelectionHighScore metric for per-included-tx selection time](https://github.com/besu-eth/besu/pull/10265#pullrequestreview-4281777016) - 2026-05-13
+* [Review] [Review on: Enrich `/readiness` health endpoint with diagnostic details](https://github.com/besu-eth/besu/pull/10412#pullrequestreview-4290003136) - 2026-05-14
+* [Commit] [refactor: introduce PreparePayloadArgs builder for MergeMiningCoordinator.preparePayload (#10496)](https://github.com/besu-eth/besu/commit/48b073d915ee98744cf200dd27d01dbaa6a0b28c) - 2026-05-14
+* [Commit] [Add support for fail on unknown JSON properties unless are null (#10495)](https://github.com/besu-eth/besu/commit/187924c81ca59900afd5a16b220e897099e5f9e4) - 2026-05-14
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

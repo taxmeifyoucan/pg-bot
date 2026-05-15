@@ -45,6 +45,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/forkchoice: key optimistic store by blockRoot](https://github.com/erigontech/erigon/pull/21110#pullrequestreview-4270206646) - 2026-05-12
 * [Issue] [cl/forkchoice: HasEnvelope used as proxy for is_payload_verified in GLOAS fork choice](https://github.com/erigontech/erigon/issues/21131) - 2026-05-12
 * [Commit] [cl: implement GLOAS (EIP-7732 ePBS) for Caplin (#18956)](https://github.com/erigontech/erigon/commit/f3ad70f1f7c59949e3f749022d5510aac936395e) - 2026-05-13
+* [Pull Request] [cl/forkchoice: dump beacon state in AddChainSegment to prevent death spiral](https://github.com/erigontech/erigon/pull/21191) - 2026-05-14
+* [Pull Request] [cl/forkchoice: fix infinite loop in getState when state file is missing](https://github.com/erigontech/erigon/pull/21188) - 2026-05-14
+* [Pull Request] [cl/beacon: fix liveness endpoint checking previous epoch participation](https://github.com/erigontech/erigon/pull/21187) - 2026-05-14
+* [Pull Request] [cl/beacon: fix liveness endpoint checking previous epoch participation](https://github.com/erigontech/erigon/pull/21186) - 2026-05-14
+* [Commit] [cl/forkchoice: fix infinite loop in getState when state file is missing (#21188)](https://github.com/erigontech/erigon/commit/5ad831849f674bd0ed6e0ee8d1019a9c270b44ee) - 2026-05-14
+* [Commit] [cl/beacon: fix liveness endpoint checking previous epoch participation (#21187)](https://github.com/erigontech/erigon/commit/6f76e132b11090e832710d0387841e4ae307195a) - 2026-05-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026
