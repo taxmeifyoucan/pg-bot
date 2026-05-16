@@ -33,6 +33,8 @@ Team: Grandine
 * [Review] [Review on: Don't respond error for ignored payload bid](https://github.com/grandinetech/grandine/pull/692#pullrequestreview-4289997440) - 2026-05-14
 * [Review] [Review on: Fix pool attestation benchmark](https://github.com/grandinetech/grandine/pull/681#pullrequestreview-4289984107) - 2026-05-14
 * [Commit] [Add `single_attestation` event topic and use it for single attestations. Fixes #687](https://github.com/grandinetech/grandine/commit/0db0d663b8f870ab743ff2fe76135439470156d8) - 2026-05-14
+* [Review] [Review on: Use `MIN_SEED_LOOKAHEAD` preset in proposer preferences](https://github.com/grandinetech/grandine/pull/696#pullrequestreview-4298533856) - 2026-05-15
+* [Review] [Review on: Add target_gas_limit to PayloadAttributes](https://github.com/grandinetech/grandine/pull/693#pullrequestreview-4298172218) - 2026-05-15
 ## Q1 2026
 
 

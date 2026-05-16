@@ -40,6 +40,10 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [state diff anchors cache metrics](https://github.com/OffchainLabs/prysm/pull/16789) - 2026-05-14
 * [Review] [Review on: Add gloas random and rewards spec tests](https://github.com/OffchainLabs/prysm/pull/16770#pullrequestreview-4289205369) - 2026-05-14
 * [Review] [Review on: Add gloas support to hdiff state diffs](https://github.com/OffchainLabs/prysm/pull/16590#pullrequestreview-4290768191) - 2026-05-14
+* [Pull Request] [vibe coded one go migration](https://github.com/OffchainLabs/prysm/pull/16795) - 2026-05-15
+* [Commit] [compress state diff anchor cache (#16790)](https://github.com/OffchainLabs/prysm/commit/9ec345e0fda9439740ac564eefb3a9173ead3cf5) - 2026-05-15
+* [Commit] [remove "already exists in db" check from migrateToColdHdiff (#16761)](https://github.com/OffchainLabs/prysm/commit/adf661fb9fae6b036ebf44a95203c9402be7b917) - 2026-05-15
+* [Commit] [boundary slot check for state diff cache (#16760)](https://github.com/OffchainLabs/prysm/commit/9daca7901c42d02dedd551dd9b29190789fa8e4f) - 2026-05-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

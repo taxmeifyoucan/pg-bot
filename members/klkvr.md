@@ -133,6 +133,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat(cli): add `download --force` snapshot overwrite support](https://github.com/paradigmxyz/reth/pull/24229#pullrequestreview-4290190810) - 2026-05-14
 * [Commit] [perf(bal): initialize state providers once per worker (#24254)](https://github.com/paradigmxyz/reth/commit/f511fee5689835c680260ea8ba3cc259db026b2c) - 2026-05-14
 * [Commit] [fix: properly handle dummy blocks in migrate-v2 (#24189)](https://github.com/paradigmxyz/reth/commit/4e515ac5fd06655300b3e3c820005170bce9418d) - 2026-05-14
+* [Pull Request] [perf: join account and storage reveals](https://github.com/paradigmxyz/reth/pull/24265) - 2026-05-15
+* [Commit] [feat(migrate-v2): migrate mdbx -> rocksdb (#24230)](https://github.com/paradigmxyz/reth/commit/b61b5436be9f376e1e4cfba39e267154f50120e1) - 2026-05-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

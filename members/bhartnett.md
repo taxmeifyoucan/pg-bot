@@ -52,6 +52,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Concurrency types performance and safety improvements](https://github.com/status-im/nimbus-eth1/pull/4234) - 2026-05-12
 * [Commit] [Concurrency types performance and safety improvements (#4234)](https://github.com/status-im/nimbus-eth1/commit/8cd617c400e4f926f960baafda2f04000fc28b7c) - 2026-05-12
 * [Pull Request] [Optimistic state prefetch](https://github.com/status-im/nimbus-eth1/pull/4238) - 2026-05-14
+* [Pull Request] [Enable parallel state root computation by default](https://github.com/status-im/nimbus-eth1/pull/4247) - 2026-05-15
+* [Review] [Review on: Enable parallel state root computation by default](https://github.com/status-im/nimbus-eth1/pull/4247#pullrequestreview-4298525490) - 2026-05-15
 ## Q1 2026
 
 

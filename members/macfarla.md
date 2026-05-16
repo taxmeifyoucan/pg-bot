@@ -176,6 +176,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix flaky test on BalStateRootCommitterFactoryTest](https://github.com/besu-eth/besu/pull/10500#pullrequestreview-4287597748) - 2026-05-14
 * [Review] [Review on: refactor: replace eager string concatenation with SLF4J parameterized logging](https://github.com/besu-eth/besu/pull/10352#pullrequestreview-4288380933) - 2026-05-14
 * [Review] [Review on: fix(jsonrpc): eth_capabilities state/stateproofs disabled detection](https://github.com/besu-eth/besu/pull/10377#pullrequestreview-4286924739) - 2026-05-14
+* [Review] [Review on: Consider maxFeePerBlobGas when sorting tx in the layered txpool](https://github.com/besu-eth/besu/pull/10513#pullrequestreview-4300931446) - 2026-05-15
+* [Pull Request] [Rename EthashConfigOptions to FixedDifficultyConfigOptions](https://github.com/besu-eth/besu/pull/10507) - 2026-05-15
+* [Pull Request] [Bound LayeredKeyValueStorage accumulation under head stall](https://github.com/besu-eth/besu/pull/10509) - 2026-05-15
+* [Pull Request] [fix: detect blob tx violations (missing/mismatched sidecar)](https://github.com/besu-eth/besu/pull/10510) - 2026-05-15
+* [Pull Request] [Fix LayeredKeyValueStorage.isClosed() duplicated execution](https://github.com/besu-eth/besu/pull/10508) - 2026-05-15
+* [Pull Request] [fix: Peer Tracker incorrectly evicts peers pre-validation](https://github.com/besu-eth/besu/pull/10511) - 2026-05-15
+* [Commit] [testing_buildBlockV1  - error if tx provided but not applied (#10486)](https://github.com/besu-eth/besu/commit/61b98858ccb0a353a7267407a05f2cdbc46d114a) - 2026-05-15
+* [Commit] [Fix LayeredKeyValueStorage.isClosed() duplicated execution (#10508)](https://github.com/besu-eth/besu/commit/9bb8ab6b97862d581df18191ecedf6ea5912e1e2) - 2026-05-15
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

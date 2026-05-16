@@ -191,6 +191,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Minor fixes from AI audit #2](https://github.com/NethermindEth/nethermind/pull/11563#pullrequestreview-4269030340) - 2026-05-12
 * [Review] [Review on: feat: add SkipMetricsTracking property to DbSettings](https://github.com/NethermindEth/nethermind/pull/11515#pullrequestreview-4269435973) - 2026-05-12
 * [Review] [Review on: feat(init): auto-detect active state backend at startup](https://github.com/NethermindEth/nethermind/pull/11404#pullrequestreview-4281857114) - 2026-05-13
+* [Pull Request] [feat(Core): NativeMemoryList<T> — off-heap ArrayPoolList sibling for unmanaged T](https://github.com/NethermindEth/nethermind/pull/11620) - 2026-05-15
+* [Review] [Review on: feat(core): responsive startup logo with adaptive layout](https://github.com/NethermindEth/nethermind/pull/11413#pullrequestreview-4298330274) - 2026-05-15
+* [Review] [Review on: fix(snap-sync): refresh pivot instead of punishing the only peer (#6803)](https://github.com/NethermindEth/nethermind/pull/11569#pullrequestreview-4296522031) - 2026-05-15
+* [Commit] [Add NETH005 analyzer: redundant Span<T>.ToArray() at call sites (#11464)](https://github.com/NethermindEth/nethermind/commit/b881dd62573cd92f015dcd3e5a0ec66dd3e8a36c) - 2026-05-15
+* [Commit] [feat(init): auto-detect active state backend at startup (#11404)](https://github.com/NethermindEth/nethermind/commit/5ecd9b86c5d81e9af266ab833a4e28577cdfae48) - 2026-05-15
+* [Commit] [fix(flat-db): skip ImportFlatDb when pruning trie state lacks head root (#11422)](https://github.com/NethermindEth/nethermind/commit/d7a96c950017c3835cd06d9b6f444fc32e4ae78e) - 2026-05-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

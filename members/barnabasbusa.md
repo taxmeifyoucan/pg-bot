@@ -15,6 +15,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: create FULL variant for gloas genesis and allow block production when stalled with peers](https://github.com/ChainSafe/lodestar/pull/9153) - 2026-04-01
 * [Pull Request] [fix: handle genesis block in gloas fork choice and genesis state init](https://github.com/ChainSafe/lodestar/pull/9149) - 2026-04-01
 
+* [Pull Request] [feat(beacon-api): expose peer-scoring fields on /eth/v1/node/peers](https://github.com/ChainSafe/lodestar/pull/9373) - 2026-05-15
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [Fix nil pointer panic in beacon event stream](https://github.com/ethpandaops/dora/pull/624) - 2026-04-01
 
@@ -125,6 +126,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix: render BAL tx details From/To as hex instead of base64](https://github.com/ethpandaops/dora/commit/07434391e739579135cae6c308ec6e485a1410ae) - 2026-05-07
 * [Commit] [Merge pull request #682 from ethpandaops/bbusa/fix-bids-builder-link](https://github.com/ethpandaops/dora/commit/25693007804d13929104b2aabe6d0a079ac03c33) - 2026-05-07
 * [Commit] [fix: link Builder column on slot Bids tab to /builder/<idx>](https://github.com/ethpandaops/dora/commit/40e3d26478cae334a307a86b4867b6537b4635a3) - 2026-05-07
+* [Pull Request] [fix: orphan-status badge in list views + Docker buildability](https://github.com/ethpandaops/dora/pull/693) - 2026-05-15
+* [Pull Request] [build(docker): bump golang base image to 1.25.7](https://github.com/ethpandaops/dora/pull/694) - 2026-05-15
+* [Pull Request] [chore(deps): bump eth-das-guardian to v0.1.1](https://github.com/ethpandaops/dora/pull/695) - 2026-05-15
+* [Commit] [fix: populate ExecutionHash when payload arrives before block body](https://github.com/ethpandaops/dora/commit/5559e8414cf4c20c4337a4a56ac37d5e7745c6f7) - 2026-05-15
+* [Commit] [fix: don't mark payload orphaned when no canonical child exists yet](https://github.com/ethpandaops/dora/commit/901328fc3e4ad4872f24ee7553736a891388edb6) - 2026-05-15
+* [Commit] [Merge pull request #694 from ethpandaops/bbusa/bump-dockerfile-go-version](https://github.com/ethpandaops/dora/commit/4a8d6185079994a68c8be7b6c0b2f2504ad7a886) - 2026-05-15
+* [Commit] [chore(deps): bump eth-das-guardian to v0.1.1](https://github.com/ethpandaops/dora/commit/94e4d227ce235634456e081a20c543c71a8a9335) - 2026-05-15
+* [Commit] [build(docker): bump golang base image to 1.25.7](https://github.com/ethpandaops/dora/commit/485b901c11e06ad6708ad4fb82ba7c3570b3194a) - 2026-05-15
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -136,9 +145,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Initialise ExecutionRequestsRoot and ParentExecutionRequests in gloasGenesisBlock](https://github.com/OffchainLabs/prysm/pull/16705) - 2026-04-20
 * [Pull Request] [fix(forkchoice): skip slot-start check for tree root node](https://github.com/OffchainLabs/prysm/pull/16707) - 2026-04-21
 * [Pull Request] [fix(engine): unmarshal slotNumber in ExecutionBundleGloas](https://github.com/OffchainLabs/prysm/pull/16706) - 2026-04-21
+* [Pull Request] [feat(api): expose peer-scoring fields on /eth/v1/node/peers](https://github.com/OffchainLabs/prysm/pull/16794) - 2026-05-15
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112) - 2026-04-08
 
+* [Pull Request] [feat(beacon-api): expose peer-scoring fields on /eth/v1/node/peers](https://github.com/sigp/lighthouse/pull/9307) - 2026-05-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add config/spec test generator for beacon API endpoint](https://github.com/ethereum/consensus-specs/pull/5089) - 2026-04-09
 
@@ -224,6 +235,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Pin Docker base image to debian:trixie-slim; add ca-certificates](https://github.com/status-im/nimbus-eth2/pull/8310) - 2026-04-21
 
 * [Issue] [Gloas: ExecutionPayloadEnvelope published with parent_beacon_block_root = 0x000...000](https://github.com/status-im/nimbus-eth2/issues/8378) - 2026-04-30
+* [Pull Request] [feat(rest): expose peer score and disconnect reason on /eth/v1/node/peers](https://github.com/status-im/nimbus-eth2/pull/8449) - 2026-05-15
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [feat(discovery/clients): add ethrex to default execution clients](https://github.com/ethpandaops/cartographoor/pull/89) - 2026-04-28
 * [Commit] [Merge pull request #89 from ethpandaops/bbusa/add-ethrex-to-discovery](https://github.com/ethpandaops/cartographoor/commit/2e02857de6b1f8b012fa45ed8760f19dcc93c8d5) - 2026-04-28
@@ -232,6 +244,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: add spamoor & buildoor to service detection](https://github.com/ethpandaops/cartographoor/pull/92#pullrequestreview-4256928074) - 2026-05-09
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add ssz to engine api](https://github.com/ethereum/execution-apis/pull/764#pullrequestreview-4250706918) - 2026-05-08
+
+* [Review] [Review on: feat: add ssz to engine api](https://github.com/ethereum/execution-apis/pull/764#pullrequestreview-4298878530) - 2026-05-15
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [feat(beaconrestapi): expose peer-scoring fields on /eth/v1/node/peers](https://github.com/Consensys/teku/pull/10715) - 2026-05-15
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [feat(p2p): expose peer-scoring fields on /eth/v1/node/peers](https://github.com/grandinetech/grandine/pull/695) - 2026-05-15
 ## Q1 2026
 
 

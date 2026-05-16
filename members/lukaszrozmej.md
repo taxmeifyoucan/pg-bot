@@ -392,6 +392,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: suppress ExecutionContext flow in prewarmer to fix non-deterministic block stats](https://github.com/NethermindEth/nethermind/pull/11597#pullrequestreview-4289237175) - 2026-05-14
 * [Review] [Review on: Absent system acc is not created on touch](https://github.com/NethermindEth/nethermind/pull/11575#pullrequestreview-4288910906) - 2026-05-14
 * [Review] [Review on: `eth_signTransaction` eliminate allocations & improvements](https://github.com/NethermindEth/nethermind/pull/11587#pullrequestreview-4287971428) - 2026-05-14
+* [Review] [Review on: feat(eth-rpc): implement `eth_baseFee`, returning next block base fee](https://github.com/NethermindEth/nethermind/pull/11522#pullrequestreview-4296770124) - 2026-05-15
+* [Review] [Review on: feat(chainspec): support shanghai/cancun/prague/osaka hardfork labels](https://github.com/NethermindEth/nethermind/pull/11553#pullrequestreview-4297441514) - 2026-05-15
+* [Review] [Review on: perf(blockchain): make ChainHeadSpecProvider lock-free](https://github.com/NethermindEth/nethermind/pull/11618#pullrequestreview-4299484357) - 2026-05-15
+* [Review] [Review on: Optimize Optimism receipt lookup in block RPC](https://github.com/NethermindEth/nethermind/pull/11622#pullrequestreview-4299454978) - 2026-05-15
+* [Review] [Review on: add checks for empty auth and create contract for 7702](https://github.com/NethermindEth/nethermind/pull/11606#pullrequestreview-4295930343) - 2026-05-15
+* [Review] [Review on: feat(sync): support infinite pivot-update attempts via -1 (#5992)](https://github.com/NethermindEth/nethermind/pull/11600#pullrequestreview-4296009349) - 2026-05-15
+* [Review] [Review on: fix(snap-sync): refresh pivot instead of punishing the only peer (#6803)](https://github.com/NethermindEth/nethermind/pull/11569#pullrequestreview-4297066999) - 2026-05-15
+* [Review] [Review on: fix(trace): evaluate TraceStore filter fallback eagerly](https://github.com/NethermindEth/nethermind/pull/11583#pullrequestreview-4296691665) - 2026-05-15
+* [Review] [Review on: fix(eth/70): reject null receipt payloads](https://github.com/NethermindEth/nethermind/pull/11615#pullrequestreview-4296028756) - 2026-05-15
+* [Review] [Review on: Fix eth_syncing at beacon sync pivot](https://github.com/NethermindEth/nethermind/pull/11594#pullrequestreview-4296252578) - 2026-05-15
+* [Review] [Review on: Make AddSelfDestructLog available for the use in Arbitrum plugin](https://github.com/NethermindEth/nethermind/pull/11613#pullrequestreview-4295911934) - 2026-05-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

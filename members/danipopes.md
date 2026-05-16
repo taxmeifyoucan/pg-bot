@@ -328,6 +328,10 @@ Team: Reth
 * [Commit] [fix: materialize stack for dedup redirects (#378)](https://github.com/paradigmxyz/revmc/commit/f2a31d82ec9f0d783876a20d5343d9e98675e94b) - 2026-05-13
 * [Pull Request] [fix: preserve jump entry blocks](https://github.com/paradigmxyz/revmc/pull/380) - 2026-05-14
 * [Commit] [fix: preserve jump entry blocks (#380)](https://github.com/paradigmxyz/revmc/commit/3a4c49dd4340cba8d3fc68132e05ff131e1e7406) - 2026-05-14
+* [Pull Request] [test(runtime): deflake cold entry eviction](https://github.com/paradigmxyz/revmc/pull/382) - 2026-05-16
+* [Pull Request] [fix(runtime): evict stale cold entries](https://github.com/paradigmxyz/revmc/pull/381) - 2026-05-15
+* [Commit] [test(runtime): deflake cold entry eviction (#382)](https://github.com/paradigmxyz/revmc/commit/bd333d08d37e8e63d9f4c68d1158eba05713bcd5) - 2026-05-16
+* [Commit] [fix(runtime): evict stale cold entries (#381)](https://github.com/paradigmxyz/revmc/commit/a66aa8394799d33b64e5e96424c8f7ac6bef6116) - 2026-05-15
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -365,6 +369,9 @@ Team: Reth
 * [Review] [Review on: feat: run payload builder on a named os thread](https://github.com/paradigmxyz/reth/pull/24038#pullrequestreview-4245717135) - 2026-05-07
 * [Review] [Review on: feat: integrate revmc JIT](https://github.com/paradigmxyz/reth/pull/23230#pullrequestreview-4280791325) - 2026-05-13
 * [Review] [Review on: perf(bal): initialize state providers once per worker](https://github.com/paradigmxyz/reth/pull/24254#pullrequestreview-4292855093) - 2026-05-14
+* [Review] [Review on: ci(bench): bump txgen to latest commit](https://github.com/paradigmxyz/reth/pull/24266#pullrequestreview-4302089677) - 2026-05-16
+* [Review] [Review on: ci(bench): remove legacy reth-bench workflow path](https://github.com/paradigmxyz/reth/pull/24262#pullrequestreview-4298483763) - 2026-05-15
+* [Review] [Review on: feat(bench): route BAL replays through txgen](https://github.com/paradigmxyz/reth/pull/24261#pullrequestreview-4297879198) - 2026-05-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

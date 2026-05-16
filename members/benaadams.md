@@ -184,6 +184,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Make AddSelfDestructLog available for the use in Arbitrum plugin](https://github.com/NethermindEth/nethermind/pull/11613#pullrequestreview-4294414586) - 2026-05-15
 * [Review] [Review on: fix: Remove redundant target framework](https://github.com/NethermindEth/nethermind/pull/11612#pullrequestreview-4291025427) - 2026-05-14
 * [Review] [Review on: Make InstructionSelfDestruct public to be reused in Arbitrum](https://github.com/NethermindEth/nethermind/pull/11605#pullrequestreview-4289271643) - 2026-05-14
+* [Review] [Review on: Add NETH005 analyzer: redundant Span<T>.ToArray() at call sites](https://github.com/NethermindEth/nethermind/pull/11464#pullrequestreview-4298830830) - 2026-05-15
+* [Commit] [Default Discovery to V4 (#11614)](https://github.com/NethermindEth/nethermind/commit/dbbabc7bac08e0d8da53c82322e01ab096791fca) - 2026-05-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

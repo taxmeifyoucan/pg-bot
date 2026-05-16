@@ -128,6 +128,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: fail closed on AsMessage errors in debug tracing](https://github.com/erigontech/erigon/pull/21142#pullrequestreview-4283806825) - 2026-05-13
 * [Review] [Review on: execution, db/integrity: set PostState on pre-Byzantium receipts in RCache](https://github.com/erigontech/erigon/pull/21072#pullrequestreview-4292538565) - 2026-05-14
 * [Review] [Review on: rpc: reuse storage composite key buffers](https://github.com/erigontech/erigon/pull/21134#pullrequestreview-4292376454) - 2026-05-14
+* [Pull Request] [rpc: graphql: implement Logs, Call and SendRawTransaction resolvers](https://github.com/erigontech/erigon/pull/21219) - 2026-05-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

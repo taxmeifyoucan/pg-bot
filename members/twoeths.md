@@ -142,11 +142,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: add logs and metrics for execution payload](https://github.com/ChainSafe/lodestar/pull/9370) - 2026-05-14
 * [Review] [Review on: chore: add logs and metrics for execution payload](https://github.com/ChainSafe/lodestar/pull/9370#pullrequestreview-4287988218) - 2026-05-14
 * [Review] [Review on: refactor: payload envelope input -- pruneBelowParent](https://github.com/ChainSafe/lodestar/pull/9326#pullrequestreview-4287951398) - 2026-05-14
+* [Review] [Review on: refactor: payload envelope input -- pruneBelowParent](https://github.com/ChainSafe/lodestar/pull/9326#pullrequestreview-4296687275) - 2026-05-15
+* [Review] [Review on: chore: add logs and metrics for execution payload](https://github.com/ChainSafe/lodestar/pull/9370#pullrequestreview-4296603592) - 2026-05-15
+* [Pull Request] [fix: cache pending deposit signature verifications](https://github.com/ChainSafe/lodestar/pull/9374) - 2026-05-15
+* [Review] [Review on: fix: cache pending deposit signature verifications](https://github.com/ChainSafe/lodestar/pull/9374#pullrequestreview-4296466459) - 2026-05-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4089977467) - 2026-04-10
 
+* [Pull Request] [Optimize strategy for onboarding builders at the fork](https://github.com/ethereum/consensus-specs/pull/5254) - 2026-05-15
+* [Commit] [Optimize strategy for onboarding builders at the fork (#5254)](https://github.com/ethereum/consensus-specs/commit/932c6d691e0d5ed4a003c8bfb9c1c6731ce01924) - 2026-05-15
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: support multi-threaded RefCount](https://github.com/ChainSafe/lodestar-z/pull/62) - 2026-04-17
 * [Commit] [fix: support multi-threaded RefCount (#62)](https://github.com/ChainSafe/lodestar-z/commit/28edb161478f2e45a00f0418624e97028ad38b3b) - 2026-04-17

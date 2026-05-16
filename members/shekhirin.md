@@ -127,6 +127,9 @@ Team: Reth
 * [Review] [Review on: ci(bench): use DEREK_BENCH_ACK_TOKEN for org membership check](https://github.com/paradigmxyz/reth/pull/24191#pullrequestreview-4282937613) - 2026-05-13
 * [Pull Request] [feat(cli): add `download --force` snapshot overwrite support](https://github.com/paradigmxyz/reth/pull/24229) - 2026-05-14
 * [Commit] [feat(cli): add `download --force` snapshot overwrite support (#24229)](https://github.com/paradigmxyz/reth/commit/420693521fccd1437071a15a4a54a3a98b5492cf) - 2026-05-14
+* [Review] [Review on: ci(bench): remove legacy reth-bench workflow path](https://github.com/paradigmxyz/reth/pull/24262#pullrequestreview-4300106731) - 2026-05-15
+* [Review] [Review on: feat(bench): add configurable run pairs](https://github.com/paradigmxyz/reth/pull/24238#pullrequestreview-4298048104) - 2026-05-15
+* [Review] [Review on: bench: remove wait time thread reply from Slack notifications](https://github.com/paradigmxyz/reth/pull/24264#pullrequestreview-4299238040) - 2026-05-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

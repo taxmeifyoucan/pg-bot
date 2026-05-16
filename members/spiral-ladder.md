@@ -84,6 +84,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat: asyncAggregateWithRandomness](https://github.com/ChainSafe/lodestar-z/pull/353#pullrequestreview-4282565227) - 2026-05-13
 * [Pull Request] [feat(blst): use external buffers for blst operations](https://github.com/ChainSafe/lodestar-z/pull/358) - 2026-05-13
 * [Commit] [feat: asyncAggregateWithRandomness (#353)](https://github.com/ChainSafe/lodestar-z/commit/28b43a9da89cb0d7df3504506f10efc1163941cb) - 2026-05-14
+* [Pull Request] [fix(build): remove `zig-out` from `files`](https://github.com/ChainSafe/lodestar-z/pull/360) - 2026-05-15
+* [Commit] [fix(build): remove `zig-out` from `files` (#360)](https://github.com/ChainSafe/lodestar-z/commit/c52af099ca5d8046d61ccef192dc46e3f79d3b07) - 2026-05-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

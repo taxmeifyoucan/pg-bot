@@ -97,6 +97,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: feat: add borrowed alloy BAL conversion](https://github.com/bluealloy/revm/pull/3670#pullrequestreview-4270845142) - 2026-05-12
 * [Pull Request] [feat(eip8038): implement state-access gas cost update](https://github.com/bluealloy/revm/pull/3680) - 2026-05-14
 * [Commit] [docs: expand `BalError` documentation (#3666)](https://github.com/bluealloy/revm/commit/937e339e74be9abb29d1ce25869edee9ebbb42a5) - 2026-05-14
+* [Pull Request] [feat(eip2780): reduce intrinsic transaction gas](https://github.com/bluealloy/revm/pull/3682) - 2026-05-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

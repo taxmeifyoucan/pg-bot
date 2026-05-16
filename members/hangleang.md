@@ -38,6 +38,11 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Add proposer preferences event](https://github.com/grandinetech/grandine/pull/691) - 2026-05-14
 * [Pull Request] [Don't respond error for ignored payload bid](https://github.com/grandinetech/grandine/pull/692) - 2026-05-14
 * [Pull Request] [Add execution_payload and execution_payload_gossip event](https://github.com/grandinetech/grandine/pull/690) - 2026-05-14
+* [Pull Request] [Use `MIN_SEED_LOOKAHEAD` preset in proposer preferences](https://github.com/grandinetech/grandine/pull/696) - 2026-05-15
+* [Pull Request] [Add target_gas_limit to PayloadAttributes](https://github.com/grandinetech/grandine/pull/693) - 2026-05-15
+* [Review] [Review on: Add target_gas_limit to PayloadAttributes](https://github.com/grandinetech/grandine/pull/693#pullrequestreview-4295519983) - 2026-05-15
+* [Pull Request] [Check gas limit consistency with the target](https://github.com/grandinetech/grandine/pull/697) - 2026-05-15
+* [Pull Request] [Add engine_getPayloadV6 bindings](https://github.com/grandinetech/grandine/pull/694) - 2026-05-15
 ## Q1 2026
 
 

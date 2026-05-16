@@ -36,6 +36,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add beacon blocks by head](https://github.com/status-im/nimbus-eth2/pull/8436) - 2026-05-13
 * [Review] [Review on: deprecate blob sidecar support in block publishing paths](https://github.com/status-im/nimbus-eth2/pull/8434#pullrequestreview-4281218553) - 2026-05-13
 * [Review] [Review on: catch the first column gossip addition event for getBlobs](https://github.com/status-im/nimbus-eth2/pull/8393#pullrequestreview-4288627632) - 2026-05-14
+* [Pull Request] [attempt fulu fork epoch on testnet minimal for runner](https://github.com/status-im/nimbus-eth2/pull/8453) - 2026-05-15
 ## Q1 2026
 
 

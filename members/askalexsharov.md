@@ -532,6 +532,13 @@ Team: Erigon
 * [Commit] [cmd/integration: add mdbx_copy compact in-place one-liner (#21189)](https://github.com/erigontech/erigon/commit/1b6a991f7ff51ea3f3deef95881ef53175256ea7) - 2026-05-14
 * [Commit] [deps: golangci-lint v2.11.4→v2.12.2, golang.org/x/  (#21182)](https://github.com/erigontech/erigon/commit/f2616bbcfd4ce4bef6bc52fab0015a90382cfef0) - 2026-05-14
 * [Commit] [ci: add test-kurtosis-gloas.yml to zizmor cache-poisoning ignore list (#21181)](https://github.com/erigontech/erigon/commit/0252ae3b93187ba159130820593ce9f565cc4787) - 2026-05-14
+* [Review] [Review on: execution/stagedsync: bump ChangeSets3 chain-tip prune limit](https://github.com/erigontech/erigon/pull/21216#pullrequestreview-4302424170) - 2026-05-16
+* [Review] [Review on: cp #21192: prune chaindata in CommitCycle](https://github.com/erigontech/erigon/pull/21214#pullrequestreview-4297467839) - 2026-05-15
+* [Review] [Review on: cp #21193: check batch fullness after every block](https://github.com/erigontech/erigon/pull/21213#pullrequestreview-4297471958) - 2026-05-15
+* [Review] [Review on: increase ChangeSets3 prune limit at chain tip](https://github.com/erigontech/erigon/pull/21204#pullrequestreview-4295344590) - 2026-05-15
+* [Review] [Review on: cmd/integration: respect ERIGON_-prefixed EXEC3_PARALLEL in stages.go default](https://github.com/erigontech/erigon/pull/21210#pullrequestreview-4297444583) - 2026-05-15
+* [Review] [Review on: diagnostics/syscheck: make kernel-hint fix commands copy-pastable](https://github.com/erigontech/erigon/pull/21202#pullrequestreview-4295348365) - 2026-05-15
+* [Review] [Review on: db/snapcfg, cmd/utils/app: drop github.com/erigontech/erigon-snapshot dep](https://github.com/erigontech/erigon/pull/21197#pullrequestreview-4295208576) - 2026-05-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

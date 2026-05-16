@@ -105,6 +105,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [build: Add PCH for evmone-unittests](https://github.com/ipsilon/evmone/pull/1525) - 2026-05-06
 * [Commit] [build: Add PCH for evmone-unittests (#1525)](https://github.com/ipsilon/evmone/commit/a8fc92cdb432e32ad571655b09f8968f31d82daa) - 2026-05-06
 * [Commit] [Implement EIP-7778: Block Gas Accounting without Refunds (#1526)](https://github.com/ipsilon/evmone/commit/aee9aeddebfda727b7ad8950ee013f16fa040d16) - 2026-05-07
+* [Pull Request] [ci: Tune sanitizers](https://github.com/ipsilon/evmone/pull/1528) - 2026-05-15
+* [Pull Request] [test: Refactor create-tx with EOF validation test](https://github.com/ipsilon/evmone/pull/1527) - 2026-05-15
+* [Commit] [ci: Tune sanitizers (#1528)](https://github.com/ipsilon/evmone/commit/74614947a5798ee5465eed7f1e944fe1d4c0ea36) - 2026-05-15
+* [Commit] [test: Refactor create-tx with EOF validation test (#1527)](https://github.com/ipsilon/evmone/commit/f5932808d0cfc797dfd6c107abffd0748fea8339) - 2026-05-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -117,6 +121,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): port stPreCompiledContracts/modexp 128-byte carry cases](https://github.com/ethereum/execution-specs/pull/2753) - 2026-04-24
 * [Commit] [feat(tests): port stPreCompiledContracts/modexp 128-byte carry cases (#2753)](https://github.com/ethereum/execution-specs/commit/93984e2567a7d69cff4fff6927643e86072d8a0a) - 2026-04-27
 * [Issue] [EIP-7981: missing test for tx.gas_limit between intrinsic and calldata floor](https://github.com/ethereum/execution-specs/issues/2800) - 2026-05-04
+* [Pull Request] [fix(tests): drop gas_price from EIP-7702 txs in BAL 7702 tests](https://github.com/ethereum/execution-specs/pull/2862) - 2026-05-15
+* [Commit] [fix(tests): drop gas_price from EIP-7702 txs in BAL 7702 tests (#2862)](https://github.com/ethereum/execution-specs/commit/ff1434585dea218730761908ed34731194dd507d) - 2026-05-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

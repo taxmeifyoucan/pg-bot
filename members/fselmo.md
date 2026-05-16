@@ -73,6 +73,10 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [feat(tests): eip7928 checklist v1](https://github.com/ethereum/execution-specs/pull/2859) - 2026-05-14
 * [Review] [Review on: test(tests): inter-dependent tx tests for BAL parallelization](https://github.com/ethereum/execution-specs/pull/2851#pullrequestreview-4291390589) - 2026-05-14
 * [Commit] [test(tests): inter-dependent tx tests for BAL parallelization (#2851)](https://github.com/ethereum/execution-specs/commit/267a2bd335ca47698636d33168f27282ba8f1958) - 2026-05-14
+* [Pull Request] [Fix/sstore clear dynamics](https://github.com/ethereum/execution-specs/pull/2863) - 2026-05-15
+* [Review] [Review on: feat(tests): eip7928 checklist v1](https://github.com/ethereum/execution-specs/pull/2859#pullrequestreview-4301197160) - 2026-05-15
+* [Review] [Review on: fix(tests): drop gas_price from EIP-7702 txs in BAL 7702 tests](https://github.com/ethereum/execution-specs/pull/2862#pullrequestreview-4299714556) - 2026-05-15
+* [Commit] [feat(tests): eip7928 checklist v1 (#2859)](https://github.com/ethereum/execution-specs/commit/892e6d1e10e408c848c68b4fabb3853375f62505) - 2026-05-15
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14

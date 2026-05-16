@@ -57,6 +57,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: charge spawn estimate for CREATE/CREATE2 post-trace bail](https://github.com/NethermindEth/nethermind/pull/11555#pullrequestreview-4262554147) - 2026-05-11
 * [Review] [Review on: Update .NET dependencies to 10.0.8](https://github.com/NethermindEth/nethermind/pull/11581#pullrequestreview-4275417477) - 2026-05-12
 * [Review] [Review on: Activate Unzen on Taiko Hoodi](https://github.com/NethermindEth/nethermind/pull/11601#pullrequestreview-4288955483) - 2026-05-14
+* [Pull Request] [perf(trie): pool BranchData to eliminate 144 B per branch-node decode](https://github.com/NethermindEth/nethermind/pull/11624) - 2026-05-15
+* [Review] [Review on: feat(init): auto-detect active state backend at startup](https://github.com/NethermindEth/nethermind/pull/11404#pullrequestreview-4298515253) - 2026-05-15
+* [Review] [Review on: feat: intrinsic zk gas](https://github.com/NethermindEth/nethermind/pull/11584#pullrequestreview-4296307272) - 2026-05-15
+* [Review] [Review on: fix(snap-sync): refresh pivot instead of punishing the only peer (#6803)](https://github.com/NethermindEth/nethermind/pull/11569#pullrequestreview-4297141188) - 2026-05-15
+* [Review] [Review on: Fix eth_syncing at beacon sync pivot](https://github.com/NethermindEth/nethermind/pull/11594#pullrequestreview-4296491666) - 2026-05-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

@@ -78,10 +78,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Enrich `/readiness` health endpoint with diagnostic details](https://github.com/besu-eth/besu/pull/10412#pullrequestreview-4290003136) - 2026-05-14
 * [Commit] [refactor: introduce PreparePayloadArgs builder for MergeMiningCoordinator.preparePayload (#10496)](https://github.com/besu-eth/besu/commit/48b073d915ee98744cf200dd27d01dbaa6a0b28c) - 2026-05-14
 * [Commit] [Add support for fail on unknown JSON properties unless are null (#10495)](https://github.com/besu-eth/besu/commit/187924c81ca59900afd5a16b220e897099e5f9e4) - 2026-05-14
+* [Review] [Review on: testing_buildBlockV1: exclude null fields from result](https://github.com/besu-eth/besu/pull/10492#pullrequestreview-4298026330) - 2026-05-15
+* [Review] [Review on: testing_buildBlockV1  - error if tx provided but not applied](https://github.com/besu-eth/besu/pull/10486#pullrequestreview-4298005500) - 2026-05-15
+* [Pull Request] [Consider maxFeePerBlobGas when sorting tx in the layered txpool](https://github.com/besu-eth/besu/pull/10513) - 2026-05-15
+* [Review] [Review on: Rename EthashConfigOptions to FixedDifficultyConfigOptions](https://github.com/besu-eth/besu/pull/10507#pullrequestreview-4298107909) - 2026-05-15
+* [Pull Request] [Consider maxFeePerBlobGas when sorting tx in the layered txpool](https://github.com/besu-eth/besu/pull/10512) - 2026-05-15
+* [Review] [Review on: fix: `miner_changeTargetGasLimit` silently ignores valid gas limit on PoW/BFT networks](https://github.com/besu-eth/besu/pull/10460#pullrequestreview-4297964365) - 2026-05-15
+* [Review] [Review on: fix: reject non-0x-prefixed tx hash in debug_getRawTransaction](https://github.com/besu-eth/besu/pull/10505#pullrequestreview-4298090057) - 2026-05-15
+* [Review] [Review on: Fix IndexOutOfBoundsException race condition in TransactionBroadcaster](https://github.com/besu-eth/besu/pull/10482#pullrequestreview-4297913534) - 2026-05-15
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23
 * [Commit] [clients/besu: Update Docker images to build and run with Java 25 (#1444)](https://github.com/ethereum/hive/commit/f38b899254ceca7edaa3810778801c357e071f68) - 2026-04-28
+* [Pull Request] [simulators/ethereum/engine: Enforce expected blobs order by setting maxFeePerBlobGas](https://github.com/ethereum/hive/pull/1495) - 2026-05-15
+* [Commit] [simulators/ethereum/engine: Enforce expected blobs order by setting maxFeePerBlobGas (#1495)](https://github.com/ethereum/hive/commit/726baaf7004bb09f45ff87282e9d3e9523ff2a44) - 2026-05-15
 ## Q1 2026
 
 

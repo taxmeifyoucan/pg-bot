@@ -25,6 +25,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(specs): port state refactor to older forks](https://github.com/ethereum/execution-specs/pull/2750#pullrequestreview-4263870415) - 2026-05-11
 * [Commit] [refactor(specs): port state refactor to older forks (#2750)](https://github.com/ethereum/execution-specs/commit/87c52b41144feac9b42b7b8913a147571d5553c5) - 2026-05-12
 * [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7778 block gas accounting without refunds](https://github.com/ethereum/execution-specs/pull/2840#pullrequestreview-4281315794) - 2026-05-13
+* [Review] [Review on: feat(spec-spec, tests): Implement eip-8246 and testing scenario](https://github.com/ethereum/execution-specs/pull/2842#pullrequestreview-4296544772) - 2026-05-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332#pullrequestreview-4152757786) - 2026-04-22
 * [Commit] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/commit/c550387e917485af69a6999aea45270a555e2eb7) - 2026-04-22

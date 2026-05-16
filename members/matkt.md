@@ -82,6 +82,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: fix flaky test on BalStateRootCommitterFactoryTest](https://github.com/besu-eth/besu/pull/10500#pullrequestreview-4287529647) - 2026-05-14
 * [Review] [Review on: Fix eth/71 BlockAccessLists wire encoding](https://github.com/besu-eth/besu/pull/10497#pullrequestreview-4287431029) - 2026-05-14
 * [Commit] [fix flaky test on BalStateRootCommitterFactoryTest (#10500)](https://github.com/besu-eth/besu/commit/2dc5255d31f1218d47941420266e3c8558d8de27) - 2026-05-14
+* [Review] [Review on: Fix LayeredKeyValueStorage.isClosed() duplicated execution](https://github.com/besu-eth/besu/pull/10508#pullrequestreview-4295681469) - 2026-05-15
+* [Commit] [feat: Add cross-block code caching for improved performance (#10390)](https://github.com/besu-eth/besu/commit/22ce79a98ccfe7fb48eadac2b369b20d940ccfca) - 2026-05-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

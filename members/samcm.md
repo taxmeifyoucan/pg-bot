@@ -49,6 +49,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(observability): full OTel traces with gRPC propagation (#835)](https://github.com/ethpandaops/xatu/commit/cd0627bff34f4557959638f506a42636eefd9f7b) - 2026-05-14
 * [Commit] [feat(local): swap xatu-server to direct kafka output with protobuf (#834)](https://github.com/ethpandaops/xatu/commit/908ea1c6b14091e4492836af922f86d9ad8dceab) - 2026-05-14
 * [Commit] [feat: capture fast_confirmation beacon-api event in sentry (#830)](https://github.com/ethpandaops/xatu/commit/467c4b952f5580f0bfb808941f95a96abcdcad8d) - 2026-05-14
+* [Commit] [fix(processor): stop per-trace partitioning in BatchItemProcessor (#841)](https://github.com/ethpandaops/xatu/commit/4f170220a9ce26fe28e53c6808d0eddf023c16b6) - 2026-05-15
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23

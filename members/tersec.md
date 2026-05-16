@@ -132,6 +132,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix: apply parent execution requests before proposal](https://github.com/status-im/nimbus-eth2/pull/8421#pullrequestreview-4288853226) - 2026-05-14
 * [Pull Request] [allow a slot gap while still remaining synced or synced/opt](https://github.com/status-im/nimbus-eth2/pull/8443) - 2026-05-14
 * [Review] [Review on: add beacon blocks by head](https://github.com/status-im/nimbus-eth2/pull/8436#pullrequestreview-4286995271) - 2026-05-14
+* [Review] [Review on: Fix proposer preferences](https://github.com/status-im/nimbus-eth2/pull/8438#pullrequestreview-4295630654) - 2026-05-15
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

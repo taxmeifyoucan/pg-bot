@@ -54,6 +54,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fix eest cache path: eest_devnet to eest_develop (#4232)](https://github.com/status-im/nimbus-eth1/commit/b34e6be8de440a344ff3742e56c97da54ad52b52) - 2026-05-12
 * [Commit] [EVM system call has it's own setupComputation (#4233)](https://github.com/status-im/nimbus-eth1/commit/acba3074875120a11d7f72faedcdfce8cbab72a5) - 2026-05-13
 * [Pull Request] [EIP-7928 BAL: Fix for EIP-7702 account call](https://github.com/status-im/nimbus-eth1/pull/4240) - 2026-05-14
+* [Pull Request] [Remove BPO forks from EVMFork](https://github.com/status-im/nimbus-eth1/pull/4245) - 2026-05-15
+* [Commit] [EIP-7928 BAL: Fix for EIP-7702 account call (#4240)](https://github.com/status-im/nimbus-eth1/commit/2d1a87c4686e702db73157d52f65dc4df1a4f49a) - 2026-05-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 ## Q1 2026

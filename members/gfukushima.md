@@ -41,6 +41,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [upgrade discovery to 26.4.1](https://github.com/Consensys/teku/pull/10602) - 2026-04-24
 * [Commit] [upgrade discovery (#10602)](https://github.com/Consensys/teku/commit/e691cebf3bea32fae81470602749eaa5e3dec6ba) - 2026-04-24
 * [Review] [Review on: Log Gloas builder deposit processing timings](https://github.com/Consensys/teku/pull/10704#pullrequestreview-4293881273) - 2026-05-14
+* [Pull Request] [Update gradle](https://github.com/Consensys/teku/pull/10714) - 2026-05-15
+* [Pull Request] [Clean-up multiple warnings in tests ](https://github.com/Consensys/teku/pull/10713) - 2026-05-15
+* [Review] [Review on: Trying to fix the most common flaky test failures](https://github.com/Consensys/teku/pull/10709#pullrequestreview-4295028270) - 2026-05-15
+* [Commit] [fix multiple warning coming up during test run on CI (#10713)](https://github.com/Consensys/teku/commit/5b544d5d9fc228e381889c7b5d09fb3c8ee177f0) - 2026-05-15
 ## Q1 2026
 
 

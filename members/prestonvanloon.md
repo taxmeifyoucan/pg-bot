@@ -19,6 +19,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: compress state diff anchor cache](https://github.com/OffchainLabs/prysm/pull/16790#pullrequestreview-4292613649) - 2026-05-14
 * [Review] [Review on: state diff anchors cache metrics](https://github.com/OffchainLabs/prysm/pull/16789#pullrequestreview-4292597416) - 2026-05-14
 * [Review] [Review on: boundary slot check for state diff cache](https://github.com/OffchainLabs/prysm/pull/16760#pullrequestreview-4291782634) - 2026-05-14
+* [Review] [Review on: state diff anchors cache metrics](https://github.com/OffchainLabs/prysm/pull/16789#pullrequestreview-4299089690) - 2026-05-15
+* [Review] [Review on: remove "already exists in db" check from migrateToColdHdiff](https://github.com/OffchainLabs/prysm/pull/16761#pullrequestreview-4299155053) - 2026-05-15
 ## Q1 2026
 
 

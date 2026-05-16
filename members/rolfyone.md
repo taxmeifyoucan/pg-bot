@@ -64,6 +64,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Log Gloas builder deposit processing timings](https://github.com/Consensys/teku/pull/10704) - 2026-05-14
 * [Review] [Review on: Update ethspecify, mostly for Gloas functions](https://github.com/Consensys/teku/pull/10706#pullrequestreview-4293860022) - 2026-05-14
 * [Commit] [Log Gloas builder deposit processing timings (#10704)](https://github.com/Consensys/teku/commit/682f99b69307a6de74000fc3aa48281bcdbcb1e6) - 2026-05-14
+* [Pull Request] [Add Teku node column counts endpoint](https://github.com/Consensys/teku/pull/10712) - 2026-05-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

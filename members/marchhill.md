@@ -41,6 +41,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Bal devnet 6 benchmarks test 2](https://github.com/NethermindEth/nethermind/pull/11560) - 2026-05-11
 * [Pull Request] [Bal devnet 6 benchmarks test](https://github.com/NethermindEth/nethermind/pull/11557) - 2026-05-11
 * [Pull Request] [Bal devnet 7 benchmarks](https://github.com/NethermindEth/nethermind/pull/11573) - 2026-05-12
+* [Pull Request] [refactor(evm): collapse CALL 63/64 gas-rule branch into single OOG check](https://github.com/NethermindEth/nethermind/pull/11621) - 2026-05-15
 ## Q1 2026
 
 

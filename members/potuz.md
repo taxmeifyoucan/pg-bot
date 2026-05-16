@@ -79,6 +79,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Add `target_gas_limit` to `PayloadAttributes`](https://github.com/ethereum/consensus-specs/pull/5235#pullrequestreview-4290663266) - 2026-05-14
 * [Commit] [Introduce separate payload availability deadline (#5212)](https://github.com/ethereum/consensus-specs/commit/e4cf08637e5ee959d134d680e37a52cb0be50270) - 2026-05-15
 * [Commit] [Force the proposer to reorg unavailable blocks (#5186)](https://github.com/ethereum/consensus-specs/commit/63fc11ef4112b3777db1cce942222382e49f9c09) - 2026-05-14
+* [Commit] [Check gas limit consistency with the target (#5236)](https://github.com/ethereum/consensus-specs/commit/2add9577f9175779675aa235b314afc694536851) - 2026-05-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17

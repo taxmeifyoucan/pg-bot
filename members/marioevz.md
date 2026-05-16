@@ -76,11 +76,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(test-specs): Test mutators](https://github.com/ethereum/execution-specs/pull/2860) - 2026-05-14
 * [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7843 SLOTNUM opcode](https://github.com/ethereum/execution-specs/pull/2853#pullrequestreview-4291758694) - 2026-05-14
 * [Review] [Review on: test(tests): inter-dependent tx tests for BAL parallelization](https://github.com/ethereum/execution-specs/pull/2851#pullrequestreview-4291375509) - 2026-05-14
+* [Review] [Review on: feat(tests): eip7928 checklist v1](https://github.com/ethereum/execution-specs/pull/2859#pullrequestreview-4300079964) - 2026-05-15
+* [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7976](https://github.com/ethereum/execution-specs/pull/2861#pullrequestreview-4298596575) - 2026-05-15
+* [Review] [Review on: feat(spec-specs, tests): add EIP-7954 Increase Maximum Contract Size](https://github.com/ethereum/execution-specs/pull/2850#pullrequestreview-4294889866) - 2026-05-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Use EIP-8246 to simplify](https://github.com/ethereum/EIPs/pull/11634) - 2026-05-08
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Review] [Review on: simulators/ethereum/engine: Enforce expected blobs order by setting maxFeePerBlobGas](https://github.com/ethereum/hive/pull/1495#pullrequestreview-4299738027) - 2026-05-15
 ## Q1 2026
 
 

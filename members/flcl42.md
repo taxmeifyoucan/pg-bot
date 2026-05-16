@@ -113,6 +113,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Absent system acc is not created on touch](https://github.com/NethermindEth/nethermind/pull/11575#pullrequestreview-4289147072) - 2026-05-14
 * [Review] [Review on: `eth_signTransaction` eliminate allocations & improvements](https://github.com/NethermindEth/nethermind/pull/11587#pullrequestreview-4288671807) - 2026-05-14
 * [Commit] [Absent system acc is not created on touch (#11575)](https://github.com/NethermindEth/nethermind/commit/bede13515cb9b1005ddd4fdf955224c9e18fa4f8) - 2026-05-14
+* [Review] [Review on: feat(chainspec): support shanghai/cancun/prague/osaka hardfork labels](https://github.com/NethermindEth/nethermind/pull/11553#pullrequestreview-4298057253) - 2026-05-15
+* [Review] [Review on: Default Discovery to V4](https://github.com/NethermindEth/nethermind/pull/11614#pullrequestreview-4297980806) - 2026-05-15
+* [Review] [Review on: fix(eth/70): reject null receipt payloads](https://github.com/NethermindEth/nethermind/pull/11615#pullrequestreview-4296766844) - 2026-05-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

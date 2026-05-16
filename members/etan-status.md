@@ -80,6 +80,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Fix gossip check for committee length](https://github.com/status-im/nimbus-eth2/pull/8447) - 2026-05-14
 * [Pull Request] [Use constant-time comparison for validating API token](https://github.com/status-im/nimbus-eth2/pull/8448) - 2026-05-14
 * [Pull Request] [Preserve negative peer score across reconnections](https://github.com/status-im/nimbus-eth2/pull/8446) - 2026-05-14
+* [Pull Request] [Remove nim-eth2-scenarios from autobump](https://github.com/status-im/nimbus-eth2/pull/8454) - 2026-05-15
+* [Pull Request] [Remove EngineApiRole configuration](https://github.com/status-im/nimbus-eth2/pull/8452) - 2026-05-15
+* [Pull Request] [Remove unused graffitiBytes property](https://github.com/status-im/nimbus-eth2/pull/8451) - 2026-05-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

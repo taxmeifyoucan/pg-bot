@@ -409,6 +409,7 @@ Team: Reth
 * [Commit] [refactor(storage): remove BAL range lookup (#24180)](https://github.com/paradigmxyz/reth/commit/89b39c1c0f31e99dfcc2c072b38701930704218e) - 2026-05-13
 * [Commit] [fix(engine): return BALs in payload range v2 (#24177)](https://github.com/paradigmxyz/reth/commit/d4151617a2d2e573a9e828f0bd56787b210e7098) - 2026-05-13
 * [Commit] [fix(net): bind discovery to net-if address (#24178)](https://github.com/paradigmxyz/reth/commit/06b2d3730ddee66ab45161f3c1cac8857cf218e3) - 2026-05-13
+* [Review] [Review on: fix(evm): use timestamp-based blob params for first post-Cancun block](https://github.com/paradigmxyz/reth/pull/22560#pullrequestreview-4297353119) - 2026-05-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

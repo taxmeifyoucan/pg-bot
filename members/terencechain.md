@@ -151,6 +151,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Request payload envelope when pending block's parent payload mi… (#16748)](https://github.com/OffchainLabs/prysm/commit/c1a7a8ff96714a20623306f96985cc3dbcce534a) - 2026-05-15
 * [Commit] [Add gloas random and rewards spec tests (#16770)](https://github.com/OffchainLabs/prysm/commit/51cb80ffa1945c646398b5049cadf85dab6b6af7) - 2026-05-14
 * [Commit] [Add gloas support to hdiff state diffs (#16590)](https://github.com/OffchainLabs/prysm/commit/8418292133065ffe1eba53c377b8344b8f11546f) - 2026-05-14
+* [Pull Request] [Bump spec to v1.7.0-alpha.8](https://github.com/OffchainLabs/prysm/pull/16797) - 2026-05-15
+* [Pull Request] [Defer signature validation when onboarding builders at the Gloas fork](https://github.com/OffchainLabs/prysm/pull/16796) - 2026-05-15
+* [Pull Request] [Implement gloas gas limit consistency check](https://github.com/OffchainLabs/prysm/pull/16793) - 2026-05-15
+* [Pull Request] [Add `target_gas_limit` to gloas `PayloadAttributes`](https://github.com/OffchainLabs/prysm/pull/16792) - 2026-05-15
+* [Pull Request] [Raise MIN_BUILDER_WITHDRAWABILITY_DELAY to 8192 epochs](https://github.com/OffchainLabs/prysm/pull/16791) - 2026-05-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

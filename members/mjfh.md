@@ -30,6 +30,8 @@ Team: Nimbus
 * [Commit] [Snap sync provide mpt analyser framework (#4226)](https://github.com/status-im/nimbus-eth1/commit/32def7b5a0b1bd37f703a5d78c8ee83c7bed3859) - 2026-05-08
 * [Pull Request] [Snap sync update trie analyser for sto slots](https://github.com/status-im/nimbus-eth1/pull/4236) - 2026-05-13
 * [Commit] [Snap sync update trie analyser for sto slots (#4236)](https://github.com/status-im/nimbus-eth1/commit/20e8a5d959da9a36bf31e48c19a3ec18267da830) - 2026-05-13
+* [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4248) - 2026-05-15
+* [Commit] [Snap sync maint update (#4248)](https://github.com/status-im/nimbus-eth1/commit/79ac77f8781426462c908b9389a8b342ce6cb9ad) - 2026-05-15
 ## Q1 2026
 
 

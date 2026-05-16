@@ -175,6 +175,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/execmodule: prune chaindata in CommitCycle (+ release roTx, bloatnet collation gate)](https://github.com/erigontech/erigon/pull/21192) - 2026-05-14
 * [Review] [Review on: execution, db/integrity: set PostState on pre-Byzantium receipts in RCache](https://github.com/erigontech/erigon/pull/21072#pullrequestreview-4287099320) - 2026-05-14
 * [Review] [Review on: [wip] db/state: fix readyForCollation when block snapshots exist but state files do not](https://github.com/erigontech/erigon/pull/21183#pullrequestreview-4287285847) - 2026-05-14
+* [Pull Request] [execution/stagedsync: bump ChangeSets3 chain-tip prune limit](https://github.com/erigontech/erigon/pull/21216) - 2026-05-15
+* [Pull Request] [disable usage of references when merging commitment files ](https://github.com/erigontech/erigon/pull/21206) - 2026-05-15
+* [Pull Request] [cp #21192: prune chaindata in CommitCycle](https://github.com/erigontech/erigon/pull/21214) - 2026-05-15
+* [Pull Request] [cp #21193: check batch fullness after every block](https://github.com/erigontech/erigon/pull/21213) - 2026-05-15
+* [Pull Request] [cp #21209: prune: fix stranded old-step dups in dupsort domains](https://github.com/erigontech/erigon/pull/21218) - 2026-05-15
+* [Pull Request] [db/kv/prune: fix prune leaving stranded old-step dups in dupsort domains](https://github.com/erigontech/erigon/pull/21209) - 2026-05-15
+* [Commit] [execution/stagedsync: bump ChangeSets3 chain-tip prune limit (#21216)](https://github.com/erigontech/erigon/commit/be461c2a54b5dccb181d8768c43f4686056155a0) - 2026-05-16
+* [Commit] [cp #21192: prune chaindata in CommitCycle (#21214)](https://github.com/erigontech/erigon/commit/bf9870f5bb7baa151fe3c1b453d808f4a3ddede5) - 2026-05-15
+* [Commit] [cp #21193: check batch fullness after every block (#21213)](https://github.com/erigontech/erigon/commit/46bed49f6ae4ffc08896cca7a39c866555eb41fe) - 2026-05-15
 ## Q1 2026
 
 

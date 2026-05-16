@@ -56,6 +56,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [txframe blobify and persist](https://github.com/status-im/nimbus-eth1/pull/4220) - 2026-05-07
 * [Review] [Review on: txframe blobify and persist](https://github.com/status-im/nimbus-eth1/pull/4220#pullrequestreview-4257014350) - 2026-05-09
 * [Review] [Review on: Feat:Fix Eth_getlogs](https://github.com/status-im/nimbus-eth1/pull/4237#pullrequestreview-4288539538) - 2026-05-14
+* [Issue] [fCU call to unknown hash ignored](https://github.com/status-im/nimbus-eth1/issues/4246) - 2026-05-15
 ## Q1 2026
 
 

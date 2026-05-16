@@ -64,6 +64,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [.github: cancel CI run for stale PR commits](https://github.com/ethereum/go-ethereum/pull/34964) - 2026-05-13
 * [Review] [Review on: core: introduce GasChangeHook v2](https://github.com/ethereum/go-ethereum/pull/34946#pullrequestreview-4279933444) - 2026-05-13
 * [Review] [Review on: miner: re-used basefee and big.Int in loop](https://github.com/ethereum/go-ethereum/pull/34783#pullrequestreview-4289615056) - 2026-05-14
+* [Commit] [core/txpool/blobpool: silence GetRLP miss-log spam (#34965)](https://github.com/ethereum/go-ethereum/commit/6f6d006f74ffc650b9a598e8fcb1c757b8aaa15a) - 2026-05-15
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20
@@ -73,6 +74,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: feat: eth_baseFee](https://github.com/ethereum/execution-apis/pull/795#pullrequestreview-4274495475) - 2026-05-12
 * [Review] [Review on: relax eth_simulateV1 errors, define debug_getRawTransaction](https://github.com/ethereum/execution-apis/pull/791#pullrequestreview-4274740984) - 2026-05-12
 * [Review] [Review on: feat: eth_baseFee](https://github.com/ethereum/execution-apis/pull/795#pullrequestreview-4280080040) - 2026-05-13
+* [Review] [Review on: relax eth_simulateV1 errors, define debug_getRawTransaction](https://github.com/ethereum/execution-apis/pull/791#pullrequestreview-4297655801) - 2026-05-15
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [cmd: add hivequery (hq) command](https://github.com/ethereum/hive/pull/1438) - 2026-04-20
 * [Commit] [cmd/hq: add hivequery (hq) command (#1438)](https://github.com/ethereum/hive/commit/e4209f3c6a50b82e022730f5e49c3b331fc10e8c) - 2026-04-21

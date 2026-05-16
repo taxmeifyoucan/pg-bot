@@ -161,6 +161,14 @@ Team: Erigon
 * [Commit] [execution/stagedsync: use applyTx for commitment txNum to avoid stale fallback (#21174)](https://github.com/erigontech/erigon/commit/448a0828b563184f002bf8d1f300c50c41e0429a) - 2026-05-13
 * [Commit] [execution: parallel-exec correctness + perf fixes; gate residual EXEC3_PARALLEL flakes (#21136) (#21153)](https://github.com/erigontech/erigon/commit/958b2fbb8579135330894416119014c267cbe26b) - 2026-05-15
 * [Commit] [execution/stagedsync: fix parallel-exec BAL race from duplicate coinbase BalancePath write in finalize (#21177)](https://github.com/erigontech/erigon/commit/9912fc5661e6edb0dd2e9dfa55ac7b445cfc0b0a) - 2026-05-14
+* [Pull Request] [execution/state: mirror createObjectChange dirty-tracking on resetObjectChange (#21138)](https://github.com/erigontech/erigon/pull/21220) - 2026-05-15
+* [Review] [Review on: ci: matrix-test serial vs parallel exec across the test workflows](https://github.com/erigontech/erigon/pull/21017#pullrequestreview-4296541584) - 2026-05-15
+* [Pull Request] [cmd/integration: respect ERIGON_-prefixed EXEC3_PARALLEL in stages.go default](https://github.com/erigontech/erigon/pull/21210) - 2026-05-15
+* [Pull Request] [execution/stagedsync: extract minIBS post-apply path into a dedicated method](https://github.com/erigontech/erigon/pull/21212) - 2026-05-15
+* [Pull Request] [execution/stagedsync: drop dead finalizeWithIBS + finalizeTx (delta-args)](https://github.com/erigontech/erigon/pull/21211) - 2026-05-15
+* [Review] [Review on: execution: implement EIP-8037 changes and simplifications for bal-devnet-7](https://github.com/erigontech/erigon/pull/21207#pullrequestreview-4296131584) - 2026-05-15
+* [Issue] [Parallel-exec: resetObjectChange.dirtied() asymmetry drops SD-revival writes for some scenarios; narrow fix needed](https://github.com/erigontech/erigon/issues/21217) - 2026-05-15
+* [Issue] [Parallel exec: TestDeleteRecreateSlotsAcrossManyBlocks intermittently hits 'too many incarnations' cap under -race CI load](https://github.com/erigontech/erigon/issues/21215) - 2026-05-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

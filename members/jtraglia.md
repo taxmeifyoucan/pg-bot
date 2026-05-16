@@ -234,12 +234,25 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add `process_withdrawals` test for builder queue+sweep collision](https://github.com/ethereum/consensus-specs/pull/5253#pullrequestreview-4292135083) - 2026-05-14
 * [Review] [Review on: Yield mutated state in gossip block test](https://github.com/ethereum/consensus-specs/pull/5252#pullrequestreview-4290585781) - 2026-05-14
 * [Commit] [Raise `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 8192 epochs (#5223)](https://github.com/ethereum/consensus-specs/commit/d192f91eea8f61f8c4325c501fcba53b5a57025b) - 2026-05-14
+* [Review] [Review on:  Add tech-debt audit (RFC — for discussion, not for merge)](https://github.com/ethereum/consensus-specs/pull/5233#pullrequestreview-4300931324) - 2026-05-15
+* [Pull Request] [Bump version to v1.7.0-alpha.9](https://github.com/ethereum/consensus-specs/pull/5257) - 2026-05-15
+* [Review] [Review on: Document Gloas handlers in operations test docs](https://github.com/ethereum/consensus-specs/pull/5256#pullrequestreview-4300735243) - 2026-05-15
+* [Review] [Review on: Add executable gossip validation functions for fulu](https://github.com/ethereum/consensus-specs/pull/5246#pullrequestreview-4298492388) - 2026-05-15
+* [Review] [Review on: Optimize strategy for onboarding builders at the fork](https://github.com/ethereum/consensus-specs/pull/5254#pullrequestreview-4295433006) - 2026-05-15
+* [Commit] [Bump version to v1.7.0-alpha.9 (#5257)](https://github.com/ethereum/consensus-specs/commit/d90c7926f14ac7cf26bf533ead614f4027ccd51b) - 2026-05-15
+* [Commit] [Add note about validating deposit signatures before the fork (#5227)](https://github.com/ethereum/consensus-specs/commit/4985d35e34a7b1e056d61be258b8d3631b9e83d7) - 2026-05-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Review] [Review on: feat: add Zig bindings](https://github.com/ethereum/c-kzg-4844/pull/641#pullrequestreview-4143043773) - 2026-04-20
 * [Review] [Review on: Add zig bindings](https://github.com/ethereum/c-kzg-4844/pull/641#pullrequestreview-4150960650) - 2026-04-21
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Pull Request] [Add support for deposits with invalid signatures](https://github.com/ethpandaops/assertoor/pull/174) - 2026-05-15
+* [Commit] [Fix golangci-lint by splitting things up](https://github.com/ethpandaops/assertoor/commit/8fad28d01a7eccbe42c1d8b799954ec5cb77bc9c) - 2026-05-15
+* [Commit] [Merge branch 'master' into invalid-signatures](https://github.com/ethpandaops/assertoor/commit/b3193a601bfb17b63dbafbab7f85310c19250d3c) - 2026-05-15
+* [Commit] [Add support deposits with invalid signatures](https://github.com/ethpandaops/assertoor/commit/615f8f3c758d122b034606feab49418e6449b7e7) - 2026-05-15
 ## Q1 2026
 
 
