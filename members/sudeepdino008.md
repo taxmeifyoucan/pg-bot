@@ -184,6 +184,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/stagedsync: bump ChangeSets3 chain-tip prune limit (#21216)](https://github.com/erigontech/erigon/commit/be461c2a54b5dccb181d8768c43f4686056155a0) - 2026-05-16
 * [Commit] [cp #21192: prune chaindata in CommitCycle (#21214)](https://github.com/erigontech/erigon/commit/bf9870f5bb7baa151fe3c1b453d808f4a3ddede5) - 2026-05-15
 * [Commit] [cp #21193: check batch fullness after every block (#21213)](https://github.com/erigontech/erigon/commit/46bed49f6ae4ffc08896cca7a39c866555eb41fe) - 2026-05-15
+* [Review] [Review on: [SharovBot] ci: fix stage-exec --result_file argument (underscore→hyphen)](https://github.com/erigontech/erigon/pull/21208#pullrequestreview-4304154503) - 2026-05-16
+* [Commit] [cp #21209: prune: fix stranded old-step dups in dupsort domains (#21218)](https://github.com/erigontech/erigon/commit/816936139e7d547c2714f563d42240d50094ff94) - 2026-05-16
 ## Q1 2026
 
 

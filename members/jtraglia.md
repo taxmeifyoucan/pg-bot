@@ -253,6 +253,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Fix golangci-lint by splitting things up](https://github.com/ethpandaops/assertoor/commit/8fad28d01a7eccbe42c1d8b799954ec5cb77bc9c) - 2026-05-15
 * [Commit] [Merge branch 'master' into invalid-signatures](https://github.com/ethpandaops/assertoor/commit/b3193a601bfb17b63dbafbab7f85310c19250d3c) - 2026-05-15
 * [Commit] [Add support deposits with invalid signatures](https://github.com/ethpandaops/assertoor/commit/615f8f3c758d122b034606feab49418e6449b7e7) - 2026-05-15
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: Bump spec to v1.7.0-alpha.8](https://github.com/OffchainLabs/prysm/pull/16797#pullrequestreview-4303712836) - 2026-05-16
 ## Q1 2026
 
 

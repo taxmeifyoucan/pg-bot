@@ -69,6 +69,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [state, prune: locally delete old commitment history snapshot files](https://github.com/erigontech/erigon/issues/21199) - 2026-05-14
 * [Review] [Review on: db/kv/prune: fix prune leaving stranded old-step dups in dupsort domains](https://github.com/erigontech/erigon/pull/21209#pullrequestreview-4297242997) - 2026-05-15
 * [Commit] [diagnostics/syscheck: make kernel-hint fix commands copy-pastable (#21202)](https://github.com/erigontech/erigon/commit/f05a65e69192d979ffa658d9481fd3ae584631f4) - 2026-05-15
+* [Review] [Review on: ShardedFuse: support ForceInMem mode](https://github.com/erigontech/erigon/pull/21225#pullrequestreview-4303751607) - 2026-05-16
+* [Review] [Review on: ShardedFuse: support ForceInMem mode](https://github.com/erigontech/erigon/pull/21222#pullrequestreview-4303751299) - 2026-05-16
 ## Q1 2026
 
 

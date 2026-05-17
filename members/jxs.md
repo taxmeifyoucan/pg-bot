@@ -23,6 +23,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Review] [Review on: fix: restore `&mut` APIs for `PendingEntry`](https://github.com/sigp/discv5/pull/302#pullrequestreview-4189809733) - 2026-04-28
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4187745982) - 2026-04-28
 
+* [Review] [Review on: Reduce public api surface](https://github.com/sigp/discv5/pull/304#pullrequestreview-4304441972) - 2026-05-16
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Review] [Review on: Remove `EthSpec`](https://github.com/sigp/lighthouse/pull/9229#pullrequestreview-4229342691) - 2026-05-05
 ## Q4 2025

@@ -49,6 +49,19 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Clean up cache interface dispatcher mechanism](https://github.com/NethermindEth/bflat-riscv64/commit/0b4a87e8679bef09c8eca731251f3abe338c9122) - 2026-05-12
 * [Commit] [Make slow dispatch fast](https://github.com/NethermindEth/bflat-riscv64/commit/a5e3a3078b983490bbd65c1df6444d1a26c53b70) - 2026-05-12
 * [Commit] [Zisk: enable twice more RAM](https://github.com/NethermindEth/bflat-riscv64/commit/6e34b93fa5c614a2e3d7c6f6852adaefd7f62171) - 2026-05-11
+* [Pull Request] [build-riscv64 pipeline: install everything needed for Clang builds](https://github.com/NethermindEth/bflat-riscv64/pull/22) - 2026-05-16
+* [Pull Request] [Various optimizations](https://github.com/NethermindEth/bflat-riscv64/pull/21) - 2026-05-16
+* [Pull Request] [Enable statics preinitialization](https://github.com/NethermindEth/bflat-riscv64/pull/20) - 2026-05-16
+* [Commit] [build-riscv64 pipeline: install everything needed for Clang builds](https://github.com/NethermindEth/bflat-riscv64/commit/6968520577b66116abcab54b2e6d2cad43d9cadf) - 2026-05-16
+* [Commit] [build.sh: build with lto](https://github.com/NethermindEth/bflat-riscv64/commit/03590be6dc685ccf5ce65407b50b2292248e10c4) - 2026-05-16
+* [Commit] [Docker: use clang instead of gcc](https://github.com/NethermindEth/bflat-riscv64/commit/f264b092709064b179c61888c9cf63ac1725de24) - 2026-05-16
+* [Commit] [BuildCommand: various performance improvements](https://github.com/NethermindEth/bflat-riscv64/commit/ec756a039ed76664edff9f7d8dff0961be40a481) - 2026-05-16
+* [Commit] [build.sh: lto builds](https://github.com/NethermindEth/bflat-riscv64/commit/dd0d9ad567a215578de3a16c9e7ea8d5ab1eb8ce) - 2026-05-16
+* [Commit] [zkvm_zisk: increase stack size](https://github.com/NethermindEth/bflat-riscv64/commit/63400c6b29cbebc130e7e34b07801eaf228a6e96) - 2026-05-16
+* [Commit] [stdcppshim: switch to clang new operators](https://github.com/NethermindEth/bflat-riscv64/commit/a748f2128797bc16ee6dab5e97c3c74110dbb73a) - 2026-05-16
+* [Commit] [rhp: implement DeadlockAwareAcquire](https://github.com/NethermindEth/bflat-riscv64/commit/37efcacc37b616b50e31b72d2159086e17fa5760) - 2026-05-16
+* [Commit] [pal: Optimize calloc](https://github.com/NethermindEth/bflat-riscv64/commit/70aa0f0a2af4d034458b316632a2bdfc1de3e144) - 2026-05-16
+* [Commit] [Enable statics preinitialization](https://github.com/NethermindEth/bflat-riscv64/commit/409d5fcdbb68e6415973707ad8ec545337dce4b7) - 2026-05-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 

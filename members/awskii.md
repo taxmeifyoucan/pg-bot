@@ -115,6 +115,7 @@ Team: Erigon
 * [Pull Request] [[r3.4] commitment: nibbles consolidation (#20407)](https://github.com/erigontech/erigon/pull/21141) - 2026-05-12
 * [Pull Request] [[r3.4] db/state, db/integrity: FilesOnlyStateReader for commitment rebuild and CommitmentRoot](https://github.com/erigontech/erigon/pull/21143) - 2026-05-12
 * [Pull Request] [[r3.4] perf cherry-picks: commitment rebuild resume, seg retire merge, kv integrity](https://github.com/erigontech/erigon/pull/21135) - 2026-05-12
+* [Pull Request] [rpc/jsonrpc: split debug_executionWitness into phase helpers](https://github.com/erigontech/erigon/pull/21227) - 2026-05-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

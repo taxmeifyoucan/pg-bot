@@ -186,6 +186,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Make InstructionSelfDestruct public to be reused in Arbitrum](https://github.com/NethermindEth/nethermind/pull/11605#pullrequestreview-4289271643) - 2026-05-14
 * [Review] [Review on: Add NETH005 analyzer: redundant Span<T>.ToArray() at call sites](https://github.com/NethermindEth/nethermind/pull/11464#pullrequestreview-4298830830) - 2026-05-15
 * [Commit] [Default Discovery to V4 (#11614)](https://github.com/NethermindEth/nethermind/commit/dbbabc7bac08e0d8da53c82322e01ab096791fca) - 2026-05-15
+* [Pull Request] [Devirtualise indirect-dispatch Sort calls across production paths](https://github.com/NethermindEth/nethermind/pull/11633) - 2026-05-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

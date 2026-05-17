@@ -51,6 +51,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/beacon: fix liveness endpoint checking previous epoch participation](https://github.com/erigontech/erigon/pull/21186) - 2026-05-14
 * [Commit] [cl/forkchoice: fix infinite loop in getState when state file is missing (#21188)](https://github.com/erigontech/erigon/commit/5ad831849f674bd0ed6e0ee8d1019a9c270b44ee) - 2026-05-14
 * [Commit] [cl/beacon: fix liveness endpoint checking previous epoch participation (#21187)](https://github.com/erigontech/erigon/commit/6f76e132b11090e832710d0387841e4ae307195a) - 2026-05-14
+* [Pull Request] [cl/forkchoice: fix Caplin stuck on mainnet after GLOAS merge](https://github.com/erigontech/erigon/pull/21228) - 2026-05-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

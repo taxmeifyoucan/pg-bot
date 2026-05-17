@@ -110,6 +110,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Adapt circuit breaker logic for gloas](https://github.com/Consensys/teku/issues/10702) - 2026-05-14
 * [Commit] [target java 25 (#10567)](https://github.com/Consensys/teku/commit/1bd7f993e4a1a1a28c42d55c0a415a9091acf1f1) - 2026-05-14
 * [Issue] [protoarray underflow on glamsterdam-devnet-3](https://github.com/Consensys/teku/issues/10719) - 2026-05-15
+* [Issue] [Defer blocks that build on FULL when the parent payload is not yet imported](https://github.com/Consensys/teku/issues/10721) - 2026-05-16
+* [Issue] [Defer attestations that vote for FULL when the payload is not yet imported](https://github.com/Consensys/teku/issues/10720) - 2026-05-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

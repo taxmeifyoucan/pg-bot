@@ -332,6 +332,7 @@ Team: Reth
 * [Pull Request] [fix(runtime): evict stale cold entries](https://github.com/paradigmxyz/revmc/pull/381) - 2026-05-15
 * [Commit] [test(runtime): deflake cold entry eviction (#382)](https://github.com/paradigmxyz/revmc/commit/bd333d08d37e8e63d9f4c68d1158eba05713bcd5) - 2026-05-16
 * [Commit] [fix(runtime): evict stale cold entries (#381)](https://github.com/paradigmxyz/revmc/commit/a66aa8394799d33b64e5e96424c8f7ac6bef6116) - 2026-05-15
+* [Pull Request] [test: run statetests through nextest](https://github.com/paradigmxyz/revmc/pull/383) - 2026-05-16
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07

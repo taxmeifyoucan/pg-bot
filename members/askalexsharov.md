@@ -539,6 +539,10 @@ Team: Erigon
 * [Review] [Review on: cmd/integration: respect ERIGON_-prefixed EXEC3_PARALLEL in stages.go default](https://github.com/erigontech/erigon/pull/21210#pullrequestreview-4297444583) - 2026-05-15
 * [Review] [Review on: diagnostics/syscheck: make kernel-hint fix commands copy-pastable](https://github.com/erigontech/erigon/pull/21202#pullrequestreview-4295348365) - 2026-05-15
 * [Review] [Review on: db/snapcfg, cmd/utils/app: drop github.com/erigontech/erigon-snapshot dep](https://github.com/erigontech/erigon/pull/21197#pullrequestreview-4295208576) - 2026-05-15
+* [Review] [Review on: rpc: reuse storage composite key buffers](https://github.com/erigontech/erigon/pull/21205#pullrequestreview-4303584673) - 2026-05-16
+* [Pull Request] [ShardedFuse: support ForceInMem mode](https://github.com/erigontech/erigon/pull/21225) - 2026-05-16
+* [Pull Request] [ShardedFuse: support ForceInMem mode](https://github.com/erigontech/erigon/pull/21222) - 2026-05-16
+* [Review] [Review on: cp #21209: prune: fix stranded old-step dups in dupsort domains](https://github.com/erigontech/erigon/pull/21218#pullrequestreview-4303566256) - 2026-05-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

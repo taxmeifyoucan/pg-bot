@@ -156,6 +156,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Implement gloas gas limit consistency check](https://github.com/OffchainLabs/prysm/pull/16793) - 2026-05-15
 * [Pull Request] [Add `target_gas_limit` to gloas `PayloadAttributes`](https://github.com/OffchainLabs/prysm/pull/16792) - 2026-05-15
 * [Pull Request] [Raise MIN_BUILDER_WITHDRAWABILITY_DELAY to 8192 epochs](https://github.com/OffchainLabs/prysm/pull/16791) - 2026-05-15
+* [Review] [Review on: Bump spec to v1.7.0-alpha.8](https://github.com/OffchainLabs/prysm/pull/16797#pullrequestreview-4303740374) - 2026-05-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26
@@ -163,6 +164,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Increase exit and consolidation churn (EIP-8061)](https://github.com/ethereum/consensus-specs/pull/5061#pullrequestreview-4189933391) - 2026-04-28
 * [Review] [Review on: Gloas: Modify notify_forkchoice_updated](https://github.com/ethereum/consensus-specs/pull/5197#pullrequestreview-4203035358) - 2026-04-30
 * [Review] [Review on: Payload reorg](https://github.com/ethereum/consensus-specs/pull/5210#pullrequestreview-4236643511) - 2026-05-06
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4304547040) - 2026-05-17
 ## Q1 2026
 
 

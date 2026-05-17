@@ -129,6 +129,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: execution, db/integrity: set PostState on pre-Byzantium receipts in RCache](https://github.com/erigontech/erigon/pull/21072#pullrequestreview-4292538565) - 2026-05-14
 * [Review] [Review on: rpc: reuse storage composite key buffers](https://github.com/erigontech/erigon/pull/21134#pullrequestreview-4292376454) - 2026-05-14
 * [Pull Request] [rpc: graphql: implement Logs, Call and SendRawTransaction resolvers](https://github.com/erigontech/erigon/pull/21219) - 2026-05-15
+* [Review] [Review on: rpc: reuse storage composite key buffers](https://github.com/erigontech/erigon/pull/21205#pullrequestreview-4304415366) - 2026-05-16
+* [Review] [Review on: Guard negative maxResult in debug_storageRangeAt](https://github.com/erigontech/erigon/pull/21221#pullrequestreview-4304407446) - 2026-05-16
+* [Pull Request] [[WIP] align response debug_executionWitness to GETH ](https://github.com/erigontech/erigon/pull/21224) - 2026-05-16
+* [Commit] [rpc: add position field to callTracer withLog tests (#21175)](https://github.com/erigontech/erigon/commit/9e01d17b65ec50c36cb24cef457128454240f34e) - 2026-05-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -161,6 +165,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [set ws timeout (#559)](https://github.com/erigontech/rpc-tests/commit/0bb848d3143cd918aeda27504aef6b800741e9b7) - 2026-05-11
 * [Pull Request] [integration_test: change rsp for eth_capability & improve mgt ignore-filed metadata](https://github.com/erigontech/rpc-tests/pull/561) - 2026-05-14
 * [Commit] [uèpdate exp rsp (#561)](https://github.com/erigontech/rpc-tests/commit/51a907f9e49c05d7f1630c1202e31a32b9329ead) - 2026-05-14
+* [Pull Request] [integration test: add debug_executionWitness tests](https://github.com/erigontech/rpc-tests/pull/562) - 2026-05-16
 ## Q1 2026
 
 

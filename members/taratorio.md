@@ -118,6 +118,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/stagedsync: fix parallel-exec BAL race from duplicate coinbase BalancePath write in finalize](https://github.com/erigontech/erigon/pull/21177#pullrequestreview-4288883502) - 2026-05-14
 * [Review] [Review on: ci: add test-kurtosis-gloas.yml to zizmor cache-poisoning ignore list](https://github.com/erigontech/erigon/pull/21181#pullrequestreview-4287974923) - 2026-05-14
 * [Pull Request] [execution: implement EIP-8037 changes and simplifications for bal-devnet-7](https://github.com/erigontech/erigon/pull/21207) - 2026-05-15
+* [Pull Request] [execution: explicitly set parallel/sequential blocktests/enginextests shards in ci](https://github.com/erigontech/erigon/pull/21223) - 2026-05-16
+* [Review] [Review on: cp #21192: prune chaindata in CommitCycle](https://github.com/erigontech/erigon/pull/21214#pullrequestreview-4303259306) - 2026-05-16
+* [Commit] [execution: implement EIP-8037 changes and simplifications for bal-devnet-7 (#21207)](https://github.com/erigontech/erigon/commit/e98f94d3ffe8f6aadad34d9e1c533dd7e31ca6dc) - 2026-05-16
 ## Q1 2026
 
 

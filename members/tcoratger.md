@@ -176,6 +176,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: whir: add round-0 HVZK code-switching](https://github.com/Plonky3/Plonky3/pull/1657#pullrequestreview-4300393878) - 2026-05-15
 * [Review] [Review on: test(whir): cover Sumcheck PoW witness count mismatch](https://github.com/Plonky3/Plonky3/pull/1658#pullrequestreview-4299968251) - 2026-05-15
 * [Review] [Review on: symmetric: move TruncatedPermutation assertions into new](https://github.com/Plonky3/Plonky3/pull/1655#pullrequestreview-4296096692) - 2026-05-15
+* [Review] [Review on: fix(fri): enforce num_chunks > 1 in HidingFriPcs::get_quotient_ldes](https://github.com/Plonky3/Plonky3/pull/1595#pullrequestreview-4304435154) - 2026-05-16
+* [Pull Request] [feat(whir): HVZK sumcheck suffix-binding prover](https://github.com/Plonky3/Plonky3/pull/1665) - 2026-05-16
+* [Review] [Review on: fix: local refs for dev-deps](https://github.com/Plonky3/Plonky3/pull/1663#pullrequestreview-4303625796) - 2026-05-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

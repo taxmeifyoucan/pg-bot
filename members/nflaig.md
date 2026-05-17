@@ -224,6 +224,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: move lightclient and prover to external repo](https://github.com/ChainSafe/lodestar/pull/9346#pullrequestreview-4290572705) - 2026-05-14
 * [Review] [Review on: chore: install zig 0.16.0 in Dockerfile](https://github.com/ChainSafe/lodestar/pull/9371#pullrequestreview-4289234778) - 2026-05-14
 * [Review] [Review on: chore: add logs and metrics for execution payload](https://github.com/ChainSafe/lodestar/pull/9370#pullrequestreview-4289210079) - 2026-05-14
+* [Pull Request] [feat: upgrade to alpha.8 spec](https://github.com/ChainSafe/lodestar/pull/9375) - 2026-05-16
+* [Review] [Review on: feat: upgrade to alpha.8 spec](https://github.com/ChainSafe/lodestar/pull/9375#pullrequestreview-4304453586) - 2026-05-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

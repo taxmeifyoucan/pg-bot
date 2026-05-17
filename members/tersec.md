@@ -133,6 +133,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [allow a slot gap while still remaining synced or synced/opt](https://github.com/status-im/nimbus-eth2/pull/8443) - 2026-05-14
 * [Review] [Review on: add beacon blocks by head](https://github.com/status-im/nimbus-eth2/pull/8436#pullrequestreview-4286995271) - 2026-05-14
 * [Review] [Review on: Fix proposer preferences](https://github.com/status-im/nimbus-eth2/pull/8438#pullrequestreview-4295630654) - 2026-05-15
+* [Pull Request] [implement PAYLOAD_DUE_BPS](https://github.com/status-im/nimbus-eth2/pull/8459) - 2026-05-17
+* [Pull Request] [use v1.7.0-alpha.8 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8455) - 2026-05-16
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -153,6 +155,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4304456109) - 2026-05-16
 ## Q1 2026
 
 

@@ -403,6 +403,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(eth/70): reject null receipt payloads](https://github.com/NethermindEth/nethermind/pull/11615#pullrequestreview-4296028756) - 2026-05-15
 * [Review] [Review on: Fix eth_syncing at beacon sync pivot](https://github.com/NethermindEth/nethermind/pull/11594#pullrequestreview-4296252578) - 2026-05-15
 * [Review] [Review on: Make AddSelfDestructLog available for the use in Arbitrum plugin](https://github.com/NethermindEth/nethermind/pull/11613#pullrequestreview-4295911934) - 2026-05-15
+* [Review] [Review on: Update 1 release/1.38.0 ](https://github.com/NethermindEth/nethermind/pull/11627#pullrequestreview-4303212615) - 2026-05-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

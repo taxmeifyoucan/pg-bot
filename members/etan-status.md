@@ -83,6 +83,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Remove nim-eth2-scenarios from autobump](https://github.com/status-im/nimbus-eth2/pull/8454) - 2026-05-15
 * [Pull Request] [Remove EngineApiRole configuration](https://github.com/status-im/nimbus-eth2/pull/8452) - 2026-05-15
 * [Pull Request] [Remove unused graffitiBytes property](https://github.com/status-im/nimbus-eth2/pull/8451) - 2026-05-15
+* [Pull Request] [Apply KZG check to columns fetched via Req/Resp](https://github.com/status-im/nimbus-eth2/pull/8458) - 2026-05-16
+* [Pull Request] [Handle zero filled beacon chain file](https://github.com/status-im/nimbus-eth2/pull/8456) - 2026-05-16
+* [Pull Request] [Harden block processor against future cancellation](https://github.com/status-im/nimbus-eth2/pull/8457) - 2026-05-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
@@ -120,6 +123,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update EIP-7688: Make Transaction progressive](https://github.com/ethereum/EIPs/commit/d2fb2b2e6104e7484f552bf142c500a9d2a6ef4e) - 2026-05-05
 * [Review] [Review on: Update EIP-7708: Add gas costs for system-emitted transfer and burn logs](https://github.com/ethereum/EIPs/pull/11627#pullrequestreview-4252669648) - 2026-05-08
 * [Review] [Review on: Update EIP-7708: Use EIP-8246 to simplify](https://github.com/ethereum/EIPs/pull/11634#pullrequestreview-4257164421) - 2026-05-09
+* [Review] [Review on: Update EIP-7708: Use EIP-8246 to simplify](https://github.com/ethereum/EIPs/pull/11634#pullrequestreview-4304242044) - 2026-05-16
 ## Q1 2026
 
 

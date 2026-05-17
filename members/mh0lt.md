@@ -169,6 +169,8 @@ Team: Erigon
 * [Review] [Review on: execution: implement EIP-8037 changes and simplifications for bal-devnet-7](https://github.com/erigontech/erigon/pull/21207#pullrequestreview-4296131584) - 2026-05-15
 * [Issue] [Parallel-exec: resetObjectChange.dirtied() asymmetry drops SD-revival writes for some scenarios; narrow fix needed](https://github.com/erigontech/erigon/issues/21217) - 2026-05-15
 * [Issue] [Parallel exec: TestDeleteRecreateSlotsAcrossManyBlocks intermittently hits 'too many incarnations' cap under -race CI load](https://github.com/erigontech/erigon/issues/21215) - 2026-05-15
+* [Review] [Review on: cmd/integration, execution/stagedsync: fix from-0 flow (env-prefix + reset-progress-delete)](https://github.com/erigontech/erigon/pull/21210#pullrequestreview-4303533944) - 2026-05-16
+* [Issue] [engine_getBlobs p50 ≈ 55 ms (rank 6/6) vs reth 3.5 ms on ethpandaops fleet — likely p.lock contention](https://github.com/erigontech/erigon/issues/21226) - 2026-05-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

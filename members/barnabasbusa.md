@@ -134,6 +134,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #694 from ethpandaops/bbusa/bump-dockerfile-go-version](https://github.com/ethpandaops/dora/commit/4a8d6185079994a68c8be7b6c0b2f2504ad7a886) - 2026-05-15
 * [Commit] [chore(deps): bump eth-das-guardian to v0.1.1](https://github.com/ethpandaops/dora/commit/94e4d227ce235634456e081a20c543c71a8a9335) - 2026-05-15
 * [Commit] [build(docker): bump golang base image to 1.25.7](https://github.com/ethpandaops/dora/commit/485b901c11e06ad6708ad4fb82ba7c3570b3194a) - 2026-05-15
+* [Pull Request] [feat: track DUE_BPS, reorg cutoff, and Byzantine threshold spec fields](https://github.com/ethpandaops/dora/pull/698) - 2026-05-16
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -251,6 +252,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [feat(p2p): expose peer-scoring fields on /eth/v1/node/peers](https://github.com/grandinetech/grandine/pull/695) - 2026-05-15
+* [Issue] [Add `execution_payload_available` SSE event topic to /eth/v1/events](https://github.com/grandinetech/grandine/issues/699) - 2026-05-16
 ## Q1 2026
 
 
