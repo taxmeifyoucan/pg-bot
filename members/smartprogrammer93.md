@@ -63,6 +63,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(snap-sync): refresh pivot instead of punishing the only peer (#6803)](https://github.com/NethermindEth/nethermind/pull/11569#pullrequestreview-4297141188) - 2026-05-15
 * [Review] [Review on: Fix eth_syncing at beacon sync pivot](https://github.com/NethermindEth/nethermind/pull/11594#pullrequestreview-4296491666) - 2026-05-15
 * [Review] [Review on: Update 1 release/1.38.0 ](https://github.com/NethermindEth/nethermind/pull/11627#pullrequestreview-4302745376) - 2026-05-16
+* [Review] [Review on: Avoid pooled transaction hash enumerator allocations](https://github.com/NethermindEth/nethermind/pull/11638#pullrequestreview-4305730541) - 2026-05-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

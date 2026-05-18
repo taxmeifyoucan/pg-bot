@@ -135,6 +135,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Fix proposer preferences](https://github.com/status-im/nimbus-eth2/pull/8438#pullrequestreview-4295630654) - 2026-05-15
 * [Pull Request] [implement PAYLOAD_DUE_BPS](https://github.com/status-im/nimbus-eth2/pull/8459) - 2026-05-17
 * [Pull Request] [use v1.7.0-alpha.8 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8455) - 2026-05-16
+* [Review] [Review on: Implement external execution payload bid selection for Gloas proposals](https://github.com/status-im/nimbus-eth2/pull/8416#pullrequestreview-4306027650) - 2026-05-17
+* [Review] [Review on: avoid copies of sidecars across the codebase](https://github.com/status-im/nimbus-eth2/pull/8437#pullrequestreview-4306123739) - 2026-05-17
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

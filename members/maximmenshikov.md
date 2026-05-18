@@ -62,6 +62,13 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [rhp: implement DeadlockAwareAcquire](https://github.com/NethermindEth/bflat-riscv64/commit/37efcacc37b616b50e31b72d2159086e17fa5760) - 2026-05-16
 * [Commit] [pal: Optimize calloc](https://github.com/NethermindEth/bflat-riscv64/commit/70aa0f0a2af4d034458b316632a2bdfc1de3e144) - 2026-05-16
 * [Commit] [Enable statics preinitialization](https://github.com/NethermindEth/bflat-riscv64/commit/409d5fcdbb68e6415973707ad8ec545337dce4b7) - 2026-05-16
+* [Pull Request] [Switch to integrated LLD and verify in CI that linking works](https://github.com/NethermindEth/bflat-riscv64/pull/24) - 2026-05-17
+* [Pull Request] [Pin Ubuntu version in CI to 26.04 to avoid conflicts between LLVM versions](https://github.com/NethermindEth/bflat-riscv64/pull/23) - 2026-05-17
+* [Commit] [Main Docker image: install 'file'](https://github.com/NethermindEth/bflat-riscv64/commit/e2d315d20de25edcd4ec8ef2da91647ff0671db1) - 2026-05-17
+* [Commit] [CI: do test that compilation of a simple example succeeds](https://github.com/NethermindEth/bflat-riscv64/commit/de90441f9e113a7e21422dab39df9d059fd60b51) - 2026-05-17
+* [Commit] [Main Docker image: pin BFLAT_LD to integrated LLD](https://github.com/NethermindEth/bflat-riscv64/commit/1c2a746b173757a23663b8c38edfb1b2b6f51afe) - 2026-05-17
+* [Commit] [CI: update stage name to match real Ubuntu version](https://github.com/NethermindEth/bflat-riscv64/commit/9808931cf195432bd73b706a3e9ffd07f8a93a34) - 2026-05-17
+* [Commit] [Pin Ubuntu version to 26.04](https://github.com/NethermindEth/bflat-riscv64/commit/a3bcbfb63b7cc5e8b275770c46b88e8f2378f5a8) - 2026-05-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 

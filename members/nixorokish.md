@@ -34,6 +34,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [more revisions, updates](https://github.com/ethereum/pm/commit/b65c9539bda61605a2e5fd70ec0eb355aa351d01) - 2026-05-10
 * [Commit] [cleanup old info + discord link](https://github.com/ethereum/pm/commit/d6e2c3c54a48b971f3ef4840d1c1ffb09727baa6) - 2026-05-10
 * [Commit] [add facilitators, mark stokes ooo](https://github.com/ethereum/pm/commit/26a5997eed919588a1d234c8e273e4f4c70579e4) - 2026-05-10
+* [Issue] [All Core Devs - Consensus (ACDC) #179, May 28, 2026](https://github.com/ethereum/pm/issues/2061) - 2026-05-17
 ## Q1 2026
 
 

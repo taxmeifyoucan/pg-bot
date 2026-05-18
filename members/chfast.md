@@ -123,6 +123,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [EIP-7981: missing test for tx.gas_limit between intrinsic and calldata floor](https://github.com/ethereum/execution-specs/issues/2800) - 2026-05-04
 * [Pull Request] [fix(tests): drop gas_price from EIP-7702 txs in BAL 7702 tests](https://github.com/ethereum/execution-specs/pull/2862) - 2026-05-15
 * [Commit] [fix(tests): drop gas_price from EIP-7702 txs in BAL 7702 tests (#2862)](https://github.com/ethereum/execution-specs/commit/ff1434585dea218730761908ed34731194dd507d) - 2026-05-15
+* [Issue] [Clarify spec: a precompile account with 7702 delegation](https://github.com/ethereum/execution-specs/issues/2866) - 2026-05-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

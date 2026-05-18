@@ -187,6 +187,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Add NETH005 analyzer: redundant Span<T>.ToArray() at call sites](https://github.com/NethermindEth/nethermind/pull/11464#pullrequestreview-4298830830) - 2026-05-15
 * [Commit] [Default Discovery to V4 (#11614)](https://github.com/NethermindEth/nethermind/commit/dbbabc7bac08e0d8da53c82322e01ab096791fca) - 2026-05-15
 * [Pull Request] [Devirtualise indirect-dispatch Sort calls across production paths](https://github.com/NethermindEth/nethermind/pull/11633) - 2026-05-17
+* [Pull Request] [Reduce per-message and per-peer allocations across Eth, Snap, RLPx, and sort hot paths](https://github.com/NethermindEth/nethermind/pull/11639) - 2026-05-17
+* [Review] [Review on: Reduce per-message and per-peer allocations across Eth, Snap, RLPx, and sort hot paths](https://github.com/NethermindEth/nethermind/pull/11639#pullrequestreview-4306354543) - 2026-05-17
+* [Pull Request] [Avoid pooled transaction hash enumerator allocations](https://github.com/NethermindEth/nethermind/pull/11638) - 2026-05-17
+* [Review] [Review on: Update default gas limit for xdc](https://github.com/NethermindEth/nethermind/pull/11628#pullrequestreview-4304968587) - 2026-05-17
+* [Pull Request] [fix(devnet-7): reject txs exceeding EIP-8037 intrinsic gas cap; skip BAL no-op code](https://github.com/NethermindEth/nethermind/pull/11635) - 2026-05-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08
@@ -209,6 +214,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 * [Pull Request] [fix(consume): align NethermindExceptionMapper with current client error strings](https://github.com/ethereum/execution-specs/pull/2838) - 2026-05-12
 * [Review] [Review on: fix(consume): align NethermindExceptionMapper with current client error strings](https://github.com/ethereum/execution-specs/pull/2838#pullrequestreview-4269206535) - 2026-05-12
+* [Review] [Review on: fix(tests): update NethermindExceptionMapper strings for type-4 transactions](https://github.com/ethereum/execution-specs/pull/2867#pullrequestreview-4305667152) - 2026-05-17
+* [Issue] [EIP-8037: missing test for intrinsic regular > cap with floor < cap](https://github.com/ethereum/execution-specs/issues/2865) - 2026-05-17
+* [Issue] [Replace INTRINSIC_GAS_TOO_LOW with GAS_LIMIT_EXCEEDS_MAXIMUM in EIP-8037 cap-overflow tests](https://github.com/ethereum/execution-specs/issues/2864) - 2026-05-17
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: all: align EIP-7928 spec with latest EIP (uint32 BlockAccessIndex, header hash, debug getter)](https://github.com/ethereum/execution-apis/pull/794#pullrequestreview-4263914654) - 2026-05-11
 ## Q1 2026

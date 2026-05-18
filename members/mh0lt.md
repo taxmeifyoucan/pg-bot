@@ -171,6 +171,13 @@ Team: Erigon
 * [Issue] [Parallel exec: TestDeleteRecreateSlotsAcrossManyBlocks intermittently hits 'too many incarnations' cap under -race CI load](https://github.com/erigontech/erigon/issues/21215) - 2026-05-15
 * [Review] [Review on: cmd/integration, execution/stagedsync: fix from-0 flow (env-prefix + reset-progress-delete)](https://github.com/erigontech/erigon/pull/21210#pullrequestreview-4303533944) - 2026-05-16
 * [Issue] [engine_getBlobs p50 ≈ 55 ms (rank 6/6) vs reth 3.5 ms on ethpandaops fleet — likely p.lock contention](https://github.com/erigontech/erigon/issues/21226) - 2026-05-16
+* [Pull Request] [execution/stagedsync: reject blocks containing a tx with gas > block gas limit](https://github.com/erigontech/erigon/pull/21237) - 2026-05-17
+* [Pull Request] [execution: align transaction-validation error wording with go-ethereum](https://github.com/erigontech/erigon/pull/21235) - 2026-05-17
+* [Pull Request] [execution/stagedsync: reject blocks containing a tx with gas > block gas limit](https://github.com/erigontech/erigon/pull/21236) - 2026-05-17
+* [Pull Request] [execution/state: don't drop CodePath writes for newly-created accounts in SetCode](https://github.com/erigontech/erigon/pull/21234) - 2026-05-17
+* [Pull Request] [agents.md: ban adding test skips without explicit user request](https://github.com/erigontech/erigon/pull/21232) - 2026-05-17
+* [Issue] [Align tx-validation error wording with go-ethereum (paired with rpc-tests golden update)](https://github.com/erigontech/erigon/issues/21239) - 2026-05-17
+* [Commit] [agents.md: ban adding test skips without explicit user request (#21232)](https://github.com/erigontech/erigon/commit/23f2119585e0c6e84d479a2084e75b0469ab6240) - 2026-05-17
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

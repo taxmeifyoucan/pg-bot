@@ -543,6 +543,9 @@ Team: Erigon
 * [Pull Request] [ShardedFuse: support ForceInMem mode](https://github.com/erigontech/erigon/pull/21225) - 2026-05-16
 * [Pull Request] [ShardedFuse: support ForceInMem mode](https://github.com/erigontech/erigon/pull/21222) - 2026-05-16
 * [Review] [Review on: cp #21209: prune: fix stranded old-step dups in dupsort domains](https://github.com/erigontech/erigon/pull/21218#pullrequestreview-4303566256) - 2026-05-16
+* [Review] [Review on: execution: explicitly set parallel/sequential blocktests/enginextests shards in ci](https://github.com/erigontech/erigon/pull/21223#pullrequestreview-4306862863) - 2026-05-18
+* [Review] [Review on: execution: fix flaky parallel exec err too many incarnations](https://github.com/erigontech/erigon/pull/21231#pullrequestreview-4305358487) - 2026-05-17
+* [Review] [Review on: agents.md: ban adding test skips without explicit user request](https://github.com/erigontech/erigon/pull/21232#pullrequestreview-4305356089) - 2026-05-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

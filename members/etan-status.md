@@ -86,6 +86,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Apply KZG check to columns fetched via Req/Resp](https://github.com/status-im/nimbus-eth2/pull/8458) - 2026-05-16
 * [Pull Request] [Handle zero filled beacon chain file](https://github.com/status-im/nimbus-eth2/pull/8456) - 2026-05-16
 * [Pull Request] [Harden block processor against future cancellation](https://github.com/status-im/nimbus-eth2/pull/8457) - 2026-05-16
+* [Pull Request] [Avoid debug log defect when receiving block older than backfill](https://github.com/status-im/nimbus-eth2/pull/8463) - 2026-05-17
+* [Pull Request] [Add bounds to envelope quarantine](https://github.com/status-im/nimbus-eth2/pull/8462) - 2026-05-17
+* [Review] [Review on: Add bounds to envelope quarantine](https://github.com/status-im/nimbus-eth2/pull/8462#pullrequestreview-4306171359) - 2026-05-17
+* [Pull Request] [Set maxResponseItems when requesting data from peers](https://github.com/status-im/nimbus-eth2/pull/8461) - 2026-05-17
+* [Pull Request] [Handle shrinking custody set in both column quarantine loops](https://github.com/status-im/nimbus-eth2/pull/8460) - 2026-05-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

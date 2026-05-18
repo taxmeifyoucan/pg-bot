@@ -55,6 +55,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(forks): pass fork overrides to clone](https://github.com/ethereum/execution-specs/pull/2769#pullrequestreview-4277128882) - 2026-05-13
 * [Review] [Review on: refactor(spec-specs,test-types): replace `pycryptodome` with `hashlib` for keccak](https://github.com/ethereum/execution-specs/pull/2370#pullrequestreview-4283232799) - 2026-05-13
 * [Review] [Review on: refactor(spec-specs,test-types): replace `pycryptodome` with `hashlib` for keccak](https://github.com/ethereum/execution-specs/pull/2370#pullrequestreview-4291782141) - 2026-05-14
+* [Pull Request] [chore(specs): add missing type annotations](https://github.com/ethereum/execution-specs/pull/2868) - 2026-05-17
 ## Q1 2026
 
 

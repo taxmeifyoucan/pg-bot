@@ -121,6 +121,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: explicitly set parallel/sequential blocktests/enginextests shards in ci](https://github.com/erigontech/erigon/pull/21223) - 2026-05-16
 * [Review] [Review on: cp #21192: prune chaindata in CommitCycle](https://github.com/erigontech/erigon/pull/21214#pullrequestreview-4303259306) - 2026-05-16
 * [Commit] [execution: implement EIP-8037 changes and simplifications for bal-devnet-7 (#21207)](https://github.com/erigontech/erigon/commit/e98f94d3ffe8f6aadad34d9e1c533dd7e31ca6dc) - 2026-05-16
+* [Pull Request] [[DO-NOT-MERGE] execution: optimise parallel exec with BALs for same-sender conflicts in precompile benchmarks](https://github.com/erigontech/erigon/pull/21240) - 2026-05-18
+* [Pull Request] [[bal-devnet-3] execution: optimise parallel exec with BALs for same-sender conflicts in precompile benchmarks](https://github.com/erigontech/erigon/pull/21241) - 2026-05-18
+* [Pull Request] [execution: fix flaky parallel exec err too many incarnations](https://github.com/erigontech/erigon/pull/21231) - 2026-05-17
+* [Review] [Review on: execution/stagedsync: reject blocks containing a tx with gas > block gas limit](https://github.com/erigontech/erigon/pull/21237#pullrequestreview-4306652294) - 2026-05-18
+* [Pull Request] [[DO-NOT-MERGE] bal-devnet-7](https://github.com/erigontech/erigon/pull/21230) - 2026-05-17
+* [Commit] [execution: fix flaky parallel exec err too many incarnations (#21231)](https://github.com/erigontech/erigon/commit/80c21cf71ce4a061716999132849a3e1bc0488ad) - 2026-05-18
 ## Q1 2026
 
 

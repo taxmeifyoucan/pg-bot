@@ -410,6 +410,10 @@ Team: Reth
 * [Commit] [fix(engine): return BALs in payload range v2 (#24177)](https://github.com/paradigmxyz/reth/commit/d4151617a2d2e573a9e828f0bd56787b210e7098) - 2026-05-13
 * [Commit] [fix(net): bind discovery to net-if address (#24178)](https://github.com/paradigmxyz/reth/commit/06b2d3730ddee66ab45161f3c1cac8857cf218e3) - 2026-05-13
 * [Review] [Review on: fix(evm): use timestamp-based blob params for first post-Cancun block](https://github.com/paradigmxyz/reth/pull/22560#pullrequestreview-4297353119) - 2026-05-15
+* [Pull Request] [chore(deps): update alloy core to 1.6.0](https://github.com/paradigmxyz/reth/pull/24275) - 2026-05-17
+* [Review] [Review on: Use immutable access for read-only peer assertions](https://github.com/paradigmxyz/reth/pull/24273#pullrequestreview-4305274519) - 2026-05-17
+* [Review] [Review on: feat(discv4): add enforce_eip868_neighbours config setting](https://github.com/paradigmxyz/reth/pull/23503#pullrequestreview-4304970720) - 2026-05-17
+* [Commit] [chore(deps): update alloy core to 1.6.0 (#24275)](https://github.com/paradigmxyz/reth/commit/c4c690f703e3e5ca336c62bc28ea912d9e8e401c) - 2026-05-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

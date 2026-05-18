@@ -88,6 +88,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix: Remove redundant target framework](https://github.com/NethermindEth/nethermind/pull/11612) - 2026-05-14
 * [Commit] [fix: Remove redundant target framework (#11612)](https://github.com/NethermindEth/nethermind/commit/203f93ef2cc5f6b874e1585fea9ab989f24a7afb) - 2026-05-14
 * [Pull Request] [feat(zkevm): Migrate stateless I/O to the SSZ standard](https://github.com/NethermindEth/nethermind/pull/11625) - 2026-05-15
+* [Review] [Review on: Reduce per-message and per-peer allocations across Eth, Snap, RLPx, and sort hot paths](https://github.com/NethermindEth/nethermind/pull/11639#pullrequestreview-4306377488) - 2026-05-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 ## Q1 2026

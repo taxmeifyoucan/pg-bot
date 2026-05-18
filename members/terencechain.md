@@ -157,6 +157,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Add `target_gas_limit` to gloas `PayloadAttributes`](https://github.com/OffchainLabs/prysm/pull/16792) - 2026-05-15
 * [Pull Request] [Raise MIN_BUILDER_WITHDRAWABILITY_DELAY to 8192 epochs](https://github.com/OffchainLabs/prysm/pull/16791) - 2026-05-15
 * [Review] [Review on: Bump spec to v1.7.0-alpha.8](https://github.com/OffchainLabs/prysm/pull/16797#pullrequestreview-4303740374) - 2026-05-16
+* [Pull Request] [Glamsterdam devnet 4 tmp](https://github.com/OffchainLabs/prysm/pull/16798) - 2026-05-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

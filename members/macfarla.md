@@ -186,6 +186,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Fix LayeredKeyValueStorage.isClosed() duplicated execution (#10508)](https://github.com/besu-eth/besu/commit/9bb8ab6b97862d581df18191ecedf6ea5912e1e2) - 2026-05-15
 * [Review] [Review on: testing_buildBlockV1: exclude null fields from result](https://github.com/besu-eth/besu/pull/10492#pullrequestreview-4304479677) - 2026-05-16
 * [Commit] [Rename EthashConfigOptions to FixedDifficultyConfigOptions (#10507)](https://github.com/besu-eth/besu/commit/6f232389501fe31bedcea3f25f2e4399c2d22196) - 2026-05-16
+* [Review] [Review on: fix(jsonrpc): eth_capabilities state/stateproofs disabled detection](https://github.com/besu-eth/besu/pull/10377#pullrequestreview-4306484160) - 2026-05-17
+* [Review] [Review on: Enable NullAway for metrics core](https://github.com/besu-eth/besu/pull/10453#pullrequestreview-4306496634) - 2026-05-17
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

@@ -179,6 +179,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: fix(fri): enforce num_chunks > 1 in HidingFriPcs::get_quotient_ldes](https://github.com/Plonky3/Plonky3/pull/1595#pullrequestreview-4304435154) - 2026-05-16
 * [Pull Request] [feat(whir): HVZK sumcheck suffix-binding prover](https://github.com/Plonky3/Plonky3/pull/1665) - 2026-05-16
 * [Review] [Review on: fix: local refs for dev-deps](https://github.com/Plonky3/Plonky3/pull/1663#pullrequestreview-4303625796) - 2026-05-16
+* [Review] [Review on: feat: add p3-monolith-air crate for Monolith permutation arithmetization](https://github.com/Plonky3/Plonky3/pull/1516#pullrequestreview-4306129578) - 2026-05-17
+* [Review] [Review on: perf(multilinear-util): field-aware MLE recursion threshold](https://github.com/Plonky3/Plonky3/pull/1664#pullrequestreview-4305155038) - 2026-05-17
+* [Review] [Review on: verifier: add a couple strengthening checks](https://github.com/Plonky3/Plonky3/pull/1666#pullrequestreview-4305467496) - 2026-05-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

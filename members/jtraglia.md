@@ -241,6 +241,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Optimize strategy for onboarding builders at the fork](https://github.com/ethereum/consensus-specs/pull/5254#pullrequestreview-4295433006) - 2026-05-15
 * [Commit] [Bump version to v1.7.0-alpha.9 (#5257)](https://github.com/ethereum/consensus-specs/commit/d90c7926f14ac7cf26bf533ead614f4027ccd51b) - 2026-05-15
 * [Commit] [Add note about validating deposit signatures before the fork (#5227)](https://github.com/ethereum/consensus-specs/commit/4985d35e34a7b1e056d61be258b8d3631b9e83d7) - 2026-05-15
+* [Review] [Review on: Fix typo in `earliest_available_slot` note](https://github.com/ethereum/consensus-specs/pull/5258#pullrequestreview-4306240267) - 2026-05-17
+* [Pull Request] [Use custom ruff which checks markdown code blocks](https://github.com/ethereum/consensus-specs/pull/5261) - 2026-05-17
+* [Pull Request] [Remove outdated tests readme](https://github.com/ethereum/consensus-specs/pull/5260) - 2026-05-17
+* [Commit] [Remove outdated tests readme (#5260)](https://github.com/ethereum/consensus-specs/commit/ef89aba2e175763217eb9e11e6526ebeb36617c4) - 2026-05-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 
