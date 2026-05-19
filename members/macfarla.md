@@ -188,6 +188,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Rename EthashConfigOptions to FixedDifficultyConfigOptions (#10507)](https://github.com/besu-eth/besu/commit/6f232389501fe31bedcea3f25f2e4399c2d22196) - 2026-05-16
 * [Review] [Review on: fix(jsonrpc): eth_capabilities state/stateproofs disabled detection](https://github.com/besu-eth/besu/pull/10377#pullrequestreview-4306484160) - 2026-05-17
 * [Review] [Review on: Enable NullAway for metrics core](https://github.com/besu-eth/besu/pull/10453#pullrequestreview-4306496634) - 2026-05-17
+* [Pull Request] [Fix engine_newPayload invalid request type invalid status](https://github.com/besu-eth/besu/pull/10525) - 2026-05-19
+* [Pull Request] [use stackless singleton for peer-gate rejection in RlpxAgent](https://github.com/besu-eth/besu/pull/10523) - 2026-05-18
+* [Review] [Review on: fix: reject non-hex block numbers in debug_getRawBlock, debug_getRawHeader, debug_getRawReceipts, and eth_getProof](https://github.com/besu-eth/besu/pull/10240#pullrequestreview-4307045420) - 2026-05-18
+* [Pull Request] [build: exclude referencetests from spotless when running locally](https://github.com/besu-eth/besu/pull/10518) - 2026-05-18
+* [Review] [Review on: testing_buildBlockV1: exclude null fields from result](https://github.com/besu-eth/besu/pull/10492#pullrequestreview-4313810135) - 2026-05-18
+* [Pull Request] [fix: reject non-hex block numbers in BlockParameter](https://github.com/besu-eth/besu/pull/10515) - 2026-05-18
+* [Commit] [use stackless singleton for peer-gate rejection in RlpxAgent (#10523)](https://github.com/besu-eth/besu/commit/03cc8a7d8dcfc741453fc5ebd33b79064876f867) - 2026-05-19
+* [Commit] [testing_buildBlockV1: exclude null fields from result (#10492)](https://github.com/besu-eth/besu/commit/f39cc97200031564bb31f547dc9fff9a7ee6692b) - 2026-05-18
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

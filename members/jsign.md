@@ -37,6 +37,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255816359) - 2026-05-08
 * [Pull Request] [feat(zkevm): avoid stateless fields generation for fixtures that use RLP-modifiers](https://github.com/ethereum/execution-specs/pull/2835) - 2026-05-11
 * [Review] [Review on: feat(zkevm): avoid stateless fields generation for fixtures that use RLP-modifiers](https://github.com/ethereum/execution-specs/pull/2835#pullrequestreview-4266769632) - 2026-05-11
+* [Pull Request] [feat(zkevm): include in releases blockchain_test_engine format](https://github.com/ethereum/execution-specs/pull/2874) - 2026-05-18
+* [Pull Request] [feat(zkevm): add engine-witness simulator and add executionWitnessMutated flag into fixtures](https://github.com/ethereum/execution-specs/pull/2872) - 2026-05-18
+* [Issue] [zkevm: reconsider the need of a fixture format for stateless validator](https://github.com/ethereum/execution-specs/issues/2873) - 2026-05-18
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01

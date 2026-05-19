@@ -178,6 +178,11 @@ Team: Erigon
 * [Pull Request] [agents.md: ban adding test skips without explicit user request](https://github.com/erigontech/erigon/pull/21232) - 2026-05-17
 * [Issue] [Align tx-validation error wording with go-ethereum (paired with rpc-tests golden update)](https://github.com/erigontech/erigon/issues/21239) - 2026-05-17
 * [Commit] [agents.md: ban adding test skips without explicit user request (#21232)](https://github.com/erigontech/erigon/commit/23f2119585e0c6e84d479a2084e75b0469ab6240) - 2026-05-17
+* [Pull Request] [Fixes for EEST max-allowed-failures: 0 shards](https://github.com/erigontech/erigon/pull/21260) - 2026-05-18
+* [Commit] [Fixes for EEST max-allowed-failures: 0 shards (#21260)](https://github.com/erigontech/erigon/commit/2b1da694115270fb2a750434836e695743720cfd) - 2026-05-19
+* [Commit] [execution: extract EIP-8037 inclusion check, run it for parallel exec (#21237)](https://github.com/erigontech/erigon/commit/9424ac368d8003d3aaf324f5784fc25b6807ae54) - 2026-05-18
+* [Commit] [cmd/integration, execution/stagedsync: fix from-0 flow (env-prefix + reset-progress-delete) (#21210)](https://github.com/erigontech/erigon/commit/7569867d8c710766b05524fa4f298cedc54c8636) - 2026-05-18
+* [Commit] [execution/state: don't drop CodePath writes for newly-created accounts in SetCode (#21234)](https://github.com/erigontech/erigon/commit/cd444e6f492cc901e8cf06bacc77c2a7e8c7ef1d) - 2026-05-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

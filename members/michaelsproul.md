@@ -88,6 +88,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [More reorg tests for re_org_threshold non-default values](https://github.com/sigp/lighthouse/issues/9304) - 2026-05-14
 * [Review] [Review on: Fix non-canonical payload attestation processing](https://github.com/sigp/lighthouse/pull/9305#pullrequestreview-4306846633) - 2026-05-18
 * [Pull Request] [Remove outdated SPRP hint](https://github.com/sigp/lighthouse/pull/9312) - 2026-05-18
+* [Review] [Review on: Use dedicated cache for HTTP API route](https://github.com/sigp/lighthouse/pull/9318#pullrequestreview-4315166411) - 2026-05-19
+* [Review] [Review on: Fix non-canonical payload attestation processing](https://github.com/sigp/lighthouse/pull/9305#pullrequestreview-4313621418) - 2026-05-18
+* [Pull Request] [Optimisations relating to `get_expected_withdrawals`](https://github.com/sigp/lighthouse/pull/9314) - 2026-05-18
+* [Review] [Review on: Fork choice compliance tests](https://github.com/sigp/lighthouse/pull/9295#pullrequestreview-4306955305) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

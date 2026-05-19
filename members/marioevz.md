@@ -79,6 +79,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): eip7928 checklist v1](https://github.com/ethereum/execution-specs/pull/2859#pullrequestreview-4300079964) - 2026-05-15
 * [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7976](https://github.com/ethereum/execution-specs/pull/2861#pullrequestreview-4298596575) - 2026-05-15
 * [Review] [Review on: feat(spec-specs, tests): add EIP-7954 Increase Maximum Contract Size](https://github.com/ethereum/execution-specs/pull/2850#pullrequestreview-4294889866) - 2026-05-15
+* [Review] [Review on: feat(tests): EIP-7843 Add test cases for multi-blocks and fork transition](https://github.com/ethereum/execution-specs/pull/2858#pullrequestreview-4314369707) - 2026-05-18
+* [Review] [Review on: feat(spec-specs, tests): Add EIP-7976 Increase Calldata Floor Cost](https://github.com/ethereum/execution-specs/pull/2861#pullrequestreview-4314356875) - 2026-05-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

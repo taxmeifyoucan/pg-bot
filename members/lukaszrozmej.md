@@ -407,6 +407,28 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Reduce per-message and per-peer allocations across Eth, Snap, RLPx, and sort hot paths](https://github.com/NethermindEth/nethermind/pull/11639#pullrequestreview-4306342859) - 2026-05-17
 * [Review] [Review on: Update default gas limit for xdc](https://github.com/NethermindEth/nethermind/pull/11628#pullrequestreview-4304955703) - 2026-05-17
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11632#pullrequestreview-4304952267) - 2026-05-17
+* [Pull Request] [perf(bal): [DRAFT] account-presence bitmap + storage_reads on column index — toward skip-merge](https://github.com/NethermindEth/nethermind/pull/11661) - 2026-05-18
+* [Review] [Review on: fix(devnet-7): reject txs exceeding EIP-8037 intrinsic gas cap; skip BAL no-op code](https://github.com/NethermindEth/nethermind/pull/11635#pullrequestreview-4308709235) - 2026-05-18
+* [Review] [Review on: Optimize Optimism receipt lookup in block RPC](https://github.com/NethermindEth/nethermind/pull/11622#pullrequestreview-4309713611) - 2026-05-18
+* [Pull Request] [fix(trie test): de-flake Will_Persist_ReCommittedPersistedNode_FromCommitBuffer](https://github.com/NethermindEth/nethermind/pull/11650) - 2026-05-18
+* [Review] [Review on: fix(zkevm): Fix legacy receipt storage registration](https://github.com/NethermindEth/nethermind/pull/11662#pullrequestreview-4314610892) - 2026-05-18
+* [Review] [Review on: fix(zkevm): Revise G2 decoding check](https://github.com/NethermindEth/nethermind/pull/11660#pullrequestreview-4314150874) - 2026-05-18
+* [Pull Request] [perf(bal): verify-only fast path — skip end-of-block encode + Keccak](https://github.com/NethermindEth/nethermind/pull/11659) - 2026-05-18
+* [Review] [Review on: Update OP Superchain chains (removes Base)](https://github.com/NethermindEth/nethermind/pull/11655#pullrequestreview-4311460086) - 2026-05-18
+* [Review] [Review on: RPC: add blob checks in estimation](https://github.com/NethermindEth/nethermind/pull/11630#pullrequestreview-4308593486) - 2026-05-18
+* [Pull Request] [perf(bal): inline-1 ReadOnlySlotChanges for the common single-change case](https://github.com/NethermindEth/nethermind/pull/11658) - 2026-05-18
+* [Pull Request] [perf(bal): SoA uint[] index lanes on the BAL read hot path](https://github.com/NethermindEth/nethermind/pull/11656) - 2026-05-18
+* [Pull Request] [perf(evm): pool destroy-list buffer in TransactionProcessor](https://github.com/NethermindEth/nethermind/pull/11657) - 2026-05-18
+* [Review] [Review on: refactor(core): centralize EIP-7702 SetCode shape checks](https://github.com/NethermindEth/nethermind/pull/11641#pullrequestreview-4309838906) - 2026-05-18
+* [Review] [Review on: Merge.Plugin: make testing_commitBlockV1 txRlps nullable](https://github.com/NethermindEth/nethermind/pull/11649#pullrequestreview-4311160291) - 2026-05-18
+* [Review] [Review on: Enable Zisk 0.18 support](https://github.com/NethermindEth/nethermind/pull/11645#pullrequestreview-4311026385) - 2026-05-18
+* [Pull Request] [ci: retry setup-dotnet up to 3 times](https://github.com/NethermindEth/nethermind/pull/11651) - 2026-05-18
+* [Review] [Review on: feat(engine): introduce REST based + SSZ serialized `new-payload-with-witness`](https://github.com/NethermindEth/nethermind/pull/11623#pullrequestreview-4308613983) - 2026-05-18
+* [Review] [Review on: fix(blockchain): defer main-chain events until write batch is flushed](https://github.com/NethermindEth/nethermind/pull/11640#pullrequestreview-4309847806) - 2026-05-18
+* [Review] [Review on: Fixed a wrong MSBuild input for PublishReadyToRunPgoFiles](https://github.com/NethermindEth/nethermind/pull/11642#pullrequestreview-4309573778) - 2026-05-18
+* [Review] [Review on: Reduce per-message and per-peer allocations across Eth, Snap, RLPx, and sort hot paths](https://github.com/NethermindEth/nethermind/pull/11639#pullrequestreview-4308088257) - 2026-05-18
+* [Commit] [fix(trie test): de-flake Will_Persist_ReCommittedPersistedNode_FromCommitBuffer (#11650)](https://github.com/NethermindEth/nethermind/commit/d4deac0f7c1170732dc2259639d316a123d7edca) - 2026-05-19
+* [Commit] [perf(evm): pool destroy-list buffer in TransactionProcessor (#11657)](https://github.com/NethermindEth/nethermind/commit/88c2b420683562fbcfe58edfc1839649274307f6) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

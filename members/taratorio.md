@@ -127,6 +127,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/stagedsync: reject blocks containing a tx with gas > block gas limit](https://github.com/erigontech/erigon/pull/21237#pullrequestreview-4306652294) - 2026-05-18
 * [Pull Request] [[DO-NOT-MERGE] bal-devnet-7](https://github.com/erigontech/erigon/pull/21230) - 2026-05-17
 * [Commit] [execution: fix flaky parallel exec err too many incarnations (#21231)](https://github.com/erigontech/erigon/commit/80c21cf71ce4a061716999132849a3e1bc0488ad) - 2026-05-18
+* [Review] [Review on: execution: extract EIP-8037 inclusion check, run it for parallel exec](https://github.com/erigontech/erigon/pull/21237#pullrequestreview-4309257088) - 2026-05-18
+* [Review] [Review on: execution, rlp: switch total difficulty and chainID to uint256.Int](https://github.com/erigontech/erigon/pull/21119#pullrequestreview-4308341745) - 2026-05-18
 ## Q1 2026
 
 

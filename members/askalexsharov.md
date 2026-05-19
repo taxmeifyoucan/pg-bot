@@ -546,6 +546,17 @@ Team: Erigon
 * [Review] [Review on: execution: explicitly set parallel/sequential blocktests/enginextests shards in ci](https://github.com/erigontech/erigon/pull/21223#pullrequestreview-4306862863) - 2026-05-18
 * [Review] [Review on: execution: fix flaky parallel exec err too many incarnations](https://github.com/erigontech/erigon/pull/21231#pullrequestreview-4305358487) - 2026-05-17
 * [Review] [Review on: agents.md: ban adding test skips without explicit user request](https://github.com/erigontech/erigon/pull/21232#pullrequestreview-4305356089) - 2026-05-17
+* [Pull Request] [bloatnet: cli flag defaults](https://github.com/erigontech/erigon/pull/21264) - 2026-05-19
+* [Review] [Review on: Fixes for EEST max-allowed-failures: 0 shards](https://github.com/erigontech/erigon/pull/21260#pullrequestreview-4315088514) - 2026-05-19
+* [Review] [Review on: rpc: graphql: implement Logs, Call and SendRawTransaction resolvers](https://github.com/erigontech/erigon/pull/21219#pullrequestreview-4315120439) - 2026-05-19
+* [Review] [Review on: execution/stagedsync: extract minIBS post-apply path into a dedicated method](https://github.com/erigontech/erigon/pull/21212#pullrequestreview-4315131267) - 2026-05-19
+* [Review] [Review on: [r3.4] cmd/integration, execution/stagedsync: clear canonical hash above snapshot tip on reset_state](https://github.com/erigontech/erigon/pull/21246#pullrequestreview-4309299365) - 2026-05-18
+* [Pull Request] [[r3.4] rawdb: ignore invalid receipt cache transaction indexes](https://github.com/erigontech/erigon/pull/21262) - 2026-05-19
+* [Review] [Review on: rpc/jsonrpc: split debug_executionWitness into phase helpers (on top of lupin012 codes fix)](https://github.com/erigontech/erigon/pull/21261#pullrequestreview-4315091451) - 2026-05-19
+* [Review] [Review on: rawdb: ignore invalid receipt cache transaction indexes](https://github.com/erigontech/erigon/pull/21249#pullrequestreview-4309344588) - 2026-05-18
+* [Review] [Review on: cmd/integration, execution/stagedsync: fix from-0 flow (env-prefix + reset-progress-delete)](https://github.com/erigontech/erigon/pull/21210#pullrequestreview-4309246492) - 2026-05-18
+* [Commit] [exec: fix committed-log metrics (#21244)](https://github.com/erigontech/erigon/commit/d1877b050f3d4aa0f6ba3ce987376dfcbf884497) - 2026-05-18
+* [Commit] [ShardedFuse: support ForceInMem mode (#21225)](https://github.com/erigontech/erigon/commit/a4662922212edf0be615cc6c3a934c2263ad1f44) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

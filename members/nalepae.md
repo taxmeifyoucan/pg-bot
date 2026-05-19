@@ -57,6 +57,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: DONTMERGEME: Partialmsg gloas integration](https://github.com/OffchainLabs/prysm/pull/16733#pullrequestreview-4281728343) - 2026-05-13
 * [Review] [Review on: Update go-ethereum to v1.17.3](https://github.com/OffchainLabs/prysm/pull/16775#pullrequestreview-4279555946) - 2026-05-13
 * [Commit] [Update go-ethereum to v1.17.3 (#16775)](https://github.com/OffchainLabs/prysm/commit/6b70e985f60433b3805662e2ddc2800e91d9fe50) - 2026-05-13
+* [Pull Request] [Update committee cache](https://github.com/OffchainLabs/prysm/pull/16814) - 2026-05-18
+* [Review] [Review on: Update Discord invite link in README](https://github.com/OffchainLabs/prysm/pull/16805#pullrequestreview-4310887820) - 2026-05-18
+* [Pull Request] [Update `go-libp2p` to `v0.44.0` and `go-libp2p-mplex` to `v0.11.0`.](https://github.com/OffchainLabs/prysm/pull/16804) - 2026-05-18
+* [Pull Request] [Fix correct head, source and target behaviour when using the `--monitor-indices` flag.](https://github.com/OffchainLabs/prysm/pull/16802) - 2026-05-18
+* [Issue] [Could not update committee cache error](https://github.com/OffchainLabs/prysm/issues/16809) - 2026-05-18
+* [Issue] [`--monitor-indices` always reports `correctHead=false correctSource=false correctTarget=false`](https://github.com/OffchainLabs/prysm/issues/16801) - 2026-05-18
+* [Issue] [Too many goroutines](https://github.com/OffchainLabs/prysm/issues/16800) - 2026-05-18
+* [Commit] [Fix correct head, source and target behaviour when using the `--monitor-indices` flag. (#16802)](https://github.com/OffchainLabs/prysm/commit/0cd7d3020769121a49b2068738db5412a4eecb93) - 2026-05-18
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 ## Q1 2026

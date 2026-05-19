@@ -44,6 +44,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Apply boost on weak](https://github.com/OffchainLabs/prysm/pull/16786) - 2026-05-13
 * [Review] [Review on: Add gloas fork choice spec tests](https://github.com/OffchainLabs/prysm/pull/16771#pullrequestreview-4283229590) - 2026-05-13
 * [Review] [Review on: Don't punish the block peer when the envelope response is empty and is a different peeer](https://github.com/OffchainLabs/prysm/pull/16779#pullrequestreview-4282518763) - 2026-05-13
+* [Pull Request] [Cache the finalized hash in the store](https://github.com/OffchainLabs/prysm/pull/16806) - 2026-05-18
+* [Pull Request] [Implement PTC dual deadlines](https://github.com/OffchainLabs/prysm/pull/16807) - 2026-05-18
+* [Review] [Review on: state diff anchors cache metrics](https://github.com/OffchainLabs/prysm/pull/16789#pullrequestreview-4312693920) - 2026-05-18
+* [Review] [Review on: don't treat epoch boundary cache miss as skipped block in state diff migration](https://github.com/OffchainLabs/prysm/pull/16803#pullrequestreview-4310462153) - 2026-05-18
+* [Review] [Review on: Fix correct head, source and target behaviour when using the `--monitor-indices` flag.](https://github.com/OffchainLabs/prysm/pull/16802#pullrequestreview-4310139245) - 2026-05-18
+* [Commit] [Fix Forkchoice panic (#16728)](https://github.com/OffchainLabs/prysm/commit/441cfe0ad6be0d09c57a3485c7696dd622021f92) - 2026-05-19
+* [Commit] [Cache the finalized hash in the store (#16806)](https://github.com/OffchainLabs/prysm/commit/24c2b02232ea66a82b582d73379f1f27a4b8b0b3) - 2026-05-19
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

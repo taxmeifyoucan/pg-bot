@@ -53,6 +53,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Unify comments across executable p2p specs](https://github.com/ethereum/consensus-specs/pull/5240) - 2026-05-12
 * [Commit] [Unify comments across executable p2p specs (#5240)](https://github.com/ethereum/consensus-specs/commit/07ecddce402b9f350849073ac234033cf3148164) - 2026-05-12
 * [Review] [Review on: Add `target_gas_limit` to `PayloadAttributes`](https://github.com/ethereum/consensus-specs/pull/5235#pullrequestreview-4279878224) - 2026-05-13
+* [Review] [Review on: Add executable gossip validation functions for fulu](https://github.com/ethereum/consensus-specs/pull/5246#pullrequestreview-4307581025) - 2026-05-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

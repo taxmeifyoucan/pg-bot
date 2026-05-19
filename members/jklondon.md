@@ -71,6 +71,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [diagnostics/syscheck: make kernel-hint fix commands copy-pastable (#21202)](https://github.com/erigontech/erigon/commit/f05a65e69192d979ffa658d9481fd3ae584631f4) - 2026-05-15
 * [Review] [Review on: ShardedFuse: support ForceInMem mode](https://github.com/erigontech/erigon/pull/21225#pullrequestreview-4303751607) - 2026-05-16
 * [Review] [Review on: ShardedFuse: support ForceInMem mode](https://github.com/erigontech/erigon/pull/21222#pullrequestreview-4303751299) - 2026-05-16
+* [Pull Request] [[r3.4] cmd/integration, execution/stagedsync: clear canonical hash above snapshot tip on reset_state](https://github.com/erigontech/erigon/pull/21246) - 2026-05-18
+* [Pull Request] [execution/stagedsync, cmd/integration: clear canonical hash above snapshot tip on reset_state](https://github.com/erigontech/erigon/pull/21247) - 2026-05-18
 ## Q1 2026
 
 

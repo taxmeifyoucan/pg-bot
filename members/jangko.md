@@ -57,6 +57,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Remove BPO forks from EVMFork](https://github.com/status-im/nimbus-eth1/pull/4245) - 2026-05-15
 * [Commit] [EIP-7928 BAL: Fix for EIP-7702 account call (#4240)](https://github.com/status-im/nimbus-eth1/commit/2d1a87c4686e702db73157d52f65dc4df1a4f49a) - 2026-05-16
 * [Commit] [Remove BPO forks from EVMFork (#4245)](https://github.com/status-im/nimbus-eth1/commit/d4e5c44a0fdadf2c07143a379e7d9c7c0390fd19) - 2026-05-16
+* [Pull Request] [EIP-8037 sstore/collision clear dynamics](https://github.com/status-im/nimbus-eth1/pull/4251) - 2026-05-19
+* [Commit] [bal-devnet-7 (#4227)](https://github.com/status-im/nimbus-eth1/commit/4f5716ef50074b69749a0c3d9728754eae686169) - 2026-05-18
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 ## Q1 2026

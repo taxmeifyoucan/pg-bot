@@ -134,6 +134,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[WIP] align response debug_executionWitness to GETH ](https://github.com/erigontech/erigon/pull/21224) - 2026-05-16
 * [Commit] [rpc: add position field to callTracer withLog tests (#21175)](https://github.com/erigontech/erigon/commit/9e01d17b65ec50c36cb24cef457128454240f34e) - 2026-05-16
 * [Review] [Review on: rpc/jsonrpc: split debug_executionWitness into phase helpers](https://github.com/erigontech/erigon/pull/21227#pullrequestreview-4304929118) - 2026-05-17
+* [Pull Request] [[WIP] rpc: fix witness state nodes](https://github.com/erigontech/erigon/pull/21258) - 2026-05-18
+* [Commit] [rpc: Fix regression on eth_createAccessList and add mgt ctx.err in loop (#21086)](https://github.com/erigontech/erigon/commit/a6ffe0bf9cb7f48e33776daae4ccaa6ba46c87ea) - 2026-05-18
+* [Commit] [align response debug_executionWitness to GETH  (#21224)](https://github.com/erigontech/erigon/commit/79c7e31eb839616317910971424f206e80674e46) - 2026-05-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

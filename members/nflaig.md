@@ -303,6 +303,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796) - 2026-05-11
 * [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4266294777) - 2026-05-11
+* [Commit] [engine: add targetGasLimit to PayloadAttributesV4 (#796)](https://github.com/ethereum/execution-apis/commit/a22fbd4464ef77404935a056f9e19db0abb359a1) - 2026-05-18
 ## Q1 2026
 
 

@@ -86,6 +86,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: fix: `miner_changeTargetGasLimit` silently ignores valid gas limit on PoW/BFT networks](https://github.com/besu-eth/besu/pull/10460#pullrequestreview-4297964365) - 2026-05-15
 * [Review] [Review on: fix: reject non-0x-prefixed tx hash in debug_getRawTransaction](https://github.com/besu-eth/besu/pull/10505#pullrequestreview-4298090057) - 2026-05-15
 * [Review] [Review on: Fix IndexOutOfBoundsException race condition in TransactionBroadcaster](https://github.com/besu-eth/besu/pull/10482#pullrequestreview-4297913534) - 2026-05-15
+* [Review] [Review on: testing_buildBlockV1: exclude null fields from result](https://github.com/besu-eth/besu/pull/10492#pullrequestreview-4308594829) - 2026-05-18
+* [Commit] [Consider maxFeePerBlobGas when sorting tx in the layered txpool (#10513)](https://github.com/besu-eth/besu/commit/ff13cea9d5bc372d66720d3c19e4b0b00b65ddbd) - 2026-05-18
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

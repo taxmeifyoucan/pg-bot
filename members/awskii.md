@@ -117,6 +117,10 @@ Team: Erigon
 * [Pull Request] [[r3.4] perf cherry-picks: commitment rebuild resume, seg retire merge, kv integrity](https://github.com/erigontech/erigon/pull/21135) - 2026-05-12
 * [Pull Request] [rpc/jsonrpc: split debug_executionWitness into phase helpers](https://github.com/erigontech/erigon/pull/21227) - 2026-05-16
 * [Pull Request] [commitment: parallel hex patricia hashed computation](https://github.com/erigontech/erigon/pull/21238) - 2026-05-17
+* [Pull Request] [rpc/jsonrpc: split debug_executionWitness into phase helpers (on top of lupin012 codes fix)](https://github.com/erigontech/erigon/pull/21261) - 2026-05-18
+* [Review] [Review on: commitmentdb: harden commitmentState decode bounds](https://github.com/erigontech/erigon/pull/21255#pullrequestreview-4310448082) - 2026-05-18
+* [Review] [Review on: align response debug_executionWitness to GETH ](https://github.com/erigontech/erigon/pull/21224#pullrequestreview-4310535287) - 2026-05-18
+* [Review] [Review on: all: remove empty files](https://github.com/erigontech/erigon/pull/21254#pullrequestreview-4310432265) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

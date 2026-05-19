@@ -197,6 +197,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add NETH005 analyzer: redundant Span<T>.ToArray() at call sites (#11464)](https://github.com/NethermindEth/nethermind/commit/b881dd62573cd92f015dcd3e5a0ec66dd3e8a36c) - 2026-05-15
 * [Commit] [feat(init): auto-detect active state backend at startup (#11404)](https://github.com/NethermindEth/nethermind/commit/5ecd9b86c5d81e9af266ab833a4e28577cdfae48) - 2026-05-15
 * [Commit] [fix(flat-db): skip ImportFlatDb when pruning trie state lacks head root (#11422)](https://github.com/NethermindEth/nethermind/commit/d7a96c950017c3835cd06d9b6f444fc32e4ae78e) - 2026-05-15
+* [Pull Request] [feat(FlatDB): long finality support with persisted snapshots](https://github.com/NethermindEth/nethermind/pull/11663) - 2026-05-18
+* [Review] [Review on: fix(trie test): de-flake Will_Persist_ReCommittedPersistedNode_FromCommitBuffer](https://github.com/NethermindEth/nethermind/pull/11650#pullrequestreview-4314780593) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

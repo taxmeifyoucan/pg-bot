@@ -64,6 +64,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix eth_syncing at beacon sync pivot](https://github.com/NethermindEth/nethermind/pull/11594#pullrequestreview-4296491666) - 2026-05-15
 * [Review] [Review on: Update 1 release/1.38.0 ](https://github.com/NethermindEth/nethermind/pull/11627#pullrequestreview-4302745376) - 2026-05-16
 * [Review] [Review on: Avoid pooled transaction hash enumerator allocations](https://github.com/NethermindEth/nethermind/pull/11638#pullrequestreview-4305730541) - 2026-05-17
+* [Review] [Review on: perf(evm): pool destroy-list buffer in TransactionProcessor](https://github.com/NethermindEth/nethermind/pull/11657#pullrequestreview-4311965236) - 2026-05-18
+* [Review] [Review on: Enable Zisk 0.18 support](https://github.com/NethermindEth/nethermind/pull/11645#pullrequestreview-4310929470) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

@@ -36,6 +36,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(build): remove `zig-out` from `files`](https://github.com/ChainSafe/lodestar-z/pull/360#pullrequestreview-4299964487) - 2026-05-15
 * [Review] [Review on: feat: implement `loadState` API and binding](https://github.com/ChainSafe/lodestar-z/pull/165#pullrequestreview-4303788258) - 2026-05-16
 * [Pull Request] [chore: support dev workflow](https://github.com/ChainSafe/lodestar-z/pull/364) - 2026-05-16
+* [Review] [Review on: chore: support dev workflow](https://github.com/ChainSafe/lodestar-z/pull/364#pullrequestreview-4310512287) - 2026-05-18
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -96,6 +97,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: handle ptc votes from same duplicated validators](https://github.com/ChainSafe/lodestar/pull/9369#pullrequestreview-4290783785) - 2026-05-14
 * [Review] [Review on: chore: move lightclient and prover to external repo](https://github.com/ChainSafe/lodestar/pull/9346#pullrequestreview-4290546337) - 2026-05-14
 * [Commit] [chore: move lightclient and prover to external repo (#9346)](https://github.com/ChainSafe/lodestar/commit/8e18007572b46fe2988291e58a22c326fb33fc44) - 2026-05-14
+* [Pull Request] [feat: add proposer preferences](https://github.com/ChainSafe/lodestar/pull/9377) - 2026-05-18
+* [Review] [Review on: fix: cache pending deposit signature verifications](https://github.com/ChainSafe/lodestar/pull/9374#pullrequestreview-4310680388) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

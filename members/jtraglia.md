@@ -245,6 +245,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Use custom ruff which checks markdown code blocks](https://github.com/ethereum/consensus-specs/pull/5261) - 2026-05-17
 * [Pull Request] [Remove outdated tests readme](https://github.com/ethereum/consensus-specs/pull/5260) - 2026-05-17
 * [Commit] [Remove outdated tests readme (#5260)](https://github.com/ethereum/consensus-specs/commit/ef89aba2e175763217eb9e11e6526ebeb36617c4) - 2026-05-17
+* [Pull Request] [Enable more ruff lint checks](https://github.com/ethereum/consensus-specs/pull/5268) - 2026-05-18
+* [Review] [Review on: Fix invalid block-root membership check in fork-choice helper](https://github.com/ethereum/consensus-specs/pull/5259#pullrequestreview-4314546707) - 2026-05-18
+* [Commit] [Use custom ruff which checks markdown code blocks (#5261)](https://github.com/ethereum/consensus-specs/commit/4a4937bea332d72a55a76aaebcb97fbcdc189f69) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

@@ -39,6 +39,8 @@ Team: EthereumJS
 * [Commit] [chore: add .npmrc with min-release-age=3 (#4291)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/c52caf7659949d43a78d54f31071e0df9c1f7f6c) - 2026-05-13
 * [Pull Request] [evm: EIP-8037 v7 add create2Gas override + refund pre-charge on CREATE silent-failure paths](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4295) - 2026-05-14
 * [Pull Request] [evm/vm: EIP-8037 v7 CREATE collision restructure (pre-charge new_account state-gas at opcode entry)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4294) - 2026-05-14
+* [Review] [Review on: EIP-7708 + EIP-8037 Fixes](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4301#pullrequestreview-4310752714) - 2026-05-18
+* [Commit] [evm/vm: EIP-8037 v7 fixtures (param bump + spill/auth/top-level-create refunds) (#4293)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/20ca40140ed533656dda8f04db73564df8f08fde) - 2026-05-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 ## Q1 2026

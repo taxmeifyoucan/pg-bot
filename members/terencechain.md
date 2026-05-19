@@ -158,6 +158,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Raise MIN_BUILDER_WITHDRAWABILITY_DELAY to 8192 epochs](https://github.com/OffchainLabs/prysm/pull/16791) - 2026-05-15
 * [Review] [Review on: Bump spec to v1.7.0-alpha.8](https://github.com/OffchainLabs/prysm/pull/16797#pullrequestreview-4303740374) - 2026-05-16
 * [Pull Request] [Glamsterdam devnet 4 tmp](https://github.com/OffchainLabs/prysm/pull/16798) - 2026-05-17
+* [Pull Request] [Replace linear scan in `BuilderIndexByPubkey` with O(1) map](https://github.com/OffchainLabs/prysm/pull/16813) - 2026-05-18
+* [Pull Request] [Add deposit signature cache + envelope prefetcher](https://github.com/OffchainLabs/prysm/pull/16812) - 2026-05-18
+* [Pull Request] [Add GasLimit accessor on forkchoice](https://github.com/OffchainLabs/prysm/pull/16811) - 2026-05-18
+* [Pull Request] [Add batch verify for deposit request signatures](https://github.com/OffchainLabs/prysm/pull/16810) - 2026-05-18
+* [Review] [Review on: Cache the finalized hash in the store](https://github.com/OffchainLabs/prysm/pull/16806#pullrequestreview-4311798110) - 2026-05-18
+* [Pull Request] [Update Discord invite link in README](https://github.com/OffchainLabs/prysm/pull/16805) - 2026-05-18
+* [Commit] [Bump spec to v1.7.0-alpha.8 (#16797)](https://github.com/OffchainLabs/prysm/commit/250849d79910c7ff4bfbf524b98dc7529d7f4a88) - 2026-05-18
+* [Commit] [Update Discord invite link in README (#16805)](https://github.com/OffchainLabs/prysm/commit/399dc4f7c7279e807660e23c3e757fd27f1fe83d) - 2026-05-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

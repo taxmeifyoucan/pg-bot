@@ -57,6 +57,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix: suppress ExecutionContext flow in prewarmer to fix non-deterministic block stats](https://github.com/NethermindEth/nethermind/pull/11597) - 2026-05-13
 * [Review] [Review on: Update BAL pyspec fixtures to v7.1.1](https://github.com/NethermindEth/nethermind/pull/11595#pullrequestreview-4283696164) - 2026-05-13
 * [Review] [Review on: Align EIP-8037 gas accounting with BAL tests v7.1.0](https://github.com/NethermindEth/nethermind/pull/11579#pullrequestreview-4282320721) - 2026-05-13
+* [Pull Request] [Feat/r2r with pgo fix](https://github.com/NethermindEth/nethermind/pull/11643) - 2026-05-18
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02
@@ -93,6 +94,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Feat/individual opcode trace files](https://github.com/NethermindEth/gas-benchmarks/pull/142) - 2026-04-30
 * [Pull Request] [Feat/stateful generator nethermind diag](https://github.com/NethermindEth/gas-benchmarks/pull/143) - 2026-05-08
 * [Commit] [Feat/stateful generator nethermind diag (#143)](https://github.com/NethermindEth/gas-benchmarks/commit/458efc89653e1569aab899ea15f7702dd6315b6b) - 2026-05-08
+* [Pull Request] [Add checkpoint-restore before testing mode](https://github.com/NethermindEth/gas-benchmarks/pull/149) - 2026-05-19
+* [Pull Request] [Fix restart-before-testing run flag parsing](https://github.com/NethermindEth/gas-benchmarks/pull/148) - 2026-05-18
+* [Pull Request] [Add restart-before-testing workflow input](https://github.com/NethermindEth/gas-benchmarks/pull/147) - 2026-05-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Remove unused bloatnet factory entries from mainnet stubs](https://github.com/ethereum/execution-specs/pull/2670) - 2026-04-13
 * [Commit] [refactor(test-benchmark): remove unused bloatnet factory entries from mainnet stubs (#2670)](https://github.com/ethereum/execution-specs/commit/a830dab6f130151ab9023a473b7543120aa21961) - 2026-04-14

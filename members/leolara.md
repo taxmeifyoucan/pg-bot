@@ -33,6 +33,7 @@ Github: [@leolara](https://github.com/leolara)
 * [Pull Request] [fix(ported_static): Approach-1 + stale-skip cleanup for Amsterdam OoG-by-design tests](https://github.com/ethereum/execution-specs/pull/2843) - 2026-05-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [ Add tech-debt audit (RFC — for discussion, not for merge)](https://github.com/ethereum/consensus-specs/pull/5233) - 2026-05-11
+* [Pull Request] [Add tech-debt audit (RFC — for discussion, not for merge)](https://github.com/ethereum/consensus-specs/pull/5266) - 2026-05-18
 ## Q1 2026
 
 

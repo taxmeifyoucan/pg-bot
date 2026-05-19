@@ -192,6 +192,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Avoid pooled transaction hash enumerator allocations](https://github.com/NethermindEth/nethermind/pull/11638) - 2026-05-17
 * [Review] [Review on: Update default gas limit for xdc](https://github.com/NethermindEth/nethermind/pull/11628#pullrequestreview-4304968587) - 2026-05-17
 * [Pull Request] [fix(devnet-7): reject txs exceeding EIP-8037 intrinsic gas cap; skip BAL no-op code](https://github.com/NethermindEth/nethermind/pull/11635) - 2026-05-17
+* [Review] [Review on: fix(devnet-7): reject txs exceeding EIP-8037 intrinsic gas cap; skip BAL no-op code](https://github.com/NethermindEth/nethermind/pull/11635#pullrequestreview-4312740536) - 2026-05-18
+* [Pull Request] [Add EthStats protocol message handling](https://github.com/NethermindEth/nethermind/pull/11652) - 2026-05-18
+* [Review] [Review on: perf(bal): verify-only fast path — skip end-of-block encode + Keccak](https://github.com/NethermindEth/nethermind/pull/11659#pullrequestreview-4313130648) - 2026-05-18
+* [Review] [Review on: feat(engine): support targetGasLimit in PayloadAttributesV4](https://github.com/NethermindEth/nethermind/pull/11611#pullrequestreview-4310715730) - 2026-05-18
+* [Review] [Review on: perf(bal): inline-1 ReadOnlySlotChanges for the common single-change case](https://github.com/NethermindEth/nethermind/pull/11658#pullrequestreview-4312661215) - 2026-05-18
+* [Review] [Review on: perf(bal): SoA uint[] index lanes on the BAL read hot path](https://github.com/NethermindEth/nethermind/pull/11656#pullrequestreview-4312657650) - 2026-05-18
+* [Review] [Review on: fix(ci): Disable .NET package caching](https://github.com/NethermindEth/nethermind/pull/11653#pullrequestreview-4311242950) - 2026-05-18
+* [Review] [Review on: feat(engine/ssz): add target_gas_limit to PayloadAttributesV4 wire](https://github.com/NethermindEth/nethermind/pull/11647#pullrequestreview-4310702795) - 2026-05-18
+* [Review] [Review on: Use generic decoding results for block and tx; remove IRlpObjectDecoder; single RlpDecoder base class and interface](https://github.com/NethermindEth/nethermind/pull/10759#pullrequestreview-4309656081) - 2026-05-18
+* [Commit] [Reduce per-message and per-peer allocations across Eth, Snap, RLPx, and sort hot paths (#11639)](https://github.com/NethermindEth/nethermind/commit/e3e2fd859f7955a84ad524c55608699b956c41e0) - 2026-05-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

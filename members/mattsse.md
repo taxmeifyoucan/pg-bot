@@ -414,6 +414,17 @@ Team: Reth
 * [Review] [Review on: Use immutable access for read-only peer assertions](https://github.com/paradigmxyz/reth/pull/24273#pullrequestreview-4305274519) - 2026-05-17
 * [Review] [Review on: feat(discv4): add enforce_eip868_neighbours config setting](https://github.com/paradigmxyz/reth/pull/23503#pullrequestreview-4304970720) - 2026-05-17
 * [Commit] [chore(deps): update alloy core to 1.6.0 (#24275)](https://github.com/paradigmxyz/reth/commit/c4c690f703e3e5ca336c62bc28ea912d9e8e401c) - 2026-05-17
+* [Review] [Review on: feat(init-state): support storage v2 imports](https://github.com/paradigmxyz/reth/pull/24126#pullrequestreview-4311696050) - 2026-05-18
+* [Pull Request] [feat(rpc): add debug account state endpoints](https://github.com/paradigmxyz/reth/pull/24296) - 2026-05-18
+* [Review] [Review on: perf(engine): create changeset provider in background](https://github.com/paradigmxyz/reth/pull/24292#pullrequestreview-4311340147) - 2026-05-18
+* [Review] [Review on: feat(net): advertise eth/70 and eth/71 by default](https://github.com/paradigmxyz/reth/pull/24299#pullrequestreview-4311485160) - 2026-05-18
+* [Pull Request] [feat(rpc): add eth_pendingTransactions](https://github.com/paradigmxyz/reth/pull/24286) - 2026-05-18
+* [Commit] [feat(rpc): add eth_pendingTransactions (#24286)](https://github.com/paradigmxyz/reth/commit/4aa378175cc77308a4aa6e204df7075857b80e12) - 2026-05-18
+* [Commit] [fix(cli): reject zero db list len (#24283)](https://github.com/paradigmxyz/reth/commit/3116adf26c03450741a7973c23638964ab43913f) - 2026-05-18
+* [Commit] [refactor(tx-pool): simplify blob cell lookup (#24290)](https://github.com/paradigmxyz/reth/commit/79dc30cb340405b3531d3143320e66aaba3d9107) - 2026-05-18
+* [Commit] [fix(rpc): remove stale debug endpoints (#24284)](https://github.com/paradigmxyz/reth/commit/29d9241f678d4724ec83e9b02f60cd0f876c2d28) - 2026-05-18
+* [Commit] [feat(rpc): add builder submission v6 validation (#24170)](https://github.com/paradigmxyz/reth/commit/04d67cb148cd691571517e85e15ce683447266fd) - 2026-05-18
+* [Commit] [chore: bump alloy to 2.0.5 (#24289)](https://github.com/paradigmxyz/reth/commit/062dd7122636a17697fe7df3e336561d75b7f4aa) - 2026-05-18
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

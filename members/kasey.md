@@ -20,6 +20,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Pull Request] [Support context cancellation in PartialColumnBroadcaster](https://github.com/OffchainLabs/prysm/pull/16684) - 2026-04-16
 * [Review] [Review on: Update fastssz to 7a6eb71](https://github.com/OffchainLabs/prysm/pull/16710#pullrequestreview-4151022099) - 2026-04-21
 * [Pull Request] [DONTMERGEME: Partialmsg gloas integration](https://github.com/OffchainLabs/prysm/pull/16733) - 2026-04-29
+* [Review] [Review on: Update `go-libp2p` to `v0.44.0` and `go-libp2p-mplex` to `v0.11.0`.](https://github.com/OffchainLabs/prysm/pull/16804#pullrequestreview-4310540858) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486) - 2026-04-09
 ## Q1 2026

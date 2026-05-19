@@ -91,6 +91,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Add bounds to envelope quarantine](https://github.com/status-im/nimbus-eth2/pull/8462#pullrequestreview-4306171359) - 2026-05-17
 * [Pull Request] [Set maxResponseItems when requesting data from peers](https://github.com/status-im/nimbus-eth2/pull/8461) - 2026-05-17
 * [Pull Request] [Handle shrinking custody set in both column quarantine loops](https://github.com/status-im/nimbus-eth2/pull/8460) - 2026-05-17
+* [Pull Request] [Harden against malformed era files](https://github.com/status-im/nimbus-eth2/pull/8465) - 2026-05-18
+* [Pull Request] [Fix lightClientDataImportBackfill property getting accessed in tns](https://github.com/status-im/nimbus-eth2/pull/8467) - 2026-05-18
+* [Pull Request] [Revert "Apply KZG check to columns fetched via Req/Resp (#8458)"](https://github.com/status-im/nimbus-eth2/pull/8464) - 2026-05-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
@@ -129,6 +132,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Update EIP-7708: Add gas costs for system-emitted transfer and burn logs](https://github.com/ethereum/EIPs/pull/11627#pullrequestreview-4252669648) - 2026-05-08
 * [Review] [Review on: Update EIP-7708: Use EIP-8246 to simplify](https://github.com/ethereum/EIPs/pull/11634#pullrequestreview-4257164421) - 2026-05-09
 * [Review] [Review on: Update EIP-7708: Use EIP-8246 to simplify](https://github.com/ethereum/EIPs/pull/11634#pullrequestreview-4304242044) - 2026-05-16
+* [Pull Request] [Update EIP-7688: Suggest constants for network message size bounds](https://github.com/ethereum/EIPs/pull/11687) - 2026-05-18
+* [Commit] [Update EIP-7688: Suggest constants for network message size bounds](https://github.com/ethereum/EIPs/commit/5f4a908c019f83e5d8dc00abccba37c312fca02f) - 2026-05-18
 ## Q1 2026
 
 

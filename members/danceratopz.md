@@ -103,6 +103,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7708 ETH transfers emit a log](https://github.com/ethereum/execution-specs/pull/2844#pullrequestreview-4279379614) - 2026-05-13
 * [Issue] [Replace invalid field `gas_used` in expected_receipts in 7778 test](https://github.com/ethereum/execution-specs/issues/2855) - 2026-05-13
 * [Commit] [refactor(tests): Use `filter_combinations` marker to drop infeasible cell in `test_varying_calldata_costs` (#2852)](https://github.com/ethereum/execution-specs/commit/cc8022a2340a55a825f44b8db9105785a4cbb83f) - 2026-05-13
+* [Review] [Review on: feat(spec-specs, tests): Add EIP-7976 Increase Calldata Floor Cost](https://github.com/ethereum/execution-specs/pull/2861#pullrequestreview-4307446967) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 

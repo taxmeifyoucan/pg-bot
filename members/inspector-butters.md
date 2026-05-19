@@ -44,6 +44,9 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [compress state diff anchor cache (#16790)](https://github.com/OffchainLabs/prysm/commit/9ec345e0fda9439740ac564eefb3a9173ead3cf5) - 2026-05-15
 * [Commit] [remove "already exists in db" check from migrateToColdHdiff (#16761)](https://github.com/OffchainLabs/prysm/commit/adf661fb9fae6b036ebf44a95203c9402be7b917) - 2026-05-15
 * [Commit] [boundary slot check for state diff cache (#16760)](https://github.com/OffchainLabs/prysm/commit/9daca7901c42d02dedd551dd9b29190789fa8e4f) - 2026-05-15
+* [Pull Request] [hot state db for state diff](https://github.com/OffchainLabs/prysm/pull/16808) - 2026-05-18
+* [Pull Request] [don't treat epoch boundary cache miss as skipped block in state diff migration](https://github.com/OffchainLabs/prysm/pull/16803) - 2026-05-18
+* [Commit] [don't treat epoch boundary cache miss as skipped block in state diff migration (#16803)](https://github.com/OffchainLabs/prysm/commit/44cde254b11ea1f5ae7017b62184785dca90fb73) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

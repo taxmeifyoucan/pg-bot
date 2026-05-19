@@ -72,6 +72,9 @@ Team: Geth
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4138859251) - 2026-04-20
 * [Pull Request] [engine: add Rest-SSZ spec](https://github.com/ethereum/execution-apis/pull/793) - 2026-05-08
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-3155: `refund` should be `Number` not `Hex-Number`](https://github.com/ethereum/EIPs/pull/11629#pullrequestreview-4309826529) - 2026-05-18
 ## Q1 2026
 
 

@@ -79,6 +79,7 @@ Team: Erigon
 * [Pull Request] [DO NOT MERGE  - this is for the lab](https://github.com/erigontech/erigon/pull/21196) - 2026-05-14
 * [Pull Request] [DO NOT MERGE - panda lab](https://github.com/erigontech/erigon/pull/21195) - 2026-05-14
 * [Review] [Review on: cmd/integration: add mdbx_copy compact in-place one-liner](https://github.com/erigontech/erigon/pull/21189#pullrequestreview-4289090107) - 2026-05-14
+* [Review] [Review on: p2p/protocols/eth: refresh eth/71 doc comments for post-#11553 sentinel split](https://github.com/erigontech/erigon/pull/21250#pullrequestreview-4309186072) - 2026-05-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

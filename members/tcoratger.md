@@ -182,6 +182,15 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat: add p3-monolith-air crate for Monolith permutation arithmetization](https://github.com/Plonky3/Plonky3/pull/1516#pullrequestreview-4306129578) - 2026-05-17
 * [Review] [Review on: perf(multilinear-util): field-aware MLE recursion threshold](https://github.com/Plonky3/Plonky3/pull/1664#pullrequestreview-4305155038) - 2026-05-17
 * [Review] [Review on: verifier: add a couple strengthening checks](https://github.com/Plonky3/Plonky3/pull/1666#pullrequestreview-4305467496) - 2026-05-17
+* [Review] [Review on: Harden log_arity validation in FRI and Circle](https://github.com/Plonky3/Plonky3/pull/1676#pullrequestreview-4311951742) - 2026-05-18
+* [Review] [Review on: feat(whir): expose inner params](https://github.com/Plonky3/Plonky3/pull/1677#pullrequestreview-4311745694) - 2026-05-18
+* [Review] [Review on: fix(zk-codes) awkward specialization in zk-code trait](https://github.com/Plonky3/Plonky3/pull/1675#pullrequestreview-4311541830) - 2026-05-18
+* [Review] [Review on: chore: add p3-sumcheck to release-plz flow](https://github.com/Plonky3/Plonky3/pull/1674#pullrequestreview-4310337211) - 2026-05-18
+* [Review] [Review on: refactor: move sumcheck module to an independent crate](https://github.com/Plonky3/Plonky3/pull/1672#pullrequestreview-4310139831) - 2026-05-18
+* [Review] [Review on: chore(deps): update sha3 requirement from 0.11.0 to 0.12.0](https://github.com/Plonky3/Plonky3/pull/1670#pullrequestreview-4310061548) - 2026-05-18
+* [Review] [Review on: perf(batch-stark): borrow permutation buffer in prover](https://github.com/Plonky3/Plonky3/pull/1671#pullrequestreview-4310116966) - 2026-05-18
+* [Review] [Review on: feat: add p3-monolith-air crate for Monolith permutation arithmetization](https://github.com/Plonky3/Plonky3/pull/1516#pullrequestreview-4309977271) - 2026-05-18
+* [Review] [Review on: chore(deps): update spin requirement from 0.10.0 to 0.11.0](https://github.com/Plonky3/Plonky3/pull/1669#pullrequestreview-4308794372) - 2026-05-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

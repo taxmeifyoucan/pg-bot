@@ -83,6 +83,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [handle reorgs for proposer preferences (#16651)](https://github.com/OffchainLabs/prysm/commit/9f9bde4303746b6709dfeba3576837577e389355) - 2026-05-13
 * [Review] [Review on: Add gloas support to hdiff state diffs](https://github.com/OffchainLabs/prysm/pull/16590#pullrequestreview-4291589669) - 2026-05-14
 * [Review] [Review on: replace tracked validators cache with proposer preference](https://github.com/OffchainLabs/prysm/pull/16767#pullrequestreview-4298736219) - 2026-05-15
+* [Review] [Review on: Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582#pullrequestreview-4315052068) - 2026-05-19
+* [Review] [Review on: replace tracked validators cache with proposer preference](https://github.com/OffchainLabs/prysm/pull/16767#pullrequestreview-4314011994) - 2026-05-18
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

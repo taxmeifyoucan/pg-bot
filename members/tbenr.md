@@ -112,6 +112,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [protoarray underflow on glamsterdam-devnet-3](https://github.com/Consensys/teku/issues/10719) - 2026-05-15
 * [Issue] [Defer blocks that build on FULL when the parent payload is not yet imported](https://github.com/Consensys/teku/issues/10721) - 2026-05-16
 * [Issue] [Defer attestations that vote for FULL when the payload is not yet imported](https://github.com/Consensys/teku/issues/10720) - 2026-05-16
+* [Pull Request] [[CI] Improve spotless speed on groovy](https://github.com/Consensys/teku/pull/10723) - 2026-05-18
+* [Commit] [[CI] Improve spotless speed on groovy (#10723)](https://github.com/Consensys/teku/commit/00837dc3bbec58d2f34a9dca5feb11ef1fe940d4) - 2026-05-18
+* [Commit] [devnet2 stack 05 final devnet2 (#10687)](https://github.com/Consensys/teku/commit/4242942ff798fbafa5fc7fc6db1cdf9794d37eaa) - 2026-05-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

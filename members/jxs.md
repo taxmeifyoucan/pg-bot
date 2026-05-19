@@ -25,6 +25,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 
 * [Review] [Review on: Reduce public api surface](https://github.com/sigp/discv5/pull/304#pullrequestreview-4304441972) - 2026-05-16
 * [Review] [Review on: Reduce public api surface](https://github.com/sigp/discv5/pull/304#pullrequestreview-4306312433) - 2026-05-17
+* [Review] [Review on: Reduce public api surface](https://github.com/sigp/discv5/pull/304#pullrequestreview-4308841027) - 2026-05-18
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Review] [Review on: Remove `EthSpec`](https://github.com/sigp/lighthouse/pull/9229#pullrequestreview-4229342691) - 2026-05-05
 ## Q4 2025

@@ -90,6 +90,12 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [chore(release): 0.1.2-rc.2 (#365)](https://github.com/ChainSafe/lodestar-z/commit/7046128439880284b88b69ca78869fc5c976e977) - 2026-05-16
 * [Commit] [feat(blst): use external buffers for blst operations (#358)](https://github.com/ChainSafe/lodestar-z/commit/78e4678df2429cbd412956a14ebc4778438d3b32) - 2026-05-16
 * [Review] [Review on: feat: implement `loadState` API and binding](https://github.com/ChainSafe/lodestar-z/pull/165#pullrequestreview-4305282625) - 2026-05-17
+* [Review] [Review on: feat(bindings): align `BeaconStateView` with `IBeaconStateView`](https://github.com/ChainSafe/lodestar-z/pull/347#pullrequestreview-4310510708) - 2026-05-18
+* [Review] [Review on: chore: support dev workflow](https://github.com/ChainSafe/lodestar-z/pull/364#pullrequestreview-4312076845) - 2026-05-18
+* [Pull Request] [feat: getSyncCommitteesWitness](https://github.com/ChainSafe/lodestar-z/pull/367) - 2026-05-18
+* [Review] [Review on: feat: getSyncCommitteesWitness](https://github.com/ChainSafe/lodestar-z/pull/367#pullrequestreview-4311980562) - 2026-05-18
+* [Pull Request] [feat: support getLatestWeakSubjectivityCheckpointEpoch](https://github.com/ChainSafe/lodestar-z/pull/366) - 2026-05-18
+* [Review] [Review on: feat: support getLatestWeakSubjectivityCheckpointEpoch](https://github.com/ChainSafe/lodestar-z/pull/366#pullrequestreview-4311725286) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

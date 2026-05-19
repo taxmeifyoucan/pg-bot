@@ -45,6 +45,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Clean-up multiple warnings in tests ](https://github.com/Consensys/teku/pull/10713) - 2026-05-15
 * [Review] [Review on: Trying to fix the most common flaky test failures](https://github.com/Consensys/teku/pull/10709#pullrequestreview-4295028270) - 2026-05-15
 * [Commit] [fix multiple warning coming up during test run on CI (#10713)](https://github.com/Consensys/teku/commit/5b544d5d9fc228e381889c7b5d09fb3c8ee177f0) - 2026-05-15
+* [Pull Request] [Reenable some ref test](https://github.com/Consensys/teku/pull/10722) - 2026-05-18
+* [Commit] [Upgrade gradle (#10714)](https://github.com/Consensys/teku/commit/4028005a60ba1bc737303ca651f69c7279b166b8) - 2026-05-18
 ## Q1 2026
 
 

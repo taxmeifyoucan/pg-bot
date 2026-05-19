@@ -389,6 +389,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Switch to GEVM](https://github.com/erigontech/erigon/issues/21167) - 2026-05-13
 * [Commit] [.github: update CODEOWNERS (#21169)](https://github.com/erigontech/erigon/commit/7e41ff294b6ff214dc4a6777aad4951e0c0a38b8) - 2026-05-14
 * [Commit] [docs/site: fix Dependabot npm alerts via overrides (#21168)](https://github.com/erigontech/erigon/commit/71acfeae548d54748cb4c7c10b825d8c4f5d2629) - 2026-05-13
+* [Review] [Review on: execution/stagedsync: drop dead finalizeWithIBS + finalizeTx (delta-args)](https://github.com/erigontech/erigon/pull/21211#pullrequestreview-4308383688) - 2026-05-18
+* [Pull Request] [[DO NOT MERGE] execution/state: start removing incarnations (#12440)](https://github.com/erigontech/erigon/pull/21256) - 2026-05-18
+* [Pull Request] [ci: scope DockerHub publish creds to a GitHub Environment](https://github.com/erigontech/erigon/pull/21257) - 2026-05-18
+* [Review] [Review on: ci: scope DockerHub publish creds to a GitHub Environment](https://github.com/erigontech/erigon/pull/21257#pullrequestreview-4313084688) - 2026-05-18
+* [Review] [Review on: cl/forkchoice: fix Caplin stuck on mainnet after GLOAS merge](https://github.com/erigontech/erigon/pull/21228#pullrequestreview-4308990272) - 2026-05-18
+* [Pull Request] [all: remove empty files](https://github.com/erigontech/erigon/pull/21254) - 2026-05-18
+* [Pull Request] [p2p/protocols/eth: refresh eth/71 doc comments for post-#11553 sentinel split](https://github.com/erigontech/erigon/pull/21250) - 2026-05-18
+* [Review] [Review on: cmd/integration, execution/stagedsync: fix from-0 flow (env-prefix + reset-progress-delete)](https://github.com/erigontech/erigon/pull/21210#pullrequestreview-4308534628) - 2026-05-18
+* [Commit] [ci: scope DockerHub publish creds to a GitHub Environment (#21257)](https://github.com/erigontech/erigon/commit/bb4f8bbc9a39eb12654fb46a6121d0ffa0026095) - 2026-05-18
+* [Commit] [all: remove empty files (#21254)](https://github.com/erigontech/erigon/commit/30954c9594537b6754b8e481ce92cbf3bbdeb8f8) - 2026-05-18
+* [Commit] [p2p/protocols/eth: refresh eth/71 doc comments for post-#11553 sentinel split (#21250)](https://github.com/erigontech/erigon/commit/64c3e8841e6f4c1f1ac9d7d5971ced358bc17c3b) - 2026-05-18
+* [Commit] [execution, rlp: switch total difficulty and chainID to uint256.Int (#21119)](https://github.com/erigontech/erigon/commit/fd47df91b6ab048a27892e407ecc32900e3266ed) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

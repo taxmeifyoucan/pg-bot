@@ -65,6 +65,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core: introduce GasChangeHook v2](https://github.com/ethereum/go-ethereum/pull/34946#pullrequestreview-4279933444) - 2026-05-13
 * [Review] [Review on: miner: re-used basefee and big.Int in loop](https://github.com/ethereum/go-ethereum/pull/34783#pullrequestreview-4289615056) - 2026-05-14
 * [Commit] [core/txpool/blobpool: silence GetRLP miss-log spam (#34965)](https://github.com/ethereum/go-ethereum/commit/6f6d006f74ffc650b9a598e8fcb1c757b8aaa15a) - 2026-05-15
+* [Review] [Review on: eth, internal/ethapi: add eth_capabilities RPC method](https://github.com/ethereum/go-ethereum/pull/33886#pullrequestreview-4311256989) - 2026-05-18
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20

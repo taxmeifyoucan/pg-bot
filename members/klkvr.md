@@ -135,6 +135,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix: properly handle dummy blocks in migrate-v2 (#24189)](https://github.com/paradigmxyz/reth/commit/4e515ac5fd06655300b3e3c820005170bce9418d) - 2026-05-14
 * [Pull Request] [perf: join account and storage reveals](https://github.com/paradigmxyz/reth/pull/24265) - 2026-05-15
 * [Commit] [feat(migrate-v2): migrate mdbx -> rocksdb (#24230)](https://github.com/paradigmxyz/reth/commit/b61b5436be9f376e1e4cfba39e267154f50120e1) - 2026-05-15
+* [Review] [Review on: perf(trie): skip db seek on exact overlay hits](https://github.com/paradigmxyz/reth/pull/24294#pullrequestreview-4310569243) - 2026-05-18
+* [Review] [Review on: feat(rpc): add eth_pendingTransactions](https://github.com/paradigmxyz/reth/pull/24286#pullrequestreview-4310822903) - 2026-05-18
+* [Commit] [perf: join account and storage reveals (#24265)](https://github.com/paradigmxyz/reth/commit/b95b5441d00d642cebec4c4eace9450178fec78b) - 2026-05-18
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

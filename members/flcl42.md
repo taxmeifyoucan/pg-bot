@@ -116,6 +116,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: feat(chainspec): support shanghai/cancun/prague/osaka hardfork labels](https://github.com/NethermindEth/nethermind/pull/11553#pullrequestreview-4298057253) - 2026-05-15
 * [Review] [Review on: Default Discovery to V4](https://github.com/NethermindEth/nethermind/pull/11614#pullrequestreview-4297980806) - 2026-05-15
 * [Review] [Review on: fix(eth/70): reject null receipt payloads](https://github.com/NethermindEth/nethermind/pull/11615#pullrequestreview-4296766844) - 2026-05-15
+* [Review] [Review on: fix(trie test): de-flake Will_Persist_ReCommittedPersistedNode_FromCommitBuffer](https://github.com/NethermindEth/nethermind/pull/11650#pullrequestreview-4311705164) - 2026-05-18
+* [Review] [Review on: Update OP Superchain chains (removes Base)](https://github.com/NethermindEth/nethermind/pull/11655#pullrequestreview-4314001141) - 2026-05-18
+* [Review] [Review on: RPC: add blob checks in estimation](https://github.com/NethermindEth/nethermind/pull/11630#pullrequestreview-4308618683) - 2026-05-18
+* [Review] [Review on: perf(evm): pool destroy-list buffer in TransactionProcessor](https://github.com/NethermindEth/nethermind/pull/11657#pullrequestreview-4312007449) - 2026-05-18
+* [Pull Request] [Address discovery review findings](https://github.com/NethermindEth/nethermind/pull/11654) - 2026-05-18
+* [Review] [Review on: refactor(core): centralize EIP-7702 SetCode shape checks](https://github.com/NethermindEth/nethermind/pull/11641#pullrequestreview-4311795853) - 2026-05-18
+* [Review] [Review on: fix(eth/70): reject null receipt payloads](https://github.com/NethermindEth/nethermind/pull/11615#pullrequestreview-4308911375) - 2026-05-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

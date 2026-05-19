@@ -92,12 +92,16 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [feat(spec-specs, spec-tests): add EIP-7778 block gas accounting without refunds (#2840)](https://github.com/ethereum/execution-specs/commit/cd8c9815985f40e4a3486f388d764357d33b5c24) - 2026-05-13
 * [Review] [Review on: feat(test-benchmark): add eth transfer cases for repricing](https://github.com/ethereum/execution-specs/pull/2837#pullrequestreview-4288432578) - 2026-05-14
 * [Review] [Review on: chore(ci): bump hive start up timeout in CI](https://github.com/ethereum/execution-specs/pull/2857#pullrequestreview-4297013109) - 2026-05-15
+* [Review] [Review on: feat(tests): EIP-7843 Add test cases for multi-blocks and fork transition](https://github.com/ethereum/execution-specs/pull/2858#pullrequestreview-4308396080) - 2026-05-18
+* [Review] [Review on: chore(test-client-clis): update NethermindExceptionMapper strings for type-4 transactions](https://github.com/ethereum/execution-specs/pull/2867#pullrequestreview-4307663700) - 2026-05-18
+* [Review] [Review on: chore(specs): add missing type annotations](https://github.com/ethereum/execution-specs/pull/2868#pullrequestreview-4308224110) - 2026-05-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Review] [Review on: Add extra optional withdrawals to prefund EOAs](https://github.com/NethermindEth/gas-benchmarks/pull/144#pullrequestreview-4287688087) - 2026-05-14
 * [Pull Request] [feat: add `withrawal` request for pre-fund EOA](https://github.com/NethermindEth/gas-benchmarks/pull/145) - 2026-05-15
+* [Pull Request] [feat: add extra withdrawal request for pre-funding](https://github.com/NethermindEth/gas-benchmarks/pull/146) - 2026-05-18
 ## Q1 2026
 
 

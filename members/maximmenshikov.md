@@ -69,6 +69,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Main Docker image: pin BFLAT_LD to integrated LLD](https://github.com/NethermindEth/bflat-riscv64/commit/1c2a746b173757a23663b8c38edfb1b2b6f51afe) - 2026-05-17
 * [Commit] [CI: update stage name to match real Ubuntu version](https://github.com/NethermindEth/bflat-riscv64/commit/9808931cf195432bd73b706a3e9ffd07f8a93a34) - 2026-05-17
 * [Commit] [Pin Ubuntu version to 26.04](https://github.com/NethermindEth/bflat-riscv64/commit/a3bcbfb63b7cc5e8b275770c46b88e8f2378f5a8) - 2026-05-17
+* [Pull Request] [Enable fast interface dispatching](https://github.com/NethermindEth/bflat-riscv64/pull/25) - 2026-05-18
+* [Commit] [modules/rhp: remove RhpInterfaceDispatchSlow workaround because dotnet-riscv already supports it](https://github.com/NethermindEth/bflat-riscv64/commit/694b8afea8a4216538ca57117609542adc1323e3) - 2026-05-18
+* [Commit] [Enable dotnet with cached interface dispatch](https://github.com/NethermindEth/bflat-riscv64/commit/825aadf80b6cc2db8991d6e84bd0fe08ce516dfa) - 2026-05-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 
@@ -78,6 +81,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [ZiskGuest: update bflat to v17.1.0 image (GVM improvements)](https://github.com/NethermindEth/nethermind/commit/0a7ca7a0f9d7ea17b4dbd8095a46bdbb762f1b41) - 2026-04-19
 * [Commit] [ZiskGuest: enable stacktrace data to facilitate possible GVM resolution](https://github.com/NethermindEth/nethermind/commit/5160c3e8c544594fcde8f78cce38bc9a8ab6c8ef) - 2026-04-18
 * [Review] [Review on: feat(zkevm): Migrate to zkVM standards](https://github.com/NethermindEth/nethermind/pull/11481#pullrequestreview-4224060707) - 2026-05-04
+* [Pull Request] [Enable Zisk 0.18 support](https://github.com/NethermindEth/nethermind/pull/11645) - 2026-05-18
+* [Commit] [Enable Zisk 0.18 support (#11645)](https://github.com/NethermindEth/nethermind/commit/beb2173297e5313201c1467c0de362f987aad711) - 2026-05-18
 ## Q1 2026
 
 

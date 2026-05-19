@@ -89,6 +89,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: Remove redundant target framework (#11612)](https://github.com/NethermindEth/nethermind/commit/203f93ef2cc5f6b874e1585fea9ab989f24a7afb) - 2026-05-14
 * [Pull Request] [feat(zkevm): Migrate stateless I/O to the SSZ standard](https://github.com/NethermindEth/nethermind/pull/11625) - 2026-05-15
 * [Review] [Review on: Reduce per-message and per-peer allocations across Eth, Snap, RLPx, and sort hot paths](https://github.com/NethermindEth/nethermind/pull/11639#pullrequestreview-4306377488) - 2026-05-17
+* [Pull Request] [fix(zkevm): Fix legacy receipt storage registration](https://github.com/NethermindEth/nethermind/pull/11662) - 2026-05-18
+* [Pull Request] [fix(zkevm): Revise G2 decoding check](https://github.com/NethermindEth/nethermind/pull/11660) - 2026-05-18
+* [Review] [Review on: feat(zkevm): Migrate stateless I/O to the SSZ standard](https://github.com/NethermindEth/nethermind/pull/11625#pullrequestreview-4314123554) - 2026-05-18
+* [Pull Request] [fix(ci): Disable .NET package caching](https://github.com/NethermindEth/nethermind/pull/11653) - 2026-05-18
+* [Review] [Review on: Enable Zisk 0.18 support](https://github.com/NethermindEth/nethermind/pull/11645#pullrequestreview-4311485748) - 2026-05-18
+* [Review] [Review on: ci: retry setup-dotnet up to 3 times](https://github.com/NethermindEth/nethermind/pull/11651#pullrequestreview-4311169522) - 2026-05-18
+* [Commit] [fix(zkevm): Fix legacy receipt storage registration (#11662)](https://github.com/NethermindEth/nethermind/commit/af486976a32988fe51660509601a01d2f29e2d73) - 2026-05-18
+* [Commit] [fix(zkevm): Revise G2 decoding check (#11660)](https://github.com/NethermindEth/nethermind/commit/f83ccd25f463af88c317e812ea1e35c4092f7aa6) - 2026-05-18
+* [Commit] [fix(ci): Disable .NET package caching (#11653)](https://github.com/NethermindEth/nethermind/commit/0356a4adf295289df22e59914d4eec68651e8911) - 2026-05-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 ## Q1 2026

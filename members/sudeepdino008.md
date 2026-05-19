@@ -186,6 +186,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cp #21193: check batch fullness after every block (#21213)](https://github.com/erigontech/erigon/commit/46bed49f6ae4ffc08896cca7a39c866555eb41fe) - 2026-05-15
 * [Review] [Review on: [SharovBot] ci: fix stage-exec --result_file argument (underscore→hyphen)](https://github.com/erigontech/erigon/pull/21208#pullrequestreview-4304154503) - 2026-05-16
 * [Commit] [cp #21209: prune: fix stranded old-step dups in dupsort domains (#21218)](https://github.com/erigontech/erigon/commit/816936139e7d547c2714f563d42240d50094ff94) - 2026-05-16
+* [Pull Request] [execution/execmodule: split RunLoop prune from commit-cycle](https://github.com/erigontech/erigon/pull/21245) - 2026-05-18
 ## Q1 2026
 
 
