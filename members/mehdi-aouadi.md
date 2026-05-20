@@ -70,6 +70,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [trigger ci for prototype and devnet branches (#10679)](https://github.com/Consensys/teku/commit/09bfad93822b15c6b3e3ed7a0354014d031a8d00) - 2026-05-11
 * [Pull Request] [fix focil for heze](https://github.com/Consensys/teku/pull/10707) - 2026-05-14
 * [Review] [Review on: [CI] Improve spotless speed on groovy](https://github.com/Consensys/teku/pull/10723#pullrequestreview-4310344481) - 2026-05-18
+* [Pull Request] [Focil master](https://github.com/Consensys/teku/pull/10727) - 2026-05-19
 ## Q1 2026
 
 

@@ -96,6 +96,11 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat: getSyncCommitteesWitness](https://github.com/ChainSafe/lodestar-z/pull/367#pullrequestreview-4311980562) - 2026-05-18
 * [Pull Request] [feat: support getLatestWeakSubjectivityCheckpointEpoch](https://github.com/ChainSafe/lodestar-z/pull/366) - 2026-05-18
 * [Review] [Review on: feat: support getLatestWeakSubjectivityCheckpointEpoch](https://github.com/ChainSafe/lodestar-z/pull/366#pullrequestreview-4311725286) - 2026-05-18
+* [Pull Request] [chore: release v0.1.2-rc.3](https://github.com/ChainSafe/lodestar-z/pull/370) - 2026-05-19
+* [Pull Request] [fix: re-expose sizes](https://github.com/ChainSafe/lodestar-z/pull/369) - 2026-05-19
+* [Pull Request] [feat: support bitArrays in to_napi_value](https://github.com/ChainSafe/lodestar-z/pull/368) - 2026-05-19
+* [Commit] [chore: release v0.1.2-rc.3 (#370)](https://github.com/ChainSafe/lodestar-z/commit/e4fc551c42cb9ee1280f9dc1b576e0b4c790ee34) - 2026-05-19
+* [Commit] [fix: re-expose sizes (#369)](https://github.com/ChainSafe/lodestar-z/commit/64b81f34e346dbca9cc05697f0b59977cab2bff4) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

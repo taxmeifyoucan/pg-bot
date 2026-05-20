@@ -47,6 +47,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [hot state db for state diff](https://github.com/OffchainLabs/prysm/pull/16808) - 2026-05-18
 * [Pull Request] [don't treat epoch boundary cache miss as skipped block in state diff migration](https://github.com/OffchainLabs/prysm/pull/16803) - 2026-05-18
 * [Commit] [don't treat epoch boundary cache miss as skipped block in state diff migration (#16803)](https://github.com/OffchainLabs/prysm/commit/44cde254b11ea1f5ae7017b62184785dca90fb73) - 2026-05-18
+* [Commit] [state diff anchors cache metrics (#16789)](https://github.com/OffchainLabs/prysm/commit/c398e551dd92dd538d898a1b45955e44792ececc) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

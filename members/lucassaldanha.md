@@ -123,6 +123,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Filter backoff peers in subscribe() and make v1.3 honour backoff/IDONTWANT](https://github.com/libp2p/jvm-libp2p/pull/472) - 2026-04-29
 * [Commit] [Filter backoff peers in subscribe() and make v1.3 honour backoff/IDONTWANT (#472)](https://github.com/libp2p/jvm-libp2p/commit/ddbf62a36eee04e1db5299861b54ba1fd86d8a99) - 2026-04-29
 * [Pull Request] [Addressing gaps identified on QUIC implementation](https://github.com/libp2p/jvm-libp2p/pull/476) - 2026-05-13
+* [Pull Request] [Add PubsubRpcLimits decoding count-cap to reduce memory footprint](https://github.com/libp2p/jvm-libp2p/pull/477) - 2026-05-19
+* [Review] [Review on: Add PubsubRpcLimits decoding count-cap to reduce memory footprint](https://github.com/libp2p/jvm-libp2p/pull/477#pullrequestreview-4323979480) - 2026-05-19
+* [Commit] [Add PubsubRpcLimits decoding count-cap to reduce memory footprint (#477)](https://github.com/libp2p/jvm-libp2p/commit/c34cc114950a7af352d30ea63c70d98795fd9aaa) - 2026-05-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

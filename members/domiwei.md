@@ -53,6 +53,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/beacon: fix liveness endpoint checking previous epoch participation (#21187)](https://github.com/erigontech/erigon/commit/6f76e132b11090e832710d0387841e4ae307195a) - 2026-05-14
 * [Pull Request] [cl/forkchoice: fix Caplin stuck on mainnet after GLOAS merge](https://github.com/erigontech/erigon/pull/21228) - 2026-05-16
 * [Pull Request] [cl: GLOAS audit fixes — clone aliasing, PTC consistency, memory leaks, nil panics](https://github.com/erigontech/erigon/pull/21248) - 2026-05-18
+* [Pull Request] [caplin: persist node key across restarts for stable ENR](https://github.com/erigontech/erigon/pull/21276) - 2026-05-19
+* [Review] [Review on: cl: GLOAS audit fixes — clone aliasing, PTC consistency, memory leaks, nil panics](https://github.com/erigontech/erigon/pull/21248#pullrequestreview-4316488521) - 2026-05-19
+* [Issue] [caplin: persist node key across restarts for stable ENR](https://github.com/erigontech/erigon/issues/21269) - 2026-05-19
+* [Commit] [cl/forkchoice: fix Caplin stuck on mainnet after GLOAS merge (#21228)](https://github.com/erigontech/erigon/commit/4f0a7fe405abed1bd54289a8549e74fa8b2df637) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

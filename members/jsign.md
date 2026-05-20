@@ -40,6 +40,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): include in releases blockchain_test_engine format](https://github.com/ethereum/execution-specs/pull/2874) - 2026-05-18
 * [Pull Request] [feat(zkevm): add engine-witness simulator and add executionWitnessMutated flag into fixtures](https://github.com/ethereum/execution-specs/pull/2872) - 2026-05-18
 * [Issue] [zkevm: reconsider the need of a fixture format for stateless validator](https://github.com/ethereum/execution-specs/issues/2873) - 2026-05-18
+* [Commit] [fix(specs): delay get_code calls in CALL-like opcodes (#2473)](https://github.com/ethereum/execution-specs/commit/84b22c02acbaf1c40d00b1b4499688b1cf456bc3) - 2026-05-19
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01
@@ -86,6 +87,10 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/pull/11587) - 2026-04-30
 * [Review] [Review on: Update EIP-8025: Move to Draft](https://github.com/ethereum/EIPs/pull/11604#pullrequestreview-4237887906) - 2026-05-06
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [eth/catalyst: implement engine_newPayloadWithWitnessV5 and use witness field spec ordering](https://github.com/ethereum/go-ethereum/pull/35009) - 2026-05-19
+* [Review] [Review on: eth/catalyst: implement engine_newPayloadWithWitnessV5 and use witness field spec ordering](https://github.com/ethereum/go-ethereum/pull/35009#pullrequestreview-4321981008) - 2026-05-19
 ## Q1 2026
 
 

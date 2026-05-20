@@ -199,6 +199,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(flat-db): skip ImportFlatDb when pruning trie state lacks head root (#11422)](https://github.com/NethermindEth/nethermind/commit/d7a96c950017c3835cd06d9b6f444fc32e4ae78e) - 2026-05-15
 * [Pull Request] [feat(FlatDB): long finality support with persisted snapshots](https://github.com/NethermindEth/nethermind/pull/11663) - 2026-05-18
 * [Review] [Review on: fix(trie test): de-flake Will_Persist_ReCommittedPersistedNode_FromCommitBuffer](https://github.com/NethermindEth/nethermind/pull/11650#pullrequestreview-4314780593) - 2026-05-19
+* [Review] [Review on: perf(kute): compile JSON-RPC method filter regex once](https://github.com/NethermindEth/nethermind/pull/11667#pullrequestreview-4316895653) - 2026-05-19
+* [Review] [Review on: perf(bal): account-presence bitmap + storage_reads on column index — skip-merge](https://github.com/NethermindEth/nethermind/pull/11661#pullrequestreview-4316972309) - 2026-05-19
+* [Review] [Review on: Address discovery review findings](https://github.com/NethermindEth/nethermind/pull/11654#pullrequestreview-4318772621) - 2026-05-19
+* [Review] [Review on: feat(runner): add --logging-format CLI for structured console logs](https://github.com/NethermindEth/nethermind/pull/11610#pullrequestreview-4318071965) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

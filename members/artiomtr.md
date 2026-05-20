@@ -27,6 +27,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Rocksdb database backend](https://github.com/grandinetech/grandine/pull/683) - 2026-05-11
 * [Review] [Review on: Fix pool attestation benchmark](https://github.com/grandinetech/grandine/pull/681#pullrequestreview-4261549960) - 2026-05-11
 
+* [Pull Request] [Set fixed pico toolchain version by commit hash](https://github.com/grandinetech/grandine/pull/704) - 2026-05-19
+* [Commit] [Set fixed pico toolchain version by commit hash](https://github.com/grandinetech/grandine/commit/c6e8e440264c2990292333965a895940b6c34dbf) - 2026-05-19
 [grandinetech/rust-kzg](https://github.com/grandinetech/rust-kzg)
 * [Pull Request] [Add new MSM algorithms](https://github.com/grandinetech/rust-kzg/pull/327) - 2026-05-12
 * [Commit] [Add new MSM algorithms](https://github.com/grandinetech/rust-kzg/commit/e0260b236eb451311adc4fb55b4b3c9779900cf3) - 2026-05-12

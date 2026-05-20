@@ -92,6 +92,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix non-canonical payload attestation processing](https://github.com/sigp/lighthouse/pull/9305#pullrequestreview-4313621418) - 2026-05-18
 * [Pull Request] [Optimisations relating to `get_expected_withdrawals`](https://github.com/sigp/lighthouse/pull/9314) - 2026-05-18
 * [Review] [Review on: Fork choice compliance tests](https://github.com/sigp/lighthouse/pull/9295#pullrequestreview-4306955305) - 2026-05-18
+* [Review] [Review on: Fix non-canonical payload attestation processing](https://github.com/sigp/lighthouse/pull/9305#pullrequestreview-4316100993) - 2026-05-19
+* [Review] [Review on: Use dedicated cache for HTTP API route](https://github.com/sigp/lighthouse/pull/9318#pullrequestreview-4315566369) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10
@@ -106,6 +108,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 * [Issue] [Effective balances tests emit `pre_epoch.ssz_snappy` prior to mutations](https://github.com/ethereum/consensus-specs/issues/5214) - 2026-05-07
 * [Issue] [PTC window processing not run for `post_epoch.ssz_snappy`](https://github.com/ethereum/consensus-specs/issues/5213) - 2026-05-07
+* [Issue] [Fork choice compliance tests assume the existence of impossible attestations](https://github.com/ethereum/consensus-specs/issues/5271) - 2026-05-19
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756) - 2026-05-06
 * [Review] [Review on: Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756#pullrequestreview-4232967261) - 2026-05-06

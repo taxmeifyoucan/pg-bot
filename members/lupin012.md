@@ -137,6 +137,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[WIP] rpc: fix witness state nodes](https://github.com/erigontech/erigon/pull/21258) - 2026-05-18
 * [Commit] [rpc: Fix regression on eth_createAccessList and add mgt ctx.err in loop (#21086)](https://github.com/erigontech/erigon/commit/a6ffe0bf9cb7f48e33776daae4ccaa6ba46c87ea) - 2026-05-18
 * [Commit] [align response debug_executionWitness to GETH  (#21224)](https://github.com/erigontech/erigon/commit/79c7e31eb839616317910971424f206e80674e46) - 2026-05-18
+* [Review] [Review on: rpc: graphql: implement Logs, Call and SendRawTransaction resolvers](https://github.com/erigontech/erigon/pull/21219#pullrequestreview-4321658565) - 2026-05-19
+* [Review] [Review on: node: fix HTTP RPC vhost checks for mixed-case Host headers](https://github.com/erigontech/erigon/pull/21243#pullrequestreview-4321968377) - 2026-05-19
+* [Commit] [rpc: graphql: implement Logs, Call and SendRawTransaction resolvers (#21219)](https://github.com/erigontech/erigon/commit/8228884a72ccc263e02a950abac2273d732232e3) - 2026-05-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

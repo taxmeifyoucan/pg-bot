@@ -35,6 +35,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [chore: Update dependencies (#11512)](https://github.com/NethermindEth/nethermind/pull/11580) - 2026-05-12
 * [Review] [Review on: test: stabilize getPayloadV1 improving-blocks and Simple_test_sync](https://github.com/NethermindEth/nethermind/pull/11568#pullrequestreview-4271180222) - 2026-05-12
 * [Review] [Review on: feat: upstream changes for ArbOS 60 multi-gas constraints](https://github.com/NethermindEth/nethermind/pull/10765#pullrequestreview-4311523513) - 2026-05-18
+* [Review] [Review on: Fix FCU validation order](https://github.com/NethermindEth/nethermind/pull/11681#pullrequestreview-4319521478) - 2026-05-19
 ## Q1 2026
 
 

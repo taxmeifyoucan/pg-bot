@@ -166,6 +166,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Update Discord invite link in README](https://github.com/OffchainLabs/prysm/pull/16805) - 2026-05-18
 * [Commit] [Bump spec to v1.7.0-alpha.8 (#16797)](https://github.com/OffchainLabs/prysm/commit/250849d79910c7ff4bfbf524b98dc7529d7f4a88) - 2026-05-18
 * [Commit] [Update Discord invite link in README (#16805)](https://github.com/OffchainLabs/prysm/commit/399dc4f7c7279e807660e23c3e757fd27f1fe83d) - 2026-05-18
+* [Review] [Review on: Apply boost on weak](https://github.com/OffchainLabs/prysm/pull/16786#pullrequestreview-4315327161) - 2026-05-19
+* [Commit] [Add `target_gas_limit` to gloas `PayloadAttributes` (#16792)](https://github.com/OffchainLabs/prysm/commit/f5066f1f8c47fddc4b6be9db41afd3c36fce8945) - 2026-05-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

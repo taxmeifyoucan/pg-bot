@@ -50,6 +50,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(local): swap xatu-server to direct kafka output with protobuf (#834)](https://github.com/ethpandaops/xatu/commit/908ea1c6b14091e4492836af922f86d9ad8dceab) - 2026-05-14
 * [Commit] [feat: capture fast_confirmation beacon-api event in sentry (#830)](https://github.com/ethpandaops/xatu/commit/467c4b952f5580f0bfb808941f95a96abcdcad8d) - 2026-05-14
 * [Commit] [fix(processor): stop per-trace partitioning in BatchItemProcessor (#841)](https://github.com/ethpandaops/xatu/commit/4f170220a9ce26fe28e53c6808d0eddf023c16b6) - 2026-05-15
+* [Review] [Review on: refactor: glammy-devnet-4 prysm renamed fields](https://github.com/ethpandaops/xatu/pull/845#pullrequestreview-4324745294) - 2026-05-20
+* [Pull Request] [Scope consumoor Kafka traces](https://github.com/ethpandaops/xatu/pull/844) - 2026-05-19
+* [Pull Request] [Lowercase telemetry service names](https://github.com/ethpandaops/xatu/pull/843) - 2026-05-19
+* [Commit] [Scope consumoor Kafka traces (#844)](https://github.com/ethpandaops/xatu/commit/8b98f5b16cba7d7b734074df87262374dceceb6b) - 2026-05-19
+* [Commit] [lowercase telemetry service names (#843)](https://github.com/ethpandaops/xatu/commit/7dc8cad6bc4d9a95d0c21bdf25c17e036ced5372) - 2026-05-19
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23
@@ -61,6 +66,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168) - 2026-05-12
 * [Review] [Review on: vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168#pullrequestreview-4268518279) - 2026-05-12
+* [Pull Request] [inventory: rename ethereum_node_fact_{cl_enr,el_enode} → _discovery_ variants](https://github.com/ethpandaops/template-devnets/pull/169) - 2026-05-19
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Review] [Review on: feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167#pullrequestreview-4232485880) - 2026-05-06
 

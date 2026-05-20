@@ -131,6 +131,11 @@ Team: Reth
 * [Review] [Review on: feat(bench): add configurable run pairs](https://github.com/paradigmxyz/reth/pull/24238#pullrequestreview-4298048104) - 2026-05-15
 * [Review] [Review on: bench: remove wait time thread reply from Slack notifications](https://github.com/paradigmxyz/reth/pull/24264#pullrequestreview-4299238040) - 2026-05-15
 * [Review] [Review on: ci(bench): remote write txgen bench metrics](https://github.com/paradigmxyz/reth/pull/24293#pullrequestreview-4311377299) - 2026-05-18
+* [Review] [Review on: fix(bench): reduce noisy big-block verdicts](https://github.com/paradigmxyz/reth/pull/24340#pullrequestreview-4320991700) - 2026-05-19
+* [Review] [Review on: ci: enable bench OTLP exports by default](https://github.com/paradigmxyz/reth/pull/24344#pullrequestreview-4318200028) - 2026-05-19
+* [Review] [Review on: feat(rpc): add debug account state endpoints](https://github.com/paradigmxyz/reth/pull/24296#pullrequestreview-4318166505) - 2026-05-19
+* [Review] [Review on: fix(rpc): suppress unstable engine capability warnings](https://github.com/paradigmxyz/reth/pull/24338#pullrequestreview-4318149587) - 2026-05-19
+* [Pull Request] [ci(bench): bump txgen](https://github.com/paradigmxyz/reth/pull/24335) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

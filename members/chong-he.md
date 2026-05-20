@@ -40,6 +40,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: fix(network): clear ENR `nfd` field when no next fork is scheduled during runtime transitions](https://github.com/sigp/lighthouse/pull/9131#pullrequestreview-4279174265) - 2026-05-13
 * [Review] [Review on: Add macro to simplify `into_full_block` implementations](https://github.com/sigp/lighthouse/pull/9294#pullrequestreview-4315108548) - 2026-05-19
 * [Pull Request] [Append client version info to user graffiti by default](https://github.com/sigp/lighthouse/pull/9313) - 2026-05-18
+* [Review] [Review on: Append client version info to user graffiti by default](https://github.com/sigp/lighthouse/pull/9313#pullrequestreview-4316811827) - 2026-05-19
 ## Q1 2026
 
 

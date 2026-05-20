@@ -95,6 +95,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): EIP-7843 Add test cases for multi-blocks and fork transition](https://github.com/ethereum/execution-specs/pull/2858#pullrequestreview-4308396080) - 2026-05-18
 * [Review] [Review on: chore(test-client-clis): update NethermindExceptionMapper strings for type-4 transactions](https://github.com/ethereum/execution-specs/pull/2867#pullrequestreview-4307663700) - 2026-05-18
 * [Review] [Review on: chore(specs): add missing type annotations](https://github.com/ethereum/execution-specs/pull/2868#pullrequestreview-4308224110) - 2026-05-18
+* [Review] [Review on: feat(spec, spec-specs): EIP-7997](https://github.com/ethereum/execution-specs/pull/2802#pullrequestreview-4315986377) - 2026-05-19
+* [Review] [Review on: feat(tests): EIP-7778 multi-tx mixed gas regimes block accounting](https://github.com/ethereum/execution-specs/pull/2871#pullrequestreview-4315754395) - 2026-05-19
+* [Review] [Review on: feat(tests): EIP-7843 Add test cases for multi-blocks and fork transition](https://github.com/ethereum/execution-specs/pull/2858#pullrequestreview-4315807680) - 2026-05-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

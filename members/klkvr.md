@@ -138,6 +138,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf(trie): skip db seek on exact overlay hits](https://github.com/paradigmxyz/reth/pull/24294#pullrequestreview-4310569243) - 2026-05-18
 * [Review] [Review on: feat(rpc): add eth_pendingTransactions](https://github.com/paradigmxyz/reth/pull/24286#pullrequestreview-4310822903) - 2026-05-18
 * [Commit] [perf: join account and storage reveals (#24265)](https://github.com/paradigmxyz/reth/commit/b95b5441d00d642cebec4c4eace9450178fec78b) - 2026-05-18
+* [Pull Request] [perf: avoid hashing the state twice](https://github.com/paradigmxyz/reth/pull/24354) - 2026-05-19
+* [Pull Request] [fix(bench): don't enable otlp features](https://github.com/paradigmxyz/reth/pull/24356) - 2026-05-19
+* [Review] [Review on: feat: derive OTLP auth from endpoint URL credentials](https://github.com/paradigmxyz/reth/pull/24346#pullrequestreview-4319502153) - 2026-05-19
+* [Commit] [fix(bench): don't enable otlp features (#24356)](https://github.com/paradigmxyz/reth/commit/cae229f0d5f6b67199af22a31e9fca193fb958da) - 2026-05-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

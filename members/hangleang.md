@@ -43,6 +43,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Add target_gas_limit to PayloadAttributes](https://github.com/grandinetech/grandine/pull/693#pullrequestreview-4295519983) - 2026-05-15
 * [Pull Request] [Check gas limit consistency with the target](https://github.com/grandinetech/grandine/pull/697) - 2026-05-15
 * [Pull Request] [Add engine_getPayloadV6 bindings](https://github.com/grandinetech/grandine/pull/694) - 2026-05-15
+* [Pull Request] [Modify safe_block_hash and finalized_block_hash in notify_forkchoice_updated for Gloas](https://github.com/grandinetech/grandine/pull/702) - 2026-05-19
+* [Pull Request] [Use `should_build_on_full` instead of `should_extend_payload` in `prepare_execution_payload`](https://github.com/grandinetech/grandine/pull/701) - 2026-05-19
 ## Q1 2026
 
 

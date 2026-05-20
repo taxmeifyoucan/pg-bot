@@ -183,6 +183,11 @@ Team: Erigon
 * [Commit] [execution: extract EIP-8037 inclusion check, run it for parallel exec (#21237)](https://github.com/erigontech/erigon/commit/9424ac368d8003d3aaf324f5784fc25b6807ae54) - 2026-05-18
 * [Commit] [cmd/integration, execution/stagedsync: fix from-0 flow (env-prefix + reset-progress-delete) (#21210)](https://github.com/erigontech/erigon/commit/7569867d8c710766b05524fa4f298cedc54c8636) - 2026-05-18
 * [Commit] [execution/state: don't drop CodePath writes for newly-created accounts in SetCode (#21234)](https://github.com/erigontech/erigon/commit/cd444e6f492cc901e8cf06bacc77c2a7e8c7ef1d) - 2026-05-18
+* [Pull Request] [execution: fix parallel-exec SD-recreate flake + validator false positives](https://github.com/erigontech/erigon/pull/21294) - 2026-05-20
+* [Pull Request] [execution/rlp, execution/types: cut RLP header-decode allocations](https://github.com/erigontech/erigon/pull/21287) - 2026-05-19
+* [Pull Request] [execution/engineapi/engineapitester: respect caller deadline in RetryEngine](https://github.com/erigontech/erigon/pull/21274) - 2026-05-19
+* [Issue] [execution/state: collapse BlockStateCache write-buffer into direct SharedDomains writes](https://github.com/erigontech/erigon/issues/21285) - 2026-05-19
+* [Commit] [execution/engineapi/engineapitester: respect caller deadline in RetryEngine (#21274)](https://github.com/erigontech/erigon/commit/2d99c85a25f02c909cfa27aa71e431578cdc7da7) - 2026-05-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

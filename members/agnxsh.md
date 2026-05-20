@@ -37,6 +37,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: deprecate blob sidecar support in block publishing paths](https://github.com/status-im/nimbus-eth2/pull/8434#pullrequestreview-4281218553) - 2026-05-13
 * [Review] [Review on: catch the first column gossip addition event for getBlobs](https://github.com/status-im/nimbus-eth2/pull/8393#pullrequestreview-4288627632) - 2026-05-14
 * [Pull Request] [attempt fulu fork epoch on testnet minimal for runner](https://github.com/status-im/nimbus-eth2/pull/8453) - 2026-05-15
+* [Review] [Review on: optimize data column pruning and prune payload envelopes along blocks](https://github.com/status-im/nimbus-eth2/pull/8353#pullrequestreview-4320245888) - 2026-05-19
 ## Q1 2026
 
 

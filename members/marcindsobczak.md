@@ -20,6 +20,8 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: feat(merge): add testing_commitBlockV1 to commit a block on the chain head](https://github.com/NethermindEth/nethermind/pull/11385#pullrequestreview-4195799909) - 2026-04-29
 * [Review] [Review on: feat: add `proof_getProofWithMeta` JSON-RPC method](https://github.com/NethermindEth/nethermind/pull/11498#pullrequestreview-4237685652) - 2026-05-06
 * [Review] [Review on: feat(sync): support infinite pivot-update attempts via -1 (#5992)](https://github.com/NethermindEth/nethermind/pull/11600#pullrequestreview-4296453435) - 2026-05-15
+* [Pull Request] [Fix FCU validation order](https://github.com/NethermindEth/nethermind/pull/11681) - 2026-05-19
+* [Commit] [Fix FCU validation order (#11681)](https://github.com/NethermindEth/nethermind/commit/49e3e292d1681774eaf0ee15f5fe61ccda8df29c) - 2026-05-19
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787) - 2026-04-23
 ## Q1 2026

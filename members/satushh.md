@@ -50,6 +50,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [[WIP] sync: cap pending Gloas column sidecars per peer (spec 5199)](https://github.com/OffchainLabs/prysm/pull/16777) - 2026-05-12
 * [Commit] [Use forwarding peer ID when queuing deferred Gloas data columns (#16778)](https://github.com/OffchainLabs/prysm/commit/cf7cfc1cb2b3031c66d49d6e47f9b0aa708ab1dd) - 2026-05-12
 * [Review] [Review on: Add gloas random and rewards spec tests](https://github.com/OffchainLabs/prysm/pull/16770#pullrequestreview-4289445234) - 2026-05-14
+* [Commit] [Make sync completion slot-precise and remove the initial-sync to regular-sync handoff gap (#16607)](https://github.com/OffchainLabs/prysm/commit/63b2c1b4976df63e3d0bb2a4b16bfb5800e5967d) - 2026-05-19
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

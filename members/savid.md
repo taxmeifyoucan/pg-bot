@@ -20,6 +20,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: chore(workflows): bumpity bump bump](https://github.com/ethpandaops/xatu/pull/822#pullrequestreview-4268206085) - 2026-05-11
 * [Review] [Review on: feat: port otel work to glammy work](https://github.com/ethpandaops/xatu/pull/840#pullrequestreview-4294085604) - 2026-05-14
 * [Review] [Review on: feat: decode Gloas data_column_sidecar gossip events](https://github.com/ethpandaops/xatu/pull/842#pullrequestreview-4314659971) - 2026-05-18
+* [Review] [Review on: refactor: glammy-devnet-4 prysm renamed fields](https://github.com/ethpandaops/xatu/pull/845#pullrequestreview-4324746181) - 2026-05-20
 ## Q1 2026
 
 

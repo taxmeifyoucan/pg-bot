@@ -129,6 +129,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: fix flaky parallel exec err too many incarnations (#21231)](https://github.com/erigontech/erigon/commit/80c21cf71ce4a061716999132849a3e1bc0488ad) - 2026-05-18
 * [Review] [Review on: execution: extract EIP-8037 inclusion check, run it for parallel exec](https://github.com/erigontech/erigon/pull/21237#pullrequestreview-4309257088) - 2026-05-18
 * [Review] [Review on: execution, rlp: switch total difficulty and chainID to uint256.Int](https://github.com/erigontech/erigon/pull/21119#pullrequestreview-4308341745) - 2026-05-18
+* [Review] [Review on: execution/execmodule: apply runloop refactor with furious-prune fix](https://github.com/erigontech/erigon/pull/21245#pullrequestreview-4316258125) - 2026-05-19
+* [Pull Request] [execution: implement 8037 changes for 7.2.0 fixtures](https://github.com/erigontech/erigon/pull/21275) - 2026-05-19
+* [Commit] [execution: eest spec shards 0 max-allowed-failures (#21265)](https://github.com/erigontech/erigon/commit/6630d0fca6fc8fd4ac90dd005e6a32617c7593f1) - 2026-05-19
+* [Commit] [cmd/evm: speedup statetest by setting up 1 mdbx env per file (#21266)](https://github.com/erigontech/erigon/commit/eea1eed859b19cade91912a3b5353230e289c5f4) - 2026-05-19
 ## Q1 2026
 
 

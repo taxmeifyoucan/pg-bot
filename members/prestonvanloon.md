@@ -22,6 +22,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: state diff anchors cache metrics](https://github.com/OffchainLabs/prysm/pull/16789#pullrequestreview-4299089690) - 2026-05-15
 * [Review] [Review on: remove "already exists in db" check from migrateToColdHdiff](https://github.com/OffchainLabs/prysm/pull/16761#pullrequestreview-4299155053) - 2026-05-15
 * [Review] [Review on: don't treat epoch boundary cache miss as skipped block in state diff migration](https://github.com/OffchainLabs/prysm/pull/16803#pullrequestreview-4311775088) - 2026-05-18
+* [Review] [Review on: Make sync completion slot-precise and remove the initial-sync to regular-sync handoff gap](https://github.com/OffchainLabs/prysm/pull/16607#pullrequestreview-4320715630) - 2026-05-19
 ## Q1 2026
 
 

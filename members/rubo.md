@@ -98,6 +98,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(zkevm): Fix legacy receipt storage registration (#11662)](https://github.com/NethermindEth/nethermind/commit/af486976a32988fe51660509601a01d2f29e2d73) - 2026-05-18
 * [Commit] [fix(zkevm): Revise G2 decoding check (#11660)](https://github.com/NethermindEth/nethermind/commit/f83ccd25f463af88c317e812ea1e35c4092f7aa6) - 2026-05-18
 * [Commit] [fix(ci): Disable .NET package caching (#11653)](https://github.com/NethermindEth/nethermind/commit/0356a4adf295289df22e59914d4eec68651e8911) - 2026-05-18
+* [Pull Request] [chore(ai): Remove unused stuff](https://github.com/NethermindEth/nethermind/pull/11690) - 2026-05-19
+* [Review] [Review on: fix(rlpx): drop racy OnSessionDisconnected fallback in shutdown](https://github.com/NethermindEth/nethermind/pull/11688#pullrequestreview-4320842174) - 2026-05-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 ## Q1 2026

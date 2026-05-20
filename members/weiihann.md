@@ -17,6 +17,10 @@ Github: [@weiihann](https://github.com/weiihann)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: State Tiering by Write Age](https://github.com/ethereum/EIPs/pull/11390#pullrequestreview-4146227588) - 2026-04-21
 * [Commit] [Add EIP: State Tiering by Write Age](https://github.com/ethereum/EIPs/commit/c90d33f27bbd8ab8db5ac9e70228caf114b5cd50) - 2026-04-21
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Pull Request] [feat: add state size delta and trie depth](https://github.com/ethpandaops/xatu/pull/722) - 2026-05-20
+* [Commit] [feat: add state size delta and trie depth (#722)](https://github.com/ethpandaops/xatu/commit/809276545970784b194574a07ea866991dac3274) - 2026-05-20
 ## Q1 2026
 
 

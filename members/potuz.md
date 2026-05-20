@@ -51,6 +51,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Fix correct head, source and target behaviour when using the `--monitor-indices` flag.](https://github.com/OffchainLabs/prysm/pull/16802#pullrequestreview-4310139245) - 2026-05-18
 * [Commit] [Fix Forkchoice panic (#16728)](https://github.com/OffchainLabs/prysm/commit/441cfe0ad6be0d09c57a3485c7696dd622021f92) - 2026-05-19
 * [Commit] [Cache the finalized hash in the store (#16806)](https://github.com/OffchainLabs/prysm/commit/24c2b02232ea66a82b582d73379f1f27a4b8b0b3) - 2026-05-19
+* [Review] [Review on: Make sync completion slot-precise and remove the initial-sync to regular-sync handoff gap](https://github.com/OffchainLabs/prysm/pull/16607#pullrequestreview-4320682388) - 2026-05-19
+* [Review] [Review on: `Could not update committee cache` log: Move from `Error` to `Debug`.](https://github.com/OffchainLabs/prysm/pull/16816#pullrequestreview-4318514645) - 2026-05-19
+* [Review] [Review on: Apply boost on weak](https://github.com/OffchainLabs/prysm/pull/16786#pullrequestreview-4319638314) - 2026-05-19
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

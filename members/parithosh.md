@@ -41,6 +41,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/90) - 2026-04-29
 * [Commit] [fix(config.production.yaml): reuse bal.jpg image for glamsterdam-devnets](https://github.com/ethpandaops/cartographoor/commit/619e4c46218ec206340ccafd0bda95a7ae573577) - 2026-04-29
 * [Commit] [feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/commit/28e56f45c6711e4309de3b070ea3e6490b62fb76) - 2026-04-29
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Pull Request] [Add two-way network split playbook](https://github.com/ethpandaops/assertoor/pull/181) - 2026-05-19
+* [Commit] [Fetch SLOTS_PER_EPOCH from chain spec](https://github.com/ethpandaops/assertoor/commit/5374976b1fc88c65d9c5e1e3235b4594aa933f6e) - 2026-05-19
+* [Commit] [Add 10s startup delay before disruptoor health check](https://github.com/ethpandaops/assertoor/commit/71783ed36078dad6a19aa93c2bf2e9ef4ee8131d) - 2026-05-19
+* [Commit] [Lower minClientCount default to 2](https://github.com/ethpandaops/assertoor/commit/234bf98f83877c3a09c0fa16ee77545a2fd936b9) - 2026-05-19
+* [Commit] [Derive split halves from client pool size](https://github.com/ethpandaops/assertoor/commit/d4d7cdf5ebcb4afff6b10231d6a177c0c14c6b37) - 2026-05-19
+* [Commit] [Add two-way network split playbook](https://github.com/ethpandaops/assertoor/commit/818afb987c67b3ec9e9362fc0b2740ca6b7132d8) - 2026-05-19
 ## Q1 2026
 
 

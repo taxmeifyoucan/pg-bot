@@ -85,6 +85,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Fix LayeredKeyValueStorage.isClosed() duplicated execution](https://github.com/besu-eth/besu/pull/10508#pullrequestreview-4295681469) - 2026-05-15
 * [Commit] [feat: Add cross-block code caching for improved performance (#10390)](https://github.com/besu-eth/besu/commit/22ce79a98ccfe7fb48eadac2b369b20d940ccfca) - 2026-05-15
 * [Pull Request] [Add BAL Prefetching with Batched Multi-Get Support](https://github.com/besu-eth/besu/pull/10517) - 2026-05-18
+* [Review] [Review on: Merge PivotSyncDownloader with SnapSyncDownloader](https://github.com/besu-eth/besu/pull/10528#pullrequestreview-4318474134) - 2026-05-19
+* [Review] [Review on: Simplify wiring bidirectional references between state and chain downloader](https://github.com/besu-eth/besu/pull/10529#pullrequestreview-4318456881) - 2026-05-19
+* [Review] [Review on: Fix unavailable BAL handling in snap](https://github.com/besu-eth/besu/pull/10519#pullrequestreview-4318488463) - 2026-05-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

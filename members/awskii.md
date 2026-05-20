@@ -121,6 +121,9 @@ Team: Erigon
 * [Review] [Review on: commitmentdb: harden commitmentState decode bounds](https://github.com/erigontech/erigon/pull/21255#pullrequestreview-4310448082) - 2026-05-18
 * [Review] [Review on: align response debug_executionWitness to GETH ](https://github.com/erigontech/erigon/pull/21224#pullrequestreview-4310535287) - 2026-05-18
 * [Review] [Review on: all: remove empty files](https://github.com/erigontech/erigon/pull/21254#pullrequestreview-4310432265) - 2026-05-18
+* [Review] [Review on: rpc/jsonrpc: split debug_executionWitness into phase helpers (on top of lupin012 codes fix)](https://github.com/erigontech/erigon/pull/21261#pullrequestreview-4319485026) - 2026-05-19
+* [Pull Request] [cmd/integration, db/state: add --continue flag for commitment convert](https://github.com/erigontech/erigon/pull/21283) - 2026-05-19
+* [Commit] [rpc/jsonrpc: split debug_executionWitness into phase helpers (on top of lupin012 codes fix) (#21261)](https://github.com/erigontech/erigon/commit/489bc7b8887e0cd3cf151a3ba9fb73edbce34d45) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

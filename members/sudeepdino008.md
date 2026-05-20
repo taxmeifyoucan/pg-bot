@@ -187,6 +187,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [SharovBot] ci: fix stage-exec --result_file argument (underscore→hyphen)](https://github.com/erigontech/erigon/pull/21208#pullrequestreview-4304154503) - 2026-05-16
 * [Commit] [cp #21209: prune: fix stranded old-step dups in dupsort domains (#21218)](https://github.com/erigontech/erigon/commit/816936139e7d547c2714f563d42240d50094ff94) - 2026-05-16
 * [Pull Request] [execution/execmodule: split RunLoop prune from commit-cycle](https://github.com/erigontech/erigon/pull/21245) - 2026-05-18
+* [Review] [Review on: execution/execmodule: apply runloop refactor with furious-prune fix](https://github.com/erigontech/erigon/pull/21245#pullrequestreview-4316672547) - 2026-05-19
+* [Pull Request] [execution/execmodule: apply runloop refactor with furious-prune fix](https://github.com/erigontech/erigon/pull/21270) - 2026-05-19
+* [Review] [Review on: Revert "db/state: remove CheckSnapshotsCompatibility (pre-3.1 compat check) (#20746)"](https://github.com/erigontech/erigon/pull/21268#pullrequestreview-4316108550) - 2026-05-19
+* [Commit] [execution/execmodule: apply runloop refactor with furious-prune fix (#21245)](https://github.com/erigontech/erigon/commit/0533658e2a167f39ef7cde706f34ecb699e36c1a) - 2026-05-20
 ## Q1 2026
 
 

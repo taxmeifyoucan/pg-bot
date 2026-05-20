@@ -191,6 +191,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(batch-stark): borrow permutation buffer in prover](https://github.com/Plonky3/Plonky3/pull/1671#pullrequestreview-4310116966) - 2026-05-18
 * [Review] [Review on: feat: add p3-monolith-air crate for Monolith permutation arithmetization](https://github.com/Plonky3/Plonky3/pull/1516#pullrequestreview-4309977271) - 2026-05-18
 * [Review] [Review on: chore(deps): update spin requirement from 0.10.0 to 0.11.0](https://github.com/Plonky3/Plonky3/pull/1669#pullrequestreview-4308794372) - 2026-05-18
+* [Review] [Review on: perf(dft): unroll DIT butterfly inner loops (~3–4% faster coset_lde_batch)](https://github.com/Plonky3/Plonky3/pull/1555#pullrequestreview-4323640405) - 2026-05-19
+* [Review] [Review on: perf(multilinear-util): field-aware MLE recursion threshold](https://github.com/Plonky3/Plonky3/pull/1664#pullrequestreview-4323781512) - 2026-05-19
+* [Review] [Review on: Harden WHIR verifier against malformed proof panics](https://github.com/Plonky3/Plonky3/pull/1679#pullrequestreview-4322357941) - 2026-05-19
+* [Commit] [feat: add p3-monolith-air crate for Monolith permutation arithmetization (#1516)](https://github.com/Plonky3/Plonky3/commit/53bbd6db7fbae86c9b5be269cbdc53e69bd62a24) - 2026-05-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

@@ -73,6 +73,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: ShardedFuse: support ForceInMem mode](https://github.com/erigontech/erigon/pull/21222#pullrequestreview-4303751299) - 2026-05-16
 * [Pull Request] [[r3.4] cmd/integration, execution/stagedsync: clear canonical hash above snapshot tip on reset_state](https://github.com/erigontech/erigon/pull/21246) - 2026-05-18
 * [Pull Request] [execution/stagedsync, cmd/integration: clear canonical hash above snapshot tip on reset_state](https://github.com/erigontech/erigon/pull/21247) - 2026-05-18
+* [Review] [Review on: [r3.4] rawdb: ignore invalid receipt cache transaction indexes](https://github.com/erigontech/erigon/pull/21262#pullrequestreview-4321704594) - 2026-05-19
+* [Review] [Review on: docs: regenerate llms-full.txt to match current docs/site/ content](https://github.com/erigontech/erigon/pull/21277#pullrequestreview-4321701446) - 2026-05-19
+* [Review] [Review on: [r3.4] cmd/integration, execution/stagedsync: clear canonical hash above snapshot tip on reset_state](https://github.com/erigontech/erigon/pull/21246#pullrequestreview-4318262481) - 2026-05-19
 ## Q1 2026
 
 

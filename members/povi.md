@@ -35,6 +35,11 @@ Team: Grandine
 * [Commit] [Add `single_attestation` event topic and use it for single attestations. Fixes #687](https://github.com/grandinetech/grandine/commit/0db0d663b8f870ab743ff2fe76135439470156d8) - 2026-05-14
 * [Review] [Review on: Use `MIN_SEED_LOOKAHEAD` preset in proposer preferences](https://github.com/grandinetech/grandine/pull/696#pullrequestreview-4298533856) - 2026-05-15
 * [Review] [Review on: Add target_gas_limit to PayloadAttributes](https://github.com/grandinetech/grandine/pull/693#pullrequestreview-4298172218) - 2026-05-15
+* [Review] [Review on: Ignore RUSTSEC-2026-0118 and RUSTSEC-2026-0119 until libp2p and zkm-sdk are updated](https://github.com/grandinetech/grandine/pull/700#pullrequestreview-4316746667) - 2026-05-19
+* [Review] [Review on: Add engine_getPayloadV6 bindings](https://github.com/grandinetech/grandine/pull/694#pullrequestreview-4318401188) - 2026-05-19
+* [Review] [Review on: Modify safe_block_hash and finalized_block_hash in notify_forkchoice_updated for Gloas](https://github.com/grandinetech/grandine/pull/702#pullrequestreview-4316738401) - 2026-05-19
+* [Review] [Review on: Use `should_build_on_full` instead of `should_extend_payload` in `prepare_execution_payload`](https://github.com/grandinetech/grandine/pull/701#pullrequestreview-4316540630) - 2026-05-19
+* [Review] [Review on: Add execution_payload and execution_payload_gossip event](https://github.com/grandinetech/grandine/pull/690#pullrequestreview-4316524926) - 2026-05-19
 ## Q1 2026
 
 

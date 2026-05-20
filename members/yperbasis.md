@@ -401,6 +401,29 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [all: remove empty files (#21254)](https://github.com/erigontech/erigon/commit/30954c9594537b6754b8e481ce92cbf3bbdeb8f8) - 2026-05-18
 * [Commit] [p2p/protocols/eth: refresh eth/71 doc comments for post-#11553 sentinel split (#21250)](https://github.com/erigontech/erigon/commit/64c3e8841e6f4c1f1ac9d7d5971ced358bc17c3b) - 2026-05-18
 * [Commit] [execution, rlp: switch total difficulty and chainID to uint256.Int (#21119)](https://github.com/erigontech/erigon/commit/fd47df91b6ab048a27892e407ecc32900e3266ed) - 2026-05-18
+* [Pull Request] [execution/commitment/trie, execution/state: clean up dead trie/HashBuilder code](https://github.com/erigontech/erigon/pull/21284) - 2026-05-19
+* [Review] [Review on: execution/commitment/trie, execution/state: clean up dead trie/HashBuilder code](https://github.com/erigontech/erigon/pull/21284#pullrequestreview-4320760994) - 2026-05-19
+* [Review] [Review on: [r3.4] rawdb: ignore invalid receipt cache transaction indexes](https://github.com/erigontech/erigon/pull/21262#pullrequestreview-4317097354) - 2026-05-19
+* [Pull Request] [rpc/jsonrpc, node/ethconfig: enable FcuBackgroundCommit by default](https://github.com/erigontech/erigon/pull/21293) - 2026-05-19
+* [Pull Request] [execution/state: exclude own-tx writes from SD revival check](https://github.com/erigontech/erigon/pull/21286) - 2026-05-19
+* [Review] [Review on: rpc: implement eth_capabilities method](https://github.com/erigontech/erigon/pull/20951#pullrequestreview-4318242243) - 2026-05-19
+* [Review] [Review on: caplin: persist node key across restarts for stable ENR](https://github.com/erigontech/erigon/pull/21276#pullrequestreview-4318499006) - 2026-05-19
+* [Review] [Review on: ethash: clean temp mmap artifacts on generation failure](https://github.com/erigontech/erigon/pull/21279#pullrequestreview-4320034118) - 2026-05-19
+* [Pull Request] [execution/chain: emit chain.Config ChainID and TTD as unquoted JSON numbers](https://github.com/erigontech/erigon/pull/21282) - 2026-05-19
+* [Pull Request] [execution/protocol/rules/ethash: drop in-memory + on-disk cache](https://github.com/erigontech/erigon/pull/21281) - 2026-05-19
+* [Pull Request] [db/kv, db/migrations, cmd: drop pre-E3 plain/hashed state and history tables](https://github.com/erigontech/erigon/pull/21280) - 2026-05-19
+* [Review] [Review on: db/kv, db/migrations, cmd: drop pre-E3 plain/hashed state and history tables](https://github.com/erigontech/erigon/pull/21280#pullrequestreview-4319731458) - 2026-05-19
+* [Review] [Review on: p2p/discover: avoid deadlock between waitForNodes and node additions](https://github.com/erigontech/erigon/pull/21064#pullrequestreview-4319280297) - 2026-05-19
+* [Review] [Review on: execution: implement 8037 changes for 7.2.0 fixtures](https://github.com/erigontech/erigon/pull/21275#pullrequestreview-4318507412) - 2026-05-19
+* [Review] [Review on: execution: treat empty BAL as valid access list (EIP-7928)](https://github.com/erigontech/erigon/pull/20776#pullrequestreview-4318804667) - 2026-05-19
+* [Review] [Review on: execution/engineapi/engineapitester: respect caller deadline in RetryEngine](https://github.com/erigontech/erigon/pull/21274#pullrequestreview-4318423820) - 2026-05-19
+* [Review] [Review on: ci: skip Go jobs and add docs-site build for docs-only PRs](https://github.com/erigontech/erigon/pull/21028#pullrequestreview-4318332979) - 2026-05-19
+* [Review] [Review on: cl/forkchoice: fix Caplin stuck on mainnet after GLOAS merge](https://github.com/erigontech/erigon/pull/21228#pullrequestreview-4317572079) - 2026-05-19
+* [Review] [Review on: build(deps): bump webpack-dev-server from 5.2.3 to 5.2.4 in /docs/site](https://github.com/erigontech/erigon/pull/21259#pullrequestreview-4316964092) - 2026-05-19
+* [Review] [Review on: cl: GLOAS audit fixes — clone aliasing, PTC consistency, memory leaks, nil panics](https://github.com/erigontech/erigon/pull/21248#pullrequestreview-4317426147) - 2026-05-19
+* [Review] [Review on: execution: optimise parallel exec with BALs for same-sender conflicts in precompile benchmarks](https://github.com/erigontech/erigon/pull/21240#pullrequestreview-4317288988) - 2026-05-19
+* [Issue] [execution/types/accounts: drop tolerant DeserialiseV3 path after AccountsDomain snapshots are rebuilt](https://github.com/erigontech/erigon/issues/21291) - 2026-05-19
+* [Issue] [rpc: trace_* should return explicit error when config.Tracer is set](https://github.com/erigontech/erigon/issues/21273) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

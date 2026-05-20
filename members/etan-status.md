@@ -94,6 +94,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Harden against malformed era files](https://github.com/status-im/nimbus-eth2/pull/8465) - 2026-05-18
 * [Pull Request] [Fix lightClientDataImportBackfill property getting accessed in tns](https://github.com/status-im/nimbus-eth2/pull/8467) - 2026-05-18
 * [Pull Request] [Revert "Apply KZG check to columns fetched via Req/Resp (#8458)"](https://github.com/status-im/nimbus-eth2/pull/8464) - 2026-05-18
+* [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/status-im/nimbus-eth2/pull/8475) - 2026-05-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
@@ -134,6 +135,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Update EIP-7708: Use EIP-8246 to simplify](https://github.com/ethereum/EIPs/pull/11634#pullrequestreview-4304242044) - 2026-05-16
 * [Pull Request] [Update EIP-7688: Suggest constants for network message size bounds](https://github.com/ethereum/EIPs/pull/11687) - 2026-05-18
 * [Commit] [Update EIP-7688: Suggest constants for network message size bounds](https://github.com/ethereum/EIPs/commit/5f4a908c019f83e5d8dc00abccba37c312fca02f) - 2026-05-18
+* [Pull Request] [Update EIP-7688: Rebase requirements to be based on Fusaka](https://github.com/ethereum/EIPs/pull/11702) - 2026-05-19
+* [Pull Request] [Update EIP-7688: Improve wording / address nits](https://github.com/ethereum/EIPs/pull/11701) - 2026-05-19
+* [Pull Request] [Update EIP-7688: Resolve the 'cleanup opportunities' section](https://github.com/ethereum/EIPs/pull/11700) - 2026-05-19
+* [Pull Request] [Update EIP-7688: Add rationale for Validator remaining Container](https://github.com/ethereum/EIPs/pull/11698) - 2026-05-19
+* [Commit] [Update EIP-7688: Rebase requirements to be based on Fusaka](https://github.com/ethereum/EIPs/commit/f2e6d7fb01194d590e16fcdcae8061d06cf1a7f1) - 2026-05-19
+* [Commit] [Update EIP-7688: Improve wording / address nits](https://github.com/ethereum/EIPs/commit/aea03b391168915770667f3564c445e7de589a17) - 2026-05-19
+* [Commit] [Update EIP-7688: Resolve the 'cleanup opportunities' section](https://github.com/ethereum/EIPs/commit/19f03bc45b9fa63fe434f9ad7fdc2b82f174cc2f) - 2026-05-19
+* [Commit] [Update EIP-7688: Add rationale for Validator remaining Container](https://github.com/ethereum/EIPs/commit/9eb1fadbc0941fbc877294c5d647c30fb42c5bfb) - 2026-05-19
 ## Q1 2026
 
 

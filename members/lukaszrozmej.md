@@ -429,6 +429,27 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Reduce per-message and per-peer allocations across Eth, Snap, RLPx, and sort hot paths](https://github.com/NethermindEth/nethermind/pull/11639#pullrequestreview-4308088257) - 2026-05-18
 * [Commit] [fix(trie test): de-flake Will_Persist_ReCommittedPersistedNode_FromCommitBuffer (#11650)](https://github.com/NethermindEth/nethermind/commit/d4deac0f7c1170732dc2259639d316a123d7edca) - 2026-05-19
 * [Commit] [perf(evm): pool destroy-list buffer in TransactionProcessor (#11657)](https://github.com/NethermindEth/nethermind/commit/88c2b420683562fbcfe58edfc1839649274307f6) - 2026-05-18
+* [Review] [Review on: Wallet Refactoring](https://github.com/NethermindEth/nethermind/pull/11664#pullrequestreview-4316295887) - 2026-05-19
+* [Review] [Review on: perf(kute): compile JSON-RPC method filter regex once](https://github.com/NethermindEth/nethermind/pull/11667#pullrequestreview-4319574188) - 2026-05-19
+* [Review] [Review on: chore(ai): Remove unused stuff](https://github.com/NethermindEth/nethermind/pull/11690#pullrequestreview-4322390659) - 2026-05-19
+* [Review] [Review on: Fix geth-style genesis BPOs; fully consider slot number](https://github.com/NethermindEth/nethermind/pull/11689#pullrequestreview-4320474557) - 2026-05-19
+* [Pull Request] [fix(rlpx): drop racy OnSessionDisconnected fallback in shutdown](https://github.com/NethermindEth/nethermind/pull/11688) - 2026-05-19
+* [Review] [Review on: fix(rlpx): drop racy OnSessionDisconnected fallback in shutdown](https://github.com/NethermindEth/nethermind/pull/11688#pullrequestreview-4320439984) - 2026-05-19
+* [Review] [Review on: Add agent rules: git, comment styles, linting, ArrayPooList](https://github.com/NethermindEth/nethermind/pull/11687#pullrequestreview-4320452999) - 2026-05-19
+* [Review] [Review on: Fix FCU validation order](https://github.com/NethermindEth/nethermind/pull/11681#pullrequestreview-4319458871) - 2026-05-19
+* [Pull Request] [fix(sync test): de-flake two SynchronizerTests on Windows](https://github.com/NethermindEth/nethermind/pull/11683) - 2026-05-19
+* [Review] [Review on: perf(bal): SoA uint[] index lanes on the BAL read hot path](https://github.com/NethermindEth/nethermind/pull/11656#pullrequestreview-4318956381) - 2026-05-19
+* [Review] [Review on: feat: unzen hoodi removed](https://github.com/NethermindEth/nethermind/pull/11682#pullrequestreview-4319105140) - 2026-05-19
+* [Pull Request] [perf(bal): cache wire BAL hash on ReadOnlyBlockAccessList](https://github.com/NethermindEth/nethermind/pull/11668) - 2026-05-19
+* [Pull Request] [perf(bal): replace SortedDictionary/SortedSet aggregates with Dictionary/HashSet](https://github.com/NethermindEth/nethermind/pull/11672) - 2026-05-19
+* [Review] [Review on: Bal devnet 7 benchmarks](https://github.com/NethermindEth/nethermind/pull/11573#pullrequestreview-4318147129) - 2026-05-19
+* [Pull Request] [perf(bal): fuse Build() walks into a single pass](https://github.com/NethermindEth/nethermind/pull/11676) - 2026-05-19
+* [Pull Request] [perf(bal): pre-size column-index account-presence bitmap from suggested count](https://github.com/NethermindEth/nethermind/pull/11675) - 2026-05-19
+* [Pull Request] [perf(bal): inline-1 balance/nonce/code changes in GeneratedAccountChanges](https://github.com/NethermindEth/nethermind/pull/11674) - 2026-05-19
+* [Pull Request] [perf(bal): cache wire-BAL per-lane counts on ReadOnlyBlockAccessList](https://github.com/NethermindEth/nethermind/pull/11673) - 2026-05-19
+* [Review] [Review on: fix(rpc): emit spec message for eth_simulateV1 -38020](https://github.com/NethermindEth/nethermind/pull/11665#pullrequestreview-4316326026) - 2026-05-19
+* [Commit] [fix(rlpx): drop racy OnSessionDisconnected fallback in shutdown (#11688)](https://github.com/NethermindEth/nethermind/commit/94c3c243a618a5388f78df54b182bb34db813209) - 2026-05-19
+* [Commit] [perf(bal): verify-only fast path — skip end-of-block encode + Keccak (#11659)](https://github.com/NethermindEth/nethermind/commit/b1fa33d34de4f97189c3fc877aa6f7e32fcac186) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

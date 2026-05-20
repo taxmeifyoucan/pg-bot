@@ -83,6 +83,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Review] [Review on: feat(zkevm): Migrate to zkVM standards](https://github.com/NethermindEth/nethermind/pull/11481#pullrequestreview-4224060707) - 2026-05-04
 * [Pull Request] [Enable Zisk 0.18 support](https://github.com/NethermindEth/nethermind/pull/11645) - 2026-05-18
 * [Commit] [Enable Zisk 0.18 support (#11645)](https://github.com/NethermindEth/nethermind/commit/beb2173297e5313201c1467c0de362f987aad711) - 2026-05-18
+* [Pull Request] [Benchmark-related improvements in ZiskGuest / InputGen](https://github.com/NethermindEth/nethermind/pull/11691) - 2026-05-19
 ## Q1 2026
 
 

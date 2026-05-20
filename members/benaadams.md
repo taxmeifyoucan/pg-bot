@@ -202,6 +202,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat(engine/ssz): add target_gas_limit to PayloadAttributesV4 wire](https://github.com/NethermindEth/nethermind/pull/11647#pullrequestreview-4310702795) - 2026-05-18
 * [Review] [Review on: Use generic decoding results for block and tx; remove IRlpObjectDecoder; single RlpDecoder base class and interface](https://github.com/NethermindEth/nethermind/pull/10759#pullrequestreview-4309656081) - 2026-05-18
 * [Commit] [Reduce per-message and per-peer allocations across Eth, Snap, RLPx, and sort hot paths (#11639)](https://github.com/NethermindEth/nethermind/commit/e3e2fd859f7955a84ad524c55608699b956c41e0) - 2026-05-18
+* [Review] [Review on: Fix geth-style genesis BPOs; fully consider slot number](https://github.com/NethermindEth/nethermind/pull/11689#pullrequestreview-4322105331) - 2026-05-19
+* [Review] [Review on: fix(rlpx): drop racy OnSessionDisconnected fallback in shutdown](https://github.com/NethermindEth/nethermind/pull/11688#pullrequestreview-4320454578) - 2026-05-19
+* [Review] [Review on: perf(bal): account-presence bitmap + storage_reads on column index — skip-merge](https://github.com/NethermindEth/nethermind/pull/11661#pullrequestreview-4320766691) - 2026-05-19
+* [Review] [Review on: perf(bal): verify-only fast path — skip end-of-block encode + Keccak](https://github.com/NethermindEth/nethermind/pull/11659#pullrequestreview-4319240377) - 2026-05-19
+* [Review] [Review on: perf(bal): SoA uint[] index lanes on the BAL read hot path](https://github.com/NethermindEth/nethermind/pull/11656#pullrequestreview-4318988023) - 2026-05-19
+* [Review] [Review on: perf(bal): inline-1 ReadOnlySlotChanges for the common single-change case](https://github.com/NethermindEth/nethermind/pull/11658#pullrequestreview-4319168475) - 2026-05-19
+* [Review] [Review on: Bal devnet 7 benchmarks](https://github.com/NethermindEth/nethermind/pull/11573#pullrequestreview-4318142006) - 2026-05-19
+* [Commit] [fix(devnet-7): reject txs exceeding EIP-8037 intrinsic gas cap; skip BAL no-op code (#11635)](https://github.com/NethermindEth/nethermind/commit/61a5bbf845aa31cacd005c152e026ba4cd14cdbd) - 2026-05-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08
@@ -229,6 +237,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Issue] [Replace INTRINSIC_GAS_TOO_LOW with GAS_LIMIT_EXCEEDS_MAXIMUM in EIP-8037 cap-overflow tests](https://github.com/ethereum/execution-specs/issues/2864) - 2026-05-17
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: all: align EIP-7928 spec with latest EIP (uint32 BlockAccessIndex, header hash, debug getter)](https://github.com/ethereum/execution-apis/pull/794#pullrequestreview-4263914654) - 2026-05-11
+
+[NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
+* [Review] [Review on: feat: add extra withdrawal request for pre-funding](https://github.com/NethermindEth/gas-benchmarks/pull/146#pullrequestreview-4320937952) - 2026-05-19
 ## Q1 2026
 
 

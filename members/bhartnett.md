@@ -56,6 +56,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: Enable parallel state root computation by default](https://github.com/status-im/nimbus-eth1/pull/4247#pullrequestreview-4298525490) - 2026-05-15
 * [Pull Request] [Remove resetPayload from ConcurrentLruCache](https://github.com/status-im/nimbus-eth1/pull/4249) - 2026-05-18
 * [Commit] [Remove resetPayload from ConcurrentLruCache (#4249)](https://github.com/status-im/nimbus-eth1/commit/e9bd84df0bc89b3adffc074080382201836c3935) - 2026-05-18
+* [Commit] [Enable parallel state root computation by default (#4247)](https://github.com/status-im/nimbus-eth1/commit/3282e07a003e2b911aa25e7f3e4aefcd2db5af1c) - 2026-05-19
 ## Q1 2026
 
 

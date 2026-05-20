@@ -557,6 +557,10 @@ Team: Erigon
 * [Review] [Review on: cmd/integration, execution/stagedsync: fix from-0 flow (env-prefix + reset-progress-delete)](https://github.com/erigontech/erigon/pull/21210#pullrequestreview-4309246492) - 2026-05-18
 * [Commit] [exec: fix committed-log metrics (#21244)](https://github.com/erigontech/erigon/commit/d1877b050f3d4aa0f6ba3ce987376dfcbf884497) - 2026-05-18
 * [Commit] [ShardedFuse: support ForceInMem mode (#21225)](https://github.com/erigontech/erigon/commit/a4662922212edf0be615cc6c3a934c2263ad1f44) - 2026-05-18
+* [Pull Request] [bloatnet: disable referenced keys](https://github.com/erigontech/erigon/pull/21295) - 2026-05-20
+* [Pull Request] [Revert "db/state: remove CheckSnapshotsCompatibility (pre-3.1 compat check) (#20746)"](https://github.com/erigontech/erigon/pull/21268) - 2026-05-19
+* [Issue] [oom: during `PersistentBlockColletor.Flush`](https://github.com/erigontech/erigon/issues/21267) - 2026-05-19
+* [Commit] [Revert "db/state: remove CheckSnapshotsCompatibility (pre-3.1 compat check) (#20746)" (#21268)](https://github.com/erigontech/erigon/commit/0e0ac91185771454970f8dbe75b1c86df4b73288) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

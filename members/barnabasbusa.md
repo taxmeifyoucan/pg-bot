@@ -16,6 +16,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix: handle genesis block in gloas fork choice and genesis state init](https://github.com/ChainSafe/lodestar/pull/9149) - 2026-04-01
 
 * [Pull Request] [feat(beacon-api): expose peer-scoring fields on /eth/v1/node/peers](https://github.com/ChainSafe/lodestar/pull/9373) - 2026-05-15
+* [Pull Request] [fix: include ethrex EX client code and restore CL commit suffix in gloas graffiti](https://github.com/ChainSafe/lodestar/pull/9381) - 2026-05-19
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [Fix nil pointer panic in beacon event stream](https://github.com/ethpandaops/dora/pull/624) - 2026-04-01
 
@@ -136,6 +137,23 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [build(docker): bump golang base image to 1.25.7](https://github.com/ethpandaops/dora/commit/485b901c11e06ad6708ad4fb82ba7c3570b3194a) - 2026-05-15
 * [Pull Request] [feat: track DUE_BPS, reorg cutoff, and Byzantine threshold spec fields](https://github.com/ethpandaops/dora/pull/698) - 2026-05-16
 * [Review] [Review on: fix builder withdrawal type detection](https://github.com/ethpandaops/dora/pull/697#pullrequestreview-4309178180) - 2026-05-18
+* [Review] [Review on: Aggregated Internal Transaction Index](https://github.com/ethpandaops/dora/pull/704#pullrequestreview-4321695860) - 2026-05-19
+* [Review] [Review on: update sepolia validator names](https://github.com/ethpandaops/dora/pull/705#pullrequestreview-4322193746) - 2026-05-19
+* [Pull Request] [ci: drop macos/amd64 release builds](https://github.com/ethpandaops/dora/pull/703) - 2026-05-19
+* [Review] [Review on: build(deps): bump the ui-package-dependencies group in /ui-package with 3 updates](https://github.com/ethpandaops/dora/pull/699#pullrequestreview-4318839141) - 2026-05-19
+* [Pull Request] [fix(gloas): read blob KZG commitments from the bid post-EIP-7732](https://github.com/ethpandaops/dora/pull/702) - 2026-05-19
+* [Review] [Review on: fix orphaned payload detection & add status badge tooltip for status explanation](https://github.com/ethpandaops/dora/pull/700#pullrequestreview-4318371245) - 2026-05-19
+* [Pull Request] [fix: attach exec times to blocks after gloas payload arrives](https://github.com/ethpandaops/dora/pull/701) - 2026-05-19
+* [Commit] [Merge pull request #703 from ethpandaops/bbusa/drop-macos-amd64-builds](https://github.com/ethpandaops/dora/commit/867f74556bd6327daa2368c084a16c11c67bc0fe) - 2026-05-19
+* [Commit] [ci: drop macos/amd64 release builds](https://github.com/ethpandaops/dora/commit/13c22878e16ba26c79b098601ed316a8cc8f6e68) - 2026-05-19
+* [Commit] [Merge pull request #699 from ethpandaops/dependabot/npm_and_yarn/ui-package/ui-package-dependencies-f70c80bba8](https://github.com/ethpandaops/dora/commit/758ff69d2682e77c535f238bc3daa2a8dca477ae) - 2026-05-19
+* [Commit] [Merge branch 'master' into dependabot/npm_and_yarn/ui-package/ui-package-dependencies-f70c80bba8](https://github.com/ethpandaops/dora/commit/8589fd4bd11a8f9177c03f53cd99ea9e77144964) - 2026-05-19
+* [Commit] [Merge pull request #702 from ethpandaops/bbusa/gloas-blob-commitments-from-bid](https://github.com/ethpandaops/dora/commit/c623074a072dba686ca13c3cac147f3181f1e464) - 2026-05-19
+* [Commit] [review: drop defensive nil-checks — a Gloas+ block always has the bid](https://github.com/ethpandaops/dora/commit/0d2c51d701d1541594ca3889a5046e0e28fc950e) - 2026-05-19
+* [Commit] [refactor: extract BlockBodyBlobCommitments helper](https://github.com/ethpandaops/dora/commit/5879e01fe4a3e39949cb7d51c0160802e0397c07) - 2026-05-19
+* [Commit] [review: drop deneb import — use type inference for blob commitments](https://github.com/ethpandaops/dora/commit/cdb8395f17f04548b628aa03b49d8cee02b0dff4) - 2026-05-19
+* [Commit] [review: align on spec.DataVersionGloas; warn on missing bid in tx page](https://github.com/ethpandaops/dora/commit/86e9821d774bf24a8186b5686c68b1124691a93f) - 2026-05-19
+* [Commit] [fix(gloas): read blob KZG commitments from the bid post-EIP-7732](https://github.com/ethpandaops/dora/commit/c79447f487e5b2793e0ae517af37afad12f07572) - 2026-05-19
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -163,6 +181,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177) - 2026-04-27
 * [Commit] [Change minimal `PTC_SIZE` to 16 validators (#5177)](https://github.com/ethereum/consensus-specs/commit/73317f55baf4045b738cb225bea662661fa16304) - 2026-04-27
 * [Review] [Review on: Raise `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 8192 epochs](https://github.com/ethereum/consensus-specs/pull/5223#pullrequestreview-4253118462) - 2026-05-08
+* [Review] [Review on: Clarify sentence about refunded deposits to exited builders](https://github.com/ethereum/consensus-specs/pull/5269#pullrequestreview-4319519945) - 2026-05-19
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [Remove broken update_project_wiki job](https://github.com/ethpandaops/assertoor/pull/156) - 2026-04-09
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/assertoor/pull/155) - 2026-04-09
@@ -188,6 +207,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #162 from ethpandaops/bbusa/footer-commit-hash](https://github.com/ethpandaops/assertoor/commit/8fe11229c9cd7b1a0858e3ffac0e24955291fe27) - 2026-04-22
 * [Commit] [Show build commit hash in web UI footer](https://github.com/ethpandaops/assertoor/commit/222bbf3b4eb596d3b4b3edb4c2ea75e76aa9f1c4) - 2026-04-22
 * [Pull Request] [chore(deps): bump go-eth2-client to v0.1.1](https://github.com/ethpandaops/assertoor/pull/165) - 2026-04-30
+* [Pull Request] [ci: drop macos/amd64 release builds](https://github.com/ethpandaops/assertoor/pull/180) - 2026-05-19
+* [Commit] [ci: drop macos/amd64 release builds](https://github.com/ethpandaops/assertoor/commit/4e7e33deb2d2bf6d7d00cfeb0dfbf5251771dcb6) - 2026-05-19
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/lab/pull/432) - 2026-04-09
 * [Commit] [Merge pull request #432 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/lab/commit/c3be9674e52453b5788e377f0cbf8f508dd7073e) - 2026-04-09

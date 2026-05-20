@@ -31,6 +31,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Gloas lookup sync](https://github.com/sigp/lighthouse/pull/9155#pullrequestreview-4248770816) - 2026-05-08
 * [Review] [Review on: Move gossip column KZG verification off async runtime](https://github.com/sigp/lighthouse/pull/9271#pullrequestreview-4247729424) - 2026-05-07
 * [Pull Request] [Builder deposits optimisation](https://github.com/sigp/lighthouse/pull/9311) - 2026-05-17
+* [Review] [Review on: Builder deposits optimisation](https://github.com/sigp/lighthouse/pull/9311#pullrequestreview-4322147853) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4100433052) - 2026-04-13

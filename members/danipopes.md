@@ -374,6 +374,10 @@ Team: Reth
 * [Review] [Review on: ci(bench): remove legacy reth-bench workflow path](https://github.com/paradigmxyz/reth/pull/24262#pullrequestreview-4298483763) - 2026-05-15
 * [Review] [Review on: feat(bench): route BAL replays through txgen](https://github.com/paradigmxyz/reth/pull/24261#pullrequestreview-4297879198) - 2026-05-15
 * [Review] [Review on: chore(deps): update alloy core to 1.6.0](https://github.com/paradigmxyz/reth/pull/24275#pullrequestreview-4305538044) - 2026-05-17
+* [Pull Request] [fix(ci): correct bench Grafana range](https://github.com/paradigmxyz/reth/pull/24358) - 2026-05-19
+* [Review] [Review on: perf: avoid hashing the state twice](https://github.com/paradigmxyz/reth/pull/24354#pullrequestreview-4323018592) - 2026-05-19
+* [Review] [Review on: fix(bench): don't enable otlp features](https://github.com/paradigmxyz/reth/pull/24356#pullrequestreview-4322932243) - 2026-05-19
+* [Commit] [fix(ci): correct bench Grafana range (#24358)](https://github.com/paradigmxyz/reth/commit/60b3f313800dca1af11bdad9681937cfa606939e) - 2026-05-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

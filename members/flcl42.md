@@ -123,6 +123,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Address discovery review findings](https://github.com/NethermindEth/nethermind/pull/11654) - 2026-05-18
 * [Review] [Review on: refactor(core): centralize EIP-7702 SetCode shape checks](https://github.com/NethermindEth/nethermind/pull/11641#pullrequestreview-4311795853) - 2026-05-18
 * [Review] [Review on: fix(eth/70): reject null receipt payloads](https://github.com/NethermindEth/nethermind/pull/11615#pullrequestreview-4308911375) - 2026-05-18
+* [Review] [Review on: Wallet Refactoring](https://github.com/NethermindEth/nethermind/pull/11664#pullrequestreview-4317774971) - 2026-05-19
+* [Pull Request] [Fix geth-style genesis BPOs; fully consider slot number](https://github.com/NethermindEth/nethermind/pull/11689) - 2026-05-19
+* [Commit] [Fix geth-style genesis BPOs; fully consider slot number (#11689)](https://github.com/NethermindEth/nethermind/commit/fbf3ce26d20f3157d479ce08b1236275d4058c1b) - 2026-05-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

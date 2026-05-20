@@ -196,6 +196,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [fix: reject non-hex block numbers in BlockParameter](https://github.com/besu-eth/besu/pull/10515) - 2026-05-18
 * [Commit] [use stackless singleton for peer-gate rejection in RlpxAgent (#10523)](https://github.com/besu-eth/besu/commit/03cc8a7d8dcfc741453fc5ebd33b79064876f867) - 2026-05-19
 * [Commit] [testing_buildBlockV1: exclude null fields from result (#10492)](https://github.com/besu-eth/besu/commit/f39cc97200031564bb31f547dc9fff9a7ee6692b) - 2026-05-18
+* [Pull Request] [perf: parallelize block body DB lookups in engine_getPayloadBodies methods](https://github.com/besu-eth/besu/pull/10532) - 2026-05-19
+* [Review] [Review on: Enable NullAway for metrics core](https://github.com/besu-eth/besu/pull/10453#pullrequestreview-4317573709) - 2026-05-19
+* [Pull Request] [perf(eth): stackless singleton for NoAvailablePeersException in peer retry paths](https://github.com/besu-eth/besu/pull/10527) - 2026-05-19
+* [Pull Request] [perf(eth): stackless CancellationException in AbstractEthTask](https://github.com/besu-eth/besu/pull/10526) - 2026-05-19
+* [Commit] [fix: detect blob tx violations (missing/mismatched sidecar) (#10510)](https://github.com/besu-eth/besu/commit/b9b43aa9c8649dcbc3dc644b5e5560b6de682ad7) - 2026-05-20
+* [Commit] [fix: Peer Tracker incorrectly evicts peers pre-validation (#10511)](https://github.com/besu-eth/besu/commit/113906a01480d83ab37532e700e67e0482d0be9a) - 2026-05-20
+* [Commit] [fix: reject non-0x-prefixed tx hash in debug_getRawTransaction (#10505)](https://github.com/besu-eth/besu/commit/3514fc90b0bb239eabf3649abf4bea738461e914) - 2026-05-20
+* [Commit] [perf(eth): stackless singleton for NoAvailablePeersException in peer retry paths (#10527)](https://github.com/besu-eth/besu/commit/f6256efdfd59ade56b1455277f86e2247018a1de) - 2026-05-19
+* [Commit] [perf(eth): stackless CancellationException in AbstractEthTask (#10526)](https://github.com/besu-eth/besu/commit/3eaa007c7e3fac426de87ef605acefb8a4983532) - 2026-05-19
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

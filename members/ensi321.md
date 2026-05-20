@@ -78,6 +78,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Remove stale test around `process_builder_pending_payments`](https://github.com/ethereum/consensus-specs/pull/5187) - 2026-04-28
 * [Commit] [Remove stale test around `process_builder_pending_payments` (#5187)](https://github.com/ethereum/consensus-specs/commit/5a52cab58fc90bbef986cc798ce49b8f846092c2) - 2026-04-28
 * [Review] [Review on: Set `blob_data_available` in `PayloadAttestationMessage`](https://github.com/ethereum/consensus-specs/pull/4769#pullrequestreview-4197706934) - 2026-04-29
+* [Review] [Review on: Clarify sentence about refunded deposits to exited builders](https://github.com/ethereum/consensus-specs/pull/5269#pullrequestreview-4321640241) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
 ## Q1 2026

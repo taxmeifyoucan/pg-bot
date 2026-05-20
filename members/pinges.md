@@ -45,6 +45,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Issue] [Snap sync: fallback head pivot can become an invalid anchor](https://github.com/besu-eth/besu/issues/10485) - 2026-05-12
 * [Commit] [Lazy RLP decoding for GetReceiptsMessage (#10450)](https://github.com/besu-eth/besu/commit/229f8d663d14ce1a6db1067cf80640d9272ac820) - 2026-05-14
 * [Review] [Review on: use stackless singleton for peer-gate rejection in RlpxAgent](https://github.com/besu-eth/besu/pull/10523#pullrequestreview-4314884733) - 2026-05-19
+* [Review] [Review on: fix: Peer Tracker incorrectly evicts peers pre-validation](https://github.com/besu-eth/besu/pull/10511#pullrequestreview-4324379578) - 2026-05-20
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [snap: GetTrieNodes accepts invalid compact-encoded paths instead of rejecting them](https://github.com/ethereum/go-ethereum/issues/34853) - 2026-04-30
 ## Q1 2026

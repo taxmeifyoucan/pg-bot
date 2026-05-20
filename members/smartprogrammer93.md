@@ -66,6 +66,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Avoid pooled transaction hash enumerator allocations](https://github.com/NethermindEth/nethermind/pull/11638#pullrequestreview-4305730541) - 2026-05-17
 * [Review] [Review on: perf(evm): pool destroy-list buffer in TransactionProcessor](https://github.com/NethermindEth/nethermind/pull/11657#pullrequestreview-4311965236) - 2026-05-18
 * [Review] [Review on: Enable Zisk 0.18 support](https://github.com/NethermindEth/nethermind/pull/11645#pullrequestreview-4310929470) - 2026-05-18
+* [Review] [Review on: Fix Taiko sync deadlock after first beacon-sync](https://github.com/NethermindEth/nethermind/pull/11648#pullrequestreview-4317470796) - 2026-05-19
+* [Review] [Review on: feat: unzen hoodi removed](https://github.com/NethermindEth/nethermind/pull/11682#pullrequestreview-4319072083) - 2026-05-19
+* [Review] [Review on: fix: zk-gas validation](https://github.com/NethermindEth/nethermind/pull/11666#pullrequestreview-4317490274) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

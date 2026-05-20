@@ -71,6 +71,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Revert "Update ethspecify, mostly for Gloas functions (#10706)"](https://github.com/Consensys/teku/pull/10716#pullrequestreview-4296521052) - 2026-05-15
 * [Commit] [Update ethspecify, mostly for Gloas functions (#10706)](https://github.com/Consensys/teku/commit/dc3c805c887ed3b108ec6969234e6b3587aa40e7) - 2026-05-15
 * [Pull Request] [Alpha.8 spec](https://github.com/Consensys/teku/pull/10724) - 2026-05-18
+* [Pull Request] [Use MIN_SEED_LOOKAHEAD in proposer preferences](https://github.com/Consensys/teku/pull/10731) - 2026-05-19
+* [Pull Request] [Count PTC votes from duplicated validators + apply attestations from blocks](https://github.com/Consensys/teku/pull/10732) - 2026-05-19
+* [Review] [Review on: Improve data column sidecar pruning stream handling](https://github.com/Consensys/teku/pull/10725#pullrequestreview-4319920512) - 2026-05-19
+* [Issue] [Gloas: pre-validate pending deposit signatures before fork](https://github.com/Consensys/teku/issues/10730) - 2026-05-19
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

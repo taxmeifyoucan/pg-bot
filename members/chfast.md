@@ -111,6 +111,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Refactor create-tx with EOF validation test (#1527)](https://github.com/ipsilon/evmone/commit/f5932808d0cfc797dfd6c107abffd0748fea8339) - 2026-05-15
 * [Pull Request] [evmc: Drop evmc_result optional storage](https://github.com/ipsilon/evmone/pull/1529) - 2026-05-18
 * [Commit] [evmc: Drop evmc_result optional storage (#1529)](https://github.com/ipsilon/evmone/commit/677a179b9f59afd64f745b8aa4236b073e66c361) - 2026-05-18
+* [Pull Request] [tools: Replace evmc::tooling with evmone::test::run](https://github.com/ipsilon/evmone/pull/1531) - 2026-05-19
+* [Pull Request] [test/blockchaintest: Assert lastblockhash matches canonical chain tip](https://github.com/ipsilon/evmone/pull/1530) - 2026-05-19
+* [Commit] [test/blockchaintest: Assert lastblockhash matches canonical chain tip (#1530)](https://github.com/ipsilon/evmone/commit/6eb041925a5cfb7af0b82e3e41b0bb08698dbc0d) - 2026-05-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -129,6 +132,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): EIP-8037 isolate intrinsic-regular > cap with floor < cap](https://github.com/ethereum/execution-specs/pull/2870) - 2026-05-18
 * [Pull Request] [feat(tests): EIP-7778 multi-tx mixed gas regimes block accounting](https://github.com/ethereum/execution-specs/pull/2871) - 2026-05-18
 * [Pull Request] [feat(tests): EIP-7981 zero-byte calldata floor cost rejection](https://github.com/ethereum/execution-specs/pull/2869) - 2026-05-18
+* [Pull Request] [feat(tests): EIP-8037 reject tx when gas_limit covers regular but not state intrinsic](https://github.com/ethereum/execution-specs/pull/2876) - 2026-05-19
+* [Pull Request] [feat(tests): EIP-7981 reject in access-list-byte floor gap with exact balance](https://github.com/ethereum/execution-specs/pull/2880) - 2026-05-19
+* [Pull Request] [feat(tests): EIP-7976 reject in gap with exact balance](https://github.com/ethereum/execution-specs/pull/2878) - 2026-05-19
+* [Pull Request] [feat(tests): EIP-8037 CREATE-tx collision refunds state-gas reservoir](https://github.com/ethereum/execution-specs/pull/2875) - 2026-05-19
+* [Review] [Review on: feat(tests): EIP-7778 multi-tx mixed gas regimes block accounting](https://github.com/ethereum/execution-specs/pull/2871#pullrequestreview-4316726733) - 2026-05-19
+* [Commit] [feat(tests): EIP-7778 multi-tx mixed gas regimes block accounting (#2871)](https://github.com/ethereum/execution-specs/commit/31d7e698973703d4863ed0a4b099c4484d47594e) - 2026-05-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

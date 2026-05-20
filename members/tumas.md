@@ -28,6 +28,8 @@ Team: Grandine
 * [Review] [Review on: Check gas limit consistency with the target](https://github.com/grandinetech/grandine/pull/697#pullrequestreview-4310341577) - 2026-05-18
 * [Review] [Review on: Add target_gas_limit to PayloadAttributes](https://github.com/grandinetech/grandine/pull/693#pullrequestreview-4310272528) - 2026-05-18
 * [Pull Request] [Ignore RUSTSEC-2026-0118 and RUSTSEC-2026-0119 until libp2p and zkm-sdk are updated](https://github.com/grandinetech/grandine/pull/700) - 2026-05-18
+* [Review] [Review on: Set fixed pico toolchain version by commit hash](https://github.com/grandinetech/grandine/pull/704#pullrequestreview-4317816130) - 2026-05-19
+* [Commit] [Ignore RUSTSEC-2026-0118 and RUSTSEC-2026-0119 until libp2p and zkm-sdk are updated](https://github.com/grandinetech/grandine/commit/6b434cad08bc275dffd526e0de4f068c6f2953f5) - 2026-05-19
 ## Q1 2026
 
 

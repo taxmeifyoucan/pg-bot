@@ -51,6 +51,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [trie: group 2^N binary trie nodes in serialization (#34794)](https://github.com/ethereum/go-ethereum/commit/a15778c52f3f5e5922d6ecd29bf62df500733c6b) - 2026-05-01
 * [Review] [Review on: signer/core: fix unconditional http request metadata scheme overwrite](https://github.com/ethereum/go-ethereum/pull/34653#pullrequestreview-4311044234) - 2026-05-18
 * [Pull Request] [.github/workflows: add a typo checker](https://github.com/ethereum/go-ethereum/pull/34994) - 2026-05-18
+* [Pull Request] [.: fix all typos, as reported by crates-ci/typos](https://github.com/ethereum/go-ethereum/pull/35008) - 2026-05-19
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Review] [Review on: cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575#pullrequestreview-4195917013) - 2026-04-29
 

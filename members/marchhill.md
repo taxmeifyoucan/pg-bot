@@ -42,6 +42,12 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Bal devnet 6 benchmarks test](https://github.com/NethermindEth/nethermind/pull/11557) - 2026-05-11
 * [Pull Request] [Bal devnet 7 benchmarks](https://github.com/NethermindEth/nethermind/pull/11573) - 2026-05-12
 * [Pull Request] [refactor(evm): collapse CALL 63/64 gas-rule branch into single OOG check](https://github.com/NethermindEth/nethermind/pull/11621) - 2026-05-15
+* [Review] [Review on: perf(bal): account-presence bitmap + storage_reads on column index — skip-merge](https://github.com/NethermindEth/nethermind/pull/11661#pullrequestreview-4319543772) - 2026-05-19
+* [Pull Request] [Add agent rules: git, comment styles, linting, ArrayPooList](https://github.com/NethermindEth/nethermind/pull/11687) - 2026-05-19
+* [Review] [Review on: perf(bal): verify-only fast path — skip end-of-block encode + Keccak](https://github.com/NethermindEth/nethermind/pull/11659#pullrequestreview-4319453921) - 2026-05-19
+* [Review] [Review on: perf(bal): SoA uint[] index lanes on the BAL read hot path](https://github.com/NethermindEth/nethermind/pull/11656#pullrequestreview-4317413603) - 2026-05-19
+* [Review] [Review on: perf(bal): inline-1 ReadOnlySlotChanges for the common single-change case](https://github.com/NethermindEth/nethermind/pull/11658#pullrequestreview-4319266284) - 2026-05-19
+* [Commit] [Bal devnet 7 benchmarks (#11573)](https://github.com/NethermindEth/nethermind/commit/40e379a6292363fa3ae4d48470c57022045f14a4) - 2026-05-19
 ## Q1 2026
 
 

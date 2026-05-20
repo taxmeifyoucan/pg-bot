@@ -248,6 +248,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Enable more ruff lint checks](https://github.com/ethereum/consensus-specs/pull/5268) - 2026-05-18
 * [Review] [Review on: Fix invalid block-root membership check in fork-choice helper](https://github.com/ethereum/consensus-specs/pull/5259#pullrequestreview-4314546707) - 2026-05-18
 * [Commit] [Use custom ruff which checks markdown code blocks (#5261)](https://github.com/ethereum/consensus-specs/commit/4a4937bea332d72a55a76aaebcb97fbcdc189f69) - 2026-05-18
+* [Review] [Review on: Redesign Fork Choice abstractions](https://github.com/ethereum/consensus-specs/pull/5249#pullrequestreview-4321077164) - 2026-05-19
+* [Pull Request] [Clarify sentence about refunded deposits to exited builders](https://github.com/ethereum/consensus-specs/pull/5269) - 2026-05-19
+* [Pull Request] [Remove testing checklists](https://github.com/ethereum/consensus-specs/pull/5270) - 2026-05-19
+* [Commit] [Clarify sentence about refunded deposits to exited builders (#5269)](https://github.com/ethereum/consensus-specs/commit/915eb3069ad64af910e0e22cf76fd5d2e5e2a574) - 2026-05-19
+* [Commit] [Remove testing checklists (#5270)](https://github.com/ethereum/consensus-specs/commit/b58f7850f1fa1818f4ab56b48909c7bf5fdaa0f9) - 2026-05-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

@@ -40,6 +40,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Pull Request] [Redesign Fork Choice abstractions](https://github.com/ethereum/consensus-specs/pull/5249) - 2026-05-13
 * [Review] [Review on: Redesign Fork Choice abstractions](https://github.com/ethereum/consensus-specs/pull/5249#pullrequestreview-4284376970) - 2026-05-13
 * [Review] [Review on: Embed `payload_status` into `head` fork choice check](https://github.com/ethereum/consensus-specs/pull/5250#pullrequestreview-4287323519) - 2026-05-14
+* [Review] [Review on: Clarify sentence about refunded deposits to exited builders](https://github.com/ethereum/consensus-specs/pull/5269#pullrequestreview-4319468256) - 2026-05-19
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

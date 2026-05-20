@@ -151,6 +151,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: upgrade to alpha.8 spec](https://github.com/ChainSafe/lodestar/pull/9375#pullrequestreview-4308385067) - 2026-05-18
 * [Commit] [fix: cache pending deposit signature verifications (#9374)](https://github.com/ChainSafe/lodestar/commit/38cd4b01e7582637a0e9bc444744de87ffa83a73) - 2026-05-18
 * [Commit] [fix: handle ptc votes from same duplicated validators (#9369)](https://github.com/ChainSafe/lodestar/commit/4451fec75a7fcc8daccf02d452e6314bf63a7a52) - 2026-05-18
+* [Pull Request] [feat: upgrade to v1.7.0-alpha.8 spec](https://github.com/ChainSafe/lodestar/pull/9383) - 2026-05-19
+* [Review] [Review on: chore: v1.43.0 release](https://github.com/ChainSafe/lodestar/pull/9344#pullrequestreview-4324614787) - 2026-05-20
+* [Pull Request] [fix: download proposer duties for the next epoch post-fulu](https://github.com/ChainSafe/lodestar/pull/9380) - 2026-05-19
+* [Review] [Review on: fix: download proposer duties for the next epoch post-fulu](https://github.com/ChainSafe/lodestar/pull/9380#pullrequestreview-4317049801) - 2026-05-19
+* [Review] [Review on: feat: add proposer preferences](https://github.com/ChainSafe/lodestar/pull/9377#pullrequestreview-4315330025) - 2026-05-19
+* [Issue] [Dedup caches in favor of ProposerPreferencesPool](https://github.com/ChainSafe/lodestar/issues/9379) - 2026-05-19
+* [Commit] [fix: download proposer duties for the next epoch post-fulu (#9380)](https://github.com/ChainSafe/lodestar/commit/c5efeb6c907f3b284ea910b2af24d2ad0259b99f) - 2026-05-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

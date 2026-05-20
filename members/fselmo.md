@@ -77,6 +77,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(tests): eip7928 checklist v1](https://github.com/ethereum/execution-specs/pull/2859#pullrequestreview-4301197160) - 2026-05-15
 * [Review] [Review on: fix(tests): drop gas_price from EIP-7702 txs in BAL 7702 tests](https://github.com/ethereum/execution-specs/pull/2862#pullrequestreview-4299714556) - 2026-05-15
 * [Commit] [feat(tests): eip7928 checklist v1 (#2859)](https://github.com/ethereum/execution-specs/commit/892e6d1e10e408c848c68b4fabb3853375f62505) - 2026-05-15
+* [Review] [Review on: chore(spec-tool): check bpo forks in linter](https://github.com/ethereum/execution-specs/pull/2803#pullrequestreview-4323727446) - 2026-05-19
+* [Review] [Review on: fix(tests): call delegation access disambiguation](https://github.com/ethereum/execution-specs/pull/2882#pullrequestreview-4319938528) - 2026-05-19
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14
@@ -90,6 +92,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141218984) - 2026-04-20
 
+* [Review] [Review on: Update EIP-7928: Clarify edge case aorund 7702 insufficient gas](https://github.com/ethereum/EIPs/pull/11699#pullrequestreview-4320545252) - 2026-05-19
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Pull Request] [cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575) - 2026-04-29
 ## Q1 2026

@@ -425,6 +425,19 @@ Team: Reth
 * [Commit] [fix(rpc): remove stale debug endpoints (#24284)](https://github.com/paradigmxyz/reth/commit/29d9241f678d4724ec83e9b02f60cd0f876c2d28) - 2026-05-18
 * [Commit] [feat(rpc): add builder submission v6 validation (#24170)](https://github.com/paradigmxyz/reth/commit/04d67cb148cd691571517e85e15ce683447266fd) - 2026-05-18
 * [Commit] [chore: bump alloy to 2.0.5 (#24289)](https://github.com/paradigmxyz/reth/commit/062dd7122636a17697fe7df3e336561d75b7f4aa) - 2026-05-18
+* [Review] [Review on: docs: promote storage mode docs](https://github.com/paradigmxyz/reth/pull/24351#pullrequestreview-4320734868) - 2026-05-19
+* [Review] [Review on: chore: add support for Eth capabilities](https://github.com/paradigmxyz/reth/pull/24298#pullrequestreview-4316376795) - 2026-05-19
+* [Review] [Review on: fix(op): prioritize head over finalized as backfill target on OP Stack](https://github.com/paradigmxyz/reth/pull/24159#pullrequestreview-4318387182) - 2026-05-19
+* [Review] [Review on: feat(rpc): add `eth_resend`](https://github.com/paradigmxyz/reth/pull/24339#pullrequestreview-4318524952) - 2026-05-19
+* [Pull Request] [fix(rpc): suppress unstable engine capability warnings](https://github.com/paradigmxyz/reth/pull/24338) - 2026-05-19
+* [Review] [Review on: chore(deps): bump the cargo-weekly group across 1 directory with 13 updates](https://github.com/paradigmxyz/reth/pull/24330#pullrequestreview-4318083693) - 2026-05-19
+* [Review] [Review on: perf(engine): defer BAL flush after persistence ack](https://github.com/paradigmxyz/reth/pull/24333#pullrequestreview-4317498477) - 2026-05-19
+* [Review] [Review on: perf: keep small save block tx numbers inline](https://github.com/paradigmxyz/reth/pull/24318#pullrequestreview-4316305027) - 2026-05-19
+* [Review] [Review on: Externevm v0](https://github.com/paradigmxyz/reth/pull/24329#pullrequestreview-4317468977) - 2026-05-19
+* [Review] [Review on: fix(net): validate eth/68 pooled tx response metadata](https://github.com/paradigmxyz/reth/pull/23861#pullrequestreview-4317444299) - 2026-05-19
+* [Review] [Review on: perf: gate per-transaction execution spans](https://github.com/paradigmxyz/reth/pull/24311#pullrequestreview-4316320629) - 2026-05-19
+* [Commit] [feat(rpc): add debug account state endpoints (#24296)](https://github.com/paradigmxyz/reth/commit/fa88516558a7c41ceb19d4ecbece403153528706) - 2026-05-19
+* [Commit] [fix(rpc): suppress unstable engine capability warnings (#24338)](https://github.com/paradigmxyz/reth/commit/2b1eb37a5723df11c4ebaedc8f580b3ede784a83) - 2026-05-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

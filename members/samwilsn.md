@@ -56,6 +56,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(spec-specs,test-types): replace `pycryptodome` with `hashlib` for keccak](https://github.com/ethereum/execution-specs/pull/2370#pullrequestreview-4283232799) - 2026-05-13
 * [Review] [Review on: refactor(spec-specs,test-types): replace `pycryptodome` with `hashlib` for keccak](https://github.com/ethereum/execution-specs/pull/2370#pullrequestreview-4291782141) - 2026-05-14
 * [Pull Request] [chore(specs): add missing type annotations](https://github.com/ethereum/execution-specs/pull/2868) - 2026-05-17
+* [Review] [Review on: chore(spec-tool): check bpo forks in linter](https://github.com/ethereum/execution-specs/pull/2803#pullrequestreview-4323838121) - 2026-05-19
+* [Commit] [chore(spec-tool): check bpo forks in linter (#2803)](https://github.com/ethereum/execution-specs/commit/21507778e593c9172c3d91844b616b42c2dc4afb) - 2026-05-19
 ## Q1 2026
 
 
