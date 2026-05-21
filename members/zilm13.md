@@ -75,6 +75,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Count PTC votes from duplicated validators + apply attestations from blocks](https://github.com/Consensys/teku/pull/10732) - 2026-05-19
 * [Review] [Review on: Improve data column sidecar pruning stream handling](https://github.com/Consensys/teku/pull/10725#pullrequestreview-4319920512) - 2026-05-19
 * [Issue] [Gloas: pre-validate pending deposit signatures before fork](https://github.com/Consensys/teku/issues/10730) - 2026-05-19
+* [Review] [Review on: Re-enable gossip ref tests](https://github.com/Consensys/teku/pull/10726#pullrequestreview-4330552997) - 2026-05-20
+* [Review] [Review on: Improve data column sidecar pruning stream handling](https://github.com/Consensys/teku/pull/10725#pullrequestreview-4332600990) - 2026-05-20
+* [Review] [Review on: Optimize onboarding builders at the fork](https://github.com/Consensys/teku/pull/10729#pullrequestreview-4329501784) - 2026-05-20
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

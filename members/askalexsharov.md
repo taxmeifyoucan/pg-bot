@@ -561,6 +561,13 @@ Team: Erigon
 * [Pull Request] [Revert "db/state: remove CheckSnapshotsCompatibility (pre-3.1 compat check) (#20746)"](https://github.com/erigontech/erigon/pull/21268) - 2026-05-19
 * [Issue] [oom: during `PersistentBlockColletor.Flush`](https://github.com/erigontech/erigon/issues/21267) - 2026-05-19
 * [Commit] [Revert "db/state: remove CheckSnapshotsCompatibility (pre-3.1 compat check) (#20746)" (#21268)](https://github.com/erigontech/erigon/commit/0e0ac91185771454970f8dbe75b1c86df4b73288) - 2026-05-19
+* [Pull Request] [[wip] flush block overlay after each InsertBlocks batch (fix OOM)](https://github.com/erigontech/erigon/pull/21300) - 2026-05-20
+* [Review] [Review on: rpc: return null v,r,s for unsigned transactions in eth_getBlockNumber](https://github.com/erigontech/erigon/pull/21321#pullrequestreview-4333254509) - 2026-05-21
+* [Review] [Review on: skill: fix mdbx_copy destination path in erigon-mdbx-compact](https://github.com/erigontech/erigon/pull/21288#pullrequestreview-4325471113) - 2026-05-20
+* [Review] [Review on: cmd/integration, db/state: add --continue flag for commitment convert](https://github.com/erigontech/erigon/pull/21283#pullrequestreview-4325574204) - 2026-05-20
+* [Review] [Review on: execution/rlp, execution/types: cut RLP header-decode allocations](https://github.com/erigontech/erigon/pull/21287#pullrequestreview-4325509674) - 2026-05-20
+* [Issue] [Recheck Downloader logic](https://github.com/erigontech/erigon/issues/21324) - 2026-05-21
+* [Issue] [Prune frozen files support](https://github.com/erigontech/erigon/issues/21306) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

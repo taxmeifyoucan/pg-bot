@@ -67,6 +67,7 @@ Team: Reth
 * [Pull Request] [perf: worker floor](https://github.com/paradigmxyz/reth/pull/24247) - 2026-05-14
 * [Commit] [ci(bench): add benchmarkoor replay workflow (#24172)](https://github.com/paradigmxyz/reth/commit/4b73a2417095416ce996f050ded39150ef244f87) - 2026-05-14
 * [Commit] [ci: remove temporary branch trigger from benchmarkoor workflow (#24252)](https://github.com/paradigmxyz/reth/commit/f0bf0995555cbc35d2c55ceca36848fd46211011) - 2026-05-19
+* [Pull Request] [fix(engine): add benchmark-only state root skip mode](https://github.com/paradigmxyz/reth/pull/24378) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
 ## Q1 2026

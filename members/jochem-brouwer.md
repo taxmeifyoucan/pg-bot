@@ -49,6 +49,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Remove pre-Spurious-Dragon accounts](https://github.com/ethereum/EIPs/pull/11605#pullrequestreview-4239740446) - 2026-05-06
 * [Review] [Review on: Update EIP-8025: Move to Draft](https://github.com/ethereum/EIPs/pull/11604#pullrequestreview-4260052636) - 2026-05-10
 * [Review] [Review on: Add EIP: Gas Limit Schedule](https://github.com/ethereum/EIPs/pull/11644#pullrequestreview-4270958607) - 2026-05-12
+* [Pull Request] [Update EIP-8253: edit title](https://github.com/ethereum/EIPs/pull/11713) - 2026-05-21
+* [Review] [Review on: Add EIP: Blob Streaming](https://github.com/ethereum/EIPs/pull/11610#pullrequestreview-4333187212) - 2026-05-21
+* [Commit] [Add EIP: Upgrade pre-Spurious-Dragon accounts](https://github.com/ethereum/EIPs/commit/60ecb84f2414387464d708e615392c45b819e5e7) - 2026-05-21
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Correctly name devnet-2 genesis and introduce devnet-3 genesis](https://github.com/NethermindEth/gas-benchmarks/pull/139) - 2026-04-22
 

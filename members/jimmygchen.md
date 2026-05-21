@@ -63,6 +63,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Dont penalize payload envelope peers after gossip verification](https://github.com/sigp/lighthouse/pull/9283#pullrequestreview-4261187298) - 2026-05-11
 * [Review] [Review on: Gloas add spans for deposit signature verification](https://github.com/sigp/lighthouse/pull/9302#pullrequestreview-4287454759) - 2026-05-14
 * [Review] [Review on: Fix non-canonical payload attestation processing](https://github.com/sigp/lighthouse/pull/9305#pullrequestreview-4310785262) - 2026-05-18
+* [Pull Request] [Add gossip validation spec tests for proposer/attester slashings](https://github.com/sigp/lighthouse/pull/9323) - 2026-05-20
+* [Review] [Review on: Add gossip validation spec tests for proposer/attester slashings](https://github.com/sigp/lighthouse/pull/9323#pullrequestreview-4333128012) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026

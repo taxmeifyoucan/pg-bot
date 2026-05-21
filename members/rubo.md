@@ -100,6 +100,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(ci): Disable .NET package caching (#11653)](https://github.com/NethermindEth/nethermind/commit/0356a4adf295289df22e59914d4eec68651e8911) - 2026-05-18
 * [Pull Request] [chore(ai): Remove unused stuff](https://github.com/NethermindEth/nethermind/pull/11690) - 2026-05-19
 * [Review] [Review on: fix(rlpx): drop racy OnSessionDisconnected fallback in shutdown](https://github.com/NethermindEth/nethermind/pull/11688#pullrequestreview-4320842174) - 2026-05-19
+* [Review] [Review on: fix: update sync workflow to ensure approvals are based on current head SHA for forked PRs](https://github.com/NethermindEth/nethermind/pull/11685#pullrequestreview-4329845418) - 2026-05-20
+* [Review] [Review on: Gate gas benchmark workflow for fork PRs](https://github.com/NethermindEth/nethermind/pull/11684#pullrequestreview-4329854130) - 2026-05-20
+* [Review] [Review on: Harden sync PR gate](https://github.com/NethermindEth/nethermind/pull/11704#pullrequestreview-4332123582) - 2026-05-20
+* [Review] [Review on: Add agent rules: git, comment styles, linting, ArrayPooList](https://github.com/NethermindEth/nethermind/pull/11687#pullrequestreview-4327398011) - 2026-05-20
+* [Commit] [feat(zkevm): Migrate stateless I/O to the SSZ standard (#11625)](https://github.com/NethermindEth/nethermind/commit/b4ffd8b639895e6099da03019e1ada82121a0483) - 2026-05-20
+* [Commit] [chore(ai): Remove unused stuff (#11690)](https://github.com/NethermindEth/nethermind/commit/f0e6886f5507c947d3334faefca4c6a2dd195659) - 2026-05-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 ## Q1 2026

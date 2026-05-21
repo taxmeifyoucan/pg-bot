@@ -424,6 +424,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution: optimise parallel exec with BALs for same-sender conflicts in precompile benchmarks](https://github.com/erigontech/erigon/pull/21240#pullrequestreview-4317288988) - 2026-05-19
 * [Issue] [execution/types/accounts: drop tolerant DeserialiseV3 path after AccountsDomain snapshots are rebuilt](https://github.com/erigontech/erigon/issues/21291) - 2026-05-19
 * [Issue] [rpc: trace_* should return explicit error when config.Tracer is set](https://github.com/erigontech/erigon/issues/21273) - 2026-05-19
+* [Pull Request] [db/kv/membatchwithdb: use Append in MemoryMutation.Flush for sorted-key tables](https://github.com/erigontech/erigon/pull/21313) - 2026-05-20
+* [Review] [Review on: rpc: implement eth_capabilities method](https://github.com/erigontech/erigon/pull/20951#pullrequestreview-4326030722) - 2026-05-20
+* [Review] [Review on: execution: fix parallel-exec SD-recreate flake + validator false positives](https://github.com/erigontech/erigon/pull/21294#pullrequestreview-4326292407) - 2026-05-20
+* [Review] [Review on: [SharovBot] cmd/integration: guard nil tx in stageExec rollback](https://github.com/erigontech/erigon/pull/21304#pullrequestreview-4327644649) - 2026-05-20
+* [Pull Request] [db/state: cache findShortenedKey per commitmentValTransformDomain merge](https://github.com/erigontech/erigon/pull/21303) - 2026-05-20
+* [Review] [Review on: db/state: cache findShortenedKey per commitmentValTransformDomain merge](https://github.com/erigontech/erigon/pull/21303#pullrequestreview-4328549798) - 2026-05-20
+* [Review] [Review on: node: fix HTTP RPC vhost checks for mixed-case Host headers](https://github.com/erigontech/erigon/pull/21243#pullrequestreview-4326070326) - 2026-05-20
+* [Review] [Review on: execution/exec: return on empty AA validation results](https://github.com/erigontech/erigon/pull/21299#pullrequestreview-4326197808) - 2026-05-20
+* [Review] [Review on: caplin: persist node key across restarts for stable ENR](https://github.com/erigontech/erigon/pull/21276#pullrequestreview-4325963392) - 2026-05-20
+* [Issue] [Build SD-aware temporal view to remove FcuBackgroundCommit RPC plain-tx reverts](https://github.com/erigontech/erigon/issues/21314) - 2026-05-20
+* [Issue] [[EngineBlockDownloader] could not process backward download request](https://github.com/erigontech/erigon/issues/21311) - 2026-05-20
+* [Issue] [debug_executionWitness should be 100% correct and work fine for Zilkworm](https://github.com/erigontech/erigon/issues/21307) - 2026-05-20
+* [Commit] [execution/commitment/trie, execution/state: clean up dead trie/HashBuilder code (#21284)](https://github.com/erigontech/erigon/commit/d6e0fb0fadb9532d208ceeea539215b3e8af0c27) - 2026-05-20
+* [Commit] [execution/state: exclude own-tx writes from SD revival check (#21286)](https://github.com/erigontech/erigon/commit/e3f36d9ce1b9d032507ecf61d48ebc029ebf7558) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

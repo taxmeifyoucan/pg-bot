@@ -50,6 +50,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: move lightclient and prover to external repo](https://github.com/ChainSafe/lodestar/pull/9346#pullrequestreview-4262147078) - 2026-05-11
 * [Review] [Review on: fix(ci): set registry-url for OIDC publish under pnpm v11](https://github.com/ChainSafe/lodestar/pull/9368#pullrequestreview-4285267122) - 2026-05-13
 * [Review] [Review on: fix(ci): install caxa via npx to unblock binary release under pnpm v11](https://github.com/ChainSafe/lodestar/pull/9367#pullrequestreview-4284826238) - 2026-05-13
+* [Pull Request] [chore: merge v1.43.0 back to unstable](https://github.com/ChainSafe/lodestar/pull/9386) - 2026-05-20
+* [Commit] [Merge branch 'stable' into unstable](https://github.com/ChainSafe/lodestar/commit/552cdce8d02ac5ba902e8450573cc94d2d8d23b0) - 2026-05-20
+* [Commit] [chore: v1.43.0 release (#9344)](https://github.com/ChainSafe/lodestar/commit/5cb87b7632ff76f9f93947147967618b26da2d0c) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494) - 2026-04-15
 ## Q1 2026

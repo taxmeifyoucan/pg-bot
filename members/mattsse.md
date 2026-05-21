@@ -438,6 +438,16 @@ Team: Reth
 * [Review] [Review on: perf: gate per-transaction execution spans](https://github.com/paradigmxyz/reth/pull/24311#pullrequestreview-4316320629) - 2026-05-19
 * [Commit] [feat(rpc): add debug account state endpoints (#24296)](https://github.com/paradigmxyz/reth/commit/fa88516558a7c41ceb19d4ecbece403153528706) - 2026-05-19
 * [Commit] [fix(rpc): suppress unstable engine capability warnings (#24338)](https://github.com/paradigmxyz/reth/commit/2b1eb37a5723df11c4ebaedc8f580b3ede784a83) - 2026-05-19
+* [Pull Request] [fix(import): skip invalid blocks during file decode instead of aborting](https://github.com/paradigmxyz/reth/pull/24379) - 2026-05-20
+* [Review] [Review on: feat: integrate revmc JIT](https://github.com/paradigmxyz/reth/pull/23230#pullrequestreview-4329944289) - 2026-05-20
+* [Review] [Review on: chore: add support for Eth capabilities](https://github.com/paradigmxyz/reth/pull/24298#pullrequestreview-4326513024) - 2026-05-20
+* [Pull Request] [fix(net): default discv5 to share the discv4 port](https://github.com/paradigmxyz/reth/pull/24377) - 2026-05-20
+* [Review] [Review on: feat(trie): geth-compatible zero hashes for non-existent accounts in eth_getProof](https://github.com/paradigmxyz/reth/pull/24360#pullrequestreview-4325699900) - 2026-05-20
+* [Review] [Review on: feat: add shared cell-custody](https://github.com/paradigmxyz/reth/pull/24364#pullrequestreview-4329761780) - 2026-05-20
+* [Pull Request] [fix: enforce secp256k1 feature propagation](https://github.com/paradigmxyz/reth/pull/24365) - 2026-05-20
+* [Commit] [fix: enforce secp256k1 feature propagation (#24365)](https://github.com/paradigmxyz/reth/commit/6c3fe54b2ab3ec099b81f2a38287969478c12830) - 2026-05-20
+* [Commit] [perf: use B256Map for hash-keyed maps (#24372)](https://github.com/paradigmxyz/reth/commit/d4ac2a5fb433a72a6124aefe2e97b9f8ed1d9d6f) - 2026-05-20
+* [Commit] [docs(net): clarify eth/72 cell mask (#24363)](https://github.com/paradigmxyz/reth/commit/cdb02a5bc708759058924942aece2d5a2c826129) - 2026-05-20
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

@@ -40,6 +40,7 @@ Team: Grandine
 * [Review] [Review on: Modify safe_block_hash and finalized_block_hash in notify_forkchoice_updated for Gloas](https://github.com/grandinetech/grandine/pull/702#pullrequestreview-4316738401) - 2026-05-19
 * [Review] [Review on: Use `should_build_on_full` instead of `should_extend_payload` in `prepare_execution_payload`](https://github.com/grandinetech/grandine/pull/701#pullrequestreview-4316540630) - 2026-05-19
 * [Review] [Review on: Add execution_payload and execution_payload_gossip event](https://github.com/grandinetech/grandine/pull/690#pullrequestreview-4316524926) - 2026-05-19
+* [Review] [Review on: Test full epoch processing](https://github.com/grandinetech/grandine/pull/680#pullrequestreview-4328184134) - 2026-05-20
 ## Q1 2026
 
 

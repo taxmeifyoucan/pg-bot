@@ -55,6 +55,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Lowercase telemetry service names](https://github.com/ethpandaops/xatu/pull/843) - 2026-05-19
 * [Commit] [Scope consumoor Kafka traces (#844)](https://github.com/ethpandaops/xatu/commit/8b98f5b16cba7d7b734074df87262374dceceb6b) - 2026-05-19
 * [Commit] [lowercase telemetry service names (#843)](https://github.com/ethpandaops/xatu/commit/7dc8cad6bc4d9a95d0c21bdf25c17e036ced5372) - 2026-05-19
+* [Pull Request] [feat(sentry-logs): make the xatu sink buffer/concurrency/timeout env-tunable](https://github.com/ethpandaops/xatu/pull/846) - 2026-05-20
+* [Commit] [feat(sentry-logs): make the xatu sink buffer/concurrency/timeout env-tunable (#846)](https://github.com/ethpandaops/xatu/commit/75877668ac0ce071b61b02e668cef514a409f7ef) - 2026-05-21
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23
@@ -67,6 +69,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168) - 2026-05-12
 * [Review] [Review on: vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168#pullrequestreview-4268518279) - 2026-05-12
 * [Pull Request] [inventory: rename ethereum_node_fact_{cl_enr,el_enode} → _discovery_ variants](https://github.com/ethpandaops/template-devnets/pull/169) - 2026-05-19
+* [Commit] [inventory: rename ethereum_node_fact_{cl_enr,el_enode} → _discovery_ variants (#169)](https://github.com/ethpandaops/template-devnets/commit/708da92dd70deb2c8139f6f4acaff36314b1fb96) - 2026-05-21
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Review] [Review on: feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167#pullrequestreview-4232485880) - 2026-05-06
 

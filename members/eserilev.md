@@ -92,6 +92,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [Accept external bids during block production](https://github.com/sigp/lighthouse/issues/9316) - 2026-05-18
 * [Review] [Review on: Builder deposits optimisation](https://github.com/sigp/lighthouse/pull/9311#pullrequestreview-4317557914) - 2026-05-19
 * [Review] [Review on: Gloas alpha spec 8](https://github.com/sigp/lighthouse/pull/9315#pullrequestreview-4316774819) - 2026-05-19
+* [Review] [Review on: Gloas alpha spec 8](https://github.com/sigp/lighthouse/pull/9315#pullrequestreview-4328257317) - 2026-05-20
+* [Review] [Review on: Gloas lookup sync boilerplate](https://github.com/sigp/lighthouse/pull/9322#pullrequestreview-4325618948) - 2026-05-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

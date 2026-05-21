@@ -51,6 +51,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Commit] [Update EIP-8037: Update parameters and rationale section](https://github.com/ethereum/EIPs/commit/34258fc205d83fe2d560b91814057041dfbbb5f9) - 2026-05-13
 * [Commit] [Update EIP-8038: Align with 8037 and clarify spec & rationale](https://github.com/ethereum/EIPs/commit/85fe2077e4498e7d5c7fcf979961ad4aac8e6fbd) - 2026-05-13
 * [Review] [Review on: Update EIP-8038: Update write cost condition in SSTORE formula](https://github.com/ethereum/EIPs/pull/11696#pullrequestreview-4318718516) - 2026-05-19
+* [Pull Request] [Update EIP-8037: Calldata floor accounting alignment & call-frame refill clarification](https://github.com/ethereum/EIPs/pull/11706) - 2026-05-20
 ## Q1 2026
 
 

@@ -48,6 +48,13 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: perf(bal): SoA uint[] index lanes on the BAL read hot path](https://github.com/NethermindEth/nethermind/pull/11656#pullrequestreview-4317413603) - 2026-05-19
 * [Review] [Review on: perf(bal): inline-1 ReadOnlySlotChanges for the common single-change case](https://github.com/NethermindEth/nethermind/pull/11658#pullrequestreview-4319266284) - 2026-05-19
 * [Commit] [Bal devnet 7 benchmarks (#11573)](https://github.com/NethermindEth/nethermind/commit/40e379a6292363fa3ae4d48470c57022045f14a4) - 2026-05-19
+* [Review] [Review on: perf(bal): fuse Build() walks into a single pass](https://github.com/NethermindEth/nethermind/pull/11676#pullrequestreview-4329993272) - 2026-05-20
+* [Review] [Review on: perf(bal): cache wire BAL hash on ReadOnlyBlockAccessList](https://github.com/NethermindEth/nethermind/pull/11668#pullrequestreview-4328637331) - 2026-05-20
+* [Pull Request] [Reduce allocations BAL generation](https://github.com/NethermindEth/nethermind/pull/11702) - 2026-05-20
+* [Review] [Review on: Reduce allocations BAL generation](https://github.com/NethermindEth/nethermind/pull/11702#pullrequestreview-4329799107) - 2026-05-20
+* [Review] [Review on: perf(bal): insertion sort for small column-index lane rows](https://github.com/NethermindEth/nethermind/pull/11671#pullrequestreview-4328685112) - 2026-05-20
+* [Pull Request] [Simplify pruning cutoff & separate for BALs](https://github.com/NethermindEth/nethermind/pull/11701) - 2026-05-20
+* [Commit] [Add agent rules: git, comment styles, linting, ArrayPooList (#11687)](https://github.com/NethermindEth/nethermind/commit/710c8c4a9059b02d63181df13f1b6e9f524f3006) - 2026-05-20
 ## Q1 2026
 
 

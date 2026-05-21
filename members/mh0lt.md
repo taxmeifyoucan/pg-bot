@@ -188,6 +188,13 @@ Team: Erigon
 * [Pull Request] [execution/engineapi/engineapitester: respect caller deadline in RetryEngine](https://github.com/erigontech/erigon/pull/21274) - 2026-05-19
 * [Issue] [execution/state: collapse BlockStateCache write-buffer into direct SharedDomains writes](https://github.com/erigontech/erigon/issues/21285) - 2026-05-19
 * [Commit] [execution/engineapi/engineapitester: respect caller deadline in RetryEngine (#21274)](https://github.com/erigontech/erigon/commit/2d99c85a25f02c909cfa27aa71e431578cdc7da7) - 2026-05-19
+* [Pull Request] [execution/state: per-path revival resolution in versionedRead](https://github.com/erigontech/erigon/pull/21323) - 2026-05-20
+* [Review] [Review on: execution: fix parallel-exec SD-recreate flake + validator false positives](https://github.com/erigontech/erigon/pull/21294#pullrequestreview-4327678014) - 2026-05-20
+* [Review] [Review on: execution/state: exclude own-tx writes from SD revival check](https://github.com/erigontech/erigon/pull/21286#pullrequestreview-4325309631) - 2026-05-20
+* [Issue] [parallel-exec: remove skipCheck and the heuristics compensating for skip-overridden results](https://github.com/erigontech/erigon/issues/21319) - 2026-05-20
+* [Issue] [parallel-exec: validateReadImpl recursive cross-validate probes are inert no-ops](https://github.com/erigontech/erigon/issues/21318) - 2026-05-20
+* [Commit] [execution: fix parallel-exec SD-recreate flake + validator false positives (#21294)](https://github.com/erigontech/erigon/commit/8990fc459394b44b1092f2c1367d8ba10b66ec69) - 2026-05-20
+* [Commit] [execution/rlp, execution/types: cut RLP header-decode allocations (#21287)](https://github.com/erigontech/erigon/commit/e00f595661a6060691c8c53602b13e7eb8532cd1) - 2026-05-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

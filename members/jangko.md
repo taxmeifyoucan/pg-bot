@@ -60,6 +60,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [EIP-8037 sstore/collision clear dynamics](https://github.com/status-im/nimbus-eth1/pull/4251) - 2026-05-19
 * [Commit] [bal-devnet-7 (#4227)](https://github.com/status-im/nimbus-eth1/commit/4f5716ef50074b69749a0c3d9728754eae686169) - 2026-05-18
 * [Commit] [EIP-8037 sstore/collision clear dynamics (#4251)](https://github.com/status-im/nimbus-eth1/commit/0723b817da29e7a13d1d1aaeec79224e437cfaf5) - 2026-05-19
+* [Pull Request] [Use targetGasLimit of engine API PayloadAttributesV4](https://github.com/status-im/nimbus-eth1/pull/4258) - 2026-05-20
+* [Pull Request] [Revert BAL workaround of delegated target in CALL* opcodes](https://github.com/status-im/nimbus-eth1/pull/4257) - 2026-05-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 ## Q1 2026

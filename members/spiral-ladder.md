@@ -101,6 +101,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat: support bitArrays in to_napi_value](https://github.com/ChainSafe/lodestar-z/pull/368) - 2026-05-19
 * [Commit] [chore: release v0.1.2-rc.3 (#370)](https://github.com/ChainSafe/lodestar-z/commit/e4fc551c42cb9ee1280f9dc1b576e0b4c790ee34) - 2026-05-19
 * [Commit] [fix: re-expose sizes (#369)](https://github.com/ChainSafe/lodestar-z/commit/64b81f34e346dbca9cc05697f0b59977cab2bff4) - 2026-05-19
+* [Review] [Review on: feat(bindings): align `BeaconStateView` with `IBeaconStateView`](https://github.com/ChainSafe/lodestar-z/pull/347#pullrequestreview-4326098512) - 2026-05-20
+* [Review] [Review on: feat: support bitArrays in to_napi_value](https://github.com/ChainSafe/lodestar-z/pull/368#pullrequestreview-4326364039) - 2026-05-20
+* [Commit] [feat: support getLatestWeakSubjectivityCheckpointEpoch (#366)](https://github.com/ChainSafe/lodestar-z/commit/dcf3883e49bf47f0804fdfb649e328ce98b0f84d) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 
@@ -110,6 +113,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat: consume asyncAggregateWithRandomness branch from lodestar-z](https://github.com/ChainSafe/lodestar/pull/9342) - 2026-05-08
 * [Pull Request] [chore: install zig 0.16.0 in Dockerfile](https://github.com/ChainSafe/lodestar/pull/9371) - 2026-05-14
 * [Review] [Review on: chore: install zig 0.16.0 in Dockerfile](https://github.com/ChainSafe/lodestar/pull/9371#pullrequestreview-4288639588) - 2026-05-14
+* [Commit] [chore: support dev lodestar-z workflow (#9371)](https://github.com/ChainSafe/lodestar/commit/6ef8199cfae3693f24596817a69b855036dfb7ba) - 2026-05-20
 ## Q1 2026
 
 

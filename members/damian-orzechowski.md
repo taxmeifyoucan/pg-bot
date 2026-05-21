@@ -36,6 +36,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test: stabilize getPayloadV1 improving-blocks and Simple_test_sync](https://github.com/NethermindEth/nethermind/pull/11568#pullrequestreview-4271180222) - 2026-05-12
 * [Review] [Review on: feat: upstream changes for ArbOS 60 multi-gas constraints](https://github.com/NethermindEth/nethermind/pull/10765#pullrequestreview-4311523513) - 2026-05-18
 * [Review] [Review on: Fix FCU validation order](https://github.com/NethermindEth/nethermind/pull/11681#pullrequestreview-4319521478) - 2026-05-19
+* [Review] [Review on: Make RefundOnContractCollision available for override in Arbitrum plugin](https://github.com/NethermindEth/nethermind/pull/11698#pullrequestreview-4327261954) - 2026-05-20
+* [Pull Request] [Restore method access - `RefundOnContractCollision`](https://github.com/NethermindEth/nethermind/pull/11699) - 2026-05-20
 ## Q1 2026
 
 

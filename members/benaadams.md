@@ -210,6 +210,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(bal): inline-1 ReadOnlySlotChanges for the common single-change case](https://github.com/NethermindEth/nethermind/pull/11658#pullrequestreview-4319168475) - 2026-05-19
 * [Review] [Review on: Bal devnet 7 benchmarks](https://github.com/NethermindEth/nethermind/pull/11573#pullrequestreview-4318142006) - 2026-05-19
 * [Commit] [fix(devnet-7): reject txs exceeding EIP-8037 intrinsic gas cap; skip BAL no-op code (#11635)](https://github.com/NethermindEth/nethermind/commit/61a5bbf845aa31cacd005c152e026ba4cd14cdbd) - 2026-05-19
+* [Pull Request] [Improve JsonRpc plumbing](https://github.com/NethermindEth/nethermind/pull/11697) - 2026-05-20
+* [Review] [Review on: Improve JsonRpc plumbing](https://github.com/NethermindEth/nethermind/pull/11697#pullrequestreview-4330276280) - 2026-05-20
+* [Review] [Review on: fix(txpool): fix stale pending transaction snapshot after head update](https://github.com/NethermindEth/nethermind/pull/10604#pullrequestreview-4330973823) - 2026-05-20
+* [Review] [Review on: perf(bal): fuse Build() walks into a single pass](https://github.com/NethermindEth/nethermind/pull/11676#pullrequestreview-4330444043) - 2026-05-20
+* [Review] [Review on: perf(bal): replace SortedDictionary/SortedSet aggregates with Dictionary/HashSet](https://github.com/NethermindEth/nethermind/pull/11672#pullrequestreview-4330490228) - 2026-05-20
+* [Review] [Review on: perf(bal): cache wire BAL hash on ReadOnlyBlockAccessList](https://github.com/NethermindEth/nethermind/pull/11668#pullrequestreview-4329900521) - 2026-05-20
+* [Review] [Review on: Avoid bucket snapshot allocation in BalanceTooLowFilter](https://github.com/NethermindEth/nethermind/pull/11686#pullrequestreview-4326519523) - 2026-05-20
+* [Review] [Review on: chore(ai): Remove unused stuff](https://github.com/NethermindEth/nethermind/pull/11690#pullrequestreview-4325622594) - 2026-05-20
+* [Review] [Review on: fix(sync test): de-flake two SynchronizerTests on Windows](https://github.com/NethermindEth/nethermind/pull/11683#pullrequestreview-4325600132) - 2026-05-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

@@ -139,6 +139,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: avoid copies of sidecars across the codebase](https://github.com/status-im/nimbus-eth2/pull/8437#pullrequestreview-4306123739) - 2026-05-17
 * [Pull Request] [update restapi-test to poll for LC availability and use fulu genesis](https://github.com/status-im/nimbus-eth2/pull/8472) - 2026-05-19
 * [Review] [Review on: add beacon blocks by head](https://github.com/status-im/nimbus-eth2/pull/8436#pullrequestreview-4323337754) - 2026-05-19
+* [Pull Request] [check Gloas gas limit consistency with target](https://github.com/status-im/nimbus-eth2/pull/8483) - 2026-05-20
+* [Review] [Review on: Fix proposer preferences](https://github.com/status-im/nimbus-eth2/pull/8438#pullrequestreview-4328362109) - 2026-05-20
+* [Review] [Review on: add beacon blocks by head](https://github.com/status-im/nimbus-eth2/pull/8436#pullrequestreview-4327970080) - 2026-05-20
+* [Pull Request] [add alpha.8 target gas limiting to engine building](https://github.com/status-im/nimbus-eth2/pull/8477) - 2026-05-20
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

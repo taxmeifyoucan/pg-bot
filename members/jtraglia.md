@@ -253,6 +253,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Remove testing checklists](https://github.com/ethereum/consensus-specs/pull/5270) - 2026-05-19
 * [Commit] [Clarify sentence about refunded deposits to exited builders (#5269)](https://github.com/ethereum/consensus-specs/commit/915eb3069ad64af910e0e22cf76fd5d2e5e2a574) - 2026-05-19
 * [Commit] [Remove testing checklists (#5270)](https://github.com/ethereum/consensus-specs/commit/b58f7850f1fa1818f4ab56b48909c7bf5fdaa0f9) - 2026-05-19
+* [Pull Request] [Remove unused config utils](https://github.com/ethereum/consensus-specs/pull/5273) - 2026-05-20
+* [Review] [Review on: Redesign fork choice abstractions](https://github.com/ethereum/consensus-specs/pull/5249#pullrequestreview-4328928928) - 2026-05-20
+* [Commit] [Remove unused config utils (#5273)](https://github.com/ethereum/consensus-specs/commit/5a5b598aeba6cd45ce7c37d9fd0e88de6203f5b2) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

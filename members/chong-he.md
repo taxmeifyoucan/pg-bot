@@ -41,6 +41,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Add macro to simplify `into_full_block` implementations](https://github.com/sigp/lighthouse/pull/9294#pullrequestreview-4315108548) - 2026-05-19
 * [Pull Request] [Append client version info to user graffiti by default](https://github.com/sigp/lighthouse/pull/9313) - 2026-05-18
 * [Review] [Review on: Append client version info to user graffiti by default](https://github.com/sigp/lighthouse/pull/9313#pullrequestreview-4316811827) - 2026-05-19
+* [Review] [Review on: docs(installation): mention blob storage CPU and disk impact](https://github.com/sigp/lighthouse/pull/9320#pullrequestreview-4326526119) - 2026-05-20
 ## Q1 2026
 
 

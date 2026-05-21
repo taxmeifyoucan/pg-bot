@@ -49,6 +49,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Upgrade gradle (#10714)](https://github.com/Consensys/teku/commit/4028005a60ba1bc737303ca651f69c7279b166b8) - 2026-05-18
 * [Pull Request] [Re-enable gossip ref tests](https://github.com/Consensys/teku/pull/10726) - 2026-05-19
 * [Review] [Review on: Improve data column sidecar pruning stream handling](https://github.com/Consensys/teku/pull/10725#pullrequestreview-4315964361) - 2026-05-19
+* [Review] [Review on: Re-enable gossip ref tests](https://github.com/Consensys/teku/pull/10726#pullrequestreview-4333270512) - 2026-05-21
 ## Q1 2026
 
 

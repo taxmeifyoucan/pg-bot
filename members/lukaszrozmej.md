@@ -450,6 +450,23 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(rpc): emit spec message for eth_simulateV1 -38020](https://github.com/NethermindEth/nethermind/pull/11665#pullrequestreview-4316326026) - 2026-05-19
 * [Commit] [fix(rlpx): drop racy OnSessionDisconnected fallback in shutdown (#11688)](https://github.com/NethermindEth/nethermind/commit/94c3c243a618a5388f78df54b182bb34db813209) - 2026-05-19
 * [Commit] [perf(bal): verify-only fast path — skip end-of-block encode + Keccak (#11659)](https://github.com/NethermindEth/nethermind/commit/b1fa33d34de4f97189c3fc877aa6f7e32fcac186) - 2026-05-19
+* [Review] [Review on: Harden sync PR gate](https://github.com/NethermindEth/nethermind/pull/11704#pullrequestreview-4332223729) - 2026-05-20
+* [Review] [Review on: perf(bal): fuse Build() walks into a single pass](https://github.com/NethermindEth/nethermind/pull/11676#pullrequestreview-4329185072) - 2026-05-20
+* [Review] [Review on: perf(bal): cache wire BAL hash on ReadOnlyBlockAccessList](https://github.com/NethermindEth/nethermind/pull/11668#pullrequestreview-4328137515) - 2026-05-20
+* [Review] [Review on: perf(bal): insertion sort for small column-index lane rows](https://github.com/NethermindEth/nethermind/pull/11671#pullrequestreview-4328312638) - 2026-05-20
+* [Review] [Review on: feat(zkevm): Migrate stateless I/O to the SSZ standard](https://github.com/NethermindEth/nethermind/pull/11625#pullrequestreview-4325625176) - 2026-05-20
+* [Review] [Review on: Move BAL spec-switch and BAL attachment to the branch processor for BalRecorder plugin](https://github.com/NethermindEth/nethermind/pull/11700#pullrequestreview-4328713155) - 2026-05-20
+* [Review] [Review on: refactor: rework AccountProofCollector to use path-based traversal](https://github.com/NethermindEth/nethermind/pull/11677#pullrequestreview-4327377915) - 2026-05-20
+* [Review] [Review on: Add agent rules: git, comment styles, linting, ArrayPooList](https://github.com/NethermindEth/nethermind/pull/11687#pullrequestreview-4325700096) - 2026-05-20
+* [Review] [Review on: feat(chainspec): support shanghai/cancun/prague/osaka hardfork labels](https://github.com/NethermindEth/nethermind/pull/11553#pullrequestreview-4326544003) - 2026-05-20
+* [Review] [Review on: Make RefundOnContractCollision available for override in Arbitrum plugin](https://github.com/NethermindEth/nethermind/pull/11698#pullrequestreview-4327026591) - 2026-05-20
+* [Review] [Review on: Avoid bucket snapshot allocation in BalanceTooLowFilter](https://github.com/NethermindEth/nethermind/pull/11686#pullrequestreview-4326497625) - 2026-05-20
+* [Review] [Review on: chore(ai): Remove unused stuff](https://github.com/NethermindEth/nethermind/pull/11690#pullrequestreview-4325684498) - 2026-05-20
+* [Review] [Review on: ModExp exponent `int32` oveflow fix](https://github.com/NethermindEth/nethermind/pull/11692#pullrequestreview-4325595349) - 2026-05-20
+* [Commit] [perf(bal): fuse Build() walks into a single pass (#11676)](https://github.com/NethermindEth/nethermind/commit/552f9784db4c8a9a42b21b194486e00c9991c0df) - 2026-05-20
+* [Commit] [perf(bal): cache wire BAL hash on ReadOnlyBlockAccessList (#11668)](https://github.com/NethermindEth/nethermind/commit/c2cc43056751ad0ddac475ea59076806948257c8) - 2026-05-20
+* [Commit] [perf(bal): account-presence bitmap + storage_reads on column index — skip-merge (#11661)](https://github.com/NethermindEth/nethermind/commit/9a85d2f21fe83ddcb01e35f87a257b51de720df2) - 2026-05-20
+* [Commit] [fix(sync test): de-flake two SynchronizerTests on Windows (#11683)](https://github.com/NethermindEth/nethermind/commit/4da8a0d6cde5ea3139f1d47935dad61595310257) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

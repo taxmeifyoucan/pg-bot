@@ -88,6 +88,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Merge PivotSyncDownloader with SnapSyncDownloader](https://github.com/besu-eth/besu/pull/10528#pullrequestreview-4318474134) - 2026-05-19
 * [Review] [Review on: Simplify wiring bidirectional references between state and chain downloader](https://github.com/besu-eth/besu/pull/10529#pullrequestreview-4318456881) - 2026-05-19
 * [Review] [Review on: Fix unavailable BAL handling in snap](https://github.com/besu-eth/besu/pull/10519#pullrequestreview-4318488463) - 2026-05-19
+* [Review] [Review on: Add experimental CLI option to advertise snap/2](https://github.com/besu-eth/besu/pull/10536#pullrequestreview-4327830723) - 2026-05-20
+* [Pull Request] [fix prefetch for bal devnet 7](https://github.com/besu-eth/besu/pull/10534) - 2026-05-20
+* [Review] [Review on: Decouple snap data requests from `SnapWorldDownloadState`](https://github.com/besu-eth/besu/pull/10530#pullrequestreview-4325610351) - 2026-05-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

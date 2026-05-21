@@ -43,6 +43,8 @@ Team: EthereumJS
 * [Commit] [evm/vm: EIP-8037 v7 fixtures (param bump + spill/auth/top-level-create refunds) (#4293)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/20ca40140ed533656dda8f04db73564df8f08fde) - 2026-05-18
 * [Review] [Review on: BAL gas ordering fixes + EVM BAL gas logic refactor](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4304#pullrequestreview-4320168618) - 2026-05-19
 * [Review] [Review on: EIP-7928 BAL Structure Validation Integration](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4303#pullrequestreview-4318360610) - 2026-05-19
+* [Pull Request] [vm: EIP-7976 floor-gas test fixes (broaden exception regex)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4305) - 2026-05-20
+* [Review] [Review on: BAL gas ordering fixes + EVM BAL gas logic refactor](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4304#pullrequestreview-4332223876) - 2026-05-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 * [Issue] [Stateless Implementer's Call #52, June 1, 2026](https://github.com/ethereum/pm/issues/2064) - 2026-05-19

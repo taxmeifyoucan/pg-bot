@@ -114,6 +114,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [tools: Replace evmc::tooling with evmone::test::run](https://github.com/ipsilon/evmone/pull/1531) - 2026-05-19
 * [Pull Request] [test/blockchaintest: Assert lastblockhash matches canonical chain tip](https://github.com/ipsilon/evmone/pull/1530) - 2026-05-19
 * [Commit] [test/blockchaintest: Assert lastblockhash matches canonical chain tip (#1530)](https://github.com/ipsilon/evmone/commit/6eb041925a5cfb7af0b82e3e41b0bb08698dbc0d) - 2026-05-19
+* [Pull Request] [test/utils: Extract evmone::tooling::t8n() from evmone-t8n main](https://github.com/ipsilon/evmone/pull/1535) - 2026-05-20
+* [Pull Request] [precompiles: Upgrade blst to v0.3.16](https://github.com/ipsilon/evmone/pull/1534) - 2026-05-20
+* [Pull Request] [test/utils: Rename evmone::test::run to evmone::tooling::run](https://github.com/ipsilon/evmone/pull/1533) - 2026-05-20
+* [Pull Request] [build: Move evmone::testutils under EVMONE_TOOLS](https://github.com/ipsilon/evmone/pull/1532) - 2026-05-20
+* [Commit] [test/utils: Rename evmone::test::run to evmone::tooling::run (#1533)](https://github.com/ipsilon/evmone/commit/91011146fe3947521b800757585c8b6e75be818e) - 2026-05-20
+* [Commit] [tools: Replace evmc::tooling with evmone::test::run (#1531)](https://github.com/ipsilon/evmone/commit/c270a813cd3c7ac0427d2ffb57332de902c54e34) - 2026-05-20
+* [Commit] [build: Move evmone::testutils under EVMONE_TOOLS (#1532)](https://github.com/ipsilon/evmone/commit/371f91dfb3032aa76d1460ec0e18ffc256a6bbfc) - 2026-05-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -138,6 +145,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): EIP-8037 CREATE-tx collision refunds state-gas reservoir](https://github.com/ethereum/execution-specs/pull/2875) - 2026-05-19
 * [Review] [Review on: feat(tests): EIP-7778 multi-tx mixed gas regimes block accounting](https://github.com/ethereum/execution-specs/pull/2871#pullrequestreview-4316726733) - 2026-05-19
 * [Commit] [feat(tests): EIP-7778 multi-tx mixed gas regimes block accounting (#2871)](https://github.com/ethereum/execution-specs/commit/31d7e698973703d4863ed0a4b099c4484d47594e) - 2026-05-19
+* [Commit] [feat(tests): EIP-7976 reject exact-balance tx in Prague/Amsterdam floor gap (#2878)](https://github.com/ethereum/execution-specs/commit/c3a7b6b6cf5d806bdb20da8a3464d824bdefb81a) - 2026-05-20
+* [Commit] [feat(tests): EIP-7981 reject in access-list-byte floor gap with exact-balance sender (#2880)](https://github.com/ethereum/execution-specs/commit/bbacd741a9d893585d974a0b4eaee6abc31189cf) - 2026-05-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

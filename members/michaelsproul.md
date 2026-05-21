@@ -94,6 +94,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fork choice compliance tests](https://github.com/sigp/lighthouse/pull/9295#pullrequestreview-4306955305) - 2026-05-18
 * [Review] [Review on: Fix non-canonical payload attestation processing](https://github.com/sigp/lighthouse/pull/9305#pullrequestreview-4316100993) - 2026-05-19
 * [Review] [Review on: Use dedicated cache for HTTP API route](https://github.com/sigp/lighthouse/pull/9318#pullrequestreview-4315566369) - 2026-05-19
+* [Review] [Review on: Gloas alpha spec 8](https://github.com/sigp/lighthouse/pull/9315#pullrequestreview-4324840721) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

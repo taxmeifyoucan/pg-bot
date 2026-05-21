@@ -191,6 +191,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/execmodule: apply runloop refactor with furious-prune fix](https://github.com/erigontech/erigon/pull/21270) - 2026-05-19
 * [Review] [Review on: Revert "db/state: remove CheckSnapshotsCompatibility (pre-3.1 compat check) (#20746)"](https://github.com/erigontech/erigon/pull/21268#pullrequestreview-4316108550) - 2026-05-19
 * [Commit] [execution/execmodule: apply runloop refactor with furious-prune fix (#21245)](https://github.com/erigontech/erigon/commit/0533658e2a167f39ef7cde706f34ecb699e36c1a) - 2026-05-20
+* [Pull Request] [cl/phase1/forkchoice: align getFilterBlockTree with consensus spec](https://github.com/erigontech/erigon/pull/21317) - 2026-05-20
+* [Pull Request] [cl/phase1/forkchoice: align getFilterBlockTree with consensus spec](https://github.com/erigontech/erigon/pull/21310) - 2026-05-20
+* [Issue] [FCU stale head causes repeated execution unwinds at tip](https://github.com/erigontech/erigon/issues/21301) - 2026-05-20
 ## Q1 2026
 
 

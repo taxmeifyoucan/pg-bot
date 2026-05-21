@@ -158,6 +158,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add proposer preferences](https://github.com/ChainSafe/lodestar/pull/9377#pullrequestreview-4315330025) - 2026-05-19
 * [Issue] [Dedup caches in favor of ProposerPreferencesPool](https://github.com/ChainSafe/lodestar/issues/9379) - 2026-05-19
 * [Commit] [fix: download proposer duties for the next epoch post-fulu (#9380)](https://github.com/ChainSafe/lodestar/commit/c5efeb6c907f3b284ea910b2af24d2ad0259b99f) - 2026-05-19
+* [Pull Request] [feat: force the proposer to reorg unavailable blocks](https://github.com/ChainSafe/lodestar/pull/9387) - 2026-05-20
+* [Commit] [feat: upgrade to v1.7.0-alpha.8 spec (#9383)](https://github.com/ChainSafe/lodestar/commit/1d0e0b9081d83943480a7a39222a6b9e71acaf17) - 2026-05-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

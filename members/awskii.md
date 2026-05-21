@@ -124,6 +124,8 @@ Team: Erigon
 * [Review] [Review on: rpc/jsonrpc: split debug_executionWitness into phase helpers (on top of lupin012 codes fix)](https://github.com/erigontech/erigon/pull/21261#pullrequestreview-4319485026) - 2026-05-19
 * [Pull Request] [cmd/integration, db/state: add --continue flag for commitment convert](https://github.com/erigontech/erigon/pull/21283) - 2026-05-19
 * [Commit] [rpc/jsonrpc: split debug_executionWitness into phase helpers (on top of lupin012 codes fix) (#21261)](https://github.com/erigontech/erigon/commit/489bc7b8887e0cd3cf151a3ba9fb73edbce34d45) - 2026-05-19
+* [Review] [Review on: commitment: consolidate scattered config into TrieConfig struct](https://github.com/erigontech/erigon/pull/20559#pullrequestreview-4329002188) - 2026-05-20
+* [Issue] [`debug_executionWitness` - geth response compatibility](https://github.com/erigontech/erigon/issues/21312) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

@@ -168,6 +168,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Update Discord invite link in README (#16805)](https://github.com/OffchainLabs/prysm/commit/399dc4f7c7279e807660e23c3e757fd27f1fe83d) - 2026-05-18
 * [Review] [Review on: Apply boost on weak](https://github.com/OffchainLabs/prysm/pull/16786#pullrequestreview-4315327161) - 2026-05-19
 * [Commit] [Add `target_gas_limit` to gloas `PayloadAttributes` (#16792)](https://github.com/OffchainLabs/prysm/commit/f5066f1f8c47fddc4b6be9db41afd3c36fce8945) - 2026-05-19
+* [Pull Request] [Glamsterdam devnet 4](https://github.com/OffchainLabs/prysm/pull/16819) - 2026-05-21
+* [Review] [Review on: Implement PTC dual deadlines](https://github.com/OffchainLabs/prysm/pull/16807#pullrequestreview-4331593490) - 2026-05-20
+* [Review] [Review on: Apply boost on weak](https://github.com/OffchainLabs/prysm/pull/16786#pullrequestreview-4331412586) - 2026-05-20
+* [Commit] [Implement gloas gas limit consistency check (#16793)](https://github.com/OffchainLabs/prysm/commit/5bf4b516fe456d32e71c8cbe92112814f71e480d) - 2026-05-20
+* [Commit] [Add GasLimit accessor on forkchoice (#16811)](https://github.com/OffchainLabs/prysm/commit/e870d5805411629898b1127c29ddba8885e85960) - 2026-05-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

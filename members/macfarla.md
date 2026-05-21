@@ -205,6 +205,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [fix: reject non-0x-prefixed tx hash in debug_getRawTransaction (#10505)](https://github.com/besu-eth/besu/commit/3514fc90b0bb239eabf3649abf4bea738461e914) - 2026-05-20
 * [Commit] [perf(eth): stackless singleton for NoAvailablePeersException in peer retry paths (#10527)](https://github.com/besu-eth/besu/commit/f6256efdfd59ade56b1455277f86e2247018a1de) - 2026-05-19
 * [Commit] [perf(eth): stackless CancellationException in AbstractEthTask (#10526)](https://github.com/besu-eth/besu/commit/3eaa007c7e3fac426de87ef605acefb8a4983532) - 2026-05-19
+* [Review] [Review on: Replace Address.hashCache Guava LoadingCache with Caffeine](https://github.com/besu-eth/besu/pull/10235#pullrequestreview-4325003458) - 2026-05-20
+* [Review] [Review on: Require Java 25 to build](https://github.com/besu-eth/besu/pull/10539#pullrequestreview-4333329861) - 2026-05-21
+* [Review] [Review on: Remove unused evm arg from FixedCostOperations](https://github.com/besu-eth/besu/pull/10533#pullrequestreview-4325494458) - 2026-05-20
+* [Review] [Review on: feat(api): implement eth_baseFee JSON-RPC method](https://github.com/besu-eth/besu/pull/10457#pullrequestreview-4325995630) - 2026-05-20
+* [Commit] [fix: reject non-hex block numbers in BlockParameter (#10515)](https://github.com/besu-eth/besu/commit/b96015d06fcb7862e7c03473f57b6cdfaf5d0568) - 2026-05-20
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

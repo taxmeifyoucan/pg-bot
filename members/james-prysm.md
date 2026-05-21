@@ -87,6 +87,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: replace tracked validators cache with proposer preference](https://github.com/OffchainLabs/prysm/pull/16767#pullrequestreview-4314011994) - 2026-05-18
 * [Review] [Review on: Add GasLimit accessor on forkchoice](https://github.com/OffchainLabs/prysm/pull/16811#pullrequestreview-4323295182) - 2026-05-19
 * [Review] [Review on: Add `target_gas_limit` to gloas `PayloadAttributes`](https://github.com/OffchainLabs/prysm/pull/16792#pullrequestreview-4319665242) - 2026-05-19
+* [Pull Request] [fix gloas proposal endpoint support](https://github.com/OffchainLabs/prysm/pull/16818) - 2026-05-20
+* [Review] [Review on: replace tracked validators cache with proposer preference](https://github.com/OffchainLabs/prysm/pull/16767#pullrequestreview-4329641258) - 2026-05-20
+* [Review] [Review on: Implement gloas gas limit consistency check](https://github.com/OffchainLabs/prysm/pull/16793#pullrequestreview-4330987315) - 2026-05-20
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

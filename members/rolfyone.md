@@ -70,6 +70,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Use CTRF reporter for JUnit history reports](https://github.com/Consensys/teku/pull/10734) - 2026-05-20
 * [Pull Request] [Throttle repeated unknown latest valid hash errors](https://github.com/Consensys/teku/pull/10733) - 2026-05-19
 * [Review] [Review on: Improve data column sidecar pruning stream handling](https://github.com/Consensys/teku/pull/10725#pullrequestreview-4317247530) - 2026-05-19
+* [Commit] [Improve data column sidecar pruning stream handling (#10725)](https://github.com/Consensys/teku/commit/38f7b080ce1ea5d0074b7fcbf1cb52a71c1f56da) - 2026-05-20
+* [Commit] [Avoid signing execution-optimistic validator duties (#10698)](https://github.com/Consensys/teku/commit/f101acc54a6207e877d7782e190f7ee448f05244) - 2026-05-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

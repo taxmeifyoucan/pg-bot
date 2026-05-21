@@ -38,6 +38,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: support dev workflow](https://github.com/ChainSafe/lodestar-z/pull/364) - 2026-05-16
 * [Review] [Review on: chore: support dev workflow](https://github.com/ChainSafe/lodestar-z/pull/364#pullrequestreview-4310512287) - 2026-05-18
 * [Commit] [chore: support dev workflow (#364)](https://github.com/ChainSafe/lodestar-z/commit/fcb9a78dc10bdbe22b7d9a74e6db5100c1be21ca) - 2026-05-19
+* [Review] [Review on: feat: support getLatestWeakSubjectivityCheckpointEpoch](https://github.com/ChainSafe/lodestar-z/pull/366#pullrequestreview-4331314941) - 2026-05-20
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -103,6 +104,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: v1.43.0 release](https://github.com/ChainSafe/lodestar/pull/9344#pullrequestreview-4323526325) - 2026-05-19
 * [Review] [Review on: fix: download proposer duties for the next epoch post-fulu](https://github.com/ChainSafe/lodestar/pull/9380#pullrequestreview-4323317346) - 2026-05-19
 * [Commit] [feat: add proposer preferences (#9377)](https://github.com/ChainSafe/lodestar/commit/c98da75ec78d6a787c3ce8cd277875fbb80b4971) - 2026-05-19
+* [Review] [Review on: feat: force the proposer to reorg unavailable blocks](https://github.com/ChainSafe/lodestar/pull/9387#pullrequestreview-4329207428) - 2026-05-20
+* [Pull Request] [feat: check gas limit consistency with the target](https://github.com/ChainSafe/lodestar/pull/9391) - 2026-05-20
+* [Pull Request] [feat: implement EIP 7688](https://github.com/ChainSafe/lodestar/pull/9390) - 2026-05-20
+* [Review] [Review on: chore: support dev lodestar-z workflow](https://github.com/ChainSafe/lodestar/pull/9371#pullrequestreview-4330331412) - 2026-05-20
+* [Review] [Review on: feat: upgrade to v1.7.0-alpha.8 spec](https://github.com/ChainSafe/lodestar/pull/9383#pullrequestreview-4328872949) - 2026-05-20
+* [Issue] [Audit gas limit types (number vs bigint)](https://github.com/ChainSafe/lodestar/issues/9389) - 2026-05-20
+* [Issue] [Derive fallback target gas limit from parent payload](https://github.com/ChainSafe/lodestar/issues/9388) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

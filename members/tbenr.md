@@ -116,6 +116,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [[CI] Improve spotless speed on groovy (#10723)](https://github.com/Consensys/teku/commit/00837dc3bbec58d2f34a9dca5feb11ef1fe940d4) - 2026-05-18
 * [Commit] [devnet2 stack 05 final devnet2 (#10687)](https://github.com/Consensys/teku/commit/4242942ff798fbafa5fc7fc6db1cdf9794d37eaa) - 2026-05-18
 * [Pull Request] [late block build fix with ForkChoiceNotifier refactor](https://github.com/Consensys/teku/pull/10728) - 2026-05-19
+* [Review] [Review on: Avoid signing execution-optimistic validator duties](https://github.com/Consensys/teku/pull/10698#pullrequestreview-4328846107) - 2026-05-20
+* [Review] [Review on: Upgrade jvm-libp2p](https://github.com/Consensys/teku/pull/10736#pullrequestreview-4328863420) - 2026-05-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

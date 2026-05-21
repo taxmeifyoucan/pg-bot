@@ -17,6 +17,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [feat(beacon-api): expose peer-scoring fields on /eth/v1/node/peers](https://github.com/ChainSafe/lodestar/pull/9373) - 2026-05-15
 * [Pull Request] [fix: include ethrex EX client code and restore CL commit suffix in gloas graffiti](https://github.com/ChainSafe/lodestar/pull/9381) - 2026-05-19
+* [Commit] [fix: include ethrex EX client code and restore CL commit suffix in gloas graffiti (#9381)](https://github.com/ChainSafe/lodestar/commit/4fe6b362c9b3dc418554f557b25a4f29b4741679) - 2026-05-20
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [Fix nil pointer panic in beacon event stream](https://github.com/ethpandaops/dora/pull/624) - 2026-04-01
 
@@ -243,6 +244,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Hetzner: cpx (new gen) defaults + capacity-aware placement](https://github.com/ethpandaops/template-devnets/pull/166) - 2026-05-06
 * [Review] [Review on: add buildoor](https://github.com/ethpandaops/template-devnets/pull/165#pullrequestreview-4256930430) - 2026-05-09
 * [Review] [Review on: vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168#pullrequestreview-4269317484) - 2026-05-12
+* [Review] [Review on: ethrex: enable admin RPC namespace so Dora can read node info](https://github.com/ethpandaops/template-devnets/pull/170#pullrequestreview-4331102065) - 2026-05-20
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
 * [Pull Request] [core/txpool: report actual 110% threshold in intrinsic gas error](https://github.com/ethereum/go-ethereum/pull/34782) - 2026-04-21

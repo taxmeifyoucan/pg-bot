@@ -79,6 +79,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [feat(tests): eip7928 checklist v1 (#2859)](https://github.com/ethereum/execution-specs/commit/892e6d1e10e408c848c68b4fabb3853375f62505) - 2026-05-15
 * [Review] [Review on: chore(spec-tool): check bpo forks in linter](https://github.com/ethereum/execution-specs/pull/2803#pullrequestreview-4323727446) - 2026-05-19
 * [Review] [Review on: fix(tests): call delegation access disambiguation](https://github.com/ethereum/execution-specs/pull/2882#pullrequestreview-4319938528) - 2026-05-19
+* [Commit] [feat(tests): extend BALs coverage (#2854)](https://github.com/ethereum/execution-specs/commit/1de389b6177788dfa1df35c71b643e46b82029d1) - 2026-05-20
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14

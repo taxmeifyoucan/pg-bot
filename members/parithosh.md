@@ -37,6 +37,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: Fix execution block / receipts JSON downloads on Gloas slots](https://github.com/ethpandaops/dora/pull/666#pullrequestreview-4200553533) - 2026-04-29
 
+* [Pull Request] [[codex] fix security alerts](https://github.com/ethpandaops/dora/pull/706) - 2026-05-20
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/90) - 2026-04-29
 * [Commit] [fix(config.production.yaml): reuse bal.jpg image for glamsterdam-devnets](https://github.com/ethpandaops/cartographoor/commit/619e4c46218ec206340ccafd0bda95a7ae573577) - 2026-04-29
@@ -49,6 +50,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Lower minClientCount default to 2](https://github.com/ethpandaops/assertoor/commit/234bf98f83877c3a09c0fa16ee77545a2fd936b9) - 2026-05-19
 * [Commit] [Derive split halves from client pool size](https://github.com/ethpandaops/assertoor/commit/d4d7cdf5ebcb4afff6b10231d6a177c0c14c6b37) - 2026-05-19
 * [Commit] [Add two-way network split playbook](https://github.com/ethpandaops/assertoor/commit/818afb987c67b3ec9e9362fc0b2740ca6b7132d8) - 2026-05-19
+* [Pull Request] [fix timeouts](https://github.com/ethpandaops/assertoor/pull/182) - 2026-05-20
+* [Pull Request] [fix two-way split finality recovery check](https://github.com/ethpandaops/assertoor/pull/184) - 2026-05-20
+* [Pull Request] [[codex] fix security alerts](https://github.com/ethpandaops/assertoor/pull/183) - 2026-05-20
+* [Commit] [Merge pull request #182 from ethpandaops/fix-timeouts](https://github.com/ethpandaops/assertoor/commit/45d65c5e0b127488b4ab00f7c4a8e095848363ad) - 2026-05-20
+* [Commit] [fix two-way split finality recovery check](https://github.com/ethpandaops/assertoor/commit/db68cbe79a10ef0be4db56de59691f283863ddf8) - 2026-05-20
+* [Commit] [fix timeouts](https://github.com/ethpandaops/assertoor/commit/347a3fb26710b02faec284d660d73f55e45bbea7) - 2026-05-20
 ## Q1 2026
 
 

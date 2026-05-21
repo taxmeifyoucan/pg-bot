@@ -140,6 +140,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: graphql: implement Logs, Call and SendRawTransaction resolvers](https://github.com/erigontech/erigon/pull/21219#pullrequestreview-4321658565) - 2026-05-19
 * [Review] [Review on: node: fix HTTP RPC vhost checks for mixed-case Host headers](https://github.com/erigontech/erigon/pull/21243#pullrequestreview-4321968377) - 2026-05-19
 * [Commit] [rpc: graphql: implement Logs, Call and SendRawTransaction resolvers (#21219)](https://github.com/erigontech/erigon/commit/8228884a72ccc263e02a950abac2273d732232e3) - 2026-05-19
+* [Pull Request] [rpc: return null v,r,s for unsigned transactions in eth_getBlockNumber](https://github.com/erigontech/erigon/pull/21321) - 2026-05-20
+* [Pull Request] [rpc: fix missing 'from' field in newPendingTransactions*](https://github.com/erigontech/erigon/pull/21322) - 2026-05-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

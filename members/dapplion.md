@@ -44,6 +44,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Remove outdated SPRP hint](https://github.com/sigp/lighthouse/pull/9312#pullrequestreview-4315007991) - 2026-05-19
 * [Review] [Review on: Fix non-canonical payload attestation processing](https://github.com/sigp/lighthouse/pull/9305#pullrequestreview-4313157316) - 2026-05-18
 * [Review] [Review on: Use dedicated cache for HTTP API route](https://github.com/sigp/lighthouse/pull/9318#pullrequestreview-4315563569) - 2026-05-19
+* [Pull Request] [Move BlockProcessingResult match out of block lookups](https://github.com/sigp/lighthouse/pull/9327) - 2026-05-21
+* [Pull Request] [Gloas lookup sync boilerplate](https://github.com/sigp/lighthouse/pull/9322) - 2026-05-20
+* [Review] [Review on: Gloas lookup sync boilerplate](https://github.com/sigp/lighthouse/pull/9322#pullrequestreview-4328399487) - 2026-05-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 

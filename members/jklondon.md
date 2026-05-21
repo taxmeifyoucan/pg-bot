@@ -76,6 +76,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] rawdb: ignore invalid receipt cache transaction indexes](https://github.com/erigontech/erigon/pull/21262#pullrequestreview-4321704594) - 2026-05-19
 * [Review] [Review on: docs: regenerate llms-full.txt to match current docs/site/ content](https://github.com/erigontech/erigon/pull/21277#pullrequestreview-4321701446) - 2026-05-19
 * [Review] [Review on: [r3.4] cmd/integration, execution/stagedsync: clear canonical hash above snapshot tip on reset_state](https://github.com/erigontech/erigon/pull/21246#pullrequestreview-4318262481) - 2026-05-19
+* [Pull Request] [deps: bump mdbx-go to v0.40.1 (libmdbx 0.14.2)](https://github.com/erigontech/erigon/pull/21302) - 2026-05-20
+* [Commit] [deps: bump mdbx-go to v0.40.1 (libmdbx 0.14.2) (#21302)](https://github.com/erigontech/erigon/commit/1af8ddf531214ac592b7c31a038aed3a41839311) - 2026-05-20
 ## Q1 2026
 
 

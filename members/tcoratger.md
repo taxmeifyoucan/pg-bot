@@ -195,10 +195,19 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(multilinear-util): field-aware MLE recursion threshold](https://github.com/Plonky3/Plonky3/pull/1664#pullrequestreview-4323781512) - 2026-05-19
 * [Review] [Review on: Harden WHIR verifier against malformed proof panics](https://github.com/Plonky3/Plonky3/pull/1679#pullrequestreview-4322357941) - 2026-05-19
 * [Commit] [feat: add p3-monolith-air crate for Monolith permutation arithmetization (#1516)](https://github.com/Plonky3/Plonky3/commit/53bbd6db7fbae86c9b5be269cbdc53e69bd62a24) - 2026-05-19
+* [Review] [Review on: perf(multilinear-util): field-aware MLE recursion threshold](https://github.com/Plonky3/Plonky3/pull/1664#pullrequestreview-4329089396) - 2026-05-20
+* [Pull Request] [perf: extend collect_n and shifted_powers to remaining call sites](https://github.com/Plonky3/Plonky3/pull/1683) - 2026-05-20
+* [Pull Request] [fix(mersenne-31): allow value == P in MDS partial-reduction](https://github.com/Plonky3/Plonky3/pull/1684) - 2026-05-20
+* [Review] [Review on: bench(whir): add end-to-end PCS benchmark suite](https://github.com/Plonky3/Plonky3/pull/1582#pullrequestreview-4326563855) - 2026-05-20
+* [Review] [Review on: perf: use shifted_powers + collect_n for combine](https://github.com/Plonky3/Plonky3/pull/1682#pullrequestreview-4326531992) - 2026-05-20
+* [Commit] [perf: extend collect_n and shifted_powers to remaining call sites (#1683)](https://github.com/Plonky3/Plonky3/commit/f9cf1fa857729e8c4048afa9565f615831996780) - 2026-05-20
+* [Commit] [fix(mersenne-31): allow value == P in MDS partial-reduction (#1684)](https://github.com/Plonky3/Plonky3/commit/a6fe83eab081e18ff7d7b464e0a85e3536ba6719) - 2026-05-20
+* [Commit] [bench(whir): add end-to-end PCS benchmark suite (#1582)](https://github.com/Plonky3/Plonky3/commit/afa94e274f37c71a8152515a45746117f259524e) - 2026-05-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05
 * [Issue] [Post-Quantum (PQ) Interop #39, May 13, 2026](https://github.com/ethereum/pm/issues/2055) - 2026-05-13
+* [Issue] [Post-Quantum (PQ) Interop #40, May 20, 2026](https://github.com/ethereum/pm/issues/2065) - 2026-05-20
 ## Q1 2026
 
 

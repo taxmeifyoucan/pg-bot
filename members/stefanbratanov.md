@@ -79,12 +79,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Enable Gloas acceptance tests](https://github.com/Consensys/teku/pull/10703#pullrequestreview-4289079666) - 2026-05-14
 * [Commit] [Enable Gloas acceptance tests (#10703)](https://github.com/Consensys/teku/commit/db2c7fac8ac458122a67a2bfa8e015678f1c1a35) - 2026-05-14
 * [Pull Request] [Optimize onboarding builders at the fork](https://github.com/Consensys/teku/pull/10729) - 2026-05-19
+* [Pull Request] [Upgrade jvm-libp2p](https://github.com/Consensys/teku/pull/10736) - 2026-05-20
+* [Commit] [Upgrade jvm-libp2p (#10736)](https://github.com/Consensys/teku/commit/8d12baa22c19e70e78cd44d9171d114681d62d7e) - 2026-05-20
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22
 * [Review] [Review on: Skip CI for documentation-only changes](https://github.com/libp2p/jvm-libp2p/pull/464#pullrequestreview-4181200461) - 2026-04-27
 * [Review] [Review on: Filter backoff peers in subscribe() and make v1.3 honour backoff/IDONTWANT](https://github.com/libp2p/jvm-libp2p/pull/472#pullrequestreview-4194906223) - 2026-04-29
 * [Review] [Review on: Add PubsubRpcLimits decoding count-cap to reduce memory footprint](https://github.com/libp2p/jvm-libp2p/pull/477#pullrequestreview-4320791928) - 2026-05-19
+* [Pull Request] [1.3.0 release](https://github.com/libp2p/jvm-libp2p/pull/478) - 2026-05-20
 ## Q1 2026
 
 

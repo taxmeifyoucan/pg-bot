@@ -67,6 +67,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: implement EIP-8061 increase exit and consolidation churn (#9305)](https://github.com/ChainSafe/lodestar/commit/87cbe69c66d7b8280e2d47bd662381af3b5473dd) - 2026-04-30
 * [Commit] [feat: bump spec test version to v1.7.0-alpha.6 (#9304)](https://github.com/ChainSafe/lodestar/commit/07452fe3b73b5ce0b930b6e0a90e06224536950c) - 2026-04-30
 * [Review] [Review on: fix: prune PayloadEnvelopeInput on the same branch](https://github.com/ChainSafe/lodestar/pull/9317#pullrequestreview-4212630839) - 2026-05-01
+* [Review] [Review on: feat: check gas limit consistency with the target](https://github.com/ChainSafe/lodestar/pull/9391#pullrequestreview-4332190930) - 2026-05-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 

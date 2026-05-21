@@ -203,6 +203,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(bal): account-presence bitmap + storage_reads on column index — skip-merge](https://github.com/NethermindEth/nethermind/pull/11661#pullrequestreview-4316972309) - 2026-05-19
 * [Review] [Review on: Address discovery review findings](https://github.com/NethermindEth/nethermind/pull/11654#pullrequestreview-4318772621) - 2026-05-19
 * [Review] [Review on: feat(runner): add --logging-format CLI for structured console logs](https://github.com/NethermindEth/nethermind/pull/11610#pullrequestreview-4318071965) - 2026-05-19
+* [Review] [Review on: fix(blockchain): defer main-chain events until write batch is flushed](https://github.com/NethermindEth/nethermind/pull/11640#pullrequestreview-4327300633) - 2026-05-20
+* [Pull Request] [Move BAL spec-switch and BAL attachment to the branch processor for BalRecorder plugin](https://github.com/NethermindEth/nethermind/pull/11700) - 2026-05-20
+* [Review] [Review on: Move BAL spec-switch and BAL attachment to the branch processor for BalRecorder plugin](https://github.com/NethermindEth/nethermind/pull/11700#pullrequestreview-4328500220) - 2026-05-20
+* [Review] [Review on: refactor: rework AccountProofCollector to use path-based traversal](https://github.com/NethermindEth/nethermind/pull/11677#pullrequestreview-4327776648) - 2026-05-20
+* [Pull Request] [test: improve test coverage in Nethermind.State.Flat](https://github.com/NethermindEth/nethermind/pull/11695) - 2026-05-20
+* [Review] [Review on: test: improve test coverage in Nethermind.State.Flat](https://github.com/NethermindEth/nethermind/pull/11695#pullrequestreview-4328072957) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

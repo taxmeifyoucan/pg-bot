@@ -42,6 +42,7 @@ Team: Geth
 * [Pull Request] [Update EIP-7851: Few tweaks to 7851 and 8151](https://github.com/ethereum/EIPs/pull/11661) - 2026-05-13
 * [Commit] [Update EIP-7851: Few tweaks to 7851 and 8151](https://github.com/ethereum/EIPs/commit/3010b58ba1d15abb754a499aa87a52e580765031) - 2026-05-13
 * [Review] [Review on: Update EIP-8141: Add EXPIRY_VERIFIER frame for tx expiry](https://github.com/ethereum/EIPs/pull/11662#pullrequestreview-4293006863) - 2026-05-14
+* [Review] [Review on: Add EIP: Upgrade pre-Spurious-Dragon accounts](https://github.com/ethereum/EIPs/pull/11605#pullrequestreview-4333272633) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4105687607) - 2026-04-14
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113766865) - 2026-04-15

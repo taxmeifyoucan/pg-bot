@@ -70,6 +70,8 @@ Team: Geth
 * [Review] [Review on: core/state: track the block-level accessList](https://github.com/ethereum/go-ethereum/pull/34803#pullrequestreview-4281655914) - 2026-05-13
 * [Review] [Review on: .: fix all typos, as reported by crates-ci/typos](https://github.com/ethereum/go-ethereum/pull/35008#pullrequestreview-4324104451) - 2026-05-19
 * [Commit] [core/types/bal: add additional static validation for access lists (#34967)](https://github.com/ethereum/go-ethereum/commit/50ae34c1d8ec2149774a9c6cf597a11498bd8d39) - 2026-05-20
+* [Review] [Review on: cmd/utils: respect --state.size-tracking=false](https://github.com/ethereum/go-ethereum/pull/35011#pullrequestreview-4329258419) - 2026-05-20
+* [Review] [Review on: core, cmd, internal: rework BAL json marshalling to adhere EELS](https://github.com/ethereum/go-ethereum/pull/34972#pullrequestreview-4328214175) - 2026-05-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

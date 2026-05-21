@@ -13,6 +13,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7708: add CREATE and CREATE2 to transfer log list](https://github.com/ethereum/EIPs/pull/11474#pullrequestreview-4141558932) - 2026-04-20
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: chore(specs): add missing type annotations](https://github.com/ethereum/execution-specs/pull/2868#pullrequestreview-4328662835) - 2026-05-20
 ## Q1 2026
 
 

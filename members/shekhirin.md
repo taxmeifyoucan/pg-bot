@@ -136,6 +136,8 @@ Team: Reth
 * [Review] [Review on: feat(rpc): add debug account state endpoints](https://github.com/paradigmxyz/reth/pull/24296#pullrequestreview-4318166505) - 2026-05-19
 * [Review] [Review on: fix(rpc): suppress unstable engine capability warnings](https://github.com/paradigmxyz/reth/pull/24338#pullrequestreview-4318149587) - 2026-05-19
 * [Pull Request] [ci(bench): bump txgen](https://github.com/paradigmxyz/reth/pull/24335) - 2026-05-19
+* [Review] [Review on: chore(bench): remove reth-bench](https://github.com/paradigmxyz/reth/pull/24288#pullrequestreview-4328845855) - 2026-05-20
+* [Commit] [feat(node): add pruning mode to startup log (#24367)](https://github.com/paradigmxyz/reth/commit/1be17ebbb695f6e9d0b6bb2f59314a5ce039715f) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

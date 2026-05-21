@@ -133,6 +133,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: implement 8037 changes for 7.2.0 fixtures](https://github.com/erigontech/erigon/pull/21275) - 2026-05-19
 * [Commit] [execution: eest spec shards 0 max-allowed-failures (#21265)](https://github.com/erigontech/erigon/commit/6630d0fca6fc8fd4ac90dd005e6a32617c7593f1) - 2026-05-19
 * [Commit] [cmd/evm: speedup statetest by setting up 1 mdbx env per file (#21266)](https://github.com/erigontech/erigon/commit/eea1eed859b19cade91912a3b5353230e289c5f4) - 2026-05-19
+* [Review] [Review on: [wip] flush block overlay after each InsertBlocks batch (fix OOM)](https://github.com/erigontech/erigon/pull/21300#pullrequestreview-4327559111) - 2026-05-20
+* [Pull Request] [execution: pass hive eest tests for bal-devnet-7](https://github.com/erigontech/erigon/pull/21315) - 2026-05-20
+* [Pull Request] [execution,cl: add TargetGasLimit to PayloadAttributesV4](https://github.com/erigontech/erigon/pull/21297) - 2026-05-20
+* [Pull Request] [[bal-devnet-3] perf: exec parallel workers=numcpu](https://github.com/erigontech/erigon/pull/21296) - 2026-05-20
+* [Review] [Review on: execution/execmodule: apply runloop refactor with furious-prune fix](https://github.com/erigontech/erigon/pull/21270#pullrequestreview-4325402983) - 2026-05-20
+* [Pull Request] [[DO-NOT-MERGE] glamsterdam-devnet-4](https://github.com/erigontech/erigon/pull/21298) - 2026-05-20
+* [Commit] [execution: implement 8037 changes for 7.2.0 fixtures (#21275)](https://github.com/erigontech/erigon/commit/d17d224d48c0fc3657f656daa73f3f8d9df1a426) - 2026-05-20
+* [Commit] [execution: optimise parallel exec with BALs for same-sender conflicts in precompile benchmarks (#21240)](https://github.com/erigontech/erigon/commit/9afcabdce6979567659997a19b4542b8456042f6) - 2026-05-20
 ## Q1 2026
 
 

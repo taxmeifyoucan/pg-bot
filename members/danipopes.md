@@ -378,6 +378,11 @@ Team: Reth
 * [Review] [Review on: perf: avoid hashing the state twice](https://github.com/paradigmxyz/reth/pull/24354#pullrequestreview-4323018592) - 2026-05-19
 * [Review] [Review on: fix(bench): don't enable otlp features](https://github.com/paradigmxyz/reth/pull/24356#pullrequestreview-4322932243) - 2026-05-19
 * [Commit] [fix(ci): correct bench Grafana range (#24358)](https://github.com/paradigmxyz/reth/commit/60b3f313800dca1af11bdad9681937cfa606939e) - 2026-05-19
+* [Review] [Review on: feat: integrate revmc JIT](https://github.com/paradigmxyz/reth/pull/23230#pullrequestreview-4330174838) - 2026-05-20
+* [Review] [Review on: chore(bench): remove reth-bench](https://github.com/paradigmxyz/reth/pull/24288#pullrequestreview-4328987274) - 2026-05-20
+* [Review] [Review on: ci: checkout PR repo for bench comments](https://github.com/paradigmxyz/reth/pull/24374#pullrequestreview-4329020347) - 2026-05-20
+* [Review] [Review on: ci: disable OTLP for release benches](https://github.com/paradigmxyz/reth/pull/24369#pullrequestreview-4329044804) - 2026-05-20
+* [Review] [Review on: fix: enforce secp256k1 feature propagation](https://github.com/paradigmxyz/reth/pull/24365#pullrequestreview-4329009234) - 2026-05-20
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

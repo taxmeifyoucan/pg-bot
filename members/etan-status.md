@@ -95,6 +95,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Fix lightClientDataImportBackfill property getting accessed in tns](https://github.com/status-im/nimbus-eth2/pull/8467) - 2026-05-18
 * [Pull Request] [Revert "Apply KZG check to columns fetched via Req/Resp (#8458)"](https://github.com/status-im/nimbus-eth2/pull/8464) - 2026-05-18
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/status-im/nimbus-eth2/pull/8475) - 2026-05-19
+* [Pull Request] [Add fast confirmation event](https://github.com/status-im/nimbus-eth2/pull/8479) - 2026-05-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

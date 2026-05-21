@@ -35,6 +35,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Remove `TestRandom`](https://github.com/sigp/lighthouse/pull/9006#pullrequestreview-4218610658) - 2026-05-04
 * [Review] [Review on: Fix execution integration test CI failure](https://github.com/sigp/lighthouse/pull/9277#pullrequestreview-4250503640) - 2026-05-08
 * [Pull Request] [Add macro to simplify `into_full_block` implementations](https://github.com/sigp/lighthouse/pull/9294) - 2026-05-12
+* [Pull Request] [Add support for jemalloc memory profiling](https://github.com/sigp/lighthouse/pull/9326) - 2026-05-20
 ## Q1 2026
 
 

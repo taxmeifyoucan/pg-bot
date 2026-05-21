@@ -104,6 +104,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [chore: v108 release prep](https://github.com/bluealloy/revm/pull/3689) - 2026-05-19
 * [Commit] [chore: v108 release prep (#3689)](https://github.com/bluealloy/revm/commit/e0ced3c9c172e43a5cd92448b5142e1d2bfed181) - 2026-05-19
 * [Commit] [feat(eip8037): Amsterdam bal-devnet-7 (#3667)](https://github.com/bluealloy/revm/commit/aa1333614df52a5c9d5d7b5b757f84c27cb3e5a0) - 2026-05-19
+* [Pull Request] [chore: v109 release prep](https://github.com/bluealloy/revm/pull/3695) - 2026-05-20
+* [Commit] [chore: v109 release prep (#3695)](https://github.com/bluealloy/revm/commit/f7ccd08cc4944238bae0eaf6e07917b1485d0881) - 2026-05-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 
@@ -116,6 +118,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: Update EIP-8037: fixed CPSB + frame accounting](https://github.com/ethereum/EIPs/pull/11573#pullrequestreview-4187565661) - 2026-04-28
 * [Pull Request] [Update EIP-8038: Update write cost condition in SSTORE formula](https://github.com/ethereum/EIPs/pull/11696) - 2026-05-19
 * [Commit] [Update EIP-8038: Update write cost condition in SSTORE formula](https://github.com/ethereum/EIPs/commit/8a7fb54ef1ea87abd6e81a8ea234dbb794f7fdd8) - 2026-05-19
+* [Review] [Review on: Update EIP-8037: Calldata floor accounting alignment & call-frame refill clarification](https://github.com/ethereum/EIPs/pull/11706#pullrequestreview-4327780283) - 2026-05-20
 ## Q1 2026
 
 

@@ -71,6 +71,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: add DIV MOD SMOD SDIV impls to EVM V2](https://github.com/besu-eth/besu/pull/10318#pullrequestreview-4168474347) - 2026-04-24
 * [Pull Request] [Add --verbose to evmtool block-test, default off](https://github.com/besu-eth/besu/pull/10348) - 2026-04-28
 * [Commit] [Add --verbose to evmtool block-test, default off (#10348)](https://github.com/besu-eth/besu/commit/01e6759f46efdbb8de1ab536e77abe5c0105c194) - 2026-04-28
+* [Review] [Review on: Replace Address.hashCache Guava LoadingCache with Caffeine](https://github.com/besu-eth/besu/pull/10235#pullrequestreview-4324908564) - 2026-05-20
+* [Pull Request] [Remove unused evm arg from FixedCostOperations](https://github.com/besu-eth/besu/pull/10533) - 2026-05-20
+* [Pull Request] [Refactor: Extract EVMv2 stack manipulation unit tests](https://github.com/besu-eth/besu/pull/10535) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

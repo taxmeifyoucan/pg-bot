@@ -54,6 +54,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Make sync completion slot-precise and remove the initial-sync to regular-sync handoff gap](https://github.com/OffchainLabs/prysm/pull/16607#pullrequestreview-4320682388) - 2026-05-19
 * [Review] [Review on: `Could not update committee cache` log: Move from `Error` to `Debug`.](https://github.com/OffchainLabs/prysm/pull/16816#pullrequestreview-4318514645) - 2026-05-19
 * [Review] [Review on: Apply boost on weak](https://github.com/OffchainLabs/prysm/pull/16786#pullrequestreview-4319638314) - 2026-05-19
+* [Review] [Review on: replace tracked validators cache with proposer preference](https://github.com/OffchainLabs/prysm/pull/16767#pullrequestreview-4329455468) - 2026-05-20
+* [Review] [Review on: Implement gloas gas limit consistency check](https://github.com/OffchainLabs/prysm/pull/16793#pullrequestreview-4330940419) - 2026-05-20
+* [Review] [Review on: Add GasLimit accessor on forkchoice](https://github.com/OffchainLabs/prysm/pull/16811#pullrequestreview-4328703104) - 2026-05-20
+* [Review] [Review on: Update committee cache](https://github.com/OffchainLabs/prysm/pull/16814#pullrequestreview-4329121855) - 2026-05-20
+* [Review] [Review on: Replace linear scan in `BuilderIndexByPubkey` with O(1) map](https://github.com/OffchainLabs/prysm/pull/16813#pullrequestreview-4328915206) - 2026-05-20
+* [Review] [Review on: Add batch verify for deposit request signatures](https://github.com/OffchainLabs/prysm/pull/16810#pullrequestreview-4328732978) - 2026-05-20
+* [Commit] [Implement PTC dual deadlines (#16807)](https://github.com/OffchainLabs/prysm/commit/442069ba22bf8492f0307174e4465d2336353810) - 2026-05-21
+* [Commit] [Apply boost on weak (#16786)](https://github.com/OffchainLabs/prysm/commit/f31155f0d013f81890113880ff294b48142777be) - 2026-05-20
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

@@ -58,6 +58,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(specs): add missing type annotations](https://github.com/ethereum/execution-specs/pull/2868) - 2026-05-17
 * [Review] [Review on: chore(spec-tool): check bpo forks in linter](https://github.com/ethereum/execution-specs/pull/2803#pullrequestreview-4323838121) - 2026-05-19
 * [Commit] [chore(spec-tool): check bpo forks in linter (#2803)](https://github.com/ethereum/execution-specs/commit/21507778e593c9172c3d91844b616b42c2dc4afb) - 2026-05-19
+* [Review] [Review on: fix(test-client-clis): detect EELS-style OutOfGasError in GasExhaustionTraceComparator](https://github.com/ethereum/execution-specs/pull/2879#pullrequestreview-4329564989) - 2026-05-20
+* [Pull Request] [fix(ci,tooling): skip code coverage of glacier/bpo/dao forks](https://github.com/ethereum/execution-specs/pull/2886) - 2026-05-20
+* [Commit] [chore(specs): add missing type annotations (#2868)](https://github.com/ethereum/execution-specs/commit/89c133e07db3468a10acf664dcce99df23513723) - 2026-05-20
+* [Commit] [fix(ci,tooling): skip code coverage of glacier/bpo/dao forks (#2886)](https://github.com/ethereum/execution-specs/commit/42fb0f6aafee790ca427e45507501110cbbfcb3a) - 2026-05-20
 ## Q1 2026
 
 

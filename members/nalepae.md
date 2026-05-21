@@ -68,6 +68,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [`Could not update committee cache` log: Move from `Error` to `Debug`.](https://github.com/OffchainLabs/prysm/pull/16816) - 2026-05-19
 * [Pull Request] [Deprecate the `--max-goroutines` flag.](https://github.com/OffchainLabs/prysm/pull/16815) - 2026-05-19
 * [Commit] [`Could not update committee cache` log: Move from `Error` to `Debug`. (#16816)](https://github.com/OffchainLabs/prysm/commit/29da58d1811dbc828e9851fba195582126eb6961) - 2026-05-19
+* [Review] [Review on: Update committee cache](https://github.com/OffchainLabs/prysm/pull/16814#pullrequestreview-4329615200) - 2026-05-20
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 ## Q1 2026

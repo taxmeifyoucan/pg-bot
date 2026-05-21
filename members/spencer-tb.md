@@ -86,6 +86,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests, spec-specs): eip8037 sstore/collision clear dynamics](https://github.com/ethereum/execution-specs/pull/2863#pullrequestreview-4310411473) - 2026-05-18
 * [Review] [Review on: feat(tests): EIP-8037 isolate intrinsic-regular > cap with floor < cap](https://github.com/ethereum/execution-specs/pull/2870#pullrequestreview-4310471546) - 2026-05-18
 * [Review] [Review on: feat(tests): EIP-7981 zero-byte calldata floor cost rejection](https://github.com/ethereum/execution-specs/pull/2869#pullrequestreview-4309983180) - 2026-05-18
+* [Pull Request] [feat(ci): overhaul fixture releases](https://github.com/ethereum/execution-specs/pull/2888) - 2026-05-20
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

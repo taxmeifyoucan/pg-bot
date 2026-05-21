@@ -52,6 +52,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [Improve performance of BAL sorting entries (#10392)](https://github.com/besu-eth/besu/commit/4352a43b47e437ba6c289b04ca0a92acb7b4476f) - 2026-05-11
 * [Review] [Review on: add cross block cache for trie nodes](https://github.com/besu-eth/besu/pull/10489#pullrequestreview-4272112437) - 2026-05-12
 * [Review] [Review on: Add txsSelectionHighScore metric for per-included-tx selection time](https://github.com/besu-eth/besu/pull/10265#pullrequestreview-4282533153) - 2026-05-13
+* [Review] [Review on: Replace Address.hashCache Guava LoadingCache with Caffeine](https://github.com/besu-eth/besu/pull/10235#pullrequestreview-4326839500) - 2026-05-20
+* [Pull Request] [Bal devnet 7 perf opti](https://github.com/besu-eth/besu/pull/10537) - 2026-05-20
+* [Review] [Review on: Remove unused evm arg from FixedCostOperations](https://github.com/besu-eth/besu/pull/10533#pullrequestreview-4326767729) - 2026-05-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

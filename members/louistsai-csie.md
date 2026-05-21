@@ -98,6 +98,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(spec, spec-specs): EIP-7997](https://github.com/ethereum/execution-specs/pull/2802#pullrequestreview-4315986377) - 2026-05-19
 * [Review] [Review on: feat(tests): EIP-7778 multi-tx mixed gas regimes block accounting](https://github.com/ethereum/execution-specs/pull/2871#pullrequestreview-4315754395) - 2026-05-19
 * [Review] [Review on: feat(tests): EIP-7843 Add test cases for multi-blocks and fork transition](https://github.com/ethereum/execution-specs/pull/2858#pullrequestreview-4315807680) - 2026-05-19
+* [Review] [Review on: feat(spec-spec, tests): Implement eip-8246 and testing scenario](https://github.com/ethereum/execution-specs/pull/2842#pullrequestreview-4329252357) - 2026-05-20
+* [Pull Request] [fix(ci): devnet-7 linting issue](https://github.com/ethereum/execution-specs/pull/2884) - 2026-05-20
+* [Pull Request] [feat(test-benchmark): devnet-7 compatibility for stateful benchmark](https://github.com/ethereum/execution-specs/pull/2885) - 2026-05-20
+* [Review] [Review on: feat(test-benchmark): devnet-7 compatibility for stateful benchmark](https://github.com/ethereum/execution-specs/pull/2885#pullrequestreview-4325719078) - 2026-05-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 
