@@ -155,6 +155,19 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [review: drop deneb import — use type inference for blob commitments](https://github.com/ethpandaops/dora/commit/cdb8395f17f04548b628aa03b49d8cee02b0dff4) - 2026-05-19
 * [Commit] [review: align on spec.DataVersionGloas; warn on missing bid in tx page](https://github.com/ethpandaops/dora/commit/86e9821d774bf24a8186b5686c68b1124691a93f) - 2026-05-19
 * [Commit] [fix(gloas): read blob KZG commitments from the bid post-EIP-7732](https://github.com/ethpandaops/dora/commit/c79447f487e5b2793e0ae517af37afad12f07572) - 2026-05-19
+* [Pull Request] [slot: avoid Overview flash on uncached slot navigation](https://github.com/ethpandaops/dora/pull/709) - 2026-05-21
+* [Pull Request] [indexer/beacon: fix finalize-epoch panic when canonicalBlocks is empty](https://github.com/ethpandaops/dora/pull/710) - 2026-05-21
+* [Pull Request] [slot: preserve active tab when navigating between slots](https://github.com/ethpandaops/dora/pull/708) - 2026-05-21
+* [Pull Request] [Update cleanup script to remove directories recursively](https://github.com/ethpandaops/dora/pull/707) - 2026-05-21
+* [Review] [Review on: [codex] fix security alerts](https://github.com/ethpandaops/dora/pull/706#pullrequestreview-4335058741) - 2026-05-21
+* [Commit] [Merge pull request #710 from ethpandaops/bbusa/fix-finalize-epoch-empty-canonicals](https://github.com/ethpandaops/dora/commit/9907be48eb2d35df975cac30dd8da07d87f506d4) - 2026-05-21
+* [Commit] [Merge branch 'master' into bbusa/fix-finalize-epoch-empty-canonicals](https://github.com/ethpandaops/dora/commit/f8b06d54d067fb8dbb23d1b1772ac885042fa906) - 2026-05-21
+* [Commit] [Merge pull request #708 from ethpandaops/bbusa/preserve-slot-tab-on-nav](https://github.com/ethpandaops/dora/commit/124f6627d8c33db3031fc5526f6ff6322ef70f67) - 2026-05-21
+* [Commit] [indexer/beacon: drop unused root arg from ensureEpochDependentState](https://github.com/ethpandaops/dora/commit/d86f169808f943a8ec50ab74ac2ddb1d20944968) - 2026-05-21
+* [Commit] [slot: preserve active tab when navigating between slots](https://github.com/ethpandaops/dora/commit/8a5b548a4a924ad9fb2012ebf646ed59b148c784) - 2026-05-21
+* [Commit] [Merge pull request #707 from ethpandaops/barnabasbusa-patch-1](https://github.com/ethpandaops/dora/commit/5280da34060b25fd328ea27119369821792a00b8) - 2026-05-21
+* [Commit] [Update cleanup script to remove directories recursively](https://github.com/ethpandaops/dora/commit/d488e5a4e95e68b1676ebcbb72d7e094751db60a) - 2026-05-21
+* [Commit] [Merge pull request #706 from ethpandaops/codex/fix-security-alerts](https://github.com/ethpandaops/dora/commit/812d054e535a601ed8d03abe9f16a7f5aa0c24cc) - 2026-05-21
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -167,6 +180,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix(forkchoice): skip slot-start check for tree root node](https://github.com/OffchainLabs/prysm/pull/16707) - 2026-04-21
 * [Pull Request] [fix(engine): unmarshal slotNumber in ExecutionBundleGloas](https://github.com/OffchainLabs/prysm/pull/16706) - 2026-04-21
 * [Pull Request] [feat(api): expose peer-scoring fields on /eth/v1/node/peers](https://github.com/OffchainLabs/prysm/pull/16794) - 2026-05-15
+* [Pull Request] [Fix Gloas genesis block reconstruction](https://github.com/OffchainLabs/prysm/pull/16821) - 2026-05-21
+* [Pull Request] [Reconstruct Gloas genesis bid from state.latest_execution_payload_bid](https://github.com/OffchainLabs/prysm/pull/16822) - 2026-05-21
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112) - 2026-04-08
 

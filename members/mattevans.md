@@ -66,6 +66,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Review] [Review on: vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168#pullrequestreview-4268512547) - 2026-05-12
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Review] [Review on: fix validatator name filter on missed slots](https://github.com/ethpandaops/dora/pull/711#pullrequestreview-4342004964) - 2026-05-22
 ## Q1 2026
 
 

@@ -62,6 +62,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Add batch verify for deposit request signatures](https://github.com/OffchainLabs/prysm/pull/16810#pullrequestreview-4328732978) - 2026-05-20
 * [Commit] [Implement PTC dual deadlines (#16807)](https://github.com/OffchainLabs/prysm/commit/442069ba22bf8492f0307174e4465d2336353810) - 2026-05-21
 * [Commit] [Apply boost on weak (#16786)](https://github.com/OffchainLabs/prysm/commit/f31155f0d013f81890113880ff294b48142777be) - 2026-05-20
+* [Pull Request] [Fix data column sidecars JSON response post-Gloas](https://github.com/OffchainLabs/prysm/pull/16820) - 2026-05-21
+* [Commit] [Fix data column sidecars JSON response post-Gloas (#16820)](https://github.com/OffchainLabs/prysm/commit/9985c8fe7a03409b9028029a28bde05067eb704c) - 2026-05-21
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

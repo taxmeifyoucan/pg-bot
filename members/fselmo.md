@@ -80,6 +80,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(spec-tool): check bpo forks in linter](https://github.com/ethereum/execution-specs/pull/2803#pullrequestreview-4323727446) - 2026-05-19
 * [Review] [Review on: fix(tests): call delegation access disambiguation](https://github.com/ethereum/execution-specs/pull/2882#pullrequestreview-4319938528) - 2026-05-19
 * [Commit] [feat(tests): extend BALs coverage (#2854)](https://github.com/ethereum/execution-specs/commit/1de389b6177788dfa1df35c71b643e46b82029d1) - 2026-05-20
+* [Pull Request] [feat(specs,tests): merge EIP-8037 into ``forks/amsterdam``](https://github.com/ethereum/execution-specs/pull/2891) - 2026-05-21
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14
@@ -90,10 +91,12 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [eth/tracers: fix evm trace for t8n](https://github.com/ethereum/go-ethereum/pull/34862) - 2026-05-01
 * [Review] [Review on: eth/tracers: fix evm trace for t8n](https://github.com/ethereum/go-ethereum/pull/34862#pullrequestreview-4211408949) - 2026-05-01
 * [Commit] [eth/tracers: fix evm trace for t8n (#34862)](https://github.com/ethereum/go-ethereum/commit/b9c5fe6d26342d625c9a393bef9ccd5209c6d888) - 2026-05-01
+* [Pull Request] [cmd/evm/internal/t8ntool: Amsterdam t8n updates; adds BAL and slotNum](https://github.com/ethereum/go-ethereum/pull/35025) - 2026-05-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141218984) - 2026-04-20
 
 * [Review] [Review on: Update EIP-7928: Clarify edge case aorund 7702 insufficient gas](https://github.com/ethereum/EIPs/pull/11699#pullrequestreview-4320545252) - 2026-05-19
+* [Review] [Review on: Update EIP-7928: add GAS_COPY to EXTCODECOPY](https://github.com/ethereum/EIPs/pull/11718#pullrequestreview-4338188323) - 2026-05-21
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Pull Request] [cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575) - 2026-04-29
 ## Q1 2026

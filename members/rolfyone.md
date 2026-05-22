@@ -72,6 +72,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Improve data column sidecar pruning stream handling](https://github.com/Consensys/teku/pull/10725#pullrequestreview-4317247530) - 2026-05-19
 * [Commit] [Improve data column sidecar pruning stream handling (#10725)](https://github.com/Consensys/teku/commit/38f7b080ce1ea5d0074b7fcbf1cb52a71c1f56da) - 2026-05-20
 * [Commit] [Avoid signing execution-optimistic validator duties (#10698)](https://github.com/Consensys/teku/commit/f101acc54a6207e877d7782e190f7ee448f05244) - 2026-05-20
+* [Review] [Review on: Count PTC votes from duplicated validators + apply attestations from blocks](https://github.com/Consensys/teku/pull/10732#pullrequestreview-4334574536) - 2026-05-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 
@@ -80,6 +81,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Update .gitignore to  include .worktrees](https://github.com/libp2p/jvm-libp2p/pull/462#pullrequestreview-4180956822) - 2026-04-27
 
+* [Pull Request] [Close cancelled network dials](https://github.com/libp2p/jvm-libp2p/pull/481) - 2026-05-21
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/224) - 2026-05-11
 * [Commit] [Downgrade routine peer-interaction logs from DEBUG to TRACE (#224)](https://github.com/Consensys/discovery/commit/9b9119956dac602cd21dd332f2d2415923d74c22) - 2026-05-11

@@ -52,6 +52,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Commit] [Update EIP-8038: Align with 8037 and clarify spec & rationale](https://github.com/ethereum/EIPs/commit/85fe2077e4498e7d5c7fcf979961ad4aac8e6fbd) - 2026-05-13
 * [Review] [Review on: Update EIP-8038: Update write cost condition in SSTORE formula](https://github.com/ethereum/EIPs/pull/11696#pullrequestreview-4318718516) - 2026-05-19
 * [Pull Request] [Update EIP-8037: Calldata floor accounting alignment & call-frame refill clarification](https://github.com/ethereum/EIPs/pull/11706) - 2026-05-20
+* [Review] [Review on: Update EIP-8037: improve EIP-7702 authorization gas accounting in EIP-8037](https://github.com/ethereum/EIPs/pull/11715#pullrequestreview-4336624436) - 2026-05-21
+* [Review] [Review on: Update EIP-8037: Calldata floor accounting alignment & call-frame refill clarification](https://github.com/ethereum/EIPs/pull/11706#pullrequestreview-4336970951) - 2026-05-21
 ## Q1 2026
 
 

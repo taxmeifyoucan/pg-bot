@@ -55,6 +55,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: perf(bal): insertion sort for small column-index lane rows](https://github.com/NethermindEth/nethermind/pull/11671#pullrequestreview-4328685112) - 2026-05-20
 * [Pull Request] [Simplify pruning cutoff & separate for BALs](https://github.com/NethermindEth/nethermind/pull/11701) - 2026-05-20
 * [Commit] [Add agent rules: git, comment styles, linting, ArrayPooList (#11687)](https://github.com/NethermindEth/nethermind/commit/710c8c4a9059b02d63181df13f1b6e9f524f3006) - 2026-05-20
+* [Pull Request] [Enforce IDE0028 (use collection initializers/expressions) in linting](https://github.com/NethermindEth/nethermind/pull/11708) - 2026-05-21
+* [Review] [Review on: perf(bal): replace SortedDictionary/SortedSet aggregates with Dictionary/HashSet](https://github.com/NethermindEth/nethermind/pull/11672#pullrequestreview-4335877164) - 2026-05-21
+* [Commit] [Reduce allocations BAL generation (#11702)](https://github.com/NethermindEth/nethermind/commit/de52568512794667d6f59bb567ec4949a0cfdef6) - 2026-05-21
+* [Commit] [Simplify pruning cutoff & separate for BALs (#11701)](https://github.com/NethermindEth/nethermind/commit/376ac74793d12efa9c90f764a54292ebc4d0f11b) - 2026-05-21
+* [Commit] [Add tests for skipping reorg only if ancestor of finalised block (#11439)](https://github.com/NethermindEth/nethermind/commit/1b311e7adc618ef112f89b8dc3a5c6cf206ee752) - 2026-05-21
 ## Q1 2026
 
 

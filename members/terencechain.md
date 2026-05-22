@@ -173,6 +173,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Apply boost on weak](https://github.com/OffchainLabs/prysm/pull/16786#pullrequestreview-4331412586) - 2026-05-20
 * [Commit] [Implement gloas gas limit consistency check (#16793)](https://github.com/OffchainLabs/prysm/commit/5bf4b516fe456d32e71c8cbe92112814f71e480d) - 2026-05-20
 * [Commit] [Add GasLimit accessor on forkchoice (#16811)](https://github.com/OffchainLabs/prysm/commit/e870d5805411629898b1127c29ddba8885e85960) - 2026-05-20
+* [Pull Request] [Dedup bid at the earliest point in gossip validation](https://github.com/OffchainLabs/prysm/pull/16832) - 2026-05-21
+* [Pull Request] [Cap Gloas pending column cell count, reject malformed sidecars](https://github.com/OffchainLabs/prysm/pull/16831) - 2026-05-21
+* [Review] [Review on: Fix Gloas genesis block reconstruction](https://github.com/OffchainLabs/prysm/pull/16821#pullrequestreview-4337876949) - 2026-05-21
+* [Review] [Review on: fixing missed generations](https://github.com/OffchainLabs/prysm/pull/16827#pullrequestreview-4338617507) - 2026-05-21
+* [Commit] [Replace linear scan in `BuilderIndexByPubkey` with O(1) map (#16813)](https://github.com/OffchainLabs/prysm/commit/7900115f5e7a94181c172271c9fd9a1f31e12f88) - 2026-05-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

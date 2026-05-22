@@ -42,6 +42,9 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Embed `payload_status` into `head` fork choice check](https://github.com/ethereum/consensus-specs/pull/5250#pullrequestreview-4287323519) - 2026-05-14
 * [Review] [Review on: Clarify sentence about refunded deposits to exited builders](https://github.com/ethereum/consensus-specs/pull/5269#pullrequestreview-4319468256) - 2026-05-19
 * [Review] [Review on: Redesign fork choice abstractions](https://github.com/ethereum/consensus-specs/pull/5249#pullrequestreview-4328132362) - 2026-05-20
+* [Pull Request] [Avoid attestations with incompatible shuffling](https://github.com/ethereum/consensus-specs/pull/5276) - 2026-05-21
+* [Review] [Review on: Avoid attestations with incompatible shuffling](https://github.com/ethereum/consensus-specs/pull/5276#pullrequestreview-4338008579) - 2026-05-21
+* [Commit] [Avoid attestations with incompatible shuffling (#5276)](https://github.com/ethereum/consensus-specs/commit/03c0073c5222b4b80aaf272713fb24b71b1f676d) - 2026-05-21
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

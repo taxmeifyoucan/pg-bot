@@ -45,6 +45,12 @@ Team: EthereumJS
 * [Review] [Review on: EIP-7928 BAL Structure Validation Integration](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4303#pullrequestreview-4318360610) - 2026-05-19
 * [Pull Request] [vm: EIP-7976 floor-gas test fixes (broaden exception regex)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4305) - 2026-05-20
 * [Review] [Review on: BAL gas ordering fixes + EVM BAL gas logic refactor](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4304#pullrequestreview-4332223876) - 2026-05-20
+* [Pull Request] [vm: fix EIP-7778 / EIP-8037 fixture regressions](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4307) - 2026-05-21
+* [Review] [Review on: vm: fix EIP-7778 / EIP-8037 fixture regressions](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4307#pullrequestreview-4337228630) - 2026-05-21
+* [Review] [Review on: Final BAL Fixes](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4306#pullrequestreview-4336389314) - 2026-05-21
+* [Commit] [vm: fix EIP-7778 / EIP-8037 fixture regressions (#4307)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/c17e66891742e54c53a75dd3e674320ea288c238) - 2026-05-21
+* [Commit] [vm: EIP-7976 floor-gas test fixes (broaden exception regex) (#4305)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/9add6bb744df1aaf9df94660def1c22c9d7c79f2) - 2026-05-21
+* [Commit] [mpt: awasm noble keccak | Benchmark comparison (#4278)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/baa83fe933f5a264d5fdc6fc86aa75a67023cd15) - 2026-05-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 * [Issue] [Stateless Implementer's Call #52, June 1, 2026](https://github.com/ethereum/pm/issues/2064) - 2026-05-19

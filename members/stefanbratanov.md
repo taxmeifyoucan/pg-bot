@@ -81,6 +81,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Optimize onboarding builders at the fork](https://github.com/Consensys/teku/pull/10729) - 2026-05-19
 * [Pull Request] [Upgrade jvm-libp2p](https://github.com/Consensys/teku/pull/10736) - 2026-05-20
 * [Commit] [Upgrade jvm-libp2p (#10736)](https://github.com/Consensys/teku/commit/8d12baa22c19e70e78cd44d9171d114681d62d7e) - 2026-05-20
+* [Pull Request] [Weak Subjectivity protections for Electra/Gloas](https://github.com/Consensys/teku/pull/10739) - 2026-05-21
+* [Review] [Review on: Optimize onboarding builders at the fork](https://github.com/Consensys/teku/pull/10729#pullrequestreview-4337110267) - 2026-05-21
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22
@@ -88,6 +90,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Filter backoff peers in subscribe() and make v1.3 honour backoff/IDONTWANT](https://github.com/libp2p/jvm-libp2p/pull/472#pullrequestreview-4194906223) - 2026-04-29
 * [Review] [Review on: Add PubsubRpcLimits decoding count-cap to reduce memory footprint](https://github.com/libp2p/jvm-libp2p/pull/477#pullrequestreview-4320791928) - 2026-05-19
 * [Pull Request] [1.3.0 release](https://github.com/libp2p/jvm-libp2p/pull/478) - 2026-05-20
+* [Review] [Review on: Release ByteBuf on control frames and invalid stream tag](https://github.com/libp2p/jvm-libp2p/pull/479#pullrequestreview-4334196291) - 2026-05-21
 ## Q1 2026
 
 

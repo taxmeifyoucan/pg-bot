@@ -467,6 +467,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(bal): cache wire BAL hash on ReadOnlyBlockAccessList (#11668)](https://github.com/NethermindEth/nethermind/commit/c2cc43056751ad0ddac475ea59076806948257c8) - 2026-05-20
 * [Commit] [perf(bal): account-presence bitmap + storage_reads on column index — skip-merge (#11661)](https://github.com/NethermindEth/nethermind/commit/9a85d2f21fe83ddcb01e35f87a257b51de720df2) - 2026-05-20
 * [Commit] [fix(sync test): de-flake two SynchronizerTests on Windows (#11683)](https://github.com/NethermindEth/nethermind/commit/4da8a0d6cde5ea3139f1d47935dad61595310257) - 2026-05-20
+* [Review] [Review on: fix: use enabled parameter in EthStatsPluginTests](https://github.com/NethermindEth/nethermind/pull/11706#pullrequestreview-4336827959) - 2026-05-21
+* [Review] [Review on: Make RefundOnTopLevelHalt overridable for plugin extension](https://github.com/NethermindEth/nethermind/pull/11713#pullrequestreview-4337353700) - 2026-05-21
+* [Review] [Review on: Alchemy - code persistence fix](https://github.com/NethermindEth/nethermind/pull/11712#pullrequestreview-4337216013) - 2026-05-21
+* [Review] [Review on: Simplify pruning cutoff & separate for BALs](https://github.com/NethermindEth/nethermind/pull/11701#pullrequestreview-4336786220) - 2026-05-21
+* [Review] [Review on: fix(trie): rate-limit "Unable to completely prune persisted nodes" warning](https://github.com/NethermindEth/nethermind/pull/11703#pullrequestreview-4335483694) - 2026-05-21
+* [Commit] [perf(bal): replace SortedDictionary/SortedSet aggregates with Dictionary/HashSet (#11672)](https://github.com/NethermindEth/nethermind/commit/789cb76443a9ffef788dda74226517274b68c5a6) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

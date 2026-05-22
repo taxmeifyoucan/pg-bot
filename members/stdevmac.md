@@ -59,6 +59,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [Release/1.38.0 update 1](https://github.com/NethermindEth/nethermind/pull/11626) - 2026-05-16
 * [Commit] [Fix sync actions (#11127)](https://github.com/NethermindEth/nethermind/commit/3db4f1fdf886d38a1ff99da2c5872a70fafbafa3) - 2026-05-16
 * [Commit] [Add new default for gnosis and gnosis archive config (#11269)](https://github.com/NethermindEth/nethermind/commit/4b50e3469984593db325d8553cf075b68e4598e1) - 2026-05-16
+* [Pull Request] [Fix DbTracker repeatedly logging ObjectDisposedException after disposal](https://github.com/NethermindEth/nethermind/pull/11720) - 2026-05-22
+* [Issue] [DbTracker.UpdateDbMetrics throws ObjectDisposedException repeatedly](https://github.com/NethermindEth/nethermind/issues/11719) - 2026-05-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

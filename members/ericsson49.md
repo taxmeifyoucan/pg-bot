@@ -45,6 +45,7 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 * [Commit] [Fix fork-choice comptest attester slashing limit (#5239)](https://github.com/ethereum/consensus-specs/commit/c99ef33a68d252b7eff742cbc5dd1d2cc5008c52) - 2026-05-12
 * [Pull Request] [Implement improvements to comptests generator](https://github.com/ethereum/consensus-specs/pull/5247) - 2026-05-13
 * [Commit] [Implement improvements to comptests generator (#5247)](https://github.com/ethereum/consensus-specs/commit/1308093bd9a83fa8740542855734d90d591c9671) - 2026-05-13
+* [Review] [Review on: Avoid attestations with incompatible shuffling](https://github.com/ethereum/consensus-specs/pull/5276#pullrequestreview-4337979905) - 2026-05-21
 ## Q1 2026
 
 

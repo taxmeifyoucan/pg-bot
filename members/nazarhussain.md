@@ -32,6 +32,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: migrate BeaconStateView to use zapi js dsl (#330)](https://github.com/ChainSafe/lodestar-z/commit/cd458472495f9598eda64a02c43b1ef521750e7e) - 2026-04-30
 * [Review] [Review on: refactor: make XXXDecisionRoot fns return `js.String`](https://github.com/ChainSafe/lodestar-z/pull/342#pullrequestreview-4228041568) - 2026-05-05
 * [Commit] [feat: migrate blst,pubkeys to use zapi js dsl (#331)](https://github.com/ChainSafe/lodestar-z/commit/fcd26caf6c36f8aecfea9ed9c7b5a36e27293bcb) - 2026-05-12
+* [Review] [Review on: feat(clock): add clock module for slot/epoch timing](https://github.com/ChainSafe/lodestar-z/pull/354#pullrequestreview-4338006876) - 2026-05-21
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-4097078708) - 2026-04-13
 * [Review] [Review on: fix(prover): implement eth_getBlockNumber verified request handler](https://github.com/ChainSafe/lodestar/pull/9203#pullrequestreview-4097017101) - 2026-04-13

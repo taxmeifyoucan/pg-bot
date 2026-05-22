@@ -111,6 +111,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: upgrade to v1.7.0-alpha.8 spec](https://github.com/ChainSafe/lodestar/pull/9383#pullrequestreview-4328872949) - 2026-05-20
 * [Issue] [Audit gas limit types (number vs bigint)](https://github.com/ChainSafe/lodestar/issues/9389) - 2026-05-20
 * [Issue] [Derive fallback target gas limit from parent payload](https://github.com/ChainSafe/lodestar/issues/9388) - 2026-05-20
+* [Pull Request] [feat: report parent_block_hash for safe/finalized post-Gloas](https://github.com/ChainSafe/lodestar/pull/9393) - 2026-05-21
+* [Review] [Review on: feat: force the proposer to reorg unavailable blocks](https://github.com/ChainSafe/lodestar/pull/9387#pullrequestreview-4337396939) - 2026-05-21
+* [Review] [Review on: chore: add logs and metrics for execution payload](https://github.com/ChainSafe/lodestar/pull/9370#pullrequestreview-4337391723) - 2026-05-21
+* [Commit] [feat: check gas limit consistency with the target (#9391)](https://github.com/ChainSafe/lodestar/commit/985999b30c2414620973be840096d62aee82f54d) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

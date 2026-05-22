@@ -69,6 +69,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix Taiko sync deadlock after first beacon-sync](https://github.com/NethermindEth/nethermind/pull/11648#pullrequestreview-4317470796) - 2026-05-19
 * [Review] [Review on: feat: unzen hoodi removed](https://github.com/NethermindEth/nethermind/pull/11682#pullrequestreview-4319072083) - 2026-05-19
 * [Review] [Review on: fix: zk-gas validation](https://github.com/NethermindEth/nethermind/pull/11666#pullrequestreview-4317490274) - 2026-05-19
+* [Review] [Review on: Alchemy - Code Fix](https://github.com/NethermindEth/nethermind/pull/11714#pullrequestreview-4341187107) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

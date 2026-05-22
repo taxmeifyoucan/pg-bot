@@ -142,6 +142,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: graphql: implement Logs, Call and SendRawTransaction resolvers (#21219)](https://github.com/erigontech/erigon/commit/8228884a72ccc263e02a950abac2273d732232e3) - 2026-05-19
 * [Pull Request] [rpc: return null v,r,s for unsigned transactions in eth_getBlockNumber](https://github.com/erigontech/erigon/pull/21321) - 2026-05-20
 * [Pull Request] [rpc: fix missing 'from' field in newPendingTransactions*](https://github.com/erigontech/erigon/pull/21322) - 2026-05-20
+* [Pull Request] [QA: disable 2 tests of ots_searchTransactionsAfter](https://github.com/erigontech/erigon/pull/21348) - 2026-05-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

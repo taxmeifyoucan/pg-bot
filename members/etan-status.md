@@ -96,6 +96,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Revert "Apply KZG check to columns fetched via Req/Resp (#8458)"](https://github.com/status-im/nimbus-eth2/pull/8464) - 2026-05-18
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/status-im/nimbus-eth2/pull/8475) - 2026-05-19
 * [Pull Request] [Add fast confirmation event](https://github.com/status-im/nimbus-eth2/pull/8479) - 2026-05-20
+* [Pull Request] [Load keymanager-token in Nix via systemd](https://github.com/status-im/nimbus-eth2/pull/8490) - 2026-05-21
+* [Pull Request] [fix: gloas block gossip validation (2)](https://github.com/status-im/nimbus-eth2/pull/8486) - 2026-05-21
+* [Pull Request] [Update LC database size measurements for Gloas](https://github.com/status-im/nimbus-eth2/pull/8485) - 2026-05-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
@@ -120,6 +123,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Add `create_signed_genesis_block` helper (#5173)](https://github.com/ethereum/consensus-specs/commit/330bda3eb2f7a829e70c152d1fb46971e8d4d886) - 2026-04-28
 * [Review] [Review on: Distinguish absent PTC votes from negative votes](https://github.com/ethereum/consensus-specs/pull/5180#pullrequestreview-4197233796) - 2026-04-29
 * [Review] [Review on: Use `Union[None, T]` instead of `Optional[T]` in SSZ datastructures](https://github.com/ethereum/consensus-specs/pull/5200#pullrequestreview-4225466879) - 2026-05-05
+* [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4334975214) - 2026-05-21
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13

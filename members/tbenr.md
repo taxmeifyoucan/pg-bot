@@ -118,6 +118,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [late block build fix with ForkChoiceNotifier refactor](https://github.com/Consensys/teku/pull/10728) - 2026-05-19
 * [Review] [Review on: Avoid signing execution-optimistic validator duties](https://github.com/Consensys/teku/pull/10698#pullrequestreview-4328846107) - 2026-05-20
 * [Review] [Review on: Upgrade jvm-libp2p](https://github.com/Consensys/teku/pull/10736#pullrequestreview-4328863420) - 2026-05-20
+* [Review] [Review on: Count PTC votes from duplicated validators + apply attestations from blocks](https://github.com/Consensys/teku/pull/10732#pullrequestreview-4339751276) - 2026-05-21
+* [Pull Request] [Minimal pinned block production - fix late block reorg](https://github.com/Consensys/teku/pull/10740) - 2026-05-21
+* [Issue] [Introduce IndexedPayloadAttestationLight](https://github.com/Consensys/teku/issues/10743) - 2026-05-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

@@ -57,6 +57,12 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Remove resetPayload from ConcurrentLruCache](https://github.com/status-im/nimbus-eth1/pull/4249) - 2026-05-18
 * [Commit] [Remove resetPayload from ConcurrentLruCache (#4249)](https://github.com/status-im/nimbus-eth1/commit/e9bd84df0bc89b3adffc074080382201836c3935) - 2026-05-18
 * [Commit] [Enable parallel state root computation by default (#4247)](https://github.com/status-im/nimbus-eth1/commit/3282e07a003e2b911aa25e7f3e4aefcd2db5af1c) - 2026-05-19
+* [Pull Request] [Return blockAccessListHash with block header in RPC APIs](https://github.com/status-im/nimbus-eth1/pull/4262) - 2026-05-21
+* [Pull Request] [Implement debug_getRawBlockAccessList](https://github.com/status-im/nimbus-eth1/pull/4261) - 2026-05-21
+* [Review] [Review on: Optimistic state prefetch](https://github.com/status-im/nimbus-eth1/pull/4238#pullrequestreview-4334542450) - 2026-05-21
+* [Pull Request] [Update kzg trusted setup loading parameters](https://github.com/status-im/nimbus-eth1/pull/4260) - 2026-05-21
+* [Commit] [Implement debug_getRawBlockAccessList (#4261)](https://github.com/status-im/nimbus-eth1/commit/a6464a3d92376b7f36ae506bf1032ada8998f0be) - 2026-05-21
+* [Commit] [Update kzg trusted setup loading parameters (#4260)](https://github.com/status-im/nimbus-eth1/commit/a91f5154f93b1dddda8b8538432ebd8d60dc647f) - 2026-05-21
 ## Q1 2026
 
 

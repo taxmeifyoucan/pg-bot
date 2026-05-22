@@ -102,6 +102,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [fix(ci): devnet-7 linting issue](https://github.com/ethereum/execution-specs/pull/2884) - 2026-05-20
 * [Pull Request] [feat(test-benchmark): devnet-7 compatibility for stateful benchmark](https://github.com/ethereum/execution-specs/pull/2885) - 2026-05-20
 * [Review] [Review on: feat(test-benchmark): devnet-7 compatibility for stateful benchmark](https://github.com/ethereum/execution-specs/pull/2885#pullrequestreview-4325719078) - 2026-05-20
+* [Review] [Review on: chore(test-client-clis): updated error mapping for reth devnet 7](https://github.com/ethereum/execution-specs/pull/2890#pullrequestreview-4334309295) - 2026-05-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

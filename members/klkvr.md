@@ -142,6 +142,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [fix(bench): don't enable otlp features](https://github.com/paradigmxyz/reth/pull/24356) - 2026-05-19
 * [Review] [Review on: feat: derive OTLP auth from endpoint URL credentials](https://github.com/paradigmxyz/reth/pull/24346#pullrequestreview-4319502153) - 2026-05-19
 * [Commit] [fix(bench): don't enable otlp features (#24356)](https://github.com/paradigmxyz/reth/commit/cae229f0d5f6b67199af22a31e9fca193fb958da) - 2026-05-19
+* [Review] [Review on: refactor(payload): store recovered block in built payload](https://github.com/paradigmxyz/reth/pull/24403#pullrequestreview-4341002002) - 2026-05-21
+* [Pull Request] [chore: bump revm 40](https://github.com/paradigmxyz/reth/pull/24395) - 2026-05-21
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

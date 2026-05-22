@@ -70,6 +70,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [Update to ere@v0.9.1 and ere-guests@v0.10.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/284) - 2026-05-13
 * [Review] [Review on: Update to ere@v0.9.1 and ere-guests@v0.10.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/284#pullrequestreview-4285050719) - 2026-05-13
 * [Commit] [Update to ere@v0.9.1 and ere-guests@v0.10.0 (#284)](https://github.com/eth-act/zkevm-benchmark-workload/commit/073561e92735994e27e5b87ee4e6941d0c83ff76) - 2026-05-13
+* [Pull Request] [feat: add support for EEST blockchain test fixtures](https://github.com/eth-act/zkevm-benchmark-workload/pull/286) - 2026-05-21
+* [Review] [Review on: feat: add support for EEST blockchain test fixtures](https://github.com/eth-act/zkevm-benchmark-workload/pull/286#pullrequestreview-4339062207) - 2026-05-21
+* [Review] [Review on: feat: update to ere@v0.11.0 and ere-guests@v0.11.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/285#pullrequestreview-4338375114) - 2026-05-21
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08
@@ -90,9 +93,11 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/pull/11587) - 2026-04-30
 * [Review] [Review on: Update EIP-8025: Move to Draft](https://github.com/ethereum/EIPs/pull/11604#pullrequestreview-4237887906) - 2026-05-06
 
+* [Pull Request] [Update EIP-8081: Add EIP-7709 and EIP-8025](https://github.com/ethereum/EIPs/pull/11720) - 2026-05-21
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: implement engine_newPayloadWithWitnessV5 and use witness field spec ordering](https://github.com/ethereum/go-ethereum/pull/35009) - 2026-05-19
 * [Review] [Review on: eth/catalyst: implement engine_newPayloadWithWitnessV5 and use witness field spec ordering](https://github.com/ethereum/go-ethereum/pull/35009#pullrequestreview-4321981008) - 2026-05-19
+* [Commit] [eth/catalyst: implement engine_newPayloadWithWitnessV5 and use witness field spec ordering (#35009)](https://github.com/ethereum/go-ethereum/commit/4daaaadfc4706b0a49d4dfde3559de7be968c28a) - 2026-05-21
 ## Q1 2026
 
 

@@ -203,6 +203,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [perf: extend collect_n and shifted_powers to remaining call sites (#1683)](https://github.com/Plonky3/Plonky3/commit/f9cf1fa857729e8c4048afa9565f615831996780) - 2026-05-20
 * [Commit] [fix(mersenne-31): allow value == P in MDS partial-reduction (#1684)](https://github.com/Plonky3/Plonky3/commit/a6fe83eab081e18ff7d7b464e0a85e3536ba6719) - 2026-05-20
 * [Commit] [bench(whir): add end-to-end PCS benchmark suite (#1582)](https://github.com/Plonky3/Plonky3/commit/afa94e274f37c71a8152515a45746117f259524e) - 2026-05-20
+* [Review] [Review on: ci: tighten doc/release/TOML checks](https://github.com/Plonky3/Plonky3/pull/1689#pullrequestreview-4340400812) - 2026-05-21
+* [Review] [Review on: Couple fixes](https://github.com/Plonky3/Plonky3/pull/1688#pullrequestreview-4338069998) - 2026-05-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

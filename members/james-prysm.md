@@ -90,6 +90,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [fix gloas proposal endpoint support](https://github.com/OffchainLabs/prysm/pull/16818) - 2026-05-20
 * [Review] [Review on: replace tracked validators cache with proposer preference](https://github.com/OffchainLabs/prysm/pull/16767#pullrequestreview-4329641258) - 2026-05-20
 * [Review] [Review on: Implement gloas gas limit consistency check](https://github.com/OffchainLabs/prysm/pull/16793#pullrequestreview-4330987315) - 2026-05-20
+* [Pull Request] [reworking proposer preference validation to avoid state lookup](https://github.com/OffchainLabs/prysm/pull/16830) - 2026-05-21
+* [Review] [Review on: reworking proposer preference validation to avoid state lookup](https://github.com/OffchainLabs/prysm/pull/16830#pullrequestreview-4340937562) - 2026-05-21
+* [Review] [Review on: implements ptc beacon apis](https://github.com/OffchainLabs/prysm/pull/16306#pullrequestreview-4340036480) - 2026-05-21
+* [Review] [Review on: fix gloas proposal endpoint support](https://github.com/OffchainLabs/prysm/pull/16818#pullrequestreview-4337937299) - 2026-05-21
+* [Review] [Review on: nil check for block](https://github.com/OffchainLabs/prysm/pull/16825#pullrequestreview-4338229594) - 2026-05-21
+* [Pull Request] [fixing missed generations](https://github.com/OffchainLabs/prysm/pull/16827) - 2026-05-21
+* [Review] [Review on: Fix data column sidecars JSON response post-Gloas](https://github.com/OffchainLabs/prysm/pull/16820#pullrequestreview-4337833121) - 2026-05-21
+* [Review] [Review on: Fix debug data_column_sidecars endpoint for Gloas blocks](https://github.com/OffchainLabs/prysm/pull/16817#pullrequestreview-4337720468) - 2026-05-21
+* [Commit] [fixing missed generations (#16827)](https://github.com/OffchainLabs/prysm/commit/07ff2eea6f19fe0a65ea9b87d47be0ce072f6397) - 2026-05-21
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

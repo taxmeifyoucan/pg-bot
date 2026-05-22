@@ -91,6 +91,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Add experimental CLI option to advertise snap/2](https://github.com/besu-eth/besu/pull/10536#pullrequestreview-4327830723) - 2026-05-20
 * [Pull Request] [fix prefetch for bal devnet 7](https://github.com/besu-eth/besu/pull/10534) - 2026-05-20
 * [Review] [Review on: Decouple snap data requests from `SnapWorldDownloadState`](https://github.com/besu-eth/besu/pull/10530#pullrequestreview-4325610351) - 2026-05-20
+* [Review] [Review on: Prepare snap sync downloader selection for snap/2](https://github.com/besu-eth/besu/pull/10545#pullrequestreview-4337960301) - 2026-05-21
+* [Review] [Review on: Remove optimization to apply BALs before flat db heal](https://github.com/besu-eth/besu/pull/10538#pullrequestreview-4337443853) - 2026-05-21
+* [Issue] [EIP-7928: Investigate Clarify edge case aorund 7702 insufficient gas](https://github.com/besu-eth/besu/issues/10543) - 2026-05-21
+* [Issue] [EIP-7926 -  Besu serializes the BAL hash as balHash](https://github.com/besu-eth/besu/issues/10544) - 2026-05-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

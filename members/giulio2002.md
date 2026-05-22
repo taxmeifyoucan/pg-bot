@@ -83,11 +83,15 @@ Team: Erigon
 * [Review] [Review on: execution/commitment/trie, execution/state: clean up dead trie/HashBuilder code](https://github.com/erigontech/erigon/pull/21284#pullrequestreview-4324697202) - 2026-05-20
 * [Review] [Review on: bloatnet: disable referenced keys](https://github.com/erigontech/erigon/pull/21295#pullrequestreview-4324697158) - 2026-05-20
 * [Review] [Review on: deps: bump mdbx-go to v0.40.1 (libmdbx 0.14.2)](https://github.com/erigontech/erigon/pull/21302#pullrequestreview-4327376368) - 2026-05-20
+* [Review] [Review on: [r3.4] .github/workflows: retry test-all after go clean -cache](https://github.com/erigontech/erigon/pull/21343#pullrequestreview-4339471692) - 2026-05-21
+* [Review] [Review on: [r3.4] .github/workflows: fetch full history in source-of-changes to avoid shallow-deepen race](https://github.com/erigontech/erigon/pull/21341#pullrequestreview-4337625159) - 2026-05-21
+* [Review] [Review on: `FillDBFromSnapshots`: to use etl pool](https://github.com/erigontech/erigon/pull/21330#pullrequestreview-4335945861) - 2026-05-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22
 * [Pull Request] [Update EIP-8178: Add Barnabas Busa as co-author](https://github.com/ethereum/EIPs/pull/11566) - 2026-04-23
 
+* [Commit] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/commit/1dc9bc870f864d7ad1095fc73ba8ca098d02c732) - 2026-05-21
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: SSZ-REST Engine API Transport for Prysm](https://github.com/OffchainLabs/prysm/pull/16447#pullrequestreview-4166734850) - 2026-04-23
 

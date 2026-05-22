@@ -60,6 +60,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[WIP] cl: implement consensus-specs v1.7.0-alpha.8 for Gloas devnet-4](https://github.com/erigontech/erigon/pull/21308) - 2026-05-20
 * [Review] [Review on: execution,cl: add TargetGasLimit to PayloadAttributesV4](https://github.com/erigontech/erigon/pull/21297#pullrequestreview-4325756563) - 2026-05-20
 * [Commit] [caplin: persist node key across restarts for stable ENR (#21276)](https://github.com/erigontech/erigon/commit/002facf81597415f8727cc4c253966141cffd1ed) - 2026-05-20
+* [Review] [Review on: cl/phase1/forkchoice: align getFilterBlockTree with consensus spec](https://github.com/erigontech/erigon/pull/21327#pullrequestreview-4335058922) - 2026-05-21
+* [Commit] [cl: GLOAS audit fixes — clone aliasing, PTC consistency, memory leaks, nil panics (#21248)](https://github.com/erigontech/erigon/commit/93480e4c0f2d3060efff4ca18ece948f860e3804) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

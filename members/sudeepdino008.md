@@ -194,6 +194,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/phase1/forkchoice: align getFilterBlockTree with consensus spec](https://github.com/erigontech/erigon/pull/21317) - 2026-05-20
 * [Pull Request] [cl/phase1/forkchoice: align getFilterBlockTree with consensus spec](https://github.com/erigontech/erigon/pull/21310) - 2026-05-20
 * [Issue] [FCU stale head causes repeated execution unwinds at tip](https://github.com/erigontech/erigon/issues/21301) - 2026-05-20
+* [Review] [Review on: bloatnet: disable referenced keys](https://github.com/erigontech/erigon/pull/21295#pullrequestreview-4336968367) - 2026-05-21
+* [Pull Request] [cl/phase1/forkchoice: align getFilterBlockTree with consensus spec](https://github.com/erigontech/erigon/pull/21327) - 2026-05-21
+* [Pull Request] [cl/phase1/forkchoice: use post-pull-up values for prior-epoch updateCheckpoints](https://github.com/erigontech/erigon/pull/21339) - 2026-05-21
+* [Pull Request] [[wip] cl/phase1/forkchoice: use post-pull-up values in compute_pulled_up_tip](https://github.com/erigontech/erigon/pull/21336) - 2026-05-21
+* [Pull Request] [cmd/utils/app: skip .tmp files in state snapshot integrity check](https://github.com/erigontech/erigon/pull/21328) - 2026-05-21
+* [Pull Request] [cmd/utils/app: skip .tmp files in state snapshot integrity check](https://github.com/erigontech/erigon/pull/21331) - 2026-05-21
+* [Review] [Review on: cl/phase1/forkchoice: align getFilterBlockTree with consensus spec](https://github.com/erigontech/erigon/pull/21310#pullrequestreview-4334530997) - 2026-05-21
+* [Review] [Review on: [wip] block snaps: don't calc FileName where can](https://github.com/erigontech/erigon/pull/21329#pullrequestreview-4334971855) - 2026-05-21
+* [Commit] [cl/phase1/forkchoice: align getFilterBlockTree with consensus spec (#21327)](https://github.com/erigontech/erigon/commit/419521c1b35eb46841f86fec89e42e31feeb04fb) - 2026-05-21
+* [Commit] [cmd/utils/app: skip .tmp files in state snapshot integrity check (#21331)](https://github.com/erigontech/erigon/commit/cf24fbf1607a845c179162424ea9515ebfc1b9cc) - 2026-05-21
 ## Q1 2026
 
 

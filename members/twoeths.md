@@ -160,6 +160,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: download proposer duties for the next epoch post-fulu (#9380)](https://github.com/ChainSafe/lodestar/commit/c5efeb6c907f3b284ea910b2af24d2ad0259b99f) - 2026-05-19
 * [Pull Request] [feat: force the proposer to reorg unavailable blocks](https://github.com/ChainSafe/lodestar/pull/9387) - 2026-05-20
 * [Commit] [feat: upgrade to v1.7.0-alpha.8 spec (#9383)](https://github.com/ChainSafe/lodestar/commit/1d0e0b9081d83943480a7a39222a6b9e71acaf17) - 2026-05-20
+* [Pull Request] [feat: implement publishExecutionPayloadBid api](https://github.com/ChainSafe/lodestar/pull/9392) - 2026-05-21
+* [Review] [Review on: feat: check gas limit consistency with the target](https://github.com/ChainSafe/lodestar/pull/9391#pullrequestreview-4333770040) - 2026-05-21
+* [Issue] [Gloas: onboard 20k builders at fork transition](https://github.com/ChainSafe/lodestar/issues/9395) - 2026-05-22
+* [Commit] [feat: force the proposer to reorg unavailable blocks (#9387)](https://github.com/ChainSafe/lodestar/commit/b506aab66debd7baa0bfa2f6632a9c6936f045ad) - 2026-05-21
+* [Commit] [chore: add logs and metrics for execution payload (#9370)](https://github.com/ChainSafe/lodestar/commit/1a8c38ee36d2a585a3b949a0504ea7096ced6891) - 2026-05-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

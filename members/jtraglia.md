@@ -256,6 +256,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Remove unused config utils](https://github.com/ethereum/consensus-specs/pull/5273) - 2026-05-20
 * [Review] [Review on: Redesign fork choice abstractions](https://github.com/ethereum/consensus-specs/pull/5249#pullrequestreview-4328928928) - 2026-05-20
 * [Commit] [Remove unused config utils (#5273)](https://github.com/ethereum/consensus-specs/commit/5a5b598aeba6cd45ce7c37d9fd0e88de6203f5b2) - 2026-05-20
+* [Review] [Review on: Add `on_attestation` tests for `validate_on_attestation` updates](https://github.com/ethereum/consensus-specs/pull/5275#pullrequestreview-4339327337) - 2026-05-21
+* [Review] [Review on: Avoid attestations with incompatible shuffling](https://github.com/ethereum/consensus-specs/pull/5276#pullrequestreview-4339076195) - 2026-05-21
+* [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4336709876) - 2026-05-21
+* [Review] [Review on: Test data column sidecar reconstruction in Gloas](https://github.com/ethereum/consensus-specs/pull/5274#pullrequestreview-4336817002) - 2026-05-21
+* [Review] [Review on: Enable more ruff lint checks](https://github.com/ethereum/consensus-specs/pull/5268#pullrequestreview-4336652055) - 2026-05-21
+* [Commit] [Add executable gossip validation functions for fulu (#5246)](https://github.com/ethereum/consensus-specs/commit/dd69b4fd86b834366c6d322a93a857788350add6) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

@@ -210,6 +210,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Remove unused evm arg from FixedCostOperations](https://github.com/besu-eth/besu/pull/10533#pullrequestreview-4325494458) - 2026-05-20
 * [Review] [Review on: feat(api): implement eth_baseFee JSON-RPC method](https://github.com/besu-eth/besu/pull/10457#pullrequestreview-4325995630) - 2026-05-20
 * [Commit] [fix: reject non-hex block numbers in BlockParameter (#10515)](https://github.com/besu-eth/besu/commit/b96015d06fcb7862e7c03473f57b6cdfaf5d0568) - 2026-05-20
+* [Review] [Review on: fix(controller): fall back to PoS when no consensus mechanism declared in genesis](https://github.com/besu-eth/besu/pull/10266#pullrequestreview-4340948715) - 2026-05-21
+* [Review] [Review on: Require Java 25 to build](https://github.com/besu-eth/besu/pull/10539#pullrequestreview-4334197363) - 2026-05-21
+* [Review] [Review on: Integrate NullAway for nullability checks in ethstats package](https://github.com/besu-eth/besu/pull/10520#pullrequestreview-4341048688) - 2026-05-21
+* [Review] [Review on: Add Bonsai debug modified accounts RPC methods](https://github.com/besu-eth/besu/pull/10487#pullrequestreview-4334409466) - 2026-05-21
+* [Review] [Review on: Enable NullAway static null-safety analysis for datatypes module](https://github.com/besu-eth/besu/pull/10394#pullrequestreview-4333584826) - 2026-05-21
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

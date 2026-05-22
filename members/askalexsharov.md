@@ -568,6 +568,23 @@ Team: Erigon
 * [Review] [Review on: execution/rlp, execution/types: cut RLP header-decode allocations](https://github.com/erigontech/erigon/pull/21287#pullrequestreview-4325509674) - 2026-05-20
 * [Issue] [Recheck Downloader logic](https://github.com/erigontech/erigon/issues/21324) - 2026-05-21
 * [Issue] [Prune frozen files support](https://github.com/erigontech/erigon/issues/21306) - 2026-05-20
+* [Review] [Review on: bloatnet: disable referenced keys](https://github.com/erigontech/erigon/pull/21295#pullrequestreview-4342070807) - 2026-05-22
+* [Review] [Review on: execution: remove parallel-exec skipCheck — validator is sole source of truth (#21319)](https://github.com/erigontech/erigon/pull/21344#pullrequestreview-4342041116) - 2026-05-22
+* [Review] [Review on: execution/state: per-path revival in versionedRead MVReadResultNone branch](https://github.com/erigontech/erigon/pull/21345#pullrequestreview-4342046344) - 2026-05-22
+* [Review] [Review on: node: replace sort.Slice with slices.Sort for natural ordering](https://github.com/erigontech/erigon/pull/21346#pullrequestreview-4342043946) - 2026-05-22
+* [Review] [Review on: eest: add EIP-8025 execution witness test suite (93 zkevm fixtures)](https://github.com/erigontech/erigon/pull/20938#pullrequestreview-4342033946) - 2026-05-22
+* [Review] [Review on: cl/phase1/forkchoice: align getFilterBlockTree with consensus spec](https://github.com/erigontech/erigon/pull/21327#pullrequestreview-4335241749) - 2026-05-21
+* [Pull Request] [`FillDBFromSnapshots`: to use etl pool](https://github.com/erigontech/erigon/pull/21330) - 2026-05-21
+* [Review] [Review on: cmd/utils/app: skip .tmp files in state snapshot integrity check](https://github.com/erigontech/erigon/pull/21328#pullrequestreview-4335265737) - 2026-05-21
+* [Review] [Review on: cmd/utils/app: skip .tmp files in state snapshot integrity check](https://github.com/erigontech/erigon/pull/21331#pullrequestreview-4335252166) - 2026-05-21
+* [Review] [Review on: execution/stagedsync, cmd/integration: clear canonical hash above snapshot tip on reset_state](https://github.com/erigontech/erigon/pull/21247#pullrequestreview-4334959124) - 2026-05-21
+* [Review] [Review on: db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots](https://github.com/erigontech/erigon/pull/21200#pullrequestreview-4335198817) - 2026-05-21
+* [Pull Request] [[wip] block snaps: don't calc FileName where can](https://github.com/erigontech/erigon/pull/21329) - 2026-05-21
+* [Review] [Review on: [r3.4] cmd/integration, execution/stagedsync: clear canonical hash above snapshot tip on reset_state](https://github.com/erigontech/erigon/pull/21246#pullrequestreview-4334959502) - 2026-05-21
+* [Review] [Review on: node/eth: wait for the KZG warmup goroutine on shutdown](https://github.com/erigontech/erigon/pull/21325#pullrequestreview-4334503320) - 2026-05-21
+* [Issue] [initial sync: big `BlockTransactions` table and `stepsInDB=5`](https://github.com/erigontech/erigon/issues/21326) - 2026-05-21
+* [Commit] [`FillDBFromSnapshots`: to use etl pool (#21330)](https://github.com/erigontech/erigon/commit/caf681b978ae99af8a7a2ea6df6b4f4bf7e258d6) - 2026-05-21
+* [Commit] [[wip] flush block overlay after each InsertBlocks batch (fix OOM) (#21300)](https://github.com/erigontech/erigon/commit/0a11f6863af1651f624f3cd5cfb445035bc47cd9) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

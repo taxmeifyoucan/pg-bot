@@ -56,6 +56,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #182 from ethpandaops/fix-timeouts](https://github.com/ethpandaops/assertoor/commit/45d65c5e0b127488b4ab00f7c4a8e095848363ad) - 2026-05-20
 * [Commit] [fix two-way split finality recovery check](https://github.com/ethpandaops/assertoor/commit/db68cbe79a10ef0be4db56de59691f283863ddf8) - 2026-05-20
 * [Commit] [fix timeouts](https://github.com/ethpandaops/assertoor/commit/347a3fb26710b02faec284d660d73f55e45bbea7) - 2026-05-20
+* [Pull Request] [[codex] split network split playbooks](https://github.com/ethpandaops/assertoor/pull/185) - 2026-05-21
+* [Commit] [Merge pull request #185 from ethpandaops/codex/split-network-playbooks](https://github.com/ethpandaops/assertoor/commit/0ad56fbef34f1251d22b2eeb85a8a1193b31262d) - 2026-05-21
+* [Commit] [split network split playbooks](https://github.com/ethpandaops/assertoor/commit/b8ef5961913a8b9e81d431387b5c4205cfd59509) - 2026-05-21
 ## Q1 2026
 
 

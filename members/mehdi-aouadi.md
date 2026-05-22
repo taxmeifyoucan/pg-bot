@@ -73,6 +73,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [Focil master](https://github.com/Consensys/teku/pull/10727) - 2026-05-19
 * [Pull Request] [merge branch master into focil](https://github.com/Consensys/teku/pull/10737) - 2026-05-20
 
+* [Pull Request] [Focil rebase master](https://github.com/Consensys/teku/pull/10742) - 2026-05-21
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: 1.3.0 release](https://github.com/libp2p/jvm-libp2p/pull/478#pullrequestreview-4327252421) - 2026-05-20
 ## Q1 2026

@@ -438,6 +438,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [debug_executionWitness should be 100% correct and work fine for Zilkworm](https://github.com/erigontech/erigon/issues/21307) - 2026-05-20
 * [Commit] [execution/commitment/trie, execution/state: clean up dead trie/HashBuilder code (#21284)](https://github.com/erigontech/erigon/commit/d6e0fb0fadb9532d208ceeea539215b3e8af0c27) - 2026-05-20
 * [Commit] [execution/state: exclude own-tx writes from SD revival check (#21286)](https://github.com/erigontech/erigon/commit/e3f36d9ce1b9d032507ecf61d48ebc029ebf7558) - 2026-05-20
+* [Pull Request] [[r3.4] .github/workflows: retry test-all after go clean -cache](https://github.com/erigontech/erigon/pull/21343) - 2026-05-21
+* [Pull Request] [db: full mode now prunes block data to EIP-8252 window](https://github.com/erigontech/erigon/pull/21342) - 2026-05-21
+* [Review] [Review on: db: full mode now prunes block data to EIP-8252 window](https://github.com/erigontech/erigon/pull/21342#pullrequestreview-4337559344) - 2026-05-21
+* [Review] [Review on: p2p/sentry: share one p2p.Server across all eth protocols](https://github.com/erigontech/erigon/pull/21335#pullrequestreview-4337212094) - 2026-05-21
+* [Review] [Review on: execution: pass hive eest tests for bal-devnet-7](https://github.com/erigontech/erigon/pull/21315#pullrequestreview-4335576033) - 2026-05-21
+* [Review] [Review on: execution: reuse receipt blooms in post validation](https://github.com/erigontech/erigon/pull/21332#pullrequestreview-4335664953) - 2026-05-21
+* [Pull Request] [[r3.4] .github/workflows: fetch full history in source-of-changes to avoid shallow-deepen race](https://github.com/erigontech/erigon/pull/21341) - 2026-05-21
+* [Review] [Review on: execution/vm: include SELFDESTRUCT beneficiary in BAL regardless of value transfer](https://github.com/erigontech/erigon/pull/21333#pullrequestreview-4336024506) - 2026-05-21
+* [Pull Request] [[r3.4] ChangeLog: catch up on 3.3.x/3.4.x and draft v3.4.2](https://github.com/erigontech/erigon/pull/21337) - 2026-05-21
+* [Pull Request] [[r3.4] db/version: bump version to 3.4.2](https://github.com/erigontech/erigon/pull/21338) - 2026-05-21
+* [Pull Request] [.github: grant claude-code-action contents:write so it can push](https://github.com/erigontech/erigon/pull/21334) - 2026-05-21
+* [Commit] [.github: grant claude-code-action contents:write so it can push (#21334)](https://github.com/erigontech/erigon/commit/c7ae33f53183b0ae240f41d1fb4906c34714fe08) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

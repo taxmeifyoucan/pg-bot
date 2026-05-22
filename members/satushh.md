@@ -53,6 +53,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Make sync completion slot-precise and remove the initial-sync to regular-sync handoff gap (#16607)](https://github.com/OffchainLabs/prysm/commit/63b2c1b4976df63e3d0bb2a4b16bfb5800e5967d) - 2026-05-19
 * [Pull Request] [Fix debug data_column_sidecars endpoint for Gloas blocks](https://github.com/OffchainLabs/prysm/pull/16817) - 2026-05-20
 * [Review] [Review on: Replace linear scan in `BuilderIndexByPubkey` with O(1) map](https://github.com/OffchainLabs/prysm/pull/16813#pullrequestreview-4329571313) - 2026-05-20
+* [Pull Request] [nil check for block](https://github.com/OffchainLabs/prysm/pull/16825) - 2026-05-21
+* [Commit] [nil check for block (#16825)](https://github.com/OffchainLabs/prysm/commit/8a15fca7744088839af2059cbc410e6bddf8ee6a) - 2026-05-21
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

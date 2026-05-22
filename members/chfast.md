@@ -121,6 +121,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test/utils: Rename evmone::test::run to evmone::tooling::run (#1533)](https://github.com/ipsilon/evmone/commit/91011146fe3947521b800757585c8b6e75be818e) - 2026-05-20
 * [Commit] [tools: Replace evmc::tooling with evmone::test::run (#1531)](https://github.com/ipsilon/evmone/commit/c270a813cd3c7ac0427d2ffb57332de902c54e34) - 2026-05-20
 * [Commit] [build: Move evmone::testutils under EVMONE_TOOLS (#1532)](https://github.com/ipsilon/evmone/commit/371f91dfb3032aa76d1460ec0e18ffc256a6bbfc) - 2026-05-20
+* [Commit] [test/utils: Extract evmone::tooling::t8n() from evmone-t8n main (#1535)](https://github.com/ipsilon/evmone/commit/34b34123b4a268fe12b6a9900f365f7ffb7244d0) - 2026-05-21
+* [Commit] [precompiles: Upgrade blst to v0.3.16 (#1534)](https://github.com/ipsilon/evmone/commit/159bfc93da4ea7ecc978063126c3aea9e8e15581) - 2026-05-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -147,6 +149,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): EIP-7778 multi-tx mixed gas regimes block accounting (#2871)](https://github.com/ethereum/execution-specs/commit/31d7e698973703d4863ed0a4b099c4484d47594e) - 2026-05-19
 * [Commit] [feat(tests): EIP-7976 reject exact-balance tx in Prague/Amsterdam floor gap (#2878)](https://github.com/ethereum/execution-specs/commit/c3a7b6b6cf5d806bdb20da8a3464d824bdefb81a) - 2026-05-20
 * [Commit] [feat(tests): EIP-7981 reject in access-list-byte floor gap with exact-balance sender (#2880)](https://github.com/ethereum/execution-specs/commit/bbacd741a9d893585d974a0b4eaee6abc31189cf) - 2026-05-20
+* [Pull Request] [fix(spec-specs, tests): EIP-8037 strict block-gas inclusion rule](https://github.com/ethereum/execution-specs/pull/2892) - 2026-05-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15
@@ -167,11 +170,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Update EIP-8246: Fix typos and grammar](https://github.com/ethereum/EIPs/commit/4e303336fc9970887aea31579f9e804f4a186030) - 2026-05-08
 * [Commit] [Update EIP-7773: CFI EIP-8246 for Glamsterdam](https://github.com/ethereum/EIPs/commit/e88ce5971abb73ba526a6e3653313a82ca3f2ebe) - 2026-05-10
 * [Commit] [Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/commit/60a241e35e88a147fb08db96a786275b384fbe6a) - 2026-05-14
+* [Commit] [Update EIP-8246: Move to Review](https://github.com/ethereum/EIPs/commit/45b443dc26ffae9437f8e396e677b4242e067613) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4138243461) - 2026-04-20
 
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Issue] [EIP-8037: missing CREATE state-charge commits then immediate regular OOG test](https://github.com/ethereum/execution-spec-tests/issues/2321) - 2026-04-23
+* [Issue] [test_point_evaluation_precompile: add `external_vectors` entry where `proof = -G1_generator`](https://github.com/ethereum/execution-spec-tests/issues/2322) - 2026-05-21
 ## Q1 2026
 
 

@@ -195,6 +195,14 @@ Team: Erigon
 * [Issue] [parallel-exec: validateReadImpl recursive cross-validate probes are inert no-ops](https://github.com/erigontech/erigon/issues/21318) - 2026-05-20
 * [Commit] [execution: fix parallel-exec SD-recreate flake + validator false positives (#21294)](https://github.com/erigontech/erigon/commit/8990fc459394b44b1092f2c1367d8ba10b66ec69) - 2026-05-20
 * [Commit] [execution/rlp, execution/types: cut RLP header-decode allocations (#21287)](https://github.com/erigontech/erigon/commit/e00f595661a6060691c8c53602b13e7eb8532cd1) - 2026-05-20
+* [Pull Request] [execution: remove parallel-exec skipCheck — validator is sole source of truth (#21319)](https://github.com/erigontech/erigon/pull/21344) - 2026-05-21
+* [Pull Request] [execution/state: per-path revival in versionedRead MVReadResultNone branch](https://github.com/erigontech/erigon/pull/21345) - 2026-05-21
+* [Review] [Review on: db/kv/membatchwithdb: use Append in MemoryMutation.Flush for sorted-key tables](https://github.com/erigontech/erigon/pull/21313#pullrequestreview-4341018467) - 2026-05-21
+* [Review] [Review on: rpc/jsonrpc, node/ethconfig: enable FcuBackgroundCommit by default](https://github.com/erigontech/erigon/pull/21293#pullrequestreview-4341050308) - 2026-05-21
+* [Pull Request] [node/eth: wait for the KZG warmup goroutine on shutdown](https://github.com/erigontech/erigon/pull/21325) - 2026-05-21
+* [Commit] [execution/stagedsync: drop dead finalizeWithIBS + finalizeTx (delta-args) (#21211)](https://github.com/erigontech/erigon/commit/44bbf3890eee0c2f5e46087c4f3ac14fb4c9cf69) - 2026-05-21
+* [Commit] [node/eth: wait for the KZG warmup goroutine on shutdown (#21325)](https://github.com/erigontech/erigon/commit/b7ccfa652b1c244ab1827cf5f867f6748b239746) - 2026-05-21
+* [Commit] [execution/state: per-path revival resolution in versionedRead (#21323)](https://github.com/erigontech/erigon/commit/0870ec08747753c00f24b905907284f1bdbad280) - 2026-05-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

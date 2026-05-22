@@ -448,6 +448,18 @@ Team: Reth
 * [Commit] [fix: enforce secp256k1 feature propagation (#24365)](https://github.com/paradigmxyz/reth/commit/6c3fe54b2ab3ec099b81f2a38287969478c12830) - 2026-05-20
 * [Commit] [perf: use B256Map for hash-keyed maps (#24372)](https://github.com/paradigmxyz/reth/commit/d4ac2a5fb433a72a6124aefe2e97b9f8ed1d9d6f) - 2026-05-20
 * [Commit] [docs(net): clarify eth/72 cell mask (#24363)](https://github.com/paradigmxyz/reth/commit/cdb02a5bc708759058924942aece2d5a2c826129) - 2026-05-20
+* [Pull Request] [refactor(payload): store recovered block in built payload](https://github.com/paradigmxyz/reth/pull/24403) - 2026-05-21
+* [Pull Request] [feat(txpool): add block attributes to best transactions](https://github.com/paradigmxyz/reth/pull/24400) - 2026-05-21
+* [Review] [Review on: fix(rpc): don't cap eth_simulateV1 blockOverrides.gasLimit by --rpc.gascap](https://github.com/paradigmxyz/reth/pull/23601#pullrequestreview-4337835214) - 2026-05-21
+* [Pull Request] [fix(rpc): default eth_simulateV1 per-call gas to remaining block gas](https://github.com/paradigmxyz/reth/pull/24387) - 2026-05-21
+* [Review] [Review on: chore: handle GetCells request](https://github.com/paradigmxyz/reth/pull/24129#pullrequestreview-4335228860) - 2026-05-21
+* [Pull Request] [fix(net): bound GetCells request handling](https://github.com/paradigmxyz/reth/pull/24389) - 2026-05-21
+* [Pull Request] [fix(rpc): gap-fill empty blocks in eth_simulateV1](https://github.com/paradigmxyz/reth/pull/24388) - 2026-05-21
+* [Review] [Review on: feat: add shared cell-custody](https://github.com/paradigmxyz/reth/pull/24364#pullrequestreview-4334724379) - 2026-05-21
+* [Pull Request] [fix(rpc): default eth_simulateV1 fee fields to 0 per spec](https://github.com/paradigmxyz/reth/pull/24386) - 2026-05-21
+* [Pull Request] [fix(rpc): align eth_simulateV1 with execution-apis spec](https://github.com/paradigmxyz/reth/pull/24385) - 2026-05-21
+* [Commit] [refactor(payload): store recovered block in built payload (#24403)](https://github.com/paradigmxyz/reth/commit/559b0b9fa4938195b7c6ebfc11518755574dc1c5) - 2026-05-21
+* [Commit] [fix(import): skip invalid blocks during file decode instead of aborting (#24379)](https://github.com/paradigmxyz/reth/commit/925cfaf9e2b6e354de196f1c82f6b963179aa683) - 2026-05-21
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

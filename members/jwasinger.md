@@ -72,6 +72,8 @@ Team: Geth
 * [Commit] [core/types/bal: add additional static validation for access lists (#34967)](https://github.com/ethereum/go-ethereum/commit/50ae34c1d8ec2149774a9c6cf597a11498bd8d39) - 2026-05-20
 * [Review] [Review on: cmd/utils: respect --state.size-tracking=false](https://github.com/ethereum/go-ethereum/pull/35011#pullrequestreview-4329258419) - 2026-05-20
 * [Review] [Review on: core, cmd, internal: rework BAL json marshalling to adhere EELS](https://github.com/ethereum/go-ethereum/pull/34972#pullrequestreview-4328214175) - 2026-05-20
+* [Review] [Review on: cmd/evm/internal/t8ntool: Amsterdam t8n updates; adds BAL and slotNum](https://github.com/ethereum/go-ethereum/pull/35025#pullrequestreview-4340168134) - 2026-05-21
+* [Pull Request] [beacon/engine: encode/decode bals as hex for ExecutableData](https://github.com/ethereum/go-ethereum/pull/35024) - 2026-05-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

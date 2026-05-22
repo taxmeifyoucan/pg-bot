@@ -78,6 +78,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] cmd/integration, execution/stagedsync: clear canonical hash above snapshot tip on reset_state](https://github.com/erigontech/erigon/pull/21246#pullrequestreview-4318262481) - 2026-05-19
 * [Pull Request] [deps: bump mdbx-go to v0.40.1 (libmdbx 0.14.2)](https://github.com/erigontech/erigon/pull/21302) - 2026-05-20
 * [Commit] [deps: bump mdbx-go to v0.40.1 (libmdbx 0.14.2) (#21302)](https://github.com/erigontech/erigon/commit/1af8ddf531214ac592b7c31a038aed3a41839311) - 2026-05-20
+* [Review] [Review on: [r3.4] ChangeLog: catch up on 3.3.x/3.4.x and draft v3.4.2](https://github.com/erigontech/erigon/pull/21337#pullrequestreview-4336548303) - 2026-05-21
+* [Review] [Review on: [r3.4] db/version: bump version to 3.4.2](https://github.com/erigontech/erigon/pull/21338#pullrequestreview-4336552314) - 2026-05-21
+* [Commit] [execution/stagedsync, cmd/integration: clear canonical hash above snapshot tip on reset_state (#21247)](https://github.com/erigontech/erigon/commit/949950c01adbbb61f5f3e76ca578800fad50d0b0) - 2026-05-21
 ## Q1 2026
 
 

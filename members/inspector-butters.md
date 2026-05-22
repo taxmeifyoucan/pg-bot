@@ -48,6 +48,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [don't treat epoch boundary cache miss as skipped block in state diff migration](https://github.com/OffchainLabs/prysm/pull/16803) - 2026-05-18
 * [Commit] [don't treat epoch boundary cache miss as skipped block in state diff migration (#16803)](https://github.com/OffchainLabs/prysm/commit/44cde254b11ea1f5ae7017b62184785dca90fb73) - 2026-05-18
 * [Commit] [state diff anchors cache metrics (#16789)](https://github.com/OffchainLabs/prysm/commit/c398e551dd92dd538d898a1b45955e44792ececc) - 2026-05-19
+* [Pull Request] [add workflow to check generated go files](https://github.com/OffchainLabs/prysm/pull/16829) - 2026-05-21
+* [Commit] [add workflow to check generated go files (#16829)](https://github.com/OffchainLabs/prysm/commit/ad504f6ff4108f51ff18e13601f83beb66bcb16b) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

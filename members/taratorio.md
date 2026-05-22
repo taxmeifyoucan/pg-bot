@@ -141,6 +141,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[DO-NOT-MERGE] glamsterdam-devnet-4](https://github.com/erigontech/erigon/pull/21298) - 2026-05-20
 * [Commit] [execution: implement 8037 changes for 7.2.0 fixtures (#21275)](https://github.com/erigontech/erigon/commit/d17d224d48c0fc3657f656daa73f3f8d9df1a426) - 2026-05-20
 * [Commit] [execution: optimise parallel exec with BALs for same-sender conflicts in precompile benchmarks (#21240)](https://github.com/erigontech/erigon/commit/9afcabdce6979567659997a19b4542b8456042f6) - 2026-05-20
+* [Review] [Review on: execution: pass hive eest tests for bal-devnet-7](https://github.com/erigontech/erigon/pull/21315#pullrequestreview-4337233378) - 2026-05-21
+* [Pull Request] [execution/vm: include SELFDESTRUCT beneficiary in BAL regardless of value transfer](https://github.com/erigontech/erigon/pull/21333) - 2026-05-21
+* [Commit] [execution: pass hive eest tests for bal-devnet-7 (#21315)](https://github.com/erigontech/erigon/commit/51ef0325065ad48bf5018690e3bf13f19a175bcc) - 2026-05-21
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 ## Q1 2026
 
 

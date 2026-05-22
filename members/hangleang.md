@@ -45,6 +45,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Add engine_getPayloadV6 bindings](https://github.com/grandinetech/grandine/pull/694) - 2026-05-15
 * [Pull Request] [Modify safe_block_hash and finalized_block_hash in notify_forkchoice_updated for Gloas](https://github.com/grandinetech/grandine/pull/702) - 2026-05-19
 * [Pull Request] [Use `should_build_on_full` instead of `should_extend_payload` in `prepare_execution_payload`](https://github.com/grandinetech/grandine/pull/701) - 2026-05-19
+* [Pull Request] [Address on_payload_attestation_message tests](https://github.com/grandinetech/grandine/pull/705) - 2026-05-21
 ## Q1 2026
 
 

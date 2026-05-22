@@ -106,6 +106,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [feat(eip8037): Amsterdam bal-devnet-7 (#3667)](https://github.com/bluealloy/revm/commit/aa1333614df52a5c9d5d7b5b757f84c27cb3e5a0) - 2026-05-19
 * [Pull Request] [chore: v109 release prep](https://github.com/bluealloy/revm/pull/3695) - 2026-05-20
 * [Commit] [chore: v109 release prep (#3695)](https://github.com/bluealloy/revm/commit/f7ccd08cc4944238bae0eaf6e07917b1485d0881) - 2026-05-20
+* [Pull Request] [chore: v110 release prep](https://github.com/bluealloy/revm/pull/3702) - 2026-05-21
+* [Pull Request] [refactor(eip8037): remove dead refill_amount tracking](https://github.com/bluealloy/revm/pull/3699) - 2026-05-21
+* [Pull Request] [feat(glam-devnet-5): EIP-2780 + EIP-8038 + EIP-8037 integration](https://github.com/bluealloy/revm/pull/3698) - 2026-05-21
+* [Pull Request] [feat(eip8038): implement state-access gas cost update](https://github.com/bluealloy/revm/pull/3697) - 2026-05-21
+* [Commit] [chore: v110 release prep (#3702)](https://github.com/bluealloy/revm/commit/a8af4de3c873ceeafcfef785b1b0e545fe461c36) - 2026-05-21
+* [Commit] [refactor(eip8037): remove dead refill_amount tracking (#3699)](https://github.com/bluealloy/revm/commit/c9ea76a1b91e0a0f02289b34d854df2b229fa5d1) - 2026-05-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

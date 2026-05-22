@@ -95,6 +95,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix non-canonical payload attestation processing](https://github.com/sigp/lighthouse/pull/9305#pullrequestreview-4316100993) - 2026-05-19
 * [Review] [Review on: Use dedicated cache for HTTP API route](https://github.com/sigp/lighthouse/pull/9318#pullrequestreview-4315566369) - 2026-05-19
 * [Review] [Review on: Gloas alpha spec 8](https://github.com/sigp/lighthouse/pull/9315#pullrequestreview-4324840721) - 2026-05-20
+* [Review] [Review on: Drop unused EthSpec generic from Stores](https://github.com/sigp/lighthouse/pull/9281#pullrequestreview-4335093952) - 2026-05-21
+* [Review] [Review on: Add support for jemalloc memory profiling](https://github.com/sigp/lighthouse/pull/9326#pullrequestreview-4334560183) - 2026-05-21
+* [Review] [Review on: Implement GET `v2/node/version` endpoint](https://github.com/sigp/lighthouse/pull/9171#pullrequestreview-4334270150) - 2026-05-21
+* [Review] [Review on: add user-agent header to all http clients](https://github.com/sigp/lighthouse/pull/8786#pullrequestreview-4334214901) - 2026-05-21
+* [Review] [Review on: Append client version info to user graffiti by default](https://github.com/sigp/lighthouse/pull/9313#pullrequestreview-4334161207) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

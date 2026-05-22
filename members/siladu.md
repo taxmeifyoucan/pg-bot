@@ -74,6 +74,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Replace Address.hashCache Guava LoadingCache with Caffeine](https://github.com/besu-eth/besu/pull/10235#pullrequestreview-4324908564) - 2026-05-20
 * [Pull Request] [Remove unused evm arg from FixedCostOperations](https://github.com/besu-eth/besu/pull/10533) - 2026-05-20
 * [Pull Request] [Refactor: Extract EVMv2 stack manipulation unit tests](https://github.com/besu-eth/besu/pull/10535) - 2026-05-20
+* [Review] [Review on: Require Java 25 to build](https://github.com/besu-eth/besu/pull/10539#pullrequestreview-4334030856) - 2026-05-21
+* [Review] [Review on: Replace Address.hashCache Guava LoadingCache with Caffeine](https://github.com/besu-eth/besu/pull/10235#pullrequestreview-4334586602) - 2026-05-21
+* [Commit] [Remove unused evm arg from FixedCostOperations (#10533)](https://github.com/besu-eth/besu/commit/30ad29e27b651bd21d622fc2340eb7c948bb68b8) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

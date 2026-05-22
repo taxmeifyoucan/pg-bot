@@ -90,6 +90,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Consider maxFeePerBlobGas when sorting tx in the layered txpool (#10513)](https://github.com/besu-eth/besu/commit/ff13cea9d5bc372d66720d3c19e4b0b00b65ddbd) - 2026-05-18
 * [Review] [Review on: fix: reject non-0x-prefixed tx hash in debug_getRawTransaction](https://github.com/besu-eth/besu/pull/10505#pullrequestreview-4318707624) - 2026-05-19
 * [Pull Request] [Require Java 25 to build](https://github.com/besu-eth/besu/pull/10539) - 2026-05-20
+* [Review] [Review on: Require Java 25 to build](https://github.com/besu-eth/besu/pull/10539#pullrequestreview-4335553500) - 2026-05-21
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

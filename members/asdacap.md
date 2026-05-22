@@ -209,6 +209,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor: rework AccountProofCollector to use path-based traversal](https://github.com/NethermindEth/nethermind/pull/11677#pullrequestreview-4327776648) - 2026-05-20
 * [Pull Request] [test: improve test coverage in Nethermind.State.Flat](https://github.com/NethermindEth/nethermind/pull/11695) - 2026-05-20
 * [Review] [Review on: test: improve test coverage in Nethermind.State.Flat](https://github.com/NethermindEth/nethermind/pull/11695#pullrequestreview-4328072957) - 2026-05-20
+* [Review] [Review on: Alchemy - code persistence fix](https://github.com/NethermindEth/nethermind/pull/11712#pullrequestreview-4337187584) - 2026-05-21
+* [Review] [Review on: fix(trie): rate-limit "Unable to completely prune persisted nodes" warning](https://github.com/NethermindEth/nethermind/pull/11703#pullrequestreview-4333806660) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

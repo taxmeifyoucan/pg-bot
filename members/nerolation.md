@@ -52,6 +52,10 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7928: Clarify edge case aorund 7702 insufficient gas](https://github.com/ethereum/EIPs/pull/11699) - 2026-05-19
 * [Pull Request] [Add EIP: Expiring Nonces for Frame Transactions](https://github.com/ethereum/EIPs/pull/11692) - 2026-05-19
 * [Review] [Review on: Add EIP: Expiring Nonces for Frame Transactions](https://github.com/ethereum/EIPs/pull/11692#pullrequestreview-4318603741) - 2026-05-19
+* [Pull Request] [Update EIP-7928: add GAS_COPY to EXTCODECOPY](https://github.com/ethereum/EIPs/pull/11718) - 2026-05-21
+* [Review] [Review on: Update EIP-7928: clarify CREATE inclusion and storage no-op handling](https://github.com/ethereum/EIPs/pull/11717#pullrequestreview-4336850368) - 2026-05-21
+* [Review] [Review on: Update EIP-7928: Clarify edge case aorund 7702 insufficient gas](https://github.com/ethereum/EIPs/pull/11699#pullrequestreview-4334916811) - 2026-05-21
+* [Commit] [Update EIP-7928: Clarify edge case aorund 7702 insufficient gas](https://github.com/ethereum/EIPs/commit/4675100a434334520190019488e9ca94dcda2141) - 2026-05-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11

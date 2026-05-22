@@ -219,6 +219,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Avoid bucket snapshot allocation in BalanceTooLowFilter](https://github.com/NethermindEth/nethermind/pull/11686#pullrequestreview-4326519523) - 2026-05-20
 * [Review] [Review on: chore(ai): Remove unused stuff](https://github.com/NethermindEth/nethermind/pull/11690#pullrequestreview-4325622594) - 2026-05-20
 * [Review] [Review on: fix(sync test): de-flake two SynchronizerTests on Windows](https://github.com/NethermindEth/nethermind/pull/11683#pullrequestreview-4325600132) - 2026-05-20
+* [Review] [Review on: Fix DbTracker repeatedly logging ObjectDisposedException after disposal](https://github.com/NethermindEth/nethermind/pull/11720#pullrequestreview-4341962672) - 2026-05-22
+* [Review] [Review on: Alchemy - Code Fix](https://github.com/NethermindEth/nethermind/pull/11714#pullrequestreview-4341725610) - 2026-05-22
+* [Pull Request] [Optimize guards](https://github.com/NethermindEth/nethermind/pull/11716) - 2026-05-21
+* [Review] [Review on: Optimize guards](https://github.com/NethermindEth/nethermind/pull/11716#pullrequestreview-4338848026) - 2026-05-21
+* [Review] [Review on: Reduce allocations BAL generation](https://github.com/NethermindEth/nethermind/pull/11702#pullrequestreview-4336436005) - 2026-05-21
+* [Review] [Review on: Make RefundOnTopLevelHalt overridable for plugin extension](https://github.com/NethermindEth/nethermind/pull/11713#pullrequestreview-4337476540) - 2026-05-21
+* [Review] [Review on: Simplify pruning cutoff & separate for BALs](https://github.com/NethermindEth/nethermind/pull/11701#pullrequestreview-4336452653) - 2026-05-21
+* [Review] [Review on: perf(bal): replace SortedDictionary/SortedSet aggregates with Dictionary/HashSet](https://github.com/NethermindEth/nethermind/pull/11672#pullrequestreview-4336656317) - 2026-05-21
+* [Review] [Review on: fix(trie): rate-limit "Unable to completely prune persisted nodes" warning](https://github.com/NethermindEth/nethermind/pull/11703#pullrequestreview-4333815328) - 2026-05-21
+* [Review] [Review on: Add tests for skipping reorg only if ancestor of finalised block](https://github.com/NethermindEth/nethermind/pull/11439#pullrequestreview-4336349238) - 2026-05-21
+* [Commit] [Add EthStats protocol message handling (#11652)](https://github.com/NethermindEth/nethermind/commit/88eb7d2c50a79ce8ad594e06e9f67ceec1ab0e08) - 2026-05-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

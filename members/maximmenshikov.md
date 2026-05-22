@@ -84,6 +84,18 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Enable Zisk 0.18 support](https://github.com/NethermindEth/nethermind/pull/11645) - 2026-05-18
 * [Commit] [Enable Zisk 0.18 support (#11645)](https://github.com/NethermindEth/nethermind/commit/beb2173297e5313201c1467c0de362f987aad711) - 2026-05-18
 * [Pull Request] [Benchmark-related improvements in ZiskGuest / InputGen](https://github.com/NethermindEth/nethermind/pull/11691) - 2026-05-19
+
+[nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
+* [Pull Request] [Split code/data properly](https://github.com/NethermindEth/dotnet-riscv/pull/2) - 2026-05-21
+* [Commit] [Update interface dispatch patch](https://github.com/NethermindEth/dotnet-riscv/commit/1ebe8c2c438b9339545e2f3859a4360b46a094aa) - 2026-05-21
+* [Commit] [Add patch to fix interface dispatch](https://github.com/NethermindEth/dotnet-riscv/commit/6ab96c10f1fc56f8a3a0f80b68ed2465aa8ffba4) - 2026-05-21
+* [Commit] [Fix addend](https://github.com/NethermindEth/dotnet-riscv/commit/a9094632df07ce89103727e3faa00f071be3897b) - 2026-05-21
+* [Commit] [Update code and data patch](https://github.com/NethermindEth/dotnet-riscv/commit/7c38509a0d2f9484c5afb3efcd95bf946e426662) - 2026-05-21
+* [Commit] [Support more relocations](https://github.com/NethermindEth/dotnet-riscv/commit/8c2fc3ab6860a35e2f178788f19063d700cb9bd6) - 2026-05-21
+* [Commit] [Update patch](https://github.com/NethermindEth/dotnet-riscv/commit/242621dd0c1019a96ff376daace88de111be7c04) - 2026-05-21
+* [Commit] [Experimental patch to split code and data [3]](https://github.com/NethermindEth/dotnet-riscv/commit/df1914aa9f6ab5e7f77210d0489a9388db778203) - 2026-05-21
+* [Commit] [Experimental patch to split code and data [2]](https://github.com/NethermindEth/dotnet-riscv/commit/91b78888295ea395eeb5fc099ff7de5b59083ffa) - 2026-05-21
+* [Commit] [Experimental patch to split code and data](https://github.com/NethermindEth/dotnet-riscv/commit/6ff8542ee722b3c57027b99532cf3326cc23c7bd) - 2026-05-21
 ## Q1 2026
 
 

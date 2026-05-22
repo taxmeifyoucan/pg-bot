@@ -53,6 +53,9 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [.github/workflows: add a typo checker](https://github.com/ethereum/go-ethereum/pull/34994) - 2026-05-18
 * [Pull Request] [.: fix all typos, as reported by crates-ci/typos](https://github.com/ethereum/go-ethereum/pull/35008) - 2026-05-19
 * [Review] [Review on: .: fix all typos, as reported by crates-ci/typos](https://github.com/ethereum/go-ethereum/pull/35008#pullrequestreview-4325993015) - 2026-05-20
+* [Review] [Review on: eth/catalyst: implement engine_newPayloadWithWitnessV5 and use witness field spec ordering](https://github.com/ethereum/go-ethereum/pull/35009#pullrequestreview-4338614987) - 2026-05-21
+* [Pull Request] [cmd/clef, cmd/geth: remove CLI flags that were deprecated for more than a year](https://github.com/ethereum/go-ethereum/pull/35021) - 2026-05-21
+* [Review] [Review on: accounts/usbwallet: add support for blob and setcode transactions](https://github.com/ethereum/go-ethereum/pull/33797#pullrequestreview-4337332536) - 2026-05-21
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Review] [Review on: cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575#pullrequestreview-4195917013) - 2026-04-29
 

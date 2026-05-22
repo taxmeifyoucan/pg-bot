@@ -44,6 +44,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: core/txpool/blobpool: silence GetRLP miss-log spam](https://github.com/ethereum/go-ethereum/pull/34965#pullrequestreview-4288673164) - 2026-05-14
 * [Review] [Review on: core/txpool: use blobTxForPool](https://github.com/ethereum/go-ethereum/pull/34960#pullrequestreview-4298585851) - 2026-05-15
 * [Commit] [eth/protocols/eth: implement eth71 bal response (#34879)](https://github.com/ethereum/go-ethereum/commit/a484a8506dd5106f14bc28cd0fb9c4ab74d6c69d) - 2026-05-19
+* [Review] [Review on: [Draft] EIP-8070 - sparse blobpool](https://github.com/ethereum/go-ethereum/pull/34047#pullrequestreview-4341403687) - 2026-05-21
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
 ## Q1 2026

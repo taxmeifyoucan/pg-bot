@@ -108,6 +108,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(ci): redirect Go caches to a per-job temp dir (#2774)](https://github.com/ethereum/execution-specs/commit/b7a206679816763f2777949ac669bedc416c70b0) - 2026-05-19
 * [Review] [Review on: fix(ci,tooling): skip code coverage of glacier/bpo/dao forks](https://github.com/ethereum/execution-specs/pull/2886#pullrequestreview-4326206534) - 2026-05-20
 * [Review] [Review on: chore(tests): create `spec.py` for EIP-7778](https://github.com/ethereum/execution-specs/pull/2887#pullrequestreview-4328235458) - 2026-05-20
+* [Pull Request] [feat(tests,ci): Verify filled benchmark fixtures against EELS via json_loader](https://github.com/ethereum/execution-specs/pull/2894) - 2026-05-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 
