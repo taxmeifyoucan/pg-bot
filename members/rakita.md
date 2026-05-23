@@ -112,6 +112,13 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat(eip8038): implement state-access gas cost update](https://github.com/bluealloy/revm/pull/3697) - 2026-05-21
 * [Commit] [chore: v110 release prep (#3702)](https://github.com/bluealloy/revm/commit/a8af4de3c873ceeafcfef785b1b0e545fe461c36) - 2026-05-21
 * [Commit] [refactor(eip8037): remove dead refill_amount tracking (#3699)](https://github.com/bluealloy/revm/commit/c9ea76a1b91e0a0f02289b34d854df2b229fa5d1) - 2026-05-21
+* [Review] [Review on: feat: add `OnStateHook` for `State<DB>`](https://github.com/bluealloy/revm/pull/3710#pullrequestreview-4346518897) - 2026-05-22
+* [Pull Request] [feat(eip7702): defer delegate code load via BytecodeLoad enum](https://github.com/bluealloy/revm/pull/3708) - 2026-05-22
+* [Pull Request] [feat(eip7954): bump max code size to 64 KiB and initcode to 128 KiB](https://github.com/bluealloy/revm/pull/3707) - 2026-05-22
+* [Pull Request] [chore: v111 release prep](https://github.com/bluealloy/revm/pull/3706) - 2026-05-22
+* [Pull Request] [feat(database): add is_fatal to DBErrorMarker](https://github.com/bluealloy/revm/pull/3704) - 2026-05-22
+* [Commit] [chore: v111 release prep (#3706)](https://github.com/bluealloy/revm/commit/eead9ee6ca007c9148e3dc8436062874d301b466) - 2026-05-22
+* [Commit] [feat(database): add is_fatal to DBErrorMarker (#3704)](https://github.com/bluealloy/revm/commit/5f5163fcddf92b6a41e7b9a587272c3c0c0af298) - 2026-05-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

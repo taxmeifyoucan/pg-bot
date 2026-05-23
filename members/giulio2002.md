@@ -86,6 +86,10 @@ Team: Erigon
 * [Review] [Review on: [r3.4] .github/workflows: retry test-all after go clean -cache](https://github.com/erigontech/erigon/pull/21343#pullrequestreview-4339471692) - 2026-05-21
 * [Review] [Review on: [r3.4] .github/workflows: fetch full history in source-of-changes to avoid shallow-deepen race](https://github.com/erigontech/erigon/pull/21341#pullrequestreview-4337625159) - 2026-05-21
 * [Review] [Review on: `FillDBFromSnapshots`: to use etl pool](https://github.com/erigontech/erigon/pull/21330#pullrequestreview-4335945861) - 2026-05-21
+* [Review] [Review on: .claude/rules: generalize branch-naming.md beyond Alex's convention](https://github.com/erigontech/erigon/pull/21365#pullrequestreview-4344557437) - 2026-05-22
+* [Review] [Review on: Makefile: bump protoc v33.1→v35.0, regenerate grpc stubs](https://github.com/erigontech/erigon/pull/21360#pullrequestreview-4344557586) - 2026-05-22
+* [Review] [Review on: shutdown: propagate ctx in FillDBFromSnapshots](https://github.com/erigontech/erigon/pull/21353#pullrequestreview-4342933848) - 2026-05-22
+* [Review] [Review on: node, cl: migrate gopkg.in/yaml.v2 → gopkg.in/yaml.v3](https://github.com/erigontech/erigon/pull/21352#pullrequestreview-4342933934) - 2026-05-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

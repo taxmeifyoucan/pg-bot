@@ -62,6 +62,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(ci,tooling): skip code coverage of glacier/bpo/dao forks](https://github.com/ethereum/execution-specs/pull/2886) - 2026-05-20
 * [Commit] [chore(specs): add missing type annotations (#2868)](https://github.com/ethereum/execution-specs/commit/89c133e07db3468a10acf664dcce99df23513723) - 2026-05-20
 * [Commit] [fix(ci,tooling): skip code coverage of glacier/bpo/dao forks (#2886)](https://github.com/ethereum/execution-specs/commit/42fb0f6aafee790ca427e45507501110cbbfcb3a) - 2026-05-20
+* [Pull Request] [chore(specs): refactor code deployment functions](https://github.com/ethereum/execution-specs/pull/2904) - 2026-05-22
+* [Issue] [Investigate adding zizmor for linting our GitHub Actions](https://github.com/ethereum/execution-specs/issues/2902) - 2026-05-22
 ## Q1 2026
 
 

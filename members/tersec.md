@@ -144,6 +144,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add beacon blocks by head](https://github.com/status-im/nimbus-eth2/pull/8436#pullrequestreview-4327970080) - 2026-05-20
 * [Pull Request] [add alpha.8 target gas limiting to engine building](https://github.com/status-im/nimbus-eth2/pull/8477) - 2026-05-20
 * [Pull Request] [rm unused REST JSON readers/writers](https://github.com/status-im/nimbus-eth2/pull/8484) - 2026-05-21
+* [Pull Request] [rm unused time offset calculation](https://github.com/status-im/nimbus-eth2/pull/8503) - 2026-05-22
+* [Review] [Review on: extend getBlobs in gloas](https://github.com/status-im/nimbus-eth2/pull/8498#pullrequestreview-4346418356) - 2026-05-22
+* [Pull Request] [avoid column quarantine crash with partial custody](https://github.com/status-im/nimbus-eth2/pull/8491) - 2026-05-22
+* [Pull Request] [add gloas column request manager support](https://github.com/status-im/nimbus-eth2/pull/8492) - 2026-05-22
+* [Pull Request] [rm dead code in slashing protection init](https://github.com/status-im/nimbus-eth2/pull/8493) - 2026-05-22
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

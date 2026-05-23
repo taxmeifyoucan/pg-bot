@@ -46,6 +46,7 @@ Github: [@cperezz](https://github.com/cperezz)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Storage Roots in Block Access Lists](https://github.com/ethereum/EIPs/pull/11716) - 2026-05-21
+* [Commit] [Add EIP: Storage Roots in Block Access Lists](https://github.com/ethereum/EIPs/commit/1c638d0d36ffcc461b81d43259987fef5ef82fc0) - 2026-05-22
 ## Q1 2026
 
 

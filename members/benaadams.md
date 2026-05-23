@@ -230,6 +230,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(trie): rate-limit "Unable to completely prune persisted nodes" warning](https://github.com/NethermindEth/nethermind/pull/11703#pullrequestreview-4333815328) - 2026-05-21
 * [Review] [Review on: Add tests for skipping reorg only if ancestor of finalised block](https://github.com/NethermindEth/nethermind/pull/11439#pullrequestreview-4336349238) - 2026-05-21
 * [Commit] [Add EthStats protocol message handling (#11652)](https://github.com/NethermindEth/nethermind/commit/88eb7d2c50a79ce8ad594e06e9f67ceec1ab0e08) - 2026-05-21
+* [Review] [Review on: perf(bal): cut allocations on BAL generate/validate paths](https://github.com/NethermindEth/nethermind/pull/11725#pullrequestreview-4346122870) - 2026-05-22
+* [Review] [Review on: feat: add SkipMetricsTracking property to DbSettings](https://github.com/NethermindEth/nethermind/pull/11515#pullrequestreview-4348372280) - 2026-05-22
+* [Review] [Review on: feat: enhance gas benchmark workflow with comments for start and results](https://github.com/NethermindEth/nethermind/pull/10350#pullrequestreview-4348369155) - 2026-05-22
+* [Commit] [Optimize guards (#11716)](https://github.com/NethermindEth/nethermind/commit/38fde6b9bd74482a7824a02f08048c6f7728fb8d) - 2026-05-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

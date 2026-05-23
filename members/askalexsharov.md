@@ -585,6 +585,35 @@ Team: Erigon
 * [Issue] [initial sync: big `BlockTransactions` table and `stepsInDB=5`](https://github.com/erigontech/erigon/issues/21326) - 2026-05-21
 * [Commit] [`FillDBFromSnapshots`: to use etl pool (#21330)](https://github.com/erigontech/erigon/commit/caf681b978ae99af8a7a2ea6df6b4f4bf7e258d6) - 2026-05-21
 * [Commit] [[wip] flush block overlay after each InsertBlocks batch (fix OOM) (#21300)](https://github.com/erigontech/erigon/commit/0a11f6863af1651f624f3cd5cfb445035bc47cd9) - 2026-05-21
+* [Review] [Review on: execution: remove unnecessary block listener in mockcl](https://github.com/erigontech/erigon/pull/21368#pullrequestreview-4345731766) - 2026-05-22
+* [Review] [Review on: claude: add benchmarkoor skill](https://github.com/erigontech/erigon/pull/21370#pullrequestreview-4345831242) - 2026-05-22
+* [Pull Request] [cmd/diag, go.mod: remove diag CLI; move gofumpt to tools section; bump deps](https://github.com/erigontech/erigon/pull/21351) - 2026-05-22
+* [Review] [Review on: Fix log fanout delivery](https://github.com/erigontech/erigon/pull/20528#pullrequestreview-4343764029) - 2026-05-22
+* [Review] [Review on: cmd/utils: check txnum block lookups](https://github.com/erigontech/erigon/pull/20848#pullrequestreview-4343747541) - 2026-05-22
+* [Review] [Review on: execution/abi: return errors for invalid ParseTopics output](https://github.com/erigontech/erigon/pull/20800#pullrequestreview-4343824536) - 2026-05-22
+* [Pull Request] [Makefile: bump protoc v33.1→v35.0, regenerate grpc stubs](https://github.com/erigontech/erigon/pull/21360) - 2026-05-22
+* [Pull Request] [shutdown: propagate ctx in FillDBFromSnapshots](https://github.com/erigontech/erigon/pull/21353) - 2026-05-22
+* [Review] [Review on: cmd/utils: guard zero current step size](https://github.com/erigontech/erigon/pull/21004#pullrequestreview-4343801658) - 2026-05-22
+* [Review] [Review on: db/kv, db/migrations, cmd: drop pre-E3 plain/hashed state and history tables](https://github.com/erigontech/erigon/pull/21280#pullrequestreview-4343715894) - 2026-05-22
+* [Review] [Review on: rpc: wait for filter ack before returning subscriptions](https://github.com/erigontech/erigon/pull/20536#pullrequestreview-4344012196) - 2026-05-22
+* [Review] [Review on: execution/state: per-path revival in versionedRead MVReadResultNone branch](https://github.com/erigontech/erigon/pull/21345#pullrequestreview-4343486870) - 2026-05-22
+* [Review] [Review on: deps: bump golang.org/x/{net,crypto,sys} for security fixes](https://github.com/erigontech/erigon/pull/21357#pullrequestreview-4343257932) - 2026-05-22
+* [Review] [Review on: execution: flag for kzg ctx warmup](https://github.com/erigontech/erigon/pull/21356#pullrequestreview-4343482507) - 2026-05-22
+* [Review] [Review on: execution/state: mirror createObjectChange dirty-tracking on resetObjectChange (#21138)](https://github.com/erigontech/erigon/pull/21220#pullrequestreview-4343168345) - 2026-05-22
+* [Review] [Review on: claude: add tdd principles](https://github.com/erigontech/erigon/pull/21354#pullrequestreview-4343117687) - 2026-05-22
+* [Review] [Review on: rpcdaemon,rulesconfig: align Bor engine selection](https://github.com/erigontech/erigon/pull/20667#pullrequestreview-4343816634) - 2026-05-22
+* [Review] [Review on: commitment: compare deferred and eager roots](https://github.com/erigontech/erigon/pull/20918#pullrequestreview-4343806067) - 2026-05-22
+* [Pull Request] [db: use named-return defer for constructor cleanup on error](https://github.com/erigontech/erigon/pull/21350) - 2026-05-22
+* [Pull Request] [node, cl: migrate gopkg.in/yaml.v2 → gopkg.in/yaml.v3](https://github.com/erigontech/erigon/pull/21352) - 2026-05-22
+* [Review] [Review on: snapshot-flow: trust + validation + producer-gate scaffolding (low-risk preparation)](https://github.com/erigontech/erigon/pull/20933#pullrequestreview-4343440483) - 2026-05-22
+* [Pull Request] [[wip] rpc/jsonrpc: fix TestEthCallToPrunedBlock to prune via mode, not deprecated tables](https://github.com/erigontech/erigon/pull/21359) - 2026-05-22
+* [Review] [Review on: cl/phase1/forkchoice: use post-pull-up values for prior-epoch updateCheckpoints](https://github.com/erigontech/erigon/pull/21339#pullrequestreview-4343326836) - 2026-05-22
+* [Commit] [block snaps: don't calc FileName where can (#21329)](https://github.com/erigontech/erigon/commit/b3c02a9db48911688cfb4bcdffac66713ee603ea) - 2026-05-22
+* [Commit] [cmd/diag, go.mod: remove diag CLI; move gofumpt to tools section; bump deps (#21351)](https://github.com/erigontech/erigon/commit/8985fc41edea2292bc3ad3d31e7b2986333e24a9) - 2026-05-22
+* [Commit] [Makefile: bump protoc v33.1→v35.0, regenerate grpc stubs (#21360)](https://github.com/erigontech/erigon/commit/3a5c8f325a82a098875cc8c5cd6e748369f800bc) - 2026-05-22
+* [Commit] [shutdown: propagate ctx in FillDBFromSnapshots (#21353)](https://github.com/erigontech/erigon/commit/b0200b7e645818368d513d02274d7230ae236c2e) - 2026-05-22
+* [Commit] [db: use named-return defer for constructor cleanup on error (#21350)](https://github.com/erigontech/erigon/commit/82f49e32c7196ff250fa9a78db94e1ba4e214eec) - 2026-05-22
+* [Commit] [node, cl: migrate gopkg.in/yaml.v2 → gopkg.in/yaml.v3 (#21352)](https://github.com/erigontech/erigon/commit/5eaf638e749011551c3cdde91bae07f4be61dc04) - 2026-05-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

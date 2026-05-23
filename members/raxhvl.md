@@ -20,6 +20,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Commit] [🧪 feat(tests):  EIP-7928 BAL test for 7702 account call with low balance (#2824)](https://github.com/ethereum/execution-specs/commit/2eb175eb315281dcc7e260b1c802b5adca8a3abf) - 2026-05-11
 * [Review] [Review on: feat(test): Increase BAL coverage with tests and BAL expectations for some existing](https://github.com/ethereum/execution-specs/pull/2834#pullrequestreview-4271519401) - 2026-05-12
 * [Review] [Review on: feat(tests): extend BALs coverage](https://github.com/ethereum/execution-specs/pull/2854#pullrequestreview-4323526222) - 2026-05-19
+* [Pull Request] [feat(tests): Extend coverage for BAL](https://github.com/ethereum/execution-specs/pull/2897) - 2026-05-22
 [raxhvl/pglanding-raxhvl](https://github.com/raxhvl/pglanding-raxhvl)
 * [Commit] [✨ feat: Butterfly](https://github.com/raxhvl/pglanding-raxhvl/commit/4a4fc6b3eb90c580e7f119a1f799a3a11818d27d) - 2026-04-17
 ## Q1 2026

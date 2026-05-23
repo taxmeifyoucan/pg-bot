@@ -74,6 +74,7 @@ Team: Geth
 * [Review] [Review on: core, cmd, internal: rework BAL json marshalling to adhere EELS](https://github.com/ethereum/go-ethereum/pull/34972#pullrequestreview-4328214175) - 2026-05-20
 * [Review] [Review on: cmd/evm/internal/t8ntool: Amsterdam t8n updates; adds BAL and slotNum](https://github.com/ethereum/go-ethereum/pull/35025#pullrequestreview-4340168134) - 2026-05-21
 * [Pull Request] [beacon/engine: encode/decode bals as hex for ExecutableData](https://github.com/ethereum/go-ethereum/pull/35024) - 2026-05-21
+* [Review] [Review on: graphql: end == 0 and begin > 0 should be reject](https://github.com/ethereum/go-ethereum/pull/35032#pullrequestreview-4347692318) - 2026-05-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

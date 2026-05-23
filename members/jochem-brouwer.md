@@ -57,6 +57,14 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-8253: edit title](https://github.com/ethereum/EIPs/pull/11713#pullrequestreview-4337935168) - 2026-05-21
 * [Review] [Review on: Update EIP-7928: Clarify edge case aorund 7702 insufficient gas](https://github.com/ethereum/EIPs/pull/11699#pullrequestreview-4334369473) - 2026-05-21
 * [Commit] [Update EIP-8253: edit title](https://github.com/ethereum/EIPs/commit/e799068319906463adb97f383585970d30f637ef) - 2026-05-21
+* [Review] [Review on: Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4349435769) - 2026-05-23
+* [Review] [Review on: Add EIP: Ancestor-Indexed BALs](https://github.com/ethereum/EIPs/pull/11595#pullrequestreview-4349426221) - 2026-05-23
+* [Review] [Review on: Add EIP: Cap Deposit Requests Per Block](https://github.com/ethereum/EIPs/pull/11607#pullrequestreview-4348991586) - 2026-05-22
+* [Review] [Review on: Add EIP: Gas Limit Schedule](https://github.com/ethereum/EIPs/pull/11644#pullrequestreview-4348981696) - 2026-05-22
+* [Review] [Review on: Add EIP: Storage Roots in Block Access Lists](https://github.com/ethereum/EIPs/pull/11716#pullrequestreview-4348909976) - 2026-05-22
+* [Review] [Review on: Add EIP: ECRECOVER Native Key Awareness](https://github.com/ethereum/EIPs/pull/11515#pullrequestreview-4347457949) - 2026-05-22
+* [Review] [Review on: Update EIP-8163: Move to Review](https://github.com/ethereum/EIPs/pull/11569#pullrequestreview-4347263767) - 2026-05-22
+* [Review] [Review on: Update EIP-8141: add signatures list to outer tx](https://github.com/ethereum/EIPs/pull/11481#pullrequestreview-4342511849) - 2026-05-22
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Correctly name devnet-2 genesis and introduce devnet-3 genesis](https://github.com/NethermindEth/gas-benchmarks/pull/139) - 2026-04-22
 

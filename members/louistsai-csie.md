@@ -110,6 +110,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: Add extra optional withdrawals to prefund EOAs](https://github.com/NethermindEth/gas-benchmarks/pull/144#pullrequestreview-4287688087) - 2026-05-14
 * [Pull Request] [feat: add `withrawal` request for pre-fund EOA](https://github.com/NethermindEth/gas-benchmarks/pull/145) - 2026-05-15
 * [Pull Request] [feat: add extra withdrawal request for pre-funding](https://github.com/NethermindEth/gas-benchmarks/pull/146) - 2026-05-18
+* [Pull Request] [feat: increase tx batch size limit temporarily](https://github.com/NethermindEth/gas-benchmarks/pull/151) - 2026-05-22
 ## Q1 2026
 
 

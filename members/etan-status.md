@@ -99,6 +99,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Load keymanager-token in Nix via systemd](https://github.com/status-im/nimbus-eth2/pull/8490) - 2026-05-21
 * [Pull Request] [fix: gloas block gossip validation (2)](https://github.com/status-im/nimbus-eth2/pull/8486) - 2026-05-21
 * [Pull Request] [Update LC database size measurements for Gloas](https://github.com/status-im/nimbus-eth2/pull/8485) - 2026-05-21
+* [Pull Request] [Bump nim-web3](https://github.com/status-im/nimbus-eth2/pull/8500) - 2026-05-22
+* [Pull Request] [Use separate default port for BN and VC apis](https://github.com/status-im/nimbus-eth2/pull/8499) - 2026-05-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
@@ -148,6 +150,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update EIP-7688: Improve wording / address nits](https://github.com/ethereum/EIPs/commit/aea03b391168915770667f3564c445e7de589a17) - 2026-05-19
 * [Commit] [Update EIP-7688: Resolve the 'cleanup opportunities' section](https://github.com/ethereum/EIPs/commit/19f03bc45b9fa63fe434f9ad7fdc2b82f174cc2f) - 2026-05-19
 * [Commit] [Update EIP-7688: Add rationale for Validator remaining Container](https://github.com/ethereum/EIPs/commit/9eb1fadbc0941fbc877294c5d647c30fb42c5bfb) - 2026-05-19
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [Expose EIP-7843 slot number via JSON-RPC](https://github.com/ethereum/execution-apis/pull/806) - 2026-05-22
 ## Q1 2026
 
 

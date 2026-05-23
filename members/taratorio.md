@@ -145,8 +145,28 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/vm: include SELFDESTRUCT beneficiary in BAL regardless of value transfer](https://github.com/erigontech/erigon/pull/21333) - 2026-05-21
 * [Commit] [execution: pass hive eest tests for bal-devnet-7 (#21315)](https://github.com/erigontech/erigon/commit/51ef0325065ad48bf5018690e3bf13f19a175bcc) - 2026-05-21
 
+* [Pull Request] [execution: remove unnecessary block listener in mockcl](https://github.com/erigontech/erigon/pull/21368) - 2026-05-22
+* [Pull Request] [execution: fix omission in EL block downloader to schedule exec for last downloaded fcu batch](https://github.com/erigontech/erigon/pull/21367) - 2026-05-22
+* [Pull Request] [claude: add benchmarkoor skill](https://github.com/erigontech/erigon/pull/21370) - 2026-05-22
+* [Review] [Review on: execution/engineapi: replay cached validation error on bad-block short-circuit](https://github.com/erigontech/erigon/pull/21362#pullrequestreview-4343990006) - 2026-05-22
+* [Pull Request] [[bal-devnet-3] claude: add benchmarkoor skill](https://github.com/erigontech/erigon/pull/21369) - 2026-05-22
+* [Review] [Review on: .claude/rules: generalize branch-naming.md beyond Alex's convention](https://github.com/erigontech/erigon/pull/21365#pullrequestreview-4344659899) - 2026-05-22
+* [Pull Request] [execution: glamsterdam devnet max-allowed-failures=4 for flakes](https://github.com/erigontech/erigon/pull/21361) - 2026-05-22
+* [Pull Request] [execution: flag for kzg ctx warmup](https://github.com/erigontech/erigon/pull/21356) - 2026-05-22
+* [Pull Request] [claude: add tdd principles](https://github.com/erigontech/erigon/pull/21354) - 2026-05-22
+* [Pull Request] [claude: less verbose comments v2](https://github.com/erigontech/erigon/pull/21355) - 2026-05-22
+* [Issue] [hive eest: flaky EIP-7954 test_max_initcode_size on glamsterdam-devnet shard](https://github.com/erigontech/erigon/issues/21363) - 2026-05-22
+* [Issue] [hive eest: flaky EIP-7928 test_bal_invalid_extraneous_entries on glamsterdam-devnet shard](https://github.com/erigontech/erigon/issues/21364) - 2026-05-22
+* [Commit] [claude: add benchmarkoor skill (#21370)](https://github.com/erigontech/erigon/commit/6b1abee609a2e86c0c50d5b9a7c8a7b9c88f8bfe) - 2026-05-22
+* [Commit] [execution: remove unnecessary block listener in mockcl (#21368)](https://github.com/erigontech/erigon/commit/753e7be4390760679a70b26eae71c75850f4a57a) - 2026-05-22
+* [Commit] [execution/vm: include SELFDESTRUCT beneficiary in BAL regardless of value transfer (#21333)](https://github.com/erigontech/erigon/commit/d2e577dfa422a63a092ab0ed9c77e101b45a2a8f) - 2026-05-22
+* [Commit] [execution: flag for kzg ctx warmup (#21356)](https://github.com/erigontech/erigon/commit/bc4145744e5c27c5cfd5ced7cc4a96a6728c7de1) - 2026-05-22
+* [Commit] [execution: glamsterdam devnet max-allowed-failures=4 for flakes (#21361)](https://github.com/erigontech/erigon/commit/7f8f3821de5bb50712bb998d55aa821fa37030af) - 2026-05-22
+* [Commit] [claude: add tdd principles (#21354)](https://github.com/erigontech/erigon/commit/7d136195870c2c97987623fc581366c07f6699a6) - 2026-05-22
+* [Commit] [claude: less verbose comments v2 (#21355)](https://github.com/erigontech/erigon/commit/1de5fd63ca4ca23bb25b0f64cdac3b460e2d4e6d) - 2026-05-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
+* [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22
 ## Q1 2026
 
 

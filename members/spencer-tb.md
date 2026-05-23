@@ -87,6 +87,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): EIP-8037 isolate intrinsic-regular > cap with floor < cap](https://github.com/ethereum/execution-specs/pull/2870#pullrequestreview-4310471546) - 2026-05-18
 * [Review] [Review on: feat(tests): EIP-7981 zero-byte calldata floor cost rejection](https://github.com/ethereum/execution-specs/pull/2869#pullrequestreview-4309983180) - 2026-05-18
 * [Pull Request] [feat(ci): overhaul fixture releases](https://github.com/ethereum/execution-specs/pull/2888) - 2026-05-20
+* [Pull Request] [feat(github): add devnet test release tracker issue template](https://github.com/ethereum/execution-specs/pull/2899) - 2026-05-22
+* [Pull Request] [feat(spec-specs, tests): alt to merge 8037 to forks/amsterdam](https://github.com/ethereum/execution-specs/pull/2901) - 2026-05-22
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

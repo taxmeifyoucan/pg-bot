@@ -14,6 +14,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7708: add CREATE and CREATE2 to transfer log list](https://github.com/ethereum/EIPs/pull/11474#pullrequestreview-4141558932) - 2026-04-20
 
+* [Pull Request] [Update EIP-8081: add EIP-4758](https://github.com/ethereum/EIPs/pull/11724) - 2026-05-22
+* [Commit] [Update EIP-8081: add EIP-4758](https://github.com/ethereum/EIPs/commit/357eb4d2cd6210e3517778b123e55d9e9411c9e3) - 2026-05-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(specs): add missing type annotations](https://github.com/ethereum/execution-specs/pull/2868#pullrequestreview-4328662835) - 2026-05-20
 ## Q1 2026

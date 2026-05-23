@@ -25,6 +25,7 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: StateComposition: chunk persisted tracker maps so they don't overflow](https://github.com/NethermindEth/nethermind/pull/11588#pullrequestreview-4336070533) - 2026-05-21
 * [Review] [Review on: StateComposition: refuse to publish a partial-scan baseline](https://github.com/NethermindEth/nethermind/pull/11586#pullrequestreview-4335760837) - 2026-05-21
 * [Review] [Review on: StateComposition: scope read-only trie store before incremental diff](https://github.com/NethermindEth/nethermind/pull/11585#pullrequestreview-4335674816) - 2026-05-21
+* [Review] [Review on: Add recovery of missing code](https://github.com/NethermindEth/nethermind/pull/9417#pullrequestreview-4343868335) - 2026-05-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787) - 2026-04-23
 ## Q1 2026

@@ -85,6 +85,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec-specs, tests): Add EIP-7981 Increase Access List Cost](https://github.com/ethereum/execution-specs/pull/2877#pullrequestreview-4319582785) - 2026-05-19
 * [Review] [Review on: feat(spec-spec, tests): Implement eip-8246 and testing scenario](https://github.com/ethereum/execution-specs/pull/2842#pullrequestreview-4319519370) - 2026-05-19
 * [Review] [Review on: feat(specs,tests): merge EIP-8037 into ``forks/amsterdam``](https://github.com/ethereum/execution-specs/pull/2891#pullrequestreview-4341014072) - 2026-05-21
+* [Review] [Review on: feat(github): add devnet test release tracker issue template](https://github.com/ethereum/execution-specs/pull/2899#pullrequestreview-4348852966) - 2026-05-22
+* [Review] [Review on: feat(spec-specs, tests): alt to merge 8037 to forks/amsterdam](https://github.com/ethereum/execution-specs/pull/2901#pullrequestreview-4347044514) - 2026-05-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

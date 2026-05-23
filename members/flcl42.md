@@ -128,6 +128,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix geth-style genesis BPOs; fully consider slot number (#11689)](https://github.com/NethermindEth/nethermind/commit/fbf3ce26d20f3157d479ce08b1236275d4058c1b) - 2026-05-19
 * [Pull Request] [Use generic decoding results for block and tx; remove IRlpObjectDecoder; single RlpDecoder base class and interface](https://github.com/NethermindEth/nethermind/pull/10759) - 2026-05-21
 * [Commit] [Simplify block and tx results, IRlp*Decoders (#10759)](https://github.com/NethermindEth/nethermind/commit/a1ccc9989c560a8640816629b5002d315b06492d) - 2026-05-21
+* [Pull Request] [Extract generic Kademlia and add native discv5](https://github.com/NethermindEth/nethermind/pull/11728) - 2026-05-22
+* [Pull Request] [Make EraE tests visible and green](https://github.com/NethermindEth/nethermind/pull/11727) - 2026-05-22
+* [Review] [Review on: fix(eth/70): reject null receipt payloads](https://github.com/NethermindEth/nethermind/pull/11615#pullrequestreview-4343688178) - 2026-05-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

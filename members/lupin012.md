@@ -143,6 +143,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: return null v,r,s for unsigned transactions in eth_getBlockNumber](https://github.com/erigontech/erigon/pull/21321) - 2026-05-20
 * [Pull Request] [rpc: fix missing 'from' field in newPendingTransactions*](https://github.com/erigontech/erigon/pull/21322) - 2026-05-20
 * [Pull Request] [QA: disable 2 tests of ots_searchTransactionsAfter](https://github.com/erigontech/erigon/pull/21348) - 2026-05-21
+* [Pull Request] [[WIP] rpc: fix witness state nodes](https://github.com/erigontech/erigon/pull/21371) - 2026-05-22
+* [Commit] [rpc: implement eth_capabilities method (#20951)](https://github.com/erigontech/erigon/commit/f694eb84519edfc2fe82ed81488b69d5dee1335b) - 2026-05-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

@@ -41,6 +41,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [redistribute columns from el blobpool](https://github.com/status-im/nimbus-eth2/pull/8480) - 2026-05-20
 * [Pull Request] [extend partial column support to gloas](https://github.com/status-im/nimbus-eth2/pull/8478) - 2026-05-20
 * [Pull Request] [add some extra checks while assembling column sidecars](https://github.com/status-im/nimbus-eth2/pull/8487) - 2026-05-21
+* [Pull Request] [extend getBlobs in gloas](https://github.com/status-im/nimbus-eth2/pull/8498) - 2026-05-22
+* [Pull Request] [ensure sidecarless is cleaned once enqueuePayload is successful](https://github.com/status-im/nimbus-eth2/pull/8501) - 2026-05-22
 ## Q1 2026
 
 

@@ -262,6 +262,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Test data column sidecar reconstruction in Gloas](https://github.com/ethereum/consensus-specs/pull/5274#pullrequestreview-4336817002) - 2026-05-21
 * [Review] [Review on: Enable more ruff lint checks](https://github.com/ethereum/consensus-specs/pull/5268#pullrequestreview-4336652055) - 2026-05-21
 * [Commit] [Add executable gossip validation functions for fulu (#5246)](https://github.com/ethereum/consensus-specs/commit/dd69b4fd86b834366c6d322a93a857788350add6) - 2026-05-21
+* [Pull Request] [Add a script which enforces consistent note prefixes](https://github.com/ethereum/consensus-specs/pull/5279) - 2026-05-22
+* [Review] [Review on: Move safe-block.md definitions to fast-confirmation.md](https://github.com/ethereum/consensus-specs/pull/5278#pullrequestreview-4346042800) - 2026-05-22
+* [Commit] [Add a script which enforces consistent note prefixes (#5279)](https://github.com/ethereum/consensus-specs/commit/b8cf07f4d7599f37a1c6e2bb0201259628a30181) - 2026-05-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

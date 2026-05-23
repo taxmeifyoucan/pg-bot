@@ -81,6 +81,13 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: fix(tests): call delegation access disambiguation](https://github.com/ethereum/execution-specs/pull/2882#pullrequestreview-4319938528) - 2026-05-19
 * [Commit] [feat(tests): extend BALs coverage (#2854)](https://github.com/ethereum/execution-specs/commit/1de389b6177788dfa1df35c71b643e46b82029d1) - 2026-05-20
 * [Pull Request] [feat(specs,tests): merge EIP-8037 into ``forks/amsterdam``](https://github.com/ethereum/execution-specs/pull/2891) - 2026-05-21
+* [Pull Request] [fix(specs): backport ``check_gas`` before state access boundaries from Amsterdam](https://github.com/ethereum/execution-specs/pull/2903) - 2026-05-22
+* [Review] [Review on: chore(specs): Move BAL types into `fork_types` module](https://github.com/ethereum/execution-specs/pull/2294#pullrequestreview-4347719915) - 2026-05-22
+* [Review] [Review on: feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893#pullrequestreview-4347323597) - 2026-05-22
+* [Review] [Review on: feat(tests): EIP-7928 BAL withdrawal predeploy balance read across txs](https://github.com/ethereum/execution-specs/pull/2883#pullrequestreview-4347160973) - 2026-05-22
+* [Review] [Review on: feat(amsterdam): defer EIP-7702 delegate warming until entry checks pass](https://github.com/ethereum/execution-specs/pull/2900#pullrequestreview-4347437952) - 2026-05-22
+* [Review] [Review on: feat(tests): Extend coverage for BAL](https://github.com/ethereum/execution-specs/pull/2897#pullrequestreview-4347374055) - 2026-05-22
+* [Issue] [Address failing slow tests on `forks/amsterdam`](https://github.com/ethereum/execution-specs/issues/2905) - 2026-05-22
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14
@@ -92,6 +99,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: eth/tracers: fix evm trace for t8n](https://github.com/ethereum/go-ethereum/pull/34862#pullrequestreview-4211408949) - 2026-05-01
 * [Commit] [eth/tracers: fix evm trace for t8n (#34862)](https://github.com/ethereum/go-ethereum/commit/b9c5fe6d26342d625c9a393bef9ccd5209c6d888) - 2026-05-01
 * [Pull Request] [cmd/evm/internal/t8ntool: Amsterdam t8n updates; adds BAL and slotNum](https://github.com/ethereum/go-ethereum/pull/35025) - 2026-05-21
+* [Commit] [cmd/evm/internal/t8ntool: Amsterdam t8n updates; adds BAL and slotNum (#35025)](https://github.com/ethereum/go-ethereum/commit/12eabbd76d04f104c89693a2f379173380144de1) - 2026-05-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141218984) - 2026-04-20
 

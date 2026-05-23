@@ -34,6 +34,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Builder deposits optimisation](https://github.com/sigp/lighthouse/pull/9311#pullrequestreview-4322147853) - 2026-05-19
 * [Review] [Review on: Add getBlobsV3 to `LIGHTHOUSE_CAPABILITIES`](https://github.com/sigp/lighthouse/pull/9330#pullrequestreview-4340002427) - 2026-05-21
 * [Review] [Review on: Move BlockProcessingResult match out of block lookups](https://github.com/sigp/lighthouse/pull/9327#pullrequestreview-4339766997) - 2026-05-21
+* [Review] [Review on: Gloas data column reprocess queue](https://github.com/sigp/lighthouse/pull/9339#pullrequestreview-4348279515) - 2026-05-22
+* [Review] [Review on: Gloas fix proposer preferences gossip verification](https://github.com/sigp/lighthouse/pull/9337#pullrequestreview-4348194505) - 2026-05-22
+* [Review] [Review on: Ensure we use the right fork when calculating payload attestation sig domain](https://github.com/sigp/lighthouse/pull/9342#pullrequestreview-4347362534) - 2026-05-22
+* [Review] [Review on: Custody backfill sync only penalize peers once per batch](https://github.com/sigp/lighthouse/pull/9340#pullrequestreview-4347372623) - 2026-05-22
+* [Review] [Review on: Gloas dont enforce peer column custody on block import](https://github.com/sigp/lighthouse/pull/9341#pullrequestreview-4347515237) - 2026-05-22
+* [Review] [Review on: Enable partial data columns by default on Hoodi and Sepolia](https://github.com/sigp/lighthouse/pull/9343#pullrequestreview-4347167247) - 2026-05-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4100433052) - 2026-04-13

@@ -144,6 +144,16 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix(bench): don't enable otlp features (#24356)](https://github.com/paradigmxyz/reth/commit/cae229f0d5f6b67199af22a31e9fca193fb958da) - 2026-05-19
 * [Review] [Review on: refactor(payload): store recovered block in built payload](https://github.com/paradigmxyz/reth/pull/24403#pullrequestreview-4341002002) - 2026-05-21
 * [Pull Request] [chore: bump revm 40](https://github.com/paradigmxyz/reth/pull/24395) - 2026-05-21
+* [Pull Request] [feat: support disabling pipeline stages](https://github.com/paradigmxyz/reth/pull/24436) - 2026-05-22
+* [Pull Request] [perf: don't send unchanged accounts to trie](https://github.com/paradigmxyz/reth/pull/24432) - 2026-05-22
+* [Review] [Review on: feat(trie): add open-ended ordered root builder](https://github.com/paradigmxyz/reth/pull/24419#pullrequestreview-4346813732) - 2026-05-22
+* [Pull Request] [refactor: delegate BAL handling to block executor](https://github.com/paradigmxyz/reth/pull/24423) - 2026-05-22
+* [Review] [Review on: refactor: delegate BAL handling to block executor](https://github.com/paradigmxyz/reth/pull/24423#pullrequestreview-4345020867) - 2026-05-22
+* [Review] [Review on: chore: bump revm 40](https://github.com/paradigmxyz/reth/pull/24395#pullrequestreview-4345637654) - 2026-05-22
+* [Review] [Review on: chore(payload): prefer named thread for payload builds](https://github.com/paradigmxyz/reth/pull/24370#pullrequestreview-4345493946) - 2026-05-22
+* [Commit] [perf: avoid hashing the state twice (#24354)](https://github.com/paradigmxyz/reth/commit/f6e3ebad9ff946b283bf3fb18c0230bd9f1e79e0) - 2026-05-22
+* [Commit] [perf: don't send unchanged accounts to trie (#24432)](https://github.com/paradigmxyz/reth/commit/0456b4b9d9e496f735aaace18c60bf4cf4997033) - 2026-05-22
+* [Commit] [chore: bump revm 40 (#24395)](https://github.com/paradigmxyz/reth/commit/803839df0f66f4068c8560c6ac0ffa7430c77198) - 2026-05-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
@@ -161,6 +171,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix: gracefully handle commits of non-cached accounts (#3657)](https://github.com/bluealloy/revm/commit/345f2c34c57bb9fc7c9669453222361629ea4c41) - 2026-05-06
 * [Pull Request] [refactor: restructure `Journal` traits](https://github.com/bluealloy/revm/pull/3663) - 2026-05-07
 * [Commit] [refactor: restructure `Journal` traits (#3663)](https://github.com/bluealloy/revm/commit/ae93983a7d2fcb902f3fdf48b42ff6a5bc0bdb67) - 2026-05-07
+* [Review] [Review on: feat: add `OnStateHook` for `State<DB>`](https://github.com/bluealloy/revm/pull/3710#pullrequestreview-4347000262) - 2026-05-22
+* [Review] [Review on: feat(database): add is_fatal to DBErrorMarker](https://github.com/bluealloy/revm/pull/3704#pullrequestreview-4343804183) - 2026-05-22
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4140591296) - 2026-04-20

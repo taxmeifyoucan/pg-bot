@@ -333,6 +333,9 @@ Team: Reth
 * [Commit] [test(runtime): deflake cold entry eviction (#382)](https://github.com/paradigmxyz/revmc/commit/bd333d08d37e8e63d9f4c68d1158eba05713bcd5) - 2026-05-16
 * [Commit] [fix(runtime): evict stale cold entries (#381)](https://github.com/paradigmxyz/revmc/commit/a66aa8394799d33b64e5e96424c8f7ac6bef6116) - 2026-05-15
 * [Pull Request] [test: run statetests through nextest](https://github.com/paradigmxyz/revmc/pull/383) - 2026-05-16
+* [Pull Request] [fix(runtime): cap default JIT bytecode length](https://github.com/paradigmxyz/revmc/pull/384) - 2026-05-22
+* [Commit] [fix(runtime): cap default JIT bytecode length (#384)](https://github.com/paradigmxyz/revmc/commit/13551169e171390ea6666a9fbaeefc3086ece458) - 2026-05-23
+* [Commit] [feat(runtime): add out-of-process JIT mode (#365)](https://github.com/paradigmxyz/revmc/commit/4042c2ed50d88fb16505976461f8be1d13398f4a) - 2026-05-22
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -456,6 +459,7 @@ Team: Reth
 * [Commit] [chore: rm unused MemoryExtensionResult (#3646)](https://github.com/bluealloy/revm/commit/3a436bd0627bf99b39765db2b6aadd790bc118f0) - 2026-05-05
 * [Commit] [refactor: remove unused spec ids (#3649)](https://github.com/bluealloy/revm/commit/c661e79ac941214f8ca458e1cba9de216571c948) - 2026-05-05
 * [Pull Request] [feat(precompile): add matter-labs bn254 backend](https://github.com/bluealloy/revm/pull/3673) - 2026-05-12
+* [Pull Request] [feat: add async database fiber support](https://github.com/bluealloy/revm/pull/3709) - 2026-05-22
 ## Q1 2026
 
 

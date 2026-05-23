@@ -20,6 +20,9 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Update EIP-7773: CFI EIP-8246 for Glamsterdam](https://github.com/ethereum/EIPs/pull/11625#pullrequestreview-4259654952) - 2026-05-10
 * [Pull Request] [Update EIP-7773: move PFI above DFI](https://github.com/ethereum/EIPs/pull/11712) - 2026-05-21
 * [Commit] [Update EIP-7773: move PFI above DFI](https://github.com/ethereum/EIPs/commit/8e5113ee9d1006b062cd2d8132e1a6c14d11911c) - 2026-05-21
+* [Review] [Review on: Update EIP-8081: add EIP-8253](https://github.com/ethereum/EIPs/pull/11721#pullrequestreview-4349027844) - 2026-05-22
+* [Review] [Review on: Update EIP-8081: add EIP-8188](https://github.com/ethereum/EIPs/pull/11722#pullrequestreview-4349026787) - 2026-05-22
+* [Review] [Review on: Update EIP-8081: add EIP-4758](https://github.com/ethereum/EIPs/pull/11724#pullrequestreview-4349023783) - 2026-05-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Commit] [Fix CI: downgrade Requests to 2.32.5 for Python 3.9 compatibility](https://github.com/ethereum/pm/commit/b8ce2627f82c7790432c37c2b66c0083ee61c96d) - 2026-04-01
 * [Issue] [All Core Devs - Execution (ACDE) #234, April 9, 2026](https://github.com/ethereum/pm/issues/2004) - 2026-04-04
@@ -37,6 +40,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [cleanup old info + discord link](https://github.com/ethereum/pm/commit/d6e2c3c54a48b971f3ef4840d1c1ffb09727baa6) - 2026-05-10
 * [Commit] [add facilitators, mark stokes ooo](https://github.com/ethereum/pm/commit/26a5997eed919588a1d234c8e273e4f4c70579e4) - 2026-05-10
 * [Issue] [All Core Devs - Consensus (ACDC) #179, May 28, 2026](https://github.com/ethereum/pm/issues/2061) - 2026-05-17
+* [Issue] [All Core Devs - Execution (ACDE) #238, June 4, 2026](https://github.com/ethereum/pm/issues/2076) - 2026-05-22
 ## Q1 2026
 
 

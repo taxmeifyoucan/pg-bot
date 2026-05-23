@@ -104,6 +104,13 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat(bindings): align `BeaconStateView` with `IBeaconStateView`](https://github.com/ChainSafe/lodestar-z/pull/347#pullrequestreview-4326098512) - 2026-05-20
 * [Review] [Review on: feat: support bitArrays in to_napi_value](https://github.com/ChainSafe/lodestar-z/pull/368#pullrequestreview-4326364039) - 2026-05-20
 * [Commit] [feat: support getLatestWeakSubjectivityCheckpointEpoch (#366)](https://github.com/ChainSafe/lodestar-z/commit/dcf3883e49bf47f0804fdfb649e328ce98b0f84d) - 2026-05-20
+* [Pull Request] [chore(release): v0.1.2-rc.5](https://github.com/ChainSafe/lodestar-z/pull/374) - 2026-05-22
+* [Pull Request] [chore(release): v0.1.2-rc.4](https://github.com/ChainSafe/lodestar-z/pull/373) - 2026-05-22
+* [Pull Request] [chore(deps): use zapi v2.1.0](https://github.com/ChainSafe/lodestar-z/pull/372) - 2026-05-22
+* [Review] [Review on: fix: export asyncAggregateWithRandomness through napi binding](https://github.com/ChainSafe/lodestar-z/pull/371#pullrequestreview-4343569210) - 2026-05-22
+* [Commit] [chore(release): v0.1.2-rc.5 (#374)](https://github.com/ChainSafe/lodestar-z/commit/f344efa74df756581f8d1dfea62f1d19ec668fd8) - 2026-05-22
+* [Commit] [chore(release): v0.1.2-rc.4 (#373)](https://github.com/ChainSafe/lodestar-z/commit/09468f1c652318df06e461fa82f078e9b613c324) - 2026-05-22
+* [Commit] [chore(deps): use zapi v2.1.0 (#372)](https://github.com/ChainSafe/lodestar-z/commit/88f403aba0e380523b695d169c92fd8e32963c6d) - 2026-05-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

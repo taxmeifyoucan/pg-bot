@@ -56,6 +56,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Review] [Review on: Update EIP-7928: clarify CREATE inclusion and storage no-op handling](https://github.com/ethereum/EIPs/pull/11717#pullrequestreview-4336850368) - 2026-05-21
 * [Review] [Review on: Update EIP-7928: Clarify edge case aorund 7702 insufficient gas](https://github.com/ethereum/EIPs/pull/11699#pullrequestreview-4334916811) - 2026-05-21
 * [Commit] [Update EIP-7928: Clarify edge case aorund 7702 insufficient gas](https://github.com/ethereum/EIPs/commit/4675100a434334520190019488e9ca94dcda2141) - 2026-05-21
+* [Commit] [Add EIP: Expiring Nonces for Frame Transactions](https://github.com/ethereum/EIPs/commit/377b20ab218edf88907e58641c3354355a68e601) - 2026-05-22
+* [Commit] [Update EIP-7928: add GAS_COPY to EXTCODECOPY](https://github.com/ethereum/EIPs/commit/50dffe76061bf5896b585b97248eda6430990a76) - 2026-05-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11
@@ -69,6 +71,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [feat(tests): Add worst-case SSTORE test](https://github.com/ethereum/execution-specs/pull/2757) - 2026-04-25
 * [Pull Request] [feat(spec): EIP-8237 partial header hash](https://github.com/ethereum/execution-specs/pull/2770) - 2026-04-28
 * [Pull Request] [feat(specs): implement EIP-8254: Cap deposit requests per block](https://github.com/ethereum/execution-specs/pull/2818) - 2026-05-07
+* [Pull Request] [feat(amsterdam): defer EIP-7702 delegate warming until entry checks pass](https://github.com/ethereum/execution-specs/pull/2900) - 2026-05-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use `engine_getPayloadV6`](https://github.com/ethereum/consensus-specs/pull/5123) - 2026-04-17
 * [Commit] [Use `engine_getPayloadV6` (#5123)](https://github.com/ethereum/consensus-specs/commit/81c27174232bedc50f71c2c4b78b07e2951252cd) - 2026-04-17

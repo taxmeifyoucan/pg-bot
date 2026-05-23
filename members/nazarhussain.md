@@ -33,6 +33,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: make XXXDecisionRoot fns return `js.String`](https://github.com/ChainSafe/lodestar-z/pull/342#pullrequestreview-4228041568) - 2026-05-05
 * [Commit] [feat: migrate blst,pubkeys to use zapi js dsl (#331)](https://github.com/ChainSafe/lodestar-z/commit/fcd26caf6c36f8aecfea9ed9c7b5a36e27293bcb) - 2026-05-12
 * [Review] [Review on: feat(clock): add clock module for slot/epoch timing](https://github.com/ChainSafe/lodestar-z/pull/354#pullrequestreview-4338006876) - 2026-05-21
+* [Pull Request] [fix: export asyncAggregateWithRandomness through napi binding](https://github.com/ChainSafe/lodestar-z/pull/371) - 2026-05-22
+* [Commit] [fix: export asyncAggregateWithRandomness through napi binding (#371)](https://github.com/ChainSafe/lodestar-z/commit/1d04c2b00f90d340abc543427c35467b3622826b) - 2026-05-22
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-4097078708) - 2026-04-13
 * [Review] [Review on: fix(prover): implement eth_getBlockNumber verified request handler](https://github.com/ChainSafe/lodestar/pull/9203#pullrequestreview-4097017101) - 2026-04-13

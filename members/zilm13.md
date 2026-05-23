@@ -80,6 +80,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Optimize onboarding builders at the fork](https://github.com/Consensys/teku/pull/10729#pullrequestreview-4329501784) - 2026-05-20
 * [Review] [Review on: Count PTC votes from duplicated validators + apply attestations from blocks](https://github.com/Consensys/teku/pull/10732#pullrequestreview-4340213128) - 2026-05-21
 * [Pull Request] [Force the proposer to reorg unavailable blocks](https://github.com/Consensys/teku/pull/10741) - 2026-05-21
+* [Commit] [Count PTC votes from duplicated validators + apply attestations from blocks (#10732)](https://github.com/Consensys/teku/commit/7abc081cad417b0284cd4fe2db8d82048676c7a4) - 2026-05-22
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

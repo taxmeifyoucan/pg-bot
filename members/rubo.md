@@ -107,6 +107,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat(zkevm): Migrate stateless I/O to the SSZ standard (#11625)](https://github.com/NethermindEth/nethermind/commit/b4ffd8b639895e6099da03019e1ada82121a0483) - 2026-05-20
 * [Commit] [chore(ai): Remove unused stuff (#11690)](https://github.com/NethermindEth/nethermind/commit/f0e6886f5507c947d3334faefca4c6a2dd195659) - 2026-05-20
 * [Review] [Review on: chore(ci): bump remaining actions/create-github-app-token to v3](https://github.com/NethermindEth/nethermind/pull/11705#pullrequestreview-4336906651) - 2026-05-21
+* [Pull Request] [chore: Remove redundant command line option](https://github.com/NethermindEth/nethermind/pull/11723) - 2026-05-22
+* [Review] [Review on: feat(runner): add --logging-format CLI for structured console logs](https://github.com/NethermindEth/nethermind/pull/11610#pullrequestreview-4343601420) - 2026-05-22
+* [Commit] [chore: Remove redundant command line option (#11723)](https://github.com/NethermindEth/nethermind/commit/a052c38b6e066fd825f73ce70f513cb5ee252e0f) - 2026-05-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 ## Q1 2026

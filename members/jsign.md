@@ -73,6 +73,10 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat: add support for EEST blockchain test fixtures](https://github.com/eth-act/zkevm-benchmark-workload/pull/286) - 2026-05-21
 * [Review] [Review on: feat: add support for EEST blockchain test fixtures](https://github.com/eth-act/zkevm-benchmark-workload/pull/286#pullrequestreview-4339062207) - 2026-05-21
 * [Review] [Review on: feat: update to ere@v0.11.0 and ere-guests@v0.11.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/285#pullrequestreview-4338375114) - 2026-05-21
+* [Pull Request] [feat: add output matching metrics for execution and proving processes](https://github.com/eth-act/zkevm-benchmark-workload/pull/287) - 2026-05-22
+* [Review] [Review on: feat: add support for EEST blockchain test fixtures](https://github.com/eth-act/zkevm-benchmark-workload/pull/286#pullrequestreview-4345465798) - 2026-05-22
+* [Commit] [feat: add output matching metrics for execution and proving processes (#287)](https://github.com/eth-act/zkevm-benchmark-workload/commit/d27512d374487ecee64660b43e67b60c05e5ef18) - 2026-05-22
+* [Commit] [feat: add support for EEST blockchain test fixtures (#286)](https://github.com/eth-act/zkevm-benchmark-workload/commit/02758cd977005504591066ccacfb1e286c161961) - 2026-05-22
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08

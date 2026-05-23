@@ -95,6 +95,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gloas alpha spec 8](https://github.com/sigp/lighthouse/pull/9315#pullrequestreview-4328257317) - 2026-05-20
 * [Review] [Review on: Gloas lookup sync boilerplate](https://github.com/sigp/lighthouse/pull/9322#pullrequestreview-4325618948) - 2026-05-20
 * [Pull Request] [Gloas proposer pref gossip validation bug](https://github.com/sigp/lighthouse/pull/9332) - 2026-05-21
+* [Pull Request] [Gloas data column reprocess queue](https://github.com/sigp/lighthouse/pull/9339) - 2026-05-22
+* [Review] [Review on: Gloas data column reprocess queue](https://github.com/sigp/lighthouse/pull/9339#pullrequestreview-4345861557) - 2026-05-22
+* [Pull Request] [Gloas fix proposer preferences gossip verification](https://github.com/sigp/lighthouse/pull/9337) - 2026-05-22
+* [Pull Request] [Ensure we use the right fork when calculating payload attestation sig domain](https://github.com/sigp/lighthouse/pull/9342) - 2026-05-22
+* [Pull Request] [Custody backfill sync only penalize peers once per batch](https://github.com/sigp/lighthouse/pull/9340) - 2026-05-22
+* [Pull Request] [Gloas dont enforce peer column custody on block import](https://github.com/sigp/lighthouse/pull/9341) - 2026-05-22
+* [Pull Request] [Ensure we can serve blocks and columns after `head` event is emitted](https://github.com/sigp/lighthouse/pull/9338) - 2026-05-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

@@ -205,6 +205,11 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [bench(whir): add end-to-end PCS benchmark suite (#1582)](https://github.com/Plonky3/Plonky3/commit/afa94e274f37c71a8152515a45746117f259524e) - 2026-05-20
 * [Review] [Review on: ci: tighten doc/release/TOML checks](https://github.com/Plonky3/Plonky3/pull/1689#pullrequestreview-4340400812) - 2026-05-21
 * [Review] [Review on: Couple fixes](https://github.com/Plonky3/Plonky3/pull/1688#pullrequestreview-4338069998) - 2026-05-21
+* [Review] [Review on: feat: add a `HornerIter` supertrait on `DoubleEndedIterator`](https://github.com/Plonky3/Plonky3/pull/1692#pullrequestreview-4343574155) - 2026-05-22
+* [Pull Request] [chore: HornerIter follow-ups from #1692 review](https://github.com/Plonky3/Plonky3/pull/1693) - 2026-05-22
+* [Review] [Review on: chore: HornerIter follow-ups from #1692 review](https://github.com/Plonky3/Plonky3/pull/1693#pullrequestreview-4344149521) - 2026-05-22
+* [Review] [Review on: fix: do not reduce Mersenne::ZEROS[1]](https://github.com/Plonky3/Plonky3/pull/1691#pullrequestreview-4343585385) - 2026-05-22
+* [Commit] [chore: HornerIter follow-ups from #1692 review (#1693)](https://github.com/Plonky3/Plonky3/commit/9fc13fa223665268f3bec16ddd43d4b592cd57a1) - 2026-05-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

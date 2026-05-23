@@ -99,6 +99,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Fix data column sidecars JSON response post-Gloas](https://github.com/OffchainLabs/prysm/pull/16820#pullrequestreview-4337833121) - 2026-05-21
 * [Review] [Review on: Fix debug data_column_sidecars endpoint for Gloas blocks](https://github.com/OffchainLabs/prysm/pull/16817#pullrequestreview-4337720468) - 2026-05-21
 * [Commit] [fixing missed generations (#16827)](https://github.com/OffchainLabs/prysm/commit/07ff2eea6f19fe0a65ea9b87d47be0ce072f6397) - 2026-05-21
+* [Pull Request] [implements ptc beacon apis](https://github.com/OffchainLabs/prysm/pull/16306) - 2026-05-23
+* [Pull Request] [proposer preference rest](https://github.com/OffchainLabs/prysm/pull/16835) - 2026-05-22
+* [Review] [Review on: Cap Gloas pending column cell count, reject malformed sidecars](https://github.com/OffchainLabs/prysm/pull/16831#pullrequestreview-4347772378) - 2026-05-22
+* [Review] [Review on: Dedup bid at the earliest point in gossip validation](https://github.com/OffchainLabs/prysm/pull/16832#pullrequestreview-4347735914) - 2026-05-22
+* [Commit] [implements ptc beacon apis (#16306)](https://github.com/OffchainLabs/prysm/commit/02d810175891da41040467b1d8c674de6bf46026) - 2026-05-22
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

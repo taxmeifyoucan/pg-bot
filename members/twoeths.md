@@ -165,6 +165,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Gloas: onboard 20k builders at fork transition](https://github.com/ChainSafe/lodestar/issues/9395) - 2026-05-22
 * [Commit] [feat: force the proposer to reorg unavailable blocks (#9387)](https://github.com/ChainSafe/lodestar/commit/b506aab66debd7baa0bfa2f6632a9c6936f045ad) - 2026-05-21
 * [Commit] [chore: add logs and metrics for execution payload (#9370)](https://github.com/ChainSafe/lodestar/commit/1a8c38ee36d2a585a3b949a0504ea7096ced6891) - 2026-05-21
+* [Review] [Review on: feat: only give proposer boost to canonical proposer](https://github.com/ChainSafe/lodestar/pull/9313#pullrequestreview-4343817837) - 2026-05-22
+* [Pull Request] [perf: speed up builder onboarding at the Gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9397) - 2026-05-22
+* [Review] [Review on: perf: speed up builder onboarding at the Gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9397#pullrequestreview-4343927276) - 2026-05-22
+* [Review] [Review on: fix: ptc gossip to dedup by slot not by epoch](https://github.com/ChainSafe/lodestar/pull/9396#pullrequestreview-4344196498) - 2026-05-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

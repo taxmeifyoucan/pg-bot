@@ -21,6 +21,8 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Pull Request] [fix: update sync workflow to ensure approvals are based on current head SHA for forked PRs](https://github.com/NethermindEth/nethermind/pull/11685) - 2026-05-19
 * [Review] [Review on: Gate gas benchmark workflow for fork PRs](https://github.com/NethermindEth/nethermind/pull/11684#pullrequestreview-4319708438) - 2026-05-19
 * [Review] [Review on: fix: update sync workflow to ensure approvals are based on current head SHA for forked PRs](https://github.com/NethermindEth/nethermind/pull/11685#pullrequestreview-4333342427) - 2026-05-21
+* [Review] [Review on: feat: enhance gas benchmark workflow with comments for start and results](https://github.com/NethermindEth/nethermind/pull/10350#pullrequestreview-4347393716) - 2026-05-22
+* [Commit] [feat: add SkipMetricsTracking property to DbSettings (#11515)](https://github.com/NethermindEth/nethermind/commit/27b31197620a429a97c5502e7e5792a23e19a363) - 2026-05-22
 ## Q1 2026
 
 

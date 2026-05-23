@@ -473,6 +473,27 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Simplify pruning cutoff & separate for BALs](https://github.com/NethermindEth/nethermind/pull/11701#pullrequestreview-4336786220) - 2026-05-21
 * [Review] [Review on: fix(trie): rate-limit "Unable to completely prune persisted nodes" warning](https://github.com/NethermindEth/nethermind/pull/11703#pullrequestreview-4335483694) - 2026-05-21
 * [Commit] [perf(bal): replace SortedDictionary/SortedSet aggregates with Dictionary/HashSet (#11672)](https://github.com/NethermindEth/nethermind/commit/789cb76443a9ffef788dda74226517274b68c5a6) - 2026-05-21
+* [Pull Request] [debug streaming: reduce allocations on per-block trace path](https://github.com/NethermindEth/nethermind/pull/11730) - 2026-05-22
+* [Pull Request] [test: bump executePayloadV1_accepts_already_known_block timeout to 60s](https://github.com/NethermindEth/nethermind/pull/11731) - 2026-05-22
+* [Pull Request] [test(merge): cover slot-1151 late-sibling FCU reorg scenario](https://github.com/NethermindEth/nethermind/pull/11729) - 2026-05-22
+* [Pull Request] [perf(bal): cut allocations on BAL generate/validate paths](https://github.com/NethermindEth/nethermind/pull/11725) - 2026-05-22
+* [Review] [Review on: perf(bal): cut allocations on BAL generate/validate paths](https://github.com/NethermindEth/nethermind/pull/11725#pullrequestreview-4344761762) - 2026-05-22
+* [Review] [Review on: feat: add SkipMetricsTracking property to DbSettings](https://github.com/NethermindEth/nethermind/pull/11515#pullrequestreview-4343672159) - 2026-05-22
+* [Review] [Review on: feat(engine): introduce REST based + SSZ serialized `new-payload-with-witness`](https://github.com/NethermindEth/nethermind/pull/11623#pullrequestreview-4343798307) - 2026-05-22
+* [Review] [Review on: Add validation for nested ABI array depth](https://github.com/NethermindEth/nethermind/pull/11726#pullrequestreview-4346119746) - 2026-05-22
+* [Review] [Review on: TryCalculateFeePerBlobGas as a decorator for blobbasefeeoverride](https://github.com/NethermindEth/nethermind/pull/11717#pullrequestreview-4346616480) - 2026-05-22
+* [Review] [Review on: Enforce IDE0028 (use collection initializers/expressions) in linting](https://github.com/NethermindEth/nethermind/pull/11708#pullrequestreview-4344862729) - 2026-05-22
+* [Pull Request] [fix(bal): defer 7702 delegation BAL entry past depth/balance check](https://github.com/NethermindEth/nethermind/pull/11724) - 2026-05-22
+* [Review] [Review on: Optimize guards](https://github.com/NethermindEth/nethermind/pull/11716#pullrequestreview-4343241602) - 2026-05-22
+* [Review] [Review on: chore: Remove redundant command line option](https://github.com/NethermindEth/nethermind/pull/11723#pullrequestreview-4343652294) - 2026-05-22
+* [Review] [Review on: cleanup - Missed review for 11714](https://github.com/NethermindEth/nethermind/pull/11722#pullrequestreview-4343645298) - 2026-05-22
+* [Review] [Review on: fix: use enabled parameter in EthStatsPluginTests](https://github.com/NethermindEth/nethermind/pull/11706#pullrequestreview-4343278185) - 2026-05-22
+* [Review] [Review on: feat(runner): add --logging-format CLI for structured console logs](https://github.com/NethermindEth/nethermind/pull/11610#pullrequestreview-4343355769) - 2026-05-22
+* [Review] [Review on: Alchemy - Code Fix](https://github.com/NethermindEth/nethermind/pull/11714#pullrequestreview-4343106995) - 2026-05-22
+* [Review] [Review on: Test EIP-8037 code-deposit halt state gas unwind](https://github.com/NethermindEth/nethermind/pull/11710#pullrequestreview-4343377821) - 2026-05-22
+* [Review] [Review on: chore(ci): bump remaining actions/create-github-app-token to v3](https://github.com/NethermindEth/nethermind/pull/11705#pullrequestreview-4343272182) - 2026-05-22
+* [Review] [Review on: Fix DbTracker repeatedly logging ObjectDisposedException after disposal](https://github.com/NethermindEth/nethermind/pull/11720#pullrequestreview-4343079911) - 2026-05-22
+* [Commit] [perf(bal): cut allocations on BAL generate/validate paths (#11725)](https://github.com/NethermindEth/nethermind/commit/48a8be483ce086ddeed24c8f4aad345d19cd6b98) - 2026-05-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

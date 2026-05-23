@@ -460,6 +460,14 @@ Team: Reth
 * [Pull Request] [fix(rpc): align eth_simulateV1 with execution-apis spec](https://github.com/paradigmxyz/reth/pull/24385) - 2026-05-21
 * [Commit] [refactor(payload): store recovered block in built payload (#24403)](https://github.com/paradigmxyz/reth/commit/559b0b9fa4938195b7c6ebfc11518755574dc1c5) - 2026-05-21
 * [Commit] [fix(import): skip invalid blocks during file decode instead of aborting (#24379)](https://github.com/paradigmxyz/reth/commit/925cfaf9e2b6e354de196f1c82f6b963179aa683) - 2026-05-21
+* [Review] [Review on: perf: don't send unchanged accounts to trie](https://github.com/paradigmxyz/reth/pull/24432#pullrequestreview-4347209367) - 2026-05-22
+* [Pull Request] [feat(trie): add open-ended ordered root builder](https://github.com/paradigmxyz/reth/pull/24419) - 2026-05-22
+* [Review] [Review on: chore: bump revm 40](https://github.com/paradigmxyz/reth/pull/24395#pullrequestreview-4345220375) - 2026-05-22
+* [Pull Request] [fix(rpc): support hostname resolution for trusted peers](https://github.com/paradigmxyz/reth/pull/24427) - 2026-05-22
+* [Review] [Review on: docs(rpc): document missing debug namespace methods](https://github.com/paradigmxyz/reth/pull/24362#pullrequestreview-4344493367) - 2026-05-22
+* [Review] [Review on: docs(txpool): fix grammar in EthPooledTransaction::new doc comment](https://github.com/paradigmxyz/reth/pull/24407#pullrequestreview-4344431616) - 2026-05-22
+* [Issue] [Track blob cell availability for eth/72 pooled hash announcements](https://github.com/paradigmxyz/reth/issues/24415) - 2026-05-22
+* [Commit] [fix(net): remove untrusted peers from resolver (#24406)](https://github.com/paradigmxyz/reth/commit/b05e68db85fb29c4eaa707728171acb0fd0cd23d) - 2026-05-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -475,6 +483,7 @@ Team: Reth
 * [Commit] [feat(state): add Bal::try_from_alloy (#3665)](https://github.com/bluealloy/revm/commit/8850aec02d7924b8b29274c7315efacb16905cd6) - 2026-05-08
 * [Pull Request] [feat: add borrowed alloy BAL conversion](https://github.com/bluealloy/revm/pull/3670) - 2026-05-11
 * [Commit] [feat: add borrowed alloy BAL conversion (#3670)](https://github.com/bluealloy/revm/commit/0900ee3983618bb378e9a736fd6f3f70a8ef8f0d) - 2026-05-12
+* [Review] [Review on: feat: add `OnStateHook` for `State<DB>`](https://github.com/bluealloy/revm/pull/3710#pullrequestreview-4346988510) - 2026-05-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
 ## Q1 2026

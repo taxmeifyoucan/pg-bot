@@ -450,6 +450,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.4] db/version: bump version to 3.4.2](https://github.com/erigontech/erigon/pull/21338) - 2026-05-21
 * [Pull Request] [.github: grant claude-code-action contents:write so it can push](https://github.com/erigontech/erigon/pull/21334) - 2026-05-21
 * [Commit] [.github: grant claude-code-action contents:write so it can push (#21334)](https://github.com/erigontech/erigon/commit/c7ae33f53183b0ae240f41d1fb4906c34714fe08) - 2026-05-21
+* [Review] [Review on: eest: add EIP-8025 execution witness test suite (93 zkevm fixtures)](https://github.com/erigontech/erigon/pull/20938#pullrequestreview-4343846972) - 2026-05-22
+* [Review] [Review on: cmd/diag, go.mod: remove diag CLI; move gofumpt to tools section; bump deps](https://github.com/erigontech/erigon/pull/21351#pullrequestreview-4344556050) - 2026-05-22
+* [Pull Request] [execution/engineapi: replay cached validation error on bad-block short-circuit](https://github.com/erigontech/erigon/pull/21362) - 2026-05-22
+* [Review] [Review on: execution/engineapi: replay cached validation error on bad-block short-circuit](https://github.com/erigontech/erigon/pull/21362#pullrequestreview-4344188718) - 2026-05-22
+* [Pull Request] [.claude/rules: generalize branch-naming.md beyond Alex's convention](https://github.com/erigontech/erigon/pull/21365) - 2026-05-22
+* [Review] [Review on: execution: glamsterdam devnet max-allowed-failures=4 for flakes](https://github.com/erigontech/erigon/pull/21361#pullrequestreview-4343965691) - 2026-05-22
+* [Review] [Review on: execution/state: mirror createObjectChange dirty-tracking on resetObjectChange (#21138)](https://github.com/erigontech/erigon/pull/21220#pullrequestreview-4344180752) - 2026-05-22
+* [Commit] [execution/engineapi: replay cached validation error on bad-block short-circuit (#21362)](https://github.com/erigontech/erigon/commit/7ec886b1aadb8458bde9166378ae7f94fb1d0fdb) - 2026-05-22
+* [Commit] [.claude/rules: generalize branch-naming.md beyond Alex's convention (#21365)](https://github.com/erigontech/erigon/commit/f59ef1c341fde385caeb4b52cbcc8143307205f1) - 2026-05-22
+* [Commit] [db/kv/membatchwithdb: use Append in MemoryMutation.Flush for sorted-key tables (#21313)](https://github.com/erigontech/erigon/commit/5a8ccb15f61baf810222fac30556901df04100cc) - 2026-05-22
+* [Commit] [db/kv, db/migrations, cmd: drop pre-E3 plain/hashed state and history tables (#21280)](https://github.com/erigontech/erigon/commit/dfc03335493ac7ae6430fde9dd5e9d805ee95bfc) - 2026-05-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

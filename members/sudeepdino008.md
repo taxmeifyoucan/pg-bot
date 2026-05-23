@@ -204,6 +204,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [wip] block snaps: don't calc FileName where can](https://github.com/erigontech/erigon/pull/21329#pullrequestreview-4334971855) - 2026-05-21
 * [Commit] [cl/phase1/forkchoice: align getFilterBlockTree with consensus spec (#21327)](https://github.com/erigontech/erigon/commit/419521c1b35eb46841f86fec89e42e31feeb04fb) - 2026-05-21
 * [Commit] [cmd/utils/app: skip .tmp files in state snapshot integrity check (#21331)](https://github.com/erigontech/erigon/commit/cf24fbf1607a845c179162424ea9515ebfc1b9cc) - 2026-05-21
+* [Review] [Review on: execution, cl: persist initial-cycle lifecycle by block TTL](https://github.com/erigontech/erigon/pull/20895#pullrequestreview-4343046540) - 2026-05-22
+* [Review] [Review on: bloatnet: disable referenced keys](https://github.com/erigontech/erigon/pull/21295#pullrequestreview-4344028580) - 2026-05-22
+* [Review] [Review on: claude: less verbose comments v2](https://github.com/erigontech/erigon/pull/21355#pullrequestreview-4343064362) - 2026-05-22
+* [Review] [Review on: db: use named-return defer for constructor cleanup on error](https://github.com/erigontech/erigon/pull/21350#pullrequestreview-4342280875) - 2026-05-22
+* [Issue] [state collation strategy: capping or recovery](https://github.com/erigontech/erigon/issues/21366) - 2026-05-22
+* [Issue] [explore ChangeSets3 as dupsort](https://github.com/erigontech/erigon/issues/21358) - 2026-05-22
 ## Q1 2026
 
 

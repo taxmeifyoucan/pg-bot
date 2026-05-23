@@ -168,6 +168,16 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #707 from ethpandaops/barnabasbusa-patch-1](https://github.com/ethpandaops/dora/commit/5280da34060b25fd328ea27119369821792a00b8) - 2026-05-21
 * [Commit] [Update cleanup script to remove directories recursively](https://github.com/ethpandaops/dora/commit/d488e5a4e95e68b1676ebcbb72d7e094751db60a) - 2026-05-21
 * [Commit] [Merge pull request #706 from ethpandaops/codex/fix-security-alerts](https://github.com/ethpandaops/dora/commit/812d054e535a601ed8d03abe9f16a7f5aa0c24cc) - 2026-05-21
+* [Pull Request] [fix(indexer): populate ExecutionExtraData on Gloas+ blocks](https://github.com/ethpandaops/dora/pull/716) - 2026-05-22
+* [Pull Request] [feat(included_deposits): filter by withdrawal credential type](https://github.com/ethpandaops/dora/pull/715) - 2026-05-22
+* [Pull Request] [fix: guard against nil validator on included_deposits page](https://github.com/ethpandaops/dora/pull/714) - 2026-05-22
+* [Pull Request] [fix: swallow lighthouse head 404 noise on transient REST API race](https://github.com/ethpandaops/dora/pull/713) - 2026-05-22
+* [Pull Request] [feat(das-guardian): surface Gloas proposer preferences in scan modal](https://github.com/ethpandaops/dora/pull/712) - 2026-05-22
+* [Commit] [Merge pull request #716 from ethpandaops/bbusa/fix-blocks-filtered-not-filter](https://github.com/ethpandaops/dora/commit/6600e456b370bfe42065084f7fcee4a11b3ff51d) - 2026-05-22
+* [Commit] [fix(indexer): populate ExecutionExtraData from payload envelope on Gloas+](https://github.com/ethpandaops/dora/commit/6b0f34a1e0f08e20f81bb4d25bcec384a1a7725a) - 2026-05-22
+* [Commit] [Merge pull request #714 from ethpandaops/bbusa/fix-included-deposits-nil-validator-panic](https://github.com/ethpandaops/dora/commit/3019601381a247791ba7fe79614f715bf6f9bbc8) - 2026-05-22
+* [Commit] [fix(handlers): guard against nil validator on included_deposits page](https://github.com/ethpandaops/dora/commit/f5ce582e5f07b1063a6bb29d2a84a0a261a9f0ba) - 2026-05-22
+* [Commit] [Merge pull request #711 from ethpandaops/pk910/fix-filtered-slots-view](https://github.com/ethpandaops/dora/commit/e410ee3365d494802019c246d74240a536ead239) - 2026-05-22
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -182,10 +192,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(api): expose peer-scoring fields on /eth/v1/node/peers](https://github.com/OffchainLabs/prysm/pull/16794) - 2026-05-15
 * [Pull Request] [Fix Gloas genesis block reconstruction](https://github.com/OffchainLabs/prysm/pull/16821) - 2026-05-21
 * [Pull Request] [Reconstruct Gloas genesis bid from state.latest_execution_payload_bid](https://github.com/OffchainLabs/prysm/pull/16822) - 2026-05-21
+* [Pull Request] [Return 425 when EL has not yet executed a blinded Gloas envelope](https://github.com/OffchainLabs/prysm/pull/16833) - 2026-05-22
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112) - 2026-04-08
 
 * [Pull Request] [feat(beacon-api): expose peer-scoring fields on /eth/v1/node/peers](https://github.com/sigp/lighthouse/pull/9307) - 2026-05-15
+* [Pull Request] [Advance head state to current slot for proposer_preferences gossip validation](https://github.com/sigp/lighthouse/pull/9336) - 2026-05-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add config/spec test generator for beacon API endpoint](https://github.com/ethereum/consensus-specs/pull/5089) - 2026-04-09
 
@@ -242,6 +254,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Add EIP: Cap deposit requests per block](https://github.com/ethereum/EIPs/pull/11607) - 2026-05-06
 * [Pull Request] [Add EIP: Gas Limit Schedule](https://github.com/ethereum/EIPs/pull/11644) - 2026-05-11
 * [Review] [Review on: Add EIP: Gas Limit Schedule](https://github.com/ethereum/EIPs/pull/11644#pullrequestreview-4271140958) - 2026-05-12
+* [Review] [Review on: Add EIP: Cap Deposit Requests Per Block](https://github.com/ethereum/EIPs/pull/11607#pullrequestreview-4343730850) - 2026-05-22
+* [Commit] [Add EIP: Cap Deposit Requests Per Block](https://github.com/ethereum/EIPs/commit/bf7d500bab49d007a8248eb77fd48136d045b7c8) - 2026-05-22
+* [Commit] [Add EIP: Gas Limit Schedule](https://github.com/ethereum/EIPs/commit/c22b578a3ae59a1ab5efcb62d0b5a6dd1203d778) - 2026-05-22
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [ci: bump pinned GitHub Actions to latest](https://github.com/ethpandaops/template-devnets/pull/158) - 2026-04-14
 * [Commit] [ci: bump pinned GitHub Actions to latest (#158)](https://github.com/ethpandaops/template-devnets/commit/254b32c9621944012d978017e59489c3eb70db78) - 2026-04-14
@@ -260,6 +275,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: add buildoor](https://github.com/ethpandaops/template-devnets/pull/165#pullrequestreview-4256930430) - 2026-05-09
 * [Review] [Review on: vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168#pullrequestreview-4269317484) - 2026-05-12
 * [Review] [Review on: ethrex: enable admin RPC namespace so Dora can read node info](https://github.com/ethpandaops/template-devnets/pull/170#pullrequestreview-4331102065) - 2026-05-20
+* [Review] [Review on: ipv6 fixes](https://github.com/ethpandaops/template-devnets/pull/167#pullrequestreview-4345119942) - 2026-05-22
+* [Commit] [firewall: open inbound UDP 13000 for Prysm QUIC](https://github.com/ethpandaops/template-devnets/commit/12aab25e8b0592c911e1b90ede23d5db4a0da6e4) - 2026-05-22
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
 * [Pull Request] [core/txpool: report actual 110% threshold in intrinsic gas error](https://github.com/ethereum/go-ethereum/pull/34782) - 2026-04-21

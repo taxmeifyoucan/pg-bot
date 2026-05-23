@@ -45,6 +45,9 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Pull Request] [Avoid attestations with incompatible shuffling](https://github.com/ethereum/consensus-specs/pull/5276) - 2026-05-21
 * [Review] [Review on: Avoid attestations with incompatible shuffling](https://github.com/ethereum/consensus-specs/pull/5276#pullrequestreview-4338008579) - 2026-05-21
 * [Commit] [Avoid attestations with incompatible shuffling (#5276)](https://github.com/ethereum/consensus-specs/commit/03c0073c5222b4b80aaf272713fb24b71b1f676d) - 2026-05-21
+* [Pull Request] [Move safe-block.md definitions to fast-confirmation.md](https://github.com/ethereum/consensus-specs/pull/5278) - 2026-05-22
+* [Review] [Review on: Move safe-block.md definitions to fast-confirmation.md](https://github.com/ethereum/consensus-specs/pull/5278#pullrequestreview-4346091066) - 2026-05-22
+* [Commit] [Move safe-block.md definitions to fast-confirmation.md (#5278)](https://github.com/ethereum/consensus-specs/commit/70aa0166e51068012953d5f51fa5df1c56c6d449) - 2026-05-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

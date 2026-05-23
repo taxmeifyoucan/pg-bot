@@ -121,6 +121,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Count PTC votes from duplicated validators + apply attestations from blocks](https://github.com/Consensys/teku/pull/10732#pullrequestreview-4339751276) - 2026-05-21
 * [Pull Request] [Minimal pinned block production - fix late block reorg](https://github.com/Consensys/teku/pull/10740) - 2026-05-21
 * [Issue] [Introduce IndexedPayloadAttestationLight](https://github.com/Consensys/teku/issues/10743) - 2026-05-21
+* [Review] [Review on: Use MIN_SEED_LOOKAHEAD in proposer preferences](https://github.com/Consensys/teku/pull/10731#pullrequestreview-4343753043) - 2026-05-22
+* [Review] [Review on: Count PTC votes from duplicated validators + apply attestations from blocks](https://github.com/Consensys/teku/pull/10732#pullrequestreview-4343502126) - 2026-05-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

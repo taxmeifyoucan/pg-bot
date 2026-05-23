@@ -203,6 +203,9 @@ Team: Erigon
 * [Commit] [execution/stagedsync: drop dead finalizeWithIBS + finalizeTx (delta-args) (#21211)](https://github.com/erigontech/erigon/commit/44bbf3890eee0c2f5e46087c4f3ac14fb4c9cf69) - 2026-05-21
 * [Commit] [node/eth: wait for the KZG warmup goroutine on shutdown (#21325)](https://github.com/erigontech/erigon/commit/b7ccfa652b1c244ab1827cf5f867f6748b239746) - 2026-05-21
 * [Commit] [execution/state: per-path revival resolution in versionedRead (#21323)](https://github.com/erigontech/erigon/commit/0870ec08747753c00f24b905907284f1bdbad280) - 2026-05-21
+* [Pull Request] [execution/stagedsync: tests for finalize coinbase/burnt fee write invalidation](https://github.com/erigontech/erigon/pull/21373) - 2026-05-22
+* [Review] [Review on: execution/engineapi: replay cached validation error on bad-block short-circuit](https://github.com/erigontech/erigon/pull/21362#pullrequestreview-4343982603) - 2026-05-22
+* [Commit] [execution/state: per-path revival in versionedRead MVReadResultNone branch (#21345)](https://github.com/erigontech/erigon/commit/95567f1836f462c4345254870e58a051a623ae8f) - 2026-05-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026
