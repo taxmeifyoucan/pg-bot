@@ -101,6 +101,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update LC database size measurements for Gloas](https://github.com/status-im/nimbus-eth2/pull/8485) - 2026-05-21
 * [Pull Request] [Bump nim-web3](https://github.com/status-im/nimbus-eth2/pull/8500) - 2026-05-22
 * [Pull Request] [Use separate default port for BN and VC apis](https://github.com/status-im/nimbus-eth2/pull/8499) - 2026-05-22
+* [Pull Request] [Sync systemd extra flags to nix services](https://github.com/status-im/nimbus-eth2/pull/8505) - 2026-05-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

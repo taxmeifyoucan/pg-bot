@@ -210,6 +210,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db: use named-return defer for constructor cleanup on error](https://github.com/erigontech/erigon/pull/21350#pullrequestreview-4342280875) - 2026-05-22
 * [Issue] [state collation strategy: capping or recovery](https://github.com/erigontech/erigon/issues/21366) - 2026-05-22
 * [Issue] [explore ChangeSets3 as dupsort](https://github.com/erigontech/erigon/issues/21358) - 2026-05-22
+* [Review] [Review on: [dnm][r36] Disable referenced keys in commitment files, bump version](https://github.com/erigontech/erigon/pull/21376#pullrequestreview-4350374876) - 2026-05-23
 ## Q1 2026
 
 

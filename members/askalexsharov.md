@@ -614,6 +614,13 @@ Team: Erigon
 * [Commit] [shutdown: propagate ctx in FillDBFromSnapshots (#21353)](https://github.com/erigontech/erigon/commit/b0200b7e645818368d513d02274d7230ae236c2e) - 2026-05-22
 * [Commit] [db: use named-return defer for constructor cleanup on error (#21350)](https://github.com/erigontech/erigon/commit/82f49e32c7196ff250fa9a78db94e1ba4e214eec) - 2026-05-22
 * [Commit] [node, cl: migrate gopkg.in/yaml.v2 → gopkg.in/yaml.v3 (#21352)](https://github.com/erigontech/erigon/commit/5eaf638e749011551c3cdde91bae07f4be61dc04) - 2026-05-22
+* [Review] [Review on: build(deps): bump actions/create-github-app-token from 3.1.1 to 3.2.0](https://github.com/erigontech/erigon/pull/21252#pullrequestreview-4350728427) - 2026-05-23
+* [Review] [Review on: build(deps): bump qs and express in /docs/site](https://github.com/erigontech/erigon/pull/21378#pullrequestreview-4350720749) - 2026-05-23
+* [Review] [Review on: execution/stagedsync: tests for finalize coinbase/burnt fee write invalidation](https://github.com/erigontech/erigon/pull/21373#pullrequestreview-4349760222) - 2026-05-23
+* [Pull Request] [performance: cherry-pick 5 improvements to main](https://github.com/erigontech/erigon/pull/21374) - 2026-05-23
+* [Review] [Review on: [performance] Disable referenced keys in commitment files, bump version](https://github.com/erigontech/erigon/pull/21375#pullrequestreview-4350004128) - 2026-05-23
+* [Review] [Review on: execution: fix omission in EL block downloader to schedule exec for last downloaded fcu batch](https://github.com/erigontech/erigon/pull/21367#pullrequestreview-4349760694) - 2026-05-23
+* [Review] [Review on: execution/execmodule: add FCU notification dispatch metrics](https://github.com/erigontech/erigon/pull/21349#pullrequestreview-4349763845) - 2026-05-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

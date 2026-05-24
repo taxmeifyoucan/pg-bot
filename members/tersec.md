@@ -149,6 +149,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [avoid column quarantine crash with partial custody](https://github.com/status-im/nimbus-eth2/pull/8491) - 2026-05-22
 * [Pull Request] [add gloas column request manager support](https://github.com/status-im/nimbus-eth2/pull/8492) - 2026-05-22
 * [Pull Request] [rm dead code in slashing protection init](https://github.com/status-im/nimbus-eth2/pull/8493) - 2026-05-22
+* [Review] [Review on: extend partial column support to gloas](https://github.com/status-im/nimbus-eth2/pull/8478#pullrequestreview-4351563097) - 2026-05-23
+* [Pull Request] [rm unnecessary ProveField warning overrides](https://github.com/status-im/nimbus-eth2/pull/8507) - 2026-05-23
+* [Pull Request] [fix parallel column recovery race and test fixture taskpool leaks](https://github.com/status-im/nimbus-eth2/pull/8506) - 2026-05-23
+* [Pull Request] [rm remnants of slashing protection v1 to v2 database transition](https://github.com/status-im/nimbus-eth2/pull/8504) - 2026-05-23
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

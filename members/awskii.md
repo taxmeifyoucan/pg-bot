@@ -128,6 +128,8 @@ Team: Erigon
 * [Issue] [`debug_executionWitness` - geth response compatibility](https://github.com/erigontech/erigon/issues/21312) - 2026-05-20
 * [Review] [Review on: commitment/nibbles: add V2 key encoder/decoder](https://github.com/erigontech/erigon/pull/21146#pullrequestreview-4337202782) - 2026-05-21
 * [Review] [Review on: eest: add EIP-8025 execution witness test suite (93 zkevm fixtures)](https://github.com/erigontech/erigon/pull/20938#pullrequestreview-4346053335) - 2026-05-22
+* [Pull Request] [[dnm][r36] Disable referenced keys in commitment files, bump version](https://github.com/erigontech/erigon/pull/21376) - 2026-05-23
+* [Pull Request] [[performance] Disable referenced keys in commitment files, bump version](https://github.com/erigontech/erigon/pull/21375) - 2026-05-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

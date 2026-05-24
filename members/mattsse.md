@@ -468,6 +468,15 @@ Team: Reth
 * [Review] [Review on: docs(txpool): fix grammar in EthPooledTransaction::new doc comment](https://github.com/paradigmxyz/reth/pull/24407#pullrequestreview-4344431616) - 2026-05-22
 * [Issue] [Track blob cell availability for eth/72 pooled hash announcements](https://github.com/paradigmxyz/reth/issues/24415) - 2026-05-22
 * [Commit] [fix(net): remove untrusted peers from resolver (#24406)](https://github.com/paradigmxyz/reth/commit/b05e68db85fb29c4eaa707728171acb0fd0cd23d) - 2026-05-22
+* [Pull Request] [feat(txpool): add retain_contains helper](https://github.com/paradigmxyz/reth/pull/24482) - 2026-05-23
+* [Pull Request] [fix(evm): use cached transaction hashes in chain](https://github.com/paradigmxyz/reth/pull/24474) - 2026-05-23
+* [Pull Request] [perf(evm): preallocate chain transaction hashes](https://github.com/paradigmxyz/reth/pull/24478) - 2026-05-23
+* [Pull Request] [refactor(evm): defer recovered tx ownership in builder](https://github.com/paradigmxyz/reth/pull/24463) - 2026-05-23
+* [Pull Request] [feat(evm): implement ExecutorTx for tx tuples](https://github.com/paradigmxyz/reth/pull/24462) - 2026-05-23
+* [Review] [Review on: fix(engine): reject zero multiproof chunk size](https://github.com/paradigmxyz/reth/pull/24390#pullrequestreview-4349820485) - 2026-05-23
+* [Commit] [fix(evm): use cached transaction hashes in chain (#24474)](https://github.com/paradigmxyz/reth/commit/ec9b772dca8fd1662bbd0baf7cec8db2ea416149) - 2026-05-23
+* [Commit] [feat(evm): implement ExecutorTx for tx tuples (#24462)](https://github.com/paradigmxyz/reth/commit/1914b26a48d35856dc193d722612177d58e62e22) - 2026-05-23
+* [Commit] [fix(rpc): support hostname resolution for trusted peers (#24427)](https://github.com/paradigmxyz/reth/commit/89c930a006f08dfbc6b13aca303b99d889517488) - 2026-05-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

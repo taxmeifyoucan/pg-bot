@@ -33,6 +33,7 @@ Github: [@leolara](https://github.com/leolara)
 * [Pull Request] [fix(ported_static): Approach-1 + stale-skip cleanup for Amsterdam OoG-by-design tests](https://github.com/ethereum/execution-specs/pull/2843) - 2026-05-12
 * [Pull Request] [fix(test-client-clis): detect EELS-style OutOfGasError in GasExhaustionTraceComparator](https://github.com/ethereum/execution-specs/pull/2879) - 2026-05-19
 * [Review] [Review on: fix(ported_static): Approach-1 + stale-skip cleanup for Amsterdam OoG-by-design tests](https://github.com/ethereum/execution-specs/pull/2843#pullrequestreview-4346118442) - 2026-05-22
+* [Pull Request] [feat(tooling, tests): detect and mark gas-checking tests](https://github.com/ethereum/execution-specs/pull/2906) - 2026-05-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [ Add tech-debt audit (RFC — for discussion, not for merge)](https://github.com/ethereum/consensus-specs/pull/5233) - 2026-05-11
 * [Pull Request] [Add tech-debt audit (RFC — for discussion, not for merge)](https://github.com/ethereum/consensus-specs/pull/5266) - 2026-05-18

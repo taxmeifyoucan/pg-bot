@@ -111,6 +111,11 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [chore(release): v0.1.2-rc.5 (#374)](https://github.com/ChainSafe/lodestar-z/commit/f344efa74df756581f8d1dfea62f1d19ec668fd8) - 2026-05-22
 * [Commit] [chore(release): v0.1.2-rc.4 (#373)](https://github.com/ChainSafe/lodestar-z/commit/09468f1c652318df06e461fa82f078e9b613c324) - 2026-05-22
 * [Commit] [chore(deps): use zapi v2.1.0 (#372)](https://github.com/ChainSafe/lodestar-z/commit/88f403aba0e380523b695d169c92fd8e32963c6d) - 2026-05-22
+* [Pull Request] [chore(release): v0.1.2-rc.6](https://github.com/ChainSafe/lodestar-z/pull/375) - 2026-05-23
+* [Pull Request] [chore(deps): bump zapi v2.1.0 -> v2.2.0](https://github.com/ChainSafe/lodestar-z/pull/376) - 2026-05-23
+* [Review] [Review on: chore(deps): bump zapi v2.1.0 -> v2.2.0](https://github.com/ChainSafe/lodestar-z/pull/376#pullrequestreview-4350215080) - 2026-05-23
+* [Commit] [chore(release): v0.1.2-rc.6 (#375)](https://github.com/ChainSafe/lodestar-z/commit/bdf5b67cefd382f0409c1e1e80ca3d9abb7e0e59) - 2026-05-23
+* [Commit] [chore(deps): bump zapi v2.1.0 -> v2.2.0 (#376)](https://github.com/ChainSafe/lodestar-z/commit/0c240d864596971c6aa00151ce0efdfe75c41de6) - 2026-05-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

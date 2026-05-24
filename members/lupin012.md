@@ -145,6 +145,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [QA: disable 2 tests of ots_searchTransactionsAfter](https://github.com/erigontech/erigon/pull/21348) - 2026-05-21
 * [Pull Request] [[WIP] rpc: fix witness state nodes](https://github.com/erigontech/erigon/pull/21371) - 2026-05-22
 * [Commit] [rpc: implement eth_capabilities method (#20951)](https://github.com/erigontech/erigon/commit/f694eb84519edfc2fe82ed81488b69d5dee1335b) - 2026-05-22
+* [Pull Request] [rpc: fix non-deterministic error in eth_simulateV1 state override](https://github.com/erigontech/erigon/pull/21382) - 2026-05-23
+* [Pull Request] [graphql: implement estimateGas, gasPrice, storage](https://github.com/erigontech/erigon/pull/21379) - 2026-05-23
+* [Review] [Review on: rpc: fix debug_executionWitness header fields and system address inclusion (EIP-7928)](https://github.com/erigontech/erigon/pull/21371#pullrequestreview-4349927195) - 2026-05-23
+* [Commit] [QA: disable 2 tests of ots_searchTransactionsAfter (#21348)](https://github.com/erigontech/erigon/commit/ff47bb5bcea336ecf5889a3e84a5f2cbad634d12) - 2026-05-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

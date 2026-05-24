@@ -164,6 +164,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: glamsterdam devnet max-allowed-failures=4 for flakes (#21361)](https://github.com/erigontech/erigon/commit/7f8f3821de5bb50712bb998d55aa821fa37030af) - 2026-05-22
 * [Commit] [claude: add tdd principles (#21354)](https://github.com/erigontech/erigon/commit/7d136195870c2c97987623fc581366c07f6699a6) - 2026-05-22
 * [Commit] [claude: less verbose comments v2 (#21355)](https://github.com/erigontech/erigon/commit/1de5fd63ca4ca23bb25b0f64cdac3b460e2d4e6d) - 2026-05-22
+* [Review] [Review on: performance: cherry-pick 5 improvements to main](https://github.com/erigontech/erigon/pull/21374#pullrequestreview-4350105703) - 2026-05-23
+* [Commit] [execution: fix omission in EL block downloader to schedule exec for last downloaded fcu batch (#21367)](https://github.com/erigontech/erigon/commit/6f037d2408b7f98f7c86fea7792242f4b0dcf5b2) - 2026-05-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

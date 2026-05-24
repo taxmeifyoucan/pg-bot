@@ -154,6 +154,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [perf: avoid hashing the state twice (#24354)](https://github.com/paradigmxyz/reth/commit/f6e3ebad9ff946b283bf3fb18c0230bd9f1e79e0) - 2026-05-22
 * [Commit] [perf: don't send unchanged accounts to trie (#24432)](https://github.com/paradigmxyz/reth/commit/0456b4b9d9e496f735aaace18c60bf4cf4997033) - 2026-05-22
 * [Commit] [chore: bump revm 40 (#24395)](https://github.com/paradigmxyz/reth/commit/803839df0f66f4068c8560c6ac0ffa7430c77198) - 2026-05-22
+* [Review] [Review on: fix(evm): use cached transaction hashes in chain](https://github.com/paradigmxyz/reth/pull/24474#pullrequestreview-4350824935) - 2026-05-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

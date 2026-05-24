@@ -72,6 +72,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: ptc gossip to dedup by slot not by epoch](https://github.com/ChainSafe/lodestar/pull/9396) - 2026-05-22
 * [Review] [Review on: feat: report parent_block_hash for safe/finalized post-Gloas](https://github.com/ChainSafe/lodestar/pull/9393#pullrequestreview-4342332060) - 2026-05-22
 * [Commit] [feat: only give proposer boost to canonical proposer (#9313)](https://github.com/ChainSafe/lodestar/commit/055b83cb3df09ff7023dcdd3e4cfce940d5e51e1) - 2026-05-22
+* [Pull Request] [feat: add stateless path to publishExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9401) - 2026-05-23
+* [Review] [Review on: feat: add stateless path to publishExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9401#pullrequestreview-4351271733) - 2026-05-23
+* [Pull Request] [fix: move beacon_block_root from path to query in getExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9402) - 2026-05-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 

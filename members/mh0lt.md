@@ -206,6 +206,9 @@ Team: Erigon
 * [Pull Request] [execution/stagedsync: tests for finalize coinbase/burnt fee write invalidation](https://github.com/erigontech/erigon/pull/21373) - 2026-05-22
 * [Review] [Review on: execution/engineapi: replay cached validation error on bad-block short-circuit](https://github.com/erigontech/erigon/pull/21362#pullrequestreview-4343982603) - 2026-05-22
 * [Commit] [execution/state: per-path revival in versionedRead MVReadResultNone branch (#21345)](https://github.com/erigontech/erigon/commit/95567f1836f462c4345254870e58a051a623ae8f) - 2026-05-22
+* [Pull Request] [State Cache Consolidation](https://github.com/erigontech/erigon/pull/21380) - 2026-05-23
+* [Pull Request] [[PROBE-ONLY] EngineXTestRunner: force-evict tester per Run — investigates #21380 EEST regression (hypothesis: cache reuse across tests)](https://github.com/erigontech/erigon/pull/21383) - 2026-05-23
+* [Pull Request] [[PROBE-ONLY] revert BranchCache lifecycle family — investigates #21380 EEST regression](https://github.com/erigontech/erigon/pull/21381) - 2026-05-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

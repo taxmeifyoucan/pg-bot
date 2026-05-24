@@ -180,6 +180,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Replace linear scan in `BuilderIndexByPubkey` with O(1) map (#16813)](https://github.com/OffchainLabs/prysm/commit/7900115f5e7a94181c172271c9fd9a1f31e12f88) - 2026-05-21
 * [Review] [Review on: replace tracked validators cache with proposer preference](https://github.com/OffchainLabs/prysm/pull/16767#pullrequestreview-4347581345) - 2026-05-22
 * [Review] [Review on: fix gloas proposal endpoint support](https://github.com/OffchainLabs/prysm/pull/16818#pullrequestreview-4347556652) - 2026-05-22
+* [Pull Request] [Add signature to batch](https://github.com/OffchainLabs/prysm/pull/16837) - 2026-05-24
+* [Pull Request] [Don't mutate live head state in getLatePayloadAttribute](https://github.com/OffchainLabs/prysm/pull/16836) - 2026-05-24
+* [Commit] [Cap Gloas pending column cell count, reject malformed sidecars (#16831)](https://github.com/OffchainLabs/prysm/commit/ca3bed04ccdf04aafd2ead337d1ef5441c59d9f7) - 2026-05-24
+* [Commit] [Dedup bid at the earliest point in gossip validation (#16832)](https://github.com/OffchainLabs/prysm/commit/a28f63478af381bd2baaf4f1171d51fd3c77e3e0) - 2026-05-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

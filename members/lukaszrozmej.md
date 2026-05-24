@@ -494,6 +494,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: chore(ci): bump remaining actions/create-github-app-token to v3](https://github.com/NethermindEth/nethermind/pull/11705#pullrequestreview-4343272182) - 2026-05-22
 * [Review] [Review on: Fix DbTracker repeatedly logging ObjectDisposedException after disposal](https://github.com/NethermindEth/nethermind/pull/11720#pullrequestreview-4343079911) - 2026-05-22
 * [Commit] [perf(bal): cut allocations on BAL generate/validate paths (#11725)](https://github.com/NethermindEth/nethermind/commit/48a8be483ce086ddeed24c8f4aad345d19cd6b98) - 2026-05-22
+* [Pull Request] [RPC: trace_* streaming approach](https://github.com/NethermindEth/nethermind/pull/11735) - 2026-05-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 
