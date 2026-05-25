@@ -153,6 +153,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm unnecessary ProveField warning overrides](https://github.com/status-im/nimbus-eth2/pull/8507) - 2026-05-23
 * [Pull Request] [fix parallel column recovery race and test fixture taskpool leaks](https://github.com/status-im/nimbus-eth2/pull/8506) - 2026-05-23
 * [Pull Request] [rm remnants of slashing protection v1 to v2 database transition](https://github.com/status-im/nimbus-eth2/pull/8504) - 2026-05-23
+* [Review] [Review on: add fork choice types for gloas](https://github.com/status-im/nimbus-eth2/pull/8430#pullrequestreview-4351779918) - 2026-05-24
+* [Pull Request] [rm unused script](https://github.com/status-im/nimbus-eth2/pull/8508) - 2026-05-24
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

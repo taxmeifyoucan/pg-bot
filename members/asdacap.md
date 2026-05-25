@@ -213,6 +213,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(trie): rate-limit "Unable to completely prune persisted nodes" warning](https://github.com/NethermindEth/nethermind/pull/11703#pullrequestreview-4333806660) - 2026-05-21
 * [Review] [Review on: Enforce IDE0028 (use collection initializers/expressions) in linting](https://github.com/NethermindEth/nethermind/pull/11708#pullrequestreview-4344901760) - 2026-05-22
 * [Review] [Review on: Fix DbTracker repeatedly logging ObjectDisposedException after disposal](https://github.com/NethermindEth/nethermind/pull/11720#pullrequestreview-4342454293) - 2026-05-22
+* [Pull Request] [fix(FlatDB): prune orphaned non-canonical snapshots on persist](https://github.com/NethermindEth/nethermind/pull/11739) - 2026-05-25
+* [Review] [Review on: Unify assertions](https://github.com/NethermindEth/nethermind/pull/11567#pullrequestreview-4353927612) - 2026-05-25
+* [Pull Request] [fix: satisfy IDE0028 in FakeRecordedBalStore](https://github.com/NethermindEth/nethermind/pull/11738) - 2026-05-25
+* [Review] [Review on: fix(zkevm): use explicit hash dictionary comparers](https://github.com/NethermindEth/nethermind/pull/11721#pullrequestreview-4353761708) - 2026-05-25
+* [Review] [Review on: Add validation for nested ABI array depth](https://github.com/NethermindEth/nethermind/pull/11726#pullrequestreview-4353757768) - 2026-05-25
+* [Commit] [fix: satisfy IDE0028 in FakeRecordedBalStore](https://github.com/NethermindEth/nethermind/commit/836707cbb9714abb684f4ca135c97938d822d0a9) - 2026-05-25
+* [Commit] [Move BAL spec-switch and BAL attachment to the branch processor for BalRecorder plugin (#11700)](https://github.com/NethermindEth/nethermind/commit/97f396f21ecb7df0a9ede4761b32156254d4a0fd) - 2026-05-25
+* [Commit] [perf(db): account native rocksdb memory via GC.AddMemoryPressure (#11453)](https://github.com/NethermindEth/nethermind/commit/e9f00062ad71abe0202d3a8d5453a94f3611ca6c) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

@@ -234,6 +234,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat: add SkipMetricsTracking property to DbSettings](https://github.com/NethermindEth/nethermind/pull/11515#pullrequestreview-4348372280) - 2026-05-22
 * [Review] [Review on: feat: enhance gas benchmark workflow with comments for start and results](https://github.com/NethermindEth/nethermind/pull/10350#pullrequestreview-4348369155) - 2026-05-22
 * [Commit] [Optimize guards (#11716)](https://github.com/NethermindEth/nethermind/commit/38fde6b9bd74482a7824a02f08048c6f7728fb8d) - 2026-05-22
+* [Review] [Review on: Fix DbTracker repeatedly logging ObjectDisposedException after disposal](https://github.com/NethermindEth/nethermind/pull/11720#pullrequestreview-4353910255) - 2026-05-25
+* [Review] [Review on: Move BAL spec-switch and BAL attachment to the branch processor for BalRecorder plugin](https://github.com/NethermindEth/nethermind/pull/11700#pullrequestreview-4353793509) - 2026-05-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

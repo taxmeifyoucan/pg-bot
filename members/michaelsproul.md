@@ -100,6 +100,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Implement GET `v2/node/version` endpoint](https://github.com/sigp/lighthouse/pull/9171#pullrequestreview-4334270150) - 2026-05-21
 * [Review] [Review on: add user-agent header to all http clients](https://github.com/sigp/lighthouse/pull/8786#pullrequestreview-4334214901) - 2026-05-21
 * [Review] [Review on: Append client version info to user graffiti by default](https://github.com/sigp/lighthouse/pull/9313#pullrequestreview-4334161207) - 2026-05-21
+* [Review] [Review on: Add gossip validation spec tests for proposer/attester slashings](https://github.com/sigp/lighthouse/pull/9323#pullrequestreview-4353841620) - 2026-05-25
+* [Review] [Review on: Enable partial data columns by default on Hoodi and Sepolia](https://github.com/sigp/lighthouse/pull/9343#pullrequestreview-4353770065) - 2026-05-25
+* [Review] [Review on: Improve Disk Monitoring Logic](https://github.com/sigp/lighthouse/pull/7421#pullrequestreview-4353812468) - 2026-05-25
+* [Review] [Review on: Gloas ensure we emit payload attributes SSE event](https://github.com/sigp/lighthouse/pull/9348#pullrequestreview-4353597775) - 2026-05-24
+* [Review] [Review on: Add macro to simplify `into_full_block` implementations](https://github.com/sigp/lighthouse/pull/9294#pullrequestreview-4353716021) - 2026-05-25
+* [Review] [Review on: Fix race condition between validator duties service and proposer preferences](https://github.com/sigp/lighthouse/pull/9309#pullrequestreview-4353800238) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

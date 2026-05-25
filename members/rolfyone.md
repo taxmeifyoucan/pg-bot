@@ -73,6 +73,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Improve data column sidecar pruning stream handling (#10725)](https://github.com/Consensys/teku/commit/38f7b080ce1ea5d0074b7fcbf1cb52a71c1f56da) - 2026-05-20
 * [Commit] [Avoid signing execution-optimistic validator duties (#10698)](https://github.com/Consensys/teku/commit/f101acc54a6207e877d7782e190f7ee448f05244) - 2026-05-20
 * [Review] [Review on: Count PTC votes from duplicated validators + apply attestations from blocks](https://github.com/Consensys/teku/pull/10732#pullrequestreview-4334574536) - 2026-05-21
+* [Pull Request] [added some ignores for agents](https://github.com/Consensys/teku/pull/10746) - 2026-05-25
+* [Review] [Review on: Batch new builder deposit signature verifications during block processing](https://github.com/Consensys/teku/pull/10708#pullrequestreview-4353846870) - 2026-05-25
+* [Review] [Review on: Ethspecify phase0](https://github.com/Consensys/teku/pull/10718#pullrequestreview-4353805281) - 2026-05-25
+* [Pull Request] [Defer DVT attestation selection submission until epoch start](https://github.com/Consensys/teku/pull/10744) - 2026-05-24
+* [Pull Request] [Remove unused beacon REST API dependencies](https://github.com/Consensys/teku/pull/10745) - 2026-05-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

@@ -265,6 +265,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Add a script which enforces consistent note prefixes](https://github.com/ethereum/consensus-specs/pull/5279) - 2026-05-22
 * [Review] [Review on: Move safe-block.md definitions to fast-confirmation.md](https://github.com/ethereum/consensus-specs/pull/5278#pullrequestreview-4346042800) - 2026-05-22
 * [Commit] [Add a script which enforces consistent note prefixes (#5279)](https://github.com/ethereum/consensus-specs/commit/b8cf07f4d7599f37a1c6e2bb0201259628a30181) - 2026-05-22
+* [Review] [Review on: Reject gloas PTC attestations cast against an empty assigned slot](https://github.com/ethereum/consensus-specs/pull/5281#pullrequestreview-4352954521) - 2026-05-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

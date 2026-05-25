@@ -102,6 +102,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Custody backfill sync only penalize peers once per batch](https://github.com/sigp/lighthouse/pull/9340) - 2026-05-22
 * [Pull Request] [Gloas dont enforce peer column custody on block import](https://github.com/sigp/lighthouse/pull/9341) - 2026-05-22
 * [Pull Request] [Ensure we can serve blocks and columns after `head` event is emitted](https://github.com/sigp/lighthouse/pull/9338) - 2026-05-22
+* [Pull Request] [Gloas ensure we emit payload attributes SSE event](https://github.com/sigp/lighthouse/pull/9348) - 2026-05-24
+* [Review] [Review on: Gloas ensure we emit payload attributes SSE event](https://github.com/sigp/lighthouse/pull/9348#pullrequestreview-4353084855) - 2026-05-24
+* [Review] [Review on: Gloas dont enforce peer column custody on block import](https://github.com/sigp/lighthouse/pull/9341#pullrequestreview-4351938873) - 2026-05-24
+* [Pull Request] [Add `POST beacon/bid` endpoint](https://github.com/sigp/lighthouse/pull/9347) - 2026-05-24
+* [Review] [Review on: Gloas data column reprocess queue](https://github.com/sigp/lighthouse/pull/9339#pullrequestreview-4351939462) - 2026-05-24
+* [Review] [Review on: Gloas fix proposer preferences gossip verification](https://github.com/sigp/lighthouse/pull/9337#pullrequestreview-4351864365) - 2026-05-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

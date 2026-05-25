@@ -166,6 +166,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [claude: less verbose comments v2 (#21355)](https://github.com/erigontech/erigon/commit/1de5fd63ca4ca23bb25b0f64cdac3b460e2d4e6d) - 2026-05-22
 * [Review] [Review on: performance: cherry-pick 5 improvements to main](https://github.com/erigontech/erigon/pull/21374#pullrequestreview-4350105703) - 2026-05-23
 * [Commit] [execution: fix omission in EL block downloader to schedule exec for last downloaded fcu batch (#21367)](https://github.com/erigontech/erigon/commit/6f037d2408b7f98f7c86fea7792242f4b0dcf5b2) - 2026-05-23
+* [Pull Request] [execution: fix exec to not return ErrLoopExhausted on last block](https://github.com/erigontech/erigon/pull/21392) - 2026-05-25
+* [Review] [Review on: [PROBE-ONLY] EngineXTestRunner: force-evict tester per Run — investigates #21380 EEST regression (hypothesis: cache reuse across tests)](https://github.com/erigontech/erigon/pull/21383#pullrequestreview-4353942525) - 2026-05-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

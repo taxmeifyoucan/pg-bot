@@ -184,6 +184,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Don't mutate live head state in getLatePayloadAttribute](https://github.com/OffchainLabs/prysm/pull/16836) - 2026-05-24
 * [Commit] [Cap Gloas pending column cell count, reject malformed sidecars (#16831)](https://github.com/OffchainLabs/prysm/commit/ca3bed04ccdf04aafd2ead337d1ef5441c59d9f7) - 2026-05-24
 * [Commit] [Dedup bid at the earliest point in gossip validation (#16832)](https://github.com/OffchainLabs/prysm/commit/a28f63478af381bd2baaf4f1171d51fd3c77e3e0) - 2026-05-24
+* [Pull Request] [Fix UpdateHead doc: caller must NOT hold forkchoice lock](https://github.com/OffchainLabs/prysm/pull/16841) - 2026-05-24
+* [Pull Request] [Use HeadSlot() in computePayloadWithdrawals](https://github.com/OffchainLabs/prysm/pull/16840) - 2026-05-24
+* [Pull Request] [Fix data race on s.head.full in postPayloadTasks](https://github.com/OffchainLabs/prysm/pull/16839) - 2026-05-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

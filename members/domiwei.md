@@ -63,6 +63,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/phase1/forkchoice: align getFilterBlockTree with consensus spec](https://github.com/erigontech/erigon/pull/21327#pullrequestreview-4335058922) - 2026-05-21
 * [Commit] [cl: GLOAS audit fixes — clone aliasing, PTC consistency, memory leaks, nil panics (#21248)](https://github.com/erigontech/erigon/commit/93480e4c0f2d3060efff4ca18ece948f860e3804) - 2026-05-21
 * [Pull Request] [[TEST] Simplify voting source selection](https://github.com/erigontech/erigon/pull/21377) - 2026-05-23
+* [Review] [Review on: [WIP] cl: implement consensus-specs v1.7.0-alpha.8 for Gloas devnet-4](https://github.com/erigontech/erigon/pull/21308#pullrequestreview-4353891137) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

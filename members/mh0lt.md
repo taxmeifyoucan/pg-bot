@@ -209,6 +209,8 @@ Team: Erigon
 * [Pull Request] [State Cache Consolidation](https://github.com/erigontech/erigon/pull/21380) - 2026-05-23
 * [Pull Request] [[PROBE-ONLY] EngineXTestRunner: force-evict tester per Run — investigates #21380 EEST regression (hypothesis: cache reuse across tests)](https://github.com/erigontech/erigon/pull/21383) - 2026-05-23
 * [Pull Request] [[PROBE-ONLY] revert BranchCache lifecycle family — investigates #21380 EEST regression](https://github.com/erigontech/erigon/pull/21381) - 2026-05-23
+* [Pull Request] [Parallel-exec correctness fixes (PR #3 of the perf stack)](https://github.com/erigontech/erigon/pull/21387) - 2026-05-24
+* [Pull Request] [StateCache LRU + Mode rework (PR #2 of the perf stack)](https://github.com/erigontech/erigon/pull/21386) - 2026-05-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

@@ -149,6 +149,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [graphql: implement estimateGas, gasPrice, storage](https://github.com/erigontech/erigon/pull/21379) - 2026-05-23
 * [Review] [Review on: rpc: fix debug_executionWitness header fields and system address inclusion (EIP-7928)](https://github.com/erigontech/erigon/pull/21371#pullrequestreview-4349927195) - 2026-05-23
 * [Commit] [QA: disable 2 tests of ots_searchTransactionsAfter (#21348)](https://github.com/erigontech/erigon/commit/ff47bb5bcea336ecf5889a3e84a5f2cbad634d12) - 2026-05-23
+* [Pull Request] [[3.4] register --rpc.logs.maxresults in DefaultFlags so it takes effect via CLI](https://github.com/erigontech/erigon/pull/21389) - 2026-05-24
+* [Commit] [rpc: fix missing 'from' field in newPendingTransactions* (#21322)](https://github.com/erigontech/erigon/commit/a1785908f5e81a9fe1f7c30452f010c00dfa5980) - 2026-05-24
+* [Commit] [rpc: fix non-deterministic error in eth_simulateV1 state override (#21382)](https://github.com/erigontech/erigon/commit/2d11f996c5e3da3ce0820fe3297611e8bf2ca9ff) - 2026-05-24
+* [Commit] [rpc: return null v,r,s for unsigned transactions in eth_getBlock* (#21321)](https://github.com/erigontech/erigon/commit/3dab04ace78a0d543a0306172814d9d4c149ebaa) - 2026-05-24
+* [Commit] [graphql: implement estimateGas, gasPrice, storage (#21379)](https://github.com/erigontech/erigon/commit/871ee562235112943fac11ebfc96855f5f32b691) - 2026-05-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -182,6 +187,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration_test: change rsp for eth_capability & improve mgt ignore-filed metadata](https://github.com/erigontech/rpc-tests/pull/561) - 2026-05-14
 * [Commit] [uèpdate exp rsp (#561)](https://github.com/erigontech/rpc-tests/commit/51a907f9e49c05d7f1630c1202e31a32b9329ead) - 2026-05-14
 * [Pull Request] [integration test: add debug_executionWitness tests](https://github.com/erigontech/rpc-tests/pull/562) - 2026-05-16
+* [Pull Request] [integration test: add note eth simulate v1 test 28](https://github.com/erigontech/rpc-tests/pull/566) - 2026-05-24
+* [Pull Request] [integration test: add head field on eth_capabilities](https://github.com/erigontech/rpc-tests/pull/565) - 2026-05-24
+* [Pull Request] [integration-test: ots_searchTransactionsAfter modify rsp test_11, test_12 to have rsp fix respent TIP move](https://github.com/erigontech/rpc-tests/pull/564) - 2026-05-24
+* [Pull Request] [integration test: debug execution witness for hive](https://github.com/erigontech/rpc-tests/pull/563) - 2026-05-24
 ## Q1 2026
 
 

@@ -477,6 +477,9 @@ Team: Reth
 * [Commit] [fix(evm): use cached transaction hashes in chain (#24474)](https://github.com/paradigmxyz/reth/commit/ec9b772dca8fd1662bbd0baf7cec8db2ea416149) - 2026-05-23
 * [Commit] [feat(evm): implement ExecutorTx for tx tuples (#24462)](https://github.com/paradigmxyz/reth/commit/1914b26a48d35856dc193d722612177d58e62e22) - 2026-05-23
 * [Commit] [fix(rpc): support hostname resolution for trusted peers (#24427)](https://github.com/paradigmxyz/reth/commit/89c930a006f08dfbc6b13aca303b99d889517488) - 2026-05-23
+* [Pull Request] [fix(consensus): validate Amsterdam header fields](https://github.com/paradigmxyz/reth/pull/24495) - 2026-05-24
+* [Pull Request] [fix: use tx_hash for transaction identity](https://github.com/paradigmxyz/reth/pull/24494) - 2026-05-24
+* [Pull Request] [refactor(evm): add chain transaction hash iterator](https://github.com/paradigmxyz/reth/pull/24493) - 2026-05-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

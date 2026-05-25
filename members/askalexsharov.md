@@ -621,6 +621,14 @@ Team: Erigon
 * [Review] [Review on: [performance] Disable referenced keys in commitment files, bump version](https://github.com/erigontech/erigon/pull/21375#pullrequestreview-4350004128) - 2026-05-23
 * [Review] [Review on: execution: fix omission in EL block downloader to schedule exec for last downloaded fcu batch](https://github.com/erigontech/erigon/pull/21367#pullrequestreview-4349760694) - 2026-05-23
 * [Review] [Review on: execution/execmodule: add FCU notification dispatch metrics](https://github.com/erigontech/erigon/pull/21349#pullrequestreview-4349763845) - 2026-05-23
+* [Review] [Review on: common, ethash: bound unsafe slice views](https://github.com/erigontech/erigon/pull/21391#pullrequestreview-4353823763) - 2026-05-25
+* [Review] [Review on: [3.4] register --rpc.logs.maxresults in DefaultFlags so it takes effect via CLI](https://github.com/erigontech/erigon/pull/21389#pullrequestreview-4353579985) - 2026-05-24
+* [Review] [Review on: rpc: fix non-deterministic error in eth_simulateV1 state override](https://github.com/erigontech/erigon/pull/21382#pullrequestreview-4352126467) - 2026-05-24
+* [Review] [Review on: rpc: fix missing 'from' field in newPendingTransactions*](https://github.com/erigontech/erigon/pull/21322#pullrequestreview-4352126832) - 2026-05-24
+* [Review] [Review on: [SharovBot] fix data race in FilesItem.closeFilesAndRemove](https://github.com/erigontech/erigon/pull/21384#pullrequestreview-4351912724) - 2026-05-24
+* [Pull Request] [eliasfano32: Seek returns position alongside value](https://github.com/erigontech/erigon/pull/21385) - 2026-05-24
+* [Review] [Review on: graphql: implement estimateGas, gasPrice, storage](https://github.com/erigontech/erigon/pull/21379#pullrequestreview-4351734509) - 2026-05-24
+* [Issue] [Caplin: fast start after “rm chaindata”](https://github.com/erigontech/erigon/issues/21390) - 2026-05-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

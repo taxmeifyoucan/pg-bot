@@ -72,6 +72,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Alchemy - Code Fix](https://github.com/NethermindEth/nethermind/pull/11714#pullrequestreview-4341187107) - 2026-05-21
 * [Pull Request] [feat(rpc): implement `proof_call` for stateless call verification](https://github.com/NethermindEth/nethermind/pull/11732) - 2026-05-23
 * [Review] [Review on: feat(rpc): implement `proof_call` for stateless call verification](https://github.com/NethermindEth/nethermind/pull/11732#pullrequestreview-4351523858) - 2026-05-23
+* [Issue] [Flaky test: TransactionReceiptsSubscription_failed_tx_still_delivered](https://github.com/NethermindEth/nethermind/issues/11737) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 ## Q1 2026

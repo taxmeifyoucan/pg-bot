@@ -495,6 +495,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Fix DbTracker repeatedly logging ObjectDisposedException after disposal](https://github.com/NethermindEth/nethermind/pull/11720#pullrequestreview-4343079911) - 2026-05-22
 * [Commit] [perf(bal): cut allocations on BAL generate/validate paths (#11725)](https://github.com/NethermindEth/nethermind/commit/48a8be483ce086ddeed24c8f4aad345d19cd6b98) - 2026-05-22
 * [Pull Request] [RPC: trace_* streaming approach](https://github.com/NethermindEth/nethermind/pull/11735) - 2026-05-24
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11734#pullrequestreview-4351988642) - 2026-05-24
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11733#pullrequestreview-4351988328) - 2026-05-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 
