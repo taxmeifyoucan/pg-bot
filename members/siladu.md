@@ -77,6 +77,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Require Java 25 to build](https://github.com/besu-eth/besu/pull/10539#pullrequestreview-4334030856) - 2026-05-21
 * [Review] [Review on: Replace Address.hashCache Guava LoadingCache with Caffeine](https://github.com/besu-eth/besu/pull/10235#pullrequestreview-4334586602) - 2026-05-21
 * [Commit] [Remove unused evm arg from FixedCostOperations (#10533)](https://github.com/besu-eth/besu/commit/30ad29e27b651bd21d622fc2340eb7c948bb68b8) - 2026-05-21
+* [Review] [Review on: perf: parallelize block body DB lookups in engine_getPayloadBodies methods](https://github.com/besu-eth/besu/pull/10532#pullrequestreview-4358774695) - 2026-05-25
+* [Review] [Review on: optimize tracePreExecution tracePostExecution](https://github.com/besu-eth/besu/pull/10541#pullrequestreview-4358579713) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

@@ -22,6 +22,7 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Commit] [docs: document backport PR conventions for release branches (#20768)](https://github.com/erigontech/erigon/commit/d4e32aa497b63c76b964c7934151a8c0f3eec51c) - 2026-04-24
 * [Review] [Review on: p2p: preserve full enode for inbound connections from static peers](https://github.com/erigontech/erigon/pull/20827#pullrequestreview-4177992182) - 2026-04-27
 * [Review] [Review on: p2p/discover: fix expired matcher iteration in discover reply loop](https://github.com/erigontech/erigon/pull/20869#pullrequestreview-4193211845) - 2026-04-28
+* [Review] [Review on: [wip] p2p/sentry: fix shared PeerStore version filter in findBestPeers, findPeerByMinBlock, PeerEvents](https://github.com/erigontech/erigon/pull/21394#pullrequestreview-4354250776) - 2026-05-25
 ## Q1 2026
 
 

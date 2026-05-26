@@ -103,6 +103,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(test-benchmark): devnet-7 compatibility for stateful benchmark](https://github.com/ethereum/execution-specs/pull/2885) - 2026-05-20
 * [Review] [Review on: feat(test-benchmark): devnet-7 compatibility for stateful benchmark](https://github.com/ethereum/execution-specs/pull/2885#pullrequestreview-4325719078) - 2026-05-20
 * [Review] [Review on: chore(test-client-clis): updated error mapping for reth devnet 7](https://github.com/ethereum/execution-specs/pull/2890#pullrequestreview-4334309295) - 2026-05-21
+* [Review] [Review on: feat(ci): overhaul fixture releases](https://github.com/ethereum/execution-specs/pull/2888#pullrequestreview-4357291083) - 2026-05-25
+* [Review] [Review on: feat(test-benchmark): add more modexp precompile benchmark scenario](https://github.com/ethereum/execution-specs/pull/2896#pullrequestreview-4355756803) - 2026-05-25
+* [Review] [Review on: fix(specs): backport ``check_gas`` before state access boundaries from Amsterdam](https://github.com/ethereum/execution-specs/pull/2903#pullrequestreview-4357188498) - 2026-05-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

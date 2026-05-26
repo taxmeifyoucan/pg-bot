@@ -78,6 +78,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Ethspecify phase0](https://github.com/Consensys/teku/pull/10718#pullrequestreview-4353805281) - 2026-05-25
 * [Pull Request] [Defer DVT attestation selection submission until epoch start](https://github.com/Consensys/teku/pull/10744) - 2026-05-24
 * [Pull Request] [Remove unused beacon REST API dependencies](https://github.com/Consensys/teku/pull/10745) - 2026-05-25
+* [Review] [Review on: Add target_gas_limit to PayloadAttributes](https://github.com/Consensys/teku/pull/10748#pullrequestreview-4359392559) - 2026-05-26
+* [Review] [Review on: Modify `notify_forkchoice_updated` to reflect parents EL block hash in Gloas for safe/finalized](https://github.com/Consensys/teku/pull/10747#pullrequestreview-4359320798) - 2026-05-25
+* [Review] [Review on: Batch new builder deposit signature verifications during block processing](https://github.com/Consensys/teku/pull/10708#pullrequestreview-4358968092) - 2026-05-25
+* [Review] [Review on: Optimize onboarding builders at the fork](https://github.com/Consensys/teku/pull/10729#pullrequestreview-4358963010) - 2026-05-25
+* [Review] [Review on: Ethspecify altair + bellatrix update](https://github.com/Consensys/teku/pull/10750#pullrequestreview-4358697482) - 2026-05-25
+* [Commit] [Remove unused beacon REST API dependencies (#10745)](https://github.com/Consensys/teku/commit/a4e1b6844e611ca10a4c2245e529411bde426624) - 2026-05-25
+* [Commit] [added some ignores for agents (#10746)](https://github.com/Consensys/teku/commit/31a957cc83b2585d03e28da7ebc6692c1b141f51) - 2026-05-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

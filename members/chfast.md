@@ -129,6 +129,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [precompiles: Optimize KZG point evaluation via joint G1 MSM](https://github.com/ipsilon/evmone/pull/1536) - 2026-05-22
 * [Commit] [crypto: Refactor pairing Fp coefficients unpacking (#1538)](https://github.com/ipsilon/evmone/commit/f2407aa84fe76598b5509c7e4b565ff01b4614db) - 2026-05-22
 * [Commit] [precompiles: Optimize KZG point evaluation via joint G1 MSM (#1536)](https://github.com/ipsilon/evmone/commit/42c4a453a7073d80f63d46ad7d39fbb20a2ff343) - 2026-05-22
+* [Pull Request] [crypto: Trivial reuse of computed values in pairing helpers](https://github.com/ipsilon/evmone/pull/1542) - 2026-05-25
+* [Pull Request] [precompiles: Optimize line evaluation in BN254 pairings](https://github.com/ipsilon/evmone/pull/1541) - 2026-05-25
+* [Pull Request] [build: Fix missing intx::intx dependencies](https://github.com/ipsilon/evmone/pull/1540) - 2026-05-25
+* [Commit] [precompiles: Add Fq2 sqr() and use it in BN254 pairing helpers (#1539)](https://github.com/ipsilon/evmone/commit/61163aa0aa22ecfdd93f77156e3643a26a7e503f) - 2026-05-25
+* [Commit] [precompiles: Precompute Miller loop lines for KZG trusted setup point (#1537)](https://github.com/ipsilon/evmone/commit/6539fcf7d87b69005b8ea88247a15353d934eaab) - 2026-05-25
+* [Commit] [build: Fix missing intx::intx dependencies (#1540)](https://github.com/ipsilon/evmone/commit/49f7e654d2890375997eaad632c4e80f3e6d09aa) - 2026-05-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -157,6 +163,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): EIP-7981 reject in access-list-byte floor gap with exact-balance sender (#2880)](https://github.com/ethereum/execution-specs/commit/bbacd741a9d893585d974a0b4eaee6abc31189cf) - 2026-05-20
 * [Pull Request] [fix(spec-specs, tests): EIP-8037 strict block-gas inclusion rule](https://github.com/ethereum/execution-specs/pull/2892) - 2026-05-21
 * [Pull Request] [feat(tests): EIP-8037 reject when calldata_floor > TX_MAX_GAS_LIMIT](https://github.com/ethereum/execution-specs/pull/2898) - 2026-05-22
+* [Pull Request] [refactor(tests): inline ids and descriptions in point evaluation params](https://github.com/ethereum/execution-specs/pull/2907) - 2026-05-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

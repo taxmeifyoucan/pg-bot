@@ -106,6 +106,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Gloas ensure we emit payload attributes SSE event](https://github.com/sigp/lighthouse/pull/9348#pullrequestreview-4353597775) - 2026-05-24
 * [Review] [Review on: Add macro to simplify `into_full_block` implementations](https://github.com/sigp/lighthouse/pull/9294#pullrequestreview-4353716021) - 2026-05-25
 * [Review] [Review on: Fix race condition between validator duties service and proposer preferences](https://github.com/sigp/lighthouse/pull/9309#pullrequestreview-4353800238) - 2026-05-25
+* [Review] [Review on: Gloas ensure we emit payload attributes SSE event](https://github.com/sigp/lighthouse/pull/9348#pullrequestreview-4354695891) - 2026-05-25
+* [Review] [Review on: Ensure we can serve blocks and columns after `head` event is emitted](https://github.com/sigp/lighthouse/pull/9338#pullrequestreview-4354246990) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10
@@ -121,6 +123,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Effective balances tests emit `pre_epoch.ssz_snappy` prior to mutations](https://github.com/ethereum/consensus-specs/issues/5214) - 2026-05-07
 * [Issue] [PTC window processing not run for `post_epoch.ssz_snappy`](https://github.com/ethereum/consensus-specs/issues/5213) - 2026-05-07
 * [Issue] [Fork choice compliance tests assume the existence of impossible attestations](https://github.com/ethereum/consensus-specs/issues/5271) - 2026-05-19
+* [Issue] [Unintended self-reference in `update_proposer_boost_root`?](https://github.com/ethereum/consensus-specs/issues/5286) - 2026-05-26
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756) - 2026-05-06
 * [Review] [Review on: Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756#pullrequestreview-4232967261) - 2026-05-06

@@ -116,6 +116,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore(deps): bump zapi v2.1.0 -> v2.2.0](https://github.com/ChainSafe/lodestar-z/pull/376#pullrequestreview-4350215080) - 2026-05-23
 * [Commit] [chore(release): v0.1.2-rc.6 (#375)](https://github.com/ChainSafe/lodestar-z/commit/bdf5b67cefd382f0409c1e1e80ca3d9abb7e0e59) - 2026-05-23
 * [Commit] [chore(deps): bump zapi v2.1.0 -> v2.2.0 (#376)](https://github.com/ChainSafe/lodestar-z/commit/0c240d864596971c6aa00151ce0efdfe75c41de6) - 2026-05-23
+* [Pull Request] [refactor: update APIs related to voluntary exits](https://github.com/ChainSafe/lodestar-z/pull/378) - 2026-05-25
+* [Review] [Review on: refactor: update APIs related to voluntary exits](https://github.com/ChainSafe/lodestar-z/pull/378#pullrequestreview-4357076427) - 2026-05-25
+* [Review] [Review on: fix: improve atomic ordering in ThreadPool and NAPI init](https://github.com/ChainSafe/lodestar-z/pull/310#pullrequestreview-4355354155) - 2026-05-25
+* [Review] [Review on: feat: getSyncCommitteesWitness](https://github.com/ChainSafe/lodestar-z/pull/367#pullrequestreview-4354395240) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

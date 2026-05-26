@@ -215,6 +215,14 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [feat(multi-stark): add crate skeleton with boundary selectors and AIR folder](https://github.com/Plonky3/Plonky3/pull/1700) - 2026-05-24
 * [Pull Request] [feat(sumcheck): add generic-degree multi-round sumcheck driver](https://github.com/Plonky3/Plonky3/pull/1699) - 2026-05-24
 * [Commit] [refactor(field): default ext_square to a general multiply (#1697)](https://github.com/Plonky3/Plonky3/commit/fc7d591e6ec54b9220ed120e1ba0f8978a9c2391) - 2026-05-24
+* [Review] [Review on: whir: add HVZK sumcheck domain separator shape](https://github.com/Plonky3/Plonky3/pull/1662#pullrequestreview-4359177514) - 2026-05-25
+* [Review] [Review on: Add fail-fast checks to periodic LDE builders](https://github.com/Plonky3/Plonky3/pull/1614#pullrequestreview-4359004002) - 2026-05-25
+* [Review] [Review on: feat(symmetric): add RTL sponge hashing and zero-suffix precomputation](https://github.com/Plonky3/Plonky3/pull/1547#pullrequestreview-4355711204) - 2026-05-25
+* [Review] [Review on: fix(matrix): handle on-domain point in interpolate_coset](https://github.com/Plonky3/Plonky3/pull/1702#pullrequestreview-4358821154) - 2026-05-25
+* [Review] [Review on: Isolate bit_reverse benchmark from clone overhead](https://github.com/Plonky3/Plonky3/pull/1703#pullrequestreview-4358696839) - 2026-05-25
+* [Review] [Review on: Add argument size in WHIR example](https://github.com/Plonky3/Plonky3/pull/1694#pullrequestreview-4355348876) - 2026-05-25
+* [Review] [Review on: feat: add support for RPO hash](https://github.com/Plonky3/Plonky3/pull/1640#pullrequestreview-4355356815) - 2026-05-25
+* [Review] [Review on: fri: reject global max height mismatches](https://github.com/Plonky3/Plonky3/pull/1698#pullrequestreview-4355228434) - 2026-05-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

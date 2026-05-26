@@ -629,6 +629,18 @@ Team: Erigon
 * [Pull Request] [eliasfano32: Seek returns position alongside value](https://github.com/erigontech/erigon/pull/21385) - 2026-05-24
 * [Review] [Review on: graphql: implement estimateGas, gasPrice, storage](https://github.com/erigontech/erigon/pull/21379#pullrequestreview-4351734509) - 2026-05-24
 * [Issue] [Caplin: fast start after “rm chaindata”](https://github.com/erigontech/erigon/issues/21390) - 2026-05-24
+* [Review] [Review on: db/integrity: check txnum lookup misses](https://github.com/erigontech/erigon/pull/21407#pullrequestreview-4359997366) - 2026-05-26
+* [Review] [Review on: simplify state aggregation and pruning logic](https://github.com/erigontech/erigon/pull/21398#pullrequestreview-4356671737) - 2026-05-25
+* [Review] [Review on: cl: add per-directory spec maps for Caplin consensus code](https://github.com/erigontech/erigon/pull/21400#pullrequestreview-4359733790) - 2026-05-26
+* [Pull Request] [[wip] db/state: move `refcnt` to `visibleFiles` object](https://github.com/erigontech/erigon/pull/21397) - 2026-05-25
+* [Review] [Review on: [wip] db/state: move `refcnt` to `visibleFiles` object](https://github.com/erigontech/erigon/pull/21397#pullrequestreview-4355132466) - 2026-05-25
+* [Pull Request] [[wip] db/state: only last reader deletes merged files](https://github.com/erigontech/erigon/pull/21395) - 2026-05-25
+* [Review] [Review on: Parallel-exec correctness fixes (PR #3 of the perf stack)](https://github.com/erigontech/erigon/pull/21387#pullrequestreview-4355156846) - 2026-05-25
+* [Pull Request] [[wip] p2p/sentry: fix shared PeerStore version filter in findBestPeers, findPeerByMinBlock, PeerEvents](https://github.com/erigontech/erigon/pull/21394) - 2026-05-25
+* [Review] [Review on: execution: ci change eest-spec-shards definition file to yaml](https://github.com/erigontech/erigon/pull/21393#pullrequestreview-4354108966) - 2026-05-25
+* [Review] [Review on: execution: fix exec to not return ErrLoopExhausted on last block](https://github.com/erigontech/erigon/pull/21392#pullrequestreview-4354023527) - 2026-05-25
+* [Commit] [eliasfano32: Seek returns position alongside value (#21385)](https://github.com/erigontech/erigon/commit/47f361f125d1ac9c216cd33df326b78f0997db8d) - 2026-05-25
+* [Commit] [[wip] p2p/sentry: fix shared PeerStore version filter in findBestPeers, findPeerByMinBlock, PeerEvents (#21394)](https://github.com/erigontech/erigon/commit/b15bb0db19440b852f76ac2024f8e8daa03ee767) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

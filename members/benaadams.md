@@ -236,6 +236,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Optimize guards (#11716)](https://github.com/NethermindEth/nethermind/commit/38fde6b9bd74482a7824a02f08048c6f7728fb8d) - 2026-05-22
 * [Review] [Review on: Fix DbTracker repeatedly logging ObjectDisposedException after disposal](https://github.com/NethermindEth/nethermind/pull/11720#pullrequestreview-4353910255) - 2026-05-25
 * [Review] [Review on: Move BAL spec-switch and BAL attachment to the branch processor for BalRecorder plugin](https://github.com/NethermindEth/nethermind/pull/11700#pullrequestreview-4353793509) - 2026-05-25
+* [Pull Request] [zk-logging](https://github.com/NethermindEth/nethermind/pull/11757) - 2026-05-26
+* [Review] [Review on: Validate FCU safe/finalized by ancestry when main-chain markers are outdated](https://github.com/NethermindEth/nethermind/pull/11746#pullrequestreview-4355635861) - 2026-05-25
+* [Review] [Review on: test: improve test coverage in Nethermind.State.Flat](https://github.com/NethermindEth/nethermind/pull/11695#pullrequestreview-4355786240) - 2026-05-25
+* [Review] [Review on: fix(sync): accept receipts with zero bloom from peers](https://github.com/NethermindEth/nethermind/pull/11743#pullrequestreview-4355801077) - 2026-05-25
+* [Review] [Review on: Fix Geth genesis deposit contract fallback to use zero address](https://github.com/NethermindEth/nethermind/pull/11740#pullrequestreview-4354118840) - 2026-05-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

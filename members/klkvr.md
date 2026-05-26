@@ -155,6 +155,13 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [perf: don't send unchanged accounts to trie (#24432)](https://github.com/paradigmxyz/reth/commit/0456b4b9d9e496f735aaace18c60bf4cf4997033) - 2026-05-22
 * [Commit] [chore: bump revm 40 (#24395)](https://github.com/paradigmxyz/reth/commit/803839df0f66f4068c8560c6ac0ffa7430c77198) - 2026-05-22
 * [Review] [Review on: fix(evm): use cached transaction hashes in chain](https://github.com/paradigmxyz/reth/pull/24474#pullrequestreview-4350824935) - 2026-05-23
+* [Pull Request] [feat: unify ordered trie encoders](https://github.com/paradigmxyz/reth/pull/24523) - 2026-05-25
+* [Review] [Review on: fix(rpc): gap-fill empty blocks in eth_simulateV1](https://github.com/paradigmxyz/reth/pull/24388#pullrequestreview-4357576933) - 2026-05-25
+* [Pull Request] [fix: recompute hashed state on state root task failures](https://github.com/paradigmxyz/reth/pull/24506) - 2026-05-25
+* [Review] [Review on: fix: recompute hashed state on state root task failures](https://github.com/paradigmxyz/reth/pull/24506#pullrequestreview-4356584159) - 2026-05-25
+* [Review] [Review on: feat(trie): add open-ended ordered root builder](https://github.com/paradigmxyz/reth/pull/24419#pullrequestreview-4355738007) - 2026-05-25
+* [Commit] [feat: support disabling pipeline stages (#24436)](https://github.com/paradigmxyz/reth/commit/99425616f06be6ae2affd448abe175f3fd3df9e6) - 2026-05-25
+* [Commit] [fix: recompute hashed state on state root task failures (#24506)](https://github.com/paradigmxyz/reth/commit/278c60216f1cd9a13c4159b5db54c43f54e8609a) - 2026-05-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

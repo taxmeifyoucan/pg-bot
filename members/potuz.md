@@ -64,6 +64,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Apply boost on weak (#16786)](https://github.com/OffchainLabs/prysm/commit/f31155f0d013f81890113880ff294b48142777be) - 2026-05-20
 * [Pull Request] [Fix data column sidecars JSON response post-Gloas](https://github.com/OffchainLabs/prysm/pull/16820) - 2026-05-21
 * [Commit] [Fix data column sidecars JSON response post-Gloas (#16820)](https://github.com/OffchainLabs/prysm/commit/9985c8fe7a03409b9028029a28bde05067eb704c) - 2026-05-21
+* [Review] [Review on: Don't mutate live head state in getLatePayloadAttribute](https://github.com/OffchainLabs/prysm/pull/16836#pullrequestreview-4356591990) - 2026-05-25
+* [Review] [Review on: Add signature to batch](https://github.com/OffchainLabs/prysm/pull/16837#pullrequestreview-4356824435) - 2026-05-25
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

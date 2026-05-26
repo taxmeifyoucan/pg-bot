@@ -95,6 +95,11 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Remove optimization to apply BALs before flat db heal](https://github.com/besu-eth/besu/pull/10538#pullrequestreview-4337443853) - 2026-05-21
 * [Issue] [EIP-7928: Investigate Clarify edge case aorund 7702 insufficient gas](https://github.com/besu-eth/besu/issues/10543) - 2026-05-21
 * [Issue] [EIP-7926 -  Besu serializes the BAL hash as balHash](https://github.com/besu-eth/besu/issues/10544) - 2026-05-21
+* [Pull Request] [Bal devnet 7 : Apply BAL and not the accumulator after background execution](https://github.com/besu-eth/besu/pull/10552) - 2026-05-25
+* [Pull Request] [Bal devnet 7 : Apply BAL and not the accumulator after background execution](https://github.com/besu-eth/besu/pull/10553) - 2026-05-25
+* [Review] [Review on: Add static-pivot snap/2 world state download skeleton](https://github.com/besu-eth/besu/pull/10548#pullrequestreview-4354926230) - 2026-05-25
+* [Pull Request] [remove used futures for parallel execution](https://github.com/besu-eth/besu/pull/10551) - 2026-05-25
+* [Review] [Review on: Make snap/2 BAL fetching strict](https://github.com/besu-eth/besu/pull/10542#pullrequestreview-4354697303) - 2026-05-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

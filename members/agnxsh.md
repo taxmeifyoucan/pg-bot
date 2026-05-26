@@ -43,6 +43,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add some extra checks while assembling column sidecars](https://github.com/status-im/nimbus-eth2/pull/8487) - 2026-05-21
 * [Pull Request] [extend getBlobs in gloas](https://github.com/status-im/nimbus-eth2/pull/8498) - 2026-05-22
 * [Pull Request] [ensure sidecarless is cleaned once enqueuePayload is successful](https://github.com/status-im/nimbus-eth2/pull/8501) - 2026-05-22
+* [Review] [Review on: ensure sidecarless is cleaned once enqueuePayload is successful + drive enqueuePayload from rman](https://github.com/status-im/nimbus-eth2/pull/8501#pullrequestreview-4355110805) - 2026-05-25
 ## Q1 2026
 
 

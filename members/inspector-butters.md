@@ -50,6 +50,10 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [state diff anchors cache metrics (#16789)](https://github.com/OffchainLabs/prysm/commit/c398e551dd92dd538d898a1b45955e44792ececc) - 2026-05-19
 * [Pull Request] [add workflow to check generated go files](https://github.com/OffchainLabs/prysm/pull/16829) - 2026-05-21
 * [Commit] [add workflow to check generated go files (#16829)](https://github.com/OffchainLabs/prysm/commit/ad504f6ff4108f51ff18e13601f83beb66bcb16b) - 2026-05-21
+* [Review] [Review on: Fix UpdateHead doc: caller must NOT hold forkchoice lock](https://github.com/OffchainLabs/prysm/pull/16841#pullrequestreview-4355184698) - 2026-05-25
+* [Review] [Review on: `/healthz` endpoint: Base error on the average goroutine count, instead of the instant one.](https://github.com/OffchainLabs/prysm/pull/16815#pullrequestreview-4355451902) - 2026-05-25
+* [Review] [Review on: Fix data race on s.head.full in postPayloadTasks](https://github.com/OffchainLabs/prysm/pull/16839#pullrequestreview-4355202759) - 2026-05-25
+* [Review] [Review on: Use HeadSlot() in computePayloadWithdrawals](https://github.com/OffchainLabs/prysm/pull/16840#pullrequestreview-4355194923) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

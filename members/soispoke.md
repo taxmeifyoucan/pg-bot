@@ -17,6 +17,7 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Pull Request] [Add EIP: Keyed Nonces for Frame Transactions](https://github.com/ethereum/EIPs/pull/11597) - 2026-05-04
 * [Commit] [Add EIP: Keyed Nonces for Frame Transactions (#11598)](https://github.com/ethereum/EIPs/commit/326c46310b8f484ca68b266d173c9e4c750d3515) - 2026-05-11
 * [Review] [Review on: Add EIP: Expiring Nonces for Frame Transactions](https://github.com/ethereum/EIPs/pull/11692#pullrequestreview-4318545745) - 2026-05-19
+* [Pull Request] [Add EIP: Recent Root References for Frame Transactions](https://github.com/ethereum/EIPs/pull/11726) - 2026-05-25
 ## Q2 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

@@ -51,6 +51,10 @@ Team: Erigon
 * [Review] [Review on: add eth_capability test](https://github.com/erigontech/rpc-tests/pull/557#pullrequestreview-4251709975) - 2026-05-08
 * [Review] [Review on: integration_test: set ws timeout](https://github.com/erigontech/rpc-tests/pull/559#pullrequestreview-4261150216) - 2026-05-11
 * [Review] [Review on: integration_test: change rsp for eth_capability & improve mgt ignore-filed metadata](https://github.com/erigontech/rpc-tests/pull/561#pullrequestreview-4289965225) - 2026-05-14
+* [Review] [Review on: integration test: debug execution witness for hive](https://github.com/erigontech/rpc-tests/pull/563#pullrequestreview-4354934622) - 2026-05-25
+* [Review] [Review on: integration-test: ots_searchTransactionsAfter modify rsp test_11, test_12 to have rsp fix respent TIP move](https://github.com/erigontech/rpc-tests/pull/564#pullrequestreview-4354932612) - 2026-05-25
+* [Review] [Review on: integration test: add head field on eth_capabilities](https://github.com/erigontech/rpc-tests/pull/565#pullrequestreview-4354929822) - 2026-05-25
+* [Review] [Review on: integration test: add note eth simulate v1 test 28](https://github.com/erigontech/rpc-tests/pull/566#pullrequestreview-4354928710) - 2026-05-25
 ## Q1 2026
 
 

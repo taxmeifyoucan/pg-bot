@@ -497,6 +497,22 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [RPC: trace_* streaming approach](https://github.com/NethermindEth/nethermind/pull/11735) - 2026-05-24
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11734#pullrequestreview-4351988642) - 2026-05-24
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11733#pullrequestreview-4351988328) - 2026-05-24
+* [Review] [Review on: trie: cut hot-path allocations and align dirty-cache shards](https://github.com/NethermindEth/nethermind/pull/11539#pullrequestreview-4355832528) - 2026-05-25
+* [Review] [Review on: eth/70: stop response early when block has txs but no receipts](https://github.com/NethermindEth/nethermind/pull/11754#pullrequestreview-4357760262) - 2026-05-25
+* [Review] [Review on: Keep devp2p 8-byte capability limit; log rejected bytes for diagnosis](https://github.com/NethermindEth/nethermind/pull/11753#pullrequestreview-4357812493) - 2026-05-25
+* [Review] [Review on: refactor: take ReadOnlySpan<byte> rlp on IPersistence trie writes](https://github.com/NethermindEth/nethermind/pull/11745#pullrequestreview-4355730632) - 2026-05-25
+* [Review] [Review on: Add validation for nested ABI array depth](https://github.com/NethermindEth/nethermind/pull/11726#pullrequestreview-4355542739) - 2026-05-25
+* [Review] [Review on: Validate FCU safe/finalized by ancestry when main-chain markers are outdated](https://github.com/NethermindEth/nethermind/pull/11746#pullrequestreview-4355716324) - 2026-05-25
+* [Review] [Review on: Add NETH004: enforce RunContinuationsAsynchronously on TaskCompletionSource](https://github.com/NethermindEth/nethermind/pull/11465#pullrequestreview-4355663625) - 2026-05-25
+* [Review] [Review on: test: improve test coverage in Nethermind.State.Flat](https://github.com/NethermindEth/nethermind/pull/11695#pullrequestreview-4355340879) - 2026-05-25
+* [Review] [Review on: test(sync): un-ignore Can_cancel_seal_validation](https://github.com/NethermindEth/nethermind/pull/11744#pullrequestreview-4355735895) - 2026-05-25
+* [Review] [Review on: refactor(core): centralize EIP-7702 SetCode shape checks](https://github.com/NethermindEth/nethermind/pull/11641#pullrequestreview-4355880650) - 2026-05-25
+* [Review] [Review on: fix(merge): capture bad blocks at pre-process rejection stages](https://github.com/NethermindEth/nethermind/pull/11696#pullrequestreview-4355874335) - 2026-05-25
+* [Review] [Review on: fix(sync): accept receipts with zero bloom from peers](https://github.com/NethermindEth/nethermind/pull/11743#pullrequestreview-4355670187) - 2026-05-25
+* [Review] [Review on: fix(zkevm): use explicit hash dictionary comparers](https://github.com/NethermindEth/nethermind/pull/11721#pullrequestreview-4355524400) - 2026-05-25
+* [Review] [Review on: Fix flaky TransactionReceiptsSubscription tests + observe subscription worker faults](https://github.com/NethermindEth/nethermind/pull/11741#pullrequestreview-4354585312) - 2026-05-25
+* [Review] [Review on: Fix Geth genesis deposit contract fallback to use zero address](https://github.com/NethermindEth/nethermind/pull/11740#pullrequestreview-4354588016) - 2026-05-25
+* [Commit] [test: bump executePayloadV1_accepts_already_known_block timeout to 60s (#11731)](https://github.com/NethermindEth/nethermind/commit/e4233dbc9bb3ef99f9ee95475f669894bca88c65) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

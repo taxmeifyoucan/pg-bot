@@ -81,6 +81,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Count PTC votes from duplicated validators + apply attestations from blocks](https://github.com/Consensys/teku/pull/10732#pullrequestreview-4340213128) - 2026-05-21
 * [Pull Request] [Force the proposer to reorg unavailable blocks](https://github.com/Consensys/teku/pull/10741) - 2026-05-21
 * [Commit] [Count PTC votes from duplicated validators + apply attestations from blocks (#10732)](https://github.com/Consensys/teku/commit/7abc081cad417b0284cd4fe2db8d82048676c7a4) - 2026-05-22
+* [Pull Request] [Add target_gas_limit to PayloadAttributes](https://github.com/Consensys/teku/pull/10748) - 2026-05-25
+* [Pull Request] [Modify `notify_forkchoice_updated` to reflect parents EL block hash in Gloas for safe/finalized](https://github.com/Consensys/teku/pull/10747) - 2026-05-25
+* [Pull Request] [Ethspecify altair + bellatrix update](https://github.com/Consensys/teku/pull/10750) - 2026-05-25
+* [Pull Request] [Introduce separate payload availability deadline + make naturalSet/Map only write ordered](https://github.com/Consensys/teku/pull/10749) - 2026-05-25
+* [Review] [Review on: Use MIN_SEED_LOOKAHEAD in proposer preferences](https://github.com/Consensys/teku/pull/10731#pullrequestreview-4355096820) - 2026-05-25
+* [Commit] [Ethspecify gloas+phase0 (#10718)](https://github.com/Consensys/teku/commit/b50938985aa078f4ff8378377da4a8a51317efce) - 2026-05-25
+* [Commit] [Use MIN_SEED_LOOKAHEAD in proposer preferences (#10731)](https://github.com/Consensys/teku/commit/c1525efb6bd719301529d2863cfb6481112f652e) - 2026-05-25
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

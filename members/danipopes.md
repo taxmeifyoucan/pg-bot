@@ -336,6 +336,8 @@ Team: Reth
 * [Pull Request] [fix(runtime): cap default JIT bytecode length](https://github.com/paradigmxyz/revmc/pull/384) - 2026-05-22
 * [Commit] [fix(runtime): cap default JIT bytecode length (#384)](https://github.com/paradigmxyz/revmc/commit/13551169e171390ea6666a9fbaeefc3086ece458) - 2026-05-23
 * [Commit] [feat(runtime): add out-of-process JIT mode (#365)](https://github.com/paradigmxyz/revmc/commit/4042c2ed50d88fb16505976461f8be1d13398f4a) - 2026-05-22
+* [Pull Request] [chore: update revm alloy and inkwell](https://github.com/paradigmxyz/revmc/pull/385) - 2026-05-25
+* [Commit] [chore: update revm alloy and inkwell (#385)](https://github.com/paradigmxyz/revmc/commit/e0303e8ae577f09b6e46d792294bffd903a27ee6) - 2026-05-25
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -386,6 +388,9 @@ Team: Reth
 * [Review] [Review on: ci: checkout PR repo for bench comments](https://github.com/paradigmxyz/reth/pull/24374#pullrequestreview-4329020347) - 2026-05-20
 * [Review] [Review on: ci: disable OTLP for release benches](https://github.com/paradigmxyz/reth/pull/24369#pullrequestreview-4329044804) - 2026-05-20
 * [Review] [Review on: fix: enforce secp256k1 feature propagation](https://github.com/paradigmxyz/reth/pull/24365#pullrequestreview-4329009234) - 2026-05-20
+* [Review] [Review on: feat: unify ordered trie encoders](https://github.com/paradigmxyz/reth/pull/24523#pullrequestreview-4358329377) - 2026-05-25
+* [Review] [Review on: chore(bench): raise significance floors](https://github.com/paradigmxyz/reth/pull/24511#pullrequestreview-4356993972) - 2026-05-25
+* [Review] [Review on: perf(network): use FbBuildHasher for transaction manager maps](https://github.com/paradigmxyz/reth/pull/24497#pullrequestreview-4356695192) - 2026-05-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

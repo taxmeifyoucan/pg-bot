@@ -15,6 +15,7 @@ Github: [@raulk](https://github.com/raulk)
 * [Review] [Review on: Update EIP-8070: Rename protocol version to eth/72 and fix typos](https://github.com/ethereum/EIPs/pull/11524#pullrequestreview-4113163697) - 2026-04-15
 * [Pull Request] [Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589) - 2026-04-30
 * [Review] [Review on: Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4214849064) - 2026-05-02
+* [Review] [Review on: Add EIP: Batching Attestations at Source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4356475436) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add sukunrt to P2P Networking](https://github.com/protocolguild/documentation/pull/488) - 2026-04-10
 

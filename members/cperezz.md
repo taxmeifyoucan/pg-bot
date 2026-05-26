@@ -44,6 +44,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Pull Request] [feat(node, db-common): add --debug.skip-genesis-validation](https://github.com/paradigmxyz/reth/pull/23919) - 2026-05-03
 * [Commit] [feat(node, db-common): add --debug.skip-genesis-validation (#23919)](https://github.com/paradigmxyz/reth/commit/1021fc2c27fc212ad591328ae189011df812bc13) - 2026-05-06
 
+* [Pull Request] [fix(trie): proof_v2 panic on root-level cached branch with empty stack](https://github.com/paradigmxyz/reth/pull/24501) - 2026-05-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Storage Roots in Block Access Lists](https://github.com/ethereum/EIPs/pull/11716) - 2026-05-21
 * [Commit] [Add EIP: Storage Roots in Block Access Lists](https://github.com/ethereum/EIPs/commit/1c638d0d36ffcc461b81d43259987fef5ef82fc0) - 2026-05-22

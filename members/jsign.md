@@ -43,6 +43,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [fix(specs): delay get_code calls in CALL-like opcodes (#2473)](https://github.com/ethereum/execution-specs/commit/84b22c02acbaf1c40d00b1b4499688b1cf456bc3) - 2026-05-19
 * [Pull Request] [feat(zkevm): support external t8n stateless input/output byte generation](https://github.com/ethereum/execution-specs/pull/2889) - 2026-05-20
 * [Review] [Review on: feat(zkevm): support external t8n stateless input/output byte generation](https://github.com/ethereum/execution-specs/pull/2889#pullrequestreview-4330092741) - 2026-05-20
+* [Review] [Review on: feat(ci): overhaul fixture releases](https://github.com/ethereum/execution-specs/pull/2888#pullrequestreview-4357859397) - 2026-05-25
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01
@@ -77,6 +78,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat: add support for EEST blockchain test fixtures](https://github.com/eth-act/zkevm-benchmark-workload/pull/286#pullrequestreview-4345465798) - 2026-05-22
 * [Commit] [feat: add output matching metrics for execution and proving processes (#287)](https://github.com/eth-act/zkevm-benchmark-workload/commit/d27512d374487ecee64660b43e67b60c05e5ef18) - 2026-05-22
 * [Commit] [feat: add support for EEST blockchain test fixtures (#286)](https://github.com/eth-act/zkevm-benchmark-workload/commit/02758cd977005504591066ccacfb1e286c161961) - 2026-05-22
+* [Pull Request] [Documentation improvements](https://github.com/eth-act/zkevm-benchmark-workload/pull/288) - 2026-05-25
+* [Commit] [Documentation improvements (#288)](https://github.com/eth-act/zkevm-benchmark-workload/commit/73f140c809c48cc61b742c62dd43902870ae8e09) - 2026-05-25
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08
@@ -98,6 +101,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: Update EIP-8025: Move to Draft](https://github.com/ethereum/EIPs/pull/11604#pullrequestreview-4237887906) - 2026-05-06
 
 * [Pull Request] [Update EIP-8081: Add EIP-7709 and EIP-8025](https://github.com/ethereum/EIPs/pull/11720) - 2026-05-21
+* [Commit] [Update EIP-8081: Add EIP-7709 and EIP-8025](https://github.com/ethereum/EIPs/commit/883c41d020e101ae2b3e4db21028d0c6a43e8182) - 2026-05-25
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: implement engine_newPayloadWithWitnessV5 and use witness field spec ordering](https://github.com/ethereum/go-ethereum/pull/35009) - 2026-05-19
 * [Review] [Review on: eth/catalyst: implement engine_newPayloadWithWitnessV5 and use witness field spec ordering](https://github.com/ethereum/go-ethereum/pull/35009#pullrequestreview-4321981008) - 2026-05-19

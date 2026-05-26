@@ -62,6 +62,11 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [Fix DbTracker repeatedly logging ObjectDisposedException after disposal](https://github.com/NethermindEth/nethermind/pull/11720) - 2026-05-22
 * [Issue] [DbTracker.UpdateDbMetrics throws ObjectDisposedException repeatedly](https://github.com/NethermindEth/nethermind/issues/11719) - 2026-05-22
 * [Review] [Review on: fix: satisfy IDE0028 in FakeRecordedBalStore](https://github.com/NethermindEth/nethermind/pull/11738#pullrequestreview-4353877763) - 2026-05-25
+* [Pull Request] [eth/70: stop response early when block has txs but no receipts](https://github.com/NethermindEth/nethermind/pull/11754) - 2026-05-25
+* [Pull Request] [Keep devp2p 8-byte capability limit; log rejected bytes for diagnosis](https://github.com/NethermindEth/nethermind/pull/11753) - 2026-05-25
+* [Issue] [HelloMessageSerializer drops peers with capability protocol codes longer than 8 bytes (1.38 regression)](https://github.com/NethermindEth/nethermind/issues/11751) - 2026-05-25
+* [Issue] [eth/70: peer with block header but no receipts causes `Receipt count mismatch` and disconnects honest peers](https://github.com/NethermindEth/nethermind/issues/11752) - 2026-05-25
+* [Commit] [Fix DbTracker repeatedly logging ObjectDisposedException after disposal (#11720)](https://github.com/NethermindEth/nethermind/commit/2a5301704ec61efe1e26b35a24c50074b7f1deac) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

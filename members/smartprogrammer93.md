@@ -73,8 +73,18 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(rpc): implement `proof_call` for stateless call verification](https://github.com/NethermindEth/nethermind/pull/11732) - 2026-05-23
 * [Review] [Review on: feat(rpc): implement `proof_call` for stateless call verification](https://github.com/NethermindEth/nethermind/pull/11732#pullrequestreview-4351523858) - 2026-05-23
 * [Issue] [Flaky test: TransactionReceiptsSubscription_failed_tx_still_delivered](https://github.com/NethermindEth/nethermind/issues/11737) - 2026-05-25
+* [Review] [Review on: fix(sync): accept receipts with zero bloom from peers](https://github.com/NethermindEth/nethermind/pull/11743#pullrequestreview-4355834689) - 2026-05-25
+* [Pull Request] [Fix flaky TransactionReceiptsSubscription tests + observe subscription worker faults](https://github.com/NethermindEth/nethermind/pull/11741) - 2026-05-25
+* [Review] [Review on: Fix flaky TransactionReceiptsSubscription tests + observe subscription worker faults](https://github.com/NethermindEth/nethermind/pull/11741#pullrequestreview-4354680653) - 2026-05-25
+* [Pull Request] [Fix Geth genesis deposit contract fallback to use zero address](https://github.com/NethermindEth/nethermind/pull/11740) - 2026-05-25
+* [Review] [Review on: Fix DbTracker repeatedly logging ObjectDisposedException after disposal](https://github.com/NethermindEth/nethermind/pull/11720#pullrequestreview-4353975055) - 2026-05-25
+* [Commit] [Fix flaky TransactionReceiptsSubscription tests + observe subscription worker faults (#11741)](https://github.com/NethermindEth/nethermind/commit/e30d7ecc670d1df825373a0459c5d9b2270412f9) - 2026-05-25
+* [Commit] [Fix Geth genesis deposit contract fallback to use zero address (#11740)](https://github.com/NethermindEth/nethermind/commit/f6b0d32bc03a3abb2c149d48f98232c9dfe83858) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [clients: read depositContractAddress from genesis](https://github.com/ethereum/hive/pull/1507) - 2026-05-25
 ## Q1 2026
 
 

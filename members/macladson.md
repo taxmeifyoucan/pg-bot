@@ -37,6 +37,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Add macro to simplify `into_full_block` implementations](https://github.com/sigp/lighthouse/pull/9294) - 2026-05-12
 * [Pull Request] [Add support for jemalloc memory profiling](https://github.com/sigp/lighthouse/pull/9326) - 2026-05-20
 * [Review] [Review on: Implement GET `v2/node/version` endpoint](https://github.com/sigp/lighthouse/pull/9171#pullrequestreview-4343994997) - 2026-05-22
+* [Pull Request] [Optimize `libp2p` and `discv5` logging](https://github.com/sigp/lighthouse/pull/9356) - 2026-05-25
 ## Q1 2026
 
 

@@ -16,3 +16,4 @@ Team: Consensus R&D (EF)
 * [Pull Request] [test: Add benchmark tests for bn128_add precompile special cases](https://github.com/ethereum/execution-specs/pull/2811) - 2026-05-06
 * [Commit] [test(test-benchmark): add `bn128_add` precompile special case benchmarks (#2811)](https://github.com/ethereum/execution-specs/commit/1292bce491239e007c178620a63faf8123453d29) - 2026-05-07
 * [Pull Request] [fix(tests): more comprehensive precompile benchmarks for modexp](https://github.com/ethereum/execution-specs/pull/2896) - 2026-05-21
+* [Commit] [feat(test-benchmark): add more modexp precompile benchmark scenario (#2896)](https://github.com/ethereum/execution-specs/commit/2de6b9f2e3c233b1246ead4a9ecdb54235d4a2af) - 2026-05-25

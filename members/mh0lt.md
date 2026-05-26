@@ -211,6 +211,9 @@ Team: Erigon
 * [Pull Request] [[PROBE-ONLY] revert BranchCache lifecycle family — investigates #21380 EEST regression](https://github.com/erigontech/erigon/pull/21381) - 2026-05-23
 * [Pull Request] [Parallel-exec correctness fixes (PR #3 of the perf stack)](https://github.com/erigontech/erigon/pull/21387) - 2026-05-24
 * [Pull Request] [StateCache LRU + Mode rework (PR #2 of the perf stack)](https://github.com/erigontech/erigon/pull/21386) - 2026-05-24
+* [Review] [Review on: execution/stagedsync: tests for finalize coinbase/burnt fee write invalidation](https://github.com/erigontech/erigon/pull/21373#pullrequestreview-4358797267) - 2026-05-25
+* [Commit] [execution/stagedsync: tests for finalize coinbase/burnt fee write invalidation (#21373)](https://github.com/erigontech/erigon/commit/644b538e28f6ec081785e481c9401e43c0be247e) - 2026-05-25
+* [Commit] [ci: matrix-test serial vs parallel exec across the test workflows (#21017)](https://github.com/erigontech/erigon/commit/7827ec7268ffc9f4c4b97cfab6740d2f8fb1fdb2) - 2026-05-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

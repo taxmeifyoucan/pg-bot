@@ -43,6 +43,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Append client version info to user graffiti by default](https://github.com/sigp/lighthouse/pull/9313#pullrequestreview-4316811827) - 2026-05-19
 * [Review] [Review on: docs(installation): mention blob storage CPU and disk impact](https://github.com/sigp/lighthouse/pull/9320#pullrequestreview-4326526119) - 2026-05-20
 * [Review] [Review on: Append client version info to user graffiti by default](https://github.com/sigp/lighthouse/pull/9313#pullrequestreview-4353714192) - 2026-05-25
+* [Review] [Review on: Implement GET `v2/node/version` endpoint](https://github.com/sigp/lighthouse/pull/9171#pullrequestreview-4354018390) - 2026-05-25
+* [Review] [Review on: add user-agent header to all http clients](https://github.com/sigp/lighthouse/pull/8786#pullrequestreview-4354017795) - 2026-05-25
 ## Q1 2026
 
 

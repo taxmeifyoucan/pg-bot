@@ -187,6 +187,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Fix UpdateHead doc: caller must NOT hold forkchoice lock](https://github.com/OffchainLabs/prysm/pull/16841) - 2026-05-24
 * [Pull Request] [Use HeadSlot() in computePayloadWithdrawals](https://github.com/OffchainLabs/prysm/pull/16840) - 2026-05-24
 * [Pull Request] [Fix data race on s.head.full in postPayloadTasks](https://github.com/OffchainLabs/prysm/pull/16839) - 2026-05-24
+* [Review] [Review on: beacon-chain/execution: remove double metrics Observe in getBlobsV3](https://github.com/OffchainLabs/prysm/pull/16843#pullrequestreview-4358837082) - 2026-05-25
+* [Commit] [Don't mutate live head state in getLatePayloadAttribute (#16836)](https://github.com/OffchainLabs/prysm/commit/52d2eadecdb36aef65e8b70c5a7a7efaa2686d62) - 2026-05-25
+* [Commit] [Fix UpdateHead doc: caller must NOT hold forkchoice lock (#16841)](https://github.com/OffchainLabs/prysm/commit/225e2adce6d9a32aca1b232df226099aa58a77ed) - 2026-05-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

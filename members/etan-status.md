@@ -102,6 +102,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-web3](https://github.com/status-im/nimbus-eth2/pull/8500) - 2026-05-22
 * [Pull Request] [Use separate default port for BN and VC apis](https://github.com/status-im/nimbus-eth2/pull/8499) - 2026-05-22
 * [Pull Request] [Sync systemd extra flags to nix services](https://github.com/status-im/nimbus-eth2/pull/8505) - 2026-05-23
+* [Pull Request] [Add `parent_block_root` to bid filtering key](https://github.com/status-im/nimbus-eth2/pull/8510) - 2026-05-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

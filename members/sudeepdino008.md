@@ -211,6 +211,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [state collation strategy: capping or recovery](https://github.com/erigontech/erigon/issues/21366) - 2026-05-22
 * [Issue] [explore ChangeSets3 as dupsort](https://github.com/erigontech/erigon/issues/21358) - 2026-05-22
 * [Review] [Review on: [dnm][r36] Disable referenced keys in commitment files, bump version](https://github.com/erigontech/erigon/pull/21376#pullrequestreview-4350374876) - 2026-05-23
+* [Pull Request] [simplify state aggregation and pruning logic](https://github.com/erigontech/erigon/pull/21398) - 2026-05-25
+* [Review] [Review on: execution, cl: persist initial-cycle lifecycle by block TTL](https://github.com/erigontech/erigon/pull/20895#pullrequestreview-4355212533) - 2026-05-25
+* [Review] [Review on: eliasfano32: Seek returns position alongside value](https://github.com/erigontech/erigon/pull/21385#pullrequestreview-4355869253) - 2026-05-25
+* [Commit] [simplify state aggregation and pruning logic (#21398)](https://github.com/erigontech/erigon/commit/ee74ba5439e3b0041f1f5794a56408f4e02ca31e) - 2026-05-26
 ## Q1 2026
 
 

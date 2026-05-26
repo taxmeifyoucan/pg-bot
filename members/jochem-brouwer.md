@@ -65,6 +65,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: ECRECOVER Native Key Awareness](https://github.com/ethereum/EIPs/pull/11515#pullrequestreview-4347457949) - 2026-05-22
 * [Review] [Review on: Update EIP-8163: Move to Review](https://github.com/ethereum/EIPs/pull/11569#pullrequestreview-4347263767) - 2026-05-22
 * [Review] [Review on: Update EIP-8141: add signatures list to outer tx](https://github.com/ethereum/EIPs/pull/11481#pullrequestreview-4342511849) - 2026-05-22
+* [Commit] [Update EIP-8081: add EIP-8253](https://github.com/ethereum/EIPs/commit/5845a5dfe12149f1d5c444335f594dcf603d20e2) - 2026-05-25
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Correctly name devnet-2 genesis and introduce devnet-3 genesis](https://github.com/NethermindEth/gas-benchmarks/pull/139) - 2026-04-22
 

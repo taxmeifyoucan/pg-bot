@@ -46,6 +46,8 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 * [Pull Request] [Implement improvements to comptests generator](https://github.com/ethereum/consensus-specs/pull/5247) - 2026-05-13
 * [Commit] [Implement improvements to comptests generator (#5247)](https://github.com/ethereum/consensus-specs/commit/1308093bd9a83fa8740542855734d90d591c9671) - 2026-05-13
 * [Review] [Review on: Avoid attestations with incompatible shuffling](https://github.com/ethereum/consensus-specs/pull/5276#pullrequestreview-4337979905) - 2026-05-21
+* [Review] [Review on: Add `on_attestation` tests for `validate_on_attestation` updates](https://github.com/ethereum/consensus-specs/pull/5275#pullrequestreview-4357574627) - 2026-05-25
+* [Review] [Review on: Fix invalid block-root membership check in fork-choice helper](https://github.com/ethereum/consensus-specs/pull/5259#pullrequestreview-4357499015) - 2026-05-25
 ## Q1 2026
 
 

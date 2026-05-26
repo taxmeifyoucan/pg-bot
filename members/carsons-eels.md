@@ -26,6 +26,7 @@ Github: [@carsons-eels](https://github.com/carsons-eels)
 * [Review] [Review on: feat(spec-specs, spec-tests): add EIP-7708 ETH transfers emit a log](https://github.com/ethereum/execution-specs/pull/2844#pullrequestreview-4278064046) - 2026-05-13
 * [Commit] [feat(spec-specs, spec-tests): add EIP-7708 ETH transfers emit a log (#2844)](https://github.com/ethereum/execution-specs/commit/2037311529b307e7029004f26dd3471eec364fcd) - 2026-05-13
 * [Commit] [feat(spec-specs, tests): add EIP-7954 Increase Maximum Contract Size (#2850)](https://github.com/ethereum/execution-specs/commit/c198ebf00ab3897f66ed49bc28cc4c50aa61a858) - 2026-05-15
+* [Issue] [Missing Point Evaluation G1 Negation Test Cases](https://github.com/ethereum/execution-specs/issues/2909) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489) - 2026-04-10
 

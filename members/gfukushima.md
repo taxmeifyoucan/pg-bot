@@ -50,6 +50,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Re-enable gossip ref tests](https://github.com/Consensys/teku/pull/10726) - 2026-05-19
 * [Review] [Review on: Improve data column sidecar pruning stream handling](https://github.com/Consensys/teku/pull/10725#pullrequestreview-4315964361) - 2026-05-19
 * [Review] [Review on: Re-enable gossip ref tests](https://github.com/Consensys/teku/pull/10726#pullrequestreview-4333270512) - 2026-05-21
+* [Pull Request] [Update netty ](https://github.com/Consensys/teku/pull/10751) - 2026-05-26
+* [Review] [Review on: Remove unused beacon REST API dependencies](https://github.com/Consensys/teku/pull/10745#pullrequestreview-4359273825) - 2026-05-25
+* [Review] [Review on: added some ignores for agents](https://github.com/Consensys/teku/pull/10746#pullrequestreview-4354046441) - 2026-05-25
 ## Q1 2026
 
 

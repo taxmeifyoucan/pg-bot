@@ -87,6 +87,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(specs,tests): merge EIP-8037 into ``forks/amsterdam``](https://github.com/ethereum/execution-specs/pull/2891#pullrequestreview-4341014072) - 2026-05-21
 * [Review] [Review on: feat(github): add devnet test release tracker issue template](https://github.com/ethereum/execution-specs/pull/2899#pullrequestreview-4348852966) - 2026-05-22
 * [Review] [Review on: feat(spec-specs, tests): alt to merge 8037 to forks/amsterdam](https://github.com/ethereum/execution-specs/pull/2901#pullrequestreview-4347044514) - 2026-05-22
+* [Review] [Review on: feat(tooling, tests): detect and mark gas-checking tests](https://github.com/ethereum/execution-specs/pull/2906#pullrequestreview-4358126346) - 2026-05-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 
@@ -96,6 +97,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Update EIP-7708: Use EIP-8246 to simplify](https://github.com/ethereum/EIPs/commit/4c64c876efe01ab44aa92d2de961b20d3ffa06da) - 2026-05-16
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: Enforce expected blobs order by setting maxFeePerBlobGas](https://github.com/ethereum/hive/pull/1495#pullrequestreview-4299738027) - 2026-05-15
+* [Pull Request] [clients/nethermind: Update dotnet images](https://github.com/ethereum/hive/pull/1509) - 2026-05-25
 ## Q1 2026
 
 

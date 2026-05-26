@@ -221,6 +221,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: satisfy IDE0028 in FakeRecordedBalStore](https://github.com/NethermindEth/nethermind/commit/836707cbb9714abb684f4ca135c97938d822d0a9) - 2026-05-25
 * [Commit] [Move BAL spec-switch and BAL attachment to the branch processor for BalRecorder plugin (#11700)](https://github.com/NethermindEth/nethermind/commit/97f396f21ecb7df0a9ede4761b32156254d4a0fd) - 2026-05-25
 * [Commit] [perf(db): account native rocksdb memory via GC.AddMemoryPressure (#11453)](https://github.com/NethermindEth/nethermind/commit/e9f00062ad71abe0202d3a8d5453a94f3611ca6c) - 2026-05-25
+* [Pull Request] [feat(Core): introduce NativeMemoryList<T> / NativeMemoryListRef<T> and public ValueAddress](https://github.com/NethermindEth/nethermind/pull/11758) - 2026-05-26
+* [Pull Request] [feat(FlatDB): stagger compaction per-instance with random offset](https://github.com/NethermindEth/nethermind/pull/11756) - 2026-05-26
+* [Pull Request] [refactor: take ReadOnlySpan<byte> rlp on IPersistence trie writes](https://github.com/NethermindEth/nethermind/pull/11745) - 2026-05-25
+* [Review] [Review on: perf(merge-sync): cache PosForwardHeaderProvider.GetBlockHeaders](https://github.com/NethermindEth/nethermind/pull/11617#pullrequestreview-4356167747) - 2026-05-25
+* [Commit] [test: improve test coverage in Nethermind.State.Flat (#11695)](https://github.com/NethermindEth/nethermind/commit/99fd6e682a140fd51fd5f2fcfc5d310eb07c4c24) - 2026-05-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

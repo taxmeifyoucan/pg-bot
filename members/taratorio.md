@@ -168,6 +168,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: fix omission in EL block downloader to schedule exec for last downloaded fcu batch (#21367)](https://github.com/erigontech/erigon/commit/6f037d2408b7f98f7c86fea7792242f4b0dcf5b2) - 2026-05-23
 * [Pull Request] [execution: fix exec to not return ErrLoopExhausted on last block](https://github.com/erigontech/erigon/pull/21392) - 2026-05-25
 * [Review] [Review on: [PROBE-ONLY] EngineXTestRunner: force-evict tester per Run — investigates #21380 EEST regression (hypothesis: cache reuse across tests)](https://github.com/erigontech/erigon/pull/21383#pullrequestreview-4353942525) - 2026-05-25
+* [Review] [Review on: simplify state aggregation and pruning logic](https://github.com/erigontech/erigon/pull/21398#pullrequestreview-4359628565) - 2026-05-26
+* [Review] [Review on: State Cache Consolidation](https://github.com/erigontech/erigon/pull/21380#pullrequestreview-4354971868) - 2026-05-25
+* [Pull Request] [[DO-NOT-MERGE] execution: hive eest ci to include all devnet shards](https://github.com/erigontech/erigon/pull/21404) - 2026-05-25
+* [Review] [Review on: build(deps): bump github/gh-aw from 0.73.0 to 0.74.8](https://github.com/erigontech/erigon/pull/21401#pullrequestreview-4356065844) - 2026-05-25
+* [Review] [Review on: build(deps): bump actions/setup-node from 4 to 6](https://github.com/erigontech/erigon/pull/21403#pullrequestreview-4356060036) - 2026-05-25
+* [Review] [Review on: build(deps): bump actions/setup-python from 5 to 6](https://github.com/erigontech/erigon/pull/21402#pullrequestreview-4356062009) - 2026-05-25
+* [Review] [Review on: execution,cl: add TargetGasLimit to PayloadAttributesV4](https://github.com/erigontech/erigon/pull/21297#pullrequestreview-4354794838) - 2026-05-25
+* [Pull Request] [txnprovider/shutter: follow up update for EIP-8037](https://github.com/erigontech/erigon/pull/21399) - 2026-05-25
+* [Pull Request] [execution: ci change eest-spec-shards definition file to yaml](https://github.com/erigontech/erigon/pull/21393) - 2026-05-25
+* [Commit] [execution,cl: add TargetGasLimit to PayloadAttributesV4 (#21297)](https://github.com/erigontech/erigon/commit/6214b032c8c8a6bf7d395d7033bf35f9c0695c18) - 2026-05-25
+* [Commit] [execution: ci change eest-spec-shards definition file to yaml (#21393)](https://github.com/erigontech/erigon/commit/ea11fbe3b41749765621afcf7b2f79ff3e17a1ab) - 2026-05-25
+* [Commit] [execution: fix exec to not return ErrLoopExhausted on last block (#21392)](https://github.com/erigontech/erigon/commit/4faa59da5268f2398b386dff6fe84f6d20acd532) - 2026-05-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

@@ -131,6 +131,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Extract generic Kademlia and add native discv5](https://github.com/NethermindEth/nethermind/pull/11728) - 2026-05-22
 * [Pull Request] [Make EraE tests visible and green](https://github.com/NethermindEth/nethermind/pull/11727) - 2026-05-22
 * [Review] [Review on: fix(eth/70): reject null receipt payloads](https://github.com/NethermindEth/nethermind/pull/11615#pullrequestreview-4343688178) - 2026-05-22
+* [Review] [Review on: Keep devp2p 8-byte capability limit; log rejected bytes for diagnosis](https://github.com/NethermindEth/nethermind/pull/11753#pullrequestreview-4357631356) - 2026-05-25
+* [Pull Request] [Add equality logic; simplify tests](https://github.com/NethermindEth/nethermind/pull/11747) - 2026-05-25
+* [Pull Request] [Add SSZ vector converter discovery](https://github.com/NethermindEth/nethermind/pull/11748) - 2026-05-25
+* [Review] [Review on: Add NETH004: enforce RunContinuationsAsynchronously on TaskCompletionSource](https://github.com/NethermindEth/nethermind/pull/11465#pullrequestreview-4355801366) - 2026-05-25
+* [Review] [Review on: test: bump executePayloadV1_accepts_already_known_block timeout to 60s](https://github.com/NethermindEth/nethermind/pull/11731#pullrequestreview-4355675982) - 2026-05-25
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11733#pullrequestreview-4355513768) - 2026-05-25
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11734#pullrequestreview-4355512986) - 2026-05-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

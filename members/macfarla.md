@@ -215,6 +215,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Integrate NullAway for nullability checks in ethstats package](https://github.com/besu-eth/besu/pull/10520#pullrequestreview-4341048688) - 2026-05-21
 * [Review] [Review on: Add Bonsai debug modified accounts RPC methods](https://github.com/besu-eth/besu/pull/10487#pullrequestreview-4334409466) - 2026-05-21
 * [Review] [Review on: Enable NullAway static null-safety analysis for datatypes module](https://github.com/besu-eth/besu/pull/10394#pullrequestreview-4333584826) - 2026-05-21
+* [Review] [Review on: perf: parallelize block body DB lookups in engine_getPayloadBodies methods](https://github.com/besu-eth/besu/pull/10532#pullrequestreview-4359754219) - 2026-05-26
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

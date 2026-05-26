@@ -72,6 +72,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [`fetchOriginSidecars`: Check if block is `nil`.](https://github.com/OffchainLabs/prysm/pull/16826) - 2026-05-21
 * [Commit] [Update `go-libp2p` to `v0.44.0` and `go-libp2p-mplex` to `v0.11.0`. (#16804)](https://github.com/OffchainLabs/prysm/commit/47d44cee29ffafbc8fdb6bc6e36001c3545cd295) - 2026-05-22
 * [Pull Request] [`ReadFromEveryValidator`==> `AllValidatorsReadOnly`(func iterator)](https://github.com/OffchainLabs/prysm/pull/16838) - 2026-05-24
+* [Review] [Review on: Fix UpdateHead doc: caller must NOT hold forkchoice lock](https://github.com/OffchainLabs/prysm/pull/16841#pullrequestreview-4356993020) - 2026-05-25
+* [Review] [Review on: Clear dangling origin checkpoint pointer on historical prune](https://github.com/OffchainLabs/prysm/pull/16834#pullrequestreview-4359081706) - 2026-05-25
+* [Issue] [`/prysm/v1/validators/head/active_set_changes` returns the full active validators set, instead of only those that became activated during the epoch](https://github.com/OffchainLabs/prysm/issues/16842) - 2026-05-25
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 ## Q1 2026

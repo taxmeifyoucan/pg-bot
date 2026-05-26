@@ -480,6 +480,23 @@ Team: Reth
 * [Pull Request] [fix(consensus): validate Amsterdam header fields](https://github.com/paradigmxyz/reth/pull/24495) - 2026-05-24
 * [Pull Request] [fix: use tx_hash for transaction identity](https://github.com/paradigmxyz/reth/pull/24494) - 2026-05-24
 * [Pull Request] [refactor(evm): add chain transaction hash iterator](https://github.com/paradigmxyz/reth/pull/24493) - 2026-05-24
+* [Review] [Review on: feat: unify ordered trie encoders](https://github.com/paradigmxyz/reth/pull/24523#pullrequestreview-4358386155) - 2026-05-25
+* [Pull Request] [fix(deps): support alloy-eip7928 0.4](https://github.com/paradigmxyz/reth/pull/24516) - 2026-05-25
+* [Review] [Review on: perf(network): use FbBuildHasher for transaction manager maps](https://github.com/paradigmxyz/reth/pull/24497#pullrequestreview-4354794482) - 2026-05-25
+* [Review] [Review on: feat: support disabling pipeline stages](https://github.com/paradigmxyz/reth/pull/24436#pullrequestreview-4356984102) - 2026-05-25
+* [Review] [Review on: fix: recompute hashed state on state root task failures](https://github.com/paradigmxyz/reth/pull/24506#pullrequestreview-4356566734) - 2026-05-25
+* [Pull Request] [fix(rpc): preserve legacy block rlp serialization](https://github.com/paradigmxyz/reth/pull/24505) - 2026-05-25
+* [Commit] [feat(trie): add open-ended ordered root builder (#24419)](https://github.com/paradigmxyz/reth/commit/4da25612f1438dd1a99efec974ef439ff14c7361) - 2026-05-25
+* [Commit] [fix(rpc): preserve legacy block rlp serialization (#24505)](https://github.com/paradigmxyz/reth/commit/dfd0148600a65b2e6b9d9e9b163fb90d813155c1) - 2026-05-25
+* [Commit] [fix(rpc): guard eth_simulateV1 with blocking IO semaphore (#24503)](https://github.com/paradigmxyz/reth/commit/f2d2bd23306801f7ba8f7380ab9740dead844c4a) - 2026-05-25
+* [Commit] [feat(evm): add WithTxEnv constructor (#24366)](https://github.com/paradigmxyz/reth/commit/1ddac7135d4f782bf068ebdaf15c8bd040bd3579) - 2026-05-25
+* [Commit] [fix(consensus): validate Amsterdam header fields (#24495)](https://github.com/paradigmxyz/reth/commit/6a5f3711609e88ec30e9dac5ef62e49dd45111dd) - 2026-05-25
+* [Commit] [fix(rpc): guard eth_callMany with blocking IO semaphore (#24499)](https://github.com/paradigmxyz/reth/commit/b7a7a8a7295c4ea841d5960a7e39a473e7d7cebe) - 2026-05-25
+* [Commit] [perf(txpool): add best transaction size hints (#24417)](https://github.com/paradigmxyz/reth/commit/e550355a95f3ec05043e4f33d0cca7eec1bc6ae3) - 2026-05-25
+* [Commit] [fix: use tx_hash for transaction identity (#24494)](https://github.com/paradigmxyz/reth/commit/00f9bd2a9cb277199f68f4d5fbfc71a3e382dd97) - 2026-05-25
+* [Commit] [feat(txpool): add retain_contains helper (#24482)](https://github.com/paradigmxyz/reth/commit/578680aef612fc4f8eea215b3a3a264aef8ce366) - 2026-05-25
+* [Commit] [perf(evm): preallocate chain transaction hashes (#24478)](https://github.com/paradigmxyz/reth/commit/f148781d170502442a262747f34cd5052cef1b87) - 2026-05-25
+* [Commit] [refactor(evm): add chain transaction hash iterator (#24493)](https://github.com/paradigmxyz/reth/commit/1a8f30e86da3f1d053046c43d06eec6196ab0507) - 2026-05-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -496,6 +513,8 @@ Team: Reth
 * [Pull Request] [feat: add borrowed alloy BAL conversion](https://github.com/bluealloy/revm/pull/3670) - 2026-05-11
 * [Commit] [feat: add borrowed alloy BAL conversion (#3670)](https://github.com/bluealloy/revm/commit/0900ee3983618bb378e9a736fd6f3f70a8ef8f0d) - 2026-05-12
 * [Review] [Review on: feat: add `OnStateHook` for `State<DB>`](https://github.com/bluealloy/revm/pull/3710#pullrequestreview-4346988510) - 2026-05-22
+* [Pull Request] [docs: explain CPSB acronym](https://github.com/bluealloy/revm/pull/3716) - 2026-05-25
+* [Commit] [docs: explain CPSB acronym (#3716)](https://github.com/bluealloy/revm/commit/1d4f18a14d35013c63d33aaa98a2cb1b54b85518) - 2026-05-25
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
 ## Q1 2026

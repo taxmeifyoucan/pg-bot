@@ -88,6 +88,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(amsterdam): defer EIP-7702 delegate warming until entry checks pass](https://github.com/ethereum/execution-specs/pull/2900#pullrequestreview-4347437952) - 2026-05-22
 * [Review] [Review on: feat(tests): Extend coverage for BAL](https://github.com/ethereum/execution-specs/pull/2897#pullrequestreview-4347374055) - 2026-05-22
 * [Issue] [Address failing slow tests on `forks/amsterdam`](https://github.com/ethereum/execution-specs/issues/2905) - 2026-05-22
+* [Review] [Review on: feat(ci): overhaul fixture releases](https://github.com/ethereum/execution-specs/pull/2888#pullrequestreview-4357631864) - 2026-05-25
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14
