@@ -53,6 +53,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Bonsai Archive state proofs](https://github.com/besu-eth/besu/pull/10503) - 2026-05-15
 * [Issue] [feat: Bonsai Archive with State Proofs (eth_getProof support)](https://github.com/besu-eth/besu/issues/10504) - 2026-05-15
 * [Review] [Review on: fix: avoid storing total difficulty for PoS blocks](https://github.com/besu-eth/besu/pull/10458#pullrequestreview-4295206266) - 2026-05-15
+* [Review] [Review on: fix: correct off-by-one in debug_accountAt transaction index validation](https://github.com/besu-eth/besu/pull/10464#pullrequestreview-4360636978) - 2026-05-26
 ## Q1 2026
 
 

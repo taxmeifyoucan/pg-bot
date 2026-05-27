@@ -89,6 +89,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(ci): overhaul fixture releases](https://github.com/ethereum/execution-specs/pull/2888) - 2026-05-20
 * [Pull Request] [feat(github): add devnet test release tracker issue template](https://github.com/ethereum/execution-specs/pull/2899) - 2026-05-22
 * [Pull Request] [feat(spec-specs, tests): alt to merge 8037 to forks/amsterdam](https://github.com/ethereum/execution-specs/pull/2901) - 2026-05-22
+* [Review] [Review on: feat(github): add devnet test release tracker issue template](https://github.com/ethereum/execution-specs/pull/2899#pullrequestreview-4363518651) - 2026-05-26
+* [Issue] [Test Release Tracker: `bal-devnet@v7.3.0` ](https://github.com/ethereum/execution-specs/issues/2912) - 2026-05-26
+* [Issue] [Test Release Tracker: `glamsterdam-devnet@v5.0.0`](https://github.com/ethereum/execution-specs/issues/2915) - 2026-05-26
+* [Issue] [Test Release Tracker: `benchmark@v0.0.10`](https://github.com/ethereum/execution-specs/issues/2913) - 2026-05-26
+* [Issue] [Add dedicated GasCosts parameters for SELFBALANCE, TLOAD, and TSTORE](https://github.com/ethereum/execution-specs/issues/2911) - 2026-05-26
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

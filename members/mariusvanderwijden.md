@@ -67,6 +67,9 @@ Team: Geth
 * [Pull Request] [Bal devnet 7](https://github.com/ethereum/go-ethereum/pull/35007) - 2026-05-19
 * [Commit] [eth/catalyst: engine_hasBlobs (#34859)](https://github.com/ethereum/go-ethereum/commit/ef5041ef4dc827da91adf946952358e4ef1781e9) - 2026-05-21
 * [Pull Request] [params: remove named hardforks from bpo schedule](https://github.com/ethereum/go-ethereum/pull/35029) - 2026-05-22
+* [Review] [Review on: graphql: limit request body size](https://github.com/ethereum/go-ethereum/pull/35034#pullrequestreview-4364349585) - 2026-05-26
+* [Pull Request] [core: move subscriptions to constructor](https://github.com/ethereum/go-ethereum/pull/35048) - 2026-05-26
+* [Review] [Review on: rpc: fix method-name matched before maxMethodNameLength](https://github.com/ethereum/go-ethereum/pull/35038#pullrequestreview-4362888348) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

@@ -86,6 +86,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [all: align EIP-7928 spec with latest EIP (uint32 BlockAccessIndex, header hash, debug getter)](https://github.com/ethereum/execution-apis/pull/794) - 2026-05-08
 * [Commit] [all: align EIP-7928 spec with latest EIP (uint32 BlockAccessIndex, header hash, debug getter) (#794)](https://github.com/ethereum/execution-apis/commit/f46158fce37992ffa0a17f0da1bdbb76adc23b79) - 2026-05-11
 
+* [Pull Request] [fix: keep el internal rules outside engine api block access list](https://github.com/ethereum/execution-apis/pull/811) - 2026-05-26
+* [Commit] [fix: keep el internal rules outside engine api block access list (#811)](https://github.com/ethereum/execution-apis/commit/ca5a9211cb03ed1f23ba98ee3b68dced7cb88bd6) - 2026-05-26
 [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Add new research entries to work.json](https://github.com/nerolation/pglanding-nerolation/commit/6a8e8383b2af530de8c1b498cae69b84945e2454) - 2026-05-15
 ## Q1 2026

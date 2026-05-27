@@ -56,6 +56,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [nil check for block](https://github.com/OffchainLabs/prysm/pull/16825) - 2026-05-21
 * [Commit] [nil check for block (#16825)](https://github.com/OffchainLabs/prysm/commit/8a15fca7744088839af2059cbc410e6bddf8ee6a) - 2026-05-21
 * [Pull Request] [Clear dangling origin checkpoint pointer on historical prune](https://github.com/OffchainLabs/prysm/pull/16834) - 2026-05-22
+* [Review] [Review on: fix gloas proposal endpoint support](https://github.com/OffchainLabs/prysm/pull/16818#pullrequestreview-4365833528) - 2026-05-26
+* [Commit] [Clear dangling origin checkpoint pointer on historical prune (#16834)](https://github.com/OffchainLabs/prysm/commit/486a782aead8da83d0cfbd436d3c2bcf98f5a739) - 2026-05-26
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

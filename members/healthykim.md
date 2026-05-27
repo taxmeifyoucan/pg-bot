@@ -48,6 +48,9 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [internal/telemetry: add more traces on otel](https://github.com/ethereum/go-ethereum/pull/35045) - 2026-05-24
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [beacon-chain/execution: use default histogram buckets for engine latency metrics](https://github.com/OffchainLabs/prysm/pull/16844) - 2026-05-26
 ## Q1 2026
 
 

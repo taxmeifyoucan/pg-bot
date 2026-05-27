@@ -103,6 +103,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Use separate default port for BN and VC apis](https://github.com/status-im/nimbus-eth2/pull/8499) - 2026-05-22
 * [Pull Request] [Sync systemd extra flags to nix services](https://github.com/status-im/nimbus-eth2/pull/8505) - 2026-05-23
 * [Pull Request] [Add `parent_block_root` to bid filtering key](https://github.com/status-im/nimbus-eth2/pull/8510) - 2026-05-25
+* [Pull Request] [Ensure confirmed chain includes greatest unrealized checkpoint](https://github.com/status-im/nimbus-eth2/pull/8512) - 2026-05-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
@@ -128,6 +129,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Distinguish absent PTC votes from negative votes](https://github.com/ethereum/consensus-specs/pull/5180#pullrequestreview-4197233796) - 2026-04-29
 * [Review] [Review on: Use `Union[None, T]` instead of `Optional[T]` in SSZ datastructures](https://github.com/ethereum/consensus-specs/pull/5200#pullrequestreview-4225466879) - 2026-05-05
 * [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4334975214) - 2026-05-21
+* [Review] [Review on: Ensure confirmed chain includes greatest unrealized checkpoint](https://github.com/ethereum/consensus-specs/pull/5288#pullrequestreview-4365993902) - 2026-05-26
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13

@@ -28,6 +28,7 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: Add recovery of missing code](https://github.com/NethermindEth/nethermind/pull/9417#pullrequestreview-4343868335) - 2026-05-22
 * [Pull Request] [Validate FCU safe/finalized by ancestry when main-chain markers are outdated](https://github.com/NethermindEth/nethermind/pull/11746) - 2026-05-25
 * [Commit] [Validate FCU safe/finalized by ancestry when main-chain markers are outdated (#11746)](https://github.com/NethermindEth/nethermind/commit/0c2017f250ea63693891ff76bbfc999239802858) - 2026-05-25
+* [Review] [Review on: Disconnect on unknown protocol message type](https://github.com/NethermindEth/nethermind/pull/11266#pullrequestreview-4361625612) - 2026-05-26
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787) - 2026-04-23
 ## Q1 2026

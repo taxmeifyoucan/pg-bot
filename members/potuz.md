@@ -66,6 +66,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Fix data column sidecars JSON response post-Gloas (#16820)](https://github.com/OffchainLabs/prysm/commit/9985c8fe7a03409b9028029a28bde05067eb704c) - 2026-05-21
 * [Review] [Review on: Don't mutate live head state in getLatePayloadAttribute](https://github.com/OffchainLabs/prysm/pull/16836#pullrequestreview-4356591990) - 2026-05-25
 * [Review] [Review on: Add signature to batch](https://github.com/OffchainLabs/prysm/pull/16837#pullrequestreview-4356824435) - 2026-05-25
+* [Review] [Review on: Use HeadSlot() in computePayloadWithdrawals](https://github.com/OffchainLabs/prysm/pull/16840#pullrequestreview-4367884305) - 2026-05-26
+* [Pull Request] [Only add proposer boost to same shufflings as head](https://github.com/OffchainLabs/prysm/pull/16846) - 2026-05-27
+* [Review] [Review on: Fix data race on s.head.full in postPayloadTasks](https://github.com/OffchainLabs/prysm/pull/16839#pullrequestreview-4367881288) - 2026-05-26
+* [Review] [Review on: reworking proposer preference validation to avoid state lookup](https://github.com/OffchainLabs/prysm/pull/16830#pullrequestreview-4365529805) - 2026-05-26
+* [Review] [Review on: Optimize beacon API (REST and gRPC) regarding endpoints needing to iterate over the whole validator set.](https://github.com/OffchainLabs/prysm/pull/16838#pullrequestreview-4364053319) - 2026-05-26
+* [Review] [Review on: Add batch verify for deposit request signatures](https://github.com/OffchainLabs/prysm/pull/16810#pullrequestreview-4363624728) - 2026-05-26
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08
@@ -102,6 +108,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Introduce separate payload availability deadline (#5212)](https://github.com/ethereum/consensus-specs/commit/e4cf08637e5ee959d134d680e37a52cb0be50270) - 2026-05-15
 * [Commit] [Force the proposer to reorg unavailable blocks (#5186)](https://github.com/ethereum/consensus-specs/commit/63fc11ef4112b3777db1cce942222382e49f9c09) - 2026-05-14
 * [Commit] [Check gas limit consistency with the target (#5236)](https://github.com/ethereum/consensus-specs/commit/2add9577f9175779675aa235b314afc694536851) - 2026-05-15
+* [Review] [Review on: Ignore PTC attestations for empty assigned slots](https://github.com/ethereum/consensus-specs/pull/5281#pullrequestreview-4366851848) - 2026-05-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17

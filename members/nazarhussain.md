@@ -48,6 +48,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: remove unused flare package](https://github.com/ChainSafe/lodestar/pull/9358#pullrequestreview-4273478288) - 2026-05-12
 * [Review] [Review on: fix: improve error handling for invalid execution payloads from gossip](https://github.com/ChainSafe/lodestar/pull/9363#pullrequestreview-4280975514) - 2026-05-13
 * [Pull Request] [feat: ssz engine API transport](https://github.com/ChainSafe/lodestar/pull/9382) - 2026-05-19
+* [Pull Request] [chore: surface same-message BLS retry metrics on dashboard](https://github.com/ChainSafe/lodestar/pull/9407) - 2026-05-26
+* [Issue] [Surface remaining undashboarded BLS thread pool metrics](https://github.com/ChainSafe/lodestar/issues/9408) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116154021) - 2026-04-15
 

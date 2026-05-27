@@ -48,6 +48,13 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Pull Request] [Move safe-block.md definitions to fast-confirmation.md](https://github.com/ethereum/consensus-specs/pull/5278) - 2026-05-22
 * [Review] [Review on: Move safe-block.md definitions to fast-confirmation.md](https://github.com/ethereum/consensus-specs/pull/5278#pullrequestreview-4346091066) - 2026-05-22
 * [Commit] [Move safe-block.md definitions to fast-confirmation.md (#5278)](https://github.com/ethereum/consensus-specs/commit/70aa0166e51068012953d5f51fa5df1c56c6d449) - 2026-05-22
+* [Pull Request] [Ensure confirmed chain includes greatest unrealized checkpoint](https://github.com/ethereum/consensus-specs/pull/5288) - 2026-05-26
+* [Review] [Review on: Ensure confirmed chain includes greatest unrealized checkpoint](https://github.com/ethereum/consensus-specs/pull/5288#pullrequestreview-4366288478) - 2026-05-26
+* [Review] [Review on: Clarify ILs and payload validity comment and align IL p2p rules](https://github.com/ethereum/consensus-specs/pull/5289#pullrequestreview-4362927512) - 2026-05-26
+* [Pull Request] [Remove Eth1 bridge transition from `process_pending_deposits`](https://github.com/ethereum/consensus-specs/pull/5292) - 2026-05-26
+* [Pull Request] [Fix `dependent_root` computation in comptests](https://github.com/ethereum/consensus-specs/pull/5287) - 2026-05-26
+* [Review] [Review on: Avoid attestations with incompatible shuffling](https://github.com/ethereum/consensus-specs/pull/5276#pullrequestreview-4360889638) - 2026-05-26
+* [Commit] [Fix `dependent_root` computation in comptests (#5287)](https://github.com/ethereum/consensus-specs/commit/56d25bb4fc2eebec873742888589763ec71efad5) - 2026-05-26
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20
@@ -62,12 +69,14 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4271560983) - 2026-05-12
 * [Pull Request] [engine: Deduplicate PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/798) - 2026-05-12
 * [Commit] [engine: Deduplicate PayloadAttributesV4 (#798)](https://github.com/ethereum/execution-apis/commit/452a0f8bca3b225fcf347c1b201a862a9e954c3e) - 2026-05-12
+* [Review] [Review on: fix: keep el internal rules outside engine api block access list](https://github.com/ethereum/execution-apis/pull/811#pullrequestreview-4362700489) - 2026-05-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4210578979) - 2026-05-01
 * [Review] [Review on: Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4233437938) - 2026-05-06
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Fast Confirmation Rule (FCR) #8, May 26, 2026](https://github.com/ethereum/pm/issues/2053) - 2026-05-12
+* [Issue] [Fast Confirmation Rule (FCR) #9, June 23, 2026](https://github.com/ethereum/pm/issues/2079) - 2026-05-26
 ## Q1 2026
 
 

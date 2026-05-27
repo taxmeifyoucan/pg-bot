@@ -513,6 +513,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Fix flaky TransactionReceiptsSubscription tests + observe subscription worker faults](https://github.com/NethermindEth/nethermind/pull/11741#pullrequestreview-4354585312) - 2026-05-25
 * [Review] [Review on: Fix Geth genesis deposit contract fallback to use zero address](https://github.com/NethermindEth/nethermind/pull/11740#pullrequestreview-4354588016) - 2026-05-25
 * [Commit] [test: bump executePayloadV1_accepts_already_known_block timeout to 60s (#11731)](https://github.com/NethermindEth/nethermind/commit/e4233dbc9bb3ef99f9ee95475f669894bca88c65) - 2026-05-25
+* [Review] [Review on: RPC: trace_* streaming approach](https://github.com/NethermindEth/nethermind/pull/11755#pullrequestreview-4361171139) - 2026-05-26
+* [Review] [Review on: chore: enforce IDE0130 (namespace matches folder structure)](https://github.com/NethermindEth/nethermind/pull/11762#pullrequestreview-4363273159) - 2026-05-26
+* [Review] [Review on: Add StatsAnalyzer to build pipeline](https://github.com/NethermindEth/nethermind/pull/11766#pullrequestreview-4364822289) - 2026-05-26
+* [Review] [Review on: Fix statsanalyzer plugin BAL rename](https://github.com/NethermindEth/nethermind/pull/11760#pullrequestreview-4363157545) - 2026-05-26
+* [Review] [Review on: trie: cut hot-path allocations and align dirty-cache shards](https://github.com/NethermindEth/nethermind/pull/11539#pullrequestreview-4363326409) - 2026-05-26
+* [Review] [Review on: feat(FlatDB): stagger compaction per-instance with random offset](https://github.com/NethermindEth/nethermind/pull/11756#pullrequestreview-4361142395) - 2026-05-26
+* [Review] [Review on: test(evm): cover CREATE2 code-deposit gas failure](https://github.com/NethermindEth/nethermind/pull/11759#pullrequestreview-4363175515) - 2026-05-26
+* [Review] [Review on: zk-logging](https://github.com/NethermindEth/nethermind/pull/11757#pullrequestreview-4361117140) - 2026-05-26
+* [Commit] [Apply suggestion from @LukaszRozmej](https://github.com/NethermindEth/nethermind/commit/27258b9d4325b6093902d28a10805a7b3a225f60) - 2026-05-26
+* [Commit] [Apply suggestions from code review](https://github.com/NethermindEth/nethermind/commit/c01295b5f01d98d55e7ecce13328f0c924920e3a) - 2026-05-26
+* [Commit] [Disconnect on unknown protocol message type (#11266)](https://github.com/NethermindEth/nethermind/commit/00445a305c4c0e9323617ad0080e7eab4011f6c7) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

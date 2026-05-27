@@ -223,6 +223,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: Add argument size in WHIR example](https://github.com/Plonky3/Plonky3/pull/1694#pullrequestreview-4355348876) - 2026-05-25
 * [Review] [Review on: feat: add support for RPO hash](https://github.com/Plonky3/Plonky3/pull/1640#pullrequestreview-4355356815) - 2026-05-25
 * [Review] [Review on: fri: reject global max height mismatches](https://github.com/Plonky3/Plonky3/pull/1698#pullrequestreview-4355228434) - 2026-05-25
+* [Review] [Review on: refactor(merkle-tree): remove unused error variants](https://github.com/Plonky3/Plonky3/pull/1705#pullrequestreview-4360796705) - 2026-05-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

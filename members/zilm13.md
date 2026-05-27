@@ -88,6 +88,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Use MIN_SEED_LOOKAHEAD in proposer preferences](https://github.com/Consensys/teku/pull/10731#pullrequestreview-4355096820) - 2026-05-25
 * [Commit] [Ethspecify gloas+phase0 (#10718)](https://github.com/Consensys/teku/commit/b50938985aa078f4ff8378377da4a8a51317efce) - 2026-05-25
 * [Commit] [Use MIN_SEED_LOOKAHEAD in proposer preferences (#10731)](https://github.com/Consensys/teku/commit/c1525efb6bd719301529d2863cfb6481112f652e) - 2026-05-25
+* [Review] [Review on: Ethspecify altair + bellatrix update](https://github.com/Consensys/teku/pull/10750#pullrequestreview-4366858707) - 2026-05-26
+* [Review] [Review on: Add target_gas_limit to PayloadAttributes](https://github.com/Consensys/teku/pull/10748#pullrequestreview-4366807110) - 2026-05-26
+* [Commit] [Ethspecify altair + bellatrix update (#10750)](https://github.com/Consensys/teku/commit/fac489e7bec5651fffb13000eb41c4ee1def54f6) - 2026-05-26
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

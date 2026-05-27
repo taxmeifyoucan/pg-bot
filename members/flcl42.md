@@ -138,6 +138,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: test: bump executePayloadV1_accepts_already_known_block timeout to 60s](https://github.com/NethermindEth/nethermind/pull/11731#pullrequestreview-4355675982) - 2026-05-25
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11733#pullrequestreview-4355513768) - 2026-05-25
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11734#pullrequestreview-4355512986) - 2026-05-25
+* [Review] [Review on: chore: enforce IDE0130 (namespace matches folder structure)](https://github.com/NethermindEth/nethermind/pull/11762#pullrequestreview-4363465828) - 2026-05-26
+* [Review] [Review on: eth/70: stop response early when block has txs but no receipts](https://github.com/NethermindEth/nethermind/pull/11754#pullrequestreview-4362102859) - 2026-05-26
+* [Review] [Review on: ModExp exponent `int32` oveflow fix](https://github.com/NethermindEth/nethermind/pull/11692#pullrequestreview-4363593948) - 2026-05-26
+* [Review] [Review on: Add SSZ vector converter discovery](https://github.com/NethermindEth/nethermind/pull/11748#pullrequestreview-4364801486) - 2026-05-26
+* [Review] [Review on: Change BAL DB key](https://github.com/NethermindEth/nethermind/pull/11761#pullrequestreview-4363729977) - 2026-05-26
+* [Review] [Review on: Disconnect on unknown protocol message type](https://github.com/NethermindEth/nethermind/pull/11266#pullrequestreview-4361804099) - 2026-05-26
+* [Commit] [Make EraE tests visible and green (#11727)](https://github.com/NethermindEth/nethermind/commit/24a4173c57f8bcf119465d8ec19cc32615c5f521) - 2026-05-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

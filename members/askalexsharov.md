@@ -641,6 +641,14 @@ Team: Erigon
 * [Review] [Review on: execution: fix exec to not return ErrLoopExhausted on last block](https://github.com/erigontech/erigon/pull/21392#pullrequestreview-4354023527) - 2026-05-25
 * [Commit] [eliasfano32: Seek returns position alongside value (#21385)](https://github.com/erigontech/erigon/commit/47f361f125d1ac9c216cd33df326b78f0997db8d) - 2026-05-25
 * [Commit] [[wip] p2p/sentry: fix shared PeerStore version filter in findBestPeers, findPeerByMinBlock, PeerEvents (#21394)](https://github.com/erigontech/erigon/commit/b15bb0db19440b852f76ac2024f8e8daa03ee767) - 2026-05-25
+* [Review] [Review on: re-introduce block catchup recovery](https://github.com/erigontech/erigon/pull/21415#pullrequestreview-4368741527) - 2026-05-27
+* [Review] [Review on: performance: cherry-pick 5 improvements to main](https://github.com/erigontech/erigon/pull/21374#pullrequestreview-4368550910) - 2026-05-27
+* [Review] [Review on: ChangeLog: catch up on 3.3.x/3.4.x](https://github.com/erigontech/erigon/pull/21427#pullrequestreview-4368543829) - 2026-05-27
+* [Review] [Review on: cl/block_collector: validate persistent block values](https://github.com/erigontech/erigon/pull/21396#pullrequestreview-4361527330) - 2026-05-26
+* [Review] [Review on: txnprovider/shutter: follow up update for EIP-8037](https://github.com/erigontech/erigon/pull/21399#pullrequestreview-4361520022) - 2026-05-26
+* [Review] [Review on: [DO-NOT-MERGE] execution: hive eest ci to include all devnet shards](https://github.com/erigontech/erigon/pull/21404#pullrequestreview-4361514299) - 2026-05-26
+* [Review] [Review on: docs: May 2026 w22 — v3.4.2 update](https://github.com/erigontech/erigon/pull/21408#pullrequestreview-4361511983) - 2026-05-26
+* [Issue] [step-rebase: perm denied](https://github.com/erigontech/erigon/issues/21409) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

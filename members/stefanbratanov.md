@@ -83,6 +83,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Upgrade jvm-libp2p (#10736)](https://github.com/Consensys/teku/commit/8d12baa22c19e70e78cd44d9171d114681d62d7e) - 2026-05-20
 * [Pull Request] [Weak Subjectivity protections for Electra/Gloas](https://github.com/Consensys/teku/pull/10739) - 2026-05-21
 * [Review] [Review on: Optimize onboarding builders at the fork](https://github.com/Consensys/teku/pull/10729#pullrequestreview-4337110267) - 2026-05-21
+* [Review] [Review on: Minimal pinned block production - fix late block reorg](https://github.com/Consensys/teku/pull/10740#pullrequestreview-4363519832) - 2026-05-26
+* [Commit] [Batch new builder deposit signature verifications during block processing (#10708)](https://github.com/Consensys/teku/commit/4749527f6fc7a203c98b8a0bb2767fa264ee2275) - 2026-05-26
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22
@@ -91,6 +93,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Add PubsubRpcLimits decoding count-cap to reduce memory footprint](https://github.com/libp2p/jvm-libp2p/pull/477#pullrequestreview-4320791928) - 2026-05-19
 * [Pull Request] [1.3.0 release](https://github.com/libp2p/jvm-libp2p/pull/478) - 2026-05-20
 * [Review] [Review on: Release ByteBuf on control frames and invalid stream tag](https://github.com/libp2p/jvm-libp2p/pull/479#pullrequestreview-4334196291) - 2026-05-21
+* [Review] [Review on: Addressing gaps identified on QUIC implementation](https://github.com/libp2p/jvm-libp2p/pull/476#pullrequestreview-4364096911) - 2026-05-26
+* [Review] [Review on: Verify message `from` matches signing key (01)](https://github.com/libp2p/jvm-libp2p/pull/480#pullrequestreview-4364063195) - 2026-05-26
 ## Q1 2026
 
 

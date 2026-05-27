@@ -108,6 +108,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix race condition between validator duties service and proposer preferences](https://github.com/sigp/lighthouse/pull/9309#pullrequestreview-4353800238) - 2026-05-25
 * [Review] [Review on: Gloas ensure we emit payload attributes SSE event](https://github.com/sigp/lighthouse/pull/9348#pullrequestreview-4354695891) - 2026-05-25
 * [Review] [Review on: Ensure we can serve blocks and columns after `head` event is emitted](https://github.com/sigp/lighthouse/pull/9338#pullrequestreview-4354246990) - 2026-05-25
+* [Issue] [Proposer reorg strat should use unrealized finalization per spec](https://github.com/sigp/lighthouse/issues/9359) - 2026-05-26
+* [Issue] [HTTP API OOM from lack of Content-Length limit](https://github.com/sigp/lighthouse/issues/9358) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10
@@ -124,6 +126,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [PTC window processing not run for `post_epoch.ssz_snappy`](https://github.com/ethereum/consensus-specs/issues/5213) - 2026-05-07
 * [Issue] [Fork choice compliance tests assume the existence of impossible attestations](https://github.com/ethereum/consensus-specs/issues/5271) - 2026-05-19
 * [Issue] [Unintended self-reference in `update_proposer_boost_root`?](https://github.com/ethereum/consensus-specs/issues/5286) - 2026-05-26
+* [Review] [Review on: Fix `dependent_root` computation in comptests](https://github.com/ethereum/consensus-specs/pull/5287#pullrequestreview-4361557719) - 2026-05-26
+* [Review] [Review on: Avoid attestations with incompatible shuffling](https://github.com/ethereum/consensus-specs/pull/5276#pullrequestreview-4360598926) - 2026-05-26
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756) - 2026-05-06
 * [Review] [Review on: Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756#pullrequestreview-4232967261) - 2026-05-06

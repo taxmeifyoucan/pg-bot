@@ -63,6 +63,13 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: perf(bal): cut allocations on BAL generate/validate paths](https://github.com/NethermindEth/nethermind/pull/11725#pullrequestreview-4346774190) - 2026-05-22
 * [Review] [Review on: fix(bal): defer 7702 delegation BAL entry past depth/balance check](https://github.com/NethermindEth/nethermind/pull/11724#pullrequestreview-4344690463) - 2026-05-22
 * [Commit] [Enforce IDE0028 (use collection initializers/expressions) in linting (#11708)](https://github.com/NethermindEth/nethermind/commit/f56cf7feb3c600a4ab7de469a6646b5cea804c5f) - 2026-05-22
+* [Pull Request] [Add StatsAnalyzer to build pipeline](https://github.com/NethermindEth/nethermind/pull/11766) - 2026-05-26
+* [Pull Request] [Change BAL DB key](https://github.com/NethermindEth/nethermind/pull/11761) - 2026-05-26
+* [Review] [Review on: Change BAL DB key](https://github.com/NethermindEth/nethermind/pull/11761#pullrequestreview-4363602404) - 2026-05-26
+* [Pull Request] [Fix statsanalyzer plugin BAL rename](https://github.com/NethermindEth/nethermind/pull/11760) - 2026-05-26
+* [Commit] [Add StatsAnalyzer to build pipeline (#11766)](https://github.com/NethermindEth/nethermind/commit/cdf8fa7530835475ced0deb1e4ce3c86df676674) - 2026-05-26
+* [Commit] [consensus: standardize slow block JSON output for cross-client metrics (#11400)](https://github.com/NethermindEth/nethermind/commit/06761a4d5411e4980142d604353d29420dea9a89) - 2026-05-26
+* [Commit] [Fix statsanalyzer plugin BAL rename (#11760)](https://github.com/NethermindEth/nethermind/commit/06dc8e90fc33b5343947814bfaa11b47da2551db) - 2026-05-26
 ## Q1 2026
 
 

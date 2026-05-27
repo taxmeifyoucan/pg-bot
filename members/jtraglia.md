@@ -266,6 +266,18 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Move safe-block.md definitions to fast-confirmation.md](https://github.com/ethereum/consensus-specs/pull/5278#pullrequestreview-4346042800) - 2026-05-22
 * [Commit] [Add a script which enforces consistent note prefixes (#5279)](https://github.com/ethereum/consensus-specs/commit/b8cf07f4d7599f37a1c6e2bb0201259628a30181) - 2026-05-22
 * [Review] [Review on: Reject gloas PTC attestations cast against an empty assigned slot](https://github.com/ethereum/consensus-specs/pull/5281#pullrequestreview-4352954521) - 2026-05-24
+* [Review] [Review on: Ignore PTC attestations for empty assigned slots](https://github.com/ethereum/consensus-specs/pull/5281#pullrequestreview-4364276961) - 2026-05-26
+* [Pull Request] [Add executable gossip validation functions for gloas](https://github.com/ethereum/consensus-specs/pull/5294) - 2026-05-26
+* [Pull Request] [Use consistent gossip validation param order/types](https://github.com/ethereum/consensus-specs/pull/5295) - 2026-05-26
+* [Review] [Review on: Raise `MAX_PROOF_SIZE` to 4 MiB](https://github.com/ethereum/consensus-specs/pull/5293#pullrequestreview-4366961988) - 2026-05-26
+* [Review] [Review on: Add `on_attestation` tests for `validate_on_attestation` updates](https://github.com/ethereum/consensus-specs/pull/5275#pullrequestreview-4366186192) - 2026-05-26
+* [Review] [Review on: Clarify ILs and payload validity comment and align IL p2p rules](https://github.com/ethereum/consensus-specs/pull/5289#pullrequestreview-4363642101) - 2026-05-26
+* [Review] [Review on: Fix `dependent_root` computation in comptests](https://github.com/ethereum/consensus-specs/pull/5287#pullrequestreview-4364973528) - 2026-05-26
+* [Review] [Review on: Raise `MAX_PROOF_SIZE` to 1.3125 MiB](https://github.com/ethereum/consensus-specs/pull/5291#pullrequestreview-4364866683) - 2026-05-26
+* [Review] [Review on: Update actions/stale action to v10.3.0](https://github.com/ethereum/consensus-specs/pull/5283#pullrequestreview-4364620285) - 2026-05-26
+* [Review] [Review on: Update dependency mdformat-frontmatter to v2.1.2](https://github.com/ethereum/consensus-specs/pull/5284#pullrequestreview-4363991342) - 2026-05-26
+* [Review] [Review on: Update dependency ruff-md to v0.15.14](https://github.com/ethereum/consensus-specs/pull/5282#pullrequestreview-4363593518) - 2026-05-26
+* [Commit] [Use consistent gossip validation param order/types (#5295)](https://github.com/ethereum/consensus-specs/commit/3584b3a4fb93d64fd89a94839a7176c226b93c14) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

@@ -135,6 +135,16 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [precompiles: Add Fq2 sqr() and use it in BN254 pairing helpers (#1539)](https://github.com/ipsilon/evmone/commit/61163aa0aa22ecfdd93f77156e3643a26a7e503f) - 2026-05-25
 * [Commit] [precompiles: Precompute Miller loop lines for KZG trusted setup point (#1537)](https://github.com/ipsilon/evmone/commit/6539fcf7d87b69005b8ea88247a15353d934eaab) - 2026-05-25
 * [Commit] [build: Fix missing intx::intx dependencies (#1540)](https://github.com/ipsilon/evmone/commit/49f7e654d2890375997eaad632c4e80f3e6d09aa) - 2026-05-25
+* [Pull Request] [crypto: Fix incorrect docstrings in BN254 and KZG pairing helpers](https://github.com/ipsilon/evmone/pull/1548) - 2026-05-26
+* [Pull Request] [crypto: Migrate ExtPoint to AffinePoint<E2> ](https://github.com/ipsilon/evmone/pull/1547) - 2026-05-26
+* [Pull Request] [crypto: Migrate BN254 pairing internals to AffinePoint<Curve>](https://github.com/ipsilon/evmone/pull/1546) - 2026-05-26
+* [Pull Request] [crypto: Replace JacPoint with ProjPoint](https://github.com/ipsilon/evmone/pull/1545) - 2026-05-26
+* [Pull Request] [crypto: Share Fq12 squaring across pairs in BN254 Miller loop](https://github.com/ipsilon/evmone/pull/1544) - 2026-05-26
+* [Pull Request] [crypto: BN254 pairing line eval following Beuchat 2010 literally](https://github.com/ipsilon/evmone/pull/1543) - 2026-05-26
+* [Commit] [crypto: Migrate BN254 pairing internals to AffinePoint<Curve> (#1546)](https://github.com/ipsilon/evmone/commit/47e5f9d2f27132fdc0ca742f43570873c5eb2ba3) - 2026-05-26
+* [Commit] [crypto: Replace JacPoint with ProjPoint (#1545)](https://github.com/ipsilon/evmone/commit/c32634157872a4c1fc581e4a795270211af2ac98) - 2026-05-26
+* [Commit] [crypto: Optimize line evaluation in BN254 pairings (#1541)](https://github.com/ipsilon/evmone/commit/1dc88fce6b7a21b1b696dd26a922c6fe06fd8c0b) - 2026-05-26
+* [Commit] [crypto: Trivial reuse of computed values in pairing helpers (#1542)](https://github.com/ipsilon/evmone/commit/8a68f96a203192fc24e08333b449884775e91306) - 2026-05-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10

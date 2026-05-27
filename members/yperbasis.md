@@ -461,6 +461,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [.claude/rules: generalize branch-naming.md beyond Alex's convention (#21365)](https://github.com/erigontech/erigon/commit/f59ef1c341fde385caeb4b52cbcc8143307205f1) - 2026-05-22
 * [Commit] [db/kv/membatchwithdb: use Append in MemoryMutation.Flush for sorted-key tables (#21313)](https://github.com/erigontech/erigon/commit/5a8ccb15f61baf810222fac30556901df04100cc) - 2026-05-22
 * [Commit] [db/kv, db/migrations, cmd: drop pre-E3 plain/hashed state and history tables (#21280)](https://github.com/erigontech/erigon/commit/dfc03335493ac7ae6430fde9dd5e9d805ee95bfc) - 2026-05-22
+* [Pull Request] [txnprovider/txpool: drop and kick peers on blob KZG verify failure](https://github.com/erigontech/erigon/pull/21421) - 2026-05-26
+* [Review] [Review on: txnprovider/txpool: drop and kick peers on blob KZG verify failure](https://github.com/erigontech/erigon/pull/21421#pullrequestreview-4364211178) - 2026-05-26
+* [Review] [Review on: execution: optimise selfbalance worst-case benchmark](https://github.com/erigontech/erigon/pull/21420#pullrequestreview-4364263604) - 2026-05-26
+* [Pull Request] [ChangeLog: catch up on 3.3.x/3.4.x](https://github.com/erigontech/erigon/pull/21427) - 2026-05-26
+* [Pull Request] [node/cli: register --rpc.logs.maxresults in DefaultFlags so it takes effect via CLI](https://github.com/erigontech/erigon/pull/21426) - 2026-05-26
+* [Review] [Review on: rpc: fix debug_executionWitness header fields and system address inclusion (EIP-7928)](https://github.com/erigontech/erigon/pull/21371#pullrequestreview-4363239047) - 2026-05-26
+* [Review] [Review on: cl: implement consensus-specs v1.7.0-alpha.8 for Gloas devnet-4](https://github.com/erigontech/erigon/pull/21308#pullrequestreview-4363185488) - 2026-05-26
+* [Review] [Review on: rpc: fix trace_call block overrides](https://github.com/erigontech/erigon/pull/21019#pullrequestreview-4363075745) - 2026-05-26
+* [Commit] [node/cli: register --rpc.logs.maxresults in DefaultFlags so it takes effect via CLI (#21426)](https://github.com/erigontech/erigon/commit/ce940637daeb428c8b001dcbc8fffca39bb2b08d) - 2026-05-26
+* [Commit] [db/state: cache findShortenedKey per commitmentValTransformDomain merge (#21303)](https://github.com/erigontech/erigon/commit/b496fbfe395d804dc8d9de8bd321b6faffa817ac) - 2026-05-26
+* [Commit] [db: full mode now prunes block data to EIP-8252 window (#21342)](https://github.com/erigontech/erigon/commit/c56722a2e022b634369ddba233041b8734f64533) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

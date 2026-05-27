@@ -93,6 +93,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Require Java 25 to build](https://github.com/besu-eth/besu/pull/10539#pullrequestreview-4335553500) - 2026-05-21
 * [Commit] [Require Java 25 to build (#10539)](https://github.com/besu-eth/besu/commit/f978424f9e3fdbbe1f3691fb5f533dc35d7c2e04) - 2026-05-24
 * [Review] [Review on: Fix IndexOutOfBoundsException race condition in TransactionBroadcaster](https://github.com/besu-eth/besu/pull/10482#pullrequestreview-4355647465) - 2026-05-25
+* [Review] [Review on: Fix IndexOutOfBoundsException race condition in TransactionBroadcaster](https://github.com/besu-eth/besu/pull/10482#pullrequestreview-4361580166) - 2026-05-26
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

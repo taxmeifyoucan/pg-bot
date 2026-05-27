@@ -110,6 +110,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [chore: Remove redundant command line option](https://github.com/NethermindEth/nethermind/pull/11723) - 2026-05-22
 * [Review] [Review on: feat(runner): add --logging-format CLI for structured console logs](https://github.com/NethermindEth/nethermind/pull/11610#pullrequestreview-4343601420) - 2026-05-22
 * [Commit] [chore: Remove redundant command line option (#11723)](https://github.com/NethermindEth/nethermind/commit/a052c38b6e066fd825f73ce70f513cb5ee252e0f) - 2026-05-22
+* [Review] [Review on: ModExp exponent `int32` oveflow fix](https://github.com/NethermindEth/nethermind/pull/11692#pullrequestreview-4365551624) - 2026-05-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 ## Q1 2026

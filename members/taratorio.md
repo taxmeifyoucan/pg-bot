@@ -180,6 +180,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution,cl: add TargetGasLimit to PayloadAttributesV4 (#21297)](https://github.com/erigontech/erigon/commit/6214b032c8c8a6bf7d395d7033bf35f9c0695c18) - 2026-05-25
 * [Commit] [execution: ci change eest-spec-shards definition file to yaml (#21393)](https://github.com/erigontech/erigon/commit/ea11fbe3b41749765621afcf7b2f79ff3e17a1ab) - 2026-05-25
 * [Commit] [execution: fix exec to not return ErrLoopExhausted on last block (#21392)](https://github.com/erigontech/erigon/commit/4faa59da5268f2398b386dff6fe84f6d20acd532) - 2026-05-25
+* [Pull Request] [execution: prometheus metrics for engine_newPayload, engine_fcu, insert blocks, validate chain requests](https://github.com/erigontech/erigon/pull/21433) - 2026-05-27
+* [Pull Request] [execution: optimise selfbalance worst-case benchmark](https://github.com/erigontech/erigon/pull/21420) - 2026-05-26
+* [Review] [Review on: execution/stagedsync: move coinbase/burnt tip credit out of finalize into apply-loop pre-validate step](https://github.com/erigontech/erigon/pull/21423#pullrequestreview-4368870944) - 2026-05-27
+* [Commit] [txnprovider/shutter: follow up update for EIP-8037 (#21399)](https://github.com/erigontech/erigon/commit/029708fce7f9f8590ef598d30896425d86831574) - 2026-05-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

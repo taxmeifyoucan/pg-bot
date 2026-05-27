@@ -44,6 +44,10 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): support external t8n stateless input/output byte generation](https://github.com/ethereum/execution-specs/pull/2889) - 2026-05-20
 * [Review] [Review on: feat(zkevm): support external t8n stateless input/output byte generation](https://github.com/ethereum/execution-specs/pull/2889#pullrequestreview-4330092741) - 2026-05-20
 * [Review] [Review on: feat(ci): overhaul fixture releases](https://github.com/ethereum/execution-specs/pull/2888#pullrequestreview-4357859397) - 2026-05-25
+* [Pull Request] [feat(zkevm): explicitly fail stateless validation for invalid input bytes & add proper tests](https://github.com/ethereum/execution-specs/pull/2918) - 2026-05-26
+* [Review] [Review on: feat(zkevm): explicitly fail stateless validation for invalid input bytes & add proper tests](https://github.com/ethereum/execution-specs/pull/2918#pullrequestreview-4365814705) - 2026-05-26
+* [Pull Request] [feat(zkevm): revisit SSZ-Lists max lengths and properly document rationale for them](https://github.com/ethereum/execution-specs/pull/2919) - 2026-05-26
+* [Review] [Review on: feat(zkevm): revisit SSZ-Lists max lengths and properly document rationale for them](https://github.com/ethereum/execution-specs/pull/2919#pullrequestreview-4367435929) - 2026-05-26
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01

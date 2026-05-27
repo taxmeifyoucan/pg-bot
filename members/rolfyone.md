@@ -85,6 +85,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Ethspecify altair + bellatrix update](https://github.com/Consensys/teku/pull/10750#pullrequestreview-4358697482) - 2026-05-25
 * [Commit] [Remove unused beacon REST API dependencies (#10745)](https://github.com/Consensys/teku/commit/a4e1b6844e611ca10a4c2245e529411bde426624) - 2026-05-25
 * [Commit] [added some ignores for agents (#10746)](https://github.com/Consensys/teku/commit/31a957cc83b2585d03e28da7ebc6692c1b141f51) - 2026-05-25
+* [Review] [Review on: Update netty ](https://github.com/Consensys/teku/pull/10751#pullrequestreview-4367621326) - 2026-05-26
+* [Review] [Review on: Ethspecify altair + bellatrix update](https://github.com/Consensys/teku/pull/10750#pullrequestreview-4367636628) - 2026-05-26
+* [Review] [Review on: Add target_gas_limit to PayloadAttributes](https://github.com/Consensys/teku/pull/10748#pullrequestreview-4367759317) - 2026-05-26
+* [Review] [Review on: Introduce separate payload availability deadline + make naturalSet/Map only write ordered](https://github.com/Consensys/teku/pull/10749#pullrequestreview-4367720572) - 2026-05-26
+* [Review] [Review on: Fix FcU withdrawals calculation](https://github.com/Consensys/teku/pull/10752#pullrequestreview-4367591058) - 2026-05-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

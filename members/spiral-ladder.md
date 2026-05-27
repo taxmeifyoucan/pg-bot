@@ -120,6 +120,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: refactor: update APIs related to voluntary exits](https://github.com/ChainSafe/lodestar-z/pull/378#pullrequestreview-4357076427) - 2026-05-25
 * [Review] [Review on: fix: improve atomic ordering in ThreadPool and NAPI init](https://github.com/ChainSafe/lodestar-z/pull/310#pullrequestreview-4355354155) - 2026-05-25
 * [Review] [Review on: feat: getSyncCommitteesWitness](https://github.com/ChainSafe/lodestar-z/pull/367#pullrequestreview-4354395240) - 2026-05-25
+* [Pull Request] [fix: isExecutionEnabled accepts block object](https://github.com/ChainSafe/lodestar-z/pull/379) - 2026-05-26
+* [Review] [Review on: fix: isExecutionEnabled accepts block object](https://github.com/ChainSafe/lodestar-z/pull/379#pullrequestreview-4364972664) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 
@@ -130,6 +132,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [chore: install zig 0.16.0 in Dockerfile](https://github.com/ChainSafe/lodestar/pull/9371) - 2026-05-14
 * [Review] [Review on: chore: install zig 0.16.0 in Dockerfile](https://github.com/ChainSafe/lodestar/pull/9371#pullrequestreview-4288639588) - 2026-05-14
 * [Commit] [chore: support dev lodestar-z workflow (#9371)](https://github.com/ChainSafe/lodestar/commit/6ef8199cfae3693f24596817a69b855036dfb7ba) - 2026-05-20
+* [Review] [Review on: chore: surface same-message BLS retry metrics on dashboard](https://github.com/ChainSafe/lodestar/pull/9407#pullrequestreview-4363646628) - 2026-05-26
 ## Q1 2026
 
 

@@ -230,6 +230,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: v1.43.0 release](https://github.com/ChainSafe/lodestar/pull/9344#pullrequestreview-4326730569) - 2026-05-20
 * [Issue] [Request missing columns by root to serve blobs](https://github.com/ChainSafe/lodestar/issues/9404) - 2026-05-25
 * [Issue] [Process payload attestations from different branches](https://github.com/ChainSafe/lodestar/issues/9403) - 2026-05-25
+* [Pull Request] [fix: validate execution payload bids against parent branch state](https://github.com/ChainSafe/lodestar/pull/9409) - 2026-05-26
+* [Review] [Review on: fix: validate execution payload bids against parent branch state](https://github.com/ChainSafe/lodestar/pull/9409#pullrequestreview-4368255095) - 2026-05-26
+* [Review] [Review on: feat: force the proposer to reorg unavailable blocks](https://github.com/ChainSafe/lodestar/pull/9387#pullrequestreview-4365199678) - 2026-05-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -301,6 +304,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Yield mutated state in gossip block test](https://github.com/ethereum/consensus-specs/pull/5252) - 2026-05-14
 * [Commit] [Add `target_gas_limit` to `PayloadAttributes` (#5235)](https://github.com/ethereum/consensus-specs/commit/5ea5de9245f367c6d7ecd48ed7569392cd81243c) - 2026-05-15
 * [Commit] [Yield mutated state in gossip block test (#5252)](https://github.com/ethereum/consensus-specs/commit/3696402c15c992fe4d36c81e72e758352b5afdb2) - 2026-05-14
+* [Review] [Review on: Add executable gossip validation functions for gloas](https://github.com/ethereum/consensus-specs/pull/5294#pullrequestreview-4367823969) - 2026-05-26
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 

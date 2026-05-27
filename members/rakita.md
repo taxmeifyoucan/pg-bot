@@ -120,6 +120,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: v111 release prep (#3706)](https://github.com/bluealloy/revm/commit/eead9ee6ca007c9148e3dc8436062874d301b466) - 2026-05-22
 * [Commit] [feat(database): add is_fatal to DBErrorMarker (#3704)](https://github.com/bluealloy/revm/commit/5f5163fcddf92b6a41e7b9a587272c3c0c0af298) - 2026-05-22
 * [Pull Request] [feat(context): implement EIP-8246 (remove SELFDESTRUCT burn)](https://github.com/bluealloy/revm/pull/3717) - 2026-05-25
+* [Pull Request] [chore: release prep — bump all crates with unpublished changes](https://github.com/bluealloy/revm/pull/3721) - 2026-05-26
+* [Pull Request] [feat(eip7702): defer delegate code load via BytecodeLoad enum](https://github.com/bluealloy/revm/pull/3720) - 2026-05-26
+* [Pull Request] [fix(eip-8037): exclude floor and refund from block_regular_gas_used](https://github.com/bluealloy/revm/pull/3719) - 2026-05-26
+* [Commit] [chore: release prep — bump all crates with unpublished changes (#3721)](https://github.com/bluealloy/revm/commit/bf2ce7197ad072a6f5f7416be07813ac99510b93) - 2026-05-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

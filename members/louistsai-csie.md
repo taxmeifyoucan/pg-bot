@@ -106,6 +106,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(ci): overhaul fixture releases](https://github.com/ethereum/execution-specs/pull/2888#pullrequestreview-4357291083) - 2026-05-25
 * [Review] [Review on: feat(test-benchmark): add more modexp precompile benchmark scenario](https://github.com/ethereum/execution-specs/pull/2896#pullrequestreview-4355756803) - 2026-05-25
 * [Review] [Review on: fix(specs): backport ``check_gas`` before state access boundaries from Amsterdam](https://github.com/ethereum/execution-specs/pull/2903#pullrequestreview-4357188498) - 2026-05-25
+* [Issue] [Stateful filling refactors & missing feature tracker](https://github.com/ethereum/execution-specs/issues/2910) - 2026-05-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

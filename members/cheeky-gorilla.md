@@ -56,6 +56,11 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Add Aztec blog](https://github.com/protocolguild/protocol-guild-site/commit/056d10318a1da882540d36f3b5f06caeecad1d45) - 2026-05-12
 * [Commit] [Add Aztec blog](https://github.com/protocolguild/protocol-guild-site/commit/3adbefe4108cea27b8d51295a6f2c47b57c72442) - 2026-05-12
 * [Commit] [Add Aztec logo](https://github.com/protocolguild/protocol-guild-site/commit/b0be624f87037e89330147e12457fe55f151385e) - 2026-05-12
+* [Commit] [Q2 '26 update - repos](https://github.com/protocolguild/protocol-guild-site/commit/a4dc8875342bf397e3b902c69d4649ed753a9d09) - 2026-05-26
+* [Commit] [Q2 '26 update - # of members](https://github.com/protocolguild/protocol-guild-site/commit/63f3d7ab0f213d9ec16df90011422c7f4466de54) - 2026-05-26
+* [Commit] [Q2 '26 update - # of members](https://github.com/protocolguild/protocol-guild-site/commit/88f4a32b88e84ce973e3de2d22a62c25031b2ec9) - 2026-05-26
+* [Commit] [Q2 '26 update - $ distributed + # of members](https://github.com/protocolguild/protocol-guild-site/commit/c4141a424733249219ab4389e01d0f1fa2df8ce4) - 2026-05-26
+* [Commit] [Q2 '26 membership update - members](https://github.com/protocolguild/protocol-guild-site/commit/d362cf340032fb53402d802e8f034d7429cfa1d4) - 2026-05-26
 ## Q1 2026
 
 

@@ -65,6 +65,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[TEST] Simplify voting source selection](https://github.com/erigontech/erigon/pull/21377) - 2026-05-23
 * [Review] [Review on: [WIP] cl: implement consensus-specs v1.7.0-alpha.8 for Gloas devnet-4](https://github.com/erigontech/erigon/pull/21308#pullrequestreview-4353891137) - 2026-05-25
 * [Pull Request] [cl: add per-directory spec maps for Caplin consensus code](https://github.com/erigontech/erigon/pull/21400) - 2026-05-25
+* [Review] [Review on: cl: implement consensus-specs v1.7.0-alpha.8 for Gloas devnet-4](https://github.com/erigontech/erigon/pull/21308#pullrequestreview-4365861162) - 2026-05-26
+* [Pull Request] [cl/forkchoice: replace HasEnvelope with verifiedExecutionPayload in GLOAS fork choice](https://github.com/erigontech/erigon/pull/21417) - 2026-05-26
+* [Review] [Review on: cl/gossip: keep max expiry for topic subscriptions](https://github.com/erigontech/erigon/pull/21316#pullrequestreview-4362592449) - 2026-05-26
+* [Review] [Review on: cl/solid: tighten TransactionsSSZ decode bounds](https://github.com/erigontech/erigon/pull/21406#pullrequestreview-4362555960) - 2026-05-26
+* [Review] [Review on: cl/block_collector: validate persistent block values](https://github.com/erigontech/erigon/pull/21396#pullrequestreview-4362485592) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

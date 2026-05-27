@@ -104,6 +104,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Cap Gloas pending column cell count, reject malformed sidecars](https://github.com/OffchainLabs/prysm/pull/16831#pullrequestreview-4347772378) - 2026-05-22
 * [Review] [Review on: Dedup bid at the earliest point in gossip validation](https://github.com/OffchainLabs/prysm/pull/16832#pullrequestreview-4347735914) - 2026-05-22
 * [Commit] [implements ptc beacon apis (#16306)](https://github.com/OffchainLabs/prysm/commit/02d810175891da41040467b1d8c674de6bf46026) - 2026-05-22
+* [Review] [Review on: fix gloas proposal endpoint support](https://github.com/OffchainLabs/prysm/pull/16818#pullrequestreview-4367539400) - 2026-05-26
+* [Review] [Review on: Guard against nil bid in Gloas envelope and log paths](https://github.com/OffchainLabs/prysm/pull/16845#pullrequestreview-4367627338) - 2026-05-26
+* [Review] [Review on: reworking proposer preference validation to avoid state lookup](https://github.com/OffchainLabs/prysm/pull/16830#pullrequestreview-4365738485) - 2026-05-26
+* [Review] [Review on: Optimize beacon API (REST and gRPC) regarding endpoints needing to iterate over the whole validator set.](https://github.com/OffchainLabs/prysm/pull/16838#pullrequestreview-4364697509) - 2026-05-26
+* [Commit] [reworking proposer preference validation to avoid state lookup (#16830)](https://github.com/OffchainLabs/prysm/commit/0ce86f432f7b8f6bb0e40e302267f4e2b37b7c1b) - 2026-05-26
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

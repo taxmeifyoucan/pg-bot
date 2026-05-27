@@ -130,6 +130,7 @@ Team: Erigon
 * [Review] [Review on: eest: add EIP-8025 execution witness test suite (93 zkevm fixtures)](https://github.com/erigontech/erigon/pull/20938#pullrequestreview-4346053335) - 2026-05-22
 * [Pull Request] [[dnm][r36] Disable referenced keys in commitment files, bump version](https://github.com/erigontech/erigon/pull/21376) - 2026-05-23
 * [Pull Request] [[performance] Disable referenced keys in commitment files, bump version](https://github.com/erigontech/erigon/pull/21375) - 2026-05-23
+* [Pull Request] [commitment: fix warmuper arena data race in HashSort](https://github.com/erigontech/erigon/pull/21432) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

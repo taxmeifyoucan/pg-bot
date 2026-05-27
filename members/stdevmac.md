@@ -67,6 +67,12 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [HelloMessageSerializer drops peers with capability protocol codes longer than 8 bytes (1.38 regression)](https://github.com/NethermindEth/nethermind/issues/11751) - 2026-05-25
 * [Issue] [eth/70: peer with block header but no receipts causes `Receipt count mismatch` and disconnects honest peers](https://github.com/NethermindEth/nethermind/issues/11752) - 2026-05-25
 * [Commit] [Fix DbTracker repeatedly logging ObjectDisposedException after disposal (#11720)](https://github.com/NethermindEth/nethermind/commit/2a5301704ec61efe1e26b35a24c50074b7f1deac) - 2026-05-25
+* [Commit] [Fix Eth69/Eth70 receipt tests for null-means-unknown contract](https://github.com/NethermindEth/nethermind/commit/b7af91f8cf1fb10c9e81383a63df3d4a8e88f380) - 2026-05-26
+* [Commit] [Drop redundant FindHeader pre-check in receipt response loop](https://github.com/NethermindEth/nethermind/commit/742cb1ae05d54e32468ede8c5a06105937aef32e) - 2026-05-26
+* [Commit] [Revert "ci: retrigger workflows (Flat DB test was flaky)"](https://github.com/NethermindEth/nethermind/commit/c50c5041628e37c0c6fbf59fa0d881c4c6ea25b9) - 2026-05-26
+* [Commit] [ci: retrigger workflows (Flat DB test was flaky)](https://github.com/NethermindEth/nethermind/commit/b798c4a3e7755923f347d08b86dbf669ed3fe27f) - 2026-05-26
+* [Commit] [refactor(eth/70): disambiguate "unknown" vs "legit empty" in ISyncServer.GetReceipts](https://github.com/NethermindEth/nethermind/commit/1d880beaa5e73891dab24482a71ff12fdecf965e) - 2026-05-26
+* [Commit] [fix(eth/70): stop response early when block has txs but no receipts](https://github.com/NethermindEth/nethermind/commit/f0f6ea27b84e992465caf191b33e09193899d20e) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

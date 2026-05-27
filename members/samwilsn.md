@@ -67,6 +67,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec-spec, tests): Implement eip-8246 and testing scenario](https://github.com/ethereum/execution-specs/pull/2842#pullrequestreview-4357946611) - 2026-05-25
 * [Pull Request] [chore(specs): refactor block reward and fee refunds](https://github.com/ethereum/execution-specs/pull/2908) - 2026-05-25
 * [Review] [Review on: chore(specs): refactor block reward and fee refunds](https://github.com/ethereum/execution-specs/pull/2908#pullrequestreview-4357917160) - 2026-05-25
+* [Review] [Review on: feat(tests,ci): Verify filled benchmark fixtures against EELS via json_loader](https://github.com/ethereum/execution-specs/pull/2894#pullrequestreview-4365923930) - 2026-05-26
 ## Q1 2026
 
 

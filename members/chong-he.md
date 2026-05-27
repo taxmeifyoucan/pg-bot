@@ -45,6 +45,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Append client version info to user graffiti by default](https://github.com/sigp/lighthouse/pull/9313#pullrequestreview-4353714192) - 2026-05-25
 * [Review] [Review on: Implement GET `v2/node/version` endpoint](https://github.com/sigp/lighthouse/pull/9171#pullrequestreview-4354018390) - 2026-05-25
 * [Review] [Review on: add user-agent header to all http clients](https://github.com/sigp/lighthouse/pull/8786#pullrequestreview-4354017795) - 2026-05-25
+* [Review] [Review on: Add `POST beacon/bid` endpoint](https://github.com/sigp/lighthouse/pull/9347#pullrequestreview-4362546392) - 2026-05-26
+* [Pull Request] [Add payload attestation test to validator client](https://github.com/sigp/lighthouse/pull/9357) - 2026-05-26
 ## Q1 2026
 
 

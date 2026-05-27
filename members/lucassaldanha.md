@@ -129,6 +129,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Verify message `from` matches signing key (01)](https://github.com/libp2p/jvm-libp2p/pull/480) - 2026-05-21
 * [Pull Request] [Release ByteBuf on control frames and invalid stream tag](https://github.com/libp2p/jvm-libp2p/pull/479) - 2026-05-21
 * [Commit] [Release ByteBuf on control frames and invalid stream tag (#479)](https://github.com/libp2p/jvm-libp2p/commit/18b0d95cae7d90d6cc6015924754c39ae1fcc1a9) - 2026-05-21
+* [Commit] [Addressing gaps identified on QUIC implementation (#476)](https://github.com/libp2p/jvm-libp2p/commit/3af227d1bc453cd30eb775860462d917bde1411d) - 2026-05-27
+* [Commit] [Verify message `from` matches signing key (01) (#480)](https://github.com/libp2p/jvm-libp2p/commit/ba322e3a5251c85fe1007c30d85ce89e08179eb7) - 2026-05-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

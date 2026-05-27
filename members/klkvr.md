@@ -162,6 +162,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat(trie): add open-ended ordered root builder](https://github.com/paradigmxyz/reth/pull/24419#pullrequestreview-4355738007) - 2026-05-25
 * [Commit] [feat: support disabling pipeline stages (#24436)](https://github.com/paradigmxyz/reth/commit/99425616f06be6ae2affd448abe175f3fd3df9e6) - 2026-05-25
 * [Commit] [fix: recompute hashed state on state root task failures (#24506)](https://github.com/paradigmxyz/reth/commit/278c60216f1cd9a13c4159b5db54c43f54e8609a) - 2026-05-25
+* [Review] [Review on: chore: bump revm to 40.0.3](https://github.com/paradigmxyz/reth/pull/24562#pullrequestreview-4364863512) - 2026-05-26
+* [Review] [Review on: fix(parbal): remove load_bal_accounts](https://github.com/paradigmxyz/reth/pull/24559#pullrequestreview-4364165788) - 2026-05-26
+* [Review] [Review on: feat: unify ordered trie encoders](https://github.com/paradigmxyz/reth/pull/24523#pullrequestreview-4363098602) - 2026-05-26
+* [Review] [Review on: fix(rpc): default eth_simulateV1 fee fields to 0 per spec](https://github.com/paradigmxyz/reth/pull/24386#pullrequestreview-4363732252) - 2026-05-26
+* [Review] [Review on: fix(rpc): default eth_simulateV1 per-call gas to remaining block gas](https://github.com/paradigmxyz/reth/pull/24387#pullrequestreview-4363752138) - 2026-05-26
+* [Commit] [feat: unify ordered trie encoders (#24523)](https://github.com/paradigmxyz/reth/commit/5635fc28c8cda16f98540ceaa2b9b90d1d6c0261) - 2026-05-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

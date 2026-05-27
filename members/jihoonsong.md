@@ -56,6 +56,9 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Add executable gossip validation functions for fulu](https://github.com/ethereum/consensus-specs/pull/5246#pullrequestreview-4307581025) - 2026-05-18
 * [Review] [Review on: Remove testing checklists](https://github.com/ethereum/consensus-specs/pull/5270#pullrequestreview-4319565723) - 2026-05-19
 * [Review] [Review on: Enable more ruff lint checks](https://github.com/ethereum/consensus-specs/pull/5268#pullrequestreview-4334082057) - 2026-05-21
+* [Pull Request] [Clarify ILs and payload validity comment and align IL p2p rules](https://github.com/ethereum/consensus-specs/pull/5289) - 2026-05-26
+* [Review] [Review on: Clarify ILs and payload validity comment and align IL p2p rules](https://github.com/ethereum/consensus-specs/pull/5289#pullrequestreview-4363334079) - 2026-05-26
+* [Commit] [Clarify ILs and payload validity comment and align IL p2p rules (#5289)](https://github.com/ethereum/consensus-specs/commit/bdaa1f8e482e131e1ed91f1db7ff88f85967ae5f) - 2026-05-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

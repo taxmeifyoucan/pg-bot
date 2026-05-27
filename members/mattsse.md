@@ -497,6 +497,17 @@ Team: Reth
 * [Commit] [feat(txpool): add retain_contains helper (#24482)](https://github.com/paradigmxyz/reth/commit/578680aef612fc4f8eea215b3a3a264aef8ce366) - 2026-05-25
 * [Commit] [perf(evm): preallocate chain transaction hashes (#24478)](https://github.com/paradigmxyz/reth/commit/f148781d170502442a262747f34cd5052cef1b87) - 2026-05-25
 * [Commit] [refactor(evm): add chain transaction hash iterator (#24493)](https://github.com/paradigmxyz/reth/commit/1a8f30e86da3f1d053046c43d06eec6196ab0507) - 2026-05-25
+* [Pull Request] [feat(transaction-pool): add borrowed pool transactions iterator](https://github.com/paradigmxyz/reth/pull/24556) - 2026-05-26
+* [Review] [Review on: perf(txpool): preallocate propagation vectors](https://github.com/paradigmxyz/reth/pull/24554#pullrequestreview-4363360371) - 2026-05-26
+* [Review] [Review on: feat(rpc): add eth simulate state root flag](https://github.com/paradigmxyz/reth/pull/24564#pullrequestreview-4367378624) - 2026-05-26
+* [Pull Request] [refactor(net): use B256 collections for tx hashes](https://github.com/paradigmxyz/reth/pull/24565) - 2026-05-26
+* [Review] [Review on: perf(txpool): preallocate reorg mined hash set](https://github.com/paradigmxyz/reth/pull/24555#pullrequestreview-4363357058) - 2026-05-26
+* [Review] [Review on: fix(net): add eth_72 to supports_eth](https://github.com/paradigmxyz/reth/pull/24536#pullrequestreview-4360926013) - 2026-05-26
+* [Review] [Review on: fix(rpc): export Anvil and Hardhat server traits](https://github.com/paradigmxyz/reth/pull/24537#pullrequestreview-4360921111) - 2026-05-26
+* [Review] [Review on: fix(engine): align BAL gas admission](https://github.com/paradigmxyz/reth/pull/24107#pullrequestreview-4360903367) - 2026-05-26
+* [Commit] [feat(transaction-pool): add borrowed pool transactions iterator (#24556)](https://github.com/paradigmxyz/reth/commit/980872d606b4f28a34eacc621bfd9a74c4f6f1aa) - 2026-05-26
+* [Commit] [refactor(net): use B256 collections for tx hashes (#24565)](https://github.com/paradigmxyz/reth/commit/283cc32396784be892ee8343ccde80dc8716f126) - 2026-05-26
+* [Commit] [fix(rpc): default eth_simulateV1 fee fields to 0 per spec (#24386)](https://github.com/paradigmxyz/reth/commit/e84f716b31d05706196f817077962850e4fd7c2b) - 2026-05-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

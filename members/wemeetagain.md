@@ -39,6 +39,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: support dev workflow](https://github.com/ChainSafe/lodestar-z/pull/364#pullrequestreview-4310512287) - 2026-05-18
 * [Commit] [chore: support dev workflow (#364)](https://github.com/ChainSafe/lodestar-z/commit/fcb9a78dc10bdbe22b7d9a74e6db5100c1be21ca) - 2026-05-19
 * [Review] [Review on: feat: support getLatestWeakSubjectivityCheckpointEpoch](https://github.com/ChainSafe/lodestar-z/pull/366#pullrequestreview-4331314941) - 2026-05-20
+* [Review] [Review on: perf(pmt): chunked-leaf packing for basic lists and container_struct](https://github.com/ChainSafe/lodestar-z/pull/346#pullrequestreview-4367815353) - 2026-05-26
+* [Review] [Review on: fix: harden memory safety across PMT, SSZ tree views, and state transition](https://github.com/ChainSafe/lodestar-z/pull/377#pullrequestreview-4367697047) - 2026-05-26
+* [Issue] [Remove gemini bot](https://github.com/ChainSafe/lodestar-z/issues/380) - 2026-05-26
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -115,6 +118,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: force the proposer to reorg unavailable blocks](https://github.com/ChainSafe/lodestar/pull/9387#pullrequestreview-4337396939) - 2026-05-21
 * [Review] [Review on: chore: add logs and metrics for execution payload](https://github.com/ChainSafe/lodestar/pull/9370#pullrequestreview-4337391723) - 2026-05-21
 * [Commit] [feat: check gas limit consistency with the target (#9391)](https://github.com/ChainSafe/lodestar/commit/985999b30c2414620973be840096d62aee82f54d) - 2026-05-21
+* [Review] [Review on: test: add on_payload_attestation_message fork choice test handler](https://github.com/ChainSafe/lodestar/pull/9384#pullrequestreview-4364700132) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

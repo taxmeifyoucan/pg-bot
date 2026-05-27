@@ -75,8 +75,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Fix UpdateHead doc: caller must NOT hold forkchoice lock](https://github.com/OffchainLabs/prysm/pull/16841#pullrequestreview-4356993020) - 2026-05-25
 * [Review] [Review on: Clear dangling origin checkpoint pointer on historical prune](https://github.com/OffchainLabs/prysm/pull/16834#pullrequestreview-4359081706) - 2026-05-25
 * [Issue] [`/prysm/v1/validators/head/active_set_changes` returns the full active validators set, instead of only those that became activated during the epoch](https://github.com/OffchainLabs/prysm/issues/16842) - 2026-05-25
+* [Review] [Review on: Optimize beacon API (REST and gRPC) regarding endpoints needing to iterate over the whole validator set.](https://github.com/OffchainLabs/prysm/pull/16838#pullrequestreview-4364446273) - 2026-05-26
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Rebase EIP-8025 from Fulu onto Gloas](https://github.com/ethereum/consensus-specs/pull/5290) - 2026-05-26
 ## Q1 2026
 
 

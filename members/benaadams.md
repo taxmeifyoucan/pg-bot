@@ -241,6 +241,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test: improve test coverage in Nethermind.State.Flat](https://github.com/NethermindEth/nethermind/pull/11695#pullrequestreview-4355786240) - 2026-05-25
 * [Review] [Review on: fix(sync): accept receipts with zero bloom from peers](https://github.com/NethermindEth/nethermind/pull/11743#pullrequestreview-4355801077) - 2026-05-25
 * [Review] [Review on: Fix Geth genesis deposit contract fallback to use zero address](https://github.com/NethermindEth/nethermind/pull/11740#pullrequestreview-4354118840) - 2026-05-25
+* [Review] [Review on: RPC: trace_* streaming approach](https://github.com/NethermindEth/nethermind/pull/11755#pullrequestreview-4366754930) - 2026-05-26
+* [Review] [Review on: chore: enforce IDE0130 (namespace matches folder structure)](https://github.com/NethermindEth/nethermind/pull/11762#pullrequestreview-4363963144) - 2026-05-26
+* [Review] [Review on: Make EraE tests visible and green](https://github.com/NethermindEth/nethermind/pull/11727#pullrequestreview-4366691501) - 2026-05-26
+* [Review] [Review on: Disconnect on unknown protocol message type](https://github.com/NethermindEth/nethermind/pull/11266#pullrequestreview-4361866049) - 2026-05-26
+* [Review] [Review on: fix: suppress ExecutionContext flow in prewarmer to fix non-deterministic block stats](https://github.com/NethermindEth/nethermind/pull/11597#pullrequestreview-4362023074) - 2026-05-26
+* [Review] [Review on: refactor(core): centralize EIP-7702 SetCode shape checks](https://github.com/NethermindEth/nethermind/pull/11641#pullrequestreview-4360621504) - 2026-05-26
+* [Review] [Review on: Add NETH004: enforce RunContinuationsAsynchronously on TaskCompletionSource](https://github.com/NethermindEth/nethermind/pull/11465#pullrequestreview-4360529948) - 2026-05-26
+* [Commit] [Improve JsonRpc plumbing (#11697)](https://github.com/NethermindEth/nethermind/commit/44eea0be841fa4133ae4a819d36b10f4b055610a) - 2026-05-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

@@ -51,6 +51,8 @@ Team: EthereumJS
 * [Commit] [vm: fix EIP-7778 / EIP-8037 fixture regressions (#4307)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/c17e66891742e54c53a75dd3e674320ea288c238) - 2026-05-21
 * [Commit] [vm: EIP-7976 floor-gas test fixes (broaden exception regex) (#4305)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/9add6bb744df1aaf9df94660def1c22c9d7c79f2) - 2026-05-21
 * [Commit] [mpt: awasm noble keccak | Benchmark comparison (#4278)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/baa83fe933f5a264d5fdc6fc86aa75a67023cd15) - 2026-05-21
+* [Pull Request] [deps: fix dependabot security alerts + dep-related cleanups](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4309) - 2026-05-26
+* [Commit] [deps: fix dependabot security alerts + dep-related cleanups (#4309)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/f4556b0ea1f4675c121422cf98b9064a1ab9acda) - 2026-05-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 * [Issue] [Stateless Implementer's Call #52, June 1, 2026](https://github.com/ethereum/pm/issues/2064) - 2026-05-19

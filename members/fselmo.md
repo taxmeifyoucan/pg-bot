@@ -89,6 +89,10 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(tests): Extend coverage for BAL](https://github.com/ethereum/execution-specs/pull/2897#pullrequestreview-4347374055) - 2026-05-22
 * [Issue] [Address failing slow tests on `forks/amsterdam`](https://github.com/ethereum/execution-specs/issues/2905) - 2026-05-22
 * [Review] [Review on: feat(ci): overhaul fixture releases](https://github.com/ethereum/execution-specs/pull/2888#pullrequestreview-4357631864) - 2026-05-25
+* [Pull Request] [feat(tests): extend BAL create collision test cases](https://github.com/ethereum/execution-specs/pull/2917) - 2026-05-26
+* [Review] [Review on: feat(tests): extend BAL create collision test cases](https://github.com/ethereum/execution-specs/pull/2917#pullrequestreview-4365799106) - 2026-05-26
+* [Review] [Review on: feat(tests): Extend coverage for BAL](https://github.com/ethereum/execution-specs/pull/2897#pullrequestreview-4365592802) - 2026-05-26
+* [Commit] [feat(tests): stateful test filling for benchmark tests (#2637)](https://github.com/ethereum/execution-specs/commit/1596cf66f66a77d2ca956029527a13f9afd2903e) - 2026-05-26
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14

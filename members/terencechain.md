@@ -190,6 +190,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: beacon-chain/execution: remove double metrics Observe in getBlobsV3](https://github.com/OffchainLabs/prysm/pull/16843#pullrequestreview-4358837082) - 2026-05-25
 * [Commit] [Don't mutate live head state in getLatePayloadAttribute (#16836)](https://github.com/OffchainLabs/prysm/commit/52d2eadecdb36aef65e8b70c5a7a7efaa2686d62) - 2026-05-25
 * [Commit] [Fix UpdateHead doc: caller must NOT hold forkchoice lock (#16841)](https://github.com/OffchainLabs/prysm/commit/225e2adce6d9a32aca1b232df226099aa58a77ed) - 2026-05-25
+* [Pull Request] [Guard against nil bid in Gloas envelope and log paths](https://github.com/OffchainLabs/prysm/pull/16845) - 2026-05-26
+* [Commit] [Use HeadSlot() in computePayloadWithdrawals (#16840)](https://github.com/OffchainLabs/prysm/commit/a09e2da3e4b1c8f30f42244ded51cd1a32dd2adb) - 2026-05-27
+* [Commit] [Add signature to batch (#16837)](https://github.com/OffchainLabs/prysm/commit/50a1a5a8bfb398cce0e0a67d0b5bac15f234b71d) - 2026-05-26
+* [Commit] [Guard against nil bid in Gloas envelope and log paths (#16845)](https://github.com/OffchainLabs/prysm/commit/360e2ae8f30cd239661e09d9ab8671854efada01) - 2026-05-26
+* [Commit] [Add batch verify for deposit request signatures (#16810)](https://github.com/OffchainLabs/prysm/commit/ab460bae6159bcb53644cd8044dc1220da2c9067) - 2026-05-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

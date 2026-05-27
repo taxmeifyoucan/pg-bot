@@ -75,6 +75,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: add stateless path to publishExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9401) - 2026-05-23
 * [Review] [Review on: feat: add stateless path to publishExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9401#pullrequestreview-4351271733) - 2026-05-23
 * [Pull Request] [fix: move beacon_block_root from path to query in getExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9402) - 2026-05-23
+* [Pull Request] [feat: add beacon buddy](https://github.com/ChainSafe/lodestar/pull/9410) - 2026-05-27
+* [Review] [Review on: feat: add beacon buddy](https://github.com/ChainSafe/lodestar/pull/9410#pullrequestreview-4368865618) - 2026-05-27
+* [Review] [Review on: feat: add stateless path to publishExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9401#pullrequestreview-4360202527) - 2026-05-26
+* [Pull Request] [fix: skip casting payload attestation when there is no block at slot](https://github.com/ChainSafe/lodestar/pull/9406) - 2026-05-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 
@@ -88,6 +92,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Set `blob_data_available` in `PayloadAttestationMessage`](https://github.com/ethereum/consensus-specs/pull/4769#pullrequestreview-4197706934) - 2026-04-29
 * [Review] [Review on: Clarify sentence about refunded deposits to exited builders](https://github.com/ethereum/consensus-specs/pull/5269#pullrequestreview-4321640241) - 2026-05-19
 * [Pull Request] [Reject gloas PTC attestations cast against an empty assigned slot](https://github.com/ethereum/consensus-specs/pull/5281) - 2026-05-24
+* [Review] [Review on: Ignore PTC attestations for empty assigned slots](https://github.com/ethereum/consensus-specs/pull/5281#pullrequestreview-4368167175) - 2026-05-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
 ## Q1 2026

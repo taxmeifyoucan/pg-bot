@@ -214,6 +214,10 @@ Team: Erigon
 * [Review] [Review on: execution/stagedsync: tests for finalize coinbase/burnt fee write invalidation](https://github.com/erigontech/erigon/pull/21373#pullrequestreview-4358797267) - 2026-05-25
 * [Commit] [execution/stagedsync: tests for finalize coinbase/burnt fee write invalidation (#21373)](https://github.com/erigontech/erigon/commit/644b538e28f6ec081785e481c9401e43c0be247e) - 2026-05-25
 * [Commit] [ci: matrix-test serial vs parallel exec across the test workflows (#21017)](https://github.com/erigontech/erigon/commit/7827ec7268ffc9f4c4b97cfab6740d2f8fb1fdb2) - 2026-05-25
+* [Pull Request] [execution/stagedsync: move coinbase/burnt tip credit out of finalize into apply-loop pre-validate step](https://github.com/erigontech/erigon/pull/21423) - 2026-05-26
+* [Review] [Review on: execution/stagedsync: move coinbase/burnt tip credit out of finalize into apply-loop pre-validate step](https://github.com/erigontech/erigon/pull/21423#pullrequestreview-4365290038) - 2026-05-26
+* [Pull Request] [BAL-driven parallel commitment (PR #5 of the perf stack)](https://github.com/erigontech/erigon/pull/21416) - 2026-05-26
+* [Pull Request] [FCU semaphore decouple + foreground-priority bg-commit worker (PR #4 of the perf stack)](https://github.com/erigontech/erigon/pull/21414) - 2026-05-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

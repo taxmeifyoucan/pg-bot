@@ -66,6 +66,10 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: miner: re-used basefee and big.Int in loop](https://github.com/ethereum/go-ethereum/pull/34783#pullrequestreview-4289615056) - 2026-05-14
 * [Commit] [core/txpool/blobpool: silence GetRLP miss-log spam (#34965)](https://github.com/ethereum/go-ethereum/commit/6f6d006f74ffc650b9a598e8fcb1c757b8aaa15a) - 2026-05-15
 * [Review] [Review on: eth, internal/ethapi: add eth_capabilities RPC method](https://github.com/ethereum/go-ethereum/pull/33886#pullrequestreview-4311256989) - 2026-05-18
+* [Review] [Review on: cmd/clef, cmd/geth: remove CLI flags that were deprecated for more than a year](https://github.com/ethereum/go-ethereum/pull/35021#pullrequestreview-4360865820) - 2026-05-26
+* [Review] [Review on: eth, internal/ethapi: add eth_capabilities RPC method](https://github.com/ethereum/go-ethereum/pull/33886#pullrequestreview-4362664483) - 2026-05-26
+* [Commit] [.github: cancel CI run for stale PR commits (#34964)](https://github.com/ethereum/go-ethereum/commit/5933fa4bbf3d8a42f575cafcdc9fe9b80b038b0e) - 2026-05-26
+* [Commit] [internal/ethapi: fix base fee too low error code in eth_simulateV1 (#34951)](https://github.com/ethereum/go-ethereum/commit/c0fc5e0bda7f14f6c29231b5f1b1a1be2245f9b7) - 2026-05-26
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20
@@ -76,6 +80,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: relax eth_simulateV1 errors, define debug_getRawTransaction](https://github.com/ethereum/execution-apis/pull/791#pullrequestreview-4274740984) - 2026-05-12
 * [Review] [Review on: feat: eth_baseFee](https://github.com/ethereum/execution-apis/pull/795#pullrequestreview-4280080040) - 2026-05-13
 * [Review] [Review on: relax eth_simulateV1 errors, define debug_getRawTransaction](https://github.com/ethereum/execution-apis/pull/791#pullrequestreview-4297655801) - 2026-05-15
+* [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4362659099) - 2026-05-26
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [cmd: add hivequery (hq) command](https://github.com/ethereum/hive/pull/1438) - 2026-04-20
 * [Commit] [cmd/hq: add hivequery (hq) command (#1438)](https://github.com/ethereum/hive/commit/e4209f3c6a50b82e022730f5e49c3b331fc10e8c) - 2026-04-21

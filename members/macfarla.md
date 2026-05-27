@@ -216,6 +216,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Add Bonsai debug modified accounts RPC methods](https://github.com/besu-eth/besu/pull/10487#pullrequestreview-4334409466) - 2026-05-21
 * [Review] [Review on: Enable NullAway static null-safety analysis for datatypes module](https://github.com/besu-eth/besu/pull/10394#pullrequestreview-4333584826) - 2026-05-21
 * [Review] [Review on: perf: parallelize block body DB lookups in engine_getPayloadBodies methods](https://github.com/besu-eth/besu/pull/10532#pullrequestreview-4359754219) - 2026-05-26
+* [Pull Request] [cache addressHash per-instance to eliminate lock contention](https://github.com/besu-eth/besu/pull/10558) - 2026-05-27
+* [Pull Request] [perf: cache last validated JWT token in EngineAuthService](https://github.com/besu-eth/besu/pull/10559) - 2026-05-27
+* [Review] [Review on: Add Bonsai debug modified accounts RPC methods](https://github.com/besu-eth/besu/pull/10487#pullrequestreview-4368785356) - 2026-05-27
+* [Pull Request] [Acceptance Tests: if error creating ports file, make it obvious](https://github.com/besu-eth/besu/pull/10555) - 2026-05-26
+* [Pull Request] [eliminate flaky port collision](https://github.com/besu-eth/besu/pull/10556) - 2026-05-27
+* [Review] [Review on: fix: use non-zero exit code on disk-full shutdown](https://github.com/besu-eth/besu/pull/10254#pullrequestreview-4368070221) - 2026-05-26
+* [Review] [Review on: Refactor: Extract EVMv2 stack manipulation unit tests](https://github.com/besu-eth/besu/pull/10535#pullrequestreview-4362214039) - 2026-05-26
+* [Commit] [eliminate flaky port collision (#10556)](https://github.com/besu-eth/besu/commit/7edfd9126cbb54008b492dbfa97a958128de1324) - 2026-05-27
+* [Commit] [Acceptance Tests: if error creating ports file, make it obvious (#10555)](https://github.com/besu-eth/besu/commit/ed338a3a2c7363d78fcb3472b02380322dbe8f77) - 2026-05-27
+* [Commit] [perf: parallelize block body DB lookups in engine_getPayloadBodies methods (#10532)](https://github.com/besu-eth/besu/commit/c6581ae1e782f27ebdb51e4b89bf957f77cc0f2e) - 2026-05-26
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 
