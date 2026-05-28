@@ -145,6 +145,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Change BAL DB key](https://github.com/NethermindEth/nethermind/pull/11761#pullrequestreview-4363729977) - 2026-05-26
 * [Review] [Review on: Disconnect on unknown protocol message type](https://github.com/NethermindEth/nethermind/pull/11266#pullrequestreview-4361804099) - 2026-05-26
 * [Commit] [Make EraE tests visible and green (#11727)](https://github.com/NethermindEth/nethermind/commit/24a4173c57f8bcf119465d8ec19cc32615c5f521) - 2026-05-26
+* [Review] [Review on: rpc: reject oversized blob calls](https://github.com/NethermindEth/nethermind/pull/11782#pullrequestreview-4373882946) - 2026-05-27
+* [Review] [Review on: Peers fix](https://github.com/NethermindEth/nethermind/pull/11797#pullrequestreview-4373048023) - 2026-05-27
+* [Review] [Review on: WriteBatch fix](https://github.com/NethermindEth/nethermind/pull/11793#pullrequestreview-4372163626) - 2026-05-27
+* [Review] [Review on: test: fix flaky KademliaNodeSource ping assertions](https://github.com/NethermindEth/nethermind/pull/11800#pullrequestreview-4372702838) - 2026-05-27
+* [Pull Request] [Activate BAL only when needed](https://github.com/NethermindEth/nethermind/pull/11795) - 2026-05-27
+* [Review] [Review on: Fix/eth69 blockrangeupdate validation](https://github.com/NethermindEth/nethermind/pull/11796#pullrequestreview-4372504894) - 2026-05-27
+* [Commit] [Unify assertions (#11567)](https://github.com/NethermindEth/nethermind/commit/ba5a91757a89fc67befa1f1542925b72b511391d) - 2026-05-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

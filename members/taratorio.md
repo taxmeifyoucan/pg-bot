@@ -184,6 +184,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: optimise selfbalance worst-case benchmark](https://github.com/erigontech/erigon/pull/21420) - 2026-05-26
 * [Review] [Review on: execution/stagedsync: move coinbase/burnt tip credit out of finalize into apply-loop pre-validate step](https://github.com/erigontech/erigon/pull/21423#pullrequestreview-4368870944) - 2026-05-27
 * [Commit] [txnprovider/shutter: follow up update for EIP-8037 (#21399)](https://github.com/erigontech/erigon/commit/029708fce7f9f8590ef598d30896425d86831574) - 2026-05-26
+* [Review] [Review on: re-introduce block catchup recovery](https://github.com/erigontech/erigon/pull/21415#pullrequestreview-4369071186) - 2026-05-27
+* [Review] [Review on: ci: surface merge-queue root cause when fail-fast cancels the run](https://github.com/erigontech/erigon/pull/21445#pullrequestreview-4371682007) - 2026-05-27
+* [Review] [Review on: grwoslice: use `slices.Grow` instead of hand-rolled grow funcs ](https://github.com/erigontech/erigon/pull/21439#pullrequestreview-4369880481) - 2026-05-27
+* [Review] [Review on: db/state: move `refcnt` to `visibleFiles` object](https://github.com/erigontech/erigon/pull/21397#pullrequestreview-4371636078) - 2026-05-27
+* [Commit] [execution: prometheus metrics for engine_newPayload, engine_fcu, insert blocks, validate chain requests (#21433)](https://github.com/erigontech/erigon/commit/a1f969930d180957a150a9d2fd1bddc02d549e97) - 2026-05-27
+* [Commit] [execution: optimise selfbalance worst-case benchmark (#21420)](https://github.com/erigontech/erigon/commit/8958aaf3b0b68a4d88a3f0e4815f4e9ebd261e2d) - 2026-05-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

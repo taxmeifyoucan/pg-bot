@@ -63,6 +63,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Update kzg trusted setup loading parameters](https://github.com/status-im/nimbus-eth1/pull/4260) - 2026-05-21
 * [Commit] [Implement debug_getRawBlockAccessList (#4261)](https://github.com/status-im/nimbus-eth1/commit/a6464a3d92376b7f36ae506bf1032ada8998f0be) - 2026-05-21
 * [Commit] [Update kzg trusted setup loading parameters (#4260)](https://github.com/status-im/nimbus-eth1/commit/a91f5154f93b1dddda8b8538432ebd8d60dc647f) - 2026-05-21
+* [Pull Request] [Optimistic state prefetch lru improvements](https://github.com/status-im/nimbus-eth1/pull/4272) - 2026-05-27
 ## Q1 2026
 
 

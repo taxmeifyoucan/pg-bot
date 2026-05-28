@@ -24,6 +24,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: don't treat epoch boundary cache miss as skipped block in state diff migration](https://github.com/OffchainLabs/prysm/pull/16803#pullrequestreview-4311775088) - 2026-05-18
 * [Review] [Review on: Make sync completion slot-precise and remove the initial-sync to regular-sync handoff gap](https://github.com/OffchainLabs/prysm/pull/16607#pullrequestreview-4320715630) - 2026-05-19
 * [Review] [Review on: add workflow to check generated go files](https://github.com/OffchainLabs/prysm/pull/16829#pullrequestreview-4339719307) - 2026-05-21
+* [Review] [Review on: `/healthz` endpoint: Base error on the average goroutine count, instead of the instant one.](https://github.com/OffchainLabs/prysm/pull/16815#pullrequestreview-4376110481) - 2026-05-27
+* [Pull Request] [nogo: Add nilaway static analyzer](https://github.com/OffchainLabs/prysm/pull/16848) - 2026-05-27
 ## Q1 2026
 
 

@@ -226,6 +226,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [eliminate flaky port collision (#10556)](https://github.com/besu-eth/besu/commit/7edfd9126cbb54008b492dbfa97a958128de1324) - 2026-05-27
 * [Commit] [Acceptance Tests: if error creating ports file, make it obvious (#10555)](https://github.com/besu-eth/besu/commit/ed338a3a2c7363d78fcb3472b02380322dbe8f77) - 2026-05-27
 * [Commit] [perf: parallelize block body DB lookups in engine_getPayloadBodies methods (#10532)](https://github.com/besu-eth/besu/commit/c6581ae1e782f27ebdb51e4b89bf957f77cc0f2e) - 2026-05-26
+* [Review] [Review on: perf: cache last validated JWT token in EngineAuthService](https://github.com/besu-eth/besu/pull/10559#pullrequestreview-4370227517) - 2026-05-27
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

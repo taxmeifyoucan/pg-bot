@@ -127,6 +127,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Fix FcU withdrawals calculation](https://github.com/Consensys/teku/pull/10752) - 2026-05-26
 * [Commit] [Fix FcU withdrawals calculation (#10752)](https://github.com/Consensys/teku/commit/d91216f1e8a2cb73329050335a01f7c0fdae19cb) - 2026-05-26
 * [Commit] [Minimal pinned block production - fix late block reorg (#10740)](https://github.com/Consensys/teku/commit/1485c84fca8494b554bc30eedcbe0720b8ca628a) - 2026-05-26
+* [Review] [Review on: Modify `notify_forkchoice_updated` to reflect parents EL block hash in Gloas for safe/finalized](https://github.com/Consensys/teku/pull/10747#pullrequestreview-4373897224) - 2026-05-27
+* [Review] [Review on: Force the proposer to reorg unavailable blocks](https://github.com/Consensys/teku/pull/10741#pullrequestreview-4370013677) - 2026-05-27
+* [Issue] [Block Producion failure due to `java.lang.IllegalStateException: ExecutionPayloadResult hasn't been cached for slot N`](https://github.com/Consensys/teku/issues/10756) - 2026-05-27
+* [Issue] [ForkChoice spec redeisgn](https://github.com/Consensys/teku/issues/10754) - 2026-05-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

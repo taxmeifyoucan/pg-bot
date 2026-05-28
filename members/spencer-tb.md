@@ -94,6 +94,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Test Release Tracker: `glamsterdam-devnet@v5.0.0`](https://github.com/ethereum/execution-specs/issues/2915) - 2026-05-26
 * [Issue] [Test Release Tracker: `benchmark@v0.0.10`](https://github.com/ethereum/execution-specs/issues/2913) - 2026-05-26
 * [Issue] [Add dedicated GasCosts parameters for SELFBALANCE, TLOAD, and TSTORE](https://github.com/ethereum/execution-specs/issues/2911) - 2026-05-26
+* [Review] [Review on: feat(spec-specs, tests): alt to merge 8037 to forks/amsterdam](https://github.com/ethereum/execution-specs/pull/2901#pullrequestreview-4371937079) - 2026-05-27
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

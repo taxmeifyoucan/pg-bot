@@ -70,6 +70,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/gossip: keep max expiry for topic subscriptions](https://github.com/erigontech/erigon/pull/21316#pullrequestreview-4362592449) - 2026-05-26
 * [Review] [Review on: cl/solid: tighten TransactionsSSZ decode bounds](https://github.com/erigontech/erigon/pull/21406#pullrequestreview-4362555960) - 2026-05-26
 * [Review] [Review on: cl/block_collector: validate persistent block values](https://github.com/erigontech/erigon/pull/21396#pullrequestreview-4362485592) - 2026-05-26
+* [Pull Request] [caplin: fix chain_reorg SSE event depth underflow and wrong old_head_block](https://github.com/erigontech/erigon/pull/21440) - 2026-05-27
+* [Review] [Review on: caplin: fix chain_reorg SSE event depth underflow and wrong old_head_block](https://github.com/erigontech/erigon/pull/21440#pullrequestreview-4372155973) - 2026-05-27
+* [Issue] [kurtosis: re-enable glamsterdam stability_check once go-eth2-client supports alpha.8](https://github.com/erigontech/erigon/issues/21442) - 2026-05-27
+* [Issue] [kurtosis: switch assertoor glamsterdam pin from master SHA to release tag](https://github.com/erigontech/erigon/issues/21441) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

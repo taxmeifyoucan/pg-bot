@@ -53,6 +53,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Update netty ](https://github.com/Consensys/teku/pull/10751) - 2026-05-26
 * [Review] [Review on: Remove unused beacon REST API dependencies](https://github.com/Consensys/teku/pull/10745#pullrequestreview-4359273825) - 2026-05-25
 * [Review] [Review on: added some ignores for agents](https://github.com/Consensys/teku/pull/10746#pullrequestreview-4354046441) - 2026-05-25
+* [Pull Request] [Add debug logging for computeEquivocatingCommitteeWeight()](https://github.com/Consensys/teku/pull/10757) - 2026-05-28
+* [Review] [Review on: Weak Subjectivity protections for Electra/Gloas](https://github.com/Consensys/teku/pull/10739#pullrequestreview-4371462867) - 2026-05-27
+* [Review] [Review on: Update netty ](https://github.com/Consensys/teku/pull/10751#pullrequestreview-4371309045) - 2026-05-27
 ## Q1 2026
 
 

@@ -32,6 +32,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [fix(tests): call delegation access disambiguation (#2882)](https://github.com/ethereum/execution-specs/commit/62b914c27cb5a18bc85e9b498633594876d6ab43) - 2026-05-19
 * [Review] [Review on: feat(spec-spec, tests): Implement eip-8246 and testing scenario](https://github.com/ethereum/execution-specs/pull/2842#pullrequestreview-4329616525) - 2026-05-20
 * [Review] [Review on: feat(amsterdam): defer EIP-7702 delegate warming until entry checks pass](https://github.com/ethereum/execution-specs/pull/2900#pullrequestreview-4346391837) - 2026-05-22
+* [Pull Request] [refactor(spec-tools): use testing pydantic models in t8n](https://github.com/ethereum/execution-specs/pull/2924) - 2026-05-27
+* [Review] [Review on: refactor(spec-tools): use testing pydantic models in t8n](https://github.com/ethereum/execution-specs/pull/2924#pullrequestreview-4371322786) - 2026-05-27
+* [Issue] [t8n should use the transaction rlp provided by the testing framwork](https://github.com/ethereum/execution-specs/issues/2925) - 2026-05-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332#pullrequestreview-4152757786) - 2026-04-22
 * [Commit] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/commit/c550387e917485af69a6999aea45270a555e2eb7) - 2026-04-22

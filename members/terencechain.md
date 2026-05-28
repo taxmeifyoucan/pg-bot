@@ -195,6 +195,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add signature to batch (#16837)](https://github.com/OffchainLabs/prysm/commit/50a1a5a8bfb398cce0e0a67d0b5bac15f234b71d) - 2026-05-26
 * [Commit] [Guard against nil bid in Gloas envelope and log paths (#16845)](https://github.com/OffchainLabs/prysm/commit/360e2ae8f30cd239661e09d9ab8671854efada01) - 2026-05-26
 * [Commit] [Add batch verify for deposit request signatures (#16810)](https://github.com/OffchainLabs/prysm/commit/ab460bae6159bcb53644cd8044dc1220da2c9067) - 2026-05-26
+* [Pull Request] [Remove legacy eth1 deposit mechanism in Fulu](https://github.com/OffchainLabs/prysm/pull/16853) - 2026-05-28
+* [Review] [Review on: Only add proposer boost to same shufflings as head](https://github.com/OffchainLabs/prysm/pull/16846#pullrequestreview-4377339455) - 2026-05-28
+* [Commit] [Fix data race on s.head.full in postPayloadTasks (#16839)](https://github.com/OffchainLabs/prysm/commit/5b44483086f0331c1d5647cba196947ba493607a) - 2026-05-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

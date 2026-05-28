@@ -145,6 +145,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [crypto: Replace JacPoint with ProjPoint (#1545)](https://github.com/ipsilon/evmone/commit/c32634157872a4c1fc581e4a795270211af2ac98) - 2026-05-26
 * [Commit] [crypto: Optimize line evaluation in BN254 pairings (#1541)](https://github.com/ipsilon/evmone/commit/1dc88fce6b7a21b1b696dd26a922c6fe06fd8c0b) - 2026-05-26
 * [Commit] [crypto: Trivial reuse of computed values in pairing helpers (#1542)](https://github.com/ipsilon/evmone/commit/8a68f96a203192fc24e08333b449884775e91306) - 2026-05-26
+* [Pull Request] [tools: Fold evmone-t8n into the evmone CLI as a subcommand](https://github.com/ipsilon/evmone/pull/1551) - 2026-05-27
+* [Review] [Review on: tools: Fold evmone-t8n into the evmone CLI as a subcommand](https://github.com/ipsilon/evmone/pull/1551#pullrequestreview-4374192810) - 2026-05-27
+* [Pull Request] [test: Add recent Mainnet ecpairing samples to bench](https://github.com/ipsilon/evmone/pull/1550) - 2026-05-27
+* [Pull Request] [crypto: Precompute Miller-loop lines for G2 generator in KZG verify](https://github.com/ipsilon/evmone/pull/1549) - 2026-05-27
+* [Commit] [test: Add recent Mainnet ecpairing samples to bench (#1550)](https://github.com/ipsilon/evmone/commit/55a3ec880cae6880ee04f17f65794075cea1afb3) - 2026-05-27
+* [Commit] [crypto: Precompute Miller-loop lines for G2 generator in KZG verify (#1549)](https://github.com/ipsilon/evmone/commit/4f68675f165d7b663895fa81092a63c6d5c817ba) - 2026-05-27
+* [Commit] [crypto: Fix incorrect docstrings in BN254 and KZG pairing helpers (#1548)](https://github.com/ipsilon/evmone/commit/ba23ad128ede9b1d05180d0abdfcb8b2552cc3d2) - 2026-05-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -174,6 +181,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [fix(spec-specs, tests): EIP-8037 strict block-gas inclusion rule](https://github.com/ethereum/execution-specs/pull/2892) - 2026-05-21
 * [Pull Request] [feat(tests): EIP-8037 reject when calldata_floor > TX_MAX_GAS_LIMIT](https://github.com/ethereum/execution-specs/pull/2898) - 2026-05-22
 * [Pull Request] [refactor(tests): inline ids and descriptions in point evaluation params](https://github.com/ethereum/execution-specs/pull/2907) - 2026-05-25
+* [Pull Request] [feat(tests): EIP-4844 point evaluation -G1 and G1 doubling vectors](https://github.com/ethereum/execution-specs/pull/2927) - 2026-05-27
+* [Commit] [refactor(tests): inline ids and descriptions in point evaluation params (#2907)](https://github.com/ethereum/execution-specs/commit/1787c74d209ec798fef2a044ae08ff3b3f00e006) - 2026-05-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

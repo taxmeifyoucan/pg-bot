@@ -23,6 +23,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Issue] [eth_fillTransaction](https://github.com/NethermindEth/nethermind/issues/11374) - 2026-04-27
 * [Issue] [TxPool: fix overly aggressive tx locking](https://github.com/NethermindEth/nethermind/issues/11367) - 2026-04-27
 * [Pull Request] [Engine api glamsterdam cleanup](https://github.com/NethermindEth/nethermind/pull/11388) - 2026-04-28
+* [Pull Request] [Remove obsolete NonValidatorNode receipt/body enforcement check](https://github.com/NethermindEth/nethermind/pull/11790) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4099273114) - 2026-04-13
 ## Q1 2026

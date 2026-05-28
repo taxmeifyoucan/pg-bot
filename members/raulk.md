@@ -16,6 +16,7 @@ Github: [@raulk](https://github.com/raulk)
 * [Pull Request] [Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589) - 2026-04-30
 * [Review] [Review on: Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4214849064) - 2026-05-02
 * [Review] [Review on: Add EIP: Batching Attestations at Source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4356475436) - 2026-05-25
+* [Pull Request] [Update EIP-8081: Propose EIP-8243 for inclusion](https://github.com/ethereum/EIPs/pull/11734) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add sukunrt to P2P Networking](https://github.com/protocolguild/documentation/pull/488) - 2026-04-10
 

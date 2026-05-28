@@ -59,6 +59,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: accounts/abi: forEachUnpack ABI error message arguments swapped](https://github.com/ethereum/go-ethereum/pull/35046#pullrequestreview-4361606367) - 2026-05-26
 * [Review] [Review on: accounts/usbwallet: check ledger versions for typed txs](https://github.com/ethereum/go-ethereum/pull/35044#pullrequestreview-4361693428) - 2026-05-26
 * [Review] [Review on: internal/ethapi: fix base fee too low error code in eth_simulateV1](https://github.com/ethereum/go-ethereum/pull/34951#pullrequestreview-4361586583) - 2026-05-26
+* [Review] [Review on: trie/bintrie: use bitarray for path encoding](https://github.com/ethereum/go-ethereum/pull/34772#pullrequestreview-4376152289) - 2026-05-27
+* [Commit] [cmd/clef, cmd/geth: remove CLI flags that were deprecated for more than a year (#35021)](https://github.com/ethereum/go-ethereum/commit/14820029c933c26edb62f1d6ea2960b3b9ed1e54) - 2026-05-27
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Review] [Review on: cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575#pullrequestreview-4195917013) - 2026-04-29
 

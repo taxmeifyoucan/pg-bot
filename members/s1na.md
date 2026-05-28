@@ -70,6 +70,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: eth, internal/ethapi: add eth_capabilities RPC method](https://github.com/ethereum/go-ethereum/pull/33886#pullrequestreview-4362664483) - 2026-05-26
 * [Commit] [.github: cancel CI run for stale PR commits (#34964)](https://github.com/ethereum/go-ethereum/commit/5933fa4bbf3d8a42f575cafcdc9fe9b80b038b0e) - 2026-05-26
 * [Commit] [internal/ethapi: fix base fee too low error code in eth_simulateV1 (#34951)](https://github.com/ethereum/go-ethereum/commit/c0fc5e0bda7f14f6c29231b5f1b1a1be2245f9b7) - 2026-05-26
+* [Review] [Review on: cmd/utils: fix archive mode detection for TransactionHistory override](https://github.com/ethereum/go-ethereum/pull/33880#pullrequestreview-4369844294) - 2026-05-27
+* [Commit] [core/vm: global cache for jumpdest bitmaps (#34850)](https://github.com/ethereum/go-ethereum/commit/d9028372560e6e9486c0930eec1a53d8b763aa27) - 2026-05-27
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20
@@ -81,6 +83,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: feat: eth_baseFee](https://github.com/ethereum/execution-apis/pull/795#pullrequestreview-4280080040) - 2026-05-13
 * [Review] [Review on: relax eth_simulateV1 errors, define debug_getRawTransaction](https://github.com/ethereum/execution-apis/pull/791#pullrequestreview-4297655801) - 2026-05-15
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4362659099) - 2026-05-26
+* [Review] [Review on: eth: add fillTransaction, drop raw field](https://github.com/ethereum/execution-apis/pull/803#pullrequestreview-4372748785) - 2026-05-27
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [cmd: add hivequery (hq) command](https://github.com/ethereum/hive/pull/1438) - 2026-04-20
 * [Commit] [cmd/hq: add hivequery (hq) command (#1438)](https://github.com/ethereum/hive/commit/e4209f3c6a50b82e022730f5e49c3b331fc10e8c) - 2026-04-21

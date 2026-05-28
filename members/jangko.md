@@ -69,6 +69,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Missing BAL test cases related to EIP-6780 self destruct](https://github.com/ethereum/execution-specs/issues/2920) - 2026-05-27
 * [Issue] [Missing BAL test cases of contract creation collision edge cases](https://github.com/ethereum/execution-specs/issues/2914) - 2026-05-26
+* [Issue] [Missing BAL test cases related to EIP-161 state clearing](https://github.com/ethereum/execution-specs/issues/2922) - 2026-05-27
 ## Q1 2026
 
 

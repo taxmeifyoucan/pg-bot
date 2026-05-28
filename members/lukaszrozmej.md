@@ -524,6 +524,27 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Apply suggestion from @LukaszRozmej](https://github.com/NethermindEth/nethermind/commit/27258b9d4325b6093902d28a10805a7b3a225f60) - 2026-05-26
 * [Commit] [Apply suggestions from code review](https://github.com/NethermindEth/nethermind/commit/c01295b5f01d98d55e7ecce13328f0c924920e3a) - 2026-05-26
 * [Commit] [Disconnect on unknown protocol message type (#11266)](https://github.com/NethermindEth/nethermind/commit/00445a305c4c0e9323617ad0080e7eab4011f6c7) - 2026-05-26
+* [Review] [Review on: rpc: reject EIP-1898 blockHash+blockNumber](https://github.com/NethermindEth/nethermind/pull/11777#pullrequestreview-4373099976) - 2026-05-27
+* [Review] [Review on: rpc: require state block arguments at binding](https://github.com/NethermindEth/nethermind/pull/11778#pullrequestreview-4372436710) - 2026-05-27
+* [Review] [Review on: rpc: reject oversized blob calls](https://github.com/NethermindEth/nethermind/pull/11782#pullrequestreview-4372333708) - 2026-05-27
+* [Review] [Review on: rpc: treat zero estimateGas as unset](https://github.com/NethermindEth/nethermind/pull/11780#pullrequestreview-4372358538) - 2026-05-27
+* [Review] [Review on: EraE - ensure validated fix](https://github.com/NethermindEth/nethermind/pull/11772#pullrequestreview-4369442172) - 2026-05-27
+* [Review] [Review on: `personal_sign` fix](https://github.com/NethermindEth/nethermind/pull/11774#pullrequestreview-4369435964) - 2026-05-27
+* [Review] [Review on: EIP-7778 gas fix](https://github.com/NethermindEth/nethermind/pull/11794#pullrequestreview-4372539639) - 2026-05-27
+* [Review] [Review on: WriteBatch fix](https://github.com/NethermindEth/nethermind/pull/11793#pullrequestreview-4372270005) - 2026-05-27
+* [Review] [Review on: LogIndex fixes](https://github.com/NethermindEth/nethermind/pull/11791#pullrequestreview-4372245354) - 2026-05-27
+* [Pull Request] [test: fix flaky KademliaNodeSource ping assertions](https://github.com/NethermindEth/nethermind/pull/11800) - 2026-05-27
+* [Review] [Review on: test: fix flaky KademliaNodeSource ping assertions](https://github.com/NethermindEth/nethermind/pull/11800#pullrequestreview-4372780021) - 2026-05-27
+* [Review] [Review on: Unify assertions](https://github.com/NethermindEth/nethermind/pull/11567#pullrequestreview-4369533187) - 2026-05-27
+* [Pull Request] [Fix/eth69 blockrangeupdate validation](https://github.com/NethermindEth/nethermind/pull/11796) - 2026-05-27
+* [Review] [Review on: ci: skip Claude review autorun on fork PRs](https://github.com/NethermindEth/nethermind/pull/11789#pullrequestreview-4372294713) - 2026-05-27
+* [Review] [Review on: feat(snap): cap Proofs count at 256 on inbound snap responses](https://github.com/NethermindEth/nethermind/pull/11786#pullrequestreview-4372323704) - 2026-05-27
+* [Review] [Review on: Change BAL DB key](https://github.com/NethermindEth/nethermind/pull/11761#pullrequestreview-4372217856) - 2026-05-27
+* [Review] [Review on: EraE - fixes](https://github.com/NethermindEth/nethermind/pull/11771#pullrequestreview-4369448754) - 2026-05-27
+* [Review] [Review on: JSONRPC csproj fix](https://github.com/NethermindEth/nethermind/pull/11773#pullrequestreview-4369438857) - 2026-05-27
+* [Review] [Review on: Refactor Json Streaming](https://github.com/NethermindEth/nethermind/pull/11781#pullrequestreview-4369427920) - 2026-05-27
+* [Commit] [test: fix flaky KademliaNodeSource ping assertions (#11800)](https://github.com/NethermindEth/nethermind/commit/ee19d7e3d2991d726330f35de5ab1152bad1f63b) - 2026-05-27
+* [Commit] [Fix/eth69 blockrangeupdate validation (#11796)](https://github.com/NethermindEth/nethermind/commit/89b0d0402990359cece2be95ffb61382e82790c5) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

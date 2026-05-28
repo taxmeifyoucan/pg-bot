@@ -124,6 +124,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat(eip7702): defer delegate code load via BytecodeLoad enum](https://github.com/bluealloy/revm/pull/3720) - 2026-05-26
 * [Pull Request] [fix(eip-8037): exclude floor and refund from block_regular_gas_used](https://github.com/bluealloy/revm/pull/3719) - 2026-05-26
 * [Commit] [chore: release prep — bump all crates with unpublished changes (#3721)](https://github.com/bluealloy/revm/commit/bf2ce7197ad072a6f5f7416be07813ac99510b93) - 2026-05-26
+* [Review] [Review on: feat(database): allow missing BAL storage reads](https://github.com/bluealloy/revm/pull/3726#pullrequestreview-4372064074) - 2026-05-27
+* [Pull Request] [refactor: clarify EIP-7702 regular-gas GasId names](https://github.com/bluealloy/revm/pull/3725) - 2026-05-27
+* [Pull Request] [docs: add v112 changelog entry](https://github.com/bluealloy/revm/pull/3724) - 2026-05-27
+* [Commit] [docs: add v112 changelog entry (#3724)](https://github.com/bluealloy/revm/commit/e549d0bdf50873a84c27861e9f549b756de13570) - 2026-05-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 
@@ -137,6 +141,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [Update EIP-8038: Update write cost condition in SSTORE formula](https://github.com/ethereum/EIPs/pull/11696) - 2026-05-19
 * [Commit] [Update EIP-8038: Update write cost condition in SSTORE formula](https://github.com/ethereum/EIPs/commit/8a7fb54ef1ea87abd6e81a8ea234dbb794f7fdd8) - 2026-05-19
 * [Review] [Review on: Update EIP-8037: Calldata floor accounting alignment & call-frame refill clarification](https://github.com/ethereum/EIPs/pull/11706#pullrequestreview-4327780283) - 2026-05-20
+* [Pull Request] [Update EIP-2780: remove self-transfer and precompile edge cases](https://github.com/ethereum/EIPs/pull/11735) - 2026-05-27
 ## Q1 2026
 
 

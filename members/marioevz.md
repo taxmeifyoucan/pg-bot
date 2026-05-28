@@ -100,6 +100,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: Enforce expected blobs order by setting maxFeePerBlobGas](https://github.com/ethereum/hive/pull/1495#pullrequestreview-4299738027) - 2026-05-15
 * [Pull Request] [clients/nethermind: Update dotnet images](https://github.com/ethereum/hive/pull/1509) - 2026-05-25
+* [Commit] [clients/nethermind: Update dotnet images (#1509)](https://github.com/ethereum/hive/commit/e5fff8d2a527902ce0153d17881d6545e8713122) - 2026-05-27
 ## Q1 2026
 
 

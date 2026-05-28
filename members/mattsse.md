@@ -508,6 +508,7 @@ Team: Reth
 * [Commit] [feat(transaction-pool): add borrowed pool transactions iterator (#24556)](https://github.com/paradigmxyz/reth/commit/980872d606b4f28a34eacc621bfd9a74c4f6f1aa) - 2026-05-26
 * [Commit] [refactor(net): use B256 collections for tx hashes (#24565)](https://github.com/paradigmxyz/reth/commit/283cc32396784be892ee8343ccde80dc8716f126) - 2026-05-26
 * [Commit] [fix(rpc): default eth_simulateV1 fee fields to 0 per spec (#24386)](https://github.com/paradigmxyz/reth/commit/e84f716b31d05706196f817077962850e4fd7c2b) - 2026-05-26
+* [Commit] [refactor(payload): use alloy gas limit helper (#24590)](https://github.com/paradigmxyz/reth/commit/7c5168c17a966081fb2b4523dadabb76f5a3e6bb) - 2026-05-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

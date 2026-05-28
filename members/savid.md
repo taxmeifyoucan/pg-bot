@@ -21,6 +21,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat: port otel work to glammy work](https://github.com/ethpandaops/xatu/pull/840#pullrequestreview-4294085604) - 2026-05-14
 * [Review] [Review on: feat: decode Gloas data_column_sidecar gossip events](https://github.com/ethpandaops/xatu/pull/842#pullrequestreview-4314659971) - 2026-05-18
 * [Review] [Review on: refactor: glammy-devnet-4 prysm renamed fields](https://github.com/ethpandaops/xatu/pull/845#pullrequestreview-4324746181) - 2026-05-20
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Pull Request] [feat(validators): move report tool to validators index](https://github.com/ethpandaops/lab/pull/435) - 2026-05-27
+* [Commit] [feat(validators): move report tool to validators index (#435)](https://github.com/ethpandaops/lab/commit/337e3345e73c74865d318be214b2169c471a3f72) - 2026-05-27
 ## Q1 2026
 
 

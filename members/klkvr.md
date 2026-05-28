@@ -168,6 +168,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(rpc): default eth_simulateV1 fee fields to 0 per spec](https://github.com/paradigmxyz/reth/pull/24386#pullrequestreview-4363732252) - 2026-05-26
 * [Review] [Review on: fix(rpc): default eth_simulateV1 per-call gas to remaining block gas](https://github.com/paradigmxyz/reth/pull/24387#pullrequestreview-4363752138) - 2026-05-26
 * [Commit] [feat: unify ordered trie encoders (#24523)](https://github.com/paradigmxyz/reth/commit/5635fc28c8cda16f98540ceaa2b9b90d1d6c0261) - 2026-05-26
+* [Commit] [feat: expose a `EthBlockAssembler` method with optional precomputed values (#24598)](https://github.com/paradigmxyz/reth/commit/072277f8e27d2f5b0e55733024bfc00f694fb04b) - 2026-05-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

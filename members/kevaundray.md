@@ -19,6 +19,8 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: feat(zkevm): fill public_keys execution witness field](https://github.com/ethereum/execution-specs/pull/2825#pullrequestreview-4263982117) - 2026-05-11
 * [Pull Request] [refactor(spec-specs,test-types): replace `pycryptodome` with `hashlib` for keccak](https://github.com/ethereum/execution-specs/pull/2370) - 2026-05-15
 * [Commit] [refactor(spec-specs,test-types): replace `pycryptodome` with `hashlib` for keccak (#2370)](https://github.com/ethereum/execution-specs/commit/ea3552f023bd410aff5b9b76f17cc1780a80ddf0) - 2026-05-15
+* [Pull Request] [chore(specs): Move BAL types into `fork_types` module](https://github.com/ethereum/execution-specs/pull/2294) - 2026-05-27
+* [Commit] [chore(specs): drop BAL type aliases except BlockAccessIndex (#2294)](https://github.com/ethereum/execution-specs/commit/c67cd90b7016595c578de35ddab362da6a4af91e) - 2026-05-27
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: cmd/evm: add enginetest command for direct engine fixture execution](https://github.com/ethereum/go-ethereum/pull/34650#pullrequestreview-4056846336) - 2026-04-03
 * [Pull Request] [core/vm: Idea for enabling an experimental evm](https://github.com/ethereum/go-ethereum/pull/34645) - 2026-04-03

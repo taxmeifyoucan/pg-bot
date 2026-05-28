@@ -80,6 +80,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix DbTracker repeatedly logging ObjectDisposedException after disposal](https://github.com/NethermindEth/nethermind/pull/11720#pullrequestreview-4353975055) - 2026-05-25
 * [Commit] [Fix flaky TransactionReceiptsSubscription tests + observe subscription worker faults (#11741)](https://github.com/NethermindEth/nethermind/commit/e30d7ecc670d1df825373a0459c5d9b2270412f9) - 2026-05-25
 * [Commit] [Fix Geth genesis deposit contract fallback to use zero address (#11740)](https://github.com/NethermindEth/nethermind/commit/f6b0d32bc03a3abb2c149d48f98232c9dfe83858) - 2026-05-25
+* [Review] [Review on: chore: enforce IDE0130 (namespace matches folder structure)](https://github.com/NethermindEth/nethermind/pull/11762#pullrequestreview-4369132972) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 

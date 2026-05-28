@@ -70,6 +70,12 @@ Team: Geth
 * [Review] [Review on: graphql: limit request body size](https://github.com/ethereum/go-ethereum/pull/35034#pullrequestreview-4364349585) - 2026-05-26
 * [Pull Request] [core: move subscriptions to constructor](https://github.com/ethereum/go-ethereum/pull/35048) - 2026-05-26
 * [Review] [Review on: rpc: fix method-name matched before maxMethodNameLength](https://github.com/ethereum/go-ethereum/pull/35038#pullrequestreview-4362888348) - 2026-05-26
+* [Review] [Review on: crypto/ecies: correctly return ErrInvalidMessage](https://github.com/ethereum/go-ethereum/pull/35037#pullrequestreview-4371800450) - 2026-05-27
+* [Review] [Review on: p2p/nat: bump pion/stun to v3 to pull in fixed pion/dtls](https://github.com/ethereum/go-ethereum/pull/34980#pullrequestreview-4371810196) - 2026-05-27
+* [Review] [Review on: eth/catalyst: import new payload if at genesis, regardless of sync status](https://github.com/ethereum/go-ethereum/pull/32673#pullrequestreview-4371062885) - 2026-05-27
+* [Review] [Review on: core: rolling history expiry](https://github.com/ethereum/go-ethereum/pull/34104#pullrequestreview-4371384412) - 2026-05-27
+* [Review] [Review on: accounts/external, signer/core: support setcode txs](https://github.com/ethereum/go-ethereum/pull/35047#pullrequestreview-4370467922) - 2026-05-27
+* [Review] [Review on: trie: introduce UpdateBatch](https://github.com/ethereum/go-ethereum/pull/32448#pullrequestreview-4370189398) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

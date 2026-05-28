@@ -58,6 +58,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-7928: Clarify edge case aorund 7702 insufficient gas](https://github.com/ethereum/EIPs/commit/4675100a434334520190019488e9ca94dcda2141) - 2026-05-21
 * [Commit] [Add EIP: Expiring Nonces for Frame Transactions](https://github.com/ethereum/EIPs/commit/377b20ab218edf88907e58641c3354355a68e601) - 2026-05-22
 * [Commit] [Update EIP-7928: add GAS_COPY to EXTCODECOPY](https://github.com/ethereum/EIPs/commit/50dffe76061bf5896b585b97248eda6430990a76) - 2026-05-22
+* [Pull Request] [Update EIP-8146: Update BAL sidecare spec, align with ePBS](https://github.com/ethereum/EIPs/pull/11736) - 2026-05-27
+* [Commit] [Update EIP-8146: Toni/update 8146](https://github.com/ethereum/EIPs/commit/6c4afea6fcf2138313f5df8cb4e60c4a9343b486) - 2026-05-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11

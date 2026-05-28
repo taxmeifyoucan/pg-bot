@@ -472,6 +472,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [node/cli: register --rpc.logs.maxresults in DefaultFlags so it takes effect via CLI (#21426)](https://github.com/erigontech/erigon/commit/ce940637daeb428c8b001dcbc8fffca39bb2b08d) - 2026-05-26
 * [Commit] [db/state: cache findShortenedKey per commitmentValTransformDomain merge (#21303)](https://github.com/erigontech/erigon/commit/b496fbfe395d804dc8d9de8bd321b6faffa817ac) - 2026-05-26
 * [Commit] [db: full mode now prunes block data to EIP-8252 window (#21342)](https://github.com/erigontech/erigon/commit/c56722a2e022b634369ddba233041b8734f64533) - 2026-05-26
+* [Pull Request] [ci: build hive & hive-eest erigon clients from local source, not an ephemeral merge-queue ref](https://github.com/erigontech/erigon/pull/21447) - 2026-05-27
+* [Review] [Review on: ci: build hive & hive-eest erigon clients from local source, not an ephemeral merge-queue ref](https://github.com/erigontech/erigon/pull/21447#pullrequestreview-4373625609) - 2026-05-27
+* [Pull Request] [Unskip and fix disabled tests](https://github.com/erigontech/erigon/pull/21455) - 2026-05-27
+* [Review] [Review on: Unskip and fix disabled tests](https://github.com/erigontech/erigon/pull/21455#pullrequestreview-4376206128) - 2026-05-27
+* [Pull Request] [.github: skip Claude review on fork PRs; allow erigon-copilot bot](https://github.com/erigontech/erigon/pull/21450) - 2026-05-27
+* [Pull Request] [execution/execmodule: return FCU result without waiting for flush+commit](https://github.com/erigontech/erigon/pull/21444) - 2026-05-27
+* [Pull Request] [ci: surface merge-queue root cause when fail-fast cancels the run](https://github.com/erigontech/erigon/pull/21445) - 2026-05-27
+* [Review] [Review on: ci: surface merge-queue root cause when fail-fast cancels the run](https://github.com/erigontech/erigon/pull/21445#pullrequestreview-4371600598) - 2026-05-27
+* [Pull Request] [ci: bump assertoor v0.0.17→v0.1.2 + lighthouse/teku for gloas-spec compatibility](https://github.com/erigontech/erigon/pull/21449) - 2026-05-27
+* [Review] [Review on: db/state: move `refcnt` to `visibleFiles` object](https://github.com/erigontech/erigon/pull/21397#pullrequestreview-4371391534) - 2026-05-27
+* [Issue] [Parallel execution engine_new_payload is slower than serial](https://github.com/erigontech/erigon/issues/21446) - 2026-05-27
+* [Commit] [.github: skip Claude review on fork PRs; allow erigon-copilot bot (#21450)](https://github.com/erigontech/erigon/commit/92d804159777c0daf0fb6db9cfb53a46e0a15581) - 2026-05-27
+* [Commit] [txnprovider/txpool: drop and kick peers on blob KZG verify failure (#21421)](https://github.com/erigontech/erigon/commit/e4deed1ac7d840315f5131dbfc1b35a6817c0162) - 2026-05-27
+* [Commit] [ci: surface merge-queue root cause when fail-fast cancels the run (#21445)](https://github.com/erigontech/erigon/commit/d97c3be18a69281c85d7498963638be41d8eeab8) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
@@ -483,6 +497,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [fix nil pointer panic in check_consensus_sync_status](https://github.com/ethpandaops/assertoor/pull/157) - 2026-04-11
 * [Commit] [getClientInfo: early return with explicit fields on nil syncStatus](https://github.com/ethpandaops/assertoor/commit/f2c7f0c443a54c06bca5abd839e6e99f9b6f619c) - 2026-04-12
 
+* [Pull Request] [fix: prevent eoa/blob tx generator from stalling on pre-submission errors](https://github.com/ethpandaops/assertoor/pull/189) - 2026-05-27
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/erigon: fix discv5 test isolation](https://github.com/ethereum/hive/pull/1427) - 2026-04-17
 * [Review] [Review on: clients/erigon: fix discv5 NAT and bootnode handling](https://github.com/ethereum/hive/pull/1427#pullrequestreview-4153483529) - 2026-04-22

@@ -48,6 +48,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(zkevm): explicitly fail stateless validation for invalid input bytes & add proper tests](https://github.com/ethereum/execution-specs/pull/2918#pullrequestreview-4365814705) - 2026-05-26
 * [Pull Request] [feat(zkevm): revisit SSZ-Lists max lengths and properly document rationale for them](https://github.com/ethereum/execution-specs/pull/2919) - 2026-05-26
 * [Review] [Review on: feat(zkevm): revisit SSZ-Lists max lengths and properly document rationale for them](https://github.com/ethereum/execution-specs/pull/2919#pullrequestreview-4367435929) - 2026-05-26
+* [Pull Request] [feat(zkevm): refactor added Blockchain modifications into separate stateless module](https://github.com/ethereum/execution-specs/pull/2928) - 2026-05-27
+* [Pull Request] [feat(zkevm): prune non scheduled forks in ProtocolFork](https://github.com/ethereum/execution-specs/pull/2926) - 2026-05-27
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01

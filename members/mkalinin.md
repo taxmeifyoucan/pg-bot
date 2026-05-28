@@ -55,6 +55,10 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Pull Request] [Fix `dependent_root` computation in comptests](https://github.com/ethereum/consensus-specs/pull/5287) - 2026-05-26
 * [Review] [Review on: Avoid attestations with incompatible shuffling](https://github.com/ethereum/consensus-specs/pull/5276#pullrequestreview-4360889638) - 2026-05-26
 * [Commit] [Fix `dependent_root` computation in comptests (#5287)](https://github.com/ethereum/consensus-specs/commit/56d25bb4fc2eebec873742888589763ec71efad5) - 2026-05-26
+* [Pull Request] [Remove redundant path in `get_weight`](https://github.com/ethereum/consensus-specs/pull/5303) - 2026-05-27
+* [Pull Request] [Precompute head for `update_proposer_boost_root`](https://github.com/ethereum/consensus-specs/pull/5300) - 2026-05-27
+* [Commit] [Precompute head for `update_proposer_boost_root` (#5300)](https://github.com/ethereum/consensus-specs/commit/1b3086cb040924c2541eec4c417e2c1afc2b1a0d) - 2026-05-27
+* [Commit] [Redesign fork choice abstractions (#5249)](https://github.com/ethereum/consensus-specs/commit/47b2561e1aa5541e31037b6b8a52ee1cbaa11ce0) - 2026-05-27
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

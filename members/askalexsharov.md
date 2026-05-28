@@ -649,6 +649,17 @@ Team: Erigon
 * [Review] [Review on: [DO-NOT-MERGE] execution: hive eest ci to include all devnet shards](https://github.com/erigontech/erigon/pull/21404#pullrequestreview-4361514299) - 2026-05-26
 * [Review] [Review on: docs: May 2026 w22 — v3.4.2 update](https://github.com/erigontech/erigon/pull/21408#pullrequestreview-4361511983) - 2026-05-26
 * [Issue] [step-rebase: perm denied](https://github.com/erigontech/erigon/issues/21409) - 2026-05-26
+* [Pull Request] [grwoslice: use `slices.Grow` instead of hand-rolled grow funcs ](https://github.com/erigontech/erigon/pull/21439) - 2026-05-27
+* [Review] [Review on: [performance] Disable referenced keys in commitment files, bump version](https://github.com/erigontech/erigon/pull/21375#pullrequestreview-4371662495) - 2026-05-27
+* [Pull Request] [less logs from `backward-block-downloader` ](https://github.com/erigontech/erigon/pull/21438) - 2026-05-27
+* [Pull Request] [exec: `avg mgas/s` robust calculation ](https://github.com/erigontech/erigon/pull/21443) - 2026-05-27
+* [Pull Request] [bloatnet: auto-nuke StateCache on low hit_rate](https://github.com/erigontech/erigon/pull/21435) - 2026-05-27
+* [Review] [Review on: execution: prometheus metrics for engine_newPayload, engine_fcu, insert blocks, validate chain requests](https://github.com/erigontech/erigon/pull/21433#pullrequestreview-4369286663) - 2026-05-27
+* [Pull Request] [[wip] sais: bufs pool](https://github.com/erigontech/erigon/pull/21437) - 2026-05-27
+* [Issue] [Reduce `sys` ram usage of Erigon on bloatnet](https://github.com/erigontech/erigon/issues/21436) - 2026-05-27
+* [Commit] [grwoslice: use `slices.Grow` instead of hand-rolled grow funcs  (#21439)](https://github.com/erigontech/erigon/commit/4f7a5f80f3d18c615316ea0b9c0b4f13290d98a1) - 2026-05-27
+* [Commit] [db/state: move `refcnt` to `visibleFiles` object (#21397)](https://github.com/erigontech/erigon/commit/3bf5e77a274b0e5e80c89545e39b6cf1d2dfdad6) - 2026-05-27
+* [Commit] [less logs from `backward-block-downloader`  (#21438)](https://github.com/erigontech/erigon/commit/b242ceca16e72fb716aedbc97bc9bab6b3cac58f) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

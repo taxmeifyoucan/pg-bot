@@ -23,6 +23,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #225 from ethpandaops/dependabot/github_actions/actions-b745ac94e4](https://github.com/ethpandaops/contributoor/commit/4d12ac7e98efed4d5b5dc06c16dd18421652fa65) - 2026-05-11
 * [Commit] [chore(go.mod): update dependencies to latest versions for improved stability and security](https://github.com/ethpandaops/contributoor/commit/4dcc57c3a136f5a1857037a8f79a801cd3422763) - 2026-05-11
 * [Commit] [Merge pull request #227 from ethpandaops/chore/fix-kt-tests](https://github.com/ethpandaops/contributoor/commit/77ea3f23747d4c2af210d4e268c5a00e101eb2a7) - 2026-05-11
+* [Pull Request] [chore: pin kt install](https://github.com/ethpandaops/contributoor/pull/234) - 2026-05-28
+* [Commit] [chore(typos.toml): update extend-exclude list to include go.mod and go.sum files for better typo checking coverage](https://github.com/ethpandaops/contributoor/commit/1ec82ea47f5fa4931e6e886d174e6ec97c3dd520) - 2026-05-28
+* [Commit] [Merge pull request #233 from ethpandaops/dependabot/github_actions/actions-6009b138a0](https://github.com/ethpandaops/contributoor/commit/3b93a1f794f0ae4688e6772864ef4552720c6fd6) - 2026-05-28
+* [Commit] [Merge pull request #234 from ethpandaops/fix/pin-kt-ver](https://github.com/ethpandaops/contributoor/commit/28c4637e8e8797fcecd5384af5a7768b0ddcbe98) - 2026-05-28
+* [Commit] [chore(integration-tests.yml): specify kurtosis_version to ensure consistent test environment](https://github.com/ethpandaops/contributoor/commit/fec68488d91376dd5fe68625feb4aa844810b2b4) - 2026-05-28
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Review] [Review on: consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805#pullrequestreview-4072535003) - 2026-04-08
 * [Pull Request] [feat(vector-logs.yaml): ch logs parse kt labels](https://github.com/ethpandaops/xatu/pull/807) - 2026-04-09
@@ -57,6 +62,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433#pullrequestreview-4166900256) - 2026-04-23
 
 * [Review] [Review on: fix(slot-detail): prefer canonical block when slot has competing fork](https://github.com/ethpandaops/lab/pull/434#pullrequestreview-4224652894) - 2026-05-05
+* [Review] [Review on: feat(validators): move report tool to validators index](https://github.com/ethpandaops/lab/pull/435#pullrequestreview-4376826504) - 2026-05-27
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Review] [Review on: feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/90#pullrequestreview-4195314057) - 2026-04-29
 * [Commit] [Merge pull request #90 from ethpandaops/feat/add-glamsterdam-devnets](https://github.com/ethpandaops/cartographoor/commit/6a3003492dbaa5640c12cbf22738b61cc70aba63) - 2026-04-29

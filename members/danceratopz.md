@@ -109,6 +109,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(ci,tooling): skip code coverage of glacier/bpo/dao forks](https://github.com/ethereum/execution-specs/pull/2886#pullrequestreview-4326206534) - 2026-05-20
 * [Review] [Review on: chore(tests): create `spec.py` for EIP-7778](https://github.com/ethereum/execution-specs/pull/2887#pullrequestreview-4328235458) - 2026-05-20
 * [Pull Request] [feat(tests,ci): Verify filled benchmark fixtures against EELS via json_loader](https://github.com/ethereum/execution-specs/pull/2894) - 2026-05-21
+* [Review] [Review on: feat(test-consume): Validate RPC header fields in consume rlp](https://github.com/ethereum/execution-specs/pull/2895#pullrequestreview-4373034788) - 2026-05-27
+* [Review] [Review on: chore(test-benchmark): remove repricing tag for unnecessary benchmark](https://github.com/ethereum/execution-specs/pull/2921#pullrequestreview-4370250043) - 2026-05-27
+* [Commit] [feat(tests,ci): Verify filled benchmark fixtures against EELS via json_loader (#2894)](https://github.com/ethereum/execution-specs/commit/d89c7ce029c23d4c2c27490dcf7cbdeb71619ce7) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 
@@ -116,6 +119,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Fix execution-specs EIP Authors Manual links](https://github.com/ethereum/pm/pull/2036) - 2026-04-30
 
 * [Issue] [All Core Devs - Testing (ACDT) #80, May 18, 2026](https://github.com/ethereum/pm/issues/2049) - 2026-05-11
+* [Issue] [All Core Devs - Testing (ACDT) #81, June 1, 2026](https://github.com/ethereum/pm/issues/2085) - 2026-05-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add missing 7708 log costs](https://github.com/ethereum/EIPs/pull/11586) - 2026-04-30
 

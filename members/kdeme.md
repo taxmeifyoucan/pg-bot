@@ -64,6 +64,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Ere format read/write/verify implementation (#3979)](https://github.com/status-im/nimbus-eth1/commit/5d020b0181d286bf28be2270d9b14cb50443d9f4) - 2026-05-11
 * [Review] [Review on: EIP-7928 BAL: Fix for EIP-7702 account call](https://github.com/status-im/nimbus-eth1/pull/4240#pullrequestreview-4309173695) - 2026-05-18
 * [Pull Request] [Add nimbus_history_exporter tool](https://github.com/status-im/nimbus-eth1/pull/4268) - 2026-05-26
+* [Pull Request] [fix hashIndexKey high byte always zero due to shl/shr mistake](https://github.com/status-im/nimbus-eth1/pull/4271) - 2026-05-27
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

@@ -93,6 +93,9 @@ Team: Erigon
 * [Review] [Review on: db/state: cache findShortenedKey per commitmentValTransformDomain merge](https://github.com/erigontech/erigon/pull/21303#pullrequestreview-4352947507) - 2026-05-24
 * [Pull Request] [[release/3.4] execution/vm: backport GEVM opt-in](https://github.com/erigontech/erigon/pull/21388) - 2026-05-24
 * [Review] [Review on: cl/gossip: keep max expiry for topic subscriptions](https://github.com/erigontech/erigon/pull/21316#pullrequestreview-4352876380) - 2026-05-24
+* [Review] [Review on: .github: skip Claude review on fork PRs; allow erigon-copilot bot](https://github.com/erigontech/erigon/pull/21450#pullrequestreview-4374836230) - 2026-05-27
+* [Review] [Review on: ci: surface merge-queue root cause when fail-fast cancels the run](https://github.com/erigontech/erigon/pull/21445#pullrequestreview-4371488700) - 2026-05-27
+* [Review] [Review on: less logs from `backward-block-downloader` ](https://github.com/erigontech/erigon/pull/21438#pullrequestreview-4369801848) - 2026-05-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

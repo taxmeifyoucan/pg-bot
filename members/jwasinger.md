@@ -76,6 +76,7 @@ Team: Geth
 * [Pull Request] [beacon/engine: encode/decode bals as hex for ExecutableData](https://github.com/ethereum/go-ethereum/pull/35024) - 2026-05-21
 * [Review] [Review on: graphql: end == 0 and begin > 0 should be reject](https://github.com/ethereum/go-ethereum/pull/35032#pullrequestreview-4347692318) - 2026-05-22
 * [Pull Request] [core: implement optimized bal execution path](https://github.com/ethereum/go-ethereum/pull/35050) - 2026-05-27
+* [Review] [Review on: log: return TerminalHandler write errors from Handle](https://github.com/ethereum/go-ethereum/pull/35055#pullrequestreview-4373530821) - 2026-05-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

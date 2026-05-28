@@ -76,6 +76,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Clear dangling origin checkpoint pointer on historical prune](https://github.com/OffchainLabs/prysm/pull/16834#pullrequestreview-4359081706) - 2026-05-25
 * [Issue] [`/prysm/v1/validators/head/active_set_changes` returns the full active validators set, instead of only those that became activated during the epoch](https://github.com/OffchainLabs/prysm/issues/16842) - 2026-05-25
 * [Review] [Review on: Optimize beacon API (REST and gRPC) regarding endpoints needing to iterate over the whole validator set.](https://github.com/OffchainLabs/prysm/pull/16838#pullrequestreview-4364446273) - 2026-05-26
+* [Pull Request] [`Saved state in DB`: Add duration in logs and metric.](https://github.com/OffchainLabs/prysm/pull/16849) - 2026-05-27
+* [Issue] [Assess constanine for KZG operations](https://github.com/OffchainLabs/prysm/issues/16850) - 2026-05-27
+* [Commit] [`/healthz` endpoint: Base error on the average goroutine count, instead of the instant one. (#16815)](https://github.com/OffchainLabs/prysm/commit/97eceeb9758e36a2d51ec7897ce28f781554a101) - 2026-05-27
+* [Commit] [Optimize beacon API (REST and gRPC) regarding endpoints needing to iterate over the whole validator set. (#16838)](https://github.com/OffchainLabs/prysm/commit/473188069ab1fec07b877d7f9041e74d07b51332) - 2026-05-27
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

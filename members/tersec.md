@@ -161,6 +161,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: ensure sidecarless is cleaned once enqueuePayload is successful + drive enqueuePayload from rman](https://github.com/status-im/nimbus-eth2/pull/8501#pullrequestreview-4354518216) - 2026-05-25
 * [Review] [Review on: partial column movement from EL to ColumnQuarantine](https://github.com/status-im/nimbus-eth2/pull/8513#pullrequestreview-4367407380) - 2026-05-26
 * [Pull Request] [rm more slashing protection v1 to v2 transition remnants](https://github.com/status-im/nimbus-eth2/pull/8511) - 2026-05-26
+* [Review] [Review on: partial column movement from EL to ColumnQuarantine](https://github.com/status-im/nimbus-eth2/pull/8513#pullrequestreview-4371270776) - 2026-05-27
+* [Review] [Review on: Store head payload and fix head execution valid](https://github.com/status-im/nimbus-eth2/pull/8496#pullrequestreview-4369657082) - 2026-05-27
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

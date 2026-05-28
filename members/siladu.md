@@ -83,6 +83,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: eliminate flaky port collision](https://github.com/besu-eth/besu/pull/10556#pullrequestreview-4368446797) - 2026-05-27
 * [Review] [Review on: perf: parallelize block body DB lookups in engine_getPayloadBodies methods](https://github.com/besu-eth/besu/pull/10532#pullrequestreview-4360175018) - 2026-05-26
 * [Review] [Review on: optimize tracePreExecution tracePostExecution](https://github.com/besu-eth/besu/pull/10541#pullrequestreview-4363063627) - 2026-05-26
+* [Review] [Review on: perf: cache last validated JWT token in EngineAuthService](https://github.com/besu-eth/besu/pull/10559#pullrequestreview-4377536713) - 2026-05-28
+* [Review] [Review on: Fix engine_newPayload invalid request type invalid status](https://github.com/besu-eth/besu/pull/10525#pullrequestreview-4377338676) - 2026-05-28
+* [Review] [Review on: Refactor: Extract EVMv2 stack manipulation unit tests](https://github.com/besu-eth/besu/pull/10535#pullrequestreview-4369518487) - 2026-05-27
+* [Commit] [Refactor: Extract EVMv2 stack manipulation unit tests (#10535)](https://github.com/besu-eth/besu/commit/a95950d5fcbd58ee1458bf5ec0ebab981fc623cc) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

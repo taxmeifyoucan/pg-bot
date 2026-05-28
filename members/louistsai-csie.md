@@ -107,6 +107,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(test-benchmark): add more modexp precompile benchmark scenario](https://github.com/ethereum/execution-specs/pull/2896#pullrequestreview-4355756803) - 2026-05-25
 * [Review] [Review on: fix(specs): backport ``check_gas`` before state access boundaries from Amsterdam](https://github.com/ethereum/execution-specs/pull/2903#pullrequestreview-4357188498) - 2026-05-25
 * [Issue] [Stateful filling refactors & missing feature tracker](https://github.com/ethereum/execution-specs/issues/2910) - 2026-05-26
+* [Pull Request] [feat(test-fill): align `fill-stateful` with `gas-benchmarks` implementation](https://github.com/ethereum/execution-specs/pull/2923) - 2026-05-27
+* [Pull Request] [chore(test-benchmark): remove repricing tag for unnecessary benchmark](https://github.com/ethereum/execution-specs/pull/2921) - 2026-05-27
+* [Commit] [chore: remove repricing tag for some bench (#2921)](https://github.com/ethereum/execution-specs/commit/1e2f3a323939468519a363d9339bc84791b44aac) - 2026-05-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

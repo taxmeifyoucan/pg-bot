@@ -249,6 +249,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(core): centralize EIP-7702 SetCode shape checks](https://github.com/NethermindEth/nethermind/pull/11641#pullrequestreview-4360621504) - 2026-05-26
 * [Review] [Review on: Add NETH004: enforce RunContinuationsAsynchronously on TaskCompletionSource](https://github.com/NethermindEth/nethermind/pull/11465#pullrequestreview-4360529948) - 2026-05-26
 * [Commit] [Improve JsonRpc plumbing (#11697)](https://github.com/NethermindEth/nethermind/commit/44eea0be841fa4133ae4a819d36b10f4b055610a) - 2026-05-26
+* [Pull Request] [Fast Eth Transfer](https://github.com/NethermindEth/nethermind/pull/11804) - 2026-05-28
+* [Pull Request] [Fast transfer](https://github.com/NethermindEth/nethermind/pull/11801) - 2026-05-27
+* [Review] [Review on: EraE - ensure validated fix](https://github.com/NethermindEth/nethermind/pull/11772#pullrequestreview-4376312335) - 2026-05-27
+* [Review] [Review on: `personal_sign` fix](https://github.com/NethermindEth/nethermind/pull/11774#pullrequestreview-4376306369) - 2026-05-27
+* [Review] [Review on: EIP-7778 gas fix](https://github.com/NethermindEth/nethermind/pull/11794#pullrequestreview-4372296686) - 2026-05-27
+* [Review] [Review on: Peers fix](https://github.com/NethermindEth/nethermind/pull/11797#pullrequestreview-4376294724) - 2026-05-27
+* [Review] [Review on: Fix/eth69 blockrangeupdate validation](https://github.com/NethermindEth/nethermind/pull/11796#pullrequestreview-4372577877) - 2026-05-27
+* [Pull Request] [Refactor Json Streaming](https://github.com/NethermindEth/nethermind/pull/11781) - 2026-05-27
+* [Commit] [Refactor Json Streaming (#11781)](https://github.com/NethermindEth/nethermind/commit/73457910d384f5a089cec344decc1420436812b5) - 2026-05-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

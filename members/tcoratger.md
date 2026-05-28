@@ -224,11 +224,13 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat: add support for RPO hash](https://github.com/Plonky3/Plonky3/pull/1640#pullrequestreview-4355356815) - 2026-05-25
 * [Review] [Review on: fri: reject global max height mismatches](https://github.com/Plonky3/Plonky3/pull/1698#pullrequestreview-4355228434) - 2026-05-25
 * [Review] [Review on: refactor(merkle-tree): remove unused error variants](https://github.com/Plonky3/Plonky3/pull/1705#pullrequestreview-4360796705) - 2026-05-26
+* [Review] [Review on: perf(circle): pack the v_n_prod chain in compute_lagrange_den_batched](https://github.com/Plonky3/Plonky3/pull/1708#pullrequestreview-4373680916) - 2026-05-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05
 * [Issue] [Post-Quantum (PQ) Interop #39, May 13, 2026](https://github.com/ethereum/pm/issues/2055) - 2026-05-13
 * [Issue] [Post-Quantum (PQ) Interop #40, May 20, 2026](https://github.com/ethereum/pm/issues/2065) - 2026-05-20
+* [Issue] [Post-Quantum (PQ) Interop #41, May 27, 2026](https://github.com/ethereum/pm/issues/2081) - 2026-05-27
 ## Q1 2026
 
 

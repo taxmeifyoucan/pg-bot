@@ -278,6 +278,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update dependency mdformat-frontmatter to v2.1.2](https://github.com/ethereum/consensus-specs/pull/5284#pullrequestreview-4363991342) - 2026-05-26
 * [Review] [Review on: Update dependency ruff-md to v0.15.14](https://github.com/ethereum/consensus-specs/pull/5282#pullrequestreview-4363593518) - 2026-05-26
 * [Commit] [Use consistent gossip validation param order/types (#5295)](https://github.com/ethereum/consensus-specs/commit/3584b3a4fb93d64fd89a94839a7176c226b93c14) - 2026-05-26
+* [Review] [Review on: Ensure bids are for a higher slot than their parent](https://github.com/ethereum/consensus-specs/pull/5302#pullrequestreview-4375856675) - 2026-05-27
+* [Review] [Review on: Remove redundant path in `get_weight`](https://github.com/ethereum/consensus-specs/pull/5303#pullrequestreview-4375504963) - 2026-05-27
+* [Review] [Review on: Precompute head for `update_proposer_boost_root`](https://github.com/ethereum/consensus-specs/pull/5300#pullrequestreview-4374430337) - 2026-05-27
+* [Review] [Review on: Add test for checking builder index reuse](https://github.com/ethereum/consensus-specs/pull/5296#pullrequestreview-4373914861) - 2026-05-27
+* [Review] [Review on: Enable more ruff lint checks](https://github.com/ethereum/consensus-specs/pull/5268#pullrequestreview-4372993489) - 2026-05-27
+* [Review] [Review on: Fix `pre_epoch` and `post_epoch` test files docs](https://github.com/ethereum/consensus-specs/pull/5298#pullrequestreview-4373868182) - 2026-05-27
+* [Commit] [Enable more ruff lint checks (#5268)](https://github.com/ethereum/consensus-specs/commit/dde0573318c22b7b779edda366a75ec0980afc56) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

@@ -70,6 +70,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Add StatsAnalyzer to build pipeline (#11766)](https://github.com/NethermindEth/nethermind/commit/cdf8fa7530835475ced0deb1e4ce3c86df676674) - 2026-05-26
 * [Commit] [consensus: standardize slow block JSON output for cross-client metrics (#11400)](https://github.com/NethermindEth/nethermind/commit/06761a4d5411e4980142d604353d29420dea9a89) - 2026-05-26
 * [Commit] [Fix statsanalyzer plugin BAL rename (#11760)](https://github.com/NethermindEth/nethermind/commit/06dc8e90fc33b5343947814bfaa11b47da2551db) - 2026-05-26
+* [Commit] [Change BAL DB key (#11761)](https://github.com/NethermindEth/nethermind/commit/ae03d2b0e3928d37501e4dd2f3a79f2d77535ff5) - 2026-05-27
 ## Q1 2026
 
 

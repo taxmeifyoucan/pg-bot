@@ -234,6 +234,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat(FlatDB): stagger compaction per-instance with random offset (#11756)](https://github.com/NethermindEth/nethermind/commit/4849ab85a705a555e8b4e332d92a799ce277f240) - 2026-05-26
 * [Commit] [feat(Core): introduce NativeMemoryList<T> / NativeMemoryListRef<T> and public ValueAddress (#11758)](https://github.com/NethermindEth/nethermind/commit/78656ca9094579360ca3591f7db35ae841d51c55) - 2026-05-26
 * [Commit] [Add NETH004: enforce RunContinuationsAsynchronously on TaskCompletionSource (#11465)](https://github.com/NethermindEth/nethermind/commit/91d5acafd42f454d7090258644d53dcd23ef6a30) - 2026-05-26
+* [Review] [Review on: Unify assertions](https://github.com/NethermindEth/nethermind/pull/11567#pullrequestreview-4372724560) - 2026-05-27
+* [Pull Request] [feat(snap): cap Proofs count at 256 on inbound snap responses](https://github.com/NethermindEth/nethermind/pull/11786) - 2026-05-27
+* [Review] [Review on: Change BAL DB key](https://github.com/NethermindEth/nethermind/pull/11761#pullrequestreview-4371404774) - 2026-05-27
+* [Pull Request] [refactor(state): replace BeginScope with TryBeginScope to surface state-missing cleanly](https://github.com/NethermindEth/nethermind/pull/11785) - 2026-05-27
+* [Review] [Review on: refactor(state): replace BeginScope with TryBeginScope to surface state-missing cleanly](https://github.com/NethermindEth/nethermind/pull/11785#pullrequestreview-4369844733) - 2026-05-27
+* [Commit] [Feature/Rework DiscV4 (#8616)](https://github.com/NethermindEth/nethermind/commit/0bbc39579a99b5cef1c3f57ca7f6082c3a0714ce) - 2026-05-27
+* [Commit] [chore: enforce IDE0130 (namespace matches folder structure) (#11762)](https://github.com/NethermindEth/nethermind/commit/bdd7df366f9166002bdb2bfa3a092a97e23fe9cb) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

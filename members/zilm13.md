@@ -91,6 +91,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Ethspecify altair + bellatrix update](https://github.com/Consensys/teku/pull/10750#pullrequestreview-4366858707) - 2026-05-26
 * [Review] [Review on: Add target_gas_limit to PayloadAttributes](https://github.com/Consensys/teku/pull/10748#pullrequestreview-4366807110) - 2026-05-26
 * [Commit] [Ethspecify altair + bellatrix update (#10750)](https://github.com/Consensys/teku/commit/fac489e7bec5651fffb13000eb41c4ee1def54f6) - 2026-05-26
+* [Review] [Review on: Optimize onboarding builders at the fork + small refactor](https://github.com/Consensys/teku/pull/10729#pullrequestreview-4372929977) - 2026-05-27
+* [Review] [Review on: Force the proposer to reorg unavailable blocks](https://github.com/Consensys/teku/pull/10741#pullrequestreview-4372782977) - 2026-05-27
+* [Review] [Review on: Introduce separate payload availability deadline + make naturalSet/Map only write ordered](https://github.com/Consensys/teku/pull/10749#pullrequestreview-4372855056) - 2026-05-27
+* [Issue] [Re-enable GloasUpgradeAcceptanceTest once Besu supports FcU with updated PayloadAttributesV4](https://github.com/Consensys/teku/issues/10755) - 2026-05-27
+* [Commit] [Modify `notify_forkchoice_updated` to reflect parents EL block hash in Gloas for safe/finalized (#10747)](https://github.com/Consensys/teku/commit/ac1d248d7bd42421c8d46e669b236080423038ac) - 2026-05-27
+* [Commit] [Force the proposer to reorg unavailable blocks (#10741)](https://github.com/Consensys/teku/commit/e4575e99c49e0b1396bd26d9a37b25b1eb7a0598) - 2026-05-27
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

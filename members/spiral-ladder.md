@@ -122,6 +122,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat: getSyncCommitteesWitness](https://github.com/ChainSafe/lodestar-z/pull/367#pullrequestreview-4354395240) - 2026-05-25
 * [Pull Request] [fix: isExecutionEnabled accepts block object](https://github.com/ChainSafe/lodestar-z/pull/379) - 2026-05-26
 * [Review] [Review on: fix: isExecutionEnabled accepts block object](https://github.com/ChainSafe/lodestar-z/pull/379#pullrequestreview-4364972664) - 2026-05-26
+* [Review] [Review on: chore: disable gemini auto code review](https://github.com/ChainSafe/lodestar-z/pull/382#pullrequestreview-4374565524) - 2026-05-27
+* [Pull Request] [fix(bindings): misordering of print for cpu count](https://github.com/ChainSafe/lodestar-z/pull/381) - 2026-05-27
+* [Commit] [fix(bindings): misordering of print for cpu count (#381)](https://github.com/ChainSafe/lodestar-z/commit/752a97294d5c4613edfae75909ff21d21b7cdb48) - 2026-05-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

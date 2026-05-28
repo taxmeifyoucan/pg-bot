@@ -233,6 +233,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: validate execution payload bids against parent branch state](https://github.com/ChainSafe/lodestar/pull/9409) - 2026-05-26
 * [Review] [Review on: fix: validate execution payload bids against parent branch state](https://github.com/ChainSafe/lodestar/pull/9409#pullrequestreview-4368255095) - 2026-05-26
 * [Review] [Review on: feat: force the proposer to reorg unavailable blocks](https://github.com/ChainSafe/lodestar/pull/9387#pullrequestreview-4365199678) - 2026-05-26
+* [Review] [Review on: fix: validate execution payload bids against parent branch state](https://github.com/ChainSafe/lodestar/pull/9409#pullrequestreview-4375417881) - 2026-05-27
+* [Pull Request] [fix: ensure bids are for a higher slot than their parent](https://github.com/ChainSafe/lodestar/pull/9414) - 2026-05-27
+* [Review] [Review on: fix: move beacon_block_root from path to query in getExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9402#pullrequestreview-4371493952) - 2026-05-27
+* [Review] [Review on: feat: add stateless path to publishExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9401#pullrequestreview-4371738007) - 2026-05-27
+* [Review] [Review on: chore: run caxa via locked pnpm dependency](https://github.com/ChainSafe/lodestar/pull/9413#pullrequestreview-4375669487) - 2026-05-27
+* [Review] [Review on: fix: skip casting payload attestation when there is no block at slot](https://github.com/ChainSafe/lodestar/pull/9406#pullrequestreview-4371797406) - 2026-05-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -305,6 +311,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Add `target_gas_limit` to `PayloadAttributes` (#5235)](https://github.com/ethereum/consensus-specs/commit/5ea5de9245f367c6d7ecd48ed7569392cd81243c) - 2026-05-15
 * [Commit] [Yield mutated state in gossip block test (#5252)](https://github.com/ethereum/consensus-specs/commit/3696402c15c992fe4d36c81e72e758352b5afdb2) - 2026-05-14
 * [Review] [Review on: Add executable gossip validation functions for gloas](https://github.com/ethereum/consensus-specs/pull/5294#pullrequestreview-4367823969) - 2026-05-26
+* [Pull Request] [Ensure bids are for a higher slot than their parent](https://github.com/ethereum/consensus-specs/pull/5302) - 2026-05-27
+* [Review] [Review on: Add executable gossip validation functions for gloas](https://github.com/ethereum/consensus-specs/pull/5294#pullrequestreview-4372982136) - 2026-05-27
+* [Commit] [Ensure bids are for a higher slot than their parent (#5302)](https://github.com/ethereum/consensus-specs/commit/55519bbcf85b35b1c9a038edb2a3da8a1497c8b4) - 2026-05-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 
