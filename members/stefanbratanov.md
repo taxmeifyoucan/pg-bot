@@ -86,6 +86,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Minimal pinned block production - fix late block reorg](https://github.com/Consensys/teku/pull/10740#pullrequestreview-4363519832) - 2026-05-26
 * [Commit] [Batch new builder deposit signature verifications during block processing (#10708)](https://github.com/Consensys/teku/commit/4749527f6fc7a203c98b8a0bb2767fa264ee2275) - 2026-05-26
 * [Commit] [Weak Subjectivity protections for Electra/Gloas (#10739)](https://github.com/Consensys/teku/commit/cb57e4a660e79066a8406a6e7ea97f21da5251cb) - 2026-05-27
+* [Review] [Review on: Optimize onboarding builders at the fork + add BuilderIndexCache](https://github.com/Consensys/teku/pull/10729#pullrequestreview-4380242568) - 2026-05-28
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

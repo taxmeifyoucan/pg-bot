@@ -93,6 +93,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(tests): extend BAL create collision test cases](https://github.com/ethereum/execution-specs/pull/2917#pullrequestreview-4365799106) - 2026-05-26
 * [Review] [Review on: feat(tests): Extend coverage for BAL](https://github.com/ethereum/execution-specs/pull/2897#pullrequestreview-4365592802) - 2026-05-26
 * [Commit] [feat(tests): stateful test filling for benchmark tests (#2637)](https://github.com/ethereum/execution-specs/commit/1596cf66f66a77d2ca956029527a13f9afd2903e) - 2026-05-26
+* [Commit] [feat(tests): extend BAL create collision test cases (#2917)](https://github.com/ethereum/execution-specs/commit/efd53ffc54d843ec59fcbaacb627f418634f44c4) - 2026-05-28
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst: wire up slotnum for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34721) - 2026-04-14
 * [Pull Request] [eth/catalyst: respect slot num if specified in payload attributes for `testing_buildBlockV1`](https://github.com/ethereum/go-ethereum/pull/34722) - 2026-04-14

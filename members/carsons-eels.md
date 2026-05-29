@@ -28,6 +28,8 @@ Github: [@carsons-eels](https://github.com/carsons-eels)
 * [Commit] [feat(spec-specs, tests): add EIP-7954 Increase Maximum Contract Size (#2850)](https://github.com/ethereum/execution-specs/commit/c198ebf00ab3897f66ed49bc28cc4c50aa61a858) - 2026-05-15
 * [Issue] [Missing Point Evaluation G1 Negation Test Cases](https://github.com/ethereum/execution-specs/issues/2909) - 2026-05-25
 * [Pull Request] [refactor(src,tests): fix spelling error. KECCACK => KECCAK](https://github.com/ethereum/execution-specs/pull/2931) - 2026-05-27
+* [Review] [Review on: feat(spec-spec, tests): Implement eip-8246 and testing scenario](https://github.com/ethereum/execution-specs/pull/2842#pullrequestreview-4378652440) - 2026-05-28
+* [Commit] [refactor(src,tests): fix spelling error. KECCACK => KECCAK (#2931)](https://github.com/ethereum/execution-specs/commit/d5b734b1f5de391ca5b53e39fcbcf3341d0159e5) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489) - 2026-04-10
 

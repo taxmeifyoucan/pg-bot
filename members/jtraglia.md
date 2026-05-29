@@ -285,6 +285,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Enable more ruff lint checks](https://github.com/ethereum/consensus-specs/pull/5268#pullrequestreview-4372993489) - 2026-05-27
 * [Review] [Review on: Fix `pre_epoch` and `post_epoch` test files docs](https://github.com/ethereum/consensus-specs/pull/5298#pullrequestreview-4373868182) - 2026-05-27
 * [Commit] [Enable more ruff lint checks (#5268)](https://github.com/ethereum/consensus-specs/commit/dde0573318c22b7b779edda366a75ec0980afc56) - 2026-05-27
+* [Review] [Review on: Remove support for old deposit mechanism in Fulu](https://github.com/ethereum/consensus-specs/pull/4704#pullrequestreview-4381923863) - 2026-05-28
+* [Review] [Review on: Apply proposer boost if dependent roots match](https://github.com/ethereum/consensus-specs/pull/5306#pullrequestreview-4381874792) - 2026-05-28
+* [Review] [Review on: Add executable gossip validation functions for gloas](https://github.com/ethereum/consensus-specs/pull/5294#pullrequestreview-4382508469) - 2026-05-28
+* [Review] [Review on: Add tests for builder payments processing](https://github.com/ethereum/consensus-specs/pull/5297#pullrequestreview-4383261109) - 2026-05-28
+* [Review] [Review on: Fix inconsistent `gossip_bls_to_execution_change` fixtures](https://github.com/ethereum/consensus-specs/pull/5308#pullrequestreview-4383225274) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

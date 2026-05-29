@@ -97,6 +97,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Issue] [Re-enable GloasUpgradeAcceptanceTest once Besu supports FcU with updated PayloadAttributesV4](https://github.com/Consensys/teku/issues/10755) - 2026-05-27
 * [Commit] [Modify `notify_forkchoice_updated` to reflect parents EL block hash in Gloas for safe/finalized (#10747)](https://github.com/Consensys/teku/commit/ac1d248d7bd42421c8d46e669b236080423038ac) - 2026-05-27
 * [Commit] [Force the proposer to reorg unavailable blocks (#10741)](https://github.com/Consensys/teku/commit/e4575e99c49e0b1396bd26d9a37b25b1eb7a0598) - 2026-05-27
+* [Pull Request] [Reftests alpha8](https://github.com/Consensys/teku/pull/10762) - 2026-05-28
+* [Review] [Review on: print empty when head is not FULL](https://github.com/Consensys/teku/pull/10761#pullrequestreview-4381493026) - 2026-05-28
+* [Pull Request] [Check gas limit consistency with the target](https://github.com/Consensys/teku/pull/10760) - 2026-05-28
+* [Commit] [Add target_gas_limit to PayloadAttributes (#10748)](https://github.com/Consensys/teku/commit/a1015e0d1c290a768a1f57843ceead62901030ac) - 2026-05-28
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

@@ -76,6 +76,9 @@ Team: Geth
 * [Review] [Review on: core: rolling history expiry](https://github.com/ethereum/go-ethereum/pull/34104#pullrequestreview-4371384412) - 2026-05-27
 * [Review] [Review on: accounts/external, signer/core: support setcode txs](https://github.com/ethereum/go-ethereum/pull/35047#pullrequestreview-4370467922) - 2026-05-27
 * [Review] [Review on: trie: introduce UpdateBatch](https://github.com/ethereum/go-ethereum/pull/32448#pullrequestreview-4370189398) - 2026-05-27
+* [Pull Request] [tests: added BAL specific tests](https://github.com/ethereum/go-ethereum/pull/35064) - 2026-05-28
+* [Pull Request] [go.mod: update pion/dtls](https://github.com/ethereum/go-ethereum/pull/35062) - 2026-05-28
+* [Commit] [go.mod: update pion/dtls (#35062)](https://github.com/ethereum/go-ethereum/commit/9f434c04db0a5e443139efd381e25095e1a6da48) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

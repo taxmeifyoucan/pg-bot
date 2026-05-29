@@ -71,6 +71,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Validate RLPx frame size lower bound in deframer](https://github.com/besu-eth/besu/pull/10522) - 2026-05-18
 * [Pull Request] [Pass start hash through findNewBeginElementInRange](https://github.com/besu-eth/besu/pull/10531) - 2026-05-19
 * [Pull Request] [feat: implement EIP-8141 Frame Transaction support](https://github.com/besu-eth/besu/pull/10557) - 2026-05-27
+* [Review] [Review on: add eth_getTransactionBySenderAndNonce RPC](https://github.com/besu-eth/besu/pull/10501#pullrequestreview-4382643296) - 2026-05-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 * [Issue] [Encrypt The Mempool #4, May 13, 2026](https://github.com/ethereum/pm/issues/2054) - 2026-05-12

@@ -152,6 +152,15 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Activate BAL only when needed](https://github.com/NethermindEth/nethermind/pull/11795) - 2026-05-27
 * [Review] [Review on: Fix/eth69 blockrangeupdate validation](https://github.com/NethermindEth/nethermind/pull/11796#pullrequestreview-4372504894) - 2026-05-27
 * [Commit] [Unify assertions (#11567)](https://github.com/NethermindEth/nethermind/commit/ba5a91757a89fc67befa1f1542925b72b511391d) - 2026-05-27
+* [Review] [Review on: Activate BAL only when needed](https://github.com/NethermindEth/nethermind/pull/11795#pullrequestreview-4380670719) - 2026-05-28
+* [Review] [Review on: ValueHash256Converter fix](https://github.com/NethermindEth/nethermind/pull/11820#pullrequestreview-4381914839) - 2026-05-28
+* [Review] [Review on: fix(tests): pin Microsoft.Testing.Platform to fix flaky CI](https://github.com/NethermindEth/nethermind/pull/11816#pullrequestreview-4382046255) - 2026-05-28
+* [Review] [Review on: Build fix](https://github.com/NethermindEth/nethermind/pull/11819#pullrequestreview-4381634290) - 2026-05-28
+* [Review] [Review on: EIP-7778 gas fix](https://github.com/NethermindEth/nethermind/pull/11794#pullrequestreview-4381105624) - 2026-05-28
+* [Review] [Review on: fix(test): remove duplicate tests](https://github.com/NethermindEth/nethermind/pull/11814#pullrequestreview-4381091187) - 2026-05-28
+* [Pull Request] [KAD/discv4 debug logs](https://github.com/NethermindEth/nethermind/pull/11811) - 2026-05-28
+* [Commit] [Activate BAL only when needed (#11795)](https://github.com/NethermindEth/nethermind/commit/b7780a044df7b234bee8fc5678588701538735f2) - 2026-05-28
+* [Commit] [Log KAD report as a trace (#11811)](https://github.com/NethermindEth/nethermind/commit/790174cd146cda61f939f9f7e55f6fdaf709ed1a) - 2026-05-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

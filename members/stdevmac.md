@@ -73,6 +73,9 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [ci: retrigger workflows (Flat DB test was flaky)](https://github.com/NethermindEth/nethermind/commit/b798c4a3e7755923f347d08b86dbf669ed3fe27f) - 2026-05-26
 * [Commit] [refactor(eth/70): disambiguate "unknown" vs "legit empty" in ISyncServer.GetReceipts](https://github.com/NethermindEth/nethermind/commit/1d880beaa5e73891dab24482a71ff12fdecf965e) - 2026-05-26
 * [Commit] [fix(eth/70): stop response early when block has txs but no receipts](https://github.com/NethermindEth/nethermind/commit/f0f6ea27b84e992465caf191b33e09193899d20e) - 2026-05-26
+* [Pull Request] [Fix shutdown race in SnapProvider PLINQ (closes #11806)](https://github.com/NethermindEth/nethermind/pull/11807) - 2026-05-28
+* [Issue] [Snap sync logs `AggregateException(ObjectDisposedException)` at ERROR on shutdown; fails post-merge fuzz tests](https://github.com/NethermindEth/nethermind/issues/11806) - 2026-05-28
+* [Commit] [Fix shutdown race in SnapProvider PLINQ (closes #11806) (#11807)](https://github.com/NethermindEth/nethermind/commit/5c7b4797d089a6fd28b81db2355abb4079e92cce) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

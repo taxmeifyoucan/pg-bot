@@ -18,6 +18,7 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 * [Pull Request] [ci: add fork-author guard to evm-opcode-benchmark-diff workflow](https://github.com/NethermindEth/nethermind/pull/11576) - 2026-05-12
 * [Commit] [ci: add fork-author guard to evm-opcode-benchmark-diff workflow (#11576)](https://github.com/NethermindEth/nethermind/commit/4c8b45d3bf247f0f40c961b9b5d33e3cb4aeb9a2) - 2026-05-12
 * [Pull Request] [Fix invalid eth/69 BlockRangeUpdate handling](https://github.com/NethermindEth/nethermind/pull/11792) - 2026-05-27
+* [Pull Request] [Fix FlatSnapServer trie node response limit](https://github.com/NethermindEth/nethermind/pull/11809) - 2026-05-28
 ## Q1 2026
 
 

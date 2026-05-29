@@ -39,6 +39,8 @@ Team: Erigon
 * [Review] [Review on: [r3.4] ci(docs): mirror update-disk-sizes lint/security hardening from main](https://github.com/erigontech/erigon/pull/21271#pullrequestreview-4317909540) - 2026-05-19
 * [Issue] [checkpoint state error, unable to get in sync (main branch)](https://github.com/erigontech/erigon/issues/21272) - 2026-05-19
 * [Issue] [The BlockCollector fails to insert blocks on Gnosis/Chiado due to a 'parent's total difficulty not found' error](https://github.com/erigontech/erigon/issues/21424) - 2026-05-26
+* [Review] [Review on: .github: remove Claude Code Review workflow](https://github.com/erigontech/erigon/pull/21485#pullrequestreview-4380576882) - 2026-05-28
+* [Pull Request] [qa-tests: improve the reporting of job names in the test report.](https://github.com/erigontech/erigon/pull/21474) - 2026-05-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10

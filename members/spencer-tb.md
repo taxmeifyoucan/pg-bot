@@ -95,6 +95,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Test Release Tracker: `benchmark@v0.0.10`](https://github.com/ethereum/execution-specs/issues/2913) - 2026-05-26
 * [Issue] [Add dedicated GasCosts parameters for SELFBALANCE, TLOAD, and TSTORE](https://github.com/ethereum/execution-specs/issues/2911) - 2026-05-26
 * [Review] [Review on: feat(spec-specs, tests): alt to merge 8037 to forks/amsterdam](https://github.com/ethereum/execution-specs/pull/2901#pullrequestreview-4371937079) - 2026-05-27
+* [Review] [Review on: feat(tests): extend BAL create collision test cases](https://github.com/ethereum/execution-specs/pull/2917#pullrequestreview-4380859292) - 2026-05-28
+* [Review] [Review on: feat(tests): EIP-4844 point evaluation -G1 and G1 doubling vectors](https://github.com/ethereum/execution-specs/pull/2927#pullrequestreview-4380845895) - 2026-05-28
+* [Review] [Review on: refactor(src,tests): fix spelling error. KECCACK => KECCAK](https://github.com/ethereum/execution-specs/pull/2931#pullrequestreview-4379599942) - 2026-05-28
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

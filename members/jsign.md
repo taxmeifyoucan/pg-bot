@@ -50,6 +50,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat(zkevm): revisit SSZ-Lists max lengths and properly document rationale for them](https://github.com/ethereum/execution-specs/pull/2919#pullrequestreview-4367435929) - 2026-05-26
 * [Pull Request] [feat(zkevm): refactor added Blockchain modifications into separate stateless module](https://github.com/ethereum/execution-specs/pull/2928) - 2026-05-27
 * [Pull Request] [feat(zkevm): prune non scheduled forks in ProtocolFork](https://github.com/ethereum/execution-specs/pull/2926) - 2026-05-27
+* [Pull Request] [feat(zkevm): add test for pubkey check on wrong parity case](https://github.com/ethereum/execution-specs/pull/2938) - 2026-05-29
+* [Pull Request] [feat(zkevm): add ChainConfig tests](https://github.com/ethereum/execution-specs/pull/2937) - 2026-05-28
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01
@@ -86,6 +88,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [feat: add support for EEST blockchain test fixtures (#286)](https://github.com/eth-act/zkevm-benchmark-workload/commit/02758cd977005504591066ccacfb1e286c161961) - 2026-05-22
 * [Pull Request] [Documentation improvements](https://github.com/eth-act/zkevm-benchmark-workload/pull/288) - 2026-05-25
 * [Commit] [Documentation improvements (#288)](https://github.com/eth-act/zkevm-benchmark-workload/commit/73f140c809c48cc61b742c62dd43902870ae8e09) - 2026-05-25
+* [Pull Request] [Add experimental witness-generator-spec-cli](https://github.com/eth-act/zkevm-benchmark-workload/pull/290) - 2026-05-28
+* [Review] [Review on: feat: iter_benchmark_fixture_paths returns sorted paths by file name](https://github.com/eth-act/zkevm-benchmark-workload/pull/289#pullrequestreview-4377728450) - 2026-05-28
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08

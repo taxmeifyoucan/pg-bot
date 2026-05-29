@@ -72,6 +72,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests,ci): Verify filled benchmark fixtures against EELS via json_loader](https://github.com/ethereum/execution-specs/pull/2894#pullrequestreview-4365923930) - 2026-05-26
 * [Review] [Review on: refactor(src,tests): fix spelling error. KECCACK => KECCAK](https://github.com/ethereum/execution-specs/pull/2931#pullrequestreview-4377309983) - 2026-05-28
 * [Issue] [Fix docstring for `TransactionEnvironment`](https://github.com/ethereum/execution-specs/issues/2929) - 2026-05-27
+* [Pull Request] [chore(specs): add final decorator](https://github.com/ethereum/execution-specs/pull/2934) - 2026-05-28
 ## Q1 2026
 
 

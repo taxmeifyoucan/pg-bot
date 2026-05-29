@@ -159,6 +159,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: wait for filter ack before returning subscriptions](https://github.com/erigontech/erigon/pull/20536#pullrequestreview-4362194528) - 2026-05-26
 * [Commit] [rpc: fix trace_call block overrides (#21019)](https://github.com/erigontech/erigon/commit/9d2336df57487c3f60097f10d8a85e8bb49488f6) - 2026-05-26
 * [Commit] [rpc: fix debug_executionWitness header fields and system address inclusion (EIP-7928) (#21371)](https://github.com/erigontech/erigon/commit/5ce0652df089e55ef6adc3514047d8a14bcece6d) - 2026-05-26
+* [Pull Request] [QA: update rpcTets version 2.12](https://github.com/erigontech/erigon/pull/21501) - 2026-05-28
+* [Pull Request] [rpc: skip zero→zero keys in detectCollapseSiblings to reduce extra witness nodes](https://github.com/erigontech/erigon/pull/21491) - 2026-05-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -197,6 +199,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration-test: ots_searchTransactionsAfter modify rsp test_11, test_12 to have rsp fix respent TIP move](https://github.com/erigontech/rpc-tests/pull/564) - 2026-05-24
 * [Pull Request] [integration test: debug execution witness for hive](https://github.com/erigontech/rpc-tests/pull/563) - 2026-05-24
 * [Review] [Review on: fix: base fee too low error code](https://github.com/erigontech/rpc-tests/pull/567#pullrequestreview-4367068652) - 2026-05-26
+* [Commit] [add head filed on eth_capabilities (#565)](https://github.com/erigontech/rpc-tests/commit/6675c16831adb8f87e4a4e635d11ebe6d5c6e26e) - 2026-05-28
+* [Commit] [modify rsp to have rsp fix respent TIP move (#564)](https://github.com/erigontech/rpc-tests/commit/0f41216648194f653744e22cf4bb500456fde634) - 2026-05-28
 ## Q1 2026
 
 

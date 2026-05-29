@@ -509,6 +509,15 @@ Team: Reth
 * [Commit] [refactor(net): use B256 collections for tx hashes (#24565)](https://github.com/paradigmxyz/reth/commit/283cc32396784be892ee8343ccde80dc8716f126) - 2026-05-26
 * [Commit] [fix(rpc): default eth_simulateV1 fee fields to 0 per spec (#24386)](https://github.com/paradigmxyz/reth/commit/e84f716b31d05706196f817077962850e4fd7c2b) - 2026-05-26
 * [Commit] [refactor(payload): use alloy gas limit helper (#24590)](https://github.com/paradigmxyz/reth/commit/7c5168c17a966081fb2b4523dadabb76f5a3e6bb) - 2026-05-27
+* [Review] [Review on: fix(rpc): align simulate response fields](https://github.com/paradigmxyz/reth/pull/24630#pullrequestreview-4381797942) - 2026-05-28
+* [Review] [Review on: fix(rpc): gap-fill empty blocks in eth_simulateV1](https://github.com/paradigmxyz/reth/pull/24388#pullrequestreview-4382874135) - 2026-05-28
+* [Review] [Review on: fix(rpc): handle simulate precompile self moves](https://github.com/paradigmxyz/reth/pull/24567#pullrequestreview-4378429481) - 2026-05-28
+* [Review] [Review on: ci: expose bench observability links](https://github.com/paradigmxyz/reth/pull/24625#pullrequestreview-4380556682) - 2026-05-28
+* [Review] [Review on: fix: don't gate BAL path on caches anymore](https://github.com/paradigmxyz/reth/pull/24616#pullrequestreview-4378348461) - 2026-05-28
+* [Review] [Review on: chore(deps): bump the cargo-weekly group with 5 updates](https://github.com/paradigmxyz/reth/pull/24608#pullrequestreview-4378448008) - 2026-05-28
+* [Review] [Review on: fix(engine): gate BAL storage prefetch on parent account existence](https://github.com/paradigmxyz/reth/pull/24371#pullrequestreview-4378453749) - 2026-05-28
+* [Review] [Review on: chore: clarify the intent behind not fill-on-miss](https://github.com/paradigmxyz/reth/pull/24612#pullrequestreview-4378296001) - 2026-05-28
+* [Commit] [fix(rpc): gap-fill empty blocks in eth_simulateV1 (#24388)](https://github.com/paradigmxyz/reth/commit/ed9b50589e8146a1a8badd84d3b77458fecb2a32) - 2026-05-28
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -527,6 +536,7 @@ Team: Reth
 * [Review] [Review on: feat: add `OnStateHook` for `State<DB>`](https://github.com/bluealloy/revm/pull/3710#pullrequestreview-4346988510) - 2026-05-22
 * [Pull Request] [docs: explain CPSB acronym](https://github.com/bluealloy/revm/pull/3716) - 2026-05-25
 * [Commit] [docs: explain CPSB acronym (#3716)](https://github.com/bluealloy/revm/commit/1d4f18a14d35013c63d33aaa98a2cb1b54b85518) - 2026-05-25
+* [Review] [Review on: feat: `Account::is_changed`](https://github.com/bluealloy/revm/pull/3727#pullrequestreview-4384080780) - 2026-05-28
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
 ## Q1 2026

@@ -18,6 +18,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Update EIP-8081: add EIP-4758](https://github.com/ethereum/EIPs/commit/357eb4d2cd6210e3517778b123e55d9e9411c9e3) - 2026-05-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(specs): add missing type annotations](https://github.com/ethereum/execution-specs/pull/2868#pullrequestreview-4328662835) - 2026-05-20
+* [Review] [Review on: refactor(spec-tools): use testing pydantic models in t8n](https://github.com/ethereum/execution-specs/pull/2924#pullrequestreview-4380007237) - 2026-05-28
 ## Q1 2026
 
 

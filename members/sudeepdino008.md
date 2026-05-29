@@ -223,6 +223,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [stage_exec ci : errors on interrupt are not floated up](https://github.com/erigontech/erigon/issues/21412) - 2026-05-26
 * [Review] [Review on: re-introduce block catchup recovery](https://github.com/erigontech/erigon/pull/21415#pullrequestreview-4369404888) - 2026-05-27
 * [Review] [Review on: grwoslice: use `slices.Grow` instead of hand-rolled grow funcs ](https://github.com/erigontech/erigon/pull/21439#pullrequestreview-4370328485) - 2026-05-27
+* [Review] [Review on: [wip] experiment: merge on own `mmap` with `madv_sequential`](https://github.com/erigontech/erigon/pull/21482#pullrequestreview-4381442653) - 2026-05-28
 ## Q1 2026
 
 

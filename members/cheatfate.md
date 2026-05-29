@@ -21,6 +21,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Fix subscribe/unsubscribe sequence which should not be introduced, un…](https://github.com/status-im/nimbus-eth2/pull/8403) - 2026-05-05
 * [Review] [Review on: Fix Validator Custody issues.](https://github.com/status-im/nimbus-eth2/pull/8404#pullrequestreview-4234952750) - 2026-05-06
 * [Pull Request] [Fix ColumnQuarantine to start  use correct amount of supernode columns.](https://github.com/status-im/nimbus-eth2/pull/8417) - 2026-05-07
+* [Review] [Review on: rm unused publishBlindedBlock support for deprecated API from VC](https://github.com/status-im/nimbus-eth2/pull/8519#pullrequestreview-4384770355) - 2026-05-28
 ## Q1 2026
 
 

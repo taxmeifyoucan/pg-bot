@@ -112,6 +112,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-consume): Validate RPC header fields in consume rlp](https://github.com/ethereum/execution-specs/pull/2895#pullrequestreview-4373034788) - 2026-05-27
 * [Review] [Review on: chore(test-benchmark): remove repricing tag for unnecessary benchmark](https://github.com/ethereum/execution-specs/pull/2921#pullrequestreview-4370250043) - 2026-05-27
 * [Commit] [feat(tests,ci): Verify filled benchmark fixtures against EELS via json_loader (#2894)](https://github.com/ethereum/execution-specs/commit/d89c7ce029c23d4c2c27490dcf7cbdeb71619ce7) - 2026-05-27
+* [Pull Request] [feat(tests): EIP-7778 admission gate uses pre-refund gas](https://github.com/ethereum/execution-specs/pull/2932) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 

@@ -48,6 +48,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Add `POST beacon/bid` endpoint](https://github.com/sigp/lighthouse/pull/9347#pullrequestreview-4362546392) - 2026-05-26
 * [Pull Request] [Add payload attestation test to validator client](https://github.com/sigp/lighthouse/pull/9357) - 2026-05-26
 * [Review] [Review on: Add payload attestation test to validator client](https://github.com/sigp/lighthouse/pull/9357#pullrequestreview-4372449917) - 2026-05-27
+* [Review] [Review on: Add payload attestation test to validator client](https://github.com/sigp/lighthouse/pull/9357#pullrequestreview-4385874652) - 2026-05-29
+* [Review] [Review on: Add `POST beacon/bid` endpoint](https://github.com/sigp/lighthouse/pull/9347#pullrequestreview-4380411023) - 2026-05-28
 ## Q1 2026
 
 

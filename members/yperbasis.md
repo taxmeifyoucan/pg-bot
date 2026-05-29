@@ -486,6 +486,32 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [.github: skip Claude review on fork PRs; allow erigon-copilot bot (#21450)](https://github.com/erigontech/erigon/commit/92d804159777c0daf0fb6db9cfb53a46e0a15581) - 2026-05-27
 * [Commit] [txnprovider/txpool: drop and kick peers on blob KZG verify failure (#21421)](https://github.com/erigontech/erigon/commit/e4deed1ac7d840315f5131dbfc1b35a6817c0162) - 2026-05-27
 * [Commit] [ci: surface merge-queue root cause when fail-fast cancels the run (#21445)](https://github.com/erigontech/erigon/commit/d97c3be18a69281c85d7498963638be41d8eeab8) - 2026-05-27
+* [Review] [Review on: execution: slim unit test for DeriveSha with >16MB receipt, drop LFS](https://github.com/erigontech/erigon/pull/21486#pullrequestreview-4380512603) - 2026-05-28
+* [Pull Request] [db/kv/memstoredb, node: experimental pure-Go in-memory kv.RwDB](https://github.com/erigontech/erigon/pull/21499) - 2026-05-28
+* [Pull Request] [.github: remove Claude Code Review workflow](https://github.com/erigontech/erigon/pull/21485) - 2026-05-28
+* [Pull Request] [ci: extend merge_group fail-fast and auto-dequeue failed PRs](https://github.com/erigontech/erigon/pull/21498) - 2026-05-28
+* [Pull Request] [execution/p2p, execution/engineapi: fail-fast NewPayload backward download when gap exceeds limit](https://github.com/erigontech/erigon/pull/21489) - 2026-05-28
+* [Pull Request] [execution: trace EIP-7702 state-gas refund per auth and incarnation](https://github.com/erigontech/erigon/pull/21490) - 2026-05-28
+* [Review] [Review on: execution: trace EIP-7702 state-gas refund per auth and incarnation](https://github.com/erigontech/erigon/pull/21490#pullrequestreview-4383896726) - 2026-05-28
+* [Review] [Review on: [SharovBot] fix: deep copy chain.Config to fix flaky TestInvalidReceiptHashHighMgas](https://github.com/erigontech/erigon/pull/21430#pullrequestreview-4379970826) - 2026-05-28
+* [Review] [Review on: rpc/jsonrpc: filter redundant collapse-sibling nodes from debug_executionWitness](https://github.com/erigontech/erigon/pull/21484#pullrequestreview-4380385667) - 2026-05-28
+* [Review] [Review on: all: remove account incarnations](https://github.com/erigontech/erigon/pull/21256#pullrequestreview-4383720076) - 2026-05-28
+* [Pull Request] [ci: cancel orphaned merge-queue runs when their queue branch is deleted](https://github.com/erigontech/erigon/pull/21492) - 2026-05-28
+* [Review] [Review on: bloatnet: auto-nuke StateCache on low hit_rate](https://github.com/erigontech/erigon/pull/21468#pullrequestreview-4379811863) - 2026-05-28
+* [Pull Request] [ci: fail-fast hive-eest matrix on merge_group so broken PRs evict quickly](https://github.com/erigontech/erigon/pull/21483) - 2026-05-28
+* [Pull Request] [execution/types, stagedsync: EIP-7928 phantom-read early reject](https://github.com/erigontech/erigon/pull/21495) - 2026-05-28
+* [Pull Request] [p2p/sentry: kick peers sending oversized NewBlockHashes](https://github.com/erigontech/erigon/pull/21476) - 2026-05-28
+* [Review] [Review on: p2p/sentry: kick peers sending oversized NewBlockHashes](https://github.com/erigontech/erigon/pull/21476#pullrequestreview-4380129630) - 2026-05-28
+* [Review] [Review on: common/crypto/ecies: correctly return ErrInvalidMessage](https://github.com/erigontech/erigon/pull/21464#pullrequestreview-4380313962) - 2026-05-28
+* [Review] [Review on: execution/abi: forEachUnpack ABI error message arguments swapped](https://github.com/erigontech/erigon/pull/21460#pullrequestreview-4380252093) - 2026-05-28
+* [Pull Request] [execution/types: clear AuRa/PoS fields on Header decode to stop hoisted-reuse leak](https://github.com/erigontech/erigon/pull/21478) - 2026-05-28
+* [Review] [Review on: [SharovBot] engineapitester: increase RetryEngine timeout under race detector](https://github.com/erigontech/erigon/pull/21429#pullrequestreview-4379464825) - 2026-05-28
+* [Issue] [p2p/sentry: NewBlockHashes peek does not validate inner [hash, number] pair structure](https://github.com/erigontech/erigon/issues/21488) - 2026-05-28
+* [Commit] [.github: remove Claude Code Review workflow (#21485)](https://github.com/erigontech/erigon/commit/0584120fd6626ad532cbd84f13c6b99cc9d148f7) - 2026-05-28
+* [Commit] [execution/p2p, execution/engineapi: fail-fast NewPayload backward download when gap exceeds limit (#21489)](https://github.com/erigontech/erigon/commit/bc12fe068481649504945bd4f6c5b3852c72aee1) - 2026-05-28
+* [Commit] [execution/execmodule: return FCU result without waiting for flush+commit (#21444)](https://github.com/erigontech/erigon/commit/219e78edc3b89d656e89cb6a16107d55737bc3b6) - 2026-05-28
+* [Commit] [ci: build hive & hive-eest erigon clients from local source, not an ephemeral merge-queue ref (#21447)](https://github.com/erigontech/erigon/commit/76bd1e1920ca1827723c1341abe596b43f89cd18) - 2026-05-28
+* [Commit] [ci: fail-fast hive-eest matrix on merge_group so broken PRs evict quickly (#21483)](https://github.com/erigontech/erigon/commit/53a1cbc595764c7623c4d1b31d145f473e45e263) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

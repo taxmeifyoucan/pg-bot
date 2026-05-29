@@ -227,6 +227,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Acceptance Tests: if error creating ports file, make it obvious (#10555)](https://github.com/besu-eth/besu/commit/ed338a3a2c7363d78fcb3472b02380322dbe8f77) - 2026-05-27
 * [Commit] [perf: parallelize block body DB lookups in engine_getPayloadBodies methods (#10532)](https://github.com/besu-eth/besu/commit/c6581ae1e782f27ebdb51e4b89bf957f77cc0f2e) - 2026-05-26
 * [Review] [Review on: perf: cache last validated JWT token in EngineAuthService](https://github.com/besu-eth/besu/pull/10559#pullrequestreview-4370227517) - 2026-05-27
+* [Pull Request] [build: make reproducible archive settings explicit](https://github.com/besu-eth/besu/pull/10568) - 2026-05-29
+* [Pull Request] [promote Maven artifacts from staging instead of rebuilding at publish time](https://github.com/besu-eth/besu/pull/10567) - 2026-05-28
+* [Review] [Review on: Fixed - logging cleanup for invalid blocks #10160](https://github.com/besu-eth/besu/pull/10180#pullrequestreview-4380063343) - 2026-05-28
+* [Review] [Review on: ci: extract reusable docker.yml and migrate develop.yml to GHA](https://github.com/besu-eth/besu/pull/10366#pullrequestreview-4377843448) - 2026-05-28
+* [Review] [Review on: Avoid blocking txpool save restore callers](https://github.com/besu-eth/besu/pull/10561#pullrequestreview-4377871850) - 2026-05-28
+* [Commit] [Fix engine_newPayload invalid request type invalid status (#10525)](https://github.com/besu-eth/besu/commit/ac856c771857c0a51de8de0170eb64304a6fa303) - 2026-05-28
+* [Commit] [perf: cache last validated JWT token in EngineAuthService (#10559)](https://github.com/besu-eth/besu/commit/d18b08a4c5a607b3845c9017a8baaf64dbdb1716) - 2026-05-28
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

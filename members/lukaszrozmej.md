@@ -545,9 +545,22 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Refactor Json Streaming](https://github.com/NethermindEth/nethermind/pull/11781#pullrequestreview-4369427920) - 2026-05-27
 * [Commit] [test: fix flaky KademliaNodeSource ping assertions (#11800)](https://github.com/NethermindEth/nethermind/commit/ee19d7e3d2991d726330f35de5ab1152bad1f63b) - 2026-05-27
 * [Commit] [Fix/eth69 blockrangeupdate validation (#11796)](https://github.com/NethermindEth/nethermind/commit/89b0d0402990359cece2be95ffb61382e82790c5) - 2026-05-27
+* [Review] [Review on: rpc: reject EIP-1474 invalid balance params](https://github.com/NethermindEth/nethermind/pull/11779#pullrequestreview-4379216642) - 2026-05-28
+* [Pull Request] [fix(blockchain): bound ClearStaleMarkersAbove scan and flush batch periodically](https://github.com/NethermindEth/nethermind/pull/11818) - 2026-05-28
+* [Review] [Review on: fix(blockchain): bound ClearStaleMarkersAbove scan and flush batch periodically](https://github.com/NethermindEth/nethermind/pull/11818#pullrequestreview-4381471702) - 2026-05-28
+* [Review] [Review on: Activate BAL only when needed](https://github.com/NethermindEth/nethermind/pull/11795#pullrequestreview-4382330756) - 2026-05-28
+* [Review] [Review on: ValueHash256Converter fix](https://github.com/NethermindEth/nethermind/pull/11820#pullrequestreview-4381776666) - 2026-05-28
+* [Review] [Review on: fix(tests): pin Microsoft.Testing.Platform to fix flaky CI](https://github.com/NethermindEth/nethermind/pull/11816#pullrequestreview-4381253943) - 2026-05-28
+* [Review] [Review on: Build fix](https://github.com/NethermindEth/nethermind/pull/11819#pullrequestreview-4381779715) - 2026-05-28
+* [Review] [Review on: Fast Eth Transfer](https://github.com/NethermindEth/nethermind/pull/11804#pullrequestreview-4378941380) - 2026-05-28
+* [Review] [Review on: KAD/discv4 debug logs](https://github.com/NethermindEth/nethermind/pull/11811#pullrequestreview-4380514792) - 2026-05-28
+* [Review] [Review on: Fix FlatSnapServer trie node response limit](https://github.com/NethermindEth/nethermind/pull/11809#pullrequestreview-4380074470) - 2026-05-28
+* [Review] [Review on: Fix shutdown race in SnapProvider PLINQ (closes #11806)](https://github.com/NethermindEth/nethermind/pull/11807#pullrequestreview-4379259415) - 2026-05-28
+* [Review] [Review on: XDC Add Timestamper ](https://github.com/NethermindEth/nethermind/pull/11808#pullrequestreview-4378887617) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 
+* [Pull Request] [docs: add weight subtotals per working group and category](https://github.com/protocolguild/documentation/pull/499) - 2026-05-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: test(tests-eip-8024): end-of-code stack underflow regression](https://github.com/ethereum/execution-specs/pull/2741#pullrequestreview-4147896148) - 2026-04-21
 

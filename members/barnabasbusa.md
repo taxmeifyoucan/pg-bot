@@ -278,6 +278,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: ethrex: enable admin RPC namespace so Dora can read node info](https://github.com/ethpandaops/template-devnets/pull/170#pullrequestreview-4331102065) - 2026-05-20
 * [Review] [Review on: ipv6 fixes](https://github.com/ethpandaops/template-devnets/pull/167#pullrequestreview-4345119942) - 2026-05-22
 * [Commit] [firewall: open inbound UDP 13000 for Prysm QUIC](https://github.com/ethpandaops/template-devnets/commit/12aab25e8b0592c911e1b90ede23d5db4a0da6e4) - 2026-05-22
+* [Commit] [inventory: add ahshum to nimbus CL authorized keys](https://github.com/ethpandaops/template-devnets/commit/534ff351a763d2ff5876d5aab5cae5933f5410fb) - 2026-05-28
+* [Commit] [setup: put asdf shims on PATH so pip resolves under bash](https://github.com/ethpandaops/template-devnets/commit/2fd008053b54c3bea3758483fe3e1cc87b9c774d) - 2026-05-28
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
 * [Pull Request] [core/txpool: report actual 110% threshold in intrinsic gas error](https://github.com/ethereum/go-ethereum/pull/34782) - 2026-04-21
@@ -289,6 +291,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [miner: supply a slot number when synthesising pending block post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/34791) - 2026-04-22
 * [Pull Request] [node: default OpenTelemetry SampleRatio to 1.0](https://github.com/ethereum/go-ethereum/pull/34948) - 2026-05-12
 * [Commit] [node: default OpenTelemetry SampleRatio to 1.0 (#34948)](https://github.com/ethereum/go-ethereum/commit/da34eb59fdee4b0d12e3cf0b8a5e5b3546cb0632) - 2026-05-13
+* [Commit] [miner: set slot number for pending block post-Amsterdam (#34792)](https://github.com/ethereum/go-ethereum/commit/95320ffe69fd889cde412f5a073f3ac2f26b8ef2) - 2026-05-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Pin Docker base image to debian:trixie-slim; add ca-certificates](https://github.com/status-im/nimbus-eth2/pull/8310) - 2026-04-21
 

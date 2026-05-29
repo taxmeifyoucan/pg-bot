@@ -45,6 +45,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: disable gemini auto code review](https://github.com/ChainSafe/lodestar-z/pull/382) - 2026-05-27
 * [Review] [Review on: fix: harden memory safety across PMT, SSZ tree views, and state transition](https://github.com/ChainSafe/lodestar-z/pull/377#pullrequestreview-4373195871) - 2026-05-27
 * [Commit] [chore: disable gemini auto code review (#382)](https://github.com/ChainSafe/lodestar-z/commit/63e42a4224c09b7c6b241cd802bccbf6b6951a89) - 2026-05-27
+* [Review] [Review on: refactor(bindings): wake only required number of workers](https://github.com/ChainSafe/lodestar-z/pull/383#pullrequestreview-4384336041) - 2026-05-28
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -124,6 +125,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: add on_payload_attestation_message fork choice test handler](https://github.com/ChainSafe/lodestar/pull/9384#pullrequestreview-4364700132) - 2026-05-26
 * [Review] [Review on: fix: ensure bids are for a higher slot than their parent](https://github.com/ChainSafe/lodestar/pull/9414#pullrequestreview-4375474669) - 2026-05-27
 * [Pull Request] [chore: run caxa via locked pnpm dependency](https://github.com/ChainSafe/lodestar/pull/9413) - 2026-05-27
+* [Review] [Review on: fix: upgrade playwright to 1.60.0 to unblock browser tests CI](https://github.com/ChainSafe/lodestar/pull/9420#pullrequestreview-4384723124) - 2026-05-28
+* [Review] [Review on: chore: add logs to debug our PTC votes](https://github.com/ChainSafe/lodestar/pull/9418#pullrequestreview-4384472493) - 2026-05-28
+* [Pull Request] [fix: sync through empty epochs in range sync](https://github.com/ChainSafe/lodestar/pull/9417) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

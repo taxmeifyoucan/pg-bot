@@ -171,6 +171,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: ptc gossip to dedup by slot not by epoch](https://github.com/ChainSafe/lodestar/pull/9396#pullrequestreview-4344196498) - 2026-05-22
 * [Pull Request] [fix: change BeaconStateView binding without BitArray](https://github.com/ChainSafe/lodestar/pull/9412) - 2026-05-27
 * [Review] [Review on: feat: force the proposer to reorg unavailable blocks](https://github.com/ChainSafe/lodestar/pull/9387#pullrequestreview-4369353905) - 2026-05-27
+* [Pull Request] [fix: include payload_data_availability in shouldExtendPayload](https://github.com/ChainSafe/lodestar/pull/9416) - 2026-05-28
+* [Issue] [glamsterdam-devnet-4: produced blocks reorged due to shouldBuildOnFull() conflict to FULL head](https://github.com/ChainSafe/lodestar/issues/9415) - 2026-05-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
@@ -179,6 +181,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Optimize strategy for onboarding builders at the fork](https://github.com/ethereum/consensus-specs/pull/5254) - 2026-05-15
 * [Commit] [Optimize strategy for onboarding builders at the fork (#5254)](https://github.com/ethereum/consensus-specs/commit/932c6d691e0d5ed4a003c8bfb9c1c6731ce01924) - 2026-05-15
 * [Pull Request] [Use parent slot for builder pending deposit in Gloas](https://github.com/ethereum/consensus-specs/pull/5299) - 2026-05-27
+* [Issue] [Proposer builds an orphaned block due to conflict between get_head() and should_build_on_full()](https://github.com/ethereum/consensus-specs/issues/5307) - 2026-05-28
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: support multi-threaded RefCount](https://github.com/ChainSafe/lodestar-z/pull/62) - 2026-04-17
 * [Commit] [fix: support multi-threaded RefCount (#62)](https://github.com/ChainSafe/lodestar-z/commit/28edb161478f2e45a00f0418624e97028ad38b3b) - 2026-04-17

@@ -660,6 +660,24 @@ Team: Erigon
 * [Commit] [grwoslice: use `slices.Grow` instead of hand-rolled grow funcs  (#21439)](https://github.com/erigontech/erigon/commit/4f7a5f80f3d18c615316ea0b9c0b4f13290d98a1) - 2026-05-27
 * [Commit] [db/state: move `refcnt` to `visibleFiles` object (#21397)](https://github.com/erigontech/erigon/commit/3bf5e77a274b0e5e80c89545e39b6cf1d2dfdad6) - 2026-05-27
 * [Commit] [less logs from `backward-block-downloader`  (#21438)](https://github.com/erigontech/erigon/commit/b242ceca16e72fb716aedbc97bc9bab6b3cac58f) - 2026-05-27
+* [Review] [Review on: execution: slim unit test for DeriveSha with >16MB receipt, drop LFS](https://github.com/erigontech/erigon/pull/21486#pullrequestreview-4382169558) - 2026-05-28
+* [Pull Request] [grwoslice: use `slices.Grow` instead of hand-rolled grow funcs](https://github.com/erigontech/erigon/pull/21467) - 2026-05-28
+* [Review] [Review on: rpc/jsonrpc: filter redundant collapse-sibling nodes from debug_executionWitness](https://github.com/erigontech/erigon/pull/21484#pullrequestreview-4380364164) - 2026-05-28
+* [Pull Request] [bloatnet: auto-nuke StateCache on low hit_rate](https://github.com/erigontech/erigon/pull/21468) - 2026-05-28
+* [Pull Request] [genesis: faster `-race` of big genesis. step2](https://github.com/erigontech/erigon/pull/21475) - 2026-05-28
+* [Review] [Review on: execution/execmodule: return FCU result without waiting for flush+commit](https://github.com/erigontech/erigon/pull/21444#pullrequestreview-4379608121) - 2026-05-28
+* [Pull Request] [faster genesis under `-race` ](https://github.com/erigontech/erigon/pull/21473) - 2026-05-28
+* [Pull Request] [[wip] experiment: merge on own `mmap` with `madv_sequential`](https://github.com/erigontech/erigon/pull/21482) - 2026-05-28
+* [Pull Request] [common/dbg: improve heap profile log output](https://github.com/erigontech/erigon/pull/21469) - 2026-05-28
+* [Pull Request] [exec: `avg mgas/s` robust calculation](https://github.com/erigontech/erigon/pull/21466) - 2026-05-28
+* [Pull Request] [genesis: allow tests pass GenesisConfig to `eth.New()` - avoid double read of large genesis](https://github.com/erigontech/erigon/pull/21470) - 2026-05-28
+* [Issue] [Experiment: latest-state existence filters on `mmap`](https://github.com/erigontech/erigon/issues/21456) - 2026-05-28
+* [Issue] [bloatnet: diffsets size](https://github.com/erigontech/erigon/issues/21459) - 2026-05-28
+* [Issue] [bloatnet: heap peaks profile collect](https://github.com/erigontech/erigon/issues/21463) - 2026-05-28
+* [Commit] [performance: cherry-pick 5 improvements to main (#21374)](https://github.com/erigontech/erigon/commit/774daa0c26d978e39b59ec38162d708fb9edbaf8) - 2026-05-28
+* [Commit] [faster genesis under `-race`  (#21473)](https://github.com/erigontech/erigon/commit/d82e5c1bd6c3fa2902eb567bebdc5b7c6619c189) - 2026-05-28
+* [Commit] [common/dbg: improve heap profile log output (#21469)](https://github.com/erigontech/erigon/commit/bea27b3d26c4cf4c2dda25478e8531cf25725245) - 2026-05-28
+* [Commit] [exec: `avg mgas/s` robust calculation (#21466)](https://github.com/erigontech/erigon/commit/dafe22629134b86b13a34791bda7cdd8c924356c) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

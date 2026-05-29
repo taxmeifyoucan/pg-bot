@@ -98,6 +98,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Add latest EIP-8037 spec to Amsterdam](https://github.com/besu-eth/besu/pull/10396#pullrequestreview-4280493698) - 2026-05-13
 * [Pull Request] [updated the eip8037 implementation to the bal-devnet-7 changes](https://github.com/besu-eth/besu/pull/10521) - 2026-05-18
 * [Review] [Review on: fix prefetch for bal devnet 7](https://github.com/besu-eth/besu/pull/10534#pullrequestreview-4325841738) - 2026-05-20
+* [Pull Request] [Add target gas limit to fcu4 to glamsterdam-devnet-4](https://github.com/besu-eth/besu/pull/10564) - 2026-05-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

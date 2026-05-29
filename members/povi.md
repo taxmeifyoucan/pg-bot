@@ -42,6 +42,8 @@ Team: Grandine
 * [Review] [Review on: Add execution_payload and execution_payload_gossip event](https://github.com/grandinetech/grandine/pull/690#pullrequestreview-4316524926) - 2026-05-19
 * [Review] [Review on: Test full epoch processing](https://github.com/grandinetech/grandine/pull/680#pullrequestreview-4328184134) - 2026-05-20
 * [Review] [Review on: Address on_payload_attestation_message tests](https://github.com/grandinetech/grandine/pull/705#pullrequestreview-4335058003) - 2026-05-21
+* [Review] [Review on: Deprecate unsafe arithmetics](https://github.com/grandinetech/grandine/pull/698#pullrequestreview-4378755399) - 2026-05-28
+* [Review] [Review on: Fix nethermind integration memory leak](https://github.com/grandinetech/grandine/pull/707#pullrequestreview-4378407788) - 2026-05-28
 ## Q1 2026
 
 

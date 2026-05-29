@@ -56,6 +56,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Add debug logging for computeEquivocatingCommitteeWeight()](https://github.com/Consensys/teku/pull/10757) - 2026-05-28
 * [Review] [Review on: Weak Subjectivity protections for Electra/Gloas](https://github.com/Consensys/teku/pull/10739#pullrequestreview-4371462867) - 2026-05-27
 * [Review] [Review on: Update netty ](https://github.com/Consensys/teku/pull/10751#pullrequestreview-4371309045) - 2026-05-27
+* [Review] [Review on: Update netty ](https://github.com/Consensys/teku/pull/10751#pullrequestreview-4378382046) - 2026-05-28
+* [Commit] [Add debug logging for computeEquivocatingCommitteeWeight() (#10757)](https://github.com/Consensys/teku/commit/5953af3d22c321cce636ec4737672d1cd024e7aa) - 2026-05-29
 ## Q1 2026
 
 

@@ -72,6 +72,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: reworking proposer preference validation to avoid state lookup](https://github.com/OffchainLabs/prysm/pull/16830#pullrequestreview-4365529805) - 2026-05-26
 * [Review] [Review on: Optimize beacon API (REST and gRPC) regarding endpoints needing to iterate over the whole validator set.](https://github.com/OffchainLabs/prysm/pull/16838#pullrequestreview-4364053319) - 2026-05-26
 * [Review] [Review on: Add batch verify for deposit request signatures](https://github.com/OffchainLabs/prysm/pull/16810#pullrequestreview-4363624728) - 2026-05-26
+* [Pull Request] [Implement EIP-8045: exclude slashed validators from proposer lookahead.](https://github.com/OffchainLabs/prysm/pull/16857) - 2026-05-28
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

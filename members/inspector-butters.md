@@ -55,6 +55,12 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Fix data race on s.head.full in postPayloadTasks](https://github.com/OffchainLabs/prysm/pull/16839#pullrequestreview-4355202759) - 2026-05-25
 * [Review] [Review on: Use HeadSlot() in computePayloadWithdrawals](https://github.com/OffchainLabs/prysm/pull/16840#pullrequestreview-4355194923) - 2026-05-25
 * [Pull Request] [add ssz functions for progressive merkliezation](https://github.com/OffchainLabs/prysm/pull/16847) - 2026-05-27
+* [Pull Request] [wire progressive ssz functions into state fields](https://github.com/OffchainLabs/prysm/pull/16860) - 2026-05-28
+* [Pull Request] [snappy compression for full state snapshots in hdiff](https://github.com/OffchainLabs/prysm/pull/16858) - 2026-05-28
+* [Pull Request] [replicate save state duration metrics and logs for hdiff](https://github.com/OffchainLabs/prysm/pull/16859) - 2026-05-28
+* [Review] [Review on: hot state db for state diff](https://github.com/OffchainLabs/prysm/pull/16808#pullrequestreview-4382992395) - 2026-05-28
+* [Review] [Review on: `Saved state in DB`: Add duration in logs and metric.](https://github.com/OffchainLabs/prysm/pull/16849#pullrequestreview-4379199878) - 2026-05-28
+* [Commit] [snappy compression for full state snapshots in hdiff (#16858)](https://github.com/OffchainLabs/prysm/commit/5fc577ce5d6a54d22d77d05d8beb7adfa76692df) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

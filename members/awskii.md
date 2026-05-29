@@ -132,6 +132,10 @@ Team: Erigon
 * [Pull Request] [[performance] Disable referenced keys in commitment files, bump version](https://github.com/erigontech/erigon/pull/21375) - 2026-05-23
 * [Pull Request] [commitment: fix warmuper arena data race in HashSort](https://github.com/erigontech/erigon/pull/21432) - 2026-05-26
 * [Pull Request] [db/state, db/config3: erigondb.toml as source of truth for commitment branch referencing](https://github.com/erigontech/erigon/pull/21452) - 2026-05-27
+* [Review] [Review on: rpc: skip zero→zero keys in detectCollapseSiblings to reduce extra witness nodes](https://github.com/erigontech/erigon/pull/21491#pullrequestreview-4383996746) - 2026-05-28
+* [Pull Request] [rpc/jsonrpc: filter redundant collapse-sibling nodes from debug_executionWitness](https://github.com/erigontech/erigon/pull/21484) - 2026-05-28
+* [Pull Request] [rpc/jsonrpc: build executionWitness access set from BAL for Amsterdam blocks](https://github.com/erigontech/erigon/pull/21497) - 2026-05-28
+* [Pull Request] [execution/tests: add zkevm execution-witness suite (zkevm@v0.4.0)](https://github.com/erigontech/erigon/pull/21487) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

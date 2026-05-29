@@ -61,6 +61,8 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Q2 '26 update - # of members](https://github.com/protocolguild/protocol-guild-site/commit/88f4a32b88e84ce973e3de2d22a62c25031b2ec9) - 2026-05-26
 * [Commit] [Q2 '26 update - $ distributed + # of members](https://github.com/protocolguild/protocol-guild-site/commit/c4141a424733249219ab4389e01d0f1fa2df8ce4) - 2026-05-26
 * [Commit] [Q2 '26 membership update - members](https://github.com/protocolguild/protocol-guild-site/commit/d362cf340032fb53402d802e8f034d7429cfa1d4) - 2026-05-26
+* [Commit] [Fix image reference](https://github.com/protocolguild/protocol-guild-site/commit/5239c0cf1d5b95583fd978cdc7f876da1b0d9f18) - 2026-05-28
+* [Commit] [Fix repos.ts](https://github.com/protocolguild/protocol-guild-site/commit/b87b6121974e40a55e4baf37b461b1ca04c836b8) - 2026-05-28
 ## Q1 2026
 
 

@@ -74,6 +74,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: caplin: fix chain_reorg SSE event depth underflow and wrong old_head_block](https://github.com/erigontech/erigon/pull/21440#pullrequestreview-4372155973) - 2026-05-27
 * [Issue] [kurtosis: re-enable glamsterdam stability_check once go-eth2-client supports alpha.8](https://github.com/erigontech/erigon/issues/21442) - 2026-05-27
 * [Issue] [kurtosis: switch assertoor glamsterdam pin from master SHA to release tag](https://github.com/erigontech/erigon/issues/21441) - 2026-05-27
+* [Commit] [cl: implement consensus-specs v1.7.0-alpha.8 for Gloas devnet-4 (#21308)](https://github.com/erigontech/erigon/commit/19cf027392b2f73f85e6c6f222666b715f812afb) - 2026-05-28
+* [Commit] [cl: add per-directory spec maps for Caplin consensus code (#21400)](https://github.com/erigontech/erigon/commit/ea5d24d6c14f50129fc9aa5b449f6a172fe32b04) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

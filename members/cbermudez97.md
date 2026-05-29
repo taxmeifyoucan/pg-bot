@@ -24,6 +24,8 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Review] [Review on: feat: enhance gas benchmark workflow with comments for start and results](https://github.com/NethermindEth/nethermind/pull/10350#pullrequestreview-4347393716) - 2026-05-22
 * [Commit] [feat: add SkipMetricsTracking property to DbSettings (#11515)](https://github.com/NethermindEth/nethermind/commit/27b31197620a429a97c5502e7e5792a23e19a363) - 2026-05-22
 * [Commit] [feat: enhance gas benchmark workflow with comments for start and results (#10350)](https://github.com/NethermindEth/nethermind/commit/ff2795eeb1b73dc0dbe4d6f10b9c99bdee9c0a2c) - 2026-05-25
+* [Pull Request] [chore(workflows): phased PR gating and path-based test selection](https://github.com/NethermindEth/nethermind/pull/11823) - 2026-05-28
+* [Review] [Review on: chore(workflows): phased PR gating and path-based test selection](https://github.com/NethermindEth/nethermind/pull/11823#pullrequestreview-4384135045) - 2026-05-28
 ## Q1 2026
 
 

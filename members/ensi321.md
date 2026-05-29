@@ -82,6 +82,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: ensure bids are for a higher slot than their parent](https://github.com/ChainSafe/lodestar/pull/9414#pullrequestreview-4375977499) - 2026-05-27
 * [Review] [Review on: fix: move beacon_block_root from path to query in getExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9402#pullrequestreview-4375855119) - 2026-05-27
 * [Review] [Review on: feat: add stateless path to publishExecutionPayloadEnvelope](https://github.com/ChainSafe/lodestar/pull/9401#pullrequestreview-4375848795) - 2026-05-27
+* [Pull Request] [fix: upgrade playwright to 1.60.0 to unblock browser tests CI](https://github.com/ChainSafe/lodestar/pull/9420) - 2026-05-28
+* [Review] [Review on: fix: upgrade playwright to 1.60.0 to unblock browser tests CI](https://github.com/ChainSafe/lodestar/pull/9420#pullrequestreview-4384587656) - 2026-05-28
+* [Pull Request] [fix: tighten light-client zeroed-header checks to match spec](https://github.com/ChainSafe/lodestar/pull/9419) - 2026-05-28
+* [Commit] [fix: upgrade playwright to 1.60.0 to unblock browser tests CI (#9420)](https://github.com/ChainSafe/lodestar/commit/54f7b9df03cc27ed412ea4808244adaacbb292d1) - 2026-05-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 

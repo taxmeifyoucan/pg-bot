@@ -225,6 +225,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: fri: reject global max height mismatches](https://github.com/Plonky3/Plonky3/pull/1698#pullrequestreview-4355228434) - 2026-05-25
 * [Review] [Review on: refactor(merkle-tree): remove unused error variants](https://github.com/Plonky3/Plonky3/pull/1705#pullrequestreview-4360796705) - 2026-05-26
 * [Review] [Review on: perf(circle): pack the v_n_prod chain in compute_lagrange_den_batched](https://github.com/Plonky3/Plonky3/pull/1708#pullrequestreview-4373680916) - 2026-05-27
+* [Review] [Review on: perf(matrix): specialize base-field interpolate_coset](https://github.com/Plonky3/Plonky3/pull/1711#pullrequestreview-4382729071) - 2026-05-28
+* [Review] [Review on: fix(fri): type hiding PCS random opening errors](https://github.com/Plonky3/Plonky3/pull/1704#pullrequestreview-4382606899) - 2026-05-28
+* [Review] [Review on: perf(monty-31): skip trivial coset shift in RecursiveDft](https://github.com/Plonky3/Plonky3/pull/1715#pullrequestreview-4381600545) - 2026-05-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

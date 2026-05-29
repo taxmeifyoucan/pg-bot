@@ -72,6 +72,15 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Enable fast interface dispatching](https://github.com/NethermindEth/bflat-riscv64/pull/25) - 2026-05-18
 * [Commit] [modules/rhp: remove RhpInterfaceDispatchSlow workaround because dotnet-riscv already supports it](https://github.com/NethermindEth/bflat-riscv64/commit/694b8afea8a4216538ca57117609542adc1323e3) - 2026-05-18
 * [Commit] [Enable dotnet with cached interface dispatch](https://github.com/NethermindEth/bflat-riscv64/commit/825aadf80b6cc2db8991d6e84bd0fe08ce516dfa) - 2026-05-18
+* [Pull Request] [Random performance improvements](https://github.com/NethermindEth/bflat-riscv64/pull/26) - 2026-05-28
+* [Commit] [bflat: bump runtime/blobs version to 10.0.0.b21](https://github.com/NethermindEth/bflat-riscv64/commit/1ba088ae4c95c1404f3a88ca85f274fe9b01a0b1) - 2026-05-28
+* [Commit] [Rebake: bake ziskemu snapshots into Zisk guest ELFs](https://github.com/NethermindEth/bflat-riscv64/commit/bca19d4103a39e46bee76b11491080b74ce42ea9) - 2026-05-28
+* [Commit] [bflat: bump runtime/blobs version to 10.0.0.a24](https://github.com/NethermindEth/bflat-riscv64/commit/098378d0531efb65eb060a0431cb8c63c65f5402) - 2026-05-28
+* [Commit] [modules/rhp: cleanup](https://github.com/NethermindEth/bflat-riscv64/commit/51d3dc29ea1811006926a6e8bee1816f0db8f52a) - 2026-05-28
+* [Commit] [modules/rhp, BuildCommand: more stubs](https://github.com/NethermindEth/bflat-riscv64/commit/03e08db507bf136ca1cdf24195df48451563f497) - 2026-05-28
+* [Commit] [modules/rhp: more stubs](https://github.com/NethermindEth/bflat-riscv64/commit/ecdf8cc8a7cdb25f126c191f09e2c8679c3897ce) - 2026-05-28
+* [Commit] [modules/pal: faster alloc](https://github.com/NethermindEth/bflat-riscv64/commit/9ea47d14b62203d0f4739cc4e1f57e7ac07826f7) - 2026-05-28
+* [Commit] [bflat: add support for mibc profiles](https://github.com/NethermindEth/bflat-riscv64/commit/20ddfe6e5f07058c270ee10402ba0501023d387f) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 
@@ -96,6 +105,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Experimental patch to split code and data [3]](https://github.com/NethermindEth/dotnet-riscv/commit/df1914aa9f6ab5e7f77210d0489a9388db778203) - 2026-05-21
 * [Commit] [Experimental patch to split code and data [2]](https://github.com/NethermindEth/dotnet-riscv/commit/91b78888295ea395eeb5fc099ff7de5b59083ffa) - 2026-05-21
 * [Commit] [Experimental patch to split code and data](https://github.com/NethermindEth/dotnet-riscv/commit/6ff8542ee722b3c57027b99532cf3326cc23c7bd) - 2026-05-21
+* [Pull Request] [Performance improvements](https://github.com/NethermindEth/dotnet-riscv/pull/3) - 2026-05-28
+* [Commit] [Remove jump tables patch](https://github.com/NethermindEth/dotnet-riscv/commit/72270ec5ead7054646a429ce0eac9cbef5b62e82) - 2026-05-28
+* [Commit] [Add frameless riscv64 setup](https://github.com/NethermindEth/dotnet-riscv/commit/5d6733ef707e5a19a68fca5ddfea452731ec8a4e) - 2026-05-28
 ## Q1 2026
 
 

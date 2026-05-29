@@ -26,6 +26,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: add workflow to check generated go files](https://github.com/OffchainLabs/prysm/pull/16829#pullrequestreview-4339719307) - 2026-05-21
 * [Review] [Review on: `/healthz` endpoint: Base error on the average goroutine count, instead of the instant one.](https://github.com/OffchainLabs/prysm/pull/16815#pullrequestreview-4376110481) - 2026-05-27
 * [Pull Request] [nogo: Add nilaway static analyzer](https://github.com/OffchainLabs/prysm/pull/16848) - 2026-05-27
+* [Review] [Review on: snappy compression for full state snapshots in hdiff](https://github.com/OffchainLabs/prysm/pull/16858#pullrequestreview-4383058504) - 2026-05-28
+* [Review] [Review on: hot state db for state diff](https://github.com/OffchainLabs/prysm/pull/16808#pullrequestreview-4382926889) - 2026-05-28
 ## Q1 2026
 
 

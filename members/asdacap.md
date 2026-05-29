@@ -241,6 +241,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(state): replace BeginScope with TryBeginScope to surface state-missing cleanly](https://github.com/NethermindEth/nethermind/pull/11785#pullrequestreview-4369844733) - 2026-05-27
 * [Commit] [Feature/Rework DiscV4 (#8616)](https://github.com/NethermindEth/nethermind/commit/0bbc39579a99b5cef1c3f57ca7f6082c3a0714ce) - 2026-05-27
 * [Commit] [chore: enforce IDE0130 (namespace matches folder structure) (#11762)](https://github.com/NethermindEth/nethermind/commit/bdd7df366f9166002bdb2bfa3a092a97e23fe9cb) - 2026-05-27
+* [Review] [Review on: fix(blockchain): bound ClearStaleMarkersAbove scan and flush batch periodically](https://github.com/NethermindEth/nethermind/pull/11818#pullrequestreview-4381632664) - 2026-05-28
+* [Review] [Review on: Fix FlatSnapServer trie node response limit](https://github.com/NethermindEth/nethermind/pull/11809#pullrequestreview-4380150577) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

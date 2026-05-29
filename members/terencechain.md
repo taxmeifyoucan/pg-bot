@@ -198,6 +198,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Remove legacy eth1 deposit mechanism in Fulu](https://github.com/OffchainLabs/prysm/pull/16853) - 2026-05-28
 * [Review] [Review on: Only add proposer boost to same shufflings as head](https://github.com/OffchainLabs/prysm/pull/16846#pullrequestreview-4377339455) - 2026-05-28
 * [Commit] [Fix data race on s.head.full in postPayloadTasks (#16839)](https://github.com/OffchainLabs/prysm/commit/5b44483086f0331c1d5647cba196947ba493607a) - 2026-05-27
+* [Pull Request] [Use block to reconstruct data column sidecar](https://github.com/OffchainLabs/prysm/pull/16854) - 2026-05-28
+* [Review] [Review on: Implement EIP-8045: exclude slashed validators from proposer lookahead.](https://github.com/OffchainLabs/prysm/pull/16857#pullrequestreview-4385720376) - 2026-05-29
+* [Review] [Review on: Reject and downscore peers that serve Fulu data column sidecars whose embedded `SignedBlockHeader` does not match the locally held beacon block.](https://github.com/OffchainLabs/prysm/pull/16855#pullrequestreview-4385658024) - 2026-05-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

@@ -95,6 +95,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Fix IndexOutOfBoundsException race condition in TransactionBroadcaster](https://github.com/besu-eth/besu/pull/10482#pullrequestreview-4355647465) - 2026-05-25
 * [Review] [Review on: Fix IndexOutOfBoundsException race condition in TransactionBroadcaster](https://github.com/besu-eth/besu/pull/10482#pullrequestreview-4361580166) - 2026-05-26
 * [Pull Request] [Avoid blocking txpool save restore callers](https://github.com/besu-eth/besu/pull/10561) - 2026-05-27
+* [Review] [Review on: Add target gas limit to fcu4 to glamsterdam-devnet-4](https://github.com/besu-eth/besu/pull/10564#pullrequestreview-4382272136) - 2026-05-28
+* [Review] [Review on: Avoid blocking txpool save restore callers](https://github.com/besu-eth/besu/pull/10561#pullrequestreview-4379527256) - 2026-05-28
+* [Commit] [Avoid blocking txpool save restore callers (#10561)](https://github.com/besu-eth/besu/commit/6c5bff480bc95c35eb9e97ad0adc475e7d3d6ae4) - 2026-05-28
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

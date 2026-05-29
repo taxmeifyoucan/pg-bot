@@ -59,6 +59,10 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Pull Request] [Precompute head for `update_proposer_boost_root`](https://github.com/ethereum/consensus-specs/pull/5300) - 2026-05-27
 * [Commit] [Precompute head for `update_proposer_boost_root` (#5300)](https://github.com/ethereum/consensus-specs/commit/1b3086cb040924c2541eec4c417e2c1afc2b1a0d) - 2026-05-27
 * [Commit] [Redesign fork choice abstractions (#5249)](https://github.com/ethereum/consensus-specs/commit/47b2561e1aa5541e31037b6b8a52ee1cbaa11ce0) - 2026-05-27
+* [Review] [Review on: Remove support for old deposit mechanism in Fulu](https://github.com/ethereum/consensus-specs/pull/4704#pullrequestreview-4379107038) - 2026-05-28
+* [Pull Request] [Apply proposer boost if dependent roots match](https://github.com/ethereum/consensus-specs/pull/5306) - 2026-05-28
+* [Review] [Review on: Apply proposer boost if dependent roots match](https://github.com/ethereum/consensus-specs/pull/5306#pullrequestreview-4378977462) - 2026-05-28
+* [Review] [Review on: Add custom sweep threshold for validators (EIP-8148)](https://github.com/ethereum/consensus-specs/pull/4901#pullrequestreview-4383698773) - 2026-05-28
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

@@ -258,6 +258,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix/eth69 blockrangeupdate validation](https://github.com/NethermindEth/nethermind/pull/11796#pullrequestreview-4372577877) - 2026-05-27
 * [Pull Request] [Refactor Json Streaming](https://github.com/NethermindEth/nethermind/pull/11781) - 2026-05-27
 * [Commit] [Refactor Json Streaming (#11781)](https://github.com/NethermindEth/nethermind/commit/73457910d384f5a089cec344decc1420436812b5) - 2026-05-27
+* [Review] [Review on: Fast Eth Transfer](https://github.com/NethermindEth/nethermind/pull/11804#pullrequestreview-4379121571) - 2026-05-28
+* [Review] [Review on: KAD/discv4 debug logs](https://github.com/NethermindEth/nethermind/pull/11811#pullrequestreview-4380396687) - 2026-05-28
+* [Review] [Review on: Fix shutdown race in SnapProvider PLINQ (closes #11806)](https://github.com/NethermindEth/nethermind/pull/11807#pullrequestreview-4379821594) - 2026-05-28
+* [Commit] [Boot nodes to debug log (#11805)](https://github.com/NethermindEth/nethermind/commit/82590cbb10f5b95ceaea04da5744da967337f3f8) - 2026-05-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

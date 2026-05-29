@@ -42,6 +42,8 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [add facilitators, mark stokes ooo](https://github.com/ethereum/pm/commit/26a5997eed919588a1d234c8e273e4f4c70579e4) - 2026-05-10
 * [Issue] [All Core Devs - Consensus (ACDC) #179, May 28, 2026](https://github.com/ethereum/pm/issues/2061) - 2026-05-17
 * [Issue] [All Core Devs - Execution (ACDE) #238, June 4, 2026](https://github.com/ethereum/pm/issues/2076) - 2026-05-22
+* [Review] [Review on: Archive Fusaka network upgrade docs](https://github.com/ethereum/pm/pull/2093#pullrequestreview-4384391381) - 2026-05-28
+* [Commit] [Merge pull request #2093 from dionysuzx/codex/archive-fusaka-network-upgrade](https://github.com/ethereum/pm/commit/3b623b8a4d0fa616d849a1114d31d779a5ce1dc1) - 2026-05-28
 ## Q1 2026
 
 

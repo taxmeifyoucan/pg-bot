@@ -67,6 +67,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/90#pullrequestreview-4195314057) - 2026-04-29
 * [Commit] [Merge pull request #90 from ethpandaops/feat/add-glamsterdam-devnets](https://github.com/ethpandaops/cartographoor/commit/6a3003492dbaa5640c12cbf22738b61cc70aba63) - 2026-04-29
 
+* [Commit] [Merge pull request #93 from ethpandaops/dependabot/github_actions/actions-53028bbf90](https://github.com/ethpandaops/cartographoor/commit/b0648fa75a341a62f9eb535f6ce75505b85cf537) - 2026-05-28
+* [Commit] [Merge pull request #91 from ethpandaops/dependabot/go_modules/go-dependencies-21b99de093](https://github.com/ethpandaops/cartographoor/commit/d1c22146fdbdc770e2bbe00f42a44cb4538ed6c2) - 2026-05-28
+* [Commit] [chore(workflows): update Go version handling in workflows to use go.mod for versioning](https://github.com/ethpandaops/cartographoor/commit/aabaae8c7d1f28adc633f36020f66f212d20ea37) - 2026-05-28
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167) - 2026-05-06
 

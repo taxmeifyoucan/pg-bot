@@ -23,6 +23,20 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Delete public/20260501-agora-dao/agora.jpeg](https://github.com/protocolguild/protocol-guild-site/commit/154555a4209aca4831b66d2ad8e8c2f34686f9bb) - 2026-05-06
 * [Commit] [Update cover image](https://github.com/protocolguild/protocol-guild-site/commit/3c50d077cdaa52f1d9a71a902678ecf2c357b0a0) - 2026-05-06
 * [Commit] [Add updated banner](https://github.com/protocolguild/protocol-guild-site/commit/e6c51f42cd00a5d1bf95980ea3807271269cea38) - 2026-05-06
+* [Pull Request] [Fix megapot link](https://github.com/protocolguild/protocol-guild-site/pull/63) - 2026-05-28
+* [Pull Request] [remove InKindAppreciation from PR](https://github.com/protocolguild/protocol-guild-site/pull/62) - 2026-05-28
+* [Pull Request] [feat: Megapot partnership — banner, donate page sections, logo](https://github.com/protocolguild/protocol-guild-site/pull/61) - 2026-05-28
+* [Pull Request] [Merge Megapot Blog](https://github.com/protocolguild/protocol-guild-site/pull/60) - 2026-05-28
+* [Commit] [Merge pull request #63 from pvecchiarelli/fix-megapot-link](https://github.com/protocolguild/protocol-guild-site/commit/dee10489d8235c7d1fdb4b4f1280df9f3469098c) - 2026-05-28
+* [Commit] [fix: update Megapot link to megapot.io/fund/pg](https://github.com/protocolguild/protocol-guild-site/commit/7a8ef079eef45a5dbd419927b2f5713031cee294) - 2026-05-28
+* [Commit] [Merge pull request #62 from pvecchiarelli/megapot-partnership](https://github.com/protocolguild/protocol-guild-site/commit/b0b39ae8a0533cc3f83f34df6cebddf0c14a852a) - 2026-05-28
+* [Commit] [remove InKindAppreciation from PR](https://github.com/protocolguild/protocol-guild-site/commit/cef924750cdeaf83db0161c07abe11af62b395b4) - 2026-05-28
+* [Commit] [Merge pull request #61 from pvecchiarelli/megapot-partnership](https://github.com/protocolguild/protocol-guild-site/commit/f6a878a2eb6e173982aa70d9dbc7774a4c6c0829) - 2026-05-28
+* [Commit] [feat: Megapot partnership — banner, donate page sections, logo](https://github.com/protocolguild/protocol-guild-site/commit/e083f0b91a70f116921597959610140011d65e2a) - 2026-05-28
+* [Commit] [Add megapot.svg](https://github.com/protocolguild/protocol-guild-site/commit/f097c1a1d995415467b69575255e6a8630d0a296) - 2026-05-28
+* [Commit] [Merge pull request #60 from pvecchiarelli/main](https://github.com/protocolguild/protocol-guild-site/commit/31e5b8e60f1b4d35f0e2401993bd53ed9ec74588) - 2026-05-28
+* [Commit] [Create Megapot Blog post](https://github.com/protocolguild/protocol-guild-site/commit/df57ab4a1795820cec16caa36114e59592ffe364) - 2026-05-28
+* [Commit] [Add megapot blog cover](https://github.com/protocolguild/protocol-guild-site/commit/34974b1c2827fe5dbf17baa651152b02d0a249ce) - 2026-05-28
 ## Q1 2026
 
 

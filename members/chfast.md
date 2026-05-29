@@ -152,6 +152,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Add recent Mainnet ecpairing samples to bench (#1550)](https://github.com/ipsilon/evmone/commit/55a3ec880cae6880ee04f17f65794075cea1afb3) - 2026-05-27
 * [Commit] [crypto: Precompute Miller-loop lines for G2 generator in KZG verify (#1549)](https://github.com/ipsilon/evmone/commit/4f68675f165d7b663895fa81092a63c6d5c817ba) - 2026-05-27
 * [Commit] [crypto: Fix incorrect docstrings in BN254 and KZG pairing helpers (#1548)](https://github.com/ipsilon/evmone/commit/ba23ad128ede9b1d05180d0abdfcb8b2552cc3d2) - 2026-05-27
+* [Pull Request] [tracing: Keep copy of output path in InstructionCounter](https://github.com/ipsilon/evmone/pull/1554) - 2026-05-28
+* [Pull Request] [tooling: Restore vm param in t8n()](https://github.com/ipsilon/evmone/pull/1553) - 2026-05-28
+* [Pull Request] [state: Check deploy prefix 0xEF before gas cost](https://github.com/ipsilon/evmone/pull/1552) - 2026-05-28
+* [Commit] [tracing: Keep copy of output path in InstructionCounter (#1554)](https://github.com/ipsilon/evmone/commit/5d3c673b4c8b4f5a7469dc46f7ed5ced53d7e257) - 2026-05-28
+* [Commit] [tooling: Restore vm param in t8n() (#1553)](https://github.com/ipsilon/evmone/commit/dae13b2e14ee31ae4aad937c79721f6bcf3d8ff7) - 2026-05-28
+* [Commit] [state: Check deploy prefix 0xEF before gas cost (#1552)](https://github.com/ipsilon/evmone/commit/bbfadd3a49e2e8583809ff96f6f0aafc99ca46fe) - 2026-05-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -183,6 +189,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [refactor(tests): inline ids and descriptions in point evaluation params](https://github.com/ethereum/execution-specs/pull/2907) - 2026-05-25
 * [Pull Request] [feat(tests): EIP-4844 point evaluation -G1 and G1 doubling vectors](https://github.com/ethereum/execution-specs/pull/2927) - 2026-05-27
 * [Commit] [refactor(tests): inline ids and descriptions in point evaluation params (#2907)](https://github.com/ethereum/execution-specs/commit/1787c74d209ec798fef2a044ae08ff3b3f00e006) - 2026-05-27
+* [Commit] [feat(tests): EIP-4844 point evaluation -G1 and G1 doubling vectors (#2927)](https://github.com/ethereum/execution-specs/commit/4441398db2ef50cebf7fa8af59bbf98c28291114) - 2026-05-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

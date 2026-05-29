@@ -37,6 +37,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix payload signature verification in execution payload gossip validation](https://github.com/status-im/nimbus-eth2/pull/8388#pullrequestreview-4216151280) - 2026-05-03
 * [Review] [Review on: fix payload signature verification in execution payload gossip validation](https://github.com/status-im/nimbus-eth2/pull/8388#pullrequestreview-4218370408) - 2026-05-04
 * [Pull Request] [chronos: bump to vtbl-stream](https://github.com/status-im/nimbus-eth2/pull/8394) - 2026-05-04
+* [Pull Request] [backfill: log more stuff on failure](https://github.com/status-im/nimbus-eth2/pull/8518) - 2026-05-28
+* [Pull Request] [backfill: log more stuff on failure](https://github.com/status-im/nimbus-eth2/pull/8517) - 2026-05-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4195918133) - 2026-04-29
 

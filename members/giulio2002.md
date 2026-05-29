@@ -96,6 +96,13 @@ Team: Erigon
 * [Review] [Review on: .github: skip Claude review on fork PRs; allow erigon-copilot bot](https://github.com/erigontech/erigon/pull/21450#pullrequestreview-4374836230) - 2026-05-27
 * [Review] [Review on: ci: surface merge-queue root cause when fail-fast cancels the run](https://github.com/erigontech/erigon/pull/21445#pullrequestreview-4371488700) - 2026-05-27
 * [Review] [Review on: less logs from `backward-block-downloader` ](https://github.com/erigontech/erigon/pull/21438#pullrequestreview-4369801848) - 2026-05-27
+* [Review] [Review on: grwoslice: use `slices.Grow` instead of hand-rolled grow funcs](https://github.com/erigontech/erigon/pull/21467#pullrequestreview-4378320626) - 2026-05-28
+* [Review] [Review on: ci: extend merge_group fail-fast and auto-dequeue failed PRs](https://github.com/erigontech/erigon/pull/21498#pullrequestreview-4385126487) - 2026-05-28
+* [Review] [Review on: ci: cancel orphaned merge-queue runs when their queue branch is deleted](https://github.com/erigontech/erigon/pull/21492#pullrequestreview-4381670775) - 2026-05-28
+* [Review] [Review on: ci: build hive & hive-eest erigon clients from local source, not an ephemeral merge-queue ref](https://github.com/erigontech/erigon/pull/21447#pullrequestreview-4378309364) - 2026-05-28
+* [Review] [Review on: ci: fail-fast hive-eest matrix on merge_group so broken PRs evict quickly](https://github.com/erigontech/erigon/pull/21483#pullrequestreview-4380010730) - 2026-05-28
+* [Review] [Review on: common/dbg: improve heap profile log output](https://github.com/erigontech/erigon/pull/21469#pullrequestreview-4378320530) - 2026-05-28
+* [Review] [Review on: genesis: allow tests pass GenesisConfig to `eth.New()` - avoid double read of large genesis](https://github.com/erigontech/erigon/pull/21470#pullrequestreview-4378307638) - 2026-05-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

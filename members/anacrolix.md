@@ -23,6 +23,8 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Review] [Review on: p2p: preserve full enode for inbound connections from static peers](https://github.com/erigontech/erigon/pull/20827#pullrequestreview-4177992182) - 2026-04-27
 * [Review] [Review on: p2p/discover: fix expired matcher iteration in discover reply loop](https://github.com/erigontech/erigon/pull/20869#pullrequestreview-4193211845) - 2026-04-28
 * [Review] [Review on: [wip] p2p/sentry: fix shared PeerStore version filter in findBestPeers, findPeerByMinBlock, PeerEvents](https://github.com/erigontech/erigon/pull/21394#pullrequestreview-4354250776) - 2026-05-25
+* [Review] [Review on: grwoslice: use `slices.Grow` instead of hand-rolled grow funcs](https://github.com/erigontech/erigon/pull/21467#pullrequestreview-4378549045) - 2026-05-28
+* [Review] [Review on: p2p/discover: waitForNodes hangs on RespCount=0 from peer](https://github.com/erigontech/erigon/pull/21457#pullrequestreview-4378567936) - 2026-05-28
 ## Q1 2026
 
 

@@ -111,6 +111,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [reworking proposer preference validation to avoid state lookup (#16830)](https://github.com/OffchainLabs/prysm/commit/0ce86f432f7b8f6bb0e40e302267f4e2b37b7c1b) - 2026-05-26
 * [Pull Request] [remote signer gloas](https://github.com/OffchainLabs/prysm/pull/16852) - 2026-05-27
 * [Pull Request] [Ptc api returns 404 instead of 503 for block not found](https://github.com/OffchainLabs/prysm/pull/16851) - 2026-05-27
+* [Pull Request] [Validator rest ptc](https://github.com/OffchainLabs/prysm/pull/16856) - 2026-05-28
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

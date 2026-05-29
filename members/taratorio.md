@@ -190,6 +190,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state: move `refcnt` to `visibleFiles` object](https://github.com/erigontech/erigon/pull/21397#pullrequestreview-4371636078) - 2026-05-27
 * [Commit] [execution: prometheus metrics for engine_newPayload, engine_fcu, insert blocks, validate chain requests (#21433)](https://github.com/erigontech/erigon/commit/a1f969930d180957a150a9d2fd1bddc02d549e97) - 2026-05-27
 * [Commit] [execution: optimise selfbalance worst-case benchmark (#21420)](https://github.com/erigontech/erigon/commit/8958aaf3b0b68a4d88a3f0e4815f4e9ebd261e2d) - 2026-05-27
+* [Pull Request] [execution: slim unit test for DeriveSha with >16MB receipt, drop LFS](https://github.com/erigontech/erigon/pull/21486) - 2026-05-28
+* [Review] [Review on: execution: slim unit test for DeriveSha with >16MB receipt, drop LFS](https://github.com/erigontech/erigon/pull/21486#pullrequestreview-4380606859) - 2026-05-28
+* [Review] [Review on: execution/p2p, execution/engineapi: fail-fast NewPayload backward download when gap exceeds limit](https://github.com/erigontech/erigon/pull/21489#pullrequestreview-4381452404) - 2026-05-28
+* [Review] [Review on: execution: trace EIP-7702 state-gas refund per auth and incarnation](https://github.com/erigontech/erigon/pull/21490#pullrequestreview-4381487743) - 2026-05-28
+* [Review] [Review on: faster genesis under `-race` ](https://github.com/erigontech/erigon/pull/21473#pullrequestreview-4379025963) - 2026-05-28
+* [Pull Request] [execution: fix flaky ethereum/engine cancun test due to blob propagations](https://github.com/erigontech/erigon/pull/21493) - 2026-05-28
+* [Review] [Review on: common/dbg: improve heap profile log output](https://github.com/erigontech/erigon/pull/21469#pullrequestreview-4378736647) - 2026-05-28
+* [Review] [Review on: exec: `avg mgas/s` robust calculation](https://github.com/erigontech/erigon/pull/21466#pullrequestreview-4378748673) - 2026-05-28
+* [Review] [Review on: genesis: allow tests pass GenesisConfig to `eth.New()` - avoid double read of large genesis](https://github.com/erigontech/erigon/pull/21470#pullrequestreview-4379007306) - 2026-05-28
+* [Issue] [[snapshots] not enough blocks in db to create snapshots after initial sync](https://github.com/erigontech/erigon/issues/21472) - 2026-05-28
+* [Commit] [execution: slim unit test for DeriveSha with >16MB receipt, drop LFS (#21486)](https://github.com/erigontech/erigon/commit/237b10c50cc74b188b88b327374cd9144085e176) - 2026-05-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

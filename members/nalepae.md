@@ -80,6 +80,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Assess constanine for KZG operations](https://github.com/OffchainLabs/prysm/issues/16850) - 2026-05-27
 * [Commit] [`/healthz` endpoint: Base error on the average goroutine count, instead of the instant one. (#16815)](https://github.com/OffchainLabs/prysm/commit/97eceeb9758e36a2d51ec7897ce28f781554a101) - 2026-05-27
 * [Commit] [Optimize beacon API (REST and gRPC) regarding endpoints needing to iterate over the whole validator set. (#16838)](https://github.com/OffchainLabs/prysm/commit/473188069ab1fec07b877d7f9041e74d07b51332) - 2026-05-27
+* [Review] [Review on: Use block to reconstruct data column sidecar](https://github.com/OffchainLabs/prysm/pull/16854#pullrequestreview-4380690332) - 2026-05-28
+* [Pull Request] [Reject and downscore peers that serve Fulu data column sidecars whose embedded `SignedBlockHeader` does not match the locally held beacon block.](https://github.com/OffchainLabs/prysm/pull/16855) - 2026-05-28
+* [Review] [Review on: replicate save state duration metrics and logs for hdiff](https://github.com/OffchainLabs/prysm/pull/16859#pullrequestreview-4383055850) - 2026-05-28
+* [Commit] [`Saved state in DB`: Add duration in logs and metric. (#16849)](https://github.com/OffchainLabs/prysm/commit/54d65fd369b9f9cf060b0c89ebb04b9009977743) - 2026-05-28
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

@@ -125,6 +125,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: disable gemini auto code review](https://github.com/ChainSafe/lodestar-z/pull/382#pullrequestreview-4374565524) - 2026-05-27
 * [Pull Request] [fix(bindings): misordering of print for cpu count](https://github.com/ChainSafe/lodestar-z/pull/381) - 2026-05-27
 * [Commit] [fix(bindings): misordering of print for cpu count (#381)](https://github.com/ChainSafe/lodestar-z/commit/752a97294d5c4613edfae75909ff21d21b7cdb48) - 2026-05-27
+* [Pull Request] [refactor(bindings): wake only required number of workers](https://github.com/ChainSafe/lodestar-z/pull/383) - 2026-05-28
+* [Review] [Review on: refactor(bindings): wake only required number of workers](https://github.com/ChainSafe/lodestar-z/pull/383#pullrequestreview-4381637451) - 2026-05-28
+* [Pull Request] [refactor: allocate `AsyncAggRandData` in one obj](https://github.com/ChainSafe/lodestar-z/pull/384) - 2026-05-28
+* [Review] [Review on: chore: move state clones out of benchmark run functions](https://github.com/ChainSafe/lodestar-z/pull/324#pullrequestreview-4380574399) - 2026-05-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 
