@@ -134,6 +134,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [print empty when head is not FULL](https://github.com/Consensys/teku/pull/10761) - 2026-05-28
 * [Review] [Review on: save blocks missing parent execution payload for future processing](https://github.com/Consensys/teku/pull/10753#pullrequestreview-4378905392) - 2026-05-28
 * [Commit] [print empty when head is not FULL (#10761)](https://github.com/Consensys/teku/commit/ffaf39fcea1cc055506e66f278dfb4f5d79445b1) - 2026-05-28
+* [Issue] [Align proposer-reorg FCU handling after consensus-specs#5174](https://github.com/Consensys/teku/issues/10763) - 2026-05-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

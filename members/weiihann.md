@@ -23,6 +23,9 @@ Github: [@weiihann](https://github.com/weiihann)
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Pull Request] [feat: add state size delta and trie depth](https://github.com/ethpandaops/xatu/pull/722) - 2026-05-20
 * [Commit] [feat: add state size delta and trie depth (#722)](https://github.com/ethpandaops/xatu/commit/809276545970784b194574a07ea866991dac3274) - 2026-05-20
+
+[gballet/go-ethereum](https://github.com/gballet/go-ethereum)
+* [Pull Request] [trie/bintrie: pack group-blob depth offsets into 3 bits](https://github.com/gballet/go-ethereum/pull/576) - 2026-05-29
 ## Q1 2026
 
 

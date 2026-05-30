@@ -73,6 +73,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Optimize beacon API (REST and gRPC) regarding endpoints needing to iterate over the whole validator set.](https://github.com/OffchainLabs/prysm/pull/16838#pullrequestreview-4364053319) - 2026-05-26
 * [Review] [Review on: Add batch verify for deposit request signatures](https://github.com/OffchainLabs/prysm/pull/16810#pullrequestreview-4363624728) - 2026-05-26
 * [Pull Request] [Implement EIP-8045: exclude slashed validators from proposer lookahead.](https://github.com/OffchainLabs/prysm/pull/16857) - 2026-05-28
+* [Pull Request] [Forkchoice endpoint](https://github.com/OffchainLabs/prysm/pull/16862) - 2026-05-29
+* [Pull Request] [Remove unneded parameter](https://github.com/OffchainLabs/prysm/pull/16863) - 2026-05-29
+* [Review] [Review on: Only add proposer boost to same shufflings as head](https://github.com/OffchainLabs/prysm/pull/16846#pullrequestreview-4390005848) - 2026-05-29
+* [Review] [Review on: Implement EIP-8045: exclude slashed validators from proposer lookahead.](https://github.com/OffchainLabs/prysm/pull/16857#pullrequestreview-4390018120) - 2026-05-29
+* [Commit] [Remove unneded parameter (#16863)](https://github.com/OffchainLabs/prysm/commit/c2c8c3f67f3718778611fbdc1223c45175f51af8) - 2026-05-29
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08
@@ -113,6 +118,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Ensure bids are for a higher slot than their parent](https://github.com/ethereum/consensus-specs/pull/5302#pullrequestreview-4375597389) - 2026-05-27
 * [Review] [Review on: Ignore PTC attestations for empty assigned slots](https://github.com/ethereum/consensus-specs/pull/5281#pullrequestreview-4371954649) - 2026-05-27
 * [Review] [Review on: Precompute head for `update_proposer_boost_root`](https://github.com/ethereum/consensus-specs/pull/5300#pullrequestreview-4374222486) - 2026-05-27
+* [Review] [Review on: Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309#pullrequestreview-4389525473) - 2026-05-29
+* [Review] [Review on: Exclude slashed validators from proposing (EIP-8045)](https://github.com/ethereum/consensus-specs/pull/5115#pullrequestreview-4391747321) - 2026-05-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17

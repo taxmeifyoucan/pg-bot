@@ -141,6 +141,8 @@ Team: Reth
 * [Review] [Review on: fix(import): skip invalid blocks during file decode instead of aborting](https://github.com/paradigmxyz/reth/pull/24379#pullrequestreview-4335725874) - 2026-05-21
 * [Review] [Review on: ci: disable OTLP for scheduled release benches](https://github.com/paradigmxyz/reth/pull/24418#pullrequestreview-4344706263) - 2026-05-22
 * [Review] [Review on: ci(bench): show derek command in bench summary](https://github.com/paradigmxyz/reth/pull/24550#pullrequestreview-4362637281) - 2026-05-26
+* [Review] [Review on: refactor: integrate state hook from `State<DB>`](https://github.com/paradigmxyz/reth/pull/24654#pullrequestreview-4389892922) - 2026-05-29
+* [Review] [Review on: fix(ci): restore bench grafana observability link](https://github.com/paradigmxyz/reth/pull/24648#pullrequestreview-4389427396) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

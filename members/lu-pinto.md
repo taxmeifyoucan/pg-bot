@@ -43,6 +43,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: optimize tracePreExecution tracePostExecution](https://github.com/besu-eth/besu/pull/10541#pullrequestreview-4362756292) - 2026-05-26
 * [Review] [Review on: Refactor: Extract EVMv2 stack manipulation unit tests](https://github.com/besu-eth/besu/pull/10535#pullrequestreview-4363025827) - 2026-05-26
 * [Commit] [optimize tracePreExecution tracePostExecution (#10541)](https://github.com/besu-eth/besu/commit/c533f28dda41ab3c08dc6ba618db5f61043f3895) - 2026-05-26
+* [Review] [Review on: avoid redundant bytecode copy on the CALL/CALLCODE hot path](https://github.com/besu-eth/besu/pull/10573#pullrequestreview-4390718548) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088219054) - 2026-04-10
 ## Q1 2026

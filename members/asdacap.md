@@ -243,6 +243,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore: enforce IDE0130 (namespace matches folder structure) (#11762)](https://github.com/NethermindEth/nethermind/commit/bdd7df366f9166002bdb2bfa3a092a97e23fe9cb) - 2026-05-27
 * [Review] [Review on: fix(blockchain): bound ClearStaleMarkersAbove scan and flush batch periodically](https://github.com/NethermindEth/nethermind/pull/11818#pullrequestreview-4381632664) - 2026-05-28
 * [Review] [Review on: Fix FlatSnapServer trie node response limit](https://github.com/NethermindEth/nethermind/pull/11809#pullrequestreview-4380150577) - 2026-05-28
+* [Review] [Review on: Rework TrieWarmer to ThreadPool processors](https://github.com/NethermindEth/nethermind/pull/11848#pullrequestreview-4393672012) - 2026-05-30
+* [Commit] [feat(snap): cap Proofs count at 256 on inbound snap responses (#11786)](https://github.com/NethermindEth/nethermind/commit/330a3f8a03837da74027eefc597a44d4cb16e214) - 2026-05-29
+* [Commit] [perf(state): invoke HintBal from BlockCachePreWarmer to warm BAL slots (#11551)](https://github.com/NethermindEth/nethermind/commit/3bca49355e84d3eba48735fb4cad8c7825a05240) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

@@ -170,6 +170,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [feat: unify ordered trie encoders (#24523)](https://github.com/paradigmxyz/reth/commit/5635fc28c8cda16f98540ceaa2b9b90d1d6c0261) - 2026-05-26
 * [Commit] [feat: expose a `EthBlockAssembler` method with optional precomputed values (#24598)](https://github.com/paradigmxyz/reth/commit/072277f8e27d2f5b0e55733024bfc00f694fb04b) - 2026-05-27
 * [Pull Request] [perf: filter in state hook](https://github.com/paradigmxyz/reth/pull/24631) - 2026-05-28
+* [Pull Request] [perf: faster commit ](https://github.com/paradigmxyz/reth/pull/24653) - 2026-05-29
+* [Pull Request] [refactor: integrate state hook from `State<DB>`](https://github.com/paradigmxyz/reth/pull/24654) - 2026-05-29
+* [Commit] [refactor: integrate state hook from `State<DB>` (#24654)](https://github.com/paradigmxyz/reth/commit/fa7c66c14e48f65aa6f502d79696d0fdbf6e6218) - 2026-05-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
@@ -191,6 +194,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat(database): add is_fatal to DBErrorMarker](https://github.com/bluealloy/revm/pull/3704#pullrequestreview-4343804183) - 2026-05-22
 * [Pull Request] [feat: `Account::is_changed`](https://github.com/bluealloy/revm/pull/3727) - 2026-05-28
 * [Review] [Review on: feat: `Account::is_changed`](https://github.com/bluealloy/revm/pull/3727#pullrequestreview-4385658757) - 2026-05-29
+* [Commit] [feat: `Account::is_changed` (#3727)](https://github.com/bluealloy/revm/commit/3486fb82255965e6c8a00b63df42655b59bfa76d) - 2026-05-29
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4140591296) - 2026-04-20

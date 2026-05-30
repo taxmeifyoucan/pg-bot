@@ -87,6 +87,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Batch new builder deposit signature verifications during block processing (#10708)](https://github.com/Consensys/teku/commit/4749527f6fc7a203c98b8a0bb2767fa264ee2275) - 2026-05-26
 * [Commit] [Weak Subjectivity protections for Electra/Gloas (#10739)](https://github.com/Consensys/teku/commit/cb57e4a660e79066a8406a6e7ea97f21da5251cb) - 2026-05-27
 * [Review] [Review on: Optimize onboarding builders at the fork + add BuilderIndexCache](https://github.com/Consensys/teku/pull/10729#pullrequestreview-4380242568) - 2026-05-28
+* [Review] [Review on: Reftests alpha8](https://github.com/Consensys/teku/pull/10762#pullrequestreview-4392982677) - 2026-05-29
+* [Review] [Review on: Check gas limit consistency with the target](https://github.com/Consensys/teku/pull/10760#pullrequestreview-4388347026) - 2026-05-29
+* [Commit] [Optimize onboarding builders at the fork + add BuilderIndexCache (#10729)](https://github.com/Consensys/teku/commit/a3bdf2d0d197b62908653994fcc5815151abf4dd) - 2026-05-29
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

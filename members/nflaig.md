@@ -247,6 +247,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: add logs to debug our PTC votes](https://github.com/ChainSafe/lodestar/pull/9418) - 2026-05-28
 * [Review] [Review on: feat: only give proposer boost to canonical proposer](https://github.com/ChainSafe/lodestar/pull/9313#pullrequestreview-4380326804) - 2026-05-28
 * [Commit] [fix: ensure bids are for a higher slot than their parent (#9414)](https://github.com/ChainSafe/lodestar/commit/847e824a6aa76334308041985fbd10a7afc63aa6) - 2026-05-28
+* [Review] [Review on: fix: skip casting payload attestation when there is no block at slot](https://github.com/ChainSafe/lodestar/pull/9406#pullrequestreview-4392757425) - 2026-05-29
+* [Review] [Review on: chore(deps): bump the actions group across 1 directory with 7 updates](https://github.com/ChainSafe/lodestar/pull/9405#pullrequestreview-4392641767) - 2026-05-29
+* [Review] [Review on: chore: surface same-message BLS retry metrics on dashboard](https://github.com/ChainSafe/lodestar/pull/9407#pullrequestreview-4391500673) - 2026-05-29
+* [Pull Request] [fix: use correct regen caller for execution payload import](https://github.com/ChainSafe/lodestar/pull/9421) - 2026-05-29
+* [Pull Request] [feat: implement EIP-8045 exclude slashed validators from proposing](https://github.com/ChainSafe/lodestar/pull/9422) - 2026-05-29
+* [Review] [Review on: fix: include payload_data_availability in shouldExtendPayload](https://github.com/ChainSafe/lodestar/pull/9416#pullrequestreview-4388145860) - 2026-05-29
+* [Commit] [fix: use correct regen caller for execution payload import (#9421)](https://github.com/ChainSafe/lodestar/commit/edb7c53fbc93e53ec4ed0c866689d8b9a92c685c) - 2026-05-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -325,6 +332,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add executable gossip validation functions for gloas](https://github.com/ethereum/consensus-specs/pull/5294#pullrequestreview-4379860702) - 2026-05-28
 * [Pull Request] [Fix inconsistent `gossip_bls_to_execution_change` fixtures](https://github.com/ethereum/consensus-specs/pull/5308) - 2026-05-28
 * [Commit] [Fix inconsistent `gossip_bls_to_execution_change` fixtures (#5308)](https://github.com/ethereum/consensus-specs/commit/48f8a11fa24af01274d00652157548eb75970f7a) - 2026-05-28
+* [Pull Request] [Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309) - 2026-05-29
+* [Pull Request] [Use `should_build_on_full` for bid parent block hash](https://github.com/ethereum/consensus-specs/pull/5310) - 2026-05-29
+* [Review] [Review on: Use `should_build_on_full` for bid parent block hash](https://github.com/ethereum/consensus-specs/pull/5310#pullrequestreview-4392384989) - 2026-05-29
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 

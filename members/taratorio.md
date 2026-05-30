@@ -201,6 +201,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: genesis: allow tests pass GenesisConfig to `eth.New()` - avoid double read of large genesis](https://github.com/erigontech/erigon/pull/21470#pullrequestreview-4379007306) - 2026-05-28
 * [Issue] [[snapshots] not enough blocks in db to create snapshots after initial sync](https://github.com/erigontech/erigon/issues/21472) - 2026-05-28
 * [Commit] [execution: slim unit test for DeriveSha with >16MB receipt, drop LFS (#21486)](https://github.com/erigontech/erigon/commit/237b10c50cc74b188b88b327374cd9144085e176) - 2026-05-28
+* [Pull Request] [execution/state, execution/protocol: avoid heap escape of traced uint256 values](https://github.com/erigontech/erigon/pull/21510) - 2026-05-29
+* [Review] [Review on: execution/state, execution/protocol: avoid heap escape of traced uint256 values](https://github.com/erigontech/erigon/pull/21510#pullrequestreview-4390263635) - 2026-05-29
+* [Review] [Review on: ci: retry transient image-build/registry failures in hive CI gate](https://github.com/erigontech/erigon/pull/21504#pullrequestreview-4389515734) - 2026-05-29
+* [Pull Request] [execution: remove legacy headerdownload, bodydownload and dataflow packages](https://github.com/erigontech/erigon/pull/21505) - 2026-05-29
+* [Review] [Review on: execution: remove legacy headerdownload, bodydownload and dataflow packages](https://github.com/erigontech/erigon/pull/21505#pullrequestreview-4388163734) - 2026-05-29
+* [Pull Request] [execution: remove unnecessary allocs due to Hash.Bytes() and Address.Bytes()](https://github.com/erigontech/erigon/pull/21503) - 2026-05-29
+* [Review] [Review on: genesis: allow tests pass GenesisConfig to `eth.New()` - avoid double read of large genesis](https://github.com/erigontech/erigon/pull/21470#pullrequestreview-4388981810) - 2026-05-29
+* [Pull Request] [[r3.4] execution/p2p, execution/engineapi: fail-fast NewPayload backward download when gap exceeds limit](https://github.com/erigontech/erigon/pull/21502) - 2026-05-29
+* [Commit] [execution/state, execution/protocol: avoid heap escape of traced uint256 values (#21510)](https://github.com/erigontech/erigon/commit/5a47944dc18864e2f66bcf973b9ceb712689e210) - 2026-05-29
+* [Commit] [p2p: fix flaky ethereum/engine cancun test due to blob propagations (#21493)](https://github.com/erigontech/erigon/commit/294c4a4803e99f739f823ace0b169fdc97ab4892) - 2026-05-29
+* [Commit] [execution: remove unnecessary allocs due to Hash.Bytes() and Address.Bytes() (#21503)](https://github.com/erigontech/erigon/commit/3bdbde78d98e40fd5b7ff668a04ab82102ce6374) - 2026-05-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

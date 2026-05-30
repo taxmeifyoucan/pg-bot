@@ -518,6 +518,15 @@ Team: Reth
 * [Review] [Review on: fix(engine): gate BAL storage prefetch on parent account existence](https://github.com/paradigmxyz/reth/pull/24371#pullrequestreview-4378453749) - 2026-05-28
 * [Review] [Review on: chore: clarify the intent behind not fill-on-miss](https://github.com/paradigmxyz/reth/pull/24612#pullrequestreview-4378296001) - 2026-05-28
 * [Commit] [fix(rpc): gap-fill empty blocks in eth_simulateV1 (#24388)](https://github.com/paradigmxyz/reth/commit/ed9b50589e8146a1a8badd84d3b77458fecb2a32) - 2026-05-28
+* [Review] [Review on: chore: Override beacon block root for eth_simulate](https://github.com/paradigmxyz/reth/pull/24652#pullrequestreview-4389391558) - 2026-05-29
+* [Review] [Review on: refactor: integrate state hook from `State<DB>`](https://github.com/paradigmxyz/reth/pull/24654#pullrequestreview-4389880182) - 2026-05-29
+* [Review] [Review on: feat(consensus): add experimental BAL validation toggle](https://github.com/paradigmxyz/reth/pull/24632#pullrequestreview-4388936249) - 2026-05-29
+* [Review] [Review on: chore(deps): bump crate-ci/typos from 1.45.0 to 1.46.2](https://github.com/paradigmxyz/reth/pull/24605#pullrequestreview-4388177517) - 2026-05-29
+* [Pull Request] [perf(tx-pool): use FxHashSet for invalid senders](https://github.com/paradigmxyz/reth/pull/24647) - 2026-05-29
+* [Review] [Review on: fix(net): track block access list requests in eth request metrics](https://github.com/paradigmxyz/reth/pull/23880#pullrequestreview-4387496364) - 2026-05-29
+* [Review] [Review on: perf(rpc): derive evm env from header in sim_bundle](https://github.com/paradigmxyz/reth/pull/23841#pullrequestreview-4387429237) - 2026-05-29
+* [Commit] [fix(rpc): default eth_simulateV1 per-call gas to remaining block gas (#24387)](https://github.com/paradigmxyz/reth/commit/b8116b42b8dbe3045f1407e9d5fc26e48de38c88) - 2026-05-29
+* [Commit] [perf(tx-pool): use FxHashSet for invalid senders (#24647)](https://github.com/paradigmxyz/reth/commit/76576db458ee186ad2d8ff9a884c7502df195d4b) - 2026-05-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

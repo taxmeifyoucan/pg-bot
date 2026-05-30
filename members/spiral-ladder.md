@@ -129,6 +129,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: refactor(bindings): wake only required number of workers](https://github.com/ChainSafe/lodestar-z/pull/383#pullrequestreview-4381637451) - 2026-05-28
 * [Pull Request] [refactor: allocate `AsyncAggRandData` in one obj](https://github.com/ChainSafe/lodestar-z/pull/384) - 2026-05-28
 * [Review] [Review on: chore: move state clones out of benchmark run functions](https://github.com/ChainSafe/lodestar-z/pull/324#pullrequestreview-4380574399) - 2026-05-28
+* [Review] [Review on: refactor(bindings): wake only required number of workers](https://github.com/ChainSafe/lodestar-z/pull/383#pullrequestreview-4387436890) - 2026-05-29
+* [Commit] [refactor(bindings): wake only required number of workers (#383)](https://github.com/ChainSafe/lodestar-z/commit/1db57f1ec426112065aa5d06b4ab64ae2da508ca) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

@@ -28,6 +28,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #233 from ethpandaops/dependabot/github_actions/actions-6009b138a0](https://github.com/ethpandaops/contributoor/commit/3b93a1f794f0ae4688e6772864ef4552720c6fd6) - 2026-05-28
 * [Commit] [Merge pull request #234 from ethpandaops/fix/pin-kt-ver](https://github.com/ethpandaops/contributoor/commit/28c4637e8e8797fcecd5384af5a7768b0ddcbe98) - 2026-05-28
 * [Commit] [chore(integration-tests.yml): specify kurtosis_version to ensure consistent test environment](https://github.com/ethpandaops/contributoor/commit/fec68488d91376dd5fe68625feb4aa844810b2b4) - 2026-05-28
+* [Pull Request] [chore: docs](https://github.com/ethpandaops/contributoor/pull/235) - 2026-05-29
+* [Commit] [Merge pull request #235 from ethpandaops/docs/up](https://github.com/ethpandaops/contributoor/commit/bc1edd298741290e2fd49967e897d7d061b9bf0e) - 2026-05-29
+* [Commit] [chore(README.md): remove codecov badge to clean up documentation and reduce clutter](https://github.com/ethpandaops/contributoor/commit/dc3ce2b646b3b85aac04bd7c1b7d8f7e7aceab11) - 2026-05-29
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Review] [Review on: consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805#pullrequestreview-4072535003) - 2026-04-08
 * [Pull Request] [feat(vector-logs.yaml): ch logs parse kt labels](https://github.com/ethpandaops/xatu/pull/807) - 2026-04-09

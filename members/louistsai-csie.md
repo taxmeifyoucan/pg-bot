@@ -112,6 +112,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [chore: remove repricing tag for some bench (#2921)](https://github.com/ethereum/execution-specs/commit/1e2f3a323939468519a363d9339bc84791b44aac) - 2026-05-27
 * [Review] [Review on: feat(tests): EIP-4844 point evaluation -G1 and G1 doubling vectors](https://github.com/ethereum/execution-specs/pull/2927#pullrequestreview-4379807238) - 2026-05-28
 * [Review] [Review on: chore(specs): refactor block reward and fee refunds](https://github.com/ethereum/execution-specs/pull/2908#pullrequestreview-4379759435) - 2026-05-28
+* [Pull Request] [feat(test-fill): inject stub account, storage into hive genesis](https://github.com/ethereum/execution-specs/pull/2940) - 2026-05-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

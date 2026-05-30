@@ -63,6 +63,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [cmd/clef, cmd/geth: remove CLI flags that were deprecated for more than a year (#35021)](https://github.com/ethereum/go-ethereum/commit/14820029c933c26edb62f1d6ea2960b3b9ed1e54) - 2026-05-27
 * [Review] [Review on: accounts/usbwallet: check ledger versions for typed txs](https://github.com/ethereum/go-ethereum/pull/35044#pullrequestreview-4383884387) - 2026-05-28
 * [Commit] [trie/bintrie: record inserted leaves for t8n (#34843)](https://github.com/ethereum/go-ethereum/commit/61342e9c01b90d8ccb3c51af78f2c8e9c0b7dd38) - 2026-05-28
+* [Review] [Review on: go.mod: bump go.opentelemetry.io from 1.40.0 to 1.41.0](https://github.com/ethereum/go-ethereum/pull/35073#pullrequestreview-4392785256) - 2026-05-29
+* [Review] [Review on: accounts/abi: fix wrong want count for events](https://github.com/ethereum/go-ethereum/pull/35077#pullrequestreview-4390595107) - 2026-05-29
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Review] [Review on: cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575#pullrequestreview-4195917013) - 2026-04-29
 

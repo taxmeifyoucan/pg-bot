@@ -56,6 +56,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Bal devnet 7 perf opti](https://github.com/besu-eth/besu/pull/10537) - 2026-05-20
 * [Review] [Review on: Remove unused evm arg from FixedCostOperations](https://github.com/besu-eth/besu/pull/10533#pullrequestreview-4326767729) - 2026-05-20
 * [Review] [Review on: Bal devnet 7 : Apply BAL and not the accumulator after background execution](https://github.com/besu-eth/besu/pull/10553#pullrequestreview-4370291271) - 2026-05-27
+* [Pull Request] [avoid redundant bytecode copy on the CALL/CALLCODE hot path](https://github.com/besu-eth/besu/pull/10573) - 2026-05-29
+* [Pull Request] [bal-devnet-7 : avoid redundant bytecode copy on the CALL/CALLCODE hot path](https://github.com/besu-eth/besu/pull/10574) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

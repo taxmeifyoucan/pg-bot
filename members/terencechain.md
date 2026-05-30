@@ -201,6 +201,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Use block to reconstruct data column sidecar](https://github.com/OffchainLabs/prysm/pull/16854) - 2026-05-28
 * [Review] [Review on: Implement EIP-8045: exclude slashed validators from proposer lookahead.](https://github.com/OffchainLabs/prysm/pull/16857#pullrequestreview-4385720376) - 2026-05-29
 * [Review] [Review on: Reject and downscore peers that serve Fulu data column sidecars whose embedded `SignedBlockHeader` does not match the locally held beacon block.](https://github.com/OffchainLabs/prysm/pull/16855#pullrequestreview-4385658024) - 2026-05-29
+* [Review] [Review on: Forkchoice endpoint](https://github.com/OffchainLabs/prysm/pull/16862#pullrequestreview-4393993875) - 2026-05-30
+* [Review] [Review on: Remove unneded parameter](https://github.com/OffchainLabs/prysm/pull/16863#pullrequestreview-4393038604) - 2026-05-29
+* [Review] [Review on: Only add proposer boost to same shufflings as head](https://github.com/OffchainLabs/prysm/pull/16846#pullrequestreview-4393047628) - 2026-05-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26
@@ -209,6 +212,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Gloas: Modify notify_forkchoice_updated](https://github.com/ethereum/consensus-specs/pull/5197#pullrequestreview-4203035358) - 2026-04-30
 * [Review] [Review on: Payload reorg](https://github.com/ethereum/consensus-specs/pull/5210#pullrequestreview-4236643511) - 2026-05-06
 
+* [Review] [Review on: Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309#pullrequestreview-4393934284) - 2026-05-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4304547040) - 2026-05-17
 ## Q1 2026

@@ -62,6 +62,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat: add gas-benchmark skill for automated repricing benchmarks (#11526)](https://github.com/NethermindEth/nethermind/commit/e08972bdf3a9a7c24ee11f9c9278c4f6489ad11f) - 2026-05-20
 * [Review] [Review on: KAD/discv4 debug logs](https://github.com/NethermindEth/nethermind/pull/11811#pullrequestreview-4380397487) - 2026-05-28
 * [Review] [Review on: Fix shutdown race in SnapProvider PLINQ (closes #11806)](https://github.com/NethermindEth/nethermind/pull/11807#pullrequestreview-4379723092) - 2026-05-28
+* [Pull Request] [Change PR label condition for benchmark job](https://github.com/NethermindEth/nethermind/pull/11851) - 2026-05-29
+* [Pull Request] [diag: support periodic dotMemory snapshots via env var](https://github.com/NethermindEth/nethermind/pull/11843) - 2026-05-29
+* [Pull Request] [fix(skills): make agent skills work cross-OS (drop symlinks, sync real copies)](https://github.com/NethermindEth/nethermind/pull/11842) - 2026-05-29
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02
@@ -103,6 +106,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Add restart-before-testing workflow input](https://github.com/NethermindEth/gas-benchmarks/pull/147) - 2026-05-18
 * [Pull Request] [fix: insert hook block for testing-only scenarios](https://github.com/NethermindEth/gas-benchmarks/pull/150) - 2026-05-20
 * [Review] [Review on: feat: add extra withdrawal request for pre-funding](https://github.com/NethermindEth/gas-benchmarks/pull/146#pullrequestreview-4318465460) - 2026-05-19
+* [Pull Request] [feat(workflows): plumb dotMemory snapshot timer to diag container](https://github.com/NethermindEth/gas-benchmarks/pull/153) - 2026-05-29
+* [Pull Request] [feat(workflows): add jochemnet support to repricing-nethermind](https://github.com/NethermindEth/gas-benchmarks/pull/152) - 2026-05-29
+* [Commit] [feat(workflows): add jochemnet support to repricing-nethermind (#152)](https://github.com/NethermindEth/gas-benchmarks/commit/156689d5fd9b87590f542abb4957d094f7e7373a) - 2026-05-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Remove unused bloatnet factory entries from mainnet stubs](https://github.com/ethereum/execution-specs/pull/2670) - 2026-04-13
 * [Commit] [refactor(test-benchmark): remove unused bloatnet factory entries from mainnet stubs (#2670)](https://github.com/ethereum/execution-specs/commit/a830dab6f130151ab9023a473b7543120aa21961) - 2026-04-14

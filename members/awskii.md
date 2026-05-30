@@ -136,6 +136,9 @@ Team: Erigon
 * [Pull Request] [rpc/jsonrpc: filter redundant collapse-sibling nodes from debug_executionWitness](https://github.com/erigontech/erigon/pull/21484) - 2026-05-28
 * [Pull Request] [rpc/jsonrpc: build executionWitness access set from BAL for Amsterdam blocks](https://github.com/erigontech/erigon/pull/21497) - 2026-05-28
 * [Pull Request] [execution/tests: add zkevm execution-witness suite (zkevm@v0.4.0)](https://github.com/erigontech/erigon/pull/21487) - 2026-05-28
+* [Pull Request] [rpc/jsonrpc: source executionWitness codes from pre-state reads](https://github.com/erigontech/erigon/pull/21518) - 2026-05-30
+* [Pull Request] [rpc/jsonrpc: exclude transient EIP-6780 contract bytecode from execution witness](https://github.com/erigontech/erigon/pull/21517) - 2026-05-30
+* [Review] [Review on: commitment: compare deferred and eager roots](https://github.com/erigontech/erigon/pull/20918#pullrequestreview-4390455230) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

@@ -228,6 +228,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(matrix): specialize base-field interpolate_coset](https://github.com/Plonky3/Plonky3/pull/1711#pullrequestreview-4382729071) - 2026-05-28
 * [Review] [Review on: fix(fri): type hiding PCS random opening errors](https://github.com/Plonky3/Plonky3/pull/1704#pullrequestreview-4382606899) - 2026-05-28
 * [Review] [Review on: perf(monty-31): skip trivial coset shift in RecursiveDft](https://github.com/Plonky3/Plonky3/pull/1715#pullrequestreview-4381600545) - 2026-05-28
+* [Review] [Review on: feat(whir): HVZK sumcheck suffix-binding prover](https://github.com/Plonky3/Plonky3/pull/1665#pullrequestreview-4390576950) - 2026-05-29
+* [Review] [Review on: fix(fri): type hiding PCS random opening errors](https://github.com/Plonky3/Plonky3/pull/1704#pullrequestreview-4390259858) - 2026-05-29
+* [Review] [Review on: perf(batch-stark): parallelize per-instance quotient computation](https://github.com/Plonky3/Plonky3/pull/1716#pullrequestreview-4389263933) - 2026-05-29
+* [Review] [Review on: perf(monty-31): skip trivial coset shift in RecursiveDft](https://github.com/Plonky3/Plonky3/pull/1715#pullrequestreview-4389177526) - 2026-05-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

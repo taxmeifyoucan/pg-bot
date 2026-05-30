@@ -234,6 +234,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Avoid blocking txpool save restore callers](https://github.com/besu-eth/besu/pull/10561#pullrequestreview-4377871850) - 2026-05-28
 * [Commit] [Fix engine_newPayload invalid request type invalid status (#10525)](https://github.com/besu-eth/besu/commit/ac856c771857c0a51de8de0170eb64304a6fa303) - 2026-05-28
 * [Commit] [perf: cache last validated JWT token in EngineAuthService (#10559)](https://github.com/besu-eth/besu/commit/d18b08a4c5a607b3845c9017a8baaf64dbdb1716) - 2026-05-28
+* [Pull Request] [nightly kurtosis interop assertoor test](https://github.com/besu-eth/besu/pull/10569) - 2026-05-29
+* [Review] [Review on: nightly kurtosis interop assertoor test](https://github.com/besu-eth/besu/pull/10569#pullrequestreview-4386856109) - 2026-05-29
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

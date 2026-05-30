@@ -81,6 +81,8 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [modules/rhp: more stubs](https://github.com/NethermindEth/bflat-riscv64/commit/ecdf8cc8a7cdb25f126c191f09e2c8679c3897ce) - 2026-05-28
 * [Commit] [modules/pal: faster alloc](https://github.com/NethermindEth/bflat-riscv64/commit/9ea47d14b62203d0f4739cc4e1f57e7ac07826f7) - 2026-05-28
 * [Commit] [bflat: add support for mibc profiles](https://github.com/NethermindEth/bflat-riscv64/commit/20ddfe6e5f07058c270ee10402ba0501023d387f) - 2026-05-28
+* [Pull Request] [Component: bflat: bump runtime/blobs version to 10.0.0.b22](https://github.com/NethermindEth/bflat-riscv64/pull/27) - 2026-05-29
+* [Commit] [Component: bflat: bump runtime/blobs version to 10.0.0.b22](https://github.com/NethermindEth/bflat-riscv64/commit/c3de4feea7b68e86afcf063b23b651bb3052a7a1) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 
@@ -94,6 +96,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Enable Zisk 0.18 support (#11645)](https://github.com/NethermindEth/nethermind/commit/beb2173297e5313201c1467c0de362f987aad711) - 2026-05-18
 * [Pull Request] [Benchmark-related improvements in ZiskGuest / InputGen](https://github.com/NethermindEth/nethermind/pull/11691) - 2026-05-19
 
+* [Review] [Review on: zk-logging](https://github.com/NethermindEth/nethermind/pull/11757#pullrequestreview-4388495844) - 2026-05-29
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Split code/data properly](https://github.com/NethermindEth/dotnet-riscv/pull/2) - 2026-05-21
 * [Commit] [Update interface dispatch patch](https://github.com/NethermindEth/dotnet-riscv/commit/1ebe8c2c438b9339545e2f3859a4360b46a094aa) - 2026-05-21
@@ -108,6 +111,10 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Performance improvements](https://github.com/NethermindEth/dotnet-riscv/pull/3) - 2026-05-28
 * [Commit] [Remove jump tables patch](https://github.com/NethermindEth/dotnet-riscv/commit/72270ec5ead7054646a429ce0eac9cbef5b62e82) - 2026-05-28
 * [Commit] [Add frameless riscv64 setup](https://github.com/NethermindEth/dotnet-riscv/commit/5d6733ef707e5a19a68fca5ddfea452731ec8a4e) - 2026-05-28
+* [Pull Request] [Performance improvements [2]](https://github.com/NethermindEth/dotnet-riscv/pull/4) - 2026-05-29
+* [Commit] [RiscV64 write barriers: drop config toggle, always inline](https://github.com/NethermindEth/dotnet-riscv/commit/87408719249f5ff067568b8e594f931dc0364ce9) - 2026-05-29
+* [Commit] [Update patch to dotnet 10](https://github.com/NethermindEth/dotnet-riscv/commit/57f46f67d06ac9e7a994b59172af1478a79653ad) - 2026-05-29
+* [Commit] [Inline barriers](https://github.com/NethermindEth/dotnet-riscv/commit/5725260db3324c09e6f903e023f3ec28bc2ed07f) - 2026-05-29
 ## Q1 2026
 
 

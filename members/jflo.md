@@ -14,6 +14,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086082327) - 2026-04-09
 
+* [Review] [Review on: docs: add weight subtotals per working group and category](https://github.com/protocolguild/documentation/pull/499#pullrequestreview-4389869337) - 2026-05-29
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Add contributor call agenda issue template](https://github.com/besu-eth/besu/pull/10232) - 2026-04-14
 * [Issue] [2026-04-14 Contributor Call](https://github.com/besu-eth/besu/issues/10233) - 2026-04-14
@@ -72,6 +73,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Pass start hash through findNewBeginElementInRange](https://github.com/besu-eth/besu/pull/10531) - 2026-05-19
 * [Pull Request] [feat: implement EIP-8141 Frame Transaction support](https://github.com/besu-eth/besu/pull/10557) - 2026-05-27
 * [Review] [Review on: add eth_getTransactionBySenderAndNonce RPC](https://github.com/besu-eth/besu/pull/10501#pullrequestreview-4382643296) - 2026-05-28
+* [Review] [Review on: add eth_getTransactionBySenderAndNonce RPC](https://github.com/besu-eth/besu/pull/10501#pullrequestreview-4390537651) - 2026-05-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 * [Issue] [Encrypt The Mempool #4, May 13, 2026](https://github.com/ethereum/pm/issues/2054) - 2026-05-12

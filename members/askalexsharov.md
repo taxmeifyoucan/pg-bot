@@ -678,6 +678,10 @@ Team: Erigon
 * [Commit] [faster genesis under `-race`  (#21473)](https://github.com/erigontech/erigon/commit/d82e5c1bd6c3fa2902eb567bebdc5b7c6619c189) - 2026-05-28
 * [Commit] [common/dbg: improve heap profile log output (#21469)](https://github.com/erigontech/erigon/commit/bea27b3d26c4cf4c2dda25478e8531cf25725245) - 2026-05-28
 * [Commit] [exec: `avg mgas/s` robust calculation (#21466)](https://github.com/erigontech/erigon/commit/dafe22629134b86b13a34791bda7cdd8c924356c) - 2026-05-28
+* [Review] [Review on: docs(fundamentals): add Architecture and Database pages [main]](https://github.com/erigontech/erigon/pull/21500#pullrequestreview-4386692888) - 2026-05-29
+* [Review] [Review on: docs: prose audit — tradenames + code-fence types + Prune Modes rename [main]](https://github.com/erigontech/erigon/pull/21496#pullrequestreview-4386624899) - 2026-05-29
+* [Review] [Review on: [r3.4] execution/p2p, execution/engineapi: fail-fast NewPayload backward download when gap exceeds limit](https://github.com/erigontech/erigon/pull/21502#pullrequestreview-4386573269) - 2026-05-29
+* [Pull Request] [common/dbg: improve heap profile log output](https://github.com/erigontech/erigon/pull/21471) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

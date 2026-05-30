@@ -224,6 +224,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: re-introduce block catchup recovery](https://github.com/erigontech/erigon/pull/21415#pullrequestreview-4369404888) - 2026-05-27
 * [Review] [Review on: grwoslice: use `slices.Grow` instead of hand-rolled grow funcs ](https://github.com/erigontech/erigon/pull/21439#pullrequestreview-4370328485) - 2026-05-27
 * [Review] [Review on: [wip] experiment: merge on own `mmap` with `madv_sequential`](https://github.com/erigontech/erigon/pull/21482#pullrequestreview-4381442653) - 2026-05-28
+* [Pull Request] [[performance] re-introduce block catchup recovery](https://github.com/erigontech/erigon/pull/21506) - 2026-05-29
+* [Commit] [re-introduce block catchup recovery (#21415)](https://github.com/erigontech/erigon/commit/6e39d0ce82e7bfcd360adf33490ad31338fde6d3) - 2026-05-29
 ## Q1 2026
 
 

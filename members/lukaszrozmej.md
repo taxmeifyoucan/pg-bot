@@ -557,6 +557,14 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Fix FlatSnapServer trie node response limit](https://github.com/NethermindEth/nethermind/pull/11809#pullrequestreview-4380074470) - 2026-05-28
 * [Review] [Review on: Fix shutdown race in SnapProvider PLINQ (closes #11806)](https://github.com/NethermindEth/nethermind/pull/11807#pullrequestreview-4379259415) - 2026-05-28
 * [Review] [Review on: XDC Add Timestamper ](https://github.com/NethermindEth/nethermind/pull/11808#pullrequestreview-4378887617) - 2026-05-28
+* [Review] [Review on: fix(nethtest): BLOCKHASH recency window in state-test runner](https://github.com/NethermindEth/nethermind/pull/11844#pullrequestreview-4390624938) - 2026-05-29
+* [Review] [Review on: test: lock trimmed eth_getProof storage values](https://github.com/NethermindEth/nethermind/pull/11784#pullrequestreview-4388212517) - 2026-05-29
+* [Review] [Review on: fix: count committed system tx gas metrics](https://github.com/NethermindEth/nethermind/pull/11815#pullrequestreview-4388017148) - 2026-05-29
+* [Review] [Review on: test(evm): un-ignore Trace_invalid_jump{,i}_exception](https://github.com/NethermindEth/nethermind/pull/11799#pullrequestreview-4388054455) - 2026-05-29
+* [Review] [Review on: ZeroFrameMerger fix](https://github.com/NethermindEth/nethermind/pull/11821#pullrequestreview-4387904987) - 2026-05-29
+* [Review] [Review on: ReceiptsMigration fix](https://github.com/NethermindEth/nethermind/pull/11822#pullrequestreview-4387965659) - 2026-05-29
+* [Review] [Review on: Prunning - Regression test](https://github.com/NethermindEth/nethermind/pull/11817#pullrequestreview-4387907419) - 2026-05-29
+* [Commit] [fix(blockchain): bound ClearStaleMarkersAbove scan and flush batch periodically (#11818)](https://github.com/NethermindEth/nethermind/commit/6f176f152665ae9ea64f69845140abdef5f862a0) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

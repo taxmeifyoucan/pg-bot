@@ -512,6 +512,22 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/execmodule: return FCU result without waiting for flush+commit (#21444)](https://github.com/erigontech/erigon/commit/219e78edc3b89d656e89cb6a16107d55737bc3b6) - 2026-05-28
 * [Commit] [ci: build hive & hive-eest erigon clients from local source, not an ephemeral merge-queue ref (#21447)](https://github.com/erigontech/erigon/commit/76bd1e1920ca1827723c1341abe596b43f89cd18) - 2026-05-28
 * [Commit] [ci: fail-fast hive-eest matrix on merge_group so broken PRs evict quickly (#21483)](https://github.com/erigontech/erigon/commit/53a1cbc595764c7623c4d1b31d145f473e45e263) - 2026-05-28
+* [Pull Request] [ci: restore discv5 to devp2p Hive shard](https://github.com/erigontech/erigon/pull/21512) - 2026-05-29
+* [Pull Request] [cmd/utils/app: process all files passed to import command](https://github.com/erigontech/erigon/pull/21513) - 2026-05-29
+* [Review] [Review on: cmd/utils/app: process all files passed to import command](https://github.com/erigontech/erigon/pull/21513#pullrequestreview-4390599133) - 2026-05-29
+* [Review] [Review on: genesis: faster `-race` of big genesis. step2](https://github.com/erigontech/erigon/pull/21475#pullrequestreview-4387822905) - 2026-05-29
+* [Pull Request] [execution/stagedsync: drop stale eth/71 TODO in bal_create](https://github.com/erigontech/erigon/pull/21511) - 2026-05-29
+* [Review] [Review on: execution/state, execution/protocol: avoid heap escape of traced uint256 values](https://github.com/erigontech/erigon/pull/21510#pullrequestreview-4389534431) - 2026-05-29
+* [Review] [Review on: p2p: fix flaky ethereum/engine cancun test due to blob propagations](https://github.com/erigontech/erigon/pull/21493#pullrequestreview-4388275437) - 2026-05-29
+* [Pull Request] [ci: retry transient image-build/registry failures in hive CI gate](https://github.com/erigontech/erigon/pull/21504) - 2026-05-29
+* [Review] [Review on: p2p/discover: waitForNodes hangs on RespCount=0 from peer](https://github.com/erigontech/erigon/pull/21457#pullrequestreview-4387940629) - 2026-05-29
+* [Review] [Review on: execution: remove legacy headerdownload, bodydownload and dataflow packages](https://github.com/erigontech/erigon/pull/21505#pullrequestreview-4388163071) - 2026-05-29
+* [Pull Request] [cmd/utils/app: import all RLP files in a single process](https://github.com/erigontech/erigon/pull/21514) - 2026-05-29
+* [Review] [Review on: docs: prose audit — tradenames + code-fence types](https://github.com/erigontech/erigon/pull/21451#pullrequestreview-4387665390) - 2026-05-29
+* [Review] [Review on: execution: remove unnecessary allocs due to Hash.Bytes() and Address.Bytes()](https://github.com/erigontech/erigon/pull/21503#pullrequestreview-4387998014) - 2026-05-29
+* [Commit] [ci: retry transient image-build/registry failures in hive CI gate (#21504)](https://github.com/erigontech/erigon/commit/80bba43e658a398ba9ab5bba8aa846da973eed05) - 2026-05-29
+* [Commit] [ci: extend merge_group fail-fast and auto-dequeue failed PRs (#21498)](https://github.com/erigontech/erigon/commit/64b55bc7a31ac75bc7fac5219c40eacf405cd7ad) - 2026-05-29
+* [Commit] [ci: cancel orphaned merge-queue runs when their queue branch is deleted (#21492)](https://github.com/erigontech/erigon/commit/afde8b838cf25abeb6d64064844b4f6445886cdf) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
@@ -532,6 +548,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [clients/erigon: install iproute2 for ip command (#1445)](https://github.com/ethereum/hive/commit/737a9a5a6b3a75d965fa33821c21e37327ec1a6c) - 2026-04-23
 * [Pull Request] [libhive: optional warm-daemon client pool](https://github.com/ethereum/hive/pull/1449) - 2026-04-25
 * [Pull Request] [simulators/ethereum/engine: bump PayloadProductionClientDelay 1s -> 2s](https://github.com/ethereum/hive/pull/1462) - 2026-05-05
+* [Pull Request] [clients/erigon: import all per-block files in a single process](https://github.com/ethereum/hive/pull/1519) - 2026-05-29
 ## Q1 2026
 
 

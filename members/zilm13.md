@@ -101,6 +101,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: print empty when head is not FULL](https://github.com/Consensys/teku/pull/10761#pullrequestreview-4381493026) - 2026-05-28
 * [Pull Request] [Check gas limit consistency with the target](https://github.com/Consensys/teku/pull/10760) - 2026-05-28
 * [Commit] [Add target_gas_limit to PayloadAttributes (#10748)](https://github.com/Consensys/teku/commit/a1015e0d1c290a768a1f57843ceead62901030ac) - 2026-05-28
+* [Pull Request] [New alpha.9 spec gossip rules](https://github.com/Consensys/teku/pull/10764) - 2026-05-29
+* [Commit] [Check gas limit consistency with the target (#10760)](https://github.com/Consensys/teku/commit/d39b6102c1fe15c8872c7ded705a7fd51290b950) - 2026-05-29
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

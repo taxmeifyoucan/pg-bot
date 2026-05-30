@@ -19,6 +19,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(specs): add missing type annotations](https://github.com/ethereum/execution-specs/pull/2868#pullrequestreview-4328662835) - 2026-05-20
 * [Review] [Review on: refactor(spec-tools): use testing pydantic models in t8n](https://github.com/ethereum/execution-specs/pull/2924#pullrequestreview-4380007237) - 2026-05-28
+* [Review] [Review on: refactor(spec-tools): use testing pydantic models in t8n](https://github.com/ethereum/execution-specs/pull/2924#pullrequestreview-4389483491) - 2026-05-29
 ## Q1 2026
 
 

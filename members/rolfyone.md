@@ -93,6 +93,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Add target_gas_limit to PayloadAttributes](https://github.com/Consensys/teku/pull/10748#pullrequestreview-4376326947) - 2026-05-27
 * [Commit] [Defer DVT attestation selection submission until epoch start (#10744)](https://github.com/Consensys/teku/commit/2cd67bb384c5fa2aab54f366388aeae048de1291) - 2026-05-27
 * [Pull Request] [Limit pending block pool by retained bytes](https://github.com/Consensys/teku/pull/10758) - 2026-05-28
+* [Pull Request] [Add Gloas state builders Beacon API endpoint](https://github.com/Consensys/teku/pull/10765) - 2026-05-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 
@@ -102,6 +103,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Update .gitignore to  include .worktrees](https://github.com/libp2p/jvm-libp2p/pull/462#pullrequestreview-4180956822) - 2026-04-27
 
 * [Pull Request] [Close cancelled network dials](https://github.com/libp2p/jvm-libp2p/pull/481) - 2026-05-21
+* [Commit] [Close cancelled network dials (#481)](https://github.com/libp2p/jvm-libp2p/commit/e4e4305db2468415fb4a03168c2ca63faa74bf55) - 2026-05-29
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/224) - 2026-05-11
 * [Commit] [Downgrade routine peer-interaction logs from DEBUG to TRACE (#224)](https://github.com/Consensys/discovery/commit/9b9119956dac602cd21dd332f2d2415923d74c22) - 2026-05-11

@@ -290,6 +290,14 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add executable gossip validation functions for gloas](https://github.com/ethereum/consensus-specs/pull/5294#pullrequestreview-4382508469) - 2026-05-28
 * [Review] [Review on: Add tests for builder payments processing](https://github.com/ethereum/consensus-specs/pull/5297#pullrequestreview-4383261109) - 2026-05-28
 * [Review] [Review on: Fix inconsistent `gossip_bls_to_execution_change` fixtures](https://github.com/ethereum/consensus-specs/pull/5308#pullrequestreview-4383225274) - 2026-05-28
+* [Review] [Review on: Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309#pullrequestreview-4389966513) - 2026-05-29
+* [Review] [Review on: Add tests for builder payments processing](https://github.com/ethereum/consensus-specs/pull/5297#pullrequestreview-4392142225) - 2026-05-29
+* [Review] [Review on: Use `should_build_on_full` for bid parent block hash](https://github.com/ethereum/consensus-specs/pull/5310#pullrequestreview-4391484525) - 2026-05-29
+* [Pull Request] [Clarify when to load skills](https://github.com/ethereum/consensus-specs/pull/5311) - 2026-05-29
+* [Review] [Review on: Exclude slashed validators from proposing (EIP-8045)](https://github.com/ethereum/consensus-specs/pull/5115#pullrequestreview-4390400328) - 2026-05-29
+* [Review] [Review on: Add `on_attestation` tests for `validate_on_attestation` updates](https://github.com/ethereum/consensus-specs/pull/5275#pullrequestreview-4389893413) - 2026-05-29
+* [Review] [Review on: Ensure confirmed chain includes greatest unrealized checkpoint](https://github.com/ethereum/consensus-specs/pull/5288#pullrequestreview-4390723738) - 2026-05-29
+* [Commit] [Clarify when to load skills (#5311)](https://github.com/ethereum/consensus-specs/commit/63b2a5542e2922a6df0e92413221b5c14368be35) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

@@ -46,6 +46,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: harden memory safety across PMT, SSZ tree views, and state transition](https://github.com/ChainSafe/lodestar-z/pull/377#pullrequestreview-4373195871) - 2026-05-27
 * [Commit] [chore: disable gemini auto code review (#382)](https://github.com/ChainSafe/lodestar-z/commit/63e42a4224c09b7c6b241cd802bccbf6b6951a89) - 2026-05-27
 * [Review] [Review on: refactor(bindings): wake only required number of workers](https://github.com/ChainSafe/lodestar-z/pull/383#pullrequestreview-4384336041) - 2026-05-28
+* [Review] [Review on: refactor(bindings): wake only required number of workers](https://github.com/ChainSafe/lodestar-z/pull/383#pullrequestreview-4392647153) - 2026-05-29
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -128,6 +129,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: upgrade playwright to 1.60.0 to unblock browser tests CI](https://github.com/ChainSafe/lodestar/pull/9420#pullrequestreview-4384723124) - 2026-05-28
 * [Review] [Review on: chore: add logs to debug our PTC votes](https://github.com/ChainSafe/lodestar/pull/9418#pullrequestreview-4384472493) - 2026-05-28
 * [Pull Request] [fix: sync through empty epochs in range sync](https://github.com/ChainSafe/lodestar/pull/9417) - 2026-05-28
+* [Review] [Review on: chore(deps): bump the actions group across 1 directory with 7 updates](https://github.com/ChainSafe/lodestar/pull/9405#pullrequestreview-4392751770) - 2026-05-29
+* [Review] [Review on: fix: introduce NativeBeaconStateView and simplify bindings](https://github.com/ChainSafe/lodestar/pull/9412#pullrequestreview-4392515991) - 2026-05-29
+* [Review] [Review on: fix: use correct regen caller for execution payload import](https://github.com/ChainSafe/lodestar/pull/9421#pullrequestreview-4389509928) - 2026-05-29
+* [Commit] [chore: run caxa via locked pnpm dependency (#9413)](https://github.com/ChainSafe/lodestar/commit/7418ddd9f76957879654274ed9ee4cc154015a00) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

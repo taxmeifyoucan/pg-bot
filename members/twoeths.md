@@ -173,6 +173,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: force the proposer to reorg unavailable blocks](https://github.com/ChainSafe/lodestar/pull/9387#pullrequestreview-4369353905) - 2026-05-27
 * [Pull Request] [fix: include payload_data_availability in shouldExtendPayload](https://github.com/ChainSafe/lodestar/pull/9416) - 2026-05-28
 * [Issue] [glamsterdam-devnet-4: produced blocks reorged due to shouldBuildOnFull() conflict to FULL head](https://github.com/ChainSafe/lodestar/issues/9415) - 2026-05-28
+* [Commit] [fix: introduce NativeBeaconStateView and simplify bindings (#9412)](https://github.com/ChainSafe/lodestar/commit/9d8b487a59f4d5f8b067526b821c5235eec2302c) - 2026-05-29
+* [Commit] [fix: include payload_data_availability in shouldExtendPayload (#9416)](https://github.com/ChainSafe/lodestar/commit/464b9ae7abb007e77755134bc72ead0647f12be9) - 2026-05-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

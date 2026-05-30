@@ -161,6 +161,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [KAD/discv4 debug logs](https://github.com/NethermindEth/nethermind/pull/11811) - 2026-05-28
 * [Commit] [Activate BAL only when needed (#11795)](https://github.com/NethermindEth/nethermind/commit/b7780a044df7b234bee8fc5678588701538735f2) - 2026-05-28
 * [Commit] [Log KAD report as a trace (#11811)](https://github.com/NethermindEth/nethermind/commit/790174cd146cda61f939f9f7e55f6fdaf709ed1a) - 2026-05-28
+* [Review] [Review on: fix(nethtest): BLOCKHASH recency window in state-test runner](https://github.com/NethermindEth/nethermind/pull/11844#pullrequestreview-4390640862) - 2026-05-29
+* [Review] [Review on: feat(snap): cap Proofs count at 256 on inbound snap responses](https://github.com/NethermindEth/nethermind/pull/11786#pullrequestreview-4388019548) - 2026-05-29
+* [Commit] [Improve SSZ (#11748)](https://github.com/NethermindEth/nethermind/commit/53df8a5c65886f884acb793d1ce48b3f22975b6f) - 2026-05-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

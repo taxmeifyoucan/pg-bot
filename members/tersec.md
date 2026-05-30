@@ -166,6 +166,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm unused support for deprecated builder API from BN](https://github.com/status-im/nimbus-eth2/pull/8520) - 2026-05-29
 * [Pull Request] [rm unused publishBlindedBlock support for deprecated API from VC](https://github.com/status-im/nimbus-eth2/pull/8519) - 2026-05-28
 * [Pull Request] [rm unused REST type initialization code](https://github.com/status-im/nimbus-eth2/pull/8516) - 2026-05-28
+* [Review] [Review on: Implement eip 8045](https://github.com/status-im/nimbus-eth2/pull/8523#pullrequestreview-4393553267) - 2026-05-29
+* [Review] [Review on: extend partial column support to gloas](https://github.com/status-im/nimbus-eth2/pull/8478#pullrequestreview-4389932237) - 2026-05-29
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

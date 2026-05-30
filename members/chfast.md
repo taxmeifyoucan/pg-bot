@@ -158,6 +158,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [tracing: Keep copy of output path in InstructionCounter (#1554)](https://github.com/ipsilon/evmone/commit/5d3c673b4c8b4f5a7469dc46f7ed5ced53d7e257) - 2026-05-28
 * [Commit] [tooling: Restore vm param in t8n() (#1553)](https://github.com/ipsilon/evmone/commit/dae13b2e14ee31ae4aad937c79721f6bcf3d8ff7) - 2026-05-28
 * [Commit] [state: Check deploy prefix 0xEF before gas cost (#1552)](https://github.com/ipsilon/evmone/commit/bbfadd3a49e2e8583809ff96f6f0aafc99ca46fe) - 2026-05-28
+* [Pull Request] [test: Match blockchain test exceptions](https://github.com/ipsilon/evmone/pull/1556) - 2026-05-29
+* [Review] [Review on: test: Match blockchain test exceptions](https://github.com/ipsilon/evmone/pull/1556#pullrequestreview-4389585421) - 2026-05-29
+* [Pull Request] [test: Set blob gas budget from the protocol max](https://github.com/ipsilon/evmone/pull/1555) - 2026-05-29
+* [Issue] [Match transaction exception reasons in state and blockchain tests](https://github.com/ipsilon/evmone/issues/1557) - 2026-05-29
+* [Commit] [test: Match blockchain test exceptions (#1556)](https://github.com/ipsilon/evmone/commit/b76a4f86b7d94c633b8909a03873eea360ca429a) - 2026-05-29
+* [Commit] [test: Set blob gas budget from the protocol max (#1555)](https://github.com/ipsilon/evmone/commit/1c0a9b967f875699634d71bf93d17b03366c03eb) - 2026-05-29
+* [Commit] [tools: Fold evmone-t8n into the evmone CLI as a subcommand (#1551)](https://github.com/ipsilon/evmone/commit/0cd0decc31d4c85173f67121bb2e7313ad2d0cd3) - 2026-05-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -190,6 +197,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): EIP-4844 point evaluation -G1 and G1 doubling vectors](https://github.com/ethereum/execution-specs/pull/2927) - 2026-05-27
 * [Commit] [refactor(tests): inline ids and descriptions in point evaluation params (#2907)](https://github.com/ethereum/execution-specs/commit/1787c74d209ec798fef2a044ae08ff3b3f00e006) - 2026-05-27
 * [Commit] [feat(tests): EIP-4844 point evaluation -G1 and G1 doubling vectors (#2927)](https://github.com/ethereum/execution-specs/commit/4441398db2ef50cebf7fa8af59bbf98c28291114) - 2026-05-28
+* [Pull Request] [feat(tests): add EIP-8024 gas boundary and SWAPN invalid-immediate tests](https://github.com/ethereum/execution-specs/pull/2942) - 2026-05-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

@@ -113,6 +113,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ModExp exponent `int32` oveflow fix](https://github.com/NethermindEth/nethermind/pull/11692#pullrequestreview-4365551624) - 2026-05-26
 * [Review] [Review on: feat(nix): add developer shell flake for NixOS / nix-darwin](https://github.com/NethermindEth/nethermind/pull/11798#pullrequestreview-4373757295) - 2026-05-27
 * [Review] [Review on: ci: skip Claude review autorun on fork PRs](https://github.com/NethermindEth/nethermind/pull/11789#pullrequestreview-4372345387) - 2026-05-27
+* [Pull Request] [chore: Remove Base from networks](https://github.com/NethermindEth/nethermind/pull/11852) - 2026-05-29
+* [Review] [Review on: Fix flaky TransactionReceiptsSubscription tests (timeout under parallelism)](https://github.com/NethermindEth/nethermind/pull/11849#pullrequestreview-4392879341) - 2026-05-29
+* [Pull Request] [fix: `fix-nethtest` symlink](https://github.com/NethermindEth/nethermind/pull/11847) - 2026-05-29
+* [Pull Request] [chore: Fix symlinks](https://github.com/NethermindEth/nethermind/pull/11846) - 2026-05-29
+* [Review] [Review on: fix(zkevm): use explicit hash dictionary comparers](https://github.com/NethermindEth/nethermind/pull/11721#pullrequestreview-4391890932) - 2026-05-29
+* [Commit] [fix: `fix-nethtest` symlink (#11847)](https://github.com/NethermindEth/nethermind/commit/a3c7399278d31a62173c8f06bdf452b6246901b4) - 2026-05-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 * [Review] [Review on: feat(zkevm): prune non scheduled forks in ProtocolFork](https://github.com/ethereum/execution-specs/pull/2926#pullrequestreview-4373692443) - 2026-05-27

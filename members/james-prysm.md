@@ -112,6 +112,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [remote signer gloas](https://github.com/OffchainLabs/prysm/pull/16852) - 2026-05-27
 * [Pull Request] [Ptc api returns 404 instead of 503 for block not found](https://github.com/OffchainLabs/prysm/pull/16851) - 2026-05-27
 * [Pull Request] [Validator rest ptc](https://github.com/OffchainLabs/prysm/pull/16856) - 2026-05-28
+* [Review] [Review on: Remove unneded parameter](https://github.com/OffchainLabs/prysm/pull/16863#pullrequestreview-4392510226) - 2026-05-29
+* [Review] [Review on: Only add proposer boost to same shufflings as head](https://github.com/OffchainLabs/prysm/pull/16846#pullrequestreview-4390521432) - 2026-05-29
+* [Review] [Review on: Implement EIP-8045: exclude slashed validators from proposer lookahead.](https://github.com/OffchainLabs/prysm/pull/16857#pullrequestreview-4390706689) - 2026-05-29
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

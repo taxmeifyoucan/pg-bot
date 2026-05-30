@@ -262,6 +262,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: KAD/discv4 debug logs](https://github.com/NethermindEth/nethermind/pull/11811#pullrequestreview-4380396687) - 2026-05-28
 * [Review] [Review on: Fix shutdown race in SnapProvider PLINQ (closes #11806)](https://github.com/NethermindEth/nethermind/pull/11807#pullrequestreview-4379821594) - 2026-05-28
 * [Commit] [Boot nodes to debug log (#11805)](https://github.com/NethermindEth/nethermind/commit/82590cbb10f5b95ceaea04da5744da967337f3f8) - 2026-05-28
+* [Pull Request] [Rework TrieWarmer to ThreadPool processors](https://github.com/NethermindEth/nethermind/pull/11848) - 2026-05-29
+* [Review] [Review on: Improve SSZ](https://github.com/NethermindEth/nethermind/pull/11748#pullrequestreview-4390309775) - 2026-05-29
+* [Review] [Review on: fix(nethtest): BLOCKHASH recency window in state-test runner](https://github.com/NethermindEth/nethermind/pull/11844#pullrequestreview-4391660973) - 2026-05-29
+* [Review] [Review on: Fix FlatSnapServer trie node response limit](https://github.com/NethermindEth/nethermind/pull/11809#pullrequestreview-4388075176) - 2026-05-29
+* [Review] [Review on: feat(snap): cap Proofs count at 256 on inbound snap responses](https://github.com/NethermindEth/nethermind/pull/11786#pullrequestreview-4388073084) - 2026-05-29
+* [Review] [Review on: ReceiptsMigration fix](https://github.com/NethermindEth/nethermind/pull/11822#pullrequestreview-4387083832) - 2026-05-29
+* [Review] [Review on: Prunning - Regression test](https://github.com/NethermindEth/nethermind/pull/11817#pullrequestreview-4387078549) - 2026-05-29
+* [Review] [Review on: fix(blockchain): bound ClearStaleMarkersAbove scan and flush batch periodically](https://github.com/NethermindEth/nethermind/pull/11818#pullrequestreview-4387676340) - 2026-05-29
+* [Commit] [zk-logging (#11757)](https://github.com/NethermindEth/nethermind/commit/8743d801493bec7611a191a457ebaf448a8df813) - 2026-05-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08
@@ -287,6 +296,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(tests): update NethermindExceptionMapper strings for type-4 transactions](https://github.com/ethereum/execution-specs/pull/2867#pullrequestreview-4305667152) - 2026-05-17
 * [Issue] [EIP-8037: missing test for intrinsic regular > cap with floor < cap](https://github.com/ethereum/execution-specs/issues/2865) - 2026-05-17
 * [Issue] [Replace INTRINSIC_GAS_TOO_LOW with GAS_LIMIT_EXCEEDS_MAXIMUM in EIP-8037 cap-overflow tests](https://github.com/ethereum/execution-specs/issues/2864) - 2026-05-17
+* [Review] [Review on: feat(tests): BLOCKHASH recency window in state-test runner](https://github.com/ethereum/execution-specs/pull/2943#pullrequestreview-4391725017) - 2026-05-29
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: all: align EIP-7928 spec with latest EIP (uint32 BlockAccessIndex, header hash, debug getter)](https://github.com/ethereum/execution-apis/pull/794#pullrequestreview-4263914654) - 2026-05-11
 

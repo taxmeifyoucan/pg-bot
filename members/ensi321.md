@@ -86,6 +86,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: upgrade playwright to 1.60.0 to unblock browser tests CI](https://github.com/ChainSafe/lodestar/pull/9420#pullrequestreview-4384587656) - 2026-05-28
 * [Pull Request] [fix: tighten light-client zeroed-header checks to match spec](https://github.com/ChainSafe/lodestar/pull/9419) - 2026-05-28
 * [Commit] [fix: upgrade playwright to 1.60.0 to unblock browser tests CI (#9420)](https://github.com/ChainSafe/lodestar/commit/54f7b9df03cc27ed412ea4808244adaacbb292d1) - 2026-05-28
+* [Review] [Review on: fix: skip casting payload attestation when there is no block at slot](https://github.com/ChainSafe/lodestar/pull/9406#pullrequestreview-4386810163) - 2026-05-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 
@@ -101,6 +102,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Reject gloas PTC attestations cast against an empty assigned slot](https://github.com/ethereum/consensus-specs/pull/5281) - 2026-05-24
 * [Review] [Review on: Ignore PTC attestations for empty assigned slots](https://github.com/ethereum/consensus-specs/pull/5281#pullrequestreview-4368167175) - 2026-05-26
 * [Review] [Review on: Ignore PTC attestations for empty assigned slots](https://github.com/ethereum/consensus-specs/pull/5281#pullrequestreview-4370047244) - 2026-05-27
+* [Commit] [Ignore PTC attestations for empty assigned slots (#5281)](https://github.com/ethereum/consensus-specs/commit/7e4d913e5e24f475416d3502f9ad32dc12a62ea0) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
 ## Q1 2026
