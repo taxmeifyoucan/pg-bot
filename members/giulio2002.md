@@ -105,6 +105,7 @@ Team: Erigon
 * [Review] [Review on: genesis: allow tests pass GenesisConfig to `eth.New()` - avoid double read of large genesis](https://github.com/erigontech/erigon/pull/21470#pullrequestreview-4378307638) - 2026-05-28
 * [Review] [Review on: ci: restore discv5 to devp2p Hive shard](https://github.com/erigontech/erigon/pull/21512#pullrequestreview-4393138612) - 2026-05-29
 * [Review] [Review on: execution/stagedsync: drop stale eth/71 TODO in bal_create](https://github.com/erigontech/erigon/pull/21511#pullrequestreview-4391811786) - 2026-05-29
+* [Review] [Review on: execution/stagedsync: drop stale eth/71 TODO in bal_create](https://github.com/erigontech/erigon/pull/21511#pullrequestreview-4395136073) - 2026-05-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

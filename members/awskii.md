@@ -139,6 +139,11 @@ Team: Erigon
 * [Pull Request] [rpc/jsonrpc: source executionWitness codes from pre-state reads](https://github.com/erigontech/erigon/pull/21518) - 2026-05-30
 * [Pull Request] [rpc/jsonrpc: exclude transient EIP-6780 contract bytecode from execution witness](https://github.com/erigontech/erigon/pull/21517) - 2026-05-30
 * [Review] [Review on: commitment: compare deferred and eager roots](https://github.com/erigontech/erigon/pull/20918#pullrequestreview-4390455230) - 2026-05-29
+* [Pull Request] [rpc/jsonrpc: omit empty keys and order witness headers ascending](https://github.com/erigontech/erigon/pull/21532) - 2026-05-30
+* [Pull Request] [rpc/jsonrpc: include the full BLOCKHASH ancestor chain in executionWitness headers](https://github.com/erigontech/erigon/pull/21529) - 2026-05-30
+* [Pull Request] [rpc/jsonrpc: lex-order executionWitness codes and state](https://github.com/erigontech/erigon/pull/21531) - 2026-05-30
+* [Commit] [rpc/jsonrpc: include the full BLOCKHASH ancestor chain in executionWitness headers (#21529)](https://github.com/erigontech/erigon/commit/30de80e1ab26c802cda47048efa969f4fec0dca7) - 2026-05-30
+* [Commit] [rpc/jsonrpc: source executionWitness codes from pre-state reads (#21518)](https://github.com/erigontech/erigon/commit/a6b3b964c85220c20a99cbb87c1434b3e767e78c) - 2026-05-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

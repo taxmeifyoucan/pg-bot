@@ -204,6 +204,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Forkchoice endpoint](https://github.com/OffchainLabs/prysm/pull/16862#pullrequestreview-4393993875) - 2026-05-30
 * [Review] [Review on: Remove unneded parameter](https://github.com/OffchainLabs/prysm/pull/16863#pullrequestreview-4393038604) - 2026-05-29
 * [Review] [Review on: Only add proposer boost to same shufflings as head](https://github.com/OffchainLabs/prysm/pull/16846#pullrequestreview-4393047628) - 2026-05-29
+* [Issue] [revisit reorgLateBlockCountAttestations for gloas](https://github.com/OffchainLabs/prysm/issues/16870) - 2026-05-31
+* [Issue] [should we run processAttestations before late block tasks](https://github.com/OffchainLabs/prysm/issues/16869) - 2026-05-31
+* [Issue] [lateBlockTasks builds on full on presence](https://github.com/OffchainLabs/prysm/issues/16868) - 2026-05-31
+* [Issue] [dead fcuArgsNonCanonicalBlock path](https://github.com/OffchainLabs/prysm/issues/16867) - 2026-05-31
+* [Issue] [send an FCU on import of a non-canonical block](https://github.com/OffchainLabs/prysm/issues/16866) - 2026-05-31
+* [Issue] [UpdateHead on gloas always builds on the full payload](https://github.com/OffchainLabs/prysm/issues/16865) - 2026-05-31
+* [Issue] [post gloas import block saves head without a reorg guard](https://github.com/OffchainLabs/prysm/issues/16864) - 2026-05-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

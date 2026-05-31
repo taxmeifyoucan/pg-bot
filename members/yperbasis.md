@@ -528,6 +528,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: retry transient image-build/registry failures in hive CI gate (#21504)](https://github.com/erigontech/erigon/commit/80bba43e658a398ba9ab5bba8aa846da973eed05) - 2026-05-29
 * [Commit] [ci: extend merge_group fail-fast and auto-dequeue failed PRs (#21498)](https://github.com/erigontech/erigon/commit/64b55bc7a31ac75bc7fac5219c40eacf405cd7ad) - 2026-05-29
 * [Commit] [ci: cancel orphaned merge-queue runs when their queue branch is deleted (#21492)](https://github.com/erigontech/erigon/commit/afde8b838cf25abeb6d64064844b4f6445886cdf) - 2026-05-29
+* [Pull Request] [db/datastruct/existence: mmap bloom filter on read; ~2.4 GB heap saving](https://github.com/erigontech/erigon/pull/21530) - 2026-05-30
+* [Pull Request] [db/state: fix Aggregator.Close vs background MergeLoop WaitGroup race](https://github.com/erigontech/erigon/pull/21528) - 2026-05-30
+* [Pull Request] [execution/commitment: stop cloning bytes at TrieContext.Branch](https://github.com/erigontech/erigon/pull/21524) - 2026-05-30
+* [Review] [Review on: execution/commitment: stop cloning bytes at TrieContext.Branch](https://github.com/erigontech/erigon/pull/21524#pullrequestreview-4395069003) - 2026-05-30
+* [Issue] [Race: Aggregator.Close vs MergeLoop background worker on test teardown](https://github.com/erigontech/erigon/issues/21521) - 2026-05-30
+* [Issue] [Downloader silently renames locally-rebuilt .kv to .part on torrent-hash mismatch](https://github.com/erigontech/erigon/issues/21522) - 2026-05-30
+* [Commit] [ci: restore discv5 to devp2p Hive shard (#21512)](https://github.com/erigontech/erigon/commit/fefd6ff92ee50b1339bc50fdc699ed8f17eb1a23) - 2026-05-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

@@ -168,6 +168,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm unused REST type initialization code](https://github.com/status-im/nimbus-eth2/pull/8516) - 2026-05-28
 * [Review] [Review on: Implement eip 8045](https://github.com/status-im/nimbus-eth2/pull/8523#pullrequestreview-4393553267) - 2026-05-29
 * [Review] [Review on: extend partial column support to gloas](https://github.com/status-im/nimbus-eth2/pull/8478#pullrequestreview-4389932237) - 2026-05-29
+* [Pull Request] [avoid pointless copies of 128KiB blobs in getBlobsV2/3](https://github.com/status-im/nimbus-eth2/pull/8526) - 2026-05-31
+* [Pull Request] [rm unused code](https://github.com/status-im/nimbus-eth2/pull/8525) - 2026-05-30
+* [Pull Request] [Revert "set lto based on compiler, not platform"](https://github.com/status-im/nimbus-eth2/pull/8524) - 2026-05-30
+* [Review] [Review on: Implement eip 8045](https://github.com/status-im/nimbus-eth2/pull/8523#pullrequestreview-4395385259) - 2026-05-30
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -186,6 +190,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Revert "proxy: Go binding (#4200)" (#4231)](https://github.com/status-im/nimbus-eth1/commit/f6b15a44b030542667da8940aeeb07648f0fa4da) - 2026-05-11
 * [Review] [Review on: fix network argument to be a string and not a list](https://github.com/status-im/nimbus-eth1/pull/4243#pullrequestreview-4290292812) - 2026-05-14
 * [Review] [Review on: Optimistic state prefetch](https://github.com/status-im/nimbus-eth1/pull/4238#pullrequestreview-4334207277) - 2026-05-21
+* [Pull Request] [Revert "lto: set based on compiler"](https://github.com/status-im/nimbus-eth1/pull/4277) - 2026-05-30
+* [Commit] [Revert "lto: set based on compiler (#4071)" (#4277)](https://github.com/status-im/nimbus-eth1/commit/128bba02367ba97af5e3638059602ad292c220db) - 2026-05-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27

@@ -565,6 +565,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: ReceiptsMigration fix](https://github.com/NethermindEth/nethermind/pull/11822#pullrequestreview-4387965659) - 2026-05-29
 * [Review] [Review on: Prunning - Regression test](https://github.com/NethermindEth/nethermind/pull/11817#pullrequestreview-4387907419) - 2026-05-29
 * [Commit] [fix(blockchain): bound ClearStaleMarkersAbove scan and flush batch periodically (#11818)](https://github.com/NethermindEth/nethermind/commit/6f176f152665ae9ea64f69845140abdef5f862a0) - 2026-05-29
+* [Review] [Review on: Flakiness Fixes - Tests & CI](https://github.com/NethermindEth/nethermind/pull/11850#pullrequestreview-4394977019) - 2026-05-30
+* [Review] [Review on: chore: Remove Base from networks](https://github.com/NethermindEth/nethermind/pull/11852#pullrequestreview-4394994656) - 2026-05-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

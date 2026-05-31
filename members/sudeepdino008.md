@@ -226,6 +226,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [wip] experiment: merge on own `mmap` with `madv_sequential`](https://github.com/erigontech/erigon/pull/21482#pullrequestreview-4381442653) - 2026-05-28
 * [Pull Request] [[performance] re-introduce block catchup recovery](https://github.com/erigontech/erigon/pull/21506) - 2026-05-29
 * [Commit] [re-introduce block catchup recovery (#21415)](https://github.com/erigontech/erigon/commit/6e39d0ce82e7bfcd360adf33490ad31338fde6d3) - 2026-05-29
+* [Pull Request] [cl, execution/execmodule: drive ForkChoiceUpdate per InsertBlocks batch](https://github.com/erigontech/erigon/pull/21525) - 2026-05-30
+* [Pull Request] [db/state: log reorg-safe block and step in BuildFilesInBackground](https://github.com/erigontech/erigon/pull/21527) - 2026-05-30
+* [Pull Request] [db/snapshotsync/freezeblocks: run block-snapshot merge off the shared build semaphore](https://github.com/erigontech/erigon/pull/21526) - 2026-05-30
 ## Q1 2026
 
 

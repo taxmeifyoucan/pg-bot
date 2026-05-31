@@ -162,6 +162,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [QA: update rpcTets version 2.12](https://github.com/erigontech/erigon/pull/21501) - 2026-05-28
 * [Pull Request] [rpc: skip zero→zero keys in detectCollapseSiblings to reduce extra witness nodes](https://github.com/erigontech/erigon/pull/21491) - 2026-05-28
 * [Pull Request] [rpc: add Reth-compatible format for debug_executionWitness](https://github.com/erigontech/erigon/pull/21509) - 2026-05-29
+* [Review] [Review on: rpc/jsonrpc: include the full BLOCKHASH ancestor chain in executionWitness headers](https://github.com/erigontech/erigon/pull/21529#pullrequestreview-4395522665) - 2026-05-30
+* [Review] [Review on: rpctest: implement positional topic invariant in EthGetLogsInvariants](https://github.com/erigontech/erigon/pull/21084#pullrequestreview-4395348960) - 2026-05-30
+* [Commit] [rpc: skip zero→zero keys in detectCollapseSiblings to reduce extra witness nodes (#21491)](https://github.com/erigontech/erigon/commit/adb7708d638a7d17c37ada1cab9747fd482dffc2) - 2026-05-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

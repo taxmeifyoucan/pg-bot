@@ -119,6 +119,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [chore: Fix symlinks](https://github.com/NethermindEth/nethermind/pull/11846) - 2026-05-29
 * [Review] [Review on: fix(zkevm): use explicit hash dictionary comparers](https://github.com/NethermindEth/nethermind/pull/11721#pullrequestreview-4391890932) - 2026-05-29
 * [Commit] [fix: `fix-nethtest` symlink (#11847)](https://github.com/NethermindEth/nethermind/commit/a3c7399278d31a62173c8f06bdf452b6246901b4) - 2026-05-29
+* [Review] [Review on: Flakiness Fixes - Tests & CI](https://github.com/NethermindEth/nethermind/pull/11850#pullrequestreview-4395114985) - 2026-05-30
+* [Pull Request] [chore(ai): Consolidate Claude config](https://github.com/NethermindEth/nethermind/pull/11853) - 2026-05-30
+* [Commit] [chore(ai): Consolidate Claude config (#11853)](https://github.com/NethermindEth/nethermind/commit/c6409bc229c562f775de634672d6d900672c0ec4) - 2026-05-30
+* [Commit] [chore: Remove Base from networks (#11852)](https://github.com/NethermindEth/nethermind/commit/b56152102134624ba51e3f5d62ed60046db6b928) - 2026-05-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 * [Review] [Review on: feat(zkevm): prune non scheduled forks in ProtocolFork](https://github.com/ethereum/execution-specs/pull/2926#pullrequestreview-4373692443) - 2026-05-27

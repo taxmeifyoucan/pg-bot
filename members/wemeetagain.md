@@ -133,6 +133,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: introduce NativeBeaconStateView and simplify bindings](https://github.com/ChainSafe/lodestar/pull/9412#pullrequestreview-4392515991) - 2026-05-29
 * [Review] [Review on: fix: use correct regen caller for execution payload import](https://github.com/ChainSafe/lodestar/pull/9421#pullrequestreview-4389509928) - 2026-05-29
 * [Commit] [chore: run caxa via locked pnpm dependency (#9413)](https://github.com/ChainSafe/lodestar/commit/7418ddd9f76957879654274ed9ee4cc154015a00) - 2026-05-29
+* [Review] [Review on: fix: limit `shouldBuildOnFull()` checks to the previous slot](https://github.com/ChainSafe/lodestar/pull/9428#pullrequestreview-4395735779) - 2026-05-30
+* [Review] [Review on: fix: ignore PTC attestations for empty assigned slots](https://github.com/ChainSafe/lodestar/pull/9427#pullrequestreview-4395735172) - 2026-05-30
+* [Review] [Review on: chore: rename ptcVotes to payloadTimelinessVotes](https://github.com/ChainSafe/lodestar/pull/9424#pullrequestreview-4395757650) - 2026-05-30
+* [Review] [Review on: fix: resolve PTC committee against the referenced block state](https://github.com/ChainSafe/lodestar/pull/9426#pullrequestreview-4395734552) - 2026-05-30
+* [Review] [Review on: fix: ignore PTC votes whose slot does not match the referenced block](https://github.com/ChainSafe/lodestar/pull/9425#pullrequestreview-4395733116) - 2026-05-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

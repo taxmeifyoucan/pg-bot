@@ -111,6 +111,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gloas ensure we emit payload attributes SSE event](https://github.com/sigp/lighthouse/pull/9348#pullrequestreview-4354480979) - 2026-05-25
 * [Review] [Review on: Add `POST beacon/bid` endpoint](https://github.com/sigp/lighthouse/pull/9347#pullrequestreview-4379777138) - 2026-05-28
 * [Review] [Review on: Delete bogus `InvalidBestNode` error](https://github.com/sigp/lighthouse/pull/9364#pullrequestreview-4380624559) - 2026-05-28
+* [Review] [Review on: Gloas range sync](https://github.com/sigp/lighthouse/pull/9362#pullrequestreview-4395075652) - 2026-05-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

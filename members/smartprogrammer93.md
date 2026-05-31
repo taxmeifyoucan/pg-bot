@@ -84,6 +84,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix flaky TransactionReceiptsSubscription tests (timeout under parallelism)](https://github.com/NethermindEth/nethermind/pull/11849) - 2026-05-29
 * [Review] [Review on: fix: `fix-nethtest` symlink](https://github.com/NethermindEth/nethermind/pull/11847#pullrequestreview-4392632467) - 2026-05-29
 * [Commit] [Fix flaky TransactionReceiptsSubscription tests (timeout under parallelism) (#11849)](https://github.com/NethermindEth/nethermind/commit/81f92f6a1cd3d0ae2698c02518208c4c01ff5760) - 2026-05-29
+* [Review] [Review on: chore(ai): Consolidate Claude config](https://github.com/NethermindEth/nethermind/pull/11853#pullrequestreview-4395370895) - 2026-05-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 

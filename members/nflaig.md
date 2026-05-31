@@ -254,6 +254,22 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: implement EIP-8045 exclude slashed validators from proposing](https://github.com/ChainSafe/lodestar/pull/9422) - 2026-05-29
 * [Review] [Review on: fix: include payload_data_availability in shouldExtendPayload](https://github.com/ChainSafe/lodestar/pull/9416#pullrequestreview-4388145860) - 2026-05-29
 * [Commit] [fix: use correct regen caller for execution payload import (#9421)](https://github.com/ChainSafe/lodestar/commit/edb7c53fbc93e53ec4ed0c866689d8b9a92c685c) - 2026-05-29
+* [Review] [Review on: fix: skip casting payload attestation when there is no block at slot](https://github.com/ChainSafe/lodestar/pull/9406#pullrequestreview-4396019705) - 2026-05-30
+* [Pull Request] [fix: limit `shouldBuildOnFull()` checks to the previous slot](https://github.com/ChainSafe/lodestar/pull/9428) - 2026-05-30
+* [Pull Request] [chore: fix test current file launch config](https://github.com/ChainSafe/lodestar/pull/9429) - 2026-05-30
+* [Review] [Review on: chore: fix test current file launch config](https://github.com/ChainSafe/lodestar/pull/9429#pullrequestreview-4395862548) - 2026-05-30
+* [Pull Request] [fix: ignore PTC attestations for empty assigned slots](https://github.com/ChainSafe/lodestar/pull/9427) - 2026-05-30
+* [Review] [Review on: fix: ignore PTC attestations for empty assigned slots](https://github.com/ChainSafe/lodestar/pull/9427#pullrequestreview-4395566525) - 2026-05-30
+* [Review] [Review on: chore: rename ptcVotes to payloadTimelinessVotes](https://github.com/ChainSafe/lodestar/pull/9424#pullrequestreview-4395046338) - 2026-05-30
+* [Pull Request] [fix: resolve PTC committee against the referenced block state](https://github.com/ChainSafe/lodestar/pull/9426) - 2026-05-30
+* [Review] [Review on: fix: resolve PTC committee against the referenced block state](https://github.com/ChainSafe/lodestar/pull/9426#pullrequestreview-4395561744) - 2026-05-30
+* [Pull Request] [fix: ignore PTC votes whose slot does not match the referenced block](https://github.com/ChainSafe/lodestar/pull/9425) - 2026-05-30
+* [Review] [Review on: fix: ignore PTC votes whose slot does not match the referenced block](https://github.com/ChainSafe/lodestar/pull/9425#pullrequestreview-4395561581) - 2026-05-30
+* [Review] [Review on: chore: support dev lodestar-z workflow](https://github.com/ChainSafe/lodestar/pull/9371#pullrequestreview-4395704824) - 2026-05-30
+* [Review] [Review on: chore: add logs and metrics for execution payload](https://github.com/ChainSafe/lodestar/pull/9370#pullrequestreview-4395696983) - 2026-05-30
+* [Review] [Review on: feat: report parent_block_hash for safe/finalized post-Gloas](https://github.com/ChainSafe/lodestar/pull/9393#pullrequestreview-4395675568) - 2026-05-30
+* [Commit] [fix: resolve PTC committee against the referenced block state (#9426)](https://github.com/ChainSafe/lodestar/commit/10702626020ef899ac2160ece72df29f1316460b) - 2026-05-30
+* [Commit] [fix: ignore PTC votes whose slot does not match the referenced block (#9425)](https://github.com/ChainSafe/lodestar/commit/0e1ac44567df0a2e14b31628f95316555ae2ae1e) - 2026-05-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -335,6 +351,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309) - 2026-05-29
 * [Pull Request] [Use `should_build_on_full` for bid parent block hash](https://github.com/ethereum/consensus-specs/pull/5310) - 2026-05-29
 * [Review] [Review on: Use `should_build_on_full` for bid parent block hash](https://github.com/ethereum/consensus-specs/pull/5310#pullrequestreview-4392384989) - 2026-05-29
+* [Review] [Review on: Force the proposer to reorg late payloads](https://github.com/ethereum/consensus-specs/pull/5210#pullrequestreview-4395601999) - 2026-05-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 

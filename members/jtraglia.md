@@ -298,6 +298,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add `on_attestation` tests for `validate_on_attestation` updates](https://github.com/ethereum/consensus-specs/pull/5275#pullrequestreview-4389893413) - 2026-05-29
 * [Review] [Review on: Ensure confirmed chain includes greatest unrealized checkpoint](https://github.com/ethereum/consensus-specs/pull/5288#pullrequestreview-4390723738) - 2026-05-29
 * [Commit] [Clarify when to load skills (#5311)](https://github.com/ethereum/consensus-specs/commit/63b2a5542e2922a6df0e92413221b5c14368be35) - 2026-05-29
+* [Pull Request] [Disable verbose mode when running tests in CI](https://github.com/ethereum/consensus-specs/pull/5314) - 2026-05-30
+* [Pull Request] [Fix `is_ancestor` argument types in reconfirmation test](https://github.com/ethereum/consensus-specs/pull/5313) - 2026-05-30
+* [Review] [Review on: Update a link to short explainer for FCR](https://github.com/ethereum/consensus-specs/pull/5312#pullrequestreview-4395341111) - 2026-05-30
+* [Commit] [Disable verbose mode when running tests in CI (#5314)](https://github.com/ethereum/consensus-specs/commit/6370819a35e9558822ef024126cc09ee3666827d) - 2026-05-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

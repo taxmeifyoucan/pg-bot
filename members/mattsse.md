@@ -527,6 +527,11 @@ Team: Reth
 * [Review] [Review on: perf(rpc): derive evm env from header in sim_bundle](https://github.com/paradigmxyz/reth/pull/23841#pullrequestreview-4387429237) - 2026-05-29
 * [Commit] [fix(rpc): default eth_simulateV1 per-call gas to remaining block gas (#24387)](https://github.com/paradigmxyz/reth/commit/b8116b42b8dbe3045f1407e9d5fc26e48de38c88) - 2026-05-29
 * [Commit] [perf(tx-pool): use FxHashSet for invalid senders (#24647)](https://github.com/paradigmxyz/reth/commit/76576db458ee186ad2d8ff9a884c7502df195d4b) - 2026-05-29
+* [Pull Request] [feat(payload): cache parent block info for payload jobs](https://github.com/paradigmxyz/reth/pull/24671) - 2026-05-30
+* [Review] [Review on: chore: Override beacon block root for eth_simulate](https://github.com/paradigmxyz/reth/pull/24652#pullrequestreview-4394926776) - 2026-05-30
+* [Pull Request] [chore(db): address static file cursor clippy lint](https://github.com/paradigmxyz/reth/pull/24672) - 2026-05-30
+* [Pull Request] [feat(payload): make state pre-cache optional](https://github.com/paradigmxyz/reth/pull/24670) - 2026-05-30
+* [Commit] [chore(db): address static file cursor clippy lint (#24672)](https://github.com/paradigmxyz/reth/commit/57671f4fd63f62b4e6da3f6b5b8dc246193cbd2d) - 2026-05-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -546,6 +551,8 @@ Team: Reth
 * [Pull Request] [docs: explain CPSB acronym](https://github.com/bluealloy/revm/pull/3716) - 2026-05-25
 * [Commit] [docs: explain CPSB acronym (#3716)](https://github.com/bluealloy/revm/commit/1d4f18a14d35013c63d33aaa98a2cb1b54b85518) - 2026-05-25
 * [Review] [Review on: feat: `Account::is_changed`](https://github.com/bluealloy/revm/pull/3727#pullrequestreview-4384080780) - 2026-05-28
+* [Pull Request] [feat(database): add conditional bundle update builder](https://github.com/bluealloy/revm/pull/3729) - 2026-05-30
+* [Commit] [feat(database): add conditional bundle update builder (#3729)](https://github.com/bluealloy/revm/commit/392ddb77ad8db642f1a283207b2e6e569270aa88) - 2026-05-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
 ## Q1 2026

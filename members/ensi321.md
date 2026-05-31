@@ -87,6 +87,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: tighten light-client zeroed-header checks to match spec](https://github.com/ChainSafe/lodestar/pull/9419) - 2026-05-28
 * [Commit] [fix: upgrade playwright to 1.60.0 to unblock browser tests CI (#9420)](https://github.com/ChainSafe/lodestar/commit/54f7b9df03cc27ed412ea4808244adaacbb292d1) - 2026-05-28
 * [Review] [Review on: fix: skip casting payload attestation when there is no block at slot](https://github.com/ChainSafe/lodestar/pull/9406#pullrequestreview-4386810163) - 2026-05-29
+* [Commit] [fix: skip casting payload attestation when there is no block at slot (#9406)](https://github.com/ChainSafe/lodestar/commit/c8732e0f70266821d013115b0db87b6b0d99405b) - 2026-05-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 

@@ -66,6 +66,8 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Add custom sweep threshold for validators (EIP-8148)](https://github.com/ethereum/consensus-specs/pull/4901#pullrequestreview-4388690843) - 2026-05-29
 * [Review] [Review on: Embed `payload_status` into `head` fork choice check](https://github.com/ethereum/consensus-specs/pull/5250#pullrequestreview-4388673234) - 2026-05-29
 * [Commit] [Ensure confirmed chain includes greatest unrealized checkpoint (#5288)](https://github.com/ethereum/consensus-specs/commit/1beb70d6311a5e00a5c8e3c606f7ffca84787c6d) - 2026-05-29
+* [Pull Request] [Update a link to short explainer for FCR](https://github.com/ethereum/consensus-specs/pull/5312) - 2026-05-30
+* [Commit] [Update a link to short explainer for FCR (#5312)](https://github.com/ethereum/consensus-specs/commit/848c2ae86341fa6afef335cfba31fb3ad8c9a8e2) - 2026-05-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20
