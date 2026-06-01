@@ -535,6 +535,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Race: Aggregator.Close vs MergeLoop background worker on test teardown](https://github.com/erigontech/erigon/issues/21521) - 2026-05-30
 * [Issue] [Downloader silently renames locally-rebuilt .kv to .part on torrent-hash mismatch](https://github.com/erigontech/erigon/issues/21522) - 2026-05-30
 * [Commit] [ci: restore discv5 to devp2p Hive shard (#21512)](https://github.com/erigontech/erigon/commit/fefd6ff92ee50b1339bc50fdc699ed8f17eb1a23) - 2026-05-30
+* [Pull Request] [execution/state: bypass versionedRead closures in serial fast path for GetState / GetCommittedState / HasSelfdestructed](https://github.com/erigontech/erigon/pull/21542) - 2026-05-31
+* [Pull Request] [execution/engineapi: parallel sender-recovery prefetch in newPayload](https://github.com/erigontech/erigon/pull/21541) - 2026-05-31
+* [Pull Request] [perf: parallel sender prefetch in newPayload + serial fast-paths for IBS state reads](https://github.com/erigontech/erigon/pull/21540) - 2026-05-31
+* [Pull Request] [db/state/execctx: skip changesetMu Lock/Unlock when parallel commitment is off](https://github.com/erigontech/erigon/pull/21535) - 2026-05-31
+* [Pull Request] [docs: remove obsolete E2 walkthrough and dead readthedocs tree](https://github.com/erigontech/erigon/pull/21534) - 2026-05-31
+* [Commit] [db/state: fix Aggregator & ForkableAgg Close vs background MergeLoop WaitGroup race (#21528)](https://github.com/erigontech/erigon/commit/2b65c6ea8d41fbc6ca64c8b4c6d2cd76bf4a52d1) - 2026-05-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

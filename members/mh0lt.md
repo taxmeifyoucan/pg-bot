@@ -222,6 +222,8 @@ Team: Erigon
 * [Review] [Review on: State Cache Consolidation (PR #1 of the perf stack)](https://github.com/erigontech/erigon/pull/21380#pullrequestreview-4370331431) - 2026-05-27
 * [Pull Request] [common/dbg, execution: PERF_PROFILES env knob + pprof labels for parallel exec phases](https://github.com/erigontech/erigon/pull/21516) - 2026-05-29
 * [Commit] [common/dbg, execution: PERF_PROFILES env knob + pprof labels for parallel exec phases (#21516)](https://github.com/erigontech/erigon/commit/a192da320e76c41fe0a7d4b4c44825d0af79471b) - 2026-05-30
+* [Pull Request] [execution/state: typed-vio refactor (L2 — typed AddressEntry + WriteCell[T] + sync.Pool)](https://github.com/erigontech/erigon/pull/21536) - 2026-05-31
+* [Commit] [stagedsync/exec3_parallel: re-enable trie warmup on parallel path (#21454)](https://github.com/erigontech/erigon/commit/07d53af1a4d29857d898b4a44df42419cfef6318) - 2026-05-31
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

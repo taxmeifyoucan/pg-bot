@@ -144,6 +144,13 @@ Team: Erigon
 * [Pull Request] [rpc/jsonrpc: lex-order executionWitness codes and state](https://github.com/erigontech/erigon/pull/21531) - 2026-05-30
 * [Commit] [rpc/jsonrpc: include the full BLOCKHASH ancestor chain in executionWitness headers (#21529)](https://github.com/erigontech/erigon/commit/30de80e1ab26c802cda47048efa969f4fec0dca7) - 2026-05-30
 * [Commit] [rpc/jsonrpc: source executionWitness codes from pre-state reads (#21518)](https://github.com/erigontech/erigon/commit/a6b3b964c85220c20a99cbb87c1434b3e767e78c) - 2026-05-30
+* [Pull Request] [rpc/jsonrpc: encode executionWitness headers as RLP](https://github.com/erigontech/erigon/pull/21543) - 2026-05-31
+* [Review] [Review on: perf: reduce workers amount ](https://github.com/erigontech/erigon/pull/21520#pullrequestreview-4397150473) - 2026-05-31
+* [Pull Request] [rpc/jsonrpc: drop pre-state code already created in-block from witness](https://github.com/erigontech/erigon/pull/21539) - 2026-05-31
+* [Review] [Review on: execution/tests: add zkevm execution-witness suite (zkevm@v0.4.0)](https://github.com/erigontech/erigon/pull/21487#pullrequestreview-4396932187) - 2026-05-31
+* [Pull Request] [rpc/jsonrpc: encode executionWitness headers as RLP](https://github.com/erigontech/erigon/pull/21537) - 2026-05-31
+* [Commit] [rpc/jsonrpc: omit empty keys and order witness headers ascending (#21532)](https://github.com/erigontech/erigon/commit/ac68bfc6e1fb33ce7b714b1361f7203c6ec72b89) - 2026-05-31
+* [Commit] [rpc/jsonrpc: drop pre-state code already created in-block from witness (#21539)](https://github.com/erigontech/erigon/commit/5d993f926fffd2ae5fa08d373ff86f3cbcfe4848) - 2026-05-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

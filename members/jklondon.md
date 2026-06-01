@@ -84,6 +84,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: less logs from `backward-block-downloader` ](https://github.com/erigontech/erigon/pull/21438#pullrequestreview-4370412358) - 2026-05-27
 * [Review] [Review on: exec: `avg mgas/s` robust calculation ](https://github.com/erigontech/erigon/pull/21443#pullrequestreview-4370563488) - 2026-05-27
 * [Review] [Review on: bloatnet: auto-nuke StateCache on low hit_rate](https://github.com/erigontech/erigon/pull/21435#pullrequestreview-4370417603) - 2026-05-27
+* [Review] [Review on: grwoslice: use `slices.Grow` instead of hand-rolled grow funcs](https://github.com/erigontech/erigon/pull/21467#pullrequestreview-4397443519) - 2026-05-31
+* [Review] [Review on: bloatnet: auto-nuke StateCache on low hit_rate](https://github.com/erigontech/erigon/pull/21468#pullrequestreview-4397441723) - 2026-05-31
+* [Review] [Review on: genesis: faster `-race` of big genesis. step2](https://github.com/erigontech/erigon/pull/21475#pullrequestreview-4397436742) - 2026-05-31
+* [Pull Request] [[r3.4] db/state: prune TemporalMemBatch overlay entries past unwindToTxNum (#20625)](https://github.com/erigontech/erigon/pull/21538) - 2026-05-31
 ## Q1 2026
 
 

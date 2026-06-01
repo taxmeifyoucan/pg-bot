@@ -94,6 +94,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Defer DVT attestation selection submission until epoch start (#10744)](https://github.com/Consensys/teku/commit/2cd67bb384c5fa2aab54f366388aeae048de1291) - 2026-05-27
 * [Pull Request] [Limit pending block pool by retained bytes](https://github.com/Consensys/teku/pull/10758) - 2026-05-28
 * [Pull Request] [Add Gloas state builders Beacon API endpoint](https://github.com/Consensys/teku/pull/10765) - 2026-05-30
+* [Pull Request] [Renamed execution payload endpoints](https://github.com/Consensys/teku/pull/10768) - 2026-06-01
+* [Review] [Review on: Update netty ](https://github.com/Consensys/teku/pull/10751#pullrequestreview-4397890802) - 2026-06-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

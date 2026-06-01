@@ -686,6 +686,11 @@ Team: Erigon
 * [Review] [Review on: common/dbg, execution: PERF_PROFILES env knob + pprof labels for parallel exec phases](https://github.com/erigontech/erigon/pull/21516#pullrequestreview-4394351334) - 2026-05-30
 * [Review] [Review on: rpc/jsonrpc: source executionWitness codes from pre-state reads](https://github.com/erigontech/erigon/pull/21518#pullrequestreview-4394343594) - 2026-05-30
 * [Pull Request] [perf: reduce workers amount ](https://github.com/erigontech/erigon/pull/21520) - 2026-05-30
+* [Review] [Review on: execution/engineapi: parallel sender-recovery prefetch in newPayload](https://github.com/erigontech/erigon/pull/21541#pullrequestreview-4396850661) - 2026-05-31
+* [Review] [Review on: rpc/jsonrpc: drop pre-state code already created in-block from witness](https://github.com/erigontech/erigon/pull/21539#pullrequestreview-4396841534) - 2026-05-31
+* [Review] [Review on: db/state: fix Aggregator & ForkableAgg Close vs background MergeLoop WaitGroup race](https://github.com/erigontech/erigon/pull/21528#pullrequestreview-4396844451) - 2026-05-31
+* [Review] [Review on: rpc/jsonrpc: encode executionWitness headers as RLP](https://github.com/erigontech/erigon/pull/21537#pullrequestreview-4396846296) - 2026-05-31
+* [Review] [Review on: [r3.4] db/state: prune TemporalMemBatch overlay entries past unwindToTxNum (#20625)](https://github.com/erigontech/erigon/pull/21538#pullrequestreview-4396842751) - 2026-05-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

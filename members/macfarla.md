@@ -236,6 +236,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [perf: cache last validated JWT token in EngineAuthService (#10559)](https://github.com/besu-eth/besu/commit/d18b08a4c5a607b3845c9017a8baaf64dbdb1716) - 2026-05-28
 * [Pull Request] [nightly kurtosis interop assertoor test](https://github.com/besu-eth/besu/pull/10569) - 2026-05-29
 * [Review] [Review on: nightly kurtosis interop assertoor test](https://github.com/besu-eth/besu/pull/10569#pullrequestreview-4386856109) - 2026-05-29
+* [Review] [Review on: add eth_getTransactionBySenderAndNonce RPC](https://github.com/besu-eth/besu/pull/10501#pullrequestreview-4398179324) - 2026-06-01
+* [Commit] [add eth_getTransactionBySenderAndNonce RPC (#10501)](https://github.com/besu-eth/besu/commit/8fe48c6fef45c9974d94f43b5fae9ebc9b99f574) - 2026-06-01
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

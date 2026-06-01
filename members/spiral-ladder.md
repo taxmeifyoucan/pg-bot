@@ -142,6 +142,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: install zig 0.16.0 in Dockerfile](https://github.com/ChainSafe/lodestar/pull/9371#pullrequestreview-4288639588) - 2026-05-14
 * [Commit] [chore: support dev lodestar-z workflow (#9371)](https://github.com/ChainSafe/lodestar/commit/6ef8199cfae3693f24596817a69b855036dfb7ba) - 2026-05-20
 * [Review] [Review on: chore: surface same-message BLS retry metrics on dashboard](https://github.com/ChainSafe/lodestar/pull/9407#pullrequestreview-4363646628) - 2026-05-26
+* [Review] [Review on: chore: fix references to light-client/prover repo](https://github.com/ChainSafe/lodestar/pull/9434#pullrequestreview-4398199814) - 2026-06-01
 ## Q1 2026
 
 

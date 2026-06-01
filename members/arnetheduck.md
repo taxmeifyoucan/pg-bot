@@ -23,6 +23,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [chronos: bump to vtbl-stream](https://github.com/status-im/nimbus-eth1/pull/4207) - 2026-05-04
 * [Review] [Review on: Use RlpArrayBufWriter for rlp encoding in stateroot computation](https://github.com/status-im/nimbus-eth1/pull/4115#pullrequestreview-4241993289) - 2026-05-07
 * [Commit] [chronos: bump to vtbl-stream (#4207)](https://github.com/status-im/nimbus-eth1/commit/b61b70f8e28cb39b062781cc532e3b9f0d73ba2e) - 2026-05-18
+* [Pull Request] [LTO per compiler, take 2](https://github.com/status-im/nimbus-eth1/pull/4278) - 2026-05-31
+* [Commit] [LTO per compiler, take 2 (#4278)](https://github.com/status-im/nimbus-eth1/commit/fd9286e4f1c3a919728668ff67494f79400fe443) - 2026-05-31
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid blocking main thread on reconstruction](https://github.com/status-im/nimbus-eth2/pull/8346) - 2026-04-27
 * [Pull Request] [gloas: pool cleanups](https://github.com/status-im/nimbus-eth2/pull/8348) - 2026-04-28
@@ -39,6 +41,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [chronos: bump to vtbl-stream](https://github.com/status-im/nimbus-eth2/pull/8394) - 2026-05-04
 * [Pull Request] [backfill: log more stuff on failure](https://github.com/status-im/nimbus-eth2/pull/8518) - 2026-05-28
 * [Pull Request] [backfill: log more stuff on failure](https://github.com/status-im/nimbus-eth2/pull/8517) - 2026-05-28
+* [Pull Request] [LTO per compiler, take 2](https://github.com/status-im/nimbus-eth2/pull/8529) - 2026-05-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4195918133) - 2026-04-29
 

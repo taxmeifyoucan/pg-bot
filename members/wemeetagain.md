@@ -138,6 +138,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: rename ptcVotes to payloadTimelinessVotes](https://github.com/ChainSafe/lodestar/pull/9424#pullrequestreview-4395757650) - 2026-05-30
 * [Review] [Review on: fix: resolve PTC committee against the referenced block state](https://github.com/ChainSafe/lodestar/pull/9426#pullrequestreview-4395734552) - 2026-05-30
 * [Review] [Review on: fix: ignore PTC votes whose slot does not match the referenced block](https://github.com/ChainSafe/lodestar/pull/9425#pullrequestreview-4395733116) - 2026-05-30
+* [Review] [Review on: fix: ignore PTC attestations for empty assigned slots](https://github.com/ChainSafe/lodestar/pull/9427#pullrequestreview-4396924368) - 2026-05-31
+* [Review] [Review on: fix: limit `shouldBuildOnFull()` checks to the previous slot](https://github.com/ChainSafe/lodestar/pull/9428#pullrequestreview-4396922757) - 2026-05-31
+* [Review] [Review on: chore: fix test current file launch config](https://github.com/ChainSafe/lodestar/pull/9429#pullrequestreview-4396921705) - 2026-05-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

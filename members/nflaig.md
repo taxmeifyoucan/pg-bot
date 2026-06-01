@@ -270,6 +270,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: report parent_block_hash for safe/finalized post-Gloas](https://github.com/ChainSafe/lodestar/pull/9393#pullrequestreview-4395675568) - 2026-05-30
 * [Commit] [fix: resolve PTC committee against the referenced block state (#9426)](https://github.com/ChainSafe/lodestar/commit/10702626020ef899ac2160ece72df29f1316460b) - 2026-05-30
 * [Commit] [fix: ignore PTC votes whose slot does not match the referenced block (#9425)](https://github.com/ChainSafe/lodestar/commit/0e1ac44567df0a2e14b31628f95316555ae2ae1e) - 2026-05-30
+* [Pull Request] [chore: fix references to light-client/prover repo](https://github.com/ChainSafe/lodestar/pull/9434) - 2026-05-31
+* [Pull Request] [fix: handle post-gloas empty blocks in data columns by range](https://github.com/ChainSafe/lodestar/pull/9433) - 2026-05-31
+* [Pull Request] [feat: force the proposer to reorg late payloads](https://github.com/ChainSafe/lodestar/pull/9431) - 2026-05-31
+* [Review] [Review on: feat: force the proposer to reorg late payloads](https://github.com/ChainSafe/lodestar/pull/9431#pullrequestreview-4396970120) - 2026-05-31
+* [Pull Request] [fix: use finalized block slot as envelope by range archive boundary](https://github.com/ChainSafe/lodestar/pull/9432) - 2026-05-31
+* [Review] [Review on: feat: add PTC data availability and quorum tracking](https://github.com/ChainSafe/lodestar/pull/9284#pullrequestreview-4396838053) - 2026-05-31
+* [Review] [Review on: feat: force the proposer to reorg unavailable blocks](https://github.com/ChainSafe/lodestar/pull/9387#pullrequestreview-4396816473) - 2026-05-31
+* [Review] [Review on: feat: check gas limit consistency with the target](https://github.com/ChainSafe/lodestar/pull/9391#pullrequestreview-4396673684) - 2026-05-31
+* [Commit] [fix: ignore PTC attestations for empty assigned slots (#9427)](https://github.com/ChainSafe/lodestar/commit/e47e0bb5bd3cc50fc12cbdcc456377dfdbb8fd7e) - 2026-05-31
+* [Commit] [fix: limit `shouldBuildOnFull()` checks to the previous slot (#9428)](https://github.com/ChainSafe/lodestar/commit/56839a62098642445b5f703a78895be3ca5c9f52) - 2026-05-31
+* [Commit] [chore: fix test current file launch config (#9429)](https://github.com/ChainSafe/lodestar/commit/08d94fd9e29e1b5978bb19ca07d881cc60cddc99) - 2026-05-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

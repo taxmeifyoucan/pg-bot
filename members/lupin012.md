@@ -165,6 +165,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc/jsonrpc: include the full BLOCKHASH ancestor chain in executionWitness headers](https://github.com/erigontech/erigon/pull/21529#pullrequestreview-4395522665) - 2026-05-30
 * [Review] [Review on: rpctest: implement positional topic invariant in EthGetLogsInvariants](https://github.com/erigontech/erigon/pull/21084#pullrequestreview-4395348960) - 2026-05-30
 * [Commit] [rpc: skip zero→zero keys in detectCollapseSiblings to reduce extra witness nodes (#21491)](https://github.com/erigontech/erigon/commit/adb7708d638a7d17c37ada1cab9747fd482dffc2) - 2026-05-30
+* [Review] [Review on: rpc/jsonrpc: omit empty keys and order witness headers ascending](https://github.com/erigontech/erigon/pull/21532#pullrequestreview-4396470608) - 2026-05-31
+* [Review] [Review on: rpc/jsonrpc: encode executionWitness headers as RLP](https://github.com/erigontech/erigon/pull/21543#pullrequestreview-4397011666) - 2026-05-31
+* [Pull Request] [rpc: return explicit error when trace_* receives a custom tracer](https://github.com/erigontech/erigon/pull/21544) - 2026-05-31
+* [Review] [Review on: rpc/jsonrpc: lex-order executionWitness codes and state](https://github.com/erigontech/erigon/pull/21531#pullrequestreview-4396481064) - 2026-05-31
+* [Review] [Review on: [SharovBot] rpc: backport debug_getModifiedAccountsByHash/Number Geth semantics fix to release/3.4](https://github.com/erigontech/erigon/pull/21507#pullrequestreview-4396726059) - 2026-05-31
+* [Commit] [QA: update rpcTets version 2.12 (#21501)](https://github.com/erigontech/erigon/commit/3025baf1396572465b1dbe7502d54d7db9372643) - 2026-05-31
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

@@ -164,6 +164,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(nethtest): BLOCKHASH recency window in state-test runner](https://github.com/NethermindEth/nethermind/pull/11844#pullrequestreview-4390640862) - 2026-05-29
 * [Review] [Review on: feat(snap): cap Proofs count at 256 on inbound snap responses](https://github.com/NethermindEth/nethermind/pull/11786#pullrequestreview-4388019548) - 2026-05-29
 * [Commit] [Improve SSZ (#11748)](https://github.com/NethermindEth/nethermind/commit/53df8a5c65886f884acb793d1ce48b3f22975b6f) - 2026-05-29
+* [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11857#pullrequestreview-4396564938) - 2026-05-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

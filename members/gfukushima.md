@@ -58,6 +58,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Update netty ](https://github.com/Consensys/teku/pull/10751#pullrequestreview-4371309045) - 2026-05-27
 * [Review] [Review on: Update netty ](https://github.com/Consensys/teku/pull/10751#pullrequestreview-4378382046) - 2026-05-28
 * [Commit] [Add debug logging for computeEquivocatingCommitteeWeight() (#10757)](https://github.com/Consensys/teku/commit/5953af3d22c321cce636ec4737672d1cd024e7aa) - 2026-05-29
+* [Review] [Review on: Renamed execution payload endpoints](https://github.com/Consensys/teku/pull/10768#pullrequestreview-4398232149) - 2026-06-01
+* [Review] [Review on: Update netty ](https://github.com/Consensys/teku/pull/10751#pullrequestreview-4397904614) - 2026-06-01
 ## Q1 2026
 
 

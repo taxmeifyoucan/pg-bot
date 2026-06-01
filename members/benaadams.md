@@ -274,6 +274,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix SSZ Accept negotiation to inspect every media range](https://github.com/NethermindEth/nethermind/pull/11856) - 2026-05-31
 * [Review] [Review on: Change PR label condition for benchmark job](https://github.com/NethermindEth/nethermind/pull/11851#pullrequestreview-4395612755) - 2026-05-30
 * [Review] [Review on: Flakiness Fixes - Tests & CI](https://github.com/NethermindEth/nethermind/pull/11850#pullrequestreview-4395648366) - 2026-05-30
+* [Pull Request] [perf(discovery): replace timeout exceptions with value results in discv4](https://github.com/NethermindEth/nethermind/pull/11859) - 2026-05-31
+* [Review] [Review on: perf(discovery): replace timeout exceptions with value results in discv4](https://github.com/NethermindEth/nethermind/pull/11859#pullrequestreview-4396766710) - 2026-05-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

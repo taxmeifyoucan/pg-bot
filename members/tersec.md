@@ -172,6 +172,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm unused code](https://github.com/status-im/nimbus-eth2/pull/8525) - 2026-05-30
 * [Pull Request] [Revert "set lto based on compiler, not platform"](https://github.com/status-im/nimbus-eth2/pull/8524) - 2026-05-30
 * [Review] [Review on: Implement eip 8045](https://github.com/status-im/nimbus-eth2/pull/8523#pullrequestreview-4395385259) - 2026-05-30
+* [Review] [Review on: extend partial column support to gloas](https://github.com/status-im/nimbus-eth2/pull/8478#pullrequestreview-4397413732) - 2026-05-31
+* [Review] [Review on: add some focil helpers](https://github.com/status-im/nimbus-eth2/pull/8528#pullrequestreview-4396446095) - 2026-05-31
+* [Pull Request] [avoid pointless copies of KZG cells and proofs during parallel recovery](https://github.com/status-im/nimbus-eth2/pull/8527) - 2026-05-31
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

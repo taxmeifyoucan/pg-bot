@@ -47,6 +47,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: use stackless singleton for peer-gate rejection in RlpxAgent](https://github.com/besu-eth/besu/pull/10523#pullrequestreview-4314884733) - 2026-05-19
 * [Review] [Review on: fix: Peer Tracker incorrectly evicts peers pre-validation](https://github.com/besu-eth/besu/pull/10511#pullrequestreview-4324379578) - 2026-05-20
 * [Pull Request] [Add new payload listener](https://github.com/besu-eth/besu/pull/10570) - 2026-05-29
+* [Review] [Review on: Add new payload listener](https://github.com/besu-eth/besu/pull/10570#pullrequestreview-4398017471) - 2026-06-01
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [snap: GetTrieNodes accepts invalid compact-encoded paths instead of rejecting them](https://github.com/ethereum/go-ethereum/issues/34853) - 2026-04-30
 ## Q1 2026

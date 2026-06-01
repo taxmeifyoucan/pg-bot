@@ -45,6 +45,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [ensure sidecarless is cleaned once enqueuePayload is successful](https://github.com/status-im/nimbus-eth2/pull/8501) - 2026-05-22
 * [Review] [Review on: ensure sidecarless is cleaned once enqueuePayload is successful + drive enqueuePayload from rman](https://github.com/status-im/nimbus-eth2/pull/8501#pullrequestreview-4355110805) - 2026-05-25
 * [Pull Request] [partial column movement from EL to ColumnQuarantine](https://github.com/status-im/nimbus-eth2/pull/8513) - 2026-05-26
+* [Pull Request] [add some focil helpers](https://github.com/status-im/nimbus-eth2/pull/8528) - 2026-05-31
 ## Q1 2026
 
 
