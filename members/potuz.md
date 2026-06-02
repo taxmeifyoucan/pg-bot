@@ -120,6 +120,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Precompute head for `update_proposer_boost_root`](https://github.com/ethereum/consensus-specs/pull/5300#pullrequestreview-4374222486) - 2026-05-27
 * [Review] [Review on: Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309#pullrequestreview-4389525473) - 2026-05-29
 * [Review] [Review on: Exclude slashed validators from proposing (EIP-8045)](https://github.com/ethereum/consensus-specs/pull/5115#pullrequestreview-4391747321) - 2026-05-29
+* [Commit] [Force the proposer to reorg late payloads (#5210)](https://github.com/ethereum/consensus-specs/commit/268cd2b2a3e365545446f934d8e9f86944d5d28f) - 2026-06-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17

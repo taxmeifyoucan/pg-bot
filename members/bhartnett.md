@@ -65,6 +65,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Update kzg trusted setup loading parameters (#4260)](https://github.com/status-im/nimbus-eth1/commit/a91f5154f93b1dddda8b8538432ebd8d60dc647f) - 2026-05-21
 * [Pull Request] [Optimistic state prefetch lru improvements](https://github.com/status-im/nimbus-eth1/pull/4272) - 2026-05-27
 * [Commit] [Optimistic state prefetch (#4238)](https://github.com/status-im/nimbus-eth1/commit/81a05fc713ced1793c30c09cdb17dbbc27a7c105) - 2026-05-28
+* [Pull Request] [Parallel state root computation disabled by default](https://github.com/status-im/nimbus-eth1/pull/4284) - 2026-06-01
+* [Pull Request] [BAL state prefetching (Batch IO)](https://github.com/status-im/nimbus-eth1/pull/4279) - 2026-06-01
+* [Commit] [Parallel state root computation disabled by default (#4284)](https://github.com/status-im/nimbus-eth1/commit/d2e20ae3389d0dfcd98a9a295b4d326190c89c16) - 2026-06-02
 ## Q1 2026
 
 

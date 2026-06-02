@@ -143,6 +143,7 @@ Team: Reth
 * [Review] [Review on: ci(bench): show derek command in bench summary](https://github.com/paradigmxyz/reth/pull/24550#pullrequestreview-4362637281) - 2026-05-26
 * [Review] [Review on: refactor: integrate state hook from `State<DB>`](https://github.com/paradigmxyz/reth/pull/24654#pullrequestreview-4389892922) - 2026-05-29
 * [Review] [Review on: fix(ci): restore bench grafana observability link](https://github.com/paradigmxyz/reth/pull/24648#pullrequestreview-4389427396) - 2026-05-29
+* [Pull Request] [feat(trie): replace state root computation with lattice hash](https://github.com/paradigmxyz/reth/pull/24743) - 2026-06-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

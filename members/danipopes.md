@@ -470,6 +470,7 @@ Team: Reth
 * [Commit] [refactor: remove unused spec ids (#3649)](https://github.com/bluealloy/revm/commit/c661e79ac941214f8ca458e1cba9de216571c948) - 2026-05-05
 * [Pull Request] [feat(precompile): add matter-labs bn254 backend](https://github.com/bluealloy/revm/pull/3673) - 2026-05-12
 * [Pull Request] [feat: add async database fiber support](https://github.com/bluealloy/revm/pull/3709) - 2026-05-22
+* [Review] [Review on: perf: avoid reallocations and cloning during commit](https://github.com/bluealloy/revm/pull/3732#pullrequestreview-4404761000) - 2026-06-01
 ## Q1 2026
 
 

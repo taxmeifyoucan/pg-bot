@@ -53,6 +53,7 @@ Team: Geth
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Review] [Review on: add ux improvement changes](https://github.com/ethereum/go-ethereum/pull/34885#pullrequestreview-4236428200) - 2026-05-06
 * [Commit] [eth/catalyst: import new payload if at genesis, regardless of sync status (#32673)](https://github.com/ethereum/go-ethereum/commit/1a2333650a73b81ffaa7114f2c3c1b21617e2e1d) - 2026-05-27
+* [Review] [Review on: internal/era: update to latest ere spec](https://github.com/ethereum/go-ethereum/pull/34896#pullrequestreview-4405577162) - 2026-06-02
 ## Q1 2026
 
 

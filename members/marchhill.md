@@ -72,6 +72,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Fix statsanalyzer plugin BAL rename (#11760)](https://github.com/NethermindEth/nethermind/commit/06dc8e90fc33b5343947814bfaa11b47da2551db) - 2026-05-26
 * [Commit] [Change BAL DB key (#11761)](https://github.com/NethermindEth/nethermind/commit/ae03d2b0e3928d37501e4dd2f3a79f2d77535ff5) - 2026-05-27
 * [Review] [Review on: Activate BAL only when needed](https://github.com/NethermindEth/nethermind/pull/11795#pullrequestreview-4380131452) - 2026-05-28
+* [Pull Request] [perf(bal): build BAL validation index on the sequential execution path](https://github.com/NethermindEth/nethermind/pull/11873) - 2026-06-01
 ## Q1 2026
 
 

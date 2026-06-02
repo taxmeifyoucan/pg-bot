@@ -532,6 +532,9 @@ Team: Reth
 * [Pull Request] [chore(db): address static file cursor clippy lint](https://github.com/paradigmxyz/reth/pull/24672) - 2026-05-30
 * [Pull Request] [feat(payload): make state pre-cache optional](https://github.com/paradigmxyz/reth/pull/24670) - 2026-05-30
 * [Commit] [chore(db): address static file cursor clippy lint (#24672)](https://github.com/paradigmxyz/reth/commit/57671f4fd63f62b4e6da3f6b5b8dc246193cbd2d) - 2026-05-30
+* [Review] [Review on: chore(hive): update bal fixture and branch version to 7](https://github.com/paradigmxyz/reth/pull/24734#pullrequestreview-4401757270) - 2026-06-01
+* [Review] [Review on: chore(hive): update bal fixture and branch version to 7](https://github.com/paradigmxyz/reth/pull/24733#pullrequestreview-4401549322) - 2026-06-01
+* [Review] [Review on: chore(docs): bump Vocs to v2](https://github.com/paradigmxyz/reth/pull/24732#pullrequestreview-4401558218) - 2026-06-01
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

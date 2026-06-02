@@ -26,6 +26,8 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Commit] [feat: enhance gas benchmark workflow with comments for start and results (#10350)](https://github.com/NethermindEth/nethermind/commit/ff2795eeb1b73dc0dbe4d6f10b9c99bdee9c0a2c) - 2026-05-25
 * [Pull Request] [chore(workflows): phased PR gating and path-based test selection](https://github.com/NethermindEth/nethermind/pull/11823) - 2026-05-28
 * [Review] [Review on: chore(workflows): phased PR gating and path-based test selection](https://github.com/NethermindEth/nethermind/pull/11823#pullrequestreview-4384135045) - 2026-05-28
+* [Pull Request] [fix(workflows): update hive tests workflow to support release branches and enhance input descriptions](https://github.com/NethermindEth/nethermind/pull/11877) - 2026-06-01
+* [Review] [Review on: fix(workflows): update hive tests workflow to support release branches and enhance input descriptions](https://github.com/NethermindEth/nethermind/pull/11877#pullrequestreview-4404334657) - 2026-06-01
 ## Q1 2026
 
 

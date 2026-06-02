@@ -229,6 +229,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl, execution/execmodule: drive ForkChoiceUpdate per InsertBlocks batch](https://github.com/erigontech/erigon/pull/21525) - 2026-05-30
 * [Pull Request] [db/state: log reorg-safe block and step in BuildFilesInBackground](https://github.com/erigontech/erigon/pull/21527) - 2026-05-30
 * [Pull Request] [db/snapshotsync/freezeblocks: run block-snapshot merge off the shared build semaphore](https://github.com/erigontech/erigon/pull/21526) - 2026-05-30
+* [Review] [Review on: perfomance: reduce pageSize to 4kb](https://github.com/erigontech/erigon/pull/21553#pullrequestreview-4401662407) - 2026-06-01
+* [Review] [Review on: execution, cl: persist initial-cycle lifecycle by block TTL](https://github.com/erigontech/erigon/pull/20895#pullrequestreview-4400484037) - 2026-06-01
+* [Pull Request] [db/snapshotsync: fix crash due to double close of decompressor ](https://github.com/erigontech/erigon/pull/21545) - 2026-06-01
+* [Issue] [E3 state accessor recovery ('rebuild index if not there') is broken on restart](https://github.com/erigontech/erigon/issues/21556) - 2026-06-01
+* [Commit] [db/state: log reorg-safe block and step in BuildFilesInBackground (#21527)](https://github.com/erigontech/erigon/commit/8426d9cd0fe0fd37309abbc25a00fa426b00b816) - 2026-06-01
+* [Commit] [db/snapshotsync: fix crash due to double close of decompressor  (#21545)](https://github.com/erigontech/erigon/commit/92b22dcf402d01e390e885afa1dcc25f70c802a6) - 2026-06-01
+* [Commit] [batch call fcu along with InsertBlocks in block collector's flush (#21525)](https://github.com/erigontech/erigon/commit/2f172a13aa7f6fcdb2a120ba36f91df8ad897ddb) - 2026-06-01
 ## Q1 2026
 
 

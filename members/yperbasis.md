@@ -541,6 +541,32 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db/state/execctx: skip changesetMu Lock/Unlock when parallel commitment is off](https://github.com/erigontech/erigon/pull/21535) - 2026-05-31
 * [Pull Request] [docs: remove obsolete E2 walkthrough and dead readthedocs tree](https://github.com/erigontech/erigon/pull/21534) - 2026-05-31
 * [Commit] [db/state: fix Aggregator & ForkableAgg Close vs background MergeLoop WaitGroup race (#21528)](https://github.com/erigontech/erigon/commit/2b65c6ea8d41fbc6ca64c8b4c6d2cd76bf4a52d1) - 2026-05-31
+* [Pull Request] [p2p/sentry: cap and rate-limit inbound NewBlockHashes per peer](https://github.com/erigontech/erigon/pull/21557) - 2026-06-01
+* [Review] [Review on: p2p/sentry: cap and rate-limit inbound NewBlockHashes per peer](https://github.com/erigontech/erigon/pull/21557#pullrequestreview-4401362582) - 2026-06-01
+* [Pull Request] [polygon/sync: ignore empty NewBlockHashes to prevent observer panic](https://github.com/erigontech/erigon/pull/21560) - 2026-06-01
+* [Pull Request] [node/app/event: fix data race on eventBus.prevQueueSize](https://github.com/erigontech/erigon/pull/21551) - 2026-06-01
+* [Review] [Review on: node/app/event: fix data race on eventBus.prevQueueSize](https://github.com/erigontech/erigon/pull/21551#pullrequestreview-4400593141) - 2026-06-01
+* [Review] [Review on: execution/state: typed-vio refactor (L2 — typed AddressEntry + WriteCell[T] + sync.Pool)](https://github.com/erigontech/erigon/pull/21536#pullrequestreview-4400407180) - 2026-06-01
+* [Review] [Review on: rpc: return explicit error when trace_* receives a custom tracer](https://github.com/erigontech/erigon/pull/21544#pullrequestreview-4399831078) - 2026-06-01
+* [Review] [Review on: rpctest: implement positional topic invariant in EthGetLogsInvariants](https://github.com/erigontech/erigon/pull/21084#pullrequestreview-4399728531) - 2026-06-01
+* [Review] [Review on: docs(fundamentals): add Architecture and Database pages [main]](https://github.com/erigontech/erigon/pull/21500#pullrequestreview-4399587437) - 2026-06-01
+* [Pull Request] [execution/types, execution/engineapi: avoid RLP re-encode of newPayload txs](https://github.com/erigontech/erigon/pull/21546) - 2026-06-01
+* [Pull Request] [cl/sentinel/httpreqresp: cap req/resp response body size](https://github.com/erigontech/erigon/pull/21562) - 2026-06-01
+* [Pull Request] [node/app/workerpool: de-flake TestWaitingQueueSizeRace](https://github.com/erigontech/erigon/pull/21554) - 2026-06-01
+* [Review] [Review on: chore: add Drips FUNDING.json for dependency funding streams](https://github.com/erigontech/erigon/pull/21561#pullrequestreview-4401749748) - 2026-06-01
+* [Pull Request] [cl/clstages: recover from panics in stage ActionFunc](https://github.com/erigontech/erigon/pull/21558) - 2026-06-01
+* [Review] [Review on: cl/clstages: recover from panics in stage ActionFunc](https://github.com/erigontech/erigon/pull/21558#pullrequestreview-4401630543) - 2026-06-01
+* [Review] [Review on: execution/abi: fix wrong want count for events](https://github.com/erigontech/erigon/pull/21519#pullrequestreview-4401007440) - 2026-06-01
+* [Pull Request] [execution/engineapi: compute newPayload tx-root concurrently with entry-path validation](https://github.com/erigontech/erigon/pull/21550) - 2026-06-01
+* [Review] [Review on: execution, cl: persist initial-cycle lifecycle by block TTL](https://github.com/erigontech/erigon/pull/20895#pullrequestreview-4400389729) - 2026-06-01
+* [Review] [Review on: Unskip and fix disabled tests](https://github.com/erigontech/erigon/pull/21455#pullrequestreview-4400502588) - 2026-06-01
+* [Review] [Review on: rpc/jsonrpc: lex-order executionWitness codes and state](https://github.com/erigontech/erigon/pull/21531#pullrequestreview-4399828226) - 2026-06-01
+* [Issue] [Caplin req/resp: tighten by_range/by_root response byte cap to the requested item count](https://github.com/erigontech/erigon/issues/21564) - 2026-06-01
+* [Issue] [node/app/component: test package silently disabled by TestMain os.Exit(0)](https://github.com/erigontech/erigon/issues/21552) - 2026-06-01
+* [Commit] [polygon/sync: ignore empty NewBlockHashes to prevent observer panic (#21560)](https://github.com/erigontech/erigon/commit/bae1c116f8e5df9bd2bfe2ef27ce3b60690a8560) - 2026-06-02
+* [Commit] [node/app/workerpool: de-flake TestWaitingQueueSizeRace (#21554)](https://github.com/erigontech/erigon/commit/54bc66315cf7796d9d13ee5f84a4c057cf3da65f) - 2026-06-01
+* [Commit] [docs: remove obsolete E2 walkthrough and dead readthedocs tree (#21534)](https://github.com/erigontech/erigon/commit/2eab9c66bb284e27b76ed7b8181f8b3b60eeb016) - 2026-06-01
+* [Commit] [execution/types: clear AuRa/PoS fields on Header decode to stop hoisted-reuse leak (#21478)](https://github.com/erigontech/erigon/commit/8c792021ba2fbb61071a850d91f0ee58bdbef61d) - 2026-06-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

@@ -96,6 +96,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Add Gloas state builders Beacon API endpoint](https://github.com/Consensys/teku/pull/10765) - 2026-05-30
 * [Pull Request] [Renamed execution payload endpoints](https://github.com/Consensys/teku/pull/10768) - 2026-06-01
 * [Review] [Review on: Update netty ](https://github.com/Consensys/teku/pull/10751#pullrequestreview-4397890802) - 2026-06-01
+* [Review] [Review on: Update ConsenSys/github-actions digest to 979fb3e](https://github.com/Consensys/teku/pull/10779#pullrequestreview-4405811080) - 2026-06-02
+* [Pull Request] [Implement the Gloas validator payload attestation data endpoint plumbing](https://github.com/Consensys/teku/pull/10778) - 2026-06-02
+* [Pull Request] [Implemented the head_v2 event from ethereum/beacon-APIs#590.](https://github.com/Consensys/teku/pull/10776) - 2026-06-01
+* [Pull Request] [Implemented the head_v2 event from ethereum/beacon-APIs#590.](https://github.com/Consensys/teku/pull/10775) - 2026-06-01
+* [Review] [Review on: Update netty ](https://github.com/Consensys/teku/pull/10751#pullrequestreview-4398273810) - 2026-06-01
+* [Issue] [implement /eth/v1/validator/payload_attestation_data to create a payload attestation](https://github.com/Consensys/teku/issues/10777) - 2026-06-01
+* [Issue] [implement /eth/v1/beacon/execution_payload_bids](https://github.com/Consensys/teku/issues/10769) - 2026-06-01
+* [Commit] [Renamed execution payload endpoints (#10768)](https://github.com/Consensys/teku/commit/02bc1c171db3406f42706587e0ae5094ef7b4224) - 2026-06-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

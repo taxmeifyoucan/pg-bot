@@ -55,6 +55,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Pull Request] [Update EIP-8037: Calldata floor accounting alignment & call-frame refill clarification](https://github.com/ethereum/EIPs/pull/11706) - 2026-05-20
 * [Review] [Review on: Update EIP-8037: improve EIP-7702 authorization gas accounting in EIP-8037](https://github.com/ethereum/EIPs/pull/11715#pullrequestreview-4336624436) - 2026-05-21
 * [Review] [Review on: Update EIP-8037: Calldata floor accounting alignment & call-frame refill clarification](https://github.com/ethereum/EIPs/pull/11706#pullrequestreview-4336970951) - 2026-05-21
+* [Review] [Review on: Update EIP-8037: Calldata floor accounting alignment & call-frame refill clarification](https://github.com/ethereum/EIPs/pull/11706#pullrequestreview-4399771003) - 2026-06-01
+* [Commit] [Update EIP-8037: Calldata floor accounting alignment & call-frame refill clarification](https://github.com/ethereum/EIPs/commit/1d65cedf6fc2ec68a4f08f72577a9d7e55ca3f51) - 2026-06-01
 ## Q1 2026
 
 

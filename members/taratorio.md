@@ -213,6 +213,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [p2p: fix flaky ethereum/engine cancun test due to blob propagations (#21493)](https://github.com/erigontech/erigon/commit/294c4a4803e99f739f823ace0b169fdc97ab4892) - 2026-05-29
 * [Commit] [execution: remove unnecessary allocs due to Hash.Bytes() and Address.Bytes() (#21503)](https://github.com/erigontech/erigon/commit/3bdbde78d98e40fd5b7ff668a04ab82102ce6374) - 2026-05-29
 * [Commit] [execution: remove legacy headerdownload, bodydownload and dataflow packages (#21505)](https://github.com/erigontech/erigon/commit/d0caf67e0e8f8aa732c27bc18fb65951f0900e62) - 2026-05-30
+* [Review] [Review on: p2p/sentry: cap and rate-limit inbound NewBlockHashes per peer](https://github.com/erigontech/erigon/pull/21557#pullrequestreview-4406086827) - 2026-06-02
+* [Review] [Review on: polygon/sync: ignore empty NewBlockHashes to prevent observer panic](https://github.com/erigontech/erigon/pull/21560#pullrequestreview-4405686774) - 2026-06-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

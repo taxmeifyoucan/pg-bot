@@ -47,6 +47,15 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Move BlockProcessingResult match out of block lookups](https://github.com/sigp/lighthouse/pull/9327) - 2026-05-21
 * [Pull Request] [Gloas lookup sync boilerplate](https://github.com/sigp/lighthouse/pull/9322) - 2026-05-20
 * [Review] [Review on: Gloas lookup sync boilerplate](https://github.com/sigp/lighthouse/pull/9322#pullrequestreview-4328399487) - 2026-05-20
+* [Pull Request] [Reject importing Gloas block until parent's payload is imported](https://github.com/sigp/lighthouse/pull/9382) - 2026-06-01
+* [Review] [Review on: Reject importing Gloas block until parent's payload is imported](https://github.com/sigp/lighthouse/pull/9382#pullrequestreview-4398766811) - 2026-06-01
+* [Pull Request] [Remove RequestState trait from lookup sync](https://github.com/sigp/lighthouse/pull/9391) - 2026-06-01
+* [Pull Request] [Deprecate blob lookup sync](https://github.com/sigp/lighthouse/pull/9383) - 2026-06-01
+* [Review] [Review on: Deprecate blob lookup sync](https://github.com/sigp/lighthouse/pull/9383#pullrequestreview-4398898881) - 2026-06-01
+* [Pull Request] [Delete unnecessary SyncMessage variants](https://github.com/sigp/lighthouse/pull/9379) - 2026-06-01
+* [Pull Request] [Make proposer_score_boost non-optional in ChainSpec](https://github.com/sigp/lighthouse/pull/9386) - 2026-06-01
+* [Pull Request] [Make proposer_score_boost non-optional in ChainSpec](https://github.com/sigp/lighthouse/pull/9385) - 2026-06-01
+* [Pull Request] [Use correct slot in custody request](https://github.com/sigp/lighthouse/pull/9380) - 2026-06-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 

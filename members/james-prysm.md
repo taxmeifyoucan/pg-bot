@@ -115,6 +115,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Remove unneded parameter](https://github.com/OffchainLabs/prysm/pull/16863#pullrequestreview-4392510226) - 2026-05-29
 * [Review] [Review on: Only add proposer boost to same shufflings as head](https://github.com/OffchainLabs/prysm/pull/16846#pullrequestreview-4390521432) - 2026-05-29
 * [Review] [Review on: Implement EIP-8045: exclude slashed validators from proposer lookahead.](https://github.com/OffchainLabs/prysm/pull/16857#pullrequestreview-4390706689) - 2026-05-29
+* [Review] [Review on: Match gossip subnet topics exactly](https://github.com/OffchainLabs/prysm/pull/16872#pullrequestreview-4402019379) - 2026-06-01
+* [Pull Request] [fixing parent block hash function for latest execution payload header removal](https://github.com/OffchainLabs/prysm/pull/16874) - 2026-06-01
+* [Review] [Review on: proposer preference rest](https://github.com/OffchainLabs/prysm/pull/16835#pullrequestreview-4404758202) - 2026-06-01
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

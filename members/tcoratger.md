@@ -232,6 +232,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: fix(fri): type hiding PCS random opening errors](https://github.com/Plonky3/Plonky3/pull/1704#pullrequestreview-4390259858) - 2026-05-29
 * [Review] [Review on: perf(batch-stark): parallelize per-instance quotient computation](https://github.com/Plonky3/Plonky3/pull/1716#pullrequestreview-4389263933) - 2026-05-29
 * [Review] [Review on: perf(monty-31): skip trivial coset shift in RecursiveDft](https://github.com/Plonky3/Plonky3/pull/1715#pullrequestreview-4389177526) - 2026-05-29
+* [Review] [Review on: bench(whir): head-to-head FRI vs WHIR PCS comparison across Poseidon1 / Poseidon2 / Blake3](https://github.com/Plonky3/Plonky3/pull/1607#pullrequestreview-4400199027) - 2026-06-01
+* [Review] [Review on: chore(deps): update tikv-jemallocator requirement from 0.6 to 0.7](https://github.com/Plonky3/Plonky3/pull/1719#pullrequestreview-4400413236) - 2026-06-01
+* [Commit] [bench(whir): head-to-head FRI vs WHIR PCS comparison across Poseidon1 / Poseidon2 / Blake3 (#1607)](https://github.com/Plonky3/Plonky3/commit/4318eba062fd1cbca3dbe98904ad18ad950f3b49) - 2026-06-01
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

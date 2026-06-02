@@ -302,6 +302,16 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Fix `is_ancestor` argument types in reconfirmation test](https://github.com/ethereum/consensus-specs/pull/5313) - 2026-05-30
 * [Review] [Review on: Update a link to short explainer for FCR](https://github.com/ethereum/consensus-specs/pull/5312#pullrequestreview-4395341111) - 2026-05-30
 * [Commit] [Disable verbose mode when running tests in CI (#5314)](https://github.com/ethereum/consensus-specs/commit/6370819a35e9558822ef024126cc09ee3666827d) - 2026-05-30
+* [Pull Request] [Bump version to v1.7.0-alpha.10](https://github.com/ethereum/consensus-specs/pull/5318) - 2026-06-02
+* [Review] [Review on: Force the proposer to reorg late payloads](https://github.com/ethereum/consensus-specs/pull/5210#pullrequestreview-4404325532) - 2026-06-01
+* [Review] [Review on: Exclude slashed validators from proposing (EIP-8045)](https://github.com/ethereum/consensus-specs/pull/5115#pullrequestreview-4404211181) - 2026-06-01
+* [Review] [Review on: Remove `should_override_forkchoice_update`](https://github.com/ethereum/consensus-specs/pull/5174#pullrequestreview-4403257116) - 2026-06-01
+* [Review] [Review on: Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309#pullrequestreview-4402138904) - 2026-06-01
+* [Review] [Review on: Use `should_build_on_full` for bid parent block hash](https://github.com/ethereum/consensus-specs/pull/5310#pullrequestreview-4402014749) - 2026-06-01
+* [Review] [Review on: Update release-drafter/release-drafter action to v7.3.1](https://github.com/ethereum/consensus-specs/pull/5316#pullrequestreview-4401556000) - 2026-06-01
+* [Review] [Review on: Update dependency marko to v2.2.3](https://github.com/ethereum/consensus-specs/pull/5315#pullrequestreview-4400656884) - 2026-06-01
+* [Commit] [Bump version to v1.7.0-alpha.10 (#5318)](https://github.com/ethereum/consensus-specs/commit/ec1c01f5f10fb60636a022ae8944c912b6da35f8) - 2026-06-02
+* [Commit] [Fix `is_ancestor` argument types in reconfirmation test (#5313)](https://github.com/ethereum/consensus-specs/commit/6800dba229df968a27ebdb64eaef598b10851131) - 2026-06-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

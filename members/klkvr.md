@@ -195,6 +195,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [feat: `Account::is_changed`](https://github.com/bluealloy/revm/pull/3727) - 2026-05-28
 * [Review] [Review on: feat: `Account::is_changed`](https://github.com/bluealloy/revm/pull/3727#pullrequestreview-4385658757) - 2026-05-29
 * [Commit] [feat: `Account::is_changed` (#3727)](https://github.com/bluealloy/revm/commit/3486fb82255965e6c8a00b63df42655b59bfa76d) - 2026-05-29
+* [Pull Request] [perf: avoid reallocations and cloning during commit](https://github.com/bluealloy/revm/pull/3732) - 2026-06-01
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4140591296) - 2026-04-20

@@ -276,6 +276,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Flakiness Fixes - Tests & CI](https://github.com/NethermindEth/nethermind/pull/11850#pullrequestreview-4395648366) - 2026-05-30
 * [Pull Request] [perf(discovery): replace timeout exceptions with value results in discv4](https://github.com/NethermindEth/nethermind/pull/11859) - 2026-05-31
 * [Review] [Review on: perf(discovery): replace timeout exceptions with value results in discv4](https://github.com/NethermindEth/nethermind/pull/11859#pullrequestreview-4396766710) - 2026-05-31
+* [Review] [Review on: test(evm): cover CREATE2 code-deposit gas failure](https://github.com/NethermindEth/nethermind/pull/11759#pullrequestreview-4405374783) - 2026-06-01
+* [Review] [Review on: fix: enforce even-length hex validation for JSON converter](https://github.com/NethermindEth/nethermind/pull/11876#pullrequestreview-4405080018) - 2026-06-01
+* [Review] [Review on: ci: block merging PRs labeled "DO NOT MERGE"](https://github.com/NethermindEth/nethermind/pull/11871#pullrequestreview-4402981644) - 2026-06-01
+* [Review] [Review on: perf(bal): build BAL validation index on the sequential execution path](https://github.com/NethermindEth/nethermind/pull/11873#pullrequestreview-4403204053) - 2026-06-01
+* [Review] [Review on: CI - more fixes](https://github.com/NethermindEth/nethermind/pull/11868#pullrequestreview-4402041572) - 2026-06-01
+* [Pull Request] [Optimize engine_getPayloadBodiesByHash](https://github.com/NethermindEth/nethermind/pull/11863) - 2026-06-01
+* [Review] [Review on: Optimize engine_getPayloadBodiesByHash](https://github.com/NethermindEth/nethermind/pull/11863#pullrequestreview-4399569336) - 2026-06-01
+* [Review] [Review on: Test EIP-8037 code-deposit halt state gas unwind](https://github.com/NethermindEth/nethermind/pull/11710#pullrequestreview-4398514318) - 2026-06-01
+* [Commit] [perf(discovery): replace timeout exceptions with value results in discv4 (#11859)](https://github.com/NethermindEth/nethermind/commit/393fd854e76a98977ded1991538b7a62c21c7783) - 2026-06-01
+* [Commit] [Rework TrieWarmer to ThreadPool processors (#11848)](https://github.com/NethermindEth/nethermind/commit/cc6b3dc9bfd486ebf685e563895ad04e24f2adfa) - 2026-06-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

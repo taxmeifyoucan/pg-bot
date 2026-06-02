@@ -60,6 +60,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Add debug logging for computeEquivocatingCommitteeWeight() (#10757)](https://github.com/Consensys/teku/commit/5953af3d22c321cce636ec4737672d1cd024e7aa) - 2026-05-29
 * [Review] [Review on: Renamed execution payload endpoints](https://github.com/Consensys/teku/pull/10768#pullrequestreview-4398232149) - 2026-06-01
 * [Review] [Review on: Update netty ](https://github.com/Consensys/teku/pull/10751#pullrequestreview-4397904614) - 2026-06-01
+* [Pull Request] [Enable some ref tests of the gossip suite](https://github.com/Consensys/teku/pull/10770) - 2026-06-01
+* [Review] [Review on: Enable some ref tests of the gossip suite](https://github.com/Consensys/teku/pull/10770#pullrequestreview-4405901145) - 2026-06-02
+* [Review] [Review on: New alpha.9 spec gossip rules](https://github.com/Consensys/teku/pull/10764#pullrequestreview-4398703342) - 2026-06-01
+* [Commit] [Update netty  (#10751)](https://github.com/Consensys/teku/commit/81e69dc08bf3eb70832bd8855287f9a0e0441606) - 2026-06-01
 ## Q1 2026
 
 

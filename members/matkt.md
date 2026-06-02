@@ -100,6 +100,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Add static-pivot snap/2 world state download skeleton](https://github.com/besu-eth/besu/pull/10548#pullrequestreview-4354926230) - 2026-05-25
 * [Pull Request] [remove used futures for parallel execution](https://github.com/besu-eth/besu/pull/10551) - 2026-05-25
 * [Review] [Review on: Make snap/2 BAL fetching strict](https://github.com/besu-eth/besu/pull/10542#pullrequestreview-4354697303) - 2026-05-25
+* [Review] [Review on: Add static-pivot snap/2 world state download skeleton](https://github.com/besu-eth/besu/pull/10548#pullrequestreview-4398568631) - 2026-06-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

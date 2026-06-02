@@ -44,6 +44,13 @@ Team: Grandine
 * [Review] [Review on: Address on_payload_attestation_message tests](https://github.com/grandinetech/grandine/pull/705#pullrequestreview-4335058003) - 2026-05-21
 * [Review] [Review on: Deprecate unsafe arithmetics](https://github.com/grandinetech/grandine/pull/698#pullrequestreview-4378755399) - 2026-05-28
 * [Review] [Review on: Fix nethermind integration memory leak](https://github.com/grandinetech/grandine/pull/707#pullrequestreview-4378407788) - 2026-05-28
+* [Pull Request] [EIP-8045: Exclude slashed validators from proposing](https://github.com/grandinetech/grandine/pull/726) - 2026-06-01
+* [Issue] [EIP-8045: Exclude slashed validators from proposing](https://github.com/grandinetech/grandine/issues/725) - 2026-06-01
+* [Issue] [[Glamsterdam] Fix balance calculation egde case in epbs fork choice](https://github.com/grandinetech/grandine/issues/723) - 2026-06-01
+* [Issue] [[Glamsterdam] rebase Glamsterdam code on recent `develop`](https://github.com/grandinetech/grandine/issues/715) - 2026-06-01
+* [Issue] [[Glamsterdam] Issue with duplicate attestations being packed for pre-Gloas phases](https://github.com/grandinetech/grandine/issues/714) - 2026-06-01
+* [Issue] [[Glamsterdam] enable again wait for fully validated head for validator duties](https://github.com/grandinetech/grandine/issues/713) - 2026-06-01
+* [Issue] [[Glamsterdam] Show correct "optimistic" head status in beacon API endpoints](https://github.com/grandinetech/grandine/issues/712) - 2026-06-01
 ## Q1 2026
 
 

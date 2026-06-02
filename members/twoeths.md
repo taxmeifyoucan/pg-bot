@@ -177,6 +177,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: include payload_data_availability in shouldExtendPayload (#9416)](https://github.com/ChainSafe/lodestar/commit/464b9ae7abb007e77755134bc72ead0647f12be9) - 2026-05-29
 * [Review] [Review on: fix: handle post-gloas empty blocks in data columns by range](https://github.com/ChainSafe/lodestar/pull/9433#pullrequestreview-4398189197) - 2026-06-01
 * [Review] [Review on: fix: validate execution payload bids against parent branch state](https://github.com/ChainSafe/lodestar/pull/9409#pullrequestreview-4398127376) - 2026-06-01
+* [Review] [Review on: feat: force the proposer to reorg late payloads](https://github.com/ChainSafe/lodestar/pull/9431#pullrequestreview-4398414397) - 2026-06-01
+* [Pull Request] [feat: preverify builder deposit signatures](https://github.com/ChainSafe/lodestar/pull/9436) - 2026-06-01
+* [Pull Request] [chore: log missing payload in ExecutionPayloadEnvelopesByRoot](https://github.com/ChainSafe/lodestar/pull/9435) - 2026-06-01
+* [Review] [Review on: chore: log missing payload in ExecutionPayloadEnvelopesByRoot](https://github.com/ChainSafe/lodestar/pull/9435#pullrequestreview-4398918360) - 2026-06-01
+* [Review] [Review on: chore: add logs to debug our PTC votes](https://github.com/ChainSafe/lodestar/pull/9418#pullrequestreview-4398834322) - 2026-06-01
+* [Review] [Review on: fix: use finalized block slot as envelope by range archive boundary](https://github.com/ChainSafe/lodestar/pull/9432#pullrequestreview-4398286488) - 2026-06-01
+* [Commit] [chore: log missing payload in ExecutionPayloadEnvelopesByRoot (#9435)](https://github.com/ChainSafe/lodestar/commit/a9a9fe2e631580d3e0a51882591896487e0173fa) - 2026-06-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
@@ -186,6 +193,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Optimize strategy for onboarding builders at the fork (#5254)](https://github.com/ethereum/consensus-specs/commit/932c6d691e0d5ed4a003c8bfb9c1c6731ce01924) - 2026-05-15
 * [Pull Request] [Use parent slot for builder pending deposit in Gloas](https://github.com/ethereum/consensus-specs/pull/5299) - 2026-05-27
 * [Issue] [Proposer builds an orphaned block due to conflict between get_head() and should_build_on_full()](https://github.com/ethereum/consensus-specs/issues/5307) - 2026-05-28
+* [Review] [Review on: Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309#pullrequestreview-4401926933) - 2026-06-01
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: support multi-threaded RefCount](https://github.com/ChainSafe/lodestar-z/pull/62) - 2026-04-17
 * [Commit] [fix: support multi-threaded RefCount (#62)](https://github.com/ChainSafe/lodestar-z/commit/28edb161478f2e45a00f0418624e97028ad38b3b) - 2026-04-17

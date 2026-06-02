@@ -113,6 +113,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): EIP-4844 point evaluation -G1 and G1 doubling vectors](https://github.com/ethereum/execution-specs/pull/2927#pullrequestreview-4379807238) - 2026-05-28
 * [Review] [Review on: chore(specs): refactor block reward and fee refunds](https://github.com/ethereum/execution-specs/pull/2908#pullrequestreview-4379759435) - 2026-05-28
 * [Pull Request] [feat(test-fill): inject stub account, storage into hive genesis](https://github.com/ethereum/execution-specs/pull/2940) - 2026-05-29
+* [Review] [Review on: chore(specs): refactor block reward and fee refunds](https://github.com/ethereum/execution-specs/pull/2908#pullrequestreview-4400213146) - 2026-06-01
+* [Review] [Review on: feat(tests): add EIP-8024 gas boundary and SWAPN invalid-immediate tests](https://github.com/ethereum/execution-specs/pull/2942#pullrequestreview-4399850391) - 2026-06-01
+* [Review] [Review on: feat(spec-spec, tests): Implement eip-8246 and testing scenario](https://github.com/ethereum/execution-specs/pull/2842#pullrequestreview-4400033086) - 2026-06-01
+* [Review] [Review on: feat(execute): skip deterministic factory deploy when it can't be bootstrapped](https://github.com/ethereum/execution-specs/pull/2944#pullrequestreview-4399049240) - 2026-06-01
+* [Review] [Review on: feat(tests): BLOCKHASH recency window in state-test runner](https://github.com/ethereum/execution-specs/pull/2943#pullrequestreview-4398690769) - 2026-06-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

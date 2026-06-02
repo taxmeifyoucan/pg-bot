@@ -63,6 +63,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Use targetGasLimit of engine API PayloadAttributesV4](https://github.com/status-im/nimbus-eth1/pull/4258) - 2026-05-20
 * [Pull Request] [Revert BAL workaround of delegated target in CALL* opcodes](https://github.com/status-im/nimbus-eth1/pull/4257) - 2026-05-20
 * [Pull Request] [Ledger based BAL tracker](https://github.com/status-im/nimbus-eth1/pull/4269) - 2026-05-26
+* [Pull Request] [Test txpool against EEST fixtures](https://github.com/status-im/nimbus-eth1/pull/4281) - 2026-06-01
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 

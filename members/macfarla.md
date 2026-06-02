@@ -238,6 +238,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: nightly kurtosis interop assertoor test](https://github.com/besu-eth/besu/pull/10569#pullrequestreview-4386856109) - 2026-05-29
 * [Review] [Review on: add eth_getTransactionBySenderAndNonce RPC](https://github.com/besu-eth/besu/pull/10501#pullrequestreview-4398179324) - 2026-06-01
 * [Commit] [add eth_getTransactionBySenderAndNonce RPC (#10501)](https://github.com/besu-eth/besu/commit/8fe48c6fef45c9974d94f43b5fae9ebc9b99f574) - 2026-06-01
+* [Review] [Review on: Integrate NullAway for nullability checks in ethstats package](https://github.com/besu-eth/besu/pull/10520#pullrequestreview-4406242526) - 2026-06-02
+* [Pull Request] [kurtosis nightly task: pin ethereum-package](https://github.com/besu-eth/besu/pull/10583) - 2026-06-01
+* [Commit] [kurtosis nightly task: pin ethereum-package (#10583)](https://github.com/besu-eth/besu/commit/d848d5801755eec4044424ee6fafeb476e40b117) - 2026-06-02
+* [Commit] [nightly kurtosis interop assertoor test (#10569)](https://github.com/besu-eth/besu/commit/d41fb82532e59b3f2bbf06d60e5c9c51b6f74396) - 2026-06-01
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

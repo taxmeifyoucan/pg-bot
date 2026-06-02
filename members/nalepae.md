@@ -85,6 +85,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: replicate save state duration metrics and logs for hdiff](https://github.com/OffchainLabs/prysm/pull/16859#pullrequestreview-4383055850) - 2026-05-28
 * [Commit] [`Saved state in DB`: Add duration in logs and metric. (#16849)](https://github.com/OffchainLabs/prysm/commit/54d65fd369b9f9cf060b0c89ebb04b9009977743) - 2026-05-28
 * [Commit] [Reject and downscore peers that serve Fulu data column sidecars whose embedded `SignedBlockHeader` does not match the locally held beacon block. (#16855)](https://github.com/OffchainLabs/prysm/commit/858e6d1f2719b5bfdc159eacf143bd380daa4314) - 2026-05-31
+* [Review] [Review on: Match gossip subnet topics exactly](https://github.com/OffchainLabs/prysm/pull/16872#pullrequestreview-4401445096) - 2026-06-01
+* [Pull Request] [Fix epoch processing slowdown caused by per validator interface boxing](https://github.com/OffchainLabs/prysm/pull/16871) - 2026-06-01
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

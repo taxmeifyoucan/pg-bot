@@ -13,6 +13,12 @@ Team: Grandine
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Updated build instructions in readme](https://github.com/grandinetech/grandine/commit/45610eb066473c61652e3194b537f982d4a44006) - 2026-04-30
+* [Issue] [Improve attestation verifier](https://github.com/grandinetech/grandine/issues/724) - 2026-06-01
+* [Issue] [Archival node storage optimisation](https://github.com/grandinetech/grandine/issues/717) - 2026-06-01
+* [Issue] [Full node storage optimisation](https://github.com/grandinetech/grandine/issues/716) - 2026-06-01
+* [Issue] [[Glamsterdam] Builder](https://github.com/grandinetech/grandine/issues/711) - 2026-06-01
+* [Issue] [[Glamsterdam] Dual deadlines](https://github.com/grandinetech/grandine/issues/710) - 2026-06-01
+* [Issue] [Glamsterdam devnet-5](https://github.com/grandinetech/grandine/issues/709) - 2026-06-01
 ## Q1 2026
 
 

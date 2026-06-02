@@ -178,6 +178,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #714 from ethpandaops/bbusa/fix-included-deposits-nil-validator-panic](https://github.com/ethpandaops/dora/commit/3019601381a247791ba7fe79614f715bf6f9bbc8) - 2026-05-22
 * [Commit] [fix(handlers): guard against nil validator on included_deposits page](https://github.com/ethpandaops/dora/commit/f5ce582e5f07b1063a6bb29d2a84a0a261a9f0ba) - 2026-05-22
 * [Commit] [Merge pull request #711 from ethpandaops/pk910/fix-filtered-slots-view](https://github.com/ethpandaops/dora/commit/e410ee3365d494802019c246d74240a536ead239) - 2026-05-22
+* [Review] [Review on: bump go-eth2-client](https://github.com/ethpandaops/dora/pull/718#pullrequestreview-4404433255) - 2026-06-01
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -211,6 +212,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Change minimal `PTC_SIZE` to 16 validators (#5177)](https://github.com/ethereum/consensus-specs/commit/73317f55baf4045b738cb225bea662661fa16304) - 2026-04-27
 * [Review] [Review on: Raise `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 8192 epochs](https://github.com/ethereum/consensus-specs/pull/5223#pullrequestreview-4253118462) - 2026-05-08
 * [Review] [Review on: Clarify sentence about refunded deposits to exited builders](https://github.com/ethereum/consensus-specs/pull/5269#pullrequestreview-4319519945) - 2026-05-19
+* [Commit] [Exclude slashed validators from proposing (EIP-8045) (#5115)](https://github.com/ethereum/consensus-specs/commit/af6e128caa8cf68134079537891bbc846fbb0dc8) - 2026-06-01
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [Remove broken update_project_wiki job](https://github.com/ethpandaops/assertoor/pull/156) - 2026-04-09
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/assertoor/pull/155) - 2026-04-09

@@ -68,6 +68,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Very noticable slowdown on block import with --debug-store-bodies and --debug-store-receipts enabled](https://github.com/status-im/nimbus-eth1/issues/4274) - 2026-05-28
 * [Commit] [fix hashIndexKey high byte always zero due to shl/shr mistake (#4271)](https://github.com/status-im/nimbus-eth1/commit/002bcfe8f321d14fcd3ae3422b8d0d5231e376d6) - 2026-05-28
 * [Commit] [Add nimbus_history_exporter tool (#4268)](https://github.com/status-im/nimbus-eth1/commit/0501ff1efc35a988dcebe276775cdd3cc3533c84) - 2026-05-29
+* [Pull Request] [Remove obsolete portal eth exporter functionality](https://github.com/status-im/nimbus-eth1/pull/4285) - 2026-06-01
+* [Pull Request] [Add Sepolia historical hashes accumulator and adapt loadAccumulator](https://github.com/status-im/nimbus-eth1/pull/4283) - 2026-06-01
+* [Pull Request] [Add historical_hashes_accumulator export and era1 export](https://github.com/status-im/nimbus-eth1/pull/4280) - 2026-06-01
+* [Commit] [Remove obsolete portal eth exporter functionality (#4285)](https://github.com/status-im/nimbus-eth1/commit/35b10bfab8b2d3809fb93f1ccd5f7faf41715432) - 2026-06-01
+* [Commit] [Add Sepolia historical hashes accumulator and adapt loadAccumulator (#4283)](https://github.com/status-im/nimbus-eth1/commit/0d2686f6fdd97308dbdb0800e33a5d8bb2676ed2) - 2026-06-01
+* [Commit] [Add historical_hashes_accumulator export and era1 export (#4280)](https://github.com/status-im/nimbus-eth1/commit/f73085f308403c3095d15f9d34a7237c029c02a7) - 2026-06-01
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

@@ -23,6 +23,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [fix: allow NodeRecords with no endpoints in discv5 AddressAccessPolicy (#10308)](https://github.com/besu-eth/besu/commit/6f365343d52f6420d8cb2eed1c1adfb3503053a9) - 2026-04-23
 
 * [Pull Request] [WIP: debug execution witness](https://github.com/besu-eth/besu/pull/10571) - 2026-05-29
+* [Review] [Review on: nightly kurtosis interop assertoor test](https://github.com/besu-eth/besu/pull/10569#pullrequestreview-4398246248) - 2026-06-01
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on:  Add HIVE_DISCV5 flag for besu](https://github.com/ethereum/hive/pull/1447#pullrequestreview-4171959953) - 2026-04-24
 ## Q1 2026

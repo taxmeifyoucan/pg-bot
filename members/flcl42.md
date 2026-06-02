@@ -165,6 +165,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: feat(snap): cap Proofs count at 256 on inbound snap responses](https://github.com/NethermindEth/nethermind/pull/11786#pullrequestreview-4388019548) - 2026-05-29
 * [Commit] [Improve SSZ (#11748)](https://github.com/NethermindEth/nethermind/commit/53df8a5c65886f884acb793d1ce48b3f22975b6f) - 2026-05-29
 * [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11857#pullrequestreview-4396564938) - 2026-05-31
+* [Pull Request] [Add eth forkid to node records](https://github.com/NethermindEth/nethermind/pull/11874) - 2026-06-01
+* [Review] [Review on: Add eth forkid to node records](https://github.com/NethermindEth/nethermind/pull/11874#pullrequestreview-4404130586) - 2026-06-01
+* [Review] [Review on: perf(discovery): replace timeout exceptions with value results in discv4](https://github.com/NethermindEth/nethermind/pull/11859#pullrequestreview-4401984707) - 2026-06-01
+* [Review] [Review on: Networking - fix flaky test](https://github.com/NethermindEth/nethermind/pull/11870#pullrequestreview-4401614143) - 2026-06-01
+* [Review] [Review on: EIP-7928 - RLP fix](https://github.com/NethermindEth/nethermind/pull/11861#pullrequestreview-4400403000) - 2026-06-01
+* [Pull Request] [Address fast transfer review findings](https://github.com/NethermindEth/nethermind/pull/11866) - 2026-06-01
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11855#pullrequestreview-4399813414) - 2026-06-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

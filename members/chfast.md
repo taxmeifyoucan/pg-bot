@@ -165,6 +165,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Match blockchain test exceptions (#1556)](https://github.com/ipsilon/evmone/commit/b76a4f86b7d94c633b8909a03873eea360ca429a) - 2026-05-29
 * [Commit] [test: Set blob gas budget from the protocol max (#1555)](https://github.com/ipsilon/evmone/commit/1c0a9b967f875699634d71bf93d17b03366c03eb) - 2026-05-29
 * [Commit] [tools: Fold evmone-t8n into the evmone CLI as a subcommand (#1551)](https://github.com/ipsilon/evmone/commit/0cd0decc31d4c85173f67121bb2e7313ad2d0cd3) - 2026-05-29
+* [Pull Request] [test: Match block requests and transaction exceptions in blockchaintest](https://github.com/ipsilon/evmone/pull/1560) - 2026-06-01
+* [Pull Request] [test: Fix block_reward type to optional<uint64_t>](https://github.com/ipsilon/evmone/pull/1559) - 2026-06-01
+* [Pull Request] [test: Extract shared apply_block from blockchaintest and t8n ](https://github.com/ipsilon/evmone/pull/1558) - 2026-06-01
+* [Commit] [test: Fix block_reward type to optional<uint64_t> (#1559)](https://github.com/ipsilon/evmone/commit/bf6200b5eacec8679be5bf74776ad36dd148a05f) - 2026-06-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -198,6 +202,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [refactor(tests): inline ids and descriptions in point evaluation params (#2907)](https://github.com/ethereum/execution-specs/commit/1787c74d209ec798fef2a044ae08ff3b3f00e006) - 2026-05-27
 * [Commit] [feat(tests): EIP-4844 point evaluation -G1 and G1 doubling vectors (#2927)](https://github.com/ethereum/execution-specs/commit/4441398db2ef50cebf7fa8af59bbf98c28291114) - 2026-05-28
 * [Pull Request] [feat(tests): add EIP-8024 gas boundary and SWAPN invalid-immediate tests](https://github.com/ethereum/execution-specs/pull/2942) - 2026-05-29
+* [Commit] [feat(tests): add EIP-8024 gas boundary and SWAPN invalid-immediate tests (#2942)](https://github.com/ethereum/execution-specs/commit/d7def91be93d7ca5df7954fa3241bd8940e5f784) - 2026-06-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

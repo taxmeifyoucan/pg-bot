@@ -23,8 +23,13 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Pull Request] [feat(tests): Extend coverage for BAL](https://github.com/ethereum/execution-specs/pull/2897) - 2026-05-22
 * [Review] [Review on: feat(tests): extend BAL create collision test cases](https://github.com/ethereum/execution-specs/pull/2917#pullrequestreview-4365758581) - 2026-05-26
 * [Commit] [feat(tests): Extend coverage for BAL (#2897)](https://github.com/ethereum/execution-specs/commit/244afe0ee8258ac4447c1606d9cdb302dae9aaba) - 2026-05-26
+* [Pull Request] [✨ feat(tests): Disallow empty change set for storage slot](https://github.com/ethereum/execution-specs/pull/2945) - 2026-06-01
 [raxhvl/pglanding-raxhvl](https://github.com/raxhvl/pglanding-raxhvl)
 * [Commit] [✨ feat: Butterfly](https://github.com/raxhvl/pglanding-raxhvl/commit/4a4fc6b3eb90c580e7f119a1f799a3a11818d27d) - 2026-04-17
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7928: Disallow empty change set for storage slot](https://github.com/ethereum/EIPs/pull/11750) - 2026-06-01
+* [Commit] [Update EIP-7928: Disallow empty change set for storage slot](https://github.com/ethereum/EIPs/commit/cb1364d60e14a24fe1a94d4303661cdbf8c68271) - 2026-06-01
 ## Q1 2026
 
 

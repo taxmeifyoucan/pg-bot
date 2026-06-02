@@ -88,6 +88,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: upgrade playwright to 1.60.0 to unblock browser tests CI (#9420)](https://github.com/ChainSafe/lodestar/commit/54f7b9df03cc27ed412ea4808244adaacbb292d1) - 2026-05-28
 * [Review] [Review on: fix: skip casting payload attestation when there is no block at slot](https://github.com/ChainSafe/lodestar/pull/9406#pullrequestreview-4386810163) - 2026-05-29
 * [Commit] [fix: skip casting payload attestation when there is no block at slot (#9406)](https://github.com/ChainSafe/lodestar/commit/c8732e0f70266821d013115b0db87b6b0d99405b) - 2026-05-30
+* [Pull Request] [fix: gate builder bid lookup on shouldBuildOnFull in produceBlockV4](https://github.com/ChainSafe/lodestar/pull/9442) - 2026-06-01
+* [Review] [Review on: fix: gate builder bid lookup on shouldBuildOnFull in produceBlockV4](https://github.com/ChainSafe/lodestar/pull/9442#pullrequestreview-4405345386) - 2026-06-01
+* [Review] [Review on: feat: force the proposer to reorg late payloads](https://github.com/ChainSafe/lodestar/pull/9431#pullrequestreview-4405174943) - 2026-06-01
+* [Review] [Review on: chore: pluralize gloas execution payload endpoint paths](https://github.com/ChainSafe/lodestar/pull/9440#pullrequestreview-4404810957) - 2026-06-01
+* [Issue] [Remove `shouldOverrideForkChoiceUpdate` after Gloas is live](https://github.com/ChainSafe/lodestar/issues/9441) - 2026-06-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 
@@ -104,6 +109,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Ignore PTC attestations for empty assigned slots](https://github.com/ethereum/consensus-specs/pull/5281#pullrequestreview-4368167175) - 2026-05-26
 * [Review] [Review on: Ignore PTC attestations for empty assigned slots](https://github.com/ethereum/consensus-specs/pull/5281#pullrequestreview-4370047244) - 2026-05-27
 * [Commit] [Ignore PTC attestations for empty assigned slots (#5281)](https://github.com/ethereum/consensus-specs/commit/7e4d913e5e24f475416d3502f9ad32dc12a62ea0) - 2026-05-29
+* [Commit] [Remove `should_override_forkchoice_update` (#5174)](https://github.com/ethereum/consensus-specs/commit/e34dbbb330c14cdd6e62b6f78817d70041abd5b5) - 2026-06-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
 ## Q1 2026

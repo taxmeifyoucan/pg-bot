@@ -32,6 +32,10 @@ Team: Grandine
 * [Commit] [Ignore RUSTSEC-2026-0118 and RUSTSEC-2026-0119 until libp2p and zkm-sdk are updated](https://github.com/grandinetech/grandine/commit/6b434cad08bc275dffd526e0de4f068c6f2953f5) - 2026-05-19
 * [Commit] [Use checked arithmetics in helper_functions & transition_functions](https://github.com/grandinetech/grandine/commit/06247e6877c64ed56e4a3e76c1458eea3454b281) - 2026-05-29
 * [Commit] [Deprecate unsafe arithmetics](https://github.com/grandinetech/grandine/commit/40f1b13a2fe35e3f862a18e1f823a02a0fc17f2d) - 2026-05-29
+* [Pull Request] [Reintroduce networking spec tests](https://github.com/grandinetech/grandine/pull/719) - 2026-06-01
+* [Issue] [Compliance tests](https://github.com/grandinetech/grandine/issues/722) - 2026-06-01
+* [Issue] [Delayed object processing improvements](https://github.com/grandinetech/grandine/issues/721) - 2026-06-01
+* [Issue] [Reintroduce networking spec tests](https://github.com/grandinetech/grandine/issues/720) - 2026-06-01
 ## Q1 2026
 
 

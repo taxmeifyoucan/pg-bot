@@ -73,6 +73,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(src,tests): fix spelling error. KECCACK => KECCAK](https://github.com/ethereum/execution-specs/pull/2931#pullrequestreview-4377309983) - 2026-05-28
 * [Issue] [Fix docstring for `TransactionEnvironment`](https://github.com/ethereum/execution-specs/issues/2929) - 2026-05-27
 * [Pull Request] [chore(specs): add final decorator](https://github.com/ethereum/execution-specs/pull/2934) - 2026-05-28
+* [Review] [Review on: docs: fix TransactionEnvironment docstring](https://github.com/ethereum/execution-specs/pull/2936#pullrequestreview-4402714282) - 2026-06-01
+* [Commit] [chore(specs): refactor block reward and fee refunds](https://github.com/ethereum/execution-specs/commit/7df3b8b228faa4762f33ab2a536823a88d7b42da) - 2026-06-01
 ## Q1 2026
 
 

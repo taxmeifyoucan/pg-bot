@@ -171,6 +171,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc/jsonrpc: lex-order executionWitness codes and state](https://github.com/erigontech/erigon/pull/21531#pullrequestreview-4396481064) - 2026-05-31
 * [Review] [Review on: [SharovBot] rpc: backport debug_getModifiedAccountsByHash/Number Geth semantics fix to release/3.4](https://github.com/erigontech/erigon/pull/21507#pullrequestreview-4396726059) - 2026-05-31
 * [Commit] [QA: update rpcTets version 2.12 (#21501)](https://github.com/erigontech/erigon/commit/3025baf1396572465b1dbe7502d54d7db9372643) - 2026-05-31
+* [Commit] [rpc: return explicit error when trace_* receives a custom tracer (#21544)](https://github.com/erigontech/erigon/commit/f9404173a6daeb24eebf659f0c173fbbf5227b21) - 2026-06-01
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

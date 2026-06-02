@@ -60,6 +60,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Clear dangling origin checkpoint pointer on historical prune (#16834)](https://github.com/OffchainLabs/prysm/commit/486a782aead8da83d0cfbd436d3c2bcf98f5a739) - 2026-05-26
 * [Review] [Review on: fix gloas proposal endpoint support](https://github.com/OffchainLabs/prysm/pull/16818#pullrequestreview-4374569236) - 2026-05-27
 * [Review] [Review on: proposer preference rest](https://github.com/OffchainLabs/prysm/pull/16835#pullrequestreview-4380195204) - 2026-05-28
+* [Review] [Review on: Match gossip subnet topics exactly](https://github.com/OffchainLabs/prysm/pull/16872#pullrequestreview-4402496599) - 2026-06-01
+* [Review] [Review on: Forkchoice endpoint](https://github.com/OffchainLabs/prysm/pull/16862#pullrequestreview-4400581151) - 2026-06-01
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

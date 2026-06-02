@@ -211,6 +211,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Issue] [send an FCU on import of a non-canonical block](https://github.com/OffchainLabs/prysm/issues/16866) - 2026-05-31
 * [Issue] [UpdateHead on gloas always builds on the full payload](https://github.com/OffchainLabs/prysm/issues/16865) - 2026-05-31
 * [Issue] [post gloas import block saves head without a reorg guard](https://github.com/OffchainLabs/prysm/issues/16864) - 2026-05-31
+* [Pull Request] [Match gossip subnet topics exactly](https://github.com/OffchainLabs/prysm/pull/16872) - 2026-06-01
+* [Pull Request] [Verify BLS sig in the beacon API submission attestation](https://github.com/OffchainLabs/prysm/pull/16879) - 2026-06-02
+* [Pull Request] [Ignore payload attestations whose block is not at data.slot](https://github.com/OffchainLabs/prysm/pull/16878) - 2026-06-02
+* [Pull Request] [Reject bids whose slot is not higher than their parent block](https://github.com/OffchainLabs/prysm/pull/16877) - 2026-06-02
+* [Review] [Review on: fixing parent block hash function for latest execution payload header removal](https://github.com/OffchainLabs/prysm/pull/16874#pullrequestreview-4405259005) - 2026-06-01
+* [Commit] [Match gossip subnet topics exactly (#16872)](https://github.com/OffchainLabs/prysm/commit/74afcf2a9524bceecf862e70a9ed56bd600e31da) - 2026-06-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

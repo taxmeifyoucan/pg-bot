@@ -18,6 +18,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat(devnet4): integrate revm devnet4 + paired forks (rev 7a2de5a4)](https://github.com/paradigmxyz/reth/pull/23732) - 2026-04-26
 * [Pull Request] [feat: Amsterdam bal-devnet-7](https://github.com/paradigmxyz/reth/pull/24152) - 2026-05-12
 * [Pull Request] [feat(net): advertise eth/70 and eth/71 by default](https://github.com/paradigmxyz/reth/pull/24299) - 2026-05-18
+* [Pull Request] [chore: bump revm to tip1060](https://github.com/paradigmxyz/reth/pull/24745) - 2026-06-01
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: cache selfbalance and prevrandao values](https://github.com/bluealloy/revm/pull/3538) - 2026-04-02
 * [Pull Request] [feat: Add local context accessors to CallInput](https://github.com/bluealloy/revm/pull/3537) - 2026-04-02
@@ -128,6 +129,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [refactor: clarify EIP-7702 regular-gas GasId names](https://github.com/bluealloy/revm/pull/3725) - 2026-05-27
 * [Pull Request] [docs: add v112 changelog entry](https://github.com/bluealloy/revm/pull/3724) - 2026-05-27
 * [Commit] [docs: add v112 changelog entry (#3724)](https://github.com/bluealloy/revm/commit/e549d0bdf50873a84c27861e9f549b756de13570) - 2026-05-27
+* [Pull Request] [feat: add SSTORE gas-state policy hook](https://github.com/bluealloy/revm/pull/3734) - 2026-06-01
+* [Pull Request] [feat: extend SSTORE gas-state hook for TIP-1060 storage gas tokens](https://github.com/bluealloy/revm/pull/3733) - 2026-06-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 
