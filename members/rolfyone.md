@@ -104,6 +104,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [implement /eth/v1/validator/payload_attestation_data to create a payload attestation](https://github.com/Consensys/teku/issues/10777) - 2026-06-01
 * [Issue] [implement /eth/v1/beacon/execution_payload_bids](https://github.com/Consensys/teku/issues/10769) - 2026-06-01
 * [Commit] [Renamed execution payload endpoints (#10768)](https://github.com/Consensys/teku/commit/02bc1c171db3406f42706587e0ae5094ef7b4224) - 2026-06-01
+* [Pull Request] [Add builder statuses filter to state builders endpoint](https://github.com/Consensys/teku/pull/10785) - 2026-06-02
+* [Review] [Review on: Introduce separate payload availability deadline + make naturalSet/Map only write ordered](https://github.com/Consensys/teku/pull/10749#pullrequestreview-4414315021) - 2026-06-02
+* [Commit] [Add builder statuses filter to state builders endpoint (#10785)](https://github.com/Consensys/teku/commit/75898ab2de98b3c3e795fd721baff15984711e2e) - 2026-06-03
+* [Commit] [Add Gloas state builders Beacon API endpoint (#10765)](https://github.com/Consensys/teku/commit/30c507cd1d6df7704788679952df4b5a3b9839ff) - 2026-06-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

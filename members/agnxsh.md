@@ -46,6 +46,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: ensure sidecarless is cleaned once enqueuePayload is successful + drive enqueuePayload from rman](https://github.com/status-im/nimbus-eth2/pull/8501#pullrequestreview-4355110805) - 2026-05-25
 * [Pull Request] [partial column movement from EL to ColumnQuarantine](https://github.com/status-im/nimbus-eth2/pull/8513) - 2026-05-26
 * [Pull Request] [add some focil helpers](https://github.com/status-im/nimbus-eth2/pull/8528) - 2026-05-31
+* [Pull Request] [add vendor nim-protobuf-serialization at 0.4.0](https://github.com/status-im/nimbus-eth2/pull/8534) - 2026-06-02
+* [Pull Request] [Reconstruction backfiller service](https://github.com/status-im/nimbus-eth2/pull/8533) - 2026-06-02
 ## Q1 2026
 
 

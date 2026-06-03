@@ -47,6 +47,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Use `should_build_on_full` instead of `should_extend_payload` in `prepare_execution_payload`](https://github.com/grandinetech/grandine/pull/701) - 2026-05-19
 * [Pull Request] [Address on_payload_attestation_message tests](https://github.com/grandinetech/grandine/pull/705) - 2026-05-21
 * [Pull Request] [Add payload present timely store](https://github.com/grandinetech/grandine/pull/718) - 2026-06-01
+* [Review] [Review on: EIP-8045: Exclude slashed validators from proposing](https://github.com/grandinetech/grandine/pull/726#pullrequestreview-4407561173) - 2026-06-02
 ## Q1 2026
 
 

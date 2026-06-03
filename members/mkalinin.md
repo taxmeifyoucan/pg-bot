@@ -73,6 +73,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Fix `is_ancestor` argument types in reconfirmation test](https://github.com/ethereum/consensus-specs/pull/5313#pullrequestreview-4398552862) - 2026-06-01
 * [Commit] [Introduce `is_previous_slot_payload_decision` predicate (#5317)](https://github.com/ethereum/consensus-specs/commit/2202b3ec6bbf6fd782ba352166f4e9da9fe31051) - 2026-06-01
 * [Commit] [Apply proposer boost if dependent roots match (#5306)](https://github.com/ethereum/consensus-specs/commit/d47fe5c5367d13ff46027bda21ddab0643cace98) - 2026-06-01
+* [Review] [Review on: Guard `get_parent_payload_status` at fork boundary](https://github.com/ethereum/consensus-specs/pull/5125#pullrequestreview-4412791715) - 2026-06-02
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

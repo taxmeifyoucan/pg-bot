@@ -93,6 +93,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: force the proposer to reorg late payloads](https://github.com/ChainSafe/lodestar/pull/9431#pullrequestreview-4405174943) - 2026-06-01
 * [Review] [Review on: chore: pluralize gloas execution payload endpoint paths](https://github.com/ChainSafe/lodestar/pull/9440#pullrequestreview-4404810957) - 2026-06-01
 * [Issue] [Remove `shouldOverrideForkChoiceUpdate` after Gloas is live](https://github.com/ChainSafe/lodestar/issues/9441) - 2026-06-01
+* [Commit] [fix: gate builder bid lookup on shouldBuildOnFull in produceBlockV4 (#9442)](https://github.com/ChainSafe/lodestar/commit/d0a9d4a54703382b1e5bfa0babb108699d40c259) - 2026-06-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 
@@ -110,6 +111,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Ignore PTC attestations for empty assigned slots](https://github.com/ethereum/consensus-specs/pull/5281#pullrequestreview-4370047244) - 2026-05-27
 * [Commit] [Ignore PTC attestations for empty assigned slots (#5281)](https://github.com/ethereum/consensus-specs/commit/7e4d913e5e24f475416d3502f9ad32dc12a62ea0) - 2026-05-29
 * [Commit] [Remove `should_override_forkchoice_update` (#5174)](https://github.com/ethereum/consensus-specs/commit/e34dbbb330c14cdd6e62b6f78817d70041abd5b5) - 2026-06-01
+* [Pull Request] [Add IL satisfaction check to `should_build_on_full`](https://github.com/ethereum/consensus-specs/pull/5323) - 2026-06-02
+* [Review] [Review on: Add IL satisfaction check to `should_build_on_full`](https://github.com/ethereum/consensus-specs/pull/5323#pullrequestreview-4414281102) - 2026-06-02
+* [Pull Request] [Simplify `InclusionListStore`](https://github.com/ethereum/consensus-specs/pull/5324) - 2026-06-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
 ## Q1 2026

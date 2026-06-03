@@ -83,6 +83,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Trying to fix the most common flaky test failures (#10709)](https://github.com/Consensys/teku/commit/70db94b1b76a0f3534ee7d3421d6eaa81ea93a97) - 2026-05-15
 * [Review] [Review on: Defer DVT attestation selection submission until epoch start](https://github.com/Consensys/teku/pull/10744#pullrequestreview-4369055896) - 2026-05-27
 * [Review] [Review on: Add debug logging for computeEquivocatingCommitteeWeight()](https://github.com/Consensys/teku/pull/10757#pullrequestreview-4385853917) - 2026-05-29
+* [Review] [Review on: Limit pending block pool by retained bytes](https://github.com/Consensys/teku/pull/10758#pullrequestreview-4415225518) - 2026-06-03
+* [Review] [Review on: Add builder statuses filter to state builders endpoint](https://github.com/Consensys/teku/pull/10785#pullrequestreview-4414994279) - 2026-06-03
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 

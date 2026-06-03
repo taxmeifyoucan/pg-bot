@@ -286,6 +286,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Test EIP-8037 code-deposit halt state gas unwind](https://github.com/NethermindEth/nethermind/pull/11710#pullrequestreview-4398514318) - 2026-06-01
 * [Commit] [perf(discovery): replace timeout exceptions with value results in discv4 (#11859)](https://github.com/NethermindEth/nethermind/commit/393fd854e76a98977ded1991538b7a62c21c7783) - 2026-06-01
 * [Commit] [Rework TrieWarmer to ThreadPool processors (#11848)](https://github.com/NethermindEth/nethermind/commit/cc6b3dc9bfd486ebf685e563895ad04e24f2adfa) - 2026-06-01
+* [Review] [Review on: fix(test): de-flake SynchronizerTests + Cannot_produce_bad_blocks under CI load](https://github.com/NethermindEth/nethermind/pull/11881#pullrequestreview-4413839481) - 2026-06-02
+* [Review] [Review on: fix(hive): fix snap sync nethermind-to-nethermind test](https://github.com/NethermindEth/nethermind/pull/11022#pullrequestreview-4414220420) - 2026-06-02
+* [Review] [Review on: Refactor BAL validation](https://github.com/NethermindEth/nethermind/pull/11878#pullrequestreview-4411679583) - 2026-06-02
+* [Commit] [Fast Eth Transfer (#11804)](https://github.com/NethermindEth/nethermind/commit/44ec93fb14c9c6068c1505d11f62e22ac3615790) - 2026-06-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

@@ -695,6 +695,7 @@ Team: Erigon
 * [Review] [Review on: db/state: log reorg-safe block and step in BuildFilesInBackground](https://github.com/erigontech/erigon/pull/21527#pullrequestreview-4399729174) - 2026-06-01
 * [Review] [Review on: db/snapshotsync: fix crash due to double close of decompressor ](https://github.com/erigontech/erigon/pull/21545#pullrequestreview-4399745403) - 2026-06-01
 * [Review] [Review on: batch call fcu along with InsertBlocks in block collector's flush](https://github.com/erigontech/erigon/pull/21525#pullrequestreview-4399735476) - 2026-06-01
+* [Commit] [genesis: faster `-race` of big genesis. step2 (#21475)](https://github.com/erigontech/erigon/commit/44158a706857090dcfb1a4c665cece82bb413dc7) - 2026-06-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

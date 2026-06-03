@@ -242,6 +242,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [kurtosis nightly task: pin ethereum-package](https://github.com/besu-eth/besu/pull/10583) - 2026-06-01
 * [Commit] [kurtosis nightly task: pin ethereum-package (#10583)](https://github.com/besu-eth/besu/commit/d848d5801755eec4044424ee6fafeb476e40b117) - 2026-06-02
 * [Commit] [nightly kurtosis interop assertoor test (#10569)](https://github.com/besu-eth/besu/commit/d41fb82532e59b3f2bbf06d60e5c9c51b6f74396) - 2026-06-01
+* [Pull Request] [nightly kurtosis interop assertoor test: upgrade kurtosis ](https://github.com/besu-eth/besu/pull/10584) - 2026-06-02
+* [Pull Request] [fix PluginVerifier catalog not found when running from IntelliJ](https://github.com/besu-eth/besu/pull/10585) - 2026-06-02
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

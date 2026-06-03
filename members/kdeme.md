@@ -74,6 +74,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Remove obsolete portal eth exporter functionality (#4285)](https://github.com/status-im/nimbus-eth1/commit/35b10bfab8b2d3809fb93f1ccd5f7faf41715432) - 2026-06-01
 * [Commit] [Add Sepolia historical hashes accumulator and adapt loadAccumulator (#4283)](https://github.com/status-im/nimbus-eth1/commit/0d2686f6fdd97308dbdb0800e33a5d8bb2676ed2) - 2026-06-01
 * [Commit] [Add historical_hashes_accumulator export and era1 export (#4280)](https://github.com/status-im/nimbus-eth1/commit/f73085f308403c3095d15f9d34a7237c029c02a7) - 2026-06-01
+* [Pull Request] [Replace era1/era based import with ere based import](https://github.com/status-im/nimbus-eth1/pull/4291) - 2026-06-02
+* [Pull Request] [Add EreDB implementation](https://github.com/status-im/nimbus-eth1/pull/4290) - 2026-06-02
+* [Pull Request] [nimbus_history_exporter: Add readme doc](https://github.com/status-im/nimbus-eth1/pull/4288) - 2026-06-02
+* [Commit] [nimbus_history_exporter: Add readme doc (#4288)](https://github.com/status-im/nimbus-eth1/commit/5e73cd3036f5558e45d9f0517b60a77f8a86e548) - 2026-06-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

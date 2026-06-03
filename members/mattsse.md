@@ -535,6 +535,13 @@ Team: Reth
 * [Review] [Review on: chore(hive): update bal fixture and branch version to 7](https://github.com/paradigmxyz/reth/pull/24734#pullrequestreview-4401757270) - 2026-06-01
 * [Review] [Review on: chore(hive): update bal fixture and branch version to 7](https://github.com/paradigmxyz/reth/pull/24733#pullrequestreview-4401549322) - 2026-06-01
 * [Review] [Review on: chore(docs): bump Vocs to v2](https://github.com/paradigmxyz/reth/pull/24732#pullrequestreview-4401558218) - 2026-06-01
+* [Review] [Review on: chore: downgrade tx execution span to trace](https://github.com/paradigmxyz/reth/pull/24781#pullrequestreview-4413705821) - 2026-06-02
+* [Review] [Review on: fix(rpc): expose simulated block hashes](https://github.com/paradigmxyz/reth/pull/24705#pullrequestreview-4410767754) - 2026-06-02
+* [Review] [Review on: feat(era): add ere types](https://github.com/paradigmxyz/reth/pull/24718#pullrequestreview-4409843347) - 2026-06-02
+* [Review] [Review on: fix(docs): handle Vocs search index fallback path](https://github.com/paradigmxyz/reth/pull/24766#pullrequestreview-4409429490) - 2026-06-02
+* [Review] [Review on: fix(docs): deploy Vocs v2 output root](https://github.com/paradigmxyz/reth/pull/24765#pullrequestreview-4408984305) - 2026-06-02
+* [Pull Request] [fix(provider): reject expired recovered blocks](https://github.com/paradigmxyz/reth/pull/24760) - 2026-06-02
+* [Commit] [fix(provider): reject expired recovered blocks (#24760)](https://github.com/paradigmxyz/reth/commit/63598af37bac813a49709bfa54a5cc1516f61a51) - 2026-06-02
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

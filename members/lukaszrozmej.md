@@ -579,6 +579,23 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: EIP-7928 - RLP fix](https://github.com/NethermindEth/nethermind/pull/11861#pullrequestreview-4400299518) - 2026-06-01
 * [Review] [Review on: Remove obsolete NonValidatorNode receipt/body enforcement check](https://github.com/NethermindEth/nethermind/pull/11790#pullrequestreview-4400473624) - 2026-06-01
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11855#pullrequestreview-4398586726) - 2026-06-01
+* [Review] [Review on: fix: count committed system tx gas metrics](https://github.com/NethermindEth/nethermind/pull/11815#pullrequestreview-4409318898) - 2026-06-02
+* [Review] [Review on: fix(test): de-flake SynchronizerTests + Cannot_produce_bad_blocks under CI load](https://github.com/NethermindEth/nethermind/pull/11881#pullrequestreview-4414135305) - 2026-06-02
+* [Review] [Review on: evm: include blob fees in eth_call upfront want](https://github.com/NethermindEth/nethermind/pull/11864#pullrequestreview-4407379578) - 2026-06-02
+* [Review] [Review on: fix(hive): fix snap sync nethermind-to-nethermind test](https://github.com/NethermindEth/nethermind/pull/11022#pullrequestreview-4409204862) - 2026-06-02
+* [Review] [Review on: perf(threading): ManualResetEventSlim for ParallelUnbalancedWork completion signal](https://github.com/NethermindEth/nethermind/pull/11885#pullrequestreview-4413168109) - 2026-06-02
+* [Review] [Review on: JsonRpc: default omitted block to latest for eth_getStorageValues](https://github.com/NethermindEth/nethermind/pull/11883#pullrequestreview-4411453972) - 2026-06-02
+* [Review] [Review on: fix : do not delete empty accounts on stateoverride(eip 7610)](https://github.com/NethermindEth/nethermind/pull/11854#pullrequestreview-4407434794) - 2026-06-02
+* [Review] [Review on: Refactor BAL validation](https://github.com/NethermindEth/nethermind/pull/11878#pullrequestreview-4409106502) - 2026-06-02
+* [Review] [Review on: fix: enforce even-length hex validation for JSON converter](https://github.com/NethermindEth/nethermind/pull/11876#pullrequestreview-4409505371) - 2026-06-02
+* [Review] [Review on: fix(FlatDB): prune orphaned non-canonical snapshots on persist](https://github.com/NethermindEth/nethermind/pull/11739#pullrequestreview-4409234670) - 2026-06-02
+* [Review] [Review on: fix: fix race condition in FullPruningDb read methods](https://github.com/NethermindEth/nethermind/pull/10920#pullrequestreview-4410340377) - 2026-06-02
+* [Review] [Review on: fix(merge): capture bad blocks at pre-process rejection stages](https://github.com/NethermindEth/nethermind/pull/11696#pullrequestreview-4410672896) - 2026-06-02
+* [Review] [Review on: simulate: remove prepare-state enumeration churn](https://github.com/NethermindEth/nethermind/pull/11838#pullrequestreview-4410448956) - 2026-06-02
+* [Review] [Review on: fix(merge): bound dangling block cache growth](https://github.com/NethermindEth/nethermind/pull/11426#pullrequestreview-4409190766) - 2026-06-02
+* [Review] [Review on: fix: EnrTreeParser tests to cover enr: leaves and enrtree:// links](https://github.com/NethermindEth/nethermind/pull/9701#pullrequestreview-4409130432) - 2026-06-02
+* [Issue] [Remove BloomStorage (superseded by log index)](https://github.com/NethermindEth/nethermind/issues/11880) - 2026-06-02
+* [Commit] [Restrict IPC socket to owner-only mode if set (#9449)](https://github.com/NethermindEth/nethermind/commit/decc77a97751a7c90d49ab38653a6c7fa270f156) - 2026-06-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

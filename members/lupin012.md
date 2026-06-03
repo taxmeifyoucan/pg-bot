@@ -172,6 +172,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: [SharovBot] rpc: backport debug_getModifiedAccountsByHash/Number Geth semantics fix to release/3.4](https://github.com/erigontech/erigon/pull/21507#pullrequestreview-4396726059) - 2026-05-31
 * [Commit] [QA: update rpcTets version 2.12 (#21501)](https://github.com/erigontech/erigon/commit/3025baf1396572465b1dbe7502d54d7db9372643) - 2026-05-31
 * [Commit] [rpc: return explicit error when trace_* receives a custom tracer (#21544)](https://github.com/erigontech/erigon/commit/f9404173a6daeb24eebf659f0c173fbbf5227b21) - 2026-06-01
+* [Pull Request] [rpc: implement pending resolver and GetPendingTransactions GraphQL](https://github.com/erigontech/erigon/pull/21593) - 2026-06-02
+* [Pull Request] [rpc:  add withdrawal balance diffs to trace_block and trace_replayBlockTransactions](https://github.com/erigontech/erigon/pull/21592) - 2026-06-02
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -214,6 +216,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [modify rsp to have rsp fix respent TIP move (#564)](https://github.com/erigontech/rpc-tests/commit/0f41216648194f653744e22cf4bb500456fde634) - 2026-05-28
 * [Pull Request] [integration test: ots_searchTransactionsAfter test_11.json to be stable on TIP](https://github.com/erigontech/rpc-tests/pull/568) - 2026-05-29
 * [Commit] [mod exp for ots_searchTransactionsAfter test_11.json to be stable on TIP (#568)](https://github.com/erigontech/rpc-tests/commit/fb43f5a456aeb136c78b3fb984984caf9706d0e1) - 2026-05-29
+* [Pull Request] [add_withdrawal_tests_post_shanghai](https://github.com/erigontech/rpc-tests/pull/569) - 2026-06-02
+* [Pull Request] [integration-test: fix algo json compare](https://github.com/erigontech/rpc-tests/pull/570) - 2026-06-02
 ## Q1 2026
 
 

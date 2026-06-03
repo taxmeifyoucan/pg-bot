@@ -118,6 +118,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Match gossip subnet topics exactly](https://github.com/OffchainLabs/prysm/pull/16872#pullrequestreview-4402019379) - 2026-06-01
 * [Pull Request] [fixing parent block hash function for latest execution payload header removal](https://github.com/OffchainLabs/prysm/pull/16874) - 2026-06-01
 * [Review] [Review on: proposer preference rest](https://github.com/OffchainLabs/prysm/pull/16835#pullrequestreview-4404758202) - 2026-06-01
+* [Review] [Review on: proposer preference rest](https://github.com/OffchainLabs/prysm/pull/16835#pullrequestreview-4411822323) - 2026-06-02
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

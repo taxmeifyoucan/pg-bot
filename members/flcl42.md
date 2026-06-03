@@ -172,6 +172,14 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: EIP-7928 - RLP fix](https://github.com/NethermindEth/nethermind/pull/11861#pullrequestreview-4400403000) - 2026-06-01
 * [Pull Request] [Address fast transfer review findings](https://github.com/NethermindEth/nethermind/pull/11866) - 2026-06-01
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11855#pullrequestreview-4399813414) - 2026-06-01
+* [Review] [Review on: evm: include blob fees in eth_call upfront want](https://github.com/NethermindEth/nethermind/pull/11864#pullrequestreview-4407950337) - 2026-06-02
+* [Review] [Review on: fix(ui): assign slice result to txsToAdd array](https://github.com/NethermindEth/nethermind/pull/10724#pullrequestreview-4411384741) - 2026-06-02
+* [Review] [Review on: fix: TransientResource disposal leaks and missing pruning in PersistenceManager](https://github.com/NethermindEth/nethermind/pull/10952#pullrequestreview-4409965609) - 2026-06-02
+* [Pull Request] [Default slotnum to 0 in tests](https://github.com/NethermindEth/nethermind/pull/11879) - 2026-06-02
+* [Review] [Review on: Remove obsolete NonValidatorNode receipt/body enforcement check](https://github.com/NethermindEth/nethermind/pull/11790#pullrequestreview-4409983018) - 2026-06-02
+* [Review] [Review on: fix: EnrTreeParser tests to cover enr: leaves and enrtree:// links](https://github.com/NethermindEth/nethermind/pull/9701#pullrequestreview-4409292574) - 2026-06-02
+* [Commit] [Default slotnum to 0 in tests (#11879)](https://github.com/NethermindEth/nethermind/commit/676f930ea944433858a9f89da1e4d2b20f6364aa) - 2026-06-02
+* [Commit] [Add equality logic; simplify tests (#11747)](https://github.com/NethermindEth/nethermind/commit/2274531b003e30f014ea76be4e9b09c9cb259d07) - 2026-06-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

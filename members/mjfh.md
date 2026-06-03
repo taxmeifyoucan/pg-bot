@@ -36,6 +36,8 @@ Team: Nimbus
 * [Commit] [Snap sync update building trie (#4270)](https://github.com/status-im/nimbus-eth1/commit/375f43fd6336feaf706bdf2c845365645356b8d2) - 2026-05-26
 * [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4275) - 2026-05-28
 * [Commit] [Snap sync maint update (#4275)](https://github.com/status-im/nimbus-eth1/commit/a9999f59fbd19ad9396bf3697f8f9312bb3a6df8) - 2026-05-28
+* [Pull Request] [Snap sync incremental dangling link analysis](https://github.com/status-im/nimbus-eth1/pull/4289) - 2026-06-02
+* [Commit] [Snap sync incremental dangling link analysis (#4289)](https://github.com/status-im/nimbus-eth1/commit/0df2a741b06c3e228a31e2b7c753ceee5c4f1bfa) - 2026-06-02
 ## Q1 2026
 
 

@@ -236,6 +236,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/state: log reorg-safe block and step in BuildFilesInBackground (#21527)](https://github.com/erigontech/erigon/commit/8426d9cd0fe0fd37309abbc25a00fa426b00b816) - 2026-06-01
 * [Commit] [db/snapshotsync: fix crash due to double close of decompressor  (#21545)](https://github.com/erigontech/erigon/commit/92b22dcf402d01e390e885afa1dcc25f70c802a6) - 2026-06-01
 * [Commit] [batch call fcu along with InsertBlocks in block collector's flush (#21525)](https://github.com/erigontech/erigon/commit/2f172a13aa7f6fcdb2a120ba36f91df8ad897ddb) - 2026-06-01
+* [Review] [Review on: execution/state: typed-vio refactor (L2 — typed AddressEntry + WriteCell[T] + sync.Pool)](https://github.com/erigontech/erigon/pull/21536#pullrequestreview-4407740498) - 2026-06-02
+* [Pull Request] [db/snapshotsync: make index building and opening segments safe with other files building events](https://github.com/erigontech/erigon/pull/21571) - 2026-06-02
 ## Q1 2026
 
 

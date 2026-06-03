@@ -45,6 +45,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Pull Request] [Rust 1.96 lints](https://github.com/sigp/lighthouse/pull/9368) - 2026-05-28
 * [Review] [Review on: Gloas data column reprocess queue](https://github.com/sigp/lighthouse/pull/9339#pullrequestreview-4405524433) - 2026-06-02
 * [Review] [Review on: Gloas range sync](https://github.com/sigp/lighthouse/pull/9362#pullrequestreview-4403825241) - 2026-06-01
+* [Review] [Review on: Gloas range sync](https://github.com/sigp/lighthouse/pull/9362#pullrequestreview-4413265373) - 2026-06-02
+* [Issue] [Add gloas range sync tests for block verification](https://github.com/sigp/lighthouse/issues/9400) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4100433052) - 2026-04-13

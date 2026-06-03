@@ -173,6 +173,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [perf: faster commit ](https://github.com/paradigmxyz/reth/pull/24653) - 2026-05-29
 * [Pull Request] [refactor: integrate state hook from `State<DB>`](https://github.com/paradigmxyz/reth/pull/24654) - 2026-05-29
 * [Commit] [refactor: integrate state hook from `State<DB>` (#24654)](https://github.com/paradigmxyz/reth/commit/fa7c66c14e48f65aa6f502d79696d0fdbf6e6218) - 2026-05-29
+* [Pull Request] [perf: remove updates count cap](https://github.com/paradigmxyz/reth/pull/24777) - 2026-06-02
+* [Review] [Review on: chore: bump fixed-cache to 0.1.10](https://github.com/paradigmxyz/reth/pull/24775#pullrequestreview-4411958769) - 2026-06-02
+* [Pull Request] [perf: parallelize `update_leaves` better](https://github.com/paradigmxyz/reth/pull/24774) - 2026-06-02
+* [Review] [Review on: perf: more aggressive trie parallelization](https://github.com/paradigmxyz/reth/pull/24258#pullrequestreview-4411682339) - 2026-06-02
+* [Pull Request] [perf: prewarm overlay](https://github.com/paradigmxyz/reth/pull/24761) - 2026-06-02
+* [Commit] [perf: remove updates count cap (#24777)](https://github.com/paradigmxyz/reth/commit/955847f195cea63c2d141a192c9b7b97e7f84e92) - 2026-06-02
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
@@ -196,6 +202,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat: `Account::is_changed`](https://github.com/bluealloy/revm/pull/3727#pullrequestreview-4385658757) - 2026-05-29
 * [Commit] [feat: `Account::is_changed` (#3727)](https://github.com/bluealloy/revm/commit/3486fb82255965e6c8a00b63df42655b59bfa76d) - 2026-05-29
 * [Pull Request] [perf: avoid reallocations and cloning during commit](https://github.com/bluealloy/revm/pull/3732) - 2026-06-01
+* [Review] [Review on: perf: avoid reallocations and cloning during commit](https://github.com/bluealloy/revm/pull/3732#pullrequestreview-4408079618) - 2026-06-02
+* [Commit] [perf: avoid reallocations and cloning during commit (#3732)](https://github.com/bluealloy/revm/commit/14e2c260f9e0cef2303a3e99dd34d5b8fc88d62d) - 2026-06-02
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4140591296) - 2026-04-20

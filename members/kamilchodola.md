@@ -68,6 +68,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Rework TrieWarmer to ThreadPool processors](https://github.com/NethermindEth/nethermind/pull/11848#pullrequestreview-4399991202) - 2026-06-01
 * [Review] [Review on: Change PR label condition for benchmark job](https://github.com/NethermindEth/nethermind/pull/11851#pullrequestreview-4400017663) - 2026-06-01
 * [Commit] [Change PR label condition for benchmark job (#11851)](https://github.com/NethermindEth/nethermind/commit/2ad1f669c1e467bea376cb2a7b60581e855dfaaf) - 2026-06-01
+* [Pull Request] [perf(evm): per-thread free-list for EVM memory buffers + skip redundant copy-opcode revalidation](https://github.com/NethermindEth/nethermind/pull/11884) - 2026-06-02
+* [Pull Request] [perf(threading): ManualResetEventSlim for ParallelUnbalancedWork completion signal](https://github.com/NethermindEth/nethermind/pull/11885) - 2026-06-02
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

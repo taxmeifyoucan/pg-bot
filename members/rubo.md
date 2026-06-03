@@ -125,6 +125,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore: Remove Base from networks (#11852)](https://github.com/NethermindEth/nethermind/commit/b56152102134624ba51e3f5d62ed60046db6b928) - 2026-05-30
 * [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11857#pullrequestreview-4396553566) - 2026-05-31
 * [Review] [Review on: CI - more fixes](https://github.com/NethermindEth/nethermind/pull/11868#pullrequestreview-4402053173) - 2026-06-01
+* [Review] [Review on: CI - more fixes](https://github.com/NethermindEth/nethermind/pull/11868#pullrequestreview-4411193030) - 2026-06-02
+* [Review] [Review on: feat(workflows): update hive tests workflow to support release branches and enhance input descriptions](https://github.com/NethermindEth/nethermind/pull/11877#pullrequestreview-4411430559) - 2026-06-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 * [Review] [Review on: feat(zkevm): prune non scheduled forks in ProtocolFork](https://github.com/ethereum/execution-specs/pull/2926#pullrequestreview-4373692443) - 2026-05-27

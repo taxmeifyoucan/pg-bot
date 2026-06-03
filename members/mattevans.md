@@ -31,6 +31,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore: docs](https://github.com/ethpandaops/contributoor/pull/235) - 2026-05-29
 * [Commit] [Merge pull request #235 from ethpandaops/docs/up](https://github.com/ethpandaops/contributoor/commit/bc1edd298741290e2fd49967e897d7d061b9bf0e) - 2026-05-29
 * [Commit] [chore(README.md): remove codecov badge to clean up documentation and reduce clutter](https://github.com/ethpandaops/contributoor/commit/dc3ce2b646b3b85aac04bd7c1b7d8f7e7aceab11) - 2026-05-29
+* [Pull Request] [refactor: align to recent xatu changes](https://github.com/ethpandaops/contributoor/pull/238) - 2026-06-02
+* [Commit] [Merge pull request #238 from ethpandaops/refactor/align-recent-xatu-changes](https://github.com/ethpandaops/contributoor/commit/793d00d0c2cda84ee7d17c545b1a4097c69839b8) - 2026-06-02
+* [Commit] [style: reorder import statements to follow Go conventions for better readability and maintainability](https://github.com/ethpandaops/contributoor/commit/59db2238249fbff2720e2fe5476d158fe1142e4f) - 2026-06-02
+* [Commit] [refactor: align to recent xatu changes](https://github.com/ethpandaops/contributoor/commit/07e9fc76028eb61f50f5753c8f56dc60bbf5f6dd) - 2026-06-02
+* [Commit] [Merge pull request #236 from ethpandaops/dependabot/github_actions/actions-8a5c4a6933](https://github.com/ethpandaops/contributoor/commit/a6c7e5194533472729e0228deab260d653bc0ece) - 2026-06-02
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Review] [Review on: consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805#pullrequestreview-4072535003) - 2026-04-08
 * [Pull Request] [feat(vector-logs.yaml): ch logs parse kt labels](https://github.com/ethpandaops/xatu/pull/807) - 2026-04-09

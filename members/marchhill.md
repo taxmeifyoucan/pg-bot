@@ -73,6 +73,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Change BAL DB key (#11761)](https://github.com/NethermindEth/nethermind/commit/ae03d2b0e3928d37501e4dd2f3a79f2d77535ff5) - 2026-05-27
 * [Review] [Review on: Activate BAL only when needed](https://github.com/NethermindEth/nethermind/pull/11795#pullrequestreview-4380131452) - 2026-05-28
 * [Pull Request] [perf(bal): build BAL validation index on the sequential execution path](https://github.com/NethermindEth/nethermind/pull/11873) - 2026-06-01
+* [Pull Request] [Refactor BAL validation](https://github.com/NethermindEth/nethermind/pull/11878) - 2026-06-02
+* [Review] [Review on: Default slotnum to 0 in tests](https://github.com/NethermindEth/nethermind/pull/11879#pullrequestreview-4410176801) - 2026-06-02
+* [Review] [Review on: Remove obsolete NonValidatorNode receipt/body enforcement check](https://github.com/NethermindEth/nethermind/pull/11790#pullrequestreview-4409688677) - 2026-06-02
+* [Commit] [Refactor BAL validation (#11878)](https://github.com/NethermindEth/nethermind/commit/53c8b3e92390568d0af685b944b83cec1a57b243) - 2026-06-02
+* [Commit] [perf(bal): build BAL validation index on the sequential execution path (#11873)](https://github.com/NethermindEth/nethermind/commit/1bb7582ddcdb03d1a57ead64e14ebdd0dd1893b7) - 2026-06-02
 ## Q1 2026
 
 

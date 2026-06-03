@@ -63,6 +63,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [snappy compression for full state snapshots in hdiff (#16858)](https://github.com/OffchainLabs/prysm/commit/5fc577ce5d6a54d22d77d05d8beb7adfa76692df) - 2026-05-28
 * [Pull Request] [progressive hashTreeRoot](https://github.com/OffchainLabs/prysm/pull/16861) - 2026-05-29
 * [Commit] [replicate save state duration metrics and logs for hdiff (#16859)](https://github.com/OffchainLabs/prysm/commit/2b484d49b2bfc35fb59ec3190e95e5af3104af1b) - 2026-05-29
+* [Review] [Review on: Remove invalid string formatter in `GetBlockHeader`](https://github.com/OffchainLabs/prysm/pull/16524#pullrequestreview-4409626012) - 2026-06-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

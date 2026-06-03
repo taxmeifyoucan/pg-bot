@@ -159,6 +159,13 @@ Team: Erigon
 * [Issue] [zkevm@v0.4.0 eip8025_optional_proofs witness_validation_* are stateless-verifier negative tests, not producer outputs](https://github.com/erigontech/erigon/issues/21566) - 2026-06-01
 * [Issue] [zkevm@v0.4.0 fixtures: stale EIP-8037 AUTH_BASE gas on EIP-7702 undelegated clears](https://github.com/erigontech/erigon/issues/21563) - 2026-06-01
 * [Commit] [rpc/jsonrpc: lex-order executionWitness codes and state (#21531)](https://github.com/erigontech/erigon/commit/8e4b40ac277aa062b1c746802974d6e1ea6fe430) - 2026-06-01
+* [Review] [Review on: ci(qa): measure disk usage per prune mode with real block sizes](https://github.com/erigontech/erigon/pull/21580#pullrequestreview-4409739348) - 2026-06-02
+* [Review] [Review on: cl/clstages: recover from panics in stage ActionFunc](https://github.com/erigontech/erigon/pull/21558#pullrequestreview-4409724310) - 2026-06-02
+* [Review] [Review on: claude: stop bare #N point refs and commit/PR attribution](https://github.com/erigontech/erigon/pull/21579#pullrequestreview-4408930004) - 2026-06-02
+* [Review] [Review on: db/snapshotsync: make index building and opening segments safe with other files building events](https://github.com/erigontech/erigon/pull/21571#pullrequestreview-4409861975) - 2026-06-02
+* [Commit] [rpc/jsonrpc, execution/commitment: drop transient-collapse siblings from execution witness (#21569)](https://github.com/erigontech/erigon/commit/842adc021346acb02d894033e690a065b4ad2232) - 2026-06-02
+* [Commit] [cl/phase1/stages: fix EL backfill slot/block unit mix (#21570)](https://github.com/erigontech/erigon/commit/a5a464c8132c10c4559c7a0fc70e2750b2c77e5e) - 2026-06-02
+* [Commit] [rpc/jsonrpc: keep system address in executionWitness when a tx opcode touches it (#21565)](https://github.com/erigontech/erigon/commit/c7e949753beacd5c6901d0fa97519fe12e9e939d) - 2026-06-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

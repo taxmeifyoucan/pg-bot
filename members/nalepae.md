@@ -87,6 +87,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Reject and downscore peers that serve Fulu data column sidecars whose embedded `SignedBlockHeader` does not match the locally held beacon block. (#16855)](https://github.com/OffchainLabs/prysm/commit/858e6d1f2719b5bfdc159eacf143bd380daa4314) - 2026-05-31
 * [Review] [Review on: Match gossip subnet topics exactly](https://github.com/OffchainLabs/prysm/pull/16872#pullrequestreview-4401445096) - 2026-06-01
 * [Pull Request] [Fix epoch processing slowdown caused by per validator interface boxing](https://github.com/OffchainLabs/prysm/pull/16871) - 2026-06-01
+* [Issue] [Print more backfill messages in INFO](https://github.com/OffchainLabs/prysm/issues/16880) - 2026-06-02
+* [Commit] [Update committee cache (#16814)](https://github.com/OffchainLabs/prysm/commit/134e020be1c44223193f6193d8cae8883d661bea) - 2026-06-02
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

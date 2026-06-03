@@ -235,6 +235,16 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: bench(whir): head-to-head FRI vs WHIR PCS comparison across Poseidon1 / Poseidon2 / Blake3](https://github.com/Plonky3/Plonky3/pull/1607#pullrequestreview-4400199027) - 2026-06-01
 * [Review] [Review on: chore(deps): update tikv-jemallocator requirement from 0.6 to 0.7](https://github.com/Plonky3/Plonky3/pull/1719#pullrequestreview-4400413236) - 2026-06-01
 * [Commit] [bench(whir): head-to-head FRI vs WHIR PCS comparison across Poseidon1 / Poseidon2 / Blake3 (#1607)](https://github.com/Plonky3/Plonky3/commit/4318eba062fd1cbca3dbe98904ad18ad950f3b49) - 2026-06-01
+* [Pull Request] [fix: require ell_zk >= 3 in HVZK sumcheck](https://github.com/Plonky3/Plonky3/pull/1727) - 2026-06-02
+* [Review] [Review on: fix: sample HZVK masks from EF](https://github.com/Plonky3/Plonky3/pull/1726#pullrequestreview-4411879001) - 2026-06-02
+* [Review] [Review on: feat(lookup): single-terminal LogUp aux trace](https://github.com/Plonky3/Plonky3/pull/1628#pullrequestreview-4409040010) - 2026-06-02
+* [Review] [Review on: fix: add PoW check in Circle STARK's commit phase](https://github.com/Plonky3/Plonky3/pull/1723#pullrequestreview-4409839137) - 2026-06-02
+* [Review] [Review on: refactor: remove duplication around AirBuilder `_named` methods](https://github.com/Plonky3/Plonky3/pull/1724#pullrequestreview-4409761537) - 2026-06-02
+* [Review] [Review on: feat: add support for RPO hash](https://github.com/Plonky3/Plonky3/pull/1640#pullrequestreview-4408791870) - 2026-06-02
+* [Review] [Review on: refactor: move DisjointMutPtr to p3-util](https://github.com/Plonky3/Plonky3/pull/1720#pullrequestreview-4408473143) - 2026-06-02
+* [Review] [Review on: fix: correct `max_constraint_degree` for `p3-poseidon2-air`](https://github.com/Plonky3/Plonky3/pull/1722#pullrequestreview-4408500559) - 2026-06-02
+* [Review] [Review on: perf: borrow `MMCS` to remove deep copy](https://github.com/Plonky3/Plonky3/pull/1721#pullrequestreview-4408485353) - 2026-06-02
+* [Commit] [fix: require ell_zk >= 3 in HVZK sumcheck (#1727)](https://github.com/Plonky3/Plonky3/commit/3289cdea28dbb9e85fb59e4f3f55b4fdbc09c97d) - 2026-06-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

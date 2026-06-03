@@ -88,6 +88,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: bloatnet: auto-nuke StateCache on low hit_rate](https://github.com/erigontech/erigon/pull/21468#pullrequestreview-4397441723) - 2026-05-31
 * [Review] [Review on: genesis: faster `-race` of big genesis. step2](https://github.com/erigontech/erigon/pull/21475#pullrequestreview-4397436742) - 2026-05-31
 * [Pull Request] [[r3.4] db/state: prune TemporalMemBatch overlay entries past unwindToTxNum (#20625)](https://github.com/erigontech/erigon/pull/21538) - 2026-05-31
+* [Review] [Review on: integrity: align receipt and rcache chunk ranges](https://github.com/erigontech/erigon/pull/20595#pullrequestreview-4408587393) - 2026-06-02
 ## Q1 2026
 
 

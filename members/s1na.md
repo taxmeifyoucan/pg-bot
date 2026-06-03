@@ -74,6 +74,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [core/vm: global cache for jumpdest bitmaps (#34850)](https://github.com/ethereum/go-ethereum/commit/d9028372560e6e9486c0930eec1a53d8b763aa27) - 2026-05-27
 * [Review] [Review on: trie/bintrie: record inserted leaves for t8n](https://github.com/ethereum/go-ethereum/pull/34843#pullrequestreview-4380749444) - 2026-05-28
 * [Review] [Review on: node, cmd/clef, graphql: disable gzip on engine API](https://github.com/ethereum/go-ethereum/pull/35057#pullrequestreview-4378549826) - 2026-05-28
+* [Review] [Review on: internal/era: update to latest ere spec](https://github.com/ethereum/go-ethereum/pull/34896#pullrequestreview-4411571554) - 2026-06-02
+* [Pull Request] [core/txpool: drop reorged v0 blob sidecars](https://github.com/ethereum/go-ethereum/pull/35099) - 2026-06-02
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20
@@ -86,6 +88,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: relax eth_simulateV1 errors, define debug_getRawTransaction](https://github.com/ethereum/execution-apis/pull/791#pullrequestreview-4297655801) - 2026-05-15
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4362659099) - 2026-05-26
 * [Review] [Review on: eth: add fillTransaction, drop raw field](https://github.com/ethereum/execution-apis/pull/803#pullrequestreview-4372748785) - 2026-05-27
+* [Review] [Review on: eth: add fillTransaction, drop raw field](https://github.com/ethereum/execution-apis/pull/803#pullrequestreview-4408817641) - 2026-06-02
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [cmd: add hivequery (hq) command](https://github.com/ethereum/hive/pull/1438) - 2026-04-20
 * [Commit] [cmd/hq: add hivequery (hq) command (#1438)](https://github.com/ethereum/hive/commit/e4209f3c6a50b82e022730f5e49c3b331fc10e8c) - 2026-04-21

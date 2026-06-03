@@ -215,6 +215,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: remove legacy headerdownload, bodydownload and dataflow packages (#21505)](https://github.com/erigontech/erigon/commit/d0caf67e0e8f8aa732c27bc18fb65951f0900e62) - 2026-05-30
 * [Review] [Review on: p2p/sentry: cap and rate-limit inbound NewBlockHashes per peer](https://github.com/erigontech/erigon/pull/21557#pullrequestreview-4406086827) - 2026-06-02
 * [Review] [Review on: polygon/sync: ignore empty NewBlockHashes to prevent observer panic](https://github.com/erigontech/erigon/pull/21560#pullrequestreview-4405686774) - 2026-06-02
+* [Review] [Review on: node/app/event: fix data race on eventBus.prevQueueSize](https://github.com/erigontech/erigon/pull/21551#pullrequestreview-4415009197) - 2026-06-03
+* [Review] [Review on: ChangeLog: v3.4.3 release notes](https://github.com/erigontech/erigon/pull/21581#pullrequestreview-4414999353) - 2026-06-03
+* [Review] [Review on: cmd/utils/app: process all files passed to import command](https://github.com/erigontech/erigon/pull/21513#pullrequestreview-4414933370) - 2026-06-03
+* [Review] [Review on: execution/types, engineapi, cl: avoid RLP re-encode of payload txs](https://github.com/erigontech/erigon/pull/21546#pullrequestreview-4415016355) - 2026-06-03
+* [Review] [Review on: common/dbg: default EXEC3_PARALLEL=true](https://github.com/erigontech/erigon/pull/21591#pullrequestreview-4415000380) - 2026-06-03
+* [Review] [Review on: Unskip and fix disabled tests](https://github.com/erigontech/erigon/pull/21455#pullrequestreview-4414937764) - 2026-06-03
+* [Review] [Review on: execution/execmodule: block on semaphore in InsertBlocks, drop chainreader busy-wait](https://github.com/erigontech/erigon/pull/21549#pullrequestreview-4414871892) - 2026-06-03
+* [Pull Request] [claude: stop bare #N point refs and commit/PR attribution](https://github.com/erigontech/erigon/pull/21579) - 2026-06-02
+* [Review] [Review on: claude: stop bare #N point refs and commit/PR attribution](https://github.com/erigontech/erigon/pull/21579#pullrequestreview-4409262403) - 2026-06-02
+* [Pull Request] [execution/state: exclude no-op storage writes from the block access list](https://github.com/erigontech/erigon/pull/21574) - 2026-06-02
+* [Pull Request] [ci: drop redundant glamsterdam serial exec leg from kurtosis-assertoor](https://github.com/erigontech/erigon/pull/21572) - 2026-06-02
+* [Pull Request] [[DO-NOT-MERGE] ci: run all hive/hive-eest jobs on GitHub-hosted runners (experiment)](https://github.com/erigontech/erigon/pull/21576) - 2026-06-02
+* [Issue] [Merge queue: hive/hive-eest jobs wait a median 13m (p95 1h44m, max 4h10m) for a runner](https://github.com/erigontech/erigon/issues/21575) - 2026-06-02
+* [Issue] [[parallel exec] eth mainnet invalid block: could not apply tx 25203874:81 [0xed4738fe081d00a22996dfe8b20b59e72fecfd596dee51789f7197ce087ffcca]: too many validator-invalid retries: 251, expected: 250](https://github.com/erigontech/erigon/issues/21573) - 2026-06-02
+* [Commit] [claude: stop bare #N point refs and commit/PR attribution (#21579)](https://github.com/erigontech/erigon/commit/cd14dee8b56b67bb01218740ca36ac016dc32f58) - 2026-06-02
+* [Commit] [execution/state: exclude no-op storage writes from the block access list (#21574)](https://github.com/erigontech/erigon/commit/949b992677f281f8709836920ba234054c98e855) - 2026-06-02
+* [Commit] [ci: drop redundant glamsterdam serial exec leg from kurtosis-assertoor (#21572)](https://github.com/erigontech/erigon/commit/ec23b03e93b0827f5a6ac233d6d42db4146031ae) - 2026-06-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

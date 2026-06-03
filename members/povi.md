@@ -51,6 +51,7 @@ Team: Grandine
 * [Issue] [[Glamsterdam] Issue with duplicate attestations being packed for pre-Gloas phases](https://github.com/grandinetech/grandine/issues/714) - 2026-06-01
 * [Issue] [[Glamsterdam] enable again wait for fully validated head for validator duties](https://github.com/grandinetech/grandine/issues/713) - 2026-06-01
 * [Issue] [[Glamsterdam] Show correct "optimistic" head status in beacon API endpoints](https://github.com/grandinetech/grandine/issues/712) - 2026-06-01
+* [Issue] [[Glamsterdam] Update consensus spec tests to v1.7.0-alpha.9](https://github.com/grandinetech/grandine/issues/729) - 2026-06-02
 ## Q1 2026
 
 

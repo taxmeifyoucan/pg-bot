@@ -131,6 +131,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [docs: add v112 changelog entry (#3724)](https://github.com/bluealloy/revm/commit/e549d0bdf50873a84c27861e9f549b756de13570) - 2026-05-27
 * [Pull Request] [feat: add SSTORE gas-state policy hook](https://github.com/bluealloy/revm/pull/3734) - 2026-06-01
 * [Pull Request] [feat: extend SSTORE gas-state hook for TIP-1060 storage gas tokens](https://github.com/bluealloy/revm/pull/3733) - 2026-06-01
+* [Review] [Review on: fix(interpreter): use IntoAddress in pop_address to avoid const-eval panic](https://github.com/bluealloy/revm/pull/3735#pullrequestreview-4409850882) - 2026-06-02
+* [Pull Request] [feat: wrap TransientStorage as AddressMap<StorageKeyMap<U256>>](https://github.com/bluealloy/revm/pull/3736) - 2026-06-02
+* [Review] [Review on: feat: add SSTORE gas-state policy hook](https://github.com/bluealloy/revm/pull/3734#pullrequestreview-4409873873) - 2026-06-02
+* [Review] [Review on: perf: avoid reallocations and cloning during commit](https://github.com/bluealloy/revm/pull/3732#pullrequestreview-4407865148) - 2026-06-02
+* [Commit] [feat: wrap TransientStorage as AddressMap<StorageKeyMap<U256>> (#3736)](https://github.com/bluealloy/revm/commit/eea3e184874d85956f510fa93cbcc1f2b84cbc4f) - 2026-06-02
+* [Commit] [feat: add SSTORE gas-state policy hook (#3734)](https://github.com/bluealloy/revm/commit/16aab9498bcd5a119f25cf20abcad7788717bbb2) - 2026-06-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

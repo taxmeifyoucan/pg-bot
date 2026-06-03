@@ -22,6 +22,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Create review.instructions.md](https://github.com/ethereum/EIPs/commit/12b6e8016411d5766db6387a96dfa3d43a906f77) - 2026-04-24
 * [Pull Request] [Add guideline for including language versions in examples](https://github.com/ethereum/EIPs/pull/11737) - 2026-05-27
 * [Review] [Review on: Website: Add 'Final' and 'Living' to draft stage conditions](https://github.com/ethereum/EIPs/pull/11198#pullrequestreview-4373995149) - 2026-05-27
+* [Review] [Review on: Add EIP: EIP tagging](https://github.com/ethereum/EIPs/pull/11545#pullrequestreview-4412158681) - 2026-06-02
+* [Review] [Review on: Update EIP-8133: Move to Review](https://github.com/ethereum/EIPs/pull/11756#pullrequestreview-4412019129) - 2026-06-02
+* [Review] [Review on: Update EIP-7701: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/11528#pullrequestreview-4411967459) - 2026-06-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec): Abstract py-ecc implementation detail from EIP-2537](https://github.com/ethereum/execution-specs/pull/2384#pullrequestreview-4078371779) - 2026-04-08
 * [Pull Request] [chore(tooling,deps): update mypy to 1.20](https://github.com/ethereum/execution-specs/pull/2633) - 2026-04-08

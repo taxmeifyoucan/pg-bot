@@ -396,6 +396,9 @@ Team: Reth
 * [Review] [Review on: fix(tasks)!: join OS threads before tokio runtime teardown](https://github.com/paradigmxyz/reth/pull/24428#pullrequestreview-4368034908) - 2026-05-26
 * [Review] [Review on: perf(txpool): preallocate propagation vectors](https://github.com/paradigmxyz/reth/pull/24554#pullrequestreview-4363375205) - 2026-05-26
 * [Review] [Review on: refactor(net): use B256 collections for tx hashes](https://github.com/paradigmxyz/reth/pull/24565#pullrequestreview-4367127556) - 2026-05-26
+* [Pull Request] [fix(evm): integrate evm2 state handling](https://github.com/paradigmxyz/reth/pull/24790) - 2026-06-03
+* [Review] [Review on: fix(docs): publish Vocs v2 static output](https://github.com/paradigmxyz/reth/pull/24789#pullrequestreview-4414656904) - 2026-06-03
+* [Review] [Review on: chore(cli): log latest re-executed block](https://github.com/paradigmxyz/reth/pull/24785#pullrequestreview-4414099321) - 2026-06-02
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

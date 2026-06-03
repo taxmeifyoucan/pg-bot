@@ -184,6 +184,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: add logs to debug our PTC votes](https://github.com/ChainSafe/lodestar/pull/9418#pullrequestreview-4398834322) - 2026-06-01
 * [Review] [Review on: fix: use finalized block slot as envelope by range archive boundary](https://github.com/ChainSafe/lodestar/pull/9432#pullrequestreview-4398286488) - 2026-06-01
 * [Commit] [chore: log missing payload in ExecutionPayloadEnvelopesByRoot (#9435)](https://github.com/ChainSafe/lodestar/commit/a9a9fe2e631580d3e0a51882591896487e0173fa) - 2026-06-01
+* [Review] [Review on: fix: sync through empty epochs in range sync](https://github.com/ChainSafe/lodestar/pull/9417#pullrequestreview-4415188429) - 2026-06-03
+* [Review] [Review on: fix: use finalized block slot as envelope by range archive boundary](https://github.com/ChainSafe/lodestar/pull/9432#pullrequestreview-4415033645) - 2026-06-03
+* [Review] [Review on: fix: use first seen block for payload attestation data](https://github.com/ChainSafe/lodestar/pull/9453#pullrequestreview-4415028205) - 2026-06-03
+* [Pull Request] [chore: implement forkchoice debug endpoint v2](https://github.com/ChainSafe/lodestar/pull/9444) - 2026-06-02
+* [Review] [Review on: chore: implement forkchoice debug endpoint v2](https://github.com/ChainSafe/lodestar/pull/9444#pullrequestreview-4408194524) - 2026-06-02
+* [Pull Request] [test: unskip on_payload_attestation_message forkchoice spec test](https://github.com/ChainSafe/lodestar/pull/9445) - 2026-06-02
+* [Commit] [chore: implement forkchoice debug endpoint v2 (#9444)](https://github.com/ChainSafe/lodestar/commit/2e689b4cc93181a31b655e3497357a4d58617500) - 2026-06-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

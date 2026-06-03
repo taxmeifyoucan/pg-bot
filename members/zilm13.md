@@ -109,6 +109,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Specrefs alpha8 (#10771)](https://github.com/Consensys/teku/commit/d1638408d3cce7480ec41d6e1599b691259617db) - 2026-06-01
 * [Commit] [Reftests alpha8 (#10762)](https://github.com/Consensys/teku/commit/88f3c172138b5528b47c3e60e44bf3e3f3a268ff) - 2026-06-01
 * [Commit] [New alpha.9 spec gossip rules (#10764)](https://github.com/Consensys/teku/commit/4e52b049a195cc174fff0e2df6a16a757f088fa2) - 2026-06-01
+* [Pull Request] [Limit should_build_on_full checks to the previous slot](https://github.com/Consensys/teku/pull/10782) - 2026-06-02
+* [Pull Request] [Introduce is_previous_slot_payload_decision predicate](https://github.com/Consensys/teku/pull/10784) - 2026-06-02
+* [Pull Request] [Apply proposer boost if dependent roots match](https://github.com/Consensys/teku/pull/10783) - 2026-06-02
+* [Review] [Review on: EIP-8045 + bump ref tests to v1.7.0-alpha.9](https://github.com/Consensys/teku/pull/10766#pullrequestreview-4407811557) - 2026-06-02
+* [Commit] [Introduce separate payload availability deadline + make naturalSet/Map only write ordered (#10749)](https://github.com/Consensys/teku/commit/57f5a11c42405c0d016573b78afbcc7df582cc47) - 2026-06-02
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

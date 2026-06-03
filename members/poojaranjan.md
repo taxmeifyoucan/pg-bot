@@ -18,6 +18,9 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Pull Request] [Update EIP-7773: Fix header formatting in eip-7773.md](https://github.com/ethereum/EIPs/pull/11533) - 2026-04-16
 * [Commit] [Update EIP-7773: Fix header formatting in eip-7773.md](https://github.com/ethereum/EIPs/commit/37387102be42ea4e621f1de8b727542d93525486) - 2026-04-16
 * [Review] [Review on: Update EIP-7723: Update eip-7723.md](https://github.com/ethereum/EIPs/pull/11006#pullrequestreview-4259767368) - 2026-05-10
+* [Pull Request] [Update EIP-8133: Move to Review](https://github.com/ethereum/EIPs/pull/11756) - 2026-06-02
+* [Review] [Review on: Update EIP-8133: Move to Review](https://github.com/ethereum/EIPs/pull/11756#pullrequestreview-4412033293) - 2026-06-02
+* [Commit] [Update EIP-8133: Move to Review](https://github.com/ethereum/EIPs/commit/bca0b64daa8d2b56d87d6e79bd27321ff896ce93) - 2026-06-02
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #96, April 07, 2026](https://github.com/ethereum/pm/issues/2007) - 2026-04-07
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #97, April 14, 2026](https://github.com/ethereum/pm/issues/2017) - 2026-04-13

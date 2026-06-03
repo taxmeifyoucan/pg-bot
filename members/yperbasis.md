@@ -567,6 +567,22 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [node/app/workerpool: de-flake TestWaitingQueueSizeRace (#21554)](https://github.com/erigontech/erigon/commit/54bc66315cf7796d9d13ee5f84a4c057cf3da65f) - 2026-06-01
 * [Commit] [docs: remove obsolete E2 walkthrough and dead readthedocs tree (#21534)](https://github.com/erigontech/erigon/commit/2eab9c66bb284e27b76ed7b8181f8b3b60eeb016) - 2026-06-01
 * [Commit] [execution/types: clear AuRa/PoS fields on Header decode to stop hoisted-reuse leak (#21478)](https://github.com/erigontech/erigon/commit/8c792021ba2fbb61071a850d91f0ee58bdbef61d) - 2026-06-01
+* [Pull Request] [ChangeLog: v3.4.3 release notes](https://github.com/erigontech/erigon/pull/21581) - 2026-06-02
+* [Review] [Review on: execution/execmodule: block on semaphore in InsertBlocks, drop chainreader busy-wait](https://github.com/erigontech/erigon/pull/21549#pullrequestreview-4410430284) - 2026-06-02
+* [Review] [Review on: rpctest: implement positional topic invariant in EthGetLogsInvariants](https://github.com/erigontech/erigon/pull/21084#pullrequestreview-4408444503) - 2026-06-02
+* [Review] [Review on: cl: cap req/resp response body size](https://github.com/erigontech/erigon/pull/21562#pullrequestreview-4408686957) - 2026-06-02
+* [Review] [Review on: execution/state: typed-vio refactor (L2 — typed AddressEntry + WriteCell[T] + sync.Pool)](https://github.com/erigontech/erigon/pull/21536#pullrequestreview-4408971698) - 2026-06-02
+* [Review] [Review on: ci(qa): measure disk usage per prune mode with real block sizes](https://github.com/erigontech/erigon/pull/21580#pullrequestreview-4409155894) - 2026-06-02
+* [Review] [Review on: rpc/jsonrpc, execution/commitment: drop transient-collapse siblings from execution witness](https://github.com/erigontech/erigon/pull/21569#pullrequestreview-4408838096) - 2026-06-02
+* [Review] [Review on: execution/state: exclude no-op storage writes from the block access list](https://github.com/erigontech/erigon/pull/21574#pullrequestreview-4408855620) - 2026-06-02
+* [Review] [Review on: ci: drop redundant glamsterdam serial exec leg from kurtosis-assertoor](https://github.com/erigontech/erigon/pull/21572#pullrequestreview-4408884558) - 2026-06-02
+* [Review] [Review on: docs(fundamentals): add Architecture and Database pages [main]](https://github.com/erigontech/erigon/pull/21500#pullrequestreview-4409037502) - 2026-06-02
+* [Review] [Review on: rpc/jsonrpc: keep system address in executionWitness when a tx opcode touches it](https://github.com/erigontech/erigon/pull/21565#pullrequestreview-4408746275) - 2026-06-02
+* [Commit] [node/app/event: fix data race on eventBus.prevQueueSize (#21551)](https://github.com/erigontech/erigon/commit/e7f75c9a700fbcd60b1d1394ec9e109c0cf5cc43) - 2026-06-03
+* [Commit] [ChangeLog: v3.4.3 release notes (#21581)](https://github.com/erigontech/erigon/commit/bae40ed4180bb143b99d94582902f8f6fed64c36) - 2026-06-03
+* [Commit] [cmd/utils/app: process all files passed to import command (#21513)](https://github.com/erigontech/erigon/commit/8c07d531e13c62fd6c36b810365eacdc2c54d12b) - 2026-06-03
+* [Commit] [cl/clstages: recover from panics in stage ActionFunc (#21558)](https://github.com/erigontech/erigon/commit/74fbe0d2ba3014515dc522c1e4258f2af9e39cea) - 2026-06-02
+* [Commit] [p2p/sentry: cap and rate-limit inbound NewBlockHashes per peer (#21557)](https://github.com/erigontech/erigon/commit/cc4105cda64e98c794729a94d8e1380c29e985cf) - 2026-06-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

@@ -225,6 +225,8 @@ Team: Erigon
 * [Pull Request] [execution/state: typed-vio refactor (L2 — typed AddressEntry + WriteCell[T] + sync.Pool)](https://github.com/erigontech/erigon/pull/21536) - 2026-05-31
 * [Commit] [stagedsync/exec3_parallel: re-enable trie warmup on parallel path (#21454)](https://github.com/erigontech/erigon/commit/07d53af1a4d29857d898b4a44df42419cfef6318) - 2026-05-31
 * [Review] [Review on: execution/types: clear AuRa/PoS fields on Header decode to stop hoisted-reuse leak](https://github.com/erigontech/erigon/pull/21478#pullrequestreview-4400484800) - 2026-06-01
+* [Pull Request] [common/dbg: default EXEC3_PARALLEL=true](https://github.com/erigontech/erigon/pull/21591) - 2026-06-02
+* [Pull Request] [execution/state, stagedsync: parallel-exec SD-revival and metamorphic-CREATE2 fixes](https://github.com/erigontech/erigon/pull/21590) - 2026-06-02
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

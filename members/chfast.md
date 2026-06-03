@@ -169,6 +169,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [test: Fix block_reward type to optional<uint64_t>](https://github.com/ipsilon/evmone/pull/1559) - 2026-06-01
 * [Pull Request] [test: Extract shared apply_block from blockchaintest and t8n ](https://github.com/ipsilon/evmone/pull/1558) - 2026-06-01
 * [Commit] [test: Fix block_reward type to optional<uint64_t> (#1559)](https://github.com/ipsilon/evmone/commit/bf6200b5eacec8679be5bf74776ad36dd148a05f) - 2026-06-01
+* [Commit] [test: Extract shared apply_block from blockchaintest and t8n  (#1558)](https://github.com/ipsilon/evmone/commit/e9155acc0afa440782b7b586e6e15205fcc46642) - 2026-06-02
+* [Commit] [test: Match block requests and transaction exceptions in blockchaintest (#1560)](https://github.com/ipsilon/evmone/commit/5ec9c6f9239d5ac383c2d4e10f60a8812a73e443) - 2026-06-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -203,6 +205,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): EIP-4844 point evaluation -G1 and G1 doubling vectors (#2927)](https://github.com/ethereum/execution-specs/commit/4441398db2ef50cebf7fa8af59bbf98c28291114) - 2026-05-28
 * [Pull Request] [feat(tests): add EIP-8024 gas boundary and SWAPN invalid-immediate tests](https://github.com/ethereum/execution-specs/pull/2942) - 2026-05-29
 * [Commit] [feat(tests): add EIP-8024 gas boundary and SWAPN invalid-immediate tests (#2942)](https://github.com/ethereum/execution-specs/commit/d7def91be93d7ca5df7954fa3241bd8940e5f784) - 2026-06-01
+* [Pull Request] [fix(tests): accept tx-level exception for over-budget block (EIP-7778)](https://github.com/ethereum/execution-specs/pull/2949) - 2026-06-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

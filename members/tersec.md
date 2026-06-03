@@ -176,6 +176,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add some focil helpers](https://github.com/status-im/nimbus-eth2/pull/8528#pullrequestreview-4396446095) - 2026-05-31
 * [Pull Request] [avoid pointless copies of KZG cells and proofs during parallel recovery](https://github.com/status-im/nimbus-eth2/pull/8527) - 2026-05-31
 * [Review] [Review on: Implement eip 8045](https://github.com/status-im/nimbus-eth2/pull/8523#pullrequestreview-4406186447) - 2026-06-02
+* [Pull Request] [realign envelope beacon API path with spec changes](https://github.com/status-im/nimbus-eth2/pull/8537) - 2026-06-02
+* [Pull Request] [Revert "use justified rather than fcr for engine API safe block hash"](https://github.com/status-im/nimbus-eth2/pull/8538) - 2026-06-02
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

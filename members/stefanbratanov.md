@@ -92,6 +92,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Optimize onboarding builders at the fork + add BuilderIndexCache (#10729)](https://github.com/Consensys/teku/commit/a3bdf2d0d197b62908653994fcc5815151abf4dd) - 2026-05-29
 * [Pull Request] [Implement EIP-8045 (Exclude slashed validators from proposing)](https://github.com/Consensys/teku/pull/10766) - 2026-05-30
 * [Review] [Review on: Specrefs alpha8](https://github.com/Consensys/teku/pull/10771#pullrequestreview-4402028587) - 2026-06-01
+* [Review] [Review on: EIP-8045 + bump ref tests to v1.7.0-alpha.9](https://github.com/Consensys/teku/pull/10766#pullrequestreview-4410617447) - 2026-06-02
+* [Issue] [Support custom config when running gossip ref tests](https://github.com/Consensys/teku/issues/10781) - 2026-06-02
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

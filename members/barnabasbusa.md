@@ -195,6 +195,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Reconstruct Gloas genesis bid from state.latest_execution_payload_bid](https://github.com/OffchainLabs/prysm/pull/16822) - 2026-05-21
 * [Pull Request] [Return 425 when EL has not yet executed a blinded Gloas envelope](https://github.com/OffchainLabs/prysm/pull/16833) - 2026-05-22
 * [Commit] [Fix Gloas genesis block reconstruction (#16821)](https://github.com/OffchainLabs/prysm/commit/6fc8ac5d316c1463b26f7932bd1560cfbcae7229) - 2026-05-24
+* [Pull Request] [tracing: respect OTEL env vars and set service.instance.id](https://github.com/OffchainLabs/prysm/pull/16882) - 2026-06-02
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112) - 2026-04-08
 

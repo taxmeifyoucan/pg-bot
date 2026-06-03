@@ -56,6 +56,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: fix: correct off-by-one in debug_accountAt transaction index validation](https://github.com/besu-eth/besu/pull/10464#pullrequestreview-4360636978) - 2026-05-26
 * [Review] [Review on: add eth_getTransactionBySenderAndNonce RPC](https://github.com/besu-eth/besu/pull/10501#pullrequestreview-4386798886) - 2026-05-29
 * [Review] [Review on: Add new payload listener](https://github.com/besu-eth/besu/pull/10570#pullrequestreview-4405708372) - 2026-06-02
+* [Review] [Review on: Add new payload listener](https://github.com/besu-eth/besu/pull/10570#pullrequestreview-4414714135) - 2026-06-03
 ## Q1 2026
 
 

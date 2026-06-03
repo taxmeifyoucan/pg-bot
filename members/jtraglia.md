@@ -312,6 +312,17 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update dependency marko to v2.2.3](https://github.com/ethereum/consensus-specs/pull/5315#pullrequestreview-4400656884) - 2026-06-01
 * [Commit] [Bump version to v1.7.0-alpha.10 (#5318)](https://github.com/ethereum/consensus-specs/commit/ec1c01f5f10fb60636a022ae8944c912b6da35f8) - 2026-06-02
 * [Commit] [Fix `is_ancestor` argument types in reconfirmation test (#5313)](https://github.com/ethereum/consensus-specs/commit/6800dba229df968a27ebdb64eaef598b10851131) - 2026-06-01
+* [Pull Request] [Revert "Add PR check which reviews pull requests (#5327)"](https://github.com/ethereum/consensus-specs/pull/5328) - 2026-06-03
+* [Pull Request] [Add PR check which reviews pull requests](https://github.com/ethereum/consensus-specs/pull/5327) - 2026-06-03
+* [Pull Request] [Add review skill](https://github.com/ethereum/consensus-specs/pull/5326) - 2026-06-02
+* [Pull Request] [Add write-specs skill](https://github.com/ethereum/consensus-specs/pull/5325) - 2026-06-02
+* [Review] [Review on: Guard `get_parent_payload_status` at fork boundary](https://github.com/ethereum/consensus-specs/pull/5125#pullrequestreview-4412901684) - 2026-06-02
+* [Pull Request] [Set `deposit_requests_start_index` in `upgrade_to_fulu`](https://github.com/ethereum/consensus-specs/pull/5322) - 2026-06-02
+* [Review] [Review on: Add custom sweep threshold for validators (EIP-8148)](https://github.com/ethereum/consensus-specs/pull/4901#pullrequestreview-4411601316) - 2026-06-02
+* [Commit] [Revert "Add PR check which reviews pull requests (#5327)" (#5328)](https://github.com/ethereum/consensus-specs/commit/d219b9dea4bf7ddd003692800217724f6b5ed1a0) - 2026-06-03
+* [Commit] [Add PR check which reviews pull requests (#5327)](https://github.com/ethereum/consensus-specs/commit/46b7ffa8fd898512bcc08706d1bad902dd1bdf20) - 2026-06-03
+* [Commit] [Add review skill (#5326)](https://github.com/ethereum/consensus-specs/commit/4b70bc493e3d833308d9c88becd4618b882a8c27) - 2026-06-02
+* [Commit] [Add write-specs skill (#5325)](https://github.com/ethereum/consensus-specs/commit/df6bdeee589ce3e0750eac88bd48767296fa8a22) - 2026-06-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 
@@ -327,6 +338,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: Bump spec to v1.7.0-alpha.8](https://github.com/OffchainLabs/prysm/pull/16797#pullrequestreview-4303712836) - 2026-05-16
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #82, June 8, 2026](https://github.com/ethereum/pm/issues/2103) - 2026-06-02
 ## Q1 2026
 
 

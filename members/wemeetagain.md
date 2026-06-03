@@ -141,6 +141,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: ignore PTC attestations for empty assigned slots](https://github.com/ChainSafe/lodestar/pull/9427#pullrequestreview-4396924368) - 2026-05-31
 * [Review] [Review on: fix: limit `shouldBuildOnFull()` checks to the previous slot](https://github.com/ChainSafe/lodestar/pull/9428#pullrequestreview-4396922757) - 2026-05-31
 * [Review] [Review on: chore: fix test current file launch config](https://github.com/ChainSafe/lodestar/pull/9429#pullrequestreview-4396921705) - 2026-05-31
+* [Review] [Review on: chore: implement forkchoice debug endpoint v2](https://github.com/ChainSafe/lodestar/pull/9444#pullrequestreview-4408510706) - 2026-06-02
+* [Review] [Review on: feat: implement EIP-8045 exclude slashed validators from proposing](https://github.com/ChainSafe/lodestar/pull/9422#pullrequestreview-4407916368) - 2026-06-02
+* [Review] [Review on: test: data column sidecar gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9430#pullrequestreview-4410382611) - 2026-06-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 
