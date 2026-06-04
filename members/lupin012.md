@@ -174,6 +174,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: return explicit error when trace_* receives a custom tracer (#21544)](https://github.com/erigontech/erigon/commit/f9404173a6daeb24eebf659f0c173fbbf5227b21) - 2026-06-01
 * [Pull Request] [rpc: implement pending resolver and GetPendingTransactions GraphQL](https://github.com/erigontech/erigon/pull/21593) - 2026-06-02
 * [Pull Request] [rpc:  add withdrawal balance diffs to trace_block and trace_replayBlockTransactions](https://github.com/erigontech/erigon/pull/21592) - 2026-06-02
+* [Pull Request] [QA: update rpc version to 2 13](https://github.com/erigontech/erigon/pull/21612) - 2026-06-03
+* [Commit] [rpctest: implement positional topic invariant in EthGetLogsInvariants (#21084)](https://github.com/erigontech/erigon/commit/0fb0d9278d07d0aa4a03fc1b32dcb7462f6d2d2e) - 2026-06-03
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -218,6 +220,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [mod exp for ots_searchTransactionsAfter test_11.json to be stable on TIP (#568)](https://github.com/erigontech/rpc-tests/commit/fb43f5a456aeb136c78b3fb984984caf9706d0e1) - 2026-05-29
 * [Pull Request] [add_withdrawal_tests_post_shanghai](https://github.com/erigontech/rpc-tests/pull/569) - 2026-06-02
 * [Pull Request] [integration-test: fix algo json compare](https://github.com/erigontech/rpc-tests/pull/570) - 2026-06-02
+* [Commit] [integration: add tests eth_getStorageValues() (#545)](https://github.com/erigontech/rpc-tests/commit/57fc1f128ce5bb82ac3d6882fed26bf16baebb81) - 2026-06-03
+* [Commit] [integration test: debug execution witness for hive (#563)](https://github.com/erigontech/rpc-tests/commit/98ab8e4b8986e9d6b9fd11ffe1bf0883efdd9e93) - 2026-06-03
 ## Q1 2026
 
 

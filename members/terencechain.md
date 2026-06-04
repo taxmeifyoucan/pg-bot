@@ -220,6 +220,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Ignore payload attestations whose block is not at data.slot (#16878)](https://github.com/OffchainLabs/prysm/commit/cec264613ff12ab562df0a54e42f90a3e4dccc1c) - 2026-06-02
 * [Commit] [Reject bids whose slot is not higher than their parent block (#16877)](https://github.com/OffchainLabs/prysm/commit/5361ff5443fce15c2a99f15e5a5a0196ce96fe33) - 2026-06-02
 * [Commit] [Verify BLS sig in the beacon API submission attestation (#16879)](https://github.com/OffchainLabs/prysm/commit/33d07e96e4e97cb33d388592b22d651b23c0208b) - 2026-06-02
+* [Review] [Review on: Fix honest reorg in Gloas](https://github.com/OffchainLabs/prysm/pull/16890#pullrequestreview-4422433264) - 2026-06-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

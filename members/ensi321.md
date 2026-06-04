@@ -94,6 +94,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: pluralize gloas execution payload endpoint paths](https://github.com/ChainSafe/lodestar/pull/9440#pullrequestreview-4404810957) - 2026-06-01
 * [Issue] [Remove `shouldOverrideForkChoiceUpdate` after Gloas is live](https://github.com/ChainSafe/lodestar/issues/9441) - 2026-06-01
 * [Commit] [fix: gate builder bid lookup on shouldBuildOnFull in produceBlockV4 (#9442)](https://github.com/ChainSafe/lodestar/commit/d0a9d4a54703382b1e5bfa0babb108699d40c259) - 2026-06-02
+* [Pull Request] [fix: produce payload attestation for any seen block at slot](https://github.com/ChainSafe/lodestar/pull/9461) - 2026-06-03
+* [Review] [Review on: chore: remove old deposit mechanism in fulu](https://github.com/ChainSafe/lodestar/pull/9459#pullrequestreview-4421686299) - 2026-06-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 
@@ -114,6 +116,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Add IL satisfaction check to `should_build_on_full`](https://github.com/ethereum/consensus-specs/pull/5323) - 2026-06-02
 * [Review] [Review on: Add IL satisfaction check to `should_build_on_full`](https://github.com/ethereum/consensus-specs/pull/5323#pullrequestreview-4414281102) - 2026-06-02
 * [Pull Request] [Simplify `InclusionListStore`](https://github.com/ethereum/consensus-specs/pull/5324) - 2026-06-02
+* [Commit] [Simplify `InclusionListStore` (#5324)](https://github.com/ethereum/consensus-specs/commit/69688695ed9e6c158c53d46fc5edc1689daab533) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
 ## Q1 2026

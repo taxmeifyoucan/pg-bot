@@ -64,6 +64,9 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [progressive hashTreeRoot](https://github.com/OffchainLabs/prysm/pull/16861) - 2026-05-29
 * [Commit] [replicate save state duration metrics and logs for hdiff (#16859)](https://github.com/OffchainLabs/prysm/commit/2b484d49b2bfc35fb59ec3190e95e5af3104af1b) - 2026-05-29
 * [Review] [Review on: Remove invalid string formatter in `GetBlockHeader`](https://github.com/OffchainLabs/prysm/pull/16524#pullrequestreview-4409626012) - 2026-06-02
+* [Pull Request] [builder pending withdrawals progressive ssz](https://github.com/OffchainLabs/prysm/pull/16887) - 2026-06-03
+* [Pull Request] [beacon block body progressive ssz](https://github.com/OffchainLabs/prysm/pull/16886) - 2026-06-03
+* [Pull Request] [progressive withdrawal root and light client changes](https://github.com/OffchainLabs/prysm/pull/16885) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

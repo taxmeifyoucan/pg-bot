@@ -70,6 +70,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Change PR label condition for benchmark job (#11851)](https://github.com/NethermindEth/nethermind/commit/2ad1f669c1e467bea376cb2a7b60581e855dfaaf) - 2026-06-01
 * [Pull Request] [perf(evm): per-thread free-list for EVM memory buffers + skip redundant copy-opcode revalidation](https://github.com/NethermindEth/nethermind/pull/11884) - 2026-06-02
 * [Pull Request] [perf(threading): ManualResetEventSlim for ParallelUnbalancedWork completion signal](https://github.com/NethermindEth/nethermind/pull/11885) - 2026-06-02
+* [Pull Request] [perf(bls): reduce allocations and wasted clears in G2MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11891) - 2026-06-03
+* [Pull Request] [perf(bls): reduce allocations and wasted clears in G1MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11889) - 2026-06-03
+* [Pull Request] [perf(crypto): reuse the RIPEMD-160 digest per thread](https://github.com/NethermindEth/nethermind/pull/11890) - 2026-06-03
+* [Pull Request] [perf(bn254): skip redundant infinity re-scan in pairing loop](https://github.com/NethermindEth/nethermind/pull/11888) - 2026-06-03
+* [Pull Request] [perf(evm): avoid per-CREATE RlpStream allocation in contract-address derivation](https://github.com/NethermindEth/nethermind/pull/11892) - 2026-06-03
+* [Commit] [diag: support periodic dotMemory snapshots via env var (#11843)](https://github.com/NethermindEth/nethermind/commit/4463a91e8dd027a274775e304029705aece0178c) - 2026-06-03
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

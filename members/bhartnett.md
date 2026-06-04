@@ -68,6 +68,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Parallel state root computation disabled by default](https://github.com/status-im/nimbus-eth1/pull/4284) - 2026-06-01
 * [Pull Request] [BAL state prefetching (Batch IO)](https://github.com/status-im/nimbus-eth1/pull/4279) - 2026-06-01
 * [Commit] [Parallel state root computation disabled by default (#4284)](https://github.com/status-im/nimbus-eth1/commit/d2e20ae3389d0dfcd98a9a295b4d326190c89c16) - 2026-06-02
+* [Review] [Review on: Ledger based BAL tracker](https://github.com/status-im/nimbus-eth1/pull/4269#pullrequestreview-4418546045) - 2026-06-03
+* [Commit] [BAL state prefetching (batch IO) (#4279)](https://github.com/status-im/nimbus-eth1/commit/3bce4875f2cc02ad4bc527ad286e38ed2120fb7b) - 2026-06-03
 ## Q1 2026
 
 

@@ -76,6 +76,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [fix(sse): route SingleAttestation to single_attestation event topic](https://github.com/grandinetech/grandine/pull/689) - 2026-05-14
 * [Issue] [SSE `attestation` topic emits `SingleAttestation` payloads](https://github.com/grandinetech/grandine/issues/687) - 2026-05-14
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Review] [Review on: Fix address transaction list missing rows on SQLite (`$N` placeholder ordering)](https://github.com/ethpandaops/dora/pull/722#pullrequestreview-4423863598) - 2026-06-04
 ## Q1 2026
 
 

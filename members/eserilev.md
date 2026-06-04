@@ -120,6 +120,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gloas fix proposer preferences gossip verification](https://github.com/sigp/lighthouse/pull/9337#pullrequestreview-4400012209) - 2026-06-01
 * [Review] [Review on: Bump discv5](https://github.com/sigp/lighthouse/pull/9394#pullrequestreview-4410081126) - 2026-06-02
 * [Pull Request] [Gloas alpha spec 9](https://github.com/sigp/lighthouse/pull/9393) - 2026-06-02
+* [Review] [Review on: Gloas data column reprocess queue](https://github.com/sigp/lighthouse/pull/9339#pullrequestreview-4420094137) - 2026-06-03
+* [Review] [Review on: Remove RequestState trait from lookup sync](https://github.com/sigp/lighthouse/pull/9391#pullrequestreview-4418043770) - 2026-06-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

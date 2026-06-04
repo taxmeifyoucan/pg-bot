@@ -78,6 +78,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl: add per-directory spec maps for Caplin consensus code (#21400)](https://github.com/erigontech/erigon/commit/ea5d24d6c14f50129fc9aa5b449f6a172fe32b04) - 2026-05-28
 * [Review] [Review on: cl/beacon: fix /eth/v1/beacon/blobs returning 500 for historical frozen slots](https://github.com/erigontech/erigon/pull/21434#pullrequestreview-4409185371) - 2026-06-02
 * [Review] [Review on: cl/phase1/stages: fix EL backfill slot/block unit mix](https://github.com/erigontech/erigon/pull/21570#pullrequestreview-4409277686) - 2026-06-02
+* [Review] [Review on: cl/beacon: fix /eth/v1/beacon/blobs returning 500 for historical frozen slots](https://github.com/erigontech/erigon/pull/21434#pullrequestreview-4415600827) - 2026-06-03
+* [Review] [Review on: execution/types, engineapi, cl: avoid RLP re-encode of payload txs](https://github.com/erigontech/erigon/pull/21546#pullrequestreview-4415490233) - 2026-06-03
+* [Pull Request] [cl/antiquary: batch beacon snapshot indexing](https://github.com/erigontech/erigon/pull/21594) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

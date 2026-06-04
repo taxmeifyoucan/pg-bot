@@ -89,11 +89,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Fix epoch processing slowdown caused by per validator interface boxing](https://github.com/OffchainLabs/prysm/pull/16871) - 2026-06-01
 * [Issue] [Print more backfill messages in INFO](https://github.com/OffchainLabs/prysm/issues/16880) - 2026-06-02
 * [Commit] [Update committee cache (#16814)](https://github.com/OffchainLabs/prysm/commit/134e020be1c44223193f6193d8cae8883d661bea) - 2026-06-02
+* [Pull Request] [Backfill: Add info progression](https://github.com/OffchainLabs/prysm/pull/16883) - 2026-06-03
+* [Commit] [Backfill: Add info progression (#16883)](https://github.com/OffchainLabs/prysm/commit/e94d46b8c175530cac4deb5e0b082366ba9fb6be) - 2026-06-03
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Rebase EIP-8025 from Fulu onto Gloas](https://github.com/ethereum/consensus-specs/pull/5290) - 2026-05-26
+* [Commit] [Rebase EIP-8025 from Fulu onto Gloas (#5290)](https://github.com/ethereum/consensus-specs/commit/befb053de679047663b33e424ccdfd66eb934149) - 2026-06-03
 ## Q1 2026
 
 

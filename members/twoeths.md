@@ -191,6 +191,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: implement forkchoice debug endpoint v2](https://github.com/ChainSafe/lodestar/pull/9444#pullrequestreview-4408194524) - 2026-06-02
 * [Pull Request] [test: unskip on_payload_attestation_message forkchoice spec test](https://github.com/ChainSafe/lodestar/pull/9445) - 2026-06-02
 * [Commit] [chore: implement forkchoice debug endpoint v2 (#9444)](https://github.com/ChainSafe/lodestar/commit/2e689b4cc93181a31b655e3497357a4d58617500) - 2026-06-02
+* [Review] [Review on: fix: continue past non-custody column requests in DataColumnSidecarsByRoot](https://github.com/ChainSafe/lodestar/pull/9456#pullrequestreview-4424114204) - 2026-06-04
+* [Pull Request] [fix: return resource_unavailable if requested range is before earliest_available_slot](https://github.com/ChainSafe/lodestar/pull/9454) - 2026-06-03
+* [Review] [Review on: fix: return resource_unavailable if requested range is before earliest_available_slot](https://github.com/ChainSafe/lodestar/pull/9454#pullrequestreview-4424104945) - 2026-06-04
+* [Review] [Review on: fix: produce payload attestation for any seen block at slot](https://github.com/ChainSafe/lodestar/pull/9461#pullrequestreview-4423996127) - 2026-06-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

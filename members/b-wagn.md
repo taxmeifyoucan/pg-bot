@@ -8,6 +8,11 @@ Team: Cryptography (EF)
 
 ## Contributions
 
+## Q2 2026
+
+
+[b-wagn/pg-contrib](https://github.com/b-wagn/pg-contrib)
+* [Commit] [Add extension paper link for FRIDA in README](https://github.com/b-wagn/pg-contrib/commit/58afc931830d87c29e6c52c7693b081b4d605baa) - 2026-06-03
 ## Q1 2026
 
 

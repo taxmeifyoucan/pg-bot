@@ -83,6 +83,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Reject bids whose slot is not higher than their parent block](https://github.com/OffchainLabs/prysm/pull/16877#pullrequestreview-4409840850) - 2026-06-02
 * [Review] [Review on: Verify BLS sig in the beacon API submission attestation](https://github.com/OffchainLabs/prysm/pull/16879#pullrequestreview-4409818924) - 2026-06-02
 * [Review] [Review on: Update committee cache](https://github.com/OffchainLabs/prysm/pull/16814#pullrequestreview-4409551896) - 2026-06-02
+* [Pull Request] [Fix honest reorg in Gloas](https://github.com/OffchainLabs/prysm/pull/16890) - 2026-06-03
+* [Commit] [Forkchoice endpoint (#16862)](https://github.com/OffchainLabs/prysm/commit/68ef7a2a585e4779385c067bc5c653f640e6c5ee) - 2026-06-03
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

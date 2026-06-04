@@ -64,6 +64,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Revert BAL workaround of delegated target in CALL* opcodes](https://github.com/status-im/nimbus-eth1/pull/4257) - 2026-05-20
 * [Pull Request] [Ledger based BAL tracker](https://github.com/status-im/nimbus-eth1/pull/4269) - 2026-05-26
 * [Pull Request] [Test txpool against EEST fixtures](https://github.com/status-im/nimbus-eth1/pull/4281) - 2026-06-01
+* [Review] [Review on: Ledger based BAL tracker](https://github.com/status-im/nimbus-eth1/pull/4269#pullrequestreview-4419131430) - 2026-06-03
+* [Commit] [Test txpool against EEST fixtures (#4281)](https://github.com/status-im/nimbus-eth1/commit/1d0df8c5b9e3d8f95919585d2c7df2e0e017891d) - 2026-06-04
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 

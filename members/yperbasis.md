@@ -583,6 +583,31 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cmd/utils/app: process all files passed to import command (#21513)](https://github.com/erigontech/erigon/commit/8c07d531e13c62fd6c36b810365eacdc2c54d12b) - 2026-06-03
 * [Commit] [cl/clstages: recover from panics in stage ActionFunc (#21558)](https://github.com/erigontech/erigon/commit/74fbe0d2ba3014515dc522c1e4258f2af9e39cea) - 2026-06-02
 * [Commit] [p2p/sentry: cap and rate-limit inbound NewBlockHashes per peer (#21557)](https://github.com/erigontech/erigon/commit/cc4105cda64e98c794729a94d8e1380c29e985cf) - 2026-06-02
+* [Pull Request] [all: remove root ethereum package, move event package to common](https://github.com/erigontech/erigon/pull/21610) - 2026-06-03
+* [Review] [Review on: rpctest: implement positional topic invariant in EthGetLogsInvariants](https://github.com/erigontech/erigon/pull/21084#pullrequestreview-4416505237) - 2026-06-03
+* [Pull Request] [common/race: fix darwin -race crashes from file mmaps in the TSAN heap window](https://github.com/erigontech/erigon/pull/21611) - 2026-06-03
+* [Review] [Review on: common/race: fix darwin -race crashes from file mmaps in the TSAN heap window](https://github.com/erigontech/erigon/pull/21611#pullrequestreview-4422345675) - 2026-06-03
+* [Review] [Review on: execution/state, stagedsync: parallel-exec SD-revival and metamorphic-CREATE2 fixes](https://github.com/erigontech/erigon/pull/21590#pullrequestreview-4416358906) - 2026-06-03
+* [Pull Request] [execution/stagedsync: pre-write tx nonces to drop sender-based scheduling in parallel exec](https://github.com/erigontech/erigon/pull/21605) - 2026-06-03
+* [Pull Request] [ci: retry SonarCloud scan once on transient failure](https://github.com/erigontech/erigon/pull/21604) - 2026-06-03
+* [Pull Request] [p2p/sentry: don't duplicate SendMessageById across shared-store sentries](https://github.com/erigontech/erigon/pull/21597) - 2026-06-03
+* [Review] [Review on: p2p/sentry: don't duplicate SendMessageById across shared-store sentries](https://github.com/erigontech/erigon/pull/21597#pullrequestreview-4417876279) - 2026-06-03
+* [Pull Request] [.claude/skills: add mainnet-tip-ab for A/B testing on real mainnet payloads](https://github.com/erigontech/erigon/pull/21608) - 2026-06-03
+* [Review] [Review on: [perf] execution: optimise getBlobs jsonrpc layer 10X](https://github.com/erigontech/erigon/pull/21606#pullrequestreview-4419033765) - 2026-06-03
+* [Review] [Review on: execution/tests: fix bug where pre-execution validity check was skipped pre-london](https://github.com/erigontech/erigon/pull/21607#pullrequestreview-4419231651) - 2026-06-03
+* [Pull Request] [ci: cache kurtosis infra images and retry engine bootstrap](https://github.com/erigontech/erigon/pull/21602) - 2026-06-03
+* [Review] [Review on: execution: tidy move some bal selfdestruct tests to engine_api_bal_test](https://github.com/erigontech/erigon/pull/21599#pullrequestreview-4418178406) - 2026-06-03
+* [Pull Request] [ci: sanitize hive workspace-log artifact names](https://github.com/erigontech/erigon/pull/21598) - 2026-06-03
+* [Review] [Review on: [r3.4] docs: refresh hardware-requirements disk sizes (Jun 2026)](https://github.com/erigontech/erigon/pull/21585#pullrequestreview-4416576828) - 2026-06-03
+* [Review] [Review on: caplin: fix chain_reorg Server-Sent Event depth underflow and wrong old_head_block](https://github.com/erigontech/erigon/pull/21440#pullrequestreview-4417295449) - 2026-06-03
+* [Issue] [new-payload-with-witness](https://github.com/erigontech/erigon/issues/21601) - 2026-06-03
+* [Issue] [Switch Engine API SSZ to execution-apis#793](https://github.com/erigontech/erigon/issues/21600) - 2026-06-03
+* [Commit] [ci: retry SonarCloud scan once on transient failure (#21604)](https://github.com/erigontech/erigon/commit/830763a853dc98709f4dc28e92fc999903827241) - 2026-06-03
+* [Commit] [p2p/sentry: don't duplicate SendMessageById across shared-store sentries (#21597)](https://github.com/erigontech/erigon/commit/3882a9d55a6b574c19cd0e25c9456d8e088fd9d3) - 2026-06-03
+* [Commit] [Unskip and fix disabled tests (#21455)](https://github.com/erigontech/erigon/commit/0e523643bafcff76aa99b1c61e629fccd52556fb) - 2026-06-03
+* [Commit] [ci: cache kurtosis infra images and retry engine bootstrap (#21602)](https://github.com/erigontech/erigon/commit/222c7947ffd21916cdb85ce4cb6adeb0d8866c39) - 2026-06-03
+* [Commit] [ci: sanitize hive workspace-log artifact names (#21598)](https://github.com/erigontech/erigon/commit/ea6e9f1226c7f937e0516b9f54709504f87a2eca) - 2026-06-03
+* [Commit] [execution/types, engineapi, cl: avoid RLP re-encode of payload txs (#21546)](https://github.com/erigontech/erigon/commit/5c9068ac89401743a8d73219bdfe794a8790d3d3) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
@@ -604,6 +629,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [libhive: optional warm-daemon client pool](https://github.com/ethereum/hive/pull/1449) - 2026-04-25
 * [Pull Request] [simulators/ethereum/engine: bump PayloadProductionClientDelay 1s -> 2s](https://github.com/ethereum/hive/pull/1462) - 2026-05-05
 * [Pull Request] [clients/erigon: import all per-block files in a single process](https://github.com/ethereum/hive/pull/1519) - 2026-05-29
+* [Commit] [clients/erigon: import all per-block files in a single process (#1519)](https://github.com/ethereum/hive/commit/a41c80a8f236dd763080fdaaf0a61675c1e80911) - 2026-06-03
 ## Q1 2026
 
 

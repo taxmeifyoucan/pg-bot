@@ -244,6 +244,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [nightly kurtosis interop assertoor test (#10569)](https://github.com/besu-eth/besu/commit/d41fb82532e59b3f2bbf06d60e5c9c51b6f74396) - 2026-06-01
 * [Pull Request] [nightly kurtosis interop assertoor test: upgrade kurtosis ](https://github.com/besu-eth/besu/pull/10584) - 2026-06-02
 * [Pull Request] [fix PluginVerifier catalog not found when running from IntelliJ](https://github.com/besu-eth/besu/pull/10585) - 2026-06-02
+* [Pull Request] [chore: add changelog rotation script](https://github.com/besu-eth/besu/pull/10592) - 2026-06-04
+* [Pull Request] [chore: rotate changelog for 26.6.0 release](https://github.com/besu-eth/besu/pull/10591) - 2026-06-04
+* [Commit] [chore: rotate changelog for 26.6.0 release (#10591)](https://github.com/besu-eth/besu/commit/f4c41213d38c78adbda07ad60a32dbf2d3df845f) - 2026-06-04
+* [Commit] [fix PluginVerifier catalog not found when running from IntelliJ (#10585)](https://github.com/besu-eth/besu/commit/e3ce84645925ca052828a0088eb3de20b597e695) - 2026-06-03
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

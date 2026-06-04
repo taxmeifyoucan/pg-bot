@@ -248,6 +248,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(state): invoke HintBal from BlockCachePreWarmer to warm BAL slots (#11551)](https://github.com/NethermindEth/nethermind/commit/3bca49355e84d3eba48735fb4cad8c7825a05240) - 2026-05-29
 * [Review] [Review on: chore(ai): Consolidate Claude config](https://github.com/NethermindEth/nethermind/pull/11853#pullrequestreview-4395138313) - 2026-05-30
 * [Commit] [fix: TransientResource disposal leaks and missing pruning in PersistenceManager (#10952)](https://github.com/NethermindEth/nethermind/commit/915815f0e11d38ad17228a023d2c2c13c318693f) - 2026-06-02
+* [Pull Request] [feat(flatdb): RLP-wrap storage slot values behind a versioned flag](https://github.com/NethermindEth/nethermind/pull/11909) - 2026-06-04
+* [Pull Request] [refactor: extract block producer construction into DI-registered factories](https://github.com/NethermindEth/nethermind/pull/11893) - 2026-06-03
+* [Pull Request] [perf(blockchain): header-driven main-chain update to avoid deep-reorg OOM and reprocessing](https://github.com/NethermindEth/nethermind/pull/11894) - 2026-06-03
+* [Review] [Review on: perf(blockchain): header-driven main-chain update to avoid deep-reorg OOM and reprocessing](https://github.com/NethermindEth/nethermind/pull/11894#pullrequestreview-4416633458) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

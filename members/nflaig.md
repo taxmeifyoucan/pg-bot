@@ -305,6 +305,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Fix ethspecify references from alpha.9](https://github.com/ChainSafe/lodestar/issues/9449) - 2026-06-02
 * [Issue] [Investigate why `validate_on_attestation` are failing since alpha.9](https://github.com/ChainSafe/lodestar/issues/9447) - 2026-06-02
 * [Commit] [feat: implement EIP-8045 exclude slashed validators from proposing (#9422)](https://github.com/ChainSafe/lodestar/commit/86fc005b6804d2ba33d257023bd6b269eb4f050c) - 2026-06-02
+* [Pull Request] [chore: remove old deposit mechanism in fulu](https://github.com/ChainSafe/lodestar/pull/9459) - 2026-06-03
+* [Review] [Review on: chore: remove old deposit mechanism in fulu](https://github.com/ChainSafe/lodestar/pull/9459#pullrequestreview-4422730999) - 2026-06-03
+* [Review] [Review on: docs: document targeted spec test commands in AGENTS.md](https://github.com/ChainSafe/lodestar/pull/9460#pullrequestreview-4423197695) - 2026-06-03
+* [Review] [Review on: fix: use first seen block for payload attestation data](https://github.com/ChainSafe/lodestar/pull/9453#pullrequestreview-4416964084) - 2026-06-03
+* [Commit] [fix: use finalized block slot as envelope by range archive boundary (#9432)](https://github.com/ChainSafe/lodestar/commit/c440fa9a2d77740c7e7107766206c5468f07c724) - 2026-06-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -392,6 +397,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Limit `should_build_on_full` checks to the previous slot (#5309)](https://github.com/ethereum/consensus-specs/commit/a1fa5554986e39c31cd11949b2a3a000e1d05088) - 2026-06-01
 * [Commit] [Use `should_build_on_full` for bid parent block hash (#5310)](https://github.com/ethereum/consensus-specs/commit/027fc722651b2d9e69879fa29449e23d603f6a36) - 2026-06-01
 * [Review] [Review on: Add IL satisfaction check to `should_build_on_full`](https://github.com/ethereum/consensus-specs/pull/5323#pullrequestreview-4413947846) - 2026-06-02
+* [Review] [Review on: Do not set `deposit_requests_start_index` in fork helper](https://github.com/ethereum/consensus-specs/pull/5329#pullrequestreview-4421443138) - 2026-06-03
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 

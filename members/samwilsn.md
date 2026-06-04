@@ -25,6 +25,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Add EIP: EIP tagging](https://github.com/ethereum/EIPs/pull/11545#pullrequestreview-4412158681) - 2026-06-02
 * [Review] [Review on: Update EIP-8133: Move to Review](https://github.com/ethereum/EIPs/pull/11756#pullrequestreview-4412019129) - 2026-06-02
 * [Review] [Review on: Update EIP-7701: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/11528#pullrequestreview-4411967459) - 2026-06-02
+* [Pull Request] [Update EIP-7932: hide the template from jekyll](https://github.com/ethereum/EIPs/pull/11761) - 2026-06-03
+* [Review] [Review on: Update EIP-7932: hide the template from jekyll](https://github.com/ethereum/EIPs/pull/11761#pullrequestreview-4421338739) - 2026-06-03
+* [Review] [Review on: Website: Add check to ensure that all EIPs are actually EIPs](https://github.com/ethereum/EIPs/pull/10909#pullrequestreview-4421344700) - 2026-06-03
+* [Commit] [Update EIP-7932: hide the template from jekyll](https://github.com/ethereum/EIPs/commit/96d53ec275b18b23f09eadb4f5c415d1c1e5e5df) - 2026-06-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec): Abstract py-ecc implementation detail from EIP-2537](https://github.com/ethereum/execution-specs/pull/2384#pullrequestreview-4078371779) - 2026-04-08
 * [Pull Request] [chore(tooling,deps): update mypy to 1.20](https://github.com/ethereum/execution-specs/pull/2633) - 2026-04-08
@@ -78,6 +82,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(specs): add final decorator](https://github.com/ethereum/execution-specs/pull/2934) - 2026-05-28
 * [Review] [Review on: docs: fix TransactionEnvironment docstring](https://github.com/ethereum/execution-specs/pull/2936#pullrequestreview-4402714282) - 2026-06-01
 * [Commit] [chore(specs): refactor block reward and fee refunds](https://github.com/ethereum/execution-specs/commit/7df3b8b228faa4762f33ab2a536823a88d7b42da) - 2026-06-01
+* [Pull Request] [chore: bump ethereum-types and ethereum-rlp](https://github.com/ethereum/execution-specs/pull/2952) - 2026-06-03
 ## Q1 2026
 
 

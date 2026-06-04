@@ -78,6 +78,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add EreDB implementation](https://github.com/status-im/nimbus-eth1/pull/4290) - 2026-06-02
 * [Pull Request] [nimbus_history_exporter: Add readme doc](https://github.com/status-im/nimbus-eth1/pull/4288) - 2026-06-02
 * [Commit] [nimbus_history_exporter: Add readme doc (#4288)](https://github.com/status-im/nimbus-eth1/commit/5e73cd3036f5558e45d9f0517b60a77f8a86e548) - 2026-06-02
+* [Pull Request] [nimbus_history_exporter: Add hoodi support](https://github.com/status-im/nimbus-eth1/pull/4294) - 2026-06-03
+* [Review] [Review on: nimbus_history_exporter: Add hoodi support](https://github.com/status-im/nimbus-eth1/pull/4294#pullrequestreview-4422509122) - 2026-06-03
+* [Pull Request] [Make a bunch of UX tweaks to nimbus_history_exporter tool](https://github.com/status-im/nimbus-eth1/pull/4292) - 2026-06-03
+* [Commit] [Make a bunch of UX tweaks to nimbus_history_exporter tool (#4292)](https://github.com/status-im/nimbus-eth1/commit/12ecb5b76518f6283959be65720fe21e4bb08559) - 2026-06-03
+* [Commit] [Add EreDB implementation (#4290)](https://github.com/status-im/nimbus-eth1/commit/db22ed83f8ef43aa89b9ddfc2a8d52ddffb90394) - 2026-06-03
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

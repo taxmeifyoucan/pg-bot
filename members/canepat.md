@@ -33,6 +33,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/erigon: enable graphql](https://github.com/ethereum/hive/pull/1439) - 2026-04-21
 * [Commit] [clients/erigon: enable graphql (#1439)](https://github.com/ethereum/hive/commit/322d44567697b628d60453a234fce4f253e3a79d) - 2026-04-21
+
+[eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
+* [Pull Request] [feat: add Zilkworm execution client variant](https://github.com/eth-act/zkevm-benchmark-workload/pull/291) - 2026-06-03
 ## Q1 2026
 
 

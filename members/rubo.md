@@ -127,6 +127,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: CI - more fixes](https://github.com/NethermindEth/nethermind/pull/11868#pullrequestreview-4402053173) - 2026-06-01
 * [Review] [Review on: CI - more fixes](https://github.com/NethermindEth/nethermind/pull/11868#pullrequestreview-4411193030) - 2026-06-02
 * [Review] [Review on: feat(workflows): update hive tests workflow to support release branches and enhance input descriptions](https://github.com/NethermindEth/nethermind/pull/11877#pullrequestreview-4411430559) - 2026-06-02
+* [Pull Request] [refactor: Introduce a base `WorldState` decorator](https://github.com/NethermindEth/nethermind/pull/11907) - 2026-06-03
+* [Pull Request] [feat(zkevm): Add EEST for stateless execution](https://github.com/NethermindEth/nethermind/pull/11908) - 2026-06-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 * [Review] [Review on: feat(zkevm): prune non scheduled forks in ProtocolFork](https://github.com/ethereum/execution-specs/pull/2926#pullrequestreview-4373692443) - 2026-05-27

@@ -50,6 +50,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Add new payload listener](https://github.com/besu-eth/besu/pull/10570#pullrequestreview-4398017471) - 2026-06-01
 * [Review] [Review on: Add new payload listener](https://github.com/besu-eth/besu/pull/10570#pullrequestreview-4406206482) - 2026-06-02
 * [Review] [Review on: Add new payload listener](https://github.com/besu-eth/besu/pull/10570#pullrequestreview-4406327193) - 2026-06-02
+* [Commit] [Add new payload listener (#10570)](https://github.com/besu-eth/besu/commit/7cef1d89f2770bb493b582de0b96e7babead9e52) - 2026-06-03
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [snap: GetTrieNodes accepts invalid compact-encoded paths instead of rejecting them](https://github.com/ethereum/go-ethereum/issues/34853) - 2026-04-30
 ## Q1 2026

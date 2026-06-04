@@ -232,6 +232,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [claude: stop bare #N point refs and commit/PR attribution (#21579)](https://github.com/erigontech/erigon/commit/cd14dee8b56b67bb01218740ca36ac016dc32f58) - 2026-06-02
 * [Commit] [execution/state: exclude no-op storage writes from the block access list (#21574)](https://github.com/erigontech/erigon/commit/949b992677f281f8709836920ba234054c98e855) - 2026-06-02
 * [Commit] [ci: drop redundant glamsterdam serial exec leg from kurtosis-assertoor (#21572)](https://github.com/erigontech/erigon/commit/ec23b03e93b0827f5a6ac233d6d42db4146031ae) - 2026-06-02
+* [Review] [Review on: execution/stagedsync: pre-write tx nonces to drop sender-based scheduling in parallel exec](https://github.com/erigontech/erigon/pull/21605#pullrequestreview-4418717235) - 2026-06-03
+* [Review] [Review on: ci: retry SonarCloud scan once on transient failure](https://github.com/erigontech/erigon/pull/21604#pullrequestreview-4418669183) - 2026-06-03
+* [Review] [Review on: p2p/sentry: don't duplicate SendMessageById across shared-store sentries](https://github.com/erigontech/erigon/pull/21597#pullrequestreview-4417539326) - 2026-06-03
+* [Pull Request] [[perf] execution: optimise getBlobs jsonrpc layer 10X](https://github.com/erigontech/erigon/pull/21606) - 2026-06-03
+* [Review] [Review on: [perf] execution: optimise getBlobs jsonrpc layer 10X](https://github.com/erigontech/erigon/pull/21606#pullrequestreview-4419153817) - 2026-06-03
+* [Review] [Review on: ci: cache kurtosis infra images and retry engine bootstrap](https://github.com/erigontech/erigon/pull/21602#pullrequestreview-4418363740) - 2026-06-03
+* [Pull Request] [execution: tidy move some bal selfdestruct tests to engine_api_bal_test](https://github.com/erigontech/erigon/pull/21599) - 2026-06-03
+* [Review] [Review on: merge origin/main into performance](https://github.com/erigontech/erigon/pull/21595#pullrequestreview-4416222721) - 2026-06-03
+* [Pull Request] [[DO-NOT-MERGE] glamsterdam-devnet-5](https://github.com/erigontech/erigon/pull/21603) - 2026-06-03
+* [Review] [Review on: ci: sanitize hive workspace-log artifact names](https://github.com/erigontech/erigon/pull/21598#pullrequestreview-4417475762) - 2026-06-03
+* [Commit] [execution: tidy move some bal selfdestruct tests to engine_api_bal_test (#21599)](https://github.com/erigontech/erigon/commit/93f47e15f88c539ac4715917cc0528c89e3662a2) - 2026-06-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

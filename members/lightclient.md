@@ -44,6 +44,7 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: Add EXPIRY_VERIFIER frame for tx expiry](https://github.com/ethereum/EIPs/pull/11662#pullrequestreview-4293006863) - 2026-05-14
 * [Review] [Review on: Add EIP: Upgrade pre-Spurious-Dragon accounts](https://github.com/ethereum/EIPs/pull/11605#pullrequestreview-4333272633) - 2026-05-21
 * [Commit] [Update EIP-8141: add signatures list to outer tx](https://github.com/ethereum/EIPs/commit/fe0940cae2457d8a190471cc57812af96698c125) - 2026-05-22
+* [Review] [Review on: Update EIP-7979: Validation algorithm on blockchain, other editing.](https://github.com/ethereum/EIPs/pull/11744#pullrequestreview-4423238144) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4105687607) - 2026-04-14
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113766865) - 2026-04-15
@@ -55,6 +56,12 @@ Team: Geth
 * [Commit] [eth/catalyst: import new payload if at genesis, regardless of sync status (#32673)](https://github.com/ethereum/go-ethereum/commit/1a2333650a73b81ffaa7114f2c3c1b21617e2e1d) - 2026-05-27
 * [Review] [Review on: internal/era: update to latest ere spec](https://github.com/ethereum/go-ethereum/pull/34896#pullrequestreview-4405577162) - 2026-06-02
 * [Review] [Review on: internal/era: update to latest ere spec](https://github.com/ethereum/go-ethereum/pull/34896#pullrequestreview-4411885145) - 2026-06-02
+
+* [Review] [Review on: core/types: fix length of BlobVersionedHashed can not be zero](https://github.com/ethereum/go-ethereum/pull/35065#pullrequestreview-4423039806) - 2026-06-03
+* [Review] [Review on: cmd/utils: avoid extra newlines when reading era checksums](https://github.com/ethereum/go-ethereum/pull/35104#pullrequestreview-4420608257) - 2026-06-03
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: Display pre-release versions of the docs](https://github.com/ethereum/execution-apis/pull/816#pullrequestreview-4422976578) - 2026-06-03
+* [Review] [Review on: Fix lint warnings](https://github.com/ethereum/execution-apis/pull/815#pullrequestreview-4422934592) - 2026-06-03
 ## Q1 2026
 
 

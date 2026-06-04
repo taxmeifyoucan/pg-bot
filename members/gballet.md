@@ -68,6 +68,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [build, cmd/geth, signer: remove clef](https://github.com/ethereum/go-ethereum/pull/35097) - 2026-06-01
 * [Review] [Review on: p2p/nat: server list contains IPv6 servers](https://github.com/ethereum/go-ethereum/pull/35084#pullrequestreview-4410944659) - 2026-06-02
 * [Review] [Review on: internal/memlimit: respect cgroup memory cap](https://github.com/ethereum/go-ethereum/pull/34947#pullrequestreview-4410070500) - 2026-06-02
+* [Commit] [build, cmd/geth, signer: remove clef (#35097)](https://github.com/ethereum/go-ethereum/commit/f49336459057c19cad2e66ce0ce31c59604bc329) - 2026-06-03
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Review] [Review on: cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575#pullrequestreview-4195917013) - 2026-04-29
 

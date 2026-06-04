@@ -36,6 +36,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [style: reorder import statements to follow Go conventions for better readability and maintainability](https://github.com/ethpandaops/contributoor/commit/59db2238249fbff2720e2fe5476d158fe1142e4f) - 2026-06-02
 * [Commit] [refactor: align to recent xatu changes](https://github.com/ethpandaops/contributoor/commit/07e9fc76028eb61f50f5753c8f56dc60bbf5f6dd) - 2026-06-02
 * [Commit] [Merge pull request #236 from ethpandaops/dependabot/github_actions/actions-8a5c4a6933](https://github.com/ethpandaops/contributoor/commit/a6c7e5194533472729e0228deab260d653bc0ece) - 2026-06-02
+* [Pull Request] [chore(integration-tests): update kurtosis-assertoor-github-action to …](https://github.com/ethpandaops/contributoor/pull/239) - 2026-06-04
+* [Commit] [Merge pull request #239 from ethpandaops/fix/int-tests](https://github.com/ethpandaops/contributoor/commit/224774e56a72b83448579874d6633ee4c30d5397) - 2026-06-04
+* [Commit] [chore(integration-tests): update kurtosis-assertoor-github-action to version 1.0.1 for improved stability and features](https://github.com/ethpandaops/contributoor/commit/d3ff1f64e0ac4e000d606e6dc85313f3dd72b784) - 2026-06-04
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Review] [Review on: consumoor: remove kzg_commitments array from data column sidecar](https://github.com/ethpandaops/xatu/pull/805#pullrequestreview-4072535003) - 2026-04-08
 * [Pull Request] [feat(vector-logs.yaml): ch logs parse kt labels](https://github.com/ethpandaops/xatu/pull/807) - 2026-04-09

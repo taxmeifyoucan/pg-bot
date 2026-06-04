@@ -82,6 +82,8 @@ Team: Geth
 * [Review] [Review on: eth/filters: reject GetLogs range with begin > 0 and end == 0](https://github.com/ethereum/go-ethereum/pull/35070#pullrequestreview-4388473904) - 2026-05-29
 * [Commit] [core, core/txpool, eth: move subscriptions to constructor (#35048)](https://github.com/ethereum/go-ethereum/commit/b71f750916084571af3bf693d3284d86c0656a3f) - 2026-06-01
 * [Review] [Review on: trie: reduce allocations in parallel commit](https://github.com/ethereum/go-ethereum/pull/33904#pullrequestreview-4409852342) - 2026-06-02
+* [Review] [Review on: build, cmd/geth, signer: remove clef](https://github.com/ethereum/go-ethereum/pull/35097#pullrequestreview-4417329921) - 2026-06-03
+* [Review] [Review on: internal/ethapi: default block parameter to latest on state methods](https://github.com/ethereum/go-ethereum/pull/35100#pullrequestreview-4417324452) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

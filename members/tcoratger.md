@@ -245,12 +245,24 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: fix: correct `max_constraint_degree` for `p3-poseidon2-air`](https://github.com/Plonky3/Plonky3/pull/1722#pullrequestreview-4408500559) - 2026-06-02
 * [Review] [Review on: perf: borrow `MMCS` to remove deep copy](https://github.com/Plonky3/Plonky3/pull/1721#pullrequestreview-4408485353) - 2026-06-02
 * [Commit] [fix: require ell_zk >= 3 in HVZK sumcheck (#1727)](https://github.com/Plonky3/Plonky3/commit/3289cdea28dbb9e85fb59e4f3f55b4fdbc09c97d) - 2026-06-02
+* [Pull Request] [fix(params): error instead of panic on infeasible WHIR/FRI params](https://github.com/Plonky3/Plonky3/pull/1737) - 2026-06-03
+* [Pull Request] [feat(lookup): single sampled challenge pair with per-bus domain separation](https://github.com/Plonky3/Plonky3/pull/1736) - 2026-06-03
+* [Pull Request] [fix(fri): reject zero-query instances on both sides](https://github.com/Plonky3/Plonky3/pull/1735) - 2026-06-03
+* [Pull Request] [fix(whir): enforce two missing verifier length checks](https://github.com/Plonky3/Plonky3/pull/1734) - 2026-06-03
+* [Review] [Review on: Couple miscellaneous tweaks](https://github.com/Plonky3/Plonky3/pull/1731#pullrequestreview-4419046644) - 2026-06-03
+* [Review] [Review on: perf: reduce some allocations on WHIR](https://github.com/Plonky3/Plonky3/pull/1729#pullrequestreview-4417850086) - 2026-06-03
+* [Review] [Review on: feat(multi-stark): add crate skeleton with boundary selectors and AIR folder](https://github.com/Plonky3/Plonky3/pull/1700#pullrequestreview-4417478843) - 2026-06-03
+* [Review] [Review on: feat(whir): HVZK sumcheck suffix-binding prover](https://github.com/Plonky3/Plonky3/pull/1665#pullrequestreview-4417439577) - 2026-06-03
+* [Review] [Review on: feat(lookup): single-terminal LogUp aux trace](https://github.com/Plonky3/Plonky3/pull/1628#pullrequestreview-4417365833) - 2026-06-03
+* [Commit] [feat(whir): HVZK sumcheck suffix-binding prover (#1665)](https://github.com/Plonky3/Plonky3/commit/e81bb7ec90da84d237d2c9bfb169cedde6481f9b) - 2026-06-03
+* [Commit] [feat(lookup): single-terminal LogUp aux trace (#1628)](https://github.com/Plonky3/Plonky3/commit/7550b7b8b0fe87b9c2695e48abc9bc14222aa7a3) - 2026-06-03
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05
 * [Issue] [Post-Quantum (PQ) Interop #39, May 13, 2026](https://github.com/ethereum/pm/issues/2055) - 2026-05-13
 * [Issue] [Post-Quantum (PQ) Interop #40, May 20, 2026](https://github.com/ethereum/pm/issues/2065) - 2026-05-20
 * [Issue] [Post-Quantum (PQ) Interop #41, May 27, 2026](https://github.com/ethereum/pm/issues/2081) - 2026-05-27
+* [Issue] [Post-Quantum (PQ) Interop #42, June 3, 2026](https://github.com/ethereum/pm/issues/2104) - 2026-06-03
 ## Q1 2026
 
 

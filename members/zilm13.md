@@ -114,6 +114,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Apply proposer boost if dependent roots match](https://github.com/Consensys/teku/pull/10783) - 2026-06-02
 * [Review] [Review on: EIP-8045 + bump ref tests to v1.7.0-alpha.9](https://github.com/Consensys/teku/pull/10766#pullrequestreview-4407811557) - 2026-06-02
 * [Commit] [Introduce separate payload availability deadline + make naturalSet/Map only write ordered (#10749)](https://github.com/Consensys/teku/commit/57f5a11c42405c0d016573b78afbcc7df582cc47) - 2026-06-02
+* [Review] [Review on: Reduce BlockNodeVariantsIndex lookups](https://github.com/Consensys/teku/pull/10786#pullrequestreview-4419159625) - 2026-06-03
+* [Review] [Review on: Introduce is_previous_slot_payload_decision predicate](https://github.com/Consensys/teku/pull/10784#pullrequestreview-4416586539) - 2026-06-03
+* [Review] [Review on: Apply proposer boost if dependent roots match](https://github.com/Consensys/teku/pull/10783#pullrequestreview-4418097234) - 2026-06-03
+* [Review] [Review on: EIP-8045 + bump ref tests to v1.7.0-alpha.9](https://github.com/Consensys/teku/pull/10766#pullrequestreview-4417029536) - 2026-06-03
+* [Commit] [Limit should_build_on_full checks to the previous slot (#10782)](https://github.com/Consensys/teku/commit/5b4d6874c29b58e84ae1d78ae94d6242a3017660) - 2026-06-03
+* [Commit] [Introduce is_previous_slot_payload_decision predicate (#10784)](https://github.com/Consensys/teku/commit/13aafe309a5a27992c3758456b9f123efc3940b5) - 2026-06-03
+* [Commit] [Apply proposer boost if dependent roots match (#10783)](https://github.com/Consensys/teku/commit/651388cf7ae065d6fb5918e184e9eaf6413301b4) - 2026-06-03
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

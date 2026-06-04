@@ -20,6 +20,7 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 * [Pull Request] [Fix invalid eth/69 BlockRangeUpdate handling](https://github.com/NethermindEth/nethermind/pull/11792) - 2026-05-27
 * [Pull Request] [Fix FlatSnapServer trie node response limit](https://github.com/NethermindEth/nethermind/pull/11809) - 2026-05-28
 * [Commit] [Fix FlatSnapServer trie node response limit (#11809)](https://github.com/NethermindEth/nethermind/commit/175da2d331367cb6d9967b07f0de38c80152148e) - 2026-05-29
+* [Pull Request] [fix(state-test): default SLOTNUM slot to 0 when env omits it (EIP-7843)](https://github.com/NethermindEth/nethermind/pull/11895) - 2026-06-03
 ## Q1 2026
 
 

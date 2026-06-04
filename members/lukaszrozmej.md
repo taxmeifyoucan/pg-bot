@@ -596,6 +596,14 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: EnrTreeParser tests to cover enr: leaves and enrtree:// links](https://github.com/NethermindEth/nethermind/pull/9701#pullrequestreview-4409130432) - 2026-06-02
 * [Issue] [Remove BloomStorage (superseded by log index)](https://github.com/NethermindEth/nethermind/issues/11880) - 2026-06-02
 * [Commit] [Restrict IPC socket to owner-only mode if set (#9449)](https://github.com/NethermindEth/nethermind/commit/decc77a97751a7c90d49ab38653a6c7fa270f156) - 2026-06-02
+* [Review] [Review on: refactor: extract block producer construction into DI-registered factories](https://github.com/NethermindEth/nethermind/pull/11893#pullrequestreview-4418007946) - 2026-06-03
+* [Review] [Review on: refactor(bloomstorage): removed BloomStorage and related dependencies](https://github.com/NethermindEth/nethermind/pull/11906#pullrequestreview-4423205220) - 2026-06-03
+* [Review] [Review on: perf(bal): reduce per-access BAL/state recording overhead on warm reads](https://github.com/NethermindEth/nethermind/pull/11905#pullrequestreview-4419456408) - 2026-06-03
+* [Review] [Review on: test(snap): dispose AccountRangeMessage in snap tests](https://github.com/NethermindEth/nethermind/pull/11244#pullrequestreview-4418050847) - 2026-06-03
+* [Review] [Review on: fix(rpc): drain in-flight JSON-RPC requests before disposing databases](https://github.com/NethermindEth/nethermind/pull/11845#pullrequestreview-4416274644) - 2026-06-03
+* [Review] [Review on: perf: reuse ancestor headers in UnclesValidator](https://github.com/NethermindEth/nethermind/pull/9930#pullrequestreview-4416359115) - 2026-06-03
+* [Review] [Review on: FundsDistributor fix](https://github.com/NethermindEth/nethermind/pull/11886#pullrequestreview-4416464096) - 2026-06-03
+* [Review] [Review on: fix: count committed system tx gas metrics](https://github.com/NethermindEth/nethermind/pull/11815#pullrequestreview-4416149288) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

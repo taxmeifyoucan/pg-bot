@@ -67,6 +67,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Remove redundant path in `get_weight`](https://github.com/ethereum/consensus-specs/pull/5303#pullrequestreview-4387911001) - 2026-05-29
 * [Review] [Review on: Introduce `is_previous_slot_payload_decision` predicate](https://github.com/ethereum/consensus-specs/pull/5317#pullrequestreview-4401033344) - 2026-06-01
 * [Review] [Review on: Remove `should_override_forkchoice_update`](https://github.com/ethereum/consensus-specs/pull/5174#pullrequestreview-4403078472) - 2026-06-01
+* [Review] [Review on: Simplify `InclusionListStore`](https://github.com/ethereum/consensus-specs/pull/5324#pullrequestreview-4419262987) - 2026-06-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

@@ -399,6 +399,8 @@ Team: Reth
 * [Pull Request] [fix(evm): integrate evm2 state handling](https://github.com/paradigmxyz/reth/pull/24790) - 2026-06-03
 * [Review] [Review on: fix(docs): publish Vocs v2 static output](https://github.com/paradigmxyz/reth/pull/24789#pullrequestreview-4414656904) - 2026-06-03
 * [Review] [Review on: chore(cli): log latest re-executed block](https://github.com/paradigmxyz/reth/pull/24785#pullrequestreview-4414099321) - 2026-06-02
+* [Review] [Review on: ci(bench): allow rkrasiuk to trigger PR benches](https://github.com/paradigmxyz/reth/pull/24819#pullrequestreview-4420404548) - 2026-06-03
+* [Review] [Review on: fix(docs): stabilize Vocs builds](https://github.com/paradigmxyz/reth/pull/24812#pullrequestreview-4418989626) - 2026-06-03
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

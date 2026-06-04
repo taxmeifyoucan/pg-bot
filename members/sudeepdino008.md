@@ -238,6 +238,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [batch call fcu along with InsertBlocks in block collector's flush (#21525)](https://github.com/erigontech/erigon/commit/2f172a13aa7f6fcdb2a120ba36f91df8ad897ddb) - 2026-06-01
 * [Review] [Review on: execution/state: typed-vio refactor (L2 — typed AddressEntry + WriteCell[T] + sync.Pool)](https://github.com/erigontech/erigon/pull/21536#pullrequestreview-4407740498) - 2026-06-02
 * [Pull Request] [db/snapshotsync: make index building and opening segments safe with other files building events](https://github.com/erigontech/erigon/pull/21571) - 2026-06-02
+* [Pull Request] [merge origin/main into performance](https://github.com/erigontech/erigon/pull/21595) - 2026-06-03
+* [Pull Request] [db/integrity: move StateProgress check to deprecated](https://github.com/erigontech/erigon/pull/21596) - 2026-06-03
+* [Review] [Review on: [performance-stable] Merge of recent `performance` into `performance-stable`](https://github.com/erigontech/erigon/pull/21320#pullrequestreview-4416746349) - 2026-06-03
 ## Q1 2026
 
 

@@ -115,6 +115,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): EIP-7778 admission gate uses pre-refund gas](https://github.com/ethereum/execution-specs/pull/2932) - 2026-05-28
 * [Review] [Review on: fix(test-tests): Add fork name to cached blob filename to prevent xdist flakes](https://github.com/ethereum/execution-specs/pull/2930#pullrequestreview-4408053527) - 2026-06-02
 * [Review] [Review on: feat(tests): EIP-7928 catch per-tx no-op SSTORE after prior tx write](https://github.com/ethereum/execution-specs/pull/2946#pullrequestreview-4409041108) - 2026-06-02
+* [Review] [Review on: fix(tests): accept tx-level exception for over-budget block (EIP-7778)](https://github.com/ethereum/execution-specs/pull/2949#pullrequestreview-4418631128) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 
@@ -134,6 +135,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [Update EIP-2780: Add missing 7708 log costs for CREATE with endowment](https://github.com/ethereum/EIPs/commit/4b612eec2ef70611bba3e0819d137dcfb9b6cd81) - 2026-05-08
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: clients/ethrex: import block files individually](https://github.com/ethereum/hive/pull/1461#pullrequestreview-4226428886) - 2026-05-05
+* [Review] [Review on: clients/erigon: import all per-block files in a single process](https://github.com/ethereum/hive/pull/1519#pullrequestreview-4416649539) - 2026-06-03
 ## Q1 2026
 
 

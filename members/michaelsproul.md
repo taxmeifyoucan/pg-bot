@@ -114,6 +114,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Delete bogus `InvalidBestNode` error](https://github.com/sigp/lighthouse/pull/9364) - 2026-05-28
 * [Review] [Review on: Reject importing Gloas block until parent's payload is imported](https://github.com/sigp/lighthouse/pull/9382#pullrequestreview-4405493059) - 2026-06-02
 * [Review] [Review on: Make proposer_score_boost non-optional in ChainSpec](https://github.com/sigp/lighthouse/pull/9386#pullrequestreview-4399536008) - 2026-06-01
+* [Review] [Review on: Enable late re-org and re-org interactive tests ](https://github.com/sigp/lighthouse/pull/9405#pullrequestreview-4423522358) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

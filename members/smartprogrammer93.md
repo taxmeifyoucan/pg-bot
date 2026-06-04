@@ -91,6 +91,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: EIP-7928 - followup](https://github.com/NethermindEth/nethermind/pull/11869#pullrequestreview-4401623606) - 2026-06-01
 * [Review] [Review on: Networking - fix flaky test](https://github.com/NethermindEth/nethermind/pull/11870#pullrequestreview-4401630904) - 2026-06-01
 * [Review] [Review on: Recalibrate Unzen zk gas multipliers](https://github.com/NethermindEth/nethermind/pull/11749#pullrequestreview-4409842088) - 2026-06-02
+* [Review] [Review on: Add p256verify zk gas multiplier](https://github.com/NethermindEth/nethermind/pull/11896#pullrequestreview-4417764252) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 

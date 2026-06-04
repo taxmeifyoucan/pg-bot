@@ -68,6 +68,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Limit should_build_on_full checks to the previous slot](https://github.com/Consensys/teku/pull/10782#pullrequestreview-4414718848) - 2026-06-03
 * [Review] [Review on: Add Gloas state builders Beacon API endpoint](https://github.com/Consensys/teku/pull/10765#pullrequestreview-4407342668) - 2026-06-02
 * [Pull Request] [Enable gossip blob sidecar ref-test](https://github.com/Consensys/teku/pull/10780) - 2026-06-02
+* [Review] [Review on: Introduce is_previous_slot_payload_decision predicate](https://github.com/Consensys/teku/pull/10784#pullrequestreview-4415803048) - 2026-06-03
 ## Q1 2026
 
 

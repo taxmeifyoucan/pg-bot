@@ -227,6 +227,8 @@ Team: Erigon
 * [Review] [Review on: execution/types: clear AuRa/PoS fields on Header decode to stop hoisted-reuse leak](https://github.com/erigontech/erigon/pull/21478#pullrequestreview-4400484800) - 2026-06-01
 * [Pull Request] [common/dbg: default EXEC3_PARALLEL=true](https://github.com/erigontech/erigon/pull/21591) - 2026-06-02
 * [Pull Request] [execution/state, stagedsync: parallel-exec SD-revival and metamorphic-CREATE2 fixes](https://github.com/erigontech/erigon/pull/21590) - 2026-06-02
+* [Review] [Review on: execution/state, stagedsync: parallel-exec SD-revival and metamorphic-CREATE2 fixes](https://github.com/erigontech/erigon/pull/21590#pullrequestreview-4421570909) - 2026-06-03
+* [Commit] [execution/state, stagedsync: parallel-exec SD-revival and metamorphic-CREATE2 fixes (#21590)](https://github.com/erigontech/erigon/commit/da0a479b795330c0f8cd7763c5bf0207b0f88f07) - 2026-06-03
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

@@ -48,6 +48,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add some focil helpers](https://github.com/status-im/nimbus-eth2/pull/8528) - 2026-05-31
 * [Pull Request] [add vendor nim-protobuf-serialization at 0.4.0](https://github.com/status-im/nimbus-eth2/pull/8534) - 2026-06-02
 * [Pull Request] [Reconstruction backfiller service](https://github.com/status-im/nimbus-eth2/pull/8533) - 2026-06-02
+* [Pull Request] [add a histogram for data availability](https://github.com/status-im/nimbus-eth2/pull/8541) - 2026-06-03
 ## Q1 2026
 
 

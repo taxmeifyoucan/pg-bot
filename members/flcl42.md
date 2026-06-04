@@ -180,6 +180,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix: EnrTreeParser tests to cover enr: leaves and enrtree:// links](https://github.com/NethermindEth/nethermind/pull/9701#pullrequestreview-4409292574) - 2026-06-02
 * [Commit] [Default slotnum to 0 in tests (#11879)](https://github.com/NethermindEth/nethermind/commit/676f930ea944433858a9f89da1e4d2b20f6364aa) - 2026-06-02
 * [Commit] [Add equality logic; simplify tests (#11747)](https://github.com/NethermindEth/nethermind/commit/2274531b003e30f014ea76be4e9b09c9cb259d07) - 2026-06-02
+* [Review] [Review on: RLP arrays more checks and limits](https://github.com/NethermindEth/nethermind/pull/11901#pullrequestreview-4418536905) - 2026-06-03
+* [Review] [Review on: refactor: extract block producer construction into DI-registered factories](https://github.com/NethermindEth/nethermind/pull/11893#pullrequestreview-4418758819) - 2026-06-03
+* [Review] [Review on: feat(engine): implement Engine API v2 REST+SSZ surface per spec](https://github.com/NethermindEth/nethermind/pull/11887#pullrequestreview-4416895154) - 2026-06-03
+* [Review] [Review on: feat(engine): support targetGasLimit in PayloadAttributesV4](https://github.com/NethermindEth/nethermind/pull/11611#pullrequestreview-4418296313) - 2026-06-03
+* [Review] [Review on: test(snap): dispose AccountRangeMessage in snap tests](https://github.com/NethermindEth/nethermind/pull/11244#pullrequestreview-4416859919) - 2026-06-03
+* [Review] [Review on: diag: support periodic dotMemory snapshots via env var](https://github.com/NethermindEth/nethermind/pull/11843#pullrequestreview-4417129456) - 2026-06-03
+* [Review] [Review on: perf: reuse ancestor headers in UnclesValidator](https://github.com/NethermindEth/nethermind/pull/9930#pullrequestreview-4416673071) - 2026-06-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

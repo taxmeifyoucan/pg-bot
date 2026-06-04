@@ -90,6 +90,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tooling, tests): detect and mark gas-checking tests](https://github.com/ethereum/execution-specs/pull/2906#pullrequestreview-4358126346) - 2026-05-25
 * [Review] [Review on: feat(tests): stateful test filling for benchmark tests](https://github.com/ethereum/execution-specs/pull/2637#pullrequestreview-4360477317) - 2026-05-26
 * [Issue] [Requirement Idea: Snapshot as a Service](https://github.com/ethereum/execution-specs/issues/2916) - 2026-05-26
+* [Review] [Review on: feat(consume direct, tests): add erigon support, also add test to showcase erigon statetest bug](https://github.com/ethereum/execution-specs/pull/2951#pullrequestreview-4421558694) - 2026-06-03
+* [Review] [Review on: feat(test-fill): align `fill-stateful` with `gas-benchmarks` implementation](https://github.com/ethereum/execution-specs/pull/2923#pullrequestreview-4421017658) - 2026-06-03
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

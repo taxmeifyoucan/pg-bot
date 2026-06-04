@@ -92,6 +92,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: kurtosis nightly task: pin ethereum-package](https://github.com/besu-eth/besu/pull/10583#pullrequestreview-4406150441) - 2026-06-02
 * [Pull Request] [Don't error on overflow when incrementing balance](https://github.com/besu-eth/besu/pull/10581) - 2026-06-01
 * [Issue] [Nimbus engine_getBlobsV2 - Error streaming JSON-RPC response](https://github.com/besu-eth/besu/issues/10580) - 2026-06-01
+* [Review] [Review on: chore: rotate changelog for 26.6.0 release](https://github.com/besu-eth/besu/pull/10591#pullrequestreview-4423945206) - 2026-06-04
+* [Issue] [Unsupported Fork during Hoodi Bonsai Full Sync](https://github.com/besu-eth/besu/issues/10589) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

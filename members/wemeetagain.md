@@ -47,6 +47,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: disable gemini auto code review (#382)](https://github.com/ChainSafe/lodestar-z/commit/63e42a4224c09b7c6b241cd802bccbf6b6951a89) - 2026-05-27
 * [Review] [Review on: refactor(bindings): wake only required number of workers](https://github.com/ChainSafe/lodestar-z/pull/383#pullrequestreview-4384336041) - 2026-05-28
 * [Review] [Review on: refactor(bindings): wake only required number of workers](https://github.com/ChainSafe/lodestar-z/pull/383#pullrequestreview-4392647153) - 2026-05-29
+* [Review] [Review on: feat: getSyncCommitteesWitness](https://github.com/ChainSafe/lodestar-z/pull/367#pullrequestreview-4419484998) - 2026-06-03
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -152,6 +153,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Extend light client protocol for Gloas](https://github.com/ethereum/consensus-specs/pull/5178#pullrequestreview-4190391863) - 2026-04-28
 * [Review] [Review on: Use dependent root for proposer preferences](https://github.com/ethereum/consensus-specs/pull/5196#pullrequestreview-4196049815) - 2026-04-29
 * [Commit] [Distinguish absent PTC votes from negative votes (#5180)](https://github.com/ethereum/consensus-specs/commit/ac6a121713e9f4ff61df408667e2a230ef44fcec) - 2026-04-29
+* [Pull Request] [Mandate QUIC as primary transport](https://github.com/ethereum/consensus-specs/pull/5330) - 2026-06-03
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/pull/11760) - 2026-06-03
 ## Q1 2026
 
 

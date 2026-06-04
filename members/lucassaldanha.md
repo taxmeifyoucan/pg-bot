@@ -97,6 +97,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Fix concurrent local ENR custom field updates (#229)](https://github.com/Consensys/discovery/commit/f85f30525e40f9aa2c58698573b3358cd292bae0) - 2026-05-14
 * [Commit] [Created Claude config (#231)](https://github.com/Consensys/discovery/commit/a70b108a6ccc59d1cf15b87dcefa8ff55e4503fb) - 2026-05-13
 * [Review] [Review on: build: Add Java 25 build compatibility](https://github.com/Consensys/discovery/pull/232#pullrequestreview-4294329054) - 2026-05-15
+* [Review] [Review on: fix: resolve HandshakeResend hive test failure](https://github.com/Consensys/discovery/pull/236#pullrequestreview-4424182617) - 2026-06-04
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459) - 2026-04-20
 * [Pull Request] [Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/454) - 2026-04-20
@@ -136,6 +137,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Addressing gaps identified on QUIC implementation (#476)](https://github.com/libp2p/jvm-libp2p/commit/3af227d1bc453cd30eb775860462d917bde1411d) - 2026-05-27
 * [Commit] [Verify message `from` matches signing key (01) (#480)](https://github.com/libp2p/jvm-libp2p/commit/ba322e3a5251c85fe1007c30d85ce89e08179eb7) - 2026-05-27
 * [Review] [Review on: Close cancelled network dials](https://github.com/libp2p/jvm-libp2p/pull/481#pullrequestreview-4386214720) - 2026-05-29
+* [Pull Request] [1.3.1 Release](https://github.com/libp2p/jvm-libp2p/pull/482) - 2026-06-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

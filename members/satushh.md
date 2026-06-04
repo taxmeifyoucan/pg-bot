@@ -65,6 +65,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Ignore payload attestations whose block is not at data.slot](https://github.com/OffchainLabs/prysm/pull/16878#pullrequestreview-4409032945) - 2026-06-02
 * [Pull Request] [Fix TOCTOU in stategen latestAncestor between isFinalizedRoot and FinalizedState](https://github.com/OffchainLabs/prysm/pull/16881) - 2026-06-02
 * [Review] [Review on: Reject bids whose slot is not higher than their parent block](https://github.com/OffchainLabs/prysm/pull/16877#pullrequestreview-4408886202) - 2026-06-02
+* [Pull Request] [[WIP] EIP-8243 prototype](https://github.com/OffchainLabs/prysm/pull/16884) - 2026-06-03
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

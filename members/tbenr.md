@@ -135,6 +135,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: save blocks missing parent execution payload for future processing](https://github.com/Consensys/teku/pull/10753#pullrequestreview-4378905392) - 2026-05-28
 * [Commit] [print empty when head is not FULL (#10761)](https://github.com/Consensys/teku/commit/ffaf39fcea1cc055506e66f278dfb4f5d79445b1) - 2026-05-28
 * [Issue] [Align proposer-reorg FCU handling after consensus-specs#5174](https://github.com/Consensys/teku/issues/10763) - 2026-05-29
+* [Pull Request] [Reduce BlockNodeVariantsIndex lookups](https://github.com/Consensys/teku/pull/10786) - 2026-06-03
+* [Review] [Review on: Limit should_build_on_full checks to the previous slot](https://github.com/Consensys/teku/pull/10782#pullrequestreview-4417224719) - 2026-06-03
+* [Review] [Review on: Introduce is_previous_slot_payload_decision predicate](https://github.com/Consensys/teku/pull/10784#pullrequestreview-4417227185) - 2026-06-03
+* [Review] [Review on: Apply proposer boost if dependent roots match](https://github.com/Consensys/teku/pull/10783#pullrequestreview-4417986860) - 2026-06-03
+* [Commit] [Reduce BlockNodeVariantsIndex lookups (#10786)](https://github.com/Consensys/teku/commit/0288ace3d78a966e504e4e2f5249477af7ea92d1) - 2026-06-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

@@ -323,6 +323,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Add PR check which reviews pull requests (#5327)](https://github.com/ethereum/consensus-specs/commit/46b7ffa8fd898512bcc08706d1bad902dd1bdf20) - 2026-06-03
 * [Commit] [Add review skill (#5326)](https://github.com/ethereum/consensus-specs/commit/4b70bc493e3d833308d9c88becd4618b882a8c27) - 2026-06-02
 * [Commit] [Add write-specs skill (#5325)](https://github.com/ethereum/consensus-specs/commit/df6bdeee589ce3e0750eac88bd48767296fa8a22) - 2026-06-02
+* [Review] [Review on: Add tests for Gloas `on_block` parent payload verification](https://github.com/ethereum/consensus-specs/pull/5321#pullrequestreview-4422137601) - 2026-06-03
+* [Pull Request] [Do not set `deposit_requests_start_index` in fork helper](https://github.com/ethereum/consensus-specs/pull/5329) - 2026-06-03
+* [Review] [Review on: Simplify `InclusionListStore`](https://github.com/ethereum/consensus-specs/pull/5324#pullrequestreview-4419289929) - 2026-06-03
+* [Review] [Review on: Rebase EIP-8025 from Fulu onto Gloas](https://github.com/ethereum/consensus-specs/pull/5290#pullrequestreview-4415629924) - 2026-06-03
+* [Commit] [Do not set `deposit_requests_start_index` in fork helper (#5329)](https://github.com/ethereum/consensus-specs/commit/4f1df00ff567ea1855fb7f37ec23bd324a96703b) - 2026-06-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 
@@ -341,6 +346,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #82, June 8, 2026](https://github.com/ethereum/pm/issues/2103) - 2026-06-02
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: feat: drop legacy eth1 bridge deposits from Fulu onwards (consensus-specs #4704)](https://github.com/ChainSafe/lodestar/pull/9458#pullrequestreview-4421189607) - 2026-06-03
 ## Q1 2026
 
 

@@ -178,6 +178,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Implement eip 8045](https://github.com/status-im/nimbus-eth2/pull/8523#pullrequestreview-4406186447) - 2026-06-02
 * [Pull Request] [realign envelope beacon API path with spec changes](https://github.com/status-im/nimbus-eth2/pull/8537) - 2026-06-02
 * [Pull Request] [Revert "use justified rather than fcr for engine API safe block hash"](https://github.com/status-im/nimbus-eth2/pull/8538) - 2026-06-02
+* [Review] [Review on: complete EMPTY/FULL sibling support in proto_array](https://github.com/status-im/nimbus-eth2/pull/8543#pullrequestreview-4422897083) - 2026-06-03
+* [Pull Request] [avoid redundant KZG column verification](https://github.com/status-im/nimbus-eth2/pull/8542) - 2026-06-03
+* [Review] [Review on: Execution valid for Gloas](https://github.com/status-im/nimbus-eth2/pull/8496#pullrequestreview-4423191556) - 2026-06-03
+* [Review] [Review on: feat(ci): auto-select nix flake target for manual, multibranch, and nightly builds](https://github.com/status-im/nimbus-eth2/pull/8540#pullrequestreview-4422883321) - 2026-06-03
+* [Pull Request] [show block resolved at info level for gossip](https://github.com/status-im/nimbus-eth2/pull/8539) - 2026-06-03
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

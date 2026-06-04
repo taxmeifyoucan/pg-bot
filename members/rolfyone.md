@@ -108,6 +108,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Introduce separate payload availability deadline + make naturalSet/Map only write ordered](https://github.com/Consensys/teku/pull/10749#pullrequestreview-4414315021) - 2026-06-02
 * [Commit] [Add builder statuses filter to state builders endpoint (#10785)](https://github.com/Consensys/teku/commit/75898ab2de98b3c3e795fd721baff15984711e2e) - 2026-06-03
 * [Commit] [Add Gloas state builders Beacon API endpoint (#10765)](https://github.com/Consensys/teku/commit/30c507cd1d6df7704788679952df4b5a3b9839ff) - 2026-06-02
+* [Commit] [Limit pending block pool by retained bytes (#10758)](https://github.com/Consensys/teku/commit/8a077d79d8594041af20ec3ea877f68e560f455f) - 2026-06-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

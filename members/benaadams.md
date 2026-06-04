@@ -290,6 +290,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(hive): fix snap sync nethermind-to-nethermind test](https://github.com/NethermindEth/nethermind/pull/11022#pullrequestreview-4414220420) - 2026-06-02
 * [Review] [Review on: Refactor BAL validation](https://github.com/NethermindEth/nethermind/pull/11878#pullrequestreview-4411679583) - 2026-06-02
 * [Commit] [Fast Eth Transfer (#11804)](https://github.com/NethermindEth/nethermind/commit/44ec93fb14c9c6068c1505d11f62e22ac3615790) - 2026-06-02
+* [Pull Request] [perf(bal): reduce per-access BAL/state recording overhead on warm reads](https://github.com/NethermindEth/nethermind/pull/11905) - 2026-06-03
+* [Review] [Review on: fix(rpc): drain in-flight JSON-RPC requests before disposing databases](https://github.com/NethermindEth/nethermind/pull/11845#pullrequestreview-4417117387) - 2026-06-03
+* [Review] [Review on: fix(state-test): default SLOTNUM slot to 0 when env omits it (EIP-7843)](https://github.com/NethermindEth/nethermind/pull/11895#pullrequestreview-4416998741) - 2026-06-03
+* [Commit] [perf(bal): reduce per-access BAL/state recording overhead on warm reads (#11905)](https://github.com/NethermindEth/nethermind/commit/637bb505d859db64ea0e965f4f2dc0490d6a205d) - 2026-06-03
+* [Commit] [Optimize engine_getPayloadBodiesByHash/ByRange (#11863)](https://github.com/NethermindEth/nethermind/commit/0c8d28a45ab12f036b4f962203c0813a1bb177bc) - 2026-06-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

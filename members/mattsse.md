@@ -542,6 +542,16 @@ Team: Reth
 * [Review] [Review on: fix(docs): deploy Vocs v2 output root](https://github.com/paradigmxyz/reth/pull/24765#pullrequestreview-4408984305) - 2026-06-02
 * [Pull Request] [fix(provider): reject expired recovered blocks](https://github.com/paradigmxyz/reth/pull/24760) - 2026-06-02
 * [Commit] [fix(provider): reject expired recovered blocks (#24760)](https://github.com/paradigmxyz/reth/commit/63598af37bac813a49709bfa54a5cc1516f61a51) - 2026-06-02
+* [Review] [Review on: feat(era): add `ere` group and `DynamicBlockIndex`](https://github.com/paradigmxyz/reth/pull/24791#pullrequestreview-4418656262) - 2026-06-03
+* [Review] [Review on: fix(docs): stabilize Vocs builds](https://github.com/paradigmxyz/reth/pull/24812#pullrequestreview-4419063232) - 2026-06-03
+* [Review] [Review on: fix(rpc): align eth_simulate fork handling](https://github.com/paradigmxyz/reth/pull/24724#pullrequestreview-4418650076) - 2026-06-03
+* [Pull Request] [feat(payload): wire target gas limit attributes](https://github.com/paradigmxyz/reth/pull/24502) - 2026-06-03
+* [Pull Request] [feat(db): allow disabling database metrics](https://github.com/paradigmxyz/reth/pull/24806) - 2026-06-03
+* [Review] [Review on: fix(docs): polish homepage layout](https://github.com/paradigmxyz/reth/pull/24810#pullrequestreview-4417792856) - 2026-06-03
+* [Commit] [feat(payload): wire target gas limit attributes (#24502)](https://github.com/paradigmxyz/reth/commit/cf794dfa04781a2c46f0acae1239e3a0cf5d6ad8) - 2026-06-03
+* [Commit] [feat(db): allow disabling database metrics (#24806)](https://github.com/paradigmxyz/reth/commit/d36006a4de29df459862a84590b47bf33bc5057b) - 2026-06-03
+* [Commit] [feat(rpc): allow disabling rpc metrics (#24803)](https://github.com/paradigmxyz/reth/commit/4a36609e6e405c63149f13c2587b44a45c3281f2) - 2026-06-03
+* [Commit] [feat(payload): make state pre-cache optional (#24670)](https://github.com/paradigmxyz/reth/commit/d34892e35ea5c009389fad642537d7f1146ca7ce) - 2026-06-03
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

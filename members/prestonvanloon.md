@@ -28,6 +28,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [nogo: Add nilaway static analyzer](https://github.com/OffchainLabs/prysm/pull/16848) - 2026-05-27
 * [Review] [Review on: snappy compression for full state snapshots in hdiff](https://github.com/OffchainLabs/prysm/pull/16858#pullrequestreview-4383058504) - 2026-05-28
 * [Review] [Review on: hot state db for state diff](https://github.com/OffchainLabs/prysm/pull/16808#pullrequestreview-4382926889) - 2026-05-28
+* [Pull Request] [Update to Go 1.26](https://github.com/OffchainLabs/prysm/pull/16891) - 2026-06-03
+* [Review] [Review on: Backfill: Add info progression](https://github.com/OffchainLabs/prysm/pull/16883#pullrequestreview-4420685314) - 2026-06-03
+* [Review] [Review on: tracing: respect OTEL env vars and set service.instance.id](https://github.com/OffchainLabs/prysm/pull/16882#pullrequestreview-4420239260) - 2026-06-03
 ## Q1 2026
 
 
