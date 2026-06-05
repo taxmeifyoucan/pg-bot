@@ -44,6 +44,7 @@ Team: Erigon
 * [Review] [Review on: ci: retry transient image-build/registry failures in hive CI gate](https://github.com/erigontech/erigon/pull/21504#pullrequestreview-4390017601) - 2026-05-29
 * [Review] [Review on: QA: update rpcTets version 2.12](https://github.com/erigontech/erigon/pull/21501#pullrequestreview-4396527850) - 2026-05-31
 * [Review] [Review on: ci(qa): measure disk usage per prune mode with real block sizes](https://github.com/erigontech/erigon/pull/21580#pullrequestreview-4409277374) - 2026-06-02
+* [Review] [Review on: QA: update rpc version to 2 13](https://github.com/erigontech/erigon/pull/21612#pullrequestreview-4428131947) - 2026-06-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10
@@ -62,6 +63,7 @@ Team: Erigon
 * [Review] [Review on: integration test: add head field on eth_capabilities](https://github.com/erigontech/rpc-tests/pull/565#pullrequestreview-4354929822) - 2026-05-25
 * [Review] [Review on: integration test: add note eth simulate v1 test 28](https://github.com/erigontech/rpc-tests/pull/566#pullrequestreview-4354928710) - 2026-05-25
 * [Review] [Review on: integration test: ots_searchTransactionsAfter test_11.json to be stable on TIP](https://github.com/erigontech/rpc-tests/pull/568#pullrequestreview-4388009197) - 2026-05-29
+* [Review] [Review on: integration-test: fix algo json compare](https://github.com/erigontech/rpc-tests/pull/570#pullrequestreview-4428228179) - 2026-06-04
 ## Q1 2026
 
 

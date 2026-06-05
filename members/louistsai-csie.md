@@ -120,6 +120,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): BLOCKHASH recency window in state-test runner](https://github.com/ethereum/execution-specs/pull/2943#pullrequestreview-4398690769) - 2026-06-01
 * [Pull Request] [feat(tests,spec): implement eip-8070 sparse blob pool infra](https://github.com/ethereum/execution-specs/pull/2948) - 2026-06-02
 * [Pull Request] [refactor(test-benchmark): update `test_account_access`, add `keccak256` overhead scenario](https://github.com/ethereum/execution-specs/pull/2947) - 2026-06-02
+* [Review] [Review on: chore: bump ethereum-types and ethereum-rlp](https://github.com/ethereum/execution-specs/pull/2952#pullrequestreview-4425407897) - 2026-06-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

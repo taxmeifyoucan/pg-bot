@@ -83,6 +83,15 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat: add support for mibc profiles](https://github.com/NethermindEth/bflat-riscv64/commit/20ddfe6e5f07058c270ee10402ba0501023d387f) - 2026-05-28
 * [Pull Request] [Component: bflat: bump runtime/blobs version to 10.0.0.b22](https://github.com/NethermindEth/bflat-riscv64/pull/27) - 2026-05-29
 * [Commit] [Component: bflat: bump runtime/blobs version to 10.0.0.b22](https://github.com/NethermindEth/bflat-riscv64/commit/c3de4feea7b68e86afcf063b23b651bb3052a7a1) - 2026-05-29
+* [Pull Request] [Performance improvements [4]](https://github.com/NethermindEth/bflat-riscv64/pull/28) - 2026-06-04
+* [Commit] [Component: zkvm_zisk_sim: reserve fixed RAM cell for inline bump pointer](https://github.com/NethermindEth/bflat-riscv64/commit/e47ce02dd94cca2bc0e2c668a9631c53da1578a6) - 2026-06-04
+* [Commit] [Component: rhp: exit cleanly on managed exception throw](https://github.com/NethermindEth/bflat-riscv64/commit/4a73a09fc9ee7ede4fdab16bd12d935c0d8b93af) - 2026-06-04
+* [Commit] [Component: bflat: emit zkVM RyuJIT codegen knobs in optimized builds](https://github.com/NethermindEth/bflat-riscv64/commit/9bb412d7f942b94e0e2b790cacbd94a15752fd90) - 2026-06-04
+* [Commit] [Component: docker_shell: run passed command non-interactively](https://github.com/NethermindEth/bflat-riscv64/commit/72dd2bf676c3c26e9b1a5d9861998c2159b0aebe) - 2026-06-04
+* [Commit] [Component: zkvm_zisk: reserve fixed RAM cell for inline bump pointer](https://github.com/NethermindEth/bflat-riscv64/commit/6e71a593f735eca7a33514500d908c95f5b3b3c3) - 2026-06-04
+* [Commit] [Component: rhp: move RhpNewFast wrapper into pal bump allocator](https://github.com/NethermindEth/bflat-riscv64/commit/8ecc6ccda5e641f3bbbf6759fc1b7f4af5b820f5) - 2026-06-04
+* [Commit] [Component: pal: add tight RhpNewFast fast-path allocator](https://github.com/NethermindEth/bflat-riscv64/commit/8331449da175446b90997f3efa2fec0b8c5799df) - 2026-06-04
+* [Commit] [Component: bflat: bump runtime/blobs version to 10.0.0.b23](https://github.com/NethermindEth/bflat-riscv64/commit/e93c4cf98340b08931e1535d7d2887bd11ef91dc) - 2026-06-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 
@@ -97,6 +106,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Benchmark-related improvements in ZiskGuest / InputGen](https://github.com/NethermindEth/nethermind/pull/11691) - 2026-05-19
 
 * [Review] [Review on: zk-logging](https://github.com/NethermindEth/nethermind/pull/11757#pullrequestreview-4388495844) - 2026-05-29
+* [Pull Request] [Feature/benchmark fixes](https://github.com/NethermindEth/nethermind/pull/11910) - 2026-06-04
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Split code/data properly](https://github.com/NethermindEth/dotnet-riscv/pull/2) - 2026-05-21
 * [Commit] [Update interface dispatch patch](https://github.com/NethermindEth/dotnet-riscv/commit/1ebe8c2c438b9339545e2f3859a4360b46a094aa) - 2026-05-21

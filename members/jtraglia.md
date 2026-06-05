@@ -328,6 +328,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Simplify `InclusionListStore`](https://github.com/ethereum/consensus-specs/pull/5324#pullrequestreview-4419289929) - 2026-06-03
 * [Review] [Review on: Rebase EIP-8025 from Fulu onto Gloas](https://github.com/ethereum/consensus-specs/pull/5290#pullrequestreview-4415629924) - 2026-06-03
 * [Commit] [Do not set `deposit_requests_start_index` in fork helper (#5329)](https://github.com/ethereum/consensus-specs/commit/4f1df00ff567ea1855fb7f37ec23bd324a96703b) - 2026-06-03
+* [Pull Request] [Update tests workflow to upload combined coverage data](https://github.com/ethereum/consensus-specs/pull/5337) - 2026-06-04
+* [Review] [Review on: Fix `payload_timeliness` and `payload_data_availability` comparisons](https://github.com/ethereum/consensus-specs/pull/5331#pullrequestreview-4428682892) - 2026-06-04
+* [Review] [Review on: Clarify `should_extend_payload` semantic](https://github.com/ethereum/consensus-specs/pull/5336#pullrequestreview-4430168370) - 2026-06-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

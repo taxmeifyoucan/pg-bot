@@ -85,6 +85,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Update committee cache](https://github.com/OffchainLabs/prysm/pull/16814#pullrequestreview-4409551896) - 2026-06-02
 * [Pull Request] [Fix honest reorg in Gloas](https://github.com/OffchainLabs/prysm/pull/16890) - 2026-06-03
 * [Commit] [Forkchoice endpoint (#16862)](https://github.com/OffchainLabs/prysm/commit/68ef7a2a585e4779385c067bc5c653f640e6c5ee) - 2026-06-03
+* [Review] [Review on: Fix epoch processing slowdown caused by per validator interface boxing](https://github.com/OffchainLabs/prysm/pull/16871#pullrequestreview-4430890385) - 2026-06-04
+* [Review] [Review on: Fix honest reorg in Gloas](https://github.com/OffchainLabs/prysm/pull/16890#pullrequestreview-4427504515) - 2026-06-04
+* [Commit] [Implement EIP-8045: exclude slashed validators from proposer lookahead. (#16857)](https://github.com/OffchainLabs/prysm/commit/c012c35f7a5b497efceb35acc2f83dff74902a2b) - 2026-06-04
+* [Commit] [Fix honest reorg in Gloas (#16890)](https://github.com/OffchainLabs/prysm/commit/2db8643e5305fca021f57a45bd7d35a8a717dc99) - 2026-06-04
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08
@@ -128,6 +132,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309#pullrequestreview-4389525473) - 2026-05-29
 * [Review] [Review on: Exclude slashed validators from proposing (EIP-8045)](https://github.com/ethereum/consensus-specs/pull/5115#pullrequestreview-4391747321) - 2026-05-29
 * [Commit] [Force the proposer to reorg late payloads (#5210)](https://github.com/ethereum/consensus-specs/commit/268cd2b2a3e365545446f934d8e9f86944d5d28f) - 2026-06-01
+* [Issue] [payload equivocations and PTC timeliness](https://github.com/ethereum/consensus-specs/issues/5333) - 2026-06-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17

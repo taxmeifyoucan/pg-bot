@@ -59,9 +59,12 @@ Team: Geth
 
 * [Review] [Review on: core/types: fix length of BlobVersionedHashed can not be zero](https://github.com/ethereum/go-ethereum/pull/35065#pullrequestreview-4423039806) - 2026-06-03
 * [Review] [Review on: cmd/utils: avoid extra newlines when reading era checksums](https://github.com/ethereum/go-ethereum/pull/35104#pullrequestreview-4420608257) - 2026-06-03
+* [Review] [Review on: core/types: BlobTxSidecar.BlobHashes iterates Blobs while sizing/inde…](https://github.com/ethereum/go-ethereum/pull/35109#pullrequestreview-4429604115) - 2026-06-04
+* [Review] [Review on: rpc: accept Windows reset error in websocket read limit test](https://github.com/ethereum/go-ethereum/pull/34928#pullrequestreview-4429517322) - 2026-06-04
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Display pre-release versions of the docs](https://github.com/ethereum/execution-apis/pull/816#pullrequestreview-4422976578) - 2026-06-03
 * [Review] [Review on: Fix lint warnings](https://github.com/ethereum/execution-apis/pull/815#pullrequestreview-4422934592) - 2026-06-03
+* [Review] [Review on: Fix lint warnings](https://github.com/ethereum/execution-apis/pull/815#pullrequestreview-4429939394) - 2026-06-04
 ## Q1 2026
 
 

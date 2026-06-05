@@ -552,6 +552,8 @@ Team: Reth
 * [Commit] [feat(db): allow disabling database metrics (#24806)](https://github.com/paradigmxyz/reth/commit/d36006a4de29df459862a84590b47bf33bc5057b) - 2026-06-03
 * [Commit] [feat(rpc): allow disabling rpc metrics (#24803)](https://github.com/paradigmxyz/reth/commit/4a36609e6e405c63149f13c2587b44a45c3281f2) - 2026-06-03
 * [Commit] [feat(payload): make state pre-cache optional (#24670)](https://github.com/paradigmxyz/reth/commit/d34892e35ea5c009389fad642537d7f1146ca7ce) - 2026-06-03
+* [Review] [Review on: feat(era): add ere file writer and reader](https://github.com/paradigmxyz/reth/pull/24856#pullrequestreview-4428174272) - 2026-06-04
+* [Review] [Review on: fix(engine): derive SSZ newPayload versioned hashes](https://github.com/paradigmxyz/reth/pull/24850#pullrequestreview-4427997732) - 2026-06-04
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

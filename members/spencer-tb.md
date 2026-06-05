@@ -99,6 +99,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): EIP-4844 point evaluation -G1 and G1 doubling vectors](https://github.com/ethereum/execution-specs/pull/2927#pullrequestreview-4380845895) - 2026-05-28
 * [Review] [Review on: refactor(src,tests): fix spelling error. KECCACK => KECCAK](https://github.com/ethereum/execution-specs/pull/2931#pullrequestreview-4379599942) - 2026-05-28
 * [Review] [Review on: feat(ci): overhaul fixture releases](https://github.com/ethereum/execution-specs/pull/2888#pullrequestreview-4418409631) - 2026-06-03
+* [Pull Request] [chore(test-forks): include sibling BPO forks in `--until` ranges](https://github.com/ethereum/execution-specs/pull/2955) - 2026-06-04
+* [Pull Request] [feat(ci): overhaul fixture releases - benchmark](https://github.com/ethereum/execution-specs/pull/2954) - 2026-06-04
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

@@ -89,6 +89,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: genesis: faster `-race` of big genesis. step2](https://github.com/erigontech/erigon/pull/21475#pullrequestreview-4397436742) - 2026-05-31
 * [Pull Request] [[r3.4] db/state: prune TemporalMemBatch overlay entries past unwindToTxNum (#20625)](https://github.com/erigontech/erigon/pull/21538) - 2026-05-31
 * [Review] [Review on: integrity: align receipt and rcache chunk ranges](https://github.com/erigontech/erigon/pull/20595#pullrequestreview-4408587393) - 2026-06-02
+* [Review] [Review on: docs: refresh RELEASE_INSTRUCTIONS.md for moved files and version vars](https://github.com/erigontech/erigon/pull/21620#pullrequestreview-4429021093) - 2026-06-04
 ## Q1 2026
 
 

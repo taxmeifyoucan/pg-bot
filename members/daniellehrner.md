@@ -101,6 +101,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Add target gas limit to fcu4 to glamsterdam-devnet-4](https://github.com/besu-eth/besu/pull/10564) - 2026-05-28
 * [Review] [Review on: bal-devnet-7 : avoid redundant bytecode copy on the CALL/CALLCODE hot path](https://github.com/besu-eth/besu/pull/10574#pullrequestreview-4390480483) - 2026-05-29
 * [Pull Request] [call tracer streaming](https://github.com/besu-eth/besu/pull/10572) - 2026-05-29
+* [Review] [Review on: Fix: Offload WebSocket serialization to worker thread to prevent EventLoop blocking](https://github.com/besu-eth/besu/pull/10354#pullrequestreview-4426153902) - 2026-06-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

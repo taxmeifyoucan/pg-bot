@@ -70,6 +70,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: vector: ship logs to clickhouse logs-ingest instead of loki](https://github.com/ethpandaops/template-devnets/pull/168#pullrequestreview-4268518279) - 2026-05-12
 * [Pull Request] [inventory: rename ethereum_node_fact_{cl_enr,el_enode} → _discovery_ variants](https://github.com/ethpandaops/template-devnets/pull/169) - 2026-05-19
 * [Commit] [inventory: rename ethereum_node_fact_{cl_enr,el_enode} → _discovery_ variants (#169)](https://github.com/ethpandaops/template-devnets/commit/708da92dd70deb2c8139f6f4acaff36314b1fb96) - 2026-05-21
+* [Pull Request] [telemetry: cut edge logs over to Vector→OTLP, drop Loki](https://github.com/ethpandaops/template-devnets/pull/173) - 2026-06-04
+* [Commit] [telemetry: cut edge logs over to Vector→OTLP, drop Loki (#173)](https://github.com/ethpandaops/template-devnets/commit/c0d6f8333d6dbf7f66a47a864b3445db063dfd75) - 2026-06-04
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Review] [Review on: feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167#pullrequestreview-4232485880) - 2026-05-06
 

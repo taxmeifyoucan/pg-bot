@@ -31,6 +31,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #100, June 02, 2026](https://github.com/ethereum/pm/issues/2080) - 2026-05-26
 * [Issue] [EIPIP Meeting #127, June 03, 2026](https://github.com/ethereum/pm/issues/2086) - 2026-05-27
 * [Pull Request] [Add BPO folder to Network-Upgrade-Archive](https://github.com/ethereum/pm/pull/2096) - 2026-05-29
+* [Issue] [EIPIP Meeting #128, July 08, 2026](https://github.com/ethereum/pm/issues/2106) - 2026-06-04
 ## Q1 2026
 
 

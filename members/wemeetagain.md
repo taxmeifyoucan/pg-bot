@@ -145,6 +145,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: implement forkchoice debug endpoint v2](https://github.com/ChainSafe/lodestar/pull/9444#pullrequestreview-4408510706) - 2026-06-02
 * [Review] [Review on: feat: implement EIP-8045 exclude slashed validators from proposing](https://github.com/ChainSafe/lodestar/pull/9422#pullrequestreview-4407916368) - 2026-06-02
 * [Review] [Review on: test: data column sidecar gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9430#pullrequestreview-4410382611) - 2026-06-02
+* [Pull Request] [chore: remove unused dependencies](https://github.com/ChainSafe/lodestar/pull/9462) - 2026-06-04
+* [Review] [Review on: chore: remove unused dependencies](https://github.com/ChainSafe/lodestar/pull/9462#pullrequestreview-4426961898) - 2026-06-04
+* [Review] [Review on: perf: use custodyColumnsIndex for O(1) custody lookup in column reqresp](https://github.com/ChainSafe/lodestar/pull/9457#pullrequestreview-4427447235) - 2026-06-04
+* [Review] [Review on: chore: remove old deposit mechanism in fulu](https://github.com/ChainSafe/lodestar/pull/9459#pullrequestreview-4425926432) - 2026-06-04
+* [Commit] [chore: remove unused dependencies (#9462)](https://github.com/ChainSafe/lodestar/commit/1557420d0a250cff776227c1f216db95e0b3dea7) - 2026-06-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

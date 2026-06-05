@@ -256,6 +256,18 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat(lookup): single-terminal LogUp aux trace](https://github.com/Plonky3/Plonky3/pull/1628#pullrequestreview-4417365833) - 2026-06-03
 * [Commit] [feat(whir): HVZK sumcheck suffix-binding prover (#1665)](https://github.com/Plonky3/Plonky3/commit/e81bb7ec90da84d237d2c9bfb169cedde6481f9b) - 2026-06-03
 * [Commit] [feat(lookup): single-terminal LogUp aux trace (#1628)](https://github.com/Plonky3/Plonky3/commit/7550b7b8b0fe87b9c2695e48abc9bc14222aa7a3) - 2026-06-03
+* [Pull Request] [whir: hoist ExtensionMmcs out of per-round verify path](https://github.com/Plonky3/Plonky3/pull/1745) - 2026-06-04
+* [Pull Request] [perf(whir): drop redundant leaf clones in fold-query evaluation](https://github.com/Plonky3/Plonky3/pull/1744) - 2026-06-04
+* [Pull Request] [perf(whir): avoid extra allocation in prefix-order commit encoding](https://github.com/Plonky3/Plonky3/pull/1743) - 2026-06-04
+* [Pull Request] [test(whir): pin final-round variable accounting invariant](https://github.com/Plonky3/Plonky3/pull/1742) - 2026-06-04
+* [Pull Request] [fix(whir): error instead of panic on invalid per-round folding schedule](https://github.com/Plonky3/Plonky3/pull/1741) - 2026-06-04
+* [Review] [Review on: sumcheck: type zk handoff and residual claim producer](https://github.com/Plonky3/Plonky3/pull/1732#pullrequestreview-4426651726) - 2026-06-04
+* [Pull Request] [fix(challenger): reject absorb length tags that overflow u8](https://github.com/Plonky3/Plonky3/pull/1738) - 2026-06-04
+* [Review] [Review on: fix: remove dead module and fix `release`-gated integration test](https://github.com/Plonky3/Plonky3/pull/1739#pullrequestreview-4426890918) - 2026-06-04
+* [Commit] [fix(challenger): reject absorb length tags that overflow u8 (#1738)](https://github.com/Plonky3/Plonky3/commit/e631b40d8215d501a18c0d5ef234d8c659286865) - 2026-06-04
+* [Commit] [fix(whir): enforce two missing verifier length checks (#1734)](https://github.com/Plonky3/Plonky3/commit/b7b58df640423af82f97fadf6271bc8f4d1f34f7) - 2026-06-04
+* [Commit] [fix(fri): reject zero-query instances on both sides (#1735)](https://github.com/Plonky3/Plonky3/commit/e170f8eccd00620948dee186c9ac9d553ede30a5) - 2026-06-04
+* [Commit] [fix(params): error instead of panic on infeasible WHIR/FRI params (#1737)](https://github.com/Plonky3/Plonky3/commit/207173a892f88fd535681636c62686c112a5217c) - 2026-06-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

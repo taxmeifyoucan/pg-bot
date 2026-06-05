@@ -59,6 +59,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [[codex] split network split playbooks](https://github.com/ethpandaops/assertoor/pull/185) - 2026-05-21
 * [Commit] [Merge pull request #185 from ethpandaops/codex/split-network-playbooks](https://github.com/ethpandaops/assertoor/commit/0ad56fbef34f1251d22b2eeb85a8a1193b31262d) - 2026-05-21
 * [Commit] [split network split playbooks](https://github.com/ethpandaops/assertoor/commit/b8ef5961913a8b9e81d431387b5c4205cfd59509) - 2026-05-21
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [[codex] Link release workflow to compliance tests](https://github.com/ethereum/consensus-specs/pull/5334) - 2026-06-04
 ## Q1 2026
 
 

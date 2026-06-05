@@ -604,6 +604,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf: reuse ancestor headers in UnclesValidator](https://github.com/NethermindEth/nethermind/pull/9930#pullrequestreview-4416359115) - 2026-06-03
 * [Review] [Review on: FundsDistributor fix](https://github.com/NethermindEth/nethermind/pull/11886#pullrequestreview-4416464096) - 2026-06-03
 * [Review] [Review on: fix: count committed system tx gas metrics](https://github.com/NethermindEth/nethermind/pull/11815#pullrequestreview-4416149288) - 2026-06-03
+* [Review] [Review on: refactor: Introduce a base `WorldState` decorator](https://github.com/NethermindEth/nethermind/pull/11907#pullrequestreview-4426522201) - 2026-06-04
+* [Review] [Review on: fix: add ReadOnlySpan<byte> overload for long BE decode](https://github.com/NethermindEth/nethermind/pull/9826#pullrequestreview-4427324667) - 2026-06-04
+* [Review] [Review on: perf: per-column write buffer caps in WriteBufferAdjuster](https://github.com/NethermindEth/nethermind/pull/10955#pullrequestreview-4426524624) - 2026-06-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

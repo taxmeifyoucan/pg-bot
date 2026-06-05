@@ -14,6 +14,7 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [test(tests-eip-8024): end-of-code stack underflow regression](https://github.com/ethereum/execution-specs/pull/2741) - 2026-04-21
 
+* [Pull Request] [fix(tests): EIP-8037 unmask intrinsic-cap transaction-validity checks](https://github.com/ethereum/execution-specs/pull/2956) - 2026-06-04
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [ci: add fork-author guard to evm-opcode-benchmark-diff workflow](https://github.com/NethermindEth/nethermind/pull/11576) - 2026-05-12
 * [Commit] [ci: add fork-author guard to evm-opcode-benchmark-diff workflow (#11576)](https://github.com/NethermindEth/nethermind/commit/4c8b45d3bf247f0f40c961b9b5d33e3cb4aeb9a2) - 2026-05-12
@@ -21,6 +22,9 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 * [Pull Request] [Fix FlatSnapServer trie node response limit](https://github.com/NethermindEth/nethermind/pull/11809) - 2026-05-28
 * [Commit] [Fix FlatSnapServer trie node response limit (#11809)](https://github.com/NethermindEth/nethermind/commit/175da2d331367cb6d9967b07f0de38c80152148e) - 2026-05-29
 * [Pull Request] [fix(state-test): default SLOTNUM slot to 0 when env omits it (EIP-7843)](https://github.com/NethermindEth/nethermind/pull/11895) - 2026-06-03
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Reject tx whose calldata floor exceeds the gas-limit cap (EIP-8037)](https://github.com/besu-eth/besu/pull/10594) - 2026-06-04
 ## Q1 2026
 
 

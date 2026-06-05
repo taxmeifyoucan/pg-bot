@@ -229,6 +229,7 @@ Team: Erigon
 * [Pull Request] [execution/state, stagedsync: parallel-exec SD-revival and metamorphic-CREATE2 fixes](https://github.com/erigontech/erigon/pull/21590) - 2026-06-02
 * [Review] [Review on: execution/state, stagedsync: parallel-exec SD-revival and metamorphic-CREATE2 fixes](https://github.com/erigontech/erigon/pull/21590#pullrequestreview-4421570909) - 2026-06-03
 * [Commit] [execution/state, stagedsync: parallel-exec SD-revival and metamorphic-CREATE2 fixes (#21590)](https://github.com/erigontech/erigon/commit/da0a479b795330c0f8cd7763c5bf0207b0f88f07) - 2026-06-03
+* [Pull Request] [db/state/execctx: fix AccountsDomain codeHash decode (DeserialiseV3) — correctness](https://github.com/erigontech/erigon/pull/21623) - 2026-06-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

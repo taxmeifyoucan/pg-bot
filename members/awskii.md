@@ -166,6 +166,12 @@ Team: Erigon
 * [Commit] [rpc/jsonrpc, execution/commitment: drop transient-collapse siblings from execution witness (#21569)](https://github.com/erigontech/erigon/commit/842adc021346acb02d894033e690a065b4ad2232) - 2026-06-02
 * [Commit] [cl/phase1/stages: fix EL backfill slot/block unit mix (#21570)](https://github.com/erigontech/erigon/commit/a5a464c8132c10c4559c7a0fc70e2750b2c77e5e) - 2026-06-02
 * [Commit] [rpc/jsonrpc: keep system address in executionWitness when a tx opcode touches it (#21565)](https://github.com/erigontech/erigon/commit/c7e949753beacd5c6901d0fa97519fe12e9e939d) - 2026-06-02
+* [Pull Request] [`debug_executionWitness`: legacy + canonical conformance](https://github.com/erigontech/erigon/pull/21629) - 2026-06-04
+* [Review] [Review on: `debug_executionWitness`: legacy + canonical conformance](https://github.com/erigontech/erigon/pull/21629#pullrequestreview-4432420063) - 2026-06-05
+* [Review] [Review on: execution/commitment: stop cloning bytes at TrieContext.Branch](https://github.com/erigontech/erigon/pull/21524#pullrequestreview-4429852059) - 2026-06-04
+* [Pull Request] [commitment: rebind concurrent-trie metrics, harden CSV/warmup config](https://github.com/erigontech/erigon/pull/21618) - 2026-06-04
+* [Commit] [commitment: rebind concurrent-trie metrics, harden CSV/warmup config (#21618)](https://github.com/erigontech/erigon/commit/a0cee99ed0f1973abe0f4defd8776a67c0655ec5) - 2026-06-04
+* [Commit] [commitment: consolidate scattered config into TrieConfig struct (#20559)](https://github.com/erigontech/erigon/commit/302083507d387128f4f57040ef363ba429bcf5b8) - 2026-06-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

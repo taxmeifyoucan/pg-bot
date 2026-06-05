@@ -243,6 +243,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[DO-NOT-MERGE] glamsterdam-devnet-5](https://github.com/erigontech/erigon/pull/21603) - 2026-06-03
 * [Review] [Review on: ci: sanitize hive workspace-log artifact names](https://github.com/erigontech/erigon/pull/21598#pullrequestreview-4417475762) - 2026-06-03
 * [Commit] [execution: tidy move some bal selfdestruct tests to engine_api_bal_test (#21599)](https://github.com/erigontech/erigon/commit/93f47e15f88c539ac4715917cc0528c89e3662a2) - 2026-06-03
+* [Review] [Review on: execution/execmodule: block on semaphore in InsertBlocks, drop busy-wait + dead Busy paths](https://github.com/erigontech/erigon/pull/21549#pullrequestreview-4432870900) - 2026-06-05
+* [Review] [Review on: `debug_executionWitness`: legacy + canonical conformance](https://github.com/erigontech/erigon/pull/21629#pullrequestreview-4432767421) - 2026-06-05
+* [Pull Request] [[perf] execution: optimise engine_getPayload with max blobs 2.4X](https://github.com/erigontech/erigon/pull/21615) - 2026-06-04
+* [Review] [Review on: [perf] execution: optimise engine_getPayload with max blobs 2.4X](https://github.com/erigontech/erigon/pull/21615#pullrequestreview-4426723583) - 2026-06-04
+* [Review] [Review on: all: remove root ethereum package, move event package to common](https://github.com/erigontech/erigon/pull/21610#pullrequestreview-4425200095) - 2026-06-04
+* [Commit] [[perf] execution: optimise engine_getPayload with max blobs 2.4X (#21615)](https://github.com/erigontech/erigon/commit/d78922b0a260d156627eeb5ca399e6b20546c1b6) - 2026-06-04
+* [Commit] [[perf] execution: optimise getBlobs jsonrpc layer 10X (#21606)](https://github.com/erigontech/erigon/commit/2096c9390ab24d946dcfa5d382e05b8b6a58b7e2) - 2026-06-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

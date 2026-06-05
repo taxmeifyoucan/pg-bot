@@ -57,6 +57,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Make proposer_score_boost non-optional in ChainSpec](https://github.com/sigp/lighthouse/pull/9385) - 2026-06-01
 * [Pull Request] [Use correct slot in custody request](https://github.com/sigp/lighthouse/pull/9380) - 2026-06-01
 * [Pull Request] [Remove `RequestState` trait from block lookup sync](https://github.com/sigp/lighthouse/pull/9399) - 2026-06-02
+* [Pull Request] [Remove unused spec field from AvailableBlock](https://github.com/sigp/lighthouse/pull/9411) - 2026-06-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 

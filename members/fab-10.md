@@ -101,6 +101,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: fix PluginVerifier catalog not found when running from IntelliJ](https://github.com/besu-eth/besu/pull/10585#pullrequestreview-4416433590) - 2026-06-03
 * [Review] [Review on: Reject negative minPeers and maxBlocksBehind in readiness check](https://github.com/besu-eth/besu/pull/10452#pullrequestreview-4417506279) - 2026-06-03
 * [Review] [Review on: Default omitted block parameter to latest on eth state methods](https://github.com/besu-eth/besu/pull/10587#pullrequestreview-4416966086) - 2026-06-03
+* [Review] [Review on: Enrich `/readiness` health endpoint with diagnostic details](https://github.com/besu-eth/besu/pull/10412#pullrequestreview-4429166787) - 2026-06-04
+* [Review] [Review on: Default omitted block parameter to latest on eth state methods](https://github.com/besu-eth/besu/pull/10587#pullrequestreview-4426509281) - 2026-06-04
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

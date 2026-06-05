@@ -81,6 +81,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/beacon: fix /eth/v1/beacon/blobs returning 500 for historical frozen slots](https://github.com/erigontech/erigon/pull/21434#pullrequestreview-4415600827) - 2026-06-03
 * [Review] [Review on: execution/types, engineapi, cl: avoid RLP re-encode of payload txs](https://github.com/erigontech/erigon/pull/21546#pullrequestreview-4415490233) - 2026-06-03
 * [Pull Request] [cl/antiquary: batch beacon snapshot indexing](https://github.com/erigontech/erigon/pull/21594) - 2026-06-03
+* [Pull Request] [cl/beacon: stabilize historical proposer duties](https://github.com/erigontech/erigon/pull/21614) - 2026-06-04
+* [Review] [Review on: cl/beacon: stabilize historical proposer duties](https://github.com/erigontech/erigon/pull/21614#pullrequestreview-4426162162) - 2026-06-04
+* [Commit] [cl/beacon: stabilize historical proposer duties (#21614)](https://github.com/erigontech/erigon/commit/eef92f660c9a581733382f13ebadd28d4e125a5e) - 2026-06-04
+* [Commit] [caplin: fix chain_reorg Server-Sent Event depth underflow and wrong old_head_block (#21440)](https://github.com/erigontech/erigon/commit/cfe582c7ff73be7d45bb4fd5965cab6ebf113f6e) - 2026-06-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

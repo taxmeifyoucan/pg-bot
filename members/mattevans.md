@@ -93,6 +93,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: fix validatator name filter on missed slots](https://github.com/ethpandaops/dora/pull/711#pullrequestreview-4342004964) - 2026-05-22
+* [Review] [Review on: Fix nil-pointer panics on unloaded validators & exclude delegatecall value from internal tx aggregation](https://github.com/ethpandaops/dora/pull/723#pullrequestreview-4432010432) - 2026-06-04
 ## Q1 2026
 
 

@@ -91,6 +91,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Update committee cache (#16814)](https://github.com/OffchainLabs/prysm/commit/134e020be1c44223193f6193d8cae8883d661bea) - 2026-06-02
 * [Pull Request] [Backfill: Add info progression](https://github.com/OffchainLabs/prysm/pull/16883) - 2026-06-03
 * [Commit] [Backfill: Add info progression (#16883)](https://github.com/OffchainLabs/prysm/commit/e94d46b8c175530cac4deb5e0b082366ba9fb6be) - 2026-06-03
+* [Pull Request] [Add `--postpone-shutdown-for-proposals` flag.](https://github.com/OffchainLabs/prysm/pull/16895) - 2026-06-04
+* [Review] [Review on: Add `execution_payload_gossip` event topic support](https://github.com/OffchainLabs/prysm/pull/16893#pullrequestreview-4426186535) - 2026-06-04
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

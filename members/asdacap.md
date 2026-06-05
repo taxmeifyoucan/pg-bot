@@ -252,6 +252,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor: extract block producer construction into DI-registered factories](https://github.com/NethermindEth/nethermind/pull/11893) - 2026-06-03
 * [Pull Request] [perf(blockchain): header-driven main-chain update to avoid deep-reorg OOM and reprocessing](https://github.com/NethermindEth/nethermind/pull/11894) - 2026-06-03
 * [Review] [Review on: perf(blockchain): header-driven main-chain update to avoid deep-reorg OOM and reprocessing](https://github.com/NethermindEth/nethermind/pull/11894#pullrequestreview-4416633458) - 2026-06-03
+* [Review] [Review on: rpc: zero hashes for absent eth_getProof accounts](https://github.com/NethermindEth/nethermind/pull/11912#pullrequestreview-4432413056) - 2026-06-05
+* [Review] [Review on: test: lock trace_callMany gas cap defaults](https://github.com/NethermindEth/nethermind/pull/11897#pullrequestreview-4432410994) - 2026-06-05
+* [Review] [Review on: test: lock debug_traceCall zero-gas semantics](https://github.com/NethermindEth/nethermind/pull/11900#pullrequestreview-4432409854) - 2026-06-05
+* [Review] [Review on: test: lock proof_call gas semantics](https://github.com/NethermindEth/nethermind/pull/11903#pullrequestreview-4432408293) - 2026-06-05
+* [Pull Request] [Improve flat state backend compatibility](https://github.com/NethermindEth/nethermind/pull/11911) - 2026-06-04
+* [Review] [Review on: Improve flat state backend compatibility](https://github.com/NethermindEth/nethermind/pull/11911#pullrequestreview-4427597669) - 2026-06-04
+* [Review] [Review on: feat(flatdb): RLP-wrap storage slot values behind a versioned flag](https://github.com/NethermindEth/nethermind/pull/11909#pullrequestreview-4425124556) - 2026-06-04
+* [Commit] [refactor: extract block producer construction into DI-registered factories (#11893)](https://github.com/NethermindEth/nethermind/commit/f95ffad913e2c5ccd8465ece30be23b16c21f482) - 2026-06-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

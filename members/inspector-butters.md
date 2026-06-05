@@ -67,6 +67,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [builder pending withdrawals progressive ssz](https://github.com/OffchainLabs/prysm/pull/16887) - 2026-06-03
 * [Pull Request] [beacon block body progressive ssz](https://github.com/OffchainLabs/prysm/pull/16886) - 2026-06-03
 * [Pull Request] [progressive withdrawal root and light client changes](https://github.com/OffchainLabs/prysm/pull/16885) - 2026-06-03
+* [Pull Request] [7688 spec tests](https://github.com/OffchainLabs/prysm/pull/16897) - 2026-06-04
+* [Pull Request] [builders progressive](https://github.com/OffchainLabs/prysm/pull/16896) - 2026-06-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

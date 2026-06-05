@@ -187,6 +187,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: test(snap): dispose AccountRangeMessage in snap tests](https://github.com/NethermindEth/nethermind/pull/11244#pullrequestreview-4416859919) - 2026-06-03
 * [Review] [Review on: diag: support periodic dotMemory snapshots via env var](https://github.com/NethermindEth/nethermind/pull/11843#pullrequestreview-4417129456) - 2026-06-03
 * [Review] [Review on: perf: reuse ancestor headers in UnclesValidator](https://github.com/NethermindEth/nethermind/pull/9930#pullrequestreview-4416673071) - 2026-06-03
+* [Review] [Review on: refactor: Introduce a base `WorldState` decorator](https://github.com/NethermindEth/nethermind/pull/11907#pullrequestreview-4426533239) - 2026-06-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 
@@ -198,6 +199,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4179442515) - 2026-04-27
+* [Review] [Review on: engine: add Rest-SSZ spec](https://github.com/ethereum/execution-apis/pull/793#pullrequestreview-4426265535) - 2026-06-04
 ## Q1 2026
 
 

@@ -183,6 +183,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Execution valid for Gloas](https://github.com/status-im/nimbus-eth2/pull/8496#pullrequestreview-4423191556) - 2026-06-03
 * [Review] [Review on: feat(ci): auto-select nix flake target for manual, multibranch, and nightly builds](https://github.com/status-im/nimbus-eth2/pull/8540#pullrequestreview-4422883321) - 2026-06-03
 * [Pull Request] [show block resolved at info level for gossip](https://github.com/status-im/nimbus-eth2/pull/8539) - 2026-06-03
+* [Review] [Review on: remove eth1 deposit bridge in Fulu](https://github.com/status-im/nimbus-eth2/pull/8549#pullrequestreview-4432434916) - 2026-06-05
+* [Pull Request] [rm redundant (spec/forks includes them) spec/datatypes imports](https://github.com/status-im/nimbus-eth2/pull/8550) - 2026-06-05
+* [Review] [Review on: Execution valid for Gloas](https://github.com/status-im/nimbus-eth2/pull/8496#pullrequestreview-4426118278) - 2026-06-04
+* [Review] [Review on: route and validate gloas attestation votes in fork choice](https://github.com/status-im/nimbus-eth2/pull/8544#pullrequestreview-4426409563) - 2026-06-04
+* [Review] [Review on: complete EMPTY/FULL sibling support in proto_array](https://github.com/status-im/nimbus-eth2/pull/8543#pullrequestreview-4429464904) - 2026-06-04
+* [Pull Request] [use v1.7.0-alpha.10 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8548) - 2026-06-04
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -204,6 +210,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Revert "lto: set based on compiler"](https://github.com/status-im/nimbus-eth1/pull/4277) - 2026-05-30
 * [Commit] [Revert "lto: set based on compiler (#4071)" (#4277)](https://github.com/status-im/nimbus-eth1/commit/128bba02367ba97af5e3638059602ad292c220db) - 2026-05-30
 * [Review] [Review on: nix: use TMPDIR for cache locations](https://github.com/status-im/nimbus-eth1/pull/4282#pullrequestreview-4405563272) - 2026-06-02
+* [Pull Request] [disable LTO on Windows](https://github.com/status-im/nimbus-eth1/pull/4305) - 2026-06-04
+* [Commit] [disable LTO on Windows (#4305)](https://github.com/status-im/nimbus-eth1/commit/3cff274547b0897ebe1035786c49a78d448c83be) - 2026-06-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27

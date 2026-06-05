@@ -92,11 +92,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Networking - fix flaky test](https://github.com/NethermindEth/nethermind/pull/11870#pullrequestreview-4401630904) - 2026-06-01
 * [Review] [Review on: Recalibrate Unzen zk gas multipliers](https://github.com/NethermindEth/nethermind/pull/11749#pullrequestreview-4409842088) - 2026-06-02
 * [Review] [Review on: Add p256verify zk gas multiplier](https://github.com/NethermindEth/nethermind/pull/11896#pullrequestreview-4417764252) - 2026-06-03
+* [Review] [Review on: fix: add ReadOnlySpan<byte> overload for long BE decode](https://github.com/NethermindEth/nethermind/pull/9826#pullrequestreview-4427664990) - 2026-06-04
+* [Review] [Review on: Apply Unzen zk gas spec updates](https://github.com/NethermindEth/nethermind/pull/11896#pullrequestreview-4425792519) - 2026-06-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients: read depositContractAddress from genesis](https://github.com/ethereum/hive/pull/1507) - 2026-05-25
+* [Commit] [clients, cmd/hivechain: Source depositContractAddress from HIVE_DEPOSIT_CONTRACT_ADDRESS (#1507)](https://github.com/ethereum/hive/commit/93b5a2815cf0efbce5235551d1920f44e849d33d) - 2026-06-04
 ## Q1 2026
 
 

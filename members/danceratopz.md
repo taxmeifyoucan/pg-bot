@@ -116,6 +116,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-tests): Add fork name to cached blob filename to prevent xdist flakes](https://github.com/ethereum/execution-specs/pull/2930#pullrequestreview-4408053527) - 2026-06-02
 * [Review] [Review on: feat(tests): EIP-7928 catch per-tx no-op SSTORE after prior tx write](https://github.com/ethereum/execution-specs/pull/2946#pullrequestreview-4409041108) - 2026-06-02
 * [Review] [Review on: fix(tests): accept tx-level exception for over-budget block (EIP-7778)](https://github.com/ethereum/execution-specs/pull/2949#pullrequestreview-4418631128) - 2026-06-03
+* [Review] [Review on: chore: bump ethereum-types and ethereum-rlp](https://github.com/ethereum/execution-specs/pull/2952#pullrequestreview-4425564514) - 2026-06-04
+* [Issue] [Add `fill` flag to explicitly specify the output fixture formats ](https://github.com/ethereum/execution-specs/issues/2959) - 2026-06-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 

@@ -37,6 +37,9 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #60 from pvecchiarelli/main](https://github.com/protocolguild/protocol-guild-site/commit/31e5b8e60f1b4d35f0e2401993bd53ed9ec74588) - 2026-05-28
 * [Commit] [Create Megapot Blog post](https://github.com/protocolguild/protocol-guild-site/commit/df57ab4a1795820cec16caa36114e59592ffe364) - 2026-05-28
 * [Commit] [Add megapot blog cover](https://github.com/protocolguild/protocol-guild-site/commit/34974b1c2827fe5dbf17baa651152b02d0a249ce) - 2026-05-28
+* [Pull Request] [Create 20260604-Q2-quarterly-audit.md](https://github.com/protocolguild/protocol-guild-site/pull/64) - 2026-06-04
+* [Commit] [Merge pull request #64 from pvecchiarelli/main](https://github.com/protocolguild/protocol-guild-site/commit/59c9038c2a7f685320d5fd0f67c7e396eec50ccf) - 2026-06-04
+* [Commit] [Create 20260604-Q2-quarterly-audit.md](https://github.com/protocolguild/protocol-guild-site/commit/2b764a1a4cbbe9a142e278b54fe293969899addf) - 2026-06-04
 ## Q1 2026
 
 

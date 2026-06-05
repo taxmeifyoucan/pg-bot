@@ -48,6 +48,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Gloas range sync](https://github.com/sigp/lighthouse/pull/9362#pullrequestreview-4413265373) - 2026-06-02
 * [Issue] [Add gloas range sync tests for block verification](https://github.com/sigp/lighthouse/issues/9400) - 2026-06-03
 * [Review] [Review on: Regression test for range sync CGC race condition](https://github.com/sigp/lighthouse/pull/8039#pullrequestreview-4423595075) - 2026-06-03
+* [Review] [Review on: Ensure PTC votes accurately reflect data availability](https://github.com/sigp/lighthouse/pull/9412#pullrequestreview-4432157283) - 2026-06-04
+* [Pull Request] [Improve error types for envelopes](https://github.com/sigp/lighthouse/pull/9414) - 2026-06-04
+* [Review] [Review on: Improve error types for envelopes](https://github.com/sigp/lighthouse/pull/9414#pullrequestreview-4432015721) - 2026-06-04
+* [Review] [Review on: Remove unused spec field from AvailableBlock](https://github.com/sigp/lighthouse/pull/9411#pullrequestreview-4430548189) - 2026-06-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4100433052) - 2026-04-13

@@ -66,6 +66,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Fix TOCTOU in stategen latestAncestor between isFinalizedRoot and FinalizedState](https://github.com/OffchainLabs/prysm/pull/16881) - 2026-06-02
 * [Review] [Review on: Reject bids whose slot is not higher than their parent block](https://github.com/OffchainLabs/prysm/pull/16877#pullrequestreview-4408886202) - 2026-06-02
 * [Pull Request] [[WIP] EIP-8243 prototype](https://github.com/OffchainLabs/prysm/pull/16884) - 2026-06-03
+* [Review] [Review on: Update to Go 1.26](https://github.com/OffchainLabs/prysm/pull/16891#pullrequestreview-4429154657) - 2026-06-04
+* [Pull Request] [Fix data race on the shared err variable in beacon-api validator client's dutiesForEpoch](https://github.com/OffchainLabs/prysm/pull/16900) - 2026-06-04
+* [Review] [Review on: Fix TOCTOU in stategen latestAncestor between isFinalizedRoot and FinalizedState](https://github.com/OffchainLabs/prysm/pull/16881#pullrequestreview-4426900923) - 2026-06-04
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

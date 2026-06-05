@@ -241,6 +241,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [merge origin/main into performance](https://github.com/erigontech/erigon/pull/21595) - 2026-06-03
 * [Pull Request] [db/integrity: move StateProgress check to deprecated](https://github.com/erigontech/erigon/pull/21596) - 2026-06-03
 * [Review] [Review on: [performance-stable] Merge of recent `performance` into `performance-stable`](https://github.com/erigontech/erigon/pull/21320#pullrequestreview-4416746349) - 2026-06-03
+* [Pull Request] [seg, db/state, btindex: speed up domain snapshot merge compression 8.5x](https://github.com/erigontech/erigon/pull/21625) - 2026-06-04
+* [Pull Request] [db/state: persist domain file cache across rotxs, survive merges](https://github.com/erigontech/erigon/pull/21627) - 2026-06-04
+* [Pull Request] [db/recsplit: make IndexReader stateless](https://github.com/erigontech/erigon/pull/21622) - 2026-06-04
+* [Review] [Review on: db/recsplit: make IndexReader stateless](https://github.com/erigontech/erigon/pull/21622#pullrequestreview-4429404509) - 2026-06-04
+* [Pull Request] [db/recsplit: speed up index lookups](https://github.com/erigontech/erigon/pull/21619) - 2026-06-04
+* [Pull Request] [db/recsplit: make IndexReader stateless](https://github.com/erigontech/erigon/pull/21621) - 2026-06-04
+* [Issue] [patricia: Insert loses an existing key when its proper prefix is inserted later](https://github.com/erigontech/erigon/issues/21626) - 2026-06-04
+* [Issue] [index reader: next steps](https://github.com/erigontech/erigon/issues/21624) - 2026-06-04
+* [Issue] [seg: SamplingFactor>1 builds the pattern dictionary from the first 16MB only](https://github.com/erigontech/erigon/issues/21628) - 2026-06-04
 ## Q1 2026
 
 

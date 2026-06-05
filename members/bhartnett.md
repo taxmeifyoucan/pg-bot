@@ -70,6 +70,12 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Parallel state root computation disabled by default (#4284)](https://github.com/status-im/nimbus-eth1/commit/d2e20ae3389d0dfcd98a9a295b4d326190c89c16) - 2026-06-02
 * [Review] [Review on: Ledger based BAL tracker](https://github.com/status-im/nimbus-eth1/pull/4269#pullrequestreview-4418546045) - 2026-06-03
 * [Commit] [BAL state prefetching (batch IO) (#4279)](https://github.com/status-im/nimbus-eth1/commit/3bce4875f2cc02ad4bc527ad286e38ed2120fb7b) - 2026-06-03
+* [Pull Request] [Decouple BAL tracking in EVM from Amsterdam fork](https://github.com/status-im/nimbus-eth1/pull/4302) - 2026-06-04
+* [Pull Request] [Don't load code for delegation when the address is a precompile](https://github.com/status-im/nimbus-eth1/pull/4299) - 2026-06-04
+* [Pull Request] [Skip empty account check in ledger addBalance post merge](https://github.com/status-im/nimbus-eth1/pull/4298) - 2026-06-04
+* [Review] [Review on: Ledger based BAL tracker](https://github.com/status-im/nimbus-eth1/pull/4269#pullrequestreview-4424677065) - 2026-06-04
+* [Commit] [Decouple BAL tracking in EVM from Amsterdam fork (#4302)](https://github.com/status-im/nimbus-eth1/commit/4d7ff1d2dd410376b8780ce398fae3f1103be372) - 2026-06-04
+* [Commit] [Skip empty account check in ledger addBalance post merge (#4298)](https://github.com/status-im/nimbus-eth1/commit/5b5f2675833e9c8ce1ce2e2325f25bbaa3e34676) - 2026-06-04
 ## Q1 2026
 
 

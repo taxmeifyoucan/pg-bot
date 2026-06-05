@@ -608,6 +608,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: cache kurtosis infra images and retry engine bootstrap (#21602)](https://github.com/erigontech/erigon/commit/222c7947ffd21916cdb85ce4cb6adeb0d8866c39) - 2026-06-03
 * [Commit] [ci: sanitize hive workspace-log artifact names (#21598)](https://github.com/erigontech/erigon/commit/ea6e9f1226c7f937e0516b9f54709504f87a2eca) - 2026-06-03
 * [Commit] [execution/types, engineapi, cl: avoid RLP re-encode of payload txs (#21546)](https://github.com/erigontech/erigon/commit/5c9068ac89401743a8d73219bdfe794a8790d3d3) - 2026-06-03
+* [Review] [Review on: execution/execmodule: block on semaphore in InsertBlocks, drop busy-wait + dead Busy paths](https://github.com/erigontech/erigon/pull/21549#pullrequestreview-4427593457) - 2026-06-04
+* [Review] [Review on: cl/gloas: gate fork choice on verified execution payloads](https://github.com/erigontech/erigon/pull/21417#pullrequestreview-4426715509) - 2026-06-04
+* [Pull Request] [docs: refresh RELEASE_INSTRUCTIONS.md for moved files and version vars](https://github.com/erigontech/erigon/pull/21620) - 2026-06-04
+* [Review] [Review on: cl/beacon: stabilize historical proposer duties](https://github.com/erigontech/erigon/pull/21614#pullrequestreview-4426164621) - 2026-06-04
+* [Review] [Review on: db: mmap .kvei bloom filters on read; ~2.4 GB heap saving](https://github.com/erigontech/erigon/pull/21530#pullrequestreview-4427381474) - 2026-06-04
+* [Review] [Review on: [perf] execution: optimise engine_getPayload with max blobs 2.4X](https://github.com/erigontech/erigon/pull/21615#pullrequestreview-4426533339) - 2026-06-04
+* [Review] [Review on: rpc:  add withdrawal balance diffs to trace_block and trace_replayBlockTransactions](https://github.com/erigontech/erigon/pull/21592#pullrequestreview-4425915676) - 2026-06-04
+* [Issue] [Drop historical receipts by default](https://github.com/erigontech/erigon/issues/21617) - 2026-06-04
+* [Issue] [Caplin req/resp: stream multi-chunk responses instead of materializing the full body in requestPeer](https://github.com/erigontech/erigon/issues/21616) - 2026-06-04
+* [Commit] [execution/commitment: stop cloning bytes at TrieContext.Branch (#21524)](https://github.com/erigontech/erigon/commit/b2329dc55bea31acbe670f4252961c2c79286f43) - 2026-06-04
+* [Commit] [docs: refresh RELEASE_INSTRUCTIONS.md for moved files and version vars (#21620)](https://github.com/erigontech/erigon/commit/fbae071e6c1712944d4992461acea77cdf710d17) - 2026-06-04
+* [Commit] [all: remove root ethereum package, move event package to common (#21610)](https://github.com/erigontech/erigon/commit/263fd8e6ba852ff6fbe0b2896c08cc8d87413b38) - 2026-06-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

@@ -97,6 +97,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [`ExecutionPayloadManager` simplification](https://github.com/Consensys/teku/pull/10787) - 2026-06-03
 * [Review] [Review on: Introduce is_previous_slot_payload_decision predicate](https://github.com/Consensys/teku/pull/10784#pullrequestreview-4416555882) - 2026-06-03
 * [Commit] [EIP-8045 + bump ref tests to v1.7.0-alpha.9 (#10766)](https://github.com/Consensys/teku/commit/9d79b4ef4c37ed56a8724e204dc69e159e85870a) - 2026-06-03
+* [Review] [Review on: Implement the Gloas validator payload attestation data endpoint plumbing](https://github.com/Consensys/teku/pull/10778#pullrequestreview-4431104317) - 2026-06-04
+* [Review] [Review on: Implemented the head_v2 event from ethereum/beacon-APIs#590.](https://github.com/Consensys/teku/pull/10776#pullrequestreview-4431077531) - 2026-06-04
+* [Review] [Review on: Avoid dropping sidecars tracker on block import in Gloas](https://github.com/Consensys/teku/pull/10788#pullrequestreview-4430822733) - 2026-06-04
+* [Pull Request] [Upgrade ref tests to v1.7.0-alpha.10](https://github.com/Consensys/teku/pull/10791) - 2026-06-04
+* [Review] [Review on: `ExecutionPayloadManager` simplification](https://github.com/Consensys/teku/pull/10787#pullrequestreview-4426401609) - 2026-06-04
+* [Commit] [Upgrade ref tests to v1.7.0-alpha.10 (#10791)](https://github.com/Consensys/teku/commit/99db722d006ba08e733fbfb966c1fd536bc13434) - 2026-06-04
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22
@@ -107,6 +113,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Release ByteBuf on control frames and invalid stream tag](https://github.com/libp2p/jvm-libp2p/pull/479#pullrequestreview-4334196291) - 2026-05-21
 * [Review] [Review on: Addressing gaps identified on QUIC implementation](https://github.com/libp2p/jvm-libp2p/pull/476#pullrequestreview-4364096911) - 2026-05-26
 * [Review] [Review on: Verify message `from` matches signing key (01)](https://github.com/libp2p/jvm-libp2p/pull/480#pullrequestreview-4364063195) - 2026-05-26
+* [Review] [Review on: Release 1.3.1](https://github.com/libp2p/jvm-libp2p/pull/485#pullrequestreview-4426672129) - 2026-06-04
+* [Review] [Review on: Release 1.3.1](https://github.com/libp2p/jvm-libp2p/pull/484#pullrequestreview-4426618840) - 2026-06-04
+* [Review] [Review on: Release 1.3.1](https://github.com/libp2p/jvm-libp2p/pull/483#pullrequestreview-4426150380) - 2026-06-04
+* [Review] [Review on: 1.3.1 Release](https://github.com/libp2p/jvm-libp2p/pull/482#pullrequestreview-4425849241) - 2026-06-04
 ## Q1 2026
 
 
