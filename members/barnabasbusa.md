@@ -179,6 +179,37 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(handlers): guard against nil validator on included_deposits page](https://github.com/ethpandaops/dora/commit/f5ce582e5f07b1063a6bb29d2a84a0a261a9f0ba) - 2026-05-22
 * [Commit] [Merge pull request #711 from ethpandaops/pk910/fix-filtered-slots-view](https://github.com/ethpandaops/dora/commit/e410ee3365d494802019c246d74240a536ead239) - 2026-05-22
 * [Review] [Review on: bump go-eth2-client](https://github.com/ethpandaops/dora/pull/718#pullrequestreview-4404433255) - 2026-06-01
+* [Pull Request] [hack/devnet: wire buildoor inventory into generated dora config](https://github.com/ethpandaops/dora/pull/730) - 2026-06-05
+* [Pull Request] [drop redundant builder-index tooltip clashing with buildoor link](https://github.com/ethpandaops/dora/pull/729) - 2026-06-05
+* [Pull Request] [resolve builder names + external links from buildoor inventory](https://github.com/ethpandaops/dora/pull/728) - 2026-06-05
+* [Pull Request] [fix builder name lookup in slot bids table](https://github.com/ethpandaops/dora/pull/727) - 2026-06-05
+* [Pull Request] [demote cgc-decode failure from error to warn](https://github.com/ethpandaops/dora/pull/726) - 2026-06-05
+* [Pull Request] [widen orphaned_epochs.eth_gas_used/limit to bigint](https://github.com/ethpandaops/dora/pull/724) - 2026-06-05
+* [Pull Request] [close IN() paren in GetMevBlocksByBlockHashes](https://github.com/ethpandaops/dora/pull/725) - 2026-06-05
+* [Review] [Review on: Fix nil-pointer panics on unloaded validators & exclude delegatecall value from internal tx aggregation](https://github.com/ethpandaops/dora/pull/723#pullrequestreview-4433390838) - 2026-06-05
+* [Commit] [Merge pull request #730 from ethpandaops/bbusa/run-sh-buildoor-config](https://github.com/ethpandaops/dora/commit/08b17ed9ff7719c5f1b55cf89ab5e4522c81f331) - 2026-06-05
+* [Commit] [hack/devnet: wire buildoor inventory into generated dora config](https://github.com/ethpandaops/dora/commit/4517044aaa1f2bd1e4372b2dcad3f8b18da0f376) - 2026-06-05
+* [Commit] [Merge pull request #729 from ethpandaops/bbusa/fix-builder-tooltip-overlap](https://github.com/ethpandaops/dora/commit/ca01d084163510d2145e72f3c0b07e8b4794602d) - 2026-06-05
+* [Commit] [drop redundant builder-index tooltip clashing with buildoor link](https://github.com/ethpandaops/dora/commit/10c494028b5546df58eb2a281c32ac242fefbbf8) - 2026-06-05
+* [Commit] [Merge pull request #728 from ethpandaops/bbusa/buildoor-inventory](https://github.com/ethpandaops/dora/commit/077d6cb02f33bbbdf668f933c8436f6cbc9676de) - 2026-06-05
+* [Commit] [surface buildoor name + URL on the builder detail page](https://github.com/ethpandaops/dora/commit/a15f11943115998e75b1ccfa3455ddfa963c426b) - 2026-06-05
+* [Commit] [strip BuilderIndexFlag inside buildoor lookups](https://github.com/ethpandaops/dora/commit/ec473145f6f82b03b602482adea134013fcc0f23) - 2026-06-05
+* [Commit] [trust buildoor's builder_index over the indexer pubkey cache](https://github.com/ethpandaops/dora/commit/a1c8f5a8f82191800f567a62649941b884b0f9a3) - 2026-06-05
+* [Commit] [resolve builder names + external links from buildoor inventory](https://github.com/ethpandaops/dora/commit/63321db6545aab2d5dd01808940644b3f1bfaf01) - 2026-06-05
+* [Commit] [Merge pull request #727 from ethpandaops/bbusa/fix-slot-bids-builder-name-lookup](https://github.com/ethpandaops/dora/commit/1266e800b3d3a75589c956671b8b55af67c13fd5) - 2026-06-05
+* [Commit] [fix builder name lookup in slot bids table](https://github.com/ethpandaops/dora/commit/82f0b41ec7d3458dd91eaec82583a641394689df) - 2026-06-05
+* [Commit] [Merge pull request #726 from ethpandaops/bbusa/cgc-decode-log-level](https://github.com/ethpandaops/dora/commit/4e9538a0e7fe1de453668713679509b37cc82088) - 2026-06-05
+* [Commit] [Merge branch 'master' into bbusa/cgc-decode-log-level](https://github.com/ethpandaops/dora/commit/94965f353754c18b9cce4b94e5df24475571fb3a) - 2026-06-05
+* [Commit] [Merge pull request #724 from ethpandaops/fix/orphaned-epochs-gas-bigint](https://github.com/ethpandaops/dora/commit/ed66ab321a27c3f3c6b4bcece4565b2af4cdc1ca) - 2026-06-05
+* [Commit] [Merge branch 'master' into bbusa/cgc-decode-log-level](https://github.com/ethpandaops/dora/commit/bc3ec1ee66964a13fbeebca23f847ba3cebb0536) - 2026-06-05
+* [Commit] [Merge branch 'master' into fix/orphaned-epochs-gas-bigint](https://github.com/ethpandaops/dora/commit/27c5120c95f164a0aaf5a4dff4e10b13d8e8c53d) - 2026-06-05
+* [Commit] [Merge pull request #725 from ethpandaops/bbusa/mev-blocks-by-hashes-paren](https://github.com/ethpandaops/dora/commit/8a57c5900d2bc582f3322e9aa881c1a70198eed4) - 2026-06-05
+* [Commit] [demote cgc-decode failure from error to warn](https://github.com/ethpandaops/dora/commit/ea71516b9656c225f5d78e8f4f510ea456ed28f6) - 2026-06-05
+* [Commit] [close IN() paren in GetMevBlocksByBlockHashes](https://github.com/ethpandaops/dora/commit/9fc376ce28c688c476b880302dba10506c6ccd13) - 2026-06-05
+* [Commit] [widen orphaned_epochs.eth_gas_used/limit to bigint](https://github.com/ethpandaops/dora/commit/927d67243e8f88b4dc0646e09a954a0ae274e585) - 2026-06-05
+* [Commit] [Merge pull request #720 from ethpandaops/dependabot/npm_and_yarn/ui-package/ui-package-dependencies-e39fe14744](https://github.com/ethpandaops/dora/commit/3ba7416ef8665c341d8d039063609554d33ddb5b) - 2026-06-05
+* [Commit] [Merge branch 'master' into dependabot/npm_and_yarn/ui-package/ui-package-dependencies-e39fe14744](https://github.com/ethpandaops/dora/commit/c3141707a4b4e8a9989a2c86612a929bbc763656) - 2026-06-05
+* [Commit] [Merge pull request #723 from ethpandaops/pk910/various-fixes](https://github.com/ethpandaops/dora/commit/ee39f044dde75d9f85d26803f24af7dbe1aa4a9a) - 2026-06-05
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01

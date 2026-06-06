@@ -22,6 +22,7 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Review] [Review on: Add EIP: Recent Roots for Frame Transactions](https://github.com/ethereum/EIPs/pull/11726#pullrequestreview-4371382919) - 2026-05-27
 * [Pull Request] [Update EIP-8250: Add support nonce key sets](https://github.com/ethereum/EIPs/pull/11749) - 2026-06-01
 * [Commit] [Update EIP-8250: Update EIP-8250 to support nonce key sets](https://github.com/ethereum/EIPs/commit/4de629be62b178712832a9d972c1cab7d19b9c2f) - 2026-06-01
+* [Commit] [Add EIP: Recent Roots for Frame Transactions](https://github.com/ethereum/EIPs/commit/3ba28fc245d0667a14bd2f580f15e689ff48d0c2) - 2026-06-05
 ## Q2 2025
 
 [ethereum/pm](https://github.com/ethereum/pm)

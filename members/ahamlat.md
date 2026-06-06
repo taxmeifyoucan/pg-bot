@@ -60,6 +60,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [bal-devnet-7 : avoid redundant bytecode copy on the CALL/CALLCODE hot path](https://github.com/besu-eth/besu/pull/10574) - 2026-05-29
 * [Review] [Review on: Feature/preimage store rebased](https://github.com/besu-eth/besu/pull/10208#pullrequestreview-4399798726) - 2026-06-01
 * [Review] [Review on: Bal devnet 7 with bal application](https://github.com/besu-eth/besu/pull/10586#pullrequestreview-4409296024) - 2026-06-02
+* [Review] [Review on: avoid redundant bytecode copy on the CALL/CALLCODE hot path](https://github.com/besu-eth/besu/pull/10573#pullrequestreview-4436898617) - 2026-06-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

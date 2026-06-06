@@ -69,6 +69,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Update to Go 1.26](https://github.com/OffchainLabs/prysm/pull/16891#pullrequestreview-4429154657) - 2026-06-04
 * [Pull Request] [Fix data race on the shared err variable in beacon-api validator client's dutiesForEpoch](https://github.com/OffchainLabs/prysm/pull/16900) - 2026-06-04
 * [Review] [Review on: Fix TOCTOU in stategen latestAncestor between isFinalizedRoot and FinalizedState](https://github.com/OffchainLabs/prysm/pull/16881#pullrequestreview-4426900923) - 2026-06-04
+* [Commit] [Fix TOCTOU in stategen latestAncestor between isFinalizedRoot and FinalizedState (#16881)](https://github.com/OffchainLabs/prysm/commit/f1d82487e99040ebc675db734d80082f9dbb6736) - 2026-06-05
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

@@ -250,6 +250,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [patricia: Insert loses an existing key when its proper prefix is inserted later](https://github.com/erigontech/erigon/issues/21626) - 2026-06-04
 * [Issue] [index reader: next steps](https://github.com/erigontech/erigon/issues/21624) - 2026-06-04
 * [Issue] [seg: SamplingFactor>1 builds the pattern dictionary from the first 16MB only](https://github.com/erigontech/erigon/issues/21628) - 2026-06-04
+* [Pull Request] [db/state: raise domain compression SamplingFactor to 4](https://github.com/erigontech/erigon/pull/21639) - 2026-06-05
+* [Review] [Review on: db/snapshotsync: fix block snapshot visibility truncation and block retirement hang](https://github.com/erigontech/erigon/pull/21583#pullrequestreview-4435531282) - 2026-06-05
+* [Commit] [db/integrity: move StateProgress check to deprecated (#21596)](https://github.com/erigontech/erigon/commit/42904022c0ff2e6dbdc6981504b5e7e6e768f597) - 2026-06-05
+* [Commit] [db/recsplit: make IndexReader stateless (#21622)](https://github.com/erigontech/erigon/commit/7428f7964304a988746b1af556b853dd58ca225b) - 2026-06-05
 ## Q1 2026
 
 

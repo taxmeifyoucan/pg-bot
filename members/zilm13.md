@@ -126,6 +126,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Upgrade ref tests to v1.7.0-alpha.10](https://github.com/Consensys/teku/pull/10791#pullrequestreview-4429577006) - 2026-06-04
 * [Pull Request] [glamsterdam-devnet-5](https://github.com/Consensys/teku/pull/10790) - 2026-06-04
 * [Pull Request] [ Avoid redundant RPC fetches for data column sidecars](https://github.com/Consensys/teku/pull/10789) - 2026-06-04
+* [Review] [Review on: update block gossip validation when exeution paylaod is delayed](https://github.com/Consensys/teku/pull/10794#pullrequestreview-4438891695) - 2026-06-05
+* [Review] [Review on: Enable gossip attestation and aggregate ref-test](https://github.com/Consensys/teku/pull/10770#pullrequestreview-4438796360) - 2026-06-05
+* [Review] [Review on: Avoid dropping sidecars tracker on block import in Gloas](https://github.com/Consensys/teku/pull/10788#pullrequestreview-4436458183) - 2026-06-05
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

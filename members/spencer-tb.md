@@ -148,6 +148,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: simulators/engine: make `SetBlock` robust for reorg chains](https://github.com/ethereum/hive/pull/1395#pullrequestreview-4129638641) - 2026-04-17
 * [Review] [Review on: clients/go-ethereum: restore amsterdam entry in blobSchedule](https://github.com/ethereum/hive/pull/1452#pullrequestreview-4180204275) - 2026-04-27
 * [Review] [Review on: clients/ethrex: feature-detect --http.api flag](https://github.com/ethereum/hive/pull/1485#pullrequestreview-4274361889) - 2026-05-12
+* [Pull Request] [clients: fix deposit contract address in remaining mappers](https://github.com/ethereum/hive/pull/1525) - 2026-06-05
+* [Review] [Review on: clients/besu: add parentheses to mapper compatible w jq 1.7](https://github.com/ethereum/hive/pull/1523#pullrequestreview-4435965251) - 2026-06-05
+* [Review] [Review on: fix(ethrex): parenthesize // in mapper.jq depositContractAddress](https://github.com/ethereum/hive/pull/1524#pullrequestreview-4435959937) - 2026-06-05
+* [Commit] [clients: fix deposit contract address in remaining mappers (#1525)](https://github.com/ethereum/hive/commit/39f6fb2565a848a3124bb1822131cd8a5f9ba0a2) - 2026-06-05
 ## Q1 2026
 
 

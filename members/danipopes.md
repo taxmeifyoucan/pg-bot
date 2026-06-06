@@ -402,6 +402,7 @@ Team: Reth
 * [Review] [Review on: ci(bench): allow rkrasiuk to trigger PR benches](https://github.com/paradigmxyz/reth/pull/24819#pullrequestreview-4420404548) - 2026-06-03
 * [Review] [Review on: fix(docs): stabilize Vocs builds](https://github.com/paradigmxyz/reth/pull/24812#pullrequestreview-4418989626) - 2026-06-03
 * [Pull Request] [feat(bench): add chrome trace profiles](https://github.com/paradigmxyz/reth/pull/24879) - 2026-06-05
+* [Commit] [feat(bench): add chrome trace profiles (#24879)](https://github.com/paradigmxyz/reth/commit/87fc4cf4355ddbc59220f691a46d9f9d354adfa0) - 2026-06-05
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

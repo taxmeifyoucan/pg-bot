@@ -93,6 +93,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Backfill: Add info progression (#16883)](https://github.com/OffchainLabs/prysm/commit/e94d46b8c175530cac4deb5e0b082366ba9fb6be) - 2026-06-03
 * [Pull Request] [Add `--postpone-shutdown-for-proposals` flag.](https://github.com/OffchainLabs/prysm/pull/16895) - 2026-06-04
 * [Review] [Review on: Add `execution_payload_gossip` event topic support](https://github.com/OffchainLabs/prysm/pull/16893#pullrequestreview-4426186535) - 2026-06-04
+* [Review] [Review on: Fix epoch processing slowdown caused by per validator interface boxing](https://github.com/OffchainLabs/prysm/pull/16871#pullrequestreview-4434543734) - 2026-06-05
+* [Review] [Review on: Fix TOCTOU in stategen latestAncestor between isFinalizedRoot and FinalizedState](https://github.com/OffchainLabs/prysm/pull/16881#pullrequestreview-4435433782) - 2026-06-05
+* [Commit] [Fix epoch processing slowdown caused by per validator interface boxing (#16871)](https://github.com/OffchainLabs/prysm/commit/bbf8a68301b06e22bc064d3bfee7d9dd3fb1259d) - 2026-06-05
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

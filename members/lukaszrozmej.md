@@ -607,6 +607,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: refactor: Introduce a base `WorldState` decorator](https://github.com/NethermindEth/nethermind/pull/11907#pullrequestreview-4426522201) - 2026-06-04
 * [Review] [Review on: fix: add ReadOnlySpan<byte> overload for long BE decode](https://github.com/NethermindEth/nethermind/pull/9826#pullrequestreview-4427324667) - 2026-06-04
 * [Review] [Review on: perf: per-column write buffer caps in WriteBufferAdjuster](https://github.com/NethermindEth/nethermind/pull/10955#pullrequestreview-4426524624) - 2026-06-04
+* [Review] [Review on: fix : do not delete empty accounts on stateoverride(eip 7610)](https://github.com/NethermindEth/nethermind/pull/11854#pullrequestreview-4436208282) - 2026-06-05
+* [Review] [Review on: perf(evm): per-thread free-list for EVM memory buffers + skip redundant copy-opcode revalidation](https://github.com/NethermindEth/nethermind/pull/11884#pullrequestreview-4436221773) - 2026-06-05
+* [Review] [Review on: Feature/benchmark fixes](https://github.com/NethermindEth/nethermind/pull/11910#pullrequestreview-4435107854) - 2026-06-05
+* [Review] [Review on: Syncrhonization - CI fix](https://github.com/NethermindEth/nethermind/pull/11914#pullrequestreview-4434298798) - 2026-06-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

@@ -316,6 +316,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: continue past non-custody column requests in DataColumnSidecarsByRoot](https://github.com/ChainSafe/lodestar/pull/9456#pullrequestreview-4425634756) - 2026-06-04
 * [Review] [Review on: feat: add heze fork and implement focil EIP-7805](https://github.com/ChainSafe/lodestar/pull/7342#pullrequestreview-4425584581) - 2026-06-04
 * [Commit] [chore: remove old deposit mechanism in fulu (#9459)](https://github.com/ChainSafe/lodestar/commit/e36a2dc5e7b2c38fa9f08f607c8b989e4dea2b76) - 2026-06-04
+* [Review] [Review on: refactor: payload envelope input -- pruneBelowParent](https://github.com/ChainSafe/lodestar/pull/9326#pullrequestreview-4440094835) - 2026-06-05
+* [Review] [Review on: fix: return resource_unavailable if requested range is before earliest_available_slot](https://github.com/ChainSafe/lodestar/pull/9454#pullrequestreview-4435013355) - 2026-06-05
+* [Review] [Review on: feat: emit fast_confirmation SSE event per beacon-APIs](https://github.com/ChainSafe/lodestar/pull/9439#pullrequestreview-4436053836) - 2026-06-05
+* [Review] [Review on: fix: ignore repeat proposal during block publishing](https://github.com/ChainSafe/lodestar/pull/9235#pullrequestreview-4435042735) - 2026-06-05
+* [Review] [Review on: fix: publish only subscribed columns from reconstruction](https://github.com/ChainSafe/lodestar/pull/9464#pullrequestreview-4435313169) - 2026-06-05
+* [Review] [Review on: feat: expose EMPTY_BLOCK_HASH constant in config API](https://github.com/ChainSafe/lodestar/pull/9465#pullrequestreview-4434743266) - 2026-06-05
+* [Review] [Review on: fix: prune finalized checkpoint state per processState()](https://github.com/ChainSafe/lodestar/pull/9463#pullrequestreview-4434721928) - 2026-06-05
+* [Review] [Review on: perf: use custodyColumnsIndex for O(1) custody lookup in column reqresp](https://github.com/ChainSafe/lodestar/pull/9457#pullrequestreview-4434771458) - 2026-06-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -406,6 +414,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Do not set `deposit_requests_start_index` in fork helper](https://github.com/ethereum/consensus-specs/pull/5329#pullrequestreview-4421443138) - 2026-06-03
 * [Review] [Review on: Clarify `should_extend_payload` semantic](https://github.com/ethereum/consensus-specs/pull/5336#pullrequestreview-4429498414) - 2026-06-04
 * [Review] [Review on: Clarify `should_build_on_full` semantic](https://github.com/ethereum/consensus-specs/pull/5335#pullrequestreview-4429624761) - 2026-06-04
+* [Review] [Review on: Clarify `should_extend_payload`'s note and add a slot assert](https://github.com/ethereum/consensus-specs/pull/5336#pullrequestreview-4438119612) - 2026-06-05
+* [Review] [Review on: Clarify `should_build_on_full` semantic](https://github.com/ethereum/consensus-specs/pull/5335#pullrequestreview-4437714568) - 2026-06-05
+* [Review] [Review on: Remove `should_extend_payload` assertions from payload tests](https://github.com/ethereum/consensus-specs/pull/5338#pullrequestreview-4435797536) - 2026-06-05
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 
@@ -413,6 +424,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796) - 2026-05-11
 * [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4266294777) - 2026-05-11
 * [Commit] [engine: add targetGasLimit to PayloadAttributesV4 (#796)](https://github.com/ethereum/execution-apis/commit/a22fbd4464ef77404935a056f9e19db0abb359a1) - 2026-05-18
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: chore: pluralize gloas execution payload endpoint paths](https://github.com/OffchainLabs/prysm/pull/16902#pullrequestreview-4436202122) - 2026-06-05
 ## Q1 2026
 
 

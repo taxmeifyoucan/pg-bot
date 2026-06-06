@@ -223,6 +223,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Fix honest reorg in Gloas](https://github.com/OffchainLabs/prysm/pull/16890#pullrequestreview-4422433264) - 2026-06-03
 * [Pull Request] [Run payload envelope DA check concurrently](https://github.com/OffchainLabs/prysm/pull/16899) - 2026-06-04
 * [Review] [Review on: Add `execution_payload` event support](https://github.com/OffchainLabs/prysm/pull/16894#pullrequestreview-4428428481) - 2026-06-04
+* [Pull Request] [Submit payload attestation on `execution_payload_available` event](https://github.com/OffchainLabs/prysm/pull/16906) - 2026-06-05
+* [Pull Request] [Add debug log when ignoring payload envelope not for current slot](https://github.com/OffchainLabs/prysm/pull/16905) - 2026-06-05
+* [Pull Request] [Queue payload attestations received before the beacon block](https://github.com/OffchainLabs/prysm/pull/16909) - 2026-06-05
+* [Pull Request] [Request parent payload envelopes in parallel with parent blocks](https://github.com/OffchainLabs/prysm/pull/16908) - 2026-06-05
+* [Review] [Review on: Add `execution_payload` event support](https://github.com/OffchainLabs/prysm/pull/16894#pullrequestreview-4437062601) - 2026-06-05
+* [Commit] [Run payload envelope DA check concurrently (#16899)](https://github.com/OffchainLabs/prysm/commit/ba7c94362e01c349c533e7e4b95134f48758856c) - 2026-06-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

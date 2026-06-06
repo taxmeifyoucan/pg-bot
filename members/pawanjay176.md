@@ -52,6 +52,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Pull Request] [Improve error types for envelopes](https://github.com/sigp/lighthouse/pull/9414) - 2026-06-04
 * [Review] [Review on: Improve error types for envelopes](https://github.com/sigp/lighthouse/pull/9414#pullrequestreview-4432015721) - 2026-06-04
 * [Review] [Review on: Remove unused spec field from AvailableBlock](https://github.com/sigp/lighthouse/pull/9411#pullrequestreview-4430548189) - 2026-06-04
+* [Review] [Review on: fix(network): clear ENR `nfd` field when no next fork is scheduled during runtime transitions](https://github.com/sigp/lighthouse/pull/9131#pullrequestreview-4438930429) - 2026-06-05
+* [Review] [Review on: Simplify lookup sync da_checker oracle](https://github.com/sigp/lighthouse/pull/9428#pullrequestreview-4440311835) - 2026-06-05
+* [Review] [Review on: Optimise slow block verification tests](https://github.com/sigp/lighthouse/pull/9274#pullrequestreview-4438947341) - 2026-06-05
+* [Review] [Review on: Update gloas api routes to match updated spec](https://github.com/sigp/lighthouse/pull/9418#pullrequestreview-4439016007) - 2026-06-05
+* [Review] [Review on: Replace electra sync tests with gloas sync tests on CI](https://github.com/sigp/lighthouse/pull/9228#pullrequestreview-4438955720) - 2026-06-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4100433052) - 2026-04-13

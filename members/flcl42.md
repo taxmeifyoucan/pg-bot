@@ -188,6 +188,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: diag: support periodic dotMemory snapshots via env var](https://github.com/NethermindEth/nethermind/pull/11843#pullrequestreview-4417129456) - 2026-06-03
 * [Review] [Review on: perf: reuse ancestor headers in UnclesValidator](https://github.com/NethermindEth/nethermind/pull/9930#pullrequestreview-4416673071) - 2026-06-03
 * [Review] [Review on: refactor: Introduce a base `WorldState` decorator](https://github.com/NethermindEth/nethermind/pull/11907#pullrequestreview-4426533239) - 2026-06-04
+* [Review] [Review on: rpc: zero hashes for absent eth_getProof accounts](https://github.com/NethermindEth/nethermind/pull/11912#pullrequestreview-4434910530) - 2026-06-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

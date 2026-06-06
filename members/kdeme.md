@@ -87,11 +87,17 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add ere import support while keeping era1/era as fallback option](https://github.com/status-im/nimbus-eth1/pull/4301) - 2026-06-04
 * [Review] [Review on: nimbus_history_exporter: Add hoodi support](https://github.com/status-im/nimbus-eth1/pull/4294#pullrequestreview-4426094188) - 2026-06-04
 * [Commit] [nimbus_history_exporter: Add hoodi support (#4294)](https://github.com/status-im/nimbus-eth1/commit/a4883ea476a5a2a65e2818a601031f668eb57728) - 2026-06-04
+* [Pull Request] [Move history code outside of portal into execution_chain](https://github.com/status-im/nimbus-eth1/pull/4308) - 2026-06-05
+* [Pull Request] [Era1DB: merge feature set of other implementation](https://github.com/status-im/nimbus-eth1/pull/4307) - 2026-06-05
+* [Commit] [Move history code outside of portal into execution_chain (#4308)](https://github.com/status-im/nimbus-eth1/commit/9753ff192b96da657fd979b5ed344c0eef0ee296) - 2026-06-05
+* [Commit] [Era1DB: merge feature set of other implementation (#4307)](https://github.com/status-im/nimbus-eth1/commit/95e21081fcd8f18086dbbe6fd920e71f989634cc) - 2026-06-05
+* [Commit] [Clean-up portal/eth_history folder (#4306)](https://github.com/status-im/nimbus-eth1/commit/cee7e6201bc363354c209b10392c3188bb076e95) - 2026-06-05
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 
 * [Review] [Review on: Fix add missing enr](https://github.com/status-im/nimbus-eth2/pull/8273#pullrequestreview-4111920360) - 2026-04-15
 * [Review] [Review on: Fix add missing enr](https://github.com/status-im/nimbus-eth2/pull/8273#pullrequestreview-4119084230) - 2026-04-16
+* [Pull Request] [Update nimbus execution client import docs to use  ere files](https://github.com/status-im/nimbus-eth2/pull/8553) - 2026-06-05
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Introduction of REST based + SSZ serialized `new-payload-with-witness`](https://github.com/ethereum/execution-apis/pull/773#pullrequestreview-4106752631) - 2026-04-14
 ## Q1 2026

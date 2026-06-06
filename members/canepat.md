@@ -36,6 +36,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [feat: add Zilkworm execution client variant](https://github.com/eth-act/zkevm-benchmark-workload/pull/291) - 2026-06-03
+* [Commit] [feat: add Zilkworm execution client variant (#291)](https://github.com/eth-act/zkevm-benchmark-workload/commit/f7832fa2df09d25d788b39df8bda65046cdad7e0) - 2026-06-05
 ## Q1 2026
 
 

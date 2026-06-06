@@ -620,6 +620,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/commitment: stop cloning bytes at TrieContext.Branch (#21524)](https://github.com/erigontech/erigon/commit/b2329dc55bea31acbe670f4252961c2c79286f43) - 2026-06-04
 * [Commit] [docs: refresh RELEASE_INSTRUCTIONS.md for moved files and version vars (#21620)](https://github.com/erigontech/erigon/commit/fbae071e6c1712944d4992461acea77cdf710d17) - 2026-06-04
 * [Commit] [all: remove root ethereum package, move event package to common (#21610)](https://github.com/erigontech/erigon/commit/263fd8e6ba852ff6fbe0b2896c08cc8d87413b38) - 2026-06-04
+* [Pull Request] [ChangeLog: draft 3.5.0 "Tidal Tails" release notes](https://github.com/erigontech/erigon/pull/21643) - 2026-06-05
+* [Review] [Review on: [perf] txnprovider/txpool: blob store with own rw lock](https://github.com/erigontech/erigon/pull/21634#pullrequestreview-4435793282) - 2026-06-05
+* [Review] [Review on: ci: use preinstalled JDK for SonarCloud scanner, cache scanner engine jar](https://github.com/erigontech/erigon/pull/21632#pullrequestreview-4434558286) - 2026-06-05
+* [Review] [Review on: [r3.4] cl/phase1/forkchoice: update highestSeen before AddChainSegment (backport on_block.go hunk of #20190)](https://github.com/erigontech/erigon/pull/21636#pullrequestreview-4435605828) - 2026-06-05
+* [Review] [Review on: [SharovBot] fix: revert TrieContext.Branch unsafe borrow causing RPC proof/trace corruption](https://github.com/erigontech/erigon/pull/21630#pullrequestreview-4435351009) - 2026-06-05
+* [Review] [Review on: execution: print glamsterdam activation banner in exec module](https://github.com/erigontech/erigon/pull/21635#pullrequestreview-4434553646) - 2026-06-05
+* [Review] [Review on: cl/gloas: gate fork choice on verified execution payloads](https://github.com/erigontech/erigon/pull/21417#pullrequestreview-4435371033) - 2026-06-05
+* [Commit] [cl: cap req/resp response body size (#21562)](https://github.com/erigontech/erigon/commit/2fdc4ac6f6ca0deda6d3c18456aecd92796f5cb6) - 2026-06-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

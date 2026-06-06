@@ -46,6 +46,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: avoid redundant bytecode copy on the CALL/CALLCODE hot path](https://github.com/besu-eth/besu/pull/10573#pullrequestreview-4390718548) - 2026-05-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088219054) - 2026-04-10
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8037: improve EIP-7702 authorization gas accounting in EIP-8037](https://github.com/ethereum/EIPs/pull/11715#pullrequestreview-4439609032) - 2026-06-05
 ## Q1 2026
 
 

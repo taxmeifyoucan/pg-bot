@@ -48,6 +48,11 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Address on_payload_attestation_message tests](https://github.com/grandinetech/grandine/pull/705) - 2026-05-21
 * [Pull Request] [Add payload present timely store](https://github.com/grandinetech/grandine/pull/718) - 2026-06-01
 * [Review] [Review on: EIP-8045: Exclude slashed validators from proposing](https://github.com/grandinetech/grandine/pull/726#pullrequestreview-4407561173) - 2026-06-02
+* [Review] [Review on: Pluralize gloas execution payload endpoint paths](https://github.com/grandinetech/grandine/pull/737#pullrequestreview-4437436526) - 2026-06-05
+* [Pull Request] [Update consensus spec tests to v1.7.0-alpha.10](https://github.com/grandinetech/grandine/pull/734) - 2026-06-05
+* [Pull Request] [Use head block root for envelope lookup in payload preparation](https://github.com/grandinetech/grandine/pull/735) - 2026-06-05
+* [Review] [Review on: Add payload present timely store](https://github.com/grandinetech/grandine/pull/718#pullrequestreview-4434278942) - 2026-06-05
+* [Issue] [[Glamsterdam] Update consensus spec tests to v1.7.0-alpha.10](https://github.com/grandinetech/grandine/issues/733) - 2026-06-05
 ## Q1 2026
 
 

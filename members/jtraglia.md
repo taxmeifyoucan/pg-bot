@@ -331,6 +331,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Update tests workflow to upload combined coverage data](https://github.com/ethereum/consensus-specs/pull/5337) - 2026-06-04
 * [Review] [Review on: Fix `payload_timeliness` and `payload_data_availability` comparisons](https://github.com/ethereum/consensus-specs/pull/5331#pullrequestreview-4428682892) - 2026-06-04
 * [Review] [Review on: Clarify `should_extend_payload` semantic](https://github.com/ethereum/consensus-specs/pull/5336#pullrequestreview-4430168370) - 2026-06-04
+* [Review] [Review on: Clarify `should_extend_payload`'s note and add a slot assert](https://github.com/ethereum/consensus-specs/pull/5336#pullrequestreview-4438045230) - 2026-06-05
+* [Review] [Review on: Clarify `should_build_on_full` semantic](https://github.com/ethereum/consensus-specs/pull/5335#pullrequestreview-4438013170) - 2026-06-05
+* [Commit] [Update tests workflow to upload combined coverage data (#5337)](https://github.com/ethereum/consensus-specs/commit/2f1b1f195d975375b94af81e0fc058ba8603709e) - 2026-06-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

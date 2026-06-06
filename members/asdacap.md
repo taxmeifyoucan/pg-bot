@@ -260,6 +260,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Improve flat state backend compatibility](https://github.com/NethermindEth/nethermind/pull/11911#pullrequestreview-4427597669) - 2026-06-04
 * [Review] [Review on: feat(flatdb): RLP-wrap storage slot values behind a versioned flag](https://github.com/NethermindEth/nethermind/pull/11909#pullrequestreview-4425124556) - 2026-06-04
 * [Commit] [refactor: extract block producer construction into DI-registered factories (#11893)](https://github.com/NethermindEth/nethermind/commit/f95ffad913e2c5ccd8465ece30be23b16c21f482) - 2026-06-05
+* [Commit] [Improve flat state backend compatibility (#11911)](https://github.com/NethermindEth/nethermind/commit/52d40652051a63502343c1a5063ea71087cfdb2b) - 2026-06-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

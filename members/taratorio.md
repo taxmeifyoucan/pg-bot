@@ -250,6 +250,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: all: remove root ethereum package, move event package to common](https://github.com/erigontech/erigon/pull/21610#pullrequestreview-4425200095) - 2026-06-04
 * [Commit] [[perf] execution: optimise engine_getPayload with max blobs 2.4X (#21615)](https://github.com/erigontech/erigon/commit/d78922b0a260d156627eeb5ca399e6b20546c1b6) - 2026-06-04
 * [Commit] [[perf] execution: optimise getBlobs jsonrpc layer 10X (#21606)](https://github.com/erigontech/erigon/commit/2096c9390ab24d946dcfa5d382e05b8b6a58b7e2) - 2026-06-04
+* [Pull Request] [tools: fail EEST spec shards on race-detector exit code 66](https://github.com/erigontech/erigon/pull/21640) - 2026-06-05
+* [Review] [Review on: `debug_executionWitness`: legacy + canonical conformance](https://github.com/erigontech/erigon/pull/21629#pullrequestreview-4435921582) - 2026-06-05
+* [Pull Request] [[perf] txnprovider/txpool: blob store with own rw lock](https://github.com/erigontech/erigon/pull/21634) - 2026-06-05
+* [Pull Request] [ci: use preinstalled JDK for SonarCloud scanner, cache scanner engine jar](https://github.com/erigontech/erigon/pull/21632) - 2026-06-05
+* [Review] [Review on: ci: use preinstalled JDK for SonarCloud scanner, cache scanner engine jar](https://github.com/erigontech/erigon/pull/21632#pullrequestreview-4434602496) - 2026-06-05
+* [Pull Request] [execution: print glamsterdam activation banner in exec module](https://github.com/erigontech/erigon/pull/21635) - 2026-06-05
+* [Pull Request] [[perf] execution: avoid unnecessary grpc hop for embedded txpool GetBlobs](https://github.com/erigontech/erigon/pull/21631) - 2026-06-05
+* [Commit] [ci: use preinstalled JDK for SonarCloud scanner, cache scanner engine jar (#21632)](https://github.com/erigontech/erigon/commit/6898be8706630d13c49a3f2bf10ed6832c963158) - 2026-06-05
+* [Commit] [execution: print glamsterdam activation banner in exec module (#21635)](https://github.com/erigontech/erigon/commit/df34abd3154058ce01931a760f8ed9c62e67a7bb) - 2026-06-05
+* [Commit] [[perf] execution: avoid unnecessary grpc hop for embedded txpool GetBlobs (#21631)](https://github.com/erigontech/erigon/commit/3578acb3a63d34ca746ff03c5350584c1a4eed0f) - 2026-06-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

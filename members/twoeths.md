@@ -197,6 +197,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: produce payload attestation for any seen block at slot](https://github.com/ChainSafe/lodestar/pull/9461#pullrequestreview-4423996127) - 2026-06-04
 * [Pull Request] [fix: prune finalized checkpoint state per processState()](https://github.com/ChainSafe/lodestar/pull/9463) - 2026-06-04
 * [Review] [Review on: fix: prune finalized checkpoint state per processState()](https://github.com/ChainSafe/lodestar/pull/9463#pullrequestreview-4432818027) - 2026-06-05
+* [Commit] [fix: return resource_unavailable if requested range is before earliest_available_slot (#9454)](https://github.com/ChainSafe/lodestar/commit/d730eae4b65358f61cd3c2b23e0a460c81945718) - 2026-06-05
+* [Commit] [fix: prune finalized checkpoint state per processState() (#9463)](https://github.com/ChainSafe/lodestar/commit/6a52e6a9f6b8567cdff1fb0b053c3378d14a7065) - 2026-06-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

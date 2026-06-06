@@ -45,6 +45,8 @@ Team: Erigon
 * [Review] [Review on: QA: update rpcTets version 2.12](https://github.com/erigontech/erigon/pull/21501#pullrequestreview-4396527850) - 2026-05-31
 * [Review] [Review on: ci(qa): measure disk usage per prune mode with real block sizes](https://github.com/erigontech/erigon/pull/21580#pullrequestreview-4409277374) - 2026-06-02
 * [Review] [Review on: QA: update rpc version to 2 13](https://github.com/erigontech/erigon/pull/21612#pullrequestreview-4428131947) - 2026-06-04
+* [Review] [Review on: ci(docs): remove broken update-disk-sizes.yml; do it locally via the python script](https://github.com/erigontech/erigon/pull/21411#pullrequestreview-4435269288) - 2026-06-05
+* [Review] [Review on: ci(qa): measure disk usage per prune mode with real block sizes](https://github.com/erigontech/erigon/pull/21580#pullrequestreview-4435266232) - 2026-06-05
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10

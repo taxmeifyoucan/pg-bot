@@ -268,6 +268,22 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [fix(whir): enforce two missing verifier length checks (#1734)](https://github.com/Plonky3/Plonky3/commit/b7b58df640423af82f97fadf6271bc8f4d1f34f7) - 2026-06-04
 * [Commit] [fix(fri): reject zero-query instances on both sides (#1735)](https://github.com/Plonky3/Plonky3/commit/e170f8eccd00620948dee186c9ac9d553ede30a5) - 2026-06-04
 * [Commit] [fix(params): error instead of panic on infeasible WHIR/FRI params (#1737)](https://github.com/Plonky3/Plonky3/commit/207173a892f88fd535681636c62686c112a5217c) - 2026-06-04
+* [Pull Request] [fix(field): make from_int total for iN::MIN](https://github.com/Plonky3/Plonky3/pull/1758) - 2026-06-05
+* [Pull Request] [fix(merkle-tree): enforce opened row widths in batch verification](https://github.com/Plonky3/Plonky3/pull/1757) - 2026-06-05
+* [Pull Request] [refactor(fri): hoist height-1 check and unify prover max-height](https://github.com/Plonky3/Plonky3/pull/1756) - 2026-06-05
+* [Pull Request] [fix(poseidon1-air): add missing (11, 1) S-box constraint degree](https://github.com/Plonky3/Plonky3/pull/1755) - 2026-06-05
+* [Pull Request] [refactor(batch-stark): drop redundant quotient-chunk count check](https://github.com/Plonky3/Plonky3/pull/1754) - 2026-06-05
+* [Pull Request] [chore(multilinear-util): remove dead compress_suffix_into wrapper](https://github.com/Plonky3/Plonky3/pull/1753) - 2026-06-05
+* [Pull Request] [fix(util): guard reverse_bits_len against oversized bit_len](https://github.com/Plonky3/Plonky3/pull/1752) - 2026-06-05
+* [Pull Request] [fix(multilinear-util): correct packed-batch workspace slicing and crossover](https://github.com/Plonky3/Plonky3/pull/1751) - 2026-06-05
+* [Pull Request] [fix(matrix): correct strided view height for offset >= stride](https://github.com/Plonky3/Plonky3/pull/1750) - 2026-06-05
+* [Review] [Review on: whir: add HVZK code-switch relation](https://github.com/Plonky3/Plonky3/pull/1740#pullrequestreview-4437110493) - 2026-06-05
+* [Pull Request] [fix(matrix): reject inverted column ranges in HorizontallyTruncated](https://github.com/Plonky3/Plonky3/pull/1749) - 2026-06-05
+* [Pull Request] [fix(lookup): enforce the LogUp multiplicity height-bound](https://github.com/Plonky3/Plonky3/pull/1748) - 2026-06-05
+* [Pull Request] [fix(challenger): evaluate PoW bit-bound in u64 to close release-mode bypass](https://github.com/Plonky3/Plonky3/pull/1747) - 2026-06-05
+* [Commit] [test(whir): pin final-round variable accounting invariant (#1742)](https://github.com/Plonky3/Plonky3/commit/47c5479ef4f9aadb4c0eceb898aa86466ea856c3) - 2026-06-05
+* [Commit] [perf(whir): avoid extra allocation in prefix-order commit encoding (#1743)](https://github.com/Plonky3/Plonky3/commit/f9883f17babc7e3f247cf5e95de1daffddef763b) - 2026-06-05
+* [Commit] [perf(whir): drop redundant leaf clones in fold-query evaluation (#1744)](https://github.com/Plonky3/Plonky3/commit/a08c5e3d98fd88e22caaa2a7b9dc47d04d8c7b04) - 2026-06-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

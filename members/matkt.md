@@ -107,6 +107,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: EIP-7928: Disallow empty change set for storage slot](https://github.com/besu-eth/besu/pull/10582#pullrequestreview-4407420127) - 2026-06-02
 * [Review] [Review on: snap/2 - v2-specific request classes and pipeline steps](https://github.com/besu-eth/besu/pull/10560#pullrequestreview-4416551128) - 2026-06-03
 * [Review] [Review on: snap/2 - v2-specific request classes and pipeline steps](https://github.com/besu-eth/besu/pull/10560#pullrequestreview-4425448321) - 2026-06-04
+* [Review] [Review on: snap/2 - track downloaded ranges](https://github.com/besu-eth/besu/pull/10579#pullrequestreview-4435532708) - 2026-06-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

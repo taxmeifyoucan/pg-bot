@@ -189,6 +189,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: route and validate gloas attestation votes in fork choice](https://github.com/status-im/nimbus-eth2/pull/8544#pullrequestreview-4426409563) - 2026-06-04
 * [Review] [Review on: complete EMPTY/FULL sibling support in proto_array](https://github.com/status-im/nimbus-eth2/pull/8543#pullrequestreview-4429464904) - 2026-06-04
 * [Pull Request] [use v1.7.0-alpha.10 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8548) - 2026-06-04
+* [Review] [Review on: add fork-choice handlers for ePBS payloads](https://github.com/status-im/nimbus-eth2/pull/8559#pullrequestreview-4440720231) - 2026-06-06
+* [Pull Request] [more generalized pending deposit BLS verification reduction](https://github.com/status-im/nimbus-eth2/pull/8557) - 2026-06-05
+* [Pull Request] [make light supernode DA filtering on publish consistent](https://github.com/status-im/nimbus-eth2/pull/8556) - 2026-06-05
+* [Pull Request] [only check state pending_validators when there are deposits](https://github.com/status-im/nimbus-eth2/pull/8555) - 2026-06-05
+* [Pull Request] [rm unnecessary toSeq calls](https://github.com/status-im/nimbus-eth2/pull/8551) - 2026-06-05
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

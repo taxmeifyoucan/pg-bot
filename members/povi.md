@@ -53,6 +53,13 @@ Team: Grandine
 * [Issue] [[Glamsterdam] Show correct "optimistic" head status in beacon API endpoints](https://github.com/grandinetech/grandine/issues/712) - 2026-06-01
 * [Issue] [[Glamsterdam] Update consensus spec tests to v1.7.0-alpha.9](https://github.com/grandinetech/grandine/issues/729) - 2026-06-02
 * [Issue] [[Glamsterdam] sometimes invalid attestations are included in constructed block](https://github.com/grandinetech/grandine/issues/730) - 2026-06-04
+* [Pull Request] [Pack attestations filtered by dependent root](https://github.com/grandinetech/grandine/pull/736) - 2026-06-05
+* [Pull Request] [Pluralize gloas execution payload endpoint paths](https://github.com/grandinetech/grandine/pull/737) - 2026-06-05
+* [Review] [Review on: Update consensus spec tests to v1.7.0-alpha.10](https://github.com/grandinetech/grandine/pull/734#pullrequestreview-4437006466) - 2026-06-05
+* [Review] [Review on: Use head block root for envelope lookup in payload preparation](https://github.com/grandinetech/grandine/pull/735#pullrequestreview-4437001095) - 2026-06-05
+* [Review] [Review on: Add payload present timely store](https://github.com/grandinetech/grandine/pull/718#pullrequestreview-4434085982) - 2026-06-05
+* [Issue] [[Glamsterdam] Pluralize gloas execution payload endpoint paths](https://github.com/grandinetech/grandine/issues/732) - 2026-06-05
+* [Issue] [[Glamsterdam][Bug] Invalid withdrawals slot](https://github.com/grandinetech/grandine/issues/731) - 2026-06-05
 ## Q1 2026
 
 

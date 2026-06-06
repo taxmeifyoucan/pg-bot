@@ -45,6 +45,7 @@ Team: Geth
 * [Review] [Review on: Add EIP: Upgrade pre-Spurious-Dragon accounts](https://github.com/ethereum/EIPs/pull/11605#pullrequestreview-4333272633) - 2026-05-21
 * [Commit] [Update EIP-8141: add signatures list to outer tx](https://github.com/ethereum/EIPs/commit/fe0940cae2457d8a190471cc57812af96698c125) - 2026-05-22
 * [Review] [Review on: Update EIP-7979: Validation algorithm on blockchain, other editing.](https://github.com/ethereum/EIPs/pull/11744#pullrequestreview-4423238144) - 2026-06-03
+* [Review] [Review on: Add EIP: Recent Roots for Frame Transactions](https://github.com/ethereum/EIPs/pull/11726#pullrequestreview-4440425768) - 2026-06-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4105687607) - 2026-04-14
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113766865) - 2026-04-15

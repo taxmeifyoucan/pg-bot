@@ -38,6 +38,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: Fix execution block / receipts JSON downloads on Gloas slots](https://github.com/ethpandaops/dora/pull/666#pullrequestreview-4200553533) - 2026-04-29
 
 * [Pull Request] [[codex] fix security alerts](https://github.com/ethpandaops/dora/pull/706) - 2026-05-20
+* [Review] [Review on: close IN() paren in GetMevBlocksByBlockHashes](https://github.com/ethpandaops/dora/pull/725#pullrequestreview-4435322568) - 2026-06-05
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/90) - 2026-04-29
 * [Commit] [fix(config.production.yaml): reuse bal.jpg image for glamsterdam-devnets](https://github.com/ethpandaops/cartographoor/commit/619e4c46218ec206340ccafd0bda95a7ae573577) - 2026-04-29

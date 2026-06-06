@@ -103,6 +103,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Upgrade ref tests to v1.7.0-alpha.10](https://github.com/Consensys/teku/pull/10791) - 2026-06-04
 * [Review] [Review on: `ExecutionPayloadManager` simplification](https://github.com/Consensys/teku/pull/10787#pullrequestreview-4426401609) - 2026-06-04
 * [Commit] [Upgrade ref tests to v1.7.0-alpha.10 (#10791)](https://github.com/Consensys/teku/commit/99db722d006ba08e733fbfb966c1fd536bc13434) - 2026-06-04
+* [Review] [Review on: Avoid dropping sidecars tracker on block import in Gloas](https://github.com/Consensys/teku/pull/10788#pullrequestreview-4435578037) - 2026-06-05
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22
@@ -117,6 +118,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Release 1.3.1](https://github.com/libp2p/jvm-libp2p/pull/484#pullrequestreview-4426618840) - 2026-06-04
 * [Review] [Review on: Release 1.3.1](https://github.com/libp2p/jvm-libp2p/pull/483#pullrequestreview-4426150380) - 2026-06-04
 * [Review] [Review on: 1.3.1 Release](https://github.com/libp2p/jvm-libp2p/pull/482#pullrequestreview-4425849241) - 2026-06-04
+* [Pull Request] [Improve yamux write backpressure](https://github.com/libp2p/jvm-libp2p/pull/486) - 2026-06-05
 ## Q1 2026
 
 

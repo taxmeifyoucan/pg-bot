@@ -36,6 +36,7 @@ Team: Grandine
 * [Issue] [Compliance tests](https://github.com/grandinetech/grandine/issues/722) - 2026-06-01
 * [Issue] [Delayed object processing improvements](https://github.com/grandinetech/grandine/issues/721) - 2026-06-01
 * [Issue] [Reintroduce networking spec tests](https://github.com/grandinetech/grandine/issues/720) - 2026-06-01
+* [Review] [Review on: Pack attestations filtered by dependent root](https://github.com/grandinetech/grandine/pull/736#pullrequestreview-4437489302) - 2026-06-05
 ## Q1 2026
 
 

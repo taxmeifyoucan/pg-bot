@@ -176,6 +176,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc:  add withdrawal balance diffs to trace_block and trace_replayBlockTransactions](https://github.com/erigontech/erigon/pull/21592) - 2026-06-02
 * [Pull Request] [QA: update rpc version to 2 13](https://github.com/erigontech/erigon/pull/21612) - 2026-06-03
 * [Commit] [rpctest: implement positional topic invariant in EthGetLogsInvariants (#21084)](https://github.com/erigontech/erigon/commit/0fb0d9278d07d0aa4a03fc1b32dcb7462f6d2d2e) - 2026-06-03
+* [Pull Request] [rpc: fix trace gaslimit override](https://github.com/erigontech/erigon/pull/21647) - 2026-06-05
+* [Review] [Review on: [WIP] rpc:  add withdrawal balance diffs to trace_block and trace_replayBlockTransactions](https://github.com/erigontech/erigon/pull/21592#pullrequestreview-4433847769) - 2026-06-05
+* [Commit] [QA: update rpc version to 2 13 (#21612)](https://github.com/erigontech/erigon/commit/430e24b6ebc6d03b4f8a412d00ee5bc544ec33c4) - 2026-06-05
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

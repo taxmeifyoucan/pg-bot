@@ -698,6 +698,11 @@ Team: Erigon
 * [Commit] [genesis: faster `-race` of big genesis. step2 (#21475)](https://github.com/erigontech/erigon/commit/44158a706857090dcfb1a4c665cece82bb413dc7) - 2026-06-02
 * [Review] [Review on: db/recsplit: make IndexReader stateless](https://github.com/erigontech/erigon/pull/21622#pullrequestreview-4429738086) - 2026-06-04
 * [Review] [Review on: commitment: rebind concurrent-trie metrics, harden CSV/warmup config](https://github.com/erigontech/erigon/pull/21618#pullrequestreview-4429597230) - 2026-06-04
+* [Review] [Review on: seg: 2-3x faster domain merge compression via Aho-Corasick matcher and cover-DP optimizations](https://github.com/erigontech/erigon/pull/21625#pullrequestreview-4438610401) - 2026-06-05
+* [Review] [Review on: db/recsplit: speed up index lookups](https://github.com/erigontech/erigon/pull/21619#pullrequestreview-4438588065) - 2026-06-05
+* [Review] [Review on: ChangeLog: draft 3.5.0 "Tidal Tails" release notes](https://github.com/erigontech/erigon/pull/21643#pullrequestreview-4438559873) - 2026-06-05
+* [Review] [Review on: db/state: persist domain file cache across rotxs, survive merges](https://github.com/erigontech/erigon/pull/21627#pullrequestreview-4434756079) - 2026-06-05
+* [Review] [Review on: [perf] execution: avoid unnecessary grpc hop for embedded txpool GetBlobs](https://github.com/erigontech/erigon/pull/21631#pullrequestreview-4433632426) - 2026-06-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

@@ -123,6 +123,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gloas data column reprocess queue](https://github.com/sigp/lighthouse/pull/9339#pullrequestreview-4420094137) - 2026-06-03
 * [Review] [Review on: Remove RequestState trait from lookup sync](https://github.com/sigp/lighthouse/pull/9391#pullrequestreview-4418043770) - 2026-06-03
 * [Pull Request] [Ensure PTC votes accurately reflect data availability](https://github.com/sigp/lighthouse/pull/9412) - 2026-06-04
+* [Review] [Review on: Fix nightly deneb tests and move electra fork tests to nightly](https://github.com/sigp/lighthouse/pull/9384#pullrequestreview-4436681389) - 2026-06-05
+* [Pull Request] [Update gloas api routes to match updated spec](https://github.com/sigp/lighthouse/pull/9418) - 2026-06-05
+* [Review] [Review on: Improve error types for envelopes](https://github.com/sigp/lighthouse/pull/9414#pullrequestreview-4436266481) - 2026-06-05
+* [Issue] [Broadcast PTC as soon as payload is available](https://github.com/sigp/lighthouse/issues/9422) - 2026-06-05
+* [Issue] [Implement PTC reprocess queue](https://github.com/sigp/lighthouse/issues/9421) - 2026-06-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

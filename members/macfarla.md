@@ -251,6 +251,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [downgrade duplicate engine api timeout log to debug ](https://github.com/besu-eth/besu/pull/10595) - 2026-06-04
 * [Pull Request] [chore: tidy up some references to java 21](https://github.com/besu-eth/besu/pull/10596) - 2026-06-05
 * [Review] [Review on: chore: tidy up some references to java 21](https://github.com/besu-eth/besu/pull/10596#pullrequestreview-4432699723) - 2026-06-05
+* [Pull Request] [fix(engine): return SYNCING when parent world state is not immediately cached](https://github.com/besu-eth/besu/pull/10600) - 2026-06-05
+* [Pull Request] [fix(bonsai): prevent unbounded LayeredKeyValueStorage chain growth under engine_newPayload backlog](https://github.com/besu-eth/besu/pull/10599) - 2026-06-05
+* [Pull Request] [Fix/eth capabilities oldest block when state is enabled](https://github.com/besu-eth/besu/pull/10597) - 2026-06-05
+* [Commit] [downgrade duplicate engine api timeout log to debug (#10595)](https://github.com/besu-eth/besu/commit/f7e6dce3dda10f3e23f4cba03f8ef385df9f9f75) - 2026-06-05
+* [Commit] [chore: tidy up some references to java 21 (#10596)](https://github.com/besu-eth/besu/commit/cb18fdfc8718928847eccf547801025ded6504ae) - 2026-06-05
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 
@@ -261,6 +266,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 
 * [Pull Request] [simulators/ethereum/rpc-compat: ignore error.message fields everywhere](https://github.com/ethereum/hive/pull/1399) - 2026-05-12
 * [Commit] [simulators/ethereum/rpc-compat: ignore error.message fields everywhere (#1399)](https://github.com/ethereum/hive/commit/6f704d0cd8fb4dfd3f635abcc5a3ea6cd395e61b) - 2026-05-12
+* [Pull Request] [clients/besu: add parentheses to mapper compatible w jq 1.7](https://github.com/ethereum/hive/pull/1523) - 2026-06-05
+* [Commit] [clients/besu: fix deposit contract address in mapper (#1523)](https://github.com/ethereum/hive/commit/c4f16bb98c6c4af58845d3f3abb90a0dd90c86d6) - 2026-06-05
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: update java.projectId for maven](https://github.com/Consensys/teku/pull/10662#pullrequestreview-4209600176) - 2026-05-01
 * [Review] [Review on: remove the gradle pieces in renovate config](https://github.com/Consensys/teku/pull/10661#pullrequestreview-4208862737) - 2026-04-30

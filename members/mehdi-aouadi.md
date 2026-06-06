@@ -80,6 +80,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [save blocks missing parent execution payload for future processing (#10753)](https://github.com/Consensys/teku/commit/81f00cbb09a408b366e1e227f79a3aee965654cf) - 2026-05-28
 * [Pull Request] [defer Gloas full payload attestations until execution payload is available](https://github.com/Consensys/teku/pull/10772) - 2026-06-01
 * [Review] [Review on: defer Gloas full payload attestations until execution payload is available](https://github.com/Consensys/teku/pull/10772#pullrequestreview-4408362342) - 2026-06-02
+* [Pull Request] [update block gossip validation when exeution paylaod is delayed](https://github.com/Consensys/teku/pull/10794) - 2026-06-05
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: 1.3.0 release](https://github.com/libp2p/jvm-libp2p/pull/478#pullrequestreview-4327252421) - 2026-05-20
 ## Q1 2026

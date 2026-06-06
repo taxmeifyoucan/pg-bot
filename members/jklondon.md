@@ -90,6 +90,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.4] db/state: prune TemporalMemBatch overlay entries past unwindToTxNum (#20625)](https://github.com/erigontech/erigon/pull/21538) - 2026-05-31
 * [Review] [Review on: integrity: align receipt and rcache chunk ranges](https://github.com/erigontech/erigon/pull/20595#pullrequestreview-4408587393) - 2026-06-02
 * [Review] [Review on: docs: refresh RELEASE_INSTRUCTIONS.md for moved files and version vars](https://github.com/erigontech/erigon/pull/21620#pullrequestreview-4429021093) - 2026-06-04
+* [Pull Request] [execution/protocol: fix Osaka (EIP-7778) block gas to use pre-refund gas](https://github.com/erigontech/erigon/pull/21642) - 2026-06-05
+* [Pull Request] [[r3.4] execution/protocol: fix Osaka (EIP-7778) block gas to use pre-refund gas](https://github.com/erigontech/erigon/pull/21641) - 2026-06-05
 ## Q1 2026
 
 

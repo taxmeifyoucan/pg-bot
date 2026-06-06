@@ -89,6 +89,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Fix honest reorg in Gloas](https://github.com/OffchainLabs/prysm/pull/16890#pullrequestreview-4427504515) - 2026-06-04
 * [Commit] [Implement EIP-8045: exclude slashed validators from proposer lookahead. (#16857)](https://github.com/OffchainLabs/prysm/commit/c012c35f7a5b497efceb35acc2f83dff74902a2b) - 2026-06-04
 * [Commit] [Fix honest reorg in Gloas (#16890)](https://github.com/OffchainLabs/prysm/commit/2db8643e5305fca021f57a45bd7d35a8a717dc99) - 2026-06-04
+* [Pull Request] [Start presubmit e2e tests from a Fulu genesis](https://github.com/OffchainLabs/prysm/pull/16907) - 2026-06-05
+* [Pull Request] [Proactively request missing payload envelope at payload-due deadline](https://github.com/OffchainLabs/prysm/pull/16904) - 2026-06-05
+* [Pull Request] [Do not count head state and block on head time.](https://github.com/OffchainLabs/prysm/pull/16903) - 2026-06-05
+* [Review] [Review on: Fix epoch processing slowdown caused by per validator interface boxing](https://github.com/OffchainLabs/prysm/pull/16871#pullrequestreview-4436870866) - 2026-06-05
+* [Review] [Review on: chore: pluralize gloas execution payload endpoint paths](https://github.com/OffchainLabs/prysm/pull/16902#pullrequestreview-4436311196) - 2026-06-05
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

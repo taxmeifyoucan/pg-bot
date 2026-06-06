@@ -94,6 +94,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Add p256verify zk gas multiplier](https://github.com/NethermindEth/nethermind/pull/11896#pullrequestreview-4417764252) - 2026-06-03
 * [Review] [Review on: fix: add ReadOnlySpan<byte> overload for long BE decode](https://github.com/NethermindEth/nethermind/pull/9826#pullrequestreview-4427664990) - 2026-06-04
 * [Review] [Review on: Apply Unzen zk gas spec updates](https://github.com/NethermindEth/nethermind/pull/11896#pullrequestreview-4425792519) - 2026-06-04
+* [Review] [Review on: Add OP Karst fork](https://github.com/NethermindEth/nethermind/pull/11917#pullrequestreview-4438360827) - 2026-06-05
+* [Pull Request] [fix(cache): preserve future-epoch entries during concurrent Clear()](https://github.com/NethermindEth/nethermind/pull/11919) - 2026-06-05
+* [Review] [Review on: fix(cache): preserve future-epoch entries during concurrent Clear()](https://github.com/NethermindEth/nethermind/pull/11919#pullrequestreview-4440554867) - 2026-06-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 

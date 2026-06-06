@@ -49,6 +49,8 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Pull Request] [Add EIP: Storage Roots in Block Access Lists](https://github.com/ethereum/EIPs/pull/11716) - 2026-05-21
 * [Commit] [Add EIP: Storage Roots in Block Access Lists](https://github.com/ethereum/EIPs/commit/1c638d0d36ffcc461b81d43259987fef5ef82fc0) - 2026-05-22
 
+* [Pull Request] [Update EIP-8268: Encode empty storage root as empty string](https://github.com/ethereum/EIPs/pull/11771) - 2026-06-05
+* [Commit] [Update EIP-8268: Encode empty storage root as empty string](https://github.com/ethereum/EIPs/commit/83c2057ccab1313ae839632407ec621820803d05) - 2026-06-05
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [BUILDER reads stale sdProvider() == nil due to FCU defer's PublishOverlay(nil) racing with AssembleBlock](https://github.com/erigontech/erigon/issues/21613) - 2026-06-04
 ## Q1 2026

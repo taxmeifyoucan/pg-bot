@@ -172,6 +172,12 @@ Team: Erigon
 * [Pull Request] [commitment: rebind concurrent-trie metrics, harden CSV/warmup config](https://github.com/erigontech/erigon/pull/21618) - 2026-06-04
 * [Commit] [commitment: rebind concurrent-trie metrics, harden CSV/warmup config (#21618)](https://github.com/erigontech/erigon/commit/a0cee99ed0f1973abe0f4defd8776a67c0655ec5) - 2026-06-04
 * [Commit] [commitment: consolidate scattered config into TrieConfig struct (#20559)](https://github.com/erigontech/erigon/commit/302083507d387128f4f57040ef363ba429bcf5b8) - 2026-06-04
+* [Pull Request] [cmd/evm, test-fixtures: bump eest zkevm corpus to tests-zkevm@v0.4.1](https://github.com/erigontech/erigon/pull/21648) - 2026-06-05
+* [Review] [Review on: db/integrity: move StateProgress check to deprecated](https://github.com/erigontech/erigon/pull/21596#pullrequestreview-4437970534) - 2026-06-05
+* [Review] [Review on: `debug_executionWitness`: legacy + canonical conformance](https://github.com/erigontech/erigon/pull/21629#pullrequestreview-4435150972) - 2026-06-05
+* [Review] [Review on: db/snapshotsync: make index building and opening segments safe with other files building events](https://github.com/erigontech/erigon/pull/21571#pullrequestreview-4436859681) - 2026-06-05
+* [Review] [Review on: [wip] db/snapshotsync/freezeblocks: run blocks snapshot merge off the shared build semaphore](https://github.com/erigontech/erigon/pull/21526#pullrequestreview-4436859384) - 2026-06-05
+* [Commit] [`debug_executionWitness`: legacy + canonical conformance (#21629)](https://github.com/erigontech/erigon/commit/2ab82b7fa7d7aea2dafb93c69499969d667e7f16) - 2026-06-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

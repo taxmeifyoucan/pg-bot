@@ -54,6 +54,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: emit fast_confirmation SSE event per beacon-APIs](https://github.com/ChainSafe/lodestar/pull/9439) - 2026-06-01
 * [Issue] [Add narrow state provider boundary for Fast Confirmation](https://github.com/ChainSafe/lodestar/issues/9438) - 2026-06-01
 * [Issue] [Isolate Fast Confirmation state from core fork-choice store](https://github.com/ChainSafe/lodestar/issues/9437) - 2026-06-01
+* [Review] [Review on: feat: emit fast_confirmation SSE event per beacon-APIs](https://github.com/ChainSafe/lodestar/pull/9439#pullrequestreview-4436355633) - 2026-06-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116154021) - 2026-04-15
 

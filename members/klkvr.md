@@ -179,6 +179,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf: more aggressive trie parallelization](https://github.com/paradigmxyz/reth/pull/24258#pullrequestreview-4411682339) - 2026-06-02
 * [Pull Request] [perf: prewarm overlay](https://github.com/paradigmxyz/reth/pull/24761) - 2026-06-02
 * [Commit] [perf: remove updates count cap (#24777)](https://github.com/paradigmxyz/reth/commit/955847f195cea63c2d141a192c9b7b97e7f84e92) - 2026-06-02
+* [Pull Request] [fix: avoid clearing rocksdb unnecesarily](https://github.com/paradigmxyz/reth/pull/24903) - 2026-06-05
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
