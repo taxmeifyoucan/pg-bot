@@ -194,6 +194,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [make light supernode DA filtering on publish consistent](https://github.com/status-im/nimbus-eth2/pull/8556) - 2026-06-05
 * [Pull Request] [only check state pending_validators when there are deposits](https://github.com/status-im/nimbus-eth2/pull/8555) - 2026-06-05
 * [Pull Request] [rm unnecessary toSeq calls](https://github.com/status-im/nimbus-eth2/pull/8551) - 2026-06-05
+* [Pull Request] [run newPayload on Fulu blocks concurrently with DA arrival](https://github.com/status-im/nimbus-eth2/pull/8561) - 2026-06-06
+* [Pull Request] [use Fulu genesis for minimal local testnet](https://github.com/status-im/nimbus-eth2/pull/8560) - 2026-06-06
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

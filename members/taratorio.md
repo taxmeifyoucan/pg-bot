@@ -260,6 +260,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: use preinstalled JDK for SonarCloud scanner, cache scanner engine jar (#21632)](https://github.com/erigontech/erigon/commit/6898be8706630d13c49a3f2bf10ed6832c963158) - 2026-06-05
 * [Commit] [execution: print glamsterdam activation banner in exec module (#21635)](https://github.com/erigontech/erigon/commit/df34abd3154058ce01931a760f8ed9c62e67a7bb) - 2026-06-05
 * [Commit] [[perf] execution: avoid unnecessary grpc hop for embedded txpool GetBlobs (#21631)](https://github.com/erigontech/erigon/commit/3578acb3a63d34ca746ff03c5350584c1a4eed0f) - 2026-06-05
+* [Pull Request] [execution: fix parallel exec to produce changesets at end of each batch as serial](https://github.com/erigontech/erigon/pull/21659) - 2026-06-06
+* [Pull Request] [execution: rationalise extremely verbose bal logging](https://github.com/erigontech/erigon/pull/21649) - 2026-06-06
+* [Pull Request] [execution: fix sporadic bal mismatches due to phantom accesses in system txns](https://github.com/erigontech/erigon/pull/21654) - 2026-06-06
+* [Review] [Review on: ChangeLog: draft 3.5.0 "Tidal Tails" release notes](https://github.com/erigontech/erigon/pull/21643#pullrequestreview-4441785610) - 2026-06-06
+* [Review] [Review on: fix: PoS dev mode — enable Fusaka (Fulu CL + Osaka EL) block production](https://github.com/erigontech/erigon/pull/21646#pullrequestreview-4441495663) - 2026-06-06
+* [Issue] [[glamsterdam-devnet-5] non-deterministic parallel-exec BAL computation rejects canonical blocks as invalid, wedging the CL](https://github.com/erigontech/erigon/issues/21651) - 2026-06-06
+* [Issue] [[glamsterdam-devnet-5] no change sets for unwinding after initial sync causes node to get stuck](https://github.com/erigontech/erigon/issues/21650) - 2026-06-06
+* [Commit] [execution: rationalise extremely verbose bal logging (#21649)](https://github.com/erigontech/erigon/commit/dcef8f74436a6498c8a659cc7c374e8808923557) - 2026-06-06
+* [Commit] [execution: fix sporadic bal mismatches due to phantom accesses in system txns (#21654)](https://github.com/erigontech/erigon/commit/348041b719591fb9cb5c283c6fe82d83dc19360e) - 2026-06-06
+* [Commit] [tools: fail EEST spec shards on race-detector exit code 66 (#21640)](https://github.com/erigontech/erigon/commit/64de483a91caad0064de4ac58fa9c12cc0f8cb68) - 2026-06-06
+* [Commit] [[perf] txnprovider/txpool: blob store with own rw lock (#21634)](https://github.com/erigontech/erigon/commit/e98b62febdf7303e7e1e3d23c014343e38562530) - 2026-06-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

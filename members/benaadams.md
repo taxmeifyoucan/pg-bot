@@ -298,6 +298,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(test runner): robustness fix for fuzzing](https://github.com/NethermindEth/nethermind/pull/11913#pullrequestreview-4430000773) - 2026-06-04
 * [Review] [Review on: fix(cache): preserve future-epoch entries during concurrent Clear()](https://github.com/NethermindEth/nethermind/pull/11919#pullrequestreview-4440740713) - 2026-06-06
 * [Review] [Review on: FundsDistributor fix](https://github.com/NethermindEth/nethermind/pull/11886#pullrequestreview-4440495559) - 2026-06-05
+* [Pull Request] [perf(bal): optimize verify-only storage-read validation and prefetch](https://github.com/NethermindEth/nethermind/pull/11920) - 2026-06-06
+* [Review] [Review on: Optimize BN254 multi-pair pairing checks](https://github.com/NethermindEth/nethermind/pull/11916#pullrequestreview-4441822055) - 2026-06-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

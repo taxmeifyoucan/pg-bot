@@ -117,6 +117,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add IL satisfaction check to `should_build_on_full`](https://github.com/ethereum/consensus-specs/pull/5323#pullrequestreview-4414281102) - 2026-06-02
 * [Pull Request] [Simplify `InclusionListStore`](https://github.com/ethereum/consensus-specs/pull/5324) - 2026-06-02
 * [Commit] [Simplify `InclusionListStore` (#5324)](https://github.com/ethereum/consensus-specs/commit/69688695ed9e6c158c53d46fc5edc1689daab533) - 2026-06-03
+* [Pull Request] [Add test helpers for execution payload bid](https://github.com/ethereum/consensus-specs/pull/5339) - 2026-06-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
 ## Q1 2026

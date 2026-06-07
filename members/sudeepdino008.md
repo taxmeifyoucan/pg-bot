@@ -254,6 +254,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/snapshotsync: fix block snapshot visibility truncation and block retirement hang](https://github.com/erigontech/erigon/pull/21583#pullrequestreview-4435531282) - 2026-06-05
 * [Commit] [db/integrity: move StateProgress check to deprecated (#21596)](https://github.com/erigontech/erigon/commit/42904022c0ff2e6dbdc6981504b5e7e6e768f597) - 2026-06-05
 * [Commit] [db/recsplit: make IndexReader stateless (#21622)](https://github.com/erigontech/erigon/commit/7428f7964304a988746b1af556b853dd58ca225b) - 2026-06-05
+* [Pull Request] [common, db: move murmur3 port to common/murmur3, use it everywhere](https://github.com/erigontech/erigon/pull/21652) - 2026-06-06
+* [Issue] [blocks: skip compression at 1k-segment collation, compress only at merges](https://github.com/erigontech/erigon/issues/21653) - 2026-06-06
+* [Commit] [common, db: move murmur3 port to common/murmur3, use it everywhere (#21652)](https://github.com/erigontech/erigon/commit/aef33a8a749c7fbe6498d44ec6ddb24c83fd9959) - 2026-06-06
 ## Q1 2026
 
 

@@ -703,6 +703,11 @@ Team: Erigon
 * [Review] [Review on: ChangeLog: draft 3.5.0 "Tidal Tails" release notes](https://github.com/erigontech/erigon/pull/21643#pullrequestreview-4438559873) - 2026-06-05
 * [Review] [Review on: db/state: persist domain file cache across rotxs, survive merges](https://github.com/erigontech/erigon/pull/21627#pullrequestreview-4434756079) - 2026-06-05
 * [Review] [Review on: [perf] execution: avoid unnecessary grpc hop for embedded txpool GetBlobs](https://github.com/erigontech/erigon/pull/21631#pullrequestreview-4433632426) - 2026-06-05
+* [Review] [Review on: common, db: move murmur3 port to common/murmur3, use it everywhere](https://github.com/erigontech/erigon/pull/21652#pullrequestreview-4441768595) - 2026-06-06
+* [Review] [Review on: tools: fail EEST spec shards on race-detector exit code 66](https://github.com/erigontech/erigon/pull/21640#pullrequestreview-4441784729) - 2026-06-06
+* [Review] [Review on: db/snapcfg, cmd/utils, node: add --snap.chaintoml-url override](https://github.com/erigontech/erigon/pull/21584#pullrequestreview-4441781351) - 2026-06-06
+* [Review] [Review on: cmd/evm, test-fixtures: bump eest zkevm corpus to tests-zkevm@v0.4.1](https://github.com/erigontech/erigon/pull/21648#pullrequestreview-4441773374) - 2026-06-06
+* [Review] [Review on: [wip] seg: 2-3x faster domain merge compression via Aho-Corasick matcher and cover-DP optimizations](https://github.com/erigontech/erigon/pull/21625#pullrequestreview-4441869916) - 2026-06-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

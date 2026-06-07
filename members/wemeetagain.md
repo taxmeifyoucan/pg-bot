@@ -150,6 +150,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: use custodyColumnsIndex for O(1) custody lookup in column reqresp](https://github.com/ChainSafe/lodestar/pull/9457#pullrequestreview-4427447235) - 2026-06-04
 * [Review] [Review on: chore: remove old deposit mechanism in fulu](https://github.com/ChainSafe/lodestar/pull/9459#pullrequestreview-4425926432) - 2026-06-04
 * [Commit] [chore: remove unused dependencies (#9462)](https://github.com/ChainSafe/lodestar/commit/1557420d0a250cff776227c1f216db95e0b3dea7) - 2026-06-04
+* [Review] [Review on: refactor: payload envelope input -- pruneBelowParent](https://github.com/ChainSafe/lodestar/pull/9326#pullrequestreview-4441981298) - 2026-06-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

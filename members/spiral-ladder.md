@@ -133,6 +133,17 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [refactor(bindings): wake only required number of workers (#383)](https://github.com/ChainSafe/lodestar-z/commit/1db57f1ec426112065aa5d06b4ab64ae2da508ca) - 2026-05-29
 * [Commit] [feat: getSyncCommitteesWitness (#367)](https://github.com/ChainSafe/lodestar-z/commit/ef77649c5620837773ce010b42c07d67c4904a67) - 2026-06-03
 * [Pull Request] [fix(blst): default signature infinity check to true if not provided](https://github.com/ChainSafe/lodestar-z/pull/387) - 2026-06-05
+* [Pull Request] [(wip) prep bls release](https://github.com/ChainSafe/lodestar-z/pull/392) - 2026-06-06
+* [Pull Request] [refactor(bls): remove need for tracking results for verifyMultipleAggregateSignatures](https://github.com/ChainSafe/lodestar-z/pull/389) - 2026-06-06
+* [Pull Request] [chore(deps): compile blst with ReleaseFast](https://github.com/ChainSafe/lodestar-z/pull/391) - 2026-06-06
+* [Pull Request] [refactor(bls): remove single-threaded fallback](https://github.com/ChainSafe/lodestar-z/pull/390) - 2026-06-06
+* [Pull Request] [fix: better generation of rand scalar](https://github.com/ChainSafe/lodestar-z/pull/388) - 2026-06-06
+* [Commit] [refactor(bls): remove need for tracking results for verifyMultipleAggregateSignatures (#389)](https://github.com/ChainSafe/lodestar-z/commit/6fe5c3fb4fdc641632cdb671a3c45c934b4dc6a4) - 2026-06-06
+* [Commit] [chore(deps): compile blst with ReleaseFast (#391)](https://github.com/ChainSafe/lodestar-z/commit/753a896e88e41acb4508a0834ac1408629375377) - 2026-06-06
+* [Commit] [refactor(bls): remove single-threaded fallback (#390)](https://github.com/ChainSafe/lodestar-z/commit/e0577138e14884134ff29f2ebb80b5232ddf3a4e) - 2026-06-06
+* [Commit] [refactor: allocate `AsyncAggRandData` in one obj (#384)](https://github.com/ChainSafe/lodestar-z/commit/459750fecfa8288519371080b57fd664d1fad57d) - 2026-06-06
+* [Commit] [fix(blst): default signature infinity check to true if not provided (#387)](https://github.com/ChainSafe/lodestar-z/commit/021cdcb4a37d7c45a0be86d3ba19cad7be600501) - 2026-06-06
+* [Commit] [fix: better generation of rand scalar (#388)](https://github.com/ChainSafe/lodestar-z/commit/74dce77656a74745601c964eeb493e0a8b2a67e1) - 2026-06-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

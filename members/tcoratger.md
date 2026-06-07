@@ -284,6 +284,23 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [test(whir): pin final-round variable accounting invariant (#1742)](https://github.com/Plonky3/Plonky3/commit/47c5479ef4f9aadb4c0eceb898aa86466ea856c3) - 2026-06-05
 * [Commit] [perf(whir): avoid extra allocation in prefix-order commit encoding (#1743)](https://github.com/Plonky3/Plonky3/commit/f9883f17babc7e3f247cf5e95de1daffddef763b) - 2026-06-05
 * [Commit] [perf(whir): drop redundant leaf clones in fold-query evaluation (#1744)](https://github.com/Plonky3/Plonky3/commit/a08c5e3d98fd88e22caaa2a7b9dc47d04d8c7b04) - 2026-06-05
+* [Pull Request] [DO NOT REVIEW (WIP double-check): whir: add HVZK-WHIR hiding polynomial commitment scheme](https://github.com/Plonky3/Plonky3/pull/1767) - 2026-06-06
+* [Pull Request] [feat(air): bind AIR-owned instance data into the Fiat-Shamir transcript](https://github.com/Plonky3/Plonky3/pull/1764) - 2026-06-06
+* [Pull Request] [fix(goldilocks): make serde encoding canonical](https://github.com/Plonky3/Plonky3/pull/1765) - 2026-06-06
+* [Pull Request] [feat(sumcheck): add next-row (shift) statements for AIR over WHIR](https://github.com/Plonky3/Plonky3/pull/1763) - 2026-06-06
+* [Pull Request] [fix(fri): reject opening point equal to the query point instead of panicking](https://github.com/Plonky3/Plonky3/pull/1762) - 2026-06-06
+* [Pull Request] [fix(uni-stark): reject malformed periodic column lengths in the verifier](https://github.com/Plonky3/Plonky3/pull/1761) - 2026-06-06
+* [Pull Request] [fix(uni-stark): reject out-of-domain point inside the trace domain](https://github.com/Plonky3/Plonky3/pull/1760) - 2026-06-06
+* [Review] [Review on: whir: add HVZK code-switch relation](https://github.com/Plonky3/Plonky3/pull/1740#pullrequestreview-4442273898) - 2026-06-06
+* [Review] [Review on: fix(util): guard reverse_bits_len against oversized bit_len](https://github.com/Plonky3/Plonky3/pull/1752#pullrequestreview-4442252642) - 2026-06-06
+* [Review] [Review on: perf: use FFT-domain MDS for RPO over Goldilocks](https://github.com/Plonky3/Plonky3/pull/1730#pullrequestreview-4442110419) - 2026-06-06
+* [Review] [Review on: perf(goldilocks): cross-permute batched Poseidon2 for widths 8 and 12](https://github.com/Plonky3/Plonky3/pull/1667#pullrequestreview-4442093523) - 2026-06-06
+* [Commit] [fix(util): guard reverse_bits_len against oversized bit_len (#1752)](https://github.com/Plonky3/Plonky3/commit/4e9dcb4a1e95fd34b7aa9dedf80d008492c429d0) - 2026-06-06
+* [Commit] [fix(matrix): reject inverted column ranges in HorizontallyTruncated (#1749)](https://github.com/Plonky3/Plonky3/commit/b931c0a6b0aa1b4f4eea10c43ab8130c387bb670) - 2026-06-06
+* [Commit] [chore(multilinear-util): remove dead compress_suffix_into wrapper (#1753)](https://github.com/Plonky3/Plonky3/commit/cb489948000a1c6344b01e40673d617bd8ebfad4) - 2026-06-06
+* [Commit] [fix(poseidon1-air): add missing (11, 1) S-box constraint degree (#1755)](https://github.com/Plonky3/Plonky3/commit/554a75ff996d94442f601c95f0fb4ee77f945a44) - 2026-06-06
+* [Commit] [fix(field): make from_int total for iN::MIN (#1758)](https://github.com/Plonky3/Plonky3/commit/07130aaaba935f6ef41e597bcd2ff9f8888ac1e9) - 2026-06-06
+* [Commit] [refactor(batch-stark): drop redundant quotient-chunk count check (#1754)](https://github.com/Plonky3/Plonky3/commit/6b6da985b411f07d2571965dc9f869ba4164d2cf) - 2026-06-06
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

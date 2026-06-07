@@ -156,6 +156,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Update EIP-7688: Add rationale for Validator remaining Container](https://github.com/ethereum/EIPs/commit/9eb1fadbc0941fbc877294c5d647c30fb42c5bfb) - 2026-05-19
 
 * [Review] [Review on: Update EIP-8016: fix minor typos](https://github.com/ethereum/EIPs/pull/10484#pullrequestreview-4428528073) - 2026-06-04
+* [Pull Request] [Update EIP-7807: Reduce scope to non-headliner core](https://github.com/ethereum/EIPs/pull/11774) - 2026-06-06
+* [Commit] [Update EIP-7807: Reduce scope to non-headliner core](https://github.com/ethereum/EIPs/commit/75d7bc2c20a91ec017d147f400d6bbf767843e2c) - 2026-06-06
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Expose EIP-7843 slot number via JSON-RPC](https://github.com/ethereum/execution-apis/pull/806) - 2026-05-22
 ## Q1 2026

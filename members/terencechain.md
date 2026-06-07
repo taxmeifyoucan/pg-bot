@@ -229,6 +229,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Request parent payload envelopes in parallel with parent blocks](https://github.com/OffchainLabs/prysm/pull/16908) - 2026-06-05
 * [Review] [Review on: Add `execution_payload` event support](https://github.com/OffchainLabs/prysm/pull/16894#pullrequestreview-4437062601) - 2026-06-05
 * [Commit] [Run payload envelope DA check concurrently (#16899)](https://github.com/OffchainLabs/prysm/commit/ba7c94362e01c349c533e7e4b95134f48758856c) - 2026-06-05
+* [Pull Request] [Get head full/empty from forkchoice on payload arrival](https://github.com/OffchainLabs/prysm/pull/16914) - 2026-06-06
+* [Review] [Review on: Submit payload attestation on `execution_payload_available` event](https://github.com/OffchainLabs/prysm/pull/16906#pullrequestreview-4442995210) - 2026-06-06
+* [Review] [Review on: Replace redundant `WaitGroup` patterns with `WaitGroup.Go`](https://github.com/OffchainLabs/prysm/pull/16912#pullrequestreview-4443028169) - 2026-06-06
+* [Review] [Review on: Add debug log when ignoring payload envelope not for current slot](https://github.com/OffchainLabs/prysm/pull/16905#pullrequestreview-4441841725) - 2026-06-06
+* [Pull Request] [Fix attribute to `current_slot+1` after payload envelope processing](https://github.com/OffchainLabs/prysm/pull/16910) - 2026-06-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

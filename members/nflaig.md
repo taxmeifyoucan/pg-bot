@@ -324,6 +324,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: expose EMPTY_BLOCK_HASH constant in config API](https://github.com/ChainSafe/lodestar/pull/9465#pullrequestreview-4434743266) - 2026-06-05
 * [Review] [Review on: fix: prune finalized checkpoint state per processState()](https://github.com/ChainSafe/lodestar/pull/9463#pullrequestreview-4434721928) - 2026-06-05
 * [Review] [Review on: perf: use custodyColumnsIndex for O(1) custody lookup in column reqresp](https://github.com/ChainSafe/lodestar/pull/9457#pullrequestreview-4434771458) - 2026-06-05
+* [Pull Request] [fix: skip orphaned payload columns in data columns by range](https://github.com/ChainSafe/lodestar/pull/9471) - 2026-06-06
+* [Review] [Review on: test: make isAttestation handler work with negative tests](https://github.com/ChainSafe/lodestar/pull/9466#pullrequestreview-4443509843) - 2026-06-06
+* [Review] [Review on: refactor: payload envelope input -- pruneBelowParent](https://github.com/ChainSafe/lodestar/pull/9326#pullrequestreview-4442142179) - 2026-06-06
+* [Issue] [Proactively request missing payloads near/at deadline](https://github.com/ChainSafe/lodestar/issues/9470) - 2026-06-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

@@ -179,6 +179,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: fix trace gaslimit override](https://github.com/erigontech/erigon/pull/21647) - 2026-06-05
 * [Review] [Review on: [WIP] rpc:  add withdrawal balance diffs to trace_block and trace_replayBlockTransactions](https://github.com/erigontech/erigon/pull/21592#pullrequestreview-4433847769) - 2026-06-05
 * [Commit] [QA: update rpc version to 2 13 (#21612)](https://github.com/erigontech/erigon/commit/430e24b6ebc6d03b4f8a412d00ee5bc544ec33c4) - 2026-06-05
+* [Pull Request] [rpc: fix retention number as quantity](https://github.com/erigontech/erigon/pull/21660) - 2026-06-06
+* [Pull Request] [rpc fix legacy witness missing "0x" for new empty-code accounts](https://github.com/erigontech/erigon/pull/21661) - 2026-06-06
+* [Pull Request] [rpc: fix debug_accountRange() start validation & remove incompletes validation](https://github.com/erigontech/erigon/pull/21657) - 2026-06-06
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -225,6 +228,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration-test: fix algo json compare](https://github.com/erigontech/rpc-tests/pull/570) - 2026-06-02
 * [Commit] [integration: add tests eth_getStorageValues() (#545)](https://github.com/erigontech/rpc-tests/commit/57fc1f128ce5bb82ac3d6882fed26bf16baebb81) - 2026-06-03
 * [Commit] [integration test: debug execution witness for hive (#563)](https://github.com/erigontech/rpc-tests/commit/98ab8e4b8986e9d6b9fd11ffe1bf0883efdd9e93) - 2026-06-03
+* [Pull Request] [integration_test: save Reth (commmit 87fc4cf4355ddbc59220f691a46d9f9d354adfa0 ) response with hive chain](https://github.com/erigontech/rpc-tests/pull/571) - 2026-06-06
+* [Commit] [integration-test: fix algo json compare (#570)](https://github.com/erigontech/rpc-tests/commit/d36c92c7bfeafb0269bfa37e879ef81793e26efd) - 2026-06-06
 ## Q1 2026
 
 

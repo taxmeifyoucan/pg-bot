@@ -559,6 +559,10 @@ Team: Reth
 * [Pull Request] [chore(deps): bump reth-core crates to 0.4.1](https://github.com/paradigmxyz/reth/pull/24897) - 2026-06-05
 * [Review] [Review on: fix: docs Mermaid rendering](https://github.com/paradigmxyz/reth/pull/24892#pullrequestreview-4435003290) - 2026-06-05
 * [Review] [Review on: feat(engine-ssz): add supports for `engine_getBlobsVX` methods in ssz proxy](https://github.com/paradigmxyz/reth/pull/24887#pullrequestreview-4434695686) - 2026-06-05
+* [Review] [Review on: feat(engine-ssz): add engine capabilities and identity methods](https://github.com/paradigmxyz/reth/pull/24906#pullrequestreview-4441900925) - 2026-06-06
+* [Review] [Review on: fix(engine-ssz): accept ssz fcu v4 custody columns](https://github.com/paradigmxyz/reth/pull/24907#pullrequestreview-4441901162) - 2026-06-06
+* [Pull Request] [fix(txpool): skip blob cleanup without blob support](https://github.com/paradigmxyz/reth/pull/24926) - 2026-06-06
+* [Commit] [chore(deps): bump reth-core crates to 0.4.1 (#24897)](https://github.com/paradigmxyz/reth/commit/f7eada52036747bfeed5ab17d9a272588c154525) - 2026-06-06
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
