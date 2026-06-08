@@ -64,6 +64,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add test for checking builder index reuse](https://github.com/ethereum/consensus-specs/pull/5296) - 2026-05-26
 * [Commit] [Add test for checking builder index reuse (#5296)](https://github.com/ethereum/consensus-specs/commit/5898db97eccadd3407e1216035c831bca559d2fe) - 2026-05-28
+
+[sigp/discv5](https://github.com/sigp/discv5)
+* [Review] [Review on: fix: remove expected-response entry on challenge expiry](https://github.com/sigp/discv5/pull/306#pullrequestreview-4445913460) - 2026-06-07
 ## Q1 2026
 
 

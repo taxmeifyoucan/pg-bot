@@ -563,6 +563,11 @@ Team: Reth
 * [Review] [Review on: fix(engine-ssz): accept ssz fcu v4 custody columns](https://github.com/paradigmxyz/reth/pull/24907#pullrequestreview-4441901162) - 2026-06-06
 * [Pull Request] [fix(txpool): skip blob cleanup without blob support](https://github.com/paradigmxyz/reth/pull/24926) - 2026-06-06
 * [Commit] [chore(deps): bump reth-core crates to 0.4.1 (#24897)](https://github.com/paradigmxyz/reth/commit/f7eada52036747bfeed5ab17d9a272588c154525) - 2026-06-06
+* [Review] [Review on: feat: extend era-downloader to ere files](https://github.com/paradigmxyz/reth/pull/24899#pullrequestreview-4444590937) - 2026-06-07
+* [Pull Request] [fix(payload): defer resolved job drop until after send](https://github.com/paradigmxyz/reth/pull/24967) - 2026-06-07
+* [Pull Request] [feat(engine): add into_block_arc to built payload](https://github.com/paradigmxyz/reth/pull/24960) - 2026-06-07
+* [Commit] [fix(payload): defer resolved job drop until after send (#24967)](https://github.com/paradigmxyz/reth/commit/8b902fe0b3af1bde8efc25dca12b4baee8ed2175) - 2026-06-07
+* [Commit] [feat(engine): add into_block_arc to built payload (#24960)](https://github.com/paradigmxyz/reth/commit/e5f654ae9582c2fd3ce5992d4e88f774a94c1fc3) - 2026-06-07
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

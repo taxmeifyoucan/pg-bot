@@ -61,6 +61,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Simplify lookup sync da_checker oracle](https://github.com/sigp/lighthouse/pull/9428) - 2026-06-05
 * [Review] [Review on: Simplify lookup sync da_checker oracle](https://github.com/sigp/lighthouse/pull/9428#pullrequestreview-4439608931) - 2026-06-05
 * [Pull Request] [DuplicateCache: await in-progress block import instead of the reprocess queue](https://github.com/sigp/lighthouse/pull/9423) - 2026-06-05
+* [Review] [Review on: Improve error types for envelopes](https://github.com/sigp/lighthouse/pull/9414#pullrequestreview-4445818972) - 2026-06-07
+* [Pull Request] [Remove LookupResult: handle completion and parent-unknown in on_processing_result](https://github.com/sigp/lighthouse/pull/9431) - 2026-06-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 

@@ -236,6 +236,8 @@ Team: Erigon
 * [Review] [Review on: execution: fix parallel exec to produce changesets at end of each batch as serial](https://github.com/erigontech/erigon/pull/21659#pullrequestreview-4443303893) - 2026-06-06
 * [Review] [Review on: execution: rationalise extremely verbose bal logging](https://github.com/erigontech/erigon/pull/21649#pullrequestreview-4442356223) - 2026-06-06
 * [Review] [Review on: execution: fix sporadic bal mismatches due to phantom accesses in system txns](https://github.com/erigontech/erigon/pull/21654#pullrequestreview-4442355574) - 2026-06-06
+* [Pull Request] [execution/stagedsync: parallel-exec - flush invalid-tx writes as Estimate](https://github.com/erigontech/erigon/pull/21667) - 2026-06-07
+* [Pull Request] [db/state/kvmetrics: process-level channel-fed KV-read metrics collector](https://github.com/erigontech/erigon/pull/21663) - 2026-06-07
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

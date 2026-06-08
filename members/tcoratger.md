@@ -301,6 +301,14 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [fix(poseidon1-air): add missing (11, 1) S-box constraint degree (#1755)](https://github.com/Plonky3/Plonky3/commit/554a75ff996d94442f601c95f0fb4ee77f945a44) - 2026-06-06
 * [Commit] [fix(field): make from_int total for iN::MIN (#1758)](https://github.com/Plonky3/Plonky3/commit/07130aaaba935f6ef41e597bcd2ff9f8888ac1e9) - 2026-06-06
 * [Commit] [refactor(batch-stark): drop redundant quotient-chunk count check (#1754)](https://github.com/Plonky3/Plonky3/commit/6b6da985b411f07d2571965dc9f869ba4164d2cf) - 2026-06-06
+* [Review] [Review on: fix(merkle-tree): enforce opened row widths in batch verification](https://github.com/Plonky3/Plonky3/pull/1757#pullrequestreview-4445607293) - 2026-06-07
+* [Pull Request] [fix(challenger): make duplex sponge absorbs length-binding](https://github.com/Plonky3/Plonky3/pull/1769) - 2026-06-07
+* [Review] [Review on: fix(merkle-tree): reject unreachable MMCS dimensions](https://github.com/Plonky3/Plonky3/pull/1768#pullrequestreview-4445120475) - 2026-06-07
+* [Commit] [fix(whir): error instead of panic on invalid per-round folding schedule (#1741)](https://github.com/Plonky3/Plonky3/commit/7ad1c0c7fb16e72f3584f2ca73bc9d7a5c6aa105) - 2026-06-07
+* [Commit] [fix(multilinear-util): correct packed-batch workspace slicing and crossover (#1751)](https://github.com/Plonky3/Plonky3/commit/8ed0d3e03faee6c6b7994d9fdc97f9f9efbbdc9b) - 2026-06-07
+* [Commit] [fix(challenger): evaluate PoW bit-bound in u64 to close release-mode bypass (#1747)](https://github.com/Plonky3/Plonky3/commit/091d98c45c4cc5eca1abbf1811d702db514f44b4) - 2026-06-07
+* [Commit] [fix(matrix): correct strided view height for offset >= stride (#1750)](https://github.com/Plonky3/Plonky3/commit/fb00d05112816115c1d6d6e9a8dc8c3870c9006a) - 2026-06-07
+* [Commit] [refactor(fri): hoist height-1 check and unify max-height in prover (#1756)](https://github.com/Plonky3/Plonky3/commit/3ef5b724a1a864baba782f721e9e0d03f3947a23) - 2026-06-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

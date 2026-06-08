@@ -129,6 +129,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [Broadcast PTC as soon as payload is available](https://github.com/sigp/lighthouse/issues/9422) - 2026-06-05
 * [Issue] [Implement PTC reprocess queue](https://github.com/sigp/lighthouse/issues/9421) - 2026-06-05
 * [Pull Request] [Gloas checkpoint sync](https://github.com/sigp/lighthouse/pull/9430) - 2026-06-06
+* [Review] [Review on: Gloas alpha spec 9](https://github.com/sigp/lighthouse/pull/9393#pullrequestreview-4445895568) - 2026-06-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

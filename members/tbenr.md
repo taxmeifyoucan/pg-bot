@@ -142,6 +142,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Reduce BlockNodeVariantsIndex lookups (#10786)](https://github.com/Consensys/teku/commit/0288ace3d78a966e504e4e2f5249477af7ea92d1) - 2026-06-03
 * [Issue] [Missing Gloas `beacon_attestation` gossip rules](https://github.com/Consensys/teku/issues/10795) - 2026-06-05
 * [Issue] [devnet-5 datacolumns by root request error - sync issue](https://github.com/Consensys/teku/issues/10797) - 2026-06-06
+* [Pull Request] [Visually align event and change color](https://github.com/Consensys/teku/pull/10799) - 2026-06-07
+* [Issue] [devnet-5 `proposer_preferences` exception](https://github.com/Consensys/teku/issues/10798) - 2026-06-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

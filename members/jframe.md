@@ -57,6 +57,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: add eth_getTransactionBySenderAndNonce RPC](https://github.com/besu-eth/besu/pull/10501#pullrequestreview-4386798886) - 2026-05-29
 * [Review] [Review on: Add new payload listener](https://github.com/besu-eth/besu/pull/10570#pullrequestreview-4405708372) - 2026-06-02
 * [Review] [Review on: Add new payload listener](https://github.com/besu-eth/besu/pull/10570#pullrequestreview-4414714135) - 2026-06-03
+* [Review] [Review on: Fix/eth capabilities oldest block when state is enabled](https://github.com/besu-eth/besu/pull/10597#pullrequestreview-4446365774) - 2026-06-08
 ## Q1 2026
 
 

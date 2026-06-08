@@ -708,6 +708,12 @@ Team: Erigon
 * [Review] [Review on: db/snapcfg, cmd/utils, node: add --snap.chaintoml-url override](https://github.com/erigontech/erigon/pull/21584#pullrequestreview-4441781351) - 2026-06-06
 * [Review] [Review on: cmd/evm, test-fixtures: bump eest zkevm corpus to tests-zkevm@v0.4.1](https://github.com/erigontech/erigon/pull/21648#pullrequestreview-4441773374) - 2026-06-06
 * [Review] [Review on: [wip] seg: 2-3x faster domain merge compression via Aho-Corasick matcher and cover-DP optimizations](https://github.com/erigontech/erigon/pull/21625#pullrequestreview-4441869916) - 2026-06-06
+* [Review] [Review on: cl/antiquary: batch beacon snapshot indexing](https://github.com/erigontech/erigon/pull/21594#pullrequestreview-4445488062) - 2026-06-07
+* [Review] [Review on: commitment: fix warmuper arena data race in HashSort](https://github.com/erigontech/erigon/pull/21432#pullrequestreview-4444862763) - 2026-06-07
+* [Review] [Review on: execution/stagedsync: fix receipt transaction index in serial execution](https://github.com/erigontech/erigon/pull/21662#pullrequestreview-4444460214) - 2026-06-07
+* [Review] [Review on: rpc: fix trace gaslimit override](https://github.com/erigontech/erigon/pull/21647#pullrequestreview-4444459442) - 2026-06-07
+* [Review] [Review on: rpc: implement pending resolver and GetPendingTransactions GraphQL](https://github.com/erigontech/erigon/pull/21593#pullrequestreview-4444459837) - 2026-06-07
+* [Review] [Review on: rpc: fix retention number as quantity](https://github.com/erigontech/erigon/pull/21660#pullrequestreview-4444459206) - 2026-06-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

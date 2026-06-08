@@ -271,6 +271,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: fix sporadic bal mismatches due to phantom accesses in system txns (#21654)](https://github.com/erigontech/erigon/commit/348041b719591fb9cb5c283c6fe82d83dc19360e) - 2026-06-06
 * [Commit] [tools: fail EEST spec shards on race-detector exit code 66 (#21640)](https://github.com/erigontech/erigon/commit/64de483a91caad0064de4ac58fa9c12cc0f8cb68) - 2026-06-06
 * [Commit] [[perf] txnprovider/txpool: blob store with own rw lock (#21634)](https://github.com/erigontech/erigon/commit/e98b62febdf7303e7e1e3d23c014343e38562530) - 2026-06-06
+* [Commit] [execution: fix parallel exec to produce changesets at end of each batch as serial (#21659)](https://github.com/erigontech/erigon/commit/2af9783f8acdecdc5650c525917fda3759066512) - 2026-06-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

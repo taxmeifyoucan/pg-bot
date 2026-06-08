@@ -328,6 +328,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: make isAttestation handler work with negative tests](https://github.com/ChainSafe/lodestar/pull/9466#pullrequestreview-4443509843) - 2026-06-06
 * [Review] [Review on: refactor: payload envelope input -- pruneBelowParent](https://github.com/ChainSafe/lodestar/pull/9326#pullrequestreview-4442142179) - 2026-06-06
 * [Issue] [Proactively request missing payloads near/at deadline](https://github.com/ChainSafe/lodestar/issues/9470) - 2026-06-06
+* [Review] [Review on: feat: emit fast_confirmation SSE event per beacon-APIs](https://github.com/ChainSafe/lodestar/pull/9439#pullrequestreview-4445057753) - 2026-06-07
+* [Pull Request] [chore: remove resolved todo about queuing payload envelopes](https://github.com/ChainSafe/lodestar/pull/9474) - 2026-06-07
+* [Review] [Review on: ci: bump codecov-action to v6.0.2 for keybase migration](https://github.com/ChainSafe/lodestar/pull/9473#pullrequestreview-4444676697) - 2026-06-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

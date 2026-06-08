@@ -69,6 +69,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Add Gloas state builders Beacon API endpoint](https://github.com/Consensys/teku/pull/10765#pullrequestreview-4407342668) - 2026-06-02
 * [Pull Request] [Enable gossip blob sidecar ref-test](https://github.com/Consensys/teku/pull/10780) - 2026-06-02
 * [Review] [Review on: Introduce is_previous_slot_payload_decision predicate](https://github.com/Consensys/teku/pull/10784#pullrequestreview-4415803048) - 2026-06-03
+* [Review] [Review on: Visually align event and change color](https://github.com/Consensys/teku/pull/10799#pullrequestreview-4446015076) - 2026-06-07
+* [Commit] [Enable gossip attestation and aggregate ref-test (#10770)](https://github.com/Consensys/teku/commit/e6cec327446892ae7e9456b1031fab8869379dd0) - 2026-06-07
 ## Q1 2026
 
 

@@ -62,6 +62,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8146: Toni/update 8146](https://github.com/ethereum/EIPs/commit/6c4afea6fcf2138313f5df8cb4e60c4a9343b486) - 2026-05-27
 * [Pull Request] [Add EIP: Block Access List Byte Floor](https://github.com/ethereum/EIPs/pull/11739) - 2026-05-28
 * [Pull Request] [Update EIP-8131: Rewrite EIP-8131 as Unified Transaction Content Floor](https://github.com/ethereum/EIPs/pull/11738) - 2026-05-28
+* [Pull Request] [Add EIP: Multi-block access list warming](https://github.com/ethereum/EIPs/pull/11776) - 2026-06-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11

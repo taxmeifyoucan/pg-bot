@@ -336,6 +336,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Update tests workflow to upload combined coverage data (#5337)](https://github.com/ethereum/consensus-specs/commit/2f1b1f195d975375b94af81e0fc058ba8603709e) - 2026-06-05
 * [Pull Request] [Deprecate two functions](https://github.com/ethereum/consensus-specs/pull/5340) - 2026-06-06
 * [Commit] [Deprecate two functions (#5340)](https://github.com/ethereum/consensus-specs/commit/4b886dc5c8b20ac8c4f857e1b1e8c4667f5261c9) - 2026-06-06
+* [Review] [Review on: Update astral-sh/setup-uv action to v8.2.0](https://github.com/ethereum/consensus-specs/pull/5343#pullrequestreview-4446201229) - 2026-06-08
+* [Review] [Review on: Update actions/checkout action to v6.0.3](https://github.com/ethereum/consensus-specs/pull/5342#pullrequestreview-4446186185) - 2026-06-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

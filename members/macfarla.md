@@ -256,6 +256,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [Fix/eth capabilities oldest block when state is enabled](https://github.com/besu-eth/besu/pull/10597) - 2026-06-05
 * [Commit] [downgrade duplicate engine api timeout log to debug (#10595)](https://github.com/besu-eth/besu/commit/f7e6dce3dda10f3e23f4cba03f8ef385df9f9f75) - 2026-06-05
 * [Commit] [chore: tidy up some references to java 21 (#10596)](https://github.com/besu-eth/besu/commit/cb18fdfc8718928847eccf547801025ded6504ae) - 2026-06-05
+* [Pull Request] [perf: make LayeredKeyValueStorage.isClosed() O(1) to fix CPU hotspot under deep layer chains](https://github.com/besu-eth/besu/pull/10603) - 2026-06-08
+* [Commit] [Fix/eth capabilities oldest block when state is enabled (#10597)](https://github.com/besu-eth/besu/commit/d4afab1a9fa9d3452a955ea045c9fc52fba019a7) - 2026-06-08
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

@@ -257,6 +257,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [common, db: move murmur3 port to common/murmur3, use it everywhere](https://github.com/erigontech/erigon/pull/21652) - 2026-06-06
 * [Issue] [blocks: skip compression at 1k-segment collation, compress only at merges](https://github.com/erigontech/erigon/issues/21653) - 2026-06-06
 * [Commit] [common, db: move murmur3 port to common/murmur3, use it everywhere (#21652)](https://github.com/erigontech/erigon/commit/aef33a8a749c7fbe6498d44ec6ddb24c83fd9959) - 2026-06-06
+* [Review] [Review on: db/snapshotsync: fix block snapshot visibility truncation and block retirement hang](https://github.com/erigontech/erigon/pull/21583#pullrequestreview-4446255160) - 2026-06-08
+* [Pull Request] [[wip/DNM] noref commitment files](https://github.com/erigontech/erigon/pull/21668) - 2026-06-08
 ## Q1 2026
 
 

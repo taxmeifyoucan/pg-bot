@@ -182,6 +182,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: fix retention number as quantity](https://github.com/erigontech/erigon/pull/21660) - 2026-06-06
 * [Pull Request] [rpc fix legacy witness missing "0x" for new empty-code accounts](https://github.com/erigontech/erigon/pull/21661) - 2026-06-06
 * [Pull Request] [rpc: fix debug_accountRange() start validation & remove incompletes validation](https://github.com/erigontech/erigon/pull/21657) - 2026-06-06
+* [Pull Request] [rpc: omit memory field if empty (as Geth)](https://github.com/erigontech/erigon/pull/21666) - 2026-06-07
+* [Commit] [rpc: implement pending resolver and GetPendingTransactions GraphQL (#21593)](https://github.com/erigontech/erigon/commit/375dde8ab69ae827449192aa990af755916169d0) - 2026-06-07
+* [Commit] [rpc: fix trace gaslimit override (#21647)](https://github.com/erigontech/erigon/commit/6564828a91165873e431b675243db35cf9f9a5ed) - 2026-06-07
+* [Commit] [rpc: fix retention number as quantity (#21660)](https://github.com/erigontech/erigon/commit/8c4e9154e0e302ab72d2bf066be7f22d9892c185) - 2026-06-07
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -230,6 +234,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [integration test: debug execution witness for hive (#563)](https://github.com/erigontech/rpc-tests/commit/98ab8e4b8986e9d6b9fd11ffe1bf0883efdd9e93) - 2026-06-03
 * [Pull Request] [integration_test: save Reth (commmit 87fc4cf4355ddbc59220f691a46d9f9d354adfa0 ) response with hive chain](https://github.com/erigontech/rpc-tests/pull/571) - 2026-06-06
 * [Commit] [integration-test: fix algo json compare (#570)](https://github.com/erigontech/rpc-tests/commit/d36c92c7bfeafb0269bfa37e879ef81793e26efd) - 2026-06-06
+* [Pull Request] [integration-test: omit memory attribute on debug api if empty](https://github.com/erigontech/rpc-tests/pull/572) - 2026-06-07
 ## Q1 2026
 
 
