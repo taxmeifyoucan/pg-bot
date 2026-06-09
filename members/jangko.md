@@ -68,6 +68,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Test txpool against EEST fixtures (#4281)](https://github.com/status-im/nimbus-eth1/commit/1d0df8c5b9e3d8f95919585d2c7df2e0e017891d) - 2026-06-04
 * [Review] [Review on: Skip empty account check in ledger addBalance post merge](https://github.com/status-im/nimbus-eth1/pull/4298#pullrequestreview-4426049580) - 2026-06-04
 * [Review] [Review on: Ledger based BAL tracker](https://github.com/status-im/nimbus-eth1/pull/4269#pullrequestreview-4425233766) - 2026-06-04
+* [Pull Request] [Reduce [XDeclaredButNotUsed] and [Deprecated] warnings](https://github.com/status-im/nimbus-eth1/pull/4314) - 2026-06-09
+* [Pull Request] [Fix nightly build and upgrade gha download/upload artifact](https://github.com/status-im/nimbus-eth1/pull/4311) - 2026-06-08
+* [Pull Request] [TxPool: fix feeRecipient reward issue and fix ordered list cleanup issue](https://github.com/status-im/nimbus-eth1/pull/4313) - 2026-06-09
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 

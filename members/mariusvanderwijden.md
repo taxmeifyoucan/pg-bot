@@ -84,6 +84,7 @@ Team: Geth
 * [Review] [Review on: trie: reduce allocations in parallel commit](https://github.com/ethereum/go-ethereum/pull/33904#pullrequestreview-4409852342) - 2026-06-02
 * [Review] [Review on: build, cmd/geth, signer: remove clef](https://github.com/ethereum/go-ethereum/pull/35097#pullrequestreview-4417329921) - 2026-06-03
 * [Review] [Review on: internal/ethapi: default block parameter to latest on state methods](https://github.com/ethereum/go-ethereum/pull/35100#pullrequestreview-4417324452) - 2026-06-03
+* [Review] [Review on: eth/protocols/eth: track announced tx hashes only after send](https://github.com/ethereum/go-ethereum/pull/35122#pullrequestreview-4449196660) - 2026-06-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

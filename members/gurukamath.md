@@ -38,6 +38,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(spec-tools): use testing pydantic models in t8n](https://github.com/ethereum/execution-specs/pull/2924#pullrequestreview-4381817989) - 2026-05-28
 * [Review] [Review on: refactor(spec-tools): use testing pydantic models in t8n](https://github.com/ethereum/execution-specs/pull/2924#pullrequestreview-4387479254) - 2026-05-29
 * [Issue] [t8n should use in-process traces](https://github.com/ethereum/execution-specs/issues/2939) - 2026-05-29
+* [Review] [Review on: feat(amsterdam): defer EIP-7702 delegate warming until entry checks pass](https://github.com/ethereum/execution-specs/pull/2900#pullrequestreview-4446993506) - 2026-06-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332#pullrequestreview-4152757786) - 2026-04-22
 * [Commit] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/commit/c550387e917485af69a6999aea45270a555e2eb7) - 2026-04-22

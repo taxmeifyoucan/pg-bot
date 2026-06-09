@@ -58,6 +58,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-8037: Calldata floor accounting alignment & call-frame refill clarification](https://github.com/ethereum/EIPs/pull/11706#pullrequestreview-4399771003) - 2026-06-01
 * [Commit] [Update EIP-8037: Calldata floor accounting alignment & call-frame refill clarification](https://github.com/ethereum/EIPs/commit/1d65cedf6fc2ec68a4f08f72577a9d7e55ca3f51) - 2026-06-01
 * [Review] [Review on: Update EIP-8037: fix typo in 8037](https://github.com/ethereum/EIPs/pull/11754#pullrequestreview-4410106370) - 2026-06-02
+* [Review] [Review on: Update EIP-8037: remove the callcode for account creation cases](https://github.com/ethereum/EIPs/pull/11759#pullrequestreview-4447937305) - 2026-06-08
 ## Q1 2026
 
 

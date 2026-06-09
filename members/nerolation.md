@@ -79,6 +79,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [feat(amsterdam): defer EIP-7702 delegate warming until entry checks pass](https://github.com/ethereum/execution-specs/pull/2900) - 2026-05-22
 * [Pull Request] [feat(execute): skip deterministic factory deploy when it can't be bootstrapped](https://github.com/ethereum/execution-specs/pull/2944) - 2026-05-30
 * [Review] [Review on: feat(amsterdam): defer EIP-7702 delegate warming until entry checks pass](https://github.com/ethereum/execution-specs/pull/2900#pullrequestreview-4399273021) - 2026-06-01
+* [Review] [Review on: feat(amsterdam): defer EIP-7702 delegate warming until entry checks pass](https://github.com/ethereum/execution-specs/pull/2900#pullrequestreview-4449220126) - 2026-06-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Use `engine_getPayloadV6`](https://github.com/ethereum/consensus-specs/pull/5123) - 2026-04-17
 * [Commit] [Use `engine_getPayloadV6` (#5123)](https://github.com/ethereum/consensus-specs/commit/81c27174232bedc50f71c2c4b78b07e2951252cd) - 2026-04-17

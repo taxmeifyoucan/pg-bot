@@ -144,6 +144,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [devnet-5 datacolumns by root request error - sync issue](https://github.com/Consensys/teku/issues/10797) - 2026-06-06
 * [Pull Request] [Visually align event and change color](https://github.com/Consensys/teku/pull/10799) - 2026-06-07
 * [Issue] [devnet-5 `proposer_preferences` exception](https://github.com/Consensys/teku/issues/10798) - 2026-06-07
+* [Review] [Review on: Support custom config when running gossip ref tests](https://github.com/Consensys/teku/pull/10802#pullrequestreview-4453476794) - 2026-06-08
+* [Pull Request] [Fix Gloas empty parent payload withdrawals - block production](https://github.com/Consensys/teku/pull/10803) - 2026-06-08
+* [Review] [Review on: defer Gloas full payload attestations until execution payload is available](https://github.com/Consensys/teku/pull/10772#pullrequestreview-4448050255) - 2026-06-08
+* [Review] [Review on: update block gossip validation when execution payload is delayed](https://github.com/Consensys/teku/pull/10794#pullrequestreview-4448945576) - 2026-06-08
+* [Commit] [visually align event and change color (#10799)](https://github.com/Consensys/teku/commit/32eb6477a0379de3c97d3732484d8b62cd553995) - 2026-06-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

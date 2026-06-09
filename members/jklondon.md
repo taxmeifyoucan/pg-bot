@@ -92,6 +92,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: docs: refresh RELEASE_INSTRUCTIONS.md for moved files and version vars](https://github.com/erigontech/erigon/pull/21620#pullrequestreview-4429021093) - 2026-06-04
 * [Pull Request] [execution/protocol: fix Osaka (EIP-7778) block gas to use pre-refund gas](https://github.com/erigontech/erigon/pull/21642) - 2026-06-05
 * [Pull Request] [[r3.4] execution/protocol: fix Osaka (EIP-7778) block gas to use pre-refund gas](https://github.com/erigontech/erigon/pull/21641) - 2026-06-05
+* [Review] [Review on: commitment: fix warmuper arena data race in HashSort](https://github.com/erigontech/erigon/pull/21432#pullrequestreview-4448773866) - 2026-06-08
+* [Review] [Review on: db/state, db/config3: erigondb.toml as source of truth for commitment branch referencing](https://github.com/erigontech/erigon/pull/21452#pullrequestreview-4449028307) - 2026-06-08
+* [Review] [Review on: db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots](https://github.com/erigontech/erigon/pull/21200#pullrequestreview-4449015588) - 2026-06-08
 ## Q1 2026
 
 

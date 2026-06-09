@@ -92,6 +92,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Move history code outside of portal into execution_chain (#4308)](https://github.com/status-im/nimbus-eth1/commit/9753ff192b96da657fd979b5ed344c0eef0ee296) - 2026-06-05
 * [Commit] [Era1DB: merge feature set of other implementation (#4307)](https://github.com/status-im/nimbus-eth1/commit/95e21081fcd8f18086dbbe6fd920e71f989634cc) - 2026-06-05
 * [Commit] [Clean-up portal/eth_history folder (#4306)](https://github.com/status-im/nimbus-eth1/commit/cee7e6201bc363354c209b10392c3188bb076e95) - 2026-06-05
+* [Pull Request] [nimbus_portal_client: Add support for sepolia and hoodi](https://github.com/status-im/nimbus-eth1/pull/4312) - 2026-06-08
+* [Pull Request] [Add ere support to nimbus_portal_bridge](https://github.com/status-im/nimbus-eth1/pull/4310) - 2026-06-08
+* [Commit] [nimbus_portal_client: Add support for sepolia and hoodi (#4312)](https://github.com/status-im/nimbus-eth1/commit/93378003d043a515618fa1bfb7fd14b0148a0ff5) - 2026-06-08
+* [Commit] [Add ere support to nimbus_portal_bridge (#4310)](https://github.com/status-im/nimbus-eth1/commit/1a30cae21dab4cc64e2d99ebbb0ce3bb8985b717) - 2026-06-08
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

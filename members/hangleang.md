@@ -53,6 +53,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Use head block root for envelope lookup in payload preparation](https://github.com/grandinetech/grandine/pull/735) - 2026-06-05
 * [Review] [Review on: Add payload present timely store](https://github.com/grandinetech/grandine/pull/718#pullrequestreview-4434278942) - 2026-06-05
 * [Issue] [[Glamsterdam] Update consensus spec tests to v1.7.0-alpha.10](https://github.com/grandinetech/grandine/issues/733) - 2026-06-05
+* [Issue] [[Bug] attesting balance should never go below zero](https://github.com/grandinetech/grandine/issues/739) - 2026-06-08
+* [Issue] [[Bug] Gloas data column sidecar race validations](https://github.com/grandinetech/grandine/issues/738) - 2026-06-08
 ## Q1 2026
 
 

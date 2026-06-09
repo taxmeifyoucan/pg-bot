@@ -81,6 +81,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [defer Gloas full payload attestations until execution payload is available](https://github.com/Consensys/teku/pull/10772) - 2026-06-01
 * [Review] [Review on: defer Gloas full payload attestations until execution payload is available](https://github.com/Consensys/teku/pull/10772#pullrequestreview-4408362342) - 2026-06-02
 * [Pull Request] [update block gossip validation when exeution paylaod is delayed](https://github.com/Consensys/teku/pull/10794) - 2026-06-05
+* [Pull Request] [add Gloas full payload attestation gossip validation](https://github.com/Consensys/teku/pull/10804) - 2026-06-08
+* [Review] [Review on: update block gossip validation when execution payload is delayed](https://github.com/Consensys/teku/pull/10794#pullrequestreview-4448673915) - 2026-06-08
+* [Commit] [update block gossip validation when execution payload is delayed (#10794)](https://github.com/Consensys/teku/commit/7f751ceae38354f0ee3c52dfab4139c52fa72b6e) - 2026-06-08
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: 1.3.0 release](https://github.com/libp2p/jvm-libp2p/pull/478#pullrequestreview-4327252421) - 2026-05-20
 ## Q1 2026

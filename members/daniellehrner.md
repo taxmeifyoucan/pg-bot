@@ -102,6 +102,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: bal-devnet-7 : avoid redundant bytecode copy on the CALL/CALLCODE hot path](https://github.com/besu-eth/besu/pull/10574#pullrequestreview-4390480483) - 2026-05-29
 * [Pull Request] [call tracer streaming](https://github.com/besu-eth/besu/pull/10572) - 2026-05-29
 * [Review] [Review on: Fix: Offload WebSocket serialization to worker thread to prevent EventLoop blocking](https://github.com/besu-eth/besu/pull/10354#pullrequestreview-4426153902) - 2026-06-04
+* [Commit] [Check the bad block manager when receiving a new block from the network (#10212)](https://github.com/besu-eth/besu/commit/b2ae2475dfa5f97b05f189ca7a8b04241b0658a8) - 2026-06-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

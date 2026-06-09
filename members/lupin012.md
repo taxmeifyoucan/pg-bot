@@ -235,6 +235,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration_test: save Reth (commmit 87fc4cf4355ddbc59220f691a46d9f9d354adfa0 ) response with hive chain](https://github.com/erigontech/rpc-tests/pull/571) - 2026-06-06
 * [Commit] [integration-test: fix algo json compare (#570)](https://github.com/erigontech/rpc-tests/commit/d36c92c7bfeafb0269bfa37e879ef81793e26efd) - 2026-06-06
 * [Pull Request] [integration-test: omit memory attribute on debug api if empty](https://github.com/erigontech/rpc-tests/pull/572) - 2026-06-07
+* [Pull Request] [integration_test: add trace_block & trace_replayTransaction post shanghai](https://github.com/erigontech/rpc-tests/pull/573) - 2026-06-08
+* [Commit] [omit memory field if empty (as Geth) (#572)](https://github.com/erigontech/rpc-tests/commit/e0b42ec468b019ef71cd1ce3e0749a267b394a11) - 2026-06-08
+* [Commit] [integration_test: save Reth (commmit 87fc4cf4355ddbc59220f691a46d9f9d354adfa0 ) response with hive chain (#571)](https://github.com/erigontech/rpc-tests/commit/0630a0667c6ee497941fae3b11180eeadb149444) - 2026-06-08
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [simulators/graphql: pass HIVE_CANCUN_TIMESTAMP to client and fix test expectations](https://github.com/ethereum/hive/pull/1533) - 2026-06-08
 ## Q1 2026
 
 

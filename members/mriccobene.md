@@ -66,6 +66,8 @@ Team: Erigon
 * [Review] [Review on: integration test: add note eth simulate v1 test 28](https://github.com/erigontech/rpc-tests/pull/566#pullrequestreview-4354928710) - 2026-05-25
 * [Review] [Review on: integration test: ots_searchTransactionsAfter test_11.json to be stable on TIP](https://github.com/erigontech/rpc-tests/pull/568#pullrequestreview-4388009197) - 2026-05-29
 * [Review] [Review on: integration-test: fix algo json compare](https://github.com/erigontech/rpc-tests/pull/570#pullrequestreview-4428228179) - 2026-06-04
+* [Review] [Review on: integration-test: omit memory attribute on debug api if empty](https://github.com/erigontech/rpc-tests/pull/572#pullrequestreview-4447622274) - 2026-06-08
+* [Review] [Review on: integration_test: save Reth (commmit 87fc4cf4355ddbc59220f691a46d9f9d354adfa0 ) response with hive chain](https://github.com/erigontech/rpc-tests/pull/571#pullrequestreview-4447621035) - 2026-06-08
 ## Q1 2026
 
 

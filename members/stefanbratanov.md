@@ -104,6 +104,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: `ExecutionPayloadManager` simplification](https://github.com/Consensys/teku/pull/10787#pullrequestreview-4426401609) - 2026-06-04
 * [Commit] [Upgrade ref tests to v1.7.0-alpha.10 (#10791)](https://github.com/Consensys/teku/commit/99db722d006ba08e733fbfb966c1fd536bc13434) - 2026-06-04
 * [Review] [Review on: Avoid dropping sidecars tracker on block import in Gloas](https://github.com/Consensys/teku/pull/10788#pullrequestreview-4435578037) - 2026-06-05
+* [Pull Request] [Support custom config when running gossip ref tests](https://github.com/Consensys/teku/pull/10802) - 2026-06-08
+* [Commit] [Support custom config when running gossip ref tests (#10802)](https://github.com/Consensys/teku/commit/e7c4d930d0b7ec905f9a54aa62801b6d9ce64882) - 2026-06-08
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

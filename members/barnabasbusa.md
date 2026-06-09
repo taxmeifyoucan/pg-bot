@@ -227,6 +227,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Return 425 when EL has not yet executed a blinded Gloas envelope](https://github.com/OffchainLabs/prysm/pull/16833) - 2026-05-22
 * [Commit] [Fix Gloas genesis block reconstruction (#16821)](https://github.com/OffchainLabs/prysm/commit/6fc8ac5d316c1463b26f7932bd1560cfbcae7229) - 2026-05-24
 * [Pull Request] [tracing: respect OTEL env vars and set service.instance.id](https://github.com/OffchainLabs/prysm/pull/16882) - 2026-06-02
+* [Commit] [tracing: respect OTEL env vars and set service.instance.id (#16882)](https://github.com/OffchainLabs/prysm/commit/5ab22f9290c24d5c3000500612e7fc4ee3b41ade) - 2026-06-08
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Add missing beacon API config/spec values](https://github.com/sigp/lighthouse/pull/9112) - 2026-04-08
 
@@ -245,6 +246,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: Raise `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 8192 epochs](https://github.com/ethereum/consensus-specs/pull/5223#pullrequestreview-4253118462) - 2026-05-08
 * [Review] [Review on: Clarify sentence about refunded deposits to exited builders](https://github.com/ethereum/consensus-specs/pull/5269#pullrequestreview-4319519945) - 2026-05-19
 * [Commit] [Exclude slashed validators from proposing (EIP-8045) (#5115)](https://github.com/ethereum/consensus-specs/commit/af6e128caa8cf68134079537891bbc846fbb0dc8) - 2026-06-01
+* [Pull Request] [Add fork choice test for split LMD votes across payload variants](https://github.com/ethereum/consensus-specs/pull/5345) - 2026-06-08
+* [Review] [Review on: Add fork choice test for split LMD votes across payload variants](https://github.com/ethereum/consensus-specs/pull/5345#pullrequestreview-4452801921) - 2026-06-08
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [Remove broken update_project_wiki job](https://github.com/ethpandaops/assertoor/pull/156) - 2026-04-09
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/assertoor/pull/155) - 2026-04-09

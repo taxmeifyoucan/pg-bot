@@ -199,6 +199,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: prune finalized checkpoint state per processState()](https://github.com/ChainSafe/lodestar/pull/9463#pullrequestreview-4432818027) - 2026-06-05
 * [Commit] [fix: return resource_unavailable if requested range is before earliest_available_slot (#9454)](https://github.com/ChainSafe/lodestar/commit/d730eae4b65358f61cd3c2b23e0a460c81945718) - 2026-06-05
 * [Commit] [fix: prune finalized checkpoint state per processState() (#9463)](https://github.com/ChainSafe/lodestar/commit/6a52e6a9f6b8567cdff1fb0b053c3378d14a7065) - 2026-06-05
+* [Pull Request] [fix: ensure block in forkchoice before validate by_root payload](https://github.com/ChainSafe/lodestar/pull/9479) - 2026-06-08
+* [Pull Request] [fix: ensure PayloadEnvelopeInput in cache whenever we have a block](https://github.com/ChainSafe/lodestar/pull/9476) - 2026-06-08
+* [Issue] [glamsterdam-devnet-5: Error downloading payload due to code=EXECUTION_PAYLOAD_ENVELOPE_ERROR_BLOCK_ROOT_UNKNOWN](https://github.com/ChainSafe/lodestar/issues/9478) - 2026-06-08
+* [Issue] [glamsterdam-devnet-5: Missing PayloadEnvelopeInput for known block](https://github.com/ChainSafe/lodestar/issues/9475) - 2026-06-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

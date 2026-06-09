@@ -39,6 +39,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Make RefundOnContractCollision available for override in Arbitrum plugin](https://github.com/NethermindEth/nethermind/pull/11698#pullrequestreview-4327261954) - 2026-05-20
 * [Pull Request] [Restore method access - `RefundOnContractCollision`](https://github.com/NethermindEth/nethermind/pull/11699) - 2026-05-20
 * [Review] [Review on: test: fix flaky KademliaNodeSource ping assertions](https://github.com/NethermindEth/nethermind/pull/11800#pullrequestreview-4372807801) - 2026-05-27
+* [Pull Request] [Allow no-op EVM execution](https://github.com/NethermindEth/nethermind/pull/11932) - 2026-06-08
 ## Q1 2026
 
 

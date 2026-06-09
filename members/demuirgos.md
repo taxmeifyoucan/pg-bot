@@ -13,6 +13,10 @@ Team: Nethermind
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update contributors list in membership document](https://github.com/protocolguild/documentation/pull/483) - 2026-04-02
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [XDC : XDPoS Rpc Module](https://github.com/NethermindEth/nethermind/pull/10553) - 2026-06-08
+* [Commit] [XDC : XDPoS Rpc Module (#10553)](https://github.com/NethermindEth/nethermind/commit/7dcde8098c8ebdfdd75d2f69f45c46b30c48bf32) - 2026-06-08
 ## Q1 2026
 
 

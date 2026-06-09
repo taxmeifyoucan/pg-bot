@@ -79,6 +79,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(evm): cache repeated ECRecover/precompile results and fast-path static precompile calls + BAL replay](https://github.com/NethermindEth/nethermind/pull/11918) - 2026-06-05
 * [Pull Request] [Optimize BN254 multi-pair pairing checks](https://github.com/NethermindEth/nethermind/pull/11916) - 2026-06-05
 * [Review] [Review on: Optimize BN254 multi-pair pairing checks](https://github.com/NethermindEth/nethermind/pull/11916#pullrequestreview-4435921110) - 2026-06-05
+* [Pull Request] [perf(flat): decouple RocksDB write-buffer floor from CompactSize](https://github.com/NethermindEth/nethermind/pull/11936) - 2026-06-08
+* [Review] [Review on: Optimize BN254 multi-pair pairing checks](https://github.com/NethermindEth/nethermind/pull/11916#pullrequestreview-4449410084) - 2026-06-08
+* [Commit] [perf(threading): ManualResetEventSlim for ParallelUnbalancedWork completion signal (#11885)](https://github.com/NethermindEth/nethermind/commit/d7a83c4cf150f4169931f9ad77a05f889a2d8f92) - 2026-06-08
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

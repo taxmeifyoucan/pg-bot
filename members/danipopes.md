@@ -404,6 +404,9 @@ Team: Reth
 * [Pull Request] [feat(bench): add chrome trace profiles](https://github.com/paradigmxyz/reth/pull/24879) - 2026-06-05
 * [Commit] [feat(bench): add chrome trace profiles (#24879)](https://github.com/paradigmxyz/reth/commit/87fc4cf4355ddbc59220f691a46d9f9d354adfa0) - 2026-06-05
 * [Review] [Review on: fix(payload): defer resolved job drop until after send](https://github.com/paradigmxyz/reth/pull/24967#pullrequestreview-4445236286) - 2026-06-07
+* [Review] [Review on: fix: remove precompile cache initial capacity](https://github.com/paradigmxyz/reth/pull/25013#pullrequestreview-4453655686) - 2026-06-08
+* [Review] [Review on: perf(parbal): BAL prewarming pool](https://github.com/paradigmxyz/reth/pull/25003#pullrequestreview-4450634024) - 2026-06-08
+* [Review] [Review on: ci: summarize hive failure logs](https://github.com/paradigmxyz/reth/pull/25001#pullrequestreview-4449579040) - 2026-06-08
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

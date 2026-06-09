@@ -152,6 +152,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: clients/besu: add parentheses to mapper compatible w jq 1.7](https://github.com/ethereum/hive/pull/1523#pullrequestreview-4435965251) - 2026-06-05
 * [Review] [Review on: fix(ethrex): parenthesize // in mapper.jq depositContractAddress](https://github.com/ethereum/hive/pull/1524#pullrequestreview-4435959937) - 2026-06-05
 * [Commit] [clients: fix deposit contract address in remaining mappers (#1525)](https://github.com/ethereum/hive/commit/39f6fb2565a848a3124bb1822131cd8a5f9ba0a2) - 2026-06-05
+* [Review] [Review on: clients: restore mainnet deposit contract address default in mappers](https://github.com/ethereum/hive/pull/1530#pullrequestreview-4448396209) - 2026-06-08
 ## Q1 2026
 
 

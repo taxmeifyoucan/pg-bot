@@ -629,6 +629,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/gloas: gate fork choice on verified execution payloads](https://github.com/erigontech/erigon/pull/21417#pullrequestreview-4435371033) - 2026-06-05
 * [Commit] [cl: cap req/resp response body size (#21562)](https://github.com/erigontech/erigon/commit/2fdc4ac6f6ca0deda6d3c18456aecd92796f5cb6) - 2026-06-05
 * [Commit] [ChangeLog: draft 3.5.0 "Tidal Tails" release notes (#21643)](https://github.com/erigontech/erigon/commit/f937ddb25505587283a50ff2b99a6b055732b67f) - 2026-06-07
+* [Pull Request] [db/version/app: bump to 3.6.0-dev](https://github.com/erigontech/erigon/pull/21682) - 2026-06-08
+* [Review] [Review on: execution/state: typed-vio refactor (L2 — typed AddressEntry + WriteCell[T] + sync.Pool)](https://github.com/erigontech/erigon/pull/21536#pullrequestreview-4450366956) - 2026-06-08
+* [Review] [Review on: execution/stagedsync: parallel-exec - flush invalid-tx writes as Estimate](https://github.com/erigontech/erigon/pull/21667#pullrequestreview-4449217652) - 2026-06-08
+* [Review] [Review on: up minor deps for release/3.5](https://github.com/erigontech/erigon/pull/21677#pullrequestreview-4449228239) - 2026-06-08
+* [Pull Request] [execution/state: finalize reader must consume Estimate cells, not just Done](https://github.com/erigontech/erigon/pull/21678) - 2026-06-08
+* [Review] [Review on: execution/protocol: fix Osaka (EIP-7778) block gas to use pre-refund gas](https://github.com/erigontech/erigon/pull/21642#pullrequestreview-4447298435) - 2026-06-08
+* [Review] [Review on: [r3.4] execution/protocol: fix Osaka (EIP-7778) block gas to use pre-refund gas](https://github.com/erigontech/erigon/pull/21641#pullrequestreview-4447295341) - 2026-06-08
+* [Review] [Review on: fix: PoS dev mode — enable Fusaka (Fulu CL + Osaka EL) block production](https://github.com/erigontech/erigon/pull/21646#pullrequestreview-4447625228) - 2026-06-08
+* [Commit] [db/version/app: bump to 3.6.0-dev (#21682)](https://github.com/erigontech/erigon/commit/b7cc9899d353a18d5c07c5195ea1c8b6d3eb55b6) - 2026-06-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

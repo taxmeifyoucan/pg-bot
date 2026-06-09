@@ -77,6 +77,10 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Commit] [Clarify `should_extend_payload`'s note and add a slot assert (#5336)](https://github.com/ethereum/consensus-specs/commit/9977ea918c0412d51ac3ef3198c349b2c38016db) - 2026-06-05
 * [Commit] [Clarify `should_build_on_full` semantic (#5335)](https://github.com/ethereum/consensus-specs/commit/f39d5e0edba240ce48584d39e3575eb4e27e8c97) - 2026-06-05
 * [Commit] [Remove `should_extend_payload` assertions from payload tests (#5338)](https://github.com/ethereum/consensus-specs/commit/6ee675a1639b457d9435c9012fb3f133779df1d3) - 2026-06-05
+* [Pull Request] [Modify `get_proposer_head` for Gloas](https://github.com/ethereum/consensus-specs/pull/5348) - 2026-06-08
+* [Pull Request] [Align the Gloas fork-choice structure with Phase0](https://github.com/ethereum/consensus-specs/pull/5344) - 2026-06-08
+* [Review] [Review on: Align the Gloas fork-choice structure with Phase0](https://github.com/ethereum/consensus-specs/pull/5344#pullrequestreview-4451073118) - 2026-06-08
+* [Commit] [Align the Gloas fork-choice structure with Phase0 (#5344)](https://github.com/ethereum/consensus-specs/commit/33111885a39e83510635f0cd78dd07929c9436cc) - 2026-06-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

@@ -49,6 +49,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: improve EIP-7702 authorization gas accounting in EIP-8037](https://github.com/ethereum/EIPs/pull/11715#pullrequestreview-4439609032) - 2026-06-05
+* [Pull Request] [Update EIP-8037: unfair allocation of EIP-7702 overcharges](https://github.com/ethereum/EIPs/pull/11778) - 2026-06-08
+* [Review] [Review on: Update EIP-8037: improve EIP-7702 authorization gas accounting in EIP-8037](https://github.com/ethereum/EIPs/pull/11715#pullrequestreview-4447928358) - 2026-06-08
 ## Q1 2026
 
 

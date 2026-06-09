@@ -611,6 +611,28 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf(evm): per-thread free-list for EVM memory buffers + skip redundant copy-opcode revalidation](https://github.com/NethermindEth/nethermind/pull/11884#pullrequestreview-4436221773) - 2026-06-05
 * [Review] [Review on: Feature/benchmark fixes](https://github.com/NethermindEth/nethermind/pull/11910#pullrequestreview-4435107854) - 2026-06-05
 * [Review] [Review on: Syncrhonization - CI fix](https://github.com/NethermindEth/nethermind/pull/11914#pullrequestreview-4434298798) - 2026-06-05
+* [Review] [Review on: Add OP Karst fork](https://github.com/NethermindEth/nethermind/pull/11917#pullrequestreview-4450269234) - 2026-06-08
+* [Review] [Review on: perf(flat): decouple RocksDB write-buffer floor from CompactSize](https://github.com/NethermindEth/nethermind/pull/11936#pullrequestreview-4452650855) - 2026-06-08
+* [Review] [Review on: Align buy gas to be geth alike ](https://github.com/NethermindEth/nethermind/pull/11865#pullrequestreview-4450705811) - 2026-06-08
+* [Pull Request] [refactor(aura): isolate AuRa concerns inside the AuRa plugin](https://github.com/NethermindEth/nethermind/pull/11938) - 2026-06-08
+* [Review] [Review on: perf(bls): reduce allocations and wasted clears in G2MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11891#pullrequestreview-4449034284) - 2026-06-08
+* [Review] [Review on: fix : do not delete empty accounts on stateoverride(eip 7610)](https://github.com/NethermindEth/nethermind/pull/11854#pullrequestreview-4450637048) - 2026-06-08
+* [Pull Request] [test: bump timeouts on two flaky timing-bounded tests](https://github.com/NethermindEth/nethermind/pull/11933) - 2026-06-08
+* [Review] [Review on: Optimize BN254 multi-pair pairing checks](https://github.com/NethermindEth/nethermind/pull/11916#pullrequestreview-4449015636) - 2026-06-08
+* [Pull Request] [refactor(optimism): isolate OP fork concerns inside the plugin](https://github.com/NethermindEth/nethermind/pull/11935) - 2026-06-08
+* [Review] [Review on: refactor(bloomstorage): removed BloomStorage and related dependencies](https://github.com/NethermindEth/nethermind/pull/11906#pullrequestreview-4449058720) - 2026-06-08
+* [Review] [Review on: EraE - ere files spec changes](https://github.com/NethermindEth/nethermind/pull/11928#pullrequestreview-4449116925) - 2026-06-08
+* [Review] [Review on: fix(cache): preserve future-epoch entries during concurrent Clear()](https://github.com/NethermindEth/nethermind/pull/11919#pullrequestreview-4449124838) - 2026-06-08
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11922#pullrequestreview-4448808986) - 2026-06-08
+* [Pull Request] [perf(state): drop LINQ overhead in UpdateRootHashesMultiThread setup](https://github.com/NethermindEth/nethermind/pull/11929) - 2026-06-08
+* [Review] [Review on: perf(state): drop LINQ overhead in UpdateRootHashesMultiThread setup](https://github.com/NethermindEth/nethermind/pull/11929#pullrequestreview-4447891851) - 2026-06-08
+* [Review] [Review on: perf(bn254): skip redundant infinity re-scan in pairing loop](https://github.com/NethermindEth/nethermind/pull/11888#pullrequestreview-4449050364) - 2026-06-08
+* [Review] [Review on: perf(bls): reduce allocations and wasted clears in G1MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11889#pullrequestreview-4449047502) - 2026-06-08
+* [Review] [Review on: perf(crypto): reuse the RIPEMD-160 digest per thread](https://github.com/NethermindEth/nethermind/pull/11890#pullrequestreview-4449041290) - 2026-06-08
+* [Review] [Review on: perf(evm): avoid per-CREATE RlpStream allocation in contract-address derivation](https://github.com/NethermindEth/nethermind/pull/11892#pullrequestreview-4449024616) - 2026-06-08
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11923#pullrequestreview-4448804358) - 2026-06-08
+* [Pull Request] [fix: pass DOTNET_HOST_PATH to JsonRpc generator Exec](https://github.com/NethermindEth/nethermind/pull/11930) - 2026-06-08
+* [Commit] [perf(state): drop LINQ overhead in UpdateRootHashesMultiThread setup (#11929)](https://github.com/NethermindEth/nethermind/commit/e6a67b8f3068ee5bdd5e8df203f769648ffdc8f0) - 2026-06-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

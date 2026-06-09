@@ -79,6 +79,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Refactor BAL validation (#11878)](https://github.com/NethermindEth/nethermind/commit/53c8b3e92390568d0af685b944b83cec1a57b243) - 2026-06-02
 * [Commit] [perf(bal): build BAL validation index on the sequential execution path (#11873)](https://github.com/NethermindEth/nethermind/commit/1bb7582ddcdb03d1a57ead64e14ebdd0dd1893b7) - 2026-06-02
 * [Review] [Review on: perf(bal): reduce per-access BAL/state recording overhead on warm reads](https://github.com/NethermindEth/nethermind/pull/11905#pullrequestreview-4420013329) - 2026-06-03
+* [Review] [Review on: Optimize BN254 multi-pair pairing checks](https://github.com/NethermindEth/nethermind/pull/11916#pullrequestreview-4449304760) - 2026-06-08
 ## Q1 2026
 
 

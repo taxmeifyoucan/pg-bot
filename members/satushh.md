@@ -70,6 +70,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Fix data race on the shared err variable in beacon-api validator client's dutiesForEpoch](https://github.com/OffchainLabs/prysm/pull/16900) - 2026-06-04
 * [Review] [Review on: Fix TOCTOU in stategen latestAncestor between isFinalizedRoot and FinalizedState](https://github.com/OffchainLabs/prysm/pull/16881#pullrequestreview-4426900923) - 2026-06-04
 * [Commit] [Fix TOCTOU in stategen latestAncestor between isFinalizedRoot and FinalizedState (#16881)](https://github.com/OffchainLabs/prysm/commit/f1d82487e99040ebc675db734d80082f9dbb6736) - 2026-06-05
+* [Review] [Review on: Reject block with an out-of-range proposer index](https://github.com/OffchainLabs/prysm/pull/16917#pullrequestreview-4449518682) - 2026-06-08
+* [Pull Request] [Normalize URL-style gRPC endpoint flags to host:port](https://github.com/OffchainLabs/prysm/pull/16925) - 2026-06-08
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

@@ -63,6 +63,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [DuplicateCache: await in-progress block import instead of the reprocess queue](https://github.com/sigp/lighthouse/pull/9423) - 2026-06-05
 * [Review] [Review on: Improve error types for envelopes](https://github.com/sigp/lighthouse/pull/9414#pullrequestreview-4445818972) - 2026-06-07
 * [Pull Request] [Remove LookupResult: handle completion and parent-unknown in on_processing_result](https://github.com/sigp/lighthouse/pull/9431) - 2026-06-07
+* [Review] [Review on: Gloas alpha spec 9](https://github.com/sigp/lighthouse/pull/9393#pullrequestreview-4448439642) - 2026-06-08
+* [Review] [Review on: Gloas lookup sync](https://github.com/sigp/lighthouse/pull/9155#pullrequestreview-4448770323) - 2026-06-08
+* [Issue] [Optimize Gloas range sync](https://github.com/sigp/lighthouse/issues/9432) - 2026-06-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 

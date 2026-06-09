@@ -78,6 +78,9 @@ Team: Geth
 * [Pull Request] [core: implement optimized bal execution path](https://github.com/ethereum/go-ethereum/pull/35050) - 2026-05-27
 * [Review] [Review on: log: return TerminalHandler write errors from Handle](https://github.com/ethereum/go-ethereum/pull/35055#pullrequestreview-4373530821) - 2026-05-27
 * [Review] [Review on: core/types/bal: improve the bal validation](https://github.com/ethereum/go-ethereum/pull/35110#pullrequestreview-4432909285) - 2026-06-05
+* [Review] [Review on: beacon/engine: prints the offending hash instead of the whole slice](https://github.com/ethereum/go-ethereum/pull/35112#pullrequestreview-4453442985) - 2026-06-08
+* [Review] [Review on: eth/protocols/eth: track announced tx hashes only after send](https://github.com/ethereum/go-ethereum/pull/35122#pullrequestreview-4450747325) - 2026-06-08
+* [Review] [Review on: cmd/utils: validates trimmed string but parses the untrimmed one](https://github.com/ethereum/go-ethereum/pull/35116#pullrequestreview-4450860351) - 2026-06-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

@@ -121,6 +121,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: proposer preference rest](https://github.com/OffchainLabs/prysm/pull/16835#pullrequestreview-4411822323) - 2026-06-02
 * [Review] [Review on: Fix honest reorg in Gloas](https://github.com/OffchainLabs/prysm/pull/16890#pullrequestreview-4421893750) - 2026-06-03
 * [Review] [Review on: Add deposit signature cache + envelope prefetcher](https://github.com/OffchainLabs/prysm/pull/16812#pullrequestreview-4422433697) - 2026-06-03
+* [Review] [Review on: Fix POST `validator_{balances|identities}` endpoints to accept empty body and array](https://github.com/OffchainLabs/prysm/pull/16523#pullrequestreview-4450320437) - 2026-06-08
+* [Review] [Review on: proposer preference rest](https://github.com/OffchainLabs/prysm/pull/16835#pullrequestreview-4451422877) - 2026-06-08
+* [Issue] [Improve Duties promotion handling on single duty failure](https://github.com/OffchainLabs/prysm/issues/16928) - 2026-06-08
+* [Commit] [proposer preference rest (#16835)](https://github.com/OffchainLabs/prysm/commit/432b0c2a8e78db01516696be5075ffe25e396785) - 2026-06-08
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

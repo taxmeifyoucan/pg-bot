@@ -714,6 +714,14 @@ Team: Erigon
 * [Review] [Review on: rpc: fix trace gaslimit override](https://github.com/erigontech/erigon/pull/21647#pullrequestreview-4444459442) - 2026-06-07
 * [Review] [Review on: rpc: implement pending resolver and GetPendingTransactions GraphQL](https://github.com/erigontech/erigon/pull/21593#pullrequestreview-4444459837) - 2026-06-07
 * [Review] [Review on: rpc: fix retention number as quantity](https://github.com/erigontech/erigon/pull/21660#pullrequestreview-4444459206) - 2026-06-07
+* [Review] [Review on: cmd/utils/app: fix publishable check failing on empty caplin state tables](https://github.com/erigontech/erigon/pull/21673#pullrequestreview-4451486320) - 2026-06-08
+* [Review] [Review on: db/state, db/config3: erigondb.toml as source of truth for commitment branch referencing](https://github.com/erigontech/erigon/pull/21452#pullrequestreview-4448510919) - 2026-06-08
+* [Review] [Review on: db/snapshotsync: make index building and opening segments safe with other files building events](https://github.com/erigontech/erigon/pull/21571#pullrequestreview-4451501961) - 2026-06-08
+* [Review] [Review on: db/integrity: move StateProgress check to deprecated (#21596)](https://github.com/erigontech/erigon/pull/21671#pullrequestreview-4451488368) - 2026-06-08
+* [Pull Request] [up minor deps for release/3.5](https://github.com/erigontech/erigon/pull/21677) - 2026-06-08
+* [Review] [Review on: cmd/utils/app: fix publishable check failing on empty caplin state tables](https://github.com/erigontech/erigon/pull/21672#pullrequestreview-4447789138) - 2026-06-08
+* [Issue] [ParallelExec: to not increment block number on exec error](https://github.com/erigontech/erigon/issues/21676) - 2026-06-08
+* [Commit] [up minor deps for release/3.5 (#21677)](https://github.com/erigontech/erigon/commit/c719707bee1de3cb415cf36305cb9a9b8a168ce5) - 2026-06-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

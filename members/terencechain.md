@@ -234,6 +234,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Replace redundant `WaitGroup` patterns with `WaitGroup.Go`](https://github.com/OffchainLabs/prysm/pull/16912#pullrequestreview-4443028169) - 2026-06-06
 * [Review] [Review on: Add debug log when ignoring payload envelope not for current slot](https://github.com/OffchainLabs/prysm/pull/16905#pullrequestreview-4441841725) - 2026-06-06
 * [Pull Request] [Fix attribute to `current_slot+1` after payload envelope processing](https://github.com/OffchainLabs/prysm/pull/16910) - 2026-06-06
+* [Pull Request] [Reject block with an out-of-range proposer index](https://github.com/OffchainLabs/prysm/pull/16917) - 2026-06-08
+* [Review] [Review on: Reject block with an out-of-range proposer index](https://github.com/OffchainLabs/prysm/pull/16917#pullrequestreview-4450108512) - 2026-06-08
+* [Pull Request] [Evict per-peer RPC rate-limiter buckets on disconnect](https://github.com/OffchainLabs/prysm/pull/16916) - 2026-06-08
+* [Pull Request] [Fix concurrent map in data-availability wait](https://github.com/OffchainLabs/prysm/pull/16919) - 2026-06-08
+* [Commit] [Evict per-peer RPC rate-limiter buckets on disconnect (#16916)](https://github.com/OffchainLabs/prysm/commit/d75febb3a5479e44c5fc5f9cef591d411beabbb8) - 2026-06-08
+* [Commit] [Fix concurrent map in data-availability wait (#16919)](https://github.com/OffchainLabs/prysm/commit/ca7f785b2a72a29b8bb66796e55616f483ed075b) - 2026-06-08
+* [Commit] [Reject block with an out-of-range proposer index (#16917)](https://github.com/OffchainLabs/prysm/commit/bfd521f2cb30f576197d9a5e4e6bc3654252836d) - 2026-06-08
+* [Commit] [Fix attribute to `current_slot+1` after payload envelope processing (#16910)](https://github.com/OffchainLabs/prysm/commit/06de72a7c46c541d97a84bcb5f4822945f176866) - 2026-06-08
+* [Commit] [Add debug log when ignoring payload envelope not for current slot (#16905)](https://github.com/OffchainLabs/prysm/commit/7516ac3e9c83ac9dd743491d9049e1feecb33ab3) - 2026-06-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

@@ -113,6 +113,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Updated jvm-libp2p to 1.3.1](https://github.com/Consensys/teku/pull/10792) - 2026-06-04
 * [Commit] [Updated jvm-libp2p to 1.3.1 (#10792)](https://github.com/Consensys/teku/commit/71dd996c92bd6d9a96bda7bd892ae6ec2e72d15e) - 2026-06-04
 * [Issue] [devnet-5 exception to investigate](https://github.com/Consensys/teku/issues/10796) - 2026-06-05
+* [Pull Request] [getForkchoiceV2](https://github.com/Consensys/teku/pull/10800) - 2026-06-08
+* [Review] [Review on: Fix Gloas empty parent payload withdrawals - block production](https://github.com/Consensys/teku/pull/10803#pullrequestreview-4453685648) - 2026-06-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

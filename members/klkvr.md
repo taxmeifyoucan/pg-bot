@@ -180,6 +180,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [perf: prewarm overlay](https://github.com/paradigmxyz/reth/pull/24761) - 2026-06-02
 * [Commit] [perf: remove updates count cap (#24777)](https://github.com/paradigmxyz/reth/commit/955847f195cea63c2d141a192c9b7b97e7f84e92) - 2026-06-02
 * [Pull Request] [fix: avoid clearing rocksdb unnecesarily](https://github.com/paradigmxyz/reth/pull/24903) - 2026-06-05
+* [Review] [Review on: fix(cli): target `reth download --force` cleanup](https://github.com/paradigmxyz/reth/pull/25015#pullrequestreview-4453669012) - 2026-06-08
+* [Review] [Review on: feat(rpc): add eth simulate state root flag](https://github.com/paradigmxyz/reth/pull/24564#pullrequestreview-4448669285) - 2026-06-08
+* [Commit] [fix: avoid clearing rocksdb unnecesarily (#24903)](https://github.com/paradigmxyz/reth/commit/c8d9e0484c84b1b4a44be6a9053c8d02b1bf522e) - 2026-06-08
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

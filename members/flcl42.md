@@ -190,6 +190,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: refactor: Introduce a base `WorldState` decorator](https://github.com/NethermindEth/nethermind/pull/11907#pullrequestreview-4426533239) - 2026-06-04
 * [Review] [Review on: rpc: zero hashes for absent eth_getProof accounts](https://github.com/NethermindEth/nethermind/pull/11912#pullrequestreview-4434910530) - 2026-06-05
 * [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11924#pullrequestreview-4444676656) - 2026-06-07
+* [Review] [Review on: test: bump timeouts on two flaky timing-bounded tests](https://github.com/NethermindEth/nethermind/pull/11933#pullrequestreview-4452114187) - 2026-06-08
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11922#pullrequestreview-4448795053) - 2026-06-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 
@@ -202,6 +204,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4179442515) - 2026-04-27
 * [Review] [Review on: engine: add Rest-SSZ spec](https://github.com/ethereum/execution-apis/pull/793#pullrequestreview-4426265535) - 2026-06-04
+* [Review] [Review on: engine: add Rest-SSZ spec](https://github.com/ethereum/execution-apis/pull/793#pullrequestreview-4449461640) - 2026-06-08
 ## Q1 2026
 
 

@@ -568,6 +568,13 @@ Team: Reth
 * [Pull Request] [feat(engine): add into_block_arc to built payload](https://github.com/paradigmxyz/reth/pull/24960) - 2026-06-07
 * [Commit] [fix(payload): defer resolved job drop until after send (#24967)](https://github.com/paradigmxyz/reth/commit/8b902fe0b3af1bde8efc25dca12b4baee8ed2175) - 2026-06-07
 * [Commit] [feat(engine): add into_block_arc to built payload (#24960)](https://github.com/paradigmxyz/reth/commit/e5f654ae9582c2fd3ce5992d4e88f774a94c1fc3) - 2026-06-07
+* [Review] [Review on: feat(txpool): add ValidatingPool trait for validator access](https://github.com/paradigmxyz/reth/pull/24848#pullrequestreview-4452864572) - 2026-06-08
+* [Review] [Review on: feat(rpc): add eth simulate state root flag](https://github.com/paradigmxyz/reth/pull/24564#pullrequestreview-4449513098) - 2026-06-08
+* [Review] [Review on: test: add roundtrip tests for er(a)e files ](https://github.com/paradigmxyz/reth/pull/24905#pullrequestreview-4448329737) - 2026-06-08
+* [Review] [Review on: refactor(era-utils): generalize `import` over `EraBlockReader`](https://github.com/paradigmxyz/reth/pull/24977#pullrequestreview-4448075438) - 2026-06-08
+* [Pull Request] [ci: ignore proc-macro-error2 advisory](https://github.com/paradigmxyz/reth/pull/24994) - 2026-06-08
+* [Commit] [feat(payload): cache parent block info for payload jobs (#24671)](https://github.com/paradigmxyz/reth/commit/c6379a923915055f25f9eec3452acb490b71c5b4) - 2026-06-08
+* [Commit] [ci: ignore proc-macro-error2 advisory (#24994)](https://github.com/paradigmxyz/reth/commit/f93b41249a05a27527cc2ce2da9259d49fe90e91) - 2026-06-08
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

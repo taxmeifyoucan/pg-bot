@@ -331,6 +331,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: emit fast_confirmation SSE event per beacon-APIs](https://github.com/ChainSafe/lodestar/pull/9439#pullrequestreview-4445057753) - 2026-06-07
 * [Pull Request] [chore: remove resolved todo about queuing payload envelopes](https://github.com/ChainSafe/lodestar/pull/9474) - 2026-06-07
 * [Review] [Review on: ci: bump codecov-action to v6.0.2 for keybase migration](https://github.com/ChainSafe/lodestar/pull/9473#pullrequestreview-4444676697) - 2026-06-07
+* [Review] [Review on: feat: emit fast_confirmation SSE event per beacon-APIs](https://github.com/ChainSafe/lodestar/pull/9439#pullrequestreview-4454103475) - 2026-06-08
+* [Review] [Review on: chore(deps): bump github/codeql-action from 4.36.1 to 4.36.2 in the actions group](https://github.com/ChainSafe/lodestar/pull/9480#pullrequestreview-4450845988) - 2026-06-08
+* [Issue] [Dora is unhappy with lodestar SSE events](https://github.com/ChainSafe/lodestar/issues/9477) - 2026-06-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -424,6 +427,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Clarify `should_extend_payload`'s note and add a slot assert](https://github.com/ethereum/consensus-specs/pull/5336#pullrequestreview-4438119612) - 2026-06-05
 * [Review] [Review on: Clarify `should_build_on_full` semantic](https://github.com/ethereum/consensus-specs/pull/5335#pullrequestreview-4437714568) - 2026-06-05
 * [Review] [Review on: Remove `should_extend_payload` assertions from payload tests](https://github.com/ethereum/consensus-specs/pull/5338#pullrequestreview-4435797536) - 2026-06-05
+* [Review] [Review on: Set altair/bellatrix fork epochs to zero in BTEC gossip tests](https://github.com/ethereum/consensus-specs/pull/5346#pullrequestreview-4453385397) - 2026-06-08
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 

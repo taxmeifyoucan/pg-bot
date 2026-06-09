@@ -104,6 +104,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Sync systemd extra flags to nix services](https://github.com/status-im/nimbus-eth2/pull/8505) - 2026-05-23
 * [Pull Request] [Add `parent_block_root` to bid filtering key](https://github.com/status-im/nimbus-eth2/pull/8510) - 2026-05-25
 * [Pull Request] [Ensure confirmed chain includes greatest unrealized checkpoint](https://github.com/status-im/nimbus-eth2/pull/8512) - 2026-05-26
+* [Pull Request] [Move a couple DAG helpers to a more convenient location](https://github.com/status-im/nimbus-eth2/pull/8570) - 2026-06-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

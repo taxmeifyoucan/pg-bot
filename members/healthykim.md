@@ -46,6 +46,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Commit] [eth/protocols/eth: implement eth71 bal response (#34879)](https://github.com/ethereum/go-ethereum/commit/a484a8506dd5106f14bc28cd0fb9c4ab74d6c69d) - 2026-05-19
 * [Review] [Review on: [Draft] EIP-8070 - sparse blobpool](https://github.com/ethereum/go-ethereum/pull/34047#pullrequestreview-4341403687) - 2026-05-21
 * [Pull Request] [internal/telemetry: add more traces on otel](https://github.com/ethereum/go-ethereum/pull/35045) - 2026-05-24
+* [Pull Request] [core/txpool, miner, eth: add cache for GetBlobs request](https://github.com/ethereum/go-ethereum/pull/35124) - 2026-06-08
+* [Review] [Review on: core/txpool, miner, eth: add cache for GetBlobs request](https://github.com/ethereum/go-ethereum/pull/35124#pullrequestreview-4449685699) - 2026-06-08
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
 

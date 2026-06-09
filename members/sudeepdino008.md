@@ -259,6 +259,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [common, db: move murmur3 port to common/murmur3, use it everywhere (#21652)](https://github.com/erigontech/erigon/commit/aef33a8a749c7fbe6498d44ec6ddb24c83fd9959) - 2026-06-06
 * [Review] [Review on: db/snapshotsync: fix block snapshot visibility truncation and block retirement hang](https://github.com/erigontech/erigon/pull/21583#pullrequestreview-4446255160) - 2026-06-08
 * [Pull Request] [[wip/DNM] noref commitment files](https://github.com/erigontech/erigon/pull/21668) - 2026-06-08
+* [Pull Request] [cmd/utils/app: fix publishable check failing on empty caplin state tables](https://github.com/erigontech/erigon/pull/21673) - 2026-06-08
+* [Review] [Review on: cmd/utils/app: fix publishable check failing on empty caplin state tables](https://github.com/erigontech/erigon/pull/21673#pullrequestreview-4448283846) - 2026-06-08
+* [Review] [Review on: db/state, db/config3: erigondb.toml as source of truth for commitment branch referencing](https://github.com/erigontech/erigon/pull/21452#pullrequestreview-4450714025) - 2026-06-08
+* [Pull Request] [db/integrity: move StateProgress check to deprecated (#21596)](https://github.com/erigontech/erigon/pull/21671) - 2026-06-08
+* [Review] [Review on: db/version/app: bump to 3.6.0-dev](https://github.com/erigontech/erigon/pull/21682#pullrequestreview-4450724406) - 2026-06-08
+* [Pull Request] [cmd/utils/app: fix publishable check failing on empty caplin state tables](https://github.com/erigontech/erigon/pull/21672) - 2026-06-08
+* [Issue] [State-cache L2b code-by-hash bypass is unsound under parallel (OCC) execution](https://github.com/erigontech/erigon/issues/21675) - 2026-06-08
+* [Issue] [gas mismatch in 3.4](https://github.com/erigontech/erigon/issues/21681) - 2026-06-08
+* [Issue] [debug logs flood - failed to download columns from peer](https://github.com/erigontech/erigon/issues/21670) - 2026-06-08
+* [Commit] [cmd/utils/app: fix publishable check failing on empty caplin state tables (#21673)](https://github.com/erigontech/erigon/commit/fab5a6420f9448f621bffb43fe55fa7456037a37) - 2026-06-08
 ## Q1 2026
 
 

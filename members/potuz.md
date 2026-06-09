@@ -94,6 +94,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Do not count head state and block on head time.](https://github.com/OffchainLabs/prysm/pull/16903) - 2026-06-05
 * [Review] [Review on: Fix epoch processing slowdown caused by per validator interface boxing](https://github.com/OffchainLabs/prysm/pull/16871#pullrequestreview-4436870866) - 2026-06-05
 * [Review] [Review on: chore: pluralize gloas execution payload endpoint paths](https://github.com/OffchainLabs/prysm/pull/16902#pullrequestreview-4436311196) - 2026-06-05
+* [Review] [Review on: Fix attribute to `current_slot+1` after payload envelope processing](https://github.com/OffchainLabs/prysm/pull/16910#pullrequestreview-4451078551) - 2026-06-08
+* [Commit] [Only add proposer boost to same shufflings as head (#16846)](https://github.com/OffchainLabs/prysm/commit/353d74c1dcc28d86591bec07fad89da71e778a45) - 2026-06-08
+* [Commit] [Do not count head state and block on head time. (#16903)](https://github.com/OffchainLabs/prysm/commit/e8e72c37d4faaa3ebdf3fc17692b4b3937bfd203) - 2026-06-08
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

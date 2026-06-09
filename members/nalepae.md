@@ -96,6 +96,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Fix epoch processing slowdown caused by per validator interface boxing](https://github.com/OffchainLabs/prysm/pull/16871#pullrequestreview-4434543734) - 2026-06-05
 * [Review] [Review on: Fix TOCTOU in stategen latestAncestor between isFinalizedRoot and FinalizedState](https://github.com/OffchainLabs/prysm/pull/16881#pullrequestreview-4435433782) - 2026-06-05
 * [Commit] [Fix epoch processing slowdown caused by per validator interface boxing (#16871)](https://github.com/OffchainLabs/prysm/commit/bbf8a68301b06e22bc064d3bfee7d9dd3fb1259d) - 2026-06-05
+* [Review] [Review on: Adopt `testing/synctest` in `time/slots` test package](https://github.com/OffchainLabs/prysm/pull/16927#pullrequestreview-4453018571) - 2026-06-08
+* [Review] [Review on: Adopt `testing/synctest` in `async` test package](https://github.com/OffchainLabs/prysm/pull/16911#pullrequestreview-4449494881) - 2026-06-08
+* [Review] [Review on: Reverse wrong usage of `errors.Is` arguments after `validateBeaconBlock`](https://github.com/OffchainLabs/prysm/pull/16921#pullrequestreview-4447425471) - 2026-06-08
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

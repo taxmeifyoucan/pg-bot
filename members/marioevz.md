@@ -93,6 +93,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(consume direct, tests): add erigon support, also add test to showcase erigon statetest bug](https://github.com/ethereum/execution-specs/pull/2951#pullrequestreview-4421558694) - 2026-06-03
 * [Review] [Review on: feat(test-fill): align `fill-stateful` with `gas-benchmarks` implementation](https://github.com/ethereum/execution-specs/pull/2923#pullrequestreview-4421017658) - 2026-06-03
 * [Review] [Review on: chore(test-forks): include sibling BPO forks in `--until` ranges](https://github.com/ethereum/execution-specs/pull/2955#pullrequestreview-4427990801) - 2026-06-04
+* [Review] [Review on: chore(packaging): ignore local memory files (CLAUDE.local.md, .mb/, mb/)](https://github.com/ethereum/execution-specs/pull/2962#pullrequestreview-4450824375) - 2026-06-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

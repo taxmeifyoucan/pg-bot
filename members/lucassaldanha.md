@@ -86,6 +86,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Limit pending block pool by retained bytes](https://github.com/Consensys/teku/pull/10758#pullrequestreview-4415225518) - 2026-06-03
 * [Review] [Review on: Add builder statuses filter to state builders endpoint](https://github.com/Consensys/teku/pull/10785#pullrequestreview-4414994279) - 2026-06-03
 * [Review] [Review on: Updated jvm-libp2p to 1.3.1](https://github.com/Consensys/teku/pull/10792#pullrequestreview-4431971503) - 2026-06-04
+* [Pull Request] [Add experimental QUIC transport support](https://github.com/Consensys/teku/pull/10805) - 2026-06-08
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 

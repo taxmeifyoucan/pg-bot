@@ -261,6 +261,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat(flatdb): RLP-wrap storage slot values behind a versioned flag](https://github.com/NethermindEth/nethermind/pull/11909#pullrequestreview-4425124556) - 2026-06-04
 * [Commit] [refactor: extract block producer construction into DI-registered factories (#11893)](https://github.com/NethermindEth/nethermind/commit/f95ffad913e2c5ccd8465ece30be23b16c21f482) - 2026-06-05
 * [Commit] [Improve flat state backend compatibility (#11911)](https://github.com/NethermindEth/nethermind/commit/52d40652051a63502343c1a5063ea71087cfdb2b) - 2026-06-05
+* [Pull Request] [Enable flat DB by default; flip CI backend coverage](https://github.com/NethermindEth/nethermind/pull/11931) - 2026-06-08
+* [Review] [Review on: perf(state): drop LINQ overhead in UpdateRootHashesMultiThread setup](https://github.com/NethermindEth/nethermind/pull/11929#pullrequestreview-4448019294) - 2026-06-08
+* [Review] [Review on: perf(bal): optimize verify-only storage-read validation and prefetch](https://github.com/NethermindEth/nethermind/pull/11920#pullrequestreview-4447175337) - 2026-06-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

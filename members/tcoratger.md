@@ -309,6 +309,28 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [fix(challenger): evaluate PoW bit-bound in u64 to close release-mode bypass (#1747)](https://github.com/Plonky3/Plonky3/commit/091d98c45c4cc5eca1abbf1811d702db514f44b4) - 2026-06-07
 * [Commit] [fix(matrix): correct strided view height for offset >= stride (#1750)](https://github.com/Plonky3/Plonky3/commit/fb00d05112816115c1d6d6e9a8dc8c3870c9006a) - 2026-06-07
 * [Commit] [refactor(fri): hoist height-1 check and unify max-height in prover (#1756)](https://github.com/Plonky3/Plonky3/commit/3ef5b724a1a864baba782f721e9e0d03f3947a23) - 2026-06-07
+* [Pull Request] [fix(circle): reject oversized query-index widths](https://github.com/Plonky3/Plonky3/pull/1774) - 2026-06-08
+* [Pull Request] [feat(lookup): bind multiplicity weight to its count](https://github.com/Plonky3/Plonky3/pull/1771) - 2026-06-08
+* [Review] [Review on: feat(lookup): bind multiplicity weight to its count](https://github.com/Plonky3/Plonky3/pull/1771#pullrequestreview-4452299653) - 2026-06-08
+* [Review] [Review on: fix(ci): no more isolated dep bumps](https://github.com/Plonky3/Plonky3/pull/1775#pullrequestreview-4452245863) - 2026-06-08
+* [Review] [Review on: whir: add HVZK-WHIR hiding polynomial commitment scheme](https://github.com/Plonky3/Plonky3/pull/1767#pullrequestreview-4449347430) - 2026-06-08
+* [Pull Request] [fix(mersenne-31): make serde encoding canonical](https://github.com/Plonky3/Plonky3/pull/1773) - 2026-06-08
+* [Pull Request] [fix(circle): reject zero-query configurations](https://github.com/Plonky3/Plonky3/pull/1772) - 2026-06-08
+* [Review] [Review on: fix(uni-stark, batch-stark): reject malformed periodic column lengths](https://github.com/Plonky3/Plonky3/pull/1761#pullrequestreview-4450888773) - 2026-06-08
+* [Review] [Review on: fix(lookup): enforce the LogUp multiplicity height-bound](https://github.com/Plonky3/Plonky3/pull/1748#pullrequestreview-4447752688) - 2026-06-08
+* [Review] [Review on: feat(lookup): single sampled challenge pair with per-bus domain separation](https://github.com/Plonky3/Plonky3/pull/1736#pullrequestreview-4447514120) - 2026-06-08
+* [Review] [Review on: fix(challenger): make duplex sponge absorbs length-binding](https://github.com/Plonky3/Plonky3/pull/1769#pullrequestreview-4447378517) - 2026-06-08
+* [Commit] [feat(lookup): bind multiplicity weight to its count (#1771)](https://github.com/Plonky3/Plonky3/commit/21b3fa64dce51f766096e5ba1e57ed00d29343c5) - 2026-06-08
+* [Commit] [fix(circle): reject oversized query-index widths (#1774)](https://github.com/Plonky3/Plonky3/commit/7aaa217874fc1753eeddba8813ff39a3525a0216) - 2026-06-08
+* [Commit] [fix(mersenne-31): make serde encoding canonical (#1773)](https://github.com/Plonky3/Plonky3/commit/7ff4fe9bb8973de7b7e8fe9af402e0450b9ab065) - 2026-06-08
+* [Commit] [fix(circle): reject zero-query configurations (#1772)](https://github.com/Plonky3/Plonky3/commit/280023b453f84d4ce49fc361af11edb8655a92af) - 2026-06-08
+* [Commit] [fix(uni-stark, batch-stark): reject malformed periodic column lengths (#1761)](https://github.com/Plonky3/Plonky3/commit/0f182a718614f1306e68a5ed7583947306be9396) - 2026-06-08
+* [Commit] [fix(lookup): enforce the LogUp multiplicity height-bound (#1748)](https://github.com/Plonky3/Plonky3/commit/750f990ec04cf57202a9d1a657c5e4f57a2c2c75) - 2026-06-08
+* [Commit] [fix(uni-stark): reject out-of-domain point inside the trace domain (#1760)](https://github.com/Plonky3/Plonky3/commit/eb1c625fed742bd1e130054580faee9ca37cb2a3) - 2026-06-08
+* [Commit] [fix(challenger): make duplex sponge absorbs length-binding (#1769)](https://github.com/Plonky3/Plonky3/commit/0f54ee1cc2014b2eeb1d9385db33720a30bd03cc) - 2026-06-08
+* [Commit] [fix(fri): reject opening point equal to the query point instead of panicking (#1762)](https://github.com/Plonky3/Plonky3/commit/2645dfbbddce7c9db4965c9353499d4aee2c1d6f) - 2026-06-08
+* [Commit] [fix(goldilocks): make serde encoding canonical (#1765)](https://github.com/Plonky3/Plonky3/commit/e9c9c6a569253bf0c5d867f448df92f34a4ce6d6) - 2026-06-08
+* [Commit] [fix(merkle-tree): enforce opened row widths in batch verification (#1757)](https://github.com/Plonky3/Plonky3/commit/ecf680b6bbd8fbfb026f1242cb963cbca22bfa6b) - 2026-06-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

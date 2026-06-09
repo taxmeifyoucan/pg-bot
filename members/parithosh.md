@@ -15,6 +15,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Issue] [All Core Devs - Testing (ACDT) #77, April 13, 2026](https://github.com/ethereum/pm/issues/2008) - 2026-04-07
 
 * [Issue] [All Core Devs - Testing (ACDT) #79, May 11, 2026](https://github.com/ethereum/pm/issues/2038) - 2026-05-05
+* [Issue] [All Core Devs - Consensus (ACDC) #180, June 11 2026](https://github.com/ethereum/pm/issues/2113) - 2026-06-08
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Pull Request] [feat(beacon-node): run consensus-specs fork-choice compliance tests](https://github.com/ChainSafe/lodestar/pull/9290) - 2026-04-27
 
@@ -63,6 +64,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [[codex] Link release workflow to compliance tests](https://github.com/ethereum/consensus-specs/pull/5334) - 2026-06-04
+* [Commit] [Upload compliance tests to releases (#5334)](https://github.com/ethereum/consensus-specs/commit/dc711335cdba0aad54e152589493a7bfebd64cad) - 2026-06-08
 ## Q1 2026
 
 

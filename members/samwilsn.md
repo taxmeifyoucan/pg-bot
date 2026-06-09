@@ -86,6 +86,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore: bump ethereum-types and ethereum-rlp](https://github.com/ethereum/execution-specs/pull/2952) - 2026-06-03
 * [Issue] [Is `GasCosts.ZERO` useful?](https://github.com/ethereum/execution-specs/issues/2958) - 2026-06-04
 * [Commit] [chore: bump ethereum-types and ethereum-rlp (#2952)](https://github.com/ethereum/execution-specs/commit/6137bb32f9b8eda6194096992cb97b28be06957d) - 2026-06-04
+* [Pull Request] [chore(spec): pick up ethereum-types with UintFlag](https://github.com/ethereum/execution-specs/pull/2964) - 2026-06-08
+* [Review] [Review on: refactor(forks): pass fork overrides to clone](https://github.com/ethereum/execution-specs/pull/2769#pullrequestreview-4453867492) - 2026-06-08
+* [Commit] [chore(spec): rst -> md for MPT](https://github.com/ethereum/execution-specs/commit/f0ab1537fcd70c405fbd3cd520bc15d0f41f680c) - 2026-06-08
+* [Commit] [chore(spec): pick up ethereum-types with UintFlag](https://github.com/ethereum/execution-specs/commit/e2f9ce8bba4c1db2098a8f70f8dd0b7093f7c26a) - 2026-06-08
 ## Q1 2026
 
 

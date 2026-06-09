@@ -49,6 +49,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [`beacon_blocks_by_head`: add offset, min_slot](https://github.com/ethereum/consensus-specs/pull/5265) - 2026-05-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Execution-Layer Reorg State Retention Window](https://github.com/ethereum/EIPs/pull/11601#pullrequestreview-4242207500) - 2026-05-07
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine: add Rest-SSZ spec](https://github.com/ethereum/execution-apis/pull/793#pullrequestreview-4449493509) - 2026-06-08
 ## Q1 2026
 
 

@@ -338,6 +338,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Deprecate two functions (#5340)](https://github.com/ethereum/consensus-specs/commit/4b886dc5c8b20ac8c4f857e1b1e8c4667f5261c9) - 2026-06-06
 * [Review] [Review on: Update astral-sh/setup-uv action to v8.2.0](https://github.com/ethereum/consensus-specs/pull/5343#pullrequestreview-4446201229) - 2026-06-08
 * [Review] [Review on: Update actions/checkout action to v6.0.3](https://github.com/ethereum/consensus-specs/pull/5342#pullrequestreview-4446186185) - 2026-06-08
+* [Pull Request] [Set altair/bellatrix fork epochs to zero in BTEC gossip tests](https://github.com/ethereum/consensus-specs/pull/5346) - 2026-06-08
+* [Review] [Review on: Set altair/bellatrix fork epochs to zero in BTEC gossip tests](https://github.com/ethereum/consensus-specs/pull/5346#pullrequestreview-4453439503) - 2026-06-08
+* [Pull Request] [Use latest version of uv in workflows](https://github.com/ethereum/consensus-specs/pull/5347) - 2026-06-08
+* [Review] [Review on: Add fork choice test for split LMD votes across payload variants](https://github.com/ethereum/consensus-specs/pull/5345#pullrequestreview-4451085926) - 2026-06-08
+* [Review] [Review on: Align the Gloas fork-choice structure with Phase0](https://github.com/ethereum/consensus-specs/pull/5344#pullrequestreview-4451031958) - 2026-06-08
+* [Commit] [Use latest version of uv in workflows (#5347)](https://github.com/ethereum/consensus-specs/commit/1f41e6bc55697c9b12b44f443fb53dc33a0b75a2) - 2026-06-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

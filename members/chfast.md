@@ -214,6 +214,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): add EIP-8024 gas boundary and SWAPN invalid-immediate tests (#2942)](https://github.com/ethereum/execution-specs/commit/d7def91be93d7ca5df7954fa3241bd8940e5f784) - 2026-06-01
 * [Pull Request] [fix(tests): accept tx-level exception for over-budget block (EIP-7778)](https://github.com/ethereum/execution-specs/pull/2949) - 2026-06-02
 * [Commit] [fix(tests): accept tx- or block-level exception for over-budget block (EIP-7778) (#2949)](https://github.com/ethereum/execution-specs/commit/7771d278b7aa754e9a26368554cd01ebc479d6c8) - 2026-06-03
+* [Issue] [EIP-8037: `test_code_deposit_halt_discards_initcode_state_gas` missing `ef_prefix` (EIP-3541) deposit-failure mode](https://github.com/ethereum/execution-specs/issues/2963) - 2026-06-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

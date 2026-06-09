@@ -97,6 +97,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Add OP Karst fork](https://github.com/NethermindEth/nethermind/pull/11917#pullrequestreview-4438360827) - 2026-06-05
 * [Pull Request] [fix(cache): preserve future-epoch entries during concurrent Clear()](https://github.com/NethermindEth/nethermind/pull/11919) - 2026-06-05
 * [Review] [Review on: fix(cache): preserve future-epoch entries during concurrent Clear()](https://github.com/NethermindEth/nethermind/pull/11919#pullrequestreview-4440554867) - 2026-06-06
+* [Review] [Review on: refactor(optimism): isolate OP fork concerns inside the plugin](https://github.com/NethermindEth/nethermind/pull/11935#pullrequestreview-4450804671) - 2026-06-08
+* [Review] [Review on: perf(threading): ManualResetEventSlim for ParallelUnbalancedWork completion signal](https://github.com/NethermindEth/nethermind/pull/11885#pullrequestreview-4448919584) - 2026-06-08
+* [Review] [Review on: EraE - ere files spec changes](https://github.com/NethermindEth/nethermind/pull/11928#pullrequestreview-4449171805) - 2026-06-08
+* [Review] [Review on: perf(state): drop LINQ overhead in UpdateRootHashesMultiThread setup](https://github.com/NethermindEth/nethermind/pull/11929#pullrequestreview-4448308861) - 2026-06-08
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11923#pullrequestreview-4448828979) - 2026-06-08
+* [Commit] [fix(cache): preserve future-epoch entries during concurrent Clear() (#11919)](https://github.com/NethermindEth/nethermind/commit/366067da33eef667ca164980984429ddb87246cd) - 2026-06-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 

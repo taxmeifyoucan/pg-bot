@@ -200,6 +200,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm pre-Nim 1.6 compatibility in build script](https://github.com/status-im/nimbus-eth2/pull/8565) - 2026-06-08
 * [Pull Request] [rm unused code](https://github.com/status-im/nimbus-eth2/pull/8564) - 2026-06-07
 * [Pull Request] [rm pre-Electra remnants from signing node](https://github.com/status-im/nimbus-eth2/pull/8563) - 2026-06-07
+* [Pull Request] [rm pre-EIP-6110 EpochRef vestiges](https://github.com/status-im/nimbus-eth2/pull/8567) - 2026-06-08
+* [Review] [Review on: send payload attestations as soon as the payload envelope is received](https://github.com/status-im/nimbus-eth2/pull/8558#pullrequestreview-4446731612) - 2026-06-08
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

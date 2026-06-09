@@ -88,6 +88,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/beacon: include finalized in headers list](https://github.com/erigontech/erigon/pull/21645) - 2026-06-05
 * [Issue] [Caplin Beacon API headers list response omits finalized field](https://github.com/erigontech/erigon/issues/21644) - 2026-06-05
 * [Pull Request] [cl, execution: glamsterdam devnet-5 fixes](https://github.com/erigontech/erigon/pull/21655) - 2026-06-06
+* [Review] [Review on: cl/beacon: include finalized in headers list](https://github.com/erigontech/erigon/pull/21645#pullrequestreview-4446663155) - 2026-06-08
+* [Issue] [Caplin: persist Gloas envelope metadata for historical serving](https://github.com/erigontech/erigon/issues/21680) - 2026-06-08
+* [Commit] [cl/gloas: gate fork choice on verified execution payloads (#21417)](https://github.com/erigontech/erigon/commit/3ec49a3647915d64e17e5450ea898a04f267a7e7) - 2026-06-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026
