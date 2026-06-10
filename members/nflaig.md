@@ -334,6 +334,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: emit fast_confirmation SSE event per beacon-APIs](https://github.com/ChainSafe/lodestar/pull/9439#pullrequestreview-4454103475) - 2026-06-08
 * [Review] [Review on: chore(deps): bump github/codeql-action from 4.36.1 to 4.36.2 in the actions group](https://github.com/ChainSafe/lodestar/pull/9480#pullrequestreview-4450845988) - 2026-06-08
 * [Issue] [Dora is unhappy with lodestar SSE events](https://github.com/ChainSafe/lodestar/issues/9477) - 2026-06-08
+* [Review] [Review on: chore: fix BlockInputSync metrics and logs](https://github.com/ChainSafe/lodestar/pull/9481#pullrequestreview-4457962380) - 2026-06-09
+* [Pull Request] [fix: bound `SeenPayloadEnvelopeInput` cache size to prevent OOM](https://github.com/ChainSafe/lodestar/pull/9489) - 2026-06-09
+* [Review] [Review on: fix: bound `SeenPayloadEnvelopeInput` cache size to prevent OOM](https://github.com/ChainSafe/lodestar/pull/9489#pullrequestreview-4458204109) - 2026-06-09
+* [Review] [Review on: chore: update gossipsub to v16.0.2](https://github.com/ChainSafe/lodestar/pull/9487#pullrequestreview-4457993690) - 2026-06-09
+* [Pull Request] [chore: remove stale gloas todo about different state variants](https://github.com/ChainSafe/lodestar/pull/9485) - 2026-06-09
+* [Review] [Review on: fix: ensure block in forkchoice before validate by_root payload](https://github.com/ChainSafe/lodestar/pull/9479#pullrequestreview-4457028941) - 2026-06-09
+* [Review] [Review on: fix: remove TOO_MANY_SKIPPED_SLOTS block error](https://github.com/ChainSafe/lodestar/pull/9484#pullrequestreview-4457210612) - 2026-06-09
+* [Commit] [chore: remove resolved todo about queuing payload envelopes (#9474)](https://github.com/ChainSafe/lodestar/commit/1b4e24f1ee050b326d739866209ed72a0284592a) - 2026-06-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -428,6 +436,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Clarify `should_build_on_full` semantic](https://github.com/ethereum/consensus-specs/pull/5335#pullrequestreview-4437714568) - 2026-06-05
 * [Review] [Review on: Remove `should_extend_payload` assertions from payload tests](https://github.com/ethereum/consensus-specs/pull/5338#pullrequestreview-4435797536) - 2026-06-05
 * [Review] [Review on: Set altair/bellatrix fork epochs to zero in BTEC gossip tests](https://github.com/ethereum/consensus-specs/pull/5346#pullrequestreview-4453385397) - 2026-06-08
+* [Review] [Review on: Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352#pullrequestreview-4457058901) - 2026-06-09
+* [Review] [Review on: Modify `get_proposer_head` for Gloas](https://github.com/ethereum/consensus-specs/pull/5348#pullrequestreview-4461053066) - 2026-06-09
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 
@@ -438,6 +448,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: chore: pluralize gloas execution payload endpoint paths](https://github.com/OffchainLabs/prysm/pull/16902#pullrequestreview-4436202122) - 2026-06-05
+* [Review] [Review on: Add forkchoice unit test](https://github.com/OffchainLabs/prysm/pull/16932#pullrequestreview-4459168553) - 2026-06-09
 ## Q1 2026
 
 

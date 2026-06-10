@@ -94,6 +94,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-fill): align `fill-stateful` with `gas-benchmarks` implementation](https://github.com/ethereum/execution-specs/pull/2923#pullrequestreview-4421017658) - 2026-06-03
 * [Review] [Review on: chore(test-forks): include sibling BPO forks in `--until` ranges](https://github.com/ethereum/execution-specs/pull/2955#pullrequestreview-4427990801) - 2026-06-04
 * [Review] [Review on: chore(packaging): ignore local memory files (CLAUDE.local.md, .mb/, mb/)](https://github.com/ethereum/execution-specs/pull/2962#pullrequestreview-4450824375) - 2026-06-08
+* [Pull Request] [feat(test-specs): Allow automatic transaction gas-limit](https://github.com/ethereum/execution-specs/pull/2969) - 2026-06-09
+* [Review] [Review on: feat(tests): EIP-8037 CREATE-tx collision refunds state-gas reservoir](https://github.com/ethereum/execution-specs/pull/2875#pullrequestreview-4462452857) - 2026-06-09
+* [Review] [Review on: ✨ feat(test):  EIP-7928 Selfdestruct a dirty account](https://github.com/ethereum/execution-specs/pull/2967#pullrequestreview-4460813686) - 2026-06-09
+* [Review] [Review on: feat(tests): EIP-8037 reject when calldata_floor > TX_MAX_GAS_LIMIT](https://github.com/ethereum/execution-specs/pull/2898#pullrequestreview-4462249850) - 2026-06-09
+* [Review] [Review on: refactor(tests): encode z, y as big-endian in test_point_eval_gas](https://github.com/ethereum/execution-specs/pull/2960#pullrequestreview-4462116191) - 2026-06-09
+* [Review] [Review on: chore(tests): remove duplicate `tstore` tests](https://github.com/ethereum/execution-specs/pull/2966#pullrequestreview-4459377896) - 2026-06-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

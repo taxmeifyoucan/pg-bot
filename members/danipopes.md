@@ -340,6 +340,12 @@ Team: Reth
 * [Commit] [chore: update revm alloy and inkwell (#385)](https://github.com/paradigmxyz/revmc/commit/e0303e8ae577f09b6e46d792294bffd903a27ee6) - 2026-05-25
 * [Pull Request] [ci: add shared LLVM install script](https://github.com/paradigmxyz/revmc/pull/386) - 2026-05-26
 * [Commit] [ci: add shared LLVM install script (#386)](https://github.com/paradigmxyz/revmc/commit/89c73ea507a9234c78b480a09efa185465744e9f) - 2026-05-26
+* [Pull Request] [chore: bump alloy-evm and oxc-index](https://github.com/paradigmxyz/revmc/pull/389) - 2026-06-09
+* [Review] [Review on: fix(statetest): default omitted excess_blob_gas on block headers](https://github.com/paradigmxyz/revmc/pull/387#pullrequestreview-4460112196) - 2026-06-09
+* [Pull Request] [fix: update revm gas API usage](https://github.com/paradigmxyz/revmc/pull/388) - 2026-06-09
+* [Commit] [perf: make op_info_map and make_map const (#322)](https://github.com/paradigmxyz/revmc/commit/b074a904d1ed8769e2e4d1d125231a36ea33341f) - 2026-06-10
+* [Commit] [chore: bump alloy-evm and oxc-index (#389)](https://github.com/paradigmxyz/revmc/commit/5ca04c3896c0be9447430853355ab11c0e9c6c24) - 2026-06-09
+* [Commit] [fix: update revm gas API usage (#388)](https://github.com/paradigmxyz/revmc/commit/ca5afb87e86a532e3a2d193ac45654832a323d11) - 2026-06-09
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07

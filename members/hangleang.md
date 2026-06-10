@@ -55,6 +55,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [[Glamsterdam] Update consensus spec tests to v1.7.0-alpha.10](https://github.com/grandinetech/grandine/issues/733) - 2026-06-05
 * [Issue] [[Bug] attesting balance should never go below zero](https://github.com/grandinetech/grandine/issues/739) - 2026-06-08
 * [Issue] [[Bug] Gloas data column sidecar race validations](https://github.com/grandinetech/grandine/issues/738) - 2026-06-08
+* [Pull Request] [Skip producing block with local payload unavailable](https://github.com/grandinetech/grandine/pull/744) - 2026-06-09
+* [Issue] [[Bug] Produce default signed payload bid when EL unavailable](https://github.com/grandinetech/grandine/issues/743) - 2026-06-09
+* [Issue] [[Bug] Reject payload attestation for two competing blocks at the same slot](https://github.com/grandinetech/grandine/issues/742) - 2026-06-09
 ## Q1 2026
 
 

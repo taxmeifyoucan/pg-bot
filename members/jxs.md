@@ -28,6 +28,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Review] [Review on: Reduce public api surface](https://github.com/sigp/discv5/pull/304#pullrequestreview-4308841027) - 2026-05-18
 * [Review] [Review on: Reduce public api surface](https://github.com/sigp/discv5/pull/304#pullrequestreview-4348898710) - 2026-05-22
 * [Review] [Review on: Fix: ipv4/ipv6_contactable metrics never updated](https://github.com/sigp/discv5/pull/300#pullrequestreview-4348887318) - 2026-05-22
+* [Review] [Review on: fix: remove expected-response entry on challenge expiry](https://github.com/sigp/discv5/pull/306#pullrequestreview-4460287015) - 2026-06-09
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Review] [Review on: Remove `EthSpec`](https://github.com/sigp/lighthouse/pull/9229#pullrequestreview-4229342691) - 2026-05-05
 * [Pull Request] [Disable Mplex by default](https://github.com/sigp/lighthouse/pull/9365) - 2026-05-28

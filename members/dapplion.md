@@ -66,6 +66,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Gloas alpha spec 9](https://github.com/sigp/lighthouse/pull/9393#pullrequestreview-4448439642) - 2026-06-08
 * [Review] [Review on: Gloas lookup sync](https://github.com/sigp/lighthouse/pull/9155#pullrequestreview-4448770323) - 2026-06-08
 * [Issue] [Optimize Gloas range sync](https://github.com/sigp/lighthouse/issues/9432) - 2026-06-08
+* [Pull Request] [Gloas attestation payload reprocess](https://github.com/sigp/lighthouse/pull/9440) - 2026-06-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 

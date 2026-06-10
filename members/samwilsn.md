@@ -90,6 +90,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(forks): pass fork overrides to clone](https://github.com/ethereum/execution-specs/pull/2769#pullrequestreview-4453867492) - 2026-06-08
 * [Commit] [chore(spec): rst -> md for MPT](https://github.com/ethereum/execution-specs/commit/f0ab1537fcd70c405fbd3cd520bc15d0f41f680c) - 2026-06-08
 * [Commit] [chore(spec): pick up ethereum-types with UintFlag](https://github.com/ethereum/execution-specs/commit/e2f9ce8bba4c1db2098a8f70f8dd0b7093f7c26a) - 2026-06-08
+* [Review] [Review on: refactor(forks): pass fork overrides to clone](https://github.com/ethereum/execution-specs/pull/2769#pullrequestreview-4459837438) - 2026-06-09
+* [Pull Request] [chore(specs): add type alias for fee market txs](https://github.com/ethereum/execution-specs/pull/2968) - 2026-06-09
+* [Review] [Review on: feat(spec-tool): enforce `@final` on leaf dataclasses](https://github.com/ethereum/execution-specs/pull/2965#pullrequestreview-4459534728) - 2026-06-09
+* [Commit] [chore(specs): add final decorator (#2934)](https://github.com/ethereum/execution-specs/commit/9c2813eee60b7edc6f29370309cbc4e7a3b80d9c) - 2026-06-09
 ## Q1 2026
 
 

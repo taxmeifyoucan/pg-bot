@@ -71,6 +71,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Reduce [XDeclaredButNotUsed] and [Deprecated] warnings](https://github.com/status-im/nimbus-eth1/pull/4314) - 2026-06-09
 * [Pull Request] [Fix nightly build and upgrade gha download/upload artifact](https://github.com/status-im/nimbus-eth1/pull/4311) - 2026-06-08
 * [Pull Request] [TxPool: fix feeRecipient reward issue and fix ordered list cleanup issue](https://github.com/status-im/nimbus-eth1/pull/4313) - 2026-06-09
+* [Review] [Review on: sync to block head with unknown header](https://github.com/status-im/nimbus-eth1/pull/4315#pullrequestreview-4457389470) - 2026-06-09
+* [Commit] [Fix nightly build and upgrade gha download/upload artifact (#4311)](https://github.com/status-im/nimbus-eth1/commit/0b9f28a15f42a97cec2fa5a96852e680088ccf3b) - 2026-06-09
+* [Commit] [TxPool: fix feeRecipient reward issue and fix ordered list cleanup issue (#4313)](https://github.com/status-im/nimbus-eth1/commit/e5fc3f135ea9b5cb2608cc1023355b44a857cea8) - 2026-06-09
+* [Commit] [Reduce [XDeclaredButNotUsed] and [Deprecated] warnings (#4314)](https://github.com/status-im/nimbus-eth1/commit/8ab3d0f467d270df0feb117ec0f6ffa691a1c76a) - 2026-06-09
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 

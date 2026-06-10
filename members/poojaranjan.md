@@ -21,6 +21,8 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Pull Request] [Update EIP-8133: Move to Review](https://github.com/ethereum/EIPs/pull/11756) - 2026-06-02
 * [Review] [Review on: Update EIP-8133: Move to Review](https://github.com/ethereum/EIPs/pull/11756#pullrequestreview-4412033293) - 2026-06-02
 * [Commit] [Update EIP-8133: Move to Review](https://github.com/ethereum/EIPs/commit/bca0b64daa8d2b56d87d6e79bd27321ff896ce93) - 2026-06-02
+* [Pull Request] [Website: Add 'Final' and 'Living' to draft stage conditions](https://github.com/ethereum/EIPs/pull/11198) - 2026-06-09
+* [Commit] [Website: Add 'Final' and 'Living' to draft stage conditions](https://github.com/ethereum/EIPs/commit/a42c255deff3184c0e283f04aaa5c5fc1db3c967) - 2026-06-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #96, April 07, 2026](https://github.com/ethereum/pm/issues/2007) - 2026-04-07
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #97, April 14, 2026](https://github.com/ethereum/pm/issues/2017) - 2026-04-13

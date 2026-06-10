@@ -19,6 +19,7 @@ Team: Grandine
 * [Issue] [[Glamsterdam] Builder](https://github.com/grandinetech/grandine/issues/711) - 2026-06-01
 * [Issue] [[Glamsterdam] Dual deadlines](https://github.com/grandinetech/grandine/issues/710) - 2026-06-01
 * [Issue] [Glamsterdam devnet-5](https://github.com/grandinetech/grandine/issues/709) - 2026-06-01
+* [Issue] [Make payload storage optional](https://github.com/grandinetech/grandine/issues/741) - 2026-06-09
 ## Q1 2026
 
 

@@ -264,6 +264,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Enable flat DB by default; flip CI backend coverage](https://github.com/NethermindEth/nethermind/pull/11931) - 2026-06-08
 * [Review] [Review on: perf(state): drop LINQ overhead in UpdateRootHashesMultiThread setup](https://github.com/NethermindEth/nethermind/pull/11929#pullrequestreview-4448019294) - 2026-06-08
 * [Review] [Review on: perf(bal): optimize verify-only storage-read validation and prefetch](https://github.com/NethermindEth/nethermind/pull/11920#pullrequestreview-4447175337) - 2026-06-08
+* [Review] [Review on: feat(sync): add Sync.StaticSnapPivot for fixed-pivot snap sync from a frozen peer](https://github.com/NethermindEth/nethermind/pull/11943#pullrequestreview-4463297255) - 2026-06-09
+* [Review] [Review on: perf(crypto): reuse the RIPEMD-160 digest per thread](https://github.com/NethermindEth/nethermind/pull/11890#pullrequestreview-4456236141) - 2026-06-09
+* [Review] [Review on: perf(bls): reduce allocations and wasted clears in G2MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11891#pullrequestreview-4456213206) - 2026-06-09
+* [Review] [Review on: perf(bls): reduce allocations and wasted clears in G1MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11889#pullrequestreview-4456260120) - 2026-06-09
+* [Review] [Review on: perf(evm): avoid per-CREATE RlpStream allocation in contract-address derivation](https://github.com/NethermindEth/nethermind/pull/11892#pullrequestreview-4456206286) - 2026-06-09
+* [Review] [Review on: test: bump timeouts on two flaky timing-bounded tests](https://github.com/NethermindEth/nethermind/pull/11933#pullrequestreview-4455991699) - 2026-06-09
+* [Commit] [fix(FlatDB): prune orphaned non-canonical snapshots on persist (#11739)](https://github.com/NethermindEth/nethermind/commit/712698533c1ea51cd31b68134ca0735829eff49d) - 2026-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

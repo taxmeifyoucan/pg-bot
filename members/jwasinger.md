@@ -81,6 +81,7 @@ Team: Geth
 * [Review] [Review on: beacon/engine: prints the offending hash instead of the whole slice](https://github.com/ethereum/go-ethereum/pull/35112#pullrequestreview-4453442985) - 2026-06-08
 * [Review] [Review on: eth/protocols/eth: track announced tx hashes only after send](https://github.com/ethereum/go-ethereum/pull/35122#pullrequestreview-4450747325) - 2026-06-08
 * [Review] [Review on: cmd/utils: validates trimmed string but parses the untrimmed one](https://github.com/ethereum/go-ethereum/pull/35116#pullrequestreview-4450860351) - 2026-06-08
+* [Review] [Review on: core: fix EIP-8037 double-refund of 7702 auth-base state gas within a tx](https://github.com/ethereum/go-ethereum/pull/35128#pullrequestreview-4461869952) - 2026-06-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

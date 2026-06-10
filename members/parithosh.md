@@ -40,6 +40,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [[codex] fix security alerts](https://github.com/ethpandaops/dora/pull/706) - 2026-05-20
 * [Review] [Review on: close IN() paren in GetMevBlocksByBlockHashes](https://github.com/ethpandaops/dora/pull/725#pullrequestreview-4435322568) - 2026-06-05
+* [Pull Request] [[codex] safe network overview](https://github.com/ethpandaops/dora/pull/737) - 2026-06-09
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/90) - 2026-04-29
 * [Commit] [fix(config.production.yaml): reuse bal.jpg image for glamsterdam-devnets](https://github.com/ethpandaops/cartographoor/commit/619e4c46218ec206340ccafd0bda95a7ae573577) - 2026-04-29
@@ -65,6 +66,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [[codex] Link release workflow to compliance tests](https://github.com/ethereum/consensus-specs/pull/5334) - 2026-06-04
 * [Commit] [Upload compliance tests to releases (#5334)](https://github.com/ethereum/consensus-specs/commit/dc711335cdba0aad54e152589493a7bfebd64cad) - 2026-06-08
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: tools: bump go-ethereum and regenerate eth_simulateV1 fixtures](https://github.com/ethereum/execution-apis/pull/822#pullrequestreview-4458991837) - 2026-06-09
 ## Q1 2026
 
 

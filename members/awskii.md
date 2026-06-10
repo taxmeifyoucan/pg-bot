@@ -180,6 +180,8 @@ Team: Erigon
 * [Commit] [`debug_executionWitness`: legacy + canonical conformance (#21629)](https://github.com/erigontech/erigon/commit/2ab82b7fa7d7aea2dafb93c69499969d667e7f16) - 2026-06-05
 * [Commit] [cmd/evm, test-fixtures: bump eest zkevm corpus to tests-zkevm@v0.4.1 (#21648)](https://github.com/erigontech/erigon/commit/5027d259c2c8a7900a7756290d7806d399e6c3ce) - 2026-06-06
 * [Pull Request] [execution/commitment: parallel commitment trie (ParallelPatriciaHashed)](https://github.com/erigontech/erigon/pull/21664) - 2026-06-07
+* [Pull Request] [execution/commitment: streaming commitment trie (--experimental.streaming-commitment)](https://github.com/erigontech/erigon/pull/21709) - 2026-06-09
+* [Commit] [commitment: fix warmuper arena data race in HashSort (#21432)](https://github.com/erigontech/erigon/commit/c15f43363c28f091218ee3803d1992b6321f5c70) - 2026-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

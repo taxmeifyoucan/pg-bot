@@ -125,6 +125,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: proposer preference rest](https://github.com/OffchainLabs/prysm/pull/16835#pullrequestreview-4451422877) - 2026-06-08
 * [Issue] [Improve Duties promotion handling on single duty failure](https://github.com/OffchainLabs/prysm/issues/16928) - 2026-06-08
 * [Commit] [proposer preference rest (#16835)](https://github.com/OffchainLabs/prysm/commit/432b0c2a8e78db01516696be5075ffe25e396785) - 2026-06-08
+* [Review] [Review on: Add deposit signature cache + envelope prefetcher](https://github.com/OffchainLabs/prysm/pull/16812#pullrequestreview-4462387451) - 2026-06-09
+* [Review] [Review on: Request parent payload envelopes in parallel with parent blocks](https://github.com/OffchainLabs/prysm/pull/16908#pullrequestreview-4459646216) - 2026-06-09
+* [Pull Request] [updated duties using split endpoints](https://github.com/OffchainLabs/prysm/pull/16421) - 2026-06-09
+* [Commit] [updated duties using split endpoints (#16421)](https://github.com/OffchainLabs/prysm/commit/4d8c5a9bd72030ce728d73c9f8fc1d7aef2f9417) - 2026-06-09
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

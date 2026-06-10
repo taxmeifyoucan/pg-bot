@@ -25,6 +25,8 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Update EIP-8081: add EIP-4758](https://github.com/ethereum/EIPs/pull/11724#pullrequestreview-4349023783) - 2026-05-22
 * [Review] [Review on: Update EIP-8081: Add EIP-7709 and EIP-8025](https://github.com/ethereum/EIPs/pull/11720#pullrequestreview-4359157539) - 2026-05-25
 * [Review] [Review on: Update EIP-8081: Propose EIP-8148 for inclusion in Hegotá](https://github.com/ethereum/EIPs/pull/11508#pullrequestreview-4427828229) - 2026-06-04
+* [Pull Request] [Update EIP-8081: add newly PFId EIPs](https://github.com/ethereum/EIPs/pull/11786) - 2026-06-09
+* [Commit] [Update EIP-8081: add newly PFId EIPs](https://github.com/ethereum/EIPs/commit/6e833827ada359edcdf5f05f5c2547b57ca2eb9e) - 2026-06-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Commit] [Fix CI: downgrade Requests to 2.32.5 for Python 3.9 compatibility](https://github.com/ethereum/pm/commit/b8ce2627f82c7790432c37c2b66c0083ee61c96d) - 2026-04-01
 * [Issue] [All Core Devs - Execution (ACDE) #234, April 9, 2026](https://github.com/ethereum/pm/issues/2004) - 2026-04-04
@@ -45,6 +47,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Issue] [All Core Devs - Execution (ACDE) #238, June 4, 2026](https://github.com/ethereum/pm/issues/2076) - 2026-05-22
 * [Review] [Review on: Archive Fusaka network upgrade docs](https://github.com/ethereum/pm/pull/2093#pullrequestreview-4384391381) - 2026-05-28
 * [Commit] [Merge pull request #2093 from dionysuzx/codex/archive-fusaka-network-upgrade](https://github.com/ethereum/pm/commit/3b623b8a4d0fa616d849a1114d31d779a5ce1dc1) - 2026-05-28
+* [Issue] [All Core Devs - Execution (ACDE) #239, June 18, 2026](https://github.com/ethereum/pm/issues/2115) - 2026-06-09
 ## Q1 2026
 
 

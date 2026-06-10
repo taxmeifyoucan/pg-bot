@@ -186,6 +186,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: implement pending resolver and GetPendingTransactions GraphQL (#21593)](https://github.com/erigontech/erigon/commit/375dde8ab69ae827449192aa990af755916169d0) - 2026-06-07
 * [Commit] [rpc: fix trace gaslimit override (#21647)](https://github.com/erigontech/erigon/commit/6564828a91165873e431b675243db35cf9f9a5ed) - 2026-06-07
 * [Commit] [rpc: fix retention number as quantity (#21660)](https://github.com/erigontech/erigon/commit/8c4e9154e0e302ab72d2bf066be7f22d9892c185) - 2026-06-07
+* [Commit] [rpc: fix debug_accountRange() start validation & remove incompletes validation (#21657)](https://github.com/erigontech/erigon/commit/19115fe65ce0092b1b3c96710fca6326fd54246d) - 2026-06-09
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -239,8 +240,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [omit memory field if empty (as Geth) (#572)](https://github.com/erigontech/rpc-tests/commit/e0b42ec468b019ef71cd1ce3e0749a267b394a11) - 2026-06-08
 * [Commit] [integration_test: save Reth (commmit 87fc4cf4355ddbc59220f691a46d9f9d354adfa0 ) response with hive chain (#571)](https://github.com/erigontech/rpc-tests/commit/0630a0667c6ee497941fae3b11180eeadb149444) - 2026-06-08
 
+* [Commit] [add trace_block & traceReaplyTransaction post shanghai (#573)](https://github.com/erigontech/rpc-tests/commit/723f948e612602b270ca7f80a9130c492f62a1d4) - 2026-06-09
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators/graphql: pass HIVE_CANCUN_TIMESTAMP to client and fix test expectations](https://github.com/ethereum/hive/pull/1533) - 2026-06-08
+* [Pull Request] [GraphQL: erigon allow unprotected txs when GraphQL is enabled](https://github.com/ethereum/hive/pull/1539) - 2026-06-09
+* [Commit] [simulators/ethereum/graphql: pass `HIVE_CANCUN_TIMESTAMP` to client; fix test expectations (#1533)](https://github.com/ethereum/hive/commit/9d69f2243965e8cc3d4c33601ca146a68733fec3) - 2026-06-09
 ## Q1 2026
 
 

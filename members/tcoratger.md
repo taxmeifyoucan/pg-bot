@@ -331,6 +331,14 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [fix(fri): reject opening point equal to the query point instead of panicking (#1762)](https://github.com/Plonky3/Plonky3/commit/2645dfbbddce7c9db4965c9353499d4aee2c1d6f) - 2026-06-08
 * [Commit] [fix(goldilocks): make serde encoding canonical (#1765)](https://github.com/Plonky3/Plonky3/commit/e9c9c6a569253bf0c5d867f448df92f34a4ce6d6) - 2026-06-08
 * [Commit] [fix(merkle-tree): enforce opened row widths in batch verification (#1757)](https://github.com/Plonky3/Plonky3/commit/ecf680b6bbd8fbfb026f1242cb963cbca22bfa6b) - 2026-06-08
+* [Pull Request] [perf(whir): batch and parallelize zk prover covector assembly](https://github.com/Plonky3/Plonky3/pull/1783) - 2026-06-09
+* [Pull Request] [perf(challenger): precompute the grind state for MultiField32Challenger](https://github.com/Plonky3/Plonky3/pull/1782) - 2026-06-09
+* [Pull Request] [whir: remove dead public items](https://github.com/Plonky3/Plonky3/pull/1781) - 2026-06-09
+* [Review] [Review on: whir: add HVZK-WHIR hiding polynomial commitment scheme](https://github.com/Plonky3/Plonky3/pull/1767#pullrequestreview-4460257737) - 2026-06-09
+* [Review] [Review on: perf(circle): fill the LDE extension in parallel](https://github.com/Plonky3/Plonky3/pull/1778#pullrequestreview-4460601733) - 2026-06-09
+* [Pull Request] [bench(lookup): end-to-end batch-STARK lookup benchmark harness](https://github.com/Plonky3/Plonky3/pull/1779) - 2026-06-09
+* [Commit] [whir: add HVZK-WHIR hiding polynomial commitment scheme (#1767)](https://github.com/Plonky3/Plonky3/commit/e44f8b2765796fdd95517e0608aaf9885f74180a) - 2026-06-09
+* [Commit] [feat(lookup): single sampled challenge pair with per-bus domain separation (#1736)](https://github.com/Plonky3/Plonky3/commit/44f989e80ee8c80adb16b9ced83e365eb21c8262) - 2026-06-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

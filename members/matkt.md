@@ -112,6 +112,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Optmize memory usage of the bal parallel execution ](https://github.com/besu-eth/besu/pull/10606) - 2026-06-08
 * [Review] [Review on: Optmize memory usage of the bal parallel execution ](https://github.com/besu-eth/besu/pull/10606#pullrequestreview-4449620262) - 2026-06-08
 * [Review] [Review on: snap/2 - track downloaded ranges](https://github.com/besu-eth/besu/pull/10579#pullrequestreview-4446795265) - 2026-06-08
+* [Review] [Review on: snap/2 - pivot catch-up lifecycle management](https://github.com/besu-eth/besu/pull/10590#pullrequestreview-4457955548) - 2026-06-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

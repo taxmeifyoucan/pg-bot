@@ -140,6 +140,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Use dependent root for proposer preferences](https://github.com/ethereum/consensus-specs/pull/5196#pullrequestreview-4196076973) - 2026-04-29
 
 * [Review] [Review on: Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309#pullrequestreview-4396689199) - 2026-05-31
+* [Pull Request] [Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352) - 2026-06-09
+* [Review] [Review on: Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352#pullrequestreview-4457093952) - 2026-06-09
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Issue] [Prysm disconnects when finalized roots dont match](https://github.com/OffchainLabs/prysm/issues/16773) - 2026-05-09
 ## Q1 2026

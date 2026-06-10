@@ -118,6 +118,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests): accept tx-level exception for over-budget block (EIP-7778)](https://github.com/ethereum/execution-specs/pull/2949#pullrequestreview-4418631128) - 2026-06-03
 * [Review] [Review on: chore: bump ethereum-types and ethereum-rlp](https://github.com/ethereum/execution-specs/pull/2952#pullrequestreview-4425564514) - 2026-06-04
 * [Issue] [Add `fill` flag to explicitly specify the output fixture formats ](https://github.com/ethereum/execution-specs/issues/2959) - 2026-06-04
+* [Pull Request] [feat(spec-tool): enforce `@final` on leaf dataclasses](https://github.com/ethereum/execution-specs/pull/2965) - 2026-06-09
+* [Review] [Review on: chore(specs): add final decorator](https://github.com/ethereum/execution-specs/pull/2934#pullrequestreview-4456220694) - 2026-06-09
+* [Commit] [feat(spec-tool): enforce `@final` on leaf dataclasses](https://github.com/ethereum/execution-specs/commit/b40f81592bfc6f624e5f9dde8c2a54f8be678888) - 2026-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 
@@ -138,6 +141,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: clients/ethrex: import block files individually](https://github.com/ethereum/hive/pull/1461#pullrequestreview-4226428886) - 2026-05-05
 * [Review] [Review on: clients/erigon: import all per-block files in a single process](https://github.com/ethereum/hive/pull/1519#pullrequestreview-4416649539) - 2026-06-03
+* [Review] [Review on: simulators/graphql: pass HIVE_CANCUN_TIMESTAMP to client and fix test expectations](https://github.com/ethereum/hive/pull/1533#pullrequestreview-4457302453) - 2026-06-09
 ## Q1 2026
 
 

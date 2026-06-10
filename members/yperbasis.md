@@ -638,6 +638,32 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] execution/protocol: fix Osaka (EIP-7778) block gas to use pre-refund gas](https://github.com/erigontech/erigon/pull/21641#pullrequestreview-4447295341) - 2026-06-08
 * [Review] [Review on: fix: PoS dev mode — enable Fusaka (Fulu CL + Osaka EL) block production](https://github.com/erigontech/erigon/pull/21646#pullrequestreview-4447625228) - 2026-06-08
 * [Commit] [db/version/app: bump to 3.6.0-dev (#21682)](https://github.com/erigontech/erigon/commit/b7cc9899d353a18d5c07c5195ea1c8b6d3eb55b6) - 2026-06-08
+* [Review] [Review on: docs: add --snap.chaintoml-url, update EXEC3_PARALLEL default (release/3.5)](https://github.com/erigontech/erigon/pull/21687#pullrequestreview-4457762674) - 2026-06-09
+* [Pull Request] [docs/site, tracetest: fix Dependabot npm alerts (uuid, ws)](https://github.com/erigontech/erigon/pull/21691) - 2026-06-09
+* [Pull Request] [[r3.5] db/downloader: lock torrentsByName read in allActiveSnapshots](https://github.com/erigontech/erigon/pull/21700) - 2026-06-09
+* [Review] [Review on: ci: fix update-disk-sizes push rejection (use GitHub App token)](https://github.com/erigontech/erigon/pull/21665#pullrequestreview-4457763367) - 2026-06-09
+* [Review] [Review on: execution/p2p: log peer penalization on bad BAL response](https://github.com/erigontech/erigon/pull/21702#pullrequestreview-4459512214) - 2026-06-09
+* [Pull Request] [cl/phase1/forkchoice: use the incremental indexed weight store for the GLOAS head](https://github.com/erigontech/erigon/pull/21694) - 2026-06-09
+* [Review] [Review on: cl/phase1/forkchoice: use the incremental indexed weight store for the GLOAS head](https://github.com/erigontech/erigon/pull/21694#pullrequestreview-4458053205) - 2026-06-09
+* [Review] [Review on: ci: retry kurtosis erigon image build on transient registry/cache failures](https://github.com/erigontech/erigon/pull/21693#pullrequestreview-4457860025) - 2026-06-09
+* [Review] [Review on: [wip] seg: add word-level compression enum into data-file header](https://github.com/erigontech/erigon/pull/20074#pullrequestreview-4459854684) - 2026-06-09
+* [Review] [Review on: [wip] `HistoryKeyTxNumIterFiles`: less copy/append](https://github.com/erigontech/erigon/pull/20286#pullrequestreview-4459718402) - 2026-06-09
+* [Review] [Review on: cl/phase1/forkchoice: don't maintain GLOAS indexed weight store pre-GLOAS](https://github.com/erigontech/erigon/pull/21698#pullrequestreview-4458602865) - 2026-06-09
+* [Pull Request] [db/downloader: lock torrentsByName read in allActiveSnapshots](https://github.com/erigontech/erigon/pull/21696) - 2026-06-09
+* [Review] [Review on: db/downloader: lock torrentsByName read in allActiveSnapshots](https://github.com/erigontech/erigon/pull/21696#pullrequestreview-4458166595) - 2026-06-09
+* [Pull Request] [execution/execmodule: fix data race between background prune and next FCU](https://github.com/erigontech/erigon/pull/21697) - 2026-06-09
+* [Review] [Review on: execution/execmodule: fix data race between background prune and next FCU](https://github.com/erigontech/erigon/pull/21697#pullrequestreview-4458645482) - 2026-06-09
+* [Review] [Review on: [r3.5] cl/phase1/forkchoice: don't maintain GLOAS indexed weight store pre-GLOAS](https://github.com/erigontech/erigon/pull/21699#pullrequestreview-4458609734) - 2026-06-09
+* [Review] [Review on: docs: replace 'prune modes' with 'pruning modes' (grammatical fix)](https://github.com/erigontech/erigon/pull/21689#pullrequestreview-4458521955) - 2026-06-09
+* [Review] [Review on: execution: add validation for empty slot changes as per EIP-7928](https://github.com/erigontech/erigon/pull/21633#pullrequestreview-4457939470) - 2026-06-09
+* [Review] [Review on: docs: replace 'prune modes' with 'pruning modes' (grammatical fix)](https://github.com/erigontech/erigon/pull/21690#pullrequestreview-4457741039) - 2026-06-09
+* [Review] [Review on: ci(qa): measure disk usage per prune mode with real block sizes](https://github.com/erigontech/erigon/pull/21580#pullrequestreview-4457720115) - 2026-06-09
+* [Review] [Review on: execution/execmodule: block on semaphore in InsertBlocks, drop busy-wait + dead Busy paths](https://github.com/erigontech/erigon/pull/21549#pullrequestreview-4457507875) - 2026-06-09
+* [Review] [Review on: fix: PoS dev mode — enable Fusaka (Fulu CL + Osaka EL) block production](https://github.com/erigontech/erigon/pull/21646#pullrequestreview-4457587248) - 2026-06-09
+* [Review] [Review on: rpc/jsonrpc: fix base fee too low error code ](https://github.com/erigontech/erigon/pull/21418#pullrequestreview-4456906625) - 2026-06-09
+* [Issue] [Caplin GLOAS fork choice: maintain per-node weights via delta propagation instead of a per-attestation vote index](https://github.com/erigontech/erigon/issues/21704) - 2026-06-09
+* [Commit] [docs/site, tracetest: fix Dependabot npm alerts (uuid, ws) (#21691)](https://github.com/erigontech/erigon/commit/98508bf433490c4785b0b955df93166d3375f939) - 2026-06-09
+* [Commit] [db/downloader: lock torrentsByName read in allActiveSnapshots (#21696)](https://github.com/erigontech/erigon/commit/1cd6ab97fd563461182e8dcfe9ae9aa25bffd765) - 2026-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

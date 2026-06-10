@@ -279,6 +279,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: ci: move SonarCloud branch scans out of the merge queue, serialize per branch](https://github.com/erigontech/erigon/pull/21669#pullrequestreview-4446763123) - 2026-06-08
 * [Commit] [execution/p2p: rewrite the eth/71 BAL fetcher due to correctness issues (#21679)](https://github.com/erigontech/erigon/commit/c2269cc0fd2a074b83f5c0c9031313994b784a52) - 2026-06-09
 * [Commit] [ci: move SonarCloud branch scans out of the merge queue, serialize per branch (#21669)](https://github.com/erigontech/erigon/commit/32e1afe71388b59e42170d6428df73f1df39404e) - 2026-06-08
+* [Pull Request] [ci: warm kurtosis GLOAS image cache via dedicated paths + scheduled workflow](https://github.com/erigontech/erigon/pull/21703) - 2026-06-09
+* [Pull Request] [ci: warm kurtosis third-party image cache on default branch for merge-queue runs](https://github.com/erigontech/erigon/pull/21695) - 2026-06-09
+* [Pull Request] [execution/p2p: log peer penalization on bad BAL response](https://github.com/erigontech/erigon/pull/21702) - 2026-06-09
+* [Pull Request] [ci: retry kurtosis erigon image build on transient registry/cache failures](https://github.com/erigontech/erigon/pull/21693) - 2026-06-09
+* [Commit] [execution/p2p: log peer penalization on bad BAL response (#21702)](https://github.com/erigontech/erigon/commit/f87ee800adca45f2f8bae87c6987f533741872f0) - 2026-06-09
+* [Commit] [ci: retry kurtosis erigon image build on transient registry/cache failures (#21693)](https://github.com/erigontech/erigon/commit/bee49cb072efa5f960f0c6ef785cb6a4f67d64dd) - 2026-06-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

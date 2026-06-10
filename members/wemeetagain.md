@@ -151,6 +151,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: remove old deposit mechanism in fulu](https://github.com/ChainSafe/lodestar/pull/9459#pullrequestreview-4425926432) - 2026-06-04
 * [Commit] [chore: remove unused dependencies (#9462)](https://github.com/ChainSafe/lodestar/commit/1557420d0a250cff776227c1f216db95e0b3dea7) - 2026-06-04
 * [Review] [Review on: refactor: payload envelope input -- pruneBelowParent](https://github.com/ChainSafe/lodestar/pull/9326#pullrequestreview-4441981298) - 2026-06-06
+* [Pull Request] [chore: update gossipsub to v16.0.2](https://github.com/ChainSafe/lodestar/pull/9487) - 2026-06-09
+* [Review] [Review on: fix: ensure block in forkchoice before validate by_root payload](https://github.com/ChainSafe/lodestar/pull/9479#pullrequestreview-4456583485) - 2026-06-09
+* [Review] [Review on: fix: remove TOO_MANY_SKIPPED_SLOTS block error](https://github.com/ChainSafe/lodestar/pull/9484#pullrequestreview-4456542443) - 2026-06-09
+* [Review] [Review on: chore: track payload timing on dashboard](https://github.com/ChainSafe/lodestar/pull/9482#pullrequestreview-4456215544) - 2026-06-09
+* [Commit] [chore: update gossipsub to v16.0.2 (#9487)](https://github.com/ChainSafe/lodestar/commit/8d5a6a4fc1d2c362902db875758df19c7970cf93) - 2026-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

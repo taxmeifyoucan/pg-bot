@@ -129,6 +129,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: update block gossip validation when exeution paylaod is delayed](https://github.com/Consensys/teku/pull/10794#pullrequestreview-4438891695) - 2026-06-05
 * [Review] [Review on: Enable gossip attestation and aggregate ref-test](https://github.com/Consensys/teku/pull/10770#pullrequestreview-4438796360) - 2026-06-05
 * [Review] [Review on: Avoid dropping sidecars tracker on block import in Gloas](https://github.com/Consensys/teku/pull/10788#pullrequestreview-4436458183) - 2026-06-05
+* [Review] [Review on: Preserve data column KZG validation details](https://github.com/Consensys/teku/pull/10811#pullrequestreview-4458223786) - 2026-06-09
+* [Review] [Review on: Enable gossip blob sidecar ref-test](https://github.com/Consensys/teku/pull/10780#pullrequestreview-4457504012) - 2026-06-09
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

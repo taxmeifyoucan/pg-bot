@@ -344,6 +344,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add fork choice test for split LMD votes across payload variants](https://github.com/ethereum/consensus-specs/pull/5345#pullrequestreview-4451085926) - 2026-06-08
 * [Review] [Review on: Align the Gloas fork-choice structure with Phase0](https://github.com/ethereum/consensus-specs/pull/5344#pullrequestreview-4451031958) - 2026-06-08
 * [Commit] [Use latest version of uv in workflows (#5347)](https://github.com/ethereum/consensus-specs/commit/1f41e6bc55697c9b12b44f443fb53dc33a0b75a2) - 2026-06-08
+* [Review] [Review on: Add test for `on_execution_payload_envelope`](https://github.com/ethereum/consensus-specs/pull/5353#pullrequestreview-4463272016) - 2026-06-09
+* [Pull Request] [Add new `run_validate_gossip` helper function](https://github.com/ethereum/consensus-specs/pull/5354) - 2026-06-09
+* [Review] [Review on: Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352#pullrequestreview-4459011703) - 2026-06-09
+* [Review] [Review on: Modify `get_proposer_head` for Gloas](https://github.com/ethereum/consensus-specs/pull/5348#pullrequestreview-4459709067) - 2026-06-09
+* [Review] [Review on: Add Gloas test for `get_attestation_participation_flag_indices`](https://github.com/ethereum/consensus-specs/pull/5341#pullrequestreview-4460036716) - 2026-06-09
+* [Review] [Review on: Add test helpers for execution payload bid](https://github.com/ethereum/consensus-specs/pull/5339#pullrequestreview-4459689075) - 2026-06-09
+* [Review] [Review on: Add tests for `get_payload_status_tiebreaker`](https://github.com/ethereum/consensus-specs/pull/5350#pullrequestreview-4459667479) - 2026-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

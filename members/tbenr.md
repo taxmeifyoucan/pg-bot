@@ -149,6 +149,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: defer Gloas full payload attestations until execution payload is available](https://github.com/Consensys/teku/pull/10772#pullrequestreview-4448050255) - 2026-06-08
 * [Review] [Review on: update block gossip validation when execution payload is delayed](https://github.com/Consensys/teku/pull/10794#pullrequestreview-4448945576) - 2026-06-08
 * [Commit] [visually align event and change color (#10799)](https://github.com/Consensys/teku/commit/32eb6477a0379de3c97d3732484d8b62cd553995) - 2026-06-08
+* [Review] [Review on: add Gloas full payload attestation gossip validation](https://github.com/Consensys/teku/pull/10804#pullrequestreview-4459801619) - 2026-06-09
+* [Pull Request] [Preserve data column KZG validation details](https://github.com/Consensys/teku/pull/10811) - 2026-06-09
+* [Pull Request] [reference test shard sort and fix config loading](https://github.com/Consensys/teku/pull/10810) - 2026-06-09
+* [Issue] [wrong execution payload cache](https://github.com/Consensys/teku/issues/10813) - 2026-06-09
+* [Commit] [Preserve data column KZG validation details (#10811)](https://github.com/Consensys/teku/commit/7fd6193fa12965def1a9fc64f13c345e17aca203) - 2026-06-09
+* [Commit] [sort ref test classes to avoid duplication (#10810)](https://github.com/Consensys/teku/commit/10110d980038ffd74190d1d49b2b5b9cc6bb7a7e) - 2026-06-09
+* [Commit] [Fix Gloas empty parent payload withdrawals (#10803)](https://github.com/Consensys/teku/commit/c0652aa6ce23c35b8ab60d7ea8cfa17677bef925) - 2026-06-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

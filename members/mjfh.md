@@ -42,6 +42,8 @@ Team: Nimbus
 * [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4309) - 2026-06-05
 * [Commit] [Snap sync maint update (#4309)](https://github.com/status-im/nimbus-eth1/commit/6bd911ddbc66db6dea057f09591741e3d70fe629) - 2026-06-05
 * [Commit] [Snap sync update mpt analysis for healing (#4303)](https://github.com/status-im/nimbus-eth1/commit/dcbf2acf4eb5f4762192a02b6ec316e2d0d0c1b2) - 2026-06-05
+* [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4317) - 2026-06-09
+* [Commit] [Snap sync maint update (#4317)](https://github.com/status-im/nimbus-eth1/commit/061b735dc19def35ee8fdf67f61423601271dc44) - 2026-06-09
 ## Q1 2026
 
 

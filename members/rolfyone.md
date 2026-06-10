@@ -115,6 +115,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [devnet-5 exception to investigate](https://github.com/Consensys/teku/issues/10796) - 2026-06-05
 * [Pull Request] [getForkchoiceV2](https://github.com/Consensys/teku/pull/10800) - 2026-06-08
 * [Review] [Review on: Fix Gloas empty parent payload withdrawals - block production](https://github.com/Consensys/teku/pull/10803#pullrequestreview-4453685648) - 2026-06-08
+* [Review] [Review on: Data column pruner optimizations](https://github.com/Consensys/teku/pull/10807#pullrequestreview-4463902449) - 2026-06-10
+* [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys/teku/pull/10812#pullrequestreview-4463193941) - 2026-06-09
+* [Pull Request] [Avoid recursive data column sidecar range sends](https://github.com/Consensys/teku/pull/10808) - 2026-06-09
+* [Pull Request] [Added compatibility for 26.4 rocksdb](https://github.com/Consensys/teku/pull/10806) - 2026-06-09
+* [Issue] [develop breaks db compatibility with released version](https://github.com/Consensys/teku/issues/10809) - 2026-06-09
+* [Commit] [Avoid recursive data column sidecar range sends (#10808)](https://github.com/Consensys/teku/commit/6a098e5e378cc33eb74d32dd13b802455e8f14b1) - 2026-06-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

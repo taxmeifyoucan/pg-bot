@@ -210,6 +210,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #720 from ethpandaops/dependabot/npm_and_yarn/ui-package/ui-package-dependencies-e39fe14744](https://github.com/ethpandaops/dora/commit/3ba7416ef8665c341d8d039063609554d33ddb5b) - 2026-06-05
 * [Commit] [Merge branch 'master' into dependabot/npm_and_yarn/ui-package/ui-package-dependencies-e39fe14744](https://github.com/ethpandaops/dora/commit/c3141707a4b4e8a9989a2c86612a929bbc763656) - 2026-06-05
 * [Commit] [Merge pull request #723 from ethpandaops/pk910/various-fixes](https://github.com/ethpandaops/dora/commit/ee39f044dde75d9f85d26803f24af7dbe1aa4a9a) - 2026-06-05
+* [Review] [Review on: improve debug page performance by showing db size estimates](https://github.com/ethpandaops/dora/pull/732#pullrequestreview-4459991452) - 2026-06-09
+* [Review] [Review on: fix loading blocks from blockdb](https://github.com/ethpandaops/dora/pull/736#pullrequestreview-4458834327) - 2026-06-09
+* [Review] [Review on: fix loading blocks from blockdb](https://github.com/ethpandaops/dora/pull/735#pullrequestreview-4458607657) - 2026-06-09
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -355,6 +358,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [feat(engine/ssz): add target_gas_limit to PayloadAttributesV4 wire](https://github.com/NethermindEth/nethermind/pull/11647) - 2026-05-18
 * [Pull Request] [feat(engine/ssz): add target_gas_limit to PayloadAttributesV4 wire](https://github.com/NethermindEth/nethermind/pull/11646) - 2026-05-18
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [simulators/cl: consensus-spec-tests runner for CL clients](https://github.com/ethereum/hive/pull/1537) - 2026-06-09
 ## Q1 2026
 
 

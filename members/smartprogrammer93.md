@@ -103,6 +103,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(state): drop LINQ overhead in UpdateRootHashesMultiThread setup](https://github.com/NethermindEth/nethermind/pull/11929#pullrequestreview-4448308861) - 2026-06-08
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11923#pullrequestreview-4448828979) - 2026-06-08
 * [Commit] [fix(cache): preserve future-epoch entries during concurrent Clear() (#11919)](https://github.com/NethermindEth/nethermind/commit/366067da33eef667ca164980984429ddb87246cd) - 2026-06-08
+* [Review] [Review on: chore: Update packages](https://github.com/NethermindEth/nethermind/pull/11951#pullrequestreview-4463478267) - 2026-06-10
+* [Review] [Review on: perf(bn254): skip redundant infinity re-scan in pairing loop](https://github.com/NethermindEth/nethermind/pull/11888#pullrequestreview-4458027657) - 2026-06-09
+* [Review] [Review on: simulate: treat gas cap zero as uncapped budget](https://github.com/NethermindEth/nethermind/pull/11841#pullrequestreview-4458182166) - 2026-06-09
+* [Review] [Review on: feat: Reset Masaya zk gas schedule, tidy zk gas surface](https://github.com/NethermindEth/nethermind/pull/11940#pullrequestreview-4457441488) - 2026-06-09
+* [Review] [Review on: perf(evm): avoid per-CREATE RlpStream allocation in contract-address derivation](https://github.com/NethermindEth/nethermind/pull/11892#pullrequestreview-4458062175) - 2026-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 

@@ -20,6 +20,7 @@ Github: [@weiihann](https://github.com/weiihann)
 
 * [Pull Request] [Update EIP-8081: add EIP-8188](https://github.com/ethereum/EIPs/pull/11722) - 2026-05-21
 * [Commit] [Update EIP-8081: add EIP-8188](https://github.com/ethereum/EIPs/commit/be9148dd97582cc51bd43caf362830f2872fc21f) - 2026-05-22
+* [Pull Request] [Update EIP-8188: Last-Written Block for Accounts and Slots](https://github.com/ethereum/EIPs/pull/11784) - 2026-06-09
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Pull Request] [feat: add state size delta and trie depth](https://github.com/ethpandaops/xatu/pull/722) - 2026-05-20
 * [Commit] [feat: add state size delta and trie depth (#722)](https://github.com/ethpandaops/xatu/commit/809276545970784b194574a07ea866991dac3274) - 2026-05-20

@@ -24,6 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 * [Pull Request] [WIP: debug execution witness](https://github.com/besu-eth/besu/pull/10571) - 2026-05-29
 * [Review] [Review on: nightly kurtosis interop assertoor test](https://github.com/besu-eth/besu/pull/10569#pullrequestreview-4398246248) - 2026-06-01
+* [Review] [Review on: Fix isSyncing() during full sync on post-merge networks](https://github.com/besu-eth/besu/pull/10613#pullrequestreview-4455928225) - 2026-06-09
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on:  Add HIVE_DISCV5 flag for besu](https://github.com/ethereum/hive/pull/1447#pullrequestreview-4171959953) - 2026-04-24
 ## Q1 2026

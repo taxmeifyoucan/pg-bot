@@ -243,6 +243,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Reject block with an out-of-range proposer index (#16917)](https://github.com/OffchainLabs/prysm/commit/bfd521f2cb30f576197d9a5e4e6bc3654252836d) - 2026-06-08
 * [Commit] [Fix attribute to `current_slot+1` after payload envelope processing (#16910)](https://github.com/OffchainLabs/prysm/commit/06de72a7c46c541d97a84bcb5f4822945f176866) - 2026-06-08
 * [Commit] [Add debug log when ignoring payload envelope not for current slot (#16905)](https://github.com/OffchainLabs/prysm/commit/7516ac3e9c83ac9dd743491d9049e1feecb33ab3) - 2026-06-08
+* [Review] [Review on: Add `head_v2` event](https://github.com/OffchainLabs/prysm/pull/16930#pullrequestreview-4464074703) - 2026-06-10
+* [Pull Request] [Hook up payload attestation message in fork choice spec tests](https://github.com/OffchainLabs/prysm/pull/16934) - 2026-06-09
+* [Review] [Review on: Payload reorg](https://github.com/OffchainLabs/prysm/pull/16933#pullrequestreview-4461238571) - 2026-06-09
+* [Pull Request] [Bound peer-reported head slot in peer-status scoring](https://github.com/OffchainLabs/prysm/pull/16915) - 2026-06-09
+* [Commit] [Request parent payload envelopes in parallel with parent blocks (#16908)](https://github.com/OffchainLabs/prysm/commit/335618f8c052ef979805308872568d1927ab5acb) - 2026-06-09
+* [Commit] [Bound peer-reported head slot in peer-status scoring (#16915)](https://github.com/OffchainLabs/prysm/commit/bfafb7ade66b6104cd7c28cd12575b006f20f461) - 2026-06-09
+* [Commit] [Submit payload attestation on `execution_payload_available` event (#16906)](https://github.com/OffchainLabs/prysm/commit/a2993b5cbee0792805a479713fd8200d6ff8da22) - 2026-06-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

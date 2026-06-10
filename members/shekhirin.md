@@ -149,6 +149,8 @@ Team: Reth
 * [Review] [Review on: feat(payload): cache parent block info for payload jobs](https://github.com/paradigmxyz/reth/pull/24671#pullrequestreview-4450750217) - 2026-06-08
 * [Review] [Review on: fix: avoid clearing rocksdb unnecesarily](https://github.com/paradigmxyz/reth/pull/24903#pullrequestreview-4451691441) - 2026-06-08
 * [Review] [Review on: ci: add metrics option to Derek bench workflow](https://github.com/paradigmxyz/reth/pull/24990#pullrequestreview-4447941710) - 2026-06-08
+* [Review] [Review on: fix(chain-state): publish deferred trie data from task](https://github.com/paradigmxyz/reth/pull/24995#pullrequestreview-4456793178) - 2026-06-09
+* [Commit] [fix(cli): target `reth download --force` cleanup (#25015)](https://github.com/paradigmxyz/reth/commit/949834ad1cdc658dd85631857bb3b5ca16f12a82) - 2026-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

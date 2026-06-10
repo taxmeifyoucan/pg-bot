@@ -121,6 +121,10 @@ Team: Erigon
 * [Review] [Review on: genesis: allow tests pass GenesisConfig to `eth.New()` - avoid double read of large genesis](https://github.com/erigontech/erigon/pull/21470#pullrequestreview-4433906386) - 2026-06-05
 * [Review] [Review on: genesis: allow tests pass GenesisConfig to `eth.New()` - avoid double read of large genesis](https://github.com/erigontech/erigon/pull/21470#pullrequestreview-4445218100) - 2026-06-07
 * [Review] [Review on: genesis: allow tests pass GenesisConfig to `eth.New()` - avoid double read of large genesis](https://github.com/erigontech/erigon/pull/21470#pullrequestreview-4450242881) - 2026-06-08
+* [Review] [Review on: genesis: allow tests pass GenesisConfig to `eth.New()` - avoid double read of large genesis](https://github.com/erigontech/erigon/pull/21470#pullrequestreview-4462792965) - 2026-06-09
+* [Review] [Review on: docs/site, tracetest: fix Dependabot npm alerts (uuid, ws)](https://github.com/erigontech/erigon/pull/21691#pullrequestreview-4457559439) - 2026-06-09
+* [Review] [Review on: [r3.5] db/downloader: lock torrentsByName read in allActiveSnapshots](https://github.com/erigontech/erigon/pull/21700#pullrequestreview-4459393184) - 2026-06-09
+* [Review] [Review on: execution: share prune timeout budget](https://github.com/erigontech/erigon/pull/20860#pullrequestreview-4459394545) - 2026-06-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

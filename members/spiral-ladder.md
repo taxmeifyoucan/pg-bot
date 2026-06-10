@@ -144,6 +144,11 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [refactor: allocate `AsyncAggRandData` in one obj (#384)](https://github.com/ChainSafe/lodestar-z/commit/459750fecfa8288519371080b57fd664d1fad57d) - 2026-06-06
 * [Commit] [fix(blst): default signature infinity check to true if not provided (#387)](https://github.com/ChainSafe/lodestar-z/commit/021cdcb4a37d7c45a0be86d3ba19cad7be600501) - 2026-06-06
 * [Commit] [fix: better generation of rand scalar (#388)](https://github.com/ChainSafe/lodestar-z/commit/74dce77656a74745601c964eeb493e0a8b2a67e1) - 2026-06-06
+* [Pull Request] [feat(bindings): aggregate cached public keys by validator index](https://github.com/ChainSafe/lodestar-z/pull/397) - 2026-06-09
+* [Pull Request] [refactor(bls): allocations around VMAS](https://github.com/ChainSafe/lodestar-z/pull/395) - 2026-06-09
+* [Pull Request] [feat(bls): add small MSM for npoints < 32](https://github.com/ChainSafe/lodestar-z/pull/393) - 2026-06-09
+* [Pull Request] [fix: node init pool](https://github.com/ChainSafe/lodestar-z/pull/396) - 2026-06-09
+* [Review] [Review on: fix(state-transition): repair Pool.init call broken by #346×#367 merge skew](https://github.com/ChainSafe/lodestar-z/pull/394#pullrequestreview-4459518174) - 2026-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

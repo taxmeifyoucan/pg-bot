@@ -52,8 +52,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Add new payload listener](https://github.com/besu-eth/besu/pull/10570#pullrequestreview-4406327193) - 2026-06-02
 * [Commit] [Add new payload listener (#10570)](https://github.com/besu-eth/besu/commit/7cef1d89f2770bb493b582de0b96e7babead9e52) - 2026-06-03
 * [Pull Request] [Fix chain height](https://github.com/besu-eth/besu/pull/10608) - 2026-06-08
+* [Review] [Review on: Fix chain height](https://github.com/besu-eth/besu/pull/10608#pullrequestreview-4463889700) - 2026-06-10
+* [Review] [Review on: perf: eliminate O(N×P) stream allocations and lock contention in EthPeers.reattemptPendingPeerRequests()](https://github.com/besu-eth/besu/pull/10578#pullrequestreview-4454985908) - 2026-06-09
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [snap: GetTrieNodes accepts invalid compact-encoded paths instead of rejecting them](https://github.com/ethereum/go-ethereum/issues/34853) - 2026-04-30
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Issue] [devp2p snap-test suite "very long trie node path" wrong behaviour](https://github.com/ethereum/hive/issues/1534) - 2026-06-09
 ## Q1 2026
 
 

@@ -259,6 +259,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [perf: make LayeredKeyValueStorage.isClosed() O(1) to fix CPU hotspot under deep layer chains](https://github.com/besu-eth/besu/pull/10603) - 2026-06-08
 * [Commit] [Fix/eth capabilities oldest block when state is enabled (#10597)](https://github.com/besu-eth/besu/commit/d4afab1a9fa9d3452a955ea045c9fc52fba019a7) - 2026-06-08
 * [Review] [Review on: Agentic PR guidance for Contributors](https://github.com/besu-eth/besu/pull/10414#pullrequestreview-4446457305) - 2026-06-08
+* [Pull Request] [Demote closed channel exception log level](https://github.com/besu-eth/besu/pull/10616) - 2026-06-09
+* [Review] [Review on: Demote closed channel exception log level](https://github.com/besu-eth/besu/pull/10616#pullrequestreview-4463754094) - 2026-06-10
+* [Review] [Review on: Update discovery v5 library to 26.6.0](https://github.com/besu-eth/besu/pull/10612#pullrequestreview-4455290708) - 2026-06-09
+* [Pull Request] [Fix isSyncing() during full sync on post-merge networks](https://github.com/besu-eth/besu/pull/10613) - 2026-06-09
+* [Review] [Review on: Update the BFT soak test to include upgrading to `Osaka`](https://github.com/besu-eth/besu/pull/10607#pullrequestreview-4455295555) - 2026-06-09
+* [Review] [Review on: fix(runner): initialize missing optional configurations in RunnerBuilder to prevent NPEs](https://github.com/besu-eth/besu/pull/10454#pullrequestreview-4455280463) - 2026-06-09
+* [Review] [Review on: fix(controller): fall back to PoS when no consensus mechanism declared in genesis](https://github.com/besu-eth/besu/pull/10266#pullrequestreview-4455398685) - 2026-06-09
+* [Review] [Review on: Add Bonsai debug modified accounts RPC methods](https://github.com/besu-eth/besu/pull/10487#pullrequestreview-4455383927) - 2026-06-09
+* [Issue] [Stream engine_getBlobsV2 response to avoid ClosedChannelException on slow writes](https://github.com/besu-eth/besu/issues/10615) - 2026-06-09
+* [Commit] [Demote closed channel exception log level (#10616)](https://github.com/besu-eth/besu/commit/65b5e0aeee832e1aa8d0c79160b80cd1b3f3619a) - 2026-06-10
+* [Commit] [Fix isSyncing() during full sync on post-merge networks (#10613)](https://github.com/besu-eth/besu/commit/47c5626b5b4336d23e16e18158cabec631b28c30) - 2026-06-09
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

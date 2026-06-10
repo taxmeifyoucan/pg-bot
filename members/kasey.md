@@ -25,6 +25,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Review] [Review on: Update `go-libp2p` to `v0.44.0` and `go-libp2p-mplex` to `v0.11.0`.](https://github.com/OffchainLabs/prysm/pull/16804#pullrequestreview-4339947767) - 2026-05-21
 * [Issue] [Support engine_getBlobsV4 (EIP-8070: eth/72 - Sparse Blobpool support)](https://github.com/OffchainLabs/prysm/issues/16888) - 2026-06-03
 * [Issue] [Populate custodyColumns in engine_forkChoiceUpdatedV4 (EIP-8070: eth/72 - Sparse Blobpool  support)](https://github.com/OffchainLabs/prysm/issues/16889) - 2026-06-03
+* [Review] [Review on: builders progressive](https://github.com/OffchainLabs/prysm/pull/16896#pullrequestreview-4460122302) - 2026-06-09
+* [Review] [Review on: builder pending withdrawals progressive ssz](https://github.com/OffchainLabs/prysm/pull/16887#pullrequestreview-4460015741) - 2026-06-09
+* [Review] [Review on: progressive withdrawal root and light client changes](https://github.com/OffchainLabs/prysm/pull/16885#pullrequestreview-4459778355) - 2026-06-09
+* [Review] [Review on: add ssz functions for progressive merkliezation](https://github.com/OffchainLabs/prysm/pull/16847#pullrequestreview-4459485004) - 2026-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486) - 2026-04-09
 ## Q1 2026

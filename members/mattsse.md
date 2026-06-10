@@ -575,6 +575,18 @@ Team: Reth
 * [Pull Request] [ci: ignore proc-macro-error2 advisory](https://github.com/paradigmxyz/reth/pull/24994) - 2026-06-08
 * [Commit] [feat(payload): cache parent block info for payload jobs (#24671)](https://github.com/paradigmxyz/reth/commit/c6379a923915055f25f9eec3452acb490b71c5b4) - 2026-06-08
 * [Commit] [ci: ignore proc-macro-error2 advisory (#24994)](https://github.com/paradigmxyz/reth/commit/f93b41249a05a27527cc2ce2da9259d49fe90e91) - 2026-06-08
+* [Pull Request] [feat(revm): add CachedReads account capacity constructor](https://github.com/paradigmxyz/reth/pull/25048) - 2026-06-09
+* [Pull Request] [chore(deps): bump revm-inspectors to 0.40.1](https://github.com/paradigmxyz/reth/pull/25047) - 2026-06-09
+* [Pull Request] [fix(rlpx): bound mux outbound buffer fairly](https://github.com/paradigmxyz/reth/pull/25031) - 2026-06-09
+* [Pull Request] [perf(transaction-pool): specialize same-origin batch insertion](https://github.com/paradigmxyz/reth/pull/25037) - 2026-06-09
+* [Review] [Review on: feat(net): add outbound peer rotation to prevent slot saturation](https://github.com/paradigmxyz/reth/pull/24776#pullrequestreview-4457843325) - 2026-06-09
+* [Review] [Review on: fix(chain-state): avoid state overlay cache deadlock](https://github.com/paradigmxyz/reth/pull/24875#pullrequestreview-4456139377) - 2026-06-09
+* [Review] [Review on: fix(chain-state): publish deferred trie data from task](https://github.com/paradigmxyz/reth/pull/24995#pullrequestreview-4456163296) - 2026-06-09
+* [Review] [Review on: fix(rpc): avoid warming moved precompiles](https://github.com/paradigmxyz/reth/pull/24755#pullrequestreview-4456875690) - 2026-06-09
+* [Commit] [feat(revm): add CachedReads account capacity constructor (#25048)](https://github.com/paradigmxyz/reth/commit/9f2837e1794baf7492b16d115f6c0ee7c6103d89) - 2026-06-09
+* [Commit] [chore(deps): bump revm-inspectors to 0.40.1 (#25047)](https://github.com/paradigmxyz/reth/commit/8919e677f6bc180dcd887a901e500265a6613bba) - 2026-06-09
+* [Commit] [fix(rlpx): bound mux outbound buffer fairly (#25031)](https://github.com/paradigmxyz/reth/commit/01cbe9bdada95a3267a6b75bd54b27b6452ab97a) - 2026-06-09
+* [Commit] [perf(transaction-pool): specialize same-origin batch insertion (#25037)](https://github.com/paradigmxyz/reth/commit/e5fd7621b80f7452a8b2ca5d6e6afa969ab82bdd) - 2026-06-09
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -598,6 +610,9 @@ Team: Reth
 * [Commit] [feat(database): add conditional bundle update builder (#3729)](https://github.com/bluealloy/revm/commit/392ddb77ad8db642f1a283207b2e6e569270aa88) - 2026-05-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Review] [Review on: clients/reth: add `rpc.compute-state-root-for-eth-simulate` flag for reth](https://github.com/ethereum/hive/pull/1538#pullrequestreview-4458136381) - 2026-06-09
 ## Q1 2026
 
 

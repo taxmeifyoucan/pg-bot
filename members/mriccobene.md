@@ -68,6 +68,7 @@ Team: Erigon
 * [Review] [Review on: integration-test: fix algo json compare](https://github.com/erigontech/rpc-tests/pull/570#pullrequestreview-4428228179) - 2026-06-04
 * [Review] [Review on: integration-test: omit memory attribute on debug api if empty](https://github.com/erigontech/rpc-tests/pull/572#pullrequestreview-4447622274) - 2026-06-08
 * [Review] [Review on: integration_test: save Reth (commmit 87fc4cf4355ddbc59220f691a46d9f9d354adfa0 ) response with hive chain](https://github.com/erigontech/rpc-tests/pull/571#pullrequestreview-4447621035) - 2026-06-08
+* [Review] [Review on: integration_test: add trace_block & trace_replayTransaction post shanghai](https://github.com/erigontech/rpc-tests/pull/573#pullrequestreview-4455626812) - 2026-06-09
 ## Q1 2026
 
 

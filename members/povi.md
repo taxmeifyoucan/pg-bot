@@ -60,6 +60,8 @@ Team: Grandine
 * [Review] [Review on: Add payload present timely store](https://github.com/grandinetech/grandine/pull/718#pullrequestreview-4434085982) - 2026-06-05
 * [Issue] [[Glamsterdam] Pluralize gloas execution payload endpoint paths](https://github.com/grandinetech/grandine/issues/732) - 2026-06-05
 * [Issue] [[Glamsterdam][Bug] Invalid withdrawals slot](https://github.com/grandinetech/grandine/issues/731) - 2026-06-05
+* [Review] [Review on: Reintroduce networking spec tests](https://github.com/grandinetech/grandine/pull/719#pullrequestreview-4458764319) - 2026-06-09
+* [Review] [Review on: Skip producing block with local payload unavailable](https://github.com/grandinetech/grandine/pull/744#pullrequestreview-4458623243) - 2026-06-09
 ## Q1 2026
 
 

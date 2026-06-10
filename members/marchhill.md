@@ -80,6 +80,14 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [perf(bal): build BAL validation index on the sequential execution path (#11873)](https://github.com/NethermindEth/nethermind/commit/1bb7582ddcdb03d1a57ead64e14ebdd0dd1893b7) - 2026-06-02
 * [Review] [Review on: perf(bal): reduce per-access BAL/state recording overhead on warm reads](https://github.com/NethermindEth/nethermind/pull/11905#pullrequestreview-4420013329) - 2026-06-03
 * [Review] [Review on: Optimize BN254 multi-pair pairing checks](https://github.com/NethermindEth/nethermind/pull/11916#pullrequestreview-4449304760) - 2026-06-08
+* [Pull Request] [EIP-2780 reduce intrinsic transaction gas](https://github.com/NethermindEth/nethermind/pull/11948) - 2026-06-09
+* [Pull Request] [EIP-8246 (Remove SELFDESTRUCT Burn)](https://github.com/NethermindEth/nethermind/pull/11949) - 2026-06-09
+* [Review] [Review on: perf(crypto): reuse the RIPEMD-160 digest per thread](https://github.com/NethermindEth/nethermind/pull/11890#pullrequestreview-4457517467) - 2026-06-09
+* [Review] [Review on: perf(bn254): skip redundant infinity re-scan in pairing loop](https://github.com/NethermindEth/nethermind/pull/11888#pullrequestreview-4457380682) - 2026-06-09
+* [Review] [Review on: perf(bls): reduce allocations and wasted clears in G2MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11891#pullrequestreview-4457562452) - 2026-06-09
+* [Review] [Review on: perf(bls): reduce allocations and wasted clears in G1MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11889#pullrequestreview-4457483246) - 2026-06-09
+* [Review] [Review on: perf(evm): avoid per-CREATE RlpStream allocation in contract-address derivation](https://github.com/NethermindEth/nethermind/pull/11892#pullrequestreview-4457540463) - 2026-06-09
+* [Review] [Review on: fix: block history pruning getting stuck](https://github.com/NethermindEth/nethermind/pull/10123#pullrequestreview-4457624717) - 2026-06-09
 ## Q1 2026
 
 

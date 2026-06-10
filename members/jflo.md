@@ -76,6 +76,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: add eth_getTransactionBySenderAndNonce RPC](https://github.com/besu-eth/besu/pull/10501#pullrequestreview-4390537651) - 2026-05-29
 * [Review] [Review on: RPC Stack Refactor](https://github.com/besu-eth/besu/pull/10157#pullrequestreview-4450954798) - 2026-06-08
 * [Review] [Review on: Enable NullAway static null-safety analysis for ethereum:rlp module](https://github.com/besu-eth/besu/pull/10397#pullrequestreview-4450501509) - 2026-06-08
+* [Review] [Review on: Agentic PR guidance for Contributors](https://github.com/besu-eth/besu/pull/10414#pullrequestreview-4460515144) - 2026-06-09
+* [Issue] [2026-06-09 Contributor Call](https://github.com/besu-eth/besu/issues/10614) - 2026-06-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 * [Issue] [Encrypt The Mempool #4, May 13, 2026](https://github.com/ethereum/pm/issues/2054) - 2026-05-12

@@ -82,6 +82,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(flat): decouple RocksDB write-buffer floor from CompactSize](https://github.com/NethermindEth/nethermind/pull/11936) - 2026-06-08
 * [Review] [Review on: Optimize BN254 multi-pair pairing checks](https://github.com/NethermindEth/nethermind/pull/11916#pullrequestreview-4449410084) - 2026-06-08
 * [Commit] [perf(threading): ManualResetEventSlim for ParallelUnbalancedWork completion signal (#11885)](https://github.com/NethermindEth/nethermind/commit/d7a83c4cf150f4169931f9ad77a05f889a2d8f92) - 2026-06-08
+* [Pull Request] [perf(state): make BAL read warming survive, scale, and stick (~5x on storage-read-heavy blocks)](https://github.com/NethermindEth/nethermind/pull/11954) - 2026-06-10
+* [Review] [Review on: perf(crypto): reuse the RIPEMD-160 digest per thread](https://github.com/NethermindEth/nethermind/pull/11890#pullrequestreview-4459710562) - 2026-06-09
+* [Review] [Review on: perf(bls): reduce allocations and wasted clears in G2MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11891#pullrequestreview-4459853923) - 2026-06-09
+* [Review] [Review on: perf(bls): reduce allocations and wasted clears in G1MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11889#pullrequestreview-4458002335) - 2026-06-09
+* [Commit] [perf(crypto): reuse the RIPEMD-160 digest per thread (#11890)](https://github.com/NethermindEth/nethermind/commit/af136b2e1a959120be459740fc5ed324c5b6a084) - 2026-06-09
+* [Commit] [perf(bn254): skip redundant infinity re-scan in pairing loop (#11888)](https://github.com/NethermindEth/nethermind/commit/24e1b403bfc65a097ebd62b5ca142b87423aba7f) - 2026-06-09
+* [Commit] [perf(bls): reduce allocations and wasted clears in G1MSM point decoding (#11889)](https://github.com/NethermindEth/nethermind/commit/284d570887235ec82a46cafb90fbf118e8d4834e) - 2026-06-09
+* [Commit] [perf(evm): avoid per-CREATE RlpStream allocation in contract-address derivation (#11892)](https://github.com/NethermindEth/nethermind/commit/9705b26c08077b43f7eba8440d14b1b58d5f4559) - 2026-06-09
+* [Commit] [Optimize BN254 multi-pair pairing checks (#11916)](https://github.com/NethermindEth/nethermind/commit/5a794341bcb1b98a523862071a693a7728f6e119) - 2026-06-09
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02
@@ -126,6 +135,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(workflows): plumb dotMemory snapshot timer to diag container](https://github.com/NethermindEth/gas-benchmarks/pull/153) - 2026-05-29
 * [Pull Request] [feat(workflows): add jochemnet support to repricing-nethermind](https://github.com/NethermindEth/gas-benchmarks/pull/152) - 2026-05-29
 * [Commit] [feat(workflows): add jochemnet support to repricing-nethermind (#152)](https://github.com/NethermindEth/gas-benchmarks/commit/156689d5fd9b87590f542abb4957d094f7e7373a) - 2026-05-29
+* [Pull Request] [fix: restore perf-devnet-3 genesis content (stranded LFS pointer)](https://github.com/NethermindEth/gas-benchmarks/pull/154) - 2026-06-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Remove unused bloatnet factory entries from mainnet stubs](https://github.com/ethereum/execution-specs/pull/2670) - 2026-04-13
 * [Commit] [refactor(test-benchmark): remove unused bloatnet factory entries from mainnet stubs (#2670)](https://github.com/ethereum/execution-specs/commit/a830dab6f130151ab9023a473b7543120aa21961) - 2026-04-14

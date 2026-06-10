@@ -633,6 +633,23 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/11923#pullrequestreview-4448804358) - 2026-06-08
 * [Pull Request] [fix: pass DOTNET_HOST_PATH to JsonRpc generator Exec](https://github.com/NethermindEth/nethermind/pull/11930) - 2026-06-08
 * [Commit] [perf(state): drop LINQ overhead in UpdateRootHashesMultiThread setup (#11929)](https://github.com/NethermindEth/nethermind/commit/e6a67b8f3068ee5bdd5e8df203f769648ffdc8f0) - 2026-06-08
+* [Review] [Review on: Unify types with Geth](https://github.com/NethermindEth/nethermind/pull/11937#pullrequestreview-4455673142) - 2026-06-09
+* [Review] [Review on: chore: Update packages](https://github.com/NethermindEth/nethermind/pull/11951#pullrequestreview-4462580122) - 2026-06-09
+* [Pull Request] [test: wrap independent assertions in Assert.EnterMultipleScope](https://github.com/NethermindEth/nethermind/pull/11942) - 2026-06-09
+* [Review] [Review on: Serve health UI and data/events behind a reverse proxy](https://github.com/NethermindEth/nethermind/pull/11946#pullrequestreview-4461697240) - 2026-06-09
+* [Review] [Review on: perf(bn254): skip redundant infinity re-scan in pairing loop](https://github.com/NethermindEth/nethermind/pull/11888#pullrequestreview-4457891269) - 2026-06-09
+* [Review] [Review on: refactor(aura): isolate AuRa concerns inside the AuRa plugin](https://github.com/NethermindEth/nethermind/pull/11938#pullrequestreview-4456579761) - 2026-06-09
+* [Review] [Review on: Add OP Karst fork](https://github.com/NethermindEth/nethermind/pull/11917#pullrequestreview-4459644754) - 2026-06-09
+* [Pull Request] [fix(build): pass DOTNET_HOST_PATH to JsonRpc generator Exec](https://github.com/NethermindEth/nethermind/pull/11944) - 2026-06-09
+* [Review] [Review on: simulate: treat gas cap zero as uncapped budget](https://github.com/NethermindEth/nethermind/pull/11841#pullrequestreview-4458017617) - 2026-06-09
+* [Review] [Review on: test: lock trace_callMany gas cap defaults](https://github.com/NethermindEth/nethermind/pull/11897#pullrequestreview-4456192705) - 2026-06-09
+* [Review] [Review on: test: lock debug_traceCall zero-gas semantics](https://github.com/NethermindEth/nethermind/pull/11900#pullrequestreview-4456313852) - 2026-06-09
+* [Review] [Review on: perf(evm): cache repeated ECRecover/precompile results and fast-path static precompile calls + BAL replay](https://github.com/NethermindEth/nethermind/pull/11918#pullrequestreview-4456300290) - 2026-06-09
+* [Review] [Review on: rpc: zero hashes for absent eth_getProof accounts](https://github.com/NethermindEth/nethermind/pull/11912#pullrequestreview-4456169592) - 2026-06-09
+* [Review] [Review on: perf(bal): optimize verify-only storage-read validation and prefetch](https://github.com/NethermindEth/nethermind/pull/11920#pullrequestreview-4455874904) - 2026-06-09
+* [Review] [Review on: fix: enforce even-length hex validation for JSON converter](https://github.com/NethermindEth/nethermind/pull/11876#pullrequestreview-4456056088) - 2026-06-09
+* [Commit] [fix(build): pass DOTNET_HOST_PATH to JsonRpc generator Exec (#11944)](https://github.com/NethermindEth/nethermind/commit/762ee3440eaaaaa73f6e81383589f0ee37a2721c) - 2026-06-09
+* [Commit] [test: bump timeouts on two flaky timing-bounded tests (#11933)](https://github.com/NethermindEth/nethermind/commit/4ca11df2c6b9945bc4dc3ed8217709051094e893) - 2026-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

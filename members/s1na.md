@@ -82,6 +82,10 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: internal/era: update to latest ere spec](https://github.com/ethereum/go-ethereum/pull/34896#pullrequestreview-4417348262) - 2026-06-03
 * [Commit] [core/txpool: drop reorged v0 blob sidecars (#35099)](https://github.com/ethereum/go-ethereum/commit/eb429a062a404283f826ccf5a7c8ae1f2da6b8e9) - 2026-06-03
 * [Commit] [internal/era: update to latest ere spec (#34896)](https://github.com/ethereum/go-ethereum/commit/80d9ba5d97c100565251eeb5f33ad23adbb80c85) - 2026-06-03
+* [Pull Request] [triedb/pathdb: ordinal access and lookup for pathdb](https://github.com/ethereum/go-ethereum/pull/35131) - 2026-06-09
+* [Review] [Review on: core/rawdb/eradb: disallow noreceipt profile in era store](https://github.com/ethereum/go-ethereum/pull/34978#pullrequestreview-4461782681) - 2026-06-09
+* [Review] [Review on: .: fix all typos, as reported by crates-ci/typos](https://github.com/ethereum/go-ethereum/pull/35008#pullrequestreview-4461726336) - 2026-06-09
+* [Review] [Review on: eth: fix borked test introduced in merging #33347](https://github.com/ethereum/go-ethereum/pull/35130#pullrequestreview-4459961418) - 2026-06-09
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20
@@ -97,6 +101,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: eth: add fillTransaction, drop raw field](https://github.com/ethereum/execution-apis/pull/803#pullrequestreview-4408817641) - 2026-06-02
 * [Review] [Review on: feat: eth_baseFee](https://github.com/ethereum/execution-apis/pull/795#pullrequestreview-4422830873) - 2026-06-03
 * [Review] [Review on: Default Block param to 'latest' on eth_* state methods](https://github.com/ethereum/execution-apis/pull/812#pullrequestreview-4417242805) - 2026-06-03
+* [Pull Request] [error-groups: tx validation, execution and txpool error codes](https://github.com/ethereum/execution-apis/pull/823) - 2026-06-09
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [cmd: add hivequery (hq) command](https://github.com/ethereum/hive/pull/1438) - 2026-04-20
 * [Commit] [cmd/hq: add hivequery (hq) command (#1438)](https://github.com/ethereum/hive/commit/e4209f3c6a50b82e022730f5e49c3b331fc10e8c) - 2026-04-21

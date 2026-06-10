@@ -122,6 +122,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [refactor(test-benchmark): update `test_account_access`, add `keccak256` overhead scenario](https://github.com/ethereum/execution-specs/pull/2947) - 2026-06-02
 * [Review] [Review on: chore: bump ethereum-types and ethereum-rlp](https://github.com/ethereum/execution-specs/pull/2952#pullrequestreview-4425407897) - 2026-06-04
 * [Issue] [Ensure benchmarks measure the intended access patterns](https://github.com/ethereum/execution-specs/issues/2961) - 2026-06-08
+* [Pull Request] [chore(tests): remove duplicate `tstore` tests](https://github.com/ethereum/execution-specs/pull/2966) - 2026-06-09
+* [Review] [Review on: feat(test): add fast gas repricing and gas-map CLI tool](https://github.com/ethereum/execution-specs/pull/2331#pullrequestreview-4456052079) - 2026-06-09
+* [Commit] [chore: remove duplicate tstore bench (#2966)](https://github.com/ethereum/execution-specs/commit/21ecd8f029f736dac51d41caca3f4efe34b4b1a1) - 2026-06-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

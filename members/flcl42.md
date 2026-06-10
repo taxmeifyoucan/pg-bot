@@ -192,6 +192,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: chore(pgo): update PGO profile](https://github.com/NethermindEth/nethermind/pull/11924#pullrequestreview-4444676656) - 2026-06-07
 * [Review] [Review on: test: bump timeouts on two flaky timing-bounded tests](https://github.com/NethermindEth/nethermind/pull/11933#pullrequestreview-4452114187) - 2026-06-08
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11922#pullrequestreview-4448795053) - 2026-06-08
+* [Review] [Review on: test: wrap independent assertions in Assert.EnterMultipleScope](https://github.com/NethermindEth/nethermind/pull/11942#pullrequestreview-4462338668) - 2026-06-09
+* [Pull Request] [Fix BALs network encoding](https://github.com/NethermindEth/nethermind/pull/11950) - 2026-06-09
+* [Review] [Review on: perf(bn254): skip redundant infinity re-scan in pairing loop](https://github.com/NethermindEth/nethermind/pull/11888#pullrequestreview-4456355618) - 2026-06-09
+* [Review] [Review on: perf(bls): reduce allocations and wasted clears in G2MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11891#pullrequestreview-4456603146) - 2026-06-09
+* [Review] [Review on: perf(bls): reduce allocations and wasted clears in G1MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11889#pullrequestreview-4456381214) - 2026-06-09
+* [Review] [Review on: perf(evm): avoid per-CREATE RlpStream allocation in contract-address derivation](https://github.com/NethermindEth/nethermind/pull/11892#pullrequestreview-4457584620) - 2026-06-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

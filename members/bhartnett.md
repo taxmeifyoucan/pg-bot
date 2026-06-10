@@ -76,6 +76,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: Ledger based BAL tracker](https://github.com/status-im/nimbus-eth1/pull/4269#pullrequestreview-4424677065) - 2026-06-04
 * [Commit] [Decouple BAL tracking in EVM from Amsterdam fork (#4302)](https://github.com/status-im/nimbus-eth1/commit/4d7ff1d2dd410376b8780ce398fae3f1103be372) - 2026-06-04
 * [Commit] [Skip empty account check in ledger addBalance post merge (#4298)](https://github.com/status-im/nimbus-eth1/commit/5b5f2675833e9c8ce1ce2e2325f25bbaa3e34676) - 2026-06-04
+* [Review] [Review on: Ledger based BAL tracker](https://github.com/status-im/nimbus-eth1/pull/4269#pullrequestreview-4460395334) - 2026-06-09
 ## Q1 2026
 
 

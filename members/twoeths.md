@@ -203,6 +203,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: ensure PayloadEnvelopeInput in cache whenever we have a block](https://github.com/ChainSafe/lodestar/pull/9476) - 2026-06-08
 * [Issue] [glamsterdam-devnet-5: Error downloading payload due to code=EXECUTION_PAYLOAD_ENVELOPE_ERROR_BLOCK_ROOT_UNKNOWN](https://github.com/ChainSafe/lodestar/issues/9478) - 2026-06-08
 * [Issue] [glamsterdam-devnet-5: Missing PayloadEnvelopeInput for known block](https://github.com/ChainSafe/lodestar/issues/9475) - 2026-06-08
+* [Pull Request] [chore: fix BlockInputSync metrics and logs](https://github.com/ChainSafe/lodestar/pull/9481) - 2026-06-09
+* [Pull Request] [fix: remove TOO_MANY_SKIPPED_SLOTS block error](https://github.com/ChainSafe/lodestar/pull/9484) - 2026-06-09
+* [Pull Request] [chore: track payload timing on dashboard](https://github.com/ChainSafe/lodestar/pull/9482) - 2026-06-09
+* [Review] [Review on: chore: track payload timing on dashboard](https://github.com/ChainSafe/lodestar/pull/9482#pullrequestreview-4455256713) - 2026-06-09
+* [Review] [Review on: chore: remove resolved todo about queuing payload envelopes](https://github.com/ChainSafe/lodestar/pull/9474#pullrequestreview-4455282805) - 2026-06-09
+* [Issue] [glamsterdam-devnet-5: Gossip block validation error code=TOO_MANY_SKIPPED_SLOTS](https://github.com/ChainSafe/lodestar/issues/9483) - 2026-06-09
+* [Commit] [chore: fix BlockInputSync metrics and logs (#9481)](https://github.com/ChainSafe/lodestar/commit/b00d95d096ec85ae3e314ea8721fd806639893af) - 2026-06-09
+* [Commit] [fix: ensure block in forkchoice before validate by_root payload (#9479)](https://github.com/ChainSafe/lodestar/commit/407d8c5b58ae18cac46ad3aed1ec9d73665e7931) - 2026-06-09
+* [Commit] [fix: remove TOO_MANY_SKIPPED_SLOTS block error (#9484)](https://github.com/ChainSafe/lodestar/commit/9666fc891a82bafa3c30b9bb229928501d8702a3) - 2026-06-09
+* [Commit] [chore: track payload timing on dashboard (#9482)](https://github.com/ChainSafe/lodestar/commit/3dd09a845b66bedf193f412066a0bb9ff20ad1cb) - 2026-06-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

@@ -71,6 +71,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-1: Allow links to UTS](https://github.com/ethereum/EIPs/pull/10565#pullrequestreview-4421063297) - 2026-06-03
 * [Review] [Review on: Add EIP: Pre-Ingestion Timestamp Verification](https://github.com/ethereum/EIPs/pull/11437#pullrequestreview-4443926764) - 2026-06-06
 * [Review] [Review on: Add EIP: Block-scoped transient storage opcodes](https://github.com/ethereum/EIPs/pull/11467#pullrequestreview-4443952272) - 2026-06-06
+* [Review] [Review on: Update EIP-7997: Switch to Arachnid factory](https://github.com/ethereum/EIPs/pull/11783#pullrequestreview-4461444688) - 2026-06-09
+* [Review] [Review on: Website: Add 'Final' and 'Living' to draft stage conditions](https://github.com/ethereum/EIPs/pull/11198#pullrequestreview-4460727711) - 2026-06-09
+* [Review] [Review on: Add EIP: Lean Staking](https://github.com/ethereum/EIPs/pull/11500#pullrequestreview-4460387674) - 2026-06-09
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Correctly name devnet-2 genesis and introduce devnet-3 genesis](https://github.com/NethermindEth/gas-benchmarks/pull/139) - 2026-04-22
 

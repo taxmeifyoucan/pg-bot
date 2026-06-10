@@ -269,6 +269,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [gas mismatch in 3.4](https://github.com/erigontech/erigon/issues/21681) - 2026-06-08
 * [Issue] [debug logs flood - failed to download columns from peer](https://github.com/erigontech/erigon/issues/21670) - 2026-06-08
 * [Commit] [cmd/utils/app: fix publishable check failing on empty caplin state tables (#21673)](https://github.com/erigontech/erigon/commit/fab5a6420f9448f621bffb43fe55fa7456037a37) - 2026-06-08
+* [Pull Request] [[r3.5] cmd/utils/app: fix publishable check failing on empty caplin state tables](https://github.com/erigontech/erigon/pull/21683) - 2026-06-09
+* [Issue] [snapshot release: old files are getting expired](https://github.com/erigontech/erigon/issues/21688) - 2026-06-09
+* [Issue] [data: storage file access latencies with different values of btree's M](https://github.com/erigontech/erigon/issues/21692) - 2026-06-09
+* [Commit] [db/snapshotsync: make index building and opening segments safe with other files building events (#21571)](https://github.com/erigontech/erigon/commit/8c0d8bd31183ccf7f72baddfc4b4def26a5a3121) - 2026-06-09
 ## Q1 2026
 
 

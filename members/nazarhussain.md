@@ -57,6 +57,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: emit fast_confirmation SSE event per beacon-APIs](https://github.com/ChainSafe/lodestar/pull/9439#pullrequestreview-4436355633) - 2026-06-05
 * [Pull Request] [feat: fast confirmation rule](https://github.com/ChainSafe/lodestar/pull/8837) - 2026-06-07
 * [Commit] [feat: fast confirmation rule (#8837)](https://github.com/ChainSafe/lodestar/commit/a879adb12461ff968677cec029138499dec58e68) - 2026-06-07
+* [Pull Request] [chore: stabilize fastConfirmation perf bench](https://github.com/ChainSafe/lodestar/pull/9494) - 2026-06-09
+* [Commit] [feat: emit fast_confirmation SSE event per beacon-APIs (#9439)](https://github.com/ChainSafe/lodestar/commit/fb3e80a516c260383cb9fc5826f3a8d1fe5bda92) - 2026-06-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116154021) - 2026-04-15
 
