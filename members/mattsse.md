@@ -587,6 +587,29 @@ Team: Reth
 * [Commit] [chore(deps): bump revm-inspectors to 0.40.1 (#25047)](https://github.com/paradigmxyz/reth/commit/8919e677f6bc180dcd887a901e500265a6613bba) - 2026-06-09
 * [Commit] [fix(rlpx): bound mux outbound buffer fairly (#25031)](https://github.com/paradigmxyz/reth/commit/01cbe9bdada95a3267a6b75bd54b27b6452ab97a) - 2026-06-09
 * [Commit] [perf(transaction-pool): specialize same-origin batch insertion (#25037)](https://github.com/paradigmxyz/reth/commit/e5fd7621b80f7452a8b2ca5d6e6afa969ab82bdd) - 2026-06-09
+* [Pull Request] [perf(net): propagate pending transactions in the same poll iteration](https://github.com/paradigmxyz/reth/pull/25087) - 2026-06-10
+* [Pull Request] [perf(net): avoid rayon dispatch overhead for incoming transaction recovery](https://github.com/paradigmxyz/reth/pull/25085) - 2026-06-10
+* [Review] [Review on: fix(rpc): align eth simulate missing block error code](https://github.com/paradigmxyz/reth/pull/25074#pullrequestreview-4471031545) - 2026-06-10
+* [Pull Request] [perf(net): track transactions_by_peers with a SmallVec](https://github.com/paradigmxyz/reth/pull/25096) - 2026-06-10
+* [Pull Request] [perf(net): mark transactions seen by peer while building broadcast messages](https://github.com/paradigmxyz/reth/pull/25088) - 2026-06-10
+* [Pull Request] [perf(net): remove redundant lookups in tx propagation](https://github.com/paradigmxyz/reth/pull/25097) - 2026-06-10
+* [Pull Request] [perf(net): preallocate transaction broadcast message builders](https://github.com/paradigmxyz/reth/pull/25095) - 2026-06-10
+* [Review] [Review on: fix(rpc): fix nonce related fails in eth_simulate](https://github.com/paradigmxyz/reth/pull/25079#pullrequestreview-4471276338) - 2026-06-10
+* [Pull Request] [fix(net): respect configured full transaction broadcast peer count](https://github.com/paradigmxyz/reth/pull/25086) - 2026-06-10
+* [Review] [Review on: feat(rpc): add testing commit block endpoint](https://github.com/paradigmxyz/reth/pull/25070#pullrequestreview-4467047507) - 2026-06-10
+* [Pull Request] [feat(net): add multi-node tx propagation profiling harness](https://github.com/paradigmxyz/reth/pull/25084) - 2026-06-10
+* [Pull Request] [perf(txpool): select worst senders instead of sorting during eviction](https://github.com/paradigmxyz/reth/pull/25078) - 2026-06-10
+* [Pull Request] [perf(txpool): update pool metrics incrementally](https://github.com/paradigmxyz/reth/pull/25080) - 2026-06-10
+* [Pull Request] [perf(net): track queued response count in ActiveSession](https://github.com/paradigmxyz/reth/pull/25073) - 2026-06-10
+* [Review] [Review on: chore(release): bump version to 2.3.0](https://github.com/paradigmxyz/reth/pull/25071#pullrequestreview-4466528787) - 2026-06-10
+* [Commit] [perf(net): propagate pending transactions in the same poll iteration (#25087)](https://github.com/paradigmxyz/reth/commit/b8ca03ed49a0e09bc3dd3d3f4526999ef1f4e17a) - 2026-06-10
+* [Commit] [perf(net): track transactions_by_peers with a SmallVec (#25096)](https://github.com/paradigmxyz/reth/commit/a59cfec4e14c53eea48e28ca637425075b2680d9) - 2026-06-10
+* [Commit] [perf(net): remove redundant lookups in tx propagation (#25097)](https://github.com/paradigmxyz/reth/commit/36539946257ec2a6f19ba40df20c561886b3ceb8) - 2026-06-10
+* [Commit] [perf(net): preallocate transaction broadcast message builders (#25095)](https://github.com/paradigmxyz/reth/commit/8d161e22b127998b783f2d010403efa3793ab1df) - 2026-06-10
+* [Commit] [fix(net): respect configured full transaction broadcast peer count (#25086)](https://github.com/paradigmxyz/reth/commit/fdcd3ac510373db35b07728dbe165dad3ab7b892) - 2026-06-10
+* [Commit] [perf(txpool): select worst senders instead of sorting during eviction (#25078)](https://github.com/paradigmxyz/reth/commit/7e4cbab07ea48f79c973121605e684caa0c4e6bb) - 2026-06-10
+* [Commit] [perf(txpool): update pool metrics incrementally (#25080)](https://github.com/paradigmxyz/reth/commit/db847f5100ca4c93029c68a1bb24ac8de152b8ee) - 2026-06-10
+* [Commit] [perf(net): track queued response count in ActiveSession (#25073)](https://github.com/paradigmxyz/reth/commit/0f89ac7852ca47b470e6076a67443de52fcd4ef8) - 2026-06-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

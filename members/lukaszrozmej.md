@@ -650,6 +650,18 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: enforce even-length hex validation for JSON converter](https://github.com/NethermindEth/nethermind/pull/11876#pullrequestreview-4456056088) - 2026-06-09
 * [Commit] [fix(build): pass DOTNET_HOST_PATH to JsonRpc generator Exec (#11944)](https://github.com/NethermindEth/nethermind/commit/762ee3440eaaaaa73f6e81383589f0ee37a2721c) - 2026-06-09
 * [Commit] [test: bump timeouts on two flaky timing-bounded tests (#11933)](https://github.com/NethermindEth/nethermind/commit/4ca11df2c6b9945bc4dc3ed8217709051094e893) - 2026-06-09
+* [Review] [Review on: perf(state): make BAL read warming survive, scale, and stick (~5x on storage-read-heavy blocks)](https://github.com/NethermindEth/nethermind/pull/11954#pullrequestreview-4465174465) - 2026-06-10
+* [Review] [Review on: Unify types with Geth](https://github.com/NethermindEth/nethermind/pull/11937#pullrequestreview-4469074671) - 2026-06-10
+* [Review] [Review on: feat(sync): add Sync.StaticSnapPivot for fixed-pivot snap sync from a frozen peer](https://github.com/NethermindEth/nethermind/pull/11943#pullrequestreview-4467014882) - 2026-06-10
+* [Review] [Review on: Tools for RPC testing: generator and monitor](https://github.com/NethermindEth/nethermind/pull/11862#pullrequestreview-4466985311) - 2026-06-10
+* [Review] [Review on: Speed up a bit fixed-length hex decoding](https://github.com/NethermindEth/nethermind/pull/11956#pullrequestreview-4468340714) - 2026-06-10
+* [Review] [Review on: feat(FlatDB): add CompactionOffset config to pin the compaction schedule](https://github.com/NethermindEth/nethermind/pull/11958#pullrequestreview-4469007761) - 2026-06-10
+* [Review] [Review on: Fix BALs network encoding](https://github.com/NethermindEth/nethermind/pull/11950#pullrequestreview-4466937502) - 2026-06-10
+* [Review] [Review on: perf(flat): decouple RocksDB write-buffer floor from CompactSize](https://github.com/NethermindEth/nethermind/pull/11936#pullrequestreview-4467026861) - 2026-06-10
+* [Review] [Review on: Serve health UI and data/events behind a reverse proxy](https://github.com/NethermindEth/nethermind/pull/11946#pullrequestreview-4467028359) - 2026-06-10
+* [Review] [Review on: Increase RLP block withdrawals limit to 64k](https://github.com/NethermindEth/nethermind/pull/11955#pullrequestreview-4466893509) - 2026-06-10
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11953#pullrequestreview-4466954097) - 2026-06-10
+* [Commit] [test: wrap independent assertions in Assert.EnterMultipleScope (#11942)](https://github.com/NethermindEth/nethermind/commit/dd3328e00b040ffcbb9eb740c6d7197693106f41) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

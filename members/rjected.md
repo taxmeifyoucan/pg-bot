@@ -70,6 +70,13 @@ Team: Reth
 * [Pull Request] [fix(engine): add benchmark-only state root skip mode](https://github.com/paradigmxyz/reth/pull/24378) - 2026-05-20
 * [Review] [Review on: feat(revm): add CachedReads account capacity constructor](https://github.com/paradigmxyz/reth/pull/25048#pullrequestreview-4462157369) - 2026-06-09
 * [Review] [Review on: fix(rlpx): bound mux outbound buffer fairly](https://github.com/paradigmxyz/reth/pull/25031#pullrequestreview-4461417986) - 2026-06-09
+* [Review] [Review on: perf(net): track transactions_by_peers with a SmallVec](https://github.com/paradigmxyz/reth/pull/25096#pullrequestreview-4471558335) - 2026-06-10
+* [Review] [Review on: perf(net): remove redundant lookups in tx propagation](https://github.com/paradigmxyz/reth/pull/25097#pullrequestreview-4471551577) - 2026-06-10
+* [Review] [Review on: perf(net): preallocate transaction broadcast message builders](https://github.com/paradigmxyz/reth/pull/25095#pullrequestreview-4471438886) - 2026-06-10
+* [Review] [Review on: fix(net): respect configured full transaction broadcast peer count](https://github.com/paradigmxyz/reth/pull/25086#pullrequestreview-4471110048) - 2026-06-10
+* [Review] [Review on: perf(txpool): select worst senders instead of sorting during eviction](https://github.com/paradigmxyz/reth/pull/25078#pullrequestreview-4468915948) - 2026-06-10
+* [Review] [Review on: perf(txpool): update pool metrics incrementally](https://github.com/paradigmxyz/reth/pull/25080#pullrequestreview-4468082117) - 2026-06-10
+* [Review] [Review on: perf(net): track queued response count in ActiveSession](https://github.com/paradigmxyz/reth/pull/25073#pullrequestreview-4468318117) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
 ## Q1 2026

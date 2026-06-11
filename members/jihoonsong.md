@@ -82,6 +82,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Align the Gloas fork-choice structure with Phase0](https://github.com/ethereum/consensus-specs/pull/5344#pullrequestreview-4451073118) - 2026-06-08
 * [Commit] [Align the Gloas fork-choice structure with Phase0 (#5344)](https://github.com/ethereum/consensus-specs/commit/33111885a39e83510635f0cd78dd07929c9436cc) - 2026-06-08
 * [Review] [Review on: Modify `get_proposer_head` for Gloas](https://github.com/ethereum/consensus-specs/pull/5348#pullrequestreview-4459389526) - 2026-06-09
+* [Review] [Review on: Add annotation prefixes to gossip topic sections](https://github.com/ethereum/consensus-specs/pull/5356#pullrequestreview-4471173039) - 2026-06-10
+* [Review] [Review on: Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352#pullrequestreview-4465924556) - 2026-06-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

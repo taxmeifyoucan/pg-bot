@@ -63,6 +63,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: avoid redundant bytecode copy on the CALL/CALLCODE hot path](https://github.com/besu-eth/besu/pull/10573#pullrequestreview-4436898617) - 2026-06-05
 * [Review] [Review on: Optmize memory usage of the bal parallel execution ](https://github.com/besu-eth/besu/pull/10606#pullrequestreview-4447483943) - 2026-06-08
 * [Review] [Review on: Optmize memory usage of the bal parallel execution ](https://github.com/besu-eth/besu/pull/10606#pullrequestreview-4460672641) - 2026-06-09
+* [Review] [Review on: Optmize memory usage of the bal parallel execution ](https://github.com/besu-eth/besu/pull/10606#pullrequestreview-4465379619) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

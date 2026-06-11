@@ -250,6 +250,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Request parent payload envelopes in parallel with parent blocks (#16908)](https://github.com/OffchainLabs/prysm/commit/335618f8c052ef979805308872568d1927ab5acb) - 2026-06-09
 * [Commit] [Bound peer-reported head slot in peer-status scoring (#16915)](https://github.com/OffchainLabs/prysm/commit/bfafb7ade66b6104cd7c28cd12575b006f20f461) - 2026-06-09
 * [Commit] [Submit payload attestation on `execution_payload_available` event (#16906)](https://github.com/OffchainLabs/prysm/commit/a2993b5cbee0792805a479713fd8200d6ff8da22) - 2026-06-09
+* [Review] [Review on: Only send PTC attestations on canonical shuffling](https://github.com/OffchainLabs/prysm/pull/16946#pullrequestreview-4472937777) - 2026-06-11
+* [Review] [Review on: Add `head_v2` event](https://github.com/OffchainLabs/prysm/pull/16930#pullrequestreview-4464358947) - 2026-06-10
+* [Pull Request] [Re-enforce same-slot index-0 rule in `OnAttestation`](https://github.com/OffchainLabs/prysm/pull/16942) - 2026-06-10
+* [Pull Request] [Skip same slot payload attestation (index=1) in block](https://github.com/OffchainLabs/prysm/pull/16941) - 2026-06-10
+* [Pull Request] [Harden Gloas pending data column queue against penalty-free flooding](https://github.com/OffchainLabs/prysm/pull/16936) - 2026-06-10
+* [Pull Request] [Thread context through envelope VerifySignature](https://github.com/OffchainLabs/prysm/pull/16935) - 2026-06-10
+* [Commit] [Add deposit signature cache + envelope prefetcher (#16812)](https://github.com/OffchainLabs/prysm/commit/1ac6c1885c6e62b218ff3a52e4718137281cdce0) - 2026-06-10
+* [Commit] [Skip same slot payload attestation (index=1) in block (#16941)](https://github.com/OffchainLabs/prysm/commit/be36ad96ebc9c8b3631489cc956668bdbc16b8e8) - 2026-06-10
+* [Commit] [Thread context through envelope VerifySignature (#16935)](https://github.com/OffchainLabs/prysm/commit/e9064111a4c1fb1707446f2e9d19caed1db462f9) - 2026-06-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

@@ -184,6 +184,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat(rpc): add eth simulate state root flag](https://github.com/paradigmxyz/reth/pull/24564#pullrequestreview-4448669285) - 2026-06-08
 * [Commit] [fix: avoid clearing rocksdb unnecesarily (#24903)](https://github.com/paradigmxyz/reth/commit/c8d9e0484c84b1b4a44be6a9053c8d02b1bf522e) - 2026-06-08
 * [Review] [Review on: perf(transaction-pool): specialize same-origin batch insertion](https://github.com/paradigmxyz/reth/pull/25037#pullrequestreview-4459031811) - 2026-06-09
+* [Review] [Review on: perf(net): propagate pending transactions in the same poll iteration](https://github.com/paradigmxyz/reth/pull/25087#pullrequestreview-4471288992) - 2026-06-10
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

@@ -241,6 +241,11 @@ Team: Erigon
 * [Review] [Review on: execution/p2p: rewrite the eth/71 BAL fetcher due to correctness issues](https://github.com/erigontech/erigon/pull/21679#pullrequestreview-4449504863) - 2026-06-08
 * [Commit] [execution/stagedsync: parallel-exec - flush invalid-tx writes as Estimate (#21667)](https://github.com/erigontech/erigon/commit/17a45ce1b6b8f24d9288de8867adff1dff709992) - 2026-06-08
 * [Pull Request] [execution/stagedsync: recover CodePath alongside CodeHashPath in parallel normalizeWriteSet](https://github.com/erigontech/erigon/pull/21706) - 2026-06-09
+* [Pull Request] [execution/stagedsync: cancel executor on first ErrWrongTrieRoot](https://github.com/erigontech/erigon/pull/21731) - 2026-06-10
+* [Pull Request] [[r3.5] execution/stagedsync: cancel executor on first ErrWrongTrieRoot](https://github.com/erigontech/erigon/pull/21733) - 2026-06-10
+* [Pull Request] [[r3.5] execution/stagedsync: preserve real error through ErrExecAbortError wrap](https://github.com/erigontech/erigon/pull/21727) - 2026-06-10
+* [Issue] [Unify the temporal kv GetLatest interface — eliminate accreted duck-typed metered-getter variants](https://github.com/erigontech/erigon/issues/21739) - 2026-06-11
+* [Commit] [fix: PoS dev mode — enable Fusaka (Fulu CL + Osaka EL) block production (#21646)](https://github.com/erigontech/erigon/commit/d47ea5bf37b40f5b8d56291d4d35c85c30c37282) - 2026-06-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

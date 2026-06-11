@@ -149,6 +149,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat(bls): add small MSM for npoints < 32](https://github.com/ChainSafe/lodestar-z/pull/393) - 2026-06-09
 * [Pull Request] [fix: node init pool](https://github.com/ChainSafe/lodestar-z/pull/396) - 2026-06-09
 * [Review] [Review on: fix(state-transition): repair Pool.init call broken by #346×#367 merge skew](https://github.com/ChainSafe/lodestar-z/pull/394#pullrequestreview-4459518174) - 2026-06-09
+* [Review] [Review on: fix(bindings): size BLS thread pool by cgroup-aware CPU count](https://github.com/ChainSafe/lodestar-z/pull/386#pullrequestreview-4468507062) - 2026-06-10
+* [Pull Request] [refactor(bls): clean up bls](https://github.com/ChainSafe/lodestar-z/pull/398) - 2026-06-10
+* [Commit] [refactor(bls): allocations around VMAS (#395)](https://github.com/ChainSafe/lodestar-z/commit/dfda58c32c2b08b716923cd50acfc0c4978c3fb3) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

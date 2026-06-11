@@ -59,6 +59,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Replace electra sync tests with gloas sync tests on CI](https://github.com/sigp/lighthouse/pull/9228#pullrequestreview-4438955720) - 2026-06-05
 * [Review] [Review on: Gloas alpha spec 9](https://github.com/sigp/lighthouse/pull/9393#pullrequestreview-4453645933) - 2026-06-08
 * [Review] [Review on: Fix sending partials from immediately complete columns](https://github.com/sigp/lighthouse/pull/9433#pullrequestreview-4453993432) - 2026-06-08
+* [Review] [Review on: Better partial diagnosics](https://github.com/sigp/lighthouse/pull/9436#pullrequestreview-4470593963) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4100433052) - 2026-04-13
@@ -69,6 +70,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Review] [Review on: fix: remove expected-response entry on challenge expiry](https://github.com/sigp/discv5/pull/306#pullrequestreview-4445913460) - 2026-06-07
+* [Review] [Review on: Version bump to 0.11.0](https://github.com/sigp/discv5/pull/305#pullrequestreview-4470572987) - 2026-06-10
 ## Q1 2026
 
 

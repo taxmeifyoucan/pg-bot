@@ -74,6 +74,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Use correct slot in custody request](https://github.com/sigp/lighthouse/pull/9380#pullrequestreview-4398708724) - 2026-06-01
 * [Pull Request] [Regression test for range sync CGC race condition](https://github.com/sigp/lighthouse/pull/8039) - 2026-06-04
 * [Review] [Review on: Replace electra sync tests with gloas sync tests on CI](https://github.com/sigp/lighthouse/pull/9228#pullrequestreview-4455254844) - 2026-06-09
+* [Pull Request] [Add gossip validation spec tests for remaining topics](https://github.com/sigp/lighthouse/pull/9452) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026

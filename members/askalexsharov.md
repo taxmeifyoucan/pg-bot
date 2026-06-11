@@ -727,6 +727,11 @@ Team: Erigon
 * [Review] [Review on: [r3.5] cmd/utils/app: fix publishable check failing on empty caplin state tables](https://github.com/erigontech/erigon/pull/21683#pullrequestreview-4455780273) - 2026-06-09
 * [Issue] [torrent: ram usage](https://github.com/erigontech/erigon/issues/21684) - 2026-06-09
 * [Issue] [History files `release/3.5` changed](https://github.com/erigontech/erigon/issues/21685) - 2026-06-09
+* [Pull Request] [[main] db: commitment domain to take existance filter to RAM](https://github.com/erigontech/erigon/pull/21738) - 2026-06-11
+* [Pull Request] [[3.6] db: commitment domain to take existance filter to RAM](https://github.com/erigontech/erigon/pull/21740) - 2026-06-11
+* [Review] [Review on: [r3.5] commitment: fix warmuper arena data race in HashSort](https://github.com/erigontech/erigon/pull/21721#pullrequestreview-4473145777) - 2026-06-11
+* [Pull Request] [[3.5] db: commitment domain to take existance filter to RAM](https://github.com/erigontech/erigon/pull/21737) - 2026-06-11
+* [Review] [Review on: execution/stagedsync: recover CodePath alongside CodeHashPath in parallel normalizeWriteSet](https://github.com/erigontech/erigon/pull/21706#pullrequestreview-4467360134) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

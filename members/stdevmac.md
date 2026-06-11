@@ -76,6 +76,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [Fix shutdown race in SnapProvider PLINQ (closes #11806)](https://github.com/NethermindEth/nethermind/pull/11807) - 2026-05-28
 * [Issue] [Snap sync logs `AggregateException(ObjectDisposedException)` at ERROR on shutdown; fails post-merge fuzz tests](https://github.com/NethermindEth/nethermind/issues/11806) - 2026-05-28
 * [Commit] [Fix shutdown race in SnapProvider PLINQ (closes #11806) (#11807)](https://github.com/NethermindEth/nethermind/commit/5c7b4797d089a6fd28b81db2355abb4079e92cce) - 2026-05-28
+* [Pull Request] [Fix EngineApiProxy rejecting its own blocks: forward EIP-7685 executionRequests in synthetic newPayload](https://github.com/NethermindEth/nethermind/pull/11960) - 2026-06-10
+* [Commit] [Fix EngineApiProxy rejecting its own blocks: forward EIP-7685 executionRequests in synthetic newPayload (#11960)](https://github.com/NethermindEth/nethermind/commit/c30b5c7e931a979e1215df16310abc6be9a461e9) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 ## Q1 2026

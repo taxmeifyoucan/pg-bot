@@ -100,6 +100,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Payload reorg](https://github.com/OffchainLabs/prysm/pull/16933) - 2026-06-09
 * [Pull Request] [Add forkchoice unit test](https://github.com/OffchainLabs/prysm/pull/16932) - 2026-06-09
 * [Review] [Review on: Add forkchoice unit test](https://github.com/OffchainLabs/prysm/pull/16932#pullrequestreview-4459807941) - 2026-06-09
+* [Pull Request] [Only send PTC attestations on canonical shuffling](https://github.com/OffchainLabs/prysm/pull/16946) - 2026-06-10
+* [Review] [Review on: Only send PTC attestations on canonical shuffling](https://github.com/OffchainLabs/prysm/pull/16946#pullrequestreview-4472539047) - 2026-06-11
+* [Review] [Review on: Hook up payload attestation message in fork choice spec tests](https://github.com/OffchainLabs/prysm/pull/16934#pullrequestreview-4472888680) - 2026-06-11
+* [Review] [Review on: Re-enforce same-slot index-0 rule in `OnAttestation`](https://github.com/OffchainLabs/prysm/pull/16942#pullrequestreview-4469506157) - 2026-06-10
+* [Review] [Review on: Skip same slot payload attestation (index=1) in block](https://github.com/OffchainLabs/prysm/pull/16941#pullrequestreview-4469531307) - 2026-06-10
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

@@ -86,6 +86,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [update block gossip validation when execution payload is delayed (#10794)](https://github.com/Consensys/teku/commit/7f751ceae38354f0ee3c52dfab4139c52fa72b6e) - 2026-06-08
 * [Review] [Review on: defer Gloas full payload attestations until execution payload is available](https://github.com/Consensys/teku/pull/10772#pullrequestreview-4457472301) - 2026-06-09
 * [Review] [Review on: add Gloas full payload attestation gossip validation](https://github.com/Consensys/teku/pull/10804#pullrequestreview-4457635340) - 2026-06-09
+* [Pull Request] [rename LRU based set method](https://github.com/Consensys/teku/pull/10815) - 2026-06-10
+* [Commit] [add Gloas full payload attestation gossip validation (#10804)](https://github.com/Consensys/teku/commit/9d3dc8f774ebc1f305dc2f249da64b273bacc588) - 2026-06-10
+* [Commit] [rename LRU based set method (#10815)](https://github.com/Consensys/teku/commit/fb0e6f747dcb734c01a2630c5c0d6385e25c21f4) - 2026-06-10
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: 1.3.0 release](https://github.com/libp2p/jvm-libp2p/pull/478#pullrequestreview-4327252421) - 2026-05-20
 ## Q1 2026

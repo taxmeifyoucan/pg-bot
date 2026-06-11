@@ -105,6 +105,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Fix add missing enr](https://github.com/status-im/nimbus-eth2/pull/8273#pullrequestreview-4111920360) - 2026-04-15
 * [Review] [Review on: Fix add missing enr](https://github.com/status-im/nimbus-eth2/pull/8273#pullrequestreview-4119084230) - 2026-04-16
 * [Pull Request] [Update nimbus execution client import docs to use  ere files](https://github.com/status-im/nimbus-eth2/pull/8553) - 2026-06-05
+* [Pull Request] [Add async raises annotations to downloadFile and fetchGenesisState](https://github.com/status-im/nimbus-eth2/pull/8583) - 2026-06-10
+* [Pull Request] [ncli_db: fix filename for removeFile when clean-up on failure](https://github.com/status-im/nimbus-eth2/pull/8579) - 2026-06-10
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Introduction of REST based + SSZ serialized `new-payload-with-witness`](https://github.com/ethereum/execution-apis/pull/773#pullrequestreview-4106752631) - 2026-04-14
 ## Q1 2026

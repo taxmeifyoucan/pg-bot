@@ -108,6 +108,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Separate loading of individual ChainDAG head into helper proc](https://github.com/status-im/nimbus-eth2/pull/8576) - 2026-06-09
 * [Review] [Review on: Fix incorrect ERA files check.](https://github.com/status-im/nimbus-eth2/pull/8575#pullrequestreview-4459854654) - 2026-06-09
 * [Pull Request] [Move BlockRef.init helper to block_dag](https://github.com/status-im/nimbus-eth2/pull/8573) - 2026-06-09
+* [Pull Request] [Split per-head light client initialization to helper proc](https://github.com/status-im/nimbus-eth2/pull/8580) - 2026-06-10
+* [Pull Request] [Honor --debug-invalidate-block-root on ChainDAG init](https://github.com/status-im/nimbus-eth2/pull/8582) - 2026-06-10
+* [Pull Request] [Prune unreachable blocks during DAG init when dag.head rewinds](https://github.com/status-im/nimbus-eth2/pull/8584) - 2026-06-10
+* [Pull Request] [Unify duplicated helper to update finalized blocks in DB](https://github.com/status-im/nimbus-eth2/pull/8581) - 2026-06-10
+* [Pull Request] [Init AttPool EpochRef every 1024 slots instead of every 1024 blocks](https://github.com/status-im/nimbus-eth2/pull/8578) - 2026-06-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
@@ -134,6 +139,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Use `Union[None, T]` instead of `Optional[T]` in SSZ datastructures](https://github.com/ethereum/consensus-specs/pull/5200#pullrequestreview-4225466879) - 2026-05-05
 * [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4334975214) - 2026-05-21
 * [Review] [Review on: Ensure confirmed chain includes greatest unrealized checkpoint](https://github.com/ethereum/consensus-specs/pull/5288#pullrequestreview-4365993902) - 2026-05-26
+* [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4466763068) - 2026-06-10
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13

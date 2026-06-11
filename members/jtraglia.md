@@ -351,6 +351,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add Gloas test for `get_attestation_participation_flag_indices`](https://github.com/ethereum/consensus-specs/pull/5341#pullrequestreview-4460036716) - 2026-06-09
 * [Review] [Review on: Add test helpers for execution payload bid](https://github.com/ethereum/consensus-specs/pull/5339#pullrequestreview-4459689075) - 2026-06-09
 * [Review] [Review on: Add tests for `get_payload_status_tiebreaker`](https://github.com/ethereum/consensus-specs/pull/5350#pullrequestreview-4459667479) - 2026-06-09
+* [Pull Request] [Add annotation prefixes to gossip topic sections](https://github.com/ethereum/consensus-specs/pull/5356) - 2026-06-10
+* [Review] [Review on: Add annotation prefixes to gossip topic sections](https://github.com/ethereum/consensus-specs/pull/5356#pullrequestreview-4471964886) - 2026-06-10
+* [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4472907418) - 2026-06-11
+* [Pull Request] [Fix some inconsistencies in fulu partial-columns spec](https://github.com/ethereum/consensus-specs/pull/5357) - 2026-06-11
+* [Review] [Review on: Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352#pullrequestreview-4468976531) - 2026-06-10
+* [Review] [Review on: Require imported payload for `index == 1` attestation gossip](https://github.com/ethereum/consensus-specs/pull/5355#pullrequestreview-4467976293) - 2026-06-10
+* [Commit] [Add new `run_validate_gossip` helper function (#5354)](https://github.com/ethereum/consensus-specs/commit/6ebb2216ca8d7fdac7c108fcfddb74d0e56c42ab) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

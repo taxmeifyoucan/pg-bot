@@ -270,6 +270,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [Stream engine_getBlobsV2 response to avoid ClosedChannelException on slow writes](https://github.com/besu-eth/besu/issues/10615) - 2026-06-09
 * [Commit] [Demote closed channel exception log level (#10616)](https://github.com/besu-eth/besu/commit/65b5e0aeee832e1aa8d0c79160b80cd1b3f3619a) - 2026-06-10
 * [Commit] [Fix isSyncing() during full sync on post-merge networks (#10613)](https://github.com/besu-eth/besu/commit/47c5626b5b4336d23e16e18158cabec631b28c30) - 2026-06-09
+* [Review] [Review on: Update the BFT soak test to include upgrading to `Osaka`](https://github.com/besu-eth/besu/pull/10607#pullrequestreview-4473175175) - 2026-06-11
+* [Review] [Review on: Enable DiscV5 by default in acceptance tests and fix cluster harness](https://github.com/besu-eth/besu/pull/10619#pullrequestreview-4472425330) - 2026-06-10
+* [Pull Request] [Stream engine_getBlobsV2 and engine_getBlobsV3 responses](https://github.com/besu-eth/besu/pull/10617) - 2026-06-10
+* [Pull Request] [ci(kurtosis): switch nightly interop workflow to ethpandaops GHA](https://github.com/besu-eth/besu/pull/10618) - 2026-06-10
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

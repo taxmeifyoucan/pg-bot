@@ -182,6 +182,9 @@ Team: Erigon
 * [Pull Request] [execution/commitment: parallel commitment trie (ParallelPatriciaHashed)](https://github.com/erigontech/erigon/pull/21664) - 2026-06-07
 * [Pull Request] [execution/commitment: streaming commitment trie (--experimental.streaming-commitment)](https://github.com/erigontech/erigon/pull/21709) - 2026-06-09
 * [Commit] [commitment: fix warmuper arena data race in HashSort (#21432)](https://github.com/erigontech/erigon/commit/c15f43363c28f091218ee3803d1992b6321f5c70) - 2026-06-09
+* [Review] [Review on: [3.5] db: commitment domain to take existance filter to RAM](https://github.com/erigontech/erigon/pull/21737#pullrequestreview-4473122783) - 2026-06-11
+* [Pull Request] [commitment: de-flake Test_Trie_CorrectSwitchForConcurrentAndSequential](https://github.com/erigontech/erigon/pull/21720) - 2026-06-10
+* [Commit] [commitment: de-flake Test_Trie_CorrectSwitchForConcurrentAndSequential (#21720)](https://github.com/erigontech/erigon/commit/9f5bad3ff8a5456cff684349ee5258adaed77210) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

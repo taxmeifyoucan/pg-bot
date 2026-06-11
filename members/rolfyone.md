@@ -121,6 +121,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Added compatibility for 26.4 rocksdb](https://github.com/Consensys/teku/pull/10806) - 2026-06-09
 * [Issue] [develop breaks db compatibility with released version](https://github.com/Consensys/teku/issues/10809) - 2026-06-09
 * [Commit] [Avoid recursive data column sidecar range sends (#10808)](https://github.com/Consensys/teku/commit/6a098e5e378cc33eb74d32dd13b802455e8f14b1) - 2026-06-10
+* [Review] [Review on: Add experimental QUIC transport support](https://github.com/Consensys/teku/pull/10805#pullrequestreview-4464583239) - 2026-06-10
+* [Review] [Review on: Data column pruner optimizations](https://github.com/Consensys/teku/pull/10807#pullrequestreview-4464258093) - 2026-06-10
+* [Review] [Review on:  Avoid redundant RPC fetches for data column sidecars](https://github.com/Consensys/teku/pull/10789#pullrequestreview-4466530502) - 2026-06-10
+* [Review] [Review on: Added compatibility for 26.4 rocksdb](https://github.com/Consensys/teku/pull/10806#pullrequestreview-4464541826) - 2026-06-10
+* [Commit] [Added compatibility for 26.4 rocksdb (#10806)](https://github.com/Consensys/teku/commit/e656a3278b852e1986b2b6ff6d3b48275624457a) - 2026-06-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

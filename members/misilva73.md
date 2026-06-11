@@ -14,6 +14,7 @@ Github: [@misilva73](https://github.com/misilva73)
 
 * [Review] [Review on: feat(test-benchmark): add uncacheable precompile benchmark](https://github.com/ethereum/execution-specs/pull/2600#pullrequestreview-4081330842) - 2026-04-09
 * [Review] [Review on: chore(test-benchmark): remove unused stateful benchmarks](https://github.com/ethereum/execution-specs/pull/2686#pullrequestreview-4118382863) - 2026-04-16
+* [Review] [Review on: fix(spec-specs, tests): EIP-8037 strict block-gas inclusion rule](https://github.com/ethereum/execution-specs/pull/2892#pullrequestreview-4465918727) - 2026-06-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Glamsterdam Repricings #5, April 1, 2026](https://github.com/ethereum/pm/issues/2000) - 2026-04-01
 
@@ -60,6 +61,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-8037: fix typo in 8037](https://github.com/ethereum/EIPs/pull/11754#pullrequestreview-4410106370) - 2026-06-02
 * [Review] [Review on: Update EIP-8037: remove the callcode for account creation cases](https://github.com/ethereum/EIPs/pull/11759#pullrequestreview-4447937305) - 2026-06-08
 * [Review] [Review on: Update EIP-8037: improve EIP-7702 authorization gas accounting in EIP-8037](https://github.com/ethereum/EIPs/pull/11715#pullrequestreview-4459236885) - 2026-06-09
+* [Review] [Review on: Update EIP-8037: improve EIP-7702 authorization gas accounting in EIP-8037](https://github.com/ethereum/EIPs/pull/11715#pullrequestreview-4465303172) - 2026-06-10
 ## Q1 2026
 
 

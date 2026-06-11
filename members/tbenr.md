@@ -156,10 +156,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Preserve data column KZG validation details (#10811)](https://github.com/Consensys/teku/commit/7fd6193fa12965def1a9fc64f13c345e17aca203) - 2026-06-09
 * [Commit] [sort ref test classes to avoid duplication (#10810)](https://github.com/Consensys/teku/commit/10110d980038ffd74190d1d49b2b5b9cc6bb7a7e) - 2026-06-09
 * [Commit] [Fix Gloas empty parent payload withdrawals (#10803)](https://github.com/Consensys/teku/commit/c0652aa6ce23c35b8ab60d7ea8cfa17677bef925) - 2026-06-09
+* [Pull Request] [Gloas sync fix](https://github.com/Consensys/teku/pull/10818) - 2026-06-10
+* [Review] [Review on:  Avoid redundant RPC fetches for data column sidecars](https://github.com/Consensys/teku/pull/10789#pullrequestreview-4468231385) - 2026-06-10
+* [Review] [Review on: rename LRU based set method](https://github.com/Consensys/teku/pull/10815#pullrequestreview-4465729559) - 2026-06-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16
 * [Issue] [Adapt circuitbreaker logic to GLOAS](https://github.com/ethereum/consensus-specs/issues/5251) - 2026-05-14
+* [Pull Request] [Require imported payload for `index == 1` attestation gossip](https://github.com/ethereum/consensus-specs/pull/5355) - 2026-06-10
 ## Q1 2026
 
 

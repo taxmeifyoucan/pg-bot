@@ -129,6 +129,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Request parent payload envelopes in parallel with parent blocks](https://github.com/OffchainLabs/prysm/pull/16908#pullrequestreview-4459646216) - 2026-06-09
 * [Pull Request] [updated duties using split endpoints](https://github.com/OffchainLabs/prysm/pull/16421) - 2026-06-09
 * [Commit] [updated duties using split endpoints (#16421)](https://github.com/OffchainLabs/prysm/commit/4d8c5a9bd72030ce728d73c9f8fc1d7aef2f9417) - 2026-06-09
+* [Pull Request] [Grpc stateless gloas](https://github.com/OffchainLabs/prysm/pull/16943) - 2026-06-10
+* [Commit] [fix gloas proposal endpoint support (#16818)](https://github.com/OffchainLabs/prysm/commit/c4863fc3fef4b3292b9ac95d1ff517e11778cca3) - 2026-06-10
+* [Commit] [Validator rest ptc (#16856)](https://github.com/OffchainLabs/prysm/commit/54f7e6d48d61dd1463aba60ee89ab01ef696e510) - 2026-06-10
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

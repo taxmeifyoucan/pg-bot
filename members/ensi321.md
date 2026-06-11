@@ -119,6 +119,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Simplify `InclusionListStore` (#5324)](https://github.com/ethereum/consensus-specs/commit/69688695ed9e6c158c53d46fc5edc1689daab533) - 2026-06-03
 * [Pull Request] [Add test helpers for execution payload bid](https://github.com/ethereum/consensus-specs/pull/5339) - 2026-06-06
 * [Commit] [Add test helpers for execution payload bid (#5339)](https://github.com/ethereum/consensus-specs/commit/a63887a6b533e234a495803c0900c7e39fdec9b6) - 2026-06-09
+* [Review] [Review on: Modify `get_proposer_head` for Gloas](https://github.com/ethereum/consensus-specs/pull/5348#pullrequestreview-4473020705) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
 ## Q1 2026

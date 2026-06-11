@@ -108,6 +108,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: simulate: treat gas cap zero as uncapped budget](https://github.com/NethermindEth/nethermind/pull/11841#pullrequestreview-4458182166) - 2026-06-09
 * [Review] [Review on: feat: Reset Masaya zk gas schedule, tidy zk gas surface](https://github.com/NethermindEth/nethermind/pull/11940#pullrequestreview-4457441488) - 2026-06-09
 * [Review] [Review on: perf(evm): avoid per-CREATE RlpStream allocation in contract-address derivation](https://github.com/NethermindEth/nethermind/pull/11892#pullrequestreview-4458062175) - 2026-06-09
+* [Review] [Review on: Fix EngineApiProxy rejecting its own blocks: forward EIP-7685 executionRequests in synthetic newPayload](https://github.com/NethermindEth/nethermind/pull/11960#pullrequestreview-4471890321) - 2026-06-10
+* [Review] [Review on: Serve health UI and data/events behind a reverse proxy](https://github.com/NethermindEth/nethermind/pull/11946#pullrequestreview-4467199745) - 2026-06-10
+* [Review] [Review on: test: wrap independent assertions in Assert.EnterMultipleScope](https://github.com/NethermindEth/nethermind/pull/11942#pullrequestreview-4467185998) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 

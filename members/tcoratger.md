@@ -339,6 +339,35 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [bench(lookup): end-to-end batch-STARK lookup benchmark harness](https://github.com/Plonky3/Plonky3/pull/1779) - 2026-06-09
 * [Commit] [whir: add HVZK-WHIR hiding polynomial commitment scheme (#1767)](https://github.com/Plonky3/Plonky3/commit/e44f8b2765796fdd95517e0608aaf9885f74180a) - 2026-06-09
 * [Commit] [feat(lookup): single sampled challenge pair with per-bus domain separation (#1736)](https://github.com/Plonky3/Plonky3/commit/44f989e80ee8c80adb16b9ced83e365eb21c8262) - 2026-06-09
+* [Review] [Review on: whir: allow partial final constant fold](https://github.com/Plonky3/Plonky3/pull/1803#pullrequestreview-4472068091) - 2026-06-10
+* [Review] [Review on: perf(circle): batch and parallelize the PCS open phase](https://github.com/Plonky3/Plonky3/pull/1797#pullrequestreview-4467029731) - 2026-06-10
+* [Review] [Review on: whir: reject oversized initial domains](https://github.com/Plonky3/Plonky3/pull/1800#pullrequestreview-4469701050) - 2026-06-10
+* [Pull Request] [refactor(merkle-tree): split mmcs.rs into a feature-organized mmcs/ module](https://github.com/Plonky3/Plonky3/pull/1801) - 2026-06-10
+* [Review] [Review on: perf(circle): fuse two-point openings and parallelize Lagrange denominators](https://github.com/Plonky3/Plonky3/pull/1798#pullrequestreview-4468776138) - 2026-06-10
+* [Pull Request] [feat(lookup): degree-budget-aware same-bus column packing](https://github.com/Plonky3/Plonky3/pull/1799) - 2026-06-10
+* [Pull Request] [fix(merkle-tree): bound pruned-proof scratch early and enrich the error set](https://github.com/Plonky3/Plonky3/pull/1794) - 2026-06-10
+* [Review] [Review on: perf(circle): fuse CFFT butterfly layers into cache-resident parallel passes](https://github.com/Plonky3/Plonky3/pull/1796#pullrequestreview-4467020171) - 2026-06-10
+* [Review] [Review on: perf(circle): collapse allocations in cfft path](https://github.com/Plonky3/Plonky3/pull/1795#pullrequestreview-4466697617) - 2026-06-10
+* [Review] [Review on: bench(lookup): end-to-end batch-STARK lookup benchmark harness](https://github.com/Plonky3/Plonky3/pull/1779#pullrequestreview-4466488610) - 2026-06-10
+* [Pull Request] [fix(circle): reject proofs that under-report commit rounds](https://github.com/Plonky3/Plonky3/pull/1792) - 2026-06-10
+* [Pull Request] [fix(fri): reject input matrices opened at zero points](https://github.com/Plonky3/Plonky3/pull/1793) - 2026-06-10
+* [Pull Request] [fix(batch-stark): reject out-of-domain point inside the trace domain](https://github.com/Plonky3/Plonky3/pull/1791) - 2026-06-10
+* [Review] [Review on: refactor: cleanup WHIR API](https://github.com/Plonky3/Plonky3/pull/1789#pullrequestreview-4465771767) - 2026-06-10
+* [Pull Request] [refactor(whir): drop whole-crate sumcheck re-export facade](https://github.com/Plonky3/Plonky3/pull/1790) - 2026-06-10
+* [Review] [Review on: perf(challenger): precompute the grind state for MultiField32Challenger](https://github.com/Plonky3/Plonky3/pull/1782#pullrequestreview-4465268457) - 2026-06-10
+* [Review] [Review on: refactor: remove unwraps in verifier path](https://github.com/Plonky3/Plonky3/pull/1788#pullrequestreview-4465277675) - 2026-06-10
+* [Review] [Review on: refactor: reorganize WHIR structure](https://github.com/Plonky3/Plonky3/pull/1784#pullrequestreview-4465335416) - 2026-06-10
+* [Review] [Review on: doc: add basic READMEs in main crates](https://github.com/Plonky3/Plonky3/pull/1786#pullrequestreview-4465322213) - 2026-06-10
+* [Review] [Review on: chore: bump deps](https://github.com/Plonky3/Plonky3/pull/1787#pullrequestreview-4465253027) - 2026-06-10
+* [Commit] [fix(merkle-tree): bound pruned-proof scratch early and enrich the error set (#1794)](https://github.com/Plonky3/Plonky3/commit/24b30d1b9521a99ef31fd848b9742a0a41b87ca1) - 2026-06-10
+* [Commit] [bench(lookup): end-to-end batch-STARK lookup benchmark harness (#1779)](https://github.com/Plonky3/Plonky3/commit/039d400dd671bec9e374fdaca1a5649df51e2ad9) - 2026-06-10
+* [Commit] [fix(circle): reject proofs that under-report commit rounds (#1792)](https://github.com/Plonky3/Plonky3/commit/2657aba4eb8c468d5db1f6c3f52dca099943b271) - 2026-06-10
+* [Commit] [fix(fri): reject input matrices opened at zero points (#1793)](https://github.com/Plonky3/Plonky3/commit/4cb88af6d750020e0a6274add01bcbc5e7ea4c78) - 2026-06-10
+* [Commit] [fix(batch-stark): reject out-of-domain point inside the trace domain (#1791)](https://github.com/Plonky3/Plonky3/commit/a791d808285331f7691e31d1b15142da7f1b051b) - 2026-06-10
+* [Commit] [perf(whir): batch and parallelize zk prover covector assembly (#1783)](https://github.com/Plonky3/Plonky3/commit/a036f96e19af2daf3162f98468b3223f01bf4e7d) - 2026-06-10
+* [Commit] [refactor(whir): drop whole-crate sumcheck re-export facade (#1790)](https://github.com/Plonky3/Plonky3/commit/b3ec5706222b4dc32a0e31832d97c2110e8a05af) - 2026-06-10
+* [Commit] [perf(challenger): precompute the grind state for MultiField32Challenger (#1782)](https://github.com/Plonky3/Plonky3/commit/8a543dde4422d61ea6945c120a80784704483f71) - 2026-06-10
+* [Commit] [whir: remove dead public items (#1781)](https://github.com/Plonky3/Plonky3/commit/959826e44e6d0b55725d2ee06c73a6639ba17490) - 2026-06-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05
@@ -346,6 +375,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Issue] [Post-Quantum (PQ) Interop #40, May 20, 2026](https://github.com/ethereum/pm/issues/2065) - 2026-05-20
 * [Issue] [Post-Quantum (PQ) Interop #41, May 27, 2026](https://github.com/ethereum/pm/issues/2081) - 2026-05-27
 * [Issue] [Post-Quantum (PQ) Interop #42, June 3, 2026](https://github.com/ethereum/pm/issues/2104) - 2026-06-03
+* [Issue] [Post-Quantum (PQ) Interop #43, June 10, 2026](https://github.com/ethereum/pm/issues/2117) - 2026-06-10
 ## Q1 2026
 
 

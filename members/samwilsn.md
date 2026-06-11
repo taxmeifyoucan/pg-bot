@@ -94,6 +94,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(specs): add type alias for fee market txs](https://github.com/ethereum/execution-specs/pull/2968) - 2026-06-09
 * [Review] [Review on: feat(spec-tool): enforce `@final` on leaf dataclasses](https://github.com/ethereum/execution-specs/pull/2965#pullrequestreview-4459534728) - 2026-06-09
 * [Commit] [chore(specs): add final decorator (#2934)](https://github.com/ethereum/execution-specs/commit/9c2813eee60b7edc6f29370309cbc4e7a3b80d9c) - 2026-06-09
+* [Pull Request] [fix(ci): include json-loader in coverage reports](https://github.com/ethereum/execution-specs/pull/2975) - 2026-06-10
+* [Review] [Review on: refactor(forks): pass fork overrides to clone](https://github.com/ethereum/execution-specs/pull/2769#pullrequestreview-4469153937) - 2026-06-10
+* [Issue] [Should `tx.max_fee_per_gas < tx.max_priority_fee_per_gas` be moved to `validate_transaction`?](https://github.com/ethereum/execution-specs/issues/2976) - 2026-06-10
 ## Q1 2026
 
 

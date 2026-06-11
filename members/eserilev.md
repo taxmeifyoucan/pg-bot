@@ -132,6 +132,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gloas alpha spec 9](https://github.com/sigp/lighthouse/pull/9393#pullrequestreview-4445895568) - 2026-06-07
 * [Review] [Review on: Gloas alpha spec 9](https://github.com/sigp/lighthouse/pull/9393#pullrequestreview-4449331695) - 2026-06-08
 * [Review] [Review on: Gloas lookup sync](https://github.com/sigp/lighthouse/pull/9155#pullrequestreview-4448022677) - 2026-06-08
+* [Review] [Review on: Gloas attestation payload reprocess](https://github.com/sigp/lighthouse/pull/9440#pullrequestreview-4465709204) - 2026-06-10
+* [Review] [Review on: broadcast PTC votes early on payload availability](https://github.com/sigp/lighthouse/pull/9434#pullrequestreview-4467414172) - 2026-06-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27
@@ -142,6 +144,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309#pullrequestreview-4396689199) - 2026-05-31
 * [Pull Request] [Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352) - 2026-06-09
 * [Review] [Review on: Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352#pullrequestreview-4457093952) - 2026-06-09
+* [Review] [Review on: Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352#pullrequestreview-4466014126) - 2026-06-10
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Issue] [Prysm disconnects when finalized roots dont match](https://github.com/OffchainLabs/prysm/issues/16773) - 2026-05-09
 ## Q1 2026

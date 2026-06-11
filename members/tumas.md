@@ -37,6 +37,7 @@ Team: Grandine
 * [Issue] [Delayed object processing improvements](https://github.com/grandinetech/grandine/issues/721) - 2026-06-01
 * [Issue] [Reintroduce networking spec tests](https://github.com/grandinetech/grandine/issues/720) - 2026-06-01
 * [Review] [Review on: Pack attestations filtered by dependent root](https://github.com/grandinetech/grandine/pull/736#pullrequestreview-4437489302) - 2026-06-05
+* [Review] [Review on: Fix Gloas attestation balance apply issue](https://github.com/grandinetech/grandine/pull/747#pullrequestreview-4467287266) - 2026-06-10
 ## Q1 2026
 
 

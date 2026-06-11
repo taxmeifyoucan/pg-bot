@@ -27,6 +27,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Update EIP-8081: Propose EIP-8148 for inclusion in Hegotá](https://github.com/ethereum/EIPs/pull/11508#pullrequestreview-4427828229) - 2026-06-04
 * [Pull Request] [Update EIP-8081: add newly PFId EIPs](https://github.com/ethereum/EIPs/pull/11786) - 2026-06-09
 * [Commit] [Update EIP-8081: add newly PFId EIPs](https://github.com/ethereum/EIPs/commit/6e833827ada359edcdf5f05f5c2547b57ca2eb9e) - 2026-06-09
+* [Review] [Review on: Update EIP-8081: change 8188 name](https://github.com/ethereum/EIPs/pull/11789#pullrequestreview-4470398829) - 2026-06-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Commit] [Fix CI: downgrade Requests to 2.32.5 for Python 3.9 compatibility](https://github.com/ethereum/pm/commit/b8ce2627f82c7790432c37c2b66c0083ee61c96d) - 2026-04-01
 * [Issue] [All Core Devs - Execution (ACDE) #234, April 9, 2026](https://github.com/ethereum/pm/issues/2004) - 2026-04-04

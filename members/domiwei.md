@@ -93,6 +93,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/gloas: gate fork choice on verified execution payloads (#21417)](https://github.com/erigontech/erigon/commit/3ec49a3647915d64e17e5450ea898a04f267a7e7) - 2026-06-08
 * [Review] [Review on: cl/phase1/forkchoice: don't maintain GLOAS indexed weight store pre-GLOAS](https://github.com/erigontech/erigon/pull/21698#pullrequestreview-4458770981) - 2026-06-09
 * [Review] [Review on: [r3.5] cl/phase1/forkchoice: don't maintain GLOAS indexed weight store pre-GLOAS](https://github.com/erigontech/erigon/pull/21699#pullrequestreview-4458772860) - 2026-06-09
+* [Review] [Review on: node: fix wrong status code in ws](https://github.com/erigontech/erigon/pull/21714#pullrequestreview-4466531710) - 2026-06-10
+* [Review] [Review on: cl/solid: tighten TransactionsSSZ decode bounds](https://github.com/erigontech/erigon/pull/21406#pullrequestreview-4467336139) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

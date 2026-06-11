@@ -47,6 +47,9 @@ Team: Erigon
 * [Review] [Review on: QA: update rpc version to 2 13](https://github.com/erigontech/erigon/pull/21612#pullrequestreview-4428131947) - 2026-06-04
 * [Review] [Review on: ci(docs): remove broken update-disk-sizes.yml; do it locally via the python script](https://github.com/erigontech/erigon/pull/21411#pullrequestreview-4435269288) - 2026-06-05
 * [Review] [Review on: ci(qa): measure disk usage per prune mode with real block sizes](https://github.com/erigontech/erigon/pull/21580#pullrequestreview-4435266232) - 2026-06-05
+* [Review] [Review on: [r3.5] execution/stagedsync: preserve real error through ErrExecAbortError wrap](https://github.com/erigontech/erigon/pull/21727#pullrequestreview-4468066198) - 2026-06-10
+* [Issue] [Gas mismatch issue on Gnosis](https://github.com/erigontech/erigon/issues/21718) - 2026-06-10
+* [Issue] [Invalid block on Gnosis](https://github.com/erigontech/erigon/issues/21719) - 2026-06-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10
@@ -69,6 +72,7 @@ Team: Erigon
 * [Review] [Review on: integration-test: omit memory attribute on debug api if empty](https://github.com/erigontech/rpc-tests/pull/572#pullrequestreview-4447622274) - 2026-06-08
 * [Review] [Review on: integration_test: save Reth (commmit 87fc4cf4355ddbc59220f691a46d9f9d354adfa0 ) response with hive chain](https://github.com/erigontech/rpc-tests/pull/571#pullrequestreview-4447621035) - 2026-06-08
 * [Review] [Review on: integration_test: add trace_block & trace_replayTransaction post shanghai](https://github.com/erigontech/rpc-tests/pull/573#pullrequestreview-4455626812) - 2026-06-09
+* [Review] [Review on: integration_test: permit -A -x](https://github.com/erigontech/rpc-tests/pull/574#pullrequestreview-4465458975) - 2026-06-10
 ## Q1 2026
 
 

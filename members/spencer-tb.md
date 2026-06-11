@@ -102,6 +102,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(test-forks): include sibling BPO forks in `--until` ranges](https://github.com/ethereum/execution-specs/pull/2955) - 2026-06-04
 * [Pull Request] [feat(ci): overhaul fixture releases - benchmark](https://github.com/ethereum/execution-specs/pull/2954) - 2026-06-04
 * [Commit] [feat(spec-specs, tests): merge EIP-8037 to `forks/amsterdam` (#2901)](https://github.com/ethereum/execution-specs/commit/8ea50be3c640c2ce2be108fc634dc48a3d039cbd) - 2026-06-09
+* [Review] [Review on: feat(tests): EIP-8037 reject when calldata_floor > TX_MAX_GAS_LIMIT](https://github.com/ethereum/execution-specs/pull/2898#pullrequestreview-4468054454) - 2026-06-10
+* [Review] [Review on: feat(tests): EIP-8037 unmask intrinsic-cap transaction-validity checks](https://github.com/ethereum/execution-specs/pull/2956#pullrequestreview-4468557073) - 2026-06-10
+* [Review] [Review on: feat(tests): EIP-8037 reject tx when gas_limit covers regular but not state intrinsic](https://github.com/ethereum/execution-specs/pull/2876#pullrequestreview-4468333078) - 2026-06-10
+* [Review] [Review on: feat(tests): EIP-8037 CREATE-tx collision refunds state-gas reservoir](https://github.com/ethereum/execution-specs/pull/2875#pullrequestreview-4468408156) - 2026-06-10
+* [Review] [Review on: refactor(spec-specs): remove unused regular gas constants in amsterdam](https://github.com/ethereum/execution-specs/pull/2971#pullrequestreview-4467705510) - 2026-06-10
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

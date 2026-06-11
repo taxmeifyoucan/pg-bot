@@ -62,6 +62,9 @@ Team: Grandine
 * [Issue] [[Glamsterdam][Bug] Invalid withdrawals slot](https://github.com/grandinetech/grandine/issues/731) - 2026-06-05
 * [Review] [Review on: Reintroduce networking spec tests](https://github.com/grandinetech/grandine/pull/719#pullrequestreview-4458764319) - 2026-06-09
 * [Review] [Review on: Skip producing block with local payload unavailable](https://github.com/grandinetech/grandine/pull/744#pullrequestreview-4458623243) - 2026-06-09
+* [Pull Request] [Introduce `is_previous_slot_payload_decision` predicate](https://github.com/grandinetech/grandine/pull/748) - 2026-06-10
+* [Review] [Review on: Use block state in payload attestation validation](https://github.com/grandinetech/grandine/pull/746#pullrequestreview-4467348279) - 2026-06-10
+* [Pull Request] [Fix Gloas attestation balance apply issue](https://github.com/grandinetech/grandine/pull/747) - 2026-06-10
 ## Q1 2026
 
 

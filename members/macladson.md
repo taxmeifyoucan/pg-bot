@@ -39,6 +39,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Implement GET `v2/node/version` endpoint](https://github.com/sigp/lighthouse/pull/9171#pullrequestreview-4343994997) - 2026-05-22
 * [Pull Request] [Optimize `libp2p` and `discv5` logging](https://github.com/sigp/lighthouse/pull/9356) - 2026-05-25
 * [Pull Request] [Bump discv5](https://github.com/sigp/lighthouse/pull/9394) - 2026-06-02
+
+* [Pull Request] [EIP-7688: Forward Compatible Consensus Data Structures](https://github.com/sigp/lighthouse/pull/9450) - 2026-06-10
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4466665565) - 2026-06-10
 ## Q1 2026
 
 

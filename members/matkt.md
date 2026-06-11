@@ -113,6 +113,11 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Optmize memory usage of the bal parallel execution ](https://github.com/besu-eth/besu/pull/10606#pullrequestreview-4449620262) - 2026-06-08
 * [Review] [Review on: snap/2 - track downloaded ranges](https://github.com/besu-eth/besu/pull/10579#pullrequestreview-4446795265) - 2026-06-08
 * [Review] [Review on: snap/2 - pivot catch-up lifecycle management](https://github.com/besu-eth/besu/pull/10590#pullrequestreview-4457955548) - 2026-06-09
+* [Pull Request] [remove not trusted root computation](https://github.com/besu-eth/besu/pull/10622) - 2026-06-10
+* [Review] [Review on: remove not trusted root computation](https://github.com/besu-eth/besu/pull/10622#pullrequestreview-4467487991) - 2026-06-10
+* [Pull Request] [remove bal size check between transaction](https://github.com/besu-eth/besu/pull/10621) - 2026-06-10
+* [Review] [Review on: remove bal size check between transaction](https://github.com/besu-eth/besu/pull/10621#pullrequestreview-4467473064) - 2026-06-10
+* [Commit] [Optmize memory usage of the bal parallel execution  (#10606)](https://github.com/besu-eth/besu/commit/cafab8033f8dff271edc53392d872f7821552151) - 2026-06-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

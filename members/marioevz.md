@@ -100,6 +100,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): EIP-8037 reject when calldata_floor > TX_MAX_GAS_LIMIT](https://github.com/ethereum/execution-specs/pull/2898#pullrequestreview-4462249850) - 2026-06-09
 * [Review] [Review on: refactor(tests): encode z, y as big-endian in test_point_eval_gas](https://github.com/ethereum/execution-specs/pull/2960#pullrequestreview-4462116191) - 2026-06-09
 * [Review] [Review on: chore(tests): remove duplicate `tstore` tests](https://github.com/ethereum/execution-specs/pull/2966#pullrequestreview-4459377896) - 2026-06-09
+* [Review] [Review on: feat(github): add devnet test release tracker issue template](https://github.com/ethereum/execution-specs/pull/2899#pullrequestreview-4470189586) - 2026-06-10
+* [Review] [Review on: feat(consume): send slot_number in build-block payload attributes](https://github.com/ethereum/execution-specs/pull/2974#pullrequestreview-4469867534) - 2026-06-10
+* [Review] [Review on: refactor(tests): remove dead static-filler infrastructure](https://github.com/ethereum/execution-specs/pull/2950#pullrequestreview-4470096877) - 2026-06-10
+* [Review] [Review on: ✨ feat(test):  EIP-7928 Selfdestruct a dirty account](https://github.com/ethereum/execution-specs/pull/2967#pullrequestreview-4469895526) - 2026-06-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

@@ -107,6 +107,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Support custom config when running gossip ref tests](https://github.com/Consensys/teku/pull/10802) - 2026-06-08
 * [Commit] [Support custom config when running gossip ref tests (#10802)](https://github.com/Consensys/teku/commit/e7c4d930d0b7ec905f9a54aa62801b6d9ce64882) - 2026-06-08
 * [Review] [Review on: reference test shard sort and fix config loading](https://github.com/Consensys/teku/pull/10810#pullrequestreview-4457417624) - 2026-06-09
+* [Pull Request] [Upgrade jvm-libp2p to 1.3.2](https://github.com/Consensys/teku/pull/10817) - 2026-06-10
+* [Commit] [`ExecutionPayloadManager` simplification (#10787)](https://github.com/Consensys/teku/commit/cb53e889cff1dec3a58eb51b1acf7584e245784e) - 2026-06-10
+* [Commit] [Upgrade jvm-libp2p to 1.3.2 (#10817)](https://github.com/Consensys/teku/commit/59dea781ecbe96570966df80c52f74a8f31882b8) - 2026-06-10
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22
@@ -122,6 +125,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Release 1.3.1](https://github.com/libp2p/jvm-libp2p/pull/483#pullrequestreview-4426150380) - 2026-06-04
 * [Review] [Review on: 1.3.1 Release](https://github.com/libp2p/jvm-libp2p/pull/482#pullrequestreview-4425849241) - 2026-06-04
 * [Pull Request] [Improve yamux write backpressure](https://github.com/libp2p/jvm-libp2p/pull/486) - 2026-06-05
+* [Pull Request] [Release 1.3.2](https://github.com/libp2p/jvm-libp2p/pull/488) - 2026-06-10
+* [Review] [Review on: fix(quic): dial from ephemeral port instead of reusing listener port](https://github.com/libp2p/jvm-libp2p/pull/487#pullrequestreview-4465554257) - 2026-06-10
 ## Q1 2026
 
 

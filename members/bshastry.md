@@ -15,6 +15,7 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 * [Pull Request] [test(tests-eip-8024): end-of-code stack underflow regression](https://github.com/ethereum/execution-specs/pull/2741) - 2026-04-21
 
 * [Pull Request] [fix(tests): EIP-8037 unmask intrinsic-cap transaction-validity checks](https://github.com/ethereum/execution-specs/pull/2956) - 2026-06-04
+* [Commit] [fix(tests): EIP-8037 unmask intrinsic-cap transaction-validity checks (#2956)](https://github.com/ethereum/execution-specs/commit/55ee6b16fafdcb50b41625255386d388ffd6af9e) - 2026-06-10
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [ci: add fork-author guard to evm-opcode-benchmark-diff workflow](https://github.com/NethermindEth/nethermind/pull/11576) - 2026-05-12
 * [Commit] [ci: add fork-author guard to evm-opcode-benchmark-diff workflow (#11576)](https://github.com/NethermindEth/nethermind/commit/4c8b45d3bf247f0f40c961b9b5d33e3cb4aeb9a2) - 2026-05-12

@@ -58,6 +58,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Skip producing block with local payload unavailable](https://github.com/grandinetech/grandine/pull/744) - 2026-06-09
 * [Issue] [[Bug] Produce default signed payload bid when EL unavailable](https://github.com/grandinetech/grandine/issues/743) - 2026-06-09
 * [Issue] [[Bug] Reject payload attestation for two competing blocks at the same slot](https://github.com/grandinetech/grandine/issues/742) - 2026-06-09
+* [Review] [Review on: Introduce `is_previous_slot_payload_decision` predicate](https://github.com/grandinetech/grandine/pull/748#pullrequestreview-4468607974) - 2026-06-10
+* [Pull Request] [Use block state in payload attestation validation](https://github.com/grandinetech/grandine/pull/746) - 2026-06-10
+* [Issue] [[Bug] Follow malicious node to reorg timely payload and build on empty](https://github.com/grandinetech/grandine/issues/745) - 2026-06-10
 ## Q1 2026
 
 

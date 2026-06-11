@@ -664,6 +664,30 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Caplin GLOAS fork choice: maintain per-node weights via delta propagation instead of a per-attestation vote index](https://github.com/erigontech/erigon/issues/21704) - 2026-06-09
 * [Commit] [docs/site, tracetest: fix Dependabot npm alerts (uuid, ws) (#21691)](https://github.com/erigontech/erigon/commit/98508bf433490c4785b0b955df93166d3375f939) - 2026-06-09
 * [Commit] [db/downloader: lock torrentsByName read in allActiveSnapshots (#21696)](https://github.com/erigontech/erigon/commit/1cd6ab97fd563461182e8dcfe9ae9aa25bffd765) - 2026-06-09
+* [Pull Request] [[r3.5] commitment: fix warmuper arena data race in HashSort](https://github.com/erigontech/erigon/pull/21721) - 2026-06-10
+* [Pull Request] [node, cmd: remove dead geth-forked httpServer](https://github.com/erigontech/erigon/pull/21724) - 2026-06-10
+* [Review] [Review on: node, cmd: remove dead geth-forked httpServer](https://github.com/erigontech/erigon/pull/21724#pullrequestreview-4467518517) - 2026-06-10
+* [Pull Request] [ci: retry Docker Buildx setup on transient failure](https://github.com/erigontech/erigon/pull/21735) - 2026-06-10
+* [Review] [Review on: docs: set mobile browser theme-color to Erigon orange](https://github.com/erigontech/erigon/pull/21713#pullrequestreview-4467203221) - 2026-06-10
+* [Pull Request] [ci: cache kurtosis engine-bootstrap images (curl-jq, traefik, alpine)](https://github.com/erigontech/erigon/pull/21723) - 2026-06-10
+* [Review] [Review on: ci: cache kurtosis engine-bootstrap images (curl-jq, traefik, alpine)](https://github.com/erigontech/erigon/pull/21723#pullrequestreview-4467578390) - 2026-06-10
+* [Pull Request] [execution/stagedsync: preserve real error through ErrExecAbortError wrap](https://github.com/erigontech/erigon/pull/21732) - 2026-06-10
+* [Review] [Review on: execution/stagedsync: cancel executor on first ErrWrongTrieRoot](https://github.com/erigontech/erigon/pull/21731#pullrequestreview-4468549591) - 2026-06-10
+* [Pull Request] [engineapi: switch Engine API SSZ to execution-apis#793](https://github.com/erigontech/erigon/pull/21729) - 2026-06-10
+* [Pull Request] [[r3.5] fix: PoS dev mode — enable Fusaka (Fulu CL + Osaka EL) block production](https://github.com/erigontech/erigon/pull/21728) - 2026-06-10
+* [Review] [Review on: fix: PoS dev mode — enable Fusaka (Fulu CL + Osaka EL) block production](https://github.com/erigontech/erigon/pull/21646#pullrequestreview-4467133066) - 2026-06-10
+* [Review] [Review on: cl, execution: glamsterdam devnet-5 fixes](https://github.com/erigontech/erigon/pull/21655#pullrequestreview-4467372120) - 2026-06-10
+* [Review] [Review on: execution/stagedsync: recover CodePath alongside CodeHashPath in parallel normalizeWriteSet](https://github.com/erigontech/erigon/pull/21706#pullrequestreview-4466924281) - 2026-06-10
+* [Review] [Review on: [r3.5] db/version, cl, build: advertise a correct node version, fix misleading GitTag](https://github.com/erigontech/erigon/pull/21708#pullrequestreview-4467171964) - 2026-06-10
+* [Review] [Review on: cl, sentinel: quiet data column sidecar misses](https://github.com/erigontech/erigon/pull/21686#pullrequestreview-4467143971) - 2026-06-10
+* [Review] [Review on: cl/beacon: include finalized in headers list](https://github.com/erigontech/erigon/pull/21645#pullrequestreview-4466684239) - 2026-06-10
+* [Review] [Review on: db/version, cl, build: advertise a correct node version, fix misleading GitTag](https://github.com/erigontech/erigon/pull/21707#pullrequestreview-4465624119) - 2026-06-10
+* [Issue] [[r3.5] Wrong trie root on Chiado re-exec from 0](https://github.com/erigontech/erigon/issues/21712) - 2026-06-10
+* [Issue] [Implement glamsterdam-devnet-7](https://github.com/erigontech/erigon/issues/21717) - 2026-06-10
+* [Commit] [node, cmd: remove dead geth-forked httpServer (#21724)](https://github.com/erigontech/erigon/commit/1811aa06ae981f447064704c9d112702b6a3aeda) - 2026-06-10
+* [Commit] [ci: retry Docker Buildx setup on transient failure (#21735)](https://github.com/erigontech/erigon/commit/5a7c7adf2ed18f488f4764c7903ef58974f69c26) - 2026-06-10
+* [Commit] [ci: cache kurtosis engine-bootstrap images (curl-jq, traefik, alpine) (#21723)](https://github.com/erigontech/erigon/commit/cfd0de5bcaec9c77e623d3e5d32f3007e5add5c3) - 2026-06-10
+* [Commit] [execution/stagedsync: preserve real error through ErrExecAbortError wrap (#21732)](https://github.com/erigontech/erigon/commit/9ff35bd613a3f144ac33525c101c6c2e1f8e6126) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

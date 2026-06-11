@@ -25,6 +25,7 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Review] [Review on: [wip] p2p/sentry: fix shared PeerStore version filter in findBestPeers, findPeerByMinBlock, PeerEvents](https://github.com/erigontech/erigon/pull/21394#pullrequestreview-4354250776) - 2026-05-25
 * [Review] [Review on: grwoslice: use `slices.Grow` instead of hand-rolled grow funcs](https://github.com/erigontech/erigon/pull/21467#pullrequestreview-4378549045) - 2026-05-28
 * [Review] [Review on: p2p/discover: waitForNodes hangs on RespCount=0 from peer](https://github.com/erigontech/erigon/pull/21457#pullrequestreview-4378567936) - 2026-05-28
+* [Review] [Review on: node, cmd: remove dead geth-forked httpServer](https://github.com/erigontech/erigon/pull/21724#pullrequestreview-4471888186) - 2026-06-10
 ## Q1 2026
 
 

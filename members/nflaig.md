@@ -342,6 +342,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: ensure block in forkchoice before validate by_root payload](https://github.com/ChainSafe/lodestar/pull/9479#pullrequestreview-4457028941) - 2026-06-09
 * [Review] [Review on: fix: remove TOO_MANY_SKIPPED_SLOTS block error](https://github.com/ChainSafe/lodestar/pull/9484#pullrequestreview-4457210612) - 2026-06-09
 * [Commit] [chore: remove resolved todo about queuing payload envelopes (#9474)](https://github.com/ChainSafe/lodestar/commit/1b4e24f1ee050b326d739866209ed72a0284592a) - 2026-06-09
+* [Review] [Review on: chore: stabilize fastConfirmation perf bench](https://github.com/ChainSafe/lodestar/pull/9494#pullrequestreview-4468856207) - 2026-06-10
+* [Commit] [chore: remove stale gloas todo about different state variants (#9485)](https://github.com/ChainSafe/lodestar/commit/81888bf19998cd19cf8ffe9a926c5449248bfaa7) - 2026-06-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -449,6 +451,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: chore: pluralize gloas execution payload endpoint paths](https://github.com/OffchainLabs/prysm/pull/16902#pullrequestreview-4436202122) - 2026-06-05
 * [Review] [Review on: Add forkchoice unit test](https://github.com/OffchainLabs/prysm/pull/16932#pullrequestreview-4459168553) - 2026-06-09
+* [Review] [Review on: Only send PTC attestations on canonical shuffling](https://github.com/OffchainLabs/prysm/pull/16946#pullrequestreview-4472521519) - 2026-06-10
 ## Q1 2026
 
 

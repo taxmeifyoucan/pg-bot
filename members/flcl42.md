@@ -198,6 +198,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf(bls): reduce allocations and wasted clears in G2MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11891#pullrequestreview-4456603146) - 2026-06-09
 * [Review] [Review on: perf(bls): reduce allocations and wasted clears in G1MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11889#pullrequestreview-4456381214) - 2026-06-09
 * [Review] [Review on: perf(evm): avoid per-CREATE RlpStream allocation in contract-address derivation](https://github.com/NethermindEth/nethermind/pull/11892#pullrequestreview-4457584620) - 2026-06-09
+* [Pull Request] [Speed up a bit fixed-length hex decoding](https://github.com/NethermindEth/nethermind/pull/11956) - 2026-06-10
+* [Review] [Review on: Speed up a bit fixed-length hex decoding](https://github.com/NethermindEth/nethermind/pull/11956#pullrequestreview-4469221323) - 2026-06-10
+* [Review] [Review on: Fix BALs network encoding](https://github.com/NethermindEth/nethermind/pull/11950#pullrequestreview-4467100280) - 2026-06-10
+* [Review] [Review on: Increase RLP block withdrawals limit to 64k](https://github.com/NethermindEth/nethermind/pull/11955#pullrequestreview-4466830835) - 2026-06-10
+* [Review] [Review on: chore: Update packages](https://github.com/NethermindEth/nethermind/pull/11951#pullrequestreview-4465206742) - 2026-06-10
+* [Commit] [Speed up a bit fixed-length hex decoding + equal to assertions (#11956)](https://github.com/NethermindEth/nethermind/commit/11e0a528c381cd18915b6bfcca4b2a2498073116) - 2026-06-10
+* [Commit] [Fix BALs network encoding (#11950)](https://github.com/NethermindEth/nethermind/commit/964fe5159ecb44bf4db268a4ccf36838caacac55) - 2026-06-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

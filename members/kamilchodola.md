@@ -91,6 +91,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(bls): reduce allocations and wasted clears in G1MSM point decoding (#11889)](https://github.com/NethermindEth/nethermind/commit/284d570887235ec82a46cafb90fbf118e8d4834e) - 2026-06-09
 * [Commit] [perf(evm): avoid per-CREATE RlpStream allocation in contract-address derivation (#11892)](https://github.com/NethermindEth/nethermind/commit/9705b26c08077b43f7eba8440d14b1b58d5f4559) - 2026-06-09
 * [Commit] [Optimize BN254 multi-pair pairing checks (#11916)](https://github.com/NethermindEth/nethermind/commit/5a794341bcb1b98a523862071a693a7728f6e119) - 2026-06-09
+* [Review] [Review on: perf(state): make BAL read warming survive, scale, and stick (~5x on storage-read-heavy blocks)](https://github.com/NethermindEth/nethermind/pull/11954#pullrequestreview-4467224172) - 2026-06-10
+* [Pull Request] [Add RPC benchmarking workflow (flood / EthCallChaos / dotTrace) on the reproducible-benchmarks runner](https://github.com/NethermindEth/nethermind/pull/11961) - 2026-06-10
+* [Pull Request] [feat(FlatDB): add CompactionOffset config to pin the compaction schedule](https://github.com/NethermindEth/nethermind/pull/11958) - 2026-06-10
+* [Review] [Review on: Increase RLP block withdrawals limit to 64k](https://github.com/NethermindEth/nethermind/pull/11955#pullrequestreview-4466779050) - 2026-06-10
+* [Commit] [feat(FlatDB): add CompactionOffset config to pin the compaction schedule (#11958)](https://github.com/NethermindEth/nethermind/commit/cee57e55dfbdb654ca2881a4b041941d02d1145d) - 2026-06-10
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02
@@ -136,6 +141,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(workflows): add jochemnet support to repricing-nethermind](https://github.com/NethermindEth/gas-benchmarks/pull/152) - 2026-05-29
 * [Commit] [feat(workflows): add jochemnet support to repricing-nethermind (#152)](https://github.com/NethermindEth/gas-benchmarks/commit/156689d5fd9b87590f542abb4957d094f7e7373a) - 2026-05-29
 * [Pull Request] [fix: restore perf-devnet-3 genesis content (stranded LFS pointer)](https://github.com/NethermindEth/gas-benchmarks/pull/154) - 2026-06-10
+* [Pull Request] [feat: add 'chain' input to run clients on embedded configs](https://github.com/NethermindEth/gas-benchmarks/pull/155) - 2026-06-10
+* [Commit] [feat: add 'chain' input to run clients on embedded configs (#155)](https://github.com/NethermindEth/gas-benchmarks/commit/f01c6b306e12b875189574c170808c4073f4496f) - 2026-06-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Remove unused bloatnet factory entries from mainnet stubs](https://github.com/ethereum/execution-specs/pull/2670) - 2026-04-13
 * [Commit] [refactor(test-benchmark): remove unused bloatnet factory entries from mainnet stubs (#2670)](https://github.com/ethereum/execution-specs/commit/a830dab6f130151ab9023a473b7543120aa21961) - 2026-04-14

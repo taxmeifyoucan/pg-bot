@@ -285,6 +285,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [ci: retry kurtosis erigon image build on transient registry/cache failures](https://github.com/erigontech/erigon/pull/21693) - 2026-06-09
 * [Commit] [execution/p2p: log peer penalization on bad BAL response (#21702)](https://github.com/erigontech/erigon/commit/f87ee800adca45f2f8bae87c6987f533741872f0) - 2026-06-09
 * [Commit] [ci: retry kurtosis erigon image build on transient registry/cache failures (#21693)](https://github.com/erigontech/erigon/commit/bee49cb072efa5f960f0c6ef785cb6a4f67d64dd) - 2026-06-09
+* [Pull Request] [ci: cache buildkit image so buildx setup survives Docker Hub outages](https://github.com/erigontech/erigon/pull/21741) - 2026-06-11
+* [Review] [Review on: [main] db: commitment domain to take existance filter to RAM](https://github.com/erigontech/erigon/pull/21738#pullrequestreview-4473271856) - 2026-06-11
+* [Review] [Review on: [3.6] db: commitment domain to take existance filter to RAM](https://github.com/erigontech/erigon/pull/21740#pullrequestreview-4473269725) - 2026-06-11
+* [Review] [Review on: ci: cache kurtosis engine-bootstrap images (curl-jq, traefik, alpine)](https://github.com/erigontech/erigon/pull/21723#pullrequestreview-4467608653) - 2026-06-10
+* [Review] [Review on: commitment: de-flake Test_Trie_CorrectSwitchForConcurrentAndSequential](https://github.com/erigontech/erigon/pull/21720#pullrequestreview-4466849365) - 2026-06-10
+* [Issue] [[flaky] Test_Trie_CorrectSwitchForConcurrentAndSequential](https://github.com/erigontech/erigon/issues/21715) - 2026-06-10
+* [Commit] [ci: fix Go cache namespace so warming reaches gate runs, collapse eest-spec keys (#21711)](https://github.com/erigontech/erigon/commit/fde3889ea01546a37053a1a53dd224bfa6c6ce6d) - 2026-06-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

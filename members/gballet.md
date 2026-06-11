@@ -74,6 +74,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [eth: fix borked test introduced in merging #33347](https://github.com/ethereum/go-ethereum/pull/35130) - 2026-06-09
 * [Review] [Review on: eth: add debug_clearTxpool api](https://github.com/ethereum/go-ethereum/pull/33347#pullrequestreview-4458573629) - 2026-06-09
 * [Commit] [eth: fix borked test introduced in merging #33347 (#35130)](https://github.com/ethereum/go-ethereum/commit/43b7b4e8d9f9c8bf74d27bc6b13cb6c90a6128f8) - 2026-06-09
+* [Commit] [all: fix all typos, as reported by crates-ci/typos (#35008)](https://github.com/ethereum/go-ethereum/commit/39b17c5585a8a0668f61ebef67d191981a821f49) - 2026-06-10
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Review] [Review on: cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575#pullrequestreview-4195917013) - 2026-04-29
 

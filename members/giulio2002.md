@@ -125,6 +125,7 @@ Team: Erigon
 * [Review] [Review on: docs/site, tracetest: fix Dependabot npm alerts (uuid, ws)](https://github.com/erigontech/erigon/pull/21691#pullrequestreview-4457559439) - 2026-06-09
 * [Review] [Review on: [r3.5] db/downloader: lock torrentsByName read in allActiveSnapshots](https://github.com/erigontech/erigon/pull/21700#pullrequestreview-4459393184) - 2026-06-09
 * [Review] [Review on: execution: share prune timeout budget](https://github.com/erigontech/erigon/pull/20860#pullrequestreview-4459394545) - 2026-06-09
+* [Review] [Review on: [3.6] db: commitment domain to take existance filter to RAM](https://github.com/erigontech/erigon/pull/21740#pullrequestreview-4473132558) - 2026-06-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

@@ -41,6 +41,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [[codex] fix security alerts](https://github.com/ethpandaops/dora/pull/706) - 2026-05-20
 * [Review] [Review on: close IN() paren in GetMevBlocksByBlockHashes](https://github.com/ethpandaops/dora/pull/725#pullrequestreview-4435322568) - 2026-06-05
 * [Pull Request] [[codex] safe network overview](https://github.com/ethpandaops/dora/pull/737) - 2026-06-09
+* [Commit] [Merge pull request #737 from ethpandaops/codex/safe-network-overview](https://github.com/ethpandaops/dora/commit/8b92c7240236d5081df81a29d0eed8abfa75985f) - 2026-06-10
+* [Commit] [address review: drop redundant nil checks, merge buildSafeNetworkOverview into buildNetworkOverviewData](https://github.com/ethpandaops/dora/commit/673d240bc917e8208f415d004a0431618b70b0d2) - 2026-06-10
 [ethpandaops/cartographoor](https://github.com/ethpandaops/cartographoor)
 * [Pull Request] [feat(config.production.yaml): add ethpandaops/glamsterdam-devnets repository to discovery](https://github.com/ethpandaops/cartographoor/pull/90) - 2026-04-29
 * [Commit] [fix(config.production.yaml): reuse bal.jpg image for glamsterdam-devnets](https://github.com/ethpandaops/cartographoor/commit/619e4c46218ec206340ccafd0bda95a7ae573577) - 2026-04-29

@@ -156,6 +156,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: remove TOO_MANY_SKIPPED_SLOTS block error](https://github.com/ChainSafe/lodestar/pull/9484#pullrequestreview-4456542443) - 2026-06-09
 * [Review] [Review on: chore: track payload timing on dashboard](https://github.com/ChainSafe/lodestar/pull/9482#pullrequestreview-4456215544) - 2026-06-09
 * [Commit] [chore: update gossipsub to v16.0.2 (#9487)](https://github.com/ChainSafe/lodestar/commit/8d5a6a4fc1d2c362902db875758df19c7970cf93) - 2026-06-09
+* [Review] [Review on: chore: remove stale gloas todo about different state variants](https://github.com/ChainSafe/lodestar/pull/9485#pullrequestreview-4469344249) - 2026-06-10
+* [Review] [Review on: test: catch StreamResetError in sendData noise bench](https://github.com/ChainSafe/lodestar/pull/9497#pullrequestreview-4469336896) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

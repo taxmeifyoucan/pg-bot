@@ -204,6 +204,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: send payload attestations as soon as the payload envelope is received](https://github.com/status-im/nimbus-eth2/pull/8558#pullrequestreview-4446731612) - 2026-06-08
 * [Review] [Review on: add epbs fork-choice handlers into get_head and gossip](https://github.com/status-im/nimbus-eth2/pull/8572#pullrequestreview-4463845063) - 2026-06-10
 * [Review] [Review on: Fix incorrect ERA files check.](https://github.com/status-im/nimbus-eth2/pull/8575#pullrequestreview-4458508525) - 2026-06-09
+* [Review] [Review on: Reconstruction backfiller service](https://github.com/status-im/nimbus-eth2/pull/8533#pullrequestreview-4464427539) - 2026-06-10
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

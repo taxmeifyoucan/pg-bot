@@ -61,6 +61,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [txframe blobify and persist (#4220)](https://github.com/status-im/nimbus-eth1/commit/53482b4883c15b88f8f37862ad11b5a7b210c9a3) - 2026-05-22
 * [Pull Request] [sync to block head with unknown header](https://github.com/status-im/nimbus-eth1/pull/4315) - 2026-06-09
 * [Review] [Review on: sync to block head with unknown header](https://github.com/status-im/nimbus-eth1/pull/4315#pullrequestreview-4457417552) - 2026-06-09
+* [Commit] [sync to block head with unknown header (#4315)](https://github.com/status-im/nimbus-eth1/commit/5bc71a3bc10b486ac8ecf0d4185cfef0789dac0c) - 2026-06-11
 ## Q1 2026
 
 

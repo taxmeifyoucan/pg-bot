@@ -88,6 +88,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Updated jvm-libp2p to 1.3.1](https://github.com/Consensys/teku/pull/10792#pullrequestreview-4431971503) - 2026-06-04
 * [Pull Request] [Add experimental QUIC transport support](https://github.com/Consensys/teku/pull/10805) - 2026-06-08
 * [Review] [Review on: Avoid recursive data column sidecar range sends](https://github.com/Consensys/teku/pull/10808#pullrequestreview-4463822486) - 2026-06-10
+* [Review] [Review on: Add experimental QUIC transport support](https://github.com/Consensys/teku/pull/10805#pullrequestreview-4464572112) - 2026-06-10
+* [Review] [Review on: Upgrade jvm-libp2p to 1.3.2](https://github.com/Consensys/teku/pull/10817#pullrequestreview-4466854497) - 2026-06-10
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
@@ -144,6 +146,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Release 1.3.1](https://github.com/libp2p/jvm-libp2p/pull/485) - 2026-06-04
 * [Pull Request] [Release 1.3.1](https://github.com/libp2p/jvm-libp2p/pull/484) - 2026-06-04
 * [Pull Request] [Release 1.3.1](https://github.com/libp2p/jvm-libp2p/pull/483) - 2026-06-04
+* [Review] [Review on: Release 1.3.2](https://github.com/libp2p/jvm-libp2p/pull/488#pullrequestreview-4466622950) - 2026-06-10
+* [Pull Request] [fix(quic): dial from ephemeral port instead of reusing listener port](https://github.com/libp2p/jvm-libp2p/pull/487) - 2026-06-10
+* [Commit] [Merge pull request #487 from lucassaldanha/fix-quic-dialing](https://github.com/libp2p/jvm-libp2p/commit/edeeae5a6f09f5fc6bcca8841573cd0e515353a4) - 2026-06-10
+* [Commit] [fix(quic): dial from ephemeral port instead of reusing listener port](https://github.com/libp2p/jvm-libp2p/commit/976fbb040717c3402bc424cd21735720025a1955) - 2026-06-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

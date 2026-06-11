@@ -121,6 +121,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(spec-tool): enforce `@final` on leaf dataclasses](https://github.com/ethereum/execution-specs/pull/2965) - 2026-06-09
 * [Review] [Review on: chore(specs): add final decorator](https://github.com/ethereum/execution-specs/pull/2934#pullrequestreview-4456220694) - 2026-06-09
 * [Commit] [feat(spec-tool): enforce `@final` on leaf dataclasses](https://github.com/ethereum/execution-specs/commit/b40f81592bfc6f624e5f9dde8c2a54f8be678888) - 2026-06-09
+* [Pull Request] [feat(ci): deploy default branch docs at /docs/execution-specs/](https://github.com/ethereum/execution-specs/pull/2973) - 2026-06-10
+* [Pull Request] [feat(spec-specs, tests): initial implementation of EIP-8038 state-access gas cost update](https://github.com/ethereum/execution-specs/pull/2972) - 2026-06-10
+* [Pull Request] [refactor(spec-specs): remove unused regular gas constants in amsterdam](https://github.com/ethereum/execution-specs/pull/2971) - 2026-06-10
+* [Review] [Review on: refactor(tests): sort refund types for deterministic fixture output](https://github.com/ethereum/execution-specs/pull/2970#pullrequestreview-4466529246) - 2026-06-10
+* [Commit] [refactor(specs): remove unused regular gas constants in amsterdam (#2971)](https://github.com/ethereum/execution-specs/commit/5f132e7c73c01be23b83688ad6d4ba66646e1cd2) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 
@@ -129,6 +134,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 * [Issue] [All Core Devs - Testing (ACDT) #80, May 18, 2026](https://github.com/ethereum/pm/issues/2049) - 2026-05-11
 * [Issue] [All Core Devs - Testing (ACDT) #81, June 1, 2026](https://github.com/ethereum/pm/issues/2085) - 2026-05-27
+* [Issue] [All Core Devs - Testing (ACDT) #83, June 15, 2026](https://github.com/ethereum/pm/issues/2116) - 2026-06-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add missing 7708 log costs](https://github.com/ethereum/EIPs/pull/11586) - 2026-04-30
 

@@ -28,6 +28,7 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Review] [Review on: chore(workflows): phased PR gating and path-based test selection](https://github.com/NethermindEth/nethermind/pull/11823#pullrequestreview-4384135045) - 2026-05-28
 * [Pull Request] [fix(workflows): update hive tests workflow to support release branches and enhance input descriptions](https://github.com/NethermindEth/nethermind/pull/11877) - 2026-06-01
 * [Review] [Review on: fix(workflows): update hive tests workflow to support release branches and enhance input descriptions](https://github.com/NethermindEth/nethermind/pull/11877#pullrequestreview-4404334657) - 2026-06-01
+* [Review] [Review on: Fix EngineApiProxy rejecting its own blocks: forward EIP-7685 executionRequests in synthetic newPayload](https://github.com/NethermindEth/nethermind/pull/11960#pullrequestreview-4471192049) - 2026-06-10
 ## Q1 2026
 
 

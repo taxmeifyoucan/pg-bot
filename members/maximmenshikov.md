@@ -92,6 +92,13 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Component: rhp: move RhpNewFast wrapper into pal bump allocator](https://github.com/NethermindEth/bflat-riscv64/commit/8ecc6ccda5e641f3bbbf6759fc1b7f4af5b820f5) - 2026-06-04
 * [Commit] [Component: pal: add tight RhpNewFast fast-path allocator](https://github.com/NethermindEth/bflat-riscv64/commit/8331449da175446b90997f3efa2fec0b8c5799df) - 2026-06-04
 * [Commit] [Component: bflat: bump runtime/blobs version to 10.0.0.b23](https://github.com/NethermindEth/bflat-riscv64/commit/e93c4cf98340b08931e1535d7d2887bd11ef91dc) - 2026-06-04
+* [Pull Request] [Feature/custom handler](https://github.com/NethermindEth/bflat-riscv64/pull/29) - 2026-06-10
+* [Commit] [Component: ExceptionHandler sample: route managed throw into C# handler](https://github.com/NethermindEth/bflat-riscv64/commit/b2958814fb0cdde50eaed280043706467f6d6a4a) - 2026-06-10
+* [Commit] [RhpModule: wrap reverse P/Invoke entrypoints](https://github.com/NethermindEth/bflat-riscv64/commit/faf39a6c3bfacc9e9cbd72cd25a9ff0b680dbda8) - 2026-06-10
+* [Commit] [rhp: route managed exceptions through optional ZkvmThrow handler](https://github.com/NethermindEth/bflat-riscv64/commit/9d111500851f280cb610a8d000e2f3a432497118) - 2026-06-10
+* [Commit] [Component: PAL: wrap exit/_Exit/abort musl symbols](https://github.com/NethermindEth/bflat-riscv64/commit/6a2f47334014bef23e95e3e02eb15ff986250b37) - 2026-06-10
+* [Commit] [PAL: redirect musl exit/abort to ZisK exit ecall](https://github.com/NethermindEth/bflat-riscv64/commit/a1fd235acbd355ae5c6c648dc78792a0005aedcc) - 2026-06-10
+* [Commit] [Component: bflat: redirect exit/abort and disable reverse P/Invoke for zkVM](https://github.com/NethermindEth/bflat-riscv64/commit/fb0d3a271f208ea4d760cd0d0f93105a94f82c18) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098665024) - 2026-04-13
 

@@ -18,6 +18,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(beacon-api): expose peer-scoring fields on /eth/v1/node/peers](https://github.com/ChainSafe/lodestar/pull/9373) - 2026-05-15
 * [Pull Request] [fix: include ethrex EX client code and restore CL commit suffix in gloas graffiti](https://github.com/ChainSafe/lodestar/pull/9381) - 2026-05-19
 * [Commit] [fix: include ethrex EX client code and restore CL commit suffix in gloas graffiti (#9381)](https://github.com/ChainSafe/lodestar/commit/4fe6b362c9b3dc418554f557b25a4f29b4741679) - 2026-05-20
+* [Pull Request] [fix: share in-flight payload envelope import promise to prevent sync spin loop](https://github.com/ChainSafe/lodestar/pull/9501) - 2026-06-10
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [Fix nil pointer panic in beacon event stream](https://github.com/ethpandaops/dora/pull/624) - 2026-04-01
 
@@ -213,6 +214,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: improve debug page performance by showing db size estimates](https://github.com/ethpandaops/dora/pull/732#pullrequestreview-4459991452) - 2026-06-09
 * [Review] [Review on: fix loading blocks from blockdb](https://github.com/ethpandaops/dora/pull/736#pullrequestreview-4458834327) - 2026-06-09
 * [Review] [Review on: fix loading blocks from blockdb](https://github.com/ethpandaops/dora/pull/735#pullrequestreview-4458607657) - 2026-06-09
+* [Pull Request] [Show revert reason tooltip on failed tx badge in slot view](https://github.com/ethpandaops/dora/pull/739) - 2026-06-10
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -298,6 +300,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: Add EIP: Cap Deposit Requests Per Block](https://github.com/ethereum/EIPs/pull/11607#pullrequestreview-4343730850) - 2026-05-22
 * [Commit] [Add EIP: Cap Deposit Requests Per Block](https://github.com/ethereum/EIPs/commit/bf7d500bab49d007a8248eb77fd48136d045b7c8) - 2026-05-22
 * [Commit] [Add EIP: Gas Limit Schedule](https://github.com/ethereum/EIPs/commit/c22b578a3ae59a1ab5efcb62d0b5a6dd1203d778) - 2026-05-22
+* [Pull Request] [Update EIP-7773: Add EIP-8189 to Glamsterdam CFI networking EIPs](https://github.com/ethereum/EIPs/pull/11792) - 2026-06-10
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [ci: bump pinned GitHub Actions to latest](https://github.com/ethpandaops/template-devnets/pull/158) - 2026-04-14
 * [Commit] [ci: bump pinned GitHub Actions to latest (#158)](https://github.com/ethpandaops/template-devnets/commit/254b32c9621944012d978017e59489c3eb70db78) - 2026-04-14

@@ -271,6 +271,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(evm): avoid per-CREATE RlpStream allocation in contract-address derivation](https://github.com/NethermindEth/nethermind/pull/11892#pullrequestreview-4456206286) - 2026-06-09
 * [Review] [Review on: test: bump timeouts on two flaky timing-bounded tests](https://github.com/NethermindEth/nethermind/pull/11933#pullrequestreview-4455991699) - 2026-06-09
 * [Commit] [fix(FlatDB): prune orphaned non-canonical snapshots on persist (#11739)](https://github.com/NethermindEth/nethermind/commit/712698533c1ea51cd31b68134ca0735829eff49d) - 2026-06-09
+* [Review] [Review on: perf(flat): decouple RocksDB write-buffer floor from CompactSize](https://github.com/NethermindEth/nethermind/pull/11936#pullrequestreview-4465940288) - 2026-06-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

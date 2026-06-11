@@ -88,6 +88,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: perf(bls): reduce allocations and wasted clears in G1MSM point decoding](https://github.com/NethermindEth/nethermind/pull/11889#pullrequestreview-4457483246) - 2026-06-09
 * [Review] [Review on: perf(evm): avoid per-CREATE RlpStream allocation in contract-address derivation](https://github.com/NethermindEth/nethermind/pull/11892#pullrequestreview-4457540463) - 2026-06-09
 * [Review] [Review on: fix: block history pruning getting stuck](https://github.com/NethermindEth/nethermind/pull/10123#pullrequestreview-4457624717) - 2026-06-09
+* [Pull Request] [feat: implement EIP-8038 (State-access Gas Cost Update)](https://github.com/NethermindEth/nethermind/pull/11959) - 2026-06-10
+* [Review] [Review on: Fix BALs network encoding](https://github.com/NethermindEth/nethermind/pull/11950#pullrequestreview-4467527395) - 2026-06-10
 ## Q1 2026
 
 
