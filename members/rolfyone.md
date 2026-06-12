@@ -126,6 +126,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on:  Avoid redundant RPC fetches for data column sidecars](https://github.com/Consensys/teku/pull/10789#pullrequestreview-4466530502) - 2026-06-10
 * [Review] [Review on: Added compatibility for 26.4 rocksdb](https://github.com/Consensys/teku/pull/10806#pullrequestreview-4464541826) - 2026-06-10
 * [Commit] [Added compatibility for 26.4 rocksdb (#10806)](https://github.com/Consensys/teku/commit/e656a3278b852e1986b2b6ff6d3b48275624457a) - 2026-06-10
+* [Review] [Review on: Add experimental QUIC transport support](https://github.com/Consensys/teku/pull/10805#pullrequestreview-4473629422) - 2026-06-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

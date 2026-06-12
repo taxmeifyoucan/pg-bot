@@ -292,9 +292,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: commitment: de-flake Test_Trie_CorrectSwitchForConcurrentAndSequential](https://github.com/erigontech/erigon/pull/21720#pullrequestreview-4466849365) - 2026-06-10
 * [Issue] [[flaky] Test_Trie_CorrectSwitchForConcurrentAndSequential](https://github.com/erigontech/erigon/issues/21715) - 2026-06-10
 * [Commit] [ci: fix Go cache namespace so warming reaches gate runs, collapse eest-spec keys (#21711)](https://github.com/erigontech/erigon/commit/fde3889ea01546a37053a1a53dd224bfa6c6ce6d) - 2026-06-10
+* [Review] [Review on: [r3.5] fix: PoS dev mode — enable Fusaka (Fulu CL + Osaka EL) block production](https://github.com/erigontech/erigon/pull/21728#pullrequestreview-4481823296) - 2026-06-12
+* [Review] [Review on: [r3.5] domain: existance filter madvise require page-aligned byte slice](https://github.com/erigontech/erigon/pull/21753#pullrequestreview-4481809211) - 2026-06-12
+* [Review] [Review on: [wip] domain existance filter: switch to ShardedFuse by default ](https://github.com/erigontech/erigon/pull/21746#pullrequestreview-4481801008) - 2026-06-12
+* [Pull Request] [[WIP] execution: update eest devnet fixtures to tests-bal@v7.3.0](https://github.com/erigontech/erigon/pull/21751) - 2026-06-11
+* [Pull Request] [execution/p2p: adhere to devp2p GetReceipts response spec](https://github.com/erigontech/erigon/pull/21757) - 2026-06-11
+* [Pull Request] [ci: per-exec-mode Go cache lineages + skip Go cache saves in merge-queue runs](https://github.com/erigontech/erigon/pull/21748) - 2026-06-11
+* [Review] [Review on: ci: per-exec-mode Go cache lineages + skip Go cache saves in merge-queue runs](https://github.com/erigontech/erigon/pull/21748#pullrequestreview-4474882481) - 2026-06-11
+* [Review] [Review on: ci: stop installing make on Windows (already on PATH), pin it](https://github.com/erigontech/erigon/pull/21749#pullrequestreview-4474732016) - 2026-06-11
+* [Review] [Review on: [r3.5] ci: stop installing make on Windows (already on PATH), pin it](https://github.com/erigontech/erigon/pull/21750#pullrequestreview-4474892502) - 2026-06-11
+* [Review] [Review on: [r3.6] domain: existance filter madvise require page-aligned byte slice](https://github.com/erigontech/erigon/pull/21744#pullrequestreview-4474092154) - 2026-06-11
+* [Review] [Review on: [bloatnet] domain: existance filter madvise require page-aligned byte slice](https://github.com/erigontech/erigon/pull/21743#pullrequestreview-4474152587) - 2026-06-11
+* [Commit] [ci: cache buildkit image so buildx setup survives Docker Hub outages (#21741)](https://github.com/erigontech/erigon/commit/e56ef04f0f1cf0e793f058ebf3553fb6795f2bca) - 2026-06-11
+* [Commit] [ci: per-exec-mode Go cache lineages + skip Go cache saves in merge-queue runs (#21748)](https://github.com/erigontech/erigon/commit/c3fe7b35b8c64e76e164b7a432e219c98d49f762) - 2026-06-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22
+* [Review] [Review on: chore(tests): EIP-7928 expect InvalidParams when newPayload misses BAL](https://github.com/ethereum/execution-specs/pull/2980#pullrequestreview-4477795808) - 2026-06-11
 ## Q1 2026
 
 

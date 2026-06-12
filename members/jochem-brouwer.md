@@ -74,6 +74,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-7997: Switch to Arachnid factory](https://github.com/ethereum/EIPs/pull/11783#pullrequestreview-4461444688) - 2026-06-09
 * [Review] [Review on: Website: Add 'Final' and 'Living' to draft stage conditions](https://github.com/ethereum/EIPs/pull/11198#pullrequestreview-4460727711) - 2026-06-09
 * [Review] [Review on: Add EIP: Lean Staking](https://github.com/ethereum/EIPs/pull/11500#pullrequestreview-4460387674) - 2026-06-09
+* [Review] [Review on: Update EIP-8037: unfair allocation of EIP-7702 overcharges](https://github.com/ethereum/EIPs/pull/11778#pullrequestreview-4479068451) - 2026-06-11
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Correctly name devnet-2 genesis and introduce devnet-3 genesis](https://github.com/NethermindEth/gas-benchmarks/pull/139) - 2026-04-22
 

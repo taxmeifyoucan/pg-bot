@@ -97,6 +97,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(ci): include json-loader in coverage reports](https://github.com/ethereum/execution-specs/pull/2975) - 2026-06-10
 * [Review] [Review on: refactor(forks): pass fork overrides to clone](https://github.com/ethereum/execution-specs/pull/2769#pullrequestreview-4469153937) - 2026-06-10
 * [Issue] [Should `tx.max_fee_per_gas < tx.max_priority_fee_per_gas` be moved to `validate_transaction`?](https://github.com/ethereum/execution-specs/issues/2976) - 2026-06-10
+* [Review] [Review on: fix(ci,tooling): include json-loader in coverage reports](https://github.com/ethereum/execution-specs/pull/2975#pullrequestreview-4477702684) - 2026-06-11
+* [Review] [Review on: feat(spec-specs): EIP-8037 - check static context upfront in CREATE opcodes](https://github.com/ethereum/execution-specs/pull/2978#pullrequestreview-4477638605) - 2026-06-11
 ## Q1 2026
 
 

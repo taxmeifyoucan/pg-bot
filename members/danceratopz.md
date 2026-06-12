@@ -126,6 +126,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [refactor(spec-specs): remove unused regular gas constants in amsterdam](https://github.com/ethereum/execution-specs/pull/2971) - 2026-06-10
 * [Review] [Review on: refactor(tests): sort refund types for deterministic fixture output](https://github.com/ethereum/execution-specs/pull/2970#pullrequestreview-4466529246) - 2026-06-10
 * [Commit] [refactor(specs): remove unused regular gas constants in amsterdam (#2971)](https://github.com/ethereum/execution-specs/commit/5f132e7c73c01be23b83688ad6d4ba66646e1cd2) - 2026-06-10
+* [Review] [Review on: feat(test-specs): Allow automatic transaction gas-limit](https://github.com/ethereum/execution-specs/pull/2969#pullrequestreview-4477182803) - 2026-06-11
+* [Review] [Review on: fix(ci,tooling): include json-loader in coverage reports](https://github.com/ethereum/execution-specs/pull/2975#pullrequestreview-4474958876) - 2026-06-11
+* [Pull Request] [fix(tooling): include namespace packages in coverage reports](https://github.com/ethereum/execution-specs/pull/2982) - 2026-06-11
+* [Review] [Review on: feat(spec-specs, tests): initial implementation of EIP-8038 state-access gas cost update](https://github.com/ethereum/execution-specs/pull/2972#pullrequestreview-4474383069) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 

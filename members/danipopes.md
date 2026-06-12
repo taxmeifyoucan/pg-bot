@@ -413,6 +413,7 @@ Team: Reth
 * [Review] [Review on: fix: remove precompile cache initial capacity](https://github.com/paradigmxyz/reth/pull/25013#pullrequestreview-4453655686) - 2026-06-08
 * [Review] [Review on: perf(parbal): BAL prewarming pool](https://github.com/paradigmxyz/reth/pull/25003#pullrequestreview-4450634024) - 2026-06-08
 * [Review] [Review on: ci: summarize hive failure logs](https://github.com/paradigmxyz/reth/pull/25001#pullrequestreview-4449579040) - 2026-06-08
+* [Commit] [feat: integrate revmc JIT (#23230)](https://github.com/paradigmxyz/reth/commit/e891a6b8cafada7b302860fd98c9fe6bace8375a) - 2026-06-11
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

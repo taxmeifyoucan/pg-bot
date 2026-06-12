@@ -64,6 +64,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Optmize memory usage of the bal parallel execution ](https://github.com/besu-eth/besu/pull/10606#pullrequestreview-4447483943) - 2026-06-08
 * [Review] [Review on: Optmize memory usage of the bal parallel execution ](https://github.com/besu-eth/besu/pull/10606#pullrequestreview-4460672641) - 2026-06-09
 * [Review] [Review on: Optmize memory usage of the bal parallel execution ](https://github.com/besu-eth/besu/pull/10606#pullrequestreview-4465379619) - 2026-06-10
+* [Review] [Review on: remove bal size check between transaction](https://github.com/besu-eth/besu/pull/10621#pullrequestreview-4475645812) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

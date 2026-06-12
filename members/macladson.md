@@ -41,6 +41,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Bump discv5](https://github.com/sigp/lighthouse/pull/9394) - 2026-06-02
 
 * [Pull Request] [EIP-7688: Forward Compatible Consensus Data Structures](https://github.com/sigp/lighthouse/pull/9450) - 2026-06-10
+* [Review] [Review on: Bump discv5](https://github.com/sigp/lighthouse/pull/9394#pullrequestreview-4476069383) - 2026-06-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4466665565) - 2026-06-10
 ## Q1 2026

@@ -107,6 +107,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): EIP-8037 reject tx when gas_limit covers regular but not state intrinsic](https://github.com/ethereum/execution-specs/pull/2876#pullrequestreview-4468333078) - 2026-06-10
 * [Review] [Review on: feat(tests): EIP-8037 CREATE-tx collision refunds state-gas reservoir](https://github.com/ethereum/execution-specs/pull/2875#pullrequestreview-4468408156) - 2026-06-10
 * [Review] [Review on: refactor(spec-specs): remove unused regular gas constants in amsterdam](https://github.com/ethereum/execution-specs/pull/2971#pullrequestreview-4467705510) - 2026-06-10
+* [Pull Request] [chore(tests): EIP-7928 expect InvalidParams when newPayload misses BAL](https://github.com/ethereum/execution-specs/pull/2980) - 2026-06-11
+* [Pull Request] [feat(spec-specs): EIP-8037 - check static context upfront in CREATE opcodes](https://github.com/ethereum/execution-specs/pull/2978) - 2026-06-11
+* [Issue] [Test Release Tracker: `bal-devnet@v7.3.1`](https://github.com/ethereum/execution-specs/issues/2979) - 2026-06-11
+* [Commit] [feat(spec-specs): EIP-8037 - check static context upfront in CREATE opcodes](https://github.com/ethereum/execution-specs/commit/49f46977e7f6117ad78380b2e6a43e80195d170d) - 2026-06-11
+* [Commit] [chore(test-forks): include sibling BPO forks in `--until` ranges (#2955)](https://github.com/ethereum/execution-specs/commit/252dc300cabcc0d52936a8a30e23f15129a56902) - 2026-06-11
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

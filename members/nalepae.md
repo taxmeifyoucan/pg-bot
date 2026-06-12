@@ -100,6 +100,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Adopt `testing/synctest` in `async` test package](https://github.com/OffchainLabs/prysm/pull/16911#pullrequestreview-4449494881) - 2026-06-08
 * [Review] [Review on: Reverse wrong usage of `errors.Is` arguments after `validateBeaconBlock`](https://github.com/OffchainLabs/prysm/pull/16921#pullrequestreview-4447425471) - 2026-06-08
 * [Review] [Review on: Change Prysm client code into `PM` for Graffiti & Dedup JSON-RPC call functions for `engine_getClientVersionV1`](https://github.com/OffchainLabs/prysm/pull/16937#pullrequestreview-4467568481) - 2026-06-10
+* [Pull Request] [Remove bazel](https://github.com/OffchainLabs/prysm/pull/16947) - 2026-06-11
+* [Review] [Review on: gofmt](https://github.com/OffchainLabs/prysm/pull/16953#pullrequestreview-4480897776) - 2026-06-11
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

@@ -61,6 +61,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Introduce `is_previous_slot_payload_decision` predicate](https://github.com/grandinetech/grandine/pull/748#pullrequestreview-4468607974) - 2026-06-10
 * [Pull Request] [Use block state in payload attestation validation](https://github.com/grandinetech/grandine/pull/746) - 2026-06-10
 * [Issue] [[Bug] Follow malicious node to reorg timely payload and build on empty](https://github.com/grandinetech/grandine/issues/745) - 2026-06-10
+* [Pull Request] [Filter payload attestations by parent root and slot for block proposal](https://github.com/grandinetech/grandine/pull/751) - 2026-06-11
+* [Review] [Review on: Introduce `is_previous_slot_payload_decision` predicate. Part 2](https://github.com/grandinetech/grandine/pull/749#pullrequestreview-4475640566) - 2026-06-11
+* [Issue] [[Bug] Weak payload attestation packer](https://github.com/grandinetech/grandine/issues/750) - 2026-06-11
 ## Q1 2026
 
 

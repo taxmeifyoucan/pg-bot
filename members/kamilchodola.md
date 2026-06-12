@@ -96,6 +96,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(FlatDB): add CompactionOffset config to pin the compaction schedule](https://github.com/NethermindEth/nethermind/pull/11958) - 2026-06-10
 * [Review] [Review on: Increase RLP block withdrawals limit to 64k](https://github.com/NethermindEth/nethermind/pull/11955#pullrequestreview-4466779050) - 2026-06-10
 * [Commit] [feat(FlatDB): add CompactionOffset config to pin the compaction schedule (#11958)](https://github.com/NethermindEth/nethermind/commit/cee57e55dfbdb654ca2881a4b041941d02d1145d) - 2026-06-10
+* [Pull Request] [Fuse consecutive SLOAD opcodes and de-contend hot opcode counters](https://github.com/NethermindEth/nethermind/pull/11971) - 2026-06-11
+* [Review] [Review on: Fuse consecutive SLOAD opcodes and de-contend hot opcode counters](https://github.com/NethermindEth/nethermind/pull/11971#pullrequestreview-4478963035) - 2026-06-11
+* [Pull Request] [Prefetch constant-stride storage scans into the pre-block cache](https://github.com/NethermindEth/nethermind/pull/11966) - 2026-06-11
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

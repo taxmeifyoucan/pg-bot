@@ -732,6 +732,13 @@ Team: Erigon
 * [Review] [Review on: [r3.5] commitment: fix warmuper arena data race in HashSort](https://github.com/erigontech/erigon/pull/21721#pullrequestreview-4473145777) - 2026-06-11
 * [Pull Request] [[3.5] db: commitment domain to take existance filter to RAM](https://github.com/erigontech/erigon/pull/21737) - 2026-06-11
 * [Review] [Review on: execution/stagedsync: recover CodePath alongside CodeHashPath in parallel normalizeWriteSet](https://github.com/erigontech/erigon/pull/21706#pullrequestreview-4467360134) - 2026-06-10
+* [Pull Request] [[r3.5] domain: existance filter madvise require page-aligned byte slice](https://github.com/erigontech/erigon/pull/21753) - 2026-06-11
+* [Pull Request] [[wip] domain existance filter: switch to ShardedFuse by default ](https://github.com/erigontech/erigon/pull/21746) - 2026-06-11
+* [Pull Request] [[r3.5] domain: existance filter madvise require page-aligned byte slice](https://github.com/erigontech/erigon/pull/21745) - 2026-06-11
+* [Pull Request] [[wip] bloatnet: reduce word-level compress sampling](https://github.com/erigontech/erigon/pull/21742) - 2026-06-11
+* [Pull Request] [[r3.6] domain: existance filter madvise require page-aligned byte slice](https://github.com/erigontech/erigon/pull/21744) - 2026-06-11
+* [Pull Request] [[bloatnet] domain: existance filter madvise require page-aligned byte slice](https://github.com/erigontech/erigon/pull/21743) - 2026-06-11
+* [Commit] [[bloatnet] domain: existance filter madvise require page-aligned byte slice (#21744)](https://github.com/erigontech/erigon/commit/69c841fd98c033e2d8968e1d20ec2c9ff653722f) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

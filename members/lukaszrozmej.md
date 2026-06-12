@@ -662,6 +662,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Increase RLP block withdrawals limit to 64k](https://github.com/NethermindEth/nethermind/pull/11955#pullrequestreview-4466893509) - 2026-06-10
 * [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11953#pullrequestreview-4466954097) - 2026-06-10
 * [Commit] [test: wrap independent assertions in Assert.EnterMultipleScope (#11942)](https://github.com/NethermindEth/nethermind/commit/dd3328e00b040ffcbb9eb740c6d7197693106f41) - 2026-06-10
+* [Review] [Review on: Unify types with Geth](https://github.com/NethermindEth/nethermind/pull/11937#pullrequestreview-4476349326) - 2026-06-11
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11962#pullrequestreview-4474231861) - 2026-06-11
+* [Pull Request] [test: harden SyncPeerPool peer-init wait against ARM CI flake](https://github.com/NethermindEth/nethermind/pull/11964) - 2026-06-11
+* [Commit] [test: harden SyncPeerPool peer-init wait against ARM CI flake (#11964)](https://github.com/NethermindEth/nethermind/commit/b4a9779d52b061997d795f5d152855ed4ec031c4) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

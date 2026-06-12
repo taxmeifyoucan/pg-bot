@@ -159,6 +159,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Gloas sync fix](https://github.com/Consensys/teku/pull/10818) - 2026-06-10
 * [Review] [Review on:  Avoid redundant RPC fetches for data column sidecars](https://github.com/Consensys/teku/pull/10789#pullrequestreview-4468231385) - 2026-06-10
 * [Review] [Review on: rename LRU based set method](https://github.com/Consensys/teku/pull/10815#pullrequestreview-4465729559) - 2026-06-10
+* [Pull Request] [Alternative gloas sync fix](https://github.com/Consensys/teku/pull/10825) - 2026-06-11
+* [Review] [Review on: defer Gloas full payload attestations until execution payload is available](https://github.com/Consensys/teku/pull/10772#pullrequestreview-4480215922) - 2026-06-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

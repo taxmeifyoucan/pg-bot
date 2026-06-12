@@ -137,6 +137,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: perf: avoid reallocations and cloning during commit](https://github.com/bluealloy/revm/pull/3732#pullrequestreview-4407865148) - 2026-06-02
 * [Commit] [feat: wrap TransientStorage as AddressMap<StorageKeyMap<U256>> (#3736)](https://github.com/bluealloy/revm/commit/eea3e184874d85956f510fa93cbcc1f2b84cbc4f) - 2026-06-02
 * [Commit] [feat: add SSTORE gas-state policy hook (#3734)](https://github.com/bluealloy/revm/commit/16aab9498bcd5a119f25cf20abcad7788717bbb2) - 2026-06-02
+* [Pull Request] [chore: bump all crates to v41.0.0](https://github.com/bluealloy/revm/pull/3753) - 2026-06-11
+* [Review] [Review on: fix(bytecode): avoid out-of-bounds pointer in analyze_legacy](https://github.com/bluealloy/revm/pull/3752#pullrequestreview-4477670329) - 2026-06-11
+* [Review] [Review on: refactor: remove `GasStateTr`](https://github.com/bluealloy/revm/pull/3750#pullrequestreview-4476850930) - 2026-06-11
+* [Commit] [chore: bump all crates to v41.0.0 (#3753)](https://github.com/bluealloy/revm/commit/6effb301cd836dcaf4848b7ebdb71093c6067bef) - 2026-06-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

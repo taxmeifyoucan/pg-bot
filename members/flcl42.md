@@ -205,6 +205,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: chore: Update packages](https://github.com/NethermindEth/nethermind/pull/11951#pullrequestreview-4465206742) - 2026-06-10
 * [Commit] [Speed up a bit fixed-length hex decoding + equal to assertions (#11956)](https://github.com/NethermindEth/nethermind/commit/11e0a528c381cd18915b6bfcca4b2a2498073116) - 2026-06-10
 * [Commit] [Fix BALs network encoding (#11950)](https://github.com/NethermindEth/nethermind/commit/964fe5159ecb44bf4db268a4ccf36838caacac55) - 2026-06-10
+* [Review] [Review on: Update Directory.Build.props for 1.38.1](https://github.com/NethermindEth/nethermind/pull/11973#pullrequestreview-4479420156) - 2026-06-11
+* [Pull Request] [Enable nullables](https://github.com/NethermindEth/nethermind/pull/11972) - 2026-06-11
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11962#pullrequestreview-4475183213) - 2026-06-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

@@ -189,6 +189,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: fix debug_accountRange() start validation & remove incompletes validation (#21657)](https://github.com/erigontech/erigon/commit/19115fe65ce0092b1b3c96710fca6326fd54246d) - 2026-06-09
 * [Pull Request] [QA rpc_int: add tee -a to capture the 3 iterations not only the last one](https://github.com/erigontech/erigon/pull/21736) - 2026-06-10
 * [Commit] [rpc: omit memory field if empty (as Geth) (#21666)](https://github.com/erigontech/erigon/commit/6667e248e8044c78b9d8e706d2fb7c137f4c5071) - 2026-06-10
+* [Pull Request] [QA: update hive version & permit 7 errors rpccompact](https://github.com/erigontech/erigon/pull/21760) - 2026-06-11
+* [Pull Request] [rpc: fix gasprice](https://github.com/erigontech/erigon/pull/21759) - 2026-06-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

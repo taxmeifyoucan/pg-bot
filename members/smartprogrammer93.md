@@ -111,6 +111,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix EngineApiProxy rejecting its own blocks: forward EIP-7685 executionRequests in synthetic newPayload](https://github.com/NethermindEth/nethermind/pull/11960#pullrequestreview-4471890321) - 2026-06-10
 * [Review] [Review on: Serve health UI and data/events behind a reverse proxy](https://github.com/NethermindEth/nethermind/pull/11946#pullrequestreview-4467199745) - 2026-06-10
 * [Review] [Review on: test: wrap independent assertions in Assert.EnterMultipleScope](https://github.com/NethermindEth/nethermind/pull/11942#pullrequestreview-4467185998) - 2026-06-10
+* [Review] [Review on: Enable flat DB by default; flip CI backend coverage](https://github.com/NethermindEth/nethermind/pull/11931#pullrequestreview-4478535922) - 2026-06-11
+* [Review] [Review on: test: harden SyncPeerPool peer-init wait against ARM CI flake](https://github.com/NethermindEth/nethermind/pull/11964#pullrequestreview-4474778944) - 2026-06-11
+* [Commit] [feat(rpc): implement `proof_call` for stateless call verification (#11732)](https://github.com/NethermindEth/nethermind/commit/0a643b09ed60379fc9b04dc7924957276824d2d0) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 

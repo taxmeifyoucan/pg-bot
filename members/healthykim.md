@@ -48,6 +48,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [internal/telemetry: add more traces on otel](https://github.com/ethereum/go-ethereum/pull/35045) - 2026-05-24
 * [Pull Request] [core/txpool, miner, eth: add cache for GetBlobs request](https://github.com/ethereum/go-ethereum/pull/35124) - 2026-06-08
 * [Review] [Review on: core/txpool, miner, eth: add cache for GetBlobs request](https://github.com/ethereum/go-ethereum/pull/35124#pullrequestreview-4449685699) - 2026-06-08
+* [Commit] [core/txpool/blobpool: add cache for GetBlobs request (#35124)](https://github.com/ethereum/go-ethereum/commit/e595aedcd067304d77480fdccf504f5f121352f6) - 2026-06-11
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
 

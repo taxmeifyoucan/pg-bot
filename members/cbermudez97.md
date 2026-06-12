@@ -29,6 +29,8 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Pull Request] [fix(workflows): update hive tests workflow to support release branches and enhance input descriptions](https://github.com/NethermindEth/nethermind/pull/11877) - 2026-06-01
 * [Review] [Review on: fix(workflows): update hive tests workflow to support release branches and enhance input descriptions](https://github.com/NethermindEth/nethermind/pull/11877#pullrequestreview-4404334657) - 2026-06-01
 * [Review] [Review on: Fix EngineApiProxy rejecting its own blocks: forward EIP-7685 executionRequests in synthetic newPayload](https://github.com/NethermindEth/nethermind/pull/11960#pullrequestreview-4471192049) - 2026-06-10
+* [Pull Request] [feat(workflow): add support for Arbitrum networks and update L2 options](https://github.com/NethermindEth/nethermind/pull/11970) - 2026-06-11
+* [Review] [Review on: Update Directory.Build.props for 1.38.1](https://github.com/NethermindEth/nethermind/pull/11973#pullrequestreview-4479362775) - 2026-06-11
 ## Q1 2026
 
 

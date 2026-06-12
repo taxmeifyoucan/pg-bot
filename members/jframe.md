@@ -61,6 +61,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Fix BFT invalid block production with `prevrandao`](https://github.com/besu-eth/besu/pull/10611#pullrequestreview-4463792504) - 2026-06-10
 * [Review] [Review on: Fix BFT invalid block production with `prevrandao`](https://github.com/besu-eth/besu/pull/10611#pullrequestreview-4472094118) - 2026-06-10
 * [Review] [Review on: Fix chain height](https://github.com/besu-eth/besu/pull/10608#pullrequestreview-4464252415) - 2026-06-10
+* [Review] [Review on: changelog rotation for 26.6.1](https://github.com/besu-eth/besu/pull/10637#pullrequestreview-4481603446) - 2026-06-12
 ## Q1 2026
 
 

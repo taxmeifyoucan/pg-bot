@@ -358,6 +358,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352#pullrequestreview-4468976531) - 2026-06-10
 * [Review] [Review on: Require imported payload for `index == 1` attestation gossip](https://github.com/ethereum/consensus-specs/pull/5355#pullrequestreview-4467976293) - 2026-06-10
 * [Commit] [Add new `run_validate_gossip` helper function (#5354)](https://github.com/ethereum/consensus-specs/commit/6ebb2216ca8d7fdac7c108fcfddb74d0e56c42ab) - 2026-06-10
+* [Pull Request] [Add builder execution requests (EIP-8282)](https://github.com/ethereum/consensus-specs/pull/5359) - 2026-06-11
+* [Review] [Review on: Add annotation prefixes to p2p interface spec sections](https://github.com/ethereum/consensus-specs/pull/5356#pullrequestreview-4477534264) - 2026-06-11
+* [Review] [Review on: Update dependency eth-remerkleable to v0.1.31](https://github.com/ethereum/consensus-specs/pull/5358#pullrequestreview-4477183183) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

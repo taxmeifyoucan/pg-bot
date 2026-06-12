@@ -26,6 +26,9 @@ Github: [@weiihann](https://github.com/weiihann)
 * [Pull Request] [Update EIP-8081: change 8188 name](https://github.com/ethereum/EIPs/pull/11789) - 2026-06-10
 * [Commit] [Update EIP-8081: change 8188 name](https://github.com/ethereum/EIPs/commit/b16b99b832867f3c92ef87628ec9de02a68f6e2d) - 2026-06-10
 * [Commit] [Update EIP-8188: Last-Written Block for Accounts and Slots](https://github.com/ethereum/EIPs/commit/c5a295fe0d86ab1ef8f8b3d6a0e2e2ed806c0bba) - 2026-06-10
+* [Pull Request] [Add EIP: Partitioned Binary Tree](https://github.com/ethereum/EIPs/pull/11799) - 2026-06-11
+* [Pull Request] [Update EIP-8188: clarify reverts and bytes added](https://github.com/ethereum/EIPs/pull/11797) - 2026-06-11
+* [Commit] [Update EIP-8188: clarify reverts and bytes added](https://github.com/ethereum/EIPs/commit/c49e5ccff09bb0b651d914e4ae3bb301cf3be1b2) - 2026-06-11
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Pull Request] [feat: add state size delta and trie depth](https://github.com/ethpandaops/xatu/pull/722) - 2026-05-20
 * [Commit] [feat: add state size delta and trie depth (#722)](https://github.com/ethpandaops/xatu/commit/809276545970784b194574a07ea866991dac3274) - 2026-05-20

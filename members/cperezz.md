@@ -51,6 +51,8 @@ Github: [@cperezz](https://github.com/cperezz)
 
 * [Pull Request] [Update EIP-8268: Encode empty storage root as empty string](https://github.com/ethereum/EIPs/pull/11771) - 2026-06-05
 * [Commit] [Update EIP-8268: Encode empty storage root as empty string](https://github.com/ethereum/EIPs/commit/83c2057ccab1313ae839632407ec621820803d05) - 2026-06-05
+* [Review] [Review on: Add EIP: Fixed-Cutoff State Tiering](https://github.com/ethereum/EIPs/pull/11790#pullrequestreview-4475623025) - 2026-06-11
+* [Review] [Review on: Update EIP-8188: clarify reverts and bytes added](https://github.com/ethereum/EIPs/pull/11797#pullrequestreview-4475809543) - 2026-06-11
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Issue] [BUILDER reads stale sdProvider() == nil due to FCU defer's PublishOverlay(nil) racing with AssembleBlock](https://github.com/erigontech/erigon/issues/21613) - 2026-06-04
 ## Q1 2026

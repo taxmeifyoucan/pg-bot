@@ -75,6 +75,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Regression test for range sync CGC race condition](https://github.com/sigp/lighthouse/pull/8039) - 2026-06-04
 * [Review] [Review on: Replace electra sync tests with gloas sync tests on CI](https://github.com/sigp/lighthouse/pull/9228#pullrequestreview-4455254844) - 2026-06-09
 * [Pull Request] [Add gossip validation spec tests for remaining topics](https://github.com/sigp/lighthouse/pull/9452) - 2026-06-10
+* [Review] [Review on: Add test to VC block production and payload envelope](https://github.com/sigp/lighthouse/pull/9453#pullrequestreview-4481979702) - 2026-06-12
+* [Pull Request] [Update warp snapshot build job](https://github.com/sigp/lighthouse/pull/9459) - 2026-06-12
+* [Review] [Review on: Allow release branches to target stable in target-branch-check](https://github.com/sigp/lighthouse/pull/9457#pullrequestreview-4481655005) - 2026-06-12
+* [Review] [Review on: ci: require AI assistance disclosure in PRs](https://github.com/sigp/lighthouse/pull/9260#pullrequestreview-4473888593) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487) - 2026-04-10
 ## Q1 2026

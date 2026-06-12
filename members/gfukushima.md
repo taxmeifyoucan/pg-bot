@@ -76,6 +76,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Update Renovatebot GHA Updates to 5e2ebd0](https://github.com/Consensys/teku/pull/10814#pullrequestreview-4472509081) - 2026-06-10
 * [Review] [Review on: Data column pruner optimizations](https://github.com/Consensys/teku/pull/10807#pullrequestreview-4464552115) - 2026-06-10
 * [Commit] [Data column pruner optimizations (#10807)](https://github.com/Consensys/teku/commit/9fb38a8d7774f5e43b7f71e58fcb8d14c508cc08) - 2026-06-10
+* [Review] [Review on: Add containers for Staked Builder API](https://github.com/Consensys/teku/pull/10824#pullrequestreview-4481484319) - 2026-06-12
+* [Review] [Review on: Enable gossip blob sidecar ref-test](https://github.com/Consensys/teku/pull/10780#pullrequestreview-4473659749) - 2026-06-11
 ## Q1 2026
 
 

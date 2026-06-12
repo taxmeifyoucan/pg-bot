@@ -610,6 +610,17 @@ Team: Reth
 * [Commit] [perf(txpool): select worst senders instead of sorting during eviction (#25078)](https://github.com/paradigmxyz/reth/commit/7e4cbab07ea48f79c973121605e684caa0c4e6bb) - 2026-06-10
 * [Commit] [perf(txpool): update pool metrics incrementally (#25080)](https://github.com/paradigmxyz/reth/commit/db847f5100ca4c93029c68a1bb24ac8de152b8ee) - 2026-06-10
 * [Commit] [perf(net): track queued response count in ActiveSession (#25073)](https://github.com/paradigmxyz/reth/commit/0f89ac7852ca47b470e6076a67443de52fcd4ef8) - 2026-06-10
+* [Review] [Review on: perf(net): mark transactions seen by peer while building broadcast messages](https://github.com/paradigmxyz/reth/pull/25088#pullrequestreview-4480841516) - 2026-06-11
+* [Pull Request] [perf(txpool): reduce allocations on reorg](https://github.com/paradigmxyz/reth/pull/25145) - 2026-06-11
+* [Pull Request] [feat: add NodeCommand::peer_id helper](https://github.com/paradigmxyz/reth/pull/25136) - 2026-06-11
+* [Pull Request] [feat(txpool): make additional validation fn type aliases public](https://github.com/paradigmxyz/reth/pull/25134) - 2026-06-11
+* [Pull Request] [fix(docs): preserve rustdocs navigation](https://github.com/paradigmxyz/reth/pull/25132) - 2026-06-11
+* [Pull Request] [feat(cli): support ERE (.erae) files in import-era](https://github.com/paradigmxyz/reth/pull/25122) - 2026-06-11
+* [Commit] [perf(net): mark transactions seen by peer while building broadcast messages (#25088)](https://github.com/paradigmxyz/reth/commit/fc2cc1e91bce30441aa99e2f5a66eba6f2ce5673) - 2026-06-11
+* [Commit] [perf(txpool): reduce allocations on reorg (#25145)](https://github.com/paradigmxyz/reth/commit/6ea4665a00782e743841855f4e232bd1c18df109) - 2026-06-11
+* [Commit] [feat: add NodeCommand::peer_id helper (#25136)](https://github.com/paradigmxyz/reth/commit/8b1198f6bb8b73e7b00eb78a64d0957a758f9fe3) - 2026-06-11
+* [Commit] [feat(txpool): make additional validation fn type aliases public (#25134)](https://github.com/paradigmxyz/reth/commit/de4d362a632a2739509b8a0b5854e98dff463372) - 2026-06-11
+* [Commit] [feat(cli): support ERE (.erae) files in import-era (#25122)](https://github.com/paradigmxyz/reth/commit/256ceb6631aca836af59edb403c80e34378a2a27) - 2026-06-11
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

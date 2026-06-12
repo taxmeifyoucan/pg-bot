@@ -152,6 +152,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(bindings): size BLS thread pool by cgroup-aware CPU count](https://github.com/ChainSafe/lodestar-z/pull/386#pullrequestreview-4468507062) - 2026-06-10
 * [Pull Request] [refactor(bls): clean up bls](https://github.com/ChainSafe/lodestar-z/pull/398) - 2026-06-10
 * [Commit] [refactor(bls): allocations around VMAS (#395)](https://github.com/ChainSafe/lodestar-z/commit/dfda58c32c2b08b716923cd50acfc0c4978c3fb3) - 2026-06-10
+* [Review] [Review on: fix(bindings): size BLS thread pool by cgroup-aware CPU count](https://github.com/ChainSafe/lodestar-z/pull/386#pullrequestreview-4475917171) - 2026-06-11
+* [Issue] [move cgroup aware `cpu_count` to its own lib](https://github.com/ChainSafe/lodestar-z/issues/399) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

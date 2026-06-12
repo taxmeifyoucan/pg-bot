@@ -75,6 +75,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Fix nightly build and upgrade gha download/upload artifact (#4311)](https://github.com/status-im/nimbus-eth1/commit/0b9f28a15f42a97cec2fa5a96852e680088ccf3b) - 2026-06-09
 * [Commit] [TxPool: fix feeRecipient reward issue and fix ordered list cleanup issue (#4313)](https://github.com/status-im/nimbus-eth1/commit/e5fc3f135ea9b5cb2608cc1023355b44a857cea8) - 2026-06-09
 * [Commit] [Reduce [XDeclaredButNotUsed] and [Deprecated] warnings (#4314)](https://github.com/status-im/nimbus-eth1/commit/8ab3d0f467d270df0feb117ec0f6ffa691a1c76a) - 2026-06-09
+* [Pull Request] [Fix nightly build jobs dependancy graph](https://github.com/status-im/nimbus-eth1/pull/4320) - 2026-06-11
+* [Commit] [Fix nightly build jobs dependancy graph (#4320)](https://github.com/status-im/nimbus-eth1/commit/b49be5d69099b27031368bae661c6fc1a029d0bc) - 2026-06-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 

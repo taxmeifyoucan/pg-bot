@@ -368,6 +368,14 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [refactor(whir): drop whole-crate sumcheck re-export facade (#1790)](https://github.com/Plonky3/Plonky3/commit/b3ec5706222b4dc32a0e31832d97c2110e8a05af) - 2026-06-10
 * [Commit] [perf(challenger): precompute the grind state for MultiField32Challenger (#1782)](https://github.com/Plonky3/Plonky3/commit/8a543dde4422d61ea6945c120a80784704483f71) - 2026-06-10
 * [Commit] [whir: remove dead public items (#1781)](https://github.com/Plonky3/Plonky3/commit/959826e44e6d0b55725d2ee06c73a6639ba17490) - 2026-06-10
+* [Pull Request] [perf(sumcheck): fuse round-0 residual weights into the packed buffer](https://github.com/Plonky3/Plonky3/pull/1808) - 2026-06-11
+* [Review] [Review on: chore: release v0.6.0](https://github.com/Plonky3/Plonky3/pull/1807#pullrequestreview-4475704906) - 2026-06-11
+* [Pull Request] [whir: pruned Merkle multiproofs for STIR query openings](https://github.com/Plonky3/Plonky3/pull/1805) - 2026-06-11
+* [Review] [Review on: whir: pruned Merkle multiproofs for STIR query openings](https://github.com/Plonky3/Plonky3/pull/1805#pullrequestreview-4475483472) - 2026-06-11
+* [Review] [Review on: fix: tweak config parameters to support 128 bit security target](https://github.com/Plonky3/Plonky3/pull/1806#pullrequestreview-4475498143) - 2026-06-11
+* [Pull Request] [perf(whir): commit folded rounds straight from the live sumcheck buffer](https://github.com/Plonky3/Plonky3/pull/1804) - 2026-06-11
+* [Commit] [feat!(lookup): degree-budget-aware same-bus column packing (#1799)](https://github.com/Plonky3/Plonky3/commit/178c936b90c9583994c671965c09f735c121880d) - 2026-06-11
+* [Commit] [refactor(merkle-tree): split mmcs.rs into a feature-organized mmcs/ module (#1801)](https://github.com/Plonky3/Plonky3/commit/ee5ed70acd00974d3d8e84653b0a18ed227e6c48) - 2026-06-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

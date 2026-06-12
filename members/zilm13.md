@@ -136,6 +136,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Issue] [Gloas proposer preference APIs](https://github.com/Consensys/teku/issues/10819) - 2026-06-10
 * [Commit] [ Avoid redundant RPC fetches for data column sidecars (#10789)](https://github.com/Consensys/teku/commit/84ac982daf1748bf03c045b754c13140ae2f6b67) - 2026-06-10
 * [Commit] [Avoid dropping sidecars tracker on block import in Gloas (#10788)](https://github.com/Consensys/teku/commit/68e4d7062660e32934c10cdd6efb9e2667371c62) - 2026-06-10
+* [Review] [Review on: handle proposer preference with dependant root is new for checkpoint boundary](https://github.com/Consensys/teku/pull/10821#pullrequestreview-4479535550) - 2026-06-11
+* [Pull Request] [Forkchoice on attestation tests](https://github.com/Consensys/teku/pull/10823) - 2026-06-11
+* [Review] [Review on: Forkchoice on attestation tests](https://github.com/Consensys/teku/pull/10823#pullrequestreview-4478513233) - 2026-06-11
+* [Review] [Review on: Split new builder deposits signature verification into batches](https://github.com/Consensys/teku/pull/10820#pullrequestreview-4477797317) - 2026-06-11
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

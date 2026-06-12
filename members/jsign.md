@@ -52,6 +52,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): prune non scheduled forks in ProtocolFork](https://github.com/ethereum/execution-specs/pull/2926) - 2026-05-27
 * [Pull Request] [feat(zkevm): add test for pubkey check on wrong parity case](https://github.com/ethereum/execution-specs/pull/2938) - 2026-05-29
 * [Pull Request] [feat(zkevm): add ChainConfig tests](https://github.com/ethereum/execution-specs/pull/2937) - 2026-05-28
+* [Pull Request] [feat(zkevm): tighten expectation of empty node not present in empty tries](https://github.com/ethereum/execution-specs/pull/2981) - 2026-06-11
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01
@@ -91,6 +92,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [Add experimental witness-generator-spec-cli](https://github.com/eth-act/zkevm-benchmark-workload/pull/290) - 2026-05-28
 * [Review] [Review on: feat: iter_benchmark_fixture_paths returns sorted paths by file name](https://github.com/eth-act/zkevm-benchmark-workload/pull/289#pullrequestreview-4377728450) - 2026-05-28
 * [Review] [Review on: feat: update ere and ere-guests](https://github.com/eth-act/zkevm-benchmark-workload/pull/292#pullrequestreview-4459942496) - 2026-06-09
+* [Commit] [Add experimental witness-generator-spec-cli (#290)](https://github.com/eth-act/zkevm-benchmark-workload/commit/783fd39d7b76a1d9ddbe7f212bf95a8156816f1f) - 2026-06-11
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08

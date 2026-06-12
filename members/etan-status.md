@@ -113,6 +113,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Prune unreachable blocks during DAG init when dag.head rewinds](https://github.com/status-im/nimbus-eth2/pull/8584) - 2026-06-10
 * [Pull Request] [Unify duplicated helper to update finalized blocks in DB](https://github.com/status-im/nimbus-eth2/pull/8581) - 2026-06-10
 * [Pull Request] [Init AttPool EpochRef every 1024 slots instead of every 1024 blocks](https://github.com/status-im/nimbus-eth2/pull/8578) - 2026-06-10
+* [Pull Request] [Update computeRandaoMix accelerator for Gloas / Heze](https://github.com/status-im/nimbus-eth2/pull/8592) - 2026-06-11
+* [Pull Request] [Ensure bids are for a higher slot than their parent](https://github.com/status-im/nimbus-eth2/pull/8591) - 2026-06-11
+* [Pull Request] [Persist all chain DAG heads in database](https://github.com/status-im/nimbus-eth2/pull/8590) - 2026-06-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

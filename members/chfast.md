@@ -178,6 +178,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [crypto: Use local accumulator t[] in mul_amm_256 to avoid aliasing (#1477)](https://github.com/ipsilon/evmone/commit/d1254cdeeb7cd80672f03f4030e0cfd8e1c787ef) - 2026-06-03
 * [Commit] [test: Support matching multiple tx-level exception names in blockchaintest (#1561)](https://github.com/ipsilon/evmone/commit/537a945cf93c7166be2fdf4e01b9bbc2d34be50e) - 2026-06-03
 * [Commit] [ci: Upgrade macOS executors (#1562)](https://github.com/ipsilon/evmone/commit/756333b027a3d8ad4ef5a13d1fe640fe66cd9a02) - 2026-06-03
+* [Review] [Review on: crypto: Migrate ExtPoint to AffinePoint<E2> ](https://github.com/ipsilon/evmone/pull/1547#pullrequestreview-4475699900) - 2026-06-11
+* [Pull Request] [crypto: Use hex literals in bn254 FROBENIUS_COEFFS and make it constexpr](https://github.com/ipsilon/evmone/pull/1565) - 2026-06-11
+* [Pull Request] [ci: Upgrade codecov orb to 6.0.0](https://github.com/ipsilon/evmone/pull/1566) - 2026-06-11
+* [Pull Request] [Wrap gas counter (gas_left) in a strong Gas type](https://github.com/ipsilon/evmone/pull/1564) - 2026-06-11
+* [Commit] [crypto: Use hex literals in bn254 FROBENIUS_COEFFS and make it constexpr (#1565)](https://github.com/ipsilon/evmone/commit/e5820b661d37bc200e6995191d0cff5efd0ad89f) - 2026-06-11
+* [Commit] [ci: Upgrade codecov orb to 6.0.0 (#1566)](https://github.com/ipsilon/evmone/commit/ef5008e1d069775b4c1d3b7980205b55c5114a63) - 2026-06-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10

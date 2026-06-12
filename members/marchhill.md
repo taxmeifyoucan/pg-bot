@@ -90,6 +90,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix: block history pruning getting stuck](https://github.com/NethermindEth/nethermind/pull/10123#pullrequestreview-4457624717) - 2026-06-09
 * [Pull Request] [feat: implement EIP-8038 (State-access Gas Cost Update)](https://github.com/NethermindEth/nethermind/pull/11959) - 2026-06-10
 * [Review] [Review on: Fix BALs network encoding](https://github.com/NethermindEth/nethermind/pull/11950#pullrequestreview-4467527395) - 2026-06-10
+* [Pull Request] [chore: bump pyspec BAL fixtures to tests-bal@v7.3.0](https://github.com/NethermindEth/nethermind/pull/11968) - 2026-06-11
 ## Q1 2026
 
 

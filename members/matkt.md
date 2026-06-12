@@ -118,6 +118,13 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [remove bal size check between transaction](https://github.com/besu-eth/besu/pull/10621) - 2026-06-10
 * [Review] [Review on: remove bal size check between transaction](https://github.com/besu-eth/besu/pull/10621#pullrequestreview-4467473064) - 2026-06-10
 * [Commit] [Optmize memory usage of the bal parallel execution  (#10606)](https://github.com/besu-eth/besu/commit/cafab8033f8dff271edc53392d872f7821552151) - 2026-06-10
+* [Review] [Review on: fix(engine): return SYNCING when parent world state is not immediately cached](https://github.com/besu-eth/besu/pull/10600#pullrequestreview-4473890610) - 2026-06-11
+* [Review] [Review on: snap/2 - invalid range proof handling](https://github.com/besu-eth/besu/pull/10598#pullrequestreview-4476288603) - 2026-06-11
+* [Review] [Review on: snap/2 - fix BAL retry handling for partial responses](https://github.com/besu-eth/besu/pull/10593#pullrequestreview-4474398382) - 2026-06-11
+* [Pull Request] [auto detection for max open files](https://github.com/besu-eth/besu/pull/10629) - 2026-06-11
+* [Review] [Review on: auto detection for max open files](https://github.com/besu-eth/besu/pull/10629#pullrequestreview-4476164413) - 2026-06-11
+* [Commit] [remove not trusted root computation (#10622)](https://github.com/besu-eth/besu/commit/e28d8d155a911170a8f6f4af9a236be87ab942bf) - 2026-06-11
+* [Commit] [remove bal size check between transaction (#10621)](https://github.com/besu-eth/besu/commit/acabbc20158540692d23e72b753df3d6e9caadb1) - 2026-06-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

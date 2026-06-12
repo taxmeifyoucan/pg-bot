@@ -55,6 +55,12 @@ Team: EthereumJS
 * [Commit] [deps: fix dependabot security alerts + dep-related cleanups (#4309)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/f4556b0ea1f4675c121422cf98b9064a1ab9acda) - 2026-05-27
 * [Pull Request] [deps: override tmp to ^0.2.6 (fix path-traversal advisory)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4310) - 2026-05-27
 * [Commit] [deps: override tmp to ^0.2.6 to fix path-traversal advisory (#4310)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/01439b355b575601be278972ba0aceec4d066780) - 2026-05-27
+* [Pull Request] [chore: point dev fixtures to bal@v7.3.0](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4317) - 2026-06-11
+* [Pull Request] [ci: lint-diff falls back to origin/HEAD when no upstream is set](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4318) - 2026-06-11
+* [Pull Request] [ci: always checkout in child workflows to provide the lockfile](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4319) - 2026-06-11
+* [Commit] [chore: point dev fixtures to bal@v7.3.0 (#4317)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/71f986e8c257e195ac8443a556a3514ce4663d65) - 2026-06-11
+* [Commit] [ci: lint-diff falls back to origin/HEAD when no upstream is set (#4318)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/57b5d7800261acd6782d699e263de08196f1af2a) - 2026-06-11
+* [Commit] [ci: always checkout in child workflows to provide the lockfile (#4319)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/9c94ebdfe0373abdc6d0a1a6778b148423fc9ed9) - 2026-06-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 * [Issue] [Stateless Implementer's Call #52, June 1, 2026](https://github.com/ethereum/pm/issues/2064) - 2026-05-19

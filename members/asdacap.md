@@ -272,6 +272,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test: bump timeouts on two flaky timing-bounded tests](https://github.com/NethermindEth/nethermind/pull/11933#pullrequestreview-4455991699) - 2026-06-09
 * [Commit] [fix(FlatDB): prune orphaned non-canonical snapshots on persist (#11739)](https://github.com/NethermindEth/nethermind/commit/712698533c1ea51cd31b68134ca0735829eff49d) - 2026-06-09
 * [Review] [Review on: perf(flat): decouple RocksDB write-buffer floor from CompactSize](https://github.com/NethermindEth/nethermind/pull/11936#pullrequestreview-4465940288) - 2026-06-10
+* [Pull Request] [Flat: force-persist the head-reachable fork instead of an arbitrary one](https://github.com/NethermindEth/nethermind/pull/11967) - 2026-06-11
+* [Review] [Review on: test: harden SyncPeerPool peer-init wait against ARM CI flake](https://github.com/NethermindEth/nethermind/pull/11964#pullrequestreview-4474574370) - 2026-06-11
+* [Pull Request] [feat(sync): reassemble disconnected state trees locally after snap sync](https://github.com/NethermindEth/nethermind/pull/11963) - 2026-06-11
+* [Commit] [feat(flatdb): RLP-wrap storage slot values behind a versioned flag (#11909)](https://github.com/NethermindEth/nethermind/commit/1374f15773eef5cdac1b8133034e610c02afd345) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

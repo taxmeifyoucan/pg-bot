@@ -87,6 +87,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: .: fix all typos, as reported by crates-ci/typos](https://github.com/ethereum/go-ethereum/pull/35008#pullrequestreview-4461726336) - 2026-06-09
 * [Review] [Review on: eth: fix borked test introduced in merging #33347](https://github.com/ethereum/go-ethereum/pull/35130#pullrequestreview-4459961418) - 2026-06-09
 * [Review] [Review on: .: fix all typos, as reported by crates-ci/typos](https://github.com/ethereum/go-ethereum/pull/35008#pullrequestreview-4468124731) - 2026-06-10
+* [Pull Request] [core/rawdb/eradb: integrate ere backend](https://github.com/ethereum/go-ethereum/pull/35146) - 2026-06-11
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20
@@ -108,6 +109,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [cmd/hq: add hivequery (hq) command (#1438)](https://github.com/ethereum/hive/commit/e4209f3c6a50b82e022730f5e49c3b331fc10e8c) - 2026-04-21
 * [Review] [Review on: simulators/ethereum/rpc-compat: ignore error.message fields everywhere](https://github.com/ethereum/hive/pull/1399#pullrequestreview-4274905244) - 2026-05-12
 * [Review] [Review on: rpc-compat: validate speconly responses against the OpenRPC schema](https://github.com/ethereum/hive/pull/1531#pullrequestreview-4469206264) - 2026-06-10
+* [Review] [Review on: rpc-compat: validate speconly responses against the OpenRPC schema](https://github.com/ethereum/hive/pull/1531#pullrequestreview-4475999179) - 2026-06-11
 ## Q1 2026
 
 

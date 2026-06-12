@@ -78,6 +78,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Enable NullAway static null-safety analysis for ethereum:rlp module](https://github.com/besu-eth/besu/pull/10397#pullrequestreview-4450501509) - 2026-06-08
 * [Review] [Review on: Agentic PR guidance for Contributors](https://github.com/besu-eth/besu/pull/10414#pullrequestreview-4460515144) - 2026-06-09
 * [Issue] [2026-06-09 Contributor Call](https://github.com/besu-eth/besu/issues/10614) - 2026-06-09
+* [Pull Request] [Thread startKeyHash through v2 snap range probing](https://github.com/besu-eth/besu/pull/10635) - 2026-06-11
+* [Pull Request] [optimizations, refactorings, and improved test coverage](https://github.com/besu-eth/besu/pull/10634) - 2026-06-11
+* [Pull Request] [Describes a higher bar for external contributors to meet for PRs](https://github.com/besu-eth/besu/pull/10633) - 2026-06-11
+* [Review] [Review on: Agentic PR guidance for Contributors](https://github.com/besu-eth/besu/pull/10414#pullrequestreview-4478048214) - 2026-06-11
+* [Commit] [Thread startKeyHash through v2 snap range probing](https://github.com/besu-eth/besu/commit/baa7b0b6779b9030347aefa40ba4109eae542d14) - 2026-06-12
+* [Commit] [optimizations, refactorings, and improved test coverage (#10634)](https://github.com/besu-eth/besu/commit/224dcf9a403f0e440da244ada20db0b407d2242f) - 2026-06-11
+* [Commit] [Agentic PR guidance for Contributors (#10414)](https://github.com/besu-eth/besu/commit/fcc59c8ff8a574fe1ed4d967630f52e230b9e64f) - 2026-06-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 * [Issue] [Encrypt The Mempool #4, May 13, 2026](https://github.com/ethereum/pm/issues/2054) - 2026-05-12

@@ -274,6 +274,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [data: storage file access latencies with different values of btree's M](https://github.com/erigontech/erigon/issues/21692) - 2026-06-09
 * [Commit] [db/snapshotsync: make index building and opening segments safe with other files building events (#21571)](https://github.com/erigontech/erigon/commit/8c0d8bd31183ccf7f72baddfc4b4def26a5a3121) - 2026-06-09
 * [Pull Request] [[wip/DO NOT MERGE ] db/state: lock-free DomainMetrics + kv_get (atomics)](https://github.com/erigontech/erigon/pull/21722) - 2026-06-10
+* [Review] [Review on: [r3.5] domain: existance filter madvise require page-aligned byte slice](https://github.com/erigontech/erigon/pull/21753#pullrequestreview-4477453397) - 2026-06-11
 ## Q1 2026
 
 

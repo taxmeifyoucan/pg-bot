@@ -32,6 +32,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Backfill: Add info progression](https://github.com/OffchainLabs/prysm/pull/16883#pullrequestreview-4420685314) - 2026-06-03
 * [Review] [Review on: tracing: respect OTEL env vars and set service.instance.id](https://github.com/OffchainLabs/prysm/pull/16882#pullrequestreview-4420239260) - 2026-06-03
 * [Commit] [Update to Go 1.26 (#16891)](https://github.com/OffchainLabs/prysm/commit/ecc2795fd4282849b24f67ea60ff25124f0076e7) - 2026-06-04
+* [Pull Request] [gofmt](https://github.com/OffchainLabs/prysm/pull/16953) - 2026-06-11
+* [Pull Request] [e2e: Reliability improvements](https://github.com/OffchainLabs/prysm/pull/16948) - 2026-06-11
+* [Review] [Review on: e2e: Reliability improvements](https://github.com/OffchainLabs/prysm/pull/16948#pullrequestreview-4478201754) - 2026-06-11
+* [Commit] [gofmt (#16953)](https://github.com/OffchainLabs/prysm/commit/d9aa300cbf9499a7e916cd5a9b55b7ca04807e88) - 2026-06-11
 ## Q1 2026
 
 

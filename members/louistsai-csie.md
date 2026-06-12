@@ -125,6 +125,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [chore(tests): remove duplicate `tstore` tests](https://github.com/ethereum/execution-specs/pull/2966) - 2026-06-09
 * [Review] [Review on: feat(test): add fast gas repricing and gas-map CLI tool](https://github.com/ethereum/execution-specs/pull/2331#pullrequestreview-4456052079) - 2026-06-09
 * [Commit] [chore: remove duplicate tstore bench (#2966)](https://github.com/ethereum/execution-specs/commit/21ecd8f029f736dac51d41caca3f4efe34b4b1a1) - 2026-06-09
+* [Pull Request] [refactor(test-benchmark): port benchmark from bal-devnet-7](https://github.com/ethereum/execution-specs/pull/2977) - 2026-06-11
+* [Review] [Review on: feat(test-fill): align `fill-stateful` with `gas-benchmarks` implementation](https://github.com/ethereum/execution-specs/pull/2923#pullrequestreview-4474854128) - 2026-06-11
+* [Review] [Review on: chore(test-forks): include sibling BPO forks in `--until` ranges](https://github.com/ethereum/execution-specs/pull/2955#pullrequestreview-4476326253) - 2026-06-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 
@@ -133,6 +136,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat: add `withrawal` request for pre-fund EOA](https://github.com/NethermindEth/gas-benchmarks/pull/145) - 2026-05-15
 * [Pull Request] [feat: add extra withdrawal request for pre-funding](https://github.com/NethermindEth/gas-benchmarks/pull/146) - 2026-05-18
 * [Pull Request] [feat: increase tx batch size limit temporarily](https://github.com/NethermindEth/gas-benchmarks/pull/151) - 2026-05-22
+* [Pull Request] [inject accounts in pre-run phase](https://github.com/NethermindEth/gas-benchmarks/pull/156) - 2026-06-11
 ## Q1 2026
 
 

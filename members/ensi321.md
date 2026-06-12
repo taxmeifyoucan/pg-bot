@@ -96,6 +96,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: gate builder bid lookup on shouldBuildOnFull in produceBlockV4 (#9442)](https://github.com/ChainSafe/lodestar/commit/d0a9d4a54703382b1e5bfa0babb108699d40c259) - 2026-06-02
 * [Pull Request] [fix: produce payload attestation for any seen block at slot](https://github.com/ChainSafe/lodestar/pull/9461) - 2026-06-03
 * [Review] [Review on: chore: remove old deposit mechanism in fulu](https://github.com/ChainSafe/lodestar/pull/9459#pullrequestreview-4421686299) - 2026-06-03
+* [Pull Request] [feat: add stateless path to publishExecutionPayloadEnvelope (gd5)](https://github.com/ChainSafe/lodestar/pull/9506) - 2026-06-11
+* [Pull Request] [feat: add heze fork definition and boilerplate](https://github.com/ChainSafe/lodestar/pull/9505) - 2026-06-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 

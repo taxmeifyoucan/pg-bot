@@ -22,6 +22,7 @@ Github: [@bharath-123](https://github.com/bharath-123)
 * [Pull Request] [Add EIP: Blob Streaming](https://github.com/ethereum/EIPs/pull/11610) - 2026-05-06
 
 * [Review] [Review on: Add EIP: Blob Streaming](https://github.com/ethereum/EIPs/pull/11610#pullrequestreview-4365139440) - 2026-05-26
+* [Commit] [Add EIP: Blob Streaming](https://github.com/ethereum/EIPs/commit/bdc1d099649eefb8790b76f912e25487757f5f4e) - 2026-06-11
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add proposer preferences and payload attributes SSE event](https://github.com/OffchainLabs/prysm/pull/16766) - 2026-05-08
 ## Q1 2026

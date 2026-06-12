@@ -71,6 +71,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [builders progressive](https://github.com/OffchainLabs/prysm/pull/16896) - 2026-06-04
 * [Review] [Review on: add ssz functions for progressive merkliezation](https://github.com/OffchainLabs/prysm/pull/16847#pullrequestreview-4450139770) - 2026-06-08
 * [Pull Request] [add executionRequestsGloas and replace usages by interface](https://github.com/OffchainLabs/prysm/pull/16944) - 2026-06-10
+* [Pull Request] [add attestationGloas and replace usages](https://github.com/OffchainLabs/prysm/pull/16949) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

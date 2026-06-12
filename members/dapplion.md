@@ -68,6 +68,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Issue] [Optimize Gloas range sync](https://github.com/sigp/lighthouse/issues/9432) - 2026-06-08
 * [Pull Request] [Gloas attestation payload reprocess](https://github.com/sigp/lighthouse/pull/9440) - 2026-06-09
 * [Pull Request] [Run Gloas sync tests instead of skipping them](https://github.com/sigp/lighthouse/pull/9446) - 2026-06-10
+* [Pull Request] [Allow release branches to target stable in target-branch-check](https://github.com/sigp/lighthouse/pull/9457) - 2026-06-11
+* [Pull Request] [Gate sync peer selection on per-protocol concurrent-request limit](https://github.com/sigp/lighthouse/pull/9456) - 2026-06-11
+* [Pull Request] [Remove seen_timestamp tracking from sync](https://github.com/sigp/lighthouse/pull/9454) - 2026-06-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 

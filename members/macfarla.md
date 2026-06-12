@@ -274,6 +274,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Enable DiscV5 by default in acceptance tests and fix cluster harness](https://github.com/besu-eth/besu/pull/10619#pullrequestreview-4472425330) - 2026-06-10
 * [Pull Request] [Stream engine_getBlobsV2 and engine_getBlobsV3 responses](https://github.com/besu-eth/besu/pull/10617) - 2026-06-10
 * [Pull Request] [ci(kurtosis): switch nightly interop workflow to ethpandaops GHA](https://github.com/besu-eth/besu/pull/10618) - 2026-06-10
+* [Pull Request] [changelog rotation for 26.6.1](https://github.com/besu-eth/besu/pull/10637) - 2026-06-12
+* [Pull Request] [revert log level change back to error](https://github.com/besu-eth/besu/pull/10626) - 2026-06-11
+* [Review] [Review on: Thread startKeyHash through v2 snap range probing](https://github.com/besu-eth/besu/pull/10635#pullrequestreview-4481319602) - 2026-06-11
+* [Review] [Review on: optimizations, refactorings, and improved test coverage](https://github.com/besu-eth/besu/pull/10634#pullrequestreview-4480904721) - 2026-06-11
+* [Pull Request] [uprev web3j to 5.0.3](https://github.com/besu-eth/besu/pull/10627) - 2026-06-11
+* [Pull Request] [Hive test error codes eth simulate](https://github.com/besu-eth/besu/pull/10625) - 2026-06-11
+* [Issue] [Release 26.6.1](https://github.com/besu-eth/besu/issues/10638) - 2026-06-12
+* [Commit] [changelog rotation for 26.6.1 (#10637)](https://github.com/besu-eth/besu/commit/983c53fb797b7e2e8cf940dc0361770705675a93) - 2026-06-12
+* [Commit] [revert log level change back to error (#10626)](https://github.com/besu-eth/besu/commit/e0a067c8fc5621bd9c460d4c77e11c86bfa9c64a) - 2026-06-12
+* [Commit] [fix(engine): return SYNCING when parent world state is not immediately cached (#10600)](https://github.com/besu-eth/besu/commit/c83dd7f7c15efb12ed9cdfbdc44e863f30f9459b) - 2026-06-11
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

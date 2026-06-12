@@ -26,6 +26,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 * [Pull Request] [✨ feat(tests): Disallow empty change set for storage slot](https://github.com/ethereum/execution-specs/pull/2945) - 2026-06-01
 * [Pull Request] [✨ feat(test):  EIP-7928 Selfdestruct a dirty account](https://github.com/ethereum/execution-specs/pull/2967) - 2026-06-09
 * [Commit] [✨ feat(test):  EIP-7928 Selfdestruct a dirty account (#2967)](https://github.com/ethereum/execution-specs/commit/55f61ab651bef9a33b40283bbd0efd755800a34b) - 2026-06-10
+* [Review] [Review on: feat(test-specs): Allow automatic transaction gas-limit](https://github.com/ethereum/execution-specs/pull/2969#pullrequestreview-4475653456) - 2026-06-11
 [raxhvl/pglanding-raxhvl](https://github.com/raxhvl/pglanding-raxhvl)
 * [Commit] [✨ feat: Butterfly](https://github.com/raxhvl/pglanding-raxhvl/commit/4a4fc6b3eb90c580e7f119a1f799a3a11818d27d) - 2026-04-17
 

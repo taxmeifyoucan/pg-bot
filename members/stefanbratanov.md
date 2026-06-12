@@ -110,6 +110,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Upgrade jvm-libp2p to 1.3.2](https://github.com/Consensys/teku/pull/10817) - 2026-06-10
 * [Commit] [`ExecutionPayloadManager` simplification (#10787)](https://github.com/Consensys/teku/commit/cb53e889cff1dec3a58eb51b1acf7584e245784e) - 2026-06-10
 * [Commit] [Upgrade jvm-libp2p to 1.3.2 (#10817)](https://github.com/Consensys/teku/commit/59dea781ecbe96570966df80c52f74a8f31882b8) - 2026-06-10
+* [Pull Request] [Add containers for Staked Builder API](https://github.com/Consensys/teku/pull/10824) - 2026-06-11
+* [Pull Request] [Split new builder deposits signature verification into batches](https://github.com/Consensys/teku/pull/10820) - 2026-06-11
+* [Issue] [Staked Builder API](https://github.com/Consensys/teku/issues/10822) - 2026-06-11
+* [Commit] [Split new builder deposits signature verification into batches (#10820)](https://github.com/Consensys/teku/commit/0fa34ef887c1c3beaefcae9ea14b55c16e2ad5fc) - 2026-06-11
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

@@ -215,6 +215,15 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix loading blocks from blockdb](https://github.com/ethpandaops/dora/pull/736#pullrequestreview-4458834327) - 2026-06-09
 * [Review] [Review on: fix loading blocks from blockdb](https://github.com/ethpandaops/dora/pull/735#pullrequestreview-4458607657) - 2026-06-09
 * [Pull Request] [Show revert reason tooltip on failed tx badge in slot view](https://github.com/ethpandaops/dora/pull/739) - 2026-06-10
+* [Commit] [Merge pull request #715 from ethpandaops/bbusa/included-deposits-cred-type-filter](https://github.com/ethpandaops/dora/commit/fb687169ff63d4d27dd3082f2d0d717d26f201d2) - 2026-06-11
+* [Commit] [merge cred_type schema migrations into one, fix nil head panic in GetIndexedDepositQueue](https://github.com/ethpandaops/dora/commit/b103415ba8b1a84e70273b7608437780d77687b6) - 2026-06-11
+* [Commit] [validators: add withdrawal credential type filter](https://github.com/ethpandaops/dora/commit/629a42e47f071027afa7a384a6ba45865467bdba) - 2026-06-11
+* [Commit] [included_deposits: use indexed cred_type column instead of SUBSTRING, multiselect filter UI](https://github.com/ethpandaops/dora/commit/462895f0319c6c0b6bbb7aae4d3f82d7bcc6b03a) - 2026-06-11
+* [Commit] [api-docs: regenerate swagger for cred_type param](https://github.com/ethpandaops/dora/commit/34972c293bd3aa90e299ed0994a4975838dbdea3) - 2026-06-11
+* [Commit] [api(deposits_included): expose cred_type filter](https://github.com/ethpandaops/dora/commit/d4dd1dcda72ec13a85ebf20d0956067dbabdfed3) - 2026-06-11
+* [Commit] [included_deposits: apply cred type filter to cached deposits](https://github.com/ethpandaops/dora/commit/2625c3200e5b2701a0b5f920a60615f63549f109) - 2026-06-11
+* [Commit] [included_deposits: include credTypes in debug log](https://github.com/ethpandaops/dora/commit/93f1036869a35f236f2f459d79209858d8a8ca0e) - 2026-06-11
+* [Commit] [feat(included_deposits): filter by withdrawal credential type](https://github.com/ethpandaops/dora/commit/2b6366c3f409157c585426133923e8094bbc755c) - 2026-06-11
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -324,6 +333,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [inventory: add ahshum to nimbus CL authorized keys](https://github.com/ethpandaops/template-devnets/commit/534ff351a763d2ff5876d5aab5cae5933f5410fb) - 2026-05-28
 * [Commit] [setup: put asdf shims on PATH so pip resolves under bash](https://github.com/ethpandaops/template-devnets/commit/2fd008053b54c3bea3758483fe3e1cc87b9c774d) - 2026-05-28
 * [Pull Request] [feat: expose watchtower HTTP API for gated rollouts](https://github.com/ethpandaops/template-devnets/pull/171) - 2026-05-29
+* [Review] [Review on: update run.zsh with `sync_mapping` subcommand](https://github.com/ethpandaops/template-devnets/pull/174#pullrequestreview-4477250271) - 2026-06-11
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
 * [Pull Request] [core/txpool: report actual 110% threshold in intrinsic gas error](https://github.com/ethereum/go-ethereum/pull/34782) - 2026-04-21
