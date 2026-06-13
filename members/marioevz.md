@@ -105,6 +105,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(tests): remove dead static-filler infrastructure](https://github.com/ethereum/execution-specs/pull/2950#pullrequestreview-4470096877) - 2026-06-10
 * [Review] [Review on: ✨ feat(test):  EIP-7928 Selfdestruct a dirty account](https://github.com/ethereum/execution-specs/pull/2967#pullrequestreview-4469895526) - 2026-06-10
 * [Review] [Review on: feat(test-specs): Allow automatic transaction gas-limit](https://github.com/ethereum/execution-specs/pull/2969#pullrequestreview-4478288441) - 2026-06-11
+* [Issue] [refactor(tests): Refactor system-request test helpers](https://github.com/ethereum/execution-specs/issues/2984) - 2026-06-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

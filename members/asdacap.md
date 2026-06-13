@@ -276,6 +276,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test: harden SyncPeerPool peer-init wait against ARM CI flake](https://github.com/NethermindEth/nethermind/pull/11964#pullrequestreview-4474574370) - 2026-06-11
 * [Pull Request] [feat(sync): reassemble disconnected state trees locally after snap sync](https://github.com/NethermindEth/nethermind/pull/11963) - 2026-06-11
 * [Commit] [feat(flatdb): RLP-wrap storage slot values behind a versioned flag (#11909)](https://github.com/NethermindEth/nethermind/commit/1374f15773eef5cdac1b8133034e610c02afd345) - 2026-06-11
+* [Pull Request] [feat: embedded mainnet consensus-layer driver plugin (Nethermind.BeaconChain)](https://github.com/NethermindEth/nethermind/pull/11976) - 2026-06-12
+* [Pull Request] [feat: host-side prerequisites for the embedded beacon chain plugin (SSZ ulong limits, injectable discv5 ENR filter)](https://github.com/NethermindEth/nethermind/pull/11985) - 2026-06-13
+* [Review] [Review on: feat: host-side prerequisites for the embedded beacon chain plugin (SSZ ulong limits, injectable discv5 ENR filter)](https://github.com/NethermindEth/nethermind/pull/11985#pullrequestreview-4490208504) - 2026-06-13
+* [Pull Request] [feat(flatdb): persist at finalized boundary with reverse diffs for snap serving](https://github.com/NethermindEth/nethermind/pull/11980) - 2026-06-12
+* [Review] [Review on: ci: chunk Synchronization.Test on macOS to avoid 15-min timeout](https://github.com/NethermindEth/nethermind/pull/11978#pullrequestreview-4485533394) - 2026-06-12
+* [Pull Request] [fix(flatdb): detect legacy raw slot DBs by slot presence, not the Layout marker](https://github.com/NethermindEth/nethermind/pull/11975) - 2026-06-12
+* [Commit] [fix(flatdb): detect legacy raw slot DBs by slot presence, not the Layout marker (#11975)](https://github.com/NethermindEth/nethermind/commit/efeb0f7d678baf88c7bb9131f2e6ae130bdfc969) - 2026-06-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

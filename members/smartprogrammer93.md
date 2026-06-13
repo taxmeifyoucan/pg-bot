@@ -114,6 +114,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Enable flat DB by default; flip CI backend coverage](https://github.com/NethermindEth/nethermind/pull/11931#pullrequestreview-4478535922) - 2026-06-11
 * [Review] [Review on: test: harden SyncPeerPool peer-init wait against ARM CI flake](https://github.com/NethermindEth/nethermind/pull/11964#pullrequestreview-4474778944) - 2026-06-11
 * [Commit] [feat(rpc): implement `proof_call` for stateless call verification (#11732)](https://github.com/NethermindEth/nethermind/commit/0a643b09ed60379fc9b04dc7924957276824d2d0) - 2026-06-11
+* [Review] [Review on: Schedule Unzen fork on Taiko Hoodi](https://github.com/NethermindEth/nethermind/pull/11977#pullrequestreview-4485613762) - 2026-06-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 

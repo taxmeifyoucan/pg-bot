@@ -22,6 +22,7 @@ Team: Codex DAS
 * [Pull Request] [p2p/discover: Add crawl iterator based on direct FINDNODE requests](https://github.com/ethereum/go-ethereum/pull/34900) - 2026-05-07
 * [Review] [Review on: p2p/discover: decouple nodeFeed from Table mutex in waitForNodes](https://github.com/ethereum/go-ethereum/pull/34898#pullrequestreview-4250874816) - 2026-05-08
 
+* [Review] [Review on: p2p/discover: optimize findnodeByID](https://github.com/ethereum/go-ethereum/pull/33348#pullrequestreview-4483318326) - 2026-06-12
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: fix(discv5): add discovery port configuration for reth client](https://github.com/ethereum/hive/pull/1501#pullrequestreview-4330638505) - 2026-05-20
 ## Q1 2026

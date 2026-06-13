@@ -305,6 +305,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [bloatnet] domain: existance filter madvise require page-aligned byte slice](https://github.com/erigontech/erigon/pull/21743#pullrequestreview-4474152587) - 2026-06-11
 * [Commit] [ci: cache buildkit image so buildx setup survives Docker Hub outages (#21741)](https://github.com/erigontech/erigon/commit/e56ef04f0f1cf0e793f058ebf3553fb6795f2bca) - 2026-06-11
 * [Commit] [ci: per-exec-mode Go cache lineages + skip Go cache saves in merge-queue runs (#21748)](https://github.com/erigontech/erigon/commit/c3fe7b35b8c64e76e164b7a432e219c98d49f762) - 2026-06-11
+* [Pull Request] [execution/bal: serve BALs up to and beyond the WSP](https://github.com/erigontech/erigon/pull/21764) - 2026-06-12
+* [Review] [Review on: execution/bal: serve BALs up to and beyond the WSP](https://github.com/erigontech/erigon/pull/21764#pullrequestreview-4486061755) - 2026-06-12
+* [Pull Request] [tools, makefile, .github/workflows: extract only the shard's EEST fixture set](https://github.com/erigontech/erigon/pull/21771) - 2026-06-12
+* [Pull Request] [cmd/utils/app: add --keep-blocks to seg step-rebase](https://github.com/erigontech/erigon/pull/21770) - 2026-06-12
+* [Review] [Review on: cmd/utils/app: add --keep-blocks to seg step-rebase](https://github.com/erigontech/erigon/pull/21770#pullrequestreview-4486926236) - 2026-06-12
+* [Review] [Review on: execution/execmodule: fix data race between background prune and next FCU](https://github.com/erigontech/erigon/pull/21697#pullrequestreview-4483320785) - 2026-06-12
+* [Review] [Review on: execution/p2p: adhere to devp2p GetReceipts response spec](https://github.com/erigontech/erigon/pull/21757#pullrequestreview-4484749776) - 2026-06-12
+* [Commit] [execution/p2p: adhere to devp2p GetReceipts response spec (#21757)](https://github.com/erigontech/erigon/commit/e7a785c6a8976377ecb5fde2373d996f83357bab) - 2026-06-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

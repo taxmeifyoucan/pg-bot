@@ -208,6 +208,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Update Directory.Build.props for 1.38.1](https://github.com/NethermindEth/nethermind/pull/11973#pullrequestreview-4479420156) - 2026-06-11
 * [Pull Request] [Enable nullables](https://github.com/NethermindEth/nethermind/pull/11972) - 2026-06-11
 * [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11962#pullrequestreview-4475183213) - 2026-06-11
+* [Review] [Review on: test(zkevm): Update test inputs](https://github.com/NethermindEth/nethermind/pull/11984#pullrequestreview-4488074512) - 2026-06-12
+* [Pull Request] [Add PaprikaFlat state layout](https://github.com/NethermindEth/nethermind/pull/11983) - 2026-06-12
+* [Review] [Review on: Slotnum fix](https://github.com/NethermindEth/nethermind/pull/11968#pullrequestreview-4486472258) - 2026-06-12
+* [Review] [Review on: fix(flatdb): detect legacy raw slot DBs by slot presence, not the Layout marker](https://github.com/NethermindEth/nethermind/pull/11975#pullrequestreview-4484963503) - 2026-06-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

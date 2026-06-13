@@ -13,6 +13,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aanto
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Simplify reproducible builds: single version pin, add binary tarball + AppImage outputs](https://github.com/sigp/lighthouse/pull/9147) - 2026-04-20
+* [Pull Request] [Only bake warpbuild snapshot from stable](https://github.com/sigp/lighthouse/pull/9462) - 2026-06-12
 ## Q1 2026
 
 

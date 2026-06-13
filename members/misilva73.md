@@ -62,6 +62,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-8037: remove the callcode for account creation cases](https://github.com/ethereum/EIPs/pull/11759#pullrequestreview-4447937305) - 2026-06-08
 * [Review] [Review on: Update EIP-8037: improve EIP-7702 authorization gas accounting in EIP-8037](https://github.com/ethereum/EIPs/pull/11715#pullrequestreview-4459236885) - 2026-06-09
 * [Review] [Review on: Update EIP-8037: improve EIP-7702 authorization gas accounting in EIP-8037](https://github.com/ethereum/EIPs/pull/11715#pullrequestreview-4465303172) - 2026-06-10
+* [Pull Request] [Update EIP-8038: Add preliminary numbers](https://github.com/ethereum/EIPs/pull/11802) - 2026-06-12
+* [Commit] [Update EIP-7904: Convert to Informational (no compute repricing needed)](https://github.com/ethereum/EIPs/commit/cb113ac7eef3478af01e5825254a162221eed64f) - 2026-06-12
 ## Q1 2026
 
 

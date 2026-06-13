@@ -40,6 +40,7 @@ Github: [@leolara](https://github.com/leolara)
 * [Pull Request] [chore(packaging): ignore local memory files (CLAUDE.local.md, .mb/, mb/)](https://github.com/ethereum/execution-specs/pull/2962) - 2026-06-08
 * [Commit] [chore(packaging): ignore local memory files (CLAUDE.local.md, .mb/, mb/) (#2962)](https://github.com/ethereum/execution-specs/commit/21c515ad0760155378b2f6cc9ba1d3a621c03e3d) - 2026-06-08
 * [Review] [Review on: feat(test-specs): Allow automatic transaction gas-limit](https://github.com/ethereum/execution-specs/pull/2969#pullrequestreview-4475299047) - 2026-06-11
+* [Review] [Review on: feat(test-specs): Allow automatic transaction gas-limit](https://github.com/ethereum/execution-specs/pull/2969#pullrequestreview-4484622083) - 2026-06-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [ Add tech-debt audit (RFC — for discussion, not for merge)](https://github.com/ethereum/consensus-specs/pull/5233) - 2026-05-11
 * [Pull Request] [Add tech-debt audit (RFC — for discussion, not for merge)](https://github.com/ethereum/consensus-specs/pull/5266) - 2026-05-18

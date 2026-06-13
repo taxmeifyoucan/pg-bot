@@ -64,6 +64,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Filter payload attestations by parent root and slot for block proposal](https://github.com/grandinetech/grandine/pull/751) - 2026-06-11
 * [Review] [Review on: Introduce `is_previous_slot_payload_decision` predicate. Part 2](https://github.com/grandinetech/grandine/pull/749#pullrequestreview-4475640566) - 2026-06-11
 * [Issue] [[Bug] Weak payload attestation packer](https://github.com/grandinetech/grandine/issues/750) - 2026-06-11
+* [Pull Request] [Fix PTC votes count](https://github.com/grandinetech/grandine/pull/752) - 2026-06-12
 ## Q1 2026
 
 

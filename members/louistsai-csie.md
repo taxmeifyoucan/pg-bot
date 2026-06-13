@@ -128,6 +128,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [refactor(test-benchmark): port benchmark from bal-devnet-7](https://github.com/ethereum/execution-specs/pull/2977) - 2026-06-11
 * [Review] [Review on: feat(test-fill): align `fill-stateful` with `gas-benchmarks` implementation](https://github.com/ethereum/execution-specs/pull/2923#pullrequestreview-4474854128) - 2026-06-11
 * [Review] [Review on: chore(test-forks): include sibling BPO forks in `--until` ranges](https://github.com/ethereum/execution-specs/pull/2955#pullrequestreview-4476326253) - 2026-06-11
+* [Commit] [refactor(test-benchmark): port benchmark from bal-devnet-7 (#2977)](https://github.com/ethereum/execution-specs/commit/9d7738bdf9ba8caaf2bb20c0d21d5ebe2921fe2a) - 2026-06-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

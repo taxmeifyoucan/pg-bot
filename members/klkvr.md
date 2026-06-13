@@ -187,6 +187,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf(net): propagate pending transactions in the same poll iteration](https://github.com/paradigmxyz/reth/pull/25087#pullrequestreview-4471288992) - 2026-06-10
 * [Pull Request] [refactor: `MultiProofTargetsV2::from_state`](https://github.com/paradigmxyz/reth/pull/25144) - 2026-06-11
 * [Review] [Review on: feat(txpool): make additional validation fn type aliases public](https://github.com/paradigmxyz/reth/pull/25134#pullrequestreview-4477484140) - 2026-06-11
+* [Review] [Review on: chore(deps): bump revmc to 7e3536d6 (engine deadlock fix)](https://github.com/paradigmxyz/reth/pull/25185#pullrequestreview-4487367631) - 2026-06-12
+* [Review] [Review on: fix(cli): give --jit arg a unique clap id](https://github.com/paradigmxyz/reth/pull/25183#pullrequestreview-4487351753) - 2026-06-12
+* [Commit] [refactor: `MultiProofTargetsV2::from_state` (#25144)](https://github.com/paradigmxyz/reth/commit/505f94d9bc9f274da2be62cd6df1a3cff8548bba) - 2026-06-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
@@ -220,6 +223,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [fix: restore `&mut` APIs for `PendingEntry`](https://github.com/sigp/discv5/pull/302) - 2026-04-28
 * [Commit] [fix: restore &mut APIs for PendingEntry (#302)](https://github.com/sigp/discv5/commit/0f95be100206ffda358e7d26d9ef9e7aed23312e) - 2026-04-28
 * [Commit] [feat: add escape hatch for fallback decoding (#299)](https://github.com/sigp/discv5/commit/0c29cab68423a03796d268ac666836c11f46b48e) - 2026-04-28
+
+[paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
+* [Review] [Review on: fix(runtime): never block in pause/resume on the bounded command channel](https://github.com/paradigmxyz/revmc/pull/391#pullrequestreview-4487204965) - 2026-06-12
 ## Q1 2026
 
 

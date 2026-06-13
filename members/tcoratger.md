@@ -376,6 +376,25 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [perf(whir): commit folded rounds straight from the live sumcheck buffer](https://github.com/Plonky3/Plonky3/pull/1804) - 2026-06-11
 * [Commit] [feat!(lookup): degree-budget-aware same-bus column packing (#1799)](https://github.com/Plonky3/Plonky3/commit/178c936b90c9583994c671965c09f735c121880d) - 2026-06-11
 * [Commit] [refactor(merkle-tree): split mmcs.rs into a feature-organized mmcs/ module (#1801)](https://github.com/Plonky3/Plonky3/commit/ee5ed70acd00974d3d8e84653b0a18ed227e6c48) - 2026-06-11
+* [Review] [Review on: whir: next statement](https://github.com/Plonky3/Plonky3/pull/1821#pullrequestreview-4489916633) - 2026-06-12
+* [Review] [Review on: perf(m31): widening NEON MACs for the mixed base×extension dot-product kernels](https://github.com/Plonky3/Plonky3/pull/1822#pullrequestreview-4488812550) - 2026-06-12
+* [Pull Request] [feat(lookup): exclusivity-aware lookup columns](https://github.com/Plonky3/Plonky3/pull/1825) - 2026-06-12
+* [Review] [Review on: chore: add CODEOWNERS](https://github.com/Plonky3/Plonky3/pull/1824#pullrequestreview-4488308918) - 2026-06-12
+* [Review] [Review on: perf(m31): eliminate allocation churn in QM31 column conversions and the lambda extraction](https://github.com/Plonky3/Plonky3/pull/1823#pullrequestreview-4488269951) - 2026-06-12
+* [Review] [Review on: perf(uni-stark): reuse per-thread buffers in quotient_values](https://github.com/Plonky3/Plonky3/pull/1815#pullrequestreview-4485853748) - 2026-06-12
+* [Pull Request] [cleanup(m31): drop redundant Distribution bound on PackedQM31 sampler](https://github.com/Plonky3/Plonky3/pull/1820) - 2026-06-12
+* [Review] [Review on: perf(circle): alpha-reduce the trace-size subdomain prefix and lift the column](https://github.com/Plonky3/Plonky3/pull/1818#pullrequestreview-4485881300) - 2026-06-12
+* [Review] [Review on: perf(m31): use the degree-4 extension field for `Mersenne31` Circle proofs](https://github.com/Plonky3/Plonky3/pull/1817#pullrequestreview-4485684727) - 2026-06-12
+* [Review] [Review on: perf(merkle-tree): hash single-matrix injected rows without flat_map](https://github.com/Plonky3/Plonky3/pull/1816#pullrequestreview-4484291630) - 2026-06-12
+* [Pull Request] [perf(lookup): flag-zero skip for sparse rows + dot_product tuple combine](https://github.com/Plonky3/Plonky3/pull/1812) - 2026-06-12
+* [Review] [Review on: perf(circle): kill data-movement passes across `extrapolate`](https://github.com/Plonky3/Plonky3/pull/1811#pullrequestreview-4484171756) - 2026-06-12
+* [Pull Request] [ci: install taplo-cli with --locked to fix taplo/time E0119 build break](https://github.com/Plonky3/Plonky3/pull/1814) - 2026-06-12
+* [Review] [Review on: perf(merkle-tree): hash single-matrix leaf rows without `flat_map`](https://github.com/Plonky3/Plonky3/pull/1813#pullrequestreview-4484020103) - 2026-06-12
+* [Review] [Review on: perf(circle): evaluate out-of-domain openings on a trace-size subdomain](https://github.com/Plonky3/Plonky3/pull/1810#pullrequestreview-4483698123) - 2026-06-12
+* [Review] [Review on: perf(circle): parallelize the FRI fold kernels](https://github.com/Plonky3/Plonky3/pull/1809#pullrequestreview-4483637054) - 2026-06-12
+* [Commit] [cleanup(m31): drop redundant Distribution bound on PackedQM31 sampler (#1820)](https://github.com/Plonky3/Plonky3/commit/9fe9c43e9c1ee67b20c5cee891fad383980d9b30) - 2026-06-12
+* [Commit] [perf(lookup): flag-zero skip for sparse rows + dot_product tuple combine (#1812)](https://github.com/Plonky3/Plonky3/commit/897d5e184c1785fba701421d557abeff7dec320b) - 2026-06-12
+* [Commit] [ci: install taplo-cli with --locked (#1814)](https://github.com/Plonky3/Plonky3/commit/ef4a8a76eb3bce355ae44e4691cec90989205eee) - 2026-06-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

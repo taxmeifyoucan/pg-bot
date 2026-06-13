@@ -334,6 +334,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [setup: put asdf shims on PATH so pip resolves under bash](https://github.com/ethpandaops/template-devnets/commit/2fd008053b54c3bea3758483fe3e1cc87b9c774d) - 2026-05-28
 * [Pull Request] [feat: expose watchtower HTTP API for gated rollouts](https://github.com/ethpandaops/template-devnets/pull/171) - 2026-05-29
 * [Review] [Review on: update run.zsh with `sync_mapping` subcommand](https://github.com/ethpandaops/template-devnets/pull/174#pullrequestreview-4477250271) - 2026-06-11
+* [Review] [Review on: add support for multiple buildoor instances](https://github.com/ethpandaops/template-devnets/pull/175#pullrequestreview-4485790594) - 2026-06-12
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
 * [Pull Request] [core/txpool: report actual 110% threshold in intrinsic gas error](https://github.com/ethereum/go-ethereum/pull/34782) - 2026-04-21

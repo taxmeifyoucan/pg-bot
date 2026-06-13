@@ -91,6 +91,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [feat: implement EIP-8038 (State-access Gas Cost Update)](https://github.com/NethermindEth/nethermind/pull/11959) - 2026-06-10
 * [Review] [Review on: Fix BALs network encoding](https://github.com/NethermindEth/nethermind/pull/11950#pullrequestreview-4467527395) - 2026-06-10
 * [Pull Request] [chore: bump pyspec BAL fixtures to tests-bal@v7.3.0](https://github.com/NethermindEth/nethermind/pull/11968) - 2026-06-11
+* [Review] [Review on: perf(evm): per-thread free-list for EVM memory buffers + skip redundant copy-opcode revalidation](https://github.com/NethermindEth/nethermind/pull/11884#pullrequestreview-4485950625) - 2026-06-12
+* [Commit] [Slotnum fix (#11968)](https://github.com/NethermindEth/nethermind/commit/8c09eebb8feca1dfc0c5adff770f8cb1e678a87b) - 2026-06-12
 ## Q1 2026
 
 

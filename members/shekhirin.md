@@ -151,12 +151,17 @@ Team: Reth
 * [Review] [Review on: ci: add metrics option to Derek bench workflow](https://github.com/paradigmxyz/reth/pull/24990#pullrequestreview-4447941710) - 2026-06-08
 * [Review] [Review on: fix(chain-state): publish deferred trie data from task](https://github.com/paradigmxyz/reth/pull/24995#pullrequestreview-4456793178) - 2026-06-09
 * [Commit] [fix(cli): target `reth download --force` cleanup (#25015)](https://github.com/paradigmxyz/reth/commit/949834ad1cdc658dd85631857bb3b5ca16f12a82) - 2026-06-09
+* [Review] [Review on: refactor: use RawBal for block access lists](https://github.com/paradigmxyz/reth/pull/25169#pullrequestreview-4485440695) - 2026-06-12
+* [Review] [Review on: chore(deps): bump revm to 41, alloy-evm 0.37, reth-core 0.5](https://github.com/paradigmxyz/reth/pull/25170#pullrequestreview-4485200935) - 2026-06-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13
 
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: fix(state): canonicalize BAL alloy ordering](https://github.com/bluealloy/revm/pull/3618#pullrequestreview-4180873597) - 2026-04-27
+
+[paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
+* [Review] [Review on: chore(deps): bump revm to 41, alloy-evm 0.37](https://github.com/paradigmxyz/revmc/pull/390#pullrequestreview-4485195963) - 2026-06-12
 ## Q1 2026
 
 

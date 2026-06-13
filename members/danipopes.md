@@ -346,6 +346,10 @@ Team: Reth
 * [Commit] [perf: make op_info_map and make_map const (#322)](https://github.com/paradigmxyz/revmc/commit/b074a904d1ed8769e2e4d1d125231a36ea33341f) - 2026-06-10
 * [Commit] [chore: bump alloy-evm and oxc-index (#389)](https://github.com/paradigmxyz/revmc/commit/5ca04c3896c0be9447430853355ab11c0e9c6c24) - 2026-06-09
 * [Commit] [fix: update revm gas API usage (#388)](https://github.com/paradigmxyz/revmc/commit/ca5afb87e86a532e3a2d193ac45654832a323d11) - 2026-06-09
+* [Pull Request] [feat: configure single error mode](https://github.com/paradigmxyz/revmc/pull/397) - 2026-06-12
+* [Review] [Review on: fix: avoid materializing failure stack](https://github.com/paradigmxyz/revmc/pull/392#pullrequestreview-4488560803) - 2026-06-12
+* [Review] [Review on: fix(runtime): never block in pause/resume on the bounded command channel](https://github.com/paradigmxyz/revmc/pull/391#pullrequestreview-4487174806) - 2026-06-12
+* [Commit] [feat: configure single error mode (#397)](https://github.com/paradigmxyz/revmc/commit/64ddc4e46fc38effbbf29cc8c46114e5cdcda05e) - 2026-06-13
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -414,6 +418,7 @@ Team: Reth
 * [Review] [Review on: perf(parbal): BAL prewarming pool](https://github.com/paradigmxyz/reth/pull/25003#pullrequestreview-4450634024) - 2026-06-08
 * [Review] [Review on: ci: summarize hive failure logs](https://github.com/paradigmxyz/reth/pull/25001#pullrequestreview-4449579040) - 2026-06-08
 * [Commit] [feat: integrate revmc JIT (#23230)](https://github.com/paradigmxyz/reth/commit/e891a6b8cafada7b302860fd98c9fe6bace8375a) - 2026-06-11
+* [Review] [Review on: feat: make JIT opt-in for library crates](https://github.com/paradigmxyz/reth/pull/25178#pullrequestreview-4486243590) - 2026-06-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

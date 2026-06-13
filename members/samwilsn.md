@@ -30,6 +30,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Website: Add check to ensure that all EIPs are actually EIPs](https://github.com/ethereum/EIPs/pull/10909#pullrequestreview-4421344700) - 2026-06-03
 * [Commit] [Update EIP-7932: hide the template from jekyll](https://github.com/ethereum/EIPs/commit/96d53ec275b18b23f09eadb4f5c415d1c1e5e5df) - 2026-06-03
 * [Review] [Review on: Website: Add check to ensure that all EIPs are actually EIPs](https://github.com/ethereum/EIPs/pull/10909#pullrequestreview-4429771760) - 2026-06-04
+* [Pull Request] [fix template error](https://github.com/ethereum/EIPs/pull/11801) - 2026-06-12
+* [Commit] [fix template error (#11801)](https://github.com/ethereum/EIPs/commit/fea04241d0d13514c2baf67076eff63dd3549872) - 2026-06-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec): Abstract py-ecc implementation detail from EIP-2537](https://github.com/ethereum/execution-specs/pull/2384#pullrequestreview-4078371779) - 2026-04-08
 * [Pull Request] [chore(tooling,deps): update mypy to 1.20](https://github.com/ethereum/execution-specs/pull/2633) - 2026-04-08

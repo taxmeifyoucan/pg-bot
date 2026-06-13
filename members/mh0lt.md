@@ -248,6 +248,8 @@ Team: Erigon
 * [Commit] [fix: PoS dev mode — enable Fusaka (Fulu CL + Osaka EL) block production (#21646)](https://github.com/erigontech/erigon/commit/d47ea5bf37b40f5b8d56291d4d35c85c30c37282) - 2026-06-10
 * [Issue] [Thread caller context through the state-read path (replace context.TODO() bridges) — for metrics, then tracing/logging](https://github.com/erigontech/erigon/issues/21756) - 2026-06-11
 * [Issue] [kv/state caches: tidy FlushOption + make cache consistency under unwind (txNum, epoch)-based without full iteration](https://github.com/erigontech/erigon/issues/21752) - 2026-06-11
+* [Pull Request] [.claude: anchor the comment policy as a rule + advisory write-time hook](https://github.com/erigontech/erigon/pull/21775) - 2026-06-12
+* [Review] [Review on: execution/stagedsync: recover CodePath alongside CodeHashPath in parallel normalizeWriteSet](https://github.com/erigontech/erigon/pull/21706#pullrequestreview-4488309790) - 2026-06-12
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

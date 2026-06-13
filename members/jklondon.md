@@ -96,6 +96,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state, db/config3: erigondb.toml as source of truth for commitment branch referencing](https://github.com/erigontech/erigon/pull/21452#pullrequestreview-4449028307) - 2026-06-08
 * [Review] [Review on: db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots](https://github.com/erigontech/erigon/pull/21200#pullrequestreview-4449015588) - 2026-06-08
 * [Review] [Review on: db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots](https://github.com/erigontech/erigon/pull/21200#pullrequestreview-4462600315) - 2026-06-09
+* [Review] [Review on: [r3.4] db: skip stale unwind changeset fallback during forkchoice re-execution](https://github.com/erigontech/erigon/pull/21761#pullrequestreview-4484478694) - 2026-06-12
 ## Q1 2026
 
 

@@ -114,6 +114,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Split new builder deposits signature verification into batches](https://github.com/Consensys/teku/pull/10820) - 2026-06-11
 * [Issue] [Staked Builder API](https://github.com/Consensys/teku/issues/10822) - 2026-06-11
 * [Commit] [Split new builder deposits signature verification into batches (#10820)](https://github.com/Consensys/teku/commit/0fa34ef887c1c3beaefcae9ea14b55c16e2ad5fc) - 2026-06-11
+* [Commit] [Add containers for Staked Builder API (#10824)](https://github.com/Consensys/teku/commit/812014d576a6c8d0cb0e4761499733a1160eba88) - 2026-06-12
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

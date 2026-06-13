@@ -361,6 +361,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Add builder execution requests (EIP-8282)](https://github.com/ethereum/consensus-specs/pull/5359) - 2026-06-11
 * [Review] [Review on: Add annotation prefixes to p2p interface spec sections](https://github.com/ethereum/consensus-specs/pull/5356#pullrequestreview-4477534264) - 2026-06-11
 * [Review] [Review on: Update dependency eth-remerkleable to v0.1.31](https://github.com/ethereum/consensus-specs/pull/5358#pullrequestreview-4477183183) - 2026-06-11
+* [Review] [Review on: Add builder execution requests (EIP-8282)](https://github.com/ethereum/consensus-specs/pull/5359#pullrequestreview-4485752040) - 2026-06-12
+* [Review] [Review on: Reject bids with invalid `prev_randao` during gossip validation](https://github.com/ethereum/consensus-specs/pull/5360#pullrequestreview-4487256958) - 2026-06-12
+* [Review] [Review on: Fix some inconsistencies in fulu partial-columns spec](https://github.com/ethereum/consensus-specs/pull/5357#pullrequestreview-4486751664) - 2026-06-12
+* [Review] [Review on: Add annotation prefixes to p2p interface spec sections](https://github.com/ethereum/consensus-specs/pull/5356#pullrequestreview-4485783976) - 2026-06-12
+* [Commit] [Add annotation prefixes to p2p interface spec sections (#5356)](https://github.com/ethereum/consensus-specs/commit/8e19f82b04d92712ff424fa5b95ac4333f88b7d6) - 2026-06-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 
@@ -382,6 +387,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat: drop legacy eth1 bridge deposits from Fulu onwards (consensus-specs #4704)](https://github.com/ChainSafe/lodestar/pull/9458#pullrequestreview-4421189607) - 2026-06-03
+* [Review] [Review on: feat: eip-8282 builder execution requests scaffolding](https://github.com/ChainSafe/lodestar/pull/9507#pullrequestreview-4489927912) - 2026-06-12
 ## Q1 2026
 
 

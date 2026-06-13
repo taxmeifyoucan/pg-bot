@@ -77,6 +77,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Reduce [XDeclaredButNotUsed] and [Deprecated] warnings (#4314)](https://github.com/status-im/nimbus-eth1/commit/8ab3d0f467d270df0feb117ec0f6ffa691a1c76a) - 2026-06-09
 * [Pull Request] [Fix nightly build jobs dependancy graph](https://github.com/status-im/nimbus-eth1/pull/4320) - 2026-06-11
 * [Commit] [Fix nightly build jobs dependancy graph (#4320)](https://github.com/status-im/nimbus-eth1/commit/b49be5d69099b27031368bae661c6fc1a029d0bc) - 2026-06-12
+* [Pull Request] [Exclude nim upstream/version-2-2 from release and nightly build matrix](https://github.com/status-im/nimbus-eth1/pull/4323) - 2026-06-12
+* [Pull Request] [Upgrade eest test fixtures to v7.3.1](https://github.com/status-im/nimbus-eth1/pull/4327) - 2026-06-12
+* [Review] [Review on: proxy: fix closure cycles in evm](https://github.com/status-im/nimbus-eth1/pull/4322#pullrequestreview-4483027960) - 2026-06-12
+* [Commit] [Exclude nim upstream/version-2-2 from release and nightly build matrix (#4323)](https://github.com/status-im/nimbus-eth1/commit/ef2193e1d163b281480a0d685d036190932d85d6) - 2026-06-13
+* [Commit] [Upgrade eest test fixtures to v7.3.1 (#4327)](https://github.com/status-im/nimbus-eth1/commit/0aa7704ad16ac5a29baec633d6a313de6062b266) - 2026-06-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 

@@ -666,6 +666,14 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11962#pullrequestreview-4474231861) - 2026-06-11
 * [Pull Request] [test: harden SyncPeerPool peer-init wait against ARM CI flake](https://github.com/NethermindEth/nethermind/pull/11964) - 2026-06-11
 * [Commit] [test: harden SyncPeerPool peer-init wait against ARM CI flake (#11964)](https://github.com/NethermindEth/nethermind/commit/b4a9779d52b061997d795f5d152855ed4ec031c4) - 2026-06-11
+* [Review] [Review on: test(zkevm): Update test inputs](https://github.com/NethermindEth/nethermind/pull/11984#pullrequestreview-4488793273) - 2026-06-12
+* [Review] [Review on: Flat: force-persist the head-reachable fork instead of an arbitrary one](https://github.com/NethermindEth/nethermind/pull/11967#pullrequestreview-4484810368) - 2026-06-12
+* [Review] [Review on: perf(evm): per-thread free-list for EVM memory buffers + skip redundant copy-opcode revalidation](https://github.com/NethermindEth/nethermind/pull/11884#pullrequestreview-4485485805) - 2026-06-12
+* [Review] [Review on: feat(evm): add pow2 zkVM memory allocation path](https://github.com/NethermindEth/nethermind/pull/11974#pullrequestreview-4483021696) - 2026-06-12
+* [Review] [Review on: debug: treat zero traceCallMany gas as unset](https://github.com/NethermindEth/nethermind/pull/11830#pullrequestreview-4485302843) - 2026-06-12
+* [Pull Request] [ci: chunk Synchronization.Test on macOS to avoid 15-min timeout](https://github.com/NethermindEth/nethermind/pull/11978) - 2026-06-12
+* [Review] [Review on: fix(flatdb): detect legacy raw slot DBs by slot presence, not the Layout marker](https://github.com/NethermindEth/nethermind/pull/11975#pullrequestreview-4484645989) - 2026-06-12
+* [Commit] [ci: chunk Synchronization.Test on macOS to avoid 15-min timeout (#11978)](https://github.com/NethermindEth/nethermind/commit/5cd954d48379da0012be3d5fdb16a3a5960bfe11) - 2026-06-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

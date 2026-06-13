@@ -88,6 +88,10 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: eth: fix borked test introduced in merging #33347](https://github.com/ethereum/go-ethereum/pull/35130#pullrequestreview-4459961418) - 2026-06-09
 * [Review] [Review on: .: fix all typos, as reported by crates-ci/typos](https://github.com/ethereum/go-ethereum/pull/35008#pullrequestreview-4468124731) - 2026-06-10
 * [Pull Request] [core/rawdb/eradb: integrate ere backend](https://github.com/ethereum/go-ethereum/pull/35146) - 2026-06-11
+* [Review] [Review on: cmd/geth: fix logging line count error](https://github.com/ethereum/go-ethereum/pull/35136#pullrequestreview-4487492558) - 2026-06-12
+* [Review] [Review on: core/vm: fix random stack error message](https://github.com/ethereum/go-ethereum/pull/35134#pullrequestreview-4487473340) - 2026-06-12
+* [Review] [Review on: core/vm: compute stack operations in place](https://github.com/ethereum/go-ethereum/pull/35156#pullrequestreview-4485053932) - 2026-06-12
+* [Commit] [internal/memlimit: respect cgroup memory cap (#34947)](https://github.com/ethereum/go-ethereum/commit/d93dda49c8e5b0530fbddc16d61592ecf7e32b78) - 2026-06-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20

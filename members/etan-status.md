@@ -116,6 +116,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update computeRandaoMix accelerator for Gloas / Heze](https://github.com/status-im/nimbus-eth2/pull/8592) - 2026-06-11
 * [Pull Request] [Ensure bids are for a higher slot than their parent](https://github.com/status-im/nimbus-eth2/pull/8591) - 2026-06-11
 * [Pull Request] [Persist all chain DAG heads in database](https://github.com/status-im/nimbus-eth2/pull/8590) - 2026-06-11
+* [Review] [Review on: Ensure bids are for a higher slot than their parent](https://github.com/status-im/nimbus-eth2/pull/8591#pullrequestreview-4485239025) - 2026-06-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
@@ -143,6 +144,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4334975214) - 2026-05-21
 * [Review] [Review on: Ensure confirmed chain includes greatest unrealized checkpoint](https://github.com/ethereum/consensus-specs/pull/5288#pullrequestreview-4365993902) - 2026-05-26
 * [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4466763068) - 2026-06-10
+* [Pull Request] [Reject bids with invalid `prev_randao` during gossip validation](https://github.com/ethereum/consensus-specs/pull/5360) - 2026-06-12
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13

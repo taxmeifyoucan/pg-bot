@@ -85,6 +85,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [Thread startKeyHash through v2 snap range probing](https://github.com/besu-eth/besu/commit/baa7b0b6779b9030347aefa40ba4109eae542d14) - 2026-06-12
 * [Commit] [optimizations, refactorings, and improved test coverage (#10634)](https://github.com/besu-eth/besu/commit/224dcf9a403f0e440da244ada20db0b407d2242f) - 2026-06-11
 * [Commit] [Agentic PR guidance for Contributors (#10414)](https://github.com/besu-eth/besu/commit/fcc59c8ff8a574fe1ed4d967630f52e230b9e64f) - 2026-06-11
+* [Review] [Review on: Add behaviour change notice for rpc-tx-feecap](https://github.com/besu-eth/besu/pull/10640#pullrequestreview-4486665378) - 2026-06-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 * [Issue] [Encrypt The Mempool #4, May 13, 2026](https://github.com/ethereum/pm/issues/2054) - 2026-05-12

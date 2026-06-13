@@ -72,6 +72,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Fix TOCTOU in stategen latestAncestor between isFinalizedRoot and FinalizedState (#16881)](https://github.com/OffchainLabs/prysm/commit/f1d82487e99040ebc675db734d80082f9dbb6736) - 2026-06-05
 * [Review] [Review on: Reject block with an out-of-range proposer index](https://github.com/OffchainLabs/prysm/pull/16917#pullrequestreview-4449518682) - 2026-06-08
 * [Pull Request] [Normalize URL-style gRPC endpoint flags to host:port](https://github.com/OffchainLabs/prysm/pull/16925) - 2026-06-08
+* [Review] [Review on: Check network size before computing subnet topic scoring params](https://github.com/OffchainLabs/prysm/pull/16954#pullrequestreview-4486612188) - 2026-06-12
+* [Review] [Review on: Skip payload attribute computation while syncing](https://github.com/OffchainLabs/prysm/pull/16951#pullrequestreview-4484226269) - 2026-06-12
+* [Review] [Review on: Payload reorg](https://github.com/OffchainLabs/prysm/pull/16933#pullrequestreview-4487122472) - 2026-06-12
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

@@ -136,6 +136,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat(zkevm): Add EEST for stateless execution (#11908)](https://github.com/NethermindEth/nethermind/commit/25f27d53b87d42b790719bec47fd548333d051a3) - 2026-06-09
 * [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/11953#pullrequestreview-4465480999) - 2026-06-10
 * [Commit] [chore: Update packages (#11951)](https://github.com/NethermindEth/nethermind/commit/5bbb99e50f185e7b04a01c7b8a6a4d0598ce2a04) - 2026-06-10
+* [Pull Request] [test(zkevm): Update test inputs](https://github.com/NethermindEth/nethermind/pull/11984) - 2026-06-12
+* [Commit] [test(zkevm): Update test inputs (#11984)](https://github.com/NethermindEth/nethermind/commit/c9924bb3a0ee914059c9575556fa955aa52113b0) - 2026-06-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 * [Review] [Review on: feat(zkevm): prune non scheduled forks in ProtocolFork](https://github.com/ethereum/execution-specs/pull/2926#pullrequestreview-4373692443) - 2026-05-27

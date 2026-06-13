@@ -154,6 +154,15 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [refactor(bls): allocations around VMAS (#395)](https://github.com/ChainSafe/lodestar-z/commit/dfda58c32c2b08b716923cd50acfc0c4978c3fb3) - 2026-06-10
 * [Review] [Review on: fix(bindings): size BLS thread pool by cgroup-aware CPU count](https://github.com/ChainSafe/lodestar-z/pull/386#pullrequestreview-4475917171) - 2026-06-11
 * [Issue] [move cgroup aware `cpu_count` to its own lib](https://github.com/ChainSafe/lodestar-z/issues/399) - 2026-06-11
+* [Pull Request] [chore(release): v0.1.2-rc.9](https://github.com/ChainSafe/lodestar-z/pull/404) - 2026-06-12
+* [Pull Request] [chore(deps): bump zbuild](https://github.com/ChainSafe/lodestar-z/pull/403) - 2026-06-12
+* [Pull Request] [chore(deps): bump zapi](https://github.com/ChainSafe/lodestar-z/pull/402) - 2026-06-12
+* [Pull Request] [chore(release): v0.1.2-rc.8](https://github.com/ChainSafe/lodestar-z/pull/401) - 2026-06-12
+* [Commit] [chore(release): v0.1.2-rc.9 (#404)](https://github.com/ChainSafe/lodestar-z/commit/602480070524c0fe3e6099d7aae94ad5568d2d83) - 2026-06-12
+* [Commit] [chore(deps): bump zbuild (#403)](https://github.com/ChainSafe/lodestar-z/commit/e2545de171f74206456a50b983f1153399c00988) - 2026-06-12
+* [Commit] [chore(release): v0.1.2-rc.8 (#401)](https://github.com/ChainSafe/lodestar-z/commit/06f91c26dc7b6b3d00ad35726812f6770787ea07) - 2026-06-12
+* [Commit] [feat(bindings): aggregate cached public keys by validator index (#397)](https://github.com/ChainSafe/lodestar-z/commit/2f90603c1bd67abeeeae442991906b656ba7718e) - 2026-06-12
+* [Commit] [feat(bls): add small MSM for npoints < 32 (#393)](https://github.com/ChainSafe/lodestar-z/commit/b430638132545c9714c51146c41d3a4b0b3d19ac) - 2026-06-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

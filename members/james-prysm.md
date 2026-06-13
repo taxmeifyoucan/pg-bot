@@ -133,6 +133,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fix gloas proposal endpoint support (#16818)](https://github.com/OffchainLabs/prysm/commit/c4863fc3fef4b3292b9ac95d1ff517e11778cca3) - 2026-06-10
 * [Commit] [Validator rest ptc (#16856)](https://github.com/OffchainLabs/prysm/commit/54f7e6d48d61dd1463aba60ee89ab01ef696e510) - 2026-06-10
 * [Review] [Review on: Only send PTC attestations on canonical shuffling](https://github.com/OffchainLabs/prysm/pull/16946#pullrequestreview-4476335212) - 2026-06-11
+* [Pull Request] [adding gossip validation on envelope api and block api default](https://github.com/OffchainLabs/prysm/pull/16960) - 2026-06-12
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

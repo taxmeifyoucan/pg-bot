@@ -266,6 +266,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Check shouldOverrideFCU before computing payload attribute (#16952)](https://github.com/OffchainLabs/prysm/commit/5bda006d941bb519e2fcd17878f466bfcc6f5268) - 2026-06-12
 * [Commit] [Hook up payload attestation message in fork choice spec tests (#16934)](https://github.com/OffchainLabs/prysm/commit/0bf8640e05598eed23f56f6858f74758fed8cf60) - 2026-06-11
 * [Commit] [Re-enforce same-slot index-0 rule in `OnAttestation` (#16942)](https://github.com/OffchainLabs/prysm/commit/e55c8e8cda634f859f4c7aed1e73811b13236a7b) - 2026-06-11
+* [Pull Request] [Check network size before computing subnet topic scoring params](https://github.com/OffchainLabs/prysm/pull/16954) - 2026-06-12
+* [Pull Request] [Key payload ID cache by parent payload status](https://github.com/OffchainLabs/prysm/pull/16959) - 2026-06-12
+* [Pull Request] [Return true from FullBeatsEmpty before gloas](https://github.com/OffchainLabs/prysm/pull/16958) - 2026-06-12
+* [Pull Request] [Validate data-column sidecar counts on RPC fetch](https://github.com/OffchainLabs/prysm/pull/16918) - 2026-06-12
+* [Commit] [Check network size before computing subnet topic scoring params (#16954)](https://github.com/OffchainLabs/prysm/commit/5eb5a1119723e7a136b9064bff3c0762edd42082) - 2026-06-12
+* [Commit] [Skip payload attribute computation while syncing (#16951)](https://github.com/OffchainLabs/prysm/commit/46c9d5f02a08dafdbea8c99ebd01bae54d8a8d5c) - 2026-06-12
+* [Commit] [Validate data-column sidecar counts on RPC fetch (#16918)](https://github.com/OffchainLabs/prysm/commit/99e680cfd7f34f3833d42836b0b698e37fee00cc) - 2026-06-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

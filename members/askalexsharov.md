@@ -739,6 +739,9 @@ Team: Erigon
 * [Pull Request] [[r3.6] domain: existance filter madvise require page-aligned byte slice](https://github.com/erigontech/erigon/pull/21744) - 2026-06-11
 * [Pull Request] [[bloatnet] domain: existance filter madvise require page-aligned byte slice](https://github.com/erigontech/erigon/pull/21743) - 2026-06-11
 * [Commit] [[bloatnet] domain: existance filter madvise require page-aligned byte slice (#21744)](https://github.com/erigontech/erigon/commit/69c841fd98c033e2d8968e1d20ec2c9ff653722f) - 2026-06-11
+* [Pull Request] [db/datastruct/existence, fusefilter, db/state: switch existence filter to sharded fuse by default](https://github.com/erigontech/erigon/pull/21773) - 2026-06-12
+* [Review] [Review on: cmd/utils: fix db.read.concurrency help to match the actual default](https://github.com/erigontech/erigon/pull/21762#pullrequestreview-4484327203) - 2026-06-12
+* [Commit] [bloatnet: auto-nuke StateCache on low hit_rate (#21468)](https://github.com/erigontech/erigon/commit/e80d1902bb48219a41ed70ee9e762c0a9f56442e) - 2026-06-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

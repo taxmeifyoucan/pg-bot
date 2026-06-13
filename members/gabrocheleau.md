@@ -61,6 +61,14 @@ Team: EthereumJS
 * [Commit] [chore: point dev fixtures to bal@v7.3.0 (#4317)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/71f986e8c257e195ac8443a556a3514ce4663d65) - 2026-06-11
 * [Commit] [ci: lint-diff falls back to origin/HEAD when no upstream is set (#4318)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/57b5d7800261acd6782d699e263de08196f1af2a) - 2026-06-11
 * [Commit] [ci: always checkout in child workflows to provide the lockfile (#4319)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/9c94ebdfe0373abdc6d0a1a6778b148423fc9ed9) - 2026-06-11
+* [Pull Request] [evm/common: decouple binary execution witness generation from concrete StatefulBinaryTreeStateManager (Phase 2, R2.1)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4324) - 2026-06-12
+* [Pull Request] [docs: add root ARCHITECTURE.md (Phase 1, R1.1)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4323) - 2026-06-12
+* [Pull Request] [fix(evm): consume spilled state-gas on STATIC_STATE_CHANGE halt (EIP-8037)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4322) - 2026-06-12
+* [Pull Request] [chore: point dev fixtures to bal@v7.3.1](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4321) - 2026-06-12
+* [Pull Request] [fix(evm,vm): correct EIP-7928/EIP-8037 gas accounting for static CREATE](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4320) - 2026-06-12
+* [Commit] [fix(evm): consume spilled state-gas on STATIC_STATE_CHANGE halt (EIP-8037) (#4322)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/1d591f9c081eafba17eea055ef8e7b4c6fd26cdb) - 2026-06-12
+* [Commit] [chore: point dev fixtures to bal@v7.3.1 (#4321)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/2653d06d6990261e9cd339514e10b841dbd83bd1) - 2026-06-12
+* [Commit] [fix(evm,vm): correct EIP-7928/EIP-8037 gas accounting for static CREATE (#4320)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/db0da7347dda0bc39c8645ae212f8ab0701e61d4) - 2026-06-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 * [Issue] [Stateless Implementer's Call #52, June 1, 2026](https://github.com/ethereum/pm/issues/2064) - 2026-05-19

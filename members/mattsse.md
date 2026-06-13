@@ -621,6 +621,16 @@ Team: Reth
 * [Commit] [feat: add NodeCommand::peer_id helper (#25136)](https://github.com/paradigmxyz/reth/commit/8b1198f6bb8b73e7b00eb78a64d0957a758f9fe3) - 2026-06-11
 * [Commit] [feat(txpool): make additional validation fn type aliases public (#25134)](https://github.com/paradigmxyz/reth/commit/de4d362a632a2739509b8a0b5854e98dff463372) - 2026-06-11
 * [Commit] [feat(cli): support ERE (.erae) files in import-era (#25122)](https://github.com/paradigmxyz/reth/commit/256ceb6631aca836af59edb403c80e34378a2a27) - 2026-06-11
+* [Pull Request] [refactor: use RawBal for block access lists](https://github.com/paradigmxyz/reth/pull/25169) - 2026-06-12
+* [Review] [Review on: chore(hive): remove eth_syncing from  rpc-compat expected failure list](https://github.com/paradigmxyz/reth/pull/25172#pullrequestreview-4485614886) - 2026-06-12
+* [Review] [Review on: perf(trie): reuse storage trie cursor in state root](https://github.com/paradigmxyz/reth/pull/25163#pullrequestreview-4484512408) - 2026-06-12
+* [Pull Request] [chore(deps): bump revm to 41, alloy-evm 0.37, reth-core 0.5](https://github.com/paradigmxyz/reth/pull/25170) - 2026-06-12
+* [Review] [Review on: fix(rpc): buffer trace_filter block replays](https://github.com/paradigmxyz/reth/pull/25133#pullrequestreview-4485337727) - 2026-06-12
+* [Commit] [refactor: use RawBal for block access lists (#25169)](https://github.com/paradigmxyz/reth/commit/75ba41bf19baa941cd3353c5f7ce6704d0f13d25) - 2026-06-12
+* [Commit] [chore(deps): bump revm to 41, alloy-evm 0.37, reth-core 0.5 (#25170)](https://github.com/paradigmxyz/reth/commit/b68b8ca6c09ec74c5a5eae4370ab6b29799d1b23) - 2026-06-12
+* [Commit] [refactor(rpc): store decoded revm BALs behind Arc (#25165)](https://github.com/paradigmxyz/reth/commit/10238b1a4ebf1aec5687cbb02e92c99821aada8a) - 2026-06-12
+* [Commit] [refactor(net): reuse primitive sealed block wrapper (#25162)](https://github.com/paradigmxyz/reth/commit/828b1d1fc4b813a5a3a1aac42b74a9e774b4d4bd) - 2026-06-12
+* [Commit] [fix(docs): preserve rustdocs navigation (#25132)](https://github.com/paradigmxyz/reth/commit/18233d4c7fc338e2ed1fc889134872849dc76861) - 2026-06-12
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -642,11 +652,17 @@ Team: Reth
 * [Review] [Review on: feat: `Account::is_changed`](https://github.com/bluealloy/revm/pull/3727#pullrequestreview-4384080780) - 2026-05-28
 * [Pull Request] [feat(database): add conditional bundle update builder](https://github.com/bluealloy/revm/pull/3729) - 2026-05-30
 * [Commit] [feat(database): add conditional bundle update builder (#3729)](https://github.com/bluealloy/revm/commit/392ddb77ad8db642f1a283207b2e6e569270aa88) - 2026-05-30
+* [Pull Request] [feat(database): add database fallback mode for BAL misses](https://github.com/bluealloy/revm/pull/3754) - 2026-06-12
+* [Commit] [feat(database): add database fallback mode for BAL misses (#3754)](https://github.com/bluealloy/revm/commit/b48b3d502fd6ff5359b8742c2e1e03f2a47f9e87) - 2026-06-12
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: clients/reth: add `rpc.compute-state-root-for-eth-simulate` flag for reth](https://github.com/ethereum/hive/pull/1538#pullrequestreview-4458136381) - 2026-06-09
+
+[paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
+* [Pull Request] [chore(deps): bump revm to 41, alloy-evm 0.37](https://github.com/paradigmxyz/revmc/pull/390) - 2026-06-12
+* [Commit] [chore(deps): bump revm to 41, alloy-evm 0.37 (#390)](https://github.com/paradigmxyz/revmc/commit/e86ab245f60e37396e7bbb66e44c877e47d58aea) - 2026-06-12
 ## Q1 2026
 
 

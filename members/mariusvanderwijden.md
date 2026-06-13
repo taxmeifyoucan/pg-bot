@@ -86,6 +86,9 @@ Team: Geth
 * [Review] [Review on: internal/ethapi: default block parameter to latest on state methods](https://github.com/ethereum/go-ethereum/pull/35100#pullrequestreview-4417324452) - 2026-06-03
 * [Review] [Review on: eth/protocols/eth: track announced tx hashes only after send](https://github.com/ethereum/go-ethereum/pull/35122#pullrequestreview-4449196660) - 2026-06-08
 * [Review] [Review on: beacon/engine: only print the bad hash on error](https://github.com/ethereum/go-ethereum/pull/35112#pullrequestreview-4456378022) - 2026-06-09
+* [Review] [Review on: eth/catalyst, miner: add testing_commitBlockV1](https://github.com/ethereum/go-ethereum/pull/34995#pullrequestreview-4485228101) - 2026-06-12
+* [Pull Request] [core: implement EIP-8037, state creation gas cost increase](https://github.com/ethereum/go-ethereum/pull/33601) - 2026-06-12
+* [Commit] [core: implement EIP-8037, state creation gas cost increase (#33601)](https://github.com/ethereum/go-ethereum/commit/9059157eba227b6a4d4cc2e147e65f9919294360) - 2026-06-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

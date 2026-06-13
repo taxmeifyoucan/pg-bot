@@ -80,8 +80,12 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [Fix EngineApiProxy rejecting its own blocks: forward EIP-7685 executionRequests in synthetic newPayload (#11960)](https://github.com/NethermindEth/nethermind/commit/c30b5c7e931a979e1215df16310abc6be9a461e9) - 2026-06-10
 * [Review] [Review on: feat(workflow): add support for Arbitrum networks and update L2 options](https://github.com/NethermindEth/nethermind/pull/11970#pullrequestreview-4479362406) - 2026-06-11
 * [Pull Request] [Update Directory.Build.props for 1.38.1](https://github.com/NethermindEth/nethermind/pull/11973) - 2026-06-11
+* [Review] [Review on: Bump up the version to 1.40.0-unstable](https://github.com/NethermindEth/nethermind/pull/11986#pullrequestreview-4490489974) - 2026-06-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Issue] [Engine API over WebSocket: connection never re-established after EL restart, silently (v26.5.0)](https://github.com/status-im/nimbus-eth2/issues/8595) - 2026-06-12
 ## Q1 2026
 
 

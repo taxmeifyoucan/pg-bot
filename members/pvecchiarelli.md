@@ -40,6 +40,17 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Pull Request] [Create 20260604-Q2-quarterly-audit.md](https://github.com/protocolguild/protocol-guild-site/pull/64) - 2026-06-04
 * [Commit] [Merge pull request #64 from pvecchiarelli/main](https://github.com/protocolguild/protocol-guild-site/commit/59c9038c2a7f685320d5fd0f67c7e396eec50ccf) - 2026-06-04
 * [Commit] [Create 20260604-Q2-quarterly-audit.md](https://github.com/protocolguild/protocol-guild-site/commit/2b764a1a4cbbe9a142e278b54fe293969899addf) - 2026-06-04
+* [Pull Request] [update keycard blog](https://github.com/protocolguild/protocol-guild-site/pull/67) - 2026-06-12
+* [Pull Request] [Update 20260612-keycard-shell-for-every-member.md](https://github.com/protocolguild/protocol-guild-site/pull/66) - 2026-06-12
+* [Pull Request] [add keycard blog](https://github.com/protocolguild/protocol-guild-site/pull/65) - 2026-06-12
+* [Commit] [Merge pull request #67 from pvecchiarelli/main](https://github.com/protocolguild/protocol-guild-site/commit/9f0463b2264e926282e1a8dcf713b452349ffebe) - 2026-06-12
+* [Commit] [Update 20260612-keycard-shell-for-every-member.md](https://github.com/protocolguild/protocol-guild-site/commit/8ed7e2459b3a403f28c5e55ef6d51a7abf2319b9) - 2026-06-12
+* [Commit] [Add files via upload](https://github.com/protocolguild/protocol-guild-site/commit/526a57ea48604563e74bad40539f94ad7fa13de2) - 2026-06-12
+* [Commit] [Delete public/Keycard.png](https://github.com/protocolguild/protocol-guild-site/commit/196b369a4dc30600e182e7e187e485a2e1884bb4) - 2026-06-12
+* [Commit] [Update 20260612-keycard-shell-for-every-member.md](https://github.com/protocolguild/protocol-guild-site/commit/d7438a43a11af3218ef412fe306af8f836762c1d) - 2026-06-12
+* [Commit] [Merge pull request #65 from pvecchiarelli/main](https://github.com/protocolguild/protocol-guild-site/commit/abc5e0d359d96ffd33c2372632a4c0a859e6cad4) - 2026-06-12
+* [Commit] [Create 20260612-keycard-shell-for-every-member.md](https://github.com/protocolguild/protocol-guild-site/commit/339b0e55935b864029698488c4e320e56efca093) - 2026-06-12
+* [Commit] [Add files via upload](https://github.com/protocolguild/protocol-guild-site/commit/80a17bccaa1257557bafdf6a25a2e1ee20cd6c3e) - 2026-06-12
 ## Q1 2026
 
 

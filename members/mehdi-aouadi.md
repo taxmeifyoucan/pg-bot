@@ -90,6 +90,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [add Gloas full payload attestation gossip validation (#10804)](https://github.com/Consensys/teku/commit/9d3dc8f774ebc1f305dc2f249da64b273bacc588) - 2026-06-10
 * [Commit] [rename LRU based set method (#10815)](https://github.com/Consensys/teku/commit/fb0e6f747dcb734c01a2630c5c0d6385e25c21f4) - 2026-06-10
 * [Pull Request] [handle proposer preference with dependant root is new for checkpoint boundary](https://github.com/Consensys/teku/pull/10821) - 2026-06-11
+* [Pull Request] [update logs](https://github.com/Consensys/teku/pull/10828) - 2026-06-12
+* [Pull Request] [simplify fork choice](https://github.com/Consensys/teku/pull/10826) - 2026-06-12
+* [Review] [Review on: never fallback to base in resolveVoteNode](https://github.com/Consensys/teku/pull/10827#pullrequestreview-4484509905) - 2026-06-12
+* [Review] [Review on: defer Gloas full payload attestations until execution payload is available](https://github.com/Consensys/teku/pull/10772#pullrequestreview-4484134285) - 2026-06-12
+* [Commit] [update logs (#10828)](https://github.com/Consensys/teku/commit/35dcb57531b8e621a7603d40ef13e4c7ff6927db) - 2026-06-12
+* [Commit] [simplify fork choice (#10826)](https://github.com/Consensys/teku/commit/b2501d1fae437fabd44a34267edf83372074b12f) - 2026-06-12
+* [Commit] [defer Gloas full payload attestations until execution payload is available (#10772)](https://github.com/Consensys/teku/commit/2c031969ac19200206775cd6c623564e8aa6720b) - 2026-06-12
+* [Commit] [handle proposer preference whose dependant root is new for checkpoint boundary (#10821)](https://github.com/Consensys/teku/commit/105f339bab7b69dd675969fa6ac2af0b10d12a4d) - 2026-06-12
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: 1.3.0 release](https://github.com/libp2p/jvm-libp2p/pull/478#pullrequestreview-4327252421) - 2026-05-20
 ## Q1 2026

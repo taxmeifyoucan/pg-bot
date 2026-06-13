@@ -210,6 +210,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: chore: bump libp2p to 2.0.0](https://github.com/status-im/nimbus-eth2/pull/8536#pullrequestreview-4479088609) - 2026-06-11
 * [Pull Request] [rm non-runtimeconfig NUMBER_OF_COLUMNS from local testnet settings](https://github.com/status-im/nimbus-eth2/pull/8589) - 2026-06-11
 * [Pull Request] [reduce max stack usage while building tests](https://github.com/status-im/nimbus-eth2/pull/8587) - 2026-06-11
+* [Review] [Review on: Ensure bids are for a higher slot than their parent](https://github.com/status-im/nimbus-eth2/pull/8591#pullrequestreview-4485193306) - 2026-06-12
+* [Pull Request] [fix websocket reconnection across EL restarts](https://github.com/status-im/nimbus-eth2/pull/8597) - 2026-06-12
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -233,6 +235,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: nix: use TMPDIR for cache locations](https://github.com/status-im/nimbus-eth1/pull/4282#pullrequestreview-4405563272) - 2026-06-02
 * [Pull Request] [disable LTO on Windows](https://github.com/status-im/nimbus-eth1/pull/4305) - 2026-06-04
 * [Commit] [disable LTO on Windows (#4305)](https://github.com/status-im/nimbus-eth1/commit/3cff274547b0897ebe1035786c49a78d448c83be) - 2026-06-04
+* [Review] [Review on: Exclude nim upstream/version-2-2 from release and nightly build matrix](https://github.com/status-im/nimbus-eth1/pull/4323#pullrequestreview-4484357897) - 2026-06-12
+* [Pull Request] [prohibit high signatures in all post-Homestead blocks](https://github.com/status-im/nimbus-eth1/pull/4325) - 2026-06-12
+* [Review] [Review on: proxy: fix closure cycles in evm](https://github.com/status-im/nimbus-eth1/pull/4322#pullrequestreview-4486216944) - 2026-06-12
+* [Commit] [prohibit high signatures in all post-Homestead blocks (#4325)](https://github.com/status-im/nimbus-eth1/commit/040a9d7f473b34c7cfc8292e41411e625cbe7fb7) - 2026-06-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27

@@ -112,6 +112,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Test Release Tracker: `bal-devnet@v7.3.1`](https://github.com/ethereum/execution-specs/issues/2979) - 2026-06-11
 * [Commit] [feat(spec-specs): EIP-8037 - check static context upfront in CREATE opcodes](https://github.com/ethereum/execution-specs/commit/49f46977e7f6117ad78380b2e6a43e80195d170d) - 2026-06-11
 * [Commit] [chore(test-forks): include sibling BPO forks in `--until` ranges (#2955)](https://github.com/ethereum/execution-specs/commit/252dc300cabcc0d52936a8a30e23f15129a56902) - 2026-06-11
+* [Review] [Review on: feat(tests): sign state test transactions with their secret key to prevent bogus sender recovery](https://github.com/ethereum/execution-specs/pull/2983#pullrequestreview-4486075449) - 2026-06-12
+* [Review] [Review on: refactor(test-benchmark): port benchmark from bal-devnet-7](https://github.com/ethereum/execution-specs/pull/2977#pullrequestreview-4485573752) - 2026-06-12
+* [Commit] [chore(tests): EIP-7928 expect InvalidParams when newPayload misses BAL (#2980)](https://github.com/ethereum/execution-specs/commit/fb4c370aaa1c1a6354e0731f96a4c6105a2a8948) - 2026-06-12
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

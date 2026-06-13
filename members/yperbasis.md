@@ -688,6 +688,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: retry Docker Buildx setup on transient failure (#21735)](https://github.com/erigontech/erigon/commit/5a7c7adf2ed18f488f4764c7903ef58974f69c26) - 2026-06-10
 * [Commit] [ci: cache kurtosis engine-bootstrap images (curl-jq, traefik, alpine) (#21723)](https://github.com/erigontech/erigon/commit/cfd0de5bcaec9c77e623d3e5d32f3007e5add5c3) - 2026-06-10
 * [Commit] [execution/stagedsync: preserve real error through ErrExecAbortError wrap (#21732)](https://github.com/erigontech/erigon/commit/9ff35bd613a3f144ac33525c101c6c2e1f8e6126) - 2026-06-10
+* [Review] [Review on: docs: forward-port #21687 to main (v3.5 flag updates + Fundamentals docs)](https://github.com/erigontech/erigon/pull/21765#pullrequestreview-4485267949) - 2026-06-12
+* [Review] [Review on: docs: cross-link CLI Reference sections to their dedicated pages](https://github.com/erigontech/erigon/pull/21763#pullrequestreview-4485246061) - 2026-06-12
+* [Pull Request] [execution/execmodule: simplify FCU semaphore handoff](https://github.com/erigontech/erigon/pull/21767) - 2026-06-12
+* [Review] [Review on: execution/execmodule: simplify FCU semaphore handoff](https://github.com/erigontech/erigon/pull/21767#pullrequestreview-4485776918) - 2026-06-12
+* [Review] [Review on: execution/p2p: adhere to devp2p GetReceipts response spec](https://github.com/erigontech/erigon/pull/21757#pullrequestreview-4483659577) - 2026-06-12
+* [Review] [Review on: [r3.4] db: skip stale unwind changeset fallback during forkchoice re-execution](https://github.com/erigontech/erigon/pull/21761#pullrequestreview-4484988245) - 2026-06-12
+* [Review] [Review on: cl, execution: glamsterdam devnet-5 fixes](https://github.com/erigontech/erigon/pull/21655#pullrequestreview-4483991421) - 2026-06-12
+* [Review] [Review on: cl, sentinel: quiet data column sidecar misses](https://github.com/erigontech/erigon/pull/21686#pullrequestreview-4483780948) - 2026-06-12
+* [Review] [Review on: cl/beacon: include finalized in headers list](https://github.com/erigontech/erigon/pull/21645#pullrequestreview-4483662290) - 2026-06-12
+* [Pull Request] [execution/execmodule: block on semaphore in InsertBlocks, drop busy-wait + dead Busy paths](https://github.com/erigontech/erigon/pull/21549) - 2026-06-12
+* [Commit] [execution/execmodule: fix data race between background prune and next FCU (#21697)](https://github.com/erigontech/erigon/commit/16b8af16d4fe8f98c35e689c2c2c2540333549f9) - 2026-06-12
+* [Commit] [execution/execmodule: block on semaphore in InsertBlocks, drop busy-wait + dead Busy paths (#21549)](https://github.com/erigontech/erigon/commit/874ee8c106ea94c38318b955db8d18ddbcf8302a) - 2026-06-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

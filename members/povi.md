@@ -67,6 +67,7 @@ Team: Grandine
 * [Pull Request] [Fix Gloas attestation balance apply issue](https://github.com/grandinetech/grandine/pull/747) - 2026-06-10
 * [Review] [Review on: Filter payload attestations by parent root and slot for block proposal](https://github.com/grandinetech/grandine/pull/751#pullrequestreview-4477821009) - 2026-06-11
 * [Pull Request] [Introduce `is_previous_slot_payload_decision` predicate. Part 2](https://github.com/grandinetech/grandine/pull/749) - 2026-06-11
+* [Review] [Review on: Fix PTC votes count](https://github.com/grandinetech/grandine/pull/752#pullrequestreview-4484021617) - 2026-06-12
 ## Q1 2026
 
 

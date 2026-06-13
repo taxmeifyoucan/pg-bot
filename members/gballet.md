@@ -75,6 +75,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: eth: add debug_clearTxpool api](https://github.com/ethereum/go-ethereum/pull/33347#pullrequestreview-4458573629) - 2026-06-09
 * [Commit] [eth: fix borked test introduced in merging #33347 (#35130)](https://github.com/ethereum/go-ethereum/commit/43b7b4e8d9f9c8bf74d27bc6b13cb6c90a6128f8) - 2026-06-09
 * [Commit] [all: fix all typos, as reported by crates-ci/typos (#35008)](https://github.com/ethereum/go-ethereum/commit/39b17c5585a8a0668f61ebef67d191981a821f49) - 2026-06-10
+* [Review] [Review on: internal/memlimit: respect cgroup memory cap](https://github.com/ethereum/go-ethereum/pull/34947#pullrequestreview-4483794223) - 2026-06-12
+* [Pull Request] [.: archival rebased on top of bal devnet 7](https://github.com/ethereum/go-ethereum/pull/35160) - 2026-06-12
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Review] [Review on: cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575#pullrequestreview-4195917013) - 2026-04-29
 
