@@ -273,6 +273,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Check network size before computing subnet topic scoring params (#16954)](https://github.com/OffchainLabs/prysm/commit/5eb5a1119723e7a136b9064bff3c0762edd42082) - 2026-06-12
 * [Commit] [Skip payload attribute computation while syncing (#16951)](https://github.com/OffchainLabs/prysm/commit/46c9d5f02a08dafdbea8c99ebd01bae54d8a8d5c) - 2026-06-12
 * [Commit] [Validate data-column sidecar counts on RPC fetch (#16918)](https://github.com/OffchainLabs/prysm/commit/99e680cfd7f34f3833d42836b0b698e37fee00cc) - 2026-06-12
+* [Review] [Review on: Remove obsolete `*Requests` fields in `ExecutionPayloadBody` (used in Engine API)](https://github.com/OffchainLabs/prysm/pull/16938#pullrequestreview-4491516776) - 2026-06-13
+* [Pull Request] [Emit proposer_preferences SSE event for locally submitted preferences](https://github.com/OffchainLabs/prysm/pull/16962) - 2026-06-13
+* [Pull Request] [Emit payload_attributes SSE event after the Gloas fork](https://github.com/OffchainLabs/prysm/pull/16964) - 2026-06-13
+* [Pull Request] [Emit execution_payload_bid event on the beacon node event stream](https://github.com/OffchainLabs/prysm/pull/16963) - 2026-06-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

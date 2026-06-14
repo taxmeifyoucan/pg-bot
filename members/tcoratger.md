@@ -395,6 +395,14 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [cleanup(m31): drop redundant Distribution bound on PackedQM31 sampler (#1820)](https://github.com/Plonky3/Plonky3/commit/9fe9c43e9c1ee67b20c5cee891fad383980d9b30) - 2026-06-12
 * [Commit] [perf(lookup): flag-zero skip for sparse rows + dot_product tuple combine (#1812)](https://github.com/Plonky3/Plonky3/commit/897d5e184c1785fba701421d557abeff7dec320b) - 2026-06-12
 * [Commit] [ci: install taplo-cli with --locked (#1814)](https://github.com/Plonky3/Plonky3/commit/ef4a8a76eb3bce355ae44e4691cec90989205eee) - 2026-06-12
+* [Review] [Review on: fix(circle): allow quotient domain smaller than committed LDE](https://github.com/Plonky3/Plonky3/pull/1834#pullrequestreview-4491726789) - 2026-06-13
+* [Review] [Review on: perf(dft): skip zero-padding work in Radix2Dit coset LDE](https://github.com/Plonky3/Plonky3/pull/1832#pullrequestreview-4491732875) - 2026-06-13
+* [Review] [Review on: perf(mersenne-31): complex-squaring scalar QM31 square](https://github.com/Plonky3/Plonky3/pull/1831#pullrequestreview-4491730460) - 2026-06-13
+* [Review] [Review on: fix(ci): fix flaky wasmtime workflows](https://github.com/Plonky3/Plonky3/pull/1833#pullrequestreview-4491723516) - 2026-06-13
+* [Review] [Review on: perf(matrix): gather packed rows without per-call allocation in the non-wrapping case](https://github.com/Plonky3/Plonky3/pull/1830#pullrequestreview-4491567901) - 2026-06-13
+* [Review] [Review on: perf(monty-31): use dedicated `quintic_square` kernel for `QuinticTrinomial` `ext_square`](https://github.com/Plonky3/Plonky3/pull/1829#pullrequestreview-4491552017) - 2026-06-13
+* [Review] [Review on: chore: release v0.6.1](https://github.com/Plonky3/Plonky3/pull/1826#pullrequestreview-4491313784) - 2026-06-13
+* [Review] [Review on: perf(circle): flatten the fused CFFT pass driver](https://github.com/Plonky3/Plonky3/pull/1819#pullrequestreview-4491085992) - 2026-06-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

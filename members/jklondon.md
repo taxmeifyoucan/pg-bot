@@ -97,6 +97,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots](https://github.com/erigontech/erigon/pull/21200#pullrequestreview-4449015588) - 2026-06-08
 * [Review] [Review on: db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots](https://github.com/erigontech/erigon/pull/21200#pullrequestreview-4462600315) - 2026-06-09
 * [Review] [Review on: [r3.4] db: skip stale unwind changeset fallback during forkchoice re-execution](https://github.com/erigontech/erigon/pull/21761#pullrequestreview-4484478694) - 2026-06-12
+* [Pull Request] [db/recsplit: enable sharded FuseFilter by default](https://github.com/erigontech/erigon/pull/21793) - 2026-06-13
+* [Commit] [db/recsplit: enable sharded FuseFilter by default (#21793)](https://github.com/erigontech/erigon/commit/f2cfc7b92e6f46901825bc340b529d3fb34efa6c) - 2026-06-13
 ## Q1 2026
 
 

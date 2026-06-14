@@ -104,6 +104,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: gofmt](https://github.com/OffchainLabs/prysm/pull/16953#pullrequestreview-4480897776) - 2026-06-11
 * [Review] [Review on: `FieldTrie`: Add `ProveField` that returns leaf and proof for given field index.](https://github.com/OffchainLabs/prysm/pull/16955#pullrequestreview-4486252057) - 2026-06-12
 * [Commit] [Add `--postpone-shutdown-for-proposals` flag. (#16895)](https://github.com/OffchainLabs/prysm/commit/a3d619bbce39f1bdd3c041bbd7036f6c749ccc1a) - 2026-06-12
+* [Review] [Review on: `FieldTrie`: Add `ProveField` that returns leaf and proof for given field index.](https://github.com/OffchainLabs/prysm/pull/16955#pullrequestreview-4491403375) - 2026-06-13
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

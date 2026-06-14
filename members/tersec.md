@@ -212,6 +212,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [reduce max stack usage while building tests](https://github.com/status-im/nimbus-eth2/pull/8587) - 2026-06-11
 * [Review] [Review on: Ensure bids are for a higher slot than their parent](https://github.com/status-im/nimbus-eth2/pull/8591#pullrequestreview-4485193306) - 2026-06-12
 * [Pull Request] [fix websocket reconnection across EL restarts](https://github.com/status-im/nimbus-eth2/pull/8597) - 2026-06-12
+* [Review] [Review on: match execution payload bids to preferences by dependent_root](https://github.com/status-im/nimbus-eth2/pull/8598#pullrequestreview-4491277216) - 2026-06-13
+* [Pull Request] [use std/sequtils findIt where appropriate](https://github.com/status-im/nimbus-eth2/pull/8601) - 2026-06-13
+* [Pull Request] [unconditionally use EIP-7917-based proposer lookahead when projecting next proposal actions](https://github.com/status-im/nimbus-eth2/pull/8600) - 2026-06-13
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

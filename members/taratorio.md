@@ -313,6 +313,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/execmodule: fix data race between background prune and next FCU](https://github.com/erigontech/erigon/pull/21697#pullrequestreview-4483320785) - 2026-06-12
 * [Review] [Review on: execution/p2p: adhere to devp2p GetReceipts response spec](https://github.com/erigontech/erigon/pull/21757#pullrequestreview-4484749776) - 2026-06-12
 * [Commit] [execution/p2p: adhere to devp2p GetReceipts response spec (#21757)](https://github.com/erigontech/erigon/commit/e7a785c6a8976377ecb5fde2373d996f83357bab) - 2026-06-12
+* [Commit] [cmd/utils/app: add --keep-blocks to seg step-rebase (#21770)](https://github.com/erigontech/erigon/commit/fe86ad79a2c8398409f2ed42a3a90a979f04f4a5) - 2026-06-13
+* [Commit] [tools, makefile, .github/workflows: extract only the shard's EEST fixture set (#21771)](https://github.com/erigontech/erigon/commit/4c3c0ac50172ba9cf3bb3983b5fb342ce1bf9a66) - 2026-06-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

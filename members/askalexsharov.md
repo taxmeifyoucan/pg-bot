@@ -742,6 +742,29 @@ Team: Erigon
 * [Pull Request] [db/datastruct/existence, fusefilter, db/state: switch existence filter to sharded fuse by default](https://github.com/erigontech/erigon/pull/21773) - 2026-06-12
 * [Review] [Review on: cmd/utils: fix db.read.concurrency help to match the actual default](https://github.com/erigontech/erigon/pull/21762#pullrequestreview-4484327203) - 2026-06-12
 * [Commit] [bloatnet: auto-nuke StateCache on low hit_rate (#21468)](https://github.com/erigontech/erigon/commit/e80d1902bb48219a41ed70ee9e762c0a9f56442e) - 2026-06-12
+* [Pull Request] [cl/sentinel: pass ctx through StartSentinelService → stickToPeers](https://github.com/erigontech/erigon/pull/21786) - 2026-06-13
+* [Pull Request] [bt: reduce ram](https://github.com/erigontech/erigon/pull/21787) - 2026-06-13
+* [Review] [Review on: db/recsplit: enable sharded FuseFilter by default](https://github.com/erigontech/erigon/pull/21793#pullrequestreview-4491696057) - 2026-06-13
+* [Pull Request] [db/state/statecfg: bump commitment domain kv/kvi to v2.1](https://github.com/erigontech/erigon/pull/21780) - 2026-06-13
+* [Review] [Review on: db/state, db/config3: erigondb.toml as source of truth for commitment branch referencing](https://github.com/erigontech/erigon/pull/21452#pullrequestreview-4490764519) - 2026-06-13
+* [Pull Request] [bloatnet: StorageDomain move existence filter to mmap+madv_will_need](https://github.com/erigontech/erigon/pull/21792) - 2026-06-13
+* [Review] [Review on: commitment: remove unused bin_patricia_hashed implementation](https://github.com/erigontech/erigon/pull/21791#pullrequestreview-4491512279) - 2026-06-13
+* [Pull Request] [[wip]commitment: for new branch nodes to skip `GetLatest` call ](https://github.com/erigontech/erigon/pull/21789) - 2026-06-13
+* [Pull Request] [domain: allow per-domain configuration of "existence filter on mmap"](https://github.com/erigontech/erigon/pull/21776) - 2026-06-13
+* [Pull Request] [[wip] execution/commitment: skip prev lookup for new branch nodes](https://github.com/erigontech/erigon/pull/21790) - 2026-06-13
+* [Pull Request] [db/state: replace ExistenceFilterOnAppMemory with ExistenceFilterMode enum](https://github.com/erigontech/erigon/pull/21788) - 2026-06-13
+* [Pull Request] [merge: less ram usage in .bt build and compression](https://github.com/erigontech/erigon/pull/21781) - 2026-06-13
+* [Pull Request] [existence filter: build speedup](https://github.com/erigontech/erigon/pull/21785) - 2026-06-13
+* [Pull Request] [btindex: use off-heap EliasFano during build](https://github.com/erigontech/erigon/pull/21777) - 2026-06-13
+* [Pull Request] [bloatnet: reduce mem usage by .bt build](https://github.com/erigontech/erigon/pull/21783) - 2026-06-13
+* [Pull Request] [[wip] db/datastruct/btindex: fix OOM in Build() — stream nodes, use off-heap EF](https://github.com/erigontech/erigon/pull/21778) - 2026-06-13
+* [Review] [Review on: docs: cross-link CLI Reference sections to their dedicated pages](https://github.com/erigontech/erigon/pull/21772#pullrequestreview-4490862735) - 2026-06-13
+* [Review] [Review on: cmd/utils/app: add --keep-blocks to seg step-rebase](https://github.com/erigontech/erigon/pull/21770#pullrequestreview-4490884966) - 2026-06-13
+* [Review] [Review on: tools, makefile, .github/workflows: extract only the shard's EEST fixture set](https://github.com/erigontech/erigon/pull/21771#pullrequestreview-4490863505) - 2026-06-13
+* [Review] [Review on: .claude: anchor the comment policy as a rule + advisory write-time hook](https://github.com/erigontech/erigon/pull/21775#pullrequestreview-4490861262) - 2026-06-13
+* [Review] [Review on: cl, sentinel: quiet data column sidecar misses](https://github.com/erigontech/erigon/pull/21686#pullrequestreview-4490905334) - 2026-06-13
+* [Review] [Review on: execution/execmodule: simplify FCU semaphore handoff](https://github.com/erigontech/erigon/pull/21767#pullrequestreview-4490893387) - 2026-06-13
+* [Commit] [db/state/statecfg: bump commitment domain kv/kvi to v2.1 (#21780)](https://github.com/erigontech/erigon/commit/c2fcc75255ed18d581d2de915c816ea12a35bb38) - 2026-06-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

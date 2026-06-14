@@ -187,6 +187,8 @@ Team: Erigon
 * [Commit] [commitment: de-flake Test_Trie_CorrectSwitchForConcurrentAndSequential (#21720)](https://github.com/erigontech/erigon/commit/9f5bad3ff8a5456cff684349ee5258adaed77210) - 2026-06-10
 * [Pull Request] [commitment: simplify and deduplicate test suite](https://github.com/erigontech/erigon/pull/21758) - 2026-06-11
 * [Review] [Review on: commitment: simplify and deduplicate test suite](https://github.com/erigontech/erigon/pull/21758#pullrequestreview-4479335041) - 2026-06-11
+* [Pull Request] [commitment: remove unused bin_patricia_hashed implementation](https://github.com/erigontech/erigon/pull/21791) - 2026-06-13
+* [Review] [Review on: commitment: remove unused bin_patricia_hashed implementation](https://github.com/erigontech/erigon/pull/21791#pullrequestreview-4491484072) - 2026-06-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

@@ -350,6 +350,7 @@ Team: Reth
 * [Review] [Review on: fix: avoid materializing failure stack](https://github.com/paradigmxyz/revmc/pull/392#pullrequestreview-4488560803) - 2026-06-12
 * [Review] [Review on: fix(runtime): never block in pause/resume on the bounded command channel](https://github.com/paradigmxyz/revmc/pull/391#pullrequestreview-4487174806) - 2026-06-12
 * [Commit] [feat: configure single error mode (#397)](https://github.com/paradigmxyz/revmc/commit/64ddc4e46fc38effbbf29cc8c46114e5cdcda05e) - 2026-06-13
+* [Review] [Review on: fix: preserve dynamic gas failure order](https://github.com/paradigmxyz/revmc/pull/395#pullrequestreview-4491580928) - 2026-06-13
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07
@@ -419,6 +420,7 @@ Team: Reth
 * [Review] [Review on: ci: summarize hive failure logs](https://github.com/paradigmxyz/reth/pull/25001#pullrequestreview-4449579040) - 2026-06-08
 * [Commit] [feat: integrate revmc JIT (#23230)](https://github.com/paradigmxyz/reth/commit/e891a6b8cafada7b302860fd98c9fe6bace8375a) - 2026-06-11
 * [Review] [Review on: feat: make JIT opt-in for library crates](https://github.com/paradigmxyz/reth/pull/25178#pullrequestreview-4486243590) - 2026-06-12
+* [Review] [Review on: chore: bump opentelemetry dependencies](https://github.com/paradigmxyz/reth/pull/25215#pullrequestreview-4491664206) - 2026-06-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

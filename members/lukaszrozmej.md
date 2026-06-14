@@ -674,6 +674,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [ci: chunk Synchronization.Test on macOS to avoid 15-min timeout](https://github.com/NethermindEth/nethermind/pull/11978) - 2026-06-12
 * [Review] [Review on: fix(flatdb): detect legacy raw slot DBs by slot presence, not the Layout marker](https://github.com/NethermindEth/nethermind/pull/11975#pullrequestreview-4484645989) - 2026-06-12
 * [Commit] [ci: chunk Synchronization.Test on macOS to avoid 15-min timeout (#11978)](https://github.com/NethermindEth/nethermind/commit/5cd954d48379da0012be3d5fdb16a3a5960bfe11) - 2026-06-12
+* [Review] [Review on: Add EIP-7594 to Hoodi Unzen](https://github.com/NethermindEth/nethermind/pull/11982#pullrequestreview-4491037695) - 2026-06-13
+* [Review] [Review on: Bump up the version to 1.40.0-unstable](https://github.com/NethermindEth/nethermind/pull/11986#pullrequestreview-4491037371) - 2026-06-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

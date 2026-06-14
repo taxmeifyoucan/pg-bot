@@ -100,6 +100,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fuse consecutive SLOAD opcodes and de-contend hot opcode counters](https://github.com/NethermindEth/nethermind/pull/11971#pullrequestreview-4478963035) - 2026-06-11
 * [Pull Request] [Prefetch constant-stride storage scans into the pre-block cache](https://github.com/NethermindEth/nethermind/pull/11966) - 2026-06-11
 * [Review] [Review on: Slotnum fix](https://github.com/NethermindEth/nethermind/pull/11968#pullrequestreview-4486323330) - 2026-06-12
+* [Commit] [perf(state): make BAL read warming survive, scale, and stick (~5x on storage-read-heavy blocks) (#11954)](https://github.com/NethermindEth/nethermind/commit/78109b4cd4fc9d77f9c3c2534665806b3255fbe2) - 2026-06-13
+* [Commit] [perf(bls): reduce allocations and wasted clears in G2MSM point decoding (#11891)](https://github.com/NethermindEth/nethermind/commit/dd1e19f70093e5e2cf1c49025ee663201b3d0774) - 2026-06-13
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

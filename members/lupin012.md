@@ -192,6 +192,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [QA: update hive version & permit 7 errors rpccompact](https://github.com/erigontech/erigon/pull/21760) - 2026-06-11
 * [Pull Request] [rpc: fix gasprice](https://github.com/erigontech/erigon/pull/21759) - 2026-06-11
 * [Pull Request] [cmd/rpctest: fix debug_accountRange bench encoding and start key size](https://github.com/erigontech/erigon/pull/21774) - 2026-06-12
+* [Pull Request] [rpc: eth_baseFee and eth_blobBaseFee return null for pre-fork chains](https://github.com/erigontech/erigon/pull/21784) - 2026-06-13
+* [Commit] [QA rpc_int: add tee -a to capture the 3 iterations not only the last one (#21736)](https://github.com/erigontech/erigon/commit/f30502d80f5cd827b2b6bd8757f9b0a6be4c2be8) - 2026-06-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

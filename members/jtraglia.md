@@ -369,6 +369,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 
+* [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/501) - 2026-06-13
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Review] [Review on: feat: add Zig bindings](https://github.com/ethereum/c-kzg-4844/pull/641#pullrequestreview-4143043773) - 2026-04-20
 * [Review] [Review on: Add zig bindings](https://github.com/ethereum/c-kzg-4844/pull/641#pullrequestreview-4150960650) - 2026-04-21

@@ -69,6 +69,11 @@ Team: EthereumJS
 * [Commit] [fix(evm): consume spilled state-gas on STATIC_STATE_CHANGE halt (EIP-8037) (#4322)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/1d591f9c081eafba17eea055ef8e7b4c6fd26cdb) - 2026-06-12
 * [Commit] [chore: point dev fixtures to bal@v7.3.1 (#4321)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/2653d06d6990261e9cd339514e10b841dbd83bd1) - 2026-06-12
 * [Commit] [fix(evm,vm): correct EIP-7928/EIP-8037 gas accounting for static CREATE (#4320)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/db0da7347dda0bc39c8645ae212f8ab0701e61d4) - 2026-06-12
+* [Pull Request] [feat(api): additive API-consistency aliases, error taxonomy & events guarantee](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4327) - 2026-06-14
+* [Pull Request] [fix(client): ignore Node.js process warnings in CLI test stderr capture](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4326) - 2026-06-13
+* [Pull Request] [block: use isBlob4844Tx guard instead of instanceof Blob4844Tx](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4325) - 2026-06-13
+* [Commit] [fix(client): ignore Node.js process warnings in CLI test stderr capture (#4326)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/c11684133072953f2c64151d9a3137ed7ca2984a) - 2026-06-13
+* [Commit] [refactor(block): use isBlob4844Tx guard instead of instanceof Blob4844Tx (#4325)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/44fcb75299fd8585901a16736bd6f6ba4963ef41) - 2026-06-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 * [Issue] [Stateless Implementer's Call #52, June 1, 2026](https://github.com/ethereum/pm/issues/2064) - 2026-05-19

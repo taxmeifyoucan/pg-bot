@@ -118,6 +118,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix O(n²) find_head and stack overflow in filter_block_tree](https://github.com/sigp/lighthouse/pull/9090#pullrequestreview-4432523588) - 2026-06-05
 * [Review] [Review on: Gloas alpha spec 9](https://github.com/sigp/lighthouse/pull/9393#pullrequestreview-4454395576) - 2026-06-09
 * [Review] [Review on: Update warp snapshot build job](https://github.com/sigp/lighthouse/pull/9459#pullrequestreview-4481741942) - 2026-06-12
+* [Review] [Review on: Allow release branches to target stable in target-branch-check](https://github.com/sigp/lighthouse/pull/9457#pullrequestreview-4491343135) - 2026-06-13
+* [Review] [Review on: deprecate `disallowed-offsets` config for re-orgs](https://github.com/sigp/lighthouse/pull/9449#pullrequestreview-4491347804) - 2026-06-13
+* [Review] [Review on: Only bake warpbuild snapshot from stable](https://github.com/sigp/lighthouse/pull/9462#pullrequestreview-4491349131) - 2026-06-13
+* [Review] [Review on: Make single block lookup respect `earliest_available_slot` for column requests](https://github.com/sigp/lighthouse/pull/9447#pullrequestreview-4491354030) - 2026-06-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

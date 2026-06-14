@@ -186,6 +186,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Upgrade codecov orb to 6.0.0 (#1566)](https://github.com/ipsilon/evmone/commit/ef5008e1d069775b4c1d3b7980205b55c5114a63) - 2026-06-11
 * [Pull Request] [evmc: Bump ABI version to 13](https://github.com/ipsilon/evmone/pull/1567) - 2026-06-12
 * [Commit] [crypto: Migrate ExtPoint to AffinePoint<E2>  (#1547)](https://github.com/ipsilon/evmone/commit/3fb894294ba51d28209fb37c80757a0714f1ba8a) - 2026-06-12
+* [Pull Request] [changelog: List changes for 0.22 release](https://github.com/ipsilon/evmone/pull/1568) - 2026-06-13
+* [Commit] [evmone 0.22.0](https://github.com/ipsilon/evmone/commit/1ea75472f771999a9430d35f382ca0117b495e41) - 2026-06-13
+* [Commit] [changelog: List changes for 0.22 release (#1568)](https://github.com/ipsilon/evmone/commit/816e25d4e8299f1d0129fdd8f54bf990d6e6bc28) - 2026-06-13
+* [Commit] [evmc: Bump ABI version to 13 (#1567)](https://github.com/ipsilon/evmone/commit/8b09e509e074122e20923c90474ba78b021fd341) - 2026-06-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10

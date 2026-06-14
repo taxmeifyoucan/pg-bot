@@ -631,6 +631,10 @@ Team: Reth
 * [Commit] [refactor(rpc): store decoded revm BALs behind Arc (#25165)](https://github.com/paradigmxyz/reth/commit/10238b1a4ebf1aec5687cbb02e92c99821aada8a) - 2026-06-12
 * [Commit] [refactor(net): reuse primitive sealed block wrapper (#25162)](https://github.com/paradigmxyz/reth/commit/828b1d1fc4b813a5a3a1aac42b74a9e774b4d4bd) - 2026-06-12
 * [Commit] [fix(docs): preserve rustdocs navigation (#25132)](https://github.com/paradigmxyz/reth/commit/18233d4c7fc338e2ed1fc889134872849dc76861) - 2026-06-12
+* [Review] [Review on: chore: bump opentelemetry dependencies](https://github.com/paradigmxyz/reth/pull/25215#pullrequestreview-4491664581) - 2026-06-13
+* [Review] [Review on: feat(rpc): add admin peer ban and unban methods](https://github.com/paradigmxyz/reth/pull/25140#pullrequestreview-4490954953) - 2026-06-13
+* [Pull Request] [fix(rpc): remove unused ipc middleware lifetimes](https://github.com/paradigmxyz/reth/pull/25199) - 2026-06-13
+* [Commit] [fix(rpc): remove unused ipc middleware lifetimes (#25199)](https://github.com/paradigmxyz/reth/commit/6cb4cbf1b50b1861f0ce0c38e4ecc9858f10c7cd) - 2026-06-13
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

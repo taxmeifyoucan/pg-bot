@@ -275,6 +275,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/snapshotsync: make index building and opening segments safe with other files building events (#21571)](https://github.com/erigontech/erigon/commit/8c0d8bd31183ccf7f72baddfc4b4def26a5a3121) - 2026-06-09
 * [Pull Request] [[wip/DO NOT MERGE ] db/state: lock-free DomainMetrics + kv_get (atomics)](https://github.com/erigontech/erigon/pull/21722) - 2026-06-10
 * [Review] [Review on: [r3.5] domain: existance filter madvise require page-aligned byte slice](https://github.com/erigontech/erigon/pull/21753#pullrequestreview-4477453397) - 2026-06-11
+* [Pull Request] [db/datastruct/btindex: interpolation search in BTree leaf](https://github.com/erigontech/erigon/pull/21794) - 2026-06-13
+* [Review] [Review on: db/state/statecfg: bump commitment domain kv/kvi to v2.1](https://github.com/erigontech/erigon/pull/21780#pullrequestreview-4491585069) - 2026-06-13
+* [Review] [Review on: db/state, db/config3: erigondb.toml as source of truth for commitment branch referencing](https://github.com/erigontech/erigon/pull/21452#pullrequestreview-4491542271) - 2026-06-13
+* [Review] [Review on: bloatnet: StorageDomain move existence filter to mmap+madv_will_need](https://github.com/erigontech/erigon/pull/21792#pullrequestreview-4491592257) - 2026-06-13
+* [Review] [Review on: [wip]commitment: for new branch nodes to skip `GetLatest` call ](https://github.com/erigontech/erigon/pull/21789#pullrequestreview-4491500740) - 2026-06-13
+* [Review] [Review on: domain: allow per-domain configuration of "existence filter on mmap"](https://github.com/erigontech/erigon/pull/21776#pullrequestreview-4491499230) - 2026-06-13
+* [Issue] [commitment: evaluate .bt + interpolation accessor vs .kvi hashmap (~4.5x smaller, memory-robust; comparable warm latency)](https://github.com/erigontech/erigon/issues/21795) - 2026-06-13
 ## Q1 2026
 
 
