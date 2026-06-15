@@ -129,6 +129,8 @@ Team: Erigon
 * [Review] [Review on: cl/sentinel: pass ctx through StartSentinelService → stickToPeers](https://github.com/erigontech/erigon/pull/21786#pullrequestreview-4491513946) - 2026-06-13
 * [Review] [Review on: bt: reduce ram](https://github.com/erigontech/erigon/pull/21787#pullrequestreview-4491514165) - 2026-06-13
 * [Review] [Review on: db/state/statecfg: bump commitment domain kv/kvi to v2.1](https://github.com/erigontech/erigon/pull/21780#pullrequestreview-4491283622) - 2026-06-13
+* [Review] [Review on: [bloatnet] recsplit: enable sharded ShardedFuse by default](https://github.com/erigontech/erigon/pull/21797#pullrequestreview-4493345451) - 2026-06-14
+* [Review] [Review on: cl/sentinel: pass ctx through StartSentinelService → stickToPeers](https://github.com/erigontech/erigon/pull/21786#pullrequestreview-4493026486) - 2026-06-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

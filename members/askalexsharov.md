@@ -765,6 +765,19 @@ Team: Erigon
 * [Review] [Review on: cl, sentinel: quiet data column sidecar misses](https://github.com/erigontech/erigon/pull/21686#pullrequestreview-4490905334) - 2026-06-13
 * [Review] [Review on: execution/execmodule: simplify FCU semaphore handoff](https://github.com/erigontech/erigon/pull/21767#pullrequestreview-4490893387) - 2026-06-13
 * [Commit] [db/state/statecfg: bump commitment domain kv/kvi to v2.1 (#21780)](https://github.com/erigontech/erigon/commit/c2fcc75255ed18d581d2de915c816ea12a35bb38) - 2026-06-13
+* [Pull Request] [[bloatnet] recsplit: enable sharded ShardedFuse by default](https://github.com/erigontech/erigon/pull/21797) - 2026-06-14
+* [Review] [Review on: [r3.4] caplin: serialize uint64 beacon API fields as JSON strings (#20564)](https://github.com/erigontech/erigon/pull/21805#pullrequestreview-4494218699) - 2026-06-15
+* [Pull Request] [[wip] [bloatnet] domain: store largeValues in own auto-increment-id table](https://github.com/erigontech/erigon/pull/21801) - 2026-06-14
+* [Pull Request] [[wip] [r3.5] execution/commitment: skip prev lookup for new branch nodes](https://github.com/erigontech/erigon/pull/21798) - 2026-06-14
+* [Pull Request] [db/datastruct/btindex: simplify interpolation search](https://github.com/erigontech/erigon/pull/21799) - 2026-06-14
+* [Pull Request] [btindex: use off-heap EliasFano during build](https://github.com/erigontech/erigon/pull/21800) - 2026-06-14
+* [Review] [Review on: rpc: eth_baseFee and eth_blobBaseFee return null for pre-fork chains](https://github.com/erigontech/erigon/pull/21784#pullrequestreview-4492469022) - 2026-06-14
+* [Review] [Review on: rpc: fix gasprice](https://github.com/erigontech/erigon/pull/21759#pullrequestreview-4492468714) - 2026-06-14
+* [Pull Request] [[r3.5] db/recsplit: enable sharded FuseFilter by default](https://github.com/erigontech/erigon/pull/21796) - 2026-06-14
+* [Commit] [[wip] [3.6] commitment: skip `GetLatest` for keys creation (#21790)](https://github.com/erigontech/erigon/commit/b71304b2a0ee68889e92c1c6700848e7a04c4613) - 2026-06-15
+* [Commit] [merge: less ram usage in .bt build and compression (#21781)](https://github.com/erigontech/erigon/commit/2cf5ef7ecd9845b2e73c5392a139bb720107ef4f) - 2026-06-14
+* [Commit] [existence filter: build speedup (#21785)](https://github.com/erigontech/erigon/commit/f44902e40e9224c77ba17982b6763c68b26c228d) - 2026-06-14
+* [Commit] [bt: reduce ram (#21787)](https://github.com/erigontech/erigon/commit/ec1378803d838f19481f0e7a8689aabcb9577e30) - 2026-06-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

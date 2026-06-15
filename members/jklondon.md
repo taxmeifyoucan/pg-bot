@@ -99,6 +99,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] db: skip stale unwind changeset fallback during forkchoice re-execution](https://github.com/erigontech/erigon/pull/21761#pullrequestreview-4484478694) - 2026-06-12
 * [Pull Request] [db/recsplit: enable sharded FuseFilter by default](https://github.com/erigontech/erigon/pull/21793) - 2026-06-13
 * [Commit] [db/recsplit: enable sharded FuseFilter by default (#21793)](https://github.com/erigontech/erigon/commit/f2cfc7b92e6f46901825bc340b529d3fb34efa6c) - 2026-06-13
+* [Review] [Review on: merge: less ram usage in .bt build and compression](https://github.com/erigontech/erigon/pull/21781#pullrequestreview-4493220002) - 2026-06-14
+* [Review] [Review on: existence filter: build speedup](https://github.com/erigontech/erigon/pull/21785#pullrequestreview-4493219745) - 2026-06-14
+* [Pull Request] [Decoded state Proposal](https://github.com/erigontech/erigon/pull/21804) - 2026-06-14
+* [Review] [Review on: btindex: use off-heap EliasFano during build](https://github.com/erigontech/erigon/pull/21777#pullrequestreview-4493220232) - 2026-06-14
+* [Review] [Review on: db/state: replace ExistenceFilterOnAppMemory with ExistenceFilterMode enum](https://github.com/erigontech/erigon/pull/21788#pullrequestreview-4493219472) - 2026-06-14
 ## Q1 2026
 
 

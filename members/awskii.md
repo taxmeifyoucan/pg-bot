@@ -189,6 +189,7 @@ Team: Erigon
 * [Review] [Review on: commitment: simplify and deduplicate test suite](https://github.com/erigontech/erigon/pull/21758#pullrequestreview-4479335041) - 2026-06-11
 * [Pull Request] [commitment: remove unused bin_patricia_hashed implementation](https://github.com/erigontech/erigon/pull/21791) - 2026-06-13
 * [Review] [Review on: commitment: remove unused bin_patricia_hashed implementation](https://github.com/erigontech/erigon/pull/21791#pullrequestreview-4491484072) - 2026-06-13
+* [Commit] [commitment: remove unused bin_patricia_hashed implementation (#21791)](https://github.com/erigontech/erigon/commit/01815203dd1d43149db316ba4bfc11db2014482b) - 2026-06-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

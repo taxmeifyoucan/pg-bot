@@ -315,6 +315,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/p2p: adhere to devp2p GetReceipts response spec (#21757)](https://github.com/erigontech/erigon/commit/e7a785c6a8976377ecb5fde2373d996f83357bab) - 2026-06-12
 * [Commit] [cmd/utils/app: add --keep-blocks to seg step-rebase (#21770)](https://github.com/erigontech/erigon/commit/fe86ad79a2c8398409f2ed42a3a90a979f04f4a5) - 2026-06-13
 * [Commit] [tools, makefile, .github/workflows: extract only the shard's EEST fixture set (#21771)](https://github.com/erigontech/erigon/commit/4c3c0ac50172ba9cf3bb3983b5fb342ce1bf9a66) - 2026-06-13
+* [Review] [Review on: [3.6] domain: existence filter to ShardedFuse](https://github.com/erigontech/erigon/pull/21773#pullrequestreview-4494151309) - 2026-06-15
+* [Review] [Review on: [wip] [3.6] commitment: skip `GetLatest` for keys creation](https://github.com/erigontech/erigon/pull/21790#pullrequestreview-4494123648) - 2026-06-15
+* [Review] [Review on: [wip] [r3.5] execution/commitment: skip prev lookup for new branch nodes](https://github.com/erigontech/erigon/pull/21798#pullrequestreview-4494124058) - 2026-06-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

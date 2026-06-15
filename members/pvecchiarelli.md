@@ -51,6 +51,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #65 from pvecchiarelli/main](https://github.com/protocolguild/protocol-guild-site/commit/abc5e0d359d96ffd33c2372632a4c0a859e6cad4) - 2026-06-12
 * [Commit] [Create 20260612-keycard-shell-for-every-member.md](https://github.com/protocolguild/protocol-guild-site/commit/339b0e55935b864029698488c4e320e56efca093) - 2026-06-12
 * [Commit] [Add files via upload](https://github.com/protocolguild/protocol-guild-site/commit/80a17bccaa1257557bafdf6a25a2e1ee20cd6c3e) - 2026-06-12
+* [Pull Request] [Blog edits](https://github.com/protocolguild/protocol-guild-site/pull/68) - 2026-06-14
 ## Q1 2026
 
 

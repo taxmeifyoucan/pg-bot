@@ -635,6 +635,8 @@ Team: Reth
 * [Review] [Review on: feat(rpc): add admin peer ban and unban methods](https://github.com/paradigmxyz/reth/pull/25140#pullrequestreview-4490954953) - 2026-06-13
 * [Pull Request] [fix(rpc): remove unused ipc middleware lifetimes](https://github.com/paradigmxyz/reth/pull/25199) - 2026-06-13
 * [Commit] [fix(rpc): remove unused ipc middleware lifetimes (#25199)](https://github.com/paradigmxyz/reth/commit/6cb4cbf1b50b1861f0ce0c38e4ecc9858f10c7cd) - 2026-06-13
+* [Pull Request] [refactor(txpool): recover raw transactions as pool tx](https://github.com/paradigmxyz/reth/pull/25238) - 2026-06-14
+* [Review] [Review on: chore(deps): bump the cargo-weekly group across 1 directory with 12 updates](https://github.com/paradigmxyz/reth/pull/25173#pullrequestreview-4492626234) - 2026-06-14
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

@@ -283,6 +283,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: chunk Synchronization.Test on macOS to avoid 15-min timeout](https://github.com/NethermindEth/nethermind/pull/11978#pullrequestreview-4485533394) - 2026-06-12
 * [Pull Request] [fix(flatdb): detect legacy raw slot DBs by slot presence, not the Layout marker](https://github.com/NethermindEth/nethermind/pull/11975) - 2026-06-12
 * [Commit] [fix(flatdb): detect legacy raw slot DBs by slot presence, not the Layout marker (#11975)](https://github.com/NethermindEth/nethermind/commit/efeb0f7d678baf88c7bb9131f2e6ae130bdfc969) - 2026-06-12
+* [Review] [Review on: fix(sync): recover header sync after a lost chain level on unclean shutdown (#8029)](https://github.com/NethermindEth/nethermind/pull/11994#pullrequestreview-4493841992) - 2026-06-15
+* [Review] [Review on: fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update](https://github.com/NethermindEth/nethermind/pull/11995#pullrequestreview-4493830108) - 2026-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

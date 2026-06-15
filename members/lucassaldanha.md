@@ -151,6 +151,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [fix(quic): dial from ephemeral port instead of reusing listener port](https://github.com/libp2p/jvm-libp2p/pull/487) - 2026-06-10
 * [Commit] [Merge pull request #487 from lucassaldanha/fix-quic-dialing](https://github.com/libp2p/jvm-libp2p/commit/edeeae5a6f09f5fc6bcca8841573cd0e515353a4) - 2026-06-10
 * [Commit] [fix(quic): dial from ephemeral port instead of reusing listener port](https://github.com/libp2p/jvm-libp2p/commit/976fbb040717c3402bc424cd21735720025a1955) - 2026-06-10
+* [Pull Request] [fix(noise): stop NoiseXXCodec swallowing fatal errors](https://github.com/libp2p/jvm-libp2p/pull/490) - 2026-06-14
+* [Pull Request] [Fix quic close write logic](https://github.com/libp2p/jvm-libp2p/pull/489) - 2026-06-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

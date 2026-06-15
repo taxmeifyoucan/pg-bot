@@ -74,6 +74,8 @@ Team: EthereumJS
 * [Pull Request] [block: use isBlob4844Tx guard instead of instanceof Blob4844Tx](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4325) - 2026-06-13
 * [Commit] [fix(client): ignore Node.js process warnings in CLI test stderr capture (#4326)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/c11684133072953f2c64151d9a3137ed7ca2984a) - 2026-06-13
 * [Commit] [refactor(block): use isBlob4844Tx guard instead of instanceof Blob4844Tx (#4325)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/44fcb75299fd8585901a16736bd6f6ba4963ef41) - 2026-06-13
+* [Pull Request] [deps: override esbuild to ^0.28.1 to fix binary-integrity RCE advisory (GHSA-gv7w-rqvm-qjhr)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4328) - 2026-06-14
+* [Commit] [deps: override esbuild to ^0.28.1 to fix binary-integrity RCE advisory (GHSA-gv7w-rqvm-qjhr) (#4328)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/5a49a99bda4b261f82dbc235699e77547139f610) - 2026-06-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 * [Issue] [Stateless Implementer's Call #52, June 1, 2026](https://github.com/ethereum/pm/issues/2064) - 2026-05-19

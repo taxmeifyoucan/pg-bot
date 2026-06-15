@@ -55,6 +55,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: fix(http_api): ignore committee_index in attestation data endpoint](https://github.com/sigp/lighthouse/pull/9437#pullrequestreview-4481910660) - 2026-06-12
 * [Review] [Review on: Add test to VC block production and payload envelope](https://github.com/sigp/lighthouse/pull/9453#pullrequestreview-4482219896) - 2026-06-12
 * [Review] [Review on: Add SSZ response to HTTP API endpoints](https://github.com/sigp/lighthouse/pull/8907#pullrequestreview-4483330034) - 2026-06-12
+* [Review] [Review on: fix(http_api): ignore committee_index in attestation data endpoint](https://github.com/sigp/lighthouse/pull/9437#pullrequestreview-4494055168) - 2026-06-15
 ## Q1 2026
 
 

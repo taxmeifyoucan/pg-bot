@@ -89,11 +89,15 @@ Team: Geth
 * [Review] [Review on: eth/catalyst, miner: add testing_commitBlockV1](https://github.com/ethereum/go-ethereum/pull/34995#pullrequestreview-4485228101) - 2026-06-12
 * [Pull Request] [core: implement EIP-8037, state creation gas cost increase](https://github.com/ethereum/go-ethereum/pull/33601) - 2026-06-12
 * [Commit] [core: implement EIP-8037, state creation gas cost increase (#33601)](https://github.com/ethereum/go-ethereum/commit/9059157eba227b6a4d4cc2e147e65f9919294360) - 2026-06-12
+* [Review] [Review on: cmd/utils: keep metrics tag values containing '='](https://github.com/ethereum/go-ethereum/pull/35168#pullrequestreview-4492806122) - 2026-06-14
+* [Pull Request] [eth/catalyst: add rest-ssz based engine api](https://github.com/ethereum/go-ethereum/pull/35171) - 2026-06-14
+* [Review] [Review on: core/vm: compute stack operations in place](https://github.com/ethereum/go-ethereum/pull/35156#pullrequestreview-4492624602) - 2026-06-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4104716651) - 2026-04-14
 
+* [Review] [Review on: Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/501#pullrequestreview-4492775721) - 2026-06-14
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4138859251) - 2026-04-20
 * [Pull Request] [engine: add Rest-SSZ spec](https://github.com/ethereum/execution-apis/pull/793) - 2026-05-08

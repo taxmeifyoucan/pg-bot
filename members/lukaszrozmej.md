@@ -676,6 +676,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [ci: chunk Synchronization.Test on macOS to avoid 15-min timeout (#11978)](https://github.com/NethermindEth/nethermind/commit/5cd954d48379da0012be3d5fdb16a3a5960bfe11) - 2026-06-12
 * [Review] [Review on: Add EIP-7594 to Hoodi Unzen](https://github.com/NethermindEth/nethermind/pull/11982#pullrequestreview-4491037695) - 2026-06-13
 * [Review] [Review on: Bump up the version to 1.40.0-unstable](https://github.com/NethermindEth/nethermind/pull/11986#pullrequestreview-4491037371) - 2026-06-13
+* [Pull Request] [test(merge): fix flaky AlreadyKnown_not_cached_block_should_return_valid](https://github.com/NethermindEth/nethermind/pull/11989) - 2026-06-14
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11987#pullrequestreview-4492552074) - 2026-06-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

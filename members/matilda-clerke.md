@@ -35,6 +35,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [[HOUSEKEEPING] Remove CLI arguments and related cleanups post 26.1.0](https://github.com/Consensys/teku/pull/10701) - 2026-05-14
 * [Review] [Review on: [HOUSEKEEPING] Remove CLI arguments and related cleanups post 26.1.0](https://github.com/Consensys/teku/pull/10701#pullrequestreview-4287688105) - 2026-05-14
 * [Commit] [[HOUSEKEEPING] Remove CLI arguments and related cleanups post 26.1.0 (#10701)](https://github.com/Consensys/teku/commit/3419eda852b34706af6e238ad028fe82955efdc9) - 2026-05-14
+* [Pull Request] [Produce block v4 with payload](https://github.com/Consensys/teku/pull/10832) - 2026-06-15
 ## Q1 2026
 
 

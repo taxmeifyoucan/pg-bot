@@ -403,6 +403,30 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(monty-31): use dedicated `quintic_square` kernel for `QuinticTrinomial` `ext_square`](https://github.com/Plonky3/Plonky3/pull/1829#pullrequestreview-4491552017) - 2026-06-13
 * [Review] [Review on: chore: release v0.6.1](https://github.com/Plonky3/Plonky3/pull/1826#pullrequestreview-4491313784) - 2026-06-13
 * [Review] [Review on: perf(circle): flatten the fused CFFT pass driver](https://github.com/Plonky3/Plonky3/pull/1819#pullrequestreview-4491085992) - 2026-06-13
+* [Pull Request] [fix(whir): enforce the proof-of-work budget in WhirConfig::new](https://github.com/Plonky3/Plonky3/pull/1852) - 2026-06-14
+* [Pull Request] [fix(whir): round proof-of-work bits up instead of down](https://github.com/Plonky3/Plonky3/pull/1851) - 2026-06-14
+* [Pull Request] [fix(whir): reject non-redundant code rates in WhirConfig::new](https://github.com/Plonky3/Plonky3/pull/1850) - 2026-06-14
+* [Review] [Review on: fix(circle): reject opening point equal to a query point instead of panicking](https://github.com/Plonky3/Plonky3/pull/1849#pullrequestreview-4493361318) - 2026-06-14
+* [Review] [Review on: feat: add sqrt method for `Field`](https://github.com/Plonky3/Plonky3/pull/1848#pullrequestreview-4493183229) - 2026-06-14
+* [Pull Request] [refactor(sumcheck): split svo.rs into a svo/ module by concern](https://github.com/Plonky3/Plonky3/pull/1847) - 2026-06-14
+* [Review] [Review on: perf(monty-31): add NEON xor/andn Montgomery overrides](https://github.com/Plonky3/Plonky3/pull/1846#pullrequestreview-4493064217) - 2026-06-14
+* [Pull Request] [fix(sumcheck): bind round count inside verify_rounds](https://github.com/Plonky3/Plonky3/pull/1836) - 2026-06-14
+* [Pull Request] [perf(multilinear-util): parallelize packed single-point eq builder](https://github.com/Plonky3/Plonky3/pull/1837) - 2026-06-14
+* [Review] [Review on: chore: move some tracing spans to debug level](https://github.com/Plonky3/Plonky3/pull/1845#pullrequestreview-4493027491) - 2026-06-14
+* [Review] [Review on: perf(fri): batch (z - x) inversions in the verifier](https://github.com/Plonky3/Plonky3/pull/1843#pullrequestreview-4493016774) - 2026-06-14
+* [Pull Request] [perf(sumcheck): reuse Poly::unpack for packed-to-scalar conversion](https://github.com/Plonky3/Plonky3/pull/1844) - 2026-06-14
+* [Review] [Review on: test: add poseidon1-permutations objective in `prove_prime_field_31` example](https://github.com/Plonky3/Plonky3/pull/1842#pullrequestreview-4493015882) - 2026-06-14
+* [Review] [Review on: perf(multilinear-util): fold suffix variable in place, drop the extra memcpy](https://github.com/Plonky3/Plonky3/pull/1841#pullrequestreview-4492988995) - 2026-06-14
+* [Review] [Review on: perf(whir): drop redundant to_row_major_matrix after dft_algebra_batch](https://github.com/Plonky3/Plonky3/pull/1840#pullrequestreview-4492986913) - 2026-06-14
+* [Review] [Review on: perf(merkle-tree): hoist default_packed out of the per-chunk compression loop](https://github.com/Plonky3/Plonky3/pull/1839#pullrequestreview-4492986143) - 2026-06-14
+* [Pull Request] [docs(sumcheck): document Fiat-Shamir binding contract on Constraint::new](https://github.com/Plonky3/Plonky3/pull/1838) - 2026-06-14
+* [Pull Request] [bench(sumcheck): add generic Criterion benchmark suite](https://github.com/Plonky3/Plonky3/pull/1835) - 2026-06-14
+* [Commit] [fix(sumcheck)!: bind round count inside verify_rounds (#1836)](https://github.com/Plonky3/Plonky3/commit/b47d55528c894167733dc465b86eb50572864687) - 2026-06-14
+* [Commit] [perf(multilinear-util): parallelize packed single-point eq builder (#1837)](https://github.com/Plonky3/Plonky3/commit/cdadb6957f16314a4d9d6b48001a346d03dd4ada) - 2026-06-14
+* [Commit] [perf(sumcheck): reuse Poly::unpack for packed-to-scalar conversion (#1844)](https://github.com/Plonky3/Plonky3/commit/f2b164c7e192c00894ef0ad1380a209c81c10ff1) - 2026-06-14
+* [Commit] [docs(sumcheck): document Fiat-Shamir binding contract on Constraint::new (#1838)](https://github.com/Plonky3/Plonky3/commit/426c122f3a2212baef897fb5ab28b97dd6e0bb57) - 2026-06-14
+* [Commit] [bench(sumcheck): add generic Criterion benchmark suite (#1835)](https://github.com/Plonky3/Plonky3/commit/a9cd6efdcd58c37f506dae7110f45d3eba617e74) - 2026-06-14
+* [Commit] [perf(sumcheck): fuse round-0 residual weights into the packed buffer (#1808)](https://github.com/Plonky3/Plonky3/commit/583c6b5ce86f422e5d535bc5ee67d75586a953b5) - 2026-06-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

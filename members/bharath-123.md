@@ -25,6 +25,7 @@ Github: [@bharath-123](https://github.com/bharath-123)
 * [Commit] [Add EIP: Blob Streaming](https://github.com/ethereum/EIPs/commit/bdc1d099649eefb8790b76f912e25487757f5f4e) - 2026-06-11
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add proposer preferences and payload attributes SSE event](https://github.com/OffchainLabs/prysm/pull/16766) - 2026-05-08
+* [Review] [Review on: Implement builder api for gloas](https://github.com/OffchainLabs/prysm/pull/16961#pullrequestreview-4492673179) - 2026-06-14
 ## Q1 2026
 
 

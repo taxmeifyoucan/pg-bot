@@ -282,6 +282,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [wip]commitment: for new branch nodes to skip `GetLatest` call ](https://github.com/erigontech/erigon/pull/21789#pullrequestreview-4491500740) - 2026-06-13
 * [Review] [Review on: domain: allow per-domain configuration of "existence filter on mmap"](https://github.com/erigontech/erigon/pull/21776#pullrequestreview-4491499230) - 2026-06-13
 * [Issue] [commitment: evaluate .bt + interpolation accessor vs .kvi hashmap (~4.5x smaller, memory-robust; comparable warm latency)](https://github.com/erigontech/erigon/issues/21795) - 2026-06-13
+* [Review] [Review on: db/state, db/config3: erigondb.toml as source of truth for commitment branch referencing](https://github.com/erigontech/erigon/pull/21452#pullrequestreview-4492981067) - 2026-06-14
+* [Review] [Review on: bt: reduce ram](https://github.com/erigontech/erigon/pull/21787#pullrequestreview-4492450685) - 2026-06-14
 ## Q1 2026
 
 

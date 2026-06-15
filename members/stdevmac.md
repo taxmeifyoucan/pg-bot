@@ -81,6 +81,10 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: feat(workflow): add support for Arbitrum networks and update L2 options](https://github.com/NethermindEth/nethermind/pull/11970#pullrequestreview-4479362406) - 2026-06-11
 * [Pull Request] [Update Directory.Build.props for 1.38.1](https://github.com/NethermindEth/nethermind/pull/11973) - 2026-06-11
 * [Review] [Review on: Bump up the version to 1.40.0-unstable](https://github.com/NethermindEth/nethermind/pull/11986#pullrequestreview-4490489974) - 2026-06-13
+* [Pull Request] [fix(sync): recover header sync after a lost chain level on unclean shutdown (#8029)](https://github.com/NethermindEth/nethermind/pull/11994) - 2026-06-15
+* [Pull Request] [fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update](https://github.com/NethermindEth/nethermind/pull/11995) - 2026-06-15
+* [Issue] [FlatDb computes a wrong state root and rejects a canonical block (consensus divergence) — chiado, intermittent](https://github.com/NethermindEth/nethermind/issues/11993) - 2026-06-15
+* [Issue] [Sync wedges in UpdatingPivot after early restart with no peers — forkchoice hashes not persisted on the unresolvable-header path](https://github.com/NethermindEth/nethermind/issues/11992) - 2026-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 
