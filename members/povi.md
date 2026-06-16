@@ -68,6 +68,9 @@ Team: Grandine
 * [Review] [Review on: Filter payload attestations by parent root and slot for block proposal](https://github.com/grandinetech/grandine/pull/751#pullrequestreview-4477821009) - 2026-06-11
 * [Pull Request] [Introduce `is_previous_slot_payload_decision` predicate. Part 2](https://github.com/grandinetech/grandine/pull/749) - 2026-06-11
 * [Review] [Review on: Fix PTC votes count](https://github.com/grandinetech/grandine/pull/752#pullrequestreview-4484021617) - 2026-06-12
+* [Pull Request] [Don't invalidate Gloas beacon block if execution payload envelope get…](https://github.com/grandinetech/grandine/pull/756) - 2026-06-15
+* [Review] [Review on: Publish Gloas data column sidecars only when self-building payload](https://github.com/grandinetech/grandine/pull/754#pullrequestreview-4495873381) - 2026-06-15
+* [Issue] [[Glamsterdam] Don't invalidate beacon block if execution payload envelope gets invalidated](https://github.com/grandinetech/grandine/issues/755) - 2026-06-15
 ## Q1 2026
 
 

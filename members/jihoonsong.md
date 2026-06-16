@@ -18,6 +18,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Issue] [FOCIL Breakout #33, April 21, 2026](https://github.com/ethereum/pm/issues/2031) - 2026-04-20
 * [Issue] [FOCIL Breakout #34, May 19, 2026](https://github.com/ethereum/pm/issues/2060) - 2026-05-16
 * [Issue] [FOCIL Breakout #35, June 2, 2026](https://github.com/ethereum/pm/issues/2098) - 2026-06-01
+* [Issue] [FOCIL Breakout #36, June 16, 2026](https://github.com/ethereum/pm/issues/2121) - 2026-06-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Refactor EIP8025 proof engine and p2p interface](https://github.com/ethereum/consensus-specs/pull/5055#pullrequestreview-4066901763) - 2026-04-07
 * [Review] [Review on: In networking tests, yield values after mutating them](https://github.com/ethereum/consensus-specs/pull/5050#pullrequestreview-4066620904) - 2026-04-07

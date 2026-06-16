@@ -109,6 +109,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Skip payload attribute computation while syncing](https://github.com/OffchainLabs/prysm/pull/16951#pullrequestreview-4480802092) - 2026-06-11
 * [Commit] [Only send PTC attestations on canonical shuffling (#16946)](https://github.com/OffchainLabs/prysm/commit/de0622529ac04fd5cbacd82eecfd615704411b13) - 2026-06-11
 * [Review] [Review on: Skip payload attribute computation while syncing](https://github.com/OffchainLabs/prysm/pull/16951#pullrequestreview-4485677237) - 2026-06-12
+* [Pull Request] [Bound data-column availability wait during batch sync](https://github.com/OffchainLabs/prysm/pull/16978) - 2026-06-16
+* [Review] [Review on: Make FullBeatsEmpty fork-agnostic](https://github.com/OffchainLabs/prysm/pull/16958#pullrequestreview-4499096489) - 2026-06-15
+* [Pull Request] [Don't request data columns for empty slots in initial sync](https://github.com/OffchainLabs/prysm/pull/16976) - 2026-06-15
+* [Review] [Review on: Don't request data columns for empty slots in initial sync](https://github.com/OffchainLabs/prysm/pull/16976#pullrequestreview-4500079757) - 2026-06-15
+* [Review] [Review on: Fix IsOptimisticForRoot validated checkpoint summary recovery](https://github.com/OffchainLabs/prysm/pull/16969#pullrequestreview-4499227921) - 2026-06-15
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

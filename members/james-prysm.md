@@ -134,6 +134,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Validator rest ptc (#16856)](https://github.com/OffchainLabs/prysm/commit/54f7e6d48d61dd1463aba60ee89ab01ef696e510) - 2026-06-10
 * [Review] [Review on: Only send PTC attestations on canonical shuffling](https://github.com/OffchainLabs/prysm/pull/16946#pullrequestreview-4476335212) - 2026-06-11
 * [Pull Request] [adding gossip validation on envelope api and block api default](https://github.com/OffchainLabs/prysm/pull/16960) - 2026-06-12
+* [Review] [Review on: Deprecate `--http-modules` flag which isn't used](https://github.com/OffchainLabs/prysm/pull/16973#pullrequestreview-4500896574) - 2026-06-15
+* [Review] [Review on: Fix `Subscribe` for `EventStream`: Return error when response status code is non-200](https://github.com/OffchainLabs/prysm/pull/16965#pullrequestreview-4499170226) - 2026-06-15
+* [Review] [Review on: Emit proposer_preferences SSE event for locally submitted preferences](https://github.com/OffchainLabs/prysm/pull/16962#pullrequestreview-4497997356) - 2026-06-15
+* [Commit] [proposer settings updates for proposer preferences validator client side (#16762)](https://github.com/OffchainLabs/prysm/commit/ff8ee84545d452a83aefb52030f02fb178cc6641) - 2026-06-15
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

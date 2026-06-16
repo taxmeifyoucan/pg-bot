@@ -123,6 +123,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Only bake warpbuild snapshot from stable](https://github.com/sigp/lighthouse/pull/9462#pullrequestreview-4491349131) - 2026-06-13
 * [Review] [Review on: Make single block lookup respect `earliest_available_slot` for column requests](https://github.com/sigp/lighthouse/pull/9447#pullrequestreview-4491354030) - 2026-06-13
 * [Pull Request] [Correct unrealized justification for blocks with slashings](https://github.com/sigp/lighthouse/pull/9471) - 2026-06-15
+* [Review] [Review on: Enable mplex by default and change --enable-mplex to take bool](https://github.com/sigp/lighthouse/pull/9476#pullrequestreview-4502465649) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

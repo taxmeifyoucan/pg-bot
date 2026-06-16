@@ -82,6 +82,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: proxy: fix closure cycles in evm](https://github.com/status-im/nimbus-eth1/pull/4322#pullrequestreview-4483027960) - 2026-06-12
 * [Commit] [Exclude nim upstream/version-2-2 from release and nightly build matrix (#4323)](https://github.com/status-im/nimbus-eth1/commit/ef2193e1d163b281480a0d685d036190932d85d6) - 2026-06-13
 * [Commit] [Upgrade eest test fixtures to v7.3.1 (#4327)](https://github.com/status-im/nimbus-eth1/commit/0aa7704ad16ac5a29baec633d6a313de6062b266) - 2026-06-12
+* [Pull Request] [Upgrade EEST test fixtures to tests-bal@v7.3.2](https://github.com/status-im/nimbus-eth1/pull/4328) - 2026-06-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 

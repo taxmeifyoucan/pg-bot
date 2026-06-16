@@ -637,6 +637,14 @@ Team: Reth
 * [Commit] [fix(rpc): remove unused ipc middleware lifetimes (#25199)](https://github.com/paradigmxyz/reth/commit/6cb4cbf1b50b1861f0ce0c38e4ecc9858f10c7cd) - 2026-06-13
 * [Pull Request] [refactor(txpool): recover raw transactions as pool tx](https://github.com/paradigmxyz/reth/pull/25238) - 2026-06-14
 * [Review] [Review on: chore(deps): bump the cargo-weekly group across 1 directory with 12 updates](https://github.com/paradigmxyz/reth/pull/25173#pullrequestreview-4492626234) - 2026-06-14
+* [Pull Request] [fix(engine): store validated payload block access lists](https://github.com/paradigmxyz/reth/pull/25268) - 2026-06-15
+* [Review] [Review on: fix(engine): store validated payload block access lists](https://github.com/paradigmxyz/reth/pull/25268#pullrequestreview-4496755731) - 2026-06-15
+* [Pull Request] [feat(cli): add node command helpers](https://github.com/paradigmxyz/reth/pull/25273) - 2026-06-15
+* [Pull Request] [refactor(net): require BAL-capable download clients](https://github.com/paradigmxyz/reth/pull/25266) - 2026-06-15
+* [Review] [Review on: feat(era): extend ere import until stage sync](https://github.com/paradigmxyz/reth/pull/25262#pullrequestreview-4495398097) - 2026-06-15
+* [Commit] [fix(engine): store validated payload block access lists (#25268)](https://github.com/paradigmxyz/reth/commit/e72588ef5ecbc4ff6dccf43a4637f23cdd715dab) - 2026-06-15
+* [Commit] [feat(cli): add node command helpers (#25273)](https://github.com/paradigmxyz/reth/commit/c5e8255be01cf0d67e1c76d22dfef8f6df0eceaf) - 2026-06-15
+* [Commit] [refactor(net): require BAL-capable download clients (#25266)](https://github.com/paradigmxyz/reth/commit/63e63cdc3c655a64fc7c750d2ade65481357e97d) - 2026-06-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

@@ -158,6 +158,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: update gossipsub to v16.0.2 (#9487)](https://github.com/ChainSafe/lodestar/commit/8d5a6a4fc1d2c362902db875758df19c7970cf93) - 2026-06-09
 * [Review] [Review on: chore: remove stale gloas todo about different state variants](https://github.com/ChainSafe/lodestar/pull/9485#pullrequestreview-4469344249) - 2026-06-10
 * [Review] [Review on: test: catch StreamResetError in sendData noise bench](https://github.com/ChainSafe/lodestar/pull/9497#pullrequestreview-4469336896) - 2026-06-10
+* [Review] [Review on: feat: eip-8282 builder execution requests scaffolding](https://github.com/ChainSafe/lodestar/pull/9507#pullrequestreview-4495250483) - 2026-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

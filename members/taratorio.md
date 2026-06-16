@@ -318,6 +318,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [3.6] domain: existence filter to ShardedFuse](https://github.com/erigontech/erigon/pull/21773#pullrequestreview-4494151309) - 2026-06-15
 * [Review] [Review on: [wip] [3.6] commitment: skip `GetLatest` for keys creation](https://github.com/erigontech/erigon/pull/21790#pullrequestreview-4494123648) - 2026-06-15
 * [Review] [Review on: [wip] [r3.5] execution/commitment: skip prev lookup for new branch nodes](https://github.com/erigontech/erigon/pull/21798#pullrequestreview-4494124058) - 2026-06-15
+* [Review] [Review on: [3.6] domain: existence filter to ShardedFuse](https://github.com/erigontech/erigon/pull/21773#pullrequestreview-4494373759) - 2026-06-15
+* [Review] [Review on: txnprovider/shutter: wait for chain head before loading submissions on init](https://github.com/erigontech/erigon/pull/21816#pullrequestreview-4502480668) - 2026-06-16
+* [Pull Request] [ci: warm lint caches on main + skip golangci-lint cache save in merge queue](https://github.com/erigontech/erigon/pull/21807) - 2026-06-15
+* [Commit] [ci: warm lint caches on main + skip golangci-lint cache save in merge queue (#21807)](https://github.com/erigontech/erigon/commit/8e08e28ceed44894b950ca9a8c2e35b487531a33) - 2026-06-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

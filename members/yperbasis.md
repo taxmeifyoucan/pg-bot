@@ -700,6 +700,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/execmodule: block on semaphore in InsertBlocks, drop busy-wait + dead Busy paths](https://github.com/erigontech/erigon/pull/21549) - 2026-06-12
 * [Commit] [execution/execmodule: fix data race between background prune and next FCU (#21697)](https://github.com/erigontech/erigon/commit/16b8af16d4fe8f98c35e689c2c2c2540333549f9) - 2026-06-12
 * [Commit] [execution/execmodule: block on semaphore in InsertBlocks, drop busy-wait + dead Busy paths (#21549)](https://github.com/erigontech/erigon/commit/874ee8c106ea94c38318b955db8d18ddbcf8302a) - 2026-06-12
+* [Pull Request] [txnprovider/shutter: wait for chain head before loading submissions on init](https://github.com/erigontech/erigon/pull/21816) - 2026-06-15
+* [Review] [Review on: txnprovider/shutter: wait for chain head before loading submissions on init](https://github.com/erigontech/erigon/pull/21816#pullrequestreview-4496492878) - 2026-06-15
+* [Review] [Review on: cl, execution: glamsterdam devnet-5 fixes](https://github.com/erigontech/erigon/pull/21655#pullrequestreview-4497034164) - 2026-06-15
+* [Review] [Review on: cmd/rpctest: fix debug_accountRange bench encoding and start key size](https://github.com/erigontech/erigon/pull/21774#pullrequestreview-4496337152) - 2026-06-15
+* [Pull Request] [ci: don't evict merge-queue PRs on reshuffle cancellations](https://github.com/erigontech/erigon/pull/21817) - 2026-06-15
+* [Review] [Review on: ci: don't evict merge-queue PRs on reshuffle cancellations](https://github.com/erigontech/erigon/pull/21817#pullrequestreview-4496734147) - 2026-06-15
+* [Review] [Review on: engineapi: switch Engine API SSZ to execution-apis#793](https://github.com/erigontech/erigon/pull/21729#pullrequestreview-4496342592) - 2026-06-15
+* [Review] [Review on: chore: add Drips FUNDING.json for dependency funding streams](https://github.com/erigontech/erigon/pull/21561#pullrequestreview-4495884271) - 2026-06-15
+* [Review] [Review on: execution/bal: serve BALs up to and beyond the WSP](https://github.com/erigontech/erigon/pull/21764#pullrequestreview-4495776708) - 2026-06-15
+* [Review] [Review on: rpc/jsonrpc: fix base fee too low error code ](https://github.com/erigontech/erigon/pull/21418#pullrequestreview-4495464342) - 2026-06-15
+* [Review] [Review on: execution/stagedsync: recover CodePath alongside CodeHashPath in parallel normalizeWriteSet](https://github.com/erigontech/erigon/pull/21706#pullrequestreview-4495636263) - 2026-06-15
+* [Commit] [txnprovider/shutter: wait for chain head before loading submissions on init (#21816)](https://github.com/erigontech/erigon/commit/0cd7b7f0232baf2ed67b6b842f0895cb38f36f34) - 2026-06-16
+* [Commit] [execution/execmodule: simplify FCU semaphore handoff (#21767)](https://github.com/erigontech/erigon/commit/3c00a4df6d40e84cd945220d3b5bae456406f801) - 2026-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

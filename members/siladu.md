@@ -98,6 +98,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Revert release process changes](https://github.com/besu-eth/besu/pull/10604#pullrequestreview-4446174787) - 2026-06-08
 * [Commit] [Revert release process changes (#10604)](https://github.com/besu-eth/besu/commit/7009c72f57afdee399398de1fd19e519b597beba) - 2026-06-08
 * [Review] [Review on: revert log level change back to error](https://github.com/besu-eth/besu/pull/10626#pullrequestreview-4481310516) - 2026-06-11
+* [Review] [Review on: Refactor `engine_forkchoiceUpdated` into sealed version hierarchy](https://github.com/besu-eth/besu/pull/10475#pullrequestreview-4494706971) - 2026-06-15
+* [Review] [Review on: Engine API methods refactor](https://github.com/besu-eth/besu/pull/10620#pullrequestreview-4494658541) - 2026-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

@@ -190,6 +190,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: chore(deps): bump revmc to 7e3536d6 (engine deadlock fix)](https://github.com/paradigmxyz/reth/pull/25185#pullrequestreview-4487367631) - 2026-06-12
 * [Review] [Review on: fix(cli): give --jit arg a unique clap id](https://github.com/paradigmxyz/reth/pull/25183#pullrequestreview-4487351753) - 2026-06-12
 * [Commit] [refactor: `MultiProofTargetsV2::from_state` (#25144)](https://github.com/paradigmxyz/reth/commit/505f94d9bc9f274da2be62cd6df1a3cff8548bba) - 2026-06-12
+* [Pull Request] [perf: parallelize `write_storage_history`](https://github.com/paradigmxyz/reth/pull/25282) - 2026-06-15
+* [Review] [Review on: fix: send payload resolve command before returning future](https://github.com/paradigmxyz/reth/pull/25242#pullrequestreview-4497137888) - 2026-06-15
+* [Commit] [perf: parallelize `write_storage_history` (#25282)](https://github.com/paradigmxyz/reth/commit/472ecbb8c6ad213220079b70af63f190a8f32f9d) - 2026-06-15
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
@@ -217,6 +220,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [perf: avoid reallocations and cloning during commit (#3732)](https://github.com/bluealloy/revm/commit/14e2c260f9e0cef2303a3e99dd34d5b8fc88d62d) - 2026-06-02
 * [Pull Request] [refactor: remove `GasStateTr`](https://github.com/bluealloy/revm/pull/3750) - 2026-06-11
 * [Commit] [refactor: remove GasStateTr (#3750)](https://github.com/bluealloy/revm/commit/b8c01757d433d31d4097b51320d0a24b70032297) - 2026-06-11
+* [Review] [Review on: feat: make max refund quotient configurable](https://github.com/bluealloy/revm/pull/3757#pullrequestreview-4501738426) - 2026-06-15
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299) - 2026-04-13
 * [Review] [Review on: feat: add escape hatch for fallback decoding](https://github.com/sigp/discv5/pull/299#pullrequestreview-4140591296) - 2026-04-20

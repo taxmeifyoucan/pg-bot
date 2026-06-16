@@ -56,6 +56,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: perf: eliminate O(N×P) stream allocations and lock contention in EthPeers.reattemptPendingPeerRequests()](https://github.com/besu-eth/besu/pull/10578#pullrequestreview-4454985908) - 2026-06-09
 * [Commit] [Fix chain height (#10608)](https://github.com/besu-eth/besu/commit/41fe887033a71db366274e43da8f07b5251251c0) - 2026-06-10
 * [Review] [Review on: Fix SnapWorldStateDownloader losing active downloadState reference](https://github.com/besu-eth/besu/pull/10349#pullrequestreview-4482285783) - 2026-06-12
+* [Pull Request] [Snap-sync: recover when a former pivot (now a download anchor) is reorged](https://github.com/besu-eth/besu/pull/10647) - 2026-06-15
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [snap: GetTrieNodes accepts invalid compact-encoded paths instead of rejecting them](https://github.com/ethereum/go-ethereum/issues/34853) - 2026-04-30
 

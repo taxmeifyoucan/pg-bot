@@ -61,6 +61,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Fix sending partials from immediately complete columns](https://github.com/sigp/lighthouse/pull/9433#pullrequestreview-4453993432) - 2026-06-08
 * [Review] [Review on: Better partial diagnosics](https://github.com/sigp/lighthouse/pull/9436#pullrequestreview-4470593963) - 2026-06-10
 * [Review] [Review on: Bump discv5](https://github.com/sigp/lighthouse/pull/9394#pullrequestreview-4488430037) - 2026-06-12
+* [Review] [Review on: Make single block lookup respect `earliest_available_slot` for column requests](https://github.com/sigp/lighthouse/pull/9447#pullrequestreview-4501586588) - 2026-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4100433052) - 2026-04-13

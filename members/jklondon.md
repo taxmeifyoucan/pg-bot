@@ -104,6 +104,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [Decoded state Proposal](https://github.com/erigontech/erigon/pull/21804) - 2026-06-14
 * [Review] [Review on: btindex: use off-heap EliasFano during build](https://github.com/erigontech/erigon/pull/21777#pullrequestreview-4493220232) - 2026-06-14
 * [Review] [Review on: db/state: replace ExistenceFilterOnAppMemory with ExistenceFilterMode enum](https://github.com/erigontech/erigon/pull/21788#pullrequestreview-4493219472) - 2026-06-14
+* [Pull Request] [execution/stagedsync: prune in-RAM overlay when execution unwind is a disk no-op](https://github.com/erigontech/erigon/pull/21825) - 2026-06-15
+* [Pull Request] [execution/stagedsync: prune in-RAM overlay when execution unwind is a disk no-op](https://github.com/erigontech/erigon/pull/21824) - 2026-06-15
+* [Pull Request] [[r3.5] execution/stagedsync: prune in-RAM overlay when execution unwind is a disk no-op](https://github.com/erigontech/erigon/pull/21826) - 2026-06-15
+* [Review] [Review on: bloatnet: reduce mem usage by .bt build](https://github.com/erigontech/erigon/pull/21783#pullrequestreview-4496349623) - 2026-06-15
+* [Review] [Review on: [bloatnet] recsplit: enable sharded ShardedFuse by default](https://github.com/erigontech/erigon/pull/21797#pullrequestreview-4496350746) - 2026-06-15
+* [Commit] [execution/stagedsync: prune in-RAM overlay when execution unwind is a disk no-op (#21825)](https://github.com/erigontech/erigon/commit/38b5984bbba27207619bd255199c95ee460fe953) - 2026-06-16
 ## Q1 2026
 
 

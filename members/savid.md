@@ -22,6 +22,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat: decode Gloas data_column_sidecar gossip events](https://github.com/ethpandaops/xatu/pull/842#pullrequestreview-4314659971) - 2026-05-18
 * [Review] [Review on: refactor: glammy-devnet-4 prysm renamed fields](https://github.com/ethpandaops/xatu/pull/845#pullrequestreview-4324746181) - 2026-05-20
 
+* [Pull Request] [feat(clickhouse)!: database-agnostic per-schema migration sets](https://github.com/ethpandaops/xatu/pull/847) - 2026-06-16
+* [Commit] [Merge pull request #847 from ethpandaops/feat/clickhouse-db-agnostic-migrations](https://github.com/ethpandaops/xatu/commit/e738bb965aaf177928a3b41af92abca02e1b8254) - 2026-06-16
+* [Commit] [feat(clickhouse)!: split migrations into database-agnostic per-schema sets](https://github.com/ethpandaops/xatu/commit/3984f4c171bc1ec6c9839f43e3d4a12f89ae6392) - 2026-06-16
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(validators): move report tool to validators index](https://github.com/ethpandaops/lab/pull/435) - 2026-05-27
 * [Commit] [feat(validators): move report tool to validators index (#435)](https://github.com/ethpandaops/lab/commit/337e3345e73c74865d318be214b2169c471a3f72) - 2026-05-27

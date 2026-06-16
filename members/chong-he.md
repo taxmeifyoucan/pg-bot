@@ -56,6 +56,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Add test to VC block production and payload envelope](https://github.com/sigp/lighthouse/pull/9453#pullrequestreview-4482219896) - 2026-06-12
 * [Review] [Review on: Add SSZ response to HTTP API endpoints](https://github.com/sigp/lighthouse/pull/8907#pullrequestreview-4483330034) - 2026-06-12
 * [Review] [Review on: fix(http_api): ignore committee_index in attestation data endpoint](https://github.com/sigp/lighthouse/pull/9437#pullrequestreview-4494055168) - 2026-06-15
+* [Pull Request] [SSZ fallback to JSON in `proposer_preferences`](https://github.com/sigp/lighthouse/pull/9475) - 2026-06-15
+* [Issue] [`/eth/v1/beacon/light_client/updates` may return incorrect data](https://github.com/sigp/lighthouse/issues/9472) - 2026-06-15
 ## Q1 2026
 
 

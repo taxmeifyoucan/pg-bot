@@ -30,6 +30,8 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Commit] [Validate FCU safe/finalized by ancestry when main-chain markers are outdated (#11746)](https://github.com/NethermindEth/nethermind/commit/0c2017f250ea63693891ff76bbfc999239802858) - 2026-05-25
 * [Review] [Review on: Disconnect on unknown protocol message type](https://github.com/NethermindEth/nethermind/pull/11266#pullrequestreview-4361625612) - 2026-05-26
 * [Review] [Review on: JSONRPC csproj fix](https://github.com/NethermindEth/nethermind/pull/11773#pullrequestreview-4370364445) - 2026-05-27
+* [Review] [Review on: Merge.Plugin: produce testing_commitBlockV1 blocks on the main world state](https://github.com/NethermindEth/nethermind/pull/11981#pullrequestreview-4498721660) - 2026-06-15
+* [Review] [Review on: fix(sync): recover header sync after a lost chain level on unclean shutdown (#8029)](https://github.com/NethermindEth/nethermind/pull/11994#pullrequestreview-4497380291) - 2026-06-15
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787) - 2026-04-23
 ## Q1 2026

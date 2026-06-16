@@ -115,6 +115,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): sign state test transactions with their secret key to prevent bogus sender recovery](https://github.com/ethereum/execution-specs/pull/2983#pullrequestreview-4486075449) - 2026-06-12
 * [Review] [Review on: refactor(test-benchmark): port benchmark from bal-devnet-7](https://github.com/ethereum/execution-specs/pull/2977#pullrequestreview-4485573752) - 2026-06-12
 * [Commit] [chore(tests): EIP-7928 expect InvalidParams when newPayload misses BAL (#2980)](https://github.com/ethereum/execution-specs/commit/fb4c370aaa1c1a6354e0731f96a4c6105a2a8948) - 2026-06-12
+* [Pull Request] [feat(tests, spec-specs): raise EIP-7954 max code size to 64KiB](https://github.com/ethereum/execution-specs/pull/2987) - 2026-06-15
+* [Review] [Review on: feat(tests): EIP-7928 cover many storage changes for one account](https://github.com/ethereum/execution-specs/pull/2985#pullrequestreview-4497414767) - 2026-06-15
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

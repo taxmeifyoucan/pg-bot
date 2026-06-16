@@ -65,6 +65,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Introduce `is_previous_slot_payload_decision` predicate. Part 2](https://github.com/grandinetech/grandine/pull/749#pullrequestreview-4475640566) - 2026-06-11
 * [Issue] [[Bug] Weak payload attestation packer](https://github.com/grandinetech/grandine/issues/750) - 2026-06-11
 * [Pull Request] [Fix PTC votes count](https://github.com/grandinetech/grandine/pull/752) - 2026-06-12
+* [Pull Request] [Publish Gloas data column sidecars only when self-building payload](https://github.com/grandinetech/grandine/pull/754) - 2026-06-15
+* [Issue] [[Bug] Still publish data column sidecars even accepted bid from a builder](https://github.com/grandinetech/grandine/issues/753) - 2026-06-15
 ## Q1 2026
 
 

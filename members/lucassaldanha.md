@@ -91,6 +91,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Add experimental QUIC transport support](https://github.com/Consensys/teku/pull/10805#pullrequestreview-4464572112) - 2026-06-10
 * [Review] [Review on: Upgrade jvm-libp2p to 1.3.2](https://github.com/Consensys/teku/pull/10817#pullrequestreview-4466854497) - 2026-06-10
 * [Commit] [Add experimental QUIC transport support (#10805)](https://github.com/Consensys/teku/commit/44baab9e39f912f0d6c47423e1fdfb1b941ab9de) - 2026-06-11
+* [Review] [Review on: updated changelog post 26.6 release](https://github.com/Consensys/teku/pull/10833#pullrequestreview-4494545710) - 2026-06-15
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 

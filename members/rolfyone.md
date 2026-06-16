@@ -128,6 +128,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Added compatibility for 26.4 rocksdb (#10806)](https://github.com/Consensys/teku/commit/e656a3278b852e1986b2b6ff6d3b48275624457a) - 2026-06-10
 * [Review] [Review on: Add experimental QUIC transport support](https://github.com/Consensys/teku/pull/10805#pullrequestreview-4473629422) - 2026-06-11
 * [Review] [Review on: Update Renovatebot GHA Updates to 3f131e8](https://github.com/Consensys/teku/pull/10831#pullrequestreview-4493578462) - 2026-06-14
+* [Pull Request] [updated changelog post 26.6 release](https://github.com/Consensys/teku/pull/10833) - 2026-06-15
+* [Commit] [updated changelog post 26.6 release (#10833)](https://github.com/Consensys/teku/commit/d0c1237898765afb8d41db429701ddd84915e60b) - 2026-06-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

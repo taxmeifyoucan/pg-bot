@@ -97,6 +97,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/solid: tighten TransactionsSSZ decode bounds](https://github.com/erigontech/erigon/pull/21406#pullrequestreview-4467336139) - 2026-06-10
 * [Pull Request] [docs: require CL spec map checks for agents](https://github.com/erigontech/erigon/pull/21747) - 2026-06-11
 * [Commit] [cl/antiquary: batch beacon snapshot indexing (#21594)](https://github.com/erigontech/erigon/commit/34b2591fc50e5546742a3de33bd4a953c9e72968) - 2026-06-12
+* [Commit] [cl/beacon: include finalized in headers list (#21645)](https://github.com/erigontech/erigon/commit/2cfb050d652b9874c680328979cc985e0d9eb05e) - 2026-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

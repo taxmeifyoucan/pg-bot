@@ -106,6 +106,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: ✨ feat(test):  EIP-7928 Selfdestruct a dirty account](https://github.com/ethereum/execution-specs/pull/2967#pullrequestreview-4469895526) - 2026-06-10
 * [Review] [Review on: feat(test-specs): Allow automatic transaction gas-limit](https://github.com/ethereum/execution-specs/pull/2969#pullrequestreview-4478288441) - 2026-06-11
 * [Issue] [refactor(tests): Refactor system-request test helpers](https://github.com/ethereum/execution-specs/issues/2984) - 2026-06-12
+* [Pull Request] [feat(spec,tests): Implement EIP-8282](https://github.com/ethereum/execution-specs/pull/2990) - 2026-06-16
+* [Pull Request] [refactor(tests): generalize system-contract request test helpers (EIP-6110/7002/7251/7685)](https://github.com/ethereum/execution-specs/pull/2989) - 2026-06-15
+* [Issue] [EIP-8282 Implementation Tracker: Builder Execution Requests](https://github.com/ethereum/execution-specs/issues/2988) - 2026-06-15
+* [Commit] [feat(test-specs): Allow automatic transaction gas-limit (#2969)](https://github.com/ethereum/execution-specs/commit/ae18430131e62c22279100f1c64c1b854c6ec834) - 2026-06-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

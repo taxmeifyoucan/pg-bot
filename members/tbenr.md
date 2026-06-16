@@ -165,6 +165,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: simplify fork choice](https://github.com/Consensys/teku/pull/10826#pullrequestreview-4484621151) - 2026-06-12
 * [Pull Request] [never fallback to base in resolveVoteNode](https://github.com/Consensys/teku/pull/10827) - 2026-06-12
 * [Commit] [never fallback to base in resolveVoteNode (#10827)](https://github.com/Consensys/teku/commit/f765b5cd8d863fdc57def42693b8d00a75cb370a) - 2026-06-12
+* [Review] [Review on: Forkchoice on attestation tests](https://github.com/Consensys/teku/pull/10823#pullrequestreview-4499178309) - 2026-06-15
+* [Issue] [QUIC exception when quic is not enabled](https://github.com/Consensys/teku/issues/10834) - 2026-06-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

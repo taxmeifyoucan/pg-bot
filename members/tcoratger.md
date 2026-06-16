@@ -427,6 +427,34 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [docs(sumcheck): document Fiat-Shamir binding contract on Constraint::new (#1838)](https://github.com/Plonky3/Plonky3/commit/426c122f3a2212baef897fb5ab28b97dd6e0bb57) - 2026-06-14
 * [Commit] [bench(sumcheck): add generic Criterion benchmark suite (#1835)](https://github.com/Plonky3/Plonky3/commit/a9cd6efdcd58c37f506dae7110f45d3eba617e74) - 2026-06-14
 * [Commit] [perf(sumcheck): fuse round-0 residual weights into the packed buffer (#1808)](https://github.com/Plonky3/Plonky3/commit/583c6b5ce86f422e5d535bc5ee67d75586a953b5) - 2026-06-14
+* [Pull Request] [refactor(sumcheck): compute SVO grid length from a single log2](https://github.com/Plonky3/Plonky3/pull/1863) - 2026-06-15
+* [Pull Request] [refactor(sumcheck): use assert_eq! for the debug-only SVO fast-path cross-checks](https://github.com/Plonky3/Plonky3/pull/1864) - 2026-06-15
+* [Pull Request] [perf(sumcheck): build eval_next state tables once instead of per row](https://github.com/Plonky3/Plonky3/pull/1870) - 2026-06-15
+* [Pull Request] [test(sumcheck): reuse production dispatch in the accumulator test reference](https://github.com/Plonky3/Plonky3/pull/1867) - 2026-06-15
+* [Pull Request] [refactor(sumcheck): assert ternary-grid length at SVO consumption sites](https://github.com/Plonky3/Plonky3/pull/1866) - 2026-06-15
+* [Pull Request] [refactor(sumcheck): fuse partial-eval wrapping in SvoPoint::eval](https://github.com/Plonky3/Plonky3/pull/1862) - 2026-06-15
+* [Pull Request] [refactor(sumcheck): share scaffolding between eval_next_prefix and eval_next_suffix](https://github.com/Plonky3/Plonky3/pull/1869) - 2026-06-15
+* [Pull Request] [refactor(sumcheck): share SvoPoint constructor and accumulate prologue](https://github.com/Plonky3/Plonky3/pull/1868) - 2026-06-15
+* [Pull Request] [test(sumcheck): add direct unit test for accumulate_next_suffix_into](https://github.com/Plonky3/Plonky3/pull/1865) - 2026-06-15
+* [Pull Request] [docs(sumcheck): fix inverted batch_pows ordering and complete SelectStatement panics doc](https://github.com/Plonky3/Plonky3/pull/1859) - 2026-06-15
+* [Review] [Review on: perf(mersenne-31): add deferred-reduction `dot_product` for AVX2/AVX-512](https://github.com/Plonky3/Plonky3/pull/1855#pullrequestreview-4497384597) - 2026-06-15
+* [Review] [Review on: feat(air,lookup): add serde to symbolic constraint and lookup types](https://github.com/Plonky3/Plonky3/pull/1857#pullrequestreview-4497326814) - 2026-06-15
+* [Pull Request] [perf(sumcheck): hoist invariant alpha exponentiation out of the SVO round loop](https://github.com/Plonky3/Plonky3/pull/1861) - 2026-06-15
+* [Pull Request] [fix(sumcheck): assert accumulator length in scalar combine paths](https://github.com/Plonky3/Plonky3/pull/1860) - 2026-06-15
+* [Pull Request] [refactor(sumcheck): consistent expect message for concrete opening column index](https://github.com/Plonky3/Plonky3/pull/1858) - 2026-06-15
+* [Pull Request] [refactor(sumcheck): share prover claim state via StackedClaims](https://github.com/Plonky3/Plonky3/pull/1856) - 2026-06-15
+* [Pull Request] [refactor(sumcheck): trim test-only API surface and dedup SVO virtual fold](https://github.com/Plonky3/Plonky3/pull/1854) - 2026-06-15
+* [Review] [Review on: fix(circle): reject input matrices opened at zero points](https://github.com/Plonky3/Plonky3/pull/1853#pullrequestreview-4495865268) - 2026-06-15
+* [Commit] [perf(sumcheck): build eval_next state tables once instead of per row (#1870)](https://github.com/Plonky3/Plonky3/commit/58f9642b003e8d3ba84ed304cde476024687cc7c) - 2026-06-15
+* [Commit] [test(sumcheck): reuse production dispatch in the accumulator test reference (#1867)](https://github.com/Plonky3/Plonky3/commit/4c3a2d1f5325bc69ce1bb7616d733bb89f55ca1e) - 2026-06-15
+* [Commit] [refactor(sumcheck): assert ternary-grid length at SVO consumption sites (#1866)](https://github.com/Plonky3/Plonky3/commit/45c9dde853d345bba4f1872695e14e9f658bb4a9) - 2026-06-15
+* [Commit] [refactor(sumcheck): compute SVO grid length from a single log2 (#1863)](https://github.com/Plonky3/Plonky3/commit/8f2705f9f37070282cb272861c6c02a2394070f0) - 2026-06-15
+* [Commit] [refactor(sumcheck): fuse partial-eval wrapping in SvoPoint::eval (#1862)](https://github.com/Plonky3/Plonky3/commit/d45ff09c98d22e4af2865daa0f2dd759f922d4ab) - 2026-06-15
+* [Commit] [docs(sumcheck): fix inverted batch_pows ordering and complete SelectStatement panics doc (#1859)](https://github.com/Plonky3/Plonky3/commit/56ce0d8d347e345c18a6fb07e631a0adca81e69c) - 2026-06-15
+* [Commit] [fix(whir): enforce the proof-of-work budget in WhirConfig::new (#1852)](https://github.com/Plonky3/Plonky3/commit/364e509c1ce2df6dea2e16d068612e3b8d241aa7) - 2026-06-15
+* [Commit] [fix(whir): reject non-redundant code rates in WhirConfig::new (#1850)](https://github.com/Plonky3/Plonky3/commit/e437027b81c50449fe262c2171097872efb8a2e2) - 2026-06-15
+* [Commit] [refactor(sumcheck): split svo.rs into a svo/ module by concern (#1847)](https://github.com/Plonky3/Plonky3/commit/67fd9df837729064d0c15a6087e736025246b500) - 2026-06-15
+* [Commit] [fix(whir): round proof-of-work bits up instead of down (#1851)](https://github.com/Plonky3/Plonky3/commit/f08868ac9e2f4573430dd66a370e822c14ced785) - 2026-06-15
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

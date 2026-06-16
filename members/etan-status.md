@@ -145,6 +145,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Ensure confirmed chain includes greatest unrealized checkpoint](https://github.com/ethereum/consensus-specs/pull/5288#pullrequestreview-4365993902) - 2026-05-26
 * [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4466763068) - 2026-06-10
 * [Pull Request] [Reject bids with invalid `prev_randao` during gossip validation](https://github.com/ethereum/consensus-specs/pull/5360) - 2026-06-12
+* [Pull Request] [Pass only signed bid to process_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5364) - 2026-06-15
+* [Review] [Review on: Reject bids with invalid `prev_randao` during gossip validation](https://github.com/ethereum/consensus-specs/pull/5360#pullrequestreview-4495440065) - 2026-06-15
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13

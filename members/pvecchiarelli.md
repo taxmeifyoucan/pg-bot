@@ -52,6 +52,18 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Create 20260612-keycard-shell-for-every-member.md](https://github.com/protocolguild/protocol-guild-site/commit/339b0e55935b864029698488c4e320e56efca093) - 2026-06-12
 * [Commit] [Add files via upload](https://github.com/protocolguild/protocol-guild-site/commit/80a17bccaa1257557bafdf6a25a2e1ee20cd6c3e) - 2026-06-12
 * [Pull Request] [Blog edits](https://github.com/protocolguild/protocol-guild-site/pull/68) - 2026-06-14
+* [Pull Request] [Update InAppContributions.tsx](https://github.com/protocolguild/protocol-guild-site/pull/71) - 2026-06-16
+* [Pull Request] [Blog fixes only](https://github.com/protocolguild/protocol-guild-site/pull/70) - 2026-06-16
+* [Pull Request] [Revert "Blog edits"](https://github.com/protocolguild/protocol-guild-site/pull/69) - 2026-06-16
+* [Commit] [Merge pull request #71 from protocolguild/pvecchiarelli-patch-1](https://github.com/protocolguild/protocol-guild-site/commit/167851ea729462fb53849931b04885213bb4c4f2) - 2026-06-16
+* [Commit] [Update InAppContributions.tsx](https://github.com/protocolguild/protocol-guild-site/commit/2bca1cd2db3ccbe47ec7e721fbe78f692b1fe1a8) - 2026-06-16
+* [Commit] [Merge pull request #70 from protocolguild/blog-fixes-only](https://github.com/protocolguild/protocol-guild-site/commit/ed8a540a98efc72d9e8212a3aa880fca5de76a9e) - 2026-06-16
+* [Commit] [Update 20260604-Q2-quarterly-audit.md](https://github.com/protocolguild/protocol-guild-site/commit/d03c34059cdc7e1f05c5cd8eecb998fc88dd689e) - 2026-06-16
+* [Commit] [Rename 2206.05.01-agora-dao.md to 22060501-agora-dao.md](https://github.com/protocolguild/protocol-guild-site/commit/6d787f0c72baf28b2b433cf8725d2edaaf6013cf) - 2026-06-16
+* [Commit] [Merge pull request #69 from protocolguild/revert-68-main](https://github.com/protocolguild/protocol-guild-site/commit/12b2b8c64dcce0f32d1f319163c58dbc327631f7) - 2026-06-16
+* [Commit] [Revert "Blog edits"](https://github.com/protocolguild/protocol-guild-site/commit/8842a29622aec0f84d5f6bae6e55933f4971a4fa) - 2026-06-16
+* [Commit] [Merge pull request #68 from pvecchiarelli/main](https://github.com/protocolguild/protocol-guild-site/commit/3432e58db068991e24f9b222a748568b5494be45) - 2026-06-16
+* [Commit] [feat: add InKindAppreciation section with keycardblack.png](https://github.com/protocolguild/protocol-guild-site/commit/ead7522b4e5602e4e880e6baa8a5db55ac77846d) - 2026-06-16
 ## Q1 2026
 
 

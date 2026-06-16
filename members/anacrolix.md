@@ -26,6 +26,9 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Review] [Review on: grwoslice: use `slices.Grow` instead of hand-rolled grow funcs](https://github.com/erigontech/erigon/pull/21467#pullrequestreview-4378549045) - 2026-05-28
 * [Review] [Review on: p2p/discover: waitForNodes hangs on RespCount=0 from peer](https://github.com/erigontech/erigon/pull/21457#pullrequestreview-4378567936) - 2026-05-28
 * [Review] [Review on: node, cmd: remove dead geth-forked httpServer](https://github.com/erigontech/erigon/pull/21724#pullrequestreview-4471888186) - 2026-06-10
+* [Pull Request] [node/components/downloader: always register torrent client status on default mux](https://github.com/erigontech/erigon/pull/21821) - 2026-06-15
+* [Pull Request] [[r3.5] node/components/downloader: always register torrent client status on default mux](https://github.com/erigontech/erigon/pull/21822) - 2026-06-15
+* [Commit] [node/components/downloader: always register torrent client status on default mux (#21821)](https://github.com/erigontech/erigon/commit/0f5fedb5ceaa7d2b83ef25a151e52479dc5a8971) - 2026-06-15
 ## Q1 2026
 
 

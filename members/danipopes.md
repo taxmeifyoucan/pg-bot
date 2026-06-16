@@ -351,6 +351,8 @@ Team: Reth
 * [Review] [Review on: fix(runtime): never block in pause/resume on the bounded command channel](https://github.com/paradigmxyz/revmc/pull/391#pullrequestreview-4487174806) - 2026-06-12
 * [Commit] [feat: configure single error mode (#397)](https://github.com/paradigmxyz/revmc/commit/64ddc4e46fc38effbbf29cc8c46114e5cdcda05e) - 2026-06-13
 * [Review] [Review on: fix: preserve dynamic gas failure order](https://github.com/paradigmxyz/revmc/pull/395#pullrequestreview-4491580928) - 2026-06-13
+* [Pull Request] [fix: use log memory operands for analysis](https://github.com/paradigmxyz/revmc/pull/400) - 2026-06-15
+* [Commit] [fix: use log memory operands for analysis (#400)](https://github.com/paradigmxyz/revmc/commit/b5b60c1491c4cda92626e01e8e838bf29e53736a) - 2026-06-15
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: fix(ci): fix Grafana URL year-2082 when ABBA disabled](https://github.com/paradigmxyz/reth/pull/23348#pullrequestreview-4052094339) - 2026-04-02
 * [Review] [Review on: fix: use named systemd scope for reliable reth cleanup in benchmarks](https://github.com/paradigmxyz/reth/pull/23374#pullrequestreview-4068011513) - 2026-04-07

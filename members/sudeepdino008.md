@@ -284,6 +284,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [commitment: evaluate .bt + interpolation accessor vs .kvi hashmap (~4.5x smaller, memory-robust; comparable warm latency)](https://github.com/erigontech/erigon/issues/21795) - 2026-06-13
 * [Review] [Review on: db/state, db/config3: erigondb.toml as source of truth for commitment branch referencing](https://github.com/erigontech/erigon/pull/21452#pullrequestreview-4492981067) - 2026-06-14
 * [Review] [Review on: bt: reduce ram](https://github.com/erigontech/erigon/pull/21787#pullrequestreview-4492450685) - 2026-06-14
+* [Pull Request] [db/state: noref commitment files, with read/merge compat for ref (v2.0) files (wip)](https://github.com/erigontech/erigon/pull/21814) - 2026-06-15
+* [Review] [Review on: [SharovBot] seg rm-state: handle missing .kvi accessor gracefully](https://github.com/erigontech/erigon/pull/21802#pullrequestreview-4496716862) - 2026-06-15
+* [Pull Request] [db/datastruct/btindex: interpolation search in BTree leaf](https://github.com/erigontech/erigon/pull/21813) - 2026-06-15
+* [Review] [Review on: seg: SamplingFactor>1 produced only 1 sample](https://github.com/erigontech/erigon/pull/21806#pullrequestreview-4494755900) - 2026-06-15
+* [Pull Request] [scratch/kvi_mmphf: prototype learned MMPHF + Elias-Fano .kvi index (#…](https://github.com/erigontech/erigon/pull/21812) - 2026-06-15
+* [Pull Request] [db/datastruct/btindex: interpolation search without per-probe allocations](https://github.com/erigontech/erigon/pull/21808) - 2026-06-15
+* [Review] [Review on: db/datastruct/btindex: simplify interpolation search](https://github.com/erigontech/erigon/pull/21799#pullrequestreview-4494843770) - 2026-06-15
+* [Issue] [rcache vi is too big?: ef as index instead of vi](https://github.com/erigontech/erigon/issues/21823) - 2026-06-15
+* [Commit] [db/datastruct/btindex: interpolation search in BTree leaf (#21813)](https://github.com/erigontech/erigon/commit/d4dbf843fe73c90fbc3505e107b4df1055949d95) - 2026-06-15
 ## Q1 2026
 
 

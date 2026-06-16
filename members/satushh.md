@@ -75,6 +75,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Check network size before computing subnet topic scoring params](https://github.com/OffchainLabs/prysm/pull/16954#pullrequestreview-4486612188) - 2026-06-12
 * [Review] [Review on: Skip payload attribute computation while syncing](https://github.com/OffchainLabs/prysm/pull/16951#pullrequestreview-4484226269) - 2026-06-12
 * [Review] [Review on: Payload reorg](https://github.com/OffchainLabs/prysm/pull/16933#pullrequestreview-4487122472) - 2026-06-12
+* [Review] [Review on: Make FullBeatsEmpty fork-agnostic](https://github.com/OffchainLabs/prysm/pull/16958#pullrequestreview-4495952617) - 2026-06-15
+* [Pull Request] [Fix IsOptimisticForRoot validated checkpoint summary recovery](https://github.com/OffchainLabs/prysm/pull/16969) - 2026-06-15
+* [Issue] [Remove the paths that used lastValidated](https://github.com/OffchainLabs/prysm/issues/16974) - 2026-06-15
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

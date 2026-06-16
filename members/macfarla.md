@@ -284,6 +284,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [changelog rotation for 26.6.1 (#10637)](https://github.com/besu-eth/besu/commit/983c53fb797b7e2e8cf940dc0361770705675a93) - 2026-06-12
 * [Commit] [revert log level change back to error (#10626)](https://github.com/besu-eth/besu/commit/e0a067c8fc5621bd9c460d4c77e11c86bfa9c64a) - 2026-06-12
 * [Commit] [fix(engine): return SYNCING when parent world state is not immediately cached (#10600)](https://github.com/besu-eth/besu/commit/c83dd7f7c15efb12ed9cdfbdc44e863f30f9459b) - 2026-06-11
+* [Pull Request] [fix: initialize profilers list before adding gc in jmh config](https://github.com/besu-eth/besu/pull/10651) - 2026-06-16
+* [Pull Request] [upgrade license report plugin](https://github.com/besu-eth/besu/pull/10650) - 2026-06-16
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

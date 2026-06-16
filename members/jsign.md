@@ -93,6 +93,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat: iter_benchmark_fixture_paths returns sorted paths by file name](https://github.com/eth-act/zkevm-benchmark-workload/pull/289#pullrequestreview-4377728450) - 2026-05-28
 * [Review] [Review on: feat: update ere and ere-guests](https://github.com/eth-act/zkevm-benchmark-workload/pull/292#pullrequestreview-4459942496) - 2026-06-09
 * [Commit] [Add experimental witness-generator-spec-cli (#290)](https://github.com/eth-act/zkevm-benchmark-workload/commit/783fd39d7b76a1d9ddbe7f212bf95a8156816f1f) - 2026-06-11
+* [Pull Request] [Add stateless input collection, export, and R2 publication flow](https://github.com/eth-act/zkevm-benchmark-workload/pull/293) - 2026-06-15
+* [Commit] [Add stateless input collection, export, and R2 publication flow (#293)](https://github.com/eth-act/zkevm-benchmark-workload/commit/c168dcaab1e3398a1469c673408b73d01afe7df6) - 2026-06-15
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08

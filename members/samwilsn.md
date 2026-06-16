@@ -101,6 +101,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Should `tx.max_fee_per_gas < tx.max_priority_fee_per_gas` be moved to `validate_transaction`?](https://github.com/ethereum/execution-specs/issues/2976) - 2026-06-10
 * [Review] [Review on: fix(ci,tooling): include json-loader in coverage reports](https://github.com/ethereum/execution-specs/pull/2975#pullrequestreview-4477702684) - 2026-06-11
 * [Review] [Review on: feat(spec-specs): EIP-8037 - check static context upfront in CREATE opcodes](https://github.com/ethereum/execution-specs/pull/2978#pullrequestreview-4477638605) - 2026-06-11
+* [Review] [Review on: fix(tooling): include namespace packages in coverage reports](https://github.com/ethereum/execution-specs/pull/2982#pullrequestreview-4499363697) - 2026-06-15
+* [Review] [Review on: chore(specs): refactor code deployment functions](https://github.com/ethereum/execution-specs/pull/2904#pullrequestreview-4499008591) - 2026-06-15
+* [Review] [Review on: fix(ci,tooling): include json-loader in coverage reports](https://github.com/ethereum/execution-specs/pull/2975#pullrequestreview-4499379826) - 2026-06-15
+* [Commit] [chore(specs): add type alias for fee market txs](https://github.com/ethereum/execution-specs/commit/54246cd940960f1366471e408f08310cf4b200bc) - 2026-06-15
 ## Q1 2026
 
 

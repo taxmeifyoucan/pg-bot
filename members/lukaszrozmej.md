@@ -678,6 +678,14 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Bump up the version to 1.40.0-unstable](https://github.com/NethermindEth/nethermind/pull/11986#pullrequestreview-4491037371) - 2026-06-13
 * [Pull Request] [test(merge): fix flaky AlreadyKnown_not_cached_block_should_return_valid](https://github.com/NethermindEth/nethermind/pull/11989) - 2026-06-14
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11987#pullrequestreview-4492552074) - 2026-06-14
+* [Review] [Review on: Unify types with Geth](https://github.com/NethermindEth/nethermind/pull/11937#pullrequestreview-4498282190) - 2026-06-15
+* [Pull Request] [feat(engine): align SSZ-REST wire format with execution-apis#793 update](https://github.com/NethermindEth/nethermind/pull/11998) - 2026-06-15
+* [Review] [Review on: fix(sync): recover header sync after a lost chain level on unclean shutdown (#8029)](https://github.com/NethermindEth/nethermind/pull/11994#pullrequestreview-4496485200) - 2026-06-15
+* [Review] [Review on: EvmPoolMemory Improvement](https://github.com/NethermindEth/nethermind/pull/11991#pullrequestreview-4496434405) - 2026-06-15
+* [Review] [Review on: fix(flatdb): make snap finalize crash-durable and the restart wipe cheap](https://github.com/NethermindEth/nethermind/pull/11997#pullrequestreview-4496478160) - 2026-06-15
+* [Review] [Review on: fix(flatdb): preserve format markers when clearing the flat DB](https://github.com/NethermindEth/nethermind/pull/11996#pullrequestreview-4496466221) - 2026-06-15
+* [Review] [Review on: fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update](https://github.com/NethermindEth/nethermind/pull/11995#pullrequestreview-4496533369) - 2026-06-15
+* [Commit] [test(merge): fix flaky AlreadyKnown_not_cached_block_should_return_valid (#11989)](https://github.com/NethermindEth/nethermind/commit/c08112d39dd46322a6078746091a166615a0aa88) - 2026-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

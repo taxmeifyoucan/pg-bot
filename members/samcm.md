@@ -57,6 +57,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [lowercase telemetry service names (#843)](https://github.com/ethpandaops/xatu/commit/7dc8cad6bc4d9a95d0c21bdf25c17e036ced5372) - 2026-05-19
 * [Pull Request] [feat(sentry-logs): make the xatu sink buffer/concurrency/timeout env-tunable](https://github.com/ethpandaops/xatu/pull/846) - 2026-05-20
 * [Commit] [feat(sentry-logs): make the xatu sink buffer/concurrency/timeout env-tunable (#846)](https://github.com/ethpandaops/xatu/commit/75877668ac0ce071b61b02e668cef514a409f7ef) - 2026-05-21
+* [Review] [Review on: feat(clickhouse)!: database-agnostic per-schema migration sets](https://github.com/ethpandaops/xatu/pull/847#pullrequestreview-4502546460) - 2026-06-16
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23

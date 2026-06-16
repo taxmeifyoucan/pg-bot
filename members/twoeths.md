@@ -215,6 +215,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: track payload timing on dashboard (#9482)](https://github.com/ChainSafe/lodestar/commit/3dd09a845b66bedf193f412066a0bb9ff20ad1cb) - 2026-06-09
 * [Review] [Review on: fix: pass vote.slot (not nextEpoch) to addLatestMessage in everyoneVotes](https://github.com/ChainSafe/lodestar/pull/9496#pullrequestreview-4467839492) - 2026-06-10
 * [Pull Request] [fix: get attestation block head](https://github.com/ChainSafe/lodestar/pull/9500) - 2026-06-10
+* [Pull Request] [feat: prune PayloadEnvelopeInput when syncing](https://github.com/ChainSafe/lodestar/pull/9509) - 2026-06-15
+* [Issue] [BeaconEngine](https://github.com/ChainSafe/lodestar/issues/9508) - 2026-06-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
@@ -231,6 +233,32 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: asyncAggregateWithRandomness](https://github.com/ChainSafe/lodestar-z/pull/353#pullrequestreview-4269081704) - 2026-05-12
 * [Issue] [Memory Safety Review](https://github.com/ChainSafe/lodestar-z/issues/357) - 2026-05-12
 * [Review] [Review on: feat: asyncAggregateWithRandomness](https://github.com/ChainSafe/lodestar-z/pull/353#pullrequestreview-4287060111) - 2026-05-14
+* [Issue] [Implement state caches](https://github.com/ChainSafe/lodestar-z/issues/406) - 2026-06-15
+* [Issue] [Implement BeaconEngine](https://github.com/ChainSafe/lodestar-z/issues/405) - 2026-06-15
+* [Issue] [Implement bindings for BeaconEngine](https://github.com/ChainSafe/lodestar-z/issues/430) - 2026-06-15
+* [Issue] [Implement metrics for BeaconEngine](https://github.com/ChainSafe/lodestar-z/issues/429) - 2026-06-15
+* [Issue] [Bootstrap BeaconEngine](https://github.com/ChainSafe/lodestar-z/issues/428) - 2026-06-15
+* [Issue] [Implement historical state regens](https://github.com/ChainSafe/lodestar-z/issues/427) - 2026-06-15
+* [Issue] [Implement beacon_blocks p2p handlers](https://github.com/ChainSafe/lodestar-z/issues/426) - 2026-06-15
+* [Issue] [Implement getState() apis](https://github.com/ChainSafe/lodestar-z/issues/425) - 2026-06-15
+* [Issue] [Implement p2p message production APIs](https://github.com/ChainSafe/lodestar-z/issues/415) - 2026-06-15
+* [Issue] [Implement kzg utils](https://github.com/ChainSafe/lodestar-z/issues/424) - 2026-06-15
+* [Issue] [Implement forkchoice spec tests](https://github.com/ChainSafe/lodestar-z/issues/423) - 2026-06-15
+* [Issue] [Implement verifyBlocksStateTransitionOnly api](https://github.com/ChainSafe/lodestar-z/issues/422) - 2026-06-15
+* [Issue] [Implement Forkchoice APIs](https://github.com/ChainSafe/lodestar-z/issues/421) - 2026-06-15
+* [Issue] [Implement gossip validation apis](https://github.com/ChainSafe/lodestar-z/issues/420) - 2026-06-15
+* [Issue] [Implement seen caches](https://github.com/ChainSafe/lodestar-z/issues/419) - 2026-06-15
+* [Issue] [Implement Proof APIs](https://github.com/ChainSafe/lodestar-z/issues/418) - 2026-06-15
+* [Issue] [Implement PrepareNextSlot utils](https://github.com/ChainSafe/lodestar-z/issues/417) - 2026-06-15
+* [Issue] [Implement validator duties APIs](https://github.com/ChainSafe/lodestar-z/issues/416) - 2026-06-15
+* [Issue] [Implement OpPools](https://github.com/ChainSafe/lodestar-z/issues/414) - 2026-06-15
+* [Issue] [Implement logging module](https://github.com/ChainSafe/lodestar-z/issues/413) - 2026-06-15
+* [Issue] [Implement BLS thread pool](https://github.com/ChainSafe/lodestar-z/issues/412) - 2026-06-15
+* [Issue] [Process finalized checkpoint](https://github.com/ChainSafe/lodestar-z/issues/411) - 2026-06-15
+* [Issue] [Implement importBlock flow](https://github.com/ChainSafe/lodestar-z/issues/410) - 2026-06-15
+* [Issue] [Implement ShufflingCache](https://github.com/ChainSafe/lodestar-z/issues/409) - 2026-06-15
+* [Issue] [Implement Regen Apis](https://github.com/ChainSafe/lodestar-z/issues/408) - 2026-06-15
+* [Issue] [Implement block DB and state DB](https://github.com/ChainSafe/lodestar-z/issues/407) - 2026-06-15
 ## Q1 2026
 
 

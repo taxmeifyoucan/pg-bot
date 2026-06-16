@@ -92,6 +92,11 @@ Team: Geth
 * [Review] [Review on: cmd/utils: keep metrics tag values containing '='](https://github.com/ethereum/go-ethereum/pull/35168#pullrequestreview-4492806122) - 2026-06-14
 * [Pull Request] [eth/catalyst: add rest-ssz based engine api](https://github.com/ethereum/go-ethereum/pull/35171) - 2026-06-14
 * [Review] [Review on: core/vm: compute stack operations in place](https://github.com/ethereum/go-ethereum/pull/35156#pullrequestreview-4492624602) - 2026-06-14
+* [Pull Request] [accounts, rlp: switch reflect.Ptr to reflect.Pointer](https://github.com/ethereum/go-ethereum/pull/35176) - 2026-06-15
+* [Review] [Review on: params: remove named hardforks from bpo schedule](https://github.com/ethereum/go-ethereum/pull/35029#pullrequestreview-4500556029) - 2026-06-15
+* [Review] [Review on: cmd/geth: return error when traverse-rawstate root is missing](https://github.com/ethereum/go-ethereum/pull/35166#pullrequestreview-4500684218) - 2026-06-15
+* [Review] [Review on: accounts/external: forward blob fee cap to external signer](https://github.com/ethereum/go-ethereum/pull/35167#pullrequestreview-4500677475) - 2026-06-15
+* [Pull Request] [core: implement EIP-8282: Builder Execution Requests](https://github.com/ethereum/go-ethereum/pull/35175) - 2026-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

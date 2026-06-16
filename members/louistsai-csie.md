@@ -129,6 +129,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(test-fill): align `fill-stateful` with `gas-benchmarks` implementation](https://github.com/ethereum/execution-specs/pull/2923#pullrequestreview-4474854128) - 2026-06-11
 * [Review] [Review on: chore(test-forks): include sibling BPO forks in `--until` ranges](https://github.com/ethereum/execution-specs/pull/2955#pullrequestreview-4476326253) - 2026-06-11
 * [Commit] [refactor(test-benchmark): port benchmark from bal-devnet-7 (#2977)](https://github.com/ethereum/execution-specs/commit/9d7738bdf9ba8caaf2bb20c0d21d5ebe2921fe2a) - 2026-06-12
+* [Review] [Review on: feat(spec, spec-specs): EIP-7997](https://github.com/ethereum/execution-specs/pull/2802#pullrequestreview-4495593881) - 2026-06-15
+* [Review] [Review on: chore(specs): refactor code deployment functions](https://github.com/ethereum/execution-specs/pull/2904#pullrequestreview-4494944721) - 2026-06-15
+* [Review] [Review on: chore(specs): add type alias for fee market txs](https://github.com/ethereum/execution-specs/pull/2968#pullrequestreview-4495039627) - 2026-06-15
+* [Review] [Review on: feat(test): add besu main overflow test](https://github.com/ethereum/execution-specs/pull/2933#pullrequestreview-4495220108) - 2026-06-15
+* [Review] [Review on: feat(test-benchmark): add invalid jump destination edge case benchmarks](https://github.com/ethereum/execution-specs/pull/2986#pullrequestreview-4494721642) - 2026-06-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

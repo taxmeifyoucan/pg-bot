@@ -212,6 +212,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Add PaprikaFlat state layout](https://github.com/NethermindEth/nethermind/pull/11983) - 2026-06-12
 * [Review] [Review on: Slotnum fix](https://github.com/NethermindEth/nethermind/pull/11968#pullrequestreview-4486472258) - 2026-06-12
 * [Review] [Review on: fix(flatdb): detect legacy raw slot DBs by slot presence, not the Layout marker](https://github.com/NethermindEth/nethermind/pull/11975#pullrequestreview-4484963503) - 2026-06-12
+* [Pull Request] [Switch to struct RLP reader/writer](https://github.com/NethermindEth/nethermind/pull/12011) - 2026-06-15
+* [Pull Request] [Allow to omit TargetGasLimit](https://github.com/NethermindEth/nethermind/pull/12004) - 2026-06-15
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/11987#pullrequestreview-4496167977) - 2026-06-15
+* [Review] [Review on: StateComposition: refuse to publish a partial-scan baseline](https://github.com/NethermindEth/nethermind/pull/11586#pullrequestreview-4496156944) - 2026-06-15
+* [Review] [Review on: perf: per-column write buffer caps in WriteBufferAdjuster](https://github.com/NethermindEth/nethermind/pull/10955#pullrequestreview-4496055750) - 2026-06-15
+* [Review] [Review on: Add background scheduler stats](https://github.com/NethermindEth/nethermind/pull/9956#pullrequestreview-4496043580) - 2026-06-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

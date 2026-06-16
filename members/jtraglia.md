@@ -366,6 +366,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Fix some inconsistencies in fulu partial-columns spec](https://github.com/ethereum/consensus-specs/pull/5357#pullrequestreview-4486751664) - 2026-06-12
 * [Review] [Review on: Add annotation prefixes to p2p interface spec sections](https://github.com/ethereum/consensus-specs/pull/5356#pullrequestreview-4485783976) - 2026-06-12
 * [Commit] [Add annotation prefixes to p2p interface spec sections (#5356)](https://github.com/ethereum/consensus-specs/commit/8e19f82b04d92712ff424fa5b95ac4333f88b7d6) - 2026-06-12
+* [Review] [Review on: Pass only signed bid to process_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5364#pullrequestreview-4499114400) - 2026-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

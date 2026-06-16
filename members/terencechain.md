@@ -277,6 +277,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Emit proposer_preferences SSE event for locally submitted preferences](https://github.com/OffchainLabs/prysm/pull/16962) - 2026-06-13
 * [Pull Request] [Emit payload_attributes SSE event after the Gloas fork](https://github.com/OffchainLabs/prysm/pull/16964) - 2026-06-13
 * [Pull Request] [Emit execution_payload_bid event on the beacon node event stream](https://github.com/OffchainLabs/prysm/pull/16963) - 2026-06-13
+* [Pull Request] [Add Gloas builder API protobuf types and auth domain](https://github.com/OffchainLabs/prysm/pull/16977) - 2026-06-15
+* [Pull Request] [Add builder execution requests (EIP-8282)](https://github.com/OffchainLabs/prysm/pull/16972) - 2026-06-15
+* [Commit] [Make FullBeatsEmpty fork-agnostic (#16958)](https://github.com/OffchainLabs/prysm/commit/bc0f2827e485db79fd4505dce8316138faf7f50d) - 2026-06-15
+* [Commit] [Emit execution_payload_bid event on the beacon node event stream (#16963)](https://github.com/OffchainLabs/prysm/commit/2e86c9542dc543d4bea1075786555cf4ad99d173) - 2026-06-15
+* [Commit] [Emit proposer_preferences SSE event for locally submitted preferences (#16962)](https://github.com/OffchainLabs/prysm/commit/6a6b6893c26fd24143ac0b172b7099c63613c146) - 2026-06-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

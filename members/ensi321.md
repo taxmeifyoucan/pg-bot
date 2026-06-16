@@ -98,6 +98,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: remove old deposit mechanism in fulu](https://github.com/ChainSafe/lodestar/pull/9459#pullrequestreview-4421686299) - 2026-06-03
 * [Pull Request] [feat: add stateless path to publishExecutionPayloadEnvelope (gd5)](https://github.com/ChainSafe/lodestar/pull/9506) - 2026-06-11
 * [Pull Request] [feat: add heze fork definition and boilerplate](https://github.com/ChainSafe/lodestar/pull/9505) - 2026-06-11
+* [Pull Request] [test: un-ignore churn related fields in gloas](https://github.com/ChainSafe/lodestar/pull/9514) - 2026-06-16
+* [Review] [Review on: feat: add heze fork definition and boilerplate](https://github.com/ChainSafe/lodestar/pull/9505#pullrequestreview-4501850483) - 2026-06-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 
@@ -124,6 +126,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Modify `get_proposer_head` for Gloas](https://github.com/ethereum/consensus-specs/pull/5348#pullrequestreview-4473020705) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082800) - 2026-04-15
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Pull Request] [chore: update gloas types to align with the latest specs](https://github.com/ChainSafe/lodestar-z/pull/431) - 2026-06-16
 ## Q1 2026
 
 

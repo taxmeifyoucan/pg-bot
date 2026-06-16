@@ -78,6 +78,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Data column pruner optimizations (#10807)](https://github.com/Consensys/teku/commit/9fb38a8d7774f5e43b7f71e58fcb8d14c508cc08) - 2026-06-10
 * [Review] [Review on: Add containers for Staked Builder API](https://github.com/Consensys/teku/pull/10824#pullrequestreview-4481484319) - 2026-06-12
 * [Review] [Review on: Enable gossip blob sidecar ref-test](https://github.com/Consensys/teku/pull/10780#pullrequestreview-4473659749) - 2026-06-11
+* [Commit] [SingleBlockProviderFulu with soft and hard limit for sampled blocks (#10533)](https://github.com/Consensys/teku/commit/52c0484379389fb3cb29268c415f31aeeeea8a84) - 2026-06-16
+* [Commit] [Enable gossip blob sidecar ref-test (#10780)](https://github.com/Consensys/teku/commit/6f7786439cff004cdbfcad61d273532a34e33106) - 2026-06-15
 ## Q1 2026
 
 

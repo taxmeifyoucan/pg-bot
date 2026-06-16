@@ -301,6 +301,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(bal): optimize verify-only storage-read validation and prefetch](https://github.com/NethermindEth/nethermind/pull/11920) - 2026-06-06
 * [Review] [Review on: Optimize BN254 multi-pair pairing checks](https://github.com/NethermindEth/nethermind/pull/11916#pullrequestreview-4441822055) - 2026-06-06
 * [Commit] [Fix SSZ Accept negotiation to inspect every media range (#11856)](https://github.com/NethermindEth/nethermind/commit/b2a11d35b115390adc6bd07889e1c56180020003) - 2026-06-12
+* [Review] [Review on: fix(rpc): unsafe `ValueTask` synchronous wait during streaming](https://github.com/NethermindEth/nethermind/pull/12006#pullrequestreview-4500905175) - 2026-06-15
+* [Review] [Review on: Allow to omit TargetGasLimit](https://github.com/NethermindEth/nethermind/pull/12004#pullrequestreview-4501397442) - 2026-06-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08
@@ -312,6 +314,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Update EIP-8141: Tighten spec (#11521)](https://github.com/ethereum/EIPs/commit/131df0a65558113e5bc1cdcd79c29bb3d844a7e5) - 2026-04-14
 * [Review] [Review on: Update EIP-7773: SFI 8 EL Amsterdam EIPs](https://github.com/ethereum/EIPs/pull/11399#pullrequestreview-4259786032) - 2026-05-10
 * [Review] [Review on: Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540#pullrequestreview-4263898579) - 2026-05-11
+* [Review] [Review on: Add EIP: SETCODEFROM Code Reuse Instruction](https://github.com/ethereum/EIPs/pull/11800#pullrequestreview-4498996338) - 2026-06-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4081943781) - 2026-04-09
 

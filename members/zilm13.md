@@ -143,6 +143,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Disconnect bad inbound connections](https://github.com/Consensys/teku/pull/10830) - 2026-06-12
 * [Pull Request] [Penalize peers on hacky/bad inbound messages](https://github.com/Consensys/teku/pull/10829) - 2026-06-12
 * [Review] [Review on: Enable gossip blob sidecar ref-test](https://github.com/Consensys/teku/pull/10780#pullrequestreview-4484131245) - 2026-06-12
+* [Review] [Review on: Alternative gloas sync fix](https://github.com/Consensys/teku/pull/10825#pullrequestreview-4497245526) - 2026-06-15
+* [Review] [Review on: Enable gossip blob sidecar ref-test](https://github.com/Consensys/teku/pull/10780#pullrequestreview-4497262244) - 2026-06-15
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23
