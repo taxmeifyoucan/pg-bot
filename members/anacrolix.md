@@ -29,6 +29,9 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Pull Request] [node/components/downloader: always register torrent client status on default mux](https://github.com/erigontech/erigon/pull/21821) - 2026-06-15
 * [Pull Request] [[r3.5] node/components/downloader: always register torrent client status on default mux](https://github.com/erigontech/erigon/pull/21822) - 2026-06-15
 * [Commit] [node/components/downloader: always register torrent client status on default mux (#21821)](https://github.com/erigontech/erigon/commit/0f5fedb5ceaa7d2b83ef25a151e52479dc5a8971) - 2026-06-15
+* [Pull Request] [db/downloader: size torrent pieces dynamically to bound info RAM](https://github.com/erigontech/erigon/pull/21838) - 2026-06-16
+* [Pull Request] [go.mod: bump anacrolix/torrent to halve per-piece memory](https://github.com/erigontech/erigon/pull/21837) - 2026-06-16
+* [Commit] [go.mod: bump anacrolix/torrent to halve per-piece memory (#21837)](https://github.com/erigontech/erigon/commit/31f24df9a3ebbe8ab7e8761b40319a27aaeac9e5) - 2026-06-16
 ## Q1 2026
 
 

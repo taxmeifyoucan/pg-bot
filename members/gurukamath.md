@@ -50,6 +50,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Update EIP-2780: Add missing 7708 log costs](https://github.com/ethereum/EIPs/pull/11586#pullrequestreview-4226455949) - 2026-05-05
 * [Review] [Review on: Update EIP-2780: Align with 8037 and 8038](https://github.com/ethereum/EIPs/pull/11645#pullrequestreview-4270577559) - 2026-05-12
 * [Review] [Review on: Update EIP-2780: Rework as resource-based intrinsic transaction gas](https://github.com/ethereum/EIPs/pull/11645#pullrequestreview-4495779407) - 2026-06-15
+* [Review] [Review on: Update EIP-2780: Rework as resource-based intrinsic transaction gas](https://github.com/ethereum/EIPs/pull/11645#pullrequestreview-4505160535) - 2026-06-16
 ## Q1 2026
 
 

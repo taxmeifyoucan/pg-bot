@@ -78,6 +78,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Make FullBeatsEmpty fork-agnostic](https://github.com/OffchainLabs/prysm/pull/16958#pullrequestreview-4495952617) - 2026-06-15
 * [Pull Request] [Fix IsOptimisticForRoot validated checkpoint summary recovery](https://github.com/OffchainLabs/prysm/pull/16969) - 2026-06-15
 * [Issue] [Remove the paths that used lastValidated](https://github.com/OffchainLabs/prysm/issues/16974) - 2026-06-15
+* [Pull Request] [Fix DA wait to count non-custody data columns toward reconstruction threshold](https://github.com/OffchainLabs/prysm/pull/16983) - 2026-06-16
+* [Commit] [Fix IsOptimisticForRoot validated checkpoint summary recovery (#16969)](https://github.com/OffchainLabs/prysm/commit/5538f955a99500ab9c3efc94dd862d91c88cf498) - 2026-06-16
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

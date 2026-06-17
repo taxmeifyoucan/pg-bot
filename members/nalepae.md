@@ -105,6 +105,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: `FieldTrie`: Add `ProveField` that returns leaf and proof for given field index.](https://github.com/OffchainLabs/prysm/pull/16955#pullrequestreview-4486252057) - 2026-06-12
 * [Commit] [Add `--postpone-shutdown-for-proposals` flag. (#16895)](https://github.com/OffchainLabs/prysm/commit/a3d619bbce39f1bdd3c041bbd7036f6c749ccc1a) - 2026-06-12
 * [Review] [Review on: `FieldTrie`: Add `ProveField` that returns leaf and proof for given field index.](https://github.com/OffchainLabs/prysm/pull/16955#pullrequestreview-4491403375) - 2026-06-13
+* [Pull Request] [Update mock gen](https://github.com/OffchainLabs/prysm/pull/16985) - 2026-06-16
+* [Pull Request] [Bazel phase 1](https://github.com/OffchainLabs/prysm/pull/16986) - 2026-06-16
+* [Issue] [Remove Bazel](https://github.com/OffchainLabs/prysm/issues/16982) - 2026-06-16
+* [Commit] [Update mock gen (#16985)](https://github.com/OffchainLabs/prysm/commit/d8583dd03cff2131c87455b236915ac51f7e4e82) - 2026-06-16
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

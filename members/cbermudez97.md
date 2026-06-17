@@ -31,6 +31,7 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Review] [Review on: Fix EngineApiProxy rejecting its own blocks: forward EIP-7685 executionRequests in synthetic newPayload](https://github.com/NethermindEth/nethermind/pull/11960#pullrequestreview-4471192049) - 2026-06-10
 * [Pull Request] [feat(workflow): add support for Arbitrum networks and update L2 options](https://github.com/NethermindEth/nethermind/pull/11970) - 2026-06-11
 * [Review] [Review on: Update Directory.Build.props for 1.38.1](https://github.com/NethermindEth/nethermind/pull/11973#pullrequestreview-4479362775) - 2026-06-11
+* [Commit] [feat(workflow): add support for Arbitrum networks and update L2 options (#11970)](https://github.com/NethermindEth/nethermind/commit/3f1371cdd85c608c6260111bea4986c76e78eaa0) - 2026-06-17
 ## Q1 2026
 
 

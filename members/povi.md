@@ -71,6 +71,8 @@ Team: Grandine
 * [Pull Request] [Don't invalidate Gloas beacon block if execution payload envelope get…](https://github.com/grandinetech/grandine/pull/756) - 2026-06-15
 * [Review] [Review on: Publish Gloas data column sidecars only when self-building payload](https://github.com/grandinetech/grandine/pull/754#pullrequestreview-4495873381) - 2026-06-15
 * [Issue] [[Glamsterdam] Don't invalidate beacon block if execution payload envelope gets invalidated](https://github.com/grandinetech/grandine/issues/755) - 2026-06-15
+* [Pull Request] [Pack attestations filtered by dependent root](https://github.com/grandinetech/grandine/pull/758) - 2026-06-16
+* [Commit] [Pack attestations filtered by dependent root](https://github.com/grandinetech/grandine/commit/63e7d20b3e4fedadebbbfed46b86d302c7805d02) - 2026-06-16
 ## Q1 2026
 
 

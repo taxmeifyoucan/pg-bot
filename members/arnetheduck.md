@@ -52,6 +52,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: add Rest-SSZ spec](https://github.com/ethereum/execution-apis/pull/793#pullrequestreview-4449493509) - 2026-06-08
+* [Review] [Review on: engine: add Rest-SSZ spec](https://github.com/ethereum/execution-apis/pull/793#pullrequestreview-4504346280) - 2026-06-16
 ## Q1 2026
 
 

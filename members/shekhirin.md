@@ -156,6 +156,7 @@ Team: Reth
 * [Review] [Review on: perf: parallelize `write_storage_history`](https://github.com/paradigmxyz/reth/pull/25282#pullrequestreview-4499357836) - 2026-06-15
 * [Review] [Review on: fix: include repo in scheduled bench Slack summary](https://github.com/paradigmxyz/reth/pull/25272#pullrequestreview-4497072653) - 2026-06-15
 * [Pull Request] [perf(trie): worker fixes](https://github.com/paradigmxyz/reth/pull/25267) - 2026-06-15
+* [Review] [Review on: ci: remove Derek bench user allowlist](https://github.com/paradigmxyz/reth/pull/25327#pullrequestreview-4507853637) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

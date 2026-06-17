@@ -163,6 +163,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [chore(release): v0.1.2-rc.8 (#401)](https://github.com/ChainSafe/lodestar-z/commit/06f91c26dc7b6b3d00ad35726812f6770787ea07) - 2026-06-12
 * [Commit] [feat(bindings): aggregate cached public keys by validator index (#397)](https://github.com/ChainSafe/lodestar-z/commit/2f90603c1bd67abeeeae442991906b656ba7718e) - 2026-06-12
 * [Commit] [feat(bls): add small MSM for npoints < 32 (#393)](https://github.com/ChainSafe/lodestar-z/commit/b430638132545c9714c51146c41d3a4b0b3d19ac) - 2026-06-12
+* [Pull Request] [fix: various fixes around config](https://github.com/ChainSafe/lodestar-z/pull/433) - 2026-06-16
+* [Pull Request] [fix: no-op when syncPubkeys run on a pk cache with shrinking validator set](https://github.com/ChainSafe/lodestar-z/pull/432) - 2026-06-16
+* [Commit] [fix: no-op when syncPubkeys run on a pk cache with shrinking validator set (#432)](https://github.com/ChainSafe/lodestar-z/commit/ed05a9979518746466f3c197b828c91cd34edbe5) - 2026-06-16
+* [Commit] [refactor(bls): clean up bls (#398)](https://github.com/ChainSafe/lodestar-z/commit/e0f3b9baa8e43bc9234156e48cac9768b14ff7a3) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 
@@ -175,6 +179,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [chore: support dev lodestar-z workflow (#9371)](https://github.com/ChainSafe/lodestar/commit/6ef8199cfae3693f24596817a69b855036dfb7ba) - 2026-05-20
 * [Review] [Review on: chore: surface same-message BLS retry metrics on dashboard](https://github.com/ChainSafe/lodestar/pull/9407#pullrequestreview-4363646628) - 2026-05-26
 * [Review] [Review on: chore: fix references to light-client/prover repo](https://github.com/ChainSafe/lodestar/pull/9434#pullrequestreview-4398199814) - 2026-06-01
+* [Pull Request] [feat: integrate zig state transition](https://github.com/ChainSafe/lodestar/pull/9516) - 2026-06-16
 ## Q1 2026
 
 

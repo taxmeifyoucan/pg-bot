@@ -347,6 +347,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: catch StreamResetError in sendData noise bench](https://github.com/ChainSafe/lodestar/pull/9497#pullrequestreview-4491867260) - 2026-06-13
 * [Review] [Review on: chore(deps): bump the actions group with 2 updates](https://github.com/ChainSafe/lodestar/pull/9510#pullrequestreview-4499215218) - 2026-06-15
 * [Issue] [Builder pubkey to index cache](https://github.com/ChainSafe/lodestar/issues/9513) - 2026-06-15
+* [Review] [Review on: test: un-ignore churn related fields in gloas](https://github.com/ChainSafe/lodestar/pull/9514#pullrequestreview-4504353227) - 2026-06-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

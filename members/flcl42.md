@@ -218,6 +218,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: StateComposition: refuse to publish a partial-scan baseline](https://github.com/NethermindEth/nethermind/pull/11586#pullrequestreview-4496156944) - 2026-06-15
 * [Review] [Review on: perf: per-column write buffer caps in WriteBufferAdjuster](https://github.com/NethermindEth/nethermind/pull/10955#pullrequestreview-4496055750) - 2026-06-15
 * [Review] [Review on: Add background scheduler stats](https://github.com/NethermindEth/nethermind/pull/9956#pullrequestreview-4496043580) - 2026-06-15
+* [Review] [Review on: feat(zkevm): Implement error handling](https://github.com/NethermindEth/nethermind/pull/12010#pullrequestreview-4508697881) - 2026-06-16
+* [Review] [Review on: perf: per-column write buffer caps in WriteBufferAdjuster](https://github.com/NethermindEth/nethermind/pull/10955#pullrequestreview-4504961080) - 2026-06-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

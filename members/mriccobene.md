@@ -50,6 +50,7 @@ Team: Erigon
 * [Review] [Review on: [r3.5] execution/stagedsync: preserve real error through ErrExecAbortError wrap](https://github.com/erigontech/erigon/pull/21727#pullrequestreview-4468066198) - 2026-06-10
 * [Issue] [Gas mismatch issue on Gnosis](https://github.com/erigontech/erigon/issues/21718) - 2026-06-10
 * [Issue] [Invalid block on Gnosis](https://github.com/erigontech/erigon/issues/21719) - 2026-06-10
+* [Pull Request] [qa-tests: rpc perf comparison user choice](https://github.com/erigontech/erigon/pull/21855) - 2026-06-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10

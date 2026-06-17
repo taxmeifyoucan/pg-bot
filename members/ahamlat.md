@@ -65,6 +65,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Optmize memory usage of the bal parallel execution ](https://github.com/besu-eth/besu/pull/10606#pullrequestreview-4460672641) - 2026-06-09
 * [Review] [Review on: Optmize memory usage of the bal parallel execution ](https://github.com/besu-eth/besu/pull/10606#pullrequestreview-4465379619) - 2026-06-10
 * [Review] [Review on: remove bal size check between transaction](https://github.com/besu-eth/besu/pull/10621#pullrequestreview-4475645812) - 2026-06-11
+* [Pull Request] [bal-devnet-7 - Use a new threading model for block processing](https://github.com/besu-eth/besu/pull/10655) - 2026-06-16
+* [Review] [Review on: Bal devnet 7 bal refactoring](https://github.com/besu-eth/besu/pull/10654#pullrequestreview-4504591659) - 2026-06-16
+* [Review] [Review on: auto detection for max open files](https://github.com/besu-eth/besu/pull/10629#pullrequestreview-4504635177) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

@@ -322,6 +322,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: txnprovider/shutter: wait for chain head before loading submissions on init](https://github.com/erigontech/erigon/pull/21816#pullrequestreview-4502480668) - 2026-06-16
 * [Pull Request] [ci: warm lint caches on main + skip golangci-lint cache save in merge queue](https://github.com/erigontech/erigon/pull/21807) - 2026-06-15
 * [Commit] [ci: warm lint caches on main + skip golangci-lint cache save in merge queue (#21807)](https://github.com/erigontech/erigon/commit/8e08e28ceed44894b950ca9a8c2e35b487531a33) - 2026-06-15
+* [Review] [Review on: [WIP] execution/vm: refund new-account state gas on pre-existing contract creation under EIP-8037](https://github.com/erigontech/erigon/pull/21850#pullrequestreview-4506315233) - 2026-06-16
+* [Review] [Review on: execution: update eest devnet fixtures to tests-bal@v7.3.2](https://github.com/erigontech/erigon/pull/21751#pullrequestreview-4505290311) - 2026-06-16
+* [Pull Request] [execution: fix invalid BAL in block building for same-block credit + CREATE2-onto-funded address](https://github.com/erigontech/erigon/pull/21846) - 2026-06-16
+* [Review] [Review on: go.mod: bump anacrolix/torrent to halve per-piece memory](https://github.com/erigontech/erigon/pull/21837#pullrequestreview-4504899467) - 2026-06-16
+* [Issue] [EIP-7928: block builder records spurious balance->0 in BAL for same-block credit + CREATE2-onto-funded address (invalid blocks)](https://github.com/erigontech/erigon/issues/21836) - 2026-06-16
+* [Commit] [execution: update eest devnet fixtures to tests-bal@v7.3.2 (#21751)](https://github.com/erigontech/erigon/commit/37312c71745d70b6142d28ea05f408fd5ba2b617) - 2026-06-16
+* [Commit] [execution: fix invalid BAL in block building for same-block credit + CREATE2-onto-funded address (#21846)](https://github.com/erigontech/erigon/commit/a4db2932d83876d47fdcc470d97c7df87e749807) - 2026-06-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

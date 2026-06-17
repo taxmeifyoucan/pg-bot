@@ -194,6 +194,10 @@ Team: Erigon
 * [Review] [Review on: [r3.5] node/components/downloader: always register torrent client status on default mux](https://github.com/erigontech/erigon/pull/21822#pullrequestreview-4498191164) - 2026-06-15
 * [Review] [Review on: execution/commitment: streaming commitment trie (--experimental.streaming-commitment)](https://github.com/erigontech/erigon/pull/21709#pullrequestreview-4498236560) - 2026-06-15
 * [Pull Request] [cmd/evm: clarify why zkevm witness_validation fixtures are skipped](https://github.com/erigontech/erigon/pull/21815) - 2026-06-15
+* [Pull Request] [execution/commitment: include exclusion proofs for absent storage slots in execution witness](https://github.com/erigontech/erigon/pull/21854) - 2026-06-16
+* [Pull Request] [cmd: accept N+ syntax in seg rm-state --step flag](https://github.com/erigontech/erigon/pull/21853) - 2026-06-16
+* [Review] [Review on: cmd: accept N+ syntax in seg rm-state --step flag](https://github.com/erigontech/erigon/pull/21853#pullrequestreview-4507986841) - 2026-06-16
+* [Commit] [cmd/evm: clarify why zkevm witness_validation fixtures are skipped (#21815)](https://github.com/erigontech/erigon/commit/ef13cb53802d316c2c33c09e23fe2a0cf4dd4e5e) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

@@ -227,6 +227,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Use parent slot for builder pending deposit in Gloas](https://github.com/ethereum/consensus-specs/pull/5299) - 2026-05-27
 * [Issue] [Proposer builds an orphaned block due to conflict between get_head() and should_build_on_full()](https://github.com/ethereum/consensus-specs/issues/5307) - 2026-05-28
 * [Review] [Review on: Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309#pullrequestreview-4401926933) - 2026-06-01
+* [Review] [Review on: Add builder execution requests (EIP-8282)](https://github.com/ethereum/consensus-specs/pull/5359#pullrequestreview-4505361218) - 2026-06-16
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: support multi-threaded RefCount](https://github.com/ChainSafe/lodestar-z/pull/62) - 2026-04-17
 * [Commit] [fix: support multi-threaded RefCount (#62)](https://github.com/ChainSafe/lodestar-z/commit/28edb161478f2e45a00f0418624e97028ad38b3b) - 2026-04-17

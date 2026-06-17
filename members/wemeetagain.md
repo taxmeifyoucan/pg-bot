@@ -48,6 +48,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor(bindings): wake only required number of workers](https://github.com/ChainSafe/lodestar-z/pull/383#pullrequestreview-4384336041) - 2026-05-28
 * [Review] [Review on: refactor(bindings): wake only required number of workers](https://github.com/ChainSafe/lodestar-z/pull/383#pullrequestreview-4392647153) - 2026-05-29
 * [Review] [Review on: feat: getSyncCommitteesWitness](https://github.com/ChainSafe/lodestar-z/pull/367#pullrequestreview-4419484998) - 2026-06-03
+* [Review] [Review on: fix(pmt,ssz): harden chunked-leaf and zero-copy tree-view memory safety](https://github.com/ChainSafe/lodestar-z/pull/400#pullrequestreview-4506479499) - 2026-06-16
+* [Review] [Review on: fix: no-op when syncPubkeys run on a pk cache with shrinking validator set](https://github.com/ChainSafe/lodestar-z/pull/432#pullrequestreview-4506290074) - 2026-06-16
+* [Review] [Review on: chore: update gloas types to align with the latest specs](https://github.com/ChainSafe/lodestar-z/pull/431#pullrequestreview-4503889008) - 2026-06-16
+* [Review] [Review on: refactor(bls): clean up bls](https://github.com/ChainSafe/lodestar-z/pull/398#pullrequestreview-4503886006) - 2026-06-16
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07

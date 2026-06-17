@@ -33,6 +33,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Implemented proper cleanup for CVec<T> items](https://github.com/grandinetech/grandine/commit/5cf4db0eaffbf481332fd2ac67c470c49686cdff) - 2026-05-28
 * [Commit] [Proper cleanup for method arguments in C bindings](https://github.com/grandinetech/grandine/commit/927eb78307f3585e6374b1db9842679c893ee626) - 2026-05-28
 * [Pull Request] [Implemented engine_getPayloadV6 for C# plugin](https://github.com/grandinetech/grandine/pull/740) - 2026-06-08
+* [Pull Request] [Fixed nethermind 1.38 build](https://github.com/grandinetech/grandine/pull/757) - 2026-06-16
+* [Commit] [Fixed nethermind 1.38 build](https://github.com/grandinetech/grandine/commit/e26fba8782f357bc07465eccd96de3de0ffec604) - 2026-06-16
 [grandinetech/rust-kzg](https://github.com/grandinetech/rust-kzg)
 * [Pull Request] [Add new MSM algorithms](https://github.com/grandinetech/rust-kzg/pull/327) - 2026-05-12
 * [Commit] [Add new MSM algorithms](https://github.com/grandinetech/rust-kzg/commit/e0260b236eb451311adc4fb55b4b3c9779900cf3) - 2026-05-12

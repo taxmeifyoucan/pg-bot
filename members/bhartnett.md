@@ -80,6 +80,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Don't load code for delegation when the address is a precompile (#4299)](https://github.com/status-im/nimbus-eth1/commit/34ad78a6cee7c5bbc606a87c05492bd6bf15da0a) - 2026-06-11
 * [Pull Request] [Validate block access list code changes](https://github.com/status-im/nimbus-eth1/pull/4326) - 2026-06-12
 * [Commit] [Validate block access list code changes (#4326)](https://github.com/status-im/nimbus-eth1/commit/e8389e6afc79c3c756b50ccb1ce075d5a90436ec) - 2026-06-12
+* [Pull Request] [Remove GC types from BAL builder](https://github.com/status-im/nimbus-eth1/pull/4329) - 2026-06-16
 ## Q1 2026
 
 

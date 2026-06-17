@@ -25,6 +25,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(clickhouse)!: database-agnostic per-schema migration sets](https://github.com/ethpandaops/xatu/pull/847) - 2026-06-16
 * [Commit] [Merge pull request #847 from ethpandaops/feat/clickhouse-db-agnostic-migrations](https://github.com/ethpandaops/xatu/commit/e738bb965aaf177928a3b41af92abca02e1b8254) - 2026-06-16
 * [Commit] [feat(clickhouse)!: split migrations into database-agnostic per-schema sets](https://github.com/ethpandaops/xatu/commit/3984f4c171bc1ec6c9839f43e3d4a12f89ae6392) - 2026-06-16
+* [Review] [Review on: fix(libp2p): restore libp2p_join/leave by keying on local_peer_id](https://github.com/ethpandaops/xatu/pull/848#pullrequestreview-4511772524) - 2026-06-17
+* [Pull Request] [ci(clickhouse): lint migrations for database-agnosticism + syntax](https://github.com/ethpandaops/xatu/pull/849) - 2026-06-17
+* [Commit] [Merge pull request #849 from ethpandaops/ci/clickhouse-migrations-lint](https://github.com/ethpandaops/xatu/commit/cd4b8b9da2cb3f2dd30b96330146f6a544d54712) - 2026-06-17
+* [Commit] [ci(clickhouse): lint migrations for database-agnosticism + syntax](https://github.com/ethpandaops/xatu/commit/5f01974891dd0a50603cbeed6d6760bd8184028a) - 2026-06-17
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(validators): move report tool to validators index](https://github.com/ethpandaops/lab/pull/435) - 2026-05-27
 * [Commit] [feat(validators): move report tool to validators index (#435)](https://github.com/ethpandaops/lab/commit/337e3345e73c74865d318be214b2169c471a3f72) - 2026-05-27

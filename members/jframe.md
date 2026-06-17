@@ -63,6 +63,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Fix chain height](https://github.com/besu-eth/besu/pull/10608#pullrequestreview-4464252415) - 2026-06-10
 * [Review] [Review on: changelog rotation for 26.6.1](https://github.com/besu-eth/besu/pull/10637#pullrequestreview-4481603446) - 2026-06-12
 * [Review] [Review on: upgrade license report plugin](https://github.com/besu-eth/besu/pull/10650#pullrequestreview-4502617418) - 2026-06-16
+* [Review] [Review on: feat(pow-removal): Phase 1 - remove PoW mining infrastructure](https://github.com/besu-eth/besu/pull/10656#pullrequestreview-4511589903) - 2026-06-17
 ## Q1 2026
 
 

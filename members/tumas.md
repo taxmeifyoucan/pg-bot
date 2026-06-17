@@ -38,6 +38,7 @@ Team: Grandine
 * [Issue] [Reintroduce networking spec tests](https://github.com/grandinetech/grandine/issues/720) - 2026-06-01
 * [Review] [Review on: Pack attestations filtered by dependent root](https://github.com/grandinetech/grandine/pull/736#pullrequestreview-4437489302) - 2026-06-05
 * [Review] [Review on: Fix Gloas attestation balance apply issue](https://github.com/grandinetech/grandine/pull/747#pullrequestreview-4467287266) - 2026-06-10
+* [Review] [Review on: Pack attestations filtered by dependent root](https://github.com/grandinetech/grandine/pull/758#pullrequestreview-4507494998) - 2026-06-16
 ## Q1 2026
 
 

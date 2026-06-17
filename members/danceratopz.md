@@ -133,6 +133,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests, spec-specs): raise EIP-7954 max code size to 64KiB](https://github.com/ethereum/execution-specs/pull/2987#pullrequestreview-4500988037) - 2026-06-15
 * [Commit] [feat(ci,docs): deploy default branch docs at /docs/execution-specs/ (#2973)](https://github.com/ethereum/execution-specs/commit/0a4030b0892466fb4f1611cc97f2e58e01c29e67) - 2026-06-15
 * [Commit] [fix(tooling): include namespace packages in coverage reports (#2982)](https://github.com/ethereum/execution-specs/commit/94f7d12c6039b98465eb2de36d10ca2783742c53) - 2026-06-15
+* [Pull Request] [feat(tests): add EIP-7954 jumpdest test past the old code-size limit](https://github.com/ethereum/execution-specs/pull/2993) - 2026-06-16
+* [Review] [Review on: fix(ci,tooling): include json-loader in coverage reports](https://github.com/ethereum/execution-specs/pull/2975#pullrequestreview-4506318874) - 2026-06-16
+* [Pull Request] [feat(test-forks): enable filling for TangerineWhistle and SpuriousDragon](https://github.com/ethereum/execution-specs/pull/2992) - 2026-06-16
+* [Review] [Review on: feat(tests, spec-specs): raise EIP-7954 max code size to 64KiB](https://github.com/ethereum/execution-specs/pull/2987#pullrequestreview-4507922685) - 2026-06-16
+* [Commit] [chore(ci): rebalance fill fork ranges for the enabled forks](https://github.com/ethereum/execution-specs/commit/b314d18ec625660398343494f290df16a5fc315a) - 2026-06-16
+* [Commit] [feat(test-forks): enable filling for TangerineWhistle and SpuriousDragon](https://github.com/ethereum/execution-specs/commit/afbb3258fc25b44dc98174121997fb249e22e1d1) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 

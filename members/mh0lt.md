@@ -252,6 +252,8 @@ Team: Erigon
 * [Review] [Review on: execution/stagedsync: recover CodePath alongside CodeHashPath in parallel normalizeWriteSet](https://github.com/erigontech/erigon/pull/21706#pullrequestreview-4488309790) - 2026-06-12
 * [Review] [Review on: execution/stagedsync: recover CodePath alongside CodeHashPath in parallel normalizeWriteSet](https://github.com/erigontech/erigon/pull/21706#pullrequestreview-4491505138) - 2026-06-13
 * [Commit] [.claude: anchor the comment policy as a rule + advisory write-time hook (#21775)](https://github.com/erigontech/erigon/commit/db998ff9492c7b13314eae9b6511982e5ece850f) - 2026-06-13
+* [Pull Request] [cl/validator/devvalidator: fix dev-mode validator drain that halts the chain (Electra attestation gap + divide-by-zero guard)](https://github.com/erigontech/erigon/pull/21851) - 2026-06-16
+* [Commit] [State Cache Consolidation (PR #1 of the perf stack) (#21380)](https://github.com/erigontech/erigon/commit/193d04ae2e617a61fabb725d12154eef2f364111) - 2026-06-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

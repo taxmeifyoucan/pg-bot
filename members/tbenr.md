@@ -167,6 +167,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [never fallback to base in resolveVoteNode (#10827)](https://github.com/Consensys/teku/commit/f765b5cd8d863fdc57def42693b8d00a75cb370a) - 2026-06-12
 * [Review] [Review on: Forkchoice on attestation tests](https://github.com/Consensys/teku/pull/10823#pullrequestreview-4499178309) - 2026-06-15
 * [Issue] [QUIC exception when quic is not enabled](https://github.com/Consensys/teku/issues/10834) - 2026-06-15
+* [Review] [Review on: Forkchoice on attestation tests](https://github.com/Consensys/teku/pull/10823#pullrequestreview-4509769081) - 2026-06-16
+* [Pull Request] [Avoid sublist allocation in TreeUtil.createTree](https://github.com/Consensys/teku/pull/10839) - 2026-06-16
+* [Review] [Review on: Disconnect bad inbound connections](https://github.com/Consensys/teku/pull/10830#pullrequestreview-4506973381) - 2026-06-16
+* [Review] [Review on: Update besu version and besu version on ATs](https://github.com/Consensys/teku/pull/10836#pullrequestreview-4505850172) - 2026-06-16
+* [Issue] [Only clear builder payment if the slashed validator is the proposer](https://github.com/Consensys/teku/issues/10840) - 2026-06-16
+* [Commit] [avoid sublist allocation in TreeUtil.createTree (#10839)](https://github.com/Consensys/teku/commit/373abcc36ceed03438c0d20cdc767ea38952c6bf) - 2026-06-16
+* [Commit] [Alternative gloas sync fix (#10825)](https://github.com/Consensys/teku/commit/e23ed82294a105db0ea48871049d17eee4867fb4) - 2026-06-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

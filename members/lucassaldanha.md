@@ -92,6 +92,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Upgrade jvm-libp2p to 1.3.2](https://github.com/Consensys/teku/pull/10817#pullrequestreview-4466854497) - 2026-06-10
 * [Commit] [Add experimental QUIC transport support (#10805)](https://github.com/Consensys/teku/commit/44baab9e39f912f0d6c47423e1fdfb1b941ab9de) - 2026-06-11
 * [Review] [Review on: updated changelog post 26.6 release](https://github.com/Consensys/teku/pull/10833#pullrequestreview-4494545710) - 2026-06-15
+* [Review] [Review on: add extra check to avoid problematic versions update](https://github.com/Consensys/teku/pull/10837#pullrequestreview-4511188207) - 2026-06-16
+* [Review] [Review on: Implement the Gloas validator payload attestation data endpoint plumbing](https://github.com/Consensys/teku/pull/10778#pullrequestreview-4510847924) - 2026-06-16
+* [Pull Request] [Add jdk.management module to Docker runtime for process_cpu_seconds_total](https://github.com/Consensys/teku/pull/10841) - 2026-06-16
+* [Review] [Review on: downgraded snappy again](https://github.com/Consensys/teku/pull/10835#pullrequestreview-4503089595) - 2026-06-16
+* [Commit] [Add jdk.management module to Docker runtime for process_cpu_seconds_total (#10841)](https://github.com/Consensys/teku/commit/48e7adc278030eafea92bec2e735351824ad4fd6) - 2026-06-16
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
@@ -154,6 +159,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [fix(quic): dial from ephemeral port instead of reusing listener port](https://github.com/libp2p/jvm-libp2p/commit/976fbb040717c3402bc424cd21735720025a1955) - 2026-06-10
 * [Pull Request] [fix(noise): stop NoiseXXCodec swallowing fatal errors](https://github.com/libp2p/jvm-libp2p/pull/490) - 2026-06-14
 * [Pull Request] [Fix quic close write logic](https://github.com/libp2p/jvm-libp2p/pull/489) - 2026-06-14
+* [Commit] [Merge branch 'fix/tls-quic-remote-pubkey' into develop](https://github.com/libp2p/jvm-libp2p/commit/5b2375237151f49196f9de53e6a0715fb807f21f) - 2026-06-17
+* [Commit] [Merge pull request #490 from lucassaldanha/fix/xxnoise-oom](https://github.com/libp2p/jvm-libp2p/commit/138fe9eb05fea36e6b5669b9d283f9710aab7ca7) - 2026-06-16
+* [Commit] [Merge branch 'develop' into fix/xxnoise-oom](https://github.com/libp2p/jvm-libp2p/commit/40beea9241af841f8c95e7cee37cf95850aefa04) - 2026-06-16
+* [Commit] [Merge pull request #489 from lucassaldanha/fix-quic-close-write](https://github.com/libp2p/jvm-libp2p/commit/2ec3aa6639f1977d6b89f9cb766ef49a5463b321) - 2026-06-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

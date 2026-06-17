@@ -130,6 +130,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Update Renovatebot GHA Updates to 3f131e8](https://github.com/Consensys/teku/pull/10831#pullrequestreview-4493578462) - 2026-06-14
 * [Pull Request] [updated changelog post 26.6 release](https://github.com/Consensys/teku/pull/10833) - 2026-06-15
 * [Commit] [updated changelog post 26.6 release (#10833)](https://github.com/Consensys/teku/commit/d0c1237898765afb8d41db429701ddd84915e60b) - 2026-06-15
+* [Pull Request] [Improve dependency update checks](https://github.com/Consensys/teku/pull/10842) - 2026-06-17
+* [Review] [Review on: Add jdk.management module to Docker runtime for process_cpu_seconds_total](https://github.com/Consensys/teku/pull/10841#pullrequestreview-4511134913) - 2026-06-16
+* [Pull Request] [downgraded snappy again](https://github.com/Consensys/teku/pull/10835) - 2026-06-16
+* [Commit] [Improve dependency update checks (#10842)](https://github.com/Consensys/teku/commit/f1354ca434ee3a8cd63316132b64dbcd1dafa27c) - 2026-06-17
+* [Commit] [downgraded snappy again (#10835)](https://github.com/Consensys/teku/commit/afdd79c6ae2ee2959848de5a7b8097ee45d7c873) - 2026-06-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 
@@ -140,6 +145,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 
 * [Pull Request] [Close cancelled network dials](https://github.com/libp2p/jvm-libp2p/pull/481) - 2026-05-21
 * [Commit] [Close cancelled network dials (#481)](https://github.com/libp2p/jvm-libp2p/commit/e4e4305db2468415fb4a03168c2ca63faa74bf55) - 2026-05-29
+* [Review] [Review on: fix(quic): close leaked dial datagram channels; harden NoiseXXCodec OOM handling](https://github.com/libp2p/jvm-libp2p/pull/490#pullrequestreview-4510900075) - 2026-06-16
+* [Review] [Review on: Fix quic close write logic](https://github.com/libp2p/jvm-libp2p/pull/489#pullrequestreview-4510862992) - 2026-06-16
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/224) - 2026-05-11
 * [Commit] [Downgrade routine peer-interaction logs from DEBUG to TRACE (#224)](https://github.com/Consensys/discovery/commit/9b9119956dac602cd21dd332f2d2415923d74c22) - 2026-05-11

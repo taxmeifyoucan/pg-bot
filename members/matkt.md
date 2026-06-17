@@ -126,6 +126,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [remove not trusted root computation (#10622)](https://github.com/besu-eth/besu/commit/e28d8d155a911170a8f6f4af9a236be87ab942bf) - 2026-06-11
 * [Commit] [remove bal size check between transaction (#10621)](https://github.com/besu-eth/besu/commit/acabbc20158540692d23e72b753df3d6e9caadb1) - 2026-06-11
 * [Pull Request] [pathbased package refactoring](https://github.com/besu-eth/besu/pull/10641) - 2026-06-12
+* [Review] [Review on: snap/2 - downloaded storage range tracker](https://github.com/besu-eth/besu/pull/10609#pullrequestreview-4504926112) - 2026-06-16
+* [Pull Request] [Bal devnet 7 bal refactoring](https://github.com/besu-eth/besu/pull/10654) - 2026-06-16
+* [Review] [Review on: auto detection for max open files](https://github.com/besu-eth/besu/pull/10629#pullrequestreview-4503609506) - 2026-06-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

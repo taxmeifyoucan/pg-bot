@@ -117,6 +117,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Ensure bids are for a higher slot than their parent](https://github.com/status-im/nimbus-eth2/pull/8591) - 2026-06-11
 * [Pull Request] [Persist all chain DAG heads in database](https://github.com/status-im/nimbus-eth2/pull/8590) - 2026-06-11
 * [Review] [Review on: Ensure bids are for a higher slot than their parent](https://github.com/status-im/nimbus-eth2/pull/8591#pullrequestreview-4485239025) - 2026-06-12
+* [Pull Request] [Ensure verification conditions for bid are satisfied as proposer](https://github.com/status-im/nimbus-eth2/pull/8606) - 2026-06-16
+* [Pull Request] [Reject bids with invalid prev_randao during gossip validation](https://github.com/status-im/nimbus-eth2/pull/8609) - 2026-06-16
+* [Pull Request] [Prune execution payload bid pool](https://github.com/status-im/nimbus-eth2/pull/8610) - 2026-06-16
+* [Pull Request] [Skip loading block to get randao mix when a state is available](https://github.com/status-im/nimbus-eth2/pull/8608) - 2026-06-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 
@@ -147,6 +151,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Reject bids with invalid `prev_randao` during gossip validation](https://github.com/ethereum/consensus-specs/pull/5360) - 2026-06-12
 * [Pull Request] [Pass only signed bid to process_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5364) - 2026-06-15
 * [Review] [Review on: Reject bids with invalid `prev_randao` during gossip validation](https://github.com/ethereum/consensus-specs/pull/5360#pullrequestreview-4495440065) - 2026-06-15
+* [Review] [Review on: Pass only signed bid to `process_execution_payload_bid`](https://github.com/ethereum/consensus-specs/pull/5364#pullrequestreview-4503626491) - 2026-06-16
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13

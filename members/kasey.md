@@ -29,8 +29,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Review] [Review on: builder pending withdrawals progressive ssz](https://github.com/OffchainLabs/prysm/pull/16887#pullrequestreview-4460015741) - 2026-06-09
 * [Review] [Review on: progressive withdrawal root and light client changes](https://github.com/OffchainLabs/prysm/pull/16885#pullrequestreview-4459778355) - 2026-06-09
 * [Review] [Review on: add ssz functions for progressive merkliezation](https://github.com/OffchainLabs/prysm/pull/16847#pullrequestreview-4459485004) - 2026-06-09
+* [Review] [Review on: Scaffold agent instructions: Add `AGENTS.md` and Prysm skills](https://github.com/OffchainLabs/prysm/pull/16898#pullrequestreview-4507932030) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486) - 2026-04-09
+
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Pull Request] [update prysm team template to current members](https://github.com/ethpandaops/template-devnets/pull/176) - 2026-06-16
+* [Commit] [update prysm team template to current members (#176)](https://github.com/ethpandaops/template-devnets/commit/209affa03aff95f7ca4794df135844138c6e512f) - 2026-06-16
 ## Q1 2026
 
 

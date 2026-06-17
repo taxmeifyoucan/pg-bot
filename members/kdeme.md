@@ -99,6 +99,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [portal bridge: add multi-network support](https://github.com/status-im/nimbus-eth1/pull/4316) - 2026-06-09
 * [Commit] [portal bridge: add multi-network support (#4316)](https://github.com/status-im/nimbus-eth1/commit/5cdc1de9fe83e1fb0fcf6aaf7085097a0bb737c2) - 2026-06-09
 * [Commit] [Add ere import support while keeping era1/era as fallback option (#4301)](https://github.com/status-im/nimbus-eth1/commit/f2f813aa886754b13ba8bbcd48eb6e0ae6cc20b8) - 2026-06-09
+* [Pull Request] [fix stateless execution for proofs at extension boundaries](https://github.com/status-im/nimbus-eth1/pull/4333) - 2026-06-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

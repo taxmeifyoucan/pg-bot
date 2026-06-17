@@ -335,6 +335,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: expose watchtower HTTP API for gated rollouts](https://github.com/ethpandaops/template-devnets/pull/171) - 2026-05-29
 * [Review] [Review on: update run.zsh with `sync_mapping` subcommand](https://github.com/ethpandaops/template-devnets/pull/174#pullrequestreview-4477250271) - 2026-06-11
 * [Review] [Review on: add support for multiple buildoor instances](https://github.com/ethpandaops/template-devnets/pull/175#pullrequestreview-4485790594) - 2026-06-12
+* [Review] [Review on: update prysm team template to current members](https://github.com/ethpandaops/template-devnets/pull/176#pullrequestreview-4507691116) - 2026-06-16
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: set empty BlockAccessListHash on Amsterdam genesis](https://github.com/ethereum/go-ethereum/pull/34774) - 2026-04-20
 * [Pull Request] [core/txpool: report actual 110% threshold in intrinsic gas error](https://github.com/ethereum/go-ethereum/pull/34782) - 2026-04-21

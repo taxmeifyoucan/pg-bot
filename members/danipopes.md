@@ -423,6 +423,7 @@ Team: Reth
 * [Commit] [feat: integrate revmc JIT (#23230)](https://github.com/paradigmxyz/reth/commit/e891a6b8cafada7b302860fd98c9fe6bace8375a) - 2026-06-11
 * [Review] [Review on: feat: make JIT opt-in for library crates](https://github.com/paradigmxyz/reth/pull/25178#pullrequestreview-4486243590) - 2026-06-12
 * [Review] [Review on: chore: bump opentelemetry dependencies](https://github.com/paradigmxyz/reth/pull/25215#pullrequestreview-4491664206) - 2026-06-13
+* [Review] [Review on: ci: tolerate missing llvm helper in bench workflows](https://github.com/paradigmxyz/reth/pull/25337#pullrequestreview-4509478137) - 2026-06-16
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

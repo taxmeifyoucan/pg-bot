@@ -110,6 +110,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [refactor(tests): generalize system-contract request test helpers (EIP-6110/7002/7251/7685)](https://github.com/ethereum/execution-specs/pull/2989) - 2026-06-15
 * [Issue] [EIP-8282 Implementation Tracker: Builder Execution Requests](https://github.com/ethereum/execution-specs/issues/2988) - 2026-06-15
 * [Commit] [feat(test-specs): Allow automatic transaction gas-limit (#2969)](https://github.com/ethereum/execution-specs/commit/ae18430131e62c22279100f1c64c1b854c6ec834) - 2026-06-15
+* [Pull Request] [refactor(test-forks): Introduce `minimum_block_gas_limit`](https://github.com/ethereum/execution-specs/pull/2994) - 2026-06-16
+* [Review] [Review on: feat(tests): add EIP-7954 jumpdest test past the old code-size limit](https://github.com/ethereum/execution-specs/pull/2993#pullrequestreview-4509923829) - 2026-06-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

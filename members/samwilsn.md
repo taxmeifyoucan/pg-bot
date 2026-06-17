@@ -32,6 +32,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Website: Add check to ensure that all EIPs are actually EIPs](https://github.com/ethereum/EIPs/pull/10909#pullrequestreview-4429771760) - 2026-06-04
 * [Pull Request] [fix template error](https://github.com/ethereum/EIPs/pull/11801) - 2026-06-12
 * [Commit] [fix template error (#11801)](https://github.com/ethereum/EIPs/commit/fea04241d0d13514c2baf67076eff63dd3549872) - 2026-06-12
+* [Review] [Review on: Update EIP-7979: Validation algorithm on blockchain, other editing.](https://github.com/ethereum/EIPs/pull/11744#pullrequestreview-4508340662) - 2026-06-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec): Abstract py-ecc implementation detail from EIP-2537](https://github.com/ethereum/execution-specs/pull/2384#pullrequestreview-4078371779) - 2026-04-08
 * [Pull Request] [chore(tooling,deps): update mypy to 1.20](https://github.com/ethereum/execution-specs/pull/2633) - 2026-04-08
@@ -105,6 +106,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(specs): refactor code deployment functions](https://github.com/ethereum/execution-specs/pull/2904#pullrequestreview-4499008591) - 2026-06-15
 * [Review] [Review on: fix(ci,tooling): include json-loader in coverage reports](https://github.com/ethereum/execution-specs/pull/2975#pullrequestreview-4499379826) - 2026-06-15
 * [Commit] [chore(specs): add type alias for fee market txs](https://github.com/ethereum/execution-specs/commit/54246cd940960f1366471e408f08310cf4b200bc) - 2026-06-15
+* [Commit] [chore(specs): refactor code deployment functions](https://github.com/ethereum/execution-specs/commit/45fb08e4925d39e26cdcd3f2c6eb63d57edea00e) - 2026-06-16
+* [Commit] [feat(tests): pick most strict valid_from mark when multiple appear](https://github.com/ethereum/execution-specs/commit/c8b2f08b369ec719bfb56ba078df759d1d8da5a2) - 2026-06-16
 ## Q1 2026
 
 

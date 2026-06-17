@@ -216,6 +216,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [use std/sequtils findIt where appropriate](https://github.com/status-im/nimbus-eth2/pull/8601) - 2026-06-13
 * [Pull Request] [unconditionally use EIP-7917-based proposer lookahead when projecting next proposal actions](https://github.com/status-im/nimbus-eth2/pull/8600) - 2026-06-13
 * [Pull Request] [rm not-useful Python requirements.txt](https://github.com/status-im/nimbus-eth2/pull/8603) - 2026-06-15
+* [Review] [Review on: Ensure verification conditions for bid are satisfied as proposer](https://github.com/status-im/nimbus-eth2/pull/8606#pullrequestreview-4507364408) - 2026-06-16
+* [Review] [Review on: Reject bids with invalid prev_randao during gossip validation](https://github.com/status-im/nimbus-eth2/pull/8609#pullrequestreview-4504520310) - 2026-06-16
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -245,6 +247,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [prohibit high signatures in all post-Homestead blocks (#4325)](https://github.com/status-im/nimbus-eth1/commit/040a9d7f473b34c7cfc8292e41411e625cbe7fb7) - 2026-06-12
 * [Review] [Review on: Use targetGasLimit of engine API PayloadAttributesV4](https://github.com/status-im/nimbus-eth1/pull/4258#pullrequestreview-4494992243) - 2026-06-15
 * [Commit] [version v0.3.1](https://github.com/status-im/nimbus-eth1/commit/47d76a76cc5f91797e8846306710b8c165d428ce) - 2026-06-15
+* [Pull Request] [fix FC (de)serialization crash related to multiple unfinalized heads](https://github.com/status-im/nimbus-eth1/pull/4334) - 2026-06-16
+* [Review] [Review on: flake: bump NBS flake lock entry](https://github.com/status-im/nimbus-eth1/pull/4332#pullrequestreview-4505511559) - 2026-06-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27

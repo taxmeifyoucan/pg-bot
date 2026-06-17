@@ -86,6 +86,7 @@ Team: Geth
 * [Review] [Review on: core: clean up parallel state processor](https://github.com/ethereum/go-ethereum/pull/35143#pullrequestreview-4470183105) - 2026-06-10
 * [Review] [Review on: log: clone terminal handler attrs](https://github.com/ethereum/go-ethereum/pull/35141#pullrequestreview-4470040623) - 2026-06-10
 * [Pull Request] [eth/downloader:  fetch BALs within the WSP and attach them to blocks](https://github.com/ethereum/go-ethereum/pull/35142) - 2026-06-10
+* [Pull Request] [all: implement optimized execution path for BALs](https://github.com/ethereum/go-ethereum/pull/35183) - 2026-06-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

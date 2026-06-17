@@ -789,6 +789,12 @@ Team: Erigon
 * [Review] [Review on: db/datastruct/btindex: interpolation search in BTree leaf](https://github.com/erigontech/erigon/pull/21813#pullrequestreview-4496446173) - 2026-06-15
 * [Pull Request] [seg: SamplingFactor>1 produced only 1 sample](https://github.com/erigontech/erigon/pull/21806) - 2026-06-15
 * [Commit] [seg: SamplingFactor>1 produced only 1 sample (#21806)](https://github.com/erigontech/erigon/commit/9c0d4997fd08dd5124499f571f9da340277c83c1) - 2026-06-15
+* [Pull Request] [polygon/sync: fix lost-wakeup race in EventChannel.waitForEvent](https://github.com/erigontech/erigon/pull/21827) - 2026-06-16
+* [Pull Request] [polygon/sync: fix lost-wakeup race in EventChannel.waitForEvent](https://github.com/erigontech/erigon/pull/21828) - 2026-06-16
+* [Commit] [polygon/sync: fix lost-wakeup race in EventChannel.waitForEvent (#21827)](https://github.com/erigontech/erigon/commit/78e767e21db493c54131075bc1b2d9ffafcb9dcb) - 2026-06-16
+* [Commit] [cl/sentinel: pass ctx through StartSentinelService → stickToPeers (#21786)](https://github.com/erigontech/erigon/commit/5efb6be936a232b360ee9b04d47723a4c85ad6c8) - 2026-06-16
+* [Commit] [db/datastruct/btindex: drop unused minDelta field from BtIndexWriter (#21834)](https://github.com/erigontech/erigon/commit/1c65092bddc0524d2118f4f0301f7921f65a8e6d) - 2026-06-16
+* [Commit] [[3.6] domain: existence filter to ShardedFuse (#21773)](https://github.com/erigontech/erigon/commit/422c617dfc463cd5d72ab67834f508761c003637) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

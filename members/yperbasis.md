@@ -713,6 +713,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/stagedsync: recover CodePath alongside CodeHashPath in parallel normalizeWriteSet](https://github.com/erigontech/erigon/pull/21706#pullrequestreview-4495636263) - 2026-06-15
 * [Commit] [txnprovider/shutter: wait for chain head before loading submissions on init (#21816)](https://github.com/erigontech/erigon/commit/0cd7b7f0232baf2ed67b6b842f0895cb38f36f34) - 2026-06-16
 * [Commit] [execution/execmodule: simplify FCU semaphore handoff (#21767)](https://github.com/erigontech/erigon/commit/3c00a4df6d40e84cd945220d3b5bae456406f801) - 2026-06-15
+* [Review] [Review on: execution/state: typed-vio refactor (L2 — typed AddressEntry + WriteCell[T] + sync.Pool)](https://github.com/erigontech/erigon/pull/21536#pullrequestreview-4505944337) - 2026-06-16
+* [Review] [Review on: cmd/rpctest: fix debug_accountRange bench encoding and start key size](https://github.com/erigontech/erigon/pull/21774#pullrequestreview-4504357294) - 2026-06-16
+* [Review] [Review on: polygon/sync: fix lost-wakeup race in EventChannel.waitForEvent](https://github.com/erigontech/erigon/pull/21827#pullrequestreview-4505253876) - 2026-06-16
+* [Review] [Review on: polygon/sync: fix lost-wakeup race in EventChannel.waitForEvent](https://github.com/erigontech/erigon/pull/21828#pullrequestreview-4505315407) - 2026-06-16
+* [Review] [Review on: execution: update eest devnet fixtures to tests-bal@v7.3.2](https://github.com/erigontech/erigon/pull/21751#pullrequestreview-4505166341) - 2026-06-16
+* [Review] [Review on: cmd/evm: clarify why zkevm witness_validation fixtures are skipped](https://github.com/erigontech/erigon/pull/21815#pullrequestreview-4505647158) - 2026-06-16
+* [Review] [Review on: execution: fix invalid BAL in block building for same-block credit + CREATE2-onto-funded address](https://github.com/erigontech/erigon/pull/21846#pullrequestreview-4505446980) - 2026-06-16
+* [Review] [Review on: build(deps): bump dompurify from 3.4.7 to 3.4.10 in /docs/site](https://github.com/erigontech/erigon/pull/21833#pullrequestreview-4505239280) - 2026-06-16
+* [Review] [Review on: build(deps): bump launch-editor from 2.13.2 to 2.14.1 in /docs/site](https://github.com/erigontech/erigon/pull/21832#pullrequestreview-4505205854) - 2026-06-16
+* [Review] [Review on: build(deps): bump ws from 7.5.10 to 7.5.11 in /docs/site](https://github.com/erigontech/erigon/pull/21831#pullrequestreview-4505166831) - 2026-06-16
+* [Review] [Review on: execution/stagedsync: prune overlay to committed boundary on no-op execution unwind](https://github.com/erigontech/erigon/pull/21847#pullrequestreview-4505752767) - 2026-06-16
+* [Review] [Review on: cl, sentinel: quiet data column sidecar misses](https://github.com/erigontech/erigon/pull/21686#pullrequestreview-4505499054) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

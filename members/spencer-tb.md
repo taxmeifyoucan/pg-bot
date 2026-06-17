@@ -117,6 +117,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tests): EIP-7928 expect InvalidParams when newPayload misses BAL (#2980)](https://github.com/ethereum/execution-specs/commit/fb4c370aaa1c1a6354e0731f96a4c6105a2a8948) - 2026-06-12
 * [Pull Request] [feat(tests, spec-specs): raise EIP-7954 max code size to 64KiB](https://github.com/ethereum/execution-specs/pull/2987) - 2026-06-15
 * [Review] [Review on: feat(tests): EIP-7928 cover many storage changes for one account](https://github.com/ethereum/execution-specs/pull/2985#pullrequestreview-4497414767) - 2026-06-15
+* [Review] [Review on: feat(test-forks): enable filling for TangerineWhistle and SpuriousDragon](https://github.com/ethereum/execution-specs/pull/2992#pullrequestreview-4507903344) - 2026-06-16
+* [Review] [Review on: ✨ feat(tests): Disallow empty change set for storage slot](https://github.com/ethereum/execution-specs/pull/2945#pullrequestreview-4505356634) - 2026-06-16
+* [Review] [Review on: bug(spec-specs, tests): EIP-8037 strict block-gas inclusion rule](https://github.com/ethereum/execution-specs/pull/2892#pullrequestreview-4505920714) - 2026-06-16
+* [Pull Request] [chore(spec-specs): delay `get_code` calls in CALL opcodes](https://github.com/ethereum/execution-specs/pull/2991) - 2026-06-16
+* [Commit] [feat(tests, spec-specs): raise EIP-7954 max code size to 64KiB (#2987)](https://github.com/ethereum/execution-specs/commit/e35d103be5007a0b98eb1a69af1c584a6e79d862) - 2026-06-16
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

@@ -116,6 +116,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Feature/benchmark fixes](https://github.com/NethermindEth/nethermind/pull/11910) - 2026-06-04
 * [Pull Request] [feat(evm): add pow2 zkVM memory allocation path](https://github.com/NethermindEth/nethermind/pull/11974) - 2026-06-12
 * [Commit] [feat(evm): add pow2 zkVM memory allocation path (#11974)](https://github.com/NethermindEth/nethermind/commit/b46e52050cfa92c57626df9a6792fede2294f02f) - 2026-06-12
+* [Review] [Review on: feat(zkevm): Implement error handling](https://github.com/NethermindEth/nethermind/pull/12010#pullrequestreview-4509852884) - 2026-06-16
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Split code/data properly](https://github.com/NethermindEth/dotnet-riscv/pull/2) - 2026-05-21
 * [Commit] [Update interface dispatch patch](https://github.com/NethermindEth/dotnet-riscv/commit/1ebe8c2c438b9339545e2f3859a4360b46a094aa) - 2026-05-21

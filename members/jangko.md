@@ -83,6 +83,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Exclude nim upstream/version-2-2 from release and nightly build matrix (#4323)](https://github.com/status-im/nimbus-eth1/commit/ef2193e1d163b281480a0d685d036190932d85d6) - 2026-06-13
 * [Commit] [Upgrade eest test fixtures to v7.3.1 (#4327)](https://github.com/status-im/nimbus-eth1/commit/0aa7704ad16ac5a29baec633d6a313de6062b266) - 2026-06-12
 * [Pull Request] [Upgrade EEST test fixtures to tests-bal@v7.3.2](https://github.com/status-im/nimbus-eth1/pull/4328) - 2026-06-15
+* [Review] [Review on: fix FC (de)serialization crash related to multiple unfinalized heads](https://github.com/status-im/nimbus-eth1/pull/4334#pullrequestreview-4511814778) - 2026-06-17
+* [Commit] [Upgrade EEST test fixtures to tests-bal@v7.3.2 (#4328)](https://github.com/status-im/nimbus-eth1/commit/28610c60f936c91eb4cbbc4b24a26987f85fd7b7) - 2026-06-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 

@@ -686,6 +686,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(flatdb): preserve format markers when clearing the flat DB](https://github.com/NethermindEth/nethermind/pull/11996#pullrequestreview-4496466221) - 2026-06-15
 * [Review] [Review on: fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update](https://github.com/NethermindEth/nethermind/pull/11995#pullrequestreview-4496533369) - 2026-06-15
 * [Commit] [test(merge): fix flaky AlreadyKnown_not_cached_block_should_return_valid (#11989)](https://github.com/NethermindEth/nethermind/commit/c08112d39dd46322a6078746091a166615a0aa88) - 2026-06-15
+* [Review] [Review on: change message to return execution reverted in access list ](https://github.com/NethermindEth/nethermind/pull/12013#pullrequestreview-4505919084) - 2026-06-16
+* [Review] [Review on: RPC - ArrayPoolList](https://github.com/NethermindEth/nethermind/pull/12017#pullrequestreview-4507057031) - 2026-06-16
+* [Review] [Review on: style: enforce IDE0063 (use simple `using` statement)](https://github.com/NethermindEth/nethermind/pull/12014#pullrequestreview-4507200456) - 2026-06-16
+* [Review] [Review on: fix(jsonrpc): handle IPC client disconnect during response write](https://github.com/NethermindEth/nethermind/pull/12015#pullrequestreview-4507191400) - 2026-06-16
+* [Review] [Review on: Merge.Plugin: produce testing_commitBlockV1 blocks on the main world state](https://github.com/NethermindEth/nethermind/pull/11981#pullrequestreview-4504149965) - 2026-06-16
+* [Review] [Review on: Add background scheduler stats](https://github.com/NethermindEth/nethermind/pull/9956#pullrequestreview-4506492967) - 2026-06-16
+* [Review] [Review on: perf: per-column write buffer caps in WriteBufferAdjuster](https://github.com/NethermindEth/nethermind/pull/10955#pullrequestreview-4504952707) - 2026-06-16
+* [Review] [Review on: fix(json): stop CountingStreamPipeWriter.Advance from flushing mid-write](https://github.com/NethermindEth/nethermind/pull/12002#pullrequestreview-4504544723) - 2026-06-16
+* [Review] [Review on: fixed message to return insufficient funds](https://github.com/NethermindEth/nethermind/pull/12001#pullrequestreview-4504430029) - 2026-06-16
+* [Review] [Review on: perf(flat): decouple RocksDB write-buffer floor from CompactSize](https://github.com/NethermindEth/nethermind/pull/11936#pullrequestreview-4504344234) - 2026-06-16
+* [Review] [Review on: fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update](https://github.com/NethermindEth/nethermind/pull/11995#pullrequestreview-4504185300) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

@@ -116,6 +116,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat(rpc): implement `proof_call` for stateless call verification (#11732)](https://github.com/NethermindEth/nethermind/commit/0a643b09ed60379fc9b04dc7924957276824d2d0) - 2026-06-11
 * [Review] [Review on: Schedule Unzen fork on Taiko Hoodi](https://github.com/NethermindEth/nethermind/pull/11977#pullrequestreview-4485613762) - 2026-06-12
 * [Review] [Review on: Add EIP-7594 to Hoodi Unzen](https://github.com/NethermindEth/nethermind/pull/11982#pullrequestreview-4491316795) - 2026-06-13
+* [Review] [Review on: Fix/taiko ci timeout](https://github.com/NethermindEth/nethermind/pull/10806#pullrequestreview-4507815977) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 

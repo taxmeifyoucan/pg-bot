@@ -455,6 +455,19 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [fix(whir): reject non-redundant code rates in WhirConfig::new (#1850)](https://github.com/Plonky3/Plonky3/commit/e437027b81c50449fe262c2171097872efb8a2e2) - 2026-06-15
 * [Commit] [refactor(sumcheck): split svo.rs into a svo/ module by concern (#1847)](https://github.com/Plonky3/Plonky3/commit/67fd9df837729064d0c15a6087e736025246b500) - 2026-06-15
 * [Commit] [fix(whir): round proof-of-work bits up instead of down (#1851)](https://github.com/Plonky3/Plonky3/commit/f08868ac9e2f4573430dd66a370e822c14ced785) - 2026-06-15
+* [Review] [Review on: feat(challenger): typed Fiat-Shamir transcript layer (DSFS / IETF draft)](https://github.com/Plonky3/Plonky3/pull/1603#pullrequestreview-4508640982) - 2026-06-16
+* [Pull Request] [feat(multi-stark): add config trait and trace commitment](https://github.com/Plonky3/Plonky3/pull/1872) - 2026-06-16
+* [Review] [Review on: feat(multi-stark): add config trait and trace commitment](https://github.com/Plonky3/Plonky3/pull/1872#pullrequestreview-4507313051) - 2026-06-16
+* [Review] [Review on: feat(multi-stark): add crate skeleton with boundary selectors and AIR folder](https://github.com/Plonky3/Plonky3/pull/1700#pullrequestreview-4504878746) - 2026-06-16
+* [Pull Request] [feat(multi-stark): add constraint metadata module](https://github.com/Plonky3/Plonky3/pull/1871) - 2026-06-16
+* [Commit] [feat(multi-stark): add config trait and trace commitment (#1872)](https://github.com/Plonky3/Plonky3/commit/6d6867771fd4b40b6895aa58c5cb1961802d9430) - 2026-06-16
+* [Commit] [refactor(sumcheck): share scaffolding between eval_next_prefix and eval_next_suffix (#1869)](https://github.com/Plonky3/Plonky3/commit/8f0bc87131c335fa3f218e201e139a1799a56ac4) - 2026-06-16
+* [Commit] [fix(sumcheck): assert accumulator length in scalar combine paths (#1860)](https://github.com/Plonky3/Plonky3/commit/2063e5550c908e3358e9364bbbe192c7196b8b24) - 2026-06-16
+* [Commit] [perf(sumcheck): hoist invariant alpha exponentiation out of the SVO round loop (#1861)](https://github.com/Plonky3/Plonky3/commit/1107edcb69cdf6f40438735ce01b6889f81f96dd) - 2026-06-16
+* [Commit] [feat(multi-stark): add crate skeleton with boundary selectors and AIR folder (#1700)](https://github.com/Plonky3/Plonky3/commit/52461b922d0b8783be6c94637d79920c9359c304) - 2026-06-16
+* [Commit] [refactor(sumcheck): consistent expect message for concrete opening column index (#1858)](https://github.com/Plonky3/Plonky3/commit/3ae7771c54dbe07e5b6e9b31550bb3cc5fc48e5c) - 2026-06-16
+* [Commit] [test(sumcheck): add direct unit test for accumulate_next_suffix_into (#1865)](https://github.com/Plonky3/Plonky3/commit/ecf3b319f40919fe962d77bdbb9633e319f41fc4) - 2026-06-16
+* [Commit] [refactor(sumcheck): share SvoPoint constructor and accumulate prologue (#1868)](https://github.com/Plonky3/Plonky3/commit/50012c1cbb05417dceef0db6c756bad67d31a60a) - 2026-06-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

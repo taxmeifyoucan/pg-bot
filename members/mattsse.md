@@ -645,6 +645,16 @@ Team: Reth
 * [Commit] [fix(engine): store validated payload block access lists (#25268)](https://github.com/paradigmxyz/reth/commit/e72588ef5ecbc4ff6dccf43a4637f23cdd715dab) - 2026-06-15
 * [Commit] [feat(cli): add node command helpers (#25273)](https://github.com/paradigmxyz/reth/commit/c5e8255be01cf0d67e1c76d22dfef8f6df0eceaf) - 2026-06-15
 * [Commit] [refactor(net): require BAL-capable download clients (#25266)](https://github.com/paradigmxyz/reth/commit/63e63cdc3c655a64fc7c750d2ade65481357e97d) - 2026-06-15
+* [Review] [Review on: fix(trie): return empty proof for empty storage and account tries in eth_getProof](https://github.com/paradigmxyz/reth/pull/24719#pullrequestreview-4504347824) - 2026-06-16
+* [Pull Request] [feat(provider): add sealed or recovered block lookup](https://github.com/paradigmxyz/reth/pull/25338) - 2026-06-16
+* [Pull Request] [DNM: glamsterdam-devnet-5](https://github.com/paradigmxyz/reth/pull/25318) - 2026-06-16
+* [Review] [Review on: refactor(era): make block-history export generic over the file format](https://github.com/paradigmxyz/reth/pull/25303#pullrequestreview-4506366066) - 2026-06-16
+* [Review] [Review on: docs: avoid propagating ExEx event send errors](https://github.com/paradigmxyz/reth/pull/25283#pullrequestreview-4506392791) - 2026-06-16
+* [Pull Request] [docs(net): document recent eth wire versions](https://github.com/paradigmxyz/reth/pull/25316) - 2026-06-16
+* [Pull Request] [chore: added Bogota support for eip 8268](https://github.com/paradigmxyz/reth/pull/25314) - 2026-06-16
+* [Commit] [docs(net): document recent eth wire versions (#25316)](https://github.com/paradigmxyz/reth/commit/bd213f1fb8c02ddb92042957bcbfc792333a9055) - 2026-06-16
+* [Commit] [chore(deps): bump alloy crates to 2.1.0 (#25123)](https://github.com/paradigmxyz/reth/commit/ab38874bdf83806727abc5237be18c1ca78b6c18) - 2026-06-16
+* [Commit] [refactor(txpool): recover raw transactions as pool tx (#25238)](https://github.com/paradigmxyz/reth/commit/8299c885a29c27aa6b73b609dc2d1ad653898b3a) - 2026-06-16
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

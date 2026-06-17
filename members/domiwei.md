@@ -98,6 +98,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [docs: require CL spec map checks for agents](https://github.com/erigontech/erigon/pull/21747) - 2026-06-11
 * [Commit] [cl/antiquary: batch beacon snapshot indexing (#21594)](https://github.com/erigontech/erigon/commit/34b2591fc50e5546742a3de33bd4a953c9e72968) - 2026-06-12
 * [Commit] [cl/beacon: include finalized in headers list (#21645)](https://github.com/erigontech/erigon/commit/2cfb050d652b9874c680328979cc985e0d9eb05e) - 2026-06-15
+* [Review] [Review on: cl/phase1/forkchoice: fix block_importing_latency never recording on Fulu+](https://github.com/erigontech/erigon/pull/21842#pullrequestreview-4505379899) - 2026-06-16
+* [Review] [Review on: [r3.4] cl/phase1/forkchoice: fix block_importing_latency never recording on Fulu+](https://github.com/erigontech/erigon/pull/21845#pullrequestreview-4505465814) - 2026-06-16
+* [Review] [Review on: [r3.5] cl/phase1/forkchoice: fix block_importing_latency never recording on Fulu+](https://github.com/erigontech/erigon/pull/21843#pullrequestreview-4505463071) - 2026-06-16
+* [Review] [Review on: [r3.5] execution/rlp, execution/types: reject malformed RLP instead of dropping elements](https://github.com/erigontech/erigon/pull/21819#pullrequestreview-4503946911) - 2026-06-16
+* [Commit] [cl, execution: glamsterdam devnet-5 fixes (#21655)](https://github.com/erigontech/erigon/commit/a2f483ad07093b21fab441e4c26808b5eeaf40b7) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

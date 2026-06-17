@@ -288,6 +288,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix(flatdb): make snap finalize crash-durable and the restart wipe cheap](https://github.com/NethermindEth/nethermind/pull/11997) - 2026-06-15
 * [Pull Request] [fix(flatdb): preserve format markers when clearing the flat DB](https://github.com/NethermindEth/nethermind/pull/11996) - 2026-06-15
 * [Commit] [fix(flatdb): preserve format markers when clearing the flat DB (#11996)](https://github.com/NethermindEth/nethermind/commit/c272a691a3b4f153ee2aee8c8948790e9c8b95fb) - 2026-06-15
+* [Review] [Review on: RefList16 fix](https://github.com/NethermindEth/nethermind/pull/12021#pullrequestreview-4510979539) - 2026-06-16
+* [Pull Request] [feat(witness): generate the storage witness from the world-state scope](https://github.com/NethermindEth/nethermind/pull/12018) - 2026-06-16
+* [Pull Request] [style: enforce IDE0063 (use simple `using` statement)](https://github.com/NethermindEth/nethermind/pull/12014) - 2026-06-16
+* [Commit] [style: enforce IDE0063 (use simple `using` statement) (#12014)](https://github.com/NethermindEth/nethermind/commit/b2c55a33d09045fa689b416484a1152eceaed999) - 2026-06-16
+* [Commit] [perf: per-column write buffer caps in WriteBufferAdjuster (#10955)](https://github.com/NethermindEth/nethermind/commit/d0806267e15797d1ecf1b09db9c8d9d27ac7776a) - 2026-06-16
+* [Commit] [perf(blockchain): header-driven main-chain update to avoid deep-reorg OOM and reprocessing (#11894)](https://github.com/NethermindEth/nethermind/commit/363df9dc449b3264d3d16a59928c16320b33d65a) - 2026-06-16
+* [Commit] [fix(flatdb): make snap finalize crash-durable and the restart wipe cheap (#11997)](https://github.com/NethermindEth/nethermind/commit/92b96a067b9dbbd6cf262b7d82db37f1e7b058c7) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

@@ -110,6 +110,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: bloatnet: reduce mem usage by .bt build](https://github.com/erigontech/erigon/pull/21783#pullrequestreview-4496349623) - 2026-06-15
 * [Review] [Review on: [bloatnet] recsplit: enable sharded ShardedFuse by default](https://github.com/erigontech/erigon/pull/21797#pullrequestreview-4496350746) - 2026-06-15
 * [Commit] [execution/stagedsync: prune in-RAM overlay when execution unwind is a disk no-op (#21825)](https://github.com/erigontech/erigon/commit/38b5984bbba27207619bd255199c95ee460fe953) - 2026-06-16
+* [Pull Request] [execution/stagedsync: prune overlay to committed boundary on no-op execution unwind](https://github.com/erigontech/erigon/pull/21847) - 2026-06-16
+* [Pull Request] [[r3.5] execution/stagedsync: prune overlay to committed boundary on no-op execution unwind](https://github.com/erigontech/erigon/pull/21849) - 2026-06-16
+* [Pull Request] [execution/stagedsync: prune overlay to committed boundary on no-op execution unwind](https://github.com/erigontech/erigon/pull/21848) - 2026-06-16
 ## Q1 2026
 
 

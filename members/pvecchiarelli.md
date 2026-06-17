@@ -64,6 +64,12 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Revert "Blog edits"](https://github.com/protocolguild/protocol-guild-site/commit/8842a29622aec0f84d5f6bae6e55933f4971a4fa) - 2026-06-16
 * [Commit] [Merge pull request #68 from pvecchiarelli/main](https://github.com/protocolguild/protocol-guild-site/commit/3432e58db068991e24f9b222a748568b5494be45) - 2026-06-16
 * [Commit] [feat: add InKindAppreciation section with keycardblack.png](https://github.com/protocolguild/protocol-guild-site/commit/ead7522b4e5602e4e880e6baa8a5db55ac77846d) - 2026-06-16
+* [Pull Request] [fix: megapot links to home, favicon transparent bg with dark/light mo…](https://github.com/protocolguild/protocol-guild-site/pull/73) - 2026-06-16
+* [Pull Request] [Update InAppContributions.tsx](https://github.com/protocolguild/protocol-guild-site/pull/72) - 2026-06-16
+* [Commit] [Merge pull request #73 from protocolguild/site-fixes](https://github.com/protocolguild/protocol-guild-site/commit/75342810df6c3c2f6d062b546c2432e1fe052d6b) - 2026-06-16
+* [Commit] [fix: megapot links to home, favicon transparent bg with dark/light mode logo](https://github.com/protocolguild/protocol-guild-site/commit/70b4e4b86fafeb2b2e0de084326ba88b935008a4) - 2026-06-16
+* [Commit] [Merge pull request #72 from protocolguild/pvecchiarelli-patch-2](https://github.com/protocolguild/protocol-guild-site/commit/4734b82918c64dbe574b12bc8acfdbf0ae889bc0) - 2026-06-16
+* [Commit] [Update InAppContributions.tsx](https://github.com/protocolguild/protocol-guild-site/commit/009abde35788e4c59f498a4e7c6b402b26f0b711) - 2026-06-16
 ## Q1 2026
 
 

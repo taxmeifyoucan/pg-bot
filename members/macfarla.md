@@ -286,6 +286,21 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [fix(engine): return SYNCING when parent world state is not immediately cached (#10600)](https://github.com/besu-eth/besu/commit/c83dd7f7c15efb12ed9cdfbdc44e863f30f9459b) - 2026-06-11
 * [Pull Request] [fix: initialize profilers list before adding gc in jmh config](https://github.com/besu-eth/besu/pull/10651) - 2026-06-16
 * [Pull Request] [upgrade license report plugin](https://github.com/besu-eth/besu/pull/10650) - 2026-06-16
+* [Pull Request] [feat(pow-removal): Phase 2 - remove Ethash and PoW validation code](https://github.com/besu-eth/besu/pull/10659) - 2026-06-17
+* [Review] [Review on: feat(pow-removal): Phase 2 - remove Ethash and PoW validation code](https://github.com/besu-eth/besu/pull/10659#pullrequestreview-4511950328) - 2026-06-17
+* [Review] [Review on: gha-overhaul-1 WIP-DO NOT MERGE](https://github.com/besu-eth/besu/pull/10653#pullrequestreview-4503704397) - 2026-06-16
+* [Pull Request] [feat(pow-removal): Phase 1 - remove PoW mining infrastructure](https://github.com/besu-eth/besu/pull/10656) - 2026-06-16
+* [Review] [Review on: feat(pow-removal): Phase 1 - remove PoW mining infrastructure](https://github.com/besu-eth/besu/pull/10656#pullrequestreview-4511149403) - 2026-06-16
+* [Review] [Review on: Lazy RLP decoding for GetByteCodesMessage](https://github.com/besu-eth/besu/pull/10652#pullrequestreview-4504786299) - 2026-06-16
+* [Pull Request] [fix(engine): process FCU when head is known even if syncing](https://github.com/besu-eth/besu/pull/10658) - 2026-06-17
+* [Review] [Review on: fix(engine): process FCU when head is known even if syncing](https://github.com/besu-eth/besu/pull/10658#pullrequestreview-4511448989) - 2026-06-17
+* [Review] [Review on: Fix `eth_maxPriorityFeePerGas` and `eth_gasPrice` when zero is set for `api-gas-price-blocks`](https://github.com/besu-eth/besu/pull/10642#pullrequestreview-4503453584) - 2026-06-16
+* [Review] [Review on: JSpecify: enable NullAway for ethereum/mock-p2p module](https://github.com/besu-eth/besu/pull/10630#pullrequestreview-4503427760) - 2026-06-16
+* [Review] [Review on: feat(api): add eth_getRawTransactionByHash JSON-RPC method (#10477)](https://github.com/besu-eth/besu/pull/10563#pullrequestreview-4503519869) - 2026-06-16
+* [Issue] [reference-tests CI: OpenJ9 JIT assertion crash on JDK 25 (Inliner.cpp)](https://github.com/besu-eth/besu/issues/10657) - 2026-06-17
+* [Commit] [uprev web3j to 5.0.3 (#10627)](https://github.com/besu-eth/besu/commit/95c24e2703d20b3e510e4ddf992e272a175f91f1) - 2026-06-16
+* [Commit] [fix: initialize profilers list before adding gc in jmh config (#10651)](https://github.com/besu-eth/besu/commit/5a9b1e961847ebdc920639f98ce91f381c02854b) - 2026-06-16
+* [Commit] [upgrade license report plugin (#10650)](https://github.com/besu-eth/besu/commit/790548cd8e78e0fcd39d7c1eeb2721981940ab30) - 2026-06-16
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 
@@ -298,6 +313,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [simulators/ethereum/rpc-compat: ignore error.message fields everywhere (#1399)](https://github.com/ethereum/hive/commit/6f704d0cd8fb4dfd3f635abcc5a3ea6cd395e61b) - 2026-05-12
 * [Pull Request] [clients/besu: add parentheses to mapper compatible w jq 1.7](https://github.com/ethereum/hive/pull/1523) - 2026-06-05
 * [Commit] [clients/besu: fix deposit contract address in mapper (#1523)](https://github.com/ethereum/hive/commit/c4f16bb98c6c4af58845d3f3abb90a0dd90c86d6) - 2026-06-05
+* [Review] [Review on: Make address key lookup case-insensitive in simulator](https://github.com/ethereum/hive/pull/1446#pullrequestreview-4503321863) - 2026-06-16
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: update java.projectId for maven](https://github.com/Consensys/teku/pull/10662#pullrequestreview-4209600176) - 2026-05-01
 * [Review] [Review on: remove the gradle pieces in renovate config](https://github.com/Consensys/teku/pull/10661#pullrequestreview-4208862737) - 2026-04-30

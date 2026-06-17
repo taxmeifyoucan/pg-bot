@@ -102,6 +102,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Slotnum fix](https://github.com/NethermindEth/nethermind/pull/11968#pullrequestreview-4486323330) - 2026-06-12
 * [Commit] [perf(state): make BAL read warming survive, scale, and stick (~5x on storage-read-heavy blocks) (#11954)](https://github.com/NethermindEth/nethermind/commit/78109b4cd4fc9d77f9c3c2534665806b3255fbe2) - 2026-06-13
 * [Commit] [perf(bls): reduce allocations and wasted clears in G2MSM point decoding (#11891)](https://github.com/NethermindEth/nethermind/commit/dd1e19f70093e5e2cf1c49025ee663201b3d0774) - 2026-06-13
+* [Review] [Review on: feat(workflow): add support for Arbitrum networks and update L2 options](https://github.com/NethermindEth/nethermind/pull/11970#pullrequestreview-4507546642) - 2026-06-16
+* [Review] [Review on: Fix/taiko ci timeout](https://github.com/NethermindEth/nethermind/pull/10806#pullrequestreview-4507152106) - 2026-06-16
+* [Review] [Review on: feat(workflows): update hive tests workflow to support release branches and enhance input descriptions](https://github.com/NethermindEth/nethermind/pull/11877#pullrequestreview-4507415714) - 2026-06-16
+* [Review] [Review on: ci(expb): wire multi-image analyze step outputs](https://github.com/NethermindEth/nethermind/pull/11369#pullrequestreview-4507250709) - 2026-06-16
+* [Review] [Review on: Add workflow for project stability sync](https://github.com/NethermindEth/nethermind/pull/11500#pullrequestreview-4507309941) - 2026-06-16
+* [Review] [Review on: feat: integrate Grafana Alloy and Loki for metrics and logging](https://github.com/NethermindEth/nethermind/pull/11189#pullrequestreview-4507239586) - 2026-06-16
+* [Review] [Review on: chore: update publish docker github actions docker/login-action, dock…](https://github.com/NethermindEth/nethermind/pull/10778#pullrequestreview-4507145315) - 2026-06-16
+* [Review] [Review on: Add external plugin compatibility check CI workflow](https://github.com/NethermindEth/nethermind/pull/10412#pullrequestreview-4507088843) - 2026-06-16
+* [Commit] [perf(flat): decouple RocksDB write-buffer floor from CompactSize (#11936)](https://github.com/NethermindEth/nethermind/commit/6ff112117b7eec22620ac630063bd4f25a51f10b) - 2026-06-16
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

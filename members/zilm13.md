@@ -145,6 +145,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Enable gossip blob sidecar ref-test](https://github.com/Consensys/teku/pull/10780#pullrequestreview-4484131245) - 2026-06-12
 * [Review] [Review on: Alternative gloas sync fix](https://github.com/Consensys/teku/pull/10825#pullrequestreview-4497245526) - 2026-06-15
 * [Review] [Review on: Enable gossip blob sidecar ref-test](https://github.com/Consensys/teku/pull/10780#pullrequestreview-4497262244) - 2026-06-15
+* [Review] [Review on: Avoid sublist allocation in TreeUtil.createTree](https://github.com/Consensys/teku/pull/10839#pullrequestreview-4508868554) - 2026-06-16
+* [Review] [Review on: Alternative gloas sync fix](https://github.com/Consensys/teku/pull/10825#pullrequestreview-4506458593) - 2026-06-16
+* [Commit] [Forkchoice on attestation tests (#10823)](https://github.com/Consensys/teku/commit/6ddc217d0f87024e34b98b04a6eda45f221394f2) - 2026-06-16
+* [Commit] [Disconnect bad inbound connections (#10830)](https://github.com/Consensys/teku/commit/007a3b01ecdc4e1e8899173dc35e52ca64ab4a3e) - 2026-06-16
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

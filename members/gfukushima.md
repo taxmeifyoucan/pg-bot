@@ -80,6 +80,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Enable gossip blob sidecar ref-test](https://github.com/Consensys/teku/pull/10780#pullrequestreview-4473659749) - 2026-06-11
 * [Commit] [SingleBlockProviderFulu with soft and hard limit for sampled blocks (#10533)](https://github.com/Consensys/teku/commit/52c0484379389fb3cb29268c415f31aeeeea8a84) - 2026-06-16
 * [Commit] [Enable gossip blob sidecar ref-test (#10780)](https://github.com/Consensys/teku/commit/6f7786439cff004cdbfcad61d273532a34e33106) - 2026-06-15
+* [Review] [Review on: Improve dependency update checks](https://github.com/Consensys/teku/pull/10842#pullrequestreview-4511683633) - 2026-06-17
+* [Pull Request] [add extra check to avoid problematic versions update](https://github.com/Consensys/teku/pull/10837) - 2026-06-16
+* [Review] [Review on: Add jdk.management module to Docker runtime for process_cpu_seconds_total](https://github.com/Consensys/teku/pull/10841#pullrequestreview-4511129106) - 2026-06-16
+* [Pull Request] [Update besu version and besu version on ATs](https://github.com/Consensys/teku/pull/10836) - 2026-06-16
+* [Commit] [Update besu version and besu version on ATs (#10836)](https://github.com/Consensys/teku/commit/3216a3b57dff24d476751142b1364501fbd61394) - 2026-06-16
 ## Q1 2026
 
 

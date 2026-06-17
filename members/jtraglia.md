@@ -367,6 +367,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add annotation prefixes to p2p interface spec sections](https://github.com/ethereum/consensus-specs/pull/5356#pullrequestreview-4485783976) - 2026-06-12
 * [Commit] [Add annotation prefixes to p2p interface spec sections (#5356)](https://github.com/ethereum/consensus-specs/commit/8e19f82b04d92712ff424fa5b95ac4333f88b7d6) - 2026-06-12
 * [Review] [Review on: Pass only signed bid to process_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5364#pullrequestreview-4499114400) - 2026-06-15
+* [Review] [Review on: Add builder execution requests (EIP-8282)](https://github.com/ethereum/consensus-specs/pull/5359#pullrequestreview-4506236667) - 2026-06-16
+* [Review] [Review on: Only clear builder payment if the slashed validator is the proposer](https://github.com/ethereum/consensus-specs/pull/5365#pullrequestreview-4506411738) - 2026-06-16
+* [Pull Request] [Bump version to v1.7.0-alpha.11](https://github.com/ethereum/consensus-specs/pull/5366) - 2026-06-16
+* [Review] [Review on: Pass only signed bid to `process_execution_payload_bid`](https://github.com/ethereum/consensus-specs/pull/5364#pullrequestreview-4505382458) - 2026-06-16
+* [Review] [Review on: Update dependency milagro_bls_binding to v1.9.1](https://github.com/ethereum/consensus-specs/pull/5362#pullrequestreview-4505313713) - 2026-06-16
+* [Review] [Review on: Update dependency pytest to v9.1.0](https://github.com/ethereum/consensus-specs/pull/5363#pullrequestreview-4504944342) - 2026-06-16
+* [Commit] [Bump version to v1.7.0-alpha.11 (#5366)](https://github.com/ethereum/consensus-specs/commit/30aa65fc21cf7f7c7dd1f7d6b686d0250462d04f) - 2026-06-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 
@@ -387,6 +394,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #82, June 8, 2026](https://github.com/ethereum/pm/issues/2103) - 2026-06-02
 
+* [Issue] [All Core Devs - Testing (ACDT) #84, June 22, 2026](https://github.com/ethereum/pm/issues/2126) - 2026-06-16
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat: drop legacy eth1 bridge deposits from Fulu onwards (consensus-specs #4704)](https://github.com/ChainSafe/lodestar/pull/9458#pullrequestreview-4421189607) - 2026-06-03
 * [Review] [Review on: feat: eip-8282 builder execution requests scaffolding](https://github.com/ChainSafe/lodestar/pull/9507#pullrequestreview-4489927912) - 2026-06-12
