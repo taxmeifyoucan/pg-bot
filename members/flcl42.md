@@ -220,6 +220,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Add background scheduler stats](https://github.com/NethermindEth/nethermind/pull/9956#pullrequestreview-4496043580) - 2026-06-15
 * [Review] [Review on: feat(zkevm): Implement error handling](https://github.com/NethermindEth/nethermind/pull/12010#pullrequestreview-4508697881) - 2026-06-16
 * [Review] [Review on: perf: per-column write buffer caps in WriteBufferAdjuster](https://github.com/NethermindEth/nethermind/pull/10955#pullrequestreview-4504961080) - 2026-06-16
+* [Review] [Review on: feat(engine): align SSZ-REST wire format with execution-apis#793 update](https://github.com/NethermindEth/nethermind/pull/11998#pullrequestreview-4514901329) - 2026-06-17
+* [Review] [Review on: Blob fee check fix](https://github.com/NethermindEth/nethermind/pull/12027#pullrequestreview-4515200741) - 2026-06-17
+* [Pull Request] [Fix background scheduler branch completion](https://github.com/NethermindEth/nethermind/pull/12033) - 2026-06-17
+* [Review] [Review on: feat: host-side prerequisites for the embedded beacon chain plugin (SSZ ulong limits, injectable discv5 ENR filter)](https://github.com/NethermindEth/nethermind/pull/11985#pullrequestreview-4513934263) - 2026-06-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

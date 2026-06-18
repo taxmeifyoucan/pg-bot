@@ -725,6 +725,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: build(deps): bump ws from 7.5.10 to 7.5.11 in /docs/site](https://github.com/erigontech/erigon/pull/21831#pullrequestreview-4505166831) - 2026-06-16
 * [Review] [Review on: execution/stagedsync: prune overlay to committed boundary on no-op execution unwind](https://github.com/erigontech/erigon/pull/21847#pullrequestreview-4505752767) - 2026-06-16
 * [Review] [Review on: cl, sentinel: quiet data column sidecar misses](https://github.com/erigontech/erigon/pull/21686#pullrequestreview-4505499054) - 2026-06-16
+* [Review] [Review on: docs: w25 prose fixes (main) — casing, EL acronym, polygon flag typo, fence tags](https://github.com/erigontech/erigon/pull/21841#pullrequestreview-4516906916) - 2026-06-17
+* [Review] [Review on: docs: w25 prose fixes (release/3.4) — casing, leaked editorial note, EL acronym, polygon flag typo](https://github.com/erigontech/erigon/pull/21840#pullrequestreview-4516951286) - 2026-06-17
+* [Review] [Review on: execution/stagedsync: prune overlay to committed boundary on no-op execution unwind](https://github.com/erigontech/erigon/pull/21848#pullrequestreview-4513393233) - 2026-06-17
+* [Pull Request] [[r3.4] db/version: bump version to 3.4.4](https://github.com/erigontech/erigon/pull/21868) - 2026-06-17
+* [Review] [Review on: [r3.5] execution/stagedsync: prune overlay to committed boundary on no-op execution unwind](https://github.com/erigontech/erigon/pull/21849#pullrequestreview-4513394348) - 2026-06-17
+* [Review] [Review on: [r3.4] execution/stagedsync: prune overlay to committed boundary on no-op execution unwind](https://github.com/erigontech/erigon/pull/21847#pullrequestreview-4514703002) - 2026-06-17
+* [Issue] [execution/stagedsync: unwind overlay-prune keeps one extra (system) txNum; unify boundary to last committed txNum](https://github.com/erigontech/erigon/issues/21863) - 2026-06-17
+* [Issue] [Better integration tests for unwind issues](https://github.com/erigontech/erigon/issues/21860) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

@@ -71,6 +71,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Allow release branches to target stable in target-branch-check](https://github.com/sigp/lighthouse/pull/9457) - 2026-06-11
 * [Pull Request] [Gate sync peer selection on per-protocol concurrent-request limit](https://github.com/sigp/lighthouse/pull/9456) - 2026-06-11
 * [Pull Request] [Remove seen_timestamp tracking from sync](https://github.com/sigp/lighthouse/pull/9454) - 2026-06-11
+* [Review] [Review on: Correct unrealized justification for blocks with slashings](https://github.com/sigp/lighthouse/pull/9471#pullrequestreview-4515321787) - 2026-06-17
+* [Review] [Review on: Refactor payload attestation service](https://github.com/sigp/lighthouse/pull/9492#pullrequestreview-4516095315) - 2026-06-17
+* [Pull Request] [Range sync: fetch data columns via custody-by-root](https://github.com/sigp/lighthouse/pull/9496) - 2026-06-17
+* [Review] [Review on: Gloas attestation payload reprocess](https://github.com/sigp/lighthouse/pull/9440#pullrequestreview-4515407033) - 2026-06-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 

@@ -108,6 +108,13 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [chore(specs): add type alias for fee market txs](https://github.com/ethereum/execution-specs/commit/54246cd940960f1366471e408f08310cf4b200bc) - 2026-06-15
 * [Commit] [chore(specs): refactor code deployment functions](https://github.com/ethereum/execution-specs/commit/45fb08e4925d39e26cdcd3f2c6eb63d57edea00e) - 2026-06-16
 * [Commit] [feat(tests): pick most strict valid_from mark when multiple appear](https://github.com/ethereum/execution-specs/commit/c8b2f08b369ec719bfb56ba078df759d1d8da5a2) - 2026-06-16
+* [Pull Request] [refactor(specs): factor out auth validity](https://github.com/ethereum/execution-specs/pull/3006) - 2026-06-17
+* [Pull Request] [chore(ci): update mypy](https://github.com/ethereum/execution-specs/pull/3004) - 2026-06-17
+* [Pull Request] [chore(specs): clean is_valid_delegation](https://github.com/ethereum/execution-specs/pull/3003) - 2026-06-17
+* [Pull Request] [fix(specs): check chain id](https://github.com/ethereum/execution-specs/pull/3000) - 2026-06-17
+* [Review] [Review on: feat(spec,tests): Implement EIP-8282](https://github.com/ethereum/execution-specs/pull/2990#pullrequestreview-4517638693) - 2026-06-17
+* [Review] [Review on: feat(spec-specs, tests): add EIP-8038 state-access gas cost update](https://github.com/ethereum/execution-specs/pull/2972#pullrequestreview-4517091246) - 2026-06-17
+* [Commit] [fix(ci): include json-loader in coverage reports (#2975)](https://github.com/ethereum/execution-specs/commit/7ccf64998512a589e64442f6f795f340c6603cba) - 2026-06-17
 ## Q1 2026
 
 

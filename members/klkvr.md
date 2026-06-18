@@ -193,6 +193,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [perf: parallelize `write_storage_history`](https://github.com/paradigmxyz/reth/pull/25282) - 2026-06-15
 * [Review] [Review on: fix: send payload resolve command before returning future](https://github.com/paradigmxyz/reth/pull/25242#pullrequestreview-4497137888) - 2026-06-15
 * [Commit] [perf: parallelize `write_storage_history` (#25282)](https://github.com/paradigmxyz/reth/commit/472ecbb8c6ad213220079b70af63f190a8f32f9d) - 2026-06-15
+* [Commit] [perf: parallelize `update_leaves` better (#24774)](https://github.com/paradigmxyz/reth/commit/47a2926c890ef084e0731b0cfa790165fc5260fd) - 2026-06-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

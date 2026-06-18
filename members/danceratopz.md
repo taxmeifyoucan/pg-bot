@@ -139,6 +139,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests, spec-specs): raise EIP-7954 max code size to 64KiB](https://github.com/ethereum/execution-specs/pull/2987#pullrequestreview-4507922685) - 2026-06-16
 * [Commit] [chore(ci): rebalance fill fork ranges for the enabled forks](https://github.com/ethereum/execution-specs/commit/b314d18ec625660398343494f290df16a5fc315a) - 2026-06-16
 * [Commit] [feat(test-forks): enable filling for TangerineWhistle and SpuriousDragon](https://github.com/ethereum/execution-specs/commit/afbb3258fc25b44dc98174121997fb249e22e1d1) - 2026-06-16
+* [Pull Request] [chore(tooling): update write-test skill for automatic tx gas-limit](https://github.com/ethereum/execution-specs/pull/2995) - 2026-06-17
+* [Review] [Review on: chore(tooling): update write-test skill for automatic tx gas-limit](https://github.com/ethereum/execution-specs/pull/2995#pullrequestreview-4518902092) - 2026-06-17
+* [Review] [Review on: feat(spec-specs, tests): add EIP-8038 state-access gas cost update](https://github.com/ethereum/execution-specs/pull/2972#pullrequestreview-4515217624) - 2026-06-17
+* [Review] [Review on: chore(ci): rename bal release feature to glamsterdam-devnet](https://github.com/ethereum/execution-specs/pull/2997#pullrequestreview-4515608840) - 2026-06-17
+* [Review] [Review on: fix(ci,tooling): include json-loader in coverage reports](https://github.com/ethereum/execution-specs/pull/2975#pullrequestreview-4513906712) - 2026-06-17
+* [Pull Request] [feat(tests): add max-code-size jumpdest test for immediate bytes](https://github.com/ethereum/execution-specs/pull/2998) - 2026-06-17
+* [Review] [Review on: feat(tests): add EIP-7954 jumpdest test past the old code-size limit](https://github.com/ethereum/execution-specs/pull/2993#pullrequestreview-4514076926) - 2026-06-17
+* [Commit] [feat(tests): add EIP-7954 jumpdest test past the old code-size limit (#2993)](https://github.com/ethereum/execution-specs/commit/c00006fb09a3975ded1906fee368d6c4402df553) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 
@@ -161,6 +169,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: clients/ethrex: import block files individually](https://github.com/ethereum/hive/pull/1461#pullrequestreview-4226428886) - 2026-05-05
 * [Review] [Review on: clients/erigon: import all per-block files in a single process](https://github.com/ethereum/hive/pull/1519#pullrequestreview-4416649539) - 2026-06-03
 * [Review] [Review on: simulators/graphql: pass HIVE_CANCUN_TIMESTAMP to client and fix test expectations](https://github.com/ethereum/hive/pull/1533#pullrequestreview-4457302453) - 2026-06-09
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [chore(ci,docs): archive eest.ethereum.org and stop docs redeploys](https://github.com/ethereum/execution-spec-tests/pull/2323) - 2026-06-17
+* [Commit] [chore(ci,docs): archive eest.ethereum.org and stop docs redeploys (#2323)](https://github.com/ethereum/execution-spec-tests/commit/6ea8672e85b20e70cd14008593a98de9c3d84098) - 2026-06-17
 ## Q1 2026
 
 

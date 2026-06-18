@@ -122,6 +122,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: bug(spec-specs, tests): EIP-8037 strict block-gas inclusion rule](https://github.com/ethereum/execution-specs/pull/2892#pullrequestreview-4505920714) - 2026-06-16
 * [Pull Request] [chore(spec-specs): delay `get_code` calls in CALL opcodes](https://github.com/ethereum/execution-specs/pull/2991) - 2026-06-16
 * [Commit] [feat(tests, spec-specs): raise EIP-7954 max code size to 64KiB (#2987)](https://github.com/ethereum/execution-specs/commit/e35d103be5007a0b98eb1a69af1c584a6e79d862) - 2026-06-16
+* [Pull Request] [feat(spec-specs, tests): refund EIP-8037 account creation for existing create targets](https://github.com/ethereum/execution-specs/pull/3002) - 2026-06-17
+* [Pull Request] [feat(spec-specs, tests): update EIP-8037 to use source based refunds](https://github.com/ethereum/execution-specs/pull/2999) - 2026-06-17
+* [Pull Request] [chore(ci): rename bal release feature to glamsterdam-devnet](https://github.com/ethereum/execution-specs/pull/2997) - 2026-06-17
+* [Review] [Review on: ✨ feat(tests): Disallow empty change set for storage slot](https://github.com/ethereum/execution-specs/pull/2945#pullrequestreview-4515176876) - 2026-06-17
+* [Issue] [Test Release Tracker: `glamsterdam-devnet@v6.0.1`](https://github.com/ethereum/execution-specs/issues/3001) - 2026-06-17
+* [Commit] [chore(ci): rename bal release feature to glamsterdam-devnet (#2997)](https://github.com/ethereum/execution-specs/commit/d32554218f4dadc65ced5de1fe1598dfc7c8bc2b) - 2026-06-17
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 
@@ -174,6 +180,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(ethrex): parenthesize // in mapper.jq depositContractAddress](https://github.com/ethereum/hive/pull/1524#pullrequestreview-4435959937) - 2026-06-05
 * [Commit] [clients: fix deposit contract address in remaining mappers (#1525)](https://github.com/ethereum/hive/commit/39f6fb2565a848a3124bb1822131cd8a5f9ba0a2) - 2026-06-05
 * [Review] [Review on: clients: restore mainnet deposit contract address default in mappers](https://github.com/ethereum/hive/pull/1530#pullrequestreview-4448396209) - 2026-06-08
+* [Review] [Review on: clients/reth: add `rpc.compute-state-root-for-eth-simulate` flag for reth](https://github.com/ethereum/hive/pull/1538#pullrequestreview-4515443372) - 2026-06-17
 ## Q1 2026
 
 

@@ -35,6 +35,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(clock): add clock module for slot/epoch timing](https://github.com/ChainSafe/lodestar-z/pull/354#pullrequestreview-4338006876) - 2026-05-21
 * [Pull Request] [fix: export asyncAggregateWithRandomness through napi binding](https://github.com/ChainSafe/lodestar-z/pull/371) - 2026-05-22
 * [Commit] [fix: export asyncAggregateWithRandomness through napi binding (#371)](https://github.com/ChainSafe/lodestar-z/commit/1d04c2b00f90d340abc543427c35467b3622826b) - 2026-05-22
+* [Review] [Review on: feat: support bitArrays in to_napi_value](https://github.com/ChainSafe/lodestar-z/pull/368#pullrequestreview-4513293041) - 2026-06-17
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat(validator): add VC DB metrics and slashing protection timing to dashboard](https://github.com/ChainSafe/lodestar/pull/9206#pullrequestreview-4097078708) - 2026-04-13
 * [Review] [Review on: fix(prover): implement eth_getBlockNumber verified request handler](https://github.com/ChainSafe/lodestar/pull/9203#pullrequestreview-4097017101) - 2026-04-13
@@ -60,6 +61,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: stabilize fastConfirmation perf bench](https://github.com/ChainSafe/lodestar/pull/9494) - 2026-06-09
 * [Commit] [feat: emit fast_confirmation SSE event per beacon-APIs (#9439)](https://github.com/ChainSafe/lodestar/commit/fb3e80a516c260383cb9fc5826f3a8d1fe5bda92) - 2026-06-09
 * [Commit] [chore: stabilize fastConfirmation perf bench (#9494)](https://github.com/ChainSafe/lodestar/commit/87884a880e8a43196499ee698b3634adbee22107) - 2026-06-10
+* [Review] [Review on: chore: stabilize fastConfirmation perf bench](https://github.com/ChainSafe/lodestar/pull/9494#pullrequestreview-4512281902) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116154021) - 2026-04-15
 

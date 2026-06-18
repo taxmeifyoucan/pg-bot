@@ -198,6 +198,12 @@ Team: Erigon
 * [Pull Request] [cmd: accept N+ syntax in seg rm-state --step flag](https://github.com/erigontech/erigon/pull/21853) - 2026-06-16
 * [Review] [Review on: cmd: accept N+ syntax in seg rm-state --step flag](https://github.com/erigontech/erigon/pull/21853#pullrequestreview-4507986841) - 2026-06-16
 * [Commit] [cmd/evm: clarify why zkevm witness_validation fixtures are skipped (#21815)](https://github.com/erigontech/erigon/commit/ef13cb53802d316c2c33c09e23fe2a0cf4dd4e5e) - 2026-06-16
+* [Review] [Review on: btindex: add `M` to file, reduce RAM usage of `Build()` (#21778)](https://github.com/erigontech/erigon/pull/21872#pullrequestreview-4521085631) - 2026-06-18
+* [Review] [Review on: execution/commitment: include exclusion proofs for absent storage slots in execution witness](https://github.com/erigontech/erigon/pull/21854#pullrequestreview-4512856876) - 2026-06-17
+* [Pull Request] [execution/commitment: route trie trace through an io.Writer](https://github.com/erigontech/erigon/pull/21859) - 2026-06-17
+* [Pull Request] [cmd: make 'seg ls' work without chaindata via graceful degradation](https://github.com/erigontech/erigon/pull/21862) - 2026-06-17
+* [Commit] [execution/commitment: include exclusion proofs for absent storage slots in execution witness (#21854)](https://github.com/erigontech/erigon/commit/d1a4061e2dcfac93404bb0e54efb57ce953c57ed) - 2026-06-17
+* [Commit] [cmd: accept N+ syntax in seg rm-state --step flag (#21853)](https://github.com/erigontech/erigon/commit/cafc2389aaedfa064c5ca70aec3715885de6bd2a) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

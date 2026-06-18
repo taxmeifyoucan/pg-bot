@@ -424,6 +424,9 @@ Team: Reth
 * [Review] [Review on: feat: make JIT opt-in for library crates](https://github.com/paradigmxyz/reth/pull/25178#pullrequestreview-4486243590) - 2026-06-12
 * [Review] [Review on: chore: bump opentelemetry dependencies](https://github.com/paradigmxyz/reth/pull/25215#pullrequestreview-4491664206) - 2026-06-13
 * [Review] [Review on: ci: tolerate missing llvm helper in bench workflows](https://github.com/paradigmxyz/reth/pull/25337#pullrequestreview-4509478137) - 2026-06-16
+* [Review] [Review on: chore(deps): bump astral-sh/setup-uv from 6.3.1 to 8.2.0](https://github.com/paradigmxyz/reth/pull/25384#pullrequestreview-4520040847) - 2026-06-17
+* [Review] [Review on: chore(deps): bump taiki-e/install-action from 2.75.24 to 2.81.9](https://github.com/paradigmxyz/reth/pull/25383#pullrequestreview-4520040525) - 2026-06-17
+* [Review] [Review on: chore(deps): bump rtCamp/action-slack-notify from 2.3.3 to 2.4.0](https://github.com/paradigmxyz/reth/pull/25385#pullrequestreview-4520040136) - 2026-06-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

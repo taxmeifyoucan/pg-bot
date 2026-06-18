@@ -92,6 +92,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core/vm: fix random stack error message](https://github.com/ethereum/go-ethereum/pull/35134#pullrequestreview-4487473340) - 2026-06-12
 * [Review] [Review on: core/vm: compute stack operations in place](https://github.com/ethereum/go-ethereum/pull/35156#pullrequestreview-4485053932) - 2026-06-12
 * [Commit] [internal/memlimit: respect cgroup memory cap (#34947)](https://github.com/ethereum/go-ethereum/commit/d93dda49c8e5b0530fbddc16d61592ecf7e32b78) - 2026-06-12
+* [Review] [Review on: eth/catalyst: add testing_commitBlockV1](https://github.com/ethereum/go-ethereum/pull/34995#pullrequestreview-4516896948) - 2026-06-17
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20
@@ -108,6 +109,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: feat: eth_baseFee](https://github.com/ethereum/execution-apis/pull/795#pullrequestreview-4422830873) - 2026-06-03
 * [Review] [Review on: Default Block param to 'latest' on eth_* state methods](https://github.com/ethereum/execution-apis/pull/812#pullrequestreview-4417242805) - 2026-06-03
 * [Pull Request] [error-groups: tx validation, execution and txpool error codes](https://github.com/ethereum/execution-apis/pull/823) - 2026-06-09
+* [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4516533696) - 2026-06-17
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [cmd: add hivequery (hq) command](https://github.com/ethereum/hive/pull/1438) - 2026-04-20
 * [Commit] [cmd/hq: add hivequery (hq) command (#1438)](https://github.com/ethereum/hive/commit/e4209f3c6a50b82e022730f5e49c3b331fc10e8c) - 2026-04-21

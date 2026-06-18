@@ -68,6 +68,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Publish Gloas data column sidecars only when self-building payload](https://github.com/grandinetech/grandine/pull/754) - 2026-06-15
 * [Issue] [[Bug] Still publish data column sidecars even accepted bid from a builder](https://github.com/grandinetech/grandine/issues/753) - 2026-06-15
 * [Review] [Review on: Don't invalidate Gloas beacon block if execution payload envelope get…](https://github.com/grandinetech/grandine/pull/756#pullrequestreview-4503609958) - 2026-06-16
+* [Pull Request] [Check prev_randao in payload bid](https://github.com/grandinetech/grandine/pull/762) - 2026-06-18
+* [Issue] [[Glamsterdam] Reject bids with invalid `prev_randao` during gossip validation](https://github.com/grandinetech/grandine/issues/761) - 2026-06-17
 ## Q1 2026
 
 

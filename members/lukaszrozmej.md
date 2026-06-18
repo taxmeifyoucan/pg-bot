@@ -697,6 +697,18 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fixed message to return insufficient funds](https://github.com/NethermindEth/nethermind/pull/12001#pullrequestreview-4504430029) - 2026-06-16
 * [Review] [Review on: perf(flat): decouple RocksDB write-buffer floor from CompactSize](https://github.com/NethermindEth/nethermind/pull/11936#pullrequestreview-4504344234) - 2026-06-16
 * [Review] [Review on: fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update](https://github.com/NethermindEth/nethermind/pull/11995#pullrequestreview-4504185300) - 2026-06-16
+* [Review] [Review on: AuRa: move finalization manager and terminal-block disposer to DI](https://github.com/NethermindEth/nethermind/pull/12036#pullrequestreview-4515461094) - 2026-06-17
+* [Review] [Review on: Allow no-op EVM execution](https://github.com/NethermindEth/nethermind/pull/11932#pullrequestreview-4516423173) - 2026-06-17
+* [Review] [Review on: ci(expb): pass tuning env vars to the expb benchmark process](https://github.com/NethermindEth/nethermind/pull/12022#pullrequestreview-4513717859) - 2026-06-17
+* [Review] [Review on: fix(simulate): return 0 for unresolvable BLOCKHASH in eth_simulateV1 instead of throwing](https://github.com/NethermindEth/nethermind/pull/12037#pullrequestreview-4516391878) - 2026-06-17
+* [Review] [Review on: Blob fee check fix](https://github.com/NethermindEth/nethermind/pull/12027#pullrequestreview-4515000928) - 2026-06-17
+* [Review] [Review on: Geth error message fix](https://github.com/NethermindEth/nethermind/pull/12028#pullrequestreview-4514882926) - 2026-06-17
+* [Review] [Review on: stop skipping hive tests which are fixed by commit #822 in execution-apis](https://github.com/NethermindEth/nethermind/pull/12031#pullrequestreview-4514884617) - 2026-06-17
+* [Review] [Review on: perf(processing): reduce empty/near-empty block overhead](https://github.com/NethermindEth/nethermind/pull/12030#pullrequestreview-4514975301) - 2026-06-17
+* [Review] [Review on: Fix - Consensus Flaky Test](https://github.com/NethermindEth/nethermind/pull/12026#pullrequestreview-4513622385) - 2026-06-17
+* [Review] [Review on: RPC admin_* - pause & resume block processing](https://github.com/NethermindEth/nethermind/pull/12020#pullrequestreview-4513169880) - 2026-06-17
+* [Review] [Review on: ci(expb): wire multi-image analyze step outputs](https://github.com/NethermindEth/nethermind/pull/11369#pullrequestreview-4513630655) - 2026-06-17
+* [Review] [Review on: RefList16 fix](https://github.com/NethermindEth/nethermind/pull/12021#pullrequestreview-4513216425) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

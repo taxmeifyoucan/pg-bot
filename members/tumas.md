@@ -39,6 +39,8 @@ Team: Grandine
 * [Review] [Review on: Pack attestations filtered by dependent root](https://github.com/grandinetech/grandine/pull/736#pullrequestreview-4437489302) - 2026-06-05
 * [Review] [Review on: Fix Gloas attestation balance apply issue](https://github.com/grandinetech/grandine/pull/747#pullrequestreview-4467287266) - 2026-06-10
 * [Review] [Review on: Pack attestations filtered by dependent root](https://github.com/grandinetech/grandine/pull/758#pullrequestreview-4507494998) - 2026-06-16
+* [Review] [Review on: Update block timeliness logic](https://github.com/grandinetech/grandine/pull/759#pullrequestreview-4515407155) - 2026-06-17
+* [Review] [Review on: Reintroduce networking spec tests](https://github.com/grandinetech/grandine/pull/719#pullrequestreview-4514416308) - 2026-06-17
 ## Q1 2026
 
 

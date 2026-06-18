@@ -66,6 +66,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Commit] [Update EIP-7904: Convert to Informational (no compute repricing needed)](https://github.com/ethereum/EIPs/commit/cb113ac7eef3478af01e5825254a162221eed64f) - 2026-06-12
 * [Pull Request] [Update EIP-8037: resolve EIP-7928 conflict and route state-gas refills to origin](https://github.com/ethereum/EIPs/pull/11807) - 2026-06-16
 * [Review] [Review on: Update EIP-8037: resolve EIP-7928 conflict and route state-gas refills to origin](https://github.com/ethereum/EIPs/pull/11807#pullrequestreview-4507531617) - 2026-06-16
+* [Review] [Review on: Update EIP-2780: Rework as resource-based intrinsic transaction gas](https://github.com/ethereum/EIPs/pull/11645#pullrequestreview-4512989594) - 2026-06-17
 ## Q1 2026
 
 

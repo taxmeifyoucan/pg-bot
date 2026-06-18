@@ -98,6 +98,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [Add EEST validation for public R2 stateless input batches](https://github.com/eth-act/zkevm-benchmark-workload/pull/294) - 2026-06-16
 * [Review] [Review on: Add EEST validation for public R2 stateless input batches](https://github.com/eth-act/zkevm-benchmark-workload/pull/294#pullrequestreview-4511145387) - 2026-06-16
 * [Commit] [Add EEST validation for public R2 stateless input batches (#294)](https://github.com/eth-act/zkevm-benchmark-workload/commit/609ce069c70473bf1d0289c33d15210cfc827da9) - 2026-06-17
+* [Pull Request] [feat: add --guest-artifact-base-url as workaround and zesu support](https://github.com/eth-act/zkevm-benchmark-workload/pull/295) - 2026-06-17
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4061833090) - 2026-04-06
 * [Review] [Review on: feat(stateless): make witness generation conform to the draft specs](https://github.com/paradigmxyz/reth/pull/22289#pullrequestreview-4075611966) - 2026-04-08

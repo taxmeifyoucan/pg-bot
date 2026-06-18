@@ -81,6 +81,11 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Validate block access list code changes](https://github.com/status-im/nimbus-eth1/pull/4326) - 2026-06-12
 * [Commit] [Validate block access list code changes (#4326)](https://github.com/status-im/nimbus-eth1/commit/e8389e6afc79c3c756b50ccb1ce075d5a90436ec) - 2026-06-12
 * [Pull Request] [Remove GC types from BAL builder](https://github.com/status-im/nimbus-eth1/pull/4329) - 2026-06-16
+* [Pull Request] [Write caches during parallel stateroot computation](https://github.com/status-im/nimbus-eth1/pull/4340) - 2026-06-17
+* [Pull Request] [Move stateless tests into sub folder](https://github.com/status-im/nimbus-eth1/pull/4335) - 2026-06-17
+* [Commit] [Write caches during parallel stateroot computation (#4340)](https://github.com/status-im/nimbus-eth1/commit/ab51f60cd01116dafbba97045b573e9afc798544) - 2026-06-17
+* [Commit] [Move stateless tests into sub folder (#4335)](https://github.com/status-im/nimbus-eth1/commit/a0cf3551ec60b2b96d2c58c679349b7fb74e5006) - 2026-06-17
+* [Commit] [Remove GC types from BAL builder (#4329)](https://github.com/status-im/nimbus-eth1/commit/fe1f0bbfa5ffd321a087d6cef8b86ebc8f980c00) - 2026-06-17
 ## Q1 2026
 
 

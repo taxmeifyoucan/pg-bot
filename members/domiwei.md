@@ -103,6 +103,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.5] cl/phase1/forkchoice: fix block_importing_latency never recording on Fulu+](https://github.com/erigontech/erigon/pull/21843#pullrequestreview-4505463071) - 2026-06-16
 * [Review] [Review on: [r3.5] execution/rlp, execution/types: reject malformed RLP instead of dropping elements](https://github.com/erigontech/erigon/pull/21819#pullrequestreview-4503946911) - 2026-06-16
 * [Commit] [cl, execution: glamsterdam devnet-5 fixes (#21655)](https://github.com/erigontech/erigon/commit/a2f483ad07093b21fab441e4c26808b5eeaf40b7) - 2026-06-16
+* [Pull Request] [cl, sentinel: quiet data column sidecar misses](https://github.com/erigontech/erigon/pull/21686) - 2026-06-17
+* [Commit] [cl, sentinel: quiet data column sidecar misses (#21686)](https://github.com/erigontech/erigon/commit/04098aa692332a4d15f4d1e38a17f53cbe7e00ed) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

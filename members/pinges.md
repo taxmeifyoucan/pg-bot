@@ -60,6 +60,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Pull Request] [Lazy RLP decoding for GetByteCodesMessage](https://github.com/besu-eth/besu/pull/10652) - 2026-06-16
 * [Review] [Review on: Lazy RLP decoding for GetByteCodesMessage](https://github.com/besu-eth/besu/pull/10652#pullrequestreview-4511269009) - 2026-06-17
 * [Commit] [lazy decoding of GetByteCodeMessage (#10652)](https://github.com/besu-eth/besu/commit/79a68b877c30eae87146e3e6972a8b58cb7c7813) - 2026-06-17
+* [Review] [Review on: Snap-sync: recover when a former pivot (now a download anchor) is reorged](https://github.com/besu-eth/besu/pull/10647#pullrequestreview-4519896479) - 2026-06-17
+* [Pull Request] [lazy decoding of GetStorageRangeMessage account hashes](https://github.com/besu-eth/besu/pull/10660) - 2026-06-17
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [snap: GetTrieNodes accepts invalid compact-encoded paths instead of rejecting them](https://github.com/ethereum/go-ethereum/issues/34853) - 2026-04-30
 

@@ -109,6 +109,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Bazel phase 1](https://github.com/OffchainLabs/prysm/pull/16986) - 2026-06-16
 * [Issue] [Remove Bazel](https://github.com/OffchainLabs/prysm/issues/16982) - 2026-06-16
 * [Commit] [Update mock gen (#16985)](https://github.com/OffchainLabs/prysm/commit/d8583dd03cff2131c87455b236915ac51f7e4e82) - 2026-06-16
+* [Review] [Review on: Remove deadcodes](https://github.com/OffchainLabs/prysm/pull/16971#pullrequestreview-4513584579) - 2026-06-17
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

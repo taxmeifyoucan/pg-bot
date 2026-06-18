@@ -285,6 +285,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Add Gloas builder API HTTP client](https://github.com/OffchainLabs/prysm/pull/16984) - 2026-06-16
 * [Review] [Review on: Add Gloas builder API protobuf types and auth domain](https://github.com/OffchainLabs/prysm/pull/16977#pullrequestreview-4503052191) - 2026-06-16
 * [Commit] [Add Gloas builder API protobuf types and auth domain (#16977)](https://github.com/OffchainLabs/prysm/commit/6dde0acda6a9fdb8bbf95fed8591eb4ee9674c6f) - 2026-06-16
+* [Pull Request] [Seed bid KZG commitments on Gloas columns in by-root sync verification](https://github.com/OffchainLabs/prysm/pull/16992) - 2026-06-17
+* [Pull Request] [Set bid KZG commitments on Gloas data columns in the DA availability check](https://github.com/OffchainLabs/prysm/pull/16988) - 2026-06-17
+* [Pull Request] [Fail execution payload envelope data column check during sync instead of blocking](https://github.com/OffchainLabs/prysm/pull/16994) - 2026-06-18
+* [Pull Request] [Bound data column availability wait in `ReceiveExecutionPayloadEnvelope`](https://github.com/OffchainLabs/prysm/pull/16991) - 2026-06-17
+* [Pull Request] [Fail fast on data column availability check for past-slot blocks during sync](https://github.com/OffchainLabs/prysm/pull/16993) - 2026-06-18
+* [Review] [Review on: Recover Payload insertion](https://github.com/OffchainLabs/prysm/pull/16981#pullrequestreview-4519638245) - 2026-06-17
+* [Review] [Review on: Bound data-column availability wait during batch sync](https://github.com/OffchainLabs/prysm/pull/16978#pullrequestreview-4517127312) - 2026-06-17
+* [Review] [Review on: Don't request data columns for empty slots in initial sync](https://github.com/OffchainLabs/prysm/pull/16976#pullrequestreview-4517076566) - 2026-06-17
+* [Review] [Review on: Emit payload_attributes SSE event after the Gloas fork](https://github.com/OffchainLabs/prysm/pull/16964#pullrequestreview-4516608412) - 2026-06-17
+* [Commit] [Key payload ID cache by parent payload status (#16959)](https://github.com/OffchainLabs/prysm/commit/83c923eb3f2e9f14886deb54b04482a08162fb47) - 2026-06-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

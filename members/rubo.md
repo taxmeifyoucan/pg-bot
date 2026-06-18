@@ -141,6 +141,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(zkevm): Implement error handling](https://github.com/NethermindEth/nethermind/pull/12010) - 2026-06-15
 * [Review] [Review on: feat(zkevm): Implement error handling](https://github.com/NethermindEth/nethermind/pull/12010#pullrequestreview-4501351538) - 2026-06-15
 * [Review] [Review on: feat(zkevm): Implement error handling](https://github.com/NethermindEth/nethermind/pull/12010#pullrequestreview-4508749270) - 2026-06-16
+* [Commit] [feat(zkevm): Implement error handling (#12010)](https://github.com/NethermindEth/nethermind/commit/5497982525a8712ee01f5d8f097ee51d09abad7f) - 2026-06-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 * [Review] [Review on: feat(zkevm): prune non scheduled forks in ProtocolFork](https://github.com/ethereum/execution-specs/pull/2926#pullrequestreview-4373692443) - 2026-05-27

@@ -88,6 +88,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Add builder execution requests (EIP-8282)](https://github.com/ethereum/consensus-specs/pull/5359#pullrequestreview-4482859777) - 2026-06-12
 * [Review] [Review on: Fix some inconsistencies in fulu partial-columns spec](https://github.com/ethereum/consensus-specs/pull/5357#pullrequestreview-4482658352) - 2026-06-12
 * [Review] [Review on: Add annotation prefixes to p2p interface spec sections](https://github.com/ethereum/consensus-specs/pull/5356#pullrequestreview-4482592689) - 2026-06-12
+* [Review] [Review on: Only clear builder payment if the slashed validator is the proposer](https://github.com/ethereum/consensus-specs/pull/5365#pullrequestreview-4513588675) - 2026-06-17
+* [Commit] [Modify `get_proposer_head` for Gloas (#5348)](https://github.com/ethereum/consensus-specs/commit/cebac4ded695b6dde534a8317706d132694f161e) - 2026-06-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

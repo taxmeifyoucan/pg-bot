@@ -135,6 +135,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [downgraded snappy again](https://github.com/Consensys/teku/pull/10835) - 2026-06-16
 * [Commit] [Improve dependency update checks (#10842)](https://github.com/Consensys/teku/commit/f1354ca434ee3a8cd63316132b64dbcd1dafa27c) - 2026-06-17
 * [Commit] [downgraded snappy again (#10835)](https://github.com/Consensys/teku/commit/afdd79c6ae2ee2959848de5a7b8097ee45d7c873) - 2026-06-16
+* [Pull Request] [Reject jqwik updates past 1.9.3](https://github.com/Consensys/teku/pull/10854) - 2026-06-18
+* [Pull Request] [updated license check to latest version](https://github.com/Consensys/teku/pull/10852) - 2026-06-17
+* [Review] [Review on: Drop Windows support](https://github.com/Consensys/teku/pull/10850#pullrequestreview-4520219346) - 2026-06-17
+* [Pull Request] [Update Teku third-party dependency versions](https://github.com/Consensys/teku/pull/10844) - 2026-06-17
+* [Issue] [investigate warning around protobuf](https://github.com/Consensys/teku/issues/10853) - 2026-06-18
+* [Commit] [Implement the Gloas validator payload attestation data endpoint plumbing (#10778)](https://github.com/Consensys/teku/commit/2a0bbfca16de990572cba159e1dba25ffdba2d2f) - 2026-06-18
+* [Commit] [Update Teku third-party dependency versions (#10844)](https://github.com/Consensys/teku/commit/f488187e10c559b25288b0163fc8588e8a3a2ef7) - 2026-06-17
+* [Commit] [Update dependencies and handle Guava JRE versions (#10843)](https://github.com/Consensys/teku/commit/090b96f75d6d87576dab9223e72c02f03d878b55) - 2026-06-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 
@@ -147,6 +155,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Close cancelled network dials (#481)](https://github.com/libp2p/jvm-libp2p/commit/e4e4305db2468415fb4a03168c2ca63faa74bf55) - 2026-05-29
 * [Review] [Review on: fix(quic): close leaked dial datagram channels; harden NoiseXXCodec OOM handling](https://github.com/libp2p/jvm-libp2p/pull/490#pullrequestreview-4510900075) - 2026-06-16
 * [Review] [Review on: Fix quic close write logic](https://github.com/libp2p/jvm-libp2p/pull/489#pullrequestreview-4510862992) - 2026-06-16
+* [Review] [Review on: fix(tls,quic): expose libp2p host pubkey as remotePubKey, not the ephemeral cert subject key 2/2](https://github.com/libp2p/jvm-libp2p/pull/492#pullrequestreview-4512528300) - 2026-06-17
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/224) - 2026-05-11
 * [Commit] [Downgrade routine peer-interaction logs from DEBUG to TRACE (#224)](https://github.com/Consensys/discovery/commit/9b9119956dac602cd21dd332f2d2415923d74c22) - 2026-05-11

@@ -217,6 +217,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: get attestation block head](https://github.com/ChainSafe/lodestar/pull/9500) - 2026-06-10
 * [Pull Request] [feat: prune PayloadEnvelopeInput when syncing](https://github.com/ChainSafe/lodestar/pull/9509) - 2026-06-15
 * [Issue] [BeaconEngine](https://github.com/ChainSafe/lodestar/issues/9508) - 2026-06-15
+* [Review] [Review on: fix: download proposer duties for the next epoch post-fulu](https://github.com/ChainSafe/lodestar/pull/9380#pullrequestreview-4513018703) - 2026-06-17
+* [Pull Request] [fix: add fallback handler for getProposerDuties](https://github.com/ChainSafe/lodestar/pull/9518) - 2026-06-17
+* [Review] [Review on: fix: add fallback handler for getProposerDuties](https://github.com/ChainSafe/lodestar/pull/9518#pullrequestreview-4513122122) - 2026-06-17
+* [Review] [Review on: fix: fall back to head root for proposer dep_root on future decision slot](https://github.com/ChainSafe/lodestar/pull/9499#pullrequestreview-4513012342) - 2026-06-17
+* [Commit] [fix: add fallback handler for getProposerDuties (#9518)](https://github.com/ChainSafe/lodestar/commit/864ddbe472ce60c2dc1a977b783a949f83d4df66) - 2026-06-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
@@ -228,6 +233,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Proposer builds an orphaned block due to conflict between get_head() and should_build_on_full()](https://github.com/ethereum/consensus-specs/issues/5307) - 2026-05-28
 * [Review] [Review on: Limit `should_build_on_full` checks to the previous slot](https://github.com/ethereum/consensus-specs/pull/5309#pullrequestreview-4401926933) - 2026-06-01
 * [Review] [Review on: Add builder execution requests (EIP-8282)](https://github.com/ethereum/consensus-specs/pull/5359#pullrequestreview-4505361218) - 2026-06-16
+* [Review] [Review on: Add builder execution requests (EIP-8282)](https://github.com/ethereum/consensus-specs/pull/5359#pullrequestreview-4513217773) - 2026-06-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: support multi-threaded RefCount](https://github.com/ChainSafe/lodestar-z/pull/62) - 2026-04-17
 * [Commit] [fix: support multi-threaded RefCount (#62)](https://github.com/ChainSafe/lodestar-z/commit/28edb161478f2e45a00f0418624e97028ad38b3b) - 2026-04-17

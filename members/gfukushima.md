@@ -85,6 +85,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Add jdk.management module to Docker runtime for process_cpu_seconds_total](https://github.com/Consensys/teku/pull/10841#pullrequestreview-4511129106) - 2026-06-16
 * [Pull Request] [Update besu version and besu version on ATs](https://github.com/Consensys/teku/pull/10836) - 2026-06-16
 * [Commit] [Update besu version and besu version on ATs (#10836)](https://github.com/Consensys/teku/commit/3216a3b57dff24d476751142b1364501fbd61394) - 2026-06-16
+* [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys/teku/pull/10851#pullrequestreview-4520681682) - 2026-06-18
 ## Q1 2026
 
 

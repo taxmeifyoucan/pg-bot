@@ -374,6 +374,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update dependency milagro_bls_binding to v1.9.1](https://github.com/ethereum/consensus-specs/pull/5362#pullrequestreview-4505313713) - 2026-06-16
 * [Review] [Review on: Update dependency pytest to v9.1.0](https://github.com/ethereum/consensus-specs/pull/5363#pullrequestreview-4504944342) - 2026-06-16
 * [Commit] [Bump version to v1.7.0-alpha.11 (#5366)](https://github.com/ethereum/consensus-specs/commit/30aa65fc21cf7f7c7dd1f7d6b686d0250462d04f) - 2026-06-16
+* [Review] [Review on: Fix typos in fork choice compliance runner](https://github.com/ethereum/consensus-specs/pull/5370#pullrequestreview-4519121235) - 2026-06-17
+* [Review] [Review on: Add test for `get_builders_sweep_withdrawals`](https://github.com/ethereum/consensus-specs/pull/5369#pullrequestreview-4519176680) - 2026-06-17
+* [Review] [Review on: Add `process_attestation` test for builder payment weight count](https://github.com/ethereum/consensus-specs/pull/5367#pullrequestreview-4519130955) - 2026-06-17
+* [Review] [Review on: Pass only signed bid to `process_execution_payload_bid`](https://github.com/ethereum/consensus-specs/pull/5364#pullrequestreview-4515127715) - 2026-06-17
+* [Pull Request] [Get proposer index via `get_beacon_proposer_index`](https://github.com/ethereum/consensus-specs/pull/5368) - 2026-06-17
+* [Review] [Review on: Only clear builder payment if the slashed validator is the proposer](https://github.com/ethereum/consensus-specs/pull/5365#pullrequestreview-4513519261) - 2026-06-17
+* [Commit] [Get proposer index via `get_beacon_proposer_index` (#5368)](https://github.com/ethereum/consensus-specs/commit/d094f8638b582fa841081617be0a6edb7c57fa6d) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

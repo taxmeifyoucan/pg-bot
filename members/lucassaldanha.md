@@ -97,6 +97,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Add jdk.management module to Docker runtime for process_cpu_seconds_total](https://github.com/Consensys/teku/pull/10841) - 2026-06-16
 * [Review] [Review on: downgraded snappy again](https://github.com/Consensys/teku/pull/10835#pullrequestreview-4503089595) - 2026-06-16
 * [Commit] [Add jdk.management module to Docker runtime for process_cpu_seconds_total (#10841)](https://github.com/Consensys/teku/commit/48e7adc278030eafea92bec2e735351824ad4fd6) - 2026-06-16
+* [Review] [Review on: Implement the Gloas validator payload attestation data endpoint plumbing](https://github.com/Consensys/teku/pull/10778#pullrequestreview-4520512458) - 2026-06-18
+* [Pull Request] [Drop Windows support](https://github.com/Consensys/teku/pull/10850) - 2026-06-17
+* [Review] [Review on: Update Teku third-party dependency versions](https://github.com/Consensys/teku/pull/10844#pullrequestreview-4520008305) - 2026-06-17
+* [Commit] [Drop Windows support (#10850)](https://github.com/Consensys/teku/commit/98f11a179d679b213ec4f35638c14ee01dd4efba) - 2026-06-17
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
@@ -163,6 +167,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Merge pull request #490 from lucassaldanha/fix/xxnoise-oom](https://github.com/libp2p/jvm-libp2p/commit/138fe9eb05fea36e6b5669b9d283f9710aab7ca7) - 2026-06-16
 * [Commit] [Merge branch 'develop' into fix/xxnoise-oom](https://github.com/libp2p/jvm-libp2p/commit/40beea9241af841f8c95e7cee37cf95850aefa04) - 2026-06-16
 * [Commit] [Merge pull request #489 from lucassaldanha/fix-quic-close-write](https://github.com/libp2p/jvm-libp2p/commit/2ec3aa6639f1977d6b89f9cb766ef49a5463b321) - 2026-06-16
+* [Pull Request] [fix(tls,quic): expose libp2p host pubkey as remotePubKey, not the ephemeral cert subject key 2/2](https://github.com/libp2p/jvm-libp2p/pull/492) - 2026-06-17
+* [Commit] [Merge pull request #492 from lucassaldanha/fix-quic-pubkey](https://github.com/libp2p/jvm-libp2p/commit/5c82c2fbfe98271d7cd4b33f867c025d845b2bca) - 2026-06-17
+* [Commit] [fix(quic): warm address cache and close channel on hole-punch failure](https://github.com/libp2p/jvm-libp2p/commit/1915a6341971ff0afac128105e518d23c3446cb2) - 2026-06-17
+* [Commit] [fix(quic): cache connection addresses to avoid NPE on freed channel](https://github.com/libp2p/jvm-libp2p/commit/d500b622e1263c2c4ed68d741183eb38c27cd8cb) - 2026-06-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

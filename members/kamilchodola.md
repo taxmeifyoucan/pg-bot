@@ -111,6 +111,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: chore: update publish docker github actions docker/login-action, dock…](https://github.com/NethermindEth/nethermind/pull/10778#pullrequestreview-4507145315) - 2026-06-16
 * [Review] [Review on: Add external plugin compatibility check CI workflow](https://github.com/NethermindEth/nethermind/pull/10412#pullrequestreview-4507088843) - 2026-06-16
 * [Commit] [perf(flat): decouple RocksDB write-buffer floor from CompactSize (#11936)](https://github.com/NethermindEth/nethermind/commit/6ff112117b7eec22620ac630063bd4f25a51f10b) - 2026-06-16
+* [Pull Request] [ci(expb): pass tuning env vars to the expb benchmark process](https://github.com/NethermindEth/nethermind/pull/12022) - 2026-06-17
+* [Pull Request] [fix(simulate): return 0 for unresolvable BLOCKHASH in eth_simulateV1 instead of throwing](https://github.com/NethermindEth/nethermind/pull/12037) - 2026-06-17
+* [Pull Request] [perf(processing): reduce empty/near-empty block overhead](https://github.com/NethermindEth/nethermind/pull/12030) - 2026-06-17
+* [Commit] [perf(processing): reduce empty/near-empty block overhead (#12030)](https://github.com/NethermindEth/nethermind/commit/7103106fb66c64af445db14ad860603d574fe91f) - 2026-06-17
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

@@ -304,6 +304,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(rpc): unsafe `ValueTask` synchronous wait during streaming](https://github.com/NethermindEth/nethermind/pull/12006#pullrequestreview-4500905175) - 2026-06-15
 * [Review] [Review on: Allow to omit TargetGasLimit](https://github.com/NethermindEth/nethermind/pull/12004#pullrequestreview-4501397442) - 2026-06-15
 * [Review] [Review on: fix(json): stop CountingStreamPipeWriter.Advance from flushing mid-write](https://github.com/NethermindEth/nethermind/pull/12002#pullrequestreview-4504559748) - 2026-06-16
+* [Review] [Review on: Increase KeccakCache size](https://github.com/NethermindEth/nethermind/pull/12042#pullrequestreview-4519431171) - 2026-06-17
+* [Review] [Review on: Fix Flaky Merge Test](https://github.com/NethermindEth/nethermind/pull/12046#pullrequestreview-4519433669) - 2026-06-17
+* [Review] [Review on: Blob fee check fix](https://github.com/NethermindEth/nethermind/pull/12027#pullrequestreview-4515230860) - 2026-06-17
+* [Review] [Review on: Geth error message fix](https://github.com/NethermindEth/nethermind/pull/12028#pullrequestreview-4515224939) - 2026-06-17
+* [Review] [Review on: RefList16 fix](https://github.com/NethermindEth/nethermind/pull/12021#pullrequestreview-4512146668) - 2026-06-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

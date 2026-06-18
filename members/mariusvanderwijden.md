@@ -97,6 +97,9 @@ Team: Geth
 * [Review] [Review on: cmd/geth: return error when traverse-rawstate root is missing](https://github.com/ethereum/go-ethereum/pull/35166#pullrequestreview-4500684218) - 2026-06-15
 * [Review] [Review on: accounts/external: forward blob fee cap to external signer](https://github.com/ethereum/go-ethereum/pull/35167#pullrequestreview-4500677475) - 2026-06-15
 * [Pull Request] [core: implement EIP-8282: Builder Execution Requests](https://github.com/ethereum/go-ethereum/pull/35175) - 2026-06-15
+* [Pull Request] [Eip 8279](https://github.com/ethereum/go-ethereum/pull/35187) - 2026-06-17
+* [Pull Request] [Glamsterdam devnet 5](https://github.com/ethereum/go-ethereum/pull/35185) - 2026-06-17
+* [Pull Request] [core: experiment with reducing allocs for transfers](https://github.com/ethereum/go-ethereum/pull/35186) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

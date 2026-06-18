@@ -795,6 +795,21 @@ Team: Erigon
 * [Commit] [cl/sentinel: pass ctx through StartSentinelService → stickToPeers (#21786)](https://github.com/erigontech/erigon/commit/5efb6be936a232b360ee9b04d47723a4c85ad6c8) - 2026-06-16
 * [Commit] [db/datastruct/btindex: drop unused minDelta field from BtIndexWriter (#21834)](https://github.com/erigontech/erigon/commit/1c65092bddc0524d2118f4f0301f7921f65a8e6d) - 2026-06-16
 * [Commit] [[3.6] domain: existence filter to ShardedFuse (#21773)](https://github.com/erigontech/erigon/commit/422c617dfc463cd5d72ab67834f508761c003637) - 2026-06-16
+* [Pull Request] [btindex: add `M` to file, reduce RAM usage of `Build()` (#21778)](https://github.com/erigontech/erigon/pull/21872) - 2026-06-18
+* [Pull Request] [snapshotsync: prune blocks in one PruneBlocks call per cycle (#21861)](https://github.com/erigontech/erigon/pull/21873) - 2026-06-18
+* [Pull Request] [execution/types: reduce typed-transaction Hash() allocations (no []any, no reflection)](https://github.com/erigontech/erigon/pull/21858) - 2026-06-17
+* [Review] [Review on: execution/types: reduce typed-transaction Hash() allocations (no []any, no reflection)](https://github.com/erigontech/erigon/pull/21858#pullrequestreview-4516473248) - 2026-06-17
+* [Pull Request] [db/recsplit: use SmallSortableBuffers for bucket collector ETL (#21830)](https://github.com/erigontech/erigon/pull/21871) - 2026-06-18
+* [Pull Request] [db/recsplit: use SmallSortableBuffers for bucket collector ETL](https://github.com/erigontech/erigon/pull/21830) - 2026-06-18
+* [Review] [Review on: [SharovBot] execution/rlp: revert stale listLimit re-read causing wrong trie root regression](https://github.com/erigontech/erigon/pull/21867#pullrequestreview-4516968777) - 2026-06-17
+* [Review] [Review on: execution/commitment: include exclusion proofs for absent storage slots in execution witness](https://github.com/erigontech/erigon/pull/21854#pullrequestreview-4516539821) - 2026-06-17
+* [Pull Request] [db/rawdb, snapshotsync: cut cursor & per-block allocs in PruneBlocks](https://github.com/erigontech/erigon/pull/21861) - 2026-06-17
+* [Review] [Review on: execution/commitment: route trie trace through an io.Writer](https://github.com/erigontech/erigon/pull/21859#pullrequestreview-4514916075) - 2026-06-17
+* [Review] [Review on: cmd: make 'seg ls' work without chaindata via graceful degradation](https://github.com/erigontech/erigon/pull/21862#pullrequestreview-4514909499) - 2026-06-17
+* [Review] [Review on: [SharovBot] execution/rlp: fix stale listLimit in Stream.Kind() causing round-trip failure](https://github.com/erigontech/erigon/pull/21839#pullrequestreview-4512374856) - 2026-06-17
+* [Review] [Review on: cmd: accept N+ syntax in seg rm-state --step flag](https://github.com/erigontech/erigon/pull/21853#pullrequestreview-4512135358) - 2026-06-17
+* [Commit] [btindex: add `M` to file, reduce RAM usage of `Build()` (#21778)](https://github.com/erigontech/erigon/commit/2e1fc0082ee15714c0f3c8fa8ccd513563454a96) - 2026-06-17
+* [Commit] [db/rawdb, snapshotsync: cut cursor & per-block allocs in PruneBlocks (#21861)](https://github.com/erigontech/erigon/commit/6e8ffe740683b4d556d40d9e2b076492eae4b6fe) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

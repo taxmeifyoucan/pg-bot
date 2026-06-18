@@ -190,6 +190,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [evmone 0.22.0](https://github.com/ipsilon/evmone/commit/1ea75472f771999a9430d35f382ca0117b495e41) - 2026-06-13
 * [Commit] [changelog: List changes for 0.22 release (#1568)](https://github.com/ipsilon/evmone/commit/816e25d4e8299f1d0129fdd8f54bf990d6e6bc28) - 2026-06-13
 * [Commit] [evmc: Bump ABI version to 13 (#1567)](https://github.com/ipsilon/evmone/commit/8b09e509e074122e20923c90474ba78b021fd341) - 2026-06-13
+* [Pull Request] [test: Load transaction signature v as uint64](https://github.com/ipsilon/evmone/pull/1571) - 2026-06-17
+* [Review] [Review on: test: Load transaction signature v as uint64](https://github.com/ipsilon/evmone/pull/1571#pullrequestreview-4515798021) - 2026-06-17
+* [Pull Request] [test: Load transaction chainId as uint64](https://github.com/ipsilon/evmone/pull/1570) - 2026-06-17
+* [Commit] [test: Load transaction signature v as uint64 (#1571)](https://github.com/ipsilon/evmone/commit/3616ba6bf1f9194bf7e333f00afb8d06993240c1) - 2026-06-17
+* [Commit] [test: Load transaction chainId as uint64 (#1570)](https://github.com/ipsilon/evmone/commit/f200c0d3dd7d14d53e19d7c5f1125689a55f5109) - 2026-06-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10

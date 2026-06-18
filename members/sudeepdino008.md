@@ -293,6 +293,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/datastruct/btindex: simplify interpolation search](https://github.com/erigontech/erigon/pull/21799#pullrequestreview-4494843770) - 2026-06-15
 * [Issue] [rcache vi is too big?: ef as index instead of vi](https://github.com/erigontech/erigon/issues/21823) - 2026-06-15
 * [Commit] [db/datastruct/btindex: interpolation search in BTree leaf (#21813)](https://github.com/erigontech/erigon/commit/d4dbf843fe73c90fbc3505e107b4df1055949d95) - 2026-06-15
+* [Pull Request] [[WIP] btinterp vs PrefixIndex on #21778 base — perf experiment](https://github.com/erigontech/erigon/pull/21865) - 2026-06-17
+* [Review] [Review on: btindex: add `M` to file, reduce RAM usage of `Build()`](https://github.com/erigontech/erigon/pull/21778#pullrequestreview-4514974053) - 2026-06-17
+* [Review] [Review on: db/rawdb, snapshotsync: cut cursor & per-block allocs in PruneBlocks](https://github.com/erigontech/erigon/pull/21861#pullrequestreview-4514443459) - 2026-06-17
+* [Review] [Review on: bloatnet: reduce word-level compress sampling](https://github.com/erigontech/erigon/pull/21742#pullrequestreview-4512397421) - 2026-06-17
+* [Issue] [Discrepancy analysis between consensus specs and Erigon (Caplin)](https://github.com/erigontech/erigon/issues/21866) - 2026-06-17
 ## Q1 2026
 
 

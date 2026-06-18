@@ -47,6 +47,8 @@ Team: Nimbus
 * [Pull Request] [Snap sync delay contracts download until last](https://github.com/status-im/nimbus-eth1/pull/4321) - 2026-06-11
 * [Review] [Review on: sync to block head with unknown header](https://github.com/status-im/nimbus-eth1/pull/4315#pullrequestreview-4476318737) - 2026-06-11
 * [Commit] [Snap sync delay contracts download until last (#4321)](https://github.com/status-im/nimbus-eth1/commit/9b28d3c6f7f1b79085db4befc232ed02a3f1c57f) - 2026-06-11
+* [Pull Request] [Beacon sync single run header download](https://github.com/status-im/nimbus-eth1/pull/4338) - 2026-06-17
+* [Commit] [Beacon sync single run header download (#4338)](https://github.com/status-im/nimbus-eth1/commit/ca4102b3c0fc672d68e61dcee0d0ecb29d5a7379) - 2026-06-17
 ## Q1 2026
 
 

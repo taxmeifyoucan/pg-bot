@@ -301,6 +301,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [uprev web3j to 5.0.3 (#10627)](https://github.com/besu-eth/besu/commit/95c24e2703d20b3e510e4ddf992e272a175f91f1) - 2026-06-16
 * [Commit] [fix: initialize profilers list before adding gc in jmh config (#10651)](https://github.com/besu-eth/besu/commit/5a9b1e961847ebdc920639f98ce91f381c02854b) - 2026-06-16
 * [Commit] [upgrade license report plugin (#10650)](https://github.com/besu-eth/besu/commit/790548cd8e78e0fcd39d7c1eeb2721981940ab30) - 2026-06-16
+* [Pull Request] [feat(pow-removal): Phase 3 - remove miner_start, miner_stop, eth_mining RPC methods](https://github.com/besu-eth/besu/pull/10662) - 2026-06-18
+* [Review] [Review on: feat(pow-removal): Phase 2 - remove Ethash and PoW validation code](https://github.com/besu-eth/besu/pull/10659#pullrequestreview-4520305480) - 2026-06-17
+* [Commit] [feat(pow-removal): Phase 1 - remove PoW mining infrastructure (#10656)](https://github.com/besu-eth/besu/commit/8fc6805f881e605cf83d65af73096d2a65e57758) - 2026-06-17
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

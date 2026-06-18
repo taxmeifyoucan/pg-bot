@@ -348,6 +348,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(deps): bump the actions group with 2 updates](https://github.com/ChainSafe/lodestar/pull/9510#pullrequestreview-4499215218) - 2026-06-15
 * [Issue] [Builder pubkey to index cache](https://github.com/ChainSafe/lodestar/issues/9513) - 2026-06-15
 * [Review] [Review on: test: un-ignore churn related fields in gloas](https://github.com/ChainSafe/lodestar/pull/9514#pullrequestreview-4504353227) - 2026-06-16
+* [Review] [Review on: test: ignore mock reset in noise sendData benchmark](https://github.com/ChainSafe/lodestar/pull/9515#pullrequestreview-4513771120) - 2026-06-17
+* [Pull Request] [fix: defer using proposer duties v2 to gloas](https://github.com/ChainSafe/lodestar/pull/9519) - 2026-06-17
+* [Review] [Review on: fix: defer using proposer duties v2 to gloas](https://github.com/ChainSafe/lodestar/pull/9519#pullrequestreview-4514251911) - 2026-06-17
+* [Review] [Review on: fix: download proposer duties for the next epoch post-fulu](https://github.com/ChainSafe/lodestar/pull/9380#pullrequestreview-4513660923) - 2026-06-17
+* [Review] [Review on: fix: add fallback handler for getProposerDuties](https://github.com/ChainSafe/lodestar/pull/9518#pullrequestreview-4513676752) - 2026-06-17
+* [Commit] [fix: defer using proposer duties v2 to gloas (#9519)](https://github.com/ChainSafe/lodestar/commit/c04b424ca85136cbb416bca5bc1fd70bb824b547) - 2026-06-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

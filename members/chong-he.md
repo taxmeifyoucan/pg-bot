@@ -59,6 +59,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [SSZ fallback to JSON in `proposer_preferences`](https://github.com/sigp/lighthouse/pull/9475) - 2026-06-15
 * [Issue] [`/eth/v1/beacon/light_client/updates` may return incorrect data](https://github.com/sigp/lighthouse/issues/9472) - 2026-06-15
 * [Review] [Review on: Add Content-Length limit to the SSZ API HTTP endpoints](https://github.com/sigp/lighthouse/pull/9398#pullrequestreview-4504610210) - 2026-06-16
+* [Review] [Review on: Update DB docs for v8.2.0/schema v29](https://github.com/sigp/lighthouse/pull/9489#pullrequestreview-4520817978) - 2026-06-18
+* [Pull Request] [Refactor proposer_preferences_service and add add VC test](https://github.com/sigp/lighthouse/pull/9500) - 2026-06-18
 ## Q1 2026
 
 

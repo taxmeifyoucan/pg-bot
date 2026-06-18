@@ -41,6 +41,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test: fix flaky KademliaNodeSource ping assertions](https://github.com/NethermindEth/nethermind/pull/11800#pullrequestreview-4372807801) - 2026-05-27
 * [Pull Request] [Allow no-op EVM execution](https://github.com/NethermindEth/nethermind/pull/11932) - 2026-06-08
 * [Review] [Review on: style: enforce IDE0063 (use simple `using` statement)](https://github.com/NethermindEth/nethermind/pull/12014#pullrequestreview-4507211943) - 2026-06-16
+* [Pull Request] [Allow no-op EVM execution - alternative](https://github.com/NethermindEth/nethermind/pull/12041) - 2026-06-17
+* [Review] [Review on: Allow no-op EVM execution](https://github.com/NethermindEth/nethermind/pull/11932#pullrequestreview-4516754755) - 2026-06-17
 ## Q1 2026
 
 

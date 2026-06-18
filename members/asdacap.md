@@ -295,6 +295,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf: per-column write buffer caps in WriteBufferAdjuster (#10955)](https://github.com/NethermindEth/nethermind/commit/d0806267e15797d1ecf1b09db9c8d9d27ac7776a) - 2026-06-16
 * [Commit] [perf(blockchain): header-driven main-chain update to avoid deep-reorg OOM and reprocessing (#11894)](https://github.com/NethermindEth/nethermind/commit/363df9dc449b3264d3d16a59928c16320b33d65a) - 2026-06-16
 * [Commit] [fix(flatdb): make snap finalize crash-durable and the restart wipe cheap (#11997)](https://github.com/NethermindEth/nethermind/commit/92b96a067b9dbbd6cf262b7d82db37f1e7b058c7) - 2026-06-16
+* [Pull Request] [Make IP resolution lazy and self-contained; remove ResolveIps step](https://github.com/NethermindEth/nethermind/pull/12050) - 2026-06-18
+* [Pull Request] [Move BlockCacheService forkchoice hashes and gossip policy to their proper owners](https://github.com/NethermindEth/nethermind/pull/12049) - 2026-06-18
+* [Review] [Review on: perf(precompiles): add G1MSM path-attribution benchmark](https://github.com/NethermindEth/nethermind/pull/12032#pullrequestreview-4520946549) - 2026-06-18
+* [Review] [Review on: Fix undisposed array-pool list leaks](https://github.com/NethermindEth/nethermind/pull/12034#pullrequestreview-4520943872) - 2026-06-18
+* [Review] [Review on: add error in debug_traceBlock* if block is genesis](https://github.com/NethermindEth/nethermind/pull/12039#pullrequestreview-4520896054) - 2026-06-18
+* [Review] [Review on: Increase KeccakCache size](https://github.com/NethermindEth/nethermind/pull/12042#pullrequestreview-4520781087) - 2026-06-18
+* [Review] [Review on: SLOAD Improvements](https://github.com/NethermindEth/nethermind/pull/12043#pullrequestreview-4520779161) - 2026-06-18
+* [Review] [Review on: fix: do not create trie account for movePrecompileToAddress-only state overrides](https://github.com/NethermindEth/nethermind/pull/12045#pullrequestreview-4520771697) - 2026-06-18
+* [Review] [Review on: Fix Flaky Merge Test](https://github.com/NethermindEth/nethermind/pull/12046#pullrequestreview-4520766977) - 2026-06-18
+* [Pull Request] [AuRa: move finalization manager and terminal-block disposer to DI](https://github.com/NethermindEth/nethermind/pull/12036) - 2026-06-17
+* [Pull Request] [Default RocksDB exit flush to WAL-only, add opt-in full flush](https://github.com/NethermindEth/nethermind/pull/12047) - 2026-06-17
+* [Pull Request] [feat(trie): bulkset-style stateless witness generator + pipeline integration](https://github.com/NethermindEth/nethermind/pull/12029) - 2026-06-17
+* [Commit] [Refactor: collapse finalization manager into IBlockTree (#11775)](https://github.com/NethermindEth/nethermind/commit/b3f005796308322df245bab8ca2f85cbd4c1c097) - 2026-06-17
+* [Commit] [Flat: force-persist the head-reachable fork instead of an arbitrary one (#11967)](https://github.com/NethermindEth/nethermind/commit/bb3bf8d51a26dad42ac85466d923275f72284c94) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

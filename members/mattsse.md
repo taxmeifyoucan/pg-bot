@@ -655,6 +655,12 @@ Team: Reth
 * [Commit] [docs(net): document recent eth wire versions (#25316)](https://github.com/paradigmxyz/reth/commit/bd213f1fb8c02ddb92042957bcbfc792333a9055) - 2026-06-16
 * [Commit] [chore(deps): bump alloy crates to 2.1.0 (#25123)](https://github.com/paradigmxyz/reth/commit/ab38874bdf83806727abc5237be18c1ca78b6c18) - 2026-06-16
 * [Commit] [refactor(txpool): recover raw transactions as pool tx (#25238)](https://github.com/paradigmxyz/reth/commit/8299c885a29c27aa6b73b609dc2d1ad653898b3a) - 2026-06-16
+* [Review] [Review on: fix(era): omit total difficulty and accumulator for post-merge ere exports](https://github.com/paradigmxyz/reth/pull/25379#pullrequestreview-4519853004) - 2026-06-17
+* [Review] [Review on: fix(rpc): buffer trace_filter block replays](https://github.com/paradigmxyz/reth/pull/25133#pullrequestreview-4519077256) - 2026-06-17
+* [Review] [Review on: feat(era): add ere file export](https://github.com/paradigmxyz/reth/pull/25304#pullrequestreview-4518924086) - 2026-06-17
+* [Review] [Review on: perf(engine): buffer BAL execution cache metrics](https://github.com/paradigmxyz/reth/pull/25366#pullrequestreview-4516426435) - 2026-06-17
+* [Commit] [chore(deps): update alloy-eip7928 to 0.4.4 (#25368)](https://github.com/paradigmxyz/reth/commit/6085bc29344b4675397b8edb1212eacd266c12ba) - 2026-06-17
+* [Commit] [feat(provider): add sealed or recovered block lookup (#25338)](https://github.com/paradigmxyz/reth/commit/a3e173dfd7882f54dd4df469f37cb49639c0e6fb) - 2026-06-17
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -678,6 +684,10 @@ Team: Reth
 * [Commit] [feat(database): add conditional bundle update builder (#3729)](https://github.com/bluealloy/revm/commit/392ddb77ad8db642f1a283207b2e6e569270aa88) - 2026-05-30
 * [Pull Request] [feat(database): add database fallback mode for BAL misses](https://github.com/bluealloy/revm/pull/3754) - 2026-06-12
 * [Commit] [feat(database): add database fallback mode for BAL misses (#3754)](https://github.com/bluealloy/revm/commit/b48b3d502fd6ff5359b8742c2e1e03f2a47f9e87) - 2026-06-12
+* [Pull Request] [chore(deny): allow proc-macro-error2 advisory](https://github.com/bluealloy/revm/pull/3763) - 2026-06-17
+* [Pull Request] [feat(state): accept BAL account change slices](https://github.com/bluealloy/revm/pull/3762) - 2026-06-17
+* [Commit] [chore(deny): allow proc-macro-error2 advisory (#3763)](https://github.com/bluealloy/revm/commit/b401c1438a7dfd8a766249e4bd3d56404cdb7aa8) - 2026-06-17
+* [Commit] [feat(state): accept BAL account change slices (#3762)](https://github.com/bluealloy/revm/commit/b31a3d5a918f20ad73e1dddb0cc449e0815c3958) - 2026-06-17
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
 

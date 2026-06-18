@@ -141,6 +141,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Update mock gen](https://github.com/OffchainLabs/prysm/pull/16985#pullrequestreview-4510360135) - 2026-06-16
 * [Review] [Review on: replace tracked validators cache with proposer preference](https://github.com/OffchainLabs/prysm/pull/16767#pullrequestreview-4507260514) - 2026-06-16
 * [Review] [Review on: Deprecate `--http-modules` flag which isn't used](https://github.com/OffchainLabs/prysm/pull/16973#pullrequestreview-4507004893) - 2026-06-16
+* [Review] [Review on: Update changelog for v7.1.5](https://github.com/OffchainLabs/prysm/pull/16987#pullrequestreview-4518889705) - 2026-06-17
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

@@ -116,6 +116,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Fix IsOptimisticForRoot validated checkpoint summary recovery](https://github.com/OffchainLabs/prysm/pull/16969#pullrequestreview-4499227921) - 2026-06-15
 * [Review] [Review on: Key payload ID cache by parent payload status](https://github.com/OffchainLabs/prysm/pull/16959#pullrequestreview-4508457431) - 2026-06-16
 * [Pull Request] [Recover Payload insertion](https://github.com/OffchainLabs/prysm/pull/16981) - 2026-06-16
+* [Review] [Review on: Key payload ID cache by parent payload status](https://github.com/OffchainLabs/prysm/pull/16959#pullrequestreview-4516337747) - 2026-06-17
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08
@@ -162,6 +163,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Force the proposer to reorg late payloads (#5210)](https://github.com/ethereum/consensus-specs/commit/268cd2b2a3e365545446f934d8e9f86944d5d28f) - 2026-06-01
 * [Issue] [payload equivocations and PTC timeliness](https://github.com/ethereum/consensus-specs/issues/5333) - 2026-06-04
 * [Review] [Review on: Only clear builder payment if the slashed validator is the proposer](https://github.com/ethereum/consensus-specs/pull/5365#pullrequestreview-4505692404) - 2026-06-16
+* [Review] [Review on: Reject bids with invalid `prev_randao` during gossip validation](https://github.com/ethereum/consensus-specs/pull/5360#pullrequestreview-4517357439) - 2026-06-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17

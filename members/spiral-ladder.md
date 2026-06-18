@@ -167,6 +167,15 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix: no-op when syncPubkeys run on a pk cache with shrinking validator set](https://github.com/ChainSafe/lodestar-z/pull/432) - 2026-06-16
 * [Commit] [fix: no-op when syncPubkeys run on a pk cache with shrinking validator set (#432)](https://github.com/ChainSafe/lodestar-z/commit/ed05a9979518746466f3c197b828c91cd34edbe5) - 2026-06-16
 * [Commit] [refactor(bls): clean up bls (#398)](https://github.com/ChainSafe/lodestar-z/commit/e0f3b9baa8e43bc9234156e48cac9768b14ff7a3) - 2026-06-16
+* [Review] [Review on: chore: remove merge transition code](https://github.com/ChainSafe/lodestar-z/pull/359#pullrequestreview-4516441678) - 2026-06-17
+* [Pull Request] [chore(scripts): build bindings with preset](https://github.com/ChainSafe/lodestar-z/pull/434) - 2026-06-17
+* [Pull Request] [fix(bindings): populate epoch participation for test fixtures](https://github.com/ChainSafe/lodestar-z/pull/436) - 2026-06-17
+* [Pull Request] [fix(bindings): log level for missing fields](https://github.com/ChainSafe/lodestar-z/pull/435) - 2026-06-17
+* [Commit] [chore(scripts): build bindings with preset (#434)](https://github.com/ChainSafe/lodestar-z/commit/a1b5ef770534e1446744bb12d4bbc8469aabccc7) - 2026-06-17
+* [Commit] [fix(bindings): populate epoch participation for test fixtures (#436)](https://github.com/ChainSafe/lodestar-z/commit/8dbdd2ed87c2f58cf1b5415f4e031c4e4da9a451) - 2026-06-17
+* [Commit] [fix(bindings): log level for missing fields (#435)](https://github.com/ChainSafe/lodestar-z/commit/08faf41c03ebd54ee5149573f984433d721343d7) - 2026-06-17
+* [Commit] [fix: various fixes around config (#433)](https://github.com/ChainSafe/lodestar-z/commit/c4f082c00c30933ec97072bcff9966a1aa62694d) - 2026-06-17
+* [Commit] [feat(bindings): align `BeaconStateView` with `IBeaconStateView` (#347)](https://github.com/ChainSafe/lodestar-z/commit/b8ec27350b3ca64e04bb9e332552a9f629f39d8c) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

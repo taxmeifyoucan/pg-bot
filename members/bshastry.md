@@ -26,6 +26,9 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Reject tx whose calldata floor exceeds the gas-limit cap (EIP-8037)](https://github.com/besu-eth/besu/pull/10594) - 2026-06-04
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Issue] [ePBS: unauthenticated peer can persistently disable self-build payload-envelope processing by poisoning global `selfBuildSigFailures`](https://github.com/OffchainLabs/prysm/issues/16989) - 2026-06-17
 ## Q1 2026
 
 

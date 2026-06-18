@@ -13,3 +13,5 @@ Team: [Research](https://github.com/luca-zanolini/research)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Only clear builder payment if the slashed validator is the proposer](https://github.com/ethereum/consensus-specs/pull/5365) - 2026-06-16
 * [Review] [Review on: Only clear builder payment if the slashed validator is the proposer](https://github.com/ethereum/consensus-specs/pull/5365#pullrequestreview-4506856366) - 2026-06-16
+* [Review] [Review on: Only clear builder payment if the slashed validator is the proposer](https://github.com/ethereum/consensus-specs/pull/5365#pullrequestreview-4512585767) - 2026-06-17
+* [Commit] [Only clear builder payment if the slashed validator is the proposer (#5365)](https://github.com/ethereum/consensus-specs/commit/b7b3578e67a248e81808c8a2c16fbe65757e8174) - 2026-06-17

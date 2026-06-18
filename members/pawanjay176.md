@@ -64,6 +64,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Make single block lookup respect `earliest_available_slot` for column requests](https://github.com/sigp/lighthouse/pull/9447#pullrequestreview-4501586588) - 2026-06-15
 * [Review] [Review on: Make single block lookup respect `earliest_available_slot` for column requests](https://github.com/sigp/lighthouse/pull/9447#pullrequestreview-4510354617) - 2026-06-16
 * [Review] [Review on: Fix Gloas range sync issue where a batch cannot be re-fetched if the blocks were already imported](https://github.com/sigp/lighthouse/pull/9477#pullrequestreview-4510961569) - 2026-06-16
+* [Review] [Review on: Fix Gloas range sync issue where a batch cannot be re-fetched if the blocks were already imported](https://github.com/sigp/lighthouse/pull/9477#pullrequestreview-4520529790) - 2026-06-18
+* [Review] [Review on: Fix and improve handling of empty columns after getBlobs response](https://github.com/sigp/lighthouse/pull/9361#pullrequestreview-4518822618) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4100433052) - 2026-04-13

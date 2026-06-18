@@ -119,6 +119,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Update EIP-7708: Use EIP-8246 to simplify](https://github.com/ethereum/EIPs/pull/11634) - 2026-05-08
 
 * [Commit] [Update EIP-7708: Use EIP-8246 to simplify](https://github.com/ethereum/EIPs/commit/4c64c876efe01ab44aa92d2de961b20d3ffa06da) - 2026-05-16
+* [Review] [Review on: Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/pull/11760#pullrequestreview-4516331618) - 2026-06-17
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: simulators/ethereum/engine: Enforce expected blobs order by setting maxFeePerBlobGas](https://github.com/ethereum/hive/pull/1495#pullrequestreview-4299738027) - 2026-05-15
 * [Pull Request] [clients/nethermind: Update dotnet images](https://github.com/ethereum/hive/pull/1509) - 2026-05-25

@@ -468,6 +468,21 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [refactor(sumcheck): consistent expect message for concrete opening column index (#1858)](https://github.com/Plonky3/Plonky3/commit/3ae7771c54dbe07e5b6e9b31550bb3cc5fc48e5c) - 2026-06-16
 * [Commit] [test(sumcheck): add direct unit test for accumulate_next_suffix_into (#1865)](https://github.com/Plonky3/Plonky3/commit/ecf3b319f40919fe962d77bdbb9633e319f41fc4) - 2026-06-16
 * [Commit] [refactor(sumcheck): share SvoPoint constructor and accumulate prologue (#1868)](https://github.com/Plonky3/Plonky3/commit/50012c1cbb05417dceef0db6c756bad67d31a60a) - 2026-06-16
+* [Pull Request] [feat(multi-stark): AIR zerocheck via generic-degree sumcheck](https://github.com/Plonky3/Plonky3/pull/1879) - 2026-06-17
+* [Review] [Review on: perf(air): make symbolic degree calculation trace-size aware](https://github.com/Plonky3/Plonky3/pull/1878#pullrequestreview-4519208895) - 2026-06-17
+* [Review] [Review on: feat(multi-stark): add constraint metadata module](https://github.com/Plonky3/Plonky3/pull/1871#pullrequestreview-4518264519) - 2026-06-17
+* [Review] [Review on: refactor(sumcheck): share prover claim state via StackedClaims](https://github.com/Plonky3/Plonky3/pull/1856#pullrequestreview-4518193958) - 2026-06-17
+* [Review] [Review on: feat(sumcheck): add generic-degree sumcheck driver](https://github.com/Plonky3/Plonky3/pull/1699#pullrequestreview-4513761279) - 2026-06-17
+* [Pull Request] [refactor(util): replace hand-rolled assume with core::hint::assert_unchecked](https://github.com/Plonky3/Plonky3/pull/1877) - 2026-06-17
+* [Review] [Review on: feat(air): support degree-4 complex-tower extension in symbolic expressions](https://github.com/Plonky3/Plonky3/pull/1875#pullrequestreview-4515713110) - 2026-06-17
+* [Pull Request] [refactor(util): remove zip_eq helper in favor of std zip + length guard](https://github.com/Plonky3/Plonky3/pull/1876) - 2026-06-17
+* [Pull Request] [refactor(util): replace `transpose` crate with portable engine](https://github.com/Plonky3/Plonky3/pull/1874) - 2026-06-17
+* [Review] [Review on: feat: impl `PassthroughNamedAirBuilder` for `SymbolicAirBuilder`](https://github.com/Plonky3/Plonky3/pull/1873#pullrequestreview-4514192602) - 2026-06-17
+* [Commit] [feat(multi-stark): add constraint metadata module (#1871)](https://github.com/Plonky3/Plonky3/commit/f6a00be21ff60c5baba22f8a3bdc45ab6e9cde99) - 2026-06-17
+* [Commit] [refactor(sumcheck): share prover claim state via StackedClaims (#1856)](https://github.com/Plonky3/Plonky3/commit/690a7f37792df284c8f8bc31ffde21f8ff816529) - 2026-06-17
+* [Commit] [feat(sumcheck): add generic-degree sumcheck driver (#1699)](https://github.com/Plonky3/Plonky3/commit/975b4e975dc7e9836c0e25789568a3b3661ce0d2) - 2026-06-17
+* [Commit] [refactor(util): replace hand-rolled assume with core::hint::assert_unchecked (#1877)](https://github.com/Plonky3/Plonky3/commit/a13883e1e9b91dfa8f919e0b832f62448c19be9f) - 2026-06-17
+* [Commit] [refactor(util): replace `transpose` crate with portable engine (#1874)](https://github.com/Plonky3/Plonky3/commit/c70708e376f764e7cf7465882d82925eab55a3aa) - 2026-06-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05
@@ -476,6 +491,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Issue] [Post-Quantum (PQ) Interop #41, May 27, 2026](https://github.com/ethereum/pm/issues/2081) - 2026-05-27
 * [Issue] [Post-Quantum (PQ) Interop #42, June 3, 2026](https://github.com/ethereum/pm/issues/2104) - 2026-06-03
 * [Issue] [Post-Quantum (PQ) Interop #43, June 10, 2026](https://github.com/ethereum/pm/issues/2117) - 2026-06-10
+* [Issue] [Post-Quantum (PQ) Interop #44, June 17, 2026](https://github.com/ethereum/pm/issues/2128) - 2026-06-17
 ## Q1 2026
 
 

@@ -139,6 +139,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Add test to VC block production and payload envelope](https://github.com/sigp/lighthouse/pull/9453#pullrequestreview-4483569878) - 2026-06-12
 * [Pull Request] [Fix Gloas range sync issue where a batch cannot be re-fetched if the blocks were already imported](https://github.com/sigp/lighthouse/pull/9477) - 2026-06-15
 * [Issue] [Emit payload attestation votes for non-canonical envelopes](https://github.com/sigp/lighthouse/issues/9474) - 2026-06-15
+* [Review] [Review on: Fix Gloas range sync issue where a batch cannot be re-fetched if the blocks were already imported](https://github.com/sigp/lighthouse/pull/9477#pullrequestreview-4514640001) - 2026-06-17
+* [Review] [Review on: Correct unrealized justification for blocks with slashings](https://github.com/sigp/lighthouse/pull/9471#pullrequestreview-4514562019) - 2026-06-17
+* [Pull Request] [Refactor payload attestation service](https://github.com/sigp/lighthouse/pull/9492) - 2026-06-17
+* [Review] [Review on: Gloas attestation payload reprocess](https://github.com/sigp/lighthouse/pull/9440#pullrequestreview-4512959047) - 2026-06-17
+* [Review] [Review on: SSZ fallback to JSON in `proposer_preferences`](https://github.com/sigp/lighthouse/pull/9475#pullrequestreview-4513512170) - 2026-06-17
+* [Pull Request] [Gloas attestation payload reprocess tests](https://github.com/sigp/lighthouse/pull/9490) - 2026-06-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

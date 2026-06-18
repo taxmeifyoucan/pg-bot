@@ -26,6 +26,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Fix incorrect ERA files check.](https://github.com/status-im/nimbus-eth2/pull/8575) - 2026-06-09
 * [Review] [Review on: Fix incorrect ERA files check.](https://github.com/status-im/nimbus-eth2/pull/8575#pullrequestreview-4459795625) - 2026-06-09
 * [Review] [Review on: Fix incorrect ERA files check.](https://github.com/status-im/nimbus-eth2/pull/8575#pullrequestreview-4470668677) - 2026-06-10
+* [Pull Request] [Remove unused `envelope` parameter from verifySidecars() procedures.](https://github.com/status-im/nimbus-eth2/pull/8613) - 2026-06-17
 ## Q1 2026
 
 

@@ -130,6 +130,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Enable late re-org and re-org interactive tests ](https://github.com/sigp/lighthouse/pull/9405#pullrequestreview-4503615254) - 2026-06-16
 * [Review] [Review on: Use `hashlink` over `lru` for `LruCache`](https://github.com/sigp/lighthouse/pull/8911#pullrequestreview-4503760473) - 2026-06-16
 * [Review] [Review on: Enable mplex by default and change --enable-mplex to take bool](https://github.com/sigp/lighthouse/pull/9476#pullrequestreview-4503606021) - 2026-06-16
+* [Review] [Review on: Enable late re-org and re-org interactive tests ](https://github.com/sigp/lighthouse/pull/9405#pullrequestreview-4520977728) - 2026-06-18
+* [Pull Request] [Update DB docs for v8.2.0/schema v29](https://github.com/sigp/lighthouse/pull/9489) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

@@ -30,6 +30,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Review] [Review on: progressive withdrawal root and light client changes](https://github.com/OffchainLabs/prysm/pull/16885#pullrequestreview-4459778355) - 2026-06-09
 * [Review] [Review on: add ssz functions for progressive merkliezation](https://github.com/OffchainLabs/prysm/pull/16847#pullrequestreview-4459485004) - 2026-06-09
 * [Review] [Review on: Scaffold agent instructions: Add `AGENTS.md` and Prysm skills](https://github.com/OffchainLabs/prysm/pull/16898#pullrequestreview-4507932030) - 2026-06-16
+* [Commit] [Partial Messages for Data Columns (#16733)](https://github.com/OffchainLabs/prysm/commit/251fb9185d6699075fc1e954edb64328851a1f86) - 2026-06-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486) - 2026-04-09
 
