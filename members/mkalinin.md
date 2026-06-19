@@ -75,6 +75,8 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Commit] [Apply proposer boost if dependent roots match (#5306)](https://github.com/ethereum/consensus-specs/commit/d47fe5c5367d13ff46027bda21ddab0643cace98) - 2026-06-01
 * [Review] [Review on: Guard `get_parent_payload_status` at fork boundary](https://github.com/ethereum/consensus-specs/pull/5125#pullrequestreview-4412791715) - 2026-06-02
 * [Review] [Review on: Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352#pullrequestreview-4514801591) - 2026-06-17
+* [Pull Request] [Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374) - 2026-06-18
+* [Review] [Review on: Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374#pullrequestreview-4523821639) - 2026-06-18
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

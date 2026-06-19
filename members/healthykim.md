@@ -50,6 +50,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: core/txpool, miner, eth: add cache for GetBlobs request](https://github.com/ethereum/go-ethereum/pull/35124#pullrequestreview-4449685699) - 2026-06-08
 * [Commit] [core/txpool/blobpool: add cache for GetBlobs request (#35124)](https://github.com/ethereum/go-ethereum/commit/e595aedcd067304d77480fdccf504f5f121352f6) - 2026-06-11
 * [Review] [Review on: cmd/devp2p/internal/ethtest: validate received txs, not the sent ones](https://github.com/ethereum/go-ethereum/pull/35170#pullrequestreview-4506843013) - 2026-06-16
+* [Pull Request] [core/txpool: drop support for v0 blob sidecar](https://github.com/ethereum/go-ethereum/pull/35191) - 2026-06-18
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
 

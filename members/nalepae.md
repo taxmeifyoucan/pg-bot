@@ -110,6 +110,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Remove Bazel](https://github.com/OffchainLabs/prysm/issues/16982) - 2026-06-16
 * [Commit] [Update mock gen (#16985)](https://github.com/OffchainLabs/prysm/commit/d8583dd03cff2131c87455b236915ac51f7e4e82) - 2026-06-16
 * [Review] [Review on: Remove deadcodes](https://github.com/OffchainLabs/prysm/pull/16971#pullrequestreview-4513584579) - 2026-06-17
+* [Pull Request] [Remove Bazel: Phase 0/9](https://github.com/OffchainLabs/prysm/pull/17000) - 2026-06-18
+* [Review] [Review on: Deprecate flags: `--enable-db-backup-webhook`, `--slasher-rpc-provider`, `--slasher-tls-cert`.](https://github.com/OffchainLabs/prysm/pull/16997#pullrequestreview-4525047843) - 2026-06-18
+* [Review] [Review on: Use Engine API HasBlobs call to quickly advertise missing cells for partial columns](https://github.com/OffchainLabs/prysm/pull/16774#pullrequestreview-4523966103) - 2026-06-18
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

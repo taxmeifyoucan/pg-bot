@@ -142,6 +142,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: replace tracked validators cache with proposer preference](https://github.com/OffchainLabs/prysm/pull/16767#pullrequestreview-4507260514) - 2026-06-16
 * [Review] [Review on: Deprecate `--http-modules` flag which isn't used](https://github.com/OffchainLabs/prysm/pull/16973#pullrequestreview-4507004893) - 2026-06-16
 * [Review] [Review on: Update changelog for v7.1.5](https://github.com/OffchainLabs/prysm/pull/16987#pullrequestreview-4518889705) - 2026-06-17
+* [Review] [Review on: Add SubmitBuilderPreferences validator RPC for gloas builder API](https://github.com/OffchainLabs/prysm/pull/17005#pullrequestreview-4528737140) - 2026-06-18
+* [Review] [Review on: Don't request data columns for empty slots in initial sync](https://github.com/OffchainLabs/prysm/pull/16976#pullrequestreview-4528592352) - 2026-06-18
+* [Review] [Review on: Add Gloas builder API HTTP client](https://github.com/OffchainLabs/prysm/pull/16984#pullrequestreview-4526998129) - 2026-06-18
+* [Review] [Review on: Bound data-column availability wait during batch sync](https://github.com/OffchainLabs/prysm/pull/16978#pullrequestreview-4528038755) - 2026-06-18
+* [Review] [Review on: adding gossip validation on envelope api and block api default](https://github.com/OffchainLabs/prysm/pull/16960#pullrequestreview-4526472662) - 2026-06-18
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

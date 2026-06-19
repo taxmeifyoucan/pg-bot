@@ -13,6 +13,7 @@ Team: Portal Network (EF)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8141: Spec cleanup and clarifications](https://github.com/ethereum/EIPs/pull/11814) - 2026-06-17
+* [Review] [Review on: Update EIP-8141: Spec cleanup and clarifications](https://github.com/ethereum/EIPs/pull/11814#pullrequestreview-4523845720) - 2026-06-18
 ## Q1 2026
 
 

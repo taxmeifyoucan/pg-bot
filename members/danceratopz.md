@@ -147,6 +147,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): add max-code-size jumpdest test for immediate bytes](https://github.com/ethereum/execution-specs/pull/2998) - 2026-06-17
 * [Review] [Review on: feat(tests): add EIP-7954 jumpdest test past the old code-size limit](https://github.com/ethereum/execution-specs/pull/2993#pullrequestreview-4514076926) - 2026-06-17
 * [Commit] [feat(tests): add EIP-7954 jumpdest test past the old code-size limit (#2993)](https://github.com/ethereum/execution-specs/commit/c00006fb09a3975ded1906fee368d6c4402df553) - 2026-06-17
+* [Review] [Review on: feat(spec-specs, tests): add EIP-8038 state-access gas cost update](https://github.com/ethereum/execution-specs/pull/2972#pullrequestreview-4525299780) - 2026-06-18
+* [Pull Request] [chore(ci,tooling): speed up json-loader job](https://github.com/ethereum/execution-specs/pull/3010) - 2026-06-18
+* [Pull Request] [chore(ci): run benchmark sanity checks on size-xl-x64 runner](https://github.com/ethereum/execution-specs/pull/3012) - 2026-06-18
+* [Review] [Review on: chore(ci): wait for all coverage uploads before codecov reports](https://github.com/ethereum/execution-specs/pull/3008#pullrequestreview-4524739375) - 2026-06-18
+* [Issue] [Fixup magic numbers in `tests/ported_static` introduced in 8038 fixups](https://github.com/ethereum/execution-specs/issues/3016) - 2026-06-18
+* [Issue] [Express `GasCosts.CALL_VALUE` as a derivation instead of a literal](https://github.com/ethereum/execution-specs/issues/3014) - 2026-06-18
+* [Commit] [feat(tests): add max-code-size jumpdest test for immediate bytes (#2998)](https://github.com/ethereum/execution-specs/commit/5f8c109f75d51bca8b0dd04750c80bcea4fc995f) - 2026-06-18
+* [Commit] [chore(tooling): update write-test skill for automatic tx gas-limit (#2995)](https://github.com/ethereum/execution-specs/commit/fcd46ca03fd4ec098274bf8e7929c800922a0fe3) - 2026-06-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 

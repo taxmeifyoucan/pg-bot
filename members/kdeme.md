@@ -102,6 +102,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [fix stateless execution for proofs at extension boundaries](https://github.com/status-im/nimbus-eth1/pull/4333) - 2026-06-16
 * [Pull Request] [stateless: fix branch collapse on nil-vtx surviving child](https://github.com/status-im/nimbus-eth1/pull/4341) - 2026-06-17
 * [Commit] [fix stateless execution for proofs at extension boundaries (#4333)](https://github.com/status-im/nimbus-eth1/commit/89bc1c3d089c2d5de2d333a3025697636743d418) - 2026-06-17
+* [Pull Request] [Activate stateless testing default in eest tests](https://github.com/status-im/nimbus-eth1/pull/4348) - 2026-06-18
+* [Commit] [stateless: fix branch collapse on nil-vtx surviving child (#4341)](https://github.com/status-im/nimbus-eth1/commit/9ecfeb574076d1bb1ccefaad0d5337be260c6fba) - 2026-06-18
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

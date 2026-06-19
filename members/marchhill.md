@@ -93,6 +93,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [chore: bump pyspec BAL fixtures to tests-bal@v7.3.0](https://github.com/NethermindEth/nethermind/pull/11968) - 2026-06-11
 * [Review] [Review on: perf(evm): per-thread free-list for EVM memory buffers + skip redundant copy-opcode revalidation](https://github.com/NethermindEth/nethermind/pull/11884#pullrequestreview-4485950625) - 2026-06-12
 * [Commit] [Slotnum fix (#11968)](https://github.com/NethermindEth/nethermind/commit/8c09eebb8feca1dfc0c5adff770f8cb1e678a87b) - 2026-06-12
+* [Review] [Review on: EvmPoolMemory Improvement](https://github.com/NethermindEth/nethermind/pull/11991#pullrequestreview-4524335173) - 2026-06-18
+* [Review] [Review on: SLOAD Improvements](https://github.com/NethermindEth/nethermind/pull/12043#pullrequestreview-4524386750) - 2026-06-18
+* [Pull Request] [Bump pyspec fixtures to tests-bal@v7.3.2](https://github.com/NethermindEth/nethermind/pull/12060) - 2026-06-18
+* [Commit] [Bump pyspec fixtures to tests-bal@v7.3.2 (#12060)](https://github.com/NethermindEth/nethermind/commit/eb446394bab3d18903a32b0edf016cc9337db02d) - 2026-06-18
 ## Q1 2026
 
 

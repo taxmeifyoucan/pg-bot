@@ -176,6 +176,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Distinguish absent PTC votes from negative votes (#5180)](https://github.com/ethereum/consensus-specs/commit/ac6a121713e9f4ff61df408667e2a230ef44fcec) - 2026-04-29
 * [Pull Request] [Mandate QUIC as primary transport](https://github.com/ethereum/consensus-specs/pull/5330) - 2026-06-03
 
+* [Review] [Review on: Mandate QUIC as primary transport](https://github.com/ethereum/consensus-specs/pull/5330#pullrequestreview-4524059737) - 2026-06-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/pull/11760) - 2026-06-03
 ## Q1 2026

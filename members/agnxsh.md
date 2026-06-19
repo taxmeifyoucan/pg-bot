@@ -51,6 +51,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add a histogram for data availability](https://github.com/status-im/nimbus-eth2/pull/8541) - 2026-06-03
 * [Pull Request] [rename metric for da](https://github.com/status-im/nimbus-eth2/pull/8569) - 2026-06-08
 * [Pull Request] [add hezeFork to getForkSchedule](https://github.com/status-im/nimbus-eth2/pull/8571) - 2026-06-08
+* [Review] [Review on: Fix gloas sidecars handling process.](https://github.com/status-im/nimbus-eth2/pull/8628#pullrequestreview-4528701608) - 2026-06-18
 ## Q1 2026
 
 

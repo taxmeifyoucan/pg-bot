@@ -295,6 +295,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Don't request data columns for empty slots in initial sync](https://github.com/OffchainLabs/prysm/pull/16976#pullrequestreview-4517076566) - 2026-06-17
 * [Review] [Review on: Emit payload_attributes SSE event after the Gloas fork](https://github.com/OffchainLabs/prysm/pull/16964#pullrequestreview-4516608412) - 2026-06-17
 * [Commit] [Key payload ID cache by parent payload status (#16959)](https://github.com/OffchainLabs/prysm/commit/83c923eb3f2e9f14886deb54b04482a08162fb47) - 2026-06-17
+* [Pull Request] [Add Gloas builder service execution payload bid and signed block methods](https://github.com/OffchainLabs/prysm/pull/17006) - 2026-06-19
+* [Pull Request] [Add SubmitBuilderPreferences validator RPC for gloas builder API](https://github.com/OffchainLabs/prysm/pull/17005) - 2026-06-18
+* [Review] [Review on: Add Gloas builder API HTTP client](https://github.com/OffchainLabs/prysm/pull/16984#pullrequestreview-4527454158) - 2026-06-18
+* [Pull Request] [Rebroadcast pending gloas data columns](https://github.com/OffchainLabs/prysm/pull/17001) - 2026-06-18
+* [Commit] [Add SubmitBuilderPreferences validator RPC for gloas builder API (#17005)](https://github.com/OffchainLabs/prysm/commit/4c65fa098be9dff948cc1ccb6e30f999a73984cc) - 2026-06-18
+* [Commit] [Add Gloas builder API HTTP client (#16984)](https://github.com/OffchainLabs/prysm/commit/533db8089d1a801e017ad41862c4b6e905aaec27) - 2026-06-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

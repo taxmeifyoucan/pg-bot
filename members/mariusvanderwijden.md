@@ -100,12 +100,14 @@ Team: Geth
 * [Pull Request] [Eip 8279](https://github.com/ethereum/go-ethereum/pull/35187) - 2026-06-17
 * [Pull Request] [Glamsterdam devnet 5](https://github.com/ethereum/go-ethereum/pull/35185) - 2026-06-17
 * [Pull Request] [core: experiment with reducing allocs for transfers](https://github.com/ethereum/go-ethereum/pull/35186) - 2026-06-17
+* [Commit] [all: change reflect.Ptr to reflect.Pointer (#35176)](https://github.com/ethereum/go-ethereum/commit/7c9032dff68aa469de45bec53e37c68d9d2a12d9) - 2026-06-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13
 * [Review] [Review on: Add jonny from Geth team](https://github.com/protocolguild/documentation/pull/492#pullrequestreview-4104716651) - 2026-04-14
 
 * [Review] [Review on: Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/501#pullrequestreview-4492775721) - 2026-06-14
+* [Review] [Review on: chore: remove matty evans (ethpandaops)](https://github.com/protocolguild/documentation/pull/502#pullrequestreview-4523223765) - 2026-06-18
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4138859251) - 2026-04-20
 * [Pull Request] [engine: add Rest-SSZ spec](https://github.com/ethereum/execution-apis/pull/793) - 2026-05-08

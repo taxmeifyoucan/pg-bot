@@ -43,6 +43,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: style: enforce IDE0063 (use simple `using` statement)](https://github.com/NethermindEth/nethermind/pull/12014#pullrequestreview-4507211943) - 2026-06-16
 * [Pull Request] [Allow no-op EVM execution - alternative](https://github.com/NethermindEth/nethermind/pull/12041) - 2026-06-17
 * [Review] [Review on: Allow no-op EVM execution](https://github.com/NethermindEth/nethermind/pull/11932#pullrequestreview-4516754755) - 2026-06-17
+* [Review] [Review on: Allow no-op EVM execution](https://github.com/NethermindEth/nethermind/pull/11932#pullrequestreview-4525074041) - 2026-06-18
+* [Review] [Review on: feat(engine): align SSZ-REST wire format with execution-apis#793 update](https://github.com/NethermindEth/nethermind/pull/11998#pullrequestreview-4522661218) - 2026-06-18
 ## Q1 2026
 
 

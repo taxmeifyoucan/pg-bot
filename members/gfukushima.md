@@ -86,6 +86,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Update besu version and besu version on ATs](https://github.com/Consensys/teku/pull/10836) - 2026-06-16
 * [Commit] [Update besu version and besu version on ATs (#10836)](https://github.com/Consensys/teku/commit/3216a3b57dff24d476751142b1364501fbd61394) - 2026-06-16
 * [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys/teku/pull/10851#pullrequestreview-4520681682) - 2026-06-18
+* [Review] [Review on: Update GetBlockV3Test to include appropriate HTTP status codes](https://github.com/Consensys/teku/pull/10856#pullrequestreview-4529594947) - 2026-06-19
+* [Pull Request] [Clear builder payment if proposer is slashed](https://github.com/Consensys/teku/pull/10855) - 2026-06-18
+* [Pull Request] [Clear builder payment if proposer is slashed](https://github.com/Consensys/teku/pull/10857) - 2026-06-18
+* [Review] [Review on: Reject jqwik updates past 1.9.3](https://github.com/Consensys/teku/pull/10854#pullrequestreview-4521404179) - 2026-06-18
 ## Q1 2026
 
 

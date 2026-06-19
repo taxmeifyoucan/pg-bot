@@ -381,6 +381,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Get proposer index via `get_beacon_proposer_index`](https://github.com/ethereum/consensus-specs/pull/5368) - 2026-06-17
 * [Review] [Review on: Only clear builder payment if the slashed validator is the proposer](https://github.com/ethereum/consensus-specs/pull/5365#pullrequestreview-4513519261) - 2026-06-17
 * [Commit] [Get proposer index via `get_beacon_proposer_index` (#5368)](https://github.com/ethereum/consensus-specs/commit/d094f8638b582fa841081617be0a6edb7c57fa6d) - 2026-06-17
+* [Pull Request] [Reset withdrawable epoch when depositing to an exited builder](https://github.com/ethereum/consensus-specs/pull/5373) - 2026-06-18
+* [Review] [Review on: Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374#pullrequestreview-4523672470) - 2026-06-18
+* [Review] [Review on: Remove the IL bitlist from bid](https://github.com/ethereum/consensus-specs/pull/5371#pullrequestreview-4522899479) - 2026-06-18
+* [Review] [Review on: Align fork version modifiers](https://github.com/ethereum/consensus-specs/pull/5372#pullrequestreview-4522798908) - 2026-06-18
+* [Commit] [Reset withdrawable epoch when depositing to an exited builder (#5373)](https://github.com/ethereum/consensus-specs/commit/9bf115fe30b3ed55dc889b61c7d7babcf002e7ce) - 2026-06-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 
@@ -405,6 +410,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat: drop legacy eth1 bridge deposits from Fulu onwards (consensus-specs #4704)](https://github.com/ChainSafe/lodestar/pull/9458#pullrequestreview-4421189607) - 2026-06-03
 * [Review] [Review on: feat: eip-8282 builder execution requests scaffolding](https://github.com/ChainSafe/lodestar/pull/9507#pullrequestreview-4489927912) - 2026-06-12
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/pull/11760#pullrequestreview-4526815895) - 2026-06-18
 ## Q1 2026
 
 

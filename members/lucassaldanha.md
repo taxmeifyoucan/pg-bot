@@ -171,6 +171,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Merge pull request #492 from lucassaldanha/fix-quic-pubkey](https://github.com/libp2p/jvm-libp2p/commit/5c82c2fbfe98271d7cd4b33f867c025d845b2bca) - 2026-06-17
 * [Commit] [fix(quic): warm address cache and close channel on hole-punch failure](https://github.com/libp2p/jvm-libp2p/commit/1915a6341971ff0afac128105e518d23c3446cb2) - 2026-06-17
 * [Commit] [fix(quic): cache connection addresses to avoid NPE on freed channel](https://github.com/libp2p/jvm-libp2p/commit/d500b622e1263c2c4ed68d741183eb38c27cd8cb) - 2026-06-17
+* [Pull Request] [fix(quic): validate hole-punch peer identity early and handle STOP_SENDING](https://github.com/libp2p/jvm-libp2p/pull/494) - 2026-06-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

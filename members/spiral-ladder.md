@@ -189,6 +189,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: surface same-message BLS retry metrics on dashboard](https://github.com/ChainSafe/lodestar/pull/9407#pullrequestreview-4363646628) - 2026-05-26
 * [Review] [Review on: chore: fix references to light-client/prover repo](https://github.com/ChainSafe/lodestar/pull/9434#pullrequestreview-4398199814) - 2026-06-01
 * [Pull Request] [feat: integrate zig state transition](https://github.com/ChainSafe/lodestar/pull/9516) - 2026-06-16
+* [Pull Request] [fix: clamp pivotSlot calculation to GENESIS_SLOT](https://github.com/ChainSafe/lodestar/pull/9521) - 2026-06-18
 ## Q1 2026
 
 

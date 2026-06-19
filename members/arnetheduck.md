@@ -26,6 +26,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [LTO per compiler, take 2](https://github.com/status-im/nimbus-eth1/pull/4278) - 2026-05-31
 * [Commit] [LTO per compiler, take 2 (#4278)](https://github.com/status-im/nimbus-eth1/commit/fd9286e4f1c3a919728668ff67494f79400fe443) - 2026-05-31
 * [Pull Request] [chronos: bump](https://github.com/status-im/nimbus-eth1/pull/4339) - 2026-06-17
+* [Pull Request] [explicitly disable nim stack traces with libbacktrace](https://github.com/status-im/nimbus-eth1/pull/4347) - 2026-06-18
+* [Commit] [explicitly disable nim stack traces with libbacktrace (#4347)](https://github.com/status-im/nimbus-eth1/commit/5d09842f8931ece6bd215f2ba2abbbc7a7b7cc62) - 2026-06-18
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid blocking main thread on reconstruction](https://github.com/status-im/nimbus-eth2/pull/8346) - 2026-04-27
 * [Pull Request] [gloas: pool cleanups](https://github.com/status-im/nimbus-eth2/pull/8348) - 2026-04-28
@@ -43,11 +45,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [backfill: log more stuff on failure](https://github.com/status-im/nimbus-eth2/pull/8518) - 2026-05-28
 * [Pull Request] [backfill: log more stuff on failure](https://github.com/status-im/nimbus-eth2/pull/8517) - 2026-05-28
 * [Pull Request] [LTO per compiler, take 2](https://github.com/status-im/nimbus-eth2/pull/8529) - 2026-05-31
+* [Pull Request] [explicitly disable nim stack traces with libbacktrace](https://github.com/status-im/nimbus-eth2/pull/8625) - 2026-06-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4195918133) - 2026-04-29
 
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4287908785) - 2026-05-14
 * [Pull Request] [`beacon_blocks_by_head`: add offset, min_slot](https://github.com/ethereum/consensus-specs/pull/5265) - 2026-05-18
+* [Review] [Review on: Mandate QUIC as primary transport](https://github.com/ethereum/consensus-specs/pull/5330#pullrequestreview-4524219328) - 2026-06-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Execution-Layer Reorg State Retention Window](https://github.com/ethereum/EIPs/pull/11601#pullrequestreview-4242207500) - 2026-05-07
 

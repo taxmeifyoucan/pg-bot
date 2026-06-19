@@ -45,6 +45,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Use `hashlink` over `lru` for `LruCache`](https://github.com/sigp/lighthouse/pull/8911#pullrequestreview-4491751133) - 2026-06-13
 * [Review] [Review on: SSZ fallback to JSON in `proposer_preferences`](https://github.com/sigp/lighthouse/pull/9475#pullrequestreview-4513801099) - 2026-06-17
 * [Review] [Review on: Add proposer preferences SSE event](https://github.com/sigp/lighthouse/pull/9308#pullrequestreview-4514037211) - 2026-06-17
+* [Pull Request] [Forbid removed `execution_payload_envelope.rs` file](https://github.com/sigp/lighthouse/pull/9506) - 2026-06-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4466665565) - 2026-06-10
 ## Q1 2026

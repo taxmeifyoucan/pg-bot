@@ -128,6 +128,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: ✨ feat(tests): Disallow empty change set for storage slot](https://github.com/ethereum/execution-specs/pull/2945#pullrequestreview-4515176876) - 2026-06-17
 * [Issue] [Test Release Tracker: `glamsterdam-devnet@v6.0.1`](https://github.com/ethereum/execution-specs/issues/3001) - 2026-06-17
 * [Commit] [chore(ci): rename bal release feature to glamsterdam-devnet (#2997)](https://github.com/ethereum/execution-specs/commit/d32554218f4dadc65ced5de1fe1598dfc7c8bc2b) - 2026-06-17
+* [Review] [Review on: feat(spec, spec-tests): 8037 Calldata floor accounting alignment](https://github.com/ethereum/execution-specs/pull/3005#pullrequestreview-4527419157) - 2026-06-18
+* [Pull Request] [chore(tests): fix failing ported static slow tests for EIP-8038](https://github.com/ethereum/execution-specs/pull/3019) - 2026-06-18
+* [Pull Request] [feat(spec-specs, tests): Implement EIP-2780](https://github.com/ethereum/execution-specs/pull/3017) - 2026-06-18
+* [Review] [Review on: feat(tests): EIP-8037 state-gas refund on failed CREATE2 with init storage](https://github.com/ethereum/execution-specs/pull/3011#pullrequestreview-4526584750) - 2026-06-18
+* [Review] [Review on: feat(spec-specs, tests): add EIP-8038 state-access gas cost update](https://github.com/ethereum/execution-specs/pull/2972#pullrequestreview-4524728568) - 2026-06-18
+* [Review] [Review on: feat(spec-specs, tests): refund EIP-8037 account creation for existing create targets](https://github.com/ethereum/execution-specs/pull/3002#pullrequestreview-4525955822) - 2026-06-18
+* [Review] [Review on: feat(spec-specs, tests): update EIP-8037 to use source based refunds](https://github.com/ethereum/execution-specs/pull/2999#pullrequestreview-4523916306) - 2026-06-18
+* [Pull Request] [chore(ci): wait for all coverage uploads before codecov reports](https://github.com/ethereum/execution-specs/pull/3008) - 2026-06-18
+* [Commit] [feat(spec-specs, tests): refund EIP-8037 account creation for existing create targets (#3002)](https://github.com/ethereum/execution-specs/commit/350e1764dd79522f29ce98cb7ccd65d741d8be8c) - 2026-06-18
+* [Commit] [feat(spec-specs, tests): update EIP-8037 to use source based refunds (#2999)](https://github.com/ethereum/execution-specs/commit/a8876ca0182e0043ffcfff01033692e36b0f0cb5) - 2026-06-18
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

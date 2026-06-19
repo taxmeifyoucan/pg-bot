@@ -115,6 +115,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix(simulate): return 0 for unresolvable BLOCKHASH in eth_simulateV1 instead of throwing](https://github.com/NethermindEth/nethermind/pull/12037) - 2026-06-17
 * [Pull Request] [perf(processing): reduce empty/near-empty block overhead](https://github.com/NethermindEth/nethermind/pull/12030) - 2026-06-17
 * [Commit] [perf(processing): reduce empty/near-empty block overhead (#12030)](https://github.com/NethermindEth/nethermind/commit/7103106fb66c64af445db14ad860603d574fe91f) - 2026-06-17
+* [Pull Request] [perf(flat): cheaper TrieWarmer enqueue fast-path](https://github.com/NethermindEth/nethermind/pull/12062) - 2026-06-18
+* [Review] [Review on: Bump pyspec fixtures to tests-bal@v7.3.2](https://github.com/NethermindEth/nethermind/pull/12060#pullrequestreview-4524590013) - 2026-06-18
+* [Commit] [ci(expb): pass tuning env vars to the expb benchmark process (#12022)](https://github.com/NethermindEth/nethermind/commit/e15ea985cfb28712c2b2d126be85eb7890baacd3) - 2026-06-18
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

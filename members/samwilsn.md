@@ -115,6 +115,12 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec,tests): Implement EIP-8282](https://github.com/ethereum/execution-specs/pull/2990#pullrequestreview-4517638693) - 2026-06-17
 * [Review] [Review on: feat(spec-specs, tests): add EIP-8038 state-access gas cost update](https://github.com/ethereum/execution-specs/pull/2972#pullrequestreview-4517091246) - 2026-06-17
 * [Commit] [fix(ci): include json-loader in coverage reports (#2975)](https://github.com/ethereum/execution-specs/commit/7ccf64998512a589e64442f6f795f340c6603cba) - 2026-06-17
+* [Review] [Review on: chore(ci,tooling): speed up json-loader job](https://github.com/ethereum/execution-specs/pull/3010#pullrequestreview-4525719667) - 2026-06-18
+* [Review] [Review on: fix(specs): check chain id](https://github.com/ethereum/execution-specs/pull/3000#pullrequestreview-4525788805) - 2026-06-18
+* [Review] [Review on: refactor(specs): factor out auth validity](https://github.com/ethereum/execution-specs/pull/3006#pullrequestreview-4522056050) - 2026-06-18
+* [Issue] [Add newtype wrappers for `StateGas` and `RegularGas`](https://github.com/ethereum/execution-specs/issues/3015) - 2026-06-18
+* [Commit] [chore(specs): clean is_valid_delegation](https://github.com/ethereum/execution-specs/commit/c9a7c8dbbd327fc428755fdc611e3bf6b63c95b1) - 2026-06-18
+* [Commit] [refactor(specs): factor out auth validity](https://github.com/ethereum/execution-specs/commit/5cc6a81d5961e73620700e26b0a253807f72abc0) - 2026-06-18
 ## Q1 2026
 
 

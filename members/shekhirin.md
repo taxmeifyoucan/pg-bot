@@ -157,6 +157,13 @@ Team: Reth
 * [Review] [Review on: fix: include repo in scheduled bench Slack summary](https://github.com/paradigmxyz/reth/pull/25272#pullrequestreview-4497072653) - 2026-06-15
 * [Pull Request] [perf(trie): worker fixes](https://github.com/paradigmxyz/reth/pull/25267) - 2026-06-15
 * [Review] [Review on: ci: remove Derek bench user allowlist](https://github.com/paradigmxyz/reth/pull/25327#pullrequestreview-4507853637) - 2026-06-16
+* [Pull Request] [chore(engine): transaction_count is always known](https://github.com/paradigmxyz/reth/pull/25423) - 2026-06-18
+* [Pull Request] [perf(engine): unordered tx iterator for BALs](https://github.com/paradigmxyz/reth/pull/25411) - 2026-06-18
+* [Pull Request] [chore: bump Rust and install LLVM in nix flake](https://github.com/paradigmxyz/reth/pull/25418) - 2026-06-18
+* [Review] [Review on: ci(bench): retry bench chart pushes from fresh clones](https://github.com/paradigmxyz/reth/pull/25405#pullrequestreview-4523353616) - 2026-06-18
+* [Commit] [chore(engine): transaction_count is always known (#25423)](https://github.com/paradigmxyz/reth/commit/ccc6e720105795ef4e9f096542d02a910fed0c7c) - 2026-06-18
+* [Commit] [perf(engine): unordered tx iterator for BALs (#25411)](https://github.com/paradigmxyz/reth/commit/b630a7e1ecc1974731a32923c7855f579ac3362e) - 2026-06-18
+* [Commit] [chore: bump Rust and install LLVM in nix flake (#25418)](https://github.com/paradigmxyz/reth/commit/827894bdbe44cf551c9d2434abbd3ab7da8248d2) - 2026-06-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

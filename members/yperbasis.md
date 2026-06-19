@@ -733,6 +733,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] execution/stagedsync: prune overlay to committed boundary on no-op execution unwind](https://github.com/erigontech/erigon/pull/21847#pullrequestreview-4514703002) - 2026-06-17
 * [Issue] [execution/stagedsync: unwind overlay-prune keeps one extra (system) txNum; unify boundary to last committed txNum](https://github.com/erigontech/erigon/issues/21863) - 2026-06-17
 * [Issue] [Better integration tests for unwind issues](https://github.com/erigontech/erigon/issues/21860) - 2026-06-17
+* [Pull Request] [[r3.4] ChangeLog: v3.4.4 release notes](https://github.com/erigontech/erigon/pull/21889) - 2026-06-18
+* [Review] [Review on: engineapi: switch Engine API SSZ to execution-apis#793](https://github.com/erigontech/erigon/pull/21729#pullrequestreview-4525917239) - 2026-06-18
+* [Review] [Review on: .github/workflows: feed hive-eest fixtures from cache instead of per-run CDN download](https://github.com/erigontech/erigon/pull/21882#pullrequestreview-4523919540) - 2026-06-18
+* [Review] [Review on: execution/types: reject non-canonical BAL integer values and keys](https://github.com/erigontech/erigon/pull/21879#pullrequestreview-4523564138) - 2026-06-18
+* [Review] [Review on: execution/types: match bare rlp.EOL sentinel in checkErrListEnd](https://github.com/erigontech/erigon/pull/21852#pullrequestreview-4523324706) - 2026-06-18
+* [Review] [Review on: execution/cache: StateCache LRU + Mode + (txNum,epoch) lazy unwind](https://github.com/erigontech/erigon/pull/21386#pullrequestreview-4523067828) - 2026-06-18
+* [Issue] [Bump pectra kurtosis suite to assertoor v0.1.2 (currently kept on v0.0.17 — flaky)](https://github.com/erigontech/erigon/issues/21891) - 2026-06-18
+* [Commit] [cl/phase1/forkchoice: use the incremental indexed weight store for the GLOAS head (#21694)](https://github.com/erigontech/erigon/commit/4e9afc50d3a42d416b82673613ce8c25bfd0e5a0) - 2026-06-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

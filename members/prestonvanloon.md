@@ -38,6 +38,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [gofmt (#16953)](https://github.com/OffchainLabs/prysm/commit/d9aa300cbf9499a7e916cd5a9b55b7ca04807e88) - 2026-06-11
 * [Review] [Review on: e2e: Reliability improvements](https://github.com/OffchainLabs/prysm/pull/16948#pullrequestreview-4499146529) - 2026-06-15
 * [Pull Request] [Update changelog for v7.1.5](https://github.com/OffchainLabs/prysm/pull/16987) - 2026-06-17
+* [Pull Request] [Fix unbounded growth of engine_exchangeCapabilities requested method list](https://github.com/OffchainLabs/prysm/pull/17004) - 2026-06-18
+* [Review] [Review on: e2e: Reliability improvements](https://github.com/OffchainLabs/prysm/pull/16948#pullrequestreview-4526565054) - 2026-06-18
 ## Q1 2026
 
 

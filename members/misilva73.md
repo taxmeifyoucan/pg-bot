@@ -67,6 +67,9 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Pull Request] [Update EIP-8037: resolve EIP-7928 conflict and route state-gas refills to origin](https://github.com/ethereum/EIPs/pull/11807) - 2026-06-16
 * [Review] [Review on: Update EIP-8037: resolve EIP-7928 conflict and route state-gas refills to origin](https://github.com/ethereum/EIPs/pull/11807#pullrequestreview-4507531617) - 2026-06-16
 * [Review] [Review on: Update EIP-2780: Rework as resource-based intrinsic transaction gas](https://github.com/ethereum/EIPs/pull/11645#pullrequestreview-4512989594) - 2026-06-17
+* [Commit] [Update EIP-8037: resolve EIP-7928 conflict and route state-gas refills to origin](https://github.com/ethereum/EIPs/commit/bee14641d13e369e1c0418757eedf2eb0f04e0ac) - 2026-06-18
+* [Commit] [Update EIP-8038: Add preliminary numbers](https://github.com/ethereum/EIPs/commit/803ee8db0088b3ace1061df85182168bf9438fc7) - 2026-06-18
+* [Commit] [Update EIP-2780: Rework as resource-based intrinsic transaction gas](https://github.com/ethereum/EIPs/commit/55fda8316009b4eb33648bbea03e19aff1e0d472) - 2026-06-18
 ## Q1 2026
 
 

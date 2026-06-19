@@ -124,6 +124,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Reject bids with invalid prev_randao during gossip validation](https://github.com/status-im/nimbus-eth2/pull/8609#pullrequestreview-4516970681) - 2026-06-17
 * [Review] [Review on: Ensure verification conditions for bid are satisfied as proposer](https://github.com/status-im/nimbus-eth2/pull/8606#pullrequestreview-4515214328) - 2026-06-17
 * [Pull Request] [Limit columns by root request by datatype max capacity](https://github.com/status-im/nimbus-eth2/pull/8614) - 2026-06-17
+* [Pull Request] [Broadcast light client optimistic / finality updates simultaneously](https://github.com/status-im/nimbus-eth2/pull/8624) - 2026-06-18
+* [Pull Request] [Add index to light client headers DB](https://github.com/status-im/nimbus-eth2/pull/8626) - 2026-06-18
+* [Review] [Review on: Ensure verification conditions for bid are satisfied as proposer](https://github.com/status-im/nimbus-eth2/pull/8606#pullrequestreview-4523181741) - 2026-06-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

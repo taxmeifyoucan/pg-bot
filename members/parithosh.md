@@ -71,6 +71,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: tools: bump go-ethereum and regenerate eth_simulateV1 fixtures](https://github.com/ethereum/execution-apis/pull/822#pullrequestreview-4458991837) - 2026-06-09
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: chore: remove matty evans (ethpandaops)](https://github.com/protocolguild/documentation/pull/502#pullrequestreview-4523184191) - 2026-06-18
 ## Q1 2026
 
 

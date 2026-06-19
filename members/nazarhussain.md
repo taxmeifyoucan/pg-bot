@@ -67,6 +67,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: feat: add ssz to engine api](https://github.com/ethereum/execution-apis/pull/764#pullrequestreview-4121034888) - 2026-04-16
+* [Review] [Review on: engine: add Rest-SSZ spec](https://github.com/ethereum/execution-apis/pull/793#pullrequestreview-4522455684) - 2026-06-18
 ## Q1 2026
 
 

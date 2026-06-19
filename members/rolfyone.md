@@ -143,6 +143,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Implement the Gloas validator payload attestation data endpoint plumbing (#10778)](https://github.com/Consensys/teku/commit/2a0bbfca16de990572cba159e1dba25ffdba2d2f) - 2026-06-18
 * [Commit] [Update Teku third-party dependency versions (#10844)](https://github.com/Consensys/teku/commit/f488187e10c559b25288b0163fc8588e8a3a2ef7) - 2026-06-17
 * [Commit] [Update dependencies and handle Guava JRE versions (#10843)](https://github.com/Consensys/teku/commit/090b96f75d6d87576dab9223e72c02f03d878b55) - 2026-06-17
+* [Review] [Review on: Update GetBlockV3Test to include appropriate HTTP status codes](https://github.com/Consensys/teku/pull/10856#pullrequestreview-4522416241) - 2026-06-18
+* [Review] [Review on: Reject jqwik updates past 1.9.3](https://github.com/Consensys/teku/pull/10854#pullrequestreview-4521356607) - 2026-06-18
+* [Commit] [Reject jqwik updates past 1.9.3 (#10854)](https://github.com/Consensys/teku/commit/68f4ea34737a7a8e6f74da13ce469adc66454147) - 2026-06-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

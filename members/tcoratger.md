@@ -483,6 +483,13 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [feat(sumcheck): add generic-degree sumcheck driver (#1699)](https://github.com/Plonky3/Plonky3/commit/975b4e975dc7e9836c0e25789568a3b3661ce0d2) - 2026-06-17
 * [Commit] [refactor(util): replace hand-rolled assume with core::hint::assert_unchecked (#1877)](https://github.com/Plonky3/Plonky3/commit/a13883e1e9b91dfa8f919e0b832f62448c19be9f) - 2026-06-17
 * [Commit] [refactor(util): replace `transpose` crate with portable engine (#1874)](https://github.com/Plonky3/Plonky3/commit/c70708e376f764e7cf7465882d82925eab55a3aa) - 2026-06-17
+* [Review] [Review on: feat(lookup): exclusivity-aware lookup columns](https://github.com/Plonky3/Plonky3/pull/1825#pullrequestreview-4526926320) - 2026-06-18
+* [Review] [Review on: perf: make `periodic_columns()` return a borrow-or-owned `Cow`](https://github.com/Plonky3/Plonky3/pull/1881#pullrequestreview-4526236339) - 2026-06-18
+* [Review] [Review on: feat(air): validate AirLayout widths against the AIR](https://github.com/Plonky3/Plonky3/pull/1882#pullrequestreview-4526229824) - 2026-06-18
+* [Pull Request] [test(sumcheck): de-flake tampered PoW witness rejection under parallel grind](https://github.com/Plonky3/Plonky3/pull/1883) - 2026-06-18
+* [Review] [Review on: refactor: use p3-maybe-rayon instead of rayon for p3-util](https://github.com/Plonky3/Plonky3/pull/1880#pullrequestreview-4525993421) - 2026-06-18
+* [Review] [Review on: perf(whir): commit folded rounds straight from the live sumcheck buffer](https://github.com/Plonky3/Plonky3/pull/1804#pullrequestreview-4523835298) - 2026-06-18
+* [Commit] [perf(whir): commit folded rounds straight from the live sumcheck buffer (#1804)](https://github.com/Plonky3/Plonky3/commit/8d9f2cae153fc0a487d368b0905d0f818a92dc9a) - 2026-06-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

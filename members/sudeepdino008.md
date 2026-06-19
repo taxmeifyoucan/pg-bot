@@ -298,6 +298,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/rawdb, snapshotsync: cut cursor & per-block allocs in PruneBlocks](https://github.com/erigontech/erigon/pull/21861#pullrequestreview-4514443459) - 2026-06-17
 * [Review] [Review on: bloatnet: reduce word-level compress sampling](https://github.com/erigontech/erigon/pull/21742#pullrequestreview-4512397421) - 2026-06-17
 * [Issue] [Discrepancy analysis between consensus specs and Erigon (Caplin)](https://github.com/erigontech/erigon/issues/21866) - 2026-06-17
+* [Pull Request] [db/datastruct/btindex: EF-encode .bt pivot offsets ](https://github.com/erigontech/erigon/pull/21893) - 2026-06-19
+* [Review] [Review on: [wip] db/datastruct/btindex: shrink .bt in-memory node cache (uint64 offsets)](https://github.com/erigontech/erigon/pull/21875#pullrequestreview-4524182633) - 2026-06-18
+* [Issue] [snapshot releases for v3.6](https://github.com/erigontech/erigon/issues/21894) - 2026-06-19
 ## Q1 2026
 
 

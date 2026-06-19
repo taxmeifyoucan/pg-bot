@@ -90,6 +90,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix(github): assign validated forky URLs to discovered networks](https://github.com/ethpandaops/cartographoor/pull/97) - 2026-06-11
 * [Commit] [Merge pull request #97 from ethpandaops/fix/forky-devnet-service-url](https://github.com/ethpandaops/cartographoor/commit/2e264db43e25c5962b08f2b5fe033df502cb5e66) - 2026-06-11
 * [Commit] [fix(github): assign validated forky URLs to discovered networks](https://github.com/ethpandaops/cartographoor/commit/cd02e4377f061f0f9a9ed358a8233c95b53d7b63) - 2026-06-11
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: chore: remove matty evans (ethpandaops)](https://github.com/protocolguild/documentation/pull/502#pullrequestreview-4523094182) - 2026-06-18
 ## Q1 2026
 
 

@@ -65,6 +65,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: upgrade license report plugin](https://github.com/besu-eth/besu/pull/10650#pullrequestreview-4502617418) - 2026-06-16
 * [Review] [Review on: feat(pow-removal): Phase 1 - remove PoW mining infrastructure](https://github.com/besu-eth/besu/pull/10656#pullrequestreview-4511589903) - 2026-06-17
 * [Review] [Review on: pathbased package refactoring](https://github.com/besu-eth/besu/pull/10641#pullrequestreview-4512548561) - 2026-06-17
+* [Review] [Review on: fix: skip DNSDaemon when --discovery-dns-url is blank or empty](https://github.com/besu-eth/besu/pull/10666#pullrequestreview-4529739458) - 2026-06-19
+* [Review] [Review on: feat(pow-removal): Phase 3 - remove miner_start, miner_stop, eth_mining RPC methods](https://github.com/besu-eth/besu/pull/10662#pullrequestreview-4529742632) - 2026-06-19
+* [Review] [Review on: feat(pow-removal): Phase 2 - remove Ethash and PoW validation code](https://github.com/besu-eth/besu/pull/10659#pullrequestreview-4529454507) - 2026-06-19
+* [Review] [Review on: lazy decoding of GetStorageRangeMessage account hashes](https://github.com/besu-eth/besu/pull/10660#pullrequestreview-4521714463) - 2026-06-18
 ## Q1 2026
 
 

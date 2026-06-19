@@ -304,6 +304,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [feat(pow-removal): Phase 3 - remove miner_start, miner_stop, eth_mining RPC methods](https://github.com/besu-eth/besu/pull/10662) - 2026-06-18
 * [Review] [Review on: feat(pow-removal): Phase 2 - remove Ethash and PoW validation code](https://github.com/besu-eth/besu/pull/10659#pullrequestreview-4520305480) - 2026-06-17
 * [Commit] [feat(pow-removal): Phase 1 - remove PoW mining infrastructure (#10656)](https://github.com/besu-eth/besu/commit/8fc6805f881e605cf83d65af73096d2a65e57758) - 2026-06-17
+* [Review] [Review on: build: upgrade ErrorProne to 2.37.0 and NullAway to 0.13.7](https://github.com/besu-eth/besu/pull/10664#pullrequestreview-4521368978) - 2026-06-18
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

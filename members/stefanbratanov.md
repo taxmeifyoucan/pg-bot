@@ -118,6 +118,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [EIP-8282 Implementation](https://github.com/Consensys/teku/pull/10849) - 2026-06-17
 * [Pull Request] [glamsterdam-devnet-6](https://github.com/Consensys/teku/pull/10848) - 2026-06-17
 * [Pull Request] [New/Modified Containers and config (EIP-8282)](https://github.com/Consensys/teku/pull/10845) - 2026-06-17
+* [Pull Request] [Upgrade web3j](https://github.com/Consensys/teku/pull/10858) - 2026-06-18
+* [Review] [Review on: EIP-8282 Add builder execution requests](https://github.com/Consensys/teku/pull/10849#pullrequestreview-4525434055) - 2026-06-18
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

@@ -309,6 +309,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Blob fee check fix](https://github.com/NethermindEth/nethermind/pull/12027#pullrequestreview-4515230860) - 2026-06-17
 * [Review] [Review on: Geth error message fix](https://github.com/NethermindEth/nethermind/pull/12028#pullrequestreview-4515224939) - 2026-06-17
 * [Review] [Review on: RefList16 fix](https://github.com/NethermindEth/nethermind/pull/12021#pullrequestreview-4512146668) - 2026-06-17
+* [Review] [Review on: EvmPoolMemory Improvement](https://github.com/NethermindEth/nethermind/pull/11991#pullrequestreview-4524365200) - 2026-06-18
+* [Review] [Review on: SLOAD Improvements](https://github.com/NethermindEth/nethermind/pull/12043#pullrequestreview-4524787574) - 2026-06-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

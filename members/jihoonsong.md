@@ -90,6 +90,12 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Add annotation prefixes to p2p interface spec sections](https://github.com/ethereum/consensus-specs/pull/5356#pullrequestreview-4482592689) - 2026-06-12
 * [Review] [Review on: Only clear builder payment if the slashed validator is the proposer](https://github.com/ethereum/consensus-specs/pull/5365#pullrequestreview-4513588675) - 2026-06-17
 * [Commit] [Modify `get_proposer_head` for Gloas (#5348)](https://github.com/ethereum/consensus-specs/commit/cebac4ded695b6dde534a8317706d132694f161e) - 2026-06-17
+* [Review] [Review on: Reset withdrawable epoch when depositing to an exited builder](https://github.com/ethereum/consensus-specs/pull/5373#pullrequestreview-4525086218) - 2026-06-18
+* [Pull Request] [Remove the IL bitlist from bid](https://github.com/ethereum/consensus-specs/pull/5371) - 2026-06-18
+* [Review] [Review on: Remove the IL bitlist from bid](https://github.com/ethereum/consensus-specs/pull/5371#pullrequestreview-4522938814) - 2026-06-18
+* [Pull Request] [Align fork version modifiers](https://github.com/ethereum/consensus-specs/pull/5372) - 2026-06-18
+* [Commit] [Remove the IL bitlist from bid (#5371)](https://github.com/ethereum/consensus-specs/commit/8ebaf5baebeb805d88db9838529f017e6ea242e6) - 2026-06-18
+* [Commit] [Align fork version modifiers (#5372)](https://github.com/ethereum/consensus-specs/commit/88d41f67338eb32838dbcd419f2fe38dcdf84638) - 2026-06-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14
@@ -98,6 +104,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8142: Make BiB modular](https://github.com/ethereum/EIPs/pull/11530) - 2026-04-16
 * [Commit] [Update EIP-8142: Make BiB modular](https://github.com/ethereum/EIPs/commit/9d3040cb3002e2181275be7fe5e1c8bf47412c09) - 2026-04-21
+* [Review] [Review on: Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/pull/11760#pullrequestreview-4523692306) - 2026-06-18
 ## Q1 2026
 
 

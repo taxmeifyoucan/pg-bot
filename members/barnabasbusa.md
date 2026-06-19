@@ -264,6 +264,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Exclude slashed validators from proposing (EIP-8045) (#5115)](https://github.com/ethereum/consensus-specs/commit/af6e128caa8cf68134079537891bbc846fbb0dc8) - 2026-06-01
 * [Pull Request] [Add fork choice test for split LMD votes across payload variants](https://github.com/ethereum/consensus-specs/pull/5345) - 2026-06-08
 * [Review] [Review on: Add fork choice test for split LMD votes across payload variants](https://github.com/ethereum/consensus-specs/pull/5345#pullrequestreview-4452801921) - 2026-06-08
+* [Review] [Review on: Reset withdrawable epoch when depositing to an exited builder](https://github.com/ethereum/consensus-specs/pull/5373#pullrequestreview-4523593007) - 2026-06-18
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [Remove broken update_project_wiki job](https://github.com/ethpandaops/assertoor/pull/156) - 2026-04-09
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/assertoor/pull/155) - 2026-04-09
@@ -378,6 +379,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators/cl: consensus-spec-tests runner for CL clients](https://github.com/ethereum/hive/pull/1537) - 2026-06-09
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: chore: remove matty evans (ethpandaops)](https://github.com/protocolguild/documentation/pull/502#pullrequestreview-4523382250) - 2026-06-18
 ## Q1 2026
 
 

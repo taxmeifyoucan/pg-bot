@@ -661,6 +661,11 @@ Team: Reth
 * [Review] [Review on: perf(engine): buffer BAL execution cache metrics](https://github.com/paradigmxyz/reth/pull/25366#pullrequestreview-4516426435) - 2026-06-17
 * [Commit] [chore(deps): update alloy-eip7928 to 0.4.4 (#25368)](https://github.com/paradigmxyz/reth/commit/6085bc29344b4675397b8edb1212eacd266c12ba) - 2026-06-17
 * [Commit] [feat(provider): add sealed or recovered block lookup (#25338)](https://github.com/paradigmxyz/reth/commit/a3e173dfd7882f54dd4df469f37cb49639c0e6fb) - 2026-06-17
+* [Review] [Review on: perf(engine): unordered tx iterator for BALs](https://github.com/paradigmxyz/reth/pull/25411#pullrequestreview-4526271312) - 2026-06-18
+* [Review] [Review on: fix(rpc): treat eth_sendRawTransaction as local path](https://github.com/paradigmxyz/reth/pull/25412#pullrequestreview-4524663350) - 2026-06-18
+* [Review] [Review on: fix: gate reth jit helper call](https://github.com/paradigmxyz/reth/pull/25413#pullrequestreview-4524599025) - 2026-06-18
+* [Review] [Review on: fix(rpc): align eth_fillTransaction default maxFeePerGas with go-ethereum (2 * base_fee + tip)](https://github.com/paradigmxyz/reth/pull/25258#pullrequestreview-4523213742) - 2026-06-18
+* [Review] [Review on: fix(provider): return none for incomplete block receipts](https://github.com/paradigmxyz/reth/pull/25410#pullrequestreview-4523921940) - 2026-06-18
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

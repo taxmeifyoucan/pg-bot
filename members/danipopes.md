@@ -427,6 +427,9 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump astral-sh/setup-uv from 6.3.1 to 8.2.0](https://github.com/paradigmxyz/reth/pull/25384#pullrequestreview-4520040847) - 2026-06-17
 * [Review] [Review on: chore(deps): bump taiki-e/install-action from 2.75.24 to 2.81.9](https://github.com/paradigmxyz/reth/pull/25383#pullrequestreview-4520040525) - 2026-06-17
 * [Review] [Review on: chore(deps): bump rtCamp/action-slack-notify from 2.3.3 to 2.4.0](https://github.com/paradigmxyz/reth/pull/25385#pullrequestreview-4520040136) - 2026-06-17
+* [Review] [Review on: perf(engine): unordered tx iterator for BALs](https://github.com/paradigmxyz/reth/pull/25411#pullrequestreview-4524566438) - 2026-06-18
+* [Review] [Review on: chore: bump Rust and install LLVM in nix flake](https://github.com/paradigmxyz/reth/pull/25418#pullrequestreview-4525401536) - 2026-06-18
+* [Review] [Review on: fix: gate reth jit helper call](https://github.com/paradigmxyz/reth/pull/25413#pullrequestreview-4524470651) - 2026-06-18
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

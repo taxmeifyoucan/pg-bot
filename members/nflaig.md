@@ -354,6 +354,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: download proposer duties for the next epoch post-fulu](https://github.com/ChainSafe/lodestar/pull/9380#pullrequestreview-4513660923) - 2026-06-17
 * [Review] [Review on: fix: add fallback handler for getProposerDuties](https://github.com/ChainSafe/lodestar/pull/9518#pullrequestreview-4513676752) - 2026-06-17
 * [Commit] [fix: defer using proposer duties v2 to gloas (#9519)](https://github.com/ChainSafe/lodestar/commit/c04b424ca85136cbb416bca5bc1fd70bb824b547) - 2026-06-17
+* [Review] [Review on: fix: clamp pivotSlot calculation to GENESIS_SLOT](https://github.com/ChainSafe/lodestar/pull/9521#pullrequestreview-4524586839) - 2026-06-18
+* [Pull Request] [feat: queue execution payload envelope until its block is imported](https://github.com/ChainSafe/lodestar/pull/9520) - 2026-06-18
+* [Review] [Review on: feat: queue execution payload envelope until its block is imported](https://github.com/ChainSafe/lodestar/pull/9520#pullrequestreview-4524079723) - 2026-06-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -450,6 +453,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Set altair/bellatrix fork epochs to zero in BTEC gossip tests](https://github.com/ethereum/consensus-specs/pull/5346#pullrequestreview-4453385397) - 2026-06-08
 * [Review] [Review on: Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352#pullrequestreview-4457058901) - 2026-06-09
 * [Review] [Review on: Modify `get_proposer_head` for Gloas](https://github.com/ethereum/consensus-specs/pull/5348#pullrequestreview-4461053066) - 2026-06-09
+* [Review] [Review on: Reset withdrawable epoch when depositing to an exited builder](https://github.com/ethereum/consensus-specs/pull/5373#pullrequestreview-4523886482) - 2026-06-18
+* [Review] [Review on: Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374#pullrequestreview-4527260463) - 2026-06-18
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 
@@ -458,11 +463,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4266294777) - 2026-05-11
 * [Commit] [engine: add targetGasLimit to PayloadAttributesV4 (#796)](https://github.com/ethereum/execution-apis/commit/a22fbd4464ef77404935a056f9e19db0abb359a1) - 2026-05-18
 
+* [Review] [Review on: engine: add Rest-SSZ spec](https://github.com/ethereum/execution-apis/pull/793#pullrequestreview-4522586421) - 2026-06-18
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: chore: pluralize gloas execution payload endpoint paths](https://github.com/OffchainLabs/prysm/pull/16902#pullrequestreview-4436202122) - 2026-06-05
 * [Review] [Review on: Add forkchoice unit test](https://github.com/OffchainLabs/prysm/pull/16932#pullrequestreview-4459168553) - 2026-06-09
 * [Review] [Review on: Only send PTC attestations on canonical shuffling](https://github.com/OffchainLabs/prysm/pull/16946#pullrequestreview-4472521519) - 2026-06-10
 * [Review] [Review on: Only send PTC attestations on canonical shuffling](https://github.com/OffchainLabs/prysm/pull/16946#pullrequestreview-4473539748) - 2026-06-11
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/pull/11760#pullrequestreview-4525252772) - 2026-06-18
 ## Q1 2026
 
 

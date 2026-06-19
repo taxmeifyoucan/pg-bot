@@ -103,6 +103,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: uprev web3j to 5.0.3](https://github.com/besu-eth/besu/pull/10627#pullrequestreview-4503861873) - 2026-06-16
 * [Review] [Review on: fix: initialize profilers list before adding gc in jmh config](https://github.com/besu-eth/besu/pull/10651#pullrequestreview-4503854991) - 2026-06-16
 * [Review] [Review on: auto detection for max open files](https://github.com/besu-eth/besu/pull/10629#pullrequestreview-4503817661) - 2026-06-16
+* [Issue] [Investigate evmtool startup time](https://github.com/besu-eth/besu/issues/10665) - 2026-06-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

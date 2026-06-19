@@ -224,6 +224,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Blob fee check fix](https://github.com/NethermindEth/nethermind/pull/12027#pullrequestreview-4515200741) - 2026-06-17
 * [Pull Request] [Fix background scheduler branch completion](https://github.com/NethermindEth/nethermind/pull/12033) - 2026-06-17
 * [Review] [Review on: feat: host-side prerequisites for the embedded beacon chain plugin (SSZ ulong limits, injectable discv5 ENR filter)](https://github.com/NethermindEth/nethermind/pull/11985#pullrequestreview-4513934263) - 2026-06-17
+* [Pull Request] [Handle incompatible discovery fork IDs](https://github.com/NethermindEth/nethermind/pull/12055) - 2026-06-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

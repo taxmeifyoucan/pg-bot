@@ -36,6 +36,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: [HOUSEKEEPING] Remove CLI arguments and related cleanups post 26.1.0](https://github.com/Consensys/teku/pull/10701#pullrequestreview-4287688105) - 2026-05-14
 * [Commit] [[HOUSEKEEPING] Remove CLI arguments and related cleanups post 26.1.0 (#10701)](https://github.com/Consensys/teku/commit/3419eda852b34706af6e238ad028fe82955efdc9) - 2026-05-14
 * [Pull Request] [Produce block v4 with payload](https://github.com/Consensys/teku/pull/10832) - 2026-06-15
+* [Pull Request] [Update GetBlockV3Test to include appropriate HTTP status codes](https://github.com/Consensys/teku/pull/10856) - 2026-06-18
+* [Commit] [Update GetBlockV3Test to include appropriate HTTP status codes (#10856)](https://github.com/Consensys/teku/commit/27d3501fd887b4cef66b874c83ddc8fd4669ae59) - 2026-06-19
 ## Q1 2026
 
 

@@ -138,6 +138,13 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(test-forks): enable filling for TangerineWhistle and SpuriousDragon](https://github.com/ethereum/execution-specs/pull/2992#pullrequestreview-4506867954) - 2026-06-16
 * [Review] [Review on: feat(tests, spec-specs): raise EIP-7954 max code size to 64KiB](https://github.com/ethereum/execution-specs/pull/2987#pullrequestreview-4503429885) - 2026-06-16
 * [Review] [Review on: feat(tests): add EIP-7954 jumpdest test past the old code-size limit](https://github.com/ethereum/execution-specs/pull/2993#pullrequestreview-4512421310) - 2026-06-17
+* [Review] [Review on: fix(specs): check chain id](https://github.com/ethereum/execution-specs/pull/3000#pullrequestreview-4521954023) - 2026-06-18
+* [Review] [Review on: chore(ci): run benchmark sanity checks on size-xl-x64 runner](https://github.com/ethereum/execution-specs/pull/3012#pullrequestreview-4524847526) - 2026-06-18
+* [Review] [Review on: refactor(test-benchmark): update `test_account_access`, add `keccak256` overhead scenario](https://github.com/ethereum/execution-specs/pull/2947#pullrequestreview-4522821911) - 2026-06-18
+* [Review] [Review on: feat(tests): add max-code-size jumpdest test for immediate bytes](https://github.com/ethereum/execution-specs/pull/2998#pullrequestreview-4522227395) - 2026-06-18
+* [Review] [Review on: chore(tooling): update write-test skill for automatic tx gas-limit](https://github.com/ethereum/execution-specs/pull/2995#pullrequestreview-4522246913) - 2026-06-18
+* [Review] [Review on: chore(specs): clean is_valid_delegation](https://github.com/ethereum/execution-specs/pull/3003#pullrequestreview-4521834762) - 2026-06-18
+* [Review] [Review on: refactor(specs): factor out auth validity](https://github.com/ethereum/execution-specs/pull/3006#pullrequestreview-4521805004) - 2026-06-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

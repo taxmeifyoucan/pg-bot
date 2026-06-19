@@ -709,6 +709,16 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: RPC admin_* - pause & resume block processing](https://github.com/NethermindEth/nethermind/pull/12020#pullrequestreview-4513169880) - 2026-06-17
 * [Review] [Review on: ci(expb): wire multi-image analyze step outputs](https://github.com/NethermindEth/nethermind/pull/11369#pullrequestreview-4513630655) - 2026-06-17
 * [Review] [Review on: RefList16 fix](https://github.com/NethermindEth/nethermind/pull/12021#pullrequestreview-4513216425) - 2026-06-17
+* [Review] [Review on: perf(flat): cheaper TrieWarmer enqueue fast-path](https://github.com/NethermindEth/nethermind/pull/12062#pullrequestreview-4526948554) - 2026-06-18
+* [Review] [Review on: Make IP resolution lazy and self-contained; remove ResolveIps step](https://github.com/NethermindEth/nethermind/pull/12050#pullrequestreview-4522486323) - 2026-06-18
+* [Review] [Review on: perf: reduce block processing jitter and improve stability](https://github.com/NethermindEth/nethermind/pull/10590#pullrequestreview-4525951934) - 2026-06-18
+* [Review] [Review on: Warmup improvement](https://github.com/NethermindEth/nethermind/pull/10652#pullrequestreview-4525985902) - 2026-06-18
+* [Review] [Review on: Allow no-op EVM execution](https://github.com/NethermindEth/nethermind/pull/11932#pullrequestreview-4524622474) - 2026-06-18
+* [Review] [Review on: fix: wrap `eth_simulate` with no eip3607 spec to skip sender is not eoa check](https://github.com/NethermindEth/nethermind/pull/12054#pullrequestreview-4523553092) - 2026-06-18
+* [Review] [Review on: Allow no-op EVM execution - alternative](https://github.com/NethermindEth/nethermind/pull/12041#pullrequestreview-4524240741) - 2026-06-18
+* [Review] [Review on: Default RocksDB exit flush to WAL-only, add opt-in full flush](https://github.com/NethermindEth/nethermind/pull/12047#pullrequestreview-4522980485) - 2026-06-18
+* [Review] [Review on: Centralize the local node identity in IEnode via EnodeProvider](https://github.com/NethermindEth/nethermind/pull/12051#pullrequestreview-4522432783) - 2026-06-18
+* [Commit] [feat(engine): align SSZ-REST wire format with execution-apis#793 update (#11998)](https://github.com/NethermindEth/nethermind/commit/e15db122351661e0ddcc2c734b6419775ab50c65) - 2026-06-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

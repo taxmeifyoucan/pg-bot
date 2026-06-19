@@ -220,6 +220,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Reject bids with invalid prev_randao during gossip validation](https://github.com/status-im/nimbus-eth2/pull/8609#pullrequestreview-4504520310) - 2026-06-16
 * [Pull Request] [temporarily instrument some possible latency sources](https://github.com/status-im/nimbus-eth2/pull/8616) - 2026-06-17
 * [Review] [Review on: Store head payload by fork choice](https://github.com/status-im/nimbus-eth2/pull/8481#pullrequestreview-4514118338) - 2026-06-17
+* [Review] [Review on: Use EL and CL identifiers in default graffiti](https://github.com/status-im/nimbus-eth2/pull/8620#pullrequestreview-4521634667) - 2026-06-18
+* [Review] [Review on: Ensure verification conditions for bid are satisfied as proposer](https://github.com/status-im/nimbus-eth2/pull/8606#pullrequestreview-4522881100) - 2026-06-18
+* [Pull Request] [adjust slot end/next-slot-preparation timings](https://github.com/status-im/nimbus-eth2/pull/8621) - 2026-06-18
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -252,6 +255,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [fix FC (de)serialization crash related to multiple unfinalized heads](https://github.com/status-im/nimbus-eth1/pull/4334) - 2026-06-16
 * [Review] [Review on: flake: bump NBS flake lock entry](https://github.com/status-im/nimbus-eth1/pull/4332#pullrequestreview-4505511559) - 2026-06-16
 * [Commit] [fix FC (de)serialization crash related to multiple unfinalized heads (#4334)](https://github.com/status-im/nimbus-eth1/commit/88bb9cf151d9b80992f6bd97334a90977f1ef7b2) - 2026-06-17
+* [Pull Request] [enforce CycleCreated warning as error](https://github.com/status-im/nimbus-eth1/pull/4342) - 2026-06-18
+* [Commit] [enforce CycleCreated warning as error (#4342)](https://github.com/status-im/nimbus-eth1/commit/bfdb6661c9ac14eb5d912bcdb663010588c5ac3c) - 2026-06-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27

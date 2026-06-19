@@ -149,6 +149,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Alternative gloas sync fix](https://github.com/Consensys/teku/pull/10825#pullrequestreview-4506458593) - 2026-06-16
 * [Commit] [Forkchoice on attestation tests (#10823)](https://github.com/Consensys/teku/commit/6ddc217d0f87024e34b98b04a6eda45f221394f2) - 2026-06-16
 * [Commit] [Disconnect bad inbound connections (#10830)](https://github.com/Consensys/teku/commit/007a3b01ecdc4e1e8899173dc35e52ca64ab4a3e) - 2026-06-16
+* [Review] [Review on: statically cache SszByte values](https://github.com/Consensys/teku/pull/10859#pullrequestreview-4526765470) - 2026-06-18
+* [Pull Request] [Specrefs capella, deneb, electra + last fulu batch](https://github.com/Consensys/teku/pull/10860) - 2026-06-18
+* [Review] [Review on: EIP-8282 Add builder execution requests](https://github.com/Consensys/teku/pull/10849#pullrequestreview-4525162979) - 2026-06-18
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

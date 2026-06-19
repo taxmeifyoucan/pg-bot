@@ -309,6 +309,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(trie): bulkset-style stateless witness generator + pipeline integration](https://github.com/NethermindEth/nethermind/pull/12029) - 2026-06-17
 * [Commit] [Refactor: collapse finalization manager into IBlockTree (#11775)](https://github.com/NethermindEth/nethermind/commit/b3f005796308322df245bab8ca2f85cbd4c1c097) - 2026-06-17
 * [Commit] [Flat: force-persist the head-reachable fork instead of an arbitrary one (#11967)](https://github.com/NethermindEth/nethermind/commit/bb3bf8d51a26dad42ac85466d923275f72284c94) - 2026-06-17
+* [Review] [Review on: Flat - Persistence Cache](https://github.com/NethermindEth/nethermind/pull/12035#pullrequestreview-4529195528) - 2026-06-18
+* [Review] [Review on: EvmPoolMemory Improvement](https://github.com/NethermindEth/nethermind/pull/11991#pullrequestreview-4522783488) - 2026-06-18
+* [Review] [Review on: Default RocksDB exit flush to WAL-only, add opt-in full flush](https://github.com/NethermindEth/nethermind/pull/12047#pullrequestreview-4523018938) - 2026-06-18
+* [Pull Request] [Centralize the local node identity in IEnode via EnodeProvider](https://github.com/NethermindEth/nethermind/pull/12051) - 2026-06-18
+* [Review] [Review on: feat(engine): align SSZ-REST wire format with execution-apis#793 update](https://github.com/NethermindEth/nethermind/pull/11998#pullrequestreview-4522645567) - 2026-06-18
+* [Review] [Review on: feat: host-side prerequisites for the embedded beacon chain plugin (SSZ ulong limits, injectable discv5 ENR filter)](https://github.com/NethermindEth/nethermind/pull/11985#pullrequestreview-4522752165) - 2026-06-18
+* [Commit] [Centralize the local node identity in IEnode via EnodeProvider (#12051)](https://github.com/NethermindEth/nethermind/commit/fbcd706de12cd5740abc1f8e9803fd4fda41d976) - 2026-06-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

@@ -33,6 +33,7 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: Merge.Plugin: produce testing_commitBlockV1 blocks on the main world state](https://github.com/NethermindEth/nethermind/pull/11981#pullrequestreview-4498721660) - 2026-06-15
 * [Review] [Review on: fix(sync): recover header sync after a lost chain level on unclean shutdown (#8029)](https://github.com/NethermindEth/nethermind/pull/11994#pullrequestreview-4497380291) - 2026-06-15
 * [Review] [Review on: fix(json): stop CountingStreamPipeWriter.Advance from flushing mid-write](https://github.com/NethermindEth/nethermind/pull/12002#pullrequestreview-4504583959) - 2026-06-16
+* [Review] [Review on: Centralize the local node identity in IEnode via EnodeProvider](https://github.com/NethermindEth/nethermind/pull/12051#pullrequestreview-4522891147) - 2026-06-18
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787) - 2026-04-23
 ## Q1 2026

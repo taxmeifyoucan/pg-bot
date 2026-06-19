@@ -175,11 +175,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [avoid sublist allocation in TreeUtil.createTree (#10839)](https://github.com/Consensys/teku/commit/373abcc36ceed03438c0d20cdc767ea38952c6bf) - 2026-06-16
 * [Commit] [Alternative gloas sync fix (#10825)](https://github.com/Consensys/teku/commit/e23ed82294a105db0ea48871049d17eee4867fb4) - 2026-06-16
 * [Issue] [devnet5 - rejected `proposer_preferences`](https://github.com/Consensys/teku/issues/10847) - 2026-06-17
+* [Review] [Review on: Fix peer selection so inbound connections cannot occupy all peer slots and prevent required outbound connections](https://github.com/Consensys/teku/pull/10846#pullrequestreview-4527030482) - 2026-06-18
+* [Pull Request] [statically cache SszByte values](https://github.com/Consensys/teku/pull/10859) - 2026-06-18
+* [Commit] [statically cache SszByte values (#10859)](https://github.com/Consensys/teku/commit/f2fea3c8cc8adb18d5c5058dd6c7dcfe77b22f1f) - 2026-06-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16
 * [Issue] [Adapt circuitbreaker logic to GLOAS](https://github.com/ethereum/consensus-specs/issues/5251) - 2026-05-14
 * [Pull Request] [Require imported payload for `index == 1` attestation gossip](https://github.com/ethereum/consensus-specs/pull/5355) - 2026-06-10
+
+[libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
+* [Pull Request] [Allocations reduction](https://github.com/libp2p/jvm-libp2p/pull/493) - 2026-06-18
 ## Q1 2026
 
 
