@@ -15,6 +15,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: feat(test-benchmark): add uncacheable precompile benchmark](https://github.com/ethereum/execution-specs/pull/2600#pullrequestreview-4081330842) - 2026-04-09
 * [Review] [Review on: chore(test-benchmark): remove unused stateful benchmarks](https://github.com/ethereum/execution-specs/pull/2686#pullrequestreview-4118382863) - 2026-04-16
 * [Review] [Review on: fix(spec-specs, tests): EIP-8037 strict block-gas inclusion rule](https://github.com/ethereum/execution-specs/pull/2892#pullrequestreview-4465918727) - 2026-06-10
+* [Issue] [CALL* does not refund the NEW_ACCOUNT state-gas charge when the call fails before entering the frame (EIP-8037)](https://github.com/ethereum/execution-specs/issues/3020) - 2026-06-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Glamsterdam Repricings #5, April 1, 2026](https://github.com/ethereum/pm/issues/2000) - 2026-04-01
 
@@ -70,6 +71,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Commit] [Update EIP-8037: resolve EIP-7928 conflict and route state-gas refills to origin](https://github.com/ethereum/EIPs/commit/bee14641d13e369e1c0418757eedf2eb0f04e0ac) - 2026-06-18
 * [Commit] [Update EIP-8038: Add preliminary numbers](https://github.com/ethereum/EIPs/commit/803ee8db0088b3ace1061df85182168bf9438fc7) - 2026-06-18
 * [Commit] [Update EIP-2780: Rework as resource-based intrinsic transaction gas](https://github.com/ethereum/EIPs/commit/55fda8316009b4eb33648bbea03e19aff1e0d472) - 2026-06-18
+* [Pull Request] [Update EIP-8007: refresh repricing summaries for 2780, 7904, 8037, 8038](https://github.com/ethereum/EIPs/pull/11817) - 2026-06-19
+* [Commit] [Update EIP-8007: refresh repricing summaries for 2780, 7904, 8037, 8038](https://github.com/ethereum/EIPs/commit/d2820258f03f889f94e9726843d5fa9654b3e123) - 2026-06-19
 ## Q1 2026
 
 

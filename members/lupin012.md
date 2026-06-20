@@ -209,6 +209,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [QA: latest test in batch block not all in paralel](https://github.com/erigontech/erigon/pull/21884) - 2026-06-18
 * [Pull Request] [rpc: add rpctest for optional bn](https://github.com/erigontech/erigon/pull/21878) - 2026-06-18
 * [Review] [Review on: rpc: impl eth fill transaction](https://github.com/erigontech/erigon/pull/21870#pullrequestreview-4522410752) - 2026-06-18
+* [Pull Request] [[3.5] rpc: cherry-pick fix base fee too low error code  (#21418)](https://github.com/erigontech/erigon/pull/21902) - 2026-06-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

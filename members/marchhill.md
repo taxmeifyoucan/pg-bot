@@ -97,6 +97,13 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: SLOAD Improvements](https://github.com/NethermindEth/nethermind/pull/12043#pullrequestreview-4524386750) - 2026-06-18
 * [Pull Request] [Bump pyspec fixtures to tests-bal@v7.3.2](https://github.com/NethermindEth/nethermind/pull/12060) - 2026-06-18
 * [Commit] [Bump pyspec fixtures to tests-bal@v7.3.2 (#12060)](https://github.com/NethermindEth/nethermind/commit/eb446394bab3d18903a32b0edf016cc9337db02d) - 2026-06-18
+
+* [Review] [Review on: fix(simulate): return 0 for unresolvable BLOCKHASH in eth_simulateV1 instead of throwing](https://github.com/NethermindEth/nethermind/pull/12037#pullrequestreview-4532952314) - 2026-06-19
+* [Review] [Review on: fix(eth): cap outgoing block bodies under the devp2p message size limit](https://github.com/NethermindEth/nethermind/pull/12059#pullrequestreview-4532846725) - 2026-06-19
+* [Review] [Review on: Fix undisposed array-pool list leaks](https://github.com/NethermindEth/nethermind/pull/12034#pullrequestreview-4532886125) - 2026-06-19
+* [Review] [Review on: perf(flat): cheaper TrieWarmer enqueue fast-path](https://github.com/NethermindEth/nethermind/pull/12062#pullrequestreview-4532606207) - 2026-06-19
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat: Bogota fork + EIP-7805 engine_newPayloadV6 bump](https://github.com/ethereum/execution-specs/pull/3028) - 2026-06-19
 ## Q1 2026
 
 

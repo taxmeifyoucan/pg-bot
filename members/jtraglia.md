@@ -386,6 +386,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Remove the IL bitlist from bid](https://github.com/ethereum/consensus-specs/pull/5371#pullrequestreview-4522899479) - 2026-06-18
 * [Review] [Review on: Align fork version modifiers](https://github.com/ethereum/consensus-specs/pull/5372#pullrequestreview-4522798908) - 2026-06-18
 * [Commit] [Reset withdrawable epoch when depositing to an exited builder (#5373)](https://github.com/ethereum/consensus-specs/commit/9bf115fe30b3ed55dc889b61c7d7babcf002e7ce) - 2026-06-18
+* [Review] [Review on: Enable FCR tests for Gloas and Heze](https://github.com/ethereum/consensus-specs/pull/5376#pullrequestreview-4533910878) - 2026-06-19
+* [Pull Request] [Introduce `PAYLOAD_BUILDER_VERSION`](https://github.com/ethereum/consensus-specs/pull/5377) - 2026-06-19
+* [Review] [Review on: Align note comments to use complete sentences](https://github.com/ethereum/consensus-specs/pull/5375#pullrequestreview-4530901515) - 2026-06-19
+* [Commit] [Introduce `PAYLOAD_BUILDER_VERSION` (#5377)](https://github.com/ethereum/consensus-specs/commit/e94b3d6c2c8f5cf92e611c27fc7f3d9a0905d4c3) - 2026-06-19
+* [Commit] [Add builder execution requests (EIP-8282) (#5359)](https://github.com/ethereum/consensus-specs/commit/bc8470b6771c4a57dec1fc922e83d36ae6f4501d) - 2026-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 
@@ -413,6 +418,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/pull/11760#pullrequestreview-4526815895) - 2026-06-18
+* [Review] [Review on: Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/pull/11760#pullrequestreview-4530939559) - 2026-06-19
 ## Q1 2026
 
 

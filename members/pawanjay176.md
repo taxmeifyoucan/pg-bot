@@ -66,6 +66,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Fix Gloas range sync issue where a batch cannot be re-fetched if the blocks were already imported](https://github.com/sigp/lighthouse/pull/9477#pullrequestreview-4510961569) - 2026-06-16
 * [Review] [Review on: Fix Gloas range sync issue where a batch cannot be re-fetched if the blocks were already imported](https://github.com/sigp/lighthouse/pull/9477#pullrequestreview-4520529790) - 2026-06-18
 * [Review] [Review on: Fix and improve handling of empty columns after getBlobs response](https://github.com/sigp/lighthouse/pull/9361#pullrequestreview-4518822618) - 2026-06-17
+* [Review] [Review on: Fix Gloas range sync issue where a batch cannot be re-fetched if the blocks were already imported](https://github.com/sigp/lighthouse/pull/9477#pullrequestreview-4530420537) - 2026-06-19
+* [Review] [Review on: fix: reject non-empty request bodies for light-client no-body protocols](https://github.com/sigp/lighthouse/pull/9499#pullrequestreview-4534597644) - 2026-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4100433052) - 2026-04-13

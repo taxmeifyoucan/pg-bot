@@ -113,6 +113,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Remove Bazel: Phase 0/9](https://github.com/OffchainLabs/prysm/pull/17000) - 2026-06-18
 * [Review] [Review on: Deprecate flags: `--enable-db-backup-webhook`, `--slasher-rpc-provider`, `--slasher-tls-cert`.](https://github.com/OffchainLabs/prysm/pull/16997#pullrequestreview-4525047843) - 2026-06-18
 * [Review] [Review on: Use Engine API HasBlobs call to quickly advertise missing cells for partial columns](https://github.com/OffchainLabs/prysm/pull/16774#pullrequestreview-4523966103) - 2026-06-18
+* [Review] [Review on: Harden Gloas pending data column queue against penalty-free flooding](https://github.com/OffchainLabs/prysm/pull/16936#pullrequestreview-4533812872) - 2026-06-19
+* [Pull Request] [Remove Bazel: Phase 2/9](https://github.com/OffchainLabs/prysm/pull/17007) - 2026-06-19
+* [Review] [Review on: Use `-diff` built-in command for checking `go mod tidy`](https://github.com/OffchainLabs/prysm/pull/16442#pullrequestreview-4531102922) - 2026-06-19
+* [Review] [Review on: Remove go mod trick using native `tool` directive](https://github.com/OffchainLabs/prysm/pull/16913#pullrequestreview-4530882296) - 2026-06-19
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

@@ -155,6 +155,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Express `GasCosts.CALL_VALUE` as a derivation instead of a literal](https://github.com/ethereum/execution-specs/issues/3014) - 2026-06-18
 * [Commit] [feat(tests): add max-code-size jumpdest test for immediate bytes (#2998)](https://github.com/ethereum/execution-specs/commit/5f8c109f75d51bca8b0dd04750c80bcea4fc995f) - 2026-06-18
 * [Commit] [chore(tooling): update write-test skill for automatic tx gas-limit (#2995)](https://github.com/ethereum/execution-specs/commit/fcd46ca03fd4ec098274bf8e7929c800922a0fe3) - 2026-06-18
+* [Pull Request] [fix(test-cli): raise a clear error when `gentest` can't find `ruff`](https://github.com/ethereum/execution-specs/pull/3024) - 2026-06-19
+* [Pull Request] [fix(deps,tooling): move `ruff` to testing package deps for `gentest`](https://github.com/ethereum/execution-specs/pull/3023) - 2026-06-19
+* [Issue] [Move new-fork CLI tests out of the json-loader job](https://github.com/ethereum/execution-specs/issues/3022) - 2026-06-19
+* [Commit] [chore(deps,tooling): move ruff to testing package deps for gentest](https://github.com/ethereum/execution-specs/commit/ab00b3c48b17c0cfe344796e972741819ac77d0f) - 2026-06-19
+* [Commit] [chore(ci,tooling): speed up json-loader job (#3010)](https://github.com/ethereum/execution-specs/commit/babe45cfb406abed78a01413e0ab5361a3f6c753) - 2026-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 
@@ -173,6 +178,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: Update EIP-7708: Add gas costs for system-emitted transfer and burn logs](https://github.com/ethereum/EIPs/pull/11627#pullrequestreview-4251124385) - 2026-05-08
 * [Review] [Review on: Update EIP-2780: Add missing 7708 log costs for CREATE with endowment](https://github.com/ethereum/EIPs/pull/11586#pullrequestreview-4250614950) - 2026-05-08
 * [Commit] [Update EIP-2780: Add missing 7708 log costs for CREATE with endowment](https://github.com/ethereum/EIPs/commit/4b612eec2ef70611bba3e0819d137dcfb9b6cd81) - 2026-05-08
+* [Pull Request] [Update EIP-8037: Add explanation of 101 byte count in `REGULAR_PER_AUTH_BASE_COST`](https://github.com/ethereum/EIPs/pull/11818) - 2026-06-19
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: clients/ethrex: import block files individually](https://github.com/ethereum/hive/pull/1461#pullrequestreview-4226428886) - 2026-05-05
 * [Review] [Review on: clients/erigon: import all per-block files in a single process](https://github.com/ethereum/hive/pull/1519#pullrequestreview-4416649539) - 2026-06-03

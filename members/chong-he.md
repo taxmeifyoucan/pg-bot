@@ -61,6 +61,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Add Content-Length limit to the SSZ API HTTP endpoints](https://github.com/sigp/lighthouse/pull/9398#pullrequestreview-4504610210) - 2026-06-16
 * [Review] [Review on: Update DB docs for v8.2.0/schema v29](https://github.com/sigp/lighthouse/pull/9489#pullrequestreview-4520817978) - 2026-06-18
 * [Pull Request] [Refactor proposer_preferences_service and add add VC test](https://github.com/sigp/lighthouse/pull/9500) - 2026-06-18
+* [Review] [Review on: fix: auto-pull latest Nethermind version in EL test](https://github.com/sigp/lighthouse/pull/9282#pullrequestreview-4530751805) - 2026-06-19
 ## Q1 2026
 
 

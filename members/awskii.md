@@ -208,6 +208,8 @@ Team: Erigon
 * [Review] [Review on: snapshotsync: prune blocks in one PruneBlocks call per cycle (#21861)](https://github.com/erigontech/erigon/pull/21873#pullrequestreview-4522420576) - 2026-06-18
 * [Issue] [`seg reset` leaves gaps in visible snapshot files (rcache/logaddrs/logtopics)](https://github.com/erigontech/erigon/issues/21876) - 2026-06-18
 * [Commit] [cmd: make 'seg ls' work without chaindata via graceful degradation (#21862)](https://github.com/erigontech/erigon/commit/213f13cf3f7eefbd7297c3c3da4db41af6ed5b2e) - 2026-06-18
+* [Pull Request] [[r3.4] db/config3: shrink default step size to LegacyStepSize/4](https://github.com/erigontech/erigon/pull/21905) - 2026-06-19
+* [Commit] [execution/commitment: materialize collapse-sibling branch in toWitnessTrie (#21892)](https://github.com/erigontech/erigon/commit/7d6c43f681e5199e800453526b92f53b039e9b92) - 2026-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

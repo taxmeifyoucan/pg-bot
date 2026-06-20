@@ -164,6 +164,9 @@ Team: Reth
 * [Commit] [chore(engine): transaction_count is always known (#25423)](https://github.com/paradigmxyz/reth/commit/ccc6e720105795ef4e9f096542d02a910fed0c7c) - 2026-06-18
 * [Commit] [perf(engine): unordered tx iterator for BALs (#25411)](https://github.com/paradigmxyz/reth/commit/b630a7e1ecc1974731a32923c7855f579ac3362e) - 2026-06-18
 * [Commit] [chore: bump Rust and install LLVM in nix flake (#25418)](https://github.com/paradigmxyz/reth/commit/827894bdbe44cf551c9d2434abbd3ab7da8248d2) - 2026-06-18
+* [Review] [Review on: refactor(trie): remove ParallelSparseTrie](https://github.com/paradigmxyz/reth/pull/25453#pullrequestreview-4533763669) - 2026-06-19
+* [Review] [Review on: chore: add rkrasiuk bench Slack mapping](https://github.com/paradigmxyz/reth/pull/25468#pullrequestreview-4533420964) - 2026-06-19
+* [Pull Request] [async mdbx](https://github.com/paradigmxyz/reth/pull/25461) - 2026-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

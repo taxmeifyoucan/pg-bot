@@ -223,6 +223,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Use EL and CL identifiers in default graffiti](https://github.com/status-im/nimbus-eth2/pull/8620#pullrequestreview-4521634667) - 2026-06-18
 * [Review] [Review on: Ensure verification conditions for bid are satisfied as proposer](https://github.com/status-im/nimbus-eth2/pull/8606#pullrequestreview-4522881100) - 2026-06-18
 * [Pull Request] [adjust slot end/next-slot-preparation timings](https://github.com/status-im/nimbus-eth2/pull/8621) - 2026-06-18
+* [Review] [Review on: Ensure verification conditions for bid are satisfied as proposer](https://github.com/status-im/nimbus-eth2/pull/8606#pullrequestreview-4532421983) - 2026-06-19
+* [Review] [Review on: match execution payload bids to preferences by dependent_root](https://github.com/status-im/nimbus-eth2/pull/8598#pullrequestreview-4530394988) - 2026-06-19
+* [Review] [Review on: feat(rest): expose peer score and disconnect reason on /eth/v1/node/peers](https://github.com/status-im/nimbus-eth2/pull/8449#pullrequestreview-4530662403) - 2026-06-19
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

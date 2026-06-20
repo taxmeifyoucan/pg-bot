@@ -357,6 +357,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: clamp pivotSlot calculation to GENESIS_SLOT](https://github.com/ChainSafe/lodestar/pull/9521#pullrequestreview-4524586839) - 2026-06-18
 * [Pull Request] [feat: queue execution payload envelope until its block is imported](https://github.com/ChainSafe/lodestar/pull/9520) - 2026-06-18
 * [Review] [Review on: feat: queue execution payload envelope until its block is imported](https://github.com/ChainSafe/lodestar/pull/9520#pullrequestreview-4524079723) - 2026-06-18
+* [Review] [Review on: chore: remove v1 attestation endpoints](https://github.com/ChainSafe/lodestar/pull/9531#pullrequestreview-4535320666) - 2026-06-19
+* [Pull Request] [fix: reject bids with invalid prev_randao during gossip validation](https://github.com/ChainSafe/lodestar/pull/9533) - 2026-06-19
+* [Review] [Review on: fix: reject bids with invalid prev_randao during gossip validation](https://github.com/ChainSafe/lodestar/pull/9533#pullrequestreview-4535079250) - 2026-06-19
+* [Pull Request] [feat: pass only signed bid to processExecutionPayloadBid](https://github.com/ChainSafe/lodestar/pull/9530) - 2026-06-19
+* [Pull Request] [fix: only clear builder payment if slashed validator is the proposer](https://github.com/ChainSafe/lodestar/pull/9529) - 2026-06-19
+* [Review] [Review on: chore(deps): bump js-yaml from 4.1.1 to 4.2.0](https://github.com/ChainSafe/lodestar/pull/9525#pullrequestreview-4531150448) - 2026-06-19
+* [Review] [Review on: chore(deps): bump tmp from 0.2.6 to 0.2.7](https://github.com/ChainSafe/lodestar/pull/9512#pullrequestreview-4531086952) - 2026-06-19
+* [Issue] [Published data columns to 0 peers warning](https://github.com/ChainSafe/lodestar/issues/9527) - 2026-06-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -455,6 +463,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Modify `get_proposer_head` for Gloas](https://github.com/ethereum/consensus-specs/pull/5348#pullrequestreview-4461053066) - 2026-06-09
 * [Review] [Review on: Reset withdrawable epoch when depositing to an exited builder](https://github.com/ethereum/consensus-specs/pull/5373#pullrequestreview-4523886482) - 2026-06-18
 * [Review] [Review on: Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374#pullrequestreview-4527260463) - 2026-06-18
+* [Review] [Review on: Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374#pullrequestreview-4530950397) - 2026-06-19
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 

@@ -74,6 +74,8 @@ Team: Erigon
 * [Review] [Review on: integration_test: save Reth (commmit 87fc4cf4355ddbc59220f691a46d9f9d354adfa0 ) response with hive chain](https://github.com/erigontech/rpc-tests/pull/571#pullrequestreview-4447621035) - 2026-06-08
 * [Review] [Review on: integration_test: add trace_block & trace_replayTransaction post shanghai](https://github.com/erigontech/rpc-tests/pull/573#pullrequestreview-4455626812) - 2026-06-09
 * [Review] [Review on: integration_test: permit -A -x](https://github.com/erigontech/rpc-tests/pull/574#pullrequestreview-4465458975) - 2026-06-10
+* [Review] [Review on: integration-test: latest test are processed with batch block ](https://github.com/erigontech/rpc-tests/pull/579#pullrequestreview-4535170243) - 2026-06-19
+* [Review] [Review on: add latest-block tests for optional block param on state methods](https://github.com/erigontech/rpc-tests/pull/577#pullrequestreview-4535168411) - 2026-06-19
 ## Q1 2026
 
 

@@ -70,6 +70,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Don't invalidate Gloas beacon block if execution payload envelope get…](https://github.com/grandinetech/grandine/pull/756#pullrequestreview-4503609958) - 2026-06-16
 * [Pull Request] [Check prev_randao in payload bid](https://github.com/grandinetech/grandine/pull/762) - 2026-06-18
 * [Issue] [[Glamsterdam] Reject bids with invalid `prev_randao` during gossip validation](https://github.com/grandinetech/grandine/issues/761) - 2026-06-17
+* [Pull Request] [Update consensus-spec-tests for `glamsterdam-devnet-6`](https://github.com/grandinetech/grandine/pull/765) - 2026-06-19
+* [Issue] [[Glamsterdam] Update consensus-spec-tests to v1.7.0-alpha.11 or beta.0](https://github.com/grandinetech/grandine/issues/764) - 2026-06-19
 ## Q1 2026
 
 

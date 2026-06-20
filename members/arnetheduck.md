@@ -28,6 +28,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [chronos: bump](https://github.com/status-im/nimbus-eth1/pull/4339) - 2026-06-17
 * [Pull Request] [explicitly disable nim stack traces with libbacktrace](https://github.com/status-im/nimbus-eth1/pull/4347) - 2026-06-18
 * [Commit] [explicitly disable nim stack traces with libbacktrace (#4347)](https://github.com/status-im/nimbus-eth1/commit/5d09842f8931ece6bd215f2ba2abbbc7a7b7cc62) - 2026-06-18
+* [Pull Request] [nimble: add some deps - pretty broken but closer to reality](https://github.com/status-im/nimbus-eth1/pull/4351) - 2026-06-19
+* [Pull Request] [el_sync: don't log full payload](https://github.com/status-im/nimbus-eth1/pull/4352) - 2026-06-19
+* [Commit] [nimble: add some deps - pretty broken but closer to reality (#4351)](https://github.com/status-im/nimbus-eth1/commit/5a6dfb3fd308b6117130a63c365fc0a0ae3acbf9) - 2026-06-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid blocking main thread on reconstruction](https://github.com/status-im/nimbus-eth2/pull/8346) - 2026-04-27
 * [Pull Request] [gloas: pool cleanups](https://github.com/status-im/nimbus-eth2/pull/8348) - 2026-04-28

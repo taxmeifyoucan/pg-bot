@@ -77,6 +77,9 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Fix phase0 & add Fulu `get_dependent_root` variants](https://github.com/ethereum/consensus-specs/pull/5352#pullrequestreview-4514801591) - 2026-06-17
 * [Pull Request] [Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374) - 2026-06-18
 * [Review] [Review on: Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374#pullrequestreview-4523821639) - 2026-06-18
+* [Pull Request] [Enable FCR tests for Gloas and Heze](https://github.com/ethereum/consensus-specs/pull/5376) - 2026-06-19
+* [Review] [Review on: Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374#pullrequestreview-4530030046) - 2026-06-19
+* [Commit] [Enable FCR tests for Gloas and Heze (#5376)](https://github.com/ethereum/consensus-specs/commit/7d5f3348d7b947851861745be9ce0ba30e526531) - 2026-06-19
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20
@@ -92,6 +95,8 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Pull Request] [engine: Deduplicate PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/798) - 2026-05-12
 * [Commit] [engine: Deduplicate PayloadAttributesV4 (#798)](https://github.com/ethereum/execution-apis/commit/452a0f8bca3b225fcf347c1b201a862a9e954c3e) - 2026-05-12
 * [Review] [Review on: fix: keep el internal rules outside engine api block access list](https://github.com/ethereum/execution-apis/pull/811#pullrequestreview-4362700489) - 2026-05-26
+* [Review] [Review on: Remove redundant specifications for forkchoiceUpdatedV3+](https://github.com/ethereum/execution-apis/pull/834#pullrequestreview-4531103325) - 2026-06-19
+* [Review] [Review on: Use backticks for FCU](https://github.com/ethereum/execution-apis/pull/833#pullrequestreview-4531088083) - 2026-06-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4210578979) - 2026-05-01
 * [Review] [Review on: Add EIP: Batching attestations at source](https://github.com/ethereum/EIPs/pull/11589#pullrequestreview-4233437938) - 2026-05-06

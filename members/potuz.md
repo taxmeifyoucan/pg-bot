@@ -117,6 +117,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Key payload ID cache by parent payload status](https://github.com/OffchainLabs/prysm/pull/16959#pullrequestreview-4508457431) - 2026-06-16
 * [Pull Request] [Recover Payload insertion](https://github.com/OffchainLabs/prysm/pull/16981) - 2026-06-16
 * [Review] [Review on: Key payload ID cache by parent payload status](https://github.com/OffchainLabs/prysm/pull/16959#pullrequestreview-4516337747) - 2026-06-17
+* [Review] [Review on: Seed bid KZG commitments on Gloas columns in by-root sync verification](https://github.com/OffchainLabs/prysm/pull/16992#pullrequestreview-4534690466) - 2026-06-19
+* [Review] [Review on: Fail execution payload envelope data column check during sync instead of blocking](https://github.com/OffchainLabs/prysm/pull/16994#pullrequestreview-4534705951) - 2026-06-19
+* [Review] [Review on: Bound data-column availability wait during batch sync](https://github.com/OffchainLabs/prysm/pull/16978#pullrequestreview-4534633166) - 2026-06-19
+* [Review] [Review on: Don't request data columns for empty slots in initial sync](https://github.com/OffchainLabs/prysm/pull/16976#pullrequestreview-4534619858) - 2026-06-19
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

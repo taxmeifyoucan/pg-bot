@@ -178,6 +178,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Fix peer selection so inbound connections cannot occupy all peer slots and prevent required outbound connections](https://github.com/Consensys/teku/pull/10846#pullrequestreview-4527030482) - 2026-06-18
 * [Pull Request] [statically cache SszByte values](https://github.com/Consensys/teku/pull/10859) - 2026-06-18
 * [Commit] [statically cache SszByte values (#10859)](https://github.com/Consensys/teku/commit/f2fea3c8cc8adb18d5c5058dd6c7dcfe77b22f1f) - 2026-06-18
+* [Review] [Review on: Fix peer selection so inbound connections cannot occupy all peer slots and prevent required outbound connections](https://github.com/Consensys/teku/pull/10846#pullrequestreview-4533849274) - 2026-06-19
+* [Review] [Review on: Specrefs capella, deneb, electra + last fulu batch](https://github.com/Consensys/teku/pull/10860#pullrequestreview-4534014128) - 2026-06-19
+* [Review] [Review on: SSE Event proposer_preferences](https://github.com/Consensys/teku/pull/10862#pullrequestreview-4533582251) - 2026-06-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16
@@ -186,6 +189,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Allocations reduction](https://github.com/libp2p/jvm-libp2p/pull/493) - 2026-06-18
+* [Commit] [Gossip heartbeat allocations reduction (#493)](https://github.com/libp2p/jvm-libp2p/commit/14e9d073d396b4d6efda84cec87b6c6071bf3a73) - 2026-06-19
 ## Q1 2026
 
 

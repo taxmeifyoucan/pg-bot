@@ -301,6 +301,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db/datastruct/btindex: EF-encode .bt pivot offsets ](https://github.com/erigontech/erigon/pull/21893) - 2026-06-19
 * [Review] [Review on: [wip] db/datastruct/btindex: shrink .bt in-memory node cache (uint64 offsets)](https://github.com/erigontech/erigon/pull/21875#pullrequestreview-4524182633) - 2026-06-18
 * [Issue] [snapshot releases for v3.6](https://github.com/erigontech/erigon/issues/21894) - 2026-06-19
+* [Review] [Review on: [r3.4] db/config3: shrink default step size to LegacyStepSize/4](https://github.com/erigontech/erigon/pull/21905#pullrequestreview-4533535585) - 2026-06-19
+* [Review] [Review on: db/datastruct/btindex: shrink .bt in-memory node cache (uint64 offsets)](https://github.com/erigontech/erigon/pull/21911#pullrequestreview-4531997768) - 2026-06-19
+* [Pull Request] [db/snapshotsync: resume caplin state dump per-type to avoid overlapping files](https://github.com/erigontech/erigon/pull/21901) - 2026-06-19
+* [Commit] [db/snapshotsync/freezeblocks: run blocks snapshot merge off the shared build semaphore (#21526)](https://github.com/erigontech/erigon/commit/eb63dff217a7518281e42aaf4179cb96bcc295b7) - 2026-06-19
 ## Q1 2026
 
 

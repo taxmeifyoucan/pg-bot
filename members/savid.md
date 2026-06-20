@@ -33,6 +33,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(validators): move report tool to validators index](https://github.com/ethpandaops/lab/pull/435) - 2026-05-27
 * [Commit] [feat(validators): move report tool to validators index (#435)](https://github.com/ethpandaops/lab/commit/337e3345e73c74865d318be214b2169c471a3f72) - 2026-05-27
 
+* [Review] [Review on: feat(state-growth): add ERC20/ERC721 storage-slot share chart](https://github.com/ethpandaops/lab/pull/436#pullrequestreview-4530117306) - 2026-06-19
 [ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
 * [Review] [Review on: refactor: align to recent xatu changes](https://github.com/ethpandaops/contributoor/pull/238#pullrequestreview-4407020783) - 2026-06-02
 ## Q1 2026

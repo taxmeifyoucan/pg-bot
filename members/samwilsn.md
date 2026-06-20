@@ -121,6 +121,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Issue] [Add newtype wrappers for `StateGas` and `RegularGas`](https://github.com/ethereum/execution-specs/issues/3015) - 2026-06-18
 * [Commit] [chore(specs): clean is_valid_delegation](https://github.com/ethereum/execution-specs/commit/c9a7c8dbbd327fc428755fdc611e3bf6b63c95b1) - 2026-06-18
 * [Commit] [refactor(specs): factor out auth validity](https://github.com/ethereum/execution-specs/commit/5cc6a81d5961e73620700e26b0a253807f72abc0) - 2026-06-18
+* [Pull Request] [feat(specs): update EIP-8037 impl for ethereum/EIPs#11715](https://github.com/ethereum/execution-specs/pull/3021) - 2026-06-19
+* [Review] [Review on: fix(test-cli): raise a clear error when `gentest` can't find `ruff`](https://github.com/ethereum/execution-specs/pull/3024#pullrequestreview-4534438426) - 2026-06-19
+* [Review] [Review on: refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill](https://github.com/ethereum/execution-specs/pull/3027#pullrequestreview-4534384169) - 2026-06-19
+* [Review] [Review on: fix(deps,tooling): move `ruff` to testing package deps for `gentest`](https://github.com/ethereum/execution-specs/pull/3023#pullrequestreview-4533218803) - 2026-06-19
 ## Q1 2026
 
 

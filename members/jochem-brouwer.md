@@ -27,6 +27,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: refactor(test-benchmark): support 8037 for `SSTORE` benchmark](https://github.com/ethereum/execution-specs/pull/2787#pullrequestreview-4208733379) - 2026-04-30
 * [Pull Request] [feat(benchmarks): add eth transfer cases for repricing](https://github.com/ethereum/execution-specs/pull/2837) - 2026-05-12
 * [Commit] [feat(test-benchmark): add eth transfer cases for repricing (#2837)](https://github.com/ethereum/execution-specs/commit/c8117f22bf61da4f163f349d97a9833389dd62b9) - 2026-05-14
+* [Pull Request] [feat(benchmark): add g1/g2 uncachable MSM bench](https://github.com/ethereum/execution-specs/pull/3030) - 2026-06-19
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4083109528) - 2026-04-09
 

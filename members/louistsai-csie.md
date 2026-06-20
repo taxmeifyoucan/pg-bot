@@ -145,6 +145,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: chore(tooling): update write-test skill for automatic tx gas-limit](https://github.com/ethereum/execution-specs/pull/2995#pullrequestreview-4522246913) - 2026-06-18
 * [Review] [Review on: chore(specs): clean is_valid_delegation](https://github.com/ethereum/execution-specs/pull/3003#pullrequestreview-4521834762) - 2026-06-18
 * [Review] [Review on: refactor(specs): factor out auth validity](https://github.com/ethereum/execution-specs/pull/3006#pullrequestreview-4521805004) - 2026-06-18
+* [Pull Request] [fix(test-benchmark): address EIP-8037 spec compatibility issues](https://github.com/ethereum/execution-specs/pull/3026) - 2026-06-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

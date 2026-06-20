@@ -147,6 +147,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Add Gloas builder API HTTP client](https://github.com/OffchainLabs/prysm/pull/16984#pullrequestreview-4526998129) - 2026-06-18
 * [Review] [Review on: Bound data-column availability wait during batch sync](https://github.com/OffchainLabs/prysm/pull/16978#pullrequestreview-4528038755) - 2026-06-18
 * [Review] [Review on: adding gossip validation on envelope api and block api default](https://github.com/OffchainLabs/prysm/pull/16960#pullrequestreview-4526472662) - 2026-06-18
+* [Review] [Review on: Add Gloas builder service execution payload bid and signed block methods](https://github.com/OffchainLabs/prysm/pull/17006#pullrequestreview-4529994563) - 2026-06-19
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

@@ -80,6 +80,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Review] [Review on: cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575#pullrequestreview-4195917013) - 2026-04-29
 
+* [Review] [Review on: trie: fix nodeHeight over-estimate so height-3 branches are archived](https://github.com/gballet/go-ethereum/pull/577#pullrequestreview-4531428402) - 2026-06-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/pull/11587#pullrequestreview-4207017413) - 2026-04-30
 ## Q1 2026

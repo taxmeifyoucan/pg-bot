@@ -191,6 +191,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [clients: fix deposit contract address in remaining mappers (#1525)](https://github.com/ethereum/hive/commit/39f6fb2565a848a3124bb1822131cd8a5f9ba0a2) - 2026-06-05
 * [Review] [Review on: clients: restore mainnet deposit contract address default in mappers](https://github.com/ethereum/hive/pull/1530#pullrequestreview-4448396209) - 2026-06-08
 * [Review] [Review on: clients/reth: add `rpc.compute-state-root-for-eth-simulate` flag for reth](https://github.com/ethereum/hive/pull/1538#pullrequestreview-4515443372) - 2026-06-17
+* [Pull Request] [clients/nethermind,besu: add EIP-8282 builder request contracts](https://github.com/ethereum/hive/pull/1550) - 2026-06-19
+* [Review] [Review on: clients/reth: remove `jit` feature to fix docker build](https://github.com/ethereum/hive/pull/1549#pullrequestreview-4533085494) - 2026-06-19
 ## Q1 2026
 
 

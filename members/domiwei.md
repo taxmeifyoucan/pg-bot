@@ -106,6 +106,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl, sentinel: quiet data column sidecar misses](https://github.com/erigontech/erigon/pull/21686) - 2026-06-17
 * [Commit] [cl, sentinel: quiet data column sidecar misses (#21686)](https://github.com/erigontech/erigon/commit/04098aa692332a4d15f4d1e38a17f53cbe7e00ed) - 2026-06-17
 * [Review] [Review on: cl/validator/devvalidator: fix dev-mode validator drain that halts the chain (Electra attestation gap + divide-by-zero guard)](https://github.com/erigontech/erigon/pull/21851#pullrequestreview-4522058150) - 2026-06-18
+* [Pull Request] [cl/forkchoice: use delta tree for GLOAS weights](https://github.com/erigontech/erigon/pull/21913) - 2026-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

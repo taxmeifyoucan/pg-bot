@@ -116,6 +116,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(tests,test-forks): Address #2990 review comments (pkgutil, type: ignore, Spec dataclass)](https://github.com/ethereum/execution-specs/pull/3018) - 2026-06-18
 * [Review] [Review on: feat(spec,tests): Implement EIP-8282](https://github.com/ethereum/execution-specs/pull/2990#pullrequestreview-4528514085) - 2026-06-18
 * [Review] [Review on: feat(amsterdam): defer EIP-7702 delegate warming until entry checks pass](https://github.com/ethereum/execution-specs/pull/2900#pullrequestreview-4526457556) - 2026-06-18
+* [Review] [Review on: feat(tests): add EIP-211 return data buffer tests for SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3029#pullrequestreview-4535574413) - 2026-06-19
+* [Review] [Review on: feat(spec, spec-tests): 8037 Calldata floor accounting alignment](https://github.com/ethereum/execution-specs/pull/3005#pullrequestreview-4535481834) - 2026-06-19
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

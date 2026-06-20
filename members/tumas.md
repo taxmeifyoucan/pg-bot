@@ -41,6 +41,7 @@ Team: Grandine
 * [Review] [Review on: Pack attestations filtered by dependent root](https://github.com/grandinetech/grandine/pull/758#pullrequestreview-4507494998) - 2026-06-16
 * [Review] [Review on: Update block timeliness logic](https://github.com/grandinetech/grandine/pull/759#pullrequestreview-4515407155) - 2026-06-17
 * [Review] [Review on: Reintroduce networking spec tests](https://github.com/grandinetech/grandine/pull/719#pullrequestreview-4514416308) - 2026-06-17
+* [Pull Request] [Add compliance tests](https://github.com/grandinetech/grandine/pull/766) - 2026-06-19
 ## Q1 2026
 
 

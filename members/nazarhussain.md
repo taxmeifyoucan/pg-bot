@@ -62,6 +62,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: emit fast_confirmation SSE event per beacon-APIs (#9439)](https://github.com/ChainSafe/lodestar/commit/fb3e80a516c260383cb9fc5826f3a8d1fe5bda92) - 2026-06-09
 * [Commit] [chore: stabilize fastConfirmation perf bench (#9494)](https://github.com/ChainSafe/lodestar/commit/87884a880e8a43196499ee698b3634adbee22107) - 2026-06-10
 * [Review] [Review on: chore: stabilize fastConfirmation perf bench](https://github.com/ChainSafe/lodestar/pull/9494#pullrequestreview-4512281902) - 2026-06-17
+* [Pull Request] [feat: add peer manager metrics for TS vs Zig comparison](https://github.com/ChainSafe/lodestar/pull/9523) - 2026-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116154021) - 2026-04-15
 

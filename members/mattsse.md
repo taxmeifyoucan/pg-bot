@@ -666,6 +666,10 @@ Team: Reth
 * [Review] [Review on: fix: gate reth jit helper call](https://github.com/paradigmxyz/reth/pull/25413#pullrequestreview-4524599025) - 2026-06-18
 * [Review] [Review on: fix(rpc): align eth_fillTransaction default maxFeePerGas with go-ethereum (2 * base_fee + tip)](https://github.com/paradigmxyz/reth/pull/25258#pullrequestreview-4523213742) - 2026-06-18
 * [Review] [Review on: fix(provider): return none for incomplete block receipts](https://github.com/paradigmxyz/reth/pull/25410#pullrequestreview-4523921940) - 2026-06-18
+* [Pull Request] [perf(provider): share database provider metrics](https://github.com/paradigmxyz/reth/pull/25481) - 2026-06-19
+* [Review] [Review on: fix: track `SavedCache` usage via `ExecutionCache`](https://github.com/paradigmxyz/reth/pull/25460#pullrequestreview-4532551985) - 2026-06-19
+* [Review] [Review on: fix: wait for workers before writing cache](https://github.com/paradigmxyz/reth/pull/25462#pullrequestreview-4532747146) - 2026-06-19
+* [Review] [Review on: feat(network): add NetworkConfigBuilder::with_tcp_listener()](https://github.com/paradigmxyz/reth/pull/25424#pullrequestreview-4531608962) - 2026-06-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -699,6 +703,7 @@ Team: Reth
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: clients/reth: add `rpc.compute-state-root-for-eth-simulate` flag for reth](https://github.com/ethereum/hive/pull/1538#pullrequestreview-4458136381) - 2026-06-09
 
+* [Review] [Review on: clients/reth: remove `jit` feature to fix docker build](https://github.com/ethereum/hive/pull/1549#pullrequestreview-4532946967) - 2026-06-19
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore(deps): bump revm to 41, alloy-evm 0.37](https://github.com/paradigmxyz/revmc/pull/390) - 2026-06-12
 * [Commit] [chore(deps): bump revm to 41, alloy-evm 0.37 (#390)](https://github.com/paradigmxyz/revmc/commit/e86ab245f60e37396e7bbb66e44c877e47d58aea) - 2026-06-12

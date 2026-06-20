@@ -35,6 +35,10 @@ Github: [@weiihann](https://github.com/weiihann)
 
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Pull Request] [trie/bintrie: pack group-blob depth offsets into 3 bits](https://github.com/gballet/go-ethereum/pull/576) - 2026-05-29
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Pull Request] [feat(state-growth): add ERC20/ERC721 storage-slot share chart](https://github.com/ethpandaops/lab/pull/436) - 2026-06-19
+* [Commit] [feat(state-growth): add ERC20/ERC721 storage-slot share chart (#436)](https://github.com/ethpandaops/lab/commit/f7071ce048ad581776a523feb1f1188125ee4015) - 2026-06-19
 ## Q1 2026
 
 

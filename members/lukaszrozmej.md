@@ -719,6 +719,11 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Default RocksDB exit flush to WAL-only, add opt-in full flush](https://github.com/NethermindEth/nethermind/pull/12047#pullrequestreview-4522980485) - 2026-06-18
 * [Review] [Review on: Centralize the local node identity in IEnode via EnodeProvider](https://github.com/NethermindEth/nethermind/pull/12051#pullrequestreview-4522432783) - 2026-06-18
 * [Commit] [feat(engine): align SSZ-REST wire format with execution-apis#793 update (#11998)](https://github.com/NethermindEth/nethermind/commit/e15db122351661e0ddcc2c734b6419775ab50c65) - 2026-06-18
+* [Review] [Review on: Align debug_trace* opcode (struct) tracer with execution-apis #762](https://github.com/NethermindEth/nethermind/pull/12056#pullrequestreview-4531259954) - 2026-06-19
+* [Review] [Review on: Default RocksDB exit flush to WAL-only, add opt-in full flush](https://github.com/NethermindEth/nethermind/pull/12047#pullrequestreview-4531334865) - 2026-06-19
+* [Review] [Review on: fix(zkevm): Fatal stack-underflow halt in the zkEVM guest](https://github.com/NethermindEth/nethermind/pull/12064#pullrequestreview-4535280869) - 2026-06-19
+* [Review] [Review on: fix(eth): cap outgoing block bodies under the devp2p message size limit](https://github.com/NethermindEth/nethermind/pull/12059#pullrequestreview-4532198889) - 2026-06-19
+* [Review] [Review on: Flat - Persistence Cache](https://github.com/NethermindEth/nethermind/pull/12035#pullrequestreview-4530726616) - 2026-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

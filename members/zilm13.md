@@ -152,6 +152,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: statically cache SszByte values](https://github.com/Consensys/teku/pull/10859#pullrequestreview-4526765470) - 2026-06-18
 * [Pull Request] [Specrefs capella, deneb, electra + last fulu batch](https://github.com/Consensys/teku/pull/10860) - 2026-06-18
 * [Review] [Review on: EIP-8282 Add builder execution requests](https://github.com/Consensys/teku/pull/10849#pullrequestreview-4525162979) - 2026-06-18
+* [Pull Request] [Snappy benchmarks](https://github.com/Consensys/teku/pull/10861) - 2026-06-19
+* [Pull Request] [SSE Event proposer_preferences](https://github.com/Consensys/teku/pull/10862) - 2026-06-19
+* [Commit] [Specrefs capella, deneb, electra + last fulu batch (#10860)](https://github.com/Consensys/teku/commit/25be00adcefdc0737e76761c170f05ec90e4d6c9) - 2026-06-19
+* [Commit] [SSE Event proposer_preferences (#10862)](https://github.com/Consensys/teku/commit/483c487e0d90b7586e4fa81256085343428b0b50) - 2026-06-19
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

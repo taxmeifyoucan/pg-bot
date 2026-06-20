@@ -101,6 +101,7 @@ Team: Geth
 * [Pull Request] [Glamsterdam devnet 5](https://github.com/ethereum/go-ethereum/pull/35185) - 2026-06-17
 * [Pull Request] [core: experiment with reducing allocs for transfers](https://github.com/ethereum/go-ethereum/pull/35186) - 2026-06-17
 * [Commit] [all: change reflect.Ptr to reflect.Pointer (#35176)](https://github.com/ethereum/go-ethereum/commit/7c9032dff68aa469de45bec53e37c68d9d2a12d9) - 2026-06-18
+* [Pull Request] [Glamsterdam devnet 5](https://github.com/ethereum/go-ethereum/pull/35196) - 2026-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

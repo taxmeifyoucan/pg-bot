@@ -316,6 +316,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat(engine): align SSZ-REST wire format with execution-apis#793 update](https://github.com/NethermindEth/nethermind/pull/11998#pullrequestreview-4522645567) - 2026-06-18
 * [Review] [Review on: feat: host-side prerequisites for the embedded beacon chain plugin (SSZ ulong limits, injectable discv5 ENR filter)](https://github.com/NethermindEth/nethermind/pull/11985#pullrequestreview-4522752165) - 2026-06-18
 * [Commit] [Centralize the local node identity in IEnode via EnodeProvider (#12051)](https://github.com/NethermindEth/nethermind/commit/fbcd706de12cd5740abc1f8e9803fd4fda41d976) - 2026-06-18
+* [Pull Request] [Decouple InitializeNetwork from INethermindApi; register ProtocolsManager in DI](https://github.com/NethermindEth/nethermind/pull/12069) - 2026-06-20
+* [Pull Request] [Move NonceManager and BackgroundTaskScheduler to DI](https://github.com/NethermindEth/nethermind/pull/12068) - 2026-06-20
+* [Commit] [Default RocksDB exit flush to WAL-only, add opt-in full flush (#12047)](https://github.com/NethermindEth/nethermind/commit/ecad55f26a636e3a379ac4cbdd252adb1f19f958) - 2026-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

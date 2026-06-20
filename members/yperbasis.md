@@ -741,6 +741,23 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/cache: StateCache LRU + Mode + (txNum,epoch) lazy unwind](https://github.com/erigontech/erigon/pull/21386#pullrequestreview-4523067828) - 2026-06-18
 * [Issue] [Bump pectra kurtosis suite to assertoor v0.1.2 (currently kept on v0.0.17 — flaky)](https://github.com/erigontech/erigon/issues/21891) - 2026-06-18
 * [Commit] [cl/phase1/forkchoice: use the incremental indexed weight store for the GLOAS head (#21694)](https://github.com/erigontech/erigon/commit/4e9afc50d3a42d416b82673613ce8c25bfd0e5a0) - 2026-06-18
+* [Review] [Review on: build(deps): bump golang.org/x/* and mark3labs/mcp-go](https://github.com/erigontech/erigon/pull/21909#pullrequestreview-4531869727) - 2026-06-19
+* [Review] [Review on: p2p, gointerfaces: reduce Sprintf and H256/H512/H2048 allocs (262→118 -55%)](https://github.com/erigontech/erigon/pull/21897#pullrequestreview-4531277938) - 2026-06-19
+* [Pull Request] [execution/protocol: leave state and gas pools untouched for rejected transactions](https://github.com/erigontech/erigon/pull/21907) - 2026-06-19
+* [Review] [Review on: execution/protocol: leave state and gas pools untouched for rejected transactions](https://github.com/erigontech/erigon/pull/21907#pullrequestreview-4535210183) - 2026-06-19
+* [Review] [Review on: docs: fix stale --db.read.concurrency default in configuring-erigon](https://github.com/erigontech/erigon/pull/21903#pullrequestreview-4531808053) - 2026-06-19
+* [Review] [Review on: [r3.5] docs: fix stale --db.read.concurrency default in configuring-erigon](https://github.com/erigontech/erigon/pull/21904#pullrequestreview-4531807381) - 2026-06-19
+* [Review] [Review on: [r3.4] docs: fix stale --db.read.concurrency default in configuring-erigon](https://github.com/erigontech/erigon/pull/21906#pullrequestreview-4531831698) - 2026-06-19
+* [Pull Request] [execution/state, execution/stagedsync: retain AuRa SystemAddress in all EIP-161 empty-removal paths](https://github.com/erigontech/erigon/pull/21916) - 2026-06-19
+* [Pull Request] [execution, rpc, cmd/evm: gate EIP-161 and EIP-170 on DisabledEIPs](https://github.com/erigontech/erigon/pull/21915) - 2026-06-19
+* [Review] [Review on: execution, rpc, cmd/evm: gate EIP-161 and EIP-170 on DisabledEIPs](https://github.com/erigontech/erigon/pull/21915#pullrequestreview-4533341279) - 2026-06-19
+* [Review] [Review on: db/snapshotsync/freezeblocks: run blocks snapshot merge off the shared build semaphore](https://github.com/erigontech/erigon/pull/21526#pullrequestreview-4531038337) - 2026-06-19
+* [Pull Request] [ci: dequeue merge-queue PR on fast-cancelled leaf failure](https://github.com/erigontech/erigon/pull/21914) - 2026-06-19
+* [Pull Request] [ChangeLog: v3.4.4 release notes](https://github.com/erigontech/erigon/pull/21910) - 2026-06-19
+* [Review] [Review on: execution/stagedsync: remove diaglib.Send calls](https://github.com/erigontech/erigon/pull/21881#pullrequestreview-4531266336) - 2026-06-19
+* [Review] [Review on: build(deps): bump github.com/go-chi/chi/v5 from 5.2.3 to 5.2.4](https://github.com/erigontech/erigon/pull/21895#pullrequestreview-4531210114) - 2026-06-19
+* [Commit] [ci: don't evict merge-queue PRs on reshuffle cancellations (#21817)](https://github.com/erigontech/erigon/commit/d5c0ff16b28ea07b9206233c3250bb9e9b5c9911) - 2026-06-19
+* [Commit] [ChangeLog: v3.4.4 release notes (#21910)](https://github.com/erigontech/erigon/commit/99d207e02cc77235e6e81ce6b2801556a46c20b5) - 2026-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

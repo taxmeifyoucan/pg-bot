@@ -226,6 +226,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(included_deposits): filter by withdrawal credential type](https://github.com/ethpandaops/dora/commit/2b6366c3f409157c585426133923e8094bbc755c) - 2026-06-11
 * [Review] [Review on: Gloas: consistent execution-request slot attribution & deposit queue fixes](https://github.com/ethpandaops/dora/pull/744#pullrequestreview-4515287225) - 2026-06-17
 * [Review] [Review on: statetransition: handle Gloas builder deposits in process_deposit_request](https://github.com/ethpandaops/dora/pull/743#pullrequestreview-4515284637) - 2026-06-17
+* [Pull Request] [feat(blocks/slots): builder-block filter + gloas-aware MEV/Builder columns](https://github.com/ethpandaops/dora/pull/748) - 2026-06-19
+* [Pull Request] [feat(slots): show payload build source icon in proposer column](https://github.com/ethpandaops/dora/pull/747) - 2026-06-19
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01

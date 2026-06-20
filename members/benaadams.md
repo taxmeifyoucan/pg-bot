@@ -311,6 +311,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: RefList16 fix](https://github.com/NethermindEth/nethermind/pull/12021#pullrequestreview-4512146668) - 2026-06-17
 * [Review] [Review on: EvmPoolMemory Improvement](https://github.com/NethermindEth/nethermind/pull/11991#pullrequestreview-4524365200) - 2026-06-18
 * [Review] [Review on: SLOAD Improvements](https://github.com/NethermindEth/nethermind/pull/12043#pullrequestreview-4524787574) - 2026-06-18
+* [Review] [Review on: EvmPooledMemory fix](https://github.com/NethermindEth/nethermind/pull/12067#pullrequestreview-4536282479) - 2026-06-20
+* [Review] [Review on: fix(zkevm): Fatal stack-underflow halt in the zkEVM guest](https://github.com/NethermindEth/nethermind/pull/12064#pullrequestreview-4534881840) - 2026-06-19
+* [Review] [Review on: perf(flat): cheaper TrieWarmer enqueue fast-path](https://github.com/NethermindEth/nethermind/pull/12062#pullrequestreview-4532372508) - 2026-06-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

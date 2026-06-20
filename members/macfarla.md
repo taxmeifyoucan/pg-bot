@@ -305,6 +305,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: feat(pow-removal): Phase 2 - remove Ethash and PoW validation code](https://github.com/besu-eth/besu/pull/10659#pullrequestreview-4520305480) - 2026-06-17
 * [Commit] [feat(pow-removal): Phase 1 - remove PoW mining infrastructure (#10656)](https://github.com/besu-eth/besu/commit/8fc6805f881e605cf83d65af73096d2a65e57758) - 2026-06-17
 * [Review] [Review on: build: upgrade ErrorProne to 2.37.0 and NullAway to 0.13.7](https://github.com/besu-eth/besu/pull/10664#pullrequestreview-4521368978) - 2026-06-18
+* [Pull Request] [refactor: use pattern-matching instanceof](https://github.com/besu-eth/besu/pull/10663) - 2026-06-19
+* [Commit] [refactor: use pattern-matching instanceof (#10663)](https://github.com/besu-eth/besu/commit/e19f02788617d6ef39ce35965a2b8249b1745aef) - 2026-06-19
+* [Commit] [fix(engine): process FCU when head is known even if syncing (#10658)](https://github.com/besu-eth/besu/commit/17ce12154dfbc27b9570246472938c882b6c87fb) - 2026-06-19
+* [Commit] [feat(pow-removal): Phase 3 - remove miner_start, miner_stop, eth_mining RPC methods (#10662)](https://github.com/besu-eth/besu/commit/f9e14c7d649e3d66cc8862c4549afedc1064dd13) - 2026-06-19
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

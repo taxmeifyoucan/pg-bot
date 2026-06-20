@@ -75,6 +75,7 @@ Team: Grandine
 * [Commit] [Pack attestations filtered by dependent root](https://github.com/grandinetech/grandine/commit/63e7d20b3e4fedadebbbfed46b86d302c7805d02) - 2026-06-16
 * [Pull Request] [Update block timeliness logic](https://github.com/grandinetech/grandine/pull/759) - 2026-06-17
 * [Issue] [[Glamsterdam] Update block timeliness logic](https://github.com/grandinetech/grandine/issues/760) - 2026-06-17
+* [Review] [Review on: Add compliance tests](https://github.com/grandinetech/grandine/pull/766#pullrequestreview-4532342488) - 2026-06-19
 ## Q1 2026
 
 

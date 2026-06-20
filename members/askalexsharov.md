@@ -820,6 +820,14 @@ Team: Erigon
 * [Pull Request] [[wip] db/datastruct/btindex: shrink .bt in-memory node cache (uint64 offsets)](https://github.com/erigontech/erigon/pull/21875) - 2026-06-18
 * [Review] [Review on: [wip] db/datastruct/btindex: shrink .bt in-memory node cache (uint64 offsets)](https://github.com/erigontech/erigon/pull/21875#pullrequestreview-4522435184) - 2026-06-18
 * [Review] [Review on: db/recsplit/eliasfano16, db/recsplit/eliasfano32: don't mutate fuzzer input](https://github.com/erigontech/erigon/pull/21877#pullrequestreview-4522326228) - 2026-06-18
+* [Pull Request] [build(deps): bump golang.org/x/* and mark3labs/mcp-go](https://github.com/erigontech/erigon/pull/21909) - 2026-06-19
+* [Pull Request] [db/datastruct/btindex: shrink .bt in-memory node cache (uint64 offsets)](https://github.com/erigontech/erigon/pull/21911) - 2026-06-19
+* [Review] [Review on: db/datastruct/btindex: EF-encode .bt pivot offsets ](https://github.com/erigontech/erigon/pull/21893#pullrequestreview-4530019622) - 2026-06-19
+* [Review] [Review on: [3.5] rpc: cherry-pick fix base fee too low error code  (#21418)](https://github.com/erigontech/erigon/pull/21902#pullrequestreview-4530927312) - 2026-06-19
+* [Review] [Review on: db/recsplit: speed up index lookups](https://github.com/erigontech/erigon/pull/21619#pullrequestreview-4530000534) - 2026-06-19
+* [Commit] [build(deps): bump golang.org/x/* and mark3labs/mcp-go (#21909)](https://github.com/erigontech/erigon/commit/2597172592c95bc2e2feeecee55a67a806261af8) - 2026-06-20
+* [Commit] [db/datastruct/btindex: shrink .bt in-memory node cache (uint64 offsets) (#21875)](https://github.com/erigontech/erigon/commit/36a70c0ac956e3864bb1ba3b0591fa48880bfdf0) - 2026-06-19
+* [Commit] [execution/stagedsync: remove diaglib.Send calls (#21881)](https://github.com/erigontech/erigon/commit/230b0ec8f2e05d8e65e7d4da141e4d04f82e27f4) - 2026-06-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

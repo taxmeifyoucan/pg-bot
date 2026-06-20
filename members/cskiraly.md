@@ -23,6 +23,8 @@ Team: Codex DAS
 * [Review] [Review on: p2p/discover: decouple nodeFeed from Table mutex in waitForNodes](https://github.com/ethereum/go-ethereum/pull/34898#pullrequestreview-4250874816) - 2026-05-08
 
 * [Review] [Review on: p2p/discover: optimize findnodeByID](https://github.com/ethereum/go-ethereum/pull/33348#pullrequestreview-4483318326) - 2026-06-12
+* [Review] [Review on: p2p/discover: fix waiting wrong duration](https://github.com/ethereum/go-ethereum/pull/35002#pullrequestreview-4531890025) - 2026-06-19
+* [Review] [Review on: p2p/discover: return errNoUDPEndpoint from RequestENR](https://github.com/ethereum/go-ethereum/pull/34933#pullrequestreview-4531987869) - 2026-06-19
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: fix(discv5): add discovery port configuration for reth client](https://github.com/ethereum/hive/pull/1501#pullrequestreview-4330638505) - 2026-05-20
 ## Q1 2026

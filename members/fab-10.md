@@ -104,6 +104,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Enrich `/readiness` health endpoint with diagnostic details](https://github.com/besu-eth/besu/pull/10412#pullrequestreview-4429166787) - 2026-06-04
 * [Review] [Review on: Default omitted block parameter to latest on eth state methods](https://github.com/besu-eth/besu/pull/10587#pullrequestreview-4426509281) - 2026-06-04
 * [Pull Request] [Engine API methods refactor](https://github.com/besu-eth/besu/pull/10620) - 2026-06-10
+* [Pull Request] [Introduce BesuJsonModule and centralized JSON-RPC object mappers](https://github.com/besu-eth/besu/pull/10671) - 2026-06-19
+* [Pull Request] [fix: add missing sources jar checksums for org.web3j besu and eea 5.0.3](https://github.com/besu-eth/besu/pull/10670) - 2026-06-19
+* [Commit] [fix: add missing sources jar checksums for org.web3j besu and eea 5.0.3 (#10670)](https://github.com/besu-eth/besu/commit/7801d04ca64a285326956e92d6f33e6dc26098f5) - 2026-06-19
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

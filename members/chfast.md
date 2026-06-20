@@ -235,6 +235,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): EIP-8037 reject tx when gas_limit covers regular but not state intrinsic (#2876)](https://github.com/ethereum/execution-specs/commit/4d47a44c5e171044395db459380f462cfe9ddb0c) - 2026-06-10
 * [Commit] [feat(tests): EIP-8037 CREATE-tx collision refunds state-gas reservoir (#2875)](https://github.com/ethereum/execution-specs/commit/8ccd21f10f4fcdbee4eb6d68c818480ce7692c08) - 2026-06-10
 * [Commit] [bug(spec-specs, tests): EIP-8037 strict block-gas inclusion rule (#2892)](https://github.com/ethereum/execution-specs/commit/90e74f1cbf166d050bdf1d2043beb18acfd05820) - 2026-06-16
+* [Pull Request] [refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill](https://github.com/ethereum/execution-specs/pull/3027) - 2026-06-19
+* [Review] [Review on: refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill](https://github.com/ethereum/execution-specs/pull/3027#pullrequestreview-4533729465) - 2026-06-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

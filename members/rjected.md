@@ -81,6 +81,11 @@ Team: Reth
 * [Review] [Review on: perf(txpool): reduce allocations on reorg](https://github.com/paradigmxyz/reth/pull/25145#pullrequestreview-4480770361) - 2026-06-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [ci(bench): allow dispatch benchmarks with cargo features](https://github.com/bluealloy/revm/pull/3768) - 2026-06-19
+* [Pull Request] [test(precompile): add benchmarkoor bls12-381 benches](https://github.com/bluealloy/revm/pull/3766) - 2026-06-19
+* [Pull Request] [perf(precompile): use malachite for std modexp](https://github.com/bluealloy/revm/pull/3767) - 2026-06-19
 ## Q1 2026
 
 

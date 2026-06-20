@@ -197,6 +197,10 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: chore(engine): transaction_count is always known](https://github.com/paradigmxyz/reth/pull/25423#pullrequestreview-4526704423) - 2026-06-18
 * [Review] [Review on: fix(rpc): treat eth_sendRawTransaction as local path](https://github.com/paradigmxyz/reth/pull/25412#pullrequestreview-4524636844) - 2026-06-18
 * [Review] [Review on: fix(rpc): align eth_fillTransaction default maxFeePerGas with go-ethereum (2 * base_fee + tip)](https://github.com/paradigmxyz/reth/pull/25258#pullrequestreview-4523918878) - 2026-06-18
+* [Pull Request] [fix: track `SavedCache` usage via `ExecutionCache`](https://github.com/paradigmxyz/reth/pull/25460) - 2026-06-19
+* [Pull Request] [fix: wait for workers before writing cache](https://github.com/paradigmxyz/reth/pull/25462) - 2026-06-19
+* [Commit] [fix: track `SavedCache` usage via `ExecutionCache` (#25460)](https://github.com/paradigmxyz/reth/commit/4c22c7b7dc7247558da6a56267227d14789aaa47) - 2026-06-19
+* [Commit] [fix: wait for workers before writing cache (#25462)](https://github.com/paradigmxyz/reth/commit/43196ba7b5e4317defd30abb2bf74ec72a00979a) - 2026-06-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 
