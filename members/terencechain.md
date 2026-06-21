@@ -308,6 +308,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add Gloas builder service execution payload bid and signed block methods (#17006)](https://github.com/OffchainLabs/prysm/commit/80fca6695471a81b02b1f05b6ee0baeada580aa3) - 2026-06-19
 * [Commit] [Set bid KZG commitments on Gloas data columns in the DA availability check (#16988)](https://github.com/OffchainLabs/prysm/commit/bdf7689c6531f4e1b3d0fa4ac27f1f916e9a5a4c) - 2026-06-19
 * [Commit] [Emit payload_attributes SSE event after the Gloas fork (#16964)](https://github.com/OffchainLabs/prysm/commit/18c80b03192a51ceb650c507e2ecf6da4a373a5c) - 2026-06-19
+* [Pull Request] [Add missing execution_payload_bid gossip REJECT checks](https://github.com/OffchainLabs/prysm/pull/17011) - 2026-06-20
+* [Pull Request] [Remove unused deposit signature prefetch cache](https://github.com/OffchainLabs/prysm/pull/17012) - 2026-06-20
+* [Review] [Review on: Implement builder execution requests and spec tests v1.7.0-alpha.11](https://github.com/OffchainLabs/prysm/pull/16972#pullrequestreview-4537969059) - 2026-06-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

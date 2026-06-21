@@ -144,6 +144,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat(zkevm): Implement error handling (#12010)](https://github.com/NethermindEth/nethermind/commit/5497982525a8712ee01f5d8f097ee51d09abad7f) - 2026-06-17
 * [Pull Request] [fix(zkevm): Fatal stack-underflow halt in the zkEVM guest](https://github.com/NethermindEth/nethermind/pull/12064) - 2026-06-19
 * [Review] [Review on: fix(zkevm): Fatal stack-underflow halt in the zkEVM guest](https://github.com/NethermindEth/nethermind/pull/12064#pullrequestreview-4534924686) - 2026-06-19
+* [Pull Request] [fix(zkevm): Reject non-canonical Fp coordinates in BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/12074) - 2026-06-20
+* [Pull Request] [fix(zkevm): Zero-init BLS MSM precompile output buffer](https://github.com/NethermindEth/nethermind/pull/12072) - 2026-06-20
+* [Review] [Review on: EvmPooledMemory fix](https://github.com/NethermindEth/nethermind/pull/12067#pullrequestreview-4536949740) - 2026-06-20
+* [Review] [Review on: fix(zkevm): Fatal stack-underflow halt in the zkEVM guest](https://github.com/NethermindEth/nethermind/pull/12064#pullrequestreview-4537182780) - 2026-06-20
+* [Commit] [fix(zkevm): Zero-init BLS MSM precompile output buffer (#12072)](https://github.com/NethermindEth/nethermind/commit/b153183641d64bd14b6b325128f70b660176f7b6) - 2026-06-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 * [Review] [Review on: feat(zkevm): prune non scheduled forks in ProtocolFork](https://github.com/ethereum/execution-specs/pull/2926#pullrequestreview-4373692443) - 2026-05-27

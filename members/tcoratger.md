@@ -494,6 +494,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(multi-stark): tighten AIR zerocheck round-poly and degree](https://github.com/Plonky3/Plonky3/pull/1885#pullrequestreview-4533177782) - 2026-06-19
 * [Commit] [feat(multi-stark): AIR zerocheck via generic-degree sumcheck (#1879)](https://github.com/Plonky3/Plonky3/commit/8efcc370ef8314faa8078bc41f9aabb46a2f3f69) - 2026-06-19
 * [Commit] [test(sumcheck): de-flake tampered PoW witness rejection under parallel grind (#1883)](https://github.com/Plonky3/Plonky3/commit/b797b1a2b04d9c56a36502baefadf53c16cb4283) - 2026-06-19
+* [Review] [Review on: ci(release): refactor release process](https://github.com/Plonky3/Plonky3/pull/1887#pullrequestreview-4538825579) - 2026-06-20
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

@@ -319,6 +319,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Decouple InitializeNetwork from INethermindApi; register ProtocolsManager in DI](https://github.com/NethermindEth/nethermind/pull/12069) - 2026-06-20
 * [Pull Request] [Move NonceManager and BackgroundTaskScheduler to DI](https://github.com/NethermindEth/nethermind/pull/12068) - 2026-06-20
 * [Commit] [Default RocksDB exit flush to WAL-only, add opt-in full flush (#12047)](https://github.com/NethermindEth/nethermind/commit/ecad55f26a636e3a379ac4cbdd252adb1f19f958) - 2026-06-19
+* [Review] [Review on: perf: eliminate Evm/Db metrics false sharing; parallel-safe gas-price aggregation](https://github.com/NethermindEth/nethermind/pull/12071#pullrequestreview-4538914118) - 2026-06-20
+* [Pull Request] [refactor(api): remove 18 ctor/factory-injectable properties from INethermindApi](https://github.com/NethermindEth/nethermind/pull/12070) - 2026-06-20
+* [Commit] [Make IP resolution lazy and self-contained; remove ResolveIps step (#12050)](https://github.com/NethermindEth/nethermind/commit/bbb483310e19f8296990b3f177bc588d9348b6e7) - 2026-06-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

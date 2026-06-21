@@ -724,6 +724,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(zkevm): Fatal stack-underflow halt in the zkEVM guest](https://github.com/NethermindEth/nethermind/pull/12064#pullrequestreview-4535280869) - 2026-06-19
 * [Review] [Review on: fix(eth): cap outgoing block bodies under the devp2p message size limit](https://github.com/NethermindEth/nethermind/pull/12059#pullrequestreview-4532198889) - 2026-06-19
 * [Review] [Review on: Flat - Persistence Cache](https://github.com/NethermindEth/nethermind/pull/12035#pullrequestreview-4530726616) - 2026-06-19
+* [Review] [Review on: fix(zkevm): Zero-init BLS MSM precompile output buffer](https://github.com/NethermindEth/nethermind/pull/12072#pullrequestreview-4537107868) - 2026-06-20
+* [Review] [Review on: EvmPooledMemory fix](https://github.com/NethermindEth/nethermind/pull/12067#pullrequestreview-4537081644) - 2026-06-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

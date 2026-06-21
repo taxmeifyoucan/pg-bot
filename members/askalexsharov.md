@@ -828,6 +828,12 @@ Team: Erigon
 * [Commit] [build(deps): bump golang.org/x/* and mark3labs/mcp-go (#21909)](https://github.com/erigontech/erigon/commit/2597172592c95bc2e2feeecee55a67a806261af8) - 2026-06-20
 * [Commit] [db/datastruct/btindex: shrink .bt in-memory node cache (uint64 offsets) (#21875)](https://github.com/erigontech/erigon/commit/36a70c0ac956e3864bb1ba3b0591fa48880bfdf0) - 2026-06-19
 * [Commit] [execution/stagedsync: remove diaglib.Send calls (#21881)](https://github.com/erigontech/erigon/commit/230b0ec8f2e05d8e65e7d4da141e4d04f82e27f4) - 2026-06-19
+* [Pull Request] [execution/stagedsync: sample parallel-exec batch buffer size on a 5s tick](https://github.com/erigontech/erigon/pull/21921) - 2026-06-20
+* [Pull Request] [p2p: cache per-message ingress gauges to avoid allocs in Peer.handle](https://github.com/erigontech/erigon/pull/21920) - 2026-06-20
+* [Review] [Review on: cl/phase1/stages: clamp beacon-history download progress to 100%](https://github.com/erigontech/erigon/pull/21912#pullrequestreview-4536989042) - 2026-06-20
+* [Pull Request] [[bloatnet] sais: buf pool](https://github.com/erigontech/erigon/pull/21917) - 2026-06-20
+* [Review] [Review on: db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots](https://github.com/erigontech/erigon/pull/21200#pullrequestreview-4536520415) - 2026-06-20
+* [Issue] [to make `36-bloatnet` file-releases work without skipping integrity checks](https://github.com/erigontech/erigon/issues/21918) - 2026-06-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

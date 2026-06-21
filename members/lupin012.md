@@ -210,6 +210,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: add rpctest for optional bn](https://github.com/erigontech/erigon/pull/21878) - 2026-06-18
 * [Review] [Review on: rpc: impl eth fill transaction](https://github.com/erigontech/erigon/pull/21870#pullrequestreview-4522410752) - 2026-06-18
 * [Pull Request] [[3.5] rpc: cherry-pick fix base fee too low error code  (#21418)](https://github.com/erigontech/erigon/pull/21902) - 2026-06-19
+* [Pull Request] [rpc fix streaming trace methods returning result:null in case of error](https://github.com/erigontech/erigon/pull/21922) - 2026-06-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -269,6 +270,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [add latest-block tests for optional block param on state methods](https://github.com/erigontech/rpc-tests/pull/577) - 2026-06-16
 * [Pull Request] [add test eth_fillTransaction](https://github.com/erigontech/rpc-tests/pull/578) - 2026-06-17
 * [Pull Request] [integration-test: latest test are processed with batch block ](https://github.com/erigontech/rpc-tests/pull/579) - 2026-06-18
+* [Commit] [integration-test: latest test are processed with batch block  (#579)](https://github.com/erigontech/rpc-tests/commit/ce9d214bcb0927d928a62354bbe30bdfebfbe879) - 2026-06-20
+* [Commit] [add latest-block tests for optional block param on state methods (#577)](https://github.com/erigontech/rpc-tests/commit/b9091d1f8e702d05210b117134f7bbef05707fdf) - 2026-06-20
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators/graphql: pass HIVE_CANCUN_TIMESTAMP to client and fix test expectations](https://github.com/ethereum/hive/pull/1533) - 2026-06-08
 * [Pull Request] [GraphQL: erigon allow unprotected txs when GraphQL is enabled](https://github.com/ethereum/hive/pull/1539) - 2026-06-09

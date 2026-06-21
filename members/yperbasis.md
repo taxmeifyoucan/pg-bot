@@ -758,6 +758,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: build(deps): bump github.com/go-chi/chi/v5 from 5.2.3 to 5.2.4](https://github.com/erigontech/erigon/pull/21895#pullrequestreview-4531210114) - 2026-06-19
 * [Commit] [ci: don't evict merge-queue PRs on reshuffle cancellations (#21817)](https://github.com/erigontech/erigon/commit/d5c0ff16b28ea07b9206233c3250bb9e9b5c9911) - 2026-06-19
 * [Commit] [ChangeLog: v3.4.4 release notes (#21910)](https://github.com/erigontech/erigon/commit/99d207e02cc77235e6e81ce6b2801556a46c20b5) - 2026-06-19
+* [Review] [Review on: execution/protocol: leave state and gas pools untouched for rejected transactions](https://github.com/erigontech/erigon/pull/21907#pullrequestreview-4536710518) - 2026-06-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

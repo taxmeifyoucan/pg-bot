@@ -305,6 +305,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/datastruct/btindex: shrink .bt in-memory node cache (uint64 offsets)](https://github.com/erigontech/erigon/pull/21911#pullrequestreview-4531997768) - 2026-06-19
 * [Pull Request] [db/snapshotsync: resume caplin state dump per-type to avoid overlapping files](https://github.com/erigontech/erigon/pull/21901) - 2026-06-19
 * [Commit] [db/snapshotsync/freezeblocks: run blocks snapshot merge off the shared build semaphore (#21526)](https://github.com/erigontech/erigon/commit/eb63dff217a7518281e42aaf4179cb96bcc295b7) - 2026-06-19
+* [Pull Request] [cmd/utils/app: implement `seg index --rebuild`](https://github.com/erigontech/erigon/pull/21919) - 2026-06-20
 ## Q1 2026
 
 

@@ -117,6 +117,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Schedule Unzen fork on Taiko Hoodi](https://github.com/NethermindEth/nethermind/pull/11977#pullrequestreview-4485613762) - 2026-06-12
 * [Review] [Review on: Add EIP-7594 to Hoodi Unzen](https://github.com/NethermindEth/nethermind/pull/11982#pullrequestreview-4491316795) - 2026-06-13
 * [Review] [Review on: Fix/taiko ci timeout](https://github.com/NethermindEth/nethermind/pull/10806#pullrequestreview-4507815977) - 2026-06-16
+* [Review] [Review on: fix(zkevm): Zero-init BLS MSM precompile output buffer](https://github.com/NethermindEth/nethermind/pull/12072#pullrequestreview-4537146438) - 2026-06-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098122960) - 2026-04-13
 

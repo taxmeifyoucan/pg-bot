@@ -51,6 +51,9 @@ Team: Erigon
 * [Issue] [Gas mismatch issue on Gnosis](https://github.com/erigontech/erigon/issues/21718) - 2026-06-10
 * [Issue] [Invalid block on Gnosis](https://github.com/erigontech/erigon/issues/21719) - 2026-06-10
 * [Pull Request] [qa-tests: rpc perf comparison user choice](https://github.com/erigontech/erigon/pull/21855) - 2026-06-16
+* [Review] [Review on: QA: enable debug_traceTransaction/test_12](https://github.com/erigontech/erigon/pull/21803#pullrequestreview-4538887810) - 2026-06-20
+* [Review] [Review on: QA: latest test in batch block not all in paralel](https://github.com/erigontech/erigon/pull/21884#pullrequestreview-4538887277) - 2026-06-20
+* [Review] [Review on: QA: add rpctest for optional bn](https://github.com/erigontech/erigon/pull/21878#pullrequestreview-4538886246) - 2026-06-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10

@@ -365,6 +365,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(deps): bump js-yaml from 4.1.1 to 4.2.0](https://github.com/ChainSafe/lodestar/pull/9525#pullrequestreview-4531150448) - 2026-06-19
 * [Review] [Review on: chore(deps): bump tmp from 0.2.6 to 0.2.7](https://github.com/ChainSafe/lodestar/pull/9512#pullrequestreview-4531086952) - 2026-06-19
 * [Issue] [Published data columns to 0 peers warning](https://github.com/ChainSafe/lodestar/issues/9527) - 2026-06-19
+* [Pull Request] [feat: glamsterdam-devnet-6](https://github.com/ChainSafe/lodestar/pull/9538) - 2026-06-20
+* [Review] [Review on: feat: glamsterdam-devnet-6](https://github.com/ChainSafe/lodestar/pull/9538#pullrequestreview-4536858059) - 2026-06-20
+* [Review] [Review on: chore: remove v1 block publishing](https://github.com/ChainSafe/lodestar/pull/9532#pullrequestreview-4536899147) - 2026-06-20
+* [Issue] [Update fast confirmation for gloas](https://github.com/ChainSafe/lodestar/issues/9539) - 2026-06-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -481,6 +485,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/pull/11760#pullrequestreview-4525252772) - 2026-06-18
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Review] [Review on: fix: use gloas proposer dependent root for ProposerPreferences](https://github.com/status-im/nimbus-eth2/pull/8632#pullrequestreview-4538444957) - 2026-06-20
 ## Q1 2026
 
 
