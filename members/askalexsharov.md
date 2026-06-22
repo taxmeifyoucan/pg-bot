@@ -834,6 +834,17 @@ Team: Erigon
 * [Pull Request] [[bloatnet] sais: buf pool](https://github.com/erigontech/erigon/pull/21917) - 2026-06-20
 * [Review] [Review on: db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots](https://github.com/erigontech/erigon/pull/21200#pullrequestreview-4536520415) - 2026-06-20
 * [Issue] [to make `36-bloatnet` file-releases work without skipping integrity checks](https://github.com/erigontech/erigon/issues/21918) - 2026-06-20
+* [Review] [Review on: db/downloader: use 64 MiB torrent piece size to bound info RAM](https://github.com/erigontech/erigon/pull/21838#pullrequestreview-4540837075) - 2026-06-22
+* [Review] [Review on: execution/stagedsync: AuRa genesis bypass for parallel-exec emptyRemoval](https://github.com/erigontech/erigon/pull/21930#pullrequestreview-4540816276) - 2026-06-22
+* [Pull Request] [execution/stagedsync: clear BlockAccessList on exec reset](https://github.com/erigontech/erigon/pull/21928) - 2026-06-21
+* [Pull Request] [db/state: bound commitmentValTransformDomain key caches](https://github.com/erigontech/erigon/pull/21929) - 2026-06-21
+* [Review] [Review on: rpc fix streaming trace methods returning result:null in case of error](https://github.com/erigontech/erigon/pull/21922#pullrequestreview-4539583107) - 2026-06-21
+* [Review] [Review on: cmd/utils/app: implement `seg index --rebuild`](https://github.com/erigontech/erigon/pull/21919#pullrequestreview-4539527179) - 2026-06-21
+* [Review] [Review on: execution/commitment: streaming commitment trie (--experimental.streaming-commitment)](https://github.com/erigontech/erigon/pull/21709#pullrequestreview-4539497455) - 2026-06-21
+* [Pull Request] [db/seg: drop redundant posTable.ptrs pointer array](https://github.com/erigontech/erigon/pull/21927) - 2026-06-21
+* [Review] [Review on: p2p/discover: fix waiting wrong duration in lookup iterator slowdown](https://github.com/erigontech/erigon/pull/21923#pullrequestreview-4539427976) - 2026-06-21
+* [Pull Request] [execution/stagedsync: parallel exec batch-size check matches serial (BeforeCommitment, >=)](https://github.com/erigontech/erigon/pull/21924) - 2026-06-21
+* [Issue] [`dev-` servers shell history too small](https://github.com/erigontech/erigon/issues/21925) - 2026-06-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

@@ -116,6 +116,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] db/version: bump version to 3.4.4](https://github.com/erigontech/erigon/pull/21868#pullrequestreview-4516713105) - 2026-06-17
 * [Commit] [execution/stagedsync: prune overlay to committed boundary on no-op execution unwind (#21848)](https://github.com/erigontech/erigon/commit/48da6055ce5f1b3e483b297f0a8c0b582c2bc2f6) - 2026-06-17
 * [Review] [Review on: [r3.4] ChangeLog: v3.4.4 release notes](https://github.com/erigontech/erigon/pull/21889#pullrequestreview-4526427205) - 2026-06-18
+* [Pull Request] [execution: share prune timeout budget](https://github.com/erigontech/erigon/pull/20860) - 2026-06-21
+* [Commit] [execution: share prune timeout budget (#20860)](https://github.com/erigontech/erigon/commit/ea05504378ae09445f248ee26c28ab0b769824ca) - 2026-06-21
 ## Q1 2026
 
 

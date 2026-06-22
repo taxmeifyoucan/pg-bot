@@ -146,6 +146,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Update GetBlockV3Test to include appropriate HTTP status codes](https://github.com/Consensys/teku/pull/10856#pullrequestreview-4522416241) - 2026-06-18
 * [Review] [Review on: Reject jqwik updates past 1.9.3](https://github.com/Consensys/teku/pull/10854#pullrequestreview-4521356607) - 2026-06-18
 * [Commit] [Reject jqwik updates past 1.9.3 (#10854)](https://github.com/Consensys/teku/commit/68f4ea34737a7a8e6f74da13ce469adc66454147) - 2026-06-18
+* [Review] [Review on: Treat QUIC STOP_SENDING and stream closes as benign in RPC/gossip logging](https://github.com/Consensys/teku/pull/10865#pullrequestreview-4540741510) - 2026-06-22
+* [Review] [Review on: Implemented the head_v2 event from ethereum/beacon-APIs#590.](https://github.com/Consensys/teku/pull/10776#pullrequestreview-4539343895) - 2026-06-21
+* [Review] [Review on: glamsterdam-devnet-6 (v1.7.0-alpha.11)](https://github.com/Consensys/teku/pull/10848#pullrequestreview-4540380120) - 2026-06-21
+* [Commit] [updated license check to latest version (#10852)](https://github.com/Consensys/teku/commit/b1f9e4f6bd56d8b6d05dbe7bfe0623281f467de9) - 2026-06-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

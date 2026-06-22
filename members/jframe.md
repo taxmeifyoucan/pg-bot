@@ -69,6 +69,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: feat(pow-removal): Phase 3 - remove miner_start, miner_stop, eth_mining RPC methods](https://github.com/besu-eth/besu/pull/10662#pullrequestreview-4529742632) - 2026-06-19
 * [Review] [Review on: feat(pow-removal): Phase 2 - remove Ethash and PoW validation code](https://github.com/besu-eth/besu/pull/10659#pullrequestreview-4529454507) - 2026-06-19
 * [Review] [Review on: lazy decoding of GetStorageRangeMessage account hashes](https://github.com/besu-eth/besu/pull/10660#pullrequestreview-4521714463) - 2026-06-18
+* [Review] [Review on: feat(pow-removal): Phase 2 - remove Ethash and PoW validation code](https://github.com/besu-eth/besu/pull/10659#pullrequestreview-4540627327) - 2026-06-22
+* [Issue] [Download headers first in full sync](https://github.com/besu-eth/besu/issues/10674) - 2026-06-22
 ## Q1 2026
 
 

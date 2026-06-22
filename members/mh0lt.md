@@ -255,6 +255,8 @@ Team: Erigon
 * [Pull Request] [cl/validator/devvalidator: fix dev-mode validator drain that halts the chain (Electra attestation gap + divide-by-zero guard)](https://github.com/erigontech/erigon/pull/21851) - 2026-06-16
 * [Commit] [State Cache Consolidation (PR #1 of the perf stack) (#21380)](https://github.com/erigontech/erigon/commit/193d04ae2e617a61fabb725d12154eef2f364111) - 2026-06-16
 * [Commit] [cl/validator/devvalidator: fix dev-mode validator drain that halts the chain (Electra attestation gap + divide-by-zero guard) (#21851)](https://github.com/erigontech/erigon/commit/677d3acaa9375e20d4a1f74ae335dcbc1f96708e) - 2026-06-19
+* [Pull Request] [execution/stagedsync: AuRa genesis bypass for parallel-exec emptyRemoval](https://github.com/erigontech/erigon/pull/21930) - 2026-06-21
+* [Pull Request] [[r3.5] execution/stagedsync: AuRa genesis bypass for parallel-exec emptyRemoval](https://github.com/erigontech/erigon/pull/21931) - 2026-06-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

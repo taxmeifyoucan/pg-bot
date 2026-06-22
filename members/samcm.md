@@ -76,6 +76,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [inventory: rename ethereum_node_fact_{cl_enr,el_enode} → _discovery_ variants (#169)](https://github.com/ethpandaops/template-devnets/commit/708da92dd70deb2c8139f6f4acaff36314b1fb96) - 2026-05-21
 * [Pull Request] [telemetry: cut edge logs over to Vector→OTLP, drop Loki](https://github.com/ethpandaops/template-devnets/pull/173) - 2026-06-04
 * [Commit] [telemetry: cut edge logs over to Vector→OTLP, drop Loki (#173)](https://github.com/ethpandaops/template-devnets/commit/c0d6f8333d6dbf7f66a47a864b3445db063dfd75) - 2026-06-04
+* [Pull Request] [ansible: source SSH rosters from coredevs](https://github.com/ethpandaops/template-devnets/pull/177) - 2026-06-22
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Review] [Review on: feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167#pullrequestreview-4232485880) - 2026-05-06
 

@@ -315,6 +315,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Add EIP: Cap Deposit Requests Per Block](https://github.com/ethereum/EIPs/commit/bf7d500bab49d007a8248eb77fd48136d045b7c8) - 2026-05-22
 * [Commit] [Add EIP: Gas Limit Schedule](https://github.com/ethereum/EIPs/commit/c22b578a3ae59a1ab5efcb62d0b5a6dd1203d778) - 2026-05-22
 * [Pull Request] [Update EIP-7773: Add EIP-8189 to Glamsterdam CFI networking EIPs](https://github.com/ethereum/EIPs/pull/11792) - 2026-06-10
+* [Commit] [Update EIP-7773: Add EIP-8189 to Glamsterdam CFI networking EIPs](https://github.com/ethereum/EIPs/commit/d05499b016236765dc5ea6835e1757eb05124750) - 2026-06-21
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [ci: bump pinned GitHub Actions to latest](https://github.com/ethpandaops/template-devnets/pull/158) - 2026-04-14
 * [Commit] [ci: bump pinned GitHub Actions to latest (#158)](https://github.com/ethpandaops/template-devnets/commit/254b32c9621944012d978017e59489c3eb70db78) - 2026-04-14

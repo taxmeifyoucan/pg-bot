@@ -101,6 +101,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Drop Windows support](https://github.com/Consensys/teku/pull/10850) - 2026-06-17
 * [Review] [Review on: Update Teku third-party dependency versions](https://github.com/Consensys/teku/pull/10844#pullrequestreview-4520008305) - 2026-06-17
 * [Commit] [Drop Windows support (#10850)](https://github.com/Consensys/teku/commit/98f11a179d679b213ec4f35638c14ee01dd4efba) - 2026-06-17
+* [Pull Request] [Treat QUIC STOP_SENDING and stream closes as benign in RPC/gossip logging](https://github.com/Consensys/teku/pull/10865) - 2026-06-22
+* [Review] [Review on: Implemented the head_v2 event from ethereum/beacon-APIs#590.](https://github.com/Consensys/teku/pull/10776#pullrequestreview-4540750654) - 2026-06-22
+* [Review] [Review on: updated license check to latest version](https://github.com/Consensys/teku/pull/10852#pullrequestreview-4540499616) - 2026-06-22
+* [Commit] [Treat QUIC STOP_SENDING and stream closes as benign in RPC/gossip logging (#10865)](https://github.com/Consensys/teku/commit/ec366da720dd5128ec878bcf6ccbe0cc136c12de) - 2026-06-22
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 

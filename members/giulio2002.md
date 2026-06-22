@@ -135,6 +135,9 @@ Team: Erigon
 * [Review] [Review on: execution/stagedsync: remove diaglib.Send calls](https://github.com/erigontech/erigon/pull/21881#pullrequestreview-4527435615) - 2026-06-18
 * [Review] [Review on: [r3.4] ChangeLog: v3.4.4 release notes](https://github.com/erigontech/erigon/pull/21889#pullrequestreview-4525633153) - 2026-06-18
 * [Review] [Review on: execution/stagedsync: remove diaglib.Send calls](https://github.com/erigontech/erigon/pull/21881#pullrequestreview-4530462314) - 2026-06-19
+* [Review] [Review on: execution/stagedsync: clear BlockAccessList on exec reset](https://github.com/erigontech/erigon/pull/21928#pullrequestreview-4539809133) - 2026-06-21
+* [Review] [Review on: db/state: bound commitmentValTransformDomain key caches](https://github.com/erigontech/erigon/pull/21929#pullrequestreview-4540082152) - 2026-06-21
+* [Review] [Review on: db/seg: drop redundant posTable.ptrs pointer array](https://github.com/erigontech/erigon/pull/21927#pullrequestreview-4539510768) - 2026-06-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

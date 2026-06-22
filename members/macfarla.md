@@ -309,6 +309,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [refactor: use pattern-matching instanceof (#10663)](https://github.com/besu-eth/besu/commit/e19f02788617d6ef39ce35965a2b8249b1745aef) - 2026-06-19
 * [Commit] [fix(engine): process FCU when head is known even if syncing (#10658)](https://github.com/besu-eth/besu/commit/17ce12154dfbc27b9570246472938c882b6c87fb) - 2026-06-19
 * [Commit] [feat(pow-removal): Phase 3 - remove miner_start, miner_stop, eth_mining RPC methods (#10662)](https://github.com/besu-eth/besu/commit/f9e14c7d649e3d66cc8862c4549afedc1064dd13) - 2026-06-19
+* [Pull Request] [refactor: convert switch statements to switch expressions](https://github.com/besu-eth/besu/pull/10673) - 2026-06-21
+* [Commit] [feat(pow-removal): Phase 2 - remove Ethash and PoW validation code (#10659)](https://github.com/besu-eth/besu/commit/26d32513943ff7db379a757618ce673e3f859791) - 2026-06-22
+* [Commit] [refactor: convert switch statements to switch expressions (#10673)](https://github.com/besu-eth/besu/commit/b4c11078c46e0f0bb4e5eee1ea2d08ad6a0b77d8) - 2026-06-22
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

@@ -322,6 +322,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf: eliminate Evm/Db metrics false sharing; parallel-safe gas-price aggregation](https://github.com/NethermindEth/nethermind/pull/12071#pullrequestreview-4538914118) - 2026-06-20
 * [Pull Request] [refactor(api): remove 18 ctor/factory-injectable properties from INethermindApi](https://github.com/NethermindEth/nethermind/pull/12070) - 2026-06-20
 * [Commit] [Make IP resolution lazy and self-contained; remove ResolveIps step (#12050)](https://github.com/NethermindEth/nethermind/commit/bbb483310e19f8296990b3f177bc588d9348b6e7) - 2026-06-21
+* [Pull Request] [Gate DB load and sync-pivot resolution before MultiSyncModeSelector starts](https://github.com/NethermindEth/nethermind/pull/12078) - 2026-06-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

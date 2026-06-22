@@ -211,6 +211,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: impl eth fill transaction](https://github.com/erigontech/erigon/pull/21870#pullrequestreview-4522410752) - 2026-06-18
 * [Pull Request] [[3.5] rpc: cherry-pick fix base fee too low error code  (#21418)](https://github.com/erigontech/erigon/pull/21902) - 2026-06-19
 * [Pull Request] [rpc fix streaming trace methods returning result:null in case of error](https://github.com/erigontech/erigon/pull/21922) - 2026-06-20
+* [Review] [Review on: rpc: impl eth fill transaction](https://github.com/erigontech/erigon/pull/21870#pullrequestreview-4539390345) - 2026-06-21
+* [Commit] [rpc fix streaming trace methods returning result:null in case of error (#21922)](https://github.com/erigontech/erigon/commit/6bee208c24e9f7da3dfad8f7557d6dbac7f7ceb3) - 2026-06-21
+* [Commit] [QA: latest test in batch block not all in paralel (#21884)](https://github.com/erigontech/erigon/commit/ce832a424136bd9dfc6f445d8bf0d8ed0432d187) - 2026-06-21
+* [Commit] [QA: add rpctest for optional bn (#21878)](https://github.com/erigontech/erigon/commit/8973a184d7d55d3fb95776a7be1221f92883d66f) - 2026-06-21
+* [Commit] [QA: enable debug_traceTransaction/test_12 (#21803)](https://github.com/erigontech/erigon/commit/4c4557c556635926fc759f60c82663d5da74b97b) - 2026-06-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -272,6 +277,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration-test: latest test are processed with batch block ](https://github.com/erigontech/rpc-tests/pull/579) - 2026-06-18
 * [Commit] [integration-test: latest test are processed with batch block  (#579)](https://github.com/erigontech/rpc-tests/commit/ce9d214bcb0927d928a62354bbe30bdfebfbe879) - 2026-06-20
 * [Commit] [add latest-block tests for optional block param on state methods (#577)](https://github.com/erigontech/rpc-tests/commit/b9091d1f8e702d05210b117134f7bbef05707fdf) - 2026-06-20
+* [Pull Request] [integration-test: fix debug trace block by number with error](https://github.com/erigontech/rpc-tests/pull/580) - 2026-06-21
+* [Commit] [fix debug_traceBlockByNumber with error (#580)](https://github.com/erigontech/rpc-tests/commit/efc553cac8dd27854038c4ae2ac20d9f5f5bb80d) - 2026-06-21
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators/graphql: pass HIVE_CANCUN_TIMESTAMP to client and fix test expectations](https://github.com/ethereum/hive/pull/1533) - 2026-06-08
 * [Pull Request] [GraphQL: erigon allow unprotected txs when GraphQL is enabled](https://github.com/ethereum/hive/pull/1539) - 2026-06-09

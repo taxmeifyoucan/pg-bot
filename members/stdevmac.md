@@ -85,6 +85,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update](https://github.com/NethermindEth/nethermind/pull/11995) - 2026-06-15
 * [Issue] [FlatDb computes a wrong state root and rejects a canonical block (consensus divergence) — chiado, intermittent](https://github.com/NethermindEth/nethermind/issues/11993) - 2026-06-15
 * [Issue] [Sync wedges in UpdatingPivot after early restart with no peers — forkchoice hashes not persisted on the unresolvable-header path](https://github.com/NethermindEth/nethermind/issues/11992) - 2026-06-15
+* [Issue] [FlatDb: native SIGSEGV (exit 139) on restart of a fully-synced node — no managed exception, not OOM](https://github.com/NethermindEth/nethermind/issues/12079) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 

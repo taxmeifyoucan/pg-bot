@@ -237,6 +237,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [bug(spec-specs, tests): EIP-8037 strict block-gas inclusion rule (#2892)](https://github.com/ethereum/execution-specs/commit/90e74f1cbf166d050bdf1d2043beb18acfd05820) - 2026-06-16
 * [Pull Request] [refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill](https://github.com/ethereum/execution-specs/pull/3027) - 2026-06-19
 * [Review] [Review on: refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill](https://github.com/ethereum/execution-specs/pull/3027#pullrequestreview-4533729465) - 2026-06-19
+* [Pull Request] [feat(tests): EIP-8037 code-deposit state gas exact-fit boundary](https://github.com/ethereum/execution-specs/pull/3031) - 2026-06-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

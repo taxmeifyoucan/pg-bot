@@ -672,6 +672,9 @@ Team: Reth
 * [Review] [Review on: feat(network): add NetworkConfigBuilder::with_tcp_listener()](https://github.com/paradigmxyz/reth/pull/25424#pullrequestreview-4531608962) - 2026-06-19
 * [Review] [Review on: feat: enable gmp by default](https://github.com/paradigmxyz/reth/pull/25512#pullrequestreview-4538468635) - 2026-06-20
 * [Pull Request] [perf(engine): use unbounded tx iterator channels](https://github.com/paradigmxyz/reth/pull/25517) - 2026-06-20
+* [Pull Request] [fix(trie): avoid sparse arena HashSet warning](https://github.com/paradigmxyz/reth/pull/25541) - 2026-06-21
+* [Review] [Review on: feat: enable gmp by default](https://github.com/paradigmxyz/reth/pull/25512#pullrequestreview-4539236458) - 2026-06-21
+* [Commit] [fix(trie): avoid sparse arena HashSet warning (#25541)](https://github.com/paradigmxyz/reth/commit/603ce0b42c80b46670db1531ba1d709a711cfd15) - 2026-06-21
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

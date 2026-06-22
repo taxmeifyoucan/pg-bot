@@ -79,6 +79,7 @@ Team: Erigon
 * [Review] [Review on: integration_test: permit -A -x](https://github.com/erigontech/rpc-tests/pull/574#pullrequestreview-4465458975) - 2026-06-10
 * [Review] [Review on: integration-test: latest test are processed with batch block ](https://github.com/erigontech/rpc-tests/pull/579#pullrequestreview-4535170243) - 2026-06-19
 * [Review] [Review on: add latest-block tests for optional block param on state methods](https://github.com/erigontech/rpc-tests/pull/577#pullrequestreview-4535168411) - 2026-06-19
+* [Review] [Review on: integration-test: fix debug trace block by number with error](https://github.com/erigontech/rpc-tests/pull/580#pullrequestreview-4539320884) - 2026-06-21
 ## Q1 2026
 
 

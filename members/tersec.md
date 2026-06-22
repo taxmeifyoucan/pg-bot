@@ -228,6 +228,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: feat(rest): expose peer score and disconnect reason on /eth/v1/node/peers](https://github.com/status-im/nimbus-eth2/pull/8449#pullrequestreview-4530662403) - 2026-06-19
 * [Review] [Review on: add payoad_attributes event stream](https://github.com/status-im/nimbus-eth2/pull/8633#pullrequestreview-4537072735) - 2026-06-20
 * [Pull Request] [use v1.7.0-alpha.11 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8635) - 2026-06-20
+* [Review] [Review on: update on focil helpers](https://github.com/status-im/nimbus-eth2/pull/8640#pullrequestreview-4540417167) - 2026-06-21
+* [Review] [Review on: add payoad_attributes event stream](https://github.com/status-im/nimbus-eth2/pull/8633#pullrequestreview-4539451662) - 2026-06-21
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

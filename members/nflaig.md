@@ -369,6 +369,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: glamsterdam-devnet-6](https://github.com/ChainSafe/lodestar/pull/9538#pullrequestreview-4536858059) - 2026-06-20
 * [Review] [Review on: chore: remove v1 block publishing](https://github.com/ChainSafe/lodestar/pull/9532#pullrequestreview-4536899147) - 2026-06-20
 * [Issue] [Update fast confirmation for gloas](https://github.com/ChainSafe/lodestar/issues/9539) - 2026-06-20
+* [Pull Request] [feat: update fast confirmation rule for gloas](https://github.com/ChainSafe/lodestar/pull/9542) - 2026-06-21
+* [Pull Request] [feat: upgrade to v1.7.0-alpha.11 spec](https://github.com/ChainSafe/lodestar/pull/9541) - 2026-06-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
