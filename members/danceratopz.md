@@ -160,6 +160,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Move new-fork CLI tests out of the json-loader job](https://github.com/ethereum/execution-specs/issues/3022) - 2026-06-19
 * [Commit] [chore(deps,tooling): move ruff to testing package deps for gentest](https://github.com/ethereum/execution-specs/commit/ab00b3c48b17c0cfe344796e972741819ac77d0f) - 2026-06-19
 * [Commit] [chore(ci,tooling): speed up json-loader job (#3010)](https://github.com/ethereum/execution-specs/commit/babe45cfb406abed78a01413e0ab5361a3f6c753) - 2026-06-19
+* [Review] [Review on: feat(tests): EIP-8037 code-deposit state gas exact-fit boundary](https://github.com/ethereum/execution-specs/pull/3031#pullrequestreview-4542887652) - 2026-06-22
+* [Review] [Review on: chore(ci): update mypy](https://github.com/ethereum/execution-specs/pull/3004#pullrequestreview-4547759968) - 2026-06-22
+* [Pull Request] [chore(tooling): clarify state_test preference in write-test skill](https://github.com/ethereum/execution-specs/pull/3035) - 2026-06-22
+* [Review] [Review on: test(amsterdam): add EIP-8038 state-access gas cost tests](https://github.com/ethereum/execution-specs/pull/3033#pullrequestreview-4547122430) - 2026-06-22
+* [Review] [Review on: feat(spec,tests): Implement EIP-8282](https://github.com/ethereum/execution-specs/pull/2990#pullrequestreview-4543335641) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 
@@ -184,6 +189,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: clients/erigon: import all per-block files in a single process](https://github.com/ethereum/hive/pull/1519#pullrequestreview-4416649539) - 2026-06-03
 * [Review] [Review on: simulators/graphql: pass HIVE_CANCUN_TIMESTAMP to client and fix test expectations](https://github.com/ethereum/hive/pull/1533#pullrequestreview-4457302453) - 2026-06-09
 
+* [Review] [Review on: clients/nethermind,besu: add EIP-8282 builder request contracts](https://github.com/ethereum/hive/pull/1550#pullrequestreview-4547707480) - 2026-06-22
+* [Review] [Review on: hive: handle build of hiveproxy docker image if it already exists](https://github.com/ethereum/hive/pull/1415#pullrequestreview-4544325738) - 2026-06-22
+* [Review] [Review on: Set genesis difficulty to zero in ConfigGenesis](https://github.com/ethereum/hive/pull/1556#pullrequestreview-4542116774) - 2026-06-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(ci,docs): archive eest.ethereum.org and stop docs redeploys](https://github.com/ethereum/execution-spec-tests/pull/2323) - 2026-06-17
 * [Commit] [chore(ci,docs): archive eest.ethereum.org and stop docs redeploys (#2323)](https://github.com/ethereum/execution-spec-tests/commit/6ea8672e85b20e70cd14008593a98de9c3d84098) - 2026-06-17

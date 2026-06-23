@@ -40,6 +40,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Update changelog for v7.1.5](https://github.com/OffchainLabs/prysm/pull/16987) - 2026-06-17
 * [Pull Request] [Fix unbounded growth of engine_exchangeCapabilities requested method list](https://github.com/OffchainLabs/prysm/pull/17004) - 2026-06-18
 * [Review] [Review on: e2e: Reliability improvements](https://github.com/OffchainLabs/prysm/pull/16948#pullrequestreview-4526565054) - 2026-06-18
+* [Review] [Review on: perf(random): reduce allocations in deterministic randomness helpers](https://github.com/OffchainLabs/prysm/pull/16695#pullrequestreview-4547744140) - 2026-06-22
+* [Review] [Review on: Fix typo in the pull request template](https://github.com/OffchainLabs/prysm/pull/16758#pullrequestreview-4546991824) - 2026-06-22
+* [Review] [Review on: Double the global per peer rpc rate limit](https://github.com/OffchainLabs/prysm/pull/16780#pullrequestreview-4546991923) - 2026-06-22
+* [Review] [Review on: Remove adding dirty indices for `Builders` list change in `DecreaseWithdrawalBalances`](https://github.com/OffchainLabs/prysm/pull/16968#pullrequestreview-4547404639) - 2026-06-22
+* [Review] [Review on: Fix unbounded growth of engine_exchangeCapabilities requested method list](https://github.com/OffchainLabs/prysm/pull/17004#pullrequestreview-4546819290) - 2026-06-22
+* [Review] [Review on: Reuse deposit trie root in `ProcessDepositLog`](https://github.com/OffchainLabs/prysm/pull/16764#pullrequestreview-4547028027) - 2026-06-22
+* [Review] [Review on: Resurrect shuffle spec test](https://github.com/OffchainLabs/prysm/pull/16970#pullrequestreview-4545924099) - 2026-06-22
+* [Review] [Review on: hot state db for state diff](https://github.com/OffchainLabs/prysm/pull/16808#pullrequestreview-4546051987) - 2026-06-22
+* [Commit] [Update changelog for v7.1.5 (#16987)](https://github.com/OffchainLabs/prysm/commit/7b66bd777eb0d0db0294373ad9adcca7b608bc96) - 2026-06-22
 ## Q1 2026
 
 

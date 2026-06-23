@@ -431,6 +431,7 @@ Team: Reth
 * [Review] [Review on: chore: bump Rust and install LLVM in nix flake](https://github.com/paradigmxyz/reth/pull/25418#pullrequestreview-4525401536) - 2026-06-18
 * [Review] [Review on: fix: gate reth jit helper call](https://github.com/paradigmxyz/reth/pull/25413#pullrequestreview-4524470651) - 2026-06-18
 * [Review] [Review on: chore: add rkrasiuk bench Slack mapping](https://github.com/paradigmxyz/reth/pull/25468#pullrequestreview-4533492142) - 2026-06-19
+* [Review] [Review on: fix(rpc): use effective tx gas cap for estimates](https://github.com/paradigmxyz/reth/pull/25612#pullrequestreview-4548157970) - 2026-06-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

@@ -105,6 +105,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Implemented the head_v2 event from ethereum/beacon-APIs#590.](https://github.com/Consensys/teku/pull/10776#pullrequestreview-4540750654) - 2026-06-22
 * [Review] [Review on: updated license check to latest version](https://github.com/Consensys/teku/pull/10852#pullrequestreview-4540499616) - 2026-06-22
 * [Commit] [Treat QUIC STOP_SENDING and stream closes as benign in RPC/gossip logging (#10865)](https://github.com/Consensys/teku/commit/ec366da720dd5128ec878bcf6ccbe0cc136c12de) - 2026-06-22
+* [Review] [Review on: quiet the license check](https://github.com/Consensys/teku/pull/10868#pullrequestreview-4549397684) - 2026-06-23
+* [Review] [Review on: Implemented the head_v2 event from ethereum/beacon-APIs#590.](https://github.com/Consensys/teku/pull/10776#pullrequestreview-4548615533) - 2026-06-22
+* [Issue] [Promote QUIC support to stable](https://github.com/Consensys/teku/issues/10866) - 2026-06-22
+* [Issue] [Remove web3j dependency](https://github.com/Consensys/teku/issues/10877) - 2026-06-22
+* [Issue] [Remove web3j fetching deposit logic](https://github.com/Consensys/teku/issues/10876) - 2026-06-22
+* [Issue] [Enable new Engine API client by default](https://github.com/Consensys/teku/issues/10879) - 2026-06-23
+* [Issue] [Remove --Xnew-engine-api-client-enabled flag](https://github.com/Consensys/teku/issues/10878) - 2026-06-22
+* [Issue] [Rollout new Engine API client on Teku](https://github.com/Consensys/teku/issues/10874) - 2026-06-22
+* [Issue] [New Engine API Client (OkHttp + Jackson)](https://github.com/Consensys/teku/issues/10875) - 2026-06-22
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 

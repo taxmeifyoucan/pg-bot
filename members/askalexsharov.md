@@ -845,6 +845,12 @@ Team: Erigon
 * [Review] [Review on: p2p/discover: fix waiting wrong duration in lookup iterator slowdown](https://github.com/erigontech/erigon/pull/21923#pullrequestreview-4539427976) - 2026-06-21
 * [Pull Request] [execution/stagedsync: parallel exec batch-size check matches serial (BeforeCommitment, >=)](https://github.com/erigontech/erigon/pull/21924) - 2026-06-21
 * [Issue] [`dev-` servers shell history too small](https://github.com/erigontech/erigon/issues/21925) - 2026-06-21
+* [Review] [Review on: .github/actions: bump actions/cache to v5 (silence Node 20 deprecation)](https://github.com/erigontech/erigon/pull/21944#pullrequestreview-4549601892) - 2026-06-23
+* [Pull Request] [[3.6] cmd: `erigon commitment convert`](https://github.com/erigontech/erigon/pull/21933) - 2026-06-22
+* [Review] [Review on: db/state: skip DomainDel(AccountsDomain) when prev value is already nil](https://github.com/erigontech/erigon/pull/21939#pullrequestreview-4543471345) - 2026-06-22
+* [Review] [Review on: execution/commitment: parallel - wrong trie root on whale storage hotfix](https://github.com/erigontech/erigon/pull/21941#pullrequestreview-4543492505) - 2026-06-22
+* [Review] [Review on: [r3.5] execution/stagedsync: AuRa genesis bypass for parallel-exec emptyRemoval](https://github.com/erigontech/erigon/pull/21931#pullrequestreview-4541912094) - 2026-06-22
+* [Commit] [p2p, gointerfaces: reduce Sprintf and H256/H512/H2048 allocs (#21897)](https://github.com/erigontech/erigon/commit/7dd7942f0e2c3a02fde0b5308a408788ea91132e) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

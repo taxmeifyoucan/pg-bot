@@ -118,9 +118,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(amsterdam): defer EIP-7702 delegate warming until entry checks pass](https://github.com/ethereum/execution-specs/pull/2900#pullrequestreview-4526457556) - 2026-06-18
 * [Review] [Review on: feat(tests): add EIP-211 return data buffer tests for SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3029#pullrequestreview-4535574413) - 2026-06-19
 * [Review] [Review on: feat(spec, spec-tests): 8037 Calldata floor accounting alignment](https://github.com/ethereum/execution-specs/pull/3005#pullrequestreview-4535481834) - 2026-06-19
+* [Review] [Review on: fix(specs): check chain id](https://github.com/ethereum/execution-specs/pull/3000#pullrequestreview-4546525733) - 2026-06-22
+* [Review] [Review on: chore(tests): reduce Amsterdam ported_static skip list (480 to 229)](https://github.com/ethereum/execution-specs/pull/2996#pullrequestreview-4546839704) - 2026-06-22
+* [Review] [Review on: chore(ci): update mypy](https://github.com/ethereum/execution-specs/pull/3004#pullrequestreview-4546359105) - 2026-06-22
+* [Review] [Review on: refactor(test-forks): Introduce `minimum_block_gas_limit`](https://github.com/ethereum/execution-specs/pull/2994#pullrequestreview-4545968893) - 2026-06-22
+* [Issue] [Test Release Tracker: glamsterdam-devnet@v7.0.0](https://github.com/ethereum/execution-specs/issues/3034) - 2026-06-22
+* [Commit] [refactor(test-forks): Introduce `minimum_block_gas_limit` (#2994)](https://github.com/ethereum/execution-specs/commit/8f41f2801625f972ada0f3662e09bc19b7039e3b) - 2026-06-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 
+* [Issue] [All Core Devs - Testing (ACDT) #85, June 29, 2026](https://github.com/ethereum/pm/issues/2133) - 2026-06-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Use EIP-8246 to simplify](https://github.com/ethereum/EIPs/pull/11634) - 2026-05-08
 

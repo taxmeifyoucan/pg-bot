@@ -156,6 +156,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [SSE Event proposer_preferences](https://github.com/Consensys/teku/pull/10862) - 2026-06-19
 * [Commit] [Specrefs capella, deneb, electra + last fulu batch (#10860)](https://github.com/Consensys/teku/commit/25be00adcefdc0737e76761c170f05ec90e4d6c9) - 2026-06-19
 * [Commit] [SSE Event proposer_preferences (#10862)](https://github.com/Consensys/teku/commit/483c487e0d90b7586e4fa81256085343428b0b50) - 2026-06-19
+* [Pull Request] [Fix sync gloas](https://github.com/Consensys/teku/pull/10873) - 2026-06-22
+* [Pull Request] [Fix peer selection so inbound connections cannot occupy all peer slots and prevent required outbound connections](https://github.com/Consensys/teku/pull/10846) - 2026-06-22
+* [Commit] [Fix peer selection so inbound connections cannot occupy all peer slots and prevent required outbound connections (#10846)](https://github.com/Consensys/teku/commit/64bee777816d152dfc1ae866577258ae7c9c32bd) - 2026-06-22
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

@@ -132,6 +132,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Enable mplex by default and change --enable-mplex to take bool](https://github.com/sigp/lighthouse/pull/9476#pullrequestreview-4503606021) - 2026-06-16
 * [Review] [Review on: Enable late re-org and re-org interactive tests ](https://github.com/sigp/lighthouse/pull/9405#pullrequestreview-4520977728) - 2026-06-18
 * [Pull Request] [Update DB docs for v8.2.0/schema v29](https://github.com/sigp/lighthouse/pull/9489) - 2026-06-17
+* [Review] [Review on: Gloas alpha spec 11](https://github.com/sigp/lighthouse/pull/9511#pullrequestreview-4549473130) - 2026-06-23
+* [Review] [Review on: Fix ci issues](https://github.com/sigp/lighthouse/pull/9514#pullrequestreview-4544854786) - 2026-06-22
+* [Pull Request] [Merge stable to unstable](https://github.com/sigp/lighthouse/pull/9513) - 2026-06-22
+* [Pull Request] [Release v8.2.0](https://github.com/sigp/lighthouse/pull/9512) - 2026-06-22
+* [Issue] [Non-canonical payload bid handling](https://github.com/sigp/lighthouse/issues/9520) - 2026-06-23
+* [Commit] [Release v8.2.0](https://github.com/sigp/lighthouse/commit/120c3c6dac9df8ee4d83f055919bd3488abae4f6) - 2026-06-22
+* [Commit] [Update deps](https://github.com/sigp/lighthouse/commit/e9f55a5e512db62536db04f30728201ffc8a3c85) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

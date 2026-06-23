@@ -211,6 +211,10 @@ Team: Erigon
 * [Pull Request] [[r3.4] db/config3: shrink default step size to LegacyStepSize/4](https://github.com/erigontech/erigon/pull/21905) - 2026-06-19
 * [Commit] [execution/commitment: materialize collapse-sibling branch in toWitnessTrie (#21892)](https://github.com/erigontech/erigon/commit/7d6c43f681e5199e800453526b92f53b039e9b92) - 2026-06-19
 * [Commit] [execution/commitment: streaming commitment trie (--experimental.streaming-commitment) (#21709)](https://github.com/erigontech/erigon/commit/b521c4e89c8b9ef1cc3b8a234fb40982ebf1e75e) - 2026-06-21
+* [Pull Request] [execution/commitment: parallel deep storage fold via genuine unfold + mount (fixes wrong trie root)](https://github.com/erigontech/erigon/pull/21945) - 2026-06-22
+* [Pull Request] [execution/commitment: parallel - wrong trie root on whale storage hotfix](https://github.com/erigontech/erigon/pull/21941) - 2026-06-22
+* [Issue] [Caplin: data race on ForkChoiceStore — onTickPerSlot (write) vs GetHead (read)](https://github.com/erigontech/erigon/issues/21936) - 2026-06-22
+* [Commit] [execution/commitment: parallel - wrong trie root on whale storage hotfix (#21941)](https://github.com/erigontech/erigon/commit/cb627e1b3bd15f2d344e81fe8757581eee6d22b8) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

@@ -726,6 +726,18 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Flat - Persistence Cache](https://github.com/NethermindEth/nethermind/pull/12035#pullrequestreview-4530726616) - 2026-06-19
 * [Review] [Review on: fix(zkevm): Zero-init BLS MSM precompile output buffer](https://github.com/NethermindEth/nethermind/pull/12072#pullrequestreview-4537107868) - 2026-06-20
 * [Review] [Review on: EvmPooledMemory fix](https://github.com/NethermindEth/nethermind/pull/12067#pullrequestreview-4537081644) - 2026-06-20
+* [Review] [Review on: feat(zkevm): Migrate to ZisK v1.0.0-alpha](https://github.com/NethermindEth/nethermind/pull/12065#pullrequestreview-4542765935) - 2026-06-22
+* [Review] [Review on: fix(zkevm): Reject non-canonical Fp coordinates in BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/12074#pullrequestreview-4542803729) - 2026-06-22
+* [Review] [Review on: feat(debug): emit struct-log refund counter in geth opcode tracers](https://github.com/NethermindEth/nethermind/pull/12081#pullrequestreview-4542972652) - 2026-06-22
+* [Review] [Review on: fix: Engine API validation for payload attributes and nil blob versioned hashes](https://github.com/NethermindEth/nethermind/pull/12066#pullrequestreview-4542599528) - 2026-06-22
+* [Review] [Review on: refactor(api): remove 18 ctor/factory-injectable properties from INethermindApi](https://github.com/NethermindEth/nethermind/pull/12070#pullrequestreview-4542794493) - 2026-06-22
+* [Review] [Review on: Move NonceManager and BackgroundTaskScheduler to DI](https://github.com/NethermindEth/nethermind/pull/12068#pullrequestreview-4542775957) - 2026-06-22
+* [Review] [Review on: Decouple InitializeNetwork from INethermindApi; register ProtocolsManager in DI](https://github.com/NethermindEth/nethermind/pull/12069#pullrequestreview-4542783632) - 2026-06-22
+* [Review] [Review on: fix: build failure due to missing 'using Nethermind.Core'](https://github.com/NethermindEth/nethermind/pull/12083#pullrequestreview-4543176653) - 2026-06-22
+* [Review] [Review on: fix(merge): use computed hash when recording bad block on NewPayload hash mismatch](https://github.com/NethermindEth/nethermind/pull/12075#pullrequestreview-4542689343) - 2026-06-22
+* [Review] [Review on: Improve JWT secret auto-generation log](https://github.com/NethermindEth/nethermind/pull/12073#pullrequestreview-4542799226) - 2026-06-22
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12076#pullrequestreview-4542805100) - 2026-06-22
+* [Review] [Review on: perf: eliminate Evm/Db metrics false sharing; parallel-safe gas-price aggregation](https://github.com/NethermindEth/nethermind/pull/12071#pullrequestreview-4542576047) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

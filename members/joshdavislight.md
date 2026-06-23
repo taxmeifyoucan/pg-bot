@@ -17,6 +17,7 @@ Github: [@joshdavislight](https://github.com/joshdavislight)
 * [Pull Request] [Adding SSZ Engine API call series](https://github.com/ethereum/pm/pull/2127) - 2026-06-16
 * [Commit] [Add 'RazorClient' to user membership check](https://github.com/ethereum/pm/commit/deadd1eeb9aef35b1bd2a1f2cad5a5a2b3aca5f9) - 2026-06-16
 * [Commit] [Adding SSZ Engine API call series (#2127)](https://github.com/ethereum/pm/commit/0dc8851dd6330fe24b39631315845d5bf0aff707) - 2026-06-17
+* [Issue] [Subroutines for the EVM #1,  June 30, 2026](https://github.com/ethereum/pm/issues/2135) - 2026-06-22
 ## Q1 2026
 
 

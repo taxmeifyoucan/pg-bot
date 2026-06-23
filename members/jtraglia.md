@@ -391,6 +391,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Align note comments to use complete sentences](https://github.com/ethereum/consensus-specs/pull/5375#pullrequestreview-4530901515) - 2026-06-19
 * [Commit] [Introduce `PAYLOAD_BUILDER_VERSION` (#5377)](https://github.com/ethereum/consensus-specs/commit/e94b3d6c2c8f5cf92e611c27fc7f3d9a0905d4c3) - 2026-06-19
 * [Commit] [Add builder execution requests (EIP-8282) (#5359)](https://github.com/ethereum/consensus-specs/commit/bc8470b6771c4a57dec1fc922e83d36ae6f4501d) - 2026-06-19
+* [Pull Request] [Only reset builder withdrawal epoch if its balance has been swept](https://github.com/ethereum/consensus-specs/pull/5384) - 2026-06-22
+* [Pull Request] [Use `MAX_REQUEST_PAYLOADS` in `EnvelopesByRange`](https://github.com/ethereum/consensus-specs/pull/5383) - 2026-06-22
+* [Pull Request] [Update release-drafter config to the new `when` category style](https://github.com/ethereum/consensus-specs/pull/5381) - 2026-06-22
+* [Review] [Review on: Update actions/checkout action to v7](https://github.com/ethereum/consensus-specs/pull/5380#pullrequestreview-4544105508) - 2026-06-22
+* [Review] [Review on: Update release-drafter/release-drafter action to v7.4.0](https://github.com/ethereum/consensus-specs/pull/5379#pullrequestreview-4543872900) - 2026-06-22
+* [Review] [Review on: Update dependency pytest to v9.1.1](https://github.com/ethereum/consensus-specs/pull/5378#pullrequestreview-4543819624) - 2026-06-22
+* [Commit] [Update release-drafter config to the new `when` category style (#5381)](https://github.com/ethereum/consensus-specs/commit/6b2201c3c25603f24ae967a92bbce5340d672c5c) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

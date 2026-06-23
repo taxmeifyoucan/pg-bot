@@ -294,6 +294,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore(deps): bump go-eth2-client to v0.1.1](https://github.com/ethpandaops/assertoor/pull/165) - 2026-04-30
 * [Pull Request] [ci: drop macos/amd64 release builds](https://github.com/ethpandaops/assertoor/pull/180) - 2026-05-19
 * [Commit] [ci: drop macos/amd64 release builds](https://github.com/ethpandaops/assertoor/commit/4e7e33deb2d2bf6d7d00cfeb0dfbf5251771dcb6) - 2026-05-19
+* [Pull Request] [test(gloas): add pre-fork builder onboarding test (0x03 -> builder)](https://github.com/ethpandaops/assertoor/pull/195) - 2026-06-22
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/lab/pull/432) - 2026-04-09
 * [Commit] [Merge pull request #432 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/lab/commit/c3be9674e52453b5788e377f0cbf8f508dd7073e) - 2026-04-09

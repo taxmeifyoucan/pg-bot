@@ -105,6 +105,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: auto detection for max open files](https://github.com/besu-eth/besu/pull/10629#pullrequestreview-4503817661) - 2026-06-16
 * [Issue] [Investigate evmtool startup time](https://github.com/besu-eth/besu/issues/10665) - 2026-06-18
 * [Review] [Review on: fix: add missing sources jar checksums for org.web3j besu and eea 5.0.3](https://github.com/besu-eth/besu/pull/10670#pullrequestreview-4533607746) - 2026-06-19
+* [Review] [Review on: UInt256.div: power-of-two divisor fast path](https://github.com/besu-eth/besu/pull/10588#pullrequestreview-4544046734) - 2026-06-22
+* [Review] [Review on: sync: fix for p2p is disabled](https://github.com/besu-eth/besu/pull/10676#pullrequestreview-4543210041) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086128373) - 2026-04-09
 ## Q1 2026

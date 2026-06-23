@@ -55,6 +55,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: v1.43.0 release (#9344)](https://github.com/ChainSafe/lodestar/commit/5cb87b7632ff76f9f93947147967618b26da2d0c) - 2026-05-20
 * [Review] [Review on: fix: publish only subscribed columns from reconstruction](https://github.com/ChainSafe/lodestar/pull/9464#pullrequestreview-4435290929) - 2026-06-05
 * [Pull Request] [chore: v1.44.0 release](https://github.com/ChainSafe/lodestar/pull/9495) - 2026-06-09
+* [Pull Request] [chore: do not throw if peers request 0 columns for a root](https://github.com/ChainSafe/lodestar/pull/9544) - 2026-06-22
+* [Review] [Review on: chore: do not throw if peers request 0 columns for a root](https://github.com/ChainSafe/lodestar/pull/9544#pullrequestreview-4544536214) - 2026-06-22
+* [Commit] [chore: do not throw if peers request 0 columns for a root (#9544)](https://github.com/ChainSafe/lodestar/commit/4bcb7ef8556aee372e6ebcd97cd792f9d9220964) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494) - 2026-04-15
 ## Q1 2026

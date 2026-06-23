@@ -316,6 +316,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(flat): cheaper TrieWarmer enqueue fast-path](https://github.com/NethermindEth/nethermind/pull/12062#pullrequestreview-4532372508) - 2026-06-19
 * [Review] [Review on: Make IP resolution lazy and self-contained; remove ResolveIps step](https://github.com/NethermindEth/nethermind/pull/12050#pullrequestreview-4539047980) - 2026-06-21
 * [Pull Request] [perf: eliminate Evm/Db metrics false sharing; parallel-safe gas-price aggregation](https://github.com/NethermindEth/nethermind/pull/12071) - 2026-06-20
+* [Review] [Review on: fix(zkevm): Reject non-canonical Fp coordinates in BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/12074#pullrequestreview-4541646549) - 2026-06-22
+* [Review] [Review on: feat(debug): emit struct-log refund counter in geth opcode tracers](https://github.com/NethermindEth/nethermind/pull/12081#pullrequestreview-4543413175) - 2026-06-22
+* [Review] [Review on: fix: Engine API validation for payload attributes and nil blob versioned hashes](https://github.com/NethermindEth/nethermind/pull/12066#pullrequestreview-4541651041) - 2026-06-22
+* [Review] [Review on: refactor(api): remove 18 ctor/factory-injectable properties from INethermindApi](https://github.com/NethermindEth/nethermind/pull/12070#pullrequestreview-4543478328) - 2026-06-22
+* [Review] [Review on: Refresh snap-sync account storage root via verified GetAccountRange](https://github.com/NethermindEth/nethermind/pull/12082#pullrequestreview-4543406284) - 2026-06-22
+* [Review] [Review on: Gate DB load and sync-pivot resolution before MultiSyncModeSelector starts](https://github.com/NethermindEth/nethermind/pull/12078#pullrequestreview-4543463387) - 2026-06-22
+* [Review] [Review on: Decouple InitializeNetwork from INethermindApi; register ProtocolsManager in DI](https://github.com/NethermindEth/nethermind/pull/12069#pullrequestreview-4543475173) - 2026-06-22
+* [Review] [Review on: fix: build failure due to missing 'using Nethermind.Core'](https://github.com/NethermindEth/nethermind/pull/12083#pullrequestreview-4543391943) - 2026-06-22
+* [Review] [Review on: fix(merge): use computed hash when recording bad block on NewPayload hash mismatch](https://github.com/NethermindEth/nethermind/pull/12075#pullrequestreview-4541657370) - 2026-06-22
+* [Review] [Review on: perf: eliminate Evm/Db metrics false sharing; parallel-safe gas-price aggregation](https://github.com/NethermindEth/nethermind/pull/12071#pullrequestreview-4542080658) - 2026-06-22
+* [Commit] [perf: eliminate Evm/Db metrics false sharing; parallel-safe gas-price aggregation (#12071)](https://github.com/NethermindEth/nethermind/commit/5607245201b271e8ba100a2dc98ffcddfa8bd336) - 2026-06-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

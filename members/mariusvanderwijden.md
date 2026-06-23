@@ -102,6 +102,9 @@ Team: Geth
 * [Pull Request] [core: experiment with reducing allocs for transfers](https://github.com/ethereum/go-ethereum/pull/35186) - 2026-06-17
 * [Commit] [all: change reflect.Ptr to reflect.Pointer (#35176)](https://github.com/ethereum/go-ethereum/commit/7c9032dff68aa469de45bec53e37c68d9d2a12d9) - 2026-06-18
 * [Pull Request] [Glamsterdam devnet 5](https://github.com/ethereum/go-ethereum/pull/35196) - 2026-06-19
+* [Review] [Review on: [WIP]: optimize the triedb commit](https://github.com/ethereum/go-ethereum/pull/35205#pullrequestreview-4542966210) - 2026-06-22
+* [Review] [Review on: core/vm: implements EIP-8037 spec change](https://github.com/ethereum/go-ethereum/pull/35173#pullrequestreview-4542587279) - 2026-06-22
+* [Pull Request] [Use full StateAccounts in triedb](https://github.com/ethereum/go-ethereum/pull/35208) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13
@@ -115,6 +118,10 @@ Team: Geth
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-3155: `refund` should be `Number` not `Hex-Number`](https://github.com/ethereum/EIPs/pull/11629#pullrequestreview-4309826529) - 2026-05-18
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [Set genesis difficulty to zero in ConfigGenesis](https://github.com/ethereum/hive/pull/1556) - 2026-06-22
+* [Commit] [simulators/ethereum/engine: Set difficulty to zero in ConfigGenesis (#1556)](https://github.com/ethereum/hive/commit/e021983cd0d4d46823b29951f807acd82f6477b2) - 2026-06-22
 ## Q1 2026
 
 

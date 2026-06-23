@@ -93,6 +93,8 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: core/vm: compute stack operations in place](https://github.com/ethereum/go-ethereum/pull/35156#pullrequestreview-4485053932) - 2026-06-12
 * [Commit] [internal/memlimit: respect cgroup memory cap (#34947)](https://github.com/ethereum/go-ethereum/commit/d93dda49c8e5b0530fbddc16d61592ecf7e32b78) - 2026-06-12
 * [Review] [Review on: eth/catalyst: add testing_commitBlockV1](https://github.com/ethereum/go-ethereum/pull/34995#pullrequestreview-4516896948) - 2026-06-17
+* [Review] [Review on: core: add debug log and repair the missing hash and receipts](https://github.com/ethereum/go-ethereum/pull/35190#pullrequestreview-4545740392) - 2026-06-22
+* [Review] [Review on: core/rawdb/eradb: support ere files in era store](https://github.com/ethereum/go-ethereum/pull/34978#pullrequestreview-4543311875) - 2026-06-22
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [eth: add eth_getStorageValues method (#756)](https://github.com/ethereum/execution-apis/commit/8deedf1556015a54404fbfe735a74844715f4011) - 2026-04-06
 * [Review] [Review on: Add eth_capabilities method for routing capability discovery](https://github.com/ethereum/execution-apis/pull/755#pullrequestreview-4139505713) - 2026-04-20

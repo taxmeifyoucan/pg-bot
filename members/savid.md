@@ -29,6 +29,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [ci(clickhouse): lint migrations for database-agnosticism + syntax](https://github.com/ethpandaops/xatu/pull/849) - 2026-06-17
 * [Commit] [Merge pull request #849 from ethpandaops/ci/clickhouse-migrations-lint](https://github.com/ethpandaops/xatu/commit/cd4b8b9da2cb3f2dd30b96330146f6a544d54712) - 2026-06-17
 * [Commit] [ci(clickhouse): lint migrations for database-agnosticism + syntax](https://github.com/ethpandaops/xatu/commit/5f01974891dd0a50603cbeed6d6760bd8184028a) - 2026-06-17
+* [Pull Request] [feat(cannon)!: add execution-layer (EL) dimension via cryo](https://github.com/ethpandaops/xatu/pull/850) - 2026-06-22
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(validators): move report tool to validators index](https://github.com/ethpandaops/lab/pull/435) - 2026-05-27
 * [Commit] [feat(validators): move report tool to validators index (#435)](https://github.com/ethpandaops/lab/commit/337e3345e73c74865d318be214b2169c471a3f72) - 2026-05-27

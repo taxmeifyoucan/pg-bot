@@ -201,6 +201,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [fix: wait for workers before writing cache](https://github.com/paradigmxyz/reth/pull/25462) - 2026-06-19
 * [Commit] [fix: track `SavedCache` usage via `ExecutionCache` (#25460)](https://github.com/paradigmxyz/reth/commit/4c22c7b7dc7247558da6a56267227d14789aaa47) - 2026-06-19
 * [Commit] [fix: wait for workers before writing cache (#25462)](https://github.com/paradigmxyz/reth/commit/43196ba7b5e4317defd30abb2bf74ec72a00979a) - 2026-06-19
+* [Review] [Review on: fix(rpc): use effective tx gas cap for estimates](https://github.com/paradigmxyz/reth/pull/25612#pullrequestreview-4548145731) - 2026-06-22
+* [Review] [Review on: feat(engine): add skip-state-root mode](https://github.com/paradigmxyz/reth/pull/25595#pullrequestreview-4545319566) - 2026-06-22
+* [Pull Request] [fix(reth-bb): adjust block gas limit](https://github.com/paradigmxyz/reth/pull/25600) - 2026-06-22
+* [Review] [Review on: perf(engine): prune persisted paths from sparse trie](https://github.com/paradigmxyz/reth/pull/25428#pullrequestreview-4543528273) - 2026-06-22
+* [Commit] [fix(reth-bb): adjust block gas limit (#25600)](https://github.com/paradigmxyz/reth/commit/dc53a42636d9b89938e4a50ad95b50feffaa5cde) - 2026-06-22
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

@@ -138,6 +138,9 @@ Team: Erigon
 * [Review] [Review on: execution/stagedsync: clear BlockAccessList on exec reset](https://github.com/erigontech/erigon/pull/21928#pullrequestreview-4539809133) - 2026-06-21
 * [Review] [Review on: db/state: bound commitmentValTransformDomain key caches](https://github.com/erigontech/erigon/pull/21929#pullrequestreview-4540082152) - 2026-06-21
 * [Review] [Review on: db/seg: drop redundant posTable.ptrs pointer array](https://github.com/erigontech/erigon/pull/21927#pullrequestreview-4539510768) - 2026-06-21
+* [Review] [Review on: ci, cl/clparams: bump kurtosis assertoor to v0.1.2 and align CL clients](https://github.com/erigontech/erigon/pull/21449#pullrequestreview-4544816587) - 2026-06-22
+* [Review] [Review on: execution/stagedsync: clear BlockAccessList on exec reset](https://github.com/erigontech/erigon/pull/21928#pullrequestreview-4541501709) - 2026-06-22
+* [Review] [Review on: db/state: bound commitmentValTransformDomain key caches](https://github.com/erigontech/erigon/pull/21929#pullrequestreview-4543034496) - 2026-06-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

@@ -176,6 +176,12 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [fix(bindings): log level for missing fields (#435)](https://github.com/ChainSafe/lodestar-z/commit/08faf41c03ebd54ee5149573f984433d721343d7) - 2026-06-17
 * [Commit] [fix: various fixes around config (#433)](https://github.com/ChainSafe/lodestar-z/commit/c4f082c00c30933ec97072bcff9966a1aa62694d) - 2026-06-17
 * [Commit] [feat(bindings): align `BeaconStateView` with `IBeaconStateView` (#347)](https://github.com/ChainSafe/lodestar-z/commit/b8ec27350b3ca64e04bb9e332552a9f629f39d8c) - 2026-06-17
+* [Pull Request] [chore: update spec-test-version: v1.6.0-beta.2 -> v1.7.0-alpha.10](https://github.com/ChainSafe/lodestar-z/pull/441) - 2026-06-22
+* [Pull Request] [ fix: do not set start index for deposit request pre fulu](https://github.com/ChainSafe/lodestar-z/pull/440) - 2026-06-22
+* [Pull Request] [fix: do not set start index for deposit request in non-electra forks](https://github.com/ChainSafe/lodestar-z/pull/438) - 2026-06-22
+* [Pull Request] [feat(bindings): export stf to match ts call signature](https://github.com/ChainSafe/lodestar-z/pull/437) - 2026-06-22
+* [Pull Request] [fix(ci): fix caching spec test version](https://github.com/ChainSafe/lodestar-z/pull/439) - 2026-06-22
+* [Commit] [fix(ci): fix caching spec test version (#439)](https://github.com/ChainSafe/lodestar-z/commit/96885a101cabbc7b70d58823778db6f3dd57fa42) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 
@@ -190,6 +196,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: fix references to light-client/prover repo](https://github.com/ChainSafe/lodestar/pull/9434#pullrequestreview-4398199814) - 2026-06-01
 * [Pull Request] [feat: integrate zig state transition](https://github.com/ChainSafe/lodestar/pull/9516) - 2026-06-16
 * [Pull Request] [fix: clamp pivotSlot calculation to GENESIS_SLOT](https://github.com/ChainSafe/lodestar/pull/9521) - 2026-06-18
+* [Commit] [fix: clamp pivotSlot calculation to GENESIS_SLOT (#9521)](https://github.com/ChainSafe/lodestar/commit/45c0f6c77eb1cca781a2f6ccf105220628d06f6d) - 2026-06-22
 ## Q1 2026
 
 

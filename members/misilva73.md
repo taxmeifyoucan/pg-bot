@@ -75,6 +75,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Commit] [Update EIP-8007: refresh repricing summaries for 2780, 7904, 8037, 8038](https://github.com/ethereum/EIPs/commit/d2820258f03f889f94e9726843d5fa9654b3e123) - 2026-06-19
 * [Pull Request] [Add EIP: Increase Calldata Floor Cost to 96](https://github.com/ethereum/EIPs/pull/11821) - 2026-06-20
 * [Pull Request] [Update EIP-8279: explicit BAL data metering with net-zero refund](https://github.com/ethereum/EIPs/pull/11819) - 2026-06-20
+* [Pull Request] [Update EIP-8038: reverse SSTORE clear refund to prevent net-profitable round trips](https://github.com/ethereum/EIPs/pull/11823) - 2026-06-22
+* [Commit] [Update EIP-8038: reverse SSTORE clear refund to prevent net-profitable round trips](https://github.com/ethereum/EIPs/commit/a8862ae6653a12a2989b64a50eca5334cfe8b3cb) - 2026-06-22
 ## Q1 2026
 
 

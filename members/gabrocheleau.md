@@ -80,6 +80,7 @@ Team: EthereumJS
 * [Pull Request] [deps: bump vite, vitest and js-yaml to patch 4 Dependabot advisories](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4330) - 2026-06-16
 * [Commit] [deps: bump vite, vitest and js-yaml to patch 4 Dependabot advisories (#4330)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/df11a68bd3c58b4083dfc464176ca98118120620) - 2026-06-16
 * [Commit] [chore: point dev fixtures to bal@v7.3.2 (#4329)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/67cff06a752a07c266e0b42b12400bbbd607b211) - 2026-06-16
+* [Commit] [docs: add root ARCHITECTURE.md (#4323)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/fd6fb72f327bc8ad30340c7d5b5860d458ed609b) - 2026-06-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 * [Issue] [Stateless Implementer's Call #52, June 1, 2026](https://github.com/ethereum/pm/issues/2064) - 2026-05-19

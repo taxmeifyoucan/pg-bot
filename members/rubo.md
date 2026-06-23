@@ -150,6 +150,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(zkevm): Fatal stack-underflow halt in the zkEVM guest](https://github.com/NethermindEth/nethermind/pull/12064#pullrequestreview-4537182780) - 2026-06-20
 * [Commit] [fix(zkevm): Zero-init BLS MSM precompile output buffer (#12072)](https://github.com/NethermindEth/nethermind/commit/b153183641d64bd14b6b325128f70b660176f7b6) - 2026-06-20
 * [Commit] [fix(zkevm): Fatal stack-underflow halt in the zkEVM guest (#12064)](https://github.com/NethermindEth/nethermind/commit/22be4a487e9725749619268b7af5989de9d0cede) - 2026-06-21
+* [Pull Request] [ci(zkevm): Add glamsterdam-devnet-5 blocks tests](https://github.com/NethermindEth/nethermind/pull/12098) - 2026-06-22
+* [Review] [Review on: feat(zkevm): Migrate to ZisK v1.0.0-alpha](https://github.com/NethermindEth/nethermind/pull/12065#pullrequestreview-4547204590) - 2026-06-22
+* [Commit] [fix(zkevm): Reject non-canonical Fp coordinates in BLS12-381 precompiles (#12074)](https://github.com/NethermindEth/nethermind/commit/1b00d43827e90216a21e96a9a3cad6b3e7d09323) - 2026-06-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 * [Review] [Review on: feat(zkevm): prune non scheduled forks in ProtocolFork](https://github.com/ethereum/execution-specs/pull/2926#pullrequestreview-4373692443) - 2026-05-27

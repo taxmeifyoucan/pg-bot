@@ -307,6 +307,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/snapshotsync/freezeblocks: run blocks snapshot merge off the shared build semaphore (#21526)](https://github.com/erigontech/erigon/commit/eb63dff217a7518281e42aaf4179cb96bcc295b7) - 2026-06-19
 * [Pull Request] [cmd/utils/app: implement `seg index --rebuild`](https://github.com/erigontech/erigon/pull/21919) - 2026-06-20
 * [Commit] [cmd/utils/app: implement `seg index --rebuild` (#21919)](https://github.com/erigontech/erigon/commit/66197f5d1a40c46e22e8c4111bdfbc35b7ae9223) - 2026-06-21
+* [Pull Request] [[performance] cherry-pick: seg: 2-3x faster merge compression via Aho-Corasick matcher and cover-DP optimizations (#21625)](https://github.com/erigontech/erigon/pull/21946) - 2026-06-22
+* [Issue] [snapshots opening has become slow](https://github.com/erigontech/erigon/issues/21932) - 2026-06-22
+* [Commit] [seg: 2-3x faster merge compression via Aho-Corasick matcher and cover-DP optimizations (#21625)](https://github.com/erigontech/erigon/commit/a048fb58ef4bee376e5827ee004fa407d1ad90fc) - 2026-06-22
 ## Q1 2026
 
 

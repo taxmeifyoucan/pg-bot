@@ -312,6 +312,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [refactor: convert switch statements to switch expressions](https://github.com/besu-eth/besu/pull/10673) - 2026-06-21
 * [Commit] [feat(pow-removal): Phase 2 - remove Ethash and PoW validation code (#10659)](https://github.com/besu-eth/besu/commit/26d32513943ff7db379a757618ce673e3f859791) - 2026-06-22
 * [Commit] [refactor: convert switch statements to switch expressions (#10673)](https://github.com/besu-eth/besu/commit/b4c11078c46e0f0bb4e5eee1ea2d08ad6a0b77d8) - 2026-06-22
+* [Pull Request] [sync: fix for p2p is disabled](https://github.com/besu-eth/besu/pull/10676) - 2026-06-22
+* [Review] [Review on: sync: fix for p2p is disabled](https://github.com/besu-eth/besu/pull/10676#pullrequestreview-4541567750) - 2026-06-22
+* [Pull Request] [feat(pow-removal): Phase 4/5 cleanup - remove PowAlgorithm and DifficultyCalculatorTests](https://github.com/besu-eth/besu/pull/10675) - 2026-06-22
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

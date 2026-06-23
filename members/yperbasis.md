@@ -759,6 +759,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: don't evict merge-queue PRs on reshuffle cancellations (#21817)](https://github.com/erigontech/erigon/commit/d5c0ff16b28ea07b9206233c3250bb9e9b5c9911) - 2026-06-19
 * [Commit] [ChangeLog: v3.4.4 release notes (#21910)](https://github.com/erigontech/erigon/commit/99d207e02cc77235e6e81ce6b2801556a46c20b5) - 2026-06-19
 * [Review] [Review on: execution/protocol: leave state and gas pools untouched for rejected transactions](https://github.com/erigontech/erigon/pull/21907#pullrequestreview-4536710518) - 2026-06-20
+* [Review] [Review on: execution/stagedsync: clear BlockAccessList on exec reset](https://github.com/erigontech/erigon/pull/21928#pullrequestreview-4543276509) - 2026-06-22
+* [Pull Request] [execution/state, execution/exec: avoid O(n^2) BAL merge in block builder](https://github.com/erigontech/erigon/pull/21947) - 2026-06-22
+* [Review] [Review on: p2p, gointerfaces: reduce Sprintf and H256/H512/H2048 allocs](https://github.com/erigontech/erigon/pull/21897#pullrequestreview-4543113437) - 2026-06-22
+* [Review] [Review on: execution, rpc, cmd/evm: gate EIP-161 and EIP-170 on DisabledEIPs](https://github.com/erigontech/erigon/pull/21915#pullrequestreview-4543435783) - 2026-06-22
+* [Review] [Review on: execution/stagedsync: cancel executor on first ErrWrongTrieRoot](https://github.com/erigontech/erigon/pull/21731#pullrequestreview-4542801635) - 2026-06-22
+* [Review] [Review on: execution: leave gas pool and state untouched for rejected transactions](https://github.com/erigontech/erigon/pull/21907#pullrequestreview-4542563794) - 2026-06-22
+* [Review] [Review on: [r3.5] execution/stagedsync: cancel executor on first ErrWrongTrieRoot](https://github.com/erigontech/erigon/pull/21733#pullrequestreview-4542826806) - 2026-06-22
+* [Review] [Review on: execution/state, execution/stagedsync: retain AuRa SystemAddress in all EIP-161 empty-removal paths (extend #21930 family)](https://github.com/erigontech/erigon/pull/21937#pullrequestreview-4542458759) - 2026-06-22
+* [Review] [Review on: [r3.5] execution/state, execution/stagedsync: retain AuRa SystemAddress in all EIP-161 empty-removal paths](https://github.com/erigontech/erigon/pull/21938#pullrequestreview-4542632030) - 2026-06-22
+* [Issue] [Harmonize/de-duplicate consensus admission checks: TxnExecutor.preCheck vs TxPool.validateTx](https://github.com/erigontech/erigon/issues/21942) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

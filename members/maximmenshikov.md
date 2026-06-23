@@ -118,6 +118,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [feat(evm): add pow2 zkVM memory allocation path (#11974)](https://github.com/NethermindEth/nethermind/commit/b46e52050cfa92c57626df9a6792fede2294f02f) - 2026-06-12
 * [Review] [Review on: feat(zkevm): Implement error handling](https://github.com/NethermindEth/nethermind/pull/12010#pullrequestreview-4509852884) - 2026-06-16
 * [Pull Request] [feat(deps): bump Nethermind.ZiskOS.Runtime to 1.0.0-preview.4](https://github.com/NethermindEth/nethermind/pull/12065) - 2026-06-19
+* [Commit] [feat(zkevm): Migrate to ZisK v1.0.0-alpha (#12065)](https://github.com/NethermindEth/nethermind/commit/52ad1248e0b3a162893a56824cc619596da61b6a) - 2026-06-22
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Split code/data properly](https://github.com/NethermindEth/dotnet-riscv/pull/2) - 2026-05-21
 * [Commit] [Update interface dispatch patch](https://github.com/NethermindEth/dotnet-riscv/commit/1ebe8c2c438b9339545e2f3859a4360b46a094aa) - 2026-05-21

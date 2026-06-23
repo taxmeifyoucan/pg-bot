@@ -102,6 +102,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add heze fork definition and boilerplate](https://github.com/ChainSafe/lodestar/pull/9505#pullrequestreview-4501850483) - 2026-06-15
 * [Review] [Review on: feat: eip-8282 builder execution requests scaffolding](https://github.com/ChainSafe/lodestar/pull/9507#pullrequestreview-4511717031) - 2026-06-17
 * [Commit] [test: un-ignore churn related fields in gloas (#9514)](https://github.com/ChainSafe/lodestar/commit/d01471ec84d63e56f7067a4d2d804681be7cb4c2) - 2026-06-16
+* [Pull Request] [feat: use pending variant to determine is_parent_strong](https://github.com/ChainSafe/lodestar/pull/9548) - 2026-06-22
+* [Pull Request] [chore: bump fork-choice gloas spec links to alpha.11](https://github.com/ChainSafe/lodestar/pull/9549) - 2026-06-22
+* [Review] [Review on: feat: upgrade to v1.7.0-alpha.11 spec](https://github.com/ChainSafe/lodestar/pull/9541#pullrequestreview-4548785479) - 2026-06-22
+* [Review] [Review on: fix: reject bids with invalid prev_randao during gossip validation](https://github.com/ChainSafe/lodestar/pull/9533#pullrequestreview-4541705373) - 2026-06-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 
@@ -133,6 +137,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [chore: update gloas types to align with the latest specs](https://github.com/ChainSafe/lodestar-z/pull/431) - 2026-06-16
 * [Commit] [chore: update gloas types to align with the latest specs (#431)](https://github.com/ChainSafe/lodestar-z/commit/1f065b5a6db119fe7e61906b6fbf09fcc902b7f9) - 2026-06-16
+* [Review] [Review on: chore: update spec-test-version: v1.6.0-beta.2 -> v1.7.0-alpha.10](https://github.com/ChainSafe/lodestar-z/pull/441#pullrequestreview-4549229396) - 2026-06-23
 ## Q1 2026
 
 

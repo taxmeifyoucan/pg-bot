@@ -102,6 +102,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(eth): cap outgoing block bodies under the devp2p message size limit](https://github.com/NethermindEth/nethermind/pull/12059#pullrequestreview-4532846725) - 2026-06-19
 * [Review] [Review on: Fix undisposed array-pool list leaks](https://github.com/NethermindEth/nethermind/pull/12034#pullrequestreview-4532886125) - 2026-06-19
 * [Review] [Review on: perf(flat): cheaper TrieWarmer enqueue fast-path](https://github.com/NethermindEth/nethermind/pull/12062#pullrequestreview-4532606207) - 2026-06-19
+* [Review] [Review on: fix: Engine API validation for payload attributes and nil blob versioned hashes](https://github.com/NethermindEth/nethermind/pull/12066#pullrequestreview-4543323761) - 2026-06-22
+* [Pull Request] [Feature/eip 8282](https://github.com/NethermindEth/nethermind/pull/12092) - 2026-06-22
+* [Pull Request] [Feature/glamsterdam existing eip updates](https://github.com/NethermindEth/nethermind/pull/12091) - 2026-06-22
+* [Pull Request] [test: update pyspec fixtures to glamsterdam-devnet v6.0.0](https://github.com/NethermindEth/nethermind/pull/12084) - 2026-06-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat: Bogota fork + EIP-7805 engine_newPayloadV6 bump](https://github.com/ethereum/execution-specs/pull/3028) - 2026-06-19
 ## Q1 2026

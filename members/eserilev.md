@@ -147,6 +147,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Gloas attestation payload reprocess tests](https://github.com/sigp/lighthouse/pull/9490) - 2026-06-17
 * [Review] [Review on: Gate sync peer selection on per-protocol concurrent-request limit](https://github.com/sigp/lighthouse/pull/9456#pullrequestreview-4522988865) - 2026-06-18
 * [Review] [Review on: Fix race condition between validator duties service and proposer preferences](https://github.com/sigp/lighthouse/pull/9309#pullrequestreview-4538704983) - 2026-06-20
+* [Pull Request] [Gloas alpha spec 11](https://github.com/sigp/lighthouse/pull/9511) - 2026-06-22
+* [Pull Request] [Fix ci issues](https://github.com/sigp/lighthouse/pull/9514) - 2026-06-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

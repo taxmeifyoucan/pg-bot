@@ -121,6 +121,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Fail execution payload envelope data column check during sync instead of blocking](https://github.com/OffchainLabs/prysm/pull/16994#pullrequestreview-4534705951) - 2026-06-19
 * [Review] [Review on: Bound data-column availability wait during batch sync](https://github.com/OffchainLabs/prysm/pull/16978#pullrequestreview-4534633166) - 2026-06-19
 * [Review] [Review on: Don't request data columns for empty slots in initial sync](https://github.com/OffchainLabs/prysm/pull/16976#pullrequestreview-4534619858) - 2026-06-19
+* [Review] [Review on: Resolve payload attestation committee against the slot-covering state](https://github.com/OffchainLabs/prysm/pull/17021#pullrequestreview-4547409825) - 2026-06-22
+* [Review] [Review on: improve host logging with better redaction](https://github.com/OffchainLabs/prysm/pull/17023#pullrequestreview-4547387238) - 2026-06-22
+* [Review] [Review on: Ignore payload attestations outside the head state's PTC window, don't reject](https://github.com/OffchainLabs/prysm/pull/17016#pullrequestreview-4544490840) - 2026-06-22
+* [Review] [Review on: Resolve payload attestation committee against the slot-covering state](https://github.com/OffchainLabs/prysm/pull/17017#pullrequestreview-4544299636) - 2026-06-22
+* [Commit] [Don't request data columns for empty slots in initial sync (#16976)](https://github.com/OffchainLabs/prysm/commit/9fa2c6b07a07314eea30544634b3ae880630fd4b) - 2026-06-22
+* [Commit] [Bound data-column availability wait during batch sync (#16978)](https://github.com/OffchainLabs/prysm/commit/eed73f920b33a247e2d33ba141db51d15e09aaab) - 2026-06-22
+* [Commit] [Recover Payload insertion (#16981)](https://github.com/OffchainLabs/prysm/commit/a44548fc12f5fb706815adebf925569fe187c947) - 2026-06-22
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

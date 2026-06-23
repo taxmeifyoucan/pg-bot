@@ -495,6 +495,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [feat(multi-stark): AIR zerocheck via generic-degree sumcheck (#1879)](https://github.com/Plonky3/Plonky3/commit/8efcc370ef8314faa8078bc41f9aabb46a2f3f69) - 2026-06-19
 * [Commit] [test(sumcheck): de-flake tampered PoW witness rejection under parallel grind (#1883)](https://github.com/Plonky3/Plonky3/commit/b797b1a2b04d9c56a36502baefadf53c16cb4283) - 2026-06-19
 * [Review] [Review on: ci(release): refactor release process](https://github.com/Plonky3/Plonky3/pull/1887#pullrequestreview-4538825579) - 2026-06-20
+* [Review] [Review on: feat(multi-stark): reduce the AIR zerocheck to opening claims](https://github.com/Plonky3/Plonky3/pull/1886#pullrequestreview-4542865898) - 2026-06-22
+* [Review] [Review on: perf(util): stripe parallel transpose along the longer dimension](https://github.com/Plonky3/Plonky3/pull/1888#pullrequestreview-4542609464) - 2026-06-22
+* [Commit] [feat(multi-stark): reduce the AIR zerocheck to opening claims (#1886)](https://github.com/Plonky3/Plonky3/commit/75509ba00fd5c0c7f65af771a33bb00151b63008) - 2026-06-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

@@ -117,6 +117,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Remove Bazel: Phase 2/9](https://github.com/OffchainLabs/prysm/pull/17007) - 2026-06-19
 * [Review] [Review on: Use `-diff` built-in command for checking `go mod tidy`](https://github.com/OffchainLabs/prysm/pull/16442#pullrequestreview-4531102922) - 2026-06-19
 * [Review] [Review on: Remove go mod trick using native `tool` directive](https://github.com/OffchainLabs/prysm/pull/16913#pullrequestreview-4530882296) - 2026-06-19
+* [Review] [Review on: Improve `validator/client` dependency graph](https://github.com/OffchainLabs/prysm/pull/17009#pullrequestreview-4542585003) - 2026-06-22
+* [Review] [Review on: Drop abool: use stdlib (`atomic.Bool`)](https://github.com/OffchainLabs/prysm/pull/17013#pullrequestreview-4542566157) - 2026-06-22
+* [Review] [Review on: Cleanup: Use stdlib functions](https://github.com/OffchainLabs/prysm/pull/17014#pullrequestreview-4542559270) - 2026-06-22
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

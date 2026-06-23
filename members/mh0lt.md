@@ -257,6 +257,14 @@ Team: Erigon
 * [Commit] [cl/validator/devvalidator: fix dev-mode validator drain that halts the chain (Electra attestation gap + divide-by-zero guard) (#21851)](https://github.com/erigontech/erigon/commit/677d3acaa9375e20d4a1f74ae335dcbc1f96708e) - 2026-06-19
 * [Pull Request] [execution/stagedsync: AuRa genesis bypass for parallel-exec emptyRemoval](https://github.com/erigontech/erigon/pull/21930) - 2026-06-21
 * [Pull Request] [[r3.5] execution/stagedsync: AuRa genesis bypass for parallel-exec emptyRemoval](https://github.com/erigontech/erigon/pull/21931) - 2026-06-21
+* [Pull Request] [db/state: skip DomainDel(AccountsDomain) when prev value is already nil](https://github.com/erigontech/erigon/pull/21939) - 2026-06-22
+* [Review] [Review on: execution/state: typed-vio refactor (L2 — typed AddressEntry + WriteCell[T] + sync.Pool)](https://github.com/erigontech/erigon/pull/21536#pullrequestreview-4544128821) - 2026-06-22
+* [Pull Request] [execution/state, execution/stagedsync: retain AuRa SystemAddress in all EIP-161 empty-removal paths (extend #21930 family)](https://github.com/erigontech/erigon/pull/21937) - 2026-06-22
+* [Pull Request] [[r3.5] execution/state, execution/stagedsync: retain AuRa SystemAddress in all EIP-161 empty-removal paths](https://github.com/erigontech/erigon/pull/21938) - 2026-06-22
+* [Commit] [db/state: skip DomainDel(AccountsDomain) when prev value is already nil (#21939)](https://github.com/erigontech/erigon/commit/306e2c9f66432542e10b16a3679b7398948481ee) - 2026-06-22
+* [Commit] [execution/stagedsync: cancel executor on first ErrWrongTrieRoot (#21731)](https://github.com/erigontech/erigon/commit/e78531bd5604985c3e24c195655416ada6f6e313) - 2026-06-22
+* [Commit] [execution/state, execution/stagedsync: retain AuRa SystemAddress in all EIP-161 empty-removal paths (extend #21930 family) (#21937)](https://github.com/erigontech/erigon/commit/e431ed42b9e913e4bcb91050bff4253740600252) - 2026-06-22
+* [Commit] [execution/stagedsync: AuRa genesis bypass for parallel-exec emptyRemoval (#21930)](https://github.com/erigontech/erigon/commit/3208ccf13cb39df73135ebac38541bd8cdd188e3) - 2026-06-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

@@ -118,6 +118,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.4] ChangeLog: v3.4.4 release notes](https://github.com/erigontech/erigon/pull/21889#pullrequestreview-4526427205) - 2026-06-18
 * [Pull Request] [execution: share prune timeout budget](https://github.com/erigontech/erigon/pull/20860) - 2026-06-21
 * [Commit] [execution: share prune timeout budget (#20860)](https://github.com/erigontech/erigon/commit/ea05504378ae09445f248ee26c28ab0b769824ca) - 2026-06-21
+* [Review] [Review on: execution/stagedsync: clear BlockAccessList on exec reset](https://github.com/erigontech/erigon/pull/21928#pullrequestreview-4545541781) - 2026-06-22
+* [Review] [Review on: sais: bufs pool](https://github.com/erigontech/erigon/pull/21437#pullrequestreview-4545571028) - 2026-06-22
+* [Review] [Review on: [bloatnet] sais: buf pool](https://github.com/erigontech/erigon/pull/21917#pullrequestreview-4545566491) - 2026-06-22
+* [Review] [Review on: p2p: cache per-message ingress gauges to avoid allocs in Peer.handle](https://github.com/erigontech/erigon/pull/21920#pullrequestreview-4545561066) - 2026-06-22
+* [Review] [Review on: db/seg: drop redundant posTable.ptrs pointer array](https://github.com/erigontech/erigon/pull/21927#pullrequestreview-4545555606) - 2026-06-22
+* [Review] [Review on: db/state: bound commitmentValTransformDomain key caches](https://github.com/erigontech/erigon/pull/21929#pullrequestreview-4545536717) - 2026-06-22
 ## Q1 2026
 
 

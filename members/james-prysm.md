@@ -148,6 +148,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Bound data-column availability wait during batch sync](https://github.com/OffchainLabs/prysm/pull/16978#pullrequestreview-4528038755) - 2026-06-18
 * [Review] [Review on: adding gossip validation on envelope api and block api default](https://github.com/OffchainLabs/prysm/pull/16960#pullrequestreview-4526472662) - 2026-06-18
 * [Review] [Review on: Add Gloas builder service execution payload bid and signed block methods](https://github.com/OffchainLabs/prysm/pull/17006#pullrequestreview-4529994563) - 2026-06-19
+* [Review] [Review on: Resolve payload attestation committee against the slot-covering state](https://github.com/OffchainLabs/prysm/pull/17021#pullrequestreview-4547562248) - 2026-06-22
+* [Pull Request] [improve host logging with better redaction](https://github.com/OffchainLabs/prysm/pull/17023) - 2026-06-22
+* [Pull Request] [make builder ssz the default](https://github.com/OffchainLabs/prysm/pull/17022) - 2026-06-22
+* [Review] [Review on: Implement builder execution requests and spec tests v1.7.0-alpha.11](https://github.com/OffchainLabs/prysm/pull/16972#pullrequestreview-4547625627) - 2026-06-22
+* [Review] [Review on: Grpc stateless gloas](https://github.com/OffchainLabs/prysm/pull/16943#pullrequestreview-4546395883) - 2026-06-22
+* [Review] [Review on: Bound data-column availability wait during batch sync](https://github.com/OffchainLabs/prysm/pull/16978#pullrequestreview-4544625672) - 2026-06-22
+* [Review] [Review on: Emit `execution_payload_bid` event when POSTed](https://github.com/OffchainLabs/prysm/pull/16979#pullrequestreview-4546152828) - 2026-06-22
+* [Review] [Review on: Ignore payload attestations when the state cannot resolve the slot's PTC](https://github.com/OffchainLabs/prysm/pull/17020#pullrequestreview-4545345754) - 2026-06-22
+* [Review] [Review on: Resolve payload attestation committee against the slot-covering state](https://github.com/OffchainLabs/prysm/pull/17017#pullrequestreview-4545047011) - 2026-06-22
+* [Commit] [make builder ssz the default (#17022)](https://github.com/OffchainLabs/prysm/commit/7d9f760b04d2bf20e605b996822422cc77345ddf) - 2026-06-22
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

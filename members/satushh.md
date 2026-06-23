@@ -83,6 +83,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Set bid KZG commitments on Gloas data columns in the DA availability check](https://github.com/OffchainLabs/prysm/pull/16988#pullrequestreview-4534297979) - 2026-06-19
 * [Pull Request] [Fix builder exits processed metric increment](https://github.com/OffchainLabs/prysm/pull/17008) - 2026-06-19
 * [Review] [Review on: Recover Payload insertion](https://github.com/OffchainLabs/prysm/pull/16981#pullrequestreview-4532648113) - 2026-06-19
+* [Commit] [Fix builder exits processed metric increment (#17008)](https://github.com/OffchainLabs/prysm/commit/2b88212bf5a1ed10584eb78d25c8d7bc5c4a2655) - 2026-06-22
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

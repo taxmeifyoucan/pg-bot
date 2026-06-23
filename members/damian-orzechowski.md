@@ -45,6 +45,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Allow no-op EVM execution](https://github.com/NethermindEth/nethermind/pull/11932#pullrequestreview-4516754755) - 2026-06-17
 * [Review] [Review on: Allow no-op EVM execution](https://github.com/NethermindEth/nethermind/pull/11932#pullrequestreview-4525074041) - 2026-06-18
 * [Review] [Review on: feat(engine): align SSZ-REST wire format with execution-apis#793 update](https://github.com/NethermindEth/nethermind/pull/11998#pullrequestreview-4522661218) - 2026-06-18
+* [Review] [Review on: fix(zkevm): Reject non-canonical Fp coordinates in BLS12-381 precompiles](https://github.com/NethermindEth/nethermind/pull/12074#pullrequestreview-4542196610) - 2026-06-22
 ## Q1 2026
 
 

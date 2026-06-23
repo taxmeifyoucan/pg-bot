@@ -125,6 +125,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(test-cli): raise a clear error when `gentest` can't find `ruff`](https://github.com/ethereum/execution-specs/pull/3024#pullrequestreview-4534438426) - 2026-06-19
 * [Review] [Review on: refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill](https://github.com/ethereum/execution-specs/pull/3027#pullrequestreview-4534384169) - 2026-06-19
 * [Review] [Review on: fix(deps,tooling): move `ruff` to testing package deps for `gentest`](https://github.com/ethereum/execution-specs/pull/3023#pullrequestreview-4533218803) - 2026-06-19
+* [Pull Request] [chore(specs): reorder tx validity checks](https://github.com/ethereum/execution-specs/pull/3036) - 2026-06-22
 ## Q1 2026
 
 

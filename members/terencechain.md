@@ -311,6 +311,17 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Add missing execution_payload_bid gossip REJECT checks](https://github.com/OffchainLabs/prysm/pull/17011) - 2026-06-20
 * [Pull Request] [Remove unused deposit signature prefetch cache](https://github.com/OffchainLabs/prysm/pull/17012) - 2026-06-20
 * [Review] [Review on: Implement builder execution requests and spec tests v1.7.0-alpha.11](https://github.com/OffchainLabs/prysm/pull/16972#pullrequestreview-4537969059) - 2026-06-20
+* [Review] [Review on: Add forkchoice unit test](https://github.com/OffchainLabs/prysm/pull/16932#pullrequestreview-4544662918) - 2026-06-22
+* [Pull Request] [Resolve payload attestation committee against the slot-covering state](https://github.com/OffchainLabs/prysm/pull/17021) - 2026-06-22
+* [Review] [Review on: make builder ssz the default](https://github.com/OffchainLabs/prysm/pull/17022#pullrequestreview-4547024418) - 2026-06-22
+* [Review] [Review on: Bound data-column availability wait during batch sync](https://github.com/OffchainLabs/prysm/pull/16978#pullrequestreview-4544655947) - 2026-06-22
+* [Pull Request] [Ignore payload attestations outside the head state's PTC window, don't reject](https://github.com/OffchainLabs/prysm/pull/17016) - 2026-06-22
+* [Pull Request] [Ignore payload attestations when the state cannot resolve the slot's PTC](https://github.com/OffchainLabs/prysm/pull/17020) - 2026-06-22
+* [Pull Request] [Resolve payload attestation committee against the slot-covering state](https://github.com/OffchainLabs/prysm/pull/17017) - 2026-06-22
+* [Review] [Review on: Resolve payload attestation committee against the slot-covering state](https://github.com/OffchainLabs/prysm/pull/17017#pullrequestreview-4544730863) - 2026-06-22
+* [Commit] [Resolve payload attestation committee against the slot-covering state (#17021)](https://github.com/OffchainLabs/prysm/commit/35e5676f5956e8b26c7dc28716582b22ab968c12) - 2026-06-22
+* [Commit] [Double the global per peer rpc rate limit (#16780)](https://github.com/OffchainLabs/prysm/commit/9f8e8c106d465a65b61a8441c5e9c7fb0e3f4501) - 2026-06-22
+* [Commit] [Ignore payload attestations when the state cannot resolve the slot's PTC (#17020)](https://github.com/OffchainLabs/prysm/commit/718954e9b1905afe3a1650d153d61b0851e01ff4) - 2026-06-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

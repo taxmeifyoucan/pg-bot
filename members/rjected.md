@@ -79,6 +79,7 @@ Team: Reth
 * [Review] [Review on: perf(net): track queued response count in ActiveSession](https://github.com/paradigmxyz/reth/pull/25073#pullrequestreview-4468318117) - 2026-06-10
 * [Review] [Review on: perf(net): mark transactions seen by peer while building broadcast messages](https://github.com/paradigmxyz/reth/pull/25088#pullrequestreview-4480795952) - 2026-06-11
 * [Review] [Review on: perf(txpool): reduce allocations on reorg](https://github.com/paradigmxyz/reth/pull/25145#pullrequestreview-4480770361) - 2026-06-11
+* [Review] [Review on: fix(deps): update memmap2 to 0.9.11](https://github.com/paradigmxyz/reth/pull/25609#pullrequestreview-4547643103) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491#pullrequestreview-4099770845) - 2026-04-13
 

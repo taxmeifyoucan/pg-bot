@@ -371,6 +371,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Update fast confirmation for gloas](https://github.com/ChainSafe/lodestar/issues/9539) - 2026-06-20
 * [Pull Request] [feat: update fast confirmation rule for gloas](https://github.com/ChainSafe/lodestar/pull/9542) - 2026-06-21
 * [Pull Request] [feat: upgrade to v1.7.0-alpha.11 spec](https://github.com/ChainSafe/lodestar/pull/9541) - 2026-06-21
+* [Review] [Review on: chore: do not throw if peers request 0 columns for a root](https://github.com/ChainSafe/lodestar/pull/9544#pullrequestreview-4546423382) - 2026-06-22
+* [Review] [Review on: chore: inline publishBlindedBlockV2](https://github.com/ChainSafe/lodestar/pull/9546#pullrequestreview-4546530328) - 2026-06-22
+* [Review] [Review on: chore(deps): bump the actions group with 3 updates](https://github.com/ChainSafe/lodestar/pull/9547#pullrequestreview-4545612575) - 2026-06-22
+* [Review] [Review on: test: reduce blob reconstruction benchmark to small blob counts](https://github.com/ChainSafe/lodestar/pull/9543#pullrequestreview-4544310947) - 2026-06-22
+* [Review] [Review on: fix: forward `broadcast_validation` in `publishBlindedBlockV2`](https://github.com/ChainSafe/lodestar/pull/9535#pullrequestreview-4544305877) - 2026-06-22
+* [Review] [Review on: chore: remove v1 block publishing](https://github.com/ChainSafe/lodestar/pull/9532#pullrequestreview-4542663707) - 2026-06-22
+* [Review] [Review on: refactor: use number representation for Gloas `ExecutionPayloadBid`'s `gasLimit`](https://github.com/ChainSafe/lodestar/pull/9528#pullrequestreview-4542803586) - 2026-06-22
+* [Review] [Review on: fix: handle malformed ENR location as error](https://github.com/ChainSafe/lodestar/pull/9522#pullrequestreview-4542916043) - 2026-06-22
+* [Review] [Review on: fix: clamp pivotSlot calculation to GENESIS_SLOT](https://github.com/ChainSafe/lodestar/pull/9521#pullrequestreview-4542685538) - 2026-06-22
+* [Issue] [Implement standard FCR metrics](https://github.com/ChainSafe/lodestar/issues/9545) - 2026-06-22
+* [Commit] [fix: reject bids with invalid prev_randao during gossip validation (#9533)](https://github.com/ChainSafe/lodestar/commit/8265ad216411ab914bf2d47ee466b43fb479af44) - 2026-06-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -485,6 +496,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Only send PTC attestations on canonical shuffling](https://github.com/OffchainLabs/prysm/pull/16946#pullrequestreview-4472521519) - 2026-06-10
 * [Review] [Review on: Only send PTC attestations on canonical shuffling](https://github.com/OffchainLabs/prysm/pull/16946#pullrequestreview-4473539748) - 2026-06-11
 
+* [Review] [Review on: Add forkchoice unit test](https://github.com/OffchainLabs/prysm/pull/16932#pullrequestreview-4544686606) - 2026-06-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/pull/11760#pullrequestreview-4525252772) - 2026-06-18
 

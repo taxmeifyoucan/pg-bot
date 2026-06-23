@@ -230,6 +230,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [use v1.7.0-alpha.11 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8635) - 2026-06-20
 * [Review] [Review on: update on focil helpers](https://github.com/status-im/nimbus-eth2/pull/8640#pullrequestreview-4540417167) - 2026-06-21
 * [Review] [Review on: add payoad_attributes event stream](https://github.com/status-im/nimbus-eth2/pull/8633#pullrequestreview-4539451662) - 2026-06-21
+* [Review] [Review on: update on focil helpers](https://github.com/status-im/nimbus-eth2/pull/8640#pullrequestreview-4549264404) - 2026-06-23
+* [Pull Request] [enable QUIC by default](https://github.com/status-im/nimbus-eth2/pull/8643) - 2026-06-22
+* [Review] [Review on: chore: bump libp2p to 2.0.0](https://github.com/status-im/nimbus-eth2/pull/8536#pullrequestreview-4543176785) - 2026-06-22
+* [Review] [Review on: add epbs fork-choice handlers into get_head and gossip](https://github.com/status-im/nimbus-eth2/pull/8572#pullrequestreview-4542963191) - 2026-06-22
+* [Commit] [version v26.6.0](https://github.com/status-im/nimbus-eth2/commit/1cc8c3dbf48126c01ab66921c4596d02ef9d0986) - 2026-06-22
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

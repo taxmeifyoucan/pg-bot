@@ -323,6 +323,18 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor(api): remove 18 ctor/factory-injectable properties from INethermindApi](https://github.com/NethermindEth/nethermind/pull/12070) - 2026-06-20
 * [Commit] [Make IP resolution lazy and self-contained; remove ResolveIps step (#12050)](https://github.com/NethermindEth/nethermind/commit/bbb483310e19f8296990b3f177bc588d9348b6e7) - 2026-06-21
 * [Pull Request] [Gate DB load and sync-pivot resolution before MultiSyncModeSelector starts](https://github.com/NethermindEth/nethermind/pull/12078) - 2026-06-21
+* [Pull Request] [refactor(witness): capture via a second BlockProcessor graph, not runtime switches](https://github.com/NethermindEth/nethermind/pull/12094) - 2026-06-22
+* [Pull Request] [refactor(network): declarative P2P capability advertisement via IP2PCapabilityResolver](https://github.com/NethermindEth/nethermind/pull/12093) - 2026-06-22
+* [Pull Request] [Refresh snap-sync account storage root via verified GetAccountRange](https://github.com/NethermindEth/nethermind/pull/12082) - 2026-06-22
+* [Review] [Review on: Refresh snap-sync account storage root via verified GetAccountRange](https://github.com/NethermindEth/nethermind/pull/12082#pullrequestreview-4545047873) - 2026-06-22
+* [Review] [Review on: Move NonceManager and BackgroundTaskScheduler to DI](https://github.com/NethermindEth/nethermind/pull/12068#pullrequestreview-4545087248) - 2026-06-22
+* [Review] [Review on: Decouple InitializeNetwork from INethermindApi; register ProtocolsManager in DI](https://github.com/NethermindEth/nethermind/pull/12069#pullrequestreview-4545024588) - 2026-06-22
+* [Review] [Review on: fix(merge): use computed hash when recording bad block on NewPayload hash mismatch](https://github.com/NethermindEth/nethermind/pull/12075#pullrequestreview-4541055361) - 2026-06-22
+* [Review] [Review on: fix(eth): cap outgoing block bodies under the devp2p message size limit](https://github.com/NethermindEth/nethermind/pull/12059#pullrequestreview-4541070982) - 2026-06-22
+* [Review] [Review on: Improve JWT secret auto-generation log](https://github.com/NethermindEth/nethermind/pull/12073#pullrequestreview-4541057611) - 2026-06-22
+* [Commit] [Gate DB load and sync-pivot resolution before MultiSyncModeSelector starts (#12078)](https://github.com/NethermindEth/nethermind/commit/580598502ef71461c32b5fcbba0276c93e9fa867) - 2026-06-22
+* [Commit] [Move NonceManager and BackgroundTaskScheduler to DI (#12068)](https://github.com/NethermindEth/nethermind/commit/cedac873be9043ddd307e76d0fa653a022e3849c) - 2026-06-22
+* [Commit] [Decouple InitializeNetwork from INethermindApi; register ProtocolsManager in DI (#12069)](https://github.com/NethermindEth/nethermind/commit/92349ed2a28e34bb26b8f33e362492820048e27c) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

@@ -88,6 +88,7 @@ Team: Geth
 * [Pull Request] [eth/downloader:  fetch BALs within the WSP and attach them to blocks](https://github.com/ethereum/go-ethereum/pull/35142) - 2026-06-10
 * [Pull Request] [all: implement optimized execution path for BALs](https://github.com/ethereum/go-ethereum/pull/35183) - 2026-06-17
 * [Review] [Review on: all: implement optimized execution path for BALs](https://github.com/ethereum/go-ethereum/pull/35183#pullrequestreview-4519259700) - 2026-06-17
+* [Review] [Review on: trie: introduce UpdateBatch](https://github.com/ethereum/go-ethereum/pull/32448#pullrequestreview-4544431232) - 2026-06-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: add additional tx validity condition](https://github.com/ethereum/EIPs/pull/11503) - 2026-04-09
 ## Q1 2026

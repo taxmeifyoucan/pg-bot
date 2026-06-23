@@ -167,6 +167,8 @@ Team: Reth
 * [Review] [Review on: refactor(trie): remove ParallelSparseTrie](https://github.com/paradigmxyz/reth/pull/25453#pullrequestreview-4533763669) - 2026-06-19
 * [Review] [Review on: chore: add rkrasiuk bench Slack mapping](https://github.com/paradigmxyz/reth/pull/25468#pullrequestreview-4533420964) - 2026-06-19
 * [Pull Request] [async mdbx](https://github.com/paradigmxyz/reth/pull/25461) - 2026-06-19
+* [Review] [Review on: feat(engine): add skip-state-root mode](https://github.com/paradigmxyz/reth/pull/25595#pullrequestreview-4545336682) - 2026-06-22
+* [Review] [Review on: feat(engine): add has blobs rpc](https://github.com/paradigmxyz/reth/pull/25589#pullrequestreview-4545076881) - 2026-06-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

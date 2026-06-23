@@ -61,6 +61,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix(libp2p): restore libp2p_join/leave by keying on local_peer_id](https://github.com/ethpandaops/xatu/pull/848) - 2026-06-17
 * [Review] [Review on: ci(clickhouse): lint migrations for database-agnosticism + syntax](https://github.com/ethpandaops/xatu/pull/849#pullrequestreview-4511835798) - 2026-06-17
 * [Commit] [fix(libp2p): restore libp2p_join/leave by keying on local_peer_id (#848)](https://github.com/ethpandaops/xatu/commit/f1a567ced87f47d12e19b7a6dcb040a55b8c90fa) - 2026-06-17
+* [Review] [Review on: feat(cannon)!: add execution-layer (EL) dimension via cryo](https://github.com/ethpandaops/xatu/pull/850#pullrequestreview-4541514546) - 2026-06-22
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23

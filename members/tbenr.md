@@ -181,6 +181,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Fix peer selection so inbound connections cannot occupy all peer slots and prevent required outbound connections](https://github.com/Consensys/teku/pull/10846#pullrequestreview-4533849274) - 2026-06-19
 * [Review] [Review on: Specrefs capella, deneb, electra + last fulu batch](https://github.com/Consensys/teku/pull/10860#pullrequestreview-4534014128) - 2026-06-19
 * [Review] [Review on: SSE Event proposer_preferences](https://github.com/Consensys/teku/pull/10862#pullrequestreview-4533582251) - 2026-06-19
+* [Review] [Review on: Added optional fields to peers endpoint](https://github.com/Consensys/teku/pull/10867#pullrequestreview-4544292509) - 2026-06-22
+* [Pull Request] [2 fixes on execution payload sync](https://github.com/Consensys/teku/pull/10872) - 2026-06-22
+* [Review] [Review on: Fix peer selection so inbound connections cannot occupy all peer slots and prevent required outbound connections](https://github.com/Consensys/teku/pull/10846#pullrequestreview-4544112417) - 2026-06-22
+* [Pull Request] [ssz intcache no callback](https://github.com/Consensys/teku/pull/10871) - 2026-06-22
+* [Issue] [Modify `get_proposer_head` for Gloas](https://github.com/Consensys/teku/issues/10869) - 2026-06-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

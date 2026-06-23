@@ -225,6 +225,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Fix background scheduler branch completion](https://github.com/NethermindEth/nethermind/pull/12033) - 2026-06-17
 * [Review] [Review on: feat: host-side prerequisites for the embedded beacon chain plugin (SSZ ulong limits, injectable discv5 ENR filter)](https://github.com/NethermindEth/nethermind/pull/11985#pullrequestreview-4513934263) - 2026-06-17
 * [Pull Request] [Handle incompatible discovery fork IDs](https://github.com/NethermindEth/nethermind/pull/12055) - 2026-06-18
+* [Review] [Review on: Fix for KademliaConfig - hardcoded values for ip and port](https://github.com/NethermindEth/nethermind/pull/12095#pullrequestreview-4547199628) - 2026-06-22
+* [Review] [Review on: fix: build failure due to missing 'using Nethermind.Core'](https://github.com/NethermindEth/nethermind/pull/12083#pullrequestreview-4542885537) - 2026-06-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 
