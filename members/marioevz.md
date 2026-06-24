@@ -124,6 +124,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(test-forks): Introduce `minimum_block_gas_limit`](https://github.com/ethereum/execution-specs/pull/2994#pullrequestreview-4545968893) - 2026-06-22
 * [Issue] [Test Release Tracker: glamsterdam-devnet@v7.0.0](https://github.com/ethereum/execution-specs/issues/3034) - 2026-06-22
 * [Commit] [refactor(test-forks): Introduce `minimum_block_gas_limit` (#2994)](https://github.com/ethereum/execution-specs/commit/8f41f2801625f972ada0f3662e09bc19b7039e3b) - 2026-06-22
+* [Pull Request] [refactor(test-tools): Remove `CodeGasMeasure` footgun (stop)](https://github.com/ethereum/execution-specs/pull/3040) - 2026-06-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

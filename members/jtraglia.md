@@ -398,6 +398,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update release-drafter/release-drafter action to v7.4.0](https://github.com/ethereum/consensus-specs/pull/5379#pullrequestreview-4543872900) - 2026-06-22
 * [Review] [Review on: Update dependency pytest to v9.1.1](https://github.com/ethereum/consensus-specs/pull/5378#pullrequestreview-4543819624) - 2026-06-22
 * [Commit] [Update release-drafter config to the new `when` category style (#5381)](https://github.com/ethereum/consensus-specs/commit/6b2201c3c25603f24ae967a92bbce5340d672c5c) - 2026-06-22
+* [Review] [Review on: Update dependency py_arkworks_bls12381 to v0.5.0](https://github.com/ethereum/consensus-specs/pull/5389#pullrequestreview-4558513456) - 2026-06-24
+* [Pull Request] [Remove unused .gitattributes file](https://github.com/ethereum/consensus-specs/pull/5387) - 2026-06-23
+* [Pull Request] [Migrate setup.py into pyproject.toml](https://github.com/ethereum/consensus-specs/pull/5388) - 2026-06-24
+* [Review] [Review on: Set slot before using it for object construction](https://github.com/ethereum/consensus-specs/pull/5386#pullrequestreview-4554526473) - 2026-06-23
+* [Review] [Review on: Fix some inconsistencies in fulu partial-columns spec](https://github.com/ethereum/consensus-specs/pull/5357#pullrequestreview-4552948952) - 2026-06-23
+* [Commit] [Use `MAX_REQUEST_PAYLOADS` in `EnvelopesByRange` (#5383)](https://github.com/ethereum/consensus-specs/commit/77933b958dba3c042cce9b447241a9cc85b65ad3) - 2026-06-23
+* [Commit] [Fix some inconsistencies in fulu partial-columns spec (#5357)](https://github.com/ethereum/consensus-specs/commit/b70c9ec87c639aa5c91de4f606870688bc312230) - 2026-06-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

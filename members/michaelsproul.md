@@ -139,6 +139,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Non-canonical payload bid handling](https://github.com/sigp/lighthouse/issues/9520) - 2026-06-23
 * [Commit] [Release v8.2.0](https://github.com/sigp/lighthouse/commit/120c3c6dac9df8ee4d83f055919bd3488abae4f6) - 2026-06-22
 * [Commit] [Update deps](https://github.com/sigp/lighthouse/commit/e9f55a5e512db62536db04f30728201ffc8a3c85) - 2026-06-22
+* [Review] [Review on: Fix transient bug in `dequeue_attestation` and optimization](https://github.com/sigp/lighthouse/pull/9524#pullrequestreview-4558204581) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

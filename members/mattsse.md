@@ -690,6 +690,19 @@ Team: Reth
 * [Commit] [fix(deps): update memmap2 to 0.9.11 (#25609)](https://github.com/paradigmxyz/reth/commit/178fc26923c367aec29704e4aaf208936d4bb38a) - 2026-06-22
 * [Commit] [feat(debug): add clear txpool rpc (#25588)](https://github.com/paradigmxyz/reth/commit/3b69591df31aa0ab9511a1a7f007121ba1a0aa7a) - 2026-06-22
 * [Commit] [perf(provider): share database provider metrics (#25481)](https://github.com/paradigmxyz/reth/commit/4cd8f5f747ebb7fa6200bd880a2197b37cebdc1e) - 2026-06-22
+* [Pull Request] [refactor(engine): inline received BAL gas validation](https://github.com/paradigmxyz/reth/pull/25662) - 2026-06-23
+* [Pull Request] [feat(engine): support pre-Amsterdam BAL replay](https://github.com/paradigmxyz/reth/pull/25658) - 2026-06-23
+* [Pull Request] [perf(engine): reuse input BAL hash](https://github.com/paradigmxyz/reth/pull/25660) - 2026-06-23
+* [Review] [Review on: refactor(net): extract block access list response builder](https://github.com/paradigmxyz/reth/pull/25661#pullrequestreview-4557188848) - 2026-06-23
+* [Review] [Review on: feat(snap): add snap message request/response helpers](https://github.com/paradigmxyz/reth/pull/25657#pullrequestreview-4556687571) - 2026-06-23
+* [Review] [Review on: chore(snap): remove unused snap/1 scaffolding](https://github.com/paradigmxyz/reth/pull/25610#pullrequestreview-4555781169) - 2026-06-23
+* [Review] [Review on: feat(tree): defer BAL input drop](https://github.com/paradigmxyz/reth/pull/25634#pullrequestreview-4552827957) - 2026-06-23
+* [Pull Request] [perf(evm): expose arc blocks from chain iterators](https://github.com/paradigmxyz/reth/pull/25647) - 2026-06-23
+* [Review] [Review on: perf: store `Arc`'d blocks in `Chain`](https://github.com/paradigmxyz/reth/pull/25645#pullrequestreview-4553957847) - 2026-06-23
+* [Pull Request] [perf(rpc): arc chain change cache data](https://github.com/paradigmxyz/reth/pull/25641) - 2026-06-23
+* [Commit] [refactor(engine): inline received BAL gas validation (#25662)](https://github.com/paradigmxyz/reth/commit/1c462acf431347cf545ee0d717ee9255cd1efade) - 2026-06-23
+* [Commit] [perf(rpc): arc chain change cache data (#25641)](https://github.com/paradigmxyz/reth/commit/5db1eeafcc11a7a02e0e1e85cd2bde4f3f3c03c2) - 2026-06-23
+* [Commit] [feat(engine): add has blobs rpc (#25589)](https://github.com/paradigmxyz/reth/commit/d769d96fd6c05bad53b88d57ce446525098562ab) - 2026-06-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

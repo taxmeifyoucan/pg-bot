@@ -147,6 +147,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: refactor(specs): factor out auth validity](https://github.com/ethereum/execution-specs/pull/3006#pullrequestreview-4521805004) - 2026-06-18
 * [Pull Request] [fix(test-benchmark): address EIP-8037 spec compatibility issues](https://github.com/ethereum/execution-specs/pull/3026) - 2026-06-19
 * [Review] [Review on: feat(tests): CREATE/CREATE2 and CALL clear return data on failed pre-checks](https://github.com/ethereum/execution-specs/pull/3032#pullrequestreview-4545129496) - 2026-06-22
+* [Review] [Review on: refactor(tests): generalize system-contract request test helpers (EIP-6110/7002/7251/7685)](https://github.com/ethereum/execution-specs/pull/2989#pullrequestreview-4550002586) - 2026-06-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

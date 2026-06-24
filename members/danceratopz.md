@@ -165,6 +165,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(tooling): clarify state_test preference in write-test skill](https://github.com/ethereum/execution-specs/pull/3035) - 2026-06-22
 * [Review] [Review on: test(amsterdam): add EIP-8038 state-access gas cost tests](https://github.com/ethereum/execution-specs/pull/3033#pullrequestreview-4547122430) - 2026-06-22
 * [Review] [Review on: feat(spec,tests): Implement EIP-8282](https://github.com/ethereum/execution-specs/pull/2990#pullrequestreview-4543335641) - 2026-06-22
+* [Review] [Review on: test(amsterdam): add EIP-8038 state-access gas cost tests](https://github.com/ethereum/execution-specs/pull/3033#pullrequestreview-4552051990) - 2026-06-23
+* [Review] [Review on: feat(tests): EIP-8037 code-deposit state gas exact-fit boundary](https://github.com/ethereum/execution-specs/pull/3031#pullrequestreview-4550980858) - 2026-06-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 

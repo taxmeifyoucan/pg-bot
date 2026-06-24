@@ -265,6 +265,13 @@ Team: Erigon
 * [Commit] [execution/stagedsync: cancel executor on first ErrWrongTrieRoot (#21731)](https://github.com/erigontech/erigon/commit/e78531bd5604985c3e24c195655416ada6f6e313) - 2026-06-22
 * [Commit] [execution/state, execution/stagedsync: retain AuRa SystemAddress in all EIP-161 empty-removal paths (extend #21930 family) (#21937)](https://github.com/erigontech/erigon/commit/e431ed42b9e913e4bcb91050bff4253740600252) - 2026-06-22
 * [Commit] [execution/stagedsync: AuRa genesis bypass for parallel-exec emptyRemoval (#21930)](https://github.com/erigontech/erigon/commit/3208ccf13cb39df73135ebac38541bd8cdd188e3) - 2026-06-22
+* [Review] [Review on: execution/stagedsync: recover CodePath alongside CodeHashPath in parallel normalizeWriteSet](https://github.com/erigontech/erigon/pull/21706#pullrequestreview-4554587481) - 2026-06-23
+* [Pull Request] [[r3.5] exec: overlay-wrap the worker chainTx once in resetTx so every reader is overlay-aware](https://github.com/erigontech/erigon/pull/21975) - 2026-06-23
+* [Review] [Review on: execution/cache: StateCache LRU + Mode + (txNum,epoch) lazy unwind](https://github.com/erigontech/erigon/pull/21386#pullrequestreview-4551755750) - 2026-06-23
+* [Pull Request] [feat: extension points for embedding applications](https://github.com/erigontech/erigon/pull/21976) - 2026-06-23
+* [Pull Request] [exec: overlay-wrap the worker chainTx once in resetTx so every reader is overlay-aware](https://github.com/erigontech/erigon/pull/21962) - 2026-06-23
+* [Pull Request] [[r3.5] db/state: collapse duplicate same-block DeleteAccount in BlockStateCache](https://github.com/erigontech/erigon/pull/21957) - 2026-06-23
+* [Commit] [exec: overlay-wrap the worker chainTx once in resetTx so every reader is overlay-aware (#21962)](https://github.com/erigontech/erigon/commit/250d37f8d6b6ef80894dd418a189957a51c5ee1d) - 2026-06-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

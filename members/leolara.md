@@ -42,6 +42,7 @@ Github: [@leolara](https://github.com/leolara)
 * [Review] [Review on: feat(test-specs): Allow automatic transaction gas-limit](https://github.com/ethereum/execution-specs/pull/2969#pullrequestreview-4475299047) - 2026-06-11
 * [Review] [Review on: feat(test-specs): Allow automatic transaction gas-limit](https://github.com/ethereum/execution-specs/pull/2969#pullrequestreview-4484622083) - 2026-06-12
 * [Pull Request] [chore(tests): reduce Amsterdam ported_static skip list (480 to 258)](https://github.com/ethereum/execution-specs/pull/2996) - 2026-06-17
+* [Review] [Review on: chore(tests): reduce Amsterdam ported_static skip list (480 to 229)](https://github.com/ethereum/execution-specs/pull/2996#pullrequestreview-4553832712) - 2026-06-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [ Add tech-debt audit (RFC — for discussion, not for merge)](https://github.com/ethereum/consensus-specs/pull/5233) - 2026-05-11
 * [Pull Request] [Add tech-debt audit (RFC — for discussion, not for merge)](https://github.com/ethereum/consensus-specs/pull/5266) - 2026-05-18

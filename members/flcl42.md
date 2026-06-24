@@ -227,6 +227,18 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Handle incompatible discovery fork IDs](https://github.com/NethermindEth/nethermind/pull/12055) - 2026-06-18
 * [Review] [Review on: Fix for KademliaConfig - hardcoded values for ip and port](https://github.com/NethermindEth/nethermind/pull/12095#pullrequestreview-4547199628) - 2026-06-22
 * [Review] [Review on: fix: build failure due to missing 'using Nethermind.Core'](https://github.com/NethermindEth/nethermind/pull/12083#pullrequestreview-4542885537) - 2026-06-22
+* [Review] [Review on: refactor(network): declarative P2P capability advertisement via IP2PCapabilityResolver](https://github.com/NethermindEth/nethermind/pull/12093#pullrequestreview-4552071429) - 2026-06-23
+* [Pull Request] [Optimise sorted pool lookup](https://github.com/NethermindEth/nethermind/pull/12108) - 2026-06-23
+* [Review] [Review on: refactor(GasEstimator): Separate OptimisticMultiplier from stop margin](https://github.com/NethermindEth/nethermind/pull/12088#pullrequestreview-4552236931) - 2026-06-23
+* [Review] [Review on: lower verbosity KBucketTree](https://github.com/NethermindEth/nethermind/pull/12106#pullrequestreview-4554483457) - 2026-06-23
+* [Pull Request] [Optimise precompile and create allocations](https://github.com/NethermindEth/nethermind/pull/12105) - 2026-06-23
+* [Review] [Review on: refactor(consensus): move IBlockProductionPolicy to DI](https://github.com/NethermindEth/nethermind/pull/12099#pullrequestreview-4551956408) - 2026-06-23
+* [Pull Request] [Optimize trie a bit](https://github.com/NethermindEth/nethermind/pull/12104) - 2026-06-23
+* [Review] [Review on: AuRa: move finalization manager and terminal-block disposer to DI](https://github.com/NethermindEth/nethermind/pull/12036#pullrequestreview-4552602055) - 2026-06-23
+* [Review] [Review on: refactor(api): remove 18 ctor/factory-injectable properties from INethermindApi](https://github.com/NethermindEth/nethermind/pull/12070#pullrequestreview-4551980721) - 2026-06-23
+* [Commit] [Optimise sorted pool lookup (#12108)](https://github.com/NethermindEth/nethermind/commit/2c42b613001e2853aa5f867ad4553cdc9443102a) - 2026-06-23
+* [Commit] [In-house discv5 (#11728)](https://github.com/NethermindEth/nethermind/commit/9a79c71648966540c4eb96aa7ec9ea1162833cbb) - 2026-06-23
+* [Commit] [Optimize trie a bit (#12104)](https://github.com/NethermindEth/nethermind/commit/0c2502f3f27dee5d75113054c2606e6b97a5cad0) - 2026-06-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

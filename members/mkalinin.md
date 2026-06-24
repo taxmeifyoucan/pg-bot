@@ -80,6 +80,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Pull Request] [Enable FCR tests for Gloas and Heze](https://github.com/ethereum/consensus-specs/pull/5376) - 2026-06-19
 * [Review] [Review on: Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374#pullrequestreview-4530030046) - 2026-06-19
 * [Commit] [Enable FCR tests for Gloas and Heze (#5376)](https://github.com/ethereum/consensus-specs/commit/7d5f3348d7b947851861745be9ce0ba30e526531) - 2026-06-19
+* [Commit] [Replace `get_dependent_root` with `get_shuffling_dependent_root` (#5374)](https://github.com/ethereum/consensus-specs/commit/76e97a0113403c942aa5103302ada2b757670a1b) - 2026-06-23
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20
@@ -104,6 +105,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Fast Confirmation Rule (FCR) #8, May 26, 2026](https://github.com/ethereum/pm/issues/2053) - 2026-05-12
 * [Issue] [Fast Confirmation Rule (FCR) #9, June 23, 2026](https://github.com/ethereum/pm/issues/2079) - 2026-05-26
+* [Issue] [Fast Confirmation Rule (FCR) #10, July 7, 2026](https://github.com/ethereum/pm/issues/2136) - 2026-06-23
 ## Q1 2026
 
 

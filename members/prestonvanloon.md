@@ -49,6 +49,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Resurrect shuffle spec test](https://github.com/OffchainLabs/prysm/pull/16970#pullrequestreview-4545924099) - 2026-06-22
 * [Review] [Review on: hot state db for state diff](https://github.com/OffchainLabs/prysm/pull/16808#pullrequestreview-4546051987) - 2026-06-22
 * [Commit] [Update changelog for v7.1.5 (#16987)](https://github.com/OffchainLabs/prysm/commit/7b66bd777eb0d0db0294373ad9adcca7b608bc96) - 2026-06-22
+* [Review] [Review on: Fix/addtrustedpeer empty addrs panic](https://github.com/OffchainLabs/prysm/pull/16757#pullrequestreview-4556098235) - 2026-06-23
+* [Review] [Review on: perf(random): reduce allocations in deterministic randomness helpers](https://github.com/OffchainLabs/prysm/pull/16695#pullrequestreview-4555820018) - 2026-06-23
+* [Review] [Review on: Fix duplicate peer entries in the blob sidecar fetch retry list during initial sync](https://github.com/OffchainLabs/prysm/pull/16682#pullrequestreview-4557215598) - 2026-06-23
+* [Review] [Review on: Handle closed event channels in async Debounce](https://github.com/OffchainLabs/prysm/pull/17003#pullrequestreview-4557084094) - 2026-06-23
+* [Review] [Review on: Remove adding dirty indices for `Builders` list change in `DecreaseWithdrawalBalances`](https://github.com/OffchainLabs/prysm/pull/16968#pullrequestreview-4555820237) - 2026-06-23
 ## Q1 2026
 
 

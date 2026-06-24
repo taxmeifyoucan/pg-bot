@@ -382,6 +382,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: clamp pivotSlot calculation to GENESIS_SLOT](https://github.com/ChainSafe/lodestar/pull/9521#pullrequestreview-4542685538) - 2026-06-22
 * [Issue] [Implement standard FCR metrics](https://github.com/ChainSafe/lodestar/issues/9545) - 2026-06-22
 * [Commit] [fix: reject bids with invalid prev_randao during gossip validation (#9533)](https://github.com/ChainSafe/lodestar/commit/8265ad216411ab914bf2d47ee466b43fb479af44) - 2026-06-22
+* [Pull Request] [feat: add standard fast confirmation metrics](https://github.com/ChainSafe/lodestar/pull/9552) - 2026-06-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

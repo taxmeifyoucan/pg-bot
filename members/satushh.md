@@ -84,6 +84,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Fix builder exits processed metric increment](https://github.com/OffchainLabs/prysm/pull/17008) - 2026-06-19
 * [Review] [Review on: Recover Payload insertion](https://github.com/OffchainLabs/prysm/pull/16981#pullrequestreview-4532648113) - 2026-06-19
 * [Commit] [Fix builder exits processed metric increment (#17008)](https://github.com/OffchainLabs/prysm/commit/2b88212bf5a1ed10584eb78d25c8d7bc5c4a2655) - 2026-06-22
+* [Pull Request] [Add gloas_payload_reveal_outcome_total metric for ePBS payload reveal health](https://github.com/OffchainLabs/prysm/pull/17025) - 2026-06-23
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

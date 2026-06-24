@@ -54,6 +54,7 @@ Team: Erigon
 * [Review] [Review on: QA: enable debug_traceTransaction/test_12](https://github.com/erigontech/erigon/pull/21803#pullrequestreview-4538887810) - 2026-06-20
 * [Review] [Review on: QA: latest test in batch block not all in paralel](https://github.com/erigontech/erigon/pull/21884#pullrequestreview-4538887277) - 2026-06-20
 * [Review] [Review on: QA: add rpctest for optional bn](https://github.com/erigontech/erigon/pull/21878#pullrequestreview-4538886246) - 2026-06-20
+* [Issue] [Error retiring snapshot blocks](https://github.com/erigontech/erigon/issues/21960) - 2026-06-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10
@@ -80,6 +81,8 @@ Team: Erigon
 * [Review] [Review on: integration-test: latest test are processed with batch block ](https://github.com/erigontech/rpc-tests/pull/579#pullrequestreview-4535170243) - 2026-06-19
 * [Review] [Review on: add latest-block tests for optional block param on state methods](https://github.com/erigontech/rpc-tests/pull/577#pullrequestreview-4535168411) - 2026-06-19
 * [Review] [Review on: integration-test: fix debug trace block by number with error](https://github.com/erigontech/rpc-tests/pull/580#pullrequestreview-4539320884) - 2026-06-21
+* [Review] [Review on: add_withdrawal_tests_post_shanghai](https://github.com/erigontech/rpc-tests/pull/569#pullrequestreview-4556744624) - 2026-06-23
+* [Review] [Review on: add test eth_fillTransaction](https://github.com/erigontech/rpc-tests/pull/578#pullrequestreview-4556743307) - 2026-06-23
 ## Q1 2026
 
 

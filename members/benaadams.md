@@ -327,6 +327,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(merge): use computed hash when recording bad block on NewPayload hash mismatch](https://github.com/NethermindEth/nethermind/pull/12075#pullrequestreview-4541657370) - 2026-06-22
 * [Review] [Review on: perf: eliminate Evm/Db metrics false sharing; parallel-safe gas-price aggregation](https://github.com/NethermindEth/nethermind/pull/12071#pullrequestreview-4542080658) - 2026-06-22
 * [Commit] [perf: eliminate Evm/Db metrics false sharing; parallel-safe gas-price aggregation (#12071)](https://github.com/NethermindEth/nethermind/commit/5607245201b271e8ba100a2dc98ffcddfa8bd336) - 2026-06-22
+* [Review] [Review on: fix: prevent discovery eviction from disconnecting active sync peer](https://github.com/NethermindEth/nethermind/pull/12097#pullrequestreview-4552002349) - 2026-06-23
+* [Review] [Review on: Optimise sorted pool lookup](https://github.com/NethermindEth/nethermind/pull/12108#pullrequestreview-4557229514) - 2026-06-23
+* [Review] [Review on: refactor(api): remove 18 ctor/factory-injectable properties from INethermindApi](https://github.com/NethermindEth/nethermind/pull/12070#pullrequestreview-4551997019) - 2026-06-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

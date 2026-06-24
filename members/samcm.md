@@ -62,6 +62,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: ci(clickhouse): lint migrations for database-agnosticism + syntax](https://github.com/ethpandaops/xatu/pull/849#pullrequestreview-4511835798) - 2026-06-17
 * [Commit] [fix(libp2p): restore libp2p_join/leave by keying on local_peer_id (#848)](https://github.com/ethpandaops/xatu/commit/f1a567ced87f47d12e19b7a6dcb040a55b8c90fa) - 2026-06-17
 * [Review] [Review on: feat(cannon)!: add execution-layer (EL) dimension via cryo](https://github.com/ethpandaops/xatu/pull/850#pullrequestreview-4541514546) - 2026-06-22
+* [Pull Request] [fix(clmimicry): migrate to go-libp2p-pubsub v0.16.1](https://github.com/ethpandaops/xatu/pull/852) - 2026-06-23
+* [Pull Request] [cannon: add 11 derivers for all Beacon-API data through Fulu](https://github.com/ethpandaops/xatu/pull/851) - 2026-06-23
+* [Commit] [fix(clmimicry): migrate to go-libp2p-pubsub v0.16.1 (#852)](https://github.com/ethpandaops/xatu/commit/a5aafd14e38c14ec0f14a8e9fcc92c7ed74aee4b) - 2026-06-23
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23
@@ -78,6 +81,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [telemetry: cut edge logs over to Vector→OTLP, drop Loki](https://github.com/ethpandaops/template-devnets/pull/173) - 2026-06-04
 * [Commit] [telemetry: cut edge logs over to Vector→OTLP, drop Loki (#173)](https://github.com/ethpandaops/template-devnets/commit/c0d6f8333d6dbf7f66a47a864b3445db063dfd75) - 2026-06-04
 * [Pull Request] [ansible: source SSH rosters from coredevs](https://github.com/ethpandaops/template-devnets/pull/177) - 2026-06-22
+* [Commit] [ansible: source SSH rosters from coredevs (#177)](https://github.com/ethpandaops/template-devnets/commit/32b6798bfcf8a3943533ea4cf3661836b19f0140) - 2026-06-23
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Review] [Review on: feat: add TYSM hook activation / deactivation tasks](https://github.com/ethpandaops/assertoor/pull/167#pullrequestreview-4232485880) - 2026-05-06
 

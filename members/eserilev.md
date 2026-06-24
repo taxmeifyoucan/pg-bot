@@ -149,6 +149,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Fix race condition between validator duties service and proposer preferences](https://github.com/sigp/lighthouse/pull/9309#pullrequestreview-4538704983) - 2026-06-20
 * [Pull Request] [Gloas alpha spec 11](https://github.com/sigp/lighthouse/pull/9511) - 2026-06-22
 * [Pull Request] [Fix ci issues](https://github.com/sigp/lighthouse/pull/9514) - 2026-06-22
+* [Review] [Review on: Fix Gloas range sync issue where a batch cannot be re-fetched if the blocks were already imported](https://github.com/sigp/lighthouse/pull/9477#pullrequestreview-4551174839) - 2026-06-23
+* [Review] [Review on: Refactor Custody Context Availability Checks](https://github.com/sigp/lighthouse/pull/9515#pullrequestreview-4552862216) - 2026-06-23
+* [Review] [Review on: broadcast PTC votes early on payload availability](https://github.com/sigp/lighthouse/pull/9434#pullrequestreview-4553181859) - 2026-06-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

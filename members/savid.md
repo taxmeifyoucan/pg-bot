@@ -30,6 +30,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #849 from ethpandaops/ci/clickhouse-migrations-lint](https://github.com/ethpandaops/xatu/commit/cd4b8b9da2cb3f2dd30b96330146f6a544d54712) - 2026-06-17
 * [Commit] [ci(clickhouse): lint migrations for database-agnosticism + syntax](https://github.com/ethpandaops/xatu/commit/5f01974891dd0a50603cbeed6d6760bd8184028a) - 2026-06-17
 * [Pull Request] [feat(cannon)!: add execution-layer (EL) dimension via cryo](https://github.com/ethpandaops/xatu/pull/850) - 2026-06-22
+* [Commit] [Merge pull request #850 from ethpandaops/feat/execution-cannon](https://github.com/ethpandaops/xatu/commit/956c4ae249fe992496d3618a19b74a2f1851ff6c) - 2026-06-23
+* [Commit] [fix(cannon): avoid uint64->int conversion in block preload loop (gosec G115)](https://github.com/ethpandaops/xatu/commit/46b83a09bdf05d03e386b2d1c65286bf56d8eaaf) - 2026-06-23
+* [Commit] [go mod](https://github.com/ethpandaops/xatu/commit/2fbd428a7ef367d5b596ea565a18b25ebfb5d8d7) - 2026-06-23
+* [Commit] [refactor(cannon)!: nest ethereum config into beacon/execution](https://github.com/ethpandaops/xatu/commit/70a3e07ecc622c59d25db37543928ea24298bc9c) - 2026-06-23
+* [Commit] [feat(clickhouse): default distributed_foreground_insert=1 on canonical_ tables](https://github.com/ethpandaops/xatu/commit/b826b35a4ae60420952288c19f2d366cf8a7d778) - 2026-06-23
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(validators): move report tool to validators index](https://github.com/ethpandaops/lab/pull/435) - 2026-05-27
 * [Commit] [feat(validators): move report tool to validators index (#435)](https://github.com/ethpandaops/lab/commit/337e3345e73c74865d318be214b2169c471a3f72) - 2026-05-27

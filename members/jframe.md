@@ -73,6 +73,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Download headers first in full sync](https://github.com/besu-eth/besu/issues/10674) - 2026-06-22
 * [Issue] [IBFT2→QBFT migration IBFT2 attempts importing blocks after post-migration restart](https://github.com/besu-eth/besu/issues/10680) - 2026-06-23
 * [Issue] [IBFT2→QBFT migration disables ibft and qbft JSON-RPC methods](https://github.com/besu-eth/besu/issues/10679) - 2026-06-23
+* [Review] [Review on: ci(kurtosis): switch nightly interop workflow to ethpandaops GHA](https://github.com/besu-eth/besu/pull/10618#pullrequestreview-4558371891) - 2026-06-24
+* [Review] [Review on: Consolidate contribution guidelines.](https://github.com/besu-eth/besu/pull/10689#pullrequestreview-4558390449) - 2026-06-24
 ## Q1 2026
 
 

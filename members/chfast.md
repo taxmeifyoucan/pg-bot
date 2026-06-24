@@ -238,6 +238,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill](https://github.com/ethereum/execution-specs/pull/3027) - 2026-06-19
 * [Review] [Review on: refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill](https://github.com/ethereum/execution-specs/pull/3027#pullrequestreview-4533729465) - 2026-06-19
 * [Pull Request] [feat(tests): EIP-8037 code-deposit state gas exact-fit boundary](https://github.com/ethereum/execution-specs/pull/3031) - 2026-06-21
+* [Pull Request] [feat(tests): EIP-8037 base fee follows the bottleneck gas dimension](https://github.com/ethereum/execution-specs/pull/3039) - 2026-06-23
+* [Commit] [feat(tests): EIP-8037 code-deposit state gas exact-fit boundary (#3031)](https://github.com/ethereum/execution-specs/commit/b14bc8160da274f9949cc81101c9248084024d4c) - 2026-06-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

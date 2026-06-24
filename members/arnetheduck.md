@@ -32,6 +32,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [el_sync: don't log full payload](https://github.com/status-im/nimbus-eth1/pull/4352) - 2026-06-19
 * [Commit] [nimble: add some deps - pretty broken but closer to reality (#4351)](https://github.com/status-im/nimbus-eth1/commit/5a6dfb3fd308b6117130a63c365fc0a0ae3acbf9) - 2026-06-20
 * [Commit] [el_sync: don't log full payload (#4352)](https://github.com/status-im/nimbus-eth1/commit/8c1f1d82549ae945732f7c1931e75382a89b3369) - 2026-06-22
+* [Review] [Review on: syncer aware of FC state](https://github.com/status-im/nimbus-eth1/pull/4356#pullrequestreview-4553570140) - 2026-06-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [avoid blocking main thread on reconstruction](https://github.com/status-im/nimbus-eth2/pull/8346) - 2026-04-27
 * [Pull Request] [gloas: pool cleanups](https://github.com/status-im/nimbus-eth2/pull/8348) - 2026-04-28
@@ -50,6 +51,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [backfill: log more stuff on failure](https://github.com/status-im/nimbus-eth2/pull/8517) - 2026-05-28
 * [Pull Request] [LTO per compiler, take 2](https://github.com/status-im/nimbus-eth2/pull/8529) - 2026-05-31
 * [Pull Request] [explicitly disable nim stack traces with libbacktrace](https://github.com/status-im/nimbus-eth2/pull/8625) - 2026-06-18
+* [Pull Request] [Bssl2](https://github.com/status-im/nimbus-eth2/pull/8647) - 2026-06-23
+* [Pull Request] [bearssl: bump](https://github.com/status-im/nimbus-eth2/pull/8646) - 2026-06-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `beacon_blocks_by_head` ReqResp](https://github.com/ethereum/consensus-specs/pull/5181#pullrequestreview-4195918133) - 2026-04-29
 

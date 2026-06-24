@@ -99,6 +99,11 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Align note comments to use complete sentences](https://github.com/ethereum/consensus-specs/pull/5375) - 2026-06-19
 * [Review] [Review on: Align note comments to use complete sentences](https://github.com/ethereum/consensus-specs/pull/5375#pullrequestreview-4530937945) - 2026-06-19
 * [Commit] [Align note comments to use complete sentences (#5375)](https://github.com/ethereum/consensus-specs/commit/a8fc06a18d90be4ea76942d40fc4493adc5f9b42) - 2026-06-19
+* [Pull Request] [Set slot before using it for object construction](https://github.com/ethereum/consensus-specs/pull/5386) - 2026-06-23
+* [Review] [Review on: Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374#pullrequestreview-4552163369) - 2026-06-23
+* [Review] [Review on: Use `MAX_REQUEST_PAYLOADS` in `EnvelopesByRange`](https://github.com/ethereum/consensus-specs/pull/5383#pullrequestreview-4553595730) - 2026-06-23
+* [Review] [Review on: Fix some inconsistencies in fulu partial-columns spec](https://github.com/ethereum/consensus-specs/pull/5357#pullrequestreview-4551549918) - 2026-06-23
+* [Commit] [Set slot before using it for object construction (#5386)](https://github.com/ethereum/consensus-specs/commit/517afcbecde6e5f4db500c98f9584769c0aa5f0e) - 2026-06-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

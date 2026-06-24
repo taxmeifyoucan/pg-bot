@@ -141,6 +141,8 @@ Team: Erigon
 * [Review] [Review on: ci, cl/clparams: bump kurtosis assertoor to v0.1.2 and align CL clients](https://github.com/erigontech/erigon/pull/21449#pullrequestreview-4544816587) - 2026-06-22
 * [Review] [Review on: execution/stagedsync: clear BlockAccessList on exec reset](https://github.com/erigontech/erigon/pull/21928#pullrequestreview-4541501709) - 2026-06-22
 * [Review] [Review on: db/state: bound commitmentValTransformDomain key caches](https://github.com/erigontech/erigon/pull/21929#pullrequestreview-4543034496) - 2026-06-22
+* [Review] [Review on: deps: bump mdbx-go to 744fccaa (libmdbx 0.14.3) for CI validation](https://github.com/erigontech/erigon/pull/21964#pullrequestreview-4554054287) - 2026-06-23
+* [Review] [Review on: execution/stagedsync: fix parallel-exec "limit" log underflow](https://github.com/erigontech/erigon/pull/21953#pullrequestreview-4550479055) - 2026-06-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

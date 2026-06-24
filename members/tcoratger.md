@@ -498,6 +498,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat(multi-stark): reduce the AIR zerocheck to opening claims](https://github.com/Plonky3/Plonky3/pull/1886#pullrequestreview-4542865898) - 2026-06-22
 * [Review] [Review on: perf(util): stripe parallel transpose along the longer dimension](https://github.com/Plonky3/Plonky3/pull/1888#pullrequestreview-4542609464) - 2026-06-22
 * [Commit] [feat(multi-stark): reduce the AIR zerocheck to opening claims (#1886)](https://github.com/Plonky3/Plonky3/commit/75509ba00fd5c0c7f65af771a33bb00151b63008) - 2026-06-22
+* [Review] [Review on: whir: pruned Merkle multiproofs for STIR query openings](https://github.com/Plonky3/Plonky3/pull/1805#pullrequestreview-4553469314) - 2026-06-23
+* [Review] [Review on: perf(util): stripe the 8-byte parallel transpose along the longer dimension](https://github.com/Plonky3/Plonky3/pull/1889#pullrequestreview-4555184112) - 2026-06-23
+* [Pull Request] [feat(multi-stark): prove AIRs end-to-end via WHIR commitment openings](https://github.com/Plonky3/Plonky3/pull/1892) - 2026-06-23
+* [Review] [Review on: chore(deps): update itertools requirement from 0.14.0 to 0.15.0 in the cargo group](https://github.com/Plonky3/Plonky3/pull/1891#pullrequestreview-4550591442) - 2026-06-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

@@ -48,6 +48,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Forbid removed `execution_payload_envelope.rs` file](https://github.com/sigp/lighthouse/pull/9506) - 2026-06-18
 * [Review] [Review on: Fix race condition between validator duties service and proposer preferences](https://github.com/sigp/lighthouse/pull/9309#pullrequestreview-4538529159) - 2026-06-20
 * [Review] [Review on: Add proposer preferences SSE event](https://github.com/sigp/lighthouse/pull/9308#pullrequestreview-4538524728) - 2026-06-20
+* [Pull Request] [Implement super batch signature verification (PoC)](https://github.com/sigp/lighthouse/pull/9521) - 2026-06-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630#pullrequestreview-4466665565) - 2026-06-10
 ## Q1 2026

@@ -109,6 +109,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [fix: add missing sources jar checksums for org.web3j besu and eea 5.0.3 (#10670)](https://github.com/besu-eth/besu/commit/7801d04ca64a285326956e92d6f33e6dc26098f5) - 2026-06-19
 * [Pull Request] [Engine API foundation: fork-aware base class and helpers](https://github.com/besu-eth/besu/pull/10678) - 2026-06-22
 * [Review] [Review on: Introduce BesuJsonModule and centralized JSON-RPC object mappers](https://github.com/besu-eth/besu/pull/10671#pullrequestreview-4544493998) - 2026-06-22
+* [Review] [Review on: Introduce BesuJsonModule and centralized JSON-RPC object mappers](https://github.com/besu-eth/besu/pull/10671#pullrequestreview-4551265441) - 2026-06-23
+* [Review] [Review on: Hive test error codes eth simulate](https://github.com/besu-eth/besu/pull/10625#pullrequestreview-4553017907) - 2026-06-23
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

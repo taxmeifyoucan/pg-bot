@@ -158,6 +158,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Ignore payload attestations when the state cannot resolve the slot's PTC](https://github.com/OffchainLabs/prysm/pull/17020#pullrequestreview-4545345754) - 2026-06-22
 * [Review] [Review on: Resolve payload attestation committee against the slot-covering state](https://github.com/OffchainLabs/prysm/pull/17017#pullrequestreview-4545047011) - 2026-06-22
 * [Commit] [make builder ssz the default (#17022)](https://github.com/OffchainLabs/prysm/commit/7d9f760b04d2bf20e605b996822422cc77345ddf) - 2026-06-22
+* [Review] [Review on: Add missing execution_payload_bid gossip REJECT checks](https://github.com/OffchainLabs/prysm/pull/17011#pullrequestreview-4556578521) - 2026-06-23
+* [Review] [Review on: Rebroadcast pending gloas data columns](https://github.com/OffchainLabs/prysm/pull/17001#pullrequestreview-4556900678) - 2026-06-23
+* [Pull Request] [improve host logging with better ](https://github.com/OffchainLabs/prysm/pull/17024) - 2026-06-23
+* [Commit] [improve host logging with better  (#17024)](https://github.com/OffchainLabs/prysm/commit/de844b2f4632509df1ab047948ae17f0303c2e44) - 2026-06-23
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

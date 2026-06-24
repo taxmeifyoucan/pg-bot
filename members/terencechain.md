@@ -322,6 +322,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Resolve payload attestation committee against the slot-covering state (#17021)](https://github.com/OffchainLabs/prysm/commit/35e5676f5956e8b26c7dc28716582b22ab968c12) - 2026-06-22
 * [Commit] [Double the global per peer rpc rate limit (#16780)](https://github.com/OffchainLabs/prysm/commit/9f8e8c106d465a65b61a8441c5e9c7fb0e3f4501) - 2026-06-22
 * [Commit] [Ignore payload attestations when the state cannot resolve the slot's PTC (#17020)](https://github.com/OffchainLabs/prysm/commit/718954e9b1905afe3a1650d153d61b0851e01ff4) - 2026-06-22
+* [Review] [Review on: Rebroadcast pending gloas data columns](https://github.com/OffchainLabs/prysm/pull/17001#pullrequestreview-4557278218) - 2026-06-23
+* [Review] [Review on: improve host logging with better ](https://github.com/OffchainLabs/prysm/pull/17024#pullrequestreview-4555092206) - 2026-06-23
+* [Commit] [Add missing execution_payload_bid gossip REJECT checks (#17011)](https://github.com/OffchainLabs/prysm/commit/1c0ecad6949e55a1a75ea97d560ff37c048147cb) - 2026-06-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

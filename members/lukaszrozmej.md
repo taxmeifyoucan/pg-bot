@@ -738,6 +738,16 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Improve JWT secret auto-generation log](https://github.com/NethermindEth/nethermind/pull/12073#pullrequestreview-4542799226) - 2026-06-22
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12076#pullrequestreview-4542805100) - 2026-06-22
 * [Review] [Review on: perf: eliminate Evm/Db metrics false sharing; parallel-safe gas-price aggregation](https://github.com/NethermindEth/nethermind/pull/12071#pullrequestreview-4542576047) - 2026-06-22
+* [Review] [Review on: refactor(network): declarative P2P capability advertisement via IP2PCapabilityResolver](https://github.com/NethermindEth/nethermind/pull/12093#pullrequestreview-4552630055) - 2026-06-23
+* [Review] [Review on: fix(eth_getLogs): return EIP-4444 error code for pruned receipts](https://github.com/NethermindEth/nethermind/pull/12090#pullrequestreview-4552646738) - 2026-06-23
+* [Review] [Review on: fix: prevent discovery eviction from disconnecting active sync peer](https://github.com/NethermindEth/nethermind/pull/12097#pullrequestreview-4552478446) - 2026-06-23
+* [Review] [Review on: Optimise sorted pool lookup](https://github.com/NethermindEth/nethermind/pull/12108#pullrequestreview-4555470259) - 2026-06-23
+* [Review] [Review on: ci(zkevm): Add glamsterdam-devnet-5 blocks tests](https://github.com/NethermindEth/nethermind/pull/12098#pullrequestreview-4554636133) - 2026-06-23
+* [Review] [Review on: refactor(GasEstimator): Separate OptimisticMultiplier from stop margin](https://github.com/NethermindEth/nethermind/pull/12088#pullrequestreview-4552669296) - 2026-06-23
+* [Review] [Review on: chore: Update required SDK version](https://github.com/NethermindEth/nethermind/pull/12086#pullrequestreview-4552672371) - 2026-06-23
+* [Review] [Review on: Optimize trie a bit](https://github.com/NethermindEth/nethermind/pull/12104#pullrequestreview-4552542217) - 2026-06-23
+* [Review] [Review on: fix(eth): cap outgoing block bodies under the devp2p message size limit](https://github.com/NethermindEth/nethermind/pull/12059#pullrequestreview-4552705321) - 2026-06-23
+* [Review] [Review on: perf(flat): cheaper TrieWarmer enqueue fast-path](https://github.com/NethermindEth/nethermind/pull/12062#pullrequestreview-4552680550) - 2026-06-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

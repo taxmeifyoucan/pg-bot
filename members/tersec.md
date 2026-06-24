@@ -235,6 +235,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: chore: bump libp2p to 2.0.0](https://github.com/status-im/nimbus-eth2/pull/8536#pullrequestreview-4543176785) - 2026-06-22
 * [Review] [Review on: add epbs fork-choice handlers into get_head and gossip](https://github.com/status-im/nimbus-eth2/pull/8572#pullrequestreview-4542963191) - 2026-06-22
 * [Commit] [version v26.6.0](https://github.com/status-im/nimbus-eth2/commit/1cc8c3dbf48126c01ab66921c4596d02ef9d0986) - 2026-06-22
+* [Review] [Review on: get attestation rewards](https://github.com/status-im/nimbus-eth2/pull/8649#pullrequestreview-4558212495) - 2026-06-24
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14

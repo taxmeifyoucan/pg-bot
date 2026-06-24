@@ -217,6 +217,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [QA: add rpctest for optional bn (#21878)](https://github.com/erigontech/erigon/commit/8973a184d7d55d3fb95776a7be1221f92883d66f) - 2026-06-21
 * [Commit] [QA: enable debug_traceTransaction/test_12 (#21803)](https://github.com/erigontech/erigon/commit/4c4557c556635926fc759f60c82663d5da74b97b) - 2026-06-21
 * [Issue] [rpc/ethapi: remove raw field from FillTransactionResult when execution-apis#803 is adopted](https://github.com/erigontech/erigon/issues/21948) - 2026-06-22
+* [Review] [Review on: qa-tests: make RPC perf tests support selectable Erigon execution mode](https://github.com/erigontech/erigon/pull/21855#pullrequestreview-4554780840) - 2026-06-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

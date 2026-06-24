@@ -310,6 +310,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[performance] cherry-pick: seg: 2-3x faster merge compression via Aho-Corasick matcher and cover-DP optimizations (#21625)](https://github.com/erigontech/erigon/pull/21946) - 2026-06-22
 * [Issue] [snapshots opening has become slow](https://github.com/erigontech/erigon/issues/21932) - 2026-06-22
 * [Commit] [seg: 2-3x faster merge compression via Aho-Corasick matcher and cover-DP optimizations (#21625)](https://github.com/erigontech/erigon/commit/a048fb58ef4bee376e5827ee004fa407d1ad90fc) - 2026-06-22
+* [Pull Request] [[r3.4] db/state/statecfg: bump rcache domain kv/.v to v3.1](https://github.com/erigontech/erigon/pull/21974) - 2026-06-23
+* [Review] [Review on: [wip] db/state: dedup latest-values per (key,step) in domain flush](https://github.com/erigontech/erigon/pull/21956#pullrequestreview-4551714053) - 2026-06-23
 ## Q1 2026
 
 

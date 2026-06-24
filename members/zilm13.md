@@ -159,6 +159,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Fix sync gloas](https://github.com/Consensys/teku/pull/10873) - 2026-06-22
 * [Pull Request] [Fix peer selection so inbound connections cannot occupy all peer slots and prevent required outbound connections](https://github.com/Consensys/teku/pull/10846) - 2026-06-22
 * [Commit] [Fix peer selection so inbound connections cannot occupy all peer slots and prevent required outbound connections (#10846)](https://github.com/Consensys/teku/commit/64bee777816d152dfc1ae866577258ae7c9c32bd) - 2026-06-22
+* [Review] [Review on: Fix sync gloas](https://github.com/Consensys/teku/pull/10873#pullrequestreview-4552837763) - 2026-06-23
+* [Review] [Review on: glamsterdam-devnet-6 (v1.7.0-alpha.11)](https://github.com/Consensys/teku/pull/10848#pullrequestreview-4556615927) - 2026-06-23
+* [Pull Request] [Fix quic tests](https://github.com/Consensys/teku/pull/10883) - 2026-06-23
+* [Review] [Review on: 2 fixes on execution payload sync](https://github.com/Consensys/teku/pull/10872#pullrequestreview-4552043761) - 2026-06-23
+* [Commit] [Fix quic tests (#10883)](https://github.com/Consensys/teku/commit/da5f82fb3664910836093f777c56c28279c54342) - 2026-06-23
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

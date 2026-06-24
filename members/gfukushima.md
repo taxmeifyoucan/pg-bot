@@ -90,6 +90,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Clear builder payment if proposer is slashed](https://github.com/Consensys/teku/pull/10855) - 2026-06-18
 * [Pull Request] [Clear builder payment if proposer is slashed](https://github.com/Consensys/teku/pull/10857) - 2026-06-18
 * [Review] [Review on: Reject jqwik updates past 1.9.3](https://github.com/Consensys/teku/pull/10854#pullrequestreview-4521404179) - 2026-06-18
+* [Pull Request] [add new reject rule to Execution payload bid gossip validator](https://github.com/Consensys/teku/pull/10886) - 2026-06-23
+* [Review] [Review on: Break down peers_direction_current metric by transport (tcp/quic)](https://github.com/Consensys/teku/pull/10887#pullrequestreview-4557957286) - 2026-06-23
+* [Pull Request] [New reject gossip rule for execution payload bid](https://github.com/Consensys/teku/pull/10881) - 2026-06-23
+* [Pull Request] [split GetNewBlockV3 IT to avoid assumeThat](https://github.com/Consensys/teku/pull/10880) - 2026-06-23
+* [Commit] [split GetNewBlockV3 IT to avoid assumeThat (#10880)](https://github.com/Consensys/teku/commit/f2ac2abb85daaf6ad34fc9a01d449477c9358503) - 2026-06-23
 ## Q1 2026
 
 

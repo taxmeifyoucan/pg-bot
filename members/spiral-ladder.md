@@ -182,6 +182,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat(bindings): export stf to match ts call signature](https://github.com/ChainSafe/lodestar-z/pull/437) - 2026-06-22
 * [Pull Request] [fix(ci): fix caching spec test version](https://github.com/ChainSafe/lodestar-z/pull/439) - 2026-06-22
 * [Commit] [fix(ci): fix caching spec test version (#439)](https://github.com/ChainSafe/lodestar-z/commit/96885a101cabbc7b70d58823778db6f3dd57fa42) - 2026-06-22
+* [Issue] [chore: update spec tests to v1.7.0-alpha.11](https://github.com/ChainSafe/lodestar-z/issues/443) - 2026-06-23
+* [Commit] [chore: update spec-test-version: v1.6.0-beta.2 -> v1.7.0-alpha.10 (#441)](https://github.com/ChainSafe/lodestar-z/commit/f932b1cc777f240fc5cf821c488e9d45c439f660) - 2026-06-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 
@@ -197,6 +199,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat: integrate zig state transition](https://github.com/ChainSafe/lodestar/pull/9516) - 2026-06-16
 * [Pull Request] [fix: clamp pivotSlot calculation to GENESIS_SLOT](https://github.com/ChainSafe/lodestar/pull/9521) - 2026-06-18
 * [Commit] [fix: clamp pivotSlot calculation to GENESIS_SLOT (#9521)](https://github.com/ChainSafe/lodestar/commit/45c0f6c77eb1cca781a2f6ccf105220628d06f6d) - 2026-06-22
+* [Review] [Review on: feat: integrate zig state transition](https://github.com/ChainSafe/lodestar/pull/9516#pullrequestreview-4552205188) - 2026-06-23
 ## Q1 2026
 
 

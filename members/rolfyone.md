@@ -154,6 +154,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Added optional fields to peers endpoint](https://github.com/Consensys/teku/pull/10867) - 2026-06-22
 * [Review] [Review on: Treat QUIC STOP_SENDING and stream closes as benign in RPC/gossip logging](https://github.com/Consensys/teku/pull/10865#pullrequestreview-4540829046) - 2026-06-22
 * [Commit] [Added optional fields to peers endpoint (#10867)](https://github.com/Consensys/teku/commit/3480ebd81edc0c3343461668b77f2fd59e8e560e) - 2026-06-22
+* [Review] [Review on: 2 fixes on execution payload sync](https://github.com/Consensys/teku/pull/10872#pullrequestreview-4550615971) - 2026-06-23
+* [Review] [Review on: split GetNewBlockV3 IT to avoid assumeThat](https://github.com/Consensys/teku/pull/10880#pullrequestreview-4550666355) - 2026-06-23
+* [Commit] [Implemented the head_v2 event from ethereum/beacon-APIs#590. (#10776)](https://github.com/Consensys/teku/commit/df3159e87e84f6b7c085486e0b1623251468dd8b) - 2026-06-23
+* [Commit] [quiet the license check (#10868)](https://github.com/Consensys/teku/commit/fb7dc8db9f83e7c43310de52091d25bdfda0d3e6) - 2026-06-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

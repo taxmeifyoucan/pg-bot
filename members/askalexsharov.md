@@ -851,6 +851,14 @@ Team: Erigon
 * [Review] [Review on: execution/commitment: parallel - wrong trie root on whale storage hotfix](https://github.com/erigontech/erigon/pull/21941#pullrequestreview-4543492505) - 2026-06-22
 * [Review] [Review on: [r3.5] execution/stagedsync: AuRa genesis bypass for parallel-exec emptyRemoval](https://github.com/erigontech/erigon/pull/21931#pullrequestreview-4541912094) - 2026-06-22
 * [Commit] [p2p, gointerfaces: reduce Sprintf and H256/H512/H2048 allocs (#21897)](https://github.com/erigontech/erigon/commit/7dd7942f0e2c3a02fde0b5308a408788ea91132e) - 2026-06-22
+* [Pull Request] [execution/stagedsync: fix parallel-exec "limit" log underflow](https://github.com/erigontech/erigon/pull/21953) - 2026-06-23
+* [Review] [Review on: execution/commitment: parallel deep storage fold via genuine unfold + mount (fixes wrong trie root)](https://github.com/erigontech/erigon/pull/21945#pullrequestreview-4549610031) - 2026-06-23
+* [Pull Request] [[wip] db/state: dedup latest-values per (key,step) in domain flush](https://github.com/erigontech/erigon/pull/21956) - 2026-06-23
+* [Commit] [[3.6] cmd: `erigon commitment convert` (#21933)](https://github.com/erigontech/erigon/commit/562707823db3924853b3279ac533d43d81f65296) - 2026-06-23
+* [Commit] [sais: bufs pool (#21437)](https://github.com/erigontech/erigon/commit/fa1c1bcc704d1e10fd4d75cb0ca8b59da9b16ae5) - 2026-06-23
+* [Commit] [cmd/integration: stage_exec to not reuse `doms` object (#21952)](https://github.com/erigontech/erigon/commit/977fa9d320bd36055cc907ce6ee7f3cd8d28bb38) - 2026-06-23
+* [Commit] [cmd/integration: drop stage_exec --no-commit flag (#21951)](https://github.com/erigontech/erigon/commit/41d9c738e953594c10fba1cb45d6446e0948eeef) - 2026-06-23
+* [Commit] [db/seg: drop redundant posTable.ptrs pointer array (#21927)](https://github.com/erigontech/erigon/commit/988360a4ccba03182c668db450b70e8d034fe435) - 2026-06-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

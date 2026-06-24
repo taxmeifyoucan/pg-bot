@@ -87,6 +87,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Move stateless tests into sub folder (#4335)](https://github.com/status-im/nimbus-eth1/commit/a0cf3551ec60b2b96d2c58c679349b7fb74e5006) - 2026-06-17
 * [Commit] [Remove GC types from BAL builder (#4329)](https://github.com/status-im/nimbus-eth1/commit/fe1f0bbfa5ffd321a087d6cef8b86ebc8f980c00) - 2026-06-17
 * [Pull Request] [Ledger block access list overlay](https://github.com/status-im/nimbus-eth1/pull/4350) - 2026-06-19
+* [Commit] [Ledger block access list overlay (#4350)](https://github.com/status-im/nimbus-eth1/commit/1ec4bf398f777c6bfa7ff46c424791b8b869493b) - 2026-06-23
 ## Q1 2026
 
 

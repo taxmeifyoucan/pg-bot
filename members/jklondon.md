@@ -124,6 +124,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: p2p: cache per-message ingress gauges to avoid allocs in Peer.handle](https://github.com/erigontech/erigon/pull/21920#pullrequestreview-4545561066) - 2026-06-22
 * [Review] [Review on: db/seg: drop redundant posTable.ptrs pointer array](https://github.com/erigontech/erigon/pull/21927#pullrequestreview-4545555606) - 2026-06-22
 * [Review] [Review on: db/state: bound commitmentValTransformDomain key caches](https://github.com/erigontech/erigon/pull/21929#pullrequestreview-4545536717) - 2026-06-22
+* [Pull Request] [deps: bump mdbx-go to 744fccaa (libmdbx 0.14.3) for CI validation](https://github.com/erigontech/erigon/pull/21964) - 2026-06-23
+* [Pull Request] [execution/stagedsync: unify unwind overlay-prune boundary to last committed txNum](https://github.com/erigontech/erigon/pull/21972) - 2026-06-23
+* [Review] [Review on: db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots](https://github.com/erigontech/erigon/pull/21200#pullrequestreview-4553229103) - 2026-06-23
+* [Review] [Review on: db: opt-in ReadAhead of Table with limited "ahead window"](https://github.com/erigontech/erigon/pull/21880#pullrequestreview-4553143088) - 2026-06-23
 ## Q1 2026
 
 

@@ -55,6 +55,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): tighten expectation of empty node not present in empty tries](https://github.com/ethereum/execution-specs/pull/2981) - 2026-06-11
 * [Pull Request] [feat(tests): add EIP-211 return data buffer tests for SELFDESTRUCT](https://github.com/ethereum/execution-specs/pull/3029) - 2026-06-19
 * [Commit] [feat(tests): add EIP-211 return data buffer tests for SELFDESTRUCT (#3029)](https://github.com/ethereum/execution-specs/commit/b7033394dd34d44ce3045b66e487ee155dea6974) - 2026-06-19
+* [Review] [Review on: fix(consume): handle witness negative tests](https://github.com/ethereum/execution-specs/pull/3041#pullrequestreview-4556726495) - 2026-06-23
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Deserialize and run fixtures through iterator & process Zisk profiling failures ](https://github.com/eth-act/zkevm-benchmark-workload/pull/271) - 2026-04-01
 * [Commit] [Deserialize and run fixtures through iterator & process Zisk profiling failures  (#271)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e2300e4d38760f446e64040a7de8d1816f00e7ba) - 2026-04-01

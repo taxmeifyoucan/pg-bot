@@ -315,6 +315,22 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [sync: fix for p2p is disabled](https://github.com/besu-eth/besu/pull/10676) - 2026-06-22
 * [Review] [Review on: sync: fix for p2p is disabled](https://github.com/besu-eth/besu/pull/10676#pullrequestreview-4541567750) - 2026-06-22
 * [Pull Request] [feat(pow-removal): Phase 4/5 cleanup - remove PowAlgorithm and DifficultyCalculatorTests](https://github.com/besu-eth/besu/pull/10675) - 2026-06-22
+* [Pull Request] [ci: add check for committed binary files](https://github.com/besu-eth/besu/pull/10691) - 2026-06-24
+* [Pull Request] [fix(engine): cache world state after rememberBlock](https://github.com/besu-eth/besu/pull/10690) - 2026-06-24
+* [Review] [Review on: fix(engine): cache world state after rememberBlock](https://github.com/besu-eth/besu/pull/10690#pullrequestreview-4558452685) - 2026-06-24
+* [Review] [Review on: Consolidate contribution guidelines.](https://github.com/besu-eth/besu/pull/10689#pullrequestreview-4558175794) - 2026-06-24
+* [Pull Request] [Code of Conduct: replace Hyperledger with Besu](https://github.com/besu-eth/besu/pull/10683) - 2026-06-23
+* [Review] [Review on: chore: remove references to repolint](https://github.com/besu-eth/besu/pull/10684#pullrequestreview-4552446844) - 2026-06-23
+* [Pull Request] [fix(ci): switch reference-tests from OpenJ9 to HotSpot (temurin)](https://github.com/besu-eth/besu/pull/10681) - 2026-06-23
+* [Pull Request] [Contribution Guidelines - update links](https://github.com/besu-eth/besu/pull/10682) - 2026-06-23
+* [Review] [Review on: Contribution Guidelines - update links](https://github.com/besu-eth/besu/pull/10682#pullrequestreview-4550318692) - 2026-06-23
+* [Review] [Review on: Introduce BesuJsonModule and centralized JSON-RPC object mappers](https://github.com/besu-eth/besu/pull/10671#pullrequestreview-4549878305) - 2026-06-23
+* [Review] [Review on: Fix `eth_maxPriorityFeePerGas` and `eth_gasPrice` when zero is set for `api-gas-price-blocks`](https://github.com/besu-eth/besu/pull/10642#pullrequestreview-4549648805) - 2026-06-23
+* [Review] [Review on: Lazy decoding of GetTrieNodesMessage path groups](https://github.com/besu-eth/besu/pull/10667#pullrequestreview-4550343160) - 2026-06-23
+* [Issue] [flaky test EngineQosTimerTest](https://github.com/besu-eth/besu/issues/10688) - 2026-06-23
+* [Commit] [Code of Conduct: replace Hyperledger with Besu (#10683)](https://github.com/besu-eth/besu/commit/127fb99a80940fba0f64a90748397bbea07eedcd) - 2026-06-23
+* [Commit] [Contribution Guidelines - update links (#10682)](https://github.com/besu-eth/besu/commit/93fb4c23d4e1b5371397c027fe5eba5de2f3a130) - 2026-06-23
+* [Commit] [fix(ci): switch reference-tests from OpenJ9 to HotSpot (temurin) (#10681)](https://github.com/besu-eth/besu/commit/fbabeb1a910df9dfdf86aa052c9dfc7b050d52c6) - 2026-06-23
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

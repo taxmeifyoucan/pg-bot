@@ -769,6 +769,29 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/state, execution/stagedsync: retain AuRa SystemAddress in all EIP-161 empty-removal paths (extend #21930 family)](https://github.com/erigontech/erigon/pull/21937#pullrequestreview-4542458759) - 2026-06-22
 * [Review] [Review on: [r3.5] execution/state, execution/stagedsync: retain AuRa SystemAddress in all EIP-161 empty-removal paths](https://github.com/erigontech/erigon/pull/21938#pullrequestreview-4542632030) - 2026-06-22
 * [Issue] [Harmonize/de-duplicate consensus admission checks: TxnExecutor.preCheck vs TxPool.validateTx](https://github.com/erigontech/erigon/issues/21942) - 2026-06-22
+* [Pull Request] [execution/commitment: shard BranchCache LRU to scale commitment warmup](https://github.com/erigontech/erigon/pull/21982) - 2026-06-23
+* [Pull Request] [db/state: fix unwind restoring stale values across step boundaries](https://github.com/erigontech/erigon/pull/21981) - 2026-06-23
+* [Pull Request] [execution/engineapi, execution/state/contracts: StateChurn unwind/reorg integration tests](https://github.com/erigontech/erigon/pull/21973) - 2026-06-23
+* [Review] [Review on: [r3.5] cl/beacon: add v2 proposer-duties endpoint and guard epoch-slot overflow](https://github.com/erigontech/erigon/pull/21961#pullrequestreview-4552786693) - 2026-06-23
+* [Review] [Review on: [r3.5] exec: overlay-wrap the worker chainTx once in resetTx so every reader is overlay-aware](https://github.com/erigontech/erigon/pull/21975#pullrequestreview-4556044379) - 2026-06-23
+* [Review] [Review on: execution/cache: StateCache LRU + Mode + (txNum,epoch) lazy unwind](https://github.com/erigontech/erigon/pull/21386#pullrequestreview-4552075445) - 2026-06-23
+* [Pull Request] [.github: group @docusaurus and react Dependabot updates for docs/site](https://github.com/erigontech/erigon/pull/21978) - 2026-06-23
+* [Pull Request] [db/recsplit/eliasfano16, db/recsplit/eliasfano32: don't panic in Build on jump-offset overflow](https://github.com/erigontech/erigon/pull/21971) - 2026-06-23
+* [Review] [Review on: build(deps-dev): bump @docusaurus/module-type-aliases from 3.10.0 to 3.10.1 in /docs/site](https://github.com/erigontech/erigon/pull/21968#pullrequestreview-4554069513) - 2026-06-23
+* [Review] [Review on: build(deps): bump react and @types/react in /docs/site](https://github.com/erigontech/erigon/pull/21967#pullrequestreview-4553926158) - 2026-06-23
+* [Review] [Review on: exec: overlay-wrap the worker chainTx once in resetTx so every reader is overlay-aware](https://github.com/erigontech/erigon/pull/21962#pullrequestreview-4553010372) - 2026-06-23
+* [Review] [Review on: build(deps): bump @easyops-cn/docusaurus-search-local from 0.55.1 to 0.55.2 in /docs/site](https://github.com/erigontech/erigon/pull/21966#pullrequestreview-4553810625) - 2026-06-23
+* [Review] [Review on: .github, docs: bump vulnerable npm deps (undici, joi, js-yaml, @babel/core)](https://github.com/erigontech/erigon/pull/21963#pullrequestreview-4552867435) - 2026-06-23
+* [Review] [Review on: db: opt-in ReadAhead of Table with limited "ahead window"](https://github.com/erigontech/erigon/pull/21880#pullrequestreview-4552166615) - 2026-06-23
+* [Review] [Review on: execution/stagedsync: fix parallel-exec "limit" log underflow](https://github.com/erigontech/erigon/pull/21953#pullrequestreview-4552817593) - 2026-06-23
+* [Review] [Review on: execution: avoid O(n^2) BAL merge in block builder](https://github.com/erigontech/erigon/pull/21947#pullrequestreview-4551641389) - 2026-06-23
+* [Review] [Review on: db/state:`HistoryKeyTxNumIterFiles`: less copy/append](https://github.com/erigontech/erigon/pull/20286#pullrequestreview-4552473233) - 2026-06-23
+* [Review] [Review on: [r3.5] db/state: collapse duplicate same-block DeleteAccount in BlockStateCache](https://github.com/erigontech/erigon/pull/21957#pullrequestreview-4552151525) - 2026-06-23
+* [Review] [Review on: [WIP] rpc:  add withdrawal balance diffs to trace_block and trace_replayBlockTransactions](https://github.com/erigontech/erigon/pull/21592#pullrequestreview-4552176473) - 2026-06-23
+* [Pull Request] [execution/vm: skip PUSH-free words in JUMPDEST analysis](https://github.com/erigontech/erigon/pull/21954) - 2026-06-23
+* [Commit] [ci, cl/clparams: bump kurtosis assertoor to v0.1.2 and align CL clients (#21449)](https://github.com/erigontech/erigon/commit/bc4e65449a153e5bf21c384ec4ca20928efaa08d) - 2026-06-23
+* [Commit] [.github: group @docusaurus and react Dependabot updates for docs/site (#21978)](https://github.com/erigontech/erigon/commit/d03cd173729140d0f955519ba1d8aa7e967fcdcb) - 2026-06-23
+* [Commit] [db/recsplit/eliasfano16, db/recsplit/eliasfano32: don't panic in Build on jump-offset overflow (#21971)](https://github.com/erigontech/erigon/commit/a397d0440a59bb05f381e215e68fd157a408c214) - 2026-06-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

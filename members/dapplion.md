@@ -76,6 +76,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Range sync: fetch data columns via custody-by-root](https://github.com/sigp/lighthouse/pull/9496) - 2026-06-17
 * [Review] [Review on: Gloas attestation payload reprocess](https://github.com/sigp/lighthouse/pull/9440#pullrequestreview-4515407033) - 2026-06-17
 * [Pull Request] [Fix peerless lookup getting stuck while awaiting download](https://github.com/sigp/lighthouse/pull/9516) - 2026-06-22
+* [Review] [Review on: Fix peerless lookup getting stuck while awaiting download](https://github.com/sigp/lighthouse/pull/9516#pullrequestreview-4552742016) - 2026-06-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 
