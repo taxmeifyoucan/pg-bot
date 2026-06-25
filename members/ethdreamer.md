@@ -13,6 +13,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Refactor Custody Context Availability Checks](https://github.com/sigp/lighthouse/pull/9515) - 2026-06-22
+* [Review] [Review on: Refactor Custody Context Availability Checks](https://github.com/sigp/lighthouse/pull/9515#pullrequestreview-4564846328) - 2026-06-24
 ## Q1 2026
 
 

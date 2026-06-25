@@ -105,6 +105,7 @@ Team: Geth
 * [Review] [Review on: [WIP]: optimize the triedb commit](https://github.com/ethereum/go-ethereum/pull/35205#pullrequestreview-4542966210) - 2026-06-22
 * [Review] [Review on: core/vm: implements EIP-8037 spec change](https://github.com/ethereum/go-ethereum/pull/35173#pullrequestreview-4542587279) - 2026-06-22
 * [Pull Request] [Use full StateAccounts in triedb](https://github.com/ethereum/go-ethereum/pull/35208) - 2026-06-22
+* [Pull Request] [Glamsterdam devnet 6](https://github.com/ethereum/go-ethereum/pull/35214) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

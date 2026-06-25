@@ -212,6 +212,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf(rpc): arc chain change cache data](https://github.com/paradigmxyz/reth/pull/25641#pullrequestreview-4553846692) - 2026-06-23
 * [Review] [Review on: feat(payload): thread skip-state-root into payload builder](https://github.com/paradigmxyz/reth/pull/25635#pullrequestreview-4553353051) - 2026-06-23
 * [Commit] [perf: store `Arc`'d blocks in `Chain` (#25645)](https://github.com/paradigmxyz/reth/commit/c0a94311147bef9407a42104ceaa7d88bf07a605) - 2026-06-23
+* [Review] [Review on: feat(rpc): support sendRawTransactionSync timeout arg](https://github.com/paradigmxyz/reth/pull/25682#pullrequestreview-4561815135) - 2026-06-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: refactor(precompile): split PrecompileOutput and PrecompileError for state gas](https://github.com/bluealloy/revm/pull/3541#pullrequestreview-4062901243) - 2026-04-06
 

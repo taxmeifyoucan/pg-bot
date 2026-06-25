@@ -13,6 +13,9 @@ Team: Cryptography (EF)
 
 [b-wagn/pg-contrib](https://github.com/b-wagn/pg-contrib)
 * [Commit] [Add extension paper link for FRIDA in README](https://github.com/b-wagn/pg-contrib/commit/58afc931830d87c29e6c52c7693b081b4d605baa) - 2026-06-03
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Replace py_ecc/milagro with arkworks](https://github.com/ethereum/consensus-specs/pull/5394#pullrequestreview-4563259563) - 2026-06-24
 ## Q1 2026
 
 

@@ -325,6 +325,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Rebroadcast pending gloas data columns](https://github.com/OffchainLabs/prysm/pull/17001#pullrequestreview-4557278218) - 2026-06-23
 * [Review] [Review on: improve host logging with better ](https://github.com/OffchainLabs/prysm/pull/17024#pullrequestreview-4555092206) - 2026-06-23
 * [Commit] [Add missing execution_payload_bid gossip REJECT checks (#17011)](https://github.com/OffchainLabs/prysm/commit/1c0ecad6949e55a1a75ea97d560ff37c048147cb) - 2026-06-24
+* [Pull Request] [Dedupe Gloas pending-column downscore to once per peer per root](https://github.com/OffchainLabs/prysm/pull/17032) - 2026-06-24
+* [Pull Request] [Batch verify builder deposit request signatures](https://github.com/OffchainLabs/prysm/pull/17031) - 2026-06-24
+* [Pull Request] [Glamsterdam devnet 6](https://github.com/OffchainLabs/prysm/pull/17027) - 2026-06-24
+* [Review] [Review on: fix: Do not republish gloas columns as partial columns](https://github.com/OffchainLabs/prysm/pull/17030#pullrequestreview-4564014085) - 2026-06-24
+* [Review] [Review on: Set KZG commitments on Gloas sidecars fetched by RPC before validating them](https://github.com/OffchainLabs/prysm/pull/17029#pullrequestreview-4563341904) - 2026-06-24
+* [Commit] [Remove unused deposit signature prefetch cache (#17012)](https://github.com/OffchainLabs/prysm/commit/baad85c4843175d1b5bcbdc3f9b2f5f1ba3e38b3) - 2026-06-24
+* [Commit] [Implement builder execution requests and spec tests v1.7.0-alpha.11 (#16972)](https://github.com/OffchainLabs/prysm/commit/32011eaa88598aaeeeed0698a4f11bbbcd286aa8) - 2026-06-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

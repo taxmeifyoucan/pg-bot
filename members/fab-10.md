@@ -117,6 +117,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [clients/besu: Update Docker images to build and run with Java 25 (#1444)](https://github.com/ethereum/hive/commit/f38b899254ceca7edaa3810778801c357e071f68) - 2026-04-28
 * [Pull Request] [simulators/ethereum/engine: Enforce expected blobs order by setting maxFeePerBlobGas](https://github.com/ethereum/hive/pull/1495) - 2026-05-15
 * [Commit] [simulators/ethereum/engine: Enforce expected blobs order by setting maxFeePerBlobGas (#1495)](https://github.com/ethereum/hive/commit/726baaf7004bb09f45ff87282e9d3e9523ff2a44) - 2026-05-15
+
+[hyperledger/besu-native](https://github.com/hyperledger/besu-native)
+* [Pull Request] [Upgrade Gradle to 9.3.1](https://github.com/besu-eth/besu-native/pull/314) - 2026-06-24
+* [Pull Request] [Remove the ipa-multipoint library](https://github.com/besu-eth/besu-native/pull/315) - 2026-06-24
 ## Q1 2026
 
 

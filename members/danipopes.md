@@ -507,6 +507,7 @@ Team: Reth
 * [Pull Request] [feat(precompile): add matter-labs bn254 backend](https://github.com/bluealloy/revm/pull/3673) - 2026-05-12
 * [Pull Request] [feat: add async database fiber support](https://github.com/bluealloy/revm/pull/3709) - 2026-05-22
 * [Review] [Review on: perf: avoid reallocations and cloning during commit](https://github.com/bluealloy/revm/pull/3732#pullrequestreview-4404761000) - 2026-06-01
+* [Review] [Review on: perf: avoid intermediate BAL account allocation](https://github.com/bluealloy/revm/pull/3775#pullrequestreview-4562424098) - 2026-06-24
 ## Q1 2026
 
 

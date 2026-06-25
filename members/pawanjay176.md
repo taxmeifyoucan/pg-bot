@@ -78,6 +78,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Issue] [Score EnvelopePeerFailure correctly](https://github.com/sigp/lighthouse/issues/9525) - 2026-06-23
 * [Issue] [Prune finalized gloas envelopes](https://github.com/sigp/lighthouse/issues/9527) - 2026-06-24
 * [Issue] [Backfill support for gloas](https://github.com/sigp/lighthouse/issues/9526) - 2026-06-24
+* [Review] [Review on: Refactor Custody Context Availability Checks](https://github.com/sigp/lighthouse/pull/9515#pullrequestreview-4567384354) - 2026-06-25
+* [Review] [Review on: Fix peerless lookup getting stuck while awaiting download](https://github.com/sigp/lighthouse/pull/9516#pullrequestreview-4564252732) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4086150869) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4100433052) - 2026-04-13

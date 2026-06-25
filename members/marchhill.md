@@ -106,6 +106,13 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Feature/eip 8282](https://github.com/NethermindEth/nethermind/pull/12092) - 2026-06-22
 * [Pull Request] [Feature/glamsterdam existing eip updates](https://github.com/NethermindEth/nethermind/pull/12091) - 2026-06-22
 * [Pull Request] [test: update pyspec fixtures to glamsterdam-devnet v6.0.0](https://github.com/NethermindEth/nethermind/pull/12084) - 2026-06-22
+* [Pull Request] [Feature/glamsterdam devnet 6 target gas](https://github.com/NethermindEth/nethermind/pull/12128) - 2026-06-24
+* [Pull Request] [Feature/eip 8282](https://github.com/NethermindEth/nethermind/pull/12122) - 2026-06-24
+* [Pull Request] [Feature/glamsterdam existing eip updates](https://github.com/NethermindEth/nethermind/pull/12121) - 2026-06-24
+* [Pull Request] [Feature/eip 2780 reduce intrinsic tx gas](https://github.com/NethermindEth/nethermind/pull/12118) - 2026-06-24
+* [Pull Request] [Feature/eip 8246](https://github.com/NethermindEth/nethermind/pull/12119) - 2026-06-24
+* [Pull Request] [Feature/eip 8038](https://github.com/NethermindEth/nethermind/pull/12120) - 2026-06-24
+* [Pull Request] [Glamsterdam devnet 6 eips](https://github.com/NethermindEth/nethermind/pull/12117) - 2026-06-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat: Bogota fork + EIP-7805 engine_newPayloadV6 bump](https://github.com/ethereum/execution-specs/pull/3028) - 2026-06-19
 ## Q1 2026

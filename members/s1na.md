@@ -118,6 +118,9 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: simulators/ethereum/rpc-compat: ignore error.message fields everywhere](https://github.com/ethereum/hive/pull/1399#pullrequestreview-4274905244) - 2026-05-12
 * [Review] [Review on: rpc-compat: validate speconly responses against the OpenRPC schema](https://github.com/ethereum/hive/pull/1531#pullrequestreview-4469206264) - 2026-06-10
 * [Review] [Review on: rpc-compat: validate speconly responses against the OpenRPC schema](https://github.com/ethereum/hive/pull/1531#pullrequestreview-4475999179) - 2026-06-11
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Sina Mahmoodi](https://github.com/protocolguild/documentation/pull/503) - 2026-06-24
 ## Q1 2026
 
 

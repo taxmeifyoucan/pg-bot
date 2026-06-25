@@ -104,6 +104,11 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Use `MAX_REQUEST_PAYLOADS` in `EnvelopesByRange`](https://github.com/ethereum/consensus-specs/pull/5383#pullrequestreview-4553595730) - 2026-06-23
 * [Review] [Review on: Fix some inconsistencies in fulu partial-columns spec](https://github.com/ethereum/consensus-specs/pull/5357#pullrequestreview-4551549918) - 2026-06-23
 * [Commit] [Set slot before using it for object construction (#5386)](https://github.com/ethereum/consensus-specs/commit/517afcbecde6e5f4db500c98f9584769c0aa5f0e) - 2026-06-23
+* [Review] [Review on: Only reset builder withdrawal epoch if its balance has been swept](https://github.com/ethereum/consensus-specs/pull/5384#pullrequestreview-4562884929) - 2026-06-24
+* [Pull Request] [Name the epoch boundary helper correctly](https://github.com/ethereum/consensus-specs/pull/5392) - 2026-06-24
+* [Review] [Review on: Migrate setup.py into pyproject.toml](https://github.com/ethereum/consensus-specs/pull/5388#pullrequestreview-4560077806) - 2026-06-24
+* [Review] [Review on: Remove unused .gitattributes file](https://github.com/ethereum/consensus-specs/pull/5387#pullrequestreview-4560021805) - 2026-06-24
+* [Commit] [Name the epoch boundary helper correctly (#5392)](https://github.com/ethereum/consensus-specs/commit/b979062aa98aded9448d80d238a9e699fdd36531) - 2026-06-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

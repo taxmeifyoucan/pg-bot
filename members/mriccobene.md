@@ -55,6 +55,8 @@ Team: Erigon
 * [Review] [Review on: QA: latest test in batch block not all in paralel](https://github.com/erigontech/erigon/pull/21884#pullrequestreview-4538887277) - 2026-06-20
 * [Review] [Review on: QA: add rpctest for optional bn](https://github.com/erigontech/erigon/pull/21878#pullrequestreview-4538886246) - 2026-06-20
 * [Issue] [Error retiring snapshot blocks](https://github.com/erigontech/erigon/issues/21960) - 2026-06-23
+* [Commit] [qa-tests: improve the reporting of job names in the test report. (#21474)](https://github.com/erigontech/erigon/commit/400cb54da05ff48bfd26d379e8d4c433a426aa9f) - 2026-06-24
+* [Commit] [qa-tests: make RPC perf tests support selectable Erigon execution mode (#21855)](https://github.com/erigontech/erigon/commit/e4e882d89f6af132fffeb694efb3b78d00631a7c) - 2026-06-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10

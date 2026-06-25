@@ -123,6 +123,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [`PAYLOAD_BUILDER_VERSION` + v1.7.0-alpha.11 remaining changes](https://github.com/Consensys/teku/pull/10863) - 2026-06-20
 * [Issue] [Reject bids with invalid prev_randao during gossip validation](https://github.com/Consensys/teku/issues/10870) - 2026-06-22
 * [Review] [Review on: Enabling new experimental features by default](https://github.com/Consensys/teku/pull/10882#pullrequestreview-4553529331) - 2026-06-23
+* [Pull Request] [ExecutionRequestsDataCodec in SpecLogic + `DataStructureUtil` clean-up](https://github.com/Consensys/teku/pull/10893) - 2026-06-24
+* [Review] [Review on: glamsterdam-devnet-6 (v1.7.0-alpha.11)](https://github.com/Consensys/teku/pull/10848#pullrequestreview-4560213247) - 2026-06-24
+* [Commit] [ExecutionRequestsDataCodec in SpecLogic + `DataStructureUtil` clean-up (#10893)](https://github.com/Consensys/teku/commit/5fa65c2359a83e34db2d1b9211e3b1525b111782) - 2026-06-24
+* [Commit] [glamsterdam-devnet-6 (v1.7.0-alpha.11) (#10848)](https://github.com/Consensys/teku/commit/2dcc454c256bb02964e890ca5ba50aa55d9e2768) - 2026-06-24
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22

@@ -215,6 +215,15 @@ Team: Erigon
 * [Pull Request] [execution/commitment: parallel - wrong trie root on whale storage hotfix](https://github.com/erigontech/erigon/pull/21941) - 2026-06-22
 * [Issue] [Caplin: data race on ForkChoiceStore — onTickPerSlot (write) vs GetHead (read)](https://github.com/erigontech/erigon/issues/21936) - 2026-06-22
 * [Commit] [execution/commitment: parallel - wrong trie root on whale storage hotfix (#21941)](https://github.com/erigontech/erigon/commit/cb627e1b3bd15f2d344e81fe8757581eee6d22b8) - 2026-06-22
+* [Pull Request] [execution/commitment: remove ConcurrentHexPatriciaTrie PoC](https://github.com/erigontech/erigon/pull/22004) - 2026-06-24
+* [Pull Request] [rpc/jsonrpc: keep preimage for in-block-deleted accounts in executionWitness](https://github.com/erigontech/erigon/pull/22000) - 2026-06-24
+* [Pull Request] [rpc/jsonrpc: verify executionWitness keys[] completeness in stateless check](https://github.com/erigontech/erigon/pull/22003) - 2026-06-24
+* [Review] [Review on: execution/commitment: parallel deep storage fold via genuine unfold + mount (fixes wrong trie root)](https://github.com/erigontech/erigon/pull/21945#pullrequestreview-4559747280) - 2026-06-24
+* [Issue] [execution/commitment: CommitmentRoot integrity check false-positive on complete-block-boundary files (blocks v3.6 snapshot release)](https://github.com/erigontech/erigon/issues/21992) - 2026-06-24
+* [Issue] [db/integrity, execution/commitment: StateVerify panics on empty (tombstone) commitment branches — IsComplete missing length guard](https://github.com/erigontech/erigon/issues/21993) - 2026-06-24
+* [Issue] [execution/commitment: sequential Process drops untouched storage on a sole-account-root incremental update (degenerate)](https://github.com/erigontech/erigon/issues/21994) - 2026-06-24
+* [Issue] [execution/commitment: unify unfoldStorageBase branch-read path with unfoldBranchNode](https://github.com/erigontech/erigon/issues/21986) - 2026-06-24
+* [Commit] [execution/commitment: parallel deep storage fold via genuine unfold + mount (fixes wrong trie root) (#21945)](https://github.com/erigontech/erigon/commit/984a453a927247347529a91c1bce05cee18d8779) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

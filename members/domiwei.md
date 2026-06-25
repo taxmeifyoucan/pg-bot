@@ -107,6 +107,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl, sentinel: quiet data column sidecar misses (#21686)](https://github.com/erigontech/erigon/commit/04098aa692332a4d15f4d1e38a17f53cbe7e00ed) - 2026-06-17
 * [Review] [Review on: cl/validator/devvalidator: fix dev-mode validator drain that halts the chain (Electra attestation gap + divide-by-zero guard)](https://github.com/erigontech/erigon/pull/21851#pullrequestreview-4522058150) - 2026-06-18
 * [Pull Request] [cl/forkchoice: use delta tree for GLOAS weights](https://github.com/erigontech/erigon/pull/21913) - 2026-06-19
+* [Pull Request] [cl/forkchoice: fix data race on GetHead fast-path return](https://github.com/erigontech/erigon/pull/21988) - 2026-06-24
+* [Review] [Review on: db/snapshotsync: resume caplin state dump per-type to avoid overlapping files](https://github.com/erigontech/erigon/pull/21901#pullrequestreview-4559283157) - 2026-06-24
+* [Review] [Review on: cl/forkchoice: use delta tree for GLOAS weights](https://github.com/erigontech/erigon/pull/21913#pullrequestreview-4559322413) - 2026-06-24
+* [Commit] [cl/forkchoice: fix data race on GetHead fast-path return (#21988)](https://github.com/erigontech/erigon/commit/6b98ebc6a96c9d1a6440a2a863717a119614674b) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

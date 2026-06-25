@@ -54,6 +54,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor(bls): clean up bls](https://github.com/ChainSafe/lodestar-z/pull/398#pullrequestreview-4503886006) - 2026-06-16
 * [Review] [Review on: fix: various fixes around config](https://github.com/ChainSafe/lodestar-z/pull/433#pullrequestreview-4512714121) - 2026-06-17
 * [Review] [Review on: feat(bindings): align `BeaconStateView` with `IBeaconStateView`](https://github.com/ChainSafe/lodestar-z/pull/347#pullrequestreview-4512702448) - 2026-06-17
+* [Review] [Review on: fix: interface compatbility with NativeBeaconStateView](https://github.com/ChainSafe/lodestar-z/pull/445#pullrequestreview-4563802992) - 2026-06-24
+* [Review] [Review on: feat: update fulu deposit processing](https://github.com/ChainSafe/lodestar-z/pull/442#pullrequestreview-4560555419) - 2026-06-24
+* [Review] [Review on: feat(bindings): expose more APIs for STF](https://github.com/ChainSafe/lodestar-z/pull/444#pullrequestreview-4560549991) - 2026-06-24
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -166,6 +169,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: catch StreamResetError in sendData noise bench](https://github.com/ChainSafe/lodestar/pull/9497#pullrequestreview-4469336896) - 2026-06-10
 * [Review] [Review on: feat: eip-8282 builder execution requests scaffolding](https://github.com/ChainSafe/lodestar/pull/9507#pullrequestreview-4495250483) - 2026-06-15
 * [Review] [Review on: fix: defer using proposer duties v2 to gloas](https://github.com/ChainSafe/lodestar/pull/9519#pullrequestreview-4514417978) - 2026-06-17
+* [Review] [Review on: feat: add standard fast confirmation metrics](https://github.com/ChainSafe/lodestar/pull/9552#pullrequestreview-4564084075) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 
@@ -177,6 +181,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Mandate QUIC as primary transport](https://github.com/ethereum/consensus-specs/pull/5330) - 2026-06-03
 
 * [Review] [Review on: Mandate QUIC as primary transport](https://github.com/ethereum/consensus-specs/pull/5330#pullrequestreview-4524059737) - 2026-06-18
+* [Review] [Review on: Mandate QUIC as primary transport](https://github.com/ethereum/consensus-specs/pull/5330#pullrequestreview-4566050838) - 2026-06-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/pull/11760) - 2026-06-03
 ## Q1 2026

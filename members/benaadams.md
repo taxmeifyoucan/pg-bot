@@ -330,6 +330,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix: prevent discovery eviction from disconnecting active sync peer](https://github.com/NethermindEth/nethermind/pull/12097#pullrequestreview-4552002349) - 2026-06-23
 * [Review] [Review on: Optimise sorted pool lookup](https://github.com/NethermindEth/nethermind/pull/12108#pullrequestreview-4557229514) - 2026-06-23
 * [Review] [Review on: refactor(api): remove 18 ctor/factory-injectable properties from INethermindApi](https://github.com/NethermindEth/nethermind/pull/12070#pullrequestreview-4551997019) - 2026-06-23
+* [Review] [Review on: Dependency Hygiene](https://github.com/NethermindEth/nethermind/pull/12124#pullrequestreview-4562760243) - 2026-06-24
+* [Review] [Review on: KeyStore - Dependency Hygiene](https://github.com/NethermindEth/nethermind/pull/12123#pullrequestreview-4562762847) - 2026-06-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

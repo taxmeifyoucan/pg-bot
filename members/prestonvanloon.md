@@ -54,6 +54,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Fix duplicate peer entries in the blob sidecar fetch retry list during initial sync](https://github.com/OffchainLabs/prysm/pull/16682#pullrequestreview-4557215598) - 2026-06-23
 * [Review] [Review on: Handle closed event channels in async Debounce](https://github.com/OffchainLabs/prysm/pull/17003#pullrequestreview-4557084094) - 2026-06-23
 * [Review] [Review on: Remove adding dirty indices for `Builders` list change in `DecreaseWithdrawalBalances`](https://github.com/OffchainLabs/prysm/pull/16968#pullrequestreview-4555820237) - 2026-06-23
+* [Review] [Review on: go.mod: update go-ethereum to v1.17.4](https://github.com/OffchainLabs/prysm/pull/17019#pullrequestreview-4565965000) - 2026-06-24
+* [Review] [Review on: fix: avoid panic when event stream request creation fails](https://github.com/OffchainLabs/prysm/pull/16234#pullrequestreview-4563652368) - 2026-06-24
 ## Q1 2026
 
 

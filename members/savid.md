@@ -35,6 +35,24 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [go mod](https://github.com/ethpandaops/xatu/commit/2fbd428a7ef367d5b596ea565a18b25ebfb5d8d7) - 2026-06-23
 * [Commit] [refactor(cannon)!: nest ethereum config into beacon/execution](https://github.com/ethpandaops/xatu/commit/70a3e07ecc622c59d25db37543928ea24298bc9c) - 2026-06-23
 * [Commit] [feat(clickhouse): default distributed_foreground_insert=1 on canonical_ tables](https://github.com/ethpandaops/xatu/commit/b826b35a4ae60420952288c19f2d366cf8a7d778) - 2026-06-23
+* [Pull Request] [fix(cryo): capture cryo's stdout so failures report the actual error](https://github.com/ethpandaops/xatu/pull/858) - 2026-06-24
+* [Pull Request] [ci(cannon): migrate smoke-test config to nested derivers/ethereum schema](https://github.com/ethpandaops/xatu/pull/857) - 2026-06-24
+* [Pull Request] [ci: reuse the cryo registry buildcache in the smoke tests](https://github.com/ethpandaops/xatu/pull/856) - 2026-06-24
+* [Pull Request] [ci(cannon): cache the cryo build in a registry image, not GHA cache](https://github.com/ethpandaops/xatu/pull/855) - 2026-06-24
+* [Pull Request] [ci(cannon): build the cryo release image amd64-only](https://github.com/ethpandaops/xatu/pull/854) - 2026-06-24
+* [Pull Request] [ci(cannon): ship a cryo-bundled release image for EL cannon](https://github.com/ethpandaops/xatu/pull/853) - 2026-06-24
+* [Commit] [Merge pull request #858 from ethpandaops/fix/cryo-capture-stdout](https://github.com/ethpandaops/xatu/commit/28c57a8b5624816b20f676dfc5460a9bd65611a5) - 2026-06-24
+* [Commit] [fix(cryo): capture cryo's stdout so failures report the actual error](https://github.com/ethpandaops/xatu/commit/b6a8208229cc209deb47a4a048ac13adf40b81c8) - 2026-06-24
+* [Commit] [Merge pull request #857 from ethpandaops/ci/fix-cannon-smoke-config](https://github.com/ethpandaops/xatu/commit/db25d8357caed5dd1daa916566341ce267b9fcb1) - 2026-06-24
+* [Commit] [ci(cannon): migrate smoke-test config to nested derivers/ethereum schema](https://github.com/ethpandaops/xatu/commit/b36040c2fc50551df3de64b418486d825a5a8aaa) - 2026-06-24
+* [Commit] [Merge pull request #856 from ethpandaops/ci/smoke-tests-cryo-cache](https://github.com/ethpandaops/xatu/commit/69ace380dfec16f44202c1bd86bf42f9b2bd2740) - 2026-06-24
+* [Commit] [ci: reuse the cryo registry buildcache in the smoke tests](https://github.com/ethpandaops/xatu/commit/52c88134f5bf8fdd0a1ed60132d83c35d1136fe4) - 2026-06-24
+* [Commit] [Merge pull request #855 from ethpandaops/ci/cryo-registry-cache](https://github.com/ethpandaops/xatu/commit/bc5420f4173f165171a00063831a9a1c7f4df9bd) - 2026-06-24
+* [Commit] [ci(cannon): cache the cryo build in a registry image, not GHA cache](https://github.com/ethpandaops/xatu/commit/d049a63dede64f5c3fe528a68375dd13720bdb6f) - 2026-06-24
+* [Commit] [Merge pull request #854 from ethpandaops/ci/cryo-amd64-only](https://github.com/ethpandaops/xatu/commit/e4e6a94bc82c6f7ec10370dba1e5c2bee5d5b3ab) - 2026-06-24
+* [Commit] [ci(cannon): build the cryo release image amd64-only](https://github.com/ethpandaops/xatu/commit/07fdf78efbc964a3085bd87251e106965aa70958) - 2026-06-24
+* [Commit] [Merge pull request #853 from ethpandaops/ci/cryo-release-image](https://github.com/ethpandaops/xatu/commit/3d33f316789d96cb430f07290e702422b8222156) - 2026-06-24
+* [Commit] [ci(cannon): ship a cryo-bundled release image for EL cannon](https://github.com/ethpandaops/xatu/commit/90a834a4cb08b335fe7105bfb88f76a5d6ce21e4) - 2026-06-24
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(validators): move report tool to validators index](https://github.com/ethpandaops/lab/pull/435) - 2026-05-27
 * [Commit] [feat(validators): move report tool to validators index (#435)](https://github.com/ethpandaops/lab/commit/337e3345e73c74865d318be214b2169c471a3f72) - 2026-05-27

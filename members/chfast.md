@@ -240,6 +240,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): EIP-8037 code-deposit state gas exact-fit boundary](https://github.com/ethereum/execution-specs/pull/3031) - 2026-06-21
 * [Pull Request] [feat(tests): EIP-8037 base fee follows the bottleneck gas dimension](https://github.com/ethereum/execution-specs/pull/3039) - 2026-06-23
 * [Commit] [feat(tests): EIP-8037 code-deposit state gas exact-fit boundary (#3031)](https://github.com/ethereum/execution-specs/commit/b14bc8160da274f9949cc81101c9248084024d4c) - 2026-06-23
+* [Pull Request] [feat(tests): EIP-2780 warm/cold-aware top-frame delegation](https://github.com/ethereum/execution-specs/pull/3045) - 2026-06-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15
@@ -261,6 +262,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Update EIP-7773: CFI EIP-8246 for Glamsterdam](https://github.com/ethereum/EIPs/commit/e88ce5971abb73ba526a6e3653313a82ca3f2ebe) - 2026-05-10
 * [Commit] [Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/commit/60a241e35e88a147fb08db96a786275b384fbe6a) - 2026-05-14
 * [Commit] [Update EIP-8246: Move to Review](https://github.com/ethereum/EIPs/commit/45b443dc26ffae9437f8e396e677b4242e067613) - 2026-05-21
+* [Pull Request] [Update EIP-2780: require EIP-7523 instead of EIP-161](https://github.com/ethereum/EIPs/pull/11828) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4138243461) - 2026-04-20
 

@@ -342,6 +342,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(witness): capture via a second BlockProcessor graph, not runtime switches](https://github.com/NethermindEth/nethermind/pull/12094#pullrequestreview-4551063200) - 2026-06-23
 * [Commit] [refactor(api): remove 18 ctor/factory-injectable properties from INethermindApi (#12070)](https://github.com/NethermindEth/nethermind/commit/f8b657fd652b749700f5f5cdb00a5ee31c668406) - 2026-06-23
 * [Commit] [Refresh snap-sync account storage root via verified GetAccountRange (#12082)](https://github.com/NethermindEth/nethermind/commit/f877973f42a8094e9d55394149a76e359a6a2b69) - 2026-06-23
+* [Review] [Review on: refactor: remove unused TrieNode.GetChildHashOrInlineValue](https://github.com/NethermindEth/nethermind/pull/12114#pullrequestreview-4563248473) - 2026-06-24
+* [Review] [Review on: refactor: remove unused TypeAsKey](https://github.com/NethermindEth/nethermind/pull/12115#pullrequestreview-4563255064) - 2026-06-24
+* [Review] [Review on: refactor: remove unused MemoryContentsComparer](https://github.com/NethermindEth/nethermind/pull/12116#pullrequestreview-4563251463) - 2026-06-24
+* [Pull Request] [fix: guard ForkChoiceUpdated against null safe/finalized hash](https://github.com/NethermindEth/nethermind/pull/12110) - 2026-06-24
+* [Commit] [refactor(consensus): move IBlockProductionPolicy to DI (#12099)](https://github.com/NethermindEth/nethermind/commit/6867ed93c2dae6972cf8416f26d3111b50f536b4) - 2026-06-24
+* [Commit] [fix: guard ForkChoiceUpdated against null safe/finalized hash (#12110)](https://github.com/NethermindEth/nethermind/commit/3e7af892cf76818c6749ed32dda350b8238a1691) - 2026-06-24
+* [Commit] [refactor(network): declarative P2P capability advertisement via IP2PCapabilityResolver (#12093)](https://github.com/NethermindEth/nethermind/commit/54bbff7584c636bae100bc7a79938b3bf882ed77) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

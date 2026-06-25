@@ -218,6 +218,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [QA: enable debug_traceTransaction/test_12 (#21803)](https://github.com/erigontech/erigon/commit/4c4557c556635926fc759f60c82663d5da74b97b) - 2026-06-21
 * [Issue] [rpc/ethapi: remove raw field from FillTransactionResult when execution-apis#803 is adopted](https://github.com/erigontech/erigon/issues/21948) - 2026-06-22
 * [Review] [Review on: qa-tests: make RPC perf tests support selectable Erigon execution mode](https://github.com/erigontech/erigon/pull/21855#pullrequestreview-4554780840) - 2026-06-23
+* [Pull Request] [rpc: use overlay tx in GasPrice, BlobBaseFee, BaseFee to avoid fluky test on latest](https://github.com/erigontech/erigon/pull/22006) - 2026-06-24
+* [Pull Request] [rpc: rejected quoted decimal block-number strings; require 0x hex format](https://github.com/erigontech/erigon/pull/21985) - 2026-06-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -281,6 +283,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [add latest-block tests for optional block param on state methods (#577)](https://github.com/erigontech/rpc-tests/commit/b9091d1f8e702d05210b117134f7bbef05707fdf) - 2026-06-20
 * [Pull Request] [integration-test: fix debug trace block by number with error](https://github.com/erigontech/rpc-tests/pull/580) - 2026-06-21
 * [Commit] [fix debug_traceBlockByNumber with error (#580)](https://github.com/erigontech/rpc-tests/commit/efc553cac8dd27854038c4ae2ac20d9f5f5bb80d) - 2026-06-21
+* [Pull Request] [integration_test: trace_block() and erigon_getLatestLog() with bn as hex](https://github.com/erigontech/rpc-tests/pull/581) - 2026-06-24
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators/graphql: pass HIVE_CANCUN_TIMESTAMP to client and fix test expectations](https://github.com/ethereum/hive/pull/1533) - 2026-06-08
 * [Pull Request] [GraphQL: erigon allow unprotected txs when GraphQL is enabled](https://github.com/ethereum/hive/pull/1539) - 2026-06-09

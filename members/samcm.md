@@ -65,12 +65,20 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix(clmimicry): migrate to go-libp2p-pubsub v0.16.1](https://github.com/ethpandaops/xatu/pull/852) - 2026-06-23
 * [Pull Request] [cannon: add 11 derivers for all Beacon-API data through Fulu](https://github.com/ethpandaops/xatu/pull/851) - 2026-06-23
 * [Commit] [fix(clmimicry): migrate to go-libp2p-pubsub v0.16.1 (#852)](https://github.com/ethpandaops/xatu/commit/a5aafd14e38c14ec0f14a8e9fcc92c7ed74aee4b) - 2026-06-23
+* [Review] [Review on: fix(cryo): capture cryo's stdout so failures report the actual error](https://github.com/ethpandaops/xatu/pull/858#pullrequestreview-4559590514) - 2026-06-24
+* [Review] [Review on: ci(cannon): migrate smoke-test config to nested derivers/ethereum schema](https://github.com/ethpandaops/xatu/pull/857#pullrequestreview-4559454385) - 2026-06-24
+* [Review] [Review on: ci: reuse the cryo registry buildcache in the smoke tests](https://github.com/ethpandaops/xatu/pull/856#pullrequestreview-4559329371) - 2026-06-24
+* [Review] [Review on: ci(cannon): ship a cryo-bundled release image for EL cannon](https://github.com/ethpandaops/xatu/pull/853#pullrequestreview-4558662668) - 2026-06-24
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23
 
 * [Pull Request] [fix(slot-detail): prefer canonical block when slot has competing fork](https://github.com/ethpandaops/lab/pull/434) - 2026-05-05
 * [Commit] [fix(slot-detail): prefer canonical block when slot has competing fork (#434)](https://github.com/ethpandaops/lab/commit/172fd23c17849c48f75eb8bdd5c3cb50c89db958) - 2026-05-05
+* [Pull Request] [feat(slots): blobs panel card + gate blob downloads on finality](https://github.com/ethpandaops/lab/pull/438) - 2026-06-24
+* [Pull Request] [feat(slots): block + blob download modal on the slot detail page](https://github.com/ethpandaops/lab/pull/437) - 2026-06-24
+* [Commit] [feat(slots): blobs panel card + gate blob downloads on finality (#438)](https://github.com/ethpandaops/lab/commit/79e1877e7b3131dcbf4bc674e17ab462868f192b) - 2026-06-24
+* [Commit] [feat(slots): block + blob download modal on the slot detail page (#437)](https://github.com/ethpandaops/lab/commit/03b64a3d70bf4db1700598730ea7e99972291020) - 2026-06-24
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Review] [Review on: Add validation for validator start and end ranges](https://github.com/ethpandaops/template-devnets/pull/164#pullrequestreview-4193596946) - 2026-04-29
 

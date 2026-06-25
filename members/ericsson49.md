@@ -49,6 +49,9 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 * [Review] [Review on: Add `on_attestation` tests for `validate_on_attestation` updates](https://github.com/ethereum/consensus-specs/pull/5275#pullrequestreview-4357574627) - 2026-05-25
 * [Review] [Review on: Fix invalid block-root membership check in fork-choice helper](https://github.com/ethereum/consensus-specs/pull/5259#pullrequestreview-4357499015) - 2026-05-25
 * [Review] [Review on: Embed `payload_status` into `head` fork choice check](https://github.com/ethereum/consensus-specs/pull/5250#pullrequestreview-4388609194) - 2026-05-29
+* [Pull Request] [Improve `viable_for_head_roots_and_weights` check](https://github.com/ethereum/consensus-specs/pull/5393) - 2026-06-24
+* [Review] [Review on: Fix `viable_for_head_roots_and_weights` runner](https://github.com/ethereum/consensus-specs/pull/5390#pullrequestreview-4561719174) - 2026-06-24
+* [Commit] [Improve `viable_for_head_roots_and_weights` check (#5393)](https://github.com/ethereum/consensus-specs/commit/d9dc09f2116fc86eb11afa985e292a2283546082) - 2026-06-24
 ## Q1 2026
 
 

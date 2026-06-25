@@ -184,6 +184,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [fix(ci): fix caching spec test version (#439)](https://github.com/ChainSafe/lodestar-z/commit/96885a101cabbc7b70d58823778db6f3dd57fa42) - 2026-06-22
 * [Issue] [chore: update spec tests to v1.7.0-alpha.11](https://github.com/ChainSafe/lodestar-z/issues/443) - 2026-06-23
 * [Commit] [chore: update spec-test-version: v1.6.0-beta.2 -> v1.7.0-alpha.10 (#441)](https://github.com/ChainSafe/lodestar-z/commit/f932b1cc777f240fc5cf821c488e9d45c439f660) - 2026-06-23
+* [Pull Request] [fix: interface compatbility with NativeBeaconStateView](https://github.com/ChainSafe/lodestar-z/pull/445) - 2026-06-24
+* [Pull Request] [feat(bindings): expose more APIs for STF](https://github.com/ChainSafe/lodestar-z/pull/444) - 2026-06-24
+* [Commit] [fix: interface compatbility with NativeBeaconStateView (#445)](https://github.com/ChainSafe/lodestar-z/commit/89e13d1847dd54db476ae80764a627649de7bd0e) - 2026-06-24
+* [Commit] [feat(bindings): expose more APIs for STF (#444)](https://github.com/ChainSafe/lodestar-z/commit/7fe260909a0ff75d34176a761029dbb55fa09c48) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

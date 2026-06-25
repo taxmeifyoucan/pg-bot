@@ -95,6 +95,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [New reject gossip rule for execution payload bid](https://github.com/Consensys/teku/pull/10881) - 2026-06-23
 * [Pull Request] [split GetNewBlockV3 IT to avoid assumeThat](https://github.com/Consensys/teku/pull/10880) - 2026-06-23
 * [Commit] [split GetNewBlockV3 IT to avoid assumeThat (#10880)](https://github.com/Consensys/teku/commit/f2ac2abb85daaf6ad34fc9a01d449477c9358503) - 2026-06-23
+* [Review] [Review on: defaulted to not use quartz scheduler](https://github.com/Consensys/teku/pull/10896#pullrequestreview-4566849576) - 2026-06-25
+* [Review] [Review on: Fix BootnodeService package name](https://github.com/Consensys/teku/pull/10898#pullrequestreview-4566989857) - 2026-06-25
+* [Review] [Review on: Update ConsenSys/github-actions digest to 68e0677](https://github.com/Consensys/teku/pull/10891#pullrequestreview-4566853246) - 2026-06-25
+* [Review] [Review on: Update jvm-libp2p to 1.3.4](https://github.com/Consensys/teku/pull/10889#pullrequestreview-4559409133) - 2026-06-24
+* [Pull Request] [add new reject rule to Execution payload bid gossip validator (#10886)](https://github.com/Consensys/teku/pull/10888) - 2026-06-24
+* [Commit] [add new reject rule to Execution payload bid gossip validator (#10886)](https://github.com/Consensys/teku/commit/5abb32d2d6a13d38c22b1a04a4a6a39fa6a4fd13) - 2026-06-24
 ## Q1 2026
 
 

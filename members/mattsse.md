@@ -703,6 +703,11 @@ Team: Reth
 * [Commit] [refactor(engine): inline received BAL gas validation (#25662)](https://github.com/paradigmxyz/reth/commit/1c462acf431347cf545ee0d717ee9255cd1efade) - 2026-06-23
 * [Commit] [perf(rpc): arc chain change cache data (#25641)](https://github.com/paradigmxyz/reth/commit/5db1eeafcc11a7a02e0e1e85cd2bde4f3f3c03c2) - 2026-06-23
 * [Commit] [feat(engine): add has blobs rpc (#25589)](https://github.com/paradigmxyz/reth/commit/d769d96fd6c05bad53b88d57ce446525098562ab) - 2026-06-23
+* [Review] [Review on: feat(tasks): add worker queue metrics](https://github.com/paradigmxyz/reth/pull/25649#pullrequestreview-4562497613) - 2026-06-24
+* [Pull Request] [chore(deps): bump alloy-eip7928 to 0.4.5](https://github.com/paradigmxyz/reth/pull/25688) - 2026-06-24
+* [Pull Request] [feat(rpc): support sendRawTransactionSync timeout arg](https://github.com/paradigmxyz/reth/pull/25682) - 2026-06-24
+* [Commit] [chore(deps): bump alloy-eip7928 to 0.4.5 (#25688)](https://github.com/paradigmxyz/reth/commit/7d74e65f802ef49ed8737b9165d14f8f4cad4920) - 2026-06-24
+* [Commit] [feat(rpc): support sendRawTransactionSync timeout arg (#25682)](https://github.com/paradigmxyz/reth/commit/e398adbd69be0ab0c64c0b7a4a2ff5021f6805c0) - 2026-06-24
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14
@@ -730,6 +735,8 @@ Team: Reth
 * [Pull Request] [feat(state): accept BAL account change slices](https://github.com/bluealloy/revm/pull/3762) - 2026-06-17
 * [Commit] [chore(deny): allow proc-macro-error2 advisory (#3763)](https://github.com/bluealloy/revm/commit/b401c1438a7dfd8a766249e4bd3d56404cdb7aa8) - 2026-06-17
 * [Commit] [feat(state): accept BAL account change slices (#3762)](https://github.com/bluealloy/revm/commit/b31a3d5a918f20ad73e1dddb0cc449e0815c3958) - 2026-06-17
+* [Pull Request] [perf: avoid intermediate BAL account allocation](https://github.com/bluealloy/revm/pull/3775) - 2026-06-24
+* [Commit] [perf: avoid intermediate BAL account allocation (#3775)](https://github.com/bluealloy/revm/commit/ae95b77643504500cc11bfa47bfe6b4ec8e3d768) - 2026-06-24
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4187312229) - 2026-04-28
 

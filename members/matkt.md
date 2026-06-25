@@ -132,6 +132,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: snap/2 - downloaded storage range tracker](https://github.com/besu-eth/besu/pull/10609#pullrequestreview-4513090261) - 2026-06-17
 * [Commit] [pathbased package refactoring (#10641)](https://github.com/besu-eth/besu/commit/eb4a61eb467df88a4314fb2fc80afb358feb7698) - 2026-06-17
 * [Review] [Review on: snap/2 - apply BALs to all persisted ranges immediately on pivot change](https://github.com/besu-eth/besu/pull/10628#pullrequestreview-4553268665) - 2026-06-23
+* [Review] [Review on: Glamsterdam devnet 6 updates](https://github.com/besu-eth/besu/pull/10695#pullrequestreview-4562369071) - 2026-06-24
+* [Review] [Review on: snap/2 - apply BALs to all persisted ranges immediately on pivot change](https://github.com/besu-eth/besu/pull/10628#pullrequestreview-4562265454) - 2026-06-24
+* [Review] [Review on: fix(engine): cache world state after rememberBlock](https://github.com/besu-eth/besu/pull/10690#pullrequestreview-4559486783) - 2026-06-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

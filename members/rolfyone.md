@@ -158,6 +158,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: split GetNewBlockV3 IT to avoid assumeThat](https://github.com/Consensys/teku/pull/10880#pullrequestreview-4550666355) - 2026-06-23
 * [Commit] [Implemented the head_v2 event from ethereum/beacon-APIs#590. (#10776)](https://github.com/Consensys/teku/commit/df3159e87e84f6b7c085486e0b1623251468dd8b) - 2026-06-23
 * [Commit] [quiet the license check (#10868)](https://github.com/Consensys/teku/commit/fb7dc8db9f83e7c43310de52091d25bdfda0d3e6) - 2026-06-23
+* [Review] [Review on: Update actions/checkout action to v7](https://github.com/Consensys/teku/pull/10899#pullrequestreview-4567404391) - 2026-06-25
+* [Pull Request] [defaulted to not use quartz scheduler](https://github.com/Consensys/teku/pull/10896) - 2026-06-24
+* [Pull Request] [Make reorderImports explicit to fix environmental issues](https://github.com/Consensys/teku/pull/10897) - 2026-06-25
+* [Review] [Review on: ExecutionRequestsDataCodec in SpecLogic + `DataStructureUtil` clean-up](https://github.com/Consensys/teku/pull/10893#pullrequestreview-4561750324) - 2026-06-24
+* [Commit] [defaulted to not use quartz scheduler (#10896)](https://github.com/Consensys/teku/commit/aa987b2c82e36369a4f95241c2185afd1ccb5a1b) - 2026-06-25
+* [Commit] [Make reorderImports explicit to fix environmental issues (#10897)](https://github.com/Consensys/teku/commit/2bbf29638b766e65f72b7ff2f93596ce66599a61) - 2026-06-25
+* [Commit] [getForkchoiceV2 (#10800)](https://github.com/Consensys/teku/commit/29260196b7b1985bd0caecee3ed611d55421106a) - 2026-06-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

@@ -139,6 +139,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: update gloas types to align with the latest specs (#431)](https://github.com/ChainSafe/lodestar-z/commit/1f065b5a6db119fe7e61906b6fbf09fcc902b7f9) - 2026-06-16
 * [Review] [Review on: chore: update spec-test-version: v1.6.0-beta.2 -> v1.7.0-alpha.10](https://github.com/ChainSafe/lodestar-z/pull/441#pullrequestreview-4549229396) - 2026-06-23
 * [Pull Request] [feat: update fulu deposit processing](https://github.com/ChainSafe/lodestar-z/pull/442) - 2026-06-23
+* [Commit] [feat: update fulu deposit processing (#442)](https://github.com/ChainSafe/lodestar-z/commit/064335c0dc51f09c8ed96384f296721f50f14f88) - 2026-06-24
 ## Q1 2026
 
 

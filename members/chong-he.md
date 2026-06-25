@@ -63,6 +63,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Refactor proposer_preferences_service and add add VC test](https://github.com/sigp/lighthouse/pull/9500) - 2026-06-18
 * [Review] [Review on: fix: auto-pull latest Nethermind version in EL test](https://github.com/sigp/lighthouse/pull/9282#pullrequestreview-4530751805) - 2026-06-19
 * [Review] [Review on: Forbid removed `execution_payload_envelope.rs` file](https://github.com/sigp/lighthouse/pull/9506#pullrequestreview-4540752263) - 2026-06-22
+* [Pull Request] [Add payload_attestations test in op pool](https://github.com/sigp/lighthouse/pull/9531) - 2026-06-24
 ## Q1 2026
 
 

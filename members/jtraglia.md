@@ -405,6 +405,19 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Fix some inconsistencies in fulu partial-columns spec](https://github.com/ethereum/consensus-specs/pull/5357#pullrequestreview-4552948952) - 2026-06-23
 * [Commit] [Use `MAX_REQUEST_PAYLOADS` in `EnvelopesByRange` (#5383)](https://github.com/ethereum/consensus-specs/commit/77933b958dba3c042cce9b447241a9cc85b65ad3) - 2026-06-23
 * [Commit] [Fix some inconsistencies in fulu partial-columns spec (#5357)](https://github.com/ethereum/consensus-specs/commit/b70c9ec87c639aa5c91de4f606870688bc312230) - 2026-06-23
+* [Pull Request] [Bump version to v1.7.0-alpha.12](https://github.com/ethereum/consensus-specs/pull/5397) - 2026-06-24
+* [Pull Request] [Remove specs for KZG functions](https://github.com/ethereum/consensus-specs/pull/5398) - 2026-06-24
+* [Pull Request] [Replace py_ecc/milagro with arkworks](https://github.com/ethereum/consensus-specs/pull/5394) - 2026-06-24
+* [Review] [Review on: Replace py_ecc/milagro with arkworks](https://github.com/ethereum/consensus-specs/pull/5394#pullrequestreview-4563680224) - 2026-06-24
+* [Pull Request] [Replace prose with `get_signed_proposer_preferences` function](https://github.com/ethereum/consensus-specs/pull/5396) - 2026-06-24
+* [Pull Request] [Fix various nits](https://github.com/ethereum/consensus-specs/pull/5395) - 2026-06-24
+* [Review] [Review on: Improve `viable_for_head_roots_and_weights` check](https://github.com/ethereum/consensus-specs/pull/5393#pullrequestreview-4563003214) - 2026-06-24
+* [Review] [Review on: Fix `viable_for_head_roots_and_weights` runner](https://github.com/ethereum/consensus-specs/pull/5390#pullrequestreview-4561703674) - 2026-06-24
+* [Commit] [Bump version to v1.7.0-alpha.12 (#5397)](https://github.com/ethereum/consensus-specs/commit/42b96716a39ddea2d610c0b615d625318a09d278) - 2026-06-25
+* [Commit] [Replace py_ecc/milagro with arkworks (#5394)](https://github.com/ethereum/consensus-specs/commit/af34d002c91aa4c1584bc5934c6d3d84b5473c5b) - 2026-06-24
+* [Commit] [Only reset builder withdrawal epoch if its balance has been swept (#5384)](https://github.com/ethereum/consensus-specs/commit/e2dcac497bdde530be1dddc9c2b611db105b7115) - 2026-06-24
+* [Commit] [Migrate setup.py into pyproject.toml (#5388)](https://github.com/ethereum/consensus-specs/commit/343f82990d584b4f543f51a1c2c59899304375c0) - 2026-06-24
+* [Commit] [Remove unused .gitattributes file (#5387)](https://github.com/ethereum/consensus-specs/commit/ca0a7d36f44ee1e8c4703ea4c516f5c796bce554) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

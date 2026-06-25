@@ -239,6 +239,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Optimise sorted pool lookup (#12108)](https://github.com/NethermindEth/nethermind/commit/2c42b613001e2853aa5f867ad4553cdc9443102a) - 2026-06-23
 * [Commit] [In-house discv5 (#11728)](https://github.com/NethermindEth/nethermind/commit/9a79c71648966540c4eb96aa7ec9ea1162833cbb) - 2026-06-23
 * [Commit] [Optimize trie a bit (#12104)](https://github.com/NethermindEth/nethermind/commit/0c2502f3f27dee5d75113054c2606e6b97a5cad0) - 2026-06-23
+* [Pull Request] [Tone down RLP limit logging](https://github.com/NethermindEth/nethermind/pull/12130) - 2026-06-24
+* [Review] [Review on: Warmup improvement](https://github.com/NethermindEth/nethermind/pull/10652#pullrequestreview-4565542374) - 2026-06-24
+* [Pull Request] [Handle fork ID and seq in ENRs](https://github.com/NethermindEth/nethermind/pull/12126) - 2026-06-24
+* [Commit] [Switch to struct RLP reader/writer (#12011)](https://github.com/NethermindEth/nethermind/commit/d10c5740636396f430597a38eb21c99917436666) - 2026-06-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

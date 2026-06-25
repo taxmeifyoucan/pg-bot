@@ -72,6 +72,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [[Glamsterdam] Reject bids with invalid `prev_randao` during gossip validation](https://github.com/grandinetech/grandine/issues/761) - 2026-06-17
 * [Pull Request] [Update consensus-spec-tests for `glamsterdam-devnet-6`](https://github.com/grandinetech/grandine/pull/765) - 2026-06-19
 * [Issue] [[Glamsterdam] Update consensus-spec-tests to v1.7.0-alpha.11 or beta.0](https://github.com/grandinetech/grandine/issues/764) - 2026-06-19
+* [Issue] [[Glamsterdam] State builders beacon API](https://github.com/grandinetech/grandine/issues/771) - 2026-06-24
+* [Issue] [[Glamsterdam] Block production and execution payload envelope beacon API](https://github.com/grandinetech/grandine/issues/772) - 2026-06-24
+* [Issue] [[Glamsterdam] Proposer preferences beacon API](https://github.com/grandinetech/grandine/issues/770) - 2026-06-24
+* [Issue] [[Glamsterdam] Staked Builder API](https://github.com/grandinetech/grandine/issues/769) - 2026-06-24
 ## Q1 2026
 
 

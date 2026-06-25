@@ -331,6 +331,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Code of Conduct: replace Hyperledger with Besu (#10683)](https://github.com/besu-eth/besu/commit/127fb99a80940fba0f64a90748397bbea07eedcd) - 2026-06-23
 * [Commit] [Contribution Guidelines - update links (#10682)](https://github.com/besu-eth/besu/commit/93fb4c23d4e1b5371397c027fe5eba5de2f3a130) - 2026-06-23
 * [Commit] [fix(ci): switch reference-tests from OpenJ9 to HotSpot (temurin) (#10681)](https://github.com/besu-eth/besu/commit/fbabeb1a910df9dfdf86aa052c9dfc7b050d52c6) - 2026-06-23
+* [Review] [Review on: ci: add check for committed binary files](https://github.com/besu-eth/besu/pull/10691#pullrequestreview-4567376854) - 2026-06-25
+* [Review] [Review on: fix start synchronizer when](https://github.com/besu-eth/besu/pull/10677#pullrequestreview-4559589790) - 2026-06-24
+* [Review] [Review on: Add Community and support to the Readme.](https://github.com/besu-eth/besu/pull/10697#pullrequestreview-4567001478) - 2026-06-25
+* [Pull Request] [changed web3j to a test dependency](https://github.com/besu-eth/besu/pull/10694) - 2026-06-24
+* [Pull Request] [override dependency: jackson 3.1.4](https://github.com/besu-eth/besu/pull/10692) - 2026-06-24
+* [Pull Request] [upgrade netty to 4.2.15.Final](https://github.com/besu-eth/besu/pull/10693) - 2026-06-24
+* [Issue] [one eth_simulateV1 hive test failing](https://github.com/besu-eth/besu/issues/10699) - 2026-06-25
+* [Issue] [debug_traceBlockByHash](https://github.com/besu-eth/besu/issues/10698) - 2026-06-25
+* [Commit] [Hive test error codes eth simulate (#10625)](https://github.com/besu-eth/besu/commit/f1e3aa98d56461ea807285c543c518f1aa2a42d5) - 2026-06-24
+* [Commit] [ci(kurtosis): switch nightly interop workflow to ethpandaops GHA (#10618)](https://github.com/besu-eth/besu/commit/2fd43c2b1fee015433f2e28031aa359a07eae1c2) - 2026-06-24
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 
@@ -348,6 +358,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: update java.projectId for maven](https://github.com/Consensys/teku/pull/10662#pullrequestreview-4209600176) - 2026-05-01
 * [Review] [Review on: remove the gradle pieces in renovate config](https://github.com/Consensys/teku/pull/10661#pullrequestreview-4208862737) - 2026-04-30
 * [Review] [Review on: add javadoc so we can publish to maven central](https://github.com/Consensys/teku/pull/10647#pullrequestreview-4208856583) - 2026-04-30
+
+[hyperledger/besu-native](https://github.com/hyperledger/besu-native)
+* [Review] [Review on: Upgrade Gradle to 9.3.1](https://github.com/besu-eth/besu-native/pull/314#pullrequestreview-4567087772) - 2026-06-25
 ## Q1 2026
 
 

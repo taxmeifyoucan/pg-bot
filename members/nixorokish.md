@@ -51,6 +51,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Archive Fusaka network upgrade docs](https://github.com/ethereum/pm/pull/2093#pullrequestreview-4384391381) - 2026-05-28
 * [Commit] [Merge pull request #2093 from dionysuzx/codex/archive-fusaka-network-upgrade](https://github.com/ethereum/pm/commit/3b623b8a4d0fa616d849a1114d31d779a5ce1dc1) - 2026-05-28
 * [Issue] [All Core Devs - Execution (ACDE) #239, June 18, 2026](https://github.com/ethereum/pm/issues/2115) - 2026-06-09
+* [Issue] [All Core Devs - Consensus (ACDC) #181, June 25 2026](https://github.com/ethereum/pm/issues/2138) - 2026-06-24
 ## Q1 2026
 
 

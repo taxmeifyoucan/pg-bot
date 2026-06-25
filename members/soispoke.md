@@ -24,6 +24,7 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Commit] [Update EIP-8250: Update EIP-8250 to support nonce key sets](https://github.com/ethereum/EIPs/commit/4de629be62b178712832a9d972c1cab7d19b9c2f) - 2026-06-01
 * [Commit] [Add EIP: Recent Roots for Frame Transactions](https://github.com/ethereum/EIPs/commit/3ba28fc245d0667a14bd2f580f15e689ff48d0c2) - 2026-06-05
 
+* [Pull Request] [Update EIP-8081: PFI EIP 8272](https://github.com/ethereum/EIPs/pull/11831) - 2026-06-24
 [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3)
 * [Review] [Review on: whir: add HVZK-WHIR hiding polynomial commitment scheme](https://github.com/Plonky3/Plonky3/pull/1767#pullrequestreview-4445240661) - 2026-06-07
 ## Q2 2025

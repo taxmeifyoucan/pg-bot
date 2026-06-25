@@ -32,6 +32,7 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Pull Request] [db/downloader: size torrent pieces dynamically to bound info RAM](https://github.com/erigontech/erigon/pull/21838) - 2026-06-16
 * [Pull Request] [go.mod: bump anacrolix/torrent to halve per-piece memory](https://github.com/erigontech/erigon/pull/21837) - 2026-06-16
 * [Commit] [go.mod: bump anacrolix/torrent to halve per-piece memory (#21837)](https://github.com/erigontech/erigon/commit/31f24df9a3ebbe8ab7e8761b40319a27aaeac9e5) - 2026-06-16
+* [Pull Request] [cl/gossip: consolidate service registration logging](https://github.com/erigontech/erigon/pull/21983) - 2026-06-24
 ## Q1 2026
 
 

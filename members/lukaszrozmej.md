@@ -748,6 +748,16 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Optimize trie a bit](https://github.com/NethermindEth/nethermind/pull/12104#pullrequestreview-4552542217) - 2026-06-23
 * [Review] [Review on: fix(eth): cap outgoing block bodies under the devp2p message size limit](https://github.com/NethermindEth/nethermind/pull/12059#pullrequestreview-4552705321) - 2026-06-23
 * [Review] [Review on: perf(flat): cheaper TrieWarmer enqueue fast-path](https://github.com/NethermindEth/nethermind/pull/12062#pullrequestreview-4552680550) - 2026-06-23
+* [Review] [Review on:  fix(discovery): flacky CI, log transport failures at Debug](https://github.com/NethermindEth/nethermind/pull/12111#pullrequestreview-4562553762) - 2026-06-24
+* [Review] [Review on: refactor: remove unused TrieNode.GetChildHashOrInlineValue](https://github.com/NethermindEth/nethermind/pull/12114#pullrequestreview-4562531498) - 2026-06-24
+* [Review] [Review on: refactor: remove unused TypeAsKey](https://github.com/NethermindEth/nethermind/pull/12115#pullrequestreview-4563063000) - 2026-06-24
+* [Review] [Review on: refactor: remove unused MemoryContentsComparer](https://github.com/NethermindEth/nethermind/pull/12116#pullrequestreview-4563068392) - 2026-06-24
+* [Review] [Review on: Dependency Hygiene](https://github.com/NethermindEth/nethermind/pull/12124#pullrequestreview-4562789375) - 2026-06-24
+* [Review] [Review on: KeyStore - Dependency Hygiene](https://github.com/NethermindEth/nethermind/pull/12123#pullrequestreview-4562787841) - 2026-06-24
+* [Review] [Review on: AuRa: move finalization manager and terminal-block disposer to DI](https://github.com/NethermindEth/nethermind/pull/12036#pullrequestreview-4562580062) - 2026-06-24
+* [Review] [Review on: perf: reuse already-read nonce when deriving CREATE address](https://github.com/NethermindEth/nethermind/pull/12113#pullrequestreview-4562535037) - 2026-06-24
+* [Review] [Review on: refactor(consensus): move IBlockProductionPolicy to DI](https://github.com/NethermindEth/nethermind/pull/12099#pullrequestreview-4562569260) - 2026-06-24
+* [Review] [Review on: fix: guard ForkChoiceUpdated against null safe/finalized hash](https://github.com/NethermindEth/nethermind/pull/12110#pullrequestreview-4560988158) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

@@ -312,6 +312,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [seg: 2-3x faster merge compression via Aho-Corasick matcher and cover-DP optimizations (#21625)](https://github.com/erigontech/erigon/commit/a048fb58ef4bee376e5827ee004fa407d1ad90fc) - 2026-06-22
 * [Pull Request] [[r3.4] db/state/statecfg: bump rcache domain kv/.v to v3.1](https://github.com/erigontech/erigon/pull/21974) - 2026-06-23
 * [Review] [Review on: [wip] db/state: dedup latest-values per (key,step) in domain flush](https://github.com/erigontech/erigon/pull/21956#pullrequestreview-4551714053) - 2026-06-23
+* [Pull Request] [db/seg: batch consecutive words to parallel cover-phase workers](https://github.com/erigontech/erigon/pull/21997) - 2026-06-24
+* [Pull Request] [db/datadir/reset: drop stale data file when its torrent infohash mismatches](https://github.com/erigontech/erigon/pull/22002) - 2026-06-24
+* [Pull Request] [cmd/integration: remove domain purification (compact_domains)](https://github.com/erigontech/erigon/pull/22012) - 2026-06-25
+* [Review] [Review on: db/state: fix unwind restoring stale values across step boundaries](https://github.com/erigontech/erigon/pull/21981#pullrequestreview-4559047342) - 2026-06-24
+* [Pull Request] [db/seg/patricia: remove dead PatriciaTree and MatchFinder1/2/3](https://github.com/erigontech/erigon/pull/21998) - 2026-06-24
+* [Review] [Review on: db/snapshotsync: resume caplin state dump per-type to avoid overlapping files](https://github.com/erigontech/erigon/pull/21901#pullrequestreview-4559411966) - 2026-06-24
+* [Issue] [high exec_steps_in_db in tip tracking test](https://github.com/erigontech/erigon/issues/21996) - 2026-06-24
+* [Commit] [db/snapshotsync: resume caplin state dump per-type to avoid overlapping files (#21901)](https://github.com/erigontech/erigon/commit/270a20b0844026ea47ab80925608bea92880eb7d) - 2026-06-24
 ## Q1 2026
 
 

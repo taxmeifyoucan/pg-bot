@@ -192,6 +192,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [`execution_payload_envelopes` API doesn't return finalized payloads](https://github.com/Consensys/teku/issues/10885) - 2026-06-23
 * [Issue] [Missing validation during historical payload sync](https://github.com/Consensys/teku/issues/10884) - 2026-06-23
 * [Commit] [2 fixes on execution payload sync (#10872)](https://github.com/Consensys/teku/commit/f869f8d4172b12205c6a28a0c2d267d4379a927c) - 2026-06-23
+* [Review] [Review on: ssz intcache no callback](https://github.com/Consensys/teku/pull/10871#pullrequestreview-4562599499) - 2026-06-24
+* [Review] [Review on:  CI: replace ci-skipped.yml stub with a single docs-only gate](https://github.com/Consensys/teku/pull/10892#pullrequestreview-4562199189) - 2026-06-24
+* [Review] [Review on: ExecutionRequestsDataCodec in SpecLogic + `DataStructureUtil` clean-up](https://github.com/Consensys/teku/pull/10893#pullrequestreview-4562213939) - 2026-06-24
+* [Pull Request] [Reduce CI Gradle cache churn](https://github.com/Consensys/teku/pull/10890) - 2026-06-24
+* [Issue] [`payload_attestation` duty production fails if payload is not present](https://github.com/Consensys/teku/issues/10894) - 2026-06-24
+* [Commit] [ssz intcache no callback (#10871)](https://github.com/Consensys/teku/commit/b9c752bc9c1a20b962695ce6fe4d854a3e947b61) - 2026-06-24
+* [Commit] [Reduce CI Gradle cache churn (#10890)](https://github.com/Consensys/teku/commit/c6f590bf26cb5ce4fed458c710ea9a7df9ccd3a0) - 2026-06-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

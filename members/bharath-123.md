@@ -12,6 +12,7 @@ Github: [@bharath-123](https://github.com/bharath-123)
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add sukunrt to P2P Networking](https://github.com/protocolguild/documentation/pull/488#pullrequestreview-4105097227) - 2026-04-14
 
+* [Pull Request] [Remove Bharath Vedartham](https://github.com/protocolguild/documentation/pull/504) - 2026-06-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set `blob_data_available` in `PayloadAttestationMessage`](https://github.com/ethereum/consensus-specs/pull/4769) - 2026-04-29
 * [Commit] [Set `blob_data_available` in `PayloadAttestationMessage` (#4769)](https://github.com/ethereum/consensus-specs/commit/ef2d6ad5bd9b45f65c6459f572a5b9b7c1ee2dce) - 2026-04-29

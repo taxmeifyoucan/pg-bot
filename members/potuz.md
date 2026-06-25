@@ -176,6 +176,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Only clear builder payment if the slashed validator is the proposer](https://github.com/ethereum/consensus-specs/pull/5365#pullrequestreview-4505692404) - 2026-06-16
 * [Review] [Review on: Reject bids with invalid `prev_randao` during gossip validation](https://github.com/ethereum/consensus-specs/pull/5360#pullrequestreview-4517357439) - 2026-06-17
 * [Review] [Review on: Reset withdrawable epoch when depositing to an exited builder](https://github.com/ethereum/consensus-specs/pull/5373#pullrequestreview-4524041136) - 2026-06-18
+* [Issue] [is_epoch_boundary should be renamed](https://github.com/ethereum/consensus-specs/issues/5391) - 2026-06-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/pull/11539) - 2026-04-17
 * [Commit] [Update EIP-7732: Add Nico Flaig as coauthor](https://github.com/ethereum/EIPs/commit/c36a2e58a4496ed21bef6b1c97505b03fd159f0a) - 2026-04-17

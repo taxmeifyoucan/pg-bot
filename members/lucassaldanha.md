@@ -118,6 +118,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Break down peers_direction_current metric by transport (tcp/quic)](https://github.com/Consensys/teku/pull/10887) - 2026-06-23
 * [Pull Request] [Enabling new experimental features by default](https://github.com/Consensys/teku/pull/10882) - 2026-06-23
 * [Commit] [Enabling new experimental features by default (#10882)](https://github.com/Consensys/teku/commit/b232da4f59f23a82202aae96cd9c3efbdac8d24f) - 2026-06-23
+* [Review] [Review on: Make reorderImports explicit to fix environmental issues](https://github.com/Consensys/teku/pull/10897#pullrequestreview-4566893122) - 2026-06-25
+* [Pull Request] [Fix BootnodeService package name](https://github.com/Consensys/teku/pull/10898) - 2026-06-25
+* [Pull Request] [Update jvm-libp2p to 1.3.4](https://github.com/Consensys/teku/pull/10889) - 2026-06-24
+* [Review] [Review on: getForkchoiceV2](https://github.com/Consensys/teku/pull/10800#pullrequestreview-4559100203) - 2026-06-24
+* [Commit] [Fix BootnodeService package name (#10898)](https://github.com/Consensys/teku/commit/206978939d899002392284cdfb50b8cdbeb1f81f) - 2026-06-25
+* [Commit] [Update jvm-libp2p to 1.3.4 (#10889)](https://github.com/Consensys/teku/commit/c26b8921fca3e4acc94dca10718b5c6c897f968a) - 2026-06-24
+* [Commit] [Break down peers_direction_current metric by transport (tcp/quic) (#10887)](https://github.com/Consensys/teku/commit/0a912a42c903eb50d7466bd1f6f62583d91dbd47) - 2026-06-24
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 
@@ -192,6 +199,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [fix(quic): close inbound connection when handler rejects it](https://github.com/libp2p/jvm-libp2p/pull/499) - 2026-06-23
 * [Commit] [fix(quic): close inbound connection when handler rejects it (#499)](https://github.com/libp2p/jvm-libp2p/commit/0533db5e7401c1eddc6554a2fa1bdf37950eea9b) - 2026-06-24
 * [Commit] [Merge pull request #494 from lucassaldanha/hole-punch-fix](https://github.com/libp2p/jvm-libp2p/commit/26a44c13ab4bd60ac00ecdc974f906eff50b7d2c) - 2026-06-23
+* [Review] [Review on: Release 1.3.4](https://github.com/libp2p/jvm-libp2p/pull/500#pullrequestreview-4559244414) - 2026-06-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

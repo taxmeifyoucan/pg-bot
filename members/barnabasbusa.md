@@ -228,6 +228,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: statetransition: handle Gloas builder deposits in process_deposit_request](https://github.com/ethpandaops/dora/pull/743#pullrequestreview-4515284637) - 2026-06-17
 * [Pull Request] [feat(blocks/slots): builder-block filter + gloas-aware MEV/Builder columns](https://github.com/ethpandaops/dora/pull/748) - 2026-06-19
 * [Pull Request] [feat(slots): show payload build source icon in proposer column](https://github.com/ethpandaops/dora/pull/747) - 2026-06-19
+* [Review] [Review on: bump go-eth2-client](https://github.com/ethpandaops/dora/pull/761#pullrequestreview-4562695293) - 2026-06-24
+* [Review] [Review on: Persist attester & PTC duties per epoch in the blockdb](https://github.com/ethpandaops/dora/pull/752#pullrequestreview-4562515892) - 2026-06-24
+* [Commit] [Merge pull request #748 from ethpandaops/bbusa/builder-blocks-filter](https://github.com/ethpandaops/dora/commit/05ecc716035f2fd5ce131201ef7344723f1e5227) - 2026-06-24
+* [Commit] [Merge branch 'master' into bbusa/builder-blocks-filter](https://github.com/ethpandaops/dora/commit/09635b2933278ba85f45b898fd33ad9d1c8b6240) - 2026-06-24
+* [Commit] [feat(slots/blocks): builder-block filtering fixes, index NOT filter & buildoor names](https://github.com/ethpandaops/dora/commit/da7e08b7ab52b68d85af71f06cceee1dbf756e9a) - 2026-06-24
+* [Commit] [Merge branch 'master' into bbusa/builder-blocks-filter](https://github.com/ethpandaops/dora/commit/40ba43f2ae75740d9afd862477fcdc58632ab209) - 2026-06-24
+* [Commit] [Merge branch 'master' into bbusa/builder-blocks-filter](https://github.com/ethpandaops/dora/commit/e6514621bb99ef9b7c496ef5b301410e81c9a69b) - 2026-06-24
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01
@@ -295,6 +302,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [ci: drop macos/amd64 release builds](https://github.com/ethpandaops/assertoor/pull/180) - 2026-05-19
 * [Commit] [ci: drop macos/amd64 release builds](https://github.com/ethpandaops/assertoor/commit/4e7e33deb2d2bf6d7d00cfeb0dfbf5251771dcb6) - 2026-05-19
 * [Pull Request] [test(gloas): add pre-fork builder onboarding test (0x03 -> builder)](https://github.com/ethpandaops/assertoor/pull/195) - 2026-06-22
+* [Pull Request] [chore(deps): bump ethpandaops/go-eth2-client to v0.1.5](https://github.com/ethpandaops/assertoor/pull/200) - 2026-06-24
+* [Commit] [chore(deps): bump ethpandaops/go-eth2-client to v0.1.5](https://github.com/ethpandaops/assertoor/commit/58315d1a3f5036ea6730a7973af2e1fd8695224d) - 2026-06-24
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [Replace deprecated release actions with softprops/action-gh-release](https://github.com/ethpandaops/lab/pull/432) - 2026-04-09
 * [Commit] [Merge pull request #432 from ethpandaops/fix/deprecated-actions](https://github.com/ethpandaops/lab/commit/c3be9674e52453b5788e377f0cbf8f508dd7073e) - 2026-04-09
@@ -386,6 +395,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: chore: remove matty evans (ethpandaops)](https://github.com/protocolguild/documentation/pull/502#pullrequestreview-4523382250) - 2026-06-18
+
+[ethpandaops/contributoor](https://github.com/ethpandaops/contributoor)
+* [Pull Request] [chore(deps): bump ethpandaops/go-eth2-client to v0.1.5](https://github.com/ethpandaops/contributoor/pull/242) - 2026-06-24
+* [Commit] [Merge pull request #242 from ethpandaops/chore/bump-go-eth2-client-v0.1.5](https://github.com/ethpandaops/contributoor/commit/22a716bf5a000e7bec7d9728c507b27a81784399) - 2026-06-24
+* [Commit] [chore(deps): bump ethpandaops/go-eth2-client to v0.1.5](https://github.com/ethpandaops/contributoor/commit/11aabcda7451a9884c8519e7b84d3bf9ede76ed9) - 2026-06-24
 ## Q1 2026
 
 

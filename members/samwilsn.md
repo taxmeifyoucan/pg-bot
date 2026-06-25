@@ -126,6 +126,13 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill](https://github.com/ethereum/execution-specs/pull/3027#pullrequestreview-4534384169) - 2026-06-19
 * [Review] [Review on: fix(deps,tooling): move `ruff` to testing package deps for `gentest`](https://github.com/ethereum/execution-specs/pull/3023#pullrequestreview-4533218803) - 2026-06-19
 * [Pull Request] [chore(specs): reorder tx validity checks](https://github.com/ethereum/execution-specs/pull/3036) - 2026-06-22
+* [Pull Request] [Frame Transactions (EIP-8141)](https://github.com/ethereum/execution-specs/pull/3047) - 2026-06-24
+* [Commit] [fix(tests): add exception map for invalid chain ids](https://github.com/ethereum/execution-specs/commit/fd6e6b8d4d5d226a7a9f7a1579b4ae707b0c107c) - 2026-06-24
+* [Commit] [fix(specs): check chain id](https://github.com/ethereum/execution-specs/commit/9d117a0c89d96a67913eb5d30db7f50808557ab3) - 2026-06-24
+* [Commit] [chore(ci): update mypy](https://github.com/ethereum/execution-specs/commit/c81abf9b35fd1d4215ea44bca74594e652c904b0) - 2026-06-24
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [AllWalletDevs #40, July 15, 2026](https://github.com/ethereum/pm/issues/2139) - 2026-06-24
 ## Q1 2026
 
 

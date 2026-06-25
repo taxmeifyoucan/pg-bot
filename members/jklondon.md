@@ -128,6 +128,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/stagedsync: unify unwind overlay-prune boundary to last committed txNum](https://github.com/erigontech/erigon/pull/21972) - 2026-06-23
 * [Review] [Review on: db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots](https://github.com/erigontech/erigon/pull/21200#pullrequestreview-4553229103) - 2026-06-23
 * [Review] [Review on: db: opt-in ReadAhead of Table with limited "ahead window"](https://github.com/erigontech/erigon/pull/21880#pullrequestreview-4553143088) - 2026-06-23
+* [Review] [Review on: db/state: fix unwind restoring stale values across step boundaries](https://github.com/erigontech/erigon/pull/21981#pullrequestreview-4560247912) - 2026-06-24
 ## Q1 2026
 
 

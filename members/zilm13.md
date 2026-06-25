@@ -164,6 +164,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Fix quic tests](https://github.com/Consensys/teku/pull/10883) - 2026-06-23
 * [Review] [Review on: 2 fixes on execution payload sync](https://github.com/Consensys/teku/pull/10872#pullrequestreview-4552043761) - 2026-06-23
 * [Commit] [Fix quic tests (#10883)](https://github.com/Consensys/teku/commit/da5f82fb3664910836093f777c56c28279c54342) - 2026-06-23
+* [Review] [Review on: ssz intcache no callback](https://github.com/Consensys/teku/pull/10871#pullrequestreview-4562496431) - 2026-06-24
+* [Pull Request] [test, don't merge](https://github.com/Consensys/teku/pull/10895) - 2026-06-24
+* [Pull Request] [ CI: replace ci-skipped.yml stub with a single docs-only gate](https://github.com/Consensys/teku/pull/10892) - 2026-06-24
+* [Review] [Review on: Reduce CI Gradle cache churn](https://github.com/Consensys/teku/pull/10890#pullrequestreview-4560510079) - 2026-06-24
+* [Review] [Review on: glamsterdam-devnet-6 (v1.7.0-alpha.11)](https://github.com/Consensys/teku/pull/10848#pullrequestreview-4560407269) - 2026-06-24
+* [Commit] [ CI: replace ci-skipped.yml stub with a single docs-only gate (#10892)](https://github.com/Consensys/teku/commit/3014455c3d6c9128cbeeaeeb46f3e05fa3d5f877) - 2026-06-24
+* [Commit] [Fix sync gloas (#10873)](https://github.com/Consensys/teku/commit/01c7a5e9cc0805266da8a4509c19cad49fd7dd58) - 2026-06-24
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

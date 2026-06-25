@@ -383,6 +383,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Implement standard FCR metrics](https://github.com/ChainSafe/lodestar/issues/9545) - 2026-06-22
 * [Commit] [fix: reject bids with invalid prev_randao during gossip validation (#9533)](https://github.com/ChainSafe/lodestar/commit/8265ad216411ab914bf2d47ee466b43fb479af44) - 2026-06-22
 * [Pull Request] [feat: add standard fast confirmation metrics](https://github.com/ChainSafe/lodestar/pull/9552) - 2026-06-23
+* [Review] [Review on: feat: add standard fast confirmation metrics](https://github.com/ChainSafe/lodestar/pull/9552#pullrequestreview-4566472454) - 2026-06-24
+* [Review] [Review on: perf: skip equivocation participant set when there are no equivocators](https://github.com/ChainSafe/lodestar/pull/9553#pullrequestreview-4566526973) - 2026-06-24
+* [Commit] [feat: queue execution payload envelope until its block is imported (#9520)](https://github.com/ChainSafe/lodestar/commit/aa2d3a82a35863f9206f052d08a2390d1a14c5c8) - 2026-06-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05
@@ -482,6 +485,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Reset withdrawable epoch when depositing to an exited builder](https://github.com/ethereum/consensus-specs/pull/5373#pullrequestreview-4523886482) - 2026-06-18
 * [Review] [Review on: Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374#pullrequestreview-4527260463) - 2026-06-18
 * [Review] [Review on: Replace `get_dependent_root` with `get_shuffling_dependent_root`](https://github.com/ethereum/consensus-specs/pull/5374#pullrequestreview-4530950397) - 2026-06-19
+* [Review] [Review on: Only reset builder withdrawal epoch if its balance has been swept](https://github.com/ethereum/consensus-specs/pull/5384#pullrequestreview-4564935179) - 2026-06-24
+* [Review] [Review on: Name the epoch boundary helper correctly](https://github.com/ethereum/consensus-specs/pull/5392#pullrequestreview-4561870615) - 2026-06-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 
@@ -498,6 +503,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Only send PTC attestations on canonical shuffling](https://github.com/OffchainLabs/prysm/pull/16946#pullrequestreview-4473539748) - 2026-06-11
 
 * [Review] [Review on: Add forkchoice unit test](https://github.com/OffchainLabs/prysm/pull/16932#pullrequestreview-4544686606) - 2026-06-22
+* [Pull Request] [Count PTC votes from duplicated validators](https://github.com/OffchainLabs/prysm/pull/17028) - 2026-06-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/pull/11760#pullrequestreview-4525252772) - 2026-06-18
 

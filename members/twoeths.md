@@ -227,6 +227,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: queue execution payload envelope until its block is imported](https://github.com/ChainSafe/lodestar/pull/9520#pullrequestreview-4540975313) - 2026-06-22
 * [Review] [Review on: fix: reject bids with invalid prev_randao during gossip validation](https://github.com/ChainSafe/lodestar/pull/9533#pullrequestreview-4541066296) - 2026-06-22
 * [Pull Request] [refactor: implement BeaconEngine](https://github.com/ChainSafe/lodestar/pull/9550) - 2026-06-23
+* [Review] [Review on: feat: queue execution payload envelope until its block is imported](https://github.com/ChainSafe/lodestar/pull/9520#pullrequestreview-4560556986) - 2026-06-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07
@@ -271,6 +272,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Implement ShufflingCache](https://github.com/ChainSafe/lodestar-z/issues/409) - 2026-06-15
 * [Issue] [Implement Regen Apis](https://github.com/ChainSafe/lodestar-z/issues/408) - 2026-06-15
 * [Issue] [Implement block DB and state DB](https://github.com/ChainSafe/lodestar-z/issues/407) - 2026-06-15
+* [Review] [Review on: feat(bindings): expose more APIs for STF](https://github.com/ChainSafe/lodestar-z/pull/444#pullrequestreview-4560467492) - 2026-06-24
 ## Q1 2026
 
 

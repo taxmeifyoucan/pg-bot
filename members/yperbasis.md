@@ -792,6 +792,26 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci, cl/clparams: bump kurtosis assertoor to v0.1.2 and align CL clients (#21449)](https://github.com/erigontech/erigon/commit/bc4e65449a153e5bf21c384ec4ca20928efaa08d) - 2026-06-23
 * [Commit] [.github: group @docusaurus and react Dependabot updates for docs/site (#21978)](https://github.com/erigontech/erigon/commit/d03cd173729140d0f955519ba1d8aa7e967fcdcb) - 2026-06-23
 * [Commit] [db/recsplit/eliasfano16, db/recsplit/eliasfano32: don't panic in Build on jump-offset overflow (#21971)](https://github.com/erigontech/erigon/commit/a397d0440a59bb05f381e215e68fd157a408c214) - 2026-06-23
+* [Review] [Review on: execution/stagedsync: unify unwind overlay-prune boundary to last committed txNum](https://github.com/erigontech/erigon/pull/21972#pullrequestreview-4561359407) - 2026-06-24
+* [Review] [Review on: execution/commitment: remove ConcurrentHexPatriciaTrie PoC](https://github.com/erigontech/erigon/pull/22004#pullrequestreview-4563005798) - 2026-06-24
+* [Pull Request] [.github/workflows: pin GLOAS assertoor to pre-EIP-8282 build](https://github.com/erigontech/erigon/pull/22011) - 2026-06-24
+* [Pull Request] [[r3.5] db/state: fix unwind restoring stale values across step boundaries](https://github.com/erigontech/erigon/pull/21987) - 2026-06-24
+* [Review] [Review on: execution/commitment: shard BranchCache LRU to scale commitment warmup](https://github.com/erigontech/erigon/pull/21982#pullrequestreview-4560961043) - 2026-06-24
+* [Pull Request] [[r3.5] .github/workflows: pin GLOAS assertoor to pre-EIP-8282 build](https://github.com/erigontech/erigon/pull/22009) - 2026-06-24
+* [Pull Request] [.github/workflows: pin GLOAS assertoor to pre-EIP-8282 build](https://github.com/erigontech/erigon/pull/22010) - 2026-06-24
+* [Review] [Review on: [r3.5] cl/beacon: give the EL builder a build window before stopping it](https://github.com/erigontech/erigon/pull/21990#pullrequestreview-4561354696) - 2026-06-24
+* [Pull Request] [.github/workflows: cache ethereum-package images pulled during kurtosis run](https://github.com/erigontech/erigon/pull/22005) - 2026-06-24
+* [Review] [Review on: cl/beacon: give the EL builder a build window before stopping it](https://github.com/erigontech/erigon/pull/21989#pullrequestreview-4562821111) - 2026-06-24
+* [Review] [Review on: rpc/jsonrpc: keep preimage for in-block-deleted accounts in executionWitness](https://github.com/erigontech/erigon/pull/22000#pullrequestreview-4562736035) - 2026-06-24
+* [Review] [Review on: feat: extension points for embedding applications](https://github.com/erigontech/erigon/pull/21976#pullrequestreview-4562133132) - 2026-06-24
+* [Pull Request] [[r3.5] cl/forkchoice: fix data race on GetHead fast-path return](https://github.com/erigontech/erigon/pull/22001) - 2026-06-24
+* [Review] [Review on: db/state: fix unwind restoring stale values across step boundaries](https://github.com/erigontech/erigon/pull/21981#pullrequestreview-4560138128) - 2026-06-24
+* [Review] [Review on: cl/forkchoice: fix data race on GetHead fast-path return](https://github.com/erigontech/erigon/pull/21988#pullrequestreview-4561137790) - 2026-06-24
+* [Issue] [cl, execution: implement EIP-8282 (Builder Execution) for Gloas — builder_deposits & builder_exits in ExecutionRequests](https://github.com/erigontech/erigon/issues/22008) - 2026-06-24
+* [Commit] [.github/workflows: pin GLOAS assertoor to pre-EIP-8282 build (#22011)](https://github.com/erigontech/erigon/commit/c3db1467c3111e4912718ff5f72d61317d17ed8b) - 2026-06-24
+* [Commit] [execution/vm: skip PUSH-free words in JUMPDEST analysis (#21954)](https://github.com/erigontech/erigon/commit/7220985280bc42e56413b56564fae8f39035e7b6) - 2026-06-24
+* [Commit] [execution: avoid O(n^2) BAL merge in block builder (#21947)](https://github.com/erigontech/erigon/commit/a7791279975a87545b7d741a4b470067dc00d3b6) - 2026-06-24
+* [Commit] [db/state: fix unwind restoring stale values across step boundaries (#21981)](https://github.com/erigontech/erigon/commit/8fdb01bd57faf8bf4fcf7e8c97216e5d088cbdc7) - 2026-06-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

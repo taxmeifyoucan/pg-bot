@@ -155,6 +155,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(zkevm): Reject non-canonical Fp coordinates in BLS12-381 precompiles (#12074)](https://github.com/NethermindEth/nethermind/commit/1b00d43827e90216a21e96a9a3cad6b3e7d09323) - 2026-06-22
 * [Review] [Review on: ci(zkevm): Add glamsterdam-devnet-5 blocks tests](https://github.com/NethermindEth/nethermind/pull/12098#pullrequestreview-4554929257) - 2026-06-23
 * [Commit] [ci(zkevm): Add glamsterdam-devnet-5 blocks tests (#12098)](https://github.com/NethermindEth/nethermind/commit/ad88eb71bea3370928994c8ecd731f4b2bec11f0) - 2026-06-23
+* [Review] [Review on: Dependency Hygiene](https://github.com/NethermindEth/nethermind/pull/12124#pullrequestreview-4562751304) - 2026-06-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): add schema-id prefix to stateless guest program input bytes](https://github.com/ethereum/execution-specs/pull/2826#pullrequestreview-4255958526) - 2026-05-08
 * [Review] [Review on: feat(zkevm): prune non scheduled forks in ProtocolFork](https://github.com/ethereum/execution-specs/pull/2926#pullrequestreview-4373692443) - 2026-05-27
