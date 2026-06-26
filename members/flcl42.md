@@ -243,6 +243,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Warmup improvement](https://github.com/NethermindEth/nethermind/pull/10652#pullrequestreview-4565542374) - 2026-06-24
 * [Pull Request] [Handle fork ID and seq in ENRs](https://github.com/NethermindEth/nethermind/pull/12126) - 2026-06-24
 * [Commit] [Switch to struct RLP reader/writer (#12011)](https://github.com/NethermindEth/nethermind/commit/d10c5740636396f430597a38eb21c99917436666) - 2026-06-24
+* [Review] [Review on: Tone down RLP limit logging](https://github.com/NethermindEth/nethermind/pull/12130#pullrequestreview-4568887840) - 2026-06-25
+* [Commit] [Tone down RLP limit logging (#12130)](https://github.com/NethermindEth/nethermind/commit/06ee3ed5c124597f5d15ebd96ea89154b7c38030) - 2026-06-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

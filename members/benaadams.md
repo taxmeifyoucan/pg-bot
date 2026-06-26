@@ -332,6 +332,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor(api): remove 18 ctor/factory-injectable properties from INethermindApi](https://github.com/NethermindEth/nethermind/pull/12070#pullrequestreview-4551997019) - 2026-06-23
 * [Review] [Review on: Dependency Hygiene](https://github.com/NethermindEth/nethermind/pull/12124#pullrequestreview-4562760243) - 2026-06-24
 * [Review] [Review on: KeyStore - Dependency Hygiene](https://github.com/NethermindEth/nethermind/pull/12123#pullrequestreview-4562762847) - 2026-06-24
+* [Pull Request] [ci: pin Claude review workflow to opus model](https://github.com/NethermindEth/nethermind/pull/12140) - 2026-06-25
+* [Commit] [ci: pin Claude review workflow to opus model (#12140)](https://github.com/NethermindEth/nethermind/commit/cf171e67b2af9215b90f93e5fb5fd423666f2baa) - 2026-06-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

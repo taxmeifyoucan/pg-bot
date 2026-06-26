@@ -78,6 +78,9 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [partial rebuilds for beacon state HTR](https://github.com/OffchainLabs/prysm/pull/17002) - 2026-06-18
 * [Pull Request] [beacon state fields partial rebuild](https://github.com/OffchainLabs/prysm/pull/17018) - 2026-06-22
 * [Pull Request] [refactor marking fields as dirty](https://github.com/OffchainLabs/prysm/pull/17026) - 2026-06-23
+* [Review] [Review on: Fix unbounded growth of engine_exchangeCapabilities requested method list](https://github.com/OffchainLabs/prysm/pull/17004#pullrequestreview-4571302666) - 2026-06-25
+* [Pull Request] [partial rebuilds for beacon state HTR](https://github.com/OffchainLabs/prysm/pull/17034) - 2026-06-25
+* [Pull Request] [Revert "partial rebuilds for beacon state HTR"](https://github.com/OffchainLabs/prysm/pull/17033) - 2026-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

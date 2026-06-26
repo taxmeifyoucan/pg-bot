@@ -57,6 +57,7 @@ Team: Erigon
 * [Issue] [Error retiring snapshot blocks](https://github.com/erigontech/erigon/issues/21960) - 2026-06-23
 * [Commit] [qa-tests: improve the reporting of job names in the test report. (#21474)](https://github.com/erigontech/erigon/commit/400cb54da05ff48bfd26d379e8d4c433a426aa9f) - 2026-06-24
 * [Commit] [qa-tests: make RPC perf tests support selectable Erigon execution mode (#21855)](https://github.com/erigontech/erigon/commit/e4e882d89f6af132fffeb694efb3b78d00631a7c) - 2026-06-24
+* [Review] [Review on: .github/workflows: confine QA build temp to a job-scoped dir and clean it up](https://github.com/erigontech/erigon/pull/22021#pullrequestreview-4569371246) - 2026-06-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544#pullrequestreview-4055396442) - 2026-04-03
 * [Review] [Review on: integration: standardize debug trace pr 762](https://github.com/erigontech/rpc-tests/pull/547#pullrequestreview-4088866830) - 2026-04-10

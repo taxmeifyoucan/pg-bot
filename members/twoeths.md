@@ -228,6 +228,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: reject bids with invalid prev_randao during gossip validation](https://github.com/ChainSafe/lodestar/pull/9533#pullrequestreview-4541066296) - 2026-06-22
 * [Pull Request] [refactor: implement BeaconEngine](https://github.com/ChainSafe/lodestar/pull/9550) - 2026-06-23
 * [Review] [Review on: feat: queue execution payload envelope until its block is imported](https://github.com/ChainSafe/lodestar/pull/9520#pullrequestreview-4560556986) - 2026-06-24
+* [Review] [Review on: feat: integrate zig state transition](https://github.com/ChainSafe/lodestar/pull/9516#pullrequestreview-4576209123) - 2026-06-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073) - 2026-04-07
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4067737346) - 2026-04-07

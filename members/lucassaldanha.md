@@ -125,6 +125,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Fix BootnodeService package name (#10898)](https://github.com/Consensys/teku/commit/206978939d899002392284cdfb50b8cdbeb1f81f) - 2026-06-25
 * [Commit] [Update jvm-libp2p to 1.3.4 (#10889)](https://github.com/Consensys/teku/commit/c26b8921fca3e4acc94dca10718b5c6c897f968a) - 2026-06-24
 * [Commit] [Break down peers_direction_current metric by transport (tcp/quic) (#10887)](https://github.com/Consensys/teku/commit/0a912a42c903eb50d7466bd1f6f62583d91dbd47) - 2026-06-24
+* [Review] [Review on: Updated port flags to be not hidden](https://github.com/Consensys/teku/pull/10904#pullrequestreview-4575646595) - 2026-06-25
+* [Pull Request] [Update Discord links to new server invite](https://github.com/Consensys/teku/pull/10903) - 2026-06-25
+* [Commit] [Update Discord links to new server invite (#10903)](https://github.com/Consensys/teku/commit/60d9d4a73ae2d90338e376fcd737c81c6bcf9acf) - 2026-06-25
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/215#pullrequestreview-4138615793) - 2026-04-20
 

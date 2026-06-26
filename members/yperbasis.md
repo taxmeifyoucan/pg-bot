@@ -812,6 +812,27 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/vm: skip PUSH-free words in JUMPDEST analysis (#21954)](https://github.com/erigontech/erigon/commit/7220985280bc42e56413b56564fae8f39035e7b6) - 2026-06-24
 * [Commit] [execution: avoid O(n^2) BAL merge in block builder (#21947)](https://github.com/erigontech/erigon/commit/a7791279975a87545b7d741a4b470067dc00d3b6) - 2026-06-24
 * [Commit] [db/state: fix unwind restoring stale values across step boundaries (#21981)](https://github.com/erigontech/erigon/commit/8fdb01bd57faf8bf4fcf7e8c97216e5d088cbdc7) - 2026-06-24
+* [Review] [Review on: cl: pluggable consensus engine for multi-chain (beacon/rollup/dev)](https://github.com/erigontech/erigon/pull/22025#pullrequestreview-4571264764) - 2026-06-25
+* [Review] [Review on: execution, db: unwind/reorg tests + concurrency and shutdown fixes](https://github.com/erigontech/erigon/pull/21973#pullrequestreview-4570014212) - 2026-06-25
+* [Pull Request] [ChangeLog: note Caplin builder-window fix (#21990) in 3.5.0](https://github.com/erigontech/erigon/pull/22044) - 2026-06-25
+* [Pull Request] [[r3.5] db/version: app version 3.5.0](https://github.com/erigontech/erigon/pull/22043) - 2026-06-25
+* [Review] [Review on: cl/beacon: give the EL builder a build window before stopping it](https://github.com/erigontech/erigon/pull/21989#pullrequestreview-4570438316) - 2026-06-25
+* [Review] [Review on: .github/workflows: cache Kurtosis third-party images, with versions sourced from the .io files](https://github.com/erigontech/erigon/pull/22005#pullrequestreview-4570733326) - 2026-06-25
+* [Review] [Review on: [r3.5] cl/beacon: give the EL builder a build window before stopping it](https://github.com/erigontech/erigon/pull/21990#pullrequestreview-4571821575) - 2026-06-25
+* [Review] [Review on: execution: remove code duplication from gasCreate/gasCreate2 for EIP-8037](https://github.com/erigontech/erigon/pull/22037#pullrequestreview-4570634015) - 2026-06-25
+* [Pull Request] [.github/actions: drop flaky Microsoft/Chrome apt sources in setup-erigon](https://github.com/erigontech/erigon/pull/22035) - 2026-06-25
+* [Review] [Review on: .github/actions: drop flaky Microsoft/Chrome apt sources in setup-erigon](https://github.com/erigontech/erigon/pull/22035#pullrequestreview-4570249566) - 2026-06-25
+* [Review] [Review on: feat: extension points for embedding applications](https://github.com/erigontech/erigon/pull/21976#pullrequestreview-4571099629) - 2026-06-25
+* [Review] [Review on: execution: route block validation through Engine, split gas limit, add CommitmentModel](https://github.com/erigontech/erigon/pull/22007#pullrequestreview-4570853443) - 2026-06-25
+* [Review] [Review on: cl/forkchoice: use delta tree for GLOAS weights](https://github.com/erigontech/erigon/pull/21913#pullrequestreview-4570466888) - 2026-06-25
+* [Pull Request] [cl/beacon: anchor the EL build window to the attestation deadline](https://github.com/erigontech/erigon/pull/22032) - 2026-06-25
+* [Review] [Review on: cl/beacon: anchor the EL build window to the attestation deadline](https://github.com/erigontech/erigon/pull/22032#pullrequestreview-4569949715) - 2026-06-25
+* [Pull Request] [cl/beacon: log "Invalid proof length" for the proof-length check](https://github.com/erigontech/erigon/pull/22033) - 2026-06-25
+* [Issue] [Caplin: validate and tune the GLOAS EL build-window timing (payloadPublicationDivisor)](https://github.com/erigontech/erigon/issues/22034) - 2026-06-25
+* [Issue] [Flaky gas mismatch on Amsterdam EIP-7702: EIP-8037 StateGasAuthBase refund (35190 gas) intermittently skipped](https://github.com/erigontech/erigon/issues/22038) - 2026-06-25
+* [Issue] [QA: `RPC Integration Tests Latest` flaky — testing node can't converge to reference tip after restart (nodes not synced)](https://github.com/erigontech/erigon/issues/22036) - 2026-06-25
+* [Commit] [.github/workflows: cache Kurtosis third-party images, with versions sourced from the .io files (#22005)](https://github.com/erigontech/erigon/commit/aa913a447b7fee1911a66e7820bff15bdc67515a) - 2026-06-25
+* [Commit] [.github/actions: drop flaky Microsoft/Chrome apt sources in setup-erigon (#22035)](https://github.com/erigontech/erigon/commit/0340dd3a0bafc10c1bc8bf48b27ff295a6a7b8dc) - 2026-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

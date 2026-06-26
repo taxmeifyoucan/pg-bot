@@ -111,6 +111,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Introduce BesuJsonModule and centralized JSON-RPC object mappers](https://github.com/besu-eth/besu/pull/10671#pullrequestreview-4544493998) - 2026-06-22
 * [Review] [Review on: Introduce BesuJsonModule and centralized JSON-RPC object mappers](https://github.com/besu-eth/besu/pull/10671#pullrequestreview-4551265441) - 2026-06-23
 * [Review] [Review on: Hive test error codes eth simulate](https://github.com/besu-eth/besu/pull/10625#pullrequestreview-4553017907) - 2026-06-23
+* [Pull Request] [Refactor engine_forkchoiceUpdated into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10709) - 2026-06-25
+* [Review] [Review on: Set JVM for gradle daemon instead of JAVA_HOME](https://github.com/besu-eth/besu/pull/10708#pullrequestreview-4572786326) - 2026-06-25
+* [Review] [Review on: Engine API foundation: fork-aware base class and helpers](https://github.com/besu-eth/besu/pull/10678#pullrequestreview-4571973059) - 2026-06-25
+* [Commit] [Introduce BesuJsonModule and centralized JSON-RPC object mappers (#10671)](https://github.com/besu-eth/besu/commit/532cdd1192ab009202b29cba8a85e8ec0ef1ddd0) - 2026-06-25
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23
@@ -121,6 +125,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [Upgrade Gradle to 9.3.1](https://github.com/besu-eth/besu-native/pull/314) - 2026-06-24
 * [Pull Request] [Remove the ipa-multipoint library](https://github.com/besu-eth/besu-native/pull/315) - 2026-06-24
+* [Pull Request] [Migrate build to Java 25](https://github.com/besu-eth/besu-native/pull/316) - 2026-06-25
+* [Commit] [Remove the ipa-multipoint library (#315)](https://github.com/besu-eth/besu-native/commit/2633542f4bc3c6ebb3ed32151a125def9c4b4390) - 2026-06-25
+* [Commit] [Upgrade Gradle to 9.3.1 (#314)](https://github.com/besu-eth/besu-native/commit/e6f10f4f475cbd6561a395a1495ed19968749a28) - 2026-06-25
 ## Q1 2026
 
 

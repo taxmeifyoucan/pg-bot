@@ -87,6 +87,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [Agentic PR guidance for Contributors (#10414)](https://github.com/besu-eth/besu/commit/fcc59c8ff8a574fe1ed4d967630f52e230b9e64f) - 2026-06-11
 * [Review] [Review on: Add behaviour change notice for rpc-tx-feecap](https://github.com/besu-eth/besu/pull/10640#pullrequestreview-4486665378) - 2026-06-12
 * [Review] [Review on: Contribution Guidelines - update links](https://github.com/besu-eth/besu/pull/10682#pullrequestreview-4553495876) - 2026-06-23
+* [Pull Request] [adds *-devnet-* as a valid pattern to trigger CI](https://github.com/besu-eth/besu/pull/10707) - 2026-06-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 * [Issue] [Encrypt The Mempool #4, May 13, 2026](https://github.com/ethereum/pm/issues/2054) - 2026-05-12

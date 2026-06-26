@@ -88,6 +88,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Remove GC types from BAL builder (#4329)](https://github.com/status-im/nimbus-eth1/commit/fe1f0bbfa5ffd321a087d6cef8b86ebc8f980c00) - 2026-06-17
 * [Pull Request] [Ledger block access list overlay](https://github.com/status-im/nimbus-eth1/pull/4350) - 2026-06-19
 * [Commit] [Ledger block access list overlay (#4350)](https://github.com/status-im/nimbus-eth1/commit/1ec4bf398f777c6bfa7ff46c424791b8b869493b) - 2026-06-23
+* [Pull Request] [Fetch BALs when syncing](https://github.com/status-im/nimbus-eth1/pull/4362) - 2026-06-25
+* [Review] [Review on: Fetch BALs when syncing](https://github.com/status-im/nimbus-eth1/pull/4362#pullrequestreview-4572300713) - 2026-06-25
+* [Pull Request] [Only allow skipping pre-execution BAL check for finalized blocks](https://github.com/status-im/nimbus-eth1/pull/4361) - 2026-06-25
+* [Commit] [Return blockAccessListHash with block header in RPC APIs (#4262)](https://github.com/status-im/nimbus-eth1/commit/34eb22e58d892d58fadf8d43ee979345d8da5c08) - 2026-06-25
 ## Q1 2026
 
 

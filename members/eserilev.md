@@ -152,6 +152,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Fix Gloas range sync issue where a batch cannot be re-fetched if the blocks were already imported](https://github.com/sigp/lighthouse/pull/9477#pullrequestreview-4551174839) - 2026-06-23
 * [Review] [Review on: Refactor Custody Context Availability Checks](https://github.com/sigp/lighthouse/pull/9515#pullrequestreview-4552862216) - 2026-06-23
 * [Review] [Review on: broadcast PTC votes early on payload availability](https://github.com/sigp/lighthouse/pull/9434#pullrequestreview-4553181859) - 2026-06-23
+* [Review] [Review on: Range sync: fetch data columns via custody-by-root](https://github.com/sigp/lighthouse/pull/9496#pullrequestreview-4570335542) - 2026-06-25
+* [Pull Request] [Prevent long state advance during stalled sync](https://github.com/sigp/lighthouse/pull/9538) - 2026-06-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Add check on bid gossip for blob kzg commitment len (#5056)](https://github.com/ethereum/consensus-specs/commit/b0117c40812f075cd8c529b20f61440c489f3321) - 2026-04-09
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181969496) - 2026-04-27

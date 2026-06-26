@@ -49,6 +49,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: UInt256.div: power-of-two divisor fast path](https://github.com/besu-eth/besu/pull/10588#pullrequestreview-4526072834) - 2026-06-18
 * [Review] [Review on: UInt256.div: power-of-two divisor fast path](https://github.com/besu-eth/besu/pull/10588#pullrequestreview-4544444887) - 2026-06-22
 * [Review] [Review on: fix(ci): switch reference-tests from OpenJ9 to HotSpot (temurin)](https://github.com/besu-eth/besu/pull/10681#pullrequestreview-4550620652) - 2026-06-23
+* [Pull Request] [Set JVM for gradle daemon instead of JAVA_HOME](https://github.com/besu-eth/besu/pull/10708) - 2026-06-25
+* [Review] [Review on: Glamsterdam devnet 6: eth_config fixes](https://github.com/besu-eth/besu/pull/10706#pullrequestreview-4570888766) - 2026-06-25
+* [Commit] [Set JVM for gradle daemon instead of JAVA_HOME (#10708)](https://github.com/besu-eth/besu/commit/0160a28f04be5ae5ae2849bb9a824cd511e2d928) - 2026-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088219054) - 2026-04-10
 

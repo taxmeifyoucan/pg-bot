@@ -16,6 +16,7 @@ Team: Cryptography (EF)
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Replace py_ecc/milagro with arkworks](https://github.com/ethereum/consensus-specs/pull/5394#pullrequestreview-4563259563) - 2026-06-24
+* [Review] [Review on: Replace prose with `get_signed_proposer_preferences` function](https://github.com/ethereum/consensus-specs/pull/5396#pullrequestreview-4569699033) - 2026-06-25
 ## Q1 2026
 
 

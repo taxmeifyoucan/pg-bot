@@ -44,6 +44,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(tests): sort refund types for deterministic fixture output](https://github.com/ethereum/execution-specs/pull/2970) - 2026-06-10
 * [Commit] [refactor(tests): sort refund types for deterministic fixture output (#2970)](https://github.com/ethereum/execution-specs/commit/505c4a4e4a859bb748dc2f93d177061e62fc8538) - 2026-06-10
 * [Review] [Review on: feat(spec-specs): EIP-8037 - check static context upfront in CREATE opcodes](https://github.com/ethereum/execution-specs/pull/2978#pullrequestreview-4476817729) - 2026-06-11
+* [Pull Request] [fix(spec-specs): EIP-2780 charge `NEW_ACCOUNT` for value transfer to zero balance precompile](https://github.com/ethereum/execution-specs/pull/3048) - 2026-06-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332#pullrequestreview-4152757786) - 2026-04-22
 * [Commit] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/commit/c550387e917485af69a6999aea45270a555e2eb7) - 2026-04-22

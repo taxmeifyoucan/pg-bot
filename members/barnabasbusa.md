@@ -235,6 +235,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(slots/blocks): builder-block filtering fixes, index NOT filter & buildoor names](https://github.com/ethpandaops/dora/commit/da7e08b7ab52b68d85af71f06cceee1dbf756e9a) - 2026-06-24
 * [Commit] [Merge branch 'master' into bbusa/builder-blocks-filter](https://github.com/ethpandaops/dora/commit/40ba43f2ae75740d9afd862477fcdc58632ab209) - 2026-06-24
 * [Commit] [Merge branch 'master' into bbusa/builder-blocks-filter](https://github.com/ethpandaops/dora/commit/e6514621bb99ef9b7c496ef5b301410e81c9a69b) - 2026-06-24
+* [Pull Request] [fix(ui): compact builder column to link button for long builder URLs](https://github.com/ethpandaops/dora/pull/765) - 2026-06-25
+* [Pull Request] [fix(clients): invalidate clients page cache on force refresh](https://github.com/ethpandaops/dora/pull/764) - 2026-06-25
+* [Review] [Review on: fix(api): guard against divide-by-zero in epoch participation rate](https://github.com/ethpandaops/dora/pull/763#pullrequestreview-4569101285) - 2026-06-25
+* [Commit] [Merge pull request #764 from ethpandaops/bbusa/fix-clients-refresh-page-cache](https://github.com/ethpandaops/dora/commit/c8fa09223a7e395938877892e4cb7f1698a757bd) - 2026-06-25
+* [Commit] [fix(clients): invalidate clients page cache on force refresh](https://github.com/ethpandaops/dora/commit/1a4d43e2ed9249dc7e35f8ccee737d924e5ed4b8) - 2026-06-25
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01

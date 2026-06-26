@@ -104,6 +104,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Fix: Offload WebSocket serialization to worker thread to prevent EventLoop blocking](https://github.com/besu-eth/besu/pull/10354#pullrequestreview-4426153902) - 2026-06-04
 * [Commit] [Check the bad block manager when receiving a new block from the network (#10212)](https://github.com/besu-eth/besu/commit/b2ae2475dfa5f97b05f189ca7a8b04241b0658a8) - 2026-06-08
 * [Pull Request] [Glamsterdam devnet 6 updates](https://github.com/besu-eth/besu/pull/10695) - 2026-06-24
+* [Review] [Review on: adds *-devnet-* as a valid pattern to trigger CI](https://github.com/besu-eth/besu/pull/10707#pullrequestreview-4572415288) - 2026-06-25
+* [Pull Request] [Glamsterdam devnet 6: eth_config fixes](https://github.com/besu-eth/besu/pull/10706) - 2026-06-25
+* [Review] [Review on: Glamsterdam devnet 6: eth_config fixes](https://github.com/besu-eth/besu/pull/10706#pullrequestreview-4571037442) - 2026-06-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

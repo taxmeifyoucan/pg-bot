@@ -329,6 +329,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [EIP-7928: block builder records spurious balance->0 in BAL for same-block credit + CREATE2-onto-funded address (invalid blocks)](https://github.com/erigontech/erigon/issues/21836) - 2026-06-16
 * [Commit] [execution: update eest devnet fixtures to tests-bal@v7.3.2 (#21751)](https://github.com/erigontech/erigon/commit/37312c71745d70b6142d28ea05f408fd5ba2b617) - 2026-06-16
 * [Commit] [execution: fix invalid BAL in block building for same-block credit + CREATE2-onto-funded address (#21846)](https://github.com/erigontech/erigon/commit/a4db2932d83876d47fdcc470d97c7df87e749807) - 2026-06-16
+* [Pull Request] [execution: remove code duplication from gasCreate/gasCreate2 for EIP-8037](https://github.com/erigontech/erigon/pull/22037) - 2026-06-25
+* [Review] [Review on: execution: remove code duplication from gasCreate/gasCreate2 for EIP-8037](https://github.com/erigontech/erigon/pull/22037#pullrequestreview-4570571984) - 2026-06-25
+* [Pull Request] [[DO-NOT-MERGE] glamsterdam-devnet-6](https://github.com/erigontech/erigon/pull/22024) - 2026-06-25
+* [Pull Request] [[DO-NOT-MERGE] execution: update eest devnet fixtures to glamsterdam-devnet@v6.1.0](https://github.com/erigontech/erigon/pull/22023) - 2026-06-25
+* [Issue] [[gd6] implement EIP-8282: Builder Execution Requests](https://github.com/erigontech/erigon/issues/22031) - 2026-06-25
+* [Issue] [[gd6] implement EIP-8246: Remove SELFDESTRUCT Burn](https://github.com/erigontech/erigon/issues/22030) - 2026-06-25
+* [Issue] [[gd6] implement EIP-8038: State-access gas cost update](https://github.com/erigontech/erigon/issues/22029) - 2026-06-25
+* [Issue] [[gd6] implement EIP-7997: Deterministic Factory Contract](https://github.com/erigontech/erigon/issues/22028) - 2026-06-25
+* [Issue] [[gd6] implement EIP-2780: Resource-based intrinsic transaction gas](https://github.com/erigontech/erigon/issues/22027) - 2026-06-25
+* [Commit] [execution: remove code duplication from gasCreate/gasCreate2 for EIP-8037 (#22037)](https://github.com/erigontech/erigon/commit/d68f41634cd53ae0fe906168dc0669dbe82db79c) - 2026-06-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

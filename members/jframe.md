@@ -75,6 +75,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [IBFT2→QBFT migration disables ibft and qbft JSON-RPC methods](https://github.com/besu-eth/besu/issues/10679) - 2026-06-23
 * [Review] [Review on: ci(kurtosis): switch nightly interop workflow to ethpandaops GHA](https://github.com/besu-eth/besu/pull/10618#pullrequestreview-4558371891) - 2026-06-24
 * [Review] [Review on: Consolidate contribution guidelines.](https://github.com/besu-eth/besu/pull/10689#pullrequestreview-4558390449) - 2026-06-24
+* [Review] [Review on: Add Community and support to the Readme.](https://github.com/besu-eth/besu/pull/10697#pullrequestreview-4575652401) - 2026-06-25
+* [Review] [Review on: Consolidate contribution guidelines.](https://github.com/besu-eth/besu/pull/10689#pullrequestreview-4575671607) - 2026-06-25
+* [Review] [Review on: chore: delete orphaned TransactionSmartContractPermissioningControllerTest fixtures](https://github.com/besu-eth/besu/pull/10704#pullrequestreview-4568441981) - 2026-06-25
+* [Pull Request] [Additional logging when QBFT validator contract fails](https://github.com/besu-eth/besu/pull/10705) - 2026-06-25
+* [Commit] [Additional logging when QBFT validator contract fails (#10705)](https://github.com/besu-eth/besu/commit/695e01c743592505e266b3322dde0cbe5ea36c83) - 2026-06-25
 ## Q1 2026
 
 

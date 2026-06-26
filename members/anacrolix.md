@@ -33,6 +33,7 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Pull Request] [go.mod: bump anacrolix/torrent to halve per-piece memory](https://github.com/erigontech/erigon/pull/21837) - 2026-06-16
 * [Commit] [go.mod: bump anacrolix/torrent to halve per-piece memory (#21837)](https://github.com/erigontech/erigon/commit/31f24df9a3ebbe8ab7e8761b40319a27aaeac9e5) - 2026-06-16
 * [Pull Request] [cl/gossip: consolidate service registration logging](https://github.com/erigontech/erigon/pull/21983) - 2026-06-24
+* [Commit] [cl/gossip: consolidate service registration logging (#21983)](https://github.com/erigontech/erigon/commit/8ae039cb5e342ae43ad0b8e4af6f69f784a306d1) - 2026-06-25
 ## Q1 2026
 
 

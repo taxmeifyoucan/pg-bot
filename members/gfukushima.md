@@ -101,6 +101,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Update jvm-libp2p to 1.3.4](https://github.com/Consensys/teku/pull/10889#pullrequestreview-4559409133) - 2026-06-24
 * [Pull Request] [add new reject rule to Execution payload bid gossip validator (#10886)](https://github.com/Consensys/teku/pull/10888) - 2026-06-24
 * [Commit] [add new reject rule to Execution payload bid gossip validator (#10886)](https://github.com/Consensys/teku/commit/5abb32d2d6a13d38c22b1a04a4a6a39fa6a4fd13) - 2026-06-24
+* [Pull Request] [Enabled blobdb on new db only](https://github.com/Consensys/teku/pull/10900) - 2026-06-25
+* [Review] [Review on: Enabled blobdb on new db only](https://github.com/Consensys/teku/pull/10900#pullrequestreview-4575773842) - 2026-06-25
 ## Q1 2026
 
 

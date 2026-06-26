@@ -164,6 +164,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [improve host logging with better  (#17024)](https://github.com/OffchainLabs/prysm/commit/de844b2f4632509df1ab047948ae17f0303c2e44) - 2026-06-23
 * [Review] [Review on: Dedupe Gloas pending-column downscore to once per peer per root](https://github.com/OffchainLabs/prysm/pull/17032#pullrequestreview-4566622402) - 2026-06-24
 * [Review] [Review on: fix: Do not republish gloas columns as partial columns](https://github.com/OffchainLabs/prysm/pull/17030#pullrequestreview-4565042229) - 2026-06-24
+* [Pull Request] [making duties failures independent of each other](https://github.com/OffchainLabs/prysm/pull/17036) - 2026-06-25
+* [Review] [Review on: Batch verify builder deposit request signatures](https://github.com/OffchainLabs/prysm/pull/17031#pullrequestreview-4574847177) - 2026-06-25
+* [Pull Request] [removing parent block number post gloas](https://github.com/OffchainLabs/prysm/pull/17037) - 2026-06-25
+* [Review] [Review on: Rebroadcast pending gloas data columns](https://github.com/OffchainLabs/prysm/pull/17001#pullrequestreview-4573790986) - 2026-06-25
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

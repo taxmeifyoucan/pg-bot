@@ -122,6 +122,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Cleanup: Use stdlib functions](https://github.com/OffchainLabs/prysm/pull/17014#pullrequestreview-4542559270) - 2026-06-22
 * [Review] [Review on: Remove unused deposit signature prefetch cache](https://github.com/OffchainLabs/prysm/pull/17012#pullrequestreview-4565959933) - 2026-06-24
 * [Review] [Review on: partial rebuilds for beacon state HTR](https://github.com/OffchainLabs/prysm/pull/17002#pullrequestreview-4561375574) - 2026-06-24
+* [Review] [Review on: partial rebuilds for beacon state HTR](https://github.com/OffchainLabs/prysm/pull/17034#pullrequestreview-4570963696) - 2026-06-25
+* [Review] [Review on: refactor marking fields as dirty](https://github.com/OffchainLabs/prysm/pull/17026#pullrequestreview-4570164757) - 2026-06-25
+* [Issue] [Prysm involuntarily drops attestations](https://github.com/OffchainLabs/prysm/issues/17035) - 2026-06-25
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

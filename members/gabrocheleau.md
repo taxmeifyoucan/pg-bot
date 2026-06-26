@@ -84,6 +84,7 @@ Team: EthereumJS
 * [Pull Request] [chore: point dev fixtures to glamsterdam-devnet@v6.0.0](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4333) - 2026-06-23
 * [Commit] [chore: point dev fixtures to glamsterdam-devnet@v6.0.0 (#4333)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/4a8f7db799eb43073c3e41a85898661f1f47b6ed) - 2026-06-23
 * [Commit] [evm/common: decouple binary execution witness generation from concrete StatefulBinaryTreeStateManager (#4324)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/3ceb7152d4cc5dcf05da6eaab853cdb5d4d24a0c) - 2026-06-23
+* [Pull Request] [fix(vm): delete empty accounts in consumeBal to fix glamsterdam-devnet selfdestruct tests](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4334) - 2026-06-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Stateless Implementer's Call #51, May 04, 2026](https://github.com/ethereum/pm/issues/2030) - 2026-04-18
 * [Issue] [Stateless Implementer's Call #52, June 1, 2026](https://github.com/ethereum/pm/issues/2064) - 2026-05-19

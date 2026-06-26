@@ -503,6 +503,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [feat(multi-stark): prove AIRs end-to-end via WHIR commitment openings](https://github.com/Plonky3/Plonky3/pull/1892) - 2026-06-23
 * [Review] [Review on: chore(deps): update itertools requirement from 0.14.0 to 0.15.0 in the cargo group](https://github.com/Plonky3/Plonky3/pull/1891#pullrequestreview-4550591442) - 2026-06-23
 * [Review] [Review on: perf(monty-31): pack the coset-shift scale in the RecursiveDft LDE](https://github.com/Plonky3/Plonky3/pull/1893#pullrequestreview-4562484760) - 2026-06-24
+* [Review] [Review on: perf(multi-stark) optimize round evaluation](https://github.com/Plonky3/Plonky3/pull/1897#pullrequestreview-4573500679) - 2026-06-25
+* [Review] [Review on: perf(multi-stark): prune the zerocheck successor table to declared next-row columns](https://github.com/Plonky3/Plonky3/pull/1896#pullrequestreview-4572483880) - 2026-06-25
+* [Review] [Review on: perf(mersenne-31): specialize PackedMersenne31Neon dot_product with deferred reduction](https://github.com/Plonky3/Plonky3/pull/1894#pullrequestreview-4569138111) - 2026-06-25
+* [Review] [Review on: perf(multi-stark): parallelize the zerocheck round_poly hot loop](https://github.com/Plonky3/Plonky3/pull/1895#pullrequestreview-4570373423) - 2026-06-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

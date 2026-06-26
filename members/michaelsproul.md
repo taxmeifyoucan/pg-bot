@@ -142,6 +142,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix transient bug in `dequeue_attestation` and optimization](https://github.com/sigp/lighthouse/pull/9524#pullrequestreview-4558204581) - 2026-06-24
 * [Review] [Review on: Fix transient bug in `dequeue_attestation` and optimization](https://github.com/sigp/lighthouse/pull/9524#pullrequestreview-4567138104) - 2026-06-25
 * [Pull Request] [Remove redundant `is_gloas` checks in reorg tests](https://github.com/sigp/lighthouse/pull/9529) - 2026-06-24
+* [Review] [Review on: Add payload_attestations test in op pool](https://github.com/sigp/lighthouse/pull/9531#pullrequestreview-4568030287) - 2026-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10
@@ -169,6 +170,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Building on Empty is a losing strategy if you have the proposer boost](https://github.com/ethereum/consensus-specs/issues/5320) - 2026-06-02
 * [Review] [Review on: Modify `get_proposer_head` for Gloas](https://github.com/ethereum/consensus-specs/pull/5348#pullrequestreview-4459078806) - 2026-06-09
 * [Issue] [`get_dependent_root` behaviour enshrines Fulu behaviour prior to Fulu](https://github.com/ethereum/consensus-specs/issues/5351) - 2026-06-09
+* [Issue] [Gloas attestations with `data.index == 1` are always considered to fail payload matching](https://github.com/ethereum/consensus-specs/issues/5399) - 2026-06-25
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756) - 2026-05-06
 * [Review] [Review on: Fix Gloas genesis block and make consistent with spec](https://github.com/OffchainLabs/prysm/pull/16756#pullrequestreview-4232967261) - 2026-05-06

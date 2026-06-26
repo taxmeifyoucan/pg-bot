@@ -418,6 +418,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Only reset builder withdrawal epoch if its balance has been swept (#5384)](https://github.com/ethereum/consensus-specs/commit/e2dcac497bdde530be1dddc9c2b611db105b7115) - 2026-06-24
 * [Commit] [Migrate setup.py into pyproject.toml (#5388)](https://github.com/ethereum/consensus-specs/commit/343f82990d584b4f543f51a1c2c59899304375c0) - 2026-06-24
 * [Commit] [Remove unused .gitattributes file (#5387)](https://github.com/ethereum/consensus-specs/commit/ca0a7d36f44ee1e8c4703ea4c516f5c796bce554) - 2026-06-24
+* [Review] [Review on: Replace prose with `get_signed_proposer_preferences` function](https://github.com/ethereum/consensus-specs/pull/5396#pullrequestreview-4571513051) - 2026-06-25
+* [Review] [Review on: Fix various nits](https://github.com/ethereum/consensus-specs/pull/5395#pullrequestreview-4571405140) - 2026-06-25
+* [Commit] [Replace prose with `get_signed_proposer_preferences` function (#5396)](https://github.com/ethereum/consensus-specs/commit/99cc40f9317a15ea185690cee6095297fc571dda) - 2026-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

@@ -57,6 +57,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: interface compatbility with NativeBeaconStateView](https://github.com/ChainSafe/lodestar-z/pull/445#pullrequestreview-4563802992) - 2026-06-24
 * [Review] [Review on: feat: update fulu deposit processing](https://github.com/ChainSafe/lodestar-z/pull/442#pullrequestreview-4560555419) - 2026-06-24
 * [Review] [Review on: feat(bindings): expose more APIs for STF](https://github.com/ChainSafe/lodestar-z/pull/444#pullrequestreview-4560549991) - 2026-06-24
+* [Review] [Review on: fix(epoch_cache): compute missing `next_proposers`](https://github.com/ChainSafe/lodestar-z/pull/447#pullrequestreview-4569311464) - 2026-06-25
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07
@@ -170,6 +171,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: eip-8282 builder execution requests scaffolding](https://github.com/ChainSafe/lodestar/pull/9507#pullrequestreview-4495250483) - 2026-06-15
 * [Review] [Review on: fix: defer using proposer duties v2 to gloas](https://github.com/ChainSafe/lodestar/pull/9519#pullrequestreview-4514417978) - 2026-06-17
 * [Review] [Review on: feat: add standard fast confirmation metrics](https://github.com/ChainSafe/lodestar/pull/9552#pullrequestreview-4564084075) - 2026-06-24
+* [Review] [Review on: fix: keep persistedKey when re-adding a reloaded checkpoint state](https://github.com/ChainSafe/lodestar/pull/9557#pullrequestreview-4571510504) - 2026-06-25
+* [Review] [Review on: fix: check for slot > 0 in missedSlotVote](https://github.com/ChainSafe/lodestar/pull/9556#pullrequestreview-4569513518) - 2026-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

@@ -143,6 +143,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: bump all crates to v41.0.0 (#3753)](https://github.com/bluealloy/revm/commit/6effb301cd836dcaf4848b7ebdb71093c6067bef) - 2026-06-11
 * [Review] [Review on: feat(database): add database fallback mode for BAL misses](https://github.com/bluealloy/revm/pull/3754#pullrequestreview-4484773501) - 2026-06-12
 * [Review] [Review on: feat(eip8038): finalize gas parameters per ethereum/EIPs#11802](https://github.com/bluealloy/revm/pull/3771#pullrequestreview-4543778151) - 2026-06-22
+* [Pull Request] [feat(amsterdam): align gas accounting to devnet-6 (v6.1.0)](https://github.com/bluealloy/revm/pull/3778) - 2026-06-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 

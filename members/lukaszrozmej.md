@@ -758,6 +758,15 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf: reuse already-read nonce when deriving CREATE address](https://github.com/NethermindEth/nethermind/pull/12113#pullrequestreview-4562535037) - 2026-06-24
 * [Review] [Review on: refactor(consensus): move IBlockProductionPolicy to DI](https://github.com/NethermindEth/nethermind/pull/12099#pullrequestreview-4562569260) - 2026-06-24
 * [Review] [Review on: fix: guard ForkChoiceUpdated against null safe/finalized hash](https://github.com/NethermindEth/nethermind/pull/12110#pullrequestreview-4560988158) - 2026-06-24
+* [Review] [Review on: test: fix flaky SyncServerTests block range broadcast test](https://github.com/NethermindEth/nethermind/pull/12129#pullrequestreview-4568493966) - 2026-06-25
+* [Review] [Review on: AccountJsonConverter fix](https://github.com/NethermindEth/nethermind/pull/12131#pullrequestreview-4568487875) - 2026-06-25
+* [Review] [Review on: feat: Options for custom fix-receipts bounds](https://github.com/NethermindEth/nethermind/pull/12133#pullrequestreview-4569779480) - 2026-06-25
+* [Review] [Review on: fix(simulate): return 0 for unresolvable BLOCKHASH in eth_simulateV1 instead of throwing](https://github.com/NethermindEth/nethermind/pull/12037#pullrequestreview-4570014384) - 2026-06-25
+* [Review] [Review on: fix(shutter): bound-check keyper signer index from decryption keys](https://github.com/NethermindEth/nethermind/pull/12135#pullrequestreview-4568882241) - 2026-06-25
+* [Review] [Review on: ci: pin Claude review workflow to opus model](https://github.com/NethermindEth/nethermind/pull/12140#pullrequestreview-4569678741) - 2026-06-25
+* [Review] [Review on: fix(shutter): validate encrypted message length before decoding](https://github.com/NethermindEth/nethermind/pull/12134#pullrequestreview-4568726908) - 2026-06-25
+* [Review] [Review on: Tone down RLP limit logging](https://github.com/NethermindEth/nethermind/pull/12130#pullrequestreview-4568447813) - 2026-06-25
+* [Review] [Review on: test: stabilize flaky AdminModuleTests peer-events subscription tests](https://github.com/NethermindEth/nethermind/pull/12127#pullrequestreview-4568502527) - 2026-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

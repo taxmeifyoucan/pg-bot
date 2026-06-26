@@ -77,6 +77,14 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Pull Request] [Update EIP-8279: explicit BAL data metering with net-zero refund](https://github.com/ethereum/EIPs/pull/11819) - 2026-06-20
 * [Pull Request] [Update EIP-8038: reverse SSTORE clear refund to prevent net-profitable round trips](https://github.com/ethereum/EIPs/pull/11823) - 2026-06-22
 * [Commit] [Update EIP-8038: reverse SSTORE clear refund to prevent net-profitable round trips](https://github.com/ethereum/EIPs/commit/a8862ae6653a12a2989b64a50eca5334cfe8b3cb) - 2026-06-22
+* [Pull Request] [Update EIP-2780: account for EIP-7623 calldata floor base](https://github.com/ethereum/EIPs/pull/11836) - 2026-06-25
+* [Pull Request] [Update EIP-7999: add data and state resources, simplify gas accounting](https://github.com/ethereum/EIPs/pull/11835) - 2026-06-25
+* [Pull Request] [Update EIP-2780: clarify OOG handling for top-level gas charges](https://github.com/ethereum/EIPs/pull/11834) - 2026-06-25
+* [Review] [Review on: Update EIP-2780: require EIP-7523 instead of EIP-161](https://github.com/ethereum/EIPs/pull/11828#pullrequestreview-4570848927) - 2026-06-25
+* [Review] [Review on: Update EIP-8037: Add explanation of 101 byte count in `REGULAR_PER_AUTH_BASE_COST`](https://github.com/ethereum/EIPs/pull/11818#pullrequestreview-4570753268) - 2026-06-25
+* [Commit] [Update EIP-2780: account for EIP-7623 calldata floor base](https://github.com/ethereum/EIPs/commit/992074053f12f24fed9e6d6bf6099d3a44707dca) - 2026-06-25
+* [Commit] [Update EIP-2780: clarify OOG handling for top-level gas charges](https://github.com/ethereum/EIPs/commit/cfca917b621d1a14a759377529a63d28a7832c8c) - 2026-06-25
+* [Commit] [Update EIP-8279: explicit BAL data metering with net-zero refund](https://github.com/ethereum/EIPs/commit/15921e1673260e33f920662852a7223c70104ce7) - 2026-06-25
 ## Q1 2026
 
 

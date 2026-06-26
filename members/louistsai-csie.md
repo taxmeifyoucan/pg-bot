@@ -148,6 +148,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [fix(test-benchmark): address EIP-8037 spec compatibility issues](https://github.com/ethereum/execution-specs/pull/3026) - 2026-06-19
 * [Review] [Review on: feat(tests): CREATE/CREATE2 and CALL clear return data on failed pre-checks](https://github.com/ethereum/execution-specs/pull/3032#pullrequestreview-4545129496) - 2026-06-22
 * [Review] [Review on: refactor(tests): generalize system-contract request test helpers (EIP-6110/7002/7251/7685)](https://github.com/ethereum/execution-specs/pull/2989#pullrequestreview-4550002586) - 2026-06-23
+* [Review] [Review on: chore(specs): reorder tx validity checks](https://github.com/ethereum/execution-specs/pull/3036#pullrequestreview-4568129997) - 2026-06-25
+* [Review] [Review on: chore(tests,test-forks): Address #2990 review comments (pkgutil, type: ignore, Spec dataclass)](https://github.com/ethereum/execution-specs/pull/3018#pullrequestreview-4568227826) - 2026-06-25
+* [Review] [Review on: chore(tooling): clarify state_test preference in write-test skill](https://github.com/ethereum/execution-specs/pull/3035#pullrequestreview-4567899917) - 2026-06-25
+* [Review] [Review on: refactor(test-tools): Remove `CodeGasMeasure` footgun (stop)](https://github.com/ethereum/execution-specs/pull/3040#pullrequestreview-4567893378) - 2026-06-25
+* [Review] [Review on: chore(test-clients-cli): map ethrex empty-change-set BAL rejection to `INVALID_BLOCK_ACCESS_LIST`](https://github.com/ethereum/execution-specs/pull/3046#pullrequestreview-4567860345) - 2026-06-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

@@ -224,6 +224,17 @@ Team: Erigon
 * [Issue] [execution/commitment: sequential Process drops untouched storage on a sole-account-root incremental update (degenerate)](https://github.com/erigontech/erigon/issues/21994) - 2026-06-24
 * [Issue] [execution/commitment: unify unfoldStorageBase branch-read path with unfoldBranchNode](https://github.com/erigontech/erigon/issues/21986) - 2026-06-24
 * [Commit] [execution/commitment: parallel deep storage fold via genuine unfold + mount (fixes wrong trie root) (#21945)](https://github.com/erigontech/erigon/commit/984a453a927247347529a91c1bce05cee18d8779) - 2026-06-24
+* [Pull Request] [cmd/bumper: fix rename include/exclude ext filter and drop non-renamable fields](https://github.com/erigontech/erigon/pull/22018) - 2026-06-25
+* [Pull Request] [cmd/bumper: highlight active panel in bump TUI and show pending changes](https://github.com/erigontech/erigon/pull/22020) - 2026-06-25
+* [Pull Request] [rpc/jsonrpc: one pre-block read for witness keys[] gate; bound completeness error](https://github.com/erigontech/erigon/pull/22022) - 2026-06-25
+* [Pull Request] [execution/commitment: remove inert parallel-commitment warmup; refresh design doc](https://github.com/erigontech/erigon/pull/22042) - 2026-06-25
+* [Pull Request] [cl: log Caplin backward-sync roots as hex](https://github.com/erigontech/erigon/pull/22015) - 2026-06-25
+* [Commit] [cmd/bumper: fix rename include/exclude ext filter and drop non-renamable fields (#22018)](https://github.com/erigontech/erigon/commit/8476e058d7ffc38bf8415e61db14fd472f5dc137) - 2026-06-25
+* [Commit] [cmd/bumper: highlight active panel in bump TUI and show pending changes (#22020)](https://github.com/erigontech/erigon/commit/23b26bcf8953a0dd2d1b62850a1c5ae71484fa61) - 2026-06-25
+* [Commit] [rpc/jsonrpc: one pre-block read for witness keys[] gate; bound completeness error (#22022)](https://github.com/erigontech/erigon/commit/425af38ca4022c1a482eb91175880de6332d338d) - 2026-06-25
+* [Commit] [cl: log Caplin backward-sync roots as hex (#22015)](https://github.com/erigontech/erigon/commit/41b5461da98705c7ba419a4cf6cce41be87f01c9) - 2026-06-25
+* [Commit] [execution/commitment: remove ConcurrentHexPatriciaTrie PoC (#22004)](https://github.com/erigontech/erigon/commit/4b0599997bd1f70524fce7409c7226c68143d094) - 2026-06-25
+* [Commit] [rpc/jsonrpc: report the limit in `eth_getLogs` filter-size errors (#22014)](https://github.com/erigontech/erigon/commit/19f1f0ecae9c55b59971998f0bd26a70575873a2) - 2026-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

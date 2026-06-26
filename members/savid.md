@@ -53,6 +53,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [ci(cannon): build the cryo release image amd64-only](https://github.com/ethpandaops/xatu/commit/07fdf78efbc964a3085bd87251e106965aa70958) - 2026-06-24
 * [Commit] [Merge pull request #853 from ethpandaops/ci/cryo-release-image](https://github.com/ethpandaops/xatu/commit/3d33f316789d96cb430f07290e702422b8222156) - 2026-06-24
 * [Commit] [ci(cannon): ship a cryo-bundled release image for EL cannon](https://github.com/ethpandaops/xatu/commit/90a834a4cb08b335fe7105bfb88f76a5d6ce21e4) - 2026-06-24
+* [Review] [Review on: cannon: add 11 derivers for all Beacon-API data through Fulu](https://github.com/ethpandaops/xatu/pull/851#pullrequestreview-4567612189) - 2026-06-25
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(validators): move report tool to validators index](https://github.com/ethpandaops/lab/pull/435) - 2026-05-27
 * [Commit] [feat(validators): move report tool to validators index (#435)](https://github.com/ethpandaops/lab/commit/337e3345e73c74865d318be214b2169c471a3f72) - 2026-05-27

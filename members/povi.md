@@ -76,6 +76,9 @@ Team: Grandine
 * [Pull Request] [Update block timeliness logic](https://github.com/grandinetech/grandine/pull/759) - 2026-06-17
 * [Issue] [[Glamsterdam] Update block timeliness logic](https://github.com/grandinetech/grandine/issues/760) - 2026-06-17
 * [Review] [Review on: Add compliance tests](https://github.com/grandinetech/grandine/pull/766#pullrequestreview-4532342488) - 2026-06-19
+* [Pull Request] [Update fork choice head selection logic](https://github.com/grandinetech/grandine/pull/776) - 2026-06-25
+* [Pull Request] [Update network stack](https://github.com/grandinetech/grandine/pull/775) - 2026-06-25
+* [Issue] [Update network stack](https://github.com/grandinetech/grandine/issues/774) - 2026-06-25
 ## Q1 2026
 
 

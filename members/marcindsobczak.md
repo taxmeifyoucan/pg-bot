@@ -35,6 +35,7 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: fix(json): stop CountingStreamPipeWriter.Advance from flushing mid-write](https://github.com/NethermindEth/nethermind/pull/12002#pullrequestreview-4504583959) - 2026-06-16
 * [Review] [Review on: Centralize the local node identity in IEnode via EnodeProvider](https://github.com/NethermindEth/nethermind/pull/12051#pullrequestreview-4522891147) - 2026-06-18
 * [Review] [Review on: fix: guard ForkChoiceUpdated against null safe/finalized hash](https://github.com/NethermindEth/nethermind/pull/12110#pullrequestreview-4561700806) - 2026-06-24
+* [Review] [Review on: fix(shutter): validate encrypted message length before decoding](https://github.com/NethermindEth/nethermind/pull/12134#pullrequestreview-4568808072) - 2026-06-25
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787) - 2026-04-23
 ## Q1 2026

@@ -76,6 +76,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [[Glamsterdam] Block production and execution payload envelope beacon API](https://github.com/grandinetech/grandine/issues/772) - 2026-06-24
 * [Issue] [[Glamsterdam] Proposer preferences beacon API](https://github.com/grandinetech/grandine/issues/770) - 2026-06-24
 * [Issue] [[Glamsterdam] Staked Builder API](https://github.com/grandinetech/grandine/issues/769) - 2026-06-24
+* [Pull Request] [Request payload envelope after block imported](https://github.com/grandinetech/grandine/pull/773) - 2026-06-25
 ## Q1 2026
 
 

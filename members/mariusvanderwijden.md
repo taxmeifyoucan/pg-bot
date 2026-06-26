@@ -106,6 +106,11 @@ Team: Geth
 * [Review] [Review on: core/vm: implements EIP-8037 spec change](https://github.com/ethereum/go-ethereum/pull/35173#pullrequestreview-4542587279) - 2026-06-22
 * [Pull Request] [Use full StateAccounts in triedb](https://github.com/ethereum/go-ethereum/pull/35208) - 2026-06-22
 * [Pull Request] [Glamsterdam devnet 6](https://github.com/ethereum/go-ethereum/pull/35214) - 2026-06-24
+* [Pull Request] [core: remove logs for burn accounts](https://github.com/ethereum/go-ethereum/pull/35218) - 2026-06-25
+* [Review] [Review on: eth/downloader: fix test panic](https://github.com/ethereum/go-ethereum/pull/35215#pullrequestreview-4570352418) - 2026-06-25
+* [Pull Request] [params: bump max code size as per EIP-7954](https://github.com/ethereum/go-ethereum/pull/35217) - 2026-06-25
+* [Commit] [core: implement EIP-8282: Builder Execution Requests (#35175)](https://github.com/ethereum/go-ethereum/commit/4387f433c927bf4d35db3cf6c21e739715cc0835) - 2026-06-25
+* [Commit] [params: bump max code size as per EIP-7954 (#35217)](https://github.com/ethereum/go-ethereum/commit/38678ec51604d6c1d3f0c5ed6233bfd7bb6c334d) - 2026-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

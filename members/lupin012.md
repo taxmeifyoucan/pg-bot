@@ -220,6 +220,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: qa-tests: make RPC perf tests support selectable Erigon execution mode](https://github.com/erigontech/erigon/pull/21855#pullrequestreview-4554780840) - 2026-06-23
 * [Pull Request] [rpc: use overlay tx in GasPrice, BlobBaseFee, BaseFee to avoid fluky test on latest](https://github.com/erigontech/erigon/pull/22006) - 2026-06-24
 * [Pull Request] [rpc: rejected quoted decimal block-number strings; require 0x hex format](https://github.com/erigontech/erigon/pull/21985) - 2026-06-24
+* [Review] [Review on: rpc: remove state history check from block-data-only endpoints](https://github.com/erigontech/erigon/pull/21984#pullrequestreview-4567947914) - 2026-06-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

@@ -273,6 +273,7 @@ Team: Erigon
 * [Pull Request] [[r3.5] db/state: collapse duplicate same-block DeleteAccount in BlockStateCache](https://github.com/erigontech/erigon/pull/21957) - 2026-06-23
 * [Commit] [exec: overlay-wrap the worker chainTx once in resetTx so every reader is overlay-aware (#21962)](https://github.com/erigontech/erigon/commit/250d37f8d6b6ef80894dd418a189957a51c5ee1d) - 2026-06-23
 * [Pull Request] [execution: route block validation through Engine, split gas limit, add CommitmentModel](https://github.com/erigontech/erigon/pull/22007) - 2026-06-24
+* [Pull Request] [cl: pluggable consensus engine for multi-chain (beacon/rollup/dev)](https://github.com/erigontech/erigon/pull/22025) - 2026-06-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

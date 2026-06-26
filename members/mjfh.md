@@ -51,6 +51,7 @@ Team: Nimbus
 * [Commit] [Beacon sync single run header download (#4338)](https://github.com/status-im/nimbus-eth1/commit/ca4102b3c0fc672d68e61dcee0d0ecb29d5a7379) - 2026-06-17
 * [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4358) - 2026-06-23
 * [Commit] [Snap sync maint update (#4358)](https://github.com/status-im/nimbus-eth1/commit/68ed6fae92941a638c067e4b372b8e058f600fbc) - 2026-06-23
+* [Review] [Review on: Fetch BALs when syncing](https://github.com/status-im/nimbus-eth1/pull/4362#pullrequestreview-4571839668) - 2026-06-25
 ## Q1 2026
 
 

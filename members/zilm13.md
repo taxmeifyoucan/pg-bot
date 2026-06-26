@@ -171,6 +171,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: glamsterdam-devnet-6 (v1.7.0-alpha.11)](https://github.com/Consensys/teku/pull/10848#pullrequestreview-4560407269) - 2026-06-24
 * [Commit] [ CI: replace ci-skipped.yml stub with a single docs-only gate (#10892)](https://github.com/Consensys/teku/commit/3014455c3d6c9128cbeeaeeb46f3e05fa3d5f877) - 2026-06-24
 * [Commit] [Fix sync gloas (#10873)](https://github.com/Consensys/teku/commit/01c7a5e9cc0805266da8a4509c19cad49fd7dd58) - 2026-06-24
+* [Pull Request] [Redesign fork choice abstractions](https://github.com/Consensys/teku/pull/10901) - 2026-06-25
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

@@ -128,6 +128,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add index to light client headers DB](https://github.com/status-im/nimbus-eth2/pull/8626) - 2026-06-18
 * [Review] [Review on: Ensure verification conditions for bid are satisfied as proposer](https://github.com/status-im/nimbus-eth2/pull/8606#pullrequestreview-4523181741) - 2026-06-18
 * [Pull Request] [Check validator registration to match latest params](https://github.com/status-im/nimbus-eth2/pull/8634) - 2026-06-19
+* [Pull Request] [Verify preset Nim files match upstream Yaml](https://github.com/status-im/nimbus-eth2/pull/8663) - 2026-06-25
+* [Pull Request] [Bump presets to latest specs](https://github.com/status-im/nimbus-eth2/pull/8662) - 2026-06-25
+* [Pull Request] [Update fast_confirmation event to latest spec](https://github.com/status-im/nimbus-eth2/pull/8661) - 2026-06-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

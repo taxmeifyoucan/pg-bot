@@ -165,6 +165,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [defaulted to not use quartz scheduler (#10896)](https://github.com/Consensys/teku/commit/aa987b2c82e36369a4f95241c2185afd1ccb5a1b) - 2026-06-25
 * [Commit] [Make reorderImports explicit to fix environmental issues (#10897)](https://github.com/Consensys/teku/commit/2bbf29638b766e65f72b7ff2f93596ce66599a61) - 2026-06-25
 * [Commit] [getForkchoiceV2 (#10800)](https://github.com/Consensys/teku/commit/29260196b7b1985bd0caecee3ed611d55421106a) - 2026-06-24
+* [Pull Request] [Updated port flags to be not hidden](https://github.com/Consensys/teku/pull/10904) - 2026-06-25
+* [Review] [Review on: Updated port flags to be not hidden](https://github.com/Consensys/teku/pull/10904#pullrequestreview-4576134918) - 2026-06-26
+* [Review] [Review on: Update Discord links to new server invite](https://github.com/Consensys/teku/pull/10903#pullrequestreview-4575218411) - 2026-06-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

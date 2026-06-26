@@ -38,6 +38,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Produce block v4 with payload](https://github.com/Consensys/teku/pull/10832) - 2026-06-15
 * [Pull Request] [Update GetBlockV3Test to include appropriate HTTP status codes](https://github.com/Consensys/teku/pull/10856) - 2026-06-18
 * [Commit] [Update GetBlockV3Test to include appropriate HTTP status codes (#10856)](https://github.com/Consensys/teku/commit/27d3501fd887b4cef66b874c83ddc8fd4669ae59) - 2026-06-19
+* [Review] [Review on: Updated port flags to be not hidden](https://github.com/Consensys/teku/pull/10904#pullrequestreview-4576360985) - 2026-06-26
 ## Q1 2026
 
 

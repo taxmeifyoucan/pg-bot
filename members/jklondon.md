@@ -129,6 +129,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots](https://github.com/erigontech/erigon/pull/21200#pullrequestreview-4553229103) - 2026-06-23
 * [Review] [Review on: db: opt-in ReadAhead of Table with limited "ahead window"](https://github.com/erigontech/erigon/pull/21880#pullrequestreview-4553143088) - 2026-06-23
 * [Review] [Review on: db/state: fix unwind restoring stale values across step boundaries](https://github.com/erigontech/erigon/pull/21981#pullrequestreview-4560247912) - 2026-06-24
+* [Pull Request] [db/snapshotsync: fix race between concurrent merge and index build](https://github.com/erigontech/erigon/pull/22045) - 2026-06-25
+* [Review] [Review on: cmd/bumper: fix rename include/exclude ext filter and drop non-renamable fields](https://github.com/erigontech/erigon/pull/22018#pullrequestreview-4573563914) - 2026-06-25
 ## Q1 2026
 
 

@@ -171,6 +171,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-cli): raise a clear error when `gentest` can't find `ruff`](https://github.com/ethereum/execution-specs/pull/3024#pullrequestreview-4560524248) - 2026-06-24
 * [Issue] [Test Release Tracker: `glamsterdam-devnet@v6.0.2`](https://github.com/ethereum/execution-specs/issues/3043) - 2026-06-24
 * [Issue] [Remove extensive and superflous gas checks in EIP-8038 tests](https://github.com/ethereum/execution-specs/issues/3042) - 2026-06-24
+* [Pull Request] [feat(spec-specs,test-tests): add EIP-2780 and EIP-8038](https://github.com/ethereum/execution-specs/pull/3052) - 2026-06-25
+* [Review] [Review on: fix(spec-specs): EIP-2780 charge `NEW_ACCOUNT` for value transfer to zero balance precompile](https://github.com/ethereum/execution-specs/pull/3048#pullrequestreview-4569336692) - 2026-06-25
+* [Issue] [Test Release Tracker: `glamsterdam-devnet@v6.1.1`](https://github.com/ethereum/execution-specs/issues/3049) - 2026-06-25
+* [Issue] [Update static tests for EIP-2780/EIP-8038](https://github.com/ethereum/execution-specs/issues/3051) - 2026-06-25
+* [Commit] [fix(test-cli): raise a clear error when `gentest` can't find `ruff` (#3024)](https://github.com/ethereum/execution-specs/commit/3f888bc71f2d30d48b6f5a92c618ab283a6c98d5) - 2026-06-25
+* [Commit] [chore(tooling): clarify state_test preference in write-test skill (#3035)](https://github.com/ethereum/execution-specs/commit/a9cc76b8c1c93459627a6146e419dcb193c12e9d) - 2026-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 
@@ -190,6 +196,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: Update EIP-2780: Add missing 7708 log costs for CREATE with endowment](https://github.com/ethereum/EIPs/pull/11586#pullrequestreview-4250614950) - 2026-05-08
 * [Commit] [Update EIP-2780: Add missing 7708 log costs for CREATE with endowment](https://github.com/ethereum/EIPs/commit/4b612eec2ef70611bba3e0819d137dcfb9b6cd81) - 2026-05-08
 * [Pull Request] [Update EIP-8037: Add explanation of 101 byte count in `REGULAR_PER_AUTH_BASE_COST`](https://github.com/ethereum/EIPs/pull/11818) - 2026-06-19
+* [Commit] [Update EIP-8037: Add explanation of 101 byte count in `REGULAR_PER_AUTH_BASE_COST`](https://github.com/ethereum/EIPs/commit/9b0028c57465cb0451f041b46a84ab4cb3eab2e7) - 2026-06-25
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: clients/ethrex: import block files individually](https://github.com/ethereum/hive/pull/1461#pullrequestreview-4226428886) - 2026-05-05
 * [Review] [Review on: clients/erigon: import all per-block files in a single process](https://github.com/ethereum/hive/pull/1519#pullrequestreview-4416649539) - 2026-06-03

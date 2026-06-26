@@ -195,6 +195,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [test: Load transaction chainId as uint64](https://github.com/ipsilon/evmone/pull/1570) - 2026-06-17
 * [Commit] [test: Load transaction signature v as uint64 (#1571)](https://github.com/ipsilon/evmone/commit/3616ba6bf1f9194bf7e333f00afb8d06993240c1) - 2026-06-17
 * [Commit] [test: Load transaction chainId as uint64 (#1570)](https://github.com/ipsilon/evmone/commit/f200c0d3dd7d14d53e19d7c5f1125689a55f5109) - 2026-06-17
+* [Pull Request] [Implement EIP-8246: "Remove SELFDESTRUCT Burn"](https://github.com/ipsilon/evmone/pull/1572) - 2026-06-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -263,6 +264,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/commit/60a241e35e88a147fb08db96a786275b384fbe6a) - 2026-05-14
 * [Commit] [Update EIP-8246: Move to Review](https://github.com/ethereum/EIPs/commit/45b443dc26ffae9437f8e396e677b4242e067613) - 2026-05-21
 * [Pull Request] [Update EIP-2780: require EIP-7523 instead of EIP-161](https://github.com/ethereum/EIPs/pull/11828) - 2026-06-24
+* [Commit] [Update EIP-2780: require EIP-7523 instead of EIP-161](https://github.com/ethereum/EIPs/commit/0c8a9ade8934364448850bb1ff02851f85bc5efa) - 2026-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4138243461) - 2026-04-20
 

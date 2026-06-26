@@ -239,6 +239,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Rename dataColumnQuarantine and add verification optimization to Gloas quarantine too.](https://github.com/status-im/nimbus-eth2/pull/8628#pullrequestreview-4558758074) - 2026-06-24
 * [Review] [Review on: tune scoring params for Gloas topics](https://github.com/status-im/nimbus-eth2/pull/8653#pullrequestreview-4567146214) - 2026-06-25
 * [Review] [Review on: get attestation rewards](https://github.com/status-im/nimbus-eth2/pull/8649#pullrequestreview-4558727666) - 2026-06-24
+* [Pull Request] [Revert "Persist all chain DAG heads in database"](https://github.com/status-im/nimbus-eth2/pull/8656) - 2026-06-25
+* [Review] [Review on: tune scoring params for Gloas topics](https://github.com/status-im/nimbus-eth2/pull/8653#pullrequestreview-4568437653) - 2026-06-25
+* [Pull Request] [don't wait for column redistribution to resolve block](https://github.com/status-im/nimbus-eth2/pull/8655) - 2026-06-25
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -274,6 +277,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [enforce CycleCreated warning as error](https://github.com/status-im/nimbus-eth1/pull/4342) - 2026-06-18
 * [Commit] [enforce CycleCreated warning as error (#4342)](https://github.com/status-im/nimbus-eth1/commit/bfdb6661c9ac14eb5d912bcdb663010588c5ac3c) - 2026-06-18
 * [Review] [Review on: proxy: op-stack support](https://github.com/status-im/nimbus-eth1/pull/4360#pullrequestreview-4562144349) - 2026-06-24
+* [Review] [Review on: proxy: op-stack support](https://github.com/status-im/nimbus-eth1/pull/4360#pullrequestreview-4567495369) - 2026-06-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27

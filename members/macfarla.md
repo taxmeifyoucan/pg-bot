@@ -341,6 +341,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [debug_traceBlockByHash](https://github.com/besu-eth/besu/issues/10698) - 2026-06-25
 * [Commit] [Hive test error codes eth simulate (#10625)](https://github.com/besu-eth/besu/commit/f1e3aa98d56461ea807285c543c518f1aa2a42d5) - 2026-06-24
 * [Commit] [ci(kurtosis): switch nightly interop workflow to ethpandaops GHA (#10618)](https://github.com/besu-eth/besu/commit/2fd43c2b1fee015433f2e28031aa359a07eae1c2) - 2026-06-24
+* [Review] [Review on: Consolidate contribution guidelines.](https://github.com/besu-eth/besu/pull/10689#pullrequestreview-4567485165) - 2026-06-25
+* [Pull Request] [chore(pow-removal): remove vestigial ethash{} from genesis files](https://github.com/besu-eth/besu/pull/10703) - 2026-06-25
+* [Pull Request] [chore: delete orphaned TransactionSmartContractPermissioningControllerTest fixtures](https://github.com/besu-eth/besu/pull/10704) - 2026-06-25
+* [Review] [Review on: Additional logging when QBFT validator contract fails](https://github.com/besu-eth/besu/pull/10705#pullrequestreview-4568441352) - 2026-06-25
+* [Commit] [chore: delete orphaned TransactionSmartContractPermissioningControllerTest fixtures (#10704)](https://github.com/besu-eth/besu/commit/ce5c487ae8ad43f04cc79404e19d4abf221a46c6) - 2026-06-25
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 
@@ -361,6 +366,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: Upgrade Gradle to 9.3.1](https://github.com/besu-eth/besu-native/pull/314#pullrequestreview-4567087772) - 2026-06-25
+* [Review] [Review on: Remove the ipa-multipoint library](https://github.com/besu-eth/besu-native/pull/315#pullrequestreview-4569664936) - 2026-06-25
 ## Q1 2026
 
 

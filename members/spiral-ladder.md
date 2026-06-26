@@ -188,6 +188,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat(bindings): expose more APIs for STF](https://github.com/ChainSafe/lodestar-z/pull/444) - 2026-06-24
 * [Commit] [fix: interface compatbility with NativeBeaconStateView (#445)](https://github.com/ChainSafe/lodestar-z/commit/89e13d1847dd54db476ae80764a627649de7bd0e) - 2026-06-24
 * [Commit] [feat(bindings): expose more APIs for STF (#444)](https://github.com/ChainSafe/lodestar-z/commit/7fe260909a0ff75d34176a761029dbb55fa09c48) - 2026-06-24
+* [Pull Request] [fix(epoch_cache): compute missing `next_proposers`](https://github.com/ChainSafe/lodestar-z/pull/447) - 2026-06-25
+* [Commit] [fix(epoch_cache): compute missing `next_proposers` (#447)](https://github.com/ChainSafe/lodestar-z/commit/0088a2988d7712a38d470a617fdaab1ea0ae7736) - 2026-06-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 
@@ -204,6 +206,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix: clamp pivotSlot calculation to GENESIS_SLOT](https://github.com/ChainSafe/lodestar/pull/9521) - 2026-06-18
 * [Commit] [fix: clamp pivotSlot calculation to GENESIS_SLOT (#9521)](https://github.com/ChainSafe/lodestar/commit/45c0f6c77eb1cca781a2f6ccf105220628d06f6d) - 2026-06-22
 * [Review] [Review on: feat: integrate zig state transition](https://github.com/ChainSafe/lodestar/pull/9516#pullrequestreview-4552205188) - 2026-06-23
+* [Review] [Review on: feat: integrate zig state transition](https://github.com/ChainSafe/lodestar/pull/9516#pullrequestreview-4573352501) - 2026-06-25
+* [Pull Request] [fix: check for slot > 0 in missedSlotVote](https://github.com/ChainSafe/lodestar/pull/9556) - 2026-06-25
+* [Review] [Review on: fix: check for slot > 0 in missedSlotVote](https://github.com/ChainSafe/lodestar/pull/9556#pullrequestreview-4569789745) - 2026-06-25
+* [Commit] [fix: check for slot > 0 in missedSlotVote (#9556)](https://github.com/ChainSafe/lodestar/commit/e4ada6b7e0bbd5baccb7bc80aaabc8d8e36d3422) - 2026-06-25
 ## Q1 2026
 
 

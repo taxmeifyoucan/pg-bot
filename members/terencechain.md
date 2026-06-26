@@ -332,6 +332,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Set KZG commitments on Gloas sidecars fetched by RPC before validating them](https://github.com/OffchainLabs/prysm/pull/17029#pullrequestreview-4563341904) - 2026-06-24
 * [Commit] [Remove unused deposit signature prefetch cache (#17012)](https://github.com/OffchainLabs/prysm/commit/baad85c4843175d1b5bcbdc3f9b2f5f1ba3e38b3) - 2026-06-24
 * [Commit] [Implement builder execution requests and spec tests v1.7.0-alpha.11 (#16972)](https://github.com/OffchainLabs/prysm/commit/32011eaa88598aaeeeed0698a4f11bbbcd286aa8) - 2026-06-24
+* [Review] [Review on: Batch verify builder deposit request signatures](https://github.com/OffchainLabs/prysm/pull/17031#pullrequestreview-4574909601) - 2026-06-25
+* [Review] [Review on: Add gloas_payload_reveal_outcome_total metric for ePBS payload reveal health](https://github.com/OffchainLabs/prysm/pull/17025#pullrequestreview-4574660831) - 2026-06-25
+* [Commit] [Rebroadcast pending gloas data columns (#17001)](https://github.com/OffchainLabs/prysm/commit/762ee6b8f1f9766b036da55d5393f463c47072ea) - 2026-06-25
+* [Commit] [Dedupe Gloas pending-column downscore to once per peer per root (#17032)](https://github.com/OffchainLabs/prysm/commit/aa9f335a8360a6515dcfcd57eadcc2171c4b1ae7) - 2026-06-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

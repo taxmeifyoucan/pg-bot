@@ -109,6 +109,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Migrate setup.py into pyproject.toml](https://github.com/ethereum/consensus-specs/pull/5388#pullrequestreview-4560077806) - 2026-06-24
 * [Review] [Review on: Remove unused .gitattributes file](https://github.com/ethereum/consensus-specs/pull/5387#pullrequestreview-4560021805) - 2026-06-24
 * [Commit] [Name the epoch boundary helper correctly (#5392)](https://github.com/ethereum/consensus-specs/commit/b979062aa98aded9448d80d238a9e699fdd36531) - 2026-06-24
+* [Review] [Review on: Replace prose with `get_signed_proposer_preferences` function](https://github.com/ethereum/consensus-specs/pull/5396#pullrequestreview-4568770308) - 2026-06-25
+* [Review] [Review on: Fix various nits](https://github.com/ethereum/consensus-specs/pull/5395#pullrequestreview-4568180174) - 2026-06-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): add EIP-7805 spec](https://github.com/ethereum/execution-specs/pull/1928) - 2026-04-07
 * [Review] [Review on: src(focil): add FOCIL src features + first set of FOCIL tests](https://github.com/ethereum/execution-specs/pull/2643#pullrequestreview-4104361260) - 2026-04-14

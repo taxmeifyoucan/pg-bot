@@ -708,6 +708,8 @@ Team: Reth
 * [Pull Request] [feat(rpc): support sendRawTransactionSync timeout arg](https://github.com/paradigmxyz/reth/pull/25682) - 2026-06-24
 * [Commit] [chore(deps): bump alloy-eip7928 to 0.4.5 (#25688)](https://github.com/paradigmxyz/reth/commit/7d74e65f802ef49ed8737b9165d14f8f4cad4920) - 2026-06-24
 * [Commit] [feat(rpc): support sendRawTransactionSync timeout arg (#25682)](https://github.com/paradigmxyz/reth/commit/e398adbd69be0ab0c64c0b7a4a2ff5021f6805c0) - 2026-06-24
+* [Review] [Review on: feat(cli): allow overriding TraceArgs defaults](https://github.com/paradigmxyz/reth/pull/25736#pullrequestreview-4571404552) - 2026-06-25
+* [Commit] [perf(evm): expose arc blocks from chain iterators (#25647)](https://github.com/paradigmxyz/reth/commit/5d027e5ff72f31270b862f8e000d1cc79621be2e) - 2026-06-25
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

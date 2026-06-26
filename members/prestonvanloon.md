@@ -56,6 +56,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Remove adding dirty indices for `Builders` list change in `DecreaseWithdrawalBalances`](https://github.com/OffchainLabs/prysm/pull/16968#pullrequestreview-4555820237) - 2026-06-23
 * [Review] [Review on: go.mod: update go-ethereum to v1.17.4](https://github.com/OffchainLabs/prysm/pull/17019#pullrequestreview-4565965000) - 2026-06-24
 * [Review] [Review on: fix: avoid panic when event stream request creation fails](https://github.com/OffchainLabs/prysm/pull/16234#pullrequestreview-4563652368) - 2026-06-24
+* [Review] [Review on: Add gloas_payload_reveal_outcome_total metric for ePBS payload reveal health](https://github.com/OffchainLabs/prysm/pull/17025#pullrequestreview-4574208326) - 2026-06-25
+* [Review] [Review on: Remove Bazel: Phase 1/9](https://github.com/OffchainLabs/prysm/pull/16986#pullrequestreview-4572642836) - 2026-06-25
 ## Q1 2026
 
 

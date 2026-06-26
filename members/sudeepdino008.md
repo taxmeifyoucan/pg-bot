@@ -320,6 +320,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/snapshotsync: resume caplin state dump per-type to avoid overlapping files](https://github.com/erigontech/erigon/pull/21901#pullrequestreview-4559411966) - 2026-06-24
 * [Issue] [high exec_steps_in_db in tip tracking test](https://github.com/erigontech/erigon/issues/21996) - 2026-06-24
 * [Commit] [db/snapshotsync: resume caplin state dump per-type to avoid overlapping files (#21901)](https://github.com/erigontech/erigon/commit/270a20b0844026ea47ab80925608bea92880eb7d) - 2026-06-24
+* [Pull Request] [db/seg: 1.5x faster merge with smaller suffix array use](https://github.com/erigontech/erigon/pull/22050) - 2026-06-26
+* [Pull Request] [execution/stagedsync: fix pruning in stage_custom_trace](https://github.com/erigontech/erigon/pull/22049) - 2026-06-26
+* [Review] [Review on: db/seg, db/state, db/snapshotsync: run merges and index builds on a separate MADV_SEQUENTIAL mmap](https://github.com/erigontech/erigon/pull/22046#pullrequestreview-4576279313) - 2026-06-26
+* [Review] [Review on: db/snapshotsync: fix race between concurrent merge and index build](https://github.com/erigontech/erigon/pull/22045#pullrequestreview-4576055813) - 2026-06-26
+* [Pull Request] [db/state/statecfg: bump rcache domain kv/.v to v3.1 (#21974)](https://github.com/erigontech/erigon/pull/22048) - 2026-06-26
+* [Pull Request] [[r3.5] db/state/statecfg: bump rcache domain kv/.v to v3.1 (#21974)](https://github.com/erigontech/erigon/pull/22047) - 2026-06-26
+* [Issue] [stage_custom_trace doesn't prune](https://github.com/erigontech/erigon/issues/22013) - 2026-06-25
+* [Issue] [data and indices files experiments](https://github.com/erigontech/erigon/issues/22016) - 2026-06-25
+* [Commit] [db/seg/patricia: remove dead PatriciaTree and MatchFinder1/2/3 (#21998)](https://github.com/erigontech/erigon/commit/0b36c68676dc3cae085fbc43f48cd7efea501a14) - 2026-06-25
+* [Commit] [cmd/integration: remove domain purification (compact_domains) (#22012)](https://github.com/erigontech/erigon/commit/df9c1f144de429a5ab5bbc9d2a0051c314f3eda3) - 2026-06-25
 ## Q1 2026
 
 
