@@ -833,6 +833,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [QA: `RPC Integration Tests Latest` flaky — testing node can't converge to reference tip after restart (nodes not synced)](https://github.com/erigontech/erigon/issues/22036) - 2026-06-25
 * [Commit] [.github/workflows: cache Kurtosis third-party images, with versions sourced from the .io files (#22005)](https://github.com/erigontech/erigon/commit/aa913a447b7fee1911a66e7820bff15bdc67515a) - 2026-06-25
 * [Commit] [.github/actions: drop flaky Microsoft/Chrome apt sources in setup-erigon (#22035)](https://github.com/erigontech/erigon/commit/0340dd3a0bafc10c1bc8bf48b27ff295a6a7b8dc) - 2026-06-25
+* [Review] [Review on: ChangeLog: reformat version headers and update 3.5.0 release notes](https://github.com/erigontech/erigon/pull/22044#pullrequestreview-4578293316) - 2026-06-26
+* [Pull Request] [execution/stagedsync: burn coinbase tip on a same-tx SELFDESTRUCT (parallel exec)](https://github.com/erigontech/erigon/pull/22057) - 2026-06-26
+* [Pull Request] [execution/stagedsync, db/state: fix parallel-exec reorg-to-genesis commitment crash (#22056)](https://github.com/erigontech/erigon/pull/22058) - 2026-06-26
+* [Pull Request] [execution: activate EIP-1283 for the Constantinople test fork](https://github.com/erigontech/erigon/pull/22059) - 2026-06-26
+* [Pull Request] [db/state: release commitment BranchCache on Aggregator.Close](https://github.com/erigontech/erigon/pull/22054) - 2026-06-26
+* [Review] [Review on: execution, db: unwind/reorg tests + concurrency and shutdown fixes](https://github.com/erigontech/erigon/pull/21973#pullrequestreview-4577615478) - 2026-06-26
+* [Issue] [TestLegacyCancunBlockchain: excluded fixtures — PoW total-difficulty reorg (harness gap) + Constantinople divergence](https://github.com/erigontech/erigon/issues/22061) - 2026-06-26
+* [Issue] [Enable execution/tests consensus + state runners on Windows (per-test DB creation too slow → 20min timeout)](https://github.com/erigontech/erigon/issues/22064) - 2026-06-26
+* [Issue] [prune: add human-readable aliases for --prune.distance.blocks sentinels (instead of raw MaxUint64 values)](https://github.com/erigontech/erigon/issues/22055) - 2026-06-26
+* [Issue] [Parallel exec: commitment "empty branch data during unfold" on reorg/unwind-to-genesis (Hive consensus UncleFromSideChain_Cancun)](https://github.com/erigontech/erigon/issues/22056) - 2026-06-26
+* [Commit] [ChangeLog: reformat version headers and update 3.5.0 release notes (#22044)](https://github.com/erigontech/erigon/commit/bf63430dc4b207cb6fde9941f950b6a4a21c38d6) - 2026-06-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 
@@ -855,6 +866,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [simulators/ethereum/engine: bump PayloadProductionClientDelay 1s -> 2s](https://github.com/ethereum/hive/pull/1462) - 2026-05-05
 * [Pull Request] [clients/erigon: import all per-block files in a single process](https://github.com/ethereum/hive/pull/1519) - 2026-05-29
 * [Commit] [clients/erigon: import all per-block files in a single process (#1519)](https://github.com/ethereum/hive/commit/a41c80a8f236dd763080fdaaf0a61675c1e80911) - 2026-06-03
+* [Pull Request] [simulators/ethereum/engine: wait for sent tx to be pending before building payload](https://github.com/ethereum/hive/pull/1561) - 2026-06-26
 ## Q1 2026
 
 

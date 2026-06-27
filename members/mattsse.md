@@ -710,6 +710,14 @@ Team: Reth
 * [Commit] [feat(rpc): support sendRawTransactionSync timeout arg (#25682)](https://github.com/paradigmxyz/reth/commit/e398adbd69be0ab0c64c0b7a4a2ff5021f6805c0) - 2026-06-24
 * [Review] [Review on: feat(cli): allow overriding TraceArgs defaults](https://github.com/paradigmxyz/reth/pull/25736#pullrequestreview-4571404552) - 2026-06-25
 * [Commit] [perf(evm): expose arc blocks from chain iterators (#25647)](https://github.com/paradigmxyz/reth/commit/5d027e5ff72f31270b862f8e000d1cc79621be2e) - 2026-06-25
+* [Review] [Review on: perf: windowed conversion of transactions](https://github.com/paradigmxyz/reth/pull/25783#pullrequestreview-4579124231) - 2026-06-26
+* [Review] [Review on: feat(bootnode): advertise NAT addresses in discv5 and support dual-stack](https://github.com/paradigmxyz/reth/pull/25757#pullrequestreview-4578314137) - 2026-06-26
+* [Pull Request] [feat(txpool): allow disabling strict priority ordering](https://github.com/paradigmxyz/reth/pull/25799) - 2026-06-26
+* [Pull Request] [docs(evm): fix executable tx iterator docs](https://github.com/paradigmxyz/reth/pull/25787) - 2026-06-26
+* [Review] [Review on: fix(rpc): serialize capability retention as quantity](https://github.com/paradigmxyz/reth/pull/25324#pullrequestreview-4578978903) - 2026-06-26
+* [Review] [Review on: feat(node): add optional latency tokio runtime for sendRaw path](https://github.com/paradigmxyz/reth/pull/25745#pullrequestreview-4578731279) - 2026-06-26
+* [Review] [Review on: feat(net): add dedicated eth + snap/2 stream](https://github.com/paradigmxyz/reth/pull/25752#pullrequestreview-4578935405) - 2026-06-26
+* [Commit] [docs(evm): fix executable tx iterator docs (#25787)](https://github.com/paradigmxyz/reth/commit/790a3b3d0e0335360bccd7dbb4b7900c6daeb8b7) - 2026-06-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

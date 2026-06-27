@@ -350,6 +350,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix: guard ForkChoiceUpdated against null safe/finalized hash (#12110)](https://github.com/NethermindEth/nethermind/commit/3e7af892cf76818c6749ed32dda350b8238a1691) - 2026-06-24
 * [Commit] [refactor(network): declarative P2P capability advertisement via IP2PCapabilityResolver (#12093)](https://github.com/NethermindEth/nethermind/commit/54bbff7584c636bae100bc7a79938b3bf882ed77) - 2026-06-24
 * [Pull Request] [feat(FlatDB): long finality support with persisted snapshots](https://github.com/NethermindEth/nethermind/pull/12142) - 2026-06-25
+* [Review] [Review on: [WIP] - Flat historical state](https://github.com/NethermindEth/nethermind/pull/12125#pullrequestreview-4583648024) - 2026-06-27
+* [Pull Request] [refactor(plugins): wire TraceStore/OpcodeTracing tracers via DI](https://github.com/NethermindEth/nethermind/pull/12144) - 2026-06-26
+* [Commit] [AuRa: move finalization manager and terminal-block disposer to DI (#12036)](https://github.com/NethermindEth/nethermind/commit/40dfb091784ab8ce3bda205cd384d32a847517d2) - 2026-06-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

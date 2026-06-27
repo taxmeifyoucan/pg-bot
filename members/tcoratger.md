@@ -507,6 +507,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(multi-stark): prune the zerocheck successor table to declared next-row columns](https://github.com/Plonky3/Plonky3/pull/1896#pullrequestreview-4572483880) - 2026-06-25
 * [Review] [Review on: perf(mersenne-31): specialize PackedMersenne31Neon dot_product with deferred reduction](https://github.com/Plonky3/Plonky3/pull/1894#pullrequestreview-4569138111) - 2026-06-25
 * [Review] [Review on: perf(multi-stark): parallelize the zerocheck round_poly hot loop](https://github.com/Plonky3/Plonky3/pull/1895#pullrequestreview-4570373423) - 2026-06-25
+* [Review] [Review on: feat(sumcheck): subtraction-free projective (monomial-basis) sum-check on the prover (eprint 2026/762)](https://github.com/Plonky3/Plonky3/pull/1900#pullrequestreview-4580703624) - 2026-06-26
+* [Review] [Review on: perf: add NEON vectorization for RPO on 31bit fields](https://github.com/Plonky3/Plonky3/pull/1899#pullrequestreview-4580959801) - 2026-06-26
+* [Review] [Review on: perf: follow-up of #1897 for multi-stark](https://github.com/Plonky3/Plonky3/pull/1898#pullrequestreview-4579101531) - 2026-06-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #37, April 29, 2026](https://github.com/ethereum/pm/issues/2035) - 2026-04-28
 * [Issue] [Post-Quantum (PQ) Interop #38, May 6, 2026](https://github.com/ethereum/pm/issues/2040) - 2026-05-05

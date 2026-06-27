@@ -172,6 +172,8 @@ Team: Reth
 * [Review] [Review on: perf(trie): compute trie changesets on demand](https://github.com/paradigmxyz/reth/pull/25646#pullrequestreview-4563618820) - 2026-06-24
 * [Review] [Review on: ci: add derek bench reorg mode](https://github.com/paradigmxyz/reth/pull/25696#pullrequestreview-4563828161) - 2026-06-24
 * [Review] [Review on: ci: hide derek comments as outdated](https://github.com/paradigmxyz/reth/pull/25737#pullrequestreview-4571325540) - 2026-06-25
+* [Pull Request] [round-robin worker lanes](https://github.com/paradigmxyz/reth/pull/25794) - 2026-06-26
+* [Review] [Review on: ci: `skip-state-root` bench alias](https://github.com/paradigmxyz/reth/pull/25791#pullrequestreview-4579612126) - 2026-06-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add joshieDo from Reth](https://github.com/protocolguild/documentation/pull/491) - 2026-04-13
 * [Review] [Review on: remove fgimenez from reth](https://github.com/protocolguild/documentation/pull/490#pullrequestreview-4099252714) - 2026-04-13

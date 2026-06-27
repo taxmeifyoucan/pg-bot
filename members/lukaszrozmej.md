@@ -767,6 +767,15 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(shutter): validate encrypted message length before decoding](https://github.com/NethermindEth/nethermind/pull/12134#pullrequestreview-4568726908) - 2026-06-25
 * [Review] [Review on: Tone down RLP limit logging](https://github.com/NethermindEth/nethermind/pull/12130#pullrequestreview-4568447813) - 2026-06-25
 * [Review] [Review on: test: stabilize flaky AdminModuleTests peer-events subscription tests](https://github.com/NethermindEth/nethermind/pull/12127#pullrequestreview-4568502527) - 2026-06-25
+* [Review] [Review on: Configurable and explicit eth_getLogs scan limit](https://github.com/NethermindEth/nethermind/pull/12149#pullrequestreview-4579623459) - 2026-06-26
+* [Review] [Review on: Enforce strict leading-zero validation for QUANTITY hex in BlockOverrides](https://github.com/NethermindEth/nethermind/pull/12103#pullrequestreview-4579608235) - 2026-06-26
+* [Review] [Review on: `debug_getRawTransaction`: return `null` instead of error for missing transaction](https://github.com/NethermindEth/nethermind/pull/12151#pullrequestreview-4579914603) - 2026-06-26
+* [Pull Request] [feat: head state cache for fast RPC reads on top of head](https://github.com/NethermindEth/nethermind/pull/12150) - 2026-06-26
+* [Review] [Review on: EXPB fix(merge): restore int type for MergeConfig.CollectionsPerDecommit](https://github.com/NethermindEth/nethermind/pull/12148#pullrequestreview-4579618817) - 2026-06-26
+* [Review] [Review on: fix(simulate): return 0 for unresolvable BLOCKHASH in eth_simulateV1 instead of throwing](https://github.com/NethermindEth/nethermind/pull/12037#pullrequestreview-4578197033) - 2026-06-26
+* [Review] [Review on: fix(test): reduce BAL e2e sync chain length to avoid macOS CI timeout flakiness](https://github.com/NethermindEth/nethermind/pull/12139#pullrequestreview-4577751916) - 2026-06-26
+* [Review] [Review on: fix(grpc): dispose subscription queue and harden publish against teardown](https://github.com/NethermindEth/nethermind/pull/12138#pullrequestreview-4577745932) - 2026-06-26
+* [Review] [Review on: fix(gas-estimator): use the next-block spec consistently during estimation](https://github.com/NethermindEth/nethermind/pull/12137#pullrequestreview-4577672062) - 2026-06-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

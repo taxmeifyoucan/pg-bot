@@ -103,6 +103,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [add new reject rule to Execution payload bid gossip validator (#10886)](https://github.com/Consensys/teku/commit/5abb32d2d6a13d38c22b1a04a4a6a39fa6a4fd13) - 2026-06-24
 * [Pull Request] [Enabled blobdb on new db only](https://github.com/Consensys/teku/pull/10900) - 2026-06-25
 * [Review] [Review on: Enabled blobdb on new db only](https://github.com/Consensys/teku/pull/10900#pullrequestreview-4575773842) - 2026-06-25
+* [Commit] [Enabled blobdb on new db only (#10900)](https://github.com/Consensys/teku/commit/3255b626084d36147a4867ff7cde4467382d512d) - 2026-06-26
 ## Q1 2026
 
 

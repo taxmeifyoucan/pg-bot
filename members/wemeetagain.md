@@ -58,6 +58,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: update fulu deposit processing](https://github.com/ChainSafe/lodestar-z/pull/442#pullrequestreview-4560555419) - 2026-06-24
 * [Review] [Review on: feat(bindings): expose more APIs for STF](https://github.com/ChainSafe/lodestar-z/pull/444#pullrequestreview-4560549991) - 2026-06-24
 * [Review] [Review on: fix(epoch_cache): compute missing `next_proposers`](https://github.com/ChainSafe/lodestar-z/pull/447#pullrequestreview-4569311464) - 2026-06-25
+* [Review] [Review on: fix: remove `slashValidator` gating on active status](https://github.com/ChainSafe/lodestar-z/pull/448#pullrequestreview-4581979325) - 2026-06-26
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: check if pending deposit exists before applying to builder](https://github.com/ChainSafe/lodestar/pull/9180#pullrequestreview-4070624933) - 2026-04-07
 * [Review] [Review on: test: add bellatrix and capella gossip validation spec tests](https://github.com/ChainSafe/lodestar/pull/9192#pullrequestreview-4071348375) - 2026-04-07

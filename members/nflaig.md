@@ -388,6 +388,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: queue execution payload envelope until its block is imported (#9520)](https://github.com/ChainSafe/lodestar/commit/aa2d3a82a35863f9206f052d08a2390d1a14c5c8) - 2026-06-24
 * [Review] [Review on: fix: check for slot > 0 in missedSlotVote](https://github.com/ChainSafe/lodestar/pull/9556#pullrequestreview-4569579930) - 2026-06-25
 * [Commit] [feat: add standard fast confirmation metrics (#9552)](https://github.com/ChainSafe/lodestar/commit/848b01419b92832ea4d0d6b32595641e3cf5cd75) - 2026-06-25
+* [Commit] [feat: upgrade to v1.7.0-alpha.11 spec (#9541)](https://github.com/ChainSafe/lodestar/commit/551b8b0a3d22a678ca16a5ab0d5893d27776dba6) - 2026-06-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

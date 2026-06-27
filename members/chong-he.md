@@ -64,6 +64,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: fix: auto-pull latest Nethermind version in EL test](https://github.com/sigp/lighthouse/pull/9282#pullrequestreview-4530751805) - 2026-06-19
 * [Review] [Review on: Forbid removed `execution_payload_envelope.rs` file](https://github.com/sigp/lighthouse/pull/9506#pullrequestreview-4540752263) - 2026-06-22
 * [Pull Request] [Add payload_attestations test in op pool](https://github.com/sigp/lighthouse/pull/9531) - 2026-06-24
+* [Review] [Review on: docs(installation): mention blob storage requirements](https://github.com/sigp/lighthouse/pull/9537#pullrequestreview-4577397347) - 2026-06-26
+* [Review] [Review on: fix: auto-pull latest Nethermind version in EL test](https://github.com/sigp/lighthouse/pull/9282#pullrequestreview-4576442785) - 2026-06-26
 ## Q1 2026
 
 

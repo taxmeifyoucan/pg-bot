@@ -168,6 +168,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Updated port flags to be not hidden](https://github.com/Consensys/teku/pull/10904) - 2026-06-25
 * [Review] [Review on: Updated port flags to be not hidden](https://github.com/Consensys/teku/pull/10904#pullrequestreview-4576134918) - 2026-06-26
 * [Review] [Review on: Update Discord links to new server invite](https://github.com/Consensys/teku/pull/10903#pullrequestreview-4575218411) - 2026-06-25
+* [Review] [Review on: Enabled blobdb on new db only](https://github.com/Consensys/teku/pull/10900#pullrequestreview-4576757121) - 2026-06-26
+* [Commit] [Updated port flags to be not hidden (#10904)](https://github.com/Consensys/teku/commit/f99b5b4883f5295d877f99280caca3f3dce81de2) - 2026-06-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 

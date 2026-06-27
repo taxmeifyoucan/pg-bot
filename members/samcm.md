@@ -76,6 +76,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #851 from ethpandaops/feat/cannon-fulu-data](https://github.com/ethpandaops/xatu/commit/f2b91a11f21cdea63bb349ebc15ed9589ef29ba1) - 2026-06-25
 * [Commit] [cannon routes: validate required fields instead of silently writing zero](https://github.com/ethpandaops/xatu/commit/f33b7fd848d08dc97ec41f7709f9721d524983b1) - 2026-06-25
 * [Commit] [fix(ci): unbreak govulncheck and patch reachable dependency vulns (#859)](https://github.com/ethpandaops/xatu/commit/dd6b0577aa6cb171c7caa1f14f38cefef7341bb7) - 2026-06-25
+* [Pull Request] [canonical_beacon_validators: store the real API value (FAR_FUTURE_EPOCH/0) instead of NULL](https://github.com/ethpandaops/xatu/pull/863) - 2026-06-26
+* [Pull Request] [canonical: strict validate + halt-on-invalid (never drop a backfilled row)](https://github.com/ethpandaops/xatu/pull/862) - 2026-06-26
+* [Commit] [canonical_beacon_validators: store the real API value, not NULL (#863)](https://github.com/ethpandaops/xatu/commit/dc96b0b3dee139aa3ffb3fe8f930d43a89526acb) - 2026-06-26
+* [Commit] [canonical: strict validate + halt-on-invalid (never drop a backfilled row) (#862)](https://github.com/ethpandaops/xatu/commit/2764443b6f74c21c1e8d69e816ac54d93350dd04) - 2026-06-26
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat: add berlin cluster for EIP-7870 reference nodes](https://github.com/ethpandaops/lab/pull/433) - 2026-04-23
 * [Commit] [feat: add berlin cluster for EIP-7870 reference nodes (#433)](https://github.com/ethpandaops/lab/commit/90e9b7267d6446bc685a0cfb216236e182452a99) - 2026-04-23
@@ -87,6 +91,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(slots): blobs panel card + gate blob downloads on finality (#438)](https://github.com/ethpandaops/lab/commit/79e1877e7b3131dcbf4bc674e17ab462868f192b) - 2026-06-24
 * [Commit] [feat(slots): block + blob download modal on the slot detail page (#437)](https://github.com/ethpandaops/lab/commit/03b64a3d70bf4db1700598730ea7e99972291020) - 2026-06-24
 * [Pull Request] [feat(live): reimagine consensus Live page top bar as a slot HUD](https://github.com/ethpandaops/lab/pull/439) - 2026-06-26
+* [Commit] [feat(live): reimagine consensus live page top bar as a slot HUD (#439)](https://github.com/ethpandaops/lab/commit/3a4edeeddc85d666f0c30f0e323cfc0bf20df6e9) - 2026-06-26
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Review] [Review on: Add validation for validator start and end ranges](https://github.com/ethpandaops/template-devnets/pull/164#pullrequestreview-4193596946) - 2026-04-29
 

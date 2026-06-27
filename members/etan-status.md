@@ -131,6 +131,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Verify preset Nim files match upstream Yaml](https://github.com/status-im/nimbus-eth2/pull/8663) - 2026-06-25
 * [Pull Request] [Bump presets to latest specs](https://github.com/status-im/nimbus-eth2/pull/8662) - 2026-06-25
 * [Pull Request] [Update fast_confirmation event to latest spec](https://github.com/status-im/nimbus-eth2/pull/8661) - 2026-06-25
+* [Pull Request] [Introduce PAYLOAD_BUILDER_VERSION](https://github.com/status-im/nimbus-eth2/pull/8670) - 2026-06-26
+* [Pull Request] [Restore fast confirmation rule tests](https://github.com/status-im/nimbus-eth2/pull/8669) - 2026-06-26
+* [Pull Request] [Fix trailing commas in resttest-rules.json](https://github.com/status-im/nimbus-eth2/pull/8667) - 2026-06-26
+* [Review] [Review on: Forward compatible consensus data structures (EIP-7688)](https://github.com/status-im/nimbus-eth2/pull/8475#pullrequestreview-4578240546) - 2026-06-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Simplify Electra light client specs (#4567)](https://github.com/ethereum/consensus-specs/commit/5b054280fee2750e80b0896f773212ece8cd061c) - 2026-04-08
 

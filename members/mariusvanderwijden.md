@@ -111,6 +111,9 @@ Team: Geth
 * [Pull Request] [params: bump max code size as per EIP-7954](https://github.com/ethereum/go-ethereum/pull/35217) - 2026-06-25
 * [Commit] [core: implement EIP-8282: Builder Execution Requests (#35175)](https://github.com/ethereum/go-ethereum/commit/4387f433c927bf4d35db3cf6c21e739715cc0835) - 2026-06-25
 * [Commit] [params: bump max code size as per EIP-7954 (#35217)](https://github.com/ethereum/go-ethereum/commit/38678ec51604d6c1d3f0c5ed6233bfd7bb6c334d) - 2026-06-25
+* [Review] [Review on: internal/ethapi, eth, eth/catalyst: gate eth_syncing on CL handshake](https://github.com/ethereum/go-ethereum/pull/34855#pullrequestreview-4578571550) - 2026-06-26
+* [Review] [Review on: core: implement EIP-8246](https://github.com/ethereum/go-ethereum/pull/35219#pullrequestreview-4578470047) - 2026-06-26
+* [Review] [Review on: core: implement EIP-2780](https://github.com/ethereum/go-ethereum/pull/35212#pullrequestreview-4578402230) - 2026-06-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

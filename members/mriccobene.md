@@ -86,6 +86,7 @@ Team: Erigon
 * [Review] [Review on: integration-test: fix debug trace block by number with error](https://github.com/erigontech/rpc-tests/pull/580#pullrequestreview-4539320884) - 2026-06-21
 * [Review] [Review on: add_withdrawal_tests_post_shanghai](https://github.com/erigontech/rpc-tests/pull/569#pullrequestreview-4556744624) - 2026-06-23
 * [Review] [Review on: add test eth_fillTransaction](https://github.com/erigontech/rpc-tests/pull/578#pullrequestreview-4556743307) - 2026-06-23
+* [Review] [Review on: integration_test: trace_block() and erigon_getLatestLog() with bn as hex](https://github.com/erigontech/rpc-tests/pull/581#pullrequestreview-4580390917) - 2026-06-26
 ## Q1 2026
 
 

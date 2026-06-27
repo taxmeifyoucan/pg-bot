@@ -68,6 +68,10 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8131: Rewrite EIP-8131 as Unified Transaction Content Floor](https://github.com/ethereum/EIPs/commit/cf5b8d9c0fd80dfc9d737135902b149ea64f6061) - 2026-06-17
 * [Commit] [Add EIP: Block Access List Byte Floor](https://github.com/ethereum/EIPs/commit/ea5fef04d97b7ba3349dc87196cff01fe97169dc) - 2026-06-18
 * [Review] [Review on: Update EIP-8279: explicit BAL data metering with net-zero refund](https://github.com/ethereum/EIPs/pull/11819#pullrequestreview-4570831183) - 2026-06-25
+* [Pull Request] [Update EIP-8081: PFI EIP-8279](https://github.com/ethereum/EIPs/pull/11839) - 2026-06-26
+* [Pull Request] [Update EIP-7928: Revert 7702 tracking](https://github.com/ethereum/EIPs/pull/11838) - 2026-06-26
+* [Commit] [Update EIP-8081: PFI EIP-8279](https://github.com/ethereum/EIPs/commit/171cece4aed833493f00d976f7053f1db6596fdd) - 2026-06-26
+* [Commit] [Update EIP-8141: Restore Behavior section](https://github.com/ethereum/EIPs/commit/7e54d3de551b268eee131fa795549fb7f6850bf4) - 2026-06-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657) - 2026-04-11
 * [Review] [Review on: feat(tests): add test for worst-case prefetcher performance](https://github.com/ethereum/execution-specs/pull/2657#pullrequestreview-4093487803) - 2026-04-11

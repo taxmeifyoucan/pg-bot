@@ -14,11 +14,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd: add amsterdam override flag](https://github.com/ethereum/go-ethereum/pull/35213) - 2026-06-24
 
+* [Pull Request] [rpc: add --rpc.http-body-limit flag for HTTP request body size](https://github.com/ethereum/go-ethereum/pull/35224) - 2026-06-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fill-stateful: make the per-test chain rewind optional (add debug_resetHead)](https://github.com/ethereum/execution-specs/pull/3050) - 2026-06-25
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Set testing_buildBlockV1 coinbase to suggestedFeeRecipient](https://github.com/besu-eth/besu/pull/10710) - 2026-06-25
+* [Pull Request] [Set testing_buildBlockV1 coinbase to suggestedFeeRecipient](https://github.com/besu-eth/besu/pull/10711) - 2026-06-26
+* [Commit] [Set testing_buildBlockV1 coinbase to suggestedFeeRecipient (#10711)](https://github.com/besu-eth/besu/commit/a88f6ad546403bfda7c835e60250b7ffa76be701) - 2026-06-26
 ## Q1 2026
 
 

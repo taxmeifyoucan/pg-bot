@@ -79,6 +79,7 @@ Team: Grandine
 * [Pull Request] [Update fork choice head selection logic](https://github.com/grandinetech/grandine/pull/776) - 2026-06-25
 * [Pull Request] [Update network stack](https://github.com/grandinetech/grandine/pull/775) - 2026-06-25
 * [Issue] [Update network stack](https://github.com/grandinetech/grandine/issues/774) - 2026-06-25
+* [Commit] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/56075cdcf05ceb18bcef7648a0e45c7e33876253) - 2026-06-26
 ## Q1 2026
 
 

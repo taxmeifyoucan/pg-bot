@@ -168,6 +168,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Batch verify builder deposit request signatures](https://github.com/OffchainLabs/prysm/pull/17031#pullrequestreview-4574847177) - 2026-06-25
 * [Pull Request] [removing parent block number post gloas](https://github.com/OffchainLabs/prysm/pull/17037) - 2026-06-25
 * [Review] [Review on: Rebroadcast pending gloas data columns](https://github.com/OffchainLabs/prysm/pull/17001#pullrequestreview-4573790986) - 2026-06-25
+* [Review] [Review on: Avoid redundant blob copy in KZG batch verify path](https://github.com/OffchainLabs/prysm/pull/17039#pullrequestreview-4579937125) - 2026-06-26
+* [Review] [Review on: Split Gloas and pre-Gloas block production into separate paths](https://github.com/OffchainLabs/prysm/pull/17040#pullrequestreview-4581851723) - 2026-06-26
+* [Review] [Review on: making duties failures independent of each other](https://github.com/OffchainLabs/prysm/pull/17036#pullrequestreview-4582846431) - 2026-06-26
+* [Review] [Review on: adding gossip validation on envelope api and block api default](https://github.com/OffchainLabs/prysm/pull/16960#pullrequestreview-4580506905) - 2026-06-26
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

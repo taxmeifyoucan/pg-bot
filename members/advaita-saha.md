@@ -64,6 +64,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [sync to block head with unknown header (#4315)](https://github.com/status-im/nimbus-eth1/commit/5bc71a3bc10b486ac8ecf0d4185cfef0789dac0c) - 2026-06-11
 * [Pull Request] [Nimbus light flavour](https://github.com/status-im/nimbus-eth1/pull/4357) - 2026-06-22
 * [Pull Request] [syncer aware of FC state](https://github.com/status-im/nimbus-eth1/pull/4356) - 2026-06-22
+* [Review] [Review on: syncer aware of FC state](https://github.com/status-im/nimbus-eth1/pull/4356#pullrequestreview-4581171365) - 2026-06-26
 ## Q1 2026
 
 

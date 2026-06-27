@@ -196,6 +196,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Load transaction signature v as uint64 (#1571)](https://github.com/ipsilon/evmone/commit/3616ba6bf1f9194bf7e333f00afb8d06993240c1) - 2026-06-17
 * [Commit] [test: Load transaction chainId as uint64 (#1570)](https://github.com/ipsilon/evmone/commit/f200c0d3dd7d14d53e19d7c5f1125689a55f5109) - 2026-06-17
 * [Pull Request] [Implement EIP-8246: "Remove SELFDESTRUCT Burn"](https://github.com/ipsilon/evmone/pull/1572) - 2026-06-25
+* [Commit] [Implement EIP-8246: "Remove SELFDESTRUCT Burn" (#1572)](https://github.com/ipsilon/evmone/commit/1164d386eec2562db1938ac57392922b752e1c90) - 2026-06-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10

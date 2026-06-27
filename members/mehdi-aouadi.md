@@ -100,6 +100,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [handle proposer preference whose dependant root is new for checkpoint boundary (#10821)](https://github.com/Consensys/teku/commit/105f339bab7b69dd675969fa6ac2af0b10d12a4d) - 2026-06-12
 * [Commit] [add execution payload historical sync (#10592)](https://github.com/Consensys/teku/commit/b5212bd11a4100b5b7ca98a266589636102512ff) - 2026-06-23
 * [Pull Request] [Merge branch master](https://github.com/Consensys/teku/pull/10902) - 2026-06-25
+* [Pull Request] [disable blocks circuit breaker post gloas](https://github.com/Consensys/teku/pull/10905) - 2026-06-26
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: 1.3.0 release](https://github.com/libp2p/jvm-libp2p/pull/478#pullrequestreview-4327252421) - 2026-05-20
 ## Q1 2026

@@ -873,6 +873,11 @@ Team: Erigon
 * [Review] [Review on: execution/commitment: remove inert parallel-commitment warmup; refresh design doc](https://github.com/erigontech/erigon/pull/22042#pullrequestreview-4572366059) - 2026-06-25
 * [Review] [Review on: .github/workflows: cache Kurtosis third-party images, with versions sourced from the .io files](https://github.com/erigontech/erigon/pull/22005#pullrequestreview-4568627699) - 2026-06-25
 * [Review] [Review on: cl: log Caplin backward-sync roots as hex](https://github.com/erigontech/erigon/pull/22015#pullrequestreview-4568622811) - 2026-06-25
+* [Review] [Review on: db/state/statecfg: bump rcache domain kv/.v to v3.1 (#21974)](https://github.com/erigontech/erigon/pull/22048#pullrequestreview-4579351966) - 2026-06-26
+* [Review] [Review on: [r3.5] db/state/statecfg: bump rcache domain kv/.v to v3.1 (#21974)](https://github.com/erigontech/erigon/pull/22047#pullrequestreview-4579349851) - 2026-06-26
+* [Review] [Review on: [r3.4] execution/stagedsync: fix pruning in stage_custom_trace](https://github.com/erigontech/erigon/pull/22051#pullrequestreview-4579380182) - 2026-06-26
+* [Review] [Review on: [r3.5] execution/stagedsync: fix pruning in stage_custom_trace](https://github.com/erigontech/erigon/pull/22052#pullrequestreview-4579374819) - 2026-06-26
+* [Review] [Review on: execution/stagedsync: fix pruning in stage_custom_trace](https://github.com/erigontech/erigon/pull/22049#pullrequestreview-4578249392) - 2026-06-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

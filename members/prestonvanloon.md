@@ -58,6 +58,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: fix: avoid panic when event stream request creation fails](https://github.com/OffchainLabs/prysm/pull/16234#pullrequestreview-4563652368) - 2026-06-24
 * [Review] [Review on: Add gloas_payload_reveal_outcome_total metric for ePBS payload reveal health](https://github.com/OffchainLabs/prysm/pull/17025#pullrequestreview-4574208326) - 2026-06-25
 * [Review] [Review on: Remove Bazel: Phase 1/9](https://github.com/OffchainLabs/prysm/pull/16986#pullrequestreview-4572642836) - 2026-06-25
+* [Review] [Review on: Avoid redundant blob copy in KZG batch verify path](https://github.com/OffchainLabs/prysm/pull/17039#pullrequestreview-4580407778) - 2026-06-26
+* [Review] [Review on: Remove Bazel: Phase 1/9](https://github.com/OffchainLabs/prysm/pull/16986#pullrequestreview-4580805714) - 2026-06-26
+* [Commit] [Fix unbounded growth of engine_exchangeCapabilities requested method list (#17004)](https://github.com/OffchainLabs/prysm/commit/ef29a27420c5b0c429e9cf28a00d25d78c777bb8) - 2026-06-26
 ## Q1 2026
 
 

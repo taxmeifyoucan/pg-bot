@@ -177,6 +177,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Update static tests for EIP-2780/EIP-8038](https://github.com/ethereum/execution-specs/issues/3051) - 2026-06-25
 * [Commit] [fix(test-cli): raise a clear error when `gentest` can't find `ruff` (#3024)](https://github.com/ethereum/execution-specs/commit/3f888bc71f2d30d48b6f5a92c618ab283a6c98d5) - 2026-06-25
 * [Commit] [chore(tooling): clarify state_test preference in write-test skill (#3035)](https://github.com/ethereum/execution-specs/commit/a9cc76b8c1c93459627a6146e419dcb193c12e9d) - 2026-06-25
+* [Review] [Review on: fix(tests): register JSON fixture fork marker](https://github.com/ethereum/execution-specs/pull/3053#pullrequestreview-4577238361) - 2026-06-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 

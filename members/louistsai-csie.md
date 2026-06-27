@@ -153,6 +153,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: chore(tooling): clarify state_test preference in write-test skill](https://github.com/ethereum/execution-specs/pull/3035#pullrequestreview-4567899917) - 2026-06-25
 * [Review] [Review on: refactor(test-tools): Remove `CodeGasMeasure` footgun (stop)](https://github.com/ethereum/execution-specs/pull/3040#pullrequestreview-4567893378) - 2026-06-25
 * [Review] [Review on: chore(test-clients-cli): map ethrex empty-change-set BAL rejection to `INVALID_BLOCK_ACCESS_LIST`](https://github.com/ethereum/execution-specs/pull/3046#pullrequestreview-4567860345) - 2026-06-25
+* [Review] [Review on: fix(tests): register JSON fixture fork marker](https://github.com/ethereum/execution-specs/pull/3053#pullrequestreview-4576846242) - 2026-06-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

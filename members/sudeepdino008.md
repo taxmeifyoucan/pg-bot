@@ -330,6 +330,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [data and indices files experiments](https://github.com/erigontech/erigon/issues/22016) - 2026-06-25
 * [Commit] [db/seg/patricia: remove dead PatriciaTree and MatchFinder1/2/3 (#21998)](https://github.com/erigontech/erigon/commit/0b36c68676dc3cae085fbc43f48cd7efea501a14) - 2026-06-25
 * [Commit] [cmd/integration: remove domain purification (compact_domains) (#22012)](https://github.com/erigontech/erigon/commit/df9c1f144de429a5ab5bbc9d2a0051c314f3eda3) - 2026-06-25
+* [Pull Request] [[r3.4] execution/stagedsync: fix pruning in stage_custom_trace](https://github.com/erigontech/erigon/pull/22051) - 2026-06-26
+* [Pull Request] [[r3.5] execution/stagedsync: fix pruning in stage_custom_trace](https://github.com/erigontech/erigon/pull/22052) - 2026-06-26
+* [Commit] [db/state/statecfg: bump rcache domain kv/.v to v3.1 (#21974) (#22048)](https://github.com/erigontech/erigon/commit/5a651e1a03d842b357d8a53a39d42736b15c8293) - 2026-06-26
+* [Commit] [execution/stagedsync: fix pruning in stage_custom_trace (#22049)](https://github.com/erigontech/erigon/commit/4155fdf41f178f043cc136d2a0e3fe814fec876e) - 2026-06-26
 ## Q1 2026
 
 

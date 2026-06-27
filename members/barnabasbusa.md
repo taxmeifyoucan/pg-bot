@@ -240,6 +240,20 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix(api): guard against divide-by-zero in epoch participation rate](https://github.com/ethpandaops/dora/pull/763#pullrequestreview-4569101285) - 2026-06-25
 * [Commit] [Merge pull request #764 from ethpandaops/bbusa/fix-clients-refresh-page-cache](https://github.com/ethpandaops/dora/commit/c8fa09223a7e395938877892e4cb7f1698a757bd) - 2026-06-25
 * [Commit] [fix(clients): invalidate clients page cache on force refresh](https://github.com/ethpandaops/dora/commit/1a4d43e2ed9249dc7e35f8ccee737d924e5ed4b8) - 2026-06-25
+* [Review] [Review on: EL explorer: compaction + filterable, keyset-paginated views](https://github.com/ethpandaops/dora/pull/768#pullrequestreview-4582918551) - 2026-06-26
+* [Pull Request] [fix(ui): show '-' for execution columns when payload is missing](https://github.com/ethpandaops/dora/pull/769) - 2026-06-26
+* [Pull Request] [feat(index/api): payload participation column + epoch health endpoint](https://github.com/ethpandaops/dora/pull/767) - 2026-06-26
+* [Pull Request] [fix(ui): show missed payload status on blocks view](https://github.com/ethpandaops/dora/pull/766) - 2026-06-26
+* [Commit] [Merge pull request #767 from ethpandaops/bbusa/epoch-payload-participation](https://github.com/ethpandaops/dora/commit/fbca098b178efe932d7a6391d030eeb0c1b18932) - 2026-06-26
+* [Commit] [Revert "style(index): make Voted, Proposals and Payloads columns equal width"](https://github.com/ethpandaops/dora/commit/c5974ef3350f2edec4e17cff0a6527a7bbd833fd) - 2026-06-26
+* [Commit] [style(index): make Voted, Proposals and Payloads columns equal width](https://github.com/ethpandaops/dora/commit/f6cd660ae22f0c20ccb0efabf853fe51ebcd96f7) - 2026-06-26
+* [Commit] [revert(index): keep all epoch participation bars blue](https://github.com/ethpandaops/dora/commit/baf59fe99ef3c35b6f04182d4ca409191883d631) - 2026-06-26
+* [Commit] [feat(index): color Voted and Proposals bars yellow when below 100%](https://github.com/ethpandaops/dora/commit/4ce4a20f9bc3791e4d5106ac2502fe18e76094ff) - 2026-06-26
+* [Commit] [fix(ui): show '-' instead of 0 for payload columns when payload missing](https://github.com/ethpandaops/dora/commit/fbd50b69021a053dd9f92540d992e42f0f8de31a) - 2026-06-26
+* [Commit] [feat(index/api): add payload participation column and epoch health](https://github.com/ethpandaops/dora/commit/eeb817203f8f5f3a29d657b426d1d193968c7587) - 2026-06-26
+* [Commit] [Merge pull request #766 from ethpandaops/bbusa/blocks-missed-payload-status](https://github.com/ethpandaops/dora/commit/93067f1c6d31fe45a14eb186508f82f263ef5459) - 2026-06-26
+* [Commit] [fix(ui): show missed payload status on blocks view](https://github.com/ethpandaops/dora/commit/72acdf7f726b5fdad3d1270a45235fe136575169) - 2026-06-26
+* [Commit] [Merge pull request #765 from ethpandaops/bbusa/compact-builder-link](https://github.com/ethpandaops/dora/commit/2e8360efb3691292732f05bdb43f9cca7f48f31a) - 2026-06-26
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01

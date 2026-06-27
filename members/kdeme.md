@@ -106,6 +106,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: fix branch collapse on nil-vtx surviving child (#4341)](https://github.com/status-im/nimbus-eth1/commit/9ecfeb574076d1bb1ccefaad0d5337be260c6fba) - 2026-06-18
 * [Pull Request] [Bump nim-eth for discv5 improvements](https://github.com/status-im/nimbus-eth1/pull/4363) - 2026-06-25
 * [Commit] [Bump nim-eth for discv5 improvements (#4363)](https://github.com/status-im/nimbus-eth1/commit/71c852e74064985eccb65d82e7f15f110c1c860b) - 2026-06-25
+* [Pull Request] [stateless: validate and use StatelessInput in eest blockchain tests](https://github.com/status-im/nimbus-eth1/pull/4365) - 2026-06-26
+* [Commit] [stateless: validate and use StatelessInput in eest blockchain tests (#4365)](https://github.com/status-im/nimbus-eth1/commit/d4fc3f3a680fe313fd1bb394ce5af231f44a784f) - 2026-06-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Replace historical summary GINDEX constants with get_generalized_index](https://github.com/status-im/nimbus-eth2/pull/8227#pullrequestreview-4074927507) - 2026-04-08
 

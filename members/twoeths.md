@@ -274,6 +274,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Implement Regen Apis](https://github.com/ChainSafe/lodestar-z/issues/408) - 2026-06-15
 * [Issue] [Implement block DB and state DB](https://github.com/ChainSafe/lodestar-z/issues/407) - 2026-06-15
 * [Review] [Review on: feat(bindings): expose more APIs for STF](https://github.com/ChainSafe/lodestar-z/pull/444#pullrequestreview-4560467492) - 2026-06-24
+* [Review] [Review on: fix: remove `slashValidator` gating on active status](https://github.com/ChainSafe/lodestar-z/pull/448#pullrequestreview-4577999365) - 2026-06-26
+* [Review] [Review on: fix: pendingConsolidations bindings](https://github.com/ChainSafe/lodestar-z/pull/449#pullrequestreview-4577976692) - 2026-06-26
 ## Q1 2026
 
 

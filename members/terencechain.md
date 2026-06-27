@@ -336,6 +336,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Add gloas_payload_reveal_outcome_total metric for ePBS payload reveal health](https://github.com/OffchainLabs/prysm/pull/17025#pullrequestreview-4574660831) - 2026-06-25
 * [Commit] [Rebroadcast pending gloas data columns (#17001)](https://github.com/OffchainLabs/prysm/commit/762ee6b8f1f9766b036da55d5393f463c47072ea) - 2026-06-25
 * [Commit] [Dedupe Gloas pending-column downscore to once per peer per root (#17032)](https://github.com/OffchainLabs/prysm/commit/aa9f335a8360a6515dcfcd57eadcc2171c4b1ae7) - 2026-06-25
+* [Pull Request] [Fall back to a cached P2P bid when the local payload is unavailable in Gloas block production](https://github.com/OffchainLabs/prysm/pull/17042) - 2026-06-27
+* [Pull Request] [Split Gloas and pre-Gloas block production into separate paths](https://github.com/OffchainLabs/prysm/pull/17040) - 2026-06-26
+* [Commit] [Split Gloas and pre-Gloas block production into separate paths (#17040)](https://github.com/OffchainLabs/prysm/commit/91866bb4bea38424f5479cdb98270511a169c8b8) - 2026-06-26
+* [Commit] [Batch verify builder deposit request signatures (#17031)](https://github.com/OffchainLabs/prysm/commit/82e66e24cde4be38aae17c019fa2899b8e7e6401) - 2026-06-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

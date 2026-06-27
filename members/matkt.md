@@ -136,6 +136,11 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: snap/2 - apply BALs to all persisted ranges immediately on pivot change](https://github.com/besu-eth/besu/pull/10628#pullrequestreview-4562265454) - 2026-06-24
 * [Review] [Review on: fix(engine): cache world state after rememberBlock](https://github.com/besu-eth/besu/pull/10690#pullrequestreview-4559486783) - 2026-06-24
 * [Review] [Review on: Glamsterdam devnet 6: eth_config fixes](https://github.com/besu-eth/besu/pull/10706#pullrequestreview-4570575613) - 2026-06-25
+* [Review] [Review on: avoid redundant bytecode copy on the CALL/CALLCODE hot path](https://github.com/besu-eth/besu/pull/10573#pullrequestreview-4579682756) - 2026-06-26
+* [Review] [Review on: Set testing_buildBlockV1 coinbase to suggestedFeeRecipient](https://github.com/besu-eth/besu/pull/10711#pullrequestreview-4578623542) - 2026-06-26
+* [Pull Request] [fix bal hash naming in block header result](https://github.com/besu-eth/besu/pull/10712) - 2026-06-26
+* [Review] [Review on: Set testing_buildBlockV1 coinbase to suggestedFeeRecipient](https://github.com/besu-eth/besu/pull/10710#pullrequestreview-4577152727) - 2026-06-26
+* [Commit] [auto detection for max open files (#10629)](https://github.com/besu-eth/besu/commit/da1ec8d15fe2cf91401f7083408fd5690f379882) - 2026-06-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

@@ -77,6 +77,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [[Glamsterdam] Proposer preferences beacon API](https://github.com/grandinetech/grandine/issues/770) - 2026-06-24
 * [Issue] [[Glamsterdam] Staked Builder API](https://github.com/grandinetech/grandine/issues/769) - 2026-06-24
 * [Pull Request] [Request payload envelope after block imported](https://github.com/grandinetech/grandine/pull/773) - 2026-06-25
+* [Pull Request] [Check payload timely within current slot](https://github.com/grandinetech/grandine/pull/778) - 2026-06-26
+* [Pull Request] [Update attesting balances to the last finalized block](https://github.com/grandinetech/grandine/pull/777) - 2026-06-26
+* [Review] [Review on: Update fork choice head selection logic](https://github.com/grandinetech/grandine/pull/776#pullrequestreview-4577734997) - 2026-06-26
 ## Q1 2026
 
 

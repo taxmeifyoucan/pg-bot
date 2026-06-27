@@ -131,6 +131,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state: fix unwind restoring stale values across step boundaries](https://github.com/erigontech/erigon/pull/21981#pullrequestreview-4560247912) - 2026-06-24
 * [Pull Request] [db/snapshotsync: fix race between concurrent merge and index build](https://github.com/erigontech/erigon/pull/22045) - 2026-06-25
 * [Review] [Review on: cmd/bumper: fix rename include/exclude ext filter and drop non-renamable fields](https://github.com/erigontech/erigon/pull/22018#pullrequestreview-4573563914) - 2026-06-25
+* [Review] [Review on: [r3.4] execution/stagedsync: fix pruning in stage_custom_trace](https://github.com/erigontech/erigon/pull/22051#pullrequestreview-4578499055) - 2026-06-26
 ## Q1 2026
 
 

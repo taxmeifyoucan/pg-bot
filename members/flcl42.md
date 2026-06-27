@@ -245,6 +245,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Switch to struct RLP reader/writer (#12011)](https://github.com/NethermindEth/nethermind/commit/d10c5740636396f430597a38eb21c99917436666) - 2026-06-24
 * [Review] [Review on: Tone down RLP limit logging](https://github.com/NethermindEth/nethermind/pull/12130#pullrequestreview-4568887840) - 2026-06-25
 * [Commit] [Tone down RLP limit logging (#12130)](https://github.com/NethermindEth/nethermind/commit/06ee3ed5c124597f5d15ebd96ea89154b7c38030) - 2026-06-25
+* [Pull Request] [Enable foundation nullables](https://github.com/NethermindEth/nethermind/pull/12155) - 2026-06-26
+* [Review] [Review on: Warmup improvement](https://github.com/NethermindEth/nethermind/pull/10652#pullrequestreview-4582866424) - 2026-06-26
+* [Pull Request] [Fix EraE export for pure PoS genesis blocks](https://github.com/NethermindEth/nethermind/pull/12154) - 2026-06-26
+* [Review] [Review on: AuRa: move finalization manager and terminal-block disposer to DI](https://github.com/NethermindEth/nethermind/pull/12036#pullrequestreview-4577716768) - 2026-06-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

@@ -190,6 +190,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [feat(bindings): expose more APIs for STF (#444)](https://github.com/ChainSafe/lodestar-z/commit/7fe260909a0ff75d34176a761029dbb55fa09c48) - 2026-06-24
 * [Pull Request] [fix(epoch_cache): compute missing `next_proposers`](https://github.com/ChainSafe/lodestar-z/pull/447) - 2026-06-25
 * [Commit] [fix(epoch_cache): compute missing `next_proposers` (#447)](https://github.com/ChainSafe/lodestar-z/commit/0088a2988d7712a38d470a617fdaab1ea0ae7736) - 2026-06-25
+* [Pull Request] [fix: remove `slashValidator` gating on active status](https://github.com/ChainSafe/lodestar-z/pull/448) - 2026-06-26
+* [Pull Request] [fix: dangling state pointer in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/450) - 2026-06-26
+* [Pull Request] [fix: pendingConsolidations bindings](https://github.com/ChainSafe/lodestar-z/pull/449) - 2026-06-26
+* [Commit] [fix: remove `slashValidator` gating on active status (#448)](https://github.com/ChainSafe/lodestar-z/commit/d319a0d2dbd2fa52ddc75b17eefda71e23c03b2f) - 2026-06-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 
