@@ -169,6 +169,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Pass only signed bid to `process_execution_payload_bid`](https://github.com/ethereum/consensus-specs/pull/5364#pullrequestreview-4515084859) - 2026-06-17
 * [Commit] [Reject bids with invalid `prev_randao` during gossip validation (#5360)](https://github.com/ethereum/consensus-specs/commit/3d1b63f7c2b8dc1d4600f156d5fb9d9572c5ca5e) - 2026-06-17
 * [Commit] [Pass only signed bid to `process_execution_payload_bid` (#5364)](https://github.com/ethereum/consensus-specs/commit/ef10f6e90bb5e380ce7696d1a3c11972a4c55a5e) - 2026-06-17
+* [Pull Request] [Change `BUILDER_INDEX_FLAG` to 2^63](https://github.com/ethereum/consensus-specs/pull/5402) - 2026-06-27
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117) - 2026-04-13
 * [Commit] [Automatically update gitsubmodules (#4117)](https://github.com/status-im/nimbus-eth1/commit/172deeff4e275426266d7fb1ca346b828442e92e) - 2026-04-13

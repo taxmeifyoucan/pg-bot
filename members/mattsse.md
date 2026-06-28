@@ -718,6 +718,7 @@ Team: Reth
 * [Review] [Review on: feat(node): add optional latency tokio runtime for sendRaw path](https://github.com/paradigmxyz/reth/pull/25745#pullrequestreview-4578731279) - 2026-06-26
 * [Review] [Review on: feat(net): add dedicated eth + snap/2 stream](https://github.com/paradigmxyz/reth/pull/25752#pullrequestreview-4578935405) - 2026-06-26
 * [Commit] [docs(evm): fix executable tx iterator docs (#25787)](https://github.com/paradigmxyz/reth/commit/790a3b3d0e0335360bccd7dbb4b7900c6daeb8b7) - 2026-06-26
+* [Review] [Review on: fix(clippy): address nightly lints](https://github.com/paradigmxyz/reth/pull/25829#pullrequestreview-4584914705) - 2026-06-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

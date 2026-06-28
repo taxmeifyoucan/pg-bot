@@ -432,6 +432,9 @@ Team: Reth
 * [Review] [Review on: fix: gate reth jit helper call](https://github.com/paradigmxyz/reth/pull/25413#pullrequestreview-4524470651) - 2026-06-18
 * [Review] [Review on: chore: add rkrasiuk bench Slack mapping](https://github.com/paradigmxyz/reth/pull/25468#pullrequestreview-4533492142) - 2026-06-19
 * [Review] [Review on: fix(rpc): use effective tx gas cap for estimates](https://github.com/paradigmxyz/reth/pull/25612#pullrequestreview-4548157970) - 2026-06-22
+* [Review] [Review on: ci: install m4 for bench builds](https://github.com/paradigmxyz/reth/pull/25834#pullrequestreview-4585622963) - 2026-06-27
+* [Review] [Review on: feat: enable gmp by default](https://github.com/paradigmxyz/reth/pull/25512#pullrequestreview-4584919237) - 2026-06-27
+* [Review] [Review on: fix(clippy): address nightly lints](https://github.com/paradigmxyz/reth/pull/25829#pullrequestreview-4584888203) - 2026-06-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

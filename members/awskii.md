@@ -235,6 +235,8 @@ Team: Erigon
 * [Commit] [cl: log Caplin backward-sync roots as hex (#22015)](https://github.com/erigontech/erigon/commit/41b5461da98705c7ba419a4cf6cce41be87f01c9) - 2026-06-25
 * [Commit] [execution/commitment: remove ConcurrentHexPatriciaTrie PoC (#22004)](https://github.com/erigontech/erigon/commit/4b0599997bd1f70524fce7409c7226c68143d094) - 2026-06-25
 * [Commit] [rpc/jsonrpc: report the limit in `eth_getLogs` filter-size errors (#22014)](https://github.com/erigontech/erigon/commit/19f1f0ecae9c55b59971998f0bd26a70575873a2) - 2026-06-25
+* [Pull Request] [execution/commitment: build execution witness on-the-fly during fold (replace toWitnessTrie)](https://github.com/erigontech/erigon/pull/22077) - 2026-06-28
+* [Commit] [execution/commitment: remove inert parallel-commitment warmup; refresh design doc (#22042)](https://github.com/erigontech/erigon/commit/d879b3b65323a8599a08b4e37ca63e7139e4ea92) - 2026-06-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

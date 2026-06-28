@@ -145,6 +145,8 @@ Team: Erigon
 * [Review] [Review on: execution/stagedsync: fix parallel-exec "limit" log underflow](https://github.com/erigontech/erigon/pull/21953#pullrequestreview-4550479055) - 2026-06-23
 * [Review] [Review on: deps: bump mdbx-go to 744fccaa (libmdbx 0.14.3) for CI validation](https://github.com/erigontech/erigon/pull/21964#pullrequestreview-4559519739) - 2026-06-24
 * [Review] [Review on: ChangeLog: reformat version headers and update 3.5.0 release notes](https://github.com/erigontech/erigon/pull/22044#pullrequestreview-4578599288) - 2026-06-26
+* [Review] [Review on: common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs()](https://github.com/erigontech/erigon/pull/22075#pullrequestreview-4586835045) - 2026-06-28
+* [Review] [Review on: common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs()](https://github.com/erigontech/erigon/pull/22076#pullrequestreview-4586834952) - 2026-06-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

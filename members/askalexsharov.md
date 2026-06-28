@@ -878,6 +878,15 @@ Team: Erigon
 * [Review] [Review on: [r3.4] execution/stagedsync: fix pruning in stage_custom_trace](https://github.com/erigontech/erigon/pull/22051#pullrequestreview-4579380182) - 2026-06-26
 * [Review] [Review on: [r3.5] execution/stagedsync: fix pruning in stage_custom_trace](https://github.com/erigontech/erigon/pull/22052#pullrequestreview-4579374819) - 2026-06-26
 * [Review] [Review on: execution/stagedsync: fix pruning in stage_custom_trace](https://github.com/erigontech/erigon/pull/22049#pullrequestreview-4578249392) - 2026-06-26
+* [Pull Request] [common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs()](https://github.com/erigontech/erigon/pull/22075) - 2026-06-28
+* [Pull Request] [common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs()](https://github.com/erigontech/erigon/pull/22076) - 2026-06-28
+* [Pull Request] [[wip] common/dbg, db: finalizer-based leak detection for unclosed resources](https://github.com/erigontech/erigon/pull/22074) - 2026-06-27
+* [Review] [Review on: [r3.5] rpc: remove state history check from block-data-only endpoints](https://github.com/erigontech/erigon/pull/22073#pullrequestreview-4585144190) - 2026-06-27
+* [Pull Request] [db/seg, db/state: optional separate-mmap merge readahead, off when commitment files are referenced](https://github.com/erigontech/erigon/pull/22072) - 2026-06-27
+* [Review] [Review on: db/seg, db/state: optional separate-mmap merge readahead, off when commitment files are referenced](https://github.com/erigontech/erigon/pull/22072#pullrequestreview-4584199606) - 2026-06-27
+* [Pull Request] [Revert "db/snapshotsync/freezeblocks: run blocks snapshot merge off the shared build semaphore"](https://github.com/erigontech/erigon/pull/22071) - 2026-06-27
+* [Review] [Review on: execution/commitment: remove inert parallel-commitment warmup; refresh design doc](https://github.com/erigontech/erigon/pull/22042#pullrequestreview-4583851449) - 2026-06-27
+* [Commit] [Revert "db/snapshotsync/freezeblocks: run blocks snapshot merge off the shared build semaphore" (#22071)](https://github.com/erigontech/erigon/commit/9c55a752be115aff1dd931f0bb302d65703310ab) - 2026-06-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

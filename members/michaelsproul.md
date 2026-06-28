@@ -143,6 +143,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix transient bug in `dequeue_attestation` and optimization](https://github.com/sigp/lighthouse/pull/9524#pullrequestreview-4567138104) - 2026-06-25
 * [Pull Request] [Remove redundant `is_gloas` checks in reorg tests](https://github.com/sigp/lighthouse/pull/9529) - 2026-06-24
 * [Review] [Review on: Add payload_attestations test in op pool](https://github.com/sigp/lighthouse/pull/9531#pullrequestreview-4568030287) - 2026-06-25
+* [Review] [Review on: Gloas alpha spec 11](https://github.com/sigp/lighthouse/pull/9511#pullrequestreview-4585127065) - 2026-06-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

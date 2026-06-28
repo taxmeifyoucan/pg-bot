@@ -93,6 +93,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Only allow skipping pre-execution BAL check for finalized blocks](https://github.com/status-im/nimbus-eth1/pull/4361) - 2026-06-25
 * [Commit] [Return blockAccessListHash with block header in RPC APIs (#4262)](https://github.com/status-im/nimbus-eth1/commit/34eb22e58d892d58fadf8d43ee979345d8da5c08) - 2026-06-25
 * [Commit] [Fetch BALs when syncing (#4362)](https://github.com/status-im/nimbus-eth1/commit/a900641b46c79a9df962d0f9d8575c88b5edad04) - 2026-06-26
+* [Pull Request] [Add precompile result caching / memoization](https://github.com/status-im/nimbus-eth1/pull/4366) - 2026-06-27
 ## Q1 2026
 
 

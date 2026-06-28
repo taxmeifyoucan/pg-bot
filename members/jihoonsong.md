@@ -126,6 +126,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Use backticks for FCU](https://github.com/ethereum/execution-apis/pull/833) - 2026-06-19
 * [Commit] [Remove redundant specifications for forkchoiceUpdatedV3+ (#834)](https://github.com/ethereum/execution-apis/commit/bc78fe05591798c4f6e3f2660fda1447e709de8c) - 2026-06-19
 * [Commit] [Use backticks for FCU (#833)](https://github.com/ethereum/execution-apis/commit/00ca4be81bc58328d49b85e01108bddfff034faa) - 2026-06-19
+* [Pull Request] [Update Amsterdam ToC](https://github.com/ethereum/execution-apis/pull/837) - 2026-06-27
 ## Q1 2026
 
 

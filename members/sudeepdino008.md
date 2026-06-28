@@ -334,6 +334,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.5] execution/stagedsync: fix pruning in stage_custom_trace](https://github.com/erigontech/erigon/pull/22052) - 2026-06-26
 * [Commit] [db/state/statecfg: bump rcache domain kv/.v to v3.1 (#21974) (#22048)](https://github.com/erigontech/erigon/commit/5a651e1a03d842b357d8a53a39d42736b15c8293) - 2026-06-26
 * [Commit] [execution/stagedsync: fix pruning in stage_custom_trace (#22049)](https://github.com/erigontech/erigon/commit/4155fdf41f178f043cc136d2a0e3fe814fec876e) - 2026-06-26
+* [Review] [Review on: db/seg, db/state: optional separate-mmap merge readahead, off when commitment files are referenced](https://github.com/erigontech/erigon/pull/22072#pullrequestreview-4584034665) - 2026-06-27
+* [Review] [Review on: Revert "db/snapshotsync/freezeblocks: run blocks snapshot merge off the shared build semaphore"](https://github.com/erigontech/erigon/pull/22071#pullrequestreview-4584071643) - 2026-06-27
 ## Q1 2026
 
 

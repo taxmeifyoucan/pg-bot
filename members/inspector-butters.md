@@ -83,6 +83,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [Revert "partial rebuilds for beacon state HTR"](https://github.com/OffchainLabs/prysm/pull/17033) - 2026-06-25
 * [Pull Request] [Eip 7688](https://github.com/OffchainLabs/prysm/pull/17041) - 2026-06-26
 * [Commit] [hot state db for state diff (#16808)](https://github.com/OffchainLabs/prysm/commit/d78105418e9dc7b579b06e6a7d26c44ba0ede920) - 2026-06-26
+* [Review] [Review on: Fall back to a cached P2P bid when the local payload is unavailable in Gloas block production](https://github.com/OffchainLabs/prysm/pull/17042#pullrequestreview-4584236062) - 2026-06-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Aarsh Shah from Prysm](https://github.com/protocolguild/documentation/pull/486#pullrequestreview-4085642818) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4090496435) - 2026-04-10

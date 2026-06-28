@@ -494,6 +494,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat(STF): implement Gloas Fork ](https://github.com/ChainSafe/lodestar-z/pull/303#pullrequestreview-4069436254) - 2026-04-07
 
+* [Review] [Review on: chore: update spec test version to v1.7.0-alpha.11](https://github.com/ChainSafe/lodestar-z/pull/451#pullrequestreview-4584966795) - 2026-06-27
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796) - 2026-05-11
 * [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4266294777) - 2026-05-11

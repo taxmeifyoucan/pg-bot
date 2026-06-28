@@ -224,6 +224,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [QA: update disabled List on rpcTest](https://github.com/erigontech/erigon/pull/22070) - 2026-06-26
 * [Review] [Review on: ChangeLog: reformat version headers and update 3.5.0 release notes](https://github.com/erigontech/erigon/pull/22044#pullrequestreview-4582392598) - 2026-06-26
 * [Review] [Review on: docs(graphql): rephrase GraphQL introduction](https://github.com/erigontech/erigon/pull/22040#pullrequestreview-4582438038) - 2026-06-26
+* [Commit] [rpc: impl eth fill transaction (#21870)](https://github.com/erigontech/erigon/commit/aa8dcebcda431124ca74a095314aa1d990d7289d) - 2026-06-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
