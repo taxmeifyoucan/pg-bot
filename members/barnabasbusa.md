@@ -255,6 +255,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(ui): show missed payload status on blocks view](https://github.com/ethpandaops/dora/commit/72acdf7f726b5fdad3d1270a45235fe136575169) - 2026-06-26
 * [Commit] [Merge pull request #765 from ethpandaops/bbusa/compact-builder-link](https://github.com/ethpandaops/dora/commit/2e8360efb3691292732f05bdb43f9cca7f48f31a) - 2026-06-26
 * [Review] [Review on: fix synchronizer with missing block payload](https://github.com/ethpandaops/dora/pull/771#pullrequestreview-4584466711) - 2026-06-27
+* [Review] [Review on: fix system contract queued tx matcher for post-gloas behavior](https://github.com/ethpandaops/dora/pull/772#pullrequestreview-4587227623) - 2026-06-28
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01

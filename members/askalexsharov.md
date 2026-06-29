@@ -887,6 +887,7 @@ Team: Erigon
 * [Pull Request] [Revert "db/snapshotsync/freezeblocks: run blocks snapshot merge off the shared build semaphore"](https://github.com/erigontech/erigon/pull/22071) - 2026-06-27
 * [Review] [Review on: execution/commitment: remove inert parallel-commitment warmup; refresh design doc](https://github.com/erigontech/erigon/pull/22042#pullrequestreview-4583851449) - 2026-06-27
 * [Commit] [Revert "db/snapshotsync/freezeblocks: run blocks snapshot merge off the shared build semaphore" (#22071)](https://github.com/erigontech/erigon/commit/9c55a752be115aff1dd931f0bb302d65703310ab) - 2026-06-27
+* [Pull Request] [[wip] db/kv/mdbx: recover from SafeNoSync shutdown on Accede open failure](https://github.com/erigontech/erigon/pull/22080) - 2026-06-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

@@ -435,6 +435,9 @@ Team: Reth
 * [Review] [Review on: ci: install m4 for bench builds](https://github.com/paradigmxyz/reth/pull/25834#pullrequestreview-4585622963) - 2026-06-27
 * [Review] [Review on: feat: enable gmp by default](https://github.com/paradigmxyz/reth/pull/25512#pullrequestreview-4584919237) - 2026-06-27
 * [Review] [Review on: fix(clippy): address nightly lints](https://github.com/paradigmxyz/reth/pull/25829#pullrequestreview-4584888203) - 2026-06-27
+* [Review] [Review on: chore: bump vergen to v10](https://github.com/paradigmxyz/reth/pull/25864#pullrequestreview-4587219234) - 2026-06-28
+* [Review] [Review on: chore(ci): replace stale AI Slack alert mention](https://github.com/paradigmxyz/reth/pull/25856#pullrequestreview-4587077859) - 2026-06-28
+* [Review] [Review on: fix(docker): include LICENSES in Docker build context](https://github.com/paradigmxyz/reth/pull/25855#pullrequestreview-4587085345) - 2026-06-28
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

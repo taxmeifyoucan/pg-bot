@@ -126,6 +126,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: refactor marking fields as dirty](https://github.com/OffchainLabs/prysm/pull/17026#pullrequestreview-4570164757) - 2026-06-25
 * [Issue] [Prysm involuntarily drops attestations](https://github.com/OffchainLabs/prysm/issues/17035) - 2026-06-25
 * [Review] [Review on: Remove Bazel: Phase 1/9](https://github.com/OffchainLabs/prysm/pull/16986#pullrequestreview-4578513128) - 2026-06-26
+* [Review] [Review on: Remove Bazel: Phase 1/9](https://github.com/OffchainLabs/prysm/pull/16986#pullrequestreview-4588166535) - 2026-06-28
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

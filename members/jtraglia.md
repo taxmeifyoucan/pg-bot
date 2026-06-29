@@ -421,6 +421,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Replace prose with `get_signed_proposer_preferences` function](https://github.com/ethereum/consensus-specs/pull/5396#pullrequestreview-4571513051) - 2026-06-25
 * [Review] [Review on: Fix various nits](https://github.com/ethereum/consensus-specs/pull/5395#pullrequestreview-4571405140) - 2026-06-25
 * [Commit] [Replace prose with `get_signed_proposer_preferences` function (#5396)](https://github.com/ethereum/consensus-specs/commit/99cc40f9317a15ea185690cee6095297fc571dda) - 2026-06-25
+* [Pull Request] [Link EIPs with github permalinks for upgrades under development](https://github.com/ethereum/consensus-specs/pull/5404) - 2026-06-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

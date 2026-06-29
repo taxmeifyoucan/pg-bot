@@ -341,6 +341,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: remove code duplication from gasCreate/gasCreate2 for EIP-8037 (#22037)](https://github.com/erigontech/erigon/commit/d68f41634cd53ae0fe906168dc0669dbe82db79c) - 2026-06-25
 * [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-8038 state-access gas cost update](https://github.com/erigontech/erigon/pull/22060) - 2026-06-26
 * [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-2780 resource-based intrinsic transaction gas](https://github.com/erigontech/erigon/pull/22053) - 2026-06-26
+* [Review] [Review on: execution: activate EIP-1283 for the Constantinople test fork](https://github.com/erigontech/erigon/pull/22059#pullrequestreview-4588610990) - 2026-06-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

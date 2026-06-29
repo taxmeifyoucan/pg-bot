@@ -346,6 +346,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [chore: delete orphaned TransactionSmartContractPermissioningControllerTest fixtures](https://github.com/besu-eth/besu/pull/10704) - 2026-06-25
 * [Review] [Review on: Additional logging when QBFT validator contract fails](https://github.com/besu-eth/besu/pull/10705#pullrequestreview-4568441352) - 2026-06-25
 * [Commit] [chore: delete orphaned TransactionSmartContractPermissioningControllerTest fixtures (#10704)](https://github.com/besu-eth/besu/commit/ce5c487ae8ad43f04cc79404e19d4abf221a46c6) - 2026-06-25
+* [Commit] [chore(pow-removal): remove vestigial ethash{} from genesis files (#10703)](https://github.com/besu-eth/besu/commit/ae1e10f09dbca74be48d7e5e09e5703f903e8314) - 2026-06-29
+* [Commit] [upgrade netty to 4.2.15.Final (#10693)](https://github.com/besu-eth/besu/commit/3c42c49e5646a6a566fdc01d1e4218ac6554f7ce) - 2026-06-28
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: fix: resend original WHOAREYOU during handshake retransmissions](https://github.com/Consensys/discovery/pull/219#pullrequestreview-4158738563) - 2026-04-23
 

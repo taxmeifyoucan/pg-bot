@@ -104,6 +104,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Enabled blobdb on new db only](https://github.com/Consensys/teku/pull/10900) - 2026-06-25
 * [Review] [Review on: Enabled blobdb on new db only](https://github.com/Consensys/teku/pull/10900#pullrequestreview-4575773842) - 2026-06-25
 * [Commit] [Enabled blobdb on new db only (#10900)](https://github.com/Consensys/teku/commit/3255b626084d36147a4867ff7cde4467382d512d) - 2026-06-26
+* [Issue] [implement executable gossip validation functions for gloas](https://github.com/Consensys/teku/issues/10910) - 2026-06-29
 ## Q1 2026
 
 

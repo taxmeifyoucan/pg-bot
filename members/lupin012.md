@@ -225,6 +225,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: ChangeLog: reformat version headers and update 3.5.0 release notes](https://github.com/erigontech/erigon/pull/22044#pullrequestreview-4582392598) - 2026-06-26
 * [Review] [Review on: docs(graphql): rephrase GraphQL introduction](https://github.com/erigontech/erigon/pull/22040#pullrequestreview-4582438038) - 2026-06-26
 * [Commit] [rpc: impl eth fill transaction (#21870)](https://github.com/erigontech/erigon/commit/aa8dcebcda431124ca74a095314aa1d990d7289d) - 2026-06-27
+* [Pull Request] [rpc: fix trace result field written on exec error](https://github.com/erigontech/erigon/pull/22082) - 2026-06-28
+* [Review] [Review on: [SharovBot] rpc: use overlay tx in FillTransaction to fix flaky test on latest block](https://github.com/erigontech/erigon/pull/22078#pullrequestreview-4587124671) - 2026-06-28
+* [Commit] [rpc: add withdrawal balance diffs to trace_block and trace_replayBlockTransactions (#21592)](https://github.com/erigontech/erigon/commit/fa5dc90d611a95f9febae449cbe57335e3f59aaf) - 2026-06-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -290,6 +293,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix debug_traceBlockByNumber with error (#580)](https://github.com/erigontech/rpc-tests/commit/efc553cac8dd27854038c4ae2ac20d9f5f5bb80d) - 2026-06-21
 * [Pull Request] [integration_test: trace_block() and erigon_getLatestLog() with bn as hex](https://github.com/erigontech/rpc-tests/pull/581) - 2026-06-24
 * [Commit] [add test eth_fillTransaction (#578)](https://github.com/erigontech/rpc-tests/commit/fb0b9a68ef5ba6080c76ef4e293e2f2ea60f1db1) - 2026-06-26
+* [Pull Request] [integration_test: fix debug trace null result](https://github.com/erigontech/rpc-tests/pull/582) - 2026-06-28
+* [Commit] [add extra note (#566)](https://github.com/erigontech/rpc-tests/commit/b530116586401418eecfc0eb93ecc7c7579c464a) - 2026-06-28
+* [Commit] [add test with new config (#569)](https://github.com/erigontech/rpc-tests/commit/dad3785dd5ddeea68f9b615a2225f28407fde536) - 2026-06-28
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators/graphql: pass HIVE_CANCUN_TIMESTAMP to client and fix test expectations](https://github.com/ethereum/hive/pull/1533) - 2026-06-08
 * [Pull Request] [GraphQL: erigon allow unprotected txs when GraphQL is enabled](https://github.com/ethereum/hive/pull/1539) - 2026-06-09

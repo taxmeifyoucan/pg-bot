@@ -127,6 +127,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: glamsterdam-devnet-6 (v1.7.0-alpha.11)](https://github.com/Consensys/teku/pull/10848#pullrequestreview-4560213247) - 2026-06-24
 * [Commit] [ExecutionRequestsDataCodec in SpecLogic + `DataStructureUtil` clean-up (#10893)](https://github.com/Consensys/teku/commit/5fa65c2359a83e34db2d1b9211e3b1525b111782) - 2026-06-24
 * [Commit] [glamsterdam-devnet-6 (v1.7.0-alpha.11) (#10848)](https://github.com/Consensys/teku/commit/2dcc454c256bb02964e890ca5ba50aa55d9e2768) - 2026-06-24
+* [Pull Request] [Staked Builder API Implementation Plan](https://github.com/Consensys/teku/pull/10909) - 2026-06-28
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Fix ConnectionClosedException propagating uncaught to Netty event loop](https://github.com/libp2p/jvm-libp2p/pull/455#pullrequestreview-4139856699) - 2026-04-20
 * [Review] [Review on: Update dependencies](https://github.com/libp2p/jvm-libp2p/pull/459#pullrequestreview-4153533557) - 2026-04-22
