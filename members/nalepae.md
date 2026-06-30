@@ -127,6 +127,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Prysm involuntarily drops attestations](https://github.com/OffchainLabs/prysm/issues/17035) - 2026-06-25
 * [Review] [Review on: Remove Bazel: Phase 1/9](https://github.com/OffchainLabs/prysm/pull/16986#pullrequestreview-4578513128) - 2026-06-26
 * [Review] [Review on: Remove Bazel: Phase 1/9](https://github.com/OffchainLabs/prysm/pull/16986#pullrequestreview-4588166535) - 2026-06-28
+* [Pull Request] [Check if Bazel generated `.pb.go` and `.ssz.go` would have outputed (almost) the same result.](https://github.com/OffchainLabs/prysm/pull/17056) - 2026-06-29
+* [Review] [Review on: beacon state fields partial rebuild](https://github.com/OffchainLabs/prysm/pull/17018#pullrequestreview-4590744083) - 2026-06-29
+* [Commit] [Remove Bazel: Phase 1/9 (#16986)](https://github.com/OffchainLabs/prysm/commit/40b91ebf21db413e13284de4c1df2301bdf645a7) - 2026-06-29
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

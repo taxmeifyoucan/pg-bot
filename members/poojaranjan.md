@@ -37,6 +37,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #101, June 09, 2026](https://github.com/ethereum/pm/issues/2108) - 2026-06-05
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #102, June 16, 2026](https://github.com/ethereum/pm/issues/2123) - 2026-06-16
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #103, June 23, 2026](https://github.com/ethereum/pm/issues/2134) - 2026-06-22
+* [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #104, June 30, 2026](https://github.com/ethereum/pm/issues/2143) - 2026-06-29
 ## Q1 2026
 
 

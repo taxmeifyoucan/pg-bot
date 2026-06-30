@@ -128,6 +128,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Don't request data columns for empty slots in initial sync (#16976)](https://github.com/OffchainLabs/prysm/commit/9fa2c6b07a07314eea30544634b3ae880630fd4b) - 2026-06-22
 * [Commit] [Bound data-column availability wait during batch sync (#16978)](https://github.com/OffchainLabs/prysm/commit/eed73f920b33a247e2d33ba141db51d15e09aaab) - 2026-06-22
 * [Commit] [Recover Payload insertion (#16981)](https://github.com/OffchainLabs/prysm/commit/a44548fc12f5fb706815adebf925569fe187c947) - 2026-06-22
+* [Pull Request] [Add Read Only interface to next slot state cache](https://github.com/OffchainLabs/prysm/pull/17055) - 2026-06-29
+* [Review] [Review on: Ignore unverifiable execution payload bids on gossip instead of rejecting](https://github.com/OffchainLabs/prysm/pull/17044#pullrequestreview-4591344962) - 2026-06-29
+* [Pull Request] [Don't request pre-Gloas payload](https://github.com/OffchainLabs/prysm/pull/17049) - 2026-06-29
+* [Review] [Review on: Avoid slice clone when only counting consensus children in forkchoice](https://github.com/OffchainLabs/prysm/pull/17048#pullrequestreview-4591664812) - 2026-06-29
+* [Commit] [Add Read Only interface to next slot state cache (#17055)](https://github.com/OffchainLabs/prysm/commit/1a69f62be1c140bfbb8c0ffe82a270267910109e) - 2026-06-30
+* [Commit] [Don't request pre-Gloas payload (#17049)](https://github.com/OffchainLabs/prysm/commit/912f01914945e0a85aad08e5d2b3ad7b7ea9869f) - 2026-06-29
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

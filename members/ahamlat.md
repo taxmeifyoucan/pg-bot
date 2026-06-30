@@ -70,6 +70,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: auto detection for max open files](https://github.com/besu-eth/besu/pull/10629#pullrequestreview-4504635177) - 2026-06-16
 * [Review] [Review on: remove used futures for parallel execution](https://github.com/besu-eth/besu/pull/10551#pullrequestreview-4579879392) - 2026-06-26
 * [Review] [Review on: avoid redundant bytecode copy on the CALL/CALLCODE hot path](https://github.com/besu-eth/besu/pull/10573#pullrequestreview-4579948647) - 2026-06-26
+* [Review] [Review on: Fix LayeredKeyValueStorage.isClosed() duplicated execution](https://github.com/besu-eth/besu/pull/10719#pullrequestreview-4593089428) - 2026-06-29
+* [Commit] [avoid redundant bytecode copy on the CALL/CALLCODE hot path (#10573)](https://github.com/besu-eth/besu/commit/6b3ff84240d647057392cad04eaf82d5183784e6) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4088137953) - 2026-04-10
 ## Q1 2026

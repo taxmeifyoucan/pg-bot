@@ -341,6 +341,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Split Gloas and pre-Gloas block production into separate paths (#17040)](https://github.com/OffchainLabs/prysm/commit/91866bb4bea38424f5479cdb98270511a169c8b8) - 2026-06-26
 * [Commit] [Batch verify builder deposit request signatures (#17031)](https://github.com/OffchainLabs/prysm/commit/82e66e24cde4be38aae17c019fa2899b8e7e6401) - 2026-06-26
 * [Pull Request] [Ignore unverifiable execution payload bids on gossip instead of rejecting](https://github.com/OffchainLabs/prysm/pull/17044) - 2026-06-29
+* [Review] [Review on: Add Read Only interface to next slot state cache](https://github.com/OffchainLabs/prysm/pull/17055#pullrequestreview-4595671372) - 2026-06-29
+* [Pull Request] [Request a block's unknown parent by root on gossip arrival](https://github.com/OffchainLabs/prysm/pull/17057) - 2026-06-29
+* [Review] [Review on: Proactively request missing payload envelope at payload-due deadline](https://github.com/OffchainLabs/prysm/pull/16904#pullrequestreview-4594941792) - 2026-06-29
+* [Pull Request] [Move peer-scoring of invalid block signatures to gossip caller](https://github.com/OffchainLabs/prysm/pull/17052) - 2026-06-29
+* [Review] [Review on: Don't request pre-Gloas payload](https://github.com/OffchainLabs/prysm/pull/17049#pullrequestreview-4592237598) - 2026-06-29
+* [Commit] [Fall back to a cached P2P bid when the local payload is unavailable in Gloas block production (#17042)](https://github.com/OffchainLabs/prysm/commit/4a25b18b4ad1451214b1250f96986c7d84161831) - 2026-06-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

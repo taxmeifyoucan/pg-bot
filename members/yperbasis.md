@@ -844,6 +844,24 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [prune: add human-readable aliases for --prune.distance.blocks sentinels (instead of raw MaxUint64 values)](https://github.com/erigontech/erigon/issues/22055) - 2026-06-26
 * [Issue] [Parallel exec: commitment "empty branch data during unfold" on reorg/unwind-to-genesis (Hive consensus UncleFromSideChain_Cancun)](https://github.com/erigontech/erigon/issues/22056) - 2026-06-26
 * [Commit] [ChangeLog: reformat version headers and update 3.5.0 release notes (#22044)](https://github.com/erigontech/erigon/commit/bf63430dc4b207cb6fde9941f950b6a4a21c38d6) - 2026-06-26
+* [Review] [Review on: execution/stagedsync: checkpoint commitment at step boundaries in parallel exec](https://github.com/erigontech/erigon/pull/22092#pullrequestreview-4590961181) - 2026-06-29
+* [Review] [Review on: rpc: fix trace result field written on exec error](https://github.com/erigontech/erigon/pull/22082#pullrequestreview-4592546175) - 2026-06-29
+* [Pull Request] [execution/stagedsync: surface real exec error instead of looping on ErrLoopExhausted](https://github.com/erigontech/erigon/pull/22102) - 2026-06-29
+* [Review] [Review on: rpc: rejected quoted decimal block-number strings; require 0x hex format](https://github.com/erigontech/erigon/pull/21985#pullrequestreview-4591195834) - 2026-06-29
+* [Review] [Review on: Update docker Go builder image version to 1.26-trixie](https://github.com/erigontech/erigon/pull/22098#pullrequestreview-4592323478) - 2026-06-29
+* [Review] [Review on: docs/site: bump http-proxy-middleware to 2.0.10 (Dependabot #105)](https://github.com/erigontech/erigon/pull/22089#pullrequestreview-4592269499) - 2026-06-29
+* [Review] [Review on: execution: route block validation through Engine, split gas limit](https://github.com/erigontech/erigon/pull/22007#pullrequestreview-4591405767) - 2026-06-29
+* [Review] [Review on: docs: correct MAX_REORG_DEPTH default (512 → 96)](https://github.com/erigontech/erigon/pull/22069#pullrequestreview-4591481723) - 2026-06-29
+* [Review] [Review on: docs(site): make version injection generic (versions.json-driven)](https://github.com/erigontech/erigon/pull/22067#pullrequestreview-4591269322) - 2026-06-29
+* [Review] [Review on: docs: correct MAX_REORG_DEPTH default (512 → 96)](https://github.com/erigontech/erigon/pull/22068#pullrequestreview-4591449870) - 2026-06-29
+* [Review] [Review on: execution/stagedsync: unify unwind overlay-prune boundary to last committed txNum](https://github.com/erigontech/erigon/pull/21972#pullrequestreview-4591037599) - 2026-06-29
+* [Review] [Review on: execution/stagedsync: burn coinbase tip on a same-tx SELFDESTRUCT (parallel exec)](https://github.com/erigontech/erigon/pull/22057#pullrequestreview-4590095972) - 2026-06-29
+* [Review] [Review on: execution/stagedsync, db/state: fix parallel-exec reorg-to-genesis commitment crash (#22056)](https://github.com/erigontech/erigon/pull/22058#pullrequestreview-4590243078) - 2026-06-29
+* [Review] [Review on: BAL-driven parallel commitment](https://github.com/erigontech/erigon/pull/21416#pullrequestreview-4590129568) - 2026-06-29
+* [Pull Request] [[r3.5] ChangeLog: v3.4.4 notes + reformat version headers (#21910, #22044)](https://github.com/erigontech/erigon/pull/22090) - 2026-06-29
+* [Review] [Review on: feat: extension points for embedding applications](https://github.com/erigontech/erigon/pull/21976#pullrequestreview-4589972641) - 2026-06-29
+* [Issue] [execution/stagedsync: parallel exec loops forever with zero progress when commitment files lag state domains (step-misalignment error silently swallowed)](https://github.com/erigontech/erigon/issues/22101) - 2026-06-29
+* [Commit] [execution/commitment: shard BranchCache LRU tail to cut warmup lock contention (#21982)](https://github.com/erigontech/erigon/commit/c3c93766d687c603bedd16755ead8d8166184d9a) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

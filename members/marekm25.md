@@ -25,6 +25,7 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Pull Request] [Engine api glamsterdam cleanup](https://github.com/NethermindEth/nethermind/pull/11388) - 2026-04-28
 * [Pull Request] [Remove obsolete NonValidatorNode receipt/body enforcement check](https://github.com/NethermindEth/nethermind/pull/11790) - 2026-05-27
 * [Commit] [Remove obsolete NonValidatorNode receipt/body enforcement check (#11790)](https://github.com/NethermindEth/nethermind/commit/13b4c05f29c2c6f41a303af15046941c9ee32d10) - 2026-06-02
+* [Review] [Review on: fix: align AcceptTxResult rejection messages with Geth canonical phrases](https://github.com/NethermindEth/nethermind/pull/12157#pullrequestreview-4589582144) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4099273114) - 2026-04-13
 ## Q1 2026

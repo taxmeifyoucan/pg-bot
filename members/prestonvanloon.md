@@ -61,6 +61,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Avoid redundant blob copy in KZG batch verify path](https://github.com/OffchainLabs/prysm/pull/17039#pullrequestreview-4580407778) - 2026-06-26
 * [Review] [Review on: Remove Bazel: Phase 1/9](https://github.com/OffchainLabs/prysm/pull/16986#pullrequestreview-4580805714) - 2026-06-26
 * [Commit] [Fix unbounded growth of engine_exchangeCapabilities requested method list (#17004)](https://github.com/OffchainLabs/prysm/commit/ef29a27420c5b0c429e9cf28a00d25d78c777bb8) - 2026-06-26
+* [Review] [Review on: Move peer-scoring of invalid block signatures to gossip caller](https://github.com/OffchainLabs/prysm/pull/17052#pullrequestreview-4594367709) - 2026-06-29
+* [Review] [Review on: Remove Bazel: Phase 1/9](https://github.com/OffchainLabs/prysm/pull/16986#pullrequestreview-4592968074) - 2026-06-29
 ## Q1 2026
 
 

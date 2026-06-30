@@ -38,6 +38,8 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 * [Review] [Review on: fix(shutter): validate encrypted message length before decoding](https://github.com/NethermindEth/nethermind/pull/12134#pullrequestreview-4568808072) - 2026-06-25
 * [Review] [Review on: fix(simulate): return 0 for unresolvable BLOCKHASH in eth_simulateV1 instead of throwing](https://github.com/NethermindEth/nethermind/pull/12037#pullrequestreview-4578641454) - 2026-06-26
 * [Review] [Review on: fix(test): reduce BAL e2e sync chain length to avoid macOS CI timeout flakiness](https://github.com/NethermindEth/nethermind/pull/12139#pullrequestreview-4578650209) - 2026-06-26
+* [Review] [Review on: fix(txpool): fix data race that broadcasts a null transaction](https://github.com/NethermindEth/nethermind/pull/12162#pullrequestreview-4590322094) - 2026-06-29
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12159#pullrequestreview-4590307460) - 2026-06-29
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787) - 2026-04-23
 ## Q1 2026

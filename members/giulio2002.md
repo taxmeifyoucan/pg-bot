@@ -148,6 +148,9 @@ Team: Erigon
 * [Review] [Review on: common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs()](https://github.com/erigontech/erigon/pull/22075#pullrequestreview-4586835045) - 2026-06-28
 * [Review] [Review on: common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs()](https://github.com/erigontech/erigon/pull/22076#pullrequestreview-4586834952) - 2026-06-28
 * [Review] [Review on: common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs()](https://github.com/erigontech/erigon/pull/22075#pullrequestreview-4587372093) - 2026-06-28
+* [Review] [Review on: common: migrate assert flag from compile-time to runtime (env)](https://github.com/erigontech/erigon/pull/22108#pullrequestreview-4596707316) - 2026-06-30
+* [Review] [Review on: build: bump protoc to v35.1](https://github.com/erigontech/erigon/pull/22107#pullrequestreview-4596707320) - 2026-06-30
+* [Review] [Review on: common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs()](https://github.com/erigontech/erigon/pull/22075#pullrequestreview-4589268138) - 2026-06-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540) - 2026-04-17
 * [Commit] [Add EIP: Scheme-Agile Transactions](https://github.com/ethereum/EIPs/commit/65d194507aa9daa36ffab66d6b9126a6baef20c4) - 2026-04-22

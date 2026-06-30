@@ -19,6 +19,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat: Amsterdam bal-devnet-7](https://github.com/paradigmxyz/reth/pull/24152) - 2026-05-12
 * [Pull Request] [feat(net): advertise eth/70 and eth/71 by default](https://github.com/paradigmxyz/reth/pull/24299) - 2026-05-18
 * [Pull Request] [chore: bump revm to tip1060](https://github.com/paradigmxyz/reth/pull/24745) - 2026-06-01
+* [Pull Request] [chore: integrate revm glam-devnet-6](https://github.com/paradigmxyz/reth/pull/25923) - 2026-06-29
+* [Pull Request] [chore: integrate revm glam-devnet-6](https://github.com/paradigmxyz/reth/pull/25929) - 2026-06-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [perf: cache selfbalance and prevrandao values](https://github.com/bluealloy/revm/pull/3538) - 2026-04-02
 * [Pull Request] [feat: Add local context accessors to CallInput](https://github.com/bluealloy/revm/pull/3537) - 2026-04-02
@@ -144,6 +146,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: feat(database): add database fallback mode for BAL misses](https://github.com/bluealloy/revm/pull/3754#pullrequestreview-4484773501) - 2026-06-12
 * [Review] [Review on: feat(eip8038): finalize gas parameters per ethereum/EIPs#11802](https://github.com/bluealloy/revm/pull/3771#pullrequestreview-4543778151) - 2026-06-22
 * [Pull Request] [feat(amsterdam): align gas accounting to devnet-6 (v6.1.0)](https://github.com/bluealloy/revm/pull/3778) - 2026-06-25
+* [Pull Request] [feat(amsterdam): glam devnet-6 gas accounting & EIP alignment](https://github.com/bluealloy/revm/pull/3782) - 2026-06-29
+* [Review] [Review on: fix(inspect): finalize journal on error to prevent EIP-2929 warm set leak](https://github.com/bluealloy/revm/pull/3780#pullrequestreview-4589550061) - 2026-06-29
+* [Commit] [refactor: clarify EIP-7702 regular-gas GasId names (#3725)](https://github.com/bluealloy/revm/commit/0d4112b6a20c9c39f5fc930e45de846f75647021) - 2026-06-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(test-client-clis): update reth exception mappings](https://github.com/ethereum/execution-specs/pull/2574#pullrequestreview-4052117805) - 2026-04-02
 
@@ -158,6 +163,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [Update EIP-8038: Update write cost condition in SSTORE formula](https://github.com/ethereum/EIPs/commit/8a7fb54ef1ea87abd6e81a8ea234dbb794f7fdd8) - 2026-05-19
 * [Review] [Review on: Update EIP-8037: Calldata floor accounting alignment & call-frame refill clarification](https://github.com/ethereum/EIPs/pull/11706#pullrequestreview-4327780283) - 2026-05-20
 * [Pull Request] [Update EIP-2780: remove self-transfer and precompile edge cases](https://github.com/ethereum/EIPs/pull/11735) - 2026-05-27
+
+[paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
+* [Pull Request] [chore: use revm glam-devnet-6 (b55020b2)](https://github.com/paradigmxyz/revmc/pull/402) - 2026-06-29
 ## Q1 2026
 
 

@@ -776,6 +776,19 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(test): reduce BAL e2e sync chain length to avoid macOS CI timeout flakiness](https://github.com/NethermindEth/nethermind/pull/12139#pullrequestreview-4577751916) - 2026-06-26
 * [Review] [Review on: fix(grpc): dispose subscription queue and harden publish against teardown](https://github.com/NethermindEth/nethermind/pull/12138#pullrequestreview-4577745932) - 2026-06-26
 * [Review] [Review on: fix(gas-estimator): use the next-block spec consistently during estimation](https://github.com/NethermindEth/nethermind/pull/12137#pullrequestreview-4577672062) - 2026-06-26
+* [Review] [Review on: Enforce strict leading-zero validation for QUANTITY hex ](https://github.com/NethermindEth/nethermind/pull/12103#pullrequestreview-4590047005) - 2026-06-29
+* [Review] [Review on: fix(evm): align insufficient-funds-for-transfer message with Geth](https://github.com/NethermindEth/nethermind/pull/12167#pullrequestreview-4593026920) - 2026-06-29
+* [Review] [Review on: fix(sync): recover header sync after a lost chain level on unclean shutdown (#8029)](https://github.com/NethermindEth/nethermind/pull/11994#pullrequestreview-4592944480) - 2026-06-29
+* [Review] [Review on: fix: align AcceptTxResult rejection messages with Geth canonical phrases](https://github.com/NethermindEth/nethermind/pull/12157#pullrequestreview-4589620814) - 2026-06-29
+* [Review] [Review on: fix(rpc): change ExecutionError code from -32003 to -32000 to match Geth](https://github.com/NethermindEth/nethermind/pull/12169#pullrequestreview-4593052643) - 2026-06-29
+* [Review] [Review on: fix(rpc): align method-not-found message with Geth canonical phrase](https://github.com/NethermindEth/nethermind/pull/12168#pullrequestreview-4593039655) - 2026-06-29
+* [Review] [Review on: fix(FeeHistoryOracle): return 4444 for pruned history, -32000 for non-existent block](https://github.com/NethermindEth/nethermind/pull/12156#pullrequestreview-4589637926) - 2026-06-29
+* [Review] [Review on: refactor(tracing): dedup geth struct-tracer hex/word-size primitives](https://github.com/NethermindEth/nethermind/pull/12163#pullrequestreview-4590416193) - 2026-06-29
+* [Review] [Review on: Handle fork ID and seq in ENRs](https://github.com/NethermindEth/nethermind/pull/12126#pullrequestreview-4589971995) - 2026-06-29
+* [Review] [Review on: fix(txpool): fix data race that broadcasts a null transaction](https://github.com/NethermindEth/nethermind/pull/12162#pullrequestreview-4589932579) - 2026-06-29
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12158#pullrequestreview-4589612598) - 2026-06-29
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12159#pullrequestreview-4589610013) - 2026-06-29
+* [Review] [Review on: Fix undisposed array-pool list leaks](https://github.com/NethermindEth/nethermind/pull/12034#pullrequestreview-4590388375) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 

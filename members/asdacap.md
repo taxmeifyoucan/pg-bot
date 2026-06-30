@@ -353,6 +353,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: [WIP] - Flat historical state](https://github.com/NethermindEth/nethermind/pull/12125#pullrequestreview-4583648024) - 2026-06-27
 * [Pull Request] [refactor(plugins): wire TraceStore/OpcodeTracing tracers via DI](https://github.com/NethermindEth/nethermind/pull/12144) - 2026-06-26
 * [Commit] [AuRa: move finalization manager and terminal-block disposer to DI (#12036)](https://github.com/NethermindEth/nethermind/commit/40dfb091784ab8ce3bda205cd384d32a847517d2) - 2026-06-26
+* [Review] [Review on: Fix FlatDB persistence edge cases from the signed/unsigned type unification](https://github.com/NethermindEth/nethermind/pull/12172#pullrequestreview-4596133739) - 2026-06-29
+* [Review] [Review on: fix(FeeHistoryOracle): return 4444 for pruned history, -32000 for non-existent block](https://github.com/NethermindEth/nethermind/pull/12156#pullrequestreview-4589397905) - 2026-06-29
+* [Pull Request] [fix(txpool): fix data race that broadcasts a null transaction](https://github.com/NethermindEth/nethermind/pull/12162) - 2026-06-29
+* [Review] [Review on: fix(txpool): fix data race that broadcasts a null transaction](https://github.com/NethermindEth/nethermind/pull/12162#pullrequestreview-4589265959) - 2026-06-29
+* [Review] [Review on: fix(grpc): dispose subscription queue and harden publish against teardown](https://github.com/NethermindEth/nethermind/pull/12138#pullrequestreview-4589402538) - 2026-06-29
+* [Commit] [fix(txpool): fix data race that broadcasts a null transaction (#12162)](https://github.com/NethermindEth/nethermind/commit/618af12a9a1542f980c2c509d7700a589a95f1c9) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

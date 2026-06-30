@@ -87,6 +87,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Add gloas_payload_reveal_outcome_total metric for ePBS payload reveal health](https://github.com/OffchainLabs/prysm/pull/17025) - 2026-06-23
 * [Pull Request] [Avoid redundant blob copy in KZG batch verify path](https://github.com/OffchainLabs/prysm/pull/17039) - 2026-06-26
 * [Commit] [Avoid redundant blob copy in KZG batch verify path (#17039)](https://github.com/OffchainLabs/prysm/commit/57cf5253f17ce78acf885ff30a13eafdb82ba7d2) - 2026-06-27
+* [Pull Request] [Avoid slice clone when only counting consensus children in forkchoice](https://github.com/OffchainLabs/prysm/pull/17048) - 2026-06-29
+* [Commit] [Avoid slice clone when only counting consensus children in forkchoice (#17048)](https://github.com/OffchainLabs/prysm/commit/6189e40810358065fefc72a61620f3440c5a163e) - 2026-06-29
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076208906) - 2026-04-08
 

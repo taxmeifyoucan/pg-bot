@@ -342,6 +342,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-8038 state-access gas cost update](https://github.com/erigontech/erigon/pull/22060) - 2026-06-26
 * [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-2780 resource-based intrinsic transaction gas](https://github.com/erigontech/erigon/pull/22053) - 2026-06-26
 * [Review] [Review on: execution: activate EIP-1283 for the Constantinople test fork](https://github.com/erigontech/erigon/pull/22059#pullrequestreview-4588610990) - 2026-06-29
+* [Pull Request] [[DO-NOT-MERGE] execution/protocol: implement EIP-8282 Builder Execution Requests](https://github.com/erigontech/erigon/pull/22093) - 2026-06-29
+* [Review] [Review on: [DO-NOT-MERGE] execution: implement EIP-8038 state-access gas cost update](https://github.com/erigontech/erigon/pull/22060#pullrequestreview-4590760941) - 2026-06-29
+* [Review] [Review on: [DO-NOT-MERGE] execution/protocol: implement EIP-8282 Builder Execution Requests](https://github.com/erigontech/erigon/pull/21844#pullrequestreview-4589783719) - 2026-06-29
+* [Pull Request] [[DO-NOT-MERGE] execution: update EIP-7954 MaxCodeSizeAmsterdam = 64KB](https://github.com/erigontech/erigon/pull/22088) - 2026-06-29
+* [Issue] [[gd6] implement EIP-7954 changes](https://github.com/erigontech/erigon/issues/22085) - 2026-06-29
+* [Issue] [[gd6] implement EIP-8037 changes](https://github.com/erigontech/erigon/issues/22084) - 2026-06-29
+* [Issue] [[gd6] implement EIP-7928 changes](https://github.com/erigontech/erigon/issues/22083) - 2026-06-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(tests): EIP-7928 self destruct to system address with 0 value](https://github.com/ethereum/execution-specs/pull/2893) - 2026-05-21
 * [Commit] [feat(tests): EIP-7928 self destruct to system address with 0 value (#2893)](https://github.com/ethereum/execution-specs/commit/810c184219ebbde038c7c0144c13cae141701827) - 2026-05-22

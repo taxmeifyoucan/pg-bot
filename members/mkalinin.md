@@ -83,6 +83,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Commit] [Replace `get_dependent_root` with `get_shuffling_dependent_root` (#5374)](https://github.com/ethereum/consensus-specs/commit/76e97a0113403c942aa5103302ada2b757670a1b) - 2026-06-23
 * [Pull Request] [Backport `is_parent_strong` and `is_head_weak` changes to Phase0](https://github.com/ethereum/consensus-specs/pull/5401) - 2026-06-26
 * [Pull Request] [Add more FCR tests](https://github.com/ethereum/consensus-specs/pull/5400) - 2026-06-26
+* [Commit] [Add more FCR tests (#5400)](https://github.com/ethereum/consensus-specs/commit/bb85898493a38d117a40f8004d8c2befb735e412) - 2026-06-29
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: EL must support reorg to head's ancestor](https://github.com/ethereum/execution-apis/pull/770#pullrequestreview-4139162357) - 2026-04-20
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4138511850) - 2026-04-20

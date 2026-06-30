@@ -720,6 +720,13 @@ Team: Reth
 * [Commit] [docs(evm): fix executable tx iterator docs (#25787)](https://github.com/paradigmxyz/reth/commit/790a3b3d0e0335360bccd7dbb4b7900c6daeb8b7) - 2026-06-26
 * [Review] [Review on: fix(clippy): address nightly lints](https://github.com/paradigmxyz/reth/pull/25829#pullrequestreview-4584914705) - 2026-06-27
 * [Review] [Review on: chore: bump vergen to v10](https://github.com/paradigmxyz/reth/pull/25864#pullrequestreview-4587236824) - 2026-06-28
+* [Pull Request] [DNM: perf(engine): decode BALs directly into revm](https://github.com/paradigmxyz/reth/pull/25910) - 2026-06-29
+* [Review] [Review on: refactor(chain-state): move preserved sparse trie ownership](https://github.com/paradigmxyz/reth/pull/25911#pullrequestreview-4592676781) - 2026-06-29
+* [Pull Request] [fix(net): wire max pending imports setting](https://github.com/paradigmxyz/reth/pull/25921) - 2026-06-29
+* [Pull Request] [chore: fix cargo deny advisory check](https://github.com/paradigmxyz/reth/pull/25922) - 2026-06-29
+* [Review] [Review on: perf: windowed conversion of transactions](https://github.com/paradigmxyz/reth/pull/25783#pullrequestreview-4590925163) - 2026-06-29
+* [Commit] [fix(net): wire max pending imports setting (#25921)](https://github.com/paradigmxyz/reth/commit/d24629dedd01a445d55dba803c10c93a7c8527e3) - 2026-06-29
+* [Commit] [chore: fix cargo deny advisory check (#25922)](https://github.com/paradigmxyz/reth/commit/156142b352c8dba837bd78fb83eb65219a68a294) - 2026-06-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

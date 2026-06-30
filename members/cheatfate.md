@@ -28,6 +28,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Fix incorrect ERA files check.](https://github.com/status-im/nimbus-eth2/pull/8575#pullrequestreview-4470668677) - 2026-06-10
 * [Pull Request] [Remove unused `envelope` parameter from verifySidecars() procedures.](https://github.com/status-im/nimbus-eth2/pull/8613) - 2026-06-17
 * [Pull Request] [Fix gloas sidecars handling process.](https://github.com/status-im/nimbus-eth2/pull/8628) - 2026-06-18
+* [Pull Request] [Fix [InvalidCmpOp] warning.](https://github.com/status-im/nimbus-eth2/pull/8680) - 2026-06-29
 ## Q1 2026
 
 

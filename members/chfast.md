@@ -197,6 +197,16 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Load transaction chainId as uint64 (#1570)](https://github.com/ipsilon/evmone/commit/f200c0d3dd7d14d53e19d7c5f1125689a55f5109) - 2026-06-17
 * [Pull Request] [Implement EIP-8246: "Remove SELFDESTRUCT Burn"](https://github.com/ipsilon/evmone/pull/1572) - 2026-06-25
 * [Commit] [Implement EIP-8246: "Remove SELFDESTRUCT Burn" (#1572)](https://github.com/ipsilon/evmone/commit/1164d386eec2562db1938ac57392922b752e1c90) - 2026-06-26
+* [Pull Request] [ci: Switch the EEST devnet fixtures to glamsterdam-devnet](https://github.com/ipsilon/evmone/pull/1577) - 2026-06-29
+* [Pull Request] [test: Change spelling to "TangerineWhistle" and "SpuriousDragon"](https://github.com/ipsilon/evmone/pull/1576) - 2026-06-29
+* [Pull Request] [Implement EIP-7954: "Increase Maximum Contract Size"](https://github.com/ipsilon/evmone/pull/1575) - 2026-06-29
+* [Pull Request] [Implement EIP-7708: "ETH transfers emit a log"](https://github.com/ipsilon/evmone/pull/1573) - 2026-06-29
+* [Pull Request] [test: Add a logs expectation to the state_transition fixture](https://github.com/ipsilon/evmone/pull/1574) - 2026-06-29
+* [Review] [Review on: test: Add a logs expectation to the state_transition fixture](https://github.com/ipsilon/evmone/pull/1574#pullrequestreview-4590784218) - 2026-06-29
+* [Commit] [ci: Switch the EEST devnet fixtures to glamsterdam-devnet (#1577)](https://github.com/ipsilon/evmone/commit/c1a0c7c091fe6d73fb4bd4fc751c06854bcc62c3) - 2026-06-29
+* [Commit] [test: Change spelling to "TangerineWhistle" and "SpuriousDragon" (#1576)](https://github.com/ipsilon/evmone/commit/465655141094e9a5f4f9d87dfd952a71f40aca19) - 2026-06-29
+* [Commit] [Implement EIP-7708: "ETH transfers emit a log" (#1573)](https://github.com/ipsilon/evmone/commit/a2a993cf9e4409bcf19dfed4fc1ce909496c4162) - 2026-06-29
+* [Commit] [test: Add a logs expectation to the state_transition fixture (#1574)](https://github.com/ipsilon/evmone/commit/968698f1a394626dab58f3c64b0e5574da79fb7a) - 2026-06-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(tests): add state restoration tests for reverted sub-calls (#2494)](https://github.com/ethereum/execution-specs/commit/a35219260251ff44776fa8e41f256dfb970faa5a) - 2026-04-08
 * [Issue] [test_bal_create_and_oog: oog_before_target_access sub-cases test EIP-8037 gas accounting, not BAL](https://github.com/ethereum/execution-specs/issues/2649) - 2026-04-10
@@ -243,6 +253,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): EIP-8037 base fee follows the bottleneck gas dimension](https://github.com/ethereum/execution-specs/pull/3039) - 2026-06-23
 * [Commit] [feat(tests): EIP-8037 code-deposit state gas exact-fit boundary (#3031)](https://github.com/ethereum/execution-specs/commit/b14bc8160da274f9949cc81101c9248084024d4c) - 2026-06-23
 * [Pull Request] [feat(tests): EIP-2780 warm/cold-aware top-frame delegation](https://github.com/ethereum/execution-specs/pull/3045) - 2026-06-24
+* [Pull Request] [feat(tests): EIP-8037 spilled NEW_ACCOUNT gas consumed on caller halt](https://github.com/ethereum/execution-specs/pull/3061) - 2026-06-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

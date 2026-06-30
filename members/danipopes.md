@@ -438,6 +438,8 @@ Team: Reth
 * [Review] [Review on: chore: bump vergen to v10](https://github.com/paradigmxyz/reth/pull/25864#pullrequestreview-4587219234) - 2026-06-28
 * [Review] [Review on: chore(ci): replace stale AI Slack alert mention](https://github.com/paradigmxyz/reth/pull/25856#pullrequestreview-4587077859) - 2026-06-28
 * [Review] [Review on: fix(docker): include LICENSES in Docker build context](https://github.com/paradigmxyz/reth/pull/25855#pullrequestreview-4587085345) - 2026-06-28
+* [Pull Request] [refactor: use main revm crate](https://github.com/paradigmxyz/reth/pull/25916) - 2026-06-29
+* [Commit] [refactor: use main revm crate (#25916)](https://github.com/paradigmxyz/reth/commit/9bfe45186e822ba9fe33380d87dfab7c4d5daca5) - 2026-06-29
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor!: return Result from instruction functions](https://github.com/bluealloy/revm/pull/3558) - 2026-04-12
 * [Review] [Review on: fix(handler): skip gas reimbursement and beneficiary reward when fee charge is disabled](https://github.com/bluealloy/revm/pull/3559#pullrequestreview-4102877609) - 2026-04-14

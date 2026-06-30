@@ -114,6 +114,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl: pluggable consensus engine for multi-chain (beacon/rollup/dev)](https://github.com/erigontech/erigon/pull/22025#pullrequestreview-4573596502) - 2026-06-25
 * [Review] [Review on: cl/beacon: give the EL builder a build window before stopping it](https://github.com/erigontech/erigon/pull/21989#pullrequestreview-4569044003) - 2026-06-25
 * [Review] [Review on: cl/beacon: anchor the EL build window to the attestation deadline](https://github.com/erigontech/erigon/pull/22032#pullrequestreview-4570042386) - 2026-06-25
+* [Review] [Review on: cl/forkchoice: use delta tree for GLOAS weights](https://github.com/erigontech/erigon/pull/21913#pullrequestreview-4591966326) - 2026-06-29
+* [Pull Request] [cl: catch up Gloas alpha11 execution requests](https://github.com/erigontech/erigon/pull/22091) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4118586901) - 2026-04-16
 ## Q1 2026

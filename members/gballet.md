@@ -80,6 +80,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: trie/bintrie: use bitarray for path encoding + fix serialization issues](https://github.com/ethereum/go-ethereum/pull/34772#pullrequestreview-4545873494) - 2026-06-22
 * [Review] [Review on: cmd: add amsterdam override flag](https://github.com/ethereum/go-ethereum/pull/35213#pullrequestreview-4577818350) - 2026-06-26
 * [Review] [Review on: cmd/geth: release storage iterator in snapshot dump](https://github.com/ethereum/go-ethereum/pull/35222#pullrequestreview-4577763540) - 2026-06-26
+* [Review] [Review on: cmd: add amsterdam override flag](https://github.com/ethereum/go-ethereum/pull/35213#pullrequestreview-4589592709) - 2026-06-29
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Review] [Review on: cmd/evm, tests: wire up t8n with EELS binary fork](https://github.com/gballet/go-ethereum/pull/575#pullrequestreview-4195917013) - 2026-04-29
 

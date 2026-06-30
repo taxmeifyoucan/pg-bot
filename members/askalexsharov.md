@@ -888,6 +888,14 @@ Team: Erigon
 * [Review] [Review on: execution/commitment: remove inert parallel-commitment warmup; refresh design doc](https://github.com/erigontech/erigon/pull/22042#pullrequestreview-4583851449) - 2026-06-27
 * [Commit] [Revert "db/snapshotsync/freezeblocks: run blocks snapshot merge off the shared build semaphore" (#22071)](https://github.com/erigontech/erigon/commit/9c55a752be115aff1dd931f0bb302d65703310ab) - 2026-06-27
 * [Pull Request] [[wip] db/kv/mdbx: recover from SafeNoSync shutdown on Accede open failure](https://github.com/erigontech/erigon/pull/22080) - 2026-06-28
+* [Review] [Review on: execution/commitment: build execution witness during fold ](https://github.com/erigontech/erigon/pull/22077#pullrequestreview-4596726384) - 2026-06-30
+* [Review] [Review on: p2p: re-resolve STUN external IP at runtime](https://github.com/erigontech/erigon/pull/22105#pullrequestreview-4596810444) - 2026-06-30
+* [Pull Request] [common: migrate assert flag from compile-time to runtime (env)](https://github.com/erigontech/erigon/pull/22108) - 2026-06-30
+* [Review] [Review on: Update Go builder image version to 1.26 in release workflow](https://github.com/erigontech/erigon/pull/22100#pullrequestreview-4596642020) - 2026-06-30
+* [Pull Request] [build: bump protoc to v35.1](https://github.com/erigontech/erigon/pull/22107) - 2026-06-30
+* [Review] [Review on: cmd/utils/app: bound commitment-history checks by file coverage, not stage_execution](https://github.com/erigontech/erigon/pull/22095#pullrequestreview-4591677718) - 2026-06-29
+* [Review] [Review on: [r3.4] cmd/utils/app: bound commitment-history checks by file coverage, not stage_execution](https://github.com/erigontech/erigon/pull/22096#pullrequestreview-4591681230) - 2026-06-29
+* [Review] [Review on: [r3.5] cmd/utils/app: bound commitment-history checks by state file coverage](https://github.com/erigontech/erigon/pull/22094#pullrequestreview-4591673420) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

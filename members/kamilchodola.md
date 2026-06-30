@@ -121,6 +121,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(flat): cheaper TrieWarmer enqueue fast-path (#12062)](https://github.com/NethermindEth/nethermind/commit/d8d14fa2bccc82807513baff5a72f9273b3cd920) - 2026-06-23
 * [Commit] [perf(evm): per-thread free-list for EVM memory buffers + skip redundant copy-opcode revalidation (#11884)](https://github.com/NethermindEth/nethermind/commit/58ed71ecf40469c42565f506c8053525246135e3) - 2026-06-26
 * [Commit] [fix(simulate): return 0 for unresolvable BLOCKHASH in eth_simulateV1 instead of throwing (#12037)](https://github.com/NethermindEth/nethermind/commit/f8fe20b5c9b818c6842d688f66b39dc901ae8e06) - 2026-06-26
+* [Pull Request] [ci: drop op-mainnet from master-validation sync check](https://github.com/NethermindEth/nethermind/pull/12171) - 2026-06-29
+* [Commit] [ci: drop op-mainnet from master-validation sync check (#12171)](https://github.com/NethermindEth/nethermind/commit/5893f0712b48c113d437d78d4446b766f50922a7) - 2026-06-29
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

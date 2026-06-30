@@ -122,6 +122,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: changed web3j to a test dependency](https://github.com/besu-eth/besu/pull/10694#pullrequestreview-4578015357) - 2026-06-26
 * [Review] [Review on: chore(pow-removal): remove vestigial ethash{} from genesis files](https://github.com/besu-eth/besu/pull/10703#pullrequestreview-4577988877) - 2026-06-26
 * [Review] [Review on: upgrade netty to 4.2.15.Final](https://github.com/besu-eth/besu/pull/10693#pullrequestreview-4577969074) - 2026-06-26
+* [Review] [Review on: changed web3j to a test dependency](https://github.com/besu-eth/besu/pull/10694#pullrequestreview-4591320816) - 2026-06-29
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444) - 2026-04-23
 * [Review] [Review on: clients/besu: Update Docker images to build and run with Java 25](https://github.com/ethereum/hive/pull/1444#pullrequestreview-4162947022) - 2026-04-23

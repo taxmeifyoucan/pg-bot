@@ -249,6 +249,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Warmup improvement](https://github.com/NethermindEth/nethermind/pull/10652#pullrequestreview-4582866424) - 2026-06-26
 * [Pull Request] [Fix EraE export for pure PoS genesis blocks](https://github.com/NethermindEth/nethermind/pull/12154) - 2026-06-26
 * [Review] [Review on: AuRa: move finalization manager and terminal-block disposer to DI](https://github.com/NethermindEth/nethermind/pull/12036#pullrequestreview-4577716768) - 2026-06-26
+* [Review] [Review on: fix(dns): validate enrtree-root fields and skip malformed records](https://github.com/NethermindEth/nethermind/pull/12136#pullrequestreview-4590011037) - 2026-06-29
+* [Pull Request] [Use standard Microsoft logging in Kademlia](https://github.com/NethermindEth/nethermind/pull/12170) - 2026-06-29
+* [Review] [Review on: Handle fork ID and seq in ENRs](https://github.com/NethermindEth/nethermind/pull/12126#pullrequestreview-4590322121) - 2026-06-29
+* [Commit] [Handle fork ID and seq in ENRs (#12126)](https://github.com/NethermindEth/nethermind/commit/6d6e14e5e77624485eabf91afbd2a7482ee2f994) - 2026-06-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

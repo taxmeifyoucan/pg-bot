@@ -172,6 +172,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Split Gloas and pre-Gloas block production into separate paths](https://github.com/OffchainLabs/prysm/pull/17040#pullrequestreview-4581851723) - 2026-06-26
 * [Review] [Review on: making duties failures independent of each other](https://github.com/OffchainLabs/prysm/pull/17036#pullrequestreview-4582846431) - 2026-06-26
 * [Review] [Review on: adding gossip validation on envelope api and block api default](https://github.com/OffchainLabs/prysm/pull/16960#pullrequestreview-4580506905) - 2026-06-26
+* [Pull Request] [adding ssz support for proposer preferences](https://github.com/OffchainLabs/prysm/pull/17054) - 2026-06-29
+* [Review] [Review on: Don't request pre-Gloas payload](https://github.com/OffchainLabs/prysm/pull/17049#pullrequestreview-4592398953) - 2026-06-29
+* [Commit] [Grpc stateless gloas (#16943)](https://github.com/OffchainLabs/prysm/commit/251c0cb48367e2f0e99cb23e4cf070950ee778fa) - 2026-06-29
+* [Commit] [adding gossip validation on envelope api and block api default (#16960)](https://github.com/OffchainLabs/prysm/commit/2f9d8ec62beca3dbaf56f86d9d3b576c17c408d6) - 2026-06-29
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

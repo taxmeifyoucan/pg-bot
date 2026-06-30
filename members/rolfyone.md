@@ -184,6 +184,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Fix quic close write logic](https://github.com/libp2p/jvm-libp2p/pull/489#pullrequestreview-4510862992) - 2026-06-16
 * [Review] [Review on: fix(tls,quic): expose libp2p host pubkey as remotePubKey, not the ephemeral cert subject key 2/2](https://github.com/libp2p/jvm-libp2p/pull/492#pullrequestreview-4512528300) - 2026-06-17
 * [Review] [Review on: fix(quic): validate hole-punch peer identity early and handle STOP_SENDING](https://github.com/libp2p/jvm-libp2p/pull/494#pullrequestreview-4549527895) - 2026-06-23
+* [Pull Request] [downgraded quic handshake message to debug](https://github.com/libp2p/jvm-libp2p/pull/501) - 2026-06-29
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/224) - 2026-05-11
 * [Commit] [Downgrade routine peer-interaction logs from DEBUG to TRACE (#224)](https://github.com/Consensys/discovery/commit/9b9119956dac602cd21dd332f2d2415923d74c22) - 2026-05-11

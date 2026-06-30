@@ -194,6 +194,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix: dangling state pointer in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/450) - 2026-06-26
 * [Pull Request] [fix: pendingConsolidations bindings](https://github.com/ChainSafe/lodestar-z/pull/449) - 2026-06-26
 * [Commit] [fix: remove `slashValidator` gating on active status (#448)](https://github.com/ChainSafe/lodestar-z/commit/d319a0d2dbd2fa52ddc75b17eefda71e23c03b2f) - 2026-06-26
+* [Pull Request] [fix(epoch_cache): populate decision roots in afterProcessEpoch](https://github.com/ChainSafe/lodestar-z/pull/453) - 2026-06-29
+* [Commit] [fix(epoch_cache): populate decision roots in afterProcessEpoch (#453)](https://github.com/ChainSafe/lodestar-z/commit/4b70a5edcd1dd65871567b306e8d0a8d8a25a8d4) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 

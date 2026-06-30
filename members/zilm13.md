@@ -174,6 +174,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Redesign fork choice abstractions](https://github.com/Consensys/teku/pull/10901) - 2026-06-25
 * [Pull Request] [Treat no data (empty block) for PayloadAttestationProductionDuty as NOOP](https://github.com/Consensys/teku/pull/10907) - 2026-06-27
 * [Pull Request] [Forkchoice tests coverage enhancenement](https://github.com/Consensys/teku/pull/10906) - 2026-06-27
+* [Pull Request] [Handle peers without Discovery NodeId in a correct way](https://github.com/Consensys/teku/pull/10913) - 2026-06-29
+* [Pull Request] [Add aircompressor snappy for gossip, default disabled](https://github.com/Consensys/teku/pull/10912) - 2026-06-29
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET](https://github.com/Consensys/discovery/pull/218) - 2026-04-22
 * [Commit] [Add AbstractSkippingEnvelopeHandler so all handlers will skip BAD_PACKET (#218)](https://github.com/Consensys/discovery/commit/c289cc1a8de40e509cd291ab24bf49eff2f1db13) - 2026-04-23

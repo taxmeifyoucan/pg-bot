@@ -114,6 +114,9 @@ Team: Geth
 * [Review] [Review on: internal/ethapi, eth, eth/catalyst: gate eth_syncing on CL handshake](https://github.com/ethereum/go-ethereum/pull/34855#pullrequestreview-4578571550) - 2026-06-26
 * [Review] [Review on: core: implement EIP-8246](https://github.com/ethereum/go-ethereum/pull/35219#pullrequestreview-4578470047) - 2026-06-26
 * [Review] [Review on: core: implement EIP-2780](https://github.com/ethereum/go-ethereum/pull/35212#pullrequestreview-4578402230) - 2026-06-26
+* [Review] [Review on: cmd: add amsterdam override flag](https://github.com/ethereum/go-ethereum/pull/35213#pullrequestreview-4592399549) - 2026-06-29
+* [Review] [Review on: rpc: add --rpc.http-body-limit flag for HTTP request body size](https://github.com/ethereum/go-ethereum/pull/35224#pullrequestreview-4590406277) - 2026-06-29
+* [Review] [Review on: trie: introduce UpdateBatch](https://github.com/ethereum/go-ethereum/pull/32448#pullrequestreview-4589869122) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4097895955) - 2026-04-13
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4097763862) - 2026-04-13

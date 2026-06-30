@@ -54,11 +54,13 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [core/txpool: add blobTxForPool migration in limbo](https://github.com/ethereum/go-ethereum/pull/35209) - 2026-06-22
 * [Pull Request] [core/txpool: fix order of blobTxForPool fields](https://github.com/ethereum/go-ethereum/pull/35207) - 2026-06-22
 * [Commit] [core/txpool: drop support for v0 blob sidecar (#35191)](https://github.com/ethereum/go-ethereum/commit/eea629b9b38817dffd425e0726ac6ca75c4db97d) - 2026-06-22
+* [Pull Request] [core/rawdb: prevent truncateHead from returning an error for empty tables](https://github.com/ethereum/go-ethereum/pull/35258) - 2026-06-29
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine_getBlobsV4](https://github.com/ethereum/execution-apis/pull/774#pullrequestreview-4162377226) - 2026-04-23
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [beacon-chain/execution: use default histogram buckets for engine latency metrics](https://github.com/OffchainLabs/prysm/pull/16844) - 2026-05-26
+* [Pull Request] [Add EIP-8070 engine apis (ForkchoiceUpdatedV4, GetBlobsV4)](https://github.com/OffchainLabs/prysm/pull/17051) - 2026-06-29
 ## Q1 2026
 
 

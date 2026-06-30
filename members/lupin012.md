@@ -228,6 +228,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: fix trace result field written on exec error](https://github.com/erigontech/erigon/pull/22082) - 2026-06-28
 * [Review] [Review on: [SharovBot] rpc: use overlay tx in FillTransaction to fix flaky test on latest block](https://github.com/erigontech/erigon/pull/22078#pullrequestreview-4587124671) - 2026-06-28
 * [Commit] [rpc: add withdrawal balance diffs to trace_block and trace_replayBlockTransactions (#21592)](https://github.com/erigontech/erigon/commit/fa5dc90d611a95f9febae449cbe57335e3f59aaf) - 2026-06-28
+* [Review] [Review on: rpc: fix trace result field written on exec error](https://github.com/erigontech/erigon/pull/22082#pullrequestreview-4592205252) - 2026-06-29
+* [Review] [Review on: rpc: rejected quoted decimal block-number strings; require 0x hex format](https://github.com/erigontech/erigon/pull/21985#pullrequestreview-4592060234) - 2026-06-29
+* [Review] [Review on: rpc: use overlay tx in GasPrice, BlobBaseFee, BaseFee to avoid flaky test on latest](https://github.com/erigontech/erigon/pull/22006#pullrequestreview-4595336266) - 2026-06-29
+* [Commit] [QA: update disabled List on rpcTest (#22070)](https://github.com/erigontech/erigon/commit/95dc52bcee372d886121d95b33fb0799b2eb9f91) - 2026-06-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03

@@ -203,6 +203,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [fix(quic): close inbound connection when handler rejects it (#499)](https://github.com/libp2p/jvm-libp2p/commit/0533db5e7401c1eddc6554a2fa1bdf37950eea9b) - 2026-06-24
 * [Commit] [Merge pull request #494 from lucassaldanha/hole-punch-fix](https://github.com/libp2p/jvm-libp2p/commit/26a44c13ab4bd60ac00ecdc974f906eff50b7d2c) - 2026-06-23
 * [Review] [Review on: Release 1.3.4](https://github.com/libp2p/jvm-libp2p/pull/500#pullrequestreview-4559244414) - 2026-06-24
+* [Review] [Review on: downgraded quic handshake message to debug](https://github.com/libp2p/jvm-libp2p/pull/501#pullrequestreview-4596154343) - 2026-06-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4182011434) - 2026-04-27
 ## Q1 2026

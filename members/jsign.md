@@ -129,6 +129,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [eth/catalyst: implement engine_newPayloadWithWitnessV5 and use witness field spec ordering](https://github.com/ethereum/go-ethereum/pull/35009) - 2026-05-19
 * [Review] [Review on: eth/catalyst: implement engine_newPayloadWithWitnessV5 and use witness field spec ordering](https://github.com/ethereum/go-ethereum/pull/35009#pullrequestreview-4321981008) - 2026-05-19
 * [Commit] [eth/catalyst: implement engine_newPayloadWithWitnessV5 and use witness field spec ordering (#35009)](https://github.com/ethereum/go-ethereum/commit/4daaaadfc4706b0a49d4dfde3559de7be968c28a) - 2026-05-21
+* [Pull Request] [core/state: fix account prefetching for absent accounts and add test for witness inclusion](https://github.com/ethereum/go-ethereum/pull/35256) - 2026-06-29
+* [Pull Request] [cmd/evm/internal/t8ntool: add execution witness as t8n output](https://github.com/ethereum/go-ethereum/pull/35257) - 2026-06-29
+* [Commit] [core/state: fix account prefetching for absent accounts (#35256)](https://github.com/ethereum/go-ethereum/commit/04bf0453036dffc7710684354efabdbe3970ffe0) - 2026-06-30
 ## Q1 2026
 
 

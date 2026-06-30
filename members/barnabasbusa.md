@@ -256,6 +256,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #765 from ethpandaops/bbusa/compact-builder-link](https://github.com/ethpandaops/dora/commit/2e8360efb3691292732f05bdb43f9cca7f48f31a) - 2026-06-26
 * [Review] [Review on: fix synchronizer with missing block payload](https://github.com/ethpandaops/dora/pull/771#pullrequestreview-4584466711) - 2026-06-27
 * [Review] [Review on: fix system contract queued tx matcher for post-gloas behavior](https://github.com/ethpandaops/dora/pull/772#pullrequestreview-4587227623) - 2026-06-28
+* [Review] [Review on: Fix remaining post-Gloas builder deposit gaps (payload-less blocks + onboarded fork id)](https://github.com/ethpandaops/dora/pull/775#pullrequestreview-4591766248) - 2026-06-29
+* [Commit] [Merge pull request #709 from ethpandaops/bbusa/preserve-slot-tab-flicker-fix](https://github.com/ethpandaops/dora/commit/50db6e3cbfa4121eae1955a6095aa8dd4d9e8850) - 2026-06-29
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Add Gloas block support to validator REST API client](https://github.com/OffchainLabs/prysm/pull/16626) - 2026-04-01
 * [Pull Request] [Fix MaxBuildersPerWithdrawalsSweep in minimal preset](https://github.com/OffchainLabs/prysm/pull/16624) - 2026-04-01

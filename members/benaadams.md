@@ -335,6 +335,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [ci: pin Claude review workflow to opus model](https://github.com/NethermindEth/nethermind/pull/12140) - 2026-06-25
 * [Commit] [ci: pin Claude review workflow to opus model (#12140)](https://github.com/NethermindEth/nethermind/commit/cf171e67b2af9215b90f93e5fb5fd423666f2baa) - 2026-06-25
 * [Review] [Review on: AuRa: move finalization manager and terminal-block disposer to DI](https://github.com/NethermindEth/nethermind/pull/12036#pullrequestreview-4579008606) - 2026-06-26
+* [Review] [Review on: fix(sync): recover header sync after a lost chain level on unclean shutdown (#8029)](https://github.com/NethermindEth/nethermind/pull/11994#pullrequestreview-4593535776) - 2026-06-29
+* [Review] [Review on: refactor(tracing): dedup geth struct-tracer hex/word-size primitives](https://github.com/NethermindEth/nethermind/pull/12163#pullrequestreview-4590502449) - 2026-06-29
+* [Review] [Review on: Handle fork ID and seq in ENRs](https://github.com/NethermindEth/nethermind/pull/12126#pullrequestreview-4590400524) - 2026-06-29
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12158#pullrequestreview-4590386651) - 2026-06-29
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12159#pullrequestreview-4590385062) - 2026-06-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

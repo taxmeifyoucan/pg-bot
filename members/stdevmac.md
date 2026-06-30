@@ -86,6 +86,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [FlatDb computes a wrong state root and rejects a canonical block (consensus divergence) — chiado, intermittent](https://github.com/NethermindEth/nethermind/issues/11993) - 2026-06-15
 * [Issue] [Sync wedges in UpdatingPivot after early restart with no peers — forkchoice hashes not persisted on the unresolvable-header path](https://github.com/NethermindEth/nethermind/issues/11992) - 2026-06-15
 * [Issue] [FlatDb: native SIGSEGV (exit 139) on restart of a fully-synced node — no managed exception, not OOM](https://github.com/NethermindEth/nethermind/issues/12079) - 2026-06-22
+* [Review] [Review on: ci: drop op-mainnet from master-validation sync check](https://github.com/NethermindEth/nethermind/pull/12171#pullrequestreview-4592800781) - 2026-06-29
+* [Commit] [fix(sync): recover header sync after a lost chain level on unclean shutdown (#8029) (#11994)](https://github.com/NethermindEth/nethermind/commit/06c74df62f773212c2ad5ba362d62e69664887fd) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098475407) - 2026-04-13
 

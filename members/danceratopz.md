@@ -178,6 +178,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(test-cli): raise a clear error when `gentest` can't find `ruff` (#3024)](https://github.com/ethereum/execution-specs/commit/3f888bc71f2d30d48b6f5a92c618ab283a6c98d5) - 2026-06-25
 * [Commit] [chore(tooling): clarify state_test preference in write-test skill (#3035)](https://github.com/ethereum/execution-specs/commit/a9cc76b8c1c93459627a6146e419dcb193c12e9d) - 2026-06-25
 * [Review] [Review on: fix(tests): register JSON fixture fork marker](https://github.com/ethereum/execution-specs/pull/3053#pullrequestreview-4577238361) - 2026-06-26
+* [Pull Request] [chore(ci): speed up bench-gas by filling only the `blockchain_test` format](https://github.com/ethereum/execution-specs/pull/3057) - 2026-06-29
+* [Review] [Review on: chore(ci): speed up bench-gas by filling only the `blockchain_test` format](https://github.com/ethereum/execution-specs/pull/3057#pullrequestreview-4592037464) - 2026-06-29
+* [Pull Request] [fix(ci,tooling,test-types,test-forks): import `ethereum` lazily so xdist fill coverage measures it](https://github.com/ethereum/execution-specs/pull/3059) - 2026-06-29
+* [Pull Request] [refactor(test-benchmark): speed-up the keccak max-permutations search](https://github.com/ethereum/execution-specs/pull/3060) - 2026-06-29
+* [Pull Request] [chore(tests-benchmark, ci): mark test_keccak_max_permutations as slow](https://github.com/ethereum/execution-specs/pull/3058) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 

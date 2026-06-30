@@ -55,6 +55,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [update on focil helpers](https://github.com/status-im/nimbus-eth2/pull/8640) - 2026-06-21
 * [Pull Request] [get attestation rewards](https://github.com/status-im/nimbus-eth2/pull/8649) - 2026-06-23
 * [Pull Request] [filter redistribution of columns](https://github.com/status-im/nimbus-eth2/pull/8648) - 2026-06-23
+* [Pull Request] [add inclusion list pool](https://github.com/status-im/nimbus-eth2/pull/8681) - 2026-06-29
 ## Q1 2026
 
 

@@ -422,6 +422,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Fix various nits](https://github.com/ethereum/consensus-specs/pull/5395#pullrequestreview-4571405140) - 2026-06-25
 * [Commit] [Replace prose with `get_signed_proposer_preferences` function (#5396)](https://github.com/ethereum/consensus-specs/commit/99cc40f9317a15ea185690cee6095297fc571dda) - 2026-06-25
 * [Pull Request] [Link EIPs with github permalinks for upgrades under development](https://github.com/ethereum/consensus-specs/pull/5404) - 2026-06-28
+* [Review] [Review on: Add encrypted mempool (EIP-8184)](https://github.com/ethereum/consensus-specs/pull/5403#pullrequestreview-4594963551) - 2026-06-29
+* [Review] [Review on: Add more FCR tests](https://github.com/ethereum/consensus-specs/pull/5400#pullrequestreview-4595030192) - 2026-06-29
+* [Review] [Review on: Fix grammar typo in light client sync protocol docs](https://github.com/ethereum/consensus-specs/pull/5407#pullrequestreview-4594272577) - 2026-06-29
+* [Review] [Review on: Link EIPs with github permalinks for unstable specs](https://github.com/ethereum/consensus-specs/pull/5404#pullrequestreview-4594448400) - 2026-06-29
+* [Review] [Review on: Update release-drafter/release-drafter action to v7.5.1](https://github.com/ethereum/consensus-specs/pull/5406#pullrequestreview-4592414479) - 2026-06-29
+* [Review] [Review on: Update actions/setup-python action to v6.3.0](https://github.com/ethereum/consensus-specs/pull/5405#pullrequestreview-4592392241) - 2026-06-29
+* [Commit] [Link EIPs with github permalinks for unstable specs (#5404)](https://github.com/ethereum/consensus-specs/commit/320bbad5530df3d18af7aad3ca1b5a353761d4e5) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 
@@ -443,6 +450,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Issue] [All Core Devs - Testing (ACDT) #82, June 8, 2026](https://github.com/ethereum/pm/issues/2103) - 2026-06-02
 
 * [Issue] [All Core Devs - Testing (ACDT) #84, June 22, 2026](https://github.com/ethereum/pm/issues/2126) - 2026-06-16
+* [Issue] [All Core Devs - Testing (ACDT) #86, July 6, 2026](https://github.com/ethereum/pm/issues/2144) - 2026-06-29
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: feat: drop legacy eth1 bridge deposits from Fulu onwards (consensus-specs #4704)](https://github.com/ChainSafe/lodestar/pull/9458#pullrequestreview-4421189607) - 2026-06-03
 * [Review] [Review on: feat: eip-8282 builder execution requests scaffolding](https://github.com/ChainSafe/lodestar/pull/9507#pullrequestreview-4489927912) - 2026-06-12

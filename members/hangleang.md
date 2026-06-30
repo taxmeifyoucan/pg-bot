@@ -80,6 +80,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Check payload timely within current slot](https://github.com/grandinetech/grandine/pull/778) - 2026-06-26
 * [Pull Request] [Update attesting balances to the last finalized block](https://github.com/grandinetech/grandine/pull/777) - 2026-06-26
 * [Review] [Review on: Update fork choice head selection logic](https://github.com/grandinetech/grandine/pull/776#pullrequestreview-4577734997) - 2026-06-26
+* [Review] [Review on: feat: added POST state_builders beaconAPI endpoint](https://github.com/grandinetech/grandine/pull/779#pullrequestreview-4591857073) - 2026-06-29
+* [Pull Request] [Consult with fork choice should_build_on_full during payload bid selection](https://github.com/grandinetech/grandine/pull/781) - 2026-06-29
 ## Q1 2026
 
 

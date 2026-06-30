@@ -80,6 +80,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Lookup sync with blocks_by_head](https://github.com/sigp/lighthouse/pull/9541) - 2026-06-25
 * [Pull Request] [De-prioritize failed peers in block and payload lookups](https://github.com/sigp/lighthouse/pull/9542) - 2026-06-25
 * [Issue] [Checkpoint sync fails (401) with a path-embedded API key when --checkpoint-sync-url has a trailing slash](https://github.com/sigp/lighthouse/issues/9545) - 2026-06-26
+* [Issue] [Deprecate the Option on proto_array unrealized_justified/finalized_checkpoint (always Some on the live path)](https://github.com/sigp/lighthouse/issues/9556) - 2026-06-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Issue] [Fork-choice justified balances in underspecified post-Gloas](https://github.com/ethereum/consensus-specs/issues/5074) - 2026-04-07
 

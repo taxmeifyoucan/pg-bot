@@ -336,6 +336,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/stagedsync: fix pruning in stage_custom_trace (#22049)](https://github.com/erigontech/erigon/commit/4155fdf41f178f043cc136d2a0e3fe814fec876e) - 2026-06-26
 * [Review] [Review on: db/seg, db/state: optional separate-mmap merge readahead, off when commitment files are referenced](https://github.com/erigontech/erigon/pull/22072#pullrequestreview-4584034665) - 2026-06-27
 * [Review] [Review on: Revert "db/snapshotsync/freezeblocks: run blocks snapshot merge off the shared build semaphore"](https://github.com/erigontech/erigon/pull/22071#pullrequestreview-4584071643) - 2026-06-27
+* [Pull Request] [cmd/utils/app: bound commitment-history checks by file coverage, not stage_execution](https://github.com/erigontech/erigon/pull/22095) - 2026-06-29
+* [Pull Request] [[r3.4] cmd/utils/app: bound commitment-history checks by file coverage, not stage_execution](https://github.com/erigontech/erigon/pull/22096) - 2026-06-29
+* [Pull Request] [[r3.5] cmd/utils/app: bound commitment-history checks by state file coverage](https://github.com/erigontech/erigon/pull/22094) - 2026-06-29
+* [Issue] ["nonce too high" in stage_custom_trace on v34](https://github.com/erigontech/erigon/issues/22086) - 2026-06-29
+* [Commit] [cmd/utils/app: bound commitment-history checks by file coverage, not stage_execution (#22095)](https://github.com/erigontech/erigon/commit/4f0f92cc9b0fe0994e83951f26f8e4e88b1a4173) - 2026-06-29
 ## Q1 2026
 
 

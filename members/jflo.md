@@ -89,6 +89,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Contribution Guidelines - update links](https://github.com/besu-eth/besu/pull/10682#pullrequestreview-4553495876) - 2026-06-23
 * [Pull Request] [adds *-devnet-* as a valid pattern to trigger CI](https://github.com/besu-eth/besu/pull/10707) - 2026-06-25
 * [Commit] [adds *-devnet-* as a valid pattern to trigger CI (#10707)](https://github.com/besu-eth/besu/commit/a67783cdc292edccbfefab7f4da624e8aa565139) - 2026-06-26
+* [Review] [Review on: gha-overhaul - REVIEW](https://github.com/besu-eth/besu/pull/10653#pullrequestreview-4592846083) - 2026-06-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #3, April 29, 2026](https://github.com/ethereum/pm/issues/2034) - 2026-04-27
 * [Issue] [Encrypt The Mempool #4, May 13, 2026](https://github.com/ethereum/pm/issues/2054) - 2026-05-12

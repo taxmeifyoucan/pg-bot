@@ -389,6 +389,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: check for slot > 0 in missedSlotVote](https://github.com/ChainSafe/lodestar/pull/9556#pullrequestreview-4569579930) - 2026-06-25
 * [Commit] [feat: add standard fast confirmation metrics (#9552)](https://github.com/ChainSafe/lodestar/commit/848b01419b92832ea4d0d6b32595641e3cf5cd75) - 2026-06-25
 * [Commit] [feat: upgrade to v1.7.0-alpha.11 spec (#9541)](https://github.com/ChainSafe/lodestar/commit/551b8b0a3d22a678ca16a5ab0d5893d27776dba6) - 2026-06-26
+* [Review] [Review on: chore: improve fast confirmation dashboard panels](https://github.com/ChainSafe/lodestar/pull/9561#pullrequestreview-4591487967) - 2026-06-29
+* [Review] [Review on: chore(deps): bump actions/cache from 5.0.5 to 6.1.0 in the actions group](https://github.com/ChainSafe/lodestar/pull/9563#pullrequestreview-4593659205) - 2026-06-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

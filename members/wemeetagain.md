@@ -174,6 +174,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add standard fast confirmation metrics](https://github.com/ChainSafe/lodestar/pull/9552#pullrequestreview-4564084075) - 2026-06-24
 * [Review] [Review on: fix: keep persistedKey when re-adding a reloaded checkpoint state](https://github.com/ChainSafe/lodestar/pull/9557#pullrequestreview-4571510504) - 2026-06-25
 * [Review] [Review on: fix: check for slot > 0 in missedSlotVote](https://github.com/ChainSafe/lodestar/pull/9556#pullrequestreview-4569513518) - 2026-06-25
+* [Review] [Review on: fix(network): init transports before processing bootENRs in PeerDiscovery](https://github.com/ChainSafe/lodestar/pull/9560#pullrequestreview-4593120134) - 2026-06-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116082340) - 2026-04-15
 

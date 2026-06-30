@@ -275,6 +275,8 @@ Team: Erigon
 * [Pull Request] [execution: route block validation through Engine, split gas limit, add CommitmentModel](https://github.com/erigontech/erigon/pull/22007) - 2026-06-24
 * [Pull Request] [cl: pluggable consensus engine for multi-chain (beacon/rollup/dev)](https://github.com/erigontech/erigon/pull/22025) - 2026-06-25
 * [Review] [Review on: BAL-driven parallel commitment](https://github.com/erigontech/erigon/pull/21416#pullrequestreview-4582272813) - 2026-06-26
+* [Review] [Review on: execution/stagedsync: checkpoint commitment at step boundaries in parallel exec](https://github.com/erigontech/erigon/pull/22092#pullrequestreview-4593789446) - 2026-06-29
+* [Issue] [Code and account domain writes should be atomic at the IBS/writer layer](https://github.com/erigontech/erigon/issues/22103) - 2026-06-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

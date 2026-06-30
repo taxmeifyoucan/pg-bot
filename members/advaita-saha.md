@@ -65,6 +65,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [Nimbus light flavour](https://github.com/status-im/nimbus-eth1/pull/4357) - 2026-06-22
 * [Pull Request] [syncer aware of FC state](https://github.com/status-im/nimbus-eth1/pull/4356) - 2026-06-22
 * [Review] [Review on: syncer aware of FC state](https://github.com/status-im/nimbus-eth1/pull/4356#pullrequestreview-4581171365) - 2026-06-26
+* [Commit] [syncer aware of FC state (#4356)](https://github.com/status-im/nimbus-eth1/commit/289fb03a8e12db6335e17982e394220796be4e4a) - 2026-06-29
 ## Q1 2026
 
 

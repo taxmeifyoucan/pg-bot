@@ -248,6 +248,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [use let in place of var in ncli/{ncli_testnet,resttest}](https://github.com/status-im/nimbus-eth2/pull/8676) - 2026-06-28
 * [Pull Request] [use let in place of var in research/ and tests/](https://github.com/status-im/nimbus-eth2/pull/8675) - 2026-06-28
 * [Pull Request] [rm mev_mock](https://github.com/status-im/nimbus-eth2/pull/8674) - 2026-06-28
+* [Pull Request] [Revert "Revert "Persist all chain DAG heads in database""](https://github.com/status-im/nimbus-eth2/pull/8679) - 2026-06-29
+* [Commit] [version v26.6.2](https://github.com/status-im/nimbus-eth2/commit/2361ee12d96e5910ead093ce714242c3215a21d9) - 2026-06-29
+* [Commit] [version v26.6.1](https://github.com/status-im/nimbus-eth2/commit/bb66be44bbf33e0a0f0c3333d9c834c6be6a8ac0) - 2026-06-29
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -284,6 +287,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [enforce CycleCreated warning as error (#4342)](https://github.com/status-im/nimbus-eth1/commit/bfdb6661c9ac14eb5d912bcdb663010588c5ac3c) - 2026-06-18
 * [Review] [Review on: proxy: op-stack support](https://github.com/status-im/nimbus-eth1/pull/4360#pullrequestreview-4562144349) - 2026-06-24
 * [Review] [Review on: proxy: op-stack support](https://github.com/status-im/nimbus-eth1/pull/4360#pullrequestreview-4567495369) - 2026-06-25
+* [Review] [Review on: proxy: op-stack support](https://github.com/status-im/nimbus-eth1/pull/4360#pullrequestreview-4591099606) - 2026-06-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27

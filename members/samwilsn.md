@@ -131,6 +131,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [fix(specs): check chain id](https://github.com/ethereum/execution-specs/commit/9d117a0c89d96a67913eb5d30db7f50808557ab3) - 2026-06-24
 * [Commit] [chore(ci): update mypy](https://github.com/ethereum/execution-specs/commit/c81abf9b35fd1d4215ea44bca74594e652c904b0) - 2026-06-24
 
+* [Review] [Review on: chore(tests,test-forks): Address #2990 review comments (pkgutil, type: ignore, Spec dataclass)](https://github.com/ethereum/execution-specs/pull/3018#pullrequestreview-4593418036) - 2026-06-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [AllWalletDevs #40, July 15, 2026](https://github.com/ethereum/pm/issues/2139) - 2026-06-24
 ## Q1 2026
