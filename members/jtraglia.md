@@ -429,6 +429,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update release-drafter/release-drafter action to v7.5.1](https://github.com/ethereum/consensus-specs/pull/5406#pullrequestreview-4592414479) - 2026-06-29
 * [Review] [Review on: Update actions/setup-python action to v6.3.0](https://github.com/ethereum/consensus-specs/pull/5405#pullrequestreview-4592392241) - 2026-06-29
 * [Commit] [Link EIPs with github permalinks for unstable specs (#5404)](https://github.com/ethereum/consensus-specs/commit/320bbad5530df3d18af7aad3ca1b5a353761d4e5) - 2026-06-29
+* [Pull Request] [Fix order of asserts in `test_incentives`](https://github.com/ethereum/consensus-specs/pull/5409) - 2026-06-30
+* [Pull Request] [Remove separate tests/infra directory](https://github.com/ethereum/consensus-specs/pull/5408) - 2026-06-30
+* [Review] [Review on: Backport `is_parent_strong` and `is_head_weak` changes to Phase0](https://github.com/ethereum/consensus-specs/pull/5401#pullrequestreview-4601327305) - 2026-06-30
+* [Commit] [Fix order of asserts in `test_incentives` (#5409)](https://github.com/ethereum/consensus-specs/commit/4ed09e480b42b91d449a9a4d763a759e0acbbf42) - 2026-06-30
+* [Commit] [Remove separate tests/infra directory (#5408)](https://github.com/ethereum/consensus-specs/commit/4603e43590b9bb3f6e2df948d3f26bcfe5fb122f) - 2026-06-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485) - 2026-04-09
 

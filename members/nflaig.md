@@ -391,6 +391,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: upgrade to v1.7.0-alpha.11 spec (#9541)](https://github.com/ChainSafe/lodestar/commit/551b8b0a3d22a678ca16a5ab0d5893d27776dba6) - 2026-06-26
 * [Review] [Review on: chore: improve fast confirmation dashboard panels](https://github.com/ChainSafe/lodestar/pull/9561#pullrequestreview-4591487967) - 2026-06-29
 * [Review] [Review on: chore(deps): bump actions/cache from 5.0.5 to 6.1.0 in the actions group](https://github.com/ChainSafe/lodestar/pull/9563#pullrequestreview-4593659205) - 2026-06-29
+* [Review] [Review on: feat: prune PayloadEnvelopeInput when syncing](https://github.com/ChainSafe/lodestar/pull/9509#pullrequestreview-4602319347) - 2026-06-30
+* [Review] [Review on: chore: surface fast confirmation reset cause in result/log](https://github.com/ChainSafe/lodestar/pull/9566#pullrequestreview-4601926044) - 2026-06-30
+* [Pull Request] [feat: broadcast proposer preferences before the gloas fork](https://github.com/ChainSafe/lodestar/pull/9571) - 2026-06-30
+* [Pull Request] [feat: align proposer preferences api with latest spec](https://github.com/ChainSafe/lodestar/pull/9570) - 2026-06-30
+* [Review] [Review on: feat: align proposer preferences api with latest spec](https://github.com/ChainSafe/lodestar/pull/9570#pullrequestreview-4599843952) - 2026-06-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add check on bid gossip for blob kzg commitment len](https://github.com/ethereum/consensus-specs/pull/5056#pullrequestreview-4059856029) - 2026-04-05
 * [Pull Request] [Use expected withdrawals from state when parent block is empty](https://github.com/ethereum/consensus-specs/pull/5069) - 2026-04-05

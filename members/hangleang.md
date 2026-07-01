@@ -7,6 +7,11 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 
 ## Contributions
 
+## Q3 2026
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [Fix duplicate attestations packed in post-Electra beacon block](https://github.com/grandinetech/grandine/pull/783) - 2026-07-01
 ## Q2 2026
 
 

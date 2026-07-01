@@ -123,6 +123,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(simulate): return 0 for unresolvable BLOCKHASH in eth_simulateV1 instead of throwing (#12037)](https://github.com/NethermindEth/nethermind/commit/f8fe20b5c9b818c6842d688f66b39dc901ae8e06) - 2026-06-26
 * [Pull Request] [ci: drop op-mainnet from master-validation sync check](https://github.com/NethermindEth/nethermind/pull/12171) - 2026-06-29
 * [Commit] [ci: drop op-mainnet from master-validation sync check (#12171)](https://github.com/NethermindEth/nethermind/commit/5893f0712b48c113d437d78d4446b766f50922a7) - 2026-06-29
+* [Pull Request] [perf(prewarmer): don't eagerly load EIP-2930 access lists when warming](https://github.com/NethermindEth/nethermind/pull/12182) - 2026-06-30
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [chore: streamline workflow artifacts and add opcodes tracing + run metadata](https://github.com/NethermindEth/gas-benchmarks/commit/d0ed07f946083d524d7db7d9920145101346a9d3) - 2026-04-01
 * [Commit] [feat: support partial regeneration from base release](https://github.com/NethermindEth/gas-benchmarks/commit/0b81fdcfa991739ba9889efbd97f5a5e587120f8) - 2026-04-02

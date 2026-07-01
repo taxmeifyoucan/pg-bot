@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 
 ## Contributions
 
+## Q3 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Commit] [Submit builder preferences from the validator client (#17063)](https://github.com/OffchainLabs/prysm/commit/72b0f62a2f34ec8188ebe4e8bd32037451306650) - 2026-07-01
 ## Q2 2026
 
 
@@ -347,6 +352,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Move peer-scoring of invalid block signatures to gossip caller](https://github.com/OffchainLabs/prysm/pull/17052) - 2026-06-29
 * [Review] [Review on: Don't request pre-Gloas payload](https://github.com/OffchainLabs/prysm/pull/17049#pullrequestreview-4592237598) - 2026-06-29
 * [Commit] [Fall back to a cached P2P bid when the local payload is unavailable in Gloas block production (#17042)](https://github.com/OffchainLabs/prysm/commit/4a25b18b4ad1451214b1250f96986c7d84161831) - 2026-06-29
+* [Pull Request] [Submit builder preferences from the validator client](https://github.com/OffchainLabs/prysm/pull/17063) - 2026-06-30
+* [Review] [Review on: Submit builder preferences from the validator client](https://github.com/OffchainLabs/prysm/pull/17063#pullrequestreview-4603663881) - 2026-06-30
+* [Pull Request] [Add max_execution_payment to proposer builder config](https://github.com/OffchainLabs/prysm/pull/17061) - 2026-06-30
+* [Review] [Review on: making ssz the default for payload attestations](https://github.com/OffchainLabs/prysm/pull/17064#pullrequestreview-4604254461) - 2026-06-30
+* [Review] [Review on: adding ssz support for proposer preferences](https://github.com/OffchainLabs/prysm/pull/17054#pullrequestreview-4601920699) - 2026-06-30
+* [Review] [Review on: Drain pending Gloas data columns for our own proposed block](https://github.com/OffchainLabs/prysm/pull/17059#pullrequestreview-4601330063) - 2026-06-30
+* [Review] [Review on: Fix the read/write to the seen cache for Gloas data columns and attempt EL reconstruction](https://github.com/OffchainLabs/prysm/pull/17053#pullrequestreview-4597117059) - 2026-06-30
+* [Commit] [Add max_execution_payment to proposer builder config (#17061)](https://github.com/OffchainLabs/prysm/commit/c8b915de2482131c1666788675bc473eaf6eff11) - 2026-06-30
+* [Commit] [Move peer-scoring of invalid block signatures to gossip caller (#17052)](https://github.com/OffchainLabs/prysm/commit/1fc46453cf9dfb3aaf2a80f9f90f87f96e89cdd3) - 2026-06-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add `slot_number` to `PayloadAttributes` (EIP-7843)](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4129568465) - 2026-04-17
 * [Pull Request] [Change proposer preference validator index check to ignore](https://github.com/ethereum/consensus-specs/pull/5164) - 2026-04-26

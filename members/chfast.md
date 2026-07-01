@@ -254,6 +254,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): EIP-8037 code-deposit state gas exact-fit boundary (#3031)](https://github.com/ethereum/execution-specs/commit/b14bc8160da274f9949cc81101c9248084024d4c) - 2026-06-23
 * [Pull Request] [feat(tests): EIP-2780 warm/cold-aware top-frame delegation](https://github.com/ethereum/execution-specs/pull/3045) - 2026-06-24
 * [Pull Request] [feat(tests): EIP-8037 spilled NEW_ACCOUNT gas consumed on caller halt](https://github.com/ethereum/execution-specs/pull/3061) - 2026-06-29
+* [Pull Request] [feat(tests): EIP-8037 CREATE-onto-alive refunds NEW_ACCOUNT to gas_left](https://github.com/ethereum/execution-specs/pull/3073) - 2026-06-30
+* [Pull Request] [feat(tests): EIP-8037 SSTORE-set state charge exact-fit spill boundary](https://github.com/ethereum/execution-specs/pull/3072) - 2026-06-30
+* [Pull Request] [feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069) - 2026-06-30
+* [Pull Request] [feat(tests): EIP-8037 CALL new-account state gas exact-fit boundary](https://github.com/ethereum/execution-specs/pull/3067) - 2026-06-30
+* [Pull Request] [feat(clients): migrate evmone t8n to the `evmone t8n` subcommand](https://github.com/ethereum/execution-specs/pull/3063) - 2026-06-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/pull/11527) - 2026-04-15
 * [Commit] [Update EIP-7708: Clarify burn log emission for non-zero balances](https://github.com/ethereum/EIPs/commit/dca0b20ee11516155d0e94756507e85106eb31ff) - 2026-04-15

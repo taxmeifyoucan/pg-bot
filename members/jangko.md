@@ -86,6 +86,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: fix FC (de)serialization crash related to multiple unfinalized heads](https://github.com/status-im/nimbus-eth1/pull/4334#pullrequestreview-4511814778) - 2026-06-17
 * [Commit] [Upgrade EEST test fixtures to tests-bal@v7.3.2 (#4328)](https://github.com/status-im/nimbus-eth1/commit/28610c60f936c91eb4cbbc4b24a26987f85fd7b7) - 2026-06-16
 * [Pull Request] [glamsterdam devnet 6](https://github.com/status-im/nimbus-eth1/pull/4371) - 2026-06-29
+* [Review] [Review on: glamsterdam devnet 6](https://github.com/status-im/nimbus-eth1/pull/4371#pullrequestreview-4597383589) - 2026-06-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: EthJson Rpc flavor](https://github.com/status-im/nimbus-eth2/pull/7853#pullrequestreview-4214019611) - 2026-05-02
 

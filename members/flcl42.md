@@ -253,6 +253,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Use standard Microsoft logging in Kademlia](https://github.com/NethermindEth/nethermind/pull/12170) - 2026-06-29
 * [Review] [Review on: Handle fork ID and seq in ENRs](https://github.com/NethermindEth/nethermind/pull/12126#pullrequestreview-4590322121) - 2026-06-29
 * [Commit] [Handle fork ID and seq in ENRs (#12126)](https://github.com/NethermindEth/nethermind/commit/6d6e14e5e77624485eabf91afbd2a7482ee2f994) - 2026-06-29
+* [Pull Request] [Fix Hive eth devp2p tests](https://github.com/NethermindEth/nethermind/pull/12179) - 2026-06-30
+* [Pull Request] [Fix EIP-8037 halt gas accounting](https://github.com/NethermindEth/nethermind/pull/12173) - 2026-06-30
+* [Review] [Review on: fix(tests): eliminate bonding race in KademliaAdapterTests](https://github.com/NethermindEth/nethermind/pull/12181#pullrequestreview-4601753804) - 2026-06-30
+* [Review] [Review on: fix(engine): exclude SSZ-REST paths from missing-capabilities warning](https://github.com/NethermindEth/nethermind/pull/12176#pullrequestreview-4600978244) - 2026-06-30
+* [Commit] [Fix EraE export for pure PoS genesis blocks (#12154)](https://github.com/NethermindEth/nethermind/commit/8cc1565e15bef4169a35fd758d0ffda4c9b125dc) - 2026-06-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8037: clarify spillover state gas still increments execution_state_gas_used](https://github.com/ethereum/EIPs/pull/11522#pullrequestreview-4106052762) - 2026-04-14
 

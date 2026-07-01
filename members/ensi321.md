@@ -108,6 +108,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: reject bids with invalid prev_randao during gossip validation](https://github.com/ChainSafe/lodestar/pull/9533#pullrequestreview-4541705373) - 2026-06-22
 * [Review] [Review on: feat: upgrade to v1.7.0-alpha.11 spec](https://github.com/ChainSafe/lodestar/pull/9541#pullrequestreview-4577091251) - 2026-06-26
 * [Issue] [Clean up post EIP-8282](https://github.com/ChainSafe/lodestar/issues/9558) - 2026-06-26
+* [Pull Request] [feat: add dependent root check when giving out proposer boost](https://github.com/ChainSafe/lodestar/pull/9565) - 2026-06-30
+* [Review] [Review on: feat: add dependent root check when giving out proposer boost](https://github.com/ChainSafe/lodestar/pull/9565#pullrequestreview-4598034564) - 2026-06-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: feat: add finalized_checkpoint_payload_status to fc store](https://github.com/ethereum/consensus-specs/pull/5073#pullrequestreview-4065932834) - 2026-04-07
 

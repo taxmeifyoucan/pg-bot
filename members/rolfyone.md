@@ -8,6 +8,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 
 ## Contributions
 
+## Q3 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [updated changelog 26.7.0](https://github.com/Consensys/teku/pull/10921) - 2026-07-01
+* [Pull Request] [updated builders endpoint for gloas](https://github.com/Consensys/teku/pull/10920) - 2026-07-01
 ## Q2 2026
 
 
@@ -170,6 +176,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Update Discord links to new server invite](https://github.com/Consensys/teku/pull/10903#pullrequestreview-4575218411) - 2026-06-25
 * [Review] [Review on: Enabled blobdb on new db only](https://github.com/Consensys/teku/pull/10900#pullrequestreview-4576757121) - 2026-06-26
 * [Commit] [Updated port flags to be not hidden (#10904)](https://github.com/Consensys/teku/commit/f99b5b4883f5295d877f99280caca3f3dce81de2) - 2026-06-26
+* [Review] [Review on: Add aircompressor snappy for gossip, default disabled](https://github.com/Consensys/teku/pull/10912#pullrequestreview-4597008459) - 2026-06-30
+* [Issue] [Update libp2p to remove 'Handshake completed with remote peerId' message](https://github.com/Consensys/teku/issues/10919) - 2026-06-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix genesis state in Gloas](https://github.com/ethereum/consensus-specs/pull/5172#pullrequestreview-4179777953) - 2026-04-27
 
@@ -185,6 +193,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: fix(tls,quic): expose libp2p host pubkey as remotePubKey, not the ephemeral cert subject key 2/2](https://github.com/libp2p/jvm-libp2p/pull/492#pullrequestreview-4512528300) - 2026-06-17
 * [Review] [Review on: fix(quic): validate hole-punch peer identity early and handle STOP_SENDING](https://github.com/libp2p/jvm-libp2p/pull/494#pullrequestreview-4549527895) - 2026-06-23
 * [Pull Request] [downgraded quic handshake message to debug](https://github.com/libp2p/jvm-libp2p/pull/501) - 2026-06-29
+* [Commit] [downgraded quic handshake message to debug (#501)](https://github.com/libp2p/jvm-libp2p/commit/3d3d3d90a4cf7a18315343473702408e85be2f8a) - 2026-06-30
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Downgrade routine peer-interaction logs from DEBUG to TRACE](https://github.com/Consensys/discovery/pull/224) - 2026-05-11
 * [Commit] [Downgrade routine peer-interaction logs from DEBUG to TRACE (#224)](https://github.com/Consensys/discovery/commit/9b9119956dac602cd21dd332f2d2415923d74c22) - 2026-05-11

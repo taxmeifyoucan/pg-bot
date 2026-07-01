@@ -130,6 +130,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Check if Bazel generated `.pb.go` and `.ssz.go` would have outputed (almost) the same result.](https://github.com/OffchainLabs/prysm/pull/17056) - 2026-06-29
 * [Review] [Review on: beacon state fields partial rebuild](https://github.com/OffchainLabs/prysm/pull/17018#pullrequestreview-4590744083) - 2026-06-29
 * [Commit] [Remove Bazel: Phase 1/9 (#16986)](https://github.com/OffchainLabs/prysm/commit/40b91ebf21db413e13284de4c1df2301bdf645a7) - 2026-06-29
+* [Pull Request] [Remove Bazel: Phase 3/9 - Part 1](https://github.com/OffchainLabs/prysm/pull/17062) - 2026-06-30
+* [Review] [Review on: `notifyNewHeadEvent`: Fix error when it is called for zero head slot](https://github.com/OffchainLabs/prysm/pull/17058#pullrequestreview-4598470404) - 2026-06-30
+* [Commit] [Check if Bazel generated `.pb.go` and `.ssz.go` would have outputed (almost) the same result. (#17056)](https://github.com/OffchainLabs/prysm/commit/ddb50c4513fff25290efd0163a4ce8f00ed6e5bd) - 2026-06-30
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [p2p/discover: Deadlock in `Table` when `discv5` iterator is in `waitForNodes` during `doRefresh.loadSeedNode`](https://github.com/ethereum/go-ethereum/issues/34881) - 2026-05-05
 

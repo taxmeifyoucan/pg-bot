@@ -277,6 +277,11 @@ Team: Erigon
 * [Review] [Review on: BAL-driven parallel commitment](https://github.com/erigontech/erigon/pull/21416#pullrequestreview-4582272813) - 2026-06-26
 * [Review] [Review on: execution/stagedsync: checkpoint commitment at step boundaries in parallel exec](https://github.com/erigontech/erigon/pull/22092#pullrequestreview-4593789446) - 2026-06-29
 * [Issue] [Code and account domain writes should be atomic at the IBS/writer layer](https://github.com/erigontech/erigon/issues/22103) - 2026-06-29
+* [Review] [Review on: [r3.5] execution/stagedsync: checkpoint commitment at step boundaries in parallel exec](https://github.com/erigontech/erigon/pull/22111#pullrequestreview-4600325542) - 2026-06-30
+* [Issue] [execution/cache: replace warmup drain-on-unwind with getter-level epoch capture](https://github.com/erigontech/erigon/issues/22116) - 2026-06-30
+* [Issue] [Flaky: TestFromZero_BranchCacheCoherentAcrossBatches/parallel — GetAsOf on TemporalMemBatch with inMemHistoryReads disabled](https://github.com/erigontech/erigon/issues/22118) - 2026-06-30
+* [Commit] [execution/cache: StateCache LRU + Mode + (txNum,epoch) lazy unwind (#21386)](https://github.com/erigontech/erigon/commit/5874c5edbc1bf494f62408eb4654e8741c8d3350) - 2026-06-30
+* [Commit] [execution: route block validation through Engine, split gas limit (#22007)](https://github.com/erigontech/erigon/commit/1bfb21e198b6528b4e6c0a6a21a95a632b80b037) - 2026-06-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [mainnet/debug_traceBlockByNumber: refresh test_33/test_34 for prestateTracer deleted-accounts fix](https://github.com/erigontech/rpc-tests/pull/554) - 2026-04-27
 ## Q1 2026

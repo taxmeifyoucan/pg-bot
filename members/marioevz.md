@@ -129,6 +129,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(specs): check chain id](https://github.com/ethereum/execution-specs/pull/3000#pullrequestreview-4565559841) - 2026-06-24
 * [Review] [Review on: fill-stateful: make the per-test chain rewind optional (add debug_resetHead)](https://github.com/ethereum/execution-specs/pull/3050#pullrequestreview-4575509059) - 2026-06-25
 * [Commit] [refactor(test-tools): Remove `CodeGasMeasure` footgun (stop) (#3040)](https://github.com/ethereum/execution-specs/commit/916604a4c06aad83ae33c0401d9192d1f11efde7) - 2026-06-25
+* [Pull Request] [feat(spec,tests): Implement EIP-8282](https://github.com/ethereum/execution-specs/pull/3070) - 2026-06-30
+* [Review] [Review on: refactor(tests): generalize system-contract request test helpers (EIP-6110/7002/7251/7685)](https://github.com/ethereum/execution-specs/pull/2989#pullrequestreview-4603415640) - 2026-06-30
+* [Issue] [chore(tests): Remove hard-coded gas limits from system contract tests](https://github.com/ethereum/execution-specs/issues/3071) - 2026-06-30
+* [Commit] [refactor(tests): generalize system-contract request test helpers (EIP-6110/7002/7251/7685) (#2989)](https://github.com/ethereum/execution-specs/commit/26f47861dfbbd6b33d6a050ece5dae0ee4611285) - 2026-06-30
+* [Commit] [chore(tests,test-forks): Address #2990 review comments (pkgutil, type: ignore, Spec dataclass) (#3018)](https://github.com/ethereum/execution-specs/commit/63f20af493acc2eb71f7542ce8bfe250e465c70c) - 2026-06-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #78, April 20, 2026](https://github.com/ethereum/pm/issues/2019) - 2026-04-13
 

@@ -8,6 +8,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q3 2026
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [switch some var to let](https://github.com/status-im/nimbus-eth2/pull/8685) - 2026-07-01
 ## Q2 2026
 
 
@@ -251,6 +256,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Revert "Revert "Persist all chain DAG heads in database""](https://github.com/status-im/nimbus-eth2/pull/8679) - 2026-06-29
 * [Commit] [version v26.6.2](https://github.com/status-im/nimbus-eth2/commit/2361ee12d96e5910ead093ce714242c3215a21d9) - 2026-06-29
 * [Commit] [version v26.6.1](https://github.com/status-im/nimbus-eth2/commit/bb66be44bbf33e0a0f0c3333d9c834c6be6a8ac0) - 2026-06-29
+* [Review] [Review on: add inclusion list pool](https://github.com/status-im/nimbus-eth2/pull/8681#pullrequestreview-4600950917) - 2026-06-30
+* [Review] [Review on: chore: bump libp2p to 2.1.0](https://github.com/status-im/nimbus-eth2/pull/8536#pullrequestreview-4604723759) - 2026-06-30
+* [Pull Request] [enforce InvalidCmpOp warning as error](https://github.com/status-im/nimbus-eth2/pull/8683) - 2026-06-30
+* [Pull Request] [rm now-unnecessary Nim bug workarounds](https://github.com/status-im/nimbus-eth2/pull/8682) - 2026-06-30
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: Automatically update gitsubmodules](https://github.com/status-im/nimbus-eth1/pull/4117#pullrequestreview-4100467250) - 2026-04-13
 * [Review] [Review on: fix: txpool should order by per-gas tip, not total gas expenditure](https://github.com/status-im/nimbus-eth1/pull/4126#pullrequestreview-4105645362) - 2026-04-14
@@ -288,6 +297,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: proxy: op-stack support](https://github.com/status-im/nimbus-eth1/pull/4360#pullrequestreview-4562144349) - 2026-06-24
 * [Review] [Review on: proxy: op-stack support](https://github.com/status-im/nimbus-eth1/pull/4360#pullrequestreview-4567495369) - 2026-06-25
 * [Review] [Review on: proxy: op-stack support](https://github.com/status-im/nimbus-eth1/pull/4360#pullrequestreview-4591099606) - 2026-06-29
+* [Review] [Review on: glamsterdam devnet 6](https://github.com/status-im/nimbus-eth1/pull/4371#pullrequestreview-4597127308) - 2026-06-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add support for eip7843 to Gloas](https://github.com/ethereum/consensus-specs/pull/4840#pullrequestreview-4122659196) - 2026-04-16
 * [Review] [Review on: Change minimal `PTC_SIZE` to 16 validators](https://github.com/ethereum/consensus-specs/pull/5177#pullrequestreview-4181975582) - 2026-04-27

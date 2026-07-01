@@ -183,6 +183,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(ci,tooling,test-types,test-forks): import `ethereum` lazily so xdist fill coverage measures it](https://github.com/ethereum/execution-specs/pull/3059) - 2026-06-29
 * [Pull Request] [refactor(test-benchmark): speed-up the keccak max-permutations search](https://github.com/ethereum/execution-specs/pull/3060) - 2026-06-29
 * [Pull Request] [chore(tests-benchmark, ci): mark test_keccak_max_permutations as slow](https://github.com/ethereum/execution-specs/pull/3058) - 2026-06-29
+* [Review] [Review on: chore(ci): speed up bench-gas by filling only the `blockchain_test` format](https://github.com/ethereum/execution-specs/pull/3057#pullrequestreview-4599139222) - 2026-06-30
+* [Commit] [chore(ci): speed up bench-gas by filling only the `blockchain_test` format (#3057)](https://github.com/ethereum/execution-specs/commit/f1221b2332ed86ecf40e45195d54eb1531f0b271) - 2026-06-30
+* [Commit] [refactor(test-benchmark): speed-up the keccak max-permutations search (#3060)](https://github.com/ethereum/execution-specs/commit/f200fed30c2c7f2ef4aeac5a4248af40447451ae) - 2026-06-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add kclowes from Testing](https://github.com/protocolguild/documentation/pull/489#pullrequestreview-4113965715) - 2026-04-15
 

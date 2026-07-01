@@ -154,6 +154,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: refactor(test-tools): Remove `CodeGasMeasure` footgun (stop)](https://github.com/ethereum/execution-specs/pull/3040#pullrequestreview-4567893378) - 2026-06-25
 * [Review] [Review on: chore(test-clients-cli): map ethrex empty-change-set BAL rejection to `INVALID_BLOCK_ACCESS_LIST`](https://github.com/ethereum/execution-specs/pull/3046#pullrequestreview-4567860345) - 2026-06-25
 * [Review] [Review on: fix(tests): register JSON fixture fork marker](https://github.com/ethereum/execution-specs/pull/3053#pullrequestreview-4576846242) - 2026-06-26
+* [Review] [Review on: feat(tests): add more EIP-2780 tests](https://github.com/ethereum/execution-specs/pull/3055#pullrequestreview-4597981218) - 2026-06-30
+* [Pull Request] [refactor(test-benchmark): address spec diverge in devnet](https://github.com/ethereum/execution-specs/pull/3062) - 2026-06-30
+* [Review] [Review on: fix(test-benchmark): address EIP-8037 spec compatibility issues](https://github.com/ethereum/execution-specs/pull/3026#pullrequestreview-4597726202) - 2026-06-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8246: Add Test Cases](https://github.com/ethereum/EIPs/pull/11631#pullrequestreview-4263679883) - 2026-05-11
 

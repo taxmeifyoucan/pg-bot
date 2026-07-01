@@ -80,6 +80,9 @@ Team: Grandine
 * [Pull Request] [Update network stack](https://github.com/grandinetech/grandine/pull/775) - 2026-06-25
 * [Issue] [Update network stack](https://github.com/grandinetech/grandine/issues/774) - 2026-06-25
 * [Commit] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/56075cdcf05ceb18bcef7648a0e45c7e33876253) - 2026-06-26
+* [Review] [Review on: Request payload envelope after block imported](https://github.com/grandinetech/grandine/pull/773#pullrequestreview-4598769846) - 2026-06-30
+* [Review] [Review on: Consult with fork choice should_build_on_full during payload bid selection](https://github.com/grandinetech/grandine/pull/781#pullrequestreview-4600844439) - 2026-06-30
+* [Review] [Review on: Update consensus-spec-tests for `glamsterdam-devnet-6`](https://github.com/grandinetech/grandine/pull/765#pullrequestreview-4600131094) - 2026-06-30
 ## Q1 2026
 
 

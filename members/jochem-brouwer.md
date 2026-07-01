@@ -8,6 +8,12 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Add EIP: Multi-block Access List Warming](https://github.com/ethereum/EIPs/pull/11776#pullrequestreview-4604924207) - 2026-07-01
+* [Review] [Review on: Add EIP: Post-Quantum Keystore for Stateful Keys](https://github.com/ethereum/EIPs/pull/11820#pullrequestreview-4604872136) - 2026-07-01
 ## Q2 2026
 
 
@@ -28,6 +34,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [feat(benchmarks): add eth transfer cases for repricing](https://github.com/ethereum/execution-specs/pull/2837) - 2026-05-12
 * [Commit] [feat(test-benchmark): add eth transfer cases for repricing (#2837)](https://github.com/ethereum/execution-specs/commit/c8117f22bf61da4f163f349d97a9833389dd62b9) - 2026-05-14
 * [Pull Request] [feat(benchmark): add g1/g2 uncachable MSM bench](https://github.com/ethereum/execution-specs/pull/3030) - 2026-06-19
+* [Review] [Review on: refactor(test-benchmark): update `test_account_access`, add `keccak256` overhead scenario](https://github.com/ethereum/execution-specs/pull/2947#pullrequestreview-4597962974) - 2026-06-30
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Allow zero safeBlockHash and finalizedBlockHash after finalization](https://github.com/ethereum/execution-apis/pull/760#pullrequestreview-4083109528) - 2026-04-09
 
@@ -79,6 +86,15 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: SETCODEFROM Code Reuse Instruction](https://github.com/ethereum/EIPs/pull/11800#pullrequestreview-4489978226) - 2026-06-13
 * [Review] [Review on: Add EIP: Block Access List Byte Floor](https://github.com/ethereum/EIPs/pull/11739#pullrequestreview-4513838690) - 2026-06-17
 * [Review] [Review on: Add EIP: Block Access List Byte Floor](https://github.com/ethereum/EIPs/pull/11739#pullrequestreview-4524265809) - 2026-06-18
+* [Review] [Review on: Update EIP-8182: Move to Review](https://github.com/ethereum/EIPs/pull/11825#pullrequestreview-4604831885) - 2026-06-30
+* [Review] [Review on: Add EIP: Frame type for PQ sig and STARK aggregation](https://github.com/ethereum/EIPs/pull/11772#pullrequestreview-4604600041) - 2026-06-30
+* [Review] [Review on: Add EIP: Partitioned Binary Tree](https://github.com/ethereum/EIPs/pull/11799#pullrequestreview-4604379374) - 2026-06-30
+* [Review] [Review on: Add EIP: Post-Quantum(PQ) Attestation Aggregators](https://github.com/ethereum/EIPs/pull/11777#pullrequestreview-4604193964) - 2026-06-30
+* [Review] [Review on: Add EIP: Fixed-Cutoff State Tiering](https://github.com/ethereum/EIPs/pull/11790#pullrequestreview-4604167075) - 2026-06-30
+* [Review] [Review on: Add EIP: State Tiering by Periods](https://github.com/ethereum/EIPs/pull/11788#pullrequestreview-4603998590) - 2026-06-30
+* [Review] [Review on: Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/pull/11587#pullrequestreview-4600098936) - 2026-06-30
+* [Review] [Review on: Add EIP: Hash-Committed Account](https://github.com/ethereum/EIPs/pull/11480#pullrequestreview-4599876589) - 2026-06-30
+* [Review] [Review on: Add EIP: Increase Maximum Contract Size to 64KiB](https://github.com/ethereum/EIPs/pull/11462#pullrequestreview-4599825325) - 2026-06-30
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Pull Request] [Correctly name devnet-2 genesis and introduce devnet-3 genesis](https://github.com/NethermindEth/gas-benchmarks/pull/139) - 2026-04-22
 

@@ -114,6 +114,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Feature/eip 8038](https://github.com/NethermindEth/nethermind/pull/12120) - 2026-06-24
 * [Pull Request] [Glamsterdam devnet 6 eips](https://github.com/NethermindEth/nethermind/pull/12117) - 2026-06-24
 * [Review] [Review on: fix(simulate): return 0 for unresolvable BLOCKHASH in eth_simulateV1 instead of throwing](https://github.com/NethermindEth/nethermind/pull/12037#pullrequestreview-4578732173) - 2026-06-26
+* [Review] [Review on: RPC Monitor fixes & improvements](https://github.com/NethermindEth/nethermind/pull/12175#pullrequestreview-4602715101) - 2026-06-30
+* [Review] [Review on: Use standard Microsoft logging in Kademlia](https://github.com/NethermindEth/nethermind/pull/12170#pullrequestreview-4602683961) - 2026-06-30
+* [Review] [Review on: fix(rpc): change ExecutionError code from -32003 to -32000 to match Geth](https://github.com/NethermindEth/nethermind/pull/12169#pullrequestreview-4602671845) - 2026-06-30
+* [Review] [Review on: Guard EraE/eth_subscribe overflow, drop pre-ulong leftovers, cover gas-limit reject arm](https://github.com/NethermindEth/nethermind/pull/12178#pullrequestreview-4602926696) - 2026-06-30
+* [Review] [Review on: fix(tests): eliminate bonding race in KademliaAdapterTests](https://github.com/NethermindEth/nethermind/pull/12181#pullrequestreview-4602620655) - 2026-06-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat: Bogota fork + EIP-7805 engine_newPayloadV6 bump](https://github.com/ethereum/execution-specs/pull/3028) - 2026-06-19
 ## Q1 2026

@@ -727,6 +727,10 @@ Team: Reth
 * [Review] [Review on: perf: windowed conversion of transactions](https://github.com/paradigmxyz/reth/pull/25783#pullrequestreview-4590925163) - 2026-06-29
 * [Commit] [fix(net): wire max pending imports setting (#25921)](https://github.com/paradigmxyz/reth/commit/d24629dedd01a445d55dba803c10c93a7c8527e3) - 2026-06-29
 * [Commit] [chore: fix cargo deny advisory check (#25922)](https://github.com/paradigmxyz/reth/commit/156142b352c8dba837bd78fb83eb65219a68a294) - 2026-06-29
+* [Review] [Review on: feat(net): add dedicated eth + snap/2 stream](https://github.com/paradigmxyz/reth/pull/25752#pullrequestreview-4602548665) - 2026-06-30
+* [Pull Request] [fix(payload): include Amsterdam fields in payload id](https://github.com/paradigmxyz/reth/pull/25973) - 2026-06-30
+* [Pull Request] [perf(evm): share execution outcome receipts](https://github.com/paradigmxyz/reth/pull/25966) - 2026-06-30
+* [Commit] [fix(payload): include Amsterdam fields in payload id (#25973)](https://github.com/paradigmxyz/reth/commit/a28c3a08943aec2333d6d18ae7331c9eb25b3cb6) - 2026-06-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [chore(deps): bump alloy 2.0 crates](https://github.com/bluealloy/revm/pull/3565) - 2026-04-14
 * [Commit] [chore(deps): bump alloy 2.0 crates (#3565)](https://github.com/bluealloy/revm/commit/be7f0595d307a4584990c07e04831aee05e48a7e) - 2026-04-14

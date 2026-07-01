@@ -196,6 +196,12 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [fix: remove `slashValidator` gating on active status (#448)](https://github.com/ChainSafe/lodestar-z/commit/d319a0d2dbd2fa52ddc75b17eefda71e23c03b2f) - 2026-06-26
 * [Pull Request] [fix(epoch_cache): populate decision roots in afterProcessEpoch](https://github.com/ChainSafe/lodestar-z/pull/453) - 2026-06-29
 * [Commit] [fix(epoch_cache): populate decision roots in afterProcessEpoch (#453)](https://github.com/ChainSafe/lodestar-z/commit/4b70a5edcd1dd65871567b306e8d0a8d8a25a8d4) - 2026-06-29
+* [Pull Request] [fix: state transition binding exports](https://github.com/ChainSafe/lodestar-z/pull/456) - 2026-06-30
+* [Pull Request] [feat(metrics): metrics bindings](https://github.com/ChainSafe/lodestar-z/pull/455) - 2026-06-30
+* [Review] [Review on: feat(metrics): metrics bindings](https://github.com/ChainSafe/lodestar-z/pull/455#pullrequestreview-4601176028) - 2026-06-30
+* [Pull Request] [fix: missing state commits](https://github.com/ChainSafe/lodestar-z/pull/454) - 2026-06-30
+* [Commit] [fix: dangling state pointer in loadOtherState (#450)](https://github.com/ChainSafe/lodestar-z/commit/81cbd5f221e7b7c5eb20e681190bfd98e04e1f92) - 2026-06-30
+* [Commit] [fix: pendingConsolidations bindings (#449)](https://github.com/ChainSafe/lodestar-z/commit/b9c497e8ec058f7ce31f0014c5f2e3383be4c512) - 2026-06-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116262223) - 2026-04-15
 
@@ -216,6 +222,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix: check for slot > 0 in missedSlotVote](https://github.com/ChainSafe/lodestar/pull/9556) - 2026-06-25
 * [Review] [Review on: fix: check for slot > 0 in missedSlotVote](https://github.com/ChainSafe/lodestar/pull/9556#pullrequestreview-4569789745) - 2026-06-25
 * [Commit] [fix: check for slot > 0 in missedSlotVote (#9556)](https://github.com/ChainSafe/lodestar/commit/e4ada6b7e0bbd5baccb7bc80aaabc8d8e36d3422) - 2026-06-25
+* [Pull Request] [feat(bindings): cache shufflings from native](https://github.com/ChainSafe/lodestar/pull/9569) - 2026-06-30
 ## Q1 2026
 
 

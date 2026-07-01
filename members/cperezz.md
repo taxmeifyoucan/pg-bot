@@ -61,6 +61,7 @@ Github: [@cperezz](https://github.com/cperezz)
 [gballet/go-ethereum](https://github.com/gballet/go-ethereum)
 * [Pull Request] [trie: fix nodeHeight over-estimate so height-3 branches are archived](https://github.com/gballet/go-ethereum/pull/577) - 2026-06-15
 
+* [Pull Request] [core/state, trie/archive: bound cold-state access to prevent thread exhaustion](https://github.com/gballet/go-ethereum/pull/578) - 2026-06-30
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(eip8038): finalize gas parameters per ethereum/EIPs#11802](https://github.com/bluealloy/revm/pull/3771) - 2026-06-22
 ## Q1 2026

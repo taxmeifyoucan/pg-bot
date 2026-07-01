@@ -789,6 +789,23 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12158#pullrequestreview-4589612598) - 2026-06-29
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12159#pullrequestreview-4589610013) - 2026-06-29
 * [Review] [Review on: Fix undisposed array-pool list leaks](https://github.com/NethermindEth/nethermind/pull/12034#pullrequestreview-4590388375) - 2026-06-29
+* [Review] [Review on: Fix Hive eth devp2p tests](https://github.com/NethermindEth/nethermind/pull/12179#pullrequestreview-4603690905) - 2026-06-30
+* [Review] [Review on: refactor(plugins): wire TraceStore/OpcodeTracing tracers via DI](https://github.com/NethermindEth/nethermind/pull/12144#pullrequestreview-4599582152) - 2026-06-30
+* [Review] [Review on: fix(tests): make discv5 WireTests EmbeddedChannel access thread-safe](https://github.com/NethermindEth/nethermind/pull/12180#pullrequestreview-4601618443) - 2026-06-30
+* [Review] [Review on: RPC Monitor fixes & improvements](https://github.com/NethermindEth/nethermind/pull/12175#pullrequestreview-4603729100) - 2026-06-30
+* [Review] [Review on: Use standard Microsoft logging in Kademlia](https://github.com/NethermindEth/nethermind/pull/12170#pullrequestreview-4603723590) - 2026-06-30
+* [Review] [Review on: fix(rpc): change ExecutionError code from -32003 to -32000 to match Geth](https://github.com/NethermindEth/nethermind/pull/12169#pullrequestreview-4601007575) - 2026-06-30
+* [Review] [Review on: Guard EraE/eth_subscribe overflow, drop pre-ulong leftovers, cover gas-limit reject arm](https://github.com/NethermindEth/nethermind/pull/12178#pullrequestreview-4603676399) - 2026-06-30
+* [Pull Request] [fix(tests): eliminate bonding race in KademliaAdapterTests](https://github.com/NethermindEth/nethermind/pull/12181) - 2026-06-30
+* [Review] [Review on: fix(tests): eliminate bonding race in KademliaAdapterTests](https://github.com/NethermindEth/nethermind/pull/12181#pullrequestreview-4601692073) - 2026-06-30
+* [Pull Request] [fix(engine): exclude SSZ-REST paths from missing-capabilities warning](https://github.com/NethermindEth/nethermind/pull/12176) - 2026-06-30
+* [Review] [Review on: fix(engine): exclude SSZ-REST paths from missing-capabilities warning](https://github.com/NethermindEth/nethermind/pull/12176#pullrequestreview-4600956937) - 2026-06-30
+* [Review] [Review on: feat(StateDiffsWriter): replace StateComposition plugin](https://github.com/NethermindEth/nethermind/pull/11788#pullrequestreview-4598945095) - 2026-06-30
+* [Review] [Review on: fix(dns): validate enrtree-root fields and skip malformed records](https://github.com/NethermindEth/nethermind/pull/12136#pullrequestreview-4598934592) - 2026-06-30
+* [Review] [Review on: fix(evm): align insufficient-funds-for-transfer message with Geth](https://github.com/NethermindEth/nethermind/pull/12167#pullrequestreview-4598953079) - 2026-06-30
+* [Review] [Review on: Fix EraE export for pure PoS genesis blocks](https://github.com/NethermindEth/nethermind/pull/12154#pullrequestreview-4598924338) - 2026-06-30
+* [Commit] [fix(tests): eliminate bonding race in KademliaAdapterTests (#12181)](https://github.com/NethermindEth/nethermind/commit/541a1e51d772dcf45289fc12065b4a24b1e07da5) - 2026-06-30
+* [Commit] [fix(engine): exclude SSZ-REST paths from missing-capabilities warning (#12176)](https://github.com/NethermindEth/nethermind/commit/ff453a221aae0e2ba96eebe4a808a35047f5e156) - 2026-06-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484) - 2026-04-09
 
@@ -802,6 +819,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: engine: add targetGasLimit to PayloadAttributesV4](https://github.com/ethereum/execution-apis/pull/796#pullrequestreview-4290710648) - 2026-05-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Raise contract code size to 64KiB](https://github.com/ethereum/EIPs/pull/11540#pullrequestreview-4291157966) - 2026-05-14
+
+[nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
+* [Pull Request] [fix(bigint): correct log2(10) buffer-estimate constant](https://github.com/NethermindEth/dotnet-riscv/pull/5) - 2026-06-30
+* [Pull Request] [refactor(bigint): simplify buffer-estimate to a limb-count bound](https://github.com/NethermindEth/dotnet-riscv/pull/6) - 2026-06-30
 ## Q1 2026
 
 

@@ -109,6 +109,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Glamsterdam devnet 6: eth_config fixes](https://github.com/besu-eth/besu/pull/10706#pullrequestreview-4571037442) - 2026-06-25
 * [Review] [Review on: adds *-devnet-* as a valid pattern to trigger CI](https://github.com/besu-eth/besu/pull/10707#pullrequestreview-4578641318) - 2026-06-26
 * [Pull Request] [Fix LayeredKeyValueStorage.isClosed() duplicated execution](https://github.com/besu-eth/besu/pull/10719) - 2026-06-29
+* [Review] [Review on: Persist state and advance chain on non-adjacent engine_newPayload](https://github.com/besu-eth/besu/pull/10721#pullrequestreview-4599845313) - 2026-06-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Test reservoir refunded at top level when parent halts after child sp…](https://github.com/ethereum/execution-specs/pull/2644) - 2026-04-09
 

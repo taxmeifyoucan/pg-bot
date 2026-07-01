@@ -134,6 +134,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Avoid slice clone when only counting consensus children in forkchoice](https://github.com/OffchainLabs/prysm/pull/17048#pullrequestreview-4591664812) - 2026-06-29
 * [Commit] [Add Read Only interface to next slot state cache (#17055)](https://github.com/OffchainLabs/prysm/commit/1a69f62be1c140bfbb8c0ffe82a270267910109e) - 2026-06-30
 * [Commit] [Don't request pre-Gloas payload (#17049)](https://github.com/OffchainLabs/prysm/commit/912f01914945e0a85aad08e5d2b3ad7b7ea9869f) - 2026-06-29
+* [Pull Request] [Drain pending Gloas data columns for our own proposed block](https://github.com/OffchainLabs/prysm/pull/17059) - 2026-06-30
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Pull Request] [Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55) - 2026-04-08
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4076686500) - 2026-04-08

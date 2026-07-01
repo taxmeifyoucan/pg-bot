@@ -141,6 +141,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [fix bal hash naming in block header result](https://github.com/besu-eth/besu/pull/10712) - 2026-06-26
 * [Review] [Review on: Set testing_buildBlockV1 coinbase to suggestedFeeRecipient](https://github.com/besu-eth/besu/pull/10710#pullrequestreview-4577152727) - 2026-06-26
 * [Commit] [auto detection for max open files (#10629)](https://github.com/besu-eth/besu/commit/da1ec8d15fe2cf91401f7083408fd5690f379882) - 2026-06-26
+* [Review] [Review on: snap/2 - apply BALs during pivot catch-up](https://github.com/besu-eth/besu/pull/10649#pullrequestreview-4598343694) - 2026-06-30
+* [Pull Request] [Persist state and advance chain on non-adjacent engine_newPayload](https://github.com/besu-eth/besu/pull/10721) - 2026-06-30
+* [Review] [Review on: perf: make LayeredKeyValueStorage.isClosed() O(1) to fix CPU hotspot under deep layer chains](https://github.com/besu-eth/besu/pull/10603#pullrequestreview-4598626449) - 2026-06-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Change block access list index to uint32](https://github.com/ethereum/EIPs/pull/11550#pullrequestreview-4141338959) - 2026-04-20
 ## Q1 2026

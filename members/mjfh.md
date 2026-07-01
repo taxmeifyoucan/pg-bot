@@ -54,6 +54,10 @@ Team: Nimbus
 * [Review] [Review on: Fetch BALs when syncing](https://github.com/status-im/nimbus-eth1/pull/4362#pullrequestreview-4571839668) - 2026-06-25
 * [Pull Request] [Snap sync update fsa for beacon+snap tandem](https://github.com/status-im/nimbus-eth1/pull/4364) - 2026-06-26
 * [Commit] [Snap sync update fsa for beacon+snap tandem (#4364)](https://github.com/status-im/nimbus-eth1/commit/a880ea8a12a396283a62113e71b05a6589ae368b) - 2026-06-26
+* [Pull Request] [Snap sync control some logging noise](https://github.com/status-im/nimbus-eth1/pull/4376) - 2026-06-30
+* [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4372) - 2026-06-30
+* [Commit] [Snap sync control some logging noise (#4376)](https://github.com/status-im/nimbus-eth1/commit/e8e162f7713dfb6b013e939a8fa1e7dde6857e41) - 2026-06-30
+* [Commit] [Snap sync maint update (#4372)](https://github.com/status-im/nimbus-eth1/commit/1a1e90f5e9a7f5089fbfe8fba97c0ac07f7614cf) - 2026-06-30
 ## Q1 2026
 
 

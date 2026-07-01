@@ -46,6 +46,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec-specs): EIP-8037 - check static context upfront in CREATE opcodes](https://github.com/ethereum/execution-specs/pull/2978#pullrequestreview-4476817729) - 2026-06-11
 * [Pull Request] [fix(spec-specs): EIP-2780 charge `NEW_ACCOUNT` for value transfer to zero balance precompile](https://github.com/ethereum/execution-specs/pull/3048) - 2026-06-25
 * [Pull Request] [tests(amsterdam): add more EIP-2780 tests](https://github.com/ethereum/execution-specs/pull/3055) - 2026-06-26
+* [Pull Request] [feat(spec-specs, tests): move SSTORE access-cost check before read](https://github.com/ethereum/execution-specs/pull/3064) - 2026-06-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/pull/11332#pullrequestreview-4152757786) - 2026-04-22
 * [Commit] [Update EIP-2780: Clarify interactions with other EIPs](https://github.com/ethereum/EIPs/commit/c550387e917485af69a6999aea45270a555e2eb7) - 2026-04-22

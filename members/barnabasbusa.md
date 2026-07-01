@@ -423,6 +423,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore(deps): bump ethpandaops/go-eth2-client to v0.1.5](https://github.com/ethpandaops/contributoor/pull/242) - 2026-06-24
 * [Commit] [Merge pull request #242 from ethpandaops/chore/bump-go-eth2-client-v0.1.5](https://github.com/ethpandaops/contributoor/commit/22a716bf5a000e7bec7d9728c507b27a81784399) - 2026-06-24
 * [Commit] [chore(deps): bump ethpandaops/go-eth2-client to v0.1.5](https://github.com/ethpandaops/contributoor/commit/11aabcda7451a9884c8519e7b84d3bf9ede76ed9) - 2026-06-24
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(tests/amsterdam): EIP-7997 fork-transition test](https://github.com/ethereum/execution-specs/pull/3066) - 2026-06-30
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [EIP-7997: don't reset factory nonce when it already exists](https://github.com/status-im/nimbus-eth1/pull/4373) - 2026-06-30
 ## Q1 2026
 
 

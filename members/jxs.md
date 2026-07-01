@@ -35,6 +35,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 * [Review] [Review on: Update libp2p](https://github.com/sigp/lighthouse/pull/9331#pullrequestreview-4391342090) - 2026-05-29
 * [Review] [Review on: Release v8.2.0](https://github.com/sigp/lighthouse/pull/9512#pullrequestreview-4542978589) - 2026-06-22
 * [Pull Request] [disable mplex by default](https://github.com/sigp/lighthouse/pull/9522) - 2026-06-23
+* [Review] [Review on: Improve banning logic by grouping Ipv6 /56 prefixes](https://github.com/sigp/lighthouse/pull/8199#pullrequestreview-4601652188) - 2026-06-30
 ## Q4 2025
 
 

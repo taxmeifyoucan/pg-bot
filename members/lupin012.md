@@ -232,6 +232,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: rejected quoted decimal block-number strings; require 0x hex format](https://github.com/erigontech/erigon/pull/21985#pullrequestreview-4592060234) - 2026-06-29
 * [Review] [Review on: rpc: use overlay tx in GasPrice, BlobBaseFee, BaseFee to avoid flaky test on latest](https://github.com/erigontech/erigon/pull/22006#pullrequestreview-4595336266) - 2026-06-29
 * [Commit] [QA: update disabled List on rpcTest (#22070)](https://github.com/erigontech/erigon/commit/95dc52bcee372d886121d95b33fb0799b2eb9f91) - 2026-06-29
+* [Review] [Review on: rpc: rejected quoted decimal block-number strings; require 0x hex format](https://github.com/erigontech/erigon/pull/21985#pullrequestreview-4600587743) - 2026-06-30
+* [Review] [Review on: rpc: fix trace result field written on exec error](https://github.com/erigontech/erigon/pull/22082#pullrequestreview-4601029544) - 2026-06-30
+* [Commit] [rpc: rejected quoted decimal block-number strings; require 0x hex format (#21985)](https://github.com/erigontech/erigon/commit/f645cae45a5674363c70ac9b19ab8c07011bfb65) - 2026-06-30
+* [Commit] [rpc: use overlay tx in GasPrice, BlobBaseFee, BaseFee to avoid flaky test on latest (#22006)](https://github.com/erigontech/erigon/commit/aed7708bb2a3bd83bbce0ab622b2e2010b18872d) - 2026-06-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration  eth_simulateV1: with storage collision](https://github.com/erigontech/rpc-tests/pull/544) - 2026-04-02
 * [Pull Request] [integration: add tests eth_getStorageValues()](https://github.com/erigontech/rpc-tests/pull/545) - 2026-04-03
@@ -300,6 +304,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration_test: fix debug trace null result](https://github.com/erigontech/rpc-tests/pull/582) - 2026-06-28
 * [Commit] [add extra note (#566)](https://github.com/erigontech/rpc-tests/commit/b530116586401418eecfc0eb93ecc7c7579c464a) - 2026-06-28
 * [Commit] [add test with new config (#569)](https://github.com/erigontech/rpc-tests/commit/dad3785dd5ddeea68f9b615a2225f28407fde536) - 2026-06-28
+* [Commit] [integration_test: trace_block() and erigon_getLatestLog() with bn as hex (#581)](https://github.com/erigontech/rpc-tests/commit/e15ee6b617e22e419da2f9c75b66d4abd393165a) - 2026-06-30
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [simulators/graphql: pass HIVE_CANCUN_TIMESTAMP to client and fix test expectations](https://github.com/ethereum/hive/pull/1533) - 2026-06-08
 * [Pull Request] [GraphQL: erigon allow unprotected txs when GraphQL is enabled](https://github.com/ethereum/hive/pull/1539) - 2026-06-09

@@ -8,6 +8,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q3 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: feat(FlatDB): long finality support with persisted snapshots](https://github.com/NethermindEth/nethermind/pull/12142#pullrequestreview-4605171488) - 2026-07-01
+* [Review] [Review on: Fix Hive eth devp2p tests](https://github.com/NethermindEth/nethermind/pull/12179#pullrequestreview-4605132586) - 2026-07-01
+* [Review] [Review on: refactor(plugins): wire TraceStore/OpcodeTracing tracers via DI](https://github.com/NethermindEth/nethermind/pull/12144#pullrequestreview-4604976479) - 2026-07-01
+* [Review] [Review on: perf(zkevm): Stateless guest execution optimizations](https://github.com/NethermindEth/nethermind/pull/12141#pullrequestreview-4605002707) - 2026-07-01
+* [Review] [Review on: Support all zkevm tests via both blockchain and engine](https://github.com/NethermindEth/nethermind/pull/12177#pullrequestreview-4604931091) - 2026-07-01
+* [Review] [Review on: fix(tests): make discv5 WireTests EmbeddedChannel access thread-safe](https://github.com/NethermindEth/nethermind/pull/12180#pullrequestreview-4604912883) - 2026-07-01
 ## Q2 2026
 
 
@@ -359,6 +369,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(txpool): fix data race that broadcasts a null transaction](https://github.com/NethermindEth/nethermind/pull/12162#pullrequestreview-4589265959) - 2026-06-29
 * [Review] [Review on: fix(grpc): dispose subscription queue and harden publish against teardown](https://github.com/NethermindEth/nethermind/pull/12138#pullrequestreview-4589402538) - 2026-06-29
 * [Commit] [fix(txpool): fix data race that broadcasts a null transaction (#12162)](https://github.com/NethermindEth/nethermind/commit/618af12a9a1542f980c2c509d7700a589a95f1c9) - 2026-06-29
+* [Review] [Review on: Use standard Microsoft logging in Kademlia](https://github.com/NethermindEth/nethermind/pull/12170#pullrequestreview-4601005529) - 2026-06-30
+* [Review] [Review on: [WIP] - Flat historical state](https://github.com/NethermindEth/nethermind/pull/12125#pullrequestreview-4597587875) - 2026-06-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Oleksii Bespalov from Nethermind](https://github.com/protocolguild/documentation/pull/484#pullrequestreview-4098644039) - 2026-04-13
 ## Q1 2026

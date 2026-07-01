@@ -340,6 +340,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Handle fork ID and seq in ENRs](https://github.com/NethermindEth/nethermind/pull/12126#pullrequestreview-4590400524) - 2026-06-29
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12158#pullrequestreview-4590386651) - 2026-06-29
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12159#pullrequestreview-4590385062) - 2026-06-29
+* [Review] [Review on: refactor(evm): gas-policy multidimensional refactoring — foundation (cost-in-policy)](https://github.com/NethermindEth/nethermind/pull/12146#pullrequestreview-4601105877) - 2026-06-30
+* [Review] [Review on: Enforce strict leading-zero validation for QUANTITY hex ](https://github.com/NethermindEth/nethermind/pull/12103#pullrequestreview-4598986567) - 2026-06-30
+* [Review] [Review on: feat(StateDiffsWriter): replace StateComposition plugin](https://github.com/NethermindEth/nethermind/pull/11788#pullrequestreview-4598976802) - 2026-06-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/pull/11493) - 2026-04-08
 * [Commit] [Update EIP-2780: Add transfer log cost, remove PAY](https://github.com/ethereum/EIPs/commit/75e3e82c22f30dc8465ced0bbbf984b4f03e8667) - 2026-04-08

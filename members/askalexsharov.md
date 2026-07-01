@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q3 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: p2p/discover: drop net.IP/AddrPort String allocs on hot paths](https://github.com/erigontech/erigon/pull/22109#pullrequestreview-4605325686) - 2026-07-01
 ## Q2 2026
 
 
@@ -896,6 +901,13 @@ Team: Erigon
 * [Review] [Review on: cmd/utils/app: bound commitment-history checks by file coverage, not stage_execution](https://github.com/erigontech/erigon/pull/22095#pullrequestreview-4591677718) - 2026-06-29
 * [Review] [Review on: [r3.4] cmd/utils/app: bound commitment-history checks by file coverage, not stage_execution](https://github.com/erigontech/erigon/pull/22096#pullrequestreview-4591681230) - 2026-06-29
 * [Review] [Review on: [r3.5] cmd/utils/app: bound commitment-history checks by state file coverage](https://github.com/erigontech/erigon/pull/22094#pullrequestreview-4591673420) - 2026-06-29
+* [Pull Request] [p2p/discover: drop net.IP/AddrPort String allocs on hot paths](https://github.com/erigontech/erigon/pull/22109) - 2026-06-30
+* [Review] [Review on: execution, db: unwind/reorg tests + concurrency and shutdown fixes](https://github.com/erigontech/erigon/pull/21973#pullrequestreview-4597124820) - 2026-06-30
+* [Review] [Review on: execution, rpc, cmd/evm: gate EIP-161 and EIP-170 on DisabledEIPs](https://github.com/erigontech/erigon/pull/21915#pullrequestreview-4597128332) - 2026-06-30
+* [Review] [Review on: execution/stagedsync: burn coinbase tip on a same-tx SELFDESTRUCT (parallel exec)](https://github.com/erigontech/erigon/pull/22057#pullrequestreview-4597106395) - 2026-06-30
+* [Issue] [streaming commitment: exec from 0 mainnet: state root missmatch](https://github.com/erigontech/erigon/issues/22113) - 2026-06-30
+* [Commit] [common: migrate assert flag from compile-time to runtime (env) (#22108)](https://github.com/erigontech/erigon/commit/1026dee25575b65b1100d34609cc5289227e9dc8) - 2026-06-30
+* [Commit] [build: bump protoc to v35.1 (#22107)](https://github.com/erigontech/erigon/commit/de7ddcdc25cf7363e7aff83e8c4e6ff130d92e2b) - 2026-06-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4051511216) - 2026-04-02
 * [Review] [Review on: Add Willian Mitsuda from Erigon](https://github.com/protocolguild/documentation/pull/495#pullrequestreview-4117901808) - 2026-04-16

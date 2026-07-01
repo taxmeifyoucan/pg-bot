@@ -139,6 +139,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(spec-specs, tests): refund EIP-8037 account creation for existing create targets (#3002)](https://github.com/ethereum/execution-specs/commit/350e1764dd79522f29ce98cb7ccd65d741d8be8c) - 2026-06-18
 * [Commit] [feat(spec-specs, tests): update EIP-8037 to use source based refunds (#2999)](https://github.com/ethereum/execution-specs/commit/a8876ca0182e0043ffcfff01033692e36b0f0cb5) - 2026-06-18
 * [Review] [Review on: chore(ci): speed up bench-gas by filling only the `blockchain_test` format](https://github.com/ethereum/execution-specs/pull/3057#pullrequestreview-4591571068) - 2026-06-29
+* [Review] [Review on: refactor(specs): 8037 `StateGas`, `RegularGas` and `StateGasPerByte`](https://github.com/ethereum/execution-specs/pull/3037#pullrequestreview-4602593742) - 2026-06-30
+* [Review] [Review on: chore(ci): speed up bench-gas by filling only the `blockchain_test` format](https://github.com/ethereum/execution-specs/pull/3057#pullrequestreview-4601976459) - 2026-06-30
+* [Review] [Review on: refactor(test-benchmark): speed-up the keccak max-permutations search](https://github.com/ethereum/execution-specs/pull/3060#pullrequestreview-4601588798) - 2026-06-30
+* [Issue] [Merge Glamsterdam Devnet 6 to Forks/Amsterdam](https://github.com/ethereum/execution-specs/issues/3068) - 2026-06-30
+* [Issue] [Enforce merged EIP reference-spec pins as a release gate](https://github.com/ethereum/execution-specs/issues/3065) - 2026-06-30
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [cmd/evm: add enginetest command and parallel workers for test runners](https://github.com/erigontech/erigon/pull/20315) - 2026-04-03
 

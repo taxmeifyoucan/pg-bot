@@ -33,6 +33,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix template error](https://github.com/ethereum/EIPs/pull/11801) - 2026-06-12
 * [Commit] [fix template error (#11801)](https://github.com/ethereum/EIPs/commit/fea04241d0d13514c2baf67076eff63dd3549872) - 2026-06-12
 * [Review] [Review on: Update EIP-7979: Validation algorithm on blockchain, other editing.](https://github.com/ethereum/EIPs/pull/11744#pullrequestreview-4508340662) - 2026-06-16
+* [Review] [Review on: Update EIP-2542: Move to Withdrawn](https://github.com/ethereum/EIPs/pull/11773#pullrequestreview-4602416612) - 2026-06-30
+* [Review] [Review on: Add EIP: Increase Calldata Floor Cost to 96](https://github.com/ethereum/EIPs/pull/11821#pullrequestreview-4602389622) - 2026-06-30
+* [Review] [Review on: Add EIP: Trustless log and transaction index](https://github.com/ethereum/EIPs/pull/11811#pullrequestreview-4602305162) - 2026-06-30
+* [Review] [Review on: Add EIP: Checked Arithmetic Opcodes](https://github.com/ethereum/EIPs/pull/11495#pullrequestreview-4602099252) - 2026-06-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec): Abstract py-ecc implementation detail from EIP-2537](https://github.com/ethereum/execution-specs/pull/2384#pullrequestreview-4078371779) - 2026-04-08
 * [Pull Request] [chore(tooling,deps): update mypy to 1.20](https://github.com/ethereum/execution-specs/pull/2633) - 2026-04-08

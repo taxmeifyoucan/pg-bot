@@ -66,6 +66,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(fork-choice): keep confirmed monotonic for still-canonical blocks (proposal)](https://github.com/ChainSafe/lodestar/pull/9554#pullrequestreview-4566713690) - 2026-06-24
 * [Review] [Review on: perf: skip equivocation participant set when there are no equivocators](https://github.com/ChainSafe/lodestar/pull/9553#pullrequestreview-4566560284) - 2026-06-24
 * [Pull Request] [chore: improve fast confirmation dashboard panels](https://github.com/ChainSafe/lodestar/pull/9561) - 2026-06-29
+* [Pull Request] [perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572) - 2026-06-30
+* [Pull Request] [chore: surface fast confirmation reset cause in result/log](https://github.com/ChainSafe/lodestar/pull/9566) - 2026-06-30
+* [Commit] [chore: surface fast confirmation reset cause in result/log (#9566)](https://github.com/ChainSafe/lodestar/commit/4b91ba8c2f64416446248840d93af6ec29f17f61) - 2026-06-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add grapebaba from Lodestar Team](https://github.com/protocolguild/documentation/pull/494#pullrequestreview-4116154021) - 2026-04-15
 

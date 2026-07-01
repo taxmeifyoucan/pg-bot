@@ -244,6 +244,7 @@ Team: Erigon
 * [Pull Request] [rpc/jsonrpc: build `eth_getWitness` during trie unfold](https://github.com/erigontech/erigon/pull/22099) - 2026-06-29
 * [Review] [Review on: common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs()](https://github.com/erigontech/erigon/pull/22075#pullrequestreview-4591364867) - 2026-06-29
 * [Review] [Review on: common/dbg: reduce TIP_TRIE_WARMUPERS default to estimate.HalfCPUs()](https://github.com/erigontech/erigon/pull/22076#pullrequestreview-4591362617) - 2026-06-29
+* [Pull Request] [[r3.5] execution/stagedsync: checkpoint commitment at step boundaries in parallel exec](https://github.com/erigontech/erigon/pull/22111) - 2026-06-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482#pullrequestreview-4070122674) - 2026-04-07
 ## Q1 2026

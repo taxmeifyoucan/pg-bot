@@ -199,6 +199,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [`payload_attestation` duty production fails if payload is not present](https://github.com/Consensys/teku/issues/10894) - 2026-06-24
 * [Commit] [ssz intcache no callback (#10871)](https://github.com/Consensys/teku/commit/b9c752bc9c1a20b962695ce6fe4d854a3e947b61) - 2026-06-24
 * [Commit] [Reduce CI Gradle cache churn (#10890)](https://github.com/Consensys/teku/commit/c6f590bf26cb5ce4fed458c710ea9a7df9ccd3a0) - 2026-06-24
+* [Review] [Review on: Treat no data (empty block) for PayloadAttestationProductionDuty as NOOP](https://github.com/Consensys/teku/pull/10907#pullrequestreview-4600837646) - 2026-06-30
+* [Pull Request] [Preserve Gloas state transition caches](https://github.com/Consensys/teku/pull/10917) - 2026-06-30
+* [Commit] [Preserve Gloas state transition caches (#10917)](https://github.com/Consensys/teku/commit/01fb87a9abc7a0a388ece414ffd25b7289098b5f) - 2026-06-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Defer payload processing to next block](https://github.com/ethereum/consensus-specs/pull/5094#pullrequestreview-4090018375) - 2026-04-10
 * [Review] [Review on: Swap latest_block_hash / latest_execution_payload_bid](https://github.com/ethereum/consensus-specs/pull/5113#pullrequestreview-4121929213) - 2026-04-16

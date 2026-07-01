@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 
 ## Contributions
 
+## Q3 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [making proposer preferences repush on reconnection to different node](https://github.com/OffchainLabs/prysm/pull/17066) - 2026-07-01
 ## Q2 2026
 
 
@@ -176,6 +181,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Don't request pre-Gloas payload](https://github.com/OffchainLabs/prysm/pull/17049#pullrequestreview-4592398953) - 2026-06-29
 * [Commit] [Grpc stateless gloas (#16943)](https://github.com/OffchainLabs/prysm/commit/251c0cb48367e2f0e99cb23e4cf070950ee778fa) - 2026-06-29
 * [Commit] [adding gossip validation on envelope api and block api default (#16960)](https://github.com/OffchainLabs/prysm/commit/2f9d8ec62beca3dbaf56f86d9d3b576c17c408d6) - 2026-06-29
+* [Review] [Review on: Submit builder preferences from the validator client](https://github.com/OffchainLabs/prysm/pull/17063#pullrequestreview-4603397599) - 2026-06-30
+* [Review] [Review on: Add max_execution_payment to proposer builder config](https://github.com/OffchainLabs/prysm/pull/17061#pullrequestreview-4603570054) - 2026-06-30
+* [Pull Request] [making ssz the default for payload attestations](https://github.com/OffchainLabs/prysm/pull/17064) - 2026-06-30
+* [Review] [Review on: adding ssz support for proposer preferences](https://github.com/OffchainLabs/prysm/pull/17054#pullrequestreview-4601905712) - 2026-06-30
+* [Review] [Review on: Drain pending Gloas data columns for our own proposed block](https://github.com/OffchainLabs/prysm/pull/17059#pullrequestreview-4601241822) - 2026-06-30
+* [Commit] [making ssz the default for payload attestations (#17064)](https://github.com/OffchainLabs/prysm/commit/86d95eec043206c7a8b2ebaa396133346a9b1d8e) - 2026-06-30
+* [Commit] [adding ssz support for proposer preferences (#17054)](https://github.com/OffchainLabs/prysm/commit/200e4af3cdde9585585b28dcf832974eb07a6c0b) - 2026-06-30
+* [Commit] [replace tracked validators cache with proposer preference (#16767)](https://github.com/OffchainLabs/prysm/commit/3d5a830cdc7de8c281f7e1a41fd1352b880ae358) - 2026-06-30
 [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
 * [Review] [Review on: Add native RISC-V support](https://github.com/OffchainLabs/hashtree/pull/55#pullrequestreview-4075872168) - 2026-04-08
 ## Q1 2026

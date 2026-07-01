@@ -862,6 +862,24 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: feat: extension points for embedding applications](https://github.com/erigontech/erigon/pull/21976#pullrequestreview-4589972641) - 2026-06-29
 * [Issue] [execution/stagedsync: parallel exec loops forever with zero progress when commitment files lag state domains (step-misalignment error silently swallowed)](https://github.com/erigontech/erigon/issues/22101) - 2026-06-29
 * [Commit] [execution/commitment: shard BranchCache LRU tail to cut warmup lock contention (#21982)](https://github.com/erigontech/erigon/commit/c3c93766d687c603bedd16755ead8d8166184d9a) - 2026-06-29
+* [Review] [Review on: execution/stagedsync: checkpoint commitment at step boundaries in parallel exec](https://github.com/erigontech/erigon/pull/22092#pullrequestreview-4599074097) - 2026-06-30
+* [Review] [Review on: execution/stagedsync: surface real errors at the parallel exec/apply boundary](https://github.com/erigontech/erigon/pull/22102#pullrequestreview-4603889263) - 2026-06-30
+* [Pull Request] [prune: human-readable aliases for --prune.distance.blocks sentinels](https://github.com/erigontech/erigon/pull/22119) - 2026-06-30
+* [Review] [Review on: rpc: fix trace result field written on exec error](https://github.com/erigontech/erigon/pull/22082#pullrequestreview-4599667072) - 2026-06-30
+* [Review] [Review on: execution, db: unwind/reorg tests + concurrency and shutdown fixes](https://github.com/erigontech/erigon/pull/21973#pullrequestreview-4600899686) - 2026-06-30
+* [Review] [Review on: rpc: use overlay tx in GasPrice, BlobBaseFee, BaseFee to avoid flaky test on latest](https://github.com/erigontech/erigon/pull/22006#pullrequestreview-4599380807) - 2026-06-30
+* [Review] [Review on: cl: catch up latest Gloas execution requests](https://github.com/erigontech/erigon/pull/22091#pullrequestreview-4601306643) - 2026-06-30
+* [Review] [Review on: execution/stagedsync, db/state: fix parallel-exec reorg-to-genesis commitment crash](https://github.com/erigontech/erigon/pull/22058#pullrequestreview-4599745072) - 2026-06-30
+* [Pull Request] [execution/stagedsync, commitment: restore commitment state reader after parallel exec batch](https://github.com/erigontech/erigon/pull/22114) - 2026-06-30
+* [Review] [Review on: execution/stagedsync, commitment: restore commitment state reader after parallel exec batch](https://github.com/erigontech/erigon/pull/22114#pullrequestreview-4599765370) - 2026-06-30
+* [Review] [Review on: cl/forkchoice: use delta tree for GLOAS weights](https://github.com/erigontech/erigon/pull/21913#pullrequestreview-4600116346) - 2026-06-30
+* [Issue] [Shutdown race: temporal.DB.Close() tears down the state aggregator while the detached block-retire goroutine may still read it](https://github.com/erigontech/erigon/issues/22115) - 2026-06-30
+* [Issue] [execution/stagedsync: improve findExecutedDiffsetAtHeight multi-header fallback + branch coverage](https://github.com/erigontech/erigon/issues/22117) - 2026-06-30
+* [Issue] [execution/cache: review findings for #21386 (StateCache LRU + (txNum,epoch) lazy unwind)](https://github.com/erigontech/erigon/issues/22120) - 2026-06-30
+* [Issue] [execution/stagedsync: `parallelExecutor.wait` silently drops a real exec error on shutdown (ctx.Done race)](https://github.com/erigontech/erigon/issues/22121) - 2026-06-30
+* [Commit] [execution, db: unwind/reorg tests + concurrency and shutdown fixes (#21973)](https://github.com/erigontech/erigon/commit/eb197eeff2f1892d73a1c23ba6330791204889cc) - 2026-06-30
+* [Commit] [execution, rpc, cmd/evm: gate EIP-161 and EIP-170 on DisabledEIPs (#21915)](https://github.com/erigontech/erigon/commit/291328a459bff778df5d1763795271e33a1d7e32) - 2026-06-30
+* [Commit] [execution/stagedsync: burn coinbase tip on a same-tx SELFDESTRUCT (parallel exec) (#22057)](https://github.com/erigontech/erigon/commit/455449f0e563dcf7c3367905b0003a1f8bbd88f2) - 2026-06-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Shoham from Erigon](https://github.com/protocolguild/documentation/pull/482) - 2026-04-02
 

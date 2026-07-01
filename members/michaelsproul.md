@@ -146,6 +146,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Gloas alpha spec 11](https://github.com/sigp/lighthouse/pull/9511#pullrequestreview-4585127065) - 2026-06-27
 * [Review] [Review on: Gloas alpha spec 11](https://github.com/sigp/lighthouse/pull/9511#pullrequestreview-4596712938) - 2026-06-30
 * [Review] [Review on: Fix checkpoint sync 401 with trailing-slash path-embedded API keys](https://github.com/sigp/lighthouse/pull/9548#pullrequestreview-4588654238) - 2026-06-29
+* [Review] [Review on: Gloas alpha spec 11](https://github.com/sigp/lighthouse/pull/9511#pullrequestreview-4597008515) - 2026-06-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Nikos Baxevanis from Protocol Security](https://github.com/protocolguild/documentation/pull/485#pullrequestreview-4085190425) - 2026-04-09
 * [Review] [Review on: Add Daniel Knopik from Lighthouse](https://github.com/protocolguild/documentation/pull/487#pullrequestreview-4092313899) - 2026-04-10

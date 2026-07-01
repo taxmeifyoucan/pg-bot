@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 
 ## Contributions
 
+## Q3 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: updated changelog 26.7.0](https://github.com/Consensys/teku/pull/10921#pullrequestreview-4605201128) - 2026-07-01
 ## Q2 2026
 
 
@@ -105,6 +110,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Enabled blobdb on new db only](https://github.com/Consensys/teku/pull/10900#pullrequestreview-4575773842) - 2026-06-25
 * [Commit] [Enabled blobdb on new db only (#10900)](https://github.com/Consensys/teku/commit/3255b626084d36147a4867ff7cde4467382d512d) - 2026-06-26
 * [Issue] [implement executable gossip validation functions for gloas](https://github.com/Consensys/teku/issues/10910) - 2026-06-29
+* [Pull Request] [Add interface to allow serve gossip validated data column from blocks not imported](https://github.com/Consensys/teku/pull/10914) - 2026-06-30
 ## Q1 2026
 
 

@@ -63,6 +63,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Fix unbounded growth of engine_exchangeCapabilities requested method list (#17004)](https://github.com/OffchainLabs/prysm/commit/ef29a27420c5b0c429e9cf28a00d25d78c777bb8) - 2026-06-26
 * [Review] [Review on: Move peer-scoring of invalid block signatures to gossip caller](https://github.com/OffchainLabs/prysm/pull/17052#pullrequestreview-4594367709) - 2026-06-29
 * [Review] [Review on: Remove Bazel: Phase 1/9](https://github.com/OffchainLabs/prysm/pull/16986#pullrequestreview-4592968074) - 2026-06-29
+* [Review] [Review on: Check if Bazel generated `.pb.go` and `.ssz.go` would have outputed (almost) the same result.](https://github.com/OffchainLabs/prysm/pull/17056#pullrequestreview-4602031814) - 2026-06-30
 ## Q1 2026
 
 
