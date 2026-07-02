@@ -8,6 +8,14 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Use `get_max_attester_slashings` in `get_random_attester_slashings`](https://github.com/ethereum/consensus-specs/pull/5413) - 2026-07-01
+* [Pull Request] [Add new `get_min_activation_balance` helper function](https://github.com/ethereum/consensus-specs/pull/5412) - 2026-07-01
+* [Review] [Review on: Add the IL bitlist to bid](https://github.com/ethereum/consensus-specs/pull/5410#pullrequestreview-4610781910) - 2026-07-01
+* [Review] [Review on: Fix req/resp nits](https://github.com/ethereum/consensus-specs/pull/5411#pullrequestreview-4610583541) - 2026-07-01
 ## Q2 2026
 
 

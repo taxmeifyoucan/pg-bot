@@ -13,6 +13,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Submit builder preferences from the validator client (#17063)](https://github.com/OffchainLabs/prysm/commit/72b0f62a2f34ec8188ebe4e8bd32037451306650) - 2026-07-01
+* [Pull Request] [Add Gloas Builder-API bid selection and block submission](https://github.com/OffchainLabs/prysm/pull/17067) - 2026-07-01
+* [Review] [Review on: Add Gloas Builder-API bid selection and block submission](https://github.com/OffchainLabs/prysm/pull/17067#pullrequestreview-4612554051) - 2026-07-01
+* [Review] [Review on: Emit correct parent_block_hash in Gloas payload_attributes SSE event](https://github.com/OffchainLabs/prysm/pull/17071#pullrequestreview-4610394605) - 2026-07-01
+* [Review] [Review on: Request data column sidecars needed to validate a payload envelope](https://github.com/OffchainLabs/prysm/pull/17070#pullrequestreview-4609760700) - 2026-07-01
+* [Review] [Review on: Request a block's unknown parent by root on gossip arrival](https://github.com/OffchainLabs/prysm/pull/17057#pullrequestreview-4609654329) - 2026-07-01
+* [Pull Request] [Sign and submit Gloas builder request auths from the validator client](https://github.com/OffchainLabs/prysm/pull/17068) - 2026-07-01
+* [Commit] [Queue payload attestations received before the beacon block (#16909)](https://github.com/OffchainLabs/prysm/commit/c40b59a47512c348a68bd173998af9e32a99c934) - 2026-07-01
+* [Commit] [Ignore unverifiable execution payload bids on gossip instead of rejecting (#17044)](https://github.com/OffchainLabs/prysm/commit/aa1efecc58d4c3dd3bb86bb9d396a3457162f288) - 2026-07-01
+* [Commit] [Request a block's unknown parent by root on gossip arrival (#17057)](https://github.com/OffchainLabs/prysm/commit/eb795f1e6c79882761c6c1a8a42b05ce477e0f80) - 2026-07-01
 ## Q2 2026
 
 

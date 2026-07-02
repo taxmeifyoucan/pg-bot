@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 
 ## Contributions
 
+## Q3 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: add a Gloas builder circuit breaker](https://github.com/Consensys/teku/pull/10911#pullrequestreview-4607004028) - 2026-07-01
 ## Q2 2026
 
 

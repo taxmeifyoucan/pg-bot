@@ -13,6 +13,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [making proposer preferences repush on reconnection to different node](https://github.com/OffchainLabs/prysm/pull/17066) - 2026-07-01
+* [Review] [Review on: Use `head_v2` event as a default event topic for REST VC ](https://github.com/OffchainLabs/prysm/pull/16980#pullrequestreview-4612804014) - 2026-07-01
+* [Review] [Review on: Add Gloas Builder-API bid selection and block submission](https://github.com/OffchainLabs/prysm/pull/17067#pullrequestreview-4612626151) - 2026-07-01
+* [Review] [Review on: Emit correct parent_block_hash in Gloas payload_attributes SSE event](https://github.com/OffchainLabs/prysm/pull/17071#pullrequestreview-4610450904) - 2026-07-01
+* [Review] [Review on: Return `execution_optimistic` correctly for reward APIs](https://github.com/OffchainLabs/prysm/pull/16526#pullrequestreview-4610188151) - 2026-07-01
 ## Q2 2026
 
 

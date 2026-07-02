@@ -8,6 +8,12 @@ Team: Reth
 
 ## Contributions
 
+## Q3 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Review] [Review on: perf(network): use fixed hasher for peer maps](https://github.com/paradigmxyz/reth/pull/26031#pullrequestreview-4613325486) - 2026-07-01
+* [Review] [Review on: refactor(trie): drop unused BlockAccessList state-root message](https://github.com/paradigmxyz/reth/pull/26022#pullrequestreview-4613169086) - 2026-07-01
 ## Q2 2026
 
 

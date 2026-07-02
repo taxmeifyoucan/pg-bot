@@ -8,6 +8,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q3 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: cl: catch up latest Gloas execution requests](https://github.com/erigontech/erigon/pull/22091#pullrequestreview-4606278642) - 2026-07-01
+* [Review] [Review on: cl/forkchoice: use delta tree for GLOAS weights](https://github.com/erigontech/erigon/pull/21913#pullrequestreview-4605892682) - 2026-07-01
 ## Q2 2026
 
 

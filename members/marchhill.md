@@ -7,6 +7,12 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 
 ## Contributions
 
+## Q3 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [fix(stateless): align stateless IO with tests-zkevm@v0.5.0](https://github.com/NethermindEth/nethermind/pull/12191) - 2026-07-01
+* [Review] [Review on: Fix Hive eth devp2p tests](https://github.com/NethermindEth/nethermind/pull/12179#pullrequestreview-4607771574) - 2026-07-01
 ## Q2 2026
 
 

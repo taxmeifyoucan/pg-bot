@@ -14,6 +14,15 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Multi-block Access List Warming](https://github.com/ethereum/EIPs/pull/11776#pullrequestreview-4604924207) - 2026-07-01
 * [Review] [Review on: Add EIP: Post-Quantum Keystore for Stateful Keys](https://github.com/ethereum/EIPs/pull/11820#pullrequestreview-4604872136) - 2026-07-01
+* [Review] [Review on: Add EIP: Partitioned Binary Tree](https://github.com/ethereum/EIPs/pull/11799#pullrequestreview-4613703753) - 2026-07-02
+* [Review] [Review on: Add EIP: State Tiering by Periods](https://github.com/ethereum/EIPs/pull/11788#pullrequestreview-4610247241) - 2026-07-01
+* [Review] [Review on: Add EIP: Fixed-Cutoff State Tiering](https://github.com/ethereum/EIPs/pull/11790#pullrequestreview-4610197798) - 2026-07-01
+* [Review] [Review on: Update EIP-8182: Move to Review](https://github.com/ethereum/EIPs/pull/11825#pullrequestreview-4610147120) - 2026-07-01
+* [Review] [Review on: Add EIP: Increase Calldata Floor Cost to 96](https://github.com/ethereum/EIPs/pull/11821#pullrequestreview-4606810901) - 2026-07-01
+* [Review] [Review on: Add EIP: Post-Quantum Keystore for Stateful Keys](https://github.com/ethereum/EIPs/pull/11820#pullrequestreview-4607026304) - 2026-07-01
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 ## Q2 2026
 
 

@@ -12,6 +12,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Fix duplicate attestations packed in post-Electra beacon block](https://github.com/grandinetech/grandine/pull/783) - 2026-07-01
+* [Review] [Review on: feat: added POST state_builders beaconAPI endpoint](https://github.com/grandinetech/grandine/pull/779#pullrequestreview-4609744838) - 2026-07-01
+* [Review] [Review on: Update consensus-spec-tests for `glamsterdam-devnet-6`](https://github.com/grandinetech/grandine/pull/765#pullrequestreview-4606779148) - 2026-07-01
+* [Pull Request] [Add engine_newPayloadV5 binding](https://github.com/grandinetech/grandine/pull/784) - 2026-07-01
 ## Q2 2026
 
 

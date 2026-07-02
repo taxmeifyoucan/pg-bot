@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q3 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [ci, db/state: matrix-test serial vs parallel commitment across the test workflows](https://github.com/erigontech/erigon/pull/22141) - 2026-07-01
 ## Q2 2026
 
 

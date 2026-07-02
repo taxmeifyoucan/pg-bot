@@ -8,6 +8,21 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 ## Contributions
 
+## Q3 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: Payload reorg](https://github.com/OffchainLabs/prysm/pull/16933#pullrequestreview-4610416494) - 2026-07-01
+* [Pull Request] [Emit correct parent_block_hash in Gloas payload_attributes SSE event](https://github.com/OffchainLabs/prysm/pull/17071) - 2026-07-01
+* [Review] [Review on: Emit correct parent_block_hash in Gloas payload_attributes SSE event](https://github.com/OffchainLabs/prysm/pull/17071#pullrequestreview-4611012719) - 2026-07-01
+* [Review] [Review on: Queue payload attestations received before the beacon block](https://github.com/OffchainLabs/prysm/pull/16909#pullrequestreview-4609385653) - 2026-07-01
+* [Review] [Review on: Ignore unverifiable execution payload bids on gossip instead of rejecting](https://github.com/OffchainLabs/prysm/pull/17044#pullrequestreview-4609286890) - 2026-07-01
+* [Pull Request] [Request data column sidecars needed to validate a payload envelope](https://github.com/OffchainLabs/prysm/pull/17070) - 2026-07-01
+* [Review] [Review on: Request data column sidecars needed to validate a payload envelope](https://github.com/OffchainLabs/prysm/pull/17070#pullrequestreview-4609793292) - 2026-07-01
+* [Review] [Review on: Request a block's unknown parent by root on gossip arrival](https://github.com/OffchainLabs/prysm/pull/17057#pullrequestreview-4609264386) - 2026-07-01
+* [Commit] [Emit correct parent_block_hash in Gloas payload_attributes SSE event (#17071)](https://github.com/OffchainLabs/prysm/commit/364bea697260b4b64cf2660af5d8fcfef9e9cf61) - 2026-07-01
+* [Commit] [Add forkchoice unit test (#16932)](https://github.com/OffchainLabs/prysm/commit/edca2b5756640c5189a8ae2d2a9c2ffe7aff51fd) - 2026-07-01
+* [Commit] [Request data column sidecars needed to validate a payload envelope (#17070)](https://github.com/OffchainLabs/prysm/commit/9904fbdf275b678bdb517921dfe5153ac4f45e55) - 2026-07-01
 ## Q2 2026
 
 

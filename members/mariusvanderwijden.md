@@ -8,6 +8,15 @@ Team: Geth
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Review] [Review on: core, consensus/misc, params: implement EIP-7997](https://github.com/ethereum/go-ethereum/pull/35223#pullrequestreview-4608686624) - 2026-07-01
+* [Review] [Review on: core: implement EIP-8038](https://github.com/ethereum/go-ethereum/pull/35216#pullrequestreview-4608637422) - 2026-07-01
+* [Review] [Review on: cmd: add amsterdam override flag](https://github.com/ethereum/go-ethereum/pull/35213#pullrequestreview-4607164314) - 2026-07-01
+* [Review] [Review on: core: implement EIP-7928 spec change](https://github.com/ethereum/go-ethereum/pull/35260#pullrequestreview-4607213428) - 2026-07-01
+* [Commit] [params: remove named hardforks from bpo schedule (#35029)](https://github.com/ethereum/go-ethereum/commit/0fbad29b943a90423289fb74fee236b6ea6d4388) - 2026-07-01
 ## Q2 2026
 
 

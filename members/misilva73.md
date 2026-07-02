@@ -6,6 +6,14 @@ Github: [@misilva73](https://github.com/misilva73)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8311: clarify scope of TOTAL_COST_FLOOR_PER_TOKEN change](https://github.com/ethereum/EIPs/pull/11843) - 2026-07-01
+* [Review] [Review on: Add EIP: Increase Calldata Floor Cost to 96](https://github.com/ethereum/EIPs/pull/11821#pullrequestreview-4606596072) - 2026-07-01
+* [Commit] [Update EIP-8311: clarify scope of TOTAL_COST_FLOOR_PER_TOKEN change](https://github.com/ethereum/EIPs/commit/fbf0965160e75ed7f0c40c0266de7232a1d2ced8) - 2026-07-01
+* [Commit] [Add EIP: Increase Calldata Floor Cost to 96](https://github.com/ethereum/EIPs/commit/ebba601400ce9e3f8091aaeb5fbb7b6b176ce221) - 2026-07-01
 ## Q2 2026
 
 

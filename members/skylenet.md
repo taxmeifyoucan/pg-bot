@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Commit] [cmd: add amsterdam override flag (#35213)](https://github.com/ethereum/go-ethereum/commit/7e625dd54822499d7fece76de9850377d65957c4) - 2026-07-01
 ## Q2 2026
 
 

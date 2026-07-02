@@ -8,6 +8,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q3 2026
+
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Review] [Review on: feat: implement logging module](https://github.com/ChainSafe/lodestar-z/pull/446#pullrequestreview-4607513112) - 2026-07-01
+* [Review] [Review on: feat(metrics): metrics bindings](https://github.com/ChainSafe/lodestar-z/pull/455#pullrequestreview-4606413003) - 2026-07-01
+* [Review] [Review on: fix: state transition binding exports](https://github.com/ChainSafe/lodestar-z/pull/456#pullrequestreview-4606464334) - 2026-07-01
+* [Review] [Review on: fix: missing state commits](https://github.com/ChainSafe/lodestar-z/pull/454#pullrequestreview-4606309631) - 2026-07-01
+* [Issue] [refactor(clock): consolidate SlotClock/EventClock into a single user-facing Clock](https://github.com/ChainSafe/lodestar-z/issues/457) - 2026-07-01
 ## Q2 2026
 
 

@@ -6,6 +6,11 @@ Github: [@stdevmac](https://github.com/stdevmac)
 
 ## Contributions
 
+## Q3 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: Rpc comparison job improvements](https://github.com/NethermindEth/nethermind/pull/12194#pullrequestreview-4613701836) - 2026-07-02
 ## Q2 2026
 
 

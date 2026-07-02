@@ -8,6 +8,15 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 ## Contributions
 
+## Q3 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: fix(stateless): align stateless IO with tests-zkevm@v0.5.0](https://github.com/NethermindEth/nethermind/pull/12191#pullrequestreview-4608777040) - 2026-07-01
+* [Review] [Review on: Fix background scheduler branch completion](https://github.com/NethermindEth/nethermind/pull/12033#pullrequestreview-4609275035) - 2026-07-01
+* [Review] [Review on: perf: replace TrieStore shard-index modulo with a bitmask](https://github.com/NethermindEth/nethermind/pull/12183#pullrequestreview-4607910590) - 2026-07-01
+* [Commit] [Improve tx pool handling, eth/70, hive settings, blob proof translation (#12179)](https://github.com/NethermindEth/nethermind/commit/8d9e7f7b0910d02ae1aabb1981b0f4a756af3083) - 2026-07-01
+* [Commit] [Use standard Microsoft logging in Kademlia (#12170)](https://github.com/NethermindEth/nethermind/commit/2ddede7badc97b96827f68543bdfc985cf104d8d) - 2026-07-01
 ## Q2 2026
 
 

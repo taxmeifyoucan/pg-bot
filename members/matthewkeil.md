@@ -8,6 +8,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q3 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [chore: merge v1.44.0 back to unstable](https://github.com/ChainSafe/lodestar/pull/9576) - 2026-07-01
+* [Commit] [chore: merge v1.44.0 back to unstable (#9576)](https://github.com/ChainSafe/lodestar/commit/e08f470a972c9f08b953d34d82cf8ce16f94cd8d) - 2026-07-01
+* [Commit] [chore: v1.44.0 release (#9495)](https://github.com/ChainSafe/lodestar/commit/e3d733b7b5107122ff90fc89021a9ab404198c39) - 2026-07-01
 ## Q2 2026
 
 

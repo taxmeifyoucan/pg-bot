@@ -18,6 +18,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(zkevm): Stateless guest execution optimizations](https://github.com/NethermindEth/nethermind/pull/12141#pullrequestreview-4605002707) - 2026-07-01
 * [Review] [Review on: Support all zkevm tests via both blockchain and engine](https://github.com/NethermindEth/nethermind/pull/12177#pullrequestreview-4604931091) - 2026-07-01
 * [Review] [Review on: fix(tests): make discv5 WireTests EmbeddedChannel access thread-safe](https://github.com/NethermindEth/nethermind/pull/12180#pullrequestreview-4604912883) - 2026-07-01
+* [Review] [Review on: fix(snap): reject malformed range proofs instead of throwing](https://github.com/NethermindEth/nethermind/pull/12187#pullrequestreview-4608751531) - 2026-07-01
 ## Q2 2026
 
 

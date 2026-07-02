@@ -8,6 +8,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7997: remove specification of nonce](https://github.com/ethereum/EIPs/pull/11846#pullrequestreview-4611315917) - 2026-07-01
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(spec,tests): Implement EIP-8246](https://github.com/ethereum/execution-specs/pull/3078#pullrequestreview-4613319411) - 2026-07-01
+* [Review] [Review on: feat(spec,tests): implement EIP-7997](https://github.com/ethereum/execution-specs/pull/3079#pullrequestreview-4611441578) - 2026-07-01
 ## Q2 2026
 
 

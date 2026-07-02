@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Review] [Review on: Fix voting participation under mass slashing + richer voting/quorum breakdowns](https://github.com/ethpandaops/dora/pull/785#pullrequestreview-4612584576) - 2026-07-01
 ## Q2 2026
 
 

@@ -8,6 +8,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q3 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Review] [Review on: glamsterdam devnet 6](https://github.com/status-im/nimbus-eth1/pull/4371#pullrequestreview-4608881978) - 2026-07-01
+* [Pull Request] [stateless: add guest program and integrate into EEST blockchain test](https://github.com/status-im/nimbus-eth1/pull/4383) - 2026-07-01
 ## Q2 2026
 
 

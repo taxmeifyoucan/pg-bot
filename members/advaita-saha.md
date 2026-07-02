@@ -8,6 +8,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 
 ## Contributions
 
+## Q3 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [use error code -32700 incase of payload parsing error](https://github.com/status-im/nimbus-eth1/pull/4379) - 2026-07-01
 ## Q2 2026
 
 

@@ -8,6 +8,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q3 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [agents.md, .claude/rules: relax comment-length rule to favor clarity](https://github.com/erigontech/erigon/pull/22144) - 2026-07-01
+* [Review] [Review on: cmd, node: migrate urfave/cli from v2 to v3](https://github.com/erigontech/erigon/pull/22130#pullrequestreview-4609573322) - 2026-07-01
+* [Pull Request] [ci: isolate per-shard state in hive + hive-eest to stop concurrent-shard clobbering](https://github.com/erigontech/erigon/pull/22143) - 2026-07-01
+* [Review] [Review on: BAL-driven parallel commitment](https://github.com/erigontech/erigon/pull/21416#pullrequestreview-4609909044) - 2026-07-01
+* [Review] [Review on: execution/stagedsync: surface real errors at the parallel exec/apply boundary](https://github.com/erigontech/erigon/pull/22102#pullrequestreview-4609755712) - 2026-07-01
+* [Review] [Review on: cl: catch up latest Gloas execution requests](https://github.com/erigontech/erigon/pull/22091#pullrequestreview-4608519979) - 2026-07-01
+* [Commit] [agents.md, .claude/rules: relax comment-length rule to favor clarity (#22144)](https://github.com/erigontech/erigon/commit/f802caa260256c8aa081c3222fb4acf51fda0fc4) - 2026-07-02
+* [Commit] [execution/stagedsync, commitment: restore commitment state reader after parallel exec batch (#22114)](https://github.com/erigontech/erigon/commit/df59e2b2008b85b4f8fb66e38601608b634b2433) - 2026-07-01
+* [Commit] [prune: human-readable aliases for --prune.distance.blocks sentinels (#22119)](https://github.com/erigontech/erigon/commit/273a4adce5df6b36ee2781b20da07fdffc0771ff) - 2026-07-01
 ## Q2 2026
 
 

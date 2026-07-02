@@ -8,6 +8,12 @@ Team: Nimbus
 
 ## Contributions
 
+## Q3 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Beacon sync maint update](https://github.com/status-im/nimbus-eth1/pull/4385) - 2026-07-01
+* [Commit] [Beacon sync maint update (#4385)](https://github.com/status-im/nimbus-eth1/commit/eecc9ad296a2e9a742c8a6313bb6506f31fd7fdf) - 2026-07-01
 ## Q2 2026
 
 

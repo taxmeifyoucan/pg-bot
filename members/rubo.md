@@ -8,6 +8,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q3 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: fix(stateless): align stateless IO with tests-zkevm@v0.5.0](https://github.com/NethermindEth/nethermind/pull/12191#pullrequestreview-4612799994) - 2026-07-01
+* [Review] [Review on: perf(zkevm): Stateless guest execution optimizations](https://github.com/NethermindEth/nethermind/pull/12141#pullrequestreview-4609476927) - 2026-07-01
 ## Q2 2026
 
 

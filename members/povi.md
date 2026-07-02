@@ -8,6 +8,12 @@ Team: Grandine
 
 ## Contributions
 
+## Q3 2026
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Review] [Review on: Check prev_randao in payload bid](https://github.com/grandinetech/grandine/pull/762#pullrequestreview-4606544782) - 2026-07-01
+* [Issue] [[Glamsterdam] Delay block until its parent's payload envelope is received](https://github.com/grandinetech/grandine/issues/785) - 2026-07-01
 ## Q2 2026
 
 

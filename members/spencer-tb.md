@@ -8,6 +8,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(tests): EIP-7928 reject newPayload with malformed or missing block access list](https://github.com/ethereum/execution-specs/pull/3082) - 2026-07-01
+* [Review] [Review on: feat(tests): EIP-8037 CALL new-account state gas exact-fit boundary](https://github.com/ethereum/execution-specs/pull/3067#pullrequestreview-4610339800) - 2026-07-01
+* [Review] [Review on: feat(tests): EIP-8037 base fee follows the bottleneck gas dimension](https://github.com/ethereum/execution-specs/pull/3039#pullrequestreview-4610288353) - 2026-07-01
+* [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4609970829) - 2026-07-01
+* [Review] [Review on: refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill](https://github.com/ethereum/execution-specs/pull/3027#pullrequestreview-4608843497) - 2026-07-01
+* [Review] [Review on: feat(tests): extend block-gas inclusion boundary test to Osaka](https://github.com/ethereum/execution-specs/pull/3076#pullrequestreview-4608561030) - 2026-07-01
+* [Commit] [feat(ci): overhaul fixture releases (#2888)](https://github.com/ethereum/execution-specs/commit/8bc63b4edf2291648a48228f7aa9a27289bad24f) - 2026-07-01
 ## Q2 2026
 
 

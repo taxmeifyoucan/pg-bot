@@ -11,6 +11,7 @@ Github: [@healthykim](https://github.com/healthykim)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Commit] [core/rawdb: prevent truncateHead from returning an error for empty tables (#35258)](https://github.com/ethereum/go-ethereum/commit/5c253e557e567e7702a46e8b23be0782394e32bf) - 2026-07-01
+* [Commit] [core/txpool: add blobTxForPool migration in limbo (#35209)](https://github.com/ethereum/go-ethereum/commit/21652ef9ef00a823d140b2c94593354105b5b702) - 2026-07-01
 ## Q2 2026
 
 

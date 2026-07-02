@@ -8,6 +8,24 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/evmone](https://github.com/ethereum/evmone)
+* [Pull Request] [Extract shared frame-exit result construction](https://github.com/ipsilon/evmone/pull/1578) - 2026-07-01
+* [Commit] [Extract shared frame-exit result construction (#1578)](https://github.com/ipsilon/evmone/commit/e64f626493bfe262a12ffcf2388add16d05d1376) - 2026-07-01
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
+* [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
+* [Pull Request] [feat(tests): EIP-8037 calldata floor binds with an over-cap reservoir](https://github.com/ethereum/execution-specs/pull/3080) - 2026-07-01
+* [Pull Request] [feat(tests): extend block-gas inclusion boundary test to Osaka](https://github.com/ethereum/execution-specs/pull/3076) - 2026-07-01
+* [Review] [Review on: feat(clients): migrate evmone t8n to the `evmone t8n` subcommand](https://github.com/ethereum/execution-specs/pull/3063#pullrequestreview-4608387815) - 2026-07-01
+* [Commit] [feat(tests): EIP-8037 CALL new-account state gas exact-fit boundary (#3067)](https://github.com/ethereum/execution-specs/commit/a3659742a5d774791b117cc359daea1e76f314de) - 2026-07-01
+* [Commit] [feat(tests): EIP-8037 base fee follows the bottleneck gas dimension (#3039)](https://github.com/ethereum/execution-specs/commit/7c634a428c65c7081c0008b54d55dded971e5055) - 2026-07-01
+* [Commit] [feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill (#3069)](https://github.com/ethereum/execution-specs/commit/af05361ff79f00ec341c375f61b3ccdd6019b4d5) - 2026-07-01
+* [Commit] [refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill (#3027)](https://github.com/ethereum/execution-specs/commit/9920b6e67cb0a26305b2c6a9578aabe0b74399cd) - 2026-07-01
+* [Commit] [feat(tests): extend block-gas inclusion boundary test to Osaka (#3076)](https://github.com/ethereum/execution-specs/commit/6b35e9095eab919aa40ecdff6260f0313a627aee) - 2026-07-01
 ## Q2 2026
 
 

@@ -8,6 +8,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 
 ## Contributions
 
+## Q3 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Fix maxSlot overflow in all byRange handlers](https://github.com/Consensys/teku/pull/10924) - 2026-07-01
+* [Pull Request] [Fix BLST batch semi-aggregate merging to avoid throw on invalid](https://github.com/Consensys/teku/pull/10923) - 2026-07-01
+* [Pull Request] [Fix cgc from ENR wasn't checked for overflow](https://github.com/Consensys/teku/pull/10922) - 2026-07-01
 ## Q2 2026
 
 

@@ -13,6 +13,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: updated changelog 26.7.0](https://github.com/Consensys/teku/pull/10921#pullrequestreview-4605201128) - 2026-07-01
+* [Review] [Review on: Fix maxSlot overflow in all byRange handlers](https://github.com/Consensys/teku/pull/10924#pullrequestreview-4613453811) - 2026-07-01
+* [Review] [Review on: updated builders endpoint for gloas](https://github.com/Consensys/teku/pull/10920#pullrequestreview-4606110391) - 2026-07-01
 ## Q2 2026
 
 

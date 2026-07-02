@@ -6,6 +6,12 @@ Github: [@weiihann](https://github.com/weiihann)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Commit] [Add EIP: State Tiering by Periods](https://github.com/ethereum/EIPs/commit/cc7f33ce04937b21cfd2845cc76205acec8a99ab) - 2026-07-01
+* [Commit] [Add EIP: Fixed-Cutoff State Tiering](https://github.com/ethereum/EIPs/commit/790783cef129d566909850f2d9f90ada143be7f0) - 2026-07-01
 ## Q2 2026
 
 

@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q3 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: agents.md, .claude/rules: relax comment-length rule to favor clarity](https://github.com/erigontech/erigon/pull/22144#pullrequestreview-4613149712) - 2026-07-01
 ## Q2 2026
 
 

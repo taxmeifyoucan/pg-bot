@@ -8,6 +8,14 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 ## Contributions
 
+## Q3 2026
+
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Review] [Review on: perf(precompile): reduce bounds checks in precompile parsing](https://github.com/bluealloy/revm/pull/3784#pullrequestreview-4608007980) - 2026-07-01
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 ## Q2 2026
 
 

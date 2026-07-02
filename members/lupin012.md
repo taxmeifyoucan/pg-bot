@@ -8,6 +8,15 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 
 ## Contributions
 
+## Q3 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [rpc: use overlay tx in other api using ReadHeader() ](https://github.com/erigontech/erigon/pull/22140) - 2026-07-01
+* [Review] [Review on: QA: show RPC integration test results on the run summary page](https://github.com/erigontech/erigon/pull/22134#pullrequestreview-4610517444) - 2026-07-01
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 ## Q2 2026
 
 

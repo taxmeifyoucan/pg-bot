@@ -6,6 +6,13 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Add the IL bitlist to bid](https://github.com/ethereum/consensus-specs/pull/5410) - 2026-07-01
+* [Pull Request] [Fix req/resp nits](https://github.com/ethereum/consensus-specs/pull/5411) - 2026-07-01
+* [Commit] [Fix req/resp nits (#5411)](https://github.com/ethereum/consensus-specs/commit/aff96a12c33192324d07339681f2c4dcc339ea13) - 2026-07-01
 ## Q2 2026
 
 

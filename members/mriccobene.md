@@ -8,6 +8,11 @@ Team: Erigon
 
 ## Contributions
 
+## Q3 2026
+
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Review] [Review on: integration_test: fix debug trace null result](https://github.com/erigontech/rpc-tests/pull/582#pullrequestreview-4609079427) - 2026-07-01
 ## Q2 2026
 
 

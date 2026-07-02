@@ -6,6 +6,12 @@ Github: [@satushh](https://github.com/satushh)
 
 ## Contributions
 
+## Q3 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Review] [Review on: Request a block's unknown parent by root on gossip arrival](https://github.com/OffchainLabs/prysm/pull/17057#pullrequestreview-4608326760) - 2026-07-01
+* [Pull Request] [Stop logging expired payload_attributes SSE skips as errors](https://github.com/OffchainLabs/prysm/pull/17069) - 2026-07-01
 ## Q2 2026
 
 

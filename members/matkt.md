@@ -6,6 +6,14 @@ Github: [@matkt](https://github.com/matkt)
 
 ## Contributions
 
+## Q3 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: Replace caffeine state root cache with recency-based eviction](https://github.com/besu-eth/besu/pull/10724#pullrequestreview-4608269804) - 2026-07-01
+* [Pull Request] [Persist newpayload without fcu glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10725) - 2026-07-01
+* [Review] [Review on: Persist newpayload without fcu glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10725#pullrequestreview-4608593041) - 2026-07-01
+* [Review] [Review on: snap/2 - apply BALs during pivot catch-up](https://github.com/besu-eth/besu/pull/10649#pullrequestreview-4608217743) - 2026-07-01
 ## Q2 2026
 
 

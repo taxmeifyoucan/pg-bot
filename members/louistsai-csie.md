@@ -6,6 +6,20 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(spec,tests): Implement EIP-8246](https://github.com/ethereum/execution-specs/pull/3078) - 2026-07-01
+* [Review] [Review on: feat(spec,tests): Implement EIP-8246](https://github.com/ethereum/execution-specs/pull/3078#pullrequestreview-4607593001) - 2026-07-01
+* [Review] [Review on: feat(spec,tests): Implement EIP-8282](https://github.com/ethereum/execution-specs/pull/3070#pullrequestreview-4606354032) - 2026-07-01
+* [Pull Request] [feat(spec,tests): implement EIP-7997](https://github.com/ethereum/execution-specs/pull/3079) - 2026-07-01
+* [Pull Request] [feat(tests): verify EIP-7997 factory nonce persists across fork-transition](https://github.com/ethereum/execution-specs/pull/3077) - 2026-07-01
+* [Review] [Review on: feat(tests): verify EIP-7997 factory nonce persists across fork-transition](https://github.com/ethereum/execution-specs/pull/3077#pullrequestreview-4609803757) - 2026-07-01
+* [Review] [Review on: feat(tests): extend block-gas inclusion boundary test to Osaka](https://github.com/ethereum/execution-specs/pull/3076#pullrequestreview-4607473912) - 2026-07-01
+* [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606081716) - 2026-07-01
+* [Review] [Review on: chore(tooling): fix fill-tests skill and evm-bin help](https://github.com/ethereum/execution-specs/pull/3075#pullrequestreview-4606020772) - 2026-07-01
+* [Commit] [feat(spec,tests): implement EIP-7997 (#3079)](https://github.com/ethereum/execution-specs/commit/2d68578e587cf9e2b5c1af2f61ff4c22f646b184) - 2026-07-01
 ## Q2 2026
 
 

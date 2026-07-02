@@ -14,6 +14,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [updated changelog 26.7.0](https://github.com/Consensys/teku/pull/10921) - 2026-07-01
 * [Pull Request] [updated builders endpoint for gloas](https://github.com/Consensys/teku/pull/10920) - 2026-07-01
+* [Pull Request] [updated libp2p](https://github.com/Consensys/teku/pull/10925) - 2026-07-02
+* [Commit] [updated changelog 26.7.0 (#10921)](https://github.com/Consensys/teku/commit/920cbadc69e2008729de2aae616bb86fadaa23e2) - 2026-07-01
 ## Q2 2026
 
 

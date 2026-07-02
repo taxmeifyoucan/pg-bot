@@ -8,6 +8,12 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 
 ## Contributions
 
+## Q3 2026
+
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [ConcurrentLruCache withGet/withPeek templates and other improvements](https://github.com/status-im/nimbus-eth1/pull/4378) - 2026-07-01
+* [Commit] [ConcurrentLruCache withGet/withPeek templates and other improvements (#4378)](https://github.com/status-im/nimbus-eth1/commit/704243efabbedd09d2b0335e7da4a12ea6a2b4c6) - 2026-07-01
 ## Q2 2026
 
 

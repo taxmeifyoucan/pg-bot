@@ -8,6 +8,15 @@ Team: Erigon
 
 ## Contributions
 
+## Q3 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [[r3.5] execution/stagedsync: isolate commitment computes for blocks that own no changeset](https://github.com/erigontech/erigon/pull/22135) - 2026-07-01
+* [Review] [Review on: execution/stagedsync, commitment: restore commitment state reader after parallel exec batch](https://github.com/erigontech/erigon/pull/22114#pullrequestreview-4608207400) - 2026-07-01
+* [Pull Request] [QA: show RPC integration test results on the run summary page](https://github.com/erigontech/erigon/pull/22134) - 2026-07-01
+* [Pull Request] [QA: repin rpc-tests to v2.20.0](https://github.com/erigontech/erigon/pull/22133) - 2026-07-01
+* [Commit] [QA: repin rpc-tests to v2.20.0 (#22133)](https://github.com/erigontech/erigon/commit/f1d79d699ed4b809abc0d177dcb539d8605edc41) - 2026-07-01
 ## Q2 2026
 
 

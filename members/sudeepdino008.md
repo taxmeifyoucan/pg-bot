@@ -8,6 +8,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q3 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [[r3.5] cmd, integration: make unbounded domain merge default in seg retire / stage_exec / stage_custom_trace](https://github.com/erigontech/erigon/pull/22137) - 2026-07-01
+* [Pull Request] [cmd, integration: make unbounded domain merge default in seg retire / stage_exec / stage_custom_trace](https://github.com/erigontech/erigon/pull/22125) - 2026-07-01
+* [Pull Request] [[performance] cmd, integration: make unbounded domain merge default in seg retire / stage_exec / stage_custom_trace](https://github.com/erigontech/erigon/pull/22138) - 2026-07-01
+* [Pull Request] [[r3.4] db/state, cmd: default seg retire / stage_exec / stage_custom_trace to unbounded domain merge](https://github.com/erigontech/erigon/pull/22128) - 2026-07-01
+* [Pull Request] [bal-devnet-7_warmup: refresh onto bal-devnet-7 (pulls in deep-storage-fold fix #21945)](https://github.com/erigontech/erigon/pull/22129) - 2026-07-01
+* [Pull Request] [execution: enlarge parallel-exec dispatch & results queues](https://github.com/erigontech/erigon/pull/22127) - 2026-07-01
+* [Review] [Review on: db/state: remove FilesItem.frozen field](https://github.com/erigontech/erigon/pull/22126#pullrequestreview-4606384162) - 2026-07-01
 ## Q2 2026
 
 

@@ -8,6 +8,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q3 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: prune: human-readable aliases for --prune.distance.blocks sentinels](https://github.com/erigontech/erigon/pull/22119#pullrequestreview-4609675627) - 2026-07-01
 ## Q2 2026
 
 

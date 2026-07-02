@@ -8,6 +8,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 ## Contributions
 
+## Q3 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [.github/workflows: run CI Gate on PRs against any base branch](https://github.com/erigontech/erigon/pull/22139) - 2026-07-01
+* [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-8246 selfdestruct burn removal](https://github.com/erigontech/erigon/pull/22136) - 2026-07-01
+* [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-8037 updates for glamsterdam-devnet-6](https://github.com/erigontech/erigon/pull/22122) - 2026-07-01
+* [Review] [Review on: execution: enlarge parallel-exec dispatch & results queues](https://github.com/erigontech/erigon/pull/22127#pullrequestreview-4609018545) - 2026-07-01
 ## Q2 2026
 
 

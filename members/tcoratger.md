@@ -6,6 +6,11 @@ Github: [@tcoratger](https://github.com/tcoratger)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Post-Quantum (PQ) Interop #46, July 1, 2026](https://github.com/ethereum/pm/issues/2147) - 2026-07-01
 ## Q2 2026
 
 

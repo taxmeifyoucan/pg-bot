@@ -8,6 +8,19 @@ Team: Reth
 
 ## Contributions
 
+## Q3 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [perf(net): optimize eth stream polling](https://github.com/paradigmxyz/reth/pull/26033) - 2026-07-01
+* [Pull Request] [perf(net): offload transaction recovery from tx manager poll](https://github.com/paradigmxyz/reth/pull/26038) - 2026-07-02
+* [Pull Request] [perf(network): use fixed hasher for peer maps](https://github.com/paradigmxyz/reth/pull/26031) - 2026-07-01
+* [Pull Request] [perf(net): skip no-op reputation changes](https://github.com/paradigmxyz/reth/pull/26032) - 2026-07-01
+* [Review] [Review on: feat(net): add default-off snap/2 negotiation](https://github.com/paradigmxyz/reth/pull/25774#pullrequestreview-4607874828) - 2026-07-01
+* [Pull Request] [perf(net): cache full transaction propagation encoding](https://github.com/paradigmxyz/reth/pull/26012) - 2026-07-01
+* [Review] [Review on: fix(engine): use execution version header for SSZ routes](https://github.com/paradigmxyz/reth/pull/25925#pullrequestreview-4608582081) - 2026-07-01
+* [Review] [Review on: fix(rpc): gate eth_estimateGas allowance by maxFeePerGas, not effective gas price](https://github.com/paradigmxyz/reth/pull/25998#pullrequestreview-4608789620) - 2026-07-01
+* [Commit] [perf(network): use fixed hasher for peer maps (#26031)](https://github.com/paradigmxyz/reth/commit/7511e338f0a569c145aeee22ced9af0a2e386725) - 2026-07-01
 ## Q2 2026
 
 

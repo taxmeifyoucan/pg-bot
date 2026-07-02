@@ -13,6 +13,19 @@ Team: Erigon
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: p2p/discover: drop net.IP/AddrPort String allocs on hot paths](https://github.com/erigontech/erigon/pull/22109#pullrequestreview-4605325686) - 2026-07-01
+* [Review] [Review on: [r3.5] execution/stagedsync: isolate commitment computes for blocks that own no changeset](https://github.com/erigontech/erigon/pull/22135#pullrequestreview-4613892637) - 2026-07-02
+* [Pull Request] [`--prune.mode=minimal` to delete old state-history files](https://github.com/erigontech/erigon/pull/22123) - 2026-07-01
+* [Review] [Review on: `--prune.mode=minimal` to delete old state-history files](https://github.com/erigontech/erigon/pull/22123#pullrequestreview-4607423672) - 2026-07-01
+* [Review] [Review on: agents.md, .claude/rules: relax comment-length rule to favor clarity](https://github.com/erigontech/erigon/pull/22144#pullrequestreview-4613867825) - 2026-07-02
+* [Review] [Review on: p2p/discover: return errNoUDPEndpoint from RequestENR](https://github.com/erigontech/erigon/pull/21940#pullrequestreview-4614020504) - 2026-07-02
+* [Pull Request] [cmd, node: migrate urfave/cli from v2 to v3](https://github.com/erigontech/erigon/pull/22130) - 2026-07-01
+* [Review] [Review on: cmd, node: migrate urfave/cli from v2 to v3](https://github.com/erigontech/erigon/pull/22130#pullrequestreview-4608051927) - 2026-07-01
+* [Review] [Review on: [r3.5] cmd, integration: make unbounded domain merge default in seg retire / stage_exec / stage_custom_trace](https://github.com/erigontech/erigon/pull/22137#pullrequestreview-4613911760) - 2026-07-02
+* [Review] [Review on: cmd, integration: make unbounded domain merge default in seg retire / stage_exec / stage_custom_trace](https://github.com/erigontech/erigon/pull/22125#pullrequestreview-4609130407) - 2026-07-01
+* [Review] [Review on: [r3.4] db/state, cmd: default seg retire / stage_exec / stage_custom_trace to unbounded domain merge](https://github.com/erigontech/erigon/pull/22128#pullrequestreview-4609138604) - 2026-07-01
+* [Review] [Review on: bal-devnet-7_warmup: refresh onto bal-devnet-7 (pulls in deep-storage-fold fix #21945)](https://github.com/erigontech/erigon/pull/22129#pullrequestreview-4609115316) - 2026-07-01
+* [Pull Request] [db/state: remove FilesItem.frozen field](https://github.com/erigontech/erigon/pull/22126) - 2026-07-01
+* [Commit] [db/state: remove FilesItem.frozen field (#22126)](https://github.com/erigontech/erigon/commit/8aca45aedfd4d631390f08ecc28ed85d2e7228ff) - 2026-07-01
 ## Q2 2026
 
 

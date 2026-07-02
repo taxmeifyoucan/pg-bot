@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 
 ## Contributions
 
+## Q3 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Improve banning logic by grouping Ipv6 /56 prefixes](https://github.com/sigp/lighthouse/pull/8199#pullrequestreview-4607744098) - 2026-07-01
 ## Q2 2026
 
 

@@ -8,6 +8,24 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 ## Contributions
 
+## Q3 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: fix(rpc): lenient QUANTITY parsing for Taiko and Surge L2 nodes](https://github.com/NethermindEth/nethermind/pull/12190#pullrequestreview-4609478912) - 2026-07-01
+* [Pull Request] [feat(engine): move SSZ-REST fork selection into Eth-Execution-Version header](https://github.com/NethermindEth/nethermind/pull/12193) - 2026-07-01
+* [Review] [Review on: fix(rpc): accept leading-zero storage keys in getStorageAt/getProof (geth parity)](https://github.com/NethermindEth/nethermind/pull/12192#pullrequestreview-4609516784) - 2026-07-01
+* [Review] [Review on: perf(zkevm): Stateless guest execution optimizations](https://github.com/NethermindEth/nethermind/pull/12141#pullrequestreview-4608067944) - 2026-07-01
+* [Review] [Review on: Feature/eip 2780 reduce intrinsic tx gas](https://github.com/NethermindEth/nethermind/pull/12118#pullrequestreview-4610220129) - 2026-07-01
+* [Review] [Review on: perf(prewarmer): warm EIP-2930 access lists cancellation-responsively](https://github.com/NethermindEth/nethermind/pull/12189#pullrequestreview-4609491584) - 2026-07-01
+* [Review] [Review on: fix(tracing): synthesize root action in ParityLikeTxTracer.MarkAsSuccess](https://github.com/NethermindEth/nethermind/pull/12186#pullrequestreview-4609812168) - 2026-07-01
+* [Review] [Review on: fix(snap): reject malformed range proofs instead of throwing](https://github.com/NethermindEth/nethermind/pull/12187#pullrequestreview-4609543870) - 2026-07-01
+* [Review] [Review on: refactor(plugins): wire TraceStore/OpcodeTracing tracers via DI](https://github.com/NethermindEth/nethermind/pull/12144#pullrequestreview-4606191759) - 2026-07-01
+* [Review] [Review on: perf: replace TrieStore shard-index modulo with a bitmask](https://github.com/NethermindEth/nethermind/pull/12183#pullrequestreview-4607859177) - 2026-07-01
+* [Review] [Review on: Fix Hive eth devp2p tests](https://github.com/NethermindEth/nethermind/pull/12179#pullrequestreview-4608494301) - 2026-07-01
+* [Review] [Review on: refactor(evm): gas-policy multidimensional refactoring — foundation (cost-in-policy)](https://github.com/NethermindEth/nethermind/pull/12146#pullrequestreview-4606203908) - 2026-07-01
+* [Review] [Review on: perf(kzg): pool the discarded cells buffer in ComputeCellProofs](https://github.com/NethermindEth/nethermind/pull/12184#pullrequestreview-4607852496) - 2026-07-01
+* [Review] [Review on: perf(requests): reuse a stack buffer for deposit request decoding](https://github.com/NethermindEth/nethermind/pull/12185#pullrequestreview-4607847826) - 2026-07-01
 ## Q2 2026
 
 
