@@ -8,6 +8,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q3 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: feat(bindings): cache shufflings from native](https://github.com/ChainSafe/lodestar/pull/9569#pullrequestreview-4614968606) - 2026-07-02
+* [Review] [Review on: feat: add dependent root check when giving out proposer boost](https://github.com/ChainSafe/lodestar/pull/9565#pullrequestreview-4615208691) - 2026-07-02
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
+* [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02
 ## Q2 2026
 
 

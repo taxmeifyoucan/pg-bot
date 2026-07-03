@@ -26,6 +26,20 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill (#3069)](https://github.com/ethereum/execution-specs/commit/af05361ff79f00ec341c375f61b3ccdd6019b4d5) - 2026-07-01
 * [Commit] [refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill (#3027)](https://github.com/ethereum/execution-specs/commit/9920b6e67cb0a26305b2c6a9578aabe0b74399cd) - 2026-07-01
 * [Commit] [feat(tests): extend block-gas inclusion boundary test to Osaka (#3076)](https://github.com/ethereum/execution-specs/commit/6b35e9095eab919aa40ecdff6260f0313a627aee) - 2026-07-01
+* [Pull Request] [feat(tests): EIP-8246 selfdestruct_no_burn suite coverage gaps](https://github.com/ethereum/execution-specs/pull/3084) - 2026-07-02
+* [Review] [Review on: feat(tests): EIP-8246 selfdestruct_no_burn suite coverage gaps](https://github.com/ethereum/execution-specs/pull/3084#pullrequestreview-4619256878) - 2026-07-02
+* [Pull Request] [feat(tests): EIP-8037 auth refund funds state gas only, not regular](https://github.com/ethereum/execution-specs/pull/3083) - 2026-07-02
+* [Pull Request] [feat(tests): EIP-7928 records an absent system contract in the BAL](https://github.com/ethereum/execution-specs/pull/3087) - 2026-07-02
+* [Pull Request] [feat(tests): access-list slot warmth survives a failed CREATE2](https://github.com/ethereum/execution-specs/pull/3086) - 2026-07-02
+* [Commit] [feat(tests): EIP-8037 auth refund funds state gas only, not regular (#3083)](https://github.com/ethereum/execution-specs/commit/c074f38fa5a2dcc1d7e079c28a08b2eeaac11447) - 2026-07-02
+* [Commit] [feat(tests): EIP-7928 records an absent system contract in the BAL (#3087)](https://github.com/ethereum/execution-specs/commit/abcc82a47fd99c7a53ffd71898f3d5df33b3ea40) - 2026-07-02
+* [Commit] [feat(tests): access-list slot warmth survives a failed CREATE2 (#3086)](https://github.com/ethereum/execution-specs/commit/ebbe644a538bb3a4fa23432b690151e00b1c2449) - 2026-07-02
+* [Commit] [feat(tests): EIP-8037 calldata floor binds with an over-cap reservoir (#3080)](https://github.com/ethereum/execution-specs/commit/64ed6762332162bbedb66657cab156cfa2b22c3d) - 2026-07-02
+* [Commit] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas (#3081)](https://github.com/ethereum/execution-specs/commit/b2f7bd94c4caed46dfb4661dca4b3491430e05dd) - 2026-07-02
+* [Commit] [feat(tests): EIP-8037 SSTORE-set state charge exact-fit spill boundary (#3072)](https://github.com/ethereum/execution-specs/commit/fdc800afd7a2c02fd78816ba70a7b22c6545f04a) - 2026-07-02
+* [Commit] [feat(tests): EIP-8037 CREATE-onto-alive refunds NEW_ACCOUNT to gas_left (#3073)](https://github.com/ethereum/execution-specs/commit/3b3840adfb3658aa24e6cee9f2ccba6edbae5ad5) - 2026-07-02
+* [Commit] [feat(tests): EIP-8037 spilled NEW_ACCOUNT gas consumed on caller halt (#3061)](https://github.com/ethereum/execution-specs/commit/9c938836b9e50aba1ea920c978d49d0b188d6273) - 2026-07-02
+* [Commit] [chore(test-client-clis): migrate evmone t8n to the `evmone t8n` subcommand (#3063)](https://github.com/ethereum/execution-specs/commit/b6956dbe42a64d143569d5e9b20a0e7f7b9d0ac9) - 2026-07-02
 ## Q2 2026
 
 

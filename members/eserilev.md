@@ -8,6 +8,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 
 ## Contributions
 
+## Q3 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Gloas fix proposer preferences gossip verification](https://github.com/sigp/lighthouse/pull/9337#pullrequestreview-4617835845) - 2026-07-02
+* [Review] [Review on: Optimisations relating to `get_expected_withdrawals`](https://github.com/sigp/lighthouse/pull/9314#pullrequestreview-4615057464) - 2026-07-02
 ## Q2 2026
 
 

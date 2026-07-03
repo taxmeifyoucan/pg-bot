@@ -24,6 +24,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [chore(tooling): fix fill-tests skill and evm-bin help](https://github.com/ethereum/execution-specs/pull/3075) - 2026-07-01
 * [Commit] [fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe (#3074)](https://github.com/ethereum/execution-specs/commit/ba26c0d408854e7f0f8cf6a88ebbd9dee2bd3abc) - 2026-07-01
 * [Commit] [chore(tooling): fix fill-tests skill and evm-bin help (#3075)](https://github.com/ethereum/execution-specs/commit/e135c2880962382da356177d81b1536bb76c94a3) - 2026-07-01
+* [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4621025587) - 2026-07-02
+* [Pull Request] [fix(tests): align Amsterdam (gas) tests with EIP-2780/8037/8038](https://github.com/ethereum/execution-specs/pull/3088) - 2026-07-02
+* [Review] [Review on: chore(test-consume): resolve fixture release tag for consume cache](https://github.com/ethereum/execution-specs/pull/3085#pullrequestreview-4617626473) - 2026-07-02
+* [Review] [Review on: chore(test-client-clis): migrate evmone t8n to the `evmone t8n` subcommand](https://github.com/ethereum/execution-specs/pull/3063#pullrequestreview-4615283654) - 2026-07-02
+* [Review] [Review on: feat(tests): add more EIP-2780 tests](https://github.com/ethereum/execution-specs/pull/3055#pullrequestreview-4614940623) - 2026-07-02
+* [Commit] [feat(spec-specs,test-tests): add EIP-2780 and EIP-8038 (#3052)](https://github.com/ethereum/execution-specs/commit/2dfaa3e9b17d74ea5c16f752326ff11b3a510bdc) - 2026-07-02
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
+* [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
 ## Q2 2026
 
 

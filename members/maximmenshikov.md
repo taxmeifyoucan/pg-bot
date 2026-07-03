@@ -6,6 +6,21 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 
 ## Contributions
 
+## Q3 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Commit] [perf(zkevm): Stateless guest execution optimizations (#12141)](https://github.com/NethermindEth/nethermind/commit/732b89e7eac4c29625995b1ccc34319d504e0e27) - 2026-07-02
+
+[NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
+* [Pull Request] [Documentation improvements](https://github.com/NethermindEth/bflat-riscv64/pull/31) - 2026-07-02
+* [Commit] [README: condense the Zisk postprocessing section](https://github.com/NethermindEth/bflat-riscv64/commit/81022cbfd76183a0a27fa1318a59a2672e8360f1) - 2026-07-02
+* [Commit] [docs/modules.md: document the gs_cookie neutralised stack cookie](https://github.com/NethermindEth/bflat-riscv64/commit/9c338054b4da2cf0d93b31d4c8f936dd80d4fa2f) - 2026-07-02
+* [Commit] [Landing page: count the gs_cookie module in the module total](https://github.com/NethermindEth/bflat-riscv64/commit/08b637d02a39410cabd7b3d2839d21624b7fea36) - 2026-07-02
+* [Commit] [README: document the gs_cookie module in the modules table](https://github.com/NethermindEth/bflat-riscv64/commit/f3285abe3f671a0a79917fe24b9d5eb283eab1f8) - 2026-07-02
+* [Commit] [README: document the no-free GC as the main known limitation](https://github.com/NethermindEth/bflat-riscv64/commit/a3fee6a0b5ba447af74cfdb24fa4bd956bc634cb) - 2026-07-02
+* [Commit] [docs: lead with what the pipeline produces over how it works](https://github.com/NethermindEth/bflat-riscv64/commit/2a1e01776cb24022cf7c97c409befd7b52eda82e) - 2026-07-02
+* [Commit] [docs: document zkVM codegen knobs, exit/exception paths, bump cell](https://github.com/NethermindEth/bflat-riscv64/commit/e6b38ca19ca2dff1643ff383cb5f01ada1e88916) - 2026-07-02
 ## Q2 2026
 
 

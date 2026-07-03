@@ -13,6 +13,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Replace caffeine state root cache with recency-based eviction](https://github.com/besu-eth/besu/pull/10724#pullrequestreview-4611524554) - 2026-07-01
+* [Review] [Review on: Replace caffeine state root cache with recency-based eviction](https://github.com/besu-eth/besu/pull/10724#pullrequestreview-4620234247) - 2026-07-02
 ## Q2 2026
 
 

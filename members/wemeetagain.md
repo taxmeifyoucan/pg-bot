@@ -8,6 +8,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Commit] [Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/commit/de4c6f02c7bec4686762c55f8ab6abcf97a77d7d) - 2026-07-03
 ## Q2 2026
 
 

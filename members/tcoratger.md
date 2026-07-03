@@ -11,6 +11,14 @@ Github: [@tcoratger](https://github.com/tcoratger)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #46, July 1, 2026](https://github.com/ethereum/pm/issues/2147) - 2026-07-01
+
+[Plonky3/Plonky3](https://github.com/Plonky3/Plonky3)
+* [Pull Request] [feat(multi-stark): reusable preprocessed-column commitment](https://github.com/Plonky3/Plonky3/pull/1907) - 2026-07-02
+* [Review] [Review on: perf: add optimized compilation profile](https://github.com/Plonky3/Plonky3/pull/1906#pullrequestreview-4617733091) - 2026-07-02
+* [Review] [Review on: perf(mersenne-31,circle): defer M31 mixed_dot_product reduction; truncate circle LDE interpolation](https://github.com/Plonky3/Plonky3/pull/1903#pullrequestreview-4617577536) - 2026-07-02
+* [Review] [Review on: perf(whir, sumcheck): used packing in constraint combination and HZVK initial sumcheck relation](https://github.com/Plonky3/Plonky3/pull/1905#pullrequestreview-4616642907) - 2026-07-02
+* [Review] [Review on: perf(matrix): no-alloc `vertically_packed_row` for `RowIndexMappedView`](https://github.com/Plonky3/Plonky3/pull/1904#pullrequestreview-4616625307) - 2026-07-02
+* [Commit] [feat(multi-stark): prove AIRs end-to-end via WHIR commitment openings (#1892)](https://github.com/Plonky3/Plonky3/commit/9b8edc4a67bd26e2ed30130fc3d7790b707d2c51) - 2026-07-02
 ## Q2 2026
 
 

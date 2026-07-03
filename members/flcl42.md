@@ -17,6 +17,15 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf: replace TrieStore shard-index modulo with a bitmask](https://github.com/NethermindEth/nethermind/pull/12183#pullrequestreview-4607910590) - 2026-07-01
 * [Commit] [Improve tx pool handling, eth/70, hive settings, blob proof translation (#12179)](https://github.com/NethermindEth/nethermind/commit/8d9e7f7b0910d02ae1aabb1981b0f4a756af3083) - 2026-07-01
 * [Commit] [Use standard Microsoft logging in Kademlia (#12170)](https://github.com/NethermindEth/nethermind/commit/2ddede7badc97b96827f68543bdfc985cf104d8d) - 2026-07-01
+* [Review] [Review on: perf(txpool): hoist the head-spec EIP-1559 flag out of the gas-bottleneck loop](https://github.com/NethermindEth/nethermind/pull/12220#pullrequestreview-4620851133) - 2026-07-02
+* [Pull Request] [Update schema generator project coverage](https://github.com/NethermindEth/nethermind/pull/12207) - 2026-07-02
+* [Review] [Review on: feat: Support eth_fillTransaction](https://github.com/NethermindEth/nethermind/pull/12204#pullrequestreview-4617621898) - 2026-07-02
+* [Review] [Review on: fix(network): reject zero-size RLPx frames in ZeroFrameDecoder](https://github.com/NethermindEth/nethermind/pull/12202#pullrequestreview-4616933214) - 2026-07-02
+* [Pull Request] [Fix discv4/5 tests](https://github.com/NethermindEth/nethermind/pull/12211) - 2026-07-02
+* [Review] [Review on: Fix discv4/5 tests](https://github.com/NethermindEth/nethermind/pull/12211#pullrequestreview-4618247350) - 2026-07-02
+* [Review] [Review on: feat(engine): move SSZ-REST fork selection into Eth-Execution-Version header](https://github.com/NethermindEth/nethermind/pull/12193#pullrequestreview-4617751237) - 2026-07-02
+* [Review] [Review on: fix(rpc): serialize eth_capabilities retentionBlocks as hex QUANTITY](https://github.com/NethermindEth/nethermind/pull/12206#pullrequestreview-4617728999) - 2026-07-02
+* [Review] [Review on: perf(rlp): cap the item-count walk at limit+1 in DecodeArray decoders](https://github.com/NethermindEth/nethermind/pull/12203#pullrequestreview-4617118713) - 2026-07-02
 ## Q2 2026
 
 

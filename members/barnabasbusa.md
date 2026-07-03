@@ -8,6 +8,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Review] [Review on: handlers/slot: skip gas delta row when delta is zero](https://github.com/ethpandaops/dora/pull/786#pullrequestreview-4616085822) - 2026-07-02
 ## Q2 2026
 
 

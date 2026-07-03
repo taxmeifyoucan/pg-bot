@@ -7,6 +7,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q3 2026
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Review] [Review on: Only subscribe to each column topic once](https://github.com/status-im/nimbus-eth2/pull/8688#pullrequestreview-4619248798) - 2026-07-02
+* [Review] [Review on: Prune finalized blocks from columnFirstFetched](https://github.com/status-im/nimbus-eth2/pull/8693#pullrequestreview-4619235780) - 2026-07-02
 ## Q2 2026
 
 

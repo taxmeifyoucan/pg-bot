@@ -21,6 +21,19 @@ Team: Reth
 * [Review] [Review on: fix(engine): use execution version header for SSZ routes](https://github.com/paradigmxyz/reth/pull/25925#pullrequestreview-4608582081) - 2026-07-01
 * [Review] [Review on: fix(rpc): gate eth_estimateGas allowance by maxFeePerGas, not effective gas price](https://github.com/paradigmxyz/reth/pull/25998#pullrequestreview-4608789620) - 2026-07-01
 * [Commit] [perf(network): use fixed hasher for peer maps (#26031)](https://github.com/paradigmxyz/reth/commit/7511e338f0a569c145aeee22ced9af0a2e386725) - 2026-07-01
+* [Review] [Review on: fix(era): accept local file name variants](https://github.com/paradigmxyz/reth/pull/26006#pullrequestreview-4620747487) - 2026-07-02
+* [Review] [Review on: chore(deps): sync dependabot config](https://github.com/paradigmxyz/reth/pull/26071#pullrequestreview-4619967464) - 2026-07-02
+* [Pull Request] [fix(engine): restore state root task parallelism gate](https://github.com/paradigmxyz/reth/pull/26080) - 2026-07-02
+* [Review] [Review on: refactor(engine): drop parallel state root](https://github.com/paradigmxyz/reth/pull/26069#pullrequestreview-4619106144) - 2026-07-02
+* [Review] [Review on: chore(doc): replace release with maxperf in Dockerfile](https://github.com/paradigmxyz/reth/pull/26073#pullrequestreview-4618894017) - 2026-07-02
+* [Pull Request] [perf(engine): hash precompile metrics by fixed address](https://github.com/paradigmxyz/reth/pull/26070) - 2026-07-02
+* [Review] [Review on: perf: hash precompile metrics by fixed address](https://github.com/paradigmxyz/reth/pull/26066#pullrequestreview-4618028181) - 2026-07-02
+* [Commit] [perf(net): cache full transaction propagation encoding (#26012)](https://github.com/paradigmxyz/reth/commit/38c0f7d0eaeb5fe8abb5c488011191f5567f32b3) - 2026-07-02
+* [Commit] [fix(engine): restore state root task parallelism gate (#26080)](https://github.com/paradigmxyz/reth/commit/b224494e257deb41b3b99e388c14580816a7552d) - 2026-07-02
+* [Commit] [perf(engine): hash precompile metrics by fixed address (#26070)](https://github.com/paradigmxyz/reth/commit/8ac3e008c2cc3ac73cd3eda2737f9391f8ebf5db) - 2026-07-02
+* [Commit] [fix(rpc): weight fee history rewards by receipt gas (#26067)](https://github.com/paradigmxyz/reth/commit/6d38c7373ffc1689d890b914feb7b61d3fbfdbd3) - 2026-07-02
+* [Commit] [perf(net): skip no-op reputation changes (#26032)](https://github.com/paradigmxyz/reth/commit/608ebd1e8a7c7be74460a978cc993b6ed4ea8be5) - 2026-07-02
+* [Commit] [fix(db): avoid rustdoc ICE for libmdbx re-export (#26055)](https://github.com/paradigmxyz/reth/commit/74e4c85b1745393bc21e41ff792db13bfe1e15c3) - 2026-07-02
 ## Q2 2026
 
 

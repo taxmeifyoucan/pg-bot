@@ -14,6 +14,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Review] [Review on: glamsterdam devnet 6](https://github.com/status-im/nimbus-eth1/pull/4371#pullrequestreview-4614054301) - 2026-07-02
 * [Review] [Review on: t8n: support EIP-7843 currentSlotNumber in env](https://github.com/status-im/nimbus-eth1/pull/4381#pullrequestreview-4608946751) - 2026-07-01
+* [Pull Request] [Test t8n against EEST](https://github.com/status-im/nimbus-eth1/pull/4392) - 2026-07-02
+* [Pull Request] [Bump nim-bearssl to fix broken nightly build](https://github.com/status-im/nimbus-eth1/pull/4396) - 2026-07-02
+* [Commit] [Bump nim-bearssl to fix broken nightly build (#4396)](https://github.com/status-im/nimbus-eth1/commit/c6f84c77d20b944b8e1221c426f25242f238eabc) - 2026-07-02
 ## Q2 2026
 
 

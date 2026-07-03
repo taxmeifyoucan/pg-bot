@@ -14,6 +14,11 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Persist newpayload without fcu glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10725) - 2026-07-01
 * [Review] [Review on: Persist newpayload without fcu glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10725#pullrequestreview-4608593041) - 2026-07-01
 * [Review] [Review on: snap/2 - apply BALs during pivot catch-up](https://github.com/besu-eth/besu/pull/10649#pullrequestreview-4608217743) - 2026-07-01
+* [Pull Request] [Persist newpayload without fcu glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10732) - 2026-07-02
+* [Pull Request] [fcu before engine new payload](https://github.com/besu-eth/besu/pull/10731) - 2026-07-02
+* [Pull Request] [Tune RocksDB options per column family for point-lookup-heavy state access](https://github.com/besu-eth/besu/pull/10730) - 2026-07-02
+* [Pull Request] [fcu before engine new payload](https://github.com/besu-eth/besu/pull/10729) - 2026-07-02
+* [Commit] [fcu before engine new payload (#10731)](https://github.com/besu-eth/besu/commit/cf7d594b2251dd23d19fcb8c13d283270cc6672a) - 2026-07-02
 ## Q2 2026
 
 

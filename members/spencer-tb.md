@@ -19,6 +19,30 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(spec-specs): derive EIP-8037 state gas used from reservoir/spill](https://github.com/ethereum/execution-specs/pull/3027#pullrequestreview-4608843497) - 2026-07-01
 * [Review] [Review on: feat(tests): extend block-gas inclusion boundary test to Osaka](https://github.com/ethereum/execution-specs/pull/3076#pullrequestreview-4608561030) - 2026-07-01
 * [Commit] [feat(ci): overhaul fixture releases (#2888)](https://github.com/ethereum/execution-specs/commit/8bc63b4edf2291648a48228f7aa9a27289bad24f) - 2026-07-01
+* [Pull Request] [feat(spec-specs, tests): finalize EIP-8282 builder deposit contract](https://github.com/ethereum/execution-specs/pull/3091) - 2026-07-02
+* [Review] [Review on: feat(tests): EIP-8246 selfdestruct_no_burn suite coverage gaps](https://github.com/ethereum/execution-specs/pull/3084#pullrequestreview-4619648476) - 2026-07-02
+* [Pull Request] [chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089) - 2026-07-02
+* [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4620004384) - 2026-07-02
+* [Review] [Review on: feat(tests): EIP-8037 auth refund funds state gas only, not regular](https://github.com/ethereum/execution-specs/pull/3083#pullrequestreview-4620677115) - 2026-07-02
+* [Review] [Review on: feat(tests): EIP-7928 records an absent system contract in the BAL](https://github.com/ethereum/execution-specs/pull/3087#pullrequestreview-4620748076) - 2026-07-02
+* [Pull Request] [fix(tests): EIP-8282 builder request test fixes](https://github.com/ethereum/execution-specs/pull/3090) - 2026-07-02
+* [Review] [Review on: feat(spec,tests): Implement EIP-8282](https://github.com/ethereum/execution-specs/pull/3070#pullrequestreview-4620178917) - 2026-07-02
+* [Review] [Review on: feat(tests): EIP-8037 calldata floor binds with an over-cap reservoir](https://github.com/ethereum/execution-specs/pull/3080#pullrequestreview-4620054008) - 2026-07-02
+* [Review] [Review on: fix(tests): align Amsterdam (gas) tests with EIP-2780/8037/8038](https://github.com/ethereum/execution-specs/pull/3088#pullrequestreview-4619795839) - 2026-07-02
+* [Pull Request] [chore(test-consume): resolve fixture release tag for consume cache](https://github.com/ethereum/execution-specs/pull/3085) - 2026-07-02
+* [Review] [Review on: feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081#pullrequestreview-4617355990) - 2026-07-02
+* [Review] [Review on: feat(tests): EIP-8037 SSTORE-set state charge exact-fit spill boundary](https://github.com/ethereum/execution-specs/pull/3072#pullrequestreview-4617271677) - 2026-07-02
+* [Review] [Review on: feat(tests): EIP-8037 CREATE-onto-alive refunds NEW_ACCOUNT to gas_left](https://github.com/ethereum/execution-specs/pull/3073#pullrequestreview-4617265278) - 2026-07-02
+* [Review] [Review on: feat(tests): EIP-8037 spilled NEW_ACCOUNT gas consumed on caller halt](https://github.com/ethereum/execution-specs/pull/3061#pullrequestreview-4617039607) - 2026-07-02
+* [Commit] [feat(tests): EIP-7928 reject newPayload with malformed or missing block access list (#3082)](https://github.com/ethereum/execution-specs/commit/dee9dcfd5285e2c564e2aba041511c25cbd7265b) - 2026-07-02
+* [Commit] [chore(test-consume): resolve fixture release tag for consume cache (#3085)](https://github.com/ethereum/execution-specs/commit/06800859a7ef5ed33d3b75cf502aedcad7b7fedd) - 2026-07-02
+
+[ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+* [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [cmd/evm, core: fixes for eels tests@v20.0.0 release](https://github.com/ethereum/go-ethereum/pull/35283) - 2026-07-02
+* [Review] [Review on: cmd/evm, core: fixes for eels tests@v20.0.0 release](https://github.com/ethereum/go-ethereum/pull/35283#pullrequestreview-4619154016) - 2026-07-02
 ## Q2 2026
 
 

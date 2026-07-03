@@ -20,6 +20,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606081716) - 2026-07-01
 * [Review] [Review on: chore(tooling): fix fill-tests skill and evm-bin help](https://github.com/ethereum/execution-specs/pull/3075#pullrequestreview-4606020772) - 2026-07-01
 * [Commit] [feat(spec,tests): implement EIP-7997 (#3079)](https://github.com/ethereum/execution-specs/commit/2d68578e587cf9e2b5c1af2f61ff4c22f646b184) - 2026-07-01
+* [Review] [Review on: feat(tests): EIP-8246 selfdestruct_no_burn suite coverage gaps](https://github.com/ethereum/execution-specs/pull/3084#pullrequestreview-4619089307) - 2026-07-02
+* [Review] [Review on: feat(spec,tests): Implement EIP-8282](https://github.com/ethereum/execution-specs/pull/3070#pullrequestreview-4614930519) - 2026-07-02
+* [Review] [Review on: feat(tests): access-list slot warmth survives a failed CREATE2](https://github.com/ethereum/execution-specs/pull/3086#pullrequestreview-4619010237) - 2026-07-02
+* [Review] [Review on: feat(tests): EIP-8037 calldata floor binds with an over-cap reservoir](https://github.com/ethereum/execution-specs/pull/3080#pullrequestreview-4616962237) - 2026-07-02
+* [Commit] [feat(spec,tests): Implement EIP-8246 (#3078)](https://github.com/ethereum/execution-specs/commit/279ae53eb85917ecdd093a6dfb2beb2e0521de7c) - 2026-07-02
 ## Q2 2026
 
 

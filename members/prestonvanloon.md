@@ -14,6 +14,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [Changelog v7.1.6](https://github.com/OffchainLabs/prysm/pull/17072) - 2026-07-01
 * [Commit] [Changelog v7.1.6 (#17072)](https://github.com/OffchainLabs/prysm/commit/2ae69fa5ce773b3f14c713ce27a08a7d93d0fdba) - 2026-07-01
+* [Pull Request] [Fix attestation ideal rewards for Electra balances](https://github.com/OffchainLabs/prysm/pull/17076) - 2026-07-02
+* [Review] [Review on: Fix attestation ideal rewards for Electra balances](https://github.com/OffchainLabs/prysm/pull/17076#pullrequestreview-4619420463) - 2026-07-02
+* [Commit] [Fix attestation ideal rewards for Electra balances (#17076)](https://github.com/OffchainLabs/prysm/commit/2f19afc6bd14ba86141e7af0e48aec31bed90de1) - 2026-07-02
 ## Q2 2026
 
 

@@ -17,6 +17,12 @@ Team: Geth
 * [Review] [Review on: cmd: add amsterdam override flag](https://github.com/ethereum/go-ethereum/pull/35213#pullrequestreview-4607164314) - 2026-07-01
 * [Review] [Review on: core: implement EIP-7928 spec change](https://github.com/ethereum/go-ethereum/pull/35260#pullrequestreview-4607213428) - 2026-07-01
 * [Commit] [params: remove named hardforks from bpo schedule (#35029)](https://github.com/ethereum/go-ethereum/commit/0fbad29b943a90423289fb74fee236b6ea6d4388) - 2026-07-01
+
+* [Review] [Review on: core/types/bal: enhance the bal validation](https://github.com/ethereum/go-ethereum/pull/35281#pullrequestreview-4618226416) - 2026-07-02
+* [Pull Request] [core: remaining spec fixes for glamsterdam](https://github.com/ethereum/go-ethereum/pull/35279) - 2026-07-02
+* [Pull Request] [core: fix remaining spec issues](https://github.com/ethereum/go-ethereum/pull/35277) - 2026-07-02
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 ## Q2 2026
 
 

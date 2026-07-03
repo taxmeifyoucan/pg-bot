@@ -13,6 +13,7 @@ Team: Erigon
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [ci, db/state: matrix-test serial vs parallel commitment across the test workflows](https://github.com/erigontech/erigon/pull/22141) - 2026-07-01
+* [Pull Request] [execution/cache, execution/commitment, db/state: consolidate cache stack (freelru + persistent code cache)](https://github.com/erigontech/erigon/pull/22154) - 2026-07-02
 ## Q2 2026
 
 

@@ -8,6 +8,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 
 ## Contributions
 
+## Q3 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Score EnvelopePeerFailure correctly](https://github.com/sigp/lighthouse/pull/9528#pullrequestreview-4621934290) - 2026-07-03
+* [Review] [Review on: fix(monitoring_api): redact reqwest error URLs](https://github.com/sigp/lighthouse/pull/9555#pullrequestreview-4621863757) - 2026-07-03
 ## Q2 2026
 
 

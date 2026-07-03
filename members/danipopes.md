@@ -14,6 +14,10 @@ Team: Reth
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: perf(network): use fixed hasher for peer maps](https://github.com/paradigmxyz/reth/pull/26031#pullrequestreview-4613325486) - 2026-07-01
 * [Review] [Review on: refactor(trie): drop unused BlockAccessList state-root message](https://github.com/paradigmxyz/reth/pull/26022#pullrequestreview-4613169086) - 2026-07-01
+* [Review] [Review on: chore(deps): bump the ci-weekly group with 15 updates](https://github.com/paradigmxyz/reth/pull/26090#pullrequestreview-4621489870) - 2026-07-02
+* [Pull Request] [chore(deps): sync dependabot config](https://github.com/paradigmxyz/reth/pull/26071) - 2026-07-02
+* [Review] [Review on: perf(engine): hash precompile metrics by fixed address](https://github.com/paradigmxyz/reth/pull/26070#pullrequestreview-4618651740) - 2026-07-02
+* [Commit] [chore(deps): sync dependabot config (#26071)](https://github.com/paradigmxyz/reth/commit/571ecdc96c6a204fd8ad522af4227b6fc02dc55e) - 2026-07-02
 ## Q2 2026
 
 

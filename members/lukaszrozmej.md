@@ -26,6 +26,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: refactor(evm): gas-policy multidimensional refactoring — foundation (cost-in-policy)](https://github.com/NethermindEth/nethermind/pull/12146#pullrequestreview-4606203908) - 2026-07-01
 * [Review] [Review on: perf(kzg): pool the discarded cells buffer in ComputeCellProofs](https://github.com/NethermindEth/nethermind/pull/12184#pullrequestreview-4607852496) - 2026-07-01
 * [Review] [Review on: perf(requests): reuse a stack buffer for deposit request decoding](https://github.com/NethermindEth/nethermind/pull/12185#pullrequestreview-4607847826) - 2026-07-01
+* [Review] [Review on: fix(network): reject zero-size RLPx frames in ZeroFrameDecoder](https://github.com/NethermindEth/nethermind/pull/12202#pullrequestreview-4617118756) - 2026-07-02
+* [Review] [Review on: fix(rpc): serialize eth_capabilities retentionBlocks as hex QUANTITY](https://github.com/NethermindEth/nethermind/pull/12206#pullrequestreview-4617544655) - 2026-07-02
+* [Review] [Review on: fix(jsonrpc): flow JsonRpcContext.Current via AsyncLocal](https://github.com/NethermindEth/nethermind/pull/12199#pullrequestreview-4617133836) - 2026-07-02
+* [Review] [Review on: perf(rlp): cap the item-count walk at limit+1 in DecodeArray decoders](https://github.com/NethermindEth/nethermind/pull/12203#pullrequestreview-4617110414) - 2026-07-02
+* [Review] [Review on: fix(synchronization): verify hash of snap-heal recovered trie node](https://github.com/NethermindEth/nethermind/pull/12200#pullrequestreview-4617127661) - 2026-07-02
+* [Review] [Review on: fix(snap): reject malformed range proofs instead of throwing](https://github.com/NethermindEth/nethermind/pull/12187#pullrequestreview-4617143265) - 2026-07-02
 ## Q2 2026
 
 

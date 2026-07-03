@@ -17,6 +17,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Add Gloas Builder-API bid selection and block submission](https://github.com/OffchainLabs/prysm/pull/17067#pullrequestreview-4612626151) - 2026-07-01
 * [Review] [Review on: Emit correct parent_block_hash in Gloas payload_attributes SSE event](https://github.com/OffchainLabs/prysm/pull/17071#pullrequestreview-4610450904) - 2026-07-01
 * [Review] [Review on: Return `execution_optimistic` correctly for reward APIs](https://github.com/OffchainLabs/prysm/pull/16526#pullrequestreview-4610188151) - 2026-07-01
+* [Review] [Review on: Add SSZ response support for `GET` & `POST` `validator_balances` endpoint](https://github.com/OffchainLabs/prysm/pull/17077#pullrequestreview-4622266826) - 2026-07-03
+* [Review] [Review on: Accept builder preferences without the builder endpoint flag](https://github.com/OffchainLabs/prysm/pull/17078#pullrequestreview-4621214840) - 2026-07-02
+* [Review] [Review on: removing parent block number post gloas](https://github.com/OffchainLabs/prysm/pull/17037#pullrequestreview-4620605617) - 2026-07-02
+* [Review] [Review on: Use `head_v2` event as a default event topic for REST VC ](https://github.com/OffchainLabs/prysm/pull/16980#pullrequestreview-4620312557) - 2026-07-02
+* [Review] [Review on: Fall back to Builder-API bids when the local payload is unavailable](https://github.com/OffchainLabs/prysm/pull/17080#pullrequestreview-4621072567) - 2026-07-02
+* [Review] [Review on: Submit block to winning builder before the broadcast error check](https://github.com/OffchainLabs/prysm/pull/17079#pullrequestreview-4620934599) - 2026-07-02
+* [Review] [Review on: Add Gloas Builder-API bid selection and block submission](https://github.com/OffchainLabs/prysm/pull/17067#pullrequestreview-4618466005) - 2026-07-02
+* [Review] [Review on: making proposer preferences repush on reconnection to different node](https://github.com/OffchainLabs/prysm/pull/17066#pullrequestreview-4618213501) - 2026-07-02
 ## Q2 2026
 
 

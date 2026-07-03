@@ -12,6 +12,8 @@ Github: [@satushh](https://github.com/satushh)
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: Request a block's unknown parent by root on gossip arrival](https://github.com/OffchainLabs/prysm/pull/17057#pullrequestreview-4608326760) - 2026-07-01
 * [Pull Request] [Stop logging expired payload_attributes SSE skips as errors](https://github.com/OffchainLabs/prysm/pull/17069) - 2026-07-01
+* [Review] [Review on: Add section about `AGENTS.md` in `README.md`](https://github.com/OffchainLabs/prysm/pull/17073#pullrequestreview-4618353777) - 2026-07-02
+* [Commit] [Stop logging expired payload_attributes SSE skips as errors (#17069)](https://github.com/OffchainLabs/prysm/commit/c468799375c65adc4f240927235b849580dacc86) - 2026-07-02
 ## Q2 2026
 
 

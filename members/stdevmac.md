@@ -11,6 +11,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Review] [Review on: Rpc comparison job improvements](https://github.com/NethermindEth/nethermind/pull/12194#pullrequestreview-4613701836) - 2026-07-02
+* [Review] [Review on: ci(rpc-comparison): add -L latest-block pass with head sync](https://github.com/NethermindEth/nethermind/pull/12209#pullrequestreview-4617814164) - 2026-07-02
 ## Q2 2026
 
 

@@ -23,6 +23,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Emit correct parent_block_hash in Gloas payload_attributes SSE event (#17071)](https://github.com/OffchainLabs/prysm/commit/364bea697260b4b64cf2660af5d8fcfef9e9cf61) - 2026-07-01
 * [Commit] [Add forkchoice unit test (#16932)](https://github.com/OffchainLabs/prysm/commit/edca2b5756640c5189a8ae2d2a9c2ffe7aff51fd) - 2026-07-01
 * [Commit] [Request data column sidecars needed to validate a payload envelope (#17070)](https://github.com/OffchainLabs/prysm/commit/9904fbdf275b678bdb517921dfe5153ac4f45e55) - 2026-07-01
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 ## Q2 2026
 
 

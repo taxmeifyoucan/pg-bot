@@ -19,6 +19,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [bal-devnet-7_warmup: refresh onto bal-devnet-7 (pulls in deep-storage-fold fix #21945)](https://github.com/erigontech/erigon/pull/22129) - 2026-07-01
 * [Pull Request] [execution: enlarge parallel-exec dispatch & results queues](https://github.com/erigontech/erigon/pull/22127) - 2026-07-01
 * [Review] [Review on: db/state: remove FilesItem.frozen field](https://github.com/erigontech/erigon/pull/22126#pullrequestreview-4606384162) - 2026-07-01
+* [Review] [Review on: stagedsync: Fix logIndex reset and missing websocket notifications in parallel execution](https://github.com/erigontech/erigon/pull/22110#pullrequestreview-4616394258) - 2026-07-02
+* [Pull Request] [.github: add @sudeepdino008 as CODEOWNER for /cl/](https://github.com/erigontech/erigon/pull/22157) - 2026-07-02
+* [Pull Request] [[r3.5] stagedsync: fix log index reset and missing notifications in parallel execution](https://github.com/erigontech/erigon/pull/22155) - 2026-07-02
+* [Commit] [.github: add @sudeepdino008 as CODEOWNER for /cl/ (#22157)](https://github.com/erigontech/erigon/commit/c73d8fac6ca016be1eab34a3c6ef6829e1a1ff1a) - 2026-07-02
 ## Q2 2026
 
 

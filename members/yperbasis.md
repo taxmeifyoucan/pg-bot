@@ -21,6 +21,40 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [agents.md, .claude/rules: relax comment-length rule to favor clarity (#22144)](https://github.com/erigontech/erigon/commit/f802caa260256c8aa081c3222fb4acf51fda0fc4) - 2026-07-02
 * [Commit] [execution/stagedsync, commitment: restore commitment state reader after parallel exec batch (#22114)](https://github.com/erigontech/erigon/commit/df59e2b2008b85b4f8fb66e38601608b634b2433) - 2026-07-01
 * [Commit] [prune: human-readable aliases for --prune.distance.blocks sentinels (#22119)](https://github.com/erigontech/erigon/commit/273a4adce5df6b36ee2781b20da07fdffc0771ff) - 2026-07-01
+* [Review] [Review on: stagedsync: Fix logIndex reset and missing websocket notifications in parallel execution](https://github.com/erigontech/erigon/pull/22110#pullrequestreview-4620417080) - 2026-07-02
+* [Pull Request] [rpc/jsonrpc: extract BaseAPI helper families](https://github.com/erigontech/erigon/pull/22180) - 2026-07-02
+* [Pull Request] [execution/types: dedup typed-transaction codec boilerplate](https://github.com/erigontech/erigon/pull/22179) - 2026-07-02
+* [Pull Request] [cl/cltypes, cl/phase1/execution_client: dedupe signed-container SSZ and engine API call boilerplate](https://github.com/erigontech/erigon/pull/22176) - 2026-07-02
+* [Review] [Review on: BAL-driven parallel commitment](https://github.com/erigontech/erigon/pull/21416#pullrequestreview-4620486956) - 2026-07-02
+* [Pull Request] [p2p/sentry/libsentry, node/direct: collapse multiplexer fan-out boilerplate with generics](https://github.com/erigontech/erigon/pull/22166) - 2026-07-02
+* [Review] [Review on: p2p/sentry/libsentry, node/direct: collapse multiplexer fan-out boilerplate with generics](https://github.com/erigontech/erigon/pull/22166#pullrequestreview-4620944509) - 2026-07-02
+* [Pull Request] [diagnostics/metrics: collapse GetOrCreate* onto generic helpers](https://github.com/erigontech/erigon/pull/22168) - 2026-07-02
+* [Review] [Review on: diagnostics/metrics: collapse GetOrCreate* onto generic helpers](https://github.com/erigontech/erigon/pull/22168#pullrequestreview-4621027867) - 2026-07-02
+* [Pull Request] [rpc/mcp: dedupe embedded and standalone servers; implement in-process resource handlers](https://github.com/erigontech/erigon/pull/22169) - 2026-07-02
+* [Review] [Review on: rpc/mcp: dedupe embedded and standalone servers; implement in-process resource handlers](https://github.com/erigontech/erigon/pull/22169#pullrequestreview-4620957564) - 2026-07-02
+* [Pull Request] [db/state: dedup openDirtyFiles and fold deduplicate.go into the merge paths](https://github.com/erigontech/erigon/pull/22178) - 2026-07-02
+* [Pull Request] [execution/stagedsync, execution/exec: dedup exec3 block-task construction and AA execution](https://github.com/erigontech/erigon/pull/22174) - 2026-07-02
+* [Pull Request] [cl/phase1/network/services: extract shared pending-job queue for the Gloas services](https://github.com/erigontech/erigon/pull/22177) - 2026-07-02
+* [Pull Request] [p2p/protocols/eth, p2p/sentry/libsentry, node/direct: derive msgid tables instead of triple-maintaining them](https://github.com/erigontech/erigon/pull/22175) - 2026-07-02
+* [Pull Request] [db/snapshotsync: share segment open/close helpers with caplin snapshots](https://github.com/erigontech/erigon/pull/22172) - 2026-07-02
+* [Pull Request] [common: share fixed-size byte type helpers](https://github.com/erigontech/erigon/pull/22173) - 2026-07-02
+* [Pull Request] [common, db, cl, execution, rpc: consolidate pool and retry utilities](https://github.com/erigontech/erigon/pull/22170) - 2026-07-02
+* [Pull Request] [node/gointerfaces/grpcutil: unify grpc server bring-up across daemons](https://github.com/erigontech/erigon/pull/22171) - 2026-07-02
+* [Pull Request] [polygon/heimdall: collapse V1/V2 fetch scaffold into fetchVersioned generic](https://github.com/erigontech/erigon/pull/22167) - 2026-07-02
+* [Pull Request] [common, cl, db, execution, p2p, cmd: fix copy-paste drift defects](https://github.com/erigontech/erigon/pull/22165) - 2026-07-02
+* [Review] [Review on: execution/cache, execution/commitment, db/state: consolidate cache stack (freelru + persistent code cache)](https://github.com/erigontech/erigon/pull/22154#pullrequestreview-4617918678) - 2026-07-02
+* [Review] [Review on: .github: add @sudeepdino008 as CODEOWNER for /cl/](https://github.com/erigontech/erigon/pull/22157#pullrequestreview-4618621546) - 2026-07-02
+* [Pull Request] [node/eth, txnprovider/txpool: close txpool DB in Ethereum.Stop](https://github.com/erigontech/erigon/pull/22162) - 2026-07-02
+* [Pull Request] [execution/cache, execution, db/state: StateCache follow-ups](https://github.com/erigontech/erigon/pull/22159) - 2026-07-02
+* [Review] [Review on: execution/cache, execution, db/state: StateCache follow-ups](https://github.com/erigontech/erigon/pull/22159#pullrequestreview-4617800111) - 2026-07-02
+* [Issue] [cl/cltypes: ExecutionRequests.EncodingSizeSSZ omits its field offsets](https://github.com/erigontech/erigon/issues/22181) - 2026-07-02
+* [Issue] [rpc/requests: retryConnects reports success when every connect attempt timed out](https://github.com/erigontech/erigon/issues/22182) - 2026-07-02
+* [Issue] [kurtosis: assertoor_regular_parallel_test flaky — nondeterministic parallel-exec wrong trie root at tip under tx load (two nodes disagree on block validity)](https://github.com/erigontech/erigon/issues/22152) - 2026-07-02
+* [Issue] [execution/cache: read-ahead warmup races the FCU flush cache-apply — stale state served, wrong trie root (flaky eest-spec-enginextests)](https://github.com/erigontech/erigon/issues/22151) - 2026-07-02
+* [Issue] [execution/commitment: TestBranchCache_Unwind_DropsStaleAboveFloorLazily / _FloorBoundary flake — random maphash seed can put both tail keys in one capacity-1 LRU shard](https://github.com/erigontech/erigon/issues/22158) - 2026-07-02
+* [Issue] [execution/stagedsync, db/state: pre-window commitment writes can land in a window block's changeset under per-block compute](https://github.com/erigontech/erigon/issues/22150) - 2026-07-02
+* [Commit] [cmd/utils/app: reorg-to-genesis regression test, import shutdown & port fixes (#22058)](https://github.com/erigontech/erigon/commit/8861bdab28c3ec7aeb72d3ce71866c372f5c5142) - 2026-07-02
+* [Commit] [execution: read-ahead warmup must not clobber fresher StateCache entries (#22146)](https://github.com/erigontech/erigon/commit/317c00f81f12d35768c392b2701113919006f0ec) - 2026-07-02
 ## Q2 2026
 
 

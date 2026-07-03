@@ -8,6 +8,13 @@ Team: Reth
 
 ## Contributions
 
+## Q3 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Review] [Review on: perf(net): cache full transaction propagation encoding](https://github.com/paradigmxyz/reth/pull/26012#pullrequestreview-4619565456) - 2026-07-02
+* [Review] [Review on: refactor(engine): drop parallel state root](https://github.com/paradigmxyz/reth/pull/26069#pullrequestreview-4619112270) - 2026-07-02
+* [Review] [Review on: feat(tracing): include span attributes in OTLP logs](https://github.com/paradigmxyz/reth/pull/26062#pullrequestreview-4617227140) - 2026-07-02
 ## Q2 2026
 
 

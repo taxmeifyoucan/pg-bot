@@ -8,6 +8,17 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7928: SSTORE access cost check](https://github.com/ethereum/EIPs/pull/11854) - 2026-07-02
+* [Review] [Review on: Update EIP-7997: remove specification of nonce](https://github.com/ethereum/EIPs/pull/11846#pullrequestreview-4614733696) - 2026-07-02
+* [Pull Request] [Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850) - 2026-07-02
+* [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615431742) - 2026-07-02
+* [Commit] [Add EIP: Multi-block Access List Warming](https://github.com/ethereum/EIPs/commit/f69fcf5e459d9f0bf324e77c24d42b4280ada781) - 2026-07-02
+* [Commit] [Update EIP-7928: Revert 7702 tracking](https://github.com/ethereum/EIPs/commit/6666fcc044f37af693b9fd32df6e7643d6c99c4c) - 2026-07-02
+* [Commit] [Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/commit/f63ba053296dbb684aafdcfb9e4be7c972e88f5d) - 2026-07-02
 ## Q2 2026
 
 

@@ -13,6 +13,11 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Add the IL bitlist to bid](https://github.com/ethereum/consensus-specs/pull/5410) - 2026-07-01
 * [Pull Request] [Fix req/resp nits](https://github.com/ethereum/consensus-specs/pull/5411) - 2026-07-01
 * [Commit] [Fix req/resp nits (#5411)](https://github.com/ethereum/consensus-specs/commit/aff96a12c33192324d07339681f2c4dcc339ea13) - 2026-07-01
+* [Review] [Review on: Add the IL bitlist to bid](https://github.com/ethereum/consensus-specs/pull/5410#pullrequestreview-4615686804) - 2026-07-02
+* [Review] [Review on: Use `rng.randint` in `get_random_*` functions](https://github.com/ethereum/consensus-specs/pull/5415#pullrequestreview-4619991940) - 2026-07-02
+* [Review] [Review on: Add new `get_min_activation_balance` helper function](https://github.com/ethereum/consensus-specs/pull/5412#pullrequestreview-4618345963) - 2026-07-02
+* [Review] [Review on: Fix various nits](https://github.com/ethereum/consensus-specs/pull/5395#pullrequestreview-4618111957) - 2026-07-02
+* [Review] [Review on: Use `get_max_attester_slashings` in `get_random_attester_slashings`](https://github.com/ethereum/consensus-specs/pull/5413#pullrequestreview-4617906536) - 2026-07-02
 ## Q2 2026
 
 

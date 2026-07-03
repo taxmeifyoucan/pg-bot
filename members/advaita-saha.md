@@ -13,6 +13,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [use error code -32700 incase of payload parsing error](https://github.com/status-im/nimbus-eth1/pull/4379) - 2026-07-01
+* [Pull Request] [fix: transaction truncation](https://github.com/status-im/nimbus-eth1/pull/4397) - 2026-07-02
+* [Pull Request] [include `eest_devnet` in gitignore](https://github.com/status-im/nimbus-eth1/pull/4394) - 2026-07-02
+* [Pull Request] [include import, trustedNodeSync, deposits to the unified client --help](https://github.com/status-im/nimbus-eth1/pull/4395) - 2026-07-02
+* [Commit] [include eest_devnet in gitignore (#4394)](https://github.com/status-im/nimbus-eth1/commit/b4809857f45838e54befccdc66fe3f598ac5522a) - 2026-07-02
 ## Q2 2026
 
 

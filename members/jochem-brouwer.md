@@ -21,6 +21,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Increase Calldata Floor Cost to 96](https://github.com/ethereum/EIPs/pull/11821#pullrequestreview-4606810901) - 2026-07-01
 * [Review] [Review on: Add EIP: Post-Quantum Keystore for Stateful Keys](https://github.com/ethereum/EIPs/pull/11820#pullrequestreview-4607026304) - 2026-07-01
 
+* [Review] [Review on: Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/pull/11853#pullrequestreview-4621183788) - 2026-07-02
+* [Review] [Review on: Add EIP: Multi-block Access List Warming](https://github.com/ethereum/EIPs/pull/11776#pullrequestreview-4620554067) - 2026-07-02
+* [Review] [Review on: Add EIP: Partitioned Binary Tree](https://github.com/ethereum/EIPs/pull/11799#pullrequestreview-4617418655) - 2026-07-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 ## Q2 2026

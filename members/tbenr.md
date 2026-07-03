@@ -8,6 +8,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 
 ## Contributions
 
+## Q3 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Add progressive SSZ infrastructure types](https://github.com/Consensys/teku/pull/10928) - 2026-07-02
+* [Issue] [Add progressive SSZ infrastructure types introduced by EIP-7916 and EIP-7495](https://github.com/Consensys/teku/issues/10929) - 2026-07-02
+* [Issue] [Use network SSZ length bounds in networking](https://github.com/Consensys/teku/issues/10932) - 2026-07-02
+* [Issue] [Adopt progressive SSZ schemas for GLOAS](https://github.com/Consensys/teku/issues/10931) - 2026-07-02
+* [Issue] [Prepare schema registry for progressive schemas](https://github.com/Consensys/teku/issues/10930) - 2026-07-02
 ## Q2 2026
 
 

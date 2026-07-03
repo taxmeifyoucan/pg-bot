@@ -8,6 +8,12 @@ Team: Reth
 
 ## Contributions
 
+## Q3 2026
+
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Review] [Review on: perf(net): cache full transaction propagation encoding](https://github.com/paradigmxyz/reth/pull/26012#pullrequestreview-4619669477) - 2026-07-02
+* [Review] [Review on: fix(engine): restore state root task parallelism gate](https://github.com/paradigmxyz/reth/pull/26080#pullrequestreview-4620935125) - 2026-07-02
 ## Q2 2026
 
 

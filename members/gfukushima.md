@@ -15,6 +15,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: updated changelog 26.7.0](https://github.com/Consensys/teku/pull/10921#pullrequestreview-4605201128) - 2026-07-01
 * [Review] [Review on: Fix maxSlot overflow in all byRange handlers](https://github.com/Consensys/teku/pull/10924#pullrequestreview-4613453811) - 2026-07-01
 * [Review] [Review on: updated builders endpoint for gloas](https://github.com/Consensys/teku/pull/10920#pullrequestreview-4606110391) - 2026-07-01
+* [Review] [Review on: Added SSZ support for validator balance responses](https://github.com/Consensys/teku/pull/10933#pullrequestreview-4622032823) - 2026-07-03
+* [Review] [Review on: updated builders endpoint for gloas](https://github.com/Consensys/teku/pull/10920#pullrequestreview-4615622558) - 2026-07-02
+* [Pull Request] [Remove web3j execution engine client](https://github.com/Consensys/teku/pull/10927) - 2026-07-02
+* [Pull Request] [Remove `--Xnew-engine-api-client-enabled` flag](https://github.com/Consensys/teku/pull/10926) - 2026-07-02
+* [Review] [Review on: updated libp2p](https://github.com/Consensys/teku/pull/10925#pullrequestreview-4614275382) - 2026-07-02
+* [Commit] [Add interface to allow serve gossip validated data column from blocks not imported (#10914)](https://github.com/Consensys/teku/commit/27028d404755482f1bc71962c6ce57015ca704bf) - 2026-07-02
 ## Q2 2026
 
 

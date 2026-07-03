@@ -16,6 +16,14 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Add new `get_min_activation_balance` helper function](https://github.com/ethereum/consensus-specs/pull/5412) - 2026-07-01
 * [Review] [Review on: Add the IL bitlist to bid](https://github.com/ethereum/consensus-specs/pull/5410#pullrequestreview-4610781910) - 2026-07-01
 * [Review] [Review on: Fix req/resp nits](https://github.com/ethereum/consensus-specs/pull/5411#pullrequestreview-4610583541) - 2026-07-01
+* [Pull Request] [Remove gloas networking fluff](https://github.com/ethereum/consensus-specs/pull/5417) - 2026-07-02
+* [Review] [Review on: Add the IL bitlist to bid](https://github.com/ethereum/consensus-specs/pull/5410#pullrequestreview-4619887833) - 2026-07-02
+* [Pull Request] [Use `rng.randint` in `get_random_*` functions](https://github.com/ethereum/consensus-specs/pull/5415) - 2026-07-02
+* [Pull Request] [Set `BUILDER_WITHDRAWAL_PREFIX` to 0xB0](https://github.com/ethereum/consensus-specs/pull/5416) - 2026-07-02
+* [Review] [Review on: Add new `get_min_activation_balance` helper function](https://github.com/ethereum/consensus-specs/pull/5412#pullrequestreview-4618463905) - 2026-07-02
+* [Review] [Review on: Use `get_max_attester_slashings` in `get_random_attester_slashings`](https://github.com/ethereum/consensus-specs/pull/5413#pullrequestreview-4617952392) - 2026-07-02
+* [Commit] [Fix various nits (#5395)](https://github.com/ethereum/consensus-specs/commit/015d72704fea321e95bb74631e34be17e1104e86) - 2026-07-02
+* [Commit] [Use `get_max_attester_slashings` in `get_random_attester_slashings` (#5413)](https://github.com/ethereum/consensus-specs/commit/b453af8fb8f6f44450766a4b5c4bbca2d7578c13) - 2026-07-02
 ## Q2 2026
 
 

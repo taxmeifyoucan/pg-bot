@@ -14,6 +14,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [perf(prewarmer): warm EIP-2930 access lists cancellation-responsively](https://github.com/NethermindEth/nethermind/pull/12189) - 2026-07-01
 * [Commit] [perf(prewarmer): don't eagerly load EIP-2930 access lists when warming (#12182)](https://github.com/NethermindEth/nethermind/commit/af8e8d6b017c8b187edd5db820c5400706c14755) - 2026-07-01
+* [Pull Request] [Partial archive mode: rolling window of historical state (Sync.PartialArchiveEnabled)](https://github.com/NethermindEth/nethermind/pull/12212) - 2026-07-02
 ## Q2 2026
 
 

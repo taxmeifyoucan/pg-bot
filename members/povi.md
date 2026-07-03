@@ -14,6 +14,8 @@ Team: Grandine
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Check prev_randao in payload bid](https://github.com/grandinetech/grandine/pull/762#pullrequestreview-4606544782) - 2026-07-01
 * [Issue] [[Glamsterdam] Delay block until its parent's payload envelope is received](https://github.com/grandinetech/grandine/issues/785) - 2026-07-01
+* [Pull Request] [Delay block until execution payload envelope is verified or rejected](https://github.com/grandinetech/grandine/pull/786) - 2026-07-02
+* [Review] [Review on: Fix duplicate attestations packed in post-Electra beacon block](https://github.com/grandinetech/grandine/pull/783#pullrequestreview-4617469025) - 2026-07-02
 ## Q2 2026
 
 

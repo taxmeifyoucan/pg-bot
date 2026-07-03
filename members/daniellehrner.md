@@ -8,6 +8,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 
 ## Contributions
 
+## Q3 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: Persist newpayload without fcu glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10732#pullrequestreview-4618249200) - 2026-07-02
+* [Review] [Review on: fcu before engine new payload](https://github.com/besu-eth/besu/pull/10731#pullrequestreview-4618257180) - 2026-07-02
+* [Review] [Review on: fcu before engine new payload](https://github.com/besu-eth/besu/pull/10729#pullrequestreview-4615523431) - 2026-07-02
 ## Q2 2026
 
 

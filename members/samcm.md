@@ -8,6 +8,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Pull Request] [fix(gloas): accept versioned wrapper on gloas SSE events](https://github.com/ethpandaops/xatu/pull/865) - 2026-07-03
+* [Pull Request] [release: gloas (glamsterdam-devnet-6)](https://github.com/ethpandaops/xatu/pull/864) - 2026-07-02
 ## Q2 2026
 
 

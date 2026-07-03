@@ -26,6 +26,10 @@ Team: Erigon
 * [Review] [Review on: bal-devnet-7_warmup: refresh onto bal-devnet-7 (pulls in deep-storage-fold fix #21945)](https://github.com/erigontech/erigon/pull/22129#pullrequestreview-4609115316) - 2026-07-01
 * [Pull Request] [db/state: remove FilesItem.frozen field](https://github.com/erigontech/erigon/pull/22126) - 2026-07-01
 * [Commit] [db/state: remove FilesItem.frozen field (#22126)](https://github.com/erigontech/erigon/commit/8aca45aedfd4d631390f08ecc28ed85d2e7228ff) - 2026-07-01
+* [Review] [Review on: commitment: deep storage fold dropped untouched on-disk slots (#22113)](https://github.com/erigontech/erigon/pull/22153#pullrequestreview-4622141635) - 2026-07-03
+* [Review] [Review on: execution/commitment: fix parallel/streaming deep-fold correctness bugs](https://github.com/erigontech/erigon/pull/22184#pullrequestreview-4622144820) - 2026-07-03
+* [Review] [Review on: rpc/jsonrpc: build `eth_getWitness` during trie unfold](https://github.com/erigontech/erigon/pull/22099#pullrequestreview-4622148682) - 2026-07-03
+* [Commit] [p2p/discover: drop net.IP/AddrPort String allocs on hot paths (#22109)](https://github.com/erigontech/erigon/commit/5849e5bc31c7ac92bb3c6df397fadb5a1df1e4ed) - 2026-07-02
 ## Q2 2026
 
 

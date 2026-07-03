@@ -22,6 +22,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Queue payload attestations received before the beacon block (#16909)](https://github.com/OffchainLabs/prysm/commit/c40b59a47512c348a68bd173998af9e32a99c934) - 2026-07-01
 * [Commit] [Ignore unverifiable execution payload bids on gossip instead of rejecting (#17044)](https://github.com/OffchainLabs/prysm/commit/aa1efecc58d4c3dd3bb86bb9d396a3457162f288) - 2026-07-01
 * [Commit] [Request a block's unknown parent by root on gossip arrival (#17057)](https://github.com/OffchainLabs/prysm/commit/eb795f1e6c79882761c6c1a8a42b05ce477e0f80) - 2026-07-01
+* [Pull Request] [Accept builder preferences without the builder endpoint flag](https://github.com/OffchainLabs/prysm/pull/17078) - 2026-07-02
+* [Pull Request] [Fall back to Builder-API bids when the local payload is unavailable](https://github.com/OffchainLabs/prysm/pull/17080) - 2026-07-02
+* [Pull Request] [Gate partial column decode on subscription to protect the gossip loop](https://github.com/OffchainLabs/prysm/pull/17074) - 2026-07-02
+* [Review] [Review on: Payload reorg](https://github.com/OffchainLabs/prysm/pull/16933#pullrequestreview-4620495990) - 2026-07-02
+* [Pull Request] [Submit block to winning builder before the broadcast error check](https://github.com/OffchainLabs/prysm/pull/17079) - 2026-07-02
+* [Review] [Review on: Add Gloas Builder-API bid selection and block submission](https://github.com/OffchainLabs/prysm/pull/17067#pullrequestreview-4618719624) - 2026-07-02
+* [Commit] [Gate partial column decode on subscription to protect the gossip loop (#17074)](https://github.com/OffchainLabs/prysm/commit/77152ba2fc8a6fa45d8d6bf325aa6d013ab127f0) - 2026-07-02
+* [Commit] [Submit block to winning builder before the broadcast error check (#17079)](https://github.com/OffchainLabs/prysm/commit/45ce83e251f703095ae851148c993cdf40325c15) - 2026-07-02
+* [Commit] [Add Gloas Builder-API bid selection and block submission (#17067)](https://github.com/OffchainLabs/prysm/commit/67d7ad4513f488dbc6c632a20bbb0d366bcd46d3) - 2026-07-02
 ## Q2 2026
 
 

@@ -8,6 +8,13 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7773: Move to Review](https://github.com/ethereum/EIPs/pull/11855) - 2026-07-02
+* [Pull Request] [Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/pull/11853) - 2026-07-02
+* [Review] [Review on: Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/pull/11853#pullrequestreview-4621216544) - 2026-07-02
 ## Q2 2026
 
 

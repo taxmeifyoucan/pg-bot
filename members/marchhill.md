@@ -13,6 +13,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [fix(stateless): align stateless IO with tests-zkevm@v0.5.0](https://github.com/NethermindEth/nethermind/pull/12191) - 2026-07-01
 * [Review] [Review on: Fix Hive eth devp2p tests](https://github.com/NethermindEth/nethermind/pull/12179#pullrequestreview-4607771574) - 2026-07-01
+* [Pull Request] [[v2] targetGasLimit in PayloadAttributesV4](https://github.com/NethermindEth/nethermind/pull/12216) - 2026-07-02
+* [Pull Request] [[v2] Stateless executor: tests-zkevm@v0.5.0 alignment](https://github.com/NethermindEth/nethermind/pull/12217) - 2026-07-02
+* [Pull Request] [[v2] EIP-8282: Builder execution requests](https://github.com/NethermindEth/nethermind/pull/12215) - 2026-07-02
+* [Pull Request] [[v2] EIP repricings & existing-EIP updates (2780/8037/8038 + fixes)](https://github.com/NethermindEth/nethermind/pull/12214) - 2026-07-02
+* [Pull Request] [[v2] EIP-8246: Remove SELFDESTRUCT burn](https://github.com/NethermindEth/nethermind/pull/12213) - 2026-07-02
 ## Q2 2026
 
 

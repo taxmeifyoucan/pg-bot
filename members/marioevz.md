@@ -17,6 +17,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec,tests): Implement EIP-8246](https://github.com/ethereum/execution-specs/pull/3078#pullrequestreview-4613319411) - 2026-07-01
 * [Review] [Review on: feat(spec,tests): implement EIP-7997](https://github.com/ethereum/execution-specs/pull/3079#pullrequestreview-4611441578) - 2026-07-01
+* [Review] [Review on: feat(tests): EIP-7928 reject newPayload with malformed or missing block access list](https://github.com/ethereum/execution-specs/pull/3082#pullrequestreview-4620717789) - 2026-07-02
+* [Review] [Review on: feat(spec-specs,test-tests): add EIP-2780 and EIP-8038](https://github.com/ethereum/execution-specs/pull/3052#pullrequestreview-4621188886) - 2026-07-02
+* [Review] [Review on: feat(spec,tests): Implement EIP-8282](https://github.com/ethereum/execution-specs/pull/3070#pullrequestreview-4619831087) - 2026-07-02
+* [Commit] [feat(spec,tests): Implement EIP-8282 (#3070)](https://github.com/ethereum/execution-specs/commit/b0d5cae83ac6b673ce90f5c922e8fa50678627a6) - 2026-07-02
 ## Q2 2026
 
 

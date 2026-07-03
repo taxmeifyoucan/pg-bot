@@ -8,6 +8,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 ## Contributions
 
+## Q3 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Gloas fix proposer preferences gossip verification](https://github.com/sigp/lighthouse/pull/9337#pullrequestreview-4615166474) - 2026-07-02
+* [Pull Request] [Update mergify config](https://github.com/sigp/lighthouse/pull/9564) - 2026-07-02
+* [Pull Request] [Backport of #9514 to `release-v8.2.1`](https://github.com/sigp/lighthouse/pull/9566) - 2026-07-02
 ## Q2 2026
 
 

@@ -13,6 +13,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: Request data column sidecars needed to validate a payload envelope](https://github.com/OffchainLabs/prysm/pull/17070#pullrequestreview-4609760860) - 2026-07-01
+* [Pull Request] [Active active](https://github.com/OffchainLabs/prysm/pull/17075) - 2026-07-02
 ## Q2 2026
 
 
