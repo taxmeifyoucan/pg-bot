@@ -8,6 +8,22 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q3 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: fix: init transports before processing bootENRs in PeerDiscovery](https://github.com/ChainSafe/lodestar/pull/9560#pullrequestreview-4627287293) - 2026-07-03
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
+* [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
+* [Review] [Review on: Set `BUILDER_WITHDRAWAL_PREFIX` to 0xB0](https://github.com/ethereum/consensus-specs/pull/5416#pullrequestreview-4624005663) - 2026-07-03
+* [Pull Request] [Reduce `MAX_BUILDER_DEPOSIT_REQUESTS_PER_PAYLOAD` to 64](https://github.com/ethereum/consensus-specs/pull/5420) - 2026-07-03
+* [Commit] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs (#5426)](https://github.com/ethereum/consensus-specs/commit/38bedb0aac71ac824f225568b66c691bd03a1705) - 2026-07-03
+* [Commit] [Reduce `MAX_BUILDER_DEPOSIT_REQUESTS_PER_PAYLOAD` to 64 (#5420)](https://github.com/ethereum/consensus-specs/commit/720ec5bc9ec311750e49d6620620b795ed5203a0) - 2026-07-03
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 ## Q2 2026
 
 

@@ -15,6 +15,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: glamsterdam devnet 6](https://github.com/status-im/nimbus-eth1/pull/4371#pullrequestreview-4608881978) - 2026-07-01
 * [Pull Request] [stateless: add guest program and integrate into EEST blockchain test](https://github.com/status-im/nimbus-eth1/pull/4383) - 2026-07-01
 * [Commit] [stateless: add guest program and integrate into EEST blockchain test (#4383)](https://github.com/status-im/nimbus-eth1/commit/0b73ec7c24b8eeb91d2d8345509cbc12db112fec) - 2026-07-02
+* [Pull Request] [evm: error on missing in-range BLOCKHASH instead of returning zero](https://github.com/status-im/nimbus-eth1/pull/4404) - 2026-07-03
+* [Pull Request] [stateless: fail block on missing in-range BLOCKHASH](https://github.com/status-im/nimbus-eth1/pull/4407) - 2026-07-03
+* [Review] [Review on: glamsterdam devnet 6](https://github.com/status-im/nimbus-eth1/pull/4371#pullrequestreview-4624896096) - 2026-07-03
+* [Pull Request] [Stateless: Fix verifyHeaders to check for contiguous chain](https://github.com/status-im/nimbus-eth1/pull/4400) - 2026-07-03
+* [Review] [Review on: include import, trustedNodeSync, deposits to the unified client --help](https://github.com/status-im/nimbus-eth1/pull/4395#pullrequestreview-4624880465) - 2026-07-03
+* [Commit] [Stateless: Fix verifyHeaders to check for contiguous chain (#4400)](https://github.com/status-im/nimbus-eth1/commit/157f96af82584f39f2ea5b9b839f7b8c343b2887) - 2026-07-03
 ## Q2 2026
 
 

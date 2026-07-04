@@ -37,12 +37,20 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): EIP-7928 reject newPayload with malformed or missing block access list (#3082)](https://github.com/ethereum/execution-specs/commit/dee9dcfd5285e2c564e2aba041511c25cbd7265b) - 2026-07-02
 * [Commit] [chore(test-consume): resolve fixture release tag for consume cache (#3085)](https://github.com/ethereum/execution-specs/commit/06800859a7ef5ed33d3b75cf502aedcad7b7fedd) - 2026-07-02
 
+* [Pull Request] [feat(docs): parallel PR spec-doc builds, publish-only social cards](https://github.com/ethereum/execution-specs/pull/3101) - 2026-07-03
+* [Pull Request] [chore(ci): speed up json-loader and fill jobs](https://github.com/ethereum/execution-specs/pull/3096) - 2026-07-03
+* [Pull Request] [feat(ci): nightly full fill of all tests and fixture formats](https://github.com/ethereum/execution-specs/pull/3100) - 2026-07-03
+* [Review] [Review on: docs(spec-specs): fix stale Amsterdam fork docstring and comments](https://github.com/ethereum/execution-specs/pull/3097#pullrequestreview-4626177916) - 2026-07-03
+* [Review] [Review on: fix(test-consume,test-rpc): close RPC sessions on teardown to fix fd leak](https://github.com/ethereum/execution-specs/pull/3094#pullrequestreview-4625076023) - 2026-07-03
+* [Review] [Review on: feat(tests): EIP-8246 creation-tx initcode selfdestruct coverage](https://github.com/ethereum/execution-specs/pull/3084#pullrequestreview-4624872130) - 2026-07-03
+* [Review] [Review on: refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092#pullrequestreview-4624842346) - 2026-07-03
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [cmd/evm, core: fixes for eels tests@v20.0.0 release](https://github.com/ethereum/go-ethereum/pull/35283) - 2026-07-02
 * [Review] [Review on: cmd/evm, core: fixes for eels tests@v20.0.0 release](https://github.com/ethereum/go-ethereum/pull/35283#pullrequestreview-4619154016) - 2026-07-02
+* [Review] [Review on: cmd/evm, core: fixes for eels tests@v20.0.0 release](https://github.com/ethereum/go-ethereum/pull/35283#pullrequestreview-4626435533) - 2026-07-03
 ## Q2 2026
 
 

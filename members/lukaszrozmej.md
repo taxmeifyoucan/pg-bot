@@ -32,6 +32,28 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf(rlp): cap the item-count walk at limit+1 in DecodeArray decoders](https://github.com/NethermindEth/nethermind/pull/12203#pullrequestreview-4617110414) - 2026-07-02
 * [Review] [Review on: fix(synchronization): verify hash of snap-heal recovered trie node](https://github.com/NethermindEth/nethermind/pull/12200#pullrequestreview-4617127661) - 2026-07-02
 * [Review] [Review on: fix(snap): reject malformed range proofs instead of throwing](https://github.com/NethermindEth/nethermind/pull/12187#pullrequestreview-4617143265) - 2026-07-02
+* [Review] [Review on: feat(network): trusted & static peers as must-keep, peer-limit accounting cleanup](https://github.com/NethermindEth/nethermind/pull/12196#pullrequestreview-4625503263) - 2026-07-03
+* [Review] [Review on: fix(persistence): correct range deletion bounds for full trie nodes](https://github.com/NethermindEth/nethermind/pull/12238#pullrequestreview-4627130127) - 2026-07-03
+* [Review] [Review on: refactor(api): remove dead InitNetworkProtocol plugin hook](https://github.com/NethermindEth/nethermind/pull/12241#pullrequestreview-4627097367) - 2026-07-03
+* [Review] [Review on: fix(blockchain): bound BadBlockStore by entry count, not DB byte size](https://github.com/NethermindEth/nethermind/pull/12225#pullrequestreview-4624053267) - 2026-07-03
+* [Review] [Review on: fix(txpool): single-source pending-delegation accounting through pool events](https://github.com/NethermindEth/nethermind/pull/12205#pullrequestreview-4624325589) - 2026-07-03
+* [Review] [Review on: Warmup improvement](https://github.com/NethermindEth/nethermind/pull/10652#pullrequestreview-4626517389) - 2026-07-03
+* [Review] [Review on: refactor(state): move BestPersistedState from BlockTree to IStateBoundary](https://github.com/NethermindEth/nethermind/pull/12236#pullrequestreview-4626632023) - 2026-07-03
+* [Pull Request] [test(sync): stabilize flaky Test_release_before_processing_complete](https://github.com/NethermindEth/nethermind/pull/12235) - 2026-07-03
+* [Review] [Review on: refactor: drop big-endian branches, assert little-endian at startup](https://github.com/NethermindEth/nethermind/pull/12197#pullrequestreview-4626041174) - 2026-07-03
+* [Review] [Review on: Fix background scheduler branch completion](https://github.com/NethermindEth/nethermind/pull/12033#pullrequestreview-4626349551) - 2026-07-03
+* [Review] [Review on: Update schema generator project coverage](https://github.com/NethermindEth/nethermind/pull/12207#pullrequestreview-4624406383) - 2026-07-03
+* [Review] [Review on: refactor(snap): sequential code-existence filter instead of per-range PLINQ](https://github.com/NethermindEth/nethermind/pull/12224#pullrequestreview-4624096870) - 2026-07-03
+* [Review] [Review on: fix(jsonrpc): derive eth_simulateV1 block spec from the overridden number/timestamp](https://github.com/NethermindEth/nethermind/pull/12229#pullrequestreview-4625031007) - 2026-07-03
+* [Pull Request] [fix(test): unflake PersistentReceiptStorage index-prune assertion](https://github.com/NethermindEth/nethermind/pull/12234) - 2026-07-03
+* [Review] [Review on: fix(test): unflake PersistentReceiptStorage index-prune assertion](https://github.com/NethermindEth/nethermind/pull/12234#pullrequestreview-4625432874) - 2026-07-03
+* [Commit] [test(sync): stabilize flaky Test_release_before_processing_complete (#12235)](https://github.com/NethermindEth/nethermind/commit/af876699bfc6f782f5c8bf83c0d6ce92f298326b) - 2026-07-03
+* [Commit] [fix(test): unflake PersistentReceiptStorage index-prune assertion (#12234)](https://github.com/NethermindEth/nethermind/commit/ff45ccc9598eb58a0dad9a8718402ac93e9c3fb8) - 2026-07-03
+* [Commit] [refactor(aura): isolate AuRa concerns inside the AuRa plugin (#11938)](https://github.com/NethermindEth/nethermind/commit/cd907370af95a8c5c2937235b2c76f0a8107a80b) - 2026-07-03
+* [Commit] [feat(engine): move SSZ-REST fork selection into Eth-Execution-Version header (#12193)](https://github.com/NethermindEth/nethermind/commit/8e28b356d26bcbddc400106946b6e7b56c0cab4a) - 2026-07-03
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 ## Q2 2026
 
 

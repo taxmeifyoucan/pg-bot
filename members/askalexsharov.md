@@ -30,6 +30,26 @@ Team: Erigon
 * [Review] [Review on: execution/commitment: fix parallel/streaming deep-fold correctness bugs](https://github.com/erigontech/erigon/pull/22184#pullrequestreview-4622144820) - 2026-07-03
 * [Review] [Review on: rpc/jsonrpc: build `eth_getWitness` during trie unfold](https://github.com/erigontech/erigon/pull/22099#pullrequestreview-4622148682) - 2026-07-03
 * [Commit] [p2p/discover: drop net.IP/AddrPort String allocs on hot paths (#22109)](https://github.com/erigontech/erigon/commit/5849e5bc31c7ac92bb3c6df397fadb5a1df1e4ed) - 2026-07-02
+* [Pull Request] [cmd/integration: use cobra cmd.Context() instead of re-deriving RootContext per subcommand](https://github.com/erigontech/erigon/pull/22220) - 2026-07-03
+* [Review] [Review on: cmd, node: migrate urfave/cli from v2 to v3](https://github.com/erigontech/erigon/pull/22130#pullrequestreview-4628484459) - 2026-07-03
+* [Pull Request] [[wip] db/state: group Aggregator dirty/visible file state into a fileSet](https://github.com/erigontech/erigon/pull/22191) - 2026-07-03
+* [Review] [Review on: execution/types: additive transaction-type registry](https://github.com/erigontech/erigon/pull/22201#pullrequestreview-4624750302) - 2026-07-03
+* [Review] [Review on: db/version: relax minor version check in Supports](https://github.com/erigontech/erigon/pull/22202#pullrequestreview-4624886207) - 2026-07-03
+* [Pull Request] [db/snapshotsync: add DirtyFiles type alias, use VisibleSegments](https://github.com/erigontech/erigon/pull/22218) - 2026-07-03
+* [Pull Request] [txnprovider/txpool: don't panic on short genesis in p2p test client](https://github.com/erigontech/erigon/pull/22221) - 2026-07-03
+* [Review] [Review on: node/gointerfaces/grpcutil: unify grpc server bring-up across daemons](https://github.com/erigontech/erigon/pull/22171#pullrequestreview-4624485164) - 2026-07-03
+* [Review] [Review on: rpc/mcp: dedupe embedded and standalone servers; implement in-process resource handlers](https://github.com/erigontech/erigon/pull/22169#pullrequestreview-4624465534) - 2026-07-03
+* [Review] [Review on: `debug_executionWitness`: omit inlined (<32B) nodes from witness prune](https://github.com/erigontech/erigon/pull/22187#pullrequestreview-4625179189) - 2026-07-03
+* [Review] [Review on: [r3.5] db/version: relax minor version check in Supports](https://github.com/erigontech/erigon/pull/22205#pullrequestreview-4625597150) - 2026-07-03
+* [Review] [Review on: [r3.5] Revert "db/state/statecfg: bump rcache domain kv/.v to v3.1 (#22047)"](https://github.com/erigontech/erigon/pull/22207#pullrequestreview-4625594768) - 2026-07-03
+* [Review] [Review on: [r3.4] db/version: relax minor version check in Supports](https://github.com/erigontech/erigon/pull/22206#pullrequestreview-4625595570) - 2026-07-03
+* [Review] [Review on: [r3.4] Revert "db/state/statecfg: bump rcache domain kv/.v to v3.1 (#21974)"](https://github.com/erigontech/erigon/pull/22208#pullrequestreview-4625593104) - 2026-07-03
+* [Review] [Review on: db/downloader: lock torrentsByName write in AddNewSeedableFile](https://github.com/erigontech/erigon/pull/22192#pullrequestreview-4624243316) - 2026-07-03
+* [Review] [Review on: diagnostics/metrics: collapse GetOrCreate* onto generic helpers](https://github.com/erigontech/erigon/pull/22168#pullrequestreview-4624490976) - 2026-07-03
+* [Review] [Review on: golangci, sonar: enable modernize linter, exclude legacy-tests from analysis](https://github.com/erigontech/erigon/pull/22197#pullrequestreview-4624420978) - 2026-07-03
+* [Commit] [db/snapshotsync: add DirtyFiles type alias, use VisibleSegments (#22218)](https://github.com/erigontech/erigon/commit/fce3e1e794c039e27dbf0eb4978a1296a7332f0a) - 2026-07-03
+* [Commit] [db/state:`HistoryKeyTxNumIterFiles`: less copy/append (#20286)](https://github.com/erigontech/erigon/commit/b1eb94efef20cc15889770e29071b1015a197c79) - 2026-07-03
+* [Commit] [`--prune.mode=minimal` to delete old state-history files (#22123)](https://github.com/erigontech/erigon/commit/e5ad7c4193055faef9c6ec9ee1c39f1c9b4abc11) - 2026-07-03
 ## Q2 2026
 
 

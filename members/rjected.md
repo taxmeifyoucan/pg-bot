@@ -14,6 +14,11 @@ Team: Reth
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: perf(net): cache full transaction propagation encoding](https://github.com/paradigmxyz/reth/pull/26012#pullrequestreview-4619669477) - 2026-07-02
 * [Review] [Review on: fix(engine): restore state root task parallelism gate](https://github.com/paradigmxyz/reth/pull/26080#pullrequestreview-4620935125) - 2026-07-02
+* [Review] [Review on: perf(net): use static wire encoding for p2p ping and pong](https://github.com/paradigmxyz/reth/pull/26122#pullrequestreview-4627182566) - 2026-07-03
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626673741) - 2026-07-03
+* [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626672497) - 2026-07-03
 ## Q2 2026
 
 

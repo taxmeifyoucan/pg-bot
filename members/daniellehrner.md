@@ -15,6 +15,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Persist newpayload without fcu glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10732#pullrequestreview-4618249200) - 2026-07-02
 * [Review] [Review on: fcu before engine new payload](https://github.com/besu-eth/besu/pull/10731#pullrequestreview-4618257180) - 2026-07-02
 * [Review] [Review on: fcu before engine new payload](https://github.com/besu-eth/besu/pull/10729#pullrequestreview-4615523431) - 2026-07-02
+* [Pull Request] [Add CL target gas limit to engine forkchoiceUpdatedV4](https://github.com/besu-eth/besu/pull/10745) - 2026-07-03
+* [Review] [Review on: Clear empty accounts when applying partial BAL writes (glamsterdam-devnet-6)](https://github.com/besu-eth/besu/pull/10744#pullrequestreview-4626689837) - 2026-07-03
+* [Pull Request] [EIP-7954: raise Amsterdam max code/initcode size to 64KiB/128KiB](https://github.com/besu-eth/besu/pull/10742) - 2026-07-03
+* [Pull Request] [EIP-8282: builder deposit and exit execution requests for Amsterdam](https://github.com/besu-eth/besu/pull/10743) - 2026-07-03
 ## Q2 2026
 
 

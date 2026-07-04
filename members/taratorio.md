@@ -20,6 +20,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[DO-NOT-MERGE] glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22164) - 2026-07-02
 * [Pull Request] [[DO-NOT-MERGE] execution: implement EIP-7928 fixes for tests-glamsterdam-devnet@v6.1.0](https://github.com/erigontech/erigon/pull/22161) - 2026-07-02
 * [Commit] [.github/workflows: run CI Gate on PRs against any base branch (#22139)](https://github.com/erigontech/erigon/commit/0b02768e81b7e62751ebf1afa17566ae932dac36) - 2026-07-02
+* [Pull Request] [execution: reduce BAL-driven parallel exec re-executions by 10x](https://github.com/erigontech/erigon/pull/22190) - 2026-07-03
 ## Q2 2026
 
 

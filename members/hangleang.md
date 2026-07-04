@@ -15,6 +15,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: feat: added POST state_builders beaconAPI endpoint](https://github.com/grandinetech/grandine/pull/779#pullrequestreview-4609744838) - 2026-07-01
 * [Review] [Review on: Update consensus-spec-tests for `glamsterdam-devnet-6`](https://github.com/grandinetech/grandine/pull/765#pullrequestreview-4606779148) - 2026-07-01
 * [Pull Request] [Add engine_newPayloadV5 binding](https://github.com/grandinetech/grandine/pull/784) - 2026-07-01
+* [Review] [Review on: Delay block until execution payload envelope is verified or rejected](https://github.com/grandinetech/grandine/pull/786#pullrequestreview-4622851498) - 2026-07-03
 ## Q2 2026
 
 

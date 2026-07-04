@@ -16,6 +16,8 @@ Team: Grandine
 * [Issue] [[Glamsterdam] Delay block until its parent's payload envelope is received](https://github.com/grandinetech/grandine/issues/785) - 2026-07-01
 * [Pull Request] [Delay block until execution payload envelope is verified or rejected](https://github.com/grandinetech/grandine/pull/786) - 2026-07-02
 * [Review] [Review on: Fix duplicate attestations packed in post-Electra beacon block](https://github.com/grandinetech/grandine/pull/783#pullrequestreview-4617469025) - 2026-07-02
+* [Review] [Review on: Add engine_newPayloadV5 binding](https://github.com/grandinetech/grandine/pull/784#pullrequestreview-4623804425) - 2026-07-03
+* [Review] [Review on: Update attesting balances to the last finalized block](https://github.com/grandinetech/grandine/pull/777#pullrequestreview-4623681056) - 2026-07-03
 ## Q2 2026
 
 

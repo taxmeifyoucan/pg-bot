@@ -15,6 +15,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [Extract shared frame-exit result construction](https://github.com/ipsilon/evmone/pull/1578) - 2026-07-01
 * [Commit] [Extract shared frame-exit result construction (#1578)](https://github.com/ipsilon/evmone/commit/e64f626493bfe262a12ffcf2388add16d05d1376) - 2026-07-01
 
+* [Pull Request] [ci: Upgrade execution-specs to tests@v20.0.0](https://github.com/ipsilon/evmone/pull/1579) - 2026-07-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -40,6 +41,15 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): EIP-8037 CREATE-onto-alive refunds NEW_ACCOUNT to gas_left (#3073)](https://github.com/ethereum/execution-specs/commit/3b3840adfb3658aa24e6cee9f2ccba6edbae5ad5) - 2026-07-02
 * [Commit] [feat(tests): EIP-8037 spilled NEW_ACCOUNT gas consumed on caller halt (#3061)](https://github.com/ethereum/execution-specs/commit/9c938836b9e50aba1ea920c978d49d0b188d6273) - 2026-07-02
 * [Commit] [chore(test-client-clis): migrate evmone t8n to the `evmone t8n` subcommand (#3063)](https://github.com/ethereum/execution-specs/commit/b6956dbe42a64d143569d5e9b20a0e7f7b9d0ac9) - 2026-07-02
+
+* [Pull Request] [fix(testing): clear watch screen via Console, not deprecated os.system](https://github.com/ethereum/execution-specs/pull/3102) - 2026-07-03
+* [Pull Request] [docs(spec-specs): fix stale Amsterdam fork docstring and comments](https://github.com/ethereum/execution-specs/pull/3097) - 2026-07-03
+* [Pull Request] [refactor(spec-specs): credit CREATE refund before child incorporation](https://github.com/ethereum/execution-specs/pull/3099) - 2026-07-03
+* [Commit] [fix(testing): clear watch screen via Console, not deprecated os.system (#3102)](https://github.com/ethereum/execution-specs/commit/f188d01b1c5f78fc8b3ff84a3b4e80d626034242) - 2026-07-03
+* [Commit] [docs(spec-specs): fix stale Amsterdam fork docstring and comments (#3097)](https://github.com/ethereum/execution-specs/commit/3da5390f9f1d330acbd845025a89564e455ba743) - 2026-07-03
+* [Commit] [feat(tests): EIP-8246 creation-tx initcode selfdestruct coverage (#3084)](https://github.com/ethereum/execution-specs/commit/7603ff69a8dca74dfbbcdd7c90c63f023d4e8f77) - 2026-07-03
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 ## Q2 2026
 
 

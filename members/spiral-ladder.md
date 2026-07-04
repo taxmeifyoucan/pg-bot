@@ -14,6 +14,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: v1.44.0 release](https://github.com/ChainSafe/lodestar/pull/9495#pullrequestreview-4610841775) - 2026-07-01
 
 * [Pull Request] [feat(shuffling-cache): add 'has' api to shuffling cache](https://github.com/ChainSafe/lodestar/pull/9579) - 2026-07-02
+* [Commit] [feat(shuffling-cache): add 'has' api to shuffling cache (#9579)](https://github.com/ChainSafe/lodestar/commit/0a39befe628ff1ed4be3e752ace68456936ae756) - 2026-07-03
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -23,6 +24,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [feat(metrics): metrics bindings (#455)](https://github.com/ChainSafe/lodestar-z/commit/dd41999540f280f927c68e488c16540172331b23) - 2026-07-01
 * [Commit] [fix: missing state commits (#454)](https://github.com/ChainSafe/lodestar-z/commit/a432b55eaef87f3d067d4ccf0de732a726040468) - 2026-07-01
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615881613) - 2026-07-02
+* [Pull Request] [feat: split nextValue fn](https://github.com/ChainSafe/lodestar-z/pull/464) - 2026-07-03
 ## Q2 2026
 
 

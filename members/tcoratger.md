@@ -19,6 +19,17 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(whir, sumcheck): used packing in constraint combination and HZVK initial sumcheck relation](https://github.com/Plonky3/Plonky3/pull/1905#pullrequestreview-4616642907) - 2026-07-02
 * [Review] [Review on: perf(matrix): no-alloc `vertically_packed_row` for `RowIndexMappedView`](https://github.com/Plonky3/Plonky3/pull/1904#pullrequestreview-4616625307) - 2026-07-02
 * [Commit] [feat(multi-stark): prove AIRs end-to-end via WHIR commitment openings (#1892)](https://github.com/Plonky3/Plonky3/commit/9b8edc4a67bd26e2ed30130fc3d7790b707d2c51) - 2026-07-02
+* [Pull Request] [refactor: fold MultiOpeningMmcs into Mmcs](https://github.com/Plonky3/Plonky3/pull/1917) - 2026-07-03
+* [Review] [Review on: fix: correct `MAX_SINGLE_SAMPLE_BITS` for Goldilocks](https://github.com/Plonky3/Plonky3/pull/1914#pullrequestreview-4627975148) - 2026-07-03
+* [Review] [Review on: perf(sumcheck): parallelize packed constraint combine](https://github.com/Plonky3/Plonky3/pull/1913#pullrequestreview-4626563961) - 2026-07-03
+* [Review] [Review on: perf(matrix): pack rows through composition wrappers](https://github.com/Plonky3/Plonky3/pull/1911#pullrequestreview-4626469315) - 2026-07-03
+* [Pull Request] [fix(whir): update prescribed-point adapter to pruned multiproof API](https://github.com/Plonky3/Plonky3/pull/1915) - 2026-07-03
+* [Review] [Review on: fix(lookup): enforce uniform tuple width per bus and bound local lookup multiplicities](https://github.com/Plonky3/Plonky3/pull/1912#pullrequestreview-4626478586) - 2026-07-03
+* [Review] [Review on: perf(commit): bitmask periodic-table indexing & batch periodic-column verifier evals](https://github.com/Plonky3/Plonky3/pull/1910#pullrequestreview-4626174632) - 2026-07-03
+* [Review] [Review on: perf(field): make cubic squaring 33% faster](https://github.com/Plonky3/Plonky3/pull/1909#pullrequestreview-4625916520) - 2026-07-03
+* [Review] [Review on: perf: make `BoundedPowers::collect` scalar for small requests](https://github.com/Plonky3/Plonky3/pull/1908#pullrequestreview-4625910629) - 2026-07-03
+* [Commit] [fix(whir): update prescribed-point adapter to pruned multiproof API (#1915)](https://github.com/Plonky3/Plonky3/commit/038743156fbe87e3f1b1d704bab64c9738dfb6a2) - 2026-07-03
+* [Commit] [whir: pruned Merkle multiproofs for STIR query openings (#1805)](https://github.com/Plonky3/Plonky3/commit/1149a46254607cca85ec5b0af68ffe8a5da0d1bc) - 2026-07-03
 ## Q2 2026
 
 

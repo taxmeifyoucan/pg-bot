@@ -24,8 +24,12 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/pull/11853#pullrequestreview-4621183788) - 2026-07-02
 * [Review] [Review on: Add EIP: Multi-block Access List Warming](https://github.com/ethereum/EIPs/pull/11776#pullrequestreview-4620554067) - 2026-07-02
 * [Review] [Review on: Add EIP: Partitioned Binary Tree](https://github.com/ethereum/EIPs/pull/11799#pullrequestreview-4617418655) - 2026-07-02
+* [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4624478856) - 2026-07-03
+* [Pull Request] [Update EIP-7997: Add EAS-like bytecode + add required EIP](https://github.com/ethereum/EIPs/pull/11856) - 2026-07-03
+* [Review] [Review on: Update EIP-7997: Add EAS-like bytecode + add required EIP](https://github.com/ethereum/EIPs/pull/11856#pullrequestreview-4622351952) - 2026-07-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
+* [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
 ## Q2 2026
 
 

@@ -14,6 +14,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Commit] [core/txpool: add blobTxForPool migration in limbo (#35209)](https://github.com/ethereum/go-ethereum/commit/21652ef9ef00a823d140b2c94593354105b5b702) - 2026-07-01
 * [Review] [Review on: eth: protect high-value peers from random dropping based on tx inclusion stats](https://github.com/ethereum/go-ethereum/pull/34702#pullrequestreview-4618883698) - 2026-07-02
 * [Review] [Review on: cmd/devp2p: fix test error message formats](https://github.com/ethereum/go-ethereum/pull/35138#pullrequestreview-4616654404) - 2026-07-02
+* [Review] [Review on: cmd/devp2p: fix swapped args in private-key error message](https://github.com/ethereum/go-ethereum/pull/35193#pullrequestreview-4625891989) - 2026-07-03
+* [Review] [Review on: eth/protocols/eth: fix blockAccessList empty marker](https://github.com/ethereum/go-ethereum/pull/35286#pullrequestreview-4624552895) - 2026-07-03
 ## Q2 2026
 
 

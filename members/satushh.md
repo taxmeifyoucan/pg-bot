@@ -14,6 +14,10 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Stop logging expired payload_attributes SSE skips as errors](https://github.com/OffchainLabs/prysm/pull/17069) - 2026-07-01
 * [Review] [Review on: Add section about `AGENTS.md` in `README.md`](https://github.com/OffchainLabs/prysm/pull/17073#pullrequestreview-4618353777) - 2026-07-02
 * [Commit] [Stop logging expired payload_attributes SSE skips as errors (#17069)](https://github.com/OffchainLabs/prysm/commit/c468799375c65adc4f240927235b849580dacc86) - 2026-07-02
+* [Review] [Review on: Clean up Gloas proposer flow logging](https://github.com/OffchainLabs/prysm/pull/17082#pullrequestreview-4626933097) - 2026-07-03
+* [Pull Request] [Log failed validator block builds as failures](https://github.com/OffchainLabs/prysm/pull/17088) - 2026-07-03
+* [Review] [Review on: Recover from nil headblock in db at startup](https://github.com/OffchainLabs/prysm/pull/17087#pullrequestreview-4625364188) - 2026-07-03
+* [Review] [Review on: Payload reorg](https://github.com/OffchainLabs/prysm/pull/16933#pullrequestreview-4624301465) - 2026-07-03
 ## Q2 2026
 
 

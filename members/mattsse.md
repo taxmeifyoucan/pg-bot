@@ -34,6 +34,29 @@ Team: Reth
 * [Commit] [fix(rpc): weight fee history rewards by receipt gas (#26067)](https://github.com/paradigmxyz/reth/commit/6d38c7373ffc1689d890b914feb7b61d3fbfdbd3) - 2026-07-02
 * [Commit] [perf(net): skip no-op reputation changes (#26032)](https://github.com/paradigmxyz/reth/commit/608ebd1e8a7c7be74460a978cc993b6ed4ea8be5) - 2026-07-02
 * [Commit] [fix(db): avoid rustdoc ICE for libmdbx re-export (#26055)](https://github.com/paradigmxyz/reth/commit/74e4c85b1745393bc21e41ff792db13bfe1e15c3) - 2026-07-02
+* [Pull Request] [test(net): cover pooled hash decode success cases](https://github.com/paradigmxyz/reth/pull/26150) - 2026-07-03
+* [Pull Request] [perf(net): preallocate pooled hash metadata decoding](https://github.com/paradigmxyz/reth/pull/26145) - 2026-07-03
+* [Pull Request] [perf(net): cache range update timer polls](https://github.com/paradigmxyz/reth/pull/26144) - 2026-07-03
+* [Pull Request] [perf(net): flush P2PStream once per batch instead of per message](https://github.com/paradigmxyz/reth/pull/26125) - 2026-07-03
+* [Pull Request] [perf(net): avoid re-polling unchanged pinger timers](https://github.com/paradigmxyz/reth/pull/26124) - 2026-07-03
+* [Pull Request] [perf(net): reduce idle polling work in ActiveSession](https://github.com/paradigmxyz/reth/pull/26123) - 2026-07-03
+* [Pull Request] [perf(net): use static wire encoding for p2p ping and pong](https://github.com/paradigmxyz/reth/pull/26122) - 2026-07-03
+* [Pull Request] [perf(net): avoid redundant zero-fill in ECIES write_body](https://github.com/paradigmxyz/reth/pull/26120) - 2026-07-03
+* [Pull Request] [perf(net): avoid copying decrypted ECIES message body](https://github.com/paradigmxyz/reth/pull/26119) - 2026-07-03
+* [Pull Request] [fix(prune): derive receipts static file size from prune distance](https://github.com/paradigmxyz/reth/pull/26108) - 2026-07-03
+* [Review] [Review on: refactor(trie): rename ParallelStateRootError to StateRootTaskError](https://github.com/paradigmxyz/reth/pull/26132#pullrequestreview-4626685870) - 2026-07-03
+* [Commit] [perf(net): preallocate pooled hash metadata decoding (#26145)](https://github.com/paradigmxyz/reth/commit/ef184296232607b3437735d2aac7f278a74af111) - 2026-07-03
+* [Commit] [perf(net): flush P2PStream once per batch instead of per message (#26125)](https://github.com/paradigmxyz/reth/commit/b4417f33d3c580caa948c5dcf58b274147966e1d) - 2026-07-03
+* [Commit] [perf(net): avoid re-polling unchanged pinger timers (#26124)](https://github.com/paradigmxyz/reth/commit/d23b04ed34f9d3faea6c190ac1fcd62deced9b70) - 2026-07-03
+* [Commit] [perf(net): reduce idle polling work in ActiveSession (#26123)](https://github.com/paradigmxyz/reth/commit/76a0c5f94a828217ec9d576b8fb45848cc784533) - 2026-07-03
+* [Commit] [perf(net): use static wire encoding for p2p ping and pong (#26122)](https://github.com/paradigmxyz/reth/commit/f74d11f96866df83d8fa033accd8e1a198129e20) - 2026-07-03
+* [Commit] [perf(net): avoid copying decrypted ECIES message body (#26119)](https://github.com/paradigmxyz/reth/commit/0a953e702a00ee01dbddeaddc16ea84a9b5a56cc) - 2026-07-03
+* [Commit] [perf(net): avoid redundant zero-fill in ECIES write_body (#26120)](https://github.com/paradigmxyz/reth/commit/a168e0c6b6ad733a2fb5e81109a5da24040a9c66) - 2026-07-03
+* [Commit] [fix(txpool): account for blob tx access list size (#26113)](https://github.com/paradigmxyz/reth/commit/7cb6d016d3d03f48ab1480d1a4d9af16a7758640) - 2026-07-03
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
+* [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
 ## Q2 2026
 
 

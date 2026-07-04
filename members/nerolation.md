@@ -19,6 +19,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Add EIP: Multi-block Access List Warming](https://github.com/ethereum/EIPs/commit/f69fcf5e459d9f0bf324e77c24d42b4280ada781) - 2026-07-02
 * [Commit] [Update EIP-7928: Revert 7702 tracking](https://github.com/ethereum/EIPs/commit/6666fcc044f37af693b9fd32df6e7643d6c99c4c) - 2026-07-02
 * [Commit] [Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/commit/f63ba053296dbb684aafdcfb9e4be7c972e88f5d) - 2026-07-02
+* [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4624406026) - 2026-07-03
 ## Q2 2026
 
 

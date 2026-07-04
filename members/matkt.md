@@ -19,6 +19,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Tune RocksDB options per column family for point-lookup-heavy state access](https://github.com/besu-eth/besu/pull/10730) - 2026-07-02
 * [Pull Request] [fcu before engine new payload](https://github.com/besu-eth/besu/pull/10729) - 2026-07-02
 * [Commit] [fcu before engine new payload (#10731)](https://github.com/besu-eth/besu/commit/cf7d594b2251dd23d19fcb8c13d283270cc6672a) - 2026-07-02
+* [Pull Request] [Clear empty accounts when applying partial BAL writes (glamsterdam-devnet-6)](https://github.com/besu-eth/besu/pull/10744) - 2026-07-03
+* [Pull Request] [Parallel BAL execution: overlay state, prefetch, and async state root [NOT MERGE]](https://github.com/besu-eth/besu/pull/10741) - 2026-07-03
+* [Pull Request] [BAL overlay accumulator onto bal-devnet-7](https://github.com/besu-eth/besu/pull/10738) - 2026-07-03
+* [Review] [Review on: Revert "fix(engine): return SYNCING when parent world state is not immediately cached (#10600)"](https://github.com/besu-eth/besu/pull/10737#pullrequestreview-4625033564) - 2026-07-03
 ## Q2 2026
 
 

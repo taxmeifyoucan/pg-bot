@@ -15,6 +15,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Fix maxSlot overflow in all byRange handlers](https://github.com/Consensys/teku/pull/10924) - 2026-07-01
 * [Pull Request] [Fix BLST batch semi-aggregate merging to avoid throw on invalid](https://github.com/Consensys/teku/pull/10923) - 2026-07-01
 * [Pull Request] [Fix cgc from ENR wasn't checked for overflow](https://github.com/Consensys/teku/pull/10922) - 2026-07-01
+* [Commit] [Handle peers without Discovery NodeId in a correct way (#10913)](https://github.com/Consensys/teku/commit/c3891b67a5171827dbc877d38b22a62ad7d440ff) - 2026-07-03
+* [Commit] [Redesign fork choice abstractions (#10901)](https://github.com/Consensys/teku/commit/3179df67298c41d8cab4ac90cd322f66ee4b1388) - 2026-07-03
+* [Commit] [Forkchoice tests coverage enhancenement (#10906)](https://github.com/Consensys/teku/commit/0a7523c5b16b88c67298f480597a84940a210679) - 2026-07-03
+* [Commit] [Fix cgc from ENR wasn't checked (#10922)](https://github.com/Consensys/teku/commit/c8b64ba6f377e6d46b418cc53bc4935a19615194) - 2026-07-03
+* [Commit] [Fix BLST batch semi-aggregate merging to avoid throw on invalid (#10923)](https://github.com/Consensys/teku/commit/7abe75c0bdd94e52c16ae61f2e3d21f62d87f6aa) - 2026-07-03
+* [Commit] [Fix maxSlot overflow in all byRange handlers (#10924)](https://github.com/Consensys/teku/commit/82cc7904036b23ccf9790abeae9f66665841ac58) - 2026-07-03
 ## Q2 2026
 
 

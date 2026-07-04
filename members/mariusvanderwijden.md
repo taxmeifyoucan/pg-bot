@@ -21,6 +21,7 @@ Team: Geth
 * [Review] [Review on: core/types/bal: enhance the bal validation](https://github.com/ethereum/go-ethereum/pull/35281#pullrequestreview-4618226416) - 2026-07-02
 * [Pull Request] [core: remaining spec fixes for glamsterdam](https://github.com/ethereum/go-ethereum/pull/35279) - 2026-07-02
 * [Pull Request] [core: fix remaining spec issues](https://github.com/ethereum/go-ethereum/pull/35277) - 2026-07-02
+* [Review] [Review on: cmd/evm, core: fixes for eels tests@v20.0.0 release](https://github.com/ethereum/go-ethereum/pull/35283#pullrequestreview-4625255243) - 2026-07-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 ## Q2 2026

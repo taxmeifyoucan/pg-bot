@@ -26,6 +26,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: feat(engine): move SSZ-REST fork selection into Eth-Execution-Version header](https://github.com/NethermindEth/nethermind/pull/12193#pullrequestreview-4617751237) - 2026-07-02
 * [Review] [Review on: fix(rpc): serialize eth_capabilities retentionBlocks as hex QUANTITY](https://github.com/NethermindEth/nethermind/pull/12206#pullrequestreview-4617728999) - 2026-07-02
 * [Review] [Review on: perf(rlp): cap the item-count walk at limit+1 in DecodeArray decoders](https://github.com/NethermindEth/nethermind/pull/12203#pullrequestreview-4617118713) - 2026-07-02
+* [Review] [Review on: Stateless executor: tests-zkevm@v0.5.0 alignment](https://github.com/NethermindEth/nethermind/pull/12217#pullrequestreview-4623713052) - 2026-07-03
+* [Review] [Review on: fix(txpool): single-source pending-delegation accounting through pool events](https://github.com/NethermindEth/nethermind/pull/12205#pullrequestreview-4625300837) - 2026-07-03
+* [Commit] [Update schema generator project coverage (#12207)](https://github.com/NethermindEth/nethermind/commit/47073331297dd62273a305c6005254f44f63e777) - 2026-07-03
 ## Q2 2026
 
 

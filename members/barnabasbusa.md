@@ -13,6 +13,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: handlers/slot: skip gas delta row when delta is zero](https://github.com/ethpandaops/dora/pull/786#pullrequestreview-4616085822) - 2026-07-02
+* [Review] [Review on: rework builder handling to render builders with re-used indexes properly](https://github.com/ethpandaops/dora/pull/783#pullrequestreview-4626167712) - 2026-07-03
+* [Review] [Review on: Improve state transition performance](https://github.com/ethpandaops/dora/pull/782#pullrequestreview-4626169724) - 2026-07-03
 ## Q2 2026
 
 

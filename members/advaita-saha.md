@@ -17,6 +17,12 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [include `eest_devnet` in gitignore](https://github.com/status-im/nimbus-eth1/pull/4394) - 2026-07-02
 * [Pull Request] [include import, trustedNodeSync, deposits to the unified client --help](https://github.com/status-im/nimbus-eth1/pull/4395) - 2026-07-02
 * [Commit] [include eest_devnet in gitignore (#4394)](https://github.com/status-im/nimbus-eth1/commit/b4809857f45838e54befccdc66fe3f598ac5522a) - 2026-07-02
+* [Review] [Review on: Update EEST mainnet fixtures to v20.0.0](https://github.com/status-im/nimbus-eth1/pull/4406#pullrequestreview-4627115244) - 2026-07-03
+* [Pull Request] [Fix payload id hit](https://github.com/status-im/nimbus-eth1/pull/4399) - 2026-07-03
+* [Review] [Review on: use error code -32602 incase of payload parsing error](https://github.com/status-im/nimbus-eth1/pull/4379#pullrequestreview-4623897781) - 2026-07-03
+* [Review] [Review on: include import, trustedNodeSync, deposits to the unified client --help](https://github.com/status-im/nimbus-eth1/pull/4395#pullrequestreview-4623979582) - 2026-07-03
+* [Commit] [use error code -32602 incase of payload parsing error (#4379)](https://github.com/status-im/nimbus-eth1/commit/abc18c6bec1aa535ebf0f28af0dc940fc263d095) - 2026-07-03
+* [Commit] [include import, trustedNodeSync, deposits to the unified client --help (#4395)](https://github.com/status-im/nimbus-eth1/commit/55f5de189335168d3e5c72b427352369eea2f288) - 2026-07-03
 ## Q2 2026
 
 

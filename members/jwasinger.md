@@ -8,6 +8,12 @@ Team: Geth
 
 ## Contributions
 
+## Q3 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Update 01-membership.md](https://github.com/protocolguild/documentation/pull/505) - 2026-07-03
+* [Review] [Review on: Update 01-membership.md](https://github.com/protocolguild/documentation/pull/505#pullrequestreview-4626331985) - 2026-07-03
 ## Q2 2026
 
 

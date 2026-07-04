@@ -24,6 +24,15 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Use `get_max_attester_slashings` in `get_random_attester_slashings`](https://github.com/ethereum/consensus-specs/pull/5413#pullrequestreview-4617952392) - 2026-07-02
 * [Commit] [Fix various nits (#5395)](https://github.com/ethereum/consensus-specs/commit/015d72704fea321e95bb74631e34be17e1104e86) - 2026-07-02
 * [Commit] [Use `get_max_attester_slashings` in `get_random_attester_slashings` (#5413)](https://github.com/ethereum/consensus-specs/commit/b453af8fb8f6f44450766a4b5c4bbca2d7578c13) - 2026-07-02
+* [Review] [Review on: Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426#pullrequestreview-4626996952) - 2026-07-03
+* [Review] [Review on: Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422#pullrequestreview-4627146646) - 2026-07-03
+* [Review] [Review on: Fix nits in p2p config tables](https://github.com/ethereum/consensus-specs/pull/5425#pullrequestreview-4626873283) - 2026-07-03
+* [Review] [Review on: Remove gloas networking fluff](https://github.com/ethereum/consensus-specs/pull/5417#pullrequestreview-4626868109) - 2026-07-03
+* [Pull Request] [Update link to EIP-8282](https://github.com/ethereum/consensus-specs/pull/5423) - 2026-07-03
+* [Pull Request] [Add yaml type representers for uint/boolean values](https://github.com/ethereum/consensus-specs/pull/5421) - 2026-07-03
+* [Review] [Review on: Reduce `MAX_BUILDER_DEPOSIT_REQUESTS_PER_PAYLOAD` to 64](https://github.com/ethereum/consensus-specs/pull/5420#pullrequestreview-4626301428) - 2026-07-03
+* [Commit] [Update link to EIP-8282 (#5423)](https://github.com/ethereum/consensus-specs/commit/8a51c626e9deee5de7f2f427b71da30457a1edf8) - 2026-07-03
+* [Commit] [Set `BUILDER_WITHDRAWAL_PREFIX` to 0xB0 (#5416)](https://github.com/ethereum/consensus-specs/commit/6a34a54d95c3f54cfacff6b4b2d771d47a4df6dc) - 2026-07-03
 ## Q2 2026
 
 

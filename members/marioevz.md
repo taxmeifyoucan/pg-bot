@@ -21,6 +21,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec-specs,test-tests): add EIP-2780 and EIP-8038](https://github.com/ethereum/execution-specs/pull/3052#pullrequestreview-4621188886) - 2026-07-02
 * [Review] [Review on: feat(spec,tests): Implement EIP-8282](https://github.com/ethereum/execution-specs/pull/3070#pullrequestreview-4619831087) - 2026-07-02
 * [Commit] [feat(spec,tests): Implement EIP-8282 (#3070)](https://github.com/ethereum/execution-specs/commit/b0d5cae83ac6b673ce90f5c922e8fa50678627a6) - 2026-07-02
+* [Review] [Review on: fix(testing): clear watch screen via Console, not deprecated os.system](https://github.com/ethereum/execution-specs/pull/3102#pullrequestreview-4627053714) - 2026-07-03
 ## Q2 2026
 
 

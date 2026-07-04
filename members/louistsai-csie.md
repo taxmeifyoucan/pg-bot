@@ -25,6 +25,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): access-list slot warmth survives a failed CREATE2](https://github.com/ethereum/execution-specs/pull/3086#pullrequestreview-4619010237) - 2026-07-02
 * [Review] [Review on: feat(tests): EIP-8037 calldata floor binds with an over-cap reservoir](https://github.com/ethereum/execution-specs/pull/3080#pullrequestreview-4616962237) - 2026-07-02
 * [Commit] [feat(spec,tests): Implement EIP-8246 (#3078)](https://github.com/ethereum/execution-specs/commit/279ae53eb85917ecdd093a6dfb2beb2e0521de7c) - 2026-07-02
+* [Pull Request] [refactor(test-benchmark): update implementation, align `glam-devnet-6` spec](https://github.com/ethereum/execution-specs/pull/3098) - 2026-07-03
+* [Review] [Review on: docs(spec-specs): fix stale Amsterdam fork docstring and comments](https://github.com/ethereum/execution-specs/pull/3097#pullrequestreview-4625662504) - 2026-07-03
+* [Review] [Review on: feat(tests): EIP-8246 creation-tx initcode selfdestruct coverage](https://github.com/ethereum/execution-specs/pull/3084#pullrequestreview-4623862547) - 2026-07-03
+* [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4623824901) - 2026-07-03
 ## Q2 2026
 
 

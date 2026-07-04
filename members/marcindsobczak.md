@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/marcindsobczak?org=Nether
 
 ## Contributions
 
+## Q3 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: fix(txpool): single-source pending-delegation accounting through pool events](https://github.com/NethermindEth/nethermind/pull/12205#pullrequestreview-4624470802) - 2026-07-03
 ## Q2 2026
 
 

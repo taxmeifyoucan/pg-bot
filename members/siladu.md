@@ -15,6 +15,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: gha-overhaul](https://github.com/besu-eth/besu/pull/10653#pullrequestreview-4608347866) - 2026-07-01
 * [Review] [Review on: fix start synchronizer when](https://github.com/besu-eth/besu/pull/10677#pullrequestreview-4610664794) - 2026-07-01
 * [Pull Request] [[IGNORE] Testing AT duration](https://github.com/besu-eth/besu/pull/10728) - 2026-07-02
+* [Pull Request] [Slow block tracer](https://github.com/besu-eth/besu/pull/10746) - 2026-07-03
 ## Q2 2026
 
 

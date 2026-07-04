@@ -8,6 +8,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 ## Contributions
 
+## Q3 2026
+
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Pull Request] [refactor: defer fc store mutations after protoarray block import](https://github.com/ChainSafe/lodestar/pull/9581) - 2026-07-03
+* [Commit] [refactor: defer fc store mutations after protoarray block import (#9581)](https://github.com/ChainSafe/lodestar/commit/0c3761f06f73ea7951fab54274da03d71fb21da6) - 2026-07-03
+* [Commit] [feat: add dependent root check when giving out proposer boost (#9565)](https://github.com/ChainSafe/lodestar/commit/d7859e978bedb645ed573aa42993f550790dce4f) - 2026-07-03
 ## Q2 2026
 
 

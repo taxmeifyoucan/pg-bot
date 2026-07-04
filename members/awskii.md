@@ -21,6 +21,40 @@ Team: Erigon
 * [Pull Request] [execution/commitment: fix parallel/streaming deep-fold correctness bugs](https://github.com/erigontech/erigon/pull/22184) - 2026-07-03
 * [Commit] [commitment: deep storage fold dropped untouched on-disk slots (#22113) (#22153)](https://github.com/erigontech/erigon/commit/0d29ea32b0644381e8f22b22a26255d205f6b3b9) - 2026-07-03
 * [Commit] [execution/stagedsync: checkpoint commitment at step boundaries in parallel exec (#22092)](https://github.com/erigontech/erigon/commit/9ddd5313dd76b0be391ace2039a6d2ee8c3a587b) - 2026-07-02
+* [Review] [Review on: [wip] db/state: group Aggregator dirty/visible file state into a fileSet](https://github.com/erigontech/erigon/pull/22191#pullrequestreview-4624349397) - 2026-07-03
+* [Pull Request] [execution/types: additive transaction-type registry](https://github.com/erigontech/erigon/pull/22201) - 2026-07-03
+* [Review] [Review on: execution/types: additive transaction-type registry](https://github.com/erigontech/erigon/pull/22201#pullrequestreview-4625348573) - 2026-07-03
+* [Pull Request] [execution/protocol, execution/vm/evmtypes: L2 tx lifecycle hooks on EngineReader](https://github.com/erigontech/erigon/pull/22200) - 2026-07-03
+* [Review] [Review on: execution/protocol, execution/vm/evmtypes: L2 tx lifecycle hooks on EngineReader](https://github.com/erigontech/erigon/pull/22200#pullrequestreview-4625347753) - 2026-07-03
+* [Pull Request] [execution/chain: add opaque L2 config slot (L2JSON/L2Config)](https://github.com/erigontech/erigon/pull/22194) - 2026-07-03
+* [Review] [Review on: execution/chain: add opaque L2 config slot (L2JSON/L2Config)](https://github.com/erigontech/erigon/pull/22194#pullrequestreview-4624699335) - 2026-07-03
+* [Pull Request] [execution/chain, execution/vm/evmtypes: L2 fork oracle on Rules](https://github.com/erigontech/erigon/pull/22195) - 2026-07-03
+* [Review] [Review on: execution/chain, execution/vm/evmtypes: L2 fork oracle on Rules](https://github.com/erigontech/erigon/pull/22195#pullrequestreview-4624699920) - 2026-07-03
+* [Pull Request] [execution/vm: rules-keyed precompile providers and stateful precompiles](https://github.com/erigontech/erigon/pull/22217) - 2026-07-03
+* [Review] [Review on: execution/vm: rules-keyed precompile providers and stateful precompiles](https://github.com/erigontech/erigon/pull/22217#pullrequestreview-4625794012) - 2026-07-03
+* [Pull Request] [node/rulesconfig: registry for L2 rules engines](https://github.com/erigontech/erigon/pull/22196) - 2026-07-03
+* [Review] [Review on: node/rulesconfig: registry for L2 rules engines](https://github.com/erigontech/erigon/pull/22196#pullrequestreview-4624700472) - 2026-07-03
+* [Review] [Review on: db/snapshotsync: add DirtyFiles type alias, use VisibleSegments](https://github.com/erigontech/erigon/pull/22218#pullrequestreview-4626245680) - 2026-07-03
+* [Pull Request] [execution/commitment: de-duplicate test package](https://github.com/erigontech/erigon/pull/22148) - 2026-07-03
+* [Review] [Review on: QA: show RPC integration test results on the run summary page](https://github.com/erigontech/erigon/pull/22134#pullrequestreview-4622653451) - 2026-07-03
+* [Pull Request] [sonar: exclude legacy-tests submodule, fix stale test-inclusion path](https://github.com/erigontech/erigon/pull/22215) - 2026-07-03
+* [Review] [Review on: sonar: exclude legacy-tests submodule, fix stale test-inclusion path](https://github.com/erigontech/erigon/pull/22215#pullrequestreview-4625348955) - 2026-07-03
+* [Review] [Review on: rpc/jsonrpc: close getProof's SharedDomains](https://github.com/erigontech/erigon/pull/22210#pullrequestreview-4625154709) - 2026-07-03
+* [Pull Request] [cocoon: reference sovereign-chain wiring on the L2 extension points](https://github.com/erigontech/erigon/pull/22219) - 2026-07-03
+* [Pull Request] [`debug_executionWitness`: omit inlined (<32B) nodes from witness prune](https://github.com/erigontech/erigon/pull/22187) - 2026-07-03
+* [Review] [Review on: `debug_executionWitness`: omit inlined (<32B) nodes from witness prune](https://github.com/erigontech/erigon/pull/22187#pullrequestreview-4623128771) - 2026-07-03
+* [Review] [Review on: [r3.4] Revert "db/state/statecfg: bump rcache domain kv/.v to v3.1 (#21974)"](https://github.com/erigontech/erigon/pull/22208#pullrequestreview-4625168037) - 2026-07-03
+* [Pull Request] [db/downloader: lock torrentsByName write in AddNewSeedableFile](https://github.com/erigontech/erigon/pull/22192) - 2026-07-03
+* [Review] [Review on: db/downloader: lock torrentsByName write in AddNewSeedableFile](https://github.com/erigontech/erigon/pull/22192#pullrequestreview-4624312272) - 2026-07-03
+* [Issue] [L2 SDK: extension points for building L2 clients on erigon](https://github.com/erigontech/erigon/issues/22193) - 2026-07-03
+* [Commit] [execution/commitment: de-duplicate test package (#22148)](https://github.com/erigontech/erigon/commit/bc7b2b10d41a80f4dcb73bbb32e395acb3c6fe30) - 2026-07-03
+* [Commit] [sonar: exclude legacy-tests submodule, fix stale test-inclusion path (#22215)](https://github.com/erigontech/erigon/commit/b716cead0a73a46ff1edcc4b36d3d1056d2162d1) - 2026-07-03
+* [Commit] [`debug_executionWitness`: omit inlined (<32B) nodes from witness prune (#22187)](https://github.com/erigontech/erigon/commit/bc9560f047e7bf3e8fcdf9d78108c9bce79546a8) - 2026-07-03
+* [Commit] [db/downloader: lock torrentsByName write in AddNewSeedableFile (#22192)](https://github.com/erigontech/erigon/commit/1c7e33da296ec62271b97bccf665c820cfa27c07) - 2026-07-03
+* [Commit] [execution/commitment: route trie trace through an io.Writer (#21859)](https://github.com/erigontech/erigon/commit/69a814edc6e0685e093fa3b0d53cee970d407df5) - 2026-07-03
+* [Commit] [execution/commitment: cache nibblized keccak(addr) for storage keys (#22185)](https://github.com/erigontech/erigon/commit/1f4d702de630cf0bc2f1b2534a743b31a6c6e9e1) - 2026-07-03
+* [Commit] [db/state, db/config3: erigondb.toml as source of truth for commitment branch referencing (#21452)](https://github.com/erigontech/erigon/commit/499ec24a7f3b132f215b60e4327b185677581a77) - 2026-07-03
+* [Commit] [execution/commitment: fix parallel/streaming deep-fold correctness bugs (#22184)](https://github.com/erigontech/erigon/commit/4dabd221e56785e9d93d4797ec1883493a09d611) - 2026-07-03
 ## Q2 2026
 
 

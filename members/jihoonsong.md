@@ -18,6 +18,17 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Add new `get_min_activation_balance` helper function](https://github.com/ethereum/consensus-specs/pull/5412#pullrequestreview-4618345963) - 2026-07-02
 * [Review] [Review on: Fix various nits](https://github.com/ethereum/consensus-specs/pull/5395#pullrequestreview-4618111957) - 2026-07-02
 * [Review] [Review on: Use `get_max_attester_slashings` in `get_random_attester_slashings`](https://github.com/ethereum/consensus-specs/pull/5413#pullrequestreview-4617906536) - 2026-07-02
+* [Pull Request] [Remove some p2p fluff](https://github.com/ethereum/consensus-specs/pull/5427) - 2026-07-03
+* [Pull Request] [Fix nits in p2p config tables](https://github.com/ethereum/consensus-specs/pull/5425) - 2026-07-03
+* [Review] [Review on: Remove gloas networking fluff](https://github.com/ethereum/consensus-specs/pull/5417#pullrequestreview-4624921966) - 2026-07-03
+* [Review] [Review on: Update link to EIP-8282](https://github.com/ethereum/consensus-specs/pull/5423#pullrequestreview-4626855447) - 2026-07-03
+* [Pull Request] [Specify rep/resp for inclusion lists](https://github.com/ethereum/consensus-specs/pull/5424) - 2026-07-03
+* [Commit] [Add the IL bitlist to bid (#5410)](https://github.com/ethereum/consensus-specs/commit/7f2bcef3cc5a595a03c90769079f443d1b51cf2d) - 2026-07-03
+* [Commit] [Fix nits in p2p config tables (#5425)](https://github.com/ethereum/consensus-specs/commit/55c14f7bee1102127e6a36791b7ae6c07aba96ae) - 2026-07-03
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
+* [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
 ## Q2 2026
 
 

@@ -12,6 +12,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Review] [Review on: Rpc comparison job improvements](https://github.com/NethermindEth/nethermind/pull/12194#pullrequestreview-4613701836) - 2026-07-02
 * [Review] [Review on: ci(rpc-comparison): add -L latest-block pass with head sync](https://github.com/NethermindEth/nethermind/pull/12209#pullrequestreview-4617814164) - 2026-07-02
+* [Review] [Review on: fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update](https://github.com/NethermindEth/nethermind/pull/11995#pullrequestreview-4622373777) - 2026-07-03
 ## Q2 2026
 
 

@@ -15,6 +15,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(bindings): cache shufflings from native](https://github.com/ChainSafe/lodestar/pull/9569#pullrequestreview-4614968606) - 2026-07-02
 * [Review] [Review on: feat: add dependent root check when giving out proposer boost](https://github.com/ChainSafe/lodestar/pull/9565#pullrequestreview-4615208691) - 2026-07-02
 
+* [Review] [Review on: refactor: defer fc store mutations after protoarray block import](https://github.com/ChainSafe/lodestar/pull/9581#pullrequestreview-4624281834) - 2026-07-03
+* [Review] [Review on: feat(shuffling-cache): add 'has' api to shuffling cache](https://github.com/ChainSafe/lodestar/pull/9579#pullrequestreview-4624296302) - 2026-07-03
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

@@ -8,6 +8,12 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: chore(ci): speed up json-loader and fill jobs](https://github.com/ethereum/execution-specs/pull/3096#pullrequestreview-4627183719) - 2026-07-03
+* [Commit] [chore(specs): reorder tx validity checks (#3036)](https://github.com/ethereum/execution-specs/commit/8dd924e9a41c3bcd9df9e85af7da350a47320702) - 2026-07-03
 ## Q2 2026
 
 

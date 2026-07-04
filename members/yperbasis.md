@@ -55,6 +55,27 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [execution/stagedsync, db/state: pre-window commitment writes can land in a window block's changeset under per-block compute](https://github.com/erigontech/erigon/issues/22150) - 2026-07-02
 * [Commit] [cmd/utils/app: reorg-to-genesis regression test, import shutdown & port fixes (#22058)](https://github.com/erigontech/erigon/commit/8861bdab28c3ec7aeb72d3ce71866c372f5c5142) - 2026-07-02
 * [Commit] [execution: read-ahead warmup must not clobber fresher StateCache entries (#22146)](https://github.com/erigontech/erigon/commit/317c00f81f12d35768c392b2701113919006f0ec) - 2026-07-02
+* [Pull Request] [db/state: fix Close vs external MergeLoop/BuildFiles* WaitGroup races](https://github.com/erigontech/erigon/pull/22203) - 2026-07-03
+* [Review] [Review on: db/state: fix Close vs external MergeLoop/BuildFiles* WaitGroup races](https://github.com/erigontech/erigon/pull/22203#pullrequestreview-4625225807) - 2026-07-03
+* [Review] [Review on: sonar: exclude legacy-tests submodule, fix stale test-inclusion path](https://github.com/erigontech/erigon/pull/22215#pullrequestreview-4625251770) - 2026-07-03
+* [Pull Request] [rpc/jsonrpc: close getProof's SharedDomains](https://github.com/erigontech/erigon/pull/22210) - 2026-07-03
+* [Review] [Review on: node/gointerfaces/grpcutil: unify grpc server bring-up across daemons](https://github.com/erigontech/erigon/pull/22171#pullrequestreview-4624236940) - 2026-07-03
+* [Review] [Review on: cl, cmd/evm, db/state: replace strings.Split in loops with strings.SplitSeq](https://github.com/erigontech/erigon/pull/22163#pullrequestreview-4624303588) - 2026-07-03
+* [Review] [Review on: execution: reduce BAL-driven parallel exec re-executions by 10x](https://github.com/erigontech/erigon/pull/22190#pullrequestreview-4625237430) - 2026-07-03
+* [Pull Request] [execution/builder, rpc/jsonrpc: detach payload builds and getProof from the shared BranchCache](https://github.com/erigontech/erigon/pull/22198) - 2026-07-03
+* [Review] [Review on: execution/builder, rpc/jsonrpc: detach payload builds and getProof from the shared BranchCache](https://github.com/erigontech/erigon/pull/22198#pullrequestreview-4625106455) - 2026-07-03
+* [Pull Request] [golangci, sonar: enable modernize linter, exclude legacy-tests from analysis](https://github.com/erigontech/erigon/pull/22197) - 2026-07-03
+* [Issue] [execution/execmodule: audit published-SD readers (Events.LatestSD, bg-commit) for shared-cache coherence](https://github.com/erigontech/erigon/issues/22214) - 2026-07-03
+* [Issue] [commitment: BranchCache.Put is last-Put-wins for all writers — add a read-fill write discipline](https://github.com/erigontech/erigon/issues/22211) - 2026-07-03
+* [Issue] [execution/execmodule: evictOldBuilders drops builders without stopping their goroutines](https://github.com/erigontech/erigon/issues/22213) - 2026-07-03
+* [Issue] [commitment: branchCacheEntry stores no key — a maphash collision serves the wrong branch](https://github.com/erigontech/erigon/issues/22212) - 2026-07-03
+* [Issue] [commitment: parallel-trie worker contexts read the current head, not the caller's snapshot](https://github.com/erigontech/erigon/issues/22209) - 2026-07-03
+* [Issue] [lint: enable the remaining modernize analyzers](https://github.com/erigontech/erigon/issues/22199) - 2026-07-03
+* [Commit] [rpc/jsonrpc: close getProof's SharedDomains (#22210)](https://github.com/erigontech/erigon/commit/2dcdf9c7092ca6d0a8895016bf2b89e858cde5dc) - 2026-07-03
+* [Commit] [node/gointerfaces/grpcutil: unify grpc server bring-up across daemons (#22171)](https://github.com/erigontech/erigon/commit/285eb0ac77e9015a2f5a7cad95e2af611e83b0d0) - 2026-07-03
+* [Commit] [rpc/mcp: dedupe embedded and standalone servers; implement in-process resource handlers (#22169)](https://github.com/erigontech/erigon/commit/5bf67a1641d76a803f7fcff6d65d8081d5ae81c8) - 2026-07-03
+* [Commit] [diagnostics/metrics: collapse GetOrCreate* onto generic helpers (#22168)](https://github.com/erigontech/erigon/commit/836b42b4082d17f063af2d886362209ab5962f60) - 2026-07-03
+* [Commit] [common: share fixed-size byte type helpers (#22173)](https://github.com/erigontech/erigon/commit/6777298620db3f602a4c4e11c68ff4ecf49d231c) - 2026-07-03
 ## Q2 2026
 
 

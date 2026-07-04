@@ -15,6 +15,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: fix(jsonrpc): align pending subscription tx fields](https://github.com/besu-eth/besu/pull/10516#pullrequestreview-4616622945) - 2026-07-02
 * [Pull Request] [Revert "fix(engine): return SYNCING when parent world state is not immediately cached (#10600)"](https://github.com/besu-eth/besu/pull/10737) - 2026-07-02
 * [Review] [Review on: Add the ability to treat unfunded transactions as invalid](https://github.com/besu-eth/besu/pull/10713#pullrequestreview-4617274579) - 2026-07-02
+* [Commit] [Revert "fix(engine): return SYNCING when parent world state is not immediately cached (#10600)" (#10737)](https://github.com/besu-eth/besu/commit/2a0fa2e9dc7d5a9a0e91f89e763541397c0620e9) - 2026-07-03
 ## Q2 2026
 
 

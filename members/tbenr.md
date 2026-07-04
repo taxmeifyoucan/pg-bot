@@ -17,6 +17,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Use network SSZ length bounds in networking](https://github.com/Consensys/teku/issues/10932) - 2026-07-02
 * [Issue] [Adopt progressive SSZ schemas for GLOAS](https://github.com/Consensys/teku/issues/10931) - 2026-07-02
 * [Issue] [Prepare schema registry for progressive schemas](https://github.com/Consensys/teku/issues/10930) - 2026-07-02
+* [Review] [Review on: Add progressive SSZ infrastructure types](https://github.com/Consensys/teku/pull/10928#pullrequestreview-4627245526) - 2026-07-03
+* [Review] [Review on: Redesign fork choice abstractions](https://github.com/Consensys/teku/pull/10901#pullrequestreview-4625828695) - 2026-07-03
 ## Q2 2026
 
 

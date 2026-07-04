@@ -15,6 +15,10 @@ Team: Reth
 * [Review] [Review on: perf(net): cache full transaction propagation encoding](https://github.com/paradigmxyz/reth/pull/26012#pullrequestreview-4619565456) - 2026-07-02
 * [Review] [Review on: refactor(engine): drop parallel state root](https://github.com/paradigmxyz/reth/pull/26069#pullrequestreview-4619112270) - 2026-07-02
 * [Review] [Review on: feat(tracing): include span attributes in OTLP logs](https://github.com/paradigmxyz/reth/pull/26062#pullrequestreview-4617227140) - 2026-07-02
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
+* [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03
 ## Q2 2026
 
 

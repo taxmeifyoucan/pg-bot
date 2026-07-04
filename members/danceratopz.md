@@ -31,6 +31,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): add more EIP-2780 tests](https://github.com/ethereum/execution-specs/pull/3055#pullrequestreview-4614940623) - 2026-07-02
 * [Commit] [feat(spec-specs,test-tests): add EIP-2780 and EIP-8038 (#3052)](https://github.com/ethereum/execution-specs/commit/2dfaa3e9b17d74ea5c16f752326ff11b3a510bdc) - 2026-07-02
 
+* [Pull Request] [fix(test-consume,test-rpc): close RPC sessions on teardown to fix fd leak](https://github.com/ethereum/execution-specs/pull/3094) - 2026-07-03
+* [Review] [Review on: fix(test-consume,test-rpc): close RPC sessions on teardown to fix fd leak](https://github.com/ethereum/execution-specs/pull/3094#pullrequestreview-4625549087) - 2026-07-03
+* [Pull Request] [perf(test-consume): align enginex engine-API flow and skip redundant genesis check](https://github.com/ethereum/execution-specs/pull/3093) - 2026-07-03
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

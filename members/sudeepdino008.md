@@ -23,6 +23,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [.github: add @sudeepdino008 as CODEOWNER for /cl/](https://github.com/erigontech/erigon/pull/22157) - 2026-07-02
 * [Pull Request] [[r3.5] stagedsync: fix log index reset and missing notifications in parallel execution](https://github.com/erigontech/erigon/pull/22155) - 2026-07-02
 * [Commit] [.github: add @sudeepdino008 as CODEOWNER for /cl/ (#22157)](https://github.com/erigontech/erigon/commit/c73d8fac6ca016be1eab34a3c6ef6829e1a1ff1a) - 2026-07-02
+* [Pull Request] [db/version: relax minor version check in Supports](https://github.com/erigontech/erigon/pull/22202) - 2026-07-03
+* [Pull Request] [[r3.5] db/version: relax minor version check in Supports](https://github.com/erigontech/erigon/pull/22205) - 2026-07-03
+* [Pull Request] [[r3.5] Revert "db/state/statecfg: bump rcache domain kv/.v to v3.1 (#22047)"](https://github.com/erigontech/erigon/pull/22207) - 2026-07-03
+* [Pull Request] [[r3.4] db/version: relax minor version check in Supports](https://github.com/erigontech/erigon/pull/22206) - 2026-07-03
+* [Pull Request] [[r3.4] Revert "db/state/statecfg: bump rcache domain kv/.v to v3.1 (#21974)"](https://github.com/erigontech/erigon/pull/22208) - 2026-07-03
+* [Commit] [db/version: relax minor version check in Supports (#22202)](https://github.com/erigontech/erigon/commit/5620d32413b059cacdaa79828aee4343cde1b7e2) - 2026-07-03
 ## Q2 2026
 
 

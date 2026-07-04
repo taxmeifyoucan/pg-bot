@@ -13,6 +13,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Persist newpayload without fcu glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10725#pullrequestreview-4608577650) - 2026-07-01
+* [Review] [Review on: BAL overlay accumulator onto bal-devnet-7](https://github.com/besu-eth/besu/pull/10738#pullrequestreview-4625360007) - 2026-07-03
 ## Q2 2026
 
 

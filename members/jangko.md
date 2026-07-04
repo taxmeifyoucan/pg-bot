@@ -17,6 +17,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Test t8n against EEST](https://github.com/status-im/nimbus-eth1/pull/4392) - 2026-07-02
 * [Pull Request] [Bump nim-bearssl to fix broken nightly build](https://github.com/status-im/nimbus-eth1/pull/4396) - 2026-07-02
 * [Commit] [Bump nim-bearssl to fix broken nightly build (#4396)](https://github.com/status-im/nimbus-eth1/commit/c6f84c77d20b944b8e1221c426f25242f238eabc) - 2026-07-02
+* [Pull Request] [Update EEST mainnet fixtures to v20.0.0](https://github.com/status-im/nimbus-eth1/pull/4406) - 2026-07-03
+* [Review] [Review on: Update EEST mainnet fixtures to v20.0.0](https://github.com/status-im/nimbus-eth1/pull/4406#pullrequestreview-4628653280) - 2026-07-04
+* [Pull Request] [Test evmstate against EEST and remove test_generalstate_json](https://github.com/status-im/nimbus-eth1/pull/4398) - 2026-07-03
+* [Commit] [Test evmstate against EEST and remove test_generalstate_json (#4398)](https://github.com/status-im/nimbus-eth1/commit/58a9f54d74346ee89b39240305ef561f2ea22ade) - 2026-07-03
+* [Commit] [Test t8n against EEST (#4392)](https://github.com/status-im/nimbus-eth1/commit/0af6257a5c1d3694a59cd12439e3e5ccb6c368df) - 2026-07-03
 ## Q2 2026
 
 

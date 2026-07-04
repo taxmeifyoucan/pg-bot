@@ -8,6 +8,11 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Set `BUILDER_WITHDRAWAL_PREFIX` to 0xB0](https://github.com/ethereum/consensus-specs/pull/5416#pullrequestreview-4624675561) - 2026-07-03
 ## Q2 2026
 
 

@@ -22,6 +22,18 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [refactor(state): wire VerifyTrie through the backend-agnostic world-state module](https://github.com/NethermindEth/nethermind/pull/12222) - 2026-07-03
 * [Pull Request] [feat(flatdb): warn to use FlatInTrie layout on low-RAM machines](https://github.com/NethermindEth/nethermind/pull/12221) - 2026-07-03
 * [Review] [Review on: fix(synchronization): verify hash of snap-heal recovered trie node](https://github.com/NethermindEth/nethermind/pull/12200#pullrequestreview-4617033772) - 2026-07-02
+* [Pull Request] [refactor(tracestore): wire the trace RPC override through DI](https://github.com/NethermindEth/nethermind/pull/12251) - 2026-07-04
+* [Review] [Review on: feat(network): trusted & static peers as must-keep, peer-limit accounting cleanup](https://github.com/NethermindEth/nethermind/pull/12196#pullrequestreview-4626446210) - 2026-07-03
+* [Pull Request] [refactor(api): remove dead InitNetworkProtocol plugin hook](https://github.com/NethermindEth/nethermind/pull/12241) - 2026-07-03
+* [Pull Request] [refactor(state): move BestPersistedState from BlockTree to IStateBoundary](https://github.com/NethermindEth/nethermind/pull/12236) - 2026-07-03
+* [Pull Request] [refactor: drop big-endian branches, assert little-endian at startup](https://github.com/NethermindEth/nethermind/pull/12197) - 2026-07-03
+* [Review] [Review on: refactor(snap): sequential code-existence filter instead of per-range PLINQ](https://github.com/NethermindEth/nethermind/pull/12224#pullrequestreview-4624120421) - 2026-07-03
+* [Commit] [refactor(api): remove dead InitNetworkProtocol plugin hook (#12241)](https://github.com/NethermindEth/nethermind/commit/21e9ff47b84d4fb4319b2377cc52116b455f2ae0) - 2026-07-03
+* [Commit] [refactor: drop big-endian branches, assert little-endian at startup (#12197)](https://github.com/NethermindEth/nethermind/commit/bf1b08dd0d1e3d3d3d9a1fcba1cac095d967a089) - 2026-07-03
+* [Commit] [refactor(plugins): wire TraceStore/OpcodeTracing tracers via DI (#12144)](https://github.com/NethermindEth/nethermind/commit/1365192d962dac1d2811fc8986649a91661fb68e) - 2026-07-03
+* [Commit] [feat(flatdb): warn to use FlatInTrie layout on low-RAM machines (#12221)](https://github.com/NethermindEth/nethermind/commit/7f97aa7b34f20c2da2b2d61955fa3e2eb8c0e847) - 2026-07-03
+* [Commit] [refactor(state): wire VerifyTrie through the backend-agnostic world-state module (#12222)](https://github.com/NethermindEth/nethermind/commit/b1672e03f6196342fc331318ba2556e2f9ca4a69) - 2026-07-03
+* [Commit] [fix(db): flush all column families in ColumnsDb.Flush (#12223)](https://github.com/NethermindEth/nethermind/commit/8a9c8830f00ae6e30f46e4ef2d0a392db25eb4ed) - 2026-07-03
 ## Q2 2026
 
 

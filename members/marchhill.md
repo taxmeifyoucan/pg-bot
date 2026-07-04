@@ -18,6 +18,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [[v2] EIP-8282: Builder execution requests](https://github.com/NethermindEth/nethermind/pull/12215) - 2026-07-02
 * [Pull Request] [[v2] EIP repricings & existing-EIP updates (2780/8037/8038 + fixes)](https://github.com/NethermindEth/nethermind/pull/12214) - 2026-07-02
 * [Pull Request] [[v2] EIP-8246: Remove SELFDESTRUCT burn](https://github.com/NethermindEth/nethermind/pull/12213) - 2026-07-02
+* [Review] [Review on: EIP repricings & existing-EIP updates (2780/8037/8038 + fixes)](https://github.com/NethermindEth/nethermind/pull/12214#pullrequestreview-4626679367) - 2026-07-03
+* [Review] [Review on: EIP-8246: Remove SELFDESTRUCT burn](https://github.com/NethermindEth/nethermind/pull/12213#pullrequestreview-4626675808) - 2026-07-03
+* [Review] [Review on: targetGasLimit in PayloadAttributesV4](https://github.com/NethermindEth/nethermind/pull/12216#pullrequestreview-4626682023) - 2026-07-03
+* [Review] [Review on: Stateless executor: tests-zkevm@v0.5.0 alignment](https://github.com/NethermindEth/nethermind/pull/12217#pullrequestreview-4626682864) - 2026-07-03
+* [Review] [Review on: EIP-8282: Builder execution requests](https://github.com/NethermindEth/nethermind/pull/12215#pullrequestreview-4626680949) - 2026-07-03
 ## Q2 2026
 
 

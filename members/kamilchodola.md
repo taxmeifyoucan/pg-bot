@@ -15,6 +15,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(prewarmer): warm EIP-2930 access lists cancellation-responsively](https://github.com/NethermindEth/nethermind/pull/12189) - 2026-07-01
 * [Commit] [perf(prewarmer): don't eagerly load EIP-2930 access lists when warming (#12182)](https://github.com/NethermindEth/nethermind/commit/af8e8d6b017c8b187edd5db820c5400706c14755) - 2026-07-01
 * [Pull Request] [Partial archive mode: rolling window of historical state (Sync.PartialArchiveEnabled)](https://github.com/NethermindEth/nethermind/pull/12212) - 2026-07-02
+* [Pull Request] [fix(evm): weak-key the opcode-table spec cache; guarantee gas-charge inlining](https://github.com/NethermindEth/nethermind/pull/12250) - 2026-07-03
+* [Pull Request] [perf(engine): overlap sender recovery with newPayload pre-processing and cache recovered senders](https://github.com/NethermindEth/nethermind/pull/12249) - 2026-07-03
+* [Pull Request] [perf(db): defer block/header/receipt persistence off the newPayload critical path](https://github.com/NethermindEth/nethermind/pull/12247) - 2026-07-03
+* [Pull Request] [perf: reduce block processing jitter and improve stability](https://github.com/NethermindEth/nethermind/pull/10590) - 2026-07-03
+* [Commit] [Warmup improvement (#10652)](https://github.com/NethermindEth/nethermind/commit/8ab767c3702468fa777908df5981521cdbffe4ea) - 2026-07-03
+* [Commit] [perf: reduce block processing jitter and improve stability (#10590)](https://github.com/NethermindEth/nethermind/commit/bee2ac4fc9bcf9d08cd3fb0b489e606e21947fc4) - 2026-07-03
+* [Commit] [perf(prewarmer): warm EIP-2930 access lists cancellation-responsively (#12189)](https://github.com/NethermindEth/nethermind/commit/adf65b9d2b4f21dd8480c503e1ec446f8c381ede) - 2026-07-03
 ## Q2 2026
 
 

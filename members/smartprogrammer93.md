@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q3 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506) - 2026-07-03
 ## Q2 2026
 
 

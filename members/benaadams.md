@@ -16,6 +16,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf: replace TrieStore shard-index modulo with a bitmask](https://github.com/NethermindEth/nethermind/pull/12183#pullrequestreview-4607935537) - 2026-07-01
 * [Review] [Review on: Use standard Microsoft logging in Kademlia](https://github.com/NethermindEth/nethermind/pull/12170#pullrequestreview-4607748006) - 2026-07-01
 * [Review] [Review on: perf(prewarmer): don't eagerly load EIP-2930 access lists when warming](https://github.com/NethermindEth/nethermind/pull/12182#pullrequestreview-4607535878) - 2026-07-01
+* [Review] [Review on: Warmup improvement](https://github.com/NethermindEth/nethermind/pull/10652#pullrequestreview-4626399915) - 2026-07-03
+* [Review] [Review on: refactor: drop big-endian branches, assert little-endian at startup](https://github.com/NethermindEth/nethermind/pull/12197#pullrequestreview-4626385928) - 2026-07-03
+* [Review] [Review on: perf: reduce block processing jitter and improve stability](https://github.com/NethermindEth/nethermind/pull/10590#pullrequestreview-4626004063) - 2026-07-03
 ## Q2 2026
 
 

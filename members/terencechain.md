@@ -31,6 +31,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Gate partial column decode on subscription to protect the gossip loop (#17074)](https://github.com/OffchainLabs/prysm/commit/77152ba2fc8a6fa45d8d6bf325aa6d013ab127f0) - 2026-07-02
 * [Commit] [Submit block to winning builder before the broadcast error check (#17079)](https://github.com/OffchainLabs/prysm/commit/45ce83e251f703095ae851148c993cdf40325c15) - 2026-07-02
 * [Commit] [Add Gloas Builder-API bid selection and block submission (#17067)](https://github.com/OffchainLabs/prysm/commit/67d7ad4513f488dbc6c632a20bbb0d366bcd46d3) - 2026-07-02
+* [Pull Request] [Skip data columns of empty slots in by range RPC handler](https://github.com/OffchainLabs/prysm/pull/17089) - 2026-07-03
+* [Pull Request] [Clean up Gloas proposer flow logging](https://github.com/OffchainLabs/prysm/pull/17082) - 2026-07-03
+* [Commit] [Clean up Gloas proposer flow logging (#17082)](https://github.com/OffchainLabs/prysm/commit/4a4707ed6bfb41a64962a1eba955b5259fe83e05) - 2026-07-03
 ## Q2 2026
 
 

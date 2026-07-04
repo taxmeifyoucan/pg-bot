@@ -25,6 +25,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Submit block to winning builder before the broadcast error check](https://github.com/OffchainLabs/prysm/pull/17079#pullrequestreview-4620934599) - 2026-07-02
 * [Review] [Review on: Add Gloas Builder-API bid selection and block submission](https://github.com/OffchainLabs/prysm/pull/17067#pullrequestreview-4618466005) - 2026-07-02
 * [Review] [Review on: making proposer preferences repush on reconnection to different node](https://github.com/OffchainLabs/prysm/pull/17066#pullrequestreview-4618213501) - 2026-07-02
+* [Commit] [removing parent block number post gloas (#17037)](https://github.com/OffchainLabs/prysm/commit/fbfc449591c422b39c8f0adcc4b3cd9bb0c9a01a) - 2026-07-03
 ## Q2 2026
 
 

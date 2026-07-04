@@ -14,6 +14,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: Request data column sidecars needed to validate a payload envelope](https://github.com/OffchainLabs/prysm/pull/17070#pullrequestreview-4609760860) - 2026-07-01
 * [Pull Request] [Active active](https://github.com/OffchainLabs/prysm/pull/17075) - 2026-07-02
+* [Review] [Review on: Log failed validator block builds as failures](https://github.com/OffchainLabs/prysm/pull/17088#pullrequestreview-4625693626) - 2026-07-03
+* [Review] [Review on: Recover from nil headblock in db at startup](https://github.com/OffchainLabs/prysm/pull/17087#pullrequestreview-4625262692) - 2026-07-03
+* [Review] [Review on: Add flag documentation for `--beacon-rest-api-provider`: it accepts comma-separated endpoints for ordered failover](https://github.com/OffchainLabs/prysm/pull/17084#pullrequestreview-4623838342) - 2026-07-03
+* [Review] [Review on: making proposer preferences repush on reconnection to different node](https://github.com/OffchainLabs/prysm/pull/17066#pullrequestreview-4623996425) - 2026-07-03
 ## Q2 2026
 
 

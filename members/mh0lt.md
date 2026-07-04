@@ -14,6 +14,11 @@ Team: Erigon
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [ci, db/state: matrix-test serial vs parallel commitment across the test workflows](https://github.com/erigontech/erigon/pull/22141) - 2026-07-01
 * [Pull Request] [execution/cache, execution/commitment, db/state: consolidate cache stack (freelru + persistent code cache)](https://github.com/erigontech/erigon/pull/22154) - 2026-07-02
+* [Review] [Review on: execution: reduce BAL-driven parallel exec re-executions by 10x](https://github.com/erigontech/erigon/pull/22190#pullrequestreview-4623892258) - 2026-07-03
+* [Issue] [execution/state: GetCodeHash over-refresh + read-path/object-reuse follow-up (after #21536)](https://github.com/erigontech/erigon/issues/22225) - 2026-07-03
+* [Issue] [Parallel exec: calcFees coinbase==burnt exclusivity should match serial on burnt-contract chains](https://github.com/erigontech/erigon/issues/22224) - 2026-07-03
+* [Issue] [Rationalize normalizeWriteSet: collapse its 7 write-set passes (behavior-preserving)](https://github.com/erigontech/erigon/issues/22216) - 2026-07-03
+* [Issue] [Clearing account code to empty leaves stale CodeDomain entry (codeHash mismatch / INVALID under ERIGON_ASSERT)](https://github.com/erigontech/erigon/issues/22204) - 2026-07-03
 ## Q2 2026
 
 

@@ -17,6 +17,11 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02
+* [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4627436617) - 2026-07-03
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626374583) - 2026-07-03
+* [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626438301) - 2026-07-03
 ## Q2 2026
 
 

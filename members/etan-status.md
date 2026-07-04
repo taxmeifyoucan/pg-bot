@@ -15,6 +15,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Only subscribe to each column topic once](https://github.com/status-im/nimbus-eth2/pull/8688) - 2026-07-02
 * [Pull Request] [Prune finalized blocks from columnFirstFetched](https://github.com/status-im/nimbus-eth2/pull/8693) - 2026-07-02
 * [Pull Request] [Ensure REST event handler always unregisters from the event queue](https://github.com/status-im/nimbus-eth2/pull/8690) - 2026-07-02
+* [Pull Request] [Only subscribe to each column topic once (2)](https://github.com/status-im/nimbus-eth2/pull/8697) - 2026-07-03
 ## Q2 2026
 
 

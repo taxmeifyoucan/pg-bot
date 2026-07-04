@@ -18,6 +18,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: stagedsync: Fix logIndex reset and missing websocket notifications in parallel execution](https://github.com/erigontech/erigon/pull/22110#pullrequestreview-4617729392) - 2026-07-02
 * [Pull Request] [rpc: fix BlockOverrides in trace endpoints](https://github.com/erigontech/erigon/pull/22183) - 2026-07-02
 * [Pull Request] [QA: update hive ref](https://github.com/erigontech/erigon/pull/22145) - 2026-07-02
+* [Review] [Review on: rpc/jsonrpc: extract BaseAPI helper families](https://github.com/erigontech/erigon/pull/22180#pullrequestreview-4627999533) - 2026-07-03
+* [Review] [Review on: QA: show RPC integration test results on the run summary page](https://github.com/erigontech/erigon/pull/22134#pullrequestreview-4626958509) - 2026-07-03
+* [Review] [Review on: rpc/jsonrpc: close getProof's SharedDomains](https://github.com/erigontech/erigon/pull/22210#pullrequestreview-4626272618) - 2026-07-03
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 ## Q2 2026
