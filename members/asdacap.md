@@ -34,6 +34,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat(flatdb): warn to use FlatInTrie layout on low-RAM machines (#12221)](https://github.com/NethermindEth/nethermind/commit/7f97aa7b34f20c2da2b2d61955fa3e2eb8c0e847) - 2026-07-03
 * [Commit] [refactor(state): wire VerifyTrie through the backend-agnostic world-state module (#12222)](https://github.com/NethermindEth/nethermind/commit/b1672e03f6196342fc331318ba2556e2f9ca4a69) - 2026-07-03
 * [Commit] [fix(db): flush all column families in ColumnsDb.Flush (#12223)](https://github.com/NethermindEth/nethermind/commit/8a9c8830f00ae6e30f46e4ef2d0a392db25eb4ed) - 2026-07-03
+* [Review] [Review on: refactor(tracestore): wire the trace RPC override through DI](https://github.com/NethermindEth/nethermind/pull/12251#pullrequestreview-4629433513) - 2026-07-04
+* [Pull Request] [refactor(consensus): wire block preprocessor steps through DI](https://github.com/NethermindEth/nethermind/pull/12258) - 2026-07-04
+* [Pull Request] [refactor(healthchecks): move background-service startup to a StartHealthChecks step](https://github.com/NethermindEth/nethermind/pull/12253) - 2026-07-04
+* [Review] [Review on: refactor(optimism): migrate Optimism.InitRpcModules to DI](https://github.com/NethermindEth/nethermind/pull/12252#pullrequestreview-4629159043) - 2026-07-04
+* [Review] [Review on: fix(discovery): handle shutdown cancellation in CallAndWaitForResponse](https://github.com/NethermindEth/nethermind/pull/12248#pullrequestreview-4629409027) - 2026-07-04
+* [Review] [Review on: perf(engine): overlap sender recovery with newPayload pre-processing and cache recovered senders](https://github.com/NethermindEth/nethermind/pull/12249#pullrequestreview-4628995030) - 2026-07-04
+* [Commit] [refactor(healthchecks): move background-service startup to a StartHealthChecks step (#12253)](https://github.com/NethermindEth/nethermind/commit/4ff2d180e91bdc90d715bca224d15c717c2b52a5) - 2026-07-04
 ## Q2 2026
 
 

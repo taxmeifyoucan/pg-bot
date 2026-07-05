@@ -22,6 +22,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Test evmstate against EEST and remove test_generalstate_json](https://github.com/status-im/nimbus-eth1/pull/4398) - 2026-07-03
 * [Commit] [Test evmstate against EEST and remove test_generalstate_json (#4398)](https://github.com/status-im/nimbus-eth1/commit/58a9f54d74346ee89b39240305ef561f2ea22ade) - 2026-07-03
 * [Commit] [Test t8n against EEST (#4392)](https://github.com/status-im/nimbus-eth1/commit/0af6257a5c1d3694a59cd12439e3e5ccb6c368df) - 2026-07-03
+* [Commit] [Update EEST mainnet fixtures to v20.0.0 (#4406)](https://github.com/status-im/nimbus-eth1/commit/9893c5d006259ce4702ba0a93e8832c7ef9a8193) - 2026-07-04
 ## Q2 2026
 
 

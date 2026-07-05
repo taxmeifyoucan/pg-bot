@@ -14,6 +14,24 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: init transports before processing bootENRs in PeerDiscovery](https://github.com/ChainSafe/lodestar/pull/9560#pullrequestreview-4627287293) - 2026-07-03
 
+* [Review] [Review on: feat(cli): support nested maps in rc config file](https://github.com/ChainSafe/lodestar/pull/9578#pullrequestreview-4629675911) - 2026-07-04
+* [Pull Request] [fix: prune old proposer preferences submissions](https://github.com/ChainSafe/lodestar/pull/9591) - 2026-07-04
+* [Review] [Review on: fix: prune old proposer preferences submissions](https://github.com/ChainSafe/lodestar/pull/9591#pullrequestreview-4630267560) - 2026-07-04
+* [Pull Request] [fix: refresh next-epoch proposer duties before the gloas fork](https://github.com/ChainSafe/lodestar/pull/9590) - 2026-07-04
+* [Review] [Review on: feat: broadcast proposer preferences before the gloas fork](https://github.com/ChainSafe/lodestar/pull/9571#pullrequestreview-4630240421) - 2026-07-04
+* [Review] [Review on: fix: share in-flight payload envelope import promise to prevent sync spin loop](https://github.com/ChainSafe/lodestar/pull/9501#pullrequestreview-4630149774) - 2026-07-04
+* [Review] [Review on: fix: skip orphaned payload columns in data columns by range](https://github.com/ChainSafe/lodestar/pull/9471#pullrequestreview-4630134228) - 2026-07-04
+* [Pull Request] [feat: return 204 when producing payload attestation if there is no block](https://github.com/ChainSafe/lodestar/pull/9589) - 2026-07-04
+* [Review] [Review on: feat: return 204 when producing payload attestation if there is no block](https://github.com/ChainSafe/lodestar/pull/9589#pullrequestreview-4629987530) - 2026-07-04
+* [Pull Request] [fix: submit PTC attestation early only for the canonical block's payload](https://github.com/ChainSafe/lodestar/pull/9588) - 2026-07-04
+* [Review] [Review on: fix: submit PTC attestation early only for the canonical block's payload](https://github.com/ChainSafe/lodestar/pull/9588#pullrequestreview-4629919166) - 2026-07-04
+* [Review] [Review on: fix: bound network worker termination to prevent shutdown hang](https://github.com/ChainSafe/lodestar/pull/9582#pullrequestreview-4629640203) - 2026-07-04
+* [Review] [Review on: fix: ensure PayloadEnvelopeInput in cache whenever we have a block](https://github.com/ChainSafe/lodestar/pull/9476#pullrequestreview-4629662913) - 2026-07-04
+* [Review] [Review on: chore: bump fork-choice gloas spec links to alpha.11](https://github.com/ChainSafe/lodestar/pull/9549#pullrequestreview-4629354873) - 2026-07-04
+* [Review] [Review on: feat: use pending variant to determine is_parent_strong](https://github.com/ChainSafe/lodestar/pull/9548#pullrequestreview-4629348243) - 2026-07-04
+* [Review] [Review on: feat: add dependent root check when giving out proposer boost](https://github.com/ChainSafe/lodestar/pull/9565#pullrequestreview-4629270198) - 2026-07-04
+* [Commit] [feat: broadcast proposer preferences before the gloas fork (#9571)](https://github.com/ChainSafe/lodestar/commit/9d930bdc5bc838e0128a6c6975253cd96bde102d) - 2026-07-04
+* [Commit] [fix: skip orphaned payload columns in data columns by range (#9471)](https://github.com/ChainSafe/lodestar/commit/b94232ff23fac1fab3b2436ce67414876d4071e0) - 2026-07-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

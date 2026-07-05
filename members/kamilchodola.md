@@ -22,6 +22,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Warmup improvement (#10652)](https://github.com/NethermindEth/nethermind/commit/8ab767c3702468fa777908df5981521cdbffe4ea) - 2026-07-03
 * [Commit] [perf: reduce block processing jitter and improve stability (#10590)](https://github.com/NethermindEth/nethermind/commit/bee2ac4fc9bcf9d08cd3fb0b489e606e21947fc4) - 2026-07-03
 * [Commit] [perf(prewarmer): warm EIP-2930 access lists cancellation-responsively (#12189)](https://github.com/NethermindEth/nethermind/commit/adf65b9d2b4f21dd8480c503e1ec446f8c381ede) - 2026-07-03
+* [Pull Request] [ci(expb): fix retrospective pagination drift; allow disabling the flat write-buffer floor](https://github.com/NethermindEth/nethermind/pull/12264) - 2026-07-04
 ## Q2 2026
 
 

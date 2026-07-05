@@ -20,6 +20,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-7928: Revert 7702 tracking](https://github.com/ethereum/EIPs/commit/6666fcc044f37af693b9fd32df6e7643d6c99c4c) - 2026-07-02
 * [Commit] [Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/commit/f63ba053296dbb684aafdcfb9e4be7c972e88f5d) - 2026-07-02
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4624406026) - 2026-07-03
+* [Commit] [Update EIP-7928: SSTORE access cost check](https://github.com/ethereum/EIPs/commit/1b4e9a44c1fd51ffd8afe4f0c404cf51d84cff64) - 2026-07-04
 ## Q2 2026
 
 

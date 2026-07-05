@@ -13,6 +13,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Only subscribe to each column topic once](https://github.com/status-im/nimbus-eth2/pull/8688#pullrequestreview-4619248798) - 2026-07-02
 * [Review] [Review on: Prune finalized blocks from columnFirstFetched](https://github.com/status-im/nimbus-eth2/pull/8693#pullrequestreview-4619235780) - 2026-07-02
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629505540) - 2026-07-04
 ## Q2 2026
 
 

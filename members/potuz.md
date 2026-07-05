@@ -26,9 +26,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 * [Pull Request] [Recover from nil headblock in db at startup](https://github.com/OffchainLabs/prysm/pull/17087) - 2026-07-03
 * [Commit] [Recover from nil headblock in db at startup (#17087)](https://github.com/OffchainLabs/prysm/commit/8ceb54a163db7a6cca88f0d68b9b9416f9af85cf) - 2026-07-03
+* [Review] [Review on: Count PTC votes from duplicated validators](https://github.com/OffchainLabs/prysm/pull/17028#pullrequestreview-4629704156) - 2026-07-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
+* [Pull Request] [Ignore instead of reject on preferences](https://github.com/ethereum/consensus-specs/pull/5429) - 2026-07-04
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629311315) - 2026-07-04
 ## Q2 2026
 
 

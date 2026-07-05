@@ -33,6 +33,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Reduce `MAX_BUILDER_DEPOSIT_REQUESTS_PER_PAYLOAD` to 64](https://github.com/ethereum/consensus-specs/pull/5420#pullrequestreview-4626301428) - 2026-07-03
 * [Commit] [Update link to EIP-8282 (#5423)](https://github.com/ethereum/consensus-specs/commit/8a51c626e9deee5de7f2f427b71da30457a1edf8) - 2026-07-03
 * [Commit] [Set `BUILDER_WITHDRAWAL_PREFIX` to 0xB0 (#5416)](https://github.com/ethereum/consensus-specs/commit/6a34a54d95c3f54cfacff6b4b2d771d47a4df6dc) - 2026-07-03
+* [Commit] [Add yaml type representers for uint/boolean values (#5421)](https://github.com/ethereum/consensus-specs/commit/bd454cb0a6cff1b210ea9de208803df4d9966655) - 2026-07-04
 ## Q2 2026
 
 

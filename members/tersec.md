@@ -22,6 +22,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add POST /eth/v1/beacon/execution_payload_envelopes](https://github.com/status-im/nimbus-eth2/pull/8695#pullrequestreview-4623047887) - 2026-07-03
 * [Review] [Review on: add proposer preferences SSE event and submission endpoint](https://github.com/status-im/nimbus-eth2/pull/8696#pullrequestreview-4623140054) - 2026-07-03
 * [Review] [Review on: Fix ColumnQuarantine to start  use correct amount of supernode columns.](https://github.com/status-im/nimbus-eth2/pull/8417#pullrequestreview-4623684152) - 2026-07-03
+* [Pull Request] [fix Gloas withdrawals predictions; quarantine Gloas columns arriving before block](https://github.com/status-im/nimbus-eth2/pull/8700) - 2026-07-04
+* [Review] [Review on: fix Gloas withdrawals predictions; quarantine Gloas columns arriving before block](https://github.com/status-im/nimbus-eth2/pull/8700#pullrequestreview-4629559206) - 2026-07-04
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -32,6 +34,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: use error code -32602 incase of payload parsing error](https://github.com/status-im/nimbus-eth1/pull/4379#pullrequestreview-4622673669) - 2026-07-03
 * [Review] [Review on: include import, trustedNodeSync, deposits to the unified client --help](https://github.com/status-im/nimbus-eth1/pull/4395#pullrequestreview-4622993743) - 2026-07-03
 * [Review] [Review on: add metrics to engineAPI](https://github.com/status-im/nimbus-eth1/pull/4183#pullrequestreview-4623765132) - 2026-07-03
+* [Review] [Review on: fix(engine): preserve withdrawals for V4 (Amsterdam) payload attributes](https://github.com/status-im/nimbus-eth1/pull/4409#pullrequestreview-4629587846) - 2026-07-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 ## Q2 2026

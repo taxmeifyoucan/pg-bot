@@ -17,6 +17,8 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 * [Pull Request] [feat(evm): EIP-8151 ECDSA authority deactivation aware ecRecover](https://github.com/NethermindEth/nethermind/pull/12240) - 2026-07-03
 * [Pull Request] [feat(evm): EIP-7851 code-controlled EOA delegation (SETSELFDELEGATE)](https://github.com/NethermindEth/nethermind/pull/12239) - 2026-07-03
 
+* [Pull Request] [feat(engine): EIP-7805 fork-choice enforced inclusion lists (EL side)](https://github.com/NethermindEth/nethermind/pull/12262) - 2026-07-04
+* [Pull Request] [feat(engine): EIP-8146 block access list sidecars (EL side)](https://github.com/NethermindEth/nethermind/pull/12261) - 2026-07-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626342085) - 2026-07-03
 ## Q2 2026

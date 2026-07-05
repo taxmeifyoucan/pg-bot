@@ -76,6 +76,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [rpc/mcp: dedupe embedded and standalone servers; implement in-process resource handlers (#22169)](https://github.com/erigontech/erigon/commit/5bf67a1641d76a803f7fcff6d65d8081d5ae81c8) - 2026-07-03
 * [Commit] [diagnostics/metrics: collapse GetOrCreate* onto generic helpers (#22168)](https://github.com/erigontech/erigon/commit/836b42b4082d17f063af2d886362209ab5962f60) - 2026-07-03
 * [Commit] [common: share fixed-size byte type helpers (#22173)](https://github.com/erigontech/erigon/commit/6777298620db3f602a4c4e11c68ff4ecf49d231c) - 2026-07-03
+* [Review] [Review on: rpc/jsonrpc: extract BaseAPI helper families](https://github.com/erigontech/erigon/pull/22180#pullrequestreview-4629302001) - 2026-07-04
+* [Pull Request] [execution: mid-block resume follow-ups — prior receipts, notifications, blooms, blob gas](https://github.com/erigontech/erigon/pull/22235) - 2026-07-04
+* [Review] [Review on: execution: mid-block resume follow-ups — prior receipts, notifications, blooms, blob gas](https://github.com/erigontech/erigon/pull/22235#pullrequestreview-4629376468) - 2026-07-04
+* [Issue] [notification dispatcher: no fallback for RecentReceipts cache misses (eviction, fork-validator Clear)](https://github.com/erigontech/erigon/issues/22240) - 2026-07-04
+* [Issue] [stagedsync: post-execution block validation (receipts root/bloom) is skipped for blocks resumed mid-block](https://github.com/erigontech/erigon/issues/22237) - 2026-07-04
+* [Commit] [rpc/jsonrpc: extract BaseAPI helper families (#22180)](https://github.com/erigontech/erigon/commit/3ecc257e5e17526590f2d34cb3afc4a3fda92caf) - 2026-07-04
+* [Commit] [golangci: enable modernize linter (#22197)](https://github.com/erigontech/erigon/commit/35a93b7225bf0636bd5aca19cf9b93694209e34c) - 2026-07-04
+* [Commit] [db/state: fix Close vs external MergeLoop/BuildFiles* WaitGroup races (#22203)](https://github.com/erigontech/erigon/commit/6fc6b526284a3b9eb1eef40a991c479d207db2a0) - 2026-07-04
 ## Q2 2026
 
 

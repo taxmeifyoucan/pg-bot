@@ -29,6 +29,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Stateless executor: tests-zkevm@v0.5.0 alignment](https://github.com/NethermindEth/nethermind/pull/12217#pullrequestreview-4623713052) - 2026-07-03
 * [Review] [Review on: fix(txpool): single-source pending-delegation accounting through pool events](https://github.com/NethermindEth/nethermind/pull/12205#pullrequestreview-4625300837) - 2026-07-03
 * [Commit] [Update schema generator project coverage (#12207)](https://github.com/NethermindEth/nethermind/commit/47073331297dd62273a305c6005254f44f63e777) - 2026-07-03
+* [Pull Request] [Publish Nethermind.Kademlia package](https://github.com/NethermindEth/nethermind/pull/12259) - 2026-07-04
 ## Q2 2026
 
 

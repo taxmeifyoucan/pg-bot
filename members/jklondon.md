@@ -14,6 +14,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: prune: human-readable aliases for --prune.distance.blocks sentinels](https://github.com/erigontech/erigon/pull/22119#pullrequestreview-4609675627) - 2026-07-01
 * [Commit] [db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots (#21200)](https://github.com/erigontech/erigon/commit/bc4670467cda82bc85ea21b1369b7c9b585c5c8e) - 2026-07-03
+* [Review] [Review on: txnprovider/txpool: don't panic on short genesis in p2p test client](https://github.com/erigontech/erigon/pull/22221#pullrequestreview-4629295372) - 2026-07-04
 ## Q2 2026
 
 

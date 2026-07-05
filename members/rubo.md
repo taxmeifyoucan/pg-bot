@@ -14,6 +14,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Review] [Review on: fix(stateless): align stateless IO with tests-zkevm@v0.5.0](https://github.com/NethermindEth/nethermind/pull/12191#pullrequestreview-4612799994) - 2026-07-01
 * [Review] [Review on: perf(zkevm): Stateless guest execution optimizations](https://github.com/NethermindEth/nethermind/pull/12141#pullrequestreview-4609476927) - 2026-07-01
+* [Review] [Review on: Publish Nethermind.Kademlia package](https://github.com/NethermindEth/nethermind/pull/12259#pullrequestreview-4630141900) - 2026-07-04
 ## Q2 2026
 
 

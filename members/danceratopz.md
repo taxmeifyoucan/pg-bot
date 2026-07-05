@@ -34,6 +34,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(test-consume,test-rpc): close RPC sessions on teardown to fix fd leak](https://github.com/ethereum/execution-specs/pull/3094) - 2026-07-03
 * [Review] [Review on: fix(test-consume,test-rpc): close RPC sessions on teardown to fix fd leak](https://github.com/ethereum/execution-specs/pull/3094#pullrequestreview-4625549087) - 2026-07-03
 * [Pull Request] [perf(test-consume): align enginex engine-API flow and skip redundant genesis check](https://github.com/ethereum/execution-specs/pull/3093) - 2026-07-03
+* [Commit] [fix(test-consume,test-rpc): close RPC sessions on teardown to fix fd leak (#3094)](https://github.com/ethereum/execution-specs/commit/4f5c7d19adc916a268b7eadc196756068a325515) - 2026-07-04
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

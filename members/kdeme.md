@@ -21,6 +21,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Stateless: Fix verifyHeaders to check for contiguous chain](https://github.com/status-im/nimbus-eth1/pull/4400) - 2026-07-03
 * [Review] [Review on: include import, trustedNodeSync, deposits to the unified client --help](https://github.com/status-im/nimbus-eth1/pull/4395#pullrequestreview-4624880465) - 2026-07-03
 * [Commit] [Stateless: Fix verifyHeaders to check for contiguous chain (#4400)](https://github.com/status-im/nimbus-eth1/commit/157f96af82584f39f2ea5b9b839f7b8c343b2887) - 2026-07-03
+* [Commit] [stateless: fail block on missing in-range BLOCKHASH (#4407)](https://github.com/status-im/nimbus-eth1/commit/c30cd43fbba3eea331d0a67528b59c72a50eacf4) - 2026-07-04
 ## Q2 2026
 
 

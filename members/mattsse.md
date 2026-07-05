@@ -54,6 +54,9 @@ Team: Reth
 * [Commit] [perf(net): avoid redundant zero-fill in ECIES write_body (#26120)](https://github.com/paradigmxyz/reth/commit/a168e0c6b6ad733a2fb5e81109a5da24040a9c66) - 2026-07-03
 * [Commit] [fix(txpool): account for blob tx access list size (#26113)](https://github.com/paradigmxyz/reth/commit/7cb6d016d3d03f48ab1480d1a4d9af16a7758640) - 2026-07-03
 
+* [Pull Request] [perf(metrics): offload metric rendering](https://github.com/paradigmxyz/reth/pull/26180) - 2026-07-04
+* [Review] [Review on: feat: impl snap client](https://github.com/paradigmxyz/reth/pull/26049#pullrequestreview-4629434401) - 2026-07-04
+* [Pull Request] [perf(eth-wire): preallocate transaction list decodes](https://github.com/paradigmxyz/reth/pull/26164) - 2026-07-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

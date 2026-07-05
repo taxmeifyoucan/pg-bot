@@ -52,6 +52,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [refactor(aura): isolate AuRa concerns inside the AuRa plugin (#11938)](https://github.com/NethermindEth/nethermind/commit/cd907370af95a8c5c2937235b2c76f0a8107a80b) - 2026-07-03
 * [Commit] [feat(engine): move SSZ-REST fork selection into Eth-Execution-Version header (#12193)](https://github.com/NethermindEth/nethermind/commit/8e28b356d26bcbddc400106946b6e7b56c0cab4a) - 2026-07-03
 
+* [Review] [Review on: refactor(tracestore): wire the trace RPC override through DI](https://github.com/NethermindEth/nethermind/pull/12251#pullrequestreview-4629099202) - 2026-07-04
+* [Review] [Review on: refactor(healthchecks): move background-service startup to a StartHealthChecks step](https://github.com/NethermindEth/nethermind/pull/12253#pullrequestreview-4629098183) - 2026-07-04
+* [Review] [Review on: refactor(optimism): migrate Optimism.InitRpcModules to DI](https://github.com/NethermindEth/nethermind/pull/12252#pullrequestreview-4629100597) - 2026-07-04
+* [Review] [Review on: fix(discovery): handle shutdown cancellation in CallAndWaitForResponse](https://github.com/NethermindEth/nethermind/pull/12248#pullrequestreview-4629102149) - 2026-07-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 ## Q2 2026

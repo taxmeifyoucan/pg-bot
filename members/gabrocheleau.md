@@ -8,6 +8,11 @@ Team: EthereumJS
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
+* [Pull Request] [chore: update dev fixtures to glamsterdam-devnet@v6.1.1](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4336) - 2026-07-04
 ## Q2 2026
 
 

@@ -50,6 +50,15 @@ Team: Erigon
 * [Commit] [db/snapshotsync: add DirtyFiles type alias, use VisibleSegments (#22218)](https://github.com/erigontech/erigon/commit/fce3e1e794c039e27dbf0eb4978a1296a7332f0a) - 2026-07-03
 * [Commit] [db/state:`HistoryKeyTxNumIterFiles`: less copy/append (#20286)](https://github.com/erigontech/erigon/commit/b1eb94efef20cc15889770e29071b1015a197c79) - 2026-07-03
 * [Commit] [`--prune.mode=minimal` to delete old state-history files (#22123)](https://github.com/erigontech/erigon/commit/e5ad7c4193055faef9c6ec9ee1c39f1c9b4abc11) - 2026-07-03
+* [Pull Request] [rpc/mcp, node/eth: shut down MCP SSE server on ctx cancel](https://github.com/erigontech/erigon/pull/22230) - 2026-07-04
+* [Pull Request] [db/state: integrate + cleanAfterMerge under a single dirtyFilesLock](https://github.com/erigontech/erigon/pull/22238) - 2026-07-04
+* [Pull Request] [cmd/erigon: abort startup on interrupt instead of serving](https://github.com/erigontech/erigon/pull/22229) - 2026-07-04
+* [Pull Request] [txnprovider/txpool/tests: fix p2p benchmark panic on non-erigon node](https://github.com/erigontech/erigon/pull/22226) - 2026-07-04
+* [Pull Request] [build: update deps before release/3.6](https://github.com/erigontech/erigon/pull/22232) - 2026-07-04
+* [Pull Request] [p2p: make Server.Stop transition exactly-once via CompareAndSwap](https://github.com/erigontech/erigon/pull/22231) - 2026-07-04
+* [Pull Request] [db/state, db/integrity: honor ctx cancellation while opening snapshot files](https://github.com/erigontech/erigon/pull/22228) - 2026-07-04
+* [Commit] [txnprovider/txpool: don't panic on short genesis in p2p test client (#22221)](https://github.com/erigontech/erigon/commit/6d896a4ee0ee0b7510838146ce13044b041bfe6d) - 2026-07-04
+* [Commit] [cmd, node: migrate urfave/cli from v2 to v3 (#22130)](https://github.com/erigontech/erigon/commit/9bf7119fa48a8759558d046d1796e436b11f1ca9) - 2026-07-04
 ## Q2 2026
 
 

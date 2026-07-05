@@ -15,6 +15,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gloas fix proposer preferences gossip verification](https://github.com/sigp/lighthouse/pull/9337#pullrequestreview-4617835845) - 2026-07-02
 * [Review] [Review on: Optimisations relating to `get_expected_withdrawals`](https://github.com/sigp/lighthouse/pull/9314#pullrequestreview-4615057464) - 2026-07-02
 * [Pull Request] [Implement gloas stateless block building api](https://github.com/sigp/lighthouse/pull/9568) - 2026-07-03
+* [Pull Request] [Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573) - 2026-07-04
 ## Q2 2026
 
 

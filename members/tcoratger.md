@@ -30,6 +30,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf: make `BoundedPowers::collect` scalar for small requests](https://github.com/Plonky3/Plonky3/pull/1908#pullrequestreview-4625910629) - 2026-07-03
 * [Commit] [fix(whir): update prescribed-point adapter to pruned multiproof API (#1915)](https://github.com/Plonky3/Plonky3/commit/038743156fbe87e3f1b1d704bab64c9738dfb6a2) - 2026-07-03
 * [Commit] [whir: pruned Merkle multiproofs for STIR query openings (#1805)](https://github.com/Plonky3/Plonky3/commit/1149a46254607cca85ec5b0af68ffe8a5da0d1bc) - 2026-07-03
+* [Pull Request] [perf(merkle-tree): optimal frontier pruning for multi-opening proofs](https://github.com/Plonky3/Plonky3/pull/1919) - 2026-07-04
 ## Q2 2026
 
 

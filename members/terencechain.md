@@ -34,6 +34,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Skip data columns of empty slots in by range RPC handler](https://github.com/OffchainLabs/prysm/pull/17089) - 2026-07-03
 * [Pull Request] [Clean up Gloas proposer flow logging](https://github.com/OffchainLabs/prysm/pull/17082) - 2026-07-03
 * [Commit] [Clean up Gloas proposer flow logging (#17082)](https://github.com/OffchainLabs/prysm/commit/4a4707ed6bfb41a64962a1eba955b5259fe83e05) - 2026-07-03
+* [Pull Request] [Apply fork choice PTC votes for REST-submitted payload attestations](https://github.com/OffchainLabs/prysm/pull/17100) - 2026-07-04
+* [Pull Request] [Validate and cache published execution payload bids before broadcast](https://github.com/OffchainLabs/prysm/pull/17101) - 2026-07-04
+* [Review] [Review on: Add unit tests for FOCIL inclusion list helpers](https://github.com/OffchainLabs/prysm/pull/17090#pullrequestreview-4630331784) - 2026-07-04
+* [Pull Request] [Copy payload attestations out of the pool to prevent in-place aggregation races](https://github.com/OffchainLabs/prysm/pull/17099) - 2026-07-04
+* [Pull Request] [Compute validator mid-slot delay from SLOT_DURATION_MS](https://github.com/OffchainLabs/prysm/pull/17098) - 2026-07-04
+* [Pull Request] [Retry failed proposer preference submissions with detached context](https://github.com/OffchainLabs/prysm/pull/17097) - 2026-07-04
+* [Review] [Review on: Remove proposer id cache](https://github.com/OffchainLabs/prysm/pull/16582#pullrequestreview-4629790745) - 2026-07-04
+* [Pull Request] [Skip nil builder entries in builderInsertionIndex](https://github.com/OffchainLabs/prysm/pull/17096) - 2026-07-04
+* [Pull Request] [Hold the state lock in QueueBuilderPaymentForSlot](https://github.com/OffchainLabs/prysm/pull/17095) - 2026-07-04
+* [Pull Request] [Surface undefined engine errors from gloas forkchoice updates](https://github.com/OffchainLabs/prysm/pull/17094) - 2026-07-04
+* [Pull Request] [Mark full node gas limit](https://github.com/OffchainLabs/prysm/pull/17093) - 2026-07-04
+* [Commit] [Accept builder preferences without the builder endpoint flag (#17078)](https://github.com/OffchainLabs/prysm/commit/2ef3f2593df1ed069ad6e0644cb7edbcd27fb500) - 2026-07-04
 ## Q2 2026
 
 

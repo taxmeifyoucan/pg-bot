@@ -23,6 +23,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Review] [Review on: include import, trustedNodeSync, deposits to the unified client --help](https://github.com/status-im/nimbus-eth1/pull/4395#pullrequestreview-4623979582) - 2026-07-03
 * [Commit] [use error code -32602 incase of payload parsing error (#4379)](https://github.com/status-im/nimbus-eth1/commit/abc18c6bec1aa535ebf0f28af0dc940fc263d095) - 2026-07-03
 * [Commit] [include import, trustedNodeSync, deposits to the unified client --help (#4395)](https://github.com/status-im/nimbus-eth1/commit/55f5de189335168d3e5c72b427352369eea2f288) - 2026-07-03
+* [Commit] [Fix payload id hit (#4399)](https://github.com/status-im/nimbus-eth1/commit/e1a126a3e7d9d9e6ce595987216c66d34642dc36) - 2026-07-04
 ## Q2 2026
 
 
