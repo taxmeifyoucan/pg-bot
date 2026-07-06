@@ -32,6 +32,24 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add dependent root check when giving out proposer boost](https://github.com/ChainSafe/lodestar/pull/9565#pullrequestreview-4629270198) - 2026-07-04
 * [Commit] [feat: broadcast proposer preferences before the gloas fork (#9571)](https://github.com/ChainSafe/lodestar/commit/9d930bdc5bc838e0128a6c6975253cd96bde102d) - 2026-07-04
 * [Commit] [fix: skip orphaned payload columns in data columns by range (#9471)](https://github.com/ChainSafe/lodestar/commit/b94232ff23fac1fab3b2436ce67414876d4071e0) - 2026-07-04
+* [Pull Request] [feat: append CL/EL client info to graffiti](https://github.com/ChainSafe/lodestar/pull/9599) - 2026-07-06
+* [Pull Request] [feat: add bid circuit breaker for gloas block production](https://github.com/ChainSafe/lodestar/pull/9598) - 2026-07-05
+* [Review] [Review on: feat: add bid circuit breaker for gloas block production](https://github.com/ChainSafe/lodestar/pull/9598#pullrequestreview-4632183562) - 2026-07-05
+* [Review] [Review on: fix: skip already-seen data columns in zero-peer publish warning](https://github.com/ChainSafe/lodestar/pull/9580#pullrequestreview-4631311016) - 2026-07-05
+* [Pull Request] [fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597) - 2026-07-05
+* [Review] [Review on: feat: implement `head_v2` event](https://github.com/ChainSafe/lodestar/pull/9486#pullrequestreview-4631266655) - 2026-07-05
+* [Review] [Review on: fix(api): guard post-fulu blob reconstruction window](https://github.com/ChainSafe/lodestar/pull/9537#pullrequestreview-4631235404) - 2026-07-05
+* [Review] [Review on: fix: make `addPayloadEnvelope` idempotent on API path](https://github.com/ChainSafe/lodestar/pull/9504#pullrequestreview-4631257931) - 2026-07-05
+* [Review] [Review on: fix: avoid removed sync chain references](https://github.com/ChainSafe/lodestar/pull/9568#pullrequestreview-4631275053) - 2026-07-05
+* [Pull Request] [feat: add getStateBuilders endpoint](https://github.com/ChainSafe/lodestar/pull/9593) - 2026-07-05
+* [Review] [Review on: feat: add getStateBuilders endpoint](https://github.com/ChainSafe/lodestar/pull/9593#pullrequestreview-4631113450) - 2026-07-05
+* [Pull Request] [feat: stateless flow for local block production post-gloas](https://github.com/ChainSafe/lodestar/pull/9595) - 2026-07-05
+* [Review] [Review on: feat: stateless flow for local block production post-gloas](https://github.com/ChainSafe/lodestar/pull/9595#pullrequestreview-4631172284) - 2026-07-05
+* [Pull Request] [feat: implement gloas builder api](https://github.com/ChainSafe/lodestar/pull/9594) - 2026-07-05
+* [Review] [Review on: feat: implement gloas builder api](https://github.com/ChainSafe/lodestar/pull/9594#pullrequestreview-4631164160) - 2026-07-05
+* [Pull Request] [fix: remove parent_block_number from payload_attributes event post-gloas](https://github.com/ChainSafe/lodestar/pull/9592) - 2026-07-05
+* [Review] [Review on: fix: remove parent_block_number from payload_attributes event post-gloas](https://github.com/ChainSafe/lodestar/pull/9592#pullrequestreview-4631100999) - 2026-07-05
+* [Review] [Review on: fix: keep persistedKey when re-adding a reloaded checkpoint state](https://github.com/ChainSafe/lodestar/pull/9557#pullrequestreview-4631124997) - 2026-07-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -40,6 +58,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs (#5426)](https://github.com/ethereum/consensus-specs/commit/38bedb0aac71ac824f225568b66c691bd03a1705) - 2026-07-03
 * [Commit] [Reduce `MAX_BUILDER_DEPOSIT_REQUESTS_PER_PAYLOAD` to 64 (#5420)](https://github.com/ethereum/consensus-specs/commit/720ec5bc9ec311750e49d6620620b795ed5203a0) - 2026-07-03
 
+* [Review] [Review on: Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414#pullrequestreview-4632509416) - 2026-07-06
+* [Review] [Review on: Ignore instead of reject on preferences](https://github.com/ethereum/consensus-specs/pull/5429#pullrequestreview-4632508074) - 2026-07-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 ## Q2 2026

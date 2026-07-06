@@ -27,6 +27,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Recover from nil headblock in db at startup](https://github.com/OffchainLabs/prysm/pull/17087) - 2026-07-03
 * [Commit] [Recover from nil headblock in db at startup (#17087)](https://github.com/OffchainLabs/prysm/commit/8ceb54a163db7a6cca88f0d68b9b9416f9af85cf) - 2026-07-03
 * [Review] [Review on: Count PTC votes from duplicated validators](https://github.com/OffchainLabs/prysm/pull/17028#pullrequestreview-4629704156) - 2026-07-04
+* [Commit] [Proactively request missing payload envelope at payload-due deadline (#16904)](https://github.com/OffchainLabs/prysm/commit/356724aba6193a711a3cb9097102b44a74bb1ae4) - 2026-07-05
+* [Commit] [Drain pending Gloas data columns for our own proposed block (#17059)](https://github.com/OffchainLabs/prysm/commit/f51bc90d8e1cc3fa6336ec9c50cb45520d16d777) - 2026-07-05
+* [Commit] [Remove proposer id cache (#16582)](https://github.com/OffchainLabs/prysm/commit/5ae4d69f39210a03442058318d42c7a70bca6d78) - 2026-07-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

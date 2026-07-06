@@ -59,6 +59,12 @@ Team: Erigon
 * [Pull Request] [db/state, db/integrity: honor ctx cancellation while opening snapshot files](https://github.com/erigontech/erigon/pull/22228) - 2026-07-04
 * [Commit] [txnprovider/txpool: don't panic on short genesis in p2p test client (#22221)](https://github.com/erigontech/erigon/commit/6d896a4ee0ee0b7510838146ce13044b041bfe6d) - 2026-07-04
 * [Commit] [cmd, node: migrate urfave/cli from v2 to v3 (#22130)](https://github.com/erigontech/erigon/commit/9bf7119fa48a8759558d046d1796e436b11f1ca9) - 2026-07-04
+* [Pull Request] [[3.7] [wip] db/snapshotsync: lock-free bundle-refcount snapshot file reclamation](https://github.com/erigontech/erigon/pull/22246) - 2026-07-05
+* [Pull Request] [node/eth, node/components/downloader: fix nil deref of downloader on Ctrl-C during snapshots stage](https://github.com/erigontech/erigon/pull/22247) - 2026-07-05
+* [Pull Request] [db/kv, db/state: retire commitment-history frozen files by their own window](https://github.com/erigontech/erigon/pull/22243) - 2026-07-05
+* [Review] [Review on: [SharovBot] fix: track MergeLoop goroutine in bgComponentsEg to prevent data race on shutdown](https://github.com/erigontech/erigon/pull/22244#pullrequestreview-4630856980) - 2026-07-05
+* [Commit] [db/state, db/integrity: honor ctx cancellation while opening snapshot files (#22228)](https://github.com/erigontech/erigon/commit/14d51bf0587243d818c992de0e584946538e97d5) - 2026-07-05
+* [Commit] [p2p: make Server.Stop transition exactly-once via CompareAndSwap (#22231)](https://github.com/erigontech/erigon/commit/26c1559cd2c0f10c17cd13fb5ba7ca10528377ef) - 2026-07-05
 ## Q2 2026
 
 

@@ -15,6 +15,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: prune: human-readable aliases for --prune.distance.blocks sentinels](https://github.com/erigontech/erigon/pull/22119#pullrequestreview-4609675627) - 2026-07-01
 * [Commit] [db/snapshotsync, kv/prune: skip downloading old commitment-history snapshots (#21200)](https://github.com/erigontech/erigon/commit/bc4670467cda82bc85ea21b1369b7c9b585c5c8e) - 2026-07-03
 * [Review] [Review on: txnprovider/txpool: don't panic on short genesis in p2p test client](https://github.com/erigontech/erigon/pull/22221#pullrequestreview-4629295372) - 2026-07-04
+* [Review] [Review on: db/state, db/integrity: honor ctx cancellation while opening snapshot files](https://github.com/erigontech/erigon/pull/22228#pullrequestreview-4631457320) - 2026-07-05
+* [Review] [Review on: p2p: make Server.Stop transition exactly-once via CompareAndSwap](https://github.com/erigontech/erigon/pull/22231#pullrequestreview-4631455243) - 2026-07-05
+* [Review] [Review on: cmd/integration: use cobra cmd.Context() instead of re-deriving RootContext per subcommand](https://github.com/erigontech/erigon/pull/22220#pullrequestreview-4631458072) - 2026-07-05
+* [Review] [Review on: rpc/mcp, node/eth: shut down MCP SSE server on ctx cancel](https://github.com/erigontech/erigon/pull/22230#pullrequestreview-4631456817) - 2026-07-05
 ## Q2 2026
 
 

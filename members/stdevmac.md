@@ -13,6 +13,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: Rpc comparison job improvements](https://github.com/NethermindEth/nethermind/pull/12194#pullrequestreview-4613701836) - 2026-07-02
 * [Review] [Review on: ci(rpc-comparison): add -L latest-block pass with head sync](https://github.com/NethermindEth/nethermind/pull/12209#pullrequestreview-4617814164) - 2026-07-02
 * [Review] [Review on: fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update](https://github.com/NethermindEth/nethermind/pull/11995#pullrequestreview-4622373777) - 2026-07-03
+* [Pull Request] [fix(discovery): deflake KademliaAdapterTests ENR refresh tests](https://github.com/NethermindEth/nethermind/pull/12287) - 2026-07-05
+* [Commit] [fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update (#11995)](https://github.com/NethermindEth/nethermind/commit/7e8c1f48101c4db259156336de0dfd1c8d42651a) - 2026-07-05
 ## Q2 2026
 
 

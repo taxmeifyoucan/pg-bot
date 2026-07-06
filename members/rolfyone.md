@@ -23,6 +23,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Added SSZ support for validator balance responses (#10933)](https://github.com/Consensys/teku/commit/5bc468067be816ef4ec8f1e927525d71c56b6a85) - 2026-07-03
 * [Commit] [updated builders endpoint for gloas (#10920)](https://github.com/Consensys/teku/commit/e4fcd58ea2f3635b9c66b5fa5982e3d0a30f7c23) - 2026-07-02
 * [Commit] [updated libp2p (#10925)](https://github.com/Consensys/teku/commit/4842b582fe700fe91141d169df31a14ce6d4ed71) - 2026-07-02
+* [Pull Request] [Fixed dual stack port binding on same port](https://github.com/Consensys/teku/pull/10936) - 2026-07-05
 ## Q2 2026
 
 

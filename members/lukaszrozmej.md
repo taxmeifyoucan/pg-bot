@@ -56,6 +56,14 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: refactor(healthchecks): move background-service startup to a StartHealthChecks step](https://github.com/NethermindEth/nethermind/pull/12253#pullrequestreview-4629098183) - 2026-07-04
 * [Review] [Review on: refactor(optimism): migrate Optimism.InitRpcModules to DI](https://github.com/NethermindEth/nethermind/pull/12252#pullrequestreview-4629100597) - 2026-07-04
 * [Review] [Review on: fix(discovery): handle shutdown cancellation in CallAndWaitForResponse](https://github.com/NethermindEth/nethermind/pull/12248#pullrequestreview-4629102149) - 2026-07-04
+* [Review] [Review on: perf(flat): read the state boundary without materializing a persistence reader](https://github.com/NethermindEth/nethermind/pull/12271#pullrequestreview-4631286524) - 2026-07-05
+* [Review] [Review on: Publish Nethermind.Kademlia package](https://github.com/NethermindEth/nethermind/pull/12259#pullrequestreview-4631296829) - 2026-07-05
+* [Review] [Review on: fix(sync): prevent lost wake-up leaving a peer permanently asleep for a context](https://github.com/NethermindEth/nethermind/pull/12255#pullrequestreview-4631301535) - 2026-07-05
+* [Review] [Review on: refactor(consensus): wire block preprocessor steps through DI](https://github.com/NethermindEth/nethermind/pull/12258#pullrequestreview-4631298155) - 2026-07-05
+* [Review] [Review on: refactor(clique): register RPC module via DI instead of InitRpcModules](https://github.com/NethermindEth/nethermind/pull/12270#pullrequestreview-4631295635) - 2026-07-05
+* [Review] [Review on: fix(evm): weak-key the opcode-table spec cache; guarantee gas-charge inlining](https://github.com/NethermindEth/nethermind/pull/12250#pullrequestreview-4631305823) - 2026-07-05
+* [Review] [Review on: test(sync): unflake BlockDownloaderTests.Merge_Happy_path](https://github.com/NethermindEth/nethermind/pull/12254#pullrequestreview-4631304137) - 2026-07-05
+* [Review] [Review on: ci(expb): fix retrospective pagination drift; allow disabling the flat write-buffer floor](https://github.com/NethermindEth/nethermind/pull/12264#pullrequestreview-4631296260) - 2026-07-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 ## Q2 2026

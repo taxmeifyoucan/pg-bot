@@ -34,6 +34,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Update link to EIP-8282 (#5423)](https://github.com/ethereum/consensus-specs/commit/8a51c626e9deee5de7f2f427b71da30457a1edf8) - 2026-07-03
 * [Commit] [Set `BUILDER_WITHDRAWAL_PREFIX` to 0xB0 (#5416)](https://github.com/ethereum/consensus-specs/commit/6a34a54d95c3f54cfacff6b4b2d771d47a4df6dc) - 2026-07-03
 * [Commit] [Add yaml type representers for uint/boolean values (#5421)](https://github.com/ethereum/consensus-specs/commit/bd454cb0a6cff1b210ea9de208803df4d9966655) - 2026-07-04
+* [Review] [Review on: Update astral-sh/setup-uv action to v8.3.0](https://github.com/ethereum/consensus-specs/pull/5431#pullrequestreview-4632515230) - 2026-07-06
+* [Review] [Review on: Update dependency setuptools to v83](https://github.com/ethereum/consensus-specs/pull/5432#pullrequestreview-4632517348) - 2026-07-06
+* [Review] [Review on: Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414#pullrequestreview-4632513229) - 2026-07-06
+* [Review] [Review on: Ignore instead of reject on preferences](https://github.com/ethereum/consensus-specs/pull/5429#pullrequestreview-4632227072) - 2026-07-05
+* [Review] [Review on: Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422#pullrequestreview-4632238596) - 2026-07-06
 ## Q2 2026
 
 

@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Add EIP: Hash-Chain RANDAO](https://github.com/ethereum/EIPs/pull/11861) - 2026-07-05
 ## Q2 2026
 
 

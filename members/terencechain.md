@@ -46,6 +46,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Surface undefined engine errors from gloas forkchoice updates](https://github.com/OffchainLabs/prysm/pull/17094) - 2026-07-04
 * [Pull Request] [Mark full node gas limit](https://github.com/OffchainLabs/prysm/pull/17093) - 2026-07-04
 * [Commit] [Accept builder preferences without the builder endpoint flag (#17078)](https://github.com/OffchainLabs/prysm/commit/2ef3f2593df1ed069ad6e0644cb7edbcd27fb500) - 2026-07-04
+* [Review] [Review on: Proactively request missing payload envelope at payload-due deadline](https://github.com/OffchainLabs/prysm/pull/16904#pullrequestreview-4631429623) - 2026-07-05
+* [Pull Request] [Ignore signature failures for queued envelopes and payload attestations](https://github.com/OffchainLabs/prysm/pull/17103) - 2026-07-05
+* [Pull Request] [Reset self-build envelope signature failure budget every slot](https://github.com/OffchainLabs/prysm/pull/17104) - 2026-07-05
 ## Q2 2026
 
 

@@ -41,6 +41,25 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(discovery): handle shutdown cancellation in CallAndWaitForResponse](https://github.com/NethermindEth/nethermind/pull/12248#pullrequestreview-4629409027) - 2026-07-04
 * [Review] [Review on: perf(engine): overlap sender recovery with newPayload pre-processing and cache recovered senders](https://github.com/NethermindEth/nethermind/pull/12249#pullrequestreview-4628995030) - 2026-07-04
 * [Commit] [refactor(healthchecks): move background-service startup to a StartHealthChecks step (#12253)](https://github.com/NethermindEth/nethermind/commit/4ff2d180e91bdc90d715bca224d15c717c2b52a5) - 2026-07-04
+* [Review] [Review on: perf(evm): reuse last popped Address to eliminate per-opcode allocation](https://github.com/NethermindEth/nethermind/pull/12286#pullrequestreview-4632435807) - 2026-07-06
+* [Review] [Review on: fix(taiko): resolve one virtual machine identity per Taiko scope](https://github.com/NethermindEth/nethermind/pull/12281#pullrequestreview-4632422976) - 2026-07-06
+* [Review] [Review on: refactor(evm): remove dead RlpCache and the Evm->Trie dependency](https://github.com/NethermindEth/nethermind/pull/12280#pullrequestreview-4632421850) - 2026-07-06
+* [Review] [Review on: perf(sync): anchor forward sync at the download front](https://github.com/NethermindEth/nethermind/pull/12276#pullrequestreview-4632409850) - 2026-07-06
+* [Review] [Review on: fix(sync): heal phantom chain levels on full-sync startup](https://github.com/NethermindEth/nethermind/pull/12274#pullrequestreview-4632345175) - 2026-07-06
+* [Review] [Review on: fix(sync): reconcile lowest inserted beacon header on startup](https://github.com/NethermindEth/nethermind/pull/12273#pullrequestreview-4632333634) - 2026-07-06
+* [Review] [Review on: perf(flat): read the state boundary without materializing a persistence reader](https://github.com/NethermindEth/nethermind/pull/12271#pullrequestreview-4631160749) - 2026-07-05
+* [Review] [Review on: fix(discovery): deflake KademliaAdapterTests ENR refresh tests](https://github.com/NethermindEth/nethermind/pull/12287#pullrequestreview-4632263006) - 2026-07-06
+* [Review] [Review on: refactor(consensus): wire block preprocessor steps through DI](https://github.com/NethermindEth/nethermind/pull/12258#pullrequestreview-4631412134) - 2026-07-05
+* [Pull Request] [refactor(clique): register RPC module via DI instead of InitRpcModules](https://github.com/NethermindEth/nethermind/pull/12270) - 2026-07-05
+* [Review] [Review on: refactor(clique): register RPC module via DI instead of InitRpcModules](https://github.com/NethermindEth/nethermind/pull/12270#pullrequestreview-4631107515) - 2026-07-05
+* [Review] [Review on: fix(sync): recover after unclean shutdown with flat state ahead of head](https://github.com/NethermindEth/nethermind/pull/12260#pullrequestreview-4631106016) - 2026-07-05
+* [Pull Request] [refactor(persistence): delete trie nodes by subtree root, not value range](https://github.com/NethermindEth/nethermind/pull/12269) - 2026-07-05
+* [Pull Request] [refactor(optimism): migrate Optimism.InitRpcModules to DI](https://github.com/NethermindEth/nethermind/pull/12252) - 2026-07-05
+* [Pull Request] [feat(network): trusted & static peers as must-keep, peer-limit accounting cleanup](https://github.com/NethermindEth/nethermind/pull/12196) - 2026-07-05
+* [Commit] [refactor(optimism): migrate Optimism.InitRpcModules to DI (#12252)](https://github.com/NethermindEth/nethermind/commit/669ffa9d6d3a0c045495fa4be776778272c4f50b) - 2026-07-05
+* [Commit] [feat(network): trusted & static peers as must-keep, peer-limit accounting cleanup (#12196)](https://github.com/NethermindEth/nethermind/commit/15a08fb134467c79cd0f7bdeb1fb5b09a2e49734) - 2026-07-05
+* [Commit] [refactor(state): move BestPersistedState from BlockTree to IStateBoundary (#12236)](https://github.com/NethermindEth/nethermind/commit/43206bfb952551767d98107a137ea71c81239695) - 2026-07-05
+* [Commit] [refactor(tracestore): wire the trace RPC override through DI (#12251)](https://github.com/NethermindEth/nethermind/commit/8bd08f641c128ed12c159b32a9110bd2d595e96e) - 2026-07-05
 ## Q2 2026
 
 

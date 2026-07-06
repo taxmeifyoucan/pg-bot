@@ -57,6 +57,8 @@ Team: Reth
 * [Pull Request] [perf(metrics): offload metric rendering](https://github.com/paradigmxyz/reth/pull/26180) - 2026-07-04
 * [Review] [Review on: feat: impl snap client](https://github.com/paradigmxyz/reth/pull/26049#pullrequestreview-4629434401) - 2026-07-04
 * [Pull Request] [perf(eth-wire): preallocate transaction list decodes](https://github.com/paradigmxyz/reth/pull/26164) - 2026-07-04
+* [Review] [Review on: fix(docs): 404 link to TaskExecutor in gRPC server section](https://github.com/paradigmxyz/reth/pull/26214#pullrequestreview-4631403949) - 2026-07-05
+* [Commit] [fix(prune): derive receipts static file size from prune distance (#26108)](https://github.com/paradigmxyz/reth/commit/6bd6bf28a5957868fd3d5ed4a042ba55d40fbd50) - 2026-07-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
