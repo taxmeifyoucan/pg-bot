@@ -30,6 +30,16 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(txpool): single-source pending-delegation accounting through pool events](https://github.com/NethermindEth/nethermind/pull/12205#pullrequestreview-4625300837) - 2026-07-03
 * [Commit] [Update schema generator project coverage (#12207)](https://github.com/NethermindEth/nethermind/commit/47073331297dd62273a305c6005254f44f63e777) - 2026-07-03
 * [Pull Request] [Publish Nethermind.Kademlia package](https://github.com/NethermindEth/nethermind/pull/12259) - 2026-07-04
+* [Review] [Review on: fix(specs): BPO3 inherits BPO2, not Amsterdam; run BPO transition pyspec fixtures](https://github.com/NethermindEth/nethermind/pull/12312#pullrequestreview-4638611021) - 2026-07-06
+* [Review] [Review on: refactor(di): wire block GossipPolicy and ProcessedTransactionsDbCleaner through DI](https://github.com/NethermindEth/nethermind/pull/12299#pullrequestreview-4638560694) - 2026-07-06
+* [Review] [Review on: EIP-8246: Remove SELFDESTRUCT burn](https://github.com/NethermindEth/nethermind/pull/12213#pullrequestreview-4637541600) - 2026-07-06
+* [Pull Request] [Add sparse blob pool](https://github.com/NethermindEth/nethermind/pull/12305) - 2026-07-06
+* [Pull Request] [More RLP checks for txs, receipts, snap](https://github.com/NethermindEth/nethermind/pull/12301) - 2026-07-06
+* [Review] [Review on: refactor(evm): declare the system-transaction validate marker in ExecutionOptions](https://github.com/NethermindEth/nethermind/pull/12285#pullrequestreview-4634320636) - 2026-07-06
+* [Review] [Review on: fix(dns): don't use the udp port as RLPx dial port for ENRs without a tcp entry](https://github.com/NethermindEth/nethermind/pull/12302#pullrequestreview-4636336661) - 2026-07-06
+* [Review] [Review on: perf(evm): batch per-opcode metric counters into a per-transaction flush](https://github.com/NethermindEth/nethermind/pull/12290#pullrequestreview-4634310439) - 2026-07-06
+* [Review] [Review on: Fix background scheduler branch completion](https://github.com/NethermindEth/nethermind/pull/12033#pullrequestreview-4633223057) - 2026-07-06
+* [Commit] [More RLP checks for txs, receipts, snap (#12301)](https://github.com/NethermindEth/nethermind/commit/5f42aedd19e94ef4b6b5299822dc1ea2841010f7) - 2026-07-06
 ## Q2 2026
 
 

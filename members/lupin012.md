@@ -23,9 +23,15 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc/jsonrpc: close getProof's SharedDomains](https://github.com/erigontech/erigon/pull/22210#pullrequestreview-4626272618) - 2026-07-03
 * [Pull Request] [rpc: fix prestate tracer zero slots](https://github.com/erigontech/erigon/pull/22248) - 2026-07-05
 * [Commit] [QA: update hive ref (#22145)](https://github.com/erigontech/erigon/commit/516db8953f4c6c66201479a6a4b3bd4e7598633c) - 2026-07-05
+* [Pull Request] [QA: increase timer sync verify with reference node](https://github.com/erigontech/erigon/pull/22279) - 2026-07-06
+* [Pull Request] [[3.5] QA: Modified default wait sync latest from 10 to 300](https://github.com/erigontech/erigon/pull/22280) - 2026-07-06
+* [Commit] [rpc: use overlay tx in other api using ReadHeader()  (#22140)](https://github.com/erigontech/erigon/commit/464fe05c7f056bda684ed50f5b25d47345d196a4) - 2026-07-06
+* [Commit] [QA: increase timer sync verify with reference node (#22279)](https://github.com/erigontech/erigon/commit/c1044a5cd396fa5867bec112dfe7a8c16fcbddff) - 2026-07-06
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
+* [Pull Request] [integration-tool: Make sync convergence retries configurable (--sync-retries) default 300](https://github.com/erigontech/rpc-tests/pull/584) - 2026-07-06
+* [Commit] [Make sync convergence retries configurable (--sync-retries) (#584)](https://github.com/erigontech/rpc-tests/commit/3b65d00ab70a69ae411e208d36c8c3f788baa607) - 2026-07-06
 ## Q2 2026
 
 

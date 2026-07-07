@@ -15,6 +15,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Commit] [Update EIP-8311: clarify scope of TOTAL_COST_FLOOR_PER_TOKEN change](https://github.com/ethereum/EIPs/commit/fbf0965160e75ed7f0c40c0266de7232a1d2ced8) - 2026-07-01
 * [Commit] [Add EIP: Increase Calldata Floor Cost to 96](https://github.com/ethereum/EIPs/commit/ebba601400ce9e3f8091aaeb5fbb7b6b176ce221) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4617092989) - 2026-07-02
+* [Review] [Review on: Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858#pullrequestreview-4633976676) - 2026-07-06
 ## Q2 2026
 
 

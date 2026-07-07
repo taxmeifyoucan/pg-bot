@@ -22,6 +22,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: include import, trustedNodeSync, deposits to the unified client --help](https://github.com/status-im/nimbus-eth1/pull/4395#pullrequestreview-4624880465) - 2026-07-03
 * [Commit] [Stateless: Fix verifyHeaders to check for contiguous chain (#4400)](https://github.com/status-im/nimbus-eth1/commit/157f96af82584f39f2ea5b9b839f7b8c343b2887) - 2026-07-03
 * [Commit] [stateless: fail block on missing in-range BLOCKHASH (#4407)](https://github.com/status-im/nimbus-eth1/commit/c30cd43fbba3eea331d0a67528b59c72a50eacf4) - 2026-07-04
+
+* [Pull Request] [stateless: fail block on incomplete witness during persist](https://github.com/status-im/nimbus-eth1/pull/4425) - 2026-07-06
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 ## Q2 2026
 
 

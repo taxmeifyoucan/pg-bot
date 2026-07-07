@@ -17,6 +17,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Implement gloas stateless block building api](https://github.com/sigp/lighthouse/pull/9568) - 2026-07-03
 * [Pull Request] [Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573) - 2026-07-04
 * [Review] [Review on: Gloas backfill](https://github.com/sigp/lighthouse/pull/9575#pullrequestreview-4630766546) - 2026-07-05
+* [Pull Request] [construct single attestation directly in the VC](https://github.com/sigp/lighthouse/pull/9578) - 2026-07-06
+* [Pull Request] [Remove attestation to convert work event](https://github.com/sigp/lighthouse/pull/9576) - 2026-07-06
 ## Q2 2026
 
 

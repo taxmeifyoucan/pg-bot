@@ -16,6 +16,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Prune finalized blocks from columnFirstFetched](https://github.com/status-im/nimbus-eth2/pull/8693) - 2026-07-02
 * [Pull Request] [Ensure REST event handler always unregisters from the event queue](https://github.com/status-im/nimbus-eth2/pull/8690) - 2026-07-02
 * [Pull Request] [Only subscribe to each column topic once (2)](https://github.com/status-im/nimbus-eth2/pull/8697) - 2026-07-03
+
+* [Pull Request] [Allow PAYLOAD_DUE_BPS anywhere after AGGREGATE_DUE_BPS_GLOAS](https://github.com/status-im/nimbus-eth2/pull/8705) - 2026-07-06
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630) - 2026-07-06
+* [Commit] [Forward compatible consensus data structures (EIP-7688) (#4630)](https://github.com/ethereum/consensus-specs/commit/bd6df5afe26d56e9ccf623071c3b574a76967ac9) - 2026-07-06
 ## Q2 2026
 
 

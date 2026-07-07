@@ -39,6 +39,15 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414#pullrequestreview-4632513229) - 2026-07-06
 * [Review] [Review on: Ignore instead of reject on preferences](https://github.com/ethereum/consensus-specs/pull/5429#pullrequestreview-4632227072) - 2026-07-05
 * [Review] [Review on: Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422#pullrequestreview-4632238596) - 2026-07-06
+* [Pull Request] [Remove `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD` in Gloas](https://github.com/ethereum/consensus-specs/pull/5436) - 2026-07-06
+* [Pull Request] [Restrict builder withdrawal prefix to 0xB*](https://github.com/ethereum/consensus-specs/pull/5435) - 2026-07-06
+* [Review] [Review on: Restrict builder withdrawal prefix to 0xB*](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4638063341) - 2026-07-06
+* [Review] [Review on: Remove repetitive word in comment](https://github.com/ethereum/consensus-specs/pull/5434#pullrequestreview-4639642246) - 2026-07-06
+* [Review] [Review on: Mandate QUIC as primary transport](https://github.com/ethereum/consensus-specs/pull/5330#pullrequestreview-4638377543) - 2026-07-06
+* [Review] [Review on: Specify the IL-compliance for NOT_VALIDATED payloads](https://github.com/ethereum/consensus-specs/pull/5433#pullrequestreview-4639075535) - 2026-07-06
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 ## Q2 2026
 
 

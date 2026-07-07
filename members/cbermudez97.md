@@ -8,6 +8,11 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 
 ## Contributions
 
+## Q3 2026
+
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [feat(metrics): add basic authentication support for Pushgateway](https://github.com/NethermindEth/nethermind/pull/12313) - 2026-07-06
 ## Q2 2026
 
 

@@ -19,6 +19,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [Prepare schema registry for progressive schemas](https://github.com/Consensys/teku/issues/10930) - 2026-07-02
 * [Review] [Review on: Add progressive SSZ infrastructure types](https://github.com/Consensys/teku/pull/10928#pullrequestreview-4627245526) - 2026-07-03
 * [Review] [Review on: Redesign fork choice abstractions](https://github.com/Consensys/teku/pull/10901#pullrequestreview-4625828695) - 2026-07-03
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 ## Q2 2026
 
 

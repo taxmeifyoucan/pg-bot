@@ -13,6 +13,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Commit] [cmd: add amsterdam override flag (#35213)](https://github.com/ethereum/go-ethereum/commit/7e625dd54822499d7fece76de9850377d65957c4) - 2026-07-01
+* [Commit] [rpc: add --rpc.http-body-limit flag for HTTP request body size (#35224)](https://github.com/ethereum/go-ethereum/commit/7c1959b306fd2094afe353a38577fd929b3624ea) - 2026-07-06
 ## Q2 2026
 
 

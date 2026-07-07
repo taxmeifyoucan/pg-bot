@@ -14,6 +14,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Review] [Review on: perf(precompile): reduce bounds checks in precompile parsing](https://github.com/bluealloy/revm/pull/3784#pullrequestreview-4608007980) - 2026-07-01
 
+* [Commit] [feat(amsterdam): glam devnet-6 gas accounting & EIP alignment (#3782)](https://github.com/bluealloy/revm/commit/8a6b28aa110041c5052cb9730cfe5553703a01ff) - 2026-07-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02

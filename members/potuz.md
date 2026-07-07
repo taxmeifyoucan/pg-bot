@@ -30,11 +30,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Proactively request missing payload envelope at payload-due deadline (#16904)](https://github.com/OffchainLabs/prysm/commit/356724aba6193a711a3cb9097102b44a74bb1ae4) - 2026-07-05
 * [Commit] [Drain pending Gloas data columns for our own proposed block (#17059)](https://github.com/OffchainLabs/prysm/commit/f51bc90d8e1cc3fa6336ec9c50cb45520d16d777) - 2026-07-05
 * [Commit] [Remove proposer id cache (#16582)](https://github.com/OffchainLabs/prysm/commit/5ae4d69f39210a03442058318d42c7a70bca6d78) - 2026-07-05
+* [Pull Request] [Call FCU once per batch on init-sync](https://github.com/OffchainLabs/prysm/pull/17109) - 2026-07-06
+* [Review] [Review on: Fall back to finalized dependent root when the fork-choice head is pruned](https://github.com/OffchainLabs/prysm/pull/17060#pullrequestreview-4636337184) - 2026-07-06
+* [Commit] [Call FCU once per batch on init-sync (#17109)](https://github.com/OffchainLabs/prysm/commit/360e912482e3789b8cc32b3c7eccb7931ec412a4) - 2026-07-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
 * [Pull Request] [Ignore instead of reject on preferences](https://github.com/ethereum/consensus-specs/pull/5429) - 2026-07-04
 
+* [Commit] [Ignore instead of reject on preferences (#5429)](https://github.com/ethereum/consensus-specs/commit/853c5856ea8d82c1b2144f0fe6cdc8769424bf3a) - 2026-07-06
+* [Commit] [Set payload deadline to 6 seconds into the slot (#5414)](https://github.com/ethereum/consensus-specs/commit/5d60f97152d8f307cd7de6eae17bb1e058796de6) - 2026-07-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629311315) - 2026-07-04
 ## Q2 2026

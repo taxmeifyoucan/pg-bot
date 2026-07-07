@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 ## Contributions
 
+## Q3 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [2026-07-07 Contributor Call](https://github.com/besu-eth/besu/issues/10756) - 2026-07-06
 ## Q2 2026
 
 

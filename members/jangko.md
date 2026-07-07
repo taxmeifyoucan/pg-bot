@@ -23,6 +23,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Test evmstate against EEST and remove test_generalstate_json (#4398)](https://github.com/status-im/nimbus-eth1/commit/58a9f54d74346ee89b39240305ef561f2ea22ade) - 2026-07-03
 * [Commit] [Test t8n against EEST (#4392)](https://github.com/status-im/nimbus-eth1/commit/0af6257a5c1d3694a59cd12439e3e5ccb6c368df) - 2026-07-03
 * [Commit] [Update EEST mainnet fixtures to v20.0.0 (#4406)](https://github.com/status-im/nimbus-eth1/commit/9893c5d006259ce4702ba0a93e8832c7ef9a8193) - 2026-07-04
+* [Review] [Review on: add metrics to the txpool & fix sender cleaning](https://github.com/status-im/nimbus-eth1/pull/4418#pullrequestreview-4636650113) - 2026-07-06
+* [Pull Request] [Fix evmstate tool memory leak](https://github.com/status-im/nimbus-eth1/pull/4417) - 2026-07-06
+* [Commit] [Fix evmstate tool memory leak (#4417)](https://github.com/status-im/nimbus-eth1/commit/d893848ca860f6f2d505488cdeb9f03cb1a81388) - 2026-07-06
 ## Q2 2026
 
 

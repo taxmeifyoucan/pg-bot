@@ -49,6 +49,19 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Proactively request missing payload envelope at payload-due deadline](https://github.com/OffchainLabs/prysm/pull/16904#pullrequestreview-4631429623) - 2026-07-05
 * [Pull Request] [Ignore signature failures for queued envelopes and payload attestations](https://github.com/OffchainLabs/prysm/pull/17103) - 2026-07-05
 * [Pull Request] [Reset self-build envelope signature failure budget every slot](https://github.com/OffchainLabs/prysm/pull/17104) - 2026-07-05
+
+* [Review] [Review on: Count PTC votes from duplicated validators](https://github.com/OffchainLabs/prysm/pull/17028#pullrequestreview-4637897800) - 2026-07-06
+* [Review] [Review on: Mark full node gas limit](https://github.com/OffchainLabs/prysm/pull/17093#pullrequestreview-4639427695) - 2026-07-06
+* [Pull Request] [Order Gloas before Fulu in gossip block topic mapping](https://github.com/OffchainLabs/prysm/pull/17114) - 2026-07-06
+* [Pull Request] [Re-verify builder deposit signatures when in-batch index reuse evicts a pubkey](https://github.com/OffchainLabs/prysm/pull/17111) - 2026-07-06
+* [Commit] [Apply fork choice PTC votes for REST-submitted payload attestations (#17100)](https://github.com/OffchainLabs/prysm/commit/d2f40ea7f4e438dffbea8912f542fabff7dfbf59) - 2026-07-07
+* [Commit] [Copy payload attestations out of the pool to prevent in-place aggregation races (#17099)](https://github.com/OffchainLabs/prysm/commit/60b4b9e00aa8967f021e87094cc23f9432ef0c8d) - 2026-07-06
+* [Commit] [Surface undefined engine errors from gloas forkchoice updates (#17094)](https://github.com/OffchainLabs/prysm/commit/11498c5ccfe296bdc8cbac55cfe1dbc1b7af0b3a) - 2026-07-06
+* [Commit] [Ignore signature failures for queued envelopes and payload attestations (#17103)](https://github.com/OffchainLabs/prysm/commit/b894b041ac46f6f5c3e06a009ed84ccb5a6129f5) - 2026-07-06
+* [Commit] [Compute validator mid-slot delay from SLOT_DURATION_MS (#17098)](https://github.com/OffchainLabs/prysm/commit/77af1bebb62b05eaff13ea9964cf42a6575d70ed) - 2026-07-06
+* [Commit] [Skip nil builder entries in builderInsertionIndex (#17096)](https://github.com/OffchainLabs/prysm/commit/c097542f3c87788f62f147f283064ea3202b8d86) - 2026-07-06
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 ## Q2 2026
 
 

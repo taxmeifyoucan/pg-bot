@@ -19,6 +19,8 @@ Team: Erigon
 * [Issue] [Parallel exec: calcFees coinbase==burnt exclusivity should match serial on burnt-contract chains](https://github.com/erigontech/erigon/issues/22224) - 2026-07-03
 * [Issue] [Rationalize normalizeWriteSet: collapse its 7 write-set passes (behavior-preserving)](https://github.com/erigontech/erigon/issues/22216) - 2026-07-03
 * [Issue] [Clearing account code to empty leaves stale CodeDomain entry (codeHash mismatch / INVALID under ERIGON_ASSERT)](https://github.com/erigontech/erigon/issues/22204) - 2026-07-03
+* [Review] [Review on: execution/cache, execution/commitment, db/state: consolidate cache stack (freelru + persistent code cache)](https://github.com/erigontech/erigon/pull/22154#pullrequestreview-4635548666) - 2026-07-06
+* [Commit] [execution/state: typed-vio refactor (L2 — typed AddressEntry + WriteCell[T] + sync.Pool) (#21536)](https://github.com/erigontech/erigon/commit/1f0f5b3e7add57383792746edbe3c0412f788523) - 2026-07-06
 ## Q2 2026
 
 

@@ -65,6 +65,22 @@ Team: Erigon
 * [Review] [Review on: [SharovBot] fix: track MergeLoop goroutine in bgComponentsEg to prevent data race on shutdown](https://github.com/erigontech/erigon/pull/22244#pullrequestreview-4630856980) - 2026-07-05
 * [Commit] [db/state, db/integrity: honor ctx cancellation while opening snapshot files (#22228)](https://github.com/erigontech/erigon/commit/14d51bf0587243d818c992de0e584946538e97d5) - 2026-07-05
 * [Commit] [p2p: make Server.Stop transition exactly-once via CompareAndSwap (#22231)](https://github.com/erigontech/erigon/commit/26c1559cd2c0f10c17cd13fb5ba7ca10528377ef) - 2026-07-05
+* [Review] [Review on: db/kv/kvcache: rename SimpleCache to LatestBatchCache](https://github.com/erigontech/erigon/pull/22278#pullrequestreview-4641040099) - 2026-07-07
+* [Review] [Review on: db/state: fix FilesAmount data race with background file integration](https://github.com/erigontech/erigon/pull/22264#pullrequestreview-4635796050) - 2026-07-06
+* [Review] [Review on: db/snapshotsync: remove overlapping caplin state snapshots on retire](https://github.com/erigontech/erigon/pull/22256#pullrequestreview-4633841634) - 2026-07-06
+* [Review] [Review on: db/kv, db/state: retire commitment-history frozen files by their own window](https://github.com/erigontech/erigon/pull/22243#pullrequestreview-4634244163) - 2026-07-06
+* [Review] [Review on: execution/commitment: fold fresh whales concurrently via proven-empty storage seed](https://github.com/erigontech/erigon/pull/22263#pullrequestreview-4635004845) - 2026-07-06
+* [Review] [Review on: execution/commitment: consume ModeParallel updates per Process and forward re-touches](https://github.com/erigontech/erigon/pull/22258#pullrequestreview-4635786910) - 2026-07-06
+* [Review] [Review on: db/datastruct/fusefilter: run FuzzWriterRoundTrip round-trip in memory](https://github.com/erigontech/erigon/pull/22255#pullrequestreview-4633887065) - 2026-07-06
+* [Review] [Review on: p2p/enode: close sources added after FairMix shutdown](https://github.com/erigontech/erigon/pull/22249#pullrequestreview-4633338445) - 2026-07-06
+* [Pull Request] [txnprovider/txpool: skip periodic remote-txn flush lock-free when nothing buffered](https://github.com/erigontech/erigon/pull/22252) - 2026-07-06
+* [Review] [Review on: [r3.5] cmd/integration: collate state files incrementally in parallel stage_exec](https://github.com/erigontech/erigon/pull/22262#pullrequestreview-4634992359) - 2026-07-06
+* [Review] [Review on: [r3.5] stagedsync: fix log index reset and missing notifications in parallel execution](https://github.com/erigontech/erigon/pull/22155#pullrequestreview-4634238712) - 2026-07-06
+* [Commit] [db/kv, db/state: retire commitment-history frozen files by their own window (#22243)](https://github.com/erigontech/erigon/commit/443a72dafff78f48240d5fadc544a94e706eb845) - 2026-07-06
+* [Commit] [build: update deps before release/3.6 (#22232)](https://github.com/erigontech/erigon/commit/73ec1698cbee0276212c6c5fa9f414b93b474af2) - 2026-07-06
+* [Commit] [db/state: integrate + cleanAfterMerge under a single dirtyFilesLock (#22238)](https://github.com/erigontech/erigon/commit/7cd925e620a71fe4304ded5a36d027b8450c94dd) - 2026-07-06
+* [Commit] [backend.go: nil-ptr on Ctrl-C at startup (#22247)](https://github.com/erigontech/erigon/commit/5d11369a26293e433fd1d5987f4b762b6e6ab9a4) - 2026-07-06
+* [Commit] [cmd/integration: use cobra cmd.Context() instead of re-deriving RootContext per subcommand (#22220)](https://github.com/erigontech/erigon/commit/7f06704d663db38d2f13f64ca3ec5bf0456e75b2) - 2026-07-06
 ## Q2 2026
 
 

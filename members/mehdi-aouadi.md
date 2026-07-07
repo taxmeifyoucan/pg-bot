@@ -16,6 +16,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Handle peers without Discovery NodeId in a correct way](https://github.com/Consensys/teku/pull/10913#pullrequestreview-4618463308) - 2026-07-02
 * [Review] [Review on: Fix cgc from ENR wasn't checked for overflow](https://github.com/Consensys/teku/pull/10922#pullrequestreview-4618354104) - 2026-07-02
 * [Review] [Review on: Fix BLST batch semi-aggregate merging to avoid throw on invalid](https://github.com/Consensys/teku/pull/10923#pullrequestreview-4618311162) - 2026-07-02
+* [Review] [Review on: add a Gloas builder circuit breaker](https://github.com/Consensys/teku/pull/10911#pullrequestreview-4636402209) - 2026-07-06
+* [Pull Request] [validate exeution payload block hash](https://github.com/Consensys/teku/pull/10938) - 2026-07-06
+* [Issue] [Deprecate the legacy circuit breaker options and implementations](https://github.com/Consensys/teku/issues/10940) - 2026-07-06
 ## Q2 2026
 
 

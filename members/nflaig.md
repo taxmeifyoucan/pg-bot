@@ -50,6 +50,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: remove parent_block_number from payload_attributes event post-gloas](https://github.com/ChainSafe/lodestar/pull/9592) - 2026-07-05
 * [Review] [Review on: fix: remove parent_block_number from payload_attributes event post-gloas](https://github.com/ChainSafe/lodestar/pull/9592#pullrequestreview-4631100999) - 2026-07-05
 * [Review] [Review on: fix: keep persistedKey when re-adding a reloaded checkpoint state](https://github.com/ChainSafe/lodestar/pull/9557#pullrequestreview-4631124997) - 2026-07-05
+* [Review] [Review on: feat: append CL/EL client info to graffiti](https://github.com/ChainSafe/lodestar/pull/9599#pullrequestreview-4632562260) - 2026-07-06
+* [Review] [Review on: docs: mention graffiti append option](https://github.com/ChainSafe/lodestar/pull/9604#pullrequestreview-4639795238) - 2026-07-06
+* [Review] [Review on: fix: namespace graffiti append cli option](https://github.com/ChainSafe/lodestar/pull/9603#pullrequestreview-4637564175) - 2026-07-06
+* [Review] [Review on: chore(deps): bump the actions group with 6 updates](https://github.com/ChainSafe/lodestar/pull/9602#pullrequestreview-4637555430) - 2026-07-06
+* [Commit] [fix: prune old proposer preferences submissions (#9591)](https://github.com/ChainSafe/lodestar/commit/c6b2b7f1baede3cd759dddf8bd039042388f4585) - 2026-07-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -60,8 +65,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 * [Review] [Review on: Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414#pullrequestreview-4632509416) - 2026-07-06
 * [Review] [Review on: Ignore instead of reject on preferences](https://github.com/ethereum/consensus-specs/pull/5429#pullrequestreview-4632508074) - 2026-07-06
+* [Review] [Review on: Restrict builder withdrawal prefix to 0xB*](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4637975197) - 2026-07-06
+* [Review] [Review on: Require imported payload for `index == 1` attestation gossip](https://github.com/ethereum/consensus-specs/pull/5355#pullrequestreview-4637673087) - 2026-07-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
+* [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
 ## Q2 2026
 
 

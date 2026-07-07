@@ -19,6 +19,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Clear empty accounts when applying partial BAL writes (glamsterdam-devnet-6)](https://github.com/besu-eth/besu/pull/10744#pullrequestreview-4626689837) - 2026-07-03
 * [Pull Request] [EIP-7954: raise Amsterdam max code/initcode size to 64KiB/128KiB](https://github.com/besu-eth/besu/pull/10742) - 2026-07-03
 * [Pull Request] [EIP-8282: builder deposit and exit execution requests for Amsterdam](https://github.com/besu-eth/besu/pull/10743) - 2026-07-03
+* [Pull Request] [build: provide solc directly instead of via the broken web3j-sokt release index](https://github.com/besu-eth/besu/pull/10755) - 2026-07-06
+* [Commit] [build: provide solc directly instead of via the broken web3j-sokt release index (#10755)](https://github.com/besu-eth/besu/commit/4308396c26de57bf263bd2acf4dbd8f6a3f22bbd) - 2026-07-06
 ## Q2 2026
 
 

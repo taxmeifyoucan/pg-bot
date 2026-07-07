@@ -16,6 +16,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: fix start synchronizer when](https://github.com/besu-eth/besu/pull/10677#pullrequestreview-4610664794) - 2026-07-01
 * [Pull Request] [[IGNORE] Testing AT duration](https://github.com/besu-eth/besu/pull/10728) - 2026-07-02
 * [Pull Request] [Slow block tracer](https://github.com/besu-eth/besu/pull/10746) - 2026-07-03
+* [Review] [Review on: Slow block tracer](https://github.com/besu-eth/besu/pull/10746#pullrequestreview-4637032801) - 2026-07-06
+* [Review] [Review on: build: provide solc directly instead of via the broken web3j-sokt release index](https://github.com/besu-eth/besu/pull/10755#pullrequestreview-4639406383) - 2026-07-06
+* [Review] [Review on: gha-overhaul](https://github.com/besu-eth/besu/pull/10653#pullrequestreview-4639263138) - 2026-07-06
 ## Q2 2026
 
 

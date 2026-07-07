@@ -13,6 +13,9 @@ Team: EthereumJS
 
 [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
 * [Pull Request] [chore: update dev fixtures to glamsterdam-devnet@v6.1.1](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4336) - 2026-07-04
+* [Pull Request] [evm/vm/tx/common: align Amsterdam gas schedule ](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4337) - 2026-07-06
+* [Pull Request] [feat: eip 8282 builder requests](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4339) - 2026-07-06
+* [Pull Request] [evm/vm/common: implement EIP-8246 SELFDESTRUCT no burn (Amsterdam)](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4338) - 2026-07-06
 ## Q2 2026
 
 

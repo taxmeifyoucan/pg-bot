@@ -17,6 +17,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Publish Nethermind.Kademlia package](https://github.com/NethermindEth/nethermind/pull/12259#pullrequestreview-4630141900) - 2026-07-04
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12267#pullrequestreview-4631036960) - 2026-07-05
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12266#pullrequestreview-4631036038) - 2026-07-05
+* [Pull Request] [feat(tools): Extract stateless inputs from EEST fixtures](https://github.com/NethermindEth/nethermind/pull/12306) - 2026-07-06
 ## Q2 2026
 
 

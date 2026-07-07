@@ -16,8 +16,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: rework builder handling to render builders with re-used indexes properly](https://github.com/ethpandaops/dora/pull/783#pullrequestreview-4626167712) - 2026-07-03
 * [Review] [Review on: Improve state transition performance](https://github.com/ethpandaops/dora/pull/782#pullrequestreview-4626169724) - 2026-07-03
 
+* [Pull Request] [change builder withdrawal prefix from 0x03 to 0xB0](https://github.com/ethpandaops/dora/pull/789) - 2026-07-06
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Pull Request] [change builder withdrawal prefix from 0x03 to 0xB0](https://github.com/ethpandaops/assertoor/pull/206) - 2026-07-06
+* [Commit] [Merge pull request #206 from ethpandaops/bbusa/builder-prefix-0xb0](https://github.com/ethpandaops/assertoor/commit/853b69636c42c6e656f2ff3f7687d0a45be6bcd4) - 2026-07-06
+* [Commit] [change builder withdrawal prefix from 0x03 to 0xB0](https://github.com/ethpandaops/assertoor/commit/7e04356282edadc885809d509f72e81fe3671fbf) - 2026-07-06
 ## Q2 2026
 
 

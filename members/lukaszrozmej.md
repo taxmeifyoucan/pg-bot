@@ -64,6 +64,16 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(evm): weak-key the opcode-table spec cache; guarantee gas-charge inlining](https://github.com/NethermindEth/nethermind/pull/12250#pullrequestreview-4631305823) - 2026-07-05
 * [Review] [Review on: test(sync): unflake BlockDownloaderTests.Merge_Happy_path](https://github.com/NethermindEth/nethermind/pull/12254#pullrequestreview-4631304137) - 2026-07-05
 * [Review] [Review on: ci(expb): fix retrospective pagination drift; allow disabling the flat write-buffer floor](https://github.com/NethermindEth/nethermind/pull/12264#pullrequestreview-4631296260) - 2026-07-05
+* [Pull Request] [perf(evm): execute STATICCALL precompiles inline, skipping the child frame](https://github.com/NethermindEth/nethermind/pull/12297) - 2026-07-06
+* [Pull Request] [perf(evm): cache the last ECRecover result per thread](https://github.com/NethermindEth/nethermind/pull/12296) - 2026-07-06
+* [Review] [Review on: refactor(init): remove InitRpcModules plugin hook](https://github.com/NethermindEth/nethermind/pull/12294#pullrequestreview-4634855898) - 2026-07-06
+* [Review] [Review on: refactor(evm): declare the system-transaction validate marker in ExecutionOptions](https://github.com/NethermindEth/nethermind/pull/12285#pullrequestreview-4635103632) - 2026-07-06
+* [Review] [Review on: test(evm): differential test net for the simple-transfer fast path](https://github.com/NethermindEth/nethermind/pull/12278#pullrequestreview-4634176142) - 2026-07-06
+* [Review] [Review on: perf(evm): batch per-opcode metric counters into a per-transaction flush](https://github.com/NethermindEth/nethermind/pull/12290#pullrequestreview-4633926984) - 2026-07-06
+* [Review] [Review on: perf(evm): reuse the EIP-7702 delegation lookup from validation](https://github.com/NethermindEth/nethermind/pull/12283#pullrequestreview-4634092694) - 2026-07-06
+* [Review] [Review on: fix(flatdb): lease the read-only bundle for in-flight trie warmer jobs](https://github.com/NethermindEth/nethermind/pull/12237#pullrequestreview-4634527764) - 2026-07-06
+* [Review] [Review on: fix(sync): prevent lost wake-up leaving a peer permanently asleep for a context](https://github.com/NethermindEth/nethermind/pull/12255#pullrequestreview-4634300106) - 2026-07-06
+* [Review] [Review on: perf(evm): reuse last popped Address to eliminate per-opcode allocation](https://github.com/NethermindEth/nethermind/pull/12286#pullrequestreview-4634050668) - 2026-07-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 ## Q2 2026

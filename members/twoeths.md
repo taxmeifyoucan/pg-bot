@@ -19,6 +19,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(shuffling-cache): add 'has' api to shuffling cache](https://github.com/ChainSafe/lodestar/pull/9579#pullrequestreview-4624296302) - 2026-07-03
 * [Commit] [fix: ensure PayloadEnvelopeInput in cache whenever we have a block (#9476)](https://github.com/ChainSafe/lodestar/commit/51a1c44b27069d392acdbd2c09a838da9b336eba) - 2026-07-04
 * [Commit] [fix: avoid removed sync chain references (#9568)](https://github.com/ChainSafe/lodestar/commit/2e1d834bb9bdfbfc050628171153f6110931d2ca) - 2026-07-05
+* [Pull Request] [perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601) - 2026-07-06
+* [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4634485849) - 2026-07-06
+* [Review] [Review on: fix: prune old proposer preferences submissions](https://github.com/ChainSafe/lodestar/pull/9591#pullrequestreview-4636009695) - 2026-07-06
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

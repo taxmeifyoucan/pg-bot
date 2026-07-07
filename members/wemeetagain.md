@@ -13,6 +13,20 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Add EIP: Builder Execution Requests](https://github.com/ethereum/EIPs/commit/de4c6f02c7bec4686762c55f8ab6abcf97a77d7d) - 2026-07-03
+
+* [Pull Request] [Add EIP: Align Checkpoint with Epoch Boundary Block](https://github.com/ethereum/EIPs/pull/11871) - 2026-07-06
+* [Pull Request] [Update EIP-8282: Reduce verbosity, defer consensus-layer detail to consensus-specs](https://github.com/ethereum/EIPs/pull/11869) - 2026-07-06
+* [Review] [Review on: Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859#pullrequestreview-4638077993) - 2026-07-06
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Review] [Review on: fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460#pullrequestreview-4639587158) - 2026-07-06
+* [Review] [Review on: fix: state transition binding exports](https://github.com/ChainSafe/lodestar-z/pull/456#pullrequestreview-4639596235) - 2026-07-06
+* [Review] [Review on: refactor(clock): single public Clock; internalize SlotClock](https://github.com/ChainSafe/lodestar-z/pull/463#pullrequestreview-4639557094) - 2026-07-06
 ## Q2 2026
 
 

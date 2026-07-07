@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Fix BLST batch semi-aggregate merging to avoid throw on invalid (#10923)](https://github.com/Consensys/teku/commit/7abe75c0bdd94e52c16ae61f2e3d21f62d87f6aa) - 2026-07-03
 * [Commit] [Fix maxSlot overflow in all byRange handlers (#10924)](https://github.com/Consensys/teku/commit/82cc7904036b23ccf9790abeae9f66665841ac58) - 2026-07-03
 * [Review] [Review on: add a Gloas builder circuit breaker](https://github.com/Consensys/teku/pull/10911#pullrequestreview-4631269081) - 2026-07-05
+* [Pull Request] [Handle worker failure in AggregatingSignatureVerificationService](https://github.com/Consensys/teku/pull/10939) - 2026-07-06
 ## Q2 2026
 
 

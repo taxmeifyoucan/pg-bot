@@ -26,6 +26,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Add Gloas Builder-API bid selection and block submission](https://github.com/OffchainLabs/prysm/pull/17067#pullrequestreview-4618466005) - 2026-07-02
 * [Review] [Review on: making proposer preferences repush on reconnection to different node](https://github.com/OffchainLabs/prysm/pull/17066#pullrequestreview-4618213501) - 2026-07-02
 * [Commit] [removing parent block number post gloas (#17037)](https://github.com/OffchainLabs/prysm/commit/fbfc449591c422b39c8f0adcc4b3cd9bb0c9a01a) - 2026-07-03
+* [Review] [Review on: Apply fork choice PTC votes for REST-submitted payload attestations](https://github.com/OffchainLabs/prysm/pull/17100#pullrequestreview-4636801440) - 2026-07-06
+* [Review] [Review on: Copy payload attestations out of the pool to prevent in-place aggregation races](https://github.com/OffchainLabs/prysm/pull/17099#pullrequestreview-4637326633) - 2026-07-06
+* [Review] [Review on: Ignore signature failures for queued envelopes and payload attestations](https://github.com/OffchainLabs/prysm/pull/17103#pullrequestreview-4637040987) - 2026-07-06
+* [Review] [Review on: Refactor validator client and REST package for better readability](https://github.com/OffchainLabs/prysm/pull/17091#pullrequestreview-4639703849) - 2026-07-06
+* [Review] [Review on: making proposer preferences repush on reconnection to different node](https://github.com/OffchainLabs/prysm/pull/17066#pullrequestreview-4636679657) - 2026-07-06
+* [Review] [Review on: Order Gloas before Fulu in gossip block topic mapping](https://github.com/OffchainLabs/prysm/pull/17114#pullrequestreview-4638573200) - 2026-07-06
 ## Q2 2026
 
 

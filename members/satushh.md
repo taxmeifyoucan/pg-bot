@@ -18,6 +18,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Log failed validator block builds as failures](https://github.com/OffchainLabs/prysm/pull/17088) - 2026-07-03
 * [Review] [Review on: Recover from nil headblock in db at startup](https://github.com/OffchainLabs/prysm/pull/17087#pullrequestreview-4625364188) - 2026-07-03
 * [Review] [Review on: Payload reorg](https://github.com/OffchainLabs/prysm/pull/16933#pullrequestreview-4624301465) - 2026-07-03
+* [Pull Request] [Nil headblock guard](https://github.com/OffchainLabs/prysm/pull/17110) - 2026-07-06
 ## Q2 2026
 
 

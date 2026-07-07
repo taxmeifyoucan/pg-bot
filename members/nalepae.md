@@ -18,6 +18,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Recover from nil headblock in db at startup](https://github.com/OffchainLabs/prysm/pull/17087#pullrequestreview-4625262692) - 2026-07-03
 * [Review] [Review on: Add flag documentation for `--beacon-rest-api-provider`: it accepts comma-separated endpoints for ordered failover](https://github.com/OffchainLabs/prysm/pull/17084#pullrequestreview-4623838342) - 2026-07-03
 * [Review] [Review on: making proposer preferences repush on reconnection to different node](https://github.com/OffchainLabs/prysm/pull/17066#pullrequestreview-4623996425) - 2026-07-03
+* [Review] [Review on: Call FCU once per batch on init-sync](https://github.com/OffchainLabs/prysm/pull/17109#pullrequestreview-4636280767) - 2026-07-06
+* [Review] [Review on: Run `isAggregator` check concurrently in `validator.subscribeToSubnets` method body](https://github.com/OffchainLabs/prysm/pull/17085#pullrequestreview-4634384461) - 2026-07-06
+* [Review] [Review on: VC logging: Correctly populate attestation data as a key](https://github.com/OffchainLabs/prysm/pull/17081#pullrequestreview-4634879243) - 2026-07-06
+* [Review] [Review on: Fix race condition for RW operation of REST handler host](https://github.com/OffchainLabs/prysm/pull/17092#pullrequestreview-4633895751) - 2026-07-06
+* [Review] [Review on: VC logging: Consolidate verbose logging messages after submitting messages for duties](https://github.com/OffchainLabs/prysm/pull/17083#pullrequestreview-4633915325) - 2026-07-06
 ## Q2 2026
 
 

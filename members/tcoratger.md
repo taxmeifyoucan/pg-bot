@@ -31,6 +31,17 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [fix(whir): update prescribed-point adapter to pruned multiproof API (#1915)](https://github.com/Plonky3/Plonky3/commit/038743156fbe87e3f1b1d704bab64c9738dfb6a2) - 2026-07-03
 * [Commit] [whir: pruned Merkle multiproofs for STIR query openings (#1805)](https://github.com/Plonky3/Plonky3/commit/1149a46254607cca85ec5b0af68ffe8a5da0d1bc) - 2026-07-03
 * [Pull Request] [perf(merkle-tree): optimal frontier pruning for multi-opening proofs](https://github.com/Plonky3/Plonky3/pull/1919) - 2026-07-04
+* [Review] [Review on: perf(keccak): add plain-NEON 2-wide backend for non-SHA3 aarch64](https://github.com/Plonky3/Plonky3/pull/1925#pullrequestreview-4640095071) - 2026-07-06
+* [Pull Request] [fix(monolith-air): guard match-flag batching precondition, correct docs](https://github.com/Plonky3/Plonky3/pull/1929) - 2026-07-06
+* [Review] [Review on: perf(monolith-air): more efficient AIR layout and trace generation](https://github.com/Plonky3/Plonky3/pull/1924#pullrequestreview-4639985537) - 2026-07-06
+* [Review] [Review on: perf(circle): precompute per-query FRI twiddle chain, hoist verifier-side redundant work](https://github.com/Plonky3/Plonky3/pull/1922#pullrequestreview-4639581734) - 2026-07-06
+* [Review] [Review on: perf(monolith): precompute Cauchy MDS matrix, use Karatsuba for Goldilocks Concrete](https://github.com/Plonky3/Plonky3/pull/1928#pullrequestreview-4639577490) - 2026-07-06
+* [Review] [Review on: perf(goldilocks): speed-up NEON Poseidon2 lanes and remove `MdsMatrixGoldilocks` redundant DFT](https://github.com/Plonky3/Plonky3/pull/1927#pullrequestreview-4639474414) - 2026-07-06
+* [Review] [Review on: refactor: couple API changes](https://github.com/Plonky3/Plonky3/pull/1926#pullrequestreview-4639335999) - 2026-07-06
+* [Review] [Review on: perf(keccak-air): cut redundant packed muls in `eval()` and dedupe padding trace gen](https://github.com/Plonky3/Plonky3/pull/1923#pullrequestreview-4639265691) - 2026-07-06
+* [Review] [Review on: fix: patch merkle-tree soundness gap and cleanup some quality findings](https://github.com/Plonky3/Plonky3/pull/1921#pullrequestreview-4636073327) - 2026-07-06
+* [Review] [Review on: fix: doc and light tweaks](https://github.com/Plonky3/Plonky3/pull/1920#pullrequestreview-4635476492) - 2026-07-06
+* [Commit] [perf(merkle-tree): optimal frontier pruning for multi-opening proofs (#1919)](https://github.com/Plonky3/Plonky3/commit/e1eca997f41218c0a43dbbb14ac3950b54666117) - 2026-07-06
 ## Q2 2026
 
 

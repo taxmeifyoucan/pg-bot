@@ -55,6 +55,25 @@ Team: Erigon
 * [Commit] [execution/commitment: cache nibblized keccak(addr) for storage keys (#22185)](https://github.com/erigontech/erigon/commit/1f4d702de630cf0bc2f1b2534a743b31a6c6e9e1) - 2026-07-03
 * [Commit] [db/state, db/config3: erigondb.toml as source of truth for commitment branch referencing (#21452)](https://github.com/erigontech/erigon/commit/499ec24a7f3b132f215b60e4327b185677581a77) - 2026-07-03
 * [Commit] [execution/commitment: fix parallel/streaming deep-fold correctness bugs (#22184)](https://github.com/erigontech/erigon/commit/4dabd221e56785e9d93d4797ec1883493a09d611) - 2026-07-03
+* [Pull Request] [execution/commitment: collect ModeDirect touches in memory, sort without etl round-trip](https://github.com/erigontech/erigon/pull/22267) - 2026-07-06
+* [Pull Request] [execution/commitment, db/state: carry write values into the ModeDirect fold](https://github.com/erigontech/erigon/pull/22268) - 2026-07-06
+* [Pull Request] [execution/commitment: cut GC object churn in leaf hashing and touch collection](https://github.com/erigontech/erigon/pull/22270) - 2026-07-06
+* [Pull Request] [execution/commitment: fix trie state round-trip for propagate-folded roots](https://github.com/erigontech/erigon/pull/22257) - 2026-07-06
+* [Review] [Review on: [SharovBot] execution/commitment: fix flaky TestBranchCache_Unwind tests (capacity-1 LRU shards)](https://github.com/erigontech/erigon/pull/22222#pullrequestreview-4638075329) - 2026-07-06
+* [Review] [Review on: execution/builder, rpc/jsonrpc: detach payload builds and getProof from the shared BranchCache](https://github.com/erigontech/erigon/pull/22198#pullrequestreview-4637882724) - 2026-07-06
+* [Pull Request] [db/snapshotsync: remove overlapping caplin state snapshots on retire](https://github.com/erigontech/erigon/pull/22256) - 2026-07-06
+* [Review] [Review on: db/snapshotsync: remove overlapping caplin state snapshots on retire](https://github.com/erigontech/erigon/pull/22256#pullrequestreview-4633884516) - 2026-07-06
+* [Review] [Review on: build: update deps before release/3.6](https://github.com/erigontech/erigon/pull/22232#pullrequestreview-4633695416) - 2026-07-06
+* [Pull Request] [execution/commitment: fold fresh whales concurrently via proven-empty storage seed](https://github.com/erigontech/erigon/pull/22263) - 2026-07-06
+* [Pull Request] [execution/commitment: consume ModeParallel updates per Process and forward re-touches](https://github.com/erigontech/erigon/pull/22258) - 2026-07-06
+* [Pull Request] [cl: bound caplin archive blob-column backfill so it can't wedge on Fulu](https://github.com/erigontech/erigon/pull/22266) - 2026-07-06
+* [Review] [Review on: cl: bound caplin archive blob-column backfill so it can't wedge on Fulu](https://github.com/erigontech/erigon/pull/22266#pullrequestreview-4636492068) - 2026-07-06
+* [Pull Request] [execution/commitment: cut deferred branch update staging and handoff overhead](https://github.com/erigontech/erigon/pull/22265) - 2026-07-06
+* [Review] [Review on: db/state: integrate + cleanAfterMerge under a single dirtyFilesLock](https://github.com/erigontech/erigon/pull/22238#pullrequestreview-4633663921) - 2026-07-06
+* [Review] [Review on: backend.go: nil-ptr on Ctrl-C at startup](https://github.com/erigontech/erigon/pull/22247#pullrequestreview-4633658168) - 2026-07-06
+* [Commit] [db/snapshotsync: remove overlapping caplin state snapshots on retire (#22256)](https://github.com/erigontech/erigon/commit/e21f40c3dbabc12feda805931625d0d787c20066) - 2026-07-06
+* [Commit] [execution/commitment: consume ModeParallel updates per Process and forward re-touches (#22258)](https://github.com/erigontech/erigon/commit/a77eef48585a94d0a9609f12782a89c8527b49f9) - 2026-07-06
+* [Commit] [execution/commitment: fold fresh whales concurrently via proven-empty storage seed (#22263)](https://github.com/erigontech/erigon/commit/ee523bb78c2681a9e67733446ab27881092c7a45) - 2026-07-06
 ## Q2 2026
 
 

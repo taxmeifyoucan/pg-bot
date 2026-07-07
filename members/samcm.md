@@ -15,6 +15,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix(gloas): accept versioned wrapper on gloas SSE events](https://github.com/ethpandaops/xatu/pull/865) - 2026-07-03
 * [Pull Request] [release: gloas (glamsterdam-devnet-6)](https://github.com/ethpandaops/xatu/pull/864) - 2026-07-02
 
+* [Pull Request] [fix(cannon): resolve withheld payloads instead of retrying their envelopes forever](https://github.com/ethpandaops/xatu/pull/866) - 2026-07-06
+* [Pull Request] [fix(clickhouse): signed propagation_slot_start_diff for pre-slot ePBS events](https://github.com/ethpandaops/xatu/pull/867) - 2026-07-06
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [telemetry: add OTLP traces pipeline](https://github.com/ethpandaops/template-devnets/pull/178) - 2026-07-06
 * [Commit] [xatu-sentry: ship to the per-devnet ingest pipeline](https://github.com/ethpandaops/template-devnets/commit/625d2c78cd2d9b4c985462134bc6986d677ee195) - 2026-07-06

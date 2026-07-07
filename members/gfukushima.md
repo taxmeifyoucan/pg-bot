@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: updated libp2p](https://github.com/Consensys/teku/pull/10925#pullrequestreview-4614275382) - 2026-07-02
 * [Commit] [Add interface to allow serve gossip validated data column from blocks not imported (#10914)](https://github.com/Consensys/teku/commit/27028d404755482f1bc71962c6ce57015ca704bf) - 2026-07-02
 * [Review] [Review on: Fixed dual stack port binding on same port](https://github.com/Consensys/teku/pull/10936#pullrequestreview-4632250292) - 2026-07-06
+* [Pull Request] [Remove old deposit log fetching](https://github.com/Consensys/teku/pull/10937) - 2026-07-06
 ## Q2 2026
 
 

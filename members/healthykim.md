@@ -16,6 +16,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: cmd/devp2p: fix test error message formats](https://github.com/ethereum/go-ethereum/pull/35138#pullrequestreview-4616654404) - 2026-07-02
 * [Review] [Review on: cmd/devp2p: fix swapped args in private-key error message](https://github.com/ethereum/go-ethereum/pull/35193#pullrequestreview-4625891989) - 2026-07-03
 * [Review] [Review on: eth/protocols/eth: fix blockAccessList empty marker](https://github.com/ethereum/go-ethereum/pull/35286#pullrequestreview-4624552895) - 2026-07-03
+* [Review] [Review on: core/txpool/locals: nil journal writer before checking close error](https://github.com/ethereum/go-ethereum/pull/35300#pullrequestreview-4636576891) - 2026-07-06
 ## Q2 2026
 
 

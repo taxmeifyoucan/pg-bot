@@ -6,6 +6,11 @@ Github: [@gittoki](https://github.com/gittoki)
 
 ## Contributions
 
+## Q3 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4638980165) - 2026-07-06
 ## Q2 2026
 
 

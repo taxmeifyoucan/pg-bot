@@ -15,6 +15,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update](https://github.com/NethermindEth/nethermind/pull/11995#pullrequestreview-4622373777) - 2026-07-03
 * [Pull Request] [fix(discovery): deflake KademliaAdapterTests ENR refresh tests](https://github.com/NethermindEth/nethermind/pull/12287) - 2026-07-05
 * [Commit] [fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update (#11995)](https://github.com/NethermindEth/nethermind/commit/7e8c1f48101c4db259156336de0dfd1c8d42651a) - 2026-07-05
+* [Commit] [fix(discovery): deflake KademliaAdapterTests ENR refresh tests (#12287)](https://github.com/NethermindEth/nethermind/commit/2ee58b6f245d7e31b31d07dd6bde9e4d3851680c) - 2026-07-06
 ## Q2 2026
 
 

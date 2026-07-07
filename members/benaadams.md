@@ -19,6 +19,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Warmup improvement](https://github.com/NethermindEth/nethermind/pull/10652#pullrequestreview-4626399915) - 2026-07-03
 * [Review] [Review on: refactor: drop big-endian branches, assert little-endian at startup](https://github.com/NethermindEth/nethermind/pull/12197#pullrequestreview-4626385928) - 2026-07-03
 * [Review] [Review on: perf: reduce block processing jitter and improve stability](https://github.com/NethermindEth/nethermind/pull/10590#pullrequestreview-4626004063) - 2026-07-03
+
+* [Review] [Review on: EIP-8246: Remove SELFDESTRUCT burn](https://github.com/NethermindEth/nethermind/pull/12213#pullrequestreview-4635891890) - 2026-07-06
+* [Review] [Review on: perf(engine): overlap sender recovery with newPayload pre-processing and cache recovered senders](https://github.com/NethermindEth/nethermind/pull/12249#pullrequestreview-4636900213) - 2026-07-06
+* [Review] [Review on: refactor(evm): single-source the EIP-8037 intrinsic gas rules in the policy and harden their arithmetic](https://github.com/NethermindEth/nethermind/pull/12256#pullrequestreview-4635624430) - 2026-07-06
+* [Review] [Review on: fix(core): cache NoEip158/NoEip3607 spec wrappers per spec instance](https://github.com/NethermindEth/nethermind/pull/12277#pullrequestreview-4635911076) - 2026-07-06
+* [Review] [Review on: perf(evm): batch per-opcode metric counters into a per-transaction flush](https://github.com/NethermindEth/nethermind/pull/12290#pullrequestreview-4635885483) - 2026-07-06
+* [Review] [Review on: perf(evm): reuse the EIP-7702 delegation lookup from validation](https://github.com/NethermindEth/nethermind/pull/12283#pullrequestreview-4635524915) - 2026-07-06
+* [Commit] [Fix contradictions, fabricated APIs, and stale facts in agent rules and skills (#12291)](https://github.com/NethermindEth/nethermind/commit/65477ebf2e571b1e515e060a9a55e5c00c0fdc17) - 2026-07-06
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
+* [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
 ## Q2 2026
 
 

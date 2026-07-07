@@ -84,6 +84,29 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [rpc/jsonrpc: extract BaseAPI helper families (#22180)](https://github.com/erigontech/erigon/commit/3ecc257e5e17526590f2d34cb3afc4a3fda92caf) - 2026-07-04
 * [Commit] [golangci: enable modernize linter (#22197)](https://github.com/erigontech/erigon/commit/35a93b7225bf0636bd5aca19cf9b93694209e34c) - 2026-07-04
 * [Commit] [db/state: fix Close vs external MergeLoop/BuildFiles* WaitGroup races (#22203)](https://github.com/erigontech/erigon/commit/6fc6b526284a3b9eb1eef40a991c479d207db2a0) - 2026-07-04
+* [Pull Request] [db/kv/kvcache: rename SimpleCache to LatestBatchCache](https://github.com/erigontech/erigon/pull/22278) - 2026-07-06
+* [Review] [Review on: rpc: use overlay tx in other api using ReadHeader() ](https://github.com/erigontech/erigon/pull/22140#pullrequestreview-4635233812) - 2026-07-06
+* [Pull Request] [db/state: fix FilesAmount data race with background file integration](https://github.com/erigontech/erigon/pull/22264) - 2026-07-06
+* [Review] [Review on: rpc, execution, db: FcuBackgroundCommit groundwork](https://github.com/erigontech/erigon/pull/21293#pullrequestreview-4638969805) - 2026-07-06
+* [Pull Request] [node/ethconfig, cmd/rpcdaemon: enable FcuBackgroundCommit and 128MB state cache by default](https://github.com/erigontech/erigon/pull/22269) - 2026-07-06
+* [Review] [Review on: rpc: fix BlockOverrides in trace endpoints](https://github.com/erigontech/erigon/pull/22183#pullrequestreview-4633843539) - 2026-07-06
+* [Review] [Review on: execution/cache, execution/commitment, db/state: consolidate cache stack (freelru + persistent code cache)](https://github.com/erigontech/erigon/pull/22154#pullrequestreview-4633959526) - 2026-07-06
+* [Pull Request] [execution/commitment: fix flaky BranchCache unwind tests](https://github.com/erigontech/erigon/pull/22272) - 2026-07-06
+* [Pull Request] [rpc: evict idle polling filters after a timeout, add subscription metrics](https://github.com/erigontech/erigon/pull/22261) - 2026-07-06
+* [Review] [Review on: rpc: evict idle polling filters after a timeout, add subscription metrics](https://github.com/erigontech/erigon/pull/22261#pullrequestreview-4634757963) - 2026-07-06
+* [Review] [Review on: FCU semaphore decouple + foreground-priority bg-commit worker (PR #4 of the perf stack)](https://github.com/erigontech/erigon/pull/21414#pullrequestreview-4636628108) - 2026-07-06
+* [Review] [Review on: rpc/jsonrpc: return InvalidParams for malformed sendRawTransaction RLP](https://github.com/erigontech/erigon/pull/21701#pullrequestreview-4634414391) - 2026-07-06
+* [Review] [Review on: execution: reduce BAL-driven parallel exec re-executions by 10x](https://github.com/erigontech/erigon/pull/22190#pullrequestreview-4634122729) - 2026-07-06
+* [Issue] [execution/state, stagedsync: state-change notifications miss mutations — version-keyed caches can serve stale data](https://github.com/erigontech/erigon/issues/22276) - 2026-07-06
+* [Issue] [rpc/jsonrpc: erigon_cacheCheck never validates storage and flags spurious mismatches (kvcache.ValidateCurrentRoot)](https://github.com/erigontech/erigon/issues/22277) - 2026-07-06
+* [Issue] [execution/state: follow-ups from the typed-vio refactor review (#21536)](https://github.com/erigontech/erigon/issues/22259) - 2026-07-06
+* [Issue] [rpc: prune-mode endpoint availability is largely untested (checkPruneHistory vs checkPruneBlocks)](https://github.com/erigontech/erigon/issues/22260) - 2026-07-06
+* [Commit] [db/state: fix FilesAmount data race with background file integration (#22264)](https://github.com/erigontech/erigon/commit/bb96f7be9e5ceda83878411d4ffa145df2b25a64) - 2026-07-06
+* [Commit] [execution: mid-block resume follow-ups — prior receipts, notifications, blooms, blob gas (#22235)](https://github.com/erigontech/erigon/commit/7898015b274309919adc734e743cafefa569b5b7) - 2026-07-06
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
+* [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06
 ## Q2 2026
 
 

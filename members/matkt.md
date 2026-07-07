@@ -23,6 +23,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Parallel BAL execution: overlay state, prefetch, and async state root [NOT MERGE]](https://github.com/besu-eth/besu/pull/10741) - 2026-07-03
 * [Pull Request] [BAL overlay accumulator onto bal-devnet-7](https://github.com/besu-eth/besu/pull/10738) - 2026-07-03
 * [Review] [Review on: Revert "fix(engine): return SYNCING when parent world state is not immediately cached (#10600)"](https://github.com/besu-eth/besu/pull/10737#pullrequestreview-4625033564) - 2026-07-03
+* [Pull Request] [Revert "fcu before engine new payload (#10731)" (cf7d594)](https://github.com/besu-eth/besu/pull/10754) - 2026-07-06
+* [Pull Request] [Revert "Persist newpayload without fcu glamsterdam devnet 6 - fix (#10732)"](https://github.com/besu-eth/besu/pull/10753) - 2026-07-06
 ## Q2 2026
 
 

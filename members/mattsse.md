@@ -59,6 +59,14 @@ Team: Reth
 * [Pull Request] [perf(eth-wire): preallocate transaction list decodes](https://github.com/paradigmxyz/reth/pull/26164) - 2026-07-04
 * [Review] [Review on: fix(docs): 404 link to TaskExecutor in gRPC server section](https://github.com/paradigmxyz/reth/pull/26214#pullrequestreview-4631403949) - 2026-07-05
 * [Commit] [fix(prune): derive receipts static file size from prune distance (#26108)](https://github.com/paradigmxyz/reth/commit/6bd6bf28a5957868fd3d5ed4a042ba55d40fbd50) - 2026-07-05
+* [Review] [Review on: Update reference to AGENTS.md in CLAUDE.md](https://github.com/paradigmxyz/reth/pull/26264#pullrequestreview-4637174831) - 2026-07-06
+* [Review] [Review on: fix(rpc): accept positional testing build block params](https://github.com/paradigmxyz/reth/pull/25750#pullrequestreview-4637442063) - 2026-07-06
+* [Pull Request] [chore(deps): update alloy to 2.1.1](https://github.com/paradigmxyz/reth/pull/26270) - 2026-07-06
+* [Review] [Review on: feat(engine): add SSZ payload containers](https://github.com/paradigmxyz/reth/pull/26133#pullrequestreview-4635887347) - 2026-07-06
+* [Commit] [chore(deps): update alloy to 2.1.1 (#26270)](https://github.com/paradigmxyz/reth/commit/f679e6257f7f4cc4879db259f8c7d637b7bbd9d4) - 2026-07-06
+* [Commit] [perf(txpool): dedupe getBlobs fallback reads (#26255)](https://github.com/paradigmxyz/reth/commit/9554fd324b3f42073b3fb8d684e3eafda1430a31) - 2026-07-06
+* [Commit] [perf(metrics): offload metric rendering (#26180)](https://github.com/paradigmxyz/reth/commit/70746b48beee13d247868c19b50841ff87d4bea3) - 2026-07-06
+* [Commit] [perf(eth-wire): preallocate transaction list decodes (#26164)](https://github.com/paradigmxyz/reth/commit/b0538876562b3ff74122ba82e677995bd3844f06) - 2026-07-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

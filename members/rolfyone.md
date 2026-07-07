@@ -24,6 +24,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [updated builders endpoint for gloas (#10920)](https://github.com/Consensys/teku/commit/e4fcd58ea2f3635b9c66b5fa5982e3d0a30f7c23) - 2026-07-02
 * [Commit] [updated libp2p (#10925)](https://github.com/Consensys/teku/commit/4842b582fe700fe91141d169df31a14ce6d4ed71) - 2026-07-02
 * [Pull Request] [Fixed dual stack port binding on same port](https://github.com/Consensys/teku/pull/10936) - 2026-07-05
+* [Pull Request] [Produce block scripts](https://github.com/Consensys/teku/pull/10944) - 2026-07-06
+* [Review] [Review on: Add progressive SSZ infrastructure types](https://github.com/Consensys/teku/pull/10928#pullrequestreview-4632915118) - 2026-07-06
+* [Commit] [Produce block scripts (#10944)](https://github.com/Consensys/teku/commit/df628366f04262d8994bd2fa99e8dbd67e60d2dc) - 2026-07-07
+* [Commit] [Fixed dual stack port binding on same port (#10936)](https://github.com/Consensys/teku/commit/bb5564c29d663c09c20fa204ef4a2df4967be142) - 2026-07-06
 ## Q2 2026
 
 

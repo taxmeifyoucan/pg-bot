@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 
 ## Contributions
 
+## Q3 2026
+
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: Produce block scripts](https://github.com/Consensys/teku/pull/10944#pullrequestreview-4640565213) - 2026-07-06
 ## Q2 2026
 
 

@@ -15,6 +15,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Gloas fix proposer preferences gossip verification](https://github.com/sigp/lighthouse/pull/9337#pullrequestreview-4615166474) - 2026-07-02
 * [Pull Request] [Update mergify config](https://github.com/sigp/lighthouse/pull/9564) - 2026-07-02
 * [Pull Request] [Backport of #9514 to `release-v8.2.1`](https://github.com/sigp/lighthouse/pull/9566) - 2026-07-02
+* [Review] [Review on: Update `crossbeam-epoch` to fix cargo audit](https://github.com/sigp/lighthouse/pull/9581#pullrequestreview-4640945259) - 2026-07-07
+* [Review] [Review on: Remove attestation to convert work event](https://github.com/sigp/lighthouse/pull/9576#pullrequestreview-4635808592) - 2026-07-06
+* [Review] [Review on: Prevent long state advance during stalled sync](https://github.com/sigp/lighthouse/pull/9538#pullrequestreview-4634165873) - 2026-07-06
 ## Q2 2026
 
 

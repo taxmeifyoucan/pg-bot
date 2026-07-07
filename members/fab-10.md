@@ -16,6 +16,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Revert "fix(engine): return SYNCING when parent world state is not immediately cached (#10600)"](https://github.com/besu-eth/besu/pull/10737) - 2026-07-02
 * [Review] [Review on: Add the ability to treat unfunded transactions as invalid](https://github.com/besu-eth/besu/pull/10713#pullrequestreview-4617274579) - 2026-07-02
 * [Commit] [Revert "fix(engine): return SYNCING when parent world state is not immediately cached (#10600)" (#10737)](https://github.com/besu-eth/besu/commit/2a0fa2e9dc7d5a9a0e91f89e763541397c0620e9) - 2026-07-03
+* [Review] [Review on: Revert "fcu before engine new payload (#10731)" (cf7d594)](https://github.com/besu-eth/besu/pull/10754#pullrequestreview-4637637441) - 2026-07-06
+* [Review] [Review on: Revert "Persist newpayload without fcu glamsterdam devnet 6 - fix (#10732)"](https://github.com/besu-eth/besu/pull/10753#pullrequestreview-4637587189) - 2026-07-06
 ## Q2 2026
 
 

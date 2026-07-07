@@ -35,6 +35,28 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-consume,test-rpc): close RPC sessions on teardown to fix fd leak](https://github.com/ethereum/execution-specs/pull/3094#pullrequestreview-4625549087) - 2026-07-03
 * [Pull Request] [perf(test-consume): align enginex engine-API flow and skip redundant genesis check](https://github.com/ethereum/execution-specs/pull/3093) - 2026-07-03
 * [Commit] [fix(test-consume,test-rpc): close RPC sessions on teardown to fix fd leak (#3094)](https://github.com/ethereum/execution-specs/commit/4f5c7d19adc916a268b7eadc196756068a325515) - 2026-07-04
+* [Pull Request] [feat(test-fill): pack Engine X pre-alloc groups](https://github.com/ethereum/execution-specs/pull/3122) - 2026-07-06
+* [Review] [Review on: perf(spec-tools,ci): parallel PR spec-doc builds, publish-only social cards](https://github.com/ethereum/execution-specs/pull/3101#pullrequestreview-4635766499) - 2026-07-06
+* [Pull Request] [perf(tests): OOG instantly in EIP-8037 failure tests](https://github.com/ethereum/execution-specs/pull/3117) - 2026-07-06
+* [Pull Request] [fix(deps): constrain scikit-build-core for coincurve source builds](https://github.com/ethereum/execution-specs/pull/3119) - 2026-07-06
+* [Pull Request] [perf(spec-specs): Run Blake2 compression on plain `int` words](https://github.com/ethereum/execution-specs/pull/3115) - 2026-07-06
+* [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4633789285) - 2026-07-06
+* [Review] [Review on: fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107#pullrequestreview-4637296656) - 2026-07-06
+* [Review] [Review on: perf(spec-tools,ci): speed up json-loader and fill jobs](https://github.com/ethereum/execution-specs/pull/3096#pullrequestreview-4633950423) - 2026-07-06
+* [Review] [Review on: feat(ci): nightly full fill of all tests and fixture formats](https://github.com/ethereum/execution-specs/pull/3100#pullrequestreview-4633730983) - 2026-07-06
+* [Pull Request] [chore(testing): silence pytest collection warnings](https://github.com/ethereum/execution-specs/pull/3109) - 2026-07-06
+* [Pull Request] [fix(test-fill): fix `derived_test` marking for single-format tests](https://github.com/ethereum/execution-specs/pull/3108) - 2026-07-06
+* [Review] [Review on: fix(test-fill): fix `derived_test` marking for single-format tests](https://github.com/ethereum/execution-specs/pull/3108#pullrequestreview-4634687532) - 2026-07-06
+* [Review] [Review on: fix(test-types,test-forks): import `ethereum` lazily so xdist fill coverage measures it](https://github.com/ethereum/execution-specs/pull/3059#pullrequestreview-4635335883) - 2026-07-06
+* [Review] [Review on: chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105#pullrequestreview-4633535561) - 2026-07-06
+* [Review] [Review on: fix(clients): map ethrex invalid signature v/r/s rejections to INVALID_SIGNATURE_VRS](https://github.com/ethereum/execution-specs/pull/3104#pullrequestreview-4633407461) - 2026-07-06
+* [Issue] [Remove repetitive, hardcoded temporary directory creation used across `Justfile` recipes](https://github.com/ethereum/execution-specs/issues/3112) - 2026-07-06
+* [Commit] [chore(tests): OOG instantly in EIP-8037 failure tests (#3117)](https://github.com/ethereum/execution-specs/commit/f8ec1d6a0e8bf0ce312d4d2d13843a64fc22f72a) - 2026-07-06
+* [Commit] [fix(deps): constrain scikit-build-core for coincurve source builds (#3119)](https://github.com/ethereum/execution-specs/commit/80cc337bf364f5ab5ce77103ea07535d8f32eabe) - 2026-07-06
+* [Commit] [chore(testing): silence pytest collection warnings (#3109)](https://github.com/ethereum/execution-specs/commit/988ccb52b60497b16ac1b57a9c8230da63767e96) - 2026-07-06
+* [Commit] [fix(test-fill): fix `derived_test` marking for single-format tests (#3108)](https://github.com/ethereum/execution-specs/commit/b548afb0f8b92c9745206ab958dcde7e4d82ab28) - 2026-07-06
+* [Commit] [fix(test-types,test-forks): import `ethereum` lazily so xdist fill coverage measures it (#3059)](https://github.com/ethereum/execution-specs/commit/b8d7c7a5a5b4dc58ff5f594d64b39b7b66198615) - 2026-07-06
+* [Commit] [perf(test-consume): align enginex engine-API flow and skip redundant genesis check (#3093)](https://github.com/ethereum/execution-specs/commit/f878b229bd85f899cd38a44644ae2ec734461471) - 2026-07-06
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

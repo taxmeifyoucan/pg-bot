@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 
 ## Contributions
 
+## Q3 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Avoid redundant fork choice lookups in attestation verification](https://github.com/sigp/lighthouse/pull/9577) - 2026-07-06
 ## Q2 2026
 
 

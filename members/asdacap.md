@@ -60,6 +60,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat(network): trusted & static peers as must-keep, peer-limit accounting cleanup (#12196)](https://github.com/NethermindEth/nethermind/commit/15a08fb134467c79cd0f7bdeb1fb5b09a2e49734) - 2026-07-05
 * [Commit] [refactor(state): move BestPersistedState from BlockTree to IStateBoundary (#12236)](https://github.com/NethermindEth/nethermind/commit/43206bfb952551767d98107a137ea71c81239695) - 2026-07-05
 * [Commit] [refactor(tracestore): wire the trace RPC override through DI (#12251)](https://github.com/NethermindEth/nethermind/commit/8bd08f641c128ed12c159b32a9110bd2d595e96e) - 2026-07-05
+* [Pull Request] [refactor(healthchecks): move startup disk guard into a dedicated IStep](https://github.com/NethermindEth/nethermind/pull/12303) - 2026-07-06
+* [Review] [Review on: refactor(healthchecks): move startup disk guard into a dedicated IStep](https://github.com/NethermindEth/nethermind/pull/12303#pullrequestreview-4636570325) - 2026-07-06
+* [Pull Request] [refactor(di): wire block GossipPolicy and ProcessedTransactionsDbCleaner through DI](https://github.com/NethermindEth/nethermind/pull/12299) - 2026-07-06
+* [Review] [Review on: More RLP checks for txs, receipts, snap](https://github.com/NethermindEth/nethermind/pull/12301#pullrequestreview-4636597894) - 2026-07-06
+* [Pull Request] [refactor(init): remove InitRpcModules plugin hook](https://github.com/NethermindEth/nethermind/pull/12294) - 2026-07-06
+* [Pull Request] [IProcessingEnvBuilder: a DSL for block-processing environments](https://github.com/NethermindEth/nethermind/pull/12295) - 2026-07-06
+* [Review] [Review on: refactor(persistence): delete trie nodes by subtree root, not value range](https://github.com/NethermindEth/nethermind/pull/12269#pullrequestreview-4634776175) - 2026-07-06
+* [Review] [Review on: fix(flatdb): lease the read-only bundle for in-flight trie warmer jobs](https://github.com/NethermindEth/nethermind/pull/12237#pullrequestreview-4634560428) - 2026-07-06
+* [Commit] [refactor(init): remove InitRpcModules plugin hook (#12294)](https://github.com/NethermindEth/nethermind/commit/b57cb803ba0544b3988073bfc6a49d48c84683cb) - 2026-07-06
+* [Commit] [refactor(consensus): wire block preprocessor steps through DI (#12258)](https://github.com/NethermindEth/nethermind/commit/679e1f87516caab7174fc487750b5c705228d95d) - 2026-07-06
+* [Commit] [refactor(clique): register RPC module via DI instead of InitRpcModules (#12270)](https://github.com/NethermindEth/nethermind/commit/12dd5c161cb7b5c0b4b85ced1c9a6998c0434bdc) - 2026-07-06
 ## Q2 2026
 
 

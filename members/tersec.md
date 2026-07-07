@@ -25,6 +25,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [fix Gloas withdrawals predictions; quarantine Gloas columns arriving before block](https://github.com/status-im/nimbus-eth2/pull/8700) - 2026-07-04
 * [Review] [Review on: fix Gloas withdrawals predictions; quarantine Gloas columns arriving before block](https://github.com/status-im/nimbus-eth2/pull/8700#pullrequestreview-4629559206) - 2026-07-04
 * [Review] [Review on: add POST /eth/v1/beacon/execution_payload_envelopes](https://github.com/status-im/nimbus-eth2/pull/8695#pullrequestreview-4632147488) - 2026-07-05
+* [Pull Request] [enable QUIC by default](https://github.com/status-im/nimbus-eth2/pull/8711) - 2026-07-07
+* [Pull Request] [rm more pre-Fulu blob gossip support](https://github.com/status-im/nimbus-eth2/pull/8707) - 2026-07-06
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -36,8 +38,13 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: include import, trustedNodeSync, deposits to the unified client --help](https://github.com/status-im/nimbus-eth1/pull/4395#pullrequestreview-4622993743) - 2026-07-03
 * [Review] [Review on: add metrics to engineAPI](https://github.com/status-im/nimbus-eth1/pull/4183#pullrequestreview-4623765132) - 2026-07-03
 * [Review] [Review on: fix(engine): preserve withdrawals for V4 (Amsterdam) payload attributes](https://github.com/status-im/nimbus-eth1/pull/4409#pullrequestreview-4629587846) - 2026-07-04
+* [Review] [Review on: fix: txpool crash](https://github.com/status-im/nimbus-eth1/pull/4413#pullrequestreview-4632943794) - 2026-07-06
+* [Issue] [Various `discards ‘const’ qualifier from pointer target type [-Wdiscarded-qualifiers]` agcc warnings in build/libverifproxy/verifproxy.h](https://github.com/status-im/nimbus-eth1/issues/4415) - 2026-07-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422#pullrequestreview-4632990203) - 2026-07-06
 ## Q2 2026
 
 

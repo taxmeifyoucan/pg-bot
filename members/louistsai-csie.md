@@ -29,6 +29,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: docs(spec-specs): fix stale Amsterdam fork docstring and comments](https://github.com/ethereum/execution-specs/pull/3097#pullrequestreview-4625662504) - 2026-07-03
 * [Review] [Review on: feat(tests): EIP-8246 creation-tx initcode selfdestruct coverage](https://github.com/ethereum/execution-specs/pull/3084#pullrequestreview-4623862547) - 2026-07-03
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4623824901) - 2026-07-03
+* [Pull Request] [refactor(test-benchmark): deploy contract gas usage](https://github.com/ethereum/execution-specs/pull/3110) - 2026-07-06
+* [Review] [Review on: refactor(test-benchmark): deploy contract gas usage](https://github.com/ethereum/execution-specs/pull/3110#pullrequestreview-4636291157) - 2026-07-06
+* [Issue] [Benchmarking Update to Devnet 6, 7 Spec](https://github.com/ethereum/execution-specs/issues/3106) - 2026-07-06
+* [Commit] [refactor(test-benchmark): deploy contract gas usage (#3110)](https://github.com/ethereum/execution-specs/commit/40172e5e112418bfafde8e16f35393766a58615a) - 2026-07-06
 ## Q2 2026
 
 

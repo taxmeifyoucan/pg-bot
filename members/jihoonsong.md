@@ -26,6 +26,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Commit] [Add the IL bitlist to bid (#5410)](https://github.com/ethereum/consensus-specs/commit/7f2bcef3cc5a595a03c90769079f443d1b51cf2d) - 2026-07-03
 * [Commit] [Fix nits in p2p config tables (#5425)](https://github.com/ethereum/consensus-specs/commit/55c14f7bee1102127e6a36791b7ae6c07aba96ae) - 2026-07-03
 
+* [Pull Request] [Specify the IL-compliance for NOT_VALIDATED payloads](https://github.com/ethereum/consensus-specs/pull/5433) - 2026-07-06
+* [Commit] [Specify the IL-compliance for NOT_VALIDATED payloads (#5433)](https://github.com/ethereum/consensus-specs/commit/8118c17c77fbcadd574abb4fc08b763ace50faee) - 2026-07-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

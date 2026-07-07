@@ -13,6 +13,7 @@ Team: Cryptography (EF)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Frame type for PQ sig and STARK aggregation](https://github.com/ethereum/EIPs/pull/11772#pullrequestreview-4624390881) - 2026-07-03
+* [Review] [Review on: Add EIP: Hash-Chain RANDAO](https://github.com/ethereum/EIPs/pull/11861#pullrequestreview-4634402155) - 2026-07-06
 ## Q2 2026
 
 

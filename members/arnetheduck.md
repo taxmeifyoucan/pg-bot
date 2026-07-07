@@ -13,6 +13,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629159714) - 2026-07-04
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Issue] [Rename verified proxy folder](https://github.com/status-im/nimbus-eth1/issues/4414) - 2026-07-06
 ## Q2 2026
 
 

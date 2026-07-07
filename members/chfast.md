@@ -16,6 +16,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Extract shared frame-exit result construction (#1578)](https://github.com/ipsilon/evmone/commit/e64f626493bfe262a12ffcf2388add16d05d1376) - 2026-07-01
 
 * [Pull Request] [ci: Upgrade execution-specs to tests@v20.0.0](https://github.com/ipsilon/evmone/pull/1579) - 2026-07-03
+* [Pull Request] [test: Name the shared RLP framing constants](https://github.com/ipsilon/evmone/pull/1580) - 2026-07-06
+* [Review] [Review on: test: Name the shared RLP framing constants](https://github.com/ipsilon/evmone/pull/1580#pullrequestreview-4636365040) - 2026-07-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

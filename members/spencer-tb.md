@@ -44,6 +44,23 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-consume,test-rpc): close RPC sessions on teardown to fix fd leak](https://github.com/ethereum/execution-specs/pull/3094#pullrequestreview-4625076023) - 2026-07-03
 * [Review] [Review on: feat(tests): EIP-8246 creation-tx initcode selfdestruct coverage](https://github.com/ethereum/execution-specs/pull/3084#pullrequestreview-4624872130) - 2026-07-03
 * [Review] [Review on: refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092#pullrequestreview-4624842346) - 2026-07-03
+* [Pull Request] [fix(spec-specs, tests): anchor calldata floor on decomposed EIP-2780 base](https://github.com/ethereum/execution-specs/pull/3120) - 2026-07-06
+* [Review] [Review on: perf(tests): OOG instantly in EIP-8037 failure tests](https://github.com/ethereum/execution-specs/pull/3117#pullrequestreview-4639980471) - 2026-07-06
+* [Review] [Review on: fix(deps): constrain scikit-build-core for coincurve source builds](https://github.com/ethereum/execution-specs/pull/3119#pullrequestreview-4639753410) - 2026-07-06
+* [Pull Request] [feat(spec-specs, tests): charge EIP-8037 account creation at access](https://github.com/ethereum/execution-specs/pull/3116) - 2026-07-06
+* [Pull Request] [fix(deps): bump coincurve to 21 for python 3.13 build](https://github.com/ethereum/execution-specs/pull/3118) - 2026-07-06
+* [Review] [Review on: perf(spec-specs): Run Blake2 compression on plain `int` words](https://github.com/ethereum/execution-specs/pull/3115#pullrequestreview-4638913804) - 2026-07-06
+* [Review] [Review on: fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107#pullrequestreview-4635510013) - 2026-07-06
+* [Review] [Review on: perf(spec-tools,ci): speed up json-loader and fill jobs](https://github.com/ethereum/execution-specs/pull/3096#pullrequestreview-4636139851) - 2026-07-06
+* [Review] [Review on: refactor(test-benchmark): deploy contract gas usage](https://github.com/ethereum/execution-specs/pull/3110#pullrequestreview-4636819188) - 2026-07-06
+* [Review] [Review on: feat(ci): nightly full fill of all tests and fixture formats](https://github.com/ethereum/execution-specs/pull/3100#pullrequestreview-4636000161) - 2026-07-06
+* [Review] [Review on: chore(testing): silence pytest collection warnings](https://github.com/ethereum/execution-specs/pull/3109#pullrequestreview-4635827693) - 2026-07-06
+* [Review] [Review on: fix(test-fill): fix `derived_test` marking for single-format tests](https://github.com/ethereum/execution-specs/pull/3108#pullrequestreview-4635474747) - 2026-07-06
+* [Review] [Review on: fix(test-types,test-forks): import `ethereum` lazily so xdist fill coverage measures it](https://github.com/ethereum/execution-specs/pull/3059#pullrequestreview-4635291638) - 2026-07-06
+* [Review] [Review on: perf(test-consume): align enginex engine-API flow and skip redundant genesis check](https://github.com/ethereum/execution-specs/pull/3093#pullrequestreview-4635227474) - 2026-07-06
+* [Commit] [perf(spec-tools,ci): parallel PR docs-spec builds, publish-only social cards (#3101)](https://github.com/ethereum/execution-specs/commit/376414e07c4642574b38c4bb97eab2f2f719436b) - 2026-07-06
+* [Commit] [chore: update pr template (#3089)](https://github.com/ethereum/execution-specs/commit/d8ab47eeaa8a14c150562b421944a2c824b04324) - 2026-07-06
+* [Commit] [perf(spec-tools,ci): speed up json-loader and fill jobs (#3096)](https://github.com/ethereum/execution-specs/commit/b15a08b906d5e982eb4b7103bf81de0b84752087) - 2026-07-06
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -51,6 +68,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [cmd/evm, core: fixes for eels tests@v20.0.0 release](https://github.com/ethereum/go-ethereum/pull/35283) - 2026-07-02
 * [Review] [Review on: cmd/evm, core: fixes for eels tests@v20.0.0 release](https://github.com/ethereum/go-ethereum/pull/35283#pullrequestreview-4619154016) - 2026-07-02
 * [Review] [Review on: cmd/evm, core: fixes for eels tests@v20.0.0 release](https://github.com/ethereum/go-ethereum/pull/35283#pullrequestreview-4626435533) - 2026-07-03
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4635413569) - 2026-07-06
 ## Q2 2026
 
 

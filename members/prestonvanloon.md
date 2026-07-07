@@ -17,6 +17,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Fix attestation ideal rewards for Electra balances](https://github.com/OffchainLabs/prysm/pull/17076) - 2026-07-02
 * [Review] [Review on: Fix attestation ideal rewards for Electra balances](https://github.com/OffchainLabs/prysm/pull/17076#pullrequestreview-4619420463) - 2026-07-02
 * [Commit] [Fix attestation ideal rewards for Electra balances (#17076)](https://github.com/OffchainLabs/prysm/commit/2f19afc6bd14ba86141e7af0e48aec31bed90de1) - 2026-07-02
+* [Review] [Review on: Surface undefined engine errors from gloas forkchoice updates](https://github.com/OffchainLabs/prysm/pull/17094#pullrequestreview-4638785378) - 2026-07-06
+* [Review] [Review on: Delete a patch for deleting `gopls` in favor of using `patch_cmds`](https://github.com/OffchainLabs/prysm/pull/17113#pullrequestreview-4638655819) - 2026-07-06
+* [Review] [Review on: Skip nil builder entries in builderInsertionIndex](https://github.com/OffchainLabs/prysm/pull/17096#pullrequestreview-4638814229) - 2026-07-06
+* [Review] [Review on: Remove Bazel: Phase 2/9](https://github.com/OffchainLabs/prysm/pull/17007#pullrequestreview-4639666241) - 2026-07-06
+* [Review] [Review on: Mark full node gas limit](https://github.com/OffchainLabs/prysm/pull/17093#pullrequestreview-4638744713) - 2026-07-06
+* [Review] [Review on: Hold the state lock in QueueBuilderPaymentForSlot](https://github.com/OffchainLabs/prysm/pull/17095#pullrequestreview-4638801363) - 2026-07-06
+* [Review] [Review on: Order Gloas before Fulu in gossip block topic mapping](https://github.com/OffchainLabs/prysm/pull/17114#pullrequestreview-4638615579) - 2026-07-06
+* [Review] [Review on: Drop loopclosure static analyzer: can report false positives after Go 1.22](https://github.com/OffchainLabs/prysm/pull/17108#pullrequestreview-4636771578) - 2026-07-06
 ## Q2 2026
 
 

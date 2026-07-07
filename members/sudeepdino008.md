@@ -29,6 +29,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.4] db/version: relax minor version check in Supports](https://github.com/erigontech/erigon/pull/22206) - 2026-07-03
 * [Pull Request] [[r3.4] Revert "db/state/statecfg: bump rcache domain kv/.v to v3.1 (#21974)"](https://github.com/erigontech/erigon/pull/22208) - 2026-07-03
 * [Commit] [db/version: relax minor version check in Supports (#22202)](https://github.com/erigontech/erigon/commit/5620d32413b059cacdaa79828aee4343cde1b7e2) - 2026-07-03
+* [Review] [Review on: db/kv, db/state: retire commitment-history frozen files by their own window](https://github.com/erigontech/erigon/pull/22243#pullrequestreview-4634446037) - 2026-07-06
+* [Pull Request] [[r3.5] cmd/integration: collate state files incrementally in parallel stage_exec](https://github.com/erigontech/erigon/pull/22262) - 2026-07-06
 ## Q2 2026
 
 

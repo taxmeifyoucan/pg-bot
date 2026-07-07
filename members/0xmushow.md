@@ -6,6 +6,11 @@ Github: [@0xmushow](https://github.com/0xmushow)
 
 ## Contributions
 
+## Q3 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510) - 2026-07-06
 ## Q2 2026
 
 

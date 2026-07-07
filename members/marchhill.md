@@ -23,6 +23,12 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: targetGasLimit in PayloadAttributesV4](https://github.com/NethermindEth/nethermind/pull/12216#pullrequestreview-4626682023) - 2026-07-03
 * [Review] [Review on: Stateless executor: tests-zkevm@v0.5.0 alignment](https://github.com/NethermindEth/nethermind/pull/12217#pullrequestreview-4626682864) - 2026-07-03
 * [Review] [Review on: EIP-8282: Builder execution requests](https://github.com/NethermindEth/nethermind/pull/12215#pullrequestreview-4626680949) - 2026-07-03
+
+* [Pull Request] [fix(specs): BPO3 inherits BPO2, not Amsterdam; run BPO transition pyspec fixtures](https://github.com/NethermindEth/nethermind/pull/12312) - 2026-07-06
+* [Pull Request] [fix(test): deflake Will_not_stop_trying_on_rlpx_connection_failure](https://github.com/NethermindEth/nethermind/pull/12311) - 2026-07-06
+* [Review] [Review on: EIP-8246: Remove SELFDESTRUCT burn](https://github.com/NethermindEth/nethermind/pull/12213#pullrequestreview-4635390914) - 2026-07-06
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 ## Q2 2026
 
 

@@ -15,6 +15,14 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Pull Request] [Update EIP-7773: Move to Review](https://github.com/ethereum/EIPs/pull/11855) - 2026-07-02
 * [Pull Request] [Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/pull/11853) - 2026-07-02
 * [Review] [Review on: Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/pull/11853#pullrequestreview-4621216544) - 2026-07-02
+* [Pull Request] [Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876) - 2026-07-06
+* [Pull Request] [Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874) - 2026-07-06
+* [Pull Request] [Update EIP-7981: Move to Review](https://github.com/ethereum/EIPs/pull/11878) - 2026-07-06
+* [Pull Request] [Update EIP-7732: Move to Review](https://github.com/ethereum/EIPs/pull/11873) - 2026-07-06
+* [Pull Request] [Update EIP-8037: Move to Review](https://github.com/ethereum/EIPs/pull/11879) - 2026-07-06
+* [Pull Request] [Update EIP-7928: Move to Review](https://github.com/ethereum/EIPs/pull/11875) - 2026-07-06
+* [Pull Request] [Update EIP-7976: Move to Review](https://github.com/ethereum/EIPs/pull/11877) - 2026-07-06
+* [Pull Request] [Update EIP-7708: Move to Review](https://github.com/ethereum/EIPs/pull/11872) - 2026-07-06
 ## Q2 2026
 
 

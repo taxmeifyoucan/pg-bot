@@ -28,6 +28,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [fix: txpool crash](https://github.com/status-im/nimbus-eth1/pull/4413) - 2026-07-05
 * [Issue] [crash in `txPool` with AssertionDefect: the length of the table changed while iterating over it](https://github.com/status-im/nimbus-eth1/issues/4412) - 2026-07-05
 * [Commit] [exclude all EEST fixtures (#4411)](https://github.com/status-im/nimbus-eth1/commit/ef7fc93c2b3850803f7943ff29ffb8394bdf50a5) - 2026-07-05
+* [Pull Request] [add metrics to the txpool & fix sender cleaning](https://github.com/status-im/nimbus-eth1/pull/4418) - 2026-07-06
+* [Issue] [warning in linux-amd64 build : ABI for passing parameters with 64-byte alignment has changed in GCC 4.6](https://github.com/status-im/nimbus-eth1/issues/4416) - 2026-07-06
+* [Commit] [add metrics to the txpool & fix sender cleaning (#4418)](https://github.com/status-im/nimbus-eth1/commit/f7d272c123cae5ac608351689abe932591c1693a) - 2026-07-06
+* [Commit] [fix: txpool crash (#4413)](https://github.com/status-im/nimbus-eth1/commit/81fc21e0e8f02fe3aaa6a7a07103482f5cc33ecf) - 2026-07-06
 ## Q2 2026
 
 

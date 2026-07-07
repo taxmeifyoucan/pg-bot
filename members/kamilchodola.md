@@ -23,6 +23,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf: reduce block processing jitter and improve stability (#10590)](https://github.com/NethermindEth/nethermind/commit/bee2ac4fc9bcf9d08cd3fb0b489e606e21947fc4) - 2026-07-03
 * [Commit] [perf(prewarmer): warm EIP-2930 access lists cancellation-responsively (#12189)](https://github.com/NethermindEth/nethermind/commit/adf65b9d2b4f21dd8480c503e1ec446f8c381ede) - 2026-07-03
 * [Pull Request] [ci(expb): fix retrospective pagination drift; allow disabling the flat write-buffer floor](https://github.com/NethermindEth/nethermind/pull/12264) - 2026-07-04
+* [Review] [Review on: perf(engine): overlap sender recovery with newPayload pre-processing and cache recovered senders](https://github.com/NethermindEth/nethermind/pull/12249#pullrequestreview-4634575416) - 2026-07-06
+* [Review] [Review on: perf(evm): execute STATICCALL precompiles inline, skipping the child frame](https://github.com/NethermindEth/nethermind/pull/12297#pullrequestreview-4637001900) - 2026-07-06
+* [Review] [Review on: perf(evm): cache the last ECRecover result per thread](https://github.com/NethermindEth/nethermind/pull/12296#pullrequestreview-4637004524) - 2026-07-06
+* [Pull Request] [Run EXPB auto-benchmarks 3x per payload set and report mean of runs](https://github.com/NethermindEth/nethermind/pull/12292) - 2026-07-06
+* [Review] [Review on: perf(db): defer block/header/receipt persistence off the newPayload critical path](https://github.com/NethermindEth/nethermind/pull/12247#pullrequestreview-4634820228) - 2026-07-06
+* [Review] [Review on: Prefetch constant-stride storage scans into the pre-block cache](https://github.com/NethermindEth/nethermind/pull/11966#pullrequestreview-4634831778) - 2026-07-06
+* [Review] [Review on: perf(evm): cache repeated ECRecover/precompile results and fast-path static precompile calls + BAL replay](https://github.com/NethermindEth/nethermind/pull/11918#pullrequestreview-4634830985) - 2026-07-06
+* [Commit] [perf(engine): overlap sender recovery with newPayload pre-processing and cache recovered senders (#12249)](https://github.com/NethermindEth/nethermind/commit/22e7895202c80d4a5c00c1a3b2e2f9c34b9ae2ce) - 2026-07-06
+* [Commit] [fix(evm): weak-key the opcode-table spec cache; guarantee gas-charge inlining (#12250)](https://github.com/NethermindEth/nethermind/commit/9d3c0b8413dd999dfa92a46a8b782c3db068afb0) - 2026-07-06
 ## Q2 2026
 
 

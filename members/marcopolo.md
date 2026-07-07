@@ -6,6 +6,11 @@ Github: [@marcopolo](https://github.com/marcopolo)
 
 ## Contributions
 
+## Q3 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove Marco](https://github.com/protocolguild/documentation/pull/511) - 2026-07-06
 ## Q2 2026
 
 
