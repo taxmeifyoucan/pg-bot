@@ -20,6 +20,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
 
+* [Review] [Review on: fix: restrict builder withdrawal prefix to 0xB*](https://github.com/ChainSafe/lodestar/pull/9615#pullrequestreview-4647720340) - 2026-07-07
+* [Pull Request] [fix: set gossipsub allowedTopics](https://github.com/ChainSafe/lodestar/pull/9620) - 2026-07-07
+* [Review] [Review on: fix: remove Gloas deposit request limit](https://github.com/ChainSafe/lodestar/pull/9617#pullrequestreview-4647654059) - 2026-07-07
+* [Review] [Review on: chore: rename era shortHistoricalRoot to shortEraRoot](https://github.com/ChainSafe/lodestar/pull/9585#pullrequestreview-4645773987) - 2026-07-07
+* [Review] [Review on: feat: align proposer preferences api with latest spec](https://github.com/ChainSafe/lodestar/pull/9570#pullrequestreview-4645605778) - 2026-07-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -27,6 +32,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460#pullrequestreview-4639587158) - 2026-07-06
 * [Review] [Review on: fix: state transition binding exports](https://github.com/ChainSafe/lodestar-z/pull/456#pullrequestreview-4639596235) - 2026-07-06
 * [Review] [Review on: refactor(clock): single public Clock; internalize SlotClock](https://github.com/ChainSafe/lodestar-z/pull/463#pullrequestreview-4639557094) - 2026-07-06
+* [Review] [Review on: feat: add `state.getBuildersLength()` binding](https://github.com/ChainSafe/lodestar-z/pull/472#pullrequestreview-4648795705) - 2026-07-07
+* [Review] [Review on: chore: rename era shortHistoricalRoot to shortEraRoot](https://github.com/ChainSafe/lodestar-z/pull/473#pullrequestreview-4648787440) - 2026-07-07
+* [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4647665621) - 2026-07-07
+* [Review] [Review on: fix(ssz): drop redundant default-init pass in fixed-list decode](https://github.com/ChainSafe/lodestar-z/pull/468#pullrequestreview-4645658954) - 2026-07-07
+* [Issue] [Add binding: `state.getBuildersLength()`](https://github.com/ChainSafe/lodestar-z/issues/470) - 2026-07-07
 ## Q2 2026
 
 

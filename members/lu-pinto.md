@@ -7,6 +7,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 
 ## Contributions
 
+## Q3 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: Fix/qbft mining continues past ttd](https://github.com/besu-eth/besu/pull/10733#pullrequestreview-4646881218) - 2026-07-07
 ## Q2 2026
 
 

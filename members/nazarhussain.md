@@ -17,6 +17,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: state transition binding exports](https://github.com/ChainSafe/lodestar-z/pull/456#pullrequestreview-4606464334) - 2026-07-01
 * [Review] [Review on: fix: missing state commits](https://github.com/ChainSafe/lodestar-z/pull/454#pullrequestreview-4606309631) - 2026-07-01
 * [Issue] [refactor(clock): consolidate SlotClock/EventClock into a single user-facing Clock](https://github.com/ChainSafe/lodestar-z/issues/457) - 2026-07-01
+
+* [Pull Request] [refactor(bindings): use zapi js.io() instead of local io module](https://github.com/ChainSafe/lodestar-z/pull/469) - 2026-07-07
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
+* [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07
+* [Review] [Review on: feat: update fast confirmation rule for gloas](https://github.com/ChainSafe/lodestar/pull/9542#pullrequestreview-4643388095) - 2026-07-07
+* [Commit] [perf: memoize fast confirmation total active balance (#9572)](https://github.com/ChainSafe/lodestar/commit/e10fb5e991043152caeb211898c0c4fe49b2fba3) - 2026-07-07
 ## Q2 2026
 
 

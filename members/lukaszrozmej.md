@@ -74,6 +74,25 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(flatdb): lease the read-only bundle for in-flight trie warmer jobs](https://github.com/NethermindEth/nethermind/pull/12237#pullrequestreview-4634527764) - 2026-07-06
 * [Review] [Review on: fix(sync): prevent lost wake-up leaving a peer permanently asleep for a context](https://github.com/NethermindEth/nethermind/pull/12255#pullrequestreview-4634300106) - 2026-07-06
 * [Review] [Review on: perf(evm): reuse last popped Address to eliminate per-opcode allocation](https://github.com/NethermindEth/nethermind/pull/12286#pullrequestreview-4634050668) - 2026-07-06
+* [Review] [Review on: perf(prewarmer): skip speculatively warming transactions the main thread has already started](https://github.com/NethermindEth/nethermind/pull/12319#pullrequestreview-4643481311) - 2026-07-07
+* [Review] [Review on: perf(state): O(1) storage destruction for the tx-end destroy list](https://github.com/NethermindEth/nethermind/pull/12322#pullrequestreview-4645104262) - 2026-07-07
+* [Review] [Review on: fix(engine): accept 0x-prefixed getBlobsV4 indices bitarray](https://github.com/NethermindEth/nethermind/pull/12315#pullrequestreview-4643531312) - 2026-07-07
+* [Review] [Review on: refactor(evm): inline array for PoppedAddressCache entries](https://github.com/NethermindEth/nethermind/pull/12325#pullrequestreview-4645843998) - 2026-07-07
+* [Review] [Review on: feat(metrics): add basic authentication support for Pushgateway](https://github.com/NethermindEth/nethermind/pull/12313#pullrequestreview-4643594106) - 2026-07-07
+* [Review] [Review on: Fix background scheduler branch completion](https://github.com/NethermindEth/nethermind/pull/12033#pullrequestreview-4643810520) - 2026-07-07
+* [Review] [Review on: test(evm): differential test net for the simple-transfer fast path](https://github.com/NethermindEth/nethermind/pull/12278#pullrequestreview-4643855267) - 2026-07-07
+* [Review] [Review on: fix(core): cache NoEip158/NoEip3607 spec wrappers per spec instance](https://github.com/NethermindEth/nethermind/pull/12277#pullrequestreview-4643844712) - 2026-07-07
+* [Review] [Review on: perf(evm): widen popped-address cache to 4 entries](https://github.com/NethermindEth/nethermind/pull/12300#pullrequestreview-4644609570) - 2026-07-07
+* [Review] [Review on: perf(receipts): defer the receipt-blob write off the block-processing path](https://github.com/NethermindEth/nethermind/pull/12320#pullrequestreview-4644877024) - 2026-07-07
+* [Review] [Review on: fix(sync): prevent lost wake-up leaving a peer permanently asleep for a context](https://github.com/NethermindEth/nethermind/pull/12255#pullrequestreview-4643781820) - 2026-07-07
+* [Review] [Review on: fix(network): dial ENR-backed peers at their tcp port](https://github.com/NethermindEth/nethermind/pull/12307#pullrequestreview-4644003511) - 2026-07-07
+* [Review] [Review on: perf(evm): execute STATICCALL precompiles inline, skipping the child frame](https://github.com/NethermindEth/nethermind/pull/12297#pullrequestreview-4643550526) - 2026-07-07
+* [Review] [Review on: refactor(di): wire wallet, engine signer and keystore through DI](https://github.com/NethermindEth/nethermind/pull/12316#pullrequestreview-4643517093) - 2026-07-07
+* [Review] [Review on: fix(persistence): delete flat trie nodes by subtree containment](https://github.com/NethermindEth/nethermind/pull/12314#pullrequestreview-4643590513) - 2026-07-07
+* [Review] [Review on: fix(discovery): handle shutdown cancellation in CallAndWaitForResponse](https://github.com/NethermindEth/nethermind/pull/12248#pullrequestreview-4643954047) - 2026-07-07
+* [Review] [Review on: fix(dns): don't use the udp port as RLPx dial port for ENRs without a tcp entry](https://github.com/NethermindEth/nethermind/pull/12302#pullrequestreview-4643655147) - 2026-07-07
+* [Commit] [perf(evm): execute STATICCALL precompiles inline, skipping the child frame (#12297)](https://github.com/NethermindEth/nethermind/commit/602478317e14f6d2560dac9b105891b61c39c2d4) - 2026-07-07
+* [Commit] [perf(evm): cache the last ECRecover result per thread (#12296)](https://github.com/NethermindEth/nethermind/commit/d1d79e6c9fcdeacf26e37cdeb115b965eb7e0505) - 2026-07-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 ## Q2 2026

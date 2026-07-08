@@ -18,6 +18,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/ChainSafe/lodestar/pull/9587) - 2026-07-04
 * [Pull Request] [feat: make additional gloas containers progressive (EIP-7688)](https://github.com/ChainSafe/lodestar/pull/9586) - 2026-07-04
 * [Review] [Review on: feat: make additional gloas containers progressive (EIP-7688)](https://github.com/ChainSafe/lodestar/pull/9586#pullrequestreview-4629087410) - 2026-07-04
+* [Pull Request] [feat: upgrade to v1.7.0-alpha.12 spec ](https://github.com/ChainSafe/lodestar/pull/9606) - 2026-07-07
+* [Pull Request] [fix: require imported payload for index==1 attestation gossip](https://github.com/ChainSafe/lodestar/pull/9611) - 2026-07-07
+* [Pull Request] [fix: reset builder withdrawable epoch only if balance swept](https://github.com/ChainSafe/lodestar/pull/9609) - 2026-07-07
+* [Review] [Review on: feat: use pending variant to determine is_parent_strong](https://github.com/ChainSafe/lodestar/pull/9548#pullrequestreview-4641732593) - 2026-07-07
+* [Pull Request] [feat: set BUILDER_WITHDRAWAL_PREFIX to 0xB0](https://github.com/ChainSafe/lodestar/pull/9608) - 2026-07-07
+* [Pull Request] [chore: update constants for alpha.12](https://github.com/ChainSafe/lodestar/pull/9607) - 2026-07-07
+* [Pull Request] [fix: IGNORE not REJECT on bid fee_recipient mismatch ](https://github.com/ChainSafe/lodestar/pull/9610) - 2026-07-07
+* [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4641544762) - 2026-07-07
+* [Commit] [feat: use pending variant to determine is_parent_strong (#9548)](https://github.com/ChainSafe/lodestar/commit/15882818535f88d53e3a36b615235e1649666be3) - 2026-07-07
+* [Commit] [chore: bump fork-choice gloas spec links to alpha.11 (#9549)](https://github.com/ChainSafe/lodestar/commit/f535421f2932ef833ce34e02ebc10d9f68cfa5ee) - 2026-07-07
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 ## Q2 2026
 
 

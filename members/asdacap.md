@@ -71,6 +71,24 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [refactor(init): remove InitRpcModules plugin hook (#12294)](https://github.com/NethermindEth/nethermind/commit/b57cb803ba0544b3988073bfc6a49d48c84683cb) - 2026-07-06
 * [Commit] [refactor(consensus): wire block preprocessor steps through DI (#12258)](https://github.com/NethermindEth/nethermind/commit/679e1f87516caab7174fc487750b5c705228d95d) - 2026-07-06
 * [Commit] [refactor(clique): register RPC module via DI instead of InitRpcModules (#12270)](https://github.com/NethermindEth/nethermind/commit/12dd5c161cb7b5c0b4b85ced1c9a6998c0434bdc) - 2026-07-06
+* [Pull Request] [Make BAL plugin compatible](https://github.com/NethermindEth/nethermind/pull/12323) - 2026-07-07
+* [Review] [Review on: Make BAL plugin compatible](https://github.com/NethermindEth/nethermind/pull/12323#pullrequestreview-4645725018) - 2026-07-07
+* [Review] [Review on: Resolve some discovery dos vectors(which hive revealed)](https://github.com/NethermindEth/nethermind/pull/12211#pullrequestreview-4642340055) - 2026-07-07
+* [Pull Request] [refactor(init): migrate plugin Init hooks to steps and retire the hook](https://github.com/NethermindEth/nethermind/pull/12326) - 2026-07-07
+* [Review] [Review on: refactor(init): migrate plugin Init hooks to steps and retire the hook](https://github.com/NethermindEth/nethermind/pull/12326#pullrequestreview-4646276740) - 2026-07-07
+* [Review] [Review on: feat(metrics): add basic authentication support for Pushgateway](https://github.com/NethermindEth/nethermind/pull/12313#pullrequestreview-4642774239) - 2026-07-07
+* [Pull Request] [fix(sync): bound beacon header reconciliation to the beacon segment](https://github.com/NethermindEth/nethermind/pull/12327) - 2026-07-07
+* [Review] [Review on: fix(discovery): publish correct ENR endpoint for IPv6 and unresolved external IPs](https://github.com/NethermindEth/nethermind/pull/12308#pullrequestreview-4642496255) - 2026-07-07
+* [Pull Request] [fix(init): make step init logs identify the actually-running step](https://github.com/NethermindEth/nethermind/pull/12324) - 2026-07-07
+* [Review] [Review on: fix(init): make step init logs identify the actually-running step](https://github.com/NethermindEth/nethermind/pull/12324#pullrequestreview-4645332694) - 2026-07-07
+* [Pull Request] [feat(StateDiffArchive): record and replay per-block state diffs without the EVM](https://github.com/NethermindEth/nethermind/pull/12317) - 2026-07-07
+* [Review] [Review on: perf(evm): widen popped-address cache to 4 entries](https://github.com/NethermindEth/nethermind/pull/12300#pullrequestreview-4642487140) - 2026-07-07
+* [Pull Request] [refactor(di): wire wallet, engine signer and keystore through DI](https://github.com/NethermindEth/nethermind/pull/12316) - 2026-07-07
+* [Pull Request] [fix(persistence): delete flat trie nodes by subtree containment](https://github.com/NethermindEth/nethermind/pull/12314) - 2026-07-07
+* [Commit] [refactor(di): wire wallet, engine signer and keystore through DI (#12316)](https://github.com/NethermindEth/nethermind/commit/d59b54e17ad8fd0dc9b2127c027195046655a509) - 2026-07-07
+* [Commit] [fix(persistence): delete flat trie nodes by subtree containment (#12314)](https://github.com/NethermindEth/nethermind/commit/856832e263378267cf5a4c20889cf9ed9f2ecf0b) - 2026-07-07
+* [Commit] [refactor(healthchecks): move startup disk guard into a dedicated IStep (#12303)](https://github.com/NethermindEth/nethermind/commit/5e6cb2512706d336928ffffa5de2493655a42e96) - 2026-07-07
+* [Commit] [refactor(di): wire block GossipPolicy and ProcessedTransactionsDbCleaner through DI (#12299)](https://github.com/NethermindEth/nethermind/commit/a34caddb20e5bd3739ab01496bf86e688fd232b3) - 2026-07-07
 ## Q2 2026
 
 

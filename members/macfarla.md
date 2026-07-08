@@ -14,6 +14,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: ci: add check for committed binary files](https://github.com/besu-eth/besu/pull/10691#pullrequestreview-4641026090) - 2026-07-07
 * [Review] [Review on: update workflow to use a DOCKER_ORG instead of a hardcoded string](https://github.com/besu-eth/besu/pull/10757#pullrequestreview-4640643421) - 2026-07-07
+* [Review] [Review on: docker build test speedup](https://github.com/besu-eth/besu/pull/10771#pullrequestreview-4650225211) - 2026-07-08
+* [Review] [Review on: feat(pow-removal): Phase 4/5 cleanup - remove PowAlgorithm and DifficultyCalculatorTests](https://github.com/besu-eth/besu/pull/10675#pullrequestreview-4650177993) - 2026-07-08
+* [Pull Request] [update vertx to 4.5.27](https://github.com/besu-eth/besu/pull/10770) - 2026-07-08
+* [Review] [Review on: Fix/qbft mining continues past ttd](https://github.com/besu-eth/besu/pull/10733#pullrequestreview-4641639650) - 2026-07-07
+* [Pull Request] [GHA: remove kurtosis nightly workflow](https://github.com/besu-eth/besu/pull/10758) - 2026-07-07
+* [Pull Request] [GHA: remove sonarcloud workflow](https://github.com/besu-eth/besu/pull/10759) - 2026-07-07
+* [Review] [Review on: changed web3j to a test dependency](https://github.com/besu-eth/besu/pull/10694#pullrequestreview-4641171359) - 2026-07-07
+* [Review] [Review on: Handle empty RLP raw transactions as invalid params](https://github.com/besu-eth/besu/pull/10736#pullrequestreview-4641793698) - 2026-07-07
+* [Review] [Review on: fix: defer eth_simulate nonce validation](https://github.com/besu-eth/besu/pull/10702#pullrequestreview-4641281119) - 2026-07-07
+* [Commit] [GHA: remove kurtosis nightly workflow (#10758)](https://github.com/besu-eth/besu/commit/726ba80a1c5d29077f8599387abb2319e62d0cd2) - 2026-07-07
+* [Commit] [remove sonarcloud workflow (#10759)](https://github.com/besu-eth/besu/commit/eb12f660ee2e4634998d71b3bf36b8006d72f6e2) - 2026-07-07
+* [Commit] [changed web3j to a test dependency (#10694)](https://github.com/besu-eth/besu/commit/11663cc67c1d68127515f8c9f9b1d367e4039e35) - 2026-07-07
+* [Commit] [ci: add check for committed binary files (#10691)](https://github.com/besu-eth/besu/commit/ddc2182c266c41de12d6921174fb1467af736643) - 2026-07-07
 ## Q2 2026
 
 

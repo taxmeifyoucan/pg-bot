@@ -16,6 +16,7 @@ Team: Geth
 * [Commit] [Update EIP-8141: 8141 nits](https://github.com/ethereum/EIPs/commit/12cf15e3c7df7243ce10605defb71d4de22de052) - 2026-07-06
 * [Commit] [Update EIP-8141: allow arbitrary signature data to avoid circular dependency for custom verifiers (#11837)](https://github.com/ethereum/EIPs/commit/b18941a2e3966e7f47c6faa8b51d3afef9d3bcc3) - 2026-07-06
 
+* [Review] [Review on: Update EIP-8141: Spec cleanup and clarifications](https://github.com/ethereum/EIPs/pull/11814#pullrequestreview-4648170159) - 2026-07-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

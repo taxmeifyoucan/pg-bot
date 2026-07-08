@@ -8,6 +8,18 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 
 ## Contributions
 
+## Q3 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Issue] [Gloas TODO tracking (major tasks)](https://github.com/sigp/lighthouse/issues/9586) - 2026-07-07
+* [Issue] [Blind Finalized Payload Envelopes to Preserve Disk Space](https://github.com/sigp/lighthouse/issues/9592) - 2026-07-07
+* [Issue] [Align Gloas proposer reorg weight logic with fork-choice spec](https://github.com/sigp/lighthouse/issues/9593) - 2026-07-07
+* [Issue] [Support multi-BN block proposal selection in the validator client](https://github.com/sigp/lighthouse/issues/9591) - 2026-07-07
+* [Issue] [Implement Gloas builder API](https://github.com/sigp/lighthouse/issues/9590) - 2026-07-07
+* [Issue] [Avoid synchronous payload bid store reads in Gloas async validation paths](https://github.com/sigp/lighthouse/issues/9589) - 2026-07-07
+* [Issue] [Gloas partial data column message support](https://github.com/sigp/lighthouse/issues/9588) - 2026-07-07
+* [Issue] [Gloas light client support](https://github.com/sigp/lighthouse/issues/9587) - 2026-07-07
 ## Q2 2026
 
 

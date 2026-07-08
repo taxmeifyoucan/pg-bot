@@ -21,6 +21,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [EIP-8282: builder deposit and exit execution requests for Amsterdam](https://github.com/besu-eth/besu/pull/10743) - 2026-07-03
 * [Pull Request] [build: provide solc directly instead of via the broken web3j-sokt release index](https://github.com/besu-eth/besu/pull/10755) - 2026-07-06
 * [Commit] [build: provide solc directly instead of via the broken web3j-sokt release index (#10755)](https://github.com/besu-eth/besu/commit/4308396c26de57bf263bd2acf4dbd8f6a3f22bbd) - 2026-07-06
+* [Pull Request] [EIP-7702: refund per-authorization ACCOUNT_WRITE for non-creating authorizations](https://github.com/besu-eth/besu/pull/10767) - 2026-07-07
+* [Pull Request] [EIP-8246: Amsterdam SELFDESTRUCT preserves originator balance](https://github.com/besu-eth/besu/pull/10766) - 2026-07-07
+* [Pull Request] [EIP-2780: Amsterdam resource-based intrinsic transaction gas](https://github.com/besu-eth/besu/pull/10765) - 2026-07-07
+* [Pull Request] [EIP-8038: Amsterdam state-access gas repricing](https://github.com/besu-eth/besu/pull/10764) - 2026-07-07
+* [Pull Request] [EIP-8282: regeneration tooling and integrity guard for testing_buildBlockV1 fixtures](https://github.com/besu-eth/besu/pull/10763) - 2026-07-07
+* [Commit] [Add latest EIP-8037 spec to Amsterdam (#10396)](https://github.com/besu-eth/besu/commit/8b80d31c50280d0fa000d4248871081da7fe20d8) - 2026-07-07
 ## Q2 2026
 
 

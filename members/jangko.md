@@ -26,6 +26,13 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: add metrics to the txpool & fix sender cleaning](https://github.com/status-im/nimbus-eth1/pull/4418#pullrequestreview-4636650113) - 2026-07-06
 * [Pull Request] [Fix evmstate tool memory leak](https://github.com/status-im/nimbus-eth1/pull/4417) - 2026-07-06
 * [Commit] [Fix evmstate tool memory leak (#4417)](https://github.com/status-im/nimbus-eth1/commit/d893848ca860f6f2d505488cdeb9f03cb1a81388) - 2026-07-06
+* [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth1/pull/4436) - 2026-07-08
+* [Review] [Review on: builds MUST start on forkchoiceState.headBlockHash](https://github.com/status-im/nimbus-eth1/pull/4427#pullrequestreview-4644553844) - 2026-07-07
+* [Pull Request] [[Bogota] EIP-7805: Fork-choice enforced Inclusion Lists (FOCIL)](https://github.com/status-im/nimbus-eth1/pull/4426) - 2026-07-07
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
+* [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07
 ## Q2 2026
 
 

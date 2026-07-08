@@ -32,6 +32,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Refactor validator client and REST package for better readability](https://github.com/OffchainLabs/prysm/pull/17091#pullrequestreview-4639703849) - 2026-07-06
 * [Review] [Review on: making proposer preferences repush on reconnection to different node](https://github.com/OffchainLabs/prysm/pull/17066#pullrequestreview-4636679657) - 2026-07-06
 * [Review] [Review on: Order Gloas before Fulu in gossip block topic mapping](https://github.com/OffchainLabs/prysm/pull/17114#pullrequestreview-4638573200) - 2026-07-06
+* [Review] [Review on: Validate and cache published execution payload bids before broadcast](https://github.com/OffchainLabs/prysm/pull/17101#pullrequestreview-4647699149) - 2026-07-07
+* [Review] [Review on: SSZ Engine: Extract JSON-RPC engine code into separate files](https://github.com/OffchainLabs/prysm/pull/17047#pullrequestreview-4648520498) - 2026-07-07
+* [Pull Request] [Fix event stream reconnect](https://github.com/OffchainLabs/prysm/pull/17120) - 2026-07-07
 ## Q2 2026
 
 

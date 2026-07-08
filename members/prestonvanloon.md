@@ -25,6 +25,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Hold the state lock in QueueBuilderPaymentForSlot](https://github.com/OffchainLabs/prysm/pull/17095#pullrequestreview-4638801363) - 2026-07-06
 * [Review] [Review on: Order Gloas before Fulu in gossip block topic mapping](https://github.com/OffchainLabs/prysm/pull/17114#pullrequestreview-4638615579) - 2026-07-06
 * [Review] [Review on: Drop loopclosure static analyzer: can report false positives after Go 1.22](https://github.com/OffchainLabs/prysm/pull/17108#pullrequestreview-4636771578) - 2026-07-06
+* [Pull Request] [Do not mark a node synced after a failed resync](https://github.com/OffchainLabs/prysm/pull/17125) - 2026-07-07
+* [Review] [Review on: Remove Bazel: Phase 2/9](https://github.com/OffchainLabs/prysm/pull/17007#pullrequestreview-4647266389) - 2026-07-07
+* [Review] [Review on: Kurtosis+E2E: Set up Kurtosis harness and Add minimal tests](https://github.com/OffchainLabs/prysm/pull/16999#pullrequestreview-4647309242) - 2026-07-07
+* [Commit] [e2e: Reliability improvements (#16948)](https://github.com/OffchainLabs/prysm/commit/7cb98e0bc67736e4731a6e47b6a27b6ecdec3894) - 2026-07-07
 ## Q2 2026
 
 

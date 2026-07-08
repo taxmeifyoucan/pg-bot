@@ -16,6 +16,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [fix(discovery): deflake KademliaAdapterTests ENR refresh tests](https://github.com/NethermindEth/nethermind/pull/12287) - 2026-07-05
 * [Commit] [fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update (#11995)](https://github.com/NethermindEth/nethermind/commit/7e8c1f48101c4db259156336de0dfd1c8d42651a) - 2026-07-05
 * [Commit] [fix(discovery): deflake KademliaAdapterTests ENR refresh tests (#12287)](https://github.com/NethermindEth/nethermind/commit/2ee58b6f245d7e31b31d07dd6bde9e4d3851680c) - 2026-07-06
+* [Pull Request] [Update 1.39.0 with missing prs](https://github.com/NethermindEth/nethermind/pull/12334) - 2026-07-08
 ## Q2 2026
 
 

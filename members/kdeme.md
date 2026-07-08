@@ -24,6 +24,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: fail block on missing in-range BLOCKHASH (#4407)](https://github.com/status-im/nimbus-eth1/commit/c30cd43fbba3eea331d0a67528b59c72a50eacf4) - 2026-07-04
 
 * [Pull Request] [stateless: fail block on incomplete witness during persist](https://github.com/status-im/nimbus-eth1/pull/4425) - 2026-07-06
+* [Pull Request] [stateless: fail block on incomplete witness during persist](https://github.com/status-im/nimbus-eth1/pull/4434) - 2026-07-07
+* [Pull Request] [Bump nim-eth for discv5 fixes](https://github.com/status-im/nimbus-eth1/pull/4433) - 2026-07-07
+* [Commit] [Bump nim-eth for discv5 fixes (#4433)](https://github.com/status-im/nimbus-eth1/commit/1bcb926f7786fb757eecc1940578977595ed6538) - 2026-07-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 ## Q2 2026

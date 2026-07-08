@@ -55,6 +55,29 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: namespace graffiti append cli option](https://github.com/ChainSafe/lodestar/pull/9603#pullrequestreview-4637564175) - 2026-07-06
 * [Review] [Review on: chore(deps): bump the actions group with 6 updates](https://github.com/ChainSafe/lodestar/pull/9602#pullrequestreview-4637555430) - 2026-07-06
 * [Commit] [fix: prune old proposer preferences submissions (#9591)](https://github.com/ChainSafe/lodestar/commit/c6b2b7f1baede3cd759dddf8bd039042388f4585) - 2026-07-06
+* [Pull Request] [fix: restrict builder deposits to payload builders](https://github.com/ChainSafe/lodestar/pull/9621) - 2026-07-07
+* [Review] [Review on: fix: remove parent_block_number from payload_attributes event post-gloas](https://github.com/ChainSafe/lodestar/pull/9592#pullrequestreview-4644307762) - 2026-07-07
+* [Pull Request] [fix: restrict builder withdrawal prefix to 0xB*](https://github.com/ChainSafe/lodestar/pull/9615) - 2026-07-07
+* [Review] [Review on: fix: restrict builder withdrawal prefix to 0xB*](https://github.com/ChainSafe/lodestar/pull/9615#pullrequestreview-4644400910) - 2026-07-07
+* [Pull Request] [fix: remove Gloas deposit request limit](https://github.com/ChainSafe/lodestar/pull/9617) - 2026-07-07
+* [Review] [Review on: fix: remove Gloas deposit request limit](https://github.com/ChainSafe/lodestar/pull/9617#pullrequestreview-4644402787) - 2026-07-07
+* [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4644884017) - 2026-07-07
+* [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643338388) - 2026-07-07
+* [Pull Request] [fix: remove Gloas deposit request limit](https://github.com/ChainSafe/lodestar/pull/9616) - 2026-07-07
+* [Review] [Review on: chore: export builder id route type](https://github.com/ChainSafe/lodestar/pull/9614#pullrequestreview-4643963184) - 2026-07-07
+* [Review] [Review on: fix: proposer preferences race condition](https://github.com/ChainSafe/lodestar/pull/9613#pullrequestreview-4643547099) - 2026-07-07
+* [Review] [Review on: chore: dedup caches in favor of ProposerPreferencesPool](https://github.com/ChainSafe/lodestar/pull/9605#pullrequestreview-4642436656) - 2026-07-07
+* [Review] [Review on: fix: require imported payload for index==1 attestation gossip](https://github.com/ChainSafe/lodestar/pull/9611#pullrequestreview-4642360491) - 2026-07-07
+* [Review] [Review on: fix: reset builder withdrawable epoch only if balance swept](https://github.com/ChainSafe/lodestar/pull/9609#pullrequestreview-4642384709) - 2026-07-07
+* [Review] [Review on: feat: use pending variant to determine is_parent_strong](https://github.com/ChainSafe/lodestar/pull/9548#pullrequestreview-4642226856) - 2026-07-07
+* [Review] [Review on: chore: bump fork-choice gloas spec links to alpha.11](https://github.com/ChainSafe/lodestar/pull/9549#pullrequestreview-4642256027) - 2026-07-07
+* [Issue] [Race condition when checking for duplicate proposer preferences](https://github.com/ChainSafe/lodestar/issues/9612) - 2026-07-07
+* [Commit] [feat: return 204 when producing payload attestation if there is no block (#9589)](https://github.com/ChainSafe/lodestar/commit/9333ecfccbd0c122fc12c19720c2315eba65c8a3) - 2026-07-07
+* [Commit] [fix: remove parent_block_number from payload_attributes event post-gloas (#9592)](https://github.com/ChainSafe/lodestar/commit/f2645825a8ae7c14feee8ba3c387963dfea992a7) - 2026-07-07
+* [Commit] [feat: add getStateBuilders endpoint (#9593)](https://github.com/ChainSafe/lodestar/commit/bdb9aa149d197327c77899df69d3c4610ef7e377) - 2026-07-07
+* [Commit] [fix: advance equivocation cursor for slashed validators with no live vote (#9597)](https://github.com/ChainSafe/lodestar/commit/0cff4e69168398daccec22a1cb6b8d6e5a04fe65) - 2026-07-07
+* [Commit] [feat: update fast confirmation rule for gloas (#9542)](https://github.com/ChainSafe/lodestar/commit/d173b636c91182ee05250880a741b0c843eff7a6) - 2026-07-07
+* [Commit] [feat: append CL/EL client info to graffiti (#9599)](https://github.com/ChainSafe/lodestar/commit/905415417aee4b28a403ffb80f9e16d511cdd1e8) - 2026-07-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -67,9 +90,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Ignore instead of reject on preferences](https://github.com/ethereum/consensus-specs/pull/5429#pullrequestreview-4632508074) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefix to 0xB*](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4637975197) - 2026-07-06
 * [Review] [Review on: Require imported payload for `index == 1` attestation gossip](https://github.com/ethereum/consensus-specs/pull/5355#pullrequestreview-4637673087) - 2026-07-06
+* [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4642139372) - 2026-07-07
+* [Pull Request] [Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439) - 2026-07-07
+* [Review] [Review on: Remove `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD` in Gloas](https://github.com/ethereum/consensus-specs/pull/5436#pullrequestreview-4644162719) - 2026-07-07
+* [Commit] [Restrict builder deposits to payload builders (#5439)](https://github.com/ethereum/consensus-specs/commit/84454a9d57f4f49f74c78e9f375347baf30474f2) - 2026-07-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 ## Q2 2026
 
 

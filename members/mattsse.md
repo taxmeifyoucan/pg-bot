@@ -67,6 +67,13 @@ Team: Reth
 * [Commit] [perf(txpool): dedupe getBlobs fallback reads (#26255)](https://github.com/paradigmxyz/reth/commit/9554fd324b3f42073b3fb8d684e3eafda1430a31) - 2026-07-06
 * [Commit] [perf(metrics): offload metric rendering (#26180)](https://github.com/paradigmxyz/reth/commit/70746b48beee13d247868c19b50841ff87d4bea3) - 2026-07-06
 * [Commit] [perf(eth-wire): preallocate transaction list decodes (#26164)](https://github.com/paradigmxyz/reth/commit/b0538876562b3ff74122ba82e677995bd3844f06) - 2026-07-06
+* [Review] [Review on: feat(bootnode): run discv4 and discv5 on the same UDP port](https://github.com/paradigmxyz/reth/pull/26089#pullrequestreview-4642393039) - 2026-07-07
+* [Review] [Review on: fix(net): advertise the bound RLPx port in the discv5 ENR](https://github.com/paradigmxyz/reth/pull/26265#pullrequestreview-4641845858) - 2026-07-07
+* [Review] [Review on: feat(rpc): implement `debug_setHead`](https://github.com/paradigmxyz/reth/pull/26311#pullrequestreview-4645136859) - 2026-07-07
+* [Review] [Review on: feat: impl snap client](https://github.com/paradigmxyz/reth/pull/26049#pullrequestreview-4643431752) - 2026-07-07
+* [Review] [Review on: perf(net): optimize pooled transaction recovery](https://github.com/paradigmxyz/reth/pull/26304#pullrequestreview-4643667566) - 2026-07-07
+* [Pull Request] [chore(deps): bump crossbeam-epoch](https://github.com/paradigmxyz/reth/pull/26297) - 2026-07-07
+* [Commit] [chore(deps): bump crossbeam-epoch (#26297)](https://github.com/paradigmxyz/reth/commit/5b4f1df2c59b781f47d4a8623d4378c0e7bbf77e) - 2026-07-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

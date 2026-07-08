@@ -14,6 +14,17 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: chore(ci): speed up json-loader and fill jobs](https://github.com/ethereum/execution-specs/pull/3096#pullrequestreview-4627183719) - 2026-07-03
 * [Commit] [chore(specs): reorder tx validity checks (#3036)](https://github.com/ethereum/execution-specs/commit/8dd924e9a41c3bcd9df9e85af7da350a47320702) - 2026-07-03
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7329: fix homophone](https://github.com/ethereum/EIPs/pull/11890) - 2026-07-07
+* [Review] [Review on: Update EIP-7997: Move to Review](https://github.com/ethereum/EIPs/pull/11884#pullrequestreview-4647153226) - 2026-07-07
+* [Review] [Review on: Update EIP-7928: Move to Review](https://github.com/ethereum/EIPs/pull/11875#pullrequestreview-4647167680) - 2026-07-07
+* [Review] [Review on: Update EIP-7904: Move to Review](https://github.com/ethereum/EIPs/pull/11883#pullrequestreview-4647238523) - 2026-07-07
+* [Review] [Review on: Update EIP-7981: Move to Review](https://github.com/ethereum/EIPs/pull/11878#pullrequestreview-4647223103) - 2026-07-07
+* [Review] [Review on: Update EIP-7976: Move to Review](https://github.com/ethereum/EIPs/pull/11877#pullrequestreview-4647198474) - 2026-07-07
+* [Review] [Review on: Update EIP-7979: Move to Review](https://github.com/ethereum/EIPs/pull/11889#pullrequestreview-4646897068) - 2026-07-07
+* [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4646881816) - 2026-07-07
+* [Commit] [Update EIP-7329: fix homophone (#11890)](https://github.com/ethereum/EIPs/commit/0ffc798461be0e6af2380678dd3b283046a2f255) - 2026-07-07
 ## Q2 2026
 
 

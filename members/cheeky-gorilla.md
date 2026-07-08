@@ -8,6 +8,22 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 
 ## Contributions
 
+## Q3 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Commit] [Add prez's and update links](https://github.com/protocolguild/documentation/commit/de1d2db8ac2a07f510de8a8844011b840b426e61) - 2026-07-07
+* [Commit] [Update Splits URLs](https://github.com/protocolguild/documentation/commit/48259ab6de2bcdd2b3d8909be3aa6330c1fa894b) - 2026-07-07
+* [Commit] [Update Splits URLs](https://github.com/protocolguild/documentation/commit/183697cbc541a4f02569d80f47cf030f32f8c1e6) - 2026-07-07
+* [Commit] [Update Splits URLs](https://github.com/protocolguild/documentation/commit/b7abe7c1dd5ee24831c354ce1c7d9002d6c79543) - 2026-07-07
+* [Commit] [Update Splits URL](https://github.com/protocolguild/documentation/commit/1b7edf9217516fd1047256e3725eb30cf1139dd6) - 2026-07-07
+* [Commit] [Update Splits URL](https://github.com/protocolguild/documentation/commit/8a97a034bd0ae9d56fda99f95a0d708fcdd8f107) - 2026-07-07
+
+[protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
+* [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/e6b14d7ca4339655efae86d7ad13a05fb14f43ee) - 2026-07-07
+* [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/575f773fb569863447ec1e75d194b1ab0a05f41f) - 2026-07-07
+* [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/d5d4f0785ae029650bf5e65a6e940ec1f112a2fc) - 2026-07-07
+* [Commit] [Update Splits URL](https://github.com/protocolguild/protocol-guild-site/commit/fc663cca248a41767c696c5d12187574a19c39e6) - 2026-07-07
 ## Q2 2026
 
 

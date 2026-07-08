@@ -23,6 +23,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [Fix maxSlot overflow in all byRange handlers (#10924)](https://github.com/Consensys/teku/commit/82cc7904036b23ccf9790abeae9f66665841ac58) - 2026-07-03
 * [Review] [Review on: add a Gloas builder circuit breaker](https://github.com/Consensys/teku/pull/10911#pullrequestreview-4631269081) - 2026-07-05
 * [Pull Request] [Handle worker failure in AggregatingSignatureVerificationService](https://github.com/Consensys/teku/pull/10939) - 2026-07-06
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026
 
 

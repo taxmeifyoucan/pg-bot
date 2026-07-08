@@ -33,6 +33,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Call FCU once per batch on init-sync](https://github.com/OffchainLabs/prysm/pull/17109) - 2026-07-06
 * [Review] [Review on: Fall back to finalized dependent root when the fork-choice head is pruned](https://github.com/OffchainLabs/prysm/pull/17060#pullrequestreview-4636337184) - 2026-07-06
 * [Commit] [Call FCU once per batch on init-sync (#17109)](https://github.com/OffchainLabs/prysm/commit/360e912482e3789b8cc32b3c7eccb7931ec412a4) - 2026-07-06
+* [Review] [Review on: Nil headblock guard](https://github.com/OffchainLabs/prysm/pull/17110#pullrequestreview-4645944743) - 2026-07-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

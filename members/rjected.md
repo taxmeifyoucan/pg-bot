@@ -17,6 +17,9 @@ Team: Reth
 * [Review] [Review on: perf(net): use static wire encoding for p2p ping and pong](https://github.com/paradigmxyz/reth/pull/26122#pullrequestreview-4627182566) - 2026-07-03
 
 * [Pull Request] [feat(prune): add row-budgeted dupsort pruning](https://github.com/paradigmxyz/reth/pull/26287) - 2026-07-06
+* [Pull Request] [feat(prune): add SDK extension points for custom pruner segments](https://github.com/paradigmxyz/reth/pull/26322) - 2026-07-07
+* [Review] [Review on: fix(nix): include m4 in native build inputs](https://github.com/paradigmxyz/reth/pull/26321#pullrequestreview-4649126625) - 2026-07-07
+* [Commit] [feat(prune): add row-budgeted dupsort pruning (#26287)](https://github.com/paradigmxyz/reth/commit/1a4a5c966f23513c3f264997fa15b82fe884f6cd) - 2026-07-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626673741) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626672497) - 2026-07-03

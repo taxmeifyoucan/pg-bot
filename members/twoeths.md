@@ -25,6 +25,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02
+* [Review] [Review on: feat(beacon-node): add block state cache and checkpoint datastore](https://github.com/ChainSafe/lodestar-z/pull/452#pullrequestreview-4642850103) - 2026-07-07
 ## Q2 2026
 
 

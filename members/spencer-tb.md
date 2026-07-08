@@ -61,6 +61,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [perf(spec-tools,ci): parallel PR docs-spec builds, publish-only social cards (#3101)](https://github.com/ethereum/execution-specs/commit/376414e07c4642574b38c4bb97eab2f2f719436b) - 2026-07-06
 * [Commit] [chore: update pr template (#3089)](https://github.com/ethereum/execution-specs/commit/d8ab47eeaa8a14c150562b421944a2c824b04324) - 2026-07-06
 * [Commit] [perf(spec-tools,ci): speed up json-loader and fill jobs (#3096)](https://github.com/ethereum/execution-specs/commit/b15a08b906d5e982eb4b7103bf81de0b84752087) - 2026-07-06
+* [Pull Request] [fix(test-fixtures): emit chainId in state test fixture transaction](https://github.com/ethereum/execution-specs/pull/3125) - 2026-07-07
+* [Review] [Review on: feat(test-fill): pack Engine X pre-alloc groups](https://github.com/ethereum/execution-specs/pull/3122#pullrequestreview-4643681222) - 2026-07-07
+* [Issue] [Test Release Tracker: `glamsterdam-devnet@v7.X.X`](https://github.com/ethereum/execution-specs/issues/3123) - 2026-07-07
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

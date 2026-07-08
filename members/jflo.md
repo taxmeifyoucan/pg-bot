@@ -13,6 +13,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [2026-07-07 Contributor Call](https://github.com/besu-eth/besu/issues/10756) - 2026-07-06
+* [Pull Request] [Missed A Spot! contents: read all jobs](https://github.com/besu-eth/besu/pull/10768) - 2026-07-07
+* [Pull Request] [checks for correct docker env var configuration, warns when missing](https://github.com/besu-eth/besu/pull/10769) - 2026-07-07
+* [Commit] [Misse A Spot! contents: read all jobs (#10768)](https://github.com/besu-eth/besu/commit/3e1d559d1f9efc5bb9e84c2addc00e2df0c64107) - 2026-07-07
 ## Q2 2026
 
 

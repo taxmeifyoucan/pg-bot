@@ -27,6 +27,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [fix(specs): BPO3 inherits BPO2, not Amsterdam; run BPO transition pyspec fixtures](https://github.com/NethermindEth/nethermind/pull/12312) - 2026-07-06
 * [Pull Request] [fix(test): deflake Will_not_stop_trying_on_rlpx_connection_failure](https://github.com/NethermindEth/nethermind/pull/12311) - 2026-07-06
 * [Review] [Review on: EIP-8246: Remove SELFDESTRUCT burn](https://github.com/NethermindEth/nethermind/pull/12213#pullrequestreview-4635390914) - 2026-07-06
+* [Pull Request] [Batch EIP-2537 pairing check Miller loops and use affine MSM](https://github.com/NethermindEth/nethermind/pull/12329) - 2026-07-07
+* [Commit] [fix(test): deflake Will_not_stop_trying_on_rlpx_connection_failure (#12311)](https://github.com/NethermindEth/nethermind/commit/bb00876f094c34d6992ed4ccb7f086e87fd426e1) - 2026-07-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 ## Q2 2026

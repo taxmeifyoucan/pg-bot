@@ -74,6 +74,25 @@ Team: Erigon
 * [Commit] [db/snapshotsync: remove overlapping caplin state snapshots on retire (#22256)](https://github.com/erigontech/erigon/commit/e21f40c3dbabc12feda805931625d0d787c20066) - 2026-07-06
 * [Commit] [execution/commitment: consume ModeParallel updates per Process and forward re-touches (#22258)](https://github.com/erigontech/erigon/commit/a77eef48585a94d0a9609f12782a89c8527b49f9) - 2026-07-06
 * [Commit] [execution/commitment: fold fresh whales concurrently via proven-empty storage seed (#22263)](https://github.com/erigontech/erigon/commit/ee523bb78c2681a9e67733446ab27881092c7a45) - 2026-07-06
+* [Pull Request] [db/integrity: add CaplinStateRoots check for blank root snapshots](https://github.com/erigontech/erigon/pull/22295) - 2026-07-07
+* [Pull Request] [cl, db/snapshotsync: don't freeze empty caplin block/state roots](https://github.com/erigontech/erigon/pull/22294) - 2026-07-07
+* [Review] [Review on: db/snapshotsync, common/concurrent: BlockRetire.Close drains its background retire](https://github.com/erigontech/erigon/pull/22253#pullrequestreview-4645959760) - 2026-07-07
+* [Review] [Review on: execution/commitment, db/state: carry write values into the ModeDirect fold](https://github.com/erigontech/erigon/pull/22268#pullrequestreview-4643512713) - 2026-07-07
+* [Review] [Review on: txnprovider/txpool: skip periodic remote-txn flush lock-free when nothing buffered](https://github.com/erigontech/erigon/pull/22252#pullrequestreview-4646028830) - 2026-07-07
+* [Pull Request] [db/snapshotsync: say why snapshot segments are unavailable](https://github.com/erigontech/erigon/pull/22289) - 2026-07-07
+* [Review] [Review on: db/snapshotsync: say why snapshot segments are unavailable](https://github.com/erigontech/erigon/pull/22289#pullrequestreview-4644938497) - 2026-07-07
+* [Review] [Review on: cl: bound caplin archive blob-column backfill so it can't wedge on Fulu](https://github.com/erigontech/erigon/pull/22266#pullrequestreview-4643420462) - 2026-07-07
+* [Review] [Review on: .github: bump actionlint 1.7.7→1.7.12, zizmor 1.24.1→1.26.1](https://github.com/erigontech/erigon/pull/22285#pullrequestreview-4643377501) - 2026-07-07
+* [Review] [Review on: db/state, cmd/integration: remove unused history file deduplication tooling](https://github.com/erigontech/erigon/pull/22282#pullrequestreview-4642729887) - 2026-07-07
+* [Review] [Review on: QA: show RPC integration test results on the run summary page](https://github.com/erigontech/erigon/pull/22134#pullrequestreview-4644963152) - 2026-07-07
+* [Review] [Review on: execution/commitment: cut GC object churn in leaf hashing and touch collection](https://github.com/erigontech/erigon/pull/22270#pullrequestreview-4644939047) - 2026-07-07
+* [Commit] [db/snapshotsync: say why snapshot segments are unavailable (#22289)](https://github.com/erigontech/erigon/commit/0faf080a9e931a36a79e83cb7ad0017193fd1d59) - 2026-07-07
+* [Commit] [execution/commitment: fix trie state round-trip for propagate-folded roots (#22257)](https://github.com/erigontech/erigon/commit/419a0681ec005b63d82eeb864419f86297921864) - 2026-07-07
+* [Commit] [cl: bound caplin archive blob-column backfill so it can't wedge on Fulu (#22266)](https://github.com/erigontech/erigon/commit/34d6791baa80bff1c90d40db139a78053feb1871) - 2026-07-07
+* [Commit] [execution/types: additive transaction-type registry (#22201)](https://github.com/erigontech/erigon/commit/71b456fb473d6477450899cb82fdb3f4d3497e1d) - 2026-07-07
+* [Commit] [execution/commitment: collect ModeDirect touches in memory, sort without etl round-trip (#22267)](https://github.com/erigontech/erigon/commit/9870c7aee024586aa1c2a53efae79a84d1411649) - 2026-07-07
+* [Commit] [execution/chain: add opaque L2 config slot (L2JSON/L2Config) (#22194)](https://github.com/erigontech/erigon/commit/56954ec59c941f32bcea036e48a6068a960b6939) - 2026-07-07
+* [Commit] [execution/commitment: cut deferred branch update staging and handoff overhead (#22265)](https://github.com/erigontech/erigon/commit/2f88f6e44516beeb12bd1ed0768fcddb4c966998) - 2026-07-07
 ## Q2 2026
 
 

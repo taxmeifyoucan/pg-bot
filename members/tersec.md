@@ -27,6 +27,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add POST /eth/v1/beacon/execution_payload_envelopes](https://github.com/status-im/nimbus-eth2/pull/8695#pullrequestreview-4632147488) - 2026-07-05
 * [Pull Request] [enable QUIC by default](https://github.com/status-im/nimbus-eth2/pull/8711) - 2026-07-07
 * [Pull Request] [rm more pre-Fulu blob gossip support](https://github.com/status-im/nimbus-eth2/pull/8707) - 2026-07-06
+* [Pull Request] [replace deprecated actions/checkout@v4 with actions/checkout@v5](https://github.com/status-im/nimbus-eth2/pull/8716) - 2026-07-07
+* [Pull Request] [replace deprecated actions/cache@v4 with actions/cache@v5](https://github.com/status-im/nimbus-eth2/pull/8715) - 2026-07-07
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -40,6 +42,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix(engine): preserve withdrawals for V4 (Amsterdam) payload attributes](https://github.com/status-im/nimbus-eth1/pull/4409#pullrequestreview-4629587846) - 2026-07-04
 * [Review] [Review on: fix: txpool crash](https://github.com/status-im/nimbus-eth1/pull/4413#pullrequestreview-4632943794) - 2026-07-06
 * [Issue] [Various `discards ‘const’ qualifier from pointer target type [-Wdiscarded-qualifiers]` agcc warnings in build/libverifproxy/verifproxy.h](https://github.com/status-im/nimbus-eth1/issues/4415) - 2026-07-06
+* [Review] [Review on: builds MUST start on forkchoiceState.headBlockHash](https://github.com/status-im/nimbus-eth1/pull/4427#pullrequestreview-4643199623) - 2026-07-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

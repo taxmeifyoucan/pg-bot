@@ -8,6 +8,11 @@ Team: Grandine
 
 ## Contributions
 
+## Q3 2026
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [Support IPv6-only network listening via `--disable-ipv4` (#787)](https://github.com/grandinetech/grandine/pull/789) - 2026-07-07
 ## Q2 2026
 
 

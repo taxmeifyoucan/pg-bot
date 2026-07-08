@@ -15,6 +15,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): add more EIP-2780 tests](https://github.com/ethereum/execution-specs/pull/3055#pullrequestreview-4608004023) - 2026-07-01
 * [Review] [Review on: feat(specs): update EIP-8037 impl for ethereum/EIPs#11715](https://github.com/ethereum/execution-specs/pull/3021#pullrequestreview-4616673796) - 2026-07-02
 * [Review] [Review on: feat(tests): add more EIP-2780 tests](https://github.com/ethereum/execution-specs/pull/3055#pullrequestreview-4615230927) - 2026-07-02
+* [Pull Request] [feat(spec-specs,test-tests): update the EIP-2780 implementation](https://github.com/ethereum/execution-specs/pull/3126) - 2026-07-07
+* [Review] [Review on: feat(spec-specs, tests): move SSTORE access-cost check before read](https://github.com/ethereum/execution-specs/pull/3064#pullrequestreview-4642476055) - 2026-07-07
 ## Q2 2026
 
 

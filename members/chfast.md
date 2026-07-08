@@ -18,6 +18,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [ci: Upgrade execution-specs to tests@v20.0.0](https://github.com/ipsilon/evmone/pull/1579) - 2026-07-03
 * [Pull Request] [test: Name the shared RLP framing constants](https://github.com/ipsilon/evmone/pull/1580) - 2026-07-06
 * [Review] [Review on: test: Name the shared RLP framing constants](https://github.com/ipsilon/evmone/pull/1580#pullrequestreview-4636365040) - 2026-07-06
+* [Pull Request] [Add transaction decoding to the state library](https://github.com/ipsilon/evmone/pull/1581) - 2026-07-07
+* [Review] [Review on: Add transaction decoding to the state library](https://github.com/ipsilon/evmone/pull/1581#pullrequestreview-4644123232) - 2026-07-07
+* [Commit] [test: Name the shared RLP framing constants (#1580)](https://github.com/ipsilon/evmone/commit/61bfbfffc7078b6f786e2c0bc833374255eaef1f) - 2026-07-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -52,6 +55,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): EIP-8246 creation-tx initcode selfdestruct coverage (#3084)](https://github.com/ethereum/execution-specs/commit/7603ff69a8dca74dfbbcdd7c90c63f023d4e8f77) - 2026-07-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
+* [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
 ## Q2 2026
 
 

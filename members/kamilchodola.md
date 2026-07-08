@@ -32,6 +32,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(evm): cache repeated ECRecover/precompile results and fast-path static precompile calls + BAL replay](https://github.com/NethermindEth/nethermind/pull/11918#pullrequestreview-4634830985) - 2026-07-06
 * [Commit] [perf(engine): overlap sender recovery with newPayload pre-processing and cache recovered senders (#12249)](https://github.com/NethermindEth/nethermind/commit/22e7895202c80d4a5c00c1a3b2e2f9c34b9ae2ce) - 2026-07-06
 * [Commit] [fix(evm): weak-key the opcode-table spec cache; guarantee gas-charge inlining (#12250)](https://github.com/NethermindEth/nethermind/commit/9d3c0b8413dd999dfa92a46a8b782c3db068afb0) - 2026-07-06
+* [Pull Request] [perf(prewarmer): skip speculatively warming transactions the main thread has already started](https://github.com/NethermindEth/nethermind/pull/12319) - 2026-07-07
+* [Review] [Review on: perf(prewarmer): skip speculatively warming transactions the main thread has already started](https://github.com/NethermindEth/nethermind/pull/12319#pullrequestreview-4643604407) - 2026-07-07
+* [Pull Request] [ci(nethtest): migrate checked/no-intrinsics pyspec variants to nethtest](https://github.com/NethermindEth/nethermind/pull/12330) - 2026-07-07
+* [Pull Request] [perf(receipts): defer the receipt-blob write off the block-processing path](https://github.com/NethermindEth/nethermind/pull/12320) - 2026-07-07
+* [Commit] [Feat/evm enginetest (#11399)](https://github.com/NethermindEth/nethermind/commit/ee36241ac1314dcaa118c2566cc85429df2eea43) - 2026-07-07
 ## Q2 2026
 
 

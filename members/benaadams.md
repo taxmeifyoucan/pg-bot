@@ -27,6 +27,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(evm): batch per-opcode metric counters into a per-transaction flush](https://github.com/NethermindEth/nethermind/pull/12290#pullrequestreview-4635885483) - 2026-07-06
 * [Review] [Review on: perf(evm): reuse the EIP-7702 delegation lookup from validation](https://github.com/NethermindEth/nethermind/pull/12283#pullrequestreview-4635524915) - 2026-07-06
 * [Commit] [Fix contradictions, fabricated APIs, and stale facts in agent rules and skills (#12291)](https://github.com/NethermindEth/nethermind/commit/65477ebf2e571b1e515e060a9a55e5c00c0fdc17) - 2026-07-06
+* [Review] [Review on: feat(tools): Extract stateless inputs from EEST fixtures](https://github.com/NethermindEth/nethermind/pull/12306#pullrequestreview-4647419144) - 2026-07-07
+* [Review] [Review on: perf(evm): execute STATICCALL precompiles inline, skipping the child frame](https://github.com/NethermindEth/nethermind/pull/12297#pullrequestreview-4643599687) - 2026-07-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

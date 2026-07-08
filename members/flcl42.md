@@ -40,6 +40,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: perf(evm): batch per-opcode metric counters into a per-transaction flush](https://github.com/NethermindEth/nethermind/pull/12290#pullrequestreview-4634310439) - 2026-07-06
 * [Review] [Review on: Fix background scheduler branch completion](https://github.com/NethermindEth/nethermind/pull/12033#pullrequestreview-4633223057) - 2026-07-06
 * [Commit] [More RLP checks for txs, receipts, snap (#12301)](https://github.com/NethermindEth/nethermind/commit/5f42aedd19e94ef4b6b5299822dc1ea2841010f7) - 2026-07-06
+* [Pull Request] [Don't feed p2p with external networks peers](https://github.com/NethermindEth/nethermind/pull/12321) - 2026-07-07
+* [Review] [Review on: Resolve some discovery dos vectors(which hive revealed)](https://github.com/NethermindEth/nethermind/pull/12211#pullrequestreview-4643776203) - 2026-07-07
+* [Review] [Review on: fix(discovery): publish correct ENR endpoint for IPv6 and unresolved external IPs](https://github.com/NethermindEth/nethermind/pull/12308#pullrequestreview-4643210361) - 2026-07-07
+* [Review] [Review on: fix(network): dial ENR-backed peers at their tcp port](https://github.com/NethermindEth/nethermind/pull/12307#pullrequestreview-4643693175) - 2026-07-07
+* [Commit] [Resolve some discovery dos vectors(which hive revealed) (#12211)](https://github.com/NethermindEth/nethermind/commit/f905eb2ac41520e49c88729939bcbe5f7b0d59b8) - 2026-07-07
+* [Commit] [Publish Nethermind.Kademlia package (#12259)](https://github.com/NethermindEth/nethermind/commit/cd5132b66628771ebbe1af0ab304075bec052e1e) - 2026-07-07
+* [Commit] [Fix background scheduler branch completion (#12033)](https://github.com/NethermindEth/nethermind/commit/b92e167245870d315f94c7390447bb5c83d4cfd9) - 2026-07-07
 ## Q2 2026
 
 

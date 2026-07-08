@@ -19,6 +19,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Slow block tracer](https://github.com/besu-eth/besu/pull/10746#pullrequestreview-4637032801) - 2026-07-06
 * [Review] [Review on: build: provide solc directly instead of via the broken web3j-sokt release index](https://github.com/besu-eth/besu/pull/10755#pullrequestreview-4639406383) - 2026-07-06
 * [Review] [Review on: gha-overhaul](https://github.com/besu-eth/besu/pull/10653#pullrequestreview-4639263138) - 2026-07-06
+* [Review] [Review on: Missed A Spot! contents: read all jobs](https://github.com/besu-eth/besu/pull/10768#pullrequestreview-4648157122) - 2026-07-07
+* [Review] [Review on: GHA: remove kurtosis nightly workflow](https://github.com/besu-eth/besu/pull/10758#pullrequestreview-4644029309) - 2026-07-07
+* [Review] [Review on: GHA: remove sonarcloud workflow](https://github.com/besu-eth/besu/pull/10759#pullrequestreview-4644032582) - 2026-07-07
+* [Review] [Review on: emit JMH results as JSON](https://github.com/besu-eth/besu/pull/10747#pullrequestreview-4645209751) - 2026-07-07
+* [Review] [Review on: allow workflows to pull in secrets from the ci.yml](https://github.com/besu-eth/besu/pull/10761#pullrequestreview-4645003083) - 2026-07-07
+* [Review] [Review on: update perms of the release pipeline jobs](https://github.com/besu-eth/besu/pull/10762#pullrequestreview-4645167196) - 2026-07-07
+* [Review] [Review on: changed web3j to a test dependency](https://github.com/besu-eth/besu/pull/10694#pullrequestreview-4642143025) - 2026-07-07
 ## Q2 2026
 
 

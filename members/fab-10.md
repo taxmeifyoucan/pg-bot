@@ -18,6 +18,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Revert "fix(engine): return SYNCING when parent world state is not immediately cached (#10600)" (#10737)](https://github.com/besu-eth/besu/commit/2a0fa2e9dc7d5a9a0e91f89e763541397c0620e9) - 2026-07-03
 * [Review] [Review on: Revert "fcu before engine new payload (#10731)" (cf7d594)](https://github.com/besu-eth/besu/pull/10754#pullrequestreview-4637637441) - 2026-07-06
 * [Review] [Review on: Revert "Persist newpayload without fcu glamsterdam devnet 6 - fix (#10732)"](https://github.com/besu-eth/besu/pull/10753#pullrequestreview-4637587189) - 2026-07-06
+* [Review] [Review on: changed web3j to a test dependency](https://github.com/besu-eth/besu/pull/10694#pullrequestreview-4642381973) - 2026-07-07
+* [Review] [Review on: ci: add check for committed binary files](https://github.com/besu-eth/besu/pull/10691#pullrequestreview-4642367296) - 2026-07-07
 ## Q2 2026
 
 

@@ -22,6 +22,9 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4624406026) - 2026-07-03
 * [Commit] [Update EIP-7928: SSTORE access cost check](https://github.com/ethereum/EIPs/commit/1b4e9a44c1fd51ffd8afe4f0c404cf51d84cff64) - 2026-07-04
 
+* [Review] [Review on: Update EIP-7981: Move to Review](https://github.com/ethereum/EIPs/pull/11878#pullrequestreview-4641638207) - 2026-07-07
+* [Review] [Review on: Update EIP-7976: Move to Review](https://github.com/ethereum/EIPs/pull/11877#pullrequestreview-4641631509) - 2026-07-07
+* [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4641632629) - 2026-07-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 ## Q2 2026

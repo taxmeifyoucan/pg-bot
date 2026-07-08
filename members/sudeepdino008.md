@@ -31,6 +31,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/version: relax minor version check in Supports (#22202)](https://github.com/erigontech/erigon/commit/5620d32413b059cacdaa79828aee4343cde1b7e2) - 2026-07-03
 * [Review] [Review on: db/kv, db/state: retire commitment-history frozen files by their own window](https://github.com/erigontech/erigon/pull/22243#pullrequestreview-4634446037) - 2026-07-06
 * [Pull Request] [[r3.5] cmd/integration: collate state files incrementally in parallel stage_exec](https://github.com/erigontech/erigon/pull/22262) - 2026-07-06
+* [Review] [Review on: db/snapshotsync: say why snapshot segments are unavailable](https://github.com/erigontech/erigon/pull/22289#pullrequestreview-4644625724) - 2026-07-07
+* [Commit] [db/seg: 1.5x faster merge with smaller suffix array use (#22050)](https://github.com/erigontech/erigon/commit/e44109d1637ed65817876dd4c726fefca0a014e0) - 2026-07-07
 ## Q2 2026
 
 

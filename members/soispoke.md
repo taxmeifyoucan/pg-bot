@@ -8,6 +8,11 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Add EIP: Frame type for PQ sig and STARK aggregation](https://github.com/ethereum/EIPs/pull/11772#pullrequestreview-4643324901) - 2026-07-07
 ## Q2 2026
 
 

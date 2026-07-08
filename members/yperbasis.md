@@ -104,6 +104,26 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/state: fix FilesAmount data race with background file integration (#22264)](https://github.com/erigontech/erigon/commit/bb96f7be9e5ceda83878411d4ffa145df2b25a64) - 2026-07-06
 * [Commit] [execution: mid-block resume follow-ups — prior receipts, notifications, blooms, blob gas (#22235)](https://github.com/erigontech/erigon/commit/7898015b274309919adc734e743cafefa569b5b7) - 2026-07-06
 
+* [Review] [Review on: common, db, cl, execution, rpc, node: consolidate pool and retry utilities](https://github.com/erigontech/erigon/pull/22170#pullrequestreview-4647986966) - 2026-07-07
+* [Pull Request] [node/cli: default --persist.receipts off in all prune modes](https://github.com/erigontech/erigon/pull/22296) - 2026-07-07
+* [Review] [Review on: node/cli: default --persist.receipts off in all prune modes](https://github.com/erigontech/erigon/pull/22296#pullrequestreview-4646377160) - 2026-07-07
+* [Review] [Review on: db/state: revert #20445 collation/unwind changes](https://github.com/erigontech/erigon/pull/22288#pullrequestreview-4644444645) - 2026-07-07
+* [Review] [Review on: [r3.5] cmd/utils: fix allow snapshots reset on upgraded datadirs by restricting table config](https://github.com/erigontech/erigon/pull/22291#pullrequestreview-4644623786) - 2026-07-07
+* [Review] [Review on: common/race: fix darwin -race crashes from file mmaps in the TSAN heap window](https://github.com/erigontech/erigon/pull/21611#pullrequestreview-4648937032) - 2026-07-07
+* [Review] [Review on: rpc: fix BlockOverrides in trace endpoints](https://github.com/erigontech/erigon/pull/22183#pullrequestreview-4644191197) - 2026-07-07
+* [Review] [Review on: db/snapshotsync: share segment open/close helpers with caplin snapshots](https://github.com/erigontech/erigon/pull/22172#pullrequestreview-4648054043) - 2026-07-07
+* [Pull Request] [execution/engineapi, execution/execmodule: integration tests for reorg/unwind gaps](https://github.com/erigontech/erigon/pull/22300) - 2026-07-07
+* [Review] [Review on: cl: allow boundary attestations while head state lags](https://github.com/erigontech/erigon/pull/22284#pullrequestreview-4644522383) - 2026-07-07
+* [Review] [Review on: [r3.5] cl: allow boundary attestations while head state lags](https://github.com/erigontech/erigon/pull/22251#pullrequestreview-4644447835) - 2026-07-07
+* [Issue] [execution/execmodule: FCU to the already-canonical valid ancestor of a rejected block re-executes the rejected block](https://github.com/erigontech/erigon/issues/22298) - 2026-07-07
+* [Issue] [execution: too-deep FCU passes the unwind gate, partially unwinds, then wedges block production (SeekCommitment "state out of date")](https://github.com/erigontech/erigon/issues/22301) - 2026-07-07
+* [Issue] [txpool: pending nonce stays stale after fork-bounce reorgs, blocking new txns with "nonce too low"](https://github.com/erigontech/erigon/issues/22299) - 2026-07-07
+* [Issue] [Re-measure, elaborate and publicize use of slower disks for colder state/data](https://github.com/erigontech/erigon/issues/22297) - 2026-07-07
+* [Issue] [Prototype and de-risk Partitioned Binary Tree](https://github.com/erigontech/erigon/issues/22292) - 2026-07-07
+* [Issue] [db/kv/kvcache, execution/execmodule: Coherent warmth recovery — carry-over prerequisites (beyond #22276) and unannounced-version View waits](https://github.com/erigontech/erigon/issues/22290) - 2026-07-07
+* [Commit] [node/cli: default --persist.receipts off in all prune modes (#22296)](https://github.com/erigontech/erigon/commit/b6fd1400312ada5fc95e42639cdb30723d6720aa) - 2026-07-08
+* [Commit] [rpc: evict idle polling filters after a timeout, add subscription metrics (#22261)](https://github.com/erigontech/erigon/commit/fda04fe38d86865d509e89de39bc308ce670da2e) - 2026-07-07
+* [Commit] [p2p/sentry/libsentry, node/direct: collapse multiplexer fan-out boilerplate with generics (#22166)](https://github.com/erigontech/erigon/commit/9684480d4b8a36a2c23dc3c38a86f2a2672aefa4) - 2026-07-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

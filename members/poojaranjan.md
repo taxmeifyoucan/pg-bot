@@ -23,6 +23,22 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Pull Request] [Update EIP-7928: Move to Review](https://github.com/ethereum/EIPs/pull/11875) - 2026-07-06
 * [Pull Request] [Update EIP-7976: Move to Review](https://github.com/ethereum/EIPs/pull/11877) - 2026-07-06
 * [Pull Request] [Update EIP-7708: Move to Review](https://github.com/ethereum/EIPs/pull/11872) - 2026-07-06
+* [Pull Request] [Update EIP-7997: Move to Review](https://github.com/ethereum/EIPs/pull/11884) - 2026-07-07
+* [Pull Request] [Update EIP-7904: Move to Review](https://github.com/ethereum/EIPs/pull/11883) - 2026-07-07
+* [Pull Request] [Update EIP-7979: Move to Review](https://github.com/ethereum/EIPs/pull/11889) - 2026-07-07
+* [Pull Request] [Update EIP-8061: Move to Review](https://github.com/ethereum/EIPs/pull/11887) - 2026-07-07
+* [Pull Request] [Update EIP-8038: Move to Review](https://github.com/ethereum/EIPs/pull/11885) - 2026-07-07
+* [Pull Request] [Update EIP-8080: Move to Review](https://github.com/ethereum/EIPs/pull/11888) - 2026-07-07
+* [Pull Request] [Update EIP-8045: Move to Review](https://github.com/ethereum/EIPs/pull/11886) - 2026-07-07
+* [Pull Request] [Update EIP-2780: Move to Review](https://github.com/ethereum/EIPs/pull/11882) - 2026-07-07
+* [Commit] [Update EIP-7928: Move to Review](https://github.com/ethereum/EIPs/commit/9f5c44394559d065ad8260fca09703fb195f8919) - 2026-07-07
+* [Commit] [Update EIP-7981: Move to Review](https://github.com/ethereum/EIPs/commit/747b78c0edfdf04e9e2933ad1bec592d3318e1d9) - 2026-07-07
+* [Commit] [Update EIP-7976: Move to Review](https://github.com/ethereum/EIPs/commit/c998ef94eb16a6af8a9b8e2084f947b17ea14865) - 2026-07-07
+* [Commit] [Update EIP-7997: Move to Review](https://github.com/ethereum/EIPs/commit/e960dd69bd7b6d81647db09bdfd985a3706bc3f9) - 2026-07-07
+* [Commit] [Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/commit/fcef3c3c1cd610ff0f4cbee77867026fe5c97898) - 2026-07-07
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #105, July 7, 2026](https://github.com/ethereum/pm/issues/2150) - 2026-07-07
 ## Q2 2026
 
 

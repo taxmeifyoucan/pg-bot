@@ -23,6 +23,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: VC logging: Correctly populate attestation data as a key](https://github.com/OffchainLabs/prysm/pull/17081#pullrequestreview-4634879243) - 2026-07-06
 * [Review] [Review on: Fix race condition for RW operation of REST handler host](https://github.com/OffchainLabs/prysm/pull/17092#pullrequestreview-4633895751) - 2026-07-06
 * [Review] [Review on: VC logging: Consolidate verbose logging messages after submitting messages for duties](https://github.com/OffchainLabs/prysm/pull/17083#pullrequestreview-4633915325) - 2026-07-06
+* [Review] [Review on: Remove Bazel: Phase 2/9](https://github.com/OffchainLabs/prysm/pull/17007#pullrequestreview-4644051022) - 2026-07-07
+* [Review] [Review on: Kurtosis+E2E: Set up Kurtosis harness and Add minimal tests](https://github.com/OffchainLabs/prysm/pull/16999#pullrequestreview-4644692335) - 2026-07-07
+* [Review] [Review on: e2e: Reliability improvements](https://github.com/OffchainLabs/prysm/pull/16948#pullrequestreview-4644565735) - 2026-07-07
+* [Commit] [Remove Bazel: Phase 2/9 (#17007)](https://github.com/OffchainLabs/prysm/commit/688909f11e58e98902fc637c0cb92f5686360f70) - 2026-07-07
 ## Q2 2026
 
 

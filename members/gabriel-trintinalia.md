@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 ## Contributions
 
+## Q3 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: feat(discv4): migrate DiscV4 UDP transport from Vert.x to Netty](https://github.com/besu-eth/besu/pull/10716#pullrequestreview-4645190602) - 2026-07-07
 ## Q2 2026
 
 

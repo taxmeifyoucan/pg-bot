@@ -20,8 +20,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Add progressive SSZ infrastructure types](https://github.com/Consensys/teku/pull/10928#pullrequestreview-4627245526) - 2026-07-03
 * [Review] [Review on: Redesign fork choice abstractions](https://github.com/Consensys/teku/pull/10901#pullrequestreview-4625828695) - 2026-07-03
 
+* [Pull Request] [Ssz additional optimizations](https://github.com/Consensys/teku/pull/10946) - 2026-07-07
+* [Review] [Review on: Add Aircompressor to RPC. Off by default.](https://github.com/Consensys/teku/pull/10918#pullrequestreview-4647583547) - 2026-07-07
+* [Review] [Review on: Handle worker failure in AggregatingSignatureVerificationService](https://github.com/Consensys/teku/pull/10939#pullrequestreview-4647207463) - 2026-07-07
+* [Review] [Review on: Tolerate individual malformed ENRs in discv5](https://github.com/Consensys/teku/pull/10941#pullrequestreview-4645786712) - 2026-07-07
+* [Commit] [Ssz additional optimizations (#10946)](https://github.com/Consensys/teku/commit/32de48d3eee31a5548e491aa90368ad3bec271d5) - 2026-07-07
+* [Commit] [Add progressive SSZ infrastructure types (#10928)](https://github.com/Consensys/teku/commit/4b4073f6785573ca903c340d1f8b0bd1090f56c2) - 2026-07-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
+* [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07
 ## Q2 2026
 
 

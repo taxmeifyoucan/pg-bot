@@ -8,6 +8,11 @@ Team: Consensus R&D (EF)
 
 ## Contributions
 
+## Q3 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Remove CarlBeek](https://github.com/protocolguild/documentation/pull/513) - 2026-07-07
 ## Q1 2026
 
 

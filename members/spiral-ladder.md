@@ -27,6 +27,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat: split nextValue fn](https://github.com/ChainSafe/lodestar-z/pull/464) - 2026-07-03
 * [Commit] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility (#460)](https://github.com/ChainSafe/lodestar-z/commit/65df5aff04cc557ad0208773d4dbc840a239a236) - 2026-07-06
 * [Commit] [feat: split nextValue fn (#464)](https://github.com/ChainSafe/lodestar-z/commit/b47faeb683e4c5cbffb1292786e6c06111fa3a5d) - 2026-07-06
+* [Commit] [fix: missing deinits in loadOtherState (#459)](https://github.com/ChainSafe/lodestar-z/commit/094d27855a549927857da8a996821a4a269b2291) - 2026-07-07
 ## Q2 2026
 
 

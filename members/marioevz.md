@@ -23,6 +23,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(spec,tests): Implement EIP-8282 (#3070)](https://github.com/ethereum/execution-specs/commit/b0d5cae83ac6b673ce90f5c922e8fa50678627a6) - 2026-07-02
 * [Review] [Review on: fix(testing): clear watch screen via Console, not deprecated os.system](https://github.com/ethereum/execution-specs/pull/3102#pullrequestreview-4627053714) - 2026-07-03
 * [Review] [Review on: feat(spec-specs, tests): finalize EIP-8282 builder deposit contract](https://github.com/ethereum/execution-specs/pull/3091#pullrequestreview-4638218222) - 2026-07-06
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 ## Q2 2026
 
 

@@ -81,6 +81,28 @@ Team: Erigon
 * [Commit] [db/state: integrate + cleanAfterMerge under a single dirtyFilesLock (#22238)](https://github.com/erigontech/erigon/commit/7cd925e620a71fe4304ded5a36d027b8450c94dd) - 2026-07-06
 * [Commit] [backend.go: nil-ptr on Ctrl-C at startup (#22247)](https://github.com/erigontech/erigon/commit/5d11369a26293e433fd1d5987f4b762b6e6ab9a4) - 2026-07-06
 * [Commit] [cmd/integration: use cobra cmd.Context() instead of re-deriving RootContext per subcommand (#22220)](https://github.com/erigontech/erigon/commit/7f06704d663db38d2f13f64ca3ec5bf0456e75b2) - 2026-07-06
+* [Pull Request] [db, cmd: remove forkable and forkableagg](https://github.com/erigontech/erigon/pull/22287) - 2026-07-07
+* [Review] [Review on: common, db, cl, execution, rpc, node: consolidate pool and retry utilities](https://github.com/erigontech/erigon/pull/22170#pullrequestreview-4650227404) - 2026-07-08
+* [Review] [Review on: node/cli: default --persist.receipts off in all prune modes](https://github.com/erigontech/erigon/pull/22296#pullrequestreview-4650052403) - 2026-07-08
+* [Review] [Review on: cl/p2p: advertise actually bound ports in the caplin ENR](https://github.com/erigontech/erigon/pull/22273#pullrequestreview-4642087578) - 2026-07-07
+* [Review] [Review on: db/snapshotsync, common/concurrent: BlockRetire.Close drains its background retire](https://github.com/erigontech/erigon/pull/22253#pullrequestreview-4642164848) - 2026-07-07
+* [Review] [Review on: ci: fix zizmor template-injection in 5 QA workflows (#21132)](https://github.com/erigontech/erigon/pull/22293#pullrequestreview-4650161343) - 2026-07-08
+* [Review] [Review on: [SharovBot] cmd/rpctest: fix staticcheck SA4023 lint errors in cobra Run handlers](https://github.com/erigontech/erigon/pull/22302#pullrequestreview-4649958254) - 2026-07-08
+* [Pull Request] [golangci-lint: enable modernize 'minmax' analyzer and apply autofixes](https://github.com/erigontech/erigon/pull/22283) - 2026-07-07
+* [Review] [Review on: execution/commitment: fix trie state round-trip for propagate-folded roots](https://github.com/erigontech/erigon/pull/22257#pullrequestreview-4642107537) - 2026-07-07
+* [Pull Request] [.github: bump actionlint 1.7.7→1.7.12, zizmor 1.24.1→1.26.1](https://github.com/erigontech/erigon/pull/22285) - 2026-07-07
+* [Review] [Review on: fix: allow snapshots reset on upgraded datadirs by restricting table config](https://github.com/erigontech/erigon/pull/22281#pullrequestreview-4641990418) - 2026-07-07
+* [Pull Request] [db/state, cmd/integration: remove unused history file deduplication tooling](https://github.com/erigontech/erigon/pull/22282) - 2026-07-07
+* [Review] [Review on: db/seg: 1.5x faster merge with smaller suffix array use](https://github.com/erigontech/erigon/pull/22050#pullrequestreview-4643281931) - 2026-07-07
+* [Review] [Review on: ci(qa): auto-update disk-sizes.json for full (monthly) + minimal (nightly) nodes](https://github.com/erigontech/erigon/pull/21782#pullrequestreview-4643210542) - 2026-07-07
+* [Review] [Review on: p2p/enode: close sources added after FairMix shutdown](https://github.com/erigontech/erigon/pull/22249#pullrequestreview-4642192996) - 2026-07-07
+* [Commit] [txnprovider/txpool: skip periodic remote-txn flush lock-free when nothing buffered (#22252)](https://github.com/erigontech/erigon/commit/b85a699135806aab87c928054d8ebd1b1ebe9ad6) - 2026-07-07
+* [Commit] [.github: bump actionlint 1.7.7→1.7.12, zizmor 1.24.1→1.26.1 (#22285)](https://github.com/erigontech/erigon/commit/10dd294568a96c43e41f1867185a832d57ef19f8) - 2026-07-07
+* [Commit] [db/state, cmd/integration: remove unused history file deduplication tooling (#22282)](https://github.com/erigontech/erigon/commit/bce8c4e6e018f736b7feec7012b4596f9c147c3e) - 2026-07-07
+* [Commit] [cl, go.mod: bump gohashtree to v0.0.5-beta, migrate go-bitfield to OffchainLabs (#22250)](https://github.com/erigontech/erigon/commit/31264c82d6e2645d26ae5f9e051447a43d4b2571) - 2026-07-07
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026
 
 

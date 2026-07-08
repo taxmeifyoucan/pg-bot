@@ -28,6 +28,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Add progressive SSZ infrastructure types](https://github.com/Consensys/teku/pull/10928#pullrequestreview-4632915118) - 2026-07-06
 * [Commit] [Produce block scripts (#10944)](https://github.com/Consensys/teku/commit/df628366f04262d8994bd2fa99e8dbd67e60d2dc) - 2026-07-07
 * [Commit] [Fixed dual stack port binding on same port (#10936)](https://github.com/Consensys/teku/commit/bb5564c29d663c09c20fa204ef4a2df4967be142) - 2026-07-06
+* [Review] [Review on: Ssz additional optimizations](https://github.com/Consensys/teku/pull/10946#pullrequestreview-4649480964) - 2026-07-07
+* [Review] [Review on: Produce block v4 with payload](https://github.com/Consensys/teku/pull/10832#pullrequestreview-4649492619) - 2026-07-07
+* [Review] [Review on: Add progressive SSZ infrastructure types](https://github.com/Consensys/teku/pull/10928#pullrequestreview-4644081946) - 2026-07-07
+* [Issue] [[beacon-api] update event for gloas (payload_attributes)](https://github.com/Consensys/teku/issues/10945) - 2026-07-07
 ## Q2 2026
 
 

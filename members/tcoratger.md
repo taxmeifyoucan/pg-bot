@@ -42,6 +42,9 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: fix: patch merkle-tree soundness gap and cleanup some quality findings](https://github.com/Plonky3/Plonky3/pull/1921#pullrequestreview-4636073327) - 2026-07-06
 * [Review] [Review on: fix: doc and light tweaks](https://github.com/Plonky3/Plonky3/pull/1920#pullrequestreview-4635476492) - 2026-07-06
 * [Commit] [perf(merkle-tree): optimal frontier pruning for multi-opening proofs (#1919)](https://github.com/Plonky3/Plonky3/commit/e1eca997f41218c0a43dbbb14ac3950b54666117) - 2026-07-06
+* [Review] [Review on: refactor: bundle security logic in a dedicated crate](https://github.com/Plonky3/Plonky3/pull/1686#pullrequestreview-4647132894) - 2026-07-07
+* [Review] [Review on: chore(deps): update num-bigint requirement from 0.4.6 to 0.5.1 in the cargo group](https://github.com/Plonky3/Plonky3/pull/1930#pullrequestreview-4643716081) - 2026-07-07
+* [Commit] [fix(monolith-air): guard match-flag batching precondition, correct docs (#1929)](https://github.com/Plonky3/Plonky3/commit/8eca906fec59f22703f2b6c3a70c5e201584b1bc) - 2026-07-07
 ## Q2 2026
 
 

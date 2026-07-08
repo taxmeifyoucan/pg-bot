@@ -60,6 +60,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Ignore signature failures for queued envelopes and payload attestations (#17103)](https://github.com/OffchainLabs/prysm/commit/b894b041ac46f6f5c3e06a009ed84ccb5a6129f5) - 2026-07-06
 * [Commit] [Compute validator mid-slot delay from SLOT_DURATION_MS (#17098)](https://github.com/OffchainLabs/prysm/commit/77af1bebb62b05eaff13ea9964cf42a6575d70ed) - 2026-07-06
 * [Commit] [Skip nil builder entries in builderInsertionIndex (#17096)](https://github.com/OffchainLabs/prysm/commit/c097542f3c87788f62f147f283064ea3202b8d86) - 2026-07-06
+* [Pull Request] [Decouple signed builder URL from the HTTP dial target](https://github.com/OffchainLabs/prysm/pull/17124) - 2026-07-07
+* [Pull Request] [Implement fast confirmation rule ](https://github.com/OffchainLabs/prysm/pull/17122) - 2026-07-07
+* [Review] [Review on: Validate and cache published execution payload bids before broadcast](https://github.com/OffchainLabs/prysm/pull/17101#pullrequestreview-4647710870) - 2026-07-07
+* [Review] [Review on: Count PTC votes from duplicated validators](https://github.com/OffchainLabs/prysm/pull/17028#pullrequestreview-4645877730) - 2026-07-07
+* [Commit] [Validate and cache published execution payload bids before broadcast (#17101)](https://github.com/OffchainLabs/prysm/commit/044d6bc469a33cef3bce6c8c1094e3bbcef100eb) - 2026-07-07
+* [Commit] [Hold the state lock in QueueBuilderPaymentForSlot (#17095)](https://github.com/OffchainLabs/prysm/commit/d138f97294ed873b219f2b76490a39bd84751695) - 2026-07-07
+* [Commit] [Order Gloas before Fulu in gossip block topic mapping (#17114)](https://github.com/OffchainLabs/prysm/commit/a99b53d1cc8bca7038f07581d52b5f3dd36d04d4) - 2026-07-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 ## Q2 2026

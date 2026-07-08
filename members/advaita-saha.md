@@ -32,6 +32,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Issue] [warning in linux-amd64 build : ABI for passing parameters with 64-byte alignment has changed in GCC 4.6](https://github.com/status-im/nimbus-eth1/issues/4416) - 2026-07-06
 * [Commit] [add metrics to the txpool & fix sender cleaning (#4418)](https://github.com/status-im/nimbus-eth1/commit/f7d272c123cae5ac608351689abe932591c1693a) - 2026-07-06
 * [Commit] [fix: txpool crash (#4413)](https://github.com/status-im/nimbus-eth1/commit/81fc21e0e8f02fe3aaa6a7a07103482f5cc33ecf) - 2026-07-06
+* [Pull Request] [builds MUST start on forkchoiceState.headBlockHash](https://github.com/status-im/nimbus-eth1/pull/4427) - 2026-07-07
+* [Review] [Review on: builds MUST start on forkchoiceState.headBlockHash](https://github.com/status-im/nimbus-eth1/pull/4427#pullrequestreview-4643256340) - 2026-07-07
 ## Q2 2026
 
 

@@ -46,8 +46,17 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Mandate QUIC as primary transport](https://github.com/ethereum/consensus-specs/pull/5330#pullrequestreview-4638377543) - 2026-07-06
 * [Review] [Review on: Specify the IL-compliance for NOT_VALIDATED payloads](https://github.com/ethereum/consensus-specs/pull/5433#pullrequestreview-4639075535) - 2026-07-06
 
+* [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4641802463) - 2026-07-07
+* [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648613364) - 2026-07-07
+* [Review] [Review on: Remove `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD` in Gloas](https://github.com/ethereum/consensus-specs/pull/5436#pullrequestreview-4644899162) - 2026-07-07
+* [Pull Request] [Fix `limit()` calls for `ProgressiveList` operation lists](https://github.com/ethereum/consensus-specs/pull/5437) - 2026-07-07
+* [Pull Request] [Use existing helpers to get limits](https://github.com/ethereum/consensus-specs/pull/5438) - 2026-07-07
+* [Commit] [Remove `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD` in Gloas (#5436)](https://github.com/ethereum/consensus-specs/commit/bd46c06699feb29023fc537b97955746965c46da) - 2026-07-07
+* [Commit] [Use existing helpers to get limits (#5438)](https://github.com/ethereum/consensus-specs/commit/a62bc326ccbab74c867ec66263b504eb272ea9b3) - 2026-07-07
+* [Commit] [Fix `limit()` calls for `ProgressiveList` operation lists (#5437)](https://github.com/ethereum/consensus-specs/commit/cfbb91f90e1e89381f7b54724335affac0392e41) - 2026-07-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
+* [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
 ## Q2 2026
 
 

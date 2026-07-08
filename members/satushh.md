@@ -19,6 +19,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Recover from nil headblock in db at startup](https://github.com/OffchainLabs/prysm/pull/17087#pullrequestreview-4625364188) - 2026-07-03
 * [Review] [Review on: Payload reorg](https://github.com/OffchainLabs/prysm/pull/16933#pullrequestreview-4624301465) - 2026-07-03
 * [Pull Request] [Nil headblock guard](https://github.com/OffchainLabs/prysm/pull/17110) - 2026-07-06
+* [Commit] [Nil headblock guard (#17110)](https://github.com/OffchainLabs/prysm/commit/c5e28e0fae6cedd82ef4c1643cd046dfe8698498) - 2026-07-07
 ## Q2 2026
 
 

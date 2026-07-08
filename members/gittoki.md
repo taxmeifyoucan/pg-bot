@@ -11,6 +11,7 @@ Github: [@gittoki](https://github.com/gittoki)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4638980165) - 2026-07-06
+* [Review] [Review on: Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514#pullrequestreview-4649665025) - 2026-07-07
 ## Q2 2026
 
 
