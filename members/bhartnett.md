@@ -17,6 +17,12 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Parallel execution using block access lists](https://github.com/status-im/nimbus-eth1/pull/4408) - 2026-07-03
 * [Pull Request] [Rename block_access_list_* files to bal_*](https://github.com/status-im/nimbus-eth1/pull/4435) - 2026-07-08
 * [Commit] [Parallel execution using block access lists (#4408)](https://github.com/status-im/nimbus-eth1/commit/77a0fd8b65b04ad192bfe16384d22a795b31d8b4) - 2026-07-07
+* [Pull Request] [Parallel config refactor and improvements](https://github.com/status-im/nimbus-eth1/pull/4440) - 2026-07-08
+* [Pull Request] [Fixes for failing glamsterdam-devnet-6 tests ](https://github.com/status-im/nimbus-eth1/pull/4446) - 2026-07-08
+* [Pull Request] [Make aristo staticLevel and lookup stats updates thread safe](https://github.com/status-im/nimbus-eth1/pull/4439) - 2026-07-08
+* [Commit] [Fixes for failing glamsterdam-devnet-6 tests  (#4446)](https://github.com/status-im/nimbus-eth1/commit/d83800e02eca464f8a1f4f350a863813af068e0a) - 2026-07-08
+* [Commit] [Make aristo staticLevel and lookup stats updates thread safe (#4439)](https://github.com/status-im/nimbus-eth1/commit/fce17eed1f9b449950136205df9f74d09b6d51fa) - 2026-07-08
+* [Commit] [Rename block_access_list_* files to bal_* (#4435)](https://github.com/status-im/nimbus-eth1/commit/dc385791bace3ff869d7912c7e95c07d16d04331) - 2026-07-08
 ## Q2 2026
 
 

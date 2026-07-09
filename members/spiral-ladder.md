@@ -15,6 +15,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 
 * [Pull Request] [feat(shuffling-cache): add 'has' api to shuffling cache](https://github.com/ChainSafe/lodestar/pull/9579) - 2026-07-02
 * [Commit] [feat(shuffling-cache): add 'has' api to shuffling cache (#9579)](https://github.com/ChainSafe/lodestar/commit/0a39befe628ff1ed4be3e752ace68456936ae756) - 2026-07-03
+* [Review] [Review on: fix: submit PTC attestation early only for the canonical block's payload](https://github.com/ChainSafe/lodestar/pull/9588#pullrequestreview-4653760072) - 2026-07-08
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -28,6 +29,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility (#460)](https://github.com/ChainSafe/lodestar-z/commit/65df5aff04cc557ad0208773d4dbc840a239a236) - 2026-07-06
 * [Commit] [feat: split nextValue fn (#464)](https://github.com/ChainSafe/lodestar-z/commit/b47faeb683e4c5cbffb1292786e6c06111fa3a5d) - 2026-07-06
 * [Commit] [fix: missing deinits in loadOtherState (#459)](https://github.com/ChainSafe/lodestar-z/commit/094d27855a549927857da8a996821a4a269b2291) - 2026-07-07
+* [Pull Request] [fix: populate cache balances during rewards/penalties processing](https://github.com/ChainSafe/lodestar-z/pull/474) - 2026-07-08
+* [Commit] [fix: populate cache balances during rewards/penalties processing (#474)](https://github.com/ChainSafe/lodestar-z/commit/5bf23dc4a664d84dcb91d14234128cc89c53b934) - 2026-07-08
+* [Commit] [fix: state transition binding exports (#456)](https://github.com/ChainSafe/lodestar-z/commit/895982cf1b9002c8e72a8ca83b8daeddcb862a6a) - 2026-07-08
 ## Q2 2026
 
 

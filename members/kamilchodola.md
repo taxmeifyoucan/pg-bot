@@ -37,6 +37,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [ci(nethtest): migrate checked/no-intrinsics pyspec variants to nethtest](https://github.com/NethermindEth/nethermind/pull/12330) - 2026-07-07
 * [Pull Request] [perf(receipts): defer the receipt-blob write off the block-processing path](https://github.com/NethermindEth/nethermind/pull/12320) - 2026-07-07
 * [Commit] [Feat/evm enginetest (#11399)](https://github.com/NethermindEth/nethermind/commit/ee36241ac1314dcaa118c2566cc85429df2eea43) - 2026-07-07
+* [Pull Request] [perf(prewarmer): feed trie warm-up hints from speculative execution to the flat TrieWarmer](https://github.com/NethermindEth/nethermind/pull/12339) - 2026-07-08
+* [Review] [Review on: perf(prewarmer): feed trie warm-up hints from speculative execution to the flat TrieWarmer](https://github.com/NethermindEth/nethermind/pull/12339#pullrequestreview-4655573953) - 2026-07-08
+* [Pull Request] [perf(flat): fall back to the MPMC buffer when the trie warmer slot ring is full](https://github.com/NethermindEth/nethermind/pull/12347) - 2026-07-08
+* [Commit] [perf(prewarmer): skip speculatively warming transactions the main thread has already started (#12319)](https://github.com/NethermindEth/nethermind/commit/4ef68da31b6e75399e279c84566df05410397c3c) - 2026-07-08
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 ## Q2 2026
 
 

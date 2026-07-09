@@ -17,6 +17,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Add EIP: Align Checkpoint with Epoch Boundary Block](https://github.com/ethereum/EIPs/pull/11871) - 2026-07-06
 * [Pull Request] [Update EIP-8282: Reduce verbosity, defer consensus-layer detail to consensus-specs](https://github.com/ethereum/EIPs/pull/11869) - 2026-07-06
 * [Review] [Review on: Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859#pullrequestreview-4638077993) - 2026-07-06
+* [Review] [Review on: Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899#pullrequestreview-4654194568) - 2026-07-08
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
 
@@ -25,6 +26,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: remove Gloas deposit request limit](https://github.com/ChainSafe/lodestar/pull/9617#pullrequestreview-4647654059) - 2026-07-07
 * [Review] [Review on: chore: rename era shortHistoricalRoot to shortEraRoot](https://github.com/ChainSafe/lodestar/pull/9585#pullrequestreview-4645773987) - 2026-07-07
 * [Review] [Review on: feat: align proposer preferences api with latest spec](https://github.com/ChainSafe/lodestar/pull/9570#pullrequestreview-4645605778) - 2026-07-07
+* [Review] [Review on: fix: set gossipsub allowedTopics](https://github.com/ChainSafe/lodestar/pull/9620#pullrequestreview-4657366926) - 2026-07-08
+* [Review] [Review on: feat: add circuit breaker for gloas block production](https://github.com/ChainSafe/lodestar/pull/9598#pullrequestreview-4657397900) - 2026-07-08
+* [Commit] [fix: set gossipsub allowedTopics (#9620)](https://github.com/ChainSafe/lodestar/commit/e6d38ecb0362a09c044624839138693227121882) - 2026-07-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -37,6 +41,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4647665621) - 2026-07-07
 * [Review] [Review on: fix(ssz): drop redundant default-init pass in fixed-list decode](https://github.com/ChainSafe/lodestar-z/pull/468#pullrequestreview-4645658954) - 2026-07-07
 * [Issue] [Add binding: `state.getBuildersLength()`](https://github.com/ChainSafe/lodestar-z/issues/470) - 2026-07-07
+* [Review] [Review on: feat(beacon-node): add block state cache and checkpoint datastore](https://github.com/ChainSafe/lodestar-z/pull/452#pullrequestreview-4657142254) - 2026-07-08
+* [Review] [Review on: fix: populate cache balances during rewards/penalties processing](https://github.com/ChainSafe/lodestar-z/pull/474#pullrequestreview-4656885099) - 2026-07-08
 ## Q2 2026
 
 

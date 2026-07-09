@@ -93,6 +93,24 @@ Team: Erigon
 * [Commit] [execution/commitment: collect ModeDirect touches in memory, sort without etl round-trip (#22267)](https://github.com/erigontech/erigon/commit/9870c7aee024586aa1c2a53efae79a84d1411649) - 2026-07-07
 * [Commit] [execution/chain: add opaque L2 config slot (L2JSON/L2Config) (#22194)](https://github.com/erigontech/erigon/commit/56954ec59c941f32bcea036e48a6068a960b6939) - 2026-07-07
 * [Commit] [execution/commitment: cut deferred branch update staging and handoff overhead (#22265)](https://github.com/erigontech/erigon/commit/2f88f6e44516beeb12bd1ed0768fcddb4c966998) - 2026-07-07
+* [Review] [Review on: cl, db/snapshotsync: don't freeze empty caplin block/state roots](https://github.com/erigontech/erigon/pull/22294#pullrequestreview-4652758979) - 2026-07-08
+* [Pull Request] [[r3.5] cl: bound caplin archive blob-column backfill so it can't wedge on Fulu](https://github.com/erigontech/erigon/pull/22318) - 2026-07-08
+* [Review] [Review on: golangci-lint: enable modernize 'minmax' analyzer and apply autofixes](https://github.com/erigontech/erigon/pull/22283#pullrequestreview-4650521014) - 2026-07-08
+* [Pull Request] [execution/commitment: cap storage-fold fan-out at GOMAXPROCS](https://github.com/erigontech/erigon/pull/22330) - 2026-07-08
+* [Pull Request] [[r3.5] db/snapshotsync: remove overlapping caplin state snapshots on retire](https://github.com/erigontech/erigon/pull/22317) - 2026-07-08
+* [Pull Request] [[r3.5] cl, db/snapshotsync: don't freeze empty caplin block/state roots](https://github.com/erigontech/erigon/pull/22323) - 2026-07-08
+* [Pull Request] [[r3.5] rpc/jsonrpc: executionWitness keys[] completeness gate](https://github.com/erigontech/erigon/pull/22320) - 2026-07-08
+* [Pull Request] [[r3.5] db/downloader: lock torrentsByName write in AddNewSeedableFile](https://github.com/erigontech/erigon/pull/22319) - 2026-07-08
+* [Pull Request] [[r3.5] execution: mid-block resume follow-ups with non-fatal prior-receipt reconstruction](https://github.com/erigontech/erigon/pull/22322) - 2026-07-08
+* [Pull Request] [execution: re-apply mid-block resume follow-ups (#22235) with non-fatal prior-receipt reconstruction](https://github.com/erigontech/erigon/pull/22315) - 2026-07-08
+* [Review] [Review on: execution: re-apply mid-block resume follow-ups (#22235) with non-fatal prior-receipt reconstruction](https://github.com/erigontech/erigon/pull/22315#pullrequestreview-4652666247) - 2026-07-08
+* [Pull Request] [execution/stagedsync: keep mid-step resume non-fatal when prior receipts are unavailable](https://github.com/erigontech/erigon/pull/22311) - 2026-07-08
+* [Review] [Review on: execution/stagedsync: keep mid-step resume non-fatal when prior receipts are unavailable](https://github.com/erigontech/erigon/pull/22311#pullrequestreview-4651304007) - 2026-07-08
+* [Issue] [execution: mid-block resume of a Prague block can't validate requestsHash from incomplete prefix receipts](https://github.com/erigontech/erigon/issues/22310) - 2026-07-08
+* [Commit] [execution/commitment: cap storage-fold fan-out at GOMAXPROCS (#22330)](https://github.com/erigontech/erigon/commit/84a1badf2b3c93ac421bc326798c6967fbb8e959) - 2026-07-08
+* [Commit] [node/rulesconfig: registry for L2 rules engines (#22196)](https://github.com/erigontech/erigon/commit/031717f337e54f1570129ae2cb4ace23115ddd96) - 2026-07-08
+* [Commit] [db/integrity: add CaplinStateRoots check for blank root snapshots (#22295)](https://github.com/erigontech/erigon/commit/76f2a3bc8ea44dd34ad2a0c61a81fe9f5ad39d87) - 2026-07-08
+* [Commit] [Revert "execution: mid-block resume follow-ups — prior receipts, notifications, blooms, blob gas (#22235)" (#22308)](https://github.com/erigontech/erigon/commit/1be92bb166994a677f5962b09db745ea8d2bc306) - 2026-07-08
 ## Q2 2026
 
 

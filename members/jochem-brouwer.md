@@ -31,10 +31,12 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [Update EIP-7997: Add EAS-like bytecode + add required EIP](https://github.com/ethereum/EIPs/commit/d490ca552a36b103426fac04fd0bb4eab82e6165) - 2026-07-04
 * [Review] [Review on: Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858#pullrequestreview-4636896329) - 2026-07-06
 * [Review] [Review on: Update EIP-7997: Move to Review](https://github.com/ethereum/EIPs/pull/11884#pullrequestreview-4649162991) - 2026-07-07
+* [Review] [Review on: Update EIP-1: Remove execution-spec-tests from allowed link exceptions](https://github.com/ethereum/EIPs/pull/11845#pullrequestreview-4656044663) - 2026-07-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
 * [Review] [Review on: feat(spec-specs, tests): move SSTORE access-cost check before read](https://github.com/ethereum/execution-specs/pull/3064#pullrequestreview-4641849048) - 2026-07-07
+* [Review] [Review on: feat(spec-specs, tests): EIP-8038: move SSTORE access-cost check before read](https://github.com/ethereum/execution-specs/pull/3064#pullrequestreview-4654609028) - 2026-07-08
 ## Q2 2026
 
 

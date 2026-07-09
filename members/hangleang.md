@@ -17,6 +17,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Add engine_newPayloadV5 binding](https://github.com/grandinetech/grandine/pull/784) - 2026-07-01
 * [Review] [Review on: Delay block until execution payload envelope is verified or rejected](https://github.com/grandinetech/grandine/pull/786#pullrequestreview-4622851498) - 2026-07-03
 * [Pull Request] [Gloas block building API with stateful path](https://github.com/grandinetech/grandine/pull/788) - 2026-07-07
+* [Issue] [Consensus spec v1.7.0-alpha.12](https://github.com/grandinetech/grandine/issues/790) - 2026-07-08
 ## Q2 2026
 
 

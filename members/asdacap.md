@@ -89,6 +89,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(persistence): delete flat trie nodes by subtree containment (#12314)](https://github.com/NethermindEth/nethermind/commit/856832e263378267cf5a4c20889cf9ed9f2ecf0b) - 2026-07-07
 * [Commit] [refactor(healthchecks): move startup disk guard into a dedicated IStep (#12303)](https://github.com/NethermindEth/nethermind/commit/5e6cb2512706d336928ffffa5de2493655a42e96) - 2026-07-07
 * [Commit] [refactor(di): wire block GossipPolicy and ProcessedTransactionsDbCleaner through DI (#12299)](https://github.com/NethermindEth/nethermind/commit/a34caddb20e5bd3739ab01496bf86e688fd232b3) - 2026-07-07
+* [Review] [Review on: perf(persistence): defer block-data writes (receipts, tx-index, bodies, BAL) off the block-processing path](https://github.com/NethermindEth/nethermind/pull/12349#pullrequestreview-4658915722) - 2026-07-09
+* [Review] [Review on: perf(prewarmer): feed trie warm-up hints from speculative execution to the flat TrieWarmer](https://github.com/NethermindEth/nethermind/pull/12339#pullrequestreview-4655510778) - 2026-07-08
+* [Review] [Review on: fix(build): keep RPC JSON source generator portable in self-contained RID publish](https://github.com/NethermindEth/nethermind/pull/12342#pullrequestreview-4658998370) - 2026-07-09
+* [Review] [Review on: fix(tools): Escape MDX-breaking chars in generated config docs](https://github.com/NethermindEth/nethermind/pull/12346#pullrequestreview-4658996327) - 2026-07-09
+* [Pull Request] [fix(tracer): read JS db.getState by raw slot, remove StorageCell.IsHash](https://github.com/NethermindEth/nethermind/pull/12351) - 2026-07-09
+* [Review] [Review on: perf(flat): fall back to the MPMC buffer when the trie warmer slot ring is full](https://github.com/NethermindEth/nethermind/pull/12347#pullrequestreview-4658980332) - 2026-07-09
+* [Pull Request] [perf(state): replace per-key journal stacks with intrusive PrevIdx change chains](https://github.com/NethermindEth/nethermind/pull/12340) - 2026-07-08
+* [Pull Request] [feat(analyzers): add NETH007 — prefer PutSpan over Set with a span-copied array](https://github.com/NethermindEth/nethermind/pull/12336) - 2026-07-08
+* [Commit] [fix(init): make step init logs identify the actually-running step (#12324)](https://github.com/NethermindEth/nethermind/commit/311c462a6899ee5b01abad2400154fda42613f07) - 2026-07-08
 ## Q2 2026
 
 

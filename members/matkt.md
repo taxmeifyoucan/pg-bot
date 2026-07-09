@@ -26,6 +26,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Revert "fcu before engine new payload (#10731)" (cf7d594)](https://github.com/besu-eth/besu/pull/10754) - 2026-07-06
 * [Pull Request] [Revert "Persist newpayload without fcu glamsterdam devnet 6 - fix (#10732)"](https://github.com/besu-eth/besu/pull/10753) - 2026-07-06
 * [Commit] [Revert "fcu before engine new payload (#10731)" (#10754)](https://github.com/besu-eth/besu/commit/eb06fe33d57ead4c07307b59f2855d9b2e33b989) - 2026-07-07
+* [Review] [Review on: Bring .github in line with main](https://github.com/besu-eth/besu/pull/10776#pullrequestreview-4653966527) - 2026-07-08
+* [Review] [Review on: Bring .github in line with main](https://github.com/besu-eth/besu/pull/10777#pullrequestreview-4654049180) - 2026-07-08
+* [Pull Request] [Merge bal devnet 7 into glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10774) - 2026-07-08
+* [Review] [Review on: Merge bal devnet 7 into glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10774#pullrequestreview-4651729228) - 2026-07-08
 ## Q2 2026
 
 

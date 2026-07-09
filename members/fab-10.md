@@ -20,6 +20,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Revert "Persist newpayload without fcu glamsterdam devnet 6 - fix (#10732)"](https://github.com/besu-eth/besu/pull/10753#pullrequestreview-4637587189) - 2026-07-06
 * [Review] [Review on: changed web3j to a test dependency](https://github.com/besu-eth/besu/pull/10694#pullrequestreview-4642381973) - 2026-07-07
 * [Review] [Review on: ci: add check for committed binary files](https://github.com/besu-eth/besu/pull/10691#pullrequestreview-4642367296) - 2026-07-07
+* [Review] [Review on: feat(pow-removal): Phase 4/5 cleanup - remove PowAlgorithm and DifficultyCalculatorTests](https://github.com/besu-eth/besu/pull/10675#pullrequestreview-4652223776) - 2026-07-08
+* [Review] [Review on: update vertx to 4.5.27](https://github.com/besu-eth/besu/pull/10770#pullrequestreview-4652339504) - 2026-07-08
 ## Q2 2026
 
 

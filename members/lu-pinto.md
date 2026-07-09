@@ -12,6 +12,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Fix/qbft mining continues past ttd](https://github.com/besu-eth/besu/pull/10733#pullrequestreview-4646881218) - 2026-07-07
+* [Review] [Review on: EIP-8038: Amsterdam state-access gas repricing](https://github.com/besu-eth/besu/pull/10764#pullrequestreview-4654399273) - 2026-07-08
+* [Review] [Review on: Fix/qbft mining continues past ttd](https://github.com/besu-eth/besu/pull/10733#pullrequestreview-4653225578) - 2026-07-08
+* [Review] [Review on: EIP-7954: raise Amsterdam max code/initcode size to 64KiB/128KiB](https://github.com/besu-eth/besu/pull/10742#pullrequestreview-4654774715) - 2026-07-08
 ## Q2 2026
 
 

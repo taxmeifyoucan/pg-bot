@@ -20,6 +20,11 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Payload reorg](https://github.com/OffchainLabs/prysm/pull/16933#pullrequestreview-4624301465) - 2026-07-03
 * [Pull Request] [Nil headblock guard](https://github.com/OffchainLabs/prysm/pull/17110) - 2026-07-06
 * [Commit] [Nil headblock guard (#17110)](https://github.com/OffchainLabs/prysm/commit/c5e28e0fae6cedd82ef4c1643cd046dfe8698498) - 2026-07-07
+* [Pull Request] [Respond with 410 Gone and a replacement hint on spec-removed Beacon API routes](https://github.com/OffchainLabs/prysm/pull/17133) - 2026-07-08
+* [Review] [Review on: Ignore instead of reject on bid fee recipient mismatch](https://github.com/OffchainLabs/prysm/pull/17128#pullrequestreview-4655133664) - 2026-07-08
+* [Review] [Review on: Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/OffchainLabs/prysm/pull/17127#pullrequestreview-4655100780) - 2026-07-08
+* [Review] [Review on: Set `PAYLOAD_DUE_BPS` to 5000](https://github.com/OffchainLabs/prysm/pull/17126#pullrequestreview-4655019488) - 2026-07-08
+* [Commit] [Respond with 410 Gone and a replacement hint on spec-removed Beacon API routes (#17133)](https://github.com/OffchainLabs/prysm/commit/3f79d2c0ba920f1215f792e34bdcc281db45aa44) - 2026-07-08
 ## Q2 2026
 
 

@@ -26,6 +26,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: allow workflows to pull in secrets from the ci.yml](https://github.com/besu-eth/besu/pull/10761#pullrequestreview-4645003083) - 2026-07-07
 * [Review] [Review on: update perms of the release pipeline jobs](https://github.com/besu-eth/besu/pull/10762#pullrequestreview-4645167196) - 2026-07-07
 * [Review] [Review on: changed web3j to a test dependency](https://github.com/besu-eth/besu/pull/10694#pullrequestreview-4642143025) - 2026-07-07
+* [Pull Request] [Bring .github in line with main](https://github.com/besu-eth/besu/pull/10776) - 2026-07-08
+* [Pull Request] [Bring .github in line with main](https://github.com/besu-eth/besu/pull/10777) - 2026-07-08
 ## Q2 2026
 
 

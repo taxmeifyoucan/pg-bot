@@ -47,6 +47,14 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Resolve some discovery dos vectors(which hive revealed) (#12211)](https://github.com/NethermindEth/nethermind/commit/f905eb2ac41520e49c88729939bcbe5f7b0d59b8) - 2026-07-07
 * [Commit] [Publish Nethermind.Kademlia package (#12259)](https://github.com/NethermindEth/nethermind/commit/cd5132b66628771ebbe1af0ab304075bec052e1e) - 2026-07-07
 * [Commit] [Fix background scheduler branch completion (#12033)](https://github.com/NethermindEth/nethermind/commit/b92e167245870d315f94c7390447bb5c83d4cfd9) - 2026-07-07
+* [Review] [Review on: fix(tools): Escape MDX-breaking chars in generated config docs](https://github.com/NethermindEth/nethermind/pull/12346#pullrequestreview-4657634849) - 2026-07-08
+* [Pull Request] [Batch pooled transaction retry requests](https://github.com/NethermindEth/nethermind/pull/12345) - 2026-07-08
+* [Pull Request] [Fix state gas spill with negative reservoir](https://github.com/NethermindEth/nethermind/pull/12338) - 2026-07-08
+* [Commit] [Don't feed p2p with external networks peers (#12321)](https://github.com/NethermindEth/nethermind/commit/3b6cbe0c9588eb644ccab5c7341470a4ddc02ad5) - 2026-07-08
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
+* [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
 ## Q2 2026
 
 

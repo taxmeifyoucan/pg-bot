@@ -20,6 +20,10 @@ Team: Geth
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Review] [Review on: internal/ethapi: reject gasPrice together with authorizationList](https://github.com/ethereum/go-ethereum/pull/35320#pullrequestreview-4656017176) - 2026-07-08
+* [Review] [Review on: core: add bogota fork](https://github.com/ethereum/go-ethereum/pull/34057#pullrequestreview-4655959810) - 2026-07-08
 ## Q2 2026
 
 

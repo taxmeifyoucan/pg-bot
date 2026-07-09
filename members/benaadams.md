@@ -29,9 +29,23 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Fix contradictions, fabricated APIs, and stale facts in agent rules and skills (#12291)](https://github.com/NethermindEth/nethermind/commit/65477ebf2e571b1e515e060a9a55e5c00c0fdc17) - 2026-07-06
 * [Review] [Review on: feat(tools): Extract stateless inputs from EEST fixtures](https://github.com/NethermindEth/nethermind/pull/12306#pullrequestreview-4647419144) - 2026-07-07
 * [Review] [Review on: perf(evm): execute STATICCALL precompiles inline, skipping the child frame](https://github.com/NethermindEth/nethermind/pull/12297#pullrequestreview-4643599687) - 2026-07-07
+* [Pull Request] [perf(persistence): defer block-data writes (receipts, tx-index, bodies, BAL) off the block-processing path](https://github.com/NethermindEth/nethermind/pull/12349) - 2026-07-09
+* [Review] [Review on: perf(persistence): defer block-data writes (receipts, tx-index, bodies, BAL) off the block-processing path](https://github.com/NethermindEth/nethermind/pull/12349#pullrequestreview-4659088546) - 2026-07-09
+* [Review] [Review on: perf(consensus): overlap blooms with post-execution block stages](https://github.com/NethermindEth/nethermind/pull/12331#pullrequestreview-4658010882) - 2026-07-08
+* [Review] [Review on: EIP repricings & existing-EIP updates (2780/8037/8038 + fixes)](https://github.com/NethermindEth/nethermind/pull/12214#pullrequestreview-4652609917) - 2026-07-08
+* [Review] [Review on: EIP-8282: Builder execution requests](https://github.com/NethermindEth/nethermind/pull/12215#pullrequestreview-4653711858) - 2026-07-08
+* [Review] [Review on: fix(discovery): publish correct ENR endpoint for IPv6 and unresolved external IPs](https://github.com/NethermindEth/nethermind/pull/12308#pullrequestreview-4655596102) - 2026-07-08
+* [Review] [Review on: fix(build): unblock 1.39.0 Release packages build (NETSDK1047 in JsonRpc source generator)](https://github.com/NethermindEth/nethermind/pull/12341#pullrequestreview-4655825244) - 2026-07-08
+* [Review] [Review on: Don't feed p2p with external networks peers](https://github.com/NethermindEth/nethermind/pull/12321#pullrequestreview-4655604199) - 2026-07-08
+* [Review] [Review on: Update 1.39.0 with missing prs](https://github.com/NethermindEth/nethermind/pull/12334#pullrequestreview-4654524576) - 2026-07-08
+* [Review] [Review on: perf(state): O(1) storage destruction for the tx-end destroy list](https://github.com/NethermindEth/nethermind/pull/12322#pullrequestreview-4651407836) - 2026-07-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653198356) - 2026-07-08
+* [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653197195) - 2026-07-08
 ## Q2 2026
 
 

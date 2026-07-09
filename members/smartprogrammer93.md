@@ -13,6 +13,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506) - 2026-07-03
+* [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652817220) - 2026-07-08
+* [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4652892648) - 2026-07-08
 ## Q2 2026
 
 

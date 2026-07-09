@@ -17,9 +17,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [fix(cannon): resolve withheld payloads instead of retrying their envelopes forever](https://github.com/ethpandaops/xatu/pull/866) - 2026-07-06
 * [Pull Request] [fix(clickhouse): signed propagation_slot_start_diff for pre-slot ePBS events](https://github.com/ethpandaops/xatu/pull/867) - 2026-07-06
+* [Pull Request] [feat: event meta mutations for relay and consumer pipelines](https://github.com/ethpandaops/xatu/pull/869) - 2026-07-08
+* [Pull Request] [feat(sentry): land execution_payload / _gossip SSE events (flat shape)](https://github.com/ethpandaops/xatu/pull/868) - 2026-07-08
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [telemetry: add OTLP traces pipeline](https://github.com/ethpandaops/template-devnets/pull/178) - 2026-07-06
 * [Commit] [xatu-sentry: ship to the per-devnet ingest pipeline](https://github.com/ethpandaops/template-devnets/commit/625d2c78cd2d9b4c985462134bc6986d677ee195) - 2026-07-06
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Pull Request] [chore(design-sync): sync Lab component library to claude.ai/design](https://github.com/ethpandaops/lab/pull/440) - 2026-07-08
 ## Q2 2026
 
 

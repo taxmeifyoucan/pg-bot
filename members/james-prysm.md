@@ -35,6 +35,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Validate and cache published execution payload bids before broadcast](https://github.com/OffchainLabs/prysm/pull/17101#pullrequestreview-4647699149) - 2026-07-07
 * [Review] [Review on: SSZ Engine: Extract JSON-RPC engine code into separate files](https://github.com/OffchainLabs/prysm/pull/17047#pullrequestreview-4648520498) - 2026-07-07
 * [Pull Request] [Fix event stream reconnect](https://github.com/OffchainLabs/prysm/pull/17120) - 2026-07-07
+* [Review] [Review on: Respond with 410 Gone and a replacement hint on spec-removed Beacon API routes](https://github.com/OffchainLabs/prysm/pull/17133#pullrequestreview-4656937631) - 2026-07-08
+* [Review] [Review on: Reset self-build envelope signature failure budget every slot](https://github.com/OffchainLabs/prysm/pull/17104#pullrequestreview-4658024559) - 2026-07-08
+* [Pull Request] [adding proper json fallback for ssz](https://github.com/OffchainLabs/prysm/pull/17137) - 2026-07-08
+* [Commit] [making proposer preferences repush on reconnection to different node (#17066)](https://github.com/OffchainLabs/prysm/commit/90468518114349fa627c956f856815af180d0376) - 2026-07-08
 ## Q2 2026
 
 

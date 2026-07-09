@@ -8,6 +8,13 @@ Team: EthereumJS
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo)
+* [Pull Request] [mpt: fix and optimize `_walkTrie` async generator](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4342) - 2026-07-09
+* [Review] [Review on: chore: update dev fixtures to glamsterdam-devnet@v6.1.1](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4336#pullrequestreview-4658977086) - 2026-07-09
+* [Review] [Review on: fix(vm): delete empty accounts in consumeBal to fix glamsterdam-devnet selfdestruct tests](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4334#pullrequestreview-4658972051) - 2026-07-09
 ## Q2 2026
 
 

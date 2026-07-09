@@ -12,6 +12,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Post-Quantum (PQ) Interop #46, July 1, 2026](https://github.com/ethereum/pm/issues/2147) - 2026-07-01
 
+* [Issue] [Post-Quantum (PQ) Interop #47, July 8, 2026](https://github.com/ethereum/pm/issues/2153) - 2026-07-08
 [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3)
 * [Pull Request] [feat(multi-stark): reusable preprocessed-column commitment](https://github.com/Plonky3/Plonky3/pull/1907) - 2026-07-02
 * [Review] [Review on: perf: add optimized compilation profile](https://github.com/Plonky3/Plonky3/pull/1906#pullrequestreview-4617733091) - 2026-07-02
@@ -45,6 +46,21 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: refactor: bundle security logic in a dedicated crate](https://github.com/Plonky3/Plonky3/pull/1686#pullrequestreview-4647132894) - 2026-07-07
 * [Review] [Review on: chore(deps): update num-bigint requirement from 0.4.6 to 0.5.1 in the cargo group](https://github.com/Plonky3/Plonky3/pull/1930#pullrequestreview-4643716081) - 2026-07-07
 * [Commit] [fix(monolith-air): guard match-flag batching precondition, correct docs (#1929)](https://github.com/Plonky3/Plonky3/commit/8eca906fec59f22703f2b6c3a70c5e201584b1bc) - 2026-07-07
+* [Pull Request] [refactor(multi-stark): derive VerificationError formatting with thiserror](https://github.com/Plonky3/Plonky3/pull/1941) - 2026-07-08
+* [Pull Request] [perf(fri): drop verifier row clone and cover query collisions](https://github.com/Plonky3/Plonky3/pull/1940) - 2026-07-08
+* [Review] [Review on: perf(fri): prune Merkle multiproofs across the FRI query phase](https://github.com/Plonky3/Plonky3/pull/1918#pullrequestreview-4657400758) - 2026-07-08
+* [Pull Request] [feat(multi-stark): support periodic columns in the multilinear AIR prover](https://github.com/Plonky3/Plonky3/pull/1939) - 2026-07-08
+* [Pull Request] [refactor(poseidon-air): dedup S-box, harden trace-gen dispatch, pin packed path to scalar](https://github.com/Plonky3/Plonky3/pull/1938) - 2026-07-08
+* [Review] [Review on: perf(poseidon-air): speed-up Poseidon1Air and Poseidon2Air](https://github.com/Plonky3/Plonky3/pull/1936#pullrequestreview-4656839372) - 2026-07-08
+* [Pull Request] [perf(multi): fuse ext-round fold into a single pass over columns](https://github.com/Plonky3/Plonky3/pull/1937) - 2026-07-08
+* [Review] [Review on: perf(multi): pack ext-round columns and fix PackedExt ring-op fallbacks](https://github.com/Plonky3/Plonky3/pull/1935#pullrequestreview-4656702810) - 2026-07-08
+* [Review] [Review on: perf(circle): cache exponentiation for `two_adic_generator`](https://github.com/Plonky3/Plonky3/pull/1934#pullrequestreview-4656612801) - 2026-07-08
+* [Review] [Review on: feat: make `p3-security` composable over any LDT, and account for batched openings](https://github.com/Plonky3/Plonky3/pull/1932#pullrequestreview-4655129675) - 2026-07-08
+* [Review] [Review on: perf(blake3-air): remove redundant constraints and skip symbolic degree verification](https://github.com/Plonky3/Plonky3/pull/1933#pullrequestreview-4655126492) - 2026-07-08
+* [Review] [Review on: feat(multi-stark): reusable preprocessed-column commitment](https://github.com/Plonky3/Plonky3/pull/1907#pullrequestreview-4654344291) - 2026-07-08
+* [Review] [Review on: refactor: fold MultiOpeningMmcs into Mmcs](https://github.com/Plonky3/Plonky3/pull/1917#pullrequestreview-4654195060) - 2026-07-08
+* [Commit] [feat(multi-stark): reusable preprocessed-column commitment (#1907)](https://github.com/Plonky3/Plonky3/commit/ecd6b0dcf43f33b21e688db34949f3318c1d0a7e) - 2026-07-08
+* [Commit] [refactor: fold MultiOpeningMmcs into Mmcs (#1917)](https://github.com/Plonky3/Plonky3/commit/82264f9fe6cbcd57f12fbfc091f8a8052aa222ec) - 2026-07-08
 ## Q2 2026
 
 

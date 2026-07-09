@@ -25,6 +25,11 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Update EIP-7979: Move to Review](https://github.com/ethereum/EIPs/pull/11889#pullrequestreview-4646897068) - 2026-07-07
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4646881816) - 2026-07-07
 * [Commit] [Update EIP-7329: fix homophone (#11890)](https://github.com/ethereum/EIPs/commit/0ffc798461be0e6af2380678dd3b283046a2f255) - 2026-07-07
+* [Review] [Review on: Update EIP-7904: Move to Review](https://github.com/ethereum/EIPs/pull/11883#pullrequestreview-4657331257) - 2026-07-08
+* [Review] [Review on: Update EIP-1: Remove execution-spec-tests from allowed link exceptions](https://github.com/ethereum/EIPs/pull/11845#pullrequestreview-4656050487) - 2026-07-08
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Update Leo Lara contributions: add execution-specs](https://github.com/protocolguild/documentation/pull/515#pullrequestreview-4652756505) - 2026-07-08
 ## Q2 2026
 
 

@@ -19,6 +19,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gloas backfill](https://github.com/sigp/lighthouse/pull/9575#pullrequestreview-4630766546) - 2026-07-05
 * [Pull Request] [construct single attestation directly in the VC](https://github.com/sigp/lighthouse/pull/9578) - 2026-07-06
 * [Pull Request] [Remove attestation to convert work event](https://github.com/sigp/lighthouse/pull/9576) - 2026-07-06
+* [Review] [Review on: Implement PTC reprocess queue](https://github.com/sigp/lighthouse/pull/9458#pullrequestreview-4654510988) - 2026-07-08
+* [Pull Request] [Gloas alpha spec 12 changes](https://github.com/sigp/lighthouse/pull/9596) - 2026-07-08
+* [Issue] [Implement gloas block proposer circuit breaker](https://github.com/sigp/lighthouse/issues/9598) - 2026-07-08
 ## Q2 2026
 
 

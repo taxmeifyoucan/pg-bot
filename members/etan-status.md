@@ -19,6 +19,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Pull Request] [Allow PAYLOAD_DUE_BPS anywhere after AGGREGATE_DUE_BPS_GLOAS](https://github.com/status-im/nimbus-eth2/pull/8705) - 2026-07-06
 * [Pull Request] [Support alternate spellings of Authorization scheme](https://github.com/status-im/nimbus-eth2/pull/8718) - 2026-07-07
+* [Pull Request] [use v1.7.0-alpha.12 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8729) - 2026-07-08
+* [Review] [Review on: Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717#pullrequestreview-4651183772) - 2026-07-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630) - 2026-07-06
 * [Commit] [Forward compatible consensus data structures (EIP-7688) (#4630)](https://github.com/ethereum/consensus-specs/commit/bd6df5afe26d56e9ccf623071c3b574a76967ac9) - 2026-07-06

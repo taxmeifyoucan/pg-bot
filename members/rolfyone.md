@@ -32,6 +32,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Produce block v4 with payload](https://github.com/Consensys/teku/pull/10832#pullrequestreview-4649492619) - 2026-07-07
 * [Review] [Review on: Add progressive SSZ infrastructure types](https://github.com/Consensys/teku/pull/10928#pullrequestreview-4644081946) - 2026-07-07
 * [Issue] [[beacon-api] update event for gloas (payload_attributes)](https://github.com/Consensys/teku/issues/10945) - 2026-07-07
+* [Pull Request] [Remove Quartz scheduler and --Xquartz-scheduler-enabled flag](https://github.com/Consensys/teku/pull/10952) - 2026-07-09
 ## Q2 2026
 
 

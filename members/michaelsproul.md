@@ -18,6 +18,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Update `crossbeam-epoch` to fix cargo audit](https://github.com/sigp/lighthouse/pull/9581#pullrequestreview-4640945259) - 2026-07-07
 * [Review] [Review on: Remove attestation to convert work event](https://github.com/sigp/lighthouse/pull/9576#pullrequestreview-4635808592) - 2026-07-06
 * [Review] [Review on: Prevent long state advance during stalled sync](https://github.com/sigp/lighthouse/pull/9538#pullrequestreview-4634165873) - 2026-07-06
+* [Issue] [FCR performance: state loads while holding fork choice read lock](https://github.com/sigp/lighthouse/issues/9595) - 2026-07-08
 ## Q2 2026
 
 

@@ -33,6 +33,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.5] cmd/integration: collate state files incrementally in parallel stage_exec](https://github.com/erigontech/erigon/pull/22262) - 2026-07-06
 * [Review] [Review on: db/snapshotsync: say why snapshot segments are unavailable](https://github.com/erigontech/erigon/pull/22289#pullrequestreview-4644625724) - 2026-07-07
 * [Commit] [db/seg: 1.5x faster merge with smaller suffix array use (#22050)](https://github.com/erigontech/erigon/commit/e44109d1637ed65817876dd4c726fefca0a014e0) - 2026-07-07
+* [Pull Request] [exec: efficient parallel-executor queue refill (O(1) status lists + budget-capped dispatch)](https://github.com/erigontech/erigon/pull/22336) - 2026-07-08
+* [Pull Request] [db/state: skip guaranteed-miss history-file probe in HistorySeek](https://github.com/erigontech/erigon/pull/22324) - 2026-07-08
+* [Pull Request] [compatible branch for jochemnet36-noref-base.tar.zst](https://github.com/erigontech/erigon/pull/22316) - 2026-07-08
+* [Commit] [db/seg/sais: remove unused byte-text (_8_32) SAIS variant (#22309)](https://github.com/erigontech/erigon/commit/84b0df9935003131dad1f440421775e67e23e380) - 2026-07-08
 ## Q2 2026
 
 

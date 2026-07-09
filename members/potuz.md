@@ -34,6 +34,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Fall back to finalized dependent root when the fork-choice head is pruned](https://github.com/OffchainLabs/prysm/pull/17060#pullrequestreview-4636337184) - 2026-07-06
 * [Commit] [Call FCU once per batch on init-sync (#17109)](https://github.com/OffchainLabs/prysm/commit/360e912482e3789b8cc32b3c7eccb7931ec412a4) - 2026-07-06
 * [Review] [Review on: Nil headblock guard](https://github.com/OffchainLabs/prysm/pull/17110#pullrequestreview-4645944743) - 2026-07-07
+* [Review] [Review on: Re-verify builder deposit signatures when in-batch index reuse evicts a pubkey](https://github.com/OffchainLabs/prysm/pull/17111#pullrequestreview-4655125833) - 2026-07-08
+* [Review] [Review on: Skip data columns of empty slots in by range RPC handler](https://github.com/OffchainLabs/prysm/pull/17089#pullrequestreview-4654537423) - 2026-07-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
@@ -43,6 +45,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Set payload deadline to 6 seconds into the slot (#5414)](https://github.com/ethereum/consensus-specs/commit/5d60f97152d8f307cd7de6eae17bb1e058796de6) - 2026-07-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629311315) - 2026-07-04
+
+[OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
+* [Pull Request] [Update cargo, nim and makefile version to 0.2.5](https://github.com/OffchainLabs/hashtree/pull/68) - 2026-07-08
+* [Review] [Review on: Update syso files](https://github.com/OffchainLabs/hashtree/pull/67#pullrequestreview-4656703995) - 2026-07-08
+* [Pull Request] [ci: open a PR for regenerated syso files instead of pushing to main](https://github.com/OffchainLabs/hashtree/pull/66) - 2026-07-08
+* [Commit] [Update cargo, nim and makefile version to 0.2.5 (#68)](https://github.com/OffchainLabs/hashtree/commit/30497cff98a06362eadde897202634f91d504fd8) - 2026-07-08
+* [Commit] [ci: open a PR for regenerated syso files instead of pushing to main (#66)](https://github.com/OffchainLabs/hashtree/commit/7a855641a40c266b4241e8bdbccdb4e4ec5336be) - 2026-07-08
 ## Q2 2026
 
 

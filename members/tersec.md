@@ -43,6 +43,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix: txpool crash](https://github.com/status-im/nimbus-eth1/pull/4413#pullrequestreview-4632943794) - 2026-07-06
 * [Issue] [Various `discards ‘const’ qualifier from pointer target type [-Wdiscarded-qualifiers]` agcc warnings in build/libverifproxy/verifproxy.h](https://github.com/status-im/nimbus-eth1/issues/4415) - 2026-07-06
 * [Review] [Review on: builds MUST start on forkchoiceState.headBlockHash](https://github.com/status-im/nimbus-eth1/pull/4427#pullrequestreview-4643199623) - 2026-07-07
+* [Review] [Review on: Bump nim-libp2p to v2.1.4](https://github.com/status-im/nimbus-eth1/pull/4437#pullrequestreview-4653353897) - 2026-07-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

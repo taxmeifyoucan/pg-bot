@@ -18,6 +18,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12267#pullrequestreview-4631036960) - 2026-07-05
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12266#pullrequestreview-4631036038) - 2026-07-05
 * [Pull Request] [feat(tools): Extract stateless inputs from EEST fixtures](https://github.com/NethermindEth/nethermind/pull/12306) - 2026-07-06
+* [Pull Request] [fix(tools): Escape MDX-breaking chars in generated config docs](https://github.com/NethermindEth/nethermind/pull/12346) - 2026-07-08
+* [Commit] [feat(tools): Extract stateless inputs from EEST fixtures (#12306)](https://github.com/NethermindEth/nethermind/commit/83640a85cc9a22347de3a5696a2fd14b8d17dbc7) - 2026-07-08
 ## Q2 2026
 
 

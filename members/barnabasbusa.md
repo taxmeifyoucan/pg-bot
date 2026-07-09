@@ -18,6 +18,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [change builder withdrawal prefix from 0x03 to 0xB0](https://github.com/ethpandaops/dora/pull/789) - 2026-07-06
 * [Pull Request] [Add safe block visualization from fast_confirmation event stream](https://github.com/ethpandaops/dora/pull/792) - 2026-07-07
+* [Review] [Review on: glamsterdam-devnet-7](https://github.com/ethpandaops/dora/pull/770#pullrequestreview-4652778337) - 2026-07-08
+* [Commit] [Merge branch 'master' into pk910/statetransition-performance](https://github.com/ethpandaops/dora/commit/aa60d061a12ceee0095474a69b424876d356859b) - 2026-07-08
+* [Commit] [Merge branch 'master' into glamsterdam-devnet-7](https://github.com/ethpandaops/dora/commit/1fd8d04275c7f4d969064f7bfe71a4fe4149860f) - 2026-07-08
+* [Commit] [Merge pull request #792 from ethpandaops/bbusa/fcr](https://github.com/ethpandaops/dora/commit/3eae17525bbb46cd0cf6fde29390d31590dbfb82) - 2026-07-08
+* [Commit] [Merge branch 'master' into bbusa/fcr](https://github.com/ethpandaops/dora/commit/2ddf2d5f2e452ccea0b3ffccbb443ad5ffdd3bba) - 2026-07-08
+* [Commit] [bump go-eth2-client to v0.1.6 release](https://github.com/ethpandaops/dora/commit/3f091af60e1516b671f9897a1720029a4424f570) - 2026-07-08
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
@@ -27,8 +33,21 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [change builder withdrawal prefix from 0x03 to 0xB0](https://github.com/ethpandaops/assertoor/commit/7e04356282edadc885809d509f72e81fe3671fbf) - 2026-07-06
 
 * [Pull Request] [Add gloas worst-case block stress playbook](https://github.com/ethpandaops/assertoor/pull/207) - 2026-07-07
+* [Review] [Review on: build(deps): bump the actions group with 4 updates](https://github.com/ethpandaops/assertoor/pull/204#pullrequestreview-4653088965) - 2026-07-08
+* [Review] [Review on: build(deps): bump the dependencies group across 1 directory with 6 updates](https://github.com/ethpandaops/assertoor/pull/205#pullrequestreview-4653086119) - 2026-07-08
+* [Pull Request] [bump go-eth2-client to v0.1.6](https://github.com/ethpandaops/assertoor/pull/208) - 2026-07-08
+* [Commit] [Merge pull request #207 from ethpandaops/gloas-worst-case-block](https://github.com/ethpandaops/assertoor/commit/33c0ed38a8dff87a40c086ac93bf61a5d64372c0) - 2026-07-08
+* [Commit] [Merge branch 'master' into gloas-worst-case-block](https://github.com/ethpandaops/assertoor/commit/124ae9b6e4eac8c0817ee1d475e80631401fb93e) - 2026-07-08
+* [Commit] [Merge pull request #204 from ethpandaops/dependabot/github_actions/actions-84891cc2c4](https://github.com/ethpandaops/assertoor/commit/8f7d48c9481890bf202a139963ad0fe4b1807189) - 2026-07-08
+* [Commit] [Merge pull request #205 from ethpandaops/dependabot/go_modules/dependencies-2636d3aef2](https://github.com/ethpandaops/assertoor/commit/0c1b7482d04342e369df04004ac3d1650029b3ca) - 2026-07-08
+* [Commit] [update EIP-8282 builder deposit/exit contracts to sys-asm main CREATE2 addresses](https://github.com/ethpandaops/assertoor/commit/3e5bc2084c361b616cd850e71d1630f82bcd8fbe) - 2026-07-08
+* [Commit] [bump go-eth2-client to v0.1.6 release](https://github.com/ethpandaops/assertoor/commit/11e55e7529c56ed55c7acc0a74dea80c632c1840) - 2026-07-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4646570170) - 2026-07-07
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899) - 2026-07-08
+* [Commit] [Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/commit/554d3325e31c3f74078402d961355218ece16bee) - 2026-07-08
 ## Q2 2026
 
 

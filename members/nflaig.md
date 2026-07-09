@@ -78,6 +78,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: advance equivocation cursor for slashed validators with no live vote (#9597)](https://github.com/ChainSafe/lodestar/commit/0cff4e69168398daccec22a1cb6b8d6e5a04fe65) - 2026-07-07
 * [Commit] [feat: update fast confirmation rule for gloas (#9542)](https://github.com/ChainSafe/lodestar/commit/d173b636c91182ee05250880a741b0c843eff7a6) - 2026-07-07
 * [Commit] [feat: append CL/EL client info to graffiti (#9599)](https://github.com/ChainSafe/lodestar/commit/905415417aee4b28a403ffb80f9e16d511cdd1e8) - 2026-07-07
+* [Review] [Review on: feat: chain.targetGasLimit](https://github.com/ChainSafe/lodestar/pull/9622#pullrequestreview-4656770513) - 2026-07-08
+* [Review] [Review on: fix: set gossipsub allowedTopics](https://github.com/ChainSafe/lodestar/pull/9620#pullrequestreview-4652401765) - 2026-07-08
+* [Review] [Review on: feat: add circuit breaker for gloas block production](https://github.com/ChainSafe/lodestar/pull/9598#pullrequestreview-4657514041) - 2026-07-08
+* [Review] [Review on: fix: restrict builder withdrawal prefix to 0xB*](https://github.com/ChainSafe/lodestar/pull/9615#pullrequestreview-4653286398) - 2026-07-08
+* [Commit] [fix: submit PTC attestation early only for the canonical block's payload (#9588)](https://github.com/ChainSafe/lodestar/commit/fadf0fbb1f0f8d97947d1f1540207def8d6db788) - 2026-07-08
+* [Commit] [feat: align proposer preferences api with latest spec (#9570)](https://github.com/ChainSafe/lodestar/commit/85227cfbe5af24963c0a385bf86e4630a984b887) - 2026-07-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -98,6 +104,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
 
+* [Review] [Review on: Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899#pullrequestreview-4653284200) - 2026-07-08
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 ## Q2 2026

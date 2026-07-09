@@ -101,6 +101,22 @@ Team: Erigon
 * [Commit] [db/state, cmd/integration: remove unused history file deduplication tooling (#22282)](https://github.com/erigontech/erigon/commit/bce8c4e6e018f736b7feec7012b4596f9c147c3e) - 2026-07-07
 * [Commit] [cl, go.mod: bump gohashtree to v0.0.5-beta, migrate go-bitfield to OffchainLabs (#22250)](https://github.com/erigontech/erigon/commit/31264c82d6e2645d26ae5f9e051447a43d4b2571) - 2026-07-07
 
+* [Review] [Review on: cl, db/snapshotsync: don't freeze empty caplin block/state roots](https://github.com/erigontech/erigon/pull/22294#pullrequestreview-4652427647) - 2026-07-08
+* [Review] [Review on: execution/chain, execution/vm/evmtypes: L2 fork oracle on Rules](https://github.com/erigontech/erigon/pull/22195#pullrequestreview-4659073940) - 2026-07-09
+* [Review] [Review on: [r3.5] cl: bound caplin archive blob-column backfill so it can't wedge on Fulu](https://github.com/erigontech/erigon/pull/22318#pullrequestreview-4659070654) - 2026-07-09
+* [Pull Request] [db/snapshotsync, common/concurrent: BlockRetire.Close drains its background retire](https://github.com/erigontech/erigon/pull/22253) - 2026-07-08
+* [Review] [Review on: execution/commitment: cap storage-fold fan-out at GOMAXPROCS](https://github.com/erigontech/erigon/pull/22330#pullrequestreview-4654351562) - 2026-07-08
+* [Review] [Review on: db/state: skip guaranteed-miss history-file probe in HistorySeek](https://github.com/erigontech/erigon/pull/22324#pullrequestreview-4653533208) - 2026-07-08
+* [Review] [Review on: node/rulesconfig: registry for L2 rules engines](https://github.com/erigontech/erigon/pull/22196#pullrequestreview-4652326755) - 2026-07-08
+* [Review] [Review on: [r3.5] db/snapshotsync: remove overlapping caplin state snapshots on retire](https://github.com/erigontech/erigon/pull/22317#pullrequestreview-4652894143) - 2026-07-08
+* [Review] [Review on: [r3.5] rpc/jsonrpc: executionWitness keys[] completeness gate](https://github.com/erigontech/erigon/pull/22320#pullrequestreview-4652902483) - 2026-07-08
+* [Review] [Review on: [r3.5] db/downloader: lock torrentsByName write in AddNewSeedableFile](https://github.com/erigontech/erigon/pull/22319#pullrequestreview-4652896995) - 2026-07-08
+* [Review] [Review on: execution: re-apply mid-block resume follow-ups (#22235) with non-fatal prior-receipt reconstruction](https://github.com/erigontech/erigon/pull/22315#pullrequestreview-4652308021) - 2026-07-08
+* [Review] [Review on: execution/stagedsync: keep mid-step resume non-fatal when prior receipts are unavailable](https://github.com/erigontech/erigon/pull/22311#pullrequestreview-4651345797) - 2026-07-08
+* [Commit] [db/snapshotsync, common/concurrent: BlockRetire.Close drains its background retire (#22253)](https://github.com/erigontech/erigon/commit/0973a68867478a0f7fad8199af456fdd572915c6) - 2026-07-08
+* [Commit] [db: opt-in ReadAhead of Table with limited "ahead window" (#21880)](https://github.com/erigontech/erigon/commit/a681e7080cd8a303a0e7b67e77517559dab8fd00) - 2026-07-08
+* [Commit] [db, cmd: remove forkable and forkableagg (#22287)](https://github.com/erigontech/erigon/commit/05040809b2218361799780101cf1ed3aed0527e1) - 2026-07-08
+* [Commit] [db/state: say "serializable" isolation level instead of "snapshot isolation" (#22305)](https://github.com/erigontech/erigon/commit/3a495b23e09a171bb032738209541a3b31f1dde4) - 2026-07-08
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

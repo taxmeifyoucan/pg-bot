@@ -27,6 +27,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [remove sonarcloud workflow (#10759)](https://github.com/besu-eth/besu/commit/eb12f660ee2e4634998d71b3bf36b8006d72f6e2) - 2026-07-07
 * [Commit] [changed web3j to a test dependency (#10694)](https://github.com/besu-eth/besu/commit/11663cc67c1d68127515f8c9f9b1d367e4039e35) - 2026-07-07
 * [Commit] [ci: add check for committed binary files (#10691)](https://github.com/besu-eth/besu/commit/ddc2182c266c41de12d6921174fb1467af736643) - 2026-07-07
+* [Review] [Review on: explicitly include all needed permissions](https://github.com/besu-eth/besu/pull/10778#pullrequestreview-4658479009) - 2026-07-08
+* [Review] [Review on: update docker hashes, remove redundant environment](https://github.com/besu-eth/besu/pull/10773#pullrequestreview-4650676247) - 2026-07-08
+* [Pull Request] [adding an exe file to test binary files check](https://github.com/besu-eth/besu/pull/10772) - 2026-07-08
+* [Commit] [feat(pow-removal): Phase 4/5 cleanup - remove PowAlgorithm and DifficultyCalculatorTests (#10675)](https://github.com/besu-eth/besu/commit/2661dd8fd409df50e17ecedc7cb1fef99e07c834) - 2026-07-08
+* [Commit] [update vertx to 4.5.27 (#10770)](https://github.com/besu-eth/besu/commit/f66bf61a473c7a452e023055ab1d5795d0e3559b) - 2026-07-08
 ## Q2 2026
 
 

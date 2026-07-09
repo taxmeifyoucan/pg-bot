@@ -24,6 +24,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: add a Gloas builder circuit breaker](https://github.com/Consensys/teku/pull/10911#pullrequestreview-4631269081) - 2026-07-05
 * [Pull Request] [Handle worker failure in AggregatingSignatureVerificationService](https://github.com/Consensys/teku/pull/10939) - 2026-07-06
 
+* [Pull Request] [ForkChoice Confirmation Rule [WIP]](https://github.com/Consensys/teku/pull/10948) - 2026-07-08
+* [Review] [Review on: Enable channel virtual threads by default](https://github.com/Consensys/teku/pull/10950#pullrequestreview-4655290531) - 2026-07-08
+* [Commit] [Add Aircompressor to RPC. Off by default (#10918)](https://github.com/Consensys/teku/commit/178a3bbd221830cc5c187f2b3457e33b1da39f84) - 2026-07-08
+* [Commit] [Handle worker failure in AggregatingSignatureVerificationService (#10939)](https://github.com/Consensys/teku/commit/1b0f7339ccbc346d3756de00916cb415c7009c34) - 2026-07-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

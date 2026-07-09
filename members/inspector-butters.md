@@ -6,6 +6,12 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 
 ## Contributions
 
+## Q3 2026
+
+
+[OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
+* [Review] [Review on: Update cargo, nim and makefile version to 0.2.5](https://github.com/OffchainLabs/hashtree/pull/68#pullrequestreview-4656797581) - 2026-07-08
+* [Review] [Review on: ci: open a PR for regenerated syso files instead of pushing to main](https://github.com/OffchainLabs/hashtree/pull/66#pullrequestreview-4656581885) - 2026-07-08
 ## Q2 2026
 
 

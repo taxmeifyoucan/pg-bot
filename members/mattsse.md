@@ -74,6 +74,11 @@ Team: Reth
 * [Review] [Review on: perf(net): optimize pooled transaction recovery](https://github.com/paradigmxyz/reth/pull/26304#pullrequestreview-4643667566) - 2026-07-07
 * [Pull Request] [chore(deps): bump crossbeam-epoch](https://github.com/paradigmxyz/reth/pull/26297) - 2026-07-07
 * [Commit] [chore(deps): bump crossbeam-epoch (#26297)](https://github.com/paradigmxyz/reth/commit/5b4f1df2c59b781f47d4a8623d4378c0e7bbf77e) - 2026-07-07
+* [Review] [Review on: feat(net): serve inbound `snap/2` requests](https://github.com/paradigmxyz/reth/pull/26324#pullrequestreview-4657351491) - 2026-07-08
+* [Review] [Review on: feat(rpc): `EthSubscriptions` trait for logs and headers streams](https://github.com/paradigmxyz/reth/pull/22155#pullrequestreview-4657355784) - 2026-07-08
+* [Review] [Review on: feat(rpc): implement `debug_setHead`](https://github.com/paradigmxyz/reth/pull/26311#pullrequestreview-4655822982) - 2026-07-08
+* [Review] [Review on: feat(net): impl snap client](https://github.com/paradigmxyz/reth/pull/26049#pullrequestreview-4653232891) - 2026-07-08
+* [Review] [Review on: feat(engine): add SSZ forkchoice status containers](https://github.com/paradigmxyz/reth/pull/26271#pullrequestreview-4653416842) - 2026-07-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

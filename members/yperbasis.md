@@ -124,6 +124,26 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [node/cli: default --persist.receipts off in all prune modes (#22296)](https://github.com/erigontech/erigon/commit/b6fd1400312ada5fc95e42639cdb30723d6720aa) - 2026-07-08
 * [Commit] [rpc: evict idle polling filters after a timeout, add subscription metrics (#22261)](https://github.com/erigontech/erigon/commit/fda04fe38d86865d509e89de39bc308ce670da2e) - 2026-07-07
 * [Commit] [p2p/sentry/libsentry, node/direct: collapse multiplexer fan-out boilerplate with generics (#22166)](https://github.com/erigontech/erigon/commit/9684480d4b8a36a2c23dc3c38a86f2a2672aefa4) - 2026-07-07
+* [Review] [Review on: ci: move eest spec tests -run regex to yml file](https://github.com/erigontech/erigon/pull/22307#pullrequestreview-4652998134) - 2026-07-08
+* [Review] [Review on: rpc: fix BlockOverrides in trace endpoints](https://github.com/erigontech/erigon/pull/22183#pullrequestreview-4652825544) - 2026-07-08
+* [Pull Request] [.claude/rules: update branch-naming for the 3.5 release line](https://github.com/erigontech/erigon/pull/22331) - 2026-07-08
+* [Pull Request] [db/state/execctx: enforce CodeStore table cap on the commit write path](https://github.com/erigontech/erigon/pull/22335) - 2026-07-08
+* [Review] [Review on: db/state/execctx: enforce CodeStore table cap on the commit write path](https://github.com/erigontech/erigon/pull/22335#pullrequestreview-4655469664) - 2026-07-08
+* [Review] [Review on: db/state, execution/stagedsync: consolidate accumulator swap/restore behind SwapChangesetAccumulatorLocked](https://github.com/erigontech/erigon/pull/22160#pullrequestreview-4655423582) - 2026-07-08
+* [Pull Request] [cmd/evm, tools: bound enginextest tester datadir to fix eest 150m benchmark OOM](https://github.com/erigontech/erigon/pull/22325) - 2026-07-08
+* [Review] [Review on: cmd/evm, tools: bound enginextest tester datadir to fix eest 150m benchmark OOM](https://github.com/erigontech/erigon/pull/22325#pullrequestreview-4653878090) - 2026-07-08
+* [Pull Request] [rpc/rpchelper: invalidate cached pending block once the chain moves past it](https://github.com/erigontech/erigon/pull/22326) - 2026-07-08
+* [Review] [Review on: rpc/rpchelper: invalidate cached pending block once the chain moves past it](https://github.com/erigontech/erigon/pull/22326#pullrequestreview-4654571560) - 2026-07-08
+* [Review] [Review on: cl, engineapi: encode client versions in default block graffiti](https://github.com/erigontech/erigon/pull/22303#pullrequestreview-4653103551) - 2026-07-08
+* [Pull Request] [[r3.5] execution/state: delete stale CodeDomain entry on EIP-7702 delegation clear](https://github.com/erigontech/erigon/pull/22333) - 2026-07-08
+* [Pull Request] [execution/tests: pin CodeDomain purge on EIP-7702 delegation clear](https://github.com/erigontech/erigon/pull/22327) - 2026-07-08
+* [Pull Request] [[r3.4] execution/state: delete stale CodeDomain entry on EIP-7702 delegation clear](https://github.com/erigontech/erigon/pull/22328) - 2026-07-08
+* [Issue] [db/integrity: detect and repair stale CodeDomain entries left by EIP-7702 delegation clears](https://github.com/erigontech/erigon/issues/22329) - 2026-07-08
+* [Issue] [stagedsync: follow-ups from BAL-driven parallel commitment review (#21416)](https://github.com/erigontech/erigon/issues/22332) - 2026-07-08
+* [Issue] [QA: serial execution `code hash mismatch` on `main` — `updateForkChoice` fails, node never reaches tip (RPC Integration Tests)](https://github.com/erigontech/erigon/issues/22321) - 2026-07-08
+* [Commit] [.claude/rules: update branch-naming for the 3.5 release line (#22331)](https://github.com/erigontech/erigon/commit/dbd799c6f358f23c10d7f71b12aceaa2fa1f4a41) - 2026-07-08
+* [Commit] [db/snapshotsync: share segment open/close helpers with caplin snapshots (#22172)](https://github.com/erigontech/erigon/commit/76e5d1d9630e0b742a7ed0a025dd54e41dd2707a) - 2026-07-08
+* [Commit] [cl, db, execution, p2p, cmd: fix copy-paste drift defects (#22165)](https://github.com/erigontech/erigon/commit/640942318cc9373c3d55ac7872b0e7ca43df894d) - 2026-07-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

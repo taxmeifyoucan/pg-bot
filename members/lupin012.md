@@ -29,6 +29,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [QA: increase timer sync verify with reference node (#22279)](https://github.com/erigontech/erigon/commit/c1044a5cd396fa5867bec112dfe7a8c16fcbddff) - 2026-07-06
 * [Pull Request] [rpc: make checkPruneField overlay-aware for the FCU pre-commit window](https://github.com/erigontech/erigon/pull/22304) - 2026-07-07
 * [Review] [Review on: rpc: fix prestate tracer zero slots](https://github.com/erigontech/erigon/pull/22248#pullrequestreview-4646977265) - 2026-07-07
+* [Pull Request] [rpc, node: fix nil-pointer panic in gzip batch flush race](https://github.com/erigontech/erigon/pull/22338) - 2026-07-08
+* [Review] [Review on: rpc: fix BlockOverrides in trace endpoints](https://github.com/erigontech/erigon/pull/22183#pullrequestreview-4657379475) - 2026-07-08
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

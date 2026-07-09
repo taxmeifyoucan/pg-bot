@@ -13,6 +13,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Review] [Review on: Fix voting participation under mass slashing + richer voting/quorum breakdowns](https://github.com/ethpandaops/dora/pull/785#pullrequestreview-4612584576) - 2026-07-01
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Consensus (ACDC) #182, July 9 2026](https://github.com/ethereum/pm/issues/2152) - 2026-07-08
 ## Q2 2026
 
 

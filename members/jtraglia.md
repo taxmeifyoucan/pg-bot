@@ -54,6 +54,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Remove `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD` in Gloas (#5436)](https://github.com/ethereum/consensus-specs/commit/bd46c06699feb29023fc537b97955746965c46da) - 2026-07-07
 * [Commit] [Use existing helpers to get limits (#5438)](https://github.com/ethereum/consensus-specs/commit/a62bc326ccbab74c867ec66263b504eb272ea9b3) - 2026-07-07
 * [Commit] [Fix `limit()` calls for `ProgressiveList` operation lists (#5437)](https://github.com/ethereum/consensus-specs/commit/cfbb91f90e1e89381f7b54724335affac0392e41) - 2026-07-07
+* [Pull Request] [Add basic fork tests for Heze](https://github.com/ethereum/consensus-specs/pull/5440) - 2026-07-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

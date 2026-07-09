@@ -27,6 +27,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Kurtosis+E2E: Set up Kurtosis harness and Add minimal tests](https://github.com/OffchainLabs/prysm/pull/16999#pullrequestreview-4644692335) - 2026-07-07
 * [Review] [Review on: e2e: Reliability improvements](https://github.com/OffchainLabs/prysm/pull/16948#pullrequestreview-4644565735) - 2026-07-07
 * [Commit] [Remove Bazel: Phase 2/9 (#17007)](https://github.com/OffchainLabs/prysm/commit/688909f11e58e98902fc637c0cb92f5686360f70) - 2026-07-07
+* [Review] [Review on: Do not mark a node synced after a failed resync](https://github.com/OffchainLabs/prysm/pull/17125#pullrequestreview-4657268263) - 2026-07-08
+* [Review] [Review on: making proposer preferences repush on reconnection to different node](https://github.com/OffchainLabs/prysm/pull/17066#pullrequestreview-4652214727) - 2026-07-08
+* [Pull Request] [Remove Bazel: Phase 3/9 - Part 2](https://github.com/OffchainLabs/prysm/pull/17134) - 2026-07-08
+* [Issue] [Prysm does not support (by default) builder API remote that does not handle SSZ requests](https://github.com/OffchainLabs/prysm/issues/17136) - 2026-07-08
 ## Q2 2026
 
 

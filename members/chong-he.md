@@ -6,6 +6,11 @@ Github: [@chong-he](https://github.com/chong-he)
 
 ## Contributions
 
+## Q3 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Add `head_v2` event in beacon API and remove some fields in `data_column_sidecar` event](https://github.com/sigp/lighthouse/pull/9597) - 2026-07-08
 ## Q2 2026
 
 

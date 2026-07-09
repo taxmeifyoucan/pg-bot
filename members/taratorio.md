@@ -26,9 +26,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db/state: revert #20445 collation/unwind changes](https://github.com/erigontech/erigon/pull/22288) - 2026-07-07
 * [Pull Request] [execution: update to latest stable eest spec test fixtures v20.0.0](https://github.com/erigontech/erigon/pull/22189) - 2026-07-07
 * [Commit] [execution: update to latest stable eest spec test fixtures v20.0.0 (#22189)](https://github.com/erigontech/erigon/commit/94a2077d491f626693de42467dab6f1d3012130f) - 2026-07-07
+* [Pull Request] [ci: move eest spec tests -run regex to yml file](https://github.com/erigontech/erigon/pull/22307) - 2026-07-08
+* [Review] [Review on: ci: move eest spec tests -run regex to yml file](https://github.com/erigontech/erigon/pull/22307#pullrequestreview-4650845731) - 2026-07-08
+* [Review] [Review on: cmd/evm, tools: bound enginextest tester datadir to fix eest 150m benchmark OOM](https://github.com/erigontech/erigon/pull/22325#pullrequestreview-4653990832) - 2026-07-08
+* [Commit] [ci: move eest spec tests -run regex to yml file (#22307)](https://github.com/erigontech/erigon/commit/1b26cee69b310f31759180bf39c4493caef33278) - 2026-07-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [erigon: raise MAX_REORG_DEPTH for enginex runs](https://github.com/ethereum/hive/pull/1568) - 2026-07-08
+* [Commit] [erigon: raise MAX_REORG_DEPTH for enginex runs (#1568)](https://github.com/ethereum/hive/commit/086c7556b09aa200d578cbf39e3e3cf26c8ac3eb) - 2026-07-08
 ## Q2 2026
 
 

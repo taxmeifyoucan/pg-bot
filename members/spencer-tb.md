@@ -64,6 +64,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(test-fixtures): emit chainId in state test fixture transaction](https://github.com/ethereum/execution-specs/pull/3125) - 2026-07-07
 * [Review] [Review on: feat(test-fill): pack Engine X pre-alloc groups](https://github.com/ethereum/execution-specs/pull/3122#pullrequestreview-4643681222) - 2026-07-07
 * [Issue] [Test Release Tracker: `glamsterdam-devnet@v7.X.X`](https://github.com/ethereum/execution-specs/issues/3123) - 2026-07-07
+* [Review] [Review on: feat(spec-specs, tests): EIP-8038: move SSTORE access-cost check before read](https://github.com/ethereum/execution-specs/pull/3064#pullrequestreview-4653250133) - 2026-07-08
+* [Commit] [fix(spec-specs, tests): anchor calldata floor on decomposed EIP-2780 base (#3120)](https://github.com/ethereum/execution-specs/commit/695e5ef1540d63c8d8c24aa1687911811c66a90b) - 2026-07-08
+* [Commit] [feat(spec-specs, tests): finalize EIP-8282 builder deposit contract (#3091)](https://github.com/ethereum/execution-specs/commit/842f0a6bb5a9c3c06f6bfc64c1638a65c12a1103) - 2026-07-08
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -74,6 +77,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4635413569) - 2026-07-06
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Review] [Review on: erigon: raise MAX_REORG_DEPTH for enginex runs](https://github.com/ethereum/hive/pull/1568#pullrequestreview-4651910586) - 2026-07-08
 ## Q2 2026
 
 

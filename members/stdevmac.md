@@ -17,6 +17,11 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [fix(sync): unwedge UpdatingPivot for nodes restarted before the first pivot update (#11995)](https://github.com/NethermindEth/nethermind/commit/7e8c1f48101c4db259156336de0dfd1c8d42651a) - 2026-07-05
 * [Commit] [fix(discovery): deflake KademliaAdapterTests ENR refresh tests (#12287)](https://github.com/NethermindEth/nethermind/commit/2ee58b6f245d7e31b31d07dd6bde9e4d3851680c) - 2026-07-06
 * [Pull Request] [Update 1.39.0 with missing prs](https://github.com/NethermindEth/nethermind/pull/12334) - 2026-07-08
+* [Pull Request] [fix(build): keep RPC JSON source generator portable in self-contained RID publish](https://github.com/NethermindEth/nethermind/pull/12342) - 2026-07-08
+* [Pull Request] [fix(build): unblock 1.39.0 Release packages build (NETSDK1047 in JsonRpc source generator)](https://github.com/NethermindEth/nethermind/pull/12341) - 2026-07-08
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026
 
 

@@ -16,6 +16,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Issue] [Rename verified proxy folder](https://github.com/status-im/nimbus-eth1/issues/4414) - 2026-07-06
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8735) - 2026-07-08
+* [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8734) - 2026-07-08
+* [Issue] [lc: Inefficient zero comparison](https://github.com/status-im/nimbus-eth2/issues/8728) - 2026-07-08
 ## Q2 2026
 
 

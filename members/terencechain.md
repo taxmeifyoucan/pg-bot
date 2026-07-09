@@ -67,6 +67,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Validate and cache published execution payload bids before broadcast (#17101)](https://github.com/OffchainLabs/prysm/commit/044d6bc469a33cef3bce6c8c1094e3bbcef100eb) - 2026-07-07
 * [Commit] [Hold the state lock in QueueBuilderPaymentForSlot (#17095)](https://github.com/OffchainLabs/prysm/commit/d138f97294ed873b219f2b76490a39bd84751695) - 2026-07-07
 * [Commit] [Order Gloas before Fulu in gossip block topic mapping (#17114)](https://github.com/OffchainLabs/prysm/commit/a99b53d1cc8bca7038f07581d52b5f3dd36d04d4) - 2026-07-07
+* [Pull Request] [Ignore instead of reject on bid fee recipient mismatch](https://github.com/OffchainLabs/prysm/pull/17128) - 2026-07-08
+* [Pull Request] [Glamsterdam devnet 7](https://github.com/OffchainLabs/prysm/pull/17138) - 2026-07-08
+* [Review] [Review on: Re-verify builder deposit signatures when in-batch index reuse evicts a pubkey](https://github.com/OffchainLabs/prysm/pull/17111#pullrequestreview-4655497701) - 2026-07-08
+* [Review] [Review on: Skip data columns of empty slots in by range RPC handler](https://github.com/OffchainLabs/prysm/pull/17089#pullrequestreview-4655366305) - 2026-07-08
+* [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/OffchainLabs/prysm/pull/17127) - 2026-07-08
+* [Pull Request] [Set `PAYLOAD_DUE_BPS` to 5000](https://github.com/OffchainLabs/prysm/pull/17126) - 2026-07-08
+* [Pull Request] [Only reset builder withdrawable epoch on top-up when balance is swept](https://github.com/OffchainLabs/prysm/pull/17131) - 2026-07-08
+* [Pull Request] [Remove `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD` bound in Gloas](https://github.com/OffchainLabs/prysm/pull/17130) - 2026-07-08
+* [Pull Request] [Restrict builder deposits to payload builders](https://github.com/OffchainLabs/prysm/pull/17129) - 2026-07-08
+* [Commit] [Ignore instead of reject on bid fee recipient mismatch (#17128)](https://github.com/OffchainLabs/prysm/commit/4b483754209d527559bdaf41a4e190c73020c853) - 2026-07-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 ## Q2 2026

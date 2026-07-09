@@ -19,6 +19,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: add a Gloas builder circuit breaker](https://github.com/Consensys/teku/pull/10911#pullrequestreview-4636402209) - 2026-07-06
 * [Pull Request] [validate exeution payload block hash](https://github.com/Consensys/teku/pull/10938) - 2026-07-06
 * [Issue] [Deprecate the legacy circuit breaker options and implementations](https://github.com/Consensys/teku/issues/10940) - 2026-07-06
+* [Review] [Review on: Improve incoming RPC handling under QUIC](https://github.com/Consensys/teku/pull/10949#pullrequestreview-4655189324) - 2026-07-08
 ## Q2 2026
 
 

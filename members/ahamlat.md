@@ -14,6 +14,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Persist newpayload without fcu glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10725#pullrequestreview-4608577650) - 2026-07-01
 * [Review] [Review on: BAL overlay accumulator onto bal-devnet-7](https://github.com/besu-eth/besu/pull/10738#pullrequestreview-4625360007) - 2026-07-03
+* [Review] [Review on: EIP-8038: Amsterdam state-access gas repricing](https://github.com/besu-eth/besu/pull/10764#pullrequestreview-4654586229) - 2026-07-08
+* [Review] [Review on: Parallel BAL execution: overlay state, prefetch, and async state root ](https://github.com/besu-eth/besu/pull/10741#pullrequestreview-4653903129) - 2026-07-08
+* [Review] [Review on: Merge bal devnet 7 into glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10774#pullrequestreview-4651722391) - 2026-07-08
 ## Q2 2026
 
 

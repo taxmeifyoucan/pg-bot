@@ -27,6 +27,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [EIP-8038: Amsterdam state-access gas repricing](https://github.com/besu-eth/besu/pull/10764) - 2026-07-07
 * [Pull Request] [EIP-8282: regeneration tooling and integrity guard for testing_buildBlockV1 fixtures](https://github.com/besu-eth/besu/pull/10763) - 2026-07-07
 * [Commit] [Add latest EIP-8037 spec to Amsterdam (#10396)](https://github.com/besu-eth/besu/commit/8b80d31c50280d0fa000d4248871081da7fe20d8) - 2026-07-07
+* [Review] [Review on: Bring .github in line with main](https://github.com/besu-eth/besu/pull/10776#pullrequestreview-4654155632) - 2026-07-08
+* [Review] [Review on: Bring .github in line with main](https://github.com/besu-eth/besu/pull/10777#pullrequestreview-4654176029) - 2026-07-08
+* [Review] [Review on: Merge bal devnet 7 into glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10774#pullrequestreview-4651632238) - 2026-07-08
+* [Commit] [EIP-7954: raise Amsterdam max code/initcode size to 64KiB/128KiB (#10742)](https://github.com/besu-eth/besu/commit/0ac653c582ada83e062be52fbf5a611cef86a8e3) - 2026-07-08
 ## Q2 2026
 
 

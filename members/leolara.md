@@ -6,6 +6,11 @@ Github: [@leolara](https://github.com/leolara)
 
 ## Contributions
 
+## Q3 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Update Leo Lara contributions: add execution-specs](https://github.com/protocolguild/documentation/pull/515) - 2026-07-08
 ## Q2 2026
 
 

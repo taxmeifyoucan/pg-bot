@@ -21,6 +21,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [Add transaction decoding to the state library](https://github.com/ipsilon/evmone/pull/1581) - 2026-07-07
 * [Review] [Review on: Add transaction decoding to the state library](https://github.com/ipsilon/evmone/pull/1581#pullrequestreview-4644123232) - 2026-07-07
 * [Commit] [test: Name the shared RLP framing constants (#1580)](https://github.com/ipsilon/evmone/commit/61bfbfffc7078b6f786e2c0bc833374255eaef1f) - 2026-07-07
+* [Pull Request] [evmc: Add get_nonce() to the host interface](https://github.com/ipsilon/evmone/pull/1588) - 2026-07-08
+* [Pull Request] [evmc: Remove the Constantinople revision](https://github.com/ipsilon/evmone/pull/1587) - 2026-07-08
+* [Pull Request] [Identify EVM revisions by name rather than by number](https://github.com/ipsilon/evmone/pull/1586) - 2026-07-08
+* [Review] [Review on: Identify EVM revisions by name rather than by number](https://github.com/ipsilon/evmone/pull/1586#pullrequestreview-4654375559) - 2026-07-08
+* [Commit] [evmc: Remove the Constantinople revision (#1587)](https://github.com/ipsilon/evmone/commit/33cf47ca5093e7c6b57ac24708e6e65c3aaf5c96) - 2026-07-08
+* [Commit] [Identify EVM revisions by name rather than by number (#1586)](https://github.com/ipsilon/evmone/commit/40a25b171a0ae7bcebc8ebc1d364427379156983) - 2026-07-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

@@ -29,6 +29,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: EIP-8246: Remove SELFDESTRUCT burn](https://github.com/NethermindEth/nethermind/pull/12213#pullrequestreview-4635390914) - 2026-07-06
 * [Pull Request] [Batch EIP-2537 pairing check Miller loops and use affine MSM](https://github.com/NethermindEth/nethermind/pull/12329) - 2026-07-07
 * [Commit] [fix(test): deflake Will_not_stop_trying_on_rlpx_connection_failure (#12311)](https://github.com/NethermindEth/nethermind/commit/bb00876f094c34d6992ed4ccb7f086e87fd426e1) - 2026-07-07
+* [Review] [Review on: Stateless executor: tests-zkevm@v0.5.0 alignment](https://github.com/NethermindEth/nethermind/pull/12217#pullrequestreview-4656487757) - 2026-07-08
+* [Review] [Review on: EIP repricings & existing-EIP updates (2780/8037/8038 + fixes)](https://github.com/NethermindEth/nethermind/pull/12214#pullrequestreview-4653175735) - 2026-07-08
+* [Review] [Review on: EIP-8282: Builder execution requests](https://github.com/NethermindEth/nethermind/pull/12215#pullrequestreview-4655056774) - 2026-07-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 ## Q2 2026

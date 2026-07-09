@@ -17,6 +17,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(fill-stateful): add --extract-opcode-count opcode tracing](https://github.com/ethereum/execution-specs/pull/3124) - 2026-07-07
+* [Pull Request] [feat(fill-stateful): make the per-test chain rewind optional (add debug_resetHead)](https://github.com/ethereum/execution-specs/pull/3127) - 2026-07-08
 ## Q2 2026
 
 

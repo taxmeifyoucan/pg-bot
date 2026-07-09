@@ -37,6 +37,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Commit] [Update EIP-7997: Move to Review](https://github.com/ethereum/EIPs/commit/e960dd69bd7b6d81647db09bdfd985a3706bc3f9) - 2026-07-07
 * [Commit] [Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/commit/fcef3c3c1cd610ff0f4cbee77867026fe5c97898) - 2026-07-07
 
+* [Commit] [Update EIP-7904: Move to Review](https://github.com/ethereum/EIPs/commit/80662f8293d85fa1594d7dc0b63c9bcd59f22383) - 2026-07-08
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #105, July 7, 2026](https://github.com/ethereum/pm/issues/2150) - 2026-07-07
 ## Q2 2026

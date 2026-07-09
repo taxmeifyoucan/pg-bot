@@ -57,6 +57,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(test-fill): fix `derived_test` marking for single-format tests (#3108)](https://github.com/ethereum/execution-specs/commit/b548afb0f8b92c9745206ab958dcde7e4d82ab28) - 2026-07-06
 * [Commit] [fix(test-types,test-forks): import `ethereum` lazily so xdist fill coverage measures it (#3059)](https://github.com/ethereum/execution-specs/commit/b8d7c7a5a5b4dc58ff5f594d64b39b7b66198615) - 2026-07-06
 * [Commit] [perf(test-consume): align enginex engine-API flow and skip redundant genesis check (#3093)](https://github.com/ethereum/execution-specs/commit/f878b229bd85f899cd38a44644ae2ec734461471) - 2026-07-06
+* [Review] [Review on: fix(spec-specs, tests): anchor calldata floor on decomposed EIP-2780 base](https://github.com/ethereum/execution-specs/pull/3120#pullrequestreview-4654921735) - 2026-07-08
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

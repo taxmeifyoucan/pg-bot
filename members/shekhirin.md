@@ -21,6 +21,7 @@ Team: Reth
 * [Review] [Review on: chore(deps): update alloy to 2.1.1](https://github.com/paradigmxyz/reth/pull/26270#pullrequestreview-4637324314) - 2026-07-06
 * [Review] [Review on: revert: Derek clear comment deletion](https://github.com/paradigmxyz/reth/pull/26266#pullrequestreview-4636865743) - 2026-07-06
 * [Review] [Review on: ci(bench): delete Derek comments on clear](https://github.com/paradigmxyz/reth/pull/26263#pullrequestreview-4636663527) - 2026-07-06
+* [Review] [Review on: fix(nix): include m4 in native build inputs](https://github.com/paradigmxyz/reth/pull/26321#pullrequestreview-4652875733) - 2026-07-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

@@ -93,8 +93,21 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(dns): don't use the udp port as RLPx dial port for ENRs without a tcp entry](https://github.com/NethermindEth/nethermind/pull/12302#pullrequestreview-4643655147) - 2026-07-07
 * [Commit] [perf(evm): execute STATICCALL precompiles inline, skipping the child frame (#12297)](https://github.com/NethermindEth/nethermind/commit/602478317e14f6d2560dac9b105891b61c39c2d4) - 2026-07-07
 * [Commit] [perf(evm): cache the last ECRecover result per thread (#12296)](https://github.com/NethermindEth/nethermind/commit/d1d79e6c9fcdeacf26e37cdeb115b965eb7e0505) - 2026-07-07
+* [Review] [Review on: fix(build): keep RPC JSON source generator portable in self-contained RID publish](https://github.com/NethermindEth/nethermind/pull/12342#pullrequestreview-4656025917) - 2026-07-08
+* [Review] [Review on: EIP repricings & existing-EIP updates (2780/8037/8038 + fixes)](https://github.com/NethermindEth/nethermind/pull/12214#pullrequestreview-4654784113) - 2026-07-08
+* [Review] [Review on: EIP-8282: Builder execution requests](https://github.com/NethermindEth/nethermind/pull/12215#pullrequestreview-4654585062) - 2026-07-08
+* [Review] [Review on: fix(discovery): publish correct ENR endpoint for IPv6 and unresolved external IPs](https://github.com/NethermindEth/nethermind/pull/12308#pullrequestreview-4655361678) - 2026-07-08
+* [Review] [Review on: fix(evm): use fixed EIP-7623 token cost for the calldata floor](https://github.com/NethermindEth/nethermind/pull/12337#pullrequestreview-4655282779) - 2026-07-08
+* [Review] [Review on: feat(tools): Extract stateless inputs from EEST fixtures](https://github.com/NethermindEth/nethermind/pull/12306#pullrequestreview-4654651921) - 2026-07-08
+* [Review] [Review on: feat(analyzers): add NETH007 — prefer PutSpan over Set with a span-copied array](https://github.com/NethermindEth/nethermind/pull/12336#pullrequestreview-4652478423) - 2026-07-08
+* [Review] [Review on: Update 1.39.0 with missing prs](https://github.com/NethermindEth/nethermind/pull/12334#pullrequestreview-4652558361) - 2026-07-08
+* [Review] [Review on: fix(init): make step init logs identify the actually-running step](https://github.com/NethermindEth/nethermind/pull/12324#pullrequestreview-4652514136) - 2026-07-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
+* [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08
+* [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652808935) - 2026-07-08
+* [Pull Request] [Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517) - 2026-07-08
+* [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4652875753) - 2026-07-08
 ## Q2 2026
 
 

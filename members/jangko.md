@@ -30,6 +30,12 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: builds MUST start on forkchoiceState.headBlockHash](https://github.com/status-im/nimbus-eth1/pull/4427#pullrequestreview-4644553844) - 2026-07-07
 * [Pull Request] [[Bogota] EIP-7805: Fork-choice enforced Inclusion Lists (FOCIL)](https://github.com/status-im/nimbus-eth1/pull/4426) - 2026-07-07
 
+* [Pull Request] [Bump nim-libp2p to v2.1.4](https://github.com/status-im/nimbus-eth1/pull/4437) - 2026-07-08
+* [Review] [Review on: Bump nim-libp2p to v2.1.4](https://github.com/status-im/nimbus-eth1/pull/4437#pullrequestreview-4655081695) - 2026-07-08
+* [Pull Request] [Add linter: check_submodule_branches](https://github.com/status-im/nimbus-eth1/pull/4438) - 2026-07-08
+* [Commit] [Bump nim-libp2p to v2.1.4 (#4437)](https://github.com/status-im/nimbus-eth1/commit/53fcbe3101f6e4399734b0a2a90b598afe282c75) - 2026-07-08
+* [Commit] [glamsterdam devnet 6 (#4371)](https://github.com/status-im/nimbus-eth1/commit/3513fc32eff8b623863f29a2c0ea7f125fef36f4) - 2026-07-08
+* [Commit] [Add linter: check_submodule_branches (#4438)](https://github.com/status-im/nimbus-eth1/commit/db626a29c1507514c0b3e9c439ce7292fa97a10d) - 2026-07-08
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07
