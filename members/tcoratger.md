@@ -61,6 +61,11 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: refactor: fold MultiOpeningMmcs into Mmcs](https://github.com/Plonky3/Plonky3/pull/1917#pullrequestreview-4654195060) - 2026-07-08
 * [Commit] [feat(multi-stark): reusable preprocessed-column commitment (#1907)](https://github.com/Plonky3/Plonky3/commit/ecd6b0dcf43f33b21e688db34949f3318c1d0a7e) - 2026-07-08
 * [Commit] [refactor: fold MultiOpeningMmcs into Mmcs (#1917)](https://github.com/Plonky3/Plonky3/commit/82264f9fe6cbcd57f12fbfc091f8a8052aa222ec) - 2026-07-08
+* [Review] [Review on: feat(multi-stark) batch zerocheck](https://github.com/Plonky3/Plonky3/pull/1916#pullrequestreview-4666558870) - 2026-07-09
+* [Review] [Review on: perf(multi-stark) dedup trace transpose](https://github.com/Plonky3/Plonky3/pull/1931#pullrequestreview-4660549697) - 2026-07-09
+* [Commit] [refactor(multi-stark): derive VerificationError formatting with thiserror (#1941)](https://github.com/Plonky3/Plonky3/commit/ddc057459983f4d6d2156c7ce6da96f086424f91) - 2026-07-09
+* [Commit] [perf(fri): drop verifier row clone and cover query collisions (#1940)](https://github.com/Plonky3/Plonky3/commit/f4da5745c30a7dfb2710f6269c1363d32b6efe8d) - 2026-07-09
+* [Commit] [perf(multi): fuse ext-round fold into a single pass over columns (#1937)](https://github.com/Plonky3/Plonky3/commit/9d18ef5de81568b0239d343a6aefb9f69b709ddf) - 2026-07-09
 ## Q2 2026
 
 

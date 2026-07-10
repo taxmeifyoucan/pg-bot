@@ -8,6 +8,11 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138) - 2026-07-09
 ## Q2 2026
 
 

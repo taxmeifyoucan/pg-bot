@@ -98,6 +98,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(state): replace per-key journal stacks with intrusive PrevIdx change chains](https://github.com/NethermindEth/nethermind/pull/12340) - 2026-07-08
 * [Pull Request] [feat(analyzers): add NETH007 — prefer PutSpan over Set with a span-copied array](https://github.com/NethermindEth/nethermind/pull/12336) - 2026-07-08
 * [Commit] [fix(init): make step init logs identify the actually-running step (#12324)](https://github.com/NethermindEth/nethermind/commit/311c462a6899ee5b01abad2400154fda42613f07) - 2026-07-08
+* [Review] [Review on: fix(sync): stop processing blocks already covered by persisted state](https://github.com/NethermindEth/nethermind/pull/12275#pullrequestreview-4661788071) - 2026-07-09
+* [Pull Request] [perf(flat): sorted content for compacted snapshots](https://github.com/NethermindEth/nethermind/pull/12353) - 2026-07-09
+* [Review] [Review on: perf(flat): sorted content for compacted snapshots](https://github.com/NethermindEth/nethermind/pull/12353#pullrequestreview-4661075465) - 2026-07-09
+* [Review] [Review on: fix(sync): clamp flat full state to best header](https://github.com/NethermindEth/nethermind/pull/12272#pullrequestreview-4661526409) - 2026-07-09
+* [Commit] [fix(tracer): read JS db.getState by raw slot, remove StorageCell.IsHash (#12351)](https://github.com/NethermindEth/nethermind/commit/92c8d17f5187bfd94000932fbaa22562ed8428f8) - 2026-07-09
+* [Commit] [fix(sync): bound beacon header reconciliation to the beacon segment (#12327)](https://github.com/NethermindEth/nethermind/commit/1aae06581aa3683f8d466e95a7f5842fc597c969) - 2026-07-09
 ## Q2 2026
 
 

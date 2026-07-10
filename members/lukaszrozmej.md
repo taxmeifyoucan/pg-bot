@@ -102,6 +102,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: feat(analyzers): add NETH007 — prefer PutSpan over Set with a span-copied array](https://github.com/NethermindEth/nethermind/pull/12336#pullrequestreview-4652478423) - 2026-07-08
 * [Review] [Review on: Update 1.39.0 with missing prs](https://github.com/NethermindEth/nethermind/pull/12334#pullrequestreview-4652558361) - 2026-07-08
 * [Review] [Review on: fix(init): make step init logs identify the actually-running step](https://github.com/NethermindEth/nethermind/pull/12324#pullrequestreview-4652514136) - 2026-07-08
+* [Review] [Review on: perf(prewarm): mempool-driven speculative state pre-warming](https://github.com/NethermindEth/nethermind/pull/12344#pullrequestreview-4661581032) - 2026-07-09
+* [Review] [Review on: fix(state): drop stale StorageCell.IsHash guard breaking the master build](https://github.com/NethermindEth/nethermind/pull/12355#pullrequestreview-4663229331) - 2026-07-09
+* [Review] [Review on: fix(specs): BPO3 inherits BPO2, not Amsterdam; run BPO transition pyspec fixtures](https://github.com/NethermindEth/nethermind/pull/12312#pullrequestreview-4661776299) - 2026-07-09
+* [Review] [Review on: targetGasLimit in PayloadAttributesV4](https://github.com/NethermindEth/nethermind/pull/12216#pullrequestreview-4662563204) - 2026-07-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

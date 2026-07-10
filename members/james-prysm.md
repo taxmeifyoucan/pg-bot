@@ -39,6 +39,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Reset self-build envelope signature failure budget every slot](https://github.com/OffchainLabs/prysm/pull/17104#pullrequestreview-4658024559) - 2026-07-08
 * [Pull Request] [adding proper json fallback for ssz](https://github.com/OffchainLabs/prysm/pull/17137) - 2026-07-08
 * [Commit] [making proposer preferences repush on reconnection to different node (#17066)](https://github.com/OffchainLabs/prysm/commit/90468518114349fa627c956f856815af180d0376) - 2026-07-08
+* [Review] [Review on: Mark full node gas limit](https://github.com/OffchainLabs/prysm/pull/17093#pullrequestreview-4666841273) - 2026-07-09
+* [Review] [Review on: Re-verify builder deposit signatures when in-batch index reuse evicts a pubkey](https://github.com/OffchainLabs/prysm/pull/17111#pullrequestreview-4666948960) - 2026-07-09
+* [Review] [Review on: Wrap payload_attestation_message SSE event in version/data envelope](https://github.com/OffchainLabs/prysm/pull/17145#pullrequestreview-4665255007) - 2026-07-09
+* [Review] [Review on: adding proper json fallback for ssz](https://github.com/OffchainLabs/prysm/pull/17137#pullrequestreview-4664963804) - 2026-07-09
+* [Review] [Review on: making duties failures independent of each other](https://github.com/OffchainLabs/prysm/pull/17036#pullrequestreview-4663973085) - 2026-07-09
 ## Q2 2026
 
 

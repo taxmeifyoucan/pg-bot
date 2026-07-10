@@ -31,6 +31,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: making proposer preferences repush on reconnection to different node](https://github.com/OffchainLabs/prysm/pull/17066#pullrequestreview-4652214727) - 2026-07-08
 * [Pull Request] [Remove Bazel: Phase 3/9 - Part 2](https://github.com/OffchainLabs/prysm/pull/17134) - 2026-07-08
 * [Issue] [Prysm does not support (by default) builder API remote that does not handle SSZ requests](https://github.com/OffchainLabs/prysm/issues/17136) - 2026-07-08
+* [Review] [Review on: adding proper json fallback for ssz](https://github.com/OffchainLabs/prysm/pull/17137#pullrequestreview-4661732907) - 2026-07-09
+* [Review] [Review on: Do not mark a node synced after a failed resync](https://github.com/OffchainLabs/prysm/pull/17125#pullrequestreview-4661536990) - 2026-07-09
+* [Pull Request] [`saveHead`: Clear the head cache when the head is updated.](https://github.com/OffchainLabs/prysm/pull/17143) - 2026-07-09
 ## Q2 2026
 
 

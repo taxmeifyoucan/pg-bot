@@ -23,6 +23,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Fixes for failing glamsterdam-devnet-6 tests  (#4446)](https://github.com/status-im/nimbus-eth1/commit/d83800e02eca464f8a1f4f350a863813af068e0a) - 2026-07-08
 * [Commit] [Make aristo staticLevel and lookup stats updates thread safe (#4439)](https://github.com/status-im/nimbus-eth1/commit/fce17eed1f9b449950136205df9f74d09b6d51fa) - 2026-07-08
 * [Commit] [Rename block_access_list_* files to bal_* (#4435)](https://github.com/status-im/nimbus-eth1/commit/dc385791bace3ff869d7912c7e95c07d16d04331) - 2026-07-08
+* [Pull Request] [Cache and reuse vmState in forked chain](https://github.com/status-im/nimbus-eth1/pull/4452) - 2026-07-09
+* [Pull Request] [Move process block parallel code into separate module](https://github.com/status-im/nimbus-eth1/pull/4450) - 2026-07-09
+* [Commit] [Move process block parallel code into separate module (#4450)](https://github.com/status-im/nimbus-eth1/commit/0f4aa25c1bdd4be9bb98146680385371b1cd53b9) - 2026-07-09
+* [Commit] [Parallel config refactor and improvements (#4440)](https://github.com/status-im/nimbus-eth1/commit/3e256f2562b5b64fdc2dd550125a0af2c6b1f148) - 2026-07-09
 ## Q2 2026
 
 

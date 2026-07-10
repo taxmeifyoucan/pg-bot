@@ -42,6 +42,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(flat): fall back to the MPMC buffer when the trie warmer slot ring is full](https://github.com/NethermindEth/nethermind/pull/12347) - 2026-07-08
 * [Commit] [perf(prewarmer): skip speculatively warming transactions the main thread has already started (#12319)](https://github.com/NethermindEth/nethermind/commit/4ef68da31b6e75399e279c84566df05410397c3c) - 2026-07-08
 
+* [Pull Request] [fix(state): drop stale StorageCell.IsHash guard breaking the master build](https://github.com/NethermindEth/nethermind/pull/12355) - 2026-07-09
+* [Review] [Review on: perf(prewarmer): feed trie warm-up hints from speculative execution to the flat TrieWarmer](https://github.com/NethermindEth/nethermind/pull/12339#pullrequestreview-4661229384) - 2026-07-09
+* [Commit] [fix(state): drop stale StorageCell.IsHash guard breaking the master build (#12355)](https://github.com/NethermindEth/nethermind/commit/0c9ff7bcff56d79f75adeeb847ed5a5eb9fcc134) - 2026-07-09
+* [Commit] [perf(prewarmer): feed trie warm-up hints from speculative execution to the flat TrieWarmer (#12339)](https://github.com/NethermindEth/nethermind/commit/053e26dfc6e70892dbdbe494df7262c05a094eed) - 2026-07-09
+* [Commit] [perf(flat): fall back to the MPMC buffer when the trie warmer slot ring is full (#12347)](https://github.com/NethermindEth/nethermind/commit/d5ac0bcfbeb881941515dff334de54f13d538171) - 2026-07-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 ## Q2 2026

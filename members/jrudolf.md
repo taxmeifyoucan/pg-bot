@@ -8,6 +8,11 @@ Team: Stateless Consensus
 
 ## Contributions
 
+## Q3 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [remove josh rudolf 💜](https://github.com/protocolguild/documentation/pull/519) - 2026-07-09
 ## Q1 2026
 
 

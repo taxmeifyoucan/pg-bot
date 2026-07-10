@@ -31,6 +31,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Bring .github in line with main](https://github.com/besu-eth/besu/pull/10777#pullrequestreview-4654176029) - 2026-07-08
 * [Review] [Review on: Merge bal devnet 7 into glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10774#pullrequestreview-4651632238) - 2026-07-08
 * [Commit] [EIP-7954: raise Amsterdam max code/initcode size to 64KiB/128KiB (#10742)](https://github.com/besu-eth/besu/commit/0ac653c582ada83e062be52fbf5a611cef86a8e3) - 2026-07-08
+* [Commit] [Add CL target gas limit to engine forkchoiceUpdatedV4 (#10745)](https://github.com/besu-eth/besu/commit/72361b3bb9b67ad07dc3cb933a53acc3c071dd19) - 2026-07-09
 ## Q2 2026
 
 

@@ -33,6 +33,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: refactor(test-benchmark): deploy contract gas usage](https://github.com/ethereum/execution-specs/pull/3110#pullrequestreview-4636291157) - 2026-07-06
 * [Issue] [Benchmarking Update to Devnet 6, 7 Spec](https://github.com/ethereum/execution-specs/issues/3106) - 2026-07-06
 * [Commit] [refactor(test-benchmark): deploy contract gas usage (#3110)](https://github.com/ethereum/execution-specs/commit/40172e5e112418bfafde8e16f35393766a58615a) - 2026-07-06
+* [Pull Request] [refactor(test-benchmark): align stateful benchmarks with the Amsterdam state-gas model](https://github.com/ethereum/execution-specs/pull/3137) - 2026-07-09
+* [Review] [Review on: refactor(test-benchmark): update `test_account_access`, add `keccak256` overhead scenario](https://github.com/ethereum/execution-specs/pull/2947#pullrequestreview-4665037104) - 2026-07-09
+* [Issue] [Benchmark test wrapper compatibility with `glamsterdam-devnet-6` spec](https://github.com/ethereum/execution-specs/issues/3128) - 2026-07-09
 ## Q2 2026
 
 

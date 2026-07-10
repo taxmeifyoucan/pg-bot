@@ -111,6 +111,21 @@ Team: Erigon
 * [Commit] [node/rulesconfig: registry for L2 rules engines (#22196)](https://github.com/erigontech/erigon/commit/031717f337e54f1570129ae2cb4ace23115ddd96) - 2026-07-08
 * [Commit] [db/integrity: add CaplinStateRoots check for blank root snapshots (#22295)](https://github.com/erigontech/erigon/commit/76f2a3bc8ea44dd34ad2a0c61a81fe9f5ad39d87) - 2026-07-08
 * [Commit] [Revert "execution: mid-block resume follow-ups — prior receipts, notifications, blooms, blob gas (#22235)" (#22308)](https://github.com/erigontech/erigon/commit/1be92bb166994a677f5962b09db745ea8d2bc306) - 2026-07-08
+* [Pull Request] [execution/commitment: parallel-commitment trie-context deferral and worker file-generation pin](https://github.com/erigontech/erigon/pull/22360) - 2026-07-09
+* [Review] [Review on: db/snapshotsync: embed View.segments as fixed-size array to cut BeginRo allocs](https://github.com/erigontech/erigon/pull/22341#pullrequestreview-4661174074) - 2026-07-09
+* [Pull Request] [cl/antiquary: commit reconstructed state in bounded batches SEGV](https://github.com/erigontech/erigon/pull/22347) - 2026-07-09
+* [Review] [Review on: exec: a bit less direct uses of `db/state.Agg` object](https://github.com/erigontech/erigon/pull/22346#pullrequestreview-4661159398) - 2026-07-09
+* [Pull Request] [[r3.5] cl/antiquary: commit reconstructed state in bounded batches](https://github.com/erigontech/erigon/pull/22348) - 2026-07-09
+* [Pull Request] [Revert #22257: parallel-commitment mount empty-branch regression](https://github.com/erigontech/erigon/pull/22362) - 2026-07-09
+* [Review] [Review on: cl/phase1/forkchoice: replace latestMessagesStore interning with a flat per-validator slice](https://github.com/erigontech/erigon/pull/22352#pullrequestreview-4667955590) - 2026-07-10
+* [Pull Request] [db/test: fix BenchmarkSharedDomains_ComputeCommitment to measure real work](https://github.com/erigontech/erigon/pull/22350) - 2026-07-09
+* [Review] [Review on: db/snapshotsync: remove unused BlockRetire.Writer and RoSnapshots methods](https://github.com/erigontech/erigon/pull/22342#pullrequestreview-4661107411) - 2026-07-09
+* [Review] [Review on: cl, execution: don't log context canceled on shutdown](https://github.com/erigontech/erigon/pull/22340#pullrequestreview-4661166980) - 2026-07-09
+* [Review] [Review on: db/snapshotsync: move freezeblocks.RoSnapshots to its own pkg](https://github.com/erigontech/erigon/pull/22343#pullrequestreview-4661102731) - 2026-07-09
+* [Review] [Review on: compatible branch for jochemnet36-noref-base.tar.zst](https://github.com/erigontech/erigon/pull/22316#pullrequestreview-4661888151) - 2026-07-09
+* [Review] [Review on: blocks files: move refcnt from per-file to per-visibleFiles object (like state files)](https://github.com/erigontech/erigon/pull/22246#pullrequestreview-4659482181) - 2026-07-09
+* [Commit] [db/test: fix BenchmarkSharedDomains_ComputeCommitment to measure real work (#22350)](https://github.com/erigontech/erigon/commit/a6f85118bd7de66e4d2f82df19eaf42ff5141003) - 2026-07-09
+* [Commit] [execution: re-apply mid-block resume follow-ups (#22235) with non-fatal prior-receipt reconstruction (#22315)](https://github.com/erigontech/erigon/commit/b886ed7a17723ec9acc96665003e8eef6bcbfa26) - 2026-07-09
 ## Q2 2026
 
 

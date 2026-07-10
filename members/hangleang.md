@@ -18,6 +18,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Delay block until execution payload envelope is verified or rejected](https://github.com/grandinetech/grandine/pull/786#pullrequestreview-4622851498) - 2026-07-03
 * [Pull Request] [Gloas block building API with stateful path](https://github.com/grandinetech/grandine/pull/788) - 2026-07-07
 * [Issue] [Consensus spec v1.7.0-alpha.12](https://github.com/grandinetech/grandine/issues/790) - 2026-07-08
+* [Pull Request] [Update consensus-spec-tests to v1.7.0-alpha.12](https://github.com/grandinetech/grandine/pull/791) - 2026-07-09
+* [Issue] [[Glamsterdam] Return 204 for producePayloadAttestationData when no block at slot](https://github.com/grandinetech/grandine/issues/794) - 2026-07-09
+* [Issue] [[Glamsterdam] Add SSZ response support for validator_balances endpoints](https://github.com/grandinetech/grandine/issues/793) - 2026-07-09
+* [Issue] [[Glamsterdam] Remove parent_block_number from payload_attributes](https://github.com/grandinetech/grandine/issues/792) - 2026-07-09
 ## Q2 2026
 
 

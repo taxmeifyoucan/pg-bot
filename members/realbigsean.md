@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Areal
 
 ## Contributions
 
+## Q3 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Fix rust 1.97 lints](https://github.com/sigp/lighthouse/pull/9607#pullrequestreview-4666278126) - 2026-07-09
 ## Q1 2026
 
 

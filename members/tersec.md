@@ -49,6 +49,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422#pullrequestreview-4632990203) - 2026-07-06
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848#pullrequestreview-4660020580) - 2026-07-09
 ## Q2 2026
 
 

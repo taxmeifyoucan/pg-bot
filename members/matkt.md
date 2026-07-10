@@ -30,6 +30,13 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Bring .github in line with main](https://github.com/besu-eth/besu/pull/10777#pullrequestreview-4654049180) - 2026-07-08
 * [Pull Request] [Merge bal devnet 7 into glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10774) - 2026-07-08
 * [Review] [Review on: Merge bal devnet 7 into glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10774#pullrequestreview-4651729228) - 2026-07-08
+* [Pull Request] [Return -32602 for invalid engine BAL params (EIP-7928)](https://github.com/besu-eth/besu/pull/10785) - 2026-07-09
+* [Review] [Review on: Return -32602 for invalid engine BAL params (EIP-7928)](https://github.com/besu-eth/besu/pull/10785#pullrequestreview-4662851922) - 2026-07-09
+* [Pull Request] [Return -32602 for invalid engine BAL params (EIP-7928)](https://github.com/besu-eth/besu/pull/10783) - 2026-07-09
+* [Pull Request] [Return -32602 for invalid engine BAL params (EIP-7928)](https://github.com/besu-eth/besu/pull/10782) - 2026-07-09
+* [Review] [Review on: Add CL target gas limit to engine forkchoiceUpdatedV4](https://github.com/besu-eth/besu/pull/10745#pullrequestreview-4660189178) - 2026-07-09
+* [Commit] [Return -32602 for invalid engine BAL params (EIP-7928) (#10785)](https://github.com/besu-eth/besu/commit/9518231a6ac2d9be26d63d500149045b760e6fc8) - 2026-07-09
+* [Commit] [Parallel BAL execution: overlay state, prefetch, and async state root  (#10741)](https://github.com/besu-eth/besu/commit/81ac11e7c884c93b30df5503806b20519e0e69ee) - 2026-07-09
 ## Q2 2026
 
 

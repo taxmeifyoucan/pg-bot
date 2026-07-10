@@ -144,6 +144,24 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [.claude/rules: update branch-naming for the 3.5 release line (#22331)](https://github.com/erigontech/erigon/commit/dbd799c6f358f23c10d7f71b12aceaa2fa1f4a41) - 2026-07-08
 * [Commit] [db/snapshotsync: share segment open/close helpers with caplin snapshots (#22172)](https://github.com/erigontech/erigon/commit/76e5d1d9630e0b742a7ed0a025dd54e41dd2707a) - 2026-07-08
 * [Commit] [cl, db, execution, p2p, cmd: fix copy-paste drift defects (#22165)](https://github.com/erigontech/erigon/commit/640942318cc9373c3d55ac7872b0e7ca43df894d) - 2026-07-08
+* [Review] [Review on: [r3.5] cl, db/snapshotsync: don't freeze empty caplin block/state roots](https://github.com/erigontech/erigon/pull/22323#pullrequestreview-4661288851) - 2026-07-09
+* [Pull Request] [ci: bench stall watchdog (SIGQUIT stack dumps)](https://github.com/erigontech/erigon/pull/22358) - 2026-07-09
+* [Review] [Review on: execution/stagedsync: O(1) parallel-exec dispatch — fix worker starvation without enlarging the queue](https://github.com/erigontech/erigon/pull/22336#pullrequestreview-4662576332) - 2026-07-09
+* [Review] [Review on: rpc, node: fix nil-pointer panic in gzip batch flush race](https://github.com/erigontech/erigon/pull/22338#pullrequestreview-4661407871) - 2026-07-09
+* [Review] [Review on: rpc: fix prestate tracer zero slots](https://github.com/erigontech/erigon/pull/22248#pullrequestreview-4661151544) - 2026-07-09
+* [Review] [Review on: execution: re-apply mid-block resume follow-ups (#22235) with non-fatal prior-receipt reconstruction](https://github.com/erigontech/erigon/pull/22315#pullrequestreview-4661171777) - 2026-07-09
+* [Review] [Review on: [DO-NOT-MERGE] execution: implement EIP-2780 resource-based intrinsic transaction gas](https://github.com/erigontech/erigon/pull/22053#pullrequestreview-4662088367) - 2026-07-09
+* [Review] [Review on: [DO-NOT-MERGE] execution/protocol: implement EIP-8282 Builder Execution Requests](https://github.com/erigontech/erigon/pull/22093#pullrequestreview-4662908475) - 2026-07-09
+* [Review] [Review on: [DO-NOT-MERGE] execution: implement EIP-8038 state-access gas cost update](https://github.com/erigontech/erigon/pull/22060#pullrequestreview-4662566635) - 2026-07-09
+* [Review] [Review on: ci: move hive-eest to consume-enginex (2-3X quicker)](https://github.com/erigontech/erigon/pull/22344#pullrequestreview-4661365544) - 2026-07-09
+* [Review] [Review on: execution, db/state: StateCache follow-ups](https://github.com/erigontech/erigon/pull/22159#pullrequestreview-4661751013) - 2026-07-09
+* [Pull Request] [execution/cache, db/state/execctx, execution/exec: applied-progress watermark for stale-snapshot cache fills](https://github.com/erigontech/erigon/pull/22357) - 2026-07-09
+* [Review] [Review on: FCU semaphore decouple + foreground-priority bg-commit worker (PR #4 of the perf stack)](https://github.com/erigontech/erigon/pull/21414#pullrequestreview-4662262954) - 2026-07-09
+* [Review] [Review on: execution: update eest devnet fixtures to glamsterdam-devnet@v6.1.1](https://github.com/erigontech/erigon/pull/22023#pullrequestreview-4661756791) - 2026-07-09
+* [Issue] [benchmarks CI: occasional 1.5-5.5h stalls — mmap page-fault crawl in etl mergeSortFiles during BenchmarkPruneSmallBatches flush](https://github.com/erigontech/erigon/issues/22361) - 2026-07-09
+* [Issue] [execution/cache: eviction of a deletion tombstone/marker re-opens stale-snapshot resurrection](https://github.com/erigontech/erigon/issues/22356) - 2026-07-09
+* [Commit] [ci: bench stall watchdog (SIGQUIT stack dumps) (#22358)](https://github.com/erigontech/erigon/commit/4f1982e0adc77c82dc4f36497d864e025ce20e03) - 2026-07-09
+* [Commit] [common/race: fix darwin -race crashes from file mmaps in the TSAN heap window (#21611)](https://github.com/erigontech/erigon/commit/c9b6aed3971fbaf511e84d6076d9b86f16fe54a3) - 2026-07-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

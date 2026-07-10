@@ -32,6 +32,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [further ssz optimizations](https://github.com/Consensys/teku/issues/10947) - 2026-07-08
 * [Commit] [Enable channel virtual threads by default (#10950)](https://github.com/Consensys/teku/commit/32f5860ed581d00ebd16a1e9b6b1ae64aed541a6) - 2026-07-08
 * [Commit] [Improve incoming RPC handling under QUIC (#10949)](https://github.com/Consensys/teku/commit/903a2054586e72c247b2179d65ee373fcfa1b755) - 2026-07-08
+* [Review] [Review on: Remove Quartz scheduler and --Xquartz-scheduler-enabled flag](https://github.com/Consensys/teku/pull/10952#pullrequestreview-4666930593) - 2026-07-09
+* [Review] [Review on: validate exeution payload block hash](https://github.com/Consensys/teku/pull/10938#pullrequestreview-4662847413) - 2026-07-09
+* [Review] [Review on: consensus-specs v1.7.0-alpha.12 compatibility (deferring 7688)](https://github.com/Consensys/teku/pull/10954#pullrequestreview-4663211737) - 2026-07-09
+* [Pull Request] [Cleanup gossip params](https://github.com/Consensys/teku/pull/10956) - 2026-07-09
+* [Review] [Review on: update validation result for fee recipient mismatch to ignore instead of reject](https://github.com/Consensys/teku/pull/10953#pullrequestreview-4662717424) - 2026-07-09
+* [Issue] [remove `MAX_SIGNED_BEACON_BLOCK_SIZE`as per ethereum/consensus-specs#5436](https://github.com/Consensys/teku/issues/10955) - 2026-07-09
+* [Commit] [implement SszPackedProgressiveByteLists hint (#10951)](https://github.com/Consensys/teku/commit/f44695203e88b04f4c2f765baed01942904d0946) - 2026-07-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

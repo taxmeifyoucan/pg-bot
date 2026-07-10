@@ -30,6 +30,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: ci: move eest spec tests -run regex to yml file](https://github.com/erigontech/erigon/pull/22307#pullrequestreview-4650845731) - 2026-07-08
 * [Review] [Review on: cmd/evm, tools: bound enginextest tester datadir to fix eest 150m benchmark OOM](https://github.com/erigontech/erigon/pull/22325#pullrequestreview-4653990832) - 2026-07-08
 * [Commit] [ci: move eest spec tests -run regex to yml file (#22307)](https://github.com/erigontech/erigon/commit/1b26cee69b310f31759180bf39c4493caef33278) - 2026-07-08
+* [Review] [Review on: ci: bench stall watchdog (SIGQUIT stack dumps)](https://github.com/erigontech/erigon/pull/22358#pullrequestreview-4662986203) - 2026-07-09
+* [Pull Request] [ci: enforce 1h job timeout across all merge-queue workflows](https://github.com/erigontech/erigon/pull/22359) - 2026-07-09
+* [Review] [Review on: [DO-NOT-MERGE] execution: implement EIP-2780 resource-based intrinsic transaction gas](https://github.com/erigontech/erigon/pull/22053#pullrequestreview-4662678069) - 2026-07-09
+* [Pull Request] [ci: move hive-eest to consume-enginex (2-3X quicker)](https://github.com/erigontech/erigon/pull/22344) - 2026-07-09
+* [Commit] [ci: enforce 1h job timeout across all merge-queue workflows (#22359)](https://github.com/erigontech/erigon/commit/e7d10ebce9a99b584611cbb454130e779bad7e5b) - 2026-07-09
+* [Commit] [ci: move hive-eest to consume-enginex (2-3X quicker) (#22344)](https://github.com/erigontech/erigon/commit/2e41aa8308835a88dbe60639b7de614be0c6aabf) - 2026-07-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

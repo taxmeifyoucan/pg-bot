@@ -19,6 +19,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: p2p: make Server.Stop transition exactly-once via CompareAndSwap](https://github.com/erigontech/erigon/pull/22231#pullrequestreview-4631455243) - 2026-07-05
 * [Review] [Review on: cmd/integration: use cobra cmd.Context() instead of re-deriving RootContext per subcommand](https://github.com/erigontech/erigon/pull/22220#pullrequestreview-4631458072) - 2026-07-05
 * [Review] [Review on: rpc/mcp, node/eth: shut down MCP SSE server on ctx cancel](https://github.com/erigontech/erigon/pull/22230#pullrequestreview-4631456817) - 2026-07-05
+* [Review] [Review on: common/race: fix darwin -race crashes from file mmaps in the TSAN heap window](https://github.com/erigontech/erigon/pull/21611#pullrequestreview-4661264284) - 2026-07-09
 ## Q2 2026
 
 

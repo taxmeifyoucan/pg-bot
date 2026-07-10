@@ -39,6 +39,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Don't feed p2p with external networks peers](https://github.com/NethermindEth/nethermind/pull/12321#pullrequestreview-4655604199) - 2026-07-08
 * [Review] [Review on: Update 1.39.0 with missing prs](https://github.com/NethermindEth/nethermind/pull/12334#pullrequestreview-4654524576) - 2026-07-08
 * [Review] [Review on: perf(state): O(1) storage destruction for the tx-end destroy list](https://github.com/NethermindEth/nethermind/pull/12322#pullrequestreview-4651407836) - 2026-07-08
+* [Review] [Review on: Fix state gas spill with negative reservoir](https://github.com/NethermindEth/nethermind/pull/12338#pullrequestreview-4662815876) - 2026-07-09
+* [Review] [Review on: fix(state): drop stale StorageCell.IsHash guard breaking the master build](https://github.com/NethermindEth/nethermind/pull/12355#pullrequestreview-4663014774) - 2026-07-09
+* [Review] [Review on: fix(sync): clamp flat full state to best header](https://github.com/NethermindEth/nethermind/pull/12272#pullrequestreview-4663021148) - 2026-07-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

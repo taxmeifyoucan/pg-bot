@@ -22,6 +22,8 @@ Team: Erigon
 * [Review] [Review on: execution/cache, execution/commitment, db/state: consolidate cache stack (freelru + persistent code cache)](https://github.com/erigontech/erigon/pull/22154#pullrequestreview-4635548666) - 2026-07-06
 * [Commit] [execution/state: typed-vio refactor (L2 — typed AddressEntry + WriteCell[T] + sync.Pool) (#21536)](https://github.com/erigontech/erigon/commit/1f0f5b3e7add57383792746edbe3c0412f788523) - 2026-07-06
 * [Commit] [execution/cache, execution/commitment, db/state: consolidate cache stack (freelru + persistent code cache) (#22154)](https://github.com/erigontech/erigon/commit/b4ad655fb24f41a26817f98af1fb27418a969eea) - 2026-07-07
+* [Pull Request] [db/state, execution/commitment: fix parallel-commitment worker reads + add COMMITMENT_PARALLEL toggle](https://github.com/erigontech/erigon/pull/22354) - 2026-07-09
+* [Commit] [BAL-driven parallel commitment (#21416)](https://github.com/erigontech/erigon/commit/ddeddcfbc08f260d1f9ec3af6bfea16a49d4510e) - 2026-07-09
 ## Q2 2026
 
 

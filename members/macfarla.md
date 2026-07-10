@@ -32,6 +32,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Pull Request] [adding an exe file to test binary files check](https://github.com/besu-eth/besu/pull/10772) - 2026-07-08
 * [Commit] [feat(pow-removal): Phase 4/5 cleanup - remove PowAlgorithm and DifficultyCalculatorTests (#10675)](https://github.com/besu-eth/besu/commit/2661dd8fd409df50e17ecedc7cb1fef99e07c834) - 2026-07-08
 * [Commit] [update vertx to 4.5.27 (#10770)](https://github.com/besu-eth/besu/commit/f66bf61a473c7a452e023055ab1d5795d0e3559b) - 2026-07-08
+* [Review] [Review on: fix: add missing source artifact checksums for vertx 4.5.27](https://github.com/besu-eth/besu/pull/10781#pullrequestreview-4661887144) - 2026-07-09
 ## Q2 2026
 
 

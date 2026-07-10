@@ -32,6 +32,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Stateless executor: tests-zkevm@v0.5.0 alignment](https://github.com/NethermindEth/nethermind/pull/12217#pullrequestreview-4656487757) - 2026-07-08
 * [Review] [Review on: EIP repricings & existing-EIP updates (2780/8037/8038 + fixes)](https://github.com/NethermindEth/nethermind/pull/12214#pullrequestreview-4653175735) - 2026-07-08
 * [Review] [Review on: EIP-8282: Builder execution requests](https://github.com/NethermindEth/nethermind/pull/12215#pullrequestreview-4655056774) - 2026-07-08
+* [Pull Request] [feat: add built-in balance viewer UI at /balances](https://github.com/NethermindEth/nethermind/pull/12360) - 2026-07-09
+* [Pull Request] [fix(trie): run background pruning off the thread pool to avoid pool starvation](https://github.com/NethermindEth/nethermind/pull/12359) - 2026-07-09
+* [Review] [Review on: Fix state gas spill with negative reservoir](https://github.com/NethermindEth/nethermind/pull/12338#pullrequestreview-4662969881) - 2026-07-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 ## Q2 2026

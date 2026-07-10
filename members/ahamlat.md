@@ -17,6 +17,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: EIP-8038: Amsterdam state-access gas repricing](https://github.com/besu-eth/besu/pull/10764#pullrequestreview-4654586229) - 2026-07-08
 * [Review] [Review on: Parallel BAL execution: overlay state, prefetch, and async state root ](https://github.com/besu-eth/besu/pull/10741#pullrequestreview-4653903129) - 2026-07-08
 * [Review] [Review on: Merge bal devnet 7 into glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10774#pullrequestreview-4651722391) - 2026-07-08
+* [Pull Request] [Improve BAL prefetcher collectKeys method performance](https://github.com/besu-eth/besu/pull/10788) - 2026-07-09
+* [Pull Request] [New threading model for block processing](https://github.com/besu-eth/besu/pull/10786) - 2026-07-09
 ## Q2 2026
 
 

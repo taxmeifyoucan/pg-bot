@@ -14,6 +14,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Update `crossbeam-epoch` to fix cargo audit](https://github.com/sigp/lighthouse/pull/9581) - 2026-07-07
 * [Review] [Review on: Fix nightly deneb tests and move electra fork tests to nightly](https://github.com/sigp/lighthouse/pull/9384#pullrequestreview-4640642884) - 2026-07-07
+* [Pull Request] [Dump local testnet logs after startup failure](https://github.com/sigp/lighthouse/pull/9613) - 2026-07-10
 ## Q2 2026
 
 

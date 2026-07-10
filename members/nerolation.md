@@ -26,6 +26,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Review] [Review on: Update EIP-7976: Move to Review](https://github.com/ethereum/EIPs/pull/11877#pullrequestreview-4641631509) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4641632629) - 2026-07-07
 * [Pull Request] [Update EIP-7928: exclude the recipient when a runtime halt precedes i…](https://github.com/ethereum/EIPs/pull/11902) - 2026-07-08
+* [Commit] [Update EIP-7928: exclude the recipient when a runtime halt precedes i…](https://github.com/ethereum/EIPs/commit/6c666b8d646df8ea6dcef9638de7b48e3c45ab96) - 2026-07-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 

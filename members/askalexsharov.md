@@ -117,6 +117,28 @@ Team: Erigon
 * [Commit] [db: opt-in ReadAhead of Table with limited "ahead window" (#21880)](https://github.com/erigontech/erigon/commit/a681e7080cd8a303a0e7b67e77517559dab8fd00) - 2026-07-08
 * [Commit] [db, cmd: remove forkable and forkableagg (#22287)](https://github.com/erigontech/erigon/commit/05040809b2218361799780101cf1ed3aed0527e1) - 2026-07-08
 * [Commit] [db/state: say "serializable" isolation level instead of "snapshot isolation" (#22305)](https://github.com/erigontech/erigon/commit/3a495b23e09a171bb032738209541a3b31f1dde4) - 2026-07-08
+* [Pull Request] [[wip] `--persist.receipts.distance` support](https://github.com/erigontech/erigon/pull/22349) - 2026-07-09
+* [Review] [Review on: [wip] `--persist.receipts.distance` support](https://github.com/erigontech/erigon/pull/22349#pullrequestreview-4668116342) - 2026-07-10
+* [Pull Request] [temporal DB add block snapshots view (no behavior changes)](https://github.com/erigontech/erigon/pull/22353) - 2026-07-09
+* [Review] [Review on: temporal DB add block snapshots view (no behavior changes)](https://github.com/erigontech/erigon/pull/22353#pullrequestreview-4668010560) - 2026-07-10
+* [Pull Request] [db/snapshotsync: embed View.segments as fixed-size array to cut BeginRo allocs](https://github.com/erigontech/erigon/pull/22341) - 2026-07-09
+* [Review] [Review on: cl/antiquary: commit reconstructed state in bounded batches SEGV](https://github.com/erigontech/erigon/pull/22347#pullrequestreview-4667986205) - 2026-07-10
+* [Pull Request] [exec: a bit less direct uses of `db/state.Agg` object](https://github.com/erigontech/erigon/pull/22346) - 2026-07-09
+* [Review] [Review on: exec: a bit less direct uses of `db/state.Agg` object](https://github.com/erigontech/erigon/pull/22346#pullrequestreview-4661854039) - 2026-07-09
+* [Review] [Review on: [r3.5] cl/antiquary: commit reconstructed state in bounded batches](https://github.com/erigontech/erigon/pull/22348#pullrequestreview-4667987163) - 2026-07-10
+* [Review] [Review on: Revert #22257: parallel-commitment mount empty-branch regression](https://github.com/erigontech/erigon/pull/22362#pullrequestreview-4667984652) - 2026-07-10
+* [Review] [Review on: db/test: fix BenchmarkSharedDomains_ComputeCommitment to measure real work](https://github.com/erigontech/erigon/pull/22350#pullrequestreview-4661864467) - 2026-07-09
+* [Review] [Review on: ci: fix zizmor template-injection in qa-tip-tracking-with-load (#21132)](https://github.com/erigontech/erigon/pull/22314#pullrequestreview-4661173936) - 2026-07-09
+* [Pull Request] [db/snapshotsync: remove unused BlockRetire.Writer and RoSnapshots methods](https://github.com/erigontech/erigon/pull/22342) - 2026-07-09
+* [Review] [Review on: ci: move hive-eest to consume-enginex (2-3X quicker)](https://github.com/erigontech/erigon/pull/22344#pullrequestreview-4659928466) - 2026-07-09
+* [Review] [Review on: ci: fix zizmor template-injection in 4 QA workflows (#21132)](https://github.com/erigontech/erigon/pull/22313#pullrequestreview-4661171669) - 2026-07-09
+* [Pull Request] [cl, execution: don't log context canceled on shutdown](https://github.com/erigontech/erigon/pull/22340) - 2026-07-09
+* [Pull Request] [db/snapshotsync: move freezeblocks.RoSnapshots to its own pkg](https://github.com/erigontech/erigon/pull/22343) - 2026-07-09
+* [Pull Request] [[wip] thoughts on prune cli flags](https://github.com/erigontech/erigon/pull/22339) - 2026-07-09
+* [Commit] [db/snapshotsync: remove unused BlockRetire.Writer and RoSnapshots methods (#22342)](https://github.com/erigontech/erigon/commit/8ed045274898ce44c019a320408db8af9393c000) - 2026-07-09
+* [Commit] [cl, execution: don't log context canceled on shutdown (#22340)](https://github.com/erigontech/erigon/commit/726f971b98b1297ea47c9861c20fe59f182342ba) - 2026-07-09
+* [Commit] [golangci-lint: enable modernize 'minmax' analyzer and apply autofixes (#22283)](https://github.com/erigontech/erigon/commit/722f6f3ddd9d99f5363a8275ef76d5aeea02fddb) - 2026-07-09
+* [Commit] [blocks files: move refcnt from per-file to per-visibleFiles object (like state files) (#22246)](https://github.com/erigontech/erigon/commit/85d56064f120382e0ed4236748d9e24c97e42ebf) - 2026-07-09
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

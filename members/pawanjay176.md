@@ -16,6 +16,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: fix(monitoring_api): redact reqwest error URLs](https://github.com/sigp/lighthouse/pull/9555#pullrequestreview-4621863757) - 2026-07-03
 * [Review] [Review on: fix(monitoring_api): redact reqwest error URLs](https://github.com/sigp/lighthouse/pull/9555#pullrequestreview-4628499353) - 2026-07-03
 * [Review] [Review on: Replace electra sync tests with gloas sync tests on CI](https://github.com/sigp/lighthouse/pull/9228#pullrequestreview-4641012989) - 2026-07-07
+* [Review] [Review on: Do not cache partial header of imported blocks](https://github.com/sigp/lighthouse/pull/9604#pullrequestreview-4665562334) - 2026-07-09
+* [Pull Request] [Fix rust 1.97 lints](https://github.com/sigp/lighthouse/pull/9607) - 2026-07-09
+* [Review] [Review on: Pin genesis generator to devnet-6](https://github.com/sigp/lighthouse/pull/9608#pullrequestreview-4666821370) - 2026-07-09
 ## Q2 2026
 
 

@@ -18,6 +18,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858#pullrequestreview-4633976676) - 2026-07-06
 * [Review] [Review on: Update EIP-8037: Move to Review](https://github.com/ethereum/EIPs/pull/11879#pullrequestreview-4644862324) - 2026-07-07
 * [Review] [Review on: Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858#pullrequestreview-4644881428) - 2026-07-07
+* [Pull Request] [Update EIP-2780: align with recent EIP-2780 changes](https://github.com/ethereum/EIPs/pull/11906) - 2026-07-09
+* [Commit] [Update EIP-2780: align with recent EIP-2780 changes](https://github.com/ethereum/EIPs/commit/2e7e88bb8dc0ead4db7726ac6af89f576c221d93) - 2026-07-09
 ## Q2 2026
 
 

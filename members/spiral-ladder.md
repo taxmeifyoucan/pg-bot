@@ -16,6 +16,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat(shuffling-cache): add 'has' api to shuffling cache](https://github.com/ChainSafe/lodestar/pull/9579) - 2026-07-02
 * [Commit] [feat(shuffling-cache): add 'has' api to shuffling cache (#9579)](https://github.com/ChainSafe/lodestar/commit/0a39befe628ff1ed4be3e752ace68456936ae756) - 2026-07-03
 * [Review] [Review on: fix: submit PTC attestation early only for the canonical block's payload](https://github.com/ChainSafe/lodestar/pull/9588#pullrequestreview-4653760072) - 2026-07-08
+* [Pull Request] [feat: update stateTransition interface to take raw block bytes instead](https://github.com/ChainSafe/lodestar/pull/9632) - 2026-07-09
+* [Review] [Review on: feat: update stateTransition interface to take raw block bytes instead](https://github.com/ChainSafe/lodestar/pull/9632#pullrequestreview-4664737949) - 2026-07-09
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -32,6 +34,12 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix: populate cache balances during rewards/penalties processing](https://github.com/ChainSafe/lodestar-z/pull/474) - 2026-07-08
 * [Commit] [fix: populate cache balances during rewards/penalties processing (#474)](https://github.com/ChainSafe/lodestar-z/commit/5bf23dc4a664d84dcb91d14234128cc89c53b934) - 2026-07-08
 * [Commit] [fix: state transition binding exports (#456)](https://github.com/ChainSafe/lodestar-z/commit/895982cf1b9002c8e72a8ca83b8daeddcb862a6a) - 2026-07-08
+* [Pull Request] [Revert "chore(release): v0.1.2-rc.10 (#477)"](https://github.com/ChainSafe/lodestar-z/pull/478) - 2026-07-09
+* [Pull Request] [chore(release): v0.1.2-rc.10](https://github.com/ChainSafe/lodestar-z/pull/477) - 2026-07-09
+* [Review] [Review on: refactor(clock): single public Clock; internalize SlotClock](https://github.com/ChainSafe/lodestar-z/pull/463#pullrequestreview-4663253968) - 2026-07-09
+* [Pull Request] [feat: partial validator monitor](https://github.com/ChainSafe/lodestar-z/pull/475) - 2026-07-09
+* [Commit] [Revert "chore(release): v0.1.2-rc.10 (#477)" (#478)](https://github.com/ChainSafe/lodestar-z/commit/d9b582c4eae664b7a6661d8dcb862ed4f717d912) - 2026-07-09
+* [Commit] [chore(release): v0.1.2-rc.10 (#477)](https://github.com/ChainSafe/lodestar-z/commit/9a4fad55533aefcaccef67fe45d48a747c6f82a4) - 2026-07-09
 ## Q2 2026
 
 

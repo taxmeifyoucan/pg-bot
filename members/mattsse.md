@@ -79,6 +79,26 @@ Team: Reth
 * [Review] [Review on: feat(rpc): implement `debug_setHead`](https://github.com/paradigmxyz/reth/pull/26311#pullrequestreview-4655822982) - 2026-07-08
 * [Review] [Review on: feat(net): impl snap client](https://github.com/paradigmxyz/reth/pull/26049#pullrequestreview-4653232891) - 2026-07-08
 * [Review] [Review on: feat(engine): add SSZ forkchoice status containers](https://github.com/paradigmxyz/reth/pull/26271#pullrequestreview-4653416842) - 2026-07-08
+* [Pull Request] [perf(engine): reduce newPayload critical-path overhead on BAL path](https://github.com/paradigmxyz/reth/pull/26344) - 2026-07-09
+* [Pull Request] [fix(rpc): advance filter cursor only after successful poll](https://github.com/paradigmxyz/reth/pull/26350) - 2026-07-10
+* [Pull Request] [perf(net): cache AES key schedule in ECIES MAC](https://github.com/paradigmxyz/reth/pull/26346) - 2026-07-09
+* [Review] [Review on: perf(net): cache AES key schedule in ECIES MAC](https://github.com/paradigmxyz/reth/pull/26346#pullrequestreview-4667511113) - 2026-07-09
+* [Pull Request] [perf(net): raise default ECIES write flush boundary to 64KiB](https://github.com/paradigmxyz/reth/pull/26348) - 2026-07-09
+* [Pull Request] [perf(txpool): specialize small discard lookups](https://github.com/paradigmxyz/reth/pull/26345) - 2026-07-09
+* [Pull Request] [perf(net): flush session connection once per poll](https://github.com/paradigmxyz/reth/pull/26349) - 2026-07-09
+* [Pull Request] [perf(net): reuse snappy compression buffer in P2PStream](https://github.com/paradigmxyz/reth/pull/26347) - 2026-07-09
+* [Pull Request] [perf(txpool): forward same-origin validation batches](https://github.com/paradigmxyz/reth/pull/26341) - 2026-07-09
+* [Pull Request] [perf(txpool): reduce Ethereum validator allocation overhead](https://github.com/paradigmxyz/reth/pull/26343) - 2026-07-09
+* [Review] [Review on: fix(net): reset reputation when admin unbans a peer](https://github.com/paradigmxyz/reth/pull/26334#pullrequestreview-4666090580) - 2026-07-09
+* [Pull Request] [perf(txpool): specialize single transaction insertion](https://github.com/paradigmxyz/reth/pull/26342) - 2026-07-09
+* [Pull Request] [perf(txpool): reduce validation-to-insertion overhead](https://github.com/paradigmxyz/reth/pull/26340) - 2026-07-09
+* [Review] [Review on: fix(rpc): reject pending log subscriptions](https://github.com/paradigmxyz/reth/pull/26336#pullrequestreview-4662119073) - 2026-07-09
+* [Review] [Review on: perf(prune): use static file tx hash ranges](https://github.com/paradigmxyz/reth/pull/26312#pullrequestreview-4664947098) - 2026-07-09
+* [Review] [Review on: fix(engine): construct prune retention set in sparse trie task](https://github.com/paradigmxyz/reth/pull/26332#pullrequestreview-4663828980) - 2026-07-09
+* [Commit] [perf(net): cache AES key schedule in ECIES MAC (#26346)](https://github.com/paradigmxyz/reth/commit/e58078e60adaa861647699d12983059fb3296817) - 2026-07-10
+* [Commit] [perf(txpool): specialize small discard lookups (#26345)](https://github.com/paradigmxyz/reth/commit/0f58554dfca5b10743351bf4dea9dcddafdacb2b) - 2026-07-09
+* [Commit] [perf(txpool): forward same-origin validation batches (#26341)](https://github.com/paradigmxyz/reth/commit/a4cba45d453650e2f5140306b39f697cb464347f) - 2026-07-09
+* [Commit] [perf(txpool): reduce Ethereum validator allocation overhead (#26343)](https://github.com/paradigmxyz/reth/commit/8b8ab49f0e85d968dd49af8707cb4c9259cea79d) - 2026-07-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

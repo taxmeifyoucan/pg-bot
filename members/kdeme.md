@@ -27,8 +27,18 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [stateless: fail block on incomplete witness during persist](https://github.com/status-im/nimbus-eth1/pull/4434) - 2026-07-07
 * [Pull Request] [Bump nim-eth for discv5 fixes](https://github.com/status-im/nimbus-eth1/pull/4433) - 2026-07-07
 * [Commit] [Bump nim-eth for discv5 fixes (#4433)](https://github.com/status-im/nimbus-eth1/commit/1bcb926f7786fb757eecc1940578977595ed6538) - 2026-07-07
+* [Pull Request] [Adjust discovery flag as just turn on/off bool](https://github.com/status-im/nimbus-eth1/pull/4454) - 2026-07-09
+* [Pull Request] [Change nimbus import text to mention ere aside of era1/era](https://github.com/status-im/nimbus-eth1/pull/4455) - 2026-07-09
+* [Pull Request] [stateless: change to latest specs](https://github.com/status-im/nimbus-eth1/pull/4453) - 2026-07-09
+* [Review] [Review on: Separate EEST test into its own CI job](https://github.com/status-im/nimbus-eth1/pull/4448#pullrequestreview-4661801935) - 2026-07-09
+* [Commit] [Change nimbus import text to mention ere aside of era1/era (#4455)](https://github.com/status-im/nimbus-eth1/commit/bba41aea0b3dd91b227fb4b922fe251d70150e93) - 2026-07-09
+* [Commit] [stateless: change to latest specs (#4453)](https://github.com/status-im/nimbus-eth1/commit/2c0f04a59dab31f96d8f8a0fd1778f8e694fd18b) - 2026-07-09
+* [Commit] [stateless: fail block on incomplete witness during persist (#4425)](https://github.com/status-im/nimbus-eth1/commit/1e8a6e03794199217b5f892469d3b6d9596f83b5) - 2026-07-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4662776381) - 2026-07-09
 ## Q2 2026
 
 

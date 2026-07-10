@@ -8,6 +8,12 @@ Team: Grandine
 
 ## Contributions
 
+## Q3 2026
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Issue] [Validator configuration file](https://github.com/grandinetech/grandine/issues/796) - 2026-07-09
+* [Issue] [Circuit-breaker for epbs](https://github.com/grandinetech/grandine/issues/795) - 2026-07-09
 ## Q2 2026
 
 

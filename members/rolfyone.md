@@ -33,6 +33,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Add progressive SSZ infrastructure types](https://github.com/Consensys/teku/pull/10928#pullrequestreview-4644081946) - 2026-07-07
 * [Issue] [[beacon-api] update event for gloas (payload_attributes)](https://github.com/Consensys/teku/issues/10945) - 2026-07-07
 * [Pull Request] [Remove Quartz scheduler and --Xquartz-scheduler-enabled flag](https://github.com/Consensys/teku/pull/10952) - 2026-07-09
+* [Review] [Review on: Remove old deposit log fetching](https://github.com/Consensys/teku/pull/10937#pullrequestreview-4667821871) - 2026-07-10
+* [Review] [Review on: implement SszPackedProgressiveByteLists hint](https://github.com/Consensys/teku/pull/10951#pullrequestreview-4667089724) - 2026-07-09
+* [Pull Request] [consensus-specs v1.7.0-alpha.12 compatibility (deferring 7688)](https://github.com/Consensys/teku/pull/10954) - 2026-07-09
+* [Commit] [Remove Quartz scheduler and --Xquartz-scheduler-enabled flag (#10952)](https://github.com/Consensys/teku/commit/5311379dfdb94db5728ba9fd2632fbd4b920be57) - 2026-07-09
+* [Commit] [consensus-specs v1.7.0-alpha.12 compatibility (deferring 7688) (#10954)](https://github.com/Consensys/teku/commit/36a9ae9e084a45c6fc68b0487a42e4a89674a82d) - 2026-07-09
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 ## Q2 2026
 
 

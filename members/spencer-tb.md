@@ -67,6 +67,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec-specs, tests): EIP-8038: move SSTORE access-cost check before read](https://github.com/ethereum/execution-specs/pull/3064#pullrequestreview-4653250133) - 2026-07-08
 * [Commit] [fix(spec-specs, tests): anchor calldata floor on decomposed EIP-2780 base (#3120)](https://github.com/ethereum/execution-specs/commit/695e5ef1540d63c8d8c24aa1687911811c66a90b) - 2026-07-08
 * [Commit] [feat(spec-specs, tests): finalize EIP-8282 builder deposit contract (#3091)](https://github.com/ethereum/execution-specs/commit/842f0a6bb5a9c3c06f6bfc64c1638a65c12a1103) - 2026-07-08
+* [Review] [Review on: feat(fill-stateful): make the per-test chain rewind optional (add debug_resetHead)](https://github.com/ethereum/execution-specs/pull/3127#pullrequestreview-4664651028) - 2026-07-09
+* [Pull Request] [fix(test-benchmark): correct compute benchmarks that ran below worst case](https://github.com/ethereum/execution-specs/pull/3136) - 2026-07-09
+* [Pull Request] [fix(test-benchmark): make audited compute benchmarks measure real work](https://github.com/ethereum/execution-specs/pull/3135) - 2026-07-09
+* [Pull Request] [fix(spec-specs): load the recipient after authorization processing](https://github.com/ethereum/execution-specs/pull/3133) - 2026-07-09
+* [Review] [Review on: chore(tests, test-client-clis): map invalid transaction signature exceptions](https://github.com/ethereum/execution-specs/pull/3131#pullrequestreview-4662548522) - 2026-07-09
+* [Review] [Review on: chore(ci): enable enginex generation for devnet releases](https://github.com/ethereum/execution-specs/pull/3129#pullrequestreview-4661188663) - 2026-07-09
+* [Pull Request] [fix(test-tests): skip Constantinople for evmone in t8n support test](https://github.com/ethereum/execution-specs/pull/3130) - 2026-07-09
+* [Issue] [Test Release Tracker: `glamsterdam-devnet@v7.1.0`](https://github.com/ethereum/execution-specs/issues/3132) - 2026-07-09
+* [Commit] [fix(test-tests): skip Constantinople for evmone in t8n support test (#3130)](https://github.com/ethereum/execution-specs/commit/5ca8383c6ef587594ef3abdb97e1d4f6a6eb9768) - 2026-07-09
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -75,6 +84,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: cmd/evm, core: fixes for eels tests@v20.0.0 release](https://github.com/ethereum/go-ethereum/pull/35283#pullrequestreview-4619154016) - 2026-07-02
 * [Review] [Review on: cmd/evm, core: fixes for eels tests@v20.0.0 release](https://github.com/ethereum/go-ethereum/pull/35283#pullrequestreview-4626435533) - 2026-07-03
 
+* [Commit] [cmd/evm, core: fixes for eels tests@v20.0.0 release (#35283)](https://github.com/ethereum/go-ethereum/commit/2ce0200762eb4ea77bb02a033004b4d9f75bec8c) - 2026-07-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4635413569) - 2026-07-06
 

@@ -8,6 +8,11 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 
 ## Contributions
 
+## Q3 2026
+
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [Implement stable containers](https://github.com/grandinetech/grandine/pull/798) - 2026-07-09
 ## Q2 2026
 
 

@@ -18,6 +18,8 @@ Team: Grandine
 * [Review] [Review on: Fix duplicate attestations packed in post-Electra beacon block](https://github.com/grandinetech/grandine/pull/783#pullrequestreview-4617469025) - 2026-07-02
 * [Review] [Review on: Add engine_newPayloadV5 binding](https://github.com/grandinetech/grandine/pull/784#pullrequestreview-4623804425) - 2026-07-03
 * [Review] [Review on: Update attesting balances to the last finalized block](https://github.com/grandinetech/grandine/pull/777#pullrequestreview-4623681056) - 2026-07-03
+* [Review] [Review on: Support IPv6-only network listening via `--disable-ipv4` (#787)](https://github.com/grandinetech/grandine/pull/789#pullrequestreview-4661470986) - 2026-07-09
+* [Review] [Review on: feat: added POST state_builders beaconAPI endpoint](https://github.com/grandinetech/grandine/pull/779#pullrequestreview-4661128015) - 2026-07-09
 ## Q2 2026
 
 

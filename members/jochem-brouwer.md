@@ -32,11 +32,18 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858#pullrequestreview-4636896329) - 2026-07-06
 * [Review] [Review on: Update EIP-7997: Move to Review](https://github.com/ethereum/EIPs/pull/11884#pullrequestreview-4649162991) - 2026-07-07
 * [Review] [Review on: Update EIP-1: Remove execution-spec-tests from allowed link exceptions](https://github.com/ethereum/EIPs/pull/11845#pullrequestreview-4656044663) - 2026-07-08
+* [Pull Request] [Update EIP-8037: apply the EIP-7976 calldata floor to block-level gas accounting](https://github.com/ethereum/EIPs/pull/11908) - 2026-07-10
+* [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4667624886) - 2026-07-10
+* [Pull Request] [Update CONTRIBUTING.md: add rules regarding Smart Contract Code](https://github.com/ethereum/EIPs/pull/11907) - 2026-07-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
 * [Review] [Review on: feat(spec-specs, tests): move SSTORE access-cost check before read](https://github.com/ethereum/execution-specs/pull/3064#pullrequestreview-4641849048) - 2026-07-07
 * [Review] [Review on: feat(spec-specs, tests): EIP-8038: move SSTORE access-cost check before read](https://github.com/ethereum/execution-specs/pull/3064#pullrequestreview-4654609028) - 2026-07-08
+* [Review] [Review on: fix(tests): EIP-8037: failing test](https://github.com/ethereum/execution-specs/pull/3140#pullrequestreview-4667001760) - 2026-07-09
+* [Review] [Review on: feat(fill-stateful): make the per-test chain rewind optional (add debug_resetHead)](https://github.com/ethereum/execution-specs/pull/3127#pullrequestreview-4664223439) - 2026-07-09
+* [Review] [Review on: feat(spec-specs,test-tests): update the EIP-2780 implementation](https://github.com/ethereum/execution-specs/pull/3126#pullrequestreview-4662764080) - 2026-07-09
+* [Issue] [fill-stateful: replace debug-namespace chain rewind with an engine API anchor-block rewind](https://github.com/ethereum/execution-specs/issues/3134) - 2026-07-09
 ## Q2 2026
 
 

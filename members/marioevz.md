@@ -25,6 +25,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec-specs, tests): finalize EIP-8282 builder deposit contract](https://github.com/ethereum/execution-specs/pull/3091#pullrequestreview-4638218222) - 2026-07-06
 
 * [Review] [Review on: feat(spec-specs, tests): finalize EIP-8282 builder deposit contract](https://github.com/ethereum/execution-specs/pull/3091#pullrequestreview-4656249339) - 2026-07-08
+* [Pull Request] [fix(tests): EIP-8037: failing test](https://github.com/ethereum/execution-specs/pull/3140) - 2026-07-09
+* [Review] [Review on: fix(tests): EIP-8037: failing test](https://github.com/ethereum/execution-specs/pull/3140#pullrequestreview-4667671358) - 2026-07-10
+* [Review] [Review on: refactor(test-benchmark): align stateful benchmarks with the Amsterdam state-gas model](https://github.com/ethereum/execution-specs/pull/3137#pullrequestreview-4665481088) - 2026-07-09
+* [Issue] [fix(tests): Fix hard-coded references to gas_costs.CALL_STIPEND](https://github.com/ethereum/execution-specs/issues/3139) - 2026-07-09
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 ## Q2 2026

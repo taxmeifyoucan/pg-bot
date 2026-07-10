@@ -23,6 +23,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Add interface to allow serve gossip validated data column from blocks not imported (#10914)](https://github.com/Consensys/teku/commit/27028d404755482f1bc71962c6ce57015ca704bf) - 2026-07-02
 * [Review] [Review on: Fixed dual stack port binding on same port](https://github.com/Consensys/teku/pull/10936#pullrequestreview-4632250292) - 2026-07-06
 * [Pull Request] [Remove old deposit log fetching](https://github.com/Consensys/teku/pull/10937) - 2026-07-06
+* [Pull Request] [update validation result for fee recipient mismatch to ignore instead of reject](https://github.com/Consensys/teku/pull/10953) - 2026-07-09
+* [Commit] [Remove old deposit log fetching (#10937)](https://github.com/Consensys/teku/commit/bb1c58e2e0b345959937545caa359f6a6045431e) - 2026-07-10
+* [Commit] [update validation result for fee recipient to ignore not reject (#10953)](https://github.com/Consensys/teku/commit/9c73fa5f0be66f02a8028666bf05d02faa5cd3dc) - 2026-07-09
 ## Q2 2026
 
 

@@ -20,6 +20,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [validate exeution payload block hash](https://github.com/Consensys/teku/pull/10938) - 2026-07-06
 * [Issue] [Deprecate the legacy circuit breaker options and implementations](https://github.com/Consensys/teku/issues/10940) - 2026-07-06
 * [Review] [Review on: Improve incoming RPC handling under QUIC](https://github.com/Consensys/teku/pull/10949#pullrequestreview-4655189324) - 2026-07-08
+* [Review] [Review on: validate exeution payload block hash](https://github.com/Consensys/teku/pull/10938#pullrequestreview-4664382851) - 2026-07-09
+* [Commit] [validate exeution payload block hash (#10938)](https://github.com/Consensys/teku/commit/0fec673c95a295f19e443e8a2781efd79b75f82b) - 2026-07-09
 ## Q2 2026
 
 

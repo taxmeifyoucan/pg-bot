@@ -15,6 +15,7 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Pull Request] [feat(metrics): add basic authentication support for Pushgateway](https://github.com/NethermindEth/nethermind/pull/12313) - 2026-07-06
 * [Review] [Review on: feat(metrics): add basic authentication support for Pushgateway](https://github.com/NethermindEth/nethermind/pull/12313#pullrequestreview-4645446452) - 2026-07-07
 * [Commit] [feat(metrics): add basic authentication support for Pushgateway (#12313)](https://github.com/NethermindEth/nethermind/commit/c4534eb4a13309e720d62053a39425d80d5be1fa) - 2026-07-07
+* [Pull Request] [perf(ci): build test solutions once and reuse across test jobs](https://github.com/NethermindEth/nethermind/pull/12357) - 2026-07-09
 ## Q2 2026
 
 

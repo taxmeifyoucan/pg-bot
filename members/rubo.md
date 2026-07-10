@@ -20,6 +20,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(tools): Extract stateless inputs from EEST fixtures](https://github.com/NethermindEth/nethermind/pull/12306) - 2026-07-06
 * [Pull Request] [fix(tools): Escape MDX-breaking chars in generated config docs](https://github.com/NethermindEth/nethermind/pull/12346) - 2026-07-08
 * [Commit] [feat(tools): Extract stateless inputs from EEST fixtures (#12306)](https://github.com/NethermindEth/nethermind/commit/83640a85cc9a22347de3a5696a2fd14b8d17dbc7) - 2026-07-08
+* [Review] [Review on: Glamsterdam devnet 6 eips](https://github.com/NethermindEth/nethermind/pull/12117#pullrequestreview-4666879024) - 2026-07-09
+* [Commit] [fix(tools): Escape MDX-breaking chars in generated config docs (#12346)](https://github.com/NethermindEth/nethermind/commit/515ac94edcb6ac08cdf219425d49be7d3b502081) - 2026-07-09
 ## Q2 2026
 
 

@@ -84,6 +84,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: restrict builder withdrawal prefix to 0xB*](https://github.com/ChainSafe/lodestar/pull/9615#pullrequestreview-4653286398) - 2026-07-08
 * [Commit] [fix: submit PTC attestation early only for the canonical block's payload (#9588)](https://github.com/ChainSafe/lodestar/commit/fadf0fbb1f0f8d97947d1f1540207def8d6db788) - 2026-07-08
 * [Commit] [feat: align proposer preferences api with latest spec (#9570)](https://github.com/ChainSafe/lodestar/commit/85227cfbe5af24963c0a385bf86e4630a984b887) - 2026-07-08
+* [Review] [Review on: fix: handle malformed ENR location as error](https://github.com/ChainSafe/lodestar/pull/9522#pullrequestreview-4664839967) - 2026-07-09
+* [Review] [Review on: fix: return 503 instead of wedging when regen target is too far behind head](https://github.com/ChainSafe/lodestar/pull/9634#pullrequestreview-4667947880) - 2026-07-10
+* [Review] [Review on: fix: reject proposer preferences with dependent root at/after lookahead epoch](https://github.com/ChainSafe/lodestar/pull/9630#pullrequestreview-4667599263) - 2026-07-10
+* [Review] [Review on: fix: apply gossip clock disparity to proposer_preferences slot check](https://github.com/ChainSafe/lodestar/pull/9633#pullrequestreview-4667603269) - 2026-07-10
+* [Review] [Review on: refactor: move slot to query param in producePayloadAttestationData](https://github.com/ChainSafe/lodestar/pull/9629#pullrequestreview-4667376595) - 2026-07-09
+* [Review] [Review on: feat: add peer manager internals metrics and dashboard](https://github.com/ChainSafe/lodestar/pull/9523#pullrequestreview-4664712776) - 2026-07-09
+* [Review] [Review on: docs(clock): trim verbose gossip-disparity doc comments](https://github.com/ChainSafe/lodestar/pull/9631#pullrequestreview-4664846016) - 2026-07-09
+* [Review] [Review on: fix: apply gossip clock disparity to execution payload bid slot validation](https://github.com/ChainSafe/lodestar/pull/9627#pullrequestreview-4661843549) - 2026-07-09
+* [Review] [Review on: fix: reject out-of-range builder_index in execution payload bid gossip validation](https://github.com/ChainSafe/lodestar/pull/9624#pullrequestreview-4661478369) - 2026-07-09
+* [Review] [Review on: feat: register client code for Caplin and Nimbus-EL](https://github.com/ChainSafe/lodestar/pull/9623#pullrequestreview-4659702560) - 2026-07-09
+* [Review] [Review on: feat: add heze fork definition and boilerplate](https://github.com/ChainSafe/lodestar/pull/9505#pullrequestreview-4659639893) - 2026-07-09
+* [Issue] [implement https://github.com/ethereum/beacon-APIs/pull/626](https://github.com/ChainSafe/lodestar/issues/9628) - 2026-07-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -107,6 +119,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899#pullrequestreview-4653284200) - 2026-07-08
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848#pullrequestreview-4659808095) - 2026-07-09
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Review] [Review on: refactor(clock): single public Clock; internalize SlotClock](https://github.com/ChainSafe/lodestar-z/pull/463#pullrequestreview-4664474350) - 2026-07-09
 ## Q2 2026
 
 

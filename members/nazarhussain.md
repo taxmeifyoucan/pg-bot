@@ -19,11 +19,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [refactor(clock): consolidate SlotClock/EventClock into a single user-facing Clock](https://github.com/ChainSafe/lodestar-z/issues/457) - 2026-07-01
 
 * [Pull Request] [refactor(bindings): use zapi js.io() instead of local io module](https://github.com/ChainSafe/lodestar-z/pull/469) - 2026-07-07
+* [Review] [Review on: refactor(clock): single public Clock; internalize SlotClock](https://github.com/ChainSafe/lodestar-z/pull/463#pullrequestreview-4660537357) - 2026-07-09
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07
 * [Review] [Review on: feat: update fast confirmation rule for gloas](https://github.com/ChainSafe/lodestar/pull/9542#pullrequestreview-4643388095) - 2026-07-07
 * [Commit] [perf: memoize fast confirmation total active balance (#9572)](https://github.com/ChainSafe/lodestar/commit/e10fb5e991043152caeb211898c0c4fe49b2fba3) - 2026-07-07
+* [Commit] [feat: add peer manager internals metrics and dashboard (#9523)](https://github.com/ChainSafe/lodestar/commit/67b1b61d1bc3093c120d5b8e9799e37fe33b9402) - 2026-07-09
 ## Q2 2026
 
 

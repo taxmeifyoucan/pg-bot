@@ -29,8 +29,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: use pending variant to determine is_parent_strong (#9548)](https://github.com/ChainSafe/lodestar/commit/15882818535f88d53e3a36b615235e1649666be3) - 2026-07-07
 * [Commit] [chore: bump fork-choice gloas spec links to alpha.11 (#9549)](https://github.com/ChainSafe/lodestar/commit/f535421f2932ef833ce34e02ebc10d9f68cfa5ee) - 2026-07-07
 
+* [Review] [Review on: feat: implement should_apply_proposer_boost for gloas](https://github.com/ChainSafe/lodestar/pull/9233#pullrequestreview-4660497758) - 2026-07-09
+* [Pull Request] [feat: register client code for Caplin and Nimbus-EL](https://github.com/ChainSafe/lodestar/pull/9623) - 2026-07-09
+* [Review] [Review on: feat: add heze fork definition and boilerplate](https://github.com/ChainSafe/lodestar/pull/9505#pullrequestreview-4659979482) - 2026-07-09
+* [Commit] [feat: register client code for Caplin and Nimbus-EL (#9623)](https://github.com/ChainSafe/lodestar/commit/b6208721078985ca30bf232e7847bb2027ca44c2) - 2026-07-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
+* [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09
+* [Review] [Review on: Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441#pullrequestreview-4660279245) - 2026-07-09
+* [Commit] [Add fork-choice tests for `should_apply_proposer_boost` (#5441)](https://github.com/ethereum/consensus-specs/commit/83d3d918ac69a4b57137268a96c20f1dc909001e) - 2026-07-09
 ## Q2 2026
 
 

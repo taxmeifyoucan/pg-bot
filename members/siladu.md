@@ -28,6 +28,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: changed web3j to a test dependency](https://github.com/besu-eth/besu/pull/10694#pullrequestreview-4642143025) - 2026-07-07
 * [Pull Request] [Bring .github in line with main](https://github.com/besu-eth/besu/pull/10776) - 2026-07-08
 * [Pull Request] [Bring .github in line with main](https://github.com/besu-eth/besu/pull/10777) - 2026-07-08
+* [Review] [Review on: checks for correct docker env var configuration, warns when missing](https://github.com/besu-eth/besu/pull/10769#pullrequestreview-4659856674) - 2026-07-09
+* [Pull Request] [Revert inherit secrets](https://github.com/besu-eth/besu/pull/10779) - 2026-07-09
 ## Q2 2026
 
 

@@ -55,9 +55,33 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Use existing helpers to get limits (#5438)](https://github.com/ethereum/consensus-specs/commit/a62bc326ccbab74c867ec66263b504eb272ea9b3) - 2026-07-07
 * [Commit] [Fix `limit()` calls for `ProgressiveList` operation lists (#5437)](https://github.com/ethereum/consensus-specs/commit/cfbb91f90e1e89381f7b54724335affac0392e41) - 2026-07-07
 * [Pull Request] [Add basic fork tests for Heze](https://github.com/ethereum/consensus-specs/pull/5440) - 2026-07-08
+* [Pull Request] [Fix payload availability lookup for attestations to skipped slots](https://github.com/ethereum/consensus-specs/pull/5442) - 2026-07-09
+* [Review] [Review on: Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441#pullrequestreview-4663354669) - 2026-07-09
+* [Commit] [Add basic fork tests for Heze (#5440)](https://github.com/ethereum/consensus-specs/commit/ad18f93d40112c7ef07d68057eca22fb48833cdd) - 2026-07-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
+
+[ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
+* [Review] [Review on: fix: apply gossip clock disparity to execution payload bid slot validation](https://github.com/ChainSafe/lodestar/pull/9627#pullrequestreview-4663120196) - 2026-07-09
+
+[ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
+* [Pull Request] [Bump version to v2.1.8](https://github.com/ethereum/c-kzg-4844/pull/652) - 2026-07-09
+* [Pull Request] [Update C# dependencies](https://github.com/ethereum/c-kzg-4844/pull/651) - 2026-07-09
+* [Pull Request] [Update java dependencies](https://github.com/ethereum/c-kzg-4844/pull/650) - 2026-07-09
+* [Pull Request] [Update elixir dependencies](https://github.com/ethereum/c-kzg-4844/pull/649) - 2026-07-09
+* [Pull Request] [Update nodejs dependencies](https://github.com/ethereum/c-kzg-4844/pull/647) - 2026-07-09
+* [Pull Request] [Update rust dependencies](https://github.com/ethereum/c-kzg-4844/pull/646) - 2026-07-09
+* [Pull Request] [Use more common helpers](https://github.com/ethereum/c-kzg-4844/pull/644) - 2026-07-09
+* [Pull Request] [Use `runTests()` instead of `runAllTests()`](https://github.com/ethereum/c-kzg-4844/pull/645) - 2026-07-09
+* [Commit] [Bump version to v2.1.8 (#652)](https://github.com/ethereum/c-kzg-4844/commit/e125905e5e01186e6ccb7a0ced4845bf7eddbcfe) - 2026-07-09
+* [Commit] [Update C# dependencies (#651)](https://github.com/ethereum/c-kzg-4844/commit/dbcf7778b308ffe9539ab0a779da4fe1002496d5) - 2026-07-09
+* [Commit] [Update java dependencies (#650)](https://github.com/ethereum/c-kzg-4844/commit/fa54019a7fa3c67028271a63cc6348ccb2d8d198) - 2026-07-09
+* [Commit] [Update elixir dependencies (#649)](https://github.com/ethereum/c-kzg-4844/commit/2903e4ed800456289d32b449f530f39db0c07995) - 2026-07-09
+* [Commit] [Update nodejs dependencies (#647)](https://github.com/ethereum/c-kzg-4844/commit/b25171ac81f2ad6258a3d5bcbd26297328e7b575) - 2026-07-09
+* [Commit] [Update rust dependencies (#646)](https://github.com/ethereum/c-kzg-4844/commit/696f56c0869c434fdead52bf0e1abc0955657f69) - 2026-07-09
+* [Commit] [Use more elliptic curve helpers (#644)](https://github.com/ethereum/c-kzg-4844/commit/57963c66122b4ae78db4aa9b908eff7262d8a51e) - 2026-07-09
+* [Commit] [Use `runTests()` instead of `runAllTests()` (#645)](https://github.com/ethereum/c-kzg-4844/commit/8857fe1b05848d08f850722eed89fca66dba0542) - 2026-07-09
 ## Q2 2026
 
 

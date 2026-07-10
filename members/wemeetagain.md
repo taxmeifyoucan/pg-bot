@@ -29,6 +29,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: set gossipsub allowedTopics](https://github.com/ChainSafe/lodestar/pull/9620#pullrequestreview-4657366926) - 2026-07-08
 * [Review] [Review on: feat: add circuit breaker for gloas block production](https://github.com/ChainSafe/lodestar/pull/9598#pullrequestreview-4657397900) - 2026-07-08
 * [Commit] [fix: set gossipsub allowedTopics (#9620)](https://github.com/ChainSafe/lodestar/commit/e6d38ecb0362a09c044624839138693227121882) - 2026-07-08
+* [Review] [Review on: fix: add length check for received msgId](https://github.com/ChainSafe/lodestar/pull/9469#pullrequestreview-4664802624) - 2026-07-09
+* [Review] [Review on: fix: handle malformed ENR location as error](https://github.com/ChainSafe/lodestar/pull/9522#pullrequestreview-4664819632) - 2026-07-09
+* [Review] [Review on: feat: add peer manager internals metrics and dashboard](https://github.com/ChainSafe/lodestar/pull/9523#pullrequestreview-4664703456) - 2026-07-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -43,6 +46,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Add binding: `state.getBuildersLength()`](https://github.com/ChainSafe/lodestar-z/issues/470) - 2026-07-07
 * [Review] [Review on: feat(beacon-node): add block state cache and checkpoint datastore](https://github.com/ChainSafe/lodestar-z/pull/452#pullrequestreview-4657142254) - 2026-07-08
 * [Review] [Review on: fix: populate cache balances during rewards/penalties processing](https://github.com/ChainSafe/lodestar-z/pull/474#pullrequestreview-4656885099) - 2026-07-08
+* [Pull Request] [ci: automate releases with release-please](https://github.com/ChainSafe/lodestar-z/pull/479) - 2026-07-09
 ## Q2 2026
 
 

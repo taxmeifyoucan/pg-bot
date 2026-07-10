@@ -77,6 +77,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Remove `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD` bound in Gloas](https://github.com/OffchainLabs/prysm/pull/17130) - 2026-07-08
 * [Pull Request] [Restrict builder deposits to payload builders](https://github.com/OffchainLabs/prysm/pull/17129) - 2026-07-08
 * [Commit] [Ignore instead of reject on bid fee recipient mismatch (#17128)](https://github.com/OffchainLabs/prysm/commit/4b483754209d527559bdaf41a4e190c73020c853) - 2026-07-08
+* [Review] [Review on: Mark full node gas limit](https://github.com/OffchainLabs/prysm/pull/17093#pullrequestreview-4666973594) - 2026-07-09
+* [Review] [Review on: Re-verify builder deposit signatures when in-batch index reuse evicts a pubkey](https://github.com/OffchainLabs/prysm/pull/17111#pullrequestreview-4663999037) - 2026-07-09
+* [Review] [Review on: Skip data columns of empty slots in by range RPC handler](https://github.com/OffchainLabs/prysm/pull/17089#pullrequestreview-4663774850) - 2026-07-09
+* [Pull Request] [Wrap payload_attestation_message SSE event in version/data envelope](https://github.com/OffchainLabs/prysm/pull/17145) - 2026-07-09
+* [Commit] [Skip data columns of empty slots in by range RPC handler (#17089)](https://github.com/OffchainLabs/prysm/commit/bae60c8a57e1270732a67bc6758a7c382e894144) - 2026-07-09
+* [Commit] [Wrap payload_attestation_message SSE event in version/data envelope (#17145)](https://github.com/OffchainLabs/prysm/commit/441aea21ed874e197418f14ce5f3b14643ad275f) - 2026-07-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 ## Q2 2026

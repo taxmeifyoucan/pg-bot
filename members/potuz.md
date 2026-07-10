@@ -36,6 +36,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Nil headblock guard](https://github.com/OffchainLabs/prysm/pull/17110#pullrequestreview-4645944743) - 2026-07-07
 * [Review] [Review on: Re-verify builder deposit signatures when in-batch index reuse evicts a pubkey](https://github.com/OffchainLabs/prysm/pull/17111#pullrequestreview-4655125833) - 2026-07-08
 * [Review] [Review on: Skip data columns of empty slots in by range RPC handler](https://github.com/OffchainLabs/prysm/pull/17089#pullrequestreview-4654537423) - 2026-07-08
+* [Review] [Review on: Re-verify builder deposit signatures when in-batch index reuse evicts a pubkey](https://github.com/OffchainLabs/prysm/pull/17111#pullrequestreview-4662727689) - 2026-07-09
+* [Review] [Review on: Skip data columns of empty slots in by range RPC handler](https://github.com/OffchainLabs/prysm/pull/17089#pullrequestreview-4662934148) - 2026-07-09
+* [Review] [Review on: fix: fork choice prioritize PTC over raw weight for previous-slot payloads](https://github.com/OffchainLabs/prysm/pull/17146#pullrequestreview-4665725908) - 2026-07-09
+* [Review] [Review on: Payload reorg](https://github.com/OffchainLabs/prysm/pull/16933#pullrequestreview-4663071729) - 2026-07-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

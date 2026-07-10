@@ -58,9 +58,21 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(test-types,test-forks): import `ethereum` lazily so xdist fill coverage measures it (#3059)](https://github.com/ethereum/execution-specs/commit/b8d7c7a5a5b4dc58ff5f594d64b39b7b66198615) - 2026-07-06
 * [Commit] [perf(test-consume): align enginex engine-API flow and skip redundant genesis check (#3093)](https://github.com/ethereum/execution-specs/commit/f878b229bd85f899cd38a44644ae2ec734461471) - 2026-07-06
 * [Review] [Review on: fix(spec-specs, tests): anchor calldata floor on decomposed EIP-2780 base](https://github.com/ethereum/execution-specs/pull/3120#pullrequestreview-4654921735) - 2026-07-08
+* [Pull Request] [chore(tests, test-client-clis): map invalid transaction signature exceptions](https://github.com/ethereum/execution-specs/pull/3131) - 2026-07-09
+* [Pull Request] [chore(ci): enable enginex generation for devnet releases](https://github.com/ethereum/execution-specs/pull/3129) - 2026-07-09
+* [Review] [Review on: fix(test-tests): skip Constantinople for evmone in t8n support test](https://github.com/ethereum/execution-specs/pull/3130#pullrequestreview-4661331969) - 2026-07-09
+* [Commit] [chore(tests, test-client-clis): map invalid transaction signature exceptions (#3131)](https://github.com/ethereum/execution-specs/commit/78daabca4739dce907a67689032273484d695b0a) - 2026-07-09
+* [Commit] [chore: enable enginex generation for devnet releases (#3129)](https://github.com/ethereum/execution-specs/commit/fb62755b68fe4e637549fda9f75dce8b9f593605) - 2026-07-09
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Review] [Review on: eels: optionally consume pre-staged local fixtures](https://github.com/ethereum/hive/pull/1566#pullrequestreview-4662516398) - 2026-07-09
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
+* [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09
 ## Q2 2026
 
 

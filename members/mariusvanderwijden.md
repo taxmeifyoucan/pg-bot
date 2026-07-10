@@ -28,6 +28,8 @@ Team: Geth
 * [Review] [Review on: miner: cap configured MaxBlobsPerBlock to protocol limit](https://github.com/ethereum/go-ethereum/pull/35295#pullrequestreview-4633608016) - 2026-07-06
 * [Pull Request] [core/state: make commit lock free](https://github.com/ethereum/go-ethereum/pull/35315) - 2026-07-07
 * [Pull Request] [trie: cache rlp encoded blobs](https://github.com/ethereum/go-ethereum/pull/35322) - 2026-07-08
+* [Review] [Review on: internal/testlog: clone attrs before appending](https://github.com/ethereum/go-ethereum/pull/35324#pullrequestreview-4663454287) - 2026-07-09
+* [Review] [Review on: core: re-implement eip-2780](https://github.com/ethereum/go-ethereum/pull/35318#pullrequestreview-4663446168) - 2026-07-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 ## Q2 2026
