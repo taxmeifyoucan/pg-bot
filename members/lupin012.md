@@ -36,6 +36,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: fix BlockOverrides in trace endpoints (#22183)](https://github.com/erigontech/erigon/commit/49e0ef444ed15828dfe3667effdad5f97b2c1e88) - 2026-07-09
 * [Commit] [rpc, node: fix nil-pointer panic in gzip batch flush race (#22338)](https://github.com/erigontech/erigon/commit/63cc7de5f83fbce21036eb4b0e7ecc922717c413) - 2026-07-09
 * [Commit] [rpc: fix prestate tracer zero slots (#22248)](https://github.com/erigontech/erigon/commit/cee3f0b688e37c7f73290204a8b054c50b331f32) - 2026-07-09
+* [Pull Request] [[3.5] cherry-pick rpc: fix nil-pointer panic in gzip batch flush race (#22338)](https://github.com/erigontech/erigon/pull/22383) - 2026-07-10
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

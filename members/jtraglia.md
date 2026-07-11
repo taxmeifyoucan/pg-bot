@@ -58,6 +58,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Fix payload availability lookup for attestations to skipped slots](https://github.com/ethereum/consensus-specs/pull/5442) - 2026-07-09
 * [Review] [Review on: Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441#pullrequestreview-4663354669) - 2026-07-09
 * [Commit] [Add basic fork tests for Heze (#5440)](https://github.com/ethereum/consensus-specs/commit/ad18f93d40112c7ef07d68057eca22fb48833cdd) - 2026-07-09
+* [Pull Request] [Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443) - 2026-07-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -65,6 +66,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: apply gossip clock disparity to execution payload bid slot validation](https://github.com/ChainSafe/lodestar/pull/9627#pullrequestreview-4663120196) - 2026-07-09
 
+* [Review] [Review on: fix: reject proposer preferences with dependent root at/after lookahead epoch](https://github.com/ChainSafe/lodestar/pull/9630#pullrequestreview-4671796423) - 2026-07-10
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Bump version to v2.1.8](https://github.com/ethereum/c-kzg-4844/pull/652) - 2026-07-09
 * [Pull Request] [Update C# dependencies](https://github.com/ethereum/c-kzg-4844/pull/651) - 2026-07-09

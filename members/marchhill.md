@@ -35,6 +35,18 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [feat: add built-in balance viewer UI at /balances](https://github.com/NethermindEth/nethermind/pull/12360) - 2026-07-09
 * [Pull Request] [fix(trie): run background pruning off the thread pool to avoid pool starvation](https://github.com/NethermindEth/nethermind/pull/12359) - 2026-07-09
 * [Review] [Review on: Fix state gas spill with negative reservoir](https://github.com/NethermindEth/nethermind/pull/12338#pullrequestreview-4662969881) - 2026-07-09
+* [Review] [Review on: Fix slow-block cache hit stats: report first-touch pre-block coverage instead of a layer blend](https://github.com/NethermindEth/nethermind/pull/12372#pullrequestreview-4672110569) - 2026-07-10
+* [Pull Request] [fix(evm): address devnet-6 state-gas review findings](https://github.com/NethermindEth/nethermind/pull/12369) - 2026-07-10
+* [Review] [Review on: fix(evm): address devnet-6 state-gas review findings](https://github.com/NethermindEth/nethermind/pull/12369#pullrequestreview-4671168101) - 2026-07-10
+* [Review] [Review on: Add background scheduler stats](https://github.com/NethermindEth/nethermind/pull/9956#pullrequestreview-4672252810) - 2026-07-10
+* [Commit] [test: pin devnet-6 fixtures to v6.1.1 and fix the EEST harness](https://github.com/NethermindEth/nethermind/commit/96ed40dcd4260657802ce9e48b130e37850aaf57) - 2026-07-10
+* [Commit] [fix(specs): BPO3 inherits BPO2, not Amsterdam; run BPO transition pyspec fixtures (#12312)](https://github.com/NethermindEth/nethermind/commit/e2955521efa7728f5966ffc206b793ab0297a267) - 2026-07-10
+* [Commit] [Stateless executor: tests-zkevm@v0.5.0 alignment (#12217)](https://github.com/NethermindEth/nethermind/commit/208819eb599fe1a5b86933df8f7774b9b40a3720) - 2026-07-10
+* [Commit] [targetGasLimit in PayloadAttributesV4 (#12216)](https://github.com/NethermindEth/nethermind/commit/d670917ced48f871c3d35599123379d1e9816d96) - 2026-07-10
+* [Commit] [EIP-8282: Builder execution requests (#12215)](https://github.com/NethermindEth/nethermind/commit/8b6f2bc604a9ce3ce90c3e6c880edb05cab95ae7) - 2026-07-10
+* [Commit] [EIP repricings & existing-EIP updates (2780/8037/8038 + fixes) (#12214)](https://github.com/NethermindEth/nethermind/commit/642e44fd47535d34fdad7d1f3a1d9470677e2c01) - 2026-07-10
+* [Commit] [EIP-8246: Remove SELFDESTRUCT burn (#12213)](https://github.com/NethermindEth/nethermind/commit/aba8ea2361b22f02b909c00b9a654305a4f5e76e) - 2026-07-10
+* [Commit] [test: update Pyspec fixtures to Glamsterdam devnet-6 (v6.1.0) and zkEVM v0.5.0](https://github.com/NethermindEth/nethermind/commit/8574b63640cb817468da2303f8c4907dfb8598b4) - 2026-07-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 ## Q2 2026

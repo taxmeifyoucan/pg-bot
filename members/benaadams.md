@@ -42,6 +42,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix state gas spill with negative reservoir](https://github.com/NethermindEth/nethermind/pull/12338#pullrequestreview-4662815876) - 2026-07-09
 * [Review] [Review on: fix(state): drop stale StorageCell.IsHash guard breaking the master build](https://github.com/NethermindEth/nethermind/pull/12355#pullrequestreview-4663014774) - 2026-07-09
 * [Review] [Review on: fix(sync): clamp flat full state to best header](https://github.com/NethermindEth/nethermind/pull/12272#pullrequestreview-4663021148) - 2026-07-09
+* [Review] [Review on: ci: build test binaries once per RID and share via artifact](https://github.com/NethermindEth/nethermind/pull/12371#pullrequestreview-4673358986) - 2026-07-10
+* [Commit] [perf(persistence): defer block-data writes (receipts, tx-index, bodies, BAL) off the block-processing path (#12349)](https://github.com/NethermindEth/nethermind/commit/e8587429bb7a7ef5e101d0a09f05b711d30c5845) - 2026-07-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

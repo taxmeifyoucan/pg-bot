@@ -13,6 +13,8 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Implement stable containers](https://github.com/grandinetech/grandine/pull/798) - 2026-07-09
+* [Commit] [Move pubkey index cache into pubkey list.](https://github.com/grandinetech/grandine/commit/f603cf04a6dbc316df7bc383e731c603d48c7323) - 2026-07-10
+* [Commit] [Implement structurally shared validator list](https://github.com/grandinetech/grandine/commit/70e0aad900ad1b26919f812b17c7a9dee3abbed7) - 2026-07-10
 ## Q2 2026
 
 

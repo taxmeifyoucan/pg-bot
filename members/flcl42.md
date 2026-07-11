@@ -56,6 +56,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Fix sync progress head lower bound](https://github.com/NethermindEth/nethermind/pull/12356) - 2026-07-09
 * [Review] [Review on: fix(state): drop stale StorageCell.IsHash guard breaking the master build](https://github.com/NethermindEth/nethermind/pull/12355#pullrequestreview-4663002730) - 2026-07-09
 * [Review] [Review on: Stateless executor: tests-zkevm@v0.5.0 alignment](https://github.com/NethermindEth/nethermind/pull/12217#pullrequestreview-4662920931) - 2026-07-09
+* [Review] [Review on: perf(bal): reuse cached wire hash for block access list hash](https://github.com/NethermindEth/nethermind/pull/12381#pullrequestreview-4674073728) - 2026-07-10
+* [Review] [Review on: fix(evm): address devnet-6 state-gas review findings](https://github.com/NethermindEth/nethermind/pull/12369#pullrequestreview-4670910709) - 2026-07-10
+* [Commit] [Fall back to chain head when sync progress pointers are missing (#12356)](https://github.com/NethermindEth/nethermind/commit/f3220146a6cdc155617d45f1ffd552783dfc754d) - 2026-07-10
+* [Commit] [Fix state gas spill with negative reservoir (#12338)](https://github.com/NethermindEth/nethermind/commit/ac83915ad23f2747ff81d2a0e263415e4b907e93) - 2026-07-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

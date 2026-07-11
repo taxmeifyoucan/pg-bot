@@ -33,6 +33,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: register client code for Caplin and Nimbus-EL](https://github.com/ChainSafe/lodestar/pull/9623) - 2026-07-09
 * [Review] [Review on: feat: add heze fork definition and boilerplate](https://github.com/ChainSafe/lodestar/pull/9505#pullrequestreview-4659979482) - 2026-07-09
 * [Commit] [feat: register client code for Caplin and Nimbus-EL (#9623)](https://github.com/ChainSafe/lodestar/commit/b6208721078985ca30bf232e7847bb2027ca44c2) - 2026-07-09
+* [Review] [Review on: feat: emit payload_attestation_message SSE event](https://github.com/ChainSafe/lodestar/pull/9636#pullrequestreview-4669674520) - 2026-07-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

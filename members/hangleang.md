@@ -22,6 +22,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [[Glamsterdam] Return 204 for producePayloadAttestationData when no block at slot](https://github.com/grandinetech/grandine/issues/794) - 2026-07-09
 * [Issue] [[Glamsterdam] Add SSZ response support for validator_balances endpoints](https://github.com/grandinetech/grandine/issues/793) - 2026-07-09
 * [Issue] [[Glamsterdam] Remove parent_block_number from payload_attributes](https://github.com/grandinetech/grandine/issues/792) - 2026-07-09
+* [Pull Request] [Broadcast proposer preferences inline instead of in a detached task](https://github.com/grandinetech/grandine/pull/804) - 2026-07-10
 ## Q2 2026
 
 

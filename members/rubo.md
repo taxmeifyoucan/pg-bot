@@ -22,6 +22,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat(tools): Extract stateless inputs from EEST fixtures (#12306)](https://github.com/NethermindEth/nethermind/commit/83640a85cc9a22347de3a5696a2fd14b8d17dbc7) - 2026-07-08
 * [Review] [Review on: Glamsterdam devnet 6 eips](https://github.com/NethermindEth/nethermind/pull/12117#pullrequestreview-4666879024) - 2026-07-09
 * [Commit] [fix(tools): Escape MDX-breaking chars in generated config docs (#12346)](https://github.com/NethermindEth/nethermind/commit/515ac94edcb6ac08cdf219425d49be7d3b502081) - 2026-07-09
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 ## Q2 2026
 
 

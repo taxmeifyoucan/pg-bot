@@ -139,6 +139,19 @@ Team: Erigon
 * [Commit] [cl, execution: don't log context canceled on shutdown (#22340)](https://github.com/erigontech/erigon/commit/726f971b98b1297ea47c9861c20fe59f182342ba) - 2026-07-09
 * [Commit] [golangci-lint: enable modernize 'minmax' analyzer and apply autofixes (#22283)](https://github.com/erigontech/erigon/commit/722f6f3ddd9d99f5363a8275ef76d5aeea02fddb) - 2026-07-09
 * [Commit] [blocks files: move refcnt from per-file to per-visibleFiles object (like state files) (#22246)](https://github.com/erigontech/erigon/commit/85d56064f120382e0ed4236748d9e24c97e42ebf) - 2026-07-09
+* [Pull Request] [retire only visible files](https://github.com/erigontech/erigon/pull/22365) - 2026-07-10
+* [Review] [Review on: retire only visible files](https://github.com/erigontech/erigon/pull/22365#pullrequestreview-4669932742) - 2026-07-10
+* [Review] [Review on: ci: fix zizmor template-injection in remaining QA/CD workflows (#21132)](https://github.com/erigontech/erigon/pull/22386#pullrequestreview-4676069115) - 2026-07-11
+* [Review] [Review on: ci: fix zizmor template-injection in 5 QA perf/sync workflows (#21132)](https://github.com/erigontech/erigon/pull/22375#pullrequestreview-4670601149) - 2026-07-10
+* [Review] [Review on: [r3.5] sonar: exclude legacy-tests submodule, fix stale test-inclusion path](https://github.com/erigontech/erigon/pull/22371#pullrequestreview-4670324755) - 2026-07-10
+* [Pull Request] [temporal DB: enable per-tx block-files view (real use of pinned view)](https://github.com/erigontech/erigon/pull/22366) - 2026-07-10
+* [Pull Request] [db: `ERIGON_NO_RETIRE` to disable aged files removal ](https://github.com/erigontech/erigon/pull/22364) - 2026-07-10
+* [Review] [Review on: db: `ERIGON_NO_RETIRE` to disable aged files removal ](https://github.com/erigontech/erigon/pull/22364#pullrequestreview-4670014127) - 2026-07-10
+* [Review] [Review on: ci: fix zizmor template-injection in 5 QA RPC integration workflows (#21132)](https://github.com/erigontech/erigon/pull/22363#pullrequestreview-4668822478) - 2026-07-10
+* [Review] [Review on: temporal DB add block snapshots view (no behavior changes)](https://github.com/erigontech/erigon/pull/22353#pullrequestreview-4668104759) - 2026-07-10
+* [Commit] [db: `ERIGON_NO_RETIRE` to disable aged files removal  (#22364)](https://github.com/erigontech/erigon/commit/582ad6f08f46c76449f91e1b6de9c99de086a069) - 2026-07-10
+* [Commit] [temporal DB add block snapshots view (no behavior changes) (#22353)](https://github.com/erigontech/erigon/commit/348b3318f624ae8fa271993c418842ae3c8d3062) - 2026-07-10
+* [Commit] [exec: a bit less direct uses of `db/state.Agg` object (#22346)](https://github.com/erigontech/erigon/commit/22604e43ce77e9091063eebda18f14db6a58d98f) - 2026-07-10
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

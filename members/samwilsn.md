@@ -28,6 +28,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Update EIP-7904: Move to Review](https://github.com/ethereum/EIPs/pull/11883#pullrequestreview-4657331257) - 2026-07-08
 * [Review] [Review on: Update EIP-1: Remove execution-spec-tests from allowed link exceptions](https://github.com/ethereum/EIPs/pull/11845#pullrequestreview-4656050487) - 2026-07-08
 
+* [Pull Request] [CI: WiP](https://github.com/ethereum/EIPs/pull/11915) - 2026-07-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Leo Lara contributions: add execution-specs](https://github.com/protocolguild/documentation/pull/515#pullrequestreview-4652756505) - 2026-07-08
 ## Q2 2026

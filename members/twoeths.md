@@ -25,6 +25,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: align proposer preferences api with latest spec](https://github.com/ChainSafe/lodestar/pull/9570#pullrequestreview-4652512363) - 2026-07-08
 * [Review] [Review on: fix: require imported payload for index==1 attestation gossip](https://github.com/ChainSafe/lodestar/pull/9611#pullrequestreview-4651773941) - 2026-07-08
 * [Review] [Review on: feat: implement EIP 7688](https://github.com/ChainSafe/lodestar/pull/9390#pullrequestreview-4650746027) - 2026-07-08
+* [Review] [Review on: feat: update stateTransition interface to take raw block bytes instead](https://github.com/ChainSafe/lodestar/pull/9632#pullrequestreview-4669998478) - 2026-07-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

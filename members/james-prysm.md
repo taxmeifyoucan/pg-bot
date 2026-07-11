@@ -44,6 +44,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Wrap payload_attestation_message SSE event in version/data envelope](https://github.com/OffchainLabs/prysm/pull/17145#pullrequestreview-4665255007) - 2026-07-09
 * [Review] [Review on: adding proper json fallback for ssz](https://github.com/OffchainLabs/prysm/pull/17137#pullrequestreview-4664963804) - 2026-07-09
 * [Review] [Review on: making duties failures independent of each other](https://github.com/OffchainLabs/prysm/pull/17036#pullrequestreview-4663973085) - 2026-07-09
+* [Review] [Review on: Mark full node gas limit](https://github.com/OffchainLabs/prysm/pull/17093#pullrequestreview-4672083695) - 2026-07-10
+* [Pull Request] [ux improvement on beacon api flags](https://github.com/OffchainLabs/prysm/pull/17159) - 2026-07-10
+* [Review] [Review on: Reset self-build envelope signature failure budget every slot](https://github.com/OffchainLabs/prysm/pull/17104#pullrequestreview-4672178750) - 2026-07-10
+* [Pull Request] [payload_attestation_data changing path parameter to query parameter ](https://github.com/OffchainLabs/prysm/pull/17155) - 2026-07-10
 ## Q2 2026
 
 

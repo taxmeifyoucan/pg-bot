@@ -162,6 +162,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [execution/cache: eviction of a deletion tombstone/marker re-opens stale-snapshot resurrection](https://github.com/erigontech/erigon/issues/22356) - 2026-07-09
 * [Commit] [ci: bench stall watchdog (SIGQUIT stack dumps) (#22358)](https://github.com/erigontech/erigon/commit/4f1982e0adc77c82dc4f36497d864e025ce20e03) - 2026-07-09
 * [Commit] [common/race: fix darwin -race crashes from file mmaps in the TSAN heap window (#21611)](https://github.com/erigontech/erigon/commit/c9b6aed3971fbaf511e84d6076d9b86f16fe54a3) - 2026-07-09
+* [Review] [Review on: [DO-NOT-MERGE] execution: implement EIP-8037 updates for glamsterdam-devnet-6](https://github.com/erigontech/erigon/pull/22122#pullrequestreview-4672968696) - 2026-07-10
+* [Pull Request] [[r3.5] sonar: exclude legacy-tests submodule, fix stale test-inclusion path](https://github.com/erigontech/erigon/pull/22371) - 2026-07-10
+* [Pull Request] [[r3.5] db/version: app version 3.5.1](https://github.com/erigontech/erigon/pull/22373) - 2026-07-10
+* [Pull Request] [[r3.5] ChangeLog: add v3.5.1 release notes](https://github.com/erigontech/erigon/pull/22372) - 2026-07-10
+* [Review] [Review on: ci: run eest benchmark shards without a ramdisk](https://github.com/erigontech/erigon/pull/22368#pullrequestreview-4669720423) - 2026-07-10
+* [Review] [Review on: [r3.5] cl/persistence: fix caplin historical state reconstruction loop at bellatrix transition](https://github.com/erigontech/erigon/pull/22370#pullrequestreview-4670185671) - 2026-07-10
+* [Review] [Review on: [r3.5] [perf] execution: disable gzip compression for engineapi (#22367)](https://github.com/erigontech/erigon/pull/22369#pullrequestreview-4669737985) - 2026-07-10
+* [Review] [Review on: db/state, execution/commitment: fix parallel-commitment worker reads + add COMMITMENT_PARALLEL toggle](https://github.com/erigontech/erigon/pull/22354#pullrequestreview-4669739634) - 2026-07-10
+* [Review] [Review on: [perf] execution: disable gzip compression for engineapi](https://github.com/erigontech/erigon/pull/22367#pullrequestreview-4669584607) - 2026-07-10
+* [Issue] [kurtosis: assertoor_regular_serial_test flaky — eoa-transactions-test funding starvation (insufficient funds → empty blocks → 30-min timeout)](https://github.com/erigontech/erigon/issues/22377) - 2026-07-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

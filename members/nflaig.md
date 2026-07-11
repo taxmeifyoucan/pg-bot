@@ -96,6 +96,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: register client code for Caplin and Nimbus-EL](https://github.com/ChainSafe/lodestar/pull/9623#pullrequestreview-4659702560) - 2026-07-09
 * [Review] [Review on: feat: add heze fork definition and boilerplate](https://github.com/ChainSafe/lodestar/pull/9505#pullrequestreview-4659639893) - 2026-07-09
 * [Issue] [implement https://github.com/ethereum/beacon-APIs/pull/626](https://github.com/ChainSafe/lodestar/issues/9628) - 2026-07-09
+* [Pull Request] [ci: expand native portability checks](https://github.com/ChainSafe/lodestar/pull/9642) - 2026-07-10
+* [Review] [Review on: ci: expand native portability checks](https://github.com/ChainSafe/lodestar/pull/9642#pullrequestreview-4674534591) - 2026-07-10
+* [Pull Request] [fix: add pubkeyCache initialization overhead](https://github.com/ChainSafe/lodestar/pull/9640) - 2026-07-10
+* [Review] [Review on: fix: add pubkeyCache initialization overhead](https://github.com/ChainSafe/lodestar/pull/9640#pullrequestreview-4672266989) - 2026-07-10
+* [Pull Request] [docs: prefer targeted pre-push tests](https://github.com/ChainSafe/lodestar/pull/9643) - 2026-07-10
+* [Review] [Review on: docs: prefer targeted pre-push tests](https://github.com/ChainSafe/lodestar/pull/9643#pullrequestreview-4674546709) - 2026-07-10
+* [Review] [Review on: fix: return 503 instead of wedging when regen target is too far behind head](https://github.com/ChainSafe/lodestar/pull/9634#pullrequestreview-4672725295) - 2026-07-10
+* [Pull Request] [fix: restore browser-safe light client BLS](https://github.com/ChainSafe/lodestar/pull/9638) - 2026-07-10
+* [Review] [Review on: fix: reject gloas attestations/aggregates for EL-invalidated payloads](https://github.com/ChainSafe/lodestar/pull/9637#pullrequestreview-4669935751) - 2026-07-10
+* [Pull Request] [feat: emit payload_attestation_message SSE event](https://github.com/ChainSafe/lodestar/pull/9636) - 2026-07-10
+* [Review] [Review on: chore: clean up fork choice dashboard config](https://github.com/ChainSafe/lodestar/pull/9561#pullrequestreview-4669435509) - 2026-07-10
+* [Commit] [feat: emit payload_attestation_message SSE event (#9636)](https://github.com/ChainSafe/lodestar/commit/2e78647e8c824723d5616f73f441d764d5161565) - 2026-07-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -117,6 +129,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
 
 * [Review] [Review on: Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899#pullrequestreview-4653284200) - 2026-07-08
+* [Review] [Review on: Config: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4674661960) - 2026-07-10
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 
@@ -125,6 +138,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: refactor(clock): single public Clock; internalize SlotClock](https://github.com/ChainSafe/lodestar-z/pull/463#pullrequestreview-4664474350) - 2026-07-09
+* [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4674852681) - 2026-07-10
+* [Pull Request] [feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482) - 2026-07-10
+* [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673389391) - 2026-07-10
+* [Pull Request] [feat(bindings): configurable pubkey cache growth step](https://github.com/ChainSafe/lodestar-z/pull/481) - 2026-07-10
+* [Review] [Review on: feat(bindings): configurable pubkey cache growth step](https://github.com/ChainSafe/lodestar-z/pull/481#pullrequestreview-4672573584) - 2026-07-10
+* [Review] [Review on: fix: avoid set](https://github.com/ChainSafe/lodestar-z/pull/484#pullrequestreview-4672643957) - 2026-07-10
+* [Review] [Review on: chore(deps): update zapi to 3.1.0](https://github.com/ChainSafe/lodestar-z/pull/483#pullrequestreview-4672414355) - 2026-07-10
+* [Commit] [feat: publish ARM64 musl bindings (#482)](https://github.com/ChainSafe/lodestar-z/commit/ac764c92c9fcb326e64c518c21880655f3efc8d9) - 2026-07-10
+* [Commit] [feat(bindings): configurable pubkey cache growth step (#481)](https://github.com/ChainSafe/lodestar-z/commit/133ef248a5e6dec11dac8f3dfd6879920e217834) - 2026-07-10
 ## Q2 2026
 
 

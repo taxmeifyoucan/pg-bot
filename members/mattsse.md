@@ -99,6 +99,11 @@ Team: Reth
 * [Commit] [perf(txpool): specialize small discard lookups (#26345)](https://github.com/paradigmxyz/reth/commit/0f58554dfca5b10743351bf4dea9dcddafdacb2b) - 2026-07-09
 * [Commit] [perf(txpool): forward same-origin validation batches (#26341)](https://github.com/paradigmxyz/reth/commit/a4cba45d453650e2f5140306b39f697cb464347f) - 2026-07-09
 * [Commit] [perf(txpool): reduce Ethereum validator allocation overhead (#26343)](https://github.com/paradigmxyz/reth/commit/8b8ab49f0e85d968dd49af8707cb4c9259cea79d) - 2026-07-09
+* [Pull Request] [fix(import): reject incomplete block at EOF](https://github.com/paradigmxyz/reth/pull/26363) - 2026-07-10
+* [Review] [Review on: feat(engine): pass parent state to the post-execution hashed-state hook](https://github.com/paradigmxyz/reth/pull/26330#pullrequestreview-4671624209) - 2026-07-10
+* [Commit] [perf(net): reuse snappy compression buffer in P2PStream (#26347)](https://github.com/paradigmxyz/reth/commit/4ac2f481551a6f0f0d8159c557ff4eccab5d269e) - 2026-07-10
+* [Commit] [perf(net): flush session connection once per poll (#26349)](https://github.com/paradigmxyz/reth/commit/e70b401dbaf664a467ac233f4d01a9b88d3ddabf) - 2026-07-10
+* [Commit] [perf(net): raise default ECIES write flush boundary to 64KiB (#26348)](https://github.com/paradigmxyz/reth/commit/3d590c43260480f6c2875e43fb6f107d181c2d7a) - 2026-07-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

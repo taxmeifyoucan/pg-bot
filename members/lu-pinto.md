@@ -16,6 +16,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Fix/qbft mining continues past ttd](https://github.com/besu-eth/besu/pull/10733#pullrequestreview-4653225578) - 2026-07-08
 * [Review] [Review on: EIP-7954: raise Amsterdam max code/initcode size to 64KiB/128KiB](https://github.com/besu-eth/besu/pull/10742#pullrequestreview-4654774715) - 2026-07-08
 * [Review] [Review on: Fix/qbft mining continues past ttd](https://github.com/besu-eth/besu/pull/10733#pullrequestreview-4663172127) - 2026-07-09
+* [Pull Request] [Add ADDMOD in EVMv2](https://github.com/besu-eth/besu/pull/10792) - 2026-07-10
+* [Review] [Review on: Add ADDMOD in EVMv2](https://github.com/besu-eth/besu/pull/10792#pullrequestreview-4672271194) - 2026-07-10
 ## Q2 2026
 
 

@@ -26,6 +26,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: update fast confirmation rule for gloas](https://github.com/ChainSafe/lodestar/pull/9542#pullrequestreview-4643388095) - 2026-07-07
 * [Commit] [perf: memoize fast confirmation total active balance (#9572)](https://github.com/ChainSafe/lodestar/commit/e10fb5e991043152caeb211898c0c4fe49b2fba3) - 2026-07-07
 * [Commit] [feat: add peer manager internals metrics and dashboard (#9523)](https://github.com/ChainSafe/lodestar/commit/67b1b61d1bc3093c120d5b8e9799e37fe33b9402) - 2026-07-09
+* [Pull Request] [chore: replace ts-node with tsx for running TypeScript](https://github.com/ChainSafe/lodestar/pull/9635) - 2026-07-10
+* [Commit] [chore: clean up fork choice dashboard config (#9561)](https://github.com/ChainSafe/lodestar/commit/9ed373bf567fc1f9b1f31e3c263ed9f09336fa8c) - 2026-07-10
 ## Q2 2026
 
 

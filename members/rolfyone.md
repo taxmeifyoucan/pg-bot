@@ -39,6 +39,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Remove Quartz scheduler and --Xquartz-scheduler-enabled flag (#10952)](https://github.com/Consensys/teku/commit/5311379dfdb94db5728ba9fd2632fbd4b920be57) - 2026-07-09
 * [Commit] [consensus-specs v1.7.0-alpha.12 compatibility (deferring 7688) (#10954)](https://github.com/Consensys/teku/commit/36a9ae9e084a45c6fc68b0487a42e4a89674a82d) - 2026-07-09
 
+* [Pull Request] [updated jc-kzg version](https://github.com/Consensys/teku/pull/10958) - 2026-07-10
+* [Commit] [updated jc-kzg version (#10958)](https://github.com/Consensys/teku/commit/79914d9fad32bd50322cdab3318b04752ed3e701) - 2026-07-10
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 ## Q2 2026

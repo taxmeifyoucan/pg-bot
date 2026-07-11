@@ -20,6 +20,11 @@ Team: Grandine
 * [Review] [Review on: Update attesting balances to the last finalized block](https://github.com/grandinetech/grandine/pull/777#pullrequestreview-4623681056) - 2026-07-03
 * [Review] [Review on: Support IPv6-only network listening via `--disable-ipv4` (#787)](https://github.com/grandinetech/grandine/pull/789#pullrequestreview-4661470986) - 2026-07-09
 * [Review] [Review on: feat: added POST state_builders beaconAPI endpoint](https://github.com/grandinetech/grandine/pull/779#pullrequestreview-4661128015) - 2026-07-09
+* [Pull Request] [Update `crossbeam-epoch`](https://github.com/grandinetech/grandine/pull/803) - 2026-07-10
+* [Review] [Review on: Implement structurally shared validator list](https://github.com/grandinetech/grandine/pull/763#pullrequestreview-4671538862) - 2026-07-10
+* [Issue] [`cargo audit` fixes](https://github.com/grandinetech/grandine/issues/802) - 2026-07-10
+* [Issue] [[Glamsterdam] add missing SSE events](https://github.com/grandinetech/grandine/issues/800) - 2026-07-10
+* [Commit] [Update `crossbeam-epoch`](https://github.com/grandinetech/grandine/commit/6ae713fca1fe6620ef7e45b864c3e136a767b1c1) - 2026-07-10
 ## Q2 2026
 
 

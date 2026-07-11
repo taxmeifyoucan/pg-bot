@@ -126,6 +126,12 @@ Team: Erigon
 * [Review] [Review on: blocks files: move refcnt from per-file to per-visibleFiles object (like state files)](https://github.com/erigontech/erigon/pull/22246#pullrequestreview-4659482181) - 2026-07-09
 * [Commit] [db/test: fix BenchmarkSharedDomains_ComputeCommitment to measure real work (#22350)](https://github.com/erigontech/erigon/commit/a6f85118bd7de66e4d2f82df19eaf42ff5141003) - 2026-07-09
 * [Commit] [execution: re-apply mid-block resume follow-ups (#22235) with non-fatal prior-receipt reconstruction (#22315)](https://github.com/erigontech/erigon/commit/b886ed7a17723ec9acc96665003e8eef6bcbfa26) - 2026-07-09
+* [Pull Request] [rpc/jsonrpc: eager in-memory cache for debug_executionWitness](https://github.com/erigontech/erigon/pull/22384) - 2026-07-10
+* [Pull Request] [cl: repair permanently-truncated caplin static validators table](https://github.com/erigontech/erigon/pull/22385) - 2026-07-10
+* [Review] [Review on: db: `ERIGON_NO_RETIRE` to disable aged files removal ](https://github.com/erigontech/erigon/pull/22364#pullrequestreview-4670049910) - 2026-07-10
+* [Commit] [execution/chain, execution/vm/evmtypes: L2 fork oracle on Rules (#22195)](https://github.com/erigontech/erigon/commit/5dee5f93d9ad1e5bdda44f0771b9b82312e9451e) - 2026-07-10
+* [Commit] [Revert #22257: parallel-commitment mount empty-branch regression (#22362)](https://github.com/erigontech/erigon/commit/4f0b6bad9efaf3d2ca79bac4e01f9f28cbc7539f) - 2026-07-10
+* [Commit] [cl, db/snapshotsync: don't freeze empty caplin block/state roots (#22294)](https://github.com/erigontech/erigon/commit/e4ba42b83c82c77ae24e3b007f7c6752fa581329) - 2026-07-10
 ## Q2 2026
 
 

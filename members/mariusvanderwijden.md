@@ -30,6 +30,11 @@ Team: Geth
 * [Pull Request] [trie: cache rlp encoded blobs](https://github.com/ethereum/go-ethereum/pull/35322) - 2026-07-08
 * [Review] [Review on: internal/testlog: clone attrs before appending](https://github.com/ethereum/go-ethereum/pull/35324#pullrequestreview-4663454287) - 2026-07-09
 * [Review] [Review on: core: re-implement eip-2780](https://github.com/ethereum/go-ethereum/pull/35318#pullrequestreview-4663446168) - 2026-07-09
+* [Pull Request] [params: update contract addresses](https://github.com/ethereum/go-ethereum/pull/35341) - 2026-07-10
+* [Pull Request] [Glamsterdam devnet 7](https://github.com/ethereum/go-ethereum/pull/35340) - 2026-07-10
+* [Pull Request] [core: charge floorDataGas if it exceeds regularGas](https://github.com/ethereum/go-ethereum/pull/35342) - 2026-07-10
+* [Pull Request] [go.mod: update ckzg](https://github.com/ethereum/go-ethereum/pull/35336) - 2026-07-10
+* [Commit] [go.mod: update ckzg (#35336)](https://github.com/ethereum/go-ethereum/commit/3ab52d837d7baec73b53cdfbdb3bfb5fee6a81fe) - 2026-07-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 ## Q2 2026

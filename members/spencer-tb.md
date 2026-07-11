@@ -76,6 +76,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(test-tests): skip Constantinople for evmone in t8n support test](https://github.com/ethereum/execution-specs/pull/3130) - 2026-07-09
 * [Issue] [Test Release Tracker: `glamsterdam-devnet@v7.1.0`](https://github.com/ethereum/execution-specs/issues/3132) - 2026-07-09
 * [Commit] [fix(test-tests): skip Constantinople for evmone in t8n support test (#3130)](https://github.com/ethereum/execution-specs/commit/5ca8383c6ef587594ef3abdb97e1d4f6a6eb9768) - 2026-07-09
+* [Review] [Review on: fix(spec-specs, tests): apply calldata floor to block-level regular gas](https://github.com/ethereum/execution-specs/pull/3144#pullrequestreview-4670749827) - 2026-07-10
+* [Issue] [Test Release Tracker: `glamsterdam-devnet@v7.2.0`](https://github.com/ethereum/execution-specs/issues/3147) - 2026-07-10
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

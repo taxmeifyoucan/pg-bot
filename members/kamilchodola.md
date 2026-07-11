@@ -47,6 +47,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(state): drop stale StorageCell.IsHash guard breaking the master build (#12355)](https://github.com/NethermindEth/nethermind/commit/0c9ff7bcff56d79f75adeeb847ed5a5eb9fcc134) - 2026-07-09
 * [Commit] [perf(prewarmer): feed trie warm-up hints from speculative execution to the flat TrieWarmer (#12339)](https://github.com/NethermindEth/nethermind/commit/053e26dfc6e70892dbdbe494df7262c05a094eed) - 2026-07-09
 * [Commit] [perf(flat): fall back to the MPMC buffer when the trie warmer slot ring is full (#12347)](https://github.com/NethermindEth/nethermind/commit/d5ac0bcfbeb881941515dff334de54f13d538171) - 2026-07-09
+* [Pull Request] [Fix slow-block cache hit stats: report first-touch pre-block coverage instead of a layer blend](https://github.com/NethermindEth/nethermind/pull/12372) - 2026-07-10
+* [Review] [Review on: Add fusaka payload set to EXPB reproducible benchmarks workflow](https://github.com/NethermindEth/nethermind/pull/12384#pullrequestreview-4674305721) - 2026-07-10
+* [Pull Request] [perf(bal): reuse cached wire hash for block access list hash](https://github.com/NethermindEth/nethermind/pull/12381) - 2026-07-10
+* [Pull Request] [ci: build test binaries once per RID and share via artifact](https://github.com/NethermindEth/nethermind/pull/12371) - 2026-07-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 ## Q2 2026

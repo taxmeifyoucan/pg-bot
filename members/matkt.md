@@ -37,6 +37,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Add CL target gas limit to engine forkchoiceUpdatedV4](https://github.com/besu-eth/besu/pull/10745#pullrequestreview-4660189178) - 2026-07-09
 * [Commit] [Return -32602 for invalid engine BAL params (EIP-7928) (#10785)](https://github.com/besu-eth/besu/commit/9518231a6ac2d9be26d63d500149045b760e6fc8) - 2026-07-09
 * [Commit] [Parallel BAL execution: overlay state, prefetch, and async state root  (#10741)](https://github.com/besu-eth/besu/commit/81ac11e7c884c93b30df5503806b20519e0e69ee) - 2026-07-09
+* [Review] [Review on: New threading model for block processing](https://github.com/besu-eth/besu/pull/10786#pullrequestreview-4668962275) - 2026-07-10
+* [Review] [Review on: Improve BAL prefetcher collectKeys method performance](https://github.com/besu-eth/besu/pull/10788#pullrequestreview-4669071183) - 2026-07-10
 ## Q2 2026
 
 

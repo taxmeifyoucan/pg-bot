@@ -29,6 +29,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [rm more pre-Fulu blob gossip support](https://github.com/status-im/nimbus-eth2/pull/8707) - 2026-07-06
 * [Pull Request] [replace deprecated actions/checkout@v4 with actions/checkout@v5](https://github.com/status-im/nimbus-eth2/pull/8716) - 2026-07-07
 * [Pull Request] [replace deprecated actions/cache@v4 with actions/cache@v5](https://github.com/status-im/nimbus-eth2/pull/8715) - 2026-07-07
+* [Pull Request] [update to c-kzg 2.1.8](https://github.com/status-im/nimbus-eth2/pull/8741) - 2026-07-10
+* [Pull Request] [Revert "Forward compatible consensus data structures (EIP-7688)"](https://github.com/status-im/nimbus-eth2/pull/8740) - 2026-07-10
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

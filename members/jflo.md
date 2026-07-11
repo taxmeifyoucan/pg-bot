@@ -20,6 +20,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [explicitly include all needed permissions (#10778)](https://github.com/besu-eth/besu/commit/0226823a313ed2533dbc2e4db8c39ef5ea8791c7) - 2026-07-08
 * [Pull Request] [ci: speed up acceptance test listing step](https://github.com/besu-eth/besu/pull/10789) - 2026-07-09
 * [Review] [Review on: Upgrade jackson to 2.21.5 and opentelemetry to 1.62.0](https://github.com/besu-eth/besu/pull/10775#pullrequestreview-4662651595) - 2026-07-09
+* [Pull Request] [Prepare changelog for 26.7.0 release](https://github.com/besu-eth/besu/pull/10795) - 2026-07-10
+* [Pull Request] [Updated kzg lib](https://github.com/besu-eth/besu/pull/10794) - 2026-07-10
+* [Commit] [Prepare changelog for 26.7.0 release (#10795)](https://github.com/besu-eth/besu/commit/f036a1738493f52999e931e9a61d9a065b749603) - 2026-07-10
+* [Commit] [Updated kzg lib (#10794)](https://github.com/besu-eth/besu/commit/fe51556870968d32a0972f45265a376b383b5819) - 2026-07-10
 ## Q2 2026
 
 

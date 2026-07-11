@@ -106,6 +106,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(state): drop stale StorageCell.IsHash guard breaking the master build](https://github.com/NethermindEth/nethermind/pull/12355#pullrequestreview-4663229331) - 2026-07-09
 * [Review] [Review on: fix(specs): BPO3 inherits BPO2, not Amsterdam; run BPO transition pyspec fixtures](https://github.com/NethermindEth/nethermind/pull/12312#pullrequestreview-4661776299) - 2026-07-09
 * [Review] [Review on: targetGasLimit in PayloadAttributesV4](https://github.com/NethermindEth/nethermind/pull/12216#pullrequestreview-4662563204) - 2026-07-09
+* [Review] [Review on: perf(persistence): defer block-data writes (receipts, tx-index, bodies, BAL) off the block-processing path](https://github.com/NethermindEth/nethermind/pull/12349#pullrequestreview-4671598549) - 2026-07-10
+* [Review] [Review on: refactor(init): migrate plugin Init hooks to steps and retire the hook](https://github.com/NethermindEth/nethermind/pull/12326#pullrequestreview-4670515853) - 2026-07-10
+* [Review] [Review on: XDC Blockhash Store](https://github.com/NethermindEth/nethermind/pull/12370#pullrequestreview-4671424922) - 2026-07-10
+* [Pull Request] [perf(evm): share one growable EVM memory buffer across the call stack](https://github.com/NethermindEth/nethermind/pull/12382) - 2026-07-10
+* [Review] [Review on: fix(evm): address devnet-6 state-gas review findings](https://github.com/NethermindEth/nethermind/pull/12369#pullrequestreview-4671471316) - 2026-07-10
+* [Review] [Review on: Fall back to chain head when sync progress pointers are missing](https://github.com/NethermindEth/nethermind/pull/12356#pullrequestreview-4671413854) - 2026-07-10
+* [Review] [Review on: perf(evm): decouple and bound the instruction-stream cache memory](https://github.com/NethermindEth/nethermind/pull/12368#pullrequestreview-4670491098) - 2026-07-10
+* [Review] [Review on: perf(state): replace per-key journal stacks with intrusive PrevIdx change chains](https://github.com/NethermindEth/nethermind/pull/12340#pullrequestreview-4669291292) - 2026-07-10
+* [Review] [Review on: Glamsterdam devnet 6 eips](https://github.com/NethermindEth/nethermind/pull/12117#pullrequestreview-4669378139) - 2026-07-10
+* [Commit] [fix(test): disable mempool-driven prewarming in test environments (#12367)](https://github.com/NethermindEth/nethermind/commit/c949ec4aebda7cbd6524b5e4b3d4c63afb09f8c2) - 2026-07-10
+* [Commit] [fix(test): disable prewarming in state test runs (#12366)](https://github.com/NethermindEth/nethermind/commit/7fe9463f70669e7a5ea52416e15952f336626fa3) - 2026-07-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

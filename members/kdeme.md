@@ -34,11 +34,17 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Change nimbus import text to mention ere aside of era1/era (#4455)](https://github.com/status-im/nimbus-eth1/commit/bba41aea0b3dd91b227fb4b922fe251d70150e93) - 2026-07-09
 * [Commit] [stateless: change to latest specs (#4453)](https://github.com/status-im/nimbus-eth1/commit/2c0f04a59dab31f96d8f8a0fd1778f8e694fd18b) - 2026-07-09
 * [Commit] [stateless: fail block on incomplete witness during persist (#4425)](https://github.com/status-im/nimbus-eth1/commit/1e8a6e03794199217b5f892469d3b6d9596f83b5) - 2026-07-09
+* [Pull Request] [stateless: implement validate_chain_config](https://github.com/status-im/nimbus-eth1/pull/4457) - 2026-07-10
+* [Issue] [Nimbus stateless guest/host issue tracker](https://github.com/status-im/nimbus-eth1/issues/4458) - 2026-07-10
+* [Commit] [stateless: implement validate_chain_config (#4457)](https://github.com/status-im/nimbus-eth1/commit/d25023299f97867b53ac52a791a2b18c8e5ffc8e) - 2026-07-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4662776381) - 2026-07-09
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672183323) - 2026-07-10
 ## Q2 2026
 
 

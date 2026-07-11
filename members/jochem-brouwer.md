@@ -35,6 +35,13 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Update EIP-8037: apply the EIP-7976 calldata floor to block-level gas accounting](https://github.com/ethereum/EIPs/pull/11908) - 2026-07-10
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4667624886) - 2026-07-10
 * [Pull Request] [Update CONTRIBUTING.md: add rules regarding Smart Contract Code](https://github.com/ethereum/EIPs/pull/11907) - 2026-07-09
+* [Review] [Review on: Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/pull/11853#pullrequestreview-4675424432) - 2026-07-10
+* [Review] [Review on: Update EIP-8037: Move to Review](https://github.com/ethereum/EIPs/pull/11879#pullrequestreview-4671521268) - 2026-07-10
+* [Review] [Review on: Update EIP-7708: Move to Review](https://github.com/ethereum/EIPs/pull/11872#pullrequestreview-4671514699) - 2026-07-10
+* [Review] [Review on: Update EIP-8038: Move to Review](https://github.com/ethereum/EIPs/pull/11885#pullrequestreview-4671491639) - 2026-07-10
+* [Review] [Review on: Update EIP-2780: Move to Review](https://github.com/ethereum/EIPs/pull/11882#pullrequestreview-4671489924) - 2026-07-10
+* [Review] [Review on: Add EIP: Align Checkpoint with Epoch Boundary Block](https://github.com/ethereum/EIPs/pull/11871#pullrequestreview-4668334860) - 2026-07-10
+* [Commit] [Update EIP-8037: apply the EIP-7976 calldata floor to block-level gas accounting](https://github.com/ethereum/EIPs/commit/190d539c9c49d91438a4d9977235c001a43b4df1) - 2026-07-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -44,6 +51,10 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: feat(fill-stateful): make the per-test chain rewind optional (add debug_resetHead)](https://github.com/ethereum/execution-specs/pull/3127#pullrequestreview-4664223439) - 2026-07-09
 * [Review] [Review on: feat(spec-specs,test-tests): update the EIP-2780 implementation](https://github.com/ethereum/execution-specs/pull/3126#pullrequestreview-4662764080) - 2026-07-09
 * [Issue] [fill-stateful: replace debug-namespace chain rewind with an engine API anchor-block rewind](https://github.com/ethereum/execution-specs/issues/3134) - 2026-07-09
+* [Review] [Review on: refactor(test-benchmark): update `test_account_access`, add `keccak256` overhead scenario](https://github.com/ethereum/execution-specs/pull/2947#pullrequestreview-4675384978) - 2026-07-10
+* [Review] [Review on: feat(fill-stateful): add --extract-opcode-count opcode tracing](https://github.com/ethereum/execution-specs/pull/3124#pullrequestreview-4668780764) - 2026-07-10
+* [Pull Request] [feat(test-fill): collect per-test opcode counts in fill-stateful via `debug_traceBlockByNumber`](https://github.com/ethereum/execution-specs/pull/3141) - 2026-07-10
+* [Pull Request] [fix(fill-stateful): verify receipt status when filling stateful fixtures](https://github.com/ethereum/execution-specs/pull/3142) - 2026-07-10
 ## Q2 2026
 
 

@@ -104,6 +104,21 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(sync): clamp flat full state to best header](https://github.com/NethermindEth/nethermind/pull/12272#pullrequestreview-4661526409) - 2026-07-09
 * [Commit] [fix(tracer): read JS db.getState by raw slot, remove StorageCell.IsHash (#12351)](https://github.com/NethermindEth/nethermind/commit/92c8d17f5187bfd94000932fbaa22562ed8428f8) - 2026-07-09
 * [Commit] [fix(sync): bound beacon header reconciliation to the beacon segment (#12327)](https://github.com/NethermindEth/nethermind/commit/1aae06581aa3683f8d466e95a7f5842fc597c969) - 2026-07-09
+* [Pull Request] [remove IPreBlockCaches wrapping](https://github.com/NethermindEth/nethermind/pull/12385) - 2026-07-11
+* [Pull Request] [refactor(evm): make the code cache a DI-injected ICodeCache](https://github.com/NethermindEth/nethermind/pull/12386) - 2026-07-11
+* [Review] [Review on: ci: run the full unit suite on Linux only; Windows to the OS-sensitive subset](https://github.com/NethermindEth/nethermind/pull/12379#pullrequestreview-4675790246) - 2026-07-11
+* [Review] [Review on: ci: chunk the wall-clock-critical test legs](https://github.com/NethermindEth/nethermind/pull/12378#pullrequestreview-4675789162) - 2026-07-11
+* [Review] [Review on: ci: pass release metadata to publish scripts via environment variables](https://github.com/NethermindEth/nethermind/pull/12376#pullrequestreview-4675787407) - 2026-07-11
+* [Review] [Review on: ci: add concurrency guard to sync-master-validation and a timeout to hive tests](https://github.com/NethermindEth/nethermind/pull/12375#pullrequestreview-4675647647) - 2026-07-10
+* [Review] [Review on: ci: set explicit read-only token permissions on build and test workflows](https://github.com/NethermindEth/nethermind/pull/12374#pullrequestreview-4675646701) - 2026-07-10
+* [Review] [Review on: XDC Blockhash Store](https://github.com/NethermindEth/nethermind/pull/12370#pullrequestreview-4675640396) - 2026-07-10
+* [Review] [Review on: Fix flat DB import skipped for a fresh DB during migration](https://github.com/NethermindEth/nethermind/pull/12383#pullrequestreview-4675636720) - 2026-07-10
+* [Review] [Review on: perf(evm): decouple and bound the instruction-stream cache memory](https://github.com/NethermindEth/nethermind/pull/12368#pullrequestreview-4670451609) - 2026-07-10
+* [Commit] [perf(flat): sorted content for compacted snapshots (#12353)](https://github.com/NethermindEth/nethermind/commit/fb0a2cc76f85cb7a66a965bbb7822b210dba21a3) - 2026-07-10
+* [Commit] [feat(FlatDB): long finality support with persisted snapshots (#12142)](https://github.com/NethermindEth/nethermind/commit/a741b717a2497195a4ffac02e2343baf5862fc4d) - 2026-07-10
+* [Commit] [docs(agents): expand coding guidelines and DI environment documentation (#12352)](https://github.com/NethermindEth/nethermind/commit/defb257d2fdb81ecbcde694e3120f3e441c00527) - 2026-07-10
+* [Commit] [feat(analyzers): add NETH007 — prefer PutSpan over Set with a span-copied array (#12336)](https://github.com/NethermindEth/nethermind/commit/c9b19f3f7f341e726c65533a07d089215b860524) - 2026-07-10
+* [Commit] [perf: add SmallRefCountingDisposable with an inline lease counter (#12335)](https://github.com/NethermindEth/nethermind/commit/2a0406c3b0259758b847dc7e3a82721f77e96e4e) - 2026-07-10
 ## Q2 2026
 
 

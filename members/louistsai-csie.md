@@ -36,6 +36,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [refactor(test-benchmark): align stateful benchmarks with the Amsterdam state-gas model](https://github.com/ethereum/execution-specs/pull/3137) - 2026-07-09
 * [Review] [Review on: refactor(test-benchmark): update `test_account_access`, add `keccak256` overhead scenario](https://github.com/ethereum/execution-specs/pull/2947#pullrequestreview-4665037104) - 2026-07-09
 * [Issue] [Benchmark test wrapper compatibility with `glamsterdam-devnet-6` spec](https://github.com/ethereum/execution-specs/issues/3128) - 2026-07-09
+* [Pull Request] [feat(test-benchmark): validate receipt and post-state; refactor state-gas accounting](https://github.com/ethereum/execution-specs/pull/3148) - 2026-07-10
 ## Q2 2026
 
 

@@ -27,6 +27,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [chore(design-sync): sync Lab component library to claude.ai/design](https://github.com/ethpandaops/lab/pull/440) - 2026-07-08
+* [Pull Request] [fix(timings): aggregate all versions in collapsed client row](https://github.com/ethpandaops/lab/pull/441) - 2026-07-10
+* [Commit] [fix(timings): aggregate all versions in collapsed client row (#441)](https://github.com/ethpandaops/lab/commit/e960b1a9460d036eca396748bcafff48beb04c73) - 2026-07-10
 ## Q2 2026
 
 

@@ -15,6 +15,7 @@ Team: Grandine
 * [Pull Request] [Support IPv6-only network listening via `--disable-ipv4` (#787)](https://github.com/grandinetech/grandine/pull/789) - 2026-07-07
 * [Pull Request] [Add `--args-file` to load CLI options from a YAML file](https://github.com/grandinetech/grandine/pull/797) - 2026-07-09
 * [Commit] [Support IPv6-only network listening via `--disable-ipv4` (#787)](https://github.com/grandinetech/grandine/commit/f7c438b82b10588861ee121dfc6b875c39561483) - 2026-07-09
+* [Review] [Review on: Update `crossbeam-epoch`](https://github.com/grandinetech/grandine/pull/803#pullrequestreview-4671780386) - 2026-07-10
 ## Q2 2026
 
 

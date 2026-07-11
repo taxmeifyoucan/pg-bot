@@ -26,6 +26,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [update validation result for fee recipient mismatch to ignore instead of reject](https://github.com/Consensys/teku/pull/10953) - 2026-07-09
 * [Commit] [Remove old deposit log fetching (#10937)](https://github.com/Consensys/teku/commit/bb1c58e2e0b345959937545caa359f6a6045431e) - 2026-07-10
 * [Commit] [update validation result for fee recipient to ignore not reject (#10953)](https://github.com/Consensys/teku/commit/9c73fa5f0be66f02a8028666bf05d02faa5cd3dc) - 2026-07-09
+* [Pull Request] [Remove eth1 deposit cli options](https://github.com/Consensys/teku/pull/10957) - 2026-07-10
+* [Review] [Review on: updated jc-kzg version](https://github.com/Consensys/teku/pull/10958#pullrequestreview-4668807375) - 2026-07-10
 ## Q2 2026
 
 

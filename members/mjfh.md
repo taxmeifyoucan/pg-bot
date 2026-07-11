@@ -16,6 +16,7 @@ Team: Nimbus
 * [Commit] [Beacon sync maint update (#4385)](https://github.com/status-im/nimbus-eth1/commit/eecc9ad296a2e9a742c8a6313bb6506f31fd7fdf) - 2026-07-01
 * [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4410) - 2026-07-05
 * [Commit] [Snap sync maint update (#4410)](https://github.com/status-im/nimbus-eth1/commit/1d6c13220e499ac5b21b3cc3a8b0bb44113f27f0) - 2026-07-05
+* [Review] [Review on: remove nested `waitFor`](https://github.com/status-im/nimbus-eth1/pull/4456#pullrequestreview-4669655660) - 2026-07-10
 ## Q2 2026
 
 

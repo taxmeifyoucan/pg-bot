@@ -63,6 +63,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-tests): skip Constantinople for evmone in t8n support test](https://github.com/ethereum/execution-specs/pull/3130#pullrequestreview-4661331969) - 2026-07-09
 * [Commit] [chore(tests, test-client-clis): map invalid transaction signature exceptions (#3131)](https://github.com/ethereum/execution-specs/commit/78daabca4739dce907a67689032273484d695b0a) - 2026-07-09
 * [Commit] [chore: enable enginex generation for devnet releases (#3129)](https://github.com/ethereum/execution-specs/commit/fb62755b68fe4e637549fda9f75dce8b9f593605) - 2026-07-09
+* [Pull Request] [fix(test-consume): accept bad-block-cache errors for resubmitted blocks](https://github.com/ethereum/execution-specs/pull/3146) - 2026-07-10
+* [Pull Request] [feat(test-consume): set HIVE_EXPECT_DEEP_REORGS in the multi-test client environment](https://github.com/ethereum/execution-specs/pull/3145) - 2026-07-10
+* [Pull Request] [docs(test-consume): fix and augment enginex docs](https://github.com/ethereum/execution-specs/pull/3143) - 2026-07-10
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -70,9 +73,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: eels: optionally consume pre-staged local fixtures](https://github.com/ethereum/hive/pull/1566#pullrequestreview-4662516398) - 2026-07-09
 
+* [Pull Request] [clients/go-ethereum: raise engine API max reorg depth for enginex runs](https://github.com/ethereum/hive/pull/1572) - 2026-07-10
+* [Pull Request] [clients/ethrex: raise max reorg depth for enginex runs](https://github.com/ethereum/hive/pull/1571) - 2026-07-10
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [eth/catalyst, eth/ethconfig, cmd: make engine API max reorg depth configurable](https://github.com/ethereum/go-ethereum/pull/35335) - 2026-07-10
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [fix(trie): bound tail changeset revert reads to the database tip](https://github.com/paradigmxyz/reth/pull/26352) - 2026-07-10
 ## Q2 2026
 
 

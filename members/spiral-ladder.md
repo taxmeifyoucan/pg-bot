@@ -18,6 +18,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix: submit PTC attestation early only for the canonical block's payload](https://github.com/ChainSafe/lodestar/pull/9588#pullrequestreview-4653760072) - 2026-07-08
 * [Pull Request] [feat: update stateTransition interface to take raw block bytes instead](https://github.com/ChainSafe/lodestar/pull/9632) - 2026-07-09
 * [Review] [Review on: feat: update stateTransition interface to take raw block bytes instead](https://github.com/ChainSafe/lodestar/pull/9632#pullrequestreview-4664737949) - 2026-07-09
+* [Review] [Review on: fix: add pubkeyCache initialization overhead](https://github.com/ChainSafe/lodestar/pull/9640#pullrequestreview-4672545227) - 2026-07-10
+* [Review] [Review on: fix: restore browser-safe light client BLS](https://github.com/ChainSafe/lodestar/pull/9638#pullrequestreview-4671697022) - 2026-07-10
+* [Issue] [feat(pubkeys): pre-alloc num validators + some buffer room](https://github.com/ChainSafe/lodestar/issues/9639) - 2026-07-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -40,6 +43,15 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat: partial validator monitor](https://github.com/ChainSafe/lodestar-z/pull/475) - 2026-07-09
 * [Commit] [Revert "chore(release): v0.1.2-rc.10 (#477)" (#478)](https://github.com/ChainSafe/lodestar-z/commit/d9b582c4eae664b7a6661d8dcb862ed4f717d912) - 2026-07-09
 * [Commit] [chore(release): v0.1.2-rc.10 (#477)](https://github.com/ChainSafe/lodestar-z/commit/9a4fad55533aefcaccef67fe45d48a747c6f82a4) - 2026-07-09
+* [Pull Request] [feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480) - 2026-07-10
+* [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673092802) - 2026-07-10
+* [Review] [Review on: feat(bindings): configurable pubkey cache growth step](https://github.com/ChainSafe/lodestar-z/pull/481#pullrequestreview-4672275316) - 2026-07-10
+* [Pull Request] [chore: bump zapi to include musl build](https://github.com/ChainSafe/lodestar-z/pull/485) - 2026-07-10
+* [Pull Request] [fix: avoid set](https://github.com/ChainSafe/lodestar-z/pull/484) - 2026-07-10
+* [Pull Request] [chore(deps): update zapi to 3.1.0](https://github.com/ChainSafe/lodestar-z/pull/483) - 2026-07-10
+* [Review] [Review on: feat: add readonly range reads for SSZ composite vectors](https://github.com/ChainSafe/lodestar-z/pull/476#pullrequestreview-4670996155) - 2026-07-10
+* [Commit] [chore: bump zapi to include musl build (#485)](https://github.com/ChainSafe/lodestar-z/commit/0b488cccadbce6d09a31f9a874be868f9ffbe3ec) - 2026-07-10
+* [Commit] [fix: avoid set (#484)](https://github.com/ChainSafe/lodestar-z/commit/2e25d97fadfbf170647c21799550c37502639f1c) - 2026-07-10
 ## Q2 2026
 
 

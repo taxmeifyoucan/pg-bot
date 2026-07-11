@@ -66,6 +66,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [refactor(multi-stark): derive VerificationError formatting with thiserror (#1941)](https://github.com/Plonky3/Plonky3/commit/ddc057459983f4d6d2156c7ce6da96f086424f91) - 2026-07-09
 * [Commit] [perf(fri): drop verifier row clone and cover query collisions (#1940)](https://github.com/Plonky3/Plonky3/commit/f4da5745c30a7dfb2710f6269c1363d32b6efe8d) - 2026-07-09
 * [Commit] [perf(multi): fuse ext-round fold into a single pass over columns (#1937)](https://github.com/Plonky3/Plonky3/commit/9d18ef5de81568b0239d343a6aefb9f69b709ddf) - 2026-07-09
+* [Review] [Review on: feat(multi-stark) batch prover api](https://github.com/Plonky3/Plonky3/pull/1946#pullrequestreview-4674855115) - 2026-07-10
+* [Pull Request] [test(zk-codes): pin batch-encode equivalence to shipped DFT, cover length mismatch](https://github.com/Plonky3/Plonky3/pull/1945) - 2026-07-10
+* [Review] [Review on: feat(encoding): implement batch encoding for zero-knowledge codes](https://github.com/Plonky3/Plonky3/pull/1944#pullrequestreview-4671166345) - 2026-07-10
+* [Review] [Review on: perf(circle): prune Merkle multiproofs across the circle query phase](https://github.com/Plonky3/Plonky3/pull/1943#pullrequestreview-4669413818) - 2026-07-10
 ## Q2 2026
 
 

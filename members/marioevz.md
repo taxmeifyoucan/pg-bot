@@ -29,6 +29,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests): EIP-8037: failing test](https://github.com/ethereum/execution-specs/pull/3140#pullrequestreview-4667671358) - 2026-07-10
 * [Review] [Review on: refactor(test-benchmark): align stateful benchmarks with the Amsterdam state-gas model](https://github.com/ethereum/execution-specs/pull/3137#pullrequestreview-4665481088) - 2026-07-09
 * [Issue] [fix(tests): Fix hard-coded references to gas_costs.CALL_STIPEND](https://github.com/ethereum/execution-specs/issues/3139) - 2026-07-09
+* [Commit] [fix(tests): EIP-8037: failing test - create tx refunds new account (#3140)](https://github.com/ethereum/execution-specs/commit/20d6aa3bca084e090e502c4e52f4259d60bae2be) - 2026-07-10
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 ## Q2 2026

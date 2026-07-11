@@ -34,6 +34,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: adding proper json fallback for ssz](https://github.com/OffchainLabs/prysm/pull/17137#pullrequestreview-4661732907) - 2026-07-09
 * [Review] [Review on: Do not mark a node synced after a failed resync](https://github.com/OffchainLabs/prysm/pull/17125#pullrequestreview-4661536990) - 2026-07-09
 * [Pull Request] [`saveHead`: Clear the head cache when the head is updated.](https://github.com/OffchainLabs/prysm/pull/17143) - 2026-07-09
+* [Review] [Review on: Fail block data column availability check during initial sync instead of blocking](https://github.com/OffchainLabs/prysm/pull/17152#pullrequestreview-4675215560) - 2026-07-10
+* [Pull Request] [Bump C-KZG version](https://github.com/OffchainLabs/prysm/pull/17150) - 2026-07-10
+* [Review] [Review on: Bump C-KZG version](https://github.com/OffchainLabs/prysm/pull/17150#pullrequestreview-4672198206) - 2026-07-10
+* [Issue] [Cannot restart a beacon node after a few days using the `--enable-state-diff` flag.](https://github.com/OffchainLabs/prysm/issues/17148) - 2026-07-10
+* [Commit] [Bump C-KZG version (#17150)](https://github.com/OffchainLabs/prysm/commit/8db5927c7d6bd321f9bb09423349447f2dcacb1e) - 2026-07-10
 ## Q2 2026
 
 

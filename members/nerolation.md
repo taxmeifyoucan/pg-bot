@@ -30,6 +30,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 
+* [Pull Request] [fix(spec-specs, tests): apply calldata floor to block-level regular gas](https://github.com/ethereum/execution-specs/pull/3144) - 2026-07-10
+* [Commit] [fix(spec-specs, tests): apply calldata floor to block-level regular gas (#3144)](https://github.com/ethereum/execution-specs/commit/c74f1a67b63c7b34c2204bf2d5fd20b8fcabc981) - 2026-07-10
 [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Add proposal for native UTXOs on Ethereum](https://github.com/nerolation/pglanding-nerolation/commit/6eda8a600eac2ec897055484efc1348b65e0246d) - 2026-07-08
 ## Q2 2026

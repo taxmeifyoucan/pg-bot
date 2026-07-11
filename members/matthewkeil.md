@@ -15,6 +15,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: merge v1.44.0 back to unstable](https://github.com/ChainSafe/lodestar/pull/9576) - 2026-07-01
 * [Commit] [chore: merge v1.44.0 back to unstable (#9576)](https://github.com/ChainSafe/lodestar/commit/e08f470a972c9f08b953d34d82cf8ce16f94cd8d) - 2026-07-01
 * [Commit] [chore: v1.44.0 release (#9495)](https://github.com/ChainSafe/lodestar/commit/e3d733b7b5107122ff90fc89021a9ab404198c39) - 2026-07-01
+* [Review] [Review on: fix: add pubkeyCache initialization overhead](https://github.com/ChainSafe/lodestar/pull/9640#pullrequestreview-4672077823) - 2026-07-10
+
+[ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
+* [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
+* [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10
+* [Review] [Review on: chore(deps): update zapi to 3.1.0](https://github.com/ChainSafe/lodestar-z/pull/483#pullrequestreview-4672425538) - 2026-07-10
 ## Q2 2026
 
 

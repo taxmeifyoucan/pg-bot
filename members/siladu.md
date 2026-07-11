@@ -30,6 +30,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Pull Request] [Bring .github in line with main](https://github.com/besu-eth/besu/pull/10777) - 2026-07-08
 * [Review] [Review on: checks for correct docker env var configuration, warns when missing](https://github.com/besu-eth/besu/pull/10769#pullrequestreview-4659856674) - 2026-07-09
 * [Pull Request] [Revert inherit secrets](https://github.com/besu-eth/besu/pull/10779) - 2026-07-09
+* [Review] [Review on: Prepare changelog for 26.7.0 release](https://github.com/besu-eth/besu/pull/10795#pullrequestreview-4672730388) - 2026-07-10
+* [Review] [Review on: Updated kzg lib](https://github.com/besu-eth/besu/pull/10794#pullrequestreview-4672325668) - 2026-07-10
+* [Review] [Review on: Add ADDMOD in EVMv2](https://github.com/besu-eth/besu/pull/10792#pullrequestreview-4670350547) - 2026-07-10
 ## Q2 2026
 
 

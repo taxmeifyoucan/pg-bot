@@ -19,6 +19,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Merge bal devnet 7 into glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10774#pullrequestreview-4651722391) - 2026-07-08
 * [Pull Request] [Improve BAL prefetcher collectKeys method performance](https://github.com/besu-eth/besu/pull/10788) - 2026-07-09
 * [Pull Request] [New threading model for block processing](https://github.com/besu-eth/besu/pull/10786) - 2026-07-09
+* [Review] [Review on: Add ADDMOD in EVMv2](https://github.com/besu-eth/besu/pull/10792#pullrequestreview-4671122038) - 2026-07-10
+* [Pull Request] [Optimize AccessLocationTracker](https://github.com/besu-eth/besu/pull/10793) - 2026-07-10
+* [Review] [Review on: New threading model for block processing](https://github.com/besu-eth/besu/pull/10786#pullrequestreview-4669810295) - 2026-07-10
+* [Commit] [New threading model for block processing (#10786)](https://github.com/besu-eth/besu/commit/0a960f3b942b48ecb65ff7733e4099ba49bce6f2) - 2026-07-10
+* [Commit] [Improve BAL prefetcher collectKeys method performance (#10788)](https://github.com/besu-eth/besu/commit/4e999b349de25acdabe5a4658d23331c2285600b) - 2026-07-10
 ## Q2 2026
 
 

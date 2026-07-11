@@ -31,6 +31,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7708: Move to Review](https://github.com/ethereum/EIPs/pull/11872#pullrequestreview-4642198021) - 2026-07-07
 
+* [Pull Request] [Update EIP-8081: Propose EIP-7807 for inclusion](https://github.com/ethereum/EIPs/pull/11913) - 2026-07-10
+* [Pull Request] [Update EIP-8081: Propose EIP-8015 for inclusion](https://github.com/ethereum/EIPs/pull/11914) - 2026-07-10
+* [Pull Request] [Update EIP-8081: Propose EIP-8116 for inclusion](https://github.com/ethereum/EIPs/pull/11912) - 2026-07-10
+* [Pull Request] [Update EIP-8081: Propose EIP-8115 for inclusion](https://github.com/ethereum/EIPs/pull/11911) - 2026-07-10
+* [Pull Request] [Update EIP-8015: Move to Draft](https://github.com/ethereum/EIPs/pull/11910) - 2026-07-10
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [[wip] Experimental branch for Chronos sync continuations](https://github.com/status-im/nimbus-eth1/pull/4451) - 2026-07-09
 ## Q2 2026

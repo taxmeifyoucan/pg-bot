@@ -19,6 +19,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Update Splits URL](https://github.com/protocolguild/documentation/commit/1b7edf9217516fd1047256e3725eb30cf1139dd6) - 2026-07-07
 * [Commit] [Update Splits URL](https://github.com/protocolguild/documentation/commit/8a97a034bd0ae9d56fda99f95a0d708fcdd8f107) - 2026-07-07
 
+* [Commit] [Merge pull request #515 from leolara/leolara-add-execution-specs-leanspec](https://github.com/protocolguild/documentation/commit/7d71202f94d3aca1fe7eb9108bcbb2abca0d0f8b) - 2026-07-10
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/e6b14d7ca4339655efae86d7ad13a05fb14f43ee) - 2026-07-07
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/575f773fb569863447ec1e75d194b1ab0a05f41f) - 2026-07-07

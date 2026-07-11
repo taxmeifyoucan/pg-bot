@@ -36,6 +36,27 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [ci: move hive-eest to consume-enginex (2-3X quicker)](https://github.com/erigontech/erigon/pull/22344) - 2026-07-09
 * [Commit] [ci: enforce 1h job timeout across all merge-queue workflows (#22359)](https://github.com/erigontech/erigon/commit/e7d10ebce9a99b584611cbb454130e779bad7e5b) - 2026-07-09
 * [Commit] [ci: move hive-eest to consume-enginex (2-3X quicker) (#22344)](https://github.com/erigontech/erigon/commit/2e41aa8308835a88dbe60639b7de614be0c6aabf) - 2026-07-09
+* [Review] [Review on: execution/protocol: implement EIP-8282 Builder Execution Requests](https://github.com/erigontech/erigon/pull/22093#pullrequestreview-4669545601) - 2026-07-10
+* [Review] [Review on: [r3.5] sonar: exclude legacy-tests submodule, fix stale test-inclusion path](https://github.com/erigontech/erigon/pull/22371#pullrequestreview-4670299750) - 2026-07-10
+* [Review] [Review on: [r3.5] db/version: app version 3.5.1](https://github.com/erigontech/erigon/pull/22373#pullrequestreview-4670583705) - 2026-07-10
+* [Pull Request] [ci: run eest benchmark shards without a ramdisk](https://github.com/erigontech/erigon/pull/22368) - 2026-07-10
+* [Review] [Review on: execution: implement EIP-8038 state-access gas cost update](https://github.com/erigontech/erigon/pull/22060#pullrequestreview-4668571239) - 2026-07-10
+* [Pull Request] [[r3.5] [perf] execution: disable gzip compression for engineapi (#22367)](https://github.com/erigontech/erigon/pull/22369) - 2026-07-10
+* [Pull Request] [[perf] execution: disable gzip compression for engineapi](https://github.com/erigontech/erigon/pull/22367) - 2026-07-10
+* [Review] [Review on: temporal DB add block snapshots view (no behavior changes)](https://github.com/erigontech/erigon/pull/22353#pullrequestreview-4668328254) - 2026-07-10
+* [Issue] [[3.5] invalid block, gas used by execution: 20137672](https://github.com/erigontech/erigon/issues/22374) - 2026-07-10
+* [Issue] [[3.5] spammy tx gas detail WARN log](https://github.com/erigontech/erigon/issues/22376) - 2026-07-10
+* [Issue] [implement glamsterdam-devnet-7 changes](https://github.com/erigontech/erigon/issues/22378) - 2026-07-10
+* [Issue] [glamsterdam-devnet-7: EIP-8282 (Builder Execution Requests)](https://github.com/erigontech/erigon/issues/22382) - 2026-07-10
+* [Issue] [glamsterdam-devnet-7: EIP-7928 (Block-Level Access Lists)](https://github.com/erigontech/erigon/issues/22381) - 2026-07-10
+* [Issue] [glamsterdam-devnet-7: EIP-8037 (State Creation Gas Cost Increase)](https://github.com/erigontech/erigon/issues/22380) - 2026-07-10
+* [Issue] [glamsterdam-devnet-7: EIP-2780 (Resource-based intrinsic transaction gas)](https://github.com/erigontech/erigon/issues/22379) - 2026-07-10
+* [Commit] [execution/protocol: implement EIP-8282 Builder Execution Requests (#22093)](https://github.com/erigontech/erigon/commit/4aad1d88999f55aeefcac64f9bf55faca3a4fc23) - 2026-07-10
+* [Commit] [ci: run eest benchmark shards without a ramdisk (#22368)](https://github.com/erigontech/erigon/commit/08cf6b67615654bf3bd3a3ee7c7615ade8d9037c) - 2026-07-10
+* [Commit] [execution: implement EIP-8038 state-access gas cost update (#22060)](https://github.com/erigontech/erigon/commit/b6c276a214d8f5740fe8f5e805ef3a3b737a9315) - 2026-07-10
+* [Commit] [[perf] execution: disable gzip compression for engineapi (#22367)](https://github.com/erigontech/erigon/commit/72b364cbdfb7aa0d792b8c199300b5e92b7e0b5c) - 2026-07-10
+* [Commit] [execution: implement EIP-2780 resource-based intrinsic transaction gas (#22053)](https://github.com/erigontech/erigon/commit/60dd779ce0c7518da6984fa55cbdff4c47b1ad7c) - 2026-07-10
+* [Commit] [execution: update eest devnet fixtures to glamsterdam-devnet@v6.1.1 (#22023)](https://github.com/erigontech/erigon/commit/3a8ff4f6682c2efbb703ba0c8130fa013e3ec67d) - 2026-07-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

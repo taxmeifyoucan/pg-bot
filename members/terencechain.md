@@ -83,6 +83,17 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Wrap payload_attestation_message SSE event in version/data envelope](https://github.com/OffchainLabs/prysm/pull/17145) - 2026-07-09
 * [Commit] [Skip data columns of empty slots in by range RPC handler (#17089)](https://github.com/OffchainLabs/prysm/commit/bae60c8a57e1270732a67bc6758a7c382e894144) - 2026-07-09
 * [Commit] [Wrap payload_attestation_message SSE event in version/data envelope (#17145)](https://github.com/OffchainLabs/prysm/commit/441aea21ed874e197418f14ce5f3b14643ad275f) - 2026-07-09
+* [Pull Request] [Fail block data column availability check during initial sync instead of blocking](https://github.com/OffchainLabs/prysm/pull/17152) - 2026-07-10
+* [Pull Request] [Bound Gloas data column sidecar slot before queueing](https://github.com/OffchainLabs/prysm/pull/17157) - 2026-07-10
+* [Pull Request] [Apply Gloas state-diff pending deposits against pre-upgrade list](https://github.com/OffchainLabs/prysm/pull/17158) - 2026-07-10
+* [Review] [Review on: Ptc api returns 404 instead of 503 for block not found](https://github.com/OffchainLabs/prysm/pull/16851#pullrequestreview-4674060153) - 2026-07-10
+* [Review] [Review on: payload_attestation_data changing path parameter to query parameter ](https://github.com/OffchainLabs/prysm/pull/17155#pullrequestreview-4674059192) - 2026-07-10
+* [Pull Request] [Fix flaky pending attestation bucket tests](https://github.com/OffchainLabs/prysm/pull/17154) - 2026-07-10
+* [Review] [Review on: Implement fast confirmation rule ](https://github.com/OffchainLabs/prysm/pull/17122#pullrequestreview-4673321660) - 2026-07-10
+* [Commit] [Fail block data column availability check during initial sync instead of blocking (#17152)](https://github.com/OffchainLabs/prysm/commit/d6fc8d1d9b07aae1c622686fb76b1bf10166ab13) - 2026-07-10
+* [Commit] [Mark full node gas limit (#17093)](https://github.com/OffchainLabs/prysm/commit/0ae17750b28a68435c45da785afd39966fd0a0ca) - 2026-07-10
+* [Commit] [Reset self-build envelope signature failure budget every slot (#17104)](https://github.com/OffchainLabs/prysm/commit/126bce6be9f2a530b29fd86e0adf1af5b2bf196b) - 2026-07-10
+* [Commit] [Fix flaky pending attestation bucket tests (#17154)](https://github.com/OffchainLabs/prysm/commit/9ab797b7d587a0344d095a0fce1d3c3ec3e31a05) - 2026-07-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 ## Q2 2026
