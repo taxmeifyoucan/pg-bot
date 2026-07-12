@@ -117,6 +117,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Glamsterdam devnet 6 eips](https://github.com/NethermindEth/nethermind/pull/12117#pullrequestreview-4669378139) - 2026-07-10
 * [Commit] [fix(test): disable mempool-driven prewarming in test environments (#12367)](https://github.com/NethermindEth/nethermind/commit/c949ec4aebda7cbd6524b5e4b3d4c63afb09f8c2) - 2026-07-10
 * [Commit] [fix(test): disable prewarming in state test runs (#12366)](https://github.com/NethermindEth/nethermind/commit/7fe9463f70669e7a5ea52416e15952f336626fa3) - 2026-07-10
+* [Pull Request] [perf(evm): clear EVM memory lazily on growth, only the exposed gaps](https://github.com/NethermindEth/nethermind/pull/12387) - 2026-07-11
+* [Pull Request] [perf(evm): clear large pooled EVM memory buffers non-temporally](https://github.com/NethermindEth/nethermind/pull/12389) - 2026-07-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

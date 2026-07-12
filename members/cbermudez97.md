@@ -18,6 +18,7 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Pull Request] [perf(ci): build test solutions once and reuse across test jobs](https://github.com/NethermindEth/nethermind/pull/12357) - 2026-07-09
 * [Pull Request] [Fix flat DB import skipped for a fresh DB during migration](https://github.com/NethermindEth/nethermind/pull/12383) - 2026-07-10
 * [Pull Request] [Add fusaka payload set to EXPB reproducible benchmarks workflow](https://github.com/NethermindEth/nethermind/pull/12384) - 2026-07-10
+* [Commit] [Add fusaka payload set to EXPB reproducible benchmarks workflow (#12384)](https://github.com/NethermindEth/nethermind/commit/a13967d43babc49c79e20bab52ab349f7f2f1c18) - 2026-07-11
 ## Q2 2026
 
 

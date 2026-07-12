@@ -19,6 +19,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Do not cache partial header of imported blocks](https://github.com/sigp/lighthouse/pull/9604#pullrequestreview-4665562334) - 2026-07-09
 * [Pull Request] [Fix rust 1.97 lints](https://github.com/sigp/lighthouse/pull/9607) - 2026-07-09
 * [Review] [Review on: Pin genesis generator to devnet-6](https://github.com/sigp/lighthouse/pull/9608#pullrequestreview-4666821370) - 2026-07-09
+* [Review] [Review on: Move expensive gossip column computation tasks off async runtime](https://github.com/sigp/lighthouse/pull/9271#pullrequestreview-4676273793) - 2026-07-11
 ## Q2 2026
 
 

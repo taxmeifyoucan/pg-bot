@@ -132,6 +132,12 @@ Team: Erigon
 * [Commit] [execution/chain, execution/vm/evmtypes: L2 fork oracle on Rules (#22195)](https://github.com/erigontech/erigon/commit/5dee5f93d9ad1e5bdda44f0771b9b82312e9451e) - 2026-07-10
 * [Commit] [Revert #22257: parallel-commitment mount empty-branch regression (#22362)](https://github.com/erigontech/erigon/commit/4f0b6bad9efaf3d2ca79bac4e01f9f28cbc7539f) - 2026-07-10
 * [Commit] [cl, db/snapshotsync: don't freeze empty caplin block/state roots (#22294)](https://github.com/erigontech/erigon/commit/e4ba42b83c82c77ae24e3b007f7c6752fa581329) - 2026-07-10
+* [Pull Request] [execution/commitment: fix parallel deep-fold storage-root persistence](https://github.com/erigontech/erigon/pull/22401) - 2026-07-11
+* [Review] [Review on: cl: better progress logs of archive download](https://github.com/erigontech/erigon/pull/22388#pullrequestreview-4677862331) - 2026-07-11
+* [Review] [Review on: cl: preallocate slices in hot alloc paths](https://github.com/erigontech/erigon/pull/22397#pullrequestreview-4677861728) - 2026-07-11
+* [Pull Request] [cl/antiquary: prune caplin state indexing DB after freezing to snapshots](https://github.com/erigontech/erigon/pull/22396) - 2026-07-11
+* [Pull Request] [db/snapshotsync: refcounted visible-generation retirement core; adopt in caplin state](https://github.com/erigontech/erigon/pull/22400) - 2026-07-11
+* [Commit] [cl: repair permanently-truncated caplin static validators table (#22385)](https://github.com/erigontech/erigon/commit/5bbb44c024b197c5cdc203dbf99fdb6c954aaf91) - 2026-07-11
 ## Q2 2026
 
 

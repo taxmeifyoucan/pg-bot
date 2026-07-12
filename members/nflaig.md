@@ -108,6 +108,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: emit payload_attestation_message SSE event](https://github.com/ChainSafe/lodestar/pull/9636) - 2026-07-10
 * [Review] [Review on: chore: clean up fork choice dashboard config](https://github.com/ChainSafe/lodestar/pull/9561#pullrequestreview-4669435509) - 2026-07-10
 * [Commit] [feat: emit payload_attestation_message SSE event (#9636)](https://github.com/ChainSafe/lodestar/commit/2e78647e8c824723d5616f73f441d764d5161565) - 2026-07-10
+* [Pull Request] [fix: use native BLS for Node.js light client](https://github.com/ChainSafe/lodestar/pull/9646) - 2026-07-11
+* [Review] [Review on: fix: use native BLS for Node.js light client](https://github.com/ChainSafe/lodestar/pull/9646#pullrequestreview-4678917607) - 2026-07-11
+* [Review] [Review on: fix: restore browser-safe light client BLS](https://github.com/ChainSafe/lodestar/pull/9638#pullrequestreview-4678896661) - 2026-07-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

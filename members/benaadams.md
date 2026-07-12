@@ -44,6 +44,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(sync): clamp flat full state to best header](https://github.com/NethermindEth/nethermind/pull/12272#pullrequestreview-4663021148) - 2026-07-09
 * [Review] [Review on: ci: build test binaries once per RID and share via artifact](https://github.com/NethermindEth/nethermind/pull/12371#pullrequestreview-4673358986) - 2026-07-10
 * [Commit] [perf(persistence): defer block-data writes (receipts, tx-index, bodies, BAL) off the block-processing path (#12349)](https://github.com/NethermindEth/nethermind/commit/e8587429bb7a7ef5e101d0a09f05b711d30c5845) - 2026-07-11
+* [Pull Request] [perf: reduce locking contention on the block-processing hot path](https://github.com/NethermindEth/nethermind/pull/12396) - 2026-07-12
+* [Review] [Review on: ci: skip the no-intrinsics variant for plumbing test projects](https://github.com/NethermindEth/nethermind/pull/12391#pullrequestreview-4679166288) - 2026-07-12
+* [Review] [Review on: perf(evm): clear EVM memory lazily on growth, only the exposed gaps](https://github.com/NethermindEth/nethermind/pull/12387#pullrequestreview-4678510198) - 2026-07-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

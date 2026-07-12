@@ -152,6 +152,24 @@ Team: Erigon
 * [Commit] [db: `ERIGON_NO_RETIRE` to disable aged files removal  (#22364)](https://github.com/erigontech/erigon/commit/582ad6f08f46c76449f91e1b6de9c99de086a069) - 2026-07-10
 * [Commit] [temporal DB add block snapshots view (no behavior changes) (#22353)](https://github.com/erigontech/erigon/commit/348b3318f624ae8fa271993c418842ae3c8d3062) - 2026-07-10
 * [Commit] [exec: a bit less direct uses of `db/state.Agg` object (#22346)](https://github.com/erigontech/erigon/commit/22604e43ce77e9091063eebda18f14db6a58d98f) - 2026-07-10
+* [Review] [Review on: rpc/jsonrpc: eager in-memory cache for debug_executionWitness](https://github.com/erigontech/erigon/pull/22384#pullrequestreview-4676348726) - 2026-07-11
+* [Review] [Review on: execution/commitment: fix parallel deep-fold storage-root persistence](https://github.com/erigontech/erigon/pull/22401#pullrequestreview-4677900542) - 2026-07-11
+* [Pull Request] [cl: better progress logs of archive download](https://github.com/erigontech/erigon/pull/22388) - 2026-07-11
+* [Pull Request] [cl: preallocate slices in hot alloc paths](https://github.com/erigontech/erigon/pull/22397) - 2026-07-11
+* [Review] [Review on: cl: preallocate slices in hot alloc paths](https://github.com/erigontech/erigon/pull/22397#pullrequestreview-4677372676) - 2026-07-11
+* [Pull Request] [cl/persistence/base_encoding: avoid per-scalar heap allocs in Rabbits codec](https://github.com/erigontech/erigon/pull/22391) - 2026-07-11
+* [Pull Request] [rlp: to not allocate closure on every steam get from pool](https://github.com/erigontech/erigon/pull/22389) - 2026-07-11
+* [Review] [Review on: rlp: to not allocate closure on every steam get from pool](https://github.com/erigontech/erigon/pull/22389#pullrequestreview-4676778337) - 2026-07-11
+* [Review] [Review on: build(deps): bump the docusaurus group in /docs/site with 7 updates](https://github.com/erigontech/erigon/pull/22394#pullrequestreview-4677059055) - 2026-07-11
+* [Pull Request] [rpc: don't copy Header returned from Cache](https://github.com/erigontech/erigon/pull/22387) - 2026-07-11
+* [Pull Request] [cl: `ComputeShuffledIndicies` to not alloc hash on every call](https://github.com/erigontech/erigon/pull/22390) - 2026-07-11
+* [Review] [Review on: cl: repair permanently-truncated caplin static validators table](https://github.com/erigontech/erigon/pull/22385#pullrequestreview-4676407843) - 2026-07-11
+* [Review] [Review on: db/state, execution/stagedsync: consolidate accumulator swap/restore behind SwapChangesetAccumulatorLocked](https://github.com/erigontech/erigon/pull/22160#pullrequestreview-4676381882) - 2026-07-11
+* [Review] [Review on: retire only visible files](https://github.com/erigontech/erigon/pull/22365#pullrequestreview-4676290848) - 2026-07-11
+* [Review] [Review on: execution/engineapi, execution/execmodule: integration tests for reorg/unwind gaps](https://github.com/erigontech/erigon/pull/22300#pullrequestreview-4676372792) - 2026-07-11
+* [Issue] [Reduce amount of files offline-merge Caplin files on snapshotters](https://github.com/erigontech/erigon/issues/22398) - 2026-07-11
+* [Commit] [cl: better progress logs of archive download (#22388)](https://github.com/erigontech/erigon/commit/b51555d35d32c8eb44bc4717a53941be7715f8aa) - 2026-07-11
+* [Commit] [cl: preallocate slices in hot alloc paths (#22397)](https://github.com/erigontech/erigon/commit/d170fa9f19173228eb3342bce5e130af448ea6e0) - 2026-07-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

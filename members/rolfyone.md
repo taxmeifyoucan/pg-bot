@@ -41,6 +41,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 
 * [Pull Request] [updated jc-kzg version](https://github.com/Consensys/teku/pull/10958) - 2026-07-10
 * [Commit] [updated jc-kzg version (#10958)](https://github.com/Consensys/teku/commit/79914d9fad32bd50322cdab3318b04752ed3e701) - 2026-07-10
+* [Pull Request] [26_7_1 release process](https://github.com/Consensys/teku/pull/10962) - 2026-07-11
+* [Pull Request] [tweaks](https://github.com/Consensys/teku/pull/10961) - 2026-07-11
+* [Commit] [26_7_1 release process (#10962)](https://github.com/Consensys/teku/commit/47f1715418f43b04be05daf2a1a1c627621baf2d) - 2026-07-11
+* [Commit] [tweaks (#10961)](https://github.com/Consensys/teku/commit/924baf655e6a429dbdc43d7764861cf8960af1c5) - 2026-07-11
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 ## Q2 2026

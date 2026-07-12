@@ -21,6 +21,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec-specs,test-tests): update the EIP-2780 implementation](https://github.com/ethereum/execution-specs/pull/3126#pullrequestreview-4662910646) - 2026-07-09
 * [Review] [Review on: feat(spec-specs, tests): charge EIP-8037 account creation at access](https://github.com/ethereum/execution-specs/pull/3116#pullrequestreview-4661052739) - 2026-07-09
 * [Review] [Review on: fix(tests): EIP-8037: failing test](https://github.com/ethereum/execution-specs/pull/3140#pullrequestreview-4670114760) - 2026-07-10
+* [Review] [Review on: feat(spec-specs,test-tests): update the EIP-2780 implementation](https://github.com/ethereum/execution-specs/pull/3126#pullrequestreview-4676603166) - 2026-07-11
+* [Issue] [Use naming convention for top frame gas calculators:](https://github.com/ethereum/execution-specs/issues/3149) - 2026-07-11
 ## Q2 2026
 
 

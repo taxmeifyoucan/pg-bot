@@ -48,6 +48,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [ux improvement on beacon api flags](https://github.com/OffchainLabs/prysm/pull/17159) - 2026-07-10
 * [Review] [Review on: Reset self-build envelope signature failure budget every slot](https://github.com/OffchainLabs/prysm/pull/17104#pullrequestreview-4672178750) - 2026-07-10
 * [Pull Request] [payload_attestation_data changing path parameter to query parameter ](https://github.com/OffchainLabs/prysm/pull/17155) - 2026-07-10
+* [Commit] [Ptc api returns 204 instead of 503 for block not found (#16851)](https://github.com/OffchainLabs/prysm/commit/f9c7a8d6bdc0f3398f03a02c844d3f498189ccd0) - 2026-07-11
 ## Q2 2026
 
 

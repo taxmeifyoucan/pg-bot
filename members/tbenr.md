@@ -41,6 +41,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [implement SszPackedProgressiveByteLists hint (#10951)](https://github.com/Consensys/teku/commit/f44695203e88b04f4c2f765baed01942904d0946) - 2026-07-09
 * [Pull Request] [Additional 7688 validations](https://github.com/Consensys/teku/pull/10959) - 2026-07-10
 * [Pull Request] [Mutable progressive byte list - preserve element schema on set](https://github.com/Consensys/teku/pull/10960) - 2026-07-10
+* [Review] [Review on: 26_7_1 release process](https://github.com/Consensys/teku/pull/10962#pullrequestreview-4677278788) - 2026-07-11
+* [Review] [Review on: tweaks](https://github.com/Consensys/teku/pull/10961#pullrequestreview-4677031634) - 2026-07-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

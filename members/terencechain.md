@@ -96,6 +96,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Fix flaky pending attestation bucket tests (#17154)](https://github.com/OffchainLabs/prysm/commit/9ab797b7d587a0344d095a0fce1d3c3ec3e31a05) - 2026-07-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8015: Move to Draft](https://github.com/ethereum/EIPs/pull/11910#pullrequestreview-4678151626) - 2026-07-11
 ## Q2 2026
 
 

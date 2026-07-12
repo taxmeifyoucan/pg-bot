@@ -16,6 +16,7 @@ Team: Erigon
 
 * [Review] [Review on: integration-tool: Make sync convergence retries configurable (--sync-retries) default 300](https://github.com/erigontech/rpc-tests/pull/584#pullrequestreview-4639078479) - 2026-07-06
 * [Review] [Review on: integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583#pullrequestreview-4634705896) - 2026-07-06
+* [Review] [Review on: integration-test: add tests for testing_commitBlockV1](https://github.com/erigontech/rpc-tests/pull/585#pullrequestreview-4678393525) - 2026-07-11
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: increase timer sync verify with reference node](https://github.com/erigontech/erigon/pull/22279#pullrequestreview-4639179688) - 2026-07-06
 * [Review] [Review on: [3.5] QA: Modified default wait sync latest from 10 to 300](https://github.com/erigontech/erigon/pull/22280#pullrequestreview-4639577451) - 2026-07-06
