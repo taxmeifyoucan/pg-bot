@@ -172,6 +172,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state, execution/commitment: fix parallel-commitment worker reads + add COMMITMENT_PARALLEL toggle](https://github.com/erigontech/erigon/pull/22354#pullrequestreview-4669739634) - 2026-07-10
 * [Review] [Review on: [perf] execution: disable gzip compression for engineapi](https://github.com/erigontech/erigon/pull/22367#pullrequestreview-4669584607) - 2026-07-10
 * [Issue] [kurtosis: assertoor_regular_serial_test flaky — eoa-transactions-test funding starvation (insufficient funds → empty blocks → 30-min timeout)](https://github.com/erigontech/erigon/issues/22377) - 2026-07-10
+* [Commit] [execution/engineapi, execution/execmodule: integration tests for reorg/unwind gaps (#22300)](https://github.com/erigontech/erigon/commit/103efbe3ff20c597fb7f0d2973898976b65696c1) - 2026-07-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

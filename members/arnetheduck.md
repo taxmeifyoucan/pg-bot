@@ -14,10 +14,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629159714) - 2026-07-04
 
+* [Review] [Review on: Add Sam Shum](https://github.com/protocolguild/documentation/pull/521#pullrequestreview-4680803008) - 2026-07-12
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Issue] [Rename verified proxy folder](https://github.com/status-im/nimbus-eth1/issues/4414) - 2026-07-06
 
 * [Pull Request] [remove nested `waitFor`](https://github.com/status-im/nimbus-eth1/pull/4456) - 2026-07-10
+* [Commit] [remove nested `waitFor` (#4456)](https://github.com/status-im/nimbus-eth1/commit/d0ca9f2dc108cdbf20c8885035ca377f4e061741) - 2026-07-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8735) - 2026-07-08
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8734) - 2026-07-08

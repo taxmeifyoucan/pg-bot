@@ -170,6 +170,19 @@ Team: Erigon
 * [Issue] [Reduce amount of files offline-merge Caplin files on snapshotters](https://github.com/erigontech/erigon/issues/22398) - 2026-07-11
 * [Commit] [cl: better progress logs of archive download (#22388)](https://github.com/erigontech/erigon/commit/b51555d35d32c8eb44bc4717a53941be7715f8aa) - 2026-07-11
 * [Commit] [cl: preallocate slices in hot alloc paths (#22397)](https://github.com/erigontech/erigon/commit/d170fa9f19173228eb3342bce5e130af448ea6e0) - 2026-07-11
+* [Pull Request] [db, execution, cl, node: nil external pointers before returning objects to sync.Pool](https://github.com/erigontech/erigon/pull/22410) - 2026-07-13
+* [Review] [Review on: retire only visible files](https://github.com/erigontech/erigon/pull/22365#pullrequestreview-4679808256) - 2026-07-12
+* [Review] [Review on: db/snapshotsync: refcounted visible-generation retirement core; adopt in caplin state](https://github.com/erigontech/erigon/pull/22400#pullrequestreview-4679810053) - 2026-07-12
+* [Review] [Review on: rpc/jsonrpc: eager in-memory cache for debug_executionWitness](https://github.com/erigontech/erigon/pull/22384#pullrequestreview-4679960158) - 2026-07-12
+* [Review] [Review on: cl/antiquary: prune caplin state indexing DB after freezing to snapshots](https://github.com/erigontech/erigon/pull/22396#pullrequestreview-4679339910) - 2026-07-12
+* [Review] [Review on: cl: reduce per-call hashing allocations in shuffling, sync committee, merkle proofs](https://github.com/erigontech/erigon/pull/22406#pullrequestreview-4679725403) - 2026-07-12
+* [Review] [Review on: execution/commitment: rebuild collapsed storage from the account leaf on re-expansion](https://github.com/erigontech/erigon/pull/22405#pullrequestreview-4679713365) - 2026-07-12
+* [Review] [Review on: execution/builder: summarize txpool filtration once per block build](https://github.com/erigontech/erigon/pull/21995#pullrequestreview-4679455061) - 2026-07-12
+* [Review] [Review on: [r3.5] db/state: fix clear StateCache on SharedDomains unwind below reorg window](https://github.com/erigontech/erigon/pull/22402#pullrequestreview-4679323136) - 2026-07-12
+* [Commit] [cl: `ComputeShuffledIndicies` to not alloc hash on every call (#22390)](https://github.com/erigontech/erigon/commit/c6570b5b9e51a2368264729b3e823f56789bc4e9) - 2026-07-12
+* [Commit] [rlp: to not allocate closure on every steam get from pool (#22389)](https://github.com/erigontech/erigon/commit/57b0042065a86cefe7793e96e58e1e6f986d649c) - 2026-07-12
+* [Commit] [rpc: don't copy Header returned from Cache (#22387)](https://github.com/erigontech/erigon/commit/4540ef19c1d154cfdee61b8f9c2a64f6f141e3b5) - 2026-07-12
+* [Commit] [`--persist.receipts.distance` support (#22349)](https://github.com/erigontech/erigon/commit/b9e4d3c2f81a73cf539c7f87939af36e9cba0ba1) - 2026-07-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

@@ -106,6 +106,8 @@ Team: Reth
 * [Commit] [perf(net): raise default ECIES write flush boundary to 64KiB (#26348)](https://github.com/paradigmxyz/reth/commit/3d590c43260480f6c2875e43fb6f107d181c2d7a) - 2026-07-10
 * [Review] [Review on: feat(engine): use SSZ containers in proxy](https://github.com/paradigmxyz/reth/pull/26335#pullrequestreview-4676790906) - 2026-07-11
 * [Review] [Review on: feat(engine): add REST-SSZ blob body witness containers](https://github.com/paradigmxyz/reth/pull/26328#pullrequestreview-4676744349) - 2026-07-11
+* [Review] [Review on: feat(engine): add REST-SSZ blob body witness containers](https://github.com/paradigmxyz/reth/pull/26328#pullrequestreview-4679495735) - 2026-07-12
+* [Review] [Review on: fix(net): apply ban gate when promoting a peer to trusted by id](https://github.com/paradigmxyz/reth/pull/26364#pullrequestreview-4679489291) - 2026-07-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

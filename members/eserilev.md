@@ -22,6 +22,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Implement PTC reprocess queue](https://github.com/sigp/lighthouse/pull/9458#pullrequestreview-4654510988) - 2026-07-08
 * [Pull Request] [Gloas alpha spec 12 changes](https://github.com/sigp/lighthouse/pull/9596) - 2026-07-08
 * [Issue] [Implement gloas block proposer circuit breaker](https://github.com/sigp/lighthouse/issues/9598) - 2026-07-08
+* [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4679738766) - 2026-07-12
 ## Q2 2026
 
 

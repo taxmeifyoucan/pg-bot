@@ -17,6 +17,8 @@ Team: Nimbus
 * [Pull Request] [Snap sync maint update](https://github.com/status-im/nimbus-eth1/pull/4410) - 2026-07-05
 * [Commit] [Snap sync maint update (#4410)](https://github.com/status-im/nimbus-eth1/commit/1d6c13220e499ac5b21b3cc3a8b0bb44113f27f0) - 2026-07-05
 * [Review] [Review on: remove nested `waitFor`](https://github.com/status-im/nimbus-eth1/pull/4456#pullrequestreview-4669655660) - 2026-07-10
+* [Pull Request] [Snap sync provide flat tables for bal](https://github.com/status-im/nimbus-eth1/pull/4463) - 2026-07-12
+* [Commit] [Snap sync provide flat tables for bal (#4463)](https://github.com/status-im/nimbus-eth1/commit/9ccd99c4ec8d3070b628613b35f7da160331419e) - 2026-07-12
 ## Q2 2026
 
 

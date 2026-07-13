@@ -21,6 +21,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(sentry): land execution_payload / _gossip SSE events (flat shape)](https://github.com/ethpandaops/xatu/pull/868) - 2026-07-08
 * [Pull Request] [ci: publish a bare rolling tag per release branch](https://github.com/ethpandaops/xatu/pull/872) - 2026-07-09
 * [Commit] [ci: publish a bare rolling tag per release branch (#872)](https://github.com/ethpandaops/xatu/commit/1f41cac33c76b230406aba5329e2781ae9dbcf82) - 2026-07-09
+* [Pull Request] [fix(docker): pin cryo builder to rust 1.96](https://github.com/ethpandaops/xatu/pull/875) - 2026-07-12
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [telemetry: add OTLP traces pipeline](https://github.com/ethpandaops/template-devnets/pull/178) - 2026-07-06
 * [Commit] [xatu-sentry: ship to the per-devnet ingest pipeline](https://github.com/ethpandaops/template-devnets/commit/625d2c78cd2d9b4c985462134bc6986d677ee195) - 2026-07-06
@@ -29,6 +30,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [chore(design-sync): sync Lab component library to claude.ai/design](https://github.com/ethpandaops/lab/pull/440) - 2026-07-08
 * [Pull Request] [fix(timings): aggregate all versions in collapsed client row](https://github.com/ethpandaops/lab/pull/441) - 2026-07-10
 * [Commit] [fix(timings): aggregate all versions in collapsed client row (#441)](https://github.com/ethpandaops/lab/commit/e960b1a9460d036eca396748bcafff48beb04c73) - 2026-07-10
+* [Pull Request] [feat(timings): add 90d, 6mo, and 1y time ranges](https://github.com/ethpandaops/lab/pull/442) - 2026-07-12
+* [Commit] [feat(timings): add 90d, 6mo, and 1y time ranges (#442)](https://github.com/ethpandaops/lab/commit/e9a1c77729583acd96c0350f23761e3d469f8f1a) - 2026-07-12
 ## Q2 2026
 
 

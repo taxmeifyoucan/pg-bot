@@ -119,6 +119,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [docs(agents): expand coding guidelines and DI environment documentation (#12352)](https://github.com/NethermindEth/nethermind/commit/defb257d2fdb81ecbcde694e3120f3e441c00527) - 2026-07-10
 * [Commit] [feat(analyzers): add NETH007 — prefer PutSpan over Set with a span-copied array (#12336)](https://github.com/NethermindEth/nethermind/commit/c9b19f3f7f341e726c65533a07d089215b860524) - 2026-07-10
 * [Commit] [perf: add SmallRefCountingDisposable with an inline lease counter (#12335)](https://github.com/NethermindEth/nethermind/commit/2a0406c3b0259758b847dc7e3a82721f77e96e4e) - 2026-07-10
+* [Review] [Review on: Add Nix flake for NixOS support](https://github.com/NethermindEth/nethermind/pull/12388#pullrequestreview-4679241332) - 2026-07-12
+* [Review] [Review on: test: deterministic prewarmer env-pool eviction test](https://github.com/NethermindEth/nethermind/pull/12407#pullrequestreview-4681294505) - 2026-07-13
+* [Review] [Review on: test: key AddBlock head waits to the produced block](https://github.com/NethermindEth/nethermind/pull/12409#pullrequestreview-4681292504) - 2026-07-13
+* [Review] [Review on: perf(prewarm): warm the beneficiary and the EIP-2935 parent-hash slot](https://github.com/NethermindEth/nethermind/pull/12410#pullrequestreview-4681285440) - 2026-07-13
+* [Review] [Review on: perf(evm): drop redundant gas re-check in UpdateGas](https://github.com/NethermindEth/nethermind/pull/12412#pullrequestreview-4681220484) - 2026-07-13
+* [Review] [Review on: perf: uncontend hot-path metric counters](https://github.com/NethermindEth/nethermind/pull/12405#pullrequestreview-4681022088) - 2026-07-12
+* [Review] [Review on: perf(evm): clear EVM memory lazily on growth, only the exposed gaps](https://github.com/NethermindEth/nethermind/pull/12387#pullrequestreview-4679234831) - 2026-07-12
+* [Commit] [refactor(init): migrate plugin Init hooks to steps and retire the hook (#12326)](https://github.com/NethermindEth/nethermind/commit/61805129db29e1d5df61f8e72f9419ee72a72472) - 2026-07-12
+* [Commit] [perf(state): replace per-key journal stacks with intrusive PrevIdx change chains (#12340)](https://github.com/NethermindEth/nethermind/commit/dbb6f6085b55120cb4316162c0fa46d8c3fccbc8) - 2026-07-12
 ## Q2 2026
 
 

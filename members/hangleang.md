@@ -24,6 +24,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [[Glamsterdam] Remove parent_block_number from payload_attributes](https://github.com/grandinetech/grandine/issues/792) - 2026-07-09
 * [Pull Request] [Broadcast proposer preferences inline instead of in a detached task](https://github.com/grandinetech/grandine/pull/804) - 2026-07-10
 * [Review] [Review on: fix: omit parent_block_number from payload_attributes SSE post-Gloas](https://github.com/grandinetech/grandine/pull/799#pullrequestreview-4677218597) - 2026-07-11
+* [Pull Request] [Update validator_payload_attestation_data beacon API](https://github.com/grandinetech/grandine/pull/807) - 2026-07-12
 ## Q2 2026
 
 

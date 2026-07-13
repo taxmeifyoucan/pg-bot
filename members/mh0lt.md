@@ -24,6 +24,8 @@ Team: Erigon
 * [Commit] [execution/cache, execution/commitment, db/state: consolidate cache stack (freelru + persistent code cache) (#22154)](https://github.com/erigontech/erigon/commit/b4ad655fb24f41a26817f98af1fb27418a969eea) - 2026-07-07
 * [Pull Request] [db/state, execution/commitment: fix parallel-commitment worker reads + add COMMITMENT_PARALLEL toggle](https://github.com/erigontech/erigon/pull/22354) - 2026-07-09
 * [Commit] [BAL-driven parallel commitment (#21416)](https://github.com/erigontech/erigon/commit/ddeddcfbc08f260d1f9ec3af6bfea16a49d4510e) - 2026-07-09
+* [Pull Request] [execution/state: cache-free parallel execution via versionMap unification (noMaterialize) + warm-read caching](https://github.com/erigontech/erigon/pull/22409) - 2026-07-12
+* [Commit] [db/state, execution/commitment: fix parallel-commitment worker reads + add COMMITMENT_PARALLEL toggle (#22354)](https://github.com/erigontech/erigon/commit/d184f8a75d365a0d4856bdb8fea751d6fbc051f0) - 2026-07-12
 ## Q2 2026
 
 

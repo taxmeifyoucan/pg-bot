@@ -119,6 +119,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix(test): disable prewarming in state test runs (#12366)](https://github.com/NethermindEth/nethermind/commit/7fe9463f70669e7a5ea52416e15952f336626fa3) - 2026-07-10
 * [Pull Request] [perf(evm): clear EVM memory lazily on growth, only the exposed gaps](https://github.com/NethermindEth/nethermind/pull/12387) - 2026-07-11
 * [Pull Request] [perf(evm): clear large pooled EVM memory buffers non-temporally](https://github.com/NethermindEth/nethermind/pull/12389) - 2026-07-11
+* [Pull Request] [perf(evm): drop redundant gas re-check in UpdateGas](https://github.com/NethermindEth/nethermind/pull/12412) - 2026-07-13
+* [Review] [Review on: perf(engine): reuse pool senders in newPayload recovery](https://github.com/NethermindEth/nethermind/pull/12390#pullrequestreview-4680118201) - 2026-07-12
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12394#pullrequestreview-4679856136) - 2026-07-12
+* [Pull Request] [Ignore sepolia-devnet-2 L1 in superchain chainspec generation](https://github.com/NethermindEth/nethermind/pull/12398) - 2026-07-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

@@ -42,6 +42,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-2780: Move to Review](https://github.com/ethereum/EIPs/pull/11882#pullrequestreview-4671489924) - 2026-07-10
 * [Review] [Review on: Add EIP: Align Checkpoint with Epoch Boundary Block](https://github.com/ethereum/EIPs/pull/11871#pullrequestreview-4668334860) - 2026-07-10
 * [Commit] [Update EIP-8037: apply the EIP-7976 calldata floor to block-level gas accounting](https://github.com/ethereum/EIPs/commit/190d539c9c49d91438a4d9977235c001a43b4df1) - 2026-07-10
+* [Review] [Review on: Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/pull/11853#pullrequestreview-4680426451) - 2026-07-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03

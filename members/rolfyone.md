@@ -45,6 +45,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [tweaks](https://github.com/Consensys/teku/pull/10961) - 2026-07-11
 * [Commit] [26_7_1 release process (#10962)](https://github.com/Consensys/teku/commit/47f1715418f43b04be05daf2a1a1c627621baf2d) - 2026-07-11
 * [Commit] [tweaks (#10961)](https://github.com/Consensys/teku/commit/924baf655e6a429dbdc43d7764861cf8960af1c5) - 2026-07-11
+* [Pull Request] [  Return 204 for producePayloadAttestationData when no block seen at slot](https://github.com/Consensys/teku/pull/10965) - 2026-07-13
+* [Review] [Review on: Introduce IndexedPayloadAttestationLight](https://github.com/Consensys/teku/pull/10964#pullrequestreview-4681228321) - 2026-07-13
+* [Review] [Review on: Remove eth1 deposit cli options](https://github.com/Consensys/teku/pull/10957#pullrequestreview-4680837183) - 2026-07-12
+* [Review] [Review on: Cleanup gossip params](https://github.com/Consensys/teku/pull/10956#pullrequestreview-4680737631) - 2026-07-12
+* [Review] [Review on: Mutable progressive byte list - preserve element schema on set](https://github.com/Consensys/teku/pull/10960#pullrequestreview-4680736517) - 2026-07-12
+* [Issue] [[Beacon-Api] implement downscore reasons in peers api](https://github.com/Consensys/teku/issues/10963) - 2026-07-12
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 ## Q2 2026

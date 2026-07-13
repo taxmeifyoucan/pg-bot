@@ -39,6 +39,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[3.5] cherry-pick rpc: fix nil-pointer panic in gzip batch flush race (#22338)](https://github.com/erigontech/erigon/pull/22383) - 2026-07-10
 * [Pull Request] [[WIP] rpc: implement testing_commitBlockV1](https://github.com/erigontech/erigon/pull/22403) - 2026-07-11
 * [Issue] [impl testing_commitBlockV1()](https://github.com/erigontech/erigon/issues/22392) - 2026-07-11
+* [Pull Request] [node, commitment: fix parallel exec deadlock on many-core machines](https://github.com/erigontech/erigon/pull/22408) - 2026-07-12
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -46,6 +47,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [Make sync convergence retries configurable (--sync-retries) (#584)](https://github.com/erigontech/rpc-tests/commit/3b65d00ab70a69ae411e208d36c8c3f788baa607) - 2026-07-06
 * [Commit] [fix prestate noStorage (#583)](https://github.com/erigontech/rpc-tests/commit/eb464ad4267937786f6fa327976c967baf7234b1) - 2026-07-09
 * [Pull Request] [integration-test: add tests for testing_commitBlockV1](https://github.com/erigontech/rpc-tests/pull/585) - 2026-07-11
+* [Commit] [integration-test: add tests for testing_commitBlockV1 (#585)](https://github.com/erigontech/rpc-tests/commit/214c13799371e832a90d92781f83b0fe2d143d68) - 2026-07-12
 ## Q2 2026
 
 

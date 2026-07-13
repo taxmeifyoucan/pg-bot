@@ -13,6 +13,11 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138) - 2026-07-09
+
+[eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
+* [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
+* [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12
+* [Commit] [Update to ere-guests v0.13 (#296)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e0b6519bce426a3c817c9ca684f62eb2cce3931b) - 2026-07-13
 ## Q2 2026
 
 

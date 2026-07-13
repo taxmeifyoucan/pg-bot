@@ -46,9 +46,14 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [Various `discards ‘const’ qualifier from pointer target type [-Wdiscarded-qualifiers]` agcc warnings in build/libverifproxy/verifproxy.h](https://github.com/status-im/nimbus-eth1/issues/4415) - 2026-07-06
 * [Review] [Review on: builds MUST start on forkchoiceState.headBlockHash](https://github.com/status-im/nimbus-eth1/pull/4427#pullrequestreview-4643199623) - 2026-07-07
 * [Review] [Review on: Bump nim-libp2p to v2.1.4](https://github.com/status-im/nimbus-eth1/pull/4437#pullrequestreview-4653353897) - 2026-07-08
+* [Pull Request] [temporarily use non-stable image for kurtosis for nimbus-eth2](https://github.com/status-im/nimbus-eth1/pull/4462) - 2026-07-12
+* [Issue] [`eth_estimateGas` blindly mirrors `gas` parameter up to cap in presence of `CREATE2`](https://github.com/status-im/nimbus-eth1/issues/4464) - 2026-07-12
+* [Issue] [implement updated gloas fcU payload build skip specs](https://github.com/status-im/nimbus-eth1/issues/4459) - 2026-07-12
+* [Commit] [temporarily use non-stable image for kurtosis for nimbus-eth2 (#4462)](https://github.com/status-im/nimbus-eth1/commit/66864328387e32a05b911ced439fba5762c2e9a1) - 2026-07-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 
+* [Pull Request] [Add Sam Shum](https://github.com/protocolguild/documentation/pull/521) - 2026-07-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422#pullrequestreview-4632990203) - 2026-07-06
 

@@ -39,6 +39,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Separate EEST test into its own CI job](https://github.com/status-im/nimbus-eth1/pull/4448) - 2026-07-09
 * [Pull Request] [--network now can look genesis.json into folder](https://github.com/status-im/nimbus-eth1/pull/4449) - 2026-07-09
 * [Commit] [Separate EEST test into its own CI job (#4448)](https://github.com/status-im/nimbus-eth1/commit/47dca5293daea9019f6917c3eec752ca164b6129) - 2026-07-09
+* [Commit] [--network now can look genesis.json into folder (#4449)](https://github.com/status-im/nimbus-eth1/commit/330752d28858d5f403c3f742687f8803d68737de) - 2026-07-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

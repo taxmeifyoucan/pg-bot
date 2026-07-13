@@ -34,6 +34,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [fix: txpool crash (#4413)](https://github.com/status-im/nimbus-eth1/commit/81fc21e0e8f02fe3aaa6a7a07103482f5cc33ecf) - 2026-07-06
 * [Pull Request] [builds MUST start on forkchoiceState.headBlockHash](https://github.com/status-im/nimbus-eth1/pull/4427) - 2026-07-07
 * [Review] [Review on: builds MUST start on forkchoiceState.headBlockHash](https://github.com/status-im/nimbus-eth1/pull/4427#pullrequestreview-4643256340) - 2026-07-07
+* [Pull Request] [txpool periodic eviction for better pool churn](https://github.com/status-im/nimbus-eth1/pull/4460) - 2026-07-12
 ## Q2 2026
 
 

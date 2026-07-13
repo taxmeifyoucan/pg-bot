@@ -138,6 +138,18 @@ Team: Erigon
 * [Pull Request] [cl/antiquary: prune caplin state indexing DB after freezing to snapshots](https://github.com/erigontech/erigon/pull/22396) - 2026-07-11
 * [Pull Request] [db/snapshotsync: refcounted visible-generation retirement core; adopt in caplin state](https://github.com/erigontech/erigon/pull/22400) - 2026-07-11
 * [Commit] [cl: repair permanently-truncated caplin static validators table (#22385)](https://github.com/erigontech/erigon/commit/5bbb44c024b197c5cdc203dbf99fdb6c954aaf91) - 2026-07-11
+* [Review] [Review on: retire only visible files](https://github.com/erigontech/erigon/pull/22365#pullrequestreview-4679538969) - 2026-07-12
+* [Review] [Review on: db/snapshotsync: refcounted visible-generation retirement core; adopt in caplin state](https://github.com/erigontech/erigon/pull/22400#pullrequestreview-4680012148) - 2026-07-12
+* [Review] [Review on: cl: `ComputeShuffledIndicies` to not alloc hash on every call](https://github.com/erigontech/erigon/pull/22390#pullrequestreview-4679506948) - 2026-07-12
+* [Review] [Review on: rpc/jsonrpc: eager in-memory cache for debug_executionWitness](https://github.com/erigontech/erigon/pull/22384#pullrequestreview-4679473106) - 2026-07-12
+* [Pull Request] [cl: reduce per-call hashing allocations in shuffling, sync committee, merkle proofs](https://github.com/erigontech/erigon/pull/22406) - 2026-07-12
+* [Pull Request] [execution/commitment: rebuild collapsed storage from the account leaf on re-expansion](https://github.com/erigontech/erigon/pull/22405) - 2026-07-12
+* [Pull Request] [rpc/jsonrpc: push fresh witnesses via debug_subscribe("executionWitnesses")](https://github.com/erigontech/erigon/pull/22407) - 2026-07-12
+* [Review] [Review on: rlp: to not allocate closure on every steam get from pool](https://github.com/erigontech/erigon/pull/22389#pullrequestreview-4679506341) - 2026-07-12
+* [Review] [Review on: rpc: don't copy Header returned from Cache](https://github.com/erigontech/erigon/pull/22387#pullrequestreview-4679505762) - 2026-07-12
+* [Commit] [cl: reduce per-call hashing allocations in shuffling, sync committee, merkle proofs (#22406)](https://github.com/erigontech/erigon/commit/31246d88579ad80acda8d92e2402bccaa3bbce8d) - 2026-07-12
+* [Commit] [execution/commitment: rebuild collapsed storage from the account leaf on re-expansion (#22405)](https://github.com/erigontech/erigon/commit/8e6f2e75523d07257d2c1c12f32bbea590fca71b) - 2026-07-12
+* [Commit] [execution/commitment: fix parallel deep-fold storage-root persistence (#22401)](https://github.com/erigontech/erigon/commit/9a9b652a6237d941c8c09435b5f2b107a4efe23d) - 2026-07-12
 ## Q2 2026
 
 
