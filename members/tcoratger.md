@@ -71,6 +71,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat(encoding): implement batch encoding for zero-knowledge codes](https://github.com/Plonky3/Plonky3/pull/1944#pullrequestreview-4671166345) - 2026-07-10
 * [Review] [Review on: perf(circle): prune Merkle multiproofs across the circle query phase](https://github.com/Plonky3/Plonky3/pull/1943#pullrequestreview-4669413818) - 2026-07-10
 * [Pull Request] [feat(multi-stark): public values as boundary IO](https://github.com/Plonky3/Plonky3/pull/1947) - 2026-07-11
+* [Review] [Review on: feat(security): add support for LogUp](https://github.com/Plonky3/Plonky3/pull/1942#pullrequestreview-4686765901) - 2026-07-13
 ## Q2 2026
 
 

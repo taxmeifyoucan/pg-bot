@@ -25,6 +25,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Broadcast proposer preferences inline instead of in a detached task](https://github.com/grandinetech/grandine/pull/804) - 2026-07-10
 * [Review] [Review on: fix: omit parent_block_number from payload_attributes SSE post-Gloas](https://github.com/grandinetech/grandine/pull/799#pullrequestreview-4677218597) - 2026-07-11
 * [Pull Request] [Update validator_payload_attestation_data beacon API](https://github.com/grandinetech/grandine/pull/807) - 2026-07-12
+* [Review] [Review on: Wait for proposer preferences broadcasting to finish](https://github.com/grandinetech/grandine/pull/804#pullrequestreview-4683797078) - 2026-07-13
 ## Q2 2026
 
 

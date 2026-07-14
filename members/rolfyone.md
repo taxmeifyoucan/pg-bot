@@ -51,6 +51,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Cleanup gossip params](https://github.com/Consensys/teku/pull/10956#pullrequestreview-4680737631) - 2026-07-12
 * [Review] [Review on: Mutable progressive byte list - preserve element schema on set](https://github.com/Consensys/teku/pull/10960#pullrequestreview-4680736517) - 2026-07-12
 * [Issue] [[Beacon-Api] implement downscore reasons in peers api](https://github.com/Consensys/teku/issues/10963) - 2026-07-12
+* [Review] [Review on: Produce block v4 with payload](https://github.com/Consensys/teku/pull/10832#pullrequestreview-4689663724) - 2026-07-13
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 ## Q2 2026

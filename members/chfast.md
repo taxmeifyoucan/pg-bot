@@ -27,6 +27,14 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: Identify EVM revisions by name rather than by number](https://github.com/ipsilon/evmone/pull/1586#pullrequestreview-4654375559) - 2026-07-08
 * [Commit] [evmc: Remove the Constantinople revision (#1587)](https://github.com/ipsilon/evmone/commit/33cf47ca5093e7c6b57ac24708e6e65c3aaf5c96) - 2026-07-08
 * [Commit] [Identify EVM revisions by name rather than by number (#1586)](https://github.com/ipsilon/evmone/commit/40a25b171a0ae7bcebc8ebc1d364427379156983) - 2026-07-08
+* [Pull Request] [state: Simplify `compute_create_address()`](https://github.com/ipsilon/evmone/pull/1590) - 2026-07-13
+* [Review] [Review on: state: Avoid redundant lookups and allocations](https://github.com/ipsilon/evmone/pull/1584#pullrequestreview-4685698515) - 2026-07-13
+* [Review] [Review on: state: Don't journal warm storage accesses](https://github.com/ipsilon/evmone/pull/1585#pullrequestreview-4685654552) - 2026-07-13
+* [Pull Request] [Compute the create address in the VM](https://github.com/ipsilon/evmone/pull/1589) - 2026-07-13
+* [Review] [Review on: state: Cache repeated and negative account lookups](https://github.com/ipsilon/evmone/pull/1583#pullrequestreview-4683771258) - 2026-07-13
+* [Review] [Review on: precompiles: Handle allocation failure in call_precompile](https://github.com/ipsilon/evmone/pull/1582#pullrequestreview-4683755570) - 2026-07-13
+* [Commit] [state: Simplify `compute_create_address()` (#1590)](https://github.com/ipsilon/evmone/commit/2af500ba76b1fb7c8c938bce9f5542cd0a6c68b7) - 2026-07-13
+* [Commit] [evmc: Add get_nonce() to the host interface (#1588)](https://github.com/ipsilon/evmone/commit/2b439da622eccbcdb890ee1dffc30f2b7b3c26cb) - 2026-07-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -59,6 +67,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [fix(testing): clear watch screen via Console, not deprecated os.system (#3102)](https://github.com/ethereum/execution-specs/commit/f188d01b1c5f78fc8b3ff84a3b4e80d626034242) - 2026-07-03
 * [Commit] [docs(spec-specs): fix stale Amsterdam fork docstring and comments (#3097)](https://github.com/ethereum/execution-specs/commit/3da5390f9f1d330acbd845025a89564e455ba743) - 2026-07-03
 * [Commit] [feat(tests): EIP-8246 creation-tx initcode selfdestruct coverage (#3084)](https://github.com/ethereum/execution-specs/commit/7603ff69a8dca74dfbbcdd7c90c63f023d4e8f77) - 2026-07-03
+* [Pull Request] [feat(tests): add type-0 transaction RLP validity tests](https://github.com/ethereum/execution-specs/pull/3156) - 2026-07-13
+* [Pull Request] [feat(tests): restore sstore_combinations as a hand-written test](https://github.com/ethereum/execution-specs/pull/3154) - 2026-07-13
+* [Pull Request] [feat(tests): add dynamic-destination JUMP/JUMPI invalid-target tests](https://github.com/ethereum/execution-specs/pull/3153) - 2026-07-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

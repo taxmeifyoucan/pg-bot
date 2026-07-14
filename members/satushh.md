@@ -26,6 +26,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Set `PAYLOAD_DUE_BPS` to 5000](https://github.com/OffchainLabs/prysm/pull/17126#pullrequestreview-4655019488) - 2026-07-08
 * [Commit] [Respond with 410 Gone and a replacement hint on spec-removed Beacon API routes (#17133)](https://github.com/OffchainLabs/prysm/commit/3f79d2c0ba920f1215f792e34bdcc281db45aa44) - 2026-07-08
 * [Pull Request] [Add GET /prysm/v1/node/custody endpoint](https://github.com/OffchainLabs/prysm/pull/17144) - 2026-07-09
+* [Review] [Review on: Bound Gloas data column sidecar slot before queueing](https://github.com/OffchainLabs/prysm/pull/17157#pullrequestreview-4686469647) - 2026-07-13
+* [Review] [Review on: Add GET /prysm/v1/node/custody endpoint](https://github.com/OffchainLabs/prysm/pull/17144#pullrequestreview-4682816446) - 2026-07-13
 ## Q2 2026
 
 

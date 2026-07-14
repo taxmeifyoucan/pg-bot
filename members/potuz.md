@@ -42,6 +42,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Payload reorg](https://github.com/OffchainLabs/prysm/pull/16933#pullrequestreview-4663071729) - 2026-07-09
 * [Review] [Review on: Re-verify builder deposit signatures when in-batch index reuse evicts a pubkey](https://github.com/OffchainLabs/prysm/pull/17111#pullrequestreview-4672223662) - 2026-07-10
 * [Review] [Review on: Bump C-KZG version](https://github.com/OffchainLabs/prysm/pull/17150#pullrequestreview-4671791583) - 2026-07-10
+* [Review] [Review on: Stop downscoring peers when pruning pending Gloas data columns](https://github.com/OffchainLabs/prysm/pull/17170#pullrequestreview-4687077694) - 2026-07-13
+* [Pull Request] [wait for clock on da](https://github.com/OffchainLabs/prysm/pull/17168) - 2026-07-13
+* [Pull Request] [Do not queue blocks that arrive more than 500ms early](https://github.com/OffchainLabs/prysm/pull/17167) - 2026-07-13
+* [Commit] [wait for clock on da (#17168)](https://github.com/OffchainLabs/prysm/commit/77e98216098f9c9db96fa6a00c2f9e25b82a2128) - 2026-07-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
@@ -49,6 +53,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 
 * [Commit] [Ignore instead of reject on preferences (#5429)](https://github.com/ethereum/consensus-specs/commit/853c5856ea8d82c1b2144f0fe6cdc8769424bf3a) - 2026-07-06
 * [Commit] [Set payload deadline to 6 seconds into the slot (#5414)](https://github.com/ethereum/consensus-specs/commit/5d60f97152d8f307cd7de6eae17bb1e058796de6) - 2026-07-06
+* [Review] [Review on: Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443#pullrequestreview-4685912381) - 2026-07-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629311315) - 2026-07-04
 

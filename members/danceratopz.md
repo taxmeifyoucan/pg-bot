@@ -68,6 +68,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [docs(test-consume): fix and augment enginex docs](https://github.com/ethereum/execution-specs/pull/3143) - 2026-07-10
 * [Commit] [docs(test-consume): fix and augment enginex docs (#3143)](https://github.com/ethereum/execution-specs/commit/a9abd46ec1e49cb97dd7bad39164c8f19ed8bf6a) - 2026-07-11
 * [Commit] [feat(test-consume): set HIVE_EXPECT_DEEP_REORGS in the multi-test client environment (#3145)](https://github.com/ethereum/execution-specs/commit/0f8b81b192166e07408088860112703584a9fa61) - 2026-07-11
+* [Review] [Review on: fix(test-fixtures): emit chainId in state test fixture transaction](https://github.com/ethereum/execution-specs/pull/3125#pullrequestreview-4689936079) - 2026-07-14
+* [Review] [Review on: feat(tests): add type-0 transaction RLP validity tests](https://github.com/ethereum/execution-specs/pull/3156#pullrequestreview-4689796163) - 2026-07-13
+* [Pull Request] [chore(tests): remove legacy `abstract:` prefix from test module docstrings](https://github.com/ethereum/execution-specs/pull/3162) - 2026-07-13
+* [Review] [Review on: refactor(test-benchmark): organize stateful benchmark folder structure](https://github.com/ethereum/execution-specs/pull/3152#pullrequestreview-4689088667) - 2026-07-13
+* [Review] [Review on: feat(test-fill): pack Engine X pre-alloc groups](https://github.com/ethereum/execution-specs/pull/3122#pullrequestreview-4688798701) - 2026-07-13
+* [Review] [Review on: chore(test-client-clis): update Nethermind exception mappings](https://github.com/ethereum/execution-specs/pull/3151#pullrequestreview-4685265519) - 2026-07-13
+* [Review] [Review on: refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374#pullrequestreview-4683777337) - 2026-07-13
+* [Review] [Review on: feat(ci): nightly full fill of all tests and fixture formats](https://github.com/ethereum/execution-specs/pull/3100#pullrequestreview-4684168694) - 2026-07-13
+* [Issue] [feat(test-fill): compare Engine X post-state against the sibling fixture in the packing execution check](https://github.com/ethereum/execution-specs/issues/3161) - 2026-07-13
+* [Issue] [fix(test-fill): Engine X fixtures never emit `postStateDiff`](https://github.com/ethereum/execution-specs/issues/3160) - 2026-07-13
+* [Commit] [feat(test-fill): pack Engine X pre-alloc groups (#3122)](https://github.com/ethereum/execution-specs/commit/b07e0c485b09e5bf695dd24a708e7986d5bf7f4e) - 2026-07-13
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

@@ -31,6 +31,17 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [replace deprecated actions/cache@v4 with actions/cache@v5](https://github.com/status-im/nimbus-eth2/pull/8715) - 2026-07-07
 * [Pull Request] [update to c-kzg 2.1.8](https://github.com/status-im/nimbus-eth2/pull/8741) - 2026-07-10
 * [Pull Request] [Revert "Forward compatible consensus data structures (EIP-7688)"](https://github.com/status-im/nimbus-eth2/pull/8740) - 2026-07-10
+* [Pull Request] [bump nim-chronos to 637d96d30cb06109b69c07b63b758c934ec17503](https://github.com/status-im/nimbus-eth2/pull/8758) - 2026-07-14
+* [Pull Request] [rm block processor test nested polling](https://github.com/status-im/nimbus-eth2/pull/8757) - 2026-07-14
+* [Pull Request] [Revert "Revert "Forward compatible consensus data structures (EIP-7688)""](https://github.com/status-im/nimbus-eth2/pull/8755) - 2026-07-13
+* [Pull Request] [bump nim-libp2p](https://github.com/status-im/nimbus-eth2/pull/8754) - 2026-07-13
+* [Pull Request] [Revert "Bump vendor/nim-eth from `84d393e` to `ccc1d55`"](https://github.com/status-im/nimbus-eth2/pull/8746) - 2026-07-13
+* [Pull Request] [keep --quic-port rather than --debug-quic-port](https://github.com/status-im/nimbus-eth2/pull/8747) - 2026-07-13
+* [Pull Request] [Revert "enable QUIC by default"](https://github.com/status-im/nimbus-eth2/pull/8745) - 2026-07-13
+* [Commit] [version v26.7.0](https://github.com/status-im/nimbus-eth2/commit/4110bc7828a45518d22d60e2f60438ae81ff17e9) - 2026-07-13
+* [Commit] [bump nim-libp2p (#8754)](https://github.com/status-im/nimbus-eth2/commit/9e509d1b7061a1be402efa5b482b01324d8bf145) - 2026-07-13
+* [Commit] [keep --quic-port rather than --debug-quic-port (#8747)](https://github.com/status-im/nimbus-eth2/commit/9c614aceb33c74a2ccae25823af67a2ea95650b7) - 2026-07-13
+* [Commit] [Revert "enable QUIC by default (#8711)" (#8745)](https://github.com/status-im/nimbus-eth2/commit/ed10a5bf6c5725462b667402c65bb07c793736f2) - 2026-07-13
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

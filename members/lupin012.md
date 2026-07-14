@@ -40,6 +40,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[WIP] rpc: implement testing_commitBlockV1](https://github.com/erigontech/erigon/pull/22403) - 2026-07-11
 * [Issue] [impl testing_commitBlockV1()](https://github.com/erigontech/erigon/issues/22392) - 2026-07-11
 * [Pull Request] [node, commitment: fix parallel exec deadlock on many-core machines](https://github.com/erigontech/erigon/pull/22408) - 2026-07-12
+* [Review] [Review on: rpc: implement testing_commitBlockV1](https://github.com/erigontech/erigon/pull/22403#pullrequestreview-4686669886) - 2026-07-13
+* [Pull Request] [rpc: fix handle batch deadlock](https://github.com/erigontech/erigon/pull/22443) - 2026-07-13
+* [Pull Request] [rpc: makes queryLimit configurabile via --rpc.logs.querylimit](https://github.com/erigontech/erigon/pull/22418) - 2026-07-13
+* [Review] [Review on: node, commitment: fix parallel exec deadlock on many-core machines](https://github.com/erigontech/erigon/pull/22408#pullrequestreview-4682531708) - 2026-07-13
+* [Commit] [rpc: implement testing_commitBlockV1 (#22403)](https://github.com/erigontech/erigon/commit/5bf10433f300444548c89c218f78855fda50f57f) - 2026-07-13
+* [Commit] [rpc: makes queryLimit configurabile via --rpc.logs.querylimit (#22418)](https://github.com/erigontech/erigon/commit/01e886322341c1f91a3035b3687c7fd938a92dbe) - 2026-07-13
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

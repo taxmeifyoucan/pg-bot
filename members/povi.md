@@ -25,6 +25,7 @@ Team: Grandine
 * [Issue] [`cargo audit` fixes](https://github.com/grandinetech/grandine/issues/802) - 2026-07-10
 * [Issue] [[Glamsterdam] add missing SSE events](https://github.com/grandinetech/grandine/issues/800) - 2026-07-10
 * [Commit] [Update `crossbeam-epoch`](https://github.com/grandinetech/grandine/commit/6ae713fca1fe6620ef7e45b864c3e136a767b1c1) - 2026-07-10
+* [Review] [Review on: Wait for proposer preferences broadcasting to finish](https://github.com/grandinetech/grandine/pull/804#pullrequestreview-4683758052) - 2026-07-13
 ## Q2 2026
 
 

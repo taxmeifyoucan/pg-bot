@@ -15,6 +15,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506) - 2026-07-03
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652817220) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4652892648) - 2026-07-08
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: chore(ci): Disable stateless devnet tests scheduled run](https://github.com/NethermindEth/nethermind/pull/12428#pullrequestreview-4688396220) - 2026-07-13
+* [Review] [Review on: Skip idle data feed stats serialization](https://github.com/NethermindEth/nethermind/pull/12427#pullrequestreview-4687209191) - 2026-07-13
 ## Q2 2026
 
 

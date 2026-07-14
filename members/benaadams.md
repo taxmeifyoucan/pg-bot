@@ -47,6 +47,29 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf: reduce locking contention on the block-processing hot path](https://github.com/NethermindEth/nethermind/pull/12396) - 2026-07-12
 * [Review] [Review on: ci: skip the no-intrinsics variant for plumbing test projects](https://github.com/NethermindEth/nethermind/pull/12391#pullrequestreview-4679166288) - 2026-07-12
 * [Review] [Review on: perf(evm): clear EVM memory lazily on growth, only the exposed gaps](https://github.com/NethermindEth/nethermind/pull/12387#pullrequestreview-4678510198) - 2026-07-11
+* [Review] [Review on: fix(flat): keep writer-held shared arenas alive until the write finishes](https://github.com/NethermindEth/nethermind/pull/12416#pullrequestreview-4686073695) - 2026-07-13
+* [Review] [Review on: fix(network): skip peer candidates with an unresolved TCP port](https://github.com/NethermindEth/nethermind/pull/12408#pullrequestreview-4686099821) - 2026-07-13
+* [Review] [Review on: Split and prioritize heavy same-sender groups in block prewarmer](https://github.com/NethermindEth/nethermind/pull/12425#pullrequestreview-4686643422) - 2026-07-13
+* [Review] [Review on: perf(xdc): forward the blockhash prewarm hint through the decorator](https://github.com/NethermindEth/nethermind/pull/12424#pullrequestreview-4686068357) - 2026-07-13
+* [Pull Request] [Skip idle data feed stats serialization](https://github.com/NethermindEth/nethermind/pull/12427) - 2026-07-13
+* [Pull Request] [Size ParallelUnbalancedWork to the range; skip init/finally on idle workers](https://github.com/NethermindEth/nethermind/pull/12426) - 2026-07-13
+* [Review] [Review on: perf: precompile result cache survives blocks](https://github.com/NethermindEth/nethermind/pull/12406#pullrequestreview-4686062117) - 2026-07-13
+* [Review] [Review on: perf(prewarm): execute warm transactions with real fee and nonce semantics](https://github.com/NethermindEth/nethermind/pull/12413#pullrequestreview-4686093275) - 2026-07-13
+* [Review] [Review on: fix(evm): align EIP-8037 spill-refund accounting with the EELS reference](https://github.com/NethermindEth/nethermind/pull/12419#pullrequestreview-4686078797) - 2026-07-13
+* [Review] [Review on: perf(evm): memoize intrinsic gas on the transaction](https://github.com/NethermindEth/nethermind/pull/12411#pullrequestreview-4685409206) - 2026-07-13
+* [Pull Request] [perf(flat): publish trie-commit nodes through address-owned maps, clear pooled maps without stripe locks](https://github.com/NethermindEth/nethermind/pull/12421) - 2026-07-13
+* [Review] [Review on: perf(flat): publish trie-commit nodes through address-owned maps, clear pooled maps without stripe locks](https://github.com/NethermindEth/nethermind/pull/12421#pullrequestreview-4685436272) - 2026-07-13
+* [Review] [Review on: fix(era): advance finality during replay](https://github.com/NethermindEth/nethermind/pull/12423#pullrequestreview-4685743122) - 2026-07-13
+* [Pull Request] [perf(flat): sealed snapshot counts, HintGet promotion skip, prewarm-filter hash](https://github.com/NethermindEth/nethermind/pull/12420) - 2026-07-13
+* [Pull Request] [perf(threading): reduce MCS lock handoff latency](https://github.com/NethermindEth/nethermind/pull/12417) - 2026-07-13
+* [Pull Request] [perf(crypto): back the sender cache with AssociativeCache instead of ClockCache](https://github.com/NethermindEth/nethermind/pull/12418) - 2026-07-13
+* [Review] [Review on: perf(prewarm): hint the EIP-2935 parent-hash slot to the prewarmer](https://github.com/NethermindEth/nethermind/pull/12410#pullrequestreview-4684384708) - 2026-07-13
+* [Commit] [Skip idle data feed stats serialization (#12427)](https://github.com/NethermindEth/nethermind/commit/37df66fcbfb3e0438a96de9324b9d47ff75e81af) - 2026-07-13
+* [Commit] [Size ParallelUnbalancedWork to the range; skip init/finally on idle workers (#12426)](https://github.com/NethermindEth/nethermind/commit/4b2a937533090344a0b8584cfbb9baa63e521bef) - 2026-07-13
+* [Commit] [perf(flat): publish trie-commit nodes through address-owned maps, clear pooled maps without stripe locks (#12421)](https://github.com/NethermindEth/nethermind/commit/43bc5350476b9673715c16005404aa9878d53109) - 2026-07-13
+* [Commit] [perf(flat): sealed snapshot counts, HintGet promotion skip, prewarm-filter hash (#12420)](https://github.com/NethermindEth/nethermind/commit/a7e0bb845b2a3416ef710eaac648f4ca78f8412b) - 2026-07-13
+* [Commit] [perf(threading): reduce MCS lock handoff latency (#12417)](https://github.com/NethermindEth/nethermind/commit/e87738be2af7694168b792dfbf68eca9f2231d5c) - 2026-07-13
+* [Commit] [perf(crypto): back the sender cache with AssociativeCache instead of ClockCache (#12418)](https://github.com/NethermindEth/nethermind/commit/d183029496c33116e7d02bd5c1f2237e332fcdd3) - 2026-07-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

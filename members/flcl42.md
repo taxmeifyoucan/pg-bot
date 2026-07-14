@@ -61,9 +61,14 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fall back to chain head when sync progress pointers are missing (#12356)](https://github.com/NethermindEth/nethermind/commit/f3220146a6cdc155617d45f1ffd552783dfc754d) - 2026-07-10
 * [Commit] [Fix state gas spill with negative reservoir (#12338)](https://github.com/NethermindEth/nethermind/commit/ac83915ad23f2747ff81d2a0e263415e4b907e93) - 2026-07-10
 * [Pull Request] [Glamsterdam devnet 7](https://github.com/NethermindEth/nethermind/pull/12397) - 2026-07-12
+* [Review] [Review on: fix(network): skip peer candidates with an unresolved TCP port](https://github.com/NethermindEth/nethermind/pull/12408#pullrequestreview-4687963909) - 2026-07-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [chore(test-client-clis): update Nethermind exception mappings](https://github.com/ethereum/execution-specs/pull/3151) - 2026-07-13
+* [Commit] [chore(test-client-clis): update Nethermind exception mappings (#3151)](https://github.com/ethereum/execution-specs/commit/ccab088314c7a3197947bf26da3b26824bd7601e) - 2026-07-13
 ## Q2 2026
 
 

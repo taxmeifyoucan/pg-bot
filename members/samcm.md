@@ -22,6 +22,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [ci: publish a bare rolling tag per release branch](https://github.com/ethpandaops/xatu/pull/872) - 2026-07-09
 * [Commit] [ci: publish a bare rolling tag per release branch (#872)](https://github.com/ethpandaops/xatu/commit/1f41cac33c76b230406aba5329e2781ae9dbcf82) - 2026-07-09
 * [Pull Request] [fix(docker): pin cryo builder to rust 1.96](https://github.com/ethpandaops/xatu/pull/875) - 2026-07-12
+* [Pull Request] [feat: emit EL node records from mimicry sessions, add dial failure metrics](https://github.com/ethpandaops/xatu/pull/876) - 2026-07-13
+* [Commit] [feat: emit EL node records from mimicry sessions, add dial failure metrics (#876)](https://github.com/ethpandaops/xatu/commit/a83a609259acd353cc0d0625688964efdbc7c5c7) - 2026-07-13
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [telemetry: add OTLP traces pipeline](https://github.com/ethpandaops/template-devnets/pull/178) - 2026-07-06
 * [Commit] [xatu-sentry: ship to the per-devnet ingest pipeline](https://github.com/ethpandaops/template-devnets/commit/625d2c78cd2d9b4c985462134bc6986d677ee195) - 2026-07-06
@@ -32,6 +34,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(timings): aggregate all versions in collapsed client row (#441)](https://github.com/ethpandaops/lab/commit/e960b1a9460d036eca396748bcafff48beb04c73) - 2026-07-10
 * [Pull Request] [feat(timings): add 90d, 6mo, and 1y time ranges](https://github.com/ethpandaops/lab/pull/442) - 2026-07-12
 * [Commit] [feat(timings): add 90d, 6mo, and 1y time ranges (#442)](https://github.com/ethpandaops/lab/commit/e9a1c77729583acd96c0350f23761e3d469f8f1a) - 2026-07-12
+* [Pull Request] [fix(consensus): apply selected time range to daily overview charts](https://github.com/ethpandaops/lab/pull/443) - 2026-07-13
+* [Commit] [fix(consensus): apply selected time range to daily overview charts (#443)](https://github.com/ethpandaops/lab/commit/8ef4d81c2bdcc6c42368ff9577f2f03fac29f36f) - 2026-07-13
 ## Q2 2026
 
 

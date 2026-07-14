@@ -20,6 +20,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Prevent long state advance during stalled sync](https://github.com/sigp/lighthouse/pull/9538#pullrequestreview-4634165873) - 2026-07-06
 * [Issue] [FCR performance: state loads while holding fork choice read lock](https://github.com/sigp/lighthouse/issues/9595) - 2026-07-08
 * [Issue] [Gloas fork boundary test: slashed proposers](https://github.com/sigp/lighthouse/issues/9602) - 2026-07-09
+* [Issue] [Fsync during backfill](https://github.com/sigp/lighthouse/issues/9623) - 2026-07-13
+* [Issue] [Delete `stream_blocks_fallback`](https://github.com/sigp/lighthouse/issues/9621) - 2026-07-13
+* [Issue] [Remove `proc-macro-error2` dependency](https://github.com/sigp/lighthouse/issues/9618) - 2026-07-13
 ## Q2 2026
 
 

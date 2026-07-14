@@ -43,6 +43,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Mutable progressive byte list - preserve element schema on set](https://github.com/Consensys/teku/pull/10960) - 2026-07-10
 * [Review] [Review on: 26_7_1 release process](https://github.com/Consensys/teku/pull/10962#pullrequestreview-4677278788) - 2026-07-11
 * [Review] [Review on: tweaks](https://github.com/Consensys/teku/pull/10961#pullrequestreview-4677031634) - 2026-07-11
+* [Pull Request] [Update Schema Registry and adopt progressive ssz in GLOAS](https://github.com/Consensys/teku/pull/10966) - 2026-07-13
+* [Commit] [mutable progressive byte list - preserve element schema on set (#10960)](https://github.com/Consensys/teku/commit/da1fdc64f8a6f80f7b23447f84f25a2c0582cf03) - 2026-07-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

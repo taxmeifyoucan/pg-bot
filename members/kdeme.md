@@ -37,6 +37,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [stateless: implement validate_chain_config](https://github.com/status-im/nimbus-eth1/pull/4457) - 2026-07-10
 * [Issue] [Nimbus stateless guest/host issue tracker](https://github.com/status-im/nimbus-eth1/issues/4458) - 2026-07-10
 * [Commit] [stateless: implement validate_chain_config (#4457)](https://github.com/status-im/nimbus-eth1/commit/d25023299f97867b53ac52a791a2b18c8e5ffc8e) - 2026-07-10
+* [Pull Request] [stateless: fail block on missing witness code](https://github.com/status-im/nimbus-eth1/pull/4481) - 2026-07-13
+* [Pull Request] [stateless: Fix witness tracking for EIP-7997 related access](https://github.com/status-im/nimbus-eth1/pull/4477) - 2026-07-13
+* [Pull Request] [Update to zkevm v0.6.1 and spec related changes](https://github.com/status-im/nimbus-eth1/pull/4479) - 2026-07-13
+* [Pull Request] [stateless: Fix witness tracking for EIP-7997 related access](https://github.com/status-im/nimbus-eth1/pull/4480) - 2026-07-13
+* [Pull Request] [networking: remove DiscoveryV4 support, use DiscoveryV5 only](https://github.com/status-im/nimbus-eth1/pull/4476) - 2026-07-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

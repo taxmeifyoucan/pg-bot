@@ -23,6 +23,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tests): EIP-8037: failing test](https://github.com/ethereum/execution-specs/pull/3140#pullrequestreview-4670114760) - 2026-07-10
 * [Review] [Review on: feat(spec-specs,test-tests): update the EIP-2780 implementation](https://github.com/ethereum/execution-specs/pull/3126#pullrequestreview-4676603166) - 2026-07-11
 * [Issue] [Use naming convention for top frame gas calculators:](https://github.com/ethereum/execution-specs/issues/3149) - 2026-07-11
+* [Pull Request] [refactor(spec-specs): organize gas logic in amsterdam EIP-8037/8038/2780](https://github.com/ethereum/execution-specs/pull/3159) - 2026-07-13
+* [Review] [Review on: refactor(spec-specs): credit CREATE refund before child incorporation](https://github.com/ethereum/execution-specs/pull/3099#pullrequestreview-4685911073) - 2026-07-13
+* [Commit] [feat(spec-specs,test-tests): update the EIP-2780 implementation (#3126)](https://github.com/ethereum/execution-specs/commit/77e95ef10593cbeabcdefef41c130abee8760f91) - 2026-07-13
 ## Q2 2026
 
 

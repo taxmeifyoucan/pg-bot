@@ -49,6 +49,16 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Reset self-build envelope signature failure budget every slot](https://github.com/OffchainLabs/prysm/pull/17104#pullrequestreview-4672178750) - 2026-07-10
 * [Pull Request] [payload_attestation_data changing path parameter to query parameter ](https://github.com/OffchainLabs/prysm/pull/17155) - 2026-07-10
 * [Commit] [Ptc api returns 204 instead of 503 for block not found (#16851)](https://github.com/OffchainLabs/prysm/commit/f9c7a8d6bdc0f3398f03a02c844d3f498189ccd0) - 2026-07-11
+* [Review] [Review on: wire progressive ssz functions into state fields](https://github.com/OffchainLabs/prysm/pull/16860#pullrequestreview-4688894289) - 2026-07-13
+* [Review] [Review on: Improve Web3Signer HTTP transport controls: timeout, CA cert, Client auth](https://github.com/OffchainLabs/prysm/pull/17160#pullrequestreview-4688831471) - 2026-07-13
+* [Review] [Review on: Replace protobuf definition for events with native Go struct](https://github.com/OffchainLabs/prysm/pull/16923#pullrequestreview-4688800800) - 2026-07-13
+* [Pull Request] [properly switches to v2 proposer duties post gloas](https://github.com/OffchainLabs/prysm/pull/17171) - 2026-07-13
+* [Review] [Review on: making duties failures independent of each other](https://github.com/OffchainLabs/prysm/pull/17036#pullrequestreview-4686089269) - 2026-07-13
+* [Review] [Review on: adding proper json fallback for ssz](https://github.com/OffchainLabs/prysm/pull/17137#pullrequestreview-4688131688) - 2026-07-13
+* [Review] [Review on: wait for clock on da](https://github.com/OffchainLabs/prysm/pull/17168#pullrequestreview-4686419502) - 2026-07-13
+* [Commit] [Fix event stream reconnect (#17120)](https://github.com/OffchainLabs/prysm/commit/17e4179e3fefb9262b8792dca7ee3492697d2400) - 2026-07-13
+* [Commit] [payload_attestation_data changing path parameter to query parameter  (#17155)](https://github.com/OffchainLabs/prysm/commit/ecd1c0bde9e79a8c26062bcd6f3716e884639e05) - 2026-07-13
+* [Commit] [ux improvement on beacon api flags (#17159)](https://github.com/OffchainLabs/prysm/commit/3980ad1c68d4ce829da99b40323050b14b1d3111) - 2026-07-13
 ## Q2 2026
 
 

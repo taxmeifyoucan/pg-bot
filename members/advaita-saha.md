@@ -35,6 +35,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [builds MUST start on forkchoiceState.headBlockHash](https://github.com/status-im/nimbus-eth1/pull/4427) - 2026-07-07
 * [Review] [Review on: builds MUST start on forkchoiceState.headBlockHash](https://github.com/status-im/nimbus-eth1/pull/4427#pullrequestreview-4643256340) - 2026-07-07
 * [Pull Request] [txpool periodic eviction for better pool churn](https://github.com/status-im/nimbus-eth1/pull/4460) - 2026-07-12
+* [Pull Request] [wrap each trial's runComputation in a ledger savepoint ](https://github.com/status-im/nimbus-eth1/pull/4475) - 2026-07-13
 ## Q2 2026
 
 

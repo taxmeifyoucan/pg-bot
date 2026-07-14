@@ -123,6 +123,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf(engine): reuse pool senders in newPayload recovery](https://github.com/NethermindEth/nethermind/pull/12390#pullrequestreview-4680118201) - 2026-07-12
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12394#pullrequestreview-4679856136) - 2026-07-12
 * [Pull Request] [Ignore sepolia-devnet-2 L1 in superchain chainspec generation](https://github.com/NethermindEth/nethermind/pull/12398) - 2026-07-12
+* [Review] [Review on: fix(network): skip peer candidates with an unresolved TCP port](https://github.com/NethermindEth/nethermind/pull/12408#pullrequestreview-4685812085) - 2026-07-13
+* [Review] [Review on: Split and prioritize heavy same-sender groups in block prewarmer](https://github.com/NethermindEth/nethermind/pull/12425#pullrequestreview-4686373470) - 2026-07-13
+* [Review] [Review on: feat(flatdb): persist via SST ingestion (opt-in)](https://github.com/NethermindEth/nethermind/pull/12401#pullrequestreview-4683487186) - 2026-07-13
+* [Review] [Review on: perf: precompile result cache survives blocks](https://github.com/NethermindEth/nethermind/pull/12406#pullrequestreview-4682895194) - 2026-07-13
+* [Review] [Review on: perf(evm): memoize intrinsic gas on the transaction](https://github.com/NethermindEth/nethermind/pull/12411#pullrequestreview-4686021213) - 2026-07-13
+* [Review] [Review on: perf(flat): sealed snapshot counts, HintGet promotion skip, prewarm-filter hash](https://github.com/NethermindEth/nethermind/pull/12420#pullrequestreview-4685778039) - 2026-07-13
+* [Review] [Review on: perf(engine): reuse pool senders in newPayload recovery](https://github.com/NethermindEth/nethermind/pull/12390#pullrequestreview-4682645455) - 2026-07-13
+* [Review] [Review on: perf(crypto): back the sender cache with AssociativeCache instead of ClockCache](https://github.com/NethermindEth/nethermind/pull/12418#pullrequestreview-4684873355) - 2026-07-13
+* [Review] [Review on: perf(prewarm): hint the EIP-2935 parent-hash slot to the prewarmer](https://github.com/NethermindEth/nethermind/pull/12410#pullrequestreview-4682668312) - 2026-07-13
+* [Commit] [Ignore sepolia-devnet-2 L1 in superchain chainspec generation (#12398)](https://github.com/NethermindEth/nethermind/commit/fe5066e9c331e649df2bc235780ab38e2cdd9522) - 2026-07-13
+* [Commit] [perf(evm): drop redundant gas re-check in UpdateGas (#12412)](https://github.com/NethermindEth/nethermind/commit/3717e8013e2d27d1e9faf072e7fedce659ecee90) - 2026-07-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

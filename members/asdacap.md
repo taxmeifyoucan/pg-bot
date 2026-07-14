@@ -128,6 +128,27 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(evm): clear EVM memory lazily on growth, only the exposed gaps](https://github.com/NethermindEth/nethermind/pull/12387#pullrequestreview-4679234831) - 2026-07-12
 * [Commit] [refactor(init): migrate plugin Init hooks to steps and retire the hook (#12326)](https://github.com/NethermindEth/nethermind/commit/61805129db29e1d5df61f8e72f9419ee72a72472) - 2026-07-12
 * [Commit] [perf(state): replace per-key journal stacks with intrusive PrevIdx change chains (#12340)](https://github.com/NethermindEth/nethermind/commit/dbb6f6085b55120cb4316162c0fa46d8c3fccbc8) - 2026-07-12
+* [Pull Request] [feat: [StableApi] attribute + NETH008 analyzer for plugin-facing interfaces](https://github.com/NethermindEth/nethermind/pull/12431) - 2026-07-14
+* [Review] [Review on: fix(sync): preserve block-info metadata when re-inserting the same hash into a chain level](https://github.com/NethermindEth/nethermind/pull/12310#pullrequestreview-4690215769) - 2026-07-14
+* [Review] [Review on: Run EXPB auto-benchmarks 3x per payload set and report mean of runs](https://github.com/NethermindEth/nethermind/pull/12292#pullrequestreview-4690206504) - 2026-07-14
+* [Review] [Review on: ci: skip the no-intrinsics variant for plumbing test projects](https://github.com/NethermindEth/nethermind/pull/12391#pullrequestreview-4690204209) - 2026-07-14
+* [Review] [Review on: ci: build the PR sync image once and share it across sync-pr-gate legs](https://github.com/NethermindEth/nethermind/pull/12392#pullrequestreview-4690202203) - 2026-07-14
+* [Pull Request] [Extract censorship detector into plugin](https://github.com/NethermindEth/nethermind/pull/12432) - 2026-07-14
+* [Pull Request] [Convert AuRa block producer wiring to DI](https://github.com/NethermindEth/nethermind/pull/12414) - 2026-07-13
+* [Review] [Review on: Convert AuRa block producer wiring to DI](https://github.com/NethermindEth/nethermind/pull/12414#pullrequestreview-4682118948) - 2026-07-13
+* [Pull Request] [fix(flat): keep writer-held shared arenas alive until the write finishes](https://github.com/NethermindEth/nethermind/pull/12416) - 2026-07-13
+* [Review] [Review on: perf(flat): publish trie-commit nodes through address-owned maps, clear pooled maps without stripe locks](https://github.com/NethermindEth/nethermind/pull/12421#pullrequestreview-4685338078) - 2026-07-13
+* [Pull Request] [fix(era): advance finality during replay](https://github.com/NethermindEth/nethermind/pull/12423) - 2026-07-13
+* [Review] [Review on: perf(flat): sealed snapshot counts, HintGet promotion skip, prewarm-filter hash](https://github.com/NethermindEth/nethermind/pull/12420#pullrequestreview-4685223633) - 2026-07-13
+* [Review] [Review on: perf(threading): reduce MCS lock handoff latency](https://github.com/NethermindEth/nethermind/pull/12417#pullrequestreview-4685155846) - 2026-07-13
+* [Pull Request] [refactor: remove no-op precalculated intrinsic gas plumbing](https://github.com/NethermindEth/nethermind/pull/12422) - 2026-07-13
+* [Review] [Review on: perf(engine): reuse pool senders in newPayload recovery](https://github.com/NethermindEth/nethermind/pull/12390#pullrequestreview-4681338461) - 2026-07-13
+* [Review] [Review on: perf(prewarm): hint the EIP-2935 parent-hash slot to the prewarmer](https://github.com/NethermindEth/nethermind/pull/12410#pullrequestreview-4683742939) - 2026-07-13
+* [Commit] [fix(flat): keep writer-held shared arenas alive until the write finishes (#12416)](https://github.com/NethermindEth/nethermind/commit/8e92d2102d78fe05a3fa7f3623dc01e95fd88901) - 2026-07-13
+* [Commit] [refactor(evm): make the code cache a DI-injected ICodeCache (#12386)](https://github.com/NethermindEth/nethermind/commit/0b27f9df98b3a8d8c9ed22d31d0a29ed57894d64) - 2026-07-13
+* [Commit] [remove IPreBlockCaches wrapping (#12385)](https://github.com/NethermindEth/nethermind/commit/0552791d50dfb055e3e981504368ab1980f0ae7f) - 2026-07-13
+* [Commit] [fix(era): advance finality during replay (#12423)](https://github.com/NethermindEth/nethermind/commit/3fbc3235afb537a278cb946c2d1cf28b77d75dea) - 2026-07-13
+* [Commit] [refactor: remove no-op precalculated intrinsic gas plumbing (#12422)](https://github.com/NethermindEth/nethermind/commit/e7e9b47366a9c9130be2689b1a6d73688f4c75f5) - 2026-07-13
 ## Q2 2026
 
 

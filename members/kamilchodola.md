@@ -51,6 +51,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Add fusaka payload set to EXPB reproducible benchmarks workflow](https://github.com/NethermindEth/nethermind/pull/12384#pullrequestreview-4674305721) - 2026-07-10
 * [Pull Request] [perf(bal): reuse cached wire hash for block access list hash](https://github.com/NethermindEth/nethermind/pull/12381) - 2026-07-10
 * [Pull Request] [ci: build test binaries once per RID and share via artifact](https://github.com/NethermindEth/nethermind/pull/12371) - 2026-07-10
+* [Pull Request] [Split and prioritize heavy same-sender groups in block prewarmer](https://github.com/NethermindEth/nethermind/pull/12425) - 2026-07-13
+* [Commit] [Split and prioritize heavy same-sender groups in block prewarmer (#12425)](https://github.com/NethermindEth/nethermind/commit/158b33c8a1b5b82feaaace3e6f4c6400390c372d) - 2026-07-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 ## Q2 2026

@@ -24,6 +24,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: update vertx to 4.5.27](https://github.com/besu-eth/besu/pull/10770#pullrequestreview-4652339504) - 2026-07-08
 * [Pull Request] [fix: add missing source artifact checksums for vertx 4.5.27](https://github.com/besu-eth/besu/pull/10781) - 2026-07-09
 * [Commit] [fix: add missing source artifact checksums for vertx 4.5.27 (#10781)](https://github.com/besu-eth/besu/commit/99d44dfdd316487001401c050ac06b1fe0bb75f9) - 2026-07-09
+* [Review] [Review on: gradle metadata verification: trust source and javadoc jars](https://github.com/besu-eth/besu/pull/10797#pullrequestreview-4682890614) - 2026-07-13
 ## Q2 2026
 
 

@@ -33,6 +33,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [feat(pow-removal): Phase 4/5 cleanup - remove PowAlgorithm and DifficultyCalculatorTests (#10675)](https://github.com/besu-eth/besu/commit/2661dd8fd409df50e17ecedc7cb1fef99e07c834) - 2026-07-08
 * [Commit] [update vertx to 4.5.27 (#10770)](https://github.com/besu-eth/besu/commit/f66bf61a473c7a452e023055ab1d5795d0e3559b) - 2026-07-08
 * [Review] [Review on: fix: add missing source artifact checksums for vertx 4.5.27](https://github.com/besu-eth/besu/pull/10781#pullrequestreview-4661887144) - 2026-07-09
+* [Review] [Review on: Fix/qbft mining continues past ttd](https://github.com/besu-eth/besu/pull/10733#pullrequestreview-4690261059) - 2026-07-14
+* [Review] [Review on: Add Bonsai debug modified accounts RPC methods](https://github.com/besu-eth/besu/pull/10487#pullrequestreview-4690134218) - 2026-07-14
+* [Review] [Review on: Rotate changelog post 26.7.0](https://github.com/besu-eth/besu/pull/10799#pullrequestreview-4689807438) - 2026-07-13
+* [Pull Request] [gradle metadata verification: trust source and javadoc jars](https://github.com/besu-eth/besu/pull/10797) - 2026-07-13
 ## Q2 2026
 
 

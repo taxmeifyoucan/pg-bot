@@ -59,6 +59,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441#pullrequestreview-4663354669) - 2026-07-09
 * [Commit] [Add basic fork tests for Heze (#5440)](https://github.com/ethereum/consensus-specs/commit/ad18f93d40112c7ef07d68057eca22fb48833cdd) - 2026-07-09
 * [Pull Request] [Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443) - 2026-07-10
+* [Review] [Review on: Add encrypted mempool (EIP-8184)](https://github.com/ethereum/consensus-specs/pull/5403#pullrequestreview-4685401188) - 2026-07-13
+* [Review] [Review on: Update actions/stale action to v10.4.0](https://github.com/ethereum/consensus-specs/pull/5447#pullrequestreview-4685149991) - 2026-07-13
+* [Review] [Review on: Update actions/labeler action to v6.2.0](https://github.com/ethereum/consensus-specs/pull/5446#pullrequestreview-4685147685) - 2026-07-13
+* [Review] [Review on: Update astral-sh/setup-uv action to v8.3.2](https://github.com/ethereum/consensus-specs/pull/5444#pullrequestreview-4685143769) - 2026-07-13
+* [Review] [Review on: Update dependency ckzg to v2.1.8](https://github.com/ethereum/consensus-specs/pull/5445#pullrequestreview-4685140162) - 2026-07-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

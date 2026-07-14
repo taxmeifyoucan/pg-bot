@@ -25,6 +25,13 @@ Team: Reth
 * [Review] [Review on: perf(txpool): specialize small discard lookups](https://github.com/paradigmxyz/reth/pull/26345#pullrequestreview-4667451995) - 2026-07-09
 * [Review] [Review on: perf(txpool): forward same-origin validation batches](https://github.com/paradigmxyz/reth/pull/26341#pullrequestreview-4667215563) - 2026-07-09
 * [Review] [Review on: perf(txpool): reduce Ethereum validator allocation overhead](https://github.com/paradigmxyz/reth/pull/26343#pullrequestreview-4667233484) - 2026-07-09
+* [Review] [Review on: chore: remove invalid code owners](https://github.com/paradigmxyz/reth/pull/26383#pullrequestreview-4689990786) - 2026-07-14
+* [Pull Request] [feat(rpc): restore evm2 RPC support](https://github.com/paradigmxyz/reth/pull/26381) - 2026-07-13
+* [Pull Request] [refactor: replace revm execution paths with evm2](https://github.com/paradigmxyz/reth/pull/26382) - 2026-07-13
+
+[paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
+* [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
+* [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13
 ## Q2 2026
 
 

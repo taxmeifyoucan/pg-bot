@@ -57,6 +57,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [[perf] execution: disable gzip compression for engineapi (#22367)](https://github.com/erigontech/erigon/commit/72b364cbdfb7aa0d792b8c199300b5e92b7e0b5c) - 2026-07-10
 * [Commit] [execution: implement EIP-2780 resource-based intrinsic transaction gas (#22053)](https://github.com/erigontech/erigon/commit/60dd779ce0c7518da6984fa55cbdff4c47b1ad7c) - 2026-07-10
 * [Commit] [execution: update eest devnet fixtures to glamsterdam-devnet@v6.1.1 (#22023)](https://github.com/erigontech/erigon/commit/3a8ff4f6682c2efbb703ba0c8130fa013e3ec67d) - 2026-07-10
+* [Review] [Review on: node, commitment: fix parallel exec deadlock on many-core machines](https://github.com/erigontech/erigon/pull/22408#pullrequestreview-4683169145) - 2026-07-13
+* [Pull Request] [[r3.5] db/version: app version 3.5.2](https://github.com/erigontech/erigon/pull/22431) - 2026-07-13
+* [Review] [Review on: all: lint modernize interface{} to any across codebase and test files](https://github.com/erigontech/erigon/pull/22427#pullrequestreview-4683208489) - 2026-07-13
+* [Review] [Review on: ci: fix empty docker tag + add Discord failure alert (regression from #22386)](https://github.com/erigontech/erigon/pull/22417#pullrequestreview-4683129324) - 2026-07-13
+* [Commit] [execution: implement EIP-8037 updates for glamsterdam-devnet-6 (#22122)](https://github.com/erigontech/erigon/commit/b887c6b9530d13b31f3b9fa427026dfc5d3294fa) - 2026-07-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

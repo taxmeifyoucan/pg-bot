@@ -17,6 +17,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: v1.44.0 release (#9495)](https://github.com/ChainSafe/lodestar/commit/e3d733b7b5107122ff90fc89021a9ab404198c39) - 2026-07-01
 * [Review] [Review on: fix: add pubkeyCache initialization overhead](https://github.com/ChainSafe/lodestar/pull/9640#pullrequestreview-4672077823) - 2026-07-10
 
+* [Issue] [Add Gloas lightclient api support](https://github.com/ChainSafe/lodestar/issues/9648) - 2026-07-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

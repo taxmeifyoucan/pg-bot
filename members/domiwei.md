@@ -30,6 +30,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl: catch up Gloas alpha11 execution requests (#22091)](https://github.com/erigontech/erigon/commit/45b5971c3a102bf48ebf0ec900808bff5c762a12) - 2026-07-09
 * [Review] [Review on: cl/persistence: fix caplin historical state reconstruction loop at bellatrix transition](https://github.com/erigontech/erigon/pull/22345#pullrequestreview-4669600179) - 2026-07-10
 * [Pull Request] [[r3.5] cl/persistence: fix caplin historical state reconstruction loop at bellatrix transition](https://github.com/erigontech/erigon/pull/22370) - 2026-07-10
+* [Review] [Review on: caplin: blobs download logs rounding speed too much](https://github.com/erigontech/erigon/pull/22436#pullrequestreview-4686180046) - 2026-07-13
+* [Review] [Review on: [SharovBot] cl/sentinel: downgrade 'Could not convert to peer info' log from Error to Warn](https://github.com/erigontech/erigon/pull/22306#pullrequestreview-4686183403) - 2026-07-13
+* [Review] [Review on: cl/beacon: add missing metadata fields to blob_sidecars response envelope](https://github.com/erigontech/erigon/pull/22414#pullrequestreview-4683200926) - 2026-07-13
+* [Review] [Review on: all: lint modernize interface{} to any across codebase and test files](https://github.com/erigontech/erigon/pull/22427#pullrequestreview-4683682682) - 2026-07-13
+* [Review] [Review on: db, execution, cl, node: nil external pointers before returning objects to sync.Pool](https://github.com/erigontech/erigon/pull/22410#pullrequestreview-4682166680) - 2026-07-13
 ## Q2 2026
 
 

@@ -14,6 +14,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: perf(net): cache full transaction propagation encoding](https://github.com/paradigmxyz/reth/pull/26012#pullrequestreview-4619291435) - 2026-07-02
 * [Review] [Review on: refactor(engine): drop parallel state root](https://github.com/paradigmxyz/reth/pull/26069#pullrequestreview-4619089513) - 2026-07-02
+* [Review] [Review on: feat(engine): pass parent state to the post-execution hashed-state hook](https://github.com/paradigmxyz/reth/pull/26330#pullrequestreview-4686490395) - 2026-07-13
+* [Review] [Review on: fix(tree): elide empty new accounts from hashed state](https://github.com/paradigmxyz/reth/pull/26367#pullrequestreview-4684428283) - 2026-07-13
 ## Q2 2026
 
 

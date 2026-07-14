@@ -128,12 +128,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439) - 2026-07-07
 * [Review] [Review on: Remove `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD` in Gloas](https://github.com/ethereum/consensus-specs/pull/5436#pullrequestreview-4644162719) - 2026-07-07
 * [Commit] [Restrict builder deposits to payload builders (#5439)](https://github.com/ethereum/consensus-specs/commit/84454a9d57f4f49f74c78e9f375347baf30474f2) - 2026-07-07
+* [Review] [Review on: Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443#pullrequestreview-4685743208) - 2026-07-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
 
 * [Review] [Review on: Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899#pullrequestreview-4653284200) - 2026-07-08
 * [Review] [Review on: Config: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4674661960) - 2026-07-10
+* [Review] [Review on: Add EIP: Align Checkpoint with Epoch Boundary Block](https://github.com/ethereum/EIPs/pull/11871#pullrequestreview-4687621599) - 2026-07-13
+* [Review] [Review on: Config: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4687598927) - 2026-07-13
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 

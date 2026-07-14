@@ -94,6 +94,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Mark full node gas limit (#17093)](https://github.com/OffchainLabs/prysm/commit/0ae17750b28a68435c45da785afd39966fd0a0ca) - 2026-07-10
 * [Commit] [Reset self-build envelope signature failure budget every slot (#17104)](https://github.com/OffchainLabs/prysm/commit/126bce6be9f2a530b29fd86e0adf1af5b2bf196b) - 2026-07-10
 * [Commit] [Fix flaky pending attestation bucket tests (#17154)](https://github.com/OffchainLabs/prysm/commit/9ab797b7d587a0344d095a0fce1d3c3ec3e31a05) - 2026-07-10
+* [Pull Request] [Verify by-root block signatures before pending-queue insert](https://github.com/OffchainLabs/prysm/pull/17172) - 2026-07-13
+* [Pull Request] [Stop downscoring peers when pruning pending Gloas data columns](https://github.com/OffchainLabs/prysm/pull/17170) - 2026-07-13
+* [Review] [Review on: wait for clock on da](https://github.com/OffchainLabs/prysm/pull/17168#pullrequestreview-4686011889) - 2026-07-13
+* [Review] [Review on: Bound Gloas data column sidecar slot before queueing](https://github.com/OffchainLabs/prysm/pull/17157#pullrequestreview-4685554687) - 2026-07-13
+* [Commit] [Stop downscoring peers when pruning pending Gloas data columns (#17170)](https://github.com/OffchainLabs/prysm/commit/114ca506675289d7b572eb9b3ebfbd216dd76f4b) - 2026-07-13
+* [Commit] [Re-verify builder deposit signatures when in-batch index reuse evicts a pubkey (#17111)](https://github.com/OffchainLabs/prysm/commit/d3ae6c9d6f8359670f0ba334c1a97559aaaf2b37) - 2026-07-13
+* [Commit] [Apply Gloas state-diff pending deposits against pre-upgrade list (#17158)](https://github.com/OffchainLabs/prysm/commit/074178613102232e294a900fb215813bd54b146f) - 2026-07-13
+* [Commit] [Bound Gloas data column sidecar slot before queueing (#17157)](https://github.com/OffchainLabs/prysm/commit/710ce3ba75ceb79a32202ac7dcae0802b0ae27f8) - 2026-07-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

@@ -47,8 +47,18 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [EIP repricings & existing-EIP updates (2780/8037/8038 + fixes) (#12214)](https://github.com/NethermindEth/nethermind/commit/642e44fd47535d34fdad7d1f3a1d9470677e2c01) - 2026-07-10
 * [Commit] [EIP-8246: Remove SELFDESTRUCT burn (#12213)](https://github.com/NethermindEth/nethermind/commit/aba8ea2361b22f02b909c00b9a654305a4f5e76e) - 2026-07-10
 * [Commit] [test: update Pyspec fixtures to Glamsterdam devnet-6 (v6.1.0) and zkEVM v0.5.0](https://github.com/NethermindEth/nethermind/commit/8574b63640cb817468da2303f8c4907dfb8598b4) - 2026-07-10
+* [Review] [Review on: Split and prioritize heavy same-sender groups in block prewarmer](https://github.com/NethermindEth/nethermind/pull/12425#pullrequestreview-4686672448) - 2026-07-13
+* [Review] [Review on: perf(prewarm): execute warm transactions with real fee and nonce semantics](https://github.com/NethermindEth/nethermind/pull/12413#pullrequestreview-4686683261) - 2026-07-13
+* [Pull Request] [fix(evm): align EIP-8037 spill-refund accounting with the EELS reference](https://github.com/NethermindEth/nethermind/pull/12419) - 2026-07-13
+* [Review] [Review on: Batch EIP-2537 pairing check Miller loops and use affine MSM](https://github.com/NethermindEth/nethermind/pull/12329#pullrequestreview-4684437140) - 2026-07-13
+* [Review] [Review on: perf(prewarm): hint the EIP-2935 parent-hash slot to the prewarmer](https://github.com/NethermindEth/nethermind/pull/12410#pullrequestreview-4684342528) - 2026-07-13
+* [Commit] [fix(evm): align EIP-8037 spill-refund accounting with the EELS reference (#12419)](https://github.com/NethermindEth/nethermind/commit/6e95a7a379753af579d5f77d21300863210535e6) - 2026-07-13
+* [Commit] [fix(evm): address devnet-6 state-gas review findings (#12369)](https://github.com/NethermindEth/nethermind/commit/389b75c0fa261b0ecbf6a1d848c6350565e7d619) - 2026-07-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 ## Q2 2026
 
 

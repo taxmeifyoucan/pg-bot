@@ -80,6 +80,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Test Release Tracker: `glamsterdam-devnet@v7.2.0`](https://github.com/ethereum/execution-specs/issues/3147) - 2026-07-10
 * [Review] [Review on: docs(test-consume): fix and augment enginex docs](https://github.com/ethereum/execution-specs/pull/3143#pullrequestreview-4677549317) - 2026-07-11
 * [Review] [Review on: feat(test-consume): set HIVE_EXPECT_DEEP_REORGS in the multi-test client environment](https://github.com/ethereum/execution-specs/pull/3145#pullrequestreview-4677381747) - 2026-07-11
+* [Review] [Review on: fix(test-benchmark): correct compute benchmarks that ran below worst case](https://github.com/ethereum/execution-specs/pull/3136#pullrequestreview-4683987730) - 2026-07-13
+* [Review] [Review on: fix(test-benchmark): make audited compute benchmarks measure real work](https://github.com/ethereum/execution-specs/pull/3135#pullrequestreview-4683970483) - 2026-07-13
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

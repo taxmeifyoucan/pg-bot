@@ -13,6 +13,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [🤖 CI: pin geth to `master-e5c5e18` in genesis-sync tests](https://github.com/sigp/lighthouse/pull/9605) - 2026-07-09
+* [Pull Request] [Implement Fast Confirmation Rule](https://github.com/sigp/lighthouse/pull/8951) - 2026-07-13
 ## Q2 2026
 
 

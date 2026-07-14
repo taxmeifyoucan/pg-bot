@@ -27,6 +27,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Move process block parallel code into separate module](https://github.com/status-im/nimbus-eth1/pull/4450) - 2026-07-09
 * [Commit] [Move process block parallel code into separate module (#4450)](https://github.com/status-im/nimbus-eth1/commit/0f4aa25c1bdd4be9bb98146680385371b1cd53b9) - 2026-07-09
 * [Commit] [Parallel config refactor and improvements (#4440)](https://github.com/status-im/nimbus-eth1/commit/3e256f2562b5b64fdc2dd550125a0af2c6b1f148) - 2026-07-09
+* [Pull Request] [Lock free block access list builder](https://github.com/status-im/nimbus-eth1/pull/4478) - 2026-07-13
+* [Commit] [Cache and reuse vmState in forked chain (#4452)](https://github.com/status-im/nimbus-eth1/commit/51547dcd195c2659155905771b59690d00bc2cbd) - 2026-07-13
 ## Q2 2026
 
 

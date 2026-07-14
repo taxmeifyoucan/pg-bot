@@ -173,6 +173,26 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [perf] execution: disable gzip compression for engineapi](https://github.com/erigontech/erigon/pull/22367#pullrequestreview-4669584607) - 2026-07-10
 * [Issue] [kurtosis: assertoor_regular_serial_test flaky — eoa-transactions-test funding starvation (insufficient funds → empty blocks → 30-min timeout)](https://github.com/erigontech/erigon/issues/22377) - 2026-07-10
 * [Commit] [execution/engineapi, execution/execmodule: integration tests for reorg/unwind gaps (#22300)](https://github.com/erigontech/erigon/commit/103efbe3ff20c597fb7f0d2973898976b65696c1) - 2026-07-12
+* [Review] [Review on: execution/stagedsync: fix worker starvation in high-tx-count blocks by optimizing parallel-exec dispatch](https://github.com/erigontech/erigon/pull/22336#pullrequestreview-4683756255) - 2026-07-13
+* [Review] [Review on: rpc: implement testing_commitBlockV1](https://github.com/erigontech/erigon/pull/22403#pullrequestreview-4683981570) - 2026-07-13
+* [Pull Request] [[r3.5] ChangeLog: add v3.5.2 release notes](https://github.com/erigontech/erigon/pull/22442) - 2026-07-13
+* [Pull Request] [execution/protocol/rules: drop redundant per-tx gas-mismatch dump](https://github.com/erigontech/erigon/pull/22441) - 2026-07-13
+* [Pull Request] [db/state/execctx, execution/cache: tombstone deleted cache entries](https://github.com/erigontech/erigon/pull/22444) - 2026-07-13
+* [Review] [Review on: rpc: makes queryLimit configurabile via --rpc.logs.querylimit](https://github.com/erigontech/erigon/pull/22418#pullrequestreview-4684055897) - 2026-07-13
+* [Review] [Review on: execution/state: cache-free parallel execution via versionMap unification (noMaterialize) + warm-read caching](https://github.com/erigontech/erigon/pull/22409#pullrequestreview-4684783024) - 2026-07-13
+* [Review] [Review on: [DO-NOT-MERGE] execution: implement EIP-7928 fixes for tests-glamsterdam-devnet@v6.1.1](https://github.com/erigontech/erigon/pull/22161#pullrequestreview-4685656090) - 2026-07-13
+* [Review] [Review on: execution: implement EIP-8246 selfdestruct burn removal](https://github.com/erigontech/erigon/pull/22136#pullrequestreview-4682798941) - 2026-07-13
+* [Review] [Review on: [r3.5] db/version: app version 3.5.2](https://github.com/erigontech/erigon/pull/22431#pullrequestreview-4683713297) - 2026-07-13
+* [Review] [Review on: all: lint enable atomictypes, forvar, and mapsloop analyzers under modernize linter](https://github.com/erigontech/erigon/pull/22435#pullrequestreview-4684343263) - 2026-07-13
+* [Review] [Review on: execution/bal: serve BALs up to and beyond the WSP](https://github.com/erigontech/erigon/pull/21764#pullrequestreview-4684317593) - 2026-07-13
+* [Pull Request] [cl/sentinel: lower undialable-peer discovery log from error to debug](https://github.com/erigontech/erigon/pull/22433) - 2026-07-13
+* [Pull Request] [db/state, execution/stagedsync: consolidate accumulator swap/restore behind SwapChangesetAccumulatorLocked](https://github.com/erigontech/erigon/pull/22160) - 2026-07-13
+* [Review] [Review on: [3.5] cherry-pick rpc: fix nil-pointer panic in gzip batch flush race (#22338)](https://github.com/erigontech/erigon/pull/22383#pullrequestreview-4683032654) - 2026-07-13
+* [Issue] [execution/state: reverting a SELFDESTRUCT deletes an earlier same-tx BalancePath write from the parallel TxOut](https://github.com/erigontech/erigon/issues/22419) - 2026-07-13
+* [Issue] [CI: Docker image publish on main broken — invalid tag ":" (DOCKER_PUBLISH_CONDITION expands empty)](https://github.com/erigontech/erigon/issues/22425) - 2026-07-13
+* [Issue] [rpc: handleBatch deadlock — wg.Add(len(msgs)) with only len(calls) goroutines hangs the connection (unauthenticated DoS)](https://github.com/erigontech/erigon/issues/22424) - 2026-07-13
+* [Commit] [cl/sentinel: lower undialable-peer discovery log from error to debug (#22433)](https://github.com/erigontech/erigon/commit/ac31d795f42460f7bb6517d1979335768b8be370) - 2026-07-13
+* [Commit] [db/state, execution/stagedsync: consolidate accumulator swap/restore behind SwapChangesetAccumulatorLocked (#22160)](https://github.com/erigontech/erigon/commit/3e73a60f6b01fd280f7905bdeeb8afe72d4e46ea) - 2026-07-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

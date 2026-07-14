@@ -6,6 +6,12 @@ Github: [@nixorokish](https://github.com/nixorokish)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Consensus (ACDC) #183, July 23 2026](https://github.com/ethereum/pm/issues/2158) - 2026-07-13
+* [Issue] [All Core Devs - Execution (ACDE) #241, July 16, 2026](https://github.com/ethereum/pm/issues/2157) - 2026-07-13
 ## Q2 2026
 
 

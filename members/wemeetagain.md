@@ -18,6 +18,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Update EIP-8282: Reduce verbosity, defer consensus-layer detail to consensus-specs](https://github.com/ethereum/EIPs/pull/11869) - 2026-07-06
 * [Review] [Review on: Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859#pullrequestreview-4638077993) - 2026-07-06
 * [Review] [Review on: Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899#pullrequestreview-4654194568) - 2026-07-08
+* [Review] [Review on: Config: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4687410678) - 2026-07-13
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
 
@@ -33,6 +34,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: handle malformed ENR location as error](https://github.com/ChainSafe/lodestar/pull/9522#pullrequestreview-4664819632) - 2026-07-09
 * [Review] [Review on: feat: add peer manager internals metrics and dashboard](https://github.com/ChainSafe/lodestar/pull/9523#pullrequestreview-4664703456) - 2026-07-09
 * [Review] [Review on: fix: add pubkeyCache initialization overhead](https://github.com/ChainSafe/lodestar/pull/9640#pullrequestreview-4672550743) - 2026-07-10
+* [Pull Request] [feat: make lodestar-z BLS opt-in](https://github.com/ChainSafe/lodestar/pull/9652) - 2026-07-13
+* [Pull Request] [chore: bump libp2p-quic to 2.1.1](https://github.com/ChainSafe/lodestar/pull/9651) - 2026-07-13
+* [Commit] [chore: bump libp2p-quic to 2.1.1 (#9651)](https://github.com/ChainSafe/lodestar/commit/242f99edcf7274831396c624be8088021edbdf4e) - 2026-07-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -52,6 +56,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(bindings): configurable pubkey cache growth step](https://github.com/ChainSafe/lodestar-z/pull/481#pullrequestreview-4672527493) - 2026-07-10
 * [Review] [Review on: chore: bump zapi to include musl build](https://github.com/ChainSafe/lodestar-z/pull/485#pullrequestreview-4672832126) - 2026-07-10
 * [Review] [Review on: fix: avoid set](https://github.com/ChainSafe/lodestar-z/pull/484#pullrequestreview-4672648038) - 2026-07-10
+* [Review] [Review on: chore: silence debug log when used in release builds](https://github.com/ChainSafe/lodestar-z/pull/486#pullrequestreview-4688423668) - 2026-07-13
 ## Q2 2026
 
 

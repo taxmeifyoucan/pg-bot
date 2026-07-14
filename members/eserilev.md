@@ -23,6 +23,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Gloas alpha spec 12 changes](https://github.com/sigp/lighthouse/pull/9596) - 2026-07-08
 * [Issue] [Implement gloas block proposer circuit breaker](https://github.com/sigp/lighthouse/issues/9598) - 2026-07-08
 * [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4679738766) - 2026-07-12
+* [Pull Request] [Align gloas proposer reorg weight logic w/ spec](https://github.com/sigp/lighthouse/pull/9625) - 2026-07-13
+* [Review] [Review on: Align gloas proposer reorg weight logic w/ spec](https://github.com/sigp/lighthouse/pull/9625#pullrequestreview-4686009343) - 2026-07-13
 ## Q2 2026
 
 

@@ -37,6 +37,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db/state: skip guaranteed-miss history-file probe in HistorySeek](https://github.com/erigontech/erigon/pull/22324) - 2026-07-08
 * [Pull Request] [compatible branch for jochemnet36-noref-base.tar.zst](https://github.com/erigontech/erigon/pull/22316) - 2026-07-08
 * [Commit] [db/seg/sais: remove unused byte-text (_8_32) SAIS variant (#22309)](https://github.com/erigontech/erigon/commit/84b0df9935003131dad1f440421775e67e23e380) - 2026-07-08
+* [Review] [Review on: execution/stagedsync: fix worker starvation in high-tx-count blocks by optimizing parallel-exec dispatch](https://github.com/erigontech/erigon/pull/22336#pullrequestreview-4683480113) - 2026-07-13
+* [Pull Request] [db/state: elide no-op deletes of absent keys in DomainDel](https://github.com/erigontech/erigon/pull/22437) - 2026-07-13
+* [Pull Request] [db/seg, db/state: non-blocking .kv reads via residency probe + bounded warm (WIP)](https://github.com/erigontech/erigon/pull/22439) - 2026-07-13
+* [Review] [Review on: cl, db/kv/mdbx: don't drop caplin/history db dir on every chain-tip flush](https://github.com/erigontech/erigon/pull/22428#pullrequestreview-4683398615) - 2026-07-13
 ## Q2 2026
 
 

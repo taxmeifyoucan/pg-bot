@@ -150,6 +150,8 @@ Team: Erigon
 * [Commit] [cl: reduce per-call hashing allocations in shuffling, sync committee, merkle proofs (#22406)](https://github.com/erigontech/erigon/commit/31246d88579ad80acda8d92e2402bccaa3bbce8d) - 2026-07-12
 * [Commit] [execution/commitment: rebuild collapsed storage from the account leaf on re-expansion (#22405)](https://github.com/erigontech/erigon/commit/8e6f2e75523d07257d2c1c12f32bbea590fca71b) - 2026-07-12
 * [Commit] [execution/commitment: fix parallel deep-fold storage-root persistence (#22401)](https://github.com/erigontech/erigon/commit/9a9b652a6237d941c8c09435b5f2b107a4efe23d) - 2026-07-12
+* [Commit] [[r3.6] db: enable plain commitment (references off) + 3.6 webseeds and branch (#21376)](https://github.com/erigontech/erigon/commit/ff7b1c96c83a55ad6e4b49e2cf12a85182893fe6) - 2026-07-13
+* [Commit] [cl/antiquary: prune caplin state indexing DB after freezing to snapshots (#22396)](https://github.com/erigontech/erigon/commit/467aaebf980aeb2f25c691b88bd4de6d2f027729) - 2026-07-13
 ## Q2 2026
 
 

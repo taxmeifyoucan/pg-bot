@@ -16,6 +16,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Consensus (ACDC) #182, July 9 2026](https://github.com/ethereum/pm/issues/2152) - 2026-07-08
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7773: re-add CFI/restore EIP-8136/EIP-8189 status](https://github.com/ethereum/EIPs/pull/11917#pullrequestreview-4684346410) - 2026-07-13
+* [Review] [Review on: Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/pull/11853#pullrequestreview-4682481995) - 2026-07-13
+
+[ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
+* [Pull Request] [feat(playbooks): add single-node blackout & recovery playbook](https://github.com/ethpandaops/assertoor/pull/218) - 2026-07-13
 ## Q2 2026
 
 

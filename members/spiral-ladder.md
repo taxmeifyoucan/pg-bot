@@ -21,6 +21,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix: add pubkeyCache initialization overhead](https://github.com/ChainSafe/lodestar/pull/9640#pullrequestreview-4672545227) - 2026-07-10
 * [Review] [Review on: fix: restore browser-safe light client BLS](https://github.com/ChainSafe/lodestar/pull/9638#pullrequestreview-4671697022) - 2026-07-10
 * [Issue] [feat(pubkeys): pre-alloc num validators + some buffer room](https://github.com/ChainSafe/lodestar/issues/9639) - 2026-07-10
+* [Review] [Review on: chore: bump libp2p-quic to 2.1.1](https://github.com/ChainSafe/lodestar/pull/9651#pullrequestreview-4688474256) - 2026-07-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -52,6 +53,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat: add readonly range reads for SSZ composite vectors](https://github.com/ChainSafe/lodestar-z/pull/476#pullrequestreview-4670996155) - 2026-07-10
 * [Commit] [chore: bump zapi to include musl build (#485)](https://github.com/ChainSafe/lodestar-z/commit/0b488cccadbce6d09a31f9a874be868f9ffbe3ec) - 2026-07-10
 * [Commit] [fix: avoid set (#484)](https://github.com/ChainSafe/lodestar-z/commit/2e25d97fadfbf170647c21799550c37502639f1c) - 2026-07-10
+* [Pull Request] [chore: silence debug log when used in release builds](https://github.com/ChainSafe/lodestar-z/pull/486) - 2026-07-13
+* [Review] [Review on: chore: silence debug log when used in release builds](https://github.com/ChainSafe/lodestar-z/pull/486#pullrequestreview-4684339733) - 2026-07-13
+* [Commit] [chore: silence debug log when used in release builds (#486)](https://github.com/ChainSafe/lodestar-z/commit/c5377d7a1f6d7e97c0cdf78b97219e7484f97613) - 2026-07-13
 ## Q2 2026
 
 

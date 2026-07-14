@@ -108,6 +108,11 @@ Team: Reth
 * [Review] [Review on: feat(engine): add REST-SSZ blob body witness containers](https://github.com/paradigmxyz/reth/pull/26328#pullrequestreview-4676744349) - 2026-07-11
 * [Review] [Review on: feat(engine): add REST-SSZ blob body witness containers](https://github.com/paradigmxyz/reth/pull/26328#pullrequestreview-4679495735) - 2026-07-12
 * [Review] [Review on: fix(net): apply ban gate when promoting a peer to trusted by id](https://github.com/paradigmxyz/reth/pull/26364#pullrequestreview-4679489291) - 2026-07-12
+* [Review] [Review on: feat(engine): pass parent state to the post-execution hashed-state hook](https://github.com/paradigmxyz/reth/pull/26330#pullrequestreview-4686514592) - 2026-07-13
+* [Review] [Review on: fix(tree): elide empty new accounts from hashed state](https://github.com/paradigmxyz/reth/pull/26367#pullrequestreview-4684516561) - 2026-07-13
+* [Review] [Review on: chore(deps): bump the cargo-weekly group with 21 updates](https://github.com/paradigmxyz/reth/pull/26371#pullrequestreview-4683956532) - 2026-07-13
+* [Review] [Review on: chore(deps): bump the ci-weekly group with 7 updates](https://github.com/paradigmxyz/reth/pull/26370#pullrequestreview-4683650511) - 2026-07-13
+* [Commit] [fix(import): reject incomplete block at EOF (#26363)](https://github.com/paradigmxyz/reth/commit/bb0c5cd14e8ddaba4ba2a4ee49017de2a11b5534) - 2026-07-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

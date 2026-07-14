@@ -12,6 +12,8 @@ Github: [@chong-he](https://github.com/chong-he)
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Add `head_v2` event in beacon API and remove some fields in `data_column_sidecar` event](https://github.com/sigp/lighthouse/pull/9597) - 2026-07-08
 * [Review] [Review on: Dump local testnet logs after startup failure](https://github.com/sigp/lighthouse/pull/9613#pullrequestreview-4670733522) - 2026-07-10
+* [Review] [Review on: Retrieve gloas execution payload envelope by beacon block root](https://github.com/sigp/lighthouse/pull/9594#pullrequestreview-4683733526) - 2026-07-13
+* [Issue] [LightClientUpdatesByRange only returns the first requested sync committee period](https://github.com/sigp/lighthouse/issues/9619) - 2026-07-13
 ## Q2 2026
 
 

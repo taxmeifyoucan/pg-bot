@@ -37,6 +37,11 @@ Team: Geth
 * [Commit] [go.mod: update ckzg (#35336)](https://github.com/ethereum/go-ethereum/commit/3ab52d837d7baec73b53cdfbdb3bfb5fee6a81fe) - 2026-07-10
 * [Commit] [core: charge floorDataGas if it exceeds regularGas (#35342)](https://github.com/ethereum/go-ethereum/commit/e7314c8a13dad73bc98e53d9a94e6f429a6e00dc) - 2026-07-13
 * [Commit] [params: update contract addresses (#35341)](https://github.com/ethereum/go-ethereum/commit/0e2cbebbd199491a3198a92038582897d6bb9d74) - 2026-07-13
+* [Pull Request] [beacon/engine: correct rlp encoding/decoding](https://github.com/ethereum/go-ethereum/pull/35348) - 2026-07-13
+* [Pull Request] [eth/tracers/logger: respect logging limit](https://github.com/ethereum/go-ethereum/pull/35349) - 2026-07-13
+* [Review] [Review on: core: implement EIP-2780 and EIP-8037 changes](https://github.com/ethereum/go-ethereum/pull/35318#pullrequestreview-4683639809) - 2026-07-13
+* [Commit] [beacon/engine: correct rlp encoding/decoding (#35348)](https://github.com/ethereum/go-ethereum/commit/68f711b9defc53cb1b29cf0a1c65a32bbed10254) - 2026-07-13
+* [Commit] [eth/tracers/logger: respect logging limit (#35349)](https://github.com/ethereum/go-ethereum/commit/f9382c2d1b989b87cdc5ba5cd1315766f7650d60) - 2026-07-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 ## Q2 2026

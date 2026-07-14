@@ -183,6 +183,25 @@ Team: Erigon
 * [Commit] [rlp: to not allocate closure on every steam get from pool (#22389)](https://github.com/erigontech/erigon/commit/57b0042065a86cefe7793e96e58e1e6f986d649c) - 2026-07-12
 * [Commit] [rpc: don't copy Header returned from Cache (#22387)](https://github.com/erigontech/erigon/commit/4540ef19c1d154cfdee61b8f9c2a64f6f141e3b5) - 2026-07-12
 * [Commit] [`--persist.receipts.distance` support (#22349)](https://github.com/erigontech/erigon/commit/b9e4d3c2f81a73cf539c7f87939af36e9cba0ba1) - 2026-07-12
+* [Pull Request] [block files: enable long-living view in block_reader by default](https://github.com/erigontech/erigon/pull/22445) - 2026-07-14
+* [Review] [Review on: rpc: makes queryLimit configurabile via --rpc.logs.querylimit](https://github.com/erigontech/erigon/pull/22418#pullrequestreview-4684312860) - 2026-07-13
+* [Review] [Review on: node, commitment: fix parallel exec deadlock on many-core machines](https://github.com/erigontech/erigon/pull/22408#pullrequestreview-4682196318) - 2026-07-13
+* [Review] [Review on: [r3.6] db: enable plain commitment (references off) + 3.6 webseeds and branch](https://github.com/erigontech/erigon/pull/21376#pullrequestreview-4686326359) - 2026-07-13
+* [Pull Request] [caplin: blobs download logs rounding speed too much](https://github.com/erigontech/erigon/pull/22436) - 2026-07-13
+* [Review] [Review on: cl/antiquary: prune caplin state indexing DB after freezing to snapshots](https://github.com/erigontech/erigon/pull/22396#pullrequestreview-4684337798) - 2026-07-13
+* [Pull Request] [[wip] thouths on state spec](https://github.com/erigontech/erigon/pull/22438) - 2026-07-13
+* [Review] [Review on: all: lint enable atomictypes, forvar, and mapsloop analyzers under modernize linter](https://github.com/erigontech/erigon/pull/22435#pullrequestreview-4684300377) - 2026-07-13
+* [Pull Request] [cl, db/kv/mdbx: don't drop caplin/history db dir on every chain-tip flush](https://github.com/erigontech/erigon/pull/22428) - 2026-07-13
+* [Review] [Review on: cl, db/kv/mdbx: don't drop caplin/history db dir on every chain-tip flush](https://github.com/erigontech/erigon/pull/22428#pullrequestreview-4683334178) - 2026-07-13
+* [Review] [Review on: ci: fix zizmor template-injection in release + bisection/fuzz workflows (#21132)](https://github.com/erigontech/erigon/pull/22430#pullrequestreview-4684285269) - 2026-07-13
+* [Review] [Review on: integration: restore stage_exec --unwind, dropped in f407544c59](https://github.com/erigontech/erigon/pull/22434#pullrequestreview-4683898188) - 2026-07-13
+* [Review] [Review on: docs: experimental commitment flags + db.read.concurrency help fix](https://github.com/erigontech/erigon/pull/22415#pullrequestreview-4682160295) - 2026-07-13
+* [Review] [Review on: [SharovBot] chore: weekly code cleanup consolidation](https://github.com/erigontech/erigon/pull/22421#pullrequestreview-4684291564) - 2026-07-13
+* [Issue] [Caplin removing `datadir/caplin/history` dir on every block on chain-tip](https://github.com/erigontech/erigon/issues/22422) - 2026-07-13
+* [Commit] [caplin: blobs download logs rounding speed too much (#22436)](https://github.com/erigontech/erigon/commit/1c030a53b2478e1c812705fc7dfb2c4dd96e0f9e) - 2026-07-13
+* [Commit] [retire only visible files (#22365)](https://github.com/erigontech/erigon/commit/48b3235c5b305d6dff6854bdf38c77715bcc1861) - 2026-07-13
+* [Commit] [cl, db/kv/mdbx: don't drop caplin/history db dir on every chain-tip flush (#22428)](https://github.com/erigontech/erigon/commit/bd5776bc2d9cc43682c5449dcb33eb99b22066ab) - 2026-07-13
+* [Commit] [cl: close zstd frame in WriteBeaconBlock instead of flushing (#22412)](https://github.com/erigontech/erigon/commit/b4ed135a44189301d7e6b9052c21ce62cd34880b) - 2026-07-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026
