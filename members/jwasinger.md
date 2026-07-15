@@ -14,6 +14,9 @@ Team: Geth
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Update 01-membership.md](https://github.com/protocolguild/documentation/pull/505) - 2026-07-03
 * [Review] [Review on: Update 01-membership.md](https://github.com/protocolguild/documentation/pull/505#pullrequestreview-4626331985) - 2026-07-03
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Commit] [accounts/abi:  fix abigen v1 bindings for deployment of library dependencies (#32164)](https://github.com/ethereum/go-ethereum/commit/a10969f65061d99d47728fba14ec2b022e436233) - 2026-07-14
 ## Q2 2026
 
 

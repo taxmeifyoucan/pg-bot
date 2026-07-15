@@ -134,6 +134,11 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf(prewarm): hint the EIP-2935 parent-hash slot to the prewarmer](https://github.com/NethermindEth/nethermind/pull/12410#pullrequestreview-4682668312) - 2026-07-13
 * [Commit] [Ignore sepolia-devnet-2 L1 in superchain chainspec generation (#12398)](https://github.com/NethermindEth/nethermind/commit/fe5066e9c331e649df2bc235780ab38e2cdd9522) - 2026-07-13
 * [Commit] [perf(evm): drop redundant gas re-check in UpdateGas (#12412)](https://github.com/NethermindEth/nethermind/commit/3717e8013e2d27d1e9faf072e7fedce659ecee90) - 2026-07-13
+* [Review] [Review on: Eliminate JUMPDEST dispatch after valid taken non-traced jumps](https://github.com/NethermindEth/nethermind/pull/12451#pullrequestreview-4699355097) - 2026-07-14
+* [Review] [Review on: Sweep gen2 concurrently during sustained block processing](https://github.com/NethermindEth/nethermind/pull/12434#pullrequestreview-4694516225) - 2026-07-14
+* [Review] [Review on: [WIP] EIP-8141 - Frame Transactions ](https://github.com/NethermindEth/nethermind/pull/12441#pullrequestreview-4693284297) - 2026-07-14
+* [Review] [Review on: Harden prewarmer group splitting: capacity gates, whole-job overtake skip, per-worker envs](https://github.com/NethermindEth/nethermind/pull/12433#pullrequestreview-4693259985) - 2026-07-14
+* [Review] [Review on: perf(bal): reuse cached wire hash for block access list hash](https://github.com/NethermindEth/nethermind/pull/12381#pullrequestreview-4693241243) - 2026-07-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

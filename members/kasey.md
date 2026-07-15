@@ -8,6 +8,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 
 ## Contributions
 
+## Q3 2026
+
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [ignore claude directory (avoiding issues with worktrees + gazelle)](https://github.com/OffchainLabs/prysm/pull/17182) - 2026-07-14
 ## Q2 2026
 
 

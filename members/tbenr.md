@@ -45,6 +45,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: tweaks](https://github.com/Consensys/teku/pull/10961#pullrequestreview-4677031634) - 2026-07-11
 * [Pull Request] [Update Schema Registry and adopt progressive ssz in GLOAS](https://github.com/Consensys/teku/pull/10966) - 2026-07-13
 * [Commit] [mutable progressive byte list - preserve element schema on set (#10960)](https://github.com/Consensys/teku/commit/da1fdc64f8a6f80f7b23447f84f25a2c0582cf03) - 2026-07-13
+* [Review] [Review on: Two related bugs in DataColumnSidecarsByRoot RPC handling:](https://github.com/Consensys/teku/pull/10969#pullrequestreview-4696109741) - 2026-07-14
+* [Review] [Review on: Fix DataColumnSidecarsByRoot partial-response-then-abort for out-of-window block roots](https://github.com/Consensys/teku/pull/10970#pullrequestreview-4696107086) - 2026-07-14
+* [Pull Request] [Complete deprecated blob sidecar range requests](https://github.com/Consensys/teku/pull/10971) - 2026-07-14
+* [Commit] [cleanup gossip params (#10956)](https://github.com/Consensys/teku/commit/d2956e89299380bd7091e5c0d38b110118015041) - 2026-07-14
+* [Commit] [Complete deprecated blob sidecar range requests (#10971)](https://github.com/Consensys/teku/commit/0c960c841a00935c10feded2f82f07add91d7a3c) - 2026-07-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

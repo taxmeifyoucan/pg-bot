@@ -53,8 +53,25 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [ci: build test binaries once per RID and share via artifact](https://github.com/NethermindEth/nethermind/pull/12371) - 2026-07-10
 * [Pull Request] [Split and prioritize heavy same-sender groups in block prewarmer](https://github.com/NethermindEth/nethermind/pull/12425) - 2026-07-13
 * [Commit] [Split and prioritize heavy same-sender groups in block prewarmer (#12425)](https://github.com/NethermindEth/nethermind/commit/158b33c8a1b5b82feaaace3e6f4c6400390c372d) - 2026-07-13
+* [Review] [Review on: feat: append DB layout postfix to public client ID](https://github.com/NethermindEth/nethermind/pull/12435#pullrequestreview-4693743492) - 2026-07-14
+* [Pull Request] [fix(nethtest): report zkEVM progress in test cases instead of fixture files](https://github.com/NethermindEth/nethermind/pull/12437) - 2026-07-14
+* [Pull Request] [Sweep gen2 concurrently during sustained block processing](https://github.com/NethermindEth/nethermind/pull/12434) - 2026-07-14
+* [Review] [Review on: Sweep gen2 concurrently during sustained block processing](https://github.com/NethermindEth/nethermind/pull/12434#pullrequestreview-4694373685) - 2026-07-14
+* [Pull Request] [Add BlockProfiler plugin for per-block dotTrace snapshots](https://github.com/NethermindEth/nethermind/pull/12444) - 2026-07-14
+* [Review] [Review on: Add BlockProfiler plugin for per-block dotTrace snapshots](https://github.com/NethermindEth/nethermind/pull/12444#pullrequestreview-4695039390) - 2026-07-14
+* [Review] [Review on: Harden prewarmer group splitting: capacity gates, whole-job overtake skip, per-worker envs](https://github.com/NethermindEth/nethermind/pull/12433#pullrequestreview-4693127653) - 2026-07-14
+* [Pull Request] [fix(test): migrate ScopeProviderTests to the PrewarmerState ctor](https://github.com/NethermindEth/nethermind/pull/12440) - 2026-07-14
+* [Commit] [perf(bal): reuse cached wire hash for block access list hash (#12381)](https://github.com/NethermindEth/nethermind/commit/95a5d78bcfa10e50e29f9a684e80043486d18565) - 2026-07-14
+* [Commit] [fix(test): migrate ScopeProviderTests to the PrewarmerState ctor (#12440)](https://github.com/NethermindEth/nethermind/commit/9c17be522de5cc13968954166a3f18e66cb6bb85) - 2026-07-14
+* [Commit] [ci: build test binaries once per RID and share via artifact (#12371)](https://github.com/NethermindEth/nethermind/commit/a3de4e2a20ead6688303af8c37db9d5a7426579c) - 2026-07-14
+* [Commit] [ci(nethtest): migrate checked/no-intrinsics pyspec variants to nethtest (#12330)](https://github.com/NethermindEth/nethermind/commit/66515374e181d788ac725eb028ae34ad3b9e2b73) - 2026-07-14
+* [Commit] [Fix slow-block cache hit stats: report first-touch pre-block coverage instead of a layer blend (#12372)](https://github.com/NethermindEth/nethermind/commit/01e93dd42057d17eb3bdf6dcee5a7e85c3fbb8f7) - 2026-07-14
+* [Commit] [ci(expb): fix retrospective pagination drift; allow disabling the flat write-buffer floor (#12264)](https://github.com/NethermindEth/nethermind/commit/b7fb5a6c933098f136adceb98b6649367ee99c3f) - 2026-07-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
+
+[NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
+* [Commit] [ci: register Benchmarkoor - Nethermind workflow (dispatch-only)](https://github.com/NethermindEth/gas-benchmarks/commit/2848becbbfcb57b1e69587310ffb8a9daa40ec0c) - 2026-07-14
 ## Q2 2026
 
 

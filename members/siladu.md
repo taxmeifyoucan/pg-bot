@@ -33,6 +33,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Prepare changelog for 26.7.0 release](https://github.com/besu-eth/besu/pull/10795#pullrequestreview-4672730388) - 2026-07-10
 * [Review] [Review on: Updated kzg lib](https://github.com/besu-eth/besu/pull/10794#pullrequestreview-4672325668) - 2026-07-10
 * [Review] [Review on: Add ADDMOD in EVMv2](https://github.com/besu-eth/besu/pull/10792#pullrequestreview-4670350547) - 2026-07-10
+* [Pull Request] [[DO NOT MERGE] Test disabling gradle cache for ATs](https://github.com/besu-eth/besu/pull/10803) - 2026-07-14
 ## Q2 2026
 
 

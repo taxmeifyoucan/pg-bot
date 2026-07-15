@@ -39,6 +39,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Commit] [Parallel BAL execution: overlay state, prefetch, and async state root  (#10741)](https://github.com/besu-eth/besu/commit/81ac11e7c884c93b30df5503806b20519e0e69ee) - 2026-07-09
 * [Review] [Review on: New threading model for block processing](https://github.com/besu-eth/besu/pull/10786#pullrequestreview-4668962275) - 2026-07-10
 * [Review] [Review on: Improve BAL prefetcher collectKeys method performance](https://github.com/besu-eth/besu/pull/10788#pullrequestreview-4669071183) - 2026-07-10
+* [Review] [Review on: Update to pass spec tests for glamsterdam-devnet-7](https://github.com/besu-eth/besu/pull/10801#pullrequestreview-4694910440) - 2026-07-14
 ## Q2 2026
 
 

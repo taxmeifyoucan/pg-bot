@@ -37,6 +37,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Add Bonsai debug modified accounts RPC methods](https://github.com/besu-eth/besu/pull/10487#pullrequestreview-4690134218) - 2026-07-14
 * [Review] [Review on: Rotate changelog post 26.7.0](https://github.com/besu-eth/besu/pull/10799#pullrequestreview-4689807438) - 2026-07-13
 * [Pull Request] [gradle metadata verification: trust source and javadoc jars](https://github.com/besu-eth/besu/pull/10797) - 2026-07-13
+* [Review] [Review on: Layered txpool: allow zero upfront cost txs from zero balance senders](https://github.com/besu-eth/besu/pull/10751#pullrequestreview-4699682325) - 2026-07-15
+* [Review] [Review on: fix: return errors for untraceable block hashes](https://github.com/besu-eth/besu/pull/10701#pullrequestreview-4699889142) - 2026-07-15
+* [Review] [Review on: test: stabilize EngineQosTimer test](https://github.com/besu-eth/besu/pull/10700#pullrequestreview-4699743040) - 2026-07-15
+* [Review] [Review on: feat(bft): opt-in transitionable per-transaction gas limit for QBFT and IBFT2](https://github.com/besu-eth/besu/pull/10722#pullrequestreview-4699732332) - 2026-07-15
+* [Review] [Review on: Handle empty RLP raw transactions as invalid params](https://github.com/besu-eth/besu/pull/10736#pullrequestreview-4690313294) - 2026-07-14
 ## Q2 2026
 
 

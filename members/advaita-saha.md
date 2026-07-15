@@ -36,6 +36,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Review] [Review on: builds MUST start on forkchoiceState.headBlockHash](https://github.com/status-im/nimbus-eth1/pull/4427#pullrequestreview-4643256340) - 2026-07-07
 * [Pull Request] [txpool periodic eviction for better pool churn](https://github.com/status-im/nimbus-eth1/pull/4460) - 2026-07-12
 * [Pull Request] [wrap each trial's runComputation in a ledger savepoint ](https://github.com/status-im/nimbus-eth1/pull/4475) - 2026-07-13
+* [Pull Request] [[WIP] outbound tx propagation](https://github.com/status-im/nimbus-eth1/pull/4487) - 2026-07-14
+* [Pull Request] [fix p2p as per spec and hive tests](https://github.com/status-im/nimbus-eth1/pull/4486) - 2026-07-14
+* [Commit] [fix p2p as per spec and hive tests (#4486)](https://github.com/status-im/nimbus-eth1/commit/4e9d6fadb9d73cbd2822f1ef4b79b499b4f34edb) - 2026-07-14
+* [Commit] [txpool periodic eviction for better pool churn (#4460)](https://github.com/status-im/nimbus-eth1/commit/f06384c697c03ff9f92956fcf7304a4d883414e9) - 2026-07-14
 ## Q2 2026
 
 

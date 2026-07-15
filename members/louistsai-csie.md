@@ -38,6 +38,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Issue] [Benchmark test wrapper compatibility with `glamsterdam-devnet-6` spec](https://github.com/ethereum/execution-specs/issues/3128) - 2026-07-09
 * [Pull Request] [feat(test-benchmark): validate receipt and post-state; refactor state-gas accounting](https://github.com/ethereum/execution-specs/pull/3148) - 2026-07-10
 * [Pull Request] [refactor(test-benchmark): organize stateful benchmark folder structure](https://github.com/ethereum/execution-specs/pull/3152) - 2026-07-13
+* [Pull Request] [refactor(test-benchmark): centralize benchmark helper utilities](https://github.com/ethereum/execution-specs/pull/3166) - 2026-07-14
+* [Review] [Review on: chore(tests): remove legacy `abstract:` prefix from test module docstrings](https://github.com/ethereum/execution-specs/pull/3162#pullrequestreview-4691136930) - 2026-07-14
 ## Q2 2026
 
 

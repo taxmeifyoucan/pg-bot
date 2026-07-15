@@ -13,6 +13,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Release 1.3.5](https://github.com/libp2p/jvm-libp2p/pull/502#pullrequestreview-4613423746) - 2026-07-01
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: Activate Gloas acceptance test](https://github.com/Consensys/teku/pull/10974#pullrequestreview-4697434919) - 2026-07-14
 ## Q2 2026
 
 

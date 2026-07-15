@@ -15,6 +15,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Update `crossbeam-epoch` to fix cargo audit](https://github.com/sigp/lighthouse/pull/9581) - 2026-07-07
 * [Review] [Review on: Fix nightly deneb tests and move electra fork tests to nightly](https://github.com/sigp/lighthouse/pull/9384#pullrequestreview-4640642884) - 2026-07-07
 * [Pull Request] [Dump local testnet logs after startup failure](https://github.com/sigp/lighthouse/pull/9613) - 2026-07-10
+* [Pull Request] [Use branchless swaps in swap-or-not shuffling](https://github.com/sigp/lighthouse/pull/9630) - 2026-07-14
+* [Review] [Review on: Fix Gloas sync tests by adding supernode config](https://github.com/sigp/lighthouse/pull/9628#pullrequestreview-4690906244) - 2026-07-14
 ## Q2 2026
 
 

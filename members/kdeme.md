@@ -42,12 +42,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update to zkevm v0.6.1 and spec related changes](https://github.com/status-im/nimbus-eth1/pull/4479) - 2026-07-13
 * [Pull Request] [stateless: Fix witness tracking for EIP-7997 related access](https://github.com/status-im/nimbus-eth1/pull/4480) - 2026-07-13
 * [Pull Request] [networking: remove DiscoveryV4 support, use DiscoveryV5 only](https://github.com/status-im/nimbus-eth1/pull/4476) - 2026-07-13
+* [Commit] [Adjust discovery flag as just turn on/off bool (#4454)](https://github.com/status-im/nimbus-eth1/commit/c2f1bd90a1c67e48be3af0cc38d288afc5f3b34d) - 2026-07-14
+* [Commit] [stateless: fail block on missing witness code (#4481)](https://github.com/status-im/nimbus-eth1/commit/e56caf7cc04a07f95e03d5453bca20a0e62b2e7b) - 2026-07-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4662776381) - 2026-07-09
 
+* [Pull Request] [Update --discovery to --discv5 flag for EL in el nodes script](https://github.com/status-im/nimbus-eth2/pull/8763) - 2026-07-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672183323) - 2026-07-10
 ## Q2 2026

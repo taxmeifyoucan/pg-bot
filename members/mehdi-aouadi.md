@@ -22,6 +22,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: Improve incoming RPC handling under QUIC](https://github.com/Consensys/teku/pull/10949#pullrequestreview-4655189324) - 2026-07-08
 * [Review] [Review on: validate exeution payload block hash](https://github.com/Consensys/teku/pull/10938#pullrequestreview-4664382851) - 2026-07-09
 * [Commit] [validate exeution payload block hash (#10938)](https://github.com/Consensys/teku/commit/0fec673c95a295f19e443e8a2781efd79b75f82b) - 2026-07-09
+* [Pull Request] [Add builder boost factor evaluation for execution payloads](https://github.com/Consensys/teku/pull/10973) - 2026-07-14
 ## Q2 2026
 
 

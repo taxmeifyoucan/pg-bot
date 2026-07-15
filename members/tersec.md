@@ -42,6 +42,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump nim-libp2p (#8754)](https://github.com/status-im/nimbus-eth2/commit/9e509d1b7061a1be402efa5b482b01324d8bf145) - 2026-07-13
 * [Commit] [keep --quic-port rather than --debug-quic-port (#8747)](https://github.com/status-im/nimbus-eth2/commit/9c614aceb33c74a2ccae25823af67a2ea95650b7) - 2026-07-13
 * [Commit] [Revert "enable QUIC by default (#8711)" (#8745)](https://github.com/status-im/nimbus-eth2/commit/ed10a5bf6c5725462b667402c65bb07c793736f2) - 2026-07-13
+* [Pull Request] [enable QUIC by default](https://github.com/status-im/nimbus-eth2/pull/8762) - 2026-07-14
+* [Review] [Review on: Add head_v2 SSE](https://github.com/status-im/nimbus-eth2/pull/8743#pullrequestreview-4695239287) - 2026-07-14
+* [Pull Request] [sync test summaries](https://github.com/status-im/nimbus-eth2/pull/8764) - 2026-07-14
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -61,6 +64,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [`eth_estimateGas` blindly mirrors `gas` parameter up to cap in presence of `CREATE2`](https://github.com/status-im/nimbus-eth1/issues/4464) - 2026-07-12
 * [Issue] [implement updated gloas fcU payload build skip specs](https://github.com/status-im/nimbus-eth1/issues/4459) - 2026-07-12
 * [Commit] [temporarily use non-stable image for kurtosis for nimbus-eth2 (#4462)](https://github.com/status-im/nimbus-eth1/commit/66864328387e32a05b911ced439fba5762c2e9a1) - 2026-07-12
+* [Review] [Review on: fix p2p as per spec and hive tests](https://github.com/status-im/nimbus-eth1/pull/4486#pullrequestreview-4696407803) - 2026-07-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

@@ -28,6 +28,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Add GET /prysm/v1/node/custody endpoint](https://github.com/OffchainLabs/prysm/pull/17144) - 2026-07-09
 * [Review] [Review on: Bound Gloas data column sidecar slot before queueing](https://github.com/OffchainLabs/prysm/pull/17157#pullrequestreview-4686469647) - 2026-07-13
 * [Review] [Review on: Add GET /prysm/v1/node/custody endpoint](https://github.com/OffchainLabs/prysm/pull/17144#pullrequestreview-4682816446) - 2026-07-13
+* [Pull Request] [Track pending attestation count with a running counter instead of scanning the queue](https://github.com/OffchainLabs/prysm/pull/17178) - 2026-07-14
+* [Review] [Review on: Do not queue blocks that arrive more than 500ms early](https://github.com/OffchainLabs/prysm/pull/17167#pullrequestreview-4692287716) - 2026-07-14
+* [Commit] [Add GET /prysm/v1/node/custody endpoint (#17144)](https://github.com/OffchainLabs/prysm/commit/b89cb47c58ae1282c3e5fc2b2196e384b0ae1af8) - 2026-07-14
 ## Q2 2026
 
 

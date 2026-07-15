@@ -31,6 +31,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [fix(tests): Fix hard-coded references to gas_costs.CALL_STIPEND](https://github.com/ethereum/execution-specs/issues/3139) - 2026-07-09
 * [Commit] [fix(tests): EIP-8037: failing test - create tx refunds new account (#3140)](https://github.com/ethereum/execution-specs/commit/20d6aa3bca084e090e502c4e52f4259d60bae2be) - 2026-07-10
 * [Review] [Review on: feat(spec-specs,test-tests): update the EIP-2780 implementation](https://github.com/ethereum/execution-specs/pull/3126#pullrequestreview-4684248515) - 2026-07-13
+* [Pull Request] [refactor(tests): Remove `fork.gas_costs()` reconstruction from Amsterdam EIP-8037/8038 tests](https://github.com/ethereum/execution-specs/pull/3169) - 2026-07-14
+* [Review] [Review on: feat(spec-specs, tests): charge EIP-8037 account creation at access](https://github.com/ethereum/execution-specs/pull/3116#pullrequestreview-4693290350) - 2026-07-14
+* [Review] [Review on: feat(tests): restore sstore_combinations as a hand-written test](https://github.com/ethereum/execution-specs/pull/3154#pullrequestreview-4691835382) - 2026-07-14
+* [Issue] [feat(tests): Add block-level access list validation to benchmark tests](https://github.com/ethereum/execution-specs/issues/3168) - 2026-07-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 ## Q2 2026

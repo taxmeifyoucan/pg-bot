@@ -149,6 +149,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [remove IPreBlockCaches wrapping (#12385)](https://github.com/NethermindEth/nethermind/commit/0552791d50dfb055e3e981504368ab1980f0ae7f) - 2026-07-13
 * [Commit] [fix(era): advance finality during replay (#12423)](https://github.com/NethermindEth/nethermind/commit/3fbc3235afb537a278cb946c2d1cf28b77d75dea) - 2026-07-13
 * [Commit] [refactor: remove no-op precalculated intrinsic gas plumbing (#12422)](https://github.com/NethermindEth/nethermind/commit/e7e9b47366a9c9130be2689b1a6d73688f4c75f5) - 2026-07-13
+* [Review] [Review on: perf(db): bound RocksDB index/filter memory with cache_index_and_filter_blocks (opt-in)](https://github.com/NethermindEth/nethermind/pull/12403#pullrequestreview-4700227075) - 2026-07-15
+* [Review] [Review on: perf(flatdb): experimental flat node storage — shared slab arena on address-owned maps (default off)](https://github.com/NethermindEth/nethermind/pull/12404#pullrequestreview-4700210773) - 2026-07-15
+* [Pull Request] [feat: append DB layout postfix to public client ID](https://github.com/NethermindEth/nethermind/pull/12435) - 2026-07-14
+* [Review] [Review on: feat: append DB layout postfix to public client ID](https://github.com/NethermindEth/nethermind/pull/12435#pullrequestreview-4693854299) - 2026-07-14
+* [Review] [Review on: Add BlockProfiler plugin for per-block dotTrace snapshots](https://github.com/NethermindEth/nethermind/pull/12444#pullrequestreview-4694108362) - 2026-07-14
+* [Review] [Review on: fix(blockstore): inject chain header decoder so AuRa blocks decode](https://github.com/NethermindEth/nethermind/pull/12445#pullrequestreview-4694030520) - 2026-07-14
+* [Review] [Review on: fix(test): migrate ScopeProviderTests to the PrewarmerState ctor](https://github.com/NethermindEth/nethermind/pull/12440#pullrequestreview-4692482332) - 2026-07-14
+* [Review] [Review on: ci: build test binaries once per RID and share via artifact](https://github.com/NethermindEth/nethermind/pull/12371#pullrequestreview-4692572532) - 2026-07-14
+* [Commit] [Convert AuRa block producer wiring to DI (#12414)](https://github.com/NethermindEth/nethermind/commit/f2ecd4663647b73a566856bceb4cbd8c7017b07e) - 2026-07-14
+* [Commit] [Extract censorship detector into plugin (#12432)](https://github.com/NethermindEth/nethermind/commit/b561804a15efe9c8a6ad6475dcccdd50feaa912c) - 2026-07-14
 ## Q2 2026
 
 

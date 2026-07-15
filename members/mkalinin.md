@@ -15,6 +15,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Set `BUILDER_WITHDRAWAL_PREFIX` to 0xB0](https://github.com/ethereum/consensus-specs/pull/5416#pullrequestreview-4624675561) - 2026-07-03
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4641713650) - 2026-07-07
 
+* [Pull Request] [Add safe_execution_block_hash property to FCR tests](https://github.com/ethereum/consensus-specs/pull/5449) - 2026-07-14
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Register `CN` for Caplin](https://github.com/ethereum/execution-apis/pull/844#pullrequestreview-4647866464) - 2026-07-07
 

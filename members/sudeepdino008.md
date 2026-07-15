@@ -41,6 +41,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db/state: elide no-op deletes of absent keys in DomainDel](https://github.com/erigontech/erigon/pull/22437) - 2026-07-13
 * [Pull Request] [db/seg, db/state: non-blocking .kv reads via residency probe + bounded warm (WIP)](https://github.com/erigontech/erigon/pull/22439) - 2026-07-13
 * [Review] [Review on: cl, db/kv/mdbx: don't drop caplin/history db dir on every chain-tip flush](https://github.com/erigontech/erigon/pull/22428#pullrequestreview-4683398615) - 2026-07-13
+* [Review] [Review on: db/state: omit no-op deletes of absent keys in DomainDel](https://github.com/erigontech/erigon/pull/22437#pullrequestreview-4692491316) - 2026-07-14
+* [Review] [Review on: [bal-devnet-7] execution/stagedsync: fix worker starvation in high-tx-count blocks by optimizing parallel-exec dispatch (#22336)](https://github.com/erigontech/erigon/pull/22473#pullrequestreview-4695387194) - 2026-07-14
+* [Pull Request] [cmd/integration: add `history duplicates` to find redundant history values](https://github.com/erigontech/erigon/pull/22450) - 2026-07-14
+* [Issue] [db/state: experiment — use .bt index instead of .vi/.efi accessors (RPC perf + size)](https://github.com/erigontech/erigon/issues/22472) - 2026-07-14
+* [Issue] [db/state: deduplicate redundant rcache history values (~12% on gnosis)](https://github.com/erigontech/erigon/issues/22470) - 2026-07-14
+* [Commit] [execution/stagedsync: fix worker starvation in high-tx-count blocks by optimizing parallel-exec dispatch (#22336)](https://github.com/erigontech/erigon/commit/de176cf4e026f9878e3c7771b789ae7ccf726d6a) - 2026-07-14
 ## Q2 2026
 
 

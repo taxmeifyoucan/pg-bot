@@ -202,6 +202,10 @@ Team: Erigon
 * [Commit] [retire only visible files (#22365)](https://github.com/erigontech/erigon/commit/48b3235c5b305d6dff6854bdf38c77715bcc1861) - 2026-07-13
 * [Commit] [cl, db/kv/mdbx: don't drop caplin/history db dir on every chain-tip flush (#22428)](https://github.com/erigontech/erigon/commit/bd5776bc2d9cc43682c5449dcb33eb99b22066ab) - 2026-07-13
 * [Commit] [cl: close zstd frame in WriteBeaconBlock instead of flushing (#22412)](https://github.com/erigontech/erigon/commit/b4ed135a44189301d7e6b9052c21ce62cd34880b) - 2026-07-13
+* [Pull Request] [switch some tests to long-living block's views](https://github.com/erigontech/erigon/pull/22453) - 2026-07-14
+* [Review] [Review on: db/state: omit no-op deletes of absent keys in DomainDel](https://github.com/erigontech/erigon/pull/22437#pullrequestreview-4692002812) - 2026-07-14
+* [Review] [Review on: ci: add manual create-release-branch workflow](https://github.com/erigontech/erigon/pull/22440#pullrequestreview-4692761565) - 2026-07-14
+* [Commit] [block files: enable long-living view in block_reader by default (#22445)](https://github.com/erigontech/erigon/commit/9be5583e6891356a4d4b0518aeef8602a9b3d3a2) - 2026-07-14
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

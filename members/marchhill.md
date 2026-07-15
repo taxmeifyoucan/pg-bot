@@ -54,6 +54,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: perf(prewarm): hint the EIP-2935 parent-hash slot to the prewarmer](https://github.com/NethermindEth/nethermind/pull/12410#pullrequestreview-4684342528) - 2026-07-13
 * [Commit] [fix(evm): align EIP-8037 spill-refund accounting with the EELS reference (#12419)](https://github.com/NethermindEth/nethermind/commit/6e95a7a379753af579d5f77d21300863210535e6) - 2026-07-13
 * [Commit] [fix(evm): address devnet-6 state-gas review findings (#12369)](https://github.com/NethermindEth/nethermind/commit/389b75c0fa261b0ecbf6a1d848c6350565e7d619) - 2026-07-13
+* [Pull Request] [feat(balances): on-demand token detection with node-side cache](https://github.com/NethermindEth/nethermind/pull/12446) - 2026-07-14
+* [Pull Request] [fix(blockstore): inject chain header decoder so AuRa blocks decode](https://github.com/NethermindEth/nethermind/pull/12445) - 2026-07-14
+* [Commit] [fix(blockstore): inject chain header decoder so AuRa blocks decode (#12445)](https://github.com/NethermindEth/nethermind/commit/e1e6d818e685210d14a38a856a1f1e02a4fe4e65) - 2026-07-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

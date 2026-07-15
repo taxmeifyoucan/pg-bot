@@ -112,6 +112,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: use native BLS for Node.js light client](https://github.com/ChainSafe/lodestar/pull/9646#pullrequestreview-4678917607) - 2026-07-11
 * [Review] [Review on: fix: restore browser-safe light client BLS](https://github.com/ChainSafe/lodestar/pull/9638#pullrequestreview-4678896661) - 2026-07-11
 * [Review] [Review on: fix: use native BLS for Node.js light client](https://github.com/ChainSafe/lodestar/pull/9646#pullrequestreview-4679845400) - 2026-07-12
+* [Review] [Review on: feat: stateless flow for local block production post-gloas](https://github.com/ChainSafe/lodestar/pull/9595#pullrequestreview-4696112676) - 2026-07-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

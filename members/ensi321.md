@@ -34,11 +34,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add heze fork definition and boilerplate](https://github.com/ChainSafe/lodestar/pull/9505#pullrequestreview-4659979482) - 2026-07-09
 * [Commit] [feat: register client code for Caplin and Nimbus-EL (#9623)](https://github.com/ChainSafe/lodestar/commit/b6208721078985ca30bf232e7847bb2027ca44c2) - 2026-07-09
 * [Review] [Review on: feat: emit payload_attestation_message SSE event](https://github.com/ChainSafe/lodestar/pull/9636#pullrequestreview-4669674520) - 2026-07-10
+* [Pull Request] [fix: do not compare proposer index in proposer boost](https://github.com/ChainSafe/lodestar/pull/9653) - 2026-07-14
+* [Review] [Review on: feat: add dependent root check when giving out proposer boost](https://github.com/ChainSafe/lodestar/pull/9565#pullrequestreview-4690371009) - 2026-07-14
+* [Commit] [fix: do not compare proposer index in proposer boost (#9653)](https://github.com/ChainSafe/lodestar/commit/ea1ba2d8baeb13a8782043c2212519a32f32988f) - 2026-07-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09
 * [Review] [Review on: Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441#pullrequestreview-4660279245) - 2026-07-09
 * [Commit] [Add fork-choice tests for `should_apply_proposer_boost` (#5441)](https://github.com/ethereum/consensus-specs/commit/83d3d918ac69a4b57137268a96c20f1dc909001e) - 2026-07-09
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Issue] [DataColumnsByRange decodes pre-fork sidecar with wrong fork at a skip-slot boundary](https://github.com/sigp/lighthouse/issues/9638) - 2026-07-15
 ## Q2 2026
 
 

@@ -12,6 +12,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Commit] [perf(zkevm): Stateless guest execution optimizations (#12141)](https://github.com/NethermindEth/nethermind/commit/732b89e7eac4c29625995b1ccc34319d504e0e27) - 2026-07-02
 
+* [Pull Request] [Performance improvements for zkEVM](https://github.com/NethermindEth/nethermind/pull/12450) - 2026-07-14
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Pull Request] [Documentation improvements](https://github.com/NethermindEth/bflat-riscv64/pull/31) - 2026-07-02
 * [Commit] [README: condense the Zisk postprocessing section](https://github.com/NethermindEth/bflat-riscv64/commit/81022cbfd76183a0a27fa1318a59a2672e8360f1) - 2026-07-02

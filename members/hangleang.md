@@ -26,6 +26,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: fix: omit parent_block_number from payload_attributes SSE post-Gloas](https://github.com/grandinetech/grandine/pull/799#pullrequestreview-4677218597) - 2026-07-11
 * [Pull Request] [Update validator_payload_attestation_data beacon API](https://github.com/grandinetech/grandine/pull/807) - 2026-07-12
 * [Review] [Review on: Wait for proposer preferences broadcasting to finish](https://github.com/grandinetech/grandine/pull/804#pullrequestreview-4683797078) - 2026-07-13
+* [Pull Request] [Fix data availability serve range check](https://github.com/grandinetech/grandine/pull/811) - 2026-07-14
+* [Review] [Review on: Feature/stable containers](https://github.com/grandinetech/grandine/pull/810#pullrequestreview-4696204918) - 2026-07-14
+* [Pull Request] [Add submitProposerPreferences beacon API](https://github.com/grandinetech/grandine/pull/808) - 2026-07-14
+* [Review] [Review on: feat: Add SSZ response support for validator_balances endpoints](https://github.com/grandinetech/grandine/pull/801#pullrequestreview-4691924494) - 2026-07-14
 ## Q2 2026
 
 

@@ -33,6 +33,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Review] [Review on: Port remaining bal-devnet-7 changes to glamsterdam-devnet-6](https://github.com/paradigmxyz/reth/pull/26320#pullrequestreview-4646768790) - 2026-07-07
+* [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/reth/pull/26390) - 2026-07-14
+
+[paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
+* [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/revmc/pull/404) - 2026-07-14
 ## Q2 2026
 
 

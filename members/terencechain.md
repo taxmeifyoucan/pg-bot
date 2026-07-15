@@ -102,6 +102,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Re-verify builder deposit signatures when in-batch index reuse evicts a pubkey (#17111)](https://github.com/OffchainLabs/prysm/commit/d3ae6c9d6f8359670f0ba334c1a97559aaaf2b37) - 2026-07-13
 * [Commit] [Apply Gloas state-diff pending deposits against pre-upgrade list (#17158)](https://github.com/OffchainLabs/prysm/commit/074178613102232e294a900fb215813bd54b146f) - 2026-07-13
 * [Commit] [Bound Gloas data column sidecar slot before queueing (#17157)](https://github.com/OffchainLabs/prysm/commit/710ce3ba75ceb79a32202ac7dcae0802b0ae27f8) - 2026-07-13
+* [Review] [Review on: Fail payload reconstruction in Gloas if reconstruction correctness cannot be guaranteed](https://github.com/OffchainLabs/prysm/pull/17174#pullrequestreview-4694980357) - 2026-07-14
+* [Review] [Review on: Verify by-root block signatures before pending-queue insert](https://github.com/OffchainLabs/prysm/pull/17172#pullrequestreview-4695531891) - 2026-07-14
+* [Pull Request] [Validate execution payload envelopes fetched by root](https://github.com/OffchainLabs/prysm/pull/17176) - 2026-07-14
+* [Pull Request] [Validate execution payload envelopes fetched by root](https://github.com/OffchainLabs/prysm/pull/17175) - 2026-07-14
+* [Commit] [Verify by-root block signatures before pending-queue insert (#17172)](https://github.com/OffchainLabs/prysm/commit/7f36cd75845e7f5fde70a112242a696e3779002f) - 2026-07-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

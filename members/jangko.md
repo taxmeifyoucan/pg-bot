@@ -43,6 +43,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: Cache and reuse vmState in forked chain](https://github.com/status-im/nimbus-eth1/pull/4452#pullrequestreview-4683717789) - 2026-07-13
 * [Pull Request] [Bump chronos](https://github.com/status-im/nimbus-eth1/pull/4474) - 2026-07-13
 * [Commit] [Bump chronos (#4474)](https://github.com/status-im/nimbus-eth1/commit/0b0a1a2517fc7e9b21dd5f0a46900094942f2861) - 2026-07-13
+* [Pull Request] [Bump nim-boringssl to fix nightly build cross compilation issue](https://github.com/status-im/nimbus-eth1/pull/4488) - 2026-07-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

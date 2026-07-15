@@ -19,6 +19,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Review] [Review on: chore(ci): Disable stateless devnet tests scheduled run](https://github.com/NethermindEth/nethermind/pull/12428#pullrequestreview-4688396220) - 2026-07-13
 * [Review] [Review on: Skip idle data feed stats serialization](https://github.com/NethermindEth/nethermind/pull/12427#pullrequestreview-4687209191) - 2026-07-13
+* [Review] [Review on: Schedule Unzen fork on Taiko Mainnet](https://github.com/NethermindEth/nethermind/pull/12442#pullrequestreview-4693061969) - 2026-07-14
 ## Q2 2026
 
 

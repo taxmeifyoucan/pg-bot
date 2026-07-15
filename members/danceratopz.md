@@ -79,6 +79,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [feat(test-fill): compare Engine X post-state against the sibling fixture in the packing execution check](https://github.com/ethereum/execution-specs/issues/3161) - 2026-07-13
 * [Issue] [fix(test-fill): Engine X fixtures never emit `postStateDiff`](https://github.com/ethereum/execution-specs/issues/3160) - 2026-07-13
 * [Commit] [feat(test-fill): pack Engine X pre-alloc groups (#3122)](https://github.com/ethereum/execution-specs/commit/b07e0c485b09e5bf695dd24a708e7986d5bf7f4e) - 2026-07-13
+* [Review] [Review on: refactor(test-benchmark): organize stateful benchmark folder structure](https://github.com/ethereum/execution-specs/pull/3152#pullrequestreview-4691489623) - 2026-07-14
+* [Commit] [docs(tests): remove legacy `abstract:` prefix from test module docstrings (#3162)](https://github.com/ethereum/execution-specs/commit/31f948fc04693e7d11d93eacf5236d1b32ae28ba) - 2026-07-14
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -88,6 +90,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 * [Pull Request] [clients/go-ethereum: raise engine API max reorg depth for enginex runs](https://github.com/ethereum/hive/pull/1572) - 2026-07-10
 * [Pull Request] [clients/ethrex: raise max reorg depth for enginex runs](https://github.com/ethereum/hive/pull/1571) - 2026-07-10
+* [Review] [Review on: clients/go-ethereum: raise engine API max reorg depth for enginex runs](https://github.com/ethereum/hive/pull/1572#pullrequestreview-4698042282) - 2026-07-14
+* [Commit] [clients/go-ethereum: raise engine API max reorg depth for enginex runs (#1572)](https://github.com/ethereum/hive/commit/26b13cbb7e4664e3f43afd6f8c711d7868b4d001) - 2026-07-14
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09
@@ -95,6 +99,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst, eth/ethconfig, cmd: make engine API max reorg depth configurable](https://github.com/ethereum/go-ethereum/pull/35335) - 2026-07-10
 
+* [Commit] [eth/catalyst, eth/ethconfig, cmd: make engine API max reorg depth configurable (#35335)](https://github.com/ethereum/go-ethereum/commit/abfb2de5749ca059c368a1c000271378dc6b7bb5) - 2026-07-14
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(trie): bound tail changeset revert reads to the database tip](https://github.com/paradigmxyz/reth/pull/26352) - 2026-07-10
 ## Q2 2026

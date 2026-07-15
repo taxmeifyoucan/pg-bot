@@ -23,6 +23,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Fsync during backfill](https://github.com/sigp/lighthouse/issues/9623) - 2026-07-13
 * [Issue] [Delete `stream_blocks_fallback`](https://github.com/sigp/lighthouse/issues/9621) - 2026-07-13
 * [Issue] [Remove `proc-macro-error2` dependency](https://github.com/sigp/lighthouse/issues/9618) - 2026-07-13
+* [Pull Request] [Silence future-incompat warnings](https://github.com/sigp/lighthouse/pull/9639) - 2026-07-15
+* [Review] [Review on: Downgrade log on data column <-> finalization race condition](https://github.com/sigp/lighthouse/pull/9635#pullrequestreview-4699275287) - 2026-07-14
+* [Pull Request] [Fix Gloas sync tests by adding supernode config](https://github.com/sigp/lighthouse/pull/9628) - 2026-07-14
+* [Pull Request] [Update `spin`](https://github.com/sigp/lighthouse/pull/9626) - 2026-07-14
 ## Q2 2026
 
 

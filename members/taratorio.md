@@ -62,6 +62,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: all: lint modernize interface{} to any across codebase and test files](https://github.com/erigontech/erigon/pull/22427#pullrequestreview-4683208489) - 2026-07-13
 * [Review] [Review on: ci: fix empty docker tag + add Discord failure alert (regression from #22386)](https://github.com/erigontech/erigon/pull/22417#pullrequestreview-4683129324) - 2026-07-13
 * [Commit] [execution: implement EIP-8037 updates for glamsterdam-devnet-6 (#22122)](https://github.com/erigontech/erigon/commit/b887c6b9530d13b31f3b9fa427026dfc5d3294fa) - 2026-07-13
+* [Review] [Review on: all: enable omitzero and rangeint analyzers under modernize linter](https://github.com/erigontech/erigon/pull/22449#pullrequestreview-4693618992) - 2026-07-14
+* [Pull Request] [kurtosis: update versions for glamsterdam-devnet-6](https://github.com/erigontech/erigon/pull/22471) - 2026-07-14
+* [Review] [Review on: [r3.5] rpc: fix handle batch deadlock](https://github.com/erigontech/erigon/pull/22459#pullrequestreview-4693476403) - 2026-07-14
+* [Review] [Review on: all: lint enable atomictypes, forvar, and mapsloop analyzers under modernize linter](https://github.com/erigontech/erigon/pull/22435#pullrequestreview-4690905060) - 2026-07-14
+* [Pull Request] [db: rename db/services package to db/dbservices](https://github.com/erigontech/erigon/pull/22456) - 2026-07-14
+* [Review] [Review on: agents: allow testing.Short for long-running tests](https://github.com/erigontech/erigon/pull/22451#pullrequestreview-4693519545) - 2026-07-14
+* [Review] [Review on: execution/protocol/rules: drop redundant per-tx gas-mismatch dump](https://github.com/erigontech/erigon/pull/22441#pullrequestreview-4690917229) - 2026-07-14
+* [Commit] [kurtosis: update versions for glamsterdam-devnet-6 (#22471)](https://github.com/erigontech/erigon/commit/07eae133ddb810fa8ff17f967c7b71913ef528cb) - 2026-07-14
+* [Commit] [execution: implement EIP-8246 selfdestruct burn removal (#22136)](https://github.com/erigontech/erigon/commit/b27a031acb8823d52776a08188a11aae82ccc83b) - 2026-07-14
+* [Commit] [db: rename db/services package to db/dbservices (#22456)](https://github.com/erigontech/erigon/commit/26e49bbba55c977623400957403d04b0e2a7f657) - 2026-07-14
+* [Commit] [execution/bal: serve BALs up to and beyond the WSP (#21764)](https://github.com/erigontech/erigon/commit/85764bca9b120b3170047ce007685a292e826834) - 2026-07-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

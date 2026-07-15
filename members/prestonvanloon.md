@@ -32,6 +32,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Fix `execution_optimistic` decision for attestation rewards API: use ancestor so that block root is guaranteed inside DB](https://github.com/OffchainLabs/prysm/pull/17112#pullrequestreview-4655281973) - 2026-07-08
 * [Review] [Review on: Do not mark a node synced after a failed resync](https://github.com/OffchainLabs/prysm/pull/17125#pullrequestreview-4664289012) - 2026-07-09
 * [Pull Request] [Changelog v7.1.7](https://github.com/OffchainLabs/prysm/pull/17169) - 2026-07-13
+* [Review] [Review on: Do not mark a node synced after a failed resync](https://github.com/OffchainLabs/prysm/pull/17125#pullrequestreview-4696689512) - 2026-07-14
+* [Review] [Review on: Remove Bazel: Phase 3/9 - Part 1](https://github.com/OffchainLabs/prysm/pull/17062#pullrequestreview-4697015568) - 2026-07-14
 ## Q2 2026
 
 

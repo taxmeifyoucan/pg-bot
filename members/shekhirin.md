@@ -25,6 +25,11 @@ Team: Reth
 * [Review] [Review on: fix(metrics): support custom tables](https://github.com/paradigmxyz/reth/pull/26337#pullrequestreview-4662344825) - 2026-07-09
 * [Pull Request] [perf(engine): txpool prewarming](https://github.com/paradigmxyz/reth/pull/26378) - 2026-07-13
 * [Review] [Review on: feat(ci): support Cyclops perf audits](https://github.com/paradigmxyz/reth/pull/26379#pullrequestreview-4687145783) - 2026-07-13
+* [Review] [Review on: chore: disable nightly Docker cron](https://github.com/paradigmxyz/reth/pull/26400#pullrequestreview-4698640237) - 2026-07-14
+* [Pull Request] [trie prewarm](https://github.com/paradigmxyz/reth/pull/26399) - 2026-07-14
+* [Review] [Review on: chore(trie): remove V2 from multiproof span names](https://github.com/paradigmxyz/reth/pull/26395#pullrequestreview-4695922078) - 2026-07-14
+* [Review] [Review on: chore(prune): remove unused prune db crate](https://github.com/paradigmxyz/reth/pull/26391#pullrequestreview-4695319078) - 2026-07-14
+* [Review] [Review on: ci(release): remove x86-64 macos, support custom refs](https://github.com/paradigmxyz/reth/pull/26387#pullrequestreview-4694468235) - 2026-07-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

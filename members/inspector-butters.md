@@ -15,6 +15,9 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Review] [Review on: Fix flaky pending attestation bucket tests](https://github.com/OffchainLabs/prysm/pull/17154#pullrequestreview-4673748372) - 2026-07-10
+* [Review] [Review on: ignore claude directory (avoiding issues with worktrees + gazelle)](https://github.com/OffchainLabs/prysm/pull/17182#pullrequestreview-4699202612) - 2026-07-14
+* [Review] [Review on: progressive withdrawal root and light client changes](https://github.com/OffchainLabs/prysm/pull/16885#pullrequestreview-4694227725) - 2026-07-14
+* [Review] [Review on: wire progressive ssz functions into state fields](https://github.com/OffchainLabs/prysm/pull/16860#pullrequestreview-4694098543) - 2026-07-14
 ## Q2 2026
 
 

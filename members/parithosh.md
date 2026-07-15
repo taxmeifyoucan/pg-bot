@@ -23,6 +23,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [feat(playbooks): add single-node blackout & recovery playbook](https://github.com/ethpandaops/assertoor/pull/218) - 2026-07-13
+* [Pull Request] [feat(tasks): add run_network_disruption task and rewrite blackout playbook](https://github.com/ethpandaops/assertoor/pull/219) - 2026-07-14
 ## Q2 2026
 
 

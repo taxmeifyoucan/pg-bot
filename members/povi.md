@@ -26,6 +26,11 @@ Team: Grandine
 * [Issue] [[Glamsterdam] add missing SSE events](https://github.com/grandinetech/grandine/issues/800) - 2026-07-10
 * [Commit] [Update `crossbeam-epoch`](https://github.com/grandinetech/grandine/commit/6ae713fca1fe6620ef7e45b864c3e136a767b1c1) - 2026-07-10
 * [Review] [Review on: Wait for proposer preferences broadcasting to finish](https://github.com/grandinetech/grandine/pull/804#pullrequestreview-4683758052) - 2026-07-13
+* [Review] [Review on: Fix data availability serve range check](https://github.com/grandinetech/grandine/pull/811#pullrequestreview-4696249409) - 2026-07-14
+* [Pull Request] [Feature/stable containers](https://github.com/grandinetech/grandine/pull/810) - 2026-07-14
+* [Review] [Review on: http_api: update producePayloadAttestationData per beacon-APIs#612 and #626](https://github.com/grandinetech/grandine/pull/806#pullrequestreview-4695620102) - 2026-07-14
+* [Review] [Review on: Add `--args-file` to load CLI options from a YAML file](https://github.com/grandinetech/grandine/pull/797#pullrequestreview-4695597156) - 2026-07-14
+* [Issue] [[Glamsterdam] Block and head SSE events lag sometimes after Grandine produces a block](https://github.com/grandinetech/grandine/issues/809) - 2026-07-14
 ## Q2 2026
 
 

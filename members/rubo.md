@@ -26,6 +26,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [feat(zkevm): align stateless inputs with tests-zkevm@v0.6.2](https://github.com/NethermindEth/nethermind/pull/12430) - 2026-07-13
 * [Pull Request] [chore(ci): Disable stateless devnet tests scheduled run](https://github.com/NethermindEth/nethermind/pull/12428) - 2026-07-13
 * [Commit] [chore(ci): Disable stateless devnet tests scheduled run (#12428)](https://github.com/NethermindEth/nethermind/commit/eb58a359b7f6e140be061d793c4a3ae9e2691fe5) - 2026-07-13
+* [Pull Request] [chore: Update packages](https://github.com/NethermindEth/nethermind/pull/12449) - 2026-07-14
+* [Review] [Review on: chore: Update packages](https://github.com/NethermindEth/nethermind/pull/12449#pullrequestreview-4697918277) - 2026-07-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 ## Q2 2026

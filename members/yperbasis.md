@@ -193,6 +193,33 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [rpc: handleBatch deadlock — wg.Add(len(msgs)) with only len(calls) goroutines hangs the connection (unauthenticated DoS)](https://github.com/erigontech/erigon/issues/22424) - 2026-07-13
 * [Commit] [cl/sentinel: lower undialable-peer discovery log from error to debug (#22433)](https://github.com/erigontech/erigon/commit/ac31d795f42460f7bb6517d1979335768b8be370) - 2026-07-13
 * [Commit] [db/state, execution/stagedsync: consolidate accumulator swap/restore behind SwapChangesetAccumulatorLocked (#22160)](https://github.com/erigontech/erigon/commit/3e73a60f6b01fd280f7905bdeeb8afe72d4e46ea) - 2026-07-13
+* [Review] [Review on: execution: update EIP-7954 MaxCodeSizeAmsterdam = 64KB](https://github.com/erigontech/erigon/pull/22088#pullrequestreview-4694292085) - 2026-07-14
+* [Review] [Review on: execution/state: cache-free parallel execution via versionMap unification (noMaterialize) + warm-read caching](https://github.com/erigontech/erigon/pull/22409#pullrequestreview-4694906570) - 2026-07-14
+* [Pull Request] [execution/cache: fence GenericCache generation swaps and make size accounting exact](https://github.com/erigontech/erigon/pull/22466) - 2026-07-14
+* [Review] [Review on: execution/cache: fence GenericCache generation swaps and make size accounting exact](https://github.com/erigontech/erigon/pull/22466#pullrequestreview-4695260573) - 2026-07-14
+* [Pull Request] [common/math, cl, polygon/bor, execution/cache: deduplicate NextPowerOfTwo](https://github.com/erigontech/erigon/pull/22476) - 2026-07-14
+* [Pull Request] [db, execution: harden StateCache read-fills against stale overwrites and unwinds](https://github.com/erigontech/erigon/pull/22467) - 2026-07-14
+* [Review] [Review on: db, execution: harden StateCache read-fills against stale overwrites and unwinds](https://github.com/erigontech/erigon/pull/22467#pullrequestreview-4694806863) - 2026-07-14
+* [Pull Request] [execution/types/accounts, db/state/execctx: extract codeHash without a full account decode](https://github.com/erigontech/erigon/pull/22468) - 2026-07-14
+* [Review] [Review on: db/state: omit no-op deletes of absent keys in DomainDel](https://github.com/erigontech/erigon/pull/22437#pullrequestreview-4695584151) - 2026-07-14
+* [Review] [Review on: kurtosis: update versions for glamsterdam-devnet-6](https://github.com/erigontech/erigon/pull/22471#pullrequestreview-4694347526) - 2026-07-14
+* [Pull Request] [[bal-devnet-7] execution/stagedsync: fix worker starvation in high-tx-count blocks by optimizing parallel-exec dispatch (#22336)](https://github.com/erigontech/erigon/pull/22473) - 2026-07-14
+* [Pull Request] [execution: fence cache-populating warmups against epoch bumps and clears](https://github.com/erigontech/erigon/pull/22469) - 2026-07-14
+* [Review] [Review on: execution: implement EIP-8246 selfdestruct burn removal](https://github.com/erigontech/erigon/pull/22136#pullrequestreview-4693982715) - 2026-07-14
+* [Pull Request] [ChangeLog: port v3.5.1 and v3.5.2 release notes to main](https://github.com/erigontech/erigon/pull/22457) - 2026-07-14
+* [Review] [Review on: execution/stagedsync: fix worker starvation in high-tx-count blocks by optimizing parallel-exec dispatch](https://github.com/erigontech/erigon/pull/22336#pullrequestreview-4693091775) - 2026-07-14
+* [Pull Request] [[r3.5] rpc: fix handle batch deadlock](https://github.com/erigontech/erigon/pull/22459) - 2026-07-14
+* [Review] [Review on: db: rename db/services package to db/dbservices](https://github.com/erigontech/erigon/pull/22456#pullrequestreview-4693555462) - 2026-07-14
+* [Pull Request] [agents: allow testing.Short for long-running tests](https://github.com/erigontech/erigon/pull/22451) - 2026-07-14
+* [Review] [Review on: agents: allow testing.Short for long-running tests](https://github.com/erigontech/erigon/pull/22451#pullrequestreview-4692661050) - 2026-07-14
+* [Issue] [execution/cache, execution/commitment: epoch reuse after Clear can alias a later unwind and serve dead-fork state](https://github.com/erigontech/erigon/issues/22474) - 2026-07-14
+* [Issue] [execution/cache: ModeNoOp can over-admit and silently evict](https://github.com/erigontech/erigon/issues/22475) - 2026-07-14
+* [Issue] [execution/cache: stale-fill admission is one-sided — pre-unwind snapshots refill dead-fork values, and unwound keys bypass the flush cache-apply](https://github.com/erigontech/erigon/issues/22463) - 2026-07-14
+* [Issue] [kurtosis: glamsterdam network halts at gloas activation — genesis lacks EIP-8282 builder predeploys, block-proposal pass is a proposer lottery](https://github.com/erigontech/erigon/issues/22454) - 2026-07-14
+* [Issue] [execution/stagedsync: avoid quadratic held-back retry reinsertion](https://github.com/erigontech/erigon/issues/22452) - 2026-07-14
+* [Commit] [ChangeLog: port v3.5.1 and v3.5.2 release notes to main (#22457)](https://github.com/erigontech/erigon/commit/85fecf57776a1826250810ab8a89f187c25b8391) - 2026-07-14
+* [Commit] [agents: allow testing.Short for long-running tests (#22451)](https://github.com/erigontech/erigon/commit/0809e5dfe57be4cb7a3917dac24363936e8cc422) - 2026-07-14
+* [Commit] [execution/protocol/rules: drop redundant per-tx gas-mismatch dump (#22441)](https://github.com/erigontech/erigon/commit/8824a05da5ee3ac0177df195a99f04da5765e769) - 2026-07-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

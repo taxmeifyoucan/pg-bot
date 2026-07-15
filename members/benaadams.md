@@ -70,6 +70,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(flat): sealed snapshot counts, HintGet promotion skip, prewarm-filter hash (#12420)](https://github.com/NethermindEth/nethermind/commit/a7e0bb845b2a3416ef710eaac648f4ca78f8412b) - 2026-07-13
 * [Commit] [perf(threading): reduce MCS lock handoff latency (#12417)](https://github.com/NethermindEth/nethermind/commit/e87738be2af7694168b792dfbf68eca9f2231d5c) - 2026-07-13
 * [Commit] [perf(crypto): back the sender cache with AssociativeCache instead of ClockCache (#12418)](https://github.com/NethermindEth/nethermind/commit/d183029496c33116e7d02bd5c1f2237e332fcdd3) - 2026-07-13
+* [Pull Request] [Eliminate JUMPDEST dispatch after valid taken non-traced jumps](https://github.com/NethermindEth/nethermind/pull/12451) - 2026-07-14
+* [Review] [Review on: chore: Update packages](https://github.com/NethermindEth/nethermind/pull/12449#pullrequestreview-4698869129) - 2026-07-14
+* [Review] [Review on: refactor(evm): require ICodeInfoRepository.IsCodeOverridable explicitly](https://github.com/NethermindEth/nethermind/pull/12282#pullrequestreview-4696056104) - 2026-07-14
+* [Review] [Review on: fix(sync): prevent lost wake-up leaving a peer permanently asleep for a context](https://github.com/NethermindEth/nethermind/pull/12255#pullrequestreview-4696961570) - 2026-07-14
+* [Review] [Review on: ci: build the PR sync image once and share it across sync-pr-gate legs](https://github.com/NethermindEth/nethermind/pull/12392#pullrequestreview-4696034640) - 2026-07-14
+* [Review] [Review on: Add BlockProfiler plugin for per-block dotTrace snapshots](https://github.com/NethermindEth/nethermind/pull/12444#pullrequestreview-4694541123) - 2026-07-14
+* [Review] [Review on: fix(blockstore): inject chain header decoder so AuRa blocks decode](https://github.com/NethermindEth/nethermind/pull/12445#pullrequestreview-4694138916) - 2026-07-14
+* [Pull Request] [Harden prewarmer group splitting: capacity gates, whole-job overtake skip, per-worker envs](https://github.com/NethermindEth/nethermind/pull/12433) - 2026-07-14
+* [Review] [Review on: Harden prewarmer group splitting: capacity gates, whole-job overtake skip, per-worker envs](https://github.com/NethermindEth/nethermind/pull/12433#pullrequestreview-4693728955) - 2026-07-14
+* [Commit] [Harden prewarmer group splitting: capacity gates, whole-job overtake skip, per-worker envs (#12433)](https://github.com/NethermindEth/nethermind/commit/8063d50bc303a194f05752feb9587c3845e81146) - 2026-07-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

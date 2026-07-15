@@ -28,6 +28,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Enable channel virtual threads by default](https://github.com/Consensys/teku/pull/10950#pullrequestreview-4655290531) - 2026-07-08
 * [Commit] [Add Aircompressor to RPC. Off by default (#10918)](https://github.com/Consensys/teku/commit/178a3bbd221830cc5c187f2b3457e33b1da39f84) - 2026-07-08
 * [Commit] [Handle worker failure in AggregatingSignatureVerificationService (#10939)](https://github.com/Consensys/teku/commit/1b0f7339ccbc346d3756de00916cb415c7009c34) - 2026-07-08
+* [Pull Request] [Activate Gloas acceptance test](https://github.com/Consensys/teku/pull/10974) - 2026-07-14
+* [Review] [Review on: Activate Gloas acceptance test](https://github.com/Consensys/teku/pull/10974#pullrequestreview-4698089194) - 2026-07-14
+* [Commit] [Activate Gloas acceptance test (#10974)](https://github.com/Consensys/teku/commit/302162dad0b9f0547e89f01c9071ce8a043a265d) - 2026-07-15
+* [Commit] [Reconstruct supernode sidecars from 50% - Reconstructor (#10508)](https://github.com/Consensys/teku/commit/a27dee79ab87ba083142c20babc6d03dc69e2593) - 2026-07-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

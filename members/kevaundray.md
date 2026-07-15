@@ -14,6 +14,10 @@ Team: Consensus R&D (EF)
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Hash-Chain RANDAO](https://github.com/ethereum/EIPs/pull/11861) - 2026-07-05
 * [Review] [Review on: Add EIP: Hash-Chain RANDAO](https://github.com/ethereum/EIPs/pull/11861#pullrequestreview-4634916366) - 2026-07-06
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
+* [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14
 ## Q2 2026
 
 

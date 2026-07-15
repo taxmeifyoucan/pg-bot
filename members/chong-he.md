@@ -14,6 +14,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Dump local testnet logs after startup failure](https://github.com/sigp/lighthouse/pull/9613#pullrequestreview-4670733522) - 2026-07-10
 * [Review] [Review on: Retrieve gloas execution payload envelope by beacon block root](https://github.com/sigp/lighthouse/pull/9594#pullrequestreview-4683733526) - 2026-07-13
 * [Issue] [LightClientUpdatesByRange only returns the first requested sync committee period](https://github.com/sigp/lighthouse/issues/9619) - 2026-07-13
+* [Review] [Review on: Fix Gloas sync tests by adding supernode config](https://github.com/sigp/lighthouse/pull/9628#pullrequestreview-4690958897) - 2026-07-14
+* [Review] [Review on: Update `spin`](https://github.com/sigp/lighthouse/pull/9626#pullrequestreview-4690598630) - 2026-07-14
 ## Q2 2026
 
 

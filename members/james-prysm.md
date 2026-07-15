@@ -59,6 +59,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [Fix event stream reconnect (#17120)](https://github.com/OffchainLabs/prysm/commit/17e4179e3fefb9262b8792dca7ee3492697d2400) - 2026-07-13
 * [Commit] [payload_attestation_data changing path parameter to query parameter  (#17155)](https://github.com/OffchainLabs/prysm/commit/ecd1c0bde9e79a8c26062bcd6f3716e884639e05) - 2026-07-13
 * [Commit] [ux improvement on beacon api flags (#17159)](https://github.com/OffchainLabs/prysm/commit/3980ad1c68d4ce829da99b40323050b14b1d3111) - 2026-07-13
+* [Review] [Review on: Update precheck skill to use `make gen/build` codegen interface](https://github.com/OffchainLabs/prysm/pull/17173#pullrequestreview-4695267801) - 2026-07-14
+* [Review] [Review on: properly switches to v2 proposer duties post gloas](https://github.com/OffchainLabs/prysm/pull/17171#pullrequestreview-4694993663) - 2026-07-14
+* [Pull Request] [reverting blinded envelope](https://github.com/OffchainLabs/prysm/pull/17181) - 2026-07-14
+* [Review] [Review on: Do not mark a node synced after a failed resync](https://github.com/OffchainLabs/prysm/pull/17125#pullrequestreview-4696424047) - 2026-07-14
+* [Pull Request] [Fix prog events](https://github.com/OffchainLabs/prysm/pull/17180) - 2026-07-14
+* [Pull Request] [improve logs when not actually exiting just protducing the exit files](https://github.com/OffchainLabs/prysm/pull/17177) - 2026-07-14
+* [Commit] [properly switches to v2 proposer duties post gloas (#17171)](https://github.com/OffchainLabs/prysm/commit/319971bf3bbaec8d491ee43ed2a21f3f5f06a756) - 2026-07-14
 ## Q2 2026
 
 

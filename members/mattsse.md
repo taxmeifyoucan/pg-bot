@@ -113,6 +113,13 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump the cargo-weekly group with 21 updates](https://github.com/paradigmxyz/reth/pull/26371#pullrequestreview-4683956532) - 2026-07-13
 * [Review] [Review on: chore(deps): bump the ci-weekly group with 7 updates](https://github.com/paradigmxyz/reth/pull/26370#pullrequestreview-4683650511) - 2026-07-13
 * [Commit] [fix(import): reject incomplete block at EOF (#26363)](https://github.com/paradigmxyz/reth/commit/bb0c5cd14e8ddaba4ba2a4ee49017de2a11b5534) - 2026-07-13
+* [Review] [Review on: chore(txpool): remove unused pool test utilities](https://github.com/paradigmxyz/reth/pull/26396#pullrequestreview-4699435366) - 2026-07-14
+* [Review] [Review on: feat(engine): add SSZ payload bodies endpoints](https://github.com/paradigmxyz/reth/pull/26394#pullrequestreview-4696259298) - 2026-07-14
+* [Review] [Review on: chore(rpc): remove rpc api testing util crate](https://github.com/paradigmxyz/reth/pull/26393#pullrequestreview-4695839511) - 2026-07-14
+* [Review] [Review on: chore(prune): remove unused prune db crate](https://github.com/paradigmxyz/reth/pull/26391#pullrequestreview-4695310597) - 2026-07-14
+* [Review] [Review on: feat(engine): add REST-SSZ blob body witness containers](https://github.com/paradigmxyz/reth/pull/26328#pullrequestreview-4693265373) - 2026-07-14
+* [Review] [Review on: feat(engine): use SSZ containers in proxy](https://github.com/paradigmxyz/reth/pull/26335#pullrequestreview-4693264994) - 2026-07-14
+* [Review] [Review on: chore: bump version to 2.4.0](https://github.com/paradigmxyz/reth/pull/26385#pullrequestreview-4693221504) - 2026-07-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

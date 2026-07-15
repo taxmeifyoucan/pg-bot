@@ -35,6 +35,14 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: precompiles: Handle allocation failure in call_precompile](https://github.com/ipsilon/evmone/pull/1582#pullrequestreview-4683755570) - 2026-07-13
 * [Commit] [state: Simplify `compute_create_address()` (#1590)](https://github.com/ipsilon/evmone/commit/2af500ba76b1fb7c8c938bce9f5542cd0a6c68b7) - 2026-07-13
 * [Commit] [evmc: Add get_nonce() to the host interface (#1588)](https://github.com/ipsilon/evmone/commit/2b439da622eccbcdb890ee1dffc30f2b7b3c26cb) - 2026-07-13
+* [Pull Request] [state: Store storage-slot pointers in journal instead of keys](https://github.com/ipsilon/evmone/pull/1594) - 2026-07-14
+* [Pull Request] [evmc: Remove the capabilities feature](https://github.com/ipsilon/evmone/pull/1593) - 2026-07-14
+* [Pull Request] [Move MAX_NONCE constant to constants.hpp](https://github.com/ipsilon/evmone/pull/1592) - 2026-07-14
+* [Pull Request] [Move the create address computation to lib/evmone](https://github.com/ipsilon/evmone/pull/1591) - 2026-07-14
+* [Commit] [evmc: Remove the capabilities feature (#1593)](https://github.com/ipsilon/evmone/commit/f5e91c8e3806522d508da8be3147c6f5dc6ec3f8) - 2026-07-14
+* [Commit] [Compute the create address in the VM (#1589)](https://github.com/ipsilon/evmone/commit/3c4d6cbdc7e43222f891a0f689ba60d51fcc48e2) - 2026-07-14
+* [Commit] [Move MAX_NONCE constant to constants.hpp (#1592)](https://github.com/ipsilon/evmone/commit/056dc2aae333a1541641b2de189970114720a44b) - 2026-07-14
+* [Commit] [Move the create address computation to lib/evmone (#1591)](https://github.com/ipsilon/evmone/commit/b176de07a5cfa80e370b9741b8d908ea0afa5342) - 2026-07-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -70,6 +78,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): add type-0 transaction RLP validity tests](https://github.com/ethereum/execution-specs/pull/3156) - 2026-07-13
 * [Pull Request] [feat(tests): restore sstore_combinations as a hand-written test](https://github.com/ethereum/execution-specs/pull/3154) - 2026-07-13
 * [Pull Request] [feat(tests): add dynamic-destination JUMP/JUMPI invalid-target tests](https://github.com/ethereum/execution-specs/pull/3153) - 2026-07-13
+* [Pull Request] [feat(tests): add CREATE refund-vs-child-spill routing test](https://github.com/ethereum/execution-specs/pull/3163) - 2026-07-14
+* [Commit] [feat(tests): restore sstore_combinations as a hand-written test (#3154)](https://github.com/ethereum/execution-specs/commit/f34ff59046e7c31ffbd2dd18124554c71fe28e41) - 2026-07-14
+* [Commit] [feat(tests): add CREATE refund-vs-child-spill routing test (#3163)](https://github.com/ethereum/execution-specs/commit/86a66991ca525238d97d4448d70d75c56a622c02) - 2026-07-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

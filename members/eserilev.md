@@ -25,6 +25,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4679738766) - 2026-07-12
 * [Pull Request] [Align gloas proposer reorg weight logic w/ spec](https://github.com/sigp/lighthouse/pull/9625) - 2026-07-13
 * [Review] [Review on: Align gloas proposer reorg weight logic w/ spec](https://github.com/sigp/lighthouse/pull/9625#pullrequestreview-4686009343) - 2026-07-13
+* [Pull Request] [Ensure disk reads for gloas payload bid fetching are always in a bloc…](https://github.com/sigp/lighthouse/pull/9634) - 2026-07-14
+* [Review] [Review on: Retrieve gloas execution payload envelope by beacon block root](https://github.com/sigp/lighthouse/pull/9594#pullrequestreview-4692124006) - 2026-07-14
 ## Q2 2026
 
 

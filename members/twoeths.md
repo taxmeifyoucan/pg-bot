@@ -28,6 +28,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: update stateTransition interface to take raw block bytes instead](https://github.com/ChainSafe/lodestar/pull/9632#pullrequestreview-4669998478) - 2026-07-10
 * [Review] [Review on: feat: chain.targetGasLimit](https://github.com/ChainSafe/lodestar/pull/9622#pullrequestreview-4683988149) - 2026-07-13
 * [Review] [Review on: fix: reject beacon state requests while syncing to avoid regen wedge](https://github.com/ChainSafe/lodestar/pull/9641#pullrequestreview-4683152669) - 2026-07-13
+* [Review] [Review on: fix: reject beacon state requests while syncing to avoid regen wedge](https://github.com/ChainSafe/lodestar/pull/9641#pullrequestreview-4693639938) - 2026-07-14
+* [Review] [Review on: fix: do not compare proposer index in proposer boost](https://github.com/ChainSafe/lodestar/pull/9653#pullrequestreview-4694404561) - 2026-07-14
+* [Review] [Review on: feat: add dependent root check when giving out proposer boost](https://github.com/ChainSafe/lodestar/pull/9565#pullrequestreview-4693852132) - 2026-07-14
+* [Pull Request] [feat: implement forkchoice is_head_weak()](https://github.com/ChainSafe/lodestar/pull/9654) - 2026-07-14
+* [Review] [Review on: feat: implement should_apply_proposer_boost for gloas](https://github.com/ChainSafe/lodestar/pull/9233#pullrequestreview-4692683515) - 2026-07-14
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

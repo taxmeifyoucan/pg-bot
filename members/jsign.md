@@ -19,6 +19,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12
 * [Commit] [Update to ere-guests v0.13 (#296)](https://github.com/eth-act/zkevm-benchmark-workload/commit/e0b6519bce426a3c817c9ca684f62eb2cce3931b) - 2026-07-13
+* [Pull Request] [feat: accept only canonical fixtures guest programs](https://github.com/eth-act/zkevm-benchmark-workload/pull/297) - 2026-07-14
+* [Review] [Review on: feat: accept only canonical fixtures guest programs](https://github.com/eth-act/zkevm-benchmark-workload/pull/297#pullrequestreview-4698993795) - 2026-07-14
 ## Q2 2026
 
 

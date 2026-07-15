@@ -8,6 +8,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Commit] [cmd/utils: tune GOGC for large cache values (#34851)](https://github.com/ethereum/go-ethereum/commit/c3f28518726a1ffe0051282f66666abb88710d18) - 2026-07-14
 ## Q2 2026
 
 

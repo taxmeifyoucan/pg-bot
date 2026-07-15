@@ -28,6 +28,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [update validation result for fee recipient to ignore not reject (#10953)](https://github.com/Consensys/teku/commit/9c73fa5f0be66f02a8028666bf05d02faa5cd3dc) - 2026-07-09
 * [Pull Request] [Remove eth1 deposit cli options](https://github.com/Consensys/teku/pull/10957) - 2026-07-10
 * [Review] [Review on: updated jc-kzg version](https://github.com/Consensys/teku/pull/10958#pullrequestreview-4668807375) - 2026-07-10
+* [Review] [Review on: Activate Gloas acceptance test](https://github.com/Consensys/teku/pull/10974#pullrequestreview-4699517210) - 2026-07-14
 ## Q2 2026
 
 

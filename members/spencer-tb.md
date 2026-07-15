@@ -82,6 +82,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-consume): set HIVE_EXPECT_DEEP_REORGS in the multi-test client environment](https://github.com/ethereum/execution-specs/pull/3145#pullrequestreview-4677381747) - 2026-07-11
 * [Review] [Review on: fix(test-benchmark): correct compute benchmarks that ran below worst case](https://github.com/ethereum/execution-specs/pull/3136#pullrequestreview-4683987730) - 2026-07-13
 * [Review] [Review on: fix(test-benchmark): make audited compute benchmarks measure real work](https://github.com/ethereum/execution-specs/pull/3135#pullrequestreview-4683970483) - 2026-07-13
+* [Pull Request] [chore(spec-specs, tests): EIP-2780 review follow-ups](https://github.com/ethereum/execution-specs/pull/3164) - 2026-07-14
+* [Pull Request] [fix(tests): test tx max nonce at u64 boundary, add nonce overflow test](https://github.com/ethereum/execution-specs/pull/3165) - 2026-07-14
+* [Issue] [Test Release Tracker: `glamsterdam-devnet@v8.0.0`](https://github.com/ethereum/execution-specs/issues/3167) - 2026-07-14
+* [Commit] [feat(spec-specs, tests): charge EIP-8037 account creation at access (#3116)](https://github.com/ethereum/execution-specs/commit/5c024cbbd8963ea23c6a081ca7b8ce327c3d5224) - 2026-07-14
+* [Commit] [fix(spec-specs, tests): EIP-2780 review follow-ups (#3164)](https://github.com/ethereum/execution-specs/commit/59940cae760bca899677c1bf4e50124131a3f004) - 2026-07-14
+* [Commit] [fix(tests): test tx max nonce at u64 boundary, add nonce overflow test (#3165)](https://github.com/ethereum/execution-specs/commit/a3638dc8db526ac5fc612c56acdc078b14daec95) - 2026-07-14
+* [Commit] [fix(test-fixtures): emit chainId in state test fixture transaction (#3125)](https://github.com/ethereum/execution-specs/commit/21a52f4a0508dbf8b3649dd7bdfa33988fef4406) - 2026-07-14
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

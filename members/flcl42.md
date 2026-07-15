@@ -62,6 +62,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Fix state gas spill with negative reservoir (#12338)](https://github.com/NethermindEth/nethermind/commit/ac83915ad23f2747ff81d2a0e263415e4b907e93) - 2026-07-10
 * [Pull Request] [Glamsterdam devnet 7](https://github.com/NethermindEth/nethermind/pull/12397) - 2026-07-12
 * [Review] [Review on: fix(network): skip peer candidates with an unresolved TCP port](https://github.com/NethermindEth/nethermind/pull/12408#pullrequestreview-4687963909) - 2026-07-13
+* [Pull Request] [Validate discv4 peer endpoints before P2P discovery](https://github.com/NethermindEth/nethermind/pull/12443) - 2026-07-14
+* [Review] [Review on: Sweep gen2 concurrently during sustained block processing](https://github.com/NethermindEth/nethermind/pull/12434#pullrequestreview-4693770919) - 2026-07-14
+* [Review] [Review on: Add BlockProfiler plugin for per-block dotTrace snapshots](https://github.com/NethermindEth/nethermind/pull/12444#pullrequestreview-4694324978) - 2026-07-14
+* [Review] [Review on: Extract censorship detector into plugin](https://github.com/NethermindEth/nethermind/pull/12432#pullrequestreview-4691562043) - 2026-07-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

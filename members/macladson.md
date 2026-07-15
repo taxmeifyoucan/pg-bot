@@ -16,6 +16,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Avoid taking write lock when shuffling is cached](https://github.com/sigp/lighthouse/pull/9615) - 2026-07-10
 * [Pull Request] [Reduce fork choice reads in attestation gossip verification](https://github.com/sigp/lighthouse/pull/9616) - 2026-07-10
 * [Pull Request] [Add metrics for fork choice lock hold times](https://github.com/sigp/lighthouse/pull/9614) - 2026-07-10
+* [Review] [Review on: Implement super batch signature verification (PoC)](https://github.com/sigp/lighthouse/pull/9521#pullrequestreview-4694260808) - 2026-07-14
 ## Q2 2026
 
 

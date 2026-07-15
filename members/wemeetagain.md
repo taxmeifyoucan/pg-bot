@@ -37,6 +37,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: make lodestar-z BLS opt-in](https://github.com/ChainSafe/lodestar/pull/9652) - 2026-07-13
 * [Pull Request] [chore: bump libp2p-quic to 2.1.1](https://github.com/ChainSafe/lodestar/pull/9651) - 2026-07-13
 * [Commit] [chore: bump libp2p-quic to 2.1.1 (#9651)](https://github.com/ChainSafe/lodestar/commit/242f99edcf7274831396c624be8088021edbdf4e) - 2026-07-13
+* [Review] [Review on: fix: reject beacon state requests while syncing to avoid regen wedge](https://github.com/ChainSafe/lodestar/pull/9641#pullrequestreview-4694488416) - 2026-07-14
+* [Pull Request] [chore: update ssz to 1.6.2](https://github.com/ChainSafe/lodestar/pull/9658) - 2026-07-14
+* [Review] [Review on: chore: update ssz to 1.6.2](https://github.com/ChainSafe/lodestar/pull/9658#pullrequestreview-4698588230) - 2026-07-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -57,6 +60,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: bump zapi to include musl build](https://github.com/ChainSafe/lodestar-z/pull/485#pullrequestreview-4672832126) - 2026-07-10
 * [Review] [Review on: fix: avoid set](https://github.com/ChainSafe/lodestar-z/pull/484#pullrequestreview-4672648038) - 2026-07-10
 * [Review] [Review on: chore: silence debug log when used in release builds](https://github.com/ChainSafe/lodestar-z/pull/486#pullrequestreview-4688423668) - 2026-07-13
+* [Review] [Review on: fix(bindings): validate secret key hex length](https://github.com/ChainSafe/lodestar-z/pull/487#pullrequestreview-4694438644) - 2026-07-14
 ## Q2 2026
 
 

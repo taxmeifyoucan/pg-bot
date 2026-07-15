@@ -26,6 +26,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): organize gas logic in amsterdam EIP-8037/8038/2780](https://github.com/ethereum/execution-specs/pull/3159) - 2026-07-13
 * [Review] [Review on: refactor(spec-specs): credit CREATE refund before child incorporation](https://github.com/ethereum/execution-specs/pull/3099#pullrequestreview-4685911073) - 2026-07-13
 * [Commit] [feat(spec-specs,test-tests): update the EIP-2780 implementation (#3126)](https://github.com/ethereum/execution-specs/commit/77e95ef10593cbeabcdefef41c130abee8760f91) - 2026-07-13
+* [Review] [Review on: feat(spec-specs, tests): charge EIP-8037 account creation at access](https://github.com/ethereum/execution-specs/pull/3116#pullrequestreview-4693366497) - 2026-07-14
+* [Review] [Review on: chore(spec-specs, tests): EIP-2780 review follow-ups](https://github.com/ethereum/execution-specs/pull/3164#pullrequestreview-4693685302) - 2026-07-14
+* [Review] [Review on: fix(tests): test tx max nonce at u64 boundary, add nonce overflow test](https://github.com/ethereum/execution-specs/pull/3165#pullrequestreview-4693602478) - 2026-07-14
+* [Review] [Review on: feat(tests): add CREATE refund-vs-child-spill routing test](https://github.com/ethereum/execution-specs/pull/3163#pullrequestreview-4693137965) - 2026-07-14
 ## Q2 2026
 
 

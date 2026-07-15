@@ -29,6 +29,9 @@ Team: Reth
 * [Pull Request] [feat(rpc): restore evm2 RPC support](https://github.com/paradigmxyz/reth/pull/26381) - 2026-07-13
 * [Pull Request] [refactor: replace revm execution paths with evm2](https://github.com/paradigmxyz/reth/pull/26382) - 2026-07-13
 
+* [Review] [Review on: chore: bump revmc](https://github.com/paradigmxyz/reth/pull/26388#pullrequestreview-4694831479) - 2026-07-14
+* [Review] [Review on: chore(rpc): remove rpc api testing util crate](https://github.com/paradigmxyz/reth/pull/26393#pullrequestreview-4695937715) - 2026-07-14
+* [Review] [Review on: ci(release): remove x86-64 macos, support custom refs](https://github.com/paradigmxyz/reth/pull/26387#pullrequestreview-4694686316) - 2026-07-14
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

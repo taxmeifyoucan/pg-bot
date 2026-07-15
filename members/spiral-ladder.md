@@ -22,6 +22,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix: restore browser-safe light client BLS](https://github.com/ChainSafe/lodestar/pull/9638#pullrequestreview-4671697022) - 2026-07-10
 * [Issue] [feat(pubkeys): pre-alloc num validators + some buffer room](https://github.com/ChainSafe/lodestar/issues/9639) - 2026-07-10
 * [Review] [Review on: chore: bump libp2p-quic to 2.1.1](https://github.com/ChainSafe/lodestar/pull/9651#pullrequestreview-4688474256) - 2026-07-13
+* [Review] [Review on: chore: update ssz to 1.6.2](https://github.com/ChainSafe/lodestar/pull/9658#pullrequestreview-4698717195) - 2026-07-14
+* [Review] [Review on: feat: make lodestar-z BLS opt-in](https://github.com/ChainSafe/lodestar/pull/9652#pullrequestreview-4694521035) - 2026-07-14
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -56,6 +58,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [chore: silence debug log when used in release builds](https://github.com/ChainSafe/lodestar-z/pull/486) - 2026-07-13
 * [Review] [Review on: chore: silence debug log when used in release builds](https://github.com/ChainSafe/lodestar-z/pull/486#pullrequestreview-4684339733) - 2026-07-13
 * [Commit] [chore: silence debug log when used in release builds (#486)](https://github.com/ChainSafe/lodestar-z/commit/c5377d7a1f6d7e97c0cdf78b97219e7484f97613) - 2026-07-13
+* [Review] [Review on: fix(bindings): check signature infinity by default](https://github.com/ChainSafe/lodestar-z/pull/488#pullrequestreview-4698893242) - 2026-07-14
 ## Q2 2026
 
 

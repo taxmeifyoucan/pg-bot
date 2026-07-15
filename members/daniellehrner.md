@@ -33,6 +33,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [EIP-7954: raise Amsterdam max code/initcode size to 64KiB/128KiB (#10742)](https://github.com/besu-eth/besu/commit/0ac653c582ada83e062be52fbf5a611cef86a8e3) - 2026-07-08
 * [Commit] [Add CL target gas limit to engine forkchoiceUpdatedV4 (#10745)](https://github.com/besu-eth/besu/commit/72361b3bb9b67ad07dc3cb933a53acc3c071dd19) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4671877942) - 2026-07-10
+* [Pull Request] [Update to pass spec tests for glamsterdam-devnet-7](https://github.com/besu-eth/besu/pull/10801) - 2026-07-14
 ## Q2 2026
 
 

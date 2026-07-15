@@ -8,6 +8,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aanto
 
 ## Contributions
 
+## Q3 2026
+
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Review] [Review on: Downgrade log on data column <-> finalization race condition](https://github.com/sigp/lighthouse/pull/9635#pullrequestreview-4696361007) - 2026-07-14
 ## Q2 2026
 
 
