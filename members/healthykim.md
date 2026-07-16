@@ -17,6 +17,9 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: cmd/devp2p: fix swapped args in private-key error message](https://github.com/ethereum/go-ethereum/pull/35193#pullrequestreview-4625891989) - 2026-07-03
 * [Review] [Review on: eth/protocols/eth: fix blockAccessList empty marker](https://github.com/ethereum/go-ethereum/pull/35286#pullrequestreview-4624552895) - 2026-07-03
 * [Review] [Review on: core/txpool/locals: nil journal writer before checking close error](https://github.com/ethereum/go-ethereum/pull/35300#pullrequestreview-4636576891) - 2026-07-06
+* [Pull Request] [cmd/devp2p/internal/ethtest: add osaka testdata and eth/72 tests](https://github.com/ethereum/go-ethereum/pull/35368) - 2026-07-15
+* [Pull Request] [core/txpool: add blocked transaction size cap](https://github.com/ethereum/go-ethereum/pull/35367) - 2026-07-15
+* [Commit] [core/txpool/blobpool, eth: implement sparse blobpool (#34047)](https://github.com/ethereum/go-ethereum/commit/d91b71fb3627253537c2144a1d174dab871fec3c) - 2026-07-15
 ## Q2 2026
 
 

@@ -13,6 +13,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Pull Request] [ignore claude directory (avoiding issues with worktrees + gazelle)](https://github.com/OffchainLabs/prysm/pull/17182) - 2026-07-14
+* [Commit] [ignore claude directory (avoiding issues with worktrees + gazelle) (#17182)](https://github.com/OffchainLabs/prysm/commit/9825eadc69c8581150e48052c5953cd437b0f237) - 2026-07-15
 ## Q2 2026
 
 

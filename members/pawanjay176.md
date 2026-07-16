@@ -20,6 +20,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Pull Request] [Fix rust 1.97 lints](https://github.com/sigp/lighthouse/pull/9607) - 2026-07-09
 * [Review] [Review on: Pin genesis generator to devnet-6](https://github.com/sigp/lighthouse/pull/9608#pullrequestreview-4666821370) - 2026-07-09
 * [Review] [Review on: Move expensive gossip column computation tasks off async runtime](https://github.com/sigp/lighthouse/pull/9271#pullrequestreview-4676273793) - 2026-07-11
+* [Review] [Review on: Narrow payload bid cache generics to EthSpec](https://github.com/sigp/lighthouse/pull/9645#pullrequestreview-4708496950) - 2026-07-15
+* [Review] [Review on: Add metrics for fork choice lock hold times](https://github.com/sigp/lighthouse/pull/9614#pullrequestreview-4707505106) - 2026-07-15
+* [Review] [Review on: Reject RPC requests with trailing bytes](https://github.com/sigp/lighthouse/pull/9567#pullrequestreview-4706906223) - 2026-07-15
 ## Q2 2026
 
 

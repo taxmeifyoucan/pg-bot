@@ -44,6 +44,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Bump chronos](https://github.com/status-im/nimbus-eth1/pull/4474) - 2026-07-13
 * [Commit] [Bump chronos (#4474)](https://github.com/status-im/nimbus-eth1/commit/0b0a1a2517fc7e9b21dd5f0a46900094942f2861) - 2026-07-13
 * [Pull Request] [Bump nim-boringssl to fix nightly build cross compilation issue](https://github.com/status-im/nimbus-eth1/pull/4488) - 2026-07-15
+* [Pull Request] [glamsterdam devnet 7](https://github.com/status-im/nimbus-eth1/pull/4498) - 2026-07-15
+* [Pull Request] [Upgrade evmstate to handle newest EEST fixtures](https://github.com/status-im/nimbus-eth1/pull/4490) - 2026-07-15
+* [Commit] [Upgrade evmstate to handle newest EEST fixtures (#4490)](https://github.com/status-im/nimbus-eth1/commit/d9b3310848fe3daa11625ff9e5950fa3beedf8c1) - 2026-07-15
+* [Commit] [Bump nim-boringssl to fix nightly build cross compilation issue (#4488)](https://github.com/status-im/nimbus-eth1/commit/e0ee8a79bdba01934add0492446177a49c93d329) - 2026-07-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

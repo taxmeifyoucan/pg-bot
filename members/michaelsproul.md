@@ -27,6 +27,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Downgrade log on data column <-> finalization race condition](https://github.com/sigp/lighthouse/pull/9635#pullrequestreview-4699275287) - 2026-07-14
 * [Pull Request] [Fix Gloas sync tests by adding supernode config](https://github.com/sigp/lighthouse/pull/9628) - 2026-07-14
 * [Pull Request] [Update `spin`](https://github.com/sigp/lighthouse/pull/9626) - 2026-07-14
+* [Review] [Review on: Silence future-incompat warnings](https://github.com/sigp/lighthouse/pull/9639#pullrequestreview-4709708146) - 2026-07-16
 ## Q2 2026
 
 

@@ -66,6 +66,20 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Sweep gen2 concurrently during sustained block processing](https://github.com/NethermindEth/nethermind/pull/12434#pullrequestreview-4693770919) - 2026-07-14
 * [Review] [Review on: Add BlockProfiler plugin for per-block dotTrace snapshots](https://github.com/NethermindEth/nethermind/pull/12444#pullrequestreview-4694324978) - 2026-07-14
 * [Review] [Review on: Extract censorship detector into plugin](https://github.com/NethermindEth/nethermind/pull/12432#pullrequestreview-4691562043) - 2026-07-14
+* [Review] [Review on: chore(docs): Remove broken badge](https://github.com/NethermindEth/nethermind/pull/12466#pullrequestreview-4706517765) - 2026-07-15
+* [Review] [Review on: Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool](https://github.com/NethermindEth/nethermind/pull/12463#pullrequestreview-4705889869) - 2026-07-15
+* [Pull Request] [Add versioned engine_newPayloadWithWitness methods](https://github.com/NethermindEth/nethermind/pull/12464) - 2026-07-15
+* [Pull Request] [Fix eth/70 receipt validation for EIP-2780](https://github.com/NethermindEth/nethermind/pull/12462) - 2026-07-15
+* [Review] [Review on: Fix eth/70 receipt validation for EIP-2780](https://github.com/NethermindEth/nethermind/pull/12462#pullrequestreview-4704943706) - 2026-07-15
+* [Review] [Review on: fix(flat): guard the trie-warmer against a TransientResource recycle race (storage reads as 0x00)](https://github.com/NethermindEth/nethermind/pull/12429#pullrequestreview-4703489215) - 2026-07-15
+* [Review] [Review on: perf(db): bound RocksDB index/filter memory with cache_index_and_filter_blocks (opt-in)](https://github.com/NethermindEth/nethermind/pull/12403#pullrequestreview-4704715335) - 2026-07-15
+* [Review] [Review on: perf(flatdb): paced GC + gen0 fission to cut read-path GC pauses at gigagas scale](https://github.com/NethermindEth/nethermind/pull/12402#pullrequestreview-4704459637) - 2026-07-15
+* [Pull Request] [Fix EIP-2780 gas after sender recovery](https://github.com/NethermindEth/nethermind/pull/12459) - 2026-07-15
+* [Review] [Review on: Add Nix flake for NixOS support](https://github.com/NethermindEth/nethermind/pull/12388#pullrequestreview-4703859154) - 2026-07-15
+* [Review] [Review on: Let caches clear and code commit in background](https://github.com/NethermindEth/nethermind/pull/9012#pullrequestreview-4703632931) - 2026-07-15
+* [Review] [Review on: chore: Update packages](https://github.com/NethermindEth/nethermind/pull/12449#pullrequestreview-4702020412) - 2026-07-15
+* [Commit] [Fix eth/70 receipt validation for EIP-2780 (#12462)](https://github.com/NethermindEth/nethermind/commit/03567d56d07d766db8b153dae7c365e6c9cc54a9) - 2026-07-15
+* [Commit] [Validate discv4 peer endpoints before P2P discovery (#12443)](https://github.com/NethermindEth/nethermind/commit/302950a75375517b73821ba19e7692335e8721cd) - 2026-07-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

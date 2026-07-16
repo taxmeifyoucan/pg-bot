@@ -66,6 +66,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [Fix prog events](https://github.com/OffchainLabs/prysm/pull/17180) - 2026-07-14
 * [Pull Request] [improve logs when not actually exiting just protducing the exit files](https://github.com/OffchainLabs/prysm/pull/17177) - 2026-07-14
 * [Commit] [properly switches to v2 proposer duties post gloas (#17171)](https://github.com/OffchainLabs/prysm/commit/319971bf3bbaec8d491ee43ed2a21f3f5f06a756) - 2026-07-14
+* [Review] [Review on: Fix nil block dereference in Gloas envelope/data-column gossip validation](https://github.com/OffchainLabs/prysm/pull/17184#pullrequestreview-4704830852) - 2026-07-15
+* [Review] [Review on: fix(validator): synchronize remote web3signer key file watcher startup](https://github.com/OffchainLabs/prysm/pull/17188#pullrequestreview-4708328754) - 2026-07-15
+* [Review] [Review on: ignore claude directory (avoiding issues with worktrees + gazelle)](https://github.com/OffchainLabs/prysm/pull/17182#pullrequestreview-4704770580) - 2026-07-15
+* [Review] [Review on: wire progressive ssz functions into state fields](https://github.com/OffchainLabs/prysm/pull/16860#pullrequestreview-4707140705) - 2026-07-15
+* [Review] [Review on: Add EIP-8070 engine apis (ForkchoiceUpdatedV4, GetBlobsV4)](https://github.com/OffchainLabs/prysm/pull/17051#pullrequestreview-4705639807) - 2026-07-15
+* [Review] [Review on: Drop `--interop-num-validators` and `--interop-start-index` usage in E2E test](https://github.com/OffchainLabs/prysm/pull/17162#pullrequestreview-4705219688) - 2026-07-15
+* [Review] [Review on: progressive hashTreeRoot](https://github.com/OffchainLabs/prysm/pull/16861#pullrequestreview-4705472853) - 2026-07-15
 ## Q2 2026
 
 

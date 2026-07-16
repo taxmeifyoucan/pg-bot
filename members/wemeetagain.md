@@ -61,6 +61,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: avoid set](https://github.com/ChainSafe/lodestar-z/pull/484#pullrequestreview-4672648038) - 2026-07-10
 * [Review] [Review on: chore: silence debug log when used in release builds](https://github.com/ChainSafe/lodestar-z/pull/486#pullrequestreview-4688423668) - 2026-07-13
 * [Review] [Review on: fix(bindings): validate secret key hex length](https://github.com/ChainSafe/lodestar-z/pull/487#pullrequestreview-4694438644) - 2026-07-14
+
+* [Review] [Review on: fix(bindings): check signature infinity by default](https://github.com/ChainSafe/lodestar-z/pull/509#pullrequestreview-4707253001) - 2026-07-15
+* [Review] [Review on: ci: automate releases with release-please](https://github.com/ChainSafe/lodestar-z/pull/479#pullrequestreview-4704488491) - 2026-07-15
+* [Review] [Review on: chore(ci): pin github actions with sha hashes](https://github.com/ChainSafe/lodestar-z/pull/507#pullrequestreview-4704272911) - 2026-07-15
+* [Review] [Review on: fix(bls): clean up partial thread pool initialization](https://github.com/ChainSafe/lodestar-z/pull/490#pullrequestreview-4704346201) - 2026-07-15
+* [Review] [Review on: fix(bls): align PublicKey.uncompress validation with Signature.uncompress](https://github.com/ChainSafe/lodestar-z/pull/508#pullrequestreview-4703961721) - 2026-07-15
+* [Review] [Review on: refactor(bindings): use zapi js.io() instead of local io module](https://github.com/ChainSafe/lodestar-z/pull/469#pullrequestreview-4704022443) - 2026-07-15
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026
 
 

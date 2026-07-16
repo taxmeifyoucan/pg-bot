@@ -50,9 +50,17 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Complete deprecated blob sidecar range requests](https://github.com/Consensys/teku/pull/10971) - 2026-07-14
 * [Commit] [cleanup gossip params (#10956)](https://github.com/Consensys/teku/commit/d2956e89299380bd7091e5c0d38b110118015041) - 2026-07-14
 * [Commit] [Complete deprecated blob sidecar range requests (#10971)](https://github.com/Consensys/teku/commit/0c960c841a00935c10feded2f82f07add91d7a3c) - 2026-07-14
+* [Review] [Review on: Update Schema Registry and adopt progressive ssz in GLOAS](https://github.com/Consensys/teku/pull/10966#pullrequestreview-4705621691) - 2026-07-15
+* [Pull Request] [Warm Gradle dependencies for CI test shards](https://github.com/Consensys/teku/pull/10977) - 2026-07-15
+* [Review] [Review on: Warm Gradle dependencies for CI test shards](https://github.com/Consensys/teku/pull/10977#pullrequestreview-4704526337) - 2026-07-15
+* [Issue] [support load\store LEVELB_TREE or whatever come next](https://github.com/Consensys/teku/issues/10978) - 2026-07-15
+* [Commit] [Warm Gradle dependencies for CI test shards (#10977)](https://github.com/Consensys/teku/commit/a7c161c40c0ba73c0a5bd3b02bc4edf3dea4fed2) - 2026-07-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07
+
+[libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
+* [Pull Request] [QUIC memory leak fix](https://github.com/libp2p/jvm-libp2p/pull/504) - 2026-07-15
 ## Q2 2026
 
 

@@ -107,6 +107,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Validate execution payload envelopes fetched by root](https://github.com/OffchainLabs/prysm/pull/17176) - 2026-07-14
 * [Pull Request] [Validate execution payload envelopes fetched by root](https://github.com/OffchainLabs/prysm/pull/17175) - 2026-07-14
 * [Commit] [Verify by-root block signatures before pending-queue insert (#17172)](https://github.com/OffchainLabs/prysm/commit/7f36cd75845e7f5fde70a112242a696e3779002f) - 2026-07-14
+* [Review] [Review on: Add test files omitted from Bazel BUILD files](https://github.com/OffchainLabs/prysm/pull/17185#pullrequestreview-4706076935) - 2026-07-15
+* [Pull Request] [Unify payload reorg (attempt #2)](https://github.com/OffchainLabs/prysm/pull/17187) - 2026-07-15
+* [Pull Request] [Unify payload reorg policy](https://github.com/OffchainLabs/prysm/pull/17186) - 2026-07-15
+* [Commit] [Validate execution payload envelopes fetched by root (#17176)](https://github.com/OffchainLabs/prysm/commit/7d54646cb693e7355e67921937632e9c8bf51ae6) - 2026-07-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

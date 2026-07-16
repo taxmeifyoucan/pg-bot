@@ -27,6 +27,7 @@ Team: Erigon
 * [Pull Request] [execution/state: cache-free parallel execution via versionMap unification (noMaterialize) + warm-read caching](https://github.com/erigontech/erigon/pull/22409) - 2026-07-12
 * [Commit] [db/state, execution/commitment: fix parallel-commitment worker reads + add COMMITMENT_PARALLEL toggle (#22354)](https://github.com/erigontech/erigon/commit/d184f8a75d365a0d4856bdb8fea751d6fbc051f0) - 2026-07-12
 * [Issue] [IBS versionMap unification: complete the single versionedio model (remove the stateObject)](https://github.com/erigontech/erigon/issues/22458) - 2026-07-14
+* [Issue] [execution/execmodule, node/shards: remove the global Events.LatestSD published-SD pointer (decouple readers via a publication id)](https://github.com/erigontech/erigon/issues/22494) - 2026-07-15
 ## Q2 2026
 
 

@@ -8,6 +8,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 ## Contributions
 
+## Q3 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4703197771) - 2026-07-15
 ## Q2 2026
 
 

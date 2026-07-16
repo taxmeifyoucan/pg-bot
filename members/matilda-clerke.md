@@ -15,6 +15,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: Produce block scripts](https://github.com/Consensys/teku/pull/10944#pullrequestreview-4640565213) - 2026-07-06
 * [Review] [Review on: Produce block v4 with payload](https://github.com/Consensys/teku/pull/10832#pullrequestreview-4681691566) - 2026-07-13
 * [Pull Request] [Remove parent block number from payload attributes post gloas](https://github.com/Consensys/teku/pull/10975) - 2026-07-14
+* [Commit] [Produce block v4 with payload (#10832)](https://github.com/Consensys/teku/commit/766d295d9be3ef2ce01cc19716fa8fa13c06806f) - 2026-07-15
 ## Q2 2026
 
 

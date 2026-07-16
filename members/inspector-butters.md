@@ -18,6 +18,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: ignore claude directory (avoiding issues with worktrees + gazelle)](https://github.com/OffchainLabs/prysm/pull/17182#pullrequestreview-4699202612) - 2026-07-14
 * [Review] [Review on: progressive withdrawal root and light client changes](https://github.com/OffchainLabs/prysm/pull/16885#pullrequestreview-4694227725) - 2026-07-14
 * [Review] [Review on: wire progressive ssz functions into state fields](https://github.com/OffchainLabs/prysm/pull/16860#pullrequestreview-4694098543) - 2026-07-14
+* [Review] [Review on: fix(ci): restore coverage runfiles and fail fast](https://github.com/OffchainLabs/prysm/pull/17189#pullrequestreview-4708417943) - 2026-07-15
+* [Review] [Review on: Changelog v7.1.7](https://github.com/OffchainLabs/prysm/pull/17169#pullrequestreview-4708255473) - 2026-07-15
 ## Q2 2026
 
 

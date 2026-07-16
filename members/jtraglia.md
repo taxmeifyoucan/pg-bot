@@ -64,6 +64,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update actions/labeler action to v6.2.0](https://github.com/ethereum/consensus-specs/pull/5446#pullrequestreview-4685147685) - 2026-07-13
 * [Review] [Review on: Update astral-sh/setup-uv action to v8.3.2](https://github.com/ethereum/consensus-specs/pull/5444#pullrequestreview-4685143769) - 2026-07-13
 * [Review] [Review on: Update dependency ckzg to v2.1.8](https://github.com/ethereum/consensus-specs/pull/5445#pullrequestreview-4685140162) - 2026-07-13
+* [Review] [Review on: Add `safe_execution_block_hash` property to FCR tests](https://github.com/ethereum/consensus-specs/pull/5449#pullrequestreview-4700680803) - 2026-07-15
+* [Review] [Review on: Specify rep/resp for inclusion lists](https://github.com/ethereum/consensus-specs/pull/5424#pullrequestreview-4700744145) - 2026-07-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

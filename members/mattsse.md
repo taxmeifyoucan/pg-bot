@@ -120,6 +120,10 @@ Team: Reth
 * [Review] [Review on: feat(engine): add REST-SSZ blob body witness containers](https://github.com/paradigmxyz/reth/pull/26328#pullrequestreview-4693265373) - 2026-07-14
 * [Review] [Review on: feat(engine): use SSZ containers in proxy](https://github.com/paradigmxyz/reth/pull/26335#pullrequestreview-4693264994) - 2026-07-14
 * [Review] [Review on: chore: bump version to 2.4.0](https://github.com/paradigmxyz/reth/pull/26385#pullrequestreview-4693221504) - 2026-07-14
+* [Review] [Review on: feat(net): serve real snap/2 account and storage range data](https://github.com/paradigmxyz/reth/pull/26339#pullrequestreview-4703094517) - 2026-07-15
+* [Review] [Review on: fix(trie): continue prefix-set traversal after cached descendant](https://github.com/paradigmxyz/reth/pull/26389#pullrequestreview-4704464485) - 2026-07-15
+* [Review] [Review on: feat(download): make env public and add getter](https://github.com/paradigmxyz/reth/pull/25285#pullrequestreview-4703867501) - 2026-07-15
+* [Pull Request] [feat(engine): refresh EIP-7805 FOCIL support](https://github.com/paradigmxyz/reth/pull/26407) - 2026-07-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

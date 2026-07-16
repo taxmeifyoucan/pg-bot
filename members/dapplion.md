@@ -14,6 +14,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [🤖 CI: pin geth to `master-e5c5e18` in genesis-sync tests](https://github.com/sigp/lighthouse/pull/9605) - 2026-07-09
 * [Pull Request] [Implement Fast Confirmation Rule](https://github.com/sigp/lighthouse/pull/8951) - 2026-07-13
+* [Pull Request] [Add `static_file_storage` crate](https://github.com/sigp/lighthouse/pull/9644) - 2026-07-15
+* [Review] [Review on: Lookup sync with blocks_by_head](https://github.com/sigp/lighthouse/pull/9541#pullrequestreview-4704204653) - 2026-07-15
+* [Pull Request] [Add experimental --disable-range-sync flag](https://github.com/sigp/lighthouse/pull/9642) - 2026-07-15
 ## Q2 2026
 
 

@@ -25,6 +25,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [fix: add missing source artifact checksums for vertx 4.5.27](https://github.com/besu-eth/besu/pull/10781) - 2026-07-09
 * [Commit] [fix: add missing source artifact checksums for vertx 4.5.27 (#10781)](https://github.com/besu-eth/besu/commit/99d44dfdd316487001401c050ac06b1fe0bb75f9) - 2026-07-09
 * [Review] [Review on: gradle metadata verification: trust source and javadoc jars](https://github.com/besu-eth/besu/pull/10797#pullrequestreview-4682890614) - 2026-07-13
+* [Pull Request] [fix: reproduce and fix source-jar dependency verification gaps](https://github.com/besu-eth/besu/pull/10808) - 2026-07-15
+* [Review] [Review on: Engine API foundation: fork-aware base class and helpers](https://github.com/besu-eth/besu/pull/10678#pullrequestreview-4706510537) - 2026-07-15
+* [Commit] [Engine API foundation: fork-aware base class and helpers (transitional) (#10678)](https://github.com/besu-eth/besu/commit/753cd71229d656298eba349c0773edae5a1e039f) - 2026-07-15
 ## Q2 2026
 
 

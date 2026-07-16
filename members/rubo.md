@@ -28,6 +28,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore(ci): Disable stateless devnet tests scheduled run (#12428)](https://github.com/NethermindEth/nethermind/commit/eb58a359b7f6e140be061d793c4a3ae9e2691fe5) - 2026-07-13
 * [Pull Request] [chore: Update packages](https://github.com/NethermindEth/nethermind/pull/12449) - 2026-07-14
 * [Review] [Review on: chore: Update packages](https://github.com/NethermindEth/nethermind/pull/12449#pullrequestreview-4697918277) - 2026-07-14
+* [Pull Request] [chore(docs): Remove broken badge](https://github.com/NethermindEth/nethermind/pull/12466) - 2026-07-15
+* [Commit] [chore(docs): Remove broken badge (#12466)](https://github.com/NethermindEth/nethermind/commit/b53d9696986b339f73bc1896575ecd444654264b) - 2026-07-15
+* [Commit] [chore: Update packages (#12449)](https://github.com/NethermindEth/nethermind/commit/b5847e7363cdcaccacdd5910cd0c143bd4d69209) - 2026-07-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 ## Q2 2026

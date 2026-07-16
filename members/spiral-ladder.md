@@ -59,6 +59,18 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: silence debug log when used in release builds](https://github.com/ChainSafe/lodestar-z/pull/486#pullrequestreview-4684339733) - 2026-07-13
 * [Commit] [chore: silence debug log when used in release builds (#486)](https://github.com/ChainSafe/lodestar-z/commit/c5377d7a1f6d7e97c0cdf78b97219e7484f97613) - 2026-07-13
 * [Review] [Review on: fix(bindings): check signature infinity by default](https://github.com/ChainSafe/lodestar-z/pull/488#pullrequestreview-4698893242) - 2026-07-14
+* [Pull Request] [chore(ci): split build and publish steps](https://github.com/ChainSafe/lodestar-z/pull/511) - 2026-07-15
+* [Review] [Review on: chore(ci): split build and publish steps](https://github.com/ChainSafe/lodestar-z/pull/511#pullrequestreview-4705934104) - 2026-07-15
+* [Review] [Review on: fix(bindings): check signature infinity by default](https://github.com/ChainSafe/lodestar-z/pull/509#pullrequestreview-4705536019) - 2026-07-15
+* [Review] [Review on: ci: automate releases with release-please](https://github.com/ChainSafe/lodestar-z/pull/479#pullrequestreview-4703554187) - 2026-07-15
+* [Review] [Review on: fix(bindings): make pubkey cache set error-atomic](https://github.com/ChainSafe/lodestar-z/pull/510#pullrequestreview-4706075897) - 2026-07-15
+* [Review] [Review on: fix(bindings): check signature infinity by default](https://github.com/ChainSafe/lodestar-z/pull/488#pullrequestreview-4701832992) - 2026-07-15
+* [Pull Request] [chore(ci): pin github actions with sha hashes](https://github.com/ChainSafe/lodestar-z/pull/507) - 2026-07-15
+* [Pull Request] [fix(bls): align PublicKey.uncompress validation with Signature.uncompress](https://github.com/ChainSafe/lodestar-z/pull/508) - 2026-07-15
+* [Review] [Review on: refactor(bindings): use zapi js.io() instead of local io module](https://github.com/ChainSafe/lodestar-z/pull/469#pullrequestreview-4702367209) - 2026-07-15
+* [Commit] [chore(ci): pin github actions with sha hashes (#507)](https://github.com/ChainSafe/lodestar-z/commit/167b8f5cb484c2d3e23d2a75f42c96a92e178bcb) - 2026-07-15
+* [Commit] [fix(bls): align PublicKey.uncompress validation with Signature.uncompress (#508)](https://github.com/ChainSafe/lodestar-z/commit/5a8dbe951ab45f578d8f7ac8d794c9c72022e79f) - 2026-07-15
+* [Commit] [chore(deps): update zapi to 3.1.0 (#483)](https://github.com/ChainSafe/lodestar-z/commit/f3e582759985347440acee620f8535c402b1daee) - 2026-07-15
 ## Q2 2026
 
 

@@ -113,6 +113,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: restore browser-safe light client BLS](https://github.com/ChainSafe/lodestar/pull/9638#pullrequestreview-4678896661) - 2026-07-11
 * [Review] [Review on: fix: use native BLS for Node.js light client](https://github.com/ChainSafe/lodestar/pull/9646#pullrequestreview-4679845400) - 2026-07-12
 * [Review] [Review on: feat: stateless flow for local block production post-gloas](https://github.com/ChainSafe/lodestar/pull/9595#pullrequestreview-4696112676) - 2026-07-14
+* [Review] [Review on: ci: expand native portability checks](https://github.com/ChainSafe/lodestar/pull/9642#pullrequestreview-4706862343) - 2026-07-15
+* [Review] [Review on: feat: stateless flow for local block production post-gloas](https://github.com/ChainSafe/lodestar/pull/9595#pullrequestreview-4702429115) - 2026-07-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -130,6 +132,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Remove `MAX_DEPOSIT_REQUESTS_PER_PAYLOAD` in Gloas](https://github.com/ethereum/consensus-specs/pull/5436#pullrequestreview-4644162719) - 2026-07-07
 * [Commit] [Restrict builder deposits to payload builders (#5439)](https://github.com/ethereum/consensus-specs/commit/84454a9d57f4f49f74c78e9f375347baf30474f2) - 2026-07-07
 * [Review] [Review on: Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443#pullrequestreview-4685743208) - 2026-07-13
+* [Review] [Review on: Remove a stale comment for builder withdrawal prefix](https://github.com/ethereum/consensus-specs/pull/5450#pullrequestreview-4704845624) - 2026-07-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

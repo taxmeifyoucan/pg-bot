@@ -25,6 +25,7 @@ Team: Geth
 * [Review] [Review on: internal/ethapi: reject gasPrice together with authorizationList](https://github.com/ethereum/go-ethereum/pull/35320#pullrequestreview-4656017176) - 2026-07-08
 * [Review] [Review on: core: add bogota fork](https://github.com/ethereum/go-ethereum/pull/34057#pullrequestreview-4655959810) - 2026-07-08
 * [Commit] [all: add bogota fork to config (#34057)](https://github.com/ethereum/go-ethereum/commit/0d1cf34ec66928a2f64ba0ae72f7b272aa2458c0) - 2026-07-14
+* [Review] [Review on: core: rolling history expiry](https://github.com/ethereum/go-ethereum/pull/34104#pullrequestreview-4701405273) - 2026-07-15
 ## Q2 2026
 
 

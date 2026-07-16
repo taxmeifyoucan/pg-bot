@@ -73,6 +73,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: implement EIP-8246 selfdestruct burn removal (#22136)](https://github.com/erigontech/erigon/commit/b27a031acb8823d52776a08188a11aae82ccc83b) - 2026-07-14
 * [Commit] [db: rename db/services package to db/dbservices (#22456)](https://github.com/erigontech/erigon/commit/26e49bbba55c977623400957403d04b0e2a7f657) - 2026-07-14
 * [Commit] [execution/bal: serve BALs up to and beyond the WSP (#21764)](https://github.com/erigontech/erigon/commit/85764bca9b120b3170047ce007685a292e826834) - 2026-07-14
+* [Review] [Review on: node, commitment: fix parallel exec deadlock on many-core machines](https://github.com/erigontech/erigon/pull/22408#pullrequestreview-4700517786) - 2026-07-15
+* [Review] [Review on: execution: implement EIP-7928 fixes for tests-glamsterdam-devnet@v6.1.1](https://github.com/erigontech/erigon/pull/22161#pullrequestreview-4702003155) - 2026-07-15
+* [Pull Request] [agents, codex: add shared agent configuration](https://github.com/erigontech/erigon/pull/22491) - 2026-07-15
+* [Pull Request] [ci: consolidate kurtosis workflows in 1 place](https://github.com/erigontech/erigon/pull/22487) - 2026-07-15
+* [Review] [Review on: ci: consolidate kurtosis workflows in 1 place](https://github.com/erigontech/erigon/pull/22487#pullrequestreview-4703782590) - 2026-07-15
+* [Review] [Review on: all: enable reflecttypefor, slicesbackward, and slicescontains under modernize linter](https://github.com/erigontech/erigon/pull/22484#pullrequestreview-4701068666) - 2026-07-15
+* [Review] [Review on: ExecModule.HasBlock calc dbKey once](https://github.com/erigontech/erigon/pull/22479#pullrequestreview-4700447527) - 2026-07-15
+* [Review] [Review on: switch some tests to long-living block's views](https://github.com/erigontech/erigon/pull/22453#pullrequestreview-4700463689) - 2026-07-15
+* [Commit] [execution: implement EIP-7928 fixes for tests-glamsterdam-devnet@v6.1.1 (#22161)](https://github.com/erigontech/erigon/commit/63dfa6fe70721717974c87250c0dccab28a6e573) - 2026-07-15
+* [Commit] [agents, codex: add shared agent configuration (#22491)](https://github.com/erigontech/erigon/commit/f8404e56cac67dead9f5cef62a8188be9898b187) - 2026-07-15
+* [Commit] [execution: update EIP-7954 MaxCodeSizeAmsterdam = 64KB (#22088)](https://github.com/erigontech/erigon/commit/21159966deb9f3c293cd31c4d6fc2fcdb384dcec) - 2026-07-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

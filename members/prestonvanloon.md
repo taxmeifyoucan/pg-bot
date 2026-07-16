@@ -34,6 +34,15 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Pull Request] [Changelog v7.1.7](https://github.com/OffchainLabs/prysm/pull/17169) - 2026-07-13
 * [Review] [Review on: Do not mark a node synced after a failed resync](https://github.com/OffchainLabs/prysm/pull/17125#pullrequestreview-4696689512) - 2026-07-14
 * [Review] [Review on: Remove Bazel: Phase 3/9 - Part 1](https://github.com/OffchainLabs/prysm/pull/17062#pullrequestreview-4697015568) - 2026-07-14
+* [Pull Request] [fix(ci): restore coverage runfiles and fail fast](https://github.com/OffchainLabs/prysm/pull/17189) - 2026-07-15
+* [Pull Request] [fix(validator): synchronize remote web3signer key file watcher startup](https://github.com/OffchainLabs/prysm/pull/17188) - 2026-07-15
+* [Review] [Review on: fix(validator): synchronize remote web3signer key file watcher startup](https://github.com/OffchainLabs/prysm/pull/17188#pullrequestreview-4708174825) - 2026-07-15
+* [Pull Request] [fix(e2e): serialize fixed-port postsubmit targets](https://github.com/OffchainLabs/prysm/pull/17190) - 2026-07-15
+* [Pull Request] [Add test files omitted from Bazel BUILD files](https://github.com/OffchainLabs/prysm/pull/17185) - 2026-07-15
+* [Review] [Review on: Add test files omitted from Bazel BUILD files](https://github.com/OffchainLabs/prysm/pull/17185#pullrequestreview-4705931031) - 2026-07-15
+* [Review] [Review on: Remove Bazel: Phase 3/9 - Part 1](https://github.com/OffchainLabs/prysm/pull/17062#pullrequestreview-4705417638) - 2026-07-15
+* [Commit] [fix(ci): restore coverage runfiles and fail fast (#17189)](https://github.com/OffchainLabs/prysm/commit/c98e8d26ac02a2031ef7cc3176f9fe1c9e2189c6) - 2026-07-15
+* [Commit] [Add test files omitted from Bazel BUILD files (#17185)](https://github.com/OffchainLabs/prysm/commit/a347f6fb4fb12a927611c837be2612b6d48c4722) - 2026-07-15
 ## Q2 2026
 
 

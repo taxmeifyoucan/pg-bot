@@ -27,6 +27,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Align gloas proposer reorg weight logic w/ spec](https://github.com/sigp/lighthouse/pull/9625#pullrequestreview-4686009343) - 2026-07-13
 * [Pull Request] [Ensure disk reads for gloas payload bid fetching are always in a bloc…](https://github.com/sigp/lighthouse/pull/9634) - 2026-07-14
 * [Review] [Review on: Retrieve gloas execution payload envelope by beacon block root](https://github.com/sigp/lighthouse/pull/9594#pullrequestreview-4692124006) - 2026-07-14
+* [Review] [Review on: Lookup sync with blocks_by_head](https://github.com/sigp/lighthouse/pull/9541#pullrequestreview-4705431556) - 2026-07-15
+* [Pull Request] [DataColumnsByRange decodes pre-fork sidecar with wrong fork at a skip-slot boundary](https://github.com/sigp/lighthouse/pull/9640) - 2026-07-15
 ## Q2 2026
 
 

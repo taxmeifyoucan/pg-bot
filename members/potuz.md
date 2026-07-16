@@ -46,6 +46,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [wait for clock on da](https://github.com/OffchainLabs/prysm/pull/17168) - 2026-07-13
 * [Pull Request] [Do not queue blocks that arrive more than 500ms early](https://github.com/OffchainLabs/prysm/pull/17167) - 2026-07-13
 * [Commit] [wait for clock on da (#17168)](https://github.com/OffchainLabs/prysm/commit/77e98216098f9c9db96fa6a00c2f9e25b82a2128) - 2026-07-13
+* [Review] [Review on: Unify payload reorg policy](https://github.com/OffchainLabs/prysm/pull/17186#pullrequestreview-4706638929) - 2026-07-15
+* [Commit] [Do not queue blocks that arrive more than 500ms early (#17167)](https://github.com/OffchainLabs/prysm/commit/e8c13dfcd07829fd1a2114ce29ef9a4511116c46) - 2026-07-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

@@ -220,6 +220,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ChangeLog: port v3.5.1 and v3.5.2 release notes to main (#22457)](https://github.com/erigontech/erigon/commit/85fecf57776a1826250810ab8a89f187c25b8391) - 2026-07-14
 * [Commit] [agents: allow testing.Short for long-running tests (#22451)](https://github.com/erigontech/erigon/commit/0809e5dfe57be4cb7a3917dac24363936e8cc422) - 2026-07-14
 * [Commit] [execution/protocol/rules: drop redundant per-tx gas-mismatch dump (#22441)](https://github.com/erigontech/erigon/commit/8824a05da5ee3ac0177df195a99f04da5765e769) - 2026-07-14
+* [Review] [Review on: execution/state: cache-free parallel execution via versionMap unification (noMaterialize) + warm-read caching](https://github.com/erigontech/erigon/pull/22409#pullrequestreview-4701935410) - 2026-07-15
+* [Review] [Review on: FCU semaphore decouple + foreground-priority bg-commit worker (PR #4 of the perf stack)](https://github.com/erigontech/erigon/pull/21414#pullrequestreview-4702077799) - 2026-07-15
+* [Review] [Review on: execution, db: prevent stale-fill resurrection](https://github.com/erigontech/erigon/pull/22444#pullrequestreview-4703423290) - 2026-07-15
+* [Review] [Review on: execution: implement EIP-7928 fixes for tests-glamsterdam-devnet@v6.1.1](https://github.com/erigontech/erigon/pull/22161#pullrequestreview-4703316831) - 2026-07-15
+* [Pull Request] [execution: improve account lifecycle finalization](https://github.com/erigontech/erigon/pull/22497) - 2026-07-15
+* [Review] [Review on: execution: improve account lifecycle finalization](https://github.com/erigontech/erigon/pull/22497#pullrequestreview-4704561226) - 2026-07-15
+* [Review] [Review on: agent: remove autoresearch skill](https://github.com/erigontech/erigon/pull/22492#pullrequestreview-4703637836) - 2026-07-15
+* [Review] [Review on: execution/types/accounts, db/state/execctx: extract codeHash without a full account decode](https://github.com/erigontech/erigon/pull/22468#pullrequestreview-4703181208) - 2026-07-15
+* [Review] [Review on: ci: consolidate kurtosis workflows in 1 place](https://github.com/erigontech/erigon/pull/22487#pullrequestreview-4702084903) - 2026-07-15
+* [Review] [Review on: [3.5] rpc: cherry-pick makes queryLimit configurabile via --rpc.logs.querylimit (#22418, #22014)](https://github.com/erigontech/erigon/pull/22477#pullrequestreview-4701987431) - 2026-07-15
+* [Review] [Review on: all: enable reflecttypefor, slicesbackward, and slicescontains under modernize linter](https://github.com/erigontech/erigon/pull/22484#pullrequestreview-4702800443) - 2026-07-15
+* [Review] [Review on: execution/cache: fence GenericCache generation swaps and make size accounting exact](https://github.com/erigontech/erigon/pull/22466#pullrequestreview-4703422654) - 2026-07-15
+* [Issue] [db/kv/kvcache, engine_block_downloader: follow-ups from #21293](https://github.com/erigontech/erigon/issues/22499) - 2026-07-15
+* [Issue] [rpc/rpchelper, rpc/jsonrpc: retire the filters param on GetBlockNumber — the tx you pass is the view you get](https://github.com/erigontech/erigon/issues/22501) - 2026-07-15
+* [Commit] [execution/types/accounts, db/state/execctx: extract codeHash without a full account decode (#22468)](https://github.com/erigontech/erigon/commit/b9ce9d845b54622687faf2a716204e1a14cc855a) - 2026-07-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

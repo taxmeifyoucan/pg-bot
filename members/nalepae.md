@@ -39,6 +39,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Bump C-KZG version](https://github.com/OffchainLabs/prysm/pull/17150#pullrequestreview-4672198206) - 2026-07-10
 * [Issue] [Cannot restart a beacon node after a few days using the `--enable-state-diff` flag.](https://github.com/OffchainLabs/prysm/issues/17148) - 2026-07-10
 * [Commit] [Bump C-KZG version (#17150)](https://github.com/OffchainLabs/prysm/commit/8db5927c7d6bd321f9bb09423349447f2dcacb1e) - 2026-07-10
+* [Review] [Review on: Remove Bazel: Phase 3/9 - Part 1](https://github.com/OffchainLabs/prysm/pull/17062#pullrequestreview-4703988861) - 2026-07-15
 ## Q2 2026
 
 

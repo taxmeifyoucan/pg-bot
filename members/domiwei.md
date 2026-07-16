@@ -41,6 +41,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/phase1/stages: guard forward-sync progress log against under/overflow](https://github.com/erigontech/erigon/pull/22464#pullrequestreview-4700093455) - 2026-07-15
 * [Review] [Review on: cl/persistence/base_encoding: avoid per-scalar heap allocs in Rabbits codec](https://github.com/erigontech/erigon/pull/22391#pullrequestreview-4694187657) - 2026-07-14
 * [Review] [Review on: cl/merkle_tree: add EIP-7916 progressive merkleization](https://github.com/erigontech/erigon/pull/22446#pullrequestreview-4692117166) - 2026-07-14
+* [Review] [Review on: cl/utils: drop per-call allocation from Sha256](https://github.com/erigontech/erigon/pull/22489#pullrequestreview-4702466553) - 2026-07-15
+* [Review] [Review on: cl/block_collector: reuse encode buffers in PersistentBlockCollector](https://github.com/erigontech/erigon/pull/22485#pullrequestreview-4702117670) - 2026-07-15
+* [Review] [Review on: cl/merkle_tree: stack-allocate HashTreeRoot leaf buffer](https://github.com/erigontech/erigon/pull/22486#pullrequestreview-4702068937) - 2026-07-15
+* [Review] [Review on: disc5: move heavy logging behind `trace bool` field](https://github.com/erigontech/erigon/pull/22488#pullrequestreview-4702185044) - 2026-07-15
 ## Q2 2026
 
 

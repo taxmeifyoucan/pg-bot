@@ -67,11 +67,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [ci(nethtest): migrate checked/no-intrinsics pyspec variants to nethtest (#12330)](https://github.com/NethermindEth/nethermind/commit/66515374e181d788ac725eb028ae34ad3b9e2b73) - 2026-07-14
 * [Commit] [Fix slow-block cache hit stats: report first-touch pre-block coverage instead of a layer blend (#12372)](https://github.com/NethermindEth/nethermind/commit/01e93dd42057d17eb3bdf6dcee5a7e85c3fbb8f7) - 2026-07-14
 * [Commit] [ci(expb): fix retrospective pagination drift; allow disabling the flat write-buffer floor (#12264)](https://github.com/NethermindEth/nethermind/commit/b7fb5a6c933098f136adceb98b6649367ee99c3f) - 2026-07-14
+* [Pull Request] [perf(db): batched RocksDB MultiGet for flat BAL warmup — contiguous slices, no block-cache fill](https://github.com/NethermindEth/nethermind/pull/12467) - 2026-07-15
+* [Pull Request] [Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool](https://github.com/NethermindEth/nethermind/pull/12463) - 2026-07-15
+* [Review] [Review on: Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool](https://github.com/NethermindEth/nethermind/pull/12463#pullrequestreview-4707190502) - 2026-07-15
+* [Review] [Review on: Sweep gen2 concurrently during sustained block processing](https://github.com/NethermindEth/nethermind/pull/12434#pullrequestreview-4702441375) - 2026-07-15
+* [Commit] [Add BlockProfiler plugin for per-block dotTrace snapshots (#12444)](https://github.com/NethermindEth/nethermind/commit/93120e96c3e1125e390f3aa6507867f28b79af91) - 2026-07-15
+* [Commit] [Sweep gen2 concurrently during sustained block processing (#12434)](https://github.com/NethermindEth/nethermind/commit/d39e63cbdd3fae9d84ef26bb1b6508b8d02e4efd) - 2026-07-15
+* [Commit] [fix(nethtest): report zkEVM progress in test cases instead of fixture files (#12437)](https://github.com/NethermindEth/nethermind/commit/0c43db93bcd05686b74cda2ec0e8b3eefc07b964) - 2026-07-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 
 [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks)
 * [Commit] [ci: register Benchmarkoor - Nethermind workflow (dispatch-only)](https://github.com/NethermindEth/gas-benchmarks/commit/2848becbbfcb57b1e69587310ffb8a9daa40ec0c) - 2026-07-14
+* [Pull Request] [feat: Benchmarkoor - Nethermind CI (podman + CRIU memory checkpoints, per-test summary, dotTrace profiling)](https://github.com/NethermindEth/gas-benchmarks/pull/159) - 2026-07-15
+* [Commit] [feat: Benchmarkoor - Nethermind CI (podman + CRIU memory checkpoints, per-test summary, dotTrace profiling) (#159)](https://github.com/NethermindEth/gas-benchmarks/commit/8502c4518e7ae81ca5925f8a31caf55ee129baf4) - 2026-07-15
 ## Q2 2026
 
 

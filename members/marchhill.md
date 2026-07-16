@@ -57,6 +57,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [feat(balances): on-demand token detection with node-side cache](https://github.com/NethermindEth/nethermind/pull/12446) - 2026-07-14
 * [Pull Request] [fix(blockstore): inject chain header decoder so AuRa blocks decode](https://github.com/NethermindEth/nethermind/pull/12445) - 2026-07-14
 * [Commit] [fix(blockstore): inject chain header decoder so AuRa blocks decode (#12445)](https://github.com/NethermindEth/nethermind/commit/e1e6d818e685210d14a38a856a1f1e02a4fe4e65) - 2026-07-14
+* [Review] [Review on: Fix eth/70 receipt validation for EIP-2780](https://github.com/NethermindEth/nethermind/pull/12462#pullrequestreview-4704664999) - 2026-07-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

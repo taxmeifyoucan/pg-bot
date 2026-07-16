@@ -47,6 +47,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [db/state: experiment — use .bt index instead of .vi/.efi accessors (RPC perf + size)](https://github.com/erigontech/erigon/issues/22472) - 2026-07-14
 * [Issue] [db/state: deduplicate redundant rcache history values (~12% on gnosis)](https://github.com/erigontech/erigon/issues/22470) - 2026-07-14
 * [Commit] [execution/stagedsync: fix worker starvation in high-tx-count blocks by optimizing parallel-exec dispatch (#22336)](https://github.com/erigontech/erigon/commit/de176cf4e026f9878e3c7771b789ae7ccf726d6a) - 2026-07-14
+* [Review] [Review on: db/state, db/snapshotsync: cut BeginTemporalRo allocations 32 -> 6](https://github.com/erigontech/erigon/pull/22481#pullrequestreview-4700863025) - 2026-07-15
+* [Review] [Review on: cl: remove log.Debug from `loop` in `processResponses` ](https://github.com/erigontech/erigon/pull/22483#pullrequestreview-4700865703) - 2026-07-15
+* [Review] [Review on: agg: reduce size of `InvertedIndexRoTx` object](https://github.com/erigontech/erigon/pull/22482#pullrequestreview-4700823491) - 2026-07-15
+* [Review] [Review on: agg: remove unused fields](https://github.com/erigontech/erigon/pull/22480#pullrequestreview-4700903815) - 2026-07-15
 ## Q2 2026
 
 

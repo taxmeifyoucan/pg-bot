@@ -34,6 +34,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [Add CL target gas limit to engine forkchoiceUpdatedV4 (#10745)](https://github.com/besu-eth/besu/commit/72361b3bb9b67ad07dc3cb933a53acc3c071dd19) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4671877942) - 2026-07-10
 * [Pull Request] [Update to pass spec tests for glamsterdam-devnet-7](https://github.com/besu-eth/besu/pull/10801) - 2026-07-14
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 ## Q2 2026
 
 

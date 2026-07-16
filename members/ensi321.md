@@ -45,6 +45,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [DataColumnsByRange decodes pre-fork sidecar with wrong fork at a skip-slot boundary](https://github.com/sigp/lighthouse/issues/9638) - 2026-07-15
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Pull Request] [chore: sync gloas spec fields to v1.7.0-alpha.12](https://github.com/ethpandaops/dora/pull/797) - 2026-07-15
 ## Q2 2026
 
 

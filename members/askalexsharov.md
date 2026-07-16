@@ -206,6 +206,48 @@ Team: Erigon
 * [Review] [Review on: db/state: omit no-op deletes of absent keys in DomainDel](https://github.com/erigontech/erigon/pull/22437#pullrequestreview-4692002812) - 2026-07-14
 * [Review] [Review on: ci: add manual create-release-branch workflow](https://github.com/erigontech/erigon/pull/22440#pullrequestreview-4692761565) - 2026-07-14
 * [Commit] [block files: enable long-living view in block_reader by default (#22445)](https://github.com/erigontech/erigon/commit/9be5583e6891356a4d4b0518aeef8602a9b3d3a2) - 2026-07-14
+* [Review] [Review on: rpc: refactor NewBaseApi to take BaseApiConfig struct](https://github.com/erigontech/erigon/pull/22478#pullrequestreview-4700324572) - 2026-07-15
+* [Review] [Review on: execution/commitment: fix state reader leak across sequential batches](https://github.com/erigontech/erigon/pull/22460#pullrequestreview-4703400015) - 2026-07-15
+* [Review] [Review on: cl/phase1/stages: guard forward-sync progress log against under/overflow](https://github.com/erigontech/erigon/pull/22464#pullrequestreview-4700376309) - 2026-07-15
+* [Review] [Review on: [r3.5] cl/phase1/stages: use utils.ETA for history-download progress log](https://github.com/erigontech/erigon/pull/22493#pullrequestreview-4704054816) - 2026-07-15
+* [Pull Request] [agent: remove autoresearch skill](https://github.com/erigontech/erigon/pull/22492) - 2026-07-15
+* [Review] [Review on: agents, codex: add shared agent configuration](https://github.com/erigontech/erigon/pull/22491#pullrequestreview-4703558358) - 2026-07-15
+* [Review] [Review on: execution/types/accounts, db/state/execctx: extract codeHash without a full account decode](https://github.com/erigontech/erigon/pull/22468#pullrequestreview-4702116189) - 2026-07-15
+* [Pull Request] [[wip] execution/types, execution/stagedsync: index txn lookup without decoding txns](https://github.com/erigontech/erigon/pull/22502) - 2026-07-15
+* [Pull Request] [execution/types, db/snapshotsync: decode body RLP without reflection](https://github.com/erigontech/erigon/pull/22500) - 2026-07-15
+* [Pull Request] [execution/rlp, execution/types: zero-copy typed-txn envelope decode](https://github.com/erigontech/erigon/pull/22498) - 2026-07-15
+* [Pull Request] [[wip] execution/commitment: fix parallel commitment wrong trie root (re-land #22257 + storage-fold nav path fix)](https://github.com/erigontech/erigon/pull/22495) - 2026-07-15
+* [Review] [Review on: release: set persist-credentials: false on non-pushing checkouts (zizmor artipacked)](https://github.com/erigontech/erigon/pull/22448#pullrequestreview-4703410279) - 2026-07-15
+* [Review] [Review on: .github/workflows: set persist-credentials: false on checkouts (zizmor artipacked)](https://github.com/erigontech/erigon/pull/22447#pullrequestreview-4703408874) - 2026-07-15
+* [Review] [Review on: db/state: omit no-op deletes of absent keys in DomainDel](https://github.com/erigontech/erigon/pull/22437#pullrequestreview-4703887786) - 2026-07-15
+* [Pull Request] [[wip] execution/commitment: keep the account nav path across a storage propagate fold](https://github.com/erigontech/erigon/pull/22496) - 2026-07-15
+* [Review] [Review on: cl/phase1/stages: fix uint64 underflow in history-download progress log](https://github.com/erigontech/erigon/pull/22461#pullrequestreview-4700337998) - 2026-07-15
+* [Pull Request] [cl/utils: drop per-call allocation from Sha256](https://github.com/erigontech/erigon/pull/22489) - 2026-07-15
+* [Review] [Review on: cl/utils: drop per-call allocation from Sha256](https://github.com/erigontech/erigon/pull/22489#pullrequestreview-4701956774) - 2026-07-15
+* [Pull Request] [cl/block_collector: reuse encode buffers in PersistentBlockCollector](https://github.com/erigontech/erigon/pull/22485) - 2026-07-15
+* [Review] [Review on: cl/block_collector: reuse encode buffers in PersistentBlockCollector](https://github.com/erigontech/erigon/pull/22485#pullrequestreview-4700973311) - 2026-07-15
+* [Pull Request] [cl/merkle_tree: stack-allocate HashTreeRoot leaf buffer](https://github.com/erigontech/erigon/pull/22486) - 2026-07-15
+* [Review] [Review on: cl/merkle_tree: stack-allocate HashTreeRoot leaf buffer](https://github.com/erigontech/erigon/pull/22486#pullrequestreview-4701929020) - 2026-07-15
+* [Pull Request] [disc5: move heavy logging behind `trace bool` field](https://github.com/erigontech/erigon/pull/22488) - 2026-07-15
+* [Review] [Review on: disc5: move heavy logging behind `trace bool` field](https://github.com/erigontech/erigon/pull/22488#pullrequestreview-4702083098) - 2026-07-15
+* [Pull Request] [db/state, db/snapshotsync: cut BeginTemporalRo allocations 32 -> 6](https://github.com/erigontech/erigon/pull/22481) - 2026-07-15
+* [Review] [Review on: db/state, db/snapshotsync: cut BeginTemporalRo allocations 32 -> 6](https://github.com/erigontech/erigon/pull/22481#pullrequestreview-4700624725) - 2026-07-15
+* [Review] [Review on: cl/antiquary: snapshot compact effective balances instead of full validator set](https://github.com/erigontech/erigon/pull/22411#pullrequestreview-4700400529) - 2026-07-15
+* [Pull Request] [cl: remove log.Debug from `loop` in `processResponses` ](https://github.com/erigontech/erigon/pull/22483) - 2026-07-15
+* [Pull Request] [agg: reduce size of `InvertedIndexRoTx` object](https://github.com/erigontech/erigon/pull/22482) - 2026-07-15
+* [Pull Request] [agg: remove unused fields](https://github.com/erigontech/erigon/pull/22480) - 2026-07-15
+* [Pull Request] [ExecModule.HasBlock calc dbKey once](https://github.com/erigontech/erigon/pull/22479) - 2026-07-15
+* [Review] [Review on: switch some tests to long-living block's views](https://github.com/erigontech/erigon/pull/22453#pullrequestreview-4700441756) - 2026-07-15
+* [Commit] [agent: remove autoresearch skill (#22492)](https://github.com/erigontech/erigon/commit/bab4ef4f93b8bd476ff6d54ad9e32344261d07c0) - 2026-07-15
+* [Commit] [cl/block_collector: reuse encode buffers in PersistentBlockCollector (#22485)](https://github.com/erigontech/erigon/commit/b0df45fc68d5bdc4e1bb7f7cd7b5b3ff56b2553e) - 2026-07-15
+* [Commit] [cl/merkle_tree: stack-allocate HashTreeRoot leaf buffer (#22486)](https://github.com/erigontech/erigon/commit/4acf32f9a3cff42ff351e5893f2931836662f9c6) - 2026-07-15
+* [Commit] [db/state, db/snapshotsync: cut BeginTemporalRo allocations 32 -> 6 (#22481)](https://github.com/erigontech/erigon/commit/5aba6aadf34fdaa8c6abc1b77c42fc52237b7346) - 2026-07-15
+* [Commit] [cl: remove log.Debug from `loop` in `processResponses`  (#22483)](https://github.com/erigontech/erigon/commit/3d16009c5f54ac97fb7154f34e6943b8277be942) - 2026-07-15
+* [Commit] [agg: reduce size of `InvertedIndexRoTx` object (#22482)](https://github.com/erigontech/erigon/commit/5549f29072026d4f35c2309c321d79b602370038) - 2026-07-15
+* [Commit] [agg: remove unused fields (#22480)](https://github.com/erigontech/erigon/commit/7e289de94e56bee53651350a8e76d5f94d6ced4c) - 2026-07-15
+* [Commit] [ExecModule.HasBlock calc dbKey once (#22479)](https://github.com/erigontech/erigon/commit/e5ac478a5a469c4c97231a9848ff8901de1b32e7) - 2026-07-15
+* [Commit] [db, execution, cl, node: nil external pointers before returning objects to sync.Pool (#22410)](https://github.com/erigontech/erigon/commit/1064be2372be661c1119acd8017ccc4a405a7ec7) - 2026-07-15
+* [Commit] [switch some tests to long-living block's views (#22453)](https://github.com/erigontech/erigon/commit/b4b8850ddd82f3c5d9b92ab643fd2de51a287f12) - 2026-07-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

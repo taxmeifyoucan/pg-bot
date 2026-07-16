@@ -33,11 +33,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add dependent root check when giving out proposer boost](https://github.com/ChainSafe/lodestar/pull/9565#pullrequestreview-4693852132) - 2026-07-14
 * [Pull Request] [feat: implement forkchoice is_head_weak()](https://github.com/ChainSafe/lodestar/pull/9654) - 2026-07-14
 * [Review] [Review on: feat: implement should_apply_proposer_boost for gloas](https://github.com/ChainSafe/lodestar/pull/9233#pullrequestreview-4692683515) - 2026-07-14
+* [Pull Request] [feat: evict invalid payloads from cache](https://github.com/ChainSafe/lodestar/pull/9661) - 2026-07-15
+* [Issue] [glamsterdam-devnet-5: sync stalled due to invalid payload cached forever](https://github.com/ChainSafe/lodestar/issues/9660) - 2026-07-15
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02
 * [Review] [Review on: feat(beacon-node): add block state cache and checkpoint datastore](https://github.com/ChainSafe/lodestar-z/pull/452#pullrequestreview-4642850103) - 2026-07-07
 * [Review] [Review on: feat(beacon-node): add block state cache and checkpoint datastore](https://github.com/ChainSafe/lodestar-z/pull/452#pullrequestreview-4651785640) - 2026-07-08
+* [Review] [Review on: revert: refactor(clock): single public Clock; internalize SlotClock](https://github.com/ChainSafe/lodestar-z/pull/489#pullrequestreview-4701384389) - 2026-07-15
 ## Q2 2026
 
 

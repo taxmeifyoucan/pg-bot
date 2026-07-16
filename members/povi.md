@@ -31,6 +31,9 @@ Team: Grandine
 * [Review] [Review on: http_api: update producePayloadAttestationData per beacon-APIs#612 and #626](https://github.com/grandinetech/grandine/pull/806#pullrequestreview-4695620102) - 2026-07-14
 * [Review] [Review on: Add `--args-file` to load CLI options from a YAML file](https://github.com/grandinetech/grandine/pull/797#pullrequestreview-4695597156) - 2026-07-14
 * [Issue] [[Glamsterdam] Block and head SSE events lag sometimes after Grandine produces a block](https://github.com/grandinetech/grandine/issues/809) - 2026-07-14
+* [Pull Request] [Gloas attestations](https://github.com/grandinetech/grandine/pull/813) - 2026-07-15
+* [Review] [Review on: Feature/stable containers](https://github.com/grandinetech/grandine/pull/810#pullrequestreview-4703667385) - 2026-07-15
+* [Issue] [[Glamsterdam] Gloas attestations](https://github.com/grandinetech/grandine/issues/812) - 2026-07-15
 ## Q2 2026
 
 

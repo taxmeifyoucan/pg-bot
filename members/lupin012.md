@@ -49,6 +49,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: refactor NewBaseApi to take BaseApiConfig struct](https://github.com/erigontech/erigon/pull/22478) - 2026-07-14
 * [Pull Request] [[3.5] rpc: cherry-pick makes queryLimit configurabile via --rpc.logs.querylimit (#22418, #22014)](https://github.com/erigontech/erigon/pull/22477) - 2026-07-14
 * [Commit] [rpc: fix handle batch deadlock (#22443)](https://github.com/erigontech/erigon/commit/c9d9061679963b91137f34cf1b475ce6142a5bb0) - 2026-07-14
+* [Review] [Review on: rpc: refactor NewBaseApi to take BaseApiConfig struct](https://github.com/erigontech/erigon/pull/22478#pullrequestreview-4707185709) - 2026-07-15
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

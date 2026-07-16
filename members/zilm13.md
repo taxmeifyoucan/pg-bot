@@ -32,6 +32,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Activate Gloas acceptance test](https://github.com/Consensys/teku/pull/10974#pullrequestreview-4698089194) - 2026-07-14
 * [Commit] [Activate Gloas acceptance test (#10974)](https://github.com/Consensys/teku/commit/302162dad0b9f0547e89f01c9071ce8a043a265d) - 2026-07-15
 * [Commit] [Reconstruct supernode sidecars from 50% - Reconstructor (#10508)](https://github.com/Consensys/teku/commit/a27dee79ab87ba083142c20babc6d03dc69e2593) - 2026-07-14
+* [Review] [Review on:   Return 204 for producePayloadAttestationData when no block seen at slot](https://github.com/Consensys/teku/pull/10965#pullrequestreview-4706094302) - 2026-07-15
+* [Review] [Review on: Warm Gradle dependencies for CI test shards](https://github.com/Consensys/teku/pull/10977#pullrequestreview-4705227765) - 2026-07-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

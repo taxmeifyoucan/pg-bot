@@ -81,6 +81,25 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(test-fill): pack Engine X pre-alloc groups (#3122)](https://github.com/ethereum/execution-specs/commit/b07e0c485b09e5bf695dd24a708e7986d5bf7f4e) - 2026-07-13
 * [Review] [Review on: refactor(test-benchmark): organize stateful benchmark folder structure](https://github.com/ethereum/execution-specs/pull/3152#pullrequestreview-4691489623) - 2026-07-14
 * [Commit] [docs(tests): remove legacy `abstract:` prefix from test module docstrings (#3162)](https://github.com/ethereum/execution-specs/commit/31f948fc04693e7d11d93eacf5236d1b32ae28ba) - 2026-07-14
+* [Pull Request] [fix(consume): make release resolution robust to GitHub API rate limits](https://github.com/ethereum/execution-specs/pull/3182) - 2026-07-15
+* [Review] [Review on: feat(ci): fill mainnet fixtures nightly via the release workflow](https://github.com/ethereum/execution-specs/pull/3100#pullrequestreview-4703703182) - 2026-07-15
+* [Pull Request] [chore(ci): only install a native build toolchain for PyPy jobs](https://github.com/ethereum/execution-specs/pull/3171) - 2026-07-15
+* [Pull Request] [chore(ci): don't fetch the benchmark assets submodule where unused](https://github.com/ethereum/execution-specs/pull/3175) - 2026-07-15
+* [Pull Request] [chore(tests): fix joblib cache race in eip2537 BLS precompile tests](https://github.com/ethereum/execution-specs/pull/3174) - 2026-07-15
+* [Review] [Review on: chore(specs): reorder tx validity checks](https://github.com/ethereum/execution-specs/pull/3036#pullrequestreview-4704867276) - 2026-07-15
+* [Pull Request] [fix(tests,test-fill): isolate the scenarios BLOCKHASH program pre-alloc group](https://github.com/ethereum/execution-specs/pull/3176) - 2026-07-15
+* [Pull Request] [chore(ci): right-size runners for spec-tools and test-tests-pypy](https://github.com/ethereum/execution-specs/pull/3177) - 2026-07-15
+* [Pull Request] [chore(ci): run `just test-ci-scripts` in CI](https://github.com/ethereum/execution-specs/pull/3172) - 2026-07-15
+* [Issue] [Replace native Python blake2 implementation with `blake2-py`](https://github.com/ethereum/execution-specs/issues/3181) - 2026-07-15
+* [Issue] [feat(ci): nightly fills of active dev-fork branches](https://github.com/ethereum/execution-specs/issues/3178) - 2026-07-15
+* [Issue] [Publish 3.14 wheels for `ethash`](https://github.com/ethereum/execution-specs/issues/3173) - 2026-07-15
+* [Commit] [chore(ci): only install a native build toolchain for PyPy jobs (#3171)](https://github.com/ethereum/execution-specs/commit/56e615e65e0f55ce2485c5c7634683cdd29bdd9d) - 2026-07-15
+* [Commit] [chore(ci): don't fetch the benchmark assets submodule where unused (#3175)](https://github.com/ethereum/execution-specs/commit/49a20ed6c57eb523d0a35bca3c4bd8c8ea31949d) - 2026-07-15
+* [Commit] [chore(tests): fix joblib cache race in eip2537 BLS precompile tests (#3174)](https://github.com/ethereum/execution-specs/commit/7e95c5e5fcdb7c7a06fdfcba45cf72179cdde2e5) - 2026-07-15
+* [Commit] [fix(tests,test-fill): isolate the scenarios BLOCKHASH program pre-alloc group (#3176)](https://github.com/ethereum/execution-specs/commit/87aba1a38a476b31f819a2390eb481527e6dc683) - 2026-07-15
+* [Commit] [chore(ci): right-size runners for spec-tools and test-tests-pypy (#3177)](https://github.com/ethereum/execution-specs/commit/e32f4b9ff8eabe20f21a9b804fbc73b1e1e603a5) - 2026-07-15
+* [Commit] [fix(test-consume): accept bad-block-cache errors for resubmitted blocks (#3146)](https://github.com/ethereum/execution-specs/commit/fc3bede68d46be416fb3507b29ee456afe46a8b5) - 2026-07-15
+* [Commit] [chore(ci): run `just test-ci-scripts` in CI (#3172)](https://github.com/ethereum/execution-specs/commit/dcde331ff4a40cc3dce240312601a697ab9f94b9) - 2026-07-15
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -92,10 +111,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [clients/ethrex: raise max reorg depth for enginex runs](https://github.com/ethereum/hive/pull/1571) - 2026-07-10
 * [Review] [Review on: clients/go-ethereum: raise engine API max reorg depth for enginex runs](https://github.com/ethereum/hive/pull/1572#pullrequestreview-4698042282) - 2026-07-14
 * [Commit] [clients/go-ethereum: raise engine API max reorg depth for enginex runs (#1572)](https://github.com/ethereum/hive/commit/26b13cbb7e4664e3f43afd6f8c711d7868b4d001) - 2026-07-14
+* [Pull Request] [hiveview: exclude multi-test client contexts from listing counts](https://github.com/ethereum/hive/pull/1576) - 2026-07-15
+* [Review] [Review on: simulators/eels: optionally consume pre-staged local fixtures](https://github.com/ethereum/hive/pull/1566#pullrequestreview-4704683217) - 2026-07-15
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09
 
+* [Commit] [fix: return INVALID from engine_newPayload for legacy tx with invalid v (#10784)](https://github.com/besu-eth/besu/commit/014b75d28b921a762fc973eda236cfc766060ea0) - 2026-07-15
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [eth/catalyst, eth/ethconfig, cmd: make engine API max reorg depth configurable](https://github.com/ethereum/go-ethereum/pull/35335) - 2026-07-10
 

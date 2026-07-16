@@ -43,6 +43,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Compute the create address in the VM (#1589)](https://github.com/ipsilon/evmone/commit/3c4d6cbdc7e43222f891a0f689ba60d51fcc48e2) - 2026-07-14
 * [Commit] [Move MAX_NONCE constant to constants.hpp (#1592)](https://github.com/ipsilon/evmone/commit/056dc2aae333a1541641b2de189970114720a44b) - 2026-07-14
 * [Commit] [Move the create address computation to lib/evmone (#1591)](https://github.com/ipsilon/evmone/commit/b176de07a5cfa80e370b9741b8d908ea0afa5342) - 2026-07-14
+* [Pull Request] [test: Avoid redundant post-state hash in blockchaintest](https://github.com/ipsilon/evmone/pull/1595) - 2026-07-15
+* [Commit] [test: Avoid redundant post-state hash in blockchaintest (#1595)](https://github.com/ipsilon/evmone/commit/02c2caefa3490593d768874d16b3f0f9e62f2fc5) - 2026-07-15
+* [Commit] [state: Store storage-slot pointers in journal instead of keys (#1594)](https://github.com/ipsilon/evmone/commit/a64950d45730377f96cfb3488390b21541862877) - 2026-07-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

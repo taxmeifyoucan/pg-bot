@@ -28,6 +28,10 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 * [Pull Request] [Specify the IL-compliance for NOT_VALIDATED payloads](https://github.com/ethereum/consensus-specs/pull/5433) - 2026-07-06
 * [Commit] [Specify the IL-compliance for NOT_VALIDATED payloads (#5433)](https://github.com/ethereum/consensus-specs/commit/8118c17c77fbcadd574abb4fc08b763ace50faee) - 2026-07-06
+* [Pull Request] [Remove a stale comment for builder withdrawal prefix](https://github.com/ethereum/consensus-specs/pull/5450) - 2026-07-15
+* [Review] [Review on: Specify rep/resp for inclusion lists](https://github.com/ethereum/consensus-specs/pull/5424#pullrequestreview-4703413702) - 2026-07-15
+* [Commit] [Remove a stale comment for builder withdrawal prefix (#5450)](https://github.com/ethereum/consensus-specs/commit/8c12caee279d77b322446d33440b37479117dcde) - 2026-07-15
+* [Commit] [Specify rep/resp for inclusion lists (#5424)](https://github.com/ethereum/consensus-specs/commit/4413725d4f4452dfc9009dcc82e7055bbbb46196) - 2026-07-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

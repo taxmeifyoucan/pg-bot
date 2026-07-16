@@ -80,6 +80,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Harden prewarmer group splitting: capacity gates, whole-job overtake skip, per-worker envs](https://github.com/NethermindEth/nethermind/pull/12433) - 2026-07-14
 * [Review] [Review on: Harden prewarmer group splitting: capacity gates, whole-job overtake skip, per-worker envs](https://github.com/NethermindEth/nethermind/pull/12433#pullrequestreview-4693728955) - 2026-07-14
 * [Commit] [Harden prewarmer group splitting: capacity gates, whole-job overtake skip, per-worker envs (#12433)](https://github.com/NethermindEth/nethermind/commit/8063d50bc303a194f05752feb9587c3845e81146) - 2026-07-14
+* [Commit] [Eliminate JUMPDEST dispatch after valid taken non-traced jumps (#12451)](https://github.com/NethermindEth/nethermind/commit/177f19c6dabaa360399fefb219c31941cf1a7547) - 2026-07-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

@@ -23,6 +23,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor(clock): single public Clock; internalize SlotClock](https://github.com/ChainSafe/lodestar-z/pull/463#pullrequestreview-4682363885) - 2026-07-13
 * [Review] [Review on: refactor(bindings): use zapi js.io() instead of local io module](https://github.com/ChainSafe/lodestar-z/pull/469#pullrequestreview-4694746526) - 2026-07-14
 * [Review] [Review on: refactor(clock): single public Clock; internalize SlotClock](https://github.com/ChainSafe/lodestar-z/pull/463#pullrequestreview-4694192414) - 2026-07-14
+* [Review] [Review on: chore(deps): update zapi to 3.1.0](https://github.com/ChainSafe/lodestar-z/pull/483#pullrequestreview-4702369515) - 2026-07-15
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07

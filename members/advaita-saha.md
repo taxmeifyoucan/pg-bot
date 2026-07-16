@@ -40,6 +40,14 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [fix p2p as per spec and hive tests](https://github.com/status-im/nimbus-eth1/pull/4486) - 2026-07-14
 * [Commit] [fix p2p as per spec and hive tests (#4486)](https://github.com/status-im/nimbus-eth1/commit/4e9d6fadb9d73cbd2822f1ef4b79b499b4f34edb) - 2026-07-14
 * [Commit] [txpool periodic eviction for better pool churn (#4460)](https://github.com/status-im/nimbus-eth1/commit/f06384c697c03ff9f92956fcf7304a4d883414e9) - 2026-07-14
+* [Pull Request] [add debug flag to enable txpool by default for hive](https://github.com/status-im/nimbus-eth1/pull/4493) - 2026-07-15
+* [Pull Request] [update the dockerfile.debug to improve and use buildx for faster builds](https://github.com/status-im/nimbus-eth1/pull/4497) - 2026-07-15
+* [Pull Request] [txpool fixes](https://github.com/status-im/nimbus-eth1/pull/4491) - 2026-07-15
+* [Pull Request] [update txpool vmState as head moves](https://github.com/status-im/nimbus-eth1/pull/4492) - 2026-07-15
+* [Issue] [invalid txpool inclusion, check missing](https://github.com/status-im/nimbus-eth1/issues/4489) - 2026-07-15
+* [Commit] [update the dockerfile.debug to improve and use buildx for faster builds (#4497)](https://github.com/status-im/nimbus-eth1/commit/8b02a99d7f93c583c50800c14bba07a2d7f517c5) - 2026-07-15
+* [Commit] [txpool fixes (#4491)](https://github.com/status-im/nimbus-eth1/commit/3b141e96b05040d7bb10e8c11c36a16d53094932) - 2026-07-15
+* [Commit] [update vmState as head moves (#4492)](https://github.com/status-im/nimbus-eth1/commit/cc1d591ec64236db2941e3b5b6873849a7d86367) - 2026-07-15
 ## Q2 2026
 
 

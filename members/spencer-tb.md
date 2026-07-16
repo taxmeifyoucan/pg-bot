@@ -89,6 +89,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(spec-specs, tests): EIP-2780 review follow-ups (#3164)](https://github.com/ethereum/execution-specs/commit/59940cae760bca899677c1bf4e50124131a3f004) - 2026-07-14
 * [Commit] [fix(tests): test tx max nonce at u64 boundary, add nonce overflow test (#3165)](https://github.com/ethereum/execution-specs/commit/a3638dc8db526ac5fc612c56acdc078b14daec95) - 2026-07-14
 * [Commit] [fix(test-fixtures): emit chainId in state test fixture transaction (#3125)](https://github.com/ethereum/execution-specs/commit/21a52f4a0508dbf8b3649dd7bdfa33988fef4406) - 2026-07-14
+* [Review] [Review on: chore(ci): only install a native build toolchain for PyPy jobs](https://github.com/ethereum/execution-specs/pull/3171#pullrequestreview-4705757675) - 2026-07-15
+* [Review] [Review on: refactor(test-benchmark): centralize benchmark helper utilities](https://github.com/ethereum/execution-specs/pull/3166#pullrequestreview-4705815608) - 2026-07-15
+* [Review] [Review on: chore(ci): don't fetch the benchmark assets submodule where unused](https://github.com/ethereum/execution-specs/pull/3175#pullrequestreview-4704868570) - 2026-07-15
+* [Review] [Review on: chore(tests): fix joblib cache race in eip2537 BLS precompile tests](https://github.com/ethereum/execution-specs/pull/3174#pullrequestreview-4704872705) - 2026-07-15
+* [Review] [Review on: fix(test-consume): accept bad-block-cache errors for resubmitted blocks](https://github.com/ethereum/execution-specs/pull/3146#pullrequestreview-4703934006) - 2026-07-15
+* [Review] [Review on: fix(tests,test-fill): isolate the scenarios BLOCKHASH program pre-alloc group](https://github.com/ethereum/execution-specs/pull/3176#pullrequestreview-4704053658) - 2026-07-15
+* [Review] [Review on: chore(ci): right-size runners for spec-tools and test-tests-pypy](https://github.com/ethereum/execution-specs/pull/3177#pullrequestreview-4703882553) - 2026-07-15
+* [Review] [Review on: chore(ci): run `just test-ci-scripts` in CI](https://github.com/ethereum/execution-specs/pull/3172#pullrequestreview-4702321301) - 2026-07-15
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -103,6 +111,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Review] [Review on: erigon: raise MAX_REORG_DEPTH for enginex runs](https://github.com/ethereum/hive/pull/1568#pullrequestreview-4651910586) - 2026-07-08
+* [Review] [Review on: simulators/eels: optionally consume pre-staged local fixtures](https://github.com/ethereum/hive/pull/1566#pullrequestreview-4705827748) - 2026-07-15
+* [Pull Request] [clients/besu: update EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1574) - 2026-07-15
+* [Commit] [clients/besu: update EIP-8282 builder request contract addresses (#1574)](https://github.com/ethereum/hive/commit/2e211f1a3f6a025d011aed7f66d36879125399af) - 2026-07-15
 ## Q2 2026
 
 
