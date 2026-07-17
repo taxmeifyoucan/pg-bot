@@ -97,6 +97,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests,test-fill): isolate the scenarios BLOCKHASH program pre-alloc group](https://github.com/ethereum/execution-specs/pull/3176#pullrequestreview-4704053658) - 2026-07-15
 * [Review] [Review on: chore(ci): right-size runners for spec-tools and test-tests-pypy](https://github.com/ethereum/execution-specs/pull/3177#pullrequestreview-4703882553) - 2026-07-15
 * [Review] [Review on: chore(ci): run `just test-ci-scripts` in CI](https://github.com/ethereum/execution-specs/pull/3172#pullrequestreview-4702321301) - 2026-07-15
+* [Commit] [feat(ci): fill mainnet fixtures nightly, draft cached `tests@` releases (#3100)](https://github.com/ethereum/execution-specs/commit/a45205c64a2bde60e8fd7c7bd05f9ae0073ab127) - 2026-07-16
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -114,6 +115,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: simulators/eels: optionally consume pre-staged local fixtures](https://github.com/ethereum/hive/pull/1566#pullrequestreview-4705827748) - 2026-07-15
 * [Pull Request] [clients/besu: update EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1574) - 2026-07-15
 * [Commit] [clients/besu: update EIP-8282 builder request contract addresses (#1574)](https://github.com/ethereum/hive/commit/2e211f1a3f6a025d011aed7f66d36879125399af) - 2026-07-15
+* [Review] [Review on: hiveview: exclude multi-test client contexts from listing counts](https://github.com/ethereum/hive/pull/1576#pullrequestreview-4713546192) - 2026-07-16
 ## Q2 2026
 
 

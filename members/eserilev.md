@@ -29,6 +29,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Retrieve gloas execution payload envelope by beacon block root](https://github.com/sigp/lighthouse/pull/9594#pullrequestreview-4692124006) - 2026-07-14
 * [Review] [Review on: Lookup sync with blocks_by_head](https://github.com/sigp/lighthouse/pull/9541#pullrequestreview-4705431556) - 2026-07-15
 * [Pull Request] [DataColumnsByRange decodes pre-fork sidecar with wrong fork at a skip-slot boundary](https://github.com/sigp/lighthouse/pull/9640) - 2026-07-15
+* [Review] [Review on: Add test to VC block production and payload envelope](https://github.com/sigp/lighthouse/pull/9453#pullrequestreview-4711856282) - 2026-07-16
+* [Review] [Review on: Backport CI fixes from 8.2.1 branch](https://github.com/sigp/lighthouse/pull/9651#pullrequestreview-4711133051) - 2026-07-16
 ## Q2 2026
 
 

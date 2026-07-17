@@ -18,6 +18,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Update `spin`](https://github.com/sigp/lighthouse/pull/9626#pullrequestreview-4690598630) - 2026-07-14
 * [Review] [Review on: Check if cached cells are identical to received cells](https://github.com/sigp/lighthouse/pull/9633#pullrequestreview-4709795536) - 2026-07-16
 * [Review] [Review on: Ensure disk reads for gloas payload bid fetching are always in a bloc…](https://github.com/sigp/lighthouse/pull/9634#pullrequestreview-4709486195) - 2026-07-16
+* [Review] [Review on: Fix light client updates stream](https://github.com/sigp/lighthouse/pull/9643#pullrequestreview-4711586129) - 2026-07-16
+* [Review] [Review on: Add a bunch of semicolons to satisfy Nightly rustc](https://github.com/sigp/lighthouse/pull/9648#pullrequestreview-4710273147) - 2026-07-16
 ## Q2 2026
 
 

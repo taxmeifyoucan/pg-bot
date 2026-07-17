@@ -80,6 +80,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: chore: Update packages](https://github.com/NethermindEth/nethermind/pull/12449#pullrequestreview-4702020412) - 2026-07-15
 * [Commit] [Fix eth/70 receipt validation for EIP-2780 (#12462)](https://github.com/NethermindEth/nethermind/commit/03567d56d07d766db8b153dae7c365e6c9cc54a9) - 2026-07-15
 * [Commit] [Validate discv4 peer endpoints before P2P discovery (#12443)](https://github.com/NethermindEth/nethermind/commit/302950a75375517b73821ba19e7692335e8721cd) - 2026-07-15
+* [Review] [Review on: Proposal race condition in XDC ](https://github.com/NethermindEth/nethermind/pull/12473#pullrequestreview-4714454344) - 2026-07-16
+* [Pull Request] [Devnet-7 tests and repricing](https://github.com/NethermindEth/nethermind/pull/12476) - 2026-07-16
+* [Review] [Review on: Add versioned engine_newPayloadWithWitness methods](https://github.com/NethermindEth/nethermind/pull/12464#pullrequestreview-4716001761) - 2026-07-16
+* [Review] [Review on: fix(tracing): make custom JavaScript tracer caching concurrency-safe](https://github.com/NethermindEth/nethermind/pull/12465#pullrequestreview-4713786232) - 2026-07-16
+* [Review] [Review on: fix(consensus): preserve chain-specific header type in mempool pre-warming](https://github.com/NethermindEth/nethermind/pull/12447#pullrequestreview-4712902495) - 2026-07-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -87,6 +92,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): update Nethermind exception mappings](https://github.com/ethereum/execution-specs/pull/3151) - 2026-07-13
 * [Commit] [chore(test-client-clis): update Nethermind exception mappings (#3151)](https://github.com/ethereum/execution-specs/commit/ccab088314c7a3197947bf26da3b26824bd7601e) - 2026-07-13
+* [Pull Request] [chore(test-client-clis): backport Nethermind signature mapping](https://github.com/ethereum/execution-specs/pull/3184) - 2026-07-16
 ## Q2 2026
 
 

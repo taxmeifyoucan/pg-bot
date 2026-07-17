@@ -34,6 +34,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Updated kzg lib](https://github.com/besu-eth/besu/pull/10794#pullrequestreview-4672325668) - 2026-07-10
 * [Review] [Review on: Add ADDMOD in EVMv2](https://github.com/besu-eth/besu/pull/10792#pullrequestreview-4670350547) - 2026-07-10
 * [Pull Request] [[DO NOT MERGE] Test disabling gradle cache for ATs](https://github.com/besu-eth/besu/pull/10803) - 2026-07-14
+* [Review] [Review on: display max open file value](https://github.com/besu-eth/besu/pull/10812#pullrequestreview-4711745222) - 2026-07-16
 ## Q2 2026
 
 

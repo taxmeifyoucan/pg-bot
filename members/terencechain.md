@@ -111,6 +111,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Unify payload reorg (attempt #2)](https://github.com/OffchainLabs/prysm/pull/17187) - 2026-07-15
 * [Pull Request] [Unify payload reorg policy](https://github.com/OffchainLabs/prysm/pull/17186) - 2026-07-15
 * [Commit] [Validate execution payload envelopes fetched by root (#17176)](https://github.com/OffchainLabs/prysm/commit/7d54646cb693e7355e67921937632e9c8bf51ae6) - 2026-07-15
+* [Pull Request] [Return envelope publish after broadcast, import in background](https://github.com/OffchainLabs/prysm/pull/17198) - 2026-07-17
+* [Review] [Review on: reverting blinded envelope](https://github.com/OffchainLabs/prysm/pull/17181#pullrequestreview-4717541556) - 2026-07-16
+* [Review] [Review on: Implement fast confirmation rule ](https://github.com/OffchainLabs/prysm/pull/17122#pullrequestreview-4710100054) - 2026-07-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

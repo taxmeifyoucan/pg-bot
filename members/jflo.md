@@ -24,6 +24,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Updated kzg lib](https://github.com/besu-eth/besu/pull/10794) - 2026-07-10
 * [Commit] [Prepare changelog for 26.7.0 release (#10795)](https://github.com/besu-eth/besu/commit/f036a1738493f52999e931e9a61d9a065b749603) - 2026-07-10
 * [Commit] [Updated kzg lib (#10794)](https://github.com/besu-eth/besu/commit/fe51556870968d32a0972f45265a376b383b5819) - 2026-07-10
+* [Pull Request] [DO NOT MERGE, DELETE ME - testing ci](https://github.com/besu-eth/besu/pull/10816) - 2026-07-16
+* [Pull Request] [testing CI, do not merge](https://github.com/besu-eth/besu/pull/10815) - 2026-07-16
 ## Q2 2026
 
 

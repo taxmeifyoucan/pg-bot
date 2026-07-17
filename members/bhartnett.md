@@ -30,6 +30,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Lock free block access list builder](https://github.com/status-im/nimbus-eth1/pull/4478) - 2026-07-13
 * [Commit] [Cache and reuse vmState in forked chain (#4452)](https://github.com/status-im/nimbus-eth1/commit/51547dcd195c2659155905771b59690d00bc2cbd) - 2026-07-13
 * [Commit] [Lock free block access list builder (#4478)](https://github.com/status-im/nimbus-eth1/commit/cb0d03265126515cfc2bdb869383356c7e02b8d4) - 2026-07-14
+* [Pull Request] [Add debug_setHead endpoint for benchmarking tests](https://github.com/status-im/nimbus-eth1/pull/4507) - 2026-07-16
+* [Commit] [Add debug_setHead endpoint for benchmarking tests (#4507)](https://github.com/status-im/nimbus-eth1/commit/15b9934519b3b08b632bb5ce1dc0206c54957497) - 2026-07-16
 ## Q2 2026
 
 

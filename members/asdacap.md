@@ -159,6 +159,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci: build test binaries once per RID and share via artifact](https://github.com/NethermindEth/nethermind/pull/12371#pullrequestreview-4692572532) - 2026-07-14
 * [Commit] [Convert AuRa block producer wiring to DI (#12414)](https://github.com/NethermindEth/nethermind/commit/f2ecd4663647b73a566856bceb4cbd8c7017b07e) - 2026-07-14
 * [Commit] [Extract censorship detector into plugin (#12432)](https://github.com/NethermindEth/nethermind/commit/b561804a15efe9c8a6ad6475dcccdd50feaa912c) - 2026-07-14
+* [Review] [Review on: test: add E2E coverage for bootnodes with TCP port 0 (discport-only enodes)](https://github.com/NethermindEth/nethermind/pull/12477#pullrequestreview-4718302643) - 2026-07-16
+* [Review] [Review on: fix(flat): guard the trie-warmer against a TransientResource recycle race (storage reads as 0x00)](https://github.com/NethermindEth/nethermind/pull/12429#pullrequestreview-4710176129) - 2026-07-16
+* [Commit] [feat: append DB layout postfix to public client ID (#12435)](https://github.com/NethermindEth/nethermind/commit/b5a64c02152d41ded41f2ed787a57689da2a2821) - 2026-07-16
 ## Q2 2026
 
 

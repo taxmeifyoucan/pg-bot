@@ -139,6 +139,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: [WIP] EIP-8141 - Frame Transactions ](https://github.com/NethermindEth/nethermind/pull/12441#pullrequestreview-4693284297) - 2026-07-14
 * [Review] [Review on: Harden prewarmer group splitting: capacity gates, whole-job overtake skip, per-worker envs](https://github.com/NethermindEth/nethermind/pull/12433#pullrequestreview-4693259985) - 2026-07-14
 * [Review] [Review on: perf(bal): reuse cached wire hash for block access list hash](https://github.com/NethermindEth/nethermind/pull/12381#pullrequestreview-4693241243) - 2026-07-14
+* [Review] [Review on: perf(flat): serve snap responses as pre-serialized RLP](https://github.com/NethermindEth/nethermind/pull/12472#pullrequestreview-4713294188) - 2026-07-16
+* [Review] [Review on: perf(db): batched RocksDB MultiGet for flat BAL warmup — contiguous slices, no block-cache fill](https://github.com/NethermindEth/nethermind/pull/12467#pullrequestreview-4713305467) - 2026-07-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

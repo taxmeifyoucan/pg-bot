@@ -34,6 +34,13 @@ Team: Grandine
 * [Pull Request] [Gloas attestations](https://github.com/grandinetech/grandine/pull/813) - 2026-07-15
 * [Review] [Review on: Feature/stable containers](https://github.com/grandinetech/grandine/pull/810#pullrequestreview-4703667385) - 2026-07-15
 * [Issue] [[Glamsterdam] Gloas attestations](https://github.com/grandinetech/grandine/issues/812) - 2026-07-15
+* [Review] [Review on: Gloas block building API](https://github.com/grandinetech/grandine/pull/788#pullrequestreview-4714441091) - 2026-07-16
+* [Review] [Review on: Add missing SSE events](https://github.com/grandinetech/grandine/pull/691#pullrequestreview-4713948783) - 2026-07-16
+* [Review] [Review on: Update validator_payload_attestation_data beacon API](https://github.com/grandinetech/grandine/pull/807#pullrequestreview-4711931666) - 2026-07-16
+* [Review] [Review on: Add submitProposerPreferences beacon API](https://github.com/grandinetech/grandine/pull/808#pullrequestreview-4711784596) - 2026-07-16
+* [Review] [Review on: Wait for proposer preferences broadcasting to finish](https://github.com/grandinetech/grandine/pull/804#pullrequestreview-4711943874) - 2026-07-16
+* [Review] [Review on: Gloas attestations](https://github.com/grandinetech/grandine/pull/813#pullrequestreview-4711886833) - 2026-07-16
+* [Review] [Review on: Fix Gloas data column sidecar range sync](https://github.com/grandinetech/grandine/pull/815#pullrequestreview-4711806842) - 2026-07-16
 ## Q2 2026
 
 

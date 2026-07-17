@@ -42,6 +42,13 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Update to pass spec tests for glamsterdam-devnet-7](https://github.com/besu-eth/besu/pull/10801#pullrequestreview-4694910440) - 2026-07-14
 * [Review] [Review on: snap/2 - fixes](https://github.com/besu-eth/besu/pull/10739#pullrequestreview-4703260958) - 2026-07-15
 * [Pull Request] [Stateroot refactoring  ](https://github.com/besu-eth/besu/pull/10804) - 2026-07-15
+* [Review] [Review on: snap/2 - improve logging](https://github.com/besu-eth/besu/pull/10810#pullrequestreview-4712692257) - 2026-07-16
+* [Review] [Review on: Refactor `engine_forkchoiceUpdated` into sealed version hierarchy](https://github.com/besu-eth/besu/pull/10475#pullrequestreview-4712996670) - 2026-07-16
+* [Review] [Review on: Amsterdam: shared resource-price constants foundation](https://github.com/besu-eth/besu/pull/10813#pullrequestreview-4712608531) - 2026-07-16
+* [Pull Request] [display max open file value](https://github.com/besu-eth/besu/pull/10812) - 2026-07-16
+* [Review] [Review on: display max open file value](https://github.com/besu-eth/besu/pull/10812#pullrequestreview-4711546177) - 2026-07-16
+* [Pull Request] [stateroot refactor for glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10811) - 2026-07-16
+* [Commit] [display max open file value in the configuration overview (#10812)](https://github.com/besu-eth/besu/commit/338bbcefe8880d8b0898e927dc295c3b198ffa07) - 2026-07-16
 ## Q2 2026
 
 

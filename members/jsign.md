@@ -32,6 +32,12 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [feat: accept only canonical fixtures guest programs (#297)](https://github.com/eth-act/zkevm-benchmark-workload/commit/4c9af03916347b1be3da4c06834eb1355f22bbe0) - 2026-07-15
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [feat(EngineAPI): support engine_newPayloadWithWitnessVX](https://github.com/paradigmxyz/reth/issues/26415) - 2026-07-16
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524) - 2026-07-16
+
+[eth-act/ere](https://github.com/eth-act/ere)
+* [Review] [Review on: feat: propagate rustflags](https://github.com/eth-act/ere/pull/391#pullrequestreview-4713409107) - 2026-07-16
 ## Q2 2026
 
 

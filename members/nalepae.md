@@ -40,6 +40,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Issue] [Cannot restart a beacon node after a few days using the `--enable-state-diff` flag.](https://github.com/OffchainLabs/prysm/issues/17148) - 2026-07-10
 * [Commit] [Bump C-KZG version (#17150)](https://github.com/OffchainLabs/prysm/commit/8db5927c7d6bd321f9bb09423349447f2dcacb1e) - 2026-07-10
 * [Review] [Review on: Remove Bazel: Phase 3/9 - Part 1](https://github.com/OffchainLabs/prysm/pull/17062#pullrequestreview-4703988861) - 2026-07-15
+
+* [Pull Request] [`TestStatusRPCRequest_FinalizedBlockSkippedSlots`:  Avoid panic if the stream handler is invoked more than once, by avoiding `wg.Done` to lead to a negative counter.](https://github.com/OffchainLabs/prysm/pull/17197) - 2026-07-16
+* [Commit] [Remove Bazel: Phase 3/9 - Part 1 (#17062)](https://github.com/OffchainLabs/prysm/commit/d8136fb07de37ecc86076d720507bebf1b8e8ff0) - 2026-07-16
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 ## Q2 2026
 
 

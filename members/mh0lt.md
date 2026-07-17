@@ -28,6 +28,9 @@ Team: Erigon
 * [Commit] [db/state, execution/commitment: fix parallel-commitment worker reads + add COMMITMENT_PARALLEL toggle (#22354)](https://github.com/erigontech/erigon/commit/d184f8a75d365a0d4856bdb8fea751d6fbc051f0) - 2026-07-12
 * [Issue] [IBS versionMap unification: complete the single versionedio model (remove the stateObject)](https://github.com/erigontech/erigon/issues/22458) - 2026-07-14
 * [Issue] [execution/execmodule, node/shards: remove the global Events.LatestSD published-SD pointer (decouple readers via a publication id)](https://github.com/erigontech/erigon/issues/22494) - 2026-07-15
+* [Review] [Review on: db, execution: harden StateCache read-fills against stale overwrites and unwinds](https://github.com/erigontech/erigon/pull/22467#pullrequestreview-4712142695) - 2026-07-16
+* [Review] [Review on: execution/cache: fence GenericCache generation swaps and make size accounting exact](https://github.com/erigontech/erigon/pull/22466#pullrequestreview-4712237244) - 2026-07-16
+* [Issue] [execution: SD-owned run-task worker abstraction + drop the parallel-exec scheduler queue](https://github.com/erigontech/erigon/issues/22520) - 2026-07-16
 ## Q2 2026
 
 

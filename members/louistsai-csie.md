@@ -42,6 +42,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: chore(tests): remove legacy `abstract:` prefix from test module docstrings](https://github.com/ethereum/execution-specs/pull/3162#pullrequestreview-4691136930) - 2026-07-14
 * [Review] [Review on: feat(test-cli): add `--extract-opcode-count` opcode tracing](https://github.com/ethereum/execution-specs/pull/3124#pullrequestreview-4704601158) - 2026-07-15
 * [Review] [Review on: fix(fill-stateful): verify receipt status when filling stateful fixtures](https://github.com/ethereum/execution-specs/pull/3142#pullrequestreview-4701679139) - 2026-07-15
+* [Pull Request] [feat(test-benchmark): support per block opcode count record](https://github.com/ethereum/execution-specs/pull/3183) - 2026-07-16
 ## Q2 2026
 
 

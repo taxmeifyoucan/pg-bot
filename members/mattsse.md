@@ -124,6 +124,11 @@ Team: Reth
 * [Review] [Review on: fix(trie): continue prefix-set traversal after cached descendant](https://github.com/paradigmxyz/reth/pull/26389#pullrequestreview-4704464485) - 2026-07-15
 * [Review] [Review on: feat(download): make env public and add getter](https://github.com/paradigmxyz/reth/pull/25285#pullrequestreview-4703867501) - 2026-07-15
 * [Pull Request] [feat(engine): refresh EIP-7805 FOCIL support](https://github.com/paradigmxyz/reth/pull/26407) - 2026-07-15
+* [Review] [Review on: test(net): add first snap e2e tests](https://github.com/paradigmxyz/reth/pull/26368#pullrequestreview-4712617351) - 2026-07-16
+* [Review] [Review on: fix(trie): group proof targets by exact subtrie prefix](https://github.com/paradigmxyz/reth/pull/26357#pullrequestreview-4714783457) - 2026-07-16
+* [Review] [Review on: feat(net): serve real snap/2 account and storage range data](https://github.com/paradigmxyz/reth/pull/26339#pullrequestreview-4714922218) - 2026-07-16
+* [Review] [Review on: fix(rpc): fail invalid testing block transactions by default](https://github.com/paradigmxyz/reth/pull/26372#pullrequestreview-4714832505) - 2026-07-16
+* [Review] [Review on: fix: terminate eyre bail invocations](https://github.com/paradigmxyz/reth/pull/26416#pullrequestreview-4712904513) - 2026-07-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

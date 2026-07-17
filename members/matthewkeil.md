@@ -20,6 +20,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Add Gloas lightclient api support](https://github.com/ChainSafe/lodestar/issues/9648) - 2026-07-13
 * [Pull Request] [chore: remove CODEOWNERS auto notification of PR review](https://github.com/ChainSafe/lodestar/pull/9657) - 2026-07-14
 * [Review] [Review on: ci: expand native portability checks](https://github.com/ChainSafe/lodestar/pull/9642#pullrequestreview-4696868023) - 2026-07-14
+* [Review] [Review on: chore: replace ts-node with tsx for running TypeScript](https://github.com/ChainSafe/lodestar/pull/9635#pullrequestreview-4718312624) - 2026-07-16
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

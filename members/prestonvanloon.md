@@ -43,6 +43,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Remove Bazel: Phase 3/9 - Part 1](https://github.com/OffchainLabs/prysm/pull/17062#pullrequestreview-4705417638) - 2026-07-15
 * [Commit] [fix(ci): restore coverage runfiles and fail fast (#17189)](https://github.com/OffchainLabs/prysm/commit/c98e8d26ac02a2031ef7cc3176f9fe1c9e2189c6) - 2026-07-15
 * [Commit] [Add test files omitted from Bazel BUILD files (#17185)](https://github.com/OffchainLabs/prysm/commit/a347f6fb4fb12a927611c837be2612b6d48c4722) - 2026-07-15
+* [Pull Request] [fix(e2e): support JSON and SSZ in mock builder](https://github.com/OffchainLabs/prysm/pull/17196) - 2026-07-16
+* [Review] [Review on: Nuke interop flags](https://github.com/OffchainLabs/prysm/pull/17164#pullrequestreview-4715749554) - 2026-07-16
+* [Review] [Review on: Remove Bazel: Phase 3/9 - Part 1](https://github.com/OffchainLabs/prysm/pull/17062#pullrequestreview-4715609743) - 2026-07-16
+* [Commit] [Changelog v7.1.7 (#17169)](https://github.com/OffchainLabs/prysm/commit/35ee054d0f1123937e7a43eec57edb9823536f63) - 2026-07-16
+* [Commit] [fix(validator): synchronize remote web3signer key file watcher startup (#17188)](https://github.com/OffchainLabs/prysm/commit/6826d085679880b4bbc569e4496f1300db945fd9) - 2026-07-16
+* [Commit] [fix(e2e): serialize fixed-port postsubmit targets (#17190)](https://github.com/OffchainLabs/prysm/commit/61856cd9b7ce750895e6afd92c17fb80e6c7c449) - 2026-07-16
 ## Q2 2026
 
 

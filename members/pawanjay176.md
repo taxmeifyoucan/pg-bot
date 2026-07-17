@@ -23,6 +23,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Narrow payload bid cache generics to EthSpec](https://github.com/sigp/lighthouse/pull/9645#pullrequestreview-4708496950) - 2026-07-15
 * [Review] [Review on: Add metrics for fork choice lock hold times](https://github.com/sigp/lighthouse/pull/9614#pullrequestreview-4707505106) - 2026-07-15
 * [Review] [Review on: Reject RPC requests with trailing bytes](https://github.com/sigp/lighthouse/pull/9567#pullrequestreview-4706906223) - 2026-07-15
+* [Review] [Review on: Gloas backfill](https://github.com/sigp/lighthouse/pull/9575#pullrequestreview-4718190957) - 2026-07-16
 ## Q2 2026
 
 

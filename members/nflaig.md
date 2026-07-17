@@ -115,6 +115,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: stateless flow for local block production post-gloas](https://github.com/ChainSafe/lodestar/pull/9595#pullrequestreview-4696112676) - 2026-07-14
 * [Review] [Review on: ci: expand native portability checks](https://github.com/ChainSafe/lodestar/pull/9642#pullrequestreview-4706862343) - 2026-07-15
 * [Review] [Review on: feat: stateless flow for local block production post-gloas](https://github.com/ChainSafe/lodestar/pull/9595#pullrequestreview-4702429115) - 2026-07-15
+* [Review] [Review on: chore: add communication style to agents.md](https://github.com/ChainSafe/lodestar/pull/9668#pullrequestreview-4714186049) - 2026-07-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

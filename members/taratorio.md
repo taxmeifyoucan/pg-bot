@@ -84,6 +84,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: implement EIP-7928 fixes for tests-glamsterdam-devnet@v6.1.1 (#22161)](https://github.com/erigontech/erigon/commit/63dfa6fe70721717974c87250c0dccab28a6e573) - 2026-07-15
 * [Commit] [agents, codex: add shared agent configuration (#22491)](https://github.com/erigontech/erigon/commit/f8404e56cac67dead9f5cef62a8188be9898b187) - 2026-07-15
 * [Commit] [execution: update EIP-7954 MaxCodeSizeAmsterdam = 64KB (#22088)](https://github.com/erigontech/erigon/commit/21159966deb9f3c293cd31c4d6fc2fcdb384dcec) - 2026-07-15
+* [Pull Request] [[DO-NOT-MERGE] execution: update EIP-2780 runtime gas](https://github.com/erigontech/erigon/pull/22537) - 2026-07-17
+* [Pull Request] [types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22522) - 2026-07-16
+* [Pull Request] [[r3.5] types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22524) - 2026-07-16
+* [Pull Request] [[r3.5] types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22525) - 2026-07-16
+* [Pull Request] [[DO-NOT-MERGE] execution: update EIP-8282 contracts for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22526) - 2026-07-16
+* [Review] [Review on: types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514#pullrequestreview-4712454883) - 2026-07-16
+* [Pull Request] [[DO-NOT-MERGE] execution: update devnet fixtures to v7.2.0](https://github.com/erigontech/erigon/pull/22517) - 2026-07-16
+* [Pull Request] [execution: record delegation CodePath read in versionmap](https://github.com/erigontech/erigon/pull/22513) - 2026-07-16
+* [Review] [Review on: polygon/sync: fix flaky TestEventChannel/ConsumeEvents](https://github.com/erigontech/erigon/pull/22510#pullrequestreview-4710819590) - 2026-07-16
+* [Commit] [execution: record delegation CodePath read in versionmap (#22513)](https://github.com/erigontech/erigon/commit/2409a7a208bde99dbb7db9678cae7f8add2c9bfa) - 2026-07-16
+* [Commit] [hive-test: add skill frontmatter (#22506)](https://github.com/erigontech/erigon/commit/119e62a584e7bfc3f2db024a230fd68435944580) - 2026-07-16
+* [Commit] [tests: bump EEST stable fixtures to v20.0.1 (#22507)](https://github.com/erigontech/erigon/commit/a00f0ad0db902f2c5bd675e375c75844fd92c689) - 2026-07-16
+* [Commit] [docs: normalize AGENTS.md casing (#22508)](https://github.com/erigontech/erigon/commit/ccbf39f495bdb53ac8f8855d96e8a8d6d5002368) - 2026-07-16
+* [Commit] [agents: remove stale autoresearch skill link (#22509)](https://github.com/erigontech/erigon/commit/8c5a4a40acf2f5e45f2cdfe4be42637b3dcd507d) - 2026-07-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
@@ -91,6 +105,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [erigon: raise MAX_REORG_DEPTH for enginex runs](https://github.com/ethereum/hive/pull/1568) - 2026-07-08
 * [Commit] [erigon: raise MAX_REORG_DEPTH for enginex runs (#1568)](https://github.com/ethereum/hive/commit/086c7556b09aa200d578cbf39e3e3cf26c8ac3eb) - 2026-07-08
+* [Pull Request] [simulators/eels: optionally consume pre-staged local fixtures tar.gz](https://github.com/ethereum/hive/pull/1577) - 2026-07-17
 ## Q2 2026
 
 

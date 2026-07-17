@@ -17,6 +17,7 @@ Team: Geth
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Commit] [accounts/abi:  fix abigen v1 bindings for deployment of library dependencies (#32164)](https://github.com/ethereum/go-ethereum/commit/a10969f65061d99d47728fba14ec2b022e436233) - 2026-07-14
+* [Review] [Review on: tests: added BAL specific tests](https://github.com/ethereum/go-ethereum/pull/35064#pullrequestreview-4717601574) - 2026-07-16
 ## Q2 2026
 
 

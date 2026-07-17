@@ -57,6 +57,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Complete deprecated blob sidecar range requests](https://github.com/Consensys/teku/pull/10971#pullrequestreview-4692128940) - 2026-07-14
 * [Review] [Review on: Produce block v4 with payload](https://github.com/Consensys/teku/pull/10832#pullrequestreview-4708157786) - 2026-07-15
 * [Commit] [Two related bugs in DataColumnSidecarsByRoot RPC handling: (#10969)](https://github.com/Consensys/teku/commit/820956a7a6bc5c7ecf3228de50c4550f79074cde) - 2026-07-15
+* [Review] [Review on:   Return 204 for producePayloadAttestationData when no block seen at slot](https://github.com/Consensys/teku/pull/10965#pullrequestreview-4710038205) - 2026-07-16
+* [Commit] [Fix DataColumnSidecarsByRoot partial-response-then-abort for out-of-window block roots (#10970)](https://github.com/Consensys/teku/commit/d33b5d27db449dc9c12bcdc24c06830eb5c69244) - 2026-07-16
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 ## Q2 2026

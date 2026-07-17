@@ -248,6 +248,27 @@ Team: Erigon
 * [Commit] [ExecModule.HasBlock calc dbKey once (#22479)](https://github.com/erigontech/erigon/commit/e5ac478a5a469c4c97231a9848ff8901de1b32e7) - 2026-07-15
 * [Commit] [db, execution, cl, node: nil external pointers before returning objects to sync.Pool (#22410)](https://github.com/erigontech/erigon/commit/1064be2372be661c1119acd8017ccc4a405a7ec7) - 2026-07-15
 * [Commit] [switch some tests to long-living block's views (#22453)](https://github.com/erigontech/erigon/commit/b4b8850ddd82f3c5d9b92ab643fd2de51a287f12) - 2026-07-15
+* [Review] [Review on: rpc: refactor NewBaseApi to take BaseApiConfig struct](https://github.com/erigontech/erigon/pull/22478#pullrequestreview-4710520524) - 2026-07-16
+* [Pull Request] [[wip] db/kv, db/rawdb: cut block-key ranges with native mdbx bulk delete](https://github.com/erigontech/erigon/pull/22521) - 2026-07-16
+* [Review] [Review on: db/state: route receipt domain GetAsOf/HistorySeek through overlay DomainReader](https://github.com/erigontech/erigon/pull/22511#pullrequestreview-4712089916) - 2026-07-16
+* [Review] [Review on: crypto: drop per-call allocations from `Keccak256` and `Sha256`](https://github.com/erigontech/erigon/pull/22489#pullrequestreview-4711237625) - 2026-07-16
+* [Pull Request] [cl/merkle_tree: reuse packing buffer in transactionsListRoot](https://github.com/erigontech/erigon/pull/22518) - 2026-07-16
+* [Review] [Review on: cl/merkle_tree: reuse packing buffer in transactionsListRoot](https://github.com/erigontech/erigon/pull/22518#pullrequestreview-4712775916) - 2026-07-16
+* [Review] [Review on: docs(installation): add Ethereum on ARM install method](https://github.com/erigontech/erigon/pull/22515#pullrequestreview-4712058212) - 2026-07-16
+* [Review] [Review on: docs(installation): add Ethereum on ARM install method](https://github.com/erigontech/erigon/pull/22516#pullrequestreview-4712058682) - 2026-07-16
+* [Review] [Review on: [r3.5] cl/phase1/stages: simplify forward-sync progress log, use utils.ETA](https://github.com/erigontech/erigon/pull/22512#pullrequestreview-4712038614) - 2026-07-16
+* [Review] [Review on: types, snapshotsync: decode body RLP without reflection](https://github.com/erigontech/erigon/pull/22500#pullrequestreview-4710472025) - 2026-07-16
+* [Review] [Review on: rlp, types: zero-copy typed-txn envelope decode](https://github.com/erigontech/erigon/pull/22498#pullrequestreview-4710471856) - 2026-07-16
+* [Review] [Review on: [wip] execution/commitment: fix parallel commitment wrong trie root (re-land #22257 + storage-fold nav path fix)](https://github.com/erigontech/erigon/pull/22495#pullrequestreview-4710581669) - 2026-07-16
+* [Review] [Review on: execution: record delegation CodePath read in versionmap](https://github.com/erigontech/erigon/pull/22513#pullrequestreview-4711367163) - 2026-07-16
+* [Pull Request] [polygon/sync: fix flaky TestEventChannel/ConsumeEvents](https://github.com/erigontech/erigon/pull/22510) - 2026-07-16
+* [Review] [Review on: cl/phase1/stages: guard forward-sync progress log against under/overflow](https://github.com/erigontech/erigon/pull/22464#pullrequestreview-4710542466) - 2026-07-16
+* [Review] [Review on: [wip] execution/types, execution/stagedsync: index txn lookup without decoding txns](https://github.com/erigontech/erigon/pull/22502#pullrequestreview-4710486383) - 2026-07-16
+* [Review] [Review on: build(deps): bump websocket-driver from 0.7.4 to 0.7.5 in /docs/site](https://github.com/erigontech/erigon/pull/22505#pullrequestreview-4710495862) - 2026-07-16
+* [Commit] [disc5: move heavy logging behind `trace bool` field (#22488)](https://github.com/erigontech/erigon/commit/c437da4d324104806578b0071a021b4f606bfe3e) - 2026-07-16
+* [Commit] [types, snapshotsync: decode body RLP without reflection (#22500)](https://github.com/erigontech/erigon/commit/9bdfe09dea8d977fbd564a8df8ff1a00e397ffa5) - 2026-07-16
+* [Commit] [rlp, types: zero-copy typed-txn envelope decode (#22498)](https://github.com/erigontech/erigon/commit/f78dd8a4db8469d1dbaa2121427bac8c06eca05e) - 2026-07-16
+* [Commit] [polygon/sync: fix flaky TestEventChannel/ConsumeEvents (#22510)](https://github.com/erigontech/erigon/commit/868f0bbbcb36de6942f636e5c774c66fd2041819) - 2026-07-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

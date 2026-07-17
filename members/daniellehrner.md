@@ -35,6 +35,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4671877942) - 2026-07-10
 * [Pull Request] [Update to pass spec tests for glamsterdam-devnet-7](https://github.com/besu-eth/besu/pull/10801) - 2026-07-14
 
+* [Pull Request] [Amsterdam: shared resource-price constants foundation](https://github.com/besu-eth/besu/pull/10813) - 2026-07-16
+* [Commit] [Amsterdam: shared resource-price constants foundation (#10813)](https://github.com/besu-eth/besu/commit/f0f5c0c8d7f561ed3ac916d410cec9f11d59208f) - 2026-07-16
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 ## Q2 2026

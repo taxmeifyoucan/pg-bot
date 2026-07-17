@@ -17,6 +17,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Dump local testnet logs after startup failure](https://github.com/sigp/lighthouse/pull/9613) - 2026-07-10
 * [Pull Request] [Use branchless swaps in swap-or-not shuffling](https://github.com/sigp/lighthouse/pull/9630) - 2026-07-14
 * [Review] [Review on: Fix Gloas sync tests by adding supernode config](https://github.com/sigp/lighthouse/pull/9628#pullrequestreview-4690906244) - 2026-07-14
+* [Review] [Review on: Add gossip validation spec tests for beacon block](https://github.com/sigp/lighthouse/pull/9372#pullrequestreview-4710361322) - 2026-07-16
+* [Review] [Review on: Add a bunch of semicolons to satisfy Nightly rustc](https://github.com/sigp/lighthouse/pull/9648#pullrequestreview-4710263077) - 2026-07-16
 ## Q2 2026
 
 

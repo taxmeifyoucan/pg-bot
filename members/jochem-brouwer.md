@@ -64,6 +64,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: fix(test-benchmark): correct compute benchmarks that ran below worst case](https://github.com/ethereum/execution-specs/pull/3136#pullrequestreview-4682321039) - 2026-07-13
 * [Review] [Review on: fix(test-benchmark): make audited compute benchmarks measure real work](https://github.com/ethereum/execution-specs/pull/3135#pullrequestreview-4682155927) - 2026-07-13
 * [Review] [Review on: feat(test-cli): add `--extract-opcode-count` opcode tracing](https://github.com/ethereum/execution-specs/pull/3124#pullrequestreview-4708185924) - 2026-07-15
+* [Review] [Review on: fix(test-benchmark): correct compute benchmarks that ran below worst case](https://github.com/ethereum/execution-specs/pull/3136#pullrequestreview-4710966763) - 2026-07-16
+* [Commit] [fix(fill-stateful): verify receipt status when filling stateful fixtures (#3142)](https://github.com/ethereum/execution-specs/commit/693dbbda7c9fe200ffe9762472bf8d9ff6e0a054) - 2026-07-16
 ## Q2 2026
 
 

@@ -28,6 +28,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Fix Gloas sync tests by adding supernode config](https://github.com/sigp/lighthouse/pull/9628) - 2026-07-14
 * [Pull Request] [Update `spin`](https://github.com/sigp/lighthouse/pull/9626) - 2026-07-14
 * [Review] [Review on: Silence future-incompat warnings](https://github.com/sigp/lighthouse/pull/9639#pullrequestreview-4709708146) - 2026-07-16
+* [Review] [Review on: Check if cached cells are identical to received cells](https://github.com/sigp/lighthouse/pull/9633#pullrequestreview-4710179925) - 2026-07-16
+* [Pull Request] [Backport CI fixes from 8.2.1 branch](https://github.com/sigp/lighthouse/pull/9651) - 2026-07-16
+* [Review] [Review on: Backport CI fixes from 8.2.1 branch](https://github.com/sigp/lighthouse/pull/9651#pullrequestreview-4710867580) - 2026-07-16
+* [Review] [Review on: Align gloas proposer reorg weight logic w/ spec](https://github.com/sigp/lighthouse/pull/9625#pullrequestreview-4710744455) - 2026-07-16
+* [Pull Request] [Add a bunch of semicolons to satisfy Nightly rustc](https://github.com/sigp/lighthouse/pull/9648) - 2026-07-16
 ## Q2 2026
 
 

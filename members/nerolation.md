@@ -28,6 +28,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7928: exclude the recipient when a runtime halt precedes i…](https://github.com/ethereum/EIPs/pull/11902) - 2026-07-08
 * [Commit] [Update EIP-7928: exclude the recipient when a runtime halt precedes i…](https://github.com/ethereum/EIPs/commit/6c666b8d646df8ea6dcef9638de7b48e3c45ab96) - 2026-07-09
 * [Review] [Review on: Update EIP-7773: re-add CFI/restore EIP-8136/EIP-8189 status](https://github.com/ethereum/EIPs/pull/11917#pullrequestreview-4682983448) - 2026-07-13
+* [Pull Request] [Add EIP: Partial Execution Payload Commitments](https://github.com/ethereum/EIPs/pull/11936) - 2026-07-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 

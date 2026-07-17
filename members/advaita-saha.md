@@ -48,6 +48,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [update the dockerfile.debug to improve and use buildx for faster builds (#4497)](https://github.com/status-im/nimbus-eth1/commit/8b02a99d7f93c583c50800c14bba07a2d7f517c5) - 2026-07-15
 * [Commit] [txpool fixes (#4491)](https://github.com/status-im/nimbus-eth1/commit/3b141e96b05040d7bb10e8c11c36a16d53094932) - 2026-07-15
 * [Commit] [update vmState as head moves (#4492)](https://github.com/status-im/nimbus-eth1/commit/cc1d591ec64236db2941e3b5b6873849a7d86367) - 2026-07-15
+* [Pull Request] [skip malformed enode entry](https://github.com/status-im/nimbus-eth1/pull/4503) - 2026-07-16
+* [Review] [Review on: skip malformed enode entry](https://github.com/status-im/nimbus-eth1/pull/4503#pullrequestreview-4712603242) - 2026-07-16
+* [Pull Request] [fix fc crash from auto forward](https://github.com/status-im/nimbus-eth1/pull/4502) - 2026-07-16
 ## Q2 2026
 
 

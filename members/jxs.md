@@ -14,6 +14,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Review] [Review on: Improve banning logic by grouping Ipv6 /56 prefixes](https://github.com/sigp/lighthouse/pull/8199#pullrequestreview-4607744098) - 2026-07-01
 * [Review] [Review on: Improve banning logic by grouping Ipv6 /56 prefixes](https://github.com/sigp/lighthouse/pull/8199#pullrequestreview-4616225434) - 2026-07-02
+* [Review] [Review on: Reject RPC requests with trailing bytes](https://github.com/sigp/lighthouse/pull/9567#pullrequestreview-4714650886) - 2026-07-16
 ## Q2 2026
 
 

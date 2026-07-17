@@ -28,6 +28,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [fix: reproduce and fix source-jar dependency verification gaps](https://github.com/besu-eth/besu/pull/10808) - 2026-07-15
 * [Review] [Review on: Engine API foundation: fork-aware base class and helpers](https://github.com/besu-eth/besu/pull/10678#pullrequestreview-4706510537) - 2026-07-15
 * [Commit] [Engine API foundation: fork-aware base class and helpers (transitional) (#10678)](https://github.com/besu-eth/besu/commit/753cd71229d656298eba349c0773edae5a1e039f) - 2026-07-15
+* [Review] [Review on: minor: partially address errorprone warnings from next version](https://github.com/besu-eth/besu/pull/10664#pullrequestreview-4711731361) - 2026-07-16
+* [Review] [Review on: update commons-io to 2.22.0](https://github.com/besu-eth/besu/pull/10809#pullrequestreview-4711641997) - 2026-07-16
+* [Review] [Review on: snap/2 - improve logging](https://github.com/besu-eth/besu/pull/10810#pullrequestreview-4713232376) - 2026-07-16
+* [Commit] [fix: reproduce and fix source-jar dependency verification gaps (#10808)](https://github.com/besu-eth/besu/commit/0bc50ceee9da0aeeeea11cb1a6db56285af0a17e) - 2026-07-16
 ## Q2 2026
 
 

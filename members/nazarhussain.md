@@ -24,6 +24,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor(bindings): use zapi js.io() instead of local io module](https://github.com/ChainSafe/lodestar-z/pull/469#pullrequestreview-4694746526) - 2026-07-14
 * [Review] [Review on: refactor(clock): single public Clock; internalize SlotClock](https://github.com/ChainSafe/lodestar-z/pull/463#pullrequestreview-4694192414) - 2026-07-14
 * [Review] [Review on: chore(deps): update zapi to 3.1.0](https://github.com/ChainSafe/lodestar-z/pull/483#pullrequestreview-4702369515) - 2026-07-15
+* [Review] [Review on: ci: automate releases with release-please](https://github.com/ChainSafe/lodestar-z/pull/479#pullrequestreview-4713337012) - 2026-07-16
+* [Review] [Review on: feat: implement logging module](https://github.com/ChainSafe/lodestar-z/pull/446#pullrequestreview-4712555683) - 2026-07-16
+* [Pull Request] [refactor(bindings): rename blst Lifecycle to State](https://github.com/ChainSafe/lodestar-z/pull/516) - 2026-07-16
+* [Review] [Review on: fix(bls): convert pippenger scratch bytes to element counts](https://github.com/ChainSafe/lodestar-z/pull/513#pullrequestreview-4712912267) - 2026-07-16
+* [Review] [Review on: chore(ci): split build and publish steps](https://github.com/ChainSafe/lodestar-z/pull/511#pullrequestreview-4712339997) - 2026-07-16
+* [Commit] [refactor(bindings): rename blst Lifecycle to State (#516)](https://github.com/ChainSafe/lodestar-z/commit/0a9c179af299a5408d837e0347e43a1e6e1e76ca) - 2026-07-16
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07

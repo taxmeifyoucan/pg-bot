@@ -30,6 +30,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Feature/stable containers](https://github.com/grandinetech/grandine/pull/810#pullrequestreview-4696204918) - 2026-07-14
 * [Pull Request] [Add submitProposerPreferences beacon API](https://github.com/grandinetech/grandine/pull/808) - 2026-07-14
 * [Review] [Review on: feat: Add SSZ response support for validator_balances endpoints](https://github.com/grandinetech/grandine/pull/801#pullrequestreview-4691924494) - 2026-07-14
+* [Review] [Review on: Gloas attestations](https://github.com/grandinetech/grandine/pull/813#pullrequestreview-4711531163) - 2026-07-16
+* [Pull Request] [Fix Gloas data column sidecar range sync](https://github.com/grandinetech/grandine/pull/815) - 2026-07-16
+* [Issue] [Fix Gloas data column sidecars range sync](https://github.com/grandinetech/grandine/issues/814) - 2026-07-16
 ## Q2 2026
 
 

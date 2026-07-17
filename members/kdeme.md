@@ -46,6 +46,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: fail block on missing witness code (#4481)](https://github.com/status-im/nimbus-eth1/commit/e56caf7cc04a07f95e03d5453bca20a0e62b2e7b) - 2026-07-14
 * [Pull Request] [stateless: implement host logic and wire the host+guest pipeline into…](https://github.com/status-im/nimbus-eth1/pull/4496) - 2026-07-15
 * [Commit] [stateless: implement host logic and wire the host+guest pipeline into EEST (#4496)](https://github.com/status-im/nimbus-eth1/commit/ae3c96661fcfc729662a99a528d80731fdab60d9) - 2026-07-15
+* [Pull Request] [Charge EIP-7702 delegation access before loading target code](https://github.com/status-im/nimbus-eth1/pull/4509) - 2026-07-16
+* [Pull Request] [stateless: detect missing trie nodes on account/storage reads](https://github.com/status-im/nimbus-eth1/pull/4506) - 2026-07-16
+* [Review] [Review on: skip malformed enode entry](https://github.com/status-im/nimbus-eth1/pull/4503#pullrequestreview-4713002846) - 2026-07-16
+* [Commit] [stateless: detect missing trie nodes on account/storage reads (#4506)](https://github.com/status-im/nimbus-eth1/commit/97ba02442cdaf2d99c478ef028dac708d0aa7ec9) - 2026-07-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

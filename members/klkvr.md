@@ -17,6 +17,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat(engine): pass parent state to the post-execution hashed-state hook](https://github.com/paradigmxyz/reth/pull/26330#pullrequestreview-4686490395) - 2026-07-13
 * [Review] [Review on: fix(tree): elide empty new accounts from hashed state](https://github.com/paradigmxyz/reth/pull/26367#pullrequestreview-4684428283) - 2026-07-13
 * [Review] [Review on: fix(engine): pass post-execution hook state_updates by value](https://github.com/paradigmxyz/reth/pull/26398#pullrequestreview-4696755147) - 2026-07-14
+* [Pull Request] [feat(engine): configure dev finality depth](https://github.com/paradigmxyz/reth/pull/26423) - 2026-07-17
+* [Review] [Review on: feat(engine): expose payload state-root task for direct producers](https://github.com/paradigmxyz/reth/pull/26397#pullrequestreview-4713588753) - 2026-07-16
 ## Q2 2026
 
 

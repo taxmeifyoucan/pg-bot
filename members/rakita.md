@@ -21,6 +21,10 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat(amsterdam): glamsterdam devnet-7 alignment (EIP-2780 runtime gas phase, fixtures v7.0.0)](https://github.com/bluealloy/revm/pull/3795) - 2026-07-13
 * [Review] [Review on: fix(bytecode): avoid iterating legacy padding opcodes](https://github.com/bluealloy/revm/pull/3792#pullrequestreview-4682829360) - 2026-07-13
 * [Review] [Review on: fix(inspector): forward EIP-7708 transfer logs](https://github.com/bluealloy/revm/pull/3796#pullrequestreview-4703158315) - 2026-07-15
+* [Pull Request] [chore(deps): bump crossbeam-epoch to 0.9.20 (RUSTSEC-2026-0204)](https://github.com/bluealloy/revm/pull/3804) - 2026-07-16
+* [Pull Request] [refactor(revme): separate bytecode from account in test state](https://github.com/bluealloy/revm/pull/3803) - 2026-07-16
+* [Commit] [chore(deps): bump crossbeam-epoch to 0.9.20 (RUSTSEC-2026-0204) (#3804)](https://github.com/bluealloy/revm/commit/5199506d7290889a6943a916f96a8cd161299bf8) - 2026-07-16
+* [Commit] [refactor(revme): separate bytecode from account in test state (#3803)](https://github.com/bluealloy/revm/commit/4c5cc3a89699f2a2e944525d48838af44ae5b3de) - 2026-07-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02

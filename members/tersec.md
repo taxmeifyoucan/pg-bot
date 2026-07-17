@@ -46,6 +46,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Add head_v2 SSE](https://github.com/status-im/nimbus-eth2/pull/8743#pullrequestreview-4695239287) - 2026-07-14
 * [Pull Request] [sync test summaries](https://github.com/status-im/nimbus-eth2/pull/8764) - 2026-07-14
 * [Pull Request] [fix "Trying to subscribe to a topic not passing validation" warning](https://github.com/status-im/nimbus-eth2/pull/8769) - 2026-07-15
+* [Pull Request] [reduce open dependabot pull requests limit to 2](https://github.com/status-im/nimbus-eth2/pull/8773) - 2026-07-16
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -66,6 +67,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Issue] [implement updated gloas fcU payload build skip specs](https://github.com/status-im/nimbus-eth1/issues/4459) - 2026-07-12
 * [Commit] [temporarily use non-stable image for kurtosis for nimbus-eth2 (#4462)](https://github.com/status-im/nimbus-eth1/commit/66864328387e32a05b911ced439fba5762c2e9a1) - 2026-07-12
 * [Review] [Review on: fix p2p as per spec and hive tests](https://github.com/status-im/nimbus-eth1/pull/4486#pullrequestreview-4696407803) - 2026-07-14
+* [Pull Request] [check tx KZG after sender/nonce](https://github.com/status-im/nimbus-eth1/pull/4508) - 2026-07-16
+* [Review] [Review on: skip malformed enode entry](https://github.com/status-im/nimbus-eth1/pull/4503#pullrequestreview-4712582704) - 2026-07-16
+* [Pull Request] [reduce open dependabot pull requests limit to 2](https://github.com/status-im/nimbus-eth1/pull/4505) - 2026-07-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

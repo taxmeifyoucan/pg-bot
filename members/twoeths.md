@@ -35,12 +35,19 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: implement should_apply_proposer_boost for gloas](https://github.com/ChainSafe/lodestar/pull/9233#pullrequestreview-4692683515) - 2026-07-14
 * [Pull Request] [feat: evict invalid payloads from cache](https://github.com/ChainSafe/lodestar/pull/9661) - 2026-07-15
 * [Issue] [glamsterdam-devnet-5: sync stalled due to invalid payload cached forever](https://github.com/ChainSafe/lodestar/issues/9660) - 2026-07-15
+* [Pull Request] [feat: classify range sync batch processing fault](https://github.com/ChainSafe/lodestar/pull/9667) - 2026-07-16
+* [Review] [Review on: feat: classify range sync batch processing fault](https://github.com/ChainSafe/lodestar/pull/9667#pullrequestreview-4712407308) - 2026-07-16
+* [Pull Request] [perf: improve process_attestation() for gloas](https://github.com/ChainSafe/lodestar/pull/9664) - 2026-07-16
+* [Review] [Review on: perf: improve process_attestation() for gloas](https://github.com/ChainSafe/lodestar/pull/9664#pullrequestreview-4710353134) - 2026-07-16
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02
 * [Review] [Review on: feat(beacon-node): add block state cache and checkpoint datastore](https://github.com/ChainSafe/lodestar-z/pull/452#pullrequestreview-4642850103) - 2026-07-07
 * [Review] [Review on: feat(beacon-node): add block state cache and checkpoint datastore](https://github.com/ChainSafe/lodestar-z/pull/452#pullrequestreview-4651785640) - 2026-07-08
 * [Review] [Review on: revert: refactor(clock): single public Clock; internalize SlotClock](https://github.com/ChainSafe/lodestar-z/pull/489#pullrequestreview-4701384389) - 2026-07-15
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Fix payload availability lookup for attestations to skipped slots](https://github.com/ethereum/consensus-specs/pull/5442#pullrequestreview-4710081193) - 2026-07-16
 ## Q2 2026
 
 

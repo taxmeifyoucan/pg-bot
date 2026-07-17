@@ -74,6 +74,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add BlockProfiler plugin for per-block dotTrace snapshots (#12444)](https://github.com/NethermindEth/nethermind/commit/93120e96c3e1125e390f3aa6507867f28b79af91) - 2026-07-15
 * [Commit] [Sweep gen2 concurrently during sustained block processing (#12434)](https://github.com/NethermindEth/nethermind/commit/d39e63cbdd3fae9d84ef26bb1b6508b8d02e4efd) - 2026-07-15
 * [Commit] [fix(nethtest): report zkEVM progress in test cases instead of fixture files (#12437)](https://github.com/NethermindEth/nethermind/commit/0c43db93bcd05686b74cda2ec0e8b3eefc07b964) - 2026-07-15
+* [Pull Request] [perf(db): batched RocksDB MultiGet for flat BAL warmup — contiguous slices, no block-cache fill (bal-devnet-7)](https://github.com/NethermindEth/nethermind/pull/12469) - 2026-07-16
+* [Pull Request] [Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool](https://github.com/NethermindEth/nethermind/pull/12468) - 2026-07-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

@@ -66,10 +66,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update dependency ckzg to v2.1.8](https://github.com/ethereum/consensus-specs/pull/5445#pullrequestreview-4685140162) - 2026-07-13
 * [Review] [Review on: Add `safe_execution_block_hash` property to FCR tests](https://github.com/ethereum/consensus-specs/pull/5449#pullrequestreview-4700680803) - 2026-07-15
 * [Review] [Review on: Specify rep/resp for inclusion lists](https://github.com/ethereum/consensus-specs/pull/5424#pullrequestreview-4700744145) - 2026-07-15
+* [Review] [Review on: Add `safe_execution_block_hash` property to FCR tests](https://github.com/ethereum/consensus-specs/pull/5449#pullrequestreview-4710885726) - 2026-07-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
 
+* [Pull Request] [Split specs & coordination groups](https://github.com/protocolguild/documentation/pull/525) - 2026-07-16
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: apply gossip clock disparity to execution payload bid slot validation](https://github.com/ChainSafe/lodestar/pull/9627#pullrequestreview-4663120196) - 2026-07-09
 
@@ -91,6 +93,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Update rust dependencies (#646)](https://github.com/ethereum/c-kzg-4844/commit/696f56c0869c434fdead52bf0e1abc0955657f69) - 2026-07-09
 * [Commit] [Use more elliptic curve helpers (#644)](https://github.com/ethereum/c-kzg-4844/commit/57963c66122b4ae78db4aa9b908eff7262d8a51e) - 2026-07-09
 * [Commit] [Use `runTests()` instead of `runAllTests()` (#645)](https://github.com/ethereum/c-kzg-4844/commit/8857fe1b05848d08f850722eed89fca66dba0542) - 2026-07-09
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #88, July 20, 2026](https://github.com/ethereum/pm/issues/2162) - 2026-07-16
 ## Q2 2026
 
 

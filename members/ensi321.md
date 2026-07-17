@@ -37,6 +37,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: do not compare proposer index in proposer boost](https://github.com/ChainSafe/lodestar/pull/9653) - 2026-07-14
 * [Review] [Review on: feat: add dependent root check when giving out proposer boost](https://github.com/ChainSafe/lodestar/pull/9565#pullrequestreview-4690371009) - 2026-07-14
 * [Commit] [fix: do not compare proposer index in proposer boost (#9653)](https://github.com/ChainSafe/lodestar/commit/ea1ba2d8baeb13a8782043c2212519a32f32988f) - 2026-07-14
+* [Pull Request] [feat: add fork choice compliance test for pre-gloas forks](https://github.com/ChainSafe/lodestar/pull/9670) - 2026-07-16
+* [Review] [Review on: feat: add fork choice compliance test for pre-gloas forks](https://github.com/ChainSafe/lodestar/pull/9670#pullrequestreview-4718298760) - 2026-07-16
+* [Pull Request] [test: bump spec tests to v1.7.0-alpha.12 in eip-7688 branch](https://github.com/ChainSafe/lodestar/pull/9665) - 2026-07-16
+* [Review] [Review on: chore: update ssz to 1.6.2](https://github.com/ChainSafe/lodestar/pull/9658#pullrequestreview-4711366471) - 2026-07-16
+* [Review] [Review on: feat: implement forkchoice is_head_weak()](https://github.com/ChainSafe/lodestar/pull/9654#pullrequestreview-4709951337) - 2026-07-16
+* [Issue] [Proposer boost wrongly denied: dependent-root gate uses stale cached head across epoch-boundary ticks](https://github.com/ChainSafe/lodestar/issues/9666) - 2026-07-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

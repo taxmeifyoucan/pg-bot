@@ -33,6 +33,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Add GET /prysm/v1/node/custody endpoint (#17144)](https://github.com/OffchainLabs/prysm/commit/b89cb47c58ae1282c3e5fc2b2196e384b0ae1af8) - 2026-07-14
 * [Review] [Review on: ignore claude directory (avoiding issues with worktrees + gazelle)](https://github.com/OffchainLabs/prysm/pull/17182#pullrequestreview-4701751147) - 2026-07-15
 * [Review] [Review on: Validate execution payload envelopes fetched by root](https://github.com/OffchainLabs/prysm/pull/17176#pullrequestreview-4706029149) - 2026-07-15
+* [Review] [Review on: Changelog v7.1.7](https://github.com/OffchainLabs/prysm/pull/17169#pullrequestreview-4712257928) - 2026-07-16
+* [Pull Request] [Node jobs endpoint](https://github.com/OffchainLabs/prysm/pull/17194) - 2026-07-16
+* [Review] [Review on: fix(e2e): serialize fixed-port postsubmit targets](https://github.com/OffchainLabs/prysm/pull/17190#pullrequestreview-4712488526) - 2026-07-16
 ## Q2 2026
 
 

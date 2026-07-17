@@ -24,6 +24,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: bump libp2p-quic to 2.1.1](https://github.com/ChainSafe/lodestar/pull/9651#pullrequestreview-4688474256) - 2026-07-13
 * [Review] [Review on: chore: update ssz to 1.6.2](https://github.com/ChainSafe/lodestar/pull/9658#pullrequestreview-4698717195) - 2026-07-14
 * [Review] [Review on: feat: make lodestar-z BLS opt-in](https://github.com/ChainSafe/lodestar/pull/9652#pullrequestreview-4694521035) - 2026-07-14
+* [Review] [Review on: chore: add communication style to agents.md](https://github.com/ChainSafe/lodestar/pull/9668#pullrequestreview-4714158317) - 2026-07-16
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -71,6 +72,14 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [chore(ci): pin github actions with sha hashes (#507)](https://github.com/ChainSafe/lodestar-z/commit/167b8f5cb484c2d3e23d2a75f42c96a92e178bcb) - 2026-07-15
 * [Commit] [fix(bls): align PublicKey.uncompress validation with Signature.uncompress (#508)](https://github.com/ChainSafe/lodestar-z/commit/5a8dbe951ab45f578d8f7ac8d794c9c72022e79f) - 2026-07-15
 * [Commit] [chore(deps): update zapi to 3.1.0 (#483)](https://github.com/ChainSafe/lodestar-z/commit/f3e582759985347440acee620f8535c402b1daee) - 2026-07-15
+* [Review] [Review on: ci: automate releases with release-please](https://github.com/ChainSafe/lodestar-z/pull/479#pullrequestreview-4713052861) - 2026-07-16
+* [Review] [Review on: refactor(bindings): rename blst Lifecycle to State](https://github.com/ChainSafe/lodestar-z/pull/516#pullrequestreview-4712322305) - 2026-07-16
+* [Pull Request] [refactor(bindings/pubkeys): simplify allocation strategy for aggregate](https://github.com/ChainSafe/lodestar-z/pull/518) - 2026-07-16
+* [Review] [Review on: fix(bindings): validate secret key hex length](https://github.com/ChainSafe/lodestar-z/pull/517#pullrequestreview-4713164442) - 2026-07-16
+* [Review] [Review on: fix(bindings): validate class types before unwrap](https://github.com/ChainSafe/lodestar-z/pull/514#pullrequestreview-4715033303) - 2026-07-16
+* [Review] [Review on: fix(bindings): validate secret key hex length](https://github.com/ChainSafe/lodestar-z/pull/487#pullrequestreview-4712139945) - 2026-07-16
+* [Review] [Review on: fix(bls): convert pippenger scratch bytes to element counts](https://github.com/ChainSafe/lodestar-z/pull/513#pullrequestreview-4712272958) - 2026-07-16
+* [Review] [Review on: refactor(bindings): use zapi js.io() instead of local io module](https://github.com/ChainSafe/lodestar-z/pull/469#pullrequestreview-4711542267) - 2026-07-16
 ## Q2 2026
 
 

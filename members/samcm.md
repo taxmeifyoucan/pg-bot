@@ -24,6 +24,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix(docker): pin cryo builder to rust 1.96](https://github.com/ethpandaops/xatu/pull/875) - 2026-07-12
 * [Pull Request] [feat: emit EL node records from mimicry sessions, add dial failure metrics](https://github.com/ethpandaops/xatu/pull/876) - 2026-07-13
 * [Commit] [feat: emit EL node records from mimicry sessions, add dial failure metrics (#876)](https://github.com/ethpandaops/xatu/commit/a83a609259acd353cc0d0625688964efdbc7c5c7) - 2026-07-13
+* [Pull Request] [feat: add gossipsub message payload event for raw wire-bytes capture](https://github.com/ethpandaops/xatu/pull/877) - 2026-07-16
+* [Commit] [feat: add gossipsub message payload event for raw wire-bytes capture (#877)](https://github.com/ethpandaops/xatu/commit/fc20a343a2974964e8c2c455973bbc65c3cde5cd) - 2026-07-17
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [telemetry: add OTLP traces pipeline](https://github.com/ethpandaops/template-devnets/pull/178) - 2026-07-06
 * [Commit] [xatu-sentry: ship to the per-devnet ingest pipeline](https://github.com/ethpandaops/template-devnets/commit/625d2c78cd2d9b4c985462134bc6986d677ee195) - 2026-07-06
@@ -36,6 +38,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(timings): add 90d, 6mo, and 1y time ranges (#442)](https://github.com/ethpandaops/lab/commit/e9a1c77729583acd96c0350f23761e3d469f8f1a) - 2026-07-12
 * [Pull Request] [fix(consensus): apply selected time range to daily overview charts](https://github.com/ethpandaops/lab/pull/443) - 2026-07-13
 * [Commit] [fix(consensus): apply selected time range to daily overview charts (#443)](https://github.com/ethpandaops/lab/commit/8ef4d81c2bdcc6c42368ff9577f2f03fac29f36f) - 2026-07-13
+
+* [Pull Request] [feat: Glamsterdam (gloas) support — fork registry, ePBS slot phases, payload lifecycle](https://github.com/ethpandaops/lab/pull/444) - 2026-07-16
+[ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
+* [Pull Request] [feat: support glamsterdam (gloas) networks](https://github.com/ethpandaops/tracoor/pull/56) - 2026-07-16
 ## Q2 2026
 
 

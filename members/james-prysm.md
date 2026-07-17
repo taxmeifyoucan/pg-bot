@@ -73,6 +73,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Add EIP-8070 engine apis (ForkchoiceUpdatedV4, GetBlobsV4)](https://github.com/OffchainLabs/prysm/pull/17051#pullrequestreview-4705639807) - 2026-07-15
 * [Review] [Review on: Drop `--interop-num-validators` and `--interop-start-index` usage in E2E test](https://github.com/OffchainLabs/prysm/pull/17162#pullrequestreview-4705219688) - 2026-07-15
 * [Review] [Review on: progressive hashTreeRoot](https://github.com/OffchainLabs/prysm/pull/16861#pullrequestreview-4705472853) - 2026-07-15
+* [Review] [Review on: fix(e2e): support JSON and SSZ in mock builder](https://github.com/OffchainLabs/prysm/pull/17196#pullrequestreview-4717900886) - 2026-07-16
+* [Review] [Review on: Nuke interop flags](https://github.com/OffchainLabs/prysm/pull/17164#pullrequestreview-4715715299) - 2026-07-16
+* [Review] [Review on: fix(validator): synchronize remote web3signer key file watcher startup](https://github.com/OffchainLabs/prysm/pull/17188#pullrequestreview-4714611040) - 2026-07-16
+* [Commit] [reverting blinded envelope (#17181)](https://github.com/OffchainLabs/prysm/commit/95c23d3f578cb1c082d441110e1cbc0ba9d8cb23) - 2026-07-16
+* [Commit] [adding proper json fallback for ssz (#17137)](https://github.com/OffchainLabs/prysm/commit/abc410f827f668fded44c8369cf1b6fdf0ccf34c) - 2026-07-16
 ## Q2 2026
 
 

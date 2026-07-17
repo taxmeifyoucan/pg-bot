@@ -46,6 +46,15 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [test: Avoid redundant post-state hash in blockchaintest](https://github.com/ipsilon/evmone/pull/1595) - 2026-07-15
 * [Commit] [test: Avoid redundant post-state hash in blockchaintest (#1595)](https://github.com/ipsilon/evmone/commit/02c2caefa3490593d768874d16b3f0f9e62f2fc5) - 2026-07-15
 * [Commit] [state: Store storage-slot pointers in journal instead of keys (#1594)](https://github.com/ipsilon/evmone/commit/a64950d45730377f96cfb3488390b21541862877) - 2026-07-15
+* [Pull Request] [state: Replace create-revert erase with a nonexistent flag](https://github.com/ipsilon/evmone/pull/1600) - 2026-07-16
+* [Pull Request] [state,test: Pass bytes_view by value](https://github.com/ipsilon/evmone/pull/1599) - 2026-07-16
+* [Pull Request] [state: Merge account-flag journal entries into one](https://github.com/ipsilon/evmone/pull/1598) - 2026-07-16
+* [Pull Request] [state: Reorder Account fields to shrink it and group flags](https://github.com/ipsilon/evmone/pull/1597) - 2026-07-16
+* [Pull Request] [evmc: Change evmc_access_status underlying type to bool](https://github.com/ipsilon/evmone/pull/1596) - 2026-07-16
+* [Commit] [state,test: Pass bytes_view by value (#1599)](https://github.com/ipsilon/evmone/commit/42e3ba3384a96fd7e3cfb10744ca1c177da7cbe1) - 2026-07-16
+* [Commit] [state: Merge account-flag journal entries into one (#1598)](https://github.com/ipsilon/evmone/commit/9b6525e0fc9c16755a7dcc629ac6c59141644c9d) - 2026-07-16
+* [Commit] [state: Reorder Account fields to shrink it and group flags (#1597)](https://github.com/ipsilon/evmone/commit/c8c4b233f1604bc18d11f9f50f0177b028272553) - 2026-07-16
+* [Commit] [evmc: Change evmc_access_status underlying type to bool (#1596)](https://github.com/ipsilon/evmone/commit/9b44db7e8665fb9ef46c27063334545aa6c4499e) - 2026-07-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -87,6 +96,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22522#pullrequestreview-4717730901) - 2026-07-16
+* [Pull Request] [types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514) - 2026-07-16
+* [Commit] [types: reject empty-string element in RLP transaction-list decode (#22514)](https://github.com/erigontech/erigon/commit/cc8fe456daef63f3938dcb0c51dbf323d620c2a2) - 2026-07-16
 ## Q2 2026
 
 

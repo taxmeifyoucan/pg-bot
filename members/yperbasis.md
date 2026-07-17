@@ -235,6 +235,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [db/kv/kvcache, engine_block_downloader: follow-ups from #21293](https://github.com/erigontech/erigon/issues/22499) - 2026-07-15
 * [Issue] [rpc/rpchelper, rpc/jsonrpc: retire the filters param on GetBlockNumber — the tx you pass is the view you get](https://github.com/erigontech/erigon/issues/22501) - 2026-07-15
 * [Commit] [execution/types/accounts, db/state/execctx: extract codeHash without a full account decode (#22468)](https://github.com/erigontech/erigon/commit/b9ce9d845b54622687faf2a716204e1a14cc855a) - 2026-07-15
+* [Review] [Review on: execution, db: prevent stale-fill resurrection](https://github.com/erigontech/erigon/pull/22444#pullrequestreview-4714004905) - 2026-07-16
+* [Pull Request] [execution, cmd, docs: make FcuBackgroundCommit consumers wait out the async commit](https://github.com/erigontech/erigon/pull/22535) - 2026-07-16
+* [Pull Request] [db/kv/membatchwithdb: restrict overlays to the pure-Go memStore backing](https://github.com/erigontech/erigon/pull/22534) - 2026-07-16
+* [Pull Request] [rpc: resolve head-sensitive reads on a well-defined view (overlay vs committed)](https://github.com/erigontech/erigon/pull/22533) - 2026-07-16
+* [Pull Request] [db, execution, rpcdaemon: coherent version-keyed state cache](https://github.com/erigontech/erigon/pull/22532) - 2026-07-16
+* [Issue] [rpc: eth_getProof rejects genesis ("0x0"/"earliest") with "block not found"](https://github.com/erigontech/erigon/issues/22531) - 2026-07-16
+* [Issue] [kvcache: erigon_cacheCheck false-positives on storage entries and clears a healthy cache](https://github.com/erigontech/erigon/issues/22530) - 2026-07-16
+* [Issue] [kvcache: same-version re-announce merges batches into the latest root (stale entries can survive a failed FCU commit)](https://github.com/erigontech/erigon/issues/22527) - 2026-07-16
+* [Commit] [db, execution: harden StateCache read-fills against stale overwrites and unwinds (#22467)](https://github.com/erigontech/erigon/commit/d580222edf9b87efbae249b5341708ae791175f6) - 2026-07-16
+* [Commit] [execution/cache: fence GenericCache generation swaps and make size accounting exact (#22466)](https://github.com/erigontech/erigon/commit/9e4c5b2bce9f0521821c36523c97b5e396f61221) - 2026-07-16
+* [Commit] [execution: improve account lifecycle finalization (#22497)](https://github.com/erigontech/erigon/commit/0adf4805ddb305d95184ced640f08a8815a6e6ee) - 2026-07-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

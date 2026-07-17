@@ -100,6 +100,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(ci): right-size runners for spec-tools and test-tests-pypy (#3177)](https://github.com/ethereum/execution-specs/commit/e32f4b9ff8eabe20f21a9b804fbc73b1e1e603a5) - 2026-07-15
 * [Commit] [fix(test-consume): accept bad-block-cache errors for resubmitted blocks (#3146)](https://github.com/ethereum/execution-specs/commit/fc3bede68d46be416fb3507b29ee456afe46a8b5) - 2026-07-15
 * [Commit] [chore(ci): run `just test-ci-scripts` in CI (#3172)](https://github.com/ethereum/execution-specs/commit/dcde331ff4a40cc3dce240312601a697ab9f94b9) - 2026-07-15
+* [Pull Request] [perf(ci): run the PR docker-image cache gate on a GitHub-hosted runner](https://github.com/ethereum/execution-specs/pull/3185) - 2026-07-16
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -113,6 +114,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [clients/go-ethereum: raise engine API max reorg depth for enginex runs (#1572)](https://github.com/ethereum/hive/commit/26b13cbb7e4664e3f43afd6f8c711d7868b4d001) - 2026-07-14
 * [Pull Request] [hiveview: exclude multi-test client contexts from listing counts](https://github.com/ethereum/hive/pull/1576) - 2026-07-15
 * [Review] [Review on: simulators/eels: optionally consume pre-staged local fixtures](https://github.com/ethereum/hive/pull/1566#pullrequestreview-4704683217) - 2026-07-15
+* [Commit] [hiveview: exclude multi-test client contexts from listing counts (#1576)](https://github.com/ethereum/hive/commit/b512a9aafbe5b0e8e439e16d771ad30dfdba6f34) - 2026-07-16
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09

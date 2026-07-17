@@ -32,6 +32,7 @@ Team: Reth
 * [Review] [Review on: chore: bump revmc](https://github.com/paradigmxyz/reth/pull/26388#pullrequestreview-4694831479) - 2026-07-14
 * [Review] [Review on: chore(rpc): remove rpc api testing util crate](https://github.com/paradigmxyz/reth/pull/26393#pullrequestreview-4695937715) - 2026-07-14
 * [Review] [Review on: ci(release): remove x86-64 macos, support custom refs](https://github.com/paradigmxyz/reth/pull/26387#pullrequestreview-4694686316) - 2026-07-14
+* [Review] [Review on: chore(deps): bump alloy core 1.6.1](https://github.com/paradigmxyz/reth/pull/26419#pullrequestreview-4714933637) - 2026-07-16
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

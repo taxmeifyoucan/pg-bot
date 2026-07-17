@@ -40,6 +40,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: reject beacon state requests while syncing to avoid regen wedge](https://github.com/ChainSafe/lodestar/pull/9641#pullrequestreview-4694488416) - 2026-07-14
 * [Pull Request] [chore: update ssz to 1.6.2](https://github.com/ChainSafe/lodestar/pull/9658) - 2026-07-14
 * [Review] [Review on: chore: update ssz to 1.6.2](https://github.com/ChainSafe/lodestar/pull/9658#pullrequestreview-4698588230) - 2026-07-14
+* [Pull Request] [chore: add communication style to agents.md](https://github.com/ChainSafe/lodestar/pull/9668) - 2026-07-16
+* [Review] [Review on: chore: add communication style to agents.md](https://github.com/ChainSafe/lodestar/pull/9668#pullrequestreview-4714467635) - 2026-07-16
+* [Commit] [chore: add communication style to agents.md (#9668)](https://github.com/ChainSafe/lodestar/commit/77f7452c301528e0fa4261b85816ba99e90fc1e2) - 2026-07-16
+* [Commit] [chore: update ssz to 1.6.2 (#9658)](https://github.com/ChainSafe/lodestar/commit/bd1bed5b8fb414b8bcf561dc0ccd7f2bc4fbc38b) - 2026-07-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -68,6 +72,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bls): clean up partial thread pool initialization](https://github.com/ChainSafe/lodestar-z/pull/490#pullrequestreview-4704346201) - 2026-07-15
 * [Review] [Review on: fix(bls): align PublicKey.uncompress validation with Signature.uncompress](https://github.com/ChainSafe/lodestar-z/pull/508#pullrequestreview-4703961721) - 2026-07-15
 * [Review] [Review on: refactor(bindings): use zapi js.io() instead of local io module](https://github.com/ChainSafe/lodestar-z/pull/469#pullrequestreview-4704022443) - 2026-07-15
+* [Review] [Review on: ci: automate releases with release-please](https://github.com/ChainSafe/lodestar-z/pull/479#pullrequestreview-4714320868) - 2026-07-16
+* [Review] [Review on: refactor(bindings): rename blst Lifecycle to State](https://github.com/ChainSafe/lodestar-z/pull/516#pullrequestreview-4717631186) - 2026-07-16
+* [Review] [Review on: fix(bindings): validate secret key hex length](https://github.com/ChainSafe/lodestar-z/pull/517#pullrequestreview-4715064262) - 2026-07-16
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

@@ -35,6 +35,9 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [Add missing timeout constraints to newPayload](https://github.com/ethereum/execution-apis/pull/849) - 2026-07-16
 ## Q2 2026
 
 

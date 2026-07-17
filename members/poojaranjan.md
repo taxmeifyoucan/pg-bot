@@ -42,6 +42,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Commit] [Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/commit/295064f75fb2084196dd2e247a4abf6074defe9c) - 2026-07-10
 * [Commit] [Update EIP-7708: Move to Review](https://github.com/ethereum/EIPs/commit/f7230c46a743313957d8f38a159bda934cc735b2) - 2026-07-10
 * [Commit] [Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/commit/e338bc94c99e69ef86eed3cf6c5f7825073a61b1) - 2026-07-13
+* [Commit] [Update EIP-7723: Update Upgrade Meta EIP handling process](https://github.com/ethereum/EIPs/commit/7a52476e9e72b03c51caaee143cc2bb9aed9b9dc) - 2026-07-16
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #105, July 7, 2026](https://github.com/ethereum/pm/issues/2150) - 2026-07-07
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #106, July 14, 2026](https://github.com/ethereum/pm/issues/2156) - 2026-07-13
