@@ -43,6 +43,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: update ssz to 1.6.2](https://github.com/ChainSafe/lodestar/pull/9658#pullrequestreview-4711366471) - 2026-07-16
 * [Review] [Review on: feat: implement forkchoice is_head_weak()](https://github.com/ChainSafe/lodestar/pull/9654#pullrequestreview-4709951337) - 2026-07-16
 * [Issue] [Proposer boost wrongly denied: dependent-root gate uses stale cached head across epoch-boundary ticks](https://github.com/ChainSafe/lodestar/issues/9666) - 2026-07-16
+* [Review] [Review on: perf: improve process_attestation() for gloas](https://github.com/ChainSafe/lodestar/pull/9664#pullrequestreview-4727260089) - 2026-07-18
+* [Issue] [Address post-merge review for #9598](https://github.com/ChainSafe/lodestar/issues/9678) - 2026-07-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

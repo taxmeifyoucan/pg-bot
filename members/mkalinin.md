@@ -20,6 +20,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Register `CN` for Caplin](https://github.com/ethereum/execution-apis/pull/844#pullrequestreview-4647866464) - 2026-07-07
 
+* [Review] [Review on: Add missing timeout constraints to newPayload](https://github.com/ethereum/execution-apis/pull/849#pullrequestreview-4719807094) - 2026-07-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Fast Confirmation Rule (FCR) #11, July 21, 2026](https://github.com/ethereum/pm/issues/2149) - 2026-07-07
 ## Q2 2026

@@ -73,6 +73,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [feat(multi-stark): public values as boundary IO](https://github.com/Plonky3/Plonky3/pull/1947) - 2026-07-11
 * [Review] [Review on: feat(security): add support for LogUp](https://github.com/Plonky3/Plonky3/pull/1942#pullrequestreview-4686765901) - 2026-07-13
 * [Review] [Review on: perf(whir): drop hiding-prover row clone in open_and_fold](https://github.com/Plonky3/Plonky3/pull/1951#pullrequestreview-4703891046) - 2026-07-15
+* [Review] [Review on: perf(Goldilocks): add support for AVX vectorization for Poseidon2](https://github.com/Plonky3/Plonky3/pull/1953#pullrequestreview-4724279665) - 2026-07-17
+* [Review] [Review on: fix: make bench run and add benches to CI](https://github.com/Plonky3/Plonky3/pull/1952#pullrequestreview-4723620274) - 2026-07-17
 ## Q2 2026
 
 

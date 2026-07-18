@@ -55,6 +55,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [state: Merge account-flag journal entries into one (#1598)](https://github.com/ipsilon/evmone/commit/9b6525e0fc9c16755a7dcc629ac6c59141644c9d) - 2026-07-16
 * [Commit] [state: Reorder Account fields to shrink it and group flags (#1597)](https://github.com/ipsilon/evmone/commit/c8c4b233f1604bc18d11f9f50f0177b028272553) - 2026-07-16
 * [Commit] [evmc: Change evmc_access_status underlying type to bool (#1596)](https://github.com/ipsilon/evmone/commit/9b44db7e8665fb9ef46c27063334545aa6c4499e) - 2026-07-16
+* [Pull Request] [state: Lookup the sender once in execute_message](https://github.com/ipsilon/evmone/pull/1603) - 2026-07-17
+* [Pull Request] [state: Limit the 0x03 touch-quirk lookup to [Spurious Dragon, Paris)](https://github.com/ipsilon/evmone/pull/1602) - 2026-07-17
+* [Review] [Review on: state: Limit the 0x03 touch-quirk lookup to [Spurious Dragon, Paris)](https://github.com/ipsilon/evmone/pull/1602#pullrequestreview-4724950532) - 2026-07-17
+* [Pull Request] [state: Reserve StateDiff::modified_accounts](https://github.com/ipsilon/evmone/pull/1601) - 2026-07-17
+* [Commit] [state: Lookup the sender once in execute_message (#1603)](https://github.com/ipsilon/evmone/commit/786c96f1c9dfde702e303260a504af93916d9574) - 2026-07-17
+* [Commit] [state: Limit the 0x03 touch-quirk lookup to [Spurious Dragon, Paris) (#1602)](https://github.com/ipsilon/evmone/commit/1805d60e1ad554c9a1ab30afed0270f109e57823) - 2026-07-17
+* [Commit] [state: Reserve StateDiff::modified_accounts (#1601)](https://github.com/ipsilon/evmone/commit/053dc9cc3bca202cf6bad0407de7a8c48e3eda64) - 2026-07-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

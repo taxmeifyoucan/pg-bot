@@ -19,6 +19,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(engine): pass post-execution hook state_updates by value](https://github.com/paradigmxyz/reth/pull/26398#pullrequestreview-4696755147) - 2026-07-14
 * [Pull Request] [feat(engine): configure dev finality depth](https://github.com/paradigmxyz/reth/pull/26423) - 2026-07-17
 * [Review] [Review on: feat(engine): expose payload state-root task for direct producers](https://github.com/paradigmxyz/reth/pull/26397#pullrequestreview-4713588753) - 2026-07-16
+* [Review] [Review on: feat(engine): pass parent header to post-execution hook](https://github.com/paradigmxyz/reth/pull/26420#pullrequestreview-4722079006) - 2026-07-17
 ## Q2 2026
 
 

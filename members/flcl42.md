@@ -85,6 +85,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Add versioned engine_newPayloadWithWitness methods](https://github.com/NethermindEth/nethermind/pull/12464#pullrequestreview-4716001761) - 2026-07-16
 * [Review] [Review on: fix(tracing): make custom JavaScript tracer caching concurrency-safe](https://github.com/NethermindEth/nethermind/pull/12465#pullrequestreview-4713786232) - 2026-07-16
 * [Review] [Review on: fix(consensus): preserve chain-specific header type in mempool pre-warming](https://github.com/NethermindEth/nethermind/pull/12447#pullrequestreview-4712902495) - 2026-07-16
+* [Review] [Review on: Fix EIP-2780 gas after sender recovery](https://github.com/NethermindEth/nethermind/pull/12459#pullrequestreview-4722441993) - 2026-07-17
+* [Pull Request] [Fix flaky ERA importer, sync and JSON-RPC tests](https://github.com/NethermindEth/nethermind/pull/12480) - 2026-07-17
+* [Review] [Review on: test(merge): drop NewPayloadBlockProcessingTimeout in engine tests](https://github.com/NethermindEth/nethermind/pull/12481#pullrequestreview-4723849573) - 2026-07-17
+* [Review] [Review on: Add versioned engine_newPayloadWithWitness methods](https://github.com/NethermindEth/nethermind/pull/12464#pullrequestreview-4722234930) - 2026-07-17
+* [Review] [Review on: test: add E2E coverage for bootnodes with TCP port 0 (discport-only enodes)](https://github.com/NethermindEth/nethermind/pull/12477#pullrequestreview-4720531411) - 2026-07-17
+* [Commit] [Fix flaky ERA importer, sync and JSON-RPC tests (#12480)](https://github.com/NethermindEth/nethermind/commit/c79211bea15cf350279e8050be79e1b0d8e4a004) - 2026-07-17
+* [Commit] [Add versioned engine_newPayloadWithWitness methods (#12464)](https://github.com/NethermindEth/nethermind/commit/3a11b6918860e46bb247ab7e2a84903b9f912101) - 2026-07-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

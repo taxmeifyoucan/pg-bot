@@ -31,6 +31,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [CI: WiP](https://github.com/ethereum/EIPs/pull/11915) - 2026-07-11
 * [Pull Request] [CI: Grab latest version of eipw.](https://github.com/ethereum/EIPs/pull/11916) - 2026-07-11
 * [Review] [Review on: CI: Fix auto review artifact handoff on Node 24](https://github.com/ethereum/EIPs/pull/11923#pullrequestreview-4695870685) - 2026-07-14
+* [Commit] [Add guideline for including language versions in examples (#11737)](https://github.com/ethereum/EIPs/commit/67c833cb3e6efcd36fd8c589df733a4a5466032f) - 2026-07-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Leo Lara contributions: add execution-specs](https://github.com/protocolguild/documentation/pull/515#pullrequestreview-4652756505) - 2026-07-08
 ## Q2 2026

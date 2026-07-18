@@ -47,6 +47,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [sync test summaries](https://github.com/status-im/nimbus-eth2/pull/8764) - 2026-07-14
 * [Pull Request] [fix "Trying to subscribe to a topic not passing validation" warning](https://github.com/status-im/nimbus-eth2/pull/8769) - 2026-07-15
 * [Pull Request] [reduce open dependabot pull requests limit to 2](https://github.com/status-im/nimbus-eth2/pull/8773) - 2026-07-16
+* [Review] [Review on: replace deprecated actions/checkout@v4 with actions/checkout@v5](https://github.com/status-im/nimbus-eth2/pull/8716#pullrequestreview-4722963438) - 2026-07-17
+* [Pull Request] [optimize SyncCommittee default/zero comparisons](https://github.com/status-im/nimbus-eth2/pull/8779) - 2026-07-17
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -70,6 +72,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [check tx KZG after sender/nonce](https://github.com/status-im/nimbus-eth1/pull/4508) - 2026-07-16
 * [Review] [Review on: skip malformed enode entry](https://github.com/status-im/nimbus-eth1/pull/4503#pullrequestreview-4712582704) - 2026-07-16
 * [Pull Request] [reduce open dependabot pull requests limit to 2](https://github.com/status-im/nimbus-eth1/pull/4505) - 2026-07-16
+* [Commit] [check tx KZG after sender/nonce (#4508)](https://github.com/status-im/nimbus-eth1/commit/680a4a65c6a32ba225a1ee4e328bb69abb5c5347) - 2026-07-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

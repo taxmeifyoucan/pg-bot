@@ -30,6 +30,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bls): convert pippenger scratch bytes to element counts](https://github.com/ChainSafe/lodestar-z/pull/513#pullrequestreview-4712912267) - 2026-07-16
 * [Review] [Review on: chore(ci): split build and publish steps](https://github.com/ChainSafe/lodestar-z/pull/511#pullrequestreview-4712339997) - 2026-07-16
 * [Commit] [refactor(bindings): rename blst Lifecycle to State (#516)](https://github.com/ChainSafe/lodestar-z/commit/0a9c179af299a5408d837e0347e43a1e6e1e76ca) - 2026-07-16
+* [Review] [Review on: fix(bindings): validate class types before unwrap](https://github.com/ChainSafe/lodestar-z/pull/514#pullrequestreview-4719813848) - 2026-07-17
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07

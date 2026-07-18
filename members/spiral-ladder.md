@@ -25,6 +25,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: update ssz to 1.6.2](https://github.com/ChainSafe/lodestar/pull/9658#pullrequestreview-4698717195) - 2026-07-14
 * [Review] [Review on: feat: make lodestar-z BLS opt-in](https://github.com/ChainSafe/lodestar/pull/9652#pullrequestreview-4694521035) - 2026-07-14
 * [Review] [Review on: chore: add communication style to agents.md](https://github.com/ChainSafe/lodestar/pull/9668#pullrequestreview-4714158317) - 2026-07-16
+* [Review] [Review on: fix: raise query string arrayLimit to NUMBER_OF_COLUMNS](https://github.com/ChainSafe/lodestar/pull/9673#pullrequestreview-4724918041) - 2026-07-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -80,6 +81,11 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(bindings): validate secret key hex length](https://github.com/ChainSafe/lodestar-z/pull/487#pullrequestreview-4712139945) - 2026-07-16
 * [Review] [Review on: fix(bls): convert pippenger scratch bytes to element counts](https://github.com/ChainSafe/lodestar-z/pull/513#pullrequestreview-4712272958) - 2026-07-16
 * [Review] [Review on: refactor(bindings): use zapi js.io() instead of local io module](https://github.com/ChainSafe/lodestar-z/pull/469#pullrequestreview-4711542267) - 2026-07-16
+* [Review] [Review on: fix(bls): clean up partial thread pool initialization](https://github.com/ChainSafe/lodestar-z/pull/490#pullrequestreview-4720993333) - 2026-07-17
+* [Review] [Review on: fix(bindings): roll back partial N-API initialization](https://github.com/ChainSafe/lodestar-z/pull/491#pullrequestreview-4722276814) - 2026-07-17
+* [Review] [Review on: refactor(bindings/pubkeys): simplify allocation strategy for aggregate](https://github.com/ChainSafe/lodestar-z/pull/518#pullrequestreview-4720859108) - 2026-07-17
+* [Pull Request] [docs: more comprehensive AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/520) - 2026-07-17
+* [Review] [Review on: fix(bindings): validate class types before unwrap](https://github.com/ChainSafe/lodestar-z/pull/514#pullrequestreview-4720882697) - 2026-07-17
 ## Q2 2026
 
 

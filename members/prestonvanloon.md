@@ -49,6 +49,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Changelog v7.1.7 (#17169)](https://github.com/OffchainLabs/prysm/commit/35ee054d0f1123937e7a43eec57edb9823536f63) - 2026-07-16
 * [Commit] [fix(validator): synchronize remote web3signer key file watcher startup (#17188)](https://github.com/OffchainLabs/prysm/commit/6826d085679880b4bbc569e4496f1300db945fd9) - 2026-07-16
 * [Commit] [fix(e2e): serialize fixed-port postsubmit targets (#17190)](https://github.com/OffchainLabs/prysm/commit/61856cd9b7ce750895e6afd92c17fb80e6c7c449) - 2026-07-16
+* [Review] [Review on: fix(e2e): support JSON and SSZ in mock builder](https://github.com/OffchainLabs/prysm/pull/17196#pullrequestreview-4723865735) - 2026-07-17
+* [Pull Request] [fix(e2e): make voluntary-exit selection deterministic](https://github.com/OffchainLabs/prysm/pull/17200) - 2026-07-17
+* [Review] [Review on: Fix makeslice panic in blob versioned-hash filtering for duplicate commitments](https://github.com/OffchainLabs/prysm/pull/17199#pullrequestreview-4723969590) - 2026-07-17
+* [Pull Request] [fix(e2e): isolate blob transactions across Fulu boundary](https://github.com/OffchainLabs/prysm/pull/17201) - 2026-07-17
+* [Review] [Review on: Update README badges](https://github.com/OffchainLabs/prysm/pull/17193#pullrequestreview-4724368871) - 2026-07-17
+* [Commit] [fix(e2e): support JSON and SSZ in mock builder (#17196)](https://github.com/OffchainLabs/prysm/commit/1fe7f588dd646168d313f1a1644d810ca54fbcf0) - 2026-07-17
+* [Commit] [fix(e2e): make voluntary-exit selection deterministic (#17200)](https://github.com/OffchainLabs/prysm/commit/0c27ab931c3a7b0476a1e5aaf58f57b026b5189c) - 2026-07-17
+* [Commit] [fix(e2e): isolate blob transactions across Fulu boundary (#17201)](https://github.com/OffchainLabs/prysm/commit/882077b98cbd55598d68adcc2721cade75275a84) - 2026-07-17
 ## Q2 2026
 
 

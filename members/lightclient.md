@@ -17,6 +17,15 @@ Team: Geth
 * [Commit] [Update EIP-8141: allow arbitrary signature data to avoid circular dependency for custom verifiers (#11837)](https://github.com/ethereum/EIPs/commit/b18941a2e3966e7f47c6faa8b51d3afef9d3bcc3) - 2026-07-06
 
 * [Review] [Review on: Update EIP-8141: Spec cleanup and clarifications](https://github.com/ethereum/EIPs/pull/11814#pullrequestreview-4648170159) - 2026-07-07
+* [Review] [Review on: Update EIP-8141: define the Receipts message encoding for frame transaction receipts](https://github.com/ethereum/EIPs/pull/11942#pullrequestreview-4726958185) - 2026-07-17
+* [Review] [Review on: Update EIP-8141: apply the EIP-7623 calldata floor to frame and signature data](https://github.com/ethereum/EIPs/pull/11941#pullrequestreview-4726953485) - 2026-07-17
+* [Review] [Review on: Update EIP-8141: note that execution approval authorizes all subsequent sender frames](https://github.com/ethereum/EIPs/pull/11939#pullrequestreview-4726454072) - 2026-07-17
+* [Review] [Review on: Update EIP-8141: specify stack operand order for FRAMEDATALOAD and FRAMEDATACOPY](https://github.com/ethereum/EIPs/pull/11938#pullrequestreview-4726383346) - 2026-07-17
+* [Review] [Review on: Update EIP-8141: pin the SECP256K1 signature encoding (recovery id and low-s)](https://github.com/ethereum/EIPs/pull/11937#pullrequestreview-4726324180) - 2026-07-17
+* [Pull Request] [Update EIP-8141: allow EOA sponsor again](https://github.com/ethereum/EIPs/pull/11954) - 2026-07-17
+* [Pull Request] [Update EIP-8141: use skipped receipt status code](https://github.com/ethereum/EIPs/pull/11953) - 2026-07-17
+* [Commit] [Update EIP-8141: allow EOA sponsor again](https://github.com/ethereum/EIPs/commit/c6842c8115013524f5955d410c24e1748a615d07) - 2026-07-17
+* [Commit] [Update EIP-8141: use skipped receipt status code](https://github.com/ethereum/EIPs/commit/56ab20d9eb3b7b045f1a278eeb2fb823d6399ec6) - 2026-07-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

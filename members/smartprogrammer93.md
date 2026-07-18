@@ -20,6 +20,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: chore(ci): Disable stateless devnet tests scheduled run](https://github.com/NethermindEth/nethermind/pull/12428#pullrequestreview-4688396220) - 2026-07-13
 * [Review] [Review on: Skip idle data feed stats serialization](https://github.com/NethermindEth/nethermind/pull/12427#pullrequestreview-4687209191) - 2026-07-13
 * [Review] [Review on: Schedule Unzen fork on Taiko Mainnet](https://github.com/NethermindEth/nethermind/pull/12442#pullrequestreview-4693061969) - 2026-07-14
+* [Review] [Review on: fix(rpc): report missing state in eth_getStorageAt gracefully](https://github.com/NethermindEth/nethermind/pull/12483#pullrequestreview-4726169964) - 2026-07-17
+* [Review] [Review on: Raise default TrieWarmer worker count from 1/2 to 3/4 of cores](https://github.com/NethermindEth/nethermind/pull/12479#pullrequestreview-4721555567) - 2026-07-17
 ## Q2 2026
 
 

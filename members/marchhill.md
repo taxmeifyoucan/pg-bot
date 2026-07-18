@@ -58,6 +58,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [fix(blockstore): inject chain header decoder so AuRa blocks decode](https://github.com/NethermindEth/nethermind/pull/12445) - 2026-07-14
 * [Commit] [fix(blockstore): inject chain header decoder so AuRa blocks decode (#12445)](https://github.com/NethermindEth/nethermind/commit/e1e6d818e685210d14a38a856a1f1e02a4fe4e65) - 2026-07-14
 * [Review] [Review on: Fix eth/70 receipt validation for EIP-2780](https://github.com/NethermindEth/nethermind/pull/12462#pullrequestreview-4704664999) - 2026-07-15
+* [Review] [Review on: Fix EIP-2780 gas after sender recovery](https://github.com/NethermindEth/nethermind/pull/12459#pullrequestreview-4722114538) - 2026-07-17
+* [Review] [Review on: Add versioned engine_newPayloadWithWitness methods](https://github.com/NethermindEth/nethermind/pull/12464#pullrequestreview-4722089156) - 2026-07-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

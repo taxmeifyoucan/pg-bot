@@ -50,6 +50,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [stateless: detect missing trie nodes on account/storage reads](https://github.com/status-im/nimbus-eth1/pull/4506) - 2026-07-16
 * [Review] [Review on: skip malformed enode entry](https://github.com/status-im/nimbus-eth1/pull/4503#pullrequestreview-4713002846) - 2026-07-16
 * [Commit] [stateless: detect missing trie nodes on account/storage reads (#4506)](https://github.com/status-im/nimbus-eth1/commit/97ba02442cdaf2d99c478ef028dac708d0aa7ec9) - 2026-07-16
+* [Pull Request] [Do not dial nodes advertising TCP port 0 over RLPx + skip malformed bootstrap entries](https://github.com/status-im/nimbus-eth1/pull/4515) - 2026-07-17
+* [Pull Request] [stateless: Load CALL child code before the depth/balance early exits](https://github.com/status-im/nimbus-eth1/pull/4514) - 2026-07-17
+* [Commit] [Do not dial nodes advertising TCP port 0 over RLPx + skip malformed bootstrap entries (#4515)](https://github.com/status-im/nimbus-eth1/commit/37744efc11d86b7aced492a4278c1e56f300d90f) - 2026-07-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

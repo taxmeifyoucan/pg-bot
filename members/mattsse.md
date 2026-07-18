@@ -129,6 +129,7 @@ Team: Reth
 * [Review] [Review on: feat(net): serve real snap/2 account and storage range data](https://github.com/paradigmxyz/reth/pull/26339#pullrequestreview-4714922218) - 2026-07-16
 * [Review] [Review on: fix(rpc): fail invalid testing block transactions by default](https://github.com/paradigmxyz/reth/pull/26372#pullrequestreview-4714832505) - 2026-07-16
 * [Review] [Review on: fix: terminate eyre bail invocations](https://github.com/paradigmxyz/reth/pull/26416#pullrequestreview-4712904513) - 2026-07-16
+* [Review] [Review on: feat(engine): pass parent header to post-execution hook](https://github.com/paradigmxyz/reth/pull/26420#pullrequestreview-4721933574) - 2026-07-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

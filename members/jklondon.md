@@ -20,6 +20,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cmd/integration: use cobra cmd.Context() instead of re-deriving RootContext per subcommand](https://github.com/erigontech/erigon/pull/22220#pullrequestreview-4631458072) - 2026-07-05
 * [Review] [Review on: rpc/mcp, node/eth: shut down MCP SSE server on ctx cancel](https://github.com/erigontech/erigon/pull/22230#pullrequestreview-4631456817) - 2026-07-05
 * [Review] [Review on: common/race: fix darwin -race crashes from file mmaps in the TSAN heap window](https://github.com/erigontech/erigon/pull/21611#pullrequestreview-4661264284) - 2026-07-09
+* [Review] [Review on: cl/merkle_tree: reuse packing buffer in transactionsListRoot](https://github.com/erigontech/erigon/pull/22518#pullrequestreview-4721800776) - 2026-07-17
+* [Review] [Review on: execution/commitment: reuse trunk-preload partition buffers; profiling hooks](https://github.com/erigontech/erigon/pull/22549#pullrequestreview-4721818665) - 2026-07-17
+* [Review] [Review on: db/downloader: shorten the Downloader sync log line](https://github.com/erigontech/erigon/pull/22541#pullrequestreview-4721811108) - 2026-07-17
+* [Review] [Review on: exec: use `br.BlockWithSenders()` instead of `br.BlockByHash()`](https://github.com/erigontech/erigon/pull/22551#pullrequestreview-4721819778) - 2026-07-17
 ## Q2 2026
 
 

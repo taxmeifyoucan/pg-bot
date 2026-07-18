@@ -36,6 +36,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Changelog v7.1.7](https://github.com/OffchainLabs/prysm/pull/17169#pullrequestreview-4712257928) - 2026-07-16
 * [Pull Request] [Node jobs endpoint](https://github.com/OffchainLabs/prysm/pull/17194) - 2026-07-16
 * [Review] [Review on: fix(e2e): serialize fixed-port postsubmit targets](https://github.com/OffchainLabs/prysm/pull/17190#pullrequestreview-4712488526) - 2026-07-16
+* [Review] [Review on: Return envelope publish after broadcast, import in background](https://github.com/OffchainLabs/prysm/pull/17198#pullrequestreview-4723520811) - 2026-07-17
 ## Q2 2026
 
 

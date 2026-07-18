@@ -98,6 +98,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [tests: bump EEST stable fixtures to v20.0.1 (#22507)](https://github.com/erigontech/erigon/commit/a00f0ad0db902f2c5bd675e375c75844fd92c689) - 2026-07-16
 * [Commit] [docs: normalize AGENTS.md casing (#22508)](https://github.com/erigontech/erigon/commit/ccbf39f495bdb53ac8f8855d96e8a8d6d5002368) - 2026-07-16
 * [Commit] [agents: remove stale autoresearch skill link (#22509)](https://github.com/erigontech/erigon/commit/8c5a4a40acf2f5e45f2cdfe4be42637b3dcd507d) - 2026-07-16
+* [Review] [Review on: execution/commitment: reuse trunk-preload partition buffers; profiling hooks](https://github.com/erigontech/erigon/pull/22549#pullrequestreview-4721141974) - 2026-07-17
+* [Review] [Review on: [r3.5] types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22525#pullrequestreview-4719362655) - 2026-07-17
+* [Pull Request] [[DO-NOT-MERGE] execution: update EIP-7928 for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22555) - 2026-07-17
+* [Pull Request] [[DO-NOT-MERGE] execution: update EIP-8037 for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22548) - 2026-07-17
+* [Review] [Review on: exec: use `br.BlockWithSenders()` instead of `br.BlockByHash()`](https://github.com/erigontech/erigon/pull/22551#pullrequestreview-4721341234) - 2026-07-17
+* [Issue] [lint: enable errcheck incrementally across packages](https://github.com/erigontech/erigon/issues/22538) - 2026-07-17
+* [Commit] [db/state/execctx: fix stale trunk-preload pins in the branch cache (#22539)](https://github.com/erigontech/erigon/commit/9ea8920b631996d39f5868d3da1249a11fc4589b) - 2026-07-17
+* [Commit] [types: reject legacy transactions in typed envelopes (#22522)](https://github.com/erigontech/erigon/commit/bef1917a740479ec0f7c811b17bd31d6d2dee953) - 2026-07-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

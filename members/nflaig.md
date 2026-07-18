@@ -116,6 +116,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: ci: expand native portability checks](https://github.com/ChainSafe/lodestar/pull/9642#pullrequestreview-4706862343) - 2026-07-15
 * [Review] [Review on: feat: stateless flow for local block production post-gloas](https://github.com/ChainSafe/lodestar/pull/9595#pullrequestreview-4702429115) - 2026-07-15
 * [Review] [Review on: chore: add communication style to agents.md](https://github.com/ChainSafe/lodestar/pull/9668#pullrequestreview-4714186049) - 2026-07-16
+* [Review] [Review on: feat: add circuit breaker for gloas block production](https://github.com/ChainSafe/lodestar/pull/9598#pullrequestreview-4723263739) - 2026-07-17
+* [Pull Request] [fix: scan all proto array nodes when counting payload reveals](https://github.com/ChainSafe/lodestar/pull/9676) - 2026-07-17
+* [Review] [Review on: chore: v1.45.0 release](https://github.com/ChainSafe/lodestar/pull/9674#pullrequestreview-4724999428) - 2026-07-17
+* [Review] [Review on: fix: raise query string arrayLimit to NUMBER_OF_COLUMNS](https://github.com/ChainSafe/lodestar/pull/9673#pullrequestreview-4724625251) - 2026-07-17
+* [Review] [Review on: chore(deps): bump systeminformation from 5.31.6 to 5.31.7](https://github.com/ChainSafe/lodestar/pull/9663#pullrequestreview-4721415867) - 2026-07-17
+* [Commit] [feat: add circuit breaker for gloas block production (#9598)](https://github.com/ChainSafe/lodestar/commit/9d0edba43cfdc72448b3e1428bea02f2402f43d8) - 2026-07-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

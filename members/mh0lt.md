@@ -31,6 +31,8 @@ Team: Erigon
 * [Review] [Review on: db, execution: harden StateCache read-fills against stale overwrites and unwinds](https://github.com/erigontech/erigon/pull/22467#pullrequestreview-4712142695) - 2026-07-16
 * [Review] [Review on: execution/cache: fence GenericCache generation swaps and make size accounting exact](https://github.com/erigontech/erigon/pull/22466#pullrequestreview-4712237244) - 2026-07-16
 * [Issue] [execution: SD-owned run-task worker abstraction + drop the parallel-exec scheduler queue](https://github.com/erigontech/erigon/issues/22520) - 2026-07-16
+* [Review] [Review on: execution/state: cache-free parallel execution via versionMap unification (noMaterialize) + warm-read caching](https://github.com/erigontech/erigon/pull/22409#pullrequestreview-4721991274) - 2026-07-17
+* [Issue] [db/kv, db/state: add an additive RangeReader interface and fold in the harness range machinery](https://github.com/erigontech/erigon/issues/22550) - 2026-07-17
 ## Q2 2026
 
 

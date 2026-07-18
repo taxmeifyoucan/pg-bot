@@ -39,6 +39,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: classify range sync batch processing fault](https://github.com/ChainSafe/lodestar/pull/9667#pullrequestreview-4712407308) - 2026-07-16
 * [Pull Request] [perf: improve process_attestation() for gloas](https://github.com/ChainSafe/lodestar/pull/9664) - 2026-07-16
 * [Review] [Review on: perf: improve process_attestation() for gloas](https://github.com/ChainSafe/lodestar/pull/9664#pullrequestreview-4710353134) - 2026-07-16
+* [Review] [Review on: feat: implement EIP 7688](https://github.com/ChainSafe/lodestar/pull/9390#pullrequestreview-4719132241) - 2026-07-17
+* [Pull Request] [chore: review eip-7688 branch](https://github.com/ChainSafe/lodestar/pull/9671) - 2026-07-17
+* [Review] [Review on: chore: review eip-7688 branch](https://github.com/ChainSafe/lodestar/pull/9671#pullrequestreview-4720770711) - 2026-07-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

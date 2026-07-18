@@ -78,6 +78,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: fix(validator): synchronize remote web3signer key file watcher startup](https://github.com/OffchainLabs/prysm/pull/17188#pullrequestreview-4714611040) - 2026-07-16
 * [Commit] [reverting blinded envelope (#17181)](https://github.com/OffchainLabs/prysm/commit/95c23d3f578cb1c082d441110e1cbc0ba9d8cb23) - 2026-07-16
 * [Commit] [adding proper json fallback for ssz (#17137)](https://github.com/OffchainLabs/prysm/commit/abc410f827f668fded44c8369cf1b6fdf0ccf34c) - 2026-07-16
+* [Review] [Review on: fix(e2e): support JSON and SSZ in mock builder](https://github.com/OffchainLabs/prysm/pull/17196#pullrequestreview-4724313380) - 2026-07-17
+* [Review] [Review on: fix(e2e): make voluntary-exit selection deterministic](https://github.com/OffchainLabs/prysm/pull/17200#pullrequestreview-4724800886) - 2026-07-17
+* [Review] [Review on: Fix makeslice panic in blob versioned-hash filtering for duplicate commitments](https://github.com/OffchainLabs/prysm/pull/17199#pullrequestreview-4724163190) - 2026-07-17
+* [Review] [Review on: fix(e2e): isolate blob transactions across Fulu boundary](https://github.com/OffchainLabs/prysm/pull/17201#pullrequestreview-4724419125) - 2026-07-17
+* [Review] [Review on: Return envelope publish after broadcast, import in background](https://github.com/OffchainLabs/prysm/pull/17198#pullrequestreview-4719400736) - 2026-07-17
+* [Review] [Review on: `TestStatusRPCRequest_FinalizedBlockSkippedSlots`:  Avoid panic if the stream handler is invoked more than once, by avoiding `wg.Done` to lead to a negative counter.](https://github.com/OffchainLabs/prysm/pull/17197#pullrequestreview-4723873776) - 2026-07-17
+* [Commit] [improve logs when not actually exiting just protducing the exit files (#17177)](https://github.com/OffchainLabs/prysm/commit/15a1ff6e5eb9c489fe408c52143d85087ab73015) - 2026-07-17
 ## Q2 2026
 
 

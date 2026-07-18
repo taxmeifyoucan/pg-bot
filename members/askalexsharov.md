@@ -269,6 +269,31 @@ Team: Erigon
 * [Commit] [types, snapshotsync: decode body RLP without reflection (#22500)](https://github.com/erigontech/erigon/commit/9bdfe09dea8d977fbd564a8df8ff1a00e397ffa5) - 2026-07-16
 * [Commit] [rlp, types: zero-copy typed-txn envelope decode (#22498)](https://github.com/erigontech/erigon/commit/f78dd8a4db8469d1dbaa2121427bac8c06eca05e) - 2026-07-16
 * [Commit] [polygon/sync: fix flaky TestEventChannel/ConsumeEvents (#22510)](https://github.com/erigontech/erigon/commit/868f0bbbcb36de6942f636e5c774c66fd2041819) - 2026-07-16
+* [Review] [Review on: [WIP] rpc: typed generic dispatch to eliminate reflection on hot path](https://github.com/erigontech/erigon/pull/20575#pullrequestreview-4719893402) - 2026-07-17
+* [Review] [Review on: [wip] thoughts on prune cli flags](https://github.com/erigontech/erigon/pull/22339#pullrequestreview-4720972026) - 2026-07-17
+* [Review] [Review on: [wip] thouths on state spec](https://github.com/erigontech/erigon/pull/22438#pullrequestreview-4720974171) - 2026-07-17
+* [Review] [Review on: [wip] db/kv, db/rawdb: cut block-key ranges with native mdbx bulk delete](https://github.com/erigontech/erigon/pull/22521#pullrequestreview-4719413960) - 2026-07-17
+* [Pull Request] [[wip] db/kv: add DeleteCurrentMultiValBefore to cut dup values natively](https://github.com/erigontech/erigon/pull/22540) - 2026-07-17
+* [Review] [Review on: [wip] db/kv: add DeleteCurrentMultiValBefore to cut dup values natively](https://github.com/erigontech/erigon/pull/22540#pullrequestreview-4719414807) - 2026-07-17
+* [Pull Request] [[wip] db/seg/patricia: cache-friendly packed node layout for Aho-Corasick](https://github.com/erigontech/erigon/pull/22544) - 2026-07-17
+* [Review] [Review on: [wip] db/seg/patricia: cache-friendly packed node layout for Aho-Corasick](https://github.com/erigontech/erigon/pull/22544#pullrequestreview-4721018729) - 2026-07-17
+* [Pull Request] [execution/state: reuse ReaderV3/HistoryReaderV3 key buffer to drop per-read allocs](https://github.com/erigontech/erigon/pull/22557) - 2026-07-17
+* [Review] [Review on: execution/state: reuse ReaderV3/HistoryReaderV3 key buffer to drop per-read allocs](https://github.com/erigontech/erigon/pull/22557#pullrequestreview-4723119816) - 2026-07-17
+* [Pull Request] [execution/commitment: reuse trunk-preload partition buffers; profiling hooks](https://github.com/erigontech/erigon/pull/22549) - 2026-07-17
+* [Review] [Review on: execution/commitment: reuse trunk-preload partition buffers; profiling hooks](https://github.com/erigontech/erigon/pull/22549#pullrequestreview-4721563880) - 2026-07-17
+* [Pull Request] [db/downloader: shorten the Downloader sync log line](https://github.com/erigontech/erigon/pull/22541) - 2026-07-17
+* [Pull Request] [exec: use `br.BlockWithSenders()` instead of `br.BlockByHash()`](https://github.com/erigontech/erigon/pull/22551) - 2026-07-17
+* [Pull Request] [build: update x deps for 3.6 release](https://github.com/erigontech/erigon/pull/22542) - 2026-07-17
+* [Review] [Review on: .github: scope GitHub App tokens to least privilege (zizmor github-app)](https://github.com/erigontech/erigon/pull/22547#pullrequestreview-4720717065) - 2026-07-17
+* [Review] [Review on: rpc: apply BaseFeePerGas block override on pre-London blocks](https://github.com/erigontech/erigon/pull/22536#pullrequestreview-4719286148) - 2026-07-17
+* [Review] [Review on: [wip] [3.6] domain: store largeValues in own auto-increment-id table](https://github.com/erigontech/erigon/pull/20952#pullrequestreview-4719892875) - 2026-07-17
+* [Review] [Review on: [r3.4] db/state: fix unwind restoring stale values across step boundaries (#21981)](https://github.com/erigontech/erigon/pull/22543#pullrequestreview-4719673131) - 2026-07-17
+* [Commit] [execution/commitment: reuse trunk-preload partition buffers; profiling hooks (#22549)](https://github.com/erigontech/erigon/commit/73d5fa10ac86ac6d729d4a270ead53f638950f72) - 2026-07-17
+* [Commit] [db/downloader: shorten the Downloader sync log line (#22541)](https://github.com/erigontech/erigon/commit/41f36f91309c402fc8df2deea504f5e2ca8bb656) - 2026-07-17
+* [Commit] [cl/persistence/base_encoding: avoid per-scalar heap allocs in Rabbits codec (#22391)](https://github.com/erigontech/erigon/commit/b4efa5a4b376db238a09adefefe1682dc2fb967a) - 2026-07-17
+* [Commit] [exec: use `br.BlockWithSenders()` instead of `br.BlockByHash()` (#22551)](https://github.com/erigontech/erigon/commit/8a66fe564179c7c5fe418bccbfc1a8ff8c07ad7c) - 2026-07-17
+* [Commit] [build: update x deps for 3.6 release (#22542)](https://github.com/erigontech/erigon/commit/51607a863d45a353a223522d8d97a66669a1e2e3) - 2026-07-17
+* [Commit] [crypto: drop per-call allocations from `Keccak256` and `Sha256` (#22489)](https://github.com/erigontech/erigon/commit/80bb76c6109873feb157fcfb00b28b06502167ad) - 2026-07-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

@@ -38,6 +38,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Add missing timeout constraints to newPayload](https://github.com/ethereum/execution-apis/pull/849) - 2026-07-16
+* [Commit] [Add missing timeout constraints to newPayload (#849)](https://github.com/ethereum/execution-apis/commit/baa4c9a11736c729ef3f172633df995a84a310b2) - 2026-07-17
 ## Q2 2026
 
 

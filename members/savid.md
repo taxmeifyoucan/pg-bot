@@ -13,6 +13,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Review] [Review on: feat: support glamsterdam (gloas) networks](https://github.com/ethpandaops/tracoor/pull/56#pullrequestreview-4710164890) - 2026-07-16
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Review] [Review on: feat: Glamsterdam (gloas) support — fork registry, ePBS slot phases, payload lifecycle](https://github.com/ethpandaops/lab/pull/444#pullrequestreview-4719637144) - 2026-07-17
 ## Q2 2026
 
 

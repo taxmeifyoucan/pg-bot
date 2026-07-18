@@ -246,6 +246,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db, execution: harden StateCache read-fills against stale overwrites and unwinds (#22467)](https://github.com/erigontech/erigon/commit/d580222edf9b87efbae249b5341708ae791175f6) - 2026-07-16
 * [Commit] [execution/cache: fence GenericCache generation swaps and make size accounting exact (#22466)](https://github.com/erigontech/erigon/commit/9e4c5b2bce9f0521821c36523c97b5e396f61221) - 2026-07-16
 * [Commit] [execution: improve account lifecycle finalization (#22497)](https://github.com/erigontech/erigon/commit/0adf4805ddb305d95184ced640f08a8815a6e6ee) - 2026-07-16
+* [Review] [Review on: FCU semaphore decouple + foreground-priority bg-commit worker (PR #4 of the perf stack)](https://github.com/erigontech/erigon/pull/21414#pullrequestreview-4721841852) - 2026-07-17
+* [Review] [Review on: execution/state: cache-free parallel execution via versionMap unification (noMaterialize) + warm-read caching](https://github.com/erigontech/erigon/pull/22409#pullrequestreview-4722152600) - 2026-07-17
+* [Review] [Review on: common/math, cl, polygon/bor, execution/cache: deduplicate NextPowerOfTwo](https://github.com/erigontech/erigon/pull/22476#pullrequestreview-4723765487) - 2026-07-17
+* [Review] [Review on: [r3.5] types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22525#pullrequestreview-4722479256) - 2026-07-17
+* [Issue] [execution/cache: evaluate removing the derived addr→codeHash mapping layer](https://github.com/erigontech/erigon/issues/22558) - 2026-07-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

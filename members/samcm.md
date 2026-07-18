@@ -40,6 +40,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(consensus): apply selected time range to daily overview charts (#443)](https://github.com/ethpandaops/lab/commit/8ef4d81c2bdcc6c42368ff9577f2f03fac29f36f) - 2026-07-13
 
 * [Pull Request] [feat: Glamsterdam (gloas) support — fork registry, ePBS slot phases, payload lifecycle](https://github.com/ethpandaops/lab/pull/444) - 2026-07-16
+* [Pull Request] [feat(ci): cut a release on every master push](https://github.com/ethpandaops/lab/pull/446) - 2026-07-17
+* [Pull Request] [feat(ci): one-click releases that auto-trigger lab-backend](https://github.com/ethpandaops/lab/pull/445) - 2026-07-17
+* [Commit] [chore(design-sync): sync Lab component library to claude.ai/design (#440)](https://github.com/ethpandaops/lab/commit/06edc4bc22594030a8cab75209a76c505b852a22) - 2026-07-17
+* [Commit] [feat: Glamsterdam (gloas) support — fork registry, ePBS slot phases, payload lifecycle (#444)](https://github.com/ethpandaops/lab/commit/d02c7c320f91fed134b6ba1ad21da08745963e21) - 2026-07-17
+* [Commit] [feat(ci): cut a release on every master push (#446)](https://github.com/ethpandaops/lab/commit/19e33f7f020f42fd320b37b93131902741078218) - 2026-07-17
+* [Commit] [feat(ci): one-click releases that auto-trigger lab-backend (#445)](https://github.com/ethpandaops/lab/commit/47df0669e9a528dc1b69774e9d43b430e993d25e) - 2026-07-17
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Pull Request] [feat: support glamsterdam (gloas) networks](https://github.com/ethpandaops/tracoor/pull/56) - 2026-07-16
 ## Q2 2026

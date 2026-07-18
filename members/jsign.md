@@ -30,6 +30,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [fix: comment out schedule section in EEST R2 Stateless Inputs workflow (#299)](https://github.com/eth-act/zkevm-benchmark-workload/commit/29b7e5d1068e4519e57576920b6b07c0e634272d) - 2026-07-15
 * [Commit] [fix: update default catalog URL and EEST ref for R2 stateless inputs for glamsterdam-devnet-7 (#298)](https://github.com/eth-act/zkevm-benchmark-workload/commit/0305cafef9304cd951e53a8694f8f77b19cb15bb) - 2026-07-15
 * [Commit] [feat: accept only canonical fixtures guest programs (#297)](https://github.com/eth-act/zkevm-benchmark-workload/commit/4c9af03916347b1be3da4c06834eb1355f22bbe0) - 2026-07-15
+* [Review] [Review on: feat: add opcode_count to eest block metadata](https://github.com/eth-act/zkevm-benchmark-workload/pull/300#pullrequestreview-4724172489) - 2026-07-17
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [feat(EngineAPI): support engine_newPayloadWithWitnessVX](https://github.com/paradigmxyz/reth/issues/26415) - 2026-07-16
 

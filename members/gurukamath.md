@@ -31,6 +31,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tests): test tx max nonce at u64 boundary, add nonce overflow test](https://github.com/ethereum/execution-specs/pull/3165#pullrequestreview-4693602478) - 2026-07-14
 * [Review] [Review on: feat(tests): add CREATE refund-vs-child-spill routing test](https://github.com/ethereum/execution-specs/pull/3163#pullrequestreview-4693137965) - 2026-07-14
 * [Review] [Review on: perf(spec-specs): Run Blake2 compression on plain `int` words](https://github.com/ethereum/execution-specs/pull/3115#pullrequestreview-4703639194) - 2026-07-15
+* [Commit] [refactor(spec-specs): organize gas logic in amsterdam EIP-8037/8038/2780 (#3159)](https://github.com/ethereum/execution-specs/commit/2119b382cebe57d9953eb6252e927e130b1ca51c) - 2026-07-17
 ## Q2 2026
 
 

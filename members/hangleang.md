@@ -33,6 +33,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Gloas attestations](https://github.com/grandinetech/grandine/pull/813#pullrequestreview-4711531163) - 2026-07-16
 * [Pull Request] [Fix Gloas data column sidecar range sync](https://github.com/grandinetech/grandine/pull/815) - 2026-07-16
 * [Issue] [Fix Gloas data column sidecars range sync](https://github.com/grandinetech/grandine/issues/814) - 2026-07-16
+* [Pull Request] [Fix validator execution payload bids path extractor](https://github.com/grandinetech/grandine/pull/818) - 2026-07-17
+* [Review] [Review on: Add missing SSE events](https://github.com/grandinetech/grandine/pull/691#pullrequestreview-4720304663) - 2026-07-17
+* [Issue] [[Glamsterdam] Block building API snapshot tests](https://github.com/grandinetech/grandine/issues/816) - 2026-07-17
 ## Q2 2026
 
 

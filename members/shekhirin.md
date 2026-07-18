@@ -32,6 +32,7 @@ Team: Reth
 * [Review] [Review on: ci(release): remove x86-64 macos, support custom refs](https://github.com/paradigmxyz/reth/pull/26387#pullrequestreview-4694468235) - 2026-07-14
 * [Pull Request] [feat: share sender recovery cache across tx processing paths](https://github.com/paradigmxyz/reth/pull/26409) - 2026-07-15
 * [Pull Request] [ci(bench): RPC replay mode](https://github.com/paradigmxyz/reth/pull/26418) - 2026-07-16
+* [Commit] [ci(bench): RPC replay mode (#26418)](https://github.com/paradigmxyz/reth/commit/1cd853d601f88a40dba1e2d901e34551d271350c) - 2026-07-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

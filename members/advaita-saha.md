@@ -51,6 +51,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [skip malformed enode entry](https://github.com/status-im/nimbus-eth1/pull/4503) - 2026-07-16
 * [Review] [Review on: skip malformed enode entry](https://github.com/status-im/nimbus-eth1/pull/4503#pullrequestreview-4712603242) - 2026-07-16
 * [Pull Request] [fix fc crash from auto forward](https://github.com/status-im/nimbus-eth1/pull/4502) - 2026-07-16
+* [Review] [Review on: async `updateBase`](https://github.com/status-im/nimbus-eth1/pull/4174#pullrequestreview-4720265383) - 2026-07-17
+* [Pull Request] [async block builder implementation](https://github.com/status-im/nimbus-eth1/pull/4512) - 2026-07-17
+* [Review] [Review on: check tx KZG after sender/nonce](https://github.com/status-im/nimbus-eth1/pull/4508#pullrequestreview-4719678108) - 2026-07-17
+* [Commit] [add metrics to engineAPI (#4183)](https://github.com/status-im/nimbus-eth1/commit/2991544043c9119d2d01d96331a8b234de6c9f57) - 2026-07-17
 ## Q2 2026
 
 

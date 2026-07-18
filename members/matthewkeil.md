@@ -21,6 +21,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: remove CODEOWNERS auto notification of PR review](https://github.com/ChainSafe/lodestar/pull/9657) - 2026-07-14
 * [Review] [Review on: ci: expand native portability checks](https://github.com/ChainSafe/lodestar/pull/9642#pullrequestreview-4696868023) - 2026-07-14
 * [Review] [Review on: chore: replace ts-node with tsx for running TypeScript](https://github.com/ChainSafe/lodestar/pull/9635#pullrequestreview-4718312624) - 2026-07-16
+* [Pull Request] [chore: v1.45.0 release](https://github.com/ChainSafe/lodestar/pull/9674) - 2026-07-17
+* [Review] [Review on: fix: raise query string arrayLimit to NUMBER_OF_COLUMNS](https://github.com/ChainSafe/lodestar/pull/9673#pullrequestreview-4724866896) - 2026-07-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

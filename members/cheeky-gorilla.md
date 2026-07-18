@@ -25,6 +25,11 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/575f773fb569863447ec1e75d194b1ab0a05f41f) - 2026-07-07
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/d5d4f0785ae029650bf5e65a6e940ec1f112a2fc) - 2026-07-07
 * [Commit] [Update Splits URL](https://github.com/protocolguild/protocol-guild-site/commit/fc663cca248a41767c696c5d12187574a19c39e6) - 2026-07-07
+* [Commit] [Add files via upload](https://github.com/protocolguild/protocol-guild-site/commit/bc88c1f78ae48c38cb6de71b251d40039e2fb932) - 2026-07-17
+* [Commit] [Rename 22060501-agora-dao.md to 20260501-agora-dao.md](https://github.com/protocolguild/protocol-guild-site/commit/84f3077c73048a70c06a18ed5a365f1e09a26076) - 2026-07-17
+* [Commit] [Delete public/20260717-devcon-8/delete.txt](https://github.com/protocolguild/protocol-guild-site/commit/677211f1d664e6f664d8304ac2e6b0c1258fdb6b) - 2026-07-17
+* [Commit] [Upload Devcon 8 blog banner](https://github.com/protocolguild/protocol-guild-site/commit/2f7be49777e8c9ee6ee62c6c9c9305aebaab6f43) - 2026-07-17
+* [Commit] [Create delete.txt](https://github.com/protocolguild/protocol-guild-site/commit/27bcc09e564fe7cbac51abe5d1a25af8eee1f325) - 2026-07-17
 ## Q2 2026
 
 

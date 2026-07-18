@@ -14,6 +14,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: remove specification of nonce](https://github.com/ethereum/EIPs/pull/11846#pullrequestreview-4611315917) - 2026-07-01
 
+* [Pull Request] [Update EIP-7997: Remove irregular state transition and state lookup](https://github.com/ethereum/EIPs/pull/11952) - 2026-07-17
+* [Commit] [Update EIP-7997: Remove irregular state transition and state lookup](https://github.com/ethereum/EIPs/commit/e239a2e8a2a7f4100f5c6605805ae0ca8624b5b9) - 2026-07-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec,tests): Implement EIP-8246](https://github.com/ethereum/execution-specs/pull/3078#pullrequestreview-4613319411) - 2026-07-01
 * [Review] [Review on: feat(spec,tests): implement EIP-7997](https://github.com/ethereum/execution-specs/pull/3079#pullrequestreview-4611441578) - 2026-07-01
@@ -35,6 +37,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(spec-specs, tests): charge EIP-8037 account creation at access](https://github.com/ethereum/execution-specs/pull/3116#pullrequestreview-4693290350) - 2026-07-14
 * [Review] [Review on: feat(tests): restore sstore_combinations as a hand-written test](https://github.com/ethereum/execution-specs/pull/3154#pullrequestreview-4691835382) - 2026-07-14
 * [Issue] [feat(tests): Add block-level access list validation to benchmark tests](https://github.com/ethereum/execution-specs/issues/3168) - 2026-07-14
+* [Review] [Review on: feat(test-benchmark): support per block opcode count record](https://github.com/ethereum/execution-specs/pull/3183#pullrequestreview-4723833915) - 2026-07-17
+* [Review] [Review on: feat(test-benchmark): validate post-state for stateful filler](https://github.com/ethereum/execution-specs/pull/3148#pullrequestreview-4723399408) - 2026-07-17
+* [Review] [Review on: refactor(spec-specs): organize gas logic in amsterdam EIP-8037/8038/2780](https://github.com/ethereum/execution-specs/pull/3159#pullrequestreview-4721907817) - 2026-07-17
+* [Issue] [chore: Port `devnets/glamsterdam/6-benchmarks` PRs to `forks/amsterdam`](https://github.com/ethereum/execution-specs/issues/3188) - 2026-07-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 ## Q2 2026

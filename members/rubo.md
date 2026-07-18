@@ -31,6 +31,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [chore(docs): Remove broken badge](https://github.com/NethermindEth/nethermind/pull/12466) - 2026-07-15
 * [Commit] [chore(docs): Remove broken badge (#12466)](https://github.com/NethermindEth/nethermind/commit/b53d9696986b339f73bc1896575ecd444654264b) - 2026-07-15
 * [Commit] [chore: Update packages (#12449)](https://github.com/NethermindEth/nethermind/commit/b5847e7363cdcaccacdd5910cd0c143bd4d69209) - 2026-07-15
+* [Pull Request] [chore: Update Nethermind.Crypto.SecP256r1 package](https://github.com/NethermindEth/nethermind/pull/12484) - 2026-07-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 ## Q2 2026

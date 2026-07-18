@@ -75,6 +75,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: ci: automate releases with release-please](https://github.com/ChainSafe/lodestar-z/pull/479#pullrequestreview-4714320868) - 2026-07-16
 * [Review] [Review on: refactor(bindings): rename blst Lifecycle to State](https://github.com/ChainSafe/lodestar-z/pull/516#pullrequestreview-4717631186) - 2026-07-16
 * [Review] [Review on: fix(bindings): validate secret key hex length](https://github.com/ChainSafe/lodestar-z/pull/517#pullrequestreview-4715064262) - 2026-07-16
+* [Review] [Review on: fix(bls): clean up partial thread pool initialization](https://github.com/ChainSafe/lodestar-z/pull/490#pullrequestreview-4724335397) - 2026-07-17
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026
