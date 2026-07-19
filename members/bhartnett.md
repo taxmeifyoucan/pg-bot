@@ -32,6 +32,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Lock free block access list builder (#4478)](https://github.com/status-im/nimbus-eth1/commit/cb0d03265126515cfc2bdb869383356c7e02b8d4) - 2026-07-14
 * [Pull Request] [Add debug_setHead endpoint for benchmarking tests](https://github.com/status-im/nimbus-eth1/pull/4507) - 2026-07-16
 * [Commit] [Add debug_setHead endpoint for benchmarking tests (#4507)](https://github.com/status-im/nimbus-eth1/commit/15b9934519b3b08b632bb5ce1dc0206c54957497) - 2026-07-16
+* [Pull Request] [Use 64-bit digits for modexp](https://github.com/status-im/nimbus-eth1/pull/4519) - 2026-07-18
+* [Pull Request] [Fix hang and slow shutdown](https://github.com/status-im/nimbus-eth1/pull/4518) - 2026-07-18
+* [Commit] [Fix hang and slow shutdown (#4518)](https://github.com/status-im/nimbus-eth1/commit/18a313d884ef2705a0eac02242b1b9f5ffcd1541) - 2026-07-18
 ## Q2 2026
 
 

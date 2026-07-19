@@ -23,6 +23,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: replace ts-node with tsx for running TypeScript](https://github.com/ChainSafe/lodestar/pull/9635#pullrequestreview-4718312624) - 2026-07-16
 * [Pull Request] [chore: v1.45.0 release](https://github.com/ChainSafe/lodestar/pull/9674) - 2026-07-17
 * [Review] [Review on: fix: raise query string arrayLimit to NUMBER_OF_COLUMNS](https://github.com/ChainSafe/lodestar/pull/9673#pullrequestreview-4724866896) - 2026-07-17
+* [Pull Request] [docs: pr review policy and report](https://github.com/ChainSafe/lodestar/pull/9679) - 2026-07-18
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

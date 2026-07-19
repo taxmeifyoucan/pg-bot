@@ -23,6 +23,9 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Add missing timeout constraints to newPayload](https://github.com/ethereum/execution-apis/pull/849#pullrequestreview-4719807094) - 2026-07-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Fast Confirmation Rule (FCR) #11, July 21, 2026](https://github.com/ethereum/pm/issues/2149) - 2026-07-07
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4728593883) - 2026-07-18
 ## Q2 2026
 
 

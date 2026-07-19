@@ -30,6 +30,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Review] [Review on: Update EIP-7773: re-add CFI/restore EIP-8136/EIP-8189 status](https://github.com/ethereum/EIPs/pull/11917#pullrequestreview-4682983448) - 2026-07-13
 * [Pull Request] [Add EIP: Partial Execution Payload Commitments](https://github.com/ethereum/EIPs/pull/11936) - 2026-07-16
 * [Review] [Review on: Update EIP-7997: Remove irregular state transition and state lookup](https://github.com/ethereum/EIPs/pull/11952#pullrequestreview-4722835812) - 2026-07-17
+* [Review] [Review on: Update EIP-8250: price nonce_keys and nonce_seq as transaction data](https://github.com/ethereum/EIPs/pull/11958#pullrequestreview-4728538982) - 2026-07-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 
@@ -37,6 +38,9 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [fix(spec-specs, tests): apply calldata floor to block-level regular gas (#3144)](https://github.com/ethereum/execution-specs/commit/c74f1a67b63c7b34c2204bf2d5fd20b8fcabc981) - 2026-07-10
 [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Add proposal for native UTXOs on Ethereum](https://github.com/nerolation/pglanding-nerolation/commit/6eda8a600eac2ec897055484efc1348b65e0246d) - 2026-07-08
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [eth/debug: specify block access list getter semantics](https://github.com/ethereum/execution-apis/pull/851) - 2026-07-18
 ## Q2 2026
 
 

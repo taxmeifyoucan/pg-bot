@@ -251,6 +251,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: common/math, cl, polygon/bor, execution/cache: deduplicate NextPowerOfTwo](https://github.com/erigontech/erigon/pull/22476#pullrequestreview-4723765487) - 2026-07-17
 * [Review] [Review on: [r3.5] types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22525#pullrequestreview-4722479256) - 2026-07-17
 * [Issue] [execution/cache: evaluate removing the derived addr→codeHash mapping layer](https://github.com/erigontech/erigon/issues/22558) - 2026-07-17
+* [Commit] [db/kv/kvcache: rename SimpleCache to LatestBatchCache (#22278)](https://github.com/erigontech/erigon/commit/10c9c27581b30c96c78b52ebdcc9bf76eb86f06c) - 2026-07-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

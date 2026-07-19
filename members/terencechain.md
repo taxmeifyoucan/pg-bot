@@ -116,6 +116,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Implement fast confirmation rule ](https://github.com/OffchainLabs/prysm/pull/17122#pullrequestreview-4710100054) - 2026-07-16
 * [Review] [Review on: Return envelope publish after broadcast, import in background](https://github.com/OffchainLabs/prysm/pull/17198#pullrequestreview-4719433368) - 2026-07-17
 * [Commit] [Return envelope publish after broadcast, import in background (#17198)](https://github.com/OffchainLabs/prysm/commit/e4efb9951b37580f81c9afd3d55a4590e9d7aa75) - 2026-07-17
+* [Review] [Review on: `TestStatusRPCRequest_FinalizedBlockSkippedSlots`:  Avoid panic if the stream handler is invoked more than once, by avoiding `wg.Done` to lead to a negative counter.](https://github.com/OffchainLabs/prysm/pull/17197#pullrequestreview-4729518394) - 2026-07-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

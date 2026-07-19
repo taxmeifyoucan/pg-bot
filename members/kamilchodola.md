@@ -78,6 +78,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool](https://github.com/NethermindEth/nethermind/pull/12468) - 2026-07-16
 * [Pull Request] [Raise default TrieWarmer worker count from 1/2 to 3/4 of cores](https://github.com/NethermindEth/nethermind/pull/12479) - 2026-07-17
 * [Commit] [Raise default TrieWarmer worker count from 1/2 to 3/4 of cores (#12479)](https://github.com/NethermindEth/nethermind/commit/8a3f94416d1c4f2af97c3e256aef3dff4d5fa2f4) - 2026-07-17
+* [Pull Request] [perf(db): use tcmalloc for native allocations in the Docker image](https://github.com/NethermindEth/nethermind/pull/12486) - 2026-07-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

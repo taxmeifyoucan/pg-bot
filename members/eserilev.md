@@ -32,6 +32,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Add test to VC block production and payload envelope](https://github.com/sigp/lighthouse/pull/9453#pullrequestreview-4711856282) - 2026-07-16
 * [Review] [Review on: Backport CI fixes from 8.2.1 branch](https://github.com/sigp/lighthouse/pull/9651#pullrequestreview-4711133051) - 2026-07-16
 * [Review] [Review on: Add `static_file_storage` crate](https://github.com/sigp/lighthouse/pull/9644#pullrequestreview-4724139962) - 2026-07-17
+* [Review] [Review on: Propagate EIP-8025 execution proofs on gossip behind a flag](https://github.com/sigp/lighthouse/pull/9659#pullrequestreview-4728794456) - 2026-07-18
 ## Q2 2026
 
 

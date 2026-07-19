@@ -294,6 +294,19 @@ Team: Erigon
 * [Commit] [exec: use `br.BlockWithSenders()` instead of `br.BlockByHash()` (#22551)](https://github.com/erigontech/erigon/commit/8a66fe564179c7c5fe418bccbfc1a8ff8c07ad7c) - 2026-07-17
 * [Commit] [build: update x deps for 3.6 release (#22542)](https://github.com/erigontech/erigon/commit/51607a863d45a353a223522d8d97a66669a1e2e3) - 2026-07-17
 * [Commit] [crypto: drop per-call allocations from `Keccak256` and `Sha256` (#22489)](https://github.com/erigontech/erigon/commit/80bb76c6109873feb157fcfb00b28b06502167ad) - 2026-07-17
+* [Pull Request] [execution/state: alloc-free compact journal entries](https://github.com/erigontech/erigon/pull/22561) - 2026-07-18
+* [Review] [Review on: execution/state: alloc-free compact journal entries](https://github.com/erigontech/erigon/pull/22561#pullrequestreview-4727848214) - 2026-07-18
+* [Pull Request] [execution/state: skip SelfDestruct version-map lock when no block-level selfdestruct](https://github.com/erigontech/erigon/pull/22566) - 2026-07-18
+* [Review] [Review on: execution/state: skip SelfDestruct version-map lock when no block-level selfdestruct](https://github.com/erigontech/erigon/pull/22566#pullrequestreview-4728400781) - 2026-07-18
+* [Pull Request] [cl/phase1/network/services: restore swapped signature globals in tests](https://github.com/erigontech/erigon/pull/22569) - 2026-07-18
+* [Pull Request] [cl/spectest: make Test re-runnable under -count (guard global config init)](https://github.com/erigontech/erigon/pull/22568) - 2026-07-18
+* [Pull Request] [cmd/utils: fix TestCommitmentPlainValuesFromCtx flag-state leak under -count](https://github.com/erigontech/erigon/pull/22567) - 2026-07-18
+* [Review] [Review on: ci: grant workflows:write to release App tokens for tag push](https://github.com/erigontech/erigon/pull/22562#pullrequestreview-4728053155) - 2026-07-18
+* [Commit] [cl/phase1/network/services: restore swapped signature globals in tests (#22569)](https://github.com/erigontech/erigon/commit/475d38428be442b1927fd88df418a94748b9858d) - 2026-07-18
+* [Commit] [cl/spectest: make Test re-runnable under -count (guard global config init) (#22568)](https://github.com/erigontech/erigon/commit/53745e7c1c4066476fdea994b3ce18c3be5e03fc) - 2026-07-18
+* [Commit] [cmd/utils: fix TestCommitmentPlainValuesFromCtx flag-state leak under -count (#22567)](https://github.com/erigontech/erigon/commit/286bf3205dcc21ffb6f236bf39b4e8a9716e1af6) - 2026-07-18
+* [Commit] [execution/state: reuse Reader/HistoryReader key buffer to drop per-read allocs (#22557)](https://github.com/erigontech/erigon/commit/e16be81d2dd6f3ef40aefd3e8fc54f6c269bff44) - 2026-07-18
+* [Commit] [cl/merkle_tree: reuse packing buffer in transactionsListRoot (#22518)](https://github.com/erigontech/erigon/commit/d3efa08445572a84749abe7f64bb79ce26b0f152) - 2026-07-18
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

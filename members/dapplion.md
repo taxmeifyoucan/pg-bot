@@ -19,6 +19,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Add experimental --disable-range-sync flag](https://github.com/sigp/lighthouse/pull/9642) - 2026-07-15
 * [Pull Request] [Propagate EIP-8025 execution proofs on gossip behind a flag](https://github.com/sigp/lighthouse/pull/9659) - 2026-07-17
 * [Issue] [Optional execution proofs - tracking issue](https://github.com/sigp/lighthouse/issues/9658) - 2026-07-17
+* [Review] [Review on: Propagate EIP-8025 execution proofs on gossip behind a flag](https://github.com/sigp/lighthouse/pull/9659#pullrequestreview-4728963506) - 2026-07-18
 ## Q2 2026
 
 

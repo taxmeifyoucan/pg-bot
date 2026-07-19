@@ -130,6 +130,9 @@ Team: Reth
 * [Review] [Review on: fix(rpc): fail invalid testing block transactions by default](https://github.com/paradigmxyz/reth/pull/26372#pullrequestreview-4714832505) - 2026-07-16
 * [Review] [Review on: fix: terminate eyre bail invocations](https://github.com/paradigmxyz/reth/pull/26416#pullrequestreview-4712904513) - 2026-07-16
 * [Review] [Review on: feat(engine): pass parent header to post-execution hook](https://github.com/paradigmxyz/reth/pull/26420#pullrequestreview-4721933574) - 2026-07-17
+* [Pull Request] [chore: Eip8268 refactored for optimization attempt](https://github.com/paradigmxyz/reth/pull/26435) - 2026-07-18
+* [Review] [Review on: feat(builder): pause jit while building payloads](https://github.com/paradigmxyz/reth/pull/26429#pullrequestreview-4728414974) - 2026-07-18
+* [Review] [Review on: ci: refresh Hive no-simulator-build patch](https://github.com/paradigmxyz/reth/pull/26432#pullrequestreview-4728039779) - 2026-07-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

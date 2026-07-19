@@ -24,6 +24,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8735) - 2026-07-08
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8734) - 2026-07-08
 * [Issue] [lc: Inefficient zero comparison](https://github.com/status-im/nimbus-eth2/issues/8728) - 2026-07-08
+* [Review] [Review on: optimize is_valid_light_client_header default/zero comparisons by 15%](https://github.com/status-im/nimbus-eth2/pull/8782#pullrequestreview-4727772040) - 2026-07-18
+* [Pull Request] [chronos: bump](https://github.com/status-im/nimbus-eth2/pull/8783) - 2026-07-18
 ## Q2 2026
 
 

@@ -13,6 +13,19 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Frame type for PQ sig and STARK aggregation](https://github.com/ethereum/EIPs/pull/11772#pullrequestreview-4643324901) - 2026-07-07
+* [Pull Request] [Update EIP-8250: align transaction introspection assignments](https://github.com/ethereum/EIPs/pull/11966) - 2026-07-18
+* [Pull Request] [Update EIP-8272: add source_id test vector](https://github.com/ethereum/EIPs/pull/11964) - 2026-07-18
+* [Pull Request] [Update EIP-8141: apply charged_gas to refunds](https://github.com/ethereum/EIPs/pull/11969) - 2026-07-18
+* [Pull Request] [Update EIP-8250: define composed payload](https://github.com/ethereum/EIPs/pull/11968) - 2026-07-18
+* [Pull Request] [Update EIP-8272: complete charged gas accounting](https://github.com/ethereum/EIPs/pull/11970) - 2026-07-18
+* [Pull Request] [Update EIP-8272: resolve RECENTROOTREFLOAD opcode collision](https://github.com/ethereum/EIPs/pull/11967) - 2026-07-18
+* [Review] [Review on: Update EIP-8250: price nonce_keys and nonce_seq as transaction data](https://github.com/ethereum/EIPs/pull/11958#pullrequestreview-4727884590) - 2026-07-18
+* [Review] [Review on: Update EIP-8250: restore signatures in payload and correct signature-hash description](https://github.com/ethereum/EIPs/pull/11963#pullrequestreview-4728182530) - 2026-07-18
+* [Review] [Review on: Update EIP-8272: strengthen public-mempool handling of recent root references](https://github.com/ethereum/EIPs/pull/11961#pullrequestreview-4727889210) - 2026-07-18
+* [Review] [Review on: Update EIP-8272: restore signatures field in payload and elide signature bytes in compute_sig_hash](https://github.com/ethereum/EIPs/pull/11959#pullrequestreview-4727880385) - 2026-07-18
+* [Review] [Review on: Update EIP-8272: restore EIP-8141 signature costs in tx_gas_limit](https://github.com/ethereum/EIPs/pull/11931#pullrequestreview-4727843917) - 2026-07-18
+* [Review] [Review on: Update EIP-8272: fix TXPARAM_RECENT_ROOT_REFERENCE_COUNT value inconsistency](https://github.com/ethereum/EIPs/pull/11930#pullrequestreview-4727842632) - 2026-07-18
+* [Review] [Review on: Update EIP-8250: align NONCE_MANAGER activation wording with EIP-8272](https://github.com/ethereum/EIPs/pull/11960#pullrequestreview-4727841843) - 2026-07-18
 ## Q2 2026
 
 

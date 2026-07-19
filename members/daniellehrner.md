@@ -37,6 +37,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 
 * [Pull Request] [Amsterdam: shared resource-price constants foundation](https://github.com/besu-eth/besu/pull/10813) - 2026-07-16
 * [Commit] [Amsterdam: shared resource-price constants foundation (#10813)](https://github.com/besu-eth/besu/commit/f0f5c0c8d7f561ed3ac916d410cec9f11d59208f) - 2026-07-16
+* [Commit] [EIP-8038: Amsterdam state-access gas repricing (#10764)](https://github.com/besu-eth/besu/commit/b8ee5730a1cdd1c203270402b6d77b5d7682ff6b) - 2026-07-18
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 ## Q2 2026

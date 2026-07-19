@@ -82,6 +82,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Harden prewarmer group splitting: capacity gates, whole-job overtake skip, per-worker envs (#12433)](https://github.com/NethermindEth/nethermind/commit/8063d50bc303a194f05752feb9587c3845e81146) - 2026-07-14
 * [Commit] [Eliminate JUMPDEST dispatch after valid taken non-traced jumps (#12451)](https://github.com/NethermindEth/nethermind/commit/177f19c6dabaa360399fefb219c31941cf1a7547) - 2026-07-15
 * [Review] [Review on: chore: Update Nethermind.Crypto.SecP256r1 package](https://github.com/NethermindEth/nethermind/pull/12484#pullrequestreview-4725866868) - 2026-07-17
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12488#pullrequestreview-4729594135) - 2026-07-19
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12487#pullrequestreview-4729593693) - 2026-07-19
+* [Review] [Review on: perf(db): use tcmalloc for native allocations in the Docker image](https://github.com/NethermindEth/nethermind/pull/12486#pullrequestreview-4729539689) - 2026-07-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

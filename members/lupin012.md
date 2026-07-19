@@ -55,6 +55,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: refactor NewBaseApi to take BaseApiConfig struct (#22478)](https://github.com/erigontech/erigon/commit/300772b1c974cc1b35b291ab078ef0c07c98b075) - 2026-07-16
 * [Pull Request] [rpc: allow eth_getProof at genesis block](https://github.com/erigontech/erigon/pull/22552) - 2026-07-17
 * [Commit] [rpc: apply BaseFeePerGas block override on pre-London blocks (#22536)](https://github.com/erigontech/erigon/commit/15e8252f88d66090485eda8b5f17c37a15db79b6) - 2026-07-17
+* [Pull Request] [[WIP] publish SYNCING event on sync state changes](https://github.com/erigontech/erigon/pull/22570) - 2026-07-18
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

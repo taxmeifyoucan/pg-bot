@@ -24,6 +24,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/commitment: reuse trunk-preload partition buffers; profiling hooks](https://github.com/erigontech/erigon/pull/22549#pullrequestreview-4721818665) - 2026-07-17
 * [Review] [Review on: db/downloader: shorten the Downloader sync log line](https://github.com/erigontech/erigon/pull/22541#pullrequestreview-4721811108) - 2026-07-17
 * [Review] [Review on: exec: use `br.BlockWithSenders()` instead of `br.BlockByHash()`](https://github.com/erigontech/erigon/pull/22551#pullrequestreview-4721819778) - 2026-07-17
+* [Review] [Review on: cl/phase1/network/services: restore swapped signature globals in tests](https://github.com/erigontech/erigon/pull/22569#pullrequestreview-4728441551) - 2026-07-18
+* [Review] [Review on: cl/spectest: make Test re-runnable under -count (guard global config init)](https://github.com/erigontech/erigon/pull/22568#pullrequestreview-4728440662) - 2026-07-18
+* [Review] [Review on: cmd/utils: fix TestCommitmentPlainValuesFromCtx flag-state leak under -count](https://github.com/erigontech/erigon/pull/22567#pullrequestreview-4728440056) - 2026-07-18
+* [Review] [Review on: execution/state: reuse Reader/HistoryReader key buffer to drop per-read allocs](https://github.com/erigontech/erigon/pull/22557#pullrequestreview-4728401366) - 2026-07-18
 ## Q2 2026
 
 
