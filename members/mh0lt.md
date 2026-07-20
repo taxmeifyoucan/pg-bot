@@ -33,6 +33,7 @@ Team: Erigon
 * [Issue] [execution: SD-owned run-task worker abstraction + drop the parallel-exec scheduler queue](https://github.com/erigontech/erigon/issues/22520) - 2026-07-16
 * [Review] [Review on: execution/state: cache-free parallel execution via versionMap unification (noMaterialize) + warm-read caching](https://github.com/erigontech/erigon/pull/22409#pullrequestreview-4721991274) - 2026-07-17
 * [Issue] [db/kv, db/state: add an additive RangeReader interface and fold in the harness range machinery](https://github.com/erigontech/erigon/issues/22550) - 2026-07-17
+* [Review] [Review on: [wip] execution/commitment: fix parallel commitment wrong trie root (re-land #22257 + storage-fold nav path fix)](https://github.com/erigontech/erigon/pull/22495#pullrequestreview-4730638517) - 2026-07-19
 ## Q2 2026
 
 

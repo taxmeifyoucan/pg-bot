@@ -35,6 +35,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Use 64-bit digits for modexp](https://github.com/status-im/nimbus-eth1/pull/4519) - 2026-07-18
 * [Pull Request] [Fix hang and slow shutdown](https://github.com/status-im/nimbus-eth1/pull/4518) - 2026-07-18
 * [Commit] [Fix hang and slow shutdown (#4518)](https://github.com/status-im/nimbus-eth1/commit/18a313d884ef2705a0eac02242b1b9f5ffcd1541) - 2026-07-18
+* [Pull Request] [Use BoringSSL P-256 for the P256VERIFY precompile](https://github.com/status-im/nimbus-eth1/pull/4521) - 2026-07-19
+* [Commit] [Use 64-bit libtommath digits for modexp on 64-bit targets (#4519)](https://github.com/status-im/nimbus-eth1/commit/6f8373a419365d7a927ea8b47db8ecfc45fbe381) - 2026-07-19
 ## Q2 2026
 
 

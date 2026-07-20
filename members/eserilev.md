@@ -33,6 +33,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Backport CI fixes from 8.2.1 branch](https://github.com/sigp/lighthouse/pull/9651#pullrequestreview-4711133051) - 2026-07-16
 * [Review] [Review on: Add `static_file_storage` crate](https://github.com/sigp/lighthouse/pull/9644#pullrequestreview-4724139962) - 2026-07-17
 * [Review] [Review on: Propagate EIP-8025 execution proofs on gossip behind a flag](https://github.com/sigp/lighthouse/pull/9659#pullrequestreview-4728794456) - 2026-07-18
+* [Pull Request] [Move `SlotAssignment` cache to `CanonicalHead`](https://github.com/sigp/lighthouse/pull/9661) - 2026-07-19
+* [Review] [Review on: Move `SlotAssignment` cache to `CanonicalHead`](https://github.com/sigp/lighthouse/pull/9661#pullrequestreview-4730865023) - 2026-07-19
 ## Q2 2026
 
 

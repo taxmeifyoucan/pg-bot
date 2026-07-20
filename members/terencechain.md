@@ -117,6 +117,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Return envelope publish after broadcast, import in background](https://github.com/OffchainLabs/prysm/pull/17198#pullrequestreview-4719433368) - 2026-07-17
 * [Commit] [Return envelope publish after broadcast, import in background (#17198)](https://github.com/OffchainLabs/prysm/commit/e4efb9951b37580f81c9afd3d55a4590e9d7aa75) - 2026-07-17
 * [Review] [Review on: `TestStatusRPCRequest_FinalizedBlockSkippedSlots`:  Avoid panic if the stream handler is invoked more than once, by avoiding `wg.Done` to lead to a negative counter.](https://github.com/OffchainLabs/prysm/pull/17197#pullrequestreview-4729518394) - 2026-07-18
+* [Pull Request] [Remove racy lock assertion in RPC rate limiter](https://github.com/OffchainLabs/prysm/pull/17204) - 2026-07-19
+* [Pull Request] [Skip payload attestation quietly when no block exists for the slot](https://github.com/OffchainLabs/prysm/pull/17202) - 2026-07-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

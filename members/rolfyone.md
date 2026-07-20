@@ -59,6 +59,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Two related bugs in DataColumnSidecarsByRoot RPC handling: (#10969)](https://github.com/Consensys/teku/commit/820956a7a6bc5c7ecf3228de50c4550f79074cde) - 2026-07-15
 * [Review] [Review on:   Return 204 for producePayloadAttestationData when no block seen at slot](https://github.com/Consensys/teku/pull/10965#pullrequestreview-4710038205) - 2026-07-16
 * [Commit] [Fix DataColumnSidecarsByRoot partial-response-then-abort for out-of-window block roots (#10970)](https://github.com/Consensys/teku/commit/d33b5d27db449dc9c12bcdc24c06830eb5c69244) - 2026-07-16
+* [Review] [Review on: Remove parent block number from payload attributes post gloas](https://github.com/Consensys/teku/pull/10975#pullrequestreview-4731618376) - 2026-07-19
+* [Review] [Review on: Update get_indexed_payload_attestation specref anchor](https://github.com/Consensys/teku/pull/10980#pullrequestreview-4731700686) - 2026-07-19
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 ## Q2 2026

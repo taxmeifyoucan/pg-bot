@@ -307,6 +307,24 @@ Team: Erigon
 * [Commit] [cmd/utils: fix TestCommitmentPlainValuesFromCtx flag-state leak under -count (#22567)](https://github.com/erigontech/erigon/commit/286bf3205dcc21ffb6f236bf39b4e8a9716e1af6) - 2026-07-18
 * [Commit] [execution/state: reuse Reader/HistoryReader key buffer to drop per-read allocs (#22557)](https://github.com/erigontech/erigon/commit/e16be81d2dd6f3ef40aefd3e8fc54f6c269bff44) - 2026-07-18
 * [Commit] [cl/merkle_tree: reuse packing buffer in transactionsListRoot (#22518)](https://github.com/erigontech/erigon/commit/d3efa08445572a84749abe7f64bb79ce26b0f152) - 2026-07-18
+* [Review] [Review on: [wip] db/seg/patricia: cache-friendly packed node layout for Aho-Corasick](https://github.com/erigontech/erigon/pull/22544#pullrequestreview-4729780021) - 2026-07-19
+* [Pull Request] [exec: return version-map cells to their pools at block end](https://github.com/erigontech/erigon/pull/22577) - 2026-07-19
+* [Review] [Review on: exec: return version-map cells to their pools at block end](https://github.com/erigontech/erigon/pull/22577#pullrequestreview-4730390741) - 2026-07-19
+* [Pull Request] [exec: reuse IntraBlockState map capacity across Reset](https://github.com/erigontech/erigon/pull/22578) - 2026-07-19
+* [Review] [Review on: exec: reuse IntraBlockState map capacity across Reset](https://github.com/erigontech/erigon/pull/22578#pullrequestreview-4730390838) - 2026-07-19
+* [Pull Request] [execution, rpc: release IntraBlockState in unit tests](https://github.com/erigontech/erigon/pull/22582) - 2026-07-19
+* [Pull Request] [db/kv/temporal: stop retaining iterators on the tx](https://github.com/erigontech/erigon/pull/22581) - 2026-07-19
+* [Review] [Review on: db/kv/temporal: stop retaining iterators on the tx](https://github.com/erigontech/erigon/pull/22581#pullrequestreview-4730600892) - 2026-07-19
+* [Pull Request] [exec: return the displaced write set when merging finalize writes](https://github.com/erigontech/erigon/pull/22579) - 2026-07-19
+* [Review] [Review on: exec: return the displaced write set when merging finalize writes](https://github.com/erigontech/erigon/pull/22579#pullrequestreview-4730541251) - 2026-07-19
+* [Pull Request] [exec: return system-tx IntraBlockState to the stateObject pool](https://github.com/erigontech/erigon/pull/22573) - 2026-07-19
+* [Pull Request] [exec: return block-finalize IntraBlockState to the stateObject pool](https://github.com/erigontech/erigon/pull/22574) - 2026-07-19
+* [Pull Request] [execution/state: report stateObjects never returned to the pool under ERIGON_ASSERT](https://github.com/erigontech/erigon/pull/22575) - 2026-07-19
+* [Pull Request] [execution/state: detect WriteSets dropped without ReleaseAndReset](https://github.com/erigontech/erigon/pull/22576) - 2026-07-19
+* [Issue] [exec: objects drained from `sync.Pool`](https://github.com/erigontech/erigon/issues/22572) - 2026-07-19
+* [Issue] [oom during dao-attack exec](https://github.com/erigontech/erigon/issues/22580) - 2026-07-19
+* [Commit] [db/kv/temporal: stop retaining iterators on the tx (#22581)](https://github.com/erigontech/erigon/commit/b0c2a12b3479b50e97912a8f498bc26ca19f6a1f) - 2026-07-19
+* [Commit] [[wip] execution/commitment: fix parallel commitment wrong trie root (re-land #22257 + storage-fold nav path fix) (#22495)](https://github.com/erigontech/erigon/commit/aa0b6f86ea19b21eb34d277dcfeb9a27df020e2f) - 2026-07-19
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

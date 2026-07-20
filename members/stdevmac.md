@@ -21,6 +21,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [fix(build): unblock 1.39.0 Release packages build (NETSDK1047 in JsonRpc source generator)](https://github.com/NethermindEth/nethermind/pull/12341) - 2026-07-08
 
 * [Commit] [fix(build): keep RPC JSON source generator portable in self-contained RID publish (#12342)](https://github.com/NethermindEth/nethermind/commit/8d351bcca169b55ec6c1a38924bc983177e4786e) - 2026-07-09
+* [Pull Request] [Update 1.39.2](https://github.com/NethermindEth/nethermind/pull/12491) - 2026-07-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

@@ -28,6 +28,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/spectest: make Test re-runnable under -count (guard global config init)](https://github.com/erigontech/erigon/pull/22568#pullrequestreview-4728440662) - 2026-07-18
 * [Review] [Review on: cmd/utils: fix TestCommitmentPlainValuesFromCtx flag-state leak under -count](https://github.com/erigontech/erigon/pull/22567#pullrequestreview-4728440056) - 2026-07-18
 * [Review] [Review on: execution/state: reuse Reader/HistoryReader key buffer to drop per-read allocs](https://github.com/erigontech/erigon/pull/22557#pullrequestreview-4728401366) - 2026-07-18
+* [Review] [Review on: db/kv/temporal: stop retaining iterators on the tx](https://github.com/erigontech/erigon/pull/22581#pullrequestreview-4730861768) - 2026-07-19
 ## Q2 2026
 
 

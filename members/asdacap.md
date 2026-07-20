@@ -163,6 +163,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(flat): guard the trie-warmer against a TransientResource recycle race (storage reads as 0x00)](https://github.com/NethermindEth/nethermind/pull/12429#pullrequestreview-4710176129) - 2026-07-16
 * [Commit] [feat: append DB layout postfix to public client ID (#12435)](https://github.com/NethermindEth/nethermind/commit/b5a64c02152d41ded41f2ed787a57689da2a2821) - 2026-07-16
 * [Review] [Review on: Raise default TrieWarmer worker count from 1/2 to 3/4 of cores](https://github.com/NethermindEth/nethermind/pull/12479#pullrequestreview-4721615886) - 2026-07-17
+* [Pull Request] [refactor: remove unused IFlatDbManager.ReorgBoundaryReached](https://github.com/NethermindEth/nethermind/pull/12496) - 2026-07-20
 ## Q2 2026
 
 

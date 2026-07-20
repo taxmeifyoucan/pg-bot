@@ -133,6 +133,9 @@ Team: Reth
 * [Pull Request] [chore: Eip8268 refactored for optimization attempt](https://github.com/paradigmxyz/reth/pull/26435) - 2026-07-18
 * [Review] [Review on: feat(builder): pause jit while building payloads](https://github.com/paradigmxyz/reth/pull/26429#pullrequestreview-4728414974) - 2026-07-18
 * [Review] [Review on: ci: refresh Hive no-simulator-build patch](https://github.com/paradigmxyz/reth/pull/26432#pullrequestreview-4728039779) - 2026-07-18
+* [Review] [Review on: fix(rpc): align BAL lookup errors with spec](https://github.com/paradigmxyz/reth/pull/26441#pullrequestreview-4730811911) - 2026-07-19
+* [Review] [Review on: chore: re-enable nightly Docker cron](https://github.com/paradigmxyz/reth/pull/26440#pullrequestreview-4730753704) - 2026-07-19
+* [Review] [Review on: fix(discv4): use provided rng in test utils instead of thread_rng](https://github.com/paradigmxyz/reth/pull/26437#pullrequestreview-4730183419) - 2026-07-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

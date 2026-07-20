@@ -55,6 +55,12 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [async block builder implementation](https://github.com/status-im/nimbus-eth1/pull/4512) - 2026-07-17
 * [Review] [Review on: check tx KZG after sender/nonce](https://github.com/status-im/nimbus-eth1/pull/4508#pullrequestreview-4719678108) - 2026-07-17
 * [Commit] [add metrics to engineAPI (#4183)](https://github.com/status-im/nimbus-eth1/commit/2991544043c9119d2d01d96331a8b234de6c9f57) - 2026-07-17
+* [Pull Request] [fix: 64-byte alignment warning](https://github.com/status-im/nimbus-eth1/pull/4520) - 2026-07-19
+* [Commit] [wrap each trial's runComputation in a ledger savepoint that is always rolled back (#4475)](https://github.com/status-im/nimbus-eth1/commit/d7b587776e71ff0169256785ef21a207edfc3bfc) - 2026-07-20
+* [Commit] [fix: 64-byte alignment warning (#4520)](https://github.com/status-im/nimbus-eth1/commit/3482095306b5e4f6f08c02efb10b635cc2c6eef6) - 2026-07-19
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 ## Q2 2026
 
 

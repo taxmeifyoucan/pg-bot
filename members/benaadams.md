@@ -85,6 +85,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12488#pullrequestreview-4729594135) - 2026-07-19
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12487#pullrequestreview-4729593693) - 2026-07-19
 * [Review] [Review on: perf(db): use tcmalloc for native allocations in the Docker image](https://github.com/NethermindEth/nethermind/pull/12486#pullrequestreview-4729539689) - 2026-07-19
+* [Pull Request] [perf: seal WorldState and CodeInfo](https://github.com/NethermindEth/nethermind/pull/12497) - 2026-07-20
+* [Pull Request] [perf(state): cache WorldState's OnAccountUpdated handler](https://github.com/NethermindEth/nethermind/pull/12494) - 2026-07-20
+* [Pull Request] [perf(evm): skip recipient delegation lookup when EIP-8037 is not active](https://github.com/NethermindEth/nethermind/pull/12495) - 2026-07-20
+* [Pull Request] [refactor(evm): remove unused BitmapHelper](https://github.com/NethermindEth/nethermind/pull/12493) - 2026-07-20
+* [Review] [Review on: refactor: remove unused IFlatDbManager.ReorgBoundaryReached](https://github.com/NethermindEth/nethermind/pull/12496#pullrequestreview-4731852081) - 2026-07-20
+* [Review] [Review on: Demote per-block tx selection logs from Debug to Trace](https://github.com/NethermindEth/nethermind/pull/12482#pullrequestreview-4731777484) - 2026-07-20
+* [Review] [Review on: Update 1.39.2](https://github.com/NethermindEth/nethermind/pull/12491#pullrequestreview-4731186955) - 2026-07-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

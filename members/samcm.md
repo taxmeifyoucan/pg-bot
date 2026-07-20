@@ -30,6 +30,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [telemetry: add OTLP traces pipeline](https://github.com/ethpandaops/template-devnets/pull/178) - 2026-07-06
 * [Commit] [xatu-sentry: ship to the per-devnet ingest pipeline](https://github.com/ethpandaops/template-devnets/commit/625d2c78cd2d9b4c985462134bc6986d677ee195) - 2026-07-06
 
+* [Pull Request] [xatu-sentry: enable beaconCommittees/proposerDuty via config override](https://github.com/ethpandaops/template-devnets/pull/179) - 2026-07-20
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [chore(design-sync): sync Lab component library to claude.ai/design](https://github.com/ethpandaops/lab/pull/440) - 2026-07-08
 * [Pull Request] [fix(timings): aggregate all versions in collapsed client row](https://github.com/ethpandaops/lab/pull/441) - 2026-07-10

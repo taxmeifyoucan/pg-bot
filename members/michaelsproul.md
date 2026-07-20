@@ -33,6 +33,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Backport CI fixes from 8.2.1 branch](https://github.com/sigp/lighthouse/pull/9651#pullrequestreview-4710867580) - 2026-07-16
 * [Review] [Review on: Align gloas proposer reorg weight logic w/ spec](https://github.com/sigp/lighthouse/pull/9625#pullrequestreview-4710744455) - 2026-07-16
 * [Pull Request] [Add a bunch of semicolons to satisfy Nightly rustc](https://github.com/sigp/lighthouse/pull/9648) - 2026-07-16
+* [Issue] [FCR correctness investigations](https://github.com/sigp/lighthouse/issues/9664) - 2026-07-20
+* [Issue] [FCR UX tweaks](https://github.com/sigp/lighthouse/issues/9663) - 2026-07-20
+* [Issue] [Remove invalid blocks from fork choice](https://github.com/sigp/lighthouse/issues/9662) - 2026-07-20
 ## Q2 2026
 
 

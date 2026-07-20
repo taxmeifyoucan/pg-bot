@@ -86,6 +86,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: refactor(bindings/pubkeys): simplify allocation strategy for aggregate](https://github.com/ChainSafe/lodestar-z/pull/518#pullrequestreview-4720859108) - 2026-07-17
 * [Pull Request] [docs: more comprehensive AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/520) - 2026-07-17
 * [Review] [Review on: fix(bindings): validate class types before unwrap](https://github.com/ChainSafe/lodestar-z/pull/514#pullrequestreview-4720882697) - 2026-07-17
+* [Commit] [refactor(bindings/pubkeys): simplify allocation strategy for aggregate (#518)](https://github.com/ChainSafe/lodestar-z/commit/b82750f6c3ec3d57ed63fe31c2f968d4527ce0a5) - 2026-07-19
 ## Q2 2026
 
 

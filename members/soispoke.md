@@ -26,6 +26,12 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Review] [Review on: Update EIP-8272: restore EIP-8141 signature costs in tx_gas_limit](https://github.com/ethereum/EIPs/pull/11931#pullrequestreview-4727843917) - 2026-07-18
 * [Review] [Review on: Update EIP-8272: fix TXPARAM_RECENT_ROOT_REFERENCE_COUNT value inconsistency](https://github.com/ethereum/EIPs/pull/11930#pullrequestreview-4727842632) - 2026-07-18
 * [Review] [Review on: Update EIP-8250: align NONCE_MANAGER activation wording with EIP-8272](https://github.com/ethereum/EIPs/pull/11960#pullrequestreview-4727841843) - 2026-07-18
+* [Pull Request] [Update EIP-8141: clarify decoding, signing, and activation](https://github.com/ethereum/EIPs/pull/11971) - 2026-07-19
+* [Review] [Review on: Update EIP-8250: price nonce_keys and nonce_seq as transaction data](https://github.com/ethereum/EIPs/pull/11958#pullrequestreview-4730867419) - 2026-07-19
+* [Pull Request] [Update EIP-8272: clarify signature hashing and predeploy address](https://github.com/ethereum/EIPs/pull/11973) - 2026-07-19
+* [Pull Request] [Update EIP-8250: clarify NONCE_MANAGER activation](https://github.com/ethereum/EIPs/pull/11972) - 2026-07-19
+* [Commit] [Update EIP-8081: propose EIP-8272 for Hegotá](https://github.com/ethereum/EIPs/commit/e19752239c6cbe44a841cf1736d87d52de4dcd86) - 2026-07-19
+* [Commit] [Update EIP-8250: align transaction introspection assignments](https://github.com/ethereum/EIPs/commit/66e475b052c038adc59397d119cc1c65b87f12fc) - 2026-07-19
 ## Q2 2026
 
 
