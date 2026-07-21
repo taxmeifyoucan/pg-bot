@@ -49,6 +49,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: display max open file value](https://github.com/besu-eth/besu/pull/10812#pullrequestreview-4711546177) - 2026-07-16
 * [Pull Request] [stateroot refactor for glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10811) - 2026-07-16
 * [Commit] [display max open file value in the configuration overview (#10812)](https://github.com/besu-eth/besu/commit/338bbcefe8880d8b0898e927dc295c3b198ffa07) - 2026-07-16
+* [Review] [Review on: snap/2 - improve logging](https://github.com/besu-eth/besu/pull/10810#pullrequestreview-4732418532) - 2026-07-20
 ## Q2 2026
 
 

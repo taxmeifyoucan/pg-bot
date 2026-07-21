@@ -34,6 +34,7 @@ Team: Reth
 * [Review] [Review on: ci(release): remove x86-64 macos, support custom refs](https://github.com/paradigmxyz/reth/pull/26387#pullrequestreview-4694686316) - 2026-07-14
 * [Review] [Review on: chore(deps): bump alloy core 1.6.1](https://github.com/paradigmxyz/reth/pull/26419#pullrequestreview-4714933637) - 2026-07-16
 * [Review] [Review on: feat(builder): pause jit while building payloads](https://github.com/paradigmxyz/reth/pull/26429#pullrequestreview-4725726131) - 2026-07-17
+* [Review] [Review on: chore(deps): bump the ci-weekly group with 3 updates](https://github.com/paradigmxyz/reth/pull/26443#pullrequestreview-4736334507) - 2026-07-20
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

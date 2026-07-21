@@ -44,6 +44,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: fix(fill-stateful): verify receipt status when filling stateful fixtures](https://github.com/ethereum/execution-specs/pull/3142#pullrequestreview-4701679139) - 2026-07-15
 * [Pull Request] [feat(test-benchmark): support per block opcode count record](https://github.com/ethereum/execution-specs/pull/3183) - 2026-07-16
 * [Pull Request] [refactor(test-benchmark): align test suite with `glam-devnet-7` spec](https://github.com/ethereum/execution-specs/pull/3187) - 2026-07-17
+* [Pull Request] [feat(test-benchmark): on-chain account verification](https://github.com/ethereum/execution-specs/pull/3197) - 2026-07-20
+* [Pull Request] [feat(test-benchmark): add deployment contract script, no-rewind flag](https://github.com/ethereum/execution-specs/pull/3194) - 2026-07-20
+* [Review] [Review on: refactor(tests): Remove `fork.gas_costs()` reconstruction from Amsterdam EIP-8037/8038 tests](https://github.com/ethereum/execution-specs/pull/3169#pullrequestreview-4732561499) - 2026-07-20
+* [Commit] [refactor(test-benchmark): align test suite with `glam-devnet-7` spec (#3187)](https://github.com/ethereum/execution-specs/commit/9e9bf9068c5bbc337cbbb6794d14786d61840a6a) - 2026-07-20
 ## Q2 2026
 
 

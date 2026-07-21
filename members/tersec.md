@@ -51,6 +51,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [optimize SyncCommittee default/zero comparisons](https://github.com/status-im/nimbus-eth2/pull/8779) - 2026-07-17
 * [Pull Request] [optimize is_valid_light_client_header default/zero comparisons by 15%](https://github.com/status-im/nimbus-eth2/pull/8782) - 2026-07-18
 * [Review] [Review on: optimize is_valid_light_client_header default/zero comparisons by 15%](https://github.com/status-im/nimbus-eth2/pull/8782#pullrequestreview-4727772778) - 2026-07-18
+* [Review] [Review on: Add verifier error for payload](https://github.com/status-im/nimbus-eth2/pull/8778#pullrequestreview-4739606049) - 2026-07-20
+* [Pull Request] [fix nimbus_light_client getting 0 peers](https://github.com/status-im/nimbus-eth2/pull/8790) - 2026-07-20
+* [Pull Request] [enable P2P DSL macro to work in ARC/ORC](https://github.com/status-im/nimbus-eth2/pull/8789) - 2026-07-20
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -77,6 +80,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [check tx KZG after sender/nonce (#4508)](https://github.com/status-im/nimbus-eth1/commit/680a4a65c6a32ba225a1ee4e328bb69abb5c5347) - 2026-07-17
 * [Review] [Review on: wrap each trial's runComputation in a ledger savepoint ](https://github.com/status-im/nimbus-eth1/pull/4475#pullrequestreview-4731588053) - 2026-07-19
 * [Review] [Review on: fix: 64-byte alignment warning](https://github.com/status-im/nimbus-eth1/pull/4520#pullrequestreview-4730523020) - 2026-07-19
+* [Review] [Review on: Implement gloas fcU payload build skip v1.0.0-beta.7](https://github.com/status-im/nimbus-eth1/pull/4525#pullrequestreview-4736646474) - 2026-07-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

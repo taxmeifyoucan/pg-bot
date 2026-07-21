@@ -17,6 +17,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298#pullrequestreview-4664315207) - 2026-07-09
+* [Pull Request] [Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298) - 2026-07-20
+* [Pull Request] [Static libs and jar artifact for secp256k1](https://github.com/besu-eth/besu-native/pull/297) - 2026-07-20
+* [Pull Request] [Graal gnark static libs and artifact](https://github.com/besu-eth/besu-native/pull/292) - 2026-07-20
+* [Review] [Review on: updated boringssl](https://github.com/besu-eth/besu-native/pull/318#pullrequestreview-4738153019) - 2026-07-20
+* [Commit] [Static libs and jar artifact for boringssl (#298)](https://github.com/besu-eth/besu-native/commit/1bc1d0f8f3f12ba2565d960643220151e666cb58) - 2026-07-20
+* [Commit] [Static libs and jar artifact for secp256k1 (#297)](https://github.com/besu-eth/besu-native/commit/7caec07e83d77555237075e997896c67e7394873) - 2026-07-20
+* [Commit] [Graal gnark static libs and artifact (#292)](https://github.com/besu-eth/besu-native/commit/fcb0a079737f9f72727f7775918c84a9c9bed7f6) - 2026-07-20
 ## Q2 2026
 
 

@@ -26,6 +26,10 @@ Team: Geth
 * [Pull Request] [Update EIP-8141: use skipped receipt status code](https://github.com/ethereum/EIPs/pull/11953) - 2026-07-17
 * [Commit] [Update EIP-8141: allow EOA sponsor again](https://github.com/ethereum/EIPs/commit/c6842c8115013524f5955d410c24e1748a615d07) - 2026-07-17
 * [Commit] [Update EIP-8141: use skipped receipt status code](https://github.com/ethereum/EIPs/commit/56ab20d9eb3b7b045f1a278eeb2fb823d6399ec6) - 2026-07-17
+* [Review] [Review on: Update EIP-8141: approval effects are not reverted by frame revert or atomic-batch unroll](https://github.com/ethereum/EIPs/pull/11955#pullrequestreview-4737885227) - 2026-07-20
+* [Review] [Review on: Update EIP-8141: define the Receipts message encoding for frame transaction receipts](https://github.com/ethereum/EIPs/pull/11942#pullrequestreview-4737697632) - 2026-07-20
+* [Pull Request] [Update EIP-8141: charge for each arbitrary sig entry](https://github.com/ethereum/EIPs/pull/11976) - 2026-07-20
+* [Commit] [Update EIP-8141: charge for each arbitrary sig entry](https://github.com/ethereum/EIPs/commit/e1fd489dae28cb6a29b3931270efd1b198001872) - 2026-07-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

@@ -136,6 +136,12 @@ Team: Reth
 * [Review] [Review on: fix(rpc): align BAL lookup errors with spec](https://github.com/paradigmxyz/reth/pull/26441#pullrequestreview-4730811911) - 2026-07-19
 * [Review] [Review on: chore: re-enable nightly Docker cron](https://github.com/paradigmxyz/reth/pull/26440#pullrequestreview-4730753704) - 2026-07-19
 * [Review] [Review on: fix(discv4): use provided rng in test utils instead of thread_rng](https://github.com/paradigmxyz/reth/pull/26437#pullrequestreview-4730183419) - 2026-07-19
+* [Review] [Review on: feat(engine): configure dev finality depth](https://github.com/paradigmxyz/reth/pull/26451#pullrequestreview-4739770016) - 2026-07-20
+* [Pull Request] [refactor(trie): remove unused stack printer](https://github.com/paradigmxyz/reth/pull/26450) - 2026-07-20
+* [Review] [Review on: fix(discv5): advertise fork ENR entry on custom chain ids](https://github.com/paradigmxyz/reth/pull/26449#pullrequestreview-4737151052) - 2026-07-20
+* [Review] [Review on: feat(trie): expose payload state root receiver](https://github.com/paradigmxyz/reth/pull/26431#pullrequestreview-4736018907) - 2026-07-20
+* [Review] [Review on: test(net): add first snap e2e tests](https://github.com/paradigmxyz/reth/pull/26368#pullrequestreview-4735068884) - 2026-07-20
+* [Review] [Review on: fix(rpc): add BAL debug method ](https://github.com/paradigmxyz/reth/pull/26438#pullrequestreview-4734816407) - 2026-07-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

@@ -106,6 +106,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [lint: enable errcheck incrementally across packages](https://github.com/erigontech/erigon/issues/22538) - 2026-07-17
 * [Commit] [db/state/execctx: fix stale trunk-preload pins in the branch cache (#22539)](https://github.com/erigontech/erigon/commit/9ea8920b631996d39f5868d3da1249a11fc4589b) - 2026-07-17
 * [Commit] [types: reject legacy transactions in typed envelopes (#22522)](https://github.com/erigontech/erigon/commit/bef1917a740479ec0f7c811b17bd31d6d2dee953) - 2026-07-17
+* [Pull Request] [ci: update hive version to latest commit with pre-staged fixtures support](https://github.com/erigontech/erigon/pull/22611) - 2026-07-21
+* [Pull Request] [[DO-NOT-MERGE] commitment: preserve account load flags across storage folds](https://github.com/erigontech/erigon/pull/22603) - 2026-07-20
+* [Pull Request] [commitment: preserve account load flags across storage folds](https://github.com/erigontech/erigon/pull/22604) - 2026-07-20
+* [Review] [Review on: all: enable and modernize stringscut, testingcontext, and waitgroup linters](https://github.com/erigontech/erigon/pull/22563#pullrequestreview-4732725658) - 2026-07-20
+* [Review] [Review on: trace: stop debug printf from forcing heap allocs](https://github.com/erigontech/erigon/pull/22588#pullrequestreview-4732609555) - 2026-07-20
+* [Review] [Review on: consensus: propagate state errors from rewards and withdrawals](https://github.com/erigontech/erigon/pull/22593#pullrequestreview-4732619118) - 2026-07-20
+* [Review] [Review on: consensus: propagate state errors from balance updates](https://github.com/erigontech/erigon/pull/22592#pullrequestreview-4732597767) - 2026-07-20
+* [Issue] [rpc: debug_traceBlockByHash panics in prestateTracer CREATE2 path](https://github.com/erigontech/erigon/issues/22607) - 2026-07-20
+* [Issue] [rpc, engineapi: align BAL JSON-RPC behavior with execution-apis](https://github.com/erigontech/erigon/issues/22608) - 2026-07-20
+* [Commit] [commitment: preserve account load flags across storage folds (#22604)](https://github.com/erigontech/erigon/commit/ce872ea1b04d5b8b7153015babebbd47c0c26cda) - 2026-07-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
@@ -114,6 +124,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [erigon: raise MAX_REORG_DEPTH for enginex runs](https://github.com/ethereum/hive/pull/1568) - 2026-07-08
 * [Commit] [erigon: raise MAX_REORG_DEPTH for enginex runs (#1568)](https://github.com/ethereum/hive/commit/086c7556b09aa200d578cbf39e3e3cf26c8ac3eb) - 2026-07-08
 * [Pull Request] [simulators/eels: optionally consume pre-staged local fixtures tar.gz](https://github.com/ethereum/hive/pull/1577) - 2026-07-17
+* [Commit] [simulators/eels: optionally consume pre-staged local fixtures tar.gz (#1577)](https://github.com/ethereum/hive/commit/47b7e79aef6adf0961ca3dcdac966d9e15b9ee2b) - 2026-07-20
 ## Q2 2026
 
 

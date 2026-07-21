@@ -26,6 +26,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat: make lodestar-z BLS opt-in](https://github.com/ChainSafe/lodestar/pull/9652#pullrequestreview-4694521035) - 2026-07-14
 * [Review] [Review on: chore: add communication style to agents.md](https://github.com/ChainSafe/lodestar/pull/9668#pullrequestreview-4714158317) - 2026-07-16
 * [Review] [Review on: fix: raise query string arrayLimit to NUMBER_OF_COLUMNS](https://github.com/ChainSafe/lodestar/pull/9673#pullrequestreview-4724918041) - 2026-07-17
+* [Pull Request] [(wip) feat: gloas light client support](https://github.com/ChainSafe/lodestar/pull/9683) - 2026-07-20
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -87,6 +88,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [docs: more comprehensive AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/520) - 2026-07-17
 * [Review] [Review on: fix(bindings): validate class types before unwrap](https://github.com/ChainSafe/lodestar-z/pull/514#pullrequestreview-4720882697) - 2026-07-17
 * [Commit] [refactor(bindings/pubkeys): simplify allocation strategy for aggregate (#518)](https://github.com/ChainSafe/lodestar-z/commit/b82750f6c3ec3d57ed63fe31c2f968d4527ce0a5) - 2026-07-19
+* [Review] [Review on: fix(state-transition): group-check signature sets](https://github.com/ChainSafe/lodestar-z/pull/515#pullrequestreview-4734493556) - 2026-07-20
+* [Review] [Review on: refactor(bindings): use zapi js.io() instead of local io module](https://github.com/ChainSafe/lodestar-z/pull/469#pullrequestreview-4733289178) - 2026-07-20
+* [Commit] [docs: more comprehensive AGENTS.md (#520)](https://github.com/ChainSafe/lodestar-z/commit/c74b38612689df56d2e64c4bc0be029be02ed275) - 2026-07-20
 ## Q2 2026
 
 

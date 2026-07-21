@@ -19,6 +19,7 @@ Team: EthereumJS
 * [Commit] [chore: update dev fixtures from glamsterdam-devnet@v6.0.0 to glamsterdam-devnet@v6.1.1 (#4336)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/cb0d09451f8768c27e009c25d62d32c4fc4c8a70) - 2026-07-09
 * [Commit] [fix(vm): delete empty accounts in consumeBal instead of writing zero-balance trie entries (#4334)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/9d68696b6526648fbe8d973ef4ed4c7516c00987) - 2026-07-09
 * [Pull Request] [chore: upgrade to TypeScript 7](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4347) - 2026-07-14
+* [Review] [Review on: mpt: fix and optimize `_walkTrie` async generator](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4342#pullrequestreview-4735023480) - 2026-07-20
 ## Q2 2026
 
 

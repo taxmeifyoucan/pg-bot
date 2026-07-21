@@ -119,9 +119,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: `TestStatusRPCRequest_FinalizedBlockSkippedSlots`:  Avoid panic if the stream handler is invoked more than once, by avoiding `wg.Done` to lead to a negative counter.](https://github.com/OffchainLabs/prysm/pull/17197#pullrequestreview-4729518394) - 2026-07-18
 * [Pull Request] [Remove racy lock assertion in RPC rate limiter](https://github.com/OffchainLabs/prysm/pull/17204) - 2026-07-19
 * [Pull Request] [Skip payload attestation quietly when no block exists for the slot](https://github.com/OffchainLabs/prysm/pull/17202) - 2026-07-19
+* [Review] [Review on: overflow bid fix](https://github.com/OffchainLabs/prysm/pull/17207#pullrequestreview-4738765952) - 2026-07-20
+* [Pull Request] [Mark pending payload envelope seen only after successful import](https://github.com/OffchainLabs/prysm/pull/17206) - 2026-07-20
+* [Commit] [Skip payload attestation quietly when no block exists for the slot (#17202)](https://github.com/OffchainLabs/prysm/commit/7db16fc34183ca84c7d121c42e436ea266e8daf2) - 2026-07-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 
+* [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737853136) - 2026-07-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8015: Move to Draft](https://github.com/ethereum/EIPs/pull/11910#pullrequestreview-4678151626) - 2026-07-11
 ## Q2 2026

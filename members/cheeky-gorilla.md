@@ -20,6 +20,60 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Update Splits URL](https://github.com/protocolguild/documentation/commit/8a97a034bd0ae9d56fda99f95a0d708fcdd8f107) - 2026-07-07
 
 * [Commit] [Merge pull request #515 from leolara/leolara-add-execution-specs-leanspec](https://github.com/protocolguild/documentation/commit/7d71202f94d3aca1fe7eb9108bcbb2abca0d0f8b) - 2026-07-10
+* [Pull Request] [Move Toni from Protocol Prototyping to Protocol Architecture](https://github.com/protocolguild/documentation/pull/530) - 2026-07-20
+* [Pull Request] [Move Maria from RIG to Stateless](https://github.com/protocolguild/documentation/pull/529) - 2026-07-20
+* [Pull Request] [Move Guillaume from Stateless to Geth](https://github.com/protocolguild/documentation/pull/528) - 2026-07-20
+* [Pull Request] [Update Carson to partial weight](https://github.com/protocolguild/documentation/pull/527) - 2026-07-20
+* [Commit] [Update counts](https://github.com/protocolguild/documentation/commit/9327d5a87bab08dc0ea51f54870d3bcfec893707) - 2026-07-20
+* [Commit] [Merge pull request #521 from tersec/add-sam-shum](https://github.com/protocolguild/documentation/commit/e9a3fd0b51bb4e2142512ede1e887d50d25b1708) - 2026-07-20
+* [Commit] [Merge pull request #517 from LukaszRozmej/patch-9](https://github.com/protocolguild/documentation/commit/48dd46075dfd67796c699a98efb3c1aa678ba523) - 2026-07-20
+* [Commit] [Merge branch 'main' into patch-9](https://github.com/protocolguild/documentation/commit/8c0fc5fee7d56e4bdcd08e9a3b9c7bba08fdc1ee) - 2026-07-20
+* [Commit] [Merge pull request #516 from LukaszRozmej/patch-8](https://github.com/protocolguild/documentation/commit/62fb5d5acba8af2b41b51a129be3e803878a6238) - 2026-07-20
+* [Commit] [Merge branch 'main' into patch-8](https://github.com/protocolguild/documentation/commit/4c9ad71c452e6a473bae33fcb7c4b0f708cd605f) - 2026-07-20
+* [Commit] [Merge pull request #510 from 0xMushow/patch-1](https://github.com/protocolguild/documentation/commit/6f9993c43718bb26e825e186a0fccb6b29fc95e8) - 2026-07-20
+* [Commit] [Merge branch 'main' into patch-1](https://github.com/protocolguild/documentation/commit/21f638eda7005ed319ef26558bfb11ae495f2d43) - 2026-07-20
+* [Commit] [Merge pull request #509 from shekhirin/patch-8](https://github.com/protocolguild/documentation/commit/86488c9ab230084e54933e0a9a59b6b085013215) - 2026-07-20
+* [Commit] [Update counts](https://github.com/protocolguild/documentation/commit/56507c740f6e414c6fcc2de90f6d0042807a58f9) - 2026-07-20
+* [Commit] [Merge pull request #507 from shekhirin/patch-9](https://github.com/protocolguild/documentation/commit/93cf63e405c0b92af4051d3ed14f1ac60e816c83) - 2026-07-20
+* [Commit] [Merge pull request #508 from tersec/add-caleb](https://github.com/protocolguild/documentation/commit/2976d441d24135aa824edc2f1c65ea3477fe2a93) - 2026-07-20
+* [Commit] [Fix P2P Networking counts](https://github.com/protocolguild/documentation/commit/faedaf926efee3dbcdf215f7d2e493ff08be403f) - 2026-07-20
+* [Commit] [Merge pull request #530 from protocolguild/cheeky-gorilla-patch-8](https://github.com/protocolguild/documentation/commit/84e02ec54c4fbb8a3b4dbda78e7c5e571b7a5c6a) - 2026-07-20
+* [Commit] [Move Toni from Protocol Prototyping to Protocol Architecture](https://github.com/protocolguild/documentation/commit/a20c728614529b51af305cd2206c2da3819445ba) - 2026-07-20
+* [Commit] [Merge pull request #529 from protocolguild/cheeky-gorilla-patch-7](https://github.com/protocolguild/documentation/commit/2ed2262fe5828f8c1c4187215bf7ca1e418e0963) - 2026-07-20
+* [Commit] [Move Maria from RIG to Stateless](https://github.com/protocolguild/documentation/commit/df5c81965d09fd36b48736ca3a8ef464f5bedcc8) - 2026-07-20
+* [Commit] [Merge pull request #528 from protocolguild/cheeky-gorilla-patch-6](https://github.com/protocolguild/documentation/commit/9d800c30c69cc35652274f3b3a3a5351d43fd847) - 2026-07-20
+* [Commit] [Move Guillaume from Stateless to Geth](https://github.com/protocolguild/documentation/commit/8b28787ba130250e1494a18356b7d15c04b133aa) - 2026-07-20
+* [Commit] [Merge pull request #525 from jtraglia/split-specs-coordination](https://github.com/protocolguild/documentation/commit/d31dfb759c22a6dd784e9f259b39eacd8107f39d) - 2026-07-20
+* [Commit] [Merge branch 'main' into split-specs-coordination](https://github.com/protocolguild/documentation/commit/f77620a7887fa5c5b4a5b31af4759d5d6da6af6c) - 2026-07-20
+* [Commit] [Merge pull request #512 from zilm13/matilda-teku](https://github.com/protocolguild/documentation/commit/fe9a708383fd9e7bfdab76df0ce905a84115ef15) - 2026-07-20
+* [Commit] [Adjust counts](https://github.com/protocolguild/documentation/commit/56f0dde7ef7da21e6c4ec9bcbc9fd65fe10d900f) - 2026-07-20
+* [Commit] [Merge pull request #523 from adietrichs/ansgar-weight-0.5](https://github.com/protocolguild/documentation/commit/98afbf3e8f12543ee4eb283e58504c0637135034) - 2026-07-20
+* [Commit] [Merge branch 'main' into ansgar-weight-0.5](https://github.com/protocolguild/documentation/commit/a03c5e4d97c71dc3179063e71e4f8d9c6021de08) - 2026-07-20
+* [Commit] [Merge pull request #518 from weiihann/main](https://github.com/protocolguild/documentation/commit/bd1764b538d542774461db0843b2b91a84896c37) - 2026-07-20
+* [Commit] [Merge branch 'main' into main](https://github.com/protocolguild/documentation/commit/1d7563e30168bfdb7b47e016206015d1ceb90e9c) - 2026-07-20
+* [Commit] [Merge pull request #522 from kclowes/patch-1](https://github.com/protocolguild/documentation/commit/c2035b6ddc4cf230edb04ea007dc7552bd9b9f82) - 2026-07-20
+* [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/38d892ae52a86adff5e07cefd3e2d19de6605426) - 2026-07-20
+* [Commit] [Merge pull request #520 from Ma-Julian/main](https://github.com/protocolguild/documentation/commit/071a5735b406f5d1d5631989ddd943e4e64f7bff) - 2026-07-20
+* [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/1c9f87b816b1e9c9b3f9d24223ec994aca2d3f58) - 2026-07-20
+* [Commit] [Merge pull request #519 from jrudolf/patch-2](https://github.com/protocolguild/documentation/commit/54f903144d75efd5cd8ce0a4ab8765ab65fad8b1) - 2026-07-20
+* [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/d6d3bfd4b54c12fb84d9ac757e842c35f3d66577) - 2026-07-20
+* [Commit] [Merge pull request #514 from jtraglia/patch-2](https://github.com/protocolguild/documentation/commit/8511d734da465c55400e92c2222588d79e655c13) - 2026-07-20
+* [Commit] [Update 01-membership.md](https://github.com/protocolguild/documentation/commit/f7320dad77c40a3e57e816d345aa820250c399fc) - 2026-07-20
+* [Commit] [Merge pull request #513 from CarlBeek/rm-carl](https://github.com/protocolguild/documentation/commit/2b94c6fdd4a4c4797b419d90ce0fbbedfc1ee040) - 2026-07-20
+* [Commit] [Merge branch 'main' into rm-carl](https://github.com/protocolguild/documentation/commit/2b1b1932fbf4975a7d50ba300173b2ee9212f243) - 2026-07-20
+* [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/80d4c17dddeaa6680b5991ec28219fad0b0e47c4) - 2026-07-20
+* [Commit] [Merge pull request #511 from MarcoPolo/patch-1](https://github.com/protocolguild/documentation/commit/2675b7a5fbbf827f5aa35a740705b3b7016e4e27) - 2026-07-20
+* [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/3974e3bc10a46e8325398aa269317501a6edb6a6) - 2026-07-20
+* [Commit] [Merge pull request #506 from smartprogrammer93/patch-2](https://github.com/protocolguild/documentation/commit/c9f22903ebc585c8db5fa3b00792114d5a4f50c4) - 2026-07-20
+* [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/d29ee1fc8e0092af8aba423e6204bd41626a948e) - 2026-07-20
+* [Commit] [Merge pull request #505 from jwasinger/patch-2](https://github.com/protocolguild/documentation/commit/4a071936c8841c6c7fbbe914f0828ad0faa8f822) - 2026-07-20
+* [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/cf00a1daeff93fe5df7ac3a649b5c4bacbfd2e7e) - 2026-07-20
+* [Commit] [Merge pull request #504 from bharath-123/patch-1](https://github.com/protocolguild/documentation/commit/db611abb85c0c78c73e795d7ba1b56c4c0999bfb) - 2026-07-20
+* [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/db710d8ac90f78786e628f8ac0d19bbef27d4355) - 2026-07-20
+* [Commit] [Merge pull request #503 from s1na/patch-2](https://github.com/protocolguild/documentation/commit/84986671d98cfe8c2441e9fcc19ca0d8f92e833a) - 2026-07-20
+* [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/a3a0b9db3d76b9b48a4e3f38c772747d17eb27f5) - 2026-07-20
+* [Commit] [Merge pull request #502 from mattevans/chore/rm-matty-evans](https://github.com/protocolguild/documentation/commit/884d96a4a33ba77131b68142025b58b8a661e942) - 2026-07-20
+* [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/69a3c2fba24a060959aae5362c8842b792a4f608) - 2026-07-20
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/e6b14d7ca4339655efae86d7ad13a05fb14f43ee) - 2026-07-07
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/575f773fb569863447ec1e75d194b1ab0a05f41f) - 2026-07-07

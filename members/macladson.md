@@ -18,6 +18,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Pull Request] [Add metrics for fork choice lock hold times](https://github.com/sigp/lighthouse/pull/9614) - 2026-07-10
 * [Review] [Review on: Implement super batch signature verification (PoC)](https://github.com/sigp/lighthouse/pull/9521#pullrequestreview-4694260808) - 2026-07-14
 * [Pull Request] [Support trigger-based attesatation batch verification](https://github.com/sigp/lighthouse/pull/9641) - 2026-07-15
+* [Review] [Review on: Use branchless swaps in swap-or-not shuffling](https://github.com/sigp/lighthouse/pull/9630#pullrequestreview-4736783386) - 2026-07-20
 ## Q2 2026
 
 

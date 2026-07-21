@@ -20,6 +20,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [cmd/devp2p/internal/ethtest: add osaka testdata and eth/72 tests](https://github.com/ethereum/go-ethereum/pull/35368) - 2026-07-15
 * [Pull Request] [core/txpool: add blocked transaction size cap](https://github.com/ethereum/go-ethereum/pull/35367) - 2026-07-15
 * [Commit] [core/txpool/blobpool, eth: implement sparse blobpool (#34047)](https://github.com/ethereum/go-ethereum/commit/d91b71fb3627253537c2144a1d174dab871fec3c) - 2026-07-15
+* [Review] [Review on: core/txpool/blobpool: serialize legacy data conversions](https://github.com/ethereum/go-ethereum/pull/35387#pullrequestreview-4737290071) - 2026-07-20
+* [Review] [Review on: eth/protocols/eth: track announced tx hashes only after send, again](https://github.com/ethereum/go-ethereum/pull/35384#pullrequestreview-4735439923) - 2026-07-20
 ## Q2 2026
 
 

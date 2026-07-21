@@ -17,6 +17,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Update consensus name from 'Heka' to 'Heze'](https://github.com/ethereum/pm/commit/d8c61033d7f0904eaa96c75f6cec2800cc26836e) - 2026-07-16
 * [Commit] [Merge pull request #2163 from ethereum/nixorokish-patch-6](https://github.com/ethereum/pm/commit/7dd21f34e3408d4caaff614e4630ecc6594e43f6) - 2026-07-16
 * [Commit] [add all forks json](https://github.com/ethereum/pm/commit/11635451a547dc5e411066aa3df871eaf3d74099) - 2026-07-16
+* [Issue] [All Core Devs - Execution (ACDE) #242, July 30, 2026](https://github.com/ethereum/pm/issues/2166) - 2026-07-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8081: PFI EIP-7862](https://github.com/ethereum/EIPs/pull/11934) - 2026-07-16
 * [Review] [Review on: Update EIP-8081: Add EIP-8304 as PFI](https://github.com/ethereum/EIPs/pull/11933#pullrequestreview-4710414761) - 2026-07-16
@@ -25,6 +26,9 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Update EIP-8081: Propose EIP-8298 for inclusion](https://github.com/ethereum/EIPs/pull/11881#pullrequestreview-4710365143) - 2026-07-16
 * [Review] [Review on: Update EIP-7723: Update Upgrade Meta EIP handling process](https://github.com/ethereum/EIPs/pull/11904#pullrequestreview-4710323786) - 2026-07-16
 * [Commit] [Update EIP-8081: PFI EIP-7862](https://github.com/ethereum/EIPs/commit/ed96a02e0ff734e4dd6e6ac25c06b986c05b7f9e) - 2026-07-16
+* [Pull Request] [Update EIP-8081: PFI EIP-8268](https://github.com/ethereum/EIPs/pull/11977) - 2026-07-20
+* [Review] [Review on: Update EIP-8081: Propose EIP-2488 and EIP-7645 for inclusion](https://github.com/ethereum/EIPs/pull/11793#pullrequestreview-4738571610) - 2026-07-20
+* [Commit] [Update EIP-8081: PFI EIP-8268](https://github.com/ethereum/EIPs/commit/625ec7821972c0888b03307e8c76b1963bc8a63e) - 2026-07-20
 ## Q2 2026
 
 

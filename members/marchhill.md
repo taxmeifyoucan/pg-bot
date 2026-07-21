@@ -60,6 +60,11 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Fix eth/70 receipt validation for EIP-2780](https://github.com/NethermindEth/nethermind/pull/12462#pullrequestreview-4704664999) - 2026-07-15
 * [Review] [Review on: Fix EIP-2780 gas after sender recovery](https://github.com/NethermindEth/nethermind/pull/12459#pullrequestreview-4722114538) - 2026-07-17
 * [Review] [Review on: Add versioned engine_newPayloadWithWitness methods](https://github.com/NethermindEth/nethermind/pull/12464#pullrequestreview-4722089156) - 2026-07-17
+* [Pull Request] [[WIP] EIP-8288 - Frame type for PQ sig and STARK aggregation](https://github.com/NethermindEth/nethermind/pull/12513) - 2026-07-21
+* [Pull Request] [fix(rpc): align eth_getBlockAccessList and engine payload bodies V2 with execution-apis spec](https://github.com/NethermindEth/nethermind/pull/12504) - 2026-07-20
+* [Review] [Review on: fix(rpc): align eth_getBlockAccessList and engine payload bodies V2 with execution-apis spec](https://github.com/NethermindEth/nethermind/pull/12504#pullrequestreview-4735972552) - 2026-07-20
+* [Review] [Review on: Devnet-7 tests and repricing](https://github.com/NethermindEth/nethermind/pull/12476#pullrequestreview-4734697742) - 2026-07-20
+* [Commit] [fix(rpc): align eth_getBlockAccessList and engine payload bodies V2 with execution-apis spec (#12504)](https://github.com/NethermindEth/nethermind/commit/b9a78be3cd331e395a37b2bcca870700ba0d5aae) - 2026-07-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

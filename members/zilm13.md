@@ -35,6 +35,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on:   Return 204 for producePayloadAttestationData when no block seen at slot](https://github.com/Consensys/teku/pull/10965#pullrequestreview-4706094302) - 2026-07-15
 * [Review] [Review on: Warm Gradle dependencies for CI test shards](https://github.com/Consensys/teku/pull/10977#pullrequestreview-4705227765) - 2026-07-15
 * [Review] [Review on:   Return 204 for producePayloadAttestationData when no block seen at slot](https://github.com/Consensys/teku/pull/10965#pullrequestreview-4712103185) - 2026-07-16
+* [Pull Request] [Fast Confirmation Rule Utilities part 1](https://github.com/Consensys/teku/pull/10984) - 2026-07-20
+* [Review] [Review on: Fast Confirmation Rule Utilities part 1](https://github.com/Consensys/teku/pull/10984#pullrequestreview-4734774628) - 2026-07-20
+* [Review] [Review on: Additional 7688 validations and GLOAS ref test enabling](https://github.com/Consensys/teku/pull/10983#pullrequestreview-4734898566) - 2026-07-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

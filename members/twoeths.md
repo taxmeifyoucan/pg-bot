@@ -42,6 +42,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: implement EIP 7688](https://github.com/ChainSafe/lodestar/pull/9390#pullrequestreview-4719132241) - 2026-07-17
 * [Pull Request] [chore: review eip-7688 branch](https://github.com/ChainSafe/lodestar/pull/9671) - 2026-07-17
 * [Review] [Review on: chore: review eip-7688 branch](https://github.com/ChainSafe/lodestar/pull/9671#pullrequestreview-4720770711) - 2026-07-17
+* [Review] [Review on: fix: scan all proto array nodes when counting payload reveals](https://github.com/ChainSafe/lodestar/pull/9676#pullrequestreview-4733030684) - 2026-07-20
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02
@@ -49,6 +50,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(beacon-node): add block state cache and checkpoint datastore](https://github.com/ChainSafe/lodestar-z/pull/452#pullrequestreview-4651785640) - 2026-07-08
 * [Review] [Review on: revert: refactor(clock): single public Clock; internalize SlotClock](https://github.com/ChainSafe/lodestar-z/pull/489#pullrequestreview-4701384389) - 2026-07-15
 
+* [Review] [Review on: docs: more comprehensive AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/520#pullrequestreview-4733488478) - 2026-07-20
+* [Review] [Review on: fix(state-transition): group-check signature sets](https://github.com/ChainSafe/lodestar-z/pull/515#pullrequestreview-4733841830) - 2026-07-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix payload availability lookup for attestations to skipped slots](https://github.com/ethereum/consensus-specs/pull/5442#pullrequestreview-4710081193) - 2026-07-16
 ## Q2 2026

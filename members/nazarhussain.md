@@ -39,6 +39,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add peer manager internals metrics and dashboard (#9523)](https://github.com/ChainSafe/lodestar/commit/67b1b61d1bc3093c120d5b8e9799e37fe33b9402) - 2026-07-09
 * [Pull Request] [chore: replace ts-node with tsx for running TypeScript](https://github.com/ChainSafe/lodestar/pull/9635) - 2026-07-10
 * [Commit] [chore: clean up fork choice dashboard config (#9561)](https://github.com/ChainSafe/lodestar/commit/9ed373bf567fc1f9b1f31e3c263ed9f09336fa8c) - 2026-07-10
+* [Pull Request] [feat: disable fast confirmation rule while syncing](https://github.com/ChainSafe/lodestar/pull/9681) - 2026-07-20
+* [Review] [Review on: feat: disable fast confirmation rule while syncing](https://github.com/ChainSafe/lodestar/pull/9681#pullrequestreview-4733772006) - 2026-07-20
 ## Q2 2026
 
 

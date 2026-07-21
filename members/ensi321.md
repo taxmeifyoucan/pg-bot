@@ -45,12 +45,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Proposer boost wrongly denied: dependent-root gate uses stale cached head across epoch-boundary ticks](https://github.com/ChainSafe/lodestar/issues/9666) - 2026-07-16
 * [Review] [Review on: perf: improve process_attestation() for gloas](https://github.com/ChainSafe/lodestar/pull/9664#pullrequestreview-4727260089) - 2026-07-18
 * [Issue] [Address post-merge review for #9598](https://github.com/ChainSafe/lodestar/issues/9678) - 2026-07-18
+* [Review] [Review on: feat: implement EIP 7688](https://github.com/ChainSafe/lodestar/pull/9390#pullrequestreview-4740254418) - 2026-07-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09
 * [Review] [Review on: Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441#pullrequestreview-4660279245) - 2026-07-09
 * [Commit] [Add fork-choice tests for `should_apply_proposer_boost` (#5441)](https://github.com/ethereum/consensus-specs/commit/83d3d918ac69a4b57137268a96c20f1dc909001e) - 2026-07-09
 
+* [Pull Request] [Add response validation for `InclusionListsByIndices`](https://github.com/ethereum/consensus-specs/pull/5461) - 2026-07-21
+* [Pull Request] [Add more checks to `on_inclusion_list`](https://github.com/ethereum/consensus-specs/pull/5460) - 2026-07-21
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [DataColumnsByRange decodes pre-fork sidecar with wrong fork at a skip-slot boundary](https://github.com/sigp/lighthouse/issues/9638) - 2026-07-15
 

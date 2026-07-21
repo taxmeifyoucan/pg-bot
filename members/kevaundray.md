@@ -15,12 +15,15 @@ Team: Consensus R&D (EF)
 * [Pull Request] [Add EIP: Hash-Chain RANDAO](https://github.com/ethereum/EIPs/pull/11861) - 2026-07-05
 * [Review] [Review on: Add EIP: Hash-Chain RANDAO](https://github.com/ethereum/EIPs/pull/11861#pullrequestreview-4634916366) - 2026-07-06
 
+* [Pull Request] [Update EIP-8297: 8297](https://github.com/ethereum/EIPs/pull/11978) - 2026-07-20
+* [Review] [Review on: Update EIP-8297: 8297](https://github.com/ethereum/EIPs/pull/11978#pullrequestreview-4739390633) - 2026-07-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716803581) - 2026-07-16
+* [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737690816) - 2026-07-20
 ## Q2 2026
 
 

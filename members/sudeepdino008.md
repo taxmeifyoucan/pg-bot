@@ -51,6 +51,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl: remove log.Debug from `loop` in `processResponses` ](https://github.com/erigontech/erigon/pull/22483#pullrequestreview-4700865703) - 2026-07-15
 * [Review] [Review on: agg: reduce size of `InvertedIndexRoTx` object](https://github.com/erigontech/erigon/pull/22482#pullrequestreview-4700823491) - 2026-07-15
 * [Review] [Review on: agg: remove unused fields](https://github.com/erigontech/erigon/pull/22480#pullrequestreview-4700903815) - 2026-07-15
+* [Review] [Review on: rlp: add Stream.ReadHash for topics and storage keys](https://github.com/erigontech/erigon/pull/22591#pullrequestreview-4733969875) - 2026-07-20
+* [Pull Request] [db/state/statecfg: bump accounts history .v/.ef to v2.1/v3.1](https://github.com/erigontech/erigon/pull/22600) - 2026-07-20
+* [Review] [Review on: db/state: omit no-op deletes of absent keys in DomainDel](https://github.com/erigontech/erigon/pull/22437#pullrequestreview-4732322238) - 2026-07-20
+* [Review] [Review on: execution/commitment: stop heap-allocating leaf hash header buffers](https://github.com/erigontech/erigon/pull/22586#pullrequestreview-4732786592) - 2026-07-20
+* [Review] [Review on: db/state: stop domain collation tests from pinning the accounts file version](https://github.com/erigontech/erigon/pull/22602#pullrequestreview-4733552299) - 2026-07-20
+* [Review] [Review on: enr: cut ENR decode allocations](https://github.com/erigontech/erigon/pull/22587#pullrequestreview-4732910578) - 2026-07-20
+* [Pull Request] [execution/commitment, db/state: experimental deembedded commitment layout](https://github.com/erigontech/erigon/pull/22601) - 2026-07-20
+* [Review] [Review on: execution/rlp: decode string fields through ViewBytes](https://github.com/erigontech/erigon/pull/22589#pullrequestreview-4732904354) - 2026-07-20
+* [Commit] [db/state/statecfg: bump accounts history .v/.ef to v2.1/v3.1 (#22600)](https://github.com/erigontech/erigon/commit/4e0f098ec55a6090b7c01fe4629defad01c9e39e) - 2026-07-20
+* [Commit] [db/state: omit no-op deletes of absent keys in DomainDel (#22437)](https://github.com/erigontech/erigon/commit/f80a81eaea7afa18ee001b5e1c50027ec7deedb3) - 2026-07-20
 ## Q2 2026
 
 

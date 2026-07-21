@@ -37,6 +37,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Node jobs endpoint](https://github.com/OffchainLabs/prysm/pull/17194) - 2026-07-16
 * [Review] [Review on: fix(e2e): serialize fixed-port postsubmit targets](https://github.com/OffchainLabs/prysm/pull/17190#pullrequestreview-4712488526) - 2026-07-16
 * [Review] [Review on: Return envelope publish after broadcast, import in background](https://github.com/OffchainLabs/prysm/pull/17198#pullrequestreview-4723520811) - 2026-07-17
+* [Review] [Review on: Skip payload attestation quietly when no block exists for the slot](https://github.com/OffchainLabs/prysm/pull/17202#pullrequestreview-4732959520) - 2026-07-20
 ## Q2 2026
 
 

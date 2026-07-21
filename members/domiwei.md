@@ -45,6 +45,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/block_collector: reuse encode buffers in PersistentBlockCollector](https://github.com/erigontech/erigon/pull/22485#pullrequestreview-4702117670) - 2026-07-15
 * [Review] [Review on: cl/merkle_tree: stack-allocate HashTreeRoot leaf buffer](https://github.com/erigontech/erigon/pull/22486#pullrequestreview-4702068937) - 2026-07-15
 * [Review] [Review on: disc5: move heavy logging behind `trace bool` field](https://github.com/erigontech/erigon/pull/22488#pullrequestreview-4702185044) - 2026-07-15
+* [Pull Request] [cl/beacon: handle empty Fulu builder response](https://github.com/erigontech/erigon/pull/22606) - 2026-07-20
+* [Issue] [Caplin custom devnets should support explicit CL bootnodes without inheriting mainnet defaults](https://github.com/erigontech/erigon/issues/22597) - 2026-07-20
+* [Issue] [cl/beacon: Fulu blinded block submission panics on nil execution payload](https://github.com/erigontech/erigon/issues/22598) - 2026-07-20
 ## Q2 2026
 
 

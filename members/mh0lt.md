@@ -34,6 +34,13 @@ Team: Erigon
 * [Review] [Review on: execution/state: cache-free parallel execution via versionMap unification (noMaterialize) + warm-read caching](https://github.com/erigontech/erigon/pull/22409#pullrequestreview-4721991274) - 2026-07-17
 * [Issue] [db/kv, db/state: add an additive RangeReader interface and fold in the harness range machinery](https://github.com/erigontech/erigon/issues/22550) - 2026-07-17
 * [Review] [Review on: [wip] execution/commitment: fix parallel commitment wrong trie root (re-land #22257 + storage-fold nav path fix)](https://github.com/erigontech/erigon/pull/22495#pullrequestreview-4730638517) - 2026-07-19
+* [Review] [Review on: exec: reuse IntraBlockState map capacity across Reset](https://github.com/erigontech/erigon/pull/22578#pullrequestreview-4733826447) - 2026-07-20
+* [Review] [Review on: exec: return version-map cells to their pools at block end](https://github.com/erigontech/erigon/pull/22577#pullrequestreview-4733826342) - 2026-07-20
+* [Review] [Review on: commitment: preserve account load flags across storage folds](https://github.com/erigontech/erigon/pull/22604#pullrequestreview-4734589177) - 2026-07-20
+* [Review] [Review on: exec: return block-finalize IntraBlockState to the stateObject pool](https://github.com/erigontech/erigon/pull/22574#pullrequestreview-4733824872) - 2026-07-20
+* [Review] [Review on: exec: return system-tx IntraBlockState to the stateObject pool](https://github.com/erigontech/erigon/pull/22573#pullrequestreview-4733824764) - 2026-07-20
+* [Review] [Review on: execution, rpc: release IntraBlockState in unit tests](https://github.com/erigontech/erigon/pull/22582#pullrequestreview-4733828871) - 2026-07-20
+* [Review] [Review on: exec: return the displaced write set when merging finalize writes](https://github.com/erigontech/erigon/pull/22579#pullrequestreview-4733828773) - 2026-07-20
 ## Q2 2026
 
 

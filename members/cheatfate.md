@@ -8,6 +8,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 ## Contributions
 
+## Q3 2026
+
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Review] [Review on: Add verifier error for payload](https://github.com/status-im/nimbus-eth2/pull/8778#pullrequestreview-4734897952) - 2026-07-20
 ## Q2 2026
 
 

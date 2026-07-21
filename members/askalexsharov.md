@@ -325,6 +325,52 @@ Team: Erigon
 * [Issue] [oom during dao-attack exec](https://github.com/erigontech/erigon/issues/22580) - 2026-07-19
 * [Commit] [db/kv/temporal: stop retaining iterators on the tx (#22581)](https://github.com/erigontech/erigon/commit/b0c2a12b3479b50e97912a8f498bc26ca19f6a1f) - 2026-07-19
 * [Commit] [[wip] execution/commitment: fix parallel commitment wrong trie root (re-land #22257 + storage-fold nav path fix) (#22495)](https://github.com/erigontech/erigon/commit/aa0b6f86ea19b21eb34d277dcfeb9a27df020e2f) - 2026-07-19
+* [Review] [Review on: ci: update hive version to latest commit with pre-staged fixtures support](https://github.com/erigontech/erigon/pull/22611#pullrequestreview-4740548336) - 2026-07-21
+* [Review] [Review on: rpc: refactor api config in separate pkg](https://github.com/erigontech/erigon/pull/22609#pullrequestreview-4740065328) - 2026-07-21
+* [Review] [Review on: exec: reuse IntraBlockState map capacity across Reset](https://github.com/erigontech/erigon/pull/22578#pullrequestreview-4732184562) - 2026-07-20
+* [Pull Request] [rlp: ReceiptForStorage decode without reflection](https://github.com/erigontech/erigon/pull/22584) - 2026-07-20
+* [Review] [Review on: rlp: ReceiptForStorage decode without reflection](https://github.com/erigontech/erigon/pull/22584#pullrequestreview-4731933460) - 2026-07-20
+* [Pull Request] [rlp: add Stream.ReadHash for topics and storage keys](https://github.com/erigontech/erigon/pull/22591) - 2026-07-20
+* [Review] [Review on: rlp: add Stream.ReadHash for topics and storage keys](https://github.com/erigontech/erigon/pull/22591#pullrequestreview-4732291650) - 2026-07-20
+* [Review] [Review on: exec: return version-map cells to their pools at block end](https://github.com/erigontech/erigon/pull/22577#pullrequestreview-4732310651) - 2026-07-20
+* [Review] [Review on: docs(hardware): make disk sizes static (fix versioned-docs drift)](https://github.com/erigontech/erigon/pull/22596#pullrequestreview-4733193057) - 2026-07-20
+* [Review] [Review on: commitment: preserve account load flags across storage folds](https://github.com/erigontech/erigon/pull/22604#pullrequestreview-4734173133) - 2026-07-20
+* [Pull Request] [cl/block_collector, execution/types: decode only the header in Flush](https://github.com/erigontech/erigon/pull/22605) - 2026-07-20
+* [Pull Request] [execution, p2p, rules: pass structs to rlp.Encode by pointer](https://github.com/erigontech/erigon/pull/22599) - 2026-07-20
+* [Review] [Review on: execution, p2p, rules: pass structs to rlp.Encode by pointer](https://github.com/erigontech/erigon/pull/22599#pullrequestreview-4733456890) - 2026-07-20
+* [Review] [Review on: db/state/statecfg: bump accounts history .v/.ef to v2.1/v3.1](https://github.com/erigontech/erigon/pull/22600#pullrequestreview-4733431321) - 2026-07-20
+* [Pull Request] [trace: stop debug printf from forcing heap allocs](https://github.com/erigontech/erigon/pull/22588) - 2026-07-20
+* [Review] [Review on: trace: stop debug printf from forcing heap allocs](https://github.com/erigontech/erigon/pull/22588#pullrequestreview-4732091519) - 2026-07-20
+* [Review] [Review on: execution, rpc: release IntraBlockState in unit tests](https://github.com/erigontech/erigon/pull/22582#pullrequestreview-4732331696) - 2026-07-20
+* [Review] [Review on: db/state: omit no-op deletes of absent keys in DomainDel](https://github.com/erigontech/erigon/pull/22437#pullrequestreview-4733325904) - 2026-07-20
+* [Pull Request] [consensus: propagate state errors from rewards and withdrawals](https://github.com/erigontech/erigon/pull/22593) - 2026-07-20
+* [Review] [Review on: consensus: propagate state errors from rewards and withdrawals](https://github.com/erigontech/erigon/pull/22593#pullrequestreview-4732447601) - 2026-07-20
+* [Pull Request] [execution/commitment: stop heap-allocating leaf hash header buffers](https://github.com/erigontech/erigon/pull/22586) - 2026-07-20
+* [Review] [Review on: execution/commitment: stop heap-allocating leaf hash header buffers](https://github.com/erigontech/erigon/pull/22586#pullrequestreview-4731988893) - 2026-07-20
+* [Pull Request] [db/state: stop domain collation tests from pinning the accounts file version](https://github.com/erigontech/erigon/pull/22602) - 2026-07-20
+* [Pull Request] [enr: cut ENR decode allocations](https://github.com/erigontech/erigon/pull/22587) - 2026-07-20
+* [Review] [Review on: enr: cut ENR decode allocations](https://github.com/erigontech/erigon/pull/22587#pullrequestreview-4732046438) - 2026-07-20
+* [Pull Request] [rlp: fast-path slice-backed streams in readFull, readByte and ViewBytes](https://github.com/erigontech/erigon/pull/22595) - 2026-07-20
+* [Review] [Review on: rlp: fast-path slice-backed streams in readFull, readByte and ViewBytes](https://github.com/erigontech/erigon/pull/22595#pullrequestreview-4733201045) - 2026-07-20
+* [Pull Request] [execution/rlp: decode string fields through ViewBytes](https://github.com/erigontech/erigon/pull/22589) - 2026-07-20
+* [Review] [Review on: execution/rlp: decode string fields through ViewBytes](https://github.com/erigontech/erigon/pull/22589#pullrequestreview-4732226361) - 2026-07-20
+* [Pull Request] [consensus: propagate state errors from balance updates](https://github.com/erigontech/erigon/pull/22592) - 2026-07-20
+* [Review] [Review on: consensus: propagate state errors from balance updates](https://github.com/erigontech/erigon/pull/22592#pullrequestreview-4732283229) - 2026-07-20
+* [Pull Request] [rlp: use Stream.Addr for address decodes; stop escaping Authorization](https://github.com/erigontech/erigon/pull/22590) - 2026-07-20
+* [Review] [Review on: rlp: use Stream.Addr for address decodes; stop escaping Authorization](https://github.com/erigontech/erigon/pull/22590#pullrequestreview-4732202987) - 2026-07-20
+* [Pull Request] [rlp: receipt.RLPEncode for consensus hand-craft](https://github.com/erigontech/erigon/pull/22594) - 2026-07-20
+* [Review] [Review on: rlp: receipt.RLPEncode for consensus hand-craft](https://github.com/erigontech/erigon/pull/22594#pullrequestreview-4732466025) - 2026-07-20
+* [Review] [Review on: rpc: allow eth_getProof at genesis block](https://github.com/erigontech/erigon/pull/22552#pullrequestreview-4732178357) - 2026-07-20
+* [Commit] [exec: reuse IntraBlockState map capacity across Reset (#22578)](https://github.com/erigontech/erigon/commit/7c08b4c6ac5e69c62e7e9e9043962b8b3cbfdb3f) - 2026-07-20
+* [Commit] [rlp: ReceiptForStorage decode without reflection (#22584)](https://github.com/erigontech/erigon/commit/7f3c4cebfb25c787d810828e2493c5fc72f267f7) - 2026-07-20
+* [Commit] [exec: return block-finalize IntraBlockState to the stateObject pool (#22574)](https://github.com/erigontech/erigon/commit/82e37b83ad36d3bcadff4c8d0a1182c2b907b3e4) - 2026-07-20
+* [Commit] [exec: return system-tx IntraBlockState to the stateObject pool (#22573)](https://github.com/erigontech/erigon/commit/bd8ec12d72c25411ecbe2e790810c76c72b96d0f) - 2026-07-20
+* [Commit] [execution, rpc: release IntraBlockState in unit tests (#22582)](https://github.com/erigontech/erigon/commit/1f965af17b540b15f37fdc40f2d7e94f9f46c01b) - 2026-07-20
+* [Commit] [trace: stop debug printf from forcing heap allocs (#22588)](https://github.com/erigontech/erigon/commit/dc632336e71485609ad88d3e8f150bc6c53fcacc) - 2026-07-20
+* [Commit] [consensus: propagate state errors from rewards and withdrawals (#22593)](https://github.com/erigontech/erigon/commit/5597ce101358c9d4c8d818e4fcb3d78fcd88d0c9) - 2026-07-20
+* [Commit] [execution/commitment: stop heap-allocating leaf hash header buffers (#22586)](https://github.com/erigontech/erigon/commit/fca8a2cbf255bba9d6b95445fb219a04fd18053f) - 2026-07-20
+* [Commit] [execution/rlp: decode string fields through ViewBytes (#22589)](https://github.com/erigontech/erigon/commit/773ad86f483776d54f9fdb07e3733ece305a4035) - 2026-07-20
+* [Commit] [consensus: propagate state errors from balance updates (#22592)](https://github.com/erigontech/erigon/commit/a9f92ecd7da406c7ada41805444b79f5ac5e84e3) - 2026-07-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

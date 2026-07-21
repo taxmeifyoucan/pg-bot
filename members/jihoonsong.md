@@ -32,6 +32,10 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Specify rep/resp for inclusion lists](https://github.com/ethereum/consensus-specs/pull/5424#pullrequestreview-4703413702) - 2026-07-15
 * [Commit] [Remove a stale comment for builder withdrawal prefix (#5450)](https://github.com/ethereum/consensus-specs/commit/8c12caee279d77b322446d33440b37479117dcde) - 2026-07-15
 * [Commit] [Specify rep/resp for inclusion lists (#5424)](https://github.com/ethereum/consensus-specs/commit/4413725d4f4452dfc9009dcc82e7055bbbb46196) - 2026-07-15
+* [Pull Request] [Add p2p helper functions for epoch inclusivity check](https://github.com/ethereum/consensus-specs/pull/5459) - 2026-07-20
+* [Pull Request] [Add a subsection for IL satisfaction in optimistic.md](https://github.com/ethereum/consensus-specs/pull/5458) - 2026-07-20
+* [Commit] [Add p2p helper functions for epoch inclusivity check (#5459)](https://github.com/ethereum/consensus-specs/commit/a82d5a2f989085031d5c1843afc00954b88cd1e6) - 2026-07-20
+* [Commit] [Add a subsection for IL satisfaction in optimistic.md (#5458)](https://github.com/ethereum/consensus-specs/commit/08e7a8ba700ccfb6829c7a79004e27b006d9215e) - 2026-07-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

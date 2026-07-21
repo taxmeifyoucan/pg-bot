@@ -67,11 +67,21 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add `safe_execution_block_hash` property to FCR tests](https://github.com/ethereum/consensus-specs/pull/5449#pullrequestreview-4700680803) - 2026-07-15
 * [Review] [Review on: Specify rep/resp for inclusion lists](https://github.com/ethereum/consensus-specs/pull/5424#pullrequestreview-4700744145) - 2026-07-15
 * [Review] [Review on: Add `safe_execution_block_hash` property to FCR tests](https://github.com/ethereum/consensus-specs/pull/5449#pullrequestreview-4710885726) - 2026-07-16
+* [Review] [Review on: Add p2p helper functions for epoch inclusivity check](https://github.com/ethereum/consensus-specs/pull/5459#pullrequestreview-4738050235) - 2026-07-20
+* [Review] [Review on: Add a subsection for IL satisfaction in optimistic.md](https://github.com/ethereum/consensus-specs/pull/5458#pullrequestreview-4737888964) - 2026-07-20
+* [Review] [Review on: Fix typo in pending deposit comments](https://github.com/ethereum/consensus-specs/pull/5448#pullrequestreview-4735033802) - 2026-07-20
+* [Review] [Review on: Update pypa/gh-action-pypi-publish action to v1.14.1](https://github.com/ethereum/consensus-specs/pull/5455#pullrequestreview-4735022412) - 2026-07-20
+* [Review] [Review on: Update dependency mkdocs-material to v9.7.7](https://github.com/ethereum/consensus-specs/pull/5454#pullrequestreview-4734962276) - 2026-07-20
+* [Review] [Review on: Update dependency mypy to v2.3.0](https://github.com/ethereum/consensus-specs/pull/5456#pullrequestreview-4734927840) - 2026-07-20
+* [Review] [Review on: Update dependency codespell to v2.4.3](https://github.com/ethereum/consensus-specs/pull/5453#pullrequestreview-4734874260) - 2026-07-20
+* [Issue] [Explore using Zensical for website](https://github.com/ethereum/consensus-specs/issues/5457) - 2026-07-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
 
 * [Pull Request] [Split specs & coordination groups](https://github.com/protocolguild/documentation/pull/525) - 2026-07-16
+* [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4735058364) - 2026-07-20
+* [Review] [Review on: Add Francesco Risitano from zkEVM](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4735060491) - 2026-07-20
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: fix: apply gossip clock disparity to execution payload bid slot validation](https://github.com/ChainSafe/lodestar/pull/9627#pullrequestreview-4663120196) - 2026-07-09
 

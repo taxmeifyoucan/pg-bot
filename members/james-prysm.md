@@ -85,6 +85,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Return envelope publish after broadcast, import in background](https://github.com/OffchainLabs/prysm/pull/17198#pullrequestreview-4719400736) - 2026-07-17
 * [Review] [Review on: `TestStatusRPCRequest_FinalizedBlockSkippedSlots`:  Avoid panic if the stream handler is invoked more than once, by avoiding `wg.Done` to lead to a negative counter.](https://github.com/OffchainLabs/prysm/pull/17197#pullrequestreview-4723873776) - 2026-07-17
 * [Commit] [improve logs when not actually exiting just protducing the exit files (#17177)](https://github.com/OffchainLabs/prysm/commit/15a1ff6e5eb9c489fe408c52143d85087ab73015) - 2026-07-17
+* [Pull Request] [overflow bid fix](https://github.com/OffchainLabs/prysm/pull/17207) - 2026-07-20
+* [Review] [Review on: Mark pending payload envelope seen only after successful import](https://github.com/OffchainLabs/prysm/pull/17206#pullrequestreview-4738684434) - 2026-07-20
+* [Pull Request] [poc jit builder settings](https://github.com/OffchainLabs/prysm/pull/17205) - 2026-07-20
+* [Review] [Review on: Implement the active-active mode in the REST validator client.](https://github.com/OffchainLabs/prysm/pull/17075#pullrequestreview-4736050464) - 2026-07-20
 ## Q2 2026
 
 

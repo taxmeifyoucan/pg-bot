@@ -58,6 +58,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[WIP] publish SYNCING event on sync state changes](https://github.com/erigontech/erigon/pull/22570) - 2026-07-18
 * [Pull Request] [cmd/utils/app, node/debug: fix --config not applied to subcommands](https://github.com/erigontech/erigon/pull/22546) - 2026-07-19
 * [Commit] [cmd/utils/app, node/debug: fix --config not applied to subcommands (#22546)](https://github.com/erigontech/erigon/commit/9ddd4296dc009d233eaa8f8acd1d2a1d27d94dc6) - 2026-07-19
+* [Pull Request] [rpc: refactor api config in separate pkg](https://github.com/erigontech/erigon/pull/22609) - 2026-07-20
+* [Review] [Review on: node, rpc: event-driven eth_subscribe("syncing")](https://github.com/erigontech/erigon/pull/22570#pullrequestreview-4738207514) - 2026-07-20
+* [Commit] [rpc: allow eth_getProof at genesis block (#22552)](https://github.com/erigontech/erigon/commit/4740bc227c058275dee1d96faf4ce09bf1a0e766) - 2026-07-20
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

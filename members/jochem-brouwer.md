@@ -48,6 +48,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Validated EVM Code](https://github.com/ethereum/EIPs/pull/11922#pullrequestreview-4696359890) - 2026-07-14
 * [Review] [Review on: Add EIP: Trustless log and transaction index](https://github.com/ethereum/EIPs/pull/11811#pullrequestreview-4696569640) - 2026-07-14
 * [Pull Request] [Update EIP-8038: remove circular EIP-8037 dependency, reuse canonical gas symbols](https://github.com/ethereum/EIPs/pull/11927) - 2026-07-14
+* [Review] [Review on: CI: Grab latest version of eipw.](https://github.com/ethereum/EIPs/pull/11916#pullrequestreview-4738409650) - 2026-07-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03

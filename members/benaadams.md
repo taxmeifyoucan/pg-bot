@@ -92,6 +92,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: refactor: remove unused IFlatDbManager.ReorgBoundaryReached](https://github.com/NethermindEth/nethermind/pull/12496#pullrequestreview-4731852081) - 2026-07-20
 * [Review] [Review on: Demote per-block tx selection logs from Debug to Trace](https://github.com/NethermindEth/nethermind/pull/12482#pullrequestreview-4731777484) - 2026-07-20
 * [Review] [Review on: Update 1.39.2](https://github.com/NethermindEth/nethermind/pull/12491#pullrequestreview-4731186955) - 2026-07-19
+* [Pull Request] [perf(rpc): use Content-Length for unbuffered HTTP/1.1 responses and drop the Server header](https://github.com/NethermindEth/nethermind/pull/12514) - 2026-07-21
+* [Review] [Review on: perf(engine): overlap tree insert with sender recovery](https://github.com/NethermindEth/nethermind/pull/12492#pullrequestreview-4734823909) - 2026-07-20
+* [Review] [Review on: Skip throwaway RLP encoding in state tree bulk writes](https://github.com/NethermindEth/nethermind/pull/12501#pullrequestreview-4734419555) - 2026-07-20
+* [Pull Request] [perf(evm): remove ZeroPaddedSpan in favor of exact slices and zero-extended copy](https://github.com/NethermindEth/nethermind/pull/12508) - 2026-07-20
+* [Review] [Review on: Skip redundant output allocation in transaction processing](https://github.com/NethermindEth/nethermind/pull/12503#pullrequestreview-4734700316) - 2026-07-20
+* [Review] [Review on: Eliminate closure in signature recovery](https://github.com/NethermindEth/nethermind/pull/12502#pullrequestreview-4734426955) - 2026-07-20
+* [Pull Request] [perf(merge): pass an explicit LOH budget to the no-GC region](https://github.com/NethermindEth/nethermind/pull/12499) - 2026-07-20
+* [Commit] [perf(evm): remove ZeroPaddedSpan in favor of exact slices and zero-extended copy (#12508)](https://github.com/NethermindEth/nethermind/commit/51af9f1a3d3b82f4f25f265e429e30b780ad1e59) - 2026-07-20
+* [Commit] [perf(merge): pass an explicit LOH budget to the no-GC region (#12499)](https://github.com/NethermindEth/nethermind/commit/dde28b33f25341c7585659fc02dbe2377b008b24) - 2026-07-20
+* [Commit] [perf(state): cache WorldState's OnAccountUpdated handler (#12494)](https://github.com/NethermindEth/nethermind/commit/ce39a7d808089e86d6f1fdee42dd7b7b38be7e2c) - 2026-07-20
+* [Commit] [perf(blockchain): presize BlockReceiptsTracer lists and span the bloom loop (#12498)](https://github.com/NethermindEth/nethermind/commit/9e2419ed0c594aa8fd2b7ff5db2cc39ec983ac10) - 2026-07-20
+* [Commit] [perf: seal WorldState and CodeInfo (#12497)](https://github.com/NethermindEth/nethermind/commit/09360161d1cb4fba4e02636426487d76607dbdcc) - 2026-07-20
+* [Commit] [perf(evm): skip recipient delegation lookup when EIP-8037 is not active (#12495)](https://github.com/NethermindEth/nethermind/commit/6aba2c15a07857226b3dec2b68c2405446223241) - 2026-07-20
+* [Commit] [refactor(evm): remove unused BitmapHelper (#12493)](https://github.com/NethermindEth/nethermind/commit/492279fc731102293dcda9ff457ac7f31b58ed70) - 2026-07-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

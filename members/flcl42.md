@@ -92,6 +92,15 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: test: add E2E coverage for bootnodes with TCP port 0 (discport-only enodes)](https://github.com/NethermindEth/nethermind/pull/12477#pullrequestreview-4720531411) - 2026-07-17
 * [Commit] [Fix flaky ERA importer, sync and JSON-RPC tests (#12480)](https://github.com/NethermindEth/nethermind/commit/c79211bea15cf350279e8050be79e1b0d8e4a004) - 2026-07-17
 * [Commit] [Add versioned engine_newPayloadWithWitness methods (#12464)](https://github.com/NethermindEth/nethermind/commit/3a11b6918860e46bb247ab7e2a84903b9f912101) - 2026-07-17
+* [Review] [Review on: fix(rpc): align eth_getBlockAccessList and engine payload bodies V2 with execution-apis spec](https://github.com/NethermindEth/nethermind/pull/12504#pullrequestreview-4736263536) - 2026-07-20
+* [Review] [Review on: Skip throwaway RLP encoding in state tree bulk writes](https://github.com/NethermindEth/nethermind/pull/12501#pullrequestreview-4734353709) - 2026-07-20
+* [Review] [Review on: perf(db): use tcmalloc for native allocations in the Docker image](https://github.com/NethermindEth/nethermind/pull/12486#pullrequestreview-4734514826) - 2026-07-20
+* [Review] [Review on: perf(flatdb): paced GC + gen0 fission to cut read-path GC pauses at gigagas scale](https://github.com/NethermindEth/nethermind/pull/12402#pullrequestreview-4734718964) - 2026-07-20
+* [Review] [Review on: Devnet-7 tests and repricing](https://github.com/NethermindEth/nethermind/pull/12476#pullrequestreview-4735245755) - 2026-07-20
+* [Review] [Review on: Skip redundant output allocation in transaction processing](https://github.com/NethermindEth/nethermind/pull/12503#pullrequestreview-4734528653) - 2026-07-20
+* [Review] [Review on: Eliminate closure in signature recovery](https://github.com/NethermindEth/nethermind/pull/12502#pullrequestreview-4734405473) - 2026-07-20
+* [Review] [Review on: Skip Rlp wrapper allocation in StorageTree](https://github.com/NethermindEth/nethermind/pull/12500#pullrequestreview-4734307039) - 2026-07-20
+* [Commit] [Fix EIP-2780 gas after sender recovery (#12459)](https://github.com/NethermindEth/nethermind/commit/8ff06a0796ddc29eb2507296eec41c12c917cb3a) - 2026-07-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -100,6 +109,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [chore(test-client-clis): update Nethermind exception mappings](https://github.com/ethereum/execution-specs/pull/3151) - 2026-07-13
 * [Commit] [chore(test-client-clis): update Nethermind exception mappings (#3151)](https://github.com/ethereum/execution-specs/commit/ccab088314c7a3197947bf26da3b26824bd7601e) - 2026-07-13
 * [Pull Request] [chore(test-client-clis): backport Nethermind signature mapping](https://github.com/ethereum/execution-specs/pull/3184) - 2026-07-16
+* [Pull Request] [fix(test-client-clis): map Nethermind signature errors for Devnet-7](https://github.com/ethereum/execution-specs/pull/3199) - 2026-07-20
 ## Q2 2026
 
 

@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Remove parent block number from payload attributes post gloas](https://github.com/Consensys/teku/pull/10975) - 2026-07-14
 * [Commit] [Produce block v4 with payload (#10832)](https://github.com/Consensys/teku/commit/766d295d9be3ef2ce01cc19716fa8fa13c06806f) - 2026-07-15
 * [Review] [Review on: Remove parent block number from payload attributes post gloas](https://github.com/Consensys/teku/pull/10975#pullrequestreview-4731814535) - 2026-07-20
+* [Commit] [Remove parent block number from payload attributes post gloas (#10975)](https://github.com/Consensys/teku/commit/7972ceb0324d271e885cd33e2254c1051092e415) - 2026-07-20
 ## Q2 2026
 
 

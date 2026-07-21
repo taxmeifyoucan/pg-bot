@@ -55,6 +55,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Warm Gradle dependencies for CI test shards](https://github.com/Consensys/teku/pull/10977#pullrequestreview-4704526337) - 2026-07-15
 * [Issue] [support load\store LEVELB_TREE or whatever come next](https://github.com/Consensys/teku/issues/10978) - 2026-07-15
 * [Commit] [Warm Gradle dependencies for CI test shards (#10977)](https://github.com/Consensys/teku/commit/a7c161c40c0ba73c0a5bd3b02bc4edf3dea4fed2) - 2026-07-15
+* [Review] [Review on: Remove eth1 deposit cli options](https://github.com/Consensys/teku/pull/10957#pullrequestreview-4733913983) - 2026-07-20
+* [Pull Request] [Use network SSZ length bounds in networking](https://github.com/Consensys/teku/pull/10987) - 2026-07-20
+* [Pull Request] [Additional 7688 validations and GLOAS ref test enabling](https://github.com/Consensys/teku/pull/10983) - 2026-07-20
+* [Review] [Review on: Additional 7688 validations and GLOAS ref test enabling](https://github.com/Consensys/teku/pull/10983#pullrequestreview-4736425200) - 2026-07-20
+* [Issue] [getMaxValidatorsPerAttestation calculation in one place](https://github.com/Consensys/teku/issues/10986) - 2026-07-20
+* [Commit] [Additional 7688 validations and GLOAS ref test enabling (#10983)](https://github.com/Consensys/teku/commit/9f92cb2fc44e58dcf9278d5ebff8a87acdd1d058) - 2026-07-20
+* [Commit] [Update Schema Registry and adopt progressive ssz in GLOAS (#10966)](https://github.com/Consensys/teku/commit/48f92b61acb40dfcb526987d0cb952080b0daf7d) - 2026-07-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

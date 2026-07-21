@@ -61,6 +61,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Fix DataColumnSidecarsByRoot partial-response-then-abort for out-of-window block roots (#10970)](https://github.com/Consensys/teku/commit/d33b5d27db449dc9c12bcdc24c06830eb5c69244) - 2026-07-16
 * [Review] [Review on: Remove parent block number from payload attributes post gloas](https://github.com/Consensys/teku/pull/10975#pullrequestreview-4731618376) - 2026-07-19
 * [Review] [Review on: Update get_indexed_payload_attestation specref anchor](https://github.com/Consensys/teku/pull/10980#pullrequestreview-4731700686) - 2026-07-19
+* [Review] [Review on: Remove deposit snapshot endpoint and related classes](https://github.com/Consensys/teku/pull/10988#pullrequestreview-4740613218) - 2026-07-21
+* [Review] [Review on: Remove parent block number from payload attributes post gloas](https://github.com/Consensys/teku/pull/10975#pullrequestreview-4731841270) - 2026-07-20
+* [Review] [Review on: Update Schema Registry and adopt progressive ssz in GLOAS](https://github.com/Consensys/teku/pull/10966#pullrequestreview-4731875043) - 2026-07-20
+* [Commit] [  Return 204 for producePayloadAttestationData when no block seen at slot (#10965)](https://github.com/Consensys/teku/commit/d9ac96d172294a81df9ef3d97feb69733261ff95) - 2026-07-20
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 ## Q2 2026

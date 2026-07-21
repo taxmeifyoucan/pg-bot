@@ -37,6 +37,11 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Fix hang and slow shutdown (#4518)](https://github.com/status-im/nimbus-eth1/commit/18a313d884ef2705a0eac02242b1b9f5ffcd1541) - 2026-07-18
 * [Pull Request] [Use BoringSSL P-256 for the P256VERIFY precompile](https://github.com/status-im/nimbus-eth1/pull/4521) - 2026-07-19
 * [Commit] [Use 64-bit libtommath digits for modexp on 64-bit targets (#4519)](https://github.com/status-im/nimbus-eth1/commit/6f8373a419365d7a927ea8b47db8ecfc45fbe381) - 2026-07-19
+* [Pull Request] [Use BoringSSL for the modexp precompile](https://github.com/status-im/nimbus-eth1/pull/4522) - 2026-07-20
+* [Pull Request] [Use BoringSSL for the sha256 precompile](https://github.com/status-im/nimbus-eth1/pull/4524) - 2026-07-20
+* [Commit] [Use BoringSSL for the modexp precompile (#4522)](https://github.com/status-im/nimbus-eth1/commit/47d3a26e25ef8dc00626f4d707c96a67a6c7407b) - 2026-07-20
+* [Commit] [Use BoringSSL for the sha256 precompile (#4524)](https://github.com/status-im/nimbus-eth1/commit/7d55bb10b942f712ccf8b08f2deded788142ddbc) - 2026-07-20
+* [Commit] [Use BoringSSL P-256 for the P256VERIFY precompile (#4521)](https://github.com/status-im/nimbus-eth1/commit/9656167800ce097998c4b89fcf8c6effa5869316) - 2026-07-20
 ## Q2 2026
 
 

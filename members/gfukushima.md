@@ -30,6 +30,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: updated jc-kzg version](https://github.com/Consensys/teku/pull/10958#pullrequestreview-4668807375) - 2026-07-10
 * [Review] [Review on: Activate Gloas acceptance test](https://github.com/Consensys/teku/pull/10974#pullrequestreview-4699517210) - 2026-07-14
 * [Review] [Review on: Fix DataColumnSidecarsByRoot partial-response-then-abort for out-of-window block roots](https://github.com/Consensys/teku/pull/10970#pullrequestreview-4710449760) - 2026-07-16
+* [Pull Request] [Remove deposit snapshot endpoint and related classes](https://github.com/Consensys/teku/pull/10988) - 2026-07-21
+* [Pull Request] [Remove send deposits cli](https://github.com/Consensys/teku/pull/10982) - 2026-07-20
+* [Commit] [Remove eth1 deposit cli options (#10957)](https://github.com/Consensys/teku/commit/16119e6226ff065032dfbe116eaec2b439de93bf) - 2026-07-21
 ## Q2 2026
 
 

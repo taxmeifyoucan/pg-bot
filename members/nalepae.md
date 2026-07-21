@@ -46,6 +46,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: improve logs when not actually exiting just protducing the exit files](https://github.com/OffchainLabs/prysm/pull/17177#pullrequestreview-4723403990) - 2026-07-17
 * [Review] [Review on: Update Gossipsub dependency so we can publish previously ignored messages](https://github.com/OffchainLabs/prysm/pull/17123#pullrequestreview-4720598489) - 2026-07-17
 * [Commit] [`TestStatusRPCRequest_FinalizedBlockSkippedSlots`:  Avoid panic if the stream handler is invoked more than once, by avoiding `wg.Done` to lead to a negative counter. (#17197)](https://github.com/OffchainLabs/prysm/commit/81c5fc9bc6504b056a95dd6ede737419ca9a4a12) - 2026-07-19
+* [Review] [Review on: `saveHead`: Clear the head cache when the head is updated.](https://github.com/OffchainLabs/prysm/pull/17143#pullrequestreview-4734287175) - 2026-07-20
+* [Commit] [`saveHead`: Clear the head cache when the head is updated. (#17143)](https://github.com/OffchainLabs/prysm/commit/3dec992f50a62542bcbf7f4601a0f018ecdf57e7) - 2026-07-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 ## Q2 2026

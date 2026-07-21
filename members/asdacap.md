@@ -164,6 +164,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [feat: append DB layout postfix to public client ID (#12435)](https://github.com/NethermindEth/nethermind/commit/b5a64c02152d41ded41f2ed787a57689da2a2821) - 2026-07-16
 * [Review] [Review on: Raise default TrieWarmer worker count from 1/2 to 3/4 of cores](https://github.com/NethermindEth/nethermind/pull/12479#pullrequestreview-4721615886) - 2026-07-17
 * [Pull Request] [refactor: remove unused IFlatDbManager.ReorgBoundaryReached](https://github.com/NethermindEth/nethermind/pull/12496) - 2026-07-20
+* [Commit] [refactor: remove unused IFlatDbManager.ReorgBoundaryReached (#12496)](https://github.com/NethermindEth/nethermind/commit/cada86a60c19a08b11515a2991d45e29a7e602d4) - 2026-07-20
 ## Q2 2026
 
 

@@ -32,6 +32,7 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Pull Request] [Update EIP-8250: clarify NONCE_MANAGER activation](https://github.com/ethereum/EIPs/pull/11972) - 2026-07-19
 * [Commit] [Update EIP-8081: propose EIP-8272 for Hegotá](https://github.com/ethereum/EIPs/commit/e19752239c6cbe44a841cf1736d87d52de4dcd86) - 2026-07-19
 * [Commit] [Update EIP-8250: align transaction introspection assignments](https://github.com/ethereum/EIPs/commit/66e475b052c038adc59397d119cc1c65b87f12fc) - 2026-07-19
+* [Commit] [Update EIP-8272: resolve RECENTROOTREFLOAD opcode collision](https://github.com/ethereum/EIPs/commit/2c140450b07beb6076e4fb825579ecb14cc9acc0) - 2026-07-20
 ## Q2 2026
 
 

@@ -26,6 +26,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [Updated kzg lib (#10794)](https://github.com/besu-eth/besu/commit/fe51556870968d32a0972f45265a376b383b5819) - 2026-07-10
 * [Pull Request] [DO NOT MERGE, DELETE ME - testing ci](https://github.com/besu-eth/besu/pull/10816) - 2026-07-16
 * [Pull Request] [testing CI, do not merge](https://github.com/besu-eth/besu/pull/10815) - 2026-07-16
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Encrypt The Mempool #7, July 22, 2026](https://github.com/ethereum/pm/issues/2165) - 2026-07-20
+
+[hyperledger/besu-native](https://github.com/hyperledger/besu-native)
+* [Review] [Review on: Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298#pullrequestreview-4738978540) - 2026-07-20
+* [Review] [Review on: Static libs and jar artifact for secp256k1](https://github.com/besu-eth/besu-native/pull/297#pullrequestreview-4738619746) - 2026-07-20
+* [Review] [Review on: Graal gnark static libs and artifact](https://github.com/besu-eth/besu-native/pull/292#pullrequestreview-4738265882) - 2026-07-20
+* [Pull Request] [updated boringssl](https://github.com/besu-eth/besu-native/pull/318) - 2026-07-20
+* [Review] [Review on: Bump gnark to resolve CVEs](https://github.com/besu-eth/besu-native/pull/317#pullrequestreview-4736019336) - 2026-07-20
+* [Commit] [updated boringssl (#318)](https://github.com/besu-eth/besu-native/commit/5af3d18c182691b10aae3a772c55e409433bd30b) - 2026-07-20
 ## Q2 2026
 
 

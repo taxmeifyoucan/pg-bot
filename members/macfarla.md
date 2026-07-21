@@ -46,6 +46,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix: reproduce and fix source-jar dependency verification gaps](https://github.com/besu-eth/besu/pull/10808#pullrequestreview-4709993208) - 2026-07-16
 * [Review] [Review on: Handle empty RLP raw transactions as invalid params](https://github.com/besu-eth/besu/pull/10736#pullrequestreview-4710147370) - 2026-07-16
 * [Review] [Review on: Layered txpool: allow zero upfront cost txs from zero balance senders](https://github.com/besu-eth/besu/pull/10751#pullrequestreview-4710081883) - 2026-07-16
+* [Pull Request] [minor: partially address errorprone warnings from next version](https://github.com/besu-eth/besu/pull/10664) - 2026-07-21
+* [Commit] [minor: partially address errorprone warnings from next version (#10664)](https://github.com/besu-eth/besu/commit/bbc23ff4aacc98ad6cb7f68e50f1ad8a397fefad) - 2026-07-21
+* [Commit] [update commons-io to 2.22.0 (#10809)](https://github.com/besu-eth/besu/commit/4030747db0297477286a3949f6f7ea5d6ff6b1ee) - 2026-07-21
+
+[hyperledger/besu-native](https://github.com/hyperledger/besu-native)
+* [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
+* [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21
+* [Review] [Review on: Fixed `BLS` test comments](https://github.com/besu-eth/besu-native/pull/288#pullrequestreview-4740155206) - 2026-07-21
+* [Commit] [changelog and version bump for release 2.0.0 (#319)](https://github.com/besu-eth/besu-native/commit/75422ca126d9bf6f3c512ac27b82985e7a72ed99) - 2026-07-21
 ## Q2 2026
 
 

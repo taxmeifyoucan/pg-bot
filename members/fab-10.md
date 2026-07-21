@@ -32,6 +32,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: update commons-io to 2.22.0](https://github.com/besu-eth/besu/pull/10809#pullrequestreview-4711641997) - 2026-07-16
 * [Review] [Review on: snap/2 - improve logging](https://github.com/besu-eth/besu/pull/10810#pullrequestreview-4713232376) - 2026-07-16
 * [Commit] [fix: reproduce and fix source-jar dependency verification gaps (#10808)](https://github.com/besu-eth/besu/commit/0bc50ceee9da0aeeeea11cb1a6db56285af0a17e) - 2026-07-16
+* [Review] [Review on: Refactor engine_forkchoiceUpdated into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10709#pullrequestreview-4733608377) - 2026-07-20
+* [Review] [Review on: Refactor `engine_forkchoiceUpdated` into sealed version hierarchy](https://github.com/besu-eth/besu/pull/10475#pullrequestreview-4733569557) - 2026-07-20
+* [Review] [Review on: Add japicmp binary compatibility check for the Plugin API](https://github.com/besu-eth/besu/pull/10823#pullrequestreview-4733938147) - 2026-07-20
 ## Q2 2026
 
 
