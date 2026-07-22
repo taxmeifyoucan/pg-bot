@@ -27,6 +27,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: add communication style to agents.md](https://github.com/ChainSafe/lodestar/pull/9668#pullrequestreview-4714158317) - 2026-07-16
 * [Review] [Review on: fix: raise query string arrayLimit to NUMBER_OF_COLUMNS](https://github.com/ChainSafe/lodestar/pull/9673#pullrequestreview-4724918041) - 2026-07-17
 * [Pull Request] [(wip) feat: gloas light client support](https://github.com/ChainSafe/lodestar/pull/9683) - 2026-07-20
+* [Pull Request] [feat: gloas lc support](https://github.com/ChainSafe/lodestar/pull/9687) - 2026-07-21
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -91,6 +92,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(state-transition): group-check signature sets](https://github.com/ChainSafe/lodestar-z/pull/515#pullrequestreview-4734493556) - 2026-07-20
 * [Review] [Review on: refactor(bindings): use zapi js.io() instead of local io module](https://github.com/ChainSafe/lodestar-z/pull/469#pullrequestreview-4733289178) - 2026-07-20
 * [Commit] [docs: more comprehensive AGENTS.md (#520)](https://github.com/ChainSafe/lodestar-z/commit/c74b38612689df56d2e64c4bc0be029be02ed275) - 2026-07-20
+* [Review] [Review on: refactor(pubkeys): centralize the process-wide cache](https://github.com/ChainSafe/lodestar-z/pull/522#pullrequestreview-4748239370) - 2026-07-21
+* [Review] [Review on: fix(bls): preserve aggregate outputs on failure](https://github.com/ChainSafe/lodestar-z/pull/521#pullrequestreview-4745822158) - 2026-07-21
 ## Q2 2026
 
 

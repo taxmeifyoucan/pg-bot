@@ -43,6 +43,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: review eip-7688 branch](https://github.com/ChainSafe/lodestar/pull/9671) - 2026-07-17
 * [Review] [Review on: chore: review eip-7688 branch](https://github.com/ChainSafe/lodestar/pull/9671#pullrequestreview-4720770711) - 2026-07-17
 * [Review] [Review on: fix: scan all proto array nodes when counting payload reveals](https://github.com/ChainSafe/lodestar/pull/9676#pullrequestreview-4733030684) - 2026-07-20
+* [Pull Request] [fix: harden assertLinearChainSegment](https://github.com/ChainSafe/lodestar/pull/9684) - 2026-07-21
+* [Pull Request] [fix: split execution engine errors](https://github.com/ChainSafe/lodestar/pull/9685) - 2026-07-21
+* [Pull Request] [fix: harden range sync hashBlocks()](https://github.com/ChainSafe/lodestar/pull/9686) - 2026-07-21
+* [Review] [Review on: fix: harden range sync hashBlocks()](https://github.com/ChainSafe/lodestar/pull/9686#pullrequestreview-4743083813) - 2026-07-21
+* [Review] [Review on: feat: add fork choice compliance test for pre-gloas forks](https://github.com/ChainSafe/lodestar/pull/9670#pullrequestreview-4741754515) - 2026-07-21
+* [Commit] [fix: harden assertLinearChainSegment (#9684)](https://github.com/ChainSafe/lodestar/commit/7acc183c2b2d31ab9aeefbbe667710d2d8e46c7f) - 2026-07-22
+* [Commit] [perf: improve process_attestation() for gloas (#9664)](https://github.com/ChainSafe/lodestar/commit/aadf7a7167f74280043b99cf6d69914c15c9dc22) - 2026-07-21
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

@@ -42,6 +42,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Use BoringSSL for the modexp precompile (#4522)](https://github.com/status-im/nimbus-eth1/commit/47d3a26e25ef8dc00626f4d707c96a67a6c7407b) - 2026-07-20
 * [Commit] [Use BoringSSL for the sha256 precompile (#4524)](https://github.com/status-im/nimbus-eth1/commit/7d55bb10b942f712ccf8b08f2deded788142ddbc) - 2026-07-20
 * [Commit] [Use BoringSSL P-256 for the P256VERIFY precompile (#4521)](https://github.com/status-im/nimbus-eth1/commit/9656167800ce097998c4b89fcf8c6effa5869316) - 2026-07-20
+* [Review] [Review on: Fix aristo_compute compilation with --threads:off](https://github.com/status-im/nimbus-eth1/pull/4531#pullrequestreview-4746359496) - 2026-07-21
 ## Q2 2026
 
 

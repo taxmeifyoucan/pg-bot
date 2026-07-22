@@ -41,6 +41,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-benchmark): validate post-state for stateful filler](https://github.com/ethereum/execution-specs/pull/3148#pullrequestreview-4723399408) - 2026-07-17
 * [Review] [Review on: refactor(spec-specs): organize gas logic in amsterdam EIP-8037/8038/2780](https://github.com/ethereum/execution-specs/pull/3159#pullrequestreview-4721907817) - 2026-07-17
 * [Issue] [chore: Port `devnets/glamsterdam/6-benchmarks` PRs to `forks/amsterdam`](https://github.com/ethereum/execution-specs/issues/3188) - 2026-07-17
+* [Review] [Review on: feat: Introduce SSZ model into base types](https://github.com/ethereum/execution-specs/pull/3196#pullrequestreview-4743809435) - 2026-07-21
+* [Review] [Review on: feat(test-benchmark): add deployment contract script, no-rewind flag](https://github.com/ethereum/execution-specs/pull/3194#pullrequestreview-4744743616) - 2026-07-21
+* [Review] [Review on: feat(test-benchmark): on-chain account verification](https://github.com/ethereum/execution-specs/pull/3197#pullrequestreview-4746772317) - 2026-07-21
+* [Review] [Review on: refactor(test-benchmark): organize stateful folder, add post-state validation, opcode count record](https://github.com/ethereum/execution-specs/pull/3201#pullrequestreview-4746467943) - 2026-07-21
+* [Review] [Review on: fix(ci): skip new-commit check on manual fixture release dispatches](https://github.com/ethereum/execution-specs/pull/3202#pullrequestreview-4744802846) - 2026-07-21
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 ## Q2 2026

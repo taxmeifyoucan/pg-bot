@@ -13,6 +13,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: feat(discv4): migrate DiscV4 UDP transport from Vert.x to Netty](https://github.com/besu-eth/besu/pull/10716#pullrequestreview-4645190602) - 2026-07-07
+* [Review] [Review on: fix(p2p): additional permanent disconnect reasons](https://github.com/besu-eth/besu/pull/10827#pullrequestreview-4749902362) - 2026-07-22
 ## Q2 2026
 
 

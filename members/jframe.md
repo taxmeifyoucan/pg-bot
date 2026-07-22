@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 ## Contributions
 
+## Q3 2026
+
+
+[hyperledger/besu-native](https://github.com/hyperledger/besu-native)
+* [Review] [Review on: changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320#pullrequestreview-4740768491) - 2026-07-21
 ## Q2 2026
 
 

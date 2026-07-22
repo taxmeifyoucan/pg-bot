@@ -48,6 +48,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(test-benchmark): add deployment contract script, no-rewind flag](https://github.com/ethereum/execution-specs/pull/3194) - 2026-07-20
 * [Review] [Review on: refactor(tests): Remove `fork.gas_costs()` reconstruction from Amsterdam EIP-8037/8038 tests](https://github.com/ethereum/execution-specs/pull/3169#pullrequestreview-4732561499) - 2026-07-20
 * [Commit] [refactor(test-benchmark): align test suite with `glam-devnet-7` spec (#3187)](https://github.com/ethereum/execution-specs/commit/9e9bf9068c5bbc337cbbb6794d14786d61840a6a) - 2026-07-20
+* [Pull Request] [refactor(test-benchmark): organize stateful folder, add post-state validation, opcode count record](https://github.com/ethereum/execution-specs/pull/3201) - 2026-07-21
+* [Commit] [feat(test-benchmark): support per block opcode count record (#3183)](https://github.com/ethereum/execution-specs/commit/5fa5938b1ce01c661b3e9beaa403e4edddd11e1a) - 2026-07-21
+* [Commit] [feat(test-benchmark): validate post-state for stateful filler (#3148)](https://github.com/ethereum/execution-specs/commit/213f0e8c05fd31ac3d00d4be6d77a71627d0f0c2) - 2026-07-21
+* [Commit] [refactor(test-benchmark): centralize benchmark helper utilities (#3166)](https://github.com/ethereum/execution-specs/commit/c5043ec2ab1ba6008b874a2cc9b56499bd3d3e92) - 2026-07-21
+* [Commit] [refactor(test-benchmark): organize stateful benchmark folder structure (#3152)](https://github.com/ethereum/execution-specs/commit/0b1e6985e5afd8380194901b9ef9cc7ce4fd0835) - 2026-07-21
 ## Q2 2026
 
 

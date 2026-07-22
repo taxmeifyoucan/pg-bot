@@ -30,6 +30,12 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: define the Receipts message encoding for frame transaction receipts](https://github.com/ethereum/EIPs/pull/11942#pullrequestreview-4737697632) - 2026-07-20
 * [Pull Request] [Update EIP-8141: charge for each arbitrary sig entry](https://github.com/ethereum/EIPs/pull/11976) - 2026-07-20
 * [Commit] [Update EIP-8141: charge for each arbitrary sig entry](https://github.com/ethereum/EIPs/commit/e1fd489dae28cb6a29b3931270efd1b198001872) - 2026-07-20
+* [Pull Request] [Update EIP-8141: statically exclude VERIFY frames from atomic batches](https://github.com/ethereum/EIPs/pull/11987) - 2026-07-21
+* [Review] [Review on: Update EIP-8141: pin the P256 signature canonicality (low-s)](https://github.com/ethereum/EIPs/pull/11984#pullrequestreview-4748343038) - 2026-07-21
+* [Review] [Review on: Update EIP-8141: clarify decoding, signing, and activation](https://github.com/ethereum/EIPs/pull/11971#pullrequestreview-4748331077) - 2026-07-21
+* [Review] [Review on: Update EIP-8141: specify EIP-3529 storage refund accounting for frames](https://github.com/ethereum/EIPs/pull/11940#pullrequestreview-4748299437) - 2026-07-21
+* [Review] [Review on: Update EIP-8141: approval effects are not reverted by frame revert or atomic-batch unroll](https://github.com/ethereum/EIPs/pull/11955#pullrequestreview-4745626267) - 2026-07-21
+* [Commit] [Update EIP-8141: statically exclude VERIFY frames from atomic batches](https://github.com/ethereum/EIPs/commit/a95ff54255d8dcaded6c92ff16e5e8f699defb01) - 2026-07-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06
@@ -39,6 +45,9 @@ Team: Geth
 * [Review] [Review on: core: add bogota fork](https://github.com/ethereum/go-ethereum/pull/34057#pullrequestreview-4655959810) - 2026-07-08
 * [Commit] [all: add bogota fork to config (#34057)](https://github.com/ethereum/go-ethereum/commit/0d1cf34ec66928a2f64ba0ae72f7b272aa2458c0) - 2026-07-14
 * [Review] [Review on: core: rolling history expiry](https://github.com/ethereum/go-ethereum/pull/34104#pullrequestreview-4701405273) - 2026-07-15
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4744394254) - 2026-07-21
 ## Q2 2026
 
 

@@ -22,6 +22,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Commit] [core/txpool/blobpool, eth: implement sparse blobpool (#34047)](https://github.com/ethereum/go-ethereum/commit/d91b71fb3627253537c2144a1d174dab871fec3c) - 2026-07-15
 * [Review] [Review on: core/txpool/blobpool: serialize legacy data conversions](https://github.com/ethereum/go-ethereum/pull/35387#pullrequestreview-4737290071) - 2026-07-20
 * [Review] [Review on: eth/protocols/eth: track announced tx hashes only after send, again](https://github.com/ethereum/go-ethereum/pull/35384#pullrequestreview-4735439923) - 2026-07-20
+* [Review] [Review on: cmd/devp2p/internal/ethtest: add eth/71 (EIP-8159) tests](https://github.com/ethereum/go-ethereum/pull/35389#pullrequestreview-4746089852) - 2026-07-21
+* [Review] [Review on: eth/fetcher: count unique hashes in blob queueing metric](https://github.com/ethereum/go-ethereum/pull/35393#pullrequestreview-4745730620) - 2026-07-21
 ## Q2 2026
 
 

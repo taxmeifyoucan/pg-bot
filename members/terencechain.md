@@ -122,6 +122,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: overflow bid fix](https://github.com/OffchainLabs/prysm/pull/17207#pullrequestreview-4738765952) - 2026-07-20
 * [Pull Request] [Mark pending payload envelope seen only after successful import](https://github.com/OffchainLabs/prysm/pull/17206) - 2026-07-20
 * [Commit] [Skip payload attestation quietly when no block exists for the slot (#17202)](https://github.com/OffchainLabs/prysm/commit/7db16fc34183ca84c7d121c42e436ea266e8daf2) - 2026-07-20
+* [Pull Request] [Validate bid parent block hash correctly](https://github.com/OffchainLabs/prysm/pull/17217) - 2026-07-21
+* [Pull Request] [Remove unused data_column_obtained_via_el_count metric](https://github.com/OffchainLabs/prysm/pull/17216) - 2026-07-21
+* [Pull Request] [Increment newPayload node count metrics on Gloas envelope path](https://github.com/OffchainLabs/prysm/pull/17213) - 2026-07-21
+* [Pull Request] [Only increment PTC vote count metric for newly set votes](https://github.com/OffchainLabs/prysm/pull/17214) - 2026-07-21
+* [Pull Request] [Only count actually invalid envelopes in envelope invalid metric](https://github.com/OffchainLabs/prysm/pull/17215) - 2026-07-21
+* [Pull Request] [Reduce Gloas get-payload timeout](https://github.com/OffchainLabs/prysm/pull/17212) - 2026-07-21
+* [Commit] [Mark pending payload envelope seen only after successful import (#17206)](https://github.com/OffchainLabs/prysm/commit/9b61366ee8f44640efe64e7961c07af764365038) - 2026-07-21
+* [Commit] [Reduce Gloas get-payload timeout (#17212)](https://github.com/OffchainLabs/prysm/commit/ac40200a15701d4fb972ca60c131b21d21dea37a) - 2026-07-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

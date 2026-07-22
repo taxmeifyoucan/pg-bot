@@ -62,6 +62,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [getMaxValidatorsPerAttestation calculation in one place](https://github.com/Consensys/teku/issues/10986) - 2026-07-20
 * [Commit] [Additional 7688 validations and GLOAS ref test enabling (#10983)](https://github.com/Consensys/teku/commit/9f92cb2fc44e58dcf9278d5ebff8a87acdd1d058) - 2026-07-20
 * [Commit] [Update Schema Registry and adopt progressive ssz in GLOAS (#10966)](https://github.com/Consensys/teku/commit/48f92b61acb40dfcb526987d0cb952080b0daf7d) - 2026-07-20
+* [Review] [Review on: Remove send deposits cli](https://github.com/Consensys/teku/pull/10982#pullrequestreview-4744566541) - 2026-07-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

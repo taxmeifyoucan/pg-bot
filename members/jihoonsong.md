@@ -36,6 +36,10 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Add a subsection for IL satisfaction in optimistic.md](https://github.com/ethereum/consensus-specs/pull/5458) - 2026-07-20
 * [Commit] [Add p2p helper functions for epoch inclusivity check (#5459)](https://github.com/ethereum/consensus-specs/commit/a82d5a2f989085031d5c1843afc00954b88cd1e6) - 2026-07-20
 * [Commit] [Add a subsection for IL satisfaction in optimistic.md (#5458)](https://github.com/ethereum/consensus-specs/commit/08e7a8ba700ccfb6829c7a79004e27b006d9215e) - 2026-07-20
+* [Review] [Review on: Add more checks to `on_inclusion_list`](https://github.com/ethereum/consensus-specs/pull/5460#pullrequestreview-4744505470) - 2026-07-21
+* [Pull Request] [Set only_timely for all get_inclusion_list_transactions calls](https://github.com/ethereum/consensus-specs/pull/5463) - 2026-07-21
+* [Pull Request] [Correct `MIN_SLOTS_FOR_INCLUSION_LISTS_REQUESTS` value](https://github.com/ethereum/consensus-specs/pull/5462) - 2026-07-21
+* [Commit] [Correct `MIN_SLOTS_FOR_INCLUSION_LISTS_REQUESTS` value (#5462)](https://github.com/ethereum/consensus-specs/commit/e310d1c0d316e4dcc822164966c5bfa592adae2b) - 2026-07-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

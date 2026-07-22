@@ -61,6 +61,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/rlp: decode string fields through ViewBytes](https://github.com/erigontech/erigon/pull/22589#pullrequestreview-4732904354) - 2026-07-20
 * [Commit] [db/state/statecfg: bump accounts history .v/.ef to v2.1/v3.1 (#22600)](https://github.com/erigontech/erigon/commit/4e0f098ec55a6090b7c01fe4629defad01c9e39e) - 2026-07-20
 * [Commit] [db/state: omit no-op deletes of absent keys in DomainDel (#22437)](https://github.com/erigontech/erigon/commit/f80a81eaea7afa18ee001b5e1c50027ec7deedb3) - 2026-07-20
+* [Pull Request] [cmd/integration: attach CodeStore in stage_exec offline re-execution](https://github.com/erigontech/erigon/pull/22650) - 2026-07-22
+* [Pull Request] [cmd/integration: attach StateCache in stage_exec offline re-execution](https://github.com/erigontech/erigon/pull/22642) - 2026-07-21
+* [Review] [Review on: db/recsplit: wrong assert for old versions of file](https://github.com/erigontech/erigon/pull/22619#pullrequestreview-4741659309) - 2026-07-21
+* [Pull Request] [unify behaviour of "steps in frozen domain files" across integration commands and erigon](https://github.com/erigontech/erigon/pull/22637) - 2026-07-21
+* [Issue] [receipt: per-tx prevVal read of blob-gas key always hits the oldest state file](https://github.com/erigontech/erigon/issues/22644) - 2026-07-21
 ## Q2 2026
 
 

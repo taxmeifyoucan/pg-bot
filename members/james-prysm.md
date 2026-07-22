@@ -89,6 +89,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Mark pending payload envelope seen only after successful import](https://github.com/OffchainLabs/prysm/pull/17206#pullrequestreview-4738684434) - 2026-07-20
 * [Pull Request] [poc jit builder settings](https://github.com/OffchainLabs/prysm/pull/17205) - 2026-07-20
 * [Review] [Review on: Implement the active-active mode in the REST validator client.](https://github.com/OffchainLabs/prysm/pull/17075#pullrequestreview-4736050464) - 2026-07-20
+* [Review] [Review on: Remove unused data_column_obtained_via_el_count metric](https://github.com/OffchainLabs/prysm/pull/17216#pullrequestreview-4748554984) - 2026-07-21
+* [Review] [Review on: `--max-builder-consecutive-missed-slots` and `--max-builder-epoch-missed-slots` help text: Reports the mainnet config value as the default instead of a hardcoded, false and unused values.](https://github.com/OffchainLabs/prysm/pull/17211#pullrequestreview-4746380993) - 2026-07-21
+* [Review] [Review on: Reduce Gloas get-payload timeout](https://github.com/OffchainLabs/prysm/pull/17212#pullrequestreview-4747590094) - 2026-07-21
+* [Commit] [making duties failures independent of each other (#17036)](https://github.com/OffchainLabs/prysm/commit/a865d9a9d7b15fada4d8f0fdcb9713192dd17f59) - 2026-07-21
+* [Commit] [overflow bid fix (#17207)](https://github.com/OffchainLabs/prysm/commit/e4d15d741a7acec6e88282155df15bb3a9e83fd9) - 2026-07-21
 ## Q2 2026
 
 

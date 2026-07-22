@@ -46,6 +46,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: improve process_attestation() for gloas](https://github.com/ChainSafe/lodestar/pull/9664#pullrequestreview-4727260089) - 2026-07-18
 * [Issue] [Address post-merge review for #9598](https://github.com/ChainSafe/lodestar/issues/9678) - 2026-07-18
 * [Review] [Review on: feat: implement EIP 7688](https://github.com/ChainSafe/lodestar/pull/9390#pullrequestreview-4740254418) - 2026-07-21
+* [Review] [Review on: feat: implement EIP 7688](https://github.com/ChainSafe/lodestar/pull/9390#pullrequestreview-4741147025) - 2026-07-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

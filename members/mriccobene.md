@@ -20,6 +20,11 @@ Team: Erigon
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: increase timer sync verify with reference node](https://github.com/erigontech/erigon/pull/22279#pullrequestreview-4639179688) - 2026-07-06
 * [Review] [Review on: [3.5] QA: Modified default wait sync latest from 10 to 300](https://github.com/erigontech/erigon/pull/22280#pullrequestreview-4639577451) - 2026-07-06
+* [Pull Request] [qa-tests: update test report script to include additional workflows](https://github.com/erigontech/erigon/pull/22635) - 2026-07-21
+* [Pull Request] [qa-tests: clarify node type in the sync-from-scratch test](https://github.com/erigontech/erigon/pull/22636) - 2026-07-21
+* [Review] [Review on: [SharovBot] ci: handle plain 'QA - Sync from scratch' workflow name in update-disk-sizes](https://github.com/erigontech/erigon/pull/22560#pullrequestreview-4743477169) - 2026-07-21
+* [Review] [Review on: ci, db/state: matrix-test serial vs parallel commitment across the test workflows](https://github.com/erigontech/erigon/pull/22141#pullrequestreview-4743026608) - 2026-07-21
+* [Commit] [qa-tests: update test report script to include additional workflows (#22635)](https://github.com/erigontech/erigon/commit/f2e0a392cc5448289a23caa28895c43268b6a3c1) - 2026-07-21
 ## Q2 2026
 
 

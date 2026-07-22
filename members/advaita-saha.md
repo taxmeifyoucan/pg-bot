@@ -60,6 +60,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [fix: 64-byte alignment warning (#4520)](https://github.com/status-im/nimbus-eth1/commit/3482095306b5e4f6f08c02efb10b635cc2c6eef6) - 2026-07-19
 
 * [Review] [Review on: Implement gloas fcU payload build skip v1.0.0-beta.7](https://github.com/status-im/nimbus-eth1/pull/4525#pullrequestreview-4737486879) - 2026-07-20
+* [Review] [Review on: outbound tx propagation](https://github.com/status-im/nimbus-eth1/pull/4487#pullrequestreview-4744201020) - 2026-07-21
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 ## Q2 2026

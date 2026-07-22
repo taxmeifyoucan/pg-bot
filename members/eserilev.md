@@ -37,6 +37,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Move `SlotAssignment` cache to `CanonicalHead`](https://github.com/sigp/lighthouse/pull/9661#pullrequestreview-4730865023) - 2026-07-19
 * [Review] [Review on: Clean up custody backfill requests after peer failures](https://github.com/sigp/lighthouse/pull/9665#pullrequestreview-4733119959) - 2026-07-20
 * [Review] [Review on: chore: make post envelope beacon api spec compliant](https://github.com/sigp/lighthouse/pull/9276#pullrequestreview-4734527330) - 2026-07-20
+* [Review] [Review on: Fix light client update DB range queries](https://github.com/sigp/lighthouse/pull/9668#pullrequestreview-4741093020) - 2026-07-21
+* [Review] [Review on: Gloas fix proposer preferences for validators added mid-epoch](https://github.com/sigp/lighthouse/pull/9660#pullrequestreview-4741847697) - 2026-07-21
+* [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4741437590) - 2026-07-21
+* [Review] [Review on: Move `SlotAssignment` cache to `CanonicalHead`](https://github.com/sigp/lighthouse/pull/9661#pullrequestreview-4741301448) - 2026-07-21
 ## Q2 2026
 
 

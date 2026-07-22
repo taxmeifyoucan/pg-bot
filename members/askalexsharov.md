@@ -371,6 +371,33 @@ Team: Erigon
 * [Commit] [execution/commitment: stop heap-allocating leaf hash header buffers (#22586)](https://github.com/erigontech/erigon/commit/fca8a2cbf255bba9d6b95445fb219a04fd18053f) - 2026-07-20
 * [Commit] [execution/rlp: decode string fields through ViewBytes (#22589)](https://github.com/erigontech/erigon/commit/773ad86f483776d54f9fdb07e3733ece305a4035) - 2026-07-20
 * [Commit] [consensus: propagate state errors from balance updates (#22592)](https://github.com/erigontech/erigon/commit/a9f92ecd7da406c7ada41805444b79f5ac5e84e3) - 2026-07-20
+* [Pull Request] [db/recsplit: wrong assert for old versions of file](https://github.com/erigontech/erigon/pull/22619) - 2026-07-21
+* [Review] [Review on: rpc: jsonrpc bal spec adherence](https://github.com/erigontech/erigon/pull/22621#pullrequestreview-4741883438) - 2026-07-21
+* [Pull Request] [unwind: overlay-prune still has systemTx after unwind](https://github.com/erigontech/erigon/pull/22622) - 2026-07-21
+* [Review] [Review on: rpc: fix panic in debug_traceBlockByHash with prestateTracer due to overflow](https://github.com/erigontech/erigon/pull/22623#pullrequestreview-4742536958) - 2026-07-21
+* [Review] [Review on: build(deps): bump body-parser from 1.20.5 to 1.20.6 in /docs/site](https://github.com/erigontech/erigon/pull/22615#pullrequestreview-4740964187) - 2026-07-21
+* [Review] [Review on: .github: fix manifest cache-poisoning + tighten cache-poisoning ignores](https://github.com/erigontech/erigon/pull/22632#pullrequestreview-4742526029) - 2026-07-21
+* [Pull Request] [rpc/mcp: unify embedded and standalone servers into one JSON-RPC implementation](https://github.com/erigontech/erigon/pull/22625) - 2026-07-21
+* [Review] [Review on: rpc/mcp: unify embedded and standalone servers into one JSON-RPC implementation](https://github.com/erigontech/erigon/pull/22625#pullrequestreview-4742202943) - 2026-07-21
+* [Pull Request] [rpc/mcp: add debug and trace tools](https://github.com/erigontech/erigon/pull/22630) - 2026-07-21
+* [Review] [Review on: rpc/mcp: add debug and trace tools](https://github.com/erigontech/erigon/pull/22630#pullrequestreview-4742572617) - 2026-07-21
+* [Pull Request] [rpc/mcp: add net and admin P2P inspection tools](https://github.com/erigontech/erigon/pull/22629) - 2026-07-21
+* [Pull Request] [rpc/mcp: add txpool tools](https://github.com/erigontech/erigon/pull/22627) - 2026-07-21
+* [Pull Request] [rpc/mcp: declare readOnlyHint on every tool](https://github.com/erigontech/erigon/pull/22626) - 2026-07-21
+* [Pull Request] [rpc/mcp, cmd/mcp: add streamable HTTP transport](https://github.com/erigontech/erigon/pull/22624) - 2026-07-21
+* [Review] [Review on: rpc/mcp, cmd/mcp: add streamable HTTP transport](https://github.com/erigontech/erigon/pull/22624#pullrequestreview-4742027363) - 2026-07-21
+* [Pull Request] [stagedsync: `minimal` node downloaded all files](https://github.com/erigontech/erigon/pull/22618) - 2026-07-21
+* [Review] [Review on: execution: isolate block builders from shared branch cache](https://github.com/erigontech/erigon/pull/22617#pullrequestreview-4740961192) - 2026-07-21
+* [Pull Request] [cl/antiquary: snapshot compact effective balances instead of full validator set](https://github.com/erigontech/erigon/pull/22411) - 2026-07-21
+* [Review] [Review on: build(deps): bump webpack-dev-server from 5.2.5 to 5.2.6 in /docs/site](https://github.com/erigontech/erigon/pull/22614#pullrequestreview-4740965410) - 2026-07-21
+* [Pull Request] [disable state-cache for release/3.6](https://github.com/erigontech/erigon/pull/22613) - 2026-07-21
+* [Review] [Review on: build(deps): bump shell-quote from 1.8.4 to 1.10.0 in /docs/site](https://github.com/erigontech/erigon/pull/22616#pullrequestreview-4740964509) - 2026-07-21
+* [Commit] [db/recsplit: wrong assert for old versions of file (#22619)](https://github.com/erigontech/erigon/commit/afada21637c3601e3707cafbeb3f20a0f6c0ba75) - 2026-07-21
+* [Commit] [unwind: overlay-prune still has systemTx after unwind (#22622)](https://github.com/erigontech/erigon/commit/42adb654c02dffcf2d4d594a1a88ec2f551c08de) - 2026-07-21
+* [Commit] [rlp: add Stream.ReadHash for topics and storage keys (#22591)](https://github.com/erigontech/erigon/commit/628d4d31cc4cce6c6f5703ca5ab726d22a5ed9be) - 2026-07-21
+* [Commit] [enr: cut ENR decode allocations (#22587)](https://github.com/erigontech/erigon/commit/5fb56de40166ceca73b418b8ebd33dc4ebaaad2e) - 2026-07-21
+* [Commit] [stagedsync: refresh tx block-files view before state-phase snapshot filter (#22618)](https://github.com/erigontech/erigon/commit/2f94a90b82e0c51af5fc5e9e8d10adae1231f604) - 2026-07-21
+* [Commit] [cl/antiquary: snapshot compact effective balances instead of full validator set (#22411)](https://github.com/erigontech/erigon/commit/0a86cff0c2c9c36d01996b5d0cba4933d912b167) - 2026-07-21
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

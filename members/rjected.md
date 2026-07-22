@@ -20,6 +20,9 @@ Team: Reth
 * [Pull Request] [feat(prune): add SDK extension points for custom pruner segments](https://github.com/paradigmxyz/reth/pull/26322) - 2026-07-07
 * [Review] [Review on: fix(nix): include m4 in native build inputs](https://github.com/paradigmxyz/reth/pull/26321#pullrequestreview-4649126625) - 2026-07-07
 * [Commit] [feat(prune): add row-budgeted dupsort pruning (#26287)](https://github.com/paradigmxyz/reth/commit/1a4a5c966f23513c3f264997fa15b82fe884f6cd) - 2026-07-07
+* [Review] [Review on: chore(examples): remove precompile cache example](https://github.com/paradigmxyz/reth/pull/26467#pullrequestreview-4747438125) - 2026-07-21
+* [Review] [Review on: fix(bench): show metrics in run config](https://github.com/paradigmxyz/reth/pull/26461#pullrequestreview-4746644171) - 2026-07-21
+* [Review] [Review on: fix(bench): seed run summary with config](https://github.com/paradigmxyz/reth/pull/26460#pullrequestreview-4746641264) - 2026-07-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626673741) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626672497) - 2026-07-03

@@ -33,6 +33,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Remove deposit snapshot endpoint and related classes](https://github.com/Consensys/teku/pull/10988) - 2026-07-21
 * [Pull Request] [Remove send deposits cli](https://github.com/Consensys/teku/pull/10982) - 2026-07-20
 * [Commit] [Remove eth1 deposit cli options (#10957)](https://github.com/Consensys/teku/commit/16119e6226ff065032dfbe116eaec2b439de93bf) - 2026-07-21
+* [Review] [Review on: Use network SSZ length bounds in networking](https://github.com/Consensys/teku/pull/10987#pullrequestreview-4749822339) - 2026-07-21
+* [Review] [Review on: Remove several unnecessary AddressSelection warning suppressions](https://github.com/Consensys/teku/pull/10991#pullrequestreview-4741707552) - 2026-07-21
+* [Commit] [Remove send deposits cli (#10982)](https://github.com/Consensys/teku/commit/c37cdb44d595460f0130fd87ee22796cf0ed0e00) - 2026-07-22
+* [Commit] [Remove deposit snapshot endpoint and related classes (#10988)](https://github.com/Consensys/teku/commit/eee8db3c0e1a302b2c1edba3c0d741d838b697e2) - 2026-07-21
 ## Q2 2026
 
 

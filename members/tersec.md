@@ -54,6 +54,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Add verifier error for payload](https://github.com/status-im/nimbus-eth2/pull/8778#pullrequestreview-4739606049) - 2026-07-20
 * [Pull Request] [fix nimbus_light_client getting 0 peers](https://github.com/status-im/nimbus-eth2/pull/8790) - 2026-07-20
 * [Pull Request] [enable P2P DSL macro to work in ARC/ORC](https://github.com/status-im/nimbus-eth2/pull/8789) - 2026-07-20
+* [Pull Request] [update GH actions; var to let; fix deprecated useWildcard; enforce snappy frame size limit](https://github.com/status-im/nimbus-eth2/pull/8791) - 2026-07-21
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -81,6 +82,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: wrap each trial's runComputation in a ledger savepoint ](https://github.com/status-im/nimbus-eth1/pull/4475#pullrequestreview-4731588053) - 2026-07-19
 * [Review] [Review on: fix: 64-byte alignment warning](https://github.com/status-im/nimbus-eth1/pull/4520#pullrequestreview-4730523020) - 2026-07-19
 * [Review] [Review on: Implement gloas fcU payload build skip v1.0.0-beta.7](https://github.com/status-im/nimbus-eth1/pull/4525#pullrequestreview-4736646474) - 2026-07-20
+* [Review] [Review on: outbound tx propagation](https://github.com/status-im/nimbus-eth1/pull/4487#pullrequestreview-4743788008) - 2026-07-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

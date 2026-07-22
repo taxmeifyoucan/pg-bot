@@ -27,6 +27,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Clean up custody backfill requests after peer failures](https://github.com/sigp/lighthouse/pull/9665#pullrequestreview-4738615676) - 2026-07-20
 * [Review] [Review on: Ensure disk reads for gloas payload bid fetching are always in a bloc…](https://github.com/sigp/lighthouse/pull/9634#pullrequestreview-4738000696) - 2026-07-20
 * [Review] [Review on: Avoid taking write lock when shuffling is cached](https://github.com/sigp/lighthouse/pull/9615#pullrequestreview-4738518659) - 2026-07-20
+* [Review] [Review on: Back merge 8.2.1](https://github.com/sigp/lighthouse/pull/9676#pullrequestreview-4749708356) - 2026-07-21
 ## Q2 2026
 
 

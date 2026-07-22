@@ -76,6 +76,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(Goldilocks): add support for AVX vectorization for Poseidon2](https://github.com/Plonky3/Plonky3/pull/1953#pullrequestreview-4724279665) - 2026-07-17
 * [Review] [Review on: fix: make bench run and add benches to CI](https://github.com/Plonky3/Plonky3/pull/1952#pullrequestreview-4723620274) - 2026-07-17
 * [Review] [Review on: chore: release v0.6.2](https://github.com/Plonky3/Plonky3/pull/1954#pullrequestreview-4734505171) - 2026-07-20
+* [Review] [Review on: test(zk-codes): pin batch-encode equivalence to shipped DFT, cover length mismatch](https://github.com/Plonky3/Plonky3/pull/1945#pullrequestreview-4743735695) - 2026-07-21
+* [Commit] [test(zk-codes): pin batch-encode equivalence to shipped DFT, cover length mismatch (#1945)](https://github.com/Plonky3/Plonky3/commit/c838a4cd116d1feb7a9e0d7ac54f5672a97235f4) - 2026-07-21
 ## Q2 2026
 
 

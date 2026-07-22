@@ -50,6 +50,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [stateroot refactor for glamsterdam devnet 6](https://github.com/besu-eth/besu/pull/10811) - 2026-07-16
 * [Commit] [display max open file value in the configuration overview (#10812)](https://github.com/besu-eth/besu/commit/338bbcefe8880d8b0898e927dc295c3b198ffa07) - 2026-07-16
 * [Review] [Review on: snap/2 - improve logging](https://github.com/besu-eth/besu/pull/10810#pullrequestreview-4732418532) - 2026-07-20
+* [Pull Request] [Separate Bonsai storage trie nodes into dedicated RocksDB column family](https://github.com/besu-eth/besu/pull/10830) - 2026-07-21
+* [Pull Request] [implement rpc modification for block access list](https://github.com/besu-eth/besu/pull/10828) - 2026-07-21
 ## Q2 2026
 
 

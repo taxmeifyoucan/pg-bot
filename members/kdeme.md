@@ -53,6 +53,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Do not dial nodes advertising TCP port 0 over RLPx + skip malformed bootstrap entries](https://github.com/status-im/nimbus-eth1/pull/4515) - 2026-07-17
 * [Pull Request] [stateless: Load CALL child code before the depth/balance early exits](https://github.com/status-im/nimbus-eth1/pull/4514) - 2026-07-17
 * [Commit] [Do not dial nodes advertising TCP port 0 over RLPx + skip malformed bootstrap entries (#4515)](https://github.com/status-im/nimbus-eth1/commit/37744efc11d86b7aced492a4278c1e56f300d90f) - 2026-07-17
+* [Pull Request] [Support ConcurrentLruCache with --threads:off](https://github.com/status-im/nimbus-eth1/pull/4533) - 2026-07-21
+* [Pull Request] [Fix aristo_compute compilation with --threads:off](https://github.com/status-im/nimbus-eth1/pull/4531) - 2026-07-21
+* [Pull Request] [Remove unneeded chronos import](https://github.com/status-im/nimbus-eth1/pull/4529) - 2026-07-21
+* [Commit] [Fix aristo_compute compilation with --threads:off (#4531)](https://github.com/status-im/nimbus-eth1/commit/1728ad55f0185bff4ae5dd6595ac5e88f5202d6f) - 2026-07-21
+* [Commit] [Remove unneeded chronos import (#4529)](https://github.com/status-im/nimbus-eth1/commit/2c8cba94ffa5d85e960b621e3839620907069915) - 2026-07-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 
@@ -60,6 +65,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4662776381) - 2026-07-09
 
 * [Pull Request] [Update --discovery to --discv5 flag for EL in el nodes script](https://github.com/status-im/nimbus-eth2/pull/8763) - 2026-07-14
+* [Pull Request] [Support compiling buildinfo on/for bare metal](https://github.com/status-im/nimbus-eth2/pull/8792) - 2026-07-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672183323) - 2026-07-10
 ## Q2 2026

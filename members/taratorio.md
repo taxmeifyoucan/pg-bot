@@ -116,6 +116,24 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [rpc: debug_traceBlockByHash panics in prestateTracer CREATE2 path](https://github.com/erigontech/erigon/issues/22607) - 2026-07-20
 * [Issue] [rpc, engineapi: align BAL JSON-RPC behavior with execution-apis](https://github.com/erigontech/erigon/issues/22608) - 2026-07-20
 * [Commit] [commitment: preserve account load flags across storage folds (#22604)](https://github.com/erigontech/erigon/commit/ce872ea1b04d5b8b7153015babebbd47c0c26cda) - 2026-07-20
+* [Review] [Review on: cl: apply curated go-critic static analysis improvements](https://github.com/erigontech/erigon/pull/22620#pullrequestreview-4741695319) - 2026-07-21
+* [Pull Request] [rpc: jsonrpc bal spec adherence](https://github.com/erigontech/erigon/pull/22621) - 2026-07-21
+* [Review] [Review on: rpc: jsonrpc bal spec adherence](https://github.com/erigontech/erigon/pull/22621#pullrequestreview-4742495007) - 2026-07-21
+* [Review] [Review on: unwind: overlay-prune still has systemTx after unwind](https://github.com/erigontech/erigon/pull/22622#pullrequestreview-4742352495) - 2026-07-21
+* [Pull Request] [rpc: fix panic in debug_traceBlockByHash with prestateTracer due to overflow](https://github.com/erigontech/erigon/pull/22623) - 2026-07-21
+* [Pull Request] [ci: disable background FCU pruning and timeout in Hive EEST](https://github.com/erigontech/erigon/pull/22638) - 2026-07-21
+* [Review] [Review on: stagedsync: `minimal` node downloaded all files](https://github.com/erigontech/erigon/pull/22618#pullrequestreview-4741059742) - 2026-07-21
+* [Pull Request] [ci: offload hive eest consume-enginex runs to free github runners](https://github.com/erigontech/erigon/pull/22545) - 2026-07-21
+* [Review] [Review on: ci: offload hive eest consume-enginex runs to free github runners](https://github.com/erigontech/erigon/pull/22545#pullrequestreview-4741057182) - 2026-07-21
+* [Pull Request] [execution: isolate block builders from shared branch cache](https://github.com/erigontech/erigon/pull/22617) - 2026-07-21
+* [Review] [Review on: execution: isolate block builders from shared branch cache](https://github.com/erigontech/erigon/pull/22617#pullrequestreview-4741094365) - 2026-07-21
+* [Issue] [execution/execmodule: stuck payload builder can wedge Engine API after reorg](https://github.com/erigontech/erigon/issues/22631) - 2026-07-21
+* [Commit] [rpc: jsonrpc bal spec adherence (#22621)](https://github.com/erigontech/erigon/commit/011a0f810bb412036b1ad5da12a6682ad095f8c1) - 2026-07-21
+* [Commit] [rpc: fix panic in debug_traceBlockByHash with prestateTracer due to overflow (#22623)](https://github.com/erigontech/erigon/commit/70895fe56ff63b022bf8ed9adbaa9baafc0b1ef6) - 2026-07-21
+* [Commit] [ci: disable background FCU pruning and timeout in Hive EEST (#22638)](https://github.com/erigontech/erigon/commit/408439e8882b34bd1fca766de3090dee6c94f5d2) - 2026-07-21
+* [Commit] [ci: offload hive eest consume-enginex runs to free github runners (#22545)](https://github.com/erigontech/erigon/commit/931a5cfbb049d16ac15ed75d449b1df3789ce38c) - 2026-07-21
+* [Commit] [execution: isolate block builders from shared branch cache (#22617)](https://github.com/erigontech/erigon/commit/827cc4d46e977ea45598e248402a6bb48363a1da) - 2026-07-21
+* [Commit] [ci: update hive version to latest commit with pre-staged fixtures support (#22611)](https://github.com/erigontech/erigon/commit/7be953883dabfbd2db63c0d5e182b0cd40409b72) - 2026-07-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

@@ -35,6 +35,10 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump alloy core 1.6.1](https://github.com/paradigmxyz/reth/pull/26419#pullrequestreview-4714933637) - 2026-07-16
 * [Review] [Review on: feat(builder): pause jit while building payloads](https://github.com/paradigmxyz/reth/pull/26429#pullrequestreview-4725726131) - 2026-07-17
 * [Review] [Review on: chore(deps): bump the ci-weekly group with 3 updates](https://github.com/paradigmxyz/reth/pull/26443#pullrequestreview-4736334507) - 2026-07-20
+* [Pull Request] [fix(rpc): restore evm2 parity](https://github.com/paradigmxyz/reth/pull/26464) - 2026-07-21
+* [Pull Request] [refactor: decouple evm references](https://github.com/paradigmxyz/reth/pull/26463) - 2026-07-21
+* [Review] [Review on: feat(metrics): engine thread resource usage](https://github.com/paradigmxyz/reth/pull/26459#pullrequestreview-4743748651) - 2026-07-21
+* [Commit] [refactor: decouple evm references (#26463)](https://github.com/paradigmxyz/reth/commit/841ba4a944fe1b2dc2072956d087dc7b33311adc) - 2026-07-21
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

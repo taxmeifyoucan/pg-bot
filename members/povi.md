@@ -41,6 +41,8 @@ Team: Grandine
 * [Review] [Review on: Wait for proposer preferences broadcasting to finish](https://github.com/grandinetech/grandine/pull/804#pullrequestreview-4711943874) - 2026-07-16
 * [Review] [Review on: Gloas attestations](https://github.com/grandinetech/grandine/pull/813#pullrequestreview-4711886833) - 2026-07-16
 * [Review] [Review on: Fix Gloas data column sidecar range sync](https://github.com/grandinetech/grandine/pull/815#pullrequestreview-4711806842) - 2026-07-16
+* [Review] [Review on: Upgrade Nethermind to 1.39.1 version](https://github.com/grandinetech/grandine/pull/825#pullrequestreview-4743779001) - 2026-07-21
+* [Pull Request] [Fire post-Gloas block events without waiting for EL status](https://github.com/grandinetech/grandine/pull/824) - 2026-07-21
 ## Q2 2026
 
 

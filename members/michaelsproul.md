@@ -36,6 +36,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [FCR correctness investigations](https://github.com/sigp/lighthouse/issues/9664) - 2026-07-20
 * [Issue] [FCR UX tweaks](https://github.com/sigp/lighthouse/issues/9663) - 2026-07-20
 * [Issue] [Remove invalid blocks from fork choice](https://github.com/sigp/lighthouse/issues/9662) - 2026-07-20
+* [Pull Request] [Back merge 8.2.1](https://github.com/sigp/lighthouse/pull/9676) - 2026-07-21
+* [Pull Request] [Back merge 8.2.1](https://github.com/sigp/lighthouse/pull/9671) - 2026-07-21
+* [Review] [Review on: Optimise hdiff buffer handling by (re)using Milhouse data structures](https://github.com/sigp/lighthouse/pull/9236#pullrequestreview-4742058226) - 2026-07-21
+* [Pull Request] [Release v8.2.1](https://github.com/sigp/lighthouse/pull/9670) - 2026-07-21
+* [Commit] [Release v8.2.1](https://github.com/sigp/lighthouse/commit/b263df596671a2bd42bf1034e1cdc8188ba8a9b0) - 2026-07-21
 ## Q2 2026
 
 

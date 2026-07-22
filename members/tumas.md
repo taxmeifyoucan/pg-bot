@@ -17,6 +17,9 @@ Team: Grandine
 * [Commit] [Support IPv6-only network listening via `--disable-ipv4` (#787)](https://github.com/grandinetech/grandine/commit/f7c438b82b10588861ee121dfc6b875c39561483) - 2026-07-09
 * [Review] [Review on: Update `crossbeam-epoch`](https://github.com/grandinetech/grandine/pull/803#pullrequestreview-4671780386) - 2026-07-10
 * [Commit] [Add `--args-file` to load CLI options from a YAML file (#782)](https://github.com/grandinetech/grandine/commit/d8adce56ed2a324c5abd72af8c0ff94a492ae7d3) - 2026-07-15
+* [Pull Request] [Update book (#817)](https://github.com/grandinetech/grandine/pull/827) - 2026-07-21
+* [Pull Request] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/826) - 2026-07-21
+* [Review] [Review on: Fire post-Gloas block events without waiting for EL status](https://github.com/grandinetech/grandine/pull/824#pullrequestreview-4743627672) - 2026-07-21
 ## Q2 2026
 
 

@@ -65,6 +65,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(rpc): align eth_getBlockAccessList and engine payload bodies V2 with execution-apis spec](https://github.com/NethermindEth/nethermind/pull/12504#pullrequestreview-4735972552) - 2026-07-20
 * [Review] [Review on: Devnet-7 tests and repricing](https://github.com/NethermindEth/nethermind/pull/12476#pullrequestreview-4734697742) - 2026-07-20
 * [Commit] [fix(rpc): align eth_getBlockAccessList and engine payload bodies V2 with execution-apis spec (#12504)](https://github.com/NethermindEth/nethermind/commit/b9a78be3cd331e395a37b2bcca870700ba0d5aae) - 2026-07-20
+* [Pull Request] [feat: implement EIP-8298 SETCODEFROM opcode](https://github.com/NethermindEth/nethermind/pull/12536) - 2026-07-21
+* [Pull Request] [refactor(evm): move call-frame metadata from VmState to ExecutionEnvironment](https://github.com/NethermindEth/nethermind/pull/12530) - 2026-07-21
+* [Review] [Review on: [WIP] EIP-8288 - Frame type for PQ sig and STARK aggregation](https://github.com/NethermindEth/nethermind/pull/12513#pullrequestreview-4744279948) - 2026-07-21
+* [Commit] [Batch EIP-2537 pairing check Miller loops and use affine MSM (#12329)](https://github.com/NethermindEth/nethermind/commit/bcc44aecc203ca083d7505c644b4a9fb51a4f3b1) - 2026-07-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

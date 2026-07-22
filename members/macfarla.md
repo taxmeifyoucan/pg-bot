@@ -50,11 +50,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [minor: partially address errorprone warnings from next version (#10664)](https://github.com/besu-eth/besu/commit/bbc23ff4aacc98ad6cb7f68e50f1ad8a397fefad) - 2026-07-21
 * [Commit] [update commons-io to 2.22.0 (#10809)](https://github.com/besu-eth/besu/commit/4030747db0297477286a3949f6f7ea5d6ff6b1ee) - 2026-07-21
 
+* [Pull Request] [deprecate(cli): --network=dev with warning message](https://github.com/besu-eth/besu/pull/10836) - 2026-07-22
+* [Review] [Review on: deprecate(cli): --network=dev with warning message](https://github.com/besu-eth/besu/pull/10836#pullrequestreview-4750363965) - 2026-07-22
+* [Pull Request] [fix(p2p): additional permanent disconnect reasons](https://github.com/besu-eth/besu/pull/10827) - 2026-07-21
+* [Pull Request] [update besu native dependencies to 2.0.0](https://github.com/besu-eth/besu/pull/10835) - 2026-07-21
+* [Review] [Review on: Remove ipa-multipoint from besu](https://github.com/besu-eth/besu/pull/10833#pullrequestreview-4749774620) - 2026-07-21
+* [Review] [Review on: fix(eth/manager): shut down blockCreationExecutor in EthScheduler](https://github.com/besu-eth/besu/pull/10826#pullrequestreview-4742170377) - 2026-07-21
+* [Commit] [fix(p2p): additional permanent disconnect reasons (#10827)](https://github.com/besu-eth/besu/commit/578d8bcb69e93e8ed712d0208934942de94e010e) - 2026-07-22
+* [Commit] [update besu native dependencies to 2.0.0 (#10835)](https://github.com/besu-eth/besu/commit/78f5cbaecb5e081dc7aefa7cb121a62ff21e8d43) - 2026-07-22
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21
 * [Review] [Review on: Fixed `BLS` test comments](https://github.com/besu-eth/besu-native/pull/288#pullrequestreview-4740155206) - 2026-07-21
 * [Commit] [changelog and version bump for release 2.0.0 (#319)](https://github.com/besu-eth/besu-native/commit/75422ca126d9bf6f3c512ac27b82985e7a72ed99) - 2026-07-21
+* [Commit] [changelog and version bump post release 2.0.0 (#320)](https://github.com/besu-eth/besu-native/commit/2a3a58d88a42d58fc5ec30b3fd0ebdd063f86c39) - 2026-07-21
 ## Q2 2026
 
 

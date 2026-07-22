@@ -6,6 +6,11 @@ Github: [@carsons-eels](https://github.com/carsons-eels)
 
 ## Contributions
 
+## Q3 2026
+
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Update Carson to partial weight](https://github.com/protocolguild/documentation/pull/527#pullrequestreview-4745735833) - 2026-07-21
 ## Q2 2026
 
 

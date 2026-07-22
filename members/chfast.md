@@ -67,6 +67,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [test: Regression-test storage isolation on create-over-existing revert](https://github.com/ipsilon/evmone/pull/1604) - 2026-07-20
 * [Commit] [state: Build the EIP-7702 delegation designation in a stack buffer (#1605)](https://github.com/ipsilon/evmone/commit/846cabff0b044239008600470eb4f0928dcdd83d) - 2026-07-20
 * [Commit] [test: Regression-test storage isolation on create-over-existing revert (#1604)](https://github.com/ipsilon/evmone/commit/db60e70f0c6e999255fbcc41a35919c1299a69fa) - 2026-07-20
+* [Pull Request] [state: Dedup the recipient lookup in execute_message](https://github.com/ipsilon/evmone/pull/1607) - 2026-07-21
+* [Commit] [state: Dedup the recipient lookup in execute_message (#1607)](https://github.com/ipsilon/evmone/commit/9ac302389e74dfd2b7a5458ffdfce0ca9b42df63) - 2026-07-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

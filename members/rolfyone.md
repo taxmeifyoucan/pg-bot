@@ -65,6 +65,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Remove parent block number from payload attributes post gloas](https://github.com/Consensys/teku/pull/10975#pullrequestreview-4731841270) - 2026-07-20
 * [Review] [Review on: Update Schema Registry and adopt progressive ssz in GLOAS](https://github.com/Consensys/teku/pull/10966#pullrequestreview-4731875043) - 2026-07-20
 * [Commit] [  Return 204 for producePayloadAttestationData when no block seen at slot (#10965)](https://github.com/Consensys/teku/commit/d9ac96d172294a81df9ef3d97feb69733261ff95) - 2026-07-20
+* [Review] [Review on: Update actions/setup-node action to v7](https://github.com/Consensys/teku/pull/10996#pullrequestreview-4750313633) - 2026-07-22
+* [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys/teku/pull/10995#pullrequestreview-4750299578) - 2026-07-22
+* [Review] [Review on: Implement `eth/v1/beacon/execution_payload_envelopes`](https://github.com/Consensys/teku/pull/10537#pullrequestreview-4750054711) - 2026-07-22
+* [Review] [Review on: Fast Confirmation Rule Utilities part 1](https://github.com/Consensys/teku/pull/10984#pullrequestreview-4750047174) - 2026-07-22
+* [Pull Request] [Add ROCKSDB_TREE as a database version](https://github.com/Consensys/teku/pull/10993) - 2026-07-21
+* [Review] [Review on: Remove send deposits cli](https://github.com/Consensys/teku/pull/10982#pullrequestreview-4749895045) - 2026-07-21
+* [Review] [Review on: Replace deprecated BeaconChainUtil in EpochTransitionBenchmark](https://github.com/Consensys/teku/pull/10992#pullrequestreview-4749922419) - 2026-07-22
+* [Issue] [extend tree storage to rocksdb](https://github.com/Consensys/teku/issues/10989) - 2026-07-21
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 ## Q2 2026

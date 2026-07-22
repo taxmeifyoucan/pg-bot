@@ -25,6 +25,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf(engine): txpool prewarming](https://github.com/paradigmxyz/reth/pull/26378#pullrequestreview-4737060698) - 2026-07-20
 * [Review] [Review on: feat(trie): expose payload state root receiver](https://github.com/paradigmxyz/reth/pull/26431#pullrequestreview-4735608683) - 2026-07-20
 * [Commit] [feat(engine): configure dev finality depth (#26451)](https://github.com/paradigmxyz/reth/commit/01d3400ffa06ff8912ade8c693cdafce54d0c936) - 2026-07-20
+* [Pull Request] [refactor(evm): generalize ethereum block executor types](https://github.com/paradigmxyz/reth/pull/26468) - 2026-07-21
+* [Pull Request] [refactor(evm): generalize block executor transaction types](https://github.com/paradigmxyz/reth/pull/26466) - 2026-07-21
+* [Pull Request] [refactor(evm): restore block executor abstractions](https://github.com/paradigmxyz/reth/pull/26465) - 2026-07-21
 ## Q2 2026
 
 

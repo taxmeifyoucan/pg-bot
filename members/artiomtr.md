@@ -15,6 +15,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Implement stable containers](https://github.com/grandinetech/grandine/pull/798) - 2026-07-09
 * [Commit] [Move pubkey index cache into pubkey list.](https://github.com/grandinetech/grandine/commit/f603cf04a6dbc316df7bc383e731c603d48c7323) - 2026-07-10
 * [Commit] [Implement structurally shared validator list](https://github.com/grandinetech/grandine/commit/70e0aad900ad1b26919f812b17c7a9dee3abbed7) - 2026-07-10
+* [Pull Request] [Upgrade Nethermind to 1.39.1 version](https://github.com/grandinetech/grandine/pull/825) - 2026-07-21
+* [Commit] [Upgrade Nethermind plugin to 1.39.1 version](https://github.com/grandinetech/grandine/commit/38ec6e3bf3b5d5c1f8293b3543a31faf00f96551) - 2026-07-21
+* [Commit] [Fix nethermind plugin clean build](https://github.com/grandinetech/grandine/commit/7016cd6958c245b67fa90179789fa229ca6452a9) - 2026-07-21
 ## Q2 2026
 
 

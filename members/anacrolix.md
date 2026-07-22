@@ -6,6 +6,11 @@ Github: [@anacrolix](https://github.com/anacrolix)
 
 ## Contributions
 
+## Q3 2026
+
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: enr: cut ENR decode allocations](https://github.com/erigontech/erigon/pull/22587#pullrequestreview-4741427012) - 2026-07-21
 ## Q2 2026
 
 

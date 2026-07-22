@@ -48,6 +48,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [`TestStatusRPCRequest_FinalizedBlockSkippedSlots`:  Avoid panic if the stream handler is invoked more than once, by avoiding `wg.Done` to lead to a negative counter. (#17197)](https://github.com/OffchainLabs/prysm/commit/81c5fc9bc6504b056a95dd6ede737419ca9a4a12) - 2026-07-19
 * [Review] [Review on: `saveHead`: Clear the head cache when the head is updated.](https://github.com/OffchainLabs/prysm/pull/17143#pullrequestreview-4734287175) - 2026-07-20
 * [Commit] [`saveHead`: Clear the head cache when the head is updated. (#17143)](https://github.com/OffchainLabs/prysm/commit/3dec992f50a62542bcbf7f4601a0f018ecdf57e7) - 2026-07-20
+* [Pull Request] [`--max-builder-consecutive-missed-slots` and `--max-builder-epoch-missed-slots` help text: Reports the mainnet config value as the default instead of a hardcoded, false and unused values.](https://github.com/OffchainLabs/prysm/pull/17211) - 2026-07-21
+* [Review] [Review on: Kurtosis+E2E: Set up Kurtosis harness and Add minimal tests](https://github.com/OffchainLabs/prysm/pull/16999#pullrequestreview-4743858605) - 2026-07-21
+* [Review] [Review on: Implement the active-active mode in the REST validator client.](https://github.com/OffchainLabs/prysm/pull/17075#pullrequestreview-4745645960) - 2026-07-21
+* [Commit] [`--max-builder-consecutive-missed-slots` and `--max-builder-epoch-missed-slots` help text: Reports the mainnet config value as the default instead of a hardcoded, false and unused values. (#17211)](https://github.com/OffchainLabs/prysm/commit/df3030c49769a38b747345abdc636e32acdb9322) - 2026-07-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 ## Q2 2026

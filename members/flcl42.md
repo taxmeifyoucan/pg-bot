@@ -101,6 +101,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Eliminate closure in signature recovery](https://github.com/NethermindEth/nethermind/pull/12502#pullrequestreview-4734405473) - 2026-07-20
 * [Review] [Review on: Skip Rlp wrapper allocation in StorageTree](https://github.com/NethermindEth/nethermind/pull/12500#pullrequestreview-4734307039) - 2026-07-20
 * [Commit] [Fix EIP-2780 gas after sender recovery (#12459)](https://github.com/NethermindEth/nethermind/commit/8ff06a0796ddc29eb2507296eec41c12c917cb3a) - 2026-07-20
+* [Pull Request] [Handle short Snap trie paths](https://github.com/NethermindEth/nethermind/pull/12523) - 2026-07-21
+* [Pull Request] [Validate Hive side-chain parents](https://github.com/NethermindEth/nethermind/pull/12525) - 2026-07-21
+* [Commit] [Handle short Snap trie paths (#12523)](https://github.com/NethermindEth/nethermind/commit/0647075ff91d651f9b65d8db3cd19c345c14a406) - 2026-07-21
+* [Commit] [Devnet-7 tests and repricing (#12476)](https://github.com/NethermindEth/nethermind/commit/f1a28b67bc19e89e8ca2da7944da3e68079c67a4) - 2026-07-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

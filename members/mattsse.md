@@ -142,6 +142,8 @@ Team: Reth
 * [Review] [Review on: feat(trie): expose payload state root receiver](https://github.com/paradigmxyz/reth/pull/26431#pullrequestreview-4736018907) - 2026-07-20
 * [Review] [Review on: test(net): add first snap e2e tests](https://github.com/paradigmxyz/reth/pull/26368#pullrequestreview-4735068884) - 2026-07-20
 * [Review] [Review on: fix(rpc): add BAL debug method ](https://github.com/paradigmxyz/reth/pull/26438#pullrequestreview-4734816407) - 2026-07-20
+* [Review] [Review on: chore(docker): bump lighthouse v8.2.1](https://github.com/paradigmxyz/reth/pull/26469#pullrequestreview-4750303260) - 2026-07-22
+* [Review] [Review on: chore(examples): remove precompile cache example](https://github.com/paradigmxyz/reth/pull/26467#pullrequestreview-4747635974) - 2026-07-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

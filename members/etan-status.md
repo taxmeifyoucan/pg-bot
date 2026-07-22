@@ -28,6 +28,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Use same file limits in light client as in BN/VC](https://github.com/status-im/nimbus-eth2/pull/8768) - 2026-07-14
 * [Pull Request] [Sync custody group changes to all subnets on fork transition](https://github.com/status-im/nimbus-eth2/pull/8766) - 2026-07-14
 * [Pull Request] [Restore --peerdas-supernode functionality](https://github.com/status-im/nimbus-eth2/pull/8767) - 2026-07-14
+* [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4743866311) - 2026-07-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630) - 2026-07-06
 * [Commit] [Forward compatible consensus data structures (EIP-7688) (#4630)](https://github.com/ethereum/consensus-specs/commit/bd6df5afe26d56e9ccf623071c3b574a76967ac9) - 2026-07-06

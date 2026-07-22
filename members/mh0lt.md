@@ -41,6 +41,7 @@ Team: Erigon
 * [Review] [Review on: exec: return system-tx IntraBlockState to the stateObject pool](https://github.com/erigontech/erigon/pull/22573#pullrequestreview-4733824764) - 2026-07-20
 * [Review] [Review on: execution, rpc: release IntraBlockState in unit tests](https://github.com/erigontech/erigon/pull/22582#pullrequestreview-4733828871) - 2026-07-20
 * [Review] [Review on: exec: return the displaced write set when merging finalize writes](https://github.com/erigontech/erigon/pull/22579#pullrequestreview-4733828773) - 2026-07-20
+* [Issue] [aggregator: OpenFolder → closeWhatNotInList bypasses the visible-generation retirement path, races concurrent RO tx into nil *Decompressor](https://github.com/erigontech/erigon/issues/22646) - 2026-07-21
 ## Q2 2026
 
 

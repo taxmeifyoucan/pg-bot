@@ -75,6 +75,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update dependency mypy to v2.3.0](https://github.com/ethereum/consensus-specs/pull/5456#pullrequestreview-4734927840) - 2026-07-20
 * [Review] [Review on: Update dependency codespell to v2.4.3](https://github.com/ethereum/consensus-specs/pull/5453#pullrequestreview-4734874260) - 2026-07-20
 * [Issue] [Explore using Zensical for website](https://github.com/ethereum/consensus-specs/issues/5457) - 2026-07-20
+* [Review] [Review on: Correct `MIN_SLOTS_FOR_INCLUSION_LISTS_REQUESTS` value](https://github.com/ethereum/consensus-specs/pull/5462#pullrequestreview-4744837098) - 2026-07-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

@@ -35,6 +35,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore: Update Nethermind.Crypto.SecP256r1 package (#12484)](https://github.com/NethermindEth/nethermind/commit/259bc16c2751d473e89bdc8961e58a06eb629cc3) - 2026-07-18
 * [Review] [Review on: perf(evm): remove ZeroPaddedSpan in favor of exact slices and zero-extended copy](https://github.com/NethermindEth/nethermind/pull/12508#pullrequestreview-4738047090) - 2026-07-20
 * [Review] [Review on: perf(db): use tcmalloc for native allocations in the Docker image](https://github.com/NethermindEth/nethermind/pull/12486#pullrequestreview-4733508934) - 2026-07-20
+* [Review] [Review on: Batch EIP-2537 pairing check Miller loops and use affine MSM](https://github.com/NethermindEth/nethermind/pull/12329#pullrequestreview-4748275832) - 2026-07-21
+* [Review] [Review on: feat(core): responsive startup logo with adaptive layout](https://github.com/NethermindEth/nethermind/pull/11413#pullrequestreview-4749130170) - 2026-07-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 ## Q2 2026

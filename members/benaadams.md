@@ -106,6 +106,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf: seal WorldState and CodeInfo (#12497)](https://github.com/NethermindEth/nethermind/commit/09360161d1cb4fba4e02636426487d76607dbdcc) - 2026-07-20
 * [Commit] [perf(evm): skip recipient delegation lookup when EIP-8037 is not active (#12495)](https://github.com/NethermindEth/nethermind/commit/6aba2c15a07857226b3dec2b68c2405446223241) - 2026-07-20
 * [Commit] [refactor(evm): remove unused BitmapHelper (#12493)](https://github.com/NethermindEth/nethermind/commit/492279fc731102293dcda9ff457ac7f31b58ed70) - 2026-07-20
+* [Review] [Review on: Batch EIP-2537 pairing check Miller loops and use affine MSM](https://github.com/NethermindEth/nethermind/pull/12329#pullrequestreview-4747018206) - 2026-07-21
+* [Review] [Review on: feat(core): responsive startup logo with adaptive layout](https://github.com/NethermindEth/nethermind/pull/11413#pullrequestreview-4749010880) - 2026-07-21
+* [Review] [Review on: Handle short Snap trie paths](https://github.com/NethermindEth/nethermind/pull/12523#pullrequestreview-4746785428) - 2026-07-21
+* [Review] [Review on: chore: Update Dockerfiles (#12452)](https://github.com/NethermindEth/nethermind/pull/12516#pullrequestreview-4741644405) - 2026-07-21
+* [Pull Request] [perf(evm): optimize zero-value handling in SSTORE, SLOAD, and WithoutLeadingZeros](https://github.com/NethermindEth/nethermind/pull/12518) - 2026-07-21
+* [Review] [Review on: perf(evm): optimize zero-value handling in SSTORE, SLOAD, and WithoutLeadingZeros](https://github.com/NethermindEth/nethermind/pull/12518#pullrequestreview-4743030219) - 2026-07-21
+* [Commit] [perf(evm): optimize zero-value handling in SSTORE, SLOAD, and WithoutLeadingZeros (#12518)](https://github.com/NethermindEth/nethermind/commit/7d81baa17fbe7cb5e092c7fdbe6fcfc2f97bba18) - 2026-07-21
+* [Commit] [perf(engine): overlap the newPayload transactions-root computation with the serial prefix (#12515)](https://github.com/NethermindEth/nethermind/commit/96b452325ca8dbe35bae715ee7585de967df948c) - 2026-07-21
+* [Commit] [perf(rpc): use Content-Length for unbuffered HTTP/1.1 responses and drop the Server header (#12514)](https://github.com/NethermindEth/nethermind/commit/2bf64cfe52155958aac462355ebc6554c7e2acfb) - 2026-07-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

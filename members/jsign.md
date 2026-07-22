@@ -33,6 +33,13 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat: add opcode_count to eest block metadata](https://github.com/eth-act/zkevm-benchmark-workload/pull/300#pullrequestreview-4724172489) - 2026-07-17
 * [Pull Request] [Update to tentative ere-guests v0.14](https://github.com/eth-act/zkevm-benchmark-workload/pull/301) - 2026-07-20
 * [Pull Request] [Use EEST fixtures as the unified witness-generator output format](https://github.com/eth-act/zkevm-benchmark-workload/pull/302) - 2026-07-20
+* [Pull Request] [feat: enhance HTML output with formatted byte sizes and reverse batch listing](https://github.com/eth-act/zkevm-benchmark-workload/pull/304) - 2026-07-21
+* [Pull Request] [refactor: improve artifact handling and metadata reconciliation in export process](https://github.com/eth-act/zkevm-benchmark-workload/pull/303) - 2026-07-21
+* [Review] [Review on: Update to tentative ere-guests v0.14](https://github.com/eth-act/zkevm-benchmark-workload/pull/301#pullrequestreview-4743905968) - 2026-07-21
+* [Commit] [feat: enhance HTML output with formatted byte sizes and reverse batch listing (#304)](https://github.com/eth-act/zkevm-benchmark-workload/commit/8521ac4b368a04ff35acf9c726b2b771544511fc) - 2026-07-21
+* [Commit] [refactor: improve artifact handling and metadata reconciliation in export process (#303)](https://github.com/eth-act/zkevm-benchmark-workload/commit/806e358b2c12ad9a90176633c762c8fdec5bc031) - 2026-07-21
+* [Commit] [Use EEST fixtures as the unified witness-generator output format (#302)](https://github.com/eth-act/zkevm-benchmark-workload/commit/2bba5edee142c2c05f62aaba88e0725e227d6a4e) - 2026-07-21
+* [Commit] [Update to tentative ere-guests v0.14 (#301)](https://github.com/eth-act/zkevm-benchmark-workload/commit/dfcc98e18910b874755689eaba88b8cd7630f9e5) - 2026-07-21
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [feat(EngineAPI): support engine_newPayloadWithWitnessVX](https://github.com/paradigmxyz/reth/issues/26415) - 2026-07-16
 

@@ -35,6 +35,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Refactor engine_forkchoiceUpdated into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10709#pullrequestreview-4733608377) - 2026-07-20
 * [Review] [Review on: Refactor `engine_forkchoiceUpdated` into sealed version hierarchy](https://github.com/besu-eth/besu/pull/10475#pullrequestreview-4733569557) - 2026-07-20
 * [Review] [Review on: Add japicmp binary compatibility check for the Plugin API](https://github.com/besu-eth/besu/pull/10823#pullrequestreview-4733938147) - 2026-07-20
+* [Review] [Review on: Add japicmp binary compatibility check for the Plugin API](https://github.com/besu-eth/besu/pull/10823#pullrequestreview-4744425965) - 2026-07-21
+* [Pull Request] [Refactor engine_newPayload into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10831) - 2026-07-21
+* [Commit] [Refactor engine_forkchoiceUpdated into a sealed version hierarchy (#10709)](https://github.com/besu-eth/besu/commit/1c80501c311c95f327c8a0d6a45ffcb05578e84f) - 2026-07-21
 ## Q2 2026
 
 

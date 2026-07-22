@@ -19,6 +19,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859#pullrequestreview-4638077993) - 2026-07-06
 * [Review] [Review on: Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899#pullrequestreview-4654194568) - 2026-07-08
 * [Review] [Review on: Config: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4687410678) - 2026-07-13
+* [Pull Request] [Update EIP-1: Add ethereum/sys-asm as an approved origin](https://github.com/ethereum/EIPs/pull/11986) - 2026-07-21
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
 
@@ -44,6 +45,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: add communication style to agents.md](https://github.com/ChainSafe/lodestar/pull/9668#pullrequestreview-4714467635) - 2026-07-16
 * [Commit] [chore: add communication style to agents.md (#9668)](https://github.com/ChainSafe/lodestar/commit/77f7452c301528e0fa4261b85816ba99e90fc1e2) - 2026-07-16
 * [Commit] [chore: update ssz to 1.6.2 (#9658)](https://github.com/ChainSafe/lodestar/commit/bd1bed5b8fb414b8bcf561dc0ccd7f2bc4fbc38b) - 2026-07-16
+* [Review] [Review on: fix: harden assertLinearChainSegment](https://github.com/ChainSafe/lodestar/pull/9684#pullrequestreview-4748503769) - 2026-07-21
+* [Review] [Review on: fix: split execution engine errors](https://github.com/ChainSafe/lodestar/pull/9685#pullrequestreview-4748517793) - 2026-07-21
+* [Review] [Review on: fix: scan all proto array nodes when counting payload reveals](https://github.com/ChainSafe/lodestar/pull/9676#pullrequestreview-4748462878) - 2026-07-21
+* [Review] [Review on: perf: improve process_attestation() for gloas](https://github.com/ChainSafe/lodestar/pull/9664#pullrequestreview-4748422780) - 2026-07-21
+* [Commit] [feat: implement EIP 7688 (#9390)](https://github.com/ChainSafe/lodestar/commit/17a48050e67af1c339b28f1283d5c2f04dc60bc1) - 2026-07-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -77,6 +83,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bindings): validate secret key hex length](https://github.com/ChainSafe/lodestar-z/pull/517#pullrequestreview-4715064262) - 2026-07-16
 * [Review] [Review on: fix(bls): clean up partial thread pool initialization](https://github.com/ChainSafe/lodestar-z/pull/490#pullrequestreview-4724335397) - 2026-07-17
 * [Review] [Review on: docs: more comprehensive AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/520#pullrequestreview-4738506562) - 2026-07-20
+* [Pull Request] [refactor(pubkeys): centralize the process-wide cache](https://github.com/ChainSafe/lodestar-z/pull/522) - 2026-07-21
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

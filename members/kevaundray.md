@@ -24,6 +24,9 @@ Team: Consensus R&D (EF)
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716803581) - 2026-07-16
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737690816) - 2026-07-20
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [chore: Add a command to export preimages](https://github.com/erigontech/erigon/pull/22645) - 2026-07-21
 ## Q2 2026
 
 

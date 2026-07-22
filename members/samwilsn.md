@@ -33,6 +33,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [CI: Grab latest version of eipw.](https://github.com/ethereum/EIPs/pull/11916) - 2026-07-11
 * [Review] [Review on: CI: Fix auto review artifact handoff on Node 24](https://github.com/ethereum/EIPs/pull/11923#pullrequestreview-4695870685) - 2026-07-14
 * [Commit] [Add guideline for including language versions in examples (#11737)](https://github.com/ethereum/EIPs/commit/67c833cb3e6efcd36fd8c589df733a4a5466032f) - 2026-07-17
+* [Review] [Review on: Update EIP-8282: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4746576949) - 2026-07-21
+* [Review] [Review on: CI: Grab latest version of eipw.](https://github.com/ethereum/EIPs/pull/11916#pullrequestreview-4748009627) - 2026-07-21
+* [Review] [Review on: Add EIP: Validated EVM Code](https://github.com/ethereum/EIPs/pull/11922#pullrequestreview-4746682285) - 2026-07-21
+* [Review] [Review on: Update EIP-1: Remove execution-spec-tests from allowed link exceptions](https://github.com/ethereum/EIPs/pull/11845#pullrequestreview-4746882116) - 2026-07-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Leo Lara contributions: add execution-specs](https://github.com/protocolguild/documentation/pull/515#pullrequestreview-4652756505) - 2026-07-08
 ## Q2 2026

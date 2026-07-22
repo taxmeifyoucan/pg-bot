@@ -165,6 +165,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Raise default TrieWarmer worker count from 1/2 to 3/4 of cores](https://github.com/NethermindEth/nethermind/pull/12479#pullrequestreview-4721615886) - 2026-07-17
 * [Pull Request] [refactor: remove unused IFlatDbManager.ReorgBoundaryReached](https://github.com/NethermindEth/nethermind/pull/12496) - 2026-07-20
 * [Commit] [refactor: remove unused IFlatDbManager.ReorgBoundaryReached (#12496)](https://github.com/NethermindEth/nethermind/commit/cada86a60c19a08b11515a2991d45e29a7e602d4) - 2026-07-20
+* [Review] [Review on: fix(flat): guard the trie-warmer against a TransientResource recycle race (storage reads as 0x00)](https://github.com/NethermindEth/nethermind/pull/12429#pullrequestreview-4749750990) - 2026-07-21
+* [Review] [Review on: feat(xdc): add XdcHeaderModule for correct header/block decoder registration](https://github.com/NethermindEth/nethermind/pull/12520#pullrequestreview-4743852998) - 2026-07-21
+* [Review] [Review on: Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool](https://github.com/NethermindEth/nethermind/pull/12468#pullrequestreview-4743904168) - 2026-07-21
 ## Q2 2026
 
 
