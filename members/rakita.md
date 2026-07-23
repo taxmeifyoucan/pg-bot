@@ -25,6 +25,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [refactor(revme): separate bytecode from account in test state](https://github.com/bluealloy/revm/pull/3803) - 2026-07-16
 * [Commit] [chore(deps): bump crossbeam-epoch to 0.9.20 (RUSTSEC-2026-0204) (#3804)](https://github.com/bluealloy/revm/commit/5199506d7290889a6943a916f96a8cd161299bf8) - 2026-07-16
 * [Commit] [refactor(revme): separate bytecode from account in test state (#3803)](https://github.com/bluealloy/revm/commit/4c5cc3a89699f2a2e944525d48838af44ae5b3de) - 2026-07-16
+* [Pull Request] [fix(inspector): forward EIP-7708 transfer logs to the inspector](https://github.com/bluealloy/revm/pull/3816) - 2026-07-22
+* [Review] [Review on: fix(inspector): ignore stale SELFDESTRUCT journal entries](https://github.com/bluealloy/revm/pull/3805#pullrequestreview-4754613814) - 2026-07-22
+* [Commit] [feat(amsterdam): glamsterdam devnet-7 alignment (EIP-2780 runtime gas phase, fixtures v7.0.0) (#3795)](https://github.com/bluealloy/revm/commit/f47a3e93a64490210c7cc1fa4e85ca5c15ed967f) - 2026-07-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02
@@ -40,6 +43,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: Port remaining bal-devnet-7 changes to glamsterdam-devnet-6](https://github.com/paradigmxyz/reth/pull/26320#pullrequestreview-4646768790) - 2026-07-07
 * [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/reth/pull/26390) - 2026-07-14
 
+* [Review] [Review on: chore(evm): update evm2](https://github.com/paradigmxyz/reth/pull/26481#pullrequestreview-4756561704) - 2026-07-22
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/revmc/pull/404) - 2026-07-14
 ## Q2 2026

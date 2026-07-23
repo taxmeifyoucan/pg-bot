@@ -43,6 +43,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Use BoringSSL for the sha256 precompile (#4524)](https://github.com/status-im/nimbus-eth1/commit/7d55bb10b942f712ccf8b08f2deded788142ddbc) - 2026-07-20
 * [Commit] [Use BoringSSL P-256 for the P256VERIFY precompile (#4521)](https://github.com/status-im/nimbus-eth1/commit/9656167800ce097998c4b89fcf8c6effa5869316) - 2026-07-20
 * [Review] [Review on: Fix aristo_compute compilation with --threads:off](https://github.com/status-im/nimbus-eth1/pull/4531#pullrequestreview-4746359496) - 2026-07-21
+* [Review] [Review on: optimize PREVRANDAO benchmarks](https://github.com/status-im/nimbus-eth1/pull/4536#pullrequestreview-4751363560) - 2026-07-22
+* [Pull Request] [Optimize proofOfStake check for PREVRANDAO opcode](https://github.com/status-im/nimbus-eth1/pull/4538) - 2026-07-22
+* [Commit] [If the fork is shanghai or later then skip the expensive check. (#4538)](https://github.com/status-im/nimbus-eth1/commit/da36439b68ee3037d369f90406d30a87fe436f2f) - 2026-07-22
 ## Q2 2026
 
 

@@ -28,6 +28,12 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [refactor(evm): generalize ethereum block executor types](https://github.com/paradigmxyz/reth/pull/26468) - 2026-07-21
 * [Pull Request] [refactor(evm): generalize block executor transaction types](https://github.com/paradigmxyz/reth/pull/26466) - 2026-07-21
 * [Pull Request] [refactor(evm): restore block executor abstractions](https://github.com/paradigmxyz/reth/pull/26465) - 2026-07-21
+
+* [Pull Request] [chore(evm): update evm2](https://github.com/paradigmxyz/reth/pull/26481) - 2026-07-22
+* [Review] [Review on: chore(evm): update evm2](https://github.com/paradigmxyz/reth/pull/26481#pullrequestreview-4756949754) - 2026-07-22
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
+* [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22
 ## Q2 2026
 
 

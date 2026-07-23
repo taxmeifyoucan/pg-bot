@@ -115,6 +115,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(evm): optimize zero-value handling in SSTORE, SLOAD, and WithoutLeadingZeros (#12518)](https://github.com/NethermindEth/nethermind/commit/7d81baa17fbe7cb5e092c7fdbe6fcfc2f97bba18) - 2026-07-21
 * [Commit] [perf(engine): overlap the newPayload transactions-root computation with the serial prefix (#12515)](https://github.com/NethermindEth/nethermind/commit/96b452325ca8dbe35bae715ee7585de967df948c) - 2026-07-21
 * [Commit] [perf(rpc): use Content-Length for unbuffered HTTP/1.1 responses and drop the Server header (#12514)](https://github.com/NethermindEth/nethermind/commit/2bf64cfe52155958aac462355ebc6554c7e2acfb) - 2026-07-21
+* [Review] [Review on: perf(state): trim burst-inflated collections and reduce cache contention](https://github.com/NethermindEth/nethermind/pull/12540#pullrequestreview-4754250172) - 2026-07-22
+* [Review] [Review on: fix(simulate): fall back to the base block store in HasBlock so the overlay main-chain reset works](https://github.com/NethermindEth/nethermind/pull/12534#pullrequestreview-4755430810) - 2026-07-22
+* [Review] [Review on: fix(sync): retry a fast-blocks batch slot when the canonical block info is not yet resolvable](https://github.com/NethermindEth/nethermind/pull/12535#pullrequestreview-4755425395) - 2026-07-22
+* [Review] [Review on: Validate Hive side-chain parents](https://github.com/NethermindEth/nethermind/pull/12525#pullrequestreview-4754282666) - 2026-07-22
+* [Review] [Review on: Preserve Gnosis TTD-zero genesis hash](https://github.com/NethermindEth/nethermind/pull/12545#pullrequestreview-4754222114) - 2026-07-22
+* [Review] [Review on: RocksDB - Don't treat IO errors as corruption](https://github.com/NethermindEth/nethermind/pull/12541#pullrequestreview-4753394397) - 2026-07-22
+* [Review] [Review on: Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool](https://github.com/NethermindEth/nethermind/pull/12468#pullrequestreview-4754305092) - 2026-07-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

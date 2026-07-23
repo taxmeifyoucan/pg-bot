@@ -53,6 +53,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [feat(test-benchmark): validate post-state for stateful filler (#3148)](https://github.com/ethereum/execution-specs/commit/213f0e8c05fd31ac3d00d4be6d77a71627d0f0c2) - 2026-07-21
 * [Commit] [refactor(test-benchmark): centralize benchmark helper utilities (#3166)](https://github.com/ethereum/execution-specs/commit/c5043ec2ab1ba6008b874a2cc9b56499bd3d3e92) - 2026-07-21
 * [Commit] [refactor(test-benchmark): organize stateful benchmark folder structure (#3152)](https://github.com/ethereum/execution-specs/commit/0b1e6985e5afd8380194901b9ef9cc7ce4fd0835) - 2026-07-21
+* [Pull Request] [feat(test-benchmark): add stub account configuration, with state-actor example config](https://github.com/ethereum/execution-specs/pull/3203) - 2026-07-22
 ## Q2 2026
 
 

@@ -20,6 +20,13 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858#pullrequestreview-4644881428) - 2026-07-07
 * [Pull Request] [Update EIP-2780: align with recent EIP-2780 changes](https://github.com/ethereum/EIPs/pull/11906) - 2026-07-09
 * [Commit] [Update EIP-2780: align with recent EIP-2780 changes](https://github.com/ethereum/EIPs/commit/2e7e88bb8dc0ead4db7726ac6af89f576c221d93) - 2026-07-09
+* [Review] [Review on: Update EIP-8297: Update EIP-8297.md](https://github.com/ethereum/EIPs/pull/11978#pullrequestreview-4754045375) - 2026-07-22
+* [Pull Request] [Update EIP-2780: fold transfer log cost into TX_VALUE_COST](https://github.com/ethereum/EIPs/pull/11997) - 2026-07-22
+* [Pull Request] [Update EIP-8037: rename "regular gas" to "execution gas" and update requires](https://github.com/ethereum/EIPs/pull/11998) - 2026-07-22
+* [Pull Request] [Update EIP-8038: document parameter provenance and drop EIP-7904 from requires](https://github.com/ethereum/EIPs/pull/11996) - 2026-07-22
+* [Commit] [Update EIP-2780: fold transfer log cost into TX_VALUE_COST](https://github.com/ethereum/EIPs/commit/04dd54c2e7ec1f408cf4a150d5c1aa43573bd025) - 2026-07-22
+* [Commit] [Update EIP-8037: rename "regular gas" to "execution gas" and update requires](https://github.com/ethereum/EIPs/commit/4ef37e3dde616e9660e42527c73a8bf9303ea8ed) - 2026-07-22
+* [Commit] [Update EIP-8038: document parameter provenance and drop EIP-7904 from requires](https://github.com/ethereum/EIPs/commit/91d413a9e9aaad785f1986c4a9b2903a7d5dca6b) - 2026-07-22
 ## Q2 2026
 
 

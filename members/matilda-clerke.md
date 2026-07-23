@@ -21,6 +21,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Replace deprecated BeaconChainUtil in EpochTransitionBenchmark](https://github.com/Consensys/teku/pull/10992) - 2026-07-21
 * [Pull Request] [Allow validator key directory to use single password file](https://github.com/Consensys/teku/pull/10990) - 2026-07-21
 * [Pull Request] [Remove several unnecessary AddressSelection warning suppressions](https://github.com/Consensys/teku/pull/10991) - 2026-07-21
+* [Commit] [Remove several unnecessary AddressSelection warning suppressions (#10991)](https://github.com/Consensys/teku/commit/1e8961b508547d3ceb77e7d5166615f85e074159) - 2026-07-22
 ## Q2 2026
 
 

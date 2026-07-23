@@ -25,6 +25,7 @@ Team: Erigon
 * [Review] [Review on: [SharovBot] ci: handle plain 'QA - Sync from scratch' workflow name in update-disk-sizes](https://github.com/erigontech/erigon/pull/22560#pullrequestreview-4743477169) - 2026-07-21
 * [Review] [Review on: ci, db/state: matrix-test serial vs parallel commitment across the test workflows](https://github.com/erigontech/erigon/pull/22141#pullrequestreview-4743026608) - 2026-07-21
 * [Commit] [qa-tests: update test report script to include additional workflows (#22635)](https://github.com/erigontech/erigon/commit/f2e0a392cc5448289a23caa28895c43268b6a3c1) - 2026-07-21
+* [Issue] [Metric exec_on_db above threshold on some executions on Gnosis network](https://github.com/erigontech/erigon/issues/22675) - 2026-07-22
 ## Q2 2026
 
 

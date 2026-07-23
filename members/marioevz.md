@@ -46,6 +46,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-benchmark): on-chain account verification](https://github.com/ethereum/execution-specs/pull/3197#pullrequestreview-4746772317) - 2026-07-21
 * [Review] [Review on: refactor(test-benchmark): organize stateful folder, add post-state validation, opcode count record](https://github.com/ethereum/execution-specs/pull/3201#pullrequestreview-4746467943) - 2026-07-21
 * [Review] [Review on: fix(ci): skip new-commit check on manual fixture release dispatches](https://github.com/ethereum/execution-specs/pull/3202#pullrequestreview-4744802846) - 2026-07-21
+* [Review] [Review on: feat(tests): add more EIP-2780 tests](https://github.com/ethereum/execution-specs/pull/3195#pullrequestreview-4752818292) - 2026-07-22
+* [Issue] [feat(tests): Prepare a 8,192 validator deposit test](https://github.com/ethereum/execution-specs/issues/3204) - 2026-07-22
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 ## Q2 2026

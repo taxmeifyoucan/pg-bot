@@ -94,6 +94,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Reduce Gloas get-payload timeout](https://github.com/OffchainLabs/prysm/pull/17212#pullrequestreview-4747590094) - 2026-07-21
 * [Commit] [making duties failures independent of each other (#17036)](https://github.com/OffchainLabs/prysm/commit/a865d9a9d7b15fada4d8f0fdcb9713192dd17f59) - 2026-07-21
 * [Commit] [overflow bid fix (#17207)](https://github.com/OffchainLabs/prysm/commit/e4d15d741a7acec6e88282155df15bb3a9e83fd9) - 2026-07-21
+* [Review] [Review on: Construct Web3Signer Keymanager directly from its config instead of temporary, fake in-memory wallet](https://github.com/OffchainLabs/prysm/pull/17219#pullrequestreview-4758449449) - 2026-07-22
+* [Review] [Review on: Implement the active-active mode in the REST validator client.](https://github.com/OffchainLabs/prysm/pull/17075#pullrequestreview-4757907266) - 2026-07-22
 ## Q2 2026
 
 

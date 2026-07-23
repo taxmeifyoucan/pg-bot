@@ -130,6 +130,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Reduce Gloas get-payload timeout](https://github.com/OffchainLabs/prysm/pull/17212) - 2026-07-21
 * [Commit] [Mark pending payload envelope seen only after successful import (#17206)](https://github.com/OffchainLabs/prysm/commit/9b61366ee8f44640efe64e7961c07af764365038) - 2026-07-21
 * [Commit] [Reduce Gloas get-payload timeout (#17212)](https://github.com/OffchainLabs/prysm/commit/ac40200a15701d4fb972ca60c131b21d21dea37a) - 2026-07-21
+* [Review] [Review on: FCR: Add metrics](https://github.com/OffchainLabs/prysm/pull/17218#pullrequestreview-4759152524) - 2026-07-22
+* [Pull Request] [Fix PTC blob_data_available to use data column availability](https://github.com/OffchainLabs/prysm/pull/17222) - 2026-07-22
+* [Review] [Review on: FCR: Add `fast_confirmation` SSE topic](https://github.com/OffchainLabs/prysm/pull/17220#pullrequestreview-4759166200) - 2026-07-22
+* [Commit] [Fix PTC blob_data_available to use data column availability (#17222)](https://github.com/OffchainLabs/prysm/commit/21b1d046b0c9e00a6d1a26fa74496bc4535048a4) - 2026-07-22
+* [Commit] [Validate bid parent block hash correctly (#17217)](https://github.com/OffchainLabs/prysm/commit/fb6ca149ebbdcf367382c81c169b29da0cc439bc) - 2026-07-22
+* [Commit] [Remove unused data_column_obtained_via_el_count metric (#17216)](https://github.com/OffchainLabs/prysm/commit/ef74a0719de18f1f445e22148bab82aa4060c29c) - 2026-07-22
+* [Commit] [Increment newPayload node count metrics on Gloas envelope path (#17213)](https://github.com/OffchainLabs/prysm/commit/cc3d145c7fa516e22992cdd306a8f0e5aa23b552) - 2026-07-22
+* [Commit] [Only increment PTC vote count metric for newly set votes (#17214)](https://github.com/OffchainLabs/prysm/commit/8bccadae128cfbf595691994b5fff2a8d0e7ca8d) - 2026-07-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

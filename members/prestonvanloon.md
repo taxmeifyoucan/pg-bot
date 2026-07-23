@@ -59,6 +59,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [fix(e2e): isolate blob transactions across Fulu boundary (#17201)](https://github.com/OffchainLabs/prysm/commit/882077b98cbd55598d68adcc2721cade75275a84) - 2026-07-17
 * [Review] [Review on: go.mod: update go-ethereum to v1.17.4](https://github.com/OffchainLabs/prysm/pull/17019#pullrequestreview-4736005189) - 2026-07-20
 * [Review] [Review on: Remove Bazel: Phase 3/9 - Part 2](https://github.com/OffchainLabs/prysm/pull/17134#pullrequestreview-4747204861) - 2026-07-21
+* [Review] [Review on: wire progressive ssz functions into state fields](https://github.com/OffchainLabs/prysm/pull/16860#pullrequestreview-4758131999) - 2026-07-22
+* [Pull Request] [e2e: Update lighthouse version in multiclient testing](https://github.com/OffchainLabs/prysm/pull/17221) - 2026-07-22
+* [Review] [Review on: Increment newPayload node count metrics on Gloas envelope path](https://github.com/OffchainLabs/prysm/pull/17213#pullrequestreview-4756269236) - 2026-07-22
+* [Review] [Review on: Prysm Version Upgrade Script](https://github.com/OffchainLabs/prysm/pull/15992#pullrequestreview-4757563142) - 2026-07-22
+* [Review] [Review on: Only increment PTC vote count metric for newly set votes](https://github.com/OffchainLabs/prysm/pull/17214#pullrequestreview-4756278087) - 2026-07-22
+* [Commit] [e2e: Update lighthouse version in multiclient testing (#17221)](https://github.com/OffchainLabs/prysm/commit/39a19d268266e0b143fc4f4a269b4c2effb707ff) - 2026-07-22
 ## Q2 2026
 
 

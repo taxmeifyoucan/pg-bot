@@ -41,6 +41,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Optimise hdiff buffer handling by (re)using Milhouse data structures](https://github.com/sigp/lighthouse/pull/9236#pullrequestreview-4742058226) - 2026-07-21
 * [Pull Request] [Release v8.2.1](https://github.com/sigp/lighthouse/pull/9670) - 2026-07-21
 * [Commit] [Release v8.2.1](https://github.com/sigp/lighthouse/commit/b263df596671a2bd42bf1034e1cdc8188ba8a9b0) - 2026-07-21
+* [Review] [Review on: Propagate EIP-8025 execution proofs on gossip behind a flag](https://github.com/sigp/lighthouse/pull/9659#pullrequestreview-4751445389) - 2026-07-22
 ## Q2 2026
 
 

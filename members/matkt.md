@@ -52,6 +52,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: snap/2 - improve logging](https://github.com/besu-eth/besu/pull/10810#pullrequestreview-4732418532) - 2026-07-20
 * [Pull Request] [Separate Bonsai storage trie nodes into dedicated RocksDB column family](https://github.com/besu-eth/besu/pull/10830) - 2026-07-21
 * [Pull Request] [implement rpc modification for block access list](https://github.com/besu-eth/besu/pull/10828) - 2026-07-21
+* [Review] [Review on: Remove ipa-multipoint from besu](https://github.com/besu-eth/besu/pull/10833#pullrequestreview-4751216149) - 2026-07-22
 ## Q2 2026
 
 

@@ -21,6 +21,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: fix(ci): restore coverage runfiles and fail fast](https://github.com/OffchainLabs/prysm/pull/17189#pullrequestreview-4708417943) - 2026-07-15
 * [Review] [Review on: Changelog v7.1.7](https://github.com/OffchainLabs/prysm/pull/17169#pullrequestreview-4708255473) - 2026-07-15
 * [Review] [Review on: `--max-builder-consecutive-missed-slots` and `--max-builder-epoch-missed-slots` help text: Reports the mainnet config value as the default instead of a hardcoded, false and unused values.](https://github.com/OffchainLabs/prysm/pull/17211#pullrequestreview-4746356156) - 2026-07-21
+* [Review] [Review on: wire progressive ssz functions into state fields](https://github.com/OffchainLabs/prysm/pull/16860#pullrequestreview-4758147272) - 2026-07-22
+* [Commit] [add ssz functions for progressive merkliezation (#16847)](https://github.com/OffchainLabs/prysm/commit/a09dbb0cb9372805b0ed6e90c7ef8d4928c2a30b) - 2026-07-22
 ## Q2 2026
 
 

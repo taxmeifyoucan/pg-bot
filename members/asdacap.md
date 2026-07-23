@@ -168,6 +168,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(flat): guard the trie-warmer against a TransientResource recycle race (storage reads as 0x00)](https://github.com/NethermindEth/nethermind/pull/12429#pullrequestreview-4749750990) - 2026-07-21
 * [Review] [Review on: feat(xdc): add XdcHeaderModule for correct header/block decoder registration](https://github.com/NethermindEth/nethermind/pull/12520#pullrequestreview-4743852998) - 2026-07-21
 * [Review] [Review on: Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool](https://github.com/NethermindEth/nethermind/pull/12468#pullrequestreview-4743904168) - 2026-07-21
+* [Review] [Review on: feat(db): log RocksDB per-column native-memory breakdown](https://github.com/NethermindEth/nethermind/pull/12403#pullrequestreview-4760126500) - 2026-07-23
+* [Review] [Review on: fix(flat): guard the trie-warmer against a TransientResource recycle race (storage reads as 0x00)](https://github.com/NethermindEth/nethermind/pull/12429#pullrequestreview-4760123598) - 2026-07-23
+* [Review] [Review on: RocksDB - Don't treat IO errors as corruption](https://github.com/NethermindEth/nethermind/pull/12541#pullrequestreview-4752911542) - 2026-07-22
+* [Pull Request] [Lead preimage flat DB storage keys with the full address](https://github.com/NethermindEth/nethermind/pull/12543) - 2026-07-22
+* [Review] [Review on: json-bench: run curated head configs with summary.json-only metrics](https://github.com/NethermindEth/nethermind/pull/12529#pullrequestreview-4751149118) - 2026-07-22
+* [Review] [Review on: perf(db): batched RocksDB MultiGet for flat BAL warmup — contiguous slices, no block-cache fill](https://github.com/NethermindEth/nethermind/pull/12467#pullrequestreview-4751663321) - 2026-07-22
 ## Q2 2026
 
 

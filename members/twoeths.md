@@ -50,6 +50,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add fork choice compliance test for pre-gloas forks](https://github.com/ChainSafe/lodestar/pull/9670#pullrequestreview-4741754515) - 2026-07-21
 * [Commit] [fix: harden assertLinearChainSegment (#9684)](https://github.com/ChainSafe/lodestar/commit/7acc183c2b2d31ab9aeefbbe667710d2d8e46c7f) - 2026-07-22
 * [Commit] [perf: improve process_attestation() for gloas (#9664)](https://github.com/ChainSafe/lodestar/commit/aadf7a7167f74280043b99cf6d69914c15c9dc22) - 2026-07-21
+* [Review] [Review on: feat: implement forkchoice is_head_weak() and is_parent_strong()](https://github.com/ChainSafe/lodestar/pull/9654#pullrequestreview-4750565011) - 2026-07-22
+* [Pull Request] [feat: classify batch processing failures](https://github.com/ChainSafe/lodestar/pull/9693) - 2026-07-22
+* [Review] [Review on: feat: classify batch processing failures](https://github.com/ChainSafe/lodestar/pull/9693#pullrequestreview-4752629228) - 2026-07-22
+* [Review] [Review on: feat: implement non-eip-7688 changes in alpha.12](https://github.com/ChainSafe/lodestar/pull/9606#pullrequestreview-4751534271) - 2026-07-22
+* [Review] [Review on: feat: disable fast confirmation rule while syncing](https://github.com/ChainSafe/lodestar/pull/9681#pullrequestreview-4750392749) - 2026-07-22
+* [Commit] [fix: split execution engine errors (#9685)](https://github.com/ChainSafe/lodestar/commit/d16fa2b13a19127ae71d77a7276e32cd2ad9cecd) - 2026-07-22
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

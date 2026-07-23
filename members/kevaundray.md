@@ -17,16 +17,23 @@ Team: Consensus R&D (EF)
 
 * [Pull Request] [Update EIP-8297: 8297](https://github.com/ethereum/EIPs/pull/11978) - 2026-07-20
 * [Review] [Review on: Update EIP-8297: 8297](https://github.com/ethereum/EIPs/pull/11978#pullrequestreview-4739390633) - 2026-07-20
+* [Review] [Review on: Update EIP-8297: Update EIP-8297.md](https://github.com/ethereum/EIPs/pull/11978#pullrequestreview-4755948686) - 2026-07-22
+* [Commit] [Update EIP-8297: Update EIP-8297.md](https://github.com/ethereum/EIPs/commit/3dd83967d8cda1310c450fd65c48c119ab2da323) - 2026-07-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14
 
+* [Pull Request] [Tracking PR for projects/binary-trie (PBT)](https://github.com/ethereum/execution-specs/pull/3207) - 2026-07-22
+* [Pull Request] [feat(8297): Add key derivation layer](https://github.com/ethereum/execution-specs/pull/3208) - 2026-07-22
+* [Pull Request] [feat: Add initial PBT impl](https://github.com/ethereum/execution-specs/pull/3206) - 2026-07-22
+* [Review] [Review on: feat: Add initial PBT impl](https://github.com/ethereum/execution-specs/pull/3206#pullrequestreview-4757794680) - 2026-07-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716803581) - 2026-07-16
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737690816) - 2026-07-20
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [chore: Add a command to export preimages](https://github.com/erigontech/erigon/pull/22645) - 2026-07-21
+* [Commit] [chore: Add a command to export preimages (#22645)](https://github.com/erigontech/erigon/commit/297727cef89e8508015882f247094aa934d210c3) - 2026-07-22
 ## Q2 2026
 
 

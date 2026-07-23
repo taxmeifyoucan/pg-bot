@@ -41,6 +41,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gloas fix proposer preferences for validators added mid-epoch](https://github.com/sigp/lighthouse/pull/9660#pullrequestreview-4741847697) - 2026-07-21
 * [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4741437590) - 2026-07-21
 * [Review] [Review on: Move `SlotAssignment` cache to `CanonicalHead`](https://github.com/sigp/lighthouse/pull/9661#pullrequestreview-4741301448) - 2026-07-21
+* [Review] [Review on: construct single attestation directly in the VC](https://github.com/sigp/lighthouse/pull/9578#pullrequestreview-4754324012) - 2026-07-22
+* [Review] [Review on: Refactor `proposer_preferences_service` and add add VC test](https://github.com/sigp/lighthouse/pull/9500#pullrequestreview-4754063179) - 2026-07-22
+* [Review] [Review on: Fix light client update DB range queries](https://github.com/sigp/lighthouse/pull/9668#pullrequestreview-4753380637) - 2026-07-22
 ## Q2 2026
 
 

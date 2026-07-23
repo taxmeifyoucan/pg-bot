@@ -43,6 +43,7 @@ Team: Grandine
 * [Review] [Review on: Fix Gloas data column sidecar range sync](https://github.com/grandinetech/grandine/pull/815#pullrequestreview-4711806842) - 2026-07-16
 * [Review] [Review on: Upgrade Nethermind to 1.39.1 version](https://github.com/grandinetech/grandine/pull/825#pullrequestreview-4743779001) - 2026-07-21
 * [Pull Request] [Fire post-Gloas block events without waiting for EL status](https://github.com/grandinetech/grandine/pull/824) - 2026-07-21
+* [Review] [Review on: Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/826#pullrequestreview-4754262047) - 2026-07-22
 ## Q2 2026
 
 

@@ -34,6 +34,9 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [refactor(spec-specs): organize gas logic in amsterdam EIP-8037/8038/2780 (#3159)](https://github.com/ethereum/execution-specs/commit/2119b382cebe57d9953eb6252e927e130b1ca51c) - 2026-07-17
 * [Pull Request] [refactor(amsterdam): Re-factor Amsterdam + Preparation for EIP-8141](https://github.com/ethereum/execution-specs/pull/3192) - 2026-07-18
 * [Pull Request] [feat(tests): add more EIP-2780 tests](https://github.com/ethereum/execution-specs/pull/3195) - 2026-07-20
+* [Review] [Review on: feat(tests): add more EIP-2780 tests](https://github.com/ethereum/execution-specs/pull/3195#pullrequestreview-4753538071) - 2026-07-22
+* [Issue] [Implement EIP-2780 update for glamsterdam devnet 8](https://github.com/ethereum/execution-specs/issues/3205) - 2026-07-22
+* [Commit] [feat(tests): add more EIP-2780 tests (#3195)](https://github.com/ethereum/execution-specs/commit/2282c757b3699d506de112b8a48b6b538df7ed1f) - 2026-07-22
 ## Q2 2026
 
 

@@ -23,6 +23,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: validate exeution payload block hash](https://github.com/Consensys/teku/pull/10938#pullrequestreview-4664382851) - 2026-07-09
 * [Commit] [validate exeution payload block hash (#10938)](https://github.com/Consensys/teku/commit/0fec673c95a295f19e443e8a2781efd79b75f82b) - 2026-07-09
 * [Pull Request] [Add builder boost factor evaluation for execution payloads](https://github.com/Consensys/teku/pull/10973) - 2026-07-14
+* [Commit] [add a Gloas builder circuit breaker (#10911)](https://github.com/Consensys/teku/commit/558ce4e6cb19f405ca72f4d5fc87266c3b0a4468) - 2026-07-22
 ## Q2 2026
 
 

@@ -29,6 +29,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cmd/utils: fix TestCommitmentPlainValuesFromCtx flag-state leak under -count](https://github.com/erigontech/erigon/pull/22567#pullrequestreview-4728440056) - 2026-07-18
 * [Review] [Review on: execution/state: reuse Reader/HistoryReader key buffer to drop per-read allocs](https://github.com/erigontech/erigon/pull/22557#pullrequestreview-4728401366) - 2026-07-18
 * [Review] [Review on: db/kv/temporal: stop retaining iterators on the tx](https://github.com/erigontech/erigon/pull/22581#pullrequestreview-4730861768) - 2026-07-19
+* [Review] [Review on: rpc/mcp, cmd/mcp: add streamable HTTP transport](https://github.com/erigontech/erigon/pull/22624#pullrequestreview-4754029582) - 2026-07-22
+* [Review] [Review on: rpc/mcp: add txpool tools](https://github.com/erigontech/erigon/pull/22627#pullrequestreview-4754033010) - 2026-07-22
+* [Review] [Review on: rpc/mcp: add net and admin P2P inspection tools](https://github.com/erigontech/erigon/pull/22629#pullrequestreview-4754036387) - 2026-07-22
+* [Review] [Review on: rpc/mcp: declare readOnlyHint on every tool](https://github.com/erigontech/erigon/pull/22626#pullrequestreview-4754031382) - 2026-07-22
+* [Review] [Review on: [r3.6] minimal node: download not enough logIndex files](https://github.com/erigontech/erigon/pull/22673#pullrequestreview-4752725942) - 2026-07-22
 ## Q2 2026
 
 

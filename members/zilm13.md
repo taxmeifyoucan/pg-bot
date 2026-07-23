@@ -39,6 +39,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Fast Confirmation Rule Utilities part 1](https://github.com/Consensys/teku/pull/10984#pullrequestreview-4734774628) - 2026-07-20
 * [Review] [Review on: Additional 7688 validations and GLOAS ref test enabling](https://github.com/Consensys/teku/pull/10983#pullrequestreview-4734898566) - 2026-07-20
 * [Issue] [FCR Rollout Plan](https://github.com/Consensys/teku/issues/10994) - 2026-07-21
+* [Review] [Review on: Remove acceptance deposit senders and remove web3j from beacon/pow](https://github.com/Consensys/teku/pull/10997#pullrequestreview-4753026769) - 2026-07-22
+* [Review] [Review on: Add builder boost factor evaluation for execution payloads](https://github.com/Consensys/teku/pull/10973#pullrequestreview-4757531761) - 2026-07-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

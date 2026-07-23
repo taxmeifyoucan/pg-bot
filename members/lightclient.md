@@ -48,6 +48,13 @@ Team: Geth
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4744394254) - 2026-07-21
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: tests: update test chain to osaka + bpo1/bpo2, regenerate fixtures](https://github.com/ethereum/execution-apis/pull/846#pullrequestreview-4755345629) - 2026-07-22
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [fix(rpc-compat): support large fixture messages](https://github.com/ethereum/hive/pull/1583) - 2026-07-22
+* [Commit] [fix(rpc-compat): support large fixture messages (#1583)](https://github.com/ethereum/hive/commit/ce2a6785d5f7dbf45f24d2b9e7a2620c4716922a) - 2026-07-22
 ## Q2 2026
 
 

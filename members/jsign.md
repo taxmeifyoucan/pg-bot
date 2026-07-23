@@ -40,6 +40,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [refactor: improve artifact handling and metadata reconciliation in export process (#303)](https://github.com/eth-act/zkevm-benchmark-workload/commit/806e358b2c12ad9a90176633c762c8fdec5bc031) - 2026-07-21
 * [Commit] [Use EEST fixtures as the unified witness-generator output format (#302)](https://github.com/eth-act/zkevm-benchmark-workload/commit/2bba5edee142c2c05f62aaba88e0725e227d6a4e) - 2026-07-21
 * [Commit] [Update to tentative ere-guests v0.14 (#301)](https://github.com/eth-act/zkevm-benchmark-workload/commit/dfcc98e18910b874755689eaba88b8cd7630f9e5) - 2026-07-21
+* [Pull Request] [Update ere-guests and use catalog](https://github.com/eth-act/zkevm-benchmark-workload/pull/305) - 2026-07-22
+* [Commit] [Update ere-guests and use catalog (#305)](https://github.com/eth-act/zkevm-benchmark-workload/commit/35fa24ebf007edd4c9d65bdc41b25cb5fd726a80) - 2026-07-22
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [feat(EngineAPI): support engine_newPayloadWithWitnessVX](https://github.com/paradigmxyz/reth/issues/26415) - 2026-07-16
 
@@ -48,6 +50,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Review] [Review on: feat: propagate rustflags](https://github.com/eth-act/ere/pull/391#pullrequestreview-4713409107) - 2026-07-16
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8297: Update EIP-8297.md](https://github.com/ethereum/EIPs/pull/11978#pullrequestreview-4754853085) - 2026-07-22
 ## Q2 2026
 
 

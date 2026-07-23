@@ -123,6 +123,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(deps): bump systeminformation from 5.31.6 to 5.31.7](https://github.com/ChainSafe/lodestar/pull/9663#pullrequestreview-4721415867) - 2026-07-17
 * [Commit] [feat: add circuit breaker for gloas block production (#9598)](https://github.com/ChainSafe/lodestar/commit/9d0edba43cfdc72448b3e1428bea02f2402f43d8) - 2026-07-17
 * [Commit] [fix: scan all proto array nodes when counting payload reveals (#9676)](https://github.com/ChainSafe/lodestar/commit/d5aff60d6c8aaf68c8204976524ac2530d39d0a0) - 2026-07-21
+* [Review] [Review on: chore: follow up on #9390 on EIP-7688 changes](https://github.com/ChainSafe/lodestar/pull/9689#pullrequestreview-4757673082) - 2026-07-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -143,6 +144,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Remove a stale comment for builder withdrawal prefix](https://github.com/ethereum/consensus-specs/pull/5450#pullrequestreview-4704845624) - 2026-07-15
 * [Review] [Review on: Add more checks to `on_inclusion_list`](https://github.com/ethereum/consensus-specs/pull/5460#pullrequestreview-4742768366) - 2026-07-21
 * [Review] [Review on: Correct `MIN_SLOTS_FOR_INCLUSION_LISTS_REQUESTS` value](https://github.com/ethereum/consensus-specs/pull/5462#pullrequestreview-4744861623) - 2026-07-21
+* [Review] [Review on: Rename `uint*` to `Uint*`](https://github.com/ethereum/consensus-specs/pull/5469#pullrequestreview-4757905994) - 2026-07-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

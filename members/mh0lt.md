@@ -42,6 +42,7 @@ Team: Erigon
 * [Review] [Review on: execution, rpc: release IntraBlockState in unit tests](https://github.com/erigontech/erigon/pull/22582#pullrequestreview-4733828871) - 2026-07-20
 * [Review] [Review on: exec: return the displaced write set when merging finalize writes](https://github.com/erigontech/erigon/pull/22579#pullrequestreview-4733828773) - 2026-07-20
 * [Issue] [aggregator: OpenFolder → closeWhatNotInList bypasses the visible-generation retirement path, races concurrent RO tx into nil *Decompressor](https://github.com/erigontech/erigon/issues/22646) - 2026-07-21
+* [Commit] [execution/state: cache-free parallel execution via versionMap unification (noMaterialize) + warm-read caching (#22409)](https://github.com/erigontech/erigon/commit/85a4d41108a86f51dd405836dedaf555804d1dc9) - 2026-07-22
 ## Q2 2026
 
 

@@ -134,6 +134,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: offload hive eest consume-enginex runs to free github runners (#22545)](https://github.com/erigontech/erigon/commit/931a5cfbb049d16ac15ed75d449b1df3789ce38c) - 2026-07-21
 * [Commit] [execution: isolate block builders from shared branch cache (#22617)](https://github.com/erigontech/erigon/commit/827cc4d46e977ea45598e248402a6bb48363a1da) - 2026-07-21
 * [Commit] [ci: update hive version to latest commit with pre-staged fixtures support (#22611)](https://github.com/erigontech/erigon/commit/7be953883dabfbd2db63c0d5e182b0cd40409b72) - 2026-07-21
+* [Review] [Review on: cl: format consensus layer files using gofumpt](https://github.com/erigontech/erigon/pull/22651#pullrequestreview-4751246647) - 2026-07-22
+* [Review] [Review on: chore: Add a command to export preimages](https://github.com/erigontech/erigon/pull/22645#pullrequestreview-4751309709) - 2026-07-22
+* [Review] [Review on: cmd/integration: attach StateCache in stage_exec offline re-execution](https://github.com/erigontech/erigon/pull/22642#pullrequestreview-4751334398) - 2026-07-22
+* [Review] [Review on: build(deps): bump dompurify from 3.4.11 to 3.4.12 in /docs/site](https://github.com/erigontech/erigon/pull/22654#pullrequestreview-4751277921) - 2026-07-22
+* [Review] [Review on: build(deps): bump svgo from 3.3.3 to 3.3.4 in /docs/site](https://github.com/erigontech/erigon/pull/22655#pullrequestreview-4751276403) - 2026-07-22
+* [Review] [Review on: build(deps): bump fast-uri from 3.1.2 to 3.1.4 in /docs/site](https://github.com/erigontech/erigon/pull/22656#pullrequestreview-4751273495) - 2026-07-22
+* [Review] [Review on: p2p: decode disconnect reason leniently and bound payload read](https://github.com/erigontech/erigon/pull/22647#pullrequestreview-4751187393) - 2026-07-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

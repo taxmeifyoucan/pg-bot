@@ -64,6 +64,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[r3.5] execution/stagedsync: backport mid-block resume notification completeness (#22235)](https://github.com/erigontech/erigon/pull/22648) - 2026-07-21
 * [Pull Request] [rpc:  add check on null tx](https://github.com/erigontech/erigon/pull/22649) - 2026-07-21
 * [Commit] [rpc: refactor api config in separate pkg (#22609)](https://github.com/erigontech/erigon/commit/643849a0368e0ed04c68de0c7e170c6a74370213) - 2026-07-21
+* [Pull Request] [rpc: extract api config pkg more](https://github.com/erigontech/erigon/pull/22680) - 2026-07-22
+* [Review] [Review on: rpc/mcp, cmd/mcp: add streamable HTTP transport](https://github.com/erigontech/erigon/pull/22624#pullrequestreview-4758690281) - 2026-07-22
+* [Review] [Review on: rpc/mcp: add txpool tools](https://github.com/erigontech/erigon/pull/22627#pullrequestreview-4758598223) - 2026-07-22
+* [Review] [Review on: rpc/mcp: add net and admin P2P inspection tools](https://github.com/erigontech/erigon/pull/22629#pullrequestreview-4758579950) - 2026-07-22
+* [Commit] [node, commitment: fix parallel exec deadlock on many-core machines (#22408)](https://github.com/erigontech/erigon/commit/4d6ef27f954fb17372f18c3a355e64ca2a3d4aad) - 2026-07-22
+* [Commit] [rpc:  add check on null tx (#22649)](https://github.com/erigontech/erigon/commit/a81eeb5486d2088697f474c58446da68092099bd) - 2026-07-22
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

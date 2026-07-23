@@ -66,6 +66,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/recsplit: wrong assert for old versions of file](https://github.com/erigontech/erigon/pull/22619#pullrequestreview-4741659309) - 2026-07-21
 * [Pull Request] [unify behaviour of "steps in frozen domain files" across integration commands and erigon](https://github.com/erigontech/erigon/pull/22637) - 2026-07-21
 * [Issue] [receipt: per-tx prevVal read of blob-gas key always hits the oldest state file](https://github.com/erigontech/erigon/issues/22644) - 2026-07-21
+* [Pull Request] [execution/stagedsync: rebuild missing E3 accessors synchronously (skip covered files)](https://github.com/erigontech/erigon/pull/22664) - 2026-07-22
+* [Pull Request] [use tx.Debug().StepSize() instead of reaching into agg](https://github.com/erigontech/erigon/pull/22670) - 2026-07-22
+* [Pull Request] [stagedsync, cmd/utils/app: use db.BuildMissedAccessors instead of reaching into agg](https://github.com/erigontech/erigon/pull/22660) - 2026-07-22
+* [Review] [Review on: db/version/app: bump to 3.7.0-dev](https://github.com/erigontech/erigon/pull/22658#pullrequestreview-4751007696) - 2026-07-22
+* [Review] [Review on: [r3.6] db/version: app version 3.6.0](https://github.com/erigontech/erigon/pull/22652#pullrequestreview-4751008783) - 2026-07-22
+* [Commit] [cmd/integration: attach StateCache in stage_exec offline re-execution (#22642)](https://github.com/erigontech/erigon/commit/79651ba0239d67b66943e103a692fcbad370cd56) - 2026-07-22
 ## Q2 2026
 
 

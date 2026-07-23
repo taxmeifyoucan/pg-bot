@@ -74,6 +74,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/a3a0b9db3d76b9b48a4e3f38c772747d17eb27f5) - 2026-07-20
 * [Commit] [Merge pull request #502 from mattevans/chore/rm-matty-evans](https://github.com/protocolguild/documentation/commit/884d96a4a33ba77131b68142025b58b8a661e942) - 2026-07-20
 * [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/69a3c2fba24a060959aae5362c8842b792a4f608) - 2026-07-20
+* [Commit] [Merge pull request #527 from protocolguild/cheeky-gorilla-patch-5](https://github.com/protocolguild/documentation/commit/4a4d9019feffc3900948e08f36075fd6348f9f4f) - 2026-07-22
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/e6b14d7ca4339655efae86d7ad13a05fb14f43ee) - 2026-07-07
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/575f773fb569863447ec1e75d194b1ab0a05f41f) - 2026-07-07

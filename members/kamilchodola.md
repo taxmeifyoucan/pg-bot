@@ -81,6 +81,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(db): use tcmalloc for native allocations in the Docker image](https://github.com/NethermindEth/nethermind/pull/12486) - 2026-07-18
 * [Review] [Review on: perf(merge): pass an explicit LOH budget to the no-GC region](https://github.com/NethermindEth/nethermind/pull/12499#pullrequestreview-4734113688) - 2026-07-20
 * [Review] [Review on: perf(evm): optimize zero-value handling in SSTORE, SLOAD, and WithoutLeadingZeros](https://github.com/NethermindEth/nethermind/pull/12518#pullrequestreview-4743214057) - 2026-07-21
+* [Pull Request] [perf(state): trim burst-inflated collections and reduce cache contention](https://github.com/NethermindEth/nethermind/pull/12540) - 2026-07-22
+* [Pull Request] [Batch discovered storage reads for heavy contracts](https://github.com/NethermindEth/nethermind/pull/12546) - 2026-07-22
+* [Pull Request] [perf(evm): lazy EVM memory zeroing via dirty watermark](https://github.com/NethermindEth/nethermind/pull/12539) - 2026-07-22
+* [Pull Request] [Keep the sustained gen2 sweep off the engine API critical path](https://github.com/NethermindEth/nethermind/pull/12538) - 2026-07-22
+* [Review] [Review on: json-bench: run curated head configs with summary.json-only metrics](https://github.com/NethermindEth/nethermind/pull/12529#pullrequestreview-4752296943) - 2026-07-22
+* [Commit] [perf(state): trim burst-inflated collections and reduce cache contention (#12540)](https://github.com/NethermindEth/nethermind/commit/82f92aee5d3610b9507c37403b670ad178a6eee4) - 2026-07-22
+* [Commit] [Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool (#12468)](https://github.com/NethermindEth/nethermind/commit/d83dcd69f18f5e4954790b218af9d83bca9c03c1) - 2026-07-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

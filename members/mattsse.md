@@ -144,6 +144,10 @@ Team: Reth
 * [Review] [Review on: fix(rpc): add BAL debug method ](https://github.com/paradigmxyz/reth/pull/26438#pullrequestreview-4734816407) - 2026-07-20
 * [Review] [Review on: chore(docker): bump lighthouse v8.2.1](https://github.com/paradigmxyz/reth/pull/26469#pullrequestreview-4750303260) - 2026-07-22
 * [Review] [Review on: chore(examples): remove precompile cache example](https://github.com/paradigmxyz/reth/pull/26467#pullrequestreview-4747635974) - 2026-07-21
+* [Review] [Review on: fix(rpc): align debug trace error codes](https://github.com/paradigmxyz/reth/pull/26479#pullrequestreview-4756054349) - 2026-07-22
+* [Review] [Review on: feat(cli): print modular download plans as JSON](https://github.com/paradigmxyz/reth/pull/26480#pullrequestreview-4756440630) - 2026-07-22
+* [Review] [Review on: feat(exex): let an `ExEx` catch up to the current head after a pause](https://github.com/paradigmxyz/reth/pull/26474#pullrequestreview-4755260552) - 2026-07-22
+* [Issue] [Overlay providers can lose persisted parents across DB snapshot / manager pruning handoff](https://github.com/paradigmxyz/reth/issues/26483) - 2026-07-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

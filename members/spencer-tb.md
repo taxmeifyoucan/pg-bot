@@ -100,6 +100,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(ci): fill mainnet fixtures nightly, draft cached `tests@` releases (#3100)](https://github.com/ethereum/execution-specs/commit/a45205c64a2bde60e8fd7c7bd05f9ae0073ab127) - 2026-07-16
 * [Review] [Review on: refactor(test-benchmark): align test suite with `glam-devnet-7` spec](https://github.com/ethereum/execution-specs/pull/3187#pullrequestreview-4736441643) - 2026-07-20
 * [Pull Request] [fix(ci): skip new-commit check on manual fixture release dispatches](https://github.com/ethereum/execution-specs/pull/3202) - 2026-07-21
+* [Commit] [fix(ci): skip new-commit check on manual fixture release dispatches (#3202)](https://github.com/ethereum/execution-specs/commit/135af0fd4b1ecb389dd1fd0de2b39f78512dedef) - 2026-07-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

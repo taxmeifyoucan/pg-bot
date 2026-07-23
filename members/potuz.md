@@ -49,6 +49,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Unify payload reorg policy](https://github.com/OffchainLabs/prysm/pull/17186#pullrequestreview-4706638929) - 2026-07-15
 * [Commit] [Do not queue blocks that arrive more than 500ms early (#17167)](https://github.com/OffchainLabs/prysm/commit/e8c13dfcd07829fd1a2114ce29ef9a4511116c46) - 2026-07-15
 * [Commit] [Payload reorg (#16933)](https://github.com/OffchainLabs/prysm/commit/2eb5b40e89a8d358fb70feba20bcd75b9d2ba4a8) - 2026-07-20
+* [Review] [Review on: Fix PTC blob_data_available to use data column availability](https://github.com/OffchainLabs/prysm/pull/17222#pullrequestreview-4756465996) - 2026-07-22
+* [Review] [Review on: Validate bid parent block hash correctly](https://github.com/OffchainLabs/prysm/pull/17217#pullrequestreview-4757061477) - 2026-07-22
+* [Review] [Review on: Only increment PTC vote count metric for newly set votes](https://github.com/OffchainLabs/prysm/pull/17214#pullrequestreview-4756309947) - 2026-07-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

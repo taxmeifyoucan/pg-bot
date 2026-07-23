@@ -38,6 +38,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Add japicmp binary compatibility check for the Plugin API](https://github.com/besu-eth/besu/pull/10823#pullrequestreview-4744425965) - 2026-07-21
 * [Pull Request] [Refactor engine_newPayload into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10831) - 2026-07-21
 * [Commit] [Refactor engine_forkchoiceUpdated into a sealed version hierarchy (#10709)](https://github.com/besu-eth/besu/commit/1c80501c311c95f327c8a0d6a45ffcb05578e84f) - 2026-07-21
+* [Pull Request] [fix: catch classifier-published sources jars missing from verification metadata](https://github.com/besu-eth/besu/pull/10839) - 2026-07-22
+* [Review] [Review on: Update verification metadata regeneration command in README](https://github.com/besu-eth/besu/pull/10844#pullrequestreview-4757698607) - 2026-07-22
+* [Review] [Review on: Remove ipa-multipoint from besu](https://github.com/besu-eth/besu/pull/10833#pullrequestreview-4754338280) - 2026-07-22
+* [Pull Request] [Refactor engine_newPayload into a sealed version hierarchy ](https://github.com/besu-eth/besu/pull/10840) - 2026-07-22
+* [Review] [Review on: Add japicmp binary compatibility check for the Plugin API](https://github.com/besu-eth/besu/pull/10823#pullrequestreview-4752032163) - 2026-07-22
+* [Pull Request] [Refactor engine_forkchoiceUpdated onto a ConstructorArguments/VersionScheduler foundation](https://github.com/besu-eth/besu/pull/10838) - 2026-07-22
+* [Commit] [fix: catch classifier-published sources jars missing from verification metadata (#10839)](https://github.com/besu-eth/besu/commit/be90c276d2b2a15e21be5bcc352489ed437eaa82) - 2026-07-22
 ## Q2 2026
 
 

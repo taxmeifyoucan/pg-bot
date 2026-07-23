@@ -58,6 +58,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix(eth/manager): shut down blockCreationExecutor in EthScheduler](https://github.com/besu-eth/besu/pull/10826#pullrequestreview-4742170377) - 2026-07-21
 * [Commit] [fix(p2p): additional permanent disconnect reasons (#10827)](https://github.com/besu-eth/besu/commit/578d8bcb69e93e8ed712d0208934942de94e010e) - 2026-07-22
 * [Commit] [update besu native dependencies to 2.0.0 (#10835)](https://github.com/besu-eth/besu/commit/78f5cbaecb5e081dc7aefa7cb121a62ff21e8d43) - 2026-07-22
+* [Review] [Review on: feat(p2p): add discovery and RLPx connection metrics](https://github.com/besu-eth/besu/pull/10837#pullrequestreview-4759959287) - 2026-07-23
+* [Review] [Review on: checks for correct docker env var configuration, warns when missing](https://github.com/besu-eth/besu/pull/10769#pullrequestreview-4759903534) - 2026-07-23
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

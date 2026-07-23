@@ -25,6 +25,8 @@ Team: EthereumJS
 * [Commit] [tx: re-add access/authority list JSON cache items and test cache behavior (#4350)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/f65ebc8145810cf5488c639520f2294097167312) - 2026-07-21
 * [Commit] [fix(evm): emit step event before dynamic-gas OOG exceptions (#4349)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/ff73a7703796848527cfba1777c751a3d5dfcaec) - 2026-07-21
 * [Commit] [chore: upgrade to TypeScript 7 (#4347)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/4c251bdaec6d360999cfa83803dd1edc00609879) - 2026-07-21
+* [Pull Request] [test(vm): improve typing and readability of execution-spec test runner](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4351) - 2026-07-23
+* [Commit] [test(vm): improve typing and readability of execution-spec test runner (#4351)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/9d28bcb5d22597d1a3f4ffc3bf5ed0211e821af7) - 2026-07-23
 ## Q2 2026
 
 

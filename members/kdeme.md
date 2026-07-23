@@ -58,6 +58,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Remove unneeded chronos import](https://github.com/status-im/nimbus-eth1/pull/4529) - 2026-07-21
 * [Commit] [Fix aristo_compute compilation with --threads:off (#4531)](https://github.com/status-im/nimbus-eth1/commit/1728ad55f0185bff4ae5dd6595ac5e88f5202d6f) - 2026-07-21
 * [Commit] [Remove unneeded chronos import (#4529)](https://github.com/status-im/nimbus-eth1/commit/2c8cba94ffa5d85e960b621e3839620907069915) - 2026-07-21
+* [Pull Request] [bump nimbus-eth2 and resolve issue due to EIP-7688 changes](https://github.com/status-im/nimbus-eth1/pull/4545) - 2026-07-22
+* [Pull Request] [Move genesis/network-params file loading into chain_config_loader](https://github.com/status-im/nimbus-eth1/pull/4544) - 2026-07-22
+* [Pull Request] [Export hashes_rlp from aristo_compute for computeKey callers](https://github.com/status-im/nimbus-eth1/pull/4543) - 2026-07-22
+* [Commit] [Move genesis/network-params file loading into chain_config_loader (#4544)](https://github.com/status-im/nimbus-eth1/commit/fe429cf6dba8a1768cacccb5c3808b08c7518dd9) - 2026-07-22
+* [Commit] [Export hashes_rlp from aristo_compute for computeKey callers (#4543)](https://github.com/status-im/nimbus-eth1/commit/0d4dd637603160220d50e4aa7709fa6536cc5afa) - 2026-07-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 
@@ -68,6 +73,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Support compiling buildinfo on/for bare metal](https://github.com/status-im/nimbus-eth2/pull/8792) - 2026-07-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672183323) - 2026-07-10
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7997: specify activation-block deployment and BAL recording](https://github.com/ethereum/EIPs/pull/11991#pullrequestreview-4756542429) - 2026-07-22
 ## Q2 2026
 
 

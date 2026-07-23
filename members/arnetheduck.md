@@ -20,12 +20,15 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Pull Request] [remove nested `waitFor`](https://github.com/status-im/nimbus-eth1/pull/4456) - 2026-07-10
 * [Commit] [remove nested `waitFor` (#4456)](https://github.com/status-im/nimbus-eth1/commit/d0ca9f2dc108cdbf20c8885035ca377f4e061741) - 2026-07-12
+* [Pull Request] [Use wildcard for excluded packages](https://github.com/status-im/nimbus-eth1/pull/4539) - 2026-07-22
+* [Commit] [Use wildcard for excluded packages (#4539)](https://github.com/status-im/nimbus-eth1/commit/9b8f3d454e4efa0a18d00faa2ddc4bff90a76df5) - 2026-07-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8735) - 2026-07-08
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8734) - 2026-07-08
 * [Issue] [lc: Inefficient zero comparison](https://github.com/status-im/nimbus-eth2/issues/8728) - 2026-07-08
 * [Review] [Review on: optimize is_valid_light_client_header default/zero comparisons by 15%](https://github.com/status-im/nimbus-eth2/pull/8782#pullrequestreview-4727772040) - 2026-07-18
 * [Pull Request] [chronos: bump](https://github.com/status-im/nimbus-eth2/pull/8783) - 2026-07-18
+* [Pull Request] [Use $(CC) in makefile for light client tests](https://github.com/status-im/nimbus-eth2/pull/8794) - 2026-07-22
 ## Q2 2026
 
 

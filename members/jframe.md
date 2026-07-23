@@ -13,6 +13,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320#pullrequestreview-4740768491) - 2026-07-21
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Review] [Review on: Keep sync events from starting the IBFT2 coordinator on migration networks](https://github.com/besu-eth/besu/pull/10791#pullrequestreview-4751457832) - 2026-07-22
 ## Q2 2026
 
 

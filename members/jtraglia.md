@@ -76,6 +76,20 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update dependency codespell to v2.4.3](https://github.com/ethereum/consensus-specs/pull/5453#pullrequestreview-4734874260) - 2026-07-20
 * [Issue] [Explore using Zensical for website](https://github.com/ethereum/consensus-specs/issues/5457) - 2026-07-20
 * [Review] [Review on: Correct `MIN_SLOTS_FOR_INCLUSION_LISTS_REQUESTS` value](https://github.com/ethereum/consensus-specs/pull/5462#pullrequestreview-4744837098) - 2026-07-21
+* [Pull Request] [Explicitly define types as classes](https://github.com/ethereum/consensus-specs/pull/5471) - 2026-07-23
+* [Pull Request] [Bump version to v1.7.0-alpha.13](https://github.com/ethereum/consensus-specs/pull/5470) - 2026-07-22
+* [Pull Request] [Rename `uint*` to `Uint*`](https://github.com/ethereum/consensus-specs/pull/5469) - 2026-07-22
+* [Pull Request] [Rename `byte` to `Byte`](https://github.com/ethereum/consensus-specs/pull/5468) - 2026-07-22
+* [Review] [Review on: Add anti-correlation attestation penalties (EIP-7716)](https://github.com/ethereum/consensus-specs/pull/5452#pullrequestreview-4756757159) - 2026-07-22
+* [Pull Request] [Rename `boolean` to `Boolean`](https://github.com/ethereum/consensus-specs/pull/5466) - 2026-07-22
+* [Pull Request] [Remove the `bit` type](https://github.com/ethereum/consensus-specs/pull/5467) - 2026-07-22
+* [Review] [Review on: Set `only_timely` for all `get_inclusion_list_transactions` calls](https://github.com/ethereum/consensus-specs/pull/5463#pullrequestreview-4756667692) - 2026-07-22
+* [Issue] [Tracker: Replace Remerkleable](https://github.com/ethereum/consensus-specs/issues/5465) - 2026-07-22
+* [Commit] [Bump version to v1.7.0-alpha.13 (#5470)](https://github.com/ethereum/consensus-specs/commit/17016b664f92398c828f011900e8de050836cb55) - 2026-07-22
+* [Commit] [Rename `uint*` to `Uint*` (#5469)](https://github.com/ethereum/consensus-specs/commit/3d637668cbeafbed43a3359e5b3b290c4771cbc2) - 2026-07-22
+* [Commit] [Rename `byte` to `Byte` (#5468)](https://github.com/ethereum/consensus-specs/commit/e20a64b1cf5456a4ed81297f2e046160c08e426a) - 2026-07-22
+* [Commit] [Rename `boolean` to `Boolean` (#5466)](https://github.com/ethereum/consensus-specs/commit/582d441ca24b5c4ce57f7ed26ac5e750cecf206d) - 2026-07-22
+* [Commit] [Remove the `bit` type (#5467)](https://github.com/ethereum/consensus-specs/commit/05c36e840062181f1e27e83b379832b17133cf12) - 2026-07-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

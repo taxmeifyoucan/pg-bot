@@ -37,6 +37,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Remove several unnecessary AddressSelection warning suppressions](https://github.com/Consensys/teku/pull/10991#pullrequestreview-4741707552) - 2026-07-21
 * [Commit] [Remove send deposits cli (#10982)](https://github.com/Consensys/teku/commit/c37cdb44d595460f0130fd87ee22796cf0ed0e00) - 2026-07-22
 * [Commit] [Remove deposit snapshot endpoint and related classes (#10988)](https://github.com/Consensys/teku/commit/eee8db3c0e1a302b2c1edba3c0d741d838b697e2) - 2026-07-21
+* [Pull Request] [Remove acceptance deposit senders and remove web3j from beacon/pow](https://github.com/Consensys/teku/pull/10997) - 2026-07-22
+* [Review] [Review on: Remove acceptance deposit senders and remove web3j from beacon/pow](https://github.com/Consensys/teku/pull/10997#pullrequestreview-4760139861) - 2026-07-23
 ## Q2 2026
 
 

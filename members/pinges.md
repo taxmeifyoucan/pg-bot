@@ -8,6 +8,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 
 ## Contributions
 
+## Q3 2026
+
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Commit] [Snap-sync: recover when a former pivot (now a download anchor) is reorged (#10647)](https://github.com/besu-eth/besu/commit/2acbdc3417ae9956a9833f815d03af6cdfd3bc8b) - 2026-07-22
 ## Q2 2026
 
 

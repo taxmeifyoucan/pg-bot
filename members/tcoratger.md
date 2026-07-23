@@ -13,6 +13,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Issue] [Post-Quantum (PQ) Interop #46, July 1, 2026](https://github.com/ethereum/pm/issues/2147) - 2026-07-01
 
 * [Issue] [Post-Quantum (PQ) Interop #47, July 8, 2026](https://github.com/ethereum/pm/issues/2153) - 2026-07-08
+* [Issue] [Post-Quantum (PQ) Interop #48, July 22, 2026](https://github.com/ethereum/pm/issues/2169) - 2026-07-22
 [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3)
 * [Pull Request] [feat(multi-stark): reusable preprocessed-column commitment](https://github.com/Plonky3/Plonky3/pull/1907) - 2026-07-02
 * [Review] [Review on: perf: add optimized compilation profile](https://github.com/Plonky3/Plonky3/pull/1906#pullrequestreview-4617733091) - 2026-07-02

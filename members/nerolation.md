@@ -33,6 +33,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Review] [Review on: Update EIP-8250: price nonce_keys and nonce_seq as transaction data](https://github.com/ethereum/EIPs/pull/11958#pullrequestreview-4728538982) - 2026-07-18
 * [Review] [Review on: Update EIP-8250: align transaction introspection assignments](https://github.com/ethereum/EIPs/pull/11966#pullrequestreview-4730886183) - 2026-07-19
 * [Review] [Review on: Update EIP-8272: resolve RECENTROOTREFLOAD opcode collision](https://github.com/ethereum/EIPs/pull/11967#pullrequestreview-4733964210) - 2026-07-20
+* [Pull Request] [Update EIP-7997: specify activation-block deployment and BAL recording](https://github.com/ethereum/EIPs/pull/11991) - 2026-07-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 

@@ -16,6 +16,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Review] [Review on: Replace caffeine state root cache with recency-based eviction](https://github.com/besu-eth/besu/pull/10724#pullrequestreview-4620234247) - 2026-07-02
 
 * [Pull Request] [Remove ipa-multipoint from besu](https://github.com/besu-eth/besu/pull/10833) - 2026-07-21
+* [Commit] [Remove ipa-multipoint from besu (#10833)](https://github.com/besu-eth/besu/commit/7b1f0f2ecbff6b865a09b386f98ba1d100b90245) - 2026-07-22
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298#pullrequestreview-4664315207) - 2026-07-09
 * [Pull Request] [Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298) - 2026-07-20

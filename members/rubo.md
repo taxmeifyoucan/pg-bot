@@ -37,6 +37,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(db): use tcmalloc for native allocations in the Docker image](https://github.com/NethermindEth/nethermind/pull/12486#pullrequestreview-4733508934) - 2026-07-20
 * [Review] [Review on: Batch EIP-2537 pairing check Miller loops and use affine MSM](https://github.com/NethermindEth/nethermind/pull/12329#pullrequestreview-4748275832) - 2026-07-21
 * [Review] [Review on: feat(core): responsive startup logo with adaptive layout](https://github.com/NethermindEth/nethermind/pull/11413#pullrequestreview-4749130170) - 2026-07-21
+* [Pull Request] [ci(zkevm): Update the workflow for glamsterdam-devnet-7](https://github.com/NethermindEth/nethermind/pull/12547) - 2026-07-22
+* [Review] [Review on: ci(zkevm): Update the workflow for glamsterdam-devnet-7](https://github.com/NethermindEth/nethermind/pull/12547#pullrequestreview-4757878217) - 2026-07-22
+* [Review] [Review on: ci: remove NuGet package caching from test jobs](https://github.com/NethermindEth/nethermind/pull/12531#pullrequestreview-4755415811) - 2026-07-22
+* [Review] [Review on: ci: pin the zisk image to the last working digest](https://github.com/NethermindEth/nethermind/pull/12542#pullrequestreview-4753282191) - 2026-07-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 ## Q2 2026

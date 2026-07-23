@@ -16,6 +16,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Activate Gloas acceptance test](https://github.com/Consensys/teku/pull/10974#pullrequestreview-4697434919) - 2026-07-14
+* [Pull Request] [Set `blobDataAvailable` correctly for PTC](https://github.com/Consensys/teku/pull/10998) - 2026-07-22
 ## Q2 2026
 
 

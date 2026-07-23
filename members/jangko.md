@@ -52,6 +52,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: Implement gloas fcU payload build skip v1.0.0-beta.7](https://github.com/status-im/nimbus-eth1/pull/4525#pullrequestreview-4736757967) - 2026-07-20
 * [Review] [Review on: Use BoringSSL for the modexp precompile](https://github.com/status-im/nimbus-eth1/pull/4522#pullrequestreview-4736691773) - 2026-07-20
 * [Review] [Review on: Use BoringSSL for the sha256 precompile](https://github.com/status-im/nimbus-eth1/pull/4524#pullrequestreview-4736140421) - 2026-07-20
+* [Pull Request] [Validate block baggage in eest_txpool_test](https://github.com/status-im/nimbus-eth1/pull/4535) - 2026-07-22
+* [Pull Request] [Update EEST mainnet test fixtures to v20.0.1](https://github.com/status-im/nimbus-eth1/pull/4534) - 2026-07-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

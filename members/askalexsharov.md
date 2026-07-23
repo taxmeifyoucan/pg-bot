@@ -398,6 +398,31 @@ Team: Erigon
 * [Commit] [enr: cut ENR decode allocations (#22587)](https://github.com/erigontech/erigon/commit/5fb56de40166ceca73b418b8ebd33dc4ebaaad2e) - 2026-07-21
 * [Commit] [stagedsync: refresh tx block-files view before state-phase snapshot filter (#22618)](https://github.com/erigontech/erigon/commit/2f94a90b82e0c51af5fc5e9e8d10adae1231f604) - 2026-07-21
 * [Commit] [cl/antiquary: snapshot compact effective balances instead of full validator set (#22411)](https://github.com/erigontech/erigon/commit/0a86cff0c2c9c36d01996b5d0cba4933d912b167) - 2026-07-21
+* [Review] [Review on: cl: format consensus layer files using gofumpt](https://github.com/erigontech/erigon/pull/22651#pullrequestreview-4751136038) - 2026-07-22
+* [Review] [Review on: rpc/mcp: unify embedded and standalone servers into one JSON-RPC implementation](https://github.com/erigontech/erigon/pull/22625#pullrequestreview-4750835810) - 2026-07-22
+* [Pull Request] [[r3.6] db/state: retire OpenFolder-invalidated files instead of closing under readers](https://github.com/erigontech/erigon/pull/22661) - 2026-07-22
+* [Review] [Review on: [r3.6] db/state: retire OpenFolder-invalidated files instead of closing under readers](https://github.com/erigontech/erigon/pull/22661#pullrequestreview-4751679733) - 2026-07-22
+* [Review] [Review on: rpc/mcp: add debug and trace tools](https://github.com/erigontech/erigon/pull/22630#pullrequestreview-4750801868) - 2026-07-22
+* [Pull Request] [[r3.6] minimal node: download not enough logIndex files](https://github.com/erigontech/erigon/pull/22673) - 2026-07-22
+* [Review] [Review on: cl/beacon: handle empty Fulu builder response](https://github.com/erigontech/erigon/pull/22653#pullrequestreview-4752830216) - 2026-07-22
+* [Review] [Review on: .github: least-privilege contents: read for read-only workflows (#21132)](https://github.com/erigontech/erigon/pull/22662#pullrequestreview-4752826727) - 2026-07-22
+* [Review] [Review on: chore(ci): remove unused adm-zip dependency from test_report script](https://github.com/erigontech/erigon/pull/22671#pullrequestreview-4752743500) - 2026-07-22
+* [Review] [Review on: go.mod: update libsecp256k1 to v0.7.1](https://github.com/erigontech/erigon/pull/22665#pullrequestreview-4752377123) - 2026-07-22
+* [Pull Request] [[r3.5] rpc: add check on null tx](https://github.com/erigontech/erigon/pull/22668) - 2026-07-22
+* [Pull Request] [[r3.6] rpc: add check on null tx](https://github.com/erigontech/erigon/pull/22667) - 2026-07-22
+* [Review] [Review on: use tx.Debug().StepSize() instead of reaching into agg](https://github.com/erigontech/erigon/pull/22670#pullrequestreview-4752392938) - 2026-07-22
+* [Review] [Review on: rpc:  add check on null tx](https://github.com/erigontech/erigon/pull/22649#pullrequestreview-4750520803) - 2026-07-22
+* [Pull Request] [[r3.6] db/state, db/snapshotsync: mark retired files canDelete; last releaser closes or deletes](https://github.com/erigontech/erigon/pull/22669) - 2026-07-22
+* [Review] [Review on: [r3.6] db/state, db/snapshotsync: mark retired files canDelete; last releaser closes or deletes](https://github.com/erigontech/erigon/pull/22669#pullrequestreview-4752209186) - 2026-07-22
+* [Pull Request] [db/version/app: bump to 3.7.0-dev](https://github.com/erigontech/erigon/pull/22658) - 2026-07-22
+* [Pull Request] [[r3.6] db/version: app version 3.6.0](https://github.com/erigontech/erigon/pull/22652) - 2026-07-22
+* [Pull Request] [[r3.6] db/state: retire OpenFolder-invalidated files instead of closing under readers](https://github.com/erigontech/erigon/pull/22657) - 2026-07-22
+* [Review] [Review on: [r3.6] db/state: retire OpenFolder-invalidated files instead of closing under readers](https://github.com/erigontech/erigon/pull/22657#pullrequestreview-4751293414) - 2026-07-22
+* [Issue] [TxnByIdxInBlock: to return `ok`. And to check it in all Erigon's places.](https://github.com/erigontech/erigon/issues/22666) - 2026-07-22
+* [Issue] [buildBlackListForPruning: chain-history-expiry drops the merge-spanning transactions segment](https://github.com/erigontech/erigon/issues/22674) - 2026-07-22
+* [Issue] [race test about bal missmatch](https://github.com/erigontech/erigon/issues/22659) - 2026-07-22
+* [Commit] [db/version/app: bump to 3.7.0-dev (#22658)](https://github.com/erigontech/erigon/commit/f3c339dbe83c730f78f77be450cc10402066faff) - 2026-07-22
+* [Commit] [execution, p2p, rules: pass structs to rlp.Encode by pointer (#22599)](https://github.com/erigontech/erigon/commit/4ff053c0671ee9a69061d3c59dba5699957e6fc5) - 2026-07-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

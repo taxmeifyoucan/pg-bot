@@ -46,6 +46,7 @@ Team: Geth
 * [Commit] [eth/catalyst: pass TargetGasLimit via engine api (#35372)](https://github.com/ethereum/go-ethereum/commit/4363b81e6fc71441c121a2b784f9c059ef1f6087) - 2026-07-20
 * [Pull Request] [core: fix tracer panic](https://github.com/ethereum/go-ethereum/pull/35396) - 2026-07-21
 * [Review] [Review on: eth/catalyst: allow reorg depth equal to maxReorgDepth](https://github.com/ethereum/go-ethereum/pull/35391#pullrequestreview-4742966273) - 2026-07-21
+* [Commit] [core: fix tracer panic (#35396)](https://github.com/ethereum/go-ethereum/commit/5d88c6b324b69f391e2677f13e5eae4493eefb4b) - 2026-07-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 ## Q2 2026

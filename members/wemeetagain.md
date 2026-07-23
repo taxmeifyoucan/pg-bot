@@ -20,6 +20,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899#pullrequestreview-4654194568) - 2026-07-08
 * [Review] [Review on: Config: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4687410678) - 2026-07-13
 * [Pull Request] [Update EIP-1: Add ethereum/sys-asm as an approved origin](https://github.com/ethereum/EIPs/pull/11986) - 2026-07-21
+* [Review] [Review on: Update EIP-8282: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4755085945) - 2026-07-22
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
 
@@ -84,6 +85,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bls): clean up partial thread pool initialization](https://github.com/ChainSafe/lodestar-z/pull/490#pullrequestreview-4724335397) - 2026-07-17
 * [Review] [Review on: docs: more comprehensive AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/520#pullrequestreview-4738506562) - 2026-07-20
 * [Pull Request] [refactor(pubkeys): centralize the process-wide cache](https://github.com/ChainSafe/lodestar-z/pull/522) - 2026-07-21
+* [Review] [Review on: fix(bls): preserve aggregate outputs on failure](https://github.com/ChainSafe/lodestar-z/pull/521#pullrequestreview-4758613905) - 2026-07-22
+* [Review] [Review on: fix(bls): reject empty keygen salts](https://github.com/ChainSafe/lodestar-z/pull/524#pullrequestreview-4756007320) - 2026-07-22
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

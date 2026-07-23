@@ -105,6 +105,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Validate Hive side-chain parents](https://github.com/NethermindEth/nethermind/pull/12525) - 2026-07-21
 * [Commit] [Handle short Snap trie paths (#12523)](https://github.com/NethermindEth/nethermind/commit/0647075ff91d651f9b65d8db3cd19c345c14a406) - 2026-07-21
 * [Commit] [Devnet-7 tests and repricing (#12476)](https://github.com/NethermindEth/nethermind/commit/f1a28b67bc19e89e8ca2da7944da3e68079c67a4) - 2026-07-21
+* [Review] [Review on: fix: normalize IPv4-mapped IPv6 addresses in Enode](https://github.com/NethermindEth/nethermind/pull/12544#pullrequestreview-4753516980) - 2026-07-22
+* [Pull Request] [Preserve Gnosis TTD-zero genesis hash](https://github.com/NethermindEth/nethermind/pull/12545) - 2026-07-22
+* [Commit] [Validate Hive side-chain parents (#12525)](https://github.com/NethermindEth/nethermind/commit/88e44a82bc662e61c80796bd2ad77cb8dc04e33e) - 2026-07-22
+* [Commit] [Preserve Gnosis TTD-zero genesis hash (#12545)](https://github.com/NethermindEth/nethermind/commit/26aa2df120cc09dbb8e15b1138b172195ab0f73b) - 2026-07-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -114,6 +118,21 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [chore(test-client-clis): update Nethermind exception mappings (#3151)](https://github.com/ethereum/execution-specs/commit/ccab088314c7a3197947bf26da3b26824bd7601e) - 2026-07-13
 * [Pull Request] [chore(test-client-clis): backport Nethermind signature mapping](https://github.com/ethereum/execution-specs/pull/3184) - 2026-07-16
 * [Pull Request] [fix(test-client-clis): map Nethermind signature errors for Devnet-7](https://github.com/ethereum/execution-specs/pull/3199) - 2026-07-20
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [p2p, engine: retry downloader and limit body batches](https://github.com/erigontech/erigon/pull/22679) - 2026-07-22
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Pull Request] [Stabilize execution sync interoperability](https://github.com/ethereum/hive/pull/1584) - 2026-07-22
+* [Pull Request] [Balance Cancun blob-packing fixtures](https://github.com/ethereum/hive/pull/1581) - 2026-07-22
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [fix(eth): isolate protocol traffic by connection](https://github.com/besu-eth/besu/pull/10841) - 2026-07-22
+* [Pull Request] [fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843) - 2026-07-22
+* [Pull Request] [fix(chain): publish sync heads after storage commit](https://github.com/besu-eth/besu/pull/10842) - 2026-07-22
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [fix(net): recover partial header responses](https://github.com/paradigmxyz/reth/pull/26482) - 2026-07-22
 ## Q2 2026
 
 

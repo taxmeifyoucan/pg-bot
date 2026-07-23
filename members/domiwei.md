@@ -49,6 +49,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [Caplin custom devnets should support explicit CL bootnodes without inheriting mainnet defaults](https://github.com/erigontech/erigon/issues/22597) - 2026-07-20
 * [Issue] [cl/beacon: Fulu blinded block submission panics on nil execution payload](https://github.com/erigontech/erigon/issues/22598) - 2026-07-20
 * [Review] [Review on: cl/beacon: handle empty Fulu builder response](https://github.com/erigontech/erigon/pull/22606#pullrequestreview-4741356553) - 2026-07-21
+* [Pull Request] [cl/beacon: handle empty Fulu builder response](https://github.com/erigontech/erigon/pull/22653) - 2026-07-22
+* [Commit] [cl/beacon: handle empty Fulu builder response (#22653)](https://github.com/erigontech/erigon/commit/0eb0715affd97afd7e5e940341a0dce53fb6f34c) - 2026-07-22
 ## Q2 2026
 
 
