@@ -65,6 +65,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Prysm Version Upgrade Script](https://github.com/OffchainLabs/prysm/pull/15992#pullrequestreview-4757563142) - 2026-07-22
 * [Review] [Review on: Only increment PTC vote count metric for newly set votes](https://github.com/OffchainLabs/prysm/pull/17214#pullrequestreview-4756278087) - 2026-07-22
 * [Commit] [e2e: Update lighthouse version in multiclient testing (#17221)](https://github.com/OffchainLabs/prysm/commit/39a19d268266e0b143fc4f4a269b4c2effb707ff) - 2026-07-22
+* [Review] [Review on: reduce state diff cache memory usage](https://github.com/OffchainLabs/prysm/pull/17227#pullrequestreview-4768226562) - 2026-07-23
 ## Q2 2026
 
 

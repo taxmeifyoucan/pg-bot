@@ -69,6 +69,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [refactor(evm): move call-frame metadata from VmState to ExecutionEnvironment](https://github.com/NethermindEth/nethermind/pull/12530) - 2026-07-21
 * [Review] [Review on: [WIP] EIP-8288 - Frame type for PQ sig and STARK aggregation](https://github.com/NethermindEth/nethermind/pull/12513#pullrequestreview-4744279948) - 2026-07-21
 * [Commit] [Batch EIP-2537 pairing check Miller loops and use affine MSM (#12329)](https://github.com/NethermindEth/nethermind/commit/bcc44aecc203ca083d7505c644b4a9fb51a4f3b1) - 2026-07-21
+* [Pull Request] [fix: enter world-state scope in EVM benchmark setup](https://github.com/NethermindEth/nethermind/pull/12561) - 2026-07-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

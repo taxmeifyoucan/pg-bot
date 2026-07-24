@@ -36,6 +36,10 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: specify EIP-3529 storage refund accounting for frames](https://github.com/ethereum/EIPs/pull/11940#pullrequestreview-4748299437) - 2026-07-21
 * [Review] [Review on: Update EIP-8141: approval effects are not reverted by frame revert or atomic-batch unroll](https://github.com/ethereum/EIPs/pull/11955#pullrequestreview-4745626267) - 2026-07-21
 * [Commit] [Update EIP-8141: statically exclude VERIFY frames from atomic batches](https://github.com/ethereum/EIPs/commit/a95ff54255d8dcaded6c92ff16e5e8f699defb01) - 2026-07-21
+* [Review] [Review on: Update EIP-8141: bound the fee fields in the static constraints](https://github.com/ethereum/EIPs/pull/12005#pullrequestreview-4768099360) - 2026-07-23
+* [Review] [Review on: Update EIP-8141: specify the APPROVE opcode gas cost](https://github.com/ethereum/EIPs/pull/12003#pullrequestreview-4768095310) - 2026-07-23
+* [Review] [Review on: Update EIP-8141: allow direct evaluation of protocol-defined validation prefixes](https://github.com/ethereum/EIPs/pull/12001#pullrequestreview-4768081130) - 2026-07-23
+* [Review] [Review on: Update EIP-8141: Specify blob support for frame transactions](https://github.com/ethereum/EIPs/pull/11985#pullrequestreview-4768071820) - 2026-07-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

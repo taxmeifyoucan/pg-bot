@@ -8,6 +8,11 @@ Team: [consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%
 
 ## Contributions
 
+## Q3 2026
+
+
+[libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
+* [Pull Request] [Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505) - 2026-07-23
 ## Q2 2026
 
 

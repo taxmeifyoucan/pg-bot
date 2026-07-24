@@ -25,6 +25,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [New threading model for block processing (#10786)](https://github.com/besu-eth/besu/commit/0a960f3b942b48ecb65ff7733e4099ba49bce6f2) - 2026-07-10
 * [Commit] [Improve BAL prefetcher collectKeys method performance (#10788)](https://github.com/besu-eth/besu/commit/4e999b349de25acdabe5a4658d23331c2285600b) - 2026-07-10
 * [Review] [Review on: Optimize AccessLocationTracker](https://github.com/besu-eth/besu/pull/10793#pullrequestreview-4755270073) - 2026-07-22
+* [Review] [Review on: Optimize AccessLocationTracker](https://github.com/besu-eth/besu/pull/10793#pullrequestreview-4764841226) - 2026-07-23
+* [Review] [Review on: Add ADDMOD in EVMv2](https://github.com/besu-eth/besu/pull/10792#pullrequestreview-4765412247) - 2026-07-23
+* [Pull Request] [improve max open files derive mechanism](https://github.com/besu-eth/besu/pull/10857) - 2026-07-23
+* [Commit] [Optimize AccessLocationTracker (#10793)](https://github.com/besu-eth/besu/commit/42888dfb666e31f784c8ec53421a5a407401b3b6) - 2026-07-23
 ## Q2 2026
 
 

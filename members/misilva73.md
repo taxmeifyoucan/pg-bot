@@ -27,6 +27,10 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Commit] [Update EIP-2780: fold transfer log cost into TX_VALUE_COST](https://github.com/ethereum/EIPs/commit/04dd54c2e7ec1f408cf4a150d5c1aa43573bd025) - 2026-07-22
 * [Commit] [Update EIP-8037: rename "regular gas" to "execution gas" and update requires](https://github.com/ethereum/EIPs/commit/4ef37e3dde616e9660e42527c73a8bf9303ea8ed) - 2026-07-22
 * [Commit] [Update EIP-8038: document parameter provenance and drop EIP-7904 from requires](https://github.com/ethereum/EIPs/commit/91d413a9e9aaad785f1986c4a9b2903a7d5dca6b) - 2026-07-22
+* [Pull Request] [Add EIP: Offline state migration to the PBT](https://github.com/ethereum/EIPs/pull/12006) - 2026-07-23
+* [Pull Request] [Update EIP-8297: redraw diagram and drop EIP-7864 changes section](https://github.com/ethereum/EIPs/pull/12002) - 2026-07-23
+* [Review] [Review on: Update EIP-8297: redraw diagram and drop EIP-7864 changes section](https://github.com/ethereum/EIPs/pull/12002#pullrequestreview-4763918066) - 2026-07-23
+* [Commit] [Update EIP-8297: redraw diagram and drop EIP-7864 changes section](https://github.com/ethereum/EIPs/commit/38e826621dca583bb0dba62647b56fddcca849c8) - 2026-07-23
 ## Q2 2026
 
 

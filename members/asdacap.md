@@ -174,6 +174,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Lead preimage flat DB storage keys with the full address](https://github.com/NethermindEth/nethermind/pull/12543) - 2026-07-22
 * [Review] [Review on: json-bench: run curated head configs with summary.json-only metrics](https://github.com/NethermindEth/nethermind/pull/12529#pullrequestreview-4751149118) - 2026-07-22
 * [Review] [Review on: perf(db): batched RocksDB MultiGet for flat BAL warmup — contiguous slices, no block-cache fill](https://github.com/NethermindEth/nethermind/pull/12467#pullrequestreview-4751663321) - 2026-07-22
+* [Review] [Review on: Add FlatDB e2e tests](https://github.com/NethermindEth/nethermind/pull/12550#pullrequestreview-4764492528) - 2026-07-23
+* [Review] [Review on: test: keep the persisted-snapshot tier inert in test containers; capture full exceptions in the test runner](https://github.com/NethermindEth/nethermind/pull/12532#pullrequestreview-4764506529) - 2026-07-23
+* [Review] [Review on: Lead preimage flat DB storage keys with the full address](https://github.com/NethermindEth/nethermind/pull/12543#pullrequestreview-4763346176) - 2026-07-23
+* [Commit] [Lead preimage flat DB storage keys with the full address (#12543)](https://github.com/NethermindEth/nethermind/commit/aac9c9cfd82cacf9ac752b7effbee7be85600361) - 2026-07-23
 ## Q2 2026
 
 

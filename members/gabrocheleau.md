@@ -27,6 +27,10 @@ Team: EthereumJS
 * [Commit] [chore: upgrade to TypeScript 7 (#4347)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/4c251bdaec6d360999cfa83803dd1edc00609879) - 2026-07-21
 * [Pull Request] [test(vm): improve typing and readability of execution-spec test runner](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4351) - 2026-07-23
 * [Commit] [test(vm): improve typing and readability of execution-spec test runner (#4351)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/9d28bcb5d22597d1a3f4ffc3bf5ed0211e821af7) - 2026-07-23
+* [Pull Request] [chore(scripts): exclude transitive external deps from bundle-size metric](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4352) - 2026-07-23
+* [Pull Request] [feat(genesis)!: lazy-load chain genesis states in getGenesis](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4353) - 2026-07-23
+* [Commit] [chore(scripts): exclude transitive external deps from bundle-size metric (#4352)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/20f986ca332860801d9d40db8f68ce03afb04bad) - 2026-07-23
+* [Commit] [evm/vm/tx/common: align Amsterdam gas schedule  (#4337)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/b3eed77a8e01c88c997216686eb4b531d226853a) - 2026-07-23
 ## Q2 2026
 
 

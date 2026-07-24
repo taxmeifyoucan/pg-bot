@@ -16,6 +16,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [ignore claude directory (avoiding issues with worktrees + gazelle) (#17182)](https://github.com/OffchainLabs/prysm/commit/9825eadc69c8581150e48052c5953cd437b0f237) - 2026-07-15
 * [Pull Request] [Upgrading go-libp2p-gossipsub to v0.17.0](https://github.com/OffchainLabs/prysm/pull/17195) - 2026-07-16
 * [Review] [Review on: Backfill completion fix](https://github.com/OffchainLabs/prysm/pull/17223#pullrequestreview-4757735659) - 2026-07-22
+* [Pull Request] [update go toolchain to 1.26.5](https://github.com/OffchainLabs/prysm/pull/17230) - 2026-07-23
+* [Commit] [update go toolchain to 1.26.5 (#17230)](https://github.com/OffchainLabs/prysm/commit/51b5a75ebbadf05af22bd2601b5baf7a9e99b66d) - 2026-07-23
 ## Q2 2026
 
 

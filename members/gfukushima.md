@@ -39,6 +39,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Remove deposit snapshot endpoint and related classes (#10988)](https://github.com/Consensys/teku/commit/eee8db3c0e1a302b2c1edba3c0d741d838b697e2) - 2026-07-21
 * [Pull Request] [Remove acceptance deposit senders and remove web3j from beacon/pow](https://github.com/Consensys/teku/pull/10997) - 2026-07-22
 * [Review] [Review on: Remove acceptance deposit senders and remove web3j from beacon/pow](https://github.com/Consensys/teku/pull/10997#pullrequestreview-4760139861) - 2026-07-23
+* [Review] [Review on: Fixed Beacon REST API socket retention when clients cancel pending requests](https://github.com/Consensys/teku/pull/11004#pullrequestreview-4769307168) - 2026-07-24
+* [Pull Request] [Remove web3j from production](https://github.com/Consensys/teku/pull/11000) - 2026-07-23
+* [Review] [Review on: Replace deprecated BeaconChainUtil in EpochTransitionBenchmark](https://github.com/Consensys/teku/pull/10992#pullrequestreview-4769188185) - 2026-07-24
+* [Commit] [Remove acceptance deposit senders and remove web3j from beacon/pow (#10997)](https://github.com/Consensys/teku/commit/197dd4d9124d43a918b205ab33d65701eb321a93) - 2026-07-23
 ## Q2 2026
 
 

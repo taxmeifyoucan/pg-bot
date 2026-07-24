@@ -24,6 +24,9 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: eth/protocols/eth: track announced tx hashes only after send, again](https://github.com/ethereum/go-ethereum/pull/35384#pullrequestreview-4735439923) - 2026-07-20
 * [Review] [Review on: cmd/devp2p/internal/ethtest: add eth/71 (EIP-8159) tests](https://github.com/ethereum/go-ethereum/pull/35389#pullrequestreview-4746089852) - 2026-07-21
 * [Review] [Review on: eth/fetcher: count unique hashes in blob queueing metric](https://github.com/ethereum/go-ethereum/pull/35393#pullrequestreview-4745730620) - 2026-07-21
+* [Review] [Review on: eth/downloader: implement BAL downloading](https://github.com/ethereum/go-ethereum/pull/35386#pullrequestreview-4765978251) - 2026-07-23
+* [Review] [Review on: cmd/devp2p: add combined discovery listener](https://github.com/ethereum/go-ethereum/pull/35254#pullrequestreview-4764031692) - 2026-07-23
+* [Review] [Review on: eth/fetcher: clear partial map when dropping last waitlist peer](https://github.com/ethereum/go-ethereum/pull/35399#pullrequestreview-4762156070) - 2026-07-23
 ## Q2 2026
 
 

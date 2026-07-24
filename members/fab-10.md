@@ -45,6 +45,13 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Add japicmp binary compatibility check for the Plugin API](https://github.com/besu-eth/besu/pull/10823#pullrequestreview-4752032163) - 2026-07-22
 * [Pull Request] [Refactor engine_forkchoiceUpdated onto a ConstructorArguments/VersionScheduler foundation](https://github.com/besu-eth/besu/pull/10838) - 2026-07-22
 * [Commit] [fix: catch classifier-published sources jars missing from verification metadata (#10839)](https://github.com/besu-eth/besu/commit/be90c276d2b2a15e21be5bcc352489ed437eaa82) - 2026-07-22
+* [Review] [Review on: Refactor engine_newPayload into a sealed version hierarchy ](https://github.com/besu-eth/besu/pull/10840#pullrequestreview-4766298324) - 2026-07-23
+* [Pull Request] [Cleanup start scripts from pre-Java25 configuration](https://github.com/besu-eth/besu/pull/10855) - 2026-07-23
+* [Pull Request] [Remove the legacy `PANTHEON_` environment variable prefix](https://github.com/besu-eth/besu/pull/10854) - 2026-07-23
+* [Review] [Review on: Remove the legacy `PANTHEON_` environment variable prefix](https://github.com/besu-eth/besu/pull/10854#pullrequestreview-4762946906) - 2026-07-23
+* [Commit] [Refactor engine_forkchoiceUpdated onto a ConstructorArguments/VersionScheduler foundation (#10838)](https://github.com/besu-eth/besu/commit/e64bff470dfa537111c1e2a9b73cf893848a2419) - 2026-07-23
+* [Commit] [Cleanup start scripts from pre-Java25 configuration (#10855)](https://github.com/besu-eth/besu/commit/0e378d9e59066b85aec1f224a4d7628e80982873) - 2026-07-23
+* [Commit] [Removed the legacy `PANTHEON_` environment variable prefix (#10854)](https://github.com/besu-eth/besu/commit/dbde5f34f665f5eb3f9448974a24312ebb2c9fed) - 2026-07-23
 ## Q2 2026
 
 

@@ -88,6 +88,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: json-bench: run curated head configs with summary.json-only metrics](https://github.com/NethermindEth/nethermind/pull/12529#pullrequestreview-4752296943) - 2026-07-22
 * [Commit] [perf(state): trim burst-inflated collections and reduce cache contention (#12540)](https://github.com/NethermindEth/nethermind/commit/82f92aee5d3610b9507c37403b670ad178a6eee4) - 2026-07-22
 * [Commit] [Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool (#12468)](https://github.com/NethermindEth/nethermind/commit/d83dcd69f18f5e4954790b218af9d83bca9c03c1) - 2026-07-22
+* [Pull Request] [Don't treat configured FinalTotalDifficulty as TTD reached](https://github.com/NethermindEth/nethermind/pull/12555) - 2026-07-23
+* [Pull Request] [fix(persistence): halfpath shutdown crash — skip disposed registrants in StatePersistenceBarrier](https://github.com/NethermindEth/nethermind/pull/12553) - 2026-07-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

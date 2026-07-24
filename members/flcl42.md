@@ -109,6 +109,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Preserve Gnosis TTD-zero genesis hash](https://github.com/NethermindEth/nethermind/pull/12545) - 2026-07-22
 * [Commit] [Validate Hive side-chain parents (#12525)](https://github.com/NethermindEth/nethermind/commit/88e44a82bc662e61c80796bd2ad77cb8dc04e33e) - 2026-07-22
 * [Commit] [Preserve Gnosis TTD-zero genesis hash (#12545)](https://github.com/NethermindEth/nethermind/commit/26aa2df120cc09dbb8e15b1138b172195ab0f73b) - 2026-07-22
+* [Review] [Review on: Fix gnosis failed tests](https://github.com/NethermindEth/nethermind/pull/12560#pullrequestreview-4765163508) - 2026-07-23
+* [Pull Request] [Optimize generated SSZ byte collection codecs](https://github.com/NethermindEth/nethermind/pull/12554) - 2026-07-23
+* [Review] [Review on: Optimize generated SSZ byte collection codecs](https://github.com/NethermindEth/nethermind/pull/12554#pullrequestreview-4765509542) - 2026-07-23
+* [Pull Request] [Serialize AuRa step as a hex quantity](https://github.com/NethermindEth/nethermind/pull/12562) - 2026-07-23
+* [Review] [Review on: ci(zkevm): Update the workflow for glamsterdam-devnet-7](https://github.com/NethermindEth/nethermind/pull/12547#pullrequestreview-4763423599) - 2026-07-23
+* [Review] [Review on: fix(xdc): disable automatic ENR refresh over discv4](https://github.com/NethermindEth/nethermind/pull/12556#pullrequestreview-4763393091) - 2026-07-23
+* [Pull Request] [Handle zero terminal total difficulty as merge from genesis](https://github.com/NethermindEth/nethermind/pull/12557) - 2026-07-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -126,11 +133,16 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Stabilize execution sync interoperability](https://github.com/ethereum/hive/pull/1584) - 2026-07-22
 * [Pull Request] [Balance Cancun blob-packing fixtures](https://github.com/ethereum/hive/pull/1581) - 2026-07-22
 
+* [Pull Request] [Support Prague consensus fixtures and RPC gas target](https://github.com/ethereum/hive/pull/1585) - 2026-07-23
+* [Commit] [all: stabilize execution sync interoperability (#1584)](https://github.com/ethereum/hive/commit/b9de78925b254a03376f4f7cf74522e201eba011) - 2026-07-23
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix(eth): isolate protocol traffic by connection](https://github.com/besu-eth/besu/pull/10841) - 2026-07-22
 * [Pull Request] [fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843) - 2026-07-22
 * [Pull Request] [fix(chain): publish sync heads after storage commit](https://github.com/besu-eth/besu/pull/10842) - 2026-07-22
 
+* [Review] [Review on: fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843#pullrequestreview-4762190630) - 2026-07-23
+* [Review] [Review on: fix(eth): isolate protocol traffic by connection](https://github.com/besu-eth/besu/pull/10841#pullrequestreview-4762189326) - 2026-07-23
+* [Review] [Review on: fix(chain): publish sync heads after storage commit](https://github.com/besu-eth/besu/pull/10842#pullrequestreview-4762189618) - 2026-07-23
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(net): recover partial header responses](https://github.com/paradigmxyz/reth/pull/26482) - 2026-07-22
 ## Q2 2026

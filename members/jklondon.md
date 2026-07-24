@@ -34,6 +34,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: rpc/mcp: add net and admin P2P inspection tools](https://github.com/erigontech/erigon/pull/22629#pullrequestreview-4754036387) - 2026-07-22
 * [Review] [Review on: rpc/mcp: declare readOnlyHint on every tool](https://github.com/erigontech/erigon/pull/22626#pullrequestreview-4754031382) - 2026-07-22
 * [Review] [Review on: [r3.6] minimal node: download not enough logIndex files](https://github.com/erigontech/erigon/pull/22673#pullrequestreview-4752725942) - 2026-07-22
+* [Review] [Review on: rlp: fast-path slice-backed streams in readFull, readByte and ViewBytes](https://github.com/erigontech/erigon/pull/22595#pullrequestreview-4762888729) - 2026-07-23
 ## Q2 2026
 
 

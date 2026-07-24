@@ -51,6 +51,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: scan all proto array nodes when counting payload reveals](https://github.com/ChainSafe/lodestar/pull/9676#pullrequestreview-4748462878) - 2026-07-21
 * [Review] [Review on: perf: improve process_attestation() for gloas](https://github.com/ChainSafe/lodestar/pull/9664#pullrequestreview-4748422780) - 2026-07-21
 * [Commit] [feat: implement EIP 7688 (#9390)](https://github.com/ChainSafe/lodestar/commit/17a48050e67af1c339b28f1283d5c2f04dc60bc1) - 2026-07-21
+* [Review] [Review on: fix: return 400 for gossip validation errors](https://github.com/ChainSafe/lodestar/pull/9699#pullrequestreview-4768190839) - 2026-07-23
+* [Review] [Review on: fix: emit head event whenever fork choice head changes](https://github.com/ChainSafe/lodestar/pull/9697#pullrequestreview-4765589555) - 2026-07-23
+* [Review] [Review on: chore: v1.45.0 release](https://github.com/ChainSafe/lodestar/pull/9674#pullrequestreview-4764386235) - 2026-07-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -87,6 +90,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor(pubkeys): centralize the process-wide cache](https://github.com/ChainSafe/lodestar-z/pull/522) - 2026-07-21
 * [Review] [Review on: fix(bls): preserve aggregate outputs on failure](https://github.com/ChainSafe/lodestar-z/pull/521#pullrequestreview-4758613905) - 2026-07-22
 * [Review] [Review on: fix(bls): reject empty keygen salts](https://github.com/ChainSafe/lodestar-z/pull/524#pullrequestreview-4756007320) - 2026-07-22
+* [Review] [Review on: refactor(pubkeys): centralize the process-wide cache](https://github.com/ChainSafe/lodestar-z/pull/522#pullrequestreview-4767630308) - 2026-07-23
+* [Review] [Review on: fix(bls): reject unknown BLST error codes](https://github.com/ChainSafe/lodestar-z/pull/525#pullrequestreview-4765115021) - 2026-07-23
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

@@ -101,6 +101,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(test-benchmark): align test suite with `glam-devnet-7` spec](https://github.com/ethereum/execution-specs/pull/3187#pullrequestreview-4736441643) - 2026-07-20
 * [Pull Request] [fix(ci): skip new-commit check on manual fixture release dispatches](https://github.com/ethereum/execution-specs/pull/3202) - 2026-07-21
 * [Commit] [fix(ci): skip new-commit check on manual fixture release dispatches (#3202)](https://github.com/ethereum/execution-specs/commit/135af0fd4b1ecb389dd1fd0de2b39f78512dedef) - 2026-07-22
+* [Pull Request] [chore(tests): improve EIP-8024 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3224) - 2026-07-23
+* [Pull Request] [chore(tests): improve EIP-7981 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3223) - 2026-07-23
+* [Pull Request] [chore(tests): improve EIP-7976 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3222) - 2026-07-23
+* [Pull Request] [chore(tests): improve EIP-7843 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3221) - 2026-07-23
+* [Pull Request] [chore(tests): improve EIP-7708 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3220) - 2026-07-23
+* [Pull Request] [fix(tests,test-fill): fix Engine X fills on BAL forks](https://github.com/ethereum/execution-specs/pull/3219) - 2026-07-23
+* [Issue] [Test Release Tracker: `tests@v21.0.0` (Glamsterdam Testnet)](https://github.com/ethereum/execution-specs/issues/3217) - 2026-07-23
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

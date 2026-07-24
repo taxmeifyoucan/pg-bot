@@ -87,6 +87,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [optimize PREVRANDAO benchmarks](https://github.com/status-im/nimbus-eth1/pull/4536) - 2026-07-22
 * [Review] [Review on: optimize PREVRANDAO benchmarks](https://github.com/status-im/nimbus-eth1/pull/4536#pullrequestreview-4752072850) - 2026-07-22
 * [Review] [Review on: Optimize proofOfStake check for PREVRANDAO opcode](https://github.com/status-im/nimbus-eth1/pull/4538#pullrequestreview-4752299484) - 2026-07-22
+* [Review] [Review on: proxy: EIP-2935 anchor jump](https://github.com/status-im/nimbus-eth1/pull/4530#pullrequestreview-4766033146) - 2026-07-23
+* [Pull Request] [bump nim-stint to increase EVM ADDMOD performance](https://github.com/status-im/nimbus-eth1/pull/4549) - 2026-07-23
+* [Commit] [bump nim-stint to increase EVM ADDMOD performance (#4549)](https://github.com/status-im/nimbus-eth1/commit/e148591565971c9ae9eb9b3eec430c37c4316e88) - 2026-07-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

@@ -37,6 +37,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): add more EIP-2780 tests](https://github.com/ethereum/execution-specs/pull/3195#pullrequestreview-4753538071) - 2026-07-22
 * [Issue] [Implement EIP-2780 update for glamsterdam devnet 8](https://github.com/ethereum/execution-specs/issues/3205) - 2026-07-22
 * [Commit] [feat(tests): add more EIP-2780 tests (#3195)](https://github.com/ethereum/execution-specs/commit/2282c757b3699d506de112b8a48b6b538df7ed1f) - 2026-07-22
+* [Review] [Review on: feat: make state interface generic enough to accomodate other trie implementations](https://github.com/ethereum/execution-specs/pull/3218#pullrequestreview-4763882811) - 2026-07-23
+* [Review] [Review on: refactor(spec-tools): use testing pydantic models in t8n](https://github.com/ethereum/execution-specs/pull/2924#pullrequestreview-4764667863) - 2026-07-23
+* [Pull Request] [feat(specs,amsterdam): fold transfer log cost into value transfer cost](https://github.com/ethereum/execution-specs/pull/3214) - 2026-07-23
+* [Commit] [refactor(spec-tools): use testing pydantic models in t8n (#2924)](https://github.com/ethereum/execution-specs/commit/a2e59a6cfbd2de55ae3427673b2cd7db5a42ba38) - 2026-07-23
 ## Q2 2026
 
 

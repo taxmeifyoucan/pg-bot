@@ -41,6 +41,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: ci(zkevm): Update the workflow for glamsterdam-devnet-7](https://github.com/NethermindEth/nethermind/pull/12547#pullrequestreview-4757878217) - 2026-07-22
 * [Review] [Review on: ci: remove NuGet package caching from test jobs](https://github.com/NethermindEth/nethermind/pull/12531#pullrequestreview-4755415811) - 2026-07-22
 * [Review] [Review on: ci: pin the zisk image to the last working digest](https://github.com/NethermindEth/nethermind/pull/12542#pullrequestreview-4753282191) - 2026-07-22
+* [Commit] [ci(zkevm): Update the workflow for glamsterdam-devnet-7 (#12547)](https://github.com/NethermindEth/nethermind/commit/9e75e90279aed6ef0a40868d138aa5c9f8448034) - 2026-07-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 ## Q2 2026

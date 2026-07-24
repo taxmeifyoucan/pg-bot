@@ -53,6 +53,11 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Separate Bonsai storage trie nodes into dedicated RocksDB column family](https://github.com/besu-eth/besu/pull/10830) - 2026-07-21
 * [Pull Request] [implement rpc modification for block access list](https://github.com/besu-eth/besu/pull/10828) - 2026-07-21
 * [Review] [Review on: Remove ipa-multipoint from besu](https://github.com/besu-eth/besu/pull/10833#pullrequestreview-4751216149) - 2026-07-22
+* [Review] [Review on: Optimize AccessLocationTracker](https://github.com/besu-eth/besu/pull/10793#pullrequestreview-4763016078) - 2026-07-23
+* [Review] [Review on: improve max open files derive mechanism](https://github.com/besu-eth/besu/pull/10857#pullrequestreview-4765268053) - 2026-07-23
+* [Pull Request] [Stateroot modification for bal in bal devnet 7](https://github.com/besu-eth/besu/pull/10856) - 2026-07-23
+* [Review] [Review on: snap/2 - reorg recovery plan and canonical BAL application](https://github.com/besu-eth/besu/pull/10832#pullrequestreview-4763510020) - 2026-07-23
+* [Review] [Review on: Refactor engine_forkchoiceUpdated onto a ConstructorArguments/VersionScheduler foundation](https://github.com/besu-eth/besu/pull/10838#pullrequestreview-4762996034) - 2026-07-23
 ## Q2 2026
 
 

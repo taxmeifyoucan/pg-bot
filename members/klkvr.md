@@ -31,6 +31,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 
 * [Pull Request] [chore(evm): update evm2](https://github.com/paradigmxyz/reth/pull/26481) - 2026-07-22
 * [Review] [Review on: chore(evm): update evm2](https://github.com/paradigmxyz/reth/pull/26481#pullrequestreview-4756949754) - 2026-07-22
+* [Review] [Review on: fix(refactor): skip transient selfdestruct storage wipes](https://github.com/paradigmxyz/reth/pull/26433#pullrequestreview-4762788683) - 2026-07-23
+* [Review] [Review on: feat(cli): add configurable dev defaults](https://github.com/paradigmxyz/reth/pull/26488#pullrequestreview-4765126306) - 2026-07-23
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

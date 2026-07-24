@@ -15,6 +15,7 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: add trusted contributor](https://github.com/ethereum/pm/commit/3bc670d71e16a4553451fc5d126844e7ce0dfa8a) - 2026-07-11
 * [Commit] [acdbot: remove composed recordings](https://github.com/ethereum/pm/commit/62c78274a66eedcef6ed6e9bc3e85d174f6bc2af) - 2026-07-11
 * [Commit] [acdbot: introduce acdt cl breakout](https://github.com/ethereum/pm/commit/c0100199b3ca18435d7eedbac6148c9ad431d4d3) - 2026-07-11
+* [Commit] [acdbot: stitch acdc 183 assets, restart pipeline](https://github.com/ethereum/pm/commit/9630998845102b364b4ce8b4a6ebfd201a255560) - 2026-07-23
 ## Q2 2026
 
 

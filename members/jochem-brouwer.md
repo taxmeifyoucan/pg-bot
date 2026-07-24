@@ -49,6 +49,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Trustless log and transaction index](https://github.com/ethereum/EIPs/pull/11811#pullrequestreview-4696569640) - 2026-07-14
 * [Pull Request] [Update EIP-8038: remove circular EIP-8037 dependency, reuse canonical gas symbols](https://github.com/ethereum/EIPs/pull/11927) - 2026-07-14
 * [Review] [Review on: CI: Grab latest version of eipw.](https://github.com/ethereum/EIPs/pull/11916#pullrequestreview-4738409650) - 2026-07-20
+* [Review] [Review on: Update EIP-7997: specify activation-block deployment and BAL recording](https://github.com/ethereum/EIPs/pull/11991#pullrequestreview-4763071046) - 2026-07-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -67,6 +68,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: feat(test-cli): add `--extract-opcode-count` opcode tracing](https://github.com/ethereum/execution-specs/pull/3124#pullrequestreview-4708185924) - 2026-07-15
 * [Review] [Review on: fix(test-benchmark): correct compute benchmarks that ran below worst case](https://github.com/ethereum/execution-specs/pull/3136#pullrequestreview-4710966763) - 2026-07-16
 * [Commit] [fix(fill-stateful): verify receipt status when filling stateful fixtures (#3142)](https://github.com/ethereum/execution-specs/commit/693dbbda7c9fe200ffe9762472bf8d9ff6e0a054) - 2026-07-16
+* [Review] [Review on: feat(spec-specs): add EIP-7997 deterministic factory deployment](https://github.com/ethereum/execution-specs/pull/3200#pullrequestreview-4763137295) - 2026-07-23
 ## Q2 2026
 
 

@@ -28,6 +28,15 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [fix(inspector): forward EIP-7708 transfer logs to the inspector](https://github.com/bluealloy/revm/pull/3816) - 2026-07-22
 * [Review] [Review on: fix(inspector): ignore stale SELFDESTRUCT journal entries](https://github.com/bluealloy/revm/pull/3805#pullrequestreview-4754613814) - 2026-07-22
 * [Commit] [feat(amsterdam): glamsterdam devnet-7 alignment (EIP-2780 runtime gas phase, fixtures v7.0.0) (#3795)](https://github.com/bluealloy/revm/commit/f47a3e93a64490210c7cc1fa4e85ca5c15ed967f) - 2026-07-22
+* [Pull Request] [refactor(handler): build precompile frame gas without touching the interpreter crate](https://github.com/bluealloy/revm/pull/3822) - 2026-07-23
+* [Pull Request] [bump: prep v115 tag, revm v42.0.1](https://github.com/bluealloy/revm/pull/3821) - 2026-07-23
+* [Pull Request] [feat(precompile): track spilled state gas in PrecompileOutput](https://github.com/bluealloy/revm/pull/3820) - 2026-07-23
+* [Pull Request] [bump: prep v114 release](https://github.com/bluealloy/revm/pull/3819) - 2026-07-23
+* [Commit] [refactor(handler): build precompile frame gas without touching the interpreter crate (#3822)](https://github.com/bluealloy/revm/commit/fbb0028e10fac9ba97316463478bce1284fc0edd) - 2026-07-23
+* [Commit] [bump: prep v115 revm v42.0.1 (#3821)](https://github.com/bluealloy/revm/commit/129d91cc1032acdf3edc32d4924e9d8a7a49e745) - 2026-07-23
+* [Commit] [feat(precompile): track spilled state gas in PrecompileOutput (#3820)](https://github.com/bluealloy/revm/commit/e4cf8ef8b2faa22ee09b57a65284be9d972f932e) - 2026-07-23
+* [Commit] [bump: prep v114 release (#3819)](https://github.com/bluealloy/revm/commit/bc8ab332e528ae8ac3db651a38fc60d30f6f22db) - 2026-07-23
+* [Commit] [fix(inspector): forward EIP-7708 transfer logs to the inspector (#3816)](https://github.com/bluealloy/revm/commit/d00704db4362098b614cc19f61e99dc5feaf6438) - 2026-07-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02
@@ -44,8 +53,12 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/reth/pull/26390) - 2026-07-14
 
 * [Review] [Review on: chore(evm): update evm2](https://github.com/paradigmxyz/reth/pull/26481#pullrequestreview-4756561704) - 2026-07-22
+* [Pull Request] [chore: bump revm to 42.0.1](https://github.com/paradigmxyz/reth/pull/26490) - 2026-07-23
+* [Review] [Review on: chore(evm): update evm2](https://github.com/paradigmxyz/reth/pull/26481#pullrequestreview-4765115884) - 2026-07-23
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/revmc/pull/404) - 2026-07-14
+* [Pull Request] [chore: bump revm to 42.0.0](https://github.com/paradigmxyz/revmc/pull/406) - 2026-07-23
+* [Commit] [chore: bump revm to 42.0.0 (#406)](https://github.com/paradigmxyz/revmc/commit/79e3c8ca1980d98c856034558ec7c7a9f3f3dd7d) - 2026-07-23
 ## Q2 2026
 
 

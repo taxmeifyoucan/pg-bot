@@ -26,6 +26,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: chore(ci): monitor sync runners via Grafana Alloy](https://github.com/NethermindEth/nethermind/pull/12510#pullrequestreview-4745298513) - 2026-07-21
 * [Pull Request] [chore: Update Dockerfiles (#12452)](https://github.com/NethermindEth/nethermind/pull/12516) - 2026-07-21
 * [Commit] [feat(core): responsive startup logo with adaptive layout (#11413)](https://github.com/NethermindEth/nethermind/commit/b8ea9d5eac2a4a7c85ac5a24da98de28869a1aa2) - 2026-07-21
+* [Pull Request] [ci: cut wasted CI spend on unchanged and perpetually-failing paths](https://github.com/NethermindEth/nethermind/pull/12563) - 2026-07-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

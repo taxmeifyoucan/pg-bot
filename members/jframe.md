@@ -16,6 +16,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: Keep sync events from starting the IBFT2 coordinator on migration networks](https://github.com/besu-eth/besu/pull/10791#pullrequestreview-4751457832) - 2026-07-22
+* [Issue] [Restart during snap sync flat-DB heal strands node in backward sync (parent world state is not available)](https://github.com/besu-eth/besu/issues/10861) - 2026-07-24
 ## Q2 2026
 
 

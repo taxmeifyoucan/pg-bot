@@ -63,6 +63,12 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Export hashes_rlp from aristo_compute for computeKey callers](https://github.com/status-im/nimbus-eth1/pull/4543) - 2026-07-22
 * [Commit] [Move genesis/network-params file loading into chain_config_loader (#4544)](https://github.com/status-im/nimbus-eth1/commit/fe429cf6dba8a1768cacccb5c3808b08c7518dd9) - 2026-07-22
 * [Commit] [Export hashes_rlp from aristo_compute for computeKey callers (#4543)](https://github.com/status-im/nimbus-eth1/commit/0d4dd637603160220d50e4aa7709fa6536cc5afa) - 2026-07-22
+* [Pull Request] [Bump submodules and related fixes](https://github.com/status-im/nimbus-eth1/pull/4554) - 2026-07-23
+* [Pull Request] [Disable leaves caches when compiling with threads disabled](https://github.com/status-im/nimbus-eth1/pull/4551) - 2026-07-23
+* [Pull Request] [Fix EVM stack memory leak from double setCode on system calls](https://github.com/status-im/nimbus-eth1/pull/4550) - 2026-07-23
+* [Review] [Review on: Fix EVM stack memory leak from double setCode on system calls](https://github.com/status-im/nimbus-eth1/pull/4550#pullrequestreview-4765143209) - 2026-07-23
+* [Commit] [Disable leaves caches when compiling with threads disabled (#4551)](https://github.com/status-im/nimbus-eth1/commit/6648ce1bae38efdfe505407cbc624e049cae1e0d) - 2026-07-23
+* [Commit] [bump nimbus-eth2 and resolve issue due to EIP-7688 changes (#4545)](https://github.com/status-im/nimbus-eth1/commit/ceac1963bb604594ebb050aacc27445ff01b4dd5) - 2026-07-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

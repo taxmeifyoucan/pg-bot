@@ -42,6 +42,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: `--max-builder-consecutive-missed-slots` and `--max-builder-epoch-missed-slots` help text: Reports the mainnet config value as the default instead of a hardcoded, false and unused values.](https://github.com/OffchainLabs/prysm/pull/17211#pullrequestreview-4746358297) - 2026-07-21
 * [Review] [Review on: Reduce Gloas get-payload timeout](https://github.com/OffchainLabs/prysm/pull/17212#pullrequestreview-4747191377) - 2026-07-21
 * [Pull Request] [Backfill completion fix](https://github.com/OffchainLabs/prysm/pull/17223) - 2026-07-22
+* [Review] [Review on: Only count actually invalid envelopes in envelope invalid metric](https://github.com/OffchainLabs/prysm/pull/17215#pullrequestreview-4761195210) - 2026-07-23
 ## Q2 2026
 
 

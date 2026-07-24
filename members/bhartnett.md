@@ -46,6 +46,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: optimize PREVRANDAO benchmarks](https://github.com/status-im/nimbus-eth1/pull/4536#pullrequestreview-4751363560) - 2026-07-22
 * [Pull Request] [Optimize proofOfStake check for PREVRANDAO opcode](https://github.com/status-im/nimbus-eth1/pull/4538) - 2026-07-22
 * [Commit] [If the fork is shanghai or later then skip the expensive check. (#4538)](https://github.com/status-im/nimbus-eth1/commit/da36439b68ee3037d369f90406d30a87fe436f2f) - 2026-07-22
+* [Pull Request] [Optimize the KZG point evaluation precompile - WIP](https://github.com/status-im/nimbus-eth1/pull/4553) - 2026-07-23
+* [Review] [Review on: Disable leaves caches when compiling with threads disabled](https://github.com/status-im/nimbus-eth1/pull/4551#pullrequestreview-4766160418) - 2026-07-23
+* [Pull Request] [Use BLST pippenger for BLS MSM precompiles](https://github.com/status-im/nimbus-eth1/pull/4547) - 2026-07-23
+* [Commit] [Use BLST pippenger for BLS MSM precompiles (#4547)](https://github.com/status-im/nimbus-eth1/commit/50c6c6f4f98ec06dbc7fece699aa9dede86c7288) - 2026-07-23
 ## Q2 2026
 
 

@@ -44,6 +44,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: construct single attestation directly in the VC](https://github.com/sigp/lighthouse/pull/9578#pullrequestreview-4754324012) - 2026-07-22
 * [Review] [Review on: Refactor `proposer_preferences_service` and add add VC test](https://github.com/sigp/lighthouse/pull/9500#pullrequestreview-4754063179) - 2026-07-22
 * [Review] [Review on: Fix light client update DB range queries](https://github.com/sigp/lighthouse/pull/9668#pullrequestreview-4753380637) - 2026-07-22
+* [Pull Request] [Ensure we always use fcu v4 post gloas](https://github.com/sigp/lighthouse/pull/9685) - 2026-07-23
+* [Review] [Review on: Fix nightly deneb tests and move electra fork tests to nightly](https://github.com/sigp/lighthouse/pull/9384#pullrequestreview-4766604049) - 2026-07-23
+* [Review] [Review on: Fix light client update DB range queries](https://github.com/sigp/lighthouse/pull/9668#pullrequestreview-4761184444) - 2026-07-23
+* [Review] [Review on: Add early payload envelopes to the reprocess queue](https://github.com/sigp/lighthouse/pull/9683#pullrequestreview-4766747671) - 2026-07-23
+* [Review] [Review on: Add proposer lookahead tests for slashed proposers at the Gloas fork boundary](https://github.com/sigp/lighthouse/pull/9674#pullrequestreview-4762254794) - 2026-07-23
+* [Issue] [PTC voting incorrect when payload not received but blob data available](https://github.com/sigp/lighthouse/issues/9679) - 2026-07-23
 ## Q2 2026
 
 

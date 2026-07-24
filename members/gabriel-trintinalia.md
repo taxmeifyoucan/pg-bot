@@ -14,6 +14,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Review] [Review on: feat(discv4): migrate DiscV4 UDP transport from Vert.x to Netty](https://github.com/besu-eth/besu/pull/10716#pullrequestreview-4645190602) - 2026-07-07
 * [Review] [Review on: fix(p2p): additional permanent disconnect reasons](https://github.com/besu-eth/besu/pull/10827#pullrequestreview-4749902362) - 2026-07-22
+* [Pull Request] [feat(core): support explicit operation tracer in block processing](https://github.com/besu-eth/besu/pull/10862) - 2026-07-24
+* [Pull Request] [fix(referencetests): honor fixture blob schedule in blockchain reference tests](https://github.com/besu-eth/besu/pull/10852) - 2026-07-23
+* [Pull Request] [refactor(tracer): add isSystemCallTracingEnabled() capability to BlockAwareOperationTracer](https://github.com/besu-eth/besu/pull/10851) - 2026-07-23
+* [Pull Request] [fix(evm): EIP-8037 CALLCODE state-gas refund uses recipient address](https://github.com/besu-eth/besu/pull/10850) - 2026-07-23
+* [Commit] [fix(referencetests): honor fixture blob schedule in blockchain reference tests (#10852)](https://github.com/besu-eth/besu/commit/9b5830ea79ddf7b669ed1bdaa2d77fe8f3dbe95b) - 2026-07-24
+* [Commit] [refactor(tracer): add isSystemCallTracingEnabled() capability to BlockAwareOperationTracer (#10851)](https://github.com/besu-eth/besu/commit/d0c8429d4a65c307825d0ae79a296ad14fab88d4) - 2026-07-24
 ## Q2 2026
 
 

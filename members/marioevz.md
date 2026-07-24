@@ -48,8 +48,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(ci): skip new-commit check on manual fixture release dispatches](https://github.com/ethereum/execution-specs/pull/3202#pullrequestreview-4744802846) - 2026-07-21
 * [Review] [Review on: feat(tests): add more EIP-2780 tests](https://github.com/ethereum/execution-specs/pull/3195#pullrequestreview-4752818292) - 2026-07-22
 * [Issue] [feat(tests): Prepare a 8,192 validator deposit test](https://github.com/ethereum/execution-specs/issues/3204) - 2026-07-22
+* [Review] [Review on: refactor(spec-tools): use testing pydantic models in t8n](https://github.com/ethereum/execution-specs/pull/2924#pullrequestreview-4763776279) - 2026-07-23
+* [Pull Request] [fix(tests): enhance & un-skip Amsterdam ported static tests (Pt. 1)](https://github.com/ethereum/execution-specs/pull/3215) - 2026-07-23
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
+* [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23
 ## Q2 2026
 
 

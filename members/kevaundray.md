@@ -19,6 +19,8 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: Update EIP-8297: 8297](https://github.com/ethereum/EIPs/pull/11978#pullrequestreview-4739390633) - 2026-07-20
 * [Review] [Review on: Update EIP-8297: Update EIP-8297.md](https://github.com/ethereum/EIPs/pull/11978#pullrequestreview-4755948686) - 2026-07-22
 * [Commit] [Update EIP-8297: Update EIP-8297.md](https://github.com/ethereum/EIPs/commit/3dd83967d8cda1310c450fd65c48c119ab2da323) - 2026-07-22
+* [Review] [Review on: Add EIP: Offline state migration to the PBT](https://github.com/ethereum/EIPs/pull/12006#pullrequestreview-4766962639) - 2026-07-23
+* [Review] [Review on: Update EIP-8297: redraw diagram and drop EIP-7864 changes section](https://github.com/ethereum/EIPs/pull/12002#pullrequestreview-4763900120) - 2026-07-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14
@@ -27,6 +29,10 @@ Team: Consensus R&D (EF)
 * [Pull Request] [feat(8297): Add key derivation layer](https://github.com/ethereum/execution-specs/pull/3208) - 2026-07-22
 * [Pull Request] [feat: Add initial PBT impl](https://github.com/ethereum/execution-specs/pull/3206) - 2026-07-22
 * [Review] [Review on: feat: Add initial PBT impl](https://github.com/ethereum/execution-specs/pull/3206#pullrequestreview-4757794680) - 2026-07-22
+* [Pull Request] [chore(do not merge): sketch pbt fork related changes needed for adding initial PBT](https://github.com/ethereum/execution-specs/pull/3216) - 2026-07-23
+* [Review] [Review on: chore(do not merge): sketch pbt fork related changes needed for adding initial PBT](https://github.com/ethereum/execution-specs/pull/3216#pullrequestreview-4762875155) - 2026-07-23
+* [Pull Request] [feat: make state interface generic enough to accomodate other trie implementations](https://github.com/ethereum/execution-specs/pull/3218) - 2026-07-23
+* [Review] [Review on: feat: make state interface generic enough to accomodate other trie implementations](https://github.com/ethereum/execution-specs/pull/3218#pullrequestreview-4763184613) - 2026-07-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716803581) - 2026-07-16
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737690816) - 2026-07-20

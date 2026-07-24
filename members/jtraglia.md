@@ -90,6 +90,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Rename `byte` to `Byte` (#5468)](https://github.com/ethereum/consensus-specs/commit/e20a64b1cf5456a4ed81297f2e046160c08e426a) - 2026-07-22
 * [Commit] [Rename `boolean` to `Boolean` (#5466)](https://github.com/ethereum/consensus-specs/commit/582d441ca24b5c4ce57f7ed26ac5e750cecf206d) - 2026-07-22
 * [Commit] [Remove the `bit` type (#5467)](https://github.com/ethereum/consensus-specs/commit/05c36e840062181f1e27e83b379832b17133cf12) - 2026-07-22
+* [Review] [Review on: Fix payload availability lookup for attestations to skipped slots](https://github.com/ethereum/consensus-specs/pull/5442#pullrequestreview-4769467314) - 2026-07-24
+* [Review] [Review on: Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443#pullrequestreview-4769421799) - 2026-07-24
+* [Commit] [Add dependent root check to `proposer_preferences` validation (#5443)](https://github.com/ethereum/consensus-specs/commit/ec390a6c2743de37ac4e9b0b5351a775c257279e) - 2026-07-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

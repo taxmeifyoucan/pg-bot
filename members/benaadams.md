@@ -122,6 +122,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Preserve Gnosis TTD-zero genesis hash](https://github.com/NethermindEth/nethermind/pull/12545#pullrequestreview-4754222114) - 2026-07-22
 * [Review] [Review on: RocksDB - Don't treat IO errors as corruption](https://github.com/NethermindEth/nethermind/pull/12541#pullrequestreview-4753394397) - 2026-07-22
 * [Review] [Review on: Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool](https://github.com/NethermindEth/nethermind/pull/12468#pullrequestreview-4754305092) - 2026-07-22
+* [Review] [Review on: ci(zkevm): Update the workflow for glamsterdam-devnet-7](https://github.com/NethermindEth/nethermind/pull/12547#pullrequestreview-4762850911) - 2026-07-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

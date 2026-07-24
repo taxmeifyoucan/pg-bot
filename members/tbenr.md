@@ -70,6 +70,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [QUIC memory leak fix](https://github.com/libp2p/jvm-libp2p/pull/504) - 2026-07-15
+* [Review] [Review on: Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505#pullrequestreview-4767982333) - 2026-07-23
 ## Q2 2026
 
 

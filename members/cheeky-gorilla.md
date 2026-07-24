@@ -75,6 +75,9 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #502 from mattevans/chore/rm-matty-evans](https://github.com/protocolguild/documentation/commit/884d96a4a33ba77131b68142025b58b8a661e942) - 2026-07-20
 * [Commit] [Add alumni](https://github.com/protocolguild/documentation/commit/69a3c2fba24a060959aae5362c8842b792a4f608) - 2026-07-20
 * [Commit] [Merge pull request #527 from protocolguild/cheeky-gorilla-patch-5](https://github.com/protocolguild/documentation/commit/4a4d9019feffc3900948e08f36075fd6348f9f4f) - 2026-07-22
+* [Commit] [Fix Splits.org acknowledgment](https://github.com/protocolguild/documentation/commit/ae5cc309a75285d31152e104c98214776eb75a1a) - 2026-07-23
+* [Commit] [Remove Discord + Farcaster](https://github.com/protocolguild/documentation/commit/cae6d528ab7467d8c9cd622231d99e4f7bcde63f) - 2026-07-23
+* [Commit] [Remove Peter](https://github.com/protocolguild/documentation/commit/7a14616bda59507654401c9326c8407ffffd87d1) - 2026-07-23
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/e6b14d7ca4339655efae86d7ad13a05fb14f43ee) - 2026-07-07
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/575f773fb569863447ec1e75d194b1ab0a05f41f) - 2026-07-07
@@ -85,6 +88,11 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Delete public/20260717-devcon-8/delete.txt](https://github.com/protocolguild/protocol-guild-site/commit/677211f1d664e6f664d8304ac2e6b0c1258fdb6b) - 2026-07-17
 * [Commit] [Upload Devcon 8 blog banner](https://github.com/protocolguild/protocol-guild-site/commit/2f7be49777e8c9ee6ee62c6c9c9305aebaab6f43) - 2026-07-17
 * [Commit] [Create delete.txt](https://github.com/protocolguild/protocol-guild-site/commit/27bcc09e564fe7cbac51abe5d1a25af8eee1f325) - 2026-07-17
+* [Commit] [Remove Peter](https://github.com/protocolguild/protocol-guild-site/commit/478d53be9bf6fc52d9c192e8e57a45d3134e3637) - 2026-07-23
+* [Commit] [Remove Peter](https://github.com/protocolguild/protocol-guild-site/commit/534aad7d8e3810996d277dee41b203c3dd98ea36) - 2026-07-23
+* [Commit] [Update about.tsx](https://github.com/protocolguild/protocol-guild-site/commit/280e4bd783aa17998bd5c4dcc7138d2d3ce98b18) - 2026-07-23
+* [Commit] [Replace Calendly link](https://github.com/protocolguild/protocol-guild-site/commit/f372b337616b879abf93e1281e0b8157f0798a16) - 2026-07-23
+* [Commit] [Remove Discord + Farcaster from footer](https://github.com/protocolguild/protocol-guild-site/commit/0ac71f3e2089af1372d92f194726c499eca618a1) - 2026-07-23
 ## Q2 2026
 
 

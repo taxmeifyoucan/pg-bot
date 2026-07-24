@@ -42,6 +42,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: clean up fork choice dashboard config (#9561)](https://github.com/ChainSafe/lodestar/commit/9ed373bf567fc1f9b1f31e3c263ed9f09336fa8c) - 2026-07-10
 * [Pull Request] [feat: disable fast confirmation rule while syncing](https://github.com/ChainSafe/lodestar/pull/9681) - 2026-07-20
 * [Review] [Review on: feat: disable fast confirmation rule while syncing](https://github.com/ChainSafe/lodestar/pull/9681#pullrequestreview-4733772006) - 2026-07-20
+* [Review] [Review on: feat: disable fast confirmation rule while syncing](https://github.com/ChainSafe/lodestar/pull/9681#pullrequestreview-4761548255) - 2026-07-23
 ## Q2 2026
 
 

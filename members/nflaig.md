@@ -124,6 +124,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add circuit breaker for gloas block production (#9598)](https://github.com/ChainSafe/lodestar/commit/9d0edba43cfdc72448b3e1428bea02f2402f43d8) - 2026-07-17
 * [Commit] [fix: scan all proto array nodes when counting payload reveals (#9676)](https://github.com/ChainSafe/lodestar/commit/d5aff60d6c8aaf68c8204976524ac2530d39d0a0) - 2026-07-21
 * [Review] [Review on: chore: follow up on #9390 on EIP-7688 changes](https://github.com/ChainSafe/lodestar/pull/9689#pullrequestreview-4757673082) - 2026-07-22
+* [Review] [Review on: feat: implement non-eip-7688 changes in alpha.12](https://github.com/ChainSafe/lodestar/pull/9606#pullrequestreview-4767660015) - 2026-07-23
+* [Pull Request] [fix: return 400 for gossip validation errors](https://github.com/ChainSafe/lodestar/pull/9699) - 2026-07-23
+* [Pull Request] [fix: emit head event whenever fork choice head changes](https://github.com/ChainSafe/lodestar/pull/9697) - 2026-07-23
+* [Review] [Review on: fix: emit head event whenever fork choice head changes](https://github.com/ChainSafe/lodestar/pull/9697#pullrequestreview-4765549829) - 2026-07-23
+* [Pull Request] [fix: validate proposer preferences dependent root](https://github.com/ChainSafe/lodestar/pull/9695) - 2026-07-23
+* [Review] [Review on: fix: validate proposer preferences dependent root](https://github.com/ChainSafe/lodestar/pull/9695#pullrequestreview-4762299527) - 2026-07-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -145,6 +151,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add more checks to `on_inclusion_list`](https://github.com/ethereum/consensus-specs/pull/5460#pullrequestreview-4742768366) - 2026-07-21
 * [Review] [Review on: Correct `MIN_SLOTS_FOR_INCLUSION_LISTS_REQUESTS` value](https://github.com/ethereum/consensus-specs/pull/5462#pullrequestreview-4744861623) - 2026-07-21
 * [Review] [Review on: Rename `uint*` to `Uint*`](https://github.com/ethereum/consensus-specs/pull/5469#pullrequestreview-4757905994) - 2026-07-22
+* [Review] [Review on: Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443#pullrequestreview-4763026553) - 2026-07-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

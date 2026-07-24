@@ -40,6 +40,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Set only_timely for all get_inclusion_list_transactions calls](https://github.com/ethereum/consensus-specs/pull/5463) - 2026-07-21
 * [Pull Request] [Correct `MIN_SLOTS_FOR_INCLUSION_LISTS_REQUESTS` value](https://github.com/ethereum/consensus-specs/pull/5462) - 2026-07-21
 * [Commit] [Correct `MIN_SLOTS_FOR_INCLUSION_LISTS_REQUESTS` value (#5462)](https://github.com/ethereum/consensus-specs/commit/e310d1c0d316e4dcc822164966c5bfa592adae2b) - 2026-07-21
+* [Review] [Review on: Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443#pullrequestreview-4761650542) - 2026-07-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

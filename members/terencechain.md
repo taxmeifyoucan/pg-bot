@@ -138,6 +138,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Remove unused data_column_obtained_via_el_count metric (#17216)](https://github.com/OffchainLabs/prysm/commit/ef74a0719de18f1f445e22148bab82aa4060c29c) - 2026-07-22
 * [Commit] [Increment newPayload node count metrics on Gloas envelope path (#17213)](https://github.com/OffchainLabs/prysm/commit/cc3d145c7fa516e22992cdd306a8f0e5aa23b552) - 2026-07-22
 * [Commit] [Only increment PTC vote count metric for newly set votes (#17214)](https://github.com/OffchainLabs/prysm/commit/8bccadae128cfbf595691994b5fff2a8d0e7ca8d) - 2026-07-22
+* [Review] [Review on: Don't downscore honest peers for foreign data column sidecars](https://github.com/OffchainLabs/prysm/pull/17231#pullrequestreview-4768819758) - 2026-07-23
+* [Pull Request] [Don't block gloas block import on missing data columns](https://github.com/OffchainLabs/prysm/pull/17232) - 2026-07-23
+* [Review] [Review on: update go toolchain to 1.26.5](https://github.com/OffchainLabs/prysm/pull/17230#pullrequestreview-4764591098) - 2026-07-23
+* [Commit] [Only count actually invalid envelopes in envelope invalid metric (#17215)](https://github.com/OffchainLabs/prysm/commit/d4cd73f935cd667acf387fe252cd8067d99c1a44) - 2026-07-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

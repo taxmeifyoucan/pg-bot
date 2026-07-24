@@ -56,6 +56,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: implement non-eip-7688 changes in alpha.12](https://github.com/ChainSafe/lodestar/pull/9606#pullrequestreview-4751534271) - 2026-07-22
 * [Review] [Review on: feat: disable fast confirmation rule while syncing](https://github.com/ChainSafe/lodestar/pull/9681#pullrequestreview-4750392749) - 2026-07-22
 * [Commit] [fix: split execution engine errors (#9685)](https://github.com/ChainSafe/lodestar/commit/d16fa2b13a19127ae71d77a7276e32cd2ad9cecd) - 2026-07-22
+* [Review] [Review on: feat: implement forkchoice is_head_weak() and is_parent_strong()](https://github.com/ChainSafe/lodestar/pull/9654#pullrequestreview-4761389037) - 2026-07-23
+* [Issue] [processPendingDeposits performance issue](https://github.com/ChainSafe/lodestar/issues/9696) - 2026-07-23
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

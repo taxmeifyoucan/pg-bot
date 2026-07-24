@@ -60,6 +60,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [update besu native dependencies to 2.0.0 (#10835)](https://github.com/besu-eth/besu/commit/78f5cbaecb5e081dc7aefa7cb121a62ff21e8d43) - 2026-07-22
 * [Review] [Review on: feat(p2p): add discovery and RLPx connection metrics](https://github.com/besu-eth/besu/pull/10837#pullrequestreview-4759959287) - 2026-07-23
 * [Review] [Review on: checks for correct docker env var configuration, warns when missing](https://github.com/besu-eth/besu/pull/10769#pullrequestreview-4759903534) - 2026-07-23
+* [Review] [Review on: fix(nat): report real post-bind ports for DockerNatManager](https://github.com/besu-eth/besu/pull/10860#pullrequestreview-4769563210) - 2026-07-24
+* [Review] [Review on: fix(referencetests): honor fixture blob schedule in blockchain reference tests](https://github.com/besu-eth/besu/pull/10852#pullrequestreview-4769275767) - 2026-07-24
+* [Review] [Review on: refactor(tracer): add isSystemCallTracingEnabled() capability to BlockAwareOperationTracer](https://github.com/besu-eth/besu/pull/10851#pullrequestreview-4769195296) - 2026-07-24
+* [Review] [Review on: fix(eth): prevent thread name leak in scheduleBlockCreationTask](https://github.com/besu-eth/besu/pull/10805#pullrequestreview-4760554880) - 2026-07-23
+* [Issue] [PathBasedWorldStateProvider: wrong log level and unsafe Optional.get() calls in rollFullWorldStateToBlockHash](https://github.com/besu-eth/besu/issues/10859) - 2026-07-23
+* [Issue] [P2P: FramingException from malformed peer DisconnectMessage logged at ERROR instead of WARN/DEBUG](https://github.com/besu-eth/besu/issues/10858) - 2026-07-23
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

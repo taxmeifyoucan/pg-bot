@@ -72,6 +72,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [state: Split journal_create's `existed` bool into two named functions](https://github.com/ipsilon/evmone/pull/1609) - 2026-07-22
 * [Commit] [state: Replace create-revert erase with a nonexistent flag (#1600)](https://github.com/ipsilon/evmone/commit/edb3c02062b8caee27adc515d8702e823bd84952) - 2026-07-22
 * [Commit] [state: Split journal_create's `existed` bool into two named functions (#1609)](https://github.com/ipsilon/evmone/commit/889245387588d90fc205995c4f51ccd4ca61691a) - 2026-07-22
+* [Pull Request] [state: Validate transaction chain id against the chain](https://github.com/ipsilon/evmone/pull/1610) - 2026-07-23
+* [Commit] [state: Don't create state entries for precompiles in access_account (#1606)](https://github.com/ipsilon/evmone/commit/26ddc83f6d3231d07050e37794a435eff4d0a859) - 2026-07-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -110,6 +112,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): add CREATE refund-vs-child-spill routing test](https://github.com/ethereum/execution-specs/pull/3163) - 2026-07-14
 * [Commit] [feat(tests): restore sstore_combinations as a hand-written test (#3154)](https://github.com/ethereum/execution-specs/commit/f34ff59046e7c31ffbd2dd18124554c71fe28e41) - 2026-07-14
 * [Commit] [feat(tests): add CREATE refund-vs-child-spill routing test (#3163)](https://github.com/ethereum/execution-specs/commit/86a66991ca525238d97d4448d70d75c56a622c02) - 2026-07-14
+* [Pull Request] [feat(tests): add EIP-2681 nonce-reaching-max tests](https://github.com/ethereum/execution-specs/pull/3226) - 2026-07-23
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

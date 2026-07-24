@@ -148,6 +148,10 @@ Team: Reth
 * [Review] [Review on: feat(cli): print modular download plans as JSON](https://github.com/paradigmxyz/reth/pull/26480#pullrequestreview-4756440630) - 2026-07-22
 * [Review] [Review on: feat(exex): let an `ExEx` catch up to the current head after a pause](https://github.com/paradigmxyz/reth/pull/26474#pullrequestreview-4755260552) - 2026-07-22
 * [Issue] [Overlay providers can lose persisted parents across DB snapshot / manager pruning handoff](https://github.com/paradigmxyz/reth/issues/26483) - 2026-07-22
+* [Review] [Review on: perf(engine): txpool prewarming](https://github.com/paradigmxyz/reth/pull/26378#pullrequestreview-4766067394) - 2026-07-23
+* [Pull Request] [feat(cli): add configurable dev defaults](https://github.com/paradigmxyz/reth/pull/26488) - 2026-07-23
+* [Review] [Review on: perf(provider): avoid range scan for first_transaction_num in remove_state_above](https://github.com/paradigmxyz/reth/pull/26484#pullrequestreview-4764398303) - 2026-07-23
+* [Commit] [feat(cli): add configurable dev defaults (#26488)](https://github.com/paradigmxyz/reth/commit/18b4b0f6289847c5336527229c00f22751a44a65) - 2026-07-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

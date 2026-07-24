@@ -44,6 +44,7 @@ Team: Grandine
 * [Review] [Review on: Upgrade Nethermind to 1.39.1 version](https://github.com/grandinetech/grandine/pull/825#pullrequestreview-4743779001) - 2026-07-21
 * [Pull Request] [Fire post-Gloas block events without waiting for EL status](https://github.com/grandinetech/grandine/pull/824) - 2026-07-21
 * [Review] [Review on: Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/826#pullrequestreview-4754262047) - 2026-07-22
+* [Issue] [[Glamsterdam] Investigate performance](https://github.com/grandinetech/grandine/issues/828) - 2026-07-23
 ## Q2 2026
 
 

@@ -26,6 +26,7 @@ Team: Erigon
 * [Review] [Review on: ci, db/state: matrix-test serial vs parallel commitment across the test workflows](https://github.com/erigontech/erigon/pull/22141#pullrequestreview-4743026608) - 2026-07-21
 * [Commit] [qa-tests: update test report script to include additional workflows (#22635)](https://github.com/erigontech/erigon/commit/f2e0a392cc5448289a23caa28895c43268b6a3c1) - 2026-07-21
 * [Issue] [Metric exec_on_db above threshold on some executions on Gnosis network](https://github.com/erigontech/erigon/issues/22675) - 2026-07-22
+* [Commit] [qa-tests: clarify node type in the sync-from-scratch test (#22636)](https://github.com/erigontech/erigon/commit/ed752fad4b00e90e6fd40ad4d240d9b69f1c2f2b) - 2026-07-23
 ## Q2 2026
 
 

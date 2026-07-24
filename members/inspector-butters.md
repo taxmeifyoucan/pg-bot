@@ -23,6 +23,11 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: `--max-builder-consecutive-missed-slots` and `--max-builder-epoch-missed-slots` help text: Reports the mainnet config value as the default instead of a hardcoded, false and unused values.](https://github.com/OffchainLabs/prysm/pull/17211#pullrequestreview-4746356156) - 2026-07-21
 * [Review] [Review on: wire progressive ssz functions into state fields](https://github.com/OffchainLabs/prysm/pull/16860#pullrequestreview-4758147272) - 2026-07-22
 * [Commit] [add ssz functions for progressive merkliezation (#16847)](https://github.com/OffchainLabs/prysm/commit/a09dbb0cb9372805b0ed6e90c7ef8d4928c2a30b) - 2026-07-22
+* [Review] [Review on: `ProgressiveList`: Chunk directly byte slice instead of `PackByChunk`](https://github.com/OffchainLabs/prysm/pull/17209#pullrequestreview-4765562501) - 2026-07-23
+* [Pull Request] [reduce state diff cache memory usage](https://github.com/OffchainLabs/prysm/pull/17227) - 2026-07-23
+* [Review] [Review on: progressive withdrawal root and light client changes](https://github.com/OffchainLabs/prysm/pull/16885#pullrequestreview-4763314469) - 2026-07-23
+* [Review] [Review on: progressive hashTreeRoot](https://github.com/OffchainLabs/prysm/pull/16861#pullrequestreview-4763269059) - 2026-07-23
+* [Commit] [wire progressive ssz functions into state fields (#16860)](https://github.com/OffchainLabs/prysm/commit/60ef0b8868a02672ed2baab1c2a977ae8c4f93da) - 2026-07-23
 ## Q2 2026
 
 

@@ -423,6 +423,36 @@ Team: Erigon
 * [Issue] [race test about bal missmatch](https://github.com/erigontech/erigon/issues/22659) - 2026-07-22
 * [Commit] [db/version/app: bump to 3.7.0-dev (#22658)](https://github.com/erigontech/erigon/commit/f3c339dbe83c730f78f77be450cc10402066faff) - 2026-07-22
 * [Commit] [execution, p2p, rules: pass structs to rlp.Encode by pointer (#22599)](https://github.com/erigontech/erigon/commit/4ff053c0671ee9a69061d3c59dba5699957e6fc5) - 2026-07-22
+* [Pull Request] [common: add AppendText (encoding.TextAppender) to hex value types](https://github.com/erigontech/erigon/pull/22695) - 2026-07-23
+* [Review] [Review on: all: enable gocritic unnecessaryDefer check and resolve issues](https://github.com/erigontech/erigon/pull/22676#pullrequestreview-4760851501) - 2026-07-23
+* [Review] [Review on: .github: enable excessive-permissions audit — final #21132 cleanup](https://github.com/erigontech/erigon/pull/22694#pullrequestreview-4764264982) - 2026-07-23
+* [Review] [Review on: .github: remove dead docker-tags workflow](https://github.com/erigontech/erigon/pull/22688#pullrequestreview-4763137459) - 2026-07-23
+* [Pull Request] [rpc: libdeflate can't be stored in sync.Pool because C-allocated memory not visible for Go's runtime](https://github.com/erigontech/erigon/pull/22692) - 2026-07-23
+* [Review] [Review on: rpc: libdeflate can't be stored in sync.Pool because C-allocated memory not visible for Go's runtime](https://github.com/erigontech/erigon/pull/22692#pullrequestreview-4763711635) - 2026-07-23
+* [Review] [Review on: rpc: extract api config pkg more](https://github.com/erigontech/erigon/pull/22680#pullrequestreview-4761113524) - 2026-07-23
+* [Review] [Review on: .github: least-privilege permissions for docker/hive/kurtosis workflows (#21132)](https://github.com/erigontech/erigon/pull/22687#pullrequestreview-4763136609) - 2026-07-23
+* [Pull Request] [commitment/trie, seg, fusefilter: shrink GC scan range on three hot structs](https://github.com/erigontech/erigon/pull/22685) - 2026-07-23
+* [Pull Request] [[r3.5] go.mod: update google.golang.org/grpc to v1.82.1](https://github.com/erigontech/erigon/pull/22690) - 2026-07-23
+* [Review] [Review on: [r3.5] release: Erigon v3.5.3](https://github.com/erigontech/erigon/pull/22686#pullrequestreview-4762049787) - 2026-07-23
+* [Pull Request] [Merge release/3.6 into main](https://github.com/erigontech/erigon/pull/22681) - 2026-07-23
+* [Review] [Review on: [r3.6] rpc/rpchelper: invalidate cached pending block once the chain moves past it](https://github.com/erigontech/erigon/pull/22684#pullrequestreview-4761326067) - 2026-07-23
+* [Review] [Review on: rpc/rpchelper: invalidate cached pending block once the chain moves past it](https://github.com/erigontech/erigon/pull/22326#pullrequestreview-4760899443) - 2026-07-23
+* [Review] [Review on: node, rpc: event-driven eth_subscribe("syncing")](https://github.com/erigontech/erigon/pull/22570#pullrequestreview-4760882081) - 2026-07-23
+* [Pull Request] [[r3.6] stagedsync, db/state: rebuild missing E3 accessors on restart (#22660 stack)](https://github.com/erigontech/erigon/pull/22682) - 2026-07-23
+* [Review] [Review on: qa-tests: clarify node type in the sync-from-scratch test](https://github.com/erigontech/erigon/pull/22636#pullrequestreview-4760280223) - 2026-07-23
+* [Review] [Review on: stagedsync, cmd/utils/app: use db.BuildMissedAccessors instead of reaching into agg](https://github.com/erigontech/erigon/pull/22660#pullrequestreview-4760247960) - 2026-07-23
+* [Review] [Review on: p2p, node/direct: derive msgid tables instead of triple-maintaining them](https://github.com/erigontech/erigon/pull/22175#pullrequestreview-4760909343) - 2026-07-23
+* [Review] [Review on: rpc/jsonrpc: eager in-memory cache for debug_executionWitness](https://github.com/erigontech/erigon/pull/22384#pullrequestreview-4760892867) - 2026-07-23
+* [Review] [Review on: execution/vm: move CallContext.Contract ahead of the pointer-free Stack](https://github.com/erigontech/erigon/pull/22610#pullrequestreview-4760341254) - 2026-07-23
+* [Review] [Review on: cmd/integration: attach CodeStore in stage_exec offline re-execution](https://github.com/erigontech/erigon/pull/22650#pullrequestreview-4760264888) - 2026-07-23
+* [Review] [Review on: txnprovider/txpool: refresh depth gauges every block, not on the 3m log tick](https://github.com/erigontech/erigon/pull/22678#pullrequestreview-4760263979) - 2026-07-23
+* [Review] [Review on: .github: scope actions: write to merge-queue self-cancel jobs (#21132)](https://github.com/erigontech/erigon/pull/22677#pullrequestreview-4760263632) - 2026-07-23
+* [Review] [Review on: execution/stagedsync: rebuild missing E3 accessors synchronously (skip covered files)](https://github.com/erigontech/erigon/pull/22664#pullrequestreview-4760256702) - 2026-07-23
+* [Issue] [rpc: use libdeflate for streaming responses (currently stdlib gzip)](https://github.com/erigontech/erigon/issues/22693) - 2026-07-23
+* [Commit] [rlp: fast-path slice-backed streams in readFull, readByte and ViewBytes (#22595)](https://github.com/erigontech/erigon/commit/8e89b3560b851d072c475cd4b4968028a3972a4b) - 2026-07-23
+* [Commit] [commitment/trie, seg, fusefilter: shrink GC scan range on three hot structs (#22685)](https://github.com/erigontech/erigon/commit/a590ea54be98f3d62c82bd8d2c2b160c8359c29b) - 2026-07-23
+* [Commit] [execution/state: alloc-free compact journal entries (#22561)](https://github.com/erigontech/erigon/commit/528b3cd7e211a3c71b94b9ec58448033db2551fc) - 2026-07-23
+* [Commit] [Merge release/3.6 into main (#22681)](https://github.com/erigontech/erigon/commit/993149925e454e7f15113a11e78f48af4f23a7a9) - 2026-07-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

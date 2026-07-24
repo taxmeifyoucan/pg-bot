@@ -70,6 +70,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc/mcp: add net and admin P2P inspection tools](https://github.com/erigontech/erigon/pull/22629#pullrequestreview-4758579950) - 2026-07-22
 * [Commit] [node, commitment: fix parallel exec deadlock on many-core machines (#22408)](https://github.com/erigontech/erigon/commit/4d6ef27f954fb17372f18c3a355e64ca2a3d4aad) - 2026-07-22
 * [Commit] [rpc:  add check on null tx (#22649)](https://github.com/erigontech/erigon/commit/a81eeb5486d2088697f474c58446da68092099bd) - 2026-07-22
+* [Review] [Review on: rpc: libdeflate can't be stored in sync.Pool because C-allocated memory not visible for Go's runtime](https://github.com/erigontech/erigon/pull/22692#pullrequestreview-4764531879) - 2026-07-23
+* [Review] [Review on: rpc: extract api config pkg more](https://github.com/erigontech/erigon/pull/22680#pullrequestreview-4763720030) - 2026-07-23
+* [Commit] [node, rpc: event-driven eth_subscribe("syncing") (#22570)](https://github.com/erigontech/erigon/commit/7e7aaf903ad05541aee21c215a11ad40587413e2) - 2026-07-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

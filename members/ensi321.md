@@ -51,6 +51,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Restore alpha.12 fast-confirmation spec coverage](https://github.com/ChainSafe/lodestar/issues/9690) - 2026-07-22
 * [Issue] [[WIP] Gloas Mainnet Checklist](https://github.com/ChainSafe/lodestar/issues/9692) - 2026-07-22
 * [Issue] [Fix payload status of anchor block](https://github.com/ChainSafe/lodestar/issues/9691) - 2026-07-22
+* [Review] [Review on: feat: implement forkchoice is_head_weak() and is_parent_strong()](https://github.com/ChainSafe/lodestar/pull/9654#pullrequestreview-4761165382) - 2026-07-23
+* [Review] [Review on: feat: implement non-eip-7688 changes in alpha.12](https://github.com/ChainSafe/lodestar/pull/9606#pullrequestreview-4768831519) - 2026-07-23
+* [Review] [Review on: feat: add fork choice compliance test for pre-gloas forks](https://github.com/ChainSafe/lodestar/pull/9670#pullrequestreview-4760914582) - 2026-07-23
+* [Issue] [Compute proposer boost score using Gwei instead of ETH](https://github.com/ChainSafe/lodestar/issues/9694) - 2026-07-23
+* [Commit] [feat: add fork choice compliance test for pre-gloas forks (#9670)](https://github.com/ChainSafe/lodestar/commit/4606097ec4ab07f0a4b1473975785cbf6255e5bc) - 2026-07-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

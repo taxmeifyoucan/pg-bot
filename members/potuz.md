@@ -52,6 +52,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Fix PTC blob_data_available to use data column availability](https://github.com/OffchainLabs/prysm/pull/17222#pullrequestreview-4756465996) - 2026-07-22
 * [Review] [Review on: Validate bid parent block hash correctly](https://github.com/OffchainLabs/prysm/pull/17217#pullrequestreview-4757061477) - 2026-07-22
 * [Review] [Review on: Only increment PTC vote count metric for newly set votes](https://github.com/OffchainLabs/prysm/pull/17214#pullrequestreview-4756309947) - 2026-07-22
+* [Pull Request] [Don't downscore honest peers for foreign data column sidecars](https://github.com/OffchainLabs/prysm/pull/17231) - 2026-07-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

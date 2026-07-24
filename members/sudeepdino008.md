@@ -72,6 +72,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/version/app: bump to 3.7.0-dev](https://github.com/erigontech/erigon/pull/22658#pullrequestreview-4751007696) - 2026-07-22
 * [Review] [Review on: [r3.6] db/version: app version 3.6.0](https://github.com/erigontech/erigon/pull/22652#pullrequestreview-4751008783) - 2026-07-22
 * [Commit] [cmd/integration: attach StateCache in stage_exec offline re-execution (#22642)](https://github.com/erigontech/erigon/commit/79651ba0239d67b66943e103a692fcbad370cd56) - 2026-07-22
+* [Review] [Review on: commitment/trie, seg, fusefilter: shrink GC scan range on three hot structs](https://github.com/erigontech/erigon/pull/22685#pullrequestreview-4763110788) - 2026-07-23
+* [Review] [Review on: Merge release/3.6 into main](https://github.com/erigontech/erigon/pull/22681#pullrequestreview-4760960203) - 2026-07-23
+* [Pull Request] [[r3.6] rpc/rpchelper: invalidate cached pending block once the chain moves past it](https://github.com/erigontech/erigon/pull/22684) - 2026-07-23
+* [Review] [Review on: [r3.6] stagedsync, db/state: rebuild missing E3 accessors on restart (#22660 stack)](https://github.com/erigontech/erigon/pull/22682#pullrequestreview-4760927870) - 2026-07-23
+* [Commit] [stagedsync, cmd/utils/app: use db.BuildMissedAccessors instead of reaching into agg (#22660)](https://github.com/erigontech/erigon/commit/f4aa33dbe234d6d24cdb86dbd38e3b7967879af9) - 2026-07-23
+* [Commit] [cmd/integration: attach CodeStore in stage_exec offline re-execution (#22650)](https://github.com/erigontech/erigon/commit/f9ddef1aba45b3f1985ff9a731189daa64143eff) - 2026-07-23
 ## Q2 2026
 
 

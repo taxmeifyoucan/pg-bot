@@ -20,6 +20,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Add gossip validation spec tests for beacon block](https://github.com/sigp/lighthouse/pull/9372#pullrequestreview-4710361322) - 2026-07-16
 * [Review] [Review on: Add a bunch of semicolons to satisfy Nightly rustc](https://github.com/sigp/lighthouse/pull/9648#pullrequestreview-4710263077) - 2026-07-16
 * [Pull Request] [Clean up custody backfill requests after peer failures](https://github.com/sigp/lighthouse/pull/9665) - 2026-07-20
+* [Pull Request] [Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682) - 2026-07-23
 ## Q2 2026
 
 

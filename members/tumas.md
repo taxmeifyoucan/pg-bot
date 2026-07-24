@@ -20,6 +20,7 @@ Team: Grandine
 * [Pull Request] [Update book (#817)](https://github.com/grandinetech/grandine/pull/827) - 2026-07-21
 * [Pull Request] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/826) - 2026-07-21
 * [Review] [Review on: Fire post-Gloas block events without waiting for EL status](https://github.com/grandinetech/grandine/pull/824#pullrequestreview-4743627672) - 2026-07-21
+* [Commit] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/51c77835a0c0220aa83b2e27e62673add4cf87ad) - 2026-07-23
 ## Q2 2026
 
 

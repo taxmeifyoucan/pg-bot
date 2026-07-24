@@ -41,6 +41,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Issue] [FCR Rollout Plan](https://github.com/Consensys/teku/issues/10994) - 2026-07-21
 * [Review] [Review on: Remove acceptance deposit senders and remove web3j from beacon/pow](https://github.com/Consensys/teku/pull/10997#pullrequestreview-4753026769) - 2026-07-22
 * [Review] [Review on: Add builder boost factor evaluation for execution payloads](https://github.com/Consensys/teku/pull/10973#pullrequestreview-4757531761) - 2026-07-22
+* [Pull Request] [Fixed Beacon REST API socket retention when clients cancel pending requests](https://github.com/Consensys/teku/pull/11004) - 2026-07-23
+* [Pull Request] [FCR calculator part1](https://github.com/Consensys/teku/pull/11005) - 2026-07-23
+* [Review] [Review on: Remove acceptance deposit senders and remove web3j from beacon/pow](https://github.com/Consensys/teku/pull/10997#pullrequestreview-4762773286) - 2026-07-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026
