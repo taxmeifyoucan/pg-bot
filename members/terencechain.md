@@ -142,6 +142,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Don't block gloas block import on missing data columns](https://github.com/OffchainLabs/prysm/pull/17232) - 2026-07-23
 * [Review] [Review on: update go toolchain to 1.26.5](https://github.com/OffchainLabs/prysm/pull/17230#pullrequestreview-4764591098) - 2026-07-23
 * [Commit] [Only count actually invalid envelopes in envelope invalid metric (#17215)](https://github.com/OffchainLabs/prysm/commit/d4cd73f935cd667acf387fe252cd8067d99c1a44) - 2026-07-23
+* [Pull Request] [Allow builders to bid on multiple branches](https://github.com/OffchainLabs/prysm/pull/17237) - 2026-07-24
+* [Review] [Review on: Don't downscore honest peers for foreign data column sidecars](https://github.com/OffchainLabs/prysm/pull/17231#pullrequestreview-4773811230) - 2026-07-24
+* [Review] [Review on: Fix concurrent map read/write crash when reading optimistic status](https://github.com/OffchainLabs/prysm/pull/17228#pullrequestreview-4769663543) - 2026-07-24
+* [Commit] [Don't block gloas block import on missing data columns (#17232)](https://github.com/OffchainLabs/prysm/commit/fa79a91fcf11021eb4561f84c5e5004c7fd62e0a) - 2026-07-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

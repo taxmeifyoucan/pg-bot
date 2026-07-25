@@ -78,6 +78,8 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Fix Splits.org acknowledgment](https://github.com/protocolguild/documentation/commit/ae5cc309a75285d31152e104c98214776eb75a1a) - 2026-07-23
 * [Commit] [Remove Discord + Farcaster](https://github.com/protocolguild/documentation/commit/cae6d528ab7467d8c9cd622231d99e4f7bcde63f) - 2026-07-23
 * [Commit] [Remove Peter](https://github.com/protocolguild/documentation/commit/7a14616bda59507654401c9326c8407ffffd87d1) - 2026-07-23
+* [Commit] [Merge pull request #524 from jsign/jsign-propose-francesco](https://github.com/protocolguild/documentation/commit/2ca09b3c6b96535c5d4e6b261d840e30493a8681) - 2026-07-24
+* [Commit] [Merge pull request #526 from saltiniroberto/patch-3](https://github.com/protocolguild/documentation/commit/897289e5e34fb4c72b55cf85069fa5a1f65d0698) - 2026-07-24
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/e6b14d7ca4339655efae86d7ad13a05fb14f43ee) - 2026-07-07
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/575f773fb569863447ec1e75d194b1ab0a05f41f) - 2026-07-07

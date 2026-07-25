@@ -101,6 +101,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(test-consume): accept bad-block-cache errors for resubmitted blocks (#3146)](https://github.com/ethereum/execution-specs/commit/fc3bede68d46be416fb3507b29ee456afe46a8b5) - 2026-07-15
 * [Commit] [chore(ci): run `just test-ci-scripts` in CI (#3172)](https://github.com/ethereum/execution-specs/commit/dcde331ff4a40cc3dce240312601a697ab9f94b9) - 2026-07-15
 * [Pull Request] [perf(ci): run the PR docker-image cache gate on a GitHub-hosted runner](https://github.com/ethereum/execution-specs/pull/3185) - 2026-07-16
+* [Commit] [fix(consume): make release resolution robust to GitHub API rate limits (#3182)](https://github.com/ethereum/execution-specs/commit/ca7cac5c41b82ec49cbbe0961ba7191411caa5d2) - 2026-07-24
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

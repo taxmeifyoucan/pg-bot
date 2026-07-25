@@ -130,6 +130,20 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: emit head event whenever fork choice head changes](https://github.com/ChainSafe/lodestar/pull/9697#pullrequestreview-4765549829) - 2026-07-23
 * [Pull Request] [fix: validate proposer preferences dependent root](https://github.com/ChainSafe/lodestar/pull/9695) - 2026-07-23
 * [Review] [Review on: fix: validate proposer preferences dependent root](https://github.com/ChainSafe/lodestar/pull/9695#pullrequestreview-4762299527) - 2026-07-23
+* [Review] [Review on: test: add qs arrayLimit regression coverage for #9672](https://github.com/ChainSafe/lodestar/pull/9680#pullrequestreview-4773525676) - 2026-07-24
+* [Review] [Review on: fix: skip already-seen data columns in zero-peer publish warning](https://github.com/ChainSafe/lodestar/pull/9580#pullrequestreview-4775335106) - 2026-07-24
+* [Pull Request] [feat: allow builders to bid on multiple branches](https://github.com/ChainSafe/lodestar/pull/9705) - 2026-07-24
+* [Review] [Review on: feat: allow builders to bid on multiple branches](https://github.com/ChainSafe/lodestar/pull/9705#pullrequestreview-4773080590) - 2026-07-24
+* [Review] [Review on: feat: implement forkchoice is_head_weak() and is_parent_strong()](https://github.com/ChainSafe/lodestar/pull/9654#pullrequestreview-4770140926) - 2026-07-24
+* [Pull Request] [feat: require minimum increment to forward bids over gossip](https://github.com/ChainSafe/lodestar/pull/9706) - 2026-07-24
+* [Review] [Review on: fix: enable gloas fast_confirmation spec tests](https://github.com/ChainSafe/lodestar/pull/9704#pullrequestreview-4773013903) - 2026-07-24
+* [Review] [Review on: fix: emit head event whenever fork choice head changes](https://github.com/ChainSafe/lodestar/pull/9697#pullrequestreview-4770111645) - 2026-07-24
+* [Review] [Review on: feat: implement non-eip-7688 changes in alpha.12](https://github.com/ChainSafe/lodestar/pull/9606#pullrequestreview-4770091564) - 2026-07-24
+* [Issue] [Persist produced execution payload envelopes](https://github.com/ChainSafe/lodestar/issues/9708) - 2026-07-24
+* [Commit] [fix: validate proposer preferences dependent root (#9695)](https://github.com/ChainSafe/lodestar/commit/4001398810453c5c1b4abe8c06323a76d0ba592f) - 2026-07-24
+* [Commit] [docs: prefer targeted pre-push tests (#9643)](https://github.com/ChainSafe/lodestar/commit/f6c521a1236d2ae346edf44e11ec6a9eb8cb9051) - 2026-07-24
+* [Commit] [fix: emit head event whenever fork choice head changes (#9697)](https://github.com/ChainSafe/lodestar/commit/3c41f4be9a6114a4f12f50aef2921f76bf4c80b4) - 2026-07-24
+* [Commit] [fix: return 400 for gossip validation errors (#9699)](https://github.com/ChainSafe/lodestar/commit/845585420ef94afa0cd2ccd7d43ec5936ebc14e9) - 2026-07-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -152,6 +166,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Correct `MIN_SLOTS_FOR_INCLUSION_LISTS_REQUESTS` value](https://github.com/ethereum/consensus-specs/pull/5462#pullrequestreview-4744861623) - 2026-07-21
 * [Review] [Review on: Rename `uint*` to `Uint*`](https://github.com/ethereum/consensus-specs/pull/5469#pullrequestreview-4757905994) - 2026-07-22
 * [Review] [Review on: Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443#pullrequestreview-4763026553) - 2026-07-23
+* [Pull Request] [Allow builders to bid on multiple branches](https://github.com/ethereum/consensus-specs/pull/5472) - 2026-07-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

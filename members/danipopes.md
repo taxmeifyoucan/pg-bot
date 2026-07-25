@@ -44,6 +44,9 @@ Team: Reth
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13
 * [Review] [Review on: chore: bump revm to 42.0.0](https://github.com/paradigmxyz/revmc/pull/406#pullrequestreview-4763820545) - 2026-07-23
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Commit] [feat: add async database fiber support (#3709)](https://github.com/bluealloy/revm/commit/ebdffc80d63ed7d58fcf240d578fcd19b71b0196) - 2026-07-24
 ## Q2 2026
 
 

@@ -37,6 +37,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [feat(precompile): track spilled state gas in PrecompileOutput (#3820)](https://github.com/bluealloy/revm/commit/e4cf8ef8b2faa22ee09b57a65284be9d972f932e) - 2026-07-23
 * [Commit] [bump: prep v114 release (#3819)](https://github.com/bluealloy/revm/commit/bc8ab332e528ae8ac3db651a38fc60d30f6f22db) - 2026-07-23
 * [Commit] [fix(inspector): forward EIP-7708 transfer logs to the inspector (#3816)](https://github.com/bluealloy/revm/commit/d00704db4362098b614cc19f61e99dc5feaf6438) - 2026-07-23
+* [Review] [Review on: fix(bytecode): skip DUPN/SWAPN/EXCHANGE immediates in analyze_legacy](https://github.com/bluealloy/revm/pull/3801#pullrequestreview-4773763888) - 2026-07-24
+* [Review] [Review on: docs(precompile): correct read_fp canonical-check comment](https://github.com/bluealloy/revm/pull/3824#pullrequestreview-4772142145) - 2026-07-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02

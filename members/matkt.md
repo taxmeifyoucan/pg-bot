@@ -58,6 +58,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Stateroot modification for bal in bal devnet 7](https://github.com/besu-eth/besu/pull/10856) - 2026-07-23
 * [Review] [Review on: snap/2 - reorg recovery plan and canonical BAL application](https://github.com/besu-eth/besu/pull/10832#pullrequestreview-4763510020) - 2026-07-23
 * [Review] [Review on: Refactor engine_forkchoiceUpdated onto a ConstructorArguments/VersionScheduler foundation](https://github.com/besu-eth/besu/pull/10838#pullrequestreview-4762996034) - 2026-07-23
+* [Pull Request] [Stateroot modification glamsterdam devnet 7](https://github.com/besu-eth/besu/pull/10869) - 2026-07-24
 ## Q2 2026
 
 

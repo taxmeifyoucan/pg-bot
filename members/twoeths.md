@@ -58,6 +58,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: split execution engine errors (#9685)](https://github.com/ChainSafe/lodestar/commit/d16fa2b13a19127ae71d77a7276e32cd2ad9cecd) - 2026-07-22
 * [Review] [Review on: feat: implement forkchoice is_head_weak() and is_parent_strong()](https://github.com/ChainSafe/lodestar/pull/9654#pullrequestreview-4761389037) - 2026-07-23
 * [Issue] [processPendingDeposits performance issue](https://github.com/ChainSafe/lodestar/issues/9696) - 2026-07-23
+* [Review] [Review on: feat: disable fast confirmation rule while syncing](https://github.com/ChainSafe/lodestar/pull/9681#pullrequestreview-4769782739) - 2026-07-24
+* [Review] [Review on: fix: emit head event whenever fork choice head changes](https://github.com/ChainSafe/lodestar/pull/9697#pullrequestreview-4769715506) - 2026-07-24
+* [Review] [Review on: feat: implement EIP-8333 boundary checkpoint roots](https://github.com/ChainSafe/lodestar/pull/9698#pullrequestreview-4769891298) - 2026-07-24
+* [Commit] [feat: implement forkchoice is_head_weak() and is_parent_strong() (#9654)](https://github.com/ChainSafe/lodestar/commit/bcf03e7395ccdb093773133e9a52b810a2e8475b) - 2026-07-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

@@ -56,6 +56,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [enable P2P DSL macro to work in ARC/ORC](https://github.com/status-im/nimbus-eth2/pull/8789) - 2026-07-20
 * [Pull Request] [update GH actions; var to let; fix deprecated useWildcard; enforce snappy frame size limit](https://github.com/status-im/nimbus-eth2/pull/8791) - 2026-07-21
 * [Review] [Review on: implement should_build_on_full for proposals](https://github.com/status-im/nimbus-eth2/pull/8793#pullrequestreview-4750525728) - 2026-07-22
+* [Review] [Review on: mark only the FULL variant invalid on EL-invalid payloads](https://github.com/status-im/nimbus-eth2/pull/8800#pullrequestreview-4772281827) - 2026-07-24
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -90,6 +91,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: proxy: EIP-2935 anchor jump](https://github.com/status-im/nimbus-eth1/pull/4530#pullrequestreview-4766033146) - 2026-07-23
 * [Pull Request] [bump nim-stint to increase EVM ADDMOD performance](https://github.com/status-im/nimbus-eth1/pull/4549) - 2026-07-23
 * [Commit] [bump nim-stint to increase EVM ADDMOD performance (#4549)](https://github.com/status-im/nimbus-eth1/commit/e148591565971c9ae9eb9b3eec430c37c4316e88) - 2026-07-23
+* [Pull Request] [bump nim-stint to optimize SIGNEXTEND, ADDMOD, and SUB opcodes](https://github.com/status-im/nimbus-eth1/pull/4560) - 2026-07-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

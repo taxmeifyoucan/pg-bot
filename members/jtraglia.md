@@ -93,6 +93,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Fix payload availability lookup for attestations to skipped slots](https://github.com/ethereum/consensus-specs/pull/5442#pullrequestreview-4769467314) - 2026-07-24
 * [Review] [Review on: Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443#pullrequestreview-4769421799) - 2026-07-24
 * [Commit] [Add dependent root check to `proposer_preferences` validation (#5443)](https://github.com/ethereum/consensus-specs/commit/ec390a6c2743de37ac4e9b0b5351a775c257279e) - 2026-07-24
+* [Pull Request] [Fix broken links](https://github.com/ethereum/consensus-specs/pull/5475) - 2026-07-25
+* [Review] [Review on: Elaborate messages for block's payload gossip validation](https://github.com/ethereum/consensus-specs/pull/5474#pullrequestreview-4776634808) - 2026-07-24
+* [Pull Request] [Fix payload availability lookup using the parent block's slot](https://github.com/ethereum/consensus-specs/pull/5473) - 2026-07-24
+* [Review] [Review on: Allow builders to bid on multiple branches](https://github.com/ethereum/consensus-specs/pull/5472#pullrequestreview-4774609991) - 2026-07-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

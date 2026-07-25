@@ -54,9 +54,25 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: return 400 for gossip validation errors](https://github.com/ChainSafe/lodestar/pull/9699#pullrequestreview-4768190839) - 2026-07-23
 * [Review] [Review on: fix: emit head event whenever fork choice head changes](https://github.com/ChainSafe/lodestar/pull/9697#pullrequestreview-4765589555) - 2026-07-23
 * [Review] [Review on: chore: v1.45.0 release](https://github.com/ChainSafe/lodestar/pull/9674#pullrequestreview-4764386235) - 2026-07-23
+* [Review] [Review on: fix: treat ping/status dial timeouts as HighToleranceError](https://github.com/ChainSafe/lodestar/pull/9707#pullrequestreview-4775495947) - 2026-07-24
+* [Review] [Review on: feat: implement `compute_weak_subjectivity_period` for Gloas (EIP-8061)](https://github.com/ChainSafe/lodestar/pull/9625#pullrequestreview-4775485197) - 2026-07-24
+* [Review] [Review on: fix: reject gloas attestations/aggregates for EL-invalidated payloads](https://github.com/ChainSafe/lodestar/pull/9637#pullrequestreview-4775292240) - 2026-07-24
+* [Review] [Review on: fix: validate proposer preferences dependent root](https://github.com/ChainSafe/lodestar/pull/9695#pullrequestreview-4773906401) - 2026-07-24
+* [Review] [Review on: fix: skip already-seen data columns in zero-peer publish warning](https://github.com/ChainSafe/lodestar/pull/9580#pullrequestreview-4775123845) - 2026-07-24
+* [Review] [Review on: fix(reqresp): map malformed request payloads to invalid request](https://github.com/ChainSafe/lodestar/pull/9645#pullrequestreview-4775096233) - 2026-07-24
+* [Review] [Review on: feat: allow builders to bid on multiple branches](https://github.com/ChainSafe/lodestar/pull/9705#pullrequestreview-4775176052) - 2026-07-24
+* [Review] [Review on: docs: prefer targeted pre-push tests](https://github.com/ChainSafe/lodestar/pull/9643#pullrequestreview-4775131615) - 2026-07-24
+* [Review] [Review on: feat: require minimum increment to forward bids over gossip](https://github.com/ChainSafe/lodestar/pull/9706#pullrequestreview-4774984036) - 2026-07-24
+* [Review] [Review on: fix: tighten light-client zeroed-header checks to match spec](https://github.com/ChainSafe/lodestar/pull/9419#pullrequestreview-4774423018) - 2026-07-24
+* [Review] [Review on: fix: harden range sync hashBlocks()](https://github.com/ChainSafe/lodestar/pull/9686#pullrequestreview-4774834396) - 2026-07-24
+* [Review] [Review on: chore(deps): bump the actions group across 1 directory with 5 updates](https://github.com/ChainSafe/lodestar/pull/9682#pullrequestreview-4774756410) - 2026-07-24
+* [Review] [Review on: docs: pr review policy and report](https://github.com/ChainSafe/lodestar/pull/9679#pullrequestreview-4774321060) - 2026-07-24
+* [Review] [Review on: chore: replace ts-node with tsx for running TypeScript](https://github.com/ChainSafe/lodestar/pull/9635#pullrequestreview-4774262282) - 2026-07-24
+* [Review] [Review on: fix: `getPoolAttestationsV2` should return an empty array when no attestations are available](https://github.com/ChainSafe/lodestar/pull/9675#pullrequestreview-4774128713) - 2026-07-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
+* [Review] [Review on: Explicitly define types as classes](https://github.com/ethereum/consensus-specs/pull/5471#pullrequestreview-4773982938) - 2026-07-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460#pullrequestreview-4639587158) - 2026-07-06
 * [Review] [Review on: fix: state transition binding exports](https://github.com/ChainSafe/lodestar-z/pull/456#pullrequestreview-4639596235) - 2026-07-06

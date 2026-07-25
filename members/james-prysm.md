@@ -96,6 +96,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [overflow bid fix (#17207)](https://github.com/OffchainLabs/prysm/commit/e4d15d741a7acec6e88282155df15bb3a9e83fd9) - 2026-07-21
 * [Review] [Review on: Construct Web3Signer Keymanager directly from its config instead of temporary, fake in-memory wallet](https://github.com/OffchainLabs/prysm/pull/17219#pullrequestreview-4758449449) - 2026-07-22
 * [Review] [Review on: Implement the active-active mode in the REST validator client.](https://github.com/OffchainLabs/prysm/pull/17075#pullrequestreview-4757907266) - 2026-07-22
+* [Pull Request] [fix grpc head event](https://github.com/OffchainLabs/prysm/pull/17238) - 2026-07-24
+* [Review] [Review on: fix grpc head event](https://github.com/OffchainLabs/prysm/pull/17238#pullrequestreview-4775887359) - 2026-07-24
+* [Review] [Review on: Support SSZ request bodies for `POST /eth/v2/beacon/pool/attestations` post-Electra](https://github.com/OffchainLabs/prysm/pull/17234#pullrequestreview-4773872414) - 2026-07-24
 ## Q2 2026
 
 

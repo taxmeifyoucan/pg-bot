@@ -453,6 +453,43 @@ Team: Erigon
 * [Commit] [commitment/trie, seg, fusefilter: shrink GC scan range on three hot structs (#22685)](https://github.com/erigontech/erigon/commit/a590ea54be98f3d62c82bd8d2c2b160c8359c29b) - 2026-07-23
 * [Commit] [execution/state: alloc-free compact journal entries (#22561)](https://github.com/erigontech/erigon/commit/528b3cd7e211a3c71b94b9ec58448033db2551fc) - 2026-07-23
 * [Commit] [Merge release/3.6 into main (#22681)](https://github.com/erigontech/erigon/commit/993149925e454e7f15113a11e78f48af4f23a7a9) - 2026-07-23
+* [Pull Request] [execution: store EVM logs by value in IntraBlockState](https://github.com/erigontech/erigon/pull/22723) - 2026-07-25
+* [Pull Request] [execution/state: store accessOptions by value instead of by pointer](https://github.com/erigontech/erigon/pull/22721) - 2026-07-25
+* [Review] [Review on: execution/state: store accessOptions by value instead of by pointer](https://github.com/erigontech/erigon/pull/22721#pullrequestreview-4777945637) - 2026-07-25
+* [Pull Request] [db/state: drain file readers in Aggregator.Close before unmapping](https://github.com/erigontech/erigon/pull/22713) - 2026-07-24
+* [Review] [Review on: db/state: drain file readers in Aggregator.Close before unmapping](https://github.com/erigontech/erigon/pull/22713#pullrequestreview-4771487959) - 2026-07-24
+* [Pull Request] [db/state: drain file readers in Aggregator.Close before unmapping](https://github.com/erigontech/erigon/pull/22722) - 2026-07-25
+* [Pull Request] [[wip] execution, rpc: make BlockContext.Rules a precomputed field](https://github.com/erigontech/erigon/pull/22720) - 2026-07-25
+* [Review] [Review on: execution/state: seed full code trio in BAL version-map pre-population](https://github.com/erigontech/erigon/pull/22718#pullrequestreview-4777774363) - 2026-07-25
+* [Review] [Review on: .github: add weekly release-branch security scan (trivy) (cherry-pick of #22698 to main)](https://github.com/erigontech/erigon/pull/22704#pullrequestreview-4770466377) - 2026-07-24
+* [Pull Request] [[r3.5] http: compression leaked C-allocated memory in sync.Pool](https://github.com/erigontech/erigon/pull/22700) - 2026-07-24
+* [Review] [Review on: all: enable gocritic rangeValCopy and regexpMust rules and fix all violations](https://github.com/erigontech/erigon/pull/22711#pullrequestreview-4771479639) - 2026-07-24
+* [Review] [Review on: .github: fix startup_failure in cache-warming / sonar-branch-scan (reusable-workflow perms)](https://github.com/erigontech/erigon/pull/22714#pullrequestreview-4771794835) - 2026-07-24
+* [Review] [Review on: db/snapshotsync: keep merge-spanning transaction segment](https://github.com/erigontech/erigon/pull/22709#pullrequestreview-4771513799) - 2026-07-24
+* [Pull Request] [execution/engineapi: catch up from NewPayload when far behind the CL (fix #20419)](https://github.com/erigontech/erigon/pull/22707) - 2026-07-24
+* [Review] [Review on: execution/engineapi: catch up from NewPayload when far behind the CL (fix #20419)](https://github.com/erigontech/erigon/pull/22707#pullrequestreview-4770767647) - 2026-07-24
+* [Review] [Review on: docs(help-center): refresh FAQs from support trends, fix consistency](https://github.com/erigontech/erigon/pull/22696#pullrequestreview-4771445540) - 2026-07-24
+* [Pull Request] [cmd/rpcdaemon/graphql: resolve miner, createdContract and log.account fields](https://github.com/erigontech/erigon/pull/22710) - 2026-07-24
+* [Review] [Review on: cmd/rpcdaemon/graphql: resolve miner, createdContract and log.account fields](https://github.com/erigontech/erigon/pull/22710#pullrequestreview-4771090529) - 2026-07-24
+* [Pull Request] [[r3.6] execution/commitment, db/integrity: guard IsComplete against short branch buffers](https://github.com/erigontech/erigon/pull/22712) - 2026-07-24
+* [Review] [Review on: common: add AppendText (encoding.TextAppender) to hex value types](https://github.com/erigontech/erigon/pull/22695#pullrequestreview-4769895834) - 2026-07-24
+* [Review] [Review on: cl/merkle_tree: add EIP-7916 progressive list root](https://github.com/erigontech/erigon/pull/22689#pullrequestreview-4771456734) - 2026-07-24
+* [Review] [Review on: docs(site): Schema.org structured data + SEO improvements](https://github.com/erigontech/erigon/pull/22697#pullrequestreview-4771443736) - 2026-07-24
+* [Pull Request] [execution/stagedsync: select diffset-bearing header on multi-header unwind](https://github.com/erigontech/erigon/pull/22708) - 2026-07-24
+* [Review] [Review on: execution/stagedsync: select diffset-bearing header on multi-header unwind](https://github.com/erigontech/erigon/pull/22708#pullrequestreview-4770986582) - 2026-07-24
+* [Pull Request] [[r3.6] commitment: ASSERT mutated external variables - cause red "sync from scratch CI"](https://github.com/erigontech/erigon/pull/22702) - 2026-07-24
+* [Review] [Review on: [r3.6] commitment: ASSERT mutated external variables - cause red "sync from scratch CI"](https://github.com/erigontech/erigon/pull/22702#pullrequestreview-4770056499) - 2026-07-24
+* [Pull Request] [[r3.6] http: compression leaked C-allocated memory in sync.Pool](https://github.com/erigontech/erigon/pull/22699) - 2026-07-24
+* [Pull Request] [common/maphash: cap ShardedLRU shards to keep per-shard capacity >= 2](https://github.com/erigontech/erigon/pull/22705) - 2026-07-24
+* [Review] [Review on: common/maphash: cap ShardedLRU shards to keep per-shard capacity >= 2](https://github.com/erigontech/erigon/pull/22705#pullrequestreview-4770688572) - 2026-07-24
+* [Review] [Review on: http: compression leaked C-allocated memory in sync.Pool](https://github.com/erigontech/erigon/pull/22692#pullrequestreview-4770084260) - 2026-07-24
+* [Review] [Review on: .github: add weekly release-branch security scan (trivy)](https://github.com/erigontech/erigon/pull/22698#pullrequestreview-4769680846) - 2026-07-24
+* [Pull Request] [[r3.6] commitment: ASSERT mutated external variables - cause red "sync from scratch CI"](https://github.com/erigontech/erigon/pull/22701) - 2026-07-24
+* [Review] [Review on: [r3.6] commitment: ASSERT mutated external variables - cause red "sync from scratch CI"](https://github.com/erigontech/erigon/pull/22701#pullrequestreview-4770056439) - 2026-07-24
+* [Issue] [To discuss: libdeflate vs klauspost/compress for HTTP response compression](https://github.com/erigontech/erigon/issues/22703) - 2026-07-24
+* [Commit] [common: add AppendText (encoding.TextAppender) to hex value types (#22695)](https://github.com/erigontech/erigon/commit/fdd61571bac9dcd4846030394aff78078a099750) - 2026-07-24
+* [Commit] [http: compression leaked C-allocated memory in sync.Pool (#22692)](https://github.com/erigontech/erigon/commit/dcce84355057a270c8176d41636855c5d8316ea8) - 2026-07-24
+* [Commit] [rpc/mcp, cmd/mcp: add streamable HTTP transport (#22624)](https://github.com/erigontech/erigon/commit/1d8cae9bd94591f82932f16b59c75af0be7f4409) - 2026-07-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

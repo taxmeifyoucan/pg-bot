@@ -123,6 +123,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: RocksDB - Don't treat IO errors as corruption](https://github.com/NethermindEth/nethermind/pull/12541#pullrequestreview-4753394397) - 2026-07-22
 * [Review] [Review on: Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool](https://github.com/NethermindEth/nethermind/pull/12468#pullrequestreview-4754305092) - 2026-07-22
 * [Review] [Review on: ci(zkevm): Update the workflow for glamsterdam-devnet-7](https://github.com/NethermindEth/nethermind/pull/12547#pullrequestreview-4762850911) - 2026-07-23
+* [Review] [Review on: Cap collected base fee at the effective gas price paid in validation-off eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/12566#pullrequestreview-4777741918) - 2026-07-25
+* [Review] [Review on: Accept 1,024 ETH body request hashes](https://github.com/NethermindEth/nethermind/pull/12567#pullrequestreview-4777741008) - 2026-07-25
+* [Review] [Review on: ci: cut wasted CI spend on unchanged and perpetually-failing paths](https://github.com/NethermindEth/nethermind/pull/12563#pullrequestreview-4772630089) - 2026-07-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

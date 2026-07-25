@@ -78,6 +78,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.6] stagedsync, db/state: rebuild missing E3 accessors on restart (#22660 stack)](https://github.com/erigontech/erigon/pull/22682#pullrequestreview-4760927870) - 2026-07-23
 * [Commit] [stagedsync, cmd/utils/app: use db.BuildMissedAccessors instead of reaching into agg (#22660)](https://github.com/erigontech/erigon/commit/f4aa33dbe234d6d24cdb86dbd38e3b7967879af9) - 2026-07-23
 * [Commit] [cmd/integration: attach CodeStore in stage_exec offline re-execution (#22650)](https://github.com/erigontech/erigon/commit/f9ddef1aba45b3f1985ff9a731189daa64143eff) - 2026-07-23
+* [Review] [Review on: [r3.5] http: compression leaked C-allocated memory in sync.Pool](https://github.com/erigontech/erigon/pull/22700#pullrequestreview-4770149112) - 2026-07-24
+* [Review] [Review on: [r3.5] go.mod: update google.golang.org/grpc to v1.82.1](https://github.com/erigontech/erigon/pull/22690#pullrequestreview-4770150690) - 2026-07-24
+* [Review] [Review on: [r3.6] commitment: ASSERT mutated external variables - cause red "sync from scratch CI"](https://github.com/erigontech/erigon/pull/22702#pullrequestreview-4770154792) - 2026-07-24
+* [Review] [Review on: [r3.6] http: compression leaked C-allocated memory in sync.Pool](https://github.com/erigontech/erigon/pull/22699#pullrequestreview-4770148488) - 2026-07-24
+* [Review] [Review on: [r3.6] commitment: ASSERT mutated external variables - cause red "sync from scratch CI"](https://github.com/erigontech/erigon/pull/22701#pullrequestreview-4770154170) - 2026-07-24
 ## Q2 2026
 
 

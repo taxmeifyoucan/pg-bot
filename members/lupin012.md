@@ -73,6 +73,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: libdeflate can't be stored in sync.Pool because C-allocated memory not visible for Go's runtime](https://github.com/erigontech/erigon/pull/22692#pullrequestreview-4764531879) - 2026-07-23
 * [Review] [Review on: rpc: extract api config pkg more](https://github.com/erigontech/erigon/pull/22680#pullrequestreview-4763720030) - 2026-07-23
 * [Commit] [node, rpc: event-driven eth_subscribe("syncing") (#22570)](https://github.com/erigontech/erigon/commit/7e7aaf903ad05541aee21c215a11ad40587413e2) - 2026-07-23
+* [Pull Request] [node/shards, db/downloader, execution/stagedsync: snapshot download progress in eth_syncing](https://github.com/erigontech/erigon/pull/22716) - 2026-07-24
+* [Commit] [rpc: extract api config pkg more (#22680)](https://github.com/erigontech/erigon/commit/df89565862016dee688fca7dad0b0e76e0495940) - 2026-07-24
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

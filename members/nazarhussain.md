@@ -43,6 +43,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: disable fast confirmation rule while syncing](https://github.com/ChainSafe/lodestar/pull/9681) - 2026-07-20
 * [Review] [Review on: feat: disable fast confirmation rule while syncing](https://github.com/ChainSafe/lodestar/pull/9681#pullrequestreview-4733772006) - 2026-07-20
 * [Review] [Review on: feat: disable fast confirmation rule while syncing](https://github.com/ChainSafe/lodestar/pull/9681#pullrequestreview-4761548255) - 2026-07-23
+* [Review] [Review on: chore: replace ts-node with tsx for running TypeScript](https://github.com/ChainSafe/lodestar/pull/9635#pullrequestreview-4770513587) - 2026-07-24
+* [Pull Request] [fix: enable gloas fast_confirmation spec tests](https://github.com/ChainSafe/lodestar/pull/9704) - 2026-07-24
+* [Review] [Review on: fix: enable gloas fast_confirmation spec tests](https://github.com/ChainSafe/lodestar/pull/9704#pullrequestreview-4772665030) - 2026-07-24
+* [Commit] [feat: disable fast confirmation rule while syncing (#9681)](https://github.com/ChainSafe/lodestar/commit/a926f1e8e2f2513bf843a734ca61c62ae91a2403) - 2026-07-24
+* [Commit] [chore: replace ts-node with tsx for running TypeScript (#9635)](https://github.com/ChainSafe/lodestar/commit/b98df0df3d8aa78f110d8e0c8eefa74ee065eec6) - 2026-07-24
 ## Q2 2026
 
 

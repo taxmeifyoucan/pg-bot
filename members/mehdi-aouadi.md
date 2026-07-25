@@ -27,6 +27,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [handle saved for the future bids](https://github.com/Consensys/teku/pull/11003) - 2026-07-23
 * [Review] [Review on: handle saved for the future bids](https://github.com/Consensys/teku/pull/11003#pullrequestreview-4764919992) - 2026-07-23
 * [Issue] [Handle saved for the futures bids](https://github.com/Consensys/teku/issues/11002) - 2026-07-23
+* [Pull Request] [add validation result descriptions](https://github.com/Consensys/teku/pull/11009) - 2026-07-24
+* [Review] [Review on: Fast Confirmation Rule Utilities part 1](https://github.com/Consensys/teku/pull/10984#pullrequestreview-4771921203) - 2026-07-24
+* [Issue] [Report bids and preferences gossip validation messages to the corresponding rest APIs](https://github.com/Consensys/teku/issues/11008) - 2026-07-24
+* [Issue] [Re-process deferred proposer preferences](https://github.com/Consensys/teku/issues/11010) - 2026-07-24
 ## Q2 2026
 
 

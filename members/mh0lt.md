@@ -43,6 +43,14 @@ Team: Erigon
 * [Review] [Review on: exec: return the displaced write set when merging finalize writes](https://github.com/erigontech/erigon/pull/22579#pullrequestreview-4733828773) - 2026-07-20
 * [Issue] [aggregator: OpenFolder → closeWhatNotInList bypasses the visible-generation retirement path, races concurrent RO tx into nil *Decompressor](https://github.com/erigontech/erigon/issues/22646) - 2026-07-21
 * [Commit] [execution/state: cache-free parallel execution via versionMap unification (noMaterialize) + warm-read caching (#22409)](https://github.com/erigontech/erigon/commit/85a4d41108a86f51dd405836dedaf555804d1dc9) - 2026-07-22
+* [Pull Request] [execution/state: seed full code trio in BAL version-map pre-population](https://github.com/erigontech/erigon/pull/22718) - 2026-07-24
+* [Review] [Review on: execution/p2p: improve bal fetcher reliability](https://github.com/erigontech/erigon/pull/22715#pullrequestreview-4771991112) - 2026-07-24
+* [Review] [Review on: [DO-NOT-MERGE] execution: update EIP-7928 for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22555#pullrequestreview-4771922017) - 2026-07-24
+* [Review] [Review on: [DO-NOT-MERGE] execution: update EIP-8037 for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22548#pullrequestreview-4771921731) - 2026-07-24
+* [Review] [Review on: [DO-NOT-MERGE] execution: update EIP-2780 runtime gas](https://github.com/erigontech/erigon/pull/22537#pullrequestreview-4771921373) - 2026-07-24
+* [Review] [Review on: [DO-NOT-MERGE] execution: update EIP-8282 contracts for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22526#pullrequestreview-4771920964) - 2026-07-24
+* [Review] [Review on: [DO-NOT-MERGE] execution: update devnet fixtures to v7.2.0](https://github.com/erigontech/erigon/pull/22517#pullrequestreview-4771920573) - 2026-07-24
+* [Commit] [execution/state: seed full code trio in BAL version-map pre-population (#22718)](https://github.com/erigontech/erigon/commit/f15de4fbc44dfd8444e634211c23e0eba1fb9f33) - 2026-07-25
 ## Q2 2026
 
 

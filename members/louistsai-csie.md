@@ -54,6 +54,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [refactor(test-benchmark): centralize benchmark helper utilities (#3166)](https://github.com/ethereum/execution-specs/commit/c5043ec2ab1ba6008b874a2cc9b56499bd3d3e92) - 2026-07-21
 * [Commit] [refactor(test-benchmark): organize stateful benchmark folder structure (#3152)](https://github.com/ethereum/execution-specs/commit/0b1e6985e5afd8380194901b9ef9cc7ce4fd0835) - 2026-07-21
 * [Pull Request] [feat(test-benchmark): add stub account configuration, with state-actor example config](https://github.com/ethereum/execution-specs/pull/3203) - 2026-07-22
+* [Review] [Review on: chore(tests): improve EIP-7843 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3221#pullrequestreview-4770617468) - 2026-07-24
+* [Review] [Review on: chore(tests): improve EIP-7708 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3220#pullrequestreview-4770390216) - 2026-07-24
+* [Review] [Review on: refactor(test): Make max balance < 2^128 wei](https://github.com/ethereum/execution-specs/pull/3227#pullrequestreview-4770931311) - 2026-07-24
+* [Review] [Review on: feat(specs,amsterdam): fold transfer log cost into value transfer cost](https://github.com/ethereum/execution-specs/pull/3214#pullrequestreview-4771420673) - 2026-07-24
+* [Review] [Review on: feat(tests): add EIP-2681 nonce-reaching-max tests](https://github.com/ethereum/execution-specs/pull/3226#pullrequestreview-4770906980) - 2026-07-24
 ## Q2 2026
 
 

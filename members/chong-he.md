@@ -22,6 +22,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Add a bunch of semicolons to satisfy Nightly rustc](https://github.com/sigp/lighthouse/pull/9648#pullrequestreview-4710273147) - 2026-07-16
 * [Review] [Review on: construct single attestation directly in the VC](https://github.com/sigp/lighthouse/pull/9578#pullrequestreview-4750414984) - 2026-07-22
 * [Review] [Review on: construct single attestation directly in the VC](https://github.com/sigp/lighthouse/pull/9578#pullrequestreview-4769319157) - 2026-07-24
+* [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4770114849) - 2026-07-24
 ## Q2 2026
 
 

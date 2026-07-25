@@ -23,6 +23,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Remove several unnecessary AddressSelection warning suppressions](https://github.com/Consensys/teku/pull/10991) - 2026-07-21
 * [Commit] [Remove several unnecessary AddressSelection warning suppressions (#10991)](https://github.com/Consensys/teku/commit/1e8961b508547d3ceb77e7d5166615f85e074159) - 2026-07-22
 * [Commit] [Replace deprecated BeaconChainUtil in EpochTransitionBenchmark (#10992)](https://github.com/Consensys/teku/commit/78d9fe9faca1fe313eb7706f0f4cd811738f9a6f) - 2026-07-24
+* [Pull Request] [Remove deprecated BeaconChainUtil use from TransitionBenchmark](https://github.com/Consensys/teku/pull/11007) - 2026-07-24
+* [Pull Request] [Remove deprecated BeaconChainUtil use from ProfilingRun](https://github.com/Consensys/teku/pull/11006) - 2026-07-24
+* [Commit] [Remove deprecated BeaconChainUtil use from TransitionBenchmark (#11007)](https://github.com/Consensys/teku/commit/d96ccfc4673bb9155078394750b2c45011edfed9) - 2026-07-24
+* [Commit] [Remove deprecated BeaconChainUtil use from ProfilingRun (#11006)](https://github.com/Consensys/teku/commit/6cb3f8627eecb99ebac4a97ce7cba9ba759a1555) - 2026-07-24
 ## Q2 2026
 
 

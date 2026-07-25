@@ -116,6 +116,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: ci(zkevm): Update the workflow for glamsterdam-devnet-7](https://github.com/NethermindEth/nethermind/pull/12547#pullrequestreview-4763423599) - 2026-07-23
 * [Review] [Review on: fix(xdc): disable automatic ENR refresh over discv4](https://github.com/NethermindEth/nethermind/pull/12556#pullrequestreview-4763393091) - 2026-07-23
 * [Pull Request] [Handle zero terminal total difficulty as merge from genesis](https://github.com/NethermindEth/nethermind/pull/12557) - 2026-07-23
+* [Pull Request] [Cap collected base fee at the effective gas price paid in validation-off eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/12566) - 2026-07-24
+* [Review] [Review on: Cap collected base fee at the effective gas price paid in validation-off eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/12566#pullrequestreview-4774824626) - 2026-07-24
+* [Pull Request] [Accept 1,024 ETH body request hashes](https://github.com/NethermindEth/nethermind/pull/12567) - 2026-07-24
+* [Commit] [Optimize generated SSZ byte collection codecs (#12554)](https://github.com/NethermindEth/nethermind/commit/6e3c188d63129027c2e00f7f9beae0285e3d8cd5) - 2026-07-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -129,6 +133,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [p2p, engine: retry downloader and limit body batches](https://github.com/erigontech/erigon/pull/22679) - 2026-07-22
 
+* [Review] [Review on: p2p, engine: retry downloader and limit body batches](https://github.com/erigontech/erigon/pull/22679#pullrequestreview-4773924963) - 2026-07-24
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [Stabilize execution sync interoperability](https://github.com/ethereum/hive/pull/1584) - 2026-07-22
 * [Pull Request] [Balance Cancun blob-packing fixtures](https://github.com/ethereum/hive/pull/1581) - 2026-07-22

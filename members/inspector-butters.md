@@ -28,6 +28,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: progressive withdrawal root and light client changes](https://github.com/OffchainLabs/prysm/pull/16885#pullrequestreview-4763314469) - 2026-07-23
 * [Review] [Review on: progressive hashTreeRoot](https://github.com/OffchainLabs/prysm/pull/16861#pullrequestreview-4763269059) - 2026-07-23
 * [Commit] [wire progressive ssz functions into state fields (#16860)](https://github.com/OffchainLabs/prysm/commit/60ef0b8868a02672ed2baab1c2a977ae8c4f93da) - 2026-07-23
+* [Review] [Review on: reduce state diff cache memory usage](https://github.com/OffchainLabs/prysm/pull/17227#pullrequestreview-4771510209) - 2026-07-24
+* [Commit] [progressive hashTreeRoot (#16861)](https://github.com/OffchainLabs/prysm/commit/4d2fe4334e2735d485f3b6ac1ad9ab2c24d56fc3) - 2026-07-24
 ## Q2 2026
 
 

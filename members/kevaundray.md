@@ -33,6 +33,14 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: chore(do not merge): sketch pbt fork related changes needed for adding initial PBT](https://github.com/ethereum/execution-specs/pull/3216#pullrequestreview-4762875155) - 2026-07-23
 * [Pull Request] [feat: make state interface generic enough to accomodate other trie implementations](https://github.com/ethereum/execution-specs/pull/3218) - 2026-07-23
 * [Review] [Review on: feat: make state interface generic enough to accomodate other trie implementations](https://github.com/ethereum/execution-specs/pull/3218#pullrequestreview-4763184613) - 2026-07-23
+* [Pull Request] [fix: max balance < 2^128 in ported static tests](https://github.com/ethereum/execution-specs/pull/3230) - 2026-07-24
+* [Pull Request] [fix: skip ported static tests for amsterdam and later](https://github.com/ethereum/execution-specs/pull/3231) - 2026-07-24
+* [Pull Request] [fix(tests): search for parent fork that differs in gas costs from current fork](https://github.com/ethereum/execution-specs/pull/3228) - 2026-07-24
+* [Pull Request] [refactor(test): Make max balance < 2^128 wei](https://github.com/ethereum/execution-specs/pull/3227) - 2026-07-24
+* [Issue] [Tracking issue: 8297 encodes balance as U128](https://github.com/ethereum/execution-specs/issues/3229) - 2026-07-24
+* [Commit] [fix: skip ported static tests for amsterdam and later (#3231)](https://github.com/ethereum/execution-specs/commit/1ac58d7bce64c39731826d8ab0065187acbd4f94) - 2026-07-24
+* [Commit] [Open fix(tests): search for parent fork that differs in gas costs from current fork (#3228)](https://github.com/ethereum/execution-specs/commit/3c15c23e7de8f59ebb2a9d22ecc11f0c1f705a98) - 2026-07-24
+* [Commit] [refactor(test): Make max balance < 2^128 wei (#3227)](https://github.com/ethereum/execution-specs/commit/1646cf550bfa2b713acb1442551bf47664186285) - 2026-07-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716803581) - 2026-07-16
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737690816) - 2026-07-20

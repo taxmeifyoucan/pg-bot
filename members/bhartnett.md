@@ -50,6 +50,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: Disable leaves caches when compiling with threads disabled](https://github.com/status-im/nimbus-eth1/pull/4551#pullrequestreview-4766160418) - 2026-07-23
 * [Pull Request] [Use BLST pippenger for BLS MSM precompiles](https://github.com/status-im/nimbus-eth1/pull/4547) - 2026-07-23
 * [Commit] [Use BLST pippenger for BLS MSM precompiles (#4547)](https://github.com/status-im/nimbus-eth1/commit/50c6c6f4f98ec06dbc7fece699aa9dede86c7288) - 2026-07-23
+* [Pull Request] [Additional modexp precompile optimizations](https://github.com/status-im/nimbus-eth1/pull/4562) - 2026-07-24
+* [Pull Request] [Optimize BLS ADD precompiles - WIP](https://github.com/status-im/nimbus-eth1/pull/4555) - 2026-07-24
 ## Q2 2026
 
 

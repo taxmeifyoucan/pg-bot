@@ -50,6 +50,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Update EIP-8038: remove circular EIP-8037 dependency, reuse canonical gas symbols](https://github.com/ethereum/EIPs/pull/11927) - 2026-07-14
 * [Review] [Review on: CI: Grab latest version of eipw.](https://github.com/ethereum/EIPs/pull/11916#pullrequestreview-4738409650) - 2026-07-20
 * [Review] [Review on: Update EIP-7997: specify activation-block deployment and BAL recording](https://github.com/ethereum/EIPs/pull/11991#pullrequestreview-4763071046) - 2026-07-23
+* [Pull Request] [Update EIP-7997: simplify spec, clarify rationale](https://github.com/ethereum/EIPs/pull/12009) - 2026-07-24
+* [Review] [Review on: Update EIP-7997: simplify spec, clarify rationale](https://github.com/ethereum/EIPs/pull/12009#pullrequestreview-4770090289) - 2026-07-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03

@@ -141,6 +141,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: build(deps): bump svgo from 3.3.3 to 3.3.4 in /docs/site](https://github.com/erigontech/erigon/pull/22655#pullrequestreview-4751276403) - 2026-07-22
 * [Review] [Review on: build(deps): bump fast-uri from 3.1.2 to 3.1.4 in /docs/site](https://github.com/erigontech/erigon/pull/22656#pullrequestreview-4751273495) - 2026-07-22
 * [Review] [Review on: p2p: decode disconnect reason leniently and bound payload read](https://github.com/erigontech/erigon/pull/22647#pullrequestreview-4751187393) - 2026-07-22
+* [Review] [Review on: p2p, engine: retry downloader and limit body batches](https://github.com/erigontech/erigon/pull/22679#pullrequestreview-4773258905) - 2026-07-24
+* [Review] [Review on: execution: achieve 0 re-execs/aborts for BAL-driven parallel exec](https://github.com/erigontech/erigon/pull/22190#pullrequestreview-4775007002) - 2026-07-24
+* [Pull Request] [execution/bal: move BAL processing out of staged sync](https://github.com/erigontech/erigon/pull/22717) - 2026-07-24
+* [Pull Request] [execution/p2p: improve bal fetcher reliability](https://github.com/erigontech/erigon/pull/22715) - 2026-07-24
+* [Review] [Review on: execution/p2p: improve bal fetcher reliability](https://github.com/erigontech/erigon/pull/22715#pullrequestreview-4772027846) - 2026-07-24
+* [Review] [Review on: .github: fix startup_failure in cache-warming / sonar-branch-scan (reusable-workflow perms)](https://github.com/erigontech/erigon/pull/22714#pullrequestreview-4771778341) - 2026-07-24
+* [Review] [Review on: execution/engineapi: catch up from NewPayload when far behind the CL (fix #20419)](https://github.com/erigontech/erigon/pull/22707#pullrequestreview-4771189439) - 2026-07-24
+* [Review] [Review on: common: add AppendText (encoding.TextAppender) to hex value types](https://github.com/erigontech/erigon/pull/22695#pullrequestreview-4771273277) - 2026-07-24
+* [Commit] [execution/p2p: improve bal fetcher reliability (#22715)](https://github.com/erigontech/erigon/commit/8b704f81b1641b2c66a91330fe6eec5bd8de6022) - 2026-07-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

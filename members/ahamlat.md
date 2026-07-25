@@ -29,6 +29,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Add ADDMOD in EVMv2](https://github.com/besu-eth/besu/pull/10792#pullrequestreview-4765412247) - 2026-07-23
 * [Pull Request] [improve max open files derive mechanism](https://github.com/besu-eth/besu/pull/10857) - 2026-07-23
 * [Commit] [Optimize AccessLocationTracker (#10793)](https://github.com/besu-eth/besu/commit/42888dfb666e31f784c8ec53421a5a407401b3b6) - 2026-07-23
+* [Review] [Review on: Stream engine_getBlobsV2 and engine_getBlobsV3 responses](https://github.com/besu-eth/besu/pull/10617#pullrequestreview-4773579545) - 2026-07-24
+* [Commit] [improve max open files derive mechanism (#10857)](https://github.com/besu-eth/besu/commit/ba84f99a6c6a495f70a159d10c74c2a417e93a45) - 2026-07-24
 ## Q2 2026
 
 

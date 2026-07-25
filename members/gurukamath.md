@@ -41,6 +41,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(spec-tools): use testing pydantic models in t8n](https://github.com/ethereum/execution-specs/pull/2924#pullrequestreview-4764667863) - 2026-07-23
 * [Pull Request] [feat(specs,amsterdam): fold transfer log cost into value transfer cost](https://github.com/ethereum/execution-specs/pull/3214) - 2026-07-23
 * [Commit] [refactor(spec-tools): use testing pydantic models in t8n (#2924)](https://github.com/ethereum/execution-specs/commit/a2e59a6cfbd2de55ae3427673b2cd7db5a42ba38) - 2026-07-23
+* [Review] [Review on: tests(amsterdam): pin receipt status of top-frame OOG txs in multi-tx blocks](https://github.com/ethereum/execution-specs/pull/3232#pullrequestreview-4774117636) - 2026-07-24
 ## Q2 2026
 
 

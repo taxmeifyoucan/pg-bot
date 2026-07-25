@@ -43,6 +43,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Reduce Gloas get-payload timeout](https://github.com/OffchainLabs/prysm/pull/17212#pullrequestreview-4747191377) - 2026-07-21
 * [Pull Request] [Backfill completion fix](https://github.com/OffchainLabs/prysm/pull/17223) - 2026-07-22
 * [Review] [Review on: Only count actually invalid envelopes in envelope invalid metric](https://github.com/OffchainLabs/prysm/pull/17215#pullrequestreview-4761195210) - 2026-07-23
+* [Review] [Review on: Don't block gloas block import on missing data columns](https://github.com/OffchainLabs/prysm/pull/17232#pullrequestreview-4773943410) - 2026-07-24
+* [Pull Request] [Fix backfill retry panic when blob/column setup fails after block verification](https://github.com/OffchainLabs/prysm/pull/17235) - 2026-07-24
 ## Q2 2026
 
 
