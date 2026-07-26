@@ -11,6 +11,7 @@ Github: [@anacrolix](https://github.com/anacrolix)
 
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: enr: cut ENR decode allocations](https://github.com/erigontech/erigon/pull/22587#pullrequestreview-4741427012) - 2026-07-21
+* [Pull Request] [go.mod: bump anacrolix/torrent for further piece-state memory reduction](https://github.com/erigontech/erigon/pull/22731) - 2026-07-25
 ## Q2 2026
 
 

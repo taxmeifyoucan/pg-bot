@@ -52,6 +52,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Use BLST pippenger for BLS MSM precompiles (#4547)](https://github.com/status-im/nimbus-eth1/commit/50c6c6f4f98ec06dbc7fece699aa9dede86c7288) - 2026-07-23
 * [Pull Request] [Additional modexp precompile optimizations](https://github.com/status-im/nimbus-eth1/pull/4562) - 2026-07-24
 * [Pull Request] [Optimize BLS ADD precompiles - WIP](https://github.com/status-im/nimbus-eth1/pull/4555) - 2026-07-24
+* [Pull Request] [Batch bn256 pairing Miller loops with a single final exponentiation](https://github.com/status-im/nimbus-eth1/pull/4564) - 2026-07-25
+* [Commit] [Additional modexp precompile optimizations (#4562)](https://github.com/status-im/nimbus-eth1/commit/a8f02b0ce3ddf85672864b240f1644b1666c4839) - 2026-07-25
 ## Q2 2026
 
 

@@ -115,6 +115,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): add CREATE refund-vs-child-spill routing test (#3163)](https://github.com/ethereum/execution-specs/commit/86a66991ca525238d97d4448d70d75c56a622c02) - 2026-07-14
 * [Pull Request] [feat(tests): add EIP-2681 nonce-reaching-max tests](https://github.com/ethereum/execution-specs/pull/3226) - 2026-07-23
 * [Commit] [feat(tests): add EIP-2681 nonce-reaching-max regression tests (#3226)](https://github.com/ethereum/execution-specs/commit/04e7b0daf64c5490cf0c4a7c132d2ac0c4f5419a) - 2026-07-24
+* [Pull Request] [feat(tests): add ef_prefix deposit-halt mode to EIP-8037 state-gas test](https://github.com/ethereum/execution-specs/pull/3233) - 2026-07-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

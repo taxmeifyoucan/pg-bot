@@ -62,6 +62,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: emit head event whenever fork choice head changes](https://github.com/ChainSafe/lodestar/pull/9697#pullrequestreview-4769715506) - 2026-07-24
 * [Review] [Review on: feat: implement EIP-8333 boundary checkpoint roots](https://github.com/ChainSafe/lodestar/pull/9698#pullrequestreview-4769891298) - 2026-07-24
 * [Commit] [feat: implement forkchoice is_head_weak() and is_parent_strong() (#9654)](https://github.com/ChainSafe/lodestar/commit/bcf03e7395ccdb093773133e9a52b810a2e8475b) - 2026-07-24
+* [Review] [Review on: feat: implement EIP-8333 boundary checkpoint roots](https://github.com/ChainSafe/lodestar/pull/9698#pullrequestreview-4778719021) - 2026-07-25
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

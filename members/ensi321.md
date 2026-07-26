@@ -58,6 +58,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add fork choice compliance test for pre-gloas forks (#9670)](https://github.com/ChainSafe/lodestar/commit/4606097ec4ab07f0a4b1473975785cbf6255e5bc) - 2026-07-23
 * [Commit] [fix: tighten light-client zeroed-header checks to match spec (#9419)](https://github.com/ChainSafe/lodestar/commit/955b4c884a08654444bb6699fbe86ea18d26cf3a) - 2026-07-24
 * [Commit] [feat: implement non-eip-7688 changes in alpha.12 (#9606)](https://github.com/ChainSafe/lodestar/commit/3d99c9cb5c6ab2963467f7ccf6d049d486d87ccb) - 2026-07-24
+* [Pull Request] [fix: use payload request limit for envelope byPeer range quota](https://github.com/ChainSafe/lodestar/pull/9710) - 2026-07-25
+* [Pull Request] [fix: upgrade attestations to gloas types during block production](https://github.com/ChainSafe/lodestar/pull/9709) - 2026-07-25
+* [Pull Request] [test: compare state roots first in expectEqualBeaconState and bump gloas sanity timeout](https://github.com/ChainSafe/lodestar/pull/9711) - 2026-07-25
+* [Review] [Review on: fix: enable gloas fast_confirmation spec tests](https://github.com/ChainSafe/lodestar/pull/9704#pullrequestreview-4778424731) - 2026-07-25
+* [Review] [Review on: feat: classify batch processing failures](https://github.com/ChainSafe/lodestar/pull/9693#pullrequestreview-4778413158) - 2026-07-25
+* [Review] [Review on: feat: implement should_apply_proposer_boost for gloas](https://github.com/ChainSafe/lodestar/pull/9233#pullrequestreview-4778403206) - 2026-07-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

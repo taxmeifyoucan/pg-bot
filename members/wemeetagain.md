@@ -21,6 +21,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Config: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4687410678) - 2026-07-13
 * [Pull Request] [Update EIP-1: Add ethereum/sys-asm as an approved origin](https://github.com/ethereum/EIPs/pull/11986) - 2026-07-21
 * [Review] [Review on: Update EIP-8282: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4755085945) - 2026-07-22
+* [Commit] [Add EIP: Align Checkpoint with Epoch Boundary Block](https://github.com/ethereum/EIPs/commit/5e82ef62895121027a6c5f0c23276e1b2bed3071) - 2026-07-25
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
 
@@ -69,6 +70,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: docs: pr review policy and report](https://github.com/ChainSafe/lodestar/pull/9679#pullrequestreview-4774321060) - 2026-07-24
 * [Review] [Review on: chore: replace ts-node with tsx for running TypeScript](https://github.com/ChainSafe/lodestar/pull/9635#pullrequestreview-4774262282) - 2026-07-24
 * [Review] [Review on: fix: `getPoolAttestationsV2` should return an empty array when no attestations are available](https://github.com/ChainSafe/lodestar/pull/9675#pullrequestreview-4774128713) - 2026-07-24
+* [Review] [Review on: feat: add heze fork definition and boilerplate](https://github.com/ChainSafe/lodestar/pull/9505#pullrequestreview-4779705348) - 2026-07-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 

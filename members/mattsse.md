@@ -153,6 +153,8 @@ Team: Reth
 * [Review] [Review on: perf(provider): avoid range scan for first_transaction_num in remove_state_above](https://github.com/paradigmxyz/reth/pull/26484#pullrequestreview-4764398303) - 2026-07-23
 * [Commit] [feat(cli): add configurable dev defaults (#26488)](https://github.com/paradigmxyz/reth/commit/18b4b0f6289847c5336527229c00f22751a44a65) - 2026-07-23
 * [Review] [Review on: feat: enable txpool prewarm on nightly](https://github.com/paradigmxyz/reth/pull/26493#pullrequestreview-4772716641) - 2026-07-24
+* [Review] [Review on: feat(net): accept discv5 ENR bootnodes via CLI](https://github.com/paradigmxyz/reth/pull/26448#pullrequestreview-4779119239) - 2026-07-25
+* [Review] [Review on: feat(rpc): support network-specific log responses](https://github.com/paradigmxyz/reth/pull/26491#pullrequestreview-4779102671) - 2026-07-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

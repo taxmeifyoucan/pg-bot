@@ -490,6 +490,12 @@ Team: Erigon
 * [Commit] [common: add AppendText (encoding.TextAppender) to hex value types (#22695)](https://github.com/erigontech/erigon/commit/fdd61571bac9dcd4846030394aff78078a099750) - 2026-07-24
 * [Commit] [http: compression leaked C-allocated memory in sync.Pool (#22692)](https://github.com/erigontech/erigon/commit/dcce84355057a270c8176d41636855c5d8316ea8) - 2026-07-24
 * [Commit] [rpc/mcp, cmd/mcp: add streamable HTTP transport (#22624)](https://github.com/erigontech/erigon/commit/1d8cae9bd94591f82932f16b59c75af0be7f4409) - 2026-07-24
+* [Review] [Review on: [wip] execution: store EVM logs by value in IntraBlockState](https://github.com/erigontech/erigon/pull/22723#pullrequestreview-4778050082) - 2026-07-25
+* [Review] [Review on: all: enable gocritic rangeValCopy and regexpMust rules and fix all violations](https://github.com/erigontech/erigon/pull/22711#pullrequestreview-4777987738) - 2026-07-25
+* [Review] [Review on: db/snapshotsync: keep merge-spanning transaction segment](https://github.com/erigontech/erigon/pull/22709#pullrequestreview-4777996780) - 2026-07-25
+* [Review] [Review on: [wip] execution, rpc: make BlockContext.Rules a precomputed field](https://github.com/erigontech/erigon/pull/22720#pullrequestreview-4778064978) - 2026-07-25
+* [Review] [Review on: execution/bal: move BAL processing out of staged sync](https://github.com/erigontech/erigon/pull/22717#pullrequestreview-4778039661) - 2026-07-25
+* [Pull Request] [[r3.6] db/snapshotsync: keep merge-spanning transaction segment](https://github.com/erigontech/erigon/pull/22725) - 2026-07-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

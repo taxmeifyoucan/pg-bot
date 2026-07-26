@@ -126,6 +126,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Cap collected base fee at the effective gas price paid in validation-off eth_simulateV1](https://github.com/NethermindEth/nethermind/pull/12566#pullrequestreview-4777741918) - 2026-07-25
 * [Review] [Review on: Accept 1,024 ETH body request hashes](https://github.com/NethermindEth/nethermind/pull/12567#pullrequestreview-4777741008) - 2026-07-25
 * [Review] [Review on: ci: cut wasted CI spend on unchanged and perpetually-failing paths](https://github.com/NethermindEth/nethermind/pull/12563#pullrequestreview-4772630089) - 2026-07-24
+* [Pull Request] [Keep the speculative warm-cache handoff on low-tx blocks](https://github.com/NethermindEth/nethermind/pull/12570) - 2026-07-25
+* [Review] [Review on: Keep the speculative warm-cache handoff on low-tx blocks](https://github.com/NethermindEth/nethermind/pull/12570#pullrequestreview-4780422976) - 2026-07-25
+* [Pull Request] [Consolidate ChangeTypes](https://github.com/NethermindEth/nethermind/pull/12569) - 2026-07-25
+* [Pull Request] [perf(state): cut per-slot and per-account work on the storage commit path](https://github.com/NethermindEth/nethermind/pull/12568) - 2026-07-25
+* [Review] [Review on: Handle zero terminal total difficulty as merge from genesis](https://github.com/NethermindEth/nethermind/pull/12557#pullrequestreview-4778170550) - 2026-07-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

@@ -144,6 +144,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [docs: prefer targeted pre-push tests (#9643)](https://github.com/ChainSafe/lodestar/commit/f6c521a1236d2ae346edf44e11ec6a9eb8cb9051) - 2026-07-24
 * [Commit] [fix: emit head event whenever fork choice head changes (#9697)](https://github.com/ChainSafe/lodestar/commit/3c41f4be9a6114a4f12f50aef2921f76bf4c80b4) - 2026-07-24
 * [Commit] [fix: return 400 for gossip validation errors (#9699)](https://github.com/ChainSafe/lodestar/commit/845585420ef94afa0cd2ccd7d43ec5936ebc14e9) - 2026-07-24
+* [Review] [Review on: fix: use payload request limit for envelope byPeer range quota](https://github.com/ChainSafe/lodestar/pull/9710#pullrequestreview-4779066910) - 2026-07-25
+* [Review] [Review on: fix: upgrade attestations to gloas types during block production](https://github.com/ChainSafe/lodestar/pull/9709#pullrequestreview-4779060167) - 2026-07-25
+* [Review] [Review on: test: compare state roots first in expectEqualBeaconState and bump gloas sanity timeout](https://github.com/ChainSafe/lodestar/pull/9711#pullrequestreview-4779054494) - 2026-07-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
