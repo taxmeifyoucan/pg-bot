@@ -23,6 +23,13 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [README: document the no-free GC as the main known limitation](https://github.com/NethermindEth/bflat-riscv64/commit/a3fee6a0b5ba447af74cfdb24fa4bd956bc634cb) - 2026-07-02
 * [Commit] [docs: lead with what the pipeline produces over how it works](https://github.com/NethermindEth/bflat-riscv64/commit/2a1e01776cb24022cf7c97c409befd7b52eda82e) - 2026-07-02
 * [Commit] [docs: document zkVM codegen knobs, exit/exception paths, bump cell](https://github.com/NethermindEth/bflat-riscv64/commit/e6b38ca19ca2dff1643ff383cb5f01ada1e88916) - 2026-07-02
+* [Pull Request] [Hardening and cleanup](https://github.com/NethermindEth/bflat-riscv64/pull/32) - 2026-07-26
+* [Commit] [ExtLibResolver: resolve manifest paths against manifest dir](https://github.com/NethermindEth/bflat-riscv64/commit/3c0c09e0c89df45227760117ebcd62d1f7b221e6) - 2026-07-26
+* [Commit] [Merge pull request #32 from NethermindEth/feature/harden2](https://github.com/NethermindEth/bflat-riscv64/commit/1a6760343fe3adda01b8b5285545665e062f4a39) - 2026-07-26
+* [Commit] [Merge branch 'master' into feature/harden2](https://github.com/NethermindEth/bflat-riscv64/commit/a7ecfc154670bf0bcc16cc08095f307662305891) - 2026-07-26
+
+[nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
+* [Pull Request] [Minimal set of patches](https://github.com/NethermindEth/dotnet-riscv/pull/7) - 2026-07-26
 ## Q2 2026
 
 

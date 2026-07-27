@@ -19,6 +19,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Add `safe_execution_block_hash` property to FCR tests](https://github.com/ethereum/consensus-specs/pull/5449#pullrequestreview-4705859162) - 2026-07-15
 * [Review] [Review on: Add a subsection for IL satisfaction in optimistic.md](https://github.com/ethereum/consensus-specs/pull/5458#pullrequestreview-4736548668) - 2026-07-20
 * [Commit] [Add `safe_execution_block_hash` property to FCR tests (#5449)](https://github.com/ethereum/consensus-specs/commit/62d33b00b342e0c3d3921f776ac301035019df3c) - 2026-07-22
+* [Commit] [Backport `is_parent_strong` and `is_head_weak` changes to Phase0 (#5401)](https://github.com/ethereum/consensus-specs/commit/e656e15e19cd68f0ca8b87dbf086bc33de90af9c) - 2026-07-26
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Register `CN` for Caplin](https://github.com/ethereum/execution-apis/pull/844#pullrequestreview-4647866464) - 2026-07-07
 

@@ -47,6 +47,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Hedge slow requests in SimpleSidecarRetriever](https://github.com/Consensys/teku/pull/11011) - 2026-07-24
 * [Commit] [Fast Confirmation Rule Utilities part 1 (#10984)](https://github.com/Consensys/teku/commit/e2d8157418ca50e1ebce734c3bff6ecaca4e3eda) - 2026-07-24
 * [Commit] [Fixed Beacon REST API socket retention when clients cancel pending asynchronous requests (#11004)](https://github.com/Consensys/teku/commit/3a42a654135dcdce8da4a4837c9d04fb7165c495) - 2026-07-24
+* [Review] [Review on: add validation result descriptions](https://github.com/Consensys/teku/pull/11009#pullrequestreview-4781416837) - 2026-07-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

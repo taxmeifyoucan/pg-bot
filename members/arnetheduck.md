@@ -29,6 +29,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: optimize is_valid_light_client_header default/zero comparisons by 15%](https://github.com/status-im/nimbus-eth2/pull/8782#pullrequestreview-4727772040) - 2026-07-18
 * [Pull Request] [chronos: bump](https://github.com/status-im/nimbus-eth2/pull/8783) - 2026-07-18
 * [Pull Request] [Use $(CC) in makefile for light client tests](https://github.com/status-im/nimbus-eth2/pull/8794) - 2026-07-22
+* [Review] [Review on: Ensure sigsets are part of async env in batch validation](https://github.com/status-im/nimbus-eth2/pull/8804#pullrequestreview-4781265111) - 2026-07-26
 ## Q2 2026
 
 

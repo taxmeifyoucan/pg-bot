@@ -75,6 +75,16 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [state: Validate transaction chain id against the chain](https://github.com/ipsilon/evmone/pull/1610) - 2026-07-23
 * [Commit] [state: Don't create state entries for precompiles in access_account (#1606)](https://github.com/ipsilon/evmone/commit/26ddc83f6d3231d07050e37794a435eff4d0a859) - 2026-07-23
 * [Commit] [state: Validate transaction chain id against the chain (#1610)](https://github.com/ipsilon/evmone/commit/83d2c6fc91721904418045a79debb3b7a1e3e16c) - 2026-07-24
+* [Review] [Review on: Add transaction and RLP decoding to the state library](https://github.com/ipsilon/evmone/pull/1581#pullrequestreview-4782427144) - 2026-07-26
+* [Pull Request] [state: Recover the EIP-7702 authorization authority from the signature](https://github.com/ipsilon/evmone/pull/1611) - 2026-07-26
+* [Review] [Review on: state: Recover the EIP-7702 authorization authority from the signature](https://github.com/ipsilon/evmone/pull/1611#pullrequestreview-4782058295) - 2026-07-26
+* [Pull Request] [state: Move Authorization into its own header](https://github.com/ipsilon/evmone/pull/1613) - 2026-07-26
+* [Pull Request] [crypto: Add non-malleable secp256k1 ecrecover mode](https://github.com/ipsilon/evmone/pull/1612) - 2026-07-26
+* [Review] [Review on: crypto: Add non-malleable secp256k1 ecrecover mode](https://github.com/ipsilon/evmone/pull/1612#pullrequestreview-4781711773) - 2026-07-26
+* [Commit] [Add transaction and RLP decoding to the state library (#1581)](https://github.com/ipsilon/evmone/commit/7686df8de1218e8dc8486e5d560d133cf5ada7c6) - 2026-07-26
+* [Commit] [state: Recover the EIP-7702 authorization authority from the signature (#1611)](https://github.com/ipsilon/evmone/commit/0b7069a1e7daa108a29f64fd70e945e85a0d6572) - 2026-07-26
+* [Commit] [state: Move Authorization into its own header (#1613)](https://github.com/ipsilon/evmone/commit/3368397289c610efa9aee22aae1e4a903438a23e) - 2026-07-26
+* [Commit] [crypto: Add non-malleable secp256k1 ecrecover mode (#1612)](https://github.com/ipsilon/evmone/commit/bcefc4fa3ba14ac0a63c8f586f7871c07fd6996f) - 2026-07-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -116,6 +126,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): add EIP-2681 nonce-reaching-max tests](https://github.com/ethereum/execution-specs/pull/3226) - 2026-07-23
 * [Commit] [feat(tests): add EIP-2681 nonce-reaching-max regression tests (#3226)](https://github.com/ethereum/execution-specs/commit/04e7b0daf64c5490cf0c4a7c132d2ac0c4f5419a) - 2026-07-24
 * [Pull Request] [feat(tests): add ef_prefix deposit-halt mode to EIP-8037 state-gas test](https://github.com/ethereum/execution-specs/pull/3233) - 2026-07-25
+* [Pull Request] [feat(tests): cover ModExp gas before EIP-2565](https://github.com/ethereum/execution-specs/pull/3237) - 2026-07-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

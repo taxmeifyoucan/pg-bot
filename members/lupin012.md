@@ -75,6 +75,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [node, rpc: event-driven eth_subscribe("syncing") (#22570)](https://github.com/erigontech/erigon/commit/7e7aaf903ad05541aee21c215a11ad40587413e2) - 2026-07-23
 * [Pull Request] [node/shards, db/downloader, execution/stagedsync: snapshot download progress in eth_syncing](https://github.com/erigontech/erigon/pull/22716) - 2026-07-24
 * [Commit] [rpc: extract api config pkg more (#22680)](https://github.com/erigontech/erigon/commit/df89565862016dee688fca7dad0b0e76e0495940) - 2026-07-24
+* [Pull Request] [rpc: add ok to TxnByIdxInBlock](https://github.com/erigontech/erigon/pull/22745) - 2026-07-26
+* [Pull Request] [rpc: TraceConfig limit in debug_trace* opcode logger](https://github.com/erigontech/erigon/pull/22751) - 2026-07-26
+* [Pull Request] [rpc: add unit tests for testing_buildBlockV1](https://github.com/erigontech/erigon/pull/22747) - 2026-07-26
+* [Commit] [rpc: add unit tests for testing_buildBlockV1 (#22747)](https://github.com/erigontech/erigon/commit/effcf7bac5de13929afb25f6697c8ddf9225b8ce) - 2026-07-26
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

@@ -31,6 +31,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Commit] [Optimize AccessLocationTracker (#10793)](https://github.com/besu-eth/besu/commit/42888dfb666e31f784c8ec53421a5a407401b3b6) - 2026-07-23
 * [Review] [Review on: Stream engine_getBlobsV2 and engine_getBlobsV3 responses](https://github.com/besu-eth/besu/pull/10617#pullrequestreview-4773579545) - 2026-07-24
 * [Commit] [improve max open files derive mechanism (#10857)](https://github.com/besu-eth/besu/commit/ba84f99a6c6a495f70a159d10c74c2a417e93a45) - 2026-07-24
+* [Review] [Review on: Stateroot modification glamsterdam devnet 7](https://github.com/besu-eth/besu/pull/10869#pullrequestreview-4782016001) - 2026-07-26
 ## Q2 2026
 
 

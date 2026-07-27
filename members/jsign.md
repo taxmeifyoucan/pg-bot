@@ -20,6 +20,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [fix(tests): update withdrawal and consolidation tests to use Header for requests verification](https://github.com/ethereum/execution-specs/pull/3235) - 2026-07-26
 * [Review] [Review on: fix(tests): update withdrawal and consolidation tests to use Header for requests verification](https://github.com/ethereum/execution-specs/pull/3235#pullrequestreview-4780517722) - 2026-07-26
 * [Pull Request] [feat(zkevm): add blob_hashes test coverage](https://github.com/ethereum/execution-specs/pull/3234) - 2026-07-25
+* [Commit] [fix(tests): update withdrawal and consolidation tests to use Header for requests verification (#3235)](https://github.com/ethereum/execution-specs/commit/00bd585693f092e2cf7cc82032ec421abefc30d3) - 2026-07-26
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12

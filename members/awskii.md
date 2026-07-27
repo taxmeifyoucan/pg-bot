@@ -153,6 +153,7 @@ Team: Erigon
 * [Commit] [[r3.6] db: enable plain commitment (references off) + 3.6 webseeds and branch (#21376)](https://github.com/erigontech/erigon/commit/ff7b1c96c83a55ad6e4b49e2cf12a85182893fe6) - 2026-07-13
 * [Commit] [cl/antiquary: prune caplin state indexing DB after freezing to snapshots (#22396)](https://github.com/erigontech/erigon/commit/467aaebf980aeb2f25c691b88bd4de6d2f027729) - 2026-07-13
 * [Pull Request] [rpc/jsonrpc, node, execution/commitment: serve debug_executionWitness on minimal nodes via head-capture](https://github.com/erigontech/erigon/pull/22663) - 2026-07-22
+* [Pull Request] [cl: resume Caplin from a local finalized state on restart](https://github.com/erigontech/erigon/pull/22746) - 2026-07-26
 ## Q2 2026
 
 

@@ -35,6 +35,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: rpc/mcp: declare readOnlyHint on every tool](https://github.com/erigontech/erigon/pull/22626#pullrequestreview-4754031382) - 2026-07-22
 * [Review] [Review on: [r3.6] minimal node: download not enough logIndex files](https://github.com/erigontech/erigon/pull/22673#pullrequestreview-4752725942) - 2026-07-22
 * [Review] [Review on: rlp: fast-path slice-backed streams in readFull, readByte and ViewBytes](https://github.com/erigontech/erigon/pull/22595#pullrequestreview-4762888729) - 2026-07-23
+* [Review] [Review on: [r3.6] db/snapshotsync: keep merge-spanning transaction segment](https://github.com/erigontech/erigon/pull/22725#pullrequestreview-4782275099) - 2026-07-26
+* [Review] [Review on: common: make common.Copy a func and inline it away](https://github.com/erigontech/erigon/pull/22741#pullrequestreview-4782274857) - 2026-07-26
 ## Q2 2026
 
 

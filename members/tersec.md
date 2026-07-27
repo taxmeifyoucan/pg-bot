@@ -95,6 +95,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Revert "reduce open dependabot pull requests limit to 2"](https://github.com/status-im/nimbus-eth1/pull/4565) - 2026-07-26
 * [Commit] [Revert "reduce open dependabot pull requests limit to 2 (#4505)" (#4565)](https://github.com/status-im/nimbus-eth1/commit/53a57a69d0d94ede9c7b33738c9aaeebbc3770d9) - 2026-07-26
 * [Commit] [reduce open dependabot pull requests limit to 2 (#4505)](https://github.com/status-im/nimbus-eth1/commit/91fd810a973d07dfc82eaa446dea5e80651465bd) - 2026-07-26
+* [Review] [Review on: proxy: EIP-2935 anchor jump](https://github.com/status-im/nimbus-eth1/pull/4530#pullrequestreview-4781821867) - 2026-07-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

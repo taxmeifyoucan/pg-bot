@@ -496,6 +496,29 @@ Team: Erigon
 * [Review] [Review on: [wip] execution, rpc: make BlockContext.Rules a precomputed field](https://github.com/erigontech/erigon/pull/22720#pullrequestreview-4778064978) - 2026-07-25
 * [Review] [Review on: execution/bal: move BAL processing out of staged sync](https://github.com/erigontech/erigon/pull/22717#pullrequestreview-4778039661) - 2026-07-25
 * [Pull Request] [[r3.6] db/snapshotsync: keep merge-spanning transaction segment](https://github.com/erigontech/erigon/pull/22725) - 2026-07-25
+* [Review] [Review on: rpc: add ok to TxnByIdxInBlock](https://github.com/erigontech/erigon/pull/22745#pullrequestreview-4783213353) - 2026-07-27
+* [Review] [Review on: cmd/rpcdaemon/graphql: resolve miner, createdContract and log.account fields](https://github.com/erigontech/erigon/pull/22710#pullrequestreview-4781440137) - 2026-07-26
+* [Pull Request] [execution/state: move the GetState trace into readState so GetState inlines](https://github.com/erigontech/erigon/pull/22750) - 2026-07-26
+* [Pull Request] [ibs: add LogsRlpHash() method - to reduce amount of logs copy in unit-tests](https://github.com/erigontech/erigon/pull/22737) - 2026-07-26
+* [Pull Request] [execution/state: memoize the access-list slot set per address](https://github.com/erigontech/erigon/pull/22742) - 2026-07-26
+* [Review] [Review on: rpc: TraceConfig limit in debug_trace* opcode logger](https://github.com/erigontech/erigon/pull/22751#pullrequestreview-4783181826) - 2026-07-27
+* [Pull Request] [common: make common.Copy a func and inline it away](https://github.com/erigontech/erigon/pull/22741) - 2026-07-26
+* [Review] [Review on: rpc: add unit tests for testing_buildBlockV1](https://github.com/erigontech/erigon/pull/22747#pullrequestreview-4782035861) - 2026-07-26
+* [Pull Request] [execution/vm: memoize InternKey by stack word in a per-EVM cache](https://github.com/erigontech/erigon/pull/22748) - 2026-07-26
+* [Pull Request] [execution/vm: keep disabled tracing out of the interpreter hot loop](https://github.com/erigontech/erigon/pull/22743) - 2026-07-26
+* [Pull Request] [execution/vm: key the top-of-stack intern memo on the stack word](https://github.com/erigontech/erigon/pull/22744) - 2026-07-26
+* [Pull Request] [vm: pointer-based stack pops + pop2uint64 for offset operands](https://github.com/erigontech/erigon/pull/22740) - 2026-07-26
+* [Review] [Review on: vm: pointer-based stack pops + pop2uint64 for offset operands](https://github.com/erigontech/erigon/pull/22740#pullrequestreview-4781290127) - 2026-07-26
+* [Review] [Review on: [wip] execution, rpc: make BlockContext.Rules a precomputed field](https://github.com/erigontech/erigon/pull/22720#pullrequestreview-4781436589) - 2026-07-26
+* [Pull Request] [exec: remove journal.append, drop redundant journal clears](https://github.com/erigontech/erigon/pull/22739) - 2026-07-26
+* [Review] [Review on: exec: remove journal.append, drop redundant journal clears](https://github.com/erigontech/erigon/pull/22739#pullrequestreview-4781292794) - 2026-07-26
+* [Review] [Review on: build(deps): bump github.com/google/cel-go from 0.26.1 to 0.29.0](https://github.com/erigontech/erigon/pull/22734#pullrequestreview-4780903186) - 2026-07-26
+* [Pull Request] [[wip] execution/types, rpc, node: types.Logs from []*Log to []Log](https://github.com/erigontech/erigon/pull/22738) - 2026-07-26
+* [Review] [Review on: build(deps): bump postcss from 8.5.15 to 8.5.23 in /docs/site](https://github.com/erigontech/erigon/pull/22736#pullrequestreview-4780902733) - 2026-07-26
+* [Review] [Review on: go.mod: bump anacrolix/torrent for further piece-state memory reduction](https://github.com/erigontech/erigon/pull/22731#pullrequestreview-4780905628) - 2026-07-26
+* [Review] [Review on: build(deps): bump github.com/quic-go/webtransport-go from 0.10.0 to 0.11.1](https://github.com/erigontech/erigon/pull/22735#pullrequestreview-4780902925) - 2026-07-26
+* [Issue] [gevm benches - to get erigon closer](https://github.com/erigontech/erigon/issues/22749) - 2026-07-26
+* [Commit] [common: make common.Copy a func and inline it away (#22741)](https://github.com/erigontech/erigon/commit/bafdb4d5cfa5e91855ddbec4f1878c42d791dcbe) - 2026-07-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

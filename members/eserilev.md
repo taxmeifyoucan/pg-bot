@@ -51,6 +51,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Add proposer lookahead tests for slashed proposers at the Gloas fork boundary](https://github.com/sigp/lighthouse/pull/9674#pullrequestreview-4762254794) - 2026-07-23
 * [Issue] [PTC voting incorrect when payload not received but blob data available](https://github.com/sigp/lighthouse/issues/9679) - 2026-07-23
 * [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4779984904) - 2026-07-25
+* [Pull Request] [Add fork choice consistency checks to the test harness](https://github.com/sigp/lighthouse/pull/9693) - 2026-07-26
+* [Pull Request] [Cache slashed justified balances](https://github.com/sigp/lighthouse/pull/9692) - 2026-07-26
+* [Issue] [`BalancesCache` can diverge from justified checkpoint state balances](https://github.com/sigp/lighthouse/issues/9691) - 2026-07-26
 ## Q2 2026
 
 

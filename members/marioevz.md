@@ -50,6 +50,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [feat(tests): Prepare a 8,192 validator deposit test](https://github.com/ethereum/execution-specs/issues/3204) - 2026-07-22
 * [Review] [Review on: refactor(spec-tools): use testing pydantic models in t8n](https://github.com/ethereum/execution-specs/pull/2924#pullrequestreview-4763776279) - 2026-07-23
 * [Pull Request] [fix(tests): enhance & un-skip Amsterdam ported static tests (Pt. 1)](https://github.com/ethereum/execution-specs/pull/3215) - 2026-07-23
+* [Review] [Review on: fix(tests): update withdrawal and consolidation tests to use Header for requests verification](https://github.com/ethereum/execution-specs/pull/3235#pullrequestreview-4781496244) - 2026-07-26
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

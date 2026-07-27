@@ -106,6 +106,14 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Fix website navigation nits (#5477)](https://github.com/ethereum/consensus-specs/commit/1acb6ad1e371964c94db7db676100a690ee4a376) - 2026-07-25
 * [Commit] [Fix broken links (#5475)](https://github.com/ethereum/consensus-specs/commit/b60e22c26565a89bca6c99bd6290bb096ef15a5d) - 2026-07-25
 * [Commit] [Remove links that do not resolve on the documentation site (#5476)](https://github.com/ethereum/consensus-specs/commit/ca29180e9d6b8d9123ac7568bf5fe59d101dc2a6) - 2026-07-25
+* [Review] [Review on: Backport `is_parent_strong` and `is_head_weak` changes to Phase0](https://github.com/ethereum/consensus-specs/pull/5401#pullrequestreview-4782759606) - 2026-07-26
+* [Review] [Review on: Update dependency mdformat-gfm-alerts to v2.1.0](https://github.com/ethereum/consensus-specs/pull/5481#pullrequestreview-4782634380) - 2026-07-26
+* [Review] [Review on: Update dependency ruff-md to v0.16.0](https://github.com/ethereum/consensus-specs/pull/5482#pullrequestreview-4782621213) - 2026-07-26
+* [Review] [Review on: Update release-drafter/release-drafter action to v7.6.0](https://github.com/ethereum/consensus-specs/pull/5483#pullrequestreview-4782608418) - 2026-07-26
+* [Review] [Review on: Update astral-sh/setup-uv action to v9](https://github.com/ethereum/consensus-specs/pull/5486#pullrequestreview-4782546941) - 2026-07-26
+* [Review] [Review on: Update actions/setup-python action to v7](https://github.com/ethereum/consensus-specs/pull/5485#pullrequestreview-4782545203) - 2026-07-26
+* [Review] [Review on: Update actions/labeler action to v7](https://github.com/ethereum/consensus-specs/pull/5484#pullrequestreview-4782543623) - 2026-07-26
+* [Review] [Review on: Update actions/checkout action to v7.0.1](https://github.com/ethereum/consensus-specs/pull/5480#pullrequestreview-4782534424) - 2026-07-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

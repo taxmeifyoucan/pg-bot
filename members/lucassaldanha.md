@@ -8,6 +8,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 
 ## Contributions
 
+## Q3 2026
+
+
+[libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
+* [Review] [Review on: Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505#pullrequestreview-4782633302) - 2026-07-26
 ## Q2 2026
 
 

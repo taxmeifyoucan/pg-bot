@@ -64,6 +64,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Issue] [syncer stalls due to el_sync](https://github.com/status-im/nimbus-eth1/issues/4537) - 2026-07-22
 * [Pull Request] [fix: syncer stalling from el_sync](https://github.com/status-im/nimbus-eth1/pull/4563) - 2026-07-25
 * [Commit] [outbound tx propagation (#4487)](https://github.com/status-im/nimbus-eth1/commit/0a3f881cf000c2d8b37679f6d96b40a3c62e918b) - 2026-07-25
+* [Pull Request] [optimize bls12 pairing check](https://github.com/status-im/nimbus-eth1/pull/4567) - 2026-07-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22

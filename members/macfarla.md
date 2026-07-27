@@ -69,6 +69,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Fix sync target retry deadlock when sole peer's request capacity is saturated](https://github.com/besu-eth/besu/pull/10865#pullrequestreview-4777044540) - 2026-07-24
 * [Review] [Review on: deprecate unused CLI option](https://github.com/besu-eth/besu/pull/10863#pullrequestreview-4777215893) - 2026-07-24
 * [Review] [Review on: feat(core): support explicit operation tracer in block processing](https://github.com/besu-eth/besu/pull/10862#pullrequestreview-4769884625) - 2026-07-24
+* [Review] [Review on: Update bootnodes list for testnets](https://github.com/besu-eth/besu/pull/10870#pullrequestreview-4782964146) - 2026-07-27
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

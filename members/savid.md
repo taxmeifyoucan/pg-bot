@@ -16,6 +16,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Review] [Review on: feat: Glamsterdam (gloas) support — fork registry, ePBS slot phases, payload lifecycle](https://github.com/ethpandaops/lab/pull/444#pullrequestreview-4719637144) - 2026-07-17
+
+[ethpandaops/xatu](https://github.com/ethpandaops/xatu)
+* [Pull Request] [fix(clickhouse): nullable builder_index and storage_key for Gloas ePBS tables](https://github.com/ethpandaops/xatu/pull/879) - 2026-07-27
 ## Q2 2026
 
 

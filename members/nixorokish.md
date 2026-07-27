@@ -29,6 +29,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Pull Request] [Update EIP-8081: PFI EIP-8268](https://github.com/ethereum/EIPs/pull/11977) - 2026-07-20
 * [Review] [Review on: Update EIP-8081: Propose EIP-2488 and EIP-7645 for inclusion](https://github.com/ethereum/EIPs/pull/11793#pullrequestreview-4738571610) - 2026-07-20
 * [Commit] [Update EIP-8081: PFI EIP-8268](https://github.com/ethereum/EIPs/commit/625ec7821972c0888b03307e8c76b1963bc8a63e) - 2026-07-20
+* [Review] [Review on: Update EIP-8081: Propose EIP-8015 for inclusion](https://github.com/ethereum/EIPs/pull/11914#pullrequestreview-4781609326) - 2026-07-26
 ## Q2 2026
 
 
