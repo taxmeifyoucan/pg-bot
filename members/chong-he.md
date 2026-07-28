@@ -24,6 +24,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: construct single attestation directly in the VC](https://github.com/sigp/lighthouse/pull/9578#pullrequestreview-4769319157) - 2026-07-24
 * [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4770114849) - 2026-07-24
 * [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4783180718) - 2026-07-27
+* [Pull Request] [Update blobs storage requirement in Lighthouse book](https://github.com/sigp/lighthouse/pull/9694) - 2026-07-27
 ## Q2 2026
 
 

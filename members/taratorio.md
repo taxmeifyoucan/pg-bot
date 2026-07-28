@@ -150,6 +150,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/engineapi: catch up from NewPayload when far behind the CL (fix #20419)](https://github.com/erigontech/erigon/pull/22707#pullrequestreview-4771189439) - 2026-07-24
 * [Review] [Review on: common: add AppendText (encoding.TextAppender) to hex value types](https://github.com/erigontech/erigon/pull/22695#pullrequestreview-4771273277) - 2026-07-24
 * [Commit] [execution/p2p: improve bal fetcher reliability (#22715)](https://github.com/erigontech/erigon/commit/8b704f81b1641b2c66a91330fe6eec5bd8de6022) - 2026-07-24
+* [Commit] [execution: update EIP-8282 contracts for glamsterdam-devnet-7 (#22526)](https://github.com/erigontech/erigon/commit/0f4b043cf2960ce81f3572e13f62856dc9cd7614) - 2026-07-27
+* [Commit] [[DO-NOT-MERGE] execution: update devnet fixtures to v7.2.0 (#22517)](https://github.com/erigontech/erigon/commit/c5b69709746c972dedf2ac0ad58bc88cd8f74a88) - 2026-07-27
+* [Commit] [execution/bal: move BAL processing out of staged sync (#22717)](https://github.com/erigontech/erigon/commit/6de093f0a57e89f0fdf74489d349bb2993fdaf2a) - 2026-07-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

@@ -50,6 +50,7 @@ Team: Geth
 * [Commit] [all: add bogota fork to config (#34057)](https://github.com/ethereum/go-ethereum/commit/0d1cf34ec66928a2f64ba0ae72f7b272aa2458c0) - 2026-07-14
 * [Review] [Review on: core: rolling history expiry](https://github.com/ethereum/go-ethereum/pull/34104#pullrequestreview-4701405273) - 2026-07-15
 
+* [Review] [Review on: version: release v1.17.5](https://github.com/ethereum/go-ethereum/pull/35421#pullrequestreview-4783275640) - 2026-07-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4744394254) - 2026-07-21
 

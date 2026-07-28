@@ -90,6 +90,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Warm read-only accounts in HintBal phase 1 on the dedicated WarmReadPool (#12468)](https://github.com/NethermindEth/nethermind/commit/d83dcd69f18f5e4954790b218af9d83bca9c03c1) - 2026-07-22
 * [Pull Request] [Don't treat configured FinalTotalDifficulty as TTD reached](https://github.com/NethermindEth/nethermind/pull/12555) - 2026-07-23
 * [Pull Request] [fix(persistence): halfpath shutdown crash — skip disposed registrants in StatePersistenceBarrier](https://github.com/NethermindEth/nethermind/pull/12553) - 2026-07-23
+* [Pull Request] [perf(evm): raise eth_call instruction-stream retained-size cap (256 → 512 KiB)](https://github.com/NethermindEth/nethermind/pull/12574) - 2026-07-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

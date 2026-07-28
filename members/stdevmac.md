@@ -28,6 +28,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [feat(core): responsive startup logo with adaptive layout (#11413)](https://github.com/NethermindEth/nethermind/commit/b8ea9d5eac2a4a7c85ac5a24da98de28869a1aa2) - 2026-07-21
 * [Pull Request] [ci: cut wasted CI spend on unchanged and perpetually-failing paths](https://github.com/NethermindEth/nethermind/pull/12563) - 2026-07-24
 * [Review] [Review on: ci: cut wasted CI spend on unchanged and perpetually-failing paths](https://github.com/NethermindEth/nethermind/pull/12563#pullrequestreview-4769983148) - 2026-07-24
+* [Review] [Review on: ci: cut wasted CI spend on unchanged and perpetually-failing paths](https://github.com/NethermindEth/nethermind/pull/12563#pullrequestreview-4789726032) - 2026-07-27
+* [Commit] [ci: cut wasted CI spend on unchanged and perpetually-failing paths (#12563)](https://github.com/NethermindEth/nethermind/commit/1601d6dde26f54c589212dafbbef9238df3e88ca) - 2026-07-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

@@ -114,6 +114,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update actions/setup-python action to v7](https://github.com/ethereum/consensus-specs/pull/5485#pullrequestreview-4782545203) - 2026-07-26
 * [Review] [Review on: Update actions/labeler action to v7](https://github.com/ethereum/consensus-specs/pull/5484#pullrequestreview-4782543623) - 2026-07-26
 * [Review] [Review on: Update actions/checkout action to v7.0.1](https://github.com/ethereum/consensus-specs/pull/5480#pullrequestreview-4782534424) - 2026-07-26
+* [Pull Request] [Use better types for constants/configs/presets](https://github.com/ethereum/consensus-specs/pull/5488) - 2026-07-28
+* [Pull Request] [Save signed inclusion lists in `InclusionListStore`](https://github.com/ethereum/consensus-specs/pull/5487) - 2026-07-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -145,6 +147,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #88, July 20, 2026](https://github.com/ethereum/pm/issues/2162) - 2026-07-16
+* [Issue] [All Core Devs - Testing (ACDT) #90, August 3, 2026](https://github.com/ethereum/pm/issues/2174) - 2026-07-27
 ## Q2 2026
 
 

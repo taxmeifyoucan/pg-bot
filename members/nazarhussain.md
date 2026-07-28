@@ -32,6 +32,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor(bindings): rename blst Lifecycle to State (#516)](https://github.com/ChainSafe/lodestar-z/commit/0a9c179af299a5408d837e0347e43a1e6e1e76ca) - 2026-07-16
 * [Review] [Review on: fix(bindings): validate class types before unwrap](https://github.com/ChainSafe/lodestar-z/pull/514#pullrequestreview-4719813848) - 2026-07-17
 * [Review] [Review on: fix(bindings): roll back partial N-API initialization](https://github.com/ChainSafe/lodestar-z/pull/491#pullrequestreview-4741058799) - 2026-07-21
+* [Commit] [refactor(bindings): use zapi js.io() instead of local io module (#469)](https://github.com/ChainSafe/lodestar-z/commit/2b34cc02fb1df10af308196c552a4965937e66c4) - 2026-07-27
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07
@@ -48,6 +49,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: enable gloas fast_confirmation spec tests](https://github.com/ChainSafe/lodestar/pull/9704#pullrequestreview-4772665030) - 2026-07-24
 * [Commit] [feat: disable fast confirmation rule while syncing (#9681)](https://github.com/ChainSafe/lodestar/commit/a926f1e8e2f2513bf843a734ca61c62ae91a2403) - 2026-07-24
 * [Commit] [chore: replace ts-node with tsx for running TypeScript (#9635)](https://github.com/ChainSafe/lodestar/commit/b98df0df3d8aa78f110d8e0c8eefa74ee065eec6) - 2026-07-24
+* [Commit] [test: enable gloas fast_confirmation spec tests (#9704)](https://github.com/ChainSafe/lodestar/commit/7a06691aa8a226477f129bb415a59f60ef287db0) - 2026-07-27
 ## Q2 2026
 
 

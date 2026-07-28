@@ -13,6 +13,8 @@ Team: [consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%
 
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505) - 2026-07-23
+* [Pull Request] [Improve Gossip backpressure ](https://github.com/libp2p/jvm-libp2p/pull/506) - 2026-07-27
+* [Commit] [Support backpressure in P2PService (Gossipsub base class) (#505)](https://github.com/libp2p/jvm-libp2p/commit/cdfd24d1537e694f4470febb643de1b65bc33791) - 2026-07-27
 ## Q2 2026
 
 

@@ -15,6 +15,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Commit] [Snap-sync: recover when a former pivot (now a download anchor) is reorged (#10647)](https://github.com/besu-eth/besu/commit/2acbdc3417ae9956a9833f815d03af6cdfd3bc8b) - 2026-07-22
 * [Pull Request] [deprecate unused CLI option](https://github.com/besu-eth/besu/pull/10863) - 2026-07-24
 * [Review] [Review on: fix: log peer-caused msg errors at DEBUG instead of ERROR in ApiHandler](https://github.com/besu-eth/besu/pull/10872#pullrequestreview-4783192078) - 2026-07-27
+* [Pull Request] [Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874) - 2026-07-27
+* [Commit] [deprecate unused CLI option (#10863)](https://github.com/besu-eth/besu/commit/403764493ec6db9235bde7c20370a91d140eb258) - 2026-07-27
 ## Q2 2026
 
 

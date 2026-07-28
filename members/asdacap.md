@@ -179,6 +179,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Lead preimage flat DB storage keys with the full address](https://github.com/NethermindEth/nethermind/pull/12543#pullrequestreview-4763346176) - 2026-07-23
 * [Commit] [Lead preimage flat DB storage keys with the full address (#12543)](https://github.com/NethermindEth/nethermind/commit/aac9c9cfd82cacf9ac752b7effbee7be85600361) - 2026-07-23
 * [Pull Request] [Batch RocksDB full enumerations](https://github.com/NethermindEth/nethermind/pull/12564) - 2026-07-24
+* [Pull Request] [[PROTOTYPE] EIP-8297 partitioned binary tree (PBT) state backend](https://github.com/NethermindEth/nethermind/pull/12573) - 2026-07-27
+* [Review] [Review on: perf(flatdb): paced GC + gen0 fission to cut read-path GC pauses at gigagas scale](https://github.com/NethermindEth/nethermind/pull/12402#pullrequestreview-4787009033) - 2026-07-27
+* [Commit] [Batch RocksDB full enumerations (#12564)](https://github.com/NethermindEth/nethermind/commit/a335421325a8ce99ef9b3aeb7e1dc30a80c25d08) - 2026-07-27
 ## Q2 2026
 
 

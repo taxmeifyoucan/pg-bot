@@ -27,6 +27,9 @@ Team: Erigon
 * [Commit] [qa-tests: update test report script to include additional workflows (#22635)](https://github.com/erigontech/erigon/commit/f2e0a392cc5448289a23caa28895c43268b6a3c1) - 2026-07-21
 * [Issue] [Metric exec_on_db above threshold on some executions on Gnosis network](https://github.com/erigontech/erigon/issues/22675) - 2026-07-22
 * [Commit] [qa-tests: clarify node type in the sync-from-scratch test (#22636)](https://github.com/erigontech/erigon/commit/ed752fad4b00e90e6fd40ad4d240d9b69f1c2f2b) - 2026-07-23
+* [Pull Request] [qa-tests: small test name fixes for a better visualisation inside the test report](https://github.com/erigontech/erigon/pull/22770) - 2026-07-27
+* [Pull Request] [qa-tests: add Claude skill to better analyse QA test results](https://github.com/erigontech/erigon/pull/22769) - 2026-07-27
+* [Review] [Review on: docs: drop baseUrl from docs/site tsconfig so TypeScript 7 can land](https://github.com/erigontech/erigon/pull/22764#pullrequestreview-4787011850) - 2026-07-27
 ## Q2 2026
 
 

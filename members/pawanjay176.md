@@ -29,6 +29,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Avoid taking write lock when shuffling is cached](https://github.com/sigp/lighthouse/pull/9615#pullrequestreview-4738518659) - 2026-07-20
 * [Review] [Review on: Back merge 8.2.1](https://github.com/sigp/lighthouse/pull/9676#pullrequestreview-4749708356) - 2026-07-21
 * [Review] [Review on: Ensure we always use fcu v4 post gloas](https://github.com/sigp/lighthouse/pull/9685#pullrequestreview-4768983040) - 2026-07-23
+* [Review] [Review on: DataColumnsByRange decodes pre-fork sidecar with wrong fork at a skip-slot boundary](https://github.com/sigp/lighthouse/pull/9640#pullrequestreview-4791844977) - 2026-07-27
+* [Review] [Review on: Update blobs storage requirement in Lighthouse book](https://github.com/sigp/lighthouse/pull/9694#pullrequestreview-4791871630) - 2026-07-27
+* [Review] [Review on: Skip zero ports when building dial multiaddrs](https://github.com/sigp/lighthouse/pull/9580#pullrequestreview-4791738697) - 2026-07-27
 ## Q2 2026
 
 

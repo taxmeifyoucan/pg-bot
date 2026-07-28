@@ -28,6 +28,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [testing CI, do not merge](https://github.com/besu-eth/besu/pull/10815) - 2026-07-16
 
 * [Commit] [checks for correct docker env var configuration, warns when missing (#10769)](https://github.com/besu-eth/besu/commit/af5ec35734b026f0c811b5506d32fa83fd16b532) - 2026-07-23
+* [Pull Request] [enterprise (LFDT) limits retention to 7 days](https://github.com/besu-eth/besu/pull/10881) - 2026-07-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #7, July 22, 2026](https://github.com/ethereum/pm/issues/2165) - 2026-07-20
 

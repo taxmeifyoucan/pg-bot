@@ -28,6 +28,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: cmd/devp2p: add combined discovery listener](https://github.com/ethereum/go-ethereum/pull/35254#pullrequestreview-4764031692) - 2026-07-23
 * [Review] [Review on: eth/fetcher: clear partial map when dropping last waitlist peer](https://github.com/ethereum/go-ethereum/pull/35399#pullrequestreview-4762156070) - 2026-07-23
 * [Review] [Review on: core: fix tx size calculation](https://github.com/ethereum/go-ethereum/pull/35406#pullrequestreview-4771701168) - 2026-07-24
+* [Pull Request] [eth/protocols: fix Cells/GetCells RLP encoding](https://github.com/ethereum/go-ethereum/pull/35428) - 2026-07-27
 ## Q2 2026
 
 

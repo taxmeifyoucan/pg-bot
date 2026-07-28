@@ -54,6 +54,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Add fork choice consistency checks to the test harness](https://github.com/sigp/lighthouse/pull/9693) - 2026-07-26
 * [Pull Request] [Cache slashed justified balances](https://github.com/sigp/lighthouse/pull/9692) - 2026-07-26
 * [Issue] [`BalancesCache` can diverge from justified checkpoint state balances](https://github.com/sigp/lighthouse/issues/9691) - 2026-07-26
+* [Review] [Review on: Propagate EIP-8025 execution proofs on gossip behind a flag](https://github.com/sigp/lighthouse/pull/9659#pullrequestreview-4787894500) - 2026-07-27
+* [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4787598594) - 2026-07-27
 ## Q2 2026
 
 

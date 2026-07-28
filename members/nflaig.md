@@ -147,6 +147,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: use payload request limit for envelope byPeer range quota](https://github.com/ChainSafe/lodestar/pull/9710#pullrequestreview-4779066910) - 2026-07-25
 * [Review] [Review on: fix: upgrade attestations to gloas types during block production](https://github.com/ChainSafe/lodestar/pull/9709#pullrequestreview-4779060167) - 2026-07-25
 * [Review] [Review on: test: compare state roots first in expectEqualBeaconState and bump gloas sanity timeout](https://github.com/ChainSafe/lodestar/pull/9711#pullrequestreview-4779054494) - 2026-07-25
+* [Commit] [feat: builder selection, broadcast validation, stateless flow for gloas block production (#9595)](https://github.com/ChainSafe/lodestar/commit/6568180f9646874c51509b53318d3634567b30eb) - 2026-07-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

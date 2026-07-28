@@ -134,6 +134,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix malformed JSON-RPC batch items without aborting subsequent requests](https://github.com/NethermindEth/nethermind/pull/12537#pullrequestreview-4782548991) - 2026-07-26
 * [Commit] [perf(state): cut per-slot and per-account work on the storage commit path (#12568)](https://github.com/NethermindEth/nethermind/commit/d26539b0006a2972e1278818ac8fd1cf1e234b17) - 2026-07-27
 * [Commit] [Consolidate ChangeTypes (#12569)](https://github.com/NethermindEth/nethermind/commit/42ffc7da09dd045c1de66898d5665a29930da031) - 2026-07-26
+* [Review] [Review on: Add Nix flake for NixOS support](https://github.com/NethermindEth/nethermind/pull/12388#pullrequestreview-4786628752) - 2026-07-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

@@ -25,12 +25,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: raise query string arrayLimit to NUMBER_OF_COLUMNS](https://github.com/ChainSafe/lodestar/pull/9673#pullrequestreview-4724866896) - 2026-07-17
 * [Pull Request] [docs: pr review policy and report](https://github.com/ChainSafe/lodestar/pull/9679) - 2026-07-18
 * [Review] [Review on: chore: replace ts-node with tsx for running TypeScript](https://github.com/ChainSafe/lodestar/pull/9635#pullrequestreview-4773793912) - 2026-07-24
+* [Commit] [chore: merge v1.45.0 back to unstable (#9714)](https://github.com/ChainSafe/lodestar/commit/8fc4e297d236b24dab7f94b124793b2770819ad5) - 2026-07-27
+* [Commit] [chore: v1.45.0 release (#9674)](https://github.com/ChainSafe/lodestar/commit/6051fa3335c3dadf3f99292a8fe345ccd69121f7) - 2026-07-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10
 * [Review] [Review on: chore(deps): update zapi to 3.1.0](https://github.com/ChainSafe/lodestar-z/pull/483#pullrequestreview-4672425538) - 2026-07-10
 
 * [Review] [Review on: chore(ci): split build and publish steps](https://github.com/ChainSafe/lodestar-z/pull/511#pullrequestreview-4742065327) - 2026-07-21
+* [Issue] [Review stale lodekeeper-z PRs](https://github.com/ChainSafe/lodestar-z/issues/532) - 2026-07-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8282: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4741559929) - 2026-07-21
 ## Q2 2026

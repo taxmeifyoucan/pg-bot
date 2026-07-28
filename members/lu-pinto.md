@@ -18,6 +18,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Fix/qbft mining continues past ttd](https://github.com/besu-eth/besu/pull/10733#pullrequestreview-4663172127) - 2026-07-09
 * [Pull Request] [Add ADDMOD in EVMv2](https://github.com/besu-eth/besu/pull/10792) - 2026-07-10
 * [Review] [Review on: Add ADDMOD in EVMv2](https://github.com/besu-eth/besu/pull/10792#pullrequestreview-4672271194) - 2026-07-10
+* [Issue] [Eventual race condition in BftMiningCoordinator](https://github.com/besu-eth/besu/issues/10877) - 2026-07-27
+* [Commit] [Add ADDMOD in EVMv2 (#10792)](https://github.com/besu-eth/besu/commit/a3f67dd4773993f549172e0f648d689e20788f28) - 2026-07-27
 ## Q2 2026
 
 

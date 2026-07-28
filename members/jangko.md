@@ -60,6 +60,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [glamsterdam devnet 8](https://github.com/status-im/nimbus-eth1/pull/4556) - 2026-07-24
 * [Commit] [Update EEST mainnet test fixtures to v20.0.1 (#4534)](https://github.com/status-im/nimbus-eth1/commit/697e2ec9c5a8717bb5b73fa93a3dfc778e89f3ae) - 2026-07-24
 * [Commit] [glamsterdam devnet 7 (#4498)](https://github.com/status-im/nimbus-eth1/commit/cde53ac2966e156e669f6a86d89f0c9453aae58c) - 2026-07-24
+* [Pull Request] [Suppress unified client complains about --rpc](https://github.com/status-im/nimbus-eth1/pull/4570) - 2026-07-27
+* [Pull Request] [Detach networkParams from ExecutionClientConf](https://github.com/status-im/nimbus-eth1/pull/4569) - 2026-07-27
+* [Pull Request] [Remove unused TestFork](https://github.com/status-im/nimbus-eth1/pull/4568) - 2026-07-27
+* [Commit] [Bump nimbus-eth2 (#4570)](https://github.com/status-im/nimbus-eth1/commit/45719096065c53886232169bc2a7e2c398059c80) - 2026-07-27
+* [Commit] [Remove unused TestFork (#4568)](https://github.com/status-im/nimbus-eth1/commit/e209f6f680cc142f2b7b209fba538ec4e819b6ba) - 2026-07-27
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

@@ -41,6 +41,8 @@ Team: Consensus R&D (EF)
 * [Commit] [fix: skip ported static tests for amsterdam and later (#3231)](https://github.com/ethereum/execution-specs/commit/1ac58d7bce64c39731826d8ab0065187acbd4f94) - 2026-07-24
 * [Commit] [Open fix(tests): search for parent fork that differs in gas costs from current fork (#3228)](https://github.com/ethereum/execution-specs/commit/3c15c23e7de8f59ebb2a9d22ecc11f0c1f705a98) - 2026-07-24
 * [Commit] [refactor(test): Make max balance < 2^128 wei (#3227)](https://github.com/ethereum/execution-specs/commit/1646cf550bfa2b713acb1442551bf47664186285) - 2026-07-24
+* [Commit] [refactor(spec): make state interface fully implementation agnostic (#3218)](https://github.com/ethereum/execution-specs/commit/2cc42a8757a4a63d58411aad39e2c09240e8687f) - 2026-07-27
+* [Commit] [fix: max balance < 2^128 in ported static tests (#3230)](https://github.com/ethereum/execution-specs/commit/853585f326bca3db05af886695db4d48bcb63bc5) - 2026-07-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716803581) - 2026-07-16
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737690816) - 2026-07-20

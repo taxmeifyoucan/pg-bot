@@ -79,6 +79,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: chore: release v0.6.2](https://github.com/Plonky3/Plonky3/pull/1954#pullrequestreview-4734505171) - 2026-07-20
 * [Review] [Review on: test(zk-codes): pin batch-encode equivalence to shipped DFT, cover length mismatch](https://github.com/Plonky3/Plonky3/pull/1945#pullrequestreview-4743735695) - 2026-07-21
 * [Commit] [test(zk-codes): pin batch-encode equivalence to shipped DFT, cover length mismatch (#1945)](https://github.com/Plonky3/Plonky3/commit/c838a4cd116d1feb7a9e0d7ac54f5672a97235f4) - 2026-07-21
+* [Review] [Review on: feat(multi-stark): support periodic columns in the multilinear AIR prover](https://github.com/Plonky3/Plonky3/pull/1939#pullrequestreview-4788233248) - 2026-07-27
+* [Review] [Review on: feat(multi-stark): public values as boundary IO](https://github.com/Plonky3/Plonky3/pull/1947#pullrequestreview-4787061959) - 2026-07-27
+* [Commit] [feat(multi-stark): support periodic columns in the multilinear AIR prover (#1939)](https://github.com/Plonky3/Plonky3/commit/5df89eeadae18d6935bb874f8a92808dcc200c9d) - 2026-07-27
+* [Commit] [feat(lookup): exclusivity-aware lookup columns (#1825)](https://github.com/Plonky3/Plonky3/commit/f756b4b4ecb583eeb03cb54b0cd21e584841aa80) - 2026-07-27
 ## Q2 2026
 
 

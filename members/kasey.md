@@ -19,6 +19,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Pull Request] [update go toolchain to 1.26.5](https://github.com/OffchainLabs/prysm/pull/17230) - 2026-07-23
 * [Commit] [update go toolchain to 1.26.5 (#17230)](https://github.com/OffchainLabs/prysm/commit/51b5a75ebbadf05af22bd2601b5baf7a9e99b66d) - 2026-07-23
 * [Review] [Review on: fix grpc head event](https://github.com/OffchainLabs/prysm/pull/17238#pullrequestreview-4775949382) - 2026-07-24
+* [Pull Request] [updating changelog for v7.1.8](https://github.com/OffchainLabs/prysm/pull/17252) - 2026-07-27
 ## Q2 2026
 
 

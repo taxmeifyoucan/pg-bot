@@ -57,6 +57,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [update GH actions; var to let; fix deprecated useWildcard; enforce snappy frame size limit](https://github.com/status-im/nimbus-eth2/pull/8791) - 2026-07-21
 * [Review] [Review on: implement should_build_on_full for proposals](https://github.com/status-im/nimbus-eth2/pull/8793#pullrequestreview-4750525728) - 2026-07-22
 * [Review] [Review on: mark only the FULL variant invalid on EL-invalid payloads](https://github.com/status-im/nimbus-eth2/pull/8800#pullrequestreview-4772281827) - 2026-07-24
+* [Review] [Review on: mark only the FULL variant invalid on EL-invalid payloads](https://github.com/status-im/nimbus-eth2/pull/8800#pullrequestreview-4789962422) - 2026-07-27
+* [Pull Request] [rm old --rpc warning messages](https://github.com/status-im/nimbus-eth2/pull/8807) - 2026-07-27
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -96,6 +98,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Revert "reduce open dependabot pull requests limit to 2 (#4505)" (#4565)](https://github.com/status-im/nimbus-eth1/commit/53a57a69d0d94ede9c7b33738c9aaeebbc3770d9) - 2026-07-26
 * [Commit] [reduce open dependabot pull requests limit to 2 (#4505)](https://github.com/status-im/nimbus-eth1/commit/91fd810a973d07dfc82eaa446dea5e80651465bd) - 2026-07-26
 * [Review] [Review on: proxy: EIP-2935 anchor jump](https://github.com/status-im/nimbus-eth1/pull/4530#pullrequestreview-4781821867) - 2026-07-26
+* [Pull Request] [optimize BLAKE2F EVM precompile](https://github.com/status-im/nimbus-eth1/pull/4576) - 2026-07-27
+* [Review] [Review on: Suppress unified client complains about --rpc](https://github.com/status-im/nimbus-eth1/pull/4570#pullrequestreview-4785570796) - 2026-07-27
+* [Pull Request] [bump nim-stint to optimize ADDMOD, MOD, MULMOD, and SMOD opcodes](https://github.com/status-im/nimbus-eth1/pull/4572) - 2026-07-27
+* [Review] [Review on: proxy: EIP-2935 anchor jump](https://github.com/status-im/nimbus-eth1/pull/4530#pullrequestreview-4783786941) - 2026-07-27
+* [Commit] [bump nim-stint to optimize ADDMOD, MOD, MULMOD, and SMOD opcodes (#4572)](https://github.com/status-im/nimbus-eth1/commit/38e14675d15b397f385e2df9e2d021932f8adeb7) - 2026-07-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

@@ -46,6 +46,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [Update to tentative ere-guests v0.14 (#301)](https://github.com/eth-act/zkevm-benchmark-workload/commit/dfcc98e18910b874755689eaba88b8cd7630f9e5) - 2026-07-21
 * [Pull Request] [Update ere-guests and use catalog](https://github.com/eth-act/zkevm-benchmark-workload/pull/305) - 2026-07-22
 * [Commit] [Update ere-guests and use catalog (#305)](https://github.com/eth-act/zkevm-benchmark-workload/commit/35fa24ebf007edd4c9d65bdc41b25cb5fd726a80) - 2026-07-22
+* [Pull Request] [feat: implement catalog cache for optimized batch exports and metadata management](https://github.com/eth-act/zkevm-benchmark-workload/pull/306) - 2026-07-27
+* [Commit] [feat: implement catalog cache for optimized batch exports and metadata management (#306)](https://github.com/eth-act/zkevm-benchmark-workload/commit/d38737493a3e44c36c94517b627e338fd6fb861e) - 2026-07-27
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [feat(EngineAPI): support engine_newPayloadWithWitnessVX](https://github.com/paradigmxyz/reth/issues/26415) - 2026-07-16
 
@@ -57,6 +59,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Update EIP-8297.md](https://github.com/ethereum/EIPs/pull/11978#pullrequestreview-4754853085) - 2026-07-22
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: debug: add debug_executionWitness spec](https://github.com/ethereum/execution-apis/pull/847#pullrequestreview-4792119037) - 2026-07-27
 ## Q2 2026
 
 

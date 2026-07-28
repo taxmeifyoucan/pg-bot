@@ -59,6 +59,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: snap/2 - reorg recovery plan and canonical BAL application](https://github.com/besu-eth/besu/pull/10832#pullrequestreview-4763510020) - 2026-07-23
 * [Review] [Review on: Refactor engine_forkchoiceUpdated onto a ConstructorArguments/VersionScheduler foundation](https://github.com/besu-eth/besu/pull/10838#pullrequestreview-4762996034) - 2026-07-23
 * [Pull Request] [Stateroot modification glamsterdam devnet 7](https://github.com/besu-eth/besu/pull/10869) - 2026-07-24
+* [Review] [Review on: fix: fix logger and Optional.get() issues](https://github.com/besu-eth/besu/pull/10871#pullrequestreview-4783829240) - 2026-07-27
+* [Commit] [implement rpc modification for block access list (#10828)](https://github.com/besu-eth/besu/commit/6eb6f16cf34bee3caf71ded0cc869cd0f4ff61fd) - 2026-07-27
 ## Q2 2026
 
 

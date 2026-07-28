@@ -519,6 +519,21 @@ Team: Erigon
 * [Review] [Review on: build(deps): bump github.com/quic-go/webtransport-go from 0.10.0 to 0.11.1](https://github.com/erigontech/erigon/pull/22735#pullrequestreview-4780902925) - 2026-07-26
 * [Issue] [gevm benches - to get erigon closer](https://github.com/erigontech/erigon/issues/22749) - 2026-07-26
 * [Commit] [common: make common.Copy a func and inline it away (#22741)](https://github.com/erigontech/erigon/commit/bafdb4d5cfa5e91855ddbec4f1878c42d791dcbe) - 2026-07-26
+* [Pull Request] [node/gdbme: replace dead defer with explicit cleanup on failure paths](https://github.com/erigontech/erigon/pull/22767) - 2026-07-27
+* [Review] [Review on: docs: clarify why the drift guard preserves array order](https://github.com/erigontech/erigon/pull/22772#pullrequestreview-4793048319) - 2026-07-28
+* [Review] [Review on: rpc: match JWT auth-scheme case-insensitively](https://github.com/erigontech/erigon/pull/22773#pullrequestreview-4793046293) - 2026-07-28
+* [Review] [Review on: cmd: expand ~ and $VAR in --datadir for cobra binaries](https://github.com/erigontech/erigon/pull/22771#pullrequestreview-4792926164) - 2026-07-28
+* [Review] [Review on: execution/state: memoize the access-list slot set per address](https://github.com/erigontech/erigon/pull/22742#pullrequestreview-4783399693) - 2026-07-27
+* [Pull Request] [execution/vm: store JumpTable entries by value](https://github.com/erigontech/erigon/pull/22753) - 2026-07-27
+* [Pull Request] [execution/commitment: route BranchCache unwind tests through the LRU tail](https://github.com/erigontech/erigon/pull/22766) - 2026-07-27
+* [Review] [Review on: common/maphash: cap ShardedLRU shards to keep per-shard capacity >= 2](https://github.com/erigontech/erigon/pull/22705#pullrequestreview-4783431931) - 2026-07-27
+* [Commit] [vm: stack add `pop2` methods, remove bounds checks (#22740)](https://github.com/erigontech/erigon/commit/d79cac3612e2fc3a924773a5483388bece93ffec) - 2026-07-27
+* [Commit] [common/maphash: cap ShardedLRU shards to keep per-shard capacity >= 2 (#22705)](https://github.com/erigontech/erigon/commit/9625b23e3c6555be1031c264bb1bb6a08172b28e) - 2026-07-27
+* [Commit] [vm: non-ptr `accessOptions`  (#22721)](https://github.com/erigontech/erigon/commit/3d5a61e6604b8c2393d1390dcda58d09e211b564) - 2026-07-27
+* [Commit] [ibs: add LogsRlpHash() method - to reduce amount of logs copy in unit-tests (#22737)](https://github.com/erigontech/erigon/commit/1e4d82a4e37a79d99a33d84f580b44ab49d68b2e) - 2026-07-27
+* [Commit] [exec: remove journal.append, drop redundant journal clears (#22739)](https://github.com/erigontech/erigon/commit/f2c3a146df68023442341cb73de2a43322b8a443) - 2026-07-27
+* [Commit] [execution/vm: keep disabled tracing out of the interpreter hot loop (#22743)](https://github.com/erigontech/erigon/commit/e292b08cd1d6112e86a543733e099cb153387b1c) - 2026-07-27
+* [Commit] [[r3.6] commitment: ASSERT mutated external variables - cause red "sync from scratch CI" (#22701)](https://github.com/erigontech/erigon/commit/815f006bf2438bb386eaa6fcd02e5e1dc23350aa) - 2026-07-27
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

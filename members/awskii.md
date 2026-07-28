@@ -154,6 +154,8 @@ Team: Erigon
 * [Commit] [cl/antiquary: prune caplin state indexing DB after freezing to snapshots (#22396)](https://github.com/erigontech/erigon/commit/467aaebf980aeb2f25c691b88bd4de6d2f027729) - 2026-07-13
 * [Pull Request] [rpc/jsonrpc, node, execution/commitment: serve debug_executionWitness on minimal nodes via head-capture](https://github.com/erigontech/erigon/pull/22663) - 2026-07-22
 * [Pull Request] [cl: resume Caplin from a local finalized state on restart](https://github.com/erigontech/erigon/pull/22746) - 2026-07-26
+* [Review] [Review on: cl: resume Caplin from a local finalized state on restart](https://github.com/erigontech/erigon/pull/22746#pullrequestreview-4788660175) - 2026-07-27
+* [Commit] [execution/stagedsync: drop self-destruct storage enumeration in commitment (#22758)](https://github.com/erigontech/erigon/commit/e08b576b82185459066cb4bc0e7d43e4ecda6559) - 2026-07-27
 ## Q2 2026
 
 

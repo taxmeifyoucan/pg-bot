@@ -32,6 +32,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Stream engine_getBlobsV2 and engine_getBlobsV3 responses](https://github.com/besu-eth/besu/pull/10617#pullrequestreview-4773579545) - 2026-07-24
 * [Commit] [improve max open files derive mechanism (#10857)](https://github.com/besu-eth/besu/commit/ba84f99a6c6a495f70a159d10c74c2a417e93a45) - 2026-07-24
 * [Review] [Review on: Stateroot modification glamsterdam devnet 7](https://github.com/besu-eth/besu/pull/10869#pullrequestreview-4782016001) - 2026-07-26
+* [Review] [Review on: Refactor engine_newPayload into a sealed version hierarchy ](https://github.com/besu-eth/besu/pull/10840#pullrequestreview-4785996629) - 2026-07-27
+* [Review] [Review on: Stream engine_getBlobsV2 and engine_getBlobsV3 responses](https://github.com/besu-eth/besu/pull/10617#pullrequestreview-4785696962) - 2026-07-27
+* [Review] [Review on: Stateroot modification glamsterdam devnet 7](https://github.com/besu-eth/besu/pull/10869#pullrequestreview-4784555469) - 2026-07-27
 ## Q2 2026
 
 

@@ -71,6 +71,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump nimbus-eth2 and resolve issue due to EIP-7688 changes (#4545)](https://github.com/status-im/nimbus-eth1/commit/ceac1963bb604594ebb050aacc27445ff01b4dd5) - 2026-07-23
 * [Pull Request] [Adjust stateless baremetal target and run it on CI](https://github.com/status-im/nimbus-eth1/pull/4557) - 2026-07-24
 * [Commit] [Bump submodules and related fixes (#4554)](https://github.com/status-im/nimbus-eth1/commit/231df5492718f354fcd9f2cb5215cdbcbc223694) - 2026-07-24
+* [Pull Request] [Encode the eth ENR entry as an RLP list](https://github.com/status-im/nimbus-eth1/pull/4575) - 2026-07-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

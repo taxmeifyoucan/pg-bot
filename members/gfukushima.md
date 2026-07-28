@@ -45,6 +45,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Remove acceptance deposit senders and remove web3j from beacon/pow (#10997)](https://github.com/Consensys/teku/commit/197dd4d9124d43a918b205ab33d65701eb321a93) - 2026-07-23
 * [Review] [Review on: Remove deprecated BeaconChainUtil use from TransitionBenchmark](https://github.com/Consensys/teku/pull/11007#pullrequestreview-4770063570) - 2026-07-24
 * [Review] [Review on: Remove deprecated BeaconChainUtil use from ProfilingRun](https://github.com/Consensys/teku/pull/11006#pullrequestreview-4769842328) - 2026-07-24
+* [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792764424) - 2026-07-28
+* [Review] [Review on: add validation result descriptions](https://github.com/Consensys/teku/pull/11009#pullrequestreview-4792258437) - 2026-07-27
 ## Q2 2026
 
 

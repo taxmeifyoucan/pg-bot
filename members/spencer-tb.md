@@ -114,6 +114,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests): search for parent fork that differs in gas costs from current fork](https://github.com/ethereum/execution-specs/pull/3228#pullrequestreview-4772371534) - 2026-07-24
 * [Commit] [chore(tests): improve EIP-7843 coverage, checklist, and ref-spec pin (#3221)](https://github.com/ethereum/execution-specs/commit/6e02b3b1d5fb1eca0331dd74d46820b08499f87b) - 2026-07-24
 * [Commit] [chore(tests): improve EIP-7708 coverage, checklist, and ref-spec pin (#3220)](https://github.com/ethereum/execution-specs/commit/6463c0dc37939ca478dd19c5ccac6f5a5bda821b) - 2026-07-24
+* [Pull Request] [refactor(spec-specs): rename EIP-8037 regular gas to execution gas](https://github.com/ethereum/execution-specs/pull/3238) - 2026-07-27
+* [Review] [Review on: feat(tests): add ef_prefix deposit-halt mode to EIP-8037 state-gas test](https://github.com/ethereum/execution-specs/pull/3233#pullrequestreview-4785696875) - 2026-07-27
+* [Review] [Review on: fix: max balance < 2^128 in ported static tests](https://github.com/ethereum/execution-specs/pull/3230#pullrequestreview-4785599605) - 2026-07-27
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

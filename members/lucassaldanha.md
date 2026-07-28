@@ -13,6 +13,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Review] [Review on: Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505#pullrequestreview-4782633302) - 2026-07-26
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
+* [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28
+* [Issue] [Add execution_payload_value to produceBlockV4](https://github.com/Consensys/teku/issues/11015) - 2026-07-27
+* [Issue] [Updates to head_v2 event (Beacon API)](https://github.com/Consensys/teku/issues/11014) - 2026-07-27
 ## Q2 2026
 
 

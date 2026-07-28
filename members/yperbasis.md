@@ -254,6 +254,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [db/kv/kvcache: rename SimpleCache to LatestBatchCache (#22278)](https://github.com/erigontech/erigon/commit/10c9c27581b30c96c78b52ebdcc9bf76eb86f06c) - 2026-07-18
 * [Commit] [common/math, cl, polygon/bor, execution/cache: deduplicate NextPowerOfTwo (#22476)](https://github.com/erigontech/erigon/commit/117667c3c9d9c0e9399f42d0e9402712899beeec) - 2026-07-20
 * [Commit] [rpc/rpchelper: invalidate cached pending block once the chain moves past it (#22326)](https://github.com/erigontech/erigon/commit/fd0a084a666407815f7e2398108269839b2dd20f) - 2026-07-23
+* [Review] [Review on: execution: update EIP-2780 runtime gas](https://github.com/erigontech/erigon/pull/22537#pullrequestreview-4787034138) - 2026-07-27
+* [Pull Request] [execution/state: apply EIP-161 account clearing to versioned write-sets](https://github.com/erigontech/erigon/pull/22768) - 2026-07-27
+* [Review] [Review on: cl/cltypes, cl/phase1/execution_client: dedupe signed-container SSZ and engine API call boilerplate](https://github.com/erigontech/erigon/pull/22176#pullrequestreview-4787876813) - 2026-07-27
+* [Review] [Review on: execution: update EIP-8282 contracts for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22526#pullrequestreview-4786786072) - 2026-07-27
+* [Review] [Review on: [DO-NOT-MERGE] execution: update EIP-7928 for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22555#pullrequestreview-4787879488) - 2026-07-27
+* [Review] [Review on: [DO-NOT-MERGE] execution: update EIP-8037 for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22548#pullrequestreview-4787728770) - 2026-07-27
+* [Review] [Review on: FCU semaphore decouple + foreground-priority bg-commit worker (PR #4 of the perf stack)](https://github.com/erigontech/erigon/pull/21414#pullrequestreview-4787270439) - 2026-07-27
+* [Review] [Review on: ci, db/state: matrix-test serial vs parallel commitment across the test workflows](https://github.com/erigontech/erigon/pull/22141#pullrequestreview-4787251553) - 2026-07-27
+* [Review] [Review on: p2p, node/direct: derive msgid tables instead of triple-maintaining them](https://github.com/erigontech/erigon/pull/22175#pullrequestreview-4786372190) - 2026-07-27
+* [Commit] [p2p, node/direct: derive msgid tables instead of triple-maintaining them (#22175)](https://github.com/erigontech/erigon/commit/afebee6a17593747df83a9173b207d3f96e90fc8) - 2026-07-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

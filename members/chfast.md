@@ -85,6 +85,14 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [state: Recover the EIP-7702 authorization authority from the signature (#1611)](https://github.com/ipsilon/evmone/commit/0b7069a1e7daa108a29f64fd70e945e85a0d6572) - 2026-07-26
 * [Commit] [state: Move Authorization into its own header (#1613)](https://github.com/ipsilon/evmone/commit/3368397289c610efa9aee22aae1e4a903438a23e) - 2026-07-26
 * [Commit] [crypto: Add non-malleable secp256k1 ecrecover mode (#1612)](https://github.com/ipsilon/evmone/commit/bcefc4fa3ba14ac0a63c8f586f7871c07fd6996f) - 2026-07-26
+* [Pull Request] [state: Recover sender address from transaction signature](https://github.com/ipsilon/evmone/pull/1615) - 2026-07-27
+* [Pull Request] [test: Check the transaction codec against every fixture encoding](https://github.com/ipsilon/evmone/pull/1617) - 2026-07-27
+* [Pull Request] [state: Recognize chain-id protected legacy transaction](https://github.com/ipsilon/evmone/pull/1616) - 2026-07-27
+* [Review] [Review on: state: Recognize chain-id protected legacy transaction](https://github.com/ipsilon/evmone/pull/1616#pullrequestreview-4786019917) - 2026-07-27
+* [Pull Request] [test: Take the state test transaction from its encoding](https://github.com/ipsilon/evmone/pull/1614) - 2026-07-27
+* [Commit] [test: Check the transaction codec against every fixture encoding (#1617)](https://github.com/ipsilon/evmone/commit/d8508b9fa9cb7face54e2af24063d95a020879f4) - 2026-07-27
+* [Commit] [state: Recognize chain-id protected legacy transaction (#1616)](https://github.com/ipsilon/evmone/commit/aa825630b9c46e9f17a8aaa7bba430c361922cdd) - 2026-07-27
+* [Commit] [test: Take the state test transaction from its encoding (#1614)](https://github.com/ipsilon/evmone/commit/fd14fd81bde7b78c43b69f6908f338424f713c6a) - 2026-07-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -127,6 +135,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): add EIP-2681 nonce-reaching-max regression tests (#3226)](https://github.com/ethereum/execution-specs/commit/04e7b0daf64c5490cf0c4a7c132d2ac0c4f5419a) - 2026-07-24
 * [Pull Request] [feat(tests): add ef_prefix deposit-halt mode to EIP-8037 state-gas test](https://github.com/ethereum/execution-specs/pull/3233) - 2026-07-25
 * [Pull Request] [feat(tests): cover ModExp gas before EIP-2565](https://github.com/ethereum/execution-specs/pull/3237) - 2026-07-26
+* [Commit] [feat(tests): add ef_prefix deposit-halt mode to EIP-8037 state-gas test (#3233)](https://github.com/ethereum/execution-specs/commit/7c4177ace2fcabd6aaa86be043cbc813065c4bb7) - 2026-07-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

@@ -51,6 +51,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(spec-tools): use testing pydantic models in t8n](https://github.com/ethereum/execution-specs/pull/2924#pullrequestreview-4763776279) - 2026-07-23
 * [Pull Request] [fix(tests): enhance & un-skip Amsterdam ported static tests (Pt. 1)](https://github.com/ethereum/execution-specs/pull/3215) - 2026-07-23
 * [Review] [Review on: fix(tests): update withdrawal and consolidation tests to use Header for requests verification](https://github.com/ethereum/execution-specs/pull/3235#pullrequestreview-4781496244) - 2026-07-26
+* [Review] [Review on: feat(tests): add EIP-7997 case where factory is not present at fork block](https://github.com/ethereum/execution-specs/pull/3243#pullrequestreview-4792232710) - 2026-07-27
+* [Review] [Review on: fix(test-specs): use integer division for genesis base fee](https://github.com/ethereum/execution-specs/pull/3189#pullrequestreview-4792084791) - 2026-07-27
+* [Review] [Review on: fix(test-specs): parenthesize walrus when counting failing txs](https://github.com/ethereum/execution-specs/pull/3190#pullrequestreview-4792017675) - 2026-07-27
+* [Review] [Review on: fix(tests,test-fill): fix Engine X fills on BAL forks](https://github.com/ethereum/execution-specs/pull/3219#pullrequestreview-4790479838) - 2026-07-27
+* [Pull Request] [fix(test-ci): Skip `test_cli.py` until #3241 is resolved](https://github.com/ethereum/execution-specs/pull/3242) - 2026-07-27
+* [Review] [Review on: bug(test-eest): reconfigure output streams to UTF-8 on Windows consoles](https://github.com/ethereum/execution-specs/pull/3209#pullrequestreview-4789982172) - 2026-07-27
+* [Review] [Review on: bug(spec-tools): make t8n daemon module importable on Windows](https://github.com/ethereum/execution-specs/pull/3212#pullrequestreview-4789916494) - 2026-07-27
+* [Issue] [refactor(ci): Decouple Benchmarking from Mainline Development](https://github.com/ethereum/execution-specs/issues/3244) - 2026-07-27
+* [Issue] [bug(cli-eest): `AppConfig.version` queries github.com](https://github.com/ethereum/execution-specs/issues/3241) - 2026-07-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

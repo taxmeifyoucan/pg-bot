@@ -45,6 +45,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Only count actually invalid envelopes in envelope invalid metric](https://github.com/OffchainLabs/prysm/pull/17215#pullrequestreview-4761195210) - 2026-07-23
 * [Review] [Review on: Don't block gloas block import on missing data columns](https://github.com/OffchainLabs/prysm/pull/17232#pullrequestreview-4773943410) - 2026-07-24
 * [Pull Request] [Fix backfill retry panic when blob/column setup fails after block verification](https://github.com/OffchainLabs/prysm/pull/17235) - 2026-07-24
+* [Review] [Review on: Allow builders to bid on multiple branches](https://github.com/OffchainLabs/prysm/pull/17237#pullrequestreview-4788997002) - 2026-07-27
 ## Q2 2026
 
 

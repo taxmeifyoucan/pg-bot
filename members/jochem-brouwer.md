@@ -73,6 +73,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [fix(fill-stateful): verify receipt status when filling stateful fixtures (#3142)](https://github.com/ethereum/execution-specs/commit/693dbbda7c9fe200ffe9762472bf8d9ff6e0a054) - 2026-07-16
 * [Review] [Review on: feat(spec-specs): add EIP-7997 deterministic factory deployment](https://github.com/ethereum/execution-specs/pull/3200#pullrequestreview-4763137295) - 2026-07-23
 
+* [Pull Request] [feat(tests): add EIP-7997 case where factory is not present at fork block](https://github.com/ethereum/execution-specs/pull/3243) - 2026-07-27
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 ## Q2 2026

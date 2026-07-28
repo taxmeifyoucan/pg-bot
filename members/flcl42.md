@@ -122,6 +122,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Optimize generated SSZ byte collection codecs (#12554)](https://github.com/NethermindEth/nethermind/commit/6e3c188d63129027c2e00f7f9beae0285e3d8cd5) - 2026-07-24
 * [Commit] [Handle zero terminal total difficulty as merge from genesis (#12557)](https://github.com/NethermindEth/nethermind/commit/01f298701b0b6cc6f19c7ed526b37e3bed267d12) - 2026-07-25
 * [Commit] [Accept 1,024 ETH body request hashes (#12567)](https://github.com/NethermindEth/nethermind/commit/8c1ba1bf2df3aff046a066ff3ed428e7c76a4aa0) - 2026-07-25
+* [Pull Request] [Reject invalid fixed-size header RLP](https://github.com/NethermindEth/nethermind/pull/12579) - 2026-07-27
+* [Pull Request] [Allow contract creation at max valid nonce](https://github.com/NethermindEth/nethermind/pull/12576) - 2026-07-27
+* [Review] [Review on: Allow contract creation at max valid nonce](https://github.com/NethermindEth/nethermind/pull/12576#pullrequestreview-4789464301) - 2026-07-27
+* [Pull Request] [Fix zero-tip SYSTEM_ADDRESS beneficiary BAL entry](https://github.com/NethermindEth/nethermind/pull/12575) - 2026-07-27
+* [Review] [Review on: Fix zero-tip SYSTEM_ADDRESS beneficiary BAL entry](https://github.com/NethermindEth/nethermind/pull/12575#pullrequestreview-4789461334) - 2026-07-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -132,6 +137,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [chore(test-client-clis): backport Nethermind signature mapping](https://github.com/ethereum/execution-specs/pull/3184) - 2026-07-16
 * [Pull Request] [fix(test-client-clis): map Nethermind signature errors for Devnet-7](https://github.com/ethereum/execution-specs/pull/3199) - 2026-07-20
 
+* [Pull Request] [test(eip6110): cover noncanonical deposit ABI offsets](https://github.com/ethereum/execution-specs/pull/3240) - 2026-07-27
+* [Pull Request] [test(eip7928): cover system-address zero-tip coinbase BAL](https://github.com/ethereum/execution-specs/pull/3239) - 2026-07-27
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [p2p, engine: retry downloader and limit body batches](https://github.com/erigontech/erigon/pull/22679) - 2026-07-22
 

@@ -39,6 +39,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [fix(inspector): forward EIP-7708 transfer logs to the inspector (#3816)](https://github.com/bluealloy/revm/commit/d00704db4362098b614cc19f61e99dc5feaf6438) - 2026-07-23
 * [Review] [Review on: fix(bytecode): skip DUPN/SWAPN/EXCHANGE immediates in analyze_legacy](https://github.com/bluealloy/revm/pull/3801#pullrequestreview-4773763888) - 2026-07-24
 * [Review] [Review on: docs(precompile): correct read_fp canonical-check comment](https://github.com/bluealloy/revm/pull/3824#pullrequestreview-4772142145) - 2026-07-24
+* [Pull Request] [chore: update Cargo.lock](https://github.com/bluealloy/revm/pull/3827) - 2026-07-27
+* [Commit] [chore: update Cargo.lock (#3827)](https://github.com/bluealloy/revm/commit/d9220fe39672885847ef38507ae6ba4ac9b5094c) - 2026-07-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02

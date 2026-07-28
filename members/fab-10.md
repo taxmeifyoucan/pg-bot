@@ -54,6 +54,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Removed the legacy `PANTHEON_` environment variable prefix (#10854)](https://github.com/besu-eth/besu/commit/dbde5f34f665f5eb3f9448974a24312ebb2c9fed) - 2026-07-23
 * [Review] [Review on: fix(test): use createPluginsNode for plugin lifecycle ATs](https://github.com/besu-eth/besu/pull/10867#pullrequestreview-4773997671) - 2026-07-24
 * [Review] [Review on: Refactor engine_newPayload into a sealed version hierarchy ](https://github.com/besu-eth/besu/pull/10840#pullrequestreview-4771518255) - 2026-07-24
+* [Review] [Review on: Extract plugin-api core module](https://github.com/besu-eth/besu/pull/10875#pullrequestreview-4785426937) - 2026-07-27
+* [Review] [Review on: Remove the Plugin API source-hash check](https://github.com/besu-eth/besu/pull/10879#pullrequestreview-4790454394) - 2026-07-27
+* [Review] [Review on: Refactor engine_newPayload into a sealed version hierarchy ](https://github.com/besu-eth/besu/pull/10840#pullrequestreview-4787540084) - 2026-07-27
 ## Q2 2026
 
 

@@ -155,6 +155,17 @@ Team: Reth
 * [Review] [Review on: feat: enable txpool prewarm on nightly](https://github.com/paradigmxyz/reth/pull/26493#pullrequestreview-4772716641) - 2026-07-24
 * [Review] [Review on: feat(net): accept discv5 ENR bootnodes via CLI](https://github.com/paradigmxyz/reth/pull/26448#pullrequestreview-4779119239) - 2026-07-25
 * [Review] [Review on: feat(rpc): support network-specific log responses](https://github.com/paradigmxyz/reth/pull/26491#pullrequestreview-4779102671) - 2026-07-25
+* [Pull Request] [refactor(engine): parse payload IDs directly](https://github.com/paradigmxyz/reth/pull/26519) - 2026-07-28
+* [Pull Request] [refactor(rpc): use Alloy gas limit validation](https://github.com/paradigmxyz/reth/pull/26518) - 2026-07-28
+* [Pull Request] [chore(deps): update Alloy to 2.2.0](https://github.com/paradigmxyz/reth/pull/26517) - 2026-07-28
+* [Pull Request] [chore: make jit build feature opt-in](https://github.com/paradigmxyz/reth/pull/26516) - 2026-07-27
+* [Pull Request] [perf(ci): use aborting panics for unit test builds](https://github.com/paradigmxyz/reth/pull/26510) - 2026-07-27
+* [Pull Request] [fix: add missing dev-dependency features for standalone test builds](https://github.com/paradigmxyz/reth/pull/26511) - 2026-07-27
+* [Pull Request] [chore(ci): enable identical-code-folding for macOS release builds](https://github.com/paradigmxyz/reth/pull/26509) - 2026-07-27
+* [Review] [Review on: docs(engine): document sparse trie empty account invariant](https://github.com/paradigmxyz/reth/pull/26508#pullrequestreview-4789283532) - 2026-07-27
+* [Review] [Review on: feat(txpool): track blob cell availability](https://github.com/paradigmxyz/reth/pull/25463#pullrequestreview-4787895358) - 2026-07-27
+* [Review] [Review on: fix(rpc): cap implicit simulate gas limit](https://github.com/paradigmxyz/reth/pull/26502#pullrequestreview-4787946756) - 2026-07-27
+* [Review] [Review on: test(net/tx): add transaction fetcher benchmark harness](https://github.com/paradigmxyz/reth/pull/26446#pullrequestreview-4787921614) - 2026-07-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

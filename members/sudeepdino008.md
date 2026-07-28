@@ -83,6 +83,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.6] commitment: ASSERT mutated external variables - cause red "sync from scratch CI"](https://github.com/erigontech/erigon/pull/22702#pullrequestreview-4770154792) - 2026-07-24
 * [Review] [Review on: [r3.6] http: compression leaked C-allocated memory in sync.Pool](https://github.com/erigontech/erigon/pull/22699#pullrequestreview-4770148488) - 2026-07-24
 * [Review] [Review on: [r3.6] commitment: ASSERT mutated external variables - cause red "sync from scratch CI"](https://github.com/erigontech/erigon/pull/22701#pullrequestreview-4770154170) - 2026-07-24
+* [Pull Request] [execution/stagedsync: extract blockExecutor.deliver helper from sendResult](https://github.com/erigontech/erigon/pull/22761) - 2026-07-27
+* [Review] [Review on: common/maphash: cap ShardedLRU shards to keep per-shard capacity >= 2](https://github.com/erigontech/erigon/pull/22705#pullrequestreview-4783706778) - 2026-07-27
+* [Pull Request] [execution/stagedsync: split parallel execLoop into helpers](https://github.com/erigontech/erigon/pull/22765) - 2026-07-27
+* [Pull Request] [execution/stagedsync: fix stale multipliers in SizeEstimate comment](https://github.com/erigontech/erigon/pull/22760) - 2026-07-27
+* [Commit] [execution/stagedsync: executeBlocks commitResults doesn't need to be variadic (#22759)](https://github.com/erigontech/erigon/commit/cd1e3d9e1fc6fb6da41bd0e4bbbfd3256c719658) - 2026-07-27
 ## Q2 2026
 
 
