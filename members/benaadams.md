@@ -135,6 +135,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(state): cut per-slot and per-account work on the storage commit path (#12568)](https://github.com/NethermindEth/nethermind/commit/d26539b0006a2972e1278818ac8fd1cf1e234b17) - 2026-07-27
 * [Commit] [Consolidate ChangeTypes (#12569)](https://github.com/NethermindEth/nethermind/commit/42ffc7da09dd045c1de66898d5665a29930da031) - 2026-07-26
 * [Review] [Review on: Add Nix flake for NixOS support](https://github.com/NethermindEth/nethermind/pull/12388#pullrequestreview-4786628752) - 2026-07-27
+* [Review] [Review on: Fix zero-tip SYSTEM_ADDRESS beneficiary BAL entry](https://github.com/NethermindEth/nethermind/pull/12575#pullrequestreview-4794125872) - 2026-07-28
+* [Review] [Review on: perf(evm): raise eth_call instruction-stream retained-size cap (256 → 512 KiB)](https://github.com/NethermindEth/nethermind/pull/12574#pullrequestreview-4794138878) - 2026-07-28
+* [Review] [Review on: Bound pooled transaction retry traffic](https://github.com/NethermindEth/nethermind/pull/12345#pullrequestreview-4794315412) - 2026-07-28
+* [Review] [Review on: Allow contract creation at max valid nonce](https://github.com/NethermindEth/nethermind/pull/12576#pullrequestreview-4794131056) - 2026-07-28
+* [Review] [Review on: Run EXPB auto-benchmarks 3x per payload set and report mean of runs](https://github.com/NethermindEth/nethermind/pull/12292#pullrequestreview-4794317662) - 2026-07-28
+* [Commit] [Keep the speculative warm-cache handoff on low-tx blocks (#12570)](https://github.com/NethermindEth/nethermind/commit/c85c2532788440c4f72b266b4137c0b700b53268) - 2026-07-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

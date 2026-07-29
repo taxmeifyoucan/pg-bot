@@ -117,6 +117,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [refactor(spec-specs): rename EIP-8037 regular gas to execution gas](https://github.com/ethereum/execution-specs/pull/3238) - 2026-07-27
 * [Review] [Review on: feat(tests): add ef_prefix deposit-halt mode to EIP-8037 state-gas test](https://github.com/ethereum/execution-specs/pull/3233#pullrequestreview-4785696875) - 2026-07-27
 * [Review] [Review on: fix: max balance < 2^128 in ported static tests](https://github.com/ethereum/execution-specs/pull/3230#pullrequestreview-4785599605) - 2026-07-27
+* [Review] [Review on: refactor(tests): Remove `fork.gas_costs()` reconstruction from Amsterdam EIP-8037/8038 tests](https://github.com/ethereum/execution-specs/pull/3169#pullrequestreview-4798934992) - 2026-07-28
+* [Commit] [chore(tests): improve EIP-7981 coverage, checklist, and ref-spec pin (#3223)](https://github.com/ethereum/execution-specs/commit/e0ce65c82db289e07f01378491c1150fffb1edb4) - 2026-07-28
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

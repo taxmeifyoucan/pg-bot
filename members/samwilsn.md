@@ -37,6 +37,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: CI: Grab latest version of eipw.](https://github.com/ethereum/EIPs/pull/11916#pullrequestreview-4748009627) - 2026-07-21
 * [Review] [Review on: Add EIP: Validated EVM Code](https://github.com/ethereum/EIPs/pull/11922#pullrequestreview-4746682285) - 2026-07-21
 * [Review] [Review on: Update EIP-1: Remove execution-spec-tests from allowed link exceptions](https://github.com/ethereum/EIPs/pull/11845#pullrequestreview-4746882116) - 2026-07-21
+* [Pull Request] [Update EIP-1: allow links to sys-asm](https://github.com/ethereum/EIPs/pull/12021) - 2026-07-28
+* [Review] [Review on: Add EIP: Validated EVM Code](https://github.com/ethereum/EIPs/pull/11922#pullrequestreview-4799752426) - 2026-07-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Leo Lara contributions: add execution-specs](https://github.com/protocolguild/documentation/pull/515#pullrequestreview-4652756505) - 2026-07-08
 ## Q2 2026

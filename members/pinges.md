@@ -17,6 +17,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: fix: log peer-caused msg errors at DEBUG instead of ERROR in ApiHandler](https://github.com/besu-eth/besu/pull/10872#pullrequestreview-4783192078) - 2026-07-27
 * [Pull Request] [Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874) - 2026-07-27
 * [Commit] [deprecate unused CLI option (#10863)](https://github.com/besu-eth/besu/commit/403764493ec6db9235bde7c20370a91d140eb258) - 2026-07-27
+* [Review] [Review on: Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874#pullrequestreview-4793846039) - 2026-07-28
+* [Review] [Review on: Fix restart during snap sync flat-DB heal stranding node in backward sync](https://github.com/besu-eth/besu/pull/10883#pullrequestreview-4793366794) - 2026-07-28
 ## Q2 2026
 
 

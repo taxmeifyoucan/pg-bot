@@ -71,6 +71,23 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: feat(core): support explicit operation tracer in block processing](https://github.com/besu-eth/besu/pull/10862#pullrequestreview-4769884625) - 2026-07-24
 * [Review] [Review on: Update bootnodes list for testnets](https://github.com/besu-eth/besu/pull/10870#pullrequestreview-4782964146) - 2026-07-27
 * [Review] [Review on: Stream engine_getBlobsV2 and engine_getBlobsV3 responses](https://github.com/besu-eth/besu/pull/10617#pullrequestreview-4783243721) - 2026-07-27
+* [Pull Request] [fix: return MIN_BLOB_GASPRICE in no-fee simulation path](https://github.com/besu-eth/besu/pull/10899) - 2026-07-28
+* [Review] [Review on: Cap the number of concurrently-active JSON-RPC filters](https://github.com/besu-eth/besu/pull/10893#pullrequestreview-4801870666) - 2026-07-28
+* [Review] [Review on: Cap the number of globally-active WebSocket eth_subscribe subscriptions](https://github.com/besu-eth/besu/pull/10894#pullrequestreview-4801876715) - 2026-07-28
+* [Review] [Review on: Bound FutureMessageBuffer memory by total byte size](https://github.com/besu-eth/besu/pull/10897#pullrequestreview-4801932071) - 2026-07-28
+* [Pull Request] [rotate changelog for 26.7.1](https://github.com/besu-eth/besu/pull/10884) - 2026-07-28
+* [Review] [Review on: Fix O(N^2) HashDoS in warm-access/transient-storage tracking](https://github.com/besu-eth/besu/pull/10895#pullrequestreview-4801926540) - 2026-07-28
+* [Review] [Review on: Defense-in-depth against EIP-6780 selfdestruct leak](https://github.com/besu-eth/besu/pull/10898#pullrequestreview-4802164367) - 2026-07-28
+* [Review] [Review on: Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874#pullrequestreview-4794470551) - 2026-07-28
+* [Review] [Review on: Bound devp2p block-gossip fetch work by deduplicating announcements per block number](https://github.com/besu-eth/besu/pull/10892#pullrequestreview-4801942223) - 2026-07-28
+* [Review] [Review on: Enforce presence of requestsHash header field from Prague on](https://github.com/besu-eth/besu/pull/10891#pullrequestreview-4801920094) - 2026-07-28
+* [Review] [Review on: Key precompile result caches by content, not a 32-bit hash](https://github.com/besu-eth/besu/pull/10896#pullrequestreview-4801949429) - 2026-07-28
+* [Review] [Review on: enterprise (LFDT) limits retention to 7 days](https://github.com/besu-eth/besu/pull/10881#pullrequestreview-4794158112) - 2026-07-28
+* [Review] [Review on: clique: handle nullable proposer seals during address recovery](https://github.com/besu-eth/besu/pull/10824#pullrequestreview-4794333695) - 2026-07-28
+* [Review] [Review on: Combine additional JSON-RPC methods from all scheduled consensus builders during migration](https://github.com/besu-eth/besu/pull/10780#pullrequestreview-4794279404) - 2026-07-28
+* [Review] [Review on: fix: return errors for untraceable block hashes](https://github.com/besu-eth/besu/pull/10701#pullrequestreview-4793675016) - 2026-07-28
+* [Pull Request] [simulation gas: do not apply EIP-7825 txGasLimitCap ](https://github.com/besu-eth/besu/pull/10885) - 2026-07-28
+* [Commit] [rotate changelog for 26.7.1 (#10884)](https://github.com/besu-eth/besu/commit/bab1529f5080ebe7c4134fe41c1e331e6564d381) - 2026-07-28
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

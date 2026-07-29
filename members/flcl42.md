@@ -127,6 +127,16 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Allow contract creation at max valid nonce](https://github.com/NethermindEth/nethermind/pull/12576#pullrequestreview-4789464301) - 2026-07-27
 * [Pull Request] [Fix zero-tip SYSTEM_ADDRESS beneficiary BAL entry](https://github.com/NethermindEth/nethermind/pull/12575) - 2026-07-27
 * [Review] [Review on: Fix zero-tip SYSTEM_ADDRESS beneficiary BAL entry](https://github.com/NethermindEth/nethermind/pull/12575#pullrequestreview-4789461334) - 2026-07-27
+* [Pull Request] [Harden BAL gas accounting boundaries](https://github.com/NethermindEth/nethermind/pull/12589) - 2026-07-28
+* [Pull Request] [Validate ABI decode allocation bounds](https://github.com/NethermindEth/nethermind/pull/12588) - 2026-07-28
+* [Pull Request] [Align EIP-8037 block inclusion check with counterpart-intrinsic subtraction](https://github.com/NethermindEth/nethermind/pull/12581) - 2026-07-28
+* [Review] [Review on: Align EIP-8037 block inclusion check with counterpart-intrinsic subtraction](https://github.com/NethermindEth/nethermind/pull/12581#pullrequestreview-4794643993) - 2026-07-28
+* [Pull Request] [Prevent negative pacing delay in random Kademlia discovery](https://github.com/NethermindEth/nethermind/pull/12582) - 2026-07-28
+* [Review] [Review on: Prevent negative pacing delay in random Kademlia discovery](https://github.com/NethermindEth/nethermind/pull/12582#pullrequestreview-4794642075) - 2026-07-28
+* [Commit] [Cap collected base fee at the effective gas price paid in validation-off eth_simulateV1 (#12566)](https://github.com/NethermindEth/nethermind/commit/48e12e29393fe14b7e25d01eadf22ae4a62a193b) - 2026-07-28
+* [Commit] [Prevent negative pacing delay in random Kademlia discovery (#12582)](https://github.com/NethermindEth/nethermind/commit/a6682c414a1df7a5d4b156d7a553165b75f53873) - 2026-07-28
+* [Commit] [Bound pooled transaction retry traffic (#12345)](https://github.com/NethermindEth/nethermind/commit/e52dc19a56a46f58170a730822580774d403c838) - 2026-07-28
+* [Commit] [Allow contract creation at max valid nonce (#12576)](https://github.com/NethermindEth/nethermind/commit/430ebf4b63400aba7e0be66e03890c09e7e94bac) - 2026-07-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -139,6 +149,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 * [Pull Request] [test(eip6110): cover noncanonical deposit ABI offsets](https://github.com/ethereum/execution-specs/pull/3240) - 2026-07-27
 * [Pull Request] [test(eip7928): cover system-address zero-tip coinbase BAL](https://github.com/ethereum/execution-specs/pull/3239) - 2026-07-27
+* [Pull Request] [feat(tests): pin flat 2D inclusion gate semantics (no intrinsic subtraction)](https://github.com/ethereum/execution-specs/pull/3245) - 2026-07-28
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [p2p, engine: retry downloader and limit body batches](https://github.com/erigontech/erigon/pull/22679) - 2026-07-22
 

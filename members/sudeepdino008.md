@@ -88,6 +88,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/stagedsync: split parallel execLoop into helpers](https://github.com/erigontech/erigon/pull/22765) - 2026-07-27
 * [Pull Request] [execution/stagedsync: fix stale multipliers in SizeEstimate comment](https://github.com/erigontech/erigon/pull/22760) - 2026-07-27
 * [Commit] [execution/stagedsync: executeBlocks commitResults doesn't need to be variadic (#22759)](https://github.com/erigontech/erigon/commit/cd1e3d9e1fc6fb6da41bd0e4bbbfd3256c719658) - 2026-07-27
+* [Pull Request] [execution/stagedsync: reuse commitment BAL-fold buffer across blocks](https://github.com/erigontech/erigon/pull/22801) - 2026-07-28
+* [Pull Request] [cl/das: self-heal PeerDAS custody column subscription via per-slot reconcile](https://github.com/erigontech/erigon/pull/22816) - 2026-07-28
+* [Issue] [Caplin block-collector ↔ staged-exec handoff leaves an unbridged block gap → permanent "parent's total difficulty not found" near chain tip (glamsterdam-devnet-6)](https://github.com/erigontech/erigon/issues/22811) - 2026-07-28
+* [Commit] [execution/stagedsync: rename BAL fold-ahead to compute-ahead (#22756)](https://github.com/erigontech/erigon/commit/8567fb3adf5adb82e98afc99c7d8ce485de6d66f) - 2026-07-28
 ## Q2 2026
 
 

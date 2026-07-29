@@ -33,6 +33,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bindings): validate class types before unwrap](https://github.com/ChainSafe/lodestar-z/pull/514#pullrequestreview-4719813848) - 2026-07-17
 * [Review] [Review on: fix(bindings): roll back partial N-API initialization](https://github.com/ChainSafe/lodestar-z/pull/491#pullrequestreview-4741058799) - 2026-07-21
 * [Commit] [refactor(bindings): use zapi js.io() instead of local io module (#469)](https://github.com/ChainSafe/lodestar-z/commit/2b34cc02fb1df10af308196c552a4965937e66c4) - 2026-07-27
+* [Review] [Review on: fix(bindings): free metrics writer on scrape failure](https://github.com/ChainSafe/lodestar-z/pull/529#pullrequestreview-4794947409) - 2026-07-28
+* [Review] [Review on: fix(bindings): clean up failed async BLS work](https://github.com/ChainSafe/lodestar-z/pull/527#pullrequestreview-4795652071) - 2026-07-28
+* [Review] [Review on: fix(bindings): harden random aggregate scalars](https://github.com/ChainSafe/lodestar-z/pull/528#pullrequestreview-4795111220) - 2026-07-28
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07
@@ -50,6 +53,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: disable fast confirmation rule while syncing (#9681)](https://github.com/ChainSafe/lodestar/commit/a926f1e8e2f2513bf843a734ca61c62ae91a2403) - 2026-07-24
 * [Commit] [chore: replace ts-node with tsx for running TypeScript (#9635)](https://github.com/ChainSafe/lodestar/commit/b98df0df3d8aa78f110d8e0c8eefa74ee065eec6) - 2026-07-24
 * [Commit] [test: enable gloas fast_confirmation spec tests (#9704)](https://github.com/ChainSafe/lodestar/commit/7a06691aa8a226477f129bb415a59f60ef287db0) - 2026-07-27
+* [Pull Request] [refactor: remove bun runtime support](https://github.com/ChainSafe/lodestar/pull/9719) - 2026-07-28
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
+* [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28
 ## Q2 2026
 
 

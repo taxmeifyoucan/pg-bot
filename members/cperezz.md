@@ -6,6 +6,13 @@ Github: [@cperezz](https://github.com/cperezz)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [tests(binary_tree): add intensive EIP-8297 partitioned binary tree test suites](https://github.com/ethereum/execution-specs/pull/3246) - 2026-07-28
+* [Review] [Review on: tests(binary_tree): add intensive EIP-8297 partitioned binary tree test suites](https://github.com/ethereum/execution-specs/pull/3246#pullrequestreview-4796079447) - 2026-07-28
+* [Issue] [Genesis state-root computation is coupled to the MPT across the testing tooling](https://github.com/ethereum/execution-specs/issues/3251) - 2026-07-28
 ## Q2 2026
 
 

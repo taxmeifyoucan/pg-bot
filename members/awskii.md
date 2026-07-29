@@ -156,6 +156,23 @@ Team: Erigon
 * [Pull Request] [cl: resume Caplin from a local finalized state on restart](https://github.com/erigontech/erigon/pull/22746) - 2026-07-26
 * [Review] [Review on: cl: resume Caplin from a local finalized state on restart](https://github.com/erigontech/erigon/pull/22746#pullrequestreview-4788660175) - 2026-07-27
 * [Commit] [execution/stagedsync: drop self-destruct storage enumeration in commitment (#22758)](https://github.com/erigontech/erigon/commit/e08b576b82185459066cb4bc0e7d43e4ecda6559) - 2026-07-27
+* [Review] [Review on: sd.Commit: remove double copy of keys](https://github.com/erigontech/erigon/pull/22791#pullrequestreview-4796015634) - 2026-07-28
+* [Review] [Review on: execution/state: embed snapshot revisions in IntraBlockState, drop revisionsPool](https://github.com/erigontech/erigon/pull/22776#pullrequestreview-4796011600) - 2026-07-28
+* [Review] [Review on: deps: update x/exp, cel-go, mcp-go, cgroups, blst, compress, kong, isatty, secp256k1](https://github.com/erigontech/erigon/pull/22796#pullrequestreview-4798445277) - 2026-07-28
+* [Pull Request] [cl/beacon: fix BLS-to-execution changes never being included in produced blocks](https://github.com/erigontech/erigon/pull/22827) - 2026-07-28
+* [Pull Request] [cl/pool: size operation pools by retention need](https://github.com/erigontech/erigon/pull/22823) - 2026-07-28
+* [Review] [Review on: execution/commitment: route BranchCache unwind tests through the LRU tail](https://github.com/erigontech/erigon/pull/22766#pullrequestreview-4794517631) - 2026-07-28
+* [Review] [Review on: common/hexutil: restore error mapping in Bytes.UnmarshalText](https://github.com/erigontech/erigon/pull/22779#pullrequestreview-4797512544) - 2026-07-28
+* [Pull Request] [polygon/bor: fix the block extra data error log](https://github.com/erigontech/erigon/pull/22815) - 2026-07-28
+* [Pull Request] [execution/stagedsync,diagnostics: name the recovered panic log field](https://github.com/erigontech/erigon/pull/22814) - 2026-07-28
+* [Pull Request] [cl,db,diagnostics,p2p: pass log values as attributes](https://github.com/erigontech/erigon/pull/22812) - 2026-07-28
+* [Pull Request] [common: fix PrettyCounter on negative values, add PrettyExact](https://github.com/erigontech/erigon/pull/22787) - 2026-07-28
+* [Issue] [cl/pool: NotifyBlock purges the BLS-to-execution pool but not recentlySeen, so purged changes cannot be re-inserted for 30 minutes](https://github.com/erigontech/erigon/issues/22825) - 2026-07-28
+* [Issue] [cl/beacon: block production never includes BLS-to-execution changes (inverted withdrawal-credential prefix check)](https://github.com/erigontech/erigon/issues/22826) - 2026-07-28
+* [Issue] [cl/beacon: block production can exceed MAX_BLS_TO_EXECUTION_CHANGES](https://github.com/erigontech/erigon/issues/22824) - 2026-07-28
+* [Commit] [common: fix PrettyCounter on negative values, add PrettyExact (#22787)](https://github.com/erigontech/erigon/commit/6cb4cb7b53b7f9559118e2aac4766fff9355605e) - 2026-07-28
+* [Commit] [QA: show RPC integration test results on the run summary page (#22134)](https://github.com/erigontech/erigon/commit/bcde45e1a81687cd9bff7df81e2053e32caac8cd) - 2026-07-28
+* [Commit] [rpc/jsonrpc: eager in-memory cache for `debug_executionWitness` (#22384)](https://github.com/erigontech/erigon/commit/bc479d525a7a67663d3a97861cc85a69bcef1f9a) - 2026-07-28
 ## Q2 2026
 
 

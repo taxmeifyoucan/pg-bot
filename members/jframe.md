@@ -18,6 +18,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Keep sync events from starting the IBFT2 coordinator on migration networks](https://github.com/besu-eth/besu/pull/10791#pullrequestreview-4751457832) - 2026-07-22
 * [Issue] [Restart during snap sync flat-DB heal strands node in backward sync (parent world state is not available)](https://github.com/besu-eth/besu/issues/10861) - 2026-07-24
 * [Pull Request] [Fix restart during snap sync flat-DB heal stranding node in backward sync](https://github.com/besu-eth/besu/pull/10883) - 2026-07-28
+* [Review] [Review on: rotate changelog for 26.7.1](https://github.com/besu-eth/besu/pull/10884#pullrequestreview-4793980248) - 2026-07-28
+* [Review] [Review on: Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874#pullrequestreview-4802538713) - 2026-07-28
+* [Commit] [Fix restart during snap sync flat-DB heal stranding node in backward sync (#10883)](https://github.com/besu-eth/besu/commit/8b250ef3a019a7eaccc76fe10052567480ec73a9) - 2026-07-28
 ## Q2 2026
 
 

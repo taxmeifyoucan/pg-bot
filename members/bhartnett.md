@@ -54,6 +54,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Optimize BLS ADD precompiles - WIP](https://github.com/status-im/nimbus-eth1/pull/4555) - 2026-07-24
 * [Pull Request] [Batch bn256 pairing Miller loops with a single final exponentiation](https://github.com/status-im/nimbus-eth1/pull/4564) - 2026-07-25
 * [Commit] [Additional modexp precompile optimizations (#4562)](https://github.com/status-im/nimbus-eth1/commit/a8f02b0ce3ddf85672864b240f1644b1666c4839) - 2026-07-25
+* [Pull Request] [Improve performance of BLS pairing precompile](https://github.com/status-im/nimbus-eth1/pull/4577) - 2026-07-28
+* [Commit] [Improve performance of BLS pairing precompile (#4577)](https://github.com/status-im/nimbus-eth1/commit/7b54ba38de713479981d9ca54beafe324c2bb6f0) - 2026-07-28
+* [Commit] [ecPairing precompile miller loop batching (#4564)](https://github.com/status-im/nimbus-eth1/commit/6072ac642560eca58881e552a81672121937f3c3) - 2026-07-28
 ## Q2 2026
 
 

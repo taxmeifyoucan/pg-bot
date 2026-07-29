@@ -83,6 +83,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: node/shards, db/downloader, execution/stagedsync: snapshot download progress in eth_syncing](https://github.com/erigontech/erigon/pull/22716#pullrequestreview-4790810239) - 2026-07-27
 * [Commit] [rpc: add ok to TxnByIdxInBlock (#22745)](https://github.com/erigontech/erigon/commit/25cf1c62c79df1a40e23260acc4715d0984e1d34) - 2026-07-27
 * [Commit] [rpc: TraceConfig limit in debug_trace* opcode logger (#22751)](https://github.com/erigontech/erigon/commit/6ef9b8e4760a350020159fab4a017a540ba315f8) - 2026-07-27
+* [Review] [Review on: execution/state, rpc/jsonrpc: release IntraBlockState at end of RPC handlers](https://github.com/erigontech/erigon/pull/22777#pullrequestreview-4801243943) - 2026-07-28
+* [Commit] [rpc: match JWT auth-scheme case-insensitively (#22773)](https://github.com/erigontech/erigon/commit/b121359dd632c77e34d72a6a76fb10ba0c895b67) - 2026-07-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

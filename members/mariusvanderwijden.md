@@ -56,6 +56,7 @@ Team: Geth
 * [Review] [Review on: version: start v1.17.6 release cycle](https://github.com/ethereum/go-ethereum/pull/35425#pullrequestreview-4786244295) - 2026-07-27
 * [Review] [Review on: version: release v1.17.5](https://github.com/ethereum/go-ethereum/pull/35421#pullrequestreview-4784736157) - 2026-07-27
 * [Review] [Review on: go.mod: update snappy dependency](https://github.com/ethereum/go-ethereum/pull/35422#pullrequestreview-4784682941) - 2026-07-27
+* [Commit] [miner: don't seal block if a db error occurred (#35427)](https://github.com/ethereum/go-ethereum/commit/1bfc028d4353ca808f17170abf949f7f7b72cc5c) - 2026-07-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 ## Q2 2026

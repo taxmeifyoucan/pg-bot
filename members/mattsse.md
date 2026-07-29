@@ -166,6 +166,12 @@ Team: Reth
 * [Review] [Review on: feat(txpool): track blob cell availability](https://github.com/paradigmxyz/reth/pull/25463#pullrequestreview-4787895358) - 2026-07-27
 * [Review] [Review on: fix(rpc): cap implicit simulate gas limit](https://github.com/paradigmxyz/reth/pull/26502#pullrequestreview-4787946756) - 2026-07-27
 * [Review] [Review on: test(net/tx): add transaction fetcher benchmark harness](https://github.com/paradigmxyz/reth/pull/26446#pullrequestreview-4787921614) - 2026-07-27
+* [Review] [Review on: feat(txpool): track blob cell availability](https://github.com/paradigmxyz/reth/pull/25463#pullrequestreview-4796056973) - 2026-07-28
+* [Review] [Review on: refactor(storage): consolidate overlay ownership](https://github.com/paradigmxyz/reth/pull/26522#pullrequestreview-4797573320) - 2026-07-28
+* [Review] [Review on: fix(refactor): skip transient selfdestruct storage wipes](https://github.com/paradigmxyz/reth/pull/26433#pullrequestreview-4796544973) - 2026-07-28
+* [Review] [Review on: fix(net): reply to GetNodeData with empty payload](https://github.com/paradigmxyz/reth/pull/26513#pullrequestreview-4795982839) - 2026-07-28
+* [Commit] [fix: add missing dev-dependency features for standalone test builds (#26511)](https://github.com/paradigmxyz/reth/commit/4f72933a1f4653203c3aa5dca5eeddca427cf609) - 2026-07-28
+* [Commit] [chore(deps): update Alloy to 2.2.0 (#26517)](https://github.com/paradigmxyz/reth/commit/dff579b6464a6da18dad8ef2fbe4f83873346a22) - 2026-07-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

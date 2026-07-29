@@ -59,6 +59,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: mark only the FULL variant invalid on EL-invalid payloads](https://github.com/status-im/nimbus-eth2/pull/8800#pullrequestreview-4772281827) - 2026-07-24
 * [Review] [Review on: mark only the FULL variant invalid on EL-invalid payloads](https://github.com/status-im/nimbus-eth2/pull/8800#pullrequestreview-4789962422) - 2026-07-27
 * [Pull Request] [rm old --rpc warning messages](https://github.com/status-im/nimbus-eth2/pull/8807) - 2026-07-27
+* [Review] [Review on: update links to alpha 12](https://github.com/status-im/nimbus-eth2/pull/8812#pullrequestreview-4796435745) - 2026-07-28
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -103,6 +104,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [bump nim-stint to optimize ADDMOD, MOD, MULMOD, and SMOD opcodes](https://github.com/status-im/nimbus-eth1/pull/4572) - 2026-07-27
 * [Review] [Review on: proxy: EIP-2935 anchor jump](https://github.com/status-im/nimbus-eth1/pull/4530#pullrequestreview-4783786941) - 2026-07-27
 * [Commit] [bump nim-stint to optimize ADDMOD, MOD, MULMOD, and SMOD opcodes (#4572)](https://github.com/status-im/nimbus-eth1/commit/38e14675d15b397f385e2df9e2d021932f8adeb7) - 2026-07-27
+* [Commit] [optimize BLAKE2F EVM precompile (#4576)](https://github.com/status-im/nimbus-eth1/commit/52eefb82f82c1294b53757af9e79897d472eda28) - 2026-07-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

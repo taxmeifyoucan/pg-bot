@@ -61,6 +61,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Stateroot modification glamsterdam devnet 7](https://github.com/besu-eth/besu/pull/10869) - 2026-07-24
 * [Review] [Review on: fix: fix logger and Optional.get() issues](https://github.com/besu-eth/besu/pull/10871#pullrequestreview-4783829240) - 2026-07-27
 * [Commit] [implement rpc modification for block access list (#10828)](https://github.com/besu-eth/besu/commit/6eb6f16cf34bee3caf71ded0cc869cd0f4ff61fd) - 2026-07-27
+* [Review] [Review on: snap/2 - repair storage roots of pending accounts at catch-up](https://github.com/besu-eth/besu/pull/10866#pullrequestreview-4796405582) - 2026-07-28
+* [Review] [Review on: Refactor engine_newPayload into a sealed version hierarchy ](https://github.com/besu-eth/besu/pull/10840#pullrequestreview-4794474702) - 2026-07-28
+* [Pull Request] [Fix multi-tx storage prior preservation in BAL partial view import](https://github.com/besu-eth/besu/pull/10888) - 2026-07-28
+* [Review] [Review on: snap/2 - reorg recovery plan and canonical BAL application](https://github.com/besu-eth/besu/pull/10832#pullrequestreview-4794562782) - 2026-07-28
 ## Q2 2026
 
 

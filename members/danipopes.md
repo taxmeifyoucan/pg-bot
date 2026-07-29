@@ -40,6 +40,7 @@ Team: Reth
 * [Review] [Review on: feat(metrics): engine thread resource usage](https://github.com/paradigmxyz/reth/pull/26459#pullrequestreview-4743748651) - 2026-07-21
 * [Commit] [refactor: decouple evm references (#26463)](https://github.com/paradigmxyz/reth/commit/841ba4a944fe1b2dc2072956d087dc7b33311adc) - 2026-07-21
 * [Review] [Review on: chore(rpc): fix IPC server formatting](https://github.com/paradigmxyz/reth/pull/26486#pullrequestreview-4763476238) - 2026-07-23
+* [Review] [Review on: chore(deps): bump the ci-weekly group with 4 updates](https://github.com/paradigmxyz/reth/pull/26501#pullrequestreview-4802962836) - 2026-07-29
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

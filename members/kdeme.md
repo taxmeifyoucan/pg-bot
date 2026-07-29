@@ -72,6 +72,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Adjust stateless baremetal target and run it on CI](https://github.com/status-im/nimbus-eth1/pull/4557) - 2026-07-24
 * [Commit] [Bump submodules and related fixes (#4554)](https://github.com/status-im/nimbus-eth1/commit/231df5492718f354fcd9f2cb5215cdbcbc223694) - 2026-07-24
 * [Pull Request] [Encode the eth ENR entry as an RLP list](https://github.com/status-im/nimbus-eth1/pull/4575) - 2026-07-27
+* [Pull Request] [Remove EIP-7997 in-protocol factory deployment](https://github.com/status-im/nimbus-eth1/pull/4580) - 2026-07-28
+* [Pull Request] [eest zkevm: remove leftover skipped test](https://github.com/status-im/nimbus-eth1/pull/4578) - 2026-07-28
+* [Commit] [Remove EIP-7997 in-protocol factory deployment (#4580)](https://github.com/status-im/nimbus-eth1/commit/2aa84514c43ee2810dee7c46ef843282ebc64151) - 2026-07-28
+* [Commit] [eest zkevm: remove leftover skipped test (#4578)](https://github.com/status-im/nimbus-eth1/commit/72615e3943cab8bd3251a08146f36ce8e33d8735) - 2026-07-28
+* [Commit] [Encode the eth ENR entry as an RLP list (#4575)](https://github.com/status-im/nimbus-eth1/commit/8d9968c99885aad1d14257174de2646bf6d0bf27) - 2026-07-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

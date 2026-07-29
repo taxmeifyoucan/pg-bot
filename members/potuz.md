@@ -57,6 +57,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Don't downscore honest peers for foreign data column sidecars](https://github.com/OffchainLabs/prysm/pull/17231#pullrequestreview-4773369120) - 2026-07-24
 * [Review] [Review on: Don't block gloas block import on missing data columns](https://github.com/OffchainLabs/prysm/pull/17232#pullrequestreview-4773303213) - 2026-07-24
 * [Commit] [Don't downscore honest peers for foreign data column sidecars (#17231)](https://github.com/OffchainLabs/prysm/commit/ce28535d33ea880289ae71f183ccc933d633c100) - 2026-07-24
+* [Pull Request] [Reorg late blocks even on slot 31](https://github.com/OffchainLabs/prysm/pull/17257) - 2026-07-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
@@ -66,6 +67,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Set payload deadline to 6 seconds into the slot (#5414)](https://github.com/ethereum/consensus-specs/commit/5d60f97152d8f307cd7de6eae17bb1e058796de6) - 2026-07-06
 * [Review] [Review on: Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443#pullrequestreview-4685912381) - 2026-07-13
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot](https://github.com/ethereum/consensus-specs/pull/5473#pullrequestreview-4774920083) - 2026-07-24
+* [Pull Request] [Only allow bids compatible with the head view](https://github.com/ethereum/consensus-specs/pull/5491) - 2026-07-28
+* [Pull Request] [Allow epoch boundary reorgs in Gloas](https://github.com/ethereum/consensus-specs/pull/5492) - 2026-07-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629311315) - 2026-07-04
 

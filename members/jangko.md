@@ -65,6 +65,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Remove unused TestFork](https://github.com/status-im/nimbus-eth1/pull/4568) - 2026-07-27
 * [Commit] [Bump nimbus-eth2 (#4570)](https://github.com/status-im/nimbus-eth1/commit/45719096065c53886232169bc2a7e2c398059c80) - 2026-07-27
 * [Commit] [Remove unused TestFork (#4568)](https://github.com/status-im/nimbus-eth1/commit/e209f6f680cc142f2b7b209fba538ec4e819b6ba) - 2026-07-27
+* [Review] [Review on: Remove EIP-7997 in-protocol factory deployment](https://github.com/status-im/nimbus-eth1/pull/4580#pullrequestreview-4796500230) - 2026-07-28
+* [Commit] [Detach networkParams from ExecutionClientConf (#4569)](https://github.com/status-im/nimbus-eth1/commit/7d3f348584313184c409473dba1ee5e21c0a82dd) - 2026-07-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

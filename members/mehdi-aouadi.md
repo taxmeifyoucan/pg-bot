@@ -35,6 +35,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [handle deferred proposer preferences](https://github.com/Consensys/teku/pull/11013) - 2026-07-27
 * [Review] [Review on: handle deferred proposer preferences](https://github.com/Consensys/teku/pull/11013#pullrequestreview-4786268802) - 2026-07-27
 * [Review] [Review on: handle saved for the future bids](https://github.com/Consensys/teku/pull/11003#pullrequestreview-4786233887) - 2026-07-27
+* [Review] [Review on: Add builder boost factor evaluation for execution payloads](https://github.com/Consensys/teku/pull/10973#pullrequestreview-4800646041) - 2026-07-28
+* [Review] [Review on: handle deferred proposer preferences](https://github.com/Consensys/teku/pull/11013#pullrequestreview-4798336927) - 2026-07-28
+* [Review] [Review on: add validation result descriptions](https://github.com/Consensys/teku/pull/11009#pullrequestreview-4796154291) - 2026-07-28
+* [Review] [Review on: handle saved for the future bids](https://github.com/Consensys/teku/pull/11003#pullrequestreview-4796012534) - 2026-07-28
+* [Issue] [Allow builder to bid on multiple branches](https://github.com/Consensys/teku/issues/11019) - 2026-07-28
+* [Commit] [handle deferred proposer preferences (#11013)](https://github.com/Consensys/teku/commit/23549fb517d4c470ac9c986e5b113b394437c005) - 2026-07-28
+* [Commit] [add validation result descriptions (#11009)](https://github.com/Consensys/teku/commit/65aba3b3414804afd70acc481ca862b7e1e25a7f) - 2026-07-28
+* [Commit] [handle saved for the future bids (#11003)](https://github.com/Consensys/teku/commit/df25afafb37336fc13df8212373183fc63010ded) - 2026-07-28
 ## Q2 2026
 
 

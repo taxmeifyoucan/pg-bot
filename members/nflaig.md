@@ -148,6 +148,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: upgrade attestations to gloas types during block production](https://github.com/ChainSafe/lodestar/pull/9709#pullrequestreview-4779060167) - 2026-07-25
 * [Review] [Review on: test: compare state roots first in expectEqualBeaconState and bump gloas sanity timeout](https://github.com/ChainSafe/lodestar/pull/9711#pullrequestreview-4779054494) - 2026-07-25
 * [Commit] [feat: builder selection, broadcast validation, stateless flow for gloas block production (#9595)](https://github.com/ChainSafe/lodestar/commit/6568180f9646874c51509b53318d3634567b30eb) - 2026-07-27
+* [Review] [Review on: fix: retry Gloas block production on canonical head](https://github.com/ChainSafe/lodestar/pull/9721#pullrequestreview-4798254202) - 2026-07-28
+* [Review] [Review on: refactor: optimize head event emission logic](https://github.com/ChainSafe/lodestar/pull/9720#pullrequestreview-4796361851) - 2026-07-28
+* [Commit] [feat: require minimum increment to forward bids over gossip (#9706)](https://github.com/ChainSafe/lodestar/commit/d0262e861000c816836420a8e950d8381ea16503) - 2026-07-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -171,6 +174,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Rename `uint*` to `Uint*`](https://github.com/ethereum/consensus-specs/pull/5469#pullrequestreview-4757905994) - 2026-07-22
 * [Review] [Review on: Add dependent root check to `proposer_preferences` validation](https://github.com/ethereum/consensus-specs/pull/5443#pullrequestreview-4763026553) - 2026-07-23
 * [Pull Request] [Allow builders to bid on multiple branches](https://github.com/ethereum/consensus-specs/pull/5472) - 2026-07-24
+* [Review] [Review on: Only allow bids compatible with the head view](https://github.com/ethereum/consensus-specs/pull/5491#pullrequestreview-4802229323) - 2026-07-28
+* [Review] [Review on: Fix payload availability lookup using the parent block's slot](https://github.com/ethereum/consensus-specs/pull/5473#pullrequestreview-4795545065) - 2026-07-28
+* [Review] [Review on: Use better types for constants/configs/presets](https://github.com/ethereum/consensus-specs/pull/5488#pullrequestreview-4795577692) - 2026-07-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

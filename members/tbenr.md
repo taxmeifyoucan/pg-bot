@@ -64,6 +64,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [Update Schema Registry and adopt progressive ssz in GLOAS (#10966)](https://github.com/Consensys/teku/commit/48f92b61acb40dfcb526987d0cb952080b0daf7d) - 2026-07-20
 * [Review] [Review on: Remove send deposits cli](https://github.com/Consensys/teku/pull/10982#pullrequestreview-4744566541) - 2026-07-21
 * [Commit] [Use network SSZ length bounds in networking (#10987)](https://github.com/Consensys/teku/commit/b3680cacae8c0c7a2dcdd7b35a85d16dda6f2c2a) - 2026-07-22
+* [Review] [Review on: Update web3j to latest](https://github.com/Consensys/teku/pull/11018#pullrequestreview-4799626862) - 2026-07-28
+* [Review] [Review on: Modify `get_proposer_head`](https://github.com/Consensys/teku/pull/10979#pullrequestreview-4799348036) - 2026-07-28
+* [Issue] [Share proposer-equivocation evidence between gossip and fork choice](https://github.com/Consensys/teku/issues/11020) - 2026-07-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07
@@ -72,6 +75,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [QUIC memory leak fix](https://github.com/libp2p/jvm-libp2p/pull/504) - 2026-07-15
 * [Review] [Review on: Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505#pullrequestreview-4767982333) - 2026-07-23
 * [Review] [Review on: Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505#pullrequestreview-4774942181) - 2026-07-24
+* [Review] [Review on: Improve Gossip backpressure ](https://github.com/libp2p/jvm-libp2p/pull/506#pullrequestreview-4797355558) - 2026-07-28
 ## Q2 2026
 
 

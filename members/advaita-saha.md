@@ -70,6 +70,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [fix: wrong block labelling as Orphaned](https://github.com/status-im/nimbus-eth1/pull/4573) - 2026-07-27
 * [Commit] [update topNum when blocks imported are behind base (#4574)](https://github.com/status-im/nimbus-eth1/commit/e6e60f981f3300d3d441806b6b68b6bf1c1fbbf0) - 2026-07-27
 * [Commit] [fix: wrong block labeling as Orphaned (#4573)](https://github.com/status-im/nimbus-eth1/commit/70a56d1329b61875b4a39159c7ccfb8c24451087) - 2026-07-27
+* [Pull Request] [detect corrupt fc state and reset](https://github.com/status-im/nimbus-eth1/pull/4581) - 2026-07-28
+* [Review] [Review on: Improve performance of BLS pairing precompile](https://github.com/status-im/nimbus-eth1/pull/4577#pullrequestreview-4794799116) - 2026-07-28
+* [Commit] [detect corrupt fc state and reset (#4581)](https://github.com/status-im/nimbus-eth1/commit/a6c494facedd3098ee83887d7e88464455e9211d) - 2026-07-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22

@@ -44,6 +44,9 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Elaborate messages for block's payload gossip validation](https://github.com/ethereum/consensus-specs/pull/5474) - 2026-07-24
 * [Commit] [Elaborate messages for block's payload gossip validation (#5474)](https://github.com/ethereum/consensus-specs/commit/5165fa360f90f1ea450fd6cd34b29e7da5a4bcc2) - 2026-07-24
 * [Commit] [Set `only_timely` for all `get_inclusion_list_transactions` calls (#5463)](https://github.com/ethereum/consensus-specs/commit/2c9789aab726d71447ceed7d080a4bf51fa251dc) - 2026-07-24
+* [Review] [Review on: Allow builders to bid on multiple branches](https://github.com/ethereum/consensus-specs/pull/5472#pullrequestreview-4796643512) - 2026-07-28
+* [Review] [Review on: Remove specs for KZG functions](https://github.com/ethereum/consensus-specs/pull/5398#pullrequestreview-4795452575) - 2026-07-28
+* [Review] [Review on: Use better types for constants/configs/presets](https://github.com/ethereum/consensus-specs/pull/5488#pullrequestreview-4795347216) - 2026-07-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

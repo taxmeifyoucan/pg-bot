@@ -22,6 +22,7 @@ Team: Grandine
 * [Review] [Review on: Fire post-Gloas block events without waiting for EL status](https://github.com/grandinetech/grandine/pull/824#pullrequestreview-4743627672) - 2026-07-21
 * [Commit] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/51c77835a0c0220aa83b2e27e62673add4cf87ad) - 2026-07-23
 * [Pull Request] [Add `validators.yml` validator definitions](https://github.com/grandinetech/grandine/pull/829) - 2026-07-24
+* [Review] [Review on: fork choice compliance tests v1.7.0 alpha.12](https://github.com/grandinetech/grandine/pull/831#pullrequestreview-4797028031) - 2026-07-28
 ## Q2 2026
 
 

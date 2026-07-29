@@ -534,6 +534,29 @@ Team: Erigon
 * [Commit] [exec: remove journal.append, drop redundant journal clears (#22739)](https://github.com/erigontech/erigon/commit/f2c3a146df68023442341cb73de2a43322b8a443) - 2026-07-27
 * [Commit] [execution/vm: keep disabled tracing out of the interpreter hot loop (#22743)](https://github.com/erigontech/erigon/commit/e292b08cd1d6112e86a543733e099cb153387b1c) - 2026-07-27
 * [Commit] [[r3.6] commitment: ASSERT mutated external variables - cause red "sync from scratch CI" (#22701)](https://github.com/erigontech/erigon/commit/815f006bf2438bb386eaa6fcd02e5e1dc23350aa) - 2026-07-27
+* [Pull Request] [execution/state, rpc/jsonrpc: release IntraBlockState at end of RPC handlers](https://github.com/erigontech/erigon/pull/22777) - 2026-07-28
+* [Review] [Review on: execution/state, rpc/jsonrpc: release IntraBlockState at end of RPC handlers](https://github.com/erigontech/erigon/pull/22777#pullrequestreview-4794276495) - 2026-07-28
+* [Pull Request] [sd.Commit: remove double copy of keys](https://github.com/erigontech/erigon/pull/22791) - 2026-07-28
+* [Pull Request] [execution/state: embed snapshot revisions in IntraBlockState, drop revisionsPool](https://github.com/erigontech/erigon/pull/22776) - 2026-07-28
+* [Review] [Review on: execution/state: embed snapshot revisions in IntraBlockState, drop revisionsPool](https://github.com/erigontech/erigon/pull/22776#pullrequestreview-4794066968) - 2026-07-28
+* [Pull Request] [common/hexutil, rpc/ethapi: reduce allocations in NewRPCTransaction](https://github.com/erigontech/erigon/pull/22782) - 2026-07-28
+* [Pull Request] [deps: update x/exp, cel-go, mcp-go, cgroups, blst, compress, kong, isatty, secp256k1](https://github.com/erigontech/erigon/pull/22796) - 2026-07-28
+* [Pull Request] [common/hexutil: restore error mapping in Bytes.UnmarshalText](https://github.com/erigontech/erigon/pull/22779) - 2026-07-28
+* [Review] [Review on: common: fix PrettyCounter on negative values, add PrettyExact](https://github.com/erigontech/erigon/pull/22787#pullrequestreview-4795151659) - 2026-07-28
+* [Pull Request] [common/hexutil: improve performance of EncodeBig](https://github.com/erigontech/erigon/pull/22778) - 2026-07-28
+* [Review] [Review on: common/hexutil: improve performance of EncodeBig](https://github.com/erigontech/erigon/pull/22778#pullrequestreview-4794166076) - 2026-07-28
+* [Review] [Review on: [r3.5] docs: remove flags deleted in the 3.5 series](https://github.com/erigontech/erigon/pull/22793#pullrequestreview-4796096993) - 2026-07-28
+* [Review] [Review on: [r3.5] polygon/sync: deflake TestEventChannel/ConsumeEvents (#22510, #21827)](https://github.com/erigontech/erigon/pull/22792#pullrequestreview-4795594180) - 2026-07-28
+* [Commit] [sd.Commit: remove double copy of keys (#22791)](https://github.com/erigontech/erigon/commit/67d5531dcb68cbfcac8d549eac7229749dc75164) - 2026-07-28
+* [Commit] [execution/state: embed snapshot revisions in IntraBlockState, drop revisionsPool (#22776)](https://github.com/erigontech/erigon/commit/1e2066a7bb21dc403b735ea11d47083a2157c375) - 2026-07-28
+* [Commit] [common/hexutil, rpc/ethapi: reduce allocations in NewRPCTransaction (#22782)](https://github.com/erigontech/erigon/commit/6c44152ee6f5cec91e38dc873a47342e4a689b60) - 2026-07-28
+* [Commit] [execution/commitment: route BranchCache unwind tests through the LRU tail (#22766)](https://github.com/erigontech/erigon/commit/c74143be01c729836b44c8714206908adae78d83) - 2026-07-28
+* [Commit] [common/hexutil: restore error mapping in Bytes.UnmarshalText (#22779)](https://github.com/erigontech/erigon/commit/7336bf926db9790923c85617820ad2822bb356c6) - 2026-07-28
+* [Commit] [common/hexutil: improve performance of EncodeBig (#22778)](https://github.com/erigontech/erigon/commit/7485bcf08cdeeb702750615951e5d2cdff156b90) - 2026-07-28
+* [Commit] [execution/vm: store JumpTable entries by value (#22753)](https://github.com/erigontech/erigon/commit/13f52f09214070dcba70d041fcc5d82e58df48ab) - 2026-07-28
+* [Commit] [common/hexutil: align Big.ToUint256 signature with geth (#22780)](https://github.com/erigontech/erigon/commit/739655e5012b0b329b0af7815d29679f131d3e34) - 2026-07-28
+* [Commit] [node/gdbme: replace dead defer with explicit cleanup on failure paths (#22767)](https://github.com/erigontech/erigon/commit/982aa6f51b8f735c2f9d0721e65148d9a0a4b00f) - 2026-07-28
+* [Commit] [execmoduletester, backends, requests, engineapitester: release resources leaks (#22774)](https://github.com/erigontech/erigon/commit/7c017f5251385b418fa03a3e7d244d36522e857b) - 2026-07-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

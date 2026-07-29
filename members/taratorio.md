@@ -153,6 +153,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: update EIP-8282 contracts for glamsterdam-devnet-7 (#22526)](https://github.com/erigontech/erigon/commit/0f4b043cf2960ce81f3572e13f62856dc9cd7614) - 2026-07-27
 * [Commit] [[DO-NOT-MERGE] execution: update devnet fixtures to v7.2.0 (#22517)](https://github.com/erigontech/erigon/commit/c5b69709746c972dedf2ac0ad58bc88cd8f74a88) - 2026-07-27
 * [Commit] [execution/bal: move BAL processing out of staged sync (#22717)](https://github.com/erigontech/erigon/commit/6de093f0a57e89f0fdf74489d349bb2993fdaf2a) - 2026-07-27
+* [Pull Request] [[gd6] execution: fix GetAssembledBlock deadlock](https://github.com/erigontech/erigon/pull/22837) - 2026-07-28
+* [Review] [Review on: execution: remove dead collector write pipeline](https://github.com/erigontech/erigon/pull/22833#pullrequestreview-4802302155) - 2026-07-28
+* [Pull Request] [ci: fix kurtosis for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22836) - 2026-07-28
+* [Pull Request] [execution: fix GetAssembledBlock deadlock](https://github.com/erigontech/erigon/pull/22835) - 2026-07-28
+* [Pull Request] [ci: extract legacy statetest and blocktests out of make test-all](https://github.com/erigontech/erigon/pull/22822) - 2026-07-28
+* [Review] [Review on: execution: update EIP-2780 runtime gas](https://github.com/erigontech/erigon/pull/22537#pullrequestreview-4798813877) - 2026-07-28
+* [Review] [Review on: execution/stagedsync: reuse commitment BAL-fold buffer across blocks](https://github.com/erigontech/erigon/pull/22801#pullrequestreview-4798824344) - 2026-07-28
+* [Issue] [implement glamsterdam-devnet-8 changes](https://github.com/erigontech/erigon/issues/22802) - 2026-07-28
+* [Issue] [glamsterdam-devnet-8: EIP-8070 (eth/72 - Sparse Blobpool)](https://github.com/erigontech/erigon/issues/22808) - 2026-07-28
+* [Issue] [glamsterdam-devnet-8: EIP-8037 (State Creation Gas Cost Increase)](https://github.com/erigontech/erigon/issues/22804) - 2026-07-28
+* [Issue] [glamsterdam-devnet-8: EIP-2780 (Resource-based intrinsic transaction gas)](https://github.com/erigontech/erigon/issues/22803) - 2026-07-28
+* [Commit] [execution: update EIP-2780 runtime gas (#22537)](https://github.com/erigontech/erigon/commit/120d59e291d98ac44e74e528ac3eb9b083698b48) - 2026-07-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

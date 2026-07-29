@@ -47,6 +47,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Remove deprecated BeaconChainUtil use from ProfilingRun](https://github.com/Consensys/teku/pull/11006#pullrequestreview-4769842328) - 2026-07-24
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792764424) - 2026-07-28
 * [Review] [Review on: add validation result descriptions](https://github.com/Consensys/teku/pull/11009#pullrequestreview-4792258437) - 2026-07-27
+* [Pull Request] [Fix edge case for BlocksByRange request](https://github.com/Consensys/teku/pull/11021) - 2026-07-29
+* [Review] [Review on: Update github/codeql-action digest to e4fba86](https://github.com/Consensys/teku/pull/11017#pullrequestreview-4803003477) - 2026-07-29
+* [Pull Request] [Update web3j to latest](https://github.com/Consensys/teku/pull/11018) - 2026-07-28
+* [Commit] [Update web3j to latest (#11018)](https://github.com/Consensys/teku/commit/1ef28aa162abdac4b0433ed7de99b7cfa2b9f988) - 2026-07-28
+* [Commit] [Remove web3j from production (#11000)](https://github.com/Consensys/teku/commit/5971aea7ea8560145b8cf8e2f89f118f3c2eb7e4) - 2026-07-28
 ## Q2 2026
 
 

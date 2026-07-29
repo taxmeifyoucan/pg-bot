@@ -116,6 +116,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update actions/checkout action to v7.0.1](https://github.com/ethereum/consensus-specs/pull/5480#pullrequestreview-4782534424) - 2026-07-26
 * [Pull Request] [Use better types for constants/configs/presets](https://github.com/ethereum/consensus-specs/pull/5488) - 2026-07-28
 * [Pull Request] [Save signed inclusion lists in `InclusionListStore`](https://github.com/ethereum/consensus-specs/pull/5487) - 2026-07-27
+* [Review] [Review on: Only allow bids compatible with the head view](https://github.com/ethereum/consensus-specs/pull/5491#pullrequestreview-4802547569) - 2026-07-28
+* [Review] [Review on: Remove specs for KZG functions](https://github.com/ethereum/consensus-specs/pull/5398#pullrequestreview-4798114357) - 2026-07-28
+* [Review] [Review on: Use better types for constants/configs/presets](https://github.com/ethereum/consensus-specs/pull/5488#pullrequestreview-4797521125) - 2026-07-28
+* [Commit] [Fix payload availability lookup using the parent block's slot (#5473)](https://github.com/ethereum/consensus-specs/commit/8a3df1d79d70000801407e33d660171be9cd06d1) - 2026-07-28
+* [Commit] [Use better types for constants/configs/presets (#5488)](https://github.com/ethereum/consensus-specs/commit/b87d580ea228692a7610e4c31c0a3cf32c13379f) - 2026-07-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

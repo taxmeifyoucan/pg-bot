@@ -56,6 +56,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Issue] [`BalancesCache` can diverge from justified checkpoint state balances](https://github.com/sigp/lighthouse/issues/9691) - 2026-07-26
 * [Review] [Review on: Propagate EIP-8025 execution proofs on gossip behind a flag](https://github.com/sigp/lighthouse/pull/9659#pullrequestreview-4787894500) - 2026-07-27
 * [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4787598594) - 2026-07-27
+* [Pull Request] [Ensure we emit SSE attestation events when batch processing](https://github.com/sigp/lighthouse/pull/9707) - 2026-07-28
+* [Review] [Review on: Use fork-aware attestation deadlines in the VC](https://github.com/sigp/lighthouse/pull/9704#pullrequestreview-4794443654) - 2026-07-28
+* [Pull Request] [fork choice compliance tests [WIP]](https://github.com/sigp/lighthouse/pull/9710) - 2026-07-28
 ## Q2 2026
 
 

@@ -95,6 +95,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Update about.tsx](https://github.com/protocolguild/protocol-guild-site/commit/280e4bd783aa17998bd5c4dcc7138d2d3ce98b18) - 2026-07-23
 * [Commit] [Replace Calendly link](https://github.com/protocolguild/protocol-guild-site/commit/f372b337616b879abf93e1281e0b8157f0798a16) - 2026-07-23
 * [Commit] [Remove Discord + Farcaster from footer](https://github.com/protocolguild/protocol-guild-site/commit/0ac71f3e2089af1372d92f194726c499eca618a1) - 2026-07-23
+* [Commit] [Merge pull request #74 from jefag/jeff/add-holders](https://github.com/protocolguild/protocol-guild-site/commit/8f657620c0094fa6bc6343ea0b7aa08ed9efc3bc) - 2026-07-28
 ## Q2 2026
 
 

@@ -57,6 +57,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Extract plugin-api core module](https://github.com/besu-eth/besu/pull/10875#pullrequestreview-4785426937) - 2026-07-27
 * [Review] [Review on: Remove the Plugin API source-hash check](https://github.com/besu-eth/besu/pull/10879#pullrequestreview-4790454394) - 2026-07-27
 * [Review] [Review on: Refactor engine_newPayload into a sealed version hierarchy ](https://github.com/besu-eth/besu/pull/10840#pullrequestreview-4787540084) - 2026-07-27
+* [Review] [Review on: Besu 26.7.1 maintenance release](https://github.com/besu-eth/besu/pull/10889#pullrequestreview-4799231628) - 2026-07-28
+* [Pull Request] [Refactor engine_getPayload onto the ConstructorArguments/VersionScheduler foundation](https://github.com/besu-eth/besu/pull/10890) - 2026-07-28
+* [Review] [Review on: Refactor engine_newPayload into a sealed version hierarchy ](https://github.com/besu-eth/besu/pull/10840#pullrequestreview-4795550184) - 2026-07-28
+* [Review] [Review on: Extract plugin-api core module](https://github.com/besu-eth/besu/pull/10875#pullrequestreview-4796096866) - 2026-07-28
+* [Review] [Review on: fix(api): reject negative minPeers/maxBlocksBehind in readiness check](https://github.com/besu-eth/besu/pull/10846#pullrequestreview-4795885192) - 2026-07-28
+* [Commit] [Refactor engine_newPayload into a sealed version hierarchy  (#10840)](https://github.com/besu-eth/besu/commit/ea71d9e1396d3e0e964b2351bc85ce63f8783146) - 2026-07-28
 ## Q2 2026
 
 

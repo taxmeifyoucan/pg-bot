@@ -21,6 +21,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: fix(tests): update withdrawal and consolidation tests to use Header for requests verification](https://github.com/ethereum/execution-specs/pull/3235#pullrequestreview-4780517722) - 2026-07-26
 * [Pull Request] [feat(zkevm): add blob_hashes test coverage](https://github.com/ethereum/execution-specs/pull/3234) - 2026-07-25
 * [Commit] [fix(tests): update withdrawal and consolidation tests to use Header for requests verification (#3235)](https://github.com/ethereum/execution-specs/commit/00bd585693f092e2cf7cc82032ec421abefc30d3) - 2026-07-26
+* [Pull Request] [feat: change StatelessInput SSZ serialization to be EIP-7688 aligned](https://github.com/ethereum/execution-specs/pull/3248) - 2026-07-28
+* [Review] [Review on: feat: change StatelessInput SSZ serialization to be EIP-7688 aligned](https://github.com/ethereum/execution-specs/pull/3248#pullrequestreview-4797658205) - 2026-07-28
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12
@@ -48,6 +50,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Commit] [Update ere-guests and use catalog (#305)](https://github.com/eth-act/zkevm-benchmark-workload/commit/35fa24ebf007edd4c9d65bdc41b25cb5fd726a80) - 2026-07-22
 * [Pull Request] [feat: implement catalog cache for optimized batch exports and metadata management](https://github.com/eth-act/zkevm-benchmark-workload/pull/306) - 2026-07-27
 * [Commit] [feat: implement catalog cache for optimized batch exports and metadata management (#306)](https://github.com/eth-act/zkevm-benchmark-workload/commit/d38737493a3e44c36c94517b627e338fd6fb861e) - 2026-07-27
+* [Review] [Review on: feat: load only last block of eest fixture, and add target_opcode](https://github.com/eth-act/zkevm-benchmark-workload/pull/307#pullrequestreview-4797914277) - 2026-07-28
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [feat(EngineAPI): support engine_newPayloadWithWitnessVX](https://github.com/paradigmxyz/reth/issues/26415) - 2026-07-16
 

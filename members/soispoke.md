@@ -34,6 +34,7 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Commit] [Update EIP-8250: align transaction introspection assignments](https://github.com/ethereum/EIPs/commit/66e475b052c038adc59397d119cc1c65b87f12fc) - 2026-07-19
 * [Commit] [Update EIP-8272: resolve RECENTROOTREFLOAD opcode collision](https://github.com/ethereum/EIPs/commit/2c140450b07beb6076e4fb825579ecb14cc9acc0) - 2026-07-20
 * [Review] [Review on: Update EIP-8141: clarify decoding, signing, and activation](https://github.com/ethereum/EIPs/pull/11971#pullrequestreview-4752851327) - 2026-07-22
+* [Commit] [Update EIP-8141: apply charged_gas to fee settlement (#11969)](https://github.com/ethereum/EIPs/commit/fc016d59c5ad3d03ec04dfd3086a9ad6ea9b1a5f) - 2026-07-28
 ## Q2 2026
 
 

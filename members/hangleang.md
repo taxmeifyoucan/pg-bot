@@ -36,6 +36,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Fix validator execution payload bids path extractor](https://github.com/grandinetech/grandine/pull/818) - 2026-07-17
 * [Review] [Review on: Add missing SSE events](https://github.com/grandinetech/grandine/pull/691#pullrequestreview-4720304663) - 2026-07-17
 * [Issue] [[Glamsterdam] Block building API snapshot tests](https://github.com/grandinetech/grandine/issues/816) - 2026-07-17
+* [Pull Request] [Delay block until payload available](https://github.com/grandinetech/grandine/pull/833) - 2026-07-28
+* [Pull Request] [Implement builder client](https://github.com/grandinetech/grandine/pull/830) - 2026-07-28
+* [Issue] [[Bug] One malformed payload envelope can block its descendent blocks import even after the valid payload has been accepted](https://github.com/grandinetech/grandine/issues/832) - 2026-07-28
 ## Q2 2026
 
 

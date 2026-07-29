@@ -14,6 +14,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Review] [Review on: feat: support glamsterdam (gloas) networks](https://github.com/ethpandaops/tracoor/pull/56#pullrequestreview-4710164890) - 2026-07-16
 
+* [Pull Request] [fix(agent): bound concurrent beacon state and bad block fetches](https://github.com/ethpandaops/tracoor/pull/64) - 2026-07-28
+* [Commit] [fix(agent): bound concurrent beacon state and bad block fetches (#64)](https://github.com/ethpandaops/tracoor/commit/566c09bb69b98a0dabc9939186985469afcc56b8) - 2026-07-28
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Review] [Review on: feat: Glamsterdam (gloas) support — fork registry, ePBS slot phases, payload lifecycle](https://github.com/ethpandaops/lab/pull/444#pullrequestreview-4719637144) - 2026-07-17
 

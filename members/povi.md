@@ -46,6 +46,7 @@ Team: Grandine
 * [Review] [Review on: Update `eth2_libp2p`](https://github.com/grandinetech/grandine/pull/826#pullrequestreview-4754262047) - 2026-07-22
 * [Issue] [[Glamsterdam] Investigate performance](https://github.com/grandinetech/grandine/issues/828) - 2026-07-23
 * [Commit] [cargo fmt](https://github.com/grandinetech/grandine/commit/8d768f2d9d982f3a01e1796ff064ed4850f9f2cb) - 2026-07-27
+* [Pull Request] [fork choice compliance tests v1.7.0 alpha.12](https://github.com/grandinetech/grandine/pull/831) - 2026-07-28
 ## Q2 2026
 
 

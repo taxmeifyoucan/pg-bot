@@ -16,6 +16,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 * [Pull Request] [Update EIP-7997: Remove irregular state transition and state lookup](https://github.com/ethereum/EIPs/pull/11952) - 2026-07-17
 * [Commit] [Update EIP-7997: Remove irregular state transition and state lookup](https://github.com/ethereum/EIPs/commit/e239a2e8a2a7f4100f5c6605805ae0ca8624b5b9) - 2026-07-17
+* [Pull Request] [Update EIP-7805: Spec suggestions](https://github.com/ethereum/EIPs/pull/12023) - 2026-07-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(spec,tests): Implement EIP-8246](https://github.com/ethereum/execution-specs/pull/3078#pullrequestreview-4613319411) - 2026-07-01
 * [Review] [Review on: feat(spec,tests): implement EIP-7997](https://github.com/ethereum/execution-specs/pull/3079#pullrequestreview-4611441578) - 2026-07-01
@@ -60,6 +61,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: bug(spec-tools): make t8n daemon module importable on Windows](https://github.com/ethereum/execution-specs/pull/3212#pullrequestreview-4789916494) - 2026-07-27
 * [Issue] [refactor(ci): Decouple Benchmarking from Mainline Development](https://github.com/ethereum/execution-specs/issues/3244) - 2026-07-27
 * [Issue] [bug(cli-eest): `AppConfig.version` queries github.com](https://github.com/ethereum/execution-specs/issues/3241) - 2026-07-27
+* [Review] [Review on: feat(test-types): Introduce SSZ model into base types](https://github.com/ethereum/execution-specs/pull/3196#pullrequestreview-4800007298) - 2026-07-28
+* [Review] [Review on: test(eip7928): cover system-address zero-tip coinbase BAL](https://github.com/ethereum/execution-specs/pull/3239#pullrequestreview-4800200171) - 2026-07-28
+* [Pull Request] [refactor(ci): run geth benchmark CI only on `benchmarks/**` branches](https://github.com/ethereum/execution-specs/pull/3249) - 2026-07-28
+* [Commit] [refactor(tests): Remove `fork.gas_costs()` reconstruction from Amsterdam EIP-8037/8038 tests (#3169)](https://github.com/ethereum/execution-specs/commit/3850ce51d490d7e4a37a517b16a8e16f40ee0bf4) - 2026-07-28
+* [Commit] [fix(test-ci): Skip `test_cli.py` until #3241 is resolved (#3242)](https://github.com/ethereum/execution-specs/commit/c69d54ba274a222412a0ee897cccf1af6a4e8671) - 2026-07-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

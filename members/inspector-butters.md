@@ -32,6 +32,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [progressive hashTreeRoot (#16861)](https://github.com/OffchainLabs/prysm/commit/4d2fe4334e2735d485f3b6ac1ad9ab2c24d56fc3) - 2026-07-24
 * [Review] [Review on: progressive withdrawal root and light client changes](https://github.com/OffchainLabs/prysm/pull/16885#pullrequestreview-4787406932) - 2026-07-27
 * [Commit] [progressive withdrawal root and light client changes (#16885)](https://github.com/OffchainLabs/prysm/commit/ae9e44305f92818bbbdd547a454ae71c750e4c71) - 2026-07-27
+* [Commit] [builders progressive (#16896)](https://github.com/OffchainLabs/prysm/commit/985daebec2d0dae3e8659b116a88e936173a20f8) - 2026-07-28
+* [Commit] [builder pending withdrawals progressive ssz (#16887)](https://github.com/OffchainLabs/prysm/commit/ef420771a4268140c9aa60534ca99c2350c3d32a) - 2026-07-28
 ## Q2 2026
 
 

@@ -29,6 +29,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: eth/fetcher: clear partial map when dropping last waitlist peer](https://github.com/ethereum/go-ethereum/pull/35399#pullrequestreview-4762156070) - 2026-07-23
 * [Review] [Review on: core: fix tx size calculation](https://github.com/ethereum/go-ethereum/pull/35406#pullrequestreview-4771701168) - 2026-07-24
 * [Pull Request] [eth/protocols: fix Cells/GetCells RLP encoding](https://github.com/ethereum/go-ethereum/pull/35428) - 2026-07-27
+* [Commit] [eth/protocols: fix Cells/GetCells RLP encoding (#35428)](https://github.com/ethereum/go-ethereum/commit/38271784c2b31926563806da9a2e023b88f5e7a8) - 2026-07-28
 ## Q2 2026
 
 

@@ -100,6 +100,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(bls): reject unknown BLST error codes](https://github.com/ChainSafe/lodestar-z/pull/525#pullrequestreview-4754804416) - 2026-07-22
 * [Review] [Review on: refactor(pubkeys): centralize the process-wide cache](https://github.com/ChainSafe/lodestar-z/pull/522#pullrequestreview-4764311708) - 2026-07-23
 * [Review] [Review on: fix(bls): reject unknown BLST error codes](https://github.com/ChainSafe/lodestar-z/pull/525#pullrequestreview-4765498366) - 2026-07-23
+* [Review] [Review on: fix(bindings): free metrics writer on scrape failure](https://github.com/ChainSafe/lodestar-z/pull/529#pullrequestreview-4798705682) - 2026-07-28
+* [Review] [Review on: fix(bindings): clean up failed async BLS work](https://github.com/ChainSafe/lodestar-z/pull/527#pullrequestreview-4798727024) - 2026-07-28
+* [Review] [Review on: fix(bindings): harden random aggregate scalars](https://github.com/ChainSafe/lodestar-z/pull/528#pullrequestreview-4798529930) - 2026-07-28
 ## Q2 2026
 
 

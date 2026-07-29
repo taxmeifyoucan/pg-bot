@@ -32,6 +32,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: DataColumnsByRange decodes pre-fork sidecar with wrong fork at a skip-slot boundary](https://github.com/sigp/lighthouse/pull/9640#pullrequestreview-4791844977) - 2026-07-27
 * [Review] [Review on: Update blobs storage requirement in Lighthouse book](https://github.com/sigp/lighthouse/pull/9694#pullrequestreview-4791871630) - 2026-07-27
 * [Review] [Review on: Skip zero ports when building dial multiaddrs](https://github.com/sigp/lighthouse/pull/9580#pullrequestreview-4791738697) - 2026-07-27
+* [Review] [Review on: Skip ENRs with no dialable address when dialing peers](https://github.com/sigp/lighthouse/pull/9580#pullrequestreview-4802665021) - 2026-07-28
+* [Review] [Review on: Ensure we emit SSE attestation events when batch processing](https://github.com/sigp/lighthouse/pull/9707#pullrequestreview-4802829205) - 2026-07-28
 ## Q2 2026
 
 

@@ -59,6 +59,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: refactor(test): Make max balance < 2^128 wei](https://github.com/ethereum/execution-specs/pull/3227#pullrequestreview-4770931311) - 2026-07-24
 * [Review] [Review on: feat(specs,amsterdam): fold transfer log cost into value transfer cost](https://github.com/ethereum/execution-specs/pull/3214#pullrequestreview-4771420673) - 2026-07-24
 * [Review] [Review on: feat(tests): add EIP-2681 nonce-reaching-max tests](https://github.com/ethereum/execution-specs/pull/3226#pullrequestreview-4770906980) - 2026-07-24
+* [Review] [Review on: chore(tests): improve EIP-7976 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3222#pullrequestreview-4794169530) - 2026-07-28
+* [Review] [Review on: chore(tests): improve EIP-7981 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3223#pullrequestreview-4794898828) - 2026-07-28
+* [Review] [Review on: fix(test-ci): Skip `test_cli.py` until #3241 is resolved](https://github.com/ethereum/execution-specs/pull/3242#pullrequestreview-4795075997) - 2026-07-28
 ## Q2 2026
 
 

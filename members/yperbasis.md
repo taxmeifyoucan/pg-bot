@@ -264,6 +264,31 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: ci, db/state: matrix-test serial vs parallel commitment across the test workflows](https://github.com/erigontech/erigon/pull/22141#pullrequestreview-4787251553) - 2026-07-27
 * [Review] [Review on: p2p, node/direct: derive msgid tables instead of triple-maintaining them](https://github.com/erigontech/erigon/pull/22175#pullrequestreview-4786372190) - 2026-07-27
 * [Commit] [p2p, node/direct: derive msgid tables instead of triple-maintaining them (#22175)](https://github.com/erigontech/erigon/commit/afebee6a17593747df83a9173b207d3f96e90fc8) - 2026-07-27
+* [Pull Request] [execution: remove dead collector write pipeline](https://github.com/erigontech/erigon/pull/22833) - 2026-07-28
+* [Review] [Review on: execution: remove dead collector write pipeline](https://github.com/erigontech/erigon/pull/22833#pullrequestreview-4801540122) - 2026-07-28
+* [Review] [Review on: execution: apply EIP-161 account clearing to versioned write-sets](https://github.com/erigontech/erigon/pull/22768#pullrequestreview-4796431847) - 2026-07-28
+* [Review] [Review on: execution: parallel-only ExecV3 + ephemeral single-block replay harness](https://github.com/erigontech/erigon/pull/22733#pullrequestreview-4795724865) - 2026-07-28
+* [Pull Request] [cl/rpc, cl/phase1/network/services: remove dead PeerDAS code](https://github.com/erigontech/erigon/pull/22810) - 2026-07-28
+* [Review] [Review on: common/hexutil, rpc/ethapi: reduce allocations in NewRPCTransaction](https://github.com/erigontech/erigon/pull/22782#pullrequestreview-4795486505) - 2026-07-28
+* [Review] [Review on: execution: update EIP-2780 runtime gas](https://github.com/erigontech/erigon/pull/22537#pullrequestreview-4795389085) - 2026-07-28
+* [Pull Request] [execution/types: add SignAuthorization helper](https://github.com/erigontech/erigon/pull/22830) - 2026-07-28
+* [Review] [Review on: [r3.5] release: Erigon v3.5.4](https://github.com/erigontech/erigon/pull/22813#pullrequestreview-4798420969) - 2026-07-28
+* [Pull Request] [cl: reject sidecars and blocks with inconsistent fork schema](https://github.com/erigontech/erigon/pull/22797) - 2026-07-28
+* [Review] [Review on: cl: reject sidecars and blocks with inconsistent fork schema](https://github.com/erigontech/erigon/pull/22797#pullrequestreview-4797157244) - 2026-07-28
+* [Review] [Review on: common/hexutil: improve performance of EncodeBig](https://github.com/erigontech/erigon/pull/22778#pullrequestreview-4795076020) - 2026-07-28
+* [Issue] [execution: parallel calcFees synthesizes coinbase/burnt AddressPath from the pre-tx snapshot, ignoring same-tx TxOut writes](https://github.com/erigontech/erigon/issues/22834) - 2026-07-28
+* [Issue] [kurtosis: gloas mixed-CL jobs intermittently time out — cross-branch burst since 2026-07-28](https://github.com/erigontech/erigon/issues/22809) - 2026-07-28
+* [Issue] [execution: a version-map dependency raised during system-tx finalization is not retryable](https://github.com/erigontech/erigon/issues/22829) - 2026-07-28
+* [Issue] [execution: block assembly publishes raw write-sets, so EIP-161 clearing does not apply on the builder path](https://github.com/erigontech/erigon/issues/22828) - 2026-07-28
+* [Issue] [cl/clparams: ForkSchemaMatchesSlot only discriminates the Gloas boundary despite its general name](https://github.com/erigontech/erigon/issues/22820) - 2026-07-28
+* [Issue] [cl/phase1/network/services: gossip block KZG-commitment bound is skipped, not rejected, when the schema disagrees with the slot](https://github.com/erigontech/erigon/issues/22819) - 2026-07-28
+* [Issue] [cl/phase1/network/services: deferred-block loop has no recover, so a panic in OnBlock terminates the node](https://github.com/erigontech/erigon/issues/22818) - 2026-07-28
+* [Issue] [cl/sentinel/communication/ssz_snappy: DecodeAndRead's TODO points at a closed, unrelated issue](https://github.com/erigontech/erigon/issues/22817) - 2026-07-28
+* [Issue] [cl/rpc: response fork digest is never validated against the requested slot range](https://github.com/erigontech/erigon/issues/22807) - 2026-07-28
+* [Issue] [cl/das: VerifyDataColumnSidecarKZGProofs fails open for Gloas sidecars](https://github.com/erigontech/erigon/issues/22805) - 2026-07-28
+* [Issue] [cl/das: Gloas blob recovery stores recovered columns under slot 0](https://github.com/erigontech/erigon/issues/22806) - 2026-07-28
+* [Issue] [execution: EIP-161 emptiness is open-coded in four places alongside Account.Empty()](https://github.com/erigontech/erigon/issues/22794) - 2026-07-28
+* [Commit] [execution: remove dead collector write pipeline (#22833)](https://github.com/erigontech/erigon/commit/93e0eaf3adb8a12564c7c64b6ef0052ba98a1b2b) - 2026-07-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

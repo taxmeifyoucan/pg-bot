@@ -29,6 +29,25 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 
 * [Commit] [checks for correct docker env var configuration, warns when missing (#10769)](https://github.com/besu-eth/besu/commit/af5ec35734b026f0c811b5506d32fa83fd16b532) - 2026-07-23
 * [Pull Request] [enterprise (LFDT) limits retention to 7 days](https://github.com/besu-eth/besu/pull/10881) - 2026-07-27
+* [Pull Request] [Cap the number of concurrently-active JSON-RPC filters](https://github.com/besu-eth/besu/pull/10893) - 2026-07-28
+* [Pull Request] [Cap the number of globally-active WebSocket eth_subscribe subscriptions](https://github.com/besu-eth/besu/pull/10894) - 2026-07-28
+* [Pull Request] [Bound FutureMessageBuffer memory by total byte size](https://github.com/besu-eth/besu/pull/10897) - 2026-07-28
+* [Pull Request] [Fix O(N^2) HashDoS in warm-access/transient-storage tracking](https://github.com/besu-eth/besu/pull/10895) - 2026-07-28
+* [Pull Request] [Defense-in-depth against EIP-6780 selfdestruct leak](https://github.com/besu-eth/besu/pull/10898) - 2026-07-28
+* [Pull Request] [Bound devp2p block-gossip fetch work by deduplicating announcements per block number](https://github.com/besu-eth/besu/pull/10892) - 2026-07-28
+* [Pull Request] [Enforce presence of requestsHash header field from Prague on](https://github.com/besu-eth/besu/pull/10891) - 2026-07-28
+* [Pull Request] [Key precompile result caches by content, not a 32-bit hash](https://github.com/besu-eth/besu/pull/10896) - 2026-07-28
+* [Review] [Review on: EIP-8282: builder deposit and exit execution requests for Amsterdam](https://github.com/besu-eth/besu/pull/10743#pullrequestreview-4801318460) - 2026-07-28
+* [Review] [Review on: Enable Gradle GitHub Actions cache in workflows](https://github.com/besu-eth/besu/pull/10472#pullrequestreview-4801260527) - 2026-07-28
+* [Pull Request] [Besu 26.7.1 maintenance release](https://github.com/besu-eth/besu/pull/10889) - 2026-07-28
+* [Commit] [Cap the number of globally-active WebSocket eth_subscribe subscriptions (#10894)](https://github.com/besu-eth/besu/commit/3f14a9b561106e9dff3c58ac9d79ba9a99326af0) - 2026-07-29
+* [Commit] [Bound FutureMessageBuffer memory by total byte size (#10897)](https://github.com/besu-eth/besu/commit/819f68c26655fa4f6797d9a5ffa825083ff156df) - 2026-07-29
+* [Commit] [Fix O(N^2) HashDoS in warm-access/transient-storage tracking (#10895)](https://github.com/besu-eth/besu/commit/adfa98d0132538cc57f02417dc5d804721bccc49) - 2026-07-29
+* [Commit] [Defense-in-depth against EIP-6780 selfdestruct leak (#10898)](https://github.com/besu-eth/besu/commit/8c7f3c1c6cc747eb9cad762307c6c37646bea709) - 2026-07-28
+* [Commit] [Bound devp2p block-gossip fetch work by deduplicating announcements per block number (#10892)](https://github.com/besu-eth/besu/commit/d8033caea93d96165f5aa9699123b99eebc09033) - 2026-07-28
+* [Commit] [Enforce presence of requestsHash header field from Prague on](https://github.com/besu-eth/besu/commit/f8abfc1042bd87f2cc8e3af7e22b1ad6e6470515) - 2026-07-28
+* [Commit] [Key precompile result caches by content, not a 32-bit hash (#10896)](https://github.com/besu-eth/besu/commit/83ab62a35f028e30311a73a31227c87555fc3357) - 2026-07-28
+* [Commit] [enterprise (LFDT) limits retention to 7 days (#10881)](https://github.com/besu-eth/besu/commit/b7ed0488fb97051dfab117e29203bcfbd839997a) - 2026-07-28
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #7, July 22, 2026](https://github.com/ethereum/pm/issues/2165) - 2026-07-20
 

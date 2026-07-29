@@ -24,6 +24,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #792 from ethpandaops/bbusa/fcr](https://github.com/ethpandaops/dora/commit/3eae17525bbb46cd0cf6fde29390d31590dbfb82) - 2026-07-08
 * [Commit] [Merge branch 'master' into bbusa/fcr](https://github.com/ethpandaops/dora/commit/2ddf2d5f2e452ccea0b3ffccbb443ad5ffdd3bba) - 2026-07-08
 * [Commit] [bump go-eth2-client to v0.1.6 release](https://github.com/ethpandaops/dora/commit/3f091af60e1516b671f9897a1720029a4424f570) - 2026-07-08
+* [Review] [Review on: fix request result simulation for post-gloas blocks](https://github.com/ethpandaops/dora/pull/809#pullrequestreview-4797272913) - 2026-07-28
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
@@ -51,6 +52,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Commit] [Hetzner: cpx (new gen) defaults + capacity-aware placement (#166)](https://github.com/ethpandaops/template-devnets/commit/dc0f417b554f76339098eb2754eec9b1daf5ed41) - 2026-07-27
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Pull Request] [Add version envelope to Gloas event stream events](https://github.com/status-im/nimbus-eth2/pull/8816) - 2026-07-28
 ## Q2 2026
 
 

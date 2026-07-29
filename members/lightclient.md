@@ -40,6 +40,9 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: specify the APPROVE opcode gas cost](https://github.com/ethereum/EIPs/pull/12003#pullrequestreview-4768095310) - 2026-07-23
 * [Review] [Review on: Update EIP-8141: allow direct evaluation of protocol-defined validation prefixes](https://github.com/ethereum/EIPs/pull/12001#pullrequestreview-4768081130) - 2026-07-23
 * [Review] [Review on: Update EIP-8141: Specify blob support for frame transactions](https://github.com/ethereum/EIPs/pull/11985#pullrequestreview-4768071820) - 2026-07-23
+* [Review] [Review on: Update EIP-8141: define the transaction log set and unrolled-batch log semantics](https://github.com/ethereum/EIPs/pull/12008#pullrequestreview-4800155686) - 2026-07-28
+* [Review] [Review on: Update EIP-8141: define replacement, eviction, and payer exposure for the public mempool](https://github.com/ethereum/EIPs/pull/12007#pullrequestreview-4799898790) - 2026-07-28
+* [Review] [Review on: Update EIP-8141: apply charged_gas to fee settlement](https://github.com/ethereum/EIPs/pull/11969#pullrequestreview-4797589318) - 2026-07-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

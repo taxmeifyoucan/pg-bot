@@ -99,6 +99,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [fix grpc head event](https://github.com/OffchainLabs/prysm/pull/17238) - 2026-07-24
 * [Review] [Review on: fix grpc head event](https://github.com/OffchainLabs/prysm/pull/17238#pullrequestreview-4775887359) - 2026-07-24
 * [Review] [Review on: Support SSZ request bodies for `POST /eth/v2/beacon/pool/attestations` post-Electra](https://github.com/OffchainLabs/prysm/pull/17234#pullrequestreview-4773872414) - 2026-07-24
+* [Review] [Review on: Fix unfilled format verb in `data_column_sidecar_` metric](https://github.com/OffchainLabs/prysm/pull/17254#pullrequestreview-4798415920) - 2026-07-28
+* [Review] [Review on: builders progressive](https://github.com/OffchainLabs/prysm/pull/16896#pullrequestreview-4800714664) - 2026-07-28
+* [Review] [Review on: builder pending withdrawals progressive ssz](https://github.com/OffchainLabs/prysm/pull/16887#pullrequestreview-4800601747) - 2026-07-28
+* [Review] [Review on: Allow builders to bid on multiple branches](https://github.com/OffchainLabs/prysm/pull/17237#pullrequestreview-4799338120) - 2026-07-28
+* [Review] [Review on: REST VC: Add a cache for SSZ support](https://github.com/OffchainLabs/prysm/pull/17256#pullrequestreview-4798517060) - 2026-07-28
+* [Review] [Review on: Drop the unused error return from the beacon-chain sync `currentForkDigest` helper and its callers](https://github.com/OffchainLabs/prysm/pull/17253#pullrequestreview-4798076981) - 2026-07-28
+* [Review] [Review on: Reorg late blocks even on slot 31](https://github.com/OffchainLabs/prysm/pull/17257#pullrequestreview-4798071672) - 2026-07-28
 ## Q2 2026
 
 

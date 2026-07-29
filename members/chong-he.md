@@ -25,6 +25,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4770114849) - 2026-07-24
 * [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4783180718) - 2026-07-27
 * [Pull Request] [Update blobs storage requirement in Lighthouse book](https://github.com/sigp/lighthouse/pull/9694) - 2026-07-27
+* [Review] [Review on: Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682#pullrequestreview-4803064088) - 2026-07-29
+* [Review] [Review on: Add missing `--amsterdam-time` flag to lcli mock-el](https://github.com/sigp/lighthouse/pull/9703#pullrequestreview-4795292680) - 2026-07-28
 ## Q2 2026
 
 

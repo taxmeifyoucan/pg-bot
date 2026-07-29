@@ -43,6 +43,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [refactor(spec-tools): use testing pydantic models in t8n (#2924)](https://github.com/ethereum/execution-specs/commit/a2e59a6cfbd2de55ae3427673b2cd7db5a42ba38) - 2026-07-23
 * [Review] [Review on: tests(amsterdam): pin receipt status of top-frame OOG txs in multi-tx blocks](https://github.com/ethereum/execution-specs/pull/3232#pullrequestreview-4774117636) - 2026-07-24
 * [Review] [Review on: refactor(spec): make state interface fully implementation agnostic](https://github.com/ethereum/execution-specs/pull/3218#pullrequestreview-4789804361) - 2026-07-27
+* [Review] [Review on: refactor(spec-specs,tests): rename EIP-8037 regular gas to execution gas](https://github.com/ethereum/execution-specs/pull/3238#pullrequestreview-4795467675) - 2026-07-28
 ## Q2 2026
 
 
