@@ -17,6 +17,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Activate Gloas acceptance test](https://github.com/Consensys/teku/pull/10974#pullrequestreview-4697434919) - 2026-07-14
 * [Pull Request] [Set `blobDataAvailable` correctly for PTC](https://github.com/Consensys/teku/pull/10998) - 2026-07-22
+* [Pull Request] [Staked Builder API REST Client](https://github.com/Consensys/teku/pull/11026) - 2026-07-29
+* [Review] [Review on: Set `blobDataAvailable` correctly for PTC](https://github.com/Consensys/teku/pull/10998#pullrequestreview-4806322846) - 2026-07-29
+* [Commit] [Set `blobDataAvailable` correctly for PTC (#10998)](https://github.com/Consensys/teku/commit/2cb0ff0f7fb47a2b0cf1c02eb5ff50e1e1429a06) - 2026-07-29
 ## Q2 2026
 
 

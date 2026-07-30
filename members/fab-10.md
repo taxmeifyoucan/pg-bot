@@ -63,6 +63,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Extract plugin-api core module](https://github.com/besu-eth/besu/pull/10875#pullrequestreview-4796096866) - 2026-07-28
 * [Review] [Review on: fix(api): reject negative minPeers/maxBlocksBehind in readiness check](https://github.com/besu-eth/besu/pull/10846#pullrequestreview-4795885192) - 2026-07-28
 * [Commit] [Refactor engine_newPayload into a sealed version hierarchy  (#10840)](https://github.com/besu-eth/besu/commit/ea71d9e1396d3e0e964b2351bc85ce63f8783146) - 2026-07-28
+* [Review] [Review on: EIP-2780 & EIP-7702: Amsterdam resource-based intrinsic gas + per-authorization refund](https://github.com/besu-eth/besu/pull/10765#pullrequestreview-4806131604) - 2026-07-29
+* [Review] [Review on: Extract plugin-api metrics module](https://github.com/besu-eth/besu/pull/10903#pullrequestreview-4808073481) - 2026-07-29
+* [Review] [Review on: Improve error handling in tx pool batch processing](https://github.com/besu-eth/besu/pull/10902#pullrequestreview-4806029093) - 2026-07-29
 ## Q2 2026
 
 

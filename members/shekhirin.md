@@ -36,6 +36,8 @@ Team: Reth
 * [Commit] [perf(engine): txpool prewarming (#26378)](https://github.com/paradigmxyz/reth/commit/1c2942abc6d3b78a7656acdaa985bdac03408a26) - 2026-07-23
 * [Review] [Review on: refactor(storage): extract reth-storage-overlay crate](https://github.com/paradigmxyz/reth/pull/26506#pullrequestreview-4788594644) - 2026-07-27
 * [Review] [Review on: refactor(storage): consolidate overlay ownership](https://github.com/paradigmxyz/reth/pull/26522#pullrequestreview-4797457410) - 2026-07-28
+* [Pull Request] [refactor(engine): add speculative prewarming pools](https://github.com/paradigmxyz/reth/pull/26530) - 2026-07-29
+* [Review] [Review on: perf(tree): prewarm next block](https://github.com/paradigmxyz/reth/pull/26527#pullrequestreview-4806832420) - 2026-07-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

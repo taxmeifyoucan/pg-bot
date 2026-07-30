@@ -36,6 +36,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Stream engine_getBlobsV2 and engine_getBlobsV3 responses](https://github.com/besu-eth/besu/pull/10617#pullrequestreview-4785696962) - 2026-07-27
 * [Review] [Review on: Stateroot modification glamsterdam devnet 7](https://github.com/besu-eth/besu/pull/10869#pullrequestreview-4784555469) - 2026-07-27
 * [Review] [Review on: Fix multi-tx storage prior preservation in BAL partial view import](https://github.com/besu-eth/besu/pull/10888#pullrequestreview-4797993268) - 2026-07-28
+* [Pull Request] [Fix BAL state-root executor leak](https://github.com/besu-eth/besu/pull/10906) - 2026-07-29
 ## Q2 2026
 
 

@@ -13,6 +13,19 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Pull Request] [tests(binary_tree): add intensive EIP-8297 partitioned binary tree test suites](https://github.com/ethereum/execution-specs/pull/3246) - 2026-07-28
 * [Review] [Review on: tests(binary_tree): add intensive EIP-8297 partitioned binary tree test suites](https://github.com/ethereum/execution-specs/pull/3246#pullrequestreview-4796079447) - 2026-07-28
 * [Issue] [Genesis state-root computation is coupled to the MPT across the testing tooling](https://github.com/ethereum/execution-specs/issues/3251) - 2026-07-28
+
+* [Issue] [valid_at-pinned tests are silently excluded when filling against a development fork](https://github.com/ethereum/execution-specs/issues/3260) - 2026-07-29
+* [Issue] [EIP-8297: access events unimplemented, so BinaryTree fixtures encode Amsterdam gas](https://github.com/ethereum/execution-specs/issues/3258) - 2026-07-29
+* [Issue] [Make state_pbt conformant with EIP-8297 removal semantics (blocked on spec decision)](https://github.com/ethereum/execution-specs/issues/3257) - 2026-07-29
+* [Issue] [EIP-8297: zero-means-absent contradicts the normative "Zero values and deletion" section](https://github.com/ethereum/execution-specs/issues/3254) - 2026-07-29
+* [Issue] [EIP-8297: clarify whether account-header sub-indices 2-63 are intended reserve](https://github.com/ethereum/execution-specs/issues/3256) - 2026-07-29
+* [Issue] [EIP-8297: state-root computation raises raw Python errors instead of protocol-level failures](https://github.com/ethereum/execution-specs/issues/3255) - 2026-07-29
+* [Issue] [EIP-8297: account deletion diverges between state_mpt and state_pbt, visible through EIP-7610](https://github.com/ethereum/execution-specs/issues/3253) - 2026-07-29
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/pull/12027) - 2026-07-29
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436) - 2026-07-29
 ## Q2 2026
 
 

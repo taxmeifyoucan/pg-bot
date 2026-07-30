@@ -92,6 +92,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/das: self-heal PeerDAS custody column subscription via per-slot reconcile](https://github.com/erigontech/erigon/pull/22816) - 2026-07-28
 * [Issue] [Caplin block-collector ↔ staged-exec handoff leaves an unbridged block gap → permanent "parent's total difficulty not found" near chain tip (glamsterdam-devnet-6)](https://github.com/erigontech/erigon/issues/22811) - 2026-07-28
 * [Commit] [execution/stagedsync: rename BAL fold-ahead to compute-ahead (#22756)](https://github.com/erigontech/erigon/commit/8567fb3adf5adb82e98afc99c7d8ce485de6d66f) - 2026-07-28
+* [Review] [Review on: db/state: drain file readers in Aggregator.Close before unmapping](https://github.com/erigontech/erigon/pull/22713#pullrequestreview-4805119706) - 2026-07-29
+* [Review] [Review on: db/snaptype: tolerate files deleted during dir scan](https://github.com/erigontech/erigon/pull/22853#pullrequestreview-4806889957) - 2026-07-29
+* [Issue] [Caplin (gloas/ePBS): forkchoice head advances only per-epoch at tip — EL head lags ~1 epoch](https://github.com/erigontech/erigon/issues/22841) - 2026-07-29
 ## Q2 2026
 
 

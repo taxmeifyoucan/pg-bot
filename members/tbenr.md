@@ -67,6 +67,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Update web3j to latest](https://github.com/Consensys/teku/pull/11018#pullrequestreview-4799626862) - 2026-07-28
 * [Review] [Review on: Modify `get_proposer_head`](https://github.com/Consensys/teku/pull/10979#pullrequestreview-4799348036) - 2026-07-28
 * [Issue] [Share proposer-equivocation evidence between gossip and fork choice](https://github.com/Consensys/teku/issues/11020) - 2026-07-28
+* [Review] [Review on: Fix edge case for BlocksByRange request](https://github.com/Consensys/teku/pull/11021#pullrequestreview-4806567113) - 2026-07-29
+* [Pull Request] [Fix isAttestationSameSlot in GLOAS](https://github.com/Consensys/teku/pull/11028) - 2026-07-29
+* [Review] [Review on: FCR calculator part1](https://github.com/Consensys/teku/pull/11005#pullrequestreview-4806459071) - 2026-07-29
+* [Review] [Review on: Set `blobDataAvailable` correctly for PTC](https://github.com/Consensys/teku/pull/10998#pullrequestreview-4806007396) - 2026-07-29
+* [Issue] [RPC handler redesign](https://github.com/Consensys/teku/issues/11023) - 2026-07-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

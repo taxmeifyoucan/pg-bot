@@ -50,9 +50,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899) - 2026-07-08
 * [Commit] [Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/commit/554d3325e31c3f74078402d961355218ece16bee) - 2026-07-08
 
+* [Review] [Review on: Update EIP-8045: Move to Review](https://github.com/ethereum/EIPs/pull/11886#pullrequestreview-4808402094) - 2026-07-29
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Commit] [Hetzner: cpx (new gen) defaults + capacity-aware placement (#166)](https://github.com/ethpandaops/template-devnets/commit/dc0f417b554f76339098eb2754eec9b1daf5ed41) - 2026-07-27
 
+* [Pull Request] [feat(el): use ENR bootnodes and run discv5-only](https://github.com/ethpandaops/template-devnets/pull/181) - 2026-07-29
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Add version envelope to Gloas event stream events](https://github.com/status-im/nimbus-eth2/pull/8816) - 2026-07-28
 ## Q2 2026

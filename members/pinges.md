@@ -19,6 +19,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Commit] [deprecate unused CLI option (#10863)](https://github.com/besu-eth/besu/commit/403764493ec6db9235bde7c20370a91d140eb258) - 2026-07-27
 * [Review] [Review on: Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874#pullrequestreview-4793846039) - 2026-07-28
 * [Review] [Review on: Fix restart during snap sync flat-DB heal stranding node in backward sync](https://github.com/besu-eth/besu/pull/10883#pullrequestreview-4793366794) - 2026-07-28
+* [Review] [Review on: Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874#pullrequestreview-4803571481) - 2026-07-29
 ## Q2 2026
 
 

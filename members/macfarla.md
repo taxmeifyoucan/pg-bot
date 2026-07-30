@@ -88,6 +88,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix: return errors for untraceable block hashes](https://github.com/besu-eth/besu/pull/10701#pullrequestreview-4793675016) - 2026-07-28
 * [Pull Request] [simulation gas: do not apply EIP-7825 txGasLimitCap ](https://github.com/besu-eth/besu/pull/10885) - 2026-07-28
 * [Commit] [rotate changelog for 26.7.1 (#10884)](https://github.com/besu-eth/besu/commit/bab1529f5080ebe7c4134fe41c1e331e6564d381) - 2026-07-28
+* [Review] [Review on: Fix state diff tracing for debug_traceTransaction](https://github.com/besu-eth/besu/pull/10798#pullrequestreview-4814505851) - 2026-07-30
+* [Pull Request] [Improve error handling in tx pool batch processing](https://github.com/besu-eth/besu/pull/10902) - 2026-07-29
+* [Issue] [Improve error handling robustness in transaction pool batch processing](https://github.com/besu-eth/besu/issues/10901) - 2026-07-29
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

@@ -38,6 +38,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Amsterdam: shared resource-price constants foundation](https://github.com/besu-eth/besu/pull/10813) - 2026-07-16
 * [Commit] [Amsterdam: shared resource-price constants foundation (#10813)](https://github.com/besu-eth/besu/commit/f0f5c0c8d7f561ed3ac916d410cec9f11d59208f) - 2026-07-16
 * [Commit] [EIP-8038: Amsterdam state-access gas repricing (#10764)](https://github.com/besu-eth/besu/commit/b8ee5730a1cdd1c203270402b6d77b5d7682ff6b) - 2026-07-18
+* [Pull Request] [EIP-8037/7928: restore state-gas accounting and block gas dimensions](https://github.com/besu-eth/besu/pull/10907) - 2026-07-29
+* [Pull Request] [EIP-2780/7702/8038: intrinsic gas, delegation accounting, fixtures v6.1.1](https://github.com/besu-eth/besu/pull/10908) - 2026-07-29
+* [Review] [Review on: EIP-2780 & EIP-7702: Amsterdam resource-based intrinsic gas + per-authorization refund](https://github.com/besu-eth/besu/pull/10765#pullrequestreview-4807485218) - 2026-07-29
+* [Commit] [EIP-8246: Amsterdam SELFDESTRUCT preserves originator balance (#10766)](https://github.com/besu-eth/besu/commit/dbadb14e1501e09d42d7041de95f73c8cb2c41de) - 2026-07-29
+* [Commit] [EIP-2780 & EIP-7702: Amsterdam resource-based intrinsic gas + per-authorization refund (#10765)](https://github.com/besu-eth/besu/commit/15f0783bf1e4b0e6676359d73e543a69879bfb07) - 2026-07-29
+* [Commit] [EIP-8282: builder deposit and exit execution requests for Amsterdam (#10743)](https://github.com/besu-eth/besu/commit/ef1ac6ec5dec5e1f2800736332a76b9698de1415) - 2026-07-29
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 ## Q2 2026

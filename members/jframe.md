@@ -21,6 +21,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: rotate changelog for 26.7.1](https://github.com/besu-eth/besu/pull/10884#pullrequestreview-4793980248) - 2026-07-28
 * [Review] [Review on: Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874#pullrequestreview-4802538713) - 2026-07-28
 * [Commit] [Fix restart during snap sync flat-DB heal stranding node in backward sync (#10883)](https://github.com/besu-eth/besu/commit/8b250ef3a019a7eaccc76fe10052567480ec73a9) - 2026-07-28
+* [Review] [Review on: fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843#pullrequestreview-4803811675) - 2026-07-29
+* [Review] [Review on: Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874#pullrequestreview-4803866465) - 2026-07-29
 ## Q2 2026
 
 

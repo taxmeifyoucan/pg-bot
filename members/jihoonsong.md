@@ -47,6 +47,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Allow builders to bid on multiple branches](https://github.com/ethereum/consensus-specs/pull/5472#pullrequestreview-4796643512) - 2026-07-28
 * [Review] [Review on: Remove specs for KZG functions](https://github.com/ethereum/consensus-specs/pull/5398#pullrequestreview-4795452575) - 2026-07-28
 * [Review] [Review on: Use better types for constants/configs/presets](https://github.com/ethereum/consensus-specs/pull/5488#pullrequestreview-4795347216) - 2026-07-28
+* [Review] [Review on: Remove specs for KZG functions](https://github.com/ethereum/consensus-specs/pull/5398#pullrequestreview-4809709111) - 2026-07-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
@@ -54,6 +55,10 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Add missing timeout constraints to newPayload](https://github.com/ethereum/execution-apis/pull/849) - 2026-07-16
 * [Commit] [Add missing timeout constraints to newPayload (#849)](https://github.com/ethereum/execution-apis/commit/baa4c9a11736c729ef3f172633df995a84a310b2) - 2026-07-17
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/pull/12029) - 2026-07-29
+* [Commit] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/commit/cff8e93347c8f6c5f30d5ae7e8875406f71179de) - 2026-07-29
 ## Q2 2026
 
 

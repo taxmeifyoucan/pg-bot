@@ -34,6 +34,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Skip zero ports when building dial multiaddrs](https://github.com/sigp/lighthouse/pull/9580#pullrequestreview-4791738697) - 2026-07-27
 * [Review] [Review on: Skip ENRs with no dialable address when dialing peers](https://github.com/sigp/lighthouse/pull/9580#pullrequestreview-4802665021) - 2026-07-28
 * [Review] [Review on: Ensure we emit SSE attestation events when batch processing](https://github.com/sigp/lighthouse/pull/9707#pullrequestreview-4802829205) - 2026-07-28
+* [Review] [Review on: Add execution payload value to block v4](https://github.com/sigp/lighthouse/pull/9715#pullrequestreview-4814188398) - 2026-07-30
+* [Review] [Review on: Add `head_v2` event in beacon API and remove some fields in `data_column_sidecar` event](https://github.com/sigp/lighthouse/pull/9597#pullrequestreview-4812894224) - 2026-07-29
+* [Review] [Review on: Add FOCIL types and constants](https://github.com/sigp/lighthouse/pull/9708#pullrequestreview-4812087195) - 2026-07-29
 ## Q2 2026
 
 

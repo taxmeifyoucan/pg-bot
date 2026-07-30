@@ -121,6 +121,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Use better types for constants/configs/presets](https://github.com/ethereum/consensus-specs/pull/5488#pullrequestreview-4797521125) - 2026-07-28
 * [Commit] [Fix payload availability lookup using the parent block's slot (#5473)](https://github.com/ethereum/consensus-specs/commit/8a3df1d79d70000801407e33d660171be9cd06d1) - 2026-07-28
 * [Commit] [Use better types for constants/configs/presets (#5488)](https://github.com/ethereum/consensus-specs/commit/b87d580ea228692a7610e4c31c0a3cf32c13379f) - 2026-07-28
+* [Pull Request] [Add two tests for same-slot attestation zero-index assertion](https://github.com/ethereum/consensus-specs/pull/5494) - 2026-07-29
+* [Pull Request] [Rename `Bitlist`/`Bitvector` to `BitList`/`BitVector`](https://github.com/ethereum/consensus-specs/pull/5493) - 2026-07-29
+* [Review] [Review on: Remove specs for KZG functions](https://github.com/ethereum/consensus-specs/pull/5398#pullrequestreview-4809648730) - 2026-07-29
+* [Commit] [Rename `Bitlist`/`Bitvector` to `BitList`/`BitVector` (#5493)](https://github.com/ethereum/consensus-specs/commit/0ddf13b3dcdae1cc855c9aa8aa28af5e8c6f3c82) - 2026-07-29
+* [Commit] [Remove specs for KZG functions (#5398)](https://github.com/ethereum/consensus-specs/commit/26343543931168c0d68cc5df38cc9c9c454ecf86) - 2026-07-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

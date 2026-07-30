@@ -173,6 +173,21 @@ Team: Erigon
 * [Commit] [common: fix PrettyCounter on negative values, add PrettyExact (#22787)](https://github.com/erigontech/erigon/commit/6cb4cb7b53b7f9559118e2aac4766fff9355605e) - 2026-07-28
 * [Commit] [QA: show RPC integration test results on the run summary page (#22134)](https://github.com/erigontech/erigon/commit/bcde45e1a81687cd9bff7df81e2053e32caac8cd) - 2026-07-28
 * [Commit] [rpc/jsonrpc: eager in-memory cache for `debug_executionWitness` (#22384)](https://github.com/erigontech/erigon/commit/bc479d525a7a67663d3a97861cc85a69bcef1f9a) - 2026-07-28
+* [Review] [Review on: execution/state: preserve reverted RIPEMD precompile touch](https://github.com/erigontech/erigon/pull/22860#pullrequestreview-4814488139) - 2026-07-30
+* [Pull Request] [db,cmd: fix the sqeeze log prefix typo and the wrong recovery command](https://github.com/erigontech/erigon/pull/22851) - 2026-07-29
+* [Pull Request] [cmd/utils/app: keep consensus-layer data out of snapshots du estimates](https://github.com/erigontech/erigon/pull/22871) - 2026-07-29
+* [Pull Request] [readme: refresh disk sizes from 3.6 archive nodes, drop polygon](https://github.com/erigontech/erigon/pull/22866) - 2026-07-29
+* [Pull Request] [rpc/jsonrpc, db/consensuschain: pass a logger to the consensus chain reader](https://github.com/erigontech/erigon/pull/22859) - 2026-07-29
+* [Commit] [cl/pool: size operation pools by retention need (#22823)](https://github.com/erigontech/erigon/commit/97a52affbe02c76c242b158bb1069e63f61155b1) - 2026-07-29
+* [Commit] [db,cmd: fix the sqeeze log prefix typo and the wrong recovery command (#22851)](https://github.com/erigontech/erigon/commit/7efe658854c9db74dd28fce76dfc9803d0fbdb4d) - 2026-07-29
+* [Commit] [execution/state: keep ripemd's touch across a revert on the versioned path (#22854)](https://github.com/erigontech/erigon/commit/76daed3431129925ce127c42d4bd37dec86eb9e9) - 2026-07-29
+* [Commit] [fix log attribute keys that break logfmt (#22849)](https://github.com/erigontech/erigon/commit/4923bd55deaa2d0196129240c0082261f5207d67) - 2026-07-29
+* [Commit] [cl/transition: gate BLS-to-execution change signature verification on FullValidation (#22850)](https://github.com/erigontech/erigon/commit/10d1c93c6377aa49e2b7c440a0ea1c6823e68436) - 2026-07-29
+* [Commit] [cl/beacon: cover the migrated-validator and duplicate-per-validator BLS change cases (#22845)](https://github.com/erigontech/erigon/commit/166ee0cdbc86751b45ae322af8356ab62de58ceb) - 2026-07-29
+* [Commit] [cl/beacon: fix BLS-to-execution changes never being included in produced blocks (#22827)](https://github.com/erigontech/erigon/commit/bd0ddd3bd6bdb390897129b4efecb3bfdcf77eb0) - 2026-07-29
+* [Commit] [polygon/bor: fix the block extra data error log (#22815)](https://github.com/erigontech/erigon/commit/e446b9cb89b7261050c5d425a91ce00a6abd42c5) - 2026-07-29
+* [Commit] [cl,db,diagnostics,p2p: pass log values as attributes (#22812)](https://github.com/erigontech/erigon/commit/aa82d55f3917439cd33cb1cbdca52f582d9bad11) - 2026-07-29
+* [Commit] [execution/stagedsync,diagnostics: name the recovered panic log field (#22814)](https://github.com/erigontech/erigon/commit/b10abcf23b555bc0f9ebde3fdfbcc42a8cefc980) - 2026-07-29
 ## Q2 2026
 
 

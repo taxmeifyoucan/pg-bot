@@ -66,6 +66,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [refactor(ci): run geth benchmark CI only on `benchmarks/**` branches](https://github.com/ethereum/execution-specs/pull/3249) - 2026-07-28
 * [Commit] [refactor(tests): Remove `fork.gas_costs()` reconstruction from Amsterdam EIP-8037/8038 tests (#3169)](https://github.com/ethereum/execution-specs/commit/3850ce51d490d7e4a37a517b16a8e16f40ee0bf4) - 2026-07-28
 * [Commit] [fix(test-ci): Skip `test_cli.py` until #3241 is resolved (#3242)](https://github.com/ethereum/execution-specs/commit/c69d54ba274a222412a0ee897cccf1af6a4e8671) - 2026-07-28
+* [Pull Request] [feat(ci): Backport CI Workflow](https://github.com/ethereum/execution-specs/pull/3262) - 2026-07-29
+* [Review] [Review on: feat(test-benchmark): on-chain account verification](https://github.com/ethereum/execution-specs/pull/3197#pullrequestreview-4813176937) - 2026-07-29
+* [Review] [Review on: chore(tests): improve EIP-8024 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3224#pullrequestreview-4811239597) - 2026-07-29
+* [Review] [Review on: fix(test-execute): prune fork-less items before evaluating filter_combinations](https://github.com/ethereum/execution-specs/pull/3259#pullrequestreview-4810877440) - 2026-07-29
+* [Review] [Review on: feat(specs,amsterdam): EIP-2780 - fold transfer log cost into value transfer cost](https://github.com/ethereum/execution-specs/pull/3214#pullrequestreview-4809651447) - 2026-07-29
+* [Review] [Review on: feat(tests): EIP-7928 - cover system-address zero-tip coinbase BAL](https://github.com/ethereum/execution-specs/pull/3239#pullrequestreview-4809535362) - 2026-07-29
+* [Commit] [fix(tests): enhance & un-skip Amsterdam ported static tests (Pt. 1) (#3215)](https://github.com/ethereum/execution-specs/commit/f1c3408bde8d5509f302eee92586cfa30a462ea4) - 2026-07-29
+* [Commit] [refactor(ci): run geth benchmark CI only on `benchmarks/**` branches (#3249)](https://github.com/ethereum/execution-specs/commit/46364f77ab5b72376d47d1f62380f4b9901ab87e) - 2026-07-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

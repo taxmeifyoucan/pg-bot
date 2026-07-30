@@ -94,6 +94,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [ci: bump gnosis Flat sync-validation timeout to 6h](https://github.com/NethermindEth/nethermind/pull/12585) - 2026-07-28
 * [Commit] [ci: bump gnosis Flat sync-validation timeout to 6h (#12585)](https://github.com/NethermindEth/nethermind/commit/d70dcb10e36521700fbbb2a6af3728565be0fa28) - 2026-07-28
 * [Commit] [perf(evm): raise eth_call instruction-stream retained-size cap (256 → 512 KiB) (#12574)](https://github.com/NethermindEth/nethermind/commit/f608e955762841b65c60a6548191b8c5a68592c6) - 2026-07-28
+* [Pull Request] [Optimize EVM instruction stream hot paths](https://github.com/NethermindEth/nethermind/pull/12608) - 2026-07-29
+* [Pull Request] [Suppress expected RPC overload warnings](https://github.com/NethermindEth/nethermind/pull/12609) - 2026-07-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

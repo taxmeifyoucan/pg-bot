@@ -48,6 +48,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [Enforce presence of requestsHash header field from Prague on](https://github.com/besu-eth/besu/commit/f8abfc1042bd87f2cc8e3af7e22b1ad6e6470515) - 2026-07-28
 * [Commit] [Key precompile result caches by content, not a 32-bit hash (#10896)](https://github.com/besu-eth/besu/commit/83ab62a35f028e30311a73a31227c87555fc3357) - 2026-07-28
 * [Commit] [enterprise (LFDT) limits retention to 7 days (#10881)](https://github.com/besu-eth/besu/commit/b7ed0488fb97051dfab117e29203bcfbd839997a) - 2026-07-28
+* [Review] [Review on: EIP-8246: Amsterdam SELFDESTRUCT preserves originator balance](https://github.com/besu-eth/besu/pull/10766#pullrequestreview-4811461989) - 2026-07-29
+* [Commit] [Cap the number of concurrently-active JSON-RPC filters (#10893)](https://github.com/besu-eth/besu/commit/bf2a94134cd3a05fa5b1458e2dc199ae76bf23b2) - 2026-07-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #7, July 22, 2026](https://github.com/ethereum/pm/issues/2165) - 2026-07-20
 

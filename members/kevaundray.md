@@ -21,6 +21,9 @@ Team: Consensus R&D (EF)
 * [Commit] [Update EIP-8297: Update EIP-8297.md](https://github.com/ethereum/EIPs/commit/3dd83967d8cda1310c450fd65c48c119ab2da323) - 2026-07-22
 * [Review] [Review on: Add EIP: Offline state migration to the PBT](https://github.com/ethereum/EIPs/pull/12006#pullrequestreview-4766962639) - 2026-07-23
 * [Review] [Review on: Update EIP-8297: redraw diagram and drop EIP-7864 changes section](https://github.com/ethereum/EIPs/pull/12002#pullrequestreview-4763900120) - 2026-07-23
+* [Review] [Review on: Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/pull/12027#pullrequestreview-4810140301) - 2026-07-29
+* [Pull Request] [Update EIP-8200: Remove BLS map precompiles](https://github.com/ethereum/EIPs/pull/12031) - 2026-07-29
+* [Commit] [Update EIP-8200: Remove BLS map precompiles](https://github.com/ethereum/EIPs/commit/4453c19567bd461d27ec555aa6f91e6423b4613e) - 2026-07-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14

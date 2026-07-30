@@ -151,6 +151,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: retry Gloas block production on canonical head](https://github.com/ChainSafe/lodestar/pull/9721#pullrequestreview-4798254202) - 2026-07-28
 * [Review] [Review on: refactor: optimize head event emission logic](https://github.com/ChainSafe/lodestar/pull/9720#pullrequestreview-4796361851) - 2026-07-28
 * [Commit] [feat: require minimum increment to forward bids over gossip (#9706)](https://github.com/ChainSafe/lodestar/commit/d0262e861000c816836420a8e950d8381ea16503) - 2026-07-28
+* [Review] [Review on: fix: distinguish 404 from real errors when waiting for genesis](https://github.com/ChainSafe/lodestar/pull/9726#pullrequestreview-4813762549) - 2026-07-29
+* [Review] [Review on: refactor: move assertEqualParams from validator to config](https://github.com/ChainSafe/lodestar/pull/9725#pullrequestreview-4813755377) - 2026-07-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

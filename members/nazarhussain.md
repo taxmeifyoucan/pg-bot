@@ -58,6 +58,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28
+* [Commit] [Apply attester slashing before tick in FCR slashed validator tests (#5490)](https://github.com/ethereum/consensus-specs/commit/a5e67ae1cf607ba8124e892e835bae5c74181fbd) - 2026-07-29
+* [Commit] [Compute real aggregate pubkeys when BLS verification is disabled (#5489)](https://github.com/ethereum/consensus-specs/commit/5e40d95a6704873b2670c3fc9fa7f06219838100) - 2026-07-29
 ## Q2 2026
 
 

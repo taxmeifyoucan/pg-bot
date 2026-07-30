@@ -20,6 +20,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Add execution_payload_value to produceBlockV4](https://github.com/Consensys/teku/issues/11015) - 2026-07-27
 * [Issue] [Updates to head_v2 event (Beacon API)](https://github.com/Consensys/teku/issues/11014) - 2026-07-27
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4793613558) - 2026-07-28
+* [Review] [Review on: Fix edge case for BlocksByRange request](https://github.com/Consensys/teku/pull/11021#pullrequestreview-4814288764) - 2026-07-30
 ## Q2 2026
 
 

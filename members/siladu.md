@@ -37,6 +37,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: display max open file value](https://github.com/besu-eth/besu/pull/10812#pullrequestreview-4711745222) - 2026-07-16
 * [Review] [Review on: Enable Gradle GitHub Actions cache in workflows](https://github.com/besu-eth/besu/pull/10472#pullrequestreview-4732860477) - 2026-07-20
 * [Review] [Review on: add programmatic JMH runner with new schema](https://github.com/besu-eth/besu/pull/10868#pullrequestreview-4795568402) - 2026-07-28
+* [Review] [Review on: Slow block tracer](https://github.com/besu-eth/besu/pull/10746#pullrequestreview-4807326335) - 2026-07-29
 ## Q2 2026
 
 

@@ -30,6 +30,8 @@ Team: Erigon
 * [Pull Request] [qa-tests: small test name fixes for a better visualisation inside the test report](https://github.com/erigontech/erigon/pull/22770) - 2026-07-27
 * [Pull Request] [qa-tests: add Claude skill to better analyse QA test results](https://github.com/erigontech/erigon/pull/22769) - 2026-07-27
 * [Review] [Review on: docs: drop baseUrl from docs/site tsconfig so TypeScript 7 can land](https://github.com/erigontech/erigon/pull/22764#pullrequestreview-4787011850) - 2026-07-27
+* [Issue] [snapshot block retiring error on Gnosis](https://github.com/erigontech/erigon/issues/22856) - 2026-07-29
+* [Commit] [qa-tests: small test name fixes for a better visualisation inside the test report (#22770)](https://github.com/erigontech/erigon/commit/0df508727b7f6c70326b223e69f085b3b8deb2da) - 2026-07-29
 ## Q2 2026
 
 

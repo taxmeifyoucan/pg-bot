@@ -34,6 +34,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Ensure sigsets are part of async env in batch validation](https://github.com/status-im/nimbus-eth2/pull/8804#pullrequestreview-4781295417) - 2026-07-26
 * [Pull Request] [Offload gossip KZG verifications to taskpool](https://github.com/status-im/nimbus-eth2/pull/8810) - 2026-07-27
 * [Pull Request] [Add --debug-force-resync option](https://github.com/status-im/nimbus-eth2/pull/8815) - 2026-07-28
+* [Review] [Review on: Add --force-resync option](https://github.com/status-im/nimbus-eth2/pull/8815#pullrequestreview-4811763030) - 2026-07-29
+* [Pull Request] [Support recent stateRoot in more beacon-APIs](https://github.com/status-im/nimbus-eth2/pull/8819) - 2026-07-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630) - 2026-07-06
 * [Commit] [Forward compatible consensus data structures (EIP-7688) (#4630)](https://github.com/ethereum/consensus-specs/commit/bd6df5afe26d56e9ccf623071c3b574a76967ac9) - 2026-07-06

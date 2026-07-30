@@ -182,6 +182,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [[PROTOTYPE] EIP-8297 partitioned binary tree (PBT) state backend](https://github.com/NethermindEth/nethermind/pull/12573) - 2026-07-27
 * [Review] [Review on: perf(flatdb): paced GC + gen0 fission to cut read-path GC pauses at gigagas scale](https://github.com/NethermindEth/nethermind/pull/12402#pullrequestreview-4787009033) - 2026-07-27
 * [Commit] [Batch RocksDB full enumerations (#12564)](https://github.com/NethermindEth/nethermind/commit/a335421325a8ce99ef9b3aeb7e1dc30a80c25d08) - 2026-07-27
+* [Review] [Review on: Archive(sync) : Increase receipts blocks write buffer](https://github.com/NethermindEth/nethermind/pull/12604#pullrequestreview-4808056348) - 2026-07-29
 ## Q2 2026
 
 

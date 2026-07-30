@@ -47,6 +47,7 @@ Team: Grandine
 * [Issue] [[Glamsterdam] Investigate performance](https://github.com/grandinetech/grandine/issues/828) - 2026-07-23
 * [Commit] [cargo fmt](https://github.com/grandinetech/grandine/commit/8d768f2d9d982f3a01e1796ff064ed4850f9f2cb) - 2026-07-27
 * [Pull Request] [fork choice compliance tests v1.7.0 alpha.12](https://github.com/grandinetech/grandine/pull/831) - 2026-07-28
+* [Review] [Review on: Delay block until payload available](https://github.com/grandinetech/grandine/pull/833#pullrequestreview-4807838040) - 2026-07-29
 ## Q2 2026
 
 

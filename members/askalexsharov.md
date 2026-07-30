@@ -557,6 +557,29 @@ Team: Erigon
 * [Commit] [common/hexutil: align Big.ToUint256 signature with geth (#22780)](https://github.com/erigontech/erigon/commit/739655e5012b0b329b0af7815d29679f131d3e34) - 2026-07-28
 * [Commit] [node/gdbme: replace dead defer with explicit cleanup on failure paths (#22767)](https://github.com/erigontech/erigon/commit/982aa6f51b8f735c2f9d0721e65148d9a0a4b00f) - 2026-07-28
 * [Commit] [execmoduletester, backends, requests, engineapitester: release resources leaks (#22774)](https://github.com/erigontech/erigon/commit/7c017f5251385b418fa03a3e7d244d36522e857b) - 2026-07-28
+* [Review] [Review on: cl/pool: size operation pools by retention need](https://github.com/erigontech/erigon/pull/22823#pullrequestreview-4803814397) - 2026-07-29
+* [Review] [Review on: cmd/utils: correct --db.read.concurrency usage on read-tx exhaustion](https://github.com/erigontech/erigon/pull/22848#pullrequestreview-4806509994) - 2026-07-29
+* [Review] [Review on: cl: reject sidecars and blocks with inconsistent fork schema](https://github.com/erigontech/erigon/pull/22797#pullrequestreview-4806885998) - 2026-07-29
+* [Review] [Review on: qa-tests: small test name fixes for a better visualisation inside the test report](https://github.com/erigontech/erigon/pull/22770#pullrequestreview-4806899740) - 2026-07-29
+* [Review] [Review on: db,cmd: fix the sqeeze log prefix typo and the wrong recovery command](https://github.com/erigontech/erigon/pull/22851#pullrequestreview-4806426867) - 2026-07-29
+* [Pull Request] [db/state: size-only GetCodeSize read path skipping code decompression](https://github.com/erigontech/erigon/pull/22858) - 2026-07-29
+* [Review] [Review on: db/state: size-only GetCodeSize read path skipping code decompression](https://github.com/erigontech/erigon/pull/22858#pullrequestreview-4810473688) - 2026-07-29
+* [Review] [Review on: [wip] [bloatnet] domain: store largeValues in own auto-increment-id table](https://github.com/erigontech/erigon/pull/21801#pullrequestreview-4810415129) - 2026-07-29
+* [Review] [Review on: rpc/jsonrpc, db/consensuschain: pass a logger to the consensus chain reader](https://github.com/erigontech/erigon/pull/22859#pullrequestreview-4806865842) - 2026-07-29
+* [Review] [Review on: execution: reuse IntraBlockState log entries to remove LOG-path allocations](https://github.com/erigontech/erigon/pull/22723#pullrequestreview-4810342511) - 2026-07-29
+* [Review] [Review on: execution/state, rpc/jsonrpc: release IntraBlockState at end of RPC handlers](https://github.com/erigontech/erigon/pull/22777#pullrequestreview-4804273775) - 2026-07-29
+* [Pull Request] [[wip] db/state: replace sync.Pool with bounded free-list for domain getFromFile caches](https://github.com/erigontech/erigon/pull/22838) - 2026-07-29
+* [Review] [Review on: [wip] db/state: replace sync.Pool with bounded free-list for domain getFromFile caches](https://github.com/erigontech/erigon/pull/22838#pullrequestreview-4803727738) - 2026-07-29
+* [Pull Request] [[wip] db/etl: replace Allocator's sync.Pool with a bounded non-draining free-list](https://github.com/erigontech/erigon/pull/22840) - 2026-07-29
+* [Review] [Review on: [wip] db/etl: replace Allocator's sync.Pool with a bounded non-draining free-list](https://github.com/erigontech/erigon/pull/22840#pullrequestreview-4803720996) - 2026-07-29
+* [Pull Request] [db/etl: replay sorted non-overlapping runs sequentially instead of heap-merging](https://github.com/erigontech/erigon/pull/22846) - 2026-07-29
+* [Review] [Review on: db/etl: replay sorted non-overlapping runs sequentially instead of heap-merging](https://github.com/erigontech/erigon/pull/22846#pullrequestreview-4805210614) - 2026-07-29
+* [Pull Request] [etl: rm mkdiral](https://github.com/erigontech/erigon/pull/22861) - 2026-07-29
+* [Pull Request] [db/snaptype: tolerate files deleted during dir scan](https://github.com/erigontech/erigon/pull/22853) - 2026-07-29
+* [Commit] [rpc, execution: release IntraBlockState in more one-shot and reset paths (#22847)](https://github.com/erigontech/erigon/commit/2c71b940d5bc8f5ca5127a05f5c143cfbce9c3a8) - 2026-07-29
+* [Commit] [agents.md advise B2 English  (#22843)](https://github.com/erigontech/erigon/commit/1a89b9a392194567263f16b9a2c045231ffc6cd5) - 2026-07-29
+* [Commit] [deps: update x/exp, cel-go, mcp-go, cgroups, blst, compress, kong, isatty, secp256k1 (#22796)](https://github.com/erigontech/erigon/commit/d759e5c6cedd033e48c39979b2d49d862ca50af3) - 2026-07-29
+* [Commit] [cmd/rpcdaemon/graphql: resolve miner, createdContract and log.account fields (#22710)](https://github.com/erigontech/erigon/commit/6d12bdd560c5401ee1690db540f79f6d0a765327) - 2026-07-29
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

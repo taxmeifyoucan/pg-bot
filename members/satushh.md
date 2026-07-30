@@ -46,6 +46,9 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Don't block gloas block import on missing data columns](https://github.com/OffchainLabs/prysm/pull/17232#pullrequestreview-4773943410) - 2026-07-24
 * [Pull Request] [Fix backfill retry panic when blob/column setup fails after block verification](https://github.com/OffchainLabs/prysm/pull/17235) - 2026-07-24
 * [Review] [Review on: Allow builders to bid on multiple branches](https://github.com/OffchainLabs/prysm/pull/17237#pullrequestreview-4788997002) - 2026-07-27
+* [Pull Request] [Log the underlying error in the "genesis provider failed" warning](https://github.com/OffchainLabs/prysm/pull/17259) - 2026-07-29
+* [Review] [Review on: Reorg late blocks even on slot 31](https://github.com/OffchainLabs/prysm/pull/17257#pullrequestreview-4805731734) - 2026-07-29
+* [Commit] [Log the underlying error in the "genesis provider failed" warning (#17259)](https://github.com/OffchainLabs/prysm/commit/7886752846a0442373b1fc9f46a620a5816290e5) - 2026-07-29
 ## Q2 2026
 
 

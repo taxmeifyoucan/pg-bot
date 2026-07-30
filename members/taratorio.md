@@ -165,6 +165,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [glamsterdam-devnet-8: EIP-8037 (State Creation Gas Cost Increase)](https://github.com/erigontech/erigon/issues/22804) - 2026-07-28
 * [Issue] [glamsterdam-devnet-8: EIP-2780 (Resource-based intrinsic transaction gas)](https://github.com/erigontech/erigon/issues/22803) - 2026-07-28
 * [Commit] [execution: update EIP-2780 runtime gas (#22537)](https://github.com/erigontech/erigon/commit/120d59e291d98ac44e74e528ac3eb9b083698b48) - 2026-07-28
+* [Pull Request] [execution/state: preserve reverted RIPEMD precompile touch](https://github.com/erigontech/erigon/pull/22860) - 2026-07-29
+* [Review] [Review on: execution/state: withhold created-empty versioned writes](https://github.com/erigontech/erigon/pull/22768#pullrequestreview-4807204111) - 2026-07-29
+* [Commit] [ci: fix kurtosis for glamsterdam-devnet-7 (#22836)](https://github.com/erigontech/erigon/commit/a1ff1980b4b945d1d7b0166933d5a0a21f1918fc) - 2026-07-29
+* [Commit] [ci: extract legacy statetest and blocktests out of make test-all (#22822)](https://github.com/erigontech/erigon/commit/a362a583c2ce9a673e512fbe8c279bbe923a7f2c) - 2026-07-29
+* [Commit] [execution: fix GetAssembledBlock deadlock (#22835)](https://github.com/erigontech/erigon/commit/8cc9d5271800307d7386450acc5b1b745144459a) - 2026-07-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

@@ -58,6 +58,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Don't block gloas block import on missing data columns](https://github.com/OffchainLabs/prysm/pull/17232#pullrequestreview-4773303213) - 2026-07-24
 * [Commit] [Don't downscore honest peers for foreign data column sidecars (#17231)](https://github.com/OffchainLabs/prysm/commit/ce28535d33ea880289ae71f183ccc933d633c100) - 2026-07-24
 * [Pull Request] [Reorg late blocks even on slot 31](https://github.com/OffchainLabs/prysm/pull/17257) - 2026-07-28
+* [Pull Request] [Add attributes event when sending on late blocks.](https://github.com/OffchainLabs/prysm/pull/17262) - 2026-07-29
+* [Commit] [Add attributes event when sending on late blocks. (#17262)](https://github.com/OffchainLabs/prysm/commit/6bd25639b9e6b125536477f274558aa8f65500f4) - 2026-07-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
@@ -78,6 +80,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [ci: open a PR for regenerated syso files instead of pushing to main](https://github.com/OffchainLabs/hashtree/pull/66) - 2026-07-08
 * [Commit] [Update cargo, nim and makefile version to 0.2.5 (#68)](https://github.com/OffchainLabs/hashtree/commit/30497cff98a06362eadde897202634f91d504fd8) - 2026-07-08
 * [Commit] [ci: open a PR for regenerated syso files instead of pushing to main (#66)](https://github.com/OffchainLabs/hashtree/commit/7a855641a40c266b4241e8bdbccdb4e4ec5336be) - 2026-07-08
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-7732: Move to Review](https://github.com/ethereum/EIPs/pull/11873#pullrequestreview-4811214262) - 2026-07-29
 ## Q2 2026
 
 

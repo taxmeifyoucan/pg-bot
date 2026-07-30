@@ -13,6 +13,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Add verifier error for payload](https://github.com/status-im/nimbus-eth2/pull/8778#pullrequestreview-4734897952) - 2026-07-20
+* [Pull Request] [Syncing v3p2 (columns).](https://github.com/status-im/nimbus-eth2/pull/8824) - 2026-07-29
+* [Pull Request] [Syncing v3p1 (networking).](https://github.com/status-im/nimbus-eth2/pull/8821) - 2026-07-29
+* [Pull Request] [VC: Start using postStateValidators instead of getStateValidators.](https://github.com/status-im/nimbus-eth2/pull/8822) - 2026-07-29
 ## Q2 2026
 
 

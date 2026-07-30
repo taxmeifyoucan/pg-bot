@@ -31,6 +31,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Pull Request] [Update EIP-8297: redraw diagram and drop EIP-7864 changes section](https://github.com/ethereum/EIPs/pull/12002) - 2026-07-23
 * [Review] [Review on: Update EIP-8297: redraw diagram and drop EIP-7864 changes section](https://github.com/ethereum/EIPs/pull/12002#pullrequestreview-4763918066) - 2026-07-23
 * [Commit] [Update EIP-8297: redraw diagram and drop EIP-7864 changes section](https://github.com/ethereum/EIPs/commit/38e826621dca583bb0dba62647b56fddcca849c8) - 2026-07-23
+* [Pull Request] [Update EIP-8038: restate the gas schedule as an access/write/creation component model](https://github.com/ethereum/EIPs/pull/12028) - 2026-07-29
+* [Commit] [Update EIP-8038: restate the gas schedule as an access/write/creation component model](https://github.com/ethereum/EIPs/commit/b7491982cec3657684e3047f9647b4c60fc23d4d) - 2026-07-29
 ## Q2 2026
 
 

@@ -60,6 +60,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 [eth-act/ere](https://github.com/eth-act/ere)
 * [Review] [Review on: feat: propagate rustflags](https://github.com/eth-act/ere/pull/391#pullrequestreview-4713409107) - 2026-07-16
 
+* [Review] [Review on: feat: add verification key generation document](https://github.com/eth-act/ere/pull/393#pullrequestreview-4810539741) - 2026-07-29
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Update EIP-8297.md](https://github.com/ethereum/EIPs/pull/11978#pullrequestreview-4754853085) - 2026-07-22
 

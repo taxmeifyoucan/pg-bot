@@ -60,6 +60,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: mark only the FULL variant invalid on EL-invalid payloads](https://github.com/status-im/nimbus-eth2/pull/8800#pullrequestreview-4789962422) - 2026-07-27
 * [Pull Request] [rm old --rpc warning messages](https://github.com/status-im/nimbus-eth2/pull/8807) - 2026-07-27
 * [Review] [Review on: update links to alpha 12](https://github.com/status-im/nimbus-eth2/pull/8812#pullrequestreview-4796435745) - 2026-07-28
+* [Review] [Review on: Add --force-resync option](https://github.com/status-im/nimbus-eth2/pull/8815#pullrequestreview-4811557388) - 2026-07-29
+* [Review] [Review on: get attestation rewards](https://github.com/status-im/nimbus-eth2/pull/8649#pullrequestreview-4811262349) - 2026-07-29
+* [Review] [Review on: update links to alpha 12](https://github.com/status-im/nimbus-eth2/pull/8812#pullrequestreview-4809885569) - 2026-07-29
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -105,6 +108,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: proxy: EIP-2935 anchor jump](https://github.com/status-im/nimbus-eth1/pull/4530#pullrequestreview-4783786941) - 2026-07-27
 * [Commit] [bump nim-stint to optimize ADDMOD, MOD, MULMOD, and SMOD opcodes (#4572)](https://github.com/status-im/nimbus-eth1/commit/38e14675d15b397f385e2df9e2d021932f8adeb7) - 2026-07-27
 * [Commit] [optimize BLAKE2F EVM precompile (#4576)](https://github.com/status-im/nimbus-eth1/commit/52eefb82f82c1294b53757af9e79897d472eda28) - 2026-07-28
+* [Pull Request] [use stable nimbus-eth2 image for kurtosis again](https://github.com/status-im/nimbus-eth1/pull/4587) - 2026-07-29
+* [Pull Request] [devnet 8 will be discv5-only](https://github.com/status-im/nimbus-eth1/pull/4582) - 2026-07-29
+* [Issue] [release-readiness tracker](https://github.com/status-im/nimbus-eth1/issues/4586) - 2026-07-29
+* [Commit] [use stable nimbus-eth2 image for kurtosis again (#4587)](https://github.com/status-im/nimbus-eth1/commit/bdd25396d78c215b44eb6edbf39bfd5ddb1a7660) - 2026-07-29
+* [Commit] [version 0.4.0](https://github.com/status-im/nimbus-eth1/commit/2ed512525a955d4f6c5f977eae4ea761b770d58a) - 2026-07-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

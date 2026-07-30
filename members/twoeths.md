@@ -65,6 +65,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: implement EIP-8333 boundary checkpoint roots](https://github.com/ChainSafe/lodestar/pull/9698#pullrequestreview-4778719021) - 2026-07-25
 * [Review] [Review on: fix: upgrade attestations to gloas types during block production](https://github.com/ChainSafe/lodestar/pull/9709#pullrequestreview-4784810793) - 2026-07-27
 * [Issue] [Error: No state in cache for finalized checkpoint](https://github.com/ChainSafe/lodestar/issues/9718) - 2026-07-28
+* [Review] [Review on: fix(beacon-node): avoid deep-sync head-state wedge](https://github.com/ChainSafe/lodestar/pull/9717#pullrequestreview-4803818027) - 2026-07-29
+* [Review] [Review on: fix: harden range sync hashBlocks()](https://github.com/ChainSafe/lodestar/pull/9686#pullrequestreview-4805043687) - 2026-07-29
+* [Review] [Review on: chore: follow up on #9390 on EIP-7688 changes](https://github.com/ChainSafe/lodestar/pull/9689#pullrequestreview-4804812131) - 2026-07-29
+* [Review] [Review on: feat: classify batch processing failures](https://github.com/ChainSafe/lodestar/pull/9693#pullrequestreview-4803926264) - 2026-07-29
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

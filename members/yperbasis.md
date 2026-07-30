@@ -289,6 +289,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [cl/das: Gloas blob recovery stores recovered columns under slot 0](https://github.com/erigontech/erigon/issues/22806) - 2026-07-28
 * [Issue] [execution: EIP-161 emptiness is open-coded in four places alongside Account.Empty()](https://github.com/erigontech/erigon/issues/22794) - 2026-07-28
 * [Commit] [execution: remove dead collector write pipeline (#22833)](https://github.com/erigontech/erigon/commit/93e0eaf3adb8a12564c7c64b6ef0052ba98a1b2b) - 2026-07-28
+* [Review] [Review on: execution/state: preserve reverted RIPEMD precompile touch](https://github.com/erigontech/erigon/pull/22860#pullrequestreview-4807632658) - 2026-07-29
+* [Review] [Review on: execution/state: withhold created-empty versioned writes](https://github.com/erigontech/erigon/pull/22768#pullrequestreview-4807766062) - 2026-07-29
+* [Pull Request] [execution: complete versioned finalization and Glamsterdam BAL handling](https://github.com/erigontech/erigon/pull/22873) - 2026-07-29
+* [Pull Request] [execution: validate blocks resumed mid-block](https://github.com/erigontech/erigon/pull/22868) - 2026-07-29
+* [Review] [Review on: node: cover h2c upgrade route and TLS protocol negotiation](https://github.com/erigontech/erigon/pull/22862#pullrequestreview-4808682358) - 2026-07-29
+* [Review] [Review on: execution: update EIP-8037 for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22548#pullrequestreview-4807151963) - 2026-07-29
+* [Review] [Review on: execution: parallel-only ExecV3 + ephemeral single-block replay harness](https://github.com/erigontech/erigon/pull/22733#pullrequestreview-4806945469) - 2026-07-29
+* [Pull Request] [execution/cache, execution/commitment: make Clear coherence race-safe](https://github.com/erigontech/erigon/pull/22869) - 2026-07-29
+* [Review] [Review on: execution/cache, execution/commitment: make Clear coherence race-safe](https://github.com/erigontech/erigon/pull/22869#pullrequestreview-4811856926) - 2026-07-29
+* [Review] [Review on: execution: reuse IntraBlockState log entries to remove LOG-path allocations](https://github.com/erigontech/erigon/pull/22723#pullrequestreview-4806951118) - 2026-07-29
+* [Commit] [cl: reject sidecars and blocks with inconsistent fork schema (#22797)](https://github.com/erigontech/erigon/commit/5673f07d29a4c746f44d740043616d4cebe8b46d) - 2026-07-29
+* [Commit] [cl/rpc, cl/phase1/network/services: remove dead PeerDAS code (#22810)](https://github.com/erigontech/erigon/commit/1e078ffb04a99ed8ef5f574789f38a100b01a59f) - 2026-07-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

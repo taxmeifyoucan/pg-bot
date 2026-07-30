@@ -62,6 +62,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: chore(tests): improve EIP-7976 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3222#pullrequestreview-4794169530) - 2026-07-28
 * [Review] [Review on: chore(tests): improve EIP-7981 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3223#pullrequestreview-4794898828) - 2026-07-28
 * [Review] [Review on: fix(test-ci): Skip `test_cli.py` until #3241 is resolved](https://github.com/ethereum/execution-specs/pull/3242#pullrequestreview-4795075997) - 2026-07-28
+* [Review] [Review on: chore(tests): improve EIP-8024 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3224#pullrequestreview-4804460527) - 2026-07-29
+* [Commit] [feat(test-benchmark): on-chain account verification (#3197)](https://github.com/ethereum/execution-specs/commit/af137475d7b15842438cfcb30c01d8903bf57b3c) - 2026-07-29
+* [Commit] [feat(tests): implement eip-8070 sparse blob pool tests (#2948)](https://github.com/ethereum/execution-specs/commit/3ae3d66cc2b3fd448a9578e58fb49bbae30752eb) - 2026-07-29
 ## Q2 2026
 
 

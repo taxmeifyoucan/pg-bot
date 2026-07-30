@@ -65,6 +65,10 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Refactor engine_newPayload into a sealed version hierarchy ](https://github.com/besu-eth/besu/pull/10840#pullrequestreview-4794474702) - 2026-07-28
 * [Pull Request] [Fix multi-tx storage prior preservation in BAL partial view import](https://github.com/besu-eth/besu/pull/10888) - 2026-07-28
 * [Review] [Review on: snap/2 - reorg recovery plan and canonical BAL application](https://github.com/besu-eth/besu/pull/10832#pullrequestreview-4794562782) - 2026-07-28
+* [Review] [Review on: Fix BAL state-root executor leak](https://github.com/besu-eth/besu/pull/10906#pullrequestreview-4809438730) - 2026-07-29
+* [Review] [Review on: Slow block tracer](https://github.com/besu-eth/besu/pull/10746#pullrequestreview-4807235370) - 2026-07-29
+* [Review] [Review on: Stateroot refactoring  ](https://github.com/besu-eth/besu/pull/10804#pullrequestreview-4806966905) - 2026-07-29
+* [Review] [Review on: snap/2 - repair storage roots of pending accounts at catch-up](https://github.com/besu-eth/besu/pull/10866#pullrequestreview-4804254533) - 2026-07-29
 ## Q2 2026
 
 

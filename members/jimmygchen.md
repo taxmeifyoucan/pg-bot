@@ -22,6 +22,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Clean up custody backfill requests after peer failures](https://github.com/sigp/lighthouse/pull/9665) - 2026-07-20
 * [Pull Request] [Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682) - 2026-07-23
 * [Review] [Review on: Implement gloas stateless block building api](https://github.com/sigp/lighthouse/pull/9568#pullrequestreview-4770923210) - 2026-07-24
+* [Review] [Review on: Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682#pullrequestreview-4803652783) - 2026-07-29
+* [Pull Request] [Add gossip validation spec tests for remaining topics](https://github.com/sigp/lighthouse/pull/9713) - 2026-07-29
 ## Q2 2026
 
 

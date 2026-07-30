@@ -52,6 +52,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Kurtosis+E2E: Set up Kurtosis harness and Add minimal tests](https://github.com/OffchainLabs/prysm/pull/16999#pullrequestreview-4743858605) - 2026-07-21
 * [Review] [Review on: Implement the active-active mode in the REST validator client.](https://github.com/OffchainLabs/prysm/pull/17075#pullrequestreview-4745645960) - 2026-07-21
 * [Commit] [`--max-builder-consecutive-missed-slots` and `--max-builder-epoch-missed-slots` help text: Reports the mainnet config value as the default instead of a hardcoded, false and unused values. (#17211)](https://github.com/OffchainLabs/prysm/commit/df3030c49769a38b747345abdc636e32acdb9322) - 2026-07-21
+* [Review] [Review on: Log the underlying error in the "genesis provider failed" warning](https://github.com/OffchainLabs/prysm/pull/17259#pullrequestreview-4809618772) - 2026-07-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 ## Q2 2026

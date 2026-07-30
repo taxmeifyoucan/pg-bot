@@ -52,6 +52,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: handle deferred proposer preferences](https://github.com/Consensys/teku/pull/11013#pullrequestreview-4796071416) - 2026-07-28
 * [Review] [Review on: add validation result descriptions](https://github.com/Consensys/teku/pull/11009#pullrequestreview-4795949632) - 2026-07-28
 * [Review] [Review on: handle saved for the future bids](https://github.com/Consensys/teku/pull/11003#pullrequestreview-4795574991) - 2026-07-28
+* [Review] [Review on: Add builder boost factor evaluation for execution payloads](https://github.com/Consensys/teku/pull/10973#pullrequestreview-4812021111) - 2026-07-29
+* [Review] [Review on: Fix isAttestationSameSlot in GLOAS](https://github.com/Consensys/teku/pull/11028#pullrequestreview-4811575288) - 2026-07-29
+* [Pull Request] [PoC BeaconChainController tests](https://github.com/Consensys/teku/pull/11027) - 2026-07-29
+* [Review] [Review on: Reconstruct supernode sidecars extension (Last part)](https://github.com/Consensys/teku/pull/10132#pullrequestreview-4809719496) - 2026-07-29
+* [Pull Request] [Fast Confirmation Calculator part2](https://github.com/Consensys/teku/pull/11025) - 2026-07-29
+* [Commit] [FCR calculator part1 (#11005)](https://github.com/Consensys/teku/commit/3e293acb6d20cebbecf5690f01cd17003c3aeb29) - 2026-07-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

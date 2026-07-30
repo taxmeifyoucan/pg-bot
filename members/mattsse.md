@@ -172,6 +172,12 @@ Team: Reth
 * [Review] [Review on: fix(net): reply to GetNodeData with empty payload](https://github.com/paradigmxyz/reth/pull/26513#pullrequestreview-4795982839) - 2026-07-28
 * [Commit] [fix: add missing dev-dependency features for standalone test builds (#26511)](https://github.com/paradigmxyz/reth/commit/4f72933a1f4653203c3aa5dca5eeddca427cf609) - 2026-07-28
 * [Commit] [chore(deps): update Alloy to 2.2.0 (#26517)](https://github.com/paradigmxyz/reth/commit/dff579b6464a6da18dad8ef2fbe4f83873346a22) - 2026-07-28
+* [Review] [Review on: refactor(ci): replace inline Cyclops audit workflow](https://github.com/paradigmxyz/reth/pull/26424#pullrequestreview-4810703674) - 2026-07-29
+* [Pull Request] [fix(net): keep ENR ports paired with their IP address](https://github.com/paradigmxyz/reth/pull/26529) - 2026-07-29
+* [Review] [Review on: feat(net): accept discv5 ENR bootnodes via CLI](https://github.com/paradigmxyz/reth/pull/26448#pullrequestreview-4809247111) - 2026-07-29
+* [Review] [Review on: fix(pruner): keep history checkpoint from rewinding on static file walks](https://github.com/paradigmxyz/reth/pull/26505#pullrequestreview-4808392617) - 2026-07-29
+* [Commit] [refactor(rpc): use Alloy gas limit validation (#26518)](https://github.com/paradigmxyz/reth/commit/ce463098f20fb335b74d306d81c3d1f661693832) - 2026-07-29
+* [Commit] [refactor(engine): parse payload IDs directly (#26519)](https://github.com/paradigmxyz/reth/commit/b813f1fb4b8433e16687385484c34226b241185c) - 2026-07-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

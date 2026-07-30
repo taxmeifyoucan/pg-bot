@@ -137,6 +137,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Prevent negative pacing delay in random Kademlia discovery (#12582)](https://github.com/NethermindEth/nethermind/commit/a6682c414a1df7a5d4b156d7a553165b75f53873) - 2026-07-28
 * [Commit] [Bound pooled transaction retry traffic (#12345)](https://github.com/NethermindEth/nethermind/commit/e52dc19a56a46f58170a730822580774d403c838) - 2026-07-28
 * [Commit] [Allow contract creation at max valid nonce (#12576)](https://github.com/NethermindEth/nethermind/commit/430ebf4b63400aba7e0be66e03890c09e7e94bac) - 2026-07-28
+* [Pull Request] [Restore default discv4 and discv5 discovery](https://github.com/NethermindEth/nethermind/pull/12613) - 2026-07-29
+* [Review] [Review on: refactor(net): namespace snap by version](https://github.com/NethermindEth/nethermind/pull/12606#pullrequestreview-4809227685) - 2026-07-29
+* [Pull Request] [Restore eth/68 blob violation handling](https://github.com/NethermindEth/nethermind/pull/12605) - 2026-07-29
+* [Pull Request] [Add standalone bootnode tool](https://github.com/NethermindEth/nethermind/pull/12601) - 2026-07-29
+* [Pull Request] [Rename EIP-8037 regular gas dimension to execution gas](https://github.com/NethermindEth/nethermind/pull/12600) - 2026-07-29
+* [Issue] [Implement glamsterdam-devnet-8](https://github.com/NethermindEth/nethermind/issues/12599) - 2026-07-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -150,6 +156,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [test(eip6110): cover noncanonical deposit ABI offsets](https://github.com/ethereum/execution-specs/pull/3240) - 2026-07-27
 * [Pull Request] [test(eip7928): cover system-address zero-tip coinbase BAL](https://github.com/ethereum/execution-specs/pull/3239) - 2026-07-27
 * [Pull Request] [feat(tests): pin flat 2D inclusion gate semantics (no intrinsic subtraction)](https://github.com/ethereum/execution-specs/pull/3245) - 2026-07-28
+* [Commit] [feat(tests): EIP-7928 - cover system-address zero-tip coinbase BAL (#3239)](https://github.com/ethereum/execution-specs/commit/f79c4c7e9084b9b583a9232e128cc69caec71471) - 2026-07-29
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [p2p, engine: retry downloader and limit body batches](https://github.com/erigontech/erigon/pull/22679) - 2026-07-22
 

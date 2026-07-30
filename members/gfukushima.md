@@ -52,6 +52,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Update web3j to latest](https://github.com/Consensys/teku/pull/11018) - 2026-07-28
 * [Commit] [Update web3j to latest (#11018)](https://github.com/Consensys/teku/commit/1ef28aa162abdac4b0433ed7de99b7cfa2b9f988) - 2026-07-28
 * [Commit] [Remove web3j from production (#11000)](https://github.com/Consensys/teku/commit/5971aea7ea8560145b8cf8e2f89f118f3c2eb7e4) - 2026-07-28
+* [Review] [Review on: Remove deprecated beacon chain util usages](https://github.com/Consensys/teku/pull/11022#pullrequestreview-4803983490) - 2026-07-29
 ## Q2 2026
 
 

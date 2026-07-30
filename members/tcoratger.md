@@ -14,6 +14,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 
 * [Issue] [Post-Quantum (PQ) Interop #47, July 8, 2026](https://github.com/ethereum/pm/issues/2153) - 2026-07-08
 * [Issue] [Post-Quantum (PQ) Interop #48, July 22, 2026](https://github.com/ethereum/pm/issues/2169) - 2026-07-22
+* [Issue] [Post-Quantum (PQ) Interop #49, July 29, 2026](https://github.com/ethereum/pm/issues/2176) - 2026-07-29
 [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3)
 * [Pull Request] [feat(multi-stark): reusable preprocessed-column commitment](https://github.com/Plonky3/Plonky3/pull/1907) - 2026-07-02
 * [Review] [Review on: perf: add optimized compilation profile](https://github.com/Plonky3/Plonky3/pull/1906#pullrequestreview-4617733091) - 2026-07-02
@@ -83,6 +84,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat(multi-stark): public values as boundary IO](https://github.com/Plonky3/Plonky3/pull/1947#pullrequestreview-4787061959) - 2026-07-27
 * [Commit] [feat(multi-stark): support periodic columns in the multilinear AIR prover (#1939)](https://github.com/Plonky3/Plonky3/commit/5df89eeadae18d6935bb874f8a92808dcc200c9d) - 2026-07-27
 * [Commit] [feat(lookup): exclusivity-aware lookup columns (#1825)](https://github.com/Plonky3/Plonky3/commit/f756b4b4ecb583eeb03cb54b0cd21e584841aa80) - 2026-07-27
+* [Review] [Review on: feat(sha256-air): add SHA-256 compression AIR crate](https://github.com/Plonky3/Plonky3/pull/1563#pullrequestreview-4809033588) - 2026-07-29
 ## Q2 2026
 
 

@@ -43,6 +43,8 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: define the transaction log set and unrolled-batch log semantics](https://github.com/ethereum/EIPs/pull/12008#pullrequestreview-4800155686) - 2026-07-28
 * [Review] [Review on: Update EIP-8141: define replacement, eviction, and payer exposure for the public mempool](https://github.com/ethereum/EIPs/pull/12007#pullrequestreview-4799898790) - 2026-07-28
 * [Review] [Review on: Update EIP-8141: apply charged_gas to fee settlement](https://github.com/ethereum/EIPs/pull/11969#pullrequestreview-4797589318) - 2026-07-28
+* [Review] [Review on: Update EIP-7732: Move to Review](https://github.com/ethereum/EIPs/pull/11873#pullrequestreview-4812449513) - 2026-07-29
+* [Review] [Review on: Update EIP-8045: Move to Review](https://github.com/ethereum/EIPs/pull/11886#pullrequestreview-4811116133) - 2026-07-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

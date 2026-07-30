@@ -85,6 +85,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc: TraceConfig limit in debug_trace* opcode logger (#22751)](https://github.com/erigontech/erigon/commit/6ef9b8e4760a350020159fab4a017a540ba315f8) - 2026-07-27
 * [Review] [Review on: execution/state, rpc/jsonrpc: release IntraBlockState at end of RPC handlers](https://github.com/erigontech/erigon/pull/22777#pullrequestreview-4801243943) - 2026-07-28
 * [Commit] [rpc: match JWT auth-scheme case-insensitively (#22773)](https://github.com/erigontech/erigon/commit/b121359dd632c77e34d72a6a76fb10ba0c895b67) - 2026-07-28
+* [Pull Request] [rpc: validate authorizationList args in eth_fillTransaction](https://github.com/erigontech/erigon/pull/22872) - 2026-07-29
+* [Pull Request] [node: cover h2c upgrade route and TLS protocol negotiation](https://github.com/erigontech/erigon/pull/22862) - 2026-07-29
+* [Review] [Review on: execution/state, rpc/jsonrpc: release IntraBlockState at end of RPC handlers](https://github.com/erigontech/erigon/pull/22777#pullrequestreview-4805664824) - 2026-07-29
+* [Commit] [node: cover h2c upgrade route and TLS protocol negotiation (#22862)](https://github.com/erigontech/erigon/commit/d8dac9fbe2a54cd4d8b6d27558d2ca9faabcda45) - 2026-07-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

@@ -106,6 +106,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: REST VC: Add a cache for SSZ support](https://github.com/OffchainLabs/prysm/pull/17256#pullrequestreview-4798517060) - 2026-07-28
 * [Review] [Review on: Drop the unused error return from the beacon-chain sync `currentForkDigest` helper and its callers](https://github.com/OffchainLabs/prysm/pull/17253#pullrequestreview-4798076981) - 2026-07-28
 * [Review] [Review on: Reorg late blocks even on slot 31](https://github.com/OffchainLabs/prysm/pull/17257#pullrequestreview-4798071672) - 2026-07-28
+* [Review] [Review on: Implement Web3Signer public key hot reload via URL](https://github.com/OffchainLabs/prysm/pull/17229#pullrequestreview-4812421042) - 2026-07-29
+* [Review] [Review on: Add attributes event when sending on late blocks.](https://github.com/OffchainLabs/prysm/pull/17262#pullrequestreview-4812295742) - 2026-07-29
+* [Pull Request] [Add `GET`/`POST`/`DELETE /eth/v1/validator/{pubkey}/builders` keymanager endpoints](https://github.com/OffchainLabs/prysm/pull/17261) - 2026-07-29
+* [Review] [Review on: updating changelog for v7.1.8](https://github.com/OffchainLabs/prysm/pull/17252#pullrequestreview-4810735557) - 2026-07-29
 ## Q2 2026
 
 

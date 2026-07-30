@@ -34,6 +34,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [progressive withdrawal root and light client changes (#16885)](https://github.com/OffchainLabs/prysm/commit/ae9e44305f92818bbbdd547a454ae71c750e4c71) - 2026-07-27
 * [Commit] [builders progressive (#16896)](https://github.com/OffchainLabs/prysm/commit/985daebec2d0dae3e8659b116a88e936173a20f8) - 2026-07-28
 * [Commit] [builder pending withdrawals progressive ssz (#16887)](https://github.com/OffchainLabs/prysm/commit/ef420771a4268140c9aa60534ca99c2350c3d32a) - 2026-07-28
+* [Pull Request] [add attestationGloas and replace usages](https://github.com/OffchainLabs/prysm/pull/17258) - 2026-07-29
 ## Q2 2026
 
 

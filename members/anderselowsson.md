@@ -8,6 +8,11 @@ Team: Robust Incentives Group (RIG)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8061: Move to Review](https://github.com/ethereum/EIPs/pull/11887#pullrequestreview-4813088582) - 2026-07-29
 ## Q1 2026
 
 

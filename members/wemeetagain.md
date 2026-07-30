@@ -110,6 +110,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bls): reject empty keygen salts](https://github.com/ChainSafe/lodestar-z/pull/524#pullrequestreview-4756007320) - 2026-07-22
 * [Review] [Review on: refactor(pubkeys): centralize the process-wide cache](https://github.com/ChainSafe/lodestar-z/pull/522#pullrequestreview-4767630308) - 2026-07-23
 * [Review] [Review on: fix(bls): reject unknown BLST error codes](https://github.com/ChainSafe/lodestar-z/pull/525#pullrequestreview-4765115021) - 2026-07-23
+* [Review] [Review on: chore: remove stale epoch cache TODOs](https://github.com/ChainSafe/lodestar-z/pull/534#pullrequestreview-4811965133) - 2026-07-29
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

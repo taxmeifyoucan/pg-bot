@@ -150,6 +150,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Attest early on attestation_ready in the REST validator client](https://github.com/OffchainLabs/prysm/pull/17243) - 2026-07-26
 * [Issue] [Attest-timely event stream fix + gossipsub ignore bug](https://github.com/OffchainLabs/prysm/issues/17245) - 2026-07-27
 * [Review] [Review on: Reorg late blocks even on slot 31](https://github.com/OffchainLabs/prysm/pull/17257#pullrequestreview-4797764230) - 2026-07-28
+* [Pull Request] [Add SLOT_SCHEDULE for epoch based slot durations](https://github.com/OffchainLabs/prysm/pull/17260) - 2026-07-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

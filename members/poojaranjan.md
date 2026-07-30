@@ -44,6 +44,13 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Commit] [Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/commit/e338bc94c99e69ef86eed3cf6c5f7825073a61b1) - 2026-07-13
 * [Commit] [Update EIP-7723: Update Upgrade Meta EIP handling process](https://github.com/ethereum/EIPs/commit/7a52476e9e72b03c51caaee143cc2bb9aed9b9dc) - 2026-07-16
 * [Pull Request] [Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022) - 2026-07-28
+* [Pull Request] [Update EIP-8159: Move to Review](https://github.com/ethereum/EIPs/pull/12036) - 2026-07-30
+* [Pull Request] [Update EIP-8136: Move to Review](https://github.com/ethereum/EIPs/pull/12035) - 2026-07-30
+* [Pull Request] [Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034) - 2026-07-30
+* [Pull Request] [Update EIP-7975: Move to Review](https://github.com/ethereum/EIPs/pull/12033) - 2026-07-30
+* [Pull Request] [Update EIP-8189: Move to Review](https://github.com/ethereum/EIPs/pull/12037) - 2026-07-30
+* [Commit] [Update EIP-7732: Move to Review](https://github.com/ethereum/EIPs/commit/5eea6d0c5db9ccb6d424bcb58508c9c1576f6c37) - 2026-07-29
+* [Commit] [Update EIP-8045: Move to Review](https://github.com/ethereum/EIPs/commit/fd5e8784b7c1c655054a7ba8e41793458feeed57) - 2026-07-29
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #105, July 7, 2026](https://github.com/ethereum/pm/issues/2150) - 2026-07-07
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #106, July 14, 2026](https://github.com/ethereum/pm/issues/2156) - 2026-07-13

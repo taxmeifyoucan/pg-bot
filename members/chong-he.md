@@ -27,6 +27,9 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Update blobs storage requirement in Lighthouse book](https://github.com/sigp/lighthouse/pull/9694) - 2026-07-27
 * [Review] [Review on: Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682#pullrequestreview-4803064088) - 2026-07-29
 * [Review] [Review on: Add missing `--amsterdam-time` flag to lcli mock-el](https://github.com/sigp/lighthouse/pull/9703#pullrequestreview-4795292680) - 2026-07-28
+* [Review] [Review on: Add `head_v2` event in beacon API and remove some fields in `data_column_sidecar` event](https://github.com/sigp/lighthouse/pull/9597#pullrequestreview-4803653563) - 2026-07-29
+* [Pull Request] [Add RangeSyncBlock test that involves the envelope](https://github.com/sigp/lighthouse/pull/9717) - 2026-07-29
+* [Review] [Review on: Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682#pullrequestreview-4803691389) - 2026-07-29
 ## Q2 2026
 
 

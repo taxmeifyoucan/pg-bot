@@ -29,6 +29,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [(wip) feat: gloas light client support](https://github.com/ChainSafe/lodestar/pull/9683) - 2026-07-20
 * [Pull Request] [feat: gloas lc support](https://github.com/ChainSafe/lodestar/pull/9687) - 2026-07-21
 * [Review] [Review on: feat: implement forkchoice is_head_weak() and is_parent_strong()](https://github.com/ChainSafe/lodestar/pull/9654#pullrequestreview-4758327132) - 2026-07-22
+* [Review] [Review on: refactor: remove bun runtime support](https://github.com/ChainSafe/lodestar/pull/9719#pullrequestreview-4812828778) - 2026-07-29
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -103,6 +104,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(bindings): free metrics writer on scrape failure](https://github.com/ChainSafe/lodestar-z/pull/529#pullrequestreview-4798705682) - 2026-07-28
 * [Review] [Review on: fix(bindings): clean up failed async BLS work](https://github.com/ChainSafe/lodestar-z/pull/527#pullrequestreview-4798727024) - 2026-07-28
 * [Review] [Review on: fix(bindings): harden random aggregate scalars](https://github.com/ChainSafe/lodestar-z/pull/528#pullrequestreview-4798529930) - 2026-07-28
+* [Review] [Review on: chore: remove stale epoch cache TODOs](https://github.com/ChainSafe/lodestar-z/pull/534#pullrequestreview-4811243454) - 2026-07-29
 ## Q2 2026
 
 

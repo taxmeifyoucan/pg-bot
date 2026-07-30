@@ -30,6 +30,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: ci: cut wasted CI spend on unchanged and perpetually-failing paths](https://github.com/NethermindEth/nethermind/pull/12563#pullrequestreview-4769983148) - 2026-07-24
 * [Review] [Review on: ci: cut wasted CI spend on unchanged and perpetually-failing paths](https://github.com/NethermindEth/nethermind/pull/12563#pullrequestreview-4789726032) - 2026-07-27
 * [Commit] [ci: cut wasted CI spend on unchanged and perpetually-failing paths (#12563)](https://github.com/NethermindEth/nethermind/commit/1601d6dde26f54c589212dafbbef9238df3e88ca) - 2026-07-27
+* [Pull Request] [perf(state): parallelize whale storage verification and drop per-entry copies in FlatTrieVerifier](https://github.com/NethermindEth/nethermind/pull/12615) - 2026-07-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026
