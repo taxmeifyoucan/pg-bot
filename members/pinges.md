@@ -20,6 +20,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874#pullrequestreview-4793846039) - 2026-07-28
 * [Review] [Review on: Fix restart during snap sync flat-DB heal stranding node in backward sync](https://github.com/besu-eth/besu/pull/10883#pullrequestreview-4793366794) - 2026-07-28
 * [Review] [Review on: Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874#pullrequestreview-4803571481) - 2026-07-29
+* [Pull Request] [Make checkpoint available in ThreadBesuNodeRunner](https://github.com/besu-eth/besu/pull/10916) - 2026-07-30
+* [Review] [Review on: Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874#pullrequestreview-4815289553) - 2026-07-30
+* [Commit] [Make checkpoint available in ThreadBesuNodeRunner (#10916)](https://github.com/besu-eth/besu/commit/ae185011d49fa1f826737510b96214c88f1c39c1) - 2026-07-31
+* [Commit] [Checkpoint cli option (#10874)](https://github.com/besu-eth/besu/commit/ed6d695d3f12eeedaffa847483cbad4173b6c66e) - 2026-07-30
 ## Q2 2026
 
 

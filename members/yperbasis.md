@@ -301,6 +301,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution: reuse IntraBlockState log entries to remove LOG-path allocations](https://github.com/erigontech/erigon/pull/22723#pullrequestreview-4806951118) - 2026-07-29
 * [Commit] [cl: reject sidecars and blocks with inconsistent fork schema (#22797)](https://github.com/erigontech/erigon/commit/5673f07d29a4c746f44d740043616d4cebe8b46d) - 2026-07-29
 * [Commit] [cl/rpc, cl/phase1/network/services: remove dead PeerDAS code (#22810)](https://github.com/erigontech/erigon/commit/1e078ffb04a99ed8ef5f574789f38a100b01a59f) - 2026-07-29
+* [Pull Request] [[r3.6] execution/cache, execution/commitment: make Clear coherence race-safe](https://github.com/erigontech/erigon/pull/22890) - 2026-07-30
+* [Review] [Review on: execution: update EIP-7928 for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22555#pullrequestreview-4820095951) - 2026-07-30
+* [Review] [Review on: p2p: wake STUN net-change notifiers via netpoller; harden Windows Close](https://github.com/erigontech/erigon/pull/22795#pullrequestreview-4816849190) - 2026-07-30
+* [Pull Request] [txnprovider/txpool: reject tips above fee caps](https://github.com/erigontech/erigon/pull/22887) - 2026-07-30
+* [Review] [Review on: execution: update EIP-8037 for glamsterdam-devnet-7](https://github.com/erigontech/erigon/pull/22548#pullrequestreview-4818283475) - 2026-07-30
+* [Review] [Review on: execution: parallel-only ExecV3 + ephemeral single-block replay harness](https://github.com/erigontech/erigon/pull/22733#pullrequestreview-4817006895) - 2026-07-30
+* [Review] [Review on: execution/state: memoize the access-list slot set per address](https://github.com/erigontech/erigon/pull/22742#pullrequestreview-4817589828) - 2026-07-30
+* [Review] [Review on: execution: reuse IntraBlockState log entries to remove LOG-path allocations](https://github.com/erigontech/erigon/pull/22723#pullrequestreview-4816599875) - 2026-07-30
+* [Issue] [execution/cache, execution/commitment: consolidate put-stripe fencing into a shared type](https://github.com/erigontech/erigon/issues/22889) - 2026-07-30
+* [Issue] [ci/eest: parallel-commitment legacy Cancun race shards time out](https://github.com/erigontech/erigon/issues/22881) - 2026-07-30
+* [Issue] [Performance regression on 3.6](https://github.com/erigontech/erigon/issues/22886) - 2026-07-30
+* [Commit] [execution/cache, execution/commitment: make Clear coherence race-safe (#22869)](https://github.com/erigontech/erigon/commit/7fa162ad00674fc5be81fd46c76a60187e84ea9c) - 2026-07-30
+* [Commit] [engineapi: return SYNCING instead of ACCEPTED for forkchoice (#22864)](https://github.com/erigontech/erigon/commit/28da0b11e0fa7c3179939521fc4bbc30b2832b35) - 2026-07-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

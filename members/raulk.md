@@ -11,6 +11,7 @@ Github: [@raulk](https://github.com/raulk)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Commit] [Add EIP: Batching Attestations at Source](https://github.com/ethereum/EIPs/commit/6b8b35d7b3a80c3d4c1644b654562c675538e7bb) - 2026-07-03
+* [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4816621182) - 2026-07-30
 ## Q2 2026
 
 

@@ -85,6 +85,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [feat(multi-stark): support periodic columns in the multilinear AIR prover (#1939)](https://github.com/Plonky3/Plonky3/commit/5df89eeadae18d6935bb874f8a92808dcc200c9d) - 2026-07-27
 * [Commit] [feat(lookup): exclusivity-aware lookup columns (#1825)](https://github.com/Plonky3/Plonky3/commit/f756b4b4ecb583eeb03cb54b0cd21e584841aa80) - 2026-07-27
 * [Review] [Review on: feat(sha256-air): add SHA-256 compression AIR crate](https://github.com/Plonky3/Plonky3/pull/1563#pullrequestreview-4809033588) - 2026-07-29
+* [Review] [Review on: perf(p3-goldilocks): faster Goldilocks wasm simd128 backend](https://github.com/Plonky3/Plonky3/pull/1964#pullrequestreview-4819293835) - 2026-07-30
+* [Commit] [feat(sha256-air): add SHA-256 compression AIR crate (#1563)](https://github.com/Plonky3/Plonky3/commit/c59ff59b46ad5912a6361c4e9bf26bd05932a2d4) - 2026-07-30
 ## Q2 2026
 
 

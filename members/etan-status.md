@@ -36,6 +36,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Add --debug-force-resync option](https://github.com/status-im/nimbus-eth2/pull/8815) - 2026-07-28
 * [Review] [Review on: Add --force-resync option](https://github.com/status-im/nimbus-eth2/pull/8815#pullrequestreview-4811763030) - 2026-07-29
 * [Pull Request] [Support recent stateRoot in more beacon-APIs](https://github.com/status-im/nimbus-eth2/pull/8819) - 2026-07-29
+* [Pull Request] [Remove unused ClientMaximumValidatorIds constant](https://github.com/status-im/nimbus-eth2/pull/8829) - 2026-07-30
+* [Pull Request] [Avoid calling postStateValidators with empty list](https://github.com/status-im/nimbus-eth2/pull/8826) - 2026-07-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630) - 2026-07-06
 * [Commit] [Forward compatible consensus data structures (EIP-7688) (#4630)](https://github.com/ethereum/consensus-specs/commit/bd6df5afe26d56e9ccf623071c3b574a76967ac9) - 2026-07-06
@@ -51,6 +53,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Update EIP-8015: Move to Draft](https://github.com/ethereum/EIPs/pull/11910) - 2026-07-10
 * [Commit] [Update EIP-8015: Move to Draft](https://github.com/ethereum/EIPs/commit/0ebff04bf89b696d51ebf2ff9d029940ef3ed693) - 2026-07-22
 * [Commit] [Update EIP-8081: Propose EIP-8015 for inclusion](https://github.com/ethereum/EIPs/commit/345cca82fec46575c3bf0521f025699f1d0c382d) - 2026-07-26
+* [Commit] [Update EIP-8081: Propose EIP-8116 for inclusion](https://github.com/ethereum/EIPs/commit/e045b2118fc65b2af40aa6dd5f24c75216899414) - 2026-07-30
+* [Commit] [Update EIP-8081: Propose EIP-7807 for inclusion](https://github.com/ethereum/EIPs/commit/4cf894a308cd63e2fc7a2903188ef27af256fe28) - 2026-07-30
+* [Commit] [Update EIP-8081: Propose EIP-8115 for inclusion](https://github.com/ethereum/EIPs/commit/0a941beaafff425f59c902f2eb27b49bf4eb3de1) - 2026-07-30
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [[wip] Experimental branch for Chronos sync continuations](https://github.com/status-im/nimbus-eth1/pull/4451) - 2026-07-09
 ## Q2 2026

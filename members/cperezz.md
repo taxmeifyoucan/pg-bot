@@ -21,6 +21,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Issue] [EIP-8297: clarify whether account-header sub-indices 2-63 are intended reserve](https://github.com/ethereum/execution-specs/issues/3256) - 2026-07-29
 * [Issue] [EIP-8297: state-root computation raises raw Python errors instead of protocol-level failures](https://github.com/ethereum/execution-specs/issues/3255) - 2026-07-29
 * [Issue] [EIP-8297: account deletion diverges between state_mpt and state_pbt, visible through EIP-7610](https://github.com/ethereum/execution-specs/issues/3253) - 2026-07-29
+* [Review] [Review on: chore(do not merge): add code to 8297 to show deletion logic](https://github.com/ethereum/execution-specs/pull/3250#pullrequestreview-4819180117) - 2026-07-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/pull/12027) - 2026-07-29
 

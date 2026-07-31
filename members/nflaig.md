@@ -153,6 +153,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: require minimum increment to forward bids over gossip (#9706)](https://github.com/ChainSafe/lodestar/commit/d0262e861000c816836420a8e950d8381ea16503) - 2026-07-28
 * [Review] [Review on: fix: distinguish 404 from real errors when waiting for genesis](https://github.com/ChainSafe/lodestar/pull/9726#pullrequestreview-4813762549) - 2026-07-29
 * [Review] [Review on: refactor: move assertEqualParams from validator to config](https://github.com/ChainSafe/lodestar/pull/9725#pullrequestreview-4813755377) - 2026-07-29
+* [Pull Request] [fix: use parent block slot for attestation payload availability](https://github.com/ChainSafe/lodestar/pull/9731) - 2026-07-30
+* [Pull Request] [fix: correct clock disparity handling for proposer preferences](https://github.com/ChainSafe/lodestar/pull/9729) - 2026-07-30
+* [Review] [Review on: fix: correct clock disparity handling for proposer preferences](https://github.com/ChainSafe/lodestar/pull/9729#pullrequestreview-4816814697) - 2026-07-30
+* [Review] [Review on: refactor: remove bun runtime support](https://github.com/ChainSafe/lodestar/pull/9719#pullrequestreview-4820928927) - 2026-07-30
+* [Pull Request] [fix: use proposer lookahead for next epoch proposer cache](https://github.com/ChainSafe/lodestar/pull/9730) - 2026-07-30
+* [Review] [Review on: fix: use proposer lookahead for next epoch proposer cache](https://github.com/ChainSafe/lodestar/pull/9730#pullrequestreview-4817460811) - 2026-07-30
+* [Commit] [fix: correct clock disparity handling for proposer preferences (#9729)](https://github.com/ChainSafe/lodestar/commit/4c86702f24311a714c196bddaa9f0599dc76a927) - 2026-07-30
+* [Commit] [fix: use proposer lookahead for next epoch proposer cache (#9730)](https://github.com/ChainSafe/lodestar/commit/ba5ee9aff0173134c0da82595326b39a9660debe) - 2026-07-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

@@ -23,6 +23,7 @@ Team: Reth
 * [Review] [Review on: chore(examples): remove precompile cache example](https://github.com/paradigmxyz/reth/pull/26467#pullrequestreview-4747438125) - 2026-07-21
 * [Review] [Review on: fix(bench): show metrics in run config](https://github.com/paradigmxyz/reth/pull/26461#pullrequestreview-4746644171) - 2026-07-21
 * [Review] [Review on: fix(bench): seed run summary with config](https://github.com/paradigmxyz/reth/pull/26460#pullrequestreview-4746641264) - 2026-07-21
+* [Review] [Review on: refactor(net): add NodeRecord::has_rlpx_endpoint helper](https://github.com/paradigmxyz/reth/pull/26538#pullrequestreview-4820661165) - 2026-07-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626673741) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626672497) - 2026-07-03

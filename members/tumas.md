@@ -23,6 +23,7 @@ Team: Grandine
 * [Commit] [Update `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/51c77835a0c0220aa83b2e27e62673add4cf87ad) - 2026-07-23
 * [Pull Request] [Add `validators.yml` validator definitions](https://github.com/grandinetech/grandine/pull/829) - 2026-07-24
 * [Review] [Review on: fork choice compliance tests v1.7.0 alpha.12](https://github.com/grandinetech/grandine/pull/831#pullrequestreview-4797028031) - 2026-07-28
+* [Commit] [Add `validators.yml` validator definitions](https://github.com/grandinetech/grandine/commit/eaf220e60699cd63d4223ad2481e42fd15f67802) - 2026-07-30
 ## Q2 2026
 
 

@@ -63,6 +63,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Fix PTC blob_data_available voting to be independent of payload import](https://github.com/sigp/lighthouse/pull/9695#pullrequestreview-4807525940) - 2026-07-29
 * [Review] [Review on: Use fork-aware attestation deadlines in the VC](https://github.com/sigp/lighthouse/pull/9704#pullrequestreview-4807550105) - 2026-07-29
 * [Review] [Review on: Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682#pullrequestreview-4805149834) - 2026-07-29
+* [Review] [Review on: fork choice compliance tests [WIP]](https://github.com/sigp/lighthouse/pull/9710#pullrequestreview-4821692954) - 2026-07-30
 ## Q2 2026
 
 

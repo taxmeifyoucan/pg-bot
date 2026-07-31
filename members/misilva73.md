@@ -33,6 +33,11 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Commit] [Update EIP-8297: redraw diagram and drop EIP-7864 changes section](https://github.com/ethereum/EIPs/commit/38e826621dca583bb0dba62647b56fddcca849c8) - 2026-07-23
 * [Pull Request] [Update EIP-8038: restate the gas schedule as an access/write/creation component model](https://github.com/ethereum/EIPs/pull/12028) - 2026-07-29
 * [Commit] [Update EIP-8038: restate the gas schedule as an access/write/creation component model](https://github.com/ethereum/EIPs/commit/b7491982cec3657684e3047f9647b4c60fc23d4d) - 2026-07-29
+* [Pull Request] [Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043) - 2026-07-30
+* [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4820712558) - 2026-07-30
+* [Pull Request] [Update EIP-2780: Move to Review](https://github.com/ethereum/EIPs/pull/12038) - 2026-07-30
+* [Commit] [Add EIP: Offline State Migration to the PBT](https://github.com/ethereum/EIPs/commit/b35ddf6d0b66c92c3ad2021c8623cd3004cbbb42) - 2026-07-30
+* [Commit] [Update EIP-2780: Move to Review](https://github.com/ethereum/EIPs/commit/0a1d42b3c7a455cd812ce73b4b937c16d6f20bd6) - 2026-07-30
 ## Q2 2026
 
 

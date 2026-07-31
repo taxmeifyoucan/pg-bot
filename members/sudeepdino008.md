@@ -95,6 +95,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state: drain file readers in Aggregator.Close before unmapping](https://github.com/erigontech/erigon/pull/22713#pullrequestreview-4805119706) - 2026-07-29
 * [Review] [Review on: db/snaptype: tolerate files deleted during dir scan](https://github.com/erigontech/erigon/pull/22853#pullrequestreview-4806889957) - 2026-07-29
 * [Issue] [Caplin (gloas/ePBS): forkchoice head advances only per-epoch at tip — EL head lags ~1 epoch](https://github.com/erigontech/erigon/issues/22841) - 2026-07-29
+* [Pull Request] [cl/phase1/execution_client: persist BAL in ExecutionClientDirect.NewPayload](https://github.com/erigontech/erigon/pull/22874) - 2026-07-30
+* [Review] [Review on: db/state: less warn logs about not-found files](https://github.com/erigontech/erigon/pull/22880#pullrequestreview-4817954017) - 2026-07-30
+* [Review] [Review on: ci: split legacy Cancun race shards by fork](https://github.com/erigontech/erigon/pull/22885#pullrequestreview-4817059075) - 2026-07-30
+* [Review] [Review on: etl: rm mkdiral](https://github.com/erigontech/erigon/pull/22861#pullrequestreview-4817959940) - 2026-07-30
+* [Review] [Review on: execution/vm: memoize InternKey by stack word in a per-EVM cache](https://github.com/erigontech/erigon/pull/22748#pullrequestreview-4817040984) - 2026-07-30
+* [Review] [Review on: execution/state: memoize the access-list slot set per address](https://github.com/erigontech/erigon/pull/22742#pullrequestreview-4817033871) - 2026-07-30
+* [Pull Request] [db/seg: async io for domain kv files (experimental & off by default)](https://github.com/erigontech/erigon/pull/22876) - 2026-07-30
+* [Commit] [cl/phase1/execution_client: persist BAL in ExecutionClientDirect.NewPayload (#22874)](https://github.com/erigontech/erigon/commit/e356b524c665d6033b80582527574db8b4dfe6e6) - 2026-07-30
+* [Commit] [execution/stagedsync: reuse commitment BAL-fold buffer across blocks (#22801)](https://github.com/erigontech/erigon/commit/0e596b8557dc59e8f3f1b625c1da6d0565443a34) - 2026-07-30
+* [Commit] [execution/stagedsync: split parallel execLoop into helpers (#22765)](https://github.com/erigontech/erigon/commit/992009503e4aed843af5d432fe255f4b1ab58cda) - 2026-07-30
 ## Q2 2026
 
 

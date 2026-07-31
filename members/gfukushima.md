@@ -53,6 +53,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Update web3j to latest (#11018)](https://github.com/Consensys/teku/commit/1ef28aa162abdac4b0433ed7de99b7cfa2b9f988) - 2026-07-28
 * [Commit] [Remove web3j from production (#11000)](https://github.com/Consensys/teku/commit/5971aea7ea8560145b8cf8e2f89f118f3c2eb7e4) - 2026-07-28
 * [Review] [Review on: Remove deprecated beacon chain util usages](https://github.com/Consensys/teku/pull/11022#pullrequestreview-4803983490) - 2026-07-29
+* [Pull Request] [add EXECUTION_PAYLOAD_VALUE to produceBlockV4 required headers](https://github.com/Consensys/teku/pull/11037) - 2026-07-31
+* [Pull Request] [Dependencies update](https://github.com/Consensys/teku/pull/11031) - 2026-07-30
+* [Issue] [implement validator endpoint ProduceBlockV4](https://github.com/Consensys/teku/issues/11038) - 2026-07-31
+* [Commit] [Fix edge case for BlocksByRange request (#11021)](https://github.com/Consensys/teku/commit/9f013360c73592065a0f472aea3963aacc9a71f8) - 2026-07-30
 ## Q2 2026
 
 

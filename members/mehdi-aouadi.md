@@ -44,6 +44,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [add validation result descriptions (#11009)](https://github.com/Consensys/teku/commit/65aba3b3414804afd70acc481ca862b7e1e25a7f) - 2026-07-28
 * [Commit] [handle saved for the future bids (#11003)](https://github.com/Consensys/teku/commit/df25afafb37336fc13df8212373183fc63010ded) - 2026-07-28
 * [Pull Request] [fix Gloas bid gas limit validation](https://github.com/Consensys/teku/pull/11024) - 2026-07-29
+* [Pull Request] [update logs](https://github.com/Consensys/teku/pull/11036) - 2026-07-30
+* [Review] [Review on: Add Aircompressor enabled logging](https://github.com/Consensys/teku/pull/11034#pullrequestreview-4817560170) - 2026-07-30
+* [Pull Request] [add post proposer preferences](https://github.com/Consensys/teku/pull/11035) - 2026-07-30
+* [Review] [Review on: add post proposer preferences](https://github.com/Consensys/teku/pull/11035#pullrequestreview-4817789734) - 2026-07-30
+* [Commit] [update logs (#11036)](https://github.com/Consensys/teku/commit/22a4fc692bb1669ce79f361a72c730cac07ede1e) - 2026-07-30
+* [Commit] [Add builder boost factor evaluation for execution payloads (#10973)](https://github.com/Consensys/teku/commit/e301d118ab7d0ab15c45c668ed85c28417513a76) - 2026-07-30
 ## Q2 2026
 
 

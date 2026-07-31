@@ -53,6 +53,9 @@ Team: Erigon
 * [Commit] [execution/state: seed full code trio in BAL version-map pre-population (#22718)](https://github.com/erigontech/erigon/commit/f15de4fbc44dfd8444e634211c23e0eba1fb9f33) - 2026-07-25
 * [Pull Request] [execution: parallel-only ExecV3 + ephemeral single-block replay harness](https://github.com/erigontech/erigon/pull/22733) - 2026-07-25
 * [Review] [Review on: ci, db/state: matrix-test serial vs parallel commitment across the test workflows](https://github.com/erigontech/erigon/pull/22141#pullrequestreview-4799032645) - 2026-07-28
+* [Pull Request] [execution: carry the block access list as a first-class block object](https://github.com/erigontech/erigon/pull/22894) - 2026-07-30
+* [Pull Request] [db/kv/membatchwithdb: surface DomainReader read errors instead of swallowing them](https://github.com/erigontech/erigon/pull/22893) - 2026-07-30
+* [Pull Request] [execution, rpc: exec/RPC robustness fixes](https://github.com/erigontech/erigon/pull/22892) - 2026-07-30
 ## Q2 2026
 
 

@@ -143,6 +143,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Add standalone bootnode tool](https://github.com/NethermindEth/nethermind/pull/12601) - 2026-07-29
 * [Pull Request] [Rename EIP-8037 regular gas dimension to execution gas](https://github.com/NethermindEth/nethermind/pull/12600) - 2026-07-29
 * [Issue] [Implement glamsterdam-devnet-8](https://github.com/NethermindEth/nethermind/issues/12599) - 2026-07-29
+* [Commit] [Harden BAL gas accounting boundaries (#12589)](https://github.com/NethermindEth/nethermind/commit/1eb3ec600334df20768c3b26f01e4f667bb1a9b1) - 2026-07-30
+* [Commit] [Fix zero-tip SYSTEM_ADDRESS beneficiary BAL entry (#12575)](https://github.com/NethermindEth/nethermind/commit/3a56332f6743015a7f36bf5dd4988b63b89a7d80) - 2026-07-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -157,6 +159,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [test(eip7928): cover system-address zero-tip coinbase BAL](https://github.com/ethereum/execution-specs/pull/3239) - 2026-07-27
 * [Pull Request] [feat(tests): pin flat 2D inclusion gate semantics (no intrinsic subtraction)](https://github.com/ethereum/execution-specs/pull/3245) - 2026-07-28
 * [Commit] [feat(tests): EIP-7928 - cover system-address zero-tip coinbase BAL (#3239)](https://github.com/ethereum/execution-specs/commit/f79c4c7e9084b9b583a9232e128cc69caec71471) - 2026-07-29
+* [Commit] [feat(tests): pin flat 2D inclusion gate semantics (no intrinsic subtraction) (#3245)](https://github.com/ethereum/execution-specs/commit/05ec9375ae321da6f003aa9fbd7e9c3a3ee6c55d) - 2026-07-30
+* [Commit] [feat(tests): cover noncanonical deposit ABI offsets in eip6110 (#3240)](https://github.com/ethereum/execution-specs/commit/6fe02904f959b72658d8c83e0c653ede14966dba) - 2026-07-30
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [p2p, engine: retry downloader and limit body batches](https://github.com/erigontech/erigon/pull/22679) - 2026-07-22
 
@@ -175,6 +179,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843#pullrequestreview-4762190630) - 2026-07-23
 * [Review] [Review on: fix(eth): isolate protocol traffic by connection](https://github.com/besu-eth/besu/pull/10841#pullrequestreview-4762189326) - 2026-07-23
 * [Review] [Review on: fix(chain): publish sync heads after storage commit](https://github.com/besu-eth/besu/pull/10842#pullrequestreview-4762189618) - 2026-07-23
+* [Commit] [fix(sync): queue backward sync until peers are ready (#10843)](https://github.com/besu-eth/besu/commit/5cff5cc56d1726b6c6d8fd3031abdd6b412d20b1) - 2026-07-30
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(net): recover partial header responses](https://github.com/paradigmxyz/reth/pull/26482) - 2026-07-22
 ## Q2 2026

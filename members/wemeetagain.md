@@ -22,6 +22,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Update EIP-1: Add ethereum/sys-asm as an approved origin](https://github.com/ethereum/EIPs/pull/11986) - 2026-07-21
 * [Review] [Review on: Update EIP-8282: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4755085945) - 2026-07-22
 * [Commit] [Add EIP: Align Checkpoint with Epoch Boundary Block](https://github.com/ethereum/EIPs/commit/5e82ef62895121027a6c5f0c23276e1b2bed3071) - 2026-07-25
+* [Pull Request] [Update EIP-8081: Propose EIP-8333 for inclusion](https://github.com/ethereum/EIPs/pull/12044) - 2026-07-30
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
 
@@ -71,10 +72,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: replace ts-node with tsx for running TypeScript](https://github.com/ChainSafe/lodestar/pull/9635#pullrequestreview-4774262282) - 2026-07-24
 * [Review] [Review on: fix: `getPoolAttestationsV2` should return an empty array when no attestations are available](https://github.com/ChainSafe/lodestar/pull/9675#pullrequestreview-4774128713) - 2026-07-24
 * [Review] [Review on: feat: add heze fork definition and boilerplate](https://github.com/ChainSafe/lodestar/pull/9505#pullrequestreview-4779705348) - 2026-07-25
+* [Review] [Review on: fix: use parent block slot for attestation payload availability](https://github.com/ChainSafe/lodestar/pull/9731#pullrequestreview-4820343002) - 2026-07-30
+* [Review] [Review on: fix: correct clock disparity handling for proposer preferences](https://github.com/ChainSafe/lodestar/pull/9729#pullrequestreview-4823314212) - 2026-07-30
+* [Review] [Review on: test(beacon-node): add e2e beacon-api query array length compliance tests](https://github.com/ChainSafe/lodestar/pull/9713#pullrequestreview-4821606802) - 2026-07-30
+* [Review] [Review on: refactor: remove bun runtime support](https://github.com/ChainSafe/lodestar/pull/9719#pullrequestreview-4821495212) - 2026-07-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
 * [Review] [Review on: Explicitly define types as classes](https://github.com/ethereum/consensus-specs/pull/5471#pullrequestreview-4773982938) - 2026-07-24
+* [Review] [Review on: Explicitly define types as classes](https://github.com/ethereum/consensus-specs/pull/5471#pullrequestreview-4820178703) - 2026-07-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460#pullrequestreview-4639587158) - 2026-07-06
 * [Review] [Review on: fix: state transition binding exports](https://github.com/ChainSafe/lodestar-z/pull/456#pullrequestreview-4639596235) - 2026-07-06
@@ -111,6 +117,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor(pubkeys): centralize the process-wide cache](https://github.com/ChainSafe/lodestar-z/pull/522#pullrequestreview-4767630308) - 2026-07-23
 * [Review] [Review on: fix(bls): reject unknown BLST error codes](https://github.com/ChainSafe/lodestar-z/pull/525#pullrequestreview-4765115021) - 2026-07-23
 * [Review] [Review on: chore: remove stale epoch cache TODOs](https://github.com/ChainSafe/lodestar-z/pull/534#pullrequestreview-4811965133) - 2026-07-29
+* [Review] [Review on: fix(bls): size pairing buffers for 32-bit targets](https://github.com/ChainSafe/lodestar-z/pull/531#pullrequestreview-4823365130) - 2026-07-30
+* [Review] [Review on: feat(bindings): expose pubkey cache synchronization](https://github.com/ChainSafe/lodestar-z/pull/537#pullrequestreview-4820686122) - 2026-07-30
+* [Commit] [ci: automate releases with release-please (#479)](https://github.com/ChainSafe/lodestar-z/commit/e08d7fbbae75827b3a29adfc6e77c230dc998a84) - 2026-07-30
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

@@ -30,6 +30,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat: gloas lc support](https://github.com/ChainSafe/lodestar/pull/9687) - 2026-07-21
 * [Review] [Review on: feat: implement forkchoice is_head_weak() and is_parent_strong()](https://github.com/ChainSafe/lodestar/pull/9654#pullrequestreview-4758327132) - 2026-07-22
 * [Review] [Review on: refactor: remove bun runtime support](https://github.com/ChainSafe/lodestar/pull/9719#pullrequestreview-4812828778) - 2026-07-29
+* [Pull Request] [refactor(blst-z): use native lodestar-z pubkey cache everywhere](https://github.com/ChainSafe/lodestar/pull/9728) - 2026-07-30
+* [Review] [Review on: refactor: remove bun runtime support](https://github.com/ChainSafe/lodestar/pull/9719#pullrequestreview-4820535111) - 2026-07-30
+* [Review] [Review on: fix: use proposer lookahead for next epoch proposer cache](https://github.com/ChainSafe/lodestar/pull/9730#pullrequestreview-4817926806) - 2026-07-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -105,6 +108,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(bindings): clean up failed async BLS work](https://github.com/ChainSafe/lodestar-z/pull/527#pullrequestreview-4798727024) - 2026-07-28
 * [Review] [Review on: fix(bindings): harden random aggregate scalars](https://github.com/ChainSafe/lodestar-z/pull/528#pullrequestreview-4798529930) - 2026-07-28
 * [Review] [Review on: chore: remove stale epoch cache TODOs](https://github.com/ChainSafe/lodestar-z/pull/534#pullrequestreview-4811243454) - 2026-07-29
+* [Pull Request] [feat(bindings): expose pubkey cache synchronization](https://github.com/ChainSafe/lodestar-z/pull/537) - 2026-07-30
+* [Review] [Review on: feat(bindings): expose pubkey cache synchronization](https://github.com/ChainSafe/lodestar-z/pull/537#pullrequestreview-4821644852) - 2026-07-30
 ## Q2 2026
 
 

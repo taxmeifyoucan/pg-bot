@@ -58,6 +58,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Reconstruct supernode sidecars extension (Last part)](https://github.com/Consensys/teku/pull/10132#pullrequestreview-4809719496) - 2026-07-29
 * [Pull Request] [Fast Confirmation Calculator part2](https://github.com/Consensys/teku/pull/11025) - 2026-07-29
 * [Commit] [FCR calculator part1 (#11005)](https://github.com/Consensys/teku/commit/3e293acb6d20cebbecf5690f01cd17003c3aeb29) - 2026-07-29
+* [Review] [Review on: update logs](https://github.com/Consensys/teku/pull/11036#pullrequestreview-4819177689) - 2026-07-30
+* [Review] [Review on: Fix isAttestationSameSlot in GLOAS](https://github.com/Consensys/teku/pull/11028#pullrequestreview-4816659049) - 2026-07-30
+* [Pull Request] [Add Aircompressor enabled logging](https://github.com/Consensys/teku/pull/11034) - 2026-07-30
+* [Commit] [Add Aircompressor enabled logging (#11034)](https://github.com/Consensys/teku/commit/a2f9326923f5371a2dd2b6bd6b23ec2cf93fe5ea) - 2026-07-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

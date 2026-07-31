@@ -16,6 +16,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Syncing v3p2 (columns).](https://github.com/status-im/nimbus-eth2/pull/8824) - 2026-07-29
 * [Pull Request] [Syncing v3p1 (networking).](https://github.com/status-im/nimbus-eth2/pull/8821) - 2026-07-29
 * [Pull Request] [VC: Start using postStateValidators instead of getStateValidators.](https://github.com/status-im/nimbus-eth2/pull/8822) - 2026-07-29
+* [Pull Request] [Syncing v3p3 (quarantines).](https://github.com/status-im/nimbus-eth2/pull/8827) - 2026-07-30
+* [Pull Request] [Syncing v3p4 (era files).](https://github.com/status-im/nimbus-eth2/pull/8828) - 2026-07-30
+* [Review] [Review on: Avoid calling postStateValidators with empty list](https://github.com/status-im/nimbus-eth2/pull/8826#pullrequestreview-4818820302) - 2026-07-30
 ## Q2 2026
 
 

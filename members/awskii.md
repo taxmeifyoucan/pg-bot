@@ -188,6 +188,10 @@ Team: Erigon
 * [Commit] [polygon/bor: fix the block extra data error log (#22815)](https://github.com/erigontech/erigon/commit/e446b9cb89b7261050c5d425a91ce00a6abd42c5) - 2026-07-29
 * [Commit] [cl,db,diagnostics,p2p: pass log values as attributes (#22812)](https://github.com/erigontech/erigon/commit/aa82d55f3917439cd33cb1cbdca52f582d9bad11) - 2026-07-29
 * [Commit] [execution/stagedsync,diagnostics: name the recovered panic log field (#22814)](https://github.com/erigontech/erigon/commit/b10abcf23b555bc0f9ebde3fdfbcc42a8cefc980) - 2026-07-29
+* [Pull Request] [db/snaptype: separate core/caplin/bor enum ranges; panic on duplicate registration](https://github.com/erigontech/erigon/pull/22878) - 2026-07-30
+* [Commit] [rpc/jsonrpc, db/consensuschain: pass a logger to the consensus chain reader (#22859)](https://github.com/erigontech/erigon/commit/ac069f73f7c022b7e06697511fe323205b7f1fc1) - 2026-07-30
+* [Commit] [common/event: broadcast under the mutex in Notifier (#22857)](https://github.com/erigontech/erigon/commit/bf2ce252c3b966007b9184b2d59e53f1e32462a4) - 2026-07-30
+* [Commit] [cmd/utils/app: keep consensus-layer data out of snapshots du estimates (#22871)](https://github.com/erigontech/erigon/commit/8bcea342982cc5dfa35d80ef11ab7f64818a7725) - 2026-07-30
 ## Q2 2026
 
 

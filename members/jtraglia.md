@@ -126,6 +126,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Remove specs for KZG functions](https://github.com/ethereum/consensus-specs/pull/5398#pullrequestreview-4809648730) - 2026-07-29
 * [Commit] [Rename `Bitlist`/`Bitvector` to `BitList`/`BitVector` (#5493)](https://github.com/ethereum/consensus-specs/commit/0ddf13b3dcdae1cc855c9aa8aa28af5e8c6f3c82) - 2026-07-29
 * [Commit] [Remove specs for KZG functions (#5398)](https://github.com/ethereum/consensus-specs/commit/26343543931168c0d68cc5df38cc9c9c454ecf86) - 2026-07-29
+* [Commit] [Add two tests for same-slot attestation zero-index assertion (#5494)](https://github.com/ethereum/consensus-specs/commit/123d1efa05751e762fa2f877a978513f6bf5040c) - 2026-07-30
+* [Commit] [Save signed inclusion lists in `InclusionListStore` (#5487)](https://github.com/ethereum/consensus-specs/commit/53a9d0ce366f665eb682102f67d9f722fb260506) - 2026-07-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

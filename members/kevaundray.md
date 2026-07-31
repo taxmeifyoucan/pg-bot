@@ -24,6 +24,10 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/pull/12027#pullrequestreview-4810140301) - 2026-07-29
 * [Pull Request] [Update EIP-8200: Remove BLS map precompiles](https://github.com/ethereum/EIPs/pull/12031) - 2026-07-29
 * [Commit] [Update EIP-8200: Remove BLS map precompiles](https://github.com/ethereum/EIPs/commit/4453c19567bd461d27ec555aa6f91e6423b4613e) - 2026-07-29
+* [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4820634274) - 2026-07-30
+* [Pull Request] [Update EIP-8297: Use simpler pseudo code for tree structure algorithm](https://github.com/ethereum/EIPs/pull/12040) - 2026-07-30
+* [Review] [Review on: Update EIP-8297: Use simpler pseudo code for tree structure algorithm](https://github.com/ethereum/EIPs/pull/12040#pullrequestreview-4818829563) - 2026-07-30
+* [Commit] [Update EIP-8297: Use simpler pseudo code for tree structure algorithm](https://github.com/ethereum/EIPs/commit/a143951da5c43fe08315d0685d4bfad722c816ae) - 2026-07-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14

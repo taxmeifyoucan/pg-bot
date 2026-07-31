@@ -55,6 +55,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: enable gloas fast_confirmation spec tests (#9704)](https://github.com/ChainSafe/lodestar/commit/7a06691aa8a226477f129bb415a59f60ef287db0) - 2026-07-27
 * [Pull Request] [refactor: remove bun runtime support](https://github.com/ChainSafe/lodestar/pull/9719) - 2026-07-28
 
+* [Commit] [refactor: remove bun runtime support (#9719)](https://github.com/ChainSafe/lodestar/commit/e00bf67333dfd49e3503fd63ba870916e32343e4) - 2026-07-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

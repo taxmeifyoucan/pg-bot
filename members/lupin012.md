@@ -89,6 +89,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [node: cover h2c upgrade route and TLS protocol negotiation](https://github.com/erigontech/erigon/pull/22862) - 2026-07-29
 * [Review] [Review on: execution/state, rpc/jsonrpc: release IntraBlockState at end of RPC handlers](https://github.com/erigontech/erigon/pull/22777#pullrequestreview-4805664824) - 2026-07-29
 * [Commit] [node: cover h2c upgrade route and TLS protocol negotiation (#22862)](https://github.com/erigontech/erigon/commit/d8dac9fbe2a54cd4d8b6d27558d2ca9faabcda45) - 2026-07-29
+* [Pull Request] [[WIP] node: replace libdeflate with klauspost/compress for RPC HTTP gzip (analysis)](https://github.com/erigontech/erigon/pull/22882) - 2026-07-30
+* [Review] [Review on: rpc: fix non-deterministic eth_estimateGas caused by stale cancel of shared EVM](https://github.com/erigontech/erigon/pull/22877#pullrequestreview-4820426424) - 2026-07-30
+* [Issue] [debug_traceBlockByNumber with prestateTracer: Erigon includes an extra account compared to Geth](https://github.com/erigontech/erigon/issues/22888) - 2026-07-30
+* [Commit] [rpc: validate authorizationList args in eth_fillTransaction (#22872)](https://github.com/erigontech/erigon/commit/a9487c5dd8e71933e42fdce82a37674a0afc1c43) - 2026-07-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

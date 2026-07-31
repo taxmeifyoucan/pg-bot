@@ -91,6 +91,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Fix state diff tracing for debug_traceTransaction](https://github.com/besu-eth/besu/pull/10798#pullrequestreview-4814505851) - 2026-07-30
 * [Pull Request] [Improve error handling in tx pool batch processing](https://github.com/besu-eth/besu/pull/10902) - 2026-07-29
 * [Issue] [Improve error handling robustness in transaction pool batch processing](https://github.com/besu-eth/besu/issues/10901) - 2026-07-29
+* [Review] [Review on: Make checkpoint available in ThreadBesuNodeRunner](https://github.com/besu-eth/besu/pull/10916#pullrequestreview-4816532720) - 2026-07-30
+* [Review] [Review on: Fix ForksSchedule.getFork() fallback returning largest fork instead of smallest](https://github.com/besu-eth/besu/pull/10886#pullrequestreview-4816529496) - 2026-07-30
+* [Review] [Review on: Improve error handling in tx pool batch processing](https://github.com/besu-eth/besu/pull/10902#pullrequestreview-4814964026) - 2026-07-30
+* [Pull Request] [Update ENR fork ID on first block crossing a timestamp fork](https://github.com/besu-eth/besu/pull/10914) - 2026-07-30
+* [Review] [Review on: Add Bonsai debug modified accounts RPC methods](https://github.com/besu-eth/besu/pull/10487#pullrequestreview-4815018718) - 2026-07-30
+* [Pull Request] [[MINOR] replace inefficient method of checking for empty string](https://github.com/besu-eth/besu/pull/10911) - 2026-07-30
+* [Pull Request] [fix(p2p): fix root cause of FramingException stack trace](https://github.com/besu-eth/besu/pull/10912) - 2026-07-30
+* [Issue] [flaky BootNodesGenesisSetupTest](https://github.com/besu-eth/besu/issues/10913) - 2026-07-30
+* [Issue] [flaky SnapSyncForkRecoveryAcceptanceTest](https://github.com/besu-eth/besu/issues/10910) - 2026-07-30
+* [Commit] [Improve error handling in tx pool batch processing (#10902)](https://github.com/besu-eth/besu/commit/440dd2e59f26a86afe06aff08dbd6f777923231e) - 2026-07-30
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

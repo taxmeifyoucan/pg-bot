@@ -69,6 +69,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Slow block tracer](https://github.com/besu-eth/besu/pull/10746#pullrequestreview-4807235370) - 2026-07-29
 * [Review] [Review on: Stateroot refactoring  ](https://github.com/besu-eth/besu/pull/10804#pullrequestreview-4806966905) - 2026-07-29
 * [Review] [Review on: snap/2 - repair storage roots of pending accounts at catch-up](https://github.com/besu-eth/besu/pull/10866#pullrequestreview-4804254533) - 2026-07-29
+* [Review] [Review on: Refactor engine_getPayload into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10890#pullrequestreview-4818490030) - 2026-07-30
+* [Review] [Review on: Stateroot refactoring  ](https://github.com/besu-eth/besu/pull/10804#pullrequestreview-4815921601) - 2026-07-30
 ## Q2 2026
 
 

@@ -65,6 +65,13 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: chore(tests): improve EIP-8024 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3224#pullrequestreview-4804460527) - 2026-07-29
 * [Commit] [feat(test-benchmark): on-chain account verification (#3197)](https://github.com/ethereum/execution-specs/commit/af137475d7b15842438cfcb30c01d8903bf57b3c) - 2026-07-29
 * [Commit] [feat(tests): implement eip-8070 sparse blob pool tests (#2948)](https://github.com/ethereum/execution-specs/commit/3ae3d66cc2b3fd448a9578e58fb49bbae30752eb) - 2026-07-29
+* [Review] [Review on: fix(ci): Rename backports branches](https://github.com/ethereum/execution-specs/pull/3268#pullrequestreview-4824597261) - 2026-07-31
+* [Pull Request] [feat(test-benchmark): add missing glam eip to benchmark](https://github.com/ethereum/execution-specs/pull/3267) - 2026-07-30
+* [Review] [Review on: feat(ci): Backport CI Workflow](https://github.com/ethereum/execution-specs/pull/3262#pullrequestreview-4816165680) - 2026-07-30
+* [Review] [Review on: chore(tests): improve EIP-8024 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3224#pullrequestreview-4816417597) - 2026-07-30
+* [Pull Request] [feat(tests): enhance test coverage, add mainnet test for eip-2780](https://github.com/ethereum/execution-specs/pull/3266) - 2026-07-30
+* [Review] [Review on: feat(tests): pin flat 2D inclusion gate semantics (no intrinsic subtraction)](https://github.com/ethereum/execution-specs/pull/3245#pullrequestreview-4817482315) - 2026-07-30
+* [Commit] [feat(test-benchmark): add missing glam eip to benchmark (#3267)](https://github.com/ethereum/execution-specs/commit/0da438753ef48d4f9722ff24b81e2b0ff501d9d2) - 2026-07-30
 ## Q2 2026
 
 

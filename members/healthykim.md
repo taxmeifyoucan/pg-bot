@@ -30,6 +30,10 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: core: fix tx size calculation](https://github.com/ethereum/go-ethereum/pull/35406#pullrequestreview-4771701168) - 2026-07-24
 * [Pull Request] [eth/protocols: fix Cells/GetCells RLP encoding](https://github.com/ethereum/go-ethereum/pull/35428) - 2026-07-27
 * [Commit] [eth/protocols: fix Cells/GetCells RLP encoding (#35428)](https://github.com/ethereum/go-ethereum/commit/38271784c2b31926563806da9a2e023b88f5e7a8) - 2026-07-28
+
+* [Review] [Review on: core/txpool/blobpool: fall back to pool in GetCells for blob-mode cache entries](https://github.com/ethereum/go-ethereum/pull/35439#pullrequestreview-4820237465) - 2026-07-30
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4816824387) - 2026-07-30
 ## Q2 2026
 
 

@@ -45,6 +45,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(spec): make state interface fully implementation agnostic](https://github.com/ethereum/execution-specs/pull/3218#pullrequestreview-4789804361) - 2026-07-27
 * [Review] [Review on: refactor(spec-specs,tests): rename EIP-8037 regular gas to execution gas](https://github.com/ethereum/execution-specs/pull/3238#pullrequestreview-4795467675) - 2026-07-28
 * [Commit] [feat(specs,amsterdam): EIP-2780 - fold transfer log cost into value transfer cost (#3214)](https://github.com/ethereum/execution-specs/commit/1311ff376d2f7fbd5270e38e7bf13847c14b883e) - 2026-07-29
+* [Review] [Review on: refactor(spec-specs,tests): rename REGULAR_PER_AUTH_BASE_COST to EXECUTION_PER_AUTH_BASE_COST](https://github.com/ethereum/execution-specs/pull/3263#pullrequestreview-4817260427) - 2026-07-30
 ## Q2 2026
 
 

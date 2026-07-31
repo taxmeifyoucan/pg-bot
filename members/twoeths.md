@@ -69,6 +69,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: harden range sync hashBlocks()](https://github.com/ChainSafe/lodestar/pull/9686#pullrequestreview-4805043687) - 2026-07-29
 * [Review] [Review on: chore: follow up on #9390 on EIP-7688 changes](https://github.com/ChainSafe/lodestar/pull/9689#pullrequestreview-4804812131) - 2026-07-29
 * [Review] [Review on: feat: classify batch processing failures](https://github.com/ChainSafe/lodestar/pull/9693#pullrequestreview-4803926264) - 2026-07-29
+* [Review] [Review on: fix(beacon-node): avoid deep-sync head-state wedge](https://github.com/ChainSafe/lodestar/pull/9717#pullrequestreview-4816563508) - 2026-07-30
+* [Review] [Review on: fix: use proposer lookahead for next epoch proposer cache](https://github.com/ChainSafe/lodestar/pull/9730#pullrequestreview-4817747377) - 2026-07-30
+* [Review] [Review on: test: compare state roots first in expectEqualBeaconState and bump gloas sanity timeout](https://github.com/ChainSafe/lodestar/pull/9711#pullrequestreview-4816745344) - 2026-07-30
+* [Pull Request] [feat: cache builder deposit signatures for gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9727) - 2026-07-30
+* [Review] [Review on: feat: cache builder deposit signatures for gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9727#pullrequestreview-4816114197) - 2026-07-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

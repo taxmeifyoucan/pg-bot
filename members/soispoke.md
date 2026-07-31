@@ -37,6 +37,7 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Commit] [Update EIP-8141: apply charged_gas to fee settlement (#11969)](https://github.com/ethereum/EIPs/commit/fc016d59c5ad3d03ec04dfd3086a9ad6ea9b1a5f) - 2026-07-28
 * [Commit] [Update EIP-8272: make recent root changes additive](https://github.com/ethereum/EIPs/commit/37a542d24e51ba3751572dfe5c0ab65824aae39a) - 2026-07-29
 * [Commit] [Update EIP-8250: make keyed nonce changes additive](https://github.com/ethereum/EIPs/commit/8ff5c1359f94ad413c06b0ba1b2a025df8ebaed7) - 2026-07-29
+* [Pull Request] [Update EIP-8250: Define keyed mempool concurrency](https://github.com/ethereum/EIPs/pull/12039) - 2026-07-30
 ## Q2 2026
 
 

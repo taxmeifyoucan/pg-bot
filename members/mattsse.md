@@ -178,9 +178,20 @@ Team: Reth
 * [Review] [Review on: fix(pruner): keep history checkpoint from rewinding on static file walks](https://github.com/paradigmxyz/reth/pull/26505#pullrequestreview-4808392617) - 2026-07-29
 * [Commit] [refactor(rpc): use Alloy gas limit validation (#26518)](https://github.com/paradigmxyz/reth/commit/ce463098f20fb335b74d306d81c3d1f661693832) - 2026-07-29
 * [Commit] [refactor(engine): parse payload IDs directly (#26519)](https://github.com/paradigmxyz/reth/commit/b813f1fb4b8433e16687385484c34226b241185c) - 2026-07-29
+* [Review] [Review on: chore: update ruint to 1.20.0](https://github.com/paradigmxyz/reth/pull/26541#pullrequestreview-4823031259) - 2026-07-30
+* [Review] [Review on: feat: add -`-with-receipts` to `import-era` to store receipts](https://github.com/paradigmxyz/reth/pull/26436#pullrequestreview-4819799266) - 2026-07-30
+* [Pull Request] [refactor(net): add NodeRecord::has_rlpx_endpoint helper](https://github.com/paradigmxyz/reth/pull/26538) - 2026-07-30
+* [Review] [Review on: fix(txpool): enable EIP-2780 intrinsic gas rules](https://github.com/paradigmxyz/reth/pull/26536#pullrequestreview-4820711628) - 2026-07-30
+* [Review] [Review on: feat(engine): configure state masking blocks](https://github.com/paradigmxyz/reth/pull/26533#pullrequestreview-4820560746) - 2026-07-30
+* [Pull Request] [fix(discv5): default to port 30303](https://github.com/paradigmxyz/reth/pull/26537) - 2026-07-30
+* [Commit] [refactor(net): add NodeRecord::has_rlpx_endpoint helper (#26538)](https://github.com/paradigmxyz/reth/commit/f2e2b5c56593359c9626caf11e392c4f75ddede7) - 2026-07-30
+* [Commit] [fix(net): keep ENR ports paired with their IP address (#26529)](https://github.com/paradigmxyz/reth/commit/e430fd80a974aef7a5fdad90181613e4272905c9) - 2026-07-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
+
+[sigp/discv5](https://github.com/sigp/discv5)
+* [Pull Request] [fix: resend active WHOAREYOU challenge](https://github.com/sigp/discv5/pull/309) - 2026-07-30
 ## Q2 2026
 
 

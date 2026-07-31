@@ -57,6 +57,8 @@ Team: Geth
 * [Review] [Review on: version: release v1.17.5](https://github.com/ethereum/go-ethereum/pull/35421#pullrequestreview-4784736157) - 2026-07-27
 * [Review] [Review on: go.mod: update snappy dependency](https://github.com/ethereum/go-ethereum/pull/35422#pullrequestreview-4784682941) - 2026-07-27
 * [Commit] [miner: don't seal block if a db error occurred (#35427)](https://github.com/ethereum/go-ethereum/commit/1bfc028d4353ca808f17170abf949f7f7b72cc5c) - 2026-07-28
+* [Review] [Review on: accounts/abi/abigen: use original names for custom errors](https://github.com/ethereum/go-ethereum/pull/35332#pullrequestreview-4818216235) - 2026-07-30
+* [Review] [Review on: accounts/abi: set stringKind for contract-typed arguments](https://github.com/ethereum/go-ethereum/pull/35345#pullrequestreview-4818222272) - 2026-07-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 ## Q2 2026

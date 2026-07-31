@@ -110,6 +110,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Add attributes event when sending on late blocks.](https://github.com/OffchainLabs/prysm/pull/17262#pullrequestreview-4812295742) - 2026-07-29
 * [Pull Request] [Add `GET`/`POST`/`DELETE /eth/v1/validator/{pubkey}/builders` keymanager endpoints](https://github.com/OffchainLabs/prysm/pull/17261) - 2026-07-29
 * [Review] [Review on: updating changelog for v7.1.8](https://github.com/OffchainLabs/prysm/pull/17252#pullrequestreview-4810735557) - 2026-07-29
+* [Review] [Review on: Enforce Web3Signer user to set flags correctly when startup](https://github.com/OffchainLabs/prysm/pull/17226#pullrequestreview-4819893764) - 2026-07-30
+* [Pull Request] [ delay next epoch duties call for post gloas ](https://github.com/OffchainLabs/prysm/pull/17268) - 2026-07-30
+* [Review] [Review on:  delay next epoch duties call for post gloas ](https://github.com/OffchainLabs/prysm/pull/17268#pullrequestreview-4820885399) - 2026-07-30
 ## Q2 2026
 
 

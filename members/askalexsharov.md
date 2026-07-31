@@ -580,6 +580,13 @@ Team: Erigon
 * [Commit] [agents.md advise B2 English  (#22843)](https://github.com/erigontech/erigon/commit/1a89b9a392194567263f16b9a2c045231ffc6cd5) - 2026-07-29
 * [Commit] [deps: update x/exp, cel-go, mcp-go, cgroups, blst, compress, kong, isatty, secp256k1 (#22796)](https://github.com/erigontech/erigon/commit/d759e5c6cedd033e48c39979b2d49d862ca50af3) - 2026-07-29
 * [Commit] [cmd/rpcdaemon/graphql: resolve miner, createdContract and log.account fields (#22710)](https://github.com/erigontech/erigon/commit/6d12bdd560c5401ee1690db540f79f6d0a765327) - 2026-07-29
+* [Pull Request] [[3.6] less warn logs about not-found files](https://github.com/erigontech/erigon/pull/22879) - 2026-07-30
+* [Review] [Review on: execution/cache, execution/commitment: make Clear coherence race-safe](https://github.com/erigontech/erigon/pull/22869#pullrequestreview-4815223025) - 2026-07-30
+* [Pull Request] [db/state: less warn logs about not-found files](https://github.com/erigontech/erigon/pull/22880) - 2026-07-30
+* [Pull Request] [execution/state, execution/stagedsync: merge write sets without cloning in the apply loop](https://github.com/erigontech/erigon/pull/22883) - 2026-07-30
+* [Review] [Review on: execution/stagedsync: fix stale multipliers in SizeEstimate comment](https://github.com/erigontech/erigon/pull/22760#pullrequestreview-4815105798) - 2026-07-30
+* [Commit] [db/state: less warn logs about not-found files (#22880)](https://github.com/erigontech/erigon/commit/8ebe3d97c7e3c32e16a6c94305317f4334cb0349) - 2026-07-30
+* [Commit] [db/snaptype: tolerate files deleted during dir scan (#22853)](https://github.com/erigontech/erigon/commit/d67bdd24868a327a764eaa33e9f8cda17f946bec) - 2026-07-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

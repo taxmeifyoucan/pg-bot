@@ -30,6 +30,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Remove deprecated beacon chain util usages](https://github.com/Consensys/teku/pull/11022) - 2026-07-29
 * [Review] [Review on: Remove deprecated beacon chain util usages](https://github.com/Consensys/teku/pull/11022#pullrequestreview-4804039457) - 2026-07-29
 * [Commit] [Remove deprecated beacon chain util usages (#11022)](https://github.com/Consensys/teku/commit/17752e1445d96a3292ffa65dc9a3ab119207fdec) - 2026-07-30
+* [Pull Request] [Remove beaconchainutil from other test fixtures](https://github.com/Consensys/teku/pull/11030) - 2026-07-30
 ## Q2 2026
 
 

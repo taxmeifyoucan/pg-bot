@@ -151,6 +151,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Issue] [Attest-timely event stream fix + gossipsub ignore bug](https://github.com/OffchainLabs/prysm/issues/17245) - 2026-07-27
 * [Review] [Review on: Reorg late blocks even on slot 31](https://github.com/OffchainLabs/prysm/pull/17257#pullrequestreview-4797764230) - 2026-07-28
 * [Pull Request] [Add SLOT_SCHEDULE for epoch based slot durations](https://github.com/OffchainLabs/prysm/pull/17260) - 2026-07-29
+* [Pull Request] [Filter sync committee contributions by the aggregator's own voted root](https://github.com/OffchainLabs/prysm/pull/17277) - 2026-07-30
+* [Pull Request] [Look up payload availability at the parent block's slot](https://github.com/OffchainLabs/prysm/pull/17269) - 2026-07-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

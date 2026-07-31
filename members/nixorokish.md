@@ -18,6 +18,8 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Merge pull request #2163 from ethereum/nixorokish-patch-6](https://github.com/ethereum/pm/commit/7dd21f34e3408d4caaff614e4630ecc6594e43f6) - 2026-07-16
 * [Commit] [add all forks json](https://github.com/ethereum/pm/commit/11635451a547dc5e411066aa3df871eaf3d74099) - 2026-07-16
 * [Issue] [All Core Devs - Execution (ACDE) #242, July 30, 2026](https://github.com/ethereum/pm/issues/2166) - 2026-07-20
+* [Issue] [All Core Devs - Consensus (ACDC) #184, August 6 2026](https://github.com/ethereum/pm/issues/2177) - 2026-07-30
+* [Issue] [All Core Devs - Execution (ACDE) #243, August 13, 2026](https://github.com/ethereum/pm/issues/2178) - 2026-07-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8081: PFI EIP-7862](https://github.com/ethereum/EIPs/pull/11934) - 2026-07-16
 * [Review] [Review on: Update EIP-8081: Add EIP-8304 as PFI](https://github.com/ethereum/EIPs/pull/11933#pullrequestreview-4710414761) - 2026-07-16
@@ -30,6 +32,13 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Update EIP-8081: Propose EIP-2488 and EIP-7645 for inclusion](https://github.com/ethereum/EIPs/pull/11793#pullrequestreview-4738571610) - 2026-07-20
 * [Commit] [Update EIP-8081: PFI EIP-8268](https://github.com/ethereum/EIPs/commit/625ec7821972c0888b03307e8c76b1963bc8a63e) - 2026-07-20
 * [Review] [Review on: Update EIP-8081: Propose EIP-8015 for inclusion](https://github.com/ethereum/EIPs/pull/11914#pullrequestreview-4781609326) - 2026-07-26
+* [Review] [Review on: Update EIP-8081: PFI EIP-7668](https://github.com/ethereum/EIPs/pull/12046#pullrequestreview-4821498292) - 2026-07-30
+* [Review] [Review on: Update EIP-8081: PFI EIP-7906](https://github.com/ethereum/EIPs/pull/12013#pullrequestreview-4820337319) - 2026-07-30
+* [Review] [Review on: Update EIP-8081: Propose EIP-7819 for inclusion in Hegota](https://github.com/ethereum/EIPs/pull/11505#pullrequestreview-4820332102) - 2026-07-30
+* [Review] [Review on: Update EIP-8081: Propose EIP-8116 for inclusion](https://github.com/ethereum/EIPs/pull/11912#pullrequestreview-4820040934) - 2026-07-30
+* [Review] [Review on: Update EIP-8081: Propose EIP-7807 for inclusion](https://github.com/ethereum/EIPs/pull/11913#pullrequestreview-4820047448) - 2026-07-30
+* [Review] [Review on: Update EIP-8081: Propose EIP-8115 for inclusion](https://github.com/ethereum/EIPs/pull/11911#pullrequestreview-4820037978) - 2026-07-30
+* [Review] [Review on: Update EIP-7723: To clarify "Status" and "Stages"](https://github.com/ethereum/EIPs/pull/11006#pullrequestreview-4819725764) - 2026-07-30
 ## Q2 2026
 
 

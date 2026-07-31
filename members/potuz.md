@@ -60,6 +60,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Reorg late blocks even on slot 31](https://github.com/OffchainLabs/prysm/pull/17257) - 2026-07-28
 * [Pull Request] [Add attributes event when sending on late blocks.](https://github.com/OffchainLabs/prysm/pull/17262) - 2026-07-29
 * [Commit] [Add attributes event when sending on late blocks. (#17262)](https://github.com/OffchainLabs/prysm/commit/6bd25639b9e6b125536477f274558aa8f65500f4) - 2026-07-29
+* [Review] [Review on: Advertise the current head to the execution client during Gloas initial-sync](https://github.com/OffchainLabs/prysm/pull/17275#pullrequestreview-4818760630) - 2026-07-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
@@ -71,6 +72,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot](https://github.com/ethereum/consensus-specs/pull/5473#pullrequestreview-4774920083) - 2026-07-24
 * [Pull Request] [Only allow bids compatible with the head view](https://github.com/ethereum/consensus-specs/pull/5491) - 2026-07-28
 * [Pull Request] [Allow epoch boundary reorgs in Gloas](https://github.com/ethereum/consensus-specs/pull/5492) - 2026-07-28
+* [Pull Request] [Allow builders to bid on multiple branches](https://github.com/ethereum/consensus-specs/pull/5497) - 2026-07-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629311315) - 2026-07-04
 

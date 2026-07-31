@@ -51,6 +51,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat: implement catalog cache for optimized batch exports and metadata management](https://github.com/eth-act/zkevm-benchmark-workload/pull/306) - 2026-07-27
 * [Commit] [feat: implement catalog cache for optimized batch exports and metadata management (#306)](https://github.com/eth-act/zkevm-benchmark-workload/commit/d38737493a3e44c36c94517b627e338fd6fb861e) - 2026-07-27
 * [Review] [Review on: feat: load only last block of eest fixture, and add target_opcode](https://github.com/eth-act/zkevm-benchmark-workload/pull/307#pullrequestreview-4797914277) - 2026-07-28
+* [Pull Request] [feat: remove zesu fork check since valid fixtures test byte-invalid inputs](https://github.com/eth-act/zkevm-benchmark-workload/pull/309) - 2026-07-30
+* [Review] [Review on: feat: update ere and ere-guests to v0.14.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/308#pullrequestreview-4820718953) - 2026-07-30
+* [Commit] [feat: remove zesu fork check since valid fixtures test byte-invalid inputs (#309)](https://github.com/eth-act/zkevm-benchmark-workload/commit/228a9228b1424c2216c78352763558ce1a7a268c) - 2026-07-30
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [feat(EngineAPI): support engine_newPayloadWithWitnessVX](https://github.com/paradigmxyz/reth/issues/26415) - 2026-07-16
 

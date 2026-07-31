@@ -57,6 +57,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(el): use ENR bootnodes and run discv5-only](https://github.com/ethpandaops/template-devnets/pull/181) - 2026-07-29
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Add version envelope to Gloas event stream events](https://github.com/status-im/nimbus-eth2/pull/8816) - 2026-07-28
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [fix(net): make discv5 follow --discovery.port](https://github.com/paradigmxyz/reth/pull/26532) - 2026-07-30
 ## Q2 2026
 
 

@@ -53,6 +53,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/beacon: handle empty Fulu builder response (#22653)](https://github.com/erigontech/erigon/commit/0eb0715affd97afd7e5e940341a0dce53fb6f34c) - 2026-07-22
 * [Review] [Review on: cl/merkle_tree: add EIP-7495 active fields mix-in](https://github.com/erigontech/erigon/pull/22528#pullrequestreview-4761514884) - 2026-07-23
 * [Pull Request] [cl: fix Gloas checkpoint sync with external execution clients](https://github.com/erigontech/erigon/pull/22683) - 2026-07-23
+* [Pull Request] [cl/pool: prune finalized operations asynchronously](https://github.com/erigontech/erigon/pull/22884) - 2026-07-30
 ## Q2 2026
 
 

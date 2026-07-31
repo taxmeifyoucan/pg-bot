@@ -44,6 +44,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [EIP-8246: Amsterdam SELFDESTRUCT preserves originator balance (#10766)](https://github.com/besu-eth/besu/commit/dbadb14e1501e09d42d7041de95f73c8cb2c41de) - 2026-07-29
 * [Commit] [EIP-2780 & EIP-7702: Amsterdam resource-based intrinsic gas + per-authorization refund (#10765)](https://github.com/besu-eth/besu/commit/15f0783bf1e4b0e6676359d73e543a69879bfb07) - 2026-07-29
 * [Commit] [EIP-8282: builder deposit and exit execution requests for Amsterdam (#10743)](https://github.com/besu-eth/besu/commit/ef1ac6ec5dec5e1f2800736332a76b9698de1415) - 2026-07-29
+* [Pull Request] [Amsterdam devnet-7 (4/4): remove the dead intrinsic state-gas plumbing](https://github.com/besu-eth/besu/pull/10932) - 2026-07-30
+* [Pull Request] [Amsterdam devnet-7 (3/4): EIP-2780/7928 top-frame authorization charges, fixtures v7.2.0](https://github.com/besu-eth/besu/pull/10931) - 2026-07-30
+* [Pull Request] [Amsterdam devnet-7 (2/4): EIP-3120/8037/8038 calldata floor, CREATE liveness, SSTORE ordering](https://github.com/besu-eth/besu/pull/10930) - 2026-07-30
+* [Pull Request] [Amsterdam devnet-7 (1/4): EIP-8282 builder predeploy addresses](https://github.com/besu-eth/besu/pull/10929) - 2026-07-30
+* [Pull Request] [EIP-7928: exclude the recipient when a runtime halt precedes its load](https://github.com/besu-eth/besu/pull/10926) - 2026-07-30
+* [Pull Request] [EIP-2780: fold transfer log cost into TX_VALUE_COST](https://github.com/besu-eth/besu/pull/10925) - 2026-07-30
+* [Pull Request] [Amsterdam: glamsterdam-devnet-7 compatibility (fixtures v7.2.0)](https://github.com/besu-eth/besu/pull/10924) - 2026-07-30
+* [Pull Request] [Amsterdam: glamsterdam-devnet-7 compatibility (fixtures v7.2.0)](https://github.com/besu-eth/besu/pull/10921) - 2026-07-30
+* [Pull Request] [Glamsterdam devnet 7](https://github.com/besu-eth/besu/pull/10923) - 2026-07-30
+* [Review] [Review on: EIP-2780/7702/8038: intrinsic gas, delegation accounting, fixtures v6.1.1](https://github.com/besu-eth/besu/pull/10908#pullrequestreview-4818997669) - 2026-07-30
+* [Review] [Review on: EIP-8037/7928: restore state-gas accounting and block gas dimensions](https://github.com/besu-eth/besu/pull/10907#pullrequestreview-4817270827) - 2026-07-30
+* [Commit] [EIP-2780/7702/8038: intrinsic gas, delegation accounting, fixtures v6.1.1 (#10908)](https://github.com/besu-eth/besu/commit/98b72450a38df589eb50c02e5530a7a0c1c4445c) - 2026-07-30
+* [Commit] [EIP-8037/7928: restore state-gas accounting and block gas dimensions (#10907)](https://github.com/besu-eth/besu/commit/222574347a27c4620a76bfd2814bf412bbe3b3ce) - 2026-07-30
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 ## Q2 2026

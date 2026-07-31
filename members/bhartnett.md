@@ -57,6 +57,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Improve performance of BLS pairing precompile](https://github.com/status-im/nimbus-eth1/pull/4577) - 2026-07-28
 * [Commit] [Improve performance of BLS pairing precompile (#4577)](https://github.com/status-im/nimbus-eth1/commit/7b54ba38de713479981d9ca54beafe324c2bb6f0) - 2026-07-28
 * [Commit] [ecPairing precompile miller loop batching (#4564)](https://github.com/status-im/nimbus-eth1/commit/6072ac642560eca58881e552a81672121937f3c3) - 2026-07-28
+* [Pull Request] [Optimize keccak hashing and opcode](https://github.com/status-im/nimbus-eth1/pull/4590) - 2026-07-30
 ## Q2 2026
 
 

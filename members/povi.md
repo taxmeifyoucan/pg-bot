@@ -48,6 +48,9 @@ Team: Grandine
 * [Commit] [cargo fmt](https://github.com/grandinetech/grandine/commit/8d768f2d9d982f3a01e1796ff064ed4850f9f2cb) - 2026-07-27
 * [Pull Request] [fork choice compliance tests v1.7.0 alpha.12](https://github.com/grandinetech/grandine/pull/831) - 2026-07-28
 * [Review] [Review on: Delay block until payload available](https://github.com/grandinetech/grandine/pull/833#pullrequestreview-4807838040) - 2026-07-29
+* [Review] [Review on: Add `validators.yml` validator definitions](https://github.com/grandinetech/grandine/pull/829#pullrequestreview-4818966407) - 2026-07-30
+* [Review] [Review on: feat: Add SSZ response support for validator_balances endpoints](https://github.com/grandinetech/grandine/pull/801#pullrequestreview-4816456532) - 2026-07-30
+* [Issue] [[Glamsterdam] Rebase Glamsterdam code on latest develop](https://github.com/grandinetech/grandine/issues/836) - 2026-07-30
 ## Q2 2026
 
 

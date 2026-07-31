@@ -31,6 +31,13 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: ci: cut wasted CI spend on unchanged and perpetually-failing paths](https://github.com/NethermindEth/nethermind/pull/12563#pullrequestreview-4789726032) - 2026-07-27
 * [Commit] [ci: cut wasted CI spend on unchanged and perpetually-failing paths (#12563)](https://github.com/NethermindEth/nethermind/commit/1601d6dde26f54c589212dafbbef9238df3e88ca) - 2026-07-27
 * [Pull Request] [perf(state): parallelize whale storage verification and drop per-entry copies in FlatTrieVerifier](https://github.com/NethermindEth/nethermind/pull/12615) - 2026-07-30
+* [Pull Request] [perf(sync): unthrottle the snap download pipeline](https://github.com/NethermindEth/nethermind/pull/12623) - 2026-07-30
+* [Review] [Review on: perf(sync): unthrottle the snap download pipeline](https://github.com/NethermindEth/nethermind/pull/12623#pullrequestreview-4822395485) - 2026-07-30
+* [Pull Request] [perf(state): make HintReadAhead effective through DB snapshots for flat verification](https://github.com/NethermindEth/nethermind/pull/12619) - 2026-07-30
+* [Review] [Review on: perf(state): make HintReadAhead effective through DB snapshots for flat verification](https://github.com/NethermindEth/nethermind/pull/12619#pullrequestreview-4819007203) - 2026-07-30
+* [Pull Request] [ci: sync-validation timings dashboard on GitHub Pages](https://github.com/NethermindEth/nethermind/pull/12618) - 2026-07-30
+* [Review] [Review on: ci: sync-validation timings dashboard on GitHub Pages](https://github.com/NethermindEth/nethermind/pull/12618#pullrequestreview-4818759388) - 2026-07-30
+* [Pull Request] [test: make prewarmer env-return assertion pool-hit independent](https://github.com/NethermindEth/nethermind/pull/12616) - 2026-07-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

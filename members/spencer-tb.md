@@ -127,6 +127,20 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [refactor(spec-specs,tests): rename EIP-8037 regular gas to execution gas (#3238)](https://github.com/ethereum/execution-specs/commit/593078295684ff46f686607726d5a839d50b6205) - 2026-07-29
 * [Commit] [fix(test-execute): prune fork-less items before evaluating filter_combinations (#3259)](https://github.com/ethereum/execution-specs/commit/d3baec819ff3f83cefc29a69a2fa5b141ea36cb1) - 2026-07-29
 * [Commit] [chore(tests): improve EIP-7976 coverage, checklist, and ref-spec pin (#3222)](https://github.com/ethereum/execution-specs/commit/178d9f9257fbf7ec8c9b55c3e5da3c6f20c583db) - 2026-07-29
+* [Review] [Review on: feat(test-benchmark): add missing glam eip to benchmark](https://github.com/ethereum/execution-specs/pull/3267#pullrequestreview-4820385817) - 2026-07-30
+* [Review] [Review on: feat(tests): cover invalid-BAL content canonicality (no-op / missing / phantom-read entries)](https://github.com/ethereum/execution-specs/pull/3170#pullrequestreview-4820363119) - 2026-07-30
+* [Review] [Review on: feat(tests): add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158#pullrequestreview-4820063866) - 2026-07-30
+* [Review] [Review on: feat(tests): add dynamic-destination JUMP/JUMPI invalid-target tests](https://github.com/ethereum/execution-specs/pull/3153#pullrequestreview-4820017802) - 2026-07-30
+* [Pull Request] [refactor(test-fill): rebuild the Engine X drift check on typed fixture models](https://github.com/ethereum/execution-specs/pull/3265) - 2026-07-30
+* [Review] [Review on: test(spec-tests): add RLP canonical `Uint` decoding test](https://github.com/ethereum/execution-specs/pull/3210#pullrequestreview-4818660953) - 2026-07-30
+* [Review] [Review on: chore(ci): deduplicate temp-dir creation across Justfile recipes](https://github.com/ethereum/execution-specs/pull/3191#pullrequestreview-4818671685) - 2026-07-30
+* [Review] [Review on: feat(tests): EIP-7778 admission gate uses pre-refund gas](https://github.com/ethereum/execution-specs/pull/2932#pullrequestreview-4818423026) - 2026-07-30
+* [Review] [Review on: feat(tests): pin flat 2D inclusion gate semantics (no intrinsic subtraction)](https://github.com/ethereum/execution-specs/pull/3245#pullrequestreview-4817676462) - 2026-07-30
+* [Review] [Review on: feat(tests): cover noncanonical deposit ABI offsets in eip6110](https://github.com/ethereum/execution-specs/pull/3240#pullrequestreview-4817959028) - 2026-07-30
+* [Pull Request] [refactor(spec-specs,tests): rename REGULAR_PER_AUTH_BASE_COST to EXECUTION_PER_AUTH_BASE_COST](https://github.com/ethereum/execution-specs/pull/3263) - 2026-07-30
+* [Pull Request] [fix(tests): enhance & un-skip Amsterdam ported static tests (Pt. 2)](https://github.com/ethereum/execution-specs/pull/3264) - 2026-07-30
+* [Commit] [chore(tests): improve EIP-8024 coverage, checklist, and ref-spec pin (#3224)](https://github.com/ethereum/execution-specs/commit/2384e39d17a226106a88f6ab34aad4461550ea63) - 2026-07-30
+* [Commit] [refactor(spec-specs,tests): rename REGULAR_PER_AUTH_BASE_COST to EXECUTION_PER_AUTH_BASE_COST (#3263)](https://github.com/ethereum/execution-specs/commit/d3a58bbcd7443755763a6199554b35862f07a94e) - 2026-07-30
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -136,6 +150,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: cmd/evm, core: fixes for eels tests@v20.0.0 release](https://github.com/ethereum/go-ethereum/pull/35283#pullrequestreview-4626435533) - 2026-07-03
 
 * [Commit] [cmd/evm, core: fixes for eels tests@v20.0.0 release (#35283)](https://github.com/ethereum/go-ethereum/commit/2ce0200762eb4ea77bb02a033004b4d9f75bec8c) - 2026-07-09
+* [Pull Request] [core/txpool/blobpool: fall back to pool in GetCells for blob-mode cache entries](https://github.com/ethereum/go-ethereum/pull/35439) - 2026-07-30
+* [Commit] [core/txpool/blobpool: fall back to pool in GetCells for blob-mode cache entries (#35439)](https://github.com/ethereum/go-ethereum/commit/7a1b11564c16f54dff0a2f578179c482d9f701bf) - 2026-07-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4635413569) - 2026-07-06
 
@@ -147,6 +163,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: hiveview: exclude multi-test client contexts from listing counts](https://github.com/ethereum/hive/pull/1576#pullrequestreview-4713546192) - 2026-07-16
 * [Review] [Review on: simulators/eels: optionally consume pre-staged local fixtures tar.gz](https://github.com/ethereum/hive/pull/1577#pullrequestreview-4736523485) - 2026-07-20
 
+* [Commit] [simulators/eels: fix `execute-blobs` simulator (#1365)](https://github.com/ethereum/hive/commit/dde4f59d04ff0ff8b6585670b08cea1b6c8ab65c) - 2026-07-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4806932985) - 2026-07-29
 * [Pull Request] [Update EIP-7773: SFI remaining Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12024) - 2026-07-29

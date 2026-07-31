@@ -66,6 +66,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: EIP-2780 & EIP-7702: Amsterdam resource-based intrinsic gas + per-authorization refund](https://github.com/besu-eth/besu/pull/10765#pullrequestreview-4806131604) - 2026-07-29
 * [Review] [Review on: Extract plugin-api metrics module](https://github.com/besu-eth/besu/pull/10903#pullrequestreview-4808073481) - 2026-07-29
 * [Review] [Review on: Improve error handling in tx pool batch processing](https://github.com/besu-eth/besu/pull/10902#pullrequestreview-4806029093) - 2026-07-29
+* [Review] [Review on: Improve error handling in tx pool batch processing](https://github.com/besu-eth/besu/pull/10902#pullrequestreview-4816764931) - 2026-07-30
+* [Pull Request] [Add EIP-8070 Engine API surface: engine_getBlobsV4 and custodyColumns](https://github.com/besu-eth/besu/pull/10922) - 2026-07-30
+* [Review] [Review on: Extract plugin-api permissioning module](https://github.com/besu-eth/besu/pull/10919#pullrequestreview-4820137247) - 2026-07-30
+* [Review] [Review on: Refactor engine_getPayload into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10890#pullrequestreview-4819365540) - 2026-07-30
+* [Review] [Review on: EIP-2780/7702/8038: intrinsic gas, delegation accounting, fixtures v6.1.1](https://github.com/besu-eth/besu/pull/10908#pullrequestreview-4818607578) - 2026-07-30
+* [Review] [Review on: EIP-8037/7928: restore state-gas accounting and block gas dimensions](https://github.com/besu-eth/besu/pull/10907#pullrequestreview-4816732351) - 2026-07-30
 ## Q2 2026
 
 

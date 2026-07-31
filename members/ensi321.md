@@ -72,6 +72,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 * [Pull Request] [Add response validation for `InclusionListsByIndices`](https://github.com/ethereum/consensus-specs/pull/5461) - 2026-07-21
 * [Pull Request] [Add more checks to `on_inclusion_list`](https://github.com/ethereum/consensus-specs/pull/5460) - 2026-07-21
+* [Pull Request] [Preserve PTC votes when a known block is re-delivered in Gloas](https://github.com/ethereum/consensus-specs/pull/5495) - 2026-07-30
+* [Issue] [childless payload-status variants are never FFG-tested, so `get_head` can return a non-viable node](https://github.com/ethereum/consensus-specs/issues/5496) - 2026-07-30
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [DataColumnsByRange decodes pre-fork sidecar with wrong fork at a skip-slot boundary](https://github.com/sigp/lighthouse/issues/9638) - 2026-07-15
 

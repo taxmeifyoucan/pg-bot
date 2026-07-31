@@ -170,6 +170,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: fix kurtosis for glamsterdam-devnet-7 (#22836)](https://github.com/erigontech/erigon/commit/a1ff1980b4b945d1d7b0166933d5a0a21f1918fc) - 2026-07-29
 * [Commit] [ci: extract legacy statetest and blocktests out of make test-all (#22822)](https://github.com/erigontech/erigon/commit/a362a583c2ce9a673e512fbe8c279bbe923a7f2c) - 2026-07-29
 * [Commit] [execution: fix GetAssembledBlock deadlock (#22835)](https://github.com/erigontech/erigon/commit/8cc9d5271800307d7386450acc5b1b745144459a) - 2026-07-29
+* [Review] [Review on: cl/phase1/execution_client: persist BAL in ExecutionClientDirect.NewPayload](https://github.com/erigontech/erigon/pull/22874#pullrequestreview-4821244853) - 2026-07-30
+* [Pull Request] [ci: further split legacy blocktest race shards to avoid flaky OOMs](https://github.com/erigontech/erigon/pull/22895) - 2026-07-30
+* [Review] [Review on: lint: enable captLocal and commentFormatting gocritic rules](https://github.com/erigontech/erigon/pull/22800#pullrequestreview-4821034068) - 2026-07-30
+* [Review] [Review on: [r3.6] execution/cache, execution/commitment: make Clear coherence race-safe](https://github.com/erigontech/erigon/pull/22890#pullrequestreview-4821074806) - 2026-07-30
+* [Pull Request] [ci: move legacy rlp/transaction/difficulty tests in their own spec shards](https://github.com/erigontech/erigon/pull/22891) - 2026-07-30
+* [Review] [Review on: execution/stagedsync: reuse commitment BAL-fold buffer across blocks](https://github.com/erigontech/erigon/pull/22801#pullrequestreview-4818364817) - 2026-07-30
+* [Pull Request] [ci: split legacy Cancun race shards by fork](https://github.com/erigontech/erigon/pull/22885) - 2026-07-30
+* [Commit] [execution: update EIP-7928 for glamsterdam-devnet-7 (#22555)](https://github.com/erigontech/erigon/commit/9f5bbb70ff5af80b1ec72d49abd2c70a33174cbe) - 2026-07-30
+* [Commit] [execution: update EIP-8037 for glamsterdam-devnet-7 (#22548)](https://github.com/erigontech/erigon/commit/489cdafd26ae15f074e48195995df241051fe302) - 2026-07-30
+* [Commit] [ci: split legacy Cancun race shards by fork (#22885)](https://github.com/erigontech/erigon/commit/e67fb310da319d45523fe535b9b188b3f8edfe5d) - 2026-07-30
+* [Commit] [execution/state: preserve reverted RIPEMD precompile touch (#22860)](https://github.com/erigontech/erigon/commit/22f516f3a33569cfc8213831821dcd9964d43c6e) - 2026-07-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

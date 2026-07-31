@@ -37,6 +37,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Add execution payload value to block v4](https://github.com/sigp/lighthouse/pull/9715#pullrequestreview-4814188398) - 2026-07-30
 * [Review] [Review on: Add `head_v2` event in beacon API and remove some fields in `data_column_sidecar` event](https://github.com/sigp/lighthouse/pull/9597#pullrequestreview-4812894224) - 2026-07-29
 * [Review] [Review on: Add FOCIL types and constants](https://github.com/sigp/lighthouse/pull/9708#pullrequestreview-4812087195) - 2026-07-29
+* [Review] [Review on: Add FOCIL types and constants](https://github.com/sigp/lighthouse/pull/9708#pullrequestreview-4822385907) - 2026-07-30
+* [Pull Request] [Update ruint for rust advisory check](https://github.com/sigp/lighthouse/pull/9723) - 2026-07-30
 ## Q2 2026
 
 

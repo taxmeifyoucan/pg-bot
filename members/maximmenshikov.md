@@ -28,6 +28,17 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [Merge pull request #32 from NethermindEth/feature/harden2](https://github.com/NethermindEth/bflat-riscv64/commit/1a6760343fe3adda01b8b5285545665e062f4a39) - 2026-07-26
 * [Commit] [Merge branch 'master' into feature/harden2](https://github.com/NethermindEth/bflat-riscv64/commit/a7ecfc154670bf0bcc16cc08095f307662305891) - 2026-07-26
 
+* [Pull Request] [.NET 11 support](https://github.com/NethermindEth/bflat-riscv64/pull/33) - 2026-07-30
+* [Commit] [ubootstrap: mirror the stock classlib-function table](https://github.com/NethermindEth/bflat-riscv64/commit/2550fe6bb0a59b8812edec2dc862fef025de9913) - 2026-07-31
+* [Commit] [ci: bake the SDK matching each image's packaged bflat](https://github.com/NethermindEth/bflat-riscv64/commit/4392e3a062aa3ac5df06a40c54cb7004f7d67c4b) - 2026-07-31
+* [Commit] [ci: net11-aware build matrix, three images](https://github.com/NethermindEth/bflat-riscv64/commit/8772fddd2e712ff1960ba0665fb5d807394bdeda) - 2026-07-31
+* [Commit] [zisk_subst: replace TimeZoneInfo..cctor byte patch with donor snippet](https://github.com/NethermindEth/bflat-riscv64/commit/ed447efaec084f505440acd49c21caa4d700cb47) - 2026-07-31
+* [Commit] [ILEditor: replace 0xFE magic bytes with named prefix constants](https://github.com/NethermindEth/bflat-riscv64/commit/cf4fda6c4a59ca25083e3741936134ea22c58020) - 2026-07-31
+* [Commit] [bflat: replace byte-pattern IL patching with a decoding ILEditor](https://github.com/NethermindEth/bflat-riscv64/commit/8745f54fb8a60ce5cb673cad53e26dc5def3808d) - 2026-07-31
+* [Commit] [zkvm_zisk: define __dso_handle in both zisk linker scripts](https://github.com/NethermindEth/bflat-riscv64/commit/f44d0aa84fedcc4d7f46fcda693b637d6ecced92) - 2026-07-31
+* [Commit] [pal: route aligned allocations through the bump heap](https://github.com/NethermindEth/bflat-riscv64/commit/b974fb9f33d5d8c0d1130e836c90fc6fe41642e8) - 2026-07-31
+* [Commit] [bflat: support .NET 11 ILCompiler APIs and kill s_sqrtTable FP constants](https://github.com/NethermindEth/bflat-riscv64/commit/afde86cfc5e1d03ccf01adc6083474f1215c87f3) - 2026-07-31
+* [Commit] [Build: add selectable target .NET version (10 or 11)](https://github.com/NethermindEth/bflat-riscv64/commit/eff493b1c621e51eeb88f8772eb59cfa9b73af33) - 2026-07-31
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Minimal set of patches](https://github.com/NethermindEth/dotnet-riscv/pull/7) - 2026-07-26
 ## Q2 2026

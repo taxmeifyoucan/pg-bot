@@ -53,6 +53,10 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Update EIP-7997: simplify spec, clarify rationale](https://github.com/ethereum/EIPs/pull/12009) - 2026-07-24
 * [Review] [Review on: Update EIP-7997: simplify spec, clarify rationale](https://github.com/ethereum/EIPs/pull/12009#pullrequestreview-4770090289) - 2026-07-24
 * [Review] [Review on: Add EIP: Align Checkpoint with Epoch Boundary Block](https://github.com/ethereum/EIPs/pull/11871#pullrequestreview-4779498579) - 2026-07-25
+* [Pull Request] [Update EIP-8081: PFI EIP-7668](https://github.com/ethereum/EIPs/pull/12046) - 2026-07-30
+* [Pull Request] [Update EIP-7975: clarify upper bound](https://github.com/ethereum/EIPs/pull/12045) - 2026-07-30
+* [Review] [Review on: Update EIP-2780: Move to Review](https://github.com/ethereum/EIPs/pull/12038#pullrequestreview-4817546710) - 2026-07-30
+* [Commit] [Update EIP-8081: PFI EIP-7668](https://github.com/ethereum/EIPs/commit/05469aa96bf65b532b6239d37c1a5d8b2eca15e6) - 2026-07-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -76,6 +80,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [feat(tests): add EIP-7997 case where factory is not present at fork block](https://github.com/ethereum/execution-specs/pull/3243) - 2026-07-27
 * [Issue] [Tracking issue: fork/spec agnostic benchmarks](https://github.com/ethereum/execution-specs/issues/3252) - 2026-07-29
 * [Commit] [feat(tests): add EIP-7997 case where factory is not present at fork block (#3243)](https://github.com/ethereum/execution-specs/commit/608f8783af569bd2833e90c42eb617439045412d) - 2026-07-28
+* [Review] [Review on: feat(test-benchmark): add stub account configuration, with state-actor example config](https://github.com/ethereum/execution-specs/pull/3203#pullrequestreview-4824581459) - 2026-07-31
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 ## Q2 2026

@@ -53,6 +53,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Implement the active-active mode in the REST validator client.](https://github.com/OffchainLabs/prysm/pull/17075#pullrequestreview-4745645960) - 2026-07-21
 * [Commit] [`--max-builder-consecutive-missed-slots` and `--max-builder-epoch-missed-slots` help text: Reports the mainnet config value as the default instead of a hardcoded, false and unused values. (#17211)](https://github.com/OffchainLabs/prysm/commit/df3030c49769a38b747345abdc636e32acdb9322) - 2026-07-21
 * [Review] [Review on: Log the underlying error in the "genesis provider failed" warning](https://github.com/OffchainLabs/prysm/pull/17259#pullrequestreview-4809618772) - 2026-07-29
+* [Pull Request] [Fix a not always reproducible deadlock at the very end of the backfill.](https://github.com/OffchainLabs/prysm/pull/17278) - 2026-07-30
+* [Pull Request] [Fix validator monitor dropping aggregated performance logs](https://github.com/OffchainLabs/prysm/pull/17272) - 2026-07-30
+* [Review] [Review on: E2E: Remove `StreamBlocksAltair` which is only used in e2e](https://github.com/OffchainLabs/prysm/pull/17267#pullrequestreview-4816079020) - 2026-07-30
+* [Review] [Review on: VC: Remove unused `ValidatorParticipation` and `ValidatorQueue` from validator `ChainClient`](https://github.com/OffchainLabs/prysm/pull/17264#pullrequestreview-4816031090) - 2026-07-30
+* [Review] [Review on: VC: Remove unused `FeeRecipientByPubKey` method](https://github.com/OffchainLabs/prysm/pull/17263#pullrequestreview-4816028950) - 2026-07-30
+* [Commit] [Fix validator monitor dropping aggregated performance logs (#17272)](https://github.com/OffchainLabs/prysm/commit/5487dbde572020753dacb0f584f054181dc112c5) - 2026-07-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 ## Q2 2026

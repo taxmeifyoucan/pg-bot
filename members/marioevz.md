@@ -74,6 +74,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): EIP-7928 - cover system-address zero-tip coinbase BAL](https://github.com/ethereum/execution-specs/pull/3239#pullrequestreview-4809535362) - 2026-07-29
 * [Commit] [fix(tests): enhance & un-skip Amsterdam ported static tests (Pt. 1) (#3215)](https://github.com/ethereum/execution-specs/commit/f1c3408bde8d5509f302eee92586cfa30a462ea4) - 2026-07-29
 * [Commit] [refactor(ci): run geth benchmark CI only on `benchmarks/**` branches (#3249)](https://github.com/ethereum/execution-specs/commit/46364f77ab5b72376d47d1f62380f4b9901ab87e) - 2026-07-29
+* [Pull Request] [fix(ci): Rename backports branches](https://github.com/ethereum/execution-specs/pull/3268) - 2026-07-30
+* [Review] [Review on: feat(test-benchmark): add missing glam eip to benchmark](https://github.com/ethereum/execution-specs/pull/3267#pullrequestreview-4823323470) - 2026-07-30
+* [Review] [Review on: feat(ci): Backport CI Workflow](https://github.com/ethereum/execution-specs/pull/3262#pullrequestreview-4822203727) - 2026-07-30
+* [Review] [Review on: chore(tests): improve EIP-8024 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3224#pullrequestreview-4820330849) - 2026-07-30
+* [Commit] [feat(ci): Backport CI Workflow (#3262)](https://github.com/ethereum/execution-specs/commit/dfb15766f3b1eba928973e7f32df1f9a5cae87f9) - 2026-07-30
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

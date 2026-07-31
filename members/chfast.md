@@ -136,6 +136,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): add ef_prefix deposit-halt mode to EIP-8037 state-gas test](https://github.com/ethereum/execution-specs/pull/3233) - 2026-07-25
 * [Pull Request] [feat(tests): cover ModExp gas before EIP-2565](https://github.com/ethereum/execution-specs/pull/3237) - 2026-07-26
 * [Commit] [feat(tests): add ef_prefix deposit-halt mode to EIP-8037 state-gas test (#3233)](https://github.com/ethereum/execution-specs/commit/7c4177ace2fcabd6aaa86be043cbc813065c4bb7) - 2026-07-27
+* [Commit] [feat(tests): add dynamic-destination JUMP/JUMPI invalid-target tests (#3153)](https://github.com/ethereum/execution-specs/commit/ad970077a4d866b1d15cd171fa708de49760a4f6) - 2026-07-30
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
