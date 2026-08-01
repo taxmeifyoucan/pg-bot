@@ -72,6 +72,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(tests): enhance test coverage, add mainnet test for eip-2780](https://github.com/ethereum/execution-specs/pull/3266) - 2026-07-30
 * [Review] [Review on: feat(tests): pin flat 2D inclusion gate semantics (no intrinsic subtraction)](https://github.com/ethereum/execution-specs/pull/3245#pullrequestreview-4817482315) - 2026-07-30
 * [Commit] [feat(test-benchmark): add missing glam eip to benchmark (#3267)](https://github.com/ethereum/execution-specs/commit/0da438753ef48d4f9722ff24b81e2b0ff501d9d2) - 2026-07-30
+* [Pull Request] [feat(test-benchmark): enhance worst case coverage](https://github.com/ethereum/execution-specs/pull/3274) - 2026-07-31
+* [Review] [Review on: feat(spec-specs,tests): reprice EIP-8038 access-list costs to cold minus warm](https://github.com/ethereum/execution-specs/pull/3271#pullrequestreview-4826784031) - 2026-07-31
+* [Review] [Review on: feat(test-benchmark): add stub account configuration, with state-actor example config](https://github.com/ethereum/execution-specs/pull/3203#pullrequestreview-4826526019) - 2026-07-31
+* [Commit] [feat(test-benchmark): enhance worst case coverage (#3274)](https://github.com/ethereum/execution-specs/commit/6074ece9dc66110e757f1bcc3fe714ce63b075ad) - 2026-07-31
 ## Q2 2026
 
 

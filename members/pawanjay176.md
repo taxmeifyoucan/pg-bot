@@ -39,6 +39,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Add FOCIL types and constants](https://github.com/sigp/lighthouse/pull/9708#pullrequestreview-4812087195) - 2026-07-29
 * [Review] [Review on: Add FOCIL types and constants](https://github.com/sigp/lighthouse/pull/9708#pullrequestreview-4822385907) - 2026-07-30
 * [Pull Request] [Update ruint for rust advisory check](https://github.com/sigp/lighthouse/pull/9723) - 2026-07-30
+* [Review] [Review on: Ignore ruint advisory check](https://github.com/sigp/lighthouse/pull/9723#pullrequestreview-4831446309) - 2026-07-31
 ## Q2 2026
 
 

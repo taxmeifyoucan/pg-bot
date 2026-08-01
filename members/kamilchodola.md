@@ -98,6 +98,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Suppress expected RPC overload warnings](https://github.com/NethermindEth/nethermind/pull/12609) - 2026-07-29
 * [Pull Request] [fix(rpc-bench): run benchmarked nodes with production-default code generation](https://github.com/NethermindEth/nethermind/pull/12625) - 2026-07-30
 * [Commit] [Add RPC benchmarking workflow (multi-client: flood / EthCallChaos / json-bench / dotTrace) on the reproducible-benchmarks runner (#11961)](https://github.com/NethermindEth/nethermind/commit/171081e8666c0410320f85d32b72da80322a582c) - 2026-07-30
+* [Pull Request] [perf(consensus): cap the background bloom parallelism during commit [DRAFT - perf claim not established]](https://github.com/NethermindEth/nethermind/pull/12630) - 2026-07-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

@@ -23,6 +23,8 @@ Team: Nimbus
 * [Commit] [Snap sync maint update (#4516)](https://github.com/status-im/nimbus-eth1/commit/84dabd9697b5c2bfc52d9e136f22bf9d99e5557f) - 2026-07-17
 * [Review] [Review on: update topNum when blocks imported are behind base](https://github.com/status-im/nimbus-eth1/pull/4574#pullrequestreview-4787518476) - 2026-07-27
 * [Review] [Review on: fix: syncer stalling from el_sync](https://github.com/status-im/nimbus-eth1/pull/4563#pullrequestreview-4785030112) - 2026-07-27
+* [Pull Request] [Snap sync forward utility for complete state](https://github.com/status-im/nimbus-eth1/pull/4592) - 2026-07-31
+* [Commit] [Snap sync forward utility for complete state (#4592)](https://github.com/status-im/nimbus-eth1/commit/e777f94df344571e50f23ee266c17f9c3faf5701) - 2026-07-31
 ## Q2 2026
 
 

@@ -46,6 +46,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12571#pullrequestreview-4781375850) - 2026-07-26
 * [Review] [Review on: ci: split the Docker restore into its own cacheable layer](https://github.com/NethermindEth/nethermind/pull/12393#pullrequestreview-4790996383) - 2026-07-27
 * [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/12597#pullrequestreview-4804977202) - 2026-07-29
+* [Pull Request] [chore: update Nethermind.Numerics.Int256 package](https://github.com/NethermindEth/nethermind/pull/12638) - 2026-07-31
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/12627#pullrequestreview-4826631937) - 2026-07-31
+* [Commit] [chore: update Nethermind.Numerics.Int256 package (#12638)](https://github.com/NethermindEth/nethermind/commit/87c8aa5f2f0c6ae8f339ef5a19331d7b43d7602a) - 2026-07-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 ## Q2 2026

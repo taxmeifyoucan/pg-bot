@@ -76,6 +76,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: correct clock disparity handling for proposer preferences](https://github.com/ChainSafe/lodestar/pull/9729#pullrequestreview-4823314212) - 2026-07-30
 * [Review] [Review on: test(beacon-node): add e2e beacon-api query array length compliance tests](https://github.com/ChainSafe/lodestar/pull/9713#pullrequestreview-4821606802) - 2026-07-30
 * [Review] [Review on: refactor: remove bun runtime support](https://github.com/ChainSafe/lodestar/pull/9719#pullrequestreview-4821495212) - 2026-07-30
+* [Review] [Review on: feat: allow multiple bids compatible with the head view](https://github.com/ChainSafe/lodestar/pull/9739#pullrequestreview-4829551538) - 2026-07-31
+* [Review] [Review on: refactor: move validator clock util to state-transition](https://github.com/ChainSafe/lodestar/pull/9733#pullrequestreview-4829385839) - 2026-07-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 

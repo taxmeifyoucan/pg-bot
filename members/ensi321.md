@@ -64,6 +64,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: enable gloas fast_confirmation spec tests](https://github.com/ChainSafe/lodestar/pull/9704#pullrequestreview-4778424731) - 2026-07-25
 * [Review] [Review on: feat: classify batch processing failures](https://github.com/ChainSafe/lodestar/pull/9693#pullrequestreview-4778413158) - 2026-07-25
 * [Review] [Review on: feat: implement should_apply_proposer_boost for gloas](https://github.com/ChainSafe/lodestar/pull/9233#pullrequestreview-4778403206) - 2026-07-25
+* [Review] [Review on: feat: classify batch processing failures](https://github.com/ChainSafe/lodestar/pull/9693#pullrequestreview-4825259224) - 2026-07-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09
@@ -74,6 +75,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Add more checks to `on_inclusion_list`](https://github.com/ethereum/consensus-specs/pull/5460) - 2026-07-21
 * [Pull Request] [Preserve PTC votes when a known block is re-delivered in Gloas](https://github.com/ethereum/consensus-specs/pull/5495) - 2026-07-30
 * [Issue] [childless payload-status variants are never FFG-tested, so `get_head` can return a non-viable node](https://github.com/ethereum/consensus-specs/issues/5496) - 2026-07-30
+* [Commit] [Return early from `on_block` when the block is already known (#5495)](https://github.com/ethereum/consensus-specs/commit/3be5fe0e6b790b26a077a168358c3947459db634) - 2026-07-31
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [DataColumnsByRange decodes pre-fork sidecar with wrong fork at a skip-slot boundary](https://github.com/sigp/lighthouse/issues/9638) - 2026-07-15
 

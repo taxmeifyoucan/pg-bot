@@ -39,6 +39,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [pal: route aligned allocations through the bump heap](https://github.com/NethermindEth/bflat-riscv64/commit/b974fb9f33d5d8c0d1130e836c90fc6fe41642e8) - 2026-07-31
 * [Commit] [bflat: support .NET 11 ILCompiler APIs and kill s_sqrtTable FP constants](https://github.com/NethermindEth/bflat-riscv64/commit/afde86cfc5e1d03ccf01adc6083474f1215c87f3) - 2026-07-31
 * [Commit] [Build: add selectable target .NET version (10 or 11)](https://github.com/NethermindEth/bflat-riscv64/commit/eff493b1c621e51eeb88f8772eb59cfa9b73af33) - 2026-07-31
+* [Pull Request] [Various improvements](https://github.com/NethermindEth/bflat-riscv64/pull/34) - 2026-07-31
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Minimal set of patches](https://github.com/NethermindEth/dotnet-riscv/pull/7) - 2026-07-26
 ## Q2 2026

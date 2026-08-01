@@ -59,6 +59,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: VC: Remove unused `ValidatorParticipation` and `ValidatorQueue` from validator `ChainClient`](https://github.com/OffchainLabs/prysm/pull/17264#pullrequestreview-4816031090) - 2026-07-30
 * [Review] [Review on: VC: Remove unused `FeeRecipientByPubKey` method](https://github.com/OffchainLabs/prysm/pull/17263#pullrequestreview-4816028950) - 2026-07-30
 * [Commit] [Fix validator monitor dropping aggregated performance logs (#17272)](https://github.com/OffchainLabs/prysm/commit/5487dbde572020753dacb0f584f054181dc112c5) - 2026-07-30
+* [Pull Request] [getHeader timeout](https://github.com/OffchainLabs/prysm/pull/17283) - 2026-07-31
+* [Pull Request] [Fix `TestSlashValidator_OK` flakiness.](https://github.com/OffchainLabs/prysm/pull/17279) - 2026-07-31
+* [Issue] [Deadlock at the end of the backfill (not 100% reproducible).](https://github.com/OffchainLabs/prysm/issues/17282) - 2026-07-31
+* [Commit] [Fix `TestSlashValidator_OK` flakiness. (#17279)](https://github.com/OffchainLabs/prysm/commit/d90e75a63b0e2fea64154d4066db6267b1b9eb61) - 2026-07-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 ## Q2 2026

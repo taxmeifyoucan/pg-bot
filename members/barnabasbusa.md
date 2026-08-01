@@ -55,11 +55,15 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Hetzner: cpx (new gen) defaults + capacity-aware placement (#166)](https://github.com/ethpandaops/template-devnets/commit/dc0f417b554f76339098eb2754eec9b1daf5ed41) - 2026-07-27
 
 * [Pull Request] [feat(el): use ENR bootnodes and run discv5-only](https://github.com/ethpandaops/template-devnets/pull/181) - 2026-07-29
+* [Commit] [feat(el): use ENR bootnodes and run discv5-only (#181)](https://github.com/ethpandaops/template-devnets/commit/8ae02140df46439a4964385820c897547dcbeb6c) - 2026-07-31
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Add version envelope to Gloas event stream events](https://github.com/status-im/nimbus-eth2/pull/8816) - 2026-07-28
 
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(net): make discv5 follow --discovery.port](https://github.com/paradigmxyz/reth/pull/26532) - 2026-07-30
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [Expose the node's ENR in admin_nodeInfo](https://github.com/NethermindEth/nethermind/pull/12631) - 2026-07-31
 ## Q2 2026
 
 

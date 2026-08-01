@@ -54,6 +54,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/merkle_tree: add EIP-7495 active fields mix-in](https://github.com/erigontech/erigon/pull/22528#pullrequestreview-4761514884) - 2026-07-23
 * [Pull Request] [cl: fix Gloas checkpoint sync with external execution clients](https://github.com/erigontech/erigon/pull/22683) - 2026-07-23
 * [Pull Request] [cl/pool: prune finalized operations asynchronously](https://github.com/erigontech/erigon/pull/22884) - 2026-07-30
+* [Pull Request] [cl: support Gloas alpha.12 progressive SSZ and spectests](https://github.com/erigontech/erigon/pull/22912) - 2026-07-31
+* [Review] [Review on: cl/phase1/stages: use live chain tip for forward-sync distance log](https://github.com/erigontech/erigon/pull/22903#pullrequestreview-4826964481) - 2026-07-31
 ## Q2 2026
 
 

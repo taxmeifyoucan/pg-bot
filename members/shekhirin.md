@@ -41,6 +41,7 @@ Team: Reth
 * [Pull Request] [fix(storage): reuse latest database overlay trimming](https://github.com/paradigmxyz/reth/pull/26539) - 2026-07-30
 * [Review] [Review on: fix(discv5): default to port 30303](https://github.com/paradigmxyz/reth/pull/26537#pullrequestreview-4819881383) - 2026-07-30
 * [Review] [Review on: fix(net): keep ENR ports paired with their IP address](https://github.com/paradigmxyz/reth/pull/26529#pullrequestreview-4819563963) - 2026-07-30
+* [Review] [Review on: fix(trie): propagate proof worker startup failures](https://github.com/paradigmxyz/reth/pull/26545#pullrequestreview-4828963387) - 2026-07-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

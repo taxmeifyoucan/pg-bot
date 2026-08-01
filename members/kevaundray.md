@@ -28,6 +28,7 @@ Team: Consensus R&D (EF)
 * [Pull Request] [Update EIP-8297: Use simpler pseudo code for tree structure algorithm](https://github.com/ethereum/EIPs/pull/12040) - 2026-07-30
 * [Review] [Review on: Update EIP-8297: Use simpler pseudo code for tree structure algorithm](https://github.com/ethereum/EIPs/pull/12040#pullrequestreview-4818829563) - 2026-07-30
 * [Commit] [Update EIP-8297: Use simpler pseudo code for tree structure algorithm](https://github.com/ethereum/EIPs/commit/a143951da5c43fe08315d0685d4bfad722c816ae) - 2026-07-30
+* [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4828151828) - 2026-07-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14
@@ -54,6 +55,7 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: feat: change StatelessInput SSZ serialization to be EIP-7688 aligned](https://github.com/ethereum/execution-specs/pull/3248#pullrequestreview-4800806258) - 2026-07-28
 * [Pull Request] [chore(do not merge): add code to 8297 to show deletion logic](https://github.com/ethereum/execution-specs/pull/3250) - 2026-07-28
 * [Review] [Review on: chore(do not merge): add code to 8297 to show deletion logic](https://github.com/ethereum/execution-specs/pull/3250#pullrequestreview-4800409617) - 2026-07-28
+* [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4832696606) - 2026-07-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716803581) - 2026-07-16
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737690816) - 2026-07-20

@@ -21,6 +21,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Use branchless swaps in swap-or-not shuffling](https://github.com/sigp/lighthouse/pull/9630#pullrequestreview-4736783386) - 2026-07-20
 * [Review] [Review on: EIP-7688: Forward Compatible Consensus Data Structures](https://github.com/sigp/lighthouse/pull/9450#pullrequestreview-4764063719) - 2026-07-23
 * [Review] [Review on: EIP-7688: Forward Compatible Consensus Data Structures](https://github.com/sigp/lighthouse/pull/9450#pullrequestreview-4774280606) - 2026-07-24
+* [Review] [Review on: Ignore ruint advisory check](https://github.com/sigp/lighthouse/pull/9723#pullrequestreview-4826858124) - 2026-07-31
 ## Q2 2026
 
 

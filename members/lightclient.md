@@ -45,6 +45,11 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: apply charged_gas to fee settlement](https://github.com/ethereum/EIPs/pull/11969#pullrequestreview-4797589318) - 2026-07-28
 * [Review] [Review on: Update EIP-7732: Move to Review](https://github.com/ethereum/EIPs/pull/11873#pullrequestreview-4812449513) - 2026-07-29
 * [Review] [Review on: Update EIP-8045: Move to Review](https://github.com/ethereum/EIPs/pull/11886#pullrequestreview-4811116133) - 2026-07-29
+* [Pull Request] [Update EIP-8141: Add explicit second dimension for state gas to frames](https://github.com/ethereum/EIPs/pull/12062) - 2026-07-31
+* [Pull Request] [Update EIP-8282: contracts can be disabled with system call with non-empty calldata](https://github.com/ethereum/EIPs/pull/12060) - 2026-07-31
+* [Review] [Review on: Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/pull/12058#pullrequestreview-4830832637) - 2026-07-31
+* [Review] [Review on: Config: Populate personal dictionary for markdown-spell](https://github.com/ethereum/EIPs/pull/12053#pullrequestreview-4829669050) - 2026-07-31
+* [Pull Request] [Update EIP-8282: only exit contract sets inhibitor](https://github.com/ethereum/EIPs/pull/12057) - 2026-07-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

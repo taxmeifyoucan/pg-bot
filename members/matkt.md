@@ -71,6 +71,13 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: snap/2 - repair storage roots of pending accounts at catch-up](https://github.com/besu-eth/besu/pull/10866#pullrequestreview-4804254533) - 2026-07-29
 * [Review] [Review on: Refactor engine_getPayload into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10890#pullrequestreview-4818490030) - 2026-07-30
 * [Review] [Review on: Stateroot refactoring  ](https://github.com/besu-eth/besu/pull/10804#pullrequestreview-4815921601) - 2026-07-30
+
+* [Pull Request] [Stateroot opti in glamsterdam devnet 8](https://github.com/besu-eth/besu/pull/10939) - 2026-07-31
+* [Review] [Review on: snap/2 - reorg handling](https://github.com/besu-eth/besu/pull/10915#pullrequestreview-4825975244) - 2026-07-31
+* [Review] [Review on: Refactor engine_getPayload into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10890#pullrequestreview-4825879243) - 2026-07-31
+* [Review] [Review on: Select correct forward download anchor when the highest imported block is orphaned by a reorg](https://github.com/besu-eth/besu/pull/10938#pullrequestreview-4825947016) - 2026-07-31
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 ## Q2 2026
 
 

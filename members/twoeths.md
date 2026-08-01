@@ -74,6 +74,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: compare state roots first in expectEqualBeaconState and bump gloas sanity timeout](https://github.com/ChainSafe/lodestar/pull/9711#pullrequestreview-4816745344) - 2026-07-30
 * [Pull Request] [feat: cache builder deposit signatures for gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9727) - 2026-07-30
 * [Review] [Review on: feat: cache builder deposit signatures for gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9727#pullrequestreview-4816114197) - 2026-07-30
+* [Review] [Review on: fix: use parent block slot for attestation payload availability](https://github.com/ChainSafe/lodestar/pull/9731#pullrequestreview-4825146708) - 2026-07-31
+* [Pull Request] [fix: use parent state with payload for block production and block reward](https://github.com/ChainSafe/lodestar/pull/9736) - 2026-07-31
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

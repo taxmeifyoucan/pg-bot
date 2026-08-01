@@ -105,6 +105,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/phase1/execution_client: persist BAL in ExecutionClientDirect.NewPayload (#22874)](https://github.com/erigontech/erigon/commit/e356b524c665d6033b80582527574db8b4dfe6e6) - 2026-07-30
 * [Commit] [execution/stagedsync: reuse commitment BAL-fold buffer across blocks (#22801)](https://github.com/erigontech/erigon/commit/0e596b8557dc59e8f3f1b625c1da6d0565443a34) - 2026-07-30
 * [Commit] [execution/stagedsync: split parallel execLoop into helpers (#22765)](https://github.com/erigontech/erigon/commit/992009503e4aed843af5d432fe255f4b1ab58cda) - 2026-07-30
+* [Commit] [execution/stagedsync: fix stale multipliers in SizeEstimate comment (#22760)](https://github.com/erigontech/erigon/commit/fb3a7d2d6ff6139d38e693b438b6412cc8228eb7) - 2026-07-31
+* [Commit] [denser btree index for domains (#22901)](https://github.com/erigontech/erigon/commit/938bc6988412e26abdeae65402990b7f56b98b21) - 2026-07-31
+* [Commit] [execution/stagedsync: extract blockExecutor.deliver helper from sendResult (#22761)](https://github.com/erigontech/erigon/commit/507925fa3c4c6acec75efc4e5610afe28e0edb11) - 2026-07-31
 ## Q2 2026
 
 

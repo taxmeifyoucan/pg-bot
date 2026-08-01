@@ -56,6 +56,9 @@ Team: Erigon
 * [Pull Request] [execution: carry the block access list as a first-class block object](https://github.com/erigontech/erigon/pull/22894) - 2026-07-30
 * [Pull Request] [db/kv/membatchwithdb: surface DomainReader read errors instead of swallowing them](https://github.com/erigontech/erigon/pull/22893) - 2026-07-30
 * [Pull Request] [execution, rpc: exec/RPC robustness fixes](https://github.com/erigontech/erigon/pull/22892) - 2026-07-30
+* [Commit] [execution: carry the block access list as a first-class block object (#22894)](https://github.com/erigontech/erigon/commit/d33d977b7de5d3fc987462aebd4adda611d37057) - 2026-07-31
+* [Commit] [execution, rpc: exec/RPC robustness fixes (#22892)](https://github.com/erigontech/erigon/commit/050ac8a1a73221294d887226607f79345b1559c3) - 2026-07-31
+* [Commit] [db/kv/membatchwithdb: surface DomainReader read errors instead of swallowing them (#22893)](https://github.com/erigontech/erigon/commit/8324709a75ead9b3cd266d41007c592ce6792e8d) - 2026-07-31
 ## Q2 2026
 
 

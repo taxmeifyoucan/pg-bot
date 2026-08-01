@@ -79,6 +79,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(ci): Backport CI Workflow](https://github.com/ethereum/execution-specs/pull/3262#pullrequestreview-4822203727) - 2026-07-30
 * [Review] [Review on: chore(tests): improve EIP-8024 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3224#pullrequestreview-4820330849) - 2026-07-30
 * [Commit] [feat(ci): Backport CI Workflow (#3262)](https://github.com/ethereum/execution-specs/commit/dfb15766f3b1eba928973e7f32df1f9a5cae87f9) - 2026-07-30
+* [Pull Request] [feat(test-types): Fork-based State Commitment Property in Alloc](https://github.com/ethereum/execution-specs/pull/3279) - 2026-08-01
+* [Review] [Review on: feat(tests): cover EIP-8282 builder request dequeues in block access lists](https://github.com/ethereum/execution-specs/pull/3270#pullrequestreview-4831983472) - 2026-07-31
+* [Review] [Review on: feat(ci): fill benchmark tests at 1M gas on every PR](https://github.com/ethereum/execution-specs/pull/3273#pullrequestreview-4830798488) - 2026-07-31
+* [Review] [Review on: feat(test-benchmark): enhance worst case coverage [backport forks/amsterdam]](https://github.com/ethereum/execution-specs/pull/3277#pullrequestreview-4830721299) - 2026-07-31
+* [Review] [Review on: feat(test-benchmark): enhance worst case coverage](https://github.com/ethereum/execution-specs/pull/3274#pullrequestreview-4830704979) - 2026-07-31
+* [Commit] [fix(ci): Rename backports branches (#3268)](https://github.com/ethereum/execution-specs/commit/a4e9212e4abe568cd32507191689c054e6e41331) - 2026-07-31
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

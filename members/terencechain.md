@@ -153,6 +153,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Add SLOT_SCHEDULE for epoch based slot durations](https://github.com/OffchainLabs/prysm/pull/17260) - 2026-07-29
 * [Pull Request] [Filter sync committee contributions by the aggregator's own voted root](https://github.com/OffchainLabs/prysm/pull/17277) - 2026-07-30
 * [Pull Request] [Look up payload availability at the parent block's slot](https://github.com/OffchainLabs/prysm/pull/17269) - 2026-07-30
+* [Commit] [Filter sync committee contributions by the aggregator's own voted root (#17277)](https://github.com/OffchainLabs/prysm/commit/0837ae57c3d6dc3b2cd5ac6f060de0a7976ec367) - 2026-07-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

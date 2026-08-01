@@ -50,6 +50,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: add post proposer preferences](https://github.com/Consensys/teku/pull/11035#pullrequestreview-4817789734) - 2026-07-30
 * [Commit] [update logs (#11036)](https://github.com/Consensys/teku/commit/22a4fc692bb1669ce79f361a72c730cac07ede1e) - 2026-07-30
 * [Commit] [Add builder boost factor evaluation for execution payloads (#10973)](https://github.com/Consensys/teku/commit/e301d118ab7d0ab15c45c668ed85c28417513a76) - 2026-07-30
+* [Pull Request] [publish submitted bids to gossip](https://github.com/Consensys/teku/pull/11040) - 2026-07-31
+* [Review] [Review on: publish submitted bids to gossip](https://github.com/Consensys/teku/pull/11040#pullrequestreview-4827912659) - 2026-07-31
+* [Review] [Review on: fix Gloas bid gas limit validation](https://github.com/Consensys/teku/pull/11024#pullrequestreview-4827351615) - 2026-07-31
+* [Issue] [Publish submitted execution payload bids](https://github.com/Consensys/teku/issues/11039) - 2026-07-31
+* [Commit] [publish submitted bids to gossip (#11040)](https://github.com/Consensys/teku/commit/f7680810d13ff1ed901a433a64ffcbe76b81ee8a) - 2026-07-31
+* [Commit] [fix Gloas bid gas limit validation (#11024)](https://github.com/Consensys/teku/commit/2944977e8ce4ae207e08732797d3dd9fbfad5df6) - 2026-07-31
 ## Q2 2026
 
 

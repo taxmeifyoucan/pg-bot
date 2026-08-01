@@ -113,6 +113,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Enforce Web3Signer user to set flags correctly when startup](https://github.com/OffchainLabs/prysm/pull/17226#pullrequestreview-4819893764) - 2026-07-30
 * [Pull Request] [ delay next epoch duties call for post gloas ](https://github.com/OffchainLabs/prysm/pull/17268) - 2026-07-30
 * [Review] [Review on:  delay next epoch duties call for post gloas ](https://github.com/OffchainLabs/prysm/pull/17268#pullrequestreview-4820885399) - 2026-07-30
+* [Pull Request] [adding doppelganger rechecks mid epoch for key changes](https://github.com/OffchainLabs/prysm/pull/17285) - 2026-07-31
+* [Review] [Review on: Implement Web3Signer public key hot reload via URL](https://github.com/OffchainLabs/prysm/pull/17229#pullrequestreview-4831803334) - 2026-07-31
+* [Review] [Review on:  delay next epoch duties call for post gloas ](https://github.com/OffchainLabs/prysm/pull/17268#pullrequestreview-4830028107) - 2026-07-31
+* [Pull Request] [Endpoints validator logs cleanup](https://github.com/OffchainLabs/prysm/pull/17284) - 2026-07-31
+* [Review] [Review on: Fix unfilled format verb in `data_column_sidecar_` metric](https://github.com/OffchainLabs/prysm/pull/17254#pullrequestreview-4829272233) - 2026-07-31
 ## Q2 2026
 
 

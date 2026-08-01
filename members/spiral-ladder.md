@@ -33,6 +33,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [refactor(blst-z): use native lodestar-z pubkey cache everywhere](https://github.com/ChainSafe/lodestar/pull/9728) - 2026-07-30
 * [Review] [Review on: refactor: remove bun runtime support](https://github.com/ChainSafe/lodestar/pull/9719#pullrequestreview-4820535111) - 2026-07-30
 * [Review] [Review on: fix: use proposer lookahead for next epoch proposer cache](https://github.com/ChainSafe/lodestar/pull/9730#pullrequestreview-4817926806) - 2026-07-30
+* [Review] [Review on: chore: fix typo in validator config verification log](https://github.com/ChainSafe/lodestar/pull/9737#pullrequestreview-4828289498) - 2026-07-31
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -110,6 +111,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: remove stale epoch cache TODOs](https://github.com/ChainSafe/lodestar-z/pull/534#pullrequestreview-4811243454) - 2026-07-29
 * [Pull Request] [feat(bindings): expose pubkey cache synchronization](https://github.com/ChainSafe/lodestar-z/pull/537) - 2026-07-30
 * [Review] [Review on: feat(bindings): expose pubkey cache synchronization](https://github.com/ChainSafe/lodestar-z/pull/537#pullrequestreview-4821644852) - 2026-07-30
+* [Review] [Review on: feat(bindings): expose pubkey cache synchronization](https://github.com/ChainSafe/lodestar-z/pull/537#pullrequestreview-4831838222) - 2026-07-31
 ## Q2 2026
 
 

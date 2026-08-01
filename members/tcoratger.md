@@ -87,6 +87,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat(sha256-air): add SHA-256 compression AIR crate](https://github.com/Plonky3/Plonky3/pull/1563#pullrequestreview-4809033588) - 2026-07-29
 * [Review] [Review on: perf(p3-goldilocks): faster Goldilocks wasm simd128 backend](https://github.com/Plonky3/Plonky3/pull/1964#pullrequestreview-4819293835) - 2026-07-30
 * [Commit] [feat(sha256-air): add SHA-256 compression AIR crate (#1563)](https://github.com/Plonky3/Plonky3/commit/c59ff59b46ad5912a6361c4e9bf26bd05932a2d4) - 2026-07-30
+* [Review] [Review on: refactor(multilinear-util): unify maybe-packed polynomials](https://github.com/Plonky3/Plonky3/pull/1972#pullrequestreview-4827849726) - 2026-07-31
+* [Review] [Review on: ci: parallelize test legs and speed up tool installs](https://github.com/Plonky3/Plonky3/pull/1969#pullrequestreview-4827705371) - 2026-07-31
+* [Review] [Review on: feat: add an example for all 3 PCS supported](https://github.com/Plonky3/Plonky3/pull/1970#pullrequestreview-4827866201) - 2026-07-31
+* [Review] [Review on: perf(stir): prune Merkle multi-openings for STIR](https://github.com/Plonky3/Plonky3/pull/1965#pullrequestreview-4827810129) - 2026-07-31
 ## Q2 2026
 
 

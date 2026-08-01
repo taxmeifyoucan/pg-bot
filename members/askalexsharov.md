@@ -587,6 +587,19 @@ Team: Erigon
 * [Review] [Review on: execution/stagedsync: fix stale multipliers in SizeEstimate comment](https://github.com/erigontech/erigon/pull/22760#pullrequestreview-4815105798) - 2026-07-30
 * [Commit] [db/state: less warn logs about not-found files (#22880)](https://github.com/erigontech/erigon/commit/8ebe3d97c7e3c32e16a6c94305317f4334cb0349) - 2026-07-30
 * [Commit] [db/snaptype: tolerate files deleted during dir scan (#22853)](https://github.com/erigontech/erigon/commit/d67bdd24868a327a764eaa33e9f8cda17f946bec) - 2026-07-30
+* [Review] [Review on: ci: run all devnet hive eest test shards with new enginex v7.2.1](https://github.com/erigontech/erigon/pull/22928#pullrequestreview-4828955108) - 2026-07-31
+* [Review] [Review on: types, rawdb, p2p, stagedsync: distinguish empty BALs](https://github.com/erigontech/erigon/pull/22914#pullrequestreview-4829032786) - 2026-07-31
+* [Review] [Review on: [r3.6] cl/phase1/stages: use live chain tip for forward-sync distance log](https://github.com/erigontech/erigon/pull/22927#pullrequestreview-4828959159) - 2026-07-31
+* [Pull Request] [execution/state: cut allocations in WriteSet.Normalize and Apply](https://github.com/erigontech/erigon/pull/22923) - 2026-07-31
+* [Review] [Review on: exec: merge writeSets without cloning in the apply loop](https://github.com/erigontech/erigon/pull/22883#pullrequestreview-4825821707) - 2026-07-31
+* [Pull Request] [rawdb: receiptWriter - to hold long-living buffers. and avoid per-tx allocs ](https://github.com/erigontech/erigon/pull/22899) - 2026-07-31
+* [Review] [Review on: rawdb: receiptWriter - to hold long-living buffers. and avoid per-tx allocs ](https://github.com/erigontech/erigon/pull/22899#pullrequestreview-4828708216) - 2026-07-31
+* [Review] [Review on: db/downloader: allow seeding caplin state snapshots with nil global type](https://github.com/erigontech/erigon/pull/22911#pullrequestreview-4827484485) - 2026-07-31
+* [Issue] [exec assert: snapshot step misalignment](https://github.com/erigontech/erigon/issues/22905) - 2026-07-31
+* [Commit] [execution/state: memoize the access-list slot set per address (#22742)](https://github.com/erigontech/erigon/commit/aefec9dad7ea9b89a47ae3aefa83ccdd00b4c290) - 2026-07-31
+* [Commit] [commitment: reuse pooled trie workers across Process calls (#22839)](https://github.com/erigontech/erigon/commit/93f7ded4a83d6b76d91927436861e1ef28da8fdd) - 2026-07-31
+* [Commit] [execution/vm: memoize InternKey by stack word in a per-EVM cache (#22748)](https://github.com/erigontech/erigon/commit/ac75c67f7c76e84f13feb8430944b0d80d79ffc4) - 2026-07-31
+* [Commit] [etl: rm mkdiral (#22861)](https://github.com/erigontech/erigon/commit/7319f0ecb5dd36bfe6bc96ccf76943a1df954a40) - 2026-07-31
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 ## Q2 2026

@@ -76,16 +76,21 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Fix isAttestationSameSlot in GLOAS](https://github.com/Consensys/teku/pull/11028#pullrequestreview-4816493539) - 2026-07-30
 * [Issue] [alpha.13 - glamsterdam-devnet-8](https://github.com/Consensys/teku/issues/11033) - 2026-07-30
 * [Commit] [fix isAttestationSameSlot (#11028)](https://github.com/Consensys/teku/commit/bec7d9abfe89232825c7edb0b6db137f2b9e8c76) - 2026-07-30
+* [Review] [Review on: publish submitted bids to gossip](https://github.com/Consensys/teku/pull/11040#pullrequestreview-4829353834) - 2026-07-31
+* [Review] [Review on: fix Gloas bid gas limit validation](https://github.com/Consensys/teku/pull/11024#pullrequestreview-4826879294) - 2026-07-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07
 
 * [Review] [Review on: Add two tests for same-slot attestation zero-index assertion](https://github.com/ethereum/consensus-specs/pull/5494#pullrequestreview-4817043093) - 2026-07-30
+* [Review] [Review on: Allow multiple bids compatible with the head view](https://github.com/ethereum/consensus-specs/pull/5497#pullrequestreview-4828584790) - 2026-07-31
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [QUIC memory leak fix](https://github.com/libp2p/jvm-libp2p/pull/504) - 2026-07-15
 * [Review] [Review on: Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505#pullrequestreview-4767982333) - 2026-07-23
 * [Review] [Review on: Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505#pullrequestreview-4774942181) - 2026-07-24
 * [Review] [Review on: Improve Gossip backpressure ](https://github.com/libp2p/jvm-libp2p/pull/506#pullrequestreview-4797355558) - 2026-07-28
+* [Pull Request] [close UDP channel immediately on cancellation (QUIC)](https://github.com/libp2p/jvm-libp2p/pull/508) - 2026-07-31
+* [Commit] [close UDP channel immediately on cancellation (QUIC) (#508)](https://github.com/libp2p/jvm-libp2p/commit/bb4dfc6b776629fc8df259b16088559a35843a79) - 2026-07-31
 ## Q2 2026
 
 

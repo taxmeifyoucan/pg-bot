@@ -192,6 +192,14 @@ Team: Erigon
 * [Commit] [rpc/jsonrpc, db/consensuschain: pass a logger to the consensus chain reader (#22859)](https://github.com/erigontech/erigon/commit/ac069f73f7c022b7e06697511fe323205b7f1fc1) - 2026-07-30
 * [Commit] [common/event: broadcast under the mutex in Notifier (#22857)](https://github.com/erigontech/erigon/commit/bf2ce252c3b966007b9184b2d59e53f1e32462a4) - 2026-07-30
 * [Commit] [cmd/utils/app: keep consensus-layer data out of snapshots du estimates (#22871)](https://github.com/erigontech/erigon/commit/8bcea342982cc5dfa35d80ef11ab7f64818a7725) - 2026-07-30
+* [Review] [Review on: exec: merge writeSets without cloning in the apply loop](https://github.com/erigontech/erigon/pull/22883#pullrequestreview-4826597810) - 2026-07-31
+* [Review] [Review on: rawdb: receiptWriter - to hold long-living buffers. and avoid per-tx allocs ](https://github.com/erigontech/erigon/pull/22899#pullrequestreview-4827198154) - 2026-07-31
+* [Pull Request] [docs: refresh disk sizes on main, add sepolia, hoodi and chiado](https://github.com/erigontech/erigon/pull/22867) - 2026-07-31
+* [Commit] [docs: refresh disk sizes on main, add sepolia, hoodi and chiado (#22867)](https://github.com/erigontech/erigon/commit/7b92fbcb51065565a8e07a218bc10b51f561999c) - 2026-07-31
+* [Commit] [readme: refresh disk sizes from 3.6 archive nodes, drop polygon (#22866)](https://github.com/erigontech/erigon/commit/7566757e37f2820d52847abfaf0d19b2c01b7f81) - 2026-07-31
+* [Commit] [rpc/jsonrpc, node, execution/commitment: serve debug_executionWitness on minimal nodes via head-capture (#22663)](https://github.com/erigontech/erigon/commit/ced5b5995c60f4d894da6b4043b57e62a8f7d765) - 2026-07-31
+* [Commit] [cl: resume Caplin from a local finalized state on restart (#22746)](https://github.com/erigontech/erigon/commit/d91409aac9799247e91f9d0de2accfdec2585b36) - 2026-07-31
+* [Commit] [db/snaptype: separate core/caplin/bor enum ranges; panic on duplicate registration (#22878)](https://github.com/erigontech/erigon/commit/f8f14dd4f93b25afe5c3c7df6ba60267e4dd807b) - 2026-07-31
 ## Q2 2026
 
 

@@ -57,6 +57,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Update EIP-7975: clarify upper bound](https://github.com/ethereum/EIPs/pull/12045) - 2026-07-30
 * [Review] [Review on: Update EIP-2780: Move to Review](https://github.com/ethereum/EIPs/pull/12038#pullrequestreview-4817546710) - 2026-07-30
 * [Commit] [Update EIP-8081: PFI EIP-7668](https://github.com/ethereum/EIPs/commit/05469aa96bf65b532b6239d37c1a5d8b2eca15e6) - 2026-07-30
+* [Review] [Review on: Config: Populate personal dictionary for markdown-spell](https://github.com/ethereum/EIPs/pull/12053#pullrequestreview-4829202836) - 2026-07-31
+* [Review] [Review on: CI: Grab latest version of eipw.](https://github.com/ethereum/EIPs/pull/11916#pullrequestreview-4825282861) - 2026-07-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -81,8 +83,12 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Issue] [Tracking issue: fork/spec agnostic benchmarks](https://github.com/ethereum/execution-specs/issues/3252) - 2026-07-29
 * [Commit] [feat(tests): add EIP-7997 case where factory is not present at fork block (#3243)](https://github.com/ethereum/execution-specs/commit/608f8783af569bd2833e90c42eb617439045412d) - 2026-07-28
 * [Review] [Review on: feat(test-benchmark): add stub account configuration, with state-actor example config](https://github.com/ethereum/execution-specs/pull/3203#pullrequestreview-4824581459) - 2026-07-31
+* [Pull Request] [fix(test-benchmark): fill benchmark blocks fully under EIP-8037 gas accounting (repricing)](https://github.com/ethereum/execution-specs/pull/3269) - 2026-07-31
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [RocksDB `setPartitionFilters(true)` is silently ignored — partitioned filters have never been active](https://github.com/besu-eth/besu/issues/10946) - 2026-08-01
 ## Q2 2026
 
 

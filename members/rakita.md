@@ -49,6 +49,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 
 * [Commit] [Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/commit/e6d8f589d355e891c37ff479d3ce668352e5b1be) - 2026-07-07
 * [Review] [Review on: Update EIP-2780: clarify 2780](https://github.com/ethereum/EIPs/pull/11891#pullrequestreview-4651846499) - 2026-07-08
+* [Pull Request] [Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/pull/12058) - 2026-07-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626374583) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626438301) - 2026-07-03
@@ -60,10 +61,14 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: chore(evm): update evm2](https://github.com/paradigmxyz/reth/pull/26481#pullrequestreview-4756561704) - 2026-07-22
 * [Pull Request] [chore: bump revm to 42.0.1](https://github.com/paradigmxyz/reth/pull/26490) - 2026-07-23
 * [Review] [Review on: chore(evm): update evm2](https://github.com/paradigmxyz/reth/pull/26481#pullrequestreview-4765115884) - 2026-07-23
+* [Review] [Review on: fix(txpool): enable EIP-2780 intrinsic gas rules](https://github.com/paradigmxyz/reth/pull/26536#pullrequestreview-4826817447) - 2026-07-31
+* [Commit] [chore: bump revm to 42.0.1 (#26490)](https://github.com/paradigmxyz/reth/commit/d2ede2c3a8428a3cf816157c687c57599fe168a2) - 2026-07-31
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/revmc/pull/404) - 2026-07-14
 * [Pull Request] [chore: bump revm to 42.0.0](https://github.com/paradigmxyz/revmc/pull/406) - 2026-07-23
 * [Commit] [chore: bump revm to 42.0.0 (#406)](https://github.com/paradigmxyz/revmc/commit/79e3c8ca1980d98c856034558ec7c7a9f3f3dd7d) - 2026-07-23
+* [Pull Request] [chore: bump alloy-evm to 0.38.0, drop git patch](https://github.com/paradigmxyz/revmc/pull/407) - 2026-07-31
+* [Commit] [chore: bump alloy-evm to 0.38.0, drop git patch (#407)](https://github.com/paradigmxyz/revmc/commit/cf68a87f627299a9c49bcc333a8a317c9b312a3d) - 2026-07-31
 ## Q2 2026
 
 

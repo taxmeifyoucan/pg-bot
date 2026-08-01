@@ -186,6 +186,13 @@ Team: Reth
 * [Pull Request] [fix(discv5): default to port 30303](https://github.com/paradigmxyz/reth/pull/26537) - 2026-07-30
 * [Commit] [refactor(net): add NodeRecord::has_rlpx_endpoint helper (#26538)](https://github.com/paradigmxyz/reth/commit/f2e2b5c56593359c9626caf11e392c4f75ddede7) - 2026-07-30
 * [Commit] [fix(net): keep ENR ports paired with their IP address (#26529)](https://github.com/paradigmxyz/reth/commit/e430fd80a974aef7a5fdad90181613e4272905c9) - 2026-07-30
+* [Pull Request] [fix(rpc): stop cancelled payload body range requests](https://github.com/paradigmxyz/reth/pull/26546) - 2026-07-31
+* [Review] [Review on: fix(net): recover partial header responses](https://github.com/paradigmxyz/reth/pull/26482#pullrequestreview-4829296042) - 2026-07-31
+* [Review] [Review on: feat(txpool): track blob cell availability](https://github.com/paradigmxyz/reth/pull/25463#pullrequestreview-4827336180) - 2026-07-31
+* [Review] [Review on: perf(rpc/ipc): O(N) `StreamCodec` via state-carry across `decode()` calls](https://github.com/paradigmxyz/reth/pull/26540#pullrequestreview-4827557550) - 2026-07-31
+* [Review] [Review on: feat: add -`-with-receipts` to `import-era` to store receipts](https://github.com/paradigmxyz/reth/pull/26436#pullrequestreview-4827553566) - 2026-07-31
+* [Review] [Review on: fix(rpc): cap implicit simulate gas limit](https://github.com/paradigmxyz/reth/pull/26502#pullrequestreview-4827302368) - 2026-07-31
+* [Commit] [fix(rpc): stop cancelled payload body range requests (#26546)](https://github.com/paradigmxyz/reth/commit/8bfea20a911f3724000c5e927a3763ef84cf8cac) - 2026-07-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

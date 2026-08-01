@@ -79,6 +79,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [Encode the eth ENR entry as an RLP list (#4575)](https://github.com/status-im/nimbus-eth1/commit/8d9968c99885aad1d14257174de2646bf6d0bf27) - 2026-07-28
 * [Pull Request] [Stateless: align SSZ types with progressive-list updated specs](https://github.com/status-im/nimbus-eth1/pull/4585) - 2026-07-29
 * [Commit] [Adjust stateless baremetal target and run it on CI (#4557)](https://github.com/status-im/nimbus-eth1/commit/3d47c50924009d52938b1fbacb9e866dc4edfd9c) - 2026-07-30
+* [Pull Request] [Add engine_newPayloadWithWitnessV4 and V5](https://github.com/status-im/nimbus-eth1/pull/4591) - 2026-07-31
+* [Commit] [Stateless: align SSZ types with progressive-list updated specs (#4585)](https://github.com/status-im/nimbus-eth1/commit/490c7b3fe4a4ecebdf0972a13b57949320120531) - 2026-07-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

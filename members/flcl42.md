@@ -145,6 +145,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Issue] [Implement glamsterdam-devnet-8](https://github.com/NethermindEth/nethermind/issues/12599) - 2026-07-29
 * [Commit] [Harden BAL gas accounting boundaries (#12589)](https://github.com/NethermindEth/nethermind/commit/1eb3ec600334df20768c3b26f01e4f667bb1a9b1) - 2026-07-30
 * [Commit] [Fix zero-tip SYSTEM_ADDRESS beneficiary BAL entry (#12575)](https://github.com/NethermindEth/nethermind/commit/3a56332f6743015a7f36bf5dd4988b63b89a7d80) - 2026-07-30
+* [Review] [Review on: Improve FastHash performance](https://github.com/NethermindEth/nethermind/pull/12632#pullrequestreview-4828496396) - 2026-07-31
+* [Pull Request] [Reprice EIP-8038 access list entries](https://github.com/NethermindEth/nethermind/pull/12633) - 2026-07-31
+* [Pull Request] [Encode engine_newPayloadWithWitness witness as an RLP data string](https://github.com/NethermindEth/nethermind/pull/12635) - 2026-07-31
+* [Pull Request] [Update Glamsterdam devnet tests to v8.0.0](https://github.com/NethermindEth/nethermind/pull/12634) - 2026-07-31
+* [Review] [Review on: Expose the node's ENR in admin_nodeInfo](https://github.com/NethermindEth/nethermind/pull/12631#pullrequestreview-4828810649) - 2026-07-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -182,6 +187,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [fix(sync): queue backward sync until peers are ready (#10843)](https://github.com/besu-eth/besu/commit/5cff5cc56d1726b6c6d8fd3031abdd6b412d20b1) - 2026-07-30
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(net): recover partial header responses](https://github.com/paradigmxyz/reth/pull/26482) - 2026-07-22
+* [Commit] [fix(net): recover partial header responses (#26482)](https://github.com/paradigmxyz/reth/commit/0bba0c6880c39aed47c9d689962ede7f944be7c5) - 2026-07-31
 ## Q2 2026
 
 

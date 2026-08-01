@@ -161,6 +161,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: use proposer lookahead for next epoch proposer cache](https://github.com/ChainSafe/lodestar/pull/9730#pullrequestreview-4817460811) - 2026-07-30
 * [Commit] [fix: correct clock disparity handling for proposer preferences (#9729)](https://github.com/ChainSafe/lodestar/commit/4c86702f24311a714c196bddaa9f0599dc76a927) - 2026-07-30
 * [Commit] [fix: use proposer lookahead for next epoch proposer cache (#9730)](https://github.com/ChainSafe/lodestar/commit/ba5ee9aff0173134c0da82595326b39a9660debe) - 2026-07-30
+* [Review] [Review on: chore: reject blob sidecar with slot not higher than parent](https://github.com/ChainSafe/lodestar/pull/9740#pullrequestreview-4828679988) - 2026-07-31
+* [Pull Request] [feat: allow multiple bids compatible with the head view](https://github.com/ChainSafe/lodestar/pull/9739) - 2026-07-31
+* [Review] [Review on: feat: allow multiple bids compatible with the head view](https://github.com/ChainSafe/lodestar/pull/9739#pullrequestreview-4829134036) - 2026-07-31
+* [Review] [Review on: refactor: move validator clock util to state-transition](https://github.com/ChainSafe/lodestar/pull/9733#pullrequestreview-4829411831) - 2026-07-31
+* [Review] [Review on: chore: fix typo in validator config verification log](https://github.com/ChainSafe/lodestar/pull/9737#pullrequestreview-4828338879) - 2026-07-31
+* [Review] [Review on: fix(utils): avoid scheduling infinite waitFor timeout](https://github.com/ChainSafe/lodestar/pull/9735#pullrequestreview-4826216225) - 2026-07-31
+* [Review] [Review on: fix: use parent block slot for attestation payload availability](https://github.com/ChainSafe/lodestar/pull/9731#pullrequestreview-4826240018) - 2026-07-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -187,6 +194,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Only allow bids compatible with the head view](https://github.com/ethereum/consensus-specs/pull/5491#pullrequestreview-4802229323) - 2026-07-28
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot](https://github.com/ethereum/consensus-specs/pull/5473#pullrequestreview-4795545065) - 2026-07-28
 * [Review] [Review on: Use better types for constants/configs/presets](https://github.com/ethereum/consensus-specs/pull/5488#pullrequestreview-4795577692) - 2026-07-28
+* [Review] [Review on: Return early from `on_block` when the block is already known](https://github.com/ethereum/consensus-specs/pull/5495#pullrequestreview-4828743778) - 2026-07-31
+* [Review] [Review on: Allow multiple bids compatible with the head view](https://github.com/ethereum/consensus-specs/pull/5497#pullrequestreview-4827777913) - 2026-07-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
@@ -195,6 +204,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Config: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4674661960) - 2026-07-10
 * [Review] [Review on: Add EIP: Align Checkpoint with Epoch Boundary Block](https://github.com/ethereum/EIPs/pull/11871#pullrequestreview-4687621599) - 2026-07-13
 * [Review] [Review on: Config: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4687598927) - 2026-07-13
+* [Review] [Review on: Update EIP-1: Add ethereum/sys-asm as an approved origin](https://github.com/ethereum/EIPs/pull/11986#pullrequestreview-4829222731) - 2026-07-31
+* [Review] [Review on: Update EIP-8081: Propose EIP-8333 for inclusion](https://github.com/ethereum/EIPs/pull/12044#pullrequestreview-4829219200) - 2026-07-31
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 

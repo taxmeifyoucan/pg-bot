@@ -38,6 +38,14 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Pull Request] [Update EIP-2780: Move to Review](https://github.com/ethereum/EIPs/pull/12038) - 2026-07-30
 * [Commit] [Add EIP: Offline State Migration to the PBT](https://github.com/ethereum/EIPs/commit/b35ddf6d0b66c92c3ad2021c8623cd3004cbbb42) - 2026-07-30
 * [Commit] [Update EIP-2780: Move to Review](https://github.com/ethereum/EIPs/commit/0a1d42b3c7a455cd812ce73b4b937c16d6f20bd6) - 2026-07-30
+* [Pull Request] [Update EIP-2780: variable rename + 8007 clean-ups](https://github.com/ethereum/EIPs/pull/12052) - 2026-07-31
+* [Pull Request] [Config: Populate personal dictionary for markdown-spell](https://github.com/ethereum/EIPs/pull/12053) - 2026-07-31
+* [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4827893102) - 2026-07-31
+* [Pull Request] [Update EIP-8038: derive access list costs from cold access costs](https://github.com/ethereum/EIPs/pull/12056) - 2026-07-31
+* [Commit] [Update EIP-2780: variable rename + 8007 clean-ups](https://github.com/ethereum/EIPs/commit/5a8c80897aeb0952322cd0dfff767c541002b8c3) - 2026-07-31
+* [Commit] [Config: Populate personal dictionary for markdown-spell](https://github.com/ethereum/EIPs/commit/ce7657b215ce11f7f0f78e48b0901dfaa67e61a9) - 2026-07-31
+* [Commit] [Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/commit/78525144ee85c57f50e5e6675ca3561d3101caeb) - 2026-07-31
+* [Commit] [Update EIP-8038: derive access list costs from cold access costs](https://github.com/ethereum/EIPs/commit/341f3f8266d6cff87bce56c81bb3b2a740d42f6b) - 2026-07-31
 ## Q2 2026
 
 

@@ -181,6 +181,25 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: update EIP-8037 for glamsterdam-devnet-7 (#22548)](https://github.com/erigontech/erigon/commit/489cdafd26ae15f074e48195995df241051fe302) - 2026-07-30
 * [Commit] [ci: split legacy Cancun race shards by fork (#22885)](https://github.com/erigontech/erigon/commit/e67fb310da319d45523fe535b9b188b3f8edfe5d) - 2026-07-30
 * [Commit] [execution/state: preserve reverted RIPEMD precompile touch (#22860)](https://github.com/erigontech/erigon/commit/22f516f3a33569cfc8213831821dcd9964d43c6e) - 2026-07-30
+* [Pull Request] [ci: run all devnet hive eest test shards with new enginex v7.2.1](https://github.com/erigontech/erigon/pull/22928) - 2026-07-31
+* [Pull Request] [.github/actions: move Windows Go caches to D drive](https://github.com/erigontech/erigon/pull/22932) - 2026-07-31
+* [Pull Request] [execution: fix all legacy tests](https://github.com/erigontech/erigon/pull/22933) - 2026-07-31
+* [Pull Request] [[DO-NOT-MERGE] glamsterdam-devnet-8](https://github.com/erigontech/erigon/pull/22917) - 2026-07-31
+* [Pull Request] [[DO-NOT-MERGE] [gd8] execution: EIP-8038 access list cost cold minus warm](https://github.com/erigontech/erigon/pull/22926) - 2026-07-31
+* [Pull Request] [[DO-NOT-MERGE] [gd8] execution: EIP-2780 merge transfer log cost into tx value cost](https://github.com/erigontech/erigon/pull/22916) - 2026-07-31
+* [Pull Request] [types, rawdb, p2p, stagedsync: distinguish empty BALs](https://github.com/erigontech/erigon/pull/22914) - 2026-07-31
+* [Pull Request] [execution: optimise bn254ScalarMul for infinity point](https://github.com/erigontech/erigon/pull/22931) - 2026-07-31
+* [Review] [Review on: [r3.6] txnprovider/txpool: reject tips above fee caps](https://github.com/erigontech/erigon/pull/22902#pullrequestreview-4828409236) - 2026-07-31
+* [Pull Request] [execution: update to new EIP-8037 spec execution gas terminology](https://github.com/erigontech/erigon/pull/22922) - 2026-07-31
+* [Review] [Review on: [r3.6] execution: withhold created-empty versioned writes](https://github.com/erigontech/erigon/pull/22904#pullrequestreview-4828014210) - 2026-07-31
+* [Review] [Review on: execution/tests: pin CodeDomain purge on EIP-7702 delegation clear](https://github.com/erigontech/erigon/pull/22327#pullrequestreview-4828255874) - 2026-07-31
+* [Issue] [glamsterdam-devnet-8: EIP-8038 (State-access gas cost update)](https://github.com/erigontech/erigon/issues/22924) - 2026-07-31
+* [Commit] [ci: run all devnet hive eest test shards with new enginex v7.2.1 (#22928)](https://github.com/erigontech/erigon/commit/114067a72ede996ee278bdcd454e907d3c85e11c) - 2026-07-31
+* [Commit] [.github/actions: move Windows Go caches to D drive (#22932)](https://github.com/erigontech/erigon/commit/a89cc58470a9a8298b33f3a820c85e1d8ec28577) - 2026-07-31
+* [Commit] [types, rawdb, p2p, stagedsync: distinguish empty BALs (#22914)](https://github.com/erigontech/erigon/commit/527e210d7ae71694d25715c834f800d6db1cb630) - 2026-07-31
+* [Commit] [execution: update to new EIP-8037 spec execution gas terminology (#22922)](https://github.com/erigontech/erigon/commit/5fb5d8af72b9da6b0b2e50cd43d7553a3ffe89d5) - 2026-07-31
+* [Commit] [ci: move legacy rlp/transaction/difficulty tests in their own spec shards (#22891)](https://github.com/erigontech/erigon/commit/d6935b3830b5698d4d9812831220ce94fb48d709) - 2026-07-31
+* [Commit] [ci: further split legacy blocktest race shards to avoid flaky OOMs (#22895)](https://github.com/erigontech/erigon/commit/ec405250024d8f75802419794baaed184a0c0eb1) - 2026-07-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

@@ -8,6 +8,12 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/protocol-security](https://github.com/ethereum/protocol-security)
+* [Pull Request] [Update Bhargava team description](https://github.com/ethereum/protocol-security/pull/54) - 2026-07-31
+* [Commit] [Update Bhargava team description](https://github.com/ethereum/protocol-security/commit/b377ed46001a430c63cc948b64cb54b717aafdca) - 2026-07-31
 ## Q2 2026
 
 

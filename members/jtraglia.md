@@ -128,6 +128,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Remove specs for KZG functions (#5398)](https://github.com/ethereum/consensus-specs/commit/26343543931168c0d68cc5df38cc9c9c454ecf86) - 2026-07-29
 * [Commit] [Add two tests for same-slot attestation zero-index assertion (#5494)](https://github.com/ethereum/consensus-specs/commit/123d1efa05751e762fa2f877a978513f6bf5040c) - 2026-07-30
 * [Commit] [Save signed inclusion lists in `InclusionListStore` (#5487)](https://github.com/ethereum/consensus-specs/commit/53a9d0ce366f665eb682102f67d9f722fb260506) - 2026-07-30
+* [Pull Request] [Group dependency updates](https://github.com/ethereum/consensus-specs/pull/5501) - 2026-07-31
+* [Pull Request] [Document new `parent_slot` param in `process_attestation`](https://github.com/ethereum/consensus-specs/pull/5500) - 2026-07-31
+* [Review] [Review on: Return early from `on_block` when the block is already known](https://github.com/ethereum/consensus-specs/pull/5495#pullrequestreview-4828882472) - 2026-07-31
+* [Review] [Review on: Allow multiple bids compatible with the head view](https://github.com/ethereum/consensus-specs/pull/5497#pullrequestreview-4828444199) - 2026-07-31
+* [Commit] [Group dependency updates (#5501)](https://github.com/ethereum/consensus-specs/commit/3647ccbc69b519dbb66f6540a8dbc21768898106) - 2026-07-31
+* [Commit] [Add executable gossip validation functions for gloas (#5294)](https://github.com/ethereum/consensus-specs/commit/ecf42d8d977c167c8985050fa159ceeb7d244c59) - 2026-07-31
+* [Commit] [Document new `parent_slot` param in `process_attestation` (#5500)](https://github.com/ethereum/consensus-specs/commit/e762dd6e2c45ee05648b5787e7d261279aec226a) - 2026-07-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

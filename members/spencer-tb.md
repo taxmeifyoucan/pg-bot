@@ -141,6 +141,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(tests): enhance & un-skip Amsterdam ported static tests (Pt. 2)](https://github.com/ethereum/execution-specs/pull/3264) - 2026-07-30
 * [Commit] [chore(tests): improve EIP-8024 coverage, checklist, and ref-spec pin (#3224)](https://github.com/ethereum/execution-specs/commit/2384e39d17a226106a88f6ab34aad4461550ea63) - 2026-07-30
 * [Commit] [refactor(spec-specs,tests): rename REGULAR_PER_AUTH_BASE_COST to EXECUTION_PER_AUTH_BASE_COST (#3263)](https://github.com/ethereum/execution-specs/commit/d3a58bbcd7443755763a6199554b35862f07a94e) - 2026-07-30
+* [Pull Request] [feat(tests): cover EIP-8282 builder request dequeues in block access lists](https://github.com/ethereum/execution-specs/pull/3270) - 2026-07-31
+* [Pull Request] [feat(ci): fill benchmark tests at 1M gas on every PR](https://github.com/ethereum/execution-specs/pull/3273) - 2026-07-31
+* [Pull Request] [feat(spec-specs,tests): reprice EIP-8038 access-list costs to cold minus warm](https://github.com/ethereum/execution-specs/pull/3271) - 2026-07-31
+* [Issue] [First Class Ported Static Tests Tracker](https://github.com/ethereum/execution-specs/issues/3272) - 2026-07-31
+* [Commit] [feat(tests): cover EIP-8282 builder request dequeues in block access lists (#3270)](https://github.com/ethereum/execution-specs/commit/9d6e6f8352a0f76e7e8803722d1a2798fa4f0a96) - 2026-07-31
+* [Commit] [feat(ci): fill benchmark tests at 1M gas on every PR (#3273)](https://github.com/ethereum/execution-specs/commit/c17999c02b7258c5c731688455dce914275423c4) - 2026-07-31
+* [Commit] [fix(spec-specs,tests): reprice EIP-8038 access-list costs to cold minus warm (#3271)](https://github.com/ethereum/execution-specs/commit/a2571e49287644debf6bcaaad35aa8bb0f084de9) - 2026-07-31
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

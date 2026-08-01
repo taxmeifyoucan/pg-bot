@@ -141,6 +141,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Allow contract creation at max valid nonce](https://github.com/NethermindEth/nethermind/pull/12576#pullrequestreview-4794131056) - 2026-07-28
 * [Review] [Review on: Run EXPB auto-benchmarks 3x per payload set and report mean of runs](https://github.com/NethermindEth/nethermind/pull/12292#pullrequestreview-4794317662) - 2026-07-28
 * [Commit] [Keep the speculative warm-cache handoff on low-tx blocks (#12570)](https://github.com/NethermindEth/nethermind/commit/c85c2532788440c4f72b266b4137c0b700b53268) - 2026-07-28
+* [Review] [Review on: fix(receipts): restore the post-merge flag before regeneration](https://github.com/NethermindEth/nethermind/pull/12641#pullrequestreview-4832804265) - 2026-07-31
+* [Review] [Review on: chore: update Nethermind.Numerics.Int256 package](https://github.com/NethermindEth/nethermind/pull/12638#pullrequestreview-4831084126) - 2026-07-31
+* [Review] [Review on: refactor(net): namespace snap by version](https://github.com/NethermindEth/nethermind/pull/12606#pullrequestreview-4830061978) - 2026-07-31
+* [Review] [Review on: fix(rpc-bench): run benchmarked nodes the way production runs them](https://github.com/NethermindEth/nethermind/pull/12625#pullrequestreview-4830059012) - 2026-07-31
+* [Pull Request] [Improve FastHash performance](https://github.com/NethermindEth/nethermind/pull/12632) - 2026-07-31
+* [Review] [Review on: Improve FastHash performance](https://github.com/NethermindEth/nethermind/pull/12632#pullrequestreview-4828093145) - 2026-07-31
+* [Commit] [Improve FastHash performance (#12632)](https://github.com/NethermindEth/nethermind/commit/97816c9da8038a5a9432c787aa8b69e2646db85b) - 2026-07-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
