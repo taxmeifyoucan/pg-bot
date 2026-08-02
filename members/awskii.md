@@ -200,6 +200,8 @@ Team: Erigon
 * [Commit] [rpc/jsonrpc, node, execution/commitment: serve debug_executionWitness on minimal nodes via head-capture (#22663)](https://github.com/erigontech/erigon/commit/ced5b5995c60f4d894da6b4043b57e62a8f7d765) - 2026-07-31
 * [Commit] [cl: resume Caplin from a local finalized state on restart (#22746)](https://github.com/erigontech/erigon/commit/d91409aac9799247e91f9d0de2accfdec2585b36) - 2026-07-31
 * [Commit] [db/snaptype: separate core/caplin/bor enum ranges; panic on duplicate registration (#22878)](https://github.com/erigontech/erigon/commit/f8f14dd4f93b25afe5c3c7df6ba60267e4dd807b) - 2026-07-31
+* [Pull Request] [cl, db: caplin snapshot pre-fixes (cancellation, races, verify and preverified filter gaps)](https://github.com/erigontech/erigon/pull/22944) - 2026-08-01
+* [Pull Request] [EIP-8297 partitioned binary tree commitment engine](https://github.com/erigontech/erigon/pull/22942) - 2026-08-01
 ## Q2 2026
 
 

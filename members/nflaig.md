@@ -168,6 +168,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: fix typo in validator config verification log](https://github.com/ChainSafe/lodestar/pull/9737#pullrequestreview-4828338879) - 2026-07-31
 * [Review] [Review on: fix(utils): avoid scheduling infinite waitFor timeout](https://github.com/ChainSafe/lodestar/pull/9735#pullrequestreview-4826216225) - 2026-07-31
 * [Review] [Review on: fix: use parent block slot for attestation payload availability](https://github.com/ChainSafe/lodestar/pull/9731#pullrequestreview-4826240018) - 2026-07-31
+* [Review] [Review on: fix: use parent block slot for attestation payload availability](https://github.com/ChainSafe/lodestar/pull/9731#pullrequestreview-4834424186) - 2026-08-01
+* [Review] [Review on: feat: gloas deathstar fork banner](https://github.com/ChainSafe/lodestar/pull/9743#pullrequestreview-4834720388) - 2026-08-01
+* [Review] [Review on: feat: gloas polar bear banner](https://github.com/ChainSafe/lodestar/pull/9742#pullrequestreview-4834442154) - 2026-08-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -196,6 +199,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Use better types for constants/configs/presets](https://github.com/ethereum/consensus-specs/pull/5488#pullrequestreview-4795577692) - 2026-07-28
 * [Review] [Review on: Return early from `on_block` when the block is already known](https://github.com/ethereum/consensus-specs/pull/5495#pullrequestreview-4828743778) - 2026-07-31
 * [Review] [Review on: Allow multiple bids compatible with the head view](https://github.com/ethereum/consensus-specs/pull/5497#pullrequestreview-4827777913) - 2026-07-31
+* [Review] [Review on: Align fork-choice handler docstrings](https://github.com/ethereum/consensus-specs/pull/5506#pullrequestreview-4835289106) - 2026-08-01
+* [Pull Request] [Add compliance test generation smoke check](https://github.com/ethereum/consensus-specs/pull/5504) - 2026-08-01
+* [Pull Request] [Fix missing KZG trusted setup when generating compliance tests](https://github.com/ethereum/consensus-specs/pull/5503) - 2026-08-01
+* [Commit] [Fix missing KZG trusted setup when generating compliance tests (#5503)](https://github.com/ethereum/consensus-specs/commit/19055b24b1d8b675c3a239d6c7dd896e5e646512) - 2026-08-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

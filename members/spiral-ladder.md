@@ -112,6 +112,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [feat(bindings): expose pubkey cache synchronization](https://github.com/ChainSafe/lodestar-z/pull/537) - 2026-07-30
 * [Review] [Review on: feat(bindings): expose pubkey cache synchronization](https://github.com/ChainSafe/lodestar-z/pull/537#pullrequestreview-4821644852) - 2026-07-30
 * [Review] [Review on: feat(bindings): expose pubkey cache synchronization](https://github.com/ChainSafe/lodestar-z/pull/537#pullrequestreview-4831838222) - 2026-07-31
+* [Review] [Review on: fix(bls): size pairing buffers for 32-bit targets](https://github.com/ChainSafe/lodestar-z/pull/531#pullrequestreview-4836160667) - 2026-08-02
 ## Q2 2026
 
 

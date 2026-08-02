@@ -325,6 +325,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [execution: fence StateCache across frozen-block startup processing](https://github.com/erigontech/erigon/issues/22925) - 2026-07-31
 * [Commit] [execution: withhold created-empty versioned writes (#22768)](https://github.com/erigontech/erigon/commit/f93ab5ae6917c78117abd04aefe700edbe58bb0d) - 2026-07-31
 * [Commit] [txnprovider/txpool: reject tips above fee caps (#22887)](https://github.com/erigontech/erigon/commit/69a6330ab91eae4cc5cc80d6f908218115582fca) - 2026-07-31
+* [Pull Request] [[r3.6] execution, rpc: exec/RPC robustness fixes](https://github.com/erigontech/erigon/pull/22906) - 2026-08-01
+* [Pull Request] [[r3.6] cl: reject sidecars and blocks with inconsistent fork schema](https://github.com/erigontech/erigon/pull/22920) - 2026-08-01
+* [Commit] [execution/tests: pin CodeDomain purge on EIP-7702 delegation clear (#22327)](https://github.com/erigontech/erigon/commit/b8a83ed4726cc39dc7fe6d4dce5c63d5520e69ae) - 2026-08-01
+* [Commit] [cl, execution: convert base fee with uint256 SSZ codecs (#22930)](https://github.com/erigontech/erigon/commit/9ef4944f28afd192ccfd8ceb977a516647312c18) - 2026-08-01
+* [Commit] [cl/rpc: reject Gloas schema-slot mismatches at the RPC boundary (#22907)](https://github.com/erigontech/erigon/commit/2e972d1af5bf16443f39eddee84ac88888d2d7fb) - 2026-08-01
+* [Commit] [db/etl, tools: draw pooled ETL buffers lazily to cut race-shard memory (#22929)](https://github.com/erigontech/erigon/commit/7c638341e8cc8635cdc68acfe0e1a92bf41c3af6) - 2026-08-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

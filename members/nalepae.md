@@ -63,6 +63,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Fix `TestSlashValidator_OK` flakiness.](https://github.com/OffchainLabs/prysm/pull/17279) - 2026-07-31
 * [Issue] [Deadlock at the end of the backfill (not 100% reproducible).](https://github.com/OffchainLabs/prysm/issues/17282) - 2026-07-31
 * [Commit] [Fix `TestSlashValidator_OK` flakiness. (#17279)](https://github.com/OffchainLabs/prysm/commit/d90e75a63b0e2fea64154d4066db6267b1b9eb61) - 2026-07-31
+* [Pull Request] [Fix incompatibilities between `--beacon-db-pruning` and `--enable-state-diff`.](https://github.com/OffchainLabs/prysm/pull/17287) - 2026-08-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 ## Q2 2026

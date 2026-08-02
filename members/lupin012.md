@@ -93,6 +93,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: fix non-deterministic eth_estimateGas caused by stale cancel of shared EVM](https://github.com/erigontech/erigon/pull/22877#pullrequestreview-4820426424) - 2026-07-30
 * [Issue] [debug_traceBlockByNumber with prestateTracer: Erigon includes an extra account compared to Geth](https://github.com/erigontech/erigon/issues/22888) - 2026-07-30
 * [Commit] [rpc: validate authorizationList args in eth_fillTransaction (#22872)](https://github.com/erigontech/erigon/commit/a9487c5dd8e71933e42fdce82a37674a0afc1c43) - 2026-07-30
+* [Pull Request] [QA: latest test save logs for all attempts](https://github.com/erigontech/erigon/pull/22943) - 2026-08-01
+* [Pull Request] [rpc: prestateTracer must skip faulted opcodes](https://github.com/erigontech/erigon/pull/22941) - 2026-08-01
+* [Review] [Review on: node: replace libdeflate with klauspost/compress for RPC HTTP gzip; one-shot responses now BestSpeed](https://github.com/erigontech/erigon/pull/22882#pullrequestreview-4834738267) - 2026-08-01
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

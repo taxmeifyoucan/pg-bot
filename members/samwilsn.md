@@ -42,6 +42,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: Update EIP-8061: Move to Review](https://github.com/ethereum/EIPs/pull/11887#pullrequestreview-4820338183) - 2026-07-30
 * [Issue] [Help! The bot is flagging something it shouldn't!](https://github.com/ethereum/EIPs/issues/12050) - 2026-07-31
 * [Commit] [CI: Grab latest version of eipw. (#11916)](https://github.com/ethereum/EIPs/commit/00ba4223d681993d8da23b508194434ab1ebb1a2) - 2026-07-31
+* [Review] [Review on: Add EIP: Beacon Block Reporting Field](https://github.com/ethereum/EIPs/pull/12063#pullrequestreview-4833315953) - 2026-08-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Leo Lara contributions: add execution-specs](https://github.com/protocolguild/documentation/pull/515#pullrequestreview-4652756505) - 2026-07-08
 ## Q2 2026

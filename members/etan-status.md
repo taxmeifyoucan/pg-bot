@@ -38,6 +38,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Support recent stateRoot in more beacon-APIs](https://github.com/status-im/nimbus-eth2/pull/8819) - 2026-07-29
 * [Pull Request] [Remove unused ClientMaximumValidatorIds constant](https://github.com/status-im/nimbus-eth2/pull/8829) - 2026-07-30
 * [Pull Request] [Avoid calling postStateValidators with empty list](https://github.com/status-im/nimbus-eth2/pull/8826) - 2026-07-30
+* [Pull Request] [Pre-heat shuffling cache for next next epoch at last slot in epoch](https://github.com/status-im/nimbus-eth2/pull/8835) - 2026-08-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630) - 2026-07-06
 * [Commit] [Forward compatible consensus data structures (EIP-7688) (#4630)](https://github.com/ethereum/consensus-specs/commit/bd6df5afe26d56e9ccf623071c3b574a76967ac9) - 2026-07-06

@@ -600,8 +600,31 @@ Team: Erigon
 * [Commit] [commitment: reuse pooled trie workers across Process calls (#22839)](https://github.com/erigontech/erigon/commit/93f7ded4a83d6b76d91927436861e1ef28da8fdd) - 2026-07-31
 * [Commit] [execution/vm: memoize InternKey by stack word in a per-EVM cache (#22748)](https://github.com/erigontech/erigon/commit/ac75c67f7c76e84f13feb8430944b0d80d79ffc4) - 2026-07-31
 * [Commit] [etl: rm mkdiral (#22861)](https://github.com/erigontech/erigon/commit/7319f0ecb5dd36bfe6bc96ccf76943a1df954a40) - 2026-07-31
+* [Review] [Review on: node: replace libdeflate with klauspost/compress for RPC HTTP gzip; one-shot responses now BestSpeed](https://github.com/erigontech/erigon/pull/22882#pullrequestreview-4834690790) - 2026-08-01
+* [Review] [Review on: btindex: standalone PrefixIndex with adaptive node distribution (40-62% faster)](https://github.com/erigontech/erigon/pull/20180#pullrequestreview-4834756630) - 2026-08-01
+* [Pull Request] [execution/vm: uint256 fast path for MODEXP when modulus and base ≤ 256 bits](https://github.com/erigontech/erigon/pull/22940) - 2026-08-01
+* [Review] [Review on: docs: CLI reference gaps for main](https://github.com/erigontech/erigon/pull/22938#pullrequestreview-4834549501) - 2026-08-01
+* [Review] [Review on: docs: CLI reference gaps for release/3.6](https://github.com/erigontech/erigon/pull/22939#pullrequestreview-4834549428) - 2026-08-01
+* [Pull Request] [execution/vm: handle k == 1 in the BLS12-381 MSM precompiles](https://github.com/erigontech/erigon/pull/22936) - 2026-08-01
+* [Review] [Review on: execution/tests: pin CodeDomain purge on EIP-7702 delegation clear](https://github.com/erigontech/erigon/pull/22327#pullrequestreview-4834140071) - 2026-08-01
+* [Review] [Review on: cl, execution: convert base fee with uint256 SSZ codecs](https://github.com/erigontech/erigon/pull/22930#pullrequestreview-4833996121) - 2026-08-01
+* [Review] [Review on: [r3.6] execution, rpc: exec/RPC robustness fixes](https://github.com/erigontech/erigon/pull/22906#pullrequestreview-4834102099) - 2026-08-01
+* [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.83.1 to 0.83.4](https://github.com/erigontech/erigon/pull/22935#pullrequestreview-4833934315) - 2026-08-01
+* [Review] [Review on: cl/rpc: reject Gloas schema-slot mismatches at the RPC boundary](https://github.com/erigontech/erigon/pull/22907#pullrequestreview-4833956903) - 2026-08-01
+* [Review] [Review on: [r3.6] db/downloader: allow seeding caplin state snapshots with nil global type](https://github.com/erigontech/erigon/pull/22921#pullrequestreview-4833933450) - 2026-08-01
+* [Review] [Review on: [r3.6] cl: reject sidecars and blocks with inconsistent fork schema](https://github.com/erigontech/erigon/pull/22920#pullrequestreview-4833935801) - 2026-08-01
+* [Review] [Review on: db/seg: async io for domain kv files (experimental & off by default)](https://github.com/erigontech/erigon/pull/22876#pullrequestreview-4834098984) - 2026-08-01
+* [Review] [Review on: execution: optimise bn254ScalarMul for infinity point](https://github.com/erigontech/erigon/pull/22931#pullrequestreview-4833885233) - 2026-08-01
+* [Review] [Review on: cl/pool: prune finalized operations asynchronously](https://github.com/erigontech/erigon/pull/22884#pullrequestreview-4834009127) - 2026-08-01
+* [Review] [Review on: execution: fix all legacy tests](https://github.com/erigontech/erigon/pull/22933#pullrequestreview-4833870021) - 2026-08-01
+* [Review] [Review on: db/etl, tools: draw pooled ETL buffers lazily to cut race-shard memory](https://github.com/erigontech/erigon/pull/22929#pullrequestreview-4833739834) - 2026-08-01
+* [Commit] [execution/state, rpc/jsonrpc: release IntraBlockState at end of RPC handlers (#22777)](https://github.com/erigontech/erigon/commit/67ffeb19984f35207aa2c7f6af58d189d28e73df) - 2026-08-01
+* [Commit] [rawdb: receiptWriter - to hold long-living buffers. and avoid per-tx allocs  (#22899)](https://github.com/erigontech/erigon/commit/692a51565ced15dc604740d1ae44a63dcbc6f002) - 2026-08-01
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
+
+[ethereum/evmone](https://github.com/ethereum/evmone)
+* [Pull Request] [crypto: Use fixed-window exponentiation in modexp](https://github.com/ipsilon/evmone/pull/1618) - 2026-08-01
 ## Q2 2026
 
 

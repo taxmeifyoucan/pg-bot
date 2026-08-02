@@ -50,6 +50,13 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Remove specs for KZG functions](https://github.com/ethereum/consensus-specs/pull/5398#pullrequestreview-4809709111) - 2026-07-29
 * [Review] [Review on: Save signed inclusion lists in `InclusionListStore`](https://github.com/ethereum/consensus-specs/pull/5487#pullrequestreview-4820534408) - 2026-07-30
 * [Review] [Review on: Allow multiple bids compatible with the head view](https://github.com/ethereum/consensus-specs/pull/5497#pullrequestreview-4828658787) - 2026-07-31
+* [Pull Request] [Rename the max IL transaction size constant name](https://github.com/ethereum/consensus-specs/pull/5508) - 2026-08-01
+* [Pull Request] [Improve the readability of IL store](https://github.com/ethereum/consensus-specs/pull/5507) - 2026-08-01
+* [Pull Request] [Align fork-choice handler docstrings](https://github.com/ethereum/consensus-specs/pull/5506) - 2026-08-01
+* [Review] [Review on: Add more checks to `on_inclusion_list`](https://github.com/ethereum/consensus-specs/pull/5460#pullrequestreview-4835269402) - 2026-08-01
+* [Pull Request] [Move envelope signature verification helper to beacon-chain.md](https://github.com/ethereum/consensus-specs/pull/5505) - 2026-08-01
+* [Commit] [Align fork-choice handler docstrings (#5506)](https://github.com/ethereum/consensus-specs/commit/d173a8f4613d8c67266a785e439c7940cbd8780e) - 2026-08-01
+* [Commit] [Move envelope signature verification helper to beacon-chain.md (#5505)](https://github.com/ethereum/consensus-specs/commit/6ed440c04b2eba53cd676f7cf8753252e57373ac) - 2026-08-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

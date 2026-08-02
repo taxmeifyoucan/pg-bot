@@ -65,6 +65,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682#pullrequestreview-4805149834) - 2026-07-29
 * [Review] [Review on: fork choice compliance tests [WIP]](https://github.com/sigp/lighthouse/pull/9710#pullrequestreview-4821692954) - 2026-07-30
 * [Review] [Review on: Implement gloas stateless block building api](https://github.com/sigp/lighthouse/pull/9568#pullrequestreview-4829418501) - 2026-07-31
+* [Pull Request] [Introduce a block root invalid cache](https://github.com/sigp/lighthouse/pull/9730) - 2026-08-01
 ## Q2 2026
 
 

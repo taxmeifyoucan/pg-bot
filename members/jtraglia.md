@@ -135,6 +135,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Group dependency updates (#5501)](https://github.com/ethereum/consensus-specs/commit/3647ccbc69b519dbb66f6540a8dbc21768898106) - 2026-07-31
 * [Commit] [Add executable gossip validation functions for gloas (#5294)](https://github.com/ethereum/consensus-specs/commit/ecf42d8d977c167c8985050fa159ceeb7d244c59) - 2026-07-31
 * [Commit] [Document new `parent_slot` param in `process_attestation` (#5500)](https://github.com/ethereum/consensus-specs/commit/e762dd6e2c45ee05648b5787e7d261279aec226a) - 2026-07-31
+* [Review] [Review on: Rename the max IL transaction size constant name](https://github.com/ethereum/consensus-specs/pull/5508#pullrequestreview-4835891284) - 2026-08-01
+* [Review] [Review on: Improve the readability of IL store](https://github.com/ethereum/consensus-specs/pull/5507#pullrequestreview-4835774820) - 2026-08-01
+* [Review] [Review on: Move envelope signature verification helper to beacon-chain.md](https://github.com/ethereum/consensus-specs/pull/5505#pullrequestreview-4835144333) - 2026-08-01
+* [Review] [Review on: Add compliance test generation smoke check](https://github.com/ethereum/consensus-specs/pull/5504#pullrequestreview-4834556569) - 2026-08-01
+* [Review] [Review on: Fix missing KZG trusted setup when generating compliance tests](https://github.com/ethereum/consensus-specs/pull/5503#pullrequestreview-4834544521) - 2026-08-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -164,6 +169,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Use more elliptic curve helpers (#644)](https://github.com/ethereum/c-kzg-4844/commit/57963c66122b4ae78db4aa9b908eff7262d8a51e) - 2026-07-09
 * [Commit] [Use `runTests()` instead of `runAllTests()` (#645)](https://github.com/ethereum/c-kzg-4844/commit/8857fe1b05848d08f850722eed89fca66dba0542) - 2026-07-09
 
+* [Review] [Review on: Bump the actions group with 9 updates](https://github.com/ethereum/c-kzg-4844/pull/656#pullrequestreview-4835747671) - 2026-08-01
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #88, July 20, 2026](https://github.com/ethereum/pm/issues/2162) - 2026-07-16
 * [Issue] [All Core Devs - Testing (ACDT) #90, August 3, 2026](https://github.com/ethereum/pm/issues/2174) - 2026-07-27

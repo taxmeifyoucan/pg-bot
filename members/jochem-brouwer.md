@@ -59,6 +59,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [Update EIP-8081: PFI EIP-7668](https://github.com/ethereum/EIPs/commit/05469aa96bf65b532b6239d37c1a5d8b2eca15e6) - 2026-07-30
 * [Review] [Review on: Config: Populate personal dictionary for markdown-spell](https://github.com/ethereum/EIPs/pull/12053#pullrequestreview-4829202836) - 2026-07-31
 * [Review] [Review on: CI: Grab latest version of eipw.](https://github.com/ethereum/EIPs/pull/11916#pullrequestreview-4825282861) - 2026-07-31
+* [Pull Request] [Config: disable markdown-spell](https://github.com/ethereum/EIPs/pull/12065) - 2026-08-01
+* [Commit] [Config: disable markdown-spell (#12065)](https://github.com/ethereum/EIPs/commit/da1bd0b0b56d63b2428edda094ea2008a2bc6cc2) - 2026-08-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03

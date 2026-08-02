@@ -200,6 +200,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: update to new EIP-8037 spec execution gas terminology (#22922)](https://github.com/erigontech/erigon/commit/5fb5d8af72b9da6b0b2e50cd43d7553a3ffe89d5) - 2026-07-31
 * [Commit] [ci: move legacy rlp/transaction/difficulty tests in their own spec shards (#22891)](https://github.com/erigontech/erigon/commit/d6935b3830b5698d4d9812831220ce94fb48d709) - 2026-07-31
 * [Commit] [ci: further split legacy blocktest race shards to avoid flaky OOMs (#22895)](https://github.com/erigontech/erigon/commit/ec405250024d8f75802419794baaed184a0c0eb1) - 2026-07-31
+* [Commit] [execution: optimise bn254ScalarMul for infinity point (#22931)](https://github.com/erigontech/erigon/commit/6c34c043e36375d944337c27ffee3a20b8ac0756) - 2026-08-01
+* [Commit] [execution: fix all legacy tests (#22933)](https://github.com/erigontech/erigon/commit/af2fed77f4d1533ad26a0a9a7bdcc94a100a3022) - 2026-08-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
