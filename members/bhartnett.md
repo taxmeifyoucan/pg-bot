@@ -59,6 +59,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [ecPairing precompile miller loop batching (#4564)](https://github.com/status-im/nimbus-eth1/commit/6072ac642560eca58881e552a81672121937f3c3) - 2026-07-28
 * [Pull Request] [Optimize keccak hashing and opcode](https://github.com/status-im/nimbus-eth1/pull/4590) - 2026-07-30
 * [Pull Request] [Dispose vmState instances after use](https://github.com/status-im/nimbus-eth1/pull/4593) - 2026-08-01
+* [Commit] [Dispose vmState instances after use (#4593)](https://github.com/status-im/nimbus-eth1/commit/a90ef46786a060134778025f1224a03c6ef7f85a) - 2026-08-02
 ## Q2 2026
 
 

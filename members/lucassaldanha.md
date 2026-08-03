@@ -22,6 +22,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Updates to head_v2 event (Beacon API)](https://github.com/Consensys/teku/issues/11014) - 2026-07-27
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4793613558) - 2026-07-28
 * [Review] [Review on: Fix edge case for BlocksByRange request](https://github.com/Consensys/teku/pull/11021#pullrequestreview-4814288764) - 2026-07-30
+* [Review] [Review on: Remove beaconchainutil from other test fixtures](https://github.com/Consensys/teku/pull/11030#pullrequestreview-4840295201) - 2026-08-03
+* [Review] [Review on: Dependencies update](https://github.com/Consensys/teku/pull/11031#pullrequestreview-4840054421) - 2026-08-03
 ## Q2 2026
 
 

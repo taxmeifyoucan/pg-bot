@@ -171,6 +171,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: use parent block slot for attestation payload availability](https://github.com/ChainSafe/lodestar/pull/9731#pullrequestreview-4834424186) - 2026-08-01
 * [Review] [Review on: feat: gloas deathstar fork banner](https://github.com/ChainSafe/lodestar/pull/9743#pullrequestreview-4834720388) - 2026-08-01
 * [Review] [Review on: feat: gloas polar bear banner](https://github.com/ChainSafe/lodestar/pull/9742#pullrequestreview-4834442154) - 2026-08-01
+* [Review] [Review on: fix: use UintBn64 for gloas ExecutionPayloadBid.gasLimit](https://github.com/ChainSafe/lodestar/pull/9750#pullrequestreview-4839719065) - 2026-08-02
+* [Review] [Review on: fix: use UintBn64 for gloas ExecutionPayloadBid.executionPayment](https://github.com/ChainSafe/lodestar/pull/9749#pullrequestreview-4839732891) - 2026-08-02
+* [Review] [Review on: fix: use UintBn64 for gloas targetGasLimit](https://github.com/ChainSafe/lodestar/pull/9751#pullrequestreview-4839859417) - 2026-08-02
+* [Pull Request] [fix: validate cached validator indices against state](https://github.com/ChainSafe/lodestar/pull/9748) - 2026-08-02
+* [Review] [Review on: refactor: use UintBn64 for Eth1Data.depositCount](https://github.com/ChainSafe/lodestar/pull/9747#pullrequestreview-4839595854) - 2026-08-02
+* [Pull Request] [refactor: update light_client_updates_by_range handler](https://github.com/ChainSafe/lodestar/pull/9745) - 2026-08-02
+* [Review] [Review on: refactor: update light_client_updates_by_range handler](https://github.com/ChainSafe/lodestar/pull/9745#pullrequestreview-4839256072) - 2026-08-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

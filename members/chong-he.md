@@ -31,6 +31,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Add RangeSyncBlock test that involves the envelope](https://github.com/sigp/lighthouse/pull/9717) - 2026-07-29
 * [Review] [Review on: Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682#pullrequestreview-4803691389) - 2026-07-29
 * [Review] [Review on: Fix light client updates stream](https://github.com/sigp/lighthouse/pull/9643#pullrequestreview-4816443951) - 2026-07-30
+* [Review] [Review on: Fix light client updates stream](https://github.com/sigp/lighthouse/pull/9643#pullrequestreview-4840346833) - 2026-08-03
 ## Q2 2026
 
 

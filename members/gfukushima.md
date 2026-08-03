@@ -57,6 +57,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Dependencies update](https://github.com/Consensys/teku/pull/11031) - 2026-07-30
 * [Issue] [implement validator endpoint ProduceBlockV4](https://github.com/Consensys/teku/issues/11038) - 2026-07-31
 * [Commit] [Fix edge case for BlocksByRange request (#11021)](https://github.com/Consensys/teku/commit/9f013360c73592065a0f472aea3963aacc9a71f8) - 2026-07-30
+* [Commit] [Dependencies update (#11031)](https://github.com/Consensys/teku/commit/e07f8ff19114afd8a01d32d3e5ed425dd7c817ab) - 2026-08-03
 ## Q2 2026
 
 

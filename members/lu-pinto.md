@@ -22,6 +22,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Commit] [Add ADDMOD in EVMv2 (#10792)](https://github.com/besu-eth/besu/commit/a3f67dd4773993f549172e0f648d689e20788f28) - 2026-07-27
 * [Review] [Review on: add JMH gas profiler and formulas](https://github.com/besu-eth/besu/pull/10807#pullrequestreview-4829159934) - 2026-07-31
 * [Review] [Review on: perf: UInt256.addMod fast path for power-of-two moduli](https://github.com/besu-eth/besu/pull/10623#pullrequestreview-4827468740) - 2026-07-31
+* [Review] [Review on: perf: UInt256.mulMod fast path for power-of-two moduli](https://github.com/besu-eth/besu/pull/10648#pullrequestreview-4839519760) - 2026-08-02
 ## Q2 2026
 
 

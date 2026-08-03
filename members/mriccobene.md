@@ -33,6 +33,7 @@ Team: Erigon
 * [Issue] [snapshot block retiring error on Gnosis](https://github.com/erigontech/erigon/issues/22856) - 2026-07-29
 * [Commit] [qa-tests: small test name fixes for a better visualisation inside the test report (#22770)](https://github.com/erigontech/erigon/commit/0df508727b7f6c70326b223e69f085b3b8deb2da) - 2026-07-29
 * [Commit] [qa-tests: add Claude's skills to improve the analysis of QA test results. (#22769)](https://github.com/erigontech/erigon/commit/e32436c2dc742e6502839f80d1b2e19f779b933f) - 2026-07-30
+* [Review] [Review on: rpc: prestateTracer must skip faulted opcodes](https://github.com/erigontech/erigon/pull/22941#pullrequestreview-4838206570) - 2026-08-02
 ## Q2 2026
 
 

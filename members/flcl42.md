@@ -150,6 +150,14 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Encode engine_newPayloadWithWitness witness as an RLP data string](https://github.com/NethermindEth/nethermind/pull/12635) - 2026-07-31
 * [Pull Request] [Update Glamsterdam devnet tests to v8.0.0](https://github.com/NethermindEth/nethermind/pull/12634) - 2026-07-31
 * [Review] [Review on: Expose the node's ENR in admin_nodeInfo](https://github.com/NethermindEth/nethermind/pull/12631#pullrequestreview-4828810649) - 2026-07-31
+* [Review] [Review on: fix(txpool): verify frame-transaction signatures at pool ingress](https://github.com/NethermindEth/nethermind/pull/12666#pullrequestreview-4839371567) - 2026-08-02
+* [Review] [Review on: feat(evm): add the EIP-7906 POST_TX frame mode](https://github.com/NethermindEth/nethermind/pull/12661#pullrequestreview-4838532846) - 2026-08-02
+* [Review] [Review on: feat(txpool): enforce EIP-8141 MAX_VERIFY_GAS at mempool ingress](https://github.com/NethermindEth/nethermind/pull/12637#pullrequestreview-4838262342) - 2026-08-02
+* [Review] [Review on: feat(evm): validate and charge the EIP-8272 recent-root references of a frame transaction](https://github.com/NethermindEth/nethermind/pull/12656#pullrequestreview-4838401647) - 2026-08-02
+* [Review] [Review on: feat(evm): validate, consume and charge EIP-8250 keyed nonces](https://github.com/NethermindEth/nethermind/pull/12657#pullrequestreview-4838445341) - 2026-08-02
+* [Review] [Review on: fix(txpool): do not apply EIP-3607 to frame transactions](https://github.com/NethermindEth/nethermind/pull/12636#pullrequestreview-4838208278) - 2026-08-02
+* [Review] [Review on: feat: EIP-8037 two-dimensional gas tracing (stateGasTracer + callTracer)](https://github.com/NethermindEth/nethermind/pull/12628#pullrequestreview-4838635920) - 2026-08-02
+* [Review] [Review on: fix(receipts): restore the post-merge flag before regeneration](https://github.com/NethermindEth/nethermind/pull/12641#pullrequestreview-4838344800) - 2026-08-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

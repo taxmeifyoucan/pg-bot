@@ -73,6 +73,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Remove send deposits cli](https://github.com/Consensys/teku/pull/10982#pullrequestreview-4749895045) - 2026-07-21
 * [Review] [Review on: Replace deprecated BeaconChainUtil in EpochTransitionBenchmark](https://github.com/Consensys/teku/pull/10992#pullrequestreview-4749922419) - 2026-07-22
 * [Issue] [extend tree storage to rocksdb](https://github.com/Consensys/teku/issues/10989) - 2026-07-21
+* [Issue] [[beacon api] add POST produceBlockV4](https://github.com/Consensys/teku/issues/11047) - 2026-08-02
+* [Issue] [[validator api] add per-key builders endpoints](https://github.com/Consensys/teku/issues/11046) - 2026-08-02
+* [Issue] [[beacon-api] produceBlockV4WithBid](https://github.com/Consensys/teku/issues/11045) - 2026-08-02
+* [Issue] [[beacon api] remove BlindedExecutionPayloadEnvelope in gloas](https://github.com/Consensys/teku/issues/11044) - 2026-08-02
+* [Issue] [[beacon api] builder preferences 630](https://github.com/Consensys/teku/issues/11043) - 2026-08-02
+* [Issue] [[validator api] manage validator config](https://github.com/Consensys/teku/issues/11042) - 2026-08-02
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

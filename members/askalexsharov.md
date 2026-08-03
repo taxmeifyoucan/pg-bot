@@ -620,6 +620,15 @@ Team: Erigon
 * [Review] [Review on: db/etl, tools: draw pooled ETL buffers lazily to cut race-shard memory](https://github.com/erigontech/erigon/pull/22929#pullrequestreview-4833739834) - 2026-08-01
 * [Commit] [execution/state, rpc/jsonrpc: release IntraBlockState at end of RPC handlers (#22777)](https://github.com/erigontech/erigon/commit/67ffeb19984f35207aa2c7f6af58d189d28e73df) - 2026-08-01
 * [Commit] [rawdb: receiptWriter - to hold long-living buffers. and avoid per-tx allocs  (#22899)](https://github.com/erigontech/erigon/commit/692a51565ced15dc604740d1ae44a63dcbc6f002) - 2026-08-01
+* [Review] [Review on: node: replace libdeflate with klauspost/compress for RPC HTTP gzip; one-shot responses now BestSpeed](https://github.com/erigontech/erigon/pull/22882#pullrequestreview-4839018471) - 2026-08-02
+* [Review] [Review on: QA: latest test save logs for all attempts](https://github.com/erigontech/erigon/pull/22943#pullrequestreview-4837074633) - 2026-08-02
+* [Pull Request] [execution/state: arena for parallel-path stateObjects](https://github.com/erigontech/erigon/pull/22949) - 2026-08-02
+* [Review] [Review on: execution/state: arena for parallel-path stateObjects](https://github.com/erigontech/erigon/pull/22949#pullrequestreview-4837772568) - 2026-08-02
+* [Pull Request] [execution/vm: make EVM benchmarks assert they did work](https://github.com/erigontech/erigon/pull/22950) - 2026-08-02
+* [Review] [Review on: execution/vm: make EVM benchmarks assert they did work](https://github.com/erigontech/erigon/pull/22950#pullrequestreview-4838041985) - 2026-08-02
+* [Pull Request] [execution/stagedsync: log fork-validation wrong trie root at Warn](https://github.com/erigontech/erigon/pull/22947) - 2026-08-02
+* [Pull Request] [cl/utils/eth_clock: ENR next_fork_version must not use an unscheduled fork](https://github.com/erigontech/erigon/pull/22948) - 2026-08-02
+* [Pull Request] [execution/stagedsync: don't report a wrong trie root while shutting down](https://github.com/erigontech/erigon/pull/22946) - 2026-08-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

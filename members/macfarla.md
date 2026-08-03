@@ -101,6 +101,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [flaky BootNodesGenesisSetupTest](https://github.com/besu-eth/besu/issues/10913) - 2026-07-30
 * [Issue] [flaky SnapSyncForkRecoveryAcceptanceTest](https://github.com/besu-eth/besu/issues/10910) - 2026-07-30
 * [Commit] [Improve error handling in tx pool batch processing (#10902)](https://github.com/besu-eth/besu/commit/440dd2e59f26a86afe06aff08dbd6f777923231e) - 2026-07-30
+* [Review] [Review on: fix: fix SnapSyncForkRecoveryAcceptanceTest](https://github.com/besu-eth/besu/pull/10949#pullrequestreview-4840354213) - 2026-08-03
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21
