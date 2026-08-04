@@ -20,6 +20,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Syncing v3p4 (era files).](https://github.com/status-im/nimbus-eth2/pull/8828) - 2026-07-30
 * [Review] [Review on: Avoid calling postStateValidators with empty list](https://github.com/status-im/nimbus-eth2/pull/8826#pullrequestreview-4818820302) - 2026-07-30
 * [Pull Request] [Add headers to HTTP SSE server response to avoid reverse proxy buffering.](https://github.com/status-im/nimbus-eth2/pull/8832) - 2026-08-01
+* [Pull Request] [Syncing v3p5 (blocks buffer).](https://github.com/status-im/nimbus-eth2/pull/8842) - 2026-08-03
 ## Q2 2026
 
 

@@ -38,6 +38,8 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Commit] [Update EIP-8272: make recent root changes additive](https://github.com/ethereum/EIPs/commit/37a542d24e51ba3751572dfe5c0ab65824aae39a) - 2026-07-29
 * [Commit] [Update EIP-8250: make keyed nonce changes additive](https://github.com/ethereum/EIPs/commit/8ff5c1359f94ad413c06b0ba1b2a025df8ebaed7) - 2026-07-29
 * [Pull Request] [Update EIP-8250: Define keyed mempool concurrency](https://github.com/ethereum/EIPs/pull/12039) - 2026-07-30
+* [Review] [Review on: Update EIP-8272: pin RECENT_ROOT_ADDRESS to 0x...8272](https://github.com/ethereum/EIPs/pull/12068#pullrequestreview-4843707002) - 2026-08-03
+* [Review] [Review on: Update EIP-8250: pin NONCE_MANAGER to 0x...8250](https://github.com/ethereum/EIPs/pull/12067#pullrequestreview-4841352298) - 2026-08-03
 ## Q2 2026
 
 

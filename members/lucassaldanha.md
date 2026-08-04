@@ -24,6 +24,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Fix edge case for BlocksByRange request](https://github.com/Consensys/teku/pull/11021#pullrequestreview-4814288764) - 2026-07-30
 * [Review] [Review on: Remove beaconchainutil from other test fixtures](https://github.com/Consensys/teku/pull/11030#pullrequestreview-4840295201) - 2026-08-03
 * [Review] [Review on: Dependencies update](https://github.com/Consensys/teku/pull/11031#pullrequestreview-4840054421) - 2026-08-03
+* [Review] [Review on: Remove beaconchainutil from other test fixtures](https://github.com/Consensys/teku/pull/11030#pullrequestreview-4849252910) - 2026-08-03
+* [Review] [Review on: Remove getconstants from eth2networkconfig](https://github.com/Consensys/teku/pull/11048#pullrequestreview-4849336429) - 2026-08-03
 ## Q2 2026
 
 

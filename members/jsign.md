@@ -25,6 +25,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: feat: change StatelessInput SSZ serialization to be EIP-7688 aligned](https://github.com/ethereum/execution-specs/pull/3248#pullrequestreview-4797658205) - 2026-07-28
 * [Pull Request] [feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278) - 2026-07-31
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4832633467) - 2026-07-31
+* [Pull Request] [fix(zkevm): preserve extra data in environment and update block artifact construction](https://github.com/ethereum/execution-specs/pull/3292) - 2026-08-04
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12

@@ -156,6 +156,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Filter sync committee contributions by the aggregator's own voted root (#17277)](https://github.com/OffchainLabs/prysm/commit/0837ae57c3d6dc3b2cd5ac6f060de0a7976ec367) - 2026-07-31
 * [Pull Request] [Only accept gossip bids compatible with the head view](https://github.com/OffchainLabs/prysm/pull/17288) - 2026-08-02
 * [Pull Request] [Remove unused reference counter from validator map handler](https://github.com/OffchainLabs/prysm/pull/17286) - 2026-08-01
+* [Pull Request] [Verify weak subjectivity checkpoint against the finalized canonical chain](https://github.com/OffchainLabs/prysm/pull/17295) - 2026-08-03
+* [Commit] [Remove unused reference counter from validator map handler (#17286)](https://github.com/OffchainLabs/prysm/commit/4a9884d6d55ab0792be61b6bab7f4ab44a242db6) - 2026-08-03
+* [Commit] [Only accept gossip bids compatible with the head view (#17288)](https://github.com/OffchainLabs/prysm/commit/29f34164948509de18db63772e019f0267c208be) - 2026-08-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

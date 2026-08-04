@@ -75,6 +75,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Extract plugin-api security module](https://github.com/besu-eth/besu/pull/10941#pullrequestreview-4830129932) - 2026-07-31
 * [Pull Request] [Do not start backward sync until initial sync is done](https://github.com/besu-eth/besu/pull/10944) - 2026-07-31
 * [Review] [Review on: Add a `p2p` equivalent of `--rpc-tx-feecap`](https://github.com/besu-eth/besu/pull/10819#pullrequestreview-4826786845) - 2026-07-31
+* [Pull Request] [ForkchoiceUpdate: verify world state is available for the newHead otherwise return syncing](https://github.com/besu-eth/besu/pull/10960) - 2026-08-03
+* [Commit] [Refactor engine_getPayload into a sealed version hierarchy (#10890)](https://github.com/besu-eth/besu/commit/b47d777bf11c1df480205b4f26754abb5abd0c90) - 2026-08-03
 ## Q2 2026
 
 

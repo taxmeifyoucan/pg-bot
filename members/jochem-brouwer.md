@@ -61,6 +61,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: CI: Grab latest version of eipw.](https://github.com/ethereum/EIPs/pull/11916#pullrequestreview-4825282861) - 2026-07-31
 * [Pull Request] [Config: disable markdown-spell](https://github.com/ethereum/EIPs/pull/12065) - 2026-08-01
 * [Commit] [Config: disable markdown-spell (#12065)](https://github.com/ethereum/EIPs/commit/da1bd0b0b56d63b2428edda094ea2008a2bc6cc2) - 2026-08-01
+* [Pull Request] [Update EIP-8081: PFI EIP-5920 and EIP-7923](https://github.com/ethereum/EIPs/pull/12078) - 2026-08-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -86,6 +87,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [feat(tests): add EIP-7997 case where factory is not present at fork block (#3243)](https://github.com/ethereum/execution-specs/commit/608f8783af569bd2833e90c42eb617439045412d) - 2026-07-28
 * [Review] [Review on: feat(test-benchmark): add stub account configuration, with state-actor example config](https://github.com/ethereum/execution-specs/pull/3203#pullrequestreview-4824581459) - 2026-07-31
 * [Pull Request] [fix(test-benchmark): fill benchmark blocks fully under EIP-8037 gas accounting (repricing)](https://github.com/ethereum/execution-specs/pull/3269) - 2026-07-31
+* [Review] [Review on: feat(test-benchmark): add stub account configuration, with state-actor example config](https://github.com/ethereum/execution-specs/pull/3203#pullrequestreview-4849325246) - 2026-08-03
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 

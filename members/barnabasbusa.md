@@ -25,6 +25,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge branch 'master' into bbusa/fcr](https://github.com/ethpandaops/dora/commit/2ddf2d5f2e452ccea0b3ffccbb443ad5ffdd3bba) - 2026-07-08
 * [Commit] [bump go-eth2-client to v0.1.6 release](https://github.com/ethpandaops/dora/commit/3f091af60e1516b671f9897a1720029a4424f570) - 2026-07-08
 * [Review] [Review on: fix request result simulation for post-gloas blocks](https://github.com/ethpandaops/dora/pull/809#pullrequestreview-4797272913) - 2026-07-28
+* [Review] [Review on: fix blob count for gloas blocks with missed payloads](https://github.com/ethpandaops/dora/pull/811#pullrequestreview-4842574965) - 2026-08-03
+* [Review] [Review on: Show all slot bids with parent tuple classification on slot details page](https://github.com/ethpandaops/dora/pull/810#pullrequestreview-4842537188) - 2026-08-03
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
@@ -56,6 +58,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [feat(el): use ENR bootnodes and run discv5-only](https://github.com/ethpandaops/template-devnets/pull/181) - 2026-07-29
 * [Commit] [feat(el): use ENR bootnodes and run discv5-only (#181)](https://github.com/ethpandaops/template-devnets/commit/8ae02140df46439a4964385820c897547dcbeb6c) - 2026-07-31
+* [Review] [Review on: build(deps): bump actions/checkout from 7.0.0 to 7.0.1 in the actions group](https://github.com/ethpandaops/template-devnets/pull/182#pullrequestreview-4843606511) - 2026-08-03
+* [Review] [Review on: backport generic improvements from glamsterdam-devnets and bal-devnets](https://github.com/ethpandaops/template-devnets/pull/180#pullrequestreview-4843605081) - 2026-08-03
+* [Review] [Review on: playbook: deploy tysm canary configs from templates](https://github.com/ethpandaops/template-devnets/pull/183#pullrequestreview-4843391183) - 2026-08-03
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Add version envelope to Gloas event stream events](https://github.com/status-im/nimbus-eth2/pull/8816) - 2026-07-28
 
@@ -64,6 +69,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [Expose the node's ENR in admin_nodeInfo](https://github.com/NethermindEth/nethermind/pull/12631) - 2026-07-31
+
+* [Issue] [eth_syncing returns false during entire forward sync once head tracks bestSuggested](https://github.com/NethermindEth/nethermind/issues/12673) - 2026-08-03
+* [Commit] [Expose the node's ENR in admin_nodeInfo (#12631)](https://github.com/NethermindEth/nethermind/commit/16d2e23ac398b52f4f2d2417f3ddc8e3b7d2f18c) - 2026-08-03
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [eth_syncing returns false during entire snap sync (block import + world state heal)](https://github.com/besu-eth/besu/issues/10961) - 2026-08-03
 ## Q2 2026
 
 

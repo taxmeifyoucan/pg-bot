@@ -35,6 +35,10 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [builders progressive (#16896)](https://github.com/OffchainLabs/prysm/commit/985daebec2d0dae3e8659b116a88e936173a20f8) - 2026-07-28
 * [Commit] [builder pending withdrawals progressive ssz (#16887)](https://github.com/OffchainLabs/prysm/commit/ef420771a4268140c9aa60534ca99c2350c3d32a) - 2026-07-28
 * [Pull Request] [add attestationGloas and replace usages](https://github.com/OffchainLabs/prysm/pull/17258) - 2026-07-29
+* [Pull Request] [add IndexedAttestationGloas and AttesterSlashingGloas](https://github.com/OffchainLabs/prysm/pull/17290) - 2026-08-03
+* [Review] [Review on: Fix incompatibilities between `--beacon-db-pruning` and `--enable-state-diff`.](https://github.com/OffchainLabs/prysm/pull/17287#pullrequestreview-4843154424) - 2026-08-03
+* [Pull Request] [partial rebuilds for beacon state progressive HTR](https://github.com/OffchainLabs/prysm/pull/17291) - 2026-08-03
+* [Commit] [add attestationGloas and replace usages (#17258)](https://github.com/OffchainLabs/prysm/commit/a685df778f2775e2396c81b4ff3ea97306dacb6b) - 2026-08-03
 ## Q2 2026
 
 

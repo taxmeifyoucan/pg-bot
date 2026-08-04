@@ -61,6 +61,7 @@ Team: Geth
 * [Review] [Review on: core: rolling history expiry](https://github.com/ethereum/go-ethereum/pull/34104#pullrequestreview-4701405273) - 2026-07-15
 
 * [Review] [Review on: version: release v1.17.5](https://github.com/ethereum/go-ethereum/pull/35421#pullrequestreview-4783275640) - 2026-07-27
+* [Review] [Review on: core: update to newest parameters](https://github.com/ethereum/go-ethereum/pull/35454#pullrequestreview-4844006267) - 2026-08-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4744394254) - 2026-07-21
 

@@ -46,6 +46,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Commit] [Config: Populate personal dictionary for markdown-spell](https://github.com/ethereum/EIPs/commit/ce7657b215ce11f7f0f78e48b0901dfaa67e61a9) - 2026-07-31
 * [Commit] [Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/commit/78525144ee85c57f50e5e6675ca3561d3101caeb) - 2026-07-31
 * [Commit] [Update EIP-8038: derive access list costs from cold access costs](https://github.com/ethereum/EIPs/commit/341f3f8266d6cff87bce56c81bb3b2a740d42f6b) - 2026-07-31
+* [Pull Request] [Update EIP-8347: Align with EIP-8297 zeroization](https://github.com/ethereum/EIPs/pull/12076) - 2026-08-03
+* [Commit] [Update EIP-8347: Align with EIP-8297 zeroization](https://github.com/ethereum/EIPs/commit/e50eb1731db77db40799e96f05f7a2480aae9c8b) - 2026-08-03
 ## Q2 2026
 
 

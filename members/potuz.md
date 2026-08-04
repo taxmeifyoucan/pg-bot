@@ -63,6 +63,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Advertise the current head to the execution client during Gloas initial-sync](https://github.com/OffchainLabs/prysm/pull/17275#pullrequestreview-4818760630) - 2026-07-30
 * [Review] [Review on: Filter sync committee contributions by the aggregator's own voted root](https://github.com/OffchainLabs/prysm/pull/17277#pullrequestreview-4828281897) - 2026-07-31
 * [Review] [Review on: Only accept gossip bids compatible with the head view](https://github.com/OffchainLabs/prysm/pull/17288#pullrequestreview-4839359134) - 2026-08-02
+* [Pull Request] [Gloas builder circuit breaker: single builder tracking](https://github.com/OffchainLabs/prysm/pull/17294) - 2026-08-03
+* [Pull Request] [Gloas builder circuit breaker: single builder tracking](https://github.com/OffchainLabs/prysm/pull/17293) - 2026-08-03
+* [Pull Request] [Archive mode: backfill to a past state and regenerate history into the hdiff tree](https://github.com/OffchainLabs/prysm/pull/17292) - 2026-08-03
+* [Commit] [Reorg late blocks even on slot 31 (#17257)](https://github.com/OffchainLabs/prysm/commit/83713b2708ebd0d4512a79c3039e62a32a022a73) - 2026-08-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

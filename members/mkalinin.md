@@ -22,6 +22,8 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Commit] [Backport `is_parent_strong` and `is_head_weak` changes to Phase0 (#5401)](https://github.com/ethereum/consensus-specs/commit/e656e15e19cd68f0ca8b87dbf086bc33de90af9c) - 2026-07-26
 * [Review] [Review on: Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490#pullrequestreview-4805098241) - 2026-07-29
 * [Review] [Review on: Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489#pullrequestreview-4805009692) - 2026-07-29
+* [Review] [Review on: Fix duplicate FCR run in stale GU test](https://github.com/ethereum/consensus-specs/pull/5499#pullrequestreview-4841084557) - 2026-08-03
+* [Review] [Review on: Run FCR at epoch boundary in consecutive slots test](https://github.com/ethereum/consensus-specs/pull/5498#pullrequestreview-4840998130) - 2026-08-03
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Register `CN` for Caplin](https://github.com/ethereum/execution-apis/pull/844#pullrequestreview-4647866464) - 2026-07-07
 

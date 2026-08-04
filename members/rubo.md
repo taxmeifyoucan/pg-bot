@@ -52,8 +52,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/12663#pullrequestreview-4839749121) - 2026-08-02
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12664#pullrequestreview-4839748630) - 2026-08-02
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12665#pullrequestreview-4839748178) - 2026-08-02
+* [Pull Request] [ci: disable stateless glamsterdam-devnet-7 scheduled run](https://github.com/NethermindEth/nethermind/pull/12680) - 2026-08-03
+* [Commit] [ci: disable stateless glamsterdam-devnet-7 scheduled run (#12680)](https://github.com/NethermindEth/nethermind/commit/c91f57350c482382c65d5bf198a6870726507f07) - 2026-08-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
+* [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03
 ## Q2 2026
 
 

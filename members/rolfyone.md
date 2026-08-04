@@ -79,6 +79,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [[beacon api] remove BlindedExecutionPayloadEnvelope in gloas](https://github.com/Consensys/teku/issues/11044) - 2026-08-02
 * [Issue] [[beacon api] builder preferences 630](https://github.com/Consensys/teku/issues/11043) - 2026-08-02
 * [Issue] [[validator api] manage validator config](https://github.com/Consensys/teku/issues/11042) - 2026-08-02
+* [Review] [Review on: Implement spec layer for light client](https://github.com/Consensys/teku/pull/11012#pullrequestreview-4841479443) - 2026-08-03
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

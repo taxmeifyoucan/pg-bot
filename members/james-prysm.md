@@ -120,6 +120,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Fix unfilled format verb in `data_column_sidecar_` metric](https://github.com/OffchainLabs/prysm/pull/17254#pullrequestreview-4829272233) - 2026-07-31
 * [Review] [Review on: Remove unused reference counter from validator map handler](https://github.com/OffchainLabs/prysm/pull/17286#pullrequestreview-4834827599) - 2026-08-01
 * [Commit] [Endpoints validator logs cleanup (#17284)](https://github.com/OffchainLabs/prysm/commit/2f73503cd4b8e92b9b26972fe0a02082157ee435) - 2026-08-01
+* [Review] [Review on:  delay next epoch duties call for post gloas ](https://github.com/OffchainLabs/prysm/pull/17268#pullrequestreview-4845070999) - 2026-08-03
+* [Review] [Review on: Implement Web3Signer public key hot reload via URL](https://github.com/OffchainLabs/prysm/pull/17229#pullrequestreview-4847775400) - 2026-08-03
+* [Review] [Review on: add IndexedAttestationGloas and AttesterSlashingGloas](https://github.com/OffchainLabs/prysm/pull/17290#pullrequestreview-4846007304) - 2026-08-03
 ## Q2 2026
 
 

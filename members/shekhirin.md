@@ -42,6 +42,8 @@ Team: Reth
 * [Review] [Review on: fix(discv5): default to port 30303](https://github.com/paradigmxyz/reth/pull/26537#pullrequestreview-4819881383) - 2026-07-30
 * [Review] [Review on: fix(net): keep ENR ports paired with their IP address](https://github.com/paradigmxyz/reth/pull/26529#pullrequestreview-4819563963) - 2026-07-30
 * [Review] [Review on: fix(trie): propagate proof worker startup failures](https://github.com/paradigmxyz/reth/pull/26545#pullrequestreview-4828963387) - 2026-07-31
+* [Review] [Review on: feat(rpc): support network-specific log responses](https://github.com/paradigmxyz/reth/pull/26491#pullrequestreview-4845507748) - 2026-08-03
+* [Review] [Review on: perf(rpc): reuse a single EVM across transaction replay in tracing RPCs](https://github.com/paradigmxyz/reth/pull/26561#pullrequestreview-4845469207) - 2026-08-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

@@ -47,6 +47,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [feat(specs,amsterdam): EIP-2780 - fold transfer log cost into value transfer cost (#3214)](https://github.com/ethereum/execution-specs/commit/1311ff376d2f7fbd5270e38e7bf13847c14b883e) - 2026-07-29
 * [Review] [Review on: refactor(spec-specs,tests): rename REGULAR_PER_AUTH_BASE_COST to EXECUTION_PER_AUTH_BASE_COST](https://github.com/ethereum/execution-specs/pull/3263#pullrequestreview-4817260427) - 2026-07-30
 * [Review] [Review on: refactor(amsterdam): Re-factor Amsterdam + Preparation for EIP-8141](https://github.com/ethereum/execution-specs/pull/3192#pullrequestreview-4826392020) - 2026-07-31
+* [Review] [Review on: refactor(spec-specs): decode withdrawal amount as uint64 per EIP-4895](https://github.com/ethereum/execution-specs/pull/3186#pullrequestreview-4844441669) - 2026-08-03
+* [Review] [Review on: refactor(spec-specs): move priority-fee check to validate_transaction](https://github.com/ethereum/execution-specs/pull/3056#pullrequestreview-4843822981) - 2026-08-03
 ## Q2 2026
 
 

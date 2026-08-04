@@ -141,6 +141,20 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf(bal): reuse cached wire hash for block access list hash](https://github.com/NethermindEth/nethermind/pull/12381#pullrequestreview-4693241243) - 2026-07-14
 * [Review] [Review on: perf(flat): serve snap responses as pre-serialized RLP](https://github.com/NethermindEth/nethermind/pull/12472#pullrequestreview-4713294188) - 2026-07-16
 * [Review] [Review on: perf(db): batched RocksDB MultiGet for flat BAL warmup — contiguous slices, no block-cache fill](https://github.com/NethermindEth/nethermind/pull/12467#pullrequestreview-4713305467) - 2026-07-16
+* [Pull Request] [feat(consensus): BAL apply timing metrics + shadow-mode BAL state root comparison](https://github.com/NethermindEth/nethermind/pull/12683) - 2026-08-03
+* [Pull Request] [test(benchmark): flat-state base point-read benchmark (RocksDB vs sorted-arena vs LMDB)](https://github.com/NethermindEth/nethermind/pull/12684) - 2026-08-03
+* [Pull Request] [perf(state): skip trie warmup for read-only BAL accounts in flat layout](https://github.com/NethermindEth/nethermind/pull/12681) - 2026-08-03
+* [Review] [Review on: perf(state): skip trie warmup for read-only BAL accounts in flat layout](https://github.com/NethermindEth/nethermind/pull/12681#pullrequestreview-4848786076) - 2026-08-03
+* [Pull Request] [perf(state): auto-scale FlatDb.BlockCacheSizeBudget with system memory](https://github.com/NethermindEth/nethermind/pull/12682) - 2026-08-03
+* [Review] [Review on: ci: disable stateless glamsterdam-devnet-7 scheduled run](https://github.com/NethermindEth/nethermind/pull/12680#pullrequestreview-4847323290) - 2026-08-03
+* [Review] [Review on: test: eth_createAccessList affordability with omitted fee fields](https://github.com/NethermindEth/nethermind/pull/12629#pullrequestreview-4842388101) - 2026-08-03
+* [Review] [Review on: Expose the node's ENR in admin_nodeInfo](https://github.com/NethermindEth/nethermind/pull/12631#pullrequestreview-4843448299) - 2026-08-03
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12664#pullrequestreview-4842087208) - 2026-08-03
+* [Pull Request] [Deflake PreWarmCaches_ReturnsAddressWarmEnvWhenScopeBuildThrows](https://github.com/NethermindEth/nethermind/pull/12669) - 2026-08-03
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/12663#pullrequestreview-4842082096) - 2026-08-03
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12665#pullrequestreview-4842173604) - 2026-08-03
+* [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/12667#pullrequestreview-4842074643) - 2026-08-03
+* [Review] [Review on: Rename EIP-8037 regular gas dimension to execution gas](https://github.com/NethermindEth/nethermind/pull/12600#pullrequestreview-4842071527) - 2026-08-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

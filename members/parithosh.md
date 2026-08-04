@@ -24,6 +24,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [feat(playbooks): add single-node blackout & recovery playbook](https://github.com/ethpandaops/assertoor/pull/218) - 2026-07-13
 * [Pull Request] [feat(tasks): add run_network_disruption task and rewrite blackout playbook](https://github.com/ethpandaops/assertoor/pull/219) - 2026-07-14
+
+[ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
+* [Pull Request] [playbook: deploy tysm canary configs from templates](https://github.com/ethpandaops/template-devnets/pull/183) - 2026-08-03
+* [Review] [Review on: playbook: deploy tysm canary configs from templates](https://github.com/ethpandaops/template-devnets/pull/183#pullrequestreview-4843400718) - 2026-08-03
 ## Q2 2026
 
 

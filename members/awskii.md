@@ -202,6 +202,9 @@ Team: Erigon
 * [Commit] [db/snaptype: separate core/caplin/bor enum ranges; panic on duplicate registration (#22878)](https://github.com/erigontech/erigon/commit/f8f14dd4f93b25afe5c3c7df6ba60267e4dd807b) - 2026-07-31
 * [Pull Request] [cl, db: caplin snapshot pre-fixes (cancellation, races, verify and preverified filter gaps)](https://github.com/erigontech/erigon/pull/22944) - 2026-08-01
 * [Pull Request] [EIP-8297 partitioned binary tree commitment engine](https://github.com/erigontech/erigon/pull/22942) - 2026-08-01
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 ## Q2 2026
 
 

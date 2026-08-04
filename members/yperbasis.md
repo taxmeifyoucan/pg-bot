@@ -331,6 +331,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl, execution: convert base fee with uint256 SSZ codecs (#22930)](https://github.com/erigontech/erigon/commit/9ef4944f28afd192ccfd8ceb977a516647312c18) - 2026-08-01
 * [Commit] [cl/rpc: reject Gloas schema-slot mismatches at the RPC boundary (#22907)](https://github.com/erigontech/erigon/commit/2e972d1af5bf16443f39eddee84ac88888d2d7fb) - 2026-08-01
 * [Commit] [db/etl, tools: draw pooled ETL buffers lazily to cut race-shard memory (#22929)](https://github.com/erigontech/erigon/commit/7c638341e8cc8635cdc68acfe0e1a92bf41c3af6) - 2026-08-01
+* [Review] [Review on: db/state: consolidate openDirtyFiles implementations](https://github.com/erigontech/erigon/pull/22178#pullrequestreview-4848182279) - 2026-08-03
+* [Pull Request] [execution/engineapi: validate getPayload forks and blob bundles](https://github.com/erigontech/erigon/pull/22985) - 2026-08-03
+* [Pull Request] [cl/ssz, common/ssz, engineapi: validate nested strict offsets](https://github.com/erigontech/erigon/pull/22988) - 2026-08-03
+* [Review] [Review on: exec: stop re-hashing bytecode on every state-object load](https://github.com/erigontech/erigon/pull/22956#pullrequestreview-4843130570) - 2026-08-03
+* [Review] [Review on: docs: network tabs, ext4/XFS guidance, and README-only content moved to the site](https://github.com/erigontech/erigon/pull/22919#pullrequestreview-4843699857) - 2026-08-03
+* [Review] [Review on: node: replace libdeflate with klauspost/compress for RPC HTTP gzip; one-shot responses now BestSpeed](https://github.com/erigontech/erigon/pull/22882#pullrequestreview-4842852759) - 2026-08-03
+* [Review] [Review on: exec: drop eager formatting from hot paths](https://github.com/erigontech/erigon/pull/22953#pullrequestreview-4843032193) - 2026-08-03
+* [Pull Request] [[r3.6] rpc: fix non-deterministic eth_estimateGas caused by stale cancel of shared EVM](https://github.com/erigontech/erigon/pull/22968) - 2026-08-03
+* [Review] [Review on: execution: align versioned finalization with EIP-161 and EIP-7928](https://github.com/erigontech/erigon/pull/22873#pullrequestreview-4843092067) - 2026-08-03
+* [Review] [Review on: vm benchmarks: switch to parallel-exec (versioned maps, noMaterialize=true, etc...)](https://github.com/erigontech/erigon/pull/22950#pullrequestreview-4842762426) - 2026-08-03
+* [Issue] [execution/types: follow-up simplifications for EIP-7702 authorization signing](https://github.com/erigontech/erigon/issues/22966) - 2026-08-03
+* [Commit] [execution: make pre-execution validation side-effect free (#21907)](https://github.com/erigontech/erigon/commit/8e6567448b3817f1e2bf54b0098e9b9775e1d28c) - 2026-08-03
+* [Commit] [cl: simplify Engine API calls and fix SSZ size accounting (#22176)](https://github.com/erigontech/erigon/commit/ea1fb7f485ac5a6c4565ebf65f2d44c82ee5beeb) - 2026-08-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

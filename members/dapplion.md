@@ -22,6 +22,16 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Propagate EIP-8025 execution proofs on gossip behind a flag](https://github.com/sigp/lighthouse/pull/9659#pullrequestreview-4728963506) - 2026-07-18
 * [Review] [Review on: Move `SlotAssignment` cache to `CanonicalHead`](https://github.com/sigp/lighthouse/pull/9661#pullrequestreview-4730741229) - 2026-07-19
 * [Review] [Review on: Heze fork boilerplate](https://github.com/sigp/lighthouse/pull/9573#pullrequestreview-4773531427) - 2026-07-24
+
+* [Review] [Review on: Eagerly sign sync committee messages on head events](https://github.com/sigp/lighthouse/pull/9675#pullrequestreview-4849355539) - 2026-08-03
+* [Review] [Review on: Fix incorrect discv5 NAT status in /lighthouse/nat](https://github.com/sigp/lighthouse/pull/9303#pullrequestreview-4849037787) - 2026-08-03
+* [Pull Request] [Reject duplicate epochs when deserializing BlobSchedule](https://github.com/sigp/lighthouse/pull/9740) - 2026-08-03
+* [Pull Request] [Export canonical process metrics via prometheus ProcessCollector](https://github.com/sigp/lighthouse/pull/9736) - 2026-08-03
+* [Review] [Review on: Export canonical process metrics via prometheus ProcessCollector](https://github.com/sigp/lighthouse/pull/9736#pullrequestreview-4844161055) - 2026-08-03
+* [Review] [Review on: Fix light client updates stream](https://github.com/sigp/lighthouse/pull/9643#pullrequestreview-4843919491) - 2026-08-03
+* [Issue] [Don't run cargo audit on PRs](https://github.com/sigp/lighthouse/issues/9738) - 2026-08-03
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 ## Q2 2026
 
 

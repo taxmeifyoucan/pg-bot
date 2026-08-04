@@ -140,6 +140,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Move envelope signature verification helper to beacon-chain.md](https://github.com/ethereum/consensus-specs/pull/5505#pullrequestreview-4835144333) - 2026-08-01
 * [Review] [Review on: Add compliance test generation smoke check](https://github.com/ethereum/consensus-specs/pull/5504#pullrequestreview-4834556569) - 2026-08-01
 * [Review] [Review on: Fix missing KZG trusted setup when generating compliance tests](https://github.com/ethereum/consensus-specs/pull/5503#pullrequestreview-4834544521) - 2026-08-01
+* [Review] [Review on: Improve the readability of IL store](https://github.com/ethereum/consensus-specs/pull/5507#pullrequestreview-4843874613) - 2026-08-03
+* [Review] [Review on: Rename the max IL transaction size constant name](https://github.com/ethereum/consensus-specs/pull/5508#pullrequestreview-4843363047) - 2026-08-03
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5510#pullrequestreview-4843375355) - 2026-08-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

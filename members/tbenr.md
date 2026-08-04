@@ -78,6 +78,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [fix isAttestationSameSlot (#11028)](https://github.com/Consensys/teku/commit/bec7d9abfe89232825c7edb0b6db137f2b9e8c76) - 2026-07-30
 * [Review] [Review on: publish submitted bids to gossip](https://github.com/Consensys/teku/pull/11040#pullrequestreview-4829353834) - 2026-07-31
 * [Review] [Review on: fix Gloas bid gas limit validation](https://github.com/Consensys/teku/pull/11024#pullrequestreview-4826879294) - 2026-07-31
+* [Review] [Review on: allow builders to bid on multiple branches](https://github.com/Consensys/teku/pull/11049#pullrequestreview-4844054636) - 2026-08-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

@@ -34,6 +34,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: refactor: remove bun runtime support](https://github.com/ChainSafe/lodestar/pull/9719#pullrequestreview-4820535111) - 2026-07-30
 * [Review] [Review on: fix: use proposer lookahead for next epoch proposer cache](https://github.com/ChainSafe/lodestar/pull/9730#pullrequestreview-4817926806) - 2026-07-30
 * [Review] [Review on: chore: fix typo in validator config verification log](https://github.com/ChainSafe/lodestar/pull/9737#pullrequestreview-4828289498) - 2026-07-31
+* [Review] [Review on: fix: ignore parent bids at epoch boundary](https://github.com/ChainSafe/lodestar/pull/9756#pullrequestreview-4846361328) - 2026-08-03
+* [Pull Request] [fix: use attested slot for light client response context](https://github.com/ChainSafe/lodestar/pull/9760) - 2026-08-03
+* [Review] [Review on: fix: use attested slot for light client response context](https://github.com/ChainSafe/lodestar/pull/9760#pullrequestreview-4846164618) - 2026-08-03
+* [Commit] [fix: use attested slot for light client response context (#9760)](https://github.com/ChainSafe/lodestar/commit/18a1510f34c012a43ab8410b55749156b90095af) - 2026-08-03
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01

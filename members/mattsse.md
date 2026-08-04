@@ -193,12 +193,29 @@ Team: Reth
 * [Review] [Review on: feat: add -`-with-receipts` to `import-era` to store receipts](https://github.com/paradigmxyz/reth/pull/26436#pullrequestreview-4827553566) - 2026-07-31
 * [Review] [Review on: fix(rpc): cap implicit simulate gas limit](https://github.com/paradigmxyz/reth/pull/26502#pullrequestreview-4827302368) - 2026-07-31
 * [Commit] [fix(rpc): stop cancelled payload body range requests (#26546)](https://github.com/paradigmxyz/reth/commit/8bfea20a911f3724000c5e927a3763ef84cf8cac) - 2026-07-31
+* [Review] [Review on: feat: make testing rpc handler generic over types](https://github.com/paradigmxyz/reth/pull/26547#pullrequestreview-4849920232) - 2026-08-04
+* [Pull Request] [fix(engine): emit canon state notifications on canonical head unwind](https://github.com/paradigmxyz/reth/pull/26568) - 2026-08-04
+* [Pull Request] [feat(engine): build payloads on canonical ancestors above finality](https://github.com/paradigmxyz/reth/pull/26567) - 2026-08-03
+* [Review] [Review on: feat(engine): build payloads on canonical ancestors above finality](https://github.com/paradigmxyz/reth/pull/26567#pullrequestreview-4849556785) - 2026-08-04
+* [Review] [Review on: feat(txpool): track blob cell availability](https://github.com/paradigmxyz/reth/pull/25463#pullrequestreview-4849169092) - 2026-08-03
+* [Review] [Review on: feat(config): add bootnodes to reth.toml](https://github.com/paradigmxyz/reth/pull/26551#pullrequestreview-4849059076) - 2026-08-03
+* [Review] [Review on: fix(rpc): include block numbers in pruned history error](https://github.com/paradigmxyz/reth/pull/26550#pullrequestreview-4848728448) - 2026-08-03
+* [Pull Request] [fix(static-file): respect prune checkpoints in consistency check](https://github.com/paradigmxyz/reth/pull/26565) - 2026-08-03
+* [Review] [Review on: feat(rpc): support network-specific log responses](https://github.com/paradigmxyz/reth/pull/26491#pullrequestreview-4845604845) - 2026-08-03
+* [Pull Request] [chore(deps): update Alloy and Tokio Tungstenite](https://github.com/paradigmxyz/reth/pull/26562) - 2026-08-03
+* [Pull Request] [perf(rpc): reuse a single EVM across transaction replay in tracing RPCs](https://github.com/paradigmxyz/reth/pull/26561) - 2026-08-03
+* [Review] [Review on: chore(deps): bump the ci-weekly group with 3 updates](https://github.com/paradigmxyz/reth/pull/26556#pullrequestreview-4842856930) - 2026-08-03
+* [Review] [Review on: feat(rpc): add eth_getMultiProof](https://github.com/paradigmxyz/reth/pull/26555#pullrequestreview-4842359292) - 2026-08-03
+* [Commit] [chore(deps): update Alloy and Tokio Tungstenite (#26562)](https://github.com/paradigmxyz/reth/commit/7a98a9c7ac857b14fb07a2014fe1fd5ca2868523) - 2026-08-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
 
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Pull Request] [fix: resend active WHOAREYOU challenge](https://github.com/sigp/discv5/pull/309) - 2026-07-30
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8070: clarify RLP empty-list encoding](https://github.com/ethereum/EIPs/pull/12079) - 2026-08-04
 ## Q2 2026
 
 

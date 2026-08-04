@@ -40,6 +40,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Implement builder client](https://github.com/grandinetech/grandine/pull/830) - 2026-07-28
 * [Issue] [[Bug] One malformed payload envelope can block its descendent blocks import even after the valid payload has been accepted](https://github.com/grandinetech/grandine/issues/832) - 2026-07-28
 * [Issue] [glamsterdam-devnet-8](https://github.com/grandinetech/grandine/issues/835) - 2026-07-30
+* [Pull Request] [Gloas bid selection](https://github.com/grandinetech/grandine/pull/837) - 2026-08-03
 ## Q2 2026
 
 

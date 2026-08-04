@@ -23,11 +23,15 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Issue] [EIP-8297: account deletion diverges between state_mpt and state_pbt, visible through EIP-7610](https://github.com/ethereum/execution-specs/issues/3253) - 2026-07-29
 * [Review] [Review on: chore(do not merge): add code to 8297 to show deletion logic](https://github.com/ethereum/execution-specs/pull/3250#pullrequestreview-4819180117) - 2026-07-30
 * [Review] [Review on: chore(do not merge): add code to 8297 to show deletion logic](https://github.com/ethereum/execution-specs/pull/3250#pullrequestreview-4829910622) - 2026-07-31
+* [Review] [Review on: feat(test-types): Fork-based State Commitment Property in Alloc](https://github.com/ethereum/execution-specs/pull/3279#pullrequestreview-4843348063) - 2026-08-03
+* [Pull Request] [feat(forks): let development forks inherit exact-fork validity](https://github.com/ethereum/execution-specs/pull/3289) - 2026-08-03
+* [Pull Request] [fix(binary_trie): raise typed errors from state-root computation](https://github.com/ethereum/execution-specs/pull/3288) - 2026-08-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/pull/12027) - 2026-07-29
 
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4827296839) - 2026-07-31
 * [Commit] [Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/commit/c6336fc72a9eecc5cbc736a4fe4c7cf8f706b510) - 2026-07-31
+* [Review] [Review on: Update EIP-8347: Align with EIP-8297 zeroization](https://github.com/ethereum/EIPs/pull/12076#pullrequestreview-4846447965) - 2026-08-03
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436) - 2026-07-29
 ## Q2 2026

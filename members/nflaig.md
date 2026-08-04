@@ -178,6 +178,24 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: use UintBn64 for Eth1Data.depositCount](https://github.com/ChainSafe/lodestar/pull/9747#pullrequestreview-4839595854) - 2026-08-02
 * [Pull Request] [refactor: update light_client_updates_by_range handler](https://github.com/ChainSafe/lodestar/pull/9745) - 2026-08-02
 * [Review] [Review on: refactor: update light_client_updates_by_range handler](https://github.com/ChainSafe/lodestar/pull/9745#pullrequestreview-4839256072) - 2026-08-02
+* [Pull Request] [chore: add gloas ethspecify references](https://github.com/ChainSafe/lodestar/pull/9753) - 2026-08-03
+* [Review] [Review on: chore: add gloas ethspecify references](https://github.com/ChainSafe/lodestar/pull/9753#pullrequestreview-4842958033) - 2026-08-03
+* [Pull Request] [fix: ignore parent bids at epoch boundary](https://github.com/ChainSafe/lodestar/pull/9756) - 2026-08-03
+* [Review] [Review on: fix: ignore parent bids at epoch boundary](https://github.com/ChainSafe/lodestar/pull/9756#pullrequestreview-4844654179) - 2026-08-03
+* [Review] [Review on: fix: use attested slot for light client response context](https://github.com/ChainSafe/lodestar/pull/9760#pullrequestreview-4846386473) - 2026-08-03
+* [Pull Request] [feat: implement consensus_and_equivocation for blocks and payload envelopes](https://github.com/ChainSafe/lodestar/pull/9757) - 2026-08-03
+* [Review] [Review on: feat: builder initial setup](https://github.com/ChainSafe/lodestar/pull/9758#pullrequestreview-4846324155) - 2026-08-03
+* [Review] [Review on: chore(deps): bump the actions group across 1 directory with 8 updates](https://github.com/ChainSafe/lodestar/pull/9759#pullrequestreview-4845933850) - 2026-08-03
+* [Review] [Review on: refactor: use UintBn64 for Eth1Data.depositCount](https://github.com/ChainSafe/lodestar/pull/9747#pullrequestreview-4842987565) - 2026-08-03
+* [Review] [Review on: fix: use UintBn64 for gloas targetGasLimit](https://github.com/ChainSafe/lodestar/pull/9751#pullrequestreview-4842896505) - 2026-08-03
+* [Review] [Review on: fix: skip sync committee participation while node is optimistic](https://github.com/ChainSafe/lodestar/pull/9752#pullrequestreview-4842633834) - 2026-08-03
+* [Review] [Review on: fix: use UintBn64 for gloas ExecutionPayloadBid.executionPayment](https://github.com/ChainSafe/lodestar/pull/9749#pullrequestreview-4842590360) - 2026-08-03
+* [Review] [Review on: fix: use UintBn64 for gloas ExecutionPayloadBid.gasLimit](https://github.com/ChainSafe/lodestar/pull/9750#pullrequestreview-4842097483) - 2026-08-03
+* [Commit] [ci: expand native portability checks (#9642)](https://github.com/ChainSafe/lodestar/commit/40d3816715a0432aea3a269312f149510e256cfd) - 2026-08-03
+* [Commit] [fix: validate cached validator indices against state (#9748)](https://github.com/ChainSafe/lodestar/commit/aa562e67935b01d71a593c3dd770f16265927d01) - 2026-08-03
+* [Commit] [refactor: validate light_client_updates_by_range handler (#9745)](https://github.com/ChainSafe/lodestar/commit/cae84b66d597383ef4dbf160a74c043f4940a910) - 2026-08-03
+* [Commit] [feat: allow multiple bids compatible with the head view (#9739)](https://github.com/ChainSafe/lodestar/commit/dbe9dc8ef18b79b1695a44294393bba32f8b7d57) - 2026-08-03
+* [Commit] [fix: use parent block slot for attestation payload availability (#9731)](https://github.com/ChainSafe/lodestar/commit/d9065a2b16700265436051d79c685facecce1df1) - 2026-08-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

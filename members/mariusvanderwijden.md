@@ -59,6 +59,8 @@ Team: Geth
 * [Commit] [miner: don't seal block if a db error occurred (#35427)](https://github.com/ethereum/go-ethereum/commit/1bfc028d4353ca808f17170abf949f7f7b72cc5c) - 2026-07-28
 * [Review] [Review on: accounts/abi/abigen: use original names for custom errors](https://github.com/ethereum/go-ethereum/pull/35332#pullrequestreview-4818216235) - 2026-07-30
 * [Review] [Review on: accounts/abi: set stringKind for contract-typed arguments](https://github.com/ethereum/go-ethereum/pull/35345#pullrequestreview-4818222272) - 2026-07-30
+* [Pull Request] [core: update to newest parameters](https://github.com/ethereum/go-ethereum/pull/35454) - 2026-08-03
+* [Pull Request] [Glamsterdam devnet 8](https://github.com/ethereum/go-ethereum/pull/35453) - 2026-08-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 ## Q2 2026

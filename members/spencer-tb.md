@@ -148,6 +148,15 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): cover EIP-8282 builder request dequeues in block access lists (#3270)](https://github.com/ethereum/execution-specs/commit/9d6e6f8352a0f76e7e8803722d1a2798fa4f0a96) - 2026-07-31
 * [Commit] [feat(ci): fill benchmark tests at 1M gas on every PR (#3273)](https://github.com/ethereum/execution-specs/commit/c17999c02b7258c5c731688455dce914275423c4) - 2026-07-31
 * [Commit] [fix(spec-specs,tests): reprice EIP-8038 access-list costs to cold minus warm (#3271)](https://github.com/ethereum/execution-specs/commit/a2571e49287644debf6bcaaad35aa8bb0f084de9) - 2026-07-31
+* [Review] [Review on: feat(test-types): Fork-based State Commitment Property in Alloc](https://github.com/ethereum/execution-specs/pull/3279#pullrequestreview-4843975609) - 2026-08-03
+* [Review] [Review on: fix(test-benchmark): fill benchmark blocks fully under EIP-8037 gas accounting (repricing)](https://github.com/ethereum/execution-specs/pull/3269#pullrequestreview-4842486236) - 2026-08-03
+* [Pull Request] [fix(test-execute): report each test as an individual hive test case](https://github.com/ethereum/execution-specs/pull/3287) - 2026-08-03
+* [Review] [Review on: refactor(test-benchmark): split stateful setup transactions across blocks](https://github.com/ethereum/execution-specs/pull/3282#pullrequestreview-4845260981) - 2026-08-03
+* [Review] [Review on: refactor(spec-specs): decode withdrawal amount as uint64 per EIP-4895](https://github.com/ethereum/execution-specs/pull/3186#pullrequestreview-4843692346) - 2026-08-03
+* [Pull Request] [feat(test-forks): `--state-trie` state-commitment override (on top of #3279)](https://github.com/ethereum/execution-specs/pull/3285) - 2026-08-03
+* [Review] [Review on: refactor(spec-specs): move priority-fee check to validate_transaction](https://github.com/ethereum/execution-specs/pull/3056#pullrequestreview-4843243001) - 2026-08-03
+* [Pull Request] [refactor(tests): inline resolved expect posts in ported static tests](https://github.com/ethereum/execution-specs/pull/3284) - 2026-08-03
+* [Pull Request] [refactor(tests): remove dead static-filler infrastructure](https://github.com/ethereum/execution-specs/pull/3283) - 2026-08-03
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

@@ -78,12 +78,15 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [EIP-8141: per-payer mempool exposure accounting for frame transactions](https://github.com/NethermindEth/nethermind/pull/12617) - 2026-07-30
 * [Pull Request] [EIP-8141: validation-prefix simulation admission for frame transactions (MAX_VERIFY_GAS bound)](https://github.com/NethermindEth/nethermind/pull/12620) - 2026-07-30
 * [Review] [Review on: Harden BAL gas accounting boundaries](https://github.com/NethermindEth/nethermind/pull/12589#pullrequestreview-4817790659) - 2026-07-30
+* [Pull Request] [fix(rlp): advance struct-ref decode past frame-tx receipt extension](https://github.com/NethermindEth/nethermind/pull/12671) - 2026-08-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
 * [Pull Request] [Update EIP-8141: align SIGPARAM copy operand order with CALLDATACOPY](https://github.com/ethereum/EIPs/pull/12042) - 2026-07-30
 * [Pull Request] [Update EIP-8141: assembled canonical paymaster reference bytecode](https://github.com/ethereum/EIPs/pull/12041) - 2026-07-30
 * [Commit] [Update EIP-8141: align SIGPARAM copy operand order with CALLDATACOPY](https://github.com/ethereum/EIPs/commit/4a9ad32cf2c851d16ab889d643342074ea3fab95) - 2026-07-30
+* [Pull Request] [Add EIP: Transaction Validity Proofs](https://github.com/ethereum/EIPs/pull/12075) - 2026-08-03
+* [Pull Request] [Update EIP-7793: Move to Draft](https://github.com/ethereum/EIPs/pull/12077) - 2026-08-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 * [Commit] [feat(tests): add EIP-8037 spill-refund accounting coverage (#3158)](https://github.com/ethereum/execution-specs/commit/610cd779baff95f99c85442dd2fa8cc8146260b2) - 2026-07-30

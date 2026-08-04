@@ -39,6 +39,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Fix BAL state-root executor leak](https://github.com/besu-eth/besu/pull/10906) - 2026-07-29
 * [Review] [Review on: Refactor engine_getPayload into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10890#pullrequestreview-4819343309) - 2026-07-30
 * [Review] [Review on: add programmatic JMH runner with new schema](https://github.com/besu-eth/besu/pull/10868#pullrequestreview-4826970397) - 2026-07-31
+* [Pull Request] [Implement BLOCKHASH, BLOBHASH, NUMBER, and TIMESTAMP for EVM v2](https://github.com/besu-eth/besu/pull/10962) - 2026-08-03
+* [Review] [Review on: Stateroot opti in glamsterdam devnet 8](https://github.com/besu-eth/besu/pull/10939#pullrequestreview-4841424137) - 2026-08-03
 ## Q2 2026
 
 

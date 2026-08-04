@@ -57,6 +57,10 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Move envelope signature verification helper to beacon-chain.md](https://github.com/ethereum/consensus-specs/pull/5505) - 2026-08-01
 * [Commit] [Align fork-choice handler docstrings (#5506)](https://github.com/ethereum/consensus-specs/commit/d173a8f4613d8c67266a785e439c7940cbd8780e) - 2026-08-01
 * [Commit] [Move envelope signature verification helper to beacon-chain.md (#5505)](https://github.com/ethereum/consensus-specs/commit/6ed440c04b2eba53cd676f7cf8753252e57373ac) - 2026-08-01
+* [Review] [Review on: Improve the readability of IL store](https://github.com/ethereum/consensus-specs/pull/5507#pullrequestreview-4843776851) - 2026-08-03
+* [Review] [Review on: Rename the max IL transaction size constant name](https://github.com/ethereum/consensus-specs/pull/5508#pullrequestreview-4843108037) - 2026-08-03
+* [Commit] [Improve the readability of IL store (#5507)](https://github.com/ethereum/consensus-specs/commit/6afc99391cbe7d01eb8a80e619b4168a052fd084) - 2026-08-03
+* [Commit] [Rename the max IL transaction size constant name (#5508)](https://github.com/ethereum/consensus-specs/commit/3cbd26f048237250e3373d4d0a651a647b4c58e1) - 2026-08-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
@@ -65,9 +69,14 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Add missing timeout constraints to newPayload](https://github.com/ethereum/execution-apis/pull/849) - 2026-07-16
 * [Commit] [Add missing timeout constraints to newPayload (#849)](https://github.com/ethereum/execution-apis/commit/baa4c9a11736c729ef3f172633df995a84a310b2) - 2026-07-17
 
+* [Pull Request] [Add initial FOCIL spec](https://github.com/ethereum/execution-apis/pull/609) - 2026-08-03
+* [Commit] [Add initial FOCIL spec (#609)](https://github.com/ethereum/execution-apis/commit/bf20b4083284e677db19e7f3871bd669b88354a6) - 2026-08-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/pull/12029) - 2026-07-29
 * [Commit] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/commit/cff8e93347c8f6c5f30d5ae7e8875406f71179de) - 2026-07-29
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [FOCIL Breakout #39, August 4, 2026](https://github.com/ethereum/pm/issues/2179) - 2026-08-03
 ## Q2 2026
 
 

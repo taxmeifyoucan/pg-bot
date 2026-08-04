@@ -100,6 +100,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc: prestateTracer must skip faulted opcodes](https://github.com/erigontech/erigon/pull/22941#pullrequestreview-4837631923) - 2026-08-02
 * [Review] [Review on: rpc: fix non-deterministic eth_estimateGas caused by stale cancel of shared EVM](https://github.com/erigontech/erigon/pull/22877#pullrequestreview-4837633469) - 2026-08-02
 * [Commit] [QA: latest test save logs for all attempts (#22943)](https://github.com/erigontech/erigon/commit/5d00a6a895bc51c7e93b67e078b5c6b326302537) - 2026-08-02
+* [Pull Request] [rpc: resolve eth_feeHistory on the block overlay view](https://github.com/erigontech/erigon/pull/22987) - 2026-08-03
+* [Pull Request] [[r3.6] db/kv/membatchwithdb: surface DomainReader read errors instead of swallowing them](https://github.com/erigontech/erigon/pull/22960) - 2026-08-03
+* [Issue] [debug_traceBlockByNumber panics on the tip: "assert: block.GasUsed() != gasUsed" — latest resolved on the overlay, replayed on the committed view](https://github.com/erigontech/erigon/issues/22969) - 2026-08-03
+* [Commit] [rpc: prestateTracer must skip faulted opcodes (#22941)](https://github.com/erigontech/erigon/commit/709354095402c3c432df040baa9c6bae2d3fa25e) - 2026-08-03
+* [Commit] [node: replace libdeflate with klauspost/compress for RPC HTTP gzip; one-shot responses now BestSpeed (#22882)](https://github.com/erigontech/erigon/commit/e98ad39382a6e28150b5461d3348d322a038115c) - 2026-08-03
+* [Commit] [db, rpc: tests to verify receipt domain reads go through the block overlay (#22961)](https://github.com/erigontech/erigon/commit/305767a89720b3192c50370b46976f33c036407d) - 2026-08-03
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -108,6 +114,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [fix prestate noStorage (#583)](https://github.com/erigontech/rpc-tests/commit/eb464ad4267937786f6fa327976c967baf7234b1) - 2026-07-09
 * [Pull Request] [integration-test: add tests for testing_commitBlockV1](https://github.com/erigontech/rpc-tests/pull/585) - 2026-07-11
 * [Commit] [integration-test: add tests for testing_commitBlockV1 (#585)](https://github.com/erigontech/rpc-tests/commit/214c13799371e832a90d92781f83b0fe2d143d68) - 2026-07-12
+* [Pull Request] [Fix flaky latest tests: concurrent dispatch and head classification](https://github.com/erigontech/rpc-tests/pull/586) - 2026-08-03
 ## Q2 2026
 
 

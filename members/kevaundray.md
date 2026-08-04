@@ -58,6 +58,9 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4832696606) - 2026-07-31
 * [Review] [Review on: feat(test-types): Fork-based State Commitment Property in Alloc](https://github.com/ethereum/execution-specs/pull/3279#pullrequestreview-4834678833) - 2026-08-01
 * [Pull Request] [chore: Temporarily add PBT conformance tests](https://github.com/ethereum/execution-specs/pull/3280) - 2026-08-02
+* [Pull Request] [chore(8297): Temporarily add more test vectors to isolated pbt tests](https://github.com/ethereum/execution-specs/pull/3291) - 2026-08-03
+* [Review] [Review on: fix(binary_trie): raise typed errors from state-root computation](https://github.com/ethereum/execution-specs/pull/3288#pullrequestreview-4846777527) - 2026-08-03
+* [Issue] [EIP-8297: Cherry-pick state root failure checks](https://github.com/ethereum/execution-specs/issues/3290) - 2026-08-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716803581) - 2026-07-16
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737690816) - 2026-07-20

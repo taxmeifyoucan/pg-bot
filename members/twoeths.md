@@ -77,6 +77,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: use parent block slot for attestation payload availability](https://github.com/ChainSafe/lodestar/pull/9731#pullrequestreview-4825146708) - 2026-07-31
 * [Pull Request] [fix: use parent state with payload for block production and block reward](https://github.com/ChainSafe/lodestar/pull/9736) - 2026-07-31
 * [Review] [Review on: feat: allow multiple bids compatible with the head view](https://github.com/ChainSafe/lodestar/pull/9739#pullrequestreview-4834000524) - 2026-08-01
+* [Review] [Review on: fix: use parent block slot for attestation payload availability](https://github.com/ChainSafe/lodestar/pull/9731#pullrequestreview-4842260185) - 2026-08-03
+* [Review] [Review on: fix: ignore parent bids at epoch boundary](https://github.com/ChainSafe/lodestar/pull/9756#pullrequestreview-4844239805) - 2026-08-03
+* [Commit] [feat: classify batch processing failures (#9693)](https://github.com/ChainSafe/lodestar/commit/13423cff6d2055ade95aaac9b1f6b862f96106f1) - 2026-08-03
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

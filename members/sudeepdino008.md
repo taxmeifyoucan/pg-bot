@@ -108,6 +108,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/stagedsync: fix stale multipliers in SizeEstimate comment (#22760)](https://github.com/erigontech/erigon/commit/fb3a7d2d6ff6139d38e693b438b6412cc8228eb7) - 2026-07-31
 * [Commit] [denser btree index for domains (#22901)](https://github.com/erigontech/erigon/commit/938bc6988412e26abdeae65402990b7f56b98b21) - 2026-07-31
 * [Commit] [execution/stagedsync: extract blockExecutor.deliver helper from sendResult (#22761)](https://github.com/erigontech/erigon/commit/507925fa3c4c6acec75efc4e5610afe28e0edb11) - 2026-07-31
+* [Review] [Review on: [r3.5] db/downloader: allow seeding caplin state snapshots (nil global type)](https://github.com/erigontech/erigon/pull/22980#pullrequestreview-4844698541) - 2026-08-03
+* [Review] [Review on: [r3.6] db/downloader: detect caplin state snapshots via CaplinTypeString](https://github.com/erigontech/erigon/pull/22979#pullrequestreview-4844700245) - 2026-08-03
+* [Pull Request] [use MADV_SEQUENTIAL for btree index build scan](https://github.com/erigontech/erigon/pull/22977) - 2026-08-03
+* [Review] [Review on: db/downloader: detect caplin state snapshots via CaplinTypeString](https://github.com/erigontech/erigon/pull/22971#pullrequestreview-4844137039) - 2026-08-03
+* [Review] [Review on: [r3.6] db/state: align visible files of every domain and index](https://github.com/erigontech/erigon/pull/22909#pullrequestreview-4843140714) - 2026-08-03
+* [Commit] [use MADV_SEQUENTIAL for btree index build scan (#22977)](https://github.com/erigontech/erigon/commit/d1d47a3418b2bbb3b00e65be800d502b3645e4a8) - 2026-08-03
+* [Commit] [db/seg: async io for domain kv files (experimental & off by default) (#22876)](https://github.com/erigontech/erigon/commit/d278d118c1541fd3b19cdf2d7be3f615a2cd2243) - 2026-08-03
 ## Q2 2026
 
 

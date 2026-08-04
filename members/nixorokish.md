@@ -39,6 +39,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Update EIP-8081: Propose EIP-7807 for inclusion](https://github.com/ethereum/EIPs/pull/11913#pullrequestreview-4820047448) - 2026-07-30
 * [Review] [Review on: Update EIP-8081: Propose EIP-8115 for inclusion](https://github.com/ethereum/EIPs/pull/11911#pullrequestreview-4820037978) - 2026-07-30
 * [Review] [Review on: Update EIP-7723: To clarify "Status" and "Stages"](https://github.com/ethereum/EIPs/pull/11006#pullrequestreview-4819725764) - 2026-07-30
+* [Review] [Review on: Update EIP-8081: Propose EIP-7819 for inclusion in Hegota](https://github.com/ethereum/EIPs/pull/11505#pullrequestreview-4848186596) - 2026-08-03
 ## Q2 2026
 
 

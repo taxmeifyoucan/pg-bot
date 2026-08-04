@@ -56,6 +56,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [refactor: remove bun runtime support](https://github.com/ChainSafe/lodestar/pull/9719) - 2026-07-28
 
 * [Commit] [refactor: remove bun runtime support (#9719)](https://github.com/ChainSafe/lodestar/commit/e00bf67333dfd49e3503fd63ba870916e32343e4) - 2026-07-30
+* [Review] [Review on: refactor: use UintBn64 for Eth1Data.depositCount](https://github.com/ChainSafe/lodestar/pull/9747#pullrequestreview-4842641928) - 2026-08-03
+* [Review] [Review on: fix: validate cached validator indices against state](https://github.com/ChainSafe/lodestar/pull/9748#pullrequestreview-4842695615) - 2026-08-03
+* [Review] [Review on: refactor: validate light_client_updates_by_range handler](https://github.com/ChainSafe/lodestar/pull/9745#pullrequestreview-4842555630) - 2026-08-03
+* [Review] [Review on: build: migrate to TypeScript 7.0](https://github.com/ChainSafe/lodestar/pull/9575#pullrequestreview-4841871422) - 2026-08-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

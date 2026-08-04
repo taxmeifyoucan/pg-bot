@@ -148,6 +148,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Improve FastHash performance](https://github.com/NethermindEth/nethermind/pull/12632) - 2026-07-31
 * [Review] [Review on: Improve FastHash performance](https://github.com/NethermindEth/nethermind/pull/12632#pullrequestreview-4828093145) - 2026-07-31
 * [Commit] [Improve FastHash performance (#12632)](https://github.com/NethermindEth/nethermind/commit/97816c9da8038a5a9432c787aa8b69e2646db85b) - 2026-07-31
+* [Review] [Review on: Validate ABI decode allocation bounds](https://github.com/NethermindEth/nethermind/pull/12588#pullrequestreview-4844805826) - 2026-08-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

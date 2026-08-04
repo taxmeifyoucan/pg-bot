@@ -50,9 +50,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [enterprise (LFDT) limits retention to 7 days (#10881)](https://github.com/besu-eth/besu/commit/b7ed0488fb97051dfab117e29203bcfbd839997a) - 2026-07-28
 * [Review] [Review on: EIP-8246: Amsterdam SELFDESTRUCT preserves originator balance](https://github.com/besu-eth/besu/pull/10766#pullrequestreview-4811461989) - 2026-07-29
 * [Commit] [Cap the number of concurrently-active JSON-RPC filters (#10893)](https://github.com/besu-eth/besu/commit/bf2a94134cd3a05fa5b1458e2dc199ae76bf23b2) - 2026-07-29
+* [Issue] [2026-08-05 Contributor Call](https://github.com/besu-eth/besu/issues/10965) - 2026-08-03
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #7, July 22, 2026](https://github.com/ethereum/pm/issues/2165) - 2026-07-20
 
+* [Issue] [Encrypt The Mempool #8, August 5, 2026](https://github.com/ethereum/pm/issues/2182) - 2026-08-03
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298#pullrequestreview-4738978540) - 2026-07-20
 * [Review] [Review on: Static libs and jar artifact for secp256k1](https://github.com/besu-eth/besu-native/pull/297#pullrequestreview-4738619746) - 2026-07-20

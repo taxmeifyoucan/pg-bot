@@ -158,6 +158,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(txpool): do not apply EIP-3607 to frame transactions](https://github.com/NethermindEth/nethermind/pull/12636#pullrequestreview-4838208278) - 2026-08-02
 * [Review] [Review on: feat: EIP-8037 two-dimensional gas tracing (stateGasTracer + callTracer)](https://github.com/NethermindEth/nethermind/pull/12628#pullrequestreview-4838635920) - 2026-08-02
 * [Review] [Review on: fix(receipts): restore the post-merge flag before regeneration](https://github.com/NethermindEth/nethermind/pull/12641#pullrequestreview-4838344800) - 2026-08-02
+* [Pull Request] [Support dual-stack ENR advertisement](https://github.com/NethermindEth/nethermind/pull/12679) - 2026-08-03
+* [Pull Request] [Handle IPv6 enode text endpoints](https://github.com/NethermindEth/nethermind/pull/12678) - 2026-08-03
+* [Review] [Review on: test: eth_createAccessList affordability with omitted fee fields](https://github.com/NethermindEth/nethermind/pull/12629#pullrequestreview-4843819785) - 2026-08-03
+* [Review] [Review on: fix(receipts): restore the post-merge flag before regeneration](https://github.com/NethermindEth/nethermind/pull/12641#pullrequestreview-4842951265) - 2026-08-03
+* [Commit] [Validate ABI decode allocation bounds (#12588)](https://github.com/NethermindEth/nethermind/commit/31295e5d167d50e5857db569974f0066778565ae) - 2026-08-03
+* [Commit] [Rename EIP-8037 regular gas dimension to execution gas (#12600)](https://github.com/NethermindEth/nethermind/commit/be189fda8690da795d290cb9deb29356f2cce19e) - 2026-08-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

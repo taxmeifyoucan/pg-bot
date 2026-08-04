@@ -60,6 +60,7 @@ Team: Erigon
 * [Commit] [execution, rpc: exec/RPC robustness fixes (#22892)](https://github.com/erigontech/erigon/commit/050ac8a1a73221294d887226607f79345b1559c3) - 2026-07-31
 * [Commit] [db/kv/membatchwithdb: surface DomainReader read errors instead of swallowing them (#22893)](https://github.com/erigontech/erigon/commit/8324709a75ead9b3cd266d41007c592ce6792e8d) - 2026-07-31
 * [Review] [Review on: execution: parallel-only ExecV3 + ephemeral single-block replay harness](https://github.com/erigontech/erigon/pull/22733#pullrequestreview-4839308400) - 2026-08-02
+* [Commit] [ci, db/state: matrix-test serial vs parallel commitment across the test workflows (#22141)](https://github.com/erigontech/erigon/commit/fc00a6e6de29580a483f9bd5ec9711c9d93c59ee) - 2026-08-03
 ## Q2 2026
 
 

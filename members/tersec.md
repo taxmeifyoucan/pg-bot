@@ -115,6 +115,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [use stable nimbus-eth2 image for kurtosis again (#4587)](https://github.com/status-im/nimbus-eth1/commit/bdd25396d78c215b44eb6edbf39bfd5ddb1a7660) - 2026-07-29
 * [Commit] [version 0.4.0](https://github.com/status-im/nimbus-eth1/commit/2ed512525a955d4f6c5f977eae4ea761b770d58a) - 2026-07-29
 * [Pull Request] [avoid expensive, pointless proof blob computation](https://github.com/status-im/nimbus-eth1/pull/4594) - 2026-08-02
+* [Commit] [avoid expensive, pointless proof blob computation (#4594)](https://github.com/status-im/nimbus-eth1/commit/0322100b59506f4a16b107f980e38e25a7783e4e) - 2026-08-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

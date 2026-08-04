@@ -76,6 +76,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(spec-specs,tests): reprice EIP-8038 access-list costs to cold minus warm](https://github.com/ethereum/execution-specs/pull/3271#pullrequestreview-4826784031) - 2026-07-31
 * [Review] [Review on: feat(test-benchmark): add stub account configuration, with state-actor example config](https://github.com/ethereum/execution-specs/pull/3203#pullrequestreview-4826526019) - 2026-07-31
 * [Commit] [feat(test-benchmark): enhance worst case coverage (#3274)](https://github.com/ethereum/execution-specs/commit/6074ece9dc66110e757f1bcc3fe714ce63b075ad) - 2026-07-31
+* [Pull Request] [refactor(test-benchmark): split stateful setup transactions across blocks](https://github.com/ethereum/execution-specs/pull/3282) - 2026-08-03
+* [Issue] [Benchmark Full Suite Generation Tracker](https://github.com/ethereum/execution-specs/issues/3281) - 2026-08-03
 ## Q2 2026
 
 

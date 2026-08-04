@@ -56,6 +56,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/pool: prune finalized operations asynchronously](https://github.com/erigontech/erigon/pull/22884) - 2026-07-30
 * [Pull Request] [cl: support Gloas alpha.12 progressive SSZ and spectests](https://github.com/erigontech/erigon/pull/22912) - 2026-07-31
 * [Review] [Review on: cl/phase1/stages: use live chain tip for forward-sync distance log](https://github.com/erigontech/erigon/pull/22903#pullrequestreview-4826964481) - 2026-07-31
+* [Review] [Review on: cl: stabilize Gloas sync with external execution clients](https://github.com/erigontech/erigon/pull/22683#pullrequestreview-4843235584) - 2026-08-03
+* [Review] [Review on: cl: support Gloas alpha.12 progressive SSZ and spectests](https://github.com/erigontech/erigon/pull/22912#pullrequestreview-4843212331) - 2026-08-03
+* [Review] [Review on: cl, db: caplin snapshot pre-fixes (cancellation, races, verify and preverified filter gaps)](https://github.com/erigontech/erigon/pull/22944#pullrequestreview-4843283648) - 2026-08-03
+* [Review] [Review on: cl: simplify Engine API calls and fix SSZ size accounting](https://github.com/erigontech/erigon/pull/22176#pullrequestreview-4843306746) - 2026-08-03
+* [Review] [Review on: "Handshake transport error" log demote to trace level](https://github.com/erigontech/erigon/pull/22958#pullrequestreview-4842341826) - 2026-08-03
 ## Q2 2026
 
 

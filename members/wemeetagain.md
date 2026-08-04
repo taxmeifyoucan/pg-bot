@@ -122,6 +122,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bls): size pairing buffers for 32-bit targets](https://github.com/ChainSafe/lodestar-z/pull/531#pullrequestreview-4823365130) - 2026-07-30
 * [Review] [Review on: feat(bindings): expose pubkey cache synchronization](https://github.com/ChainSafe/lodestar-z/pull/537#pullrequestreview-4820686122) - 2026-07-30
 * [Commit] [ci: automate releases with release-please (#479)](https://github.com/ChainSafe/lodestar-z/commit/e08d7fbbae75827b3a29adfc6e77c230dc998a84) - 2026-07-30
+* [Review] [Review on: fix(state-transition): isolate epoch step cache mutations](https://github.com/ChainSafe/lodestar-z/pull/535#pullrequestreview-4844534888) - 2026-08-03
+* [Commit] [refactor(pubkeys): centralize the process-wide cache (#522)](https://github.com/ChainSafe/lodestar-z/commit/dc9669dbbe131aeee56605e785d46108a87d4e82) - 2026-08-03
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

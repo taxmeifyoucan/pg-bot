@@ -629,6 +629,34 @@ Team: Erigon
 * [Pull Request] [execution/stagedsync: log fork-validation wrong trie root at Warn](https://github.com/erigontech/erigon/pull/22947) - 2026-08-02
 * [Pull Request] [cl/utils/eth_clock: ENR next_fork_version must not use an unscheduled fork](https://github.com/erigontech/erigon/pull/22948) - 2026-08-02
 * [Pull Request] [execution/stagedsync: don't report a wrong trie root while shutting down](https://github.com/erigontech/erigon/pull/22946) - 2026-08-02
+* [Review] [Review on: ci: fuzz — classify crash vs timeout, link run back to tracking issue](https://github.com/erigontech/erigon/pull/22976#pullrequestreview-4845105185) - 2026-08-03
+* [Review] [Review on: docs: remove the Polygon easy-node guide, unsupported since 3.1](https://github.com/erigontech/erigon/pull/22975#pullrequestreview-4845112265) - 2026-08-03
+* [Review] [Review on: readme: drop the Coverage badge](https://github.com/erigontech/erigon/pull/22974#pullrequestreview-4845108984) - 2026-08-03
+* [Review] [Review on: docs/site: bump js-yaml and brace-expansion to clear Dependabot alerts](https://github.com/erigontech/erigon/pull/22978#pullrequestreview-4845102840) - 2026-08-03
+* [Review] [Review on: docs: restore the Quantify brand wordmark](https://github.com/erigontech/erigon/pull/22981#pullrequestreview-4845098797) - 2026-08-03
+* [Review] [Review on: docs: port the docs backlog to release/3.6 ahead of the deploy cutover](https://github.com/erigontech/erigon/pull/22970#pullrequestreview-4845109893) - 2026-08-03
+* [Review] [Review on: docs: restore the Quantify brand wordmark](https://github.com/erigontech/erigon/pull/22982#pullrequestreview-4845099405) - 2026-08-03
+* [Pull Request] [exec: stop re-hashing bytecode on every state-object load](https://github.com/erigontech/erigon/pull/22956) - 2026-08-03
+* [Review] [Review on: exec: stop re-hashing bytecode on every state-object load](https://github.com/erigontech/erigon/pull/22956#pullrequestreview-4840762848) - 2026-08-03
+* [Review] [Review on: use MADV_SEQUENTIAL for btree index build scan](https://github.com/erigontech/erigon/pull/22977#pullrequestreview-4844923598) - 2026-08-03
+* [Review] [Review on: execution/types: add SignAuthorization helper](https://github.com/erigontech/erigon/pull/22830#pullrequestreview-4845052730) - 2026-08-03
+* [Review] [Review on: docs(hardware): drop the Polygon disk tab, unsupported since 3.1](https://github.com/erigontech/erigon/pull/22973#pullrequestreview-4843861289) - 2026-08-03
+* [Review] [Review on: claude: update benchmarkoor skill with state actor](https://github.com/erigontech/erigon/pull/22972#pullrequestreview-4843859752) - 2026-08-03
+* [Pull Request] [exec: drop eager formatting from hot paths](https://github.com/erigontech/erigon/pull/22953) - 2026-08-03
+* [Pull Request] ["Handshake transport error" log demote to trace level](https://github.com/erigontech/erigon/pull/22958) - 2026-08-03
+* [Review] [Review on: [r3.6] rpc: fix non-deterministic eth_estimateGas caused by stale cancel of shared EVM](https://github.com/erigontech/erigon/pull/22968#pullrequestreview-4843661496) - 2026-08-03
+* [Pull Request] [[r3.6] db/state: align visible files of every domain and index](https://github.com/erigontech/erigon/pull/22909) - 2026-08-03
+* [Pull Request] [db/state: align visible files of every domain and index](https://github.com/erigontech/erigon/pull/22908) - 2026-08-03
+* [Review] [Review on: docs(readme): drop content duplicated by docs.erigon.tech](https://github.com/erigontech/erigon/pull/22915#pullrequestreview-4843444484) - 2026-08-03
+* [Issue] [exec: AddBalance does calc CodeHash](https://github.com/erigontech/erigon/issues/22955) - 2026-08-03
+* [Commit] [exec: stop re-hashing bytecode on every state-object load (#22956)](https://github.com/erigontech/erigon/commit/990e5fcafb17d541d4a236510d293dc1e47b5951) - 2026-08-03
+* [Commit] [exec: drop eager formatting from hot paths (#22953)](https://github.com/erigontech/erigon/commit/f744d512b8bb1045c2456850cfe80b168167a70d) - 2026-08-03
+* [Commit] ["Handshake transport error" log demote to trace level (#22958)](https://github.com/erigontech/erigon/commit/4a1e52e5bfd9ec0b11860a2cc3d767172499b455) - 2026-08-03
+* [Commit] [db/state: align visible files of every domain and index (#22908)](https://github.com/erigontech/erigon/commit/c60dc9ef6e09c2ef2738d5174f75bb49c632ac1d) - 2026-08-03
+* [Commit] [vm benchmarks: switch to parallel-exec (versioned maps, noMaterialize=true, etc...) (#22950)](https://github.com/erigontech/erigon/commit/da41418faa0537e00e675ab18fd4dd05c9d53c1e) - 2026-08-03
+* [Commit] [disable: "sequential read during merge" feature (#22964)](https://github.com/erigontech/erigon/commit/6dde8937de06cae4fc3740869340219abc2ae183) - 2026-08-03
+* [Commit] [cl/utils/eth_clock: ENR next_fork_version must not use an unscheduled fork (#22948)](https://github.com/erigontech/erigon/commit/ab51978da979f0411b84d41700dd1354b8517df5) - 2026-08-03
+* [Commit] [recsplit: bounds checks elimination in hot loops (#22954)](https://github.com/erigontech/erigon/commit/31b6906c8d0d6c0dcfea258c6da845798a46e42d) - 2026-08-03
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

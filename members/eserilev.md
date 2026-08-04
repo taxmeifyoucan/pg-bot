@@ -66,6 +66,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: fork choice compliance tests [WIP]](https://github.com/sigp/lighthouse/pull/9710#pullrequestreview-4821692954) - 2026-07-30
 * [Review] [Review on: Implement gloas stateless block building api](https://github.com/sigp/lighthouse/pull/9568#pullrequestreview-4829418501) - 2026-07-31
 * [Pull Request] [Introduce a block root invalid cache](https://github.com/sigp/lighthouse/pull/9730) - 2026-08-01
+* [Review] [Review on: Introduce a block root invalid cache](https://github.com/sigp/lighthouse/pull/9730#pullrequestreview-4843771241) - 2026-08-03
+* [Review] [Review on: EIP-7688: Forward Compatible Consensus Data Structures](https://github.com/sigp/lighthouse/pull/9450#pullrequestreview-4842498226) - 2026-08-03
+* [Review] [Review on: Export canonical process metrics via prometheus ProcessCollector](https://github.com/sigp/lighthouse/pull/9736#pullrequestreview-4844153788) - 2026-08-03
+* [Review] [Review on: Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682#pullrequestreview-4843811658) - 2026-08-03
 ## Q2 2026
 
 

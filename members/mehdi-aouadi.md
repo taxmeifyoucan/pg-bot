@@ -56,6 +56,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Issue] [Publish submitted execution payload bids](https://github.com/Consensys/teku/issues/11039) - 2026-07-31
 * [Commit] [publish submitted bids to gossip (#11040)](https://github.com/Consensys/teku/commit/f7680810d13ff1ed901a433a64ffcbe76b81ee8a) - 2026-07-31
 * [Commit] [fix Gloas bid gas limit validation (#11024)](https://github.com/Consensys/teku/commit/2944977e8ce4ae207e08732797d3dd9fbfad5df6) - 2026-07-31
+* [Pull Request] [allow builders to bid on multiple branches](https://github.com/Consensys/teku/pull/11049) - 2026-08-03
+* [Review] [Review on: allow builders to bid on multiple branches](https://github.com/Consensys/teku/pull/11049#pullrequestreview-4844409062) - 2026-08-03
+* [Commit] [allow builders to bid on multiple branches (#11049)](https://github.com/Consensys/teku/commit/38cc5206754997acd28fffda19d202794ca29657) - 2026-08-03
 ## Q2 2026
 
 

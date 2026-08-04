@@ -85,9 +85,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-benchmark): enhance worst case coverage [backport forks/amsterdam]](https://github.com/ethereum/execution-specs/pull/3277#pullrequestreview-4830721299) - 2026-07-31
 * [Review] [Review on: feat(test-benchmark): enhance worst case coverage](https://github.com/ethereum/execution-specs/pull/3274#pullrequestreview-4830704979) - 2026-07-31
 * [Commit] [fix(ci): Rename backports branches (#3268)](https://github.com/ethereum/execution-specs/commit/a4e9212e4abe568cd32507191689c054e6e41331) - 2026-07-31
+* [Review] [Review on: feat(test-types): Fork-based State Commitment Property in Alloc](https://github.com/ethereum/execution-specs/pull/3279#pullrequestreview-4849708554) - 2026-08-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23
+* [Issue] [All Core Devs - Testing (ACDT) #91, August 10, 2026](https://github.com/ethereum/pm/issues/2181) - 2026-08-03
 ## Q2 2026
 
 
