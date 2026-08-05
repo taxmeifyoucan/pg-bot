@@ -15,6 +15,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505#pullrequestreview-4782633302) - 2026-07-26
 
 * [Review] [Review on: Gossipsub Backpressure: Size-Aware RPC Part Batching](https://github.com/libp2p/jvm-libp2p/pull/507#pullrequestreview-4823921537) - 2026-07-30
+* [Review] [Review on: Gossip backpressure: Prioritize Gossip RPC parts and route IDONTWANT through backpressure queue](https://github.com/libp2p/jvm-libp2p/pull/512#pullrequestreview-4859676872) - 2026-08-04
+* [Pull Request] [Fix/510 outbound publish admission](https://github.com/libp2p/jvm-libp2p/pull/511) - 2026-08-04
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28
@@ -26,6 +28,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Dependencies update](https://github.com/Consensys/teku/pull/11031#pullrequestreview-4840054421) - 2026-08-03
 * [Review] [Review on: Remove beaconchainutil from other test fixtures](https://github.com/Consensys/teku/pull/11030#pullrequestreview-4849252910) - 2026-08-03
 * [Review] [Review on: Remove getconstants from eth2networkconfig](https://github.com/Consensys/teku/pull/11048#pullrequestreview-4849336429) - 2026-08-03
+* [Review] [Review on: Add ROCKSDB_TREE as a database version](https://github.com/Consensys/teku/pull/10993#pullrequestreview-4850528156) - 2026-08-04
 ## Q2 2026
 
 

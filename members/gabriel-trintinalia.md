@@ -21,6 +21,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Commit] [fix(referencetests): honor fixture blob schedule in blockchain reference tests (#10852)](https://github.com/besu-eth/besu/commit/9b5830ea79ddf7b669ed1bdaa2d77fe8f3dbe95b) - 2026-07-24
 * [Commit] [refactor(tracer): add isSystemCallTracingEnabled() capability to BlockAwareOperationTracer (#10851)](https://github.com/besu-eth/besu/commit/d0c8429d4a65c307825d0ae79a296ad14fab88d4) - 2026-07-24
 * [Review] [Review on: feat(core): support explicit operation tracer in block processing](https://github.com/besu-eth/besu/pull/10862#pullrequestreview-4769747788) - 2026-07-24
+* [Review] [Review on: simulation gas: do not apply EIP-7825 txGasLimitCap ](https://github.com/besu-eth/besu/pull/10885#pullrequestreview-4851240702) - 2026-08-04
 ## Q2 2026
 
 

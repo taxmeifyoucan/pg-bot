@@ -91,6 +91,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: ci: parallelize test legs and speed up tool installs](https://github.com/Plonky3/Plonky3/pull/1969#pullrequestreview-4827705371) - 2026-07-31
 * [Review] [Review on: feat: add an example for all 3 PCS supported](https://github.com/Plonky3/Plonky3/pull/1970#pullrequestreview-4827866201) - 2026-07-31
 * [Review] [Review on: perf(stir): prune Merkle multi-openings for STIR](https://github.com/Plonky3/Plonky3/pull/1965#pullrequestreview-4827810129) - 2026-07-31
+* [Review] [Review on: chore(multi-stark): drop unused tracing-forest/tracing-subscriber dev-deps](https://github.com/Plonky3/Plonky3/pull/1976#pullrequestreview-4858340347) - 2026-08-04
+* [Review] [Review on: refactor(stir): cleanup crate and revamp prover/verifier](https://github.com/Plonky3/Plonky3/pull/1975#pullrequestreview-4858333496) - 2026-08-04
+* [Review] [Review on: feat(multi-stark): fractional gkr](https://github.com/Plonky3/Plonky3/pull/1974#pullrequestreview-4857306923) - 2026-08-04
+* [Review] [Review on: perf(stir): add a couple improvements to the STIR PCS](https://github.com/Plonky3/Plonky3/pull/1973#pullrequestreview-4857279489) - 2026-08-04
 ## Q2 2026
 
 

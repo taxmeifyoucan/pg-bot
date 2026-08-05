@@ -657,6 +657,30 @@ Team: Erigon
 * [Commit] [disable: "sequential read during merge" feature (#22964)](https://github.com/erigontech/erigon/commit/6dde8937de06cae4fc3740869340219abc2ae183) - 2026-08-03
 * [Commit] [cl/utils/eth_clock: ENR next_fork_version must not use an unscheduled fork (#22948)](https://github.com/erigontech/erigon/commit/ab51978da979f0411b84d41700dd1354b8517df5) - 2026-08-03
 * [Commit] [recsplit: bounds checks elimination in hot loops (#22954)](https://github.com/erigontech/erigon/commit/31b6906c8d0d6c0dcfea258c6da845798a46e42d) - 2026-08-03
+* [Review] [Review on: execution: allow for smaller e2 file retirement step in tests](https://github.com/erigontech/erigon/pull/23009#pullrequestreview-4859072318) - 2026-08-04
+* [Review] [Review on: all: enable and resolve sprintfQuotedString and deferInLoop linter checks](https://github.com/erigontech/erigon/pull/22994#pullrequestreview-4851780752) - 2026-08-04
+* [Pull Request] [execution/state: reset only the log slots a transaction wrote](https://github.com/erigontech/erigon/pull/23007) - 2026-08-04
+* [Pull Request] [execution/state: assert the warm-read fast path never serves a destructed account](https://github.com/erigontech/erigon/pull/23002) - 2026-08-04
+* [Pull Request] [[r3.6] exec: merge writeSets without cloning in the apply loop](https://github.com/erigontech/erigon/pull/23001) - 2026-08-04
+* [Pull Request] [execution/state: serve warm storage reads from the read set](https://github.com/erigontech/erigon/pull/22993) - 2026-08-04
+* [Review] [Review on: execution/state: serve warm storage reads from the read set](https://github.com/erigontech/erigon/pull/22993#pullrequestreview-4850792765) - 2026-08-04
+* [Review] [Review on: execution/engineapi: validate getPayload fork boundaries and blob bundle counts](https://github.com/erigontech/erigon/pull/22985#pullrequestreview-4852753656) - 2026-08-04
+* [Pull Request] [db/seg, db/state, execution/vm: check errors flagged by errcheck](https://github.com/erigontech/erigon/pull/22991) - 2026-08-04
+* [Review] [Review on: build(deps): bump undici to 6.28.0 in test_report (Dependabot alerts #127-#129)](https://github.com/erigontech/erigon/pull/22998#pullrequestreview-4851885396) - 2026-08-04
+* [Pull Request] [[r3.6] common/hexutil: improve performance of EncodeBig](https://github.com/erigontech/erigon/pull/22989) - 2026-08-04
+* [Pull Request] [cmd/evm, execution/tests, execution/tracing: stop rebuilding a database per state test, cheapen the trace writer](https://github.com/erigontech/erigon/pull/22992) - 2026-08-04
+* [Review] [Review on: cmd/evm, execution/tests, execution/tracing: stop rebuilding a database per state test, cheapen the trace writer](https://github.com/erigontech/erigon/pull/22992#pullrequestreview-4850719934) - 2026-08-04
+* [Pull Request] [[r3.6] common/dbg: disable adaptive trunk-pin by default](https://github.com/erigontech/erigon/pull/22990) - 2026-08-04
+* [Review] [Review on: qa-tests: add file retirement test for minimal node ](https://github.com/erigontech/erigon/pull/22984#pullrequestreview-4851860972) - 2026-08-04
+* [Review] [Review on: [r3.6] db/kv/membatchwithdb: surface DomainReader read errors instead of swallowing them](https://github.com/erigontech/erigon/pull/22960#pullrequestreview-4851753215) - 2026-08-04
+* [Review] [Review on: db/snapshotsync, freezeblocks: CaplinSnapshots rides BaseRoSnapshots](https://github.com/erigontech/erigon/pull/22997#pullrequestreview-4851827681) - 2026-08-04
+* [Commit] [exec: merge writeSets without cloning in the apply loop (#22883)](https://github.com/erigontech/erigon/commit/2ab92b3d265e9ebb8dea1c361b251aabed6cc034) - 2026-08-04
+* [Commit] [execution/state: cut allocations in WriteSet.Normalize and Apply (#22923)](https://github.com/erigontech/erigon/commit/d117deb9a0abe5ba88e8f67209166d527bb2fbac) - 2026-08-04
+* [Commit] [db/seg, db/state, execution/vm: check errors flagged by errcheck (#22991)](https://github.com/erigontech/erigon/commit/58d7b55d9d2879a43483a7aa829f11e5d34a0941) - 2026-08-04
+* [Commit] [cmd/evm, execution/tests, execution/tracing: stop rebuilding a database per state test, cheapen the trace writer (#22992)](https://github.com/erigontech/erigon/commit/ce8b5383552544b84ae3c00c158b40ef5bfadd08) - 2026-08-04
+* [Commit] [execution: reuse IntraBlockState log entries to remove LOG-path allocations (#22723)](https://github.com/erigontech/erigon/commit/1aa743722792d0e9b001f03c466cc7723026898a) - 2026-08-04
+* [Commit] [db/seg/patricia: cache-friendly packed node layout for Aho-Corasick (#22544)](https://github.com/erigontech/erigon/commit/52ace5aff0f5e481bc91c958b9df670ad6026a8b) - 2026-08-04
+* [Commit] [execution/stagedsync: log fork-validation wrong trie root at Warn (#22947)](https://github.com/erigontech/erigon/commit/5bf2fe2835981a479e41f9950cdda97217b7517b) - 2026-08-04
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

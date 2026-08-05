@@ -32,6 +32,9 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682#pullrequestreview-4803691389) - 2026-07-29
 * [Review] [Review on: Fix light client updates stream](https://github.com/sigp/lighthouse/pull/9643#pullrequestreview-4816443951) - 2026-07-30
 * [Review] [Review on: Fix light client updates stream](https://github.com/sigp/lighthouse/pull/9643#pullrequestreview-4840346833) - 2026-08-03
+* [Pull Request] [Update VC `--monitoring-endpoint` help text](https://github.com/sigp/lighthouse/pull/9748) - 2026-08-04
+* [Pull Request] [Pin geth image in gloas genesis-sync CI](https://github.com/sigp/lighthouse/pull/9750) - 2026-08-04
+* [Review] [Review on: Add RangeSyncBlock test that involves the envelope](https://github.com/sigp/lighthouse/pull/9717#pullrequestreview-4852221048) - 2026-08-04
 ## Q2 2026
 
 

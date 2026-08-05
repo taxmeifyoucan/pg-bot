@@ -59,6 +59,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [allow builders to bid on multiple branches](https://github.com/Consensys/teku/pull/11049) - 2026-08-03
 * [Review] [Review on: allow builders to bid on multiple branches](https://github.com/Consensys/teku/pull/11049#pullrequestreview-4844409062) - 2026-08-03
 * [Commit] [allow builders to bid on multiple branches (#11049)](https://github.com/Consensys/teku/commit/38cc5206754997acd28fffda19d202794ca29657) - 2026-08-03
+* [Pull Request] [fix proposer preferences caching](https://github.com/Consensys/teku/pull/11053) - 2026-08-04
+* [Review] [Review on: Implement 5473 spec changes](https://github.com/Consensys/teku/pull/11032#pullrequestreview-4854194146) - 2026-08-04
+* [Commit] [fix proposer preferences caching (#11053)](https://github.com/Consensys/teku/commit/85810f1c25e4460dcf90e8847ed822646f5e68fc) - 2026-08-04
 ## Q2 2026
 
 

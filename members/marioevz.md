@@ -86,10 +86,19 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-benchmark): enhance worst case coverage](https://github.com/ethereum/execution-specs/pull/3274#pullrequestreview-4830704979) - 2026-07-31
 * [Commit] [fix(ci): Rename backports branches (#3268)](https://github.com/ethereum/execution-specs/commit/a4e9212e4abe568cd32507191689c054e6e41331) - 2026-07-31
 * [Review] [Review on: feat(test-types): Fork-based State Commitment Property in Alloc](https://github.com/ethereum/execution-specs/pull/3279#pullrequestreview-4849708554) - 2026-08-04
+* [Review] [Review on: feat(tests): enhance test coverage, add mainnet test for eip-2780](https://github.com/ethereum/execution-specs/pull/3266#pullrequestreview-4859697825) - 2026-08-04
+* [Pull Request] [fix(test-execute): fix execute for Amsterdam](https://github.com/ethereum/execution-specs/pull/3300) - 2026-08-04
+* [Review] [Review on: refactor(tests): remove dead static-filler infrastructure](https://github.com/ethereum/execution-specs/pull/3283#pullrequestreview-4856880230) - 2026-08-04
+* [Review] [Review on: fix(test-execute): report each test as an individual hive test case](https://github.com/ethereum/execution-specs/pull/3287#pullrequestreview-4856813083) - 2026-08-04
+* [Issue] [bug(tests): Intrinsic gas no longer guarantees a transaction reaches the top frame](https://github.com/ethereum/execution-specs/issues/3301) - 2026-08-04
+* [Commit] [feat(test-types): Fork-based State Commitment Property in Alloc (#3279)](https://github.com/ethereum/execution-specs/commit/f8733cda915237d6f38ef3ec9e3027afc33c2663) - 2026-08-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23
 * [Issue] [All Core Devs - Testing (ACDT) #91, August 10, 2026](https://github.com/ethereum/pm/issues/2181) - 2026-08-03
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core: genesis slot number parsing](https://github.com/ethereum/go-ethereum/pull/35464) - 2026-08-04
 ## Q2 2026
 
 

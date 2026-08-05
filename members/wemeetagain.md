@@ -23,6 +23,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Update EIP-8282: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4755085945) - 2026-07-22
 * [Commit] [Add EIP: Align Checkpoint with Epoch Boundary Block](https://github.com/ethereum/EIPs/commit/5e82ef62895121027a6c5f0c23276e1b2bed3071) - 2026-07-25
 * [Pull Request] [Update EIP-8081: Propose EIP-8333 for inclusion](https://github.com/ethereum/EIPs/pull/12044) - 2026-07-30
+* [Pull Request] [Add EIP: SSZ Compact Multiproofs](https://github.com/ethereum/EIPs/pull/12093) - 2026-08-04
+* [Review] [Review on: Update EIP-8333: shorten dependent-root rationale](https://github.com/ethereum/EIPs/pull/12092#pullrequestreview-4857652496) - 2026-08-04
+* [Review] [Review on: Update EIP-8333: Clarify EIP-8333 boundary rationale](https://github.com/ethereum/EIPs/pull/12090#pullrequestreview-4857320250) - 2026-08-04
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
 
@@ -78,6 +81,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: remove bun runtime support](https://github.com/ChainSafe/lodestar/pull/9719#pullrequestreview-4821495212) - 2026-07-30
 * [Review] [Review on: feat: allow multiple bids compatible with the head view](https://github.com/ChainSafe/lodestar/pull/9739#pullrequestreview-4829551538) - 2026-07-31
 * [Review] [Review on: refactor: move validator clock util to state-transition](https://github.com/ChainSafe/lodestar/pull/9733#pullrequestreview-4829385839) - 2026-07-31
+* [Review] [Review on: chore: hide builder-cli doc](https://github.com/ChainSafe/lodestar/pull/9770#pullrequestreview-4858916522) - 2026-08-04
+* [Review] [Review on: fix: avoid peer scoring on local payload errors](https://github.com/ChainSafe/lodestar/pull/9755#pullrequestreview-4858793456) - 2026-08-04
+* [Review] [Review on: refactor: use UintBn64 for Eth1Data.depositCount](https://github.com/ChainSafe/lodestar/pull/9747#pullrequestreview-4855687709) - 2026-08-04
+* [Review] [Review on: chore: use tsc for builder package scripts](https://github.com/ChainSafe/lodestar/pull/9766#pullrequestreview-4855573430) - 2026-08-04
+* [Review] [Review on: chore: follow up on #9390 on EIP-7688 changes](https://github.com/ChainSafe/lodestar/pull/9689#pullrequestreview-4855090734) - 2026-08-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -124,6 +132,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [ci: automate releases with release-please (#479)](https://github.com/ChainSafe/lodestar-z/commit/e08d7fbbae75827b3a29adfc6e77c230dc998a84) - 2026-07-30
 * [Review] [Review on: fix(state-transition): isolate epoch step cache mutations](https://github.com/ChainSafe/lodestar-z/pull/535#pullrequestreview-4844534888) - 2026-08-03
 * [Commit] [refactor(pubkeys): centralize the process-wide cache (#522)](https://github.com/ChainSafe/lodestar-z/commit/dc9669dbbe131aeee56605e785d46108a87d4e82) - 2026-08-03
+* [Review] [Review on: feat(bindings): add pubkey cache syncPubkeys](https://github.com/ChainSafe/lodestar-z/pull/537#pullrequestreview-4855498365) - 2026-08-04
+* [Commit] [feat(bindings): add pubkey cache syncPubkeys (#537)](https://github.com/ChainSafe/lodestar-z/commit/542779fc84efe7395cbc0c908802dc586337d131) - 2026-08-04
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

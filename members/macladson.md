@@ -24,6 +24,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacl
 * [Review] [Review on: Ignore ruint advisory check](https://github.com/sigp/lighthouse/pull/9723#pullrequestreview-4826858124) - 2026-07-31
 
 * [Review] [Review on: EIP-7688: Forward Compatible Consensus Data Structures](https://github.com/sigp/lighthouse/pull/9450#pullrequestreview-4846869105) - 2026-08-03
+* [Review] [Review on: Gloas alpha spec 12 changes](https://github.com/sigp/lighthouse/pull/9596#pullrequestreview-4852608549) - 2026-08-04
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Review] [Review on: Fix clippy errors](https://github.com/sigp/discv5/pull/310#pullrequestreview-4842040982) - 2026-08-03
 ## Q2 2026

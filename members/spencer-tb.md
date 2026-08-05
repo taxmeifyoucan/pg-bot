@@ -157,6 +157,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(spec-specs): move priority-fee check to validate_transaction](https://github.com/ethereum/execution-specs/pull/3056#pullrequestreview-4843243001) - 2026-08-03
 * [Pull Request] [refactor(tests): inline resolved expect posts in ported static tests](https://github.com/ethereum/execution-specs/pull/3284) - 2026-08-03
 * [Pull Request] [refactor(tests): remove dead static-filler infrastructure](https://github.com/ethereum/execution-specs/pull/3283) - 2026-08-03
+* [Review] [Review on: feat(tests): enhance test coverage, add mainnet test for eip-2780](https://github.com/ethereum/execution-specs/pull/3266#pullrequestreview-4852459663) - 2026-08-04
+* [Pull Request] [feat(tests): add EIP-2780 coverage gap tests](https://github.com/ethereum/execution-specs/pull/3296) - 2026-08-04
+* [Pull Request] [feat(spec-specs,tests): apply revised EIP-8038 gas values](https://github.com/ethereum/execution-specs/pull/3293) - 2026-08-04
+* [Issue] [Test Release Tracker: `glamsterdam-devnet@v8.1.0`](https://github.com/ethereum/execution-specs/issues/3295) - 2026-08-04
+* [Commit] [refactor(tests): remove dead static-filler infrastructure (#3283)](https://github.com/ethereum/execution-specs/commit/7a0430d13d53ebac585e527491081db47c6d2cd9) - 2026-08-04
+* [Commit] [fix(test-execute): report each test as an individual hive test case (#3287)](https://github.com/ethereum/execution-specs/commit/9b68a91c974de4d47e2eda14d92f606f057a8e0c) - 2026-08-04
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -183,6 +189,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4806932985) - 2026-07-29
 * [Pull Request] [Update EIP-7773: SFI remaining Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12024) - 2026-07-29
+* [Pull Request] [Update EIP-2780: charge delegation-target access on self-transfers](https://github.com/ethereum/EIPs/pull/12080) - 2026-08-04
 ## Q2 2026
 
 

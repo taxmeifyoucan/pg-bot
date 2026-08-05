@@ -22,6 +22,8 @@ Team: [consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%
 * [Review] [Review on: close UDP channel immediately on cancellation (QUIC)](https://github.com/libp2p/jvm-libp2p/pull/508#pullrequestreview-4828567121) - 2026-07-31
 * [Issue] [Avoid retaining locally published messages after outbound publication fails](https://github.com/libp2p/jvm-libp2p/issues/510) - 2026-08-03
 * [Commit] [Gossipsub Backpressure: Size-Aware RPC Part Batching (#507)](https://github.com/libp2p/jvm-libp2p/commit/02410783849aa1a9122d952febf6f104454495a0) - 2026-08-03
+* [Pull Request] [Gossip backpressure: Prioritize Gossip RPC parts and route IDONTWANT through backpressure queue](https://github.com/libp2p/jvm-libp2p/pull/512) - 2026-08-04
+* [Pull Request] [Gossip backpressure: detect and handle slow peers under outbound backpressure](https://github.com/libp2p/jvm-libp2p/pull/513) - 2026-08-04
 ## Q2 2026
 
 

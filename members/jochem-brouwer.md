@@ -62,6 +62,15 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Config: disable markdown-spell](https://github.com/ethereum/EIPs/pull/12065) - 2026-08-01
 * [Commit] [Config: disable markdown-spell (#12065)](https://github.com/ethereum/EIPs/commit/da1bd0b0b56d63b2428edda094ea2008a2bc6cc2) - 2026-08-01
 * [Pull Request] [Update EIP-8081: PFI EIP-5920 and EIP-7923](https://github.com/ethereum/EIPs/pull/12078) - 2026-08-04
+* [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4856624717) - 2026-08-04
+* [Review] [Review on: Update EIP-8136: Move to Review](https://github.com/ethereum/EIPs/pull/12035#pullrequestreview-4856627524) - 2026-08-04
+* [Review] [Review on: Update EIP-8159: Move to Review](https://github.com/ethereum/EIPs/pull/12036#pullrequestreview-4856630629) - 2026-08-04
+* [Review] [Review on: Update EIP-8080: Move to Review](https://github.com/ethereum/EIPs/pull/11888#pullrequestreview-4856638540) - 2026-08-04
+* [Review] [Review on: Update EIP-7975: Move to Review](https://github.com/ethereum/EIPs/pull/12033#pullrequestreview-4856620545) - 2026-08-04
+* [Review] [Review on: Update EIP-1: Remove execution-spec-tests from allowed link exceptions](https://github.com/ethereum/EIPs/pull/11845#pullrequestreview-4856714475) - 2026-08-04
+* [Review] [Review on: Update EIP-8189: Move to Review](https://github.com/ethereum/EIPs/pull/12037#pullrequestreview-4856632595) - 2026-08-04
+* [Review] [Review on: Update EIP-8081: Propose EIP-7819 for inclusion in Hegota](https://github.com/ethereum/EIPs/pull/11505#pullrequestreview-4851338507) - 2026-08-04
+* [Commit] [Update EIP-7975: clarify upper bound](https://github.com/ethereum/EIPs/commit/ea3c80c4b91db6cefe1f404ecec0f108aa899dfb) - 2026-08-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -88,6 +97,10 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: feat(test-benchmark): add stub account configuration, with state-actor example config](https://github.com/ethereum/execution-specs/pull/3203#pullrequestreview-4824581459) - 2026-07-31
 * [Pull Request] [fix(test-benchmark): fill benchmark blocks fully under EIP-8037 gas accounting (repricing)](https://github.com/ethereum/execution-specs/pull/3269) - 2026-07-31
 * [Review] [Review on: feat(test-benchmark): add stub account configuration, with state-actor example config](https://github.com/ethereum/execution-specs/pull/3203#pullrequestreview-4849325246) - 2026-08-03
+* [Pull Request] [perf(client): skip rlp check if rlp clearly not large enough](https://github.com/ethereum/execution-specs/pull/3302) - 2026-08-05
+* [Pull Request] [feat(tests): add eth_getTransactionReceipt batching](https://github.com/ethereum/execution-specs/pull/3298) - 2026-08-04
+* [Pull Request] [feat(stateful-filler): add flag to not rollback chain on stateful filler](https://github.com/ethereum/execution-specs/pull/3297) - 2026-08-04
+* [Pull Request] [feat(benchmarks): prestate deployers](https://github.com/ethereum/execution-specs/pull/3299) - 2026-08-04
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 

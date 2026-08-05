@@ -58,6 +58,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Issue] [implement validator endpoint ProduceBlockV4](https://github.com/Consensys/teku/issues/11038) - 2026-07-31
 * [Commit] [Fix edge case for BlocksByRange request (#11021)](https://github.com/Consensys/teku/commit/9f013360c73592065a0f472aea3963aacc9a71f8) - 2026-07-30
 * [Commit] [Dependencies update (#11031)](https://github.com/Consensys/teku/commit/e07f8ff19114afd8a01d32d3e5ed425dd7c817ab) - 2026-08-03
+* [Pull Request] [Add execution payload provider into combined chain data](https://github.com/Consensys/teku/pull/11052) - 2026-08-04
+* [Review] [Review on: Add execution payload provider into combined chain data](https://github.com/Consensys/teku/pull/11052#pullrequestreview-4859954106) - 2026-08-05
+* [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys/teku/pull/11060#pullrequestreview-4860013594) - 2026-08-05
+* [Review] [Review on: Update ConsenSys/github-actions digest to 3a24297](https://github.com/Consensys/teku/pull/11029#pullrequestreview-4859833027) - 2026-08-04
+* [Review] [Review on: increased cache size to a more reasonable size for current mainnet state](https://github.com/Consensys/teku/pull/11051#pullrequestreview-4851068317) - 2026-08-04
 ## Q2 2026
 
 

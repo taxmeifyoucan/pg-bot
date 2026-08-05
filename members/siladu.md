@@ -40,6 +40,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Slow block tracer](https://github.com/besu-eth/besu/pull/10746#pullrequestreview-4807326335) - 2026-07-29
 * [Review] [Review on: add programmatic JMH runner with new schema](https://github.com/besu-eth/besu/pull/10868#pullrequestreview-4820882981) - 2026-07-30
 * [Pull Request] [Add slow-block execution metrics for BAL-enabled block import](https://github.com/besu-eth/besu/pull/10959) - 2026-08-03
+* [Review] [Review on: add JMH gas profiler and formulas](https://github.com/besu-eth/besu/pull/10807#pullrequestreview-4851780570) - 2026-08-04
 ## Q2 2026
 
 

@@ -62,6 +62,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Fix isAttestationSameSlot in GLOAS](https://github.com/Consensys/teku/pull/11028#pullrequestreview-4816659049) - 2026-07-30
 * [Pull Request] [Add Aircompressor enabled logging](https://github.com/Consensys/teku/pull/11034) - 2026-07-30
 * [Commit] [Add Aircompressor enabled logging (#11034)](https://github.com/Consensys/teku/commit/a2f9326923f5371a2dd2b6bd6b23ec2cf93fe5ea) - 2026-07-30
+* [Pull Request] [Fast confirmation: tracker scaffolding (disabled by default)](https://github.com/Consensys/teku/pull/11057) - 2026-08-04
+* [Pull Request] [Fix fork choice equivocating votes update](https://github.com/Consensys/teku/pull/11058) - 2026-08-04
+* [Commit] [Fast Confirmation Calculator part2 (#11025)](https://github.com/Consensys/teku/commit/161ad5a25be3cfce003c11ef997b8f0f1b072a97) - 2026-08-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

@@ -50,6 +50,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Reorg late blocks even on slot 31](https://github.com/OffchainLabs/prysm/pull/17257#pullrequestreview-4805731734) - 2026-07-29
 * [Commit] [Log the underlying error in the "genesis provider failed" warning (#17259)](https://github.com/OffchainLabs/prysm/commit/7886752846a0442373b1fc9f46a620a5816290e5) - 2026-07-29
 * [Review] [Review on: Add SLOT_SCHEDULE for epoch based slot durations](https://github.com/OffchainLabs/prysm/pull/17260#pullrequestreview-4819669560) - 2026-07-30
+* [Review] [Review on: Verify weak subjectivity checkpoint against the finalized canonical chain](https://github.com/OffchainLabs/prysm/pull/17295#pullrequestreview-4856272867) - 2026-08-04
 ## Q2 2026
 
 

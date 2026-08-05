@@ -61,6 +61,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl, db: caplin snapshot pre-fixes (cancellation, races, verify and preverified filter gaps)](https://github.com/erigontech/erigon/pull/22944#pullrequestreview-4843283648) - 2026-08-03
 * [Review] [Review on: cl: simplify Engine API calls and fix SSZ size accounting](https://github.com/erigontech/erigon/pull/22176#pullrequestreview-4843306746) - 2026-08-03
 * [Review] [Review on: "Handshake transport error" log demote to trace level](https://github.com/erigontech/erigon/pull/22958#pullrequestreview-4842341826) - 2026-08-03
+* [Commit] [cl/pool: prune finalized operations asynchronously (#22884)](https://github.com/erigontech/erigon/commit/ebf3e0bc1ef8adca36c83ce315a7b5af692058ae) - 2026-08-04
 ## Q2 2026
 
 

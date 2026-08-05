@@ -80,9 +80,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [[beacon api] builder preferences 630](https://github.com/Consensys/teku/issues/11043) - 2026-08-02
 * [Issue] [[validator api] manage validator config](https://github.com/Consensys/teku/issues/11042) - 2026-08-02
 * [Review] [Review on: Implement spec layer for light client](https://github.com/Consensys/teku/pull/11012#pullrequestreview-4841479443) - 2026-08-03
+* [Pull Request] [Fix ROCKSDB_TREE storage for Gloas progressive container states](https://github.com/Consensys/teku/pull/11061) - 2026-08-05
+* [Pull Request] [increased cache size to a more reasonable size for current mainnet state](https://github.com/Consensys/teku/pull/11051) - 2026-08-04
+* [Review] [Review on: Remove getconstants from eth2networkconfig](https://github.com/Consensys/teku/pull/11048#pullrequestreview-4850282697) - 2026-08-04
+* [Commit] [increased cache size to a more reasonable size for current mainnet state (#11051)](https://github.com/Consensys/teku/commit/167599d3c2d1971e6243b1f9117a8e7d7343b599) - 2026-08-04
+* [Commit] [Add ROCKSDB_TREE as a database version (#10993)](https://github.com/Consensys/teku/commit/0077658f870c07f8c17a148b8ebb5eae2dbfe417) - 2026-08-04
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 
+* [Commit] [Updated client identification code to NE (#4447)](https://github.com/status-im/nimbus-eth1/commit/d31ed4b1fe56ef43379ab0cbc10f28fabf4137bf) - 2026-08-04
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848) - 2026-07-27
 * [Commit] [Added code for Nimbus EL identification (#848)](https://github.com/ethereum/execution-apis/commit/e5d1bb60e6c064e4b15080da07b4370d0baadf92) - 2026-07-27

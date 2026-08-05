@@ -42,6 +42,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [chore: update Cargo.lock](https://github.com/bluealloy/revm/pull/3827) - 2026-07-27
 * [Commit] [chore: update Cargo.lock (#3827)](https://github.com/bluealloy/revm/commit/d9220fe39672885847ef38507ae6ba4ac9b5094c) - 2026-07-27
 * [Pull Request] [fix: check call depth in CREATE pre-access checks (EIP-8037)](https://github.com/bluealloy/revm/pull/3829) - 2026-07-28
+* [Pull Request] [feat(revme): validate receipt trie root in blockchain tests](https://github.com/bluealloy/revm/pull/3841) - 2026-08-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02

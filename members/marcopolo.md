@@ -11,6 +11,9 @@ Github: [@marcopolo](https://github.com/marcopolo)
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Remove Marco](https://github.com/protocolguild/documentation/pull/511) - 2026-07-06
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8136: Move to Review](https://github.com/ethereum/EIPs/pull/12035#pullrequestreview-4859267634) - 2026-08-04
 ## Q2 2026
 
 

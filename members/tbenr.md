@@ -79,12 +79,21 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: publish submitted bids to gossip](https://github.com/Consensys/teku/pull/11040#pullrequestreview-4829353834) - 2026-07-31
 * [Review] [Review on: fix Gloas bid gas limit validation](https://github.com/Consensys/teku/pull/11024#pullrequestreview-4826879294) - 2026-07-31
 * [Review] [Review on: allow builders to bid on multiple branches](https://github.com/Consensys/teku/pull/11049#pullrequestreview-4844054636) - 2026-08-03
+* [Review] [Review on: fix proposer preferences caching](https://github.com/Consensys/teku/pull/11053#pullrequestreview-4855146980) - 2026-08-04
+* [Pull Request] [allign to master](https://github.com/Consensys/teku/pull/11056) - 2026-08-04
+* [Review] [Review on: Fast Confirmation Calculator part2](https://github.com/Consensys/teku/pull/11025#pullrequestreview-4855467133) - 2026-08-04
+* [Pull Request] [Update ethspecify version](https://github.com/Consensys/teku/pull/11055) - 2026-08-04
+* [Review] [Review on: Implement 5473 spec changes](https://github.com/Consensys/teku/pull/11032#pullrequestreview-4854550340) - 2026-08-04
+* [Commit] [update ethspecify version (#11055)](https://github.com/Consensys/teku/commit/93382a3803741c0cf49640eeeda63edfb3786aad) - 2026-08-04
+* [Commit] [Implement 5473 spec changes (#11032)](https://github.com/Consensys/teku/commit/3d7444552e6cc6e36df0a7c13d3c609b5deb0b74) - 2026-08-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07
 
 * [Review] [Review on: Add two tests for same-slot attestation zero-index assertion](https://github.com/ethereum/consensus-specs/pull/5494#pullrequestreview-4817043093) - 2026-07-30
 * [Review] [Review on: Allow multiple bids compatible with the head view](https://github.com/ethereum/consensus-specs/pull/5497#pullrequestreview-4828584790) - 2026-07-31
+* [Pull Request] [Test parent payload availability before attestation rewards](https://github.com/ethereum/consensus-specs/pull/5514) - 2026-08-04
+* [Commit] [Test parent payload availability before attestation rewards (#5514)](https://github.com/ethereum/consensus-specs/commit/46d3d35132209b5a0af531eabba8a73db328d14b) - 2026-08-04
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [QUIC memory leak fix](https://github.com/libp2p/jvm-libp2p/pull/504) - 2026-07-15
 * [Review] [Review on: Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505#pullrequestreview-4767982333) - 2026-07-23

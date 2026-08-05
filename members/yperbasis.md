@@ -344,6 +344,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [execution/types: follow-up simplifications for EIP-7702 authorization signing](https://github.com/erigontech/erigon/issues/22966) - 2026-08-03
 * [Commit] [execution: make pre-execution validation side-effect free (#21907)](https://github.com/erigontech/erigon/commit/8e6567448b3817f1e2bf54b0098e9b9775e1d28c) - 2026-08-03
 * [Commit] [cl: simplify Engine API calls and fix SSZ size accounting (#22176)](https://github.com/erigontech/erigon/commit/ea1fb7f485ac5a6c4565ebf65f2d44c82ee5beeb) - 2026-08-03
+* [Pull Request] [db/state/execctx: record getter code reads in the getter's metrics](https://github.com/erigontech/erigon/pull/23008) - 2026-08-04
+* [Pull Request] [execution/cache: two-sided fill admission for the unwind readmission window](https://github.com/erigontech/erigon/pull/23005) - 2026-08-04
+* [Pull Request] [execution/execmodule: drain read-ahead only before an actual unwind](https://github.com/erigontech/erigon/pull/23003) - 2026-08-04
+* [Review] [Review on: docs: network tabs, ext4/XFS guidance, and README-only content moved to the site](https://github.com/erigontech/erigon/pull/22919#pullrequestreview-4852918455) - 2026-08-04
+* [Review] [Review on: execution/types: reject truncated typed transactions in block-body decoding](https://github.com/erigontech/erigon/pull/23000#pullrequestreview-4854093937) - 2026-08-04
+* [Review] [Review on: execution/state: cut allocations in WriteSet.Normalize and Apply](https://github.com/erigontech/erigon/pull/22923#pullrequestreview-4853568597) - 2026-08-04
+* [Review] [Review on: cl/ssz, common/ssz, engineapi: add recursive SSZ offset and length validation](https://github.com/erigontech/erigon/pull/22988#pullrequestreview-4852718146) - 2026-08-04
+* [Review] [Review on: cl: support Gloas alpha.12 progressive SSZ and spectests](https://github.com/erigontech/erigon/pull/22912#pullrequestreview-4853308814) - 2026-08-04
+* [Review] [Review on: execution/protocol: don't compute intrinsic gas or copy the access list for rejected txs](https://github.com/erigontech/erigon/pull/22959#pullrequestreview-4853162287) - 2026-08-04
+* [Review] [Review on: cl: stabilize Gloas sync with external execution clients](https://github.com/erigontech/erigon/pull/22683#pullrequestreview-4853125452) - 2026-08-04
+* [Issue] [db/kv: converge DomainProgress and DomainVisibleEnd — one exact bound, one explicitly-approximate reporting number](https://github.com/erigontech/erigon/issues/23004) - 2026-08-04
+* [Issue] [execution/cache: a failed RwTx commit leaves applied-but-never-committed state in StateCache](https://github.com/erigontech/erigon/issues/23006) - 2026-08-04
+* [Commit] [execution/types: centralize authorization signing and recovery (#22830)](https://github.com/erigontech/erigon/commit/41e71ba897954b972ddf09d3a3aabe3141dcb96b) - 2026-08-04
+* [Commit] [execution/engineapi: validate getPayload fork boundaries and blob bundle counts (#22985)](https://github.com/erigontech/erigon/commit/770a906fe97f88415382ef07c0c6a90100e34ace) - 2026-08-04
+* [Commit] [db/state: consolidate openDirtyFiles implementations (#22178)](https://github.com/erigontech/erigon/commit/d329aa625eaefe54ab4184d95ec0c61ca5920752) - 2026-08-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

@@ -25,6 +25,8 @@ Team: Nimbus
 * [Review] [Review on: fix: syncer stalling from el_sync](https://github.com/status-im/nimbus-eth1/pull/4563#pullrequestreview-4785030112) - 2026-07-27
 * [Pull Request] [Snap sync forward utility for complete state](https://github.com/status-im/nimbus-eth1/pull/4592) - 2026-07-31
 * [Commit] [Snap sync forward utility for complete state (#4592)](https://github.com/status-im/nimbus-eth1/commit/e777f94df344571e50f23ee266c17f9c3faf5701) - 2026-07-31
+* [Pull Request] [Snap sync bal forward utility update for part states](https://github.com/status-im/nimbus-eth1/pull/4603) - 2026-08-04
+* [Commit] [Snap sync bal forward utility update for part states (#4603)](https://github.com/status-im/nimbus-eth1/commit/e1a79a838dfcfc8204630a20def8edffd05603bf) - 2026-08-04
 ## Q2 2026
 
 

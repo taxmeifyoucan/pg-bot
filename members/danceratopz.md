@@ -14,6 +14,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-1: Remove execution-spec-tests from allowed link exceptions](https://github.com/ethereum/EIPs/pull/11845) - 2026-07-01
 
+* [Commit] [Update EIP-1: Remove execution-spec-tests from allowed link exceptions](https://github.com/ethereum/EIPs/commit/5543b5cebb801cd49d42284a176031ac12dda826) - 2026-08-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): verify EIP-7997 factory nonce persists across fork-transition](https://github.com/ethereum/execution-specs/pull/3077#pullrequestreview-4607737216) - 2026-07-01
 * [Review] [Review on: feat(clients): migrate evmone t8n to the `evmone t8n` subcommand](https://github.com/ethereum/execution-specs/pull/3063#pullrequestreview-4607436288) - 2026-07-01

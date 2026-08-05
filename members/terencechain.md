@@ -159,6 +159,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Verify weak subjectivity checkpoint against the finalized canonical chain](https://github.com/OffchainLabs/prysm/pull/17295) - 2026-08-03
 * [Commit] [Remove unused reference counter from validator map handler (#17286)](https://github.com/OffchainLabs/prysm/commit/4a9884d6d55ab0792be61b6bab7f4ab44a242db6) - 2026-08-03
 * [Commit] [Only accept gossip bids compatible with the head view (#17288)](https://github.com/OffchainLabs/prysm/commit/29f34164948509de18db63772e019f0267c208be) - 2026-08-03
+* [Pull Request] [hello2](https://github.com/OffchainLabs/prysm/pull/17298) - 2026-08-05
+* [Pull Request] [hello1](https://github.com/OffchainLabs/prysm/pull/17297) - 2026-08-05
+* [Review] [Review on: Gloas builder circuit breaker: single builder tracking](https://github.com/OffchainLabs/prysm/pull/17294#pullrequestreview-4858172940) - 2026-08-04
+* [Commit] [Verify weak subjectivity checkpoint against the finalized canonical chain (#17295)](https://github.com/OffchainLabs/prysm/commit/5bf86e4faab5a5b453271c949baf66acfc0c9659) - 2026-08-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

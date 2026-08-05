@@ -40,6 +40,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Add FOCIL types and constants](https://github.com/sigp/lighthouse/pull/9708#pullrequestreview-4822385907) - 2026-07-30
 * [Pull Request] [Update ruint for rust advisory check](https://github.com/sigp/lighthouse/pull/9723) - 2026-07-30
 * [Review] [Review on: Ignore ruint advisory check](https://github.com/sigp/lighthouse/pull/9723#pullrequestreview-4831446309) - 2026-07-31
+* [Review] [Review on: Update VC `--monitoring-endpoint` help text](https://github.com/sigp/lighthouse/pull/9748#pullrequestreview-4857508912) - 2026-08-04
+* [Review] [Review on: Add gossip validation spec tests for remaining topics](https://github.com/sigp/lighthouse/pull/9713#pullrequestreview-4858287641) - 2026-08-04
+* [Review] [Review on: Reject duplicate epochs when deserializing BlobSchedule](https://github.com/sigp/lighthouse/pull/9740#pullrequestreview-4858649789) - 2026-08-04
+* [Review] [Review on: Add RangeSyncBlock test that involves the envelope](https://github.com/sigp/lighthouse/pull/9717#pullrequestreview-4858352164) - 2026-08-04
 ## Q2 2026
 
 

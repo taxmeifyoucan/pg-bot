@@ -29,6 +29,12 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: Update EIP-8297: Use simpler pseudo code for tree structure algorithm](https://github.com/ethereum/EIPs/pull/12040#pullrequestreview-4818829563) - 2026-07-30
 * [Commit] [Update EIP-8297: Use simpler pseudo code for tree structure algorithm](https://github.com/ethereum/EIPs/commit/a143951da5c43fe08315d0685d4bfad722c816ae) - 2026-07-30
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4828151828) - 2026-07-31
+* [Pull Request] [Update EIP-8297: Add a small note on reserved fields in the header](https://github.com/ethereum/EIPs/pull/12095) - 2026-08-04
+* [Pull Request] [Update EIP-8025: Add author](https://github.com/ethereum/EIPs/pull/12094) - 2026-08-04
+* [Review] [Review on: Update EIP-8297: remove CODE_OFFSET and stale header-code references](https://github.com/ethereum/EIPs/pull/12084#pullrequestreview-4855121873) - 2026-08-04
+* [Review] [Review on: Update EIP-8347: all code chunks live in CODE_ZONE](https://github.com/ethereum/EIPs/pull/12085#pullrequestreview-4855186589) - 2026-08-04
+* [Review] [Review on: Update EIP-8297: Move all code chunks into the code zone](https://github.com/ethereum/EIPs/pull/12082#pullrequestreview-4853722420) - 2026-08-04
+* [Commit] [Update EIP-8025: Add author](https://github.com/ethereum/EIPs/commit/d9468bf9c827847847b8ac9f129b3f26ed8e2365) - 2026-08-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14

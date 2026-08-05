@@ -48,6 +48,9 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Commit] [Update EIP-8038: derive access list costs from cold access costs](https://github.com/ethereum/EIPs/commit/341f3f8266d6cff87bce56c81bb3b2a740d42f6b) - 2026-07-31
 * [Pull Request] [Update EIP-8347: Align with EIP-8297 zeroization](https://github.com/ethereum/EIPs/pull/12076) - 2026-08-03
 * [Commit] [Update EIP-8347: Align with EIP-8297 zeroization](https://github.com/ethereum/EIPs/commit/e50eb1731db77db40799e96f05f7a2480aae9c8b) - 2026-08-03
+* [Pull Request] [Update EIP-2780: revise COLD_STORAGE_ACCESS and ACCOUNT_WRITE values](https://github.com/ethereum/EIPs/pull/12083) - 2026-08-04
+* [Review] [Review on: Update EIP-2780: charge delegation-target access on self-transfers](https://github.com/ethereum/EIPs/pull/12080#pullrequestreview-4853923764) - 2026-08-04
+* [Commit] [Update EIP-2780: revise COLD_STORAGE_ACCESS and ACCOUNT_WRITE values](https://github.com/ethereum/EIPs/commit/8331fb3eed0a5366b28b25a016f1ad04fac0fa8e) - 2026-08-04
 ## Q2 2026
 
 

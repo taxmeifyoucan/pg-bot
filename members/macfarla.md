@@ -103,6 +103,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Improve error handling in tx pool batch processing (#10902)](https://github.com/besu-eth/besu/commit/440dd2e59f26a86afe06aff08dbd6f777923231e) - 2026-07-30
 * [Review] [Review on: fix: fix SnapSyncForkRecoveryAcceptanceTest](https://github.com/besu-eth/besu/pull/10949#pullrequestreview-4840354213) - 2026-08-03
 * [Review] [Review on: clique: handle nullable proposer seals during address recovery](https://github.com/besu-eth/besu/pull/10824#pullrequestreview-4840431208) - 2026-08-03
+* [Pull Request] [use timeout verify to mitigate flaky BackwardSyncAlgSpecTest](https://github.com/besu-eth/besu/pull/10971) - 2026-08-05
+* [Review] [Review on: simulation gas: do not apply EIP-7825 txGasLimitCap ](https://github.com/besu-eth/besu/pull/10885#pullrequestreview-4860067896) - 2026-08-05
+* [Review] [Review on: Enable NullAway for testfuzz](https://github.com/besu-eth/besu/pull/10937#pullrequestreview-4859795567) - 2026-08-04
+* [Review] [Review on: fix(core): reject EIP-7702 transaction with empty authorization list](https://github.com/besu-eth/besu/pull/10848#pullrequestreview-4851394010) - 2026-08-04
+* [Issue] [flaky test BackwardSyncAlgSpecTest](https://github.com/besu-eth/besu/issues/10970) - 2026-08-04
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

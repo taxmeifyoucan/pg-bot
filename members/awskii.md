@@ -203,6 +203,12 @@ Team: Erigon
 * [Pull Request] [cl, db: caplin snapshot pre-fixes (cancellation, races, verify and preverified filter gaps)](https://github.com/erigontech/erigon/pull/22944) - 2026-08-01
 * [Pull Request] [EIP-8297 partitioned binary tree commitment engine](https://github.com/erigontech/erigon/pull/22942) - 2026-08-01
 
+* [Review] [Review on: rpc/jsonrpc: push fresh witnesses via debug_subscribe("executionWitnesses")](https://github.com/erigontech/erigon/pull/22407#pullrequestreview-4852115498) - 2026-08-04
+* [Review] [Review on: [r3.6] common/hexutil: improve performance of EncodeBig](https://github.com/erigontech/erigon/pull/22989#pullrequestreview-4852034085) - 2026-08-04
+* [Review] [Review on: cmd/evm, execution/tests, execution/tracing: stop rebuilding a database per state test, cheapen the trace writer](https://github.com/erigontech/erigon/pull/22992#pullrequestreview-4851549509) - 2026-08-04
+* [Review] [Review on: [r3.6] common/dbg: disable adaptive trunk-pin by default](https://github.com/erigontech/erigon/pull/22990#pullrequestreview-4852029732) - 2026-08-04
+* [Review] [Review on: execution/commitment/trie: dedup identical merge branches in HashWithModifications](https://github.com/erigontech/erigon/pull/22995#pullrequestreview-4851751804) - 2026-08-04
+* [Pull Request] [db/snapshotsync, freezeblocks: CaplinSnapshots rides BaseRoSnapshots](https://github.com/erigontech/erigon/pull/22997) - 2026-08-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 ## Q2 2026

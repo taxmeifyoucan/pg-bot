@@ -44,6 +44,8 @@ Team: Reth
 * [Review] [Review on: fix(trie): propagate proof worker startup failures](https://github.com/paradigmxyz/reth/pull/26545#pullrequestreview-4828963387) - 2026-07-31
 * [Review] [Review on: feat(rpc): support network-specific log responses](https://github.com/paradigmxyz/reth/pull/26491#pullrequestreview-4845507748) - 2026-08-03
 * [Review] [Review on: perf(rpc): reuse a single EVM across transaction replay in tracing RPCs](https://github.com/paradigmxyz/reth/pull/26561#pullrequestreview-4845469207) - 2026-08-03
+* [Review] [Review on: feat(engine): build payloads on canonical ancestors above finality](https://github.com/paradigmxyz/reth/pull/26567#pullrequestreview-4855613819) - 2026-08-04
+* [Review] [Review on: fix(engine): defer persistence handoff during payload builds](https://github.com/paradigmxyz/reth/pull/26559#pullrequestreview-4853486687) - 2026-08-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

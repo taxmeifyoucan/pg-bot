@@ -49,6 +49,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(amsterdam): Re-factor Amsterdam + Preparation for EIP-8141](https://github.com/ethereum/execution-specs/pull/3192#pullrequestreview-4826392020) - 2026-07-31
 * [Review] [Review on: refactor(spec-specs): decode withdrawal amount as uint64 per EIP-4895](https://github.com/ethereum/execution-specs/pull/3186#pullrequestreview-4844441669) - 2026-08-03
 * [Review] [Review on: refactor(spec-specs): move priority-fee check to validate_transaction](https://github.com/ethereum/execution-specs/pull/3056#pullrequestreview-4843822981) - 2026-08-03
+* [Review] [Review on: feat(fork-types): add ExecutionGas and StateGas NewType wrappers to amsterdam EVM](https://github.com/ethereum/execution-specs/pull/3121#pullrequestreview-4850722603) - 2026-08-04
+* [Commit] [refactor(specs): remove Message dataclass and update evm function flow (#3192)](https://github.com/ethereum/execution-specs/commit/9863a6ddcddef83118104941c5f4151783b11245) - 2026-08-04
 ## Q2 2026
 
 

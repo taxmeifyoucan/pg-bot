@@ -39,6 +39,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Fix incompatibilities between `--beacon-db-pruning` and `--enable-state-diff`.](https://github.com/OffchainLabs/prysm/pull/17287#pullrequestreview-4843154424) - 2026-08-03
 * [Pull Request] [partial rebuilds for beacon state progressive HTR](https://github.com/OffchainLabs/prysm/pull/17291) - 2026-08-03
 * [Commit] [add attestationGloas and replace usages (#17258)](https://github.com/OffchainLabs/prysm/commit/a685df778f2775e2396c81b4ff3ea97306dacb6b) - 2026-08-03
+* [Review] [Review on: partial rebuilds for beacon state progressive HTR](https://github.com/OffchainLabs/prysm/pull/17291#pullrequestreview-4854999439) - 2026-08-04
 ## Q2 2026
 
 

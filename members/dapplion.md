@@ -30,6 +30,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Export canonical process metrics via prometheus ProcessCollector](https://github.com/sigp/lighthouse/pull/9736#pullrequestreview-4844161055) - 2026-08-03
 * [Review] [Review on: Fix light client updates stream](https://github.com/sigp/lighthouse/pull/9643#pullrequestreview-4843919491) - 2026-08-03
 * [Issue] [Don't run cargo audit on PRs](https://github.com/sigp/lighthouse/issues/9738) - 2026-08-03
+* [Review] [Review on: Gloas partial data columns](https://github.com/sigp/lighthouse/pull/9325#pullrequestreview-4855260395) - 2026-08-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 ## Q2 2026

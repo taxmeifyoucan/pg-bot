@@ -70,6 +70,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: EIP-7688: Forward Compatible Consensus Data Structures](https://github.com/sigp/lighthouse/pull/9450#pullrequestreview-4842498226) - 2026-08-03
 * [Review] [Review on: Export canonical process metrics via prometheus ProcessCollector](https://github.com/sigp/lighthouse/pull/9736#pullrequestreview-4844153788) - 2026-08-03
 * [Review] [Review on: Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682#pullrequestreview-4843811658) - 2026-08-03
+* [Review] [Review on: Pin geth image in gloas genesis-sync CI](https://github.com/sigp/lighthouse/pull/9750#pullrequestreview-4855671771) - 2026-08-04
 ## Q2 2026
 
 

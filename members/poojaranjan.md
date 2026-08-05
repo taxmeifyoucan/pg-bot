@@ -53,6 +53,12 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Commit] [Update EIP-8045: Move to Review](https://github.com/ethereum/EIPs/commit/fd5e8784b7c1c655054a7ba8e41793458feeed57) - 2026-07-29
 * [Commit] [Update EIP-8061: Move to Review](https://github.com/ethereum/EIPs/commit/b282adbbc56828f6b07fe70555c0cd4783b28272) - 2026-07-30
 * [Commit] [Update EIP-7723: To clarify "Status" and "Stages"](https://github.com/ethereum/EIPs/commit/b4552f44e3e3a79fa522abc346f065924142232d) - 2026-07-30
+* [Review] [Review on: Add EIP: Tapered Issuance Burn](https://github.com/ethereum/EIPs/pull/12081#pullrequestreview-4860178481) - 2026-08-05
+* [Review] [Review on: Update EIP-8136: Move to Review](https://github.com/ethereum/EIPs/pull/12035#pullrequestreview-4860103645) - 2026-08-05
+* [Commit] [Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/commit/43c7af020f1641924bed60565fde86f6ad3469df) - 2026-08-05
+* [Commit] [Update EIP-8159: Move to Review](https://github.com/ethereum/EIPs/commit/e82376e7749ceb95655feba8c6355f2bc5e67180) - 2026-08-04
+* [Commit] [Update EIP-7975: Move to Review](https://github.com/ethereum/EIPs/commit/d9e35f776d9b2b8434ba7dc2690c89aa22d80a71) - 2026-08-04
+* [Commit] [Update EIP-8189: Move to Review](https://github.com/ethereum/EIPs/commit/60e2285dae7fcb7eda7befa32577085fdceb2255) - 2026-08-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #105, July 7, 2026](https://github.com/ethereum/pm/issues/2150) - 2026-07-07
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #106, July 14, 2026](https://github.com/ethereum/pm/issues/2156) - 2026-07-13

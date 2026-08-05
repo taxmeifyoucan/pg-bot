@@ -205,6 +205,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [claude: update benchmarkoor skill with state actor](https://github.com/erigontech/erigon/pull/22972) - 2026-08-03
 * [Review] [Review on: vm benchmarks: switch to parallel-exec (versioned maps, noMaterialize=true, etc...)](https://github.com/erigontech/erigon/pull/22950#pullrequestreview-4842750622) - 2026-08-03
 * [Commit] [claude: update benchmarkoor skill with state actor (#22972)](https://github.com/erigontech/erigon/commit/4d2e94f5acefdd44c83c5948b4005e331cd8f3df) - 2026-08-03
+* [Pull Request] [execmoduletester: move helper funcs for interacting with ExecModule to public receivers](https://github.com/erigontech/erigon/pull/23010) - 2026-08-04
+* [Pull Request] [execution: allow for smaller e2 file retirement step in tests](https://github.com/erigontech/erigon/pull/23009) - 2026-08-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

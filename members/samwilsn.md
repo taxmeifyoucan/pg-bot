@@ -16,6 +16,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [chore(specs): reorder tx validity checks (#3036)](https://github.com/ethereum/execution-specs/commit/8dd924e9a41c3bcd9df9e85af7da350a47320702) - 2026-07-03
 
 * [Review] [Review on: refactor(amsterdam): Re-factor Amsterdam + Preparation for EIP-8141](https://github.com/ethereum/execution-specs/pull/3192#pullrequestreview-4736669741) - 2026-07-20
+* [Review] [Review on: Frame Transactions (EIP-8141)](https://github.com/ethereum/execution-specs/pull/3047#pullrequestreview-4856508628) - 2026-08-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7329: fix homophone](https://github.com/ethereum/EIPs/pull/11890) - 2026-07-07
 * [Review] [Review on: Update EIP-7997: Move to Review](https://github.com/ethereum/EIPs/pull/11884#pullrequestreview-4647153226) - 2026-07-07

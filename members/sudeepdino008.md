@@ -115,6 +115,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.6] db/state: align visible files of every domain and index](https://github.com/erigontech/erigon/pull/22909#pullrequestreview-4843140714) - 2026-08-03
 * [Commit] [use MADV_SEQUENTIAL for btree index build scan (#22977)](https://github.com/erigontech/erigon/commit/d1d47a3418b2bbb3b00e65be800d502b3645e4a8) - 2026-08-03
 * [Commit] [db/seg: async io for domain kv files (experimental & off by default) (#22876)](https://github.com/erigontech/erigon/commit/d278d118c1541fd3b19cdf2d7be3f615a2cd2243) - 2026-08-03
+* [Review] [Review on: db/state: consolidate openDirtyFiles implementations](https://github.com/erigontech/erigon/pull/22178#pullrequestreview-4852453069) - 2026-08-04
+* [Review] [Review on: db/seg, db/state, execution/vm: check errors flagged by errcheck](https://github.com/erigontech/erigon/pull/22991#pullrequestreview-4852372076) - 2026-08-04
+* [Issue] [Single-domain `rm-state --latest` + restart silently drops data (no startup files↔DB gap check)](https://github.com/erigontech/erigon/issues/22999) - 2026-08-04
 ## Q2 2026
 
 

@@ -64,6 +64,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: get attestation rewards](https://github.com/status-im/nimbus-eth2/pull/8649#pullrequestreview-4811262349) - 2026-07-29
 * [Review] [Review on: update links to alpha 12](https://github.com/status-im/nimbus-eth2/pull/8812#pullrequestreview-4809885569) - 2026-07-29
 * [Issue] [SSE gets buffered and batched by `nginx` proxy used by `glamsterdam-devnet-7`](https://github.com/status-im/nimbus-eth2/issues/8830) - 2026-07-31
+* [Pull Request] [rm non-spec self-build EIP-1559 compliance check](https://github.com/status-im/nimbus-eth2/pull/8847) - 2026-08-04
+* [Review] [Review on: Feature: Use `Opt` instead of `Option` in Presto code](https://github.com/status-im/nimbus-eth2/pull/8818#pullrequestreview-4857456911) - 2026-08-04
+* [Review] [Review on: Syncing v3p5 (blocks buffer).](https://github.com/status-im/nimbus-eth2/pull/8842#pullrequestreview-4857636507) - 2026-08-04
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

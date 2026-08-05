@@ -123,6 +123,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on:  delay next epoch duties call for post gloas ](https://github.com/OffchainLabs/prysm/pull/17268#pullrequestreview-4845070999) - 2026-08-03
 * [Review] [Review on: Implement Web3Signer public key hot reload via URL](https://github.com/OffchainLabs/prysm/pull/17229#pullrequestreview-4847775400) - 2026-08-03
 * [Review] [Review on: add IndexedAttestationGloas and AttesterSlashingGloas](https://github.com/OffchainLabs/prysm/pull/17290#pullrequestreview-4846007304) - 2026-08-03
+* [Review] [Review on: add IndexedAttestationGloas and AttesterSlashingGloas](https://github.com/OffchainLabs/prysm/pull/17290#pullrequestreview-4855411172) - 2026-08-04
+* [Review] [Review on: REST VC: Add a cache for SSZ support](https://github.com/OffchainLabs/prysm/pull/17256#pullrequestreview-4858732976) - 2026-08-04
+* [Review] [Review on: Verify weak subjectivity checkpoint against the finalized canonical chain](https://github.com/OffchainLabs/prysm/pull/17295#pullrequestreview-4856688793) - 2026-08-04
 ## Q2 2026
 
 

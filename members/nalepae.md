@@ -68,6 +68,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [`--beacon-db-pruning`: Prune state diff buckets when the `--enable-state-diff` flag is used.](https://github.com/OffchainLabs/prysm/pull/17289) - 2026-08-03
 * [Review] [Review on: Fix incompatibilities between `--beacon-db-pruning` and `--enable-state-diff`.](https://github.com/OffchainLabs/prysm/pull/17287#pullrequestreview-4843188864) - 2026-08-03
 * [Commit] [Fix incompatibilities between `--beacon-db-pruning` and `--enable-state-diff`. (#17287)](https://github.com/OffchainLabs/prysm/commit/fadfd7303004847094eb49bb7c649cb94153bb0e) - 2026-08-03
+* [Review] [Review on: partial rebuilds for beacon state progressive HTR](https://github.com/OffchainLabs/prysm/pull/17291#pullrequestreview-4853045346) - 2026-08-04
+* [Pull Request] [Remove Bazel: Phase 4/9](https://github.com/OffchainLabs/prysm/pull/17296) - 2026-08-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 ## Q2 2026

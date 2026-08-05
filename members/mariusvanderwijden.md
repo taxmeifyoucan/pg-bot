@@ -61,6 +61,9 @@ Team: Geth
 * [Review] [Review on: accounts/abi: set stringKind for contract-typed arguments](https://github.com/ethereum/go-ethereum/pull/35345#pullrequestreview-4818222272) - 2026-07-30
 * [Pull Request] [core: update to newest parameters](https://github.com/ethereum/go-ethereum/pull/35454) - 2026-08-03
 * [Pull Request] [Glamsterdam devnet 8](https://github.com/ethereum/go-ethereum/pull/35453) - 2026-08-03
+* [Review] [Review on: core, eth: rename regular gas to execution gas](https://github.com/ethereum/go-ethereum/pull/35457#pullrequestreview-4851104534) - 2026-08-04
+* [Review] [Review on: cmd, consensus, core, miner: update 7997](https://github.com/ethereum/go-ethereum/pull/35458#pullrequestreview-4851071963) - 2026-08-04
+* [Commit] [core: update 2780 and 8038 parameters (#35454)](https://github.com/ethereum/go-ethereum/commit/92a3bed7f2c05a4cbcfe946b50a701599a564afb) - 2026-08-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 ## Q2 2026

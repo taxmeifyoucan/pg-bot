@@ -155,6 +155,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12665#pullrequestreview-4842173604) - 2026-08-03
 * [Review] [Review on: chore: Update Dockerfiles](https://github.com/NethermindEth/nethermind/pull/12667#pullrequestreview-4842074643) - 2026-08-03
 * [Review] [Review on: Rename EIP-8037 regular gas dimension to execution gas](https://github.com/NethermindEth/nethermind/pull/12600#pullrequestreview-4842071527) - 2026-08-03
+* [Review] [Review on: perf(state): skip trie warmup for read-only BAL accounts in flat layout](https://github.com/NethermindEth/nethermind/pull/12681#pullrequestreview-4858836128) - 2026-08-04
+* [Review] [Review on: Fix stale transaction pool snapshots](https://github.com/NethermindEth/nethermind/pull/12685#pullrequestreview-4858563425) - 2026-08-04
+* [Review] [Review on: fix(jsonrpc): synchronise SubscriptionManager per-client subscription bag](https://github.com/NethermindEth/nethermind/pull/12672#pullrequestreview-4854891719) - 2026-08-04
+* [Commit] [Fix EIP-7708 tracing with logs (#12577)](https://github.com/NethermindEth/nethermind/commit/725d8a5aa6a86a073951544874a823e67e9211c4) - 2026-08-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

@@ -18,6 +18,7 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: stitch acdc 183 assets, restart pipeline](https://github.com/ethereum/pm/commit/9630998845102b364b4ce8b4a6ebfd201a255560) - 2026-07-23
 * [Commit] [acdbot: fix manual vid commit msg](https://github.com/ethereum/pm/commit/2b1fc5c4d334278da21a324fb59912f5239b2912) - 2026-07-29
 * [Commit] [acdbot: introduce manual video upload](https://github.com/ethereum/pm/commit/57f14590d51e5c08b2d3a308b46dad31b7b28f2f) - 2026-07-29
+* [Commit] [acdbot: vocab](https://github.com/ethereum/pm/commit/faf0ed2583750bbae37e7ce5d3eeefea64b5761d) - 2026-08-04
 ## Q2 2026
 
 

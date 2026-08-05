@@ -207,6 +207,17 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump the ci-weekly group with 3 updates](https://github.com/paradigmxyz/reth/pull/26556#pullrequestreview-4842856930) - 2026-08-03
 * [Review] [Review on: feat(rpc): add eth_getMultiProof](https://github.com/paradigmxyz/reth/pull/26555#pullrequestreview-4842359292) - 2026-08-03
 * [Commit] [chore(deps): update Alloy and Tokio Tungstenite (#26562)](https://github.com/paradigmxyz/reth/commit/7a98a9c7ac857b14fb07a2014fe1fd5ca2868523) - 2026-08-03
+* [Pull Request] [perf(provider): avoid collecting in-memory chain in tx lookup](https://github.com/paradigmxyz/reth/pull/26583) - 2026-08-04
+* [Pull Request] [test: fix e2e testsuite flows building below finalized blocks](https://github.com/paradigmxyz/reth/pull/26578) - 2026-08-04
+* [Pull Request] [test(engine): manage finality in e2e reorg flows](https://github.com/paradigmxyz/reth/pull/26584) - 2026-08-04
+* [Review] [Review on: feat(provider): return header with transaction metadata](https://github.com/paradigmxyz/reth/pull/26571#pullrequestreview-4857786326) - 2026-08-04
+* [Review] [Review on: fix(engine): defer persistence handoff during payload builds](https://github.com/paradigmxyz/reth/pull/26559#pullrequestreview-4853561278) - 2026-08-04
+* [Review] [Review on: fix(rpc): accept BlockId for execution witness](https://github.com/paradigmxyz/reth/pull/26572#pullrequestreview-4853672904) - 2026-08-04
+* [Review] [Review on: refactor(trie): no longer set wiped field of HashedPostState](https://github.com/paradigmxyz/reth/pull/26524#pullrequestreview-4853613443) - 2026-08-04
+* [Review] [Review on: fix(rpc): stop cancelled payload body hash requests](https://github.com/paradigmxyz/reth/pull/26569#pullrequestreview-4852637784) - 2026-08-04
+* [Review] [Review on: feat(net): gate serving GetPooledTransactions by peer kind](https://github.com/paradigmxyz/reth/pull/26548#pullrequestreview-4852799878) - 2026-08-04
+* [Commit] [test(engine): manage finality in e2e reorg flows (#26584)](https://github.com/paradigmxyz/reth/commit/92855d2643e407fa2a84c29a48c6c199a7e6ff52) - 2026-08-04
+* [Commit] [feat(engine): build payloads on canonical ancestors above finality (#26567)](https://github.com/paradigmxyz/reth/commit/b3112af5aa7174298546ec6e66410b7e10d0820e) - 2026-08-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

@@ -67,6 +67,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Gloas builder circuit breaker: single builder tracking](https://github.com/OffchainLabs/prysm/pull/17293) - 2026-08-03
 * [Pull Request] [Archive mode: backfill to a past state and regenerate history into the hdiff tree](https://github.com/OffchainLabs/prysm/pull/17292) - 2026-08-03
 * [Commit] [Reorg late blocks even on slot 31 (#17257)](https://github.com/OffchainLabs/prysm/commit/83713b2708ebd0d4512a79c3039e62a32a022a73) - 2026-08-03
+* [Review] [Review on: Gloas builder circuit breaker: single builder tracking](https://github.com/OffchainLabs/prysm/pull/17294#pullrequestreview-4856717706) - 2026-08-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

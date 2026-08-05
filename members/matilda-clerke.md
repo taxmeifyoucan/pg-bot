@@ -34,6 +34,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: Remove beaconchainutil from other test fixtures](https://github.com/Consensys/teku/pull/11030#pullrequestreview-4840646532) - 2026-08-03
 * [Pull Request] [Remove getconstants from eth2networkconfig](https://github.com/Consensys/teku/pull/11048) - 2026-08-03
 * [Commit] [Remove beaconchainutil from other test fixtures (#11030)](https://github.com/Consensys/teku/commit/a0284478d0e391f9f2881009981833395308a3ee) - 2026-08-04
+* [Pull Request] [Remove deprecated methods from MiscHelpersFulu](https://github.com/Consensys/teku/pull/11059) - 2026-08-04
+* [Review] [Review on: Remove getconstants from eth2networkconfig](https://github.com/Consensys/teku/pull/11048#pullrequestreview-4850594378) - 2026-08-04
 ## Q2 2026
 
 

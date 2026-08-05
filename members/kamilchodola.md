@@ -100,6 +100,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add RPC benchmarking workflow (multi-client: flood / EthCallChaos / json-bench / dotTrace) on the reproducible-benchmarks runner (#11961)](https://github.com/NethermindEth/nethermind/commit/171081e8666c0410320f85d32b72da80322a582c) - 2026-07-30
 * [Pull Request] [perf(consensus): cap the background bloom parallelism during commit [DRAFT - perf claim not established]](https://github.com/NethermindEth/nethermind/pull/12630) - 2026-07-31
 * [Commit] [fix(rpc-bench): run benchmarked nodes the way production runs them (#12625)](https://github.com/NethermindEth/nethermind/commit/4c0ec81fbdd2926a81d987e490b86e0efcb3006f) - 2026-08-03
+* [Pull Request] [Fix stale transaction pool snapshots](https://github.com/NethermindEth/nethermind/pull/12685) - 2026-08-04
+* [Pull Request] [Optimize EVM stream execution for common fused operations](https://github.com/NethermindEth/nethermind/pull/12686) - 2026-08-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

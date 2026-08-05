@@ -17,6 +17,7 @@ Team: Erigon
 * [Review] [Review on: integration-tool: Make sync convergence retries configurable (--sync-retries) default 300](https://github.com/erigontech/rpc-tests/pull/584#pullrequestreview-4639078479) - 2026-07-06
 * [Review] [Review on: integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583#pullrequestreview-4634705896) - 2026-07-06
 * [Review] [Review on: integration-test: add tests for testing_commitBlockV1](https://github.com/erigontech/rpc-tests/pull/585#pullrequestreview-4678393525) - 2026-07-11
+* [Review] [Review on: Fix flaky latest tests: concurrent dispatch and head classification](https://github.com/erigontech/rpc-tests/pull/586#pullrequestreview-4858964705) - 2026-08-04
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: increase timer sync verify with reference node](https://github.com/erigontech/erigon/pull/22279#pullrequestreview-4639179688) - 2026-07-06
 * [Review] [Review on: [3.5] QA: Modified default wait sync latest from 10 to 300](https://github.com/erigontech/erigon/pull/22280#pullrequestreview-4639577451) - 2026-07-06
@@ -35,6 +36,7 @@ Team: Erigon
 * [Commit] [qa-tests: add Claude's skills to improve the analysis of QA test results. (#22769)](https://github.com/erigontech/erigon/commit/e32436c2dc742e6502839f80d1b2e19f779b933f) - 2026-07-30
 * [Review] [Review on: rpc: prestateTracer must skip faulted opcodes](https://github.com/erigontech/erigon/pull/22941#pullrequestreview-4838206570) - 2026-08-02
 * [Pull Request] [qa-tests: add file retirement test for minimal node ](https://github.com/erigontech/erigon/pull/22984) - 2026-08-03
+* [Commit] [qa-tests: add file retirement test for minimal node  (#22984)](https://github.com/erigontech/erigon/commit/824cf9764e98a40f476dda1d3a393c13bf77bd05) - 2026-08-04
 ## Q2 2026
 
 
