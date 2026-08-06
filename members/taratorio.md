@@ -207,6 +207,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [claude: update benchmarkoor skill with state actor (#22972)](https://github.com/erigontech/erigon/commit/4d2e94f5acefdd44c83c5948b4005e331cd8f3df) - 2026-08-03
 * [Pull Request] [execmoduletester: move helper funcs for interacting with ExecModule to public receivers](https://github.com/erigontech/erigon/pull/23010) - 2026-08-04
 * [Pull Request] [execution: allow for smaller e2 file retirement step in tests](https://github.com/erigontech/erigon/pull/23009) - 2026-08-04
+* [Pull Request] [[DO-NOT-MERGE] execution: fix gd8 hive eest remaining failures](https://github.com/erigontech/erigon/pull/23043) - 2026-08-05
+* [Review] [Review on: execution: allow for smaller e2 file retirement step in tests](https://github.com/erigontech/erigon/pull/23009#pullrequestreview-4867416807) - 2026-08-05
+* [Pull Request] [execution: remove unused moduleutil](https://github.com/erigontech/erigon/pull/23042) - 2026-08-05
+* [Commit] [execution: allow for smaller e2 file retirement step in tests (#23009)](https://github.com/erigontech/erigon/commit/35dba03486f93e4b77c68c472070013fa4deb612) - 2026-08-05
+* [Commit] [execmoduletester: move helper funcs for interacting with ExecModule to public receivers (#23010)](https://github.com/erigontech/erigon/commit/53757742e7855e78914868cb94a89269ba8aa62a) - 2026-08-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

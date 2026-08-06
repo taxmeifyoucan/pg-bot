@@ -35,6 +35,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Pull Request] [Update VC `--monitoring-endpoint` help text](https://github.com/sigp/lighthouse/pull/9748) - 2026-08-04
 * [Pull Request] [Pin geth image in gloas genesis-sync CI](https://github.com/sigp/lighthouse/pull/9750) - 2026-08-04
 * [Review] [Review on: Add RangeSyncBlock test that involves the envelope](https://github.com/sigp/lighthouse/pull/9717#pullrequestreview-4852221048) - 2026-08-04
+* [Review] [Review on: Gloas alpha spec 12 changes](https://github.com/sigp/lighthouse/pull/9596#pullrequestreview-4870065610) - 2026-08-06
 ## Q2 2026
 
 

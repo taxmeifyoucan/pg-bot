@@ -43,6 +43,10 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Pull Request] [Update EIP-8081: PFI EIP-8200 & EIP-7666](https://github.com/ethereum/EIPs/pull/12088) - 2026-08-04
 * [Pull Request] [Update EIP-7666: Move to Draft](https://github.com/ethereum/EIPs/pull/12089) - 2026-08-04
 * [Commit] [Update EIP-8081: PFI EIP-8200 & EIP-7666](https://github.com/ethereum/EIPs/commit/72a8f0a725561d350a0da759beaf28a8a39a7d64) - 2026-08-04
+* [Pull Request] [Update EIP-8081: PFI EIPs -8321, -8334, -8341](https://github.com/ethereum/EIPs/pull/12112) - 2026-08-05
+* [Pull Request] [Update EIP-7773: Add EIP-8254 to DFI EIPs](https://github.com/ethereum/EIPs/pull/12111) - 2026-08-05
+* [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4860583169) - 2026-08-05
+* [Commit] [Update EIP-7773: Add EIP-8254 to DFI EIPs](https://github.com/ethereum/EIPs/commit/6e35ab23896d23d936bbb690b1df018fae42af9a) - 2026-08-05
 ## Q2 2026
 
 

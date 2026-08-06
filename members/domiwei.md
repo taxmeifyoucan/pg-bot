@@ -62,6 +62,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl: simplify Engine API calls and fix SSZ size accounting](https://github.com/erigontech/erigon/pull/22176#pullrequestreview-4843306746) - 2026-08-03
 * [Review] [Review on: "Handshake transport error" log demote to trace level](https://github.com/erigontech/erigon/pull/22958#pullrequestreview-4842341826) - 2026-08-03
 * [Commit] [cl/pool: prune finalized operations asynchronously (#22884)](https://github.com/erigontech/erigon/commit/ebf3e0bc1ef8adca36c83ce315a7b5af692058ae) - 2026-08-04
+* [Review] [Review on: cl/ssz, common/ssz, engineapi: add recursive SSZ offset and length validation](https://github.com/erigontech/erigon/pull/22988#pullrequestreview-4861701018) - 2026-08-05
+* [Commit] [cl: support Gloas alpha.12 progressive SSZ and spectests (#22912)](https://github.com/erigontech/erigon/commit/22ec7a495ee5be6a3e9092017b172fa3aeb13752) - 2026-08-05
 ## Q2 2026
 
 

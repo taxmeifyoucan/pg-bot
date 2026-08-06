@@ -71,6 +71,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Export canonical process metrics via prometheus ProcessCollector](https://github.com/sigp/lighthouse/pull/9736#pullrequestreview-4844153788) - 2026-08-03
 * [Review] [Review on: Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682#pullrequestreview-4843811658) - 2026-08-03
 * [Review] [Review on: Pin geth image in gloas genesis-sync CI](https://github.com/sigp/lighthouse/pull/9750#pullrequestreview-4855671771) - 2026-08-04
+* [Review] [Review on: Add inclusion list committee derivation](https://github.com/sigp/lighthouse/pull/9742#pullrequestreview-4864033373) - 2026-08-05
 ## Q2 2026
 
 

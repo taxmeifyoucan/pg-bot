@@ -59,6 +59,12 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Commit] [Update EIP-8159: Move to Review](https://github.com/ethereum/EIPs/commit/e82376e7749ceb95655feba8c6355f2bc5e67180) - 2026-08-04
 * [Commit] [Update EIP-7975: Move to Review](https://github.com/ethereum/EIPs/commit/d9e35f776d9b2b8434ba7dc2690c89aa22d80a71) - 2026-08-04
 * [Commit] [Update EIP-8189: Move to Review](https://github.com/ethereum/EIPs/commit/60e2285dae7fcb7eda7befa32577085fdceb2255) - 2026-08-04
+* [Pull Request] [Update EIP-8282: Move to Review](https://github.com/ethereum/EIPs/pull/12108) - 2026-08-05
+* [Review] [Review on: Update EIP-8282: Move to Review](https://github.com/ethereum/EIPs/pull/12108#pullrequestreview-4865774960) - 2026-08-05
+* [Pull Request] [Update EIP-8133: Update EIP-8133 requirements and naming conventions](https://github.com/ethereum/EIPs/pull/12096) - 2026-08-05
+* [Commit] [Update EIP-8282: Move to Review](https://github.com/ethereum/EIPs/commit/ba60c6474f603d93abbb4b0520f203dc8cb8c930) - 2026-08-05
+* [Commit] [Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/commit/7b761e3d176730c488bfc4f1e3b261e3d93898b8) - 2026-08-05
+* [Commit] [Update EIP-8133: Update EIP-8133 requirements and naming conventions](https://github.com/ethereum/EIPs/commit/5c1d1ee48602b65c25a1dadc60759c59250a4f37) - 2026-08-05
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #105, July 7, 2026](https://github.com/ethereum/pm/issues/2150) - 2026-07-07
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #106, July 14, 2026](https://github.com/ethereum/pm/issues/2156) - 2026-07-13
@@ -66,6 +72,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #107, July 21, 2026](https://github.com/ethereum/pm/issues/2160) - 2026-07-15
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #108, July 28, 2026](https://github.com/ethereum/pm/issues/2173) - 2026-07-27
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #109, Aug 04, 2026](https://github.com/ethereum/pm/issues/2180) - 2026-08-03
+* [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #110, Aug 11, 2026](https://github.com/ethereum/pm/issues/2183) - 2026-08-05
 ## Q2 2026
 
 

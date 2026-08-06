@@ -72,6 +72,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Gloas/Heze mainnet sanity/slots/historical_accumulator spec test is ~7.5x slower than pre-Gloas forks](https://github.com/ChainSafe/lodestar/issues/9771) - 2026-08-05
 * [Commit] [chore: follow up on #9390 on EIP-7688 changes (#9689)](https://github.com/ChainSafe/lodestar/commit/c50ba3579906b794f6ec8121ea72c59dad0d17f9) - 2026-08-04
 * [Commit] [fix: use payload request limit for envelope byPeer range quota (#9710)](https://github.com/ChainSafe/lodestar/commit/d9bad172a8c72d863401c5022617f37d199cb8f7) - 2026-08-04
+* [Commit] [feat: add heze fork definition and boilerplate (#9505)](https://github.com/ChainSafe/lodestar/commit/9be1d27b00f052061d80d6fadb5835b8d1b00c95) - 2026-08-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09
@@ -89,6 +90,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [chore: sync gloas spec fields to v1.7.0-alpha.12](https://github.com/ethpandaops/dora/pull/797) - 2026-07-15
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Add EIP: Balance sunset for retired BLS validators](https://github.com/ethereum/EIPs/pull/12099) - 2026-08-05
+* [Review] [Review on: Add EIP: Balance sunset for retired BLS validators](https://github.com/ethereum/EIPs/pull/12099#pullrequestreview-4861964360) - 2026-08-05
+* [Pull Request] [Add EIP: BLS withdrawal credential retirement](https://github.com/ethereum/EIPs/pull/12097) - 2026-08-05
 ## Q2 2026
 
 

@@ -30,6 +30,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: automate project board PR status transitions](https://github.com/ChainSafe/lodestar/pull/9732) - 2026-07-30
 * [Review] [Review on: refactor: use UintBn64 for Eth1Data.depositCount](https://github.com/ChainSafe/lodestar/pull/9747#pullrequestreview-4855554136) - 2026-08-04
 * [Review] [Review on: chore: use tsc for builder package scripts](https://github.com/ChainSafe/lodestar/pull/9766#pullrequestreview-4855663478) - 2026-08-04
+* [Review] [Review on: chore: handle Rekor 409 conflict during npm provenance publish](https://github.com/ChainSafe/lodestar/pull/9703#pullrequestreview-4866108847) - 2026-08-05
+* [Review] [Review on: feat: gloas polar bear banner](https://github.com/ChainSafe/lodestar/pull/9742#pullrequestreview-4865212585) - 2026-08-05
+* [Issue] [Revert Browser Support for New BLST](https://github.com/ChainSafe/lodestar/issues/9774) - 2026-08-05
+* [Issue] [Implement pre-generated keys for testing](https://github.com/ChainSafe/lodestar/issues/9775) - 2026-08-05
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

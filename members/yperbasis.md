@@ -359,6 +359,29 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution/types: centralize authorization signing and recovery (#22830)](https://github.com/erigontech/erigon/commit/41e71ba897954b972ddf09d3a3aabe3141dcb96b) - 2026-08-04
 * [Commit] [execution/engineapi: validate getPayload fork boundaries and blob bundle counts (#22985)](https://github.com/erigontech/erigon/commit/770a906fe97f88415382ef07c0c6a90100e34ace) - 2026-08-04
 * [Commit] [db/state: consolidate openDirtyFiles implementations (#22178)](https://github.com/erigontech/erigon/commit/d329aa625eaefe54ab4184d95ec0c61ca5920752) - 2026-08-04
+* [Pull Request] [execution, db: keep StateCache coherent through startup catchup; batch applies](https://github.com/erigontech/erigon/pull/23033) - 2026-08-05
+* [Review] [Review on: execution, db: keep StateCache coherent through startup catchup; batch applies](https://github.com/erigontech/erigon/pull/23033#pullrequestreview-4865476804) - 2026-08-05
+* [Pull Request] [db/state, execution: reconcile StateCache and BranchCache at the file-publication boundary](https://github.com/erigontech/erigon/pull/23047) - 2026-08-05
+* [Review] [Review on: rpc: resolve eth_feeHistory on the block overlay view](https://github.com/erigontech/erigon/pull/22987#pullrequestreview-4863318974) - 2026-08-05
+* [Pull Request] [[r3.6] execution/types: reject truncated typed transactions in block-body decoding](https://github.com/erigontech/erigon/pull/23041) - 2026-08-05
+* [Review] [Review on: execution/types: reject truncated typed transactions in block-body decoding](https://github.com/erigontech/erigon/pull/23000#pullrequestreview-4865951072) - 2026-08-05
+* [Pull Request] [[r3.6] go.mod: revert go-eth-kzg verifier optimization](https://github.com/erigontech/erigon/pull/23036) - 2026-08-05
+* [Review] [Review on: cl/ssz, common/ssz, engineapi: add recursive SSZ offset and length validation](https://github.com/erigontech/erigon/pull/22988#pullrequestreview-4864293923) - 2026-08-05
+* [Pull Request] [go.mod: revert go-eth-kzg verifier optimization](https://github.com/erigontech/erigon/pull/23029) - 2026-08-05
+* [Pull Request] [execution, db: state-cache review follow-ups; wire frozen-block catchup into the apply stream](https://github.com/erigontech/erigon/pull/23018) - 2026-08-05
+* [Review] [Review on: docs: network tabs, ext4/XFS guidance, and README-only content moved to the site](https://github.com/erigontech/erigon/pull/22919#pullrequestreview-4862292056) - 2026-08-05
+* [Review] [Review on: execution/state: make log Reset cost the transaction, not the block](https://github.com/erigontech/erigon/pull/23007#pullrequestreview-4864248717) - 2026-08-05
+* [Pull Request] [[r3.6] execution, db: bind StateCache fills to transaction views and reject stale fills](https://github.com/erigontech/erigon/pull/23031) - 2026-08-05
+* [Review] [Review on: [r3.6] execution/stagedsync: cut allocations and redundant account reads in normalizeWriteSet](https://github.com/erigontech/erigon/pull/23026#pullrequestreview-4864446106) - 2026-08-05
+* [Review] [Review on: cl: stabilize Gloas sync with external execution clients](https://github.com/erigontech/erigon/pull/22683#pullrequestreview-4864482645) - 2026-08-05
+* [Issue] [CodeStore: TblCodeCache size counter drifts when a transaction rolls back after Evict](https://github.com/erigontech/erigon/issues/23048) - 2026-08-05
+* [Issue] [StateCache: fills can go stale when a snapshot download extends file visibility with never-applied state](https://github.com/erigontech/erigon/issues/23028) - 2026-08-05
+* [Issue] [engineapi: complete Amsterdam REST-SSZ blob and custody support](https://github.com/erigontech/erigon/issues/23045) - 2026-08-05
+* [Issue] [cl/phase1/network/services: reuse pendingJobQueue for Gloas data-column sidecars](https://github.com/erigontech/erigon/issues/23044) - 2026-08-05
+* [Issue] [execution/types: bare rlp.EOL sentinel lets decoders accept non-canonical encodings (BAL account changes)](https://github.com/erigontech/erigon/issues/23038) - 2026-08-05
+* [Commit] [cl/ssz, common/ssz, engineapi: add recursive SSZ offset and length validation (#22988)](https://github.com/erigontech/erigon/commit/8d0108c9feb67dd7216df68605e12379fd0b6815) - 2026-08-05
+* [Commit] [go.mod: revert go-eth-kzg verifier optimization (#23029)](https://github.com/erigontech/erigon/commit/f9a7795d9b09174c5994e731f67e3b2b522063fa) - 2026-08-05
+* [Commit] [execution, db: bind StateCache fills to transaction views and reject stale fills (#22444)](https://github.com/erigontech/erigon/commit/0d6bcab904860984ce6d0df27ecb1937c431a186) - 2026-08-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

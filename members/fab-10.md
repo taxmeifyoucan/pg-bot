@@ -79,6 +79,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Refactor engine_getPayload into a sealed version hierarchy (#10890)](https://github.com/besu-eth/besu/commit/b47d777bf11c1df480205b4f26754abb5abd0c90) - 2026-08-03
 * [Pull Request] [Refactor engine_getPayloadBodiesBy*  into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10968) - 2026-08-04
 * [Review] [Review on: Refactor engine_getPayloadBodiesBy*  into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10968#pullrequestreview-4853137026) - 2026-08-04
+* [Review] [Review on: snap/2 - hybrid fcu / peer pivot selector](https://github.com/besu-eth/besu/pull/10969#pullrequestreview-4862360377) - 2026-08-05
+* [Review] [Review on: ForkchoiceUpdate: verify world state is available for the newHead otherwise return syncing](https://github.com/besu-eth/besu/pull/10960#pullrequestreview-4865280895) - 2026-08-05
+* [Review] [Review on: Refactor engine_getPayloadBodiesBy*  into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10968#pullrequestreview-4864193558) - 2026-08-05
+* [Commit] [ForkchoiceUpdate: verify world state is available for the newHead otherwise return syncing (#10960)](https://github.com/besu-eth/besu/commit/7052d2bfeaa8e0cd488e86fcde352bc624a13a2e) - 2026-08-05
 ## Q2 2026
 
 

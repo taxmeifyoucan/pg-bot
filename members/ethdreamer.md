@@ -21,6 +21,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 * [Issue] [Gloas partial data column message support](https://github.com/sigp/lighthouse/issues/9588) - 2026-07-07
 * [Issue] [Gloas light client support](https://github.com/sigp/lighthouse/issues/9587) - 2026-07-07
 * [Pull Request] [Narrow payload bid cache generics to EthSpec](https://github.com/sigp/lighthouse/pull/9645) - 2026-07-15
+* [Pull Request] [Gloas: external builder API (payload bid selection and block production)](https://github.com/sigp/lighthouse/pull/9757) - 2026-08-06
 ## Q2 2026
 
 

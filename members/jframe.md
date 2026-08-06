@@ -24,6 +24,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843#pullrequestreview-4803811675) - 2026-07-29
 * [Review] [Review on: Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874#pullrequestreview-4803866465) - 2026-07-29
 * [Review] [Review on: Checkpoint cli option](https://github.com/besu-eth/besu/pull/10874#pullrequestreview-4815788670) - 2026-07-30
+* [Pull Request] [fix: Bonsai full sync halt at block 10,094,566 — storage skipped for selfdestructed+recreated accounts](https://github.com/besu-eth/besu/pull/10979) - 2026-08-05
+* [Review] [Review on: fix: incremental frontierRootHash to avoid O(N²) on pre-Byzantium blocks](https://github.com/besu-eth/besu/pull/10220#pullrequestreview-4861151121) - 2026-08-05
+* [Pull Request] [Bonsai Archive state proofs trienode diff](https://github.com/besu-eth/besu/pull/10974) - 2026-08-05
+* [Issue] [Bonsai: mainnet full sync halts at block 10,094,566 — state root mismatch (selfdestruct + recreate with identical storage)](https://github.com/besu-eth/besu/issues/10978) - 2026-08-05
 ## Q2 2026
 
 

@@ -126,6 +126,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: add IndexedAttestationGloas and AttesterSlashingGloas](https://github.com/OffchainLabs/prysm/pull/17290#pullrequestreview-4855411172) - 2026-08-04
 * [Review] [Review on: REST VC: Add a cache for SSZ support](https://github.com/OffchainLabs/prysm/pull/17256#pullrequestreview-4858732976) - 2026-08-04
 * [Review] [Review on: Verify weak subjectivity checkpoint against the finalized canonical chain](https://github.com/OffchainLabs/prysm/pull/17295#pullrequestreview-4856688793) - 2026-08-04
+* [Review] [Review on: REST VC: Add a cache for SSZ support](https://github.com/OffchainLabs/prysm/pull/17256#pullrequestreview-4865127547) - 2026-08-05
 ## Q2 2026
 
 

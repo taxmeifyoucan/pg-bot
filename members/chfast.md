@@ -146,6 +146,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514) - 2026-07-16
 * [Commit] [types: reject empty-string element in RLP transaction-list decode (#22514)](https://github.com/erigontech/erigon/commit/cc8fe456daef63f3938dcb0c51dbf323d620c2a2) - 2026-07-16
 * [Pull Request] [execution/types: reject truncated typed transactions in block-body decoding](https://github.com/erigontech/erigon/pull/23000) - 2026-08-04
+* [Commit] [execution/types: reject truncated typed transactions in block-body decoding (#23000)](https://github.com/erigontech/erigon/commit/2c50255829a8af4207c80abe09ce6d2375c3c2f6) - 2026-08-05
 ## Q2 2026
 
 

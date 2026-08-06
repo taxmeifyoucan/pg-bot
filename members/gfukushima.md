@@ -63,6 +63,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys/teku/pull/11060#pullrequestreview-4860013594) - 2026-08-05
 * [Review] [Review on: Update ConsenSys/github-actions digest to 3a24297](https://github.com/Consensys/teku/pull/11029#pullrequestreview-4859833027) - 2026-08-04
 * [Review] [Review on: increased cache size to a more reasonable size for current mainnet state](https://github.com/Consensys/teku/pull/11051#pullrequestreview-4851068317) - 2026-08-04
+* [Commit] [Add execution payload provider into combined chain data (#11052)](https://github.com/Consensys/teku/commit/134c173d4d0e206e4d90c698d6371ada1abac451) - 2026-08-05
 ## Q2 2026
 
 

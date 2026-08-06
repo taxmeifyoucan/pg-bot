@@ -164,6 +164,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(receipts): restore the post-merge flag before regeneration](https://github.com/NethermindEth/nethermind/pull/12641#pullrequestreview-4842951265) - 2026-08-03
 * [Commit] [Validate ABI decode allocation bounds (#12588)](https://github.com/NethermindEth/nethermind/commit/31295e5d167d50e5857db569974f0066778565ae) - 2026-08-03
 * [Commit] [Rename EIP-8037 regular gas dimension to execution gas (#12600)](https://github.com/NethermindEth/nethermind/commit/be189fda8690da795d290cb9deb29356f2cce19e) - 2026-08-03
+* [Review] [Review on: test: pin eth/62-66 serializer wire encodings with hand-derived goldens](https://github.com/NethermindEth/nethermind/pull/12696#pullrequestreview-4863816293) - 2026-08-05
+* [Review] [Review on: Encode engine_newPayloadWithWitness witness as an RLP data string](https://github.com/NethermindEth/nethermind/pull/12635#pullrequestreview-4863737197) - 2026-08-05
+* [Commit] [Encode engine_newPayloadWithWitness witness as an RLP data string (#12635)](https://github.com/NethermindEth/nethermind/commit/d80c84c298b34387d46be34d3ee987660032cf71) - 2026-08-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

@@ -150,6 +150,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Improve FastHash performance (#12632)](https://github.com/NethermindEth/nethermind/commit/97816c9da8038a5a9432c787aa8b69e2646db85b) - 2026-07-31
 * [Review] [Review on: Validate ABI decode allocation bounds](https://github.com/NethermindEth/nethermind/pull/12588#pullrequestreview-4844805826) - 2026-08-03
 * [Pull Request] [ci: run orphaned Nethermind test projects in the test matrix](https://github.com/NethermindEth/nethermind/pull/12689) - 2026-08-05
+* [Pull Request] [test: make decoder tests assert the decoded values](https://github.com/NethermindEth/nethermind/pull/12711) - 2026-08-06
+* [Pull Request] [test: Db tests assert stored state instead of smoke-calling empty methods](https://github.com/NethermindEth/nethermind/pull/12693) - 2026-08-05
+* [Pull Request] [test: give vacuous size-extension and hint-cache tests real expectations](https://github.com/NethermindEth/nethermind/pull/12710) - 2026-08-05
+* [Pull Request] [fix(jsonrpc): serialize receipt root as full-width DATA](https://github.com/NethermindEth/nethermind/pull/12706) - 2026-08-05
+* [Pull Request] [test: add JSON converter golden tests and fix public-key DATA width](https://github.com/NethermindEth/nethermind/pull/12705) - 2026-08-05
+* [Pull Request] [test: pin eth/62-66 serializer wire encodings with hand-derived goldens](https://github.com/NethermindEth/nethermind/pull/12696) - 2026-08-05
+* [Review] [Review on: Stop parallel transaction execution once BAL validation rejects the block](https://github.com/NethermindEth/nethermind/pull/12697#pullrequestreview-4866444509) - 2026-08-05
+* [Pull Request] [test: make can-never-fail tests assert what their names claim](https://github.com/NethermindEth/nethermind/pull/12690) - 2026-08-05
+* [Pull Request] [test: add hand-derived golden tests for eth/71 and snap serializers](https://github.com/NethermindEth/nethermind/pull/12699) - 2026-08-05
+* [Pull Request] [test: give state/evm smoke tests real assertions](https://github.com/NethermindEth/nethermind/pull/12694) - 2026-08-05
+* [Review] [Review on: Encode engine_newPayloadWithWitness witness as an RLP data string](https://github.com/NethermindEth/nethermind/pull/12635#pullrequestreview-4863725607) - 2026-08-05
+* [Review] [Review on: feat: add built-in portfolio viewer UI at /portfolio](https://github.com/NethermindEth/nethermind/pull/12360#pullrequestreview-4863203520) - 2026-08-05
+* [Commit] [test: pin eth/62-66 serializer wire encodings with hand-derived goldens (#12696)](https://github.com/NethermindEth/nethermind/commit/ffbb46fdd57baff325bcf8061f8e26a7088cbfbf) - 2026-08-05
+* [Commit] [test: make can-never-fail tests assert what their names claim (#12690)](https://github.com/NethermindEth/nethermind/commit/b4135b6125b8d1c3120b67db0429061d0260ffdb) - 2026-08-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

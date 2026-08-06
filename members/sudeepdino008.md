@@ -118,6 +118,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state: consolidate openDirtyFiles implementations](https://github.com/erigontech/erigon/pull/22178#pullrequestreview-4852453069) - 2026-08-04
 * [Review] [Review on: db/seg, db/state, execution/vm: check errors flagged by errcheck](https://github.com/erigontech/erigon/pull/22991#pullrequestreview-4852372076) - 2026-08-04
 * [Issue] [Single-domain `rm-state --latest` + restart silently drops data (no startup files↔DB gap check)](https://github.com/erigontech/erigon/issues/22999) - 2026-08-04
+* [Pull Request] [fail fast on files-DB gap](https://github.com/erigontech/erigon/pull/23022) - 2026-08-05
+* [Review] [Review on: fail fast on files-DB gap](https://github.com/erigontech/erigon/pull/23022#pullrequestreview-4864116391) - 2026-08-05
+* [Pull Request] [db/state: remove dead ExecV3 prune-progress code](https://github.com/erigontech/erigon/pull/23017) - 2026-08-05
+* [Pull Request] [cmd/utils/app: reject same snapshot range published under multiple versions](https://github.com/erigontech/erigon/pull/23019) - 2026-08-05
+* [Commit] [fail fast on files-DB gap (#23022)](https://github.com/erigontech/erigon/commit/c7286d5bb7b515889ba4249d9eb2256631f168e0) - 2026-08-05
+* [Commit] [db/state: remove dead ExecV3 prune-progress code (#23017)](https://github.com/erigontech/erigon/commit/97a5ef4dddcbbef47d2db8a6f1f88dac79b7c7a6) - 2026-08-05
 ## Q2 2026
 
 

@@ -163,6 +163,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [hello1](https://github.com/OffchainLabs/prysm/pull/17297) - 2026-08-05
 * [Review] [Review on: Gloas builder circuit breaker: single builder tracking](https://github.com/OffchainLabs/prysm/pull/17294#pullrequestreview-4858172940) - 2026-08-04
 * [Commit] [Verify weak subjectivity checkpoint against the finalized canonical chain (#17295)](https://github.com/OffchainLabs/prysm/commit/5bf86e4faab5a5b453271c949baf66acfc0c9659) - 2026-08-04
+* [Review] [Review on: Add proto/prysm/wrappers for proto-typed HTR helpers](https://github.com/OffchainLabs/prysm/pull/17304#pullrequestreview-4869094809) - 2026-08-05
+* [Review] [Review on: Mark state fields dirty on early return](https://github.com/OffchainLabs/prysm/pull/17303#pullrequestreview-4868947624) - 2026-08-05
+* [Review] [Review on: Gloas builder circuit breaker: single builder tracking](https://github.com/OffchainLabs/prysm/pull/17294#pullrequestreview-4865409010) - 2026-08-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

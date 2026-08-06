@@ -27,6 +27,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: fix request result simulation for post-gloas blocks](https://github.com/ethpandaops/dora/pull/809#pullrequestreview-4797272913) - 2026-07-28
 * [Review] [Review on: fix blob count for gloas blocks with missed payloads](https://github.com/ethpandaops/dora/pull/811#pullrequestreview-4842574965) - 2026-08-03
 * [Review] [Review on: Show all slot bids with parent tuple classification on slot details page](https://github.com/ethpandaops/dora/pull/810#pullrequestreview-4842537188) - 2026-08-03
+* [Review] [Review on: build(deps): bump the ui-package-dependencies group across 1 directory with 9 updates](https://github.com/ethpandaops/dora/pull/813#pullrequestreview-4863564837) - 2026-08-05
+* [Pull Request] [Use EL genesis config for BPO forks on index page and network APIs](https://github.com/ethpandaops/dora/pull/821) - 2026-08-05
+* [Review] [Review on: build(deps): bump the actions group with 6 updates](https://github.com/ethpandaops/dora/pull/812#pullrequestreview-4864033766) - 2026-08-05
+* [Review] [Review on: add support for multiple builders per buildoor instance](https://github.com/ethpandaops/dora/pull/815#pullrequestreview-4863560173) - 2026-08-05
+* [Review] [Review on: `v1.7.0-alpha.13` updates](https://github.com/ethpandaops/dora/pull/818#pullrequestreview-4863561627) - 2026-08-05
+* [Commit] [Merge pull request #812 from ethpandaops/dependabot/github_actions/actions-e0d84faf3a](https://github.com/ethpandaops/dora/commit/f8a8ce671b18865313b36667b5bd05ddf9b1e4d7) - 2026-08-05
+* [Commit] [Merge branch 'master' into dependabot/github_actions/actions-e0d84faf3a](https://github.com/ethpandaops/dora/commit/9417ed701ee89712ca09a9e4d1017af32afc2e91) - 2026-08-05
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 

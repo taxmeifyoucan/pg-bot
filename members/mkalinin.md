@@ -25,6 +25,8 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Fix duplicate FCR run in stale GU test](https://github.com/ethereum/consensus-specs/pull/5499#pullrequestreview-4841084557) - 2026-08-03
 * [Review] [Review on: Run FCR at epoch boundary in consecutive slots test](https://github.com/ethereum/consensus-specs/pull/5498#pullrequestreview-4840998130) - 2026-08-03
 * [Review] [Review on: FFG-test payload-status variants individually in `filter_block_tree`](https://github.com/ethereum/consensus-specs/pull/5509#pullrequestreview-4852265721) - 2026-08-04
+* [Review] [Review on: FFG-test payload-status variants individually in `filter_block_tree`](https://github.com/ethereum/consensus-specs/pull/5509#pullrequestreview-4861499215) - 2026-08-05
+* [Review] [Review on: Use the genesis root as a dependent root for the first two epochs](https://github.com/ethereum/consensus-specs/pull/5515#pullrequestreview-4862651682) - 2026-08-05
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Register `CN` for Caplin](https://github.com/ethereum/execution-apis/pull/844#pullrequestreview-4647866464) - 2026-07-07
 

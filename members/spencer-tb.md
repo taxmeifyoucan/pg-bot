@@ -163,6 +163,21 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Test Release Tracker: `glamsterdam-devnet@v8.1.0`](https://github.com/ethereum/execution-specs/issues/3295) - 2026-08-04
 * [Commit] [refactor(tests): remove dead static-filler infrastructure (#3283)](https://github.com/ethereum/execution-specs/commit/7a0430d13d53ebac585e527491081db47c6d2cd9) - 2026-08-04
 * [Commit] [fix(test-execute): report each test as an individual hive test case (#3287)](https://github.com/ethereum/execution-specs/commit/9b68a91c974de4d47e2eda14d92f606f057a8e0c) - 2026-08-04
+* [Review] [Review on: feat(test-rpc): add eth_getTransactionReceipt batching](https://github.com/ethereum/execution-specs/pull/3298#pullrequestreview-4863151016) - 2026-08-05
+* [Review] [Review on: fix(spec-tools,testing): move evm_tools into the testing package](https://github.com/ethereum/execution-specs/pull/3307#pullrequestreview-4864326393) - 2026-08-05
+* [Pull Request] [fix(tests): enhance & un-skip Amsterdam ported static create-OOG tests (Pt. 2b)](https://github.com/ethereum/execution-specs/pull/3320) - 2026-08-05
+* [Pull Request] [fix(tests): un-skip remaining Amsterdam ported static tests and drop the skip list (Pt. 2d)](https://github.com/ethereum/execution-specs/pull/3322) - 2026-08-05
+* [Pull Request] [fix(tests): enhance & un-skip Amsterdam ported static SSTORE, refund & misc tests (Pt. 2c)](https://github.com/ethereum/execution-specs/pull/3321) - 2026-08-05
+* [Review] [Review on: chore(tooling): add runner-selection guidance to the edit-workflow skill](https://github.com/ethereum/execution-specs/pull/3313#pullrequestreview-4864452922) - 2026-08-05
+* [Pull Request] [chore(tests): remove the emptied Amsterdam ported static skip list and its conftest (Pt. 2b)](https://github.com/ethereum/execution-specs/pull/3319) - 2026-08-05
+* [Pull Request] [feat(tests): add EIP-2780 coverage gap tests](https://github.com/ethereum/execution-specs/pull/3318) - 2026-08-05
+* [Review] [Review on: feat(fork-types): add ExecutionGas and StateGas NewType wrappers to amsterdam EVM](https://github.com/ethereum/execution-specs/pull/3121#pullrequestreview-4864111029) - 2026-08-05
+* [Review] [Review on: feat(tests): enhance test coverage, add mainnet test for eip-2780](https://github.com/ethereum/execution-specs/pull/3266#pullrequestreview-4863701579) - 2026-08-05
+* [Review] [Review on: perf(ci): run the PR docker-image cache gate on a GitHub-hosted runner](https://github.com/ethereum/execution-specs/pull/3185#pullrequestreview-4863662584) - 2026-08-05
+* [Pull Request] [feat(test-tests): add engine payload attribute and genesis parity tests](https://github.com/ethereum/execution-specs/pull/3309) - 2026-08-05
+* [Review] [Review on: fix(test-execute): fix execute for Amsterdam](https://github.com/ethereum/execution-specs/pull/3300#pullrequestreview-4863273274) - 2026-08-05
+* [Issue] [Test Release Tracker: `glamsterdam-devnet@v8.1.1`](https://github.com/ethereum/execution-specs/issues/3311) - 2026-08-05
+* [Commit] [feat(spec-specs,tests): apply revised EIP-8038 gas values (#3293)](https://github.com/ethereum/execution-specs/commit/7b6aed29c90bc0e8e99078044cc0a1474adcba76) - 2026-08-05
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

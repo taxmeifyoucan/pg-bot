@@ -85,6 +85,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Remove getconstants from eth2networkconfig](https://github.com/Consensys/teku/pull/11048#pullrequestreview-4850282697) - 2026-08-04
 * [Commit] [increased cache size to a more reasonable size for current mainnet state (#11051)](https://github.com/Consensys/teku/commit/167599d3c2d1971e6243b1f9117a8e7d7343b599) - 2026-08-04
 * [Commit] [Add ROCKSDB_TREE as a database version (#10993)](https://github.com/Consensys/teku/commit/0077658f870c07f8c17a148b8ebb5eae2dbfe417) - 2026-08-04
+* [Review] [Review on: Refactor getMaxValidatorsPerAttestation](https://github.com/Consensys/teku/pull/11054#pullrequestreview-4869456882) - 2026-08-05
+* [Review] [Review on: Remove getconstants from eth2networkconfig](https://github.com/Consensys/teku/pull/11048#pullrequestreview-4869417810) - 2026-08-05
+* [Review] [Review on: Remove deprecated methods from MiscHelpersFulu](https://github.com/Consensys/teku/pull/11059#pullrequestreview-4868477103) - 2026-08-05
+* [Review] [Review on: Add execution payload provider into combined chain data](https://github.com/Consensys/teku/pull/11052#pullrequestreview-4860521905) - 2026-08-05
+* [Commit] [Fix ROCKSDB_TREE storage for Gloas progressive container states (#11061)](https://github.com/Consensys/teku/commit/754c9aa9f6c000269f888d846318b2a844bca36b) - 2026-08-05
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

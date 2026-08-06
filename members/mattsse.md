@@ -218,6 +218,19 @@ Team: Reth
 * [Review] [Review on: feat(net): gate serving GetPooledTransactions by peer kind](https://github.com/paradigmxyz/reth/pull/26548#pullrequestreview-4852799878) - 2026-08-04
 * [Commit] [test(engine): manage finality in e2e reorg flows (#26584)](https://github.com/paradigmxyz/reth/commit/92855d2643e407fa2a84c29a48c6c199a7e6ff52) - 2026-08-04
 * [Commit] [feat(engine): build payloads on canonical ancestors above finality (#26567)](https://github.com/paradigmxyz/reth/commit/b3112af5aa7174298546ec6e66410b7e10d0820e) - 2026-08-04
+* [Pull Request] [fix(dns): skip unrelated TXT records](https://github.com/paradigmxyz/reth/pull/26603) - 2026-08-05
+* [Review] [Review on: fix(dns): rejoin TXT character-strings for EIP-1459 entries over 255 bytes](https://github.com/paradigmxyz/reth/pull/26602#pullrequestreview-4869500621) - 2026-08-05
+* [Review] [Review on: refactor(rpc): lift blob params lookup out of receipt loop](https://github.com/paradigmxyz/reth/pull/26593#pullrequestreview-4865776893) - 2026-08-05
+* [Review] [Review on: refactor(`eth_createAccessList`): unify env preparation](https://github.com/paradigmxyz/reth/pull/26598#pullrequestreview-4867188618) - 2026-08-05
+* [Review] [Review on: refactor(rpc): reuse optional receipt cache blocks](https://github.com/paradigmxyz/reth/pull/26599#pullrequestreview-4868380043) - 2026-08-05
+* [Review] [Review on: chore(net): share the snap/2 slim account codec between server and client](https://github.com/paradigmxyz/reth/pull/26587#pullrequestreview-4865330310) - 2026-08-05
+* [Pull Request] [fix(rpc): restore optional receipt conversion](https://github.com/paradigmxyz/reth/pull/26596) - 2026-08-05
+* [Review] [Review on: refactor(rpc): fetch block and receipts concurrently](https://github.com/paradigmxyz/reth/pull/26594#pullrequestreview-4866288689) - 2026-08-05
+* [Pull Request] [revert(provider): return header with transaction metadata](https://github.com/paradigmxyz/reth/pull/26595) - 2026-08-05
+* [Review] [Review on: refactor(provider): remove unused AccountReader bounds](https://github.com/paradigmxyz/reth/pull/26591#pullrequestreview-4865101280) - 2026-08-05
+* [Commit] [fix(static-file): respect prune checkpoints in consistency check (#26565)](https://github.com/paradigmxyz/reth/commit/1b20c9bfc17ca1fc0563683e26a79b2f29c33c3a) - 2026-08-05
+* [Commit] [fix(rpc): restore optional receipt conversion (#26596)](https://github.com/paradigmxyz/reth/commit/a4e6baa9d2de15c54b2afbfb754d172a5e05fd67) - 2026-08-05
+* [Commit] [revert(provider): return header with transaction metadata (#26595)](https://github.com/paradigmxyz/reth/commit/47ac8d02d9cadc1db62eeda639c28b3e86ad9378) - 2026-08-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

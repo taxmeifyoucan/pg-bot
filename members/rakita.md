@@ -43,6 +43,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: update Cargo.lock (#3827)](https://github.com/bluealloy/revm/commit/d9220fe39672885847ef38507ae6ba4ac9b5094c) - 2026-07-27
 * [Pull Request] [fix: check call depth in CREATE pre-access checks (EIP-8037)](https://github.com/bluealloy/revm/pull/3829) - 2026-07-28
 * [Pull Request] [feat(revme): validate receipt trie root in blockchain tests](https://github.com/bluealloy/revm/pull/3841) - 2026-08-04
+* [Pull Request] [chore(deps): bump ruint to 1.20.0 for RUSTSEC-2026-0220](https://github.com/bluealloy/revm/pull/3845) - 2026-08-05
+* [Commit] [chore(deps): bump ruint to 1.20.0 for RUSTSEC-2026-0220 (#3845)](https://github.com/bluealloy/revm/commit/e4845467a2c55d0a0a622af52ee8c9143f6ea270) - 2026-08-05
+* [Commit] [feat(revme): validate receipt trie root in blockchain tests (#3841)](https://github.com/bluealloy/revm/commit/c9bcb97232d62e2061a53fd06ba4315ce0949fdf) - 2026-08-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02
@@ -51,6 +54,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/commit/e6d8f589d355e891c37ff479d3ce668352e5b1be) - 2026-07-07
 * [Review] [Review on: Update EIP-2780: clarify 2780](https://github.com/ethereum/EIPs/pull/11891#pullrequestreview-4651846499) - 2026-07-08
 * [Pull Request] [Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/pull/12058) - 2026-07-31
+* [Review] [Review on: Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/pull/12058#pullrequestreview-4862273727) - 2026-08-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626374583) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626438301) - 2026-07-03

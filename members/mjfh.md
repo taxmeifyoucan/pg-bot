@@ -27,6 +27,8 @@ Team: Nimbus
 * [Commit] [Snap sync forward utility for complete state (#4592)](https://github.com/status-im/nimbus-eth1/commit/e777f94df344571e50f23ee266c17f9c3faf5701) - 2026-07-31
 * [Pull Request] [Snap sync bal forward utility update for part states](https://github.com/status-im/nimbus-eth1/pull/4603) - 2026-08-04
 * [Commit] [Snap sync bal forward utility update for part states (#4603)](https://github.com/status-im/nimbus-eth1/commit/e1a79a838dfcfc8204630a20def8edffd05603bf) - 2026-08-04
+* [Pull Request] [Beacon sync bal error handling update](https://github.com/status-im/nimbus-eth1/pull/4608) - 2026-08-05
+* [Commit] [Beacon sync bal error handling update (#4608)](https://github.com/status-im/nimbus-eth1/commit/62f240104ea6ab52765c2d3c3eee5537e462564e) - 2026-08-05
 ## Q2 2026
 
 

@@ -145,6 +145,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5510#pullrequestreview-4843375355) - 2026-08-03
 * [Review] [Review on: Test parent payload availability before attestation rewards](https://github.com/ethereum/consensus-specs/pull/5514#pullrequestreview-4854493272) - 2026-08-04
 * [Review] [Review on: Add compliance test generation smoke check](https://github.com/ethereum/consensus-specs/pull/5504#pullrequestreview-4854139773) - 2026-08-04
+* [Review] [Review on: Modify `on_inclusion_list` to handle ILs from req/resp](https://github.com/ethereum/consensus-specs/pull/5513#pullrequestreview-4866772403) - 2026-08-05
+* [Review] [Review on: Use the genesis root as a dependent root for the first two epochs](https://github.com/ethereum/consensus-specs/pull/5515#pullrequestreview-4864938055) - 2026-08-05
+* [Commit] [Explicitly define types as classes (#5471)](https://github.com/ethereum/consensus-specs/commit/5366cb59eb39e4ec1d6c468a79cceb626c14c048) - 2026-08-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

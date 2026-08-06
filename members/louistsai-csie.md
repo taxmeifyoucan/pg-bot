@@ -79,6 +79,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [refactor(test-benchmark): split stateful setup transactions across blocks](https://github.com/ethereum/execution-specs/pull/3282) - 2026-08-03
 * [Issue] [Benchmark Full Suite Generation Tracker](https://github.com/ethereum/execution-specs/issues/3281) - 2026-08-03
 * [Review] [Review on: refactor(test-benchmark): split stateful setup transactions across blocks](https://github.com/ethereum/execution-specs/pull/3282#pullrequestreview-4852802474) - 2026-08-04
+* [Review] [Review on: feat(test-rpc): add eth_getTransactionReceipt batching](https://github.com/ethereum/execution-specs/pull/3298#pullrequestreview-4869421696) - 2026-08-05
+* [Pull Request] [feat(test-benchmark): add deployment script](https://github.com/ethereum/execution-specs/pull/3304) - 2026-08-05
+* [Review] [Review on: feat(test-benchmark): add deployment script](https://github.com/ethereum/execution-specs/pull/3304#pullrequestreview-4862827575) - 2026-08-05
+* [Review] [Review on: feat(spec-specs,tests): apply revised EIP-8038 gas values](https://github.com/ethereum/execution-specs/pull/3293#pullrequestreview-4862760552) - 2026-08-05
+* [Commit] [feat(tests): enhance test coverage, add mainnet test for eip-2780 (#3266)](https://github.com/ethereum/execution-specs/commit/4b4415c952b6ac1e341bcc46b0441327675a2f6e) - 2026-08-05
 ## Q2 2026
 
 

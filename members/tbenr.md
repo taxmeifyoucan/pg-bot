@@ -86,6 +86,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Implement 5473 spec changes](https://github.com/Consensys/teku/pull/11032#pullrequestreview-4854550340) - 2026-08-04
 * [Commit] [update ethspecify version (#11055)](https://github.com/Consensys/teku/commit/93382a3803741c0cf49640eeeda63edfb3786aad) - 2026-08-04
 * [Commit] [Implement 5473 spec changes (#11032)](https://github.com/Consensys/teku/commit/3d7444552e6cc6e36df0a7c13d3c609b5deb0b74) - 2026-08-04
+* [Review] [Review on: Fix ROCKSDB_TREE storage for Gloas progressive container states](https://github.com/Consensys/teku/pull/11061#pullrequestreview-4865281478) - 2026-08-05
+* [Review] [Review on: Fix fork choice equivocating votes update](https://github.com/Consensys/teku/pull/11058#pullrequestreview-4862635036) - 2026-08-05
+* [Review] [Review on: update gossip validation logs](https://github.com/Consensys/teku/pull/11065#pullrequestreview-4865127748) - 2026-08-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07
@@ -101,6 +104,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Improve Gossip backpressure ](https://github.com/libp2p/jvm-libp2p/pull/506#pullrequestreview-4797355558) - 2026-07-28
 * [Pull Request] [close UDP channel immediately on cancellation (QUIC)](https://github.com/libp2p/jvm-libp2p/pull/508) - 2026-07-31
 * [Commit] [close UDP channel immediately on cancellation (QUIC) (#508)](https://github.com/libp2p/jvm-libp2p/commit/bb4dfc6b776629fc8df259b16088559a35843a79) - 2026-07-31
+* [Review] [Review on: Gossip backpressure: detect and handle slow peers under outbound backpressure](https://github.com/libp2p/jvm-libp2p/pull/513#pullrequestreview-4864790195) - 2026-08-05
 ## Q2 2026
 
 

@@ -37,6 +37,9 @@ Team: Erigon
 * [Review] [Review on: rpc: prestateTracer must skip faulted opcodes](https://github.com/erigontech/erigon/pull/22941#pullrequestreview-4838206570) - 2026-08-02
 * [Pull Request] [qa-tests: add file retirement test for minimal node ](https://github.com/erigontech/erigon/pull/22984) - 2026-08-03
 * [Commit] [qa-tests: add file retirement test for minimal node  (#22984)](https://github.com/erigontech/erigon/commit/824cf9764e98a40f476dda1d3a393c13bf77bd05) - 2026-08-04
+* [Pull Request] [qa-tests: add snapshot retirement test for full node](https://github.com/erigontech/erigon/pull/23040) - 2026-08-05
+* [Pull Request] [qa-tests: add snapshot retirement test for the Gnosis chain](https://github.com/erigontech/erigon/pull/23035) - 2026-08-05
+* [Issue] [No Caplin peers on Chiado](https://github.com/erigontech/erigon/issues/23021) - 2026-08-05
 ## Q2 2026
 
 

@@ -15,6 +15,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [Update EIP-1: Remove execution-spec-tests from allowed link exceptions](https://github.com/ethereum/EIPs/pull/11845) - 2026-07-01
 
 * [Commit] [Update EIP-1: Remove execution-spec-tests from allowed link exceptions](https://github.com/ethereum/EIPs/commit/5543b5cebb801cd49d42284a176031ac12dda826) - 2026-08-04
+* [Pull Request] [Update EIP-7756: Move EOF test link to execution-specs](https://github.com/ethereum/EIPs/pull/12106) - 2026-08-05
+* [Pull Request] [Update EIP-6780: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12104) - 2026-08-05
+* [Pull Request] [Update EIP-2935: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12101) - 2026-08-05
+* [Pull Request] [Update EIP-5656: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12103) - 2026-08-05
+* [Pull Request] [Update EIP-7516: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12105) - 2026-08-05
+* [Pull Request] [Update EIP-4844: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12102) - 2026-08-05
+* [Pull Request] [Update EIP-1153: Move test link to execution-specs](https://github.com/ethereum/EIPs/pull/12100) - 2026-08-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): verify EIP-7997 factory nonce persists across fork-transition](https://github.com/ethereum/execution-specs/pull/3077#pullrequestreview-4607737216) - 2026-07-01
 * [Review] [Review on: feat(clients): migrate evmone t8n to the `evmone t8n` subcommand](https://github.com/ethereum/execution-specs/pull/3063#pullrequestreview-4607436288) - 2026-07-01
@@ -104,6 +111,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [perf(ci): run the PR docker-image cache gate on a GitHub-hosted runner](https://github.com/ethereum/execution-specs/pull/3185) - 2026-07-16
 * [Commit] [fix(consume): make release resolution robust to GitHub API rate limits (#3182)](https://github.com/ethereum/execution-specs/commit/ca7cac5c41b82ec49cbbe0961ba7191411caa5d2) - 2026-07-24
 * [Commit] [feat(tests): EIP-7778 admission gate uses pre-refund gas (#2932)](https://github.com/ethereum/execution-specs/commit/946f45c779400e1891f62a072a405abd9d5474cb) - 2026-07-30
+* [Pull Request] [chore(tooling): add runner-selection guidance to the edit-workflow skill](https://github.com/ethereum/execution-specs/pull/3313) - 2026-08-05
+* [Pull Request] [fix(test-execute): register per-test hive test cases with the shared client](https://github.com/ethereum/execution-specs/pull/3317) - 2026-08-05
+* [Pull Request] [feat(test-cli): add JSON output and optimization analysis to `groupstats`](https://github.com/ethereum/execution-specs/pull/3308) - 2026-08-05
+* [Pull Request] [feat(test-logging,test-consume): add ms-precision lifecycle logging to consume enginex](https://github.com/ethereum/execution-specs/pull/3306) - 2026-08-05
+* [Commit] [chore(tooling): add runner-selection guidance to the edit-workflow skill (#3313)](https://github.com/ethereum/execution-specs/commit/987b865311b1efe9d781f08c6ef4f7adebb4f305) - 2026-08-05
+* [Commit] [perf(ci): run the PR docker-image cache gate on a GitHub-hosted runner (#3185)](https://github.com/ethereum/execution-specs/commit/bad053c5e6cfc66258cab5047485e184a1b9cf56) - 2026-08-05
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

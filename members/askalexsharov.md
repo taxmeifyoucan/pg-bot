@@ -681,6 +681,24 @@ Team: Erigon
 * [Commit] [execution: reuse IntraBlockState log entries to remove LOG-path allocations (#22723)](https://github.com/erigontech/erigon/commit/1aa743722792d0e9b001f03c466cc7723026898a) - 2026-08-04
 * [Commit] [db/seg/patricia: cache-friendly packed node layout for Aho-Corasick (#22544)](https://github.com/erigontech/erigon/commit/52ace5aff0f5e481bc91c958b9df670ad6026a8b) - 2026-08-04
 * [Commit] [execution/stagedsync: log fork-validation wrong trie root at Warn (#22947)](https://github.com/erigontech/erigon/commit/5bf2fe2835981a479e41f9950cdda97217b7517b) - 2026-08-04
+* [Review] [Review on: execution, db: keep StateCache coherent through startup catchup; batch applies](https://github.com/erigontech/erigon/pull/23033#pullrequestreview-4865538004) - 2026-08-05
+* [Review] [Review on: cl/phase1/network/services: share Gloas pending-job queues](https://github.com/erigontech/erigon/pull/22177#pullrequestreview-4862192640) - 2026-08-05
+* [Review] [Review on: execmoduletester: move helper funcs for interacting with ExecModule to public receivers](https://github.com/erigontech/erigon/pull/23010#pullrequestreview-4860566220) - 2026-08-05
+* [Pull Request] [execution/state: yield write headers by pointer from AllHeaders](https://github.com/erigontech/erigon/pull/23037) - 2026-08-05
+* [Pull Request] [[r3.6] execution/state: yield write headers by pointer from AllHeaders](https://github.com/erigontech/erigon/pull/23039) - 2026-08-05
+* [Review] [Review on: [r3.6] go.mod: revert go-eth-kzg verifier optimization](https://github.com/erigontech/erigon/pull/23036#pullrequestreview-4865856420) - 2026-08-05
+* [Review] [Review on: cl/ssz, common/ssz, engineapi: add recursive SSZ offset and length validation](https://github.com/erigontech/erigon/pull/22988#pullrequestreview-4860919298) - 2026-08-05
+* [Pull Request] [db/kv/mdbx: embed mdbx.Cursor by value in MdbxCursor](https://github.com/erigontech/erigon/pull/23015) - 2026-08-05
+* [Review] [Review on: db/kv/mdbx: embed mdbx.Cursor by value in MdbxCursor](https://github.com/erigontech/erigon/pull/23015#pullrequestreview-4861906757) - 2026-08-05
+* [Pull Request] [execution/state: cut the header walk and the per-slot probes in WriteSet.Normalize](https://github.com/erigontech/erigon/pull/23027) - 2026-08-05
+* [Pull Request] [execution/state: walk the per-path maps directly in WriteSet.Normalize](https://github.com/erigontech/erigon/pull/23034) - 2026-08-05
+* [Review] [Review on: db/state/execctx: record getter code reads in the getter's metrics](https://github.com/erigontech/erigon/pull/23008#pullrequestreview-4865565287) - 2026-08-05
+* [Review] [Review on: go.mod: revert go-eth-kzg verifier optimization](https://github.com/erigontech/erigon/pull/23029#pullrequestreview-4864559757) - 2026-08-05
+* [Review] [Review on: fail fast on files-DB gap](https://github.com/erigontech/erigon/pull/23022#pullrequestreview-4863901622) - 2026-08-05
+* [Pull Request] [[r3.6] execution/stagedsync: cut allocations and redundant account reads in normalizeWriteSet](https://github.com/erigontech/erigon/pull/23026) - 2026-08-05
+* [Review] [Review on: db/state: remove dead ExecV3 prune-progress code](https://github.com/erigontech/erigon/pull/23017#pullrequestreview-4863902115) - 2026-08-05
+* [Review] [Review on: rpc/jsonrpc: push fresh witnesses via debug_subscribe("executionWitnesses")](https://github.com/erigontech/erigon/pull/22407#pullrequestreview-4861314395) - 2026-08-05
+* [Review] [Review on: execution/vm: uint256 fast path for MODEXP when modulus and base ≤ 256 bits](https://github.com/erigontech/erigon/pull/22940#pullrequestreview-4863357198) - 2026-08-05
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

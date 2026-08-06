@@ -71,6 +71,14 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-8189: Move to Review](https://github.com/ethereum/EIPs/pull/12037#pullrequestreview-4856632595) - 2026-08-04
 * [Review] [Review on: Update EIP-8081: Propose EIP-7819 for inclusion in Hegota](https://github.com/ethereum/EIPs/pull/11505#pullrequestreview-4851338507) - 2026-08-04
 * [Commit] [Update EIP-7975: clarify upper bound](https://github.com/ethereum/EIPs/commit/ea3c80c4b91db6cefe1f404ecec0f108aa899dfb) - 2026-08-04
+* [Review] [Review on: Add EIP: TCREATE Opcode](https://github.com/ethereum/EIPs/pull/12073#pullrequestreview-4867683247) - 2026-08-05
+* [Review] [Review on: Add EIP: CPSB Recalibration for New Gas Limit](https://github.com/ethereum/EIPs/pull/12107#pullrequestreview-4866363615) - 2026-08-05
+* [Review] [Review on: Add EIP: VOPS Profiles for FOCIL Eligibility](https://github.com/ethereum/EIPs/pull/12110#pullrequestreview-4866373604) - 2026-08-05
+* [Review] [Review on: Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/pull/12058#pullrequestreview-4867682723) - 2026-08-05
+* [Review] [Review on: Add EIP: EVM Verification Key Registry](https://github.com/ethereum/EIPs/pull/12055#pullrequestreview-4867682564) - 2026-08-05
+* [Review] [Review on: Add EIP: Balance sunset for retired BLS validators](https://github.com/ethereum/EIPs/pull/12099#pullrequestreview-4866353983) - 2026-08-05
+* [Review] [Review on: Update EIP-8282: Move to Review](https://github.com/ethereum/EIPs/pull/12108#pullrequestreview-4865475359) - 2026-08-05
+* [Review] [Review on: Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867#pullrequestreview-4865480420) - 2026-08-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -101,6 +109,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [feat(tests): add eth_getTransactionReceipt batching](https://github.com/ethereum/execution-specs/pull/3298) - 2026-08-04
 * [Pull Request] [feat(stateful-filler): add flag to not rollback chain on stateful filler](https://github.com/ethereum/execution-specs/pull/3297) - 2026-08-04
 * [Pull Request] [feat(benchmarks): prestate deployers](https://github.com/ethereum/execution-specs/pull/3299) - 2026-08-04
+* [Review] [Review on: feat(test-benchmark): add deployment script](https://github.com/ethereum/execution-specs/pull/3304#pullrequestreview-4862279445) - 2026-08-05
+* [Pull Request] [perf(test-forks): memoize per-fork gas costs](https://github.com/ethereum/execution-specs/pull/3303) - 2026-08-05
+* [Commit] [feat(tests): add eth_getTransactionReceipt batching (#3298)](https://github.com/ethereum/execution-specs/commit/07424a89ba0453709576830f6be33442ed8d102d) - 2026-08-05
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 

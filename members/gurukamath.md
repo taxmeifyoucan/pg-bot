@@ -51,6 +51,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: refactor(spec-specs): move priority-fee check to validate_transaction](https://github.com/ethereum/execution-specs/pull/3056#pullrequestreview-4843822981) - 2026-08-03
 * [Review] [Review on: feat(fork-types): add ExecutionGas and StateGas NewType wrappers to amsterdam EVM](https://github.com/ethereum/execution-specs/pull/3121#pullrequestreview-4850722603) - 2026-08-04
 * [Commit] [refactor(specs): remove Message dataclass and update evm function flow (#3192)](https://github.com/ethereum/execution-specs/commit/9863a6ddcddef83118104941c5f4151783b11245) - 2026-08-04
+* [Pull Request] [fix(spec-tools,testing): move evm_tools into the testing package](https://github.com/ethereum/execution-specs/pull/3307) - 2026-08-05
+* [Review] [Review on: fix(spec-tools,testing): move evm_tools into the testing package](https://github.com/ethereum/execution-specs/pull/3307#pullrequestreview-4866448076) - 2026-08-05
 ## Q2 2026
 
 

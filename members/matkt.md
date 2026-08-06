@@ -79,6 +79,12 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Stateroot opti in glamsterdam devnet 8](https://github.com/besu-eth/besu/pull/10939#pullrequestreview-4844048779) - 2026-08-03
 * [Review] [Review on: EIP-2780: fold transfer log cost into TX_VALUE_COST](https://github.com/besu-eth/besu/pull/10925#pullrequestreview-4841049221) - 2026-08-03
 * [Review] [Review on: fix(chain): publish sync heads after storage commit](https://github.com/besu-eth/besu/pull/10842#pullrequestreview-4841009327) - 2026-08-03
+* [Review] [Review on: fix: Bonsai full sync halt at block 10,094,566 — storage skipped for selfdestructed+recreated accounts](https://github.com/besu-eth/besu/pull/10979#pullrequestreview-4863185724) - 2026-08-05
+* [Review] [Review on: ForkchoiceUpdate: verify world state is available for the newHead otherwise return syncing](https://github.com/besu-eth/besu/pull/10960#pullrequestreview-4865301102) - 2026-08-05
+* [Review] [Review on: Refactor engine_getPayloadBodiesBy*  into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10968#pullrequestreview-4863327951) - 2026-08-05
+* [Review] [Review on: snap/2 - bounded backpressure for account requests](https://github.com/besu-eth/besu/pull/10942#pullrequestreview-4861238646) - 2026-08-05
+* [Pull Request] [Revert #10721 and #10725](https://github.com/besu-eth/besu/pull/10981) - 2026-08-05
+* [Pull Request] [Remove fork choice update from engine_newPayloadV*](https://github.com/besu-eth/besu/pull/10980) - 2026-08-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 ## Q2 2026

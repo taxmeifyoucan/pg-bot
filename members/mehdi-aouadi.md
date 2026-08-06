@@ -62,6 +62,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [fix proposer preferences caching](https://github.com/Consensys/teku/pull/11053) - 2026-08-04
 * [Review] [Review on: Implement 5473 spec changes](https://github.com/Consensys/teku/pull/11032#pullrequestreview-4854194146) - 2026-08-04
 * [Commit] [fix proposer preferences caching (#11053)](https://github.com/Consensys/teku/commit/85810f1c25e4460dcf90e8847ed822646f5e68fc) - 2026-08-04
+* [Pull Request] [update gossip validation logs](https://github.com/Consensys/teku/pull/11065) - 2026-08-05
+* [Commit] [update gossip validation logs (#11065)](https://github.com/Consensys/teku/commit/5c15c8a415b322c1e3509e1111fe9a04653a575f) - 2026-08-05
 ## Q2 2026
 
 

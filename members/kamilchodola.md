@@ -102,6 +102,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(rpc-bench): run benchmarked nodes the way production runs them (#12625)](https://github.com/NethermindEth/nethermind/commit/4c0ec81fbdd2926a81d987e490b86e0efcb3006f) - 2026-08-03
 * [Pull Request] [Fix stale transaction pool snapshots](https://github.com/NethermindEth/nethermind/pull/12685) - 2026-08-04
 * [Pull Request] [Optimize EVM stream execution for common fused operations](https://github.com/NethermindEth/nethermind/pull/12686) - 2026-08-04
+* [Pull Request] [Selectable dotTrace profiling mode + dotnet-trace EventPipe sidecar for benchmark workflows](https://github.com/NethermindEth/nethermind/pull/12708) - 2026-08-05
+* [Pull Request] [Add private eth_call corpus mode to the RPC benchmark workflow](https://github.com/NethermindEth/nethermind/pull/12704) - 2026-08-05
+* [Review] [Review on: Add private eth_call corpus mode to the RPC benchmark workflow](https://github.com/NethermindEth/nethermind/pull/12704#pullrequestreview-4868982029) - 2026-08-05
+* [Commit] [Fix stale transaction pool snapshots (#12685)](https://github.com/NethermindEth/nethermind/commit/34c85f7cd8a9302371df10537e5d5ed040b4c843) - 2026-08-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 
@@ -109,6 +113,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [ci: register Benchmarkoor - Nethermind workflow (dispatch-only)](https://github.com/NethermindEth/gas-benchmarks/commit/2848becbbfcb57b1e69587310ffb8a9daa40ec0c) - 2026-07-14
 * [Pull Request] [feat: Benchmarkoor - Nethermind CI (podman + CRIU memory checkpoints, per-test summary, dotTrace profiling)](https://github.com/NethermindEth/gas-benchmarks/pull/159) - 2026-07-15
 * [Commit] [feat: Benchmarkoor - Nethermind CI (podman + CRIU memory checkpoints, per-test summary, dotTrace profiling) (#159)](https://github.com/NethermindEth/gas-benchmarks/commit/8502c4518e7ae81ca5925f8a31caf55ee129baf4) - 2026-07-15
+* [Commit] [chore: pin state-actor builder image default (avoid accidental rebuilds on :main drift)](https://github.com/NethermindEth/gas-benchmarks/commit/a41de9a7c4ae711135a678aa851530eb996010a1) - 2026-08-05
+* [Commit] [feat: add glamsterdam-devnet-7-full context (current production suite, master image)](https://github.com/NethermindEth/gas-benchmarks/commit/aeeb3eabb2fd236d2ad90330d5b38176566d7fc5) - 2026-08-05
+* [Commit] [feat: allow pinning the state-actor builder image (isolate :main regressions)](https://github.com/NethermindEth/gas-benchmarks/commit/fe60db473a2aec5680bd10ec18017d2217416c73) - 2026-08-05
+* [Commit] [fix: wait for async zfs destroy before capacity check](https://github.com/NethermindEth/gas-benchmarks/commit/a094accf7526d67cff3e547e6e6a1ee60a7a5fdb) - 2026-08-05
+* [Commit] [ci: register state-actor Nethermind benchmark workflow (dispatch-only)](https://github.com/NethermindEth/gas-benchmarks/commit/96e06e47e683d092aa5e514cc2a19cf6ba43d77f) - 2026-08-05
 ## Q2 2026
 
 

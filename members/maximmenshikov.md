@@ -41,6 +41,47 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat: support .NET 11 ILCompiler APIs and kill s_sqrtTable FP constants](https://github.com/NethermindEth/bflat-riscv64/commit/afde86cfc5e1d03ccf01adc6083474f1215c87f3) - 2026-07-31
 * [Commit] [Build: add selectable target .NET version (10 or 11)](https://github.com/NethermindEth/bflat-riscv64/commit/eff493b1c621e51eeb88f8772eb59cfa9b73af33) - 2026-07-31
 * [Pull Request] [Various improvements](https://github.com/NethermindEth/bflat-riscv64/pull/34) - 2026-07-31
+* [Commit] [ugc-zero: link the formally verified C core objects from uGC v1.0.7](https://github.com/NethermindEth/bflat-riscv64/commit/072ef54935a7e599908d1584957d5adeeea33711) - 2026-08-05
+* [Commit] [docs: fix stale counts in the architecture-stack diagram](https://github.com/NethermindEth/bflat-riscv64/commit/0255ec2e9c06eeeb81c07bf33a84e6465b84f173) - 2026-08-05
+* [Commit] [docs: frame dotnet-riscv as an official build with upstreamable patches](https://github.com/NethermindEth/bflat-riscv64/commit/6b956eb4df4a69c81d76d0c717f158136f1b6af6) - 2026-08-05
+* [Commit] [docs: correct the substitution and ISA-gate story, refresh stale facts](https://github.com/NethermindEth/bflat-riscv64/commit/005f0af5c11c4db4233fb92a67b623bb15bcd39c) - 2026-08-05
+* [Commit] [ugc-zero: bump uGC to v1.0.7](https://github.com/NethermindEth/bflat-riscv64/commit/3c6bb51074f7b92b0cdc05710b92acfa935ccc0b) - 2026-08-05
+* [Commit] [Dockerfile: derive the SDK from DOTNET_VERSION, verify what shipped](https://github.com/NethermindEth/bflat-riscv64/commit/458a46519a3c425ca2aec75750083e7a876b5522) - 2026-08-05
+* [Commit] [bflat.variant.props: bump dotnet 10 runtime postfixes](https://github.com/NethermindEth/bflat-riscv64/commit/e8bad6b84c6712214393c91dab1aa3f40297e794) - 2026-08-05
+* [Commit] [bflat.variant.props: bump dotnet 10 min runtime to .x9](https://github.com/NethermindEth/bflat-riscv64/commit/6fbb350b30d01fbf9d06305007d53c7dae8b629e) - 2026-08-05
+* [Commit] [zisk_subst: keep BigInteger formatting, rewrite its FP size estimate](https://github.com/NethermindEth/bflat-riscv64/commit/e063e7e00f6a23307f60e85d4909878f52f44c3e) - 2026-08-05
+* [Commit] [zisk_subst: replace Double/Single object Equals and CompareTo](https://github.com/NethermindEth/bflat-riscv64/commit/4572ec39221f59fe34d229d9385297631f8c0d4b) - 2026-08-05
+* [Commit] [bflat: disable compressed and atomic ISA for zisk targets](https://github.com/NethermindEth/bflat-riscv64/commit/92f11094c9aaf2839adf73ad1cadefbe1abaa6f3) - 2026-08-05
+* [Commit] [README: document lp64 soft-float ABI and rootfs provenance](https://github.com/NethermindEth/bflat-riscv64/commit/039a91c0ba32336947ef6136cfa93a423d8c9995) - 2026-08-05
+* [Commit] [docs: reflect minimal-runtime direction and drop the Alpine page](https://github.com/NethermindEth/bflat-riscv64/commit/00d70b87496407902299a2779bdca0095609852b) - 2026-08-05
+* [Commit] [docs: add jekyll-relative-links to Gemfile](https://github.com/NethermindEth/bflat-riscv64/commit/8b1b9f7775fb503d28b56758aa8b3bf8de3282ec) - 2026-08-05
+* [Commit] [zisk_subst: keep Double/Single CompareTo bodies](https://github.com/NethermindEth/bflat-riscv64/commit/78f2c42666fac05f63b659ee2734b206c5af4e02) - 2026-08-05
+* [Commit] [IsaVerifier: add binary-level RISC-V ISA checks](https://github.com/NethermindEth/bflat-riscv64/commit/bcbbd38e91514ad3a368655d9c8cabe1300e9770) - 2026-08-05
+* [Commit] [zisk_subst: reword Double.Equals comment to drop flag name](https://github.com/NethermindEth/bflat-riscv64/commit/ac31e3777c2d4d07f986f5e3ec696dd35b7292c5) - 2026-08-05
+* [Commit] [zisk_subst: keep Double.Equals and Single.Equals bodies](https://github.com/NethermindEth/bflat-riscv64/commit/d0f701f9bb417ef89c981dba604ec79c5de0db25) - 2026-08-05
+* [Commit] [bflat.csproj: allow skipping compiler layout for analyzer builds](https://github.com/NethermindEth/bflat-riscv64/commit/f444b66d2e8a61bee242103b394fa6f356ef2e09) - 2026-08-05
+* [Commit] [Remove redundant files](https://github.com/NethermindEth/bflat-riscv64/commit/3c814329e12784f16c81eccdfe222a0609286277) - 2026-08-05
+* [Commit] [rng_stupid: pin the non-cryptographic RNG to the deterministic LCG](https://github.com/NethermindEth/bflat-riscv64/commit/8b85a72b17e03f4a401fa3f6adaf42d02933e508) - 2026-08-05
+* [Commit] [zkvm: rename Zisk IL and substitution machinery to Zkvm](https://github.com/NethermindEth/bflat-riscv64/commit/ab5a29213258ab7fdd7e642fa4c4c6d0d46d0273) - 2026-08-05
+* [Commit] [zisk: split IL machinery and substitution policy out of BuildCommand](https://github.com/NethermindEth/bflat-riscv64/commit/3d716590d910b3f59186052976d85b3afc1d3db3) - 2026-08-05
+* [Commit] [zisk: verify substitutions at build time, add .NET 10 cctor donor](https://github.com/NethermindEth/bflat-riscv64/commit/cc8bb3f3d6d0ee4b01e2a1c81db0cf83fc432461) - 2026-08-05
+* [Commit] [BuildCommand: fail hard when zisk snippet substitutions drift](https://github.com/NethermindEth/bflat-riscv64/commit/a34ac5a23bab36d8f036cc2b3c21473f7a99422c) - 2026-08-05
+* [Commit] [gitignore: anchor module test output patterns](https://github.com/NethermindEth/bflat-riscv64/commit/fad1787cbbd4800137d549b61f26070f830659eb) - 2026-08-05
+* [Commit] [bflat: enable all .NET analyzers with a tiered severity policy](https://github.com/NethermindEth/bflat-riscv64/commit/ddf2d7db886c7f9368b91197190223aa676d5b3d) - 2026-08-05
+* [Commit] [Remove redundant files](https://github.com/NethermindEth/bflat-riscv64/commit/ed6a963344606ab5e56988f3ea15d1ddfb260ee7) - 2026-08-05
+* [Commit] [README: rewrite to reflect current architecture and design aims](https://github.com/NethermindEth/bflat-riscv64/commit/612972b497b803c7a7f4ec50d7722a556e3debb7) - 2026-08-05
+* [Commit] [ubootstrap: version-gate ResolveDispatch classlib export](https://github.com/NethermindEth/bflat-riscv64/commit/7e5fa8e2bf8a24cdd2b953d1cde4fbe1db8e3868) - 2026-08-05
+* [Commit] [modules/tests: cover the assembly modules with unit tests](https://github.com/NethermindEth/bflat-riscv64/commit/71f335a5d6ad515ed3249c2ea42cbbc64b5d5234) - 2026-08-05
+* [Commit] [gitignore: ignore libFuzzer artifact reports and tests out dir](https://github.com/NethermindEth/bflat-riscv64/commit/bc0b0d5581685f717898c903ad15de1e02b78330) - 2026-08-05
+* [Commit] [modules/tests: add libFuzzer targets and CBMC allocator proofs](https://github.com/NethermindEth/bflat-riscv64/commit/c7e5fd9c4a808fa7a89f4be08f083531c1b4be79) - 2026-08-05
+* [Commit] [rhp_native: version-gate the write-barrier t3 increment](https://github.com/NethermindEth/bflat-riscv64/commit/ac3dd97e7591a9737e22154be3ea25b617323131) - 2026-08-05
+* [Commit] [rhp_native: drop stale t3 += 8 from ref-assign write barriers](https://github.com/NethermindEth/bflat-riscv64/commit/26070fb3a6f531bf87e2ae7367f06dec52d334b5) - 2026-08-05
+* [Commit] [modules/tests: add qemu-run riscv64 unit tests for C/C++ modules](https://github.com/NethermindEth/bflat-riscv64/commit/97876e00f5848ba4130a65741968a51f3260c0e2) - 2026-08-05
+* [Commit] [modules: harden allocator wraps against size overflow](https://github.com/NethermindEth/bflat-riscv64/commit/362b1757e9f13e3c3e3727f4fa012f1dbb881e30) - 2026-08-05
+* [Commit] [ci: run the Frama-C ACSL gate on riscv64 builds](https://github.com/NethermindEth/bflat-riscv64/commit/419fc8790f0870a538294702243f7214fd564bd9) - 2026-08-05
+* [Commit] [scripts: add Frama-C ACSL gate for C modules](https://github.com/NethermindEth/bflat-riscv64/commit/f88fa449fa2f08b9527ed026bab3d89d67cd158e) - 2026-08-05
+* [Commit] [modules: annotate wrap/stub functions with ACSL contracts](https://github.com/NethermindEth/bflat-riscv64/commit/9e59188730403cdd14f0f4e9767384d552a172d7) - 2026-08-05
+* [Commit] [bflat.variant.props: bump net11 min runtime postfix to .x3](https://github.com/NethermindEth/bflat-riscv64/commit/cc1a95e03574be93841b89daa391248df2f1a8db) - 2026-08-05
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Minimal set of patches](https://github.com/NethermindEth/dotnet-riscv/pull/7) - 2026-07-26
 ## Q2 2026

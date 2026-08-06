@@ -209,8 +209,17 @@ Team: Erigon
 * [Review] [Review on: [r3.6] common/dbg: disable adaptive trunk-pin by default](https://github.com/erigontech/erigon/pull/22990#pullrequestreview-4852029732) - 2026-08-04
 * [Review] [Review on: execution/commitment/trie: dedup identical merge branches in HashWithModifications](https://github.com/erigontech/erigon/pull/22995#pullrequestreview-4851751804) - 2026-08-04
 * [Pull Request] [db/snapshotsync, freezeblocks: CaplinSnapshots rides BaseRoSnapshots](https://github.com/erigontech/erigon/pull/22997) - 2026-08-04
+* [Pull Request] [execution/state: validate an in-block-destruct storage dep by that destruct](https://github.com/erigontech/erigon/pull/23025) - 2026-08-05
+* [Review] [Review on: execution/state: validate an in-block-destruct storage dep by that destruct](https://github.com/erigontech/erigon/pull/23025#pullrequestreview-4865102443) - 2026-08-05
+* [Issue] [Parallel exec: remaining latest-only SelfDestruct lookups return stale storage and code after a revival](https://github.com/erigontech/erigon/issues/23032) - 2026-08-05
+* [Issue] [[parallel exec] eth mainnet invalid block: could not apply tx 11133845:43 [0x7d14c24a8dc5...]: too many validator-invalid retries: 170, expected: 169](https://github.com/erigontech/erigon/issues/23020) - 2026-08-05
+* [Issue] [Epic: caplin snapshots on the erigondb segment lifecycle](https://github.com/erigontech/erigon/issues/23024) - 2026-08-05
+* [Commit] [rpc/jsonrpc: push fresh witnesses via debug_subscribe("executionWitnesses") (#22407)](https://github.com/erigontech/erigon/commit/44294fdbc012b9ba6fa53822449860f184dfdbce) - 2026-08-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
+* [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05
+* [Pull Request] [binary(tests): vector cases for zero code chunks in the code zone](https://github.com/ethereum/execution-specs/pull/3305) - 2026-08-05
+* [Pull Request] [binary(tests): removal must keep overflow code a survivor shares](https://github.com/ethereum/execution-specs/pull/3315) - 2026-08-05
 ## Q2 2026
 
 

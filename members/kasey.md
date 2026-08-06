@@ -21,6 +21,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Review] [Review on: fix grpc head event](https://github.com/OffchainLabs/prysm/pull/17238#pullrequestreview-4775949382) - 2026-07-24
 * [Pull Request] [updating changelog for v7.1.8](https://github.com/OffchainLabs/prysm/pull/17252) - 2026-07-27
 * [Commit] [updating changelog for v7.1.8 (#17252)](https://github.com/OffchainLabs/prysm/commit/8ff82d7d544bc13a204815fe59827cd0dbc8aeb5) - 2026-07-29
+* [Pull Request] [methodical codegen switch](https://github.com/OffchainLabs/prysm/pull/17308) - 2026-08-05
+* [Pull Request] [spectest alpha 12 compliance (spec pin bump and assorted fix commits)](https://github.com/OffchainLabs/prysm/pull/17310) - 2026-08-05
+* [Pull Request] [Move Gloas spec tests into their own packages](https://github.com/OffchainLabs/prysm/pull/17309) - 2026-08-05
+* [Pull Request] [Add genception, a Bazel-backed go/packages driver](https://github.com/OffchainLabs/prysm/pull/17307) - 2026-08-05
+* [Pull Request] [Cache progressive merkleization for state fields](https://github.com/OffchainLabs/prysm/pull/17306) - 2026-08-05
+* [Pull Request] [Add IndexedAttestationGloas and AttesterSlashingGloas](https://github.com/OffchainLabs/prysm/pull/17305) - 2026-08-05
+* [Pull Request] [Add proto/prysm/wrappers for proto-typed HTR helpers](https://github.com/OffchainLabs/prysm/pull/17304) - 2026-08-05
+* [Pull Request] [Mark state fields dirty on early return](https://github.com/OffchainLabs/prysm/pull/17303) - 2026-08-05
 ## Q2 2026
 
 

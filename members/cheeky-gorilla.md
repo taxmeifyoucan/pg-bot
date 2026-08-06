@@ -80,6 +80,11 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Remove Peter](https://github.com/protocolguild/documentation/commit/7a14616bda59507654401c9326c8407ffffd87d1) - 2026-07-23
 * [Commit] [Merge pull request #524 from jsign/jsign-propose-francesco](https://github.com/protocolguild/documentation/commit/2ca09b3c6b96535c5d4e6b261d840e30493a8681) - 2026-07-24
 * [Commit] [Merge pull request #526 from saltiniroberto/patch-3](https://github.com/protocolguild/documentation/commit/897289e5e34fb4c72b55cf85069fa5a1f65d0698) - 2026-07-24
+* [Pull Request] [Remove Peter Vecchiarelli](https://github.com/protocolguild/documentation/pull/532) - 2026-08-05
+* [Commit] [Remove Ben from Alumni](https://github.com/protocolguild/documentation/commit/bf4f30d443ad465377c407220adc612139abbdb6) - 2026-08-05
+* [Commit] [Merge pull request #532 from protocolguild/cheeky-gorilla-patch-9](https://github.com/protocolguild/documentation/commit/6ed255bd16627d6048c8de22ad9a42d4e794efd9) - 2026-08-05
+* [Commit] [Remove Peter Vecchiarelli](https://github.com/protocolguild/documentation/commit/f29be1052d4b4e69c99b00a1c83261877e481a33) - 2026-08-05
+* [Commit] [Merge pull request #531 from 0xTylerHolmes/remove-tyler](https://github.com/protocolguild/documentation/commit/8f1998917373b4210b077abfe3ddf1de48ca20aa) - 2026-08-05
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/e6b14d7ca4339655efae86d7ad13a05fb14f43ee) - 2026-07-07
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/575f773fb569863447ec1e75d194b1ab0a05f41f) - 2026-07-07

@@ -27,6 +27,8 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Pull Request] [feat(forks): let development forks inherit exact-fork validity](https://github.com/ethereum/execution-specs/pull/3289) - 2026-08-03
 * [Pull Request] [fix(binary_trie): raise typed errors from state-root computation](https://github.com/ethereum/execution-specs/pull/3288) - 2026-08-03
 * [Review] [Review on: feat(test-types): Fork-based State Commitment Property in Alloc](https://github.com/ethereum/execution-specs/pull/3279#pullrequestreview-4851658537) - 2026-08-04
+* [Pull Request] [feat(binary-trie): store delegation indicators in the account header](https://github.com/ethereum/execution-specs/pull/3324) - 2026-08-05
+* [Pull Request] [feat(binary-trie): move all code chunks into the content-addressed code zone](https://github.com/ethereum/execution-specs/pull/3310) - 2026-08-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/pull/12027) - 2026-07-29
 
@@ -40,6 +42,8 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [Update EIP-8297: remove CODE_OFFSET and stale header-code references](https://github.com/ethereum/EIPs/commit/6c054508d3cee38911bcc265e5f1c5416077d99a) - 2026-08-04
 * [Commit] [Update EIP-8347: all code chunks live in CODE_ZONE](https://github.com/ethereum/EIPs/commit/11edeacca437f3fc039ad2db7e3cc753a4fa64a2) - 2026-08-04
 * [Commit] [Update EIP-8297: Move all code chunks into the code zone](https://github.com/ethereum/EIPs/commit/ab8081e7466ccacfc17a8c6c0c7034291c02c97c) - 2026-08-04
+* [Pull Request] [Update EIP-8297: store delegation indicators in the account header](https://github.com/ethereum/EIPs/pull/12114) - 2026-08-05
+* [Pull Request] [Update EIP-8347: delegation indicators are header leaves](https://github.com/ethereum/EIPs/pull/12115) - 2026-08-05
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436) - 2026-07-29
 ## Q2 2026

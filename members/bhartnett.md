@@ -61,6 +61,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Dispose vmState instances after use](https://github.com/status-im/nimbus-eth1/pull/4593) - 2026-08-01
 * [Commit] [Dispose vmState instances after use (#4593)](https://github.com/status-im/nimbus-eth1/commit/a90ef46786a060134778025f1224a03c6ef7f85a) - 2026-08-02
 * [Commit] [Optimize keccak hashing and opcode (#4590)](https://github.com/status-im/nimbus-eth1/commit/48835f6df56bd759a477a3cd8d4f528bd84b2aff) - 2026-08-03
+* [Pull Request] [Sender recovery caching](https://github.com/status-im/nimbus-eth1/pull/4607) - 2026-08-05
+* [Pull Request] [Add eest benchmark tests](https://github.com/status-im/nimbus-eth1/pull/4604) - 2026-08-05
+* [Commit] [Add eest benchmark tests (#4604)](https://github.com/status-im/nimbus-eth1/commit/772881056d7d4cde1e0a6ccb934c2d8b7a157c0e) - 2026-08-05
 ## Q2 2026
 
 

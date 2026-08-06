@@ -216,6 +216,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Implement proposer-equivocation reorg in getProposerHead](https://github.com/ChainSafe/lodestar/issues/9764) - 2026-08-04
 * [Commit] [fix: ignore parent bids at epoch boundary (#9756)](https://github.com/ChainSafe/lodestar/commit/f6a0d6840a79eb1350f842a9c2c1c383b5aeba24) - 2026-08-04
 * [Commit] [chore: add gloas ethspecify references (#9753)](https://github.com/ChainSafe/lodestar/commit/4c192bd697a04d597c7674f6a62ce77ecfcdb479) - 2026-08-04
+* [Review] [Review on: fix: treat ping/status dial timeouts as HighToleranceError](https://github.com/ChainSafe/lodestar/pull/9707#pullrequestreview-4868315315) - 2026-08-05
+* [Review] [Review on: feat: cache builder deposit signatures for gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9727#pullrequestreview-4868224210) - 2026-08-05
+* [Review] [Review on: feat: implement consensus_and_equivocation for blocks and payload envelopes](https://github.com/ChainSafe/lodestar/pull/9757#pullrequestreview-4864173911) - 2026-08-05
+* [Review] [Review on: chore: handle Rekor 409 conflict during npm provenance publish](https://github.com/ChainSafe/lodestar/pull/9703#pullrequestreview-4867582909) - 2026-08-05
+* [Review] [Review on: chore: avoid scheduling infinite waitFor timeout](https://github.com/ChainSafe/lodestar/pull/9735#pullrequestreview-4864174691) - 2026-08-05
+* [Review] [Review on: chore(deps): bump js-yaml from 4.2.0 to 4.3.0](https://github.com/ChainSafe/lodestar/pull/9702#pullrequestreview-4866003935) - 2026-08-05
+* [Review] [Review on: feat: gloas polar bear banner](https://github.com/ChainSafe/lodestar/pull/9742#pullrequestreview-4864346682) - 2026-08-05
+* [Review] [Review on: chore: avoid epoch transition when validating gossip columns](https://github.com/ChainSafe/lodestar/pull/9772#pullrequestreview-4862559696) - 2026-08-05
+* [Review] [Review on: fix: avoid peer scoring on local payload errors](https://github.com/ChainSafe/lodestar/pull/9755#pullrequestreview-4864094319) - 2026-08-05
+* [Review] [Review on: fix: accept Heze states in builder bid coverage](https://github.com/ChainSafe/lodestar/pull/9773#pullrequestreview-4862891195) - 2026-08-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -250,6 +260,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Fix missing KZG trusted setup when generating compliance tests (#5503)](https://github.com/ethereum/consensus-specs/commit/19055b24b1d8b675c3a239d6c7dd896e5e646512) - 2026-08-01
 * [Review] [Review on: Test parent payload availability before attestation rewards](https://github.com/ethereum/consensus-specs/pull/5514#pullrequestreview-4854722280) - 2026-08-04
 * [Commit] [Add compliance test generation smoke check (#5504)](https://github.com/ethereum/consensus-specs/commit/ca22f9c268d460afaf17ab51d01514fc545adaa5) - 2026-08-04
+* [Review] [Review on: Use the genesis root as a dependent root for the first two epochs](https://github.com/ethereum/consensus-specs/pull/5515#pullrequestreview-4862713966) - 2026-08-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
@@ -261,6 +272,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Update EIP-1: Add ethereum/sys-asm as an approved origin](https://github.com/ethereum/EIPs/pull/11986#pullrequestreview-4829222731) - 2026-07-31
 * [Review] [Review on: Update EIP-8081: Propose EIP-8333 for inclusion](https://github.com/ethereum/EIPs/pull/12044#pullrequestreview-4829219200) - 2026-07-31
 * [Review] [Review on: Update EIP-8333: Clarify EIP-8333 boundary rationale](https://github.com/ethereum/EIPs/pull/12090#pullrequestreview-4857115320) - 2026-08-04
+* [Review] [Review on: Update EIP-8282: Move to Review](https://github.com/ethereum/EIPs/pull/12108#pullrequestreview-4864537143) - 2026-08-05
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 

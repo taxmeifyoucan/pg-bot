@@ -26,6 +26,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Add EIP: SSZ Compact Multiproofs](https://github.com/ethereum/EIPs/pull/12093) - 2026-08-04
 * [Review] [Review on: Update EIP-8333: shorten dependent-root rationale](https://github.com/ethereum/EIPs/pull/12092#pullrequestreview-4857652496) - 2026-08-04
 * [Review] [Review on: Update EIP-8333: Clarify EIP-8333 boundary rationale](https://github.com/ethereum/EIPs/pull/12090#pullrequestreview-4857320250) - 2026-08-04
+* [Review] [Review on: Update EIP-8282: Move to Review](https://github.com/ethereum/EIPs/pull/12108#pullrequestreview-4864572266) - 2026-08-05
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
 
@@ -86,11 +87,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor: use UintBn64 for Eth1Data.depositCount](https://github.com/ChainSafe/lodestar/pull/9747#pullrequestreview-4855687709) - 2026-08-04
 * [Review] [Review on: chore: use tsc for builder package scripts](https://github.com/ChainSafe/lodestar/pull/9766#pullrequestreview-4855573430) - 2026-08-04
 * [Review] [Review on: chore: follow up on #9390 on EIP-7688 changes](https://github.com/ChainSafe/lodestar/pull/9689#pullrequestreview-4855090734) - 2026-08-04
+* [Review] [Review on: chore: handle Rekor 409 conflict during npm provenance publish](https://github.com/ChainSafe/lodestar/pull/9703#pullrequestreview-4867593632) - 2026-08-05
+* [Review] [Review on: feat: gloas polar bear banner](https://github.com/ChainSafe/lodestar/pull/9742#pullrequestreview-4864275010) - 2026-08-05
+* [Review] [Review on: fix: get proposer from head state in prepareNextSlot](https://github.com/ChainSafe/lodestar/pull/9762#pullrequestreview-4864292629) - 2026-08-05
+* [Review] [Review on: chore: avoid epoch transition when validating gossip columns](https://github.com/ChainSafe/lodestar/pull/9772#pullrequestreview-4864255570) - 2026-08-05
+* [Issue] [Consider only handling post-fulu gossip](https://github.com/ChainSafe/lodestar/issues/9776) - 2026-08-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
 * [Review] [Review on: Explicitly define types as classes](https://github.com/ethereum/consensus-specs/pull/5471#pullrequestreview-4773982938) - 2026-07-24
 * [Review] [Review on: Explicitly define types as classes](https://github.com/ethereum/consensus-specs/pull/5471#pullrequestreview-4820178703) - 2026-07-30
+* [Review] [Review on: Allow readers to ignore trailing bytes after declared SSZ bytes](https://github.com/ethereum/consensus-specs/pull/5511#pullrequestreview-4867587429) - 2026-08-05
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460#pullrequestreview-4639587158) - 2026-07-06
 * [Review] [Review on: fix: state transition binding exports](https://github.com/ChainSafe/lodestar-z/pull/456#pullrequestreview-4639596235) - 2026-07-06

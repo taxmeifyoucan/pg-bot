@@ -159,6 +159,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Fix stale transaction pool snapshots](https://github.com/NethermindEth/nethermind/pull/12685#pullrequestreview-4858563425) - 2026-08-04
 * [Review] [Review on: fix(jsonrpc): synchronise SubscriptionManager per-client subscription bag](https://github.com/NethermindEth/nethermind/pull/12672#pullrequestreview-4854891719) - 2026-08-04
 * [Commit] [Fix EIP-7708 tracing with logs (#12577)](https://github.com/NethermindEth/nethermind/commit/725d8a5aa6a86a073951544874a823e67e9211c4) - 2026-08-04
+* [Pull Request] [Stop parallel transaction execution once BAL validation rejects the block](https://github.com/NethermindEth/nethermind/pull/12697) - 2026-08-05
+* [Commit] [Stop parallel transaction execution once BAL validation rejects the block (#12697)](https://github.com/NethermindEth/nethermind/commit/26c2c0bcfdc2bfa40e3a734a548560694bec948b) - 2026-08-05
+* [Commit] [perf(state): skip trie warmup for read-only BAL accounts in flat layout (#12681)](https://github.com/NethermindEth/nethermind/commit/3181e53cc96dd2e8c31968c9aed5715825b853fa) - 2026-08-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

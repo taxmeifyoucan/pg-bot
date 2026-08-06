@@ -62,6 +62,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Commit] [Improve the readability of IL store (#5507)](https://github.com/ethereum/consensus-specs/commit/6afc99391cbe7d01eb8a80e619b4168a052fd084) - 2026-08-03
 * [Commit] [Rename the max IL transaction size constant name (#5508)](https://github.com/ethereum/consensus-specs/commit/3cbd26f048237250e3373d4d0a651a647b4c58e1) - 2026-08-03
 * [Pull Request] [Modify on_inclusion_list to handle ILs from req/resp](https://github.com/ethereum/consensus-specs/pull/5513) - 2026-08-04
+* [Pull Request] [Use the genesis root as a dependent root for the first two epochs](https://github.com/ethereum/consensus-specs/pull/5515) - 2026-08-05
+* [Commit] [Use the genesis root as a dependent root for the first two epochs (#5515)](https://github.com/ethereum/consensus-specs/commit/a314c7348893006cd6952f9056213bc73e942c9a) - 2026-08-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

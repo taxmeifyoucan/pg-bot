@@ -82,6 +82,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: classify batch processing failures (#9693)](https://github.com/ChainSafe/lodestar/commit/13423cff6d2055ade95aaac9b1f6b862f96106f1) - 2026-08-03
 * [Pull Request] [fix: get proposer from head state in prepareNextSlot](https://github.com/ChainSafe/lodestar/pull/9762) - 2026-08-04
 * [Review] [Review on: fix: ignore parent bids at epoch boundary](https://github.com/ChainSafe/lodestar/pull/9756#pullrequestreview-4851085190) - 2026-08-04
+* [Pull Request] [chore: avoid epoch transition when validating gossip columns](https://github.com/ChainSafe/lodestar/pull/9772) - 2026-08-05
+* [Review] [Review on: chore: avoid epoch transition when validating gossip columns](https://github.com/ChainSafe/lodestar/pull/9772#pullrequestreview-4862274842) - 2026-08-05
+* [Commit] [fix: get proposer from head state in prepareNextSlot (#9762)](https://github.com/ChainSafe/lodestar/commit/281a8ee1946a1ab6e360d29e0f070392a21002f4) - 2026-08-05
+* [Commit] [chore: avoid epoch transition when validating gossip columns (#9772)](https://github.com/ChainSafe/lodestar/commit/df02c7532b5320f992af1962bba6ae5255412767) - 2026-08-05
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

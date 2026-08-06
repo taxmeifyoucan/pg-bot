@@ -38,6 +38,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(trie): avoid marking empty storage as deleted](https://github.com/paradigmxyz/reth/pull/26526#pullrequestreview-4817503461) - 2026-07-30
 * [Review] [Review on: chore: bump revm to 42.0.1](https://github.com/paradigmxyz/reth/pull/26490#pullrequestreview-4829090666) - 2026-07-31
 * [Review] [Review on: chore(deps): update Alloy and Tokio Tungstenite](https://github.com/paradigmxyz/reth/pull/26562#pullrequestreview-4845998563) - 2026-08-03
+* [Pull Request] [refactor(`eth_createAccessList`): unify env preparation](https://github.com/paradigmxyz/reth/pull/26598) - 2026-08-05
+* [Review] [Review on: fix(rpc): restore optional receipt conversion](https://github.com/paradigmxyz/reth/pull/26596#pullrequestreview-4866239955) - 2026-08-05
+* [Commit] [refactor(`eth_createAccessList`): unify env preparation (#26598)](https://github.com/paradigmxyz/reth/commit/995c55a9d50acea58bd2933df5d4fa82c670acd1) - 2026-08-05
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

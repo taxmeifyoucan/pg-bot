@@ -79,6 +79,12 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [EIP-8141: validation-prefix simulation admission for frame transactions (MAX_VERIFY_GAS bound)](https://github.com/NethermindEth/nethermind/pull/12620) - 2026-07-30
 * [Review] [Review on: Harden BAL gas accounting boundaries](https://github.com/NethermindEth/nethermind/pull/12589#pullrequestreview-4817790659) - 2026-07-30
 * [Pull Request] [fix(rlp): advance struct-ref decode past frame-tx receipt extension](https://github.com/NethermindEth/nethermind/pull/12671) - 2026-08-03
+* [Pull Request] [EIP-8141: blob-pool routing, sidecar, and production budget for blob-carrying frame transactions](https://github.com/NethermindEth/nethermind/pull/12709) - 2026-08-05
+* [Pull Request] [EIP-8141: support blob-carrying frame transactions (validate correctly, produce conservatively)](https://github.com/NethermindEth/nethermind/pull/12701) - 2026-08-05
+* [Review] [Review on: feat(evm): EIP-7623 calldata floor for frame transactions](https://github.com/NethermindEth/nethermind/pull/12594#pullrequestreview-4869498476) - 2026-08-05
+* [Pull Request] [EIP-8141: align SIGPARAM copy operand order with CALLDATACOPY](https://github.com/NethermindEth/nethermind/pull/12700) - 2026-08-05
+* [Pull Request] [EIP-8141: statically reject approval scope on atomic-batch frames](https://github.com/NethermindEth/nethermind/pull/12703) - 2026-08-05
+* [Review] [Review on: fix(evm): execute a VERIFY frame as a truly static call](https://github.com/NethermindEth/nethermind/pull/12660#pullrequestreview-4864612003) - 2026-08-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -89,6 +95,9 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-7793: Move to Draft](https://github.com/ethereum/EIPs/pull/12077) - 2026-08-03
 * [Pull Request] [Update EIP-8141: frame-aware inclusion-list (FOCIL) validity](https://github.com/ethereum/EIPs/pull/12086) - 2026-08-04
 * [Review] [Review on: Update EIP-8141: ban SLOTNUM during validation-prefix execution](https://github.com/ethereum/EIPs/pull/12066#pullrequestreview-4853200710) - 2026-08-04
+* [Pull Request] [Update EIP-8141: pin the initial accessed_addresses set for frame transactions](https://github.com/ethereum/EIPs/pull/12113) - 2026-08-05
+* [Pull Request] [Update EIP-8141: statically disallow approval scope on atomic-batch frames](https://github.com/ethereum/EIPs/pull/12109) - 2026-08-05
+* [Commit] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/commit/115174e36f14c67a7cda1d54a37a4eae37885799) - 2026-08-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 * [Commit] [feat(tests): add EIP-8037 spill-refund accounting coverage (#3158)](https://github.com/ethereum/execution-specs/commit/610cd779baff95f99c85442dd2fa8cc8146260b2) - 2026-07-30
