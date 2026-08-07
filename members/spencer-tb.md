@@ -178,6 +178,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-execute): fix execute for Amsterdam](https://github.com/ethereum/execution-specs/pull/3300#pullrequestreview-4863273274) - 2026-08-05
 * [Issue] [Test Release Tracker: `glamsterdam-devnet@v8.1.1`](https://github.com/ethereum/execution-specs/issues/3311) - 2026-08-05
 * [Commit] [feat(spec-specs,tests): apply revised EIP-8038 gas values (#3293)](https://github.com/ethereum/execution-specs/commit/7b6aed29c90bc0e8e99078044cc0a1474adcba76) - 2026-08-05
+* [Pull Request] [chore(tooling): add test-docstring guidance to the write-test skill](https://github.com/ethereum/execution-specs/pull/3328) - 2026-08-06
+* [Review] [Review on: fix(test-execute): register per-test hive test cases with the shared client](https://github.com/ethereum/execution-specs/pull/3317#pullrequestreview-4874808156) - 2026-08-06
+* [Review] [Review on: fix(spec-tools,testing): move evm_tools into the testing package](https://github.com/ethereum/execution-specs/pull/3307#pullrequestreview-4872828818) - 2026-08-06
+* [Review] [Review on: feat(test-specs):add ssz model into the engine payload class](https://github.com/ethereum/execution-specs/pull/3294#pullrequestreview-4872952221) - 2026-08-06
+* [Review] [Review on: refactor(test-rpc): unify batch request chunking](https://github.com/ethereum/execution-specs/pull/3327#pullrequestreview-4874176131) - 2026-08-06
+* [Commit] [chore(tooling): add test-docstring guidance to the write-test skill (#3328)](https://github.com/ethereum/execution-specs/commit/f6cf6a926c8272d963771d3f19a2b12f97867928) - 2026-08-06
+* [Commit] [feat(test-tests): add engine payload attribute and genesis parity tests (#3309)](https://github.com/ethereum/execution-specs/commit/847f8857f843d95760882fd8d637d77a259636f2) - 2026-08-06
+* [Commit] [feat(tests): add EIP-2780 coverage gap tests (#3318)](https://github.com/ethereum/execution-specs/commit/1afd925ff8d2d080e0d979acde72bd2848d6291a) - 2026-08-06
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -201,6 +209,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: simulators/eels: optionally consume pre-staged local fixtures tar.gz](https://github.com/ethereum/hive/pull/1577#pullrequestreview-4736523485) - 2026-07-20
 
 * [Commit] [simulators/eels: fix `execute-blobs` simulator (#1365)](https://github.com/ethereum/hive/commit/dde4f59d04ff0ff8b6585670b08cea1b6c8ab65c) - 2026-07-30
+* [Pull Request] [hiveproxy: use GOPROXY "|" separator to fall back to direct on any proxy error](https://github.com/ethereum/hive/pull/1591) - 2026-08-06
+* [Commit] [hiveproxy: use GOPROXY "|" separator to fall back to direct on any proxy error (#1591)](https://github.com/ethereum/hive/commit/9657d0624005b13fb3d4bfc62a4036224dc54545) - 2026-08-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4806932985) - 2026-07-29
 * [Pull Request] [Update EIP-7773: SFI remaining Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12024) - 2026-07-29

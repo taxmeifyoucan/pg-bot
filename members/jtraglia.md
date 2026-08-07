@@ -148,6 +148,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Modify `on_inclusion_list` to handle ILs from req/resp](https://github.com/ethereum/consensus-specs/pull/5513#pullrequestreview-4866772403) - 2026-08-05
 * [Review] [Review on: Use the genesis root as a dependent root for the first two epochs](https://github.com/ethereum/consensus-specs/pull/5515#pullrequestreview-4864938055) - 2026-08-05
 * [Commit] [Explicitly define types as classes (#5471)](https://github.com/ethereum/consensus-specs/commit/5366cb59eb39e4ec1d6c468a79cceb626c14c048) - 2026-08-05
+* [Review] [Review on: Modify `on_inclusion_list` to handle ILs from req/resp](https://github.com/ethereum/consensus-specs/pull/5513#pullrequestreview-4877303020) - 2026-08-06
+* [Review] [Review on: Remove default fields from the Store](https://github.com/ethereum/consensus-specs/pull/5519#pullrequestreview-4877251972) - 2026-08-06
+* [Pull Request] [Replace remerkleable with `ssz-specs`](https://github.com/ethereum/consensus-specs/pull/5518) - 2026-08-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

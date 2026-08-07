@@ -76,6 +76,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [fc time budgeting instead of capping](https://github.com/status-im/nimbus-eth1/pull/4588) - 2026-07-30
 * [Pull Request] [remove compaction from pruner](https://github.com/status-im/nimbus-eth1/pull/4606) - 2026-08-05
 * [Commit] [remove compaction from pruner (#4606)](https://github.com/status-im/nimbus-eth1/commit/199412761127a645be12df76a55ef99e161b85ae) - 2026-08-05
+* [Pull Request] [use the same genesis in test nodes](https://github.com/status-im/nimbus-eth1/pull/4614) - 2026-08-06
+* [Commit] [use the same genesis in test nodes (#4614)](https://github.com/status-im/nimbus-eth1/commit/413dda0e86c233178039204657612af0b34b9190) - 2026-08-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22

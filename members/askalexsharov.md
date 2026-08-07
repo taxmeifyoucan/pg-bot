@@ -699,6 +699,31 @@ Team: Erigon
 * [Review] [Review on: db/state: remove dead ExecV3 prune-progress code](https://github.com/erigontech/erigon/pull/23017#pullrequestreview-4863902115) - 2026-08-05
 * [Review] [Review on: rpc/jsonrpc: push fresh witnesses via debug_subscribe("executionWitnesses")](https://github.com/erigontech/erigon/pull/22407#pullrequestreview-4861314395) - 2026-08-05
 * [Review] [Review on: execution/vm: uint256 fast path for MODEXP when modulus and base ≤ 256 bits](https://github.com/erigontech/erigon/pull/22940#pullrequestreview-4863357198) - 2026-08-05
+* [Review] [Review on: ci: set legacy spec test shards failures to 0](https://github.com/erigontech/erigon/pull/23068#pullrequestreview-4879206836) - 2026-08-07
+* [Review] [Review on: execution: fixes for glamsterdam devnet extra coverage](https://github.com/erigontech/erigon/pull/23065#pullrequestreview-4879208652) - 2026-08-07
+* [Review] [Review on: docs(site): Quantify brand wordmark + minimal theme-aware footer](https://github.com/erigontech/erigon/pull/23070#pullrequestreview-4879204005) - 2026-08-07
+* [Review] [Review on: db/state: don't clear domain RAM under a published SharedDomains](https://github.com/erigontech/erigon/pull/23046#pullrequestreview-4873648439) - 2026-08-06
+* [Review] [Review on: execution/vm: uint256 fast path for MODEXP when the modulus is in [2^192, 2^256)](https://github.com/erigontech/erigon/pull/22940#pullrequestreview-4873765089) - 2026-08-06
+* [Review] [Review on: execution: eradicate block.SetBlockAccessList](https://github.com/erigontech/erigon/pull/23060#pullrequestreview-4873810031) - 2026-08-06
+* [Review] [Review on: execution/vm: handle k == 1 in the BLS12-381 MSM precompiles](https://github.com/erigontech/erigon/pull/22936#pullrequestreview-4873837004) - 2026-08-06
+* [Pull Request] [[r3.6] fix(state): roll back receipt domains on in-RAM reorg unwind](https://github.com/erigontech/erigon/pull/23063) - 2026-08-06
+* [Pull Request] [[r3.5] fix(state): roll back receipt domains on in-RAM reorg unwind](https://github.com/erigontech/erigon/pull/23064) - 2026-08-06
+* [Review] [Review on: fix(state): roll back receipt domains on in-RAM reorg unwind](https://github.com/erigontech/erigon/pull/23061#pullrequestreview-4873710738) - 2026-08-06
+* [Review] [Review on: [r3.6] execution, db: bind StateCache fills to transaction views and reject stale fills](https://github.com/erigontech/erigon/pull/23031#pullrequestreview-4872862159) - 2026-08-06
+* [Review] [Review on: execution: remove unused moduleutil](https://github.com/erigontech/erigon/pull/23042#pullrequestreview-4872853286) - 2026-08-06
+* [Pull Request] [metrics: parallel-exec conflict rate](https://github.com/erigontech/erigon/pull/23054) - 2026-08-06
+* [Pull Request] [[r3.6] metrics: parallel-exec conflict rate](https://github.com/erigontech/erigon/pull/23056) - 2026-08-06
+* [Review] [Review on: [r3.6] execution/types: reject truncated typed transactions in block-body decoding](https://github.com/erigontech/erigon/pull/23041#pullrequestreview-4870771568) - 2026-08-06
+* [Pull Request] [exec: ValidateVersion to batch self-destruct mu.Lock()](https://github.com/erigontech/erigon/pull/23055) - 2026-08-06
+* [Review] [Review on: exec: ValidateVersion to batch self-destruct mu.Lock()](https://github.com/erigontech/erigon/pull/23055#pullrequestreview-4871689227) - 2026-08-06
+* [Pull Request] [[r3.6] execution/stagedsync, execution/state: cut calcFees version-map lookups](https://github.com/erigontech/erigon/pull/23057) - 2026-08-06
+* [Pull Request] [exec: calcFees to make less version-map lookups](https://github.com/erigontech/erigon/pull/23053) - 2026-08-06
+* [Review] [Review on: exec: calcFees to make less version-map lookups](https://github.com/erigontech/erigon/pull/23053#pullrequestreview-4871215519) - 2026-08-06
+* [Review] [Review on: all: enable and resolve sprintfQuotedString and deferInLoop linter checks](https://github.com/erigontech/erigon/pull/22994#pullrequestreview-4871331623) - 2026-08-06
+* [Pull Request] [[experiment] execution/stagedsync: let Normalize read through the tx's own read set](https://github.com/erigontech/erigon/pull/23050) - 2026-08-06
+* [Pull Request] [execution/execmodule, node: remove the FCU background flush/commit path](https://github.com/erigontech/erigon/pull/23051) - 2026-08-06
+* [Commit] [execution/vm: handle k == 1 in the BLS12-381 MSM precompiles (#22936)](https://github.com/erigontech/erigon/commit/63017bdd7e0f00f8470beb582726ee2520405269) - 2026-08-06
+* [Commit] [metrics: parallel-exec conflict rate (#23054)](https://github.com/erigontech/erigon/commit/4e4ebbf03eeb12378d6c361e02e152cbbd4027f6) - 2026-08-06
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

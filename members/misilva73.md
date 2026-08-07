@@ -52,6 +52,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-2780: charge delegation-target access on self-transfers](https://github.com/ethereum/EIPs/pull/12080#pullrequestreview-4853923764) - 2026-08-04
 * [Commit] [Update EIP-2780: revise COLD_STORAGE_ACCESS and ACCOUNT_WRITE values](https://github.com/ethereum/EIPs/commit/8331fb3eed0a5366b28b25a016f1ad04fac0fa8e) - 2026-08-04
 * [Pull Request] [Add EIP: CPSB Recalibration for New Gas Limit](https://github.com/ethereum/EIPs/pull/12107) - 2026-08-05
+* [Pull Request] [Update EIP-8081: PFI EIP-8368](https://github.com/ethereum/EIPs/pull/12117) - 2026-08-06
+* [Commit] [Add EIP: CPSB Recalibration for New Gas Limit](https://github.com/ethereum/EIPs/commit/6d574460e3a424ce8386bcacd64e9546d6fb4950) - 2026-08-06
 ## Q2 2026
 
 

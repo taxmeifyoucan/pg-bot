@@ -106,6 +106,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Add private eth_call corpus mode to the RPC benchmark workflow](https://github.com/NethermindEth/nethermind/pull/12704) - 2026-08-05
 * [Review] [Review on: Add private eth_call corpus mode to the RPC benchmark workflow](https://github.com/NethermindEth/nethermind/pull/12704#pullrequestreview-4868982029) - 2026-08-05
 * [Commit] [Fix stale transaction pool snapshots (#12685)](https://github.com/NethermindEth/nethermind/commit/34c85f7cd8a9302371df10537e5d5ed040b4c843) - 2026-08-05
+* [Pull Request] [perf(rpc): cut eth_call overhead in memory, code stream, and tx parse](https://github.com/NethermindEth/nethermind/pull/12716) - 2026-08-06
+* [Review] [Review on: Selectable dotTrace profiling mode + dotnet-trace EventPipe sidecar for benchmark workflows](https://github.com/NethermindEth/nethermind/pull/12708#pullrequestreview-4875805249) - 2026-08-06
+* [Commit] [Selectable dotTrace profiling mode + dotnet-trace EventPipe sidecar for benchmark workflows (#12708)](https://github.com/NethermindEth/nethermind/commit/8274eb96c8df3b016f8626978da51c79124f65dd) - 2026-08-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

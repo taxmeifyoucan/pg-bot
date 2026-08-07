@@ -226,6 +226,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: avoid epoch transition when validating gossip columns](https://github.com/ChainSafe/lodestar/pull/9772#pullrequestreview-4862559696) - 2026-08-05
 * [Review] [Review on: fix: avoid peer scoring on local payload errors](https://github.com/ChainSafe/lodestar/pull/9755#pullrequestreview-4864094319) - 2026-08-05
 * [Review] [Review on: fix: accept Heze states in builder bid coverage](https://github.com/ChainSafe/lodestar/pull/9773#pullrequestreview-4862891195) - 2026-08-05
+* [Review] [Review on: feat(builder): beacon node readiness, builder identity resolution and execution fee recipient](https://github.com/ChainSafe/lodestar/pull/9781#pullrequestreview-4875043009) - 2026-08-06
+* [Pull Request] [fix: do not produce blocks on top of an optimistic head](https://github.com/ChainSafe/lodestar/pull/9779) - 2026-08-06
+* [Pull Request] [chore: address builder circuit breaker review follow-ups](https://github.com/ChainSafe/lodestar/pull/9780) - 2026-08-06
+* [Commit] [fix: do not produce blocks on top of an optimistic head (#9779)](https://github.com/ChainSafe/lodestar/commit/b9d4e89e490cf66c9b29bac025c7855371c130d8) - 2026-08-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

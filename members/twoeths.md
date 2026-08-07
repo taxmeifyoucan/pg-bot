@@ -86,6 +86,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: avoid epoch transition when validating gossip columns](https://github.com/ChainSafe/lodestar/pull/9772#pullrequestreview-4862274842) - 2026-08-05
 * [Commit] [fix: get proposer from head state in prepareNextSlot (#9762)](https://github.com/ChainSafe/lodestar/commit/281a8ee1946a1ab6e360d29e0f070392a21002f4) - 2026-08-05
 * [Commit] [chore: avoid epoch transition when validating gossip columns (#9772)](https://github.com/ChainSafe/lodestar/commit/df02c7532b5320f992af1962bba6ae5255412767) - 2026-08-05
+* [Review] [Review on: feat: cache builder deposit signatures for gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9727#pullrequestreview-4872639635) - 2026-08-06
+* [Review] [Review on: fix: get proposer from head state in prepareNextSlot](https://github.com/ChainSafe/lodestar/pull/9762#pullrequestreview-4872288369) - 2026-08-06
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

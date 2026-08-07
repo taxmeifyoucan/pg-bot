@@ -66,6 +66,9 @@ Team: Geth
 * [Commit] [core: update 2780 and 8038 parameters (#35454)](https://github.com/ethereum/go-ethereum/commit/92a3bed7f2c05a4cbcfe946b50a701599a564afb) - 2026-08-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
+
+[ethereum/protocol-security](https://github.com/ethereum/protocol-security)
+* [Review] [Review on: Update team page](https://github.com/ethereum/protocol-security/pull/55#pullrequestreview-4875928661) - 2026-08-06
 ## Q2 2026
 
 

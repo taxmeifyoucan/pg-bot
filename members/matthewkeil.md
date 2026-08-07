@@ -34,6 +34,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: gloas polar bear banner](https://github.com/ChainSafe/lodestar/pull/9742#pullrequestreview-4865212585) - 2026-08-05
 * [Issue] [Revert Browser Support for New BLST](https://github.com/ChainSafe/lodestar/issues/9774) - 2026-08-05
 * [Issue] [Implement pre-generated keys for testing](https://github.com/ChainSafe/lodestar/issues/9775) - 2026-08-05
+* [Review] [Review on: fix: do not produce blocks on top of an optimistic head](https://github.com/ChainSafe/lodestar/pull/9779#pullrequestreview-4874637800) - 2026-08-06
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

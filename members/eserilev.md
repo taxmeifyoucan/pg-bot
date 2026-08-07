@@ -72,6 +72,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Implement Gloas builder state endpoint](https://github.com/sigp/lighthouse/pull/9682#pullrequestreview-4843811658) - 2026-08-03
 * [Review] [Review on: Pin geth image in gloas genesis-sync CI](https://github.com/sigp/lighthouse/pull/9750#pullrequestreview-4855671771) - 2026-08-04
 * [Review] [Review on: Add inclusion list committee derivation](https://github.com/sigp/lighthouse/pull/9742#pullrequestreview-4864033373) - 2026-08-05
+* [Pull Request] [Fix flaky `import_gossip_block_at_current_slot` test](https://github.com/sigp/lighthouse/pull/9767) - 2026-08-06
+* [Pull Request] [Bump EF tests to v1.7.0-alpha.13](https://github.com/sigp/lighthouse/pull/9764) - 2026-08-06
+* [Pull Request] [Add dependent root check to proposer preferences validation (alpha.13)](https://github.com/sigp/lighthouse/pull/9760) - 2026-08-06
+* [Pull Request] [Allow multiple bids compatible with the head view (alpha.13)](https://github.com/sigp/lighthouse/pull/9763) - 2026-08-06
+* [Pull Request] [Fix payload availability lookup using the parent block's slot (alpha.13)](https://github.com/sigp/lighthouse/pull/9761) - 2026-08-06
+* [Pull Request] [Skip EF tests below the top of a PR stack](https://github.com/sigp/lighthouse/pull/9765) - 2026-08-06
+* [Review] [Review on: Gloas alpha spec 12 changes](https://github.com/sigp/lighthouse/pull/9596#pullrequestreview-4871094190) - 2026-08-06
 ## Q2 2026
 
 

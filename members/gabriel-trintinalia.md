@@ -23,6 +23,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: feat(core): support explicit operation tracer in block processing](https://github.com/besu-eth/besu/pull/10862#pullrequestreview-4769747788) - 2026-07-24
 * [Review] [Review on: simulation gas: do not apply EIP-7825 txGasLimitCap ](https://github.com/besu-eth/besu/pull/10885#pullrequestreview-4851240702) - 2026-08-04
 * [Review] [Review on: simulation gas: do not apply EIP-7825 txGasLimitCap ](https://github.com/besu-eth/besu/pull/10885#pullrequestreview-4860480629) - 2026-08-05
+* [Review] [Review on: simulation gas: do not apply EIP-7825 txGasLimitCap ](https://github.com/besu-eth/besu/pull/10885#pullrequestreview-4878811889) - 2026-08-06
 ## Q2 2026
 
 

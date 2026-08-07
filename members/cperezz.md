@@ -29,6 +29,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Review] [Review on: feat(test-types): Fork-based State Commitment Property in Alloc](https://github.com/ethereum/execution-specs/pull/3279#pullrequestreview-4851658537) - 2026-08-04
 * [Pull Request] [feat(binary-trie): store delegation indicators in the account header](https://github.com/ethereum/execution-specs/pull/3324) - 2026-08-05
 * [Pull Request] [feat(binary-trie): move all code chunks into the content-addressed code zone](https://github.com/ethereum/execution-specs/pull/3310) - 2026-08-05
+* [Review] [Review on: feat(binary-trie): store delegation indicators in the account header](https://github.com/ethereum/execution-specs/pull/3324#pullrequestreview-4871933967) - 2026-08-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/pull/12027) - 2026-07-29
 
@@ -44,6 +45,10 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [Update EIP-8297: Move all code chunks into the code zone](https://github.com/ethereum/EIPs/commit/ab8081e7466ccacfc17a8c6c0c7034291c02c97c) - 2026-08-04
 * [Pull Request] [Update EIP-8297: store delegation indicators in the account header](https://github.com/ethereum/EIPs/pull/12114) - 2026-08-05
 * [Pull Request] [Update EIP-8347: delegation indicators are header leaves](https://github.com/ethereum/EIPs/pull/12115) - 2026-08-05
+* [Review] [Review on: Update EIP-8297: Add a small note on reserved fields in the header](https://github.com/ethereum/EIPs/pull/12095#pullrequestreview-4874536280) - 2026-08-06
+* [Review] [Review on: Update EIP-8297: store delegation indicators in the account header](https://github.com/ethereum/EIPs/pull/12114#pullrequestreview-4872331493) - 2026-08-06
+* [Commit] [Update EIP-8347: delegation indicators are header leaves](https://github.com/ethereum/EIPs/commit/dc1e76c2e238ad2f6caaf7cde6d4cfdf970d6961) - 2026-08-06
+* [Commit] [Update EIP-8297: store delegation indicators in the account header](https://github.com/ethereum/EIPs/commit/2f0a8bed002f527f6cec450edecb89887896ac87) - 2026-08-06
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436) - 2026-07-29
 ## Q2 2026

@@ -212,10 +212,29 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: remove unused moduleutil](https://github.com/erigontech/erigon/pull/23042) - 2026-08-05
 * [Commit] [execution: allow for smaller e2 file retirement step in tests (#23009)](https://github.com/erigontech/erigon/commit/35dba03486f93e4b77c68c472070013fa4deb612) - 2026-08-05
 * [Commit] [execmoduletester: move helper funcs for interacting with ExecModule to public receivers (#23010)](https://github.com/erigontech/erigon/commit/53757742e7855e78914868cb94a89269ba8aa62a) - 2026-08-05
+* [Pull Request] [ci: set legacy spec test shards failures to 0](https://github.com/erigontech/erigon/pull/23068) - 2026-08-06
+* [Pull Request] [execution: fixes for glamsterdam devnet extra coverage](https://github.com/erigontech/erigon/pull/23065) - 2026-08-06
+* [Pull Request] [execution: pass around block and remove unnecessary block lookups in parallel exec ](https://github.com/erigontech/erigon/pull/23069) - 2026-08-06
+* [Review] [Review on: execution/exec: support EIP-2780 minTxGas floor in block assembler](https://github.com/erigontech/erigon/pull/23052#pullrequestreview-4876535417) - 2026-08-06
+* [Review] [Review on: execution/vm: uint256 fast path for MODEXP when the modulus is in [2^192, 2^256)](https://github.com/erigontech/erigon/pull/22940#pullrequestreview-4873575143) - 2026-08-06
+* [Pull Request] [execution: eradicate block.SetBlockAccessList](https://github.com/erigontech/erigon/pull/23060) - 2026-08-06
+* [Review] [Review on: execution: eradicate block.SetBlockAccessList](https://github.com/erigontech/erigon/pull/23060#pullrequestreview-4873992728) - 2026-08-06
+* [Review] [Review on: execution/vm: handle k == 1 in the BLS12-381 MSM precompiles](https://github.com/erigontech/erigon/pull/22936#pullrequestreview-4873699031) - 2026-08-06
+* [Review] [Review on: [r3.6] fix(state): roll back receipt domains on in-RAM reorg unwind](https://github.com/erigontech/erigon/pull/23063#pullrequestreview-4874380897) - 2026-08-06
+* [Review] [Review on: [r3.5] fix(state): roll back receipt domains on in-RAM reorg unwind](https://github.com/erigontech/erigon/pull/23064#pullrequestreview-4874382952) - 2026-08-06
+* [Review] [Review on: metrics: parallel-exec conflict rate](https://github.com/erigontech/erigon/pull/23054#pullrequestreview-4872358025) - 2026-08-06
+* [Review] [Review on: [r3.6] metrics: parallel-exec conflict rate](https://github.com/erigontech/erigon/pull/23056#pullrequestreview-4872360261) - 2026-08-06
+* [Commit] [execution: fixes for glamsterdam devnet extra coverage (#23065)](https://github.com/erigontech/erigon/commit/db2160b47ea9d051113b78e5a92a8f691934b7dd) - 2026-08-07
+* [Commit] [ci: set legacy spec test shards failures to 0 (#23068)](https://github.com/erigontech/erigon/commit/82750795dfff367be519ec5cec59484981f94c75) - 2026-08-07
+* [Commit] [execution: eradicate block.SetBlockAccessList (#23060)](https://github.com/erigontech/erigon/commit/633a896a121607b161fb238e603e51b58eaee69c) - 2026-08-06
+* [Commit] [execution: achieve 0 re-execs/aborts for BAL-driven parallel exec (#22190)](https://github.com/erigontech/erigon/commit/ff6903db1ccaa17f462e15ea31a067a0f1627983) - 2026-08-06
+* [Commit] [execution: remove unused moduleutil (#23042)](https://github.com/erigontech/erigon/commit/30850b623f5ab1e98aa8e022bea2bdb2d3c9a68e) - 2026-08-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
 
+* [Pull Request] [fix(tests): accept gas allowance error at EIP-7778 admission gate](https://github.com/ethereum/execution-specs/pull/3330) - 2026-08-06
+* [Commit] [fix(tests): accept gas allowance error at EIP-7778 admission gate (#3330)](https://github.com/ethereum/execution-specs/commit/a7103a7e531eee773cdaec3dc8b2be2913de4f2b) - 2026-08-06
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [erigon: raise MAX_REORG_DEPTH for enginex runs](https://github.com/ethereum/hive/pull/1568) - 2026-07-08
 * [Commit] [erigon: raise MAX_REORG_DEPTH for enginex runs (#1568)](https://github.com/ethereum/hive/commit/086c7556b09aa200d578cbf39e3e3cf26c8ac3eb) - 2026-07-08

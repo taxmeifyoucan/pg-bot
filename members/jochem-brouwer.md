@@ -79,6 +79,10 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Balance sunset for retired BLS validators](https://github.com/ethereum/EIPs/pull/12099#pullrequestreview-4866353983) - 2026-08-05
 * [Review] [Review on: Update EIP-8282: Move to Review](https://github.com/ethereum/EIPs/pull/12108#pullrequestreview-4865475359) - 2026-08-05
 * [Review] [Review on: Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867#pullrequestreview-4865480420) - 2026-08-05
+* [Review] [Review on: Add EIP: Normalized state gas limit](https://github.com/ethereum/EIPs/pull/12119#pullrequestreview-4878906020) - 2026-08-07
+* [Review] [Review on: Add EIP: Tapered Issuance Burn](https://github.com/ethereum/EIPs/pull/12081#pullrequestreview-4874941685) - 2026-08-06
+* [Review] [Review on: Add EIP: RowDAS - Distributed Blob Reconstruction](https://github.com/ethereum/EIPs/pull/12118#pullrequestreview-4874381825) - 2026-08-06
+* [Review] [Review on: Add EIP: CPSB Recalibration for New Gas Limit](https://github.com/ethereum/EIPs/pull/12107#pullrequestreview-4874364728) - 2026-08-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03

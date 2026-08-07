@@ -124,6 +124,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cmd/utils/app: reject same snapshot range published under multiple versions](https://github.com/erigontech/erigon/pull/23019) - 2026-08-05
 * [Commit] [fail fast on files-DB gap (#23022)](https://github.com/erigontech/erigon/commit/c7286d5bb7b515889ba4249d9eb2256631f168e0) - 2026-08-05
 * [Commit] [db/state: remove dead ExecV3 prune-progress code (#23017)](https://github.com/erigontech/erigon/commit/97a5ef4dddcbbef47d2db8a6f1f88dac79b7c7a6) - 2026-08-05
+* [Review] [Review on: cmd/integration: add `history duplicates` to find redundant history values](https://github.com/erigontech/erigon/pull/22450#pullrequestreview-4873906719) - 2026-08-06
+* [Review] [Review on: db/seg: batch consecutive words to parallel AC workers](https://github.com/erigontech/erigon/pull/21997#pullrequestreview-4873321625) - 2026-08-06
+* [Pull Request] [db/seg: run the single-worker cover phase through the batched pipeline](https://github.com/erigontech/erigon/pull/23058) - 2026-08-06
 ## Q2 2026
 
 

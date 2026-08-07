@@ -42,6 +42,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: partial rebuilds for beacon state progressive HTR](https://github.com/OffchainLabs/prysm/pull/17291#pullrequestreview-4854999439) - 2026-08-04
 * [Issue] [Handle ActiveFields checks for > gloas forks in progressive methods](https://github.com/OffchainLabs/prysm/issues/17301) - 2026-08-05
 * [Issue] [Handle version checks for > gloas forks in progressive methods](https://github.com/OffchainLabs/prysm/issues/17300) - 2026-08-05
+* [Review] [Review on: Add proto/prysm/wrappers for proto-typed HTR helpers](https://github.com/OffchainLabs/prysm/pull/17304#pullrequestreview-4875100942) - 2026-08-06
 ## Q2 2026
 
 

@@ -64,6 +64,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Modify on_inclusion_list to handle ILs from req/resp](https://github.com/ethereum/consensus-specs/pull/5513) - 2026-08-04
 * [Pull Request] [Use the genesis root as a dependent root for the first two epochs](https://github.com/ethereum/consensus-specs/pull/5515) - 2026-08-05
 * [Commit] [Use the genesis root as a dependent root for the first two epochs (#5515)](https://github.com/ethereum/consensus-specs/commit/a314c7348893006cd6952f9056213bc73e942c9a) - 2026-08-05
+* [Pull Request] [Remove default fields from the Store](https://github.com/ethereum/consensus-specs/pull/5519) - 2026-08-06
+* [Commit] [Remove default fields from the Store (#5519)](https://github.com/ethereum/consensus-specs/commit/e07aeee69ccbc0ebe5da500f3ff188f2e5c9602d) - 2026-08-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

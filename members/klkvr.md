@@ -41,6 +41,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [refactor(`eth_createAccessList`): unify env preparation](https://github.com/paradigmxyz/reth/pull/26598) - 2026-08-05
 * [Review] [Review on: fix(rpc): restore optional receipt conversion](https://github.com/paradigmxyz/reth/pull/26596#pullrequestreview-4866239955) - 2026-08-05
 * [Commit] [refactor(`eth_createAccessList`): unify env preparation (#26598)](https://github.com/paradigmxyz/reth/commit/995c55a9d50acea58bd2933df5d4fa82c670acd1) - 2026-08-05
+* [Review] [Review on: feat(rpc): implement debug_traceChain subscription](https://github.com/paradigmxyz/reth/pull/26582#pullrequestreview-4878062249) - 2026-08-06
+* [Pull Request] [refactor: reuse evm for block-level tracing](https://github.com/paradigmxyz/reth/pull/26614) - 2026-08-06
+* [Pull Request] [refactor: reuse evm for block-level tracing](https://github.com/paradigmxyz/reth/pull/26613) - 2026-08-06
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

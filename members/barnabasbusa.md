@@ -34,6 +34,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: `v1.7.0-alpha.13` updates](https://github.com/ethpandaops/dora/pull/818#pullrequestreview-4863561627) - 2026-08-05
 * [Commit] [Merge pull request #812 from ethpandaops/dependabot/github_actions/actions-e0d84faf3a](https://github.com/ethpandaops/dora/commit/f8a8ce671b18865313b36667b5bd05ddf9b1e4d7) - 2026-08-05
 * [Commit] [Merge branch 'master' into dependabot/github_actions/actions-e0d84faf3a](https://github.com/ethpandaops/dora/commit/9417ed701ee89712ca09a9e4d1017af32afc2e91) - 2026-08-05
+* [Review] [Review on: feat(api): attester duties, committees, and bulk validator status endpoints](https://github.com/ethpandaops/dora/pull/823#pullrequestreview-4876415566) - 2026-08-06
+* [Review] [Review on: Add per-client bid seen tracking](https://github.com/ethpandaops/dora/pull/824#pullrequestreview-4876418093) - 2026-08-06
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
@@ -81,6 +83,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Expose the node's ENR in admin_nodeInfo (#12631)](https://github.com/NethermindEth/nethermind/commit/16d2e23ac398b52f4f2d2417f3ddc8e3b7d2f18c) - 2026-08-03
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [eth_syncing returns false during entire snap sync (block import + world state heal)](https://github.com/besu-eth/besu/issues/10961) - 2026-08-03
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Issue] [PeerDAS: validator custody applied ~60s after startup; node advertises earliestAvailableSlot it cannot serve, leading to peer-score bans](https://github.com/OffchainLabs/prysm/issues/17312) - 2026-08-06
 ## Q2 2026
 
 

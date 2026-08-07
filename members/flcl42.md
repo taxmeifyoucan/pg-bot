@@ -167,6 +167,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: test: pin eth/62-66 serializer wire encodings with hand-derived goldens](https://github.com/NethermindEth/nethermind/pull/12696#pullrequestreview-4863816293) - 2026-08-05
 * [Review] [Review on: Encode engine_newPayloadWithWitness witness as an RLP data string](https://github.com/NethermindEth/nethermind/pull/12635#pullrequestreview-4863737197) - 2026-08-05
 * [Commit] [Encode engine_newPayloadWithWitness witness as an RLP data string (#12635)](https://github.com/NethermindEth/nethermind/commit/d80c84c298b34387d46be34d3ee987660032cf71) - 2026-08-05
+* [Pull Request] [Align EEST validation mappings and fixture coverage](https://github.com/NethermindEth/nethermind/pull/12717) - 2026-08-06
+* [Review] [Review on: Align EEST validation mappings and fixture coverage](https://github.com/NethermindEth/nethermind/pull/12717#pullrequestreview-4876812263) - 2026-08-06
+* [Pull Request] [Glamsterdam devnet 8 specific commits](https://github.com/NethermindEth/nethermind/pull/12719) - 2026-08-06
+* [Review] [Review on: feat(eip-2780): fold EIP-7708 transfer log cost into TX_VALUE_COST](https://github.com/NethermindEth/nethermind/pull/12713#pullrequestreview-4873750888) - 2026-08-06
+* [Review] [Review on: fix(dns): verify EIP-1459 subtree hashes](https://github.com/NethermindEth/nethermind/pull/12707#pullrequestreview-4873217729) - 2026-08-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -193,6 +198,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 
 * [Pull Request] [Support Prague consensus fixtures and RPC gas target](https://github.com/ethereum/hive/pull/1585) - 2026-07-23
 * [Commit] [all: stabilize execution sync interoperability (#1584)](https://github.com/ethereum/hive/commit/b9de78925b254a03376f4f7cf74522e201eba011) - 2026-07-23
+* [Pull Request] [Preserve Nethermind genesis slot number](https://github.com/ethereum/hive/pull/1592) - 2026-08-06
+* [Pull Request] [Use Geth-style genesis for Nethermind](https://github.com/ethereum/hive/pull/1593) - 2026-08-06
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix(eth): isolate protocol traffic by connection](https://github.com/besu-eth/besu/pull/10841) - 2026-07-22
 * [Pull Request] [fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843) - 2026-07-22

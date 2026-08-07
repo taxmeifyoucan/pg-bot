@@ -27,6 +27,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Update EIP-8333: shorten dependent-root rationale](https://github.com/ethereum/EIPs/pull/12092#pullrequestreview-4857652496) - 2026-08-04
 * [Review] [Review on: Update EIP-8333: Clarify EIP-8333 boundary rationale](https://github.com/ethereum/EIPs/pull/12090#pullrequestreview-4857320250) - 2026-08-04
 * [Review] [Review on: Update EIP-8282: Move to Review](https://github.com/ethereum/EIPs/pull/12108#pullrequestreview-4864572266) - 2026-08-05
+* [Commit] [Update EIP-8081: Propose EIP-8333 for inclusion](https://github.com/ethereum/EIPs/commit/e18e618c4214bab35c755e7bbd00d7961816e251) - 2026-08-07
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
 
@@ -92,6 +93,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: get proposer from head state in prepareNextSlot](https://github.com/ChainSafe/lodestar/pull/9762#pullrequestreview-4864292629) - 2026-08-05
 * [Review] [Review on: chore: avoid epoch transition when validating gossip columns](https://github.com/ChainSafe/lodestar/pull/9772#pullrequestreview-4864255570) - 2026-08-05
 * [Issue] [Consider only handling post-fulu gossip](https://github.com/ChainSafe/lodestar/issues/9776) - 2026-08-05
+* [Review] [Review on: chore: trim verbose gossip-disparity doc comments](https://github.com/ChainSafe/lodestar/pull/9631#pullrequestreview-4877664197) - 2026-08-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 

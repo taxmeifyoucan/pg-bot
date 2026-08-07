@@ -114,6 +114,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Issue] [flaky test BftBlockRewardPaymentAcceptanceTest](https://github.com/besu-eth/besu/issues/10975) - 2026-08-05
 * [Commit] [disable flaky SnapSyncForkRecoveryAcceptanceTest (#10989)](https://github.com/besu-eth/besu/commit/517300ce390dd0843a54681ceb4160e2ba2641e4) - 2026-08-05
 * [Commit] [use timeout verify to mitigate flaky BackwardSyncAlgSpecTest (#10971)](https://github.com/besu-eth/besu/commit/7438d96c12f3206642084238a448186fc96ba186) - 2026-08-05
+* [Review] [Review on: Return 0x and empty structLogs for legacy transfers](https://github.com/besu-eth/besu/pull/10972#pullrequestreview-4878526054) - 2026-08-06
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

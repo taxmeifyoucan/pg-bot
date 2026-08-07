@@ -82,6 +82,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [scripts: add Frama-C ACSL gate for C modules](https://github.com/NethermindEth/bflat-riscv64/commit/f88fa449fa2f08b9527ed026bab3d89d67cd158e) - 2026-08-05
 * [Commit] [modules: annotate wrap/stub functions with ACSL contracts](https://github.com/NethermindEth/bflat-riscv64/commit/9e59188730403cdd14f0f4e9767384d552a172d7) - 2026-08-05
 * [Commit] [bflat.variant.props: bump net11 min runtime postfix to .x3](https://github.com/NethermindEth/bflat-riscv64/commit/cc1a95e03574be93841b89daa391248df2f1a8db) - 2026-08-05
+* [Pull Request] [Small improvements](https://github.com/NethermindEth/bflat-riscv64/pull/35) - 2026-08-06
+* [Commit] [BuildCommand: add --no-unaligned-access for RISC-V 64](https://github.com/NethermindEth/bflat-riscv64/commit/b255bce5845177b61d7309454ea5817e47b53fad) - 2026-08-06
+* [Commit] [zkvm_zisk: drop the snapshot restore feature](https://github.com/NethermindEth/bflat-riscv64/commit/22d64bc311307bfd7d348aad9002f0217c0b86f5) - 2026-08-06
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Minimal set of patches](https://github.com/NethermindEth/dotnet-riscv/pull/7) - 2026-07-26
 ## Q2 2026

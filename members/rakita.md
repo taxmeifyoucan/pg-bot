@@ -55,6 +55,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: Update EIP-2780: clarify 2780](https://github.com/ethereum/EIPs/pull/11891#pullrequestreview-4651846499) - 2026-07-08
 * [Pull Request] [Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/pull/12058) - 2026-07-31
 * [Review] [Review on: Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/pull/12058#pullrequestreview-4862273727) - 2026-08-05
+* [Review] [Review on: Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/pull/12058#pullrequestreview-4876169440) - 2026-08-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626374583) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626438301) - 2026-07-03

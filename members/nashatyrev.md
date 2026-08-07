@@ -27,6 +27,7 @@ Team: [consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%
 * [Issue] [Remove hardcoded 256-peer caps from GossipSub peer bookkeeping](https://github.com/libp2p/jvm-libp2p/issues/514) - 2026-08-05
 * [Commit] [Gossip backpressure: detect and handle slow peers under outbound backpressure (#513)](https://github.com/libp2p/jvm-libp2p/commit/d65d767f4ae60cd7e04f6873c1caf89eeb659a6c) - 2026-08-05
 * [Commit] [Gossip backpressure: Prioritize Gossip RPC parts and route IDONTWANT through backpressure queue (#512)](https://github.com/libp2p/jvm-libp2p/commit/761d06d4357e8ab714b72c3a7cce0ab748509198) - 2026-08-05
+* [Pull Request] [Refactor Gossip router peer state lifecycle](https://github.com/libp2p/jvm-libp2p/pull/515) - 2026-08-06
 ## Q2 2026
 
 

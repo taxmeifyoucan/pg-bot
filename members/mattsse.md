@@ -231,6 +231,14 @@ Team: Reth
 * [Commit] [fix(static-file): respect prune checkpoints in consistency check (#26565)](https://github.com/paradigmxyz/reth/commit/1b20c9bfc17ca1fc0563683e26a79b2f29c33c3a) - 2026-08-05
 * [Commit] [fix(rpc): restore optional receipt conversion (#26596)](https://github.com/paradigmxyz/reth/commit/a4e6baa9d2de15c54b2afbfb754d172a5e05fd67) - 2026-08-05
 * [Commit] [revert(provider): return header with transaction metadata (#26595)](https://github.com/paradigmxyz/reth/commit/47ac8d02d9cadc1db62eeda639c28b3e86ad9378) - 2026-08-05
+* [Review] [Review on: fix(engine): validate forkchoice markers before updating](https://github.com/paradigmxyz/reth/pull/26610#pullrequestreview-4874677583) - 2026-08-06
+* [Review] [Review on: fix(cli): download enough history when the final snapshot chunk is partial](https://github.com/paradigmxyz/reth/pull/26607#pullrequestreview-4876987908) - 2026-08-06
+* [Review] [Review on: refactor: reuse evm for block-level tracing](https://github.com/paradigmxyz/reth/pull/26614#pullrequestreview-4875615191) - 2026-08-06
+* [Review] [Review on: chore(rpc): bump default eth proof window to 100k blocks](https://github.com/paradigmxyz/reth/pull/26615#pullrequestreview-4876711501) - 2026-08-06
+* [Review] [Review on: fix(trie): support partial persistence in changeset cache](https://github.com/paradigmxyz/reth/pull/26612#pullrequestreview-4874636789) - 2026-08-06
+* [Review] [Review on: refactor(storage): move OverlayStateProvider and let it use a Provider ref](https://github.com/paradigmxyz/reth/pull/26611#pullrequestreview-4874640920) - 2026-08-06
+* [Review] [Review on: chore(hive): add execute-blob tests in the hive workflow](https://github.com/paradigmxyz/reth/pull/26606#pullrequestreview-4874394635) - 2026-08-06
+* [Commit] [fix(dns): skip unrelated TXT records (#26603)](https://github.com/paradigmxyz/reth/commit/9253c0f8bc62469e17abb9b5b122f6fc4ae27ad2) - 2026-08-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

@@ -29,6 +29,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Pull Request] [Add IndexedAttestationGloas and AttesterSlashingGloas](https://github.com/OffchainLabs/prysm/pull/17305) - 2026-08-05
 * [Pull Request] [Add proto/prysm/wrappers for proto-typed HTR helpers](https://github.com/OffchainLabs/prysm/pull/17304) - 2026-08-05
 * [Pull Request] [Mark state fields dirty on early return](https://github.com/OffchainLabs/prysm/pull/17303) - 2026-08-05
+* [Review] [Review on: Add IndexedAttestationGloas and AttesterSlashingGloas](https://github.com/OffchainLabs/prysm/pull/17305#pullrequestreview-4877128783) - 2026-08-06
+* [Commit] [Add IndexedAttestationGloas and AttesterSlashingGloas (#17305)](https://github.com/OffchainLabs/prysm/commit/d9d75d90a1bf3eebc5008a71785d481306aaefab) - 2026-08-06
+* [Commit] [Add proto/prysm/wrappers for proto-typed HTR helpers (#17304)](https://github.com/OffchainLabs/prysm/commit/a430cfa0230aa8dfe43a3af86049a23260817611) - 2026-08-06
+* [Commit] [Mark state fields dirty on early return (#17303)](https://github.com/OffchainLabs/prysm/commit/ca6e19e0e8b40965be23a5061cbe22772a43a9c4) - 2026-08-06
 ## Q2 2026
 
 

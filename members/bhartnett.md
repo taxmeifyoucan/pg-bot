@@ -64,6 +64,9 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Sender recovery caching](https://github.com/status-im/nimbus-eth1/pull/4607) - 2026-08-05
 * [Pull Request] [Add eest benchmark tests](https://github.com/status-im/nimbus-eth1/pull/4604) - 2026-08-05
 * [Commit] [Add eest benchmark tests (#4604)](https://github.com/status-im/nimbus-eth1/commit/772881056d7d4cde1e0a6ccb934c2d8b7a157c0e) - 2026-08-05
+* [Pull Request] [Optimize EVM balance opcode](https://github.com/status-im/nimbus-eth1/pull/4612) - 2026-08-06
+* [Commit] [Optimize EVM balance opcode (#4612)](https://github.com/status-im/nimbus-eth1/commit/70c2f00e2c2c820a21d940e658afde59afd72894) - 2026-08-06
+* [Commit] [Sender recovery caching (#4607)](https://github.com/status-im/nimbus-eth1/commit/0cc96908ca81d265622ec9e7055cf228eb5d949c) - 2026-08-06
 ## Q2 2026
 
 

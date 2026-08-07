@@ -117,6 +117,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(test-logging,test-consume): add ms-precision lifecycle logging to consume enginex](https://github.com/ethereum/execution-specs/pull/3306) - 2026-08-05
 * [Commit] [chore(tooling): add runner-selection guidance to the edit-workflow skill (#3313)](https://github.com/ethereum/execution-specs/commit/987b865311b1efe9d781f08c6ef4f7adebb4f305) - 2026-08-05
 * [Commit] [perf(ci): run the PR docker-image cache gate on a GitHub-hosted runner (#3185)](https://github.com/ethereum/execution-specs/commit/bad053c5e6cfc66258cab5047485e184a1b9cf56) - 2026-08-05
+* [Review] [Review on: feat(test-tests): add engine payload attribute and genesis parity tests](https://github.com/ethereum/execution-specs/pull/3309#pullrequestreview-4874762768) - 2026-08-06
+* [Review] [Review on: fix(spec-tools,testing): move evm_tools into the testing package](https://github.com/ethereum/execution-specs/pull/3307#pullrequestreview-4870948017) - 2026-08-06
+* [Issue] [chore(testing): delete or revive test_count_opcodes.py (never runnable since introduction)](https://github.com/ethereum/execution-specs/issues/3326) - 2026-08-06
+* [Commit] [fix(test-execute): register per-test hive test cases with the shared client (#3317)](https://github.com/ethereum/execution-specs/commit/b802df1fccd94e9c7054d61ea925503dddf7c855) - 2026-08-06
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -131,6 +135,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [hiveview: exclude multi-test client contexts from listing counts](https://github.com/ethereum/hive/pull/1576) - 2026-07-15
 * [Review] [Review on: simulators/eels: optionally consume pre-staged local fixtures](https://github.com/ethereum/hive/pull/1566#pullrequestreview-4704683217) - 2026-07-15
 * [Commit] [hiveview: exclude multi-test client contexts from listing counts (#1576)](https://github.com/ethereum/hive/commit/b512a9aafbe5b0e8e439e16d771ad30dfdba6f34) - 2026-07-16
+* [Review] [Review on: hiveproxy: use GOPROXY "|" separator to fall back to direct on any proxy error](https://github.com/ethereum/hive/pull/1591#pullrequestreview-4874335262) - 2026-08-06
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09

@@ -162,6 +162,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [Stop parallel transaction execution once BAL validation rejects the block](https://github.com/NethermindEth/nethermind/pull/12697) - 2026-08-05
 * [Commit] [Stop parallel transaction execution once BAL validation rejects the block (#12697)](https://github.com/NethermindEth/nethermind/commit/26c2c0bcfdc2bfa40e3a734a548560694bec948b) - 2026-08-05
 * [Commit] [perf(state): skip trie warmup for read-only BAL accounts in flat layout (#12681)](https://github.com/NethermindEth/nethermind/commit/3181e53cc96dd2e8c31968c9aed5715825b853fa) - 2026-08-05
+* [Review] [Review on: Apply final EIP-8038 state-access repricing](https://github.com/NethermindEth/nethermind/pull/12633#pullrequestreview-4876146161) - 2026-08-06
+* [Review] [Review on: fix(dns): verify EIP-1459 subtree hashes](https://github.com/NethermindEth/nethermind/pull/12707#pullrequestreview-4872592890) - 2026-08-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

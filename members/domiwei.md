@@ -64,6 +64,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/pool: prune finalized operations asynchronously (#22884)](https://github.com/erigontech/erigon/commit/ebf3e0bc1ef8adca36c83ce315a7b5af692058ae) - 2026-08-04
 * [Review] [Review on: cl/ssz, common/ssz, engineapi: add recursive SSZ offset and length validation](https://github.com/erigontech/erigon/pull/22988#pullrequestreview-4861701018) - 2026-08-05
 * [Commit] [cl: support Gloas alpha.12 progressive SSZ and spectests (#22912)](https://github.com/erigontech/erigon/commit/22ec7a495ee5be6a3e9092017b172fa3aeb13752) - 2026-08-05
+* [Review] [Review on: cl, db: caplin snapshot pre-fixes and CaplinSnapshots on BaseRoSnapshots](https://github.com/erigontech/erigon/pull/22944#pullrequestreview-4871731354) - 2026-08-06
 ## Q2 2026
 
 

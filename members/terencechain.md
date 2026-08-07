@@ -166,6 +166,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Add proto/prysm/wrappers for proto-typed HTR helpers](https://github.com/OffchainLabs/prysm/pull/17304#pullrequestreview-4869094809) - 2026-08-05
 * [Review] [Review on: Mark state fields dirty on early return](https://github.com/OffchainLabs/prysm/pull/17303#pullrequestreview-4868947624) - 2026-08-05
 * [Review] [Review on: Gloas builder circuit breaker: single builder tracking](https://github.com/OffchainLabs/prysm/pull/17294#pullrequestreview-4865409010) - 2026-08-05
+* [Review] [Review on: Parallelize per-element hash tree roots for large SSZ lists](https://github.com/OffchainLabs/prysm/pull/17317#pullrequestreview-4879092586) - 2026-08-07
+* [Review] [Review on: spectest alpha 12 compliance (spec pin bump and assorted fix commits)](https://github.com/OffchainLabs/prysm/pull/17310#pullrequestreview-4877582942) - 2026-08-06
+* [Review] [Review on: Move Gloas spec tests into their own packages](https://github.com/OffchainLabs/prysm/pull/17309#pullrequestreview-4877499821) - 2026-08-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

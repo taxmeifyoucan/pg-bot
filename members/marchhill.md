@@ -85,6 +85,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [EIP-8141: align SIGPARAM copy operand order with CALLDATACOPY](https://github.com/NethermindEth/nethermind/pull/12700) - 2026-08-05
 * [Pull Request] [EIP-8141: statically reject approval scope on atomic-batch frames](https://github.com/NethermindEth/nethermind/pull/12703) - 2026-08-05
 * [Review] [Review on: fix(evm): execute a VERIFY frame as a truly static call](https://github.com/NethermindEth/nethermind/pull/12660#pullrequestreview-4864612003) - 2026-08-05
+* [Review] [Review on: EIP-8141: validation-prefix simulation admission for frame transactions (MAX_VERIFY_GAS bound)](https://github.com/NethermindEth/nethermind/pull/12620#pullrequestreview-4878909062) - 2026-08-07
+* [Review] [Review on: EIP-8141: blob-pool routing, sidecar, and production budget for blob-carrying frame transactions](https://github.com/NethermindEth/nethermind/pull/12709#pullrequestreview-4878166940) - 2026-08-06
+* [Review] [Review on: EIP-8141: statically reject approval scope on atomic-batch frames](https://github.com/NethermindEth/nethermind/pull/12703#pullrequestreview-4878007204) - 2026-08-06
+* [Review] [Review on: EIP-8141: align SIGPARAM copy operand order with CALLDATACOPY](https://github.com/NethermindEth/nethermind/pull/12700#pullrequestreview-4877985885) - 2026-08-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

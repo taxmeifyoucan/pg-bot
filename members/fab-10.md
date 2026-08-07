@@ -83,6 +83,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: ForkchoiceUpdate: verify world state is available for the newHead otherwise return syncing](https://github.com/besu-eth/besu/pull/10960#pullrequestreview-4865280895) - 2026-08-05
 * [Review] [Review on: Refactor engine_getPayloadBodiesBy*  into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/10968#pullrequestreview-4864193558) - 2026-08-05
 * [Commit] [ForkchoiceUpdate: verify world state is available for the newHead otherwise return syncing (#10960)](https://github.com/besu-eth/besu/commit/7052d2bfeaa8e0cd488e86fcde352bc624a13a2e) - 2026-08-05
+* [Review] [Review on: Restore structured health-check details in plugin readiness responses](https://github.com/besu-eth/besu/pull/10834#pullrequestreview-4872641575) - 2026-08-06
+* [Pull Request] [Revise COLD_STORAGE_ACCESS and ACCOUNT_WRITE values](https://github.com/besu-eth/besu/pull/10993) - 2026-08-06
+* [Review] [Review on: build: align Kotlin runtime dependencies to 2.4](https://github.com/besu-eth/besu/pull/10983#pullrequestreview-4873043620) - 2026-08-06
+* [Review] [Review on: Extract plugin-api storage module](https://github.com/besu-eth/besu/pull/10984#pullrequestreview-4872473217) - 2026-08-06
 ## Q2 2026
 
 

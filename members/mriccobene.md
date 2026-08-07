@@ -40,6 +40,8 @@ Team: Erigon
 * [Pull Request] [qa-tests: add snapshot retirement test for full node](https://github.com/erigontech/erigon/pull/23040) - 2026-08-05
 * [Pull Request] [qa-tests: add snapshot retirement test for the Gnosis chain](https://github.com/erigontech/erigon/pull/23035) - 2026-08-05
 * [Issue] [No Caplin peers on Chiado](https://github.com/erigontech/erigon/issues/23021) - 2026-08-05
+* [Commit] [qa-tests: add snapshot retirement test for the Gnosis chain (#23035)](https://github.com/erigontech/erigon/commit/64038a7188d0435aa540237b64b406d6ce6f0a96) - 2026-08-06
+* [Commit] [qa-tests: add snapshot retirement test for full node (#23040)](https://github.com/erigontech/erigon/commit/b87a9a0474334318ad5f73d34ab3b23d24cc838d) - 2026-08-06
 ## Q2 2026
 
 

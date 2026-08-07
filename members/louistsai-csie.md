@@ -84,6 +84,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(test-benchmark): add deployment script](https://github.com/ethereum/execution-specs/pull/3304#pullrequestreview-4862827575) - 2026-08-05
 * [Review] [Review on: feat(spec-specs,tests): apply revised EIP-8038 gas values](https://github.com/ethereum/execution-specs/pull/3293#pullrequestreview-4862760552) - 2026-08-05
 * [Commit] [feat(tests): enhance test coverage, add mainnet test for eip-2780 (#3266)](https://github.com/ethereum/execution-specs/commit/4b4415c952b6ac1e341bcc46b0441327675a2f6e) - 2026-08-05
+* [Review] [Review on: fix(tests): accept gas allowance error at EIP-7778 admission gate](https://github.com/ethereum/execution-specs/pull/3330#pullrequestreview-4875756796) - 2026-08-06
+* [Review] [Review on: feat(tests): add EIP-2780 coverage gap tests](https://github.com/ethereum/execution-specs/pull/3318#pullrequestreview-4873264645) - 2026-08-06
+* [Pull Request] [refactor(test-rpc): unify batch request chunking](https://github.com/ethereum/execution-specs/pull/3327) - 2026-08-06
+* [Review] [Review on: feat(test-rpc): add eth_getTransactionReceipt batching [backport benchmarks/amsterdam]](https://github.com/ethereum/execution-specs/pull/3323#pullrequestreview-4872476351) - 2026-08-06
+* [Issue] [Issue tracker for full benchmark test suite](https://github.com/ethereum/execution-specs/issues/3329) - 2026-08-06
 ## Q2 2026
 
 

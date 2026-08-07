@@ -32,6 +32,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Pull Request] [feat(server): promotion service — interesting-states corpus](https://github.com/ethpandaops/tracoor/pull/65) - 2026-08-04
+
+[OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+* [Pull Request] [Backport #17222 to glamsterdam-devnet-7: fix PTC blob_data_available to use data column availability](https://github.com/OffchainLabs/prysm/pull/17316) - 2026-08-06
 ## Q2 2026
 
 

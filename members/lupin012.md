@@ -107,6 +107,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [node: replace libdeflate with klauspost/compress for RPC HTTP gzip; one-shot responses now BestSpeed (#22882)](https://github.com/erigontech/erigon/commit/e98ad39382a6e28150b5461d3348d322a038115c) - 2026-08-03
 * [Commit] [db, rpc: tests to verify receipt domain reads go through the block overlay (#22961)](https://github.com/erigontech/erigon/commit/305767a89720b3192c50370b46976f33c036407d) - 2026-08-03
 * [Pull Request] [db/state: don't clear domain RAM under a published SharedDomains](https://github.com/erigontech/erigon/pull/23046) - 2026-08-05
+* [Review] [Review on: db/state: don't clear domain RAM under a published SharedDomains](https://github.com/erigontech/erigon/pull/23046#pullrequestreview-4878070145) - 2026-08-06
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

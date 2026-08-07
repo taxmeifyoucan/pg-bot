@@ -164,6 +164,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: feat: add built-in portfolio viewer UI at /portfolio](https://github.com/NethermindEth/nethermind/pull/12360#pullrequestreview-4863203520) - 2026-08-05
 * [Commit] [test: pin eth/62-66 serializer wire encodings with hand-derived goldens (#12696)](https://github.com/NethermindEth/nethermind/commit/ffbb46fdd57baff325bcf8061f8e26a7088cbfbf) - 2026-08-05
 * [Commit] [test: make can-never-fail tests assert what their names claim (#12690)](https://github.com/NethermindEth/nethermind/commit/b4135b6125b8d1c3120b67db0429061d0260ffdb) - 2026-08-05
+* [Review] [Review on: perf(rpc): cut eth_call overhead in memory, code stream, and tx parse](https://github.com/NethermindEth/nethermind/pull/12716#pullrequestreview-4874745974) - 2026-08-06
+* [Pull Request] [test: anchor crypto and RLP tests to independent expectations](https://github.com/NethermindEth/nethermind/pull/12712) - 2026-08-06
+* [Pull Request] [test: strengthen mock-echo and vacuous tests in Abi, Optimism and Xdc test projects](https://github.com/NethermindEth/nethermind/pull/12720) - 2026-08-06
+* [Pull Request] [test(era): anchor accumulator tests to EIP-7643 vectors, remove unused GetProof](https://github.com/NethermindEth/nethermind/pull/12718) - 2026-08-06
+* [Review] [Review on: test(era): anchor accumulator tests to EIP-7643 vectors, remove unused GetProof](https://github.com/NethermindEth/nethermind/pull/12718#pullrequestreview-4876034914) - 2026-08-06
+* [Review] [Review on: Selectable dotTrace profiling mode + dotnet-trace EventPipe sidecar for benchmark workflows](https://github.com/NethermindEth/nethermind/pull/12708#pullrequestreview-4874751785) - 2026-08-06
+* [Review] [Review on: fix(dns): verify EIP-1459 subtree hashes](https://github.com/NethermindEth/nethermind/pull/12707#pullrequestreview-4874571129) - 2026-08-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
