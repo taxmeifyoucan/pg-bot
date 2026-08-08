@@ -56,6 +56,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/pull/12058) - 2026-07-31
 * [Review] [Review on: Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/pull/12058#pullrequestreview-4862273727) - 2026-08-05
 * [Review] [Review on: Add EIP: Net Gas Metering for Account Changes](https://github.com/ethereum/EIPs/pull/12058#pullrequestreview-4876169440) - 2026-08-06
+* [Pull Request] [Add EIP: Persist Warm Access Sets Across Reverts](https://github.com/ethereum/EIPs/pull/12128) - 2026-08-07
+* [Review] [Review on: Add EIP: Persist Warm Access Sets Across Reverts](https://github.com/ethereum/EIPs/pull/12128#pullrequestreview-4881912795) - 2026-08-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626374583) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626438301) - 2026-07-03

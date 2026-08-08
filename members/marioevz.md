@@ -94,6 +94,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(test-types): Fork-based State Commitment Property in Alloc (#3279)](https://github.com/ethereum/execution-specs/commit/f8733cda915237d6f38ef3ec9e3027afc33c2663) - 2026-08-04
 * [Commit] [fix(test-execute): fix execute for Amsterdam (#3300)](https://github.com/ethereum/execution-specs/commit/ee7a6779017e2dfce53766795327209ff222ae14) - 2026-08-05
 * [Review] [Review on: chore(tooling): add test-docstring guidance to the write-test skill](https://github.com/ethereum/execution-specs/pull/3328#pullrequestreview-4876878278) - 2026-08-06
+* [Review] [Review on: fix(tests): enhance & un-skip Amsterdam ported static depth-recursion tests (Pt. 2a)](https://github.com/ethereum/execution-specs/pull/3264#pullrequestreview-4887393215) - 2026-08-08
+* [Pull Request] [feat(test-specs): Allow specs to fill same fixture format more than once, add `inclusion_test` marker](https://github.com/ethereum/execution-specs/pull/3337) - 2026-08-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

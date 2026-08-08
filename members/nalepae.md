@@ -74,6 +74,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Commit] [Implement the active-active mode in the REST validator client. (#17075)](https://github.com/OffchainLabs/prysm/commit/66420801ece4ef2b0273ba32aee41726351cf633) - 2026-08-05
 * [Review] [Review on: adding doppelganger rechecks mid epoch for key changes](https://github.com/OffchainLabs/prysm/pull/17285#pullrequestreview-4874046518) - 2026-08-06
 * [Pull Request] [Add the hidden `--constantine` flag that uses the Constantine library instead of the c-kzg for KZG operations.](https://github.com/OffchainLabs/prysm/pull/17313) - 2026-08-06
+* [Review] [Review on: Move Gloas spec tests into their own packages](https://github.com/OffchainLabs/prysm/pull/17309#pullrequestreview-4881199588) - 2026-08-07
+* [Review] [Review on: REST VC: Make the SSZ publish path spec-conformant - fall back to JSON on 415](https://github.com/OffchainLabs/prysm/pull/17311#pullrequestreview-4881084003) - 2026-08-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 ## Q2 2026

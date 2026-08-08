@@ -382,6 +382,14 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/ssz, common/ssz, engineapi: add recursive SSZ offset and length validation (#22988)](https://github.com/erigontech/erigon/commit/8d0108c9feb67dd7216df68605e12379fd0b6815) - 2026-08-05
 * [Commit] [go.mod: revert go-eth-kzg verifier optimization (#23029)](https://github.com/erigontech/erigon/commit/f9a7795d9b09174c5994e731f67e3b2b522063fa) - 2026-08-05
 * [Commit] [execution, db: bind StateCache fills to transaction views and reject stale fills (#22444)](https://github.com/erigontech/erigon/commit/0d6bcab904860984ce6d0df27ecb1937c431a186) - 2026-08-05
+* [Pull Request] [execution, db: bind cache views to database and file generations](https://github.com/erigontech/erigon/pull/23095) - 2026-08-07
+* [Review] [Review on: execution, db: bind cache views to database and file generations](https://github.com/erigontech/erigon/pull/23095#pullrequestreview-4883678558) - 2026-08-07
+* [Review] [Review on: node/shards, db/downloader, execution/stagedsync: snapshot download progress in eth_syncing](https://github.com/erigontech/erigon/pull/22716#pullrequestreview-4882375878) - 2026-08-07
+* [Review] [Review on: [r3.6] execution/stagedsync: hand the trace sets to the apply result instead of copying](https://github.com/erigontech/erigon/pull/23093#pullrequestreview-4882513185) - 2026-08-07
+* [Review] [Review on: execution/stagedsync: hand the trace sets to the apply result instead of copying](https://github.com/erigontech/erigon/pull/23092#pullrequestreview-4882468073) - 2026-08-07
+* [Review] [Review on: execution/state: make log Reset cost the transaction, not the block](https://github.com/erigontech/erigon/pull/23007#pullrequestreview-4881174596) - 2026-08-07
+* [Issue] [execution/execmodule: stop evicted builders with extended deadlines](https://github.com/erigontech/erigon/issues/23101) - 2026-08-07
+* [Issue] [Investigate how much RPC↔exec state sharing to keep: STATE_CACHE_FILLS default, RPC cache reads, and the SharedDomains overlay](https://github.com/erigontech/erigon/issues/23082) - 2026-08-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

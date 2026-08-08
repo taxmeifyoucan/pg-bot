@@ -35,6 +35,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Revert Browser Support for New BLST](https://github.com/ChainSafe/lodestar/issues/9774) - 2026-08-05
 * [Issue] [Implement pre-generated keys for testing](https://github.com/ChainSafe/lodestar/issues/9775) - 2026-08-05
 * [Review] [Review on: fix: do not produce blocks on top of an optimistic head](https://github.com/ChainSafe/lodestar/pull/9779#pullrequestreview-4874637800) - 2026-08-06
+* [Review] [Review on: feat: produce proposer slashings from observed equivocations](https://github.com/ChainSafe/lodestar/pull/9787#pullrequestreview-4884030448) - 2026-08-07
+* [Pull Request] [chore: release v1.46.0](https://github.com/ChainSafe/lodestar/pull/9788) - 2026-08-07
+* [Pull Request] [chore: bump libp2p-quic](https://github.com/ChainSafe/lodestar/pull/9784) - 2026-08-07
+* [Commit] [chore: bump libp2p-quic (#9784)](https://github.com/ChainSafe/lodestar/commit/8c06abb8771f3a87a3f59b0ba23690489c7c0196) - 2026-08-07
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

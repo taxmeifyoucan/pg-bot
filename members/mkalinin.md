@@ -32,6 +32,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 
 * [Review] [Review on: Add missing timeout constraints to newPayload](https://github.com/ethereum/execution-apis/pull/849#pullrequestreview-4719807094) - 2026-07-17
 * [Review] [Review on: engine: specify bit ordering for the 16-byte custody and cell bitarrays](https://github.com/ethereum/execution-apis/pull/856#pullrequestreview-4851297763) - 2026-08-04
+* [Review] [Review on: fix: add -32602 error code to engine_getPayloadBodiesByRangeV1 and V2](https://github.com/ethereum/execution-apis/pull/861#pullrequestreview-4880056355) - 2026-08-07
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Fast Confirmation Rule (FCR) #11, July 21, 2026](https://github.com/ethereum/pm/issues/2149) - 2026-07-07
 

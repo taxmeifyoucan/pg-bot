@@ -129,6 +129,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: REST VC: Add a cache for SSZ support](https://github.com/OffchainLabs/prysm/pull/17256#pullrequestreview-4865127547) - 2026-08-05
 * [Review] [Review on: Add IndexedAttestationGloas and AttesterSlashingGloas](https://github.com/OffchainLabs/prysm/pull/17305#pullrequestreview-4878230697) - 2026-08-06
 * [Review] [Review on: adding doppelganger rechecks mid epoch for key changes](https://github.com/OffchainLabs/prysm/pull/17285#pullrequestreview-4877723197) - 2026-08-06
+* [Review] [Review on: Add `GET`/`POST`/`DELETE /eth/v1/validator/{pubkey}/builders` keymanager endpoints](https://github.com/OffchainLabs/prysm/pull/17261#pullrequestreview-4884582873) - 2026-08-07
+* [Commit] [ delay next epoch duties call for post gloas  (#17268)](https://github.com/OffchainLabs/prysm/commit/55c51bb4a1cd7321724cb08c8e232dabdea35e43) - 2026-08-07
 ## Q2 2026
 
 

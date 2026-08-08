@@ -93,6 +93,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Check the transaction codec against every fixture encoding (#1617)](https://github.com/ipsilon/evmone/commit/d8508b9fa9cb7face54e2af24063d95a020879f4) - 2026-07-27
 * [Commit] [state: Recognize chain-id protected legacy transaction (#1616)](https://github.com/ipsilon/evmone/commit/aa825630b9c46e9f17a8aaa7bba430c361922cdd) - 2026-07-27
 * [Commit] [test: Take the state test transaction from its encoding (#1614)](https://github.com/ipsilon/evmone/commit/fd14fd81bde7b78c43b69f6908f338424f713c6a) - 2026-07-27
+* [Pull Request] [Build the precompiles with -O1 in Debug configurations](https://github.com/ipsilon/evmone/pull/1619) - 2026-08-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

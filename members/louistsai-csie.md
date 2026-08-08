@@ -89,6 +89,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [refactor(test-rpc): unify batch request chunking](https://github.com/ethereum/execution-specs/pull/3327) - 2026-08-06
 * [Review] [Review on: feat(test-rpc): add eth_getTransactionReceipt batching [backport benchmarks/amsterdam]](https://github.com/ethereum/execution-specs/pull/3323#pullrequestreview-4872476351) - 2026-08-06
 * [Issue] [Issue tracker for full benchmark test suite](https://github.com/ethereum/execution-specs/issues/3329) - 2026-08-06
+* [Review] [Review on: perf(test-forks): memoize per-fork gas costs](https://github.com/ethereum/execution-specs/pull/3303#pullrequestreview-4881507276) - 2026-08-07
+* [Commit] [refactor(test-rpc): unify batch request chunking (#3327)](https://github.com/ethereum/execution-specs/commit/4f17c37ad75b4224c4a0e80f665b65d02d4ccc9a) - 2026-08-07
 ## Q2 2026
 
 

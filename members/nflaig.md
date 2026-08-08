@@ -230,6 +230,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: do not produce blocks on top of an optimistic head](https://github.com/ChainSafe/lodestar/pull/9779) - 2026-08-06
 * [Pull Request] [chore: address builder circuit breaker review follow-ups](https://github.com/ChainSafe/lodestar/pull/9780) - 2026-08-06
 * [Commit] [fix: do not produce blocks on top of an optimistic head (#9779)](https://github.com/ChainSafe/lodestar/commit/b9d4e89e490cf66c9b29bac025c7855371c130d8) - 2026-08-06
+* [Pull Request] [fix: bound network worker termination to prevent shutdown hang](https://github.com/ChainSafe/lodestar/pull/9790) - 2026-08-07
+* [Pull Request] [chore: add debug log when proposer slashing production is skipped](https://github.com/ChainSafe/lodestar/pull/9789) - 2026-08-07
+* [Pull Request] [feat: produce proposer slashings from observed equivocations](https://github.com/ChainSafe/lodestar/pull/9787) - 2026-08-07
+* [Review] [Review on: feat: produce proposer slashings from observed equivocations](https://github.com/ChainSafe/lodestar/pull/9787#pullrequestreview-4883761331) - 2026-08-07
+* [Review] [Review on: feat: report parent_block_hash for safe/finalized post-Gloas](https://github.com/ChainSafe/lodestar/pull/9393#pullrequestreview-4882972792) - 2026-08-07
+* [Review] [Review on: feat: cache builder deposit signatures for gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9727#pullrequestreview-4883112729) - 2026-08-07
+* [Review] [Review on: refactor: validate light_client_updates_by_range handler](https://github.com/ChainSafe/lodestar/pull/9745#pullrequestreview-4882845272) - 2026-08-07
+* [Review] [Review on: chore(deps): bump js-yaml from 4.3.0 to 4.3.1](https://github.com/ChainSafe/lodestar/pull/9786#pullrequestreview-4882582851) - 2026-08-07
+* [Commit] [chore: add debug log when proposer slashing production is skipped (#9789)](https://github.com/ChainSafe/lodestar/commit/47415586e0ab22f94dcc58623682084868389001) - 2026-08-07
+* [Commit] [feat: produce proposer slashings from observed equivocations (#9787)](https://github.com/ChainSafe/lodestar/commit/f0f5d069e2bd0d2f349c835dfbca4f7d512ca4a0) - 2026-08-07
+* [Commit] [feat: implement consensus_and_equivocation for blocks and payload envelopes (#9757)](https://github.com/ChainSafe/lodestar/commit/44e482c861dbef0d758f1ce02a73f87518214ec2) - 2026-08-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -294,6 +305,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(deps): update zapi to 3.1.0](https://github.com/ChainSafe/lodestar-z/pull/483#pullrequestreview-4672414355) - 2026-07-10
 * [Commit] [feat: publish ARM64 musl bindings (#482)](https://github.com/ChainSafe/lodestar-z/commit/ac764c92c9fcb326e64c518c21880655f3efc8d9) - 2026-07-10
 * [Commit] [feat(bindings): configurable pubkey cache growth step (#481)](https://github.com/ChainSafe/lodestar-z/commit/133ef248a5e6dec11dac8f3dfd6879920e217834) - 2026-07-10
+* [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/544#pullrequestreview-4885090893) - 2026-08-07
 ## Q2 2026
 
 

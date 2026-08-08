@@ -83,6 +83,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Add EIP: Tapered Issuance Burn](https://github.com/ethereum/EIPs/pull/12081#pullrequestreview-4874941685) - 2026-08-06
 * [Review] [Review on: Add EIP: RowDAS - Distributed Blob Reconstruction](https://github.com/ethereum/EIPs/pull/12118#pullrequestreview-4874381825) - 2026-08-06
 * [Review] [Review on: Add EIP: CPSB Recalibration for New Gas Limit](https://github.com/ethereum/EIPs/pull/12107#pullrequestreview-4874364728) - 2026-08-06
+* [Review] [Review on: Update EIP-1: allow links to sys-asm](https://github.com/ethereum/EIPs/pull/12021#pullrequestreview-4886118608) - 2026-08-07
+* [Review] [Review on: Update EIP-3298: Fix broken GasToken link](https://github.com/ethereum/EIPs/pull/11538#pullrequestreview-4881723282) - 2026-08-07
+* [Review] [Review on: Add EIP: Normalized state gas limit](https://github.com/ethereum/EIPs/pull/12119#pullrequestreview-4881468106) - 2026-08-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -116,6 +119,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: feat(test-benchmark): add deployment script](https://github.com/ethereum/execution-specs/pull/3304#pullrequestreview-4862279445) - 2026-08-05
 * [Pull Request] [perf(test-forks): memoize per-fork gas costs](https://github.com/ethereum/execution-specs/pull/3303) - 2026-08-05
 * [Commit] [feat(tests): add eth_getTransactionReceipt batching (#3298)](https://github.com/ethereum/execution-specs/commit/07424a89ba0453709576830f6be33442ed8d102d) - 2026-08-05
+* [Review] [Review on: perf(test-forks): memoize per-fork gas costs](https://github.com/ethereum/execution-specs/pull/3303#pullrequestreview-4881832650) - 2026-08-07
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 

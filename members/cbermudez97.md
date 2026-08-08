@@ -26,6 +26,7 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Review] [Review on: chore(ci): monitor sync runners via Grafana Alloy](https://github.com/NethermindEth/nethermind/pull/12510#pullrequestreview-4745009371) - 2026-07-21
 * [Commit] [chore(ci): monitor sync runners via Grafana Alloy (#12510)](https://github.com/NethermindEth/nethermind/commit/bffdd08c11ecd13b1dc9d8452d0aa30a2a590135) - 2026-07-21
 * [Pull Request] [feat(metrics): durable sync-time and full-pruning duration metrics](https://github.com/NethermindEth/nethermind/pull/12590) - 2026-07-28
+* [Commit] [feat(metrics): durable sync-time and full-pruning duration metrics (#12590)](https://github.com/NethermindEth/nethermind/commit/999ec05107c2600090ad97b23da83e53afcef72c) - 2026-08-07
 ## Q2 2026
 
 

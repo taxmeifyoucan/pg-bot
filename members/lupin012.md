@@ -108,6 +108,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [db, rpc: tests to verify receipt domain reads go through the block overlay (#22961)](https://github.com/erigontech/erigon/commit/305767a89720b3192c50370b46976f33c036407d) - 2026-08-03
 * [Pull Request] [db/state: don't clear domain RAM under a published SharedDomains](https://github.com/erigontech/erigon/pull/23046) - 2026-08-05
 * [Review] [Review on: db/state: don't clear domain RAM under a published SharedDomains](https://github.com/erigontech/erigon/pull/23046#pullrequestreview-4878070145) - 2026-08-06
+* [Pull Request] [rpc embedded: add https flags to embedded rpc](https://github.com/erigontech/erigon/pull/23108) - 2026-08-07
+* [Pull Request] [QA: fix test race in case latest tests](https://github.com/erigontech/erigon/pull/22965) - 2026-08-07
+* [Commit] [QA: fix test race in case latest tests (#22965)](https://github.com/erigontech/erigon/commit/857eca25c2698430c2fc411a74494a7a9f374c57) - 2026-08-07
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -117,6 +120,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration-test: add tests for testing_commitBlockV1](https://github.com/erigontech/rpc-tests/pull/585) - 2026-07-11
 * [Commit] [integration-test: add tests for testing_commitBlockV1 (#585)](https://github.com/erigontech/rpc-tests/commit/214c13799371e832a90d92781f83b0fe2d143d68) - 2026-07-12
 * [Pull Request] [Fix flaky latest tests: concurrent dispatch and head classification](https://github.com/erigontech/rpc-tests/pull/586) - 2026-08-03
+* [Commit] [Fix flaky latest tests: concurrent dispatch and head classification (#586)](https://github.com/erigontech/rpc-tests/commit/b966633915d2d1daf8a70441959d9d58a98984f8) - 2026-08-07
 ## Q2 2026
 
 

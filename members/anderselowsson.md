@@ -15,6 +15,8 @@ Team: Robust Incentives Group (RIG)
 * [Review] [Review on: Update EIP-8061: Move to Review](https://github.com/ethereum/EIPs/pull/11887#pullrequestreview-4813088582) - 2026-07-29
 * [Pull Request] [Add EIP: Normalized state gas limit](https://github.com/ethereum/EIPs/pull/12119) - 2026-08-06
 * [Pull Request] [Update EIP-8081: PFI Normalized state gas limit](https://github.com/ethereum/EIPs/pull/12122) - 2026-08-06
+* [Review] [Review on: Add EIP: Normalized state gas limit](https://github.com/ethereum/EIPs/pull/12119#pullrequestreview-4881049114) - 2026-08-07
+* [Commit] [Add EIP: Normalized state gas limit](https://github.com/ethereum/EIPs/commit/112318dcfe13191c5ddf759516841b1e8595a23e) - 2026-08-07
 ## Q1 2026
 
 

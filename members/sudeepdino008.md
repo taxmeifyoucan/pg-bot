@@ -127,6 +127,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cmd/integration: add `history duplicates` to find redundant history values](https://github.com/erigontech/erigon/pull/22450#pullrequestreview-4873906719) - 2026-08-06
 * [Review] [Review on: db/seg: batch consecutive words to parallel AC workers](https://github.com/erigontech/erigon/pull/21997#pullrequestreview-4873321625) - 2026-08-06
 * [Pull Request] [db/seg: run the single-worker cover phase through the batched pipeline](https://github.com/erigontech/erigon/pull/23058) - 2026-08-06
+* [Review] [Review on: db/seg: collapse compression workers=1 case into batched workers flow](https://github.com/erigontech/erigon/pull/23058#pullrequestreview-4880160247) - 2026-08-07
+* [Issue] [chaintip parallel exec: ~55% of the exec+commitment window is "other" (flush-to-mem + orchestration + stalls), not exec or commitment](https://github.com/erigontech/erigon/issues/23073) - 2026-08-07
+* [Issue] [BAL commitment fold-ahead never runs at the chain tip (every tip block owns a reorg changeset) — can we capture the reorg changeset from the BAL fold?](https://github.com/erigontech/erigon/issues/23091) - 2026-08-07
+* [Commit] [db/seg: batch consecutive words to parallel AC workers (#21997)](https://github.com/erigontech/erigon/commit/d2bfea859532401c40debdc6fbca034b0c6cd56f) - 2026-08-07
 ## Q2 2026
 
 

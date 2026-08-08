@@ -172,6 +172,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Glamsterdam devnet 8 specific commits](https://github.com/NethermindEth/nethermind/pull/12719) - 2026-08-06
 * [Review] [Review on: feat(eip-2780): fold EIP-7708 transfer log cost into TX_VALUE_COST](https://github.com/NethermindEth/nethermind/pull/12713#pullrequestreview-4873750888) - 2026-08-06
 * [Review] [Review on: fix(dns): verify EIP-1459 subtree hashes](https://github.com/NethermindEth/nethermind/pull/12707#pullrequestreview-4873217729) - 2026-08-06
+* [Review] [Review on: Only accept the requested header in FetchHeaderFromPeer](https://github.com/NethermindEth/nethermind/pull/12730#pullrequestreview-4883015841) - 2026-08-07
+* [Review] [Review on: Snap sync: reject storage range responses with unmatched slot lists](https://github.com/NethermindEth/nethermind/pull/12729#pullrequestreview-4882789212) - 2026-08-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

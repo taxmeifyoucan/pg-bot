@@ -229,6 +229,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: eradicate block.SetBlockAccessList (#23060)](https://github.com/erigontech/erigon/commit/633a896a121607b161fb238e603e51b58eaee69c) - 2026-08-06
 * [Commit] [execution: achieve 0 re-execs/aborts for BAL-driven parallel exec (#22190)](https://github.com/erigontech/erigon/commit/ff6903db1ccaa17f462e15ea31a067a0f1627983) - 2026-08-06
 * [Commit] [execution: remove unused moduleutil (#23042)](https://github.com/erigontech/erigon/commit/30850b623f5ab1e98aa8e022bea2bdb2d3c9a68e) - 2026-08-06
+* [Pull Request] [execution: fix flaky TestExecModuleProducesE2Snapshots](https://github.com/erigontech/erigon/pull/23100) - 2026-08-07
+* [Pull Request] [[WIP] execution: fix and optimise BAL warmup](https://github.com/erigontech/erigon/pull/23081) - 2026-08-07
+* [Review] [Review on: [WIP] execution: fix and optimise BAL warmup](https://github.com/erigontech/erigon/pull/23081#pullrequestreview-4886772852) - 2026-08-07
+* [Review] [Review on: [SharovBot] fix: data race on DelayLoggingEnabled - use atomic.Bool](https://github.com/erigontech/erigon/pull/23107#pullrequestreview-4885539462) - 2026-08-07
+* [Review] [Review on: [r3.6] execution/stagedsync: reclaim superseded fee-merge write sets off the apply loop](https://github.com/erigontech/erigon/pull/23099#pullrequestreview-4885251976) - 2026-08-07
+* [Review] [Review on: execution: build payloads until the slot they are for](https://github.com/erigontech/erigon/pull/23098#pullrequestreview-4883822504) - 2026-08-07
+* [Pull Request] [execution: block read aheader to return blocks with bals](https://github.com/erigontech/erigon/pull/23096) - 2026-08-07
+* [Review] [Review on: execution: pass around block and remove unnecessary block lookups in parallel exec ](https://github.com/erigontech/erigon/pull/23069#pullrequestreview-4882010897) - 2026-08-07
+* [Review] [Review on: execution/vm: uint256 fast path for MODEXP when the modulus is in [2^192, 2^256)](https://github.com/erigontech/erigon/pull/22940#pullrequestreview-4881020257) - 2026-08-07
+* [Review] [Review on: all: enable and resolve nilValReturn, evalOrder, returnAfterHttpError, weakCond, and builtinShadowDecl linter checks](https://github.com/erigontech/erigon/pull/23059#pullrequestreview-4881714577) - 2026-08-07
+* [Review] [Review on: [wip] execution/state: range-scan the destruct in versionedStateReader reads](https://github.com/erigontech/erigon/pull/23072#pullrequestreview-4880578931) - 2026-08-07
+* [Pull Request] [ci: cache Kurtosis helper images](https://github.com/erigontech/erigon/pull/23083) - 2026-08-07
+* [Commit] [execution: block read aheader to return blocks with bals (#23096)](https://github.com/erigontech/erigon/commit/59729cae26e5c09d0cff089443489be7e569638c) - 2026-08-07
+* [Commit] [execution: pass around block and remove unnecessary block lookups in parallel exec  (#23069)](https://github.com/erigontech/erigon/commit/6f71f2be533314f8029ff5efdc9b06428ab46207) - 2026-08-07
+* [Commit] [ci: cache Kurtosis helper images (#23083)](https://github.com/erigontech/erigon/commit/fc191a7a93ee0fe9421a6de82ecf65468a0a8aca) - 2026-08-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

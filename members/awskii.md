@@ -215,6 +215,15 @@ Team: Erigon
 * [Issue] [[parallel exec] eth mainnet invalid block: could not apply tx 11133845:43 [0x7d14c24a8dc5...]: too many validator-invalid retries: 170, expected: 169](https://github.com/erigontech/erigon/issues/23020) - 2026-08-05
 * [Issue] [Epic: caplin snapshots on the erigondb segment lifecycle](https://github.com/erigontech/erigon/issues/23024) - 2026-08-05
 * [Commit] [rpc/jsonrpc: push fresh witnesses via debug_subscribe("executionWitnesses") (#22407)](https://github.com/erigontech/erigon/commit/44294fdbc012b9ba6fa53822449860f184dfdbce) - 2026-08-05
+* [Review] [Review on: execution/stagedsync: drop the per-tx receipt copy in the publish loop](https://github.com/erigontech/erigon/pull/23094#pullrequestreview-4882558926) - 2026-08-07
+* [Review] [Review on: execution/state: stop re-encoding committed accounts on the apply-loop read](https://github.com/erigontech/erigon/pull/23075#pullrequestreview-4882557273) - 2026-08-07
+* [Review] [Review on: [r3.6] execution/stagedsync: hand the trace sets to the apply result instead of copying](https://github.com/erigontech/erigon/pull/23093#pullrequestreview-4882562153) - 2026-08-07
+* [Review] [Review on: [r3.6] execution/state: stop re-encoding committed accounts on the apply-loop read](https://github.com/erigontech/erigon/pull/23090#pullrequestreview-4882378234) - 2026-08-07
+* [Review] [Review on: [r3.6] execution/state: skip the domain read when the tx already found no account](https://github.com/erigontech/erigon/pull/23089#pullrequestreview-4882381327) - 2026-08-07
+* [Pull Request] [[wip] execution/state: range-scan the destruct in versionedStateReader reads](https://github.com/erigontech/erigon/pull/23072) - 2026-08-07
+* [Review] [Review on: [wip] execution/state: range-scan the destruct in versionedStateReader reads](https://github.com/erigontech/erigon/pull/23072#pullrequestreview-4879912349) - 2026-08-07
+* [Commit] [cl, db: caplin snapshot pre-fixes and CaplinSnapshots on BaseRoSnapshots (#22944)](https://github.com/erigontech/erigon/commit/30b64a9fc2ba393d0c754e15e4f3566725225418) - 2026-08-07
+* [Commit] [db/kv/rawdbv3: fix nil-cursor branch shadowing the cursor in MaxTxNum (#23076)](https://github.com/erigontech/erigon/commit/67b548097b835aa66a9304bc673a8ceeb5f33d8a) - 2026-08-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

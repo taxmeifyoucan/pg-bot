@@ -239,6 +239,10 @@ Team: Reth
 * [Review] [Review on: refactor(storage): move OverlayStateProvider and let it use a Provider ref](https://github.com/paradigmxyz/reth/pull/26611#pullrequestreview-4874640920) - 2026-08-06
 * [Review] [Review on: chore(hive): add execute-blob tests in the hive workflow](https://github.com/paradigmxyz/reth/pull/26606#pullrequestreview-4874394635) - 2026-08-06
 * [Commit] [fix(dns): skip unrelated TXT records (#26603)](https://github.com/paradigmxyz/reth/commit/9253c0f8bc62469e17abb9b5b122f6fc4ae27ad2) - 2026-08-06
+* [Review] [Review on: feat(txpool): prepare pooled transactions for eth version](https://github.com/paradigmxyz/reth/pull/26622#pullrequestreview-4886875983) - 2026-08-07
+* [Review] [Review on: fix(net): preserve eth72 announcement cell masks](https://github.com/paradigmxyz/reth/pull/26573#pullrequestreview-4881896685) - 2026-08-07
+* [Review] [Review on: feat(net): add eth72 pooled transaction serving](https://github.com/paradigmxyz/reth/pull/26574#pullrequestreview-4881942977) - 2026-08-07
+* [Issue] [feat(txpool): add version-aware pooled transaction response preparation](https://github.com/paradigmxyz/reth/issues/26621) - 2026-08-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

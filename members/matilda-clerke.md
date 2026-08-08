@@ -38,6 +38,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: Remove getconstants from eth2networkconfig](https://github.com/Consensys/teku/pull/11048#pullrequestreview-4850594378) - 2026-08-04
 * [Pull Request] [Change default values of builder circuit breaker options](https://github.com/Consensys/teku/pull/11062) - 2026-08-05
 * [Pull Request] [Legitimise --validators-external-signer-concurrent-limit](https://github.com/Consensys/teku/pull/11063) - 2026-08-05
+* [Review] [Review on: Remove deprecated methods from MiscHelpersFulu](https://github.com/Consensys/teku/pull/11059#pullrequestreview-4880060028) - 2026-08-07
 ## Q2 2026
 
 

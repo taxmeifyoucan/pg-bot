@@ -105,6 +105,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [close UDP channel immediately on cancellation (QUIC)](https://github.com/libp2p/jvm-libp2p/pull/508) - 2026-07-31
 * [Commit] [close UDP channel immediately on cancellation (QUIC) (#508)](https://github.com/libp2p/jvm-libp2p/commit/bb4dfc6b776629fc8df259b16088559a35843a79) - 2026-07-31
 * [Review] [Review on: Gossip backpressure: detect and handle slow peers under outbound backpressure](https://github.com/libp2p/jvm-libp2p/pull/513#pullrequestreview-4864790195) - 2026-08-05
+* [Pull Request] [Introduce a quic connection exception handler](https://github.com/libp2p/jvm-libp2p/pull/517) - 2026-08-07
+* [Issue] [exception on QUIC](https://github.com/libp2p/jvm-libp2p/issues/516) - 2026-08-07
+* [Commit] [introduce a quic connection exception handler (#517)](https://github.com/libp2p/jvm-libp2p/commit/7c7e0a231268a8e32148a23fb4dfed74fd75fd79) - 2026-08-07
 ## Q2 2026
 
 

@@ -171,11 +171,20 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test(era): anchor accumulator tests to EIP-7643 vectors, remove unused GetProof](https://github.com/NethermindEth/nethermind/pull/12718#pullrequestreview-4876034914) - 2026-08-06
 * [Review] [Review on: Selectable dotTrace profiling mode + dotnet-trace EventPipe sidecar for benchmark workflows](https://github.com/NethermindEth/nethermind/pull/12708#pullrequestreview-4874751785) - 2026-08-06
 * [Review] [Review on: fix(dns): verify EIP-1459 subtree hashes](https://github.com/NethermindEth/nethermind/pull/12707#pullrequestreview-4874571129) - 2026-08-06
+* [Review] [Review on: Only accept the requested header in FetchHeaderFromPeer](https://github.com/NethermindEth/nethermind/pull/12730#pullrequestreview-4882846593) - 2026-08-07
+* [Review] [Review on: Snap sync: reject storage range responses with unmatched slot lists](https://github.com/NethermindEth/nethermind/pull/12729#pullrequestreview-4882794586) - 2026-08-07
+* [Pull Request] [Quarantine hygiene: remove every uncategorised test retry, and the sync defects they hid](https://github.com/NethermindEth/nethermind/pull/12727) - 2026-08-07
+* [Commit] [test: anchor crypto and RLP tests to independent expectations (#12712)](https://github.com/NethermindEth/nethermind/commit/629731a646d17365714ed6e6bcb45659e8c57bde) - 2026-08-08
+* [Commit] [test: strengthen mock-echo and vacuous tests in Abi, Optimism and Xdc test projects (#12720)](https://github.com/NethermindEth/nethermind/commit/9a35cc1cfe090f68301def6687a5f4c59fcd3c4d) - 2026-08-08
+* [Commit] [test(era): anchor accumulator tests to EIP-7643 vectors, remove unused GetProof (#12718)](https://github.com/NethermindEth/nethermind/commit/18fabc00dad5780431f50404476224f73ab736b0) - 2026-08-08
+* [Commit] [test: add hand-derived golden tests for eth/71 and snap serializers (#12699)](https://github.com/NethermindEth/nethermind/commit/bef9172ee9e0754716a5277aea7f52a71be3a1ad) - 2026-08-07
+* [Commit] [fix(jsonrpc): serialize receipt root as full-width DATA (#12706)](https://github.com/NethermindEth/nethermind/commit/5e16ef61188c0629e5fbe8c24bfb8672a774fd1c) - 2026-08-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
 
 * [Review] [Review on: Update EIP-2780: Move to Review](https://github.com/ethereum/EIPs/pull/11882#pullrequestreview-4713489321) - 2026-07-16
+* [Pull Request] [Add EIP: ePBS Mandatory Burn of Execution Rewards](https://github.com/ethereum/EIPs/pull/12130) - 2026-08-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653198356) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653197195) - 2026-07-08

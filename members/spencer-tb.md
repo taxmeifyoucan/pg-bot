@@ -186,6 +186,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [chore(tooling): add test-docstring guidance to the write-test skill (#3328)](https://github.com/ethereum/execution-specs/commit/f6cf6a926c8272d963771d3f19a2b12f97867928) - 2026-08-06
 * [Commit] [feat(test-tests): add engine payload attribute and genesis parity tests (#3309)](https://github.com/ethereum/execution-specs/commit/847f8857f843d95760882fd8d637d77a259636f2) - 2026-08-06
 * [Commit] [feat(tests): add EIP-2780 coverage gap tests (#3318)](https://github.com/ethereum/execution-specs/commit/1afd925ff8d2d080e0d979acde72bd2848d6291a) - 2026-08-06
+* [Commit] [fix(tests): enhance & un-skip Amsterdam ported static depth-recursion tests (Pt. 2a) (#3264)](https://github.com/ethereum/execution-specs/commit/343274cc0f43962ff39a648e2b2614bf227f8d1f) - 2026-08-08
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

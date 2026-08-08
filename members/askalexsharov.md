@@ -724,6 +724,37 @@ Team: Erigon
 * [Pull Request] [execution/execmodule, node: remove the FCU background flush/commit path](https://github.com/erigontech/erigon/pull/23051) - 2026-08-06
 * [Commit] [execution/vm: handle k == 1 in the BLS12-381 MSM precompiles (#22936)](https://github.com/erigontech/erigon/commit/63017bdd7e0f00f8470beb582726ee2520405269) - 2026-08-06
 * [Commit] [metrics: parallel-exec conflict rate (#23054)](https://github.com/erigontech/erigon/commit/4e4ebbf03eeb12378d6c361e02e152cbbd4027f6) - 2026-08-06
+* [Review] [Review on: [r3.6] execution: build payloads until the slot they are for](https://github.com/erigontech/erigon/pull/23103#pullrequestreview-4887410665) - 2026-08-08
+* [Review] [Review on: execution: fix flaky TestExecModuleProducesE2Snapshots](https://github.com/erigontech/erigon/pull/23100#pullrequestreview-4887478906) - 2026-08-08
+* [Review] [Review on: db/state: don't clear domain RAM under a published SharedDomains](https://github.com/erigontech/erigon/pull/23046#pullrequestreview-4879566000) - 2026-08-07
+* [Review] [Review on: qa-tests: fix and improve snapshot retirement workflows](https://github.com/erigontech/erigon/pull/23104#pullrequestreview-4887403500) - 2026-08-08
+* [Review] [Review on: [WIP] execution: fix and optimise BAL warmup](https://github.com/erigontech/erigon/pull/23081#pullrequestreview-4881203503) - 2026-08-07
+* [Review] [Review on: execution/commitment: record the trunk-preload duration and bytes counters](https://github.com/erigontech/erigon/pull/23067#pullrequestreview-4881163885) - 2026-08-07
+* [Pull Request] [[r3.6] execution/stagedsync: reclaim superseded fee-merge write sets off the apply loop](https://github.com/erigontech/erigon/pull/23099) - 2026-08-07
+* [Pull Request] [execution/stagedsync: reclaim superseded fee-merge write sets off the apply loop](https://github.com/erigontech/erigon/pull/23106) - 2026-08-07
+* [Review] [Review on: execution: block read aheader to return blocks with bals](https://github.com/erigontech/erigon/pull/23096#pullrequestreview-4882468629) - 2026-08-07
+* [Review] [Review on: build(deps): bump mermaid from 11.15.0 to 11.16.1 in /docs/site](https://github.com/erigontech/erigon/pull/23088#pullrequestreview-4882693742) - 2026-08-07
+* [Pull Request] [execution/stagedsync: drop the per-tx receipt copy in the publish loop](https://github.com/erigontech/erigon/pull/23094) - 2026-08-07
+* [Review] [Review on: cl/phase1/network/services: share Gloas pending-job queues](https://github.com/erigontech/erigon/pull/22177#pullrequestreview-4882866019) - 2026-08-07
+* [Pull Request] [execution/state: stop re-encoding committed accounts on the apply-loop read](https://github.com/erigontech/erigon/pull/23075) - 2026-08-07
+* [Pull Request] [[r3.6] execution/stagedsync: hand the trace sets to the apply result instead of copying](https://github.com/erigontech/erigon/pull/23093) - 2026-08-07
+* [Pull Request] [execution/stagedsync: hand the trace sets to the apply result instead of copying](https://github.com/erigontech/erigon/pull/23092) - 2026-08-07
+* [Pull Request] [[r3.6] execution/state: stop re-encoding committed accounts on the apply-loop read](https://github.com/erigontech/erigon/pull/23090) - 2026-08-07
+* [Pull Request] [[r3.6] execution/state: skip the domain read when the tx already found no account](https://github.com/erigontech/erigon/pull/23089) - 2026-08-07
+* [Review] [Review on: execution: pass around block and remove unnecessary block lookups in parallel exec ](https://github.com/erigontech/erigon/pull/23069#pullrequestreview-4881069339) - 2026-08-07
+* [Review] [Review on: execution/vm: uint256 fast path for MODEXP when the modulus is in [2^192, 2^256)](https://github.com/erigontech/erigon/pull/22940#pullrequestreview-4880007929) - 2026-08-07
+* [Pull Request] [execution/state: make the past-transaction log check unconditional](https://github.com/erigontech/erigon/pull/23087) - 2026-08-07
+* [Review] [Review on: [wip] execution/state: range-scan the destruct in versionedStateReader reads](https://github.com/erigontech/erigon/pull/23072#pullrequestreview-4880068677) - 2026-08-07
+* [Pull Request] [db/datastruct/btindex: skip EliasFano lookup on sequential cursor scan](https://github.com/erigontech/erigon/pull/23080) - 2026-08-07
+* [Review] [Review on: execution/protocol: don't compute intrinsic gas or copy the access list for rejected txs](https://github.com/erigontech/erigon/pull/22959#pullrequestreview-4879974214) - 2026-08-07
+* [Review] [Review on: cl, db: caplin snapshot pre-fixes and CaplinSnapshots on BaseRoSnapshots](https://github.com/erigontech/erigon/pull/22944#pullrequestreview-4879947821) - 2026-08-07
+* [Commit] [execution/stagedsync: drop the per-tx receipt copy in the publish loop (#23094)](https://github.com/erigontech/erigon/commit/b73f26fd9ef4b27f50518b0e401f339ae18ec192) - 2026-08-07
+* [Commit] [execution/state: stop re-encoding committed accounts on the apply-loop read (#23075)](https://github.com/erigontech/erigon/commit/bc8f3db9b16f2904432da1d9c72dc114f48a9349) - 2026-08-07
+* [Commit] [execution/vm: uint256 fast path for MODEXP when the modulus is in [2^192, 2^256) (#22940)](https://github.com/erigontech/erigon/commit/415932fd42aa432cb0ff1880c0a8c12b14b75e6f) - 2026-08-07
+* [Commit] [execution/state: make log Reset cost the transaction, not the block (#23007)](https://github.com/erigontech/erigon/commit/2c37d4540861f48097ec8d8362b9557e7fa668c0) - 2026-08-07
+* [Commit] [p2p/enode: fix flaky TestFairMixRemoveSource (#23078)](https://github.com/erigontech/erigon/commit/af861730432c5050bc254923432423f995cd0462) - 2026-08-07
+* [Commit] [execution/state: skip the domain read when the tx already found no account (#23074)](https://github.com/erigontech/erigon/commit/ae845b7617d4438219629fad1b364b8979bcbf9b) - 2026-08-07
+* [Commit] [exec: calcFees to make less version-map locks (#23053)](https://github.com/erigontech/erigon/commit/a1361d43e41966ca395344ecaea1886c1e5be2db) - 2026-08-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

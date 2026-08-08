@@ -39,6 +39,7 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: Update EIP-8347: delegation indicators are header leaves](https://github.com/ethereum/EIPs/pull/12115#pullrequestreview-4872838844) - 2026-08-06
 * [Review] [Review on: Update EIP-8297: store delegation indicators in the account header](https://github.com/ethereum/EIPs/pull/12114#pullrequestreview-4872617073) - 2026-08-06
 * [Commit] [Update EIP-8297: Add a small note on reserved fields in the header](https://github.com/ethereum/EIPs/commit/2c6da5e9c71d4df50556e217e265917d13c4ca78) - 2026-08-06
+* [Pull Request] [Update EIP-7709: Remove verkle wording](https://github.com/ethereum/EIPs/pull/12129) - 2026-08-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14
@@ -75,6 +76,9 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: feat(binary-trie): move all code chunks into the content-addressed code zone](https://github.com/ethereum/execution-specs/pull/3310#pullrequestreview-4867485853) - 2026-08-05
 * [Issue] [Tracking issue for PBT deletion tests](https://github.com/ethereum/execution-specs/issues/3325) - 2026-08-06
 * [Review] [Review on: Frame Transactions (EIP-8141)](https://github.com/ethereum/execution-specs/pull/3047#pullrequestreview-4878777050) - 2026-08-06
+* [Review] [Review on: chore(binary-trie): merge forks/amsterdam into projects/binary-trie](https://github.com/ethereum/execution-specs/pull/3332#pullrequestreview-4882574615) - 2026-08-07
+* [Issue] [Test reorgs of the binary trie post flip](https://github.com/ethereum/execution-specs/issues/3334) - 2026-08-07
+* [Issue] [Test binary tree post flip cache invalidation](https://github.com/ethereum/execution-specs/issues/3333) - 2026-08-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716803581) - 2026-07-16
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737690816) - 2026-07-20
@@ -82,6 +86,14 @@ Team: Consensus R&D (EF)
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [chore: Add a command to export preimages](https://github.com/erigontech/erigon/pull/22645) - 2026-07-21
 * [Commit] [chore: Add a command to export preimages (#22645)](https://github.com/erigontech/erigon/commit/297727cef89e8508015882f247094aa934d210c3) - 2026-07-22
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core/vm: Implement 7709 (Bogota)](https://github.com/ethereum/go-ethereum/pull/35474) - 2026-08-07
+* [Review] [Review on: core/vm: Implement 7709 (Bogota)](https://github.com/ethereum/go-ethereum/pull/35474#pullrequestreview-4886694005) - 2026-08-07
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [feat(hegota): Implement 7709](https://github.com/NethermindEth/nethermind/pull/12742) - 2026-08-07
+* [Review] [Review on: feat(hegota): Implement 7709](https://github.com/NethermindEth/nethermind/pull/12742#pullrequestreview-4886871541) - 2026-08-07
 ## Q2 2026
 
 

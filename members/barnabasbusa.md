@@ -36,6 +36,19 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge branch 'master' into dependabot/github_actions/actions-e0d84faf3a](https://github.com/ethpandaops/dora/commit/9417ed701ee89712ca09a9e4d1017af32afc2e91) - 2026-08-05
 * [Review] [Review on: feat(api): attester duties, committees, and bulk validator status endpoints](https://github.com/ethpandaops/dora/pull/823#pullrequestreview-4876415566) - 2026-08-06
 * [Review] [Review on: Add per-client bid seen tracking](https://github.com/ethpandaops/dora/pull/824#pullrequestreview-4876418093) - 2026-08-06
+* [Review] [Review on: build(deps): bump the dependencies group across 1 directory with 5 updates](https://github.com/ethpandaops/dora/pull/814#pullrequestreview-4882189853) - 2026-08-07
+* [Pull Request] [Drop named-fork entries from EL blob schedule (geth 1.17.5 compat)](https://github.com/ethpandaops/dora/pull/826) - 2026-08-07
+* [Review] [Review on: Drop named-fork entries from EL blob schedule (geth 1.17.5 compat)](https://github.com/ethpandaops/dora/pull/826#pullrequestreview-4881122279) - 2026-08-07
+* [Review] [Review on: Bid seen tracking: popover callout, counter fixes, nimbus event support](https://github.com/ethpandaops/dora/pull/825#pullrequestreview-4880767157) - 2026-08-07
+* [Commit] [Merge pull request #814 from ethpandaops/dependabot/go_modules/dependencies-8b507d6996](https://github.com/ethpandaops/dora/commit/a875cc584cd7572809934120f44a913b3d0f3b8f) - 2026-08-07
+* [Commit] [bump ethcore to post-geth-1.17.5 master, include blob schedule fix](https://github.com/ethpandaops/dora/commit/c31fce543c2351d2e55181c8465b2eea8d8e046a) - 2026-08-07
+* [Commit] [Merge blob schedule fix (PR #826) into dependabot branch](https://github.com/ethpandaops/dora/commit/61601907440b3991958b8bf6574fe8c583cde03f) - 2026-08-07
+* [Commit] [Apply suggestion from @barnabasbusa](https://github.com/ethpandaops/dora/commit/236f53571da2f01387ef796401306f4d00ff1776) - 2026-08-07
+* [Commit] [Drop named-fork entries from EL blob schedule (geth 1.17.5 compat)](https://github.com/ethpandaops/dora/commit/2402a6c002fabc60a00e07c24482b6eebfe1796e) - 2026-08-07
+* [Commit] [Merge branch 'master' into dependabot/go_modules/dependencies-8b507d6996](https://github.com/ethpandaops/dora/commit/564d1934920f5a10182df487ab2a2c34de3496d2) - 2026-08-07
+* [Commit] [Merge pull request #821 from ethpandaops/bbusa/el-bpo-schedule](https://github.com/ethpandaops/dora/commit/31be3fe48f41638c9ebd1856fd2617c91cadde07) - 2026-08-07
+* [Commit] [Merge branch 'master' into bbusa/el-bpo-schedule](https://github.com/ethpandaops/dora/commit/416fb0c545733d8c1be219139992277ccf82ff02) - 2026-08-07
+* [Commit] [Merge pull request #825 from ethpandaops/pk910/seen-rendering](https://github.com/ethpandaops/dora/commit/39a5e1656467f019ad8dad0aaf975683c74eea57) - 2026-08-07
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 

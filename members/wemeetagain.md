@@ -94,6 +94,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: avoid epoch transition when validating gossip columns](https://github.com/ChainSafe/lodestar/pull/9772#pullrequestreview-4864255570) - 2026-08-05
 * [Issue] [Consider only handling post-fulu gossip](https://github.com/ChainSafe/lodestar/issues/9776) - 2026-08-05
 * [Review] [Review on: chore: trim verbose gossip-disparity doc comments](https://github.com/ChainSafe/lodestar/pull/9631#pullrequestreview-4877664197) - 2026-08-06
+* [Review] [Review on: feat: produce proposer slashings from observed equivocations](https://github.com/ChainSafe/lodestar/pull/9787#pullrequestreview-4883685920) - 2026-08-07
+* [Review] [Review on: feat: cache builder deposit signatures for gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9727#pullrequestreview-4882994443) - 2026-08-07
+* [Review] [Review on: fix: handle 1st orphaned payload of blocks[0] in range sync](https://github.com/ChainSafe/lodestar/pull/9785#pullrequestreview-4883170796) - 2026-08-07
+* [Commit] [feat: report parent_block_hash for safe/finalized post-Gloas (#9393)](https://github.com/ChainSafe/lodestar/commit/3d8f7cf440881946dccf558db504407aaba9dfb1) - 2026-08-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -143,6 +147,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor(pubkeys): centralize the process-wide cache (#522)](https://github.com/ChainSafe/lodestar-z/commit/dc9669dbbe131aeee56605e785d46108a87d4e82) - 2026-08-03
 * [Review] [Review on: feat(bindings): add pubkey cache syncPubkeys](https://github.com/ChainSafe/lodestar-z/pull/537#pullrequestreview-4855498365) - 2026-08-04
 * [Commit] [feat(bindings): add pubkey cache syncPubkeys (#537)](https://github.com/ChainSafe/lodestar-z/commit/542779fc84efe7395cbc0c908802dc586337d131) - 2026-08-04
+* [Pull Request] [chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/546) - 2026-08-07
+* [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/546#pullrequestreview-4885249248) - 2026-08-07
+* [Review] [Review on: fix(bls): enforce 32-byte signing roots](https://github.com/ChainSafe/lodestar-z/pull/545#pullrequestreview-4885256560) - 2026-08-07
+* [Pull Request] [chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/544) - 2026-08-07
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

@@ -36,6 +36,14 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-7997: specify activation-block deployment and BAL recording](https://github.com/ethereum/EIPs/pull/11991) - 2026-07-22
 * [Review] [Review on: Update EIP-8189: Move to Review](https://github.com/ethereum/EIPs/pull/12037#pullrequestreview-4835464060) - 2026-08-01
 * [Review] [Review on: Update EIP-8159: Move to Review](https://github.com/ethereum/EIPs/pull/12036#pullrequestreview-4835459382) - 2026-08-01
+* [Pull Request] [Update EIP-8272: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/pull/12125) - 2026-08-07
+* [Pull Request] [Update EIP-8250: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/pull/12126) - 2026-08-07
+* [Pull Request] [Update EIP-8279: Highlight block-size cap upfront](https://github.com/ethereum/EIPs/pull/12127) - 2026-08-07
+* [Pull Request] [Update EIP-8146: Highlight sidecar benefits upfront](https://github.com/ethereum/EIPs/pull/12124) - 2026-08-07
+* [Pull Request] [Update EIP-8131: Highlight block-size cap upfront](https://github.com/ethereum/EIPs/pull/12123) - 2026-08-07
+* [Commit] [Update EIP-8279: Highlight block-size cap upfront](https://github.com/ethereum/EIPs/commit/4484909deb60e8266152f4b6eed2d79990af072b) - 2026-08-07
+* [Commit] [Update EIP-8146: Highlight sidecar benefits upfront](https://github.com/ethereum/EIPs/commit/13b14adce21c2022cc96a0b1409c3a7abd04bc52) - 2026-08-07
+* [Commit] [Update EIP-8131: Highlight block-size cap upfront](https://github.com/ethereum/EIPs/commit/96507525affbe67a41d9b90ee6a7ebd45ee2a421) - 2026-08-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 

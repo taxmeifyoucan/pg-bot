@@ -44,6 +44,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat(rpc): implement debug_traceChain subscription](https://github.com/paradigmxyz/reth/pull/26582#pullrequestreview-4878062249) - 2026-08-06
 * [Pull Request] [refactor: reuse evm for block-level tracing](https://github.com/paradigmxyz/reth/pull/26614) - 2026-08-06
 * [Pull Request] [refactor: reuse evm for block-level tracing](https://github.com/paradigmxyz/reth/pull/26613) - 2026-08-06
+* [Commit] [refactor: reuse evm for block-level tracing (#26614)](https://github.com/paradigmxyz/reth/commit/d229be69356313e5988e98db4183da194076a80c) - 2026-08-07
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

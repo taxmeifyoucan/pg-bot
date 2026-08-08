@@ -28,6 +28,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: fix: incremental frontierRootHash to avoid O(N²) on pre-Byzantium blocks](https://github.com/besu-eth/besu/pull/10220#pullrequestreview-4861151121) - 2026-08-05
 * [Pull Request] [Bonsai Archive state proofs trienode diff](https://github.com/besu-eth/besu/pull/10974) - 2026-08-05
 * [Issue] [Bonsai: mainnet full sync halts at block 10,094,566 — state root mismatch (selfdestruct + recreate with identical storage)](https://github.com/besu-eth/besu/issues/10978) - 2026-08-05
+* [Review] [Review on: fix: incremental frontierRootHash to avoid O(N²) on pre-Byzantium blocks](https://github.com/besu-eth/besu/pull/10220#pullrequestreview-4880223995) - 2026-08-07
+* [Issue] [Bonsai Archive: eth_getProof merge-operator index writes](https://github.com/besu-eth/besu/issues/11003) - 2026-08-07
+* [Issue] [Bonsai Archive: eth_getProof multiGet read optimisation](https://github.com/besu-eth/besu/issues/11002) - 2026-08-07
+* [Issue] [Bonsai Archive: eth_getProof change-block index](https://github.com/besu-eth/besu/issues/11001) - 2026-08-07
+* [Issue] [Bonsai Archive: eth_getProof depth-tiered checkpoints](https://github.com/besu-eth/besu/issues/11000) - 2026-08-07
+* [Issue] [Bonsai Archive: eth_getProof ongoing sync](https://github.com/besu-eth/besu/issues/10999) - 2026-08-07
+* [Issue] [Bonsai Archive: eth_getProof async capture to improve block import](https://github.com/besu-eth/besu/issues/10998) - 2026-08-07
+* [Issue] [Bonsai Archive: eth_getProof diff encoding](https://github.com/besu-eth/besu/issues/10997) - 2026-08-07
+* [Issue] [Bonsai Archive: eth_getProof simple trie](https://github.com/besu-eth/besu/issues/10996) - 2026-08-07
 ## Q2 2026
 
 

@@ -42,6 +42,9 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Review] [Review on: Update EIP-8250: pin NONCE_MANAGER to 0x...8250](https://github.com/ethereum/EIPs/pull/12067#pullrequestreview-4841352298) - 2026-08-03
 * [Pull Request] [Add EIP: VOPS Profiles for FOCIL Eligibility](https://github.com/ethereum/EIPs/pull/12110) - 2026-08-05
 * [Review] [Review on: Add EIP: VOPS Profiles for FOCIL Eligibility](https://github.com/ethereum/EIPs/pull/12110#pullrequestreview-4871245573) - 2026-08-06
+* [Review] [Review on: Add EIP: VOPS Profiles for FOCIL Eligibility](https://github.com/ethereum/EIPs/pull/12110#pullrequestreview-4881478499) - 2026-08-07
+* [Review] [Review on: Update EIP-8272: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/pull/12125#pullrequestreview-4882759867) - 2026-08-07
+* [Review] [Review on: Update EIP-8250: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/pull/12126#pullrequestreview-4882744033) - 2026-08-07
 ## Q2 2026
 
 

@@ -67,6 +67,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Optimize EVM balance opcode](https://github.com/status-im/nimbus-eth1/pull/4612) - 2026-08-06
 * [Commit] [Optimize EVM balance opcode (#4612)](https://github.com/status-im/nimbus-eth1/commit/70c2f00e2c2c820a21d940e658afde59afd72894) - 2026-08-06
 * [Commit] [Sender recovery caching (#4607)](https://github.com/status-im/nimbus-eth1/commit/0cc96908ca81d265622ec9e7055cf228eb5d949c) - 2026-08-06
+* [Pull Request] [Use genesis block hash to validate network matches data directory](https://github.com/status-im/nimbus-eth1/pull/4622) - 2026-08-07
+* [Pull Request] [ConcurrentLruCache performance improvements](https://github.com/status-im/nimbus-eth1/pull/4621) - 2026-08-07
 ## Q2 2026
 
 
