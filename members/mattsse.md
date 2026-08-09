@@ -243,6 +243,8 @@ Team: Reth
 * [Review] [Review on: fix(net): preserve eth72 announcement cell masks](https://github.com/paradigmxyz/reth/pull/26573#pullrequestreview-4881896685) - 2026-08-07
 * [Review] [Review on: feat(net): add eth72 pooled transaction serving](https://github.com/paradigmxyz/reth/pull/26574#pullrequestreview-4881942977) - 2026-08-07
 * [Issue] [feat(txpool): add version-aware pooled transaction response preparation](https://github.com/paradigmxyz/reth/issues/26621) - 2026-08-07
+* [Pull Request] [fix(ci): resolve nightly Clippy failures](https://github.com/paradigmxyz/reth/pull/26625) - 2026-08-08
+* [Commit] [fix(ci): resolve nightly Clippy failures (#26625)](https://github.com/paradigmxyz/reth/commit/c7d94e622e0cd240961de7fa15d71d33ac900d07) - 2026-08-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

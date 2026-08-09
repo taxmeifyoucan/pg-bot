@@ -45,6 +45,8 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Review] [Review on: Add EIP: VOPS Profiles for FOCIL Eligibility](https://github.com/ethereum/EIPs/pull/12110#pullrequestreview-4881478499) - 2026-08-07
 * [Review] [Review on: Update EIP-8272: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/pull/12125#pullrequestreview-4882759867) - 2026-08-07
 * [Review] [Review on: Update EIP-8250: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/pull/12126#pullrequestreview-4882744033) - 2026-08-07
+* [Review] [Review on: Update EIP-8250: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/pull/12126#pullrequestreview-4888323909) - 2026-08-08
+* [Review] [Review on: Update EIP-8272: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/pull/12125#pullrequestreview-4888322886) - 2026-08-08
 ## Q2 2026
 
 

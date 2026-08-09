@@ -125,6 +125,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(bls): size pairing buffers for 32-bit targets](https://github.com/ChainSafe/lodestar-z/pull/531#pullrequestreview-4836160667) - 2026-08-02
 * [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/546#pullrequestreview-4885411203) - 2026-08-07
 * [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/544#pullrequestreview-4885089737) - 2026-08-07
+* [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/546#pullrequestreview-4889215580) - 2026-08-08
 ## Q2 2026
 
 

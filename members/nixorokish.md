@@ -49,6 +49,8 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Update EIP-7773: Add EIP-8254 to DFI EIPs](https://github.com/ethereum/EIPs/commit/6e35ab23896d23d936bbb690b1df018fae42af9a) - 2026-08-05
 * [Review] [Review on: Update EIP-8081: Propose EIP-8333 for inclusion](https://github.com/ethereum/EIPs/pull/12044#pullrequestreview-4879222068) - 2026-08-07
 * [Review] [Review on: Update EIP-8081: PFI EIP-8359](https://github.com/ethereum/EIPs/pull/12071#pullrequestreview-4879206393) - 2026-08-07
+* [Review] [Review on: Update EIP-8081: PFI EIP-8361](https://github.com/ethereum/EIPs/pull/12087#pullrequestreview-4889080116) - 2026-08-08
+* [Review] [Review on: Update EIP-7773: Add polar bear mascot](https://github.com/ethereum/EIPs/pull/12116#pullrequestreview-4889074510) - 2026-08-08
 ## Q2 2026
 
 

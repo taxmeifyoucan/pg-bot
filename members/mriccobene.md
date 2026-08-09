@@ -44,6 +44,7 @@ Team: Erigon
 * [Commit] [qa-tests: add snapshot retirement test for full node (#23040)](https://github.com/erigontech/erigon/commit/b87a9a0474334318ad5f73d34ab3b23d24cc838d) - 2026-08-06
 * [Pull Request] [qa-tests: fix and improve snapshot retirement workflows](https://github.com/erigontech/erigon/pull/23104) - 2026-08-07
 * [Review] [Review on: QA: fix test race in case latest tests](https://github.com/erigontech/erigon/pull/22965#pullrequestreview-4881393376) - 2026-08-07
+* [Commit] [qa-tests: fix and improve snapshot retirement workflows (#23104)](https://github.com/erigontech/erigon/commit/4dbb8b65a47bfe6672a3f6962fee62e023005161) - 2026-08-08
 ## Q2 2026
 
 

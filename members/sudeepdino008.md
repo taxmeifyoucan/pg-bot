@@ -131,6 +131,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [chaintip parallel exec: ~55% of the exec+commitment window is "other" (flush-to-mem + orchestration + stalls), not exec or commitment](https://github.com/erigontech/erigon/issues/23073) - 2026-08-07
 * [Issue] [BAL commitment fold-ahead never runs at the chain tip (every tip block owns a reorg changeset) — can we capture the reorg changeset from the BAL fold?](https://github.com/erigontech/erigon/issues/23091) - 2026-08-07
 * [Commit] [db/seg: batch consecutive words to parallel AC workers (#21997)](https://github.com/erigontech/erigon/commit/d2bfea859532401c40debdc6fbca034b0c6cd56f) - 2026-08-07
+* [Pull Request] [db/state: persist domain file cache across rotxs and merges](https://github.com/erigontech/erigon/pull/23115) - 2026-08-08
 ## Q2 2026
 
 

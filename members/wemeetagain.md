@@ -151,6 +151,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/546#pullrequestreview-4885249248) - 2026-08-07
 * [Review] [Review on: fix(bls): enforce 32-byte signing roots](https://github.com/ChainSafe/lodestar-z/pull/545#pullrequestreview-4885256560) - 2026-08-07
 * [Pull Request] [chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/544) - 2026-08-07
+* [Commit] [chore: avoid slow tests in AGENTS.md (#546)](https://github.com/ChainSafe/lodestar-z/commit/c60f2a9dae9b131b716e802e22c6d37c850d6dd8) - 2026-08-08
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

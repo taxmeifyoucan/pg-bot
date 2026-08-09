@@ -86,6 +86,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [stateless: Fix missing account reads in witness generation](https://github.com/status-im/nimbus-eth1/pull/4620) - 2026-08-07
 * [Commit] [Witness: Implement optimisation where touched code can be skipped (#4099)](https://github.com/status-im/nimbus-eth1/commit/1e8cfae3dfcc3ceda59f217a89f84e6031f8aca6) - 2026-08-07
 * [Commit] [stateless: Fix missing account reads in witness generation (#4620)](https://github.com/status-im/nimbus-eth1/commit/dbcfbced48f5b5f76890f6b61bb2c0cfa4cd67d1) - 2026-08-07
+* [Pull Request] [engine_api: Return INVALID status on newPayload decode failure](https://github.com/status-im/nimbus-eth1/pull/4623) - 2026-08-08
+* [Commit] [engine_api: Return INVALID status on newPayload decode failure (#4623)](https://github.com/status-im/nimbus-eth1/commit/abf34e121b5bd77f2a3310a15e5b69f4e71f44b9) - 2026-08-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

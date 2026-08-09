@@ -15,6 +15,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Performance improvements for zkEVM](https://github.com/NethermindEth/nethermind/pull/12450) - 2026-07-14
 * [Review] [Review on: ci: pin the zisk image to the last working digest](https://github.com/NethermindEth/nethermind/pull/12542#pullrequestreview-4752952049) - 2026-07-22
 * [Pull Request] [Draft: Performance improvements](https://github.com/NethermindEth/nethermind/pull/12688) - 2026-08-04
+* [Pull Request] [Performance and FP improvement for the latest bflat](https://github.com/NethermindEth/nethermind/pull/12747) - 2026-08-08
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Pull Request] [Documentation improvements](https://github.com/NethermindEth/bflat-riscv64/pull/31) - 2026-07-02
 * [Commit] [README: condense the Zisk postprocessing section](https://github.com/NethermindEth/bflat-riscv64/commit/81022cbfd76183a0a27fa1318a59a2672e8360f1) - 2026-07-02

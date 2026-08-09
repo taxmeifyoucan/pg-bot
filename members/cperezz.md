@@ -31,6 +31,7 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Pull Request] [feat(binary-trie): move all code chunks into the content-addressed code zone](https://github.com/ethereum/execution-specs/pull/3310) - 2026-08-05
 * [Review] [Review on: feat(binary-trie): store delegation indicators in the account header](https://github.com/ethereum/execution-specs/pull/3324#pullrequestreview-4871933967) - 2026-08-06
 * [Pull Request] [chore(binary-trie): merge forks/amsterdam into projects/binary-trie](https://github.com/ethereum/execution-specs/pull/3332) - 2026-08-07
+* [Pull Request] [binary(tests): delegation lifecycle, 2935 ring buffer, and chunking edges](https://github.com/ethereum/execution-specs/pull/3338) - 2026-08-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/pull/12027) - 2026-07-29
 

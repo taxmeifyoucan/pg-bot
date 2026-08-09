@@ -44,6 +44,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8279: Highlight block-size cap upfront](https://github.com/ethereum/EIPs/commit/4484909deb60e8266152f4b6eed2d79990af072b) - 2026-08-07
 * [Commit] [Update EIP-8146: Highlight sidecar benefits upfront](https://github.com/ethereum/EIPs/commit/13b14adce21c2022cc96a0b1409c3a7abd04bc52) - 2026-08-07
 * [Commit] [Update EIP-8131: Highlight block-size cap upfront](https://github.com/ethereum/EIPs/commit/96507525affbe67a41d9b90ee6a7ebd45ee2a421) - 2026-08-07
+* [Commit] [Update EIP-8250: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/commit/c9d962f194b9b167e045b3b68a7a292cdc4cec7f) - 2026-08-08
+* [Commit] [Update EIP-8272: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/commit/a96bfaebd23ab7b9d00c63108bc65a2129c42952) - 2026-08-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 
