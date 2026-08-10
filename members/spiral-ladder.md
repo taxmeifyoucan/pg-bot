@@ -44,6 +44,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat: gloas lc support](https://github.com/ChainSafe/lodestar/pull/9687#pullrequestreview-4863145793) - 2026-08-05
 * [Review] [Review on: chore: add debug log when proposer slashing production is skipped](https://github.com/ChainSafe/lodestar/pull/9789#pullrequestreview-4885422113) - 2026-08-07
 * [Review] [Review on: chore: bump libp2p-quic](https://github.com/ChainSafe/lodestar/pull/9784#pullrequestreview-4882372156) - 2026-08-07
+* [Review] [Review on: deps: bump @chainsafe/libp2p-quic to 2.1.3](https://github.com/ChainSafe/lodestar/pull/9792#pullrequestreview-4891106775) - 2026-08-09
+* [Review] [Review on: fix: bound network worker termination so shutdown can complete](https://github.com/ChainSafe/lodestar/pull/9790#pullrequestreview-4891067015) - 2026-08-09
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -126,6 +128,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/546#pullrequestreview-4885411203) - 2026-08-07
 * [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/544#pullrequestreview-4885089737) - 2026-08-07
 * [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/546#pullrequestreview-4889215580) - 2026-08-08
+* [Review] [Review on: test(state_transition): harden PKIX load bounds and document trust boundary](https://github.com/ChainSafe/lodestar-z/pull/549#pullrequestreview-4891288120) - 2026-08-09
 ## Q2 2026
 
 

@@ -32,6 +32,8 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Review] [Review on: feat(binary-trie): store delegation indicators in the account header](https://github.com/ethereum/execution-specs/pull/3324#pullrequestreview-4871933967) - 2026-08-06
 * [Pull Request] [chore(binary-trie): merge forks/amsterdam into projects/binary-trie](https://github.com/ethereum/execution-specs/pull/3332) - 2026-08-07
 * [Pull Request] [binary(tests): delegation lifecycle, 2935 ring buffer, and chunking edges](https://github.com/ethereum/execution-specs/pull/3338) - 2026-08-08
+* [Review] [Review on: binary(tests): delegation lifecycle, 2935 ring buffer, and chunking edges](https://github.com/ethereum/execution-specs/pull/3338#pullrequestreview-4891077281) - 2026-08-09
+* [Issue] [Backport fork-generic tests from projects/binary-trie to forks/amsterdam](https://github.com/ethereum/execution-specs/issues/3342) - 2026-08-09
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8297: point migration at EIP-8347, drop Verkle refs](https://github.com/ethereum/EIPs/pull/12027) - 2026-07-29
 

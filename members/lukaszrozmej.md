@@ -179,6 +179,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: `debug_trace*`: Fix phantom logs on frame revert](https://github.com/NethermindEth/nethermind/pull/12621#pullrequestreview-4882043394) - 2026-08-07
 * [Commit] [Only accept the requested header in FetchHeaderFromPeer (#12730)](https://github.com/NethermindEth/nethermind/commit/7b5be58c5cbc8292ef95bc88a2ed57b334b55702) - 2026-08-07
 * [Commit] [Snap sync: reject storage range responses with unmatched slot lists (#12729)](https://github.com/NethermindEth/nethermind/commit/8934dc2229b0abc4dc66a4fe1da65340e9f78776) - 2026-08-07
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12751#pullrequestreview-4890952232) - 2026-08-09
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12752#pullrequestreview-4890950900) - 2026-08-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

@@ -72,6 +72,9 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: debug: add debug_executionWitness spec](https://github.com/ethereum/execution-apis/pull/847#pullrequestreview-4792119037) - 2026-07-27
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [L1-zkEVM breakout #07, August 12, 2026](https://github.com/ethereum/pm/issues/2184) - 2026-08-09
 ## Q2 2026
 
 

@@ -152,6 +152,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Remove default fields from the Store](https://github.com/ethereum/consensus-specs/pull/5519#pullrequestreview-4877251972) - 2026-08-06
 * [Pull Request] [Replace remerkleable with `ssz-specs`](https://github.com/ethereum/consensus-specs/pull/5518) - 2026-08-06
 * [Pull Request] [Replace remerkleable with eth-ssz-specs](https://github.com/ethereum/consensus-specs/pull/5520) - 2026-08-07
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5521#pullrequestreview-4893025200) - 2026-08-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

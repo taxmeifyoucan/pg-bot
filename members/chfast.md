@@ -96,6 +96,17 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [Build the precompiles with -O1 in Debug configurations](https://github.com/ipsilon/evmone/pull/1619) - 2026-08-07
 * [Pull Request] [keccak: Absorb the final partial word without a byte copy](https://github.com/ipsilon/evmone/pull/1620) - 2026-08-08
 * [Commit] [Build the cryptography code with -O1 in Debug configurations (#1619)](https://github.com/ipsilon/evmone/commit/8cc8e36269635a3da53864dad2701e96b52944df) - 2026-08-08
+* [Pull Request] [test: Check why a blockchain test block was rejected](https://github.com/ipsilon/evmone/pull/1623) - 2026-08-09
+* [Pull Request] [test: Check why a state test transaction was rejected](https://github.com/ipsilon/evmone/pull/1621) - 2026-08-09
+* [Pull Request] [test: Unify the JSON loaders' optional-key helper](https://github.com/ipsilon/evmone/pull/1622) - 2026-08-09
+* [Review] [Review on: test: Unify the JSON loaders' optional-key helper](https://github.com/ipsilon/evmone/pull/1622#pullrequestreview-4892714200) - 2026-08-09
+* [Review] [Review on: crypto: Use fixed-window exponentiation in modexp](https://github.com/ipsilon/evmone/pull/1618#pullrequestreview-4891990587) - 2026-08-09
+* [Review] [Review on: ci: Upgrade execution-specs to tests@v20.0.1](https://github.com/ipsilon/evmone/pull/1579#pullrequestreview-4891455524) - 2026-08-09
+* [Review] [Review on: state: Recover sender address from transaction signature](https://github.com/ipsilon/evmone/pull/1615#pullrequestreview-4891356859) - 2026-08-09
+* [Commit] [test: Unify the JSON loaders' optional-key helper (#1622)](https://github.com/ipsilon/evmone/commit/327d1a11dbf78141848f057c176e398d890f839a) - 2026-08-09
+* [Commit] [ci: Upgrade execution-specs to tests@v20.0.1 (#1579)](https://github.com/ipsilon/evmone/commit/a417e492d3ad49f37f82c05e036b90da86e12bd9) - 2026-08-09
+* [Commit] [state: Recover sender address from transaction signature (#1615)](https://github.com/ipsilon/evmone/commit/2a8217a4155e260498ed31a83bbc7382d491a0c1) - 2026-08-09
+* [Commit] [keccak: Rework absorption of the final input bytes (#1620)](https://github.com/ipsilon/evmone/commit/426c4da42916b4027d1f73fd4d9fe09f13892c38) - 2026-08-09
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

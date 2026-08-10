@@ -112,6 +112,11 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [QA: fix test race in case latest tests](https://github.com/erigontech/erigon/pull/22965) - 2026-08-07
 * [Commit] [QA: fix test race in case latest tests (#22965)](https://github.com/erigontech/erigon/commit/857eca25c2698430c2fc411a74494a7a9f374c57) - 2026-08-07
 * [Pull Request] [rpc/jsonrpc: add table-driven prune-mode endpoint availability test](https://github.com/erigontech/erigon/pull/23119) - 2026-08-08
+* [Pull Request] [rpc/jsonrpc: replay originally failed txns in overlay_getLogs when state overrides are present](https://github.com/erigontech/erigon/pull/23133) - 2026-08-09
+* [Pull Request] [rpc:  trace_callMany carry state to next call also when stateDiff not req](https://github.com/erigontech/erigon/pull/23121) - 2026-08-09
+* [Review] [Review on: execution/stagedsync: hand the trace sets to the apply result instead of copying](https://github.com/erigontech/erigon/pull/23092#pullrequestreview-4890701300) - 2026-08-09
+* [Pull Request] [cmd/evm: speed up TestEvmRun](https://github.com/erigontech/erigon/pull/23120) - 2026-08-09
+* [Commit] [rpc embedded: add https flags to embedded rpc (#23108)](https://github.com/erigontech/erigon/commit/77f1c630aa7268f019f400e841f12d774e31cff3) - 2026-08-09
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

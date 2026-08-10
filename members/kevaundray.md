@@ -84,6 +84,7 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: binary(tests): delegation lifecycle, 2935 ring buffer, and chunking edges](https://github.com/ethereum/execution-specs/pull/3338#pullrequestreview-4889165491) - 2026-08-08
 * [Issue] [EIP-161: Sending zero to an empty account](https://github.com/ethereum/execution-specs/issues/3341) - 2026-08-09
 * [Issue] [Consider extending test converage to execution-api tests](https://github.com/ethereum/execution-specs/issues/3339) - 2026-08-08
+* [Review] [Review on: binary(tests): delegation lifecycle, 2935 ring buffer, and chunking edges](https://github.com/ethereum/execution-specs/pull/3338#pullrequestreview-4891129546) - 2026-08-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716803581) - 2026-07-16
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737690816) - 2026-07-20

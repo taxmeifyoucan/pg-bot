@@ -755,6 +755,13 @@ Team: Erigon
 * [Commit] [p2p/enode: fix flaky TestFairMixRemoveSource (#23078)](https://github.com/erigontech/erigon/commit/af861730432c5050bc254923432423f995cd0462) - 2026-08-07
 * [Commit] [execution/state: skip the domain read when the tx already found no account (#23074)](https://github.com/erigontech/erigon/commit/ae845b7617d4438219629fad1b364b8979bcbf9b) - 2026-08-07
 * [Commit] [exec: calcFees to make less version-map locks (#23053)](https://github.com/erigontech/erigon/commit/a1361d43e41966ca395344ecaea1886c1e5be2db) - 2026-08-07
+* [Pull Request] [execution/stagedsync: skip the fee credit when the recorded set already carries it](https://github.com/erigontech/erigon/pull/23132) - 2026-08-09
+* [Pull Request] [[r3.6] execution/stagedsync: skip the fee credit when the recorded set already carries it](https://github.com/erigontech/erigon/pull/23131) - 2026-08-09
+* [Review] [Review on: build(deps): bump dompurify from 3.4.12 to 3.4.13 in /docs/site](https://github.com/erigontech/erigon/pull/23114#pullrequestreview-4891806904) - 2026-08-09
+* [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.83.4 to 0.85.4](https://github.com/erigontech/erigon/pull/23111#pullrequestreview-4891807139) - 2026-08-09
+* [Review] [Review on: db/seg: collapse compression workers=1 case into batched workers flow](https://github.com/erigontech/erigon/pull/23058#pullrequestreview-4891811129) - 2026-08-09
+* [Review] [Review on: rpc embedded: add https flags to embedded rpc](https://github.com/erigontech/erigon/pull/23108#pullrequestreview-4890419479) - 2026-08-09
+* [Commit] [execution/stagedsync: hand the trace sets to the apply result instead of copying (#23092)](https://github.com/erigontech/erigon/commit/af146efbc6f8577f728ac38c31f42bd22a377943) - 2026-08-09
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

@@ -241,6 +241,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: add debug log when proposer slashing production is skipped (#9789)](https://github.com/ChainSafe/lodestar/commit/47415586e0ab22f94dcc58623682084868389001) - 2026-08-07
 * [Commit] [feat: produce proposer slashings from observed equivocations (#9787)](https://github.com/ChainSafe/lodestar/commit/f0f5d069e2bd0d2f349c835dfbca4f7d512ca4a0) - 2026-08-07
 * [Commit] [feat: implement consensus_and_equivocation for blocks and payload envelopes (#9757)](https://github.com/ChainSafe/lodestar/commit/44e482c861dbef0d758f1ce02a73f87518214ec2) - 2026-08-07
+* [Review] [Review on: feat(builder): beacon node readiness, builder identity resolution and cli flags for execution fee recipient and request timeout](https://github.com/ChainSafe/lodestar/pull/9781#pullrequestreview-4891559925) - 2026-08-09
+* [Pull Request] [deps: bump @chainsafe/libp2p-quic to 2.1.3](https://github.com/ChainSafe/lodestar/pull/9792) - 2026-08-09
+* [Review] [Review on: fix: bound network worker termination so shutdown can complete](https://github.com/ChainSafe/lodestar/pull/9790#pullrequestreview-4891039247) - 2026-08-09
+* [Pull Request] [fix: force process exit when a worker thread can not be terminated](https://github.com/ChainSafe/lodestar/pull/9793) - 2026-08-09
+* [Pull Request] [fix: prevent stale payload roots from starving payload sync](https://github.com/ChainSafe/lodestar/pull/9791) - 2026-08-09
+* [Commit] [deps: bump @chainsafe/libp2p-quic to 2.1.3 (#9792)](https://github.com/ChainSafe/lodestar/commit/de5f89eae1cc6bd80d62124de5defeb8e2182297) - 2026-08-09
+* [Commit] [fix: bound network worker termination so shutdown can complete (#9790)](https://github.com/ChainSafe/lodestar/commit/eabf12abae9573f593024adb76a501e78a2a610f) - 2026-08-09
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
