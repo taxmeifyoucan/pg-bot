@@ -129,6 +129,9 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/544#pullrequestreview-4885089737) - 2026-08-07
 * [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/546#pullrequestreview-4889215580) - 2026-08-08
 * [Review] [Review on: test(state_transition): harden PKIX load bounds and document trust boundary](https://github.com/ChainSafe/lodestar-z/pull/549#pullrequestreview-4891288120) - 2026-08-09
+* [Review] [Review on: fix(bls): enforce 32-byte signing roots](https://github.com/ChainSafe/lodestar-z/pull/545#pullrequestreview-4896213314) - 2026-08-10
+* [Review] [Review on: fix(bls): make batch cardinality structural](https://github.com/ChainSafe/lodestar-z/pull/547#pullrequestreview-4894898285) - 2026-08-10
+* [Review] [Review on: perf(bindings): drop TS BLS comparison benches and report benchmarks on PRs](https://github.com/ChainSafe/lodestar-z/pull/552#pullrequestreview-4893516314) - 2026-08-10
 ## Q2 2026
 
 

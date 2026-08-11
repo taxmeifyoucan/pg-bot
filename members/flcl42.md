@@ -174,6 +174,16 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(dns): verify EIP-1459 subtree hashes](https://github.com/NethermindEth/nethermind/pull/12707#pullrequestreview-4873217729) - 2026-08-06
 * [Review] [Review on: Only accept the requested header in FetchHeaderFromPeer](https://github.com/NethermindEth/nethermind/pull/12730#pullrequestreview-4883015841) - 2026-08-07
 * [Review] [Review on: Snap sync: reject storage range responses with unmatched slot lists](https://github.com/NethermindEth/nethermind/pull/12729#pullrequestreview-4882789212) - 2026-08-07
+* [Review] [Review on: fix(rpc): estimate a frame transaction against the budget its frames fix](https://github.com/NethermindEth/nethermind/pull/12733#pullrequestreview-4899294206) - 2026-08-10
+* [Review] [Review on: fix(consensus): evict a frame transaction whose frames are rejected outright](https://github.com/NethermindEth/nethermind/pull/12753#pullrequestreview-4899212951) - 2026-08-10
+* [Review] [Review on: fix(txpool): scope the keyed-nonce domain across competition, readiness and reporting](https://github.com/NethermindEth/nethermind/pull/12749#pullrequestreview-4899087580) - 2026-08-10
+* [Review] [Review on: Simplify heavy-contract storage discovery: warm via prewarmer scopes](https://github.com/NethermindEth/nethermind/pull/12737#pullrequestreview-4898893692) - 2026-08-10
+* [Review] [Review on: Don't treat configured FinalTotalDifficulty as TTD reached](https://github.com/NethermindEth/nethermind/pull/12555#pullrequestreview-4898381537) - 2026-08-10
+* [Review] [Review on: fix(simulate): default a no-gas eth_simulateV1 call to the block gas budget (#12692)](https://github.com/NethermindEth/nethermind/pull/12722#pullrequestreview-4898170673) - 2026-08-10
+* [Pull Request] [Handle failed sender recovery](https://github.com/NethermindEth/nethermind/pull/12757) - 2026-08-10
+* [Review] [Review on: Handle failed sender recovery](https://github.com/NethermindEth/nethermind/pull/12757#pullrequestreview-4895694332) - 2026-08-10
+* [Pull Request] [Revalidate the txpool across fork boundaries](https://github.com/NethermindEth/nethermind/pull/12755) - 2026-08-10
+* [Commit] [Reject invalid fixed-size header RLP (#12579)](https://github.com/NethermindEth/nethermind/commit/bbe3b7e4ff83c7a6ea4c2d94808646644fd57971) - 2026-08-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -190,6 +200,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [feat(tests): EIP-7928 - cover system-address zero-tip coinbase BAL (#3239)](https://github.com/ethereum/execution-specs/commit/f79c4c7e9084b9b583a9232e128cc69caec71471) - 2026-07-29
 * [Commit] [feat(tests): pin flat 2D inclusion gate semantics (no intrinsic subtraction) (#3245)](https://github.com/ethereum/execution-specs/commit/05ec9375ae321da6f003aa9fbd7e9c3a3ee6c55d) - 2026-07-30
 * [Commit] [feat(tests): cover noncanonical deposit ABI offsets in eip6110 (#3240)](https://github.com/ethereum/execution-specs/commit/6fe02904f959b72658d8c83e0c653ede14966dba) - 2026-07-30
+* [Pull Request] [fix(tests): account for value in EIP-8070 transaction gas](https://github.com/ethereum/execution-specs/pull/3344) - 2026-08-10
+* [Commit] [fix(tests): account for value in EIP-8070 transaction gas (#3344)](https://github.com/ethereum/execution-specs/commit/ccaaaba58c748c072ca0ef9a09e91f9e3dcd277a) - 2026-08-10
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [p2p, engine: retry downloader and limit body batches](https://github.com/erigontech/erigon/pull/22679) - 2026-07-22
 
@@ -202,6 +214,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [all: stabilize execution sync interoperability (#1584)](https://github.com/ethereum/hive/commit/b9de78925b254a03376f4f7cf74522e201eba011) - 2026-07-23
 * [Pull Request] [Preserve Nethermind genesis slot number](https://github.com/ethereum/hive/pull/1592) - 2026-08-06
 * [Pull Request] [Use Geth-style genesis for Nethermind](https://github.com/ethereum/hive/pull/1593) - 2026-08-06
+* [Commit] [clients/nethermind: use geth style genesis mapper (#1593)](https://github.com/ethereum/hive/commit/654c734f99d98344b17b8601e9979d9564146fa4) - 2026-08-10
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix(eth): isolate protocol traffic by connection](https://github.com/besu-eth/besu/pull/10841) - 2026-07-22
 * [Pull Request] [fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843) - 2026-07-22

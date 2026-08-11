@@ -69,6 +69,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: add post proposer preferences](https://github.com/Consensys/teku/pull/11035#pullrequestreview-4867749606) - 2026-08-05
 * [Pull Request] [Remove CL permanent ban when cannot validate chain because of EL](https://github.com/Consensys/teku/pull/11064) - 2026-08-05
 * [Commit] [Fix fork choice equivocating votes update (#11058)](https://github.com/Consensys/teku/commit/832e54b8dc034ed501fbfc556cff9d5318806966) - 2026-08-05
+* [Pull Request] [Fast confirmation: tracker scaffolding (disabled by default)](https://github.com/Consensys/teku/pull/11073) - 2026-08-10
+* [Review] [Review on: Fast confirmation: tracker scaffolding (disabled by default)](https://github.com/Consensys/teku/pull/11073#pullrequestreview-4900188200) - 2026-08-10
+* [Commit] [FCR Tracker harness (#11066)](https://github.com/Consensys/teku/commit/b56f695f9ffc8df4f27f8d9f55a93e1ec0dcf6b4) - 2026-08-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

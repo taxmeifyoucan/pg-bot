@@ -33,6 +33,16 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: Gloas partial data columns](https://github.com/sigp/lighthouse/pull/9325#pullrequestreview-4855260395) - 2026-08-04
 * [Review] [Review on: ci: require AI assistance disclosure in PRs](https://github.com/sigp/lighthouse/pull/9260#pullrequestreview-4878779831) - 2026-08-06
 * [Issue] [Impl Gloas FCR](https://github.com/sigp/lighthouse/issues/9771) - 2026-08-07
+* [Review] [Review on: Add full epoch transition test to the EF tests](https://github.com/sigp/lighthouse/pull/9275#pullrequestreview-4897971782) - 2026-08-10
+* [Review] [Review on: Enable partials by default on custom networks](https://github.com/sigp/lighthouse/pull/9773#pullrequestreview-4897792901) - 2026-08-10
+* [Review] [Review on: Add base support for Heze block production](https://github.com/sigp/lighthouse/pull/9714#pullrequestreview-4898226104) - 2026-08-10
+* [Pull Request] [Tolerate empty sync aggregates in the basic simulator](https://github.com/sigp/lighthouse/pull/9781) - 2026-08-10
+* [Review] [Review on: Fix Phase0 nightly beacon chain tests](https://github.com/sigp/lighthouse/pull/9777#pullrequestreview-4898322491) - 2026-08-10
+* [Review] [Review on: Gloas: external builder API (payload bid selection and block production)](https://github.com/sigp/lighthouse/pull/9757#pullrequestreview-4898317863) - 2026-08-10
+* [Review] [Review on: FCR UX: track unconfirmations and standardize metric names](https://github.com/sigp/lighthouse/pull/9705#pullrequestreview-4898225894) - 2026-08-10
+* [Review] [Review on: make historical backfill DB writes crash-safe](https://github.com/sigp/lighthouse/pull/9776#pullrequestreview-4897806385) - 2026-08-10
+* [Review] [Review on: engine_forkchoiceUpdatedV4: provide custody columns to the EL](https://github.com/sigp/lighthouse/pull/9547#pullrequestreview-4897780331) - 2026-08-10
+* [Review] [Review on: Fix incorrect discv5 NAT status in /lighthouse/nat](https://github.com/sigp/lighthouse/pull/9303#pullrequestreview-4897477810) - 2026-08-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 ## Q2 2026

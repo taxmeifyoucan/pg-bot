@@ -92,6 +92,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Fix ROCKSDB_TREE storage for Gloas progressive container states (#11061)](https://github.com/Consensys/teku/commit/754c9aa9f6c000269f888d846318b2a844bca36b) - 2026-08-05
 * [Review] [Review on: Allow validator key directory to use single password file](https://github.com/Consensys/teku/pull/10990#pullrequestreview-4893008913) - 2026-08-10
 * [Review] [Review on: FCR Tracker harness](https://github.com/Consensys/teku/pull/11066#pullrequestreview-4892540465) - 2026-08-09
+* [Review] [Review on: Remove CL permanent ban when cannot validate chain because of EL](https://github.com/Consensys/teku/pull/11064#pullrequestreview-4902205253) - 2026-08-11
+* [Review] [Review on: Remove --deposit-snapshot-enabled and bundled deposit tree snapshots](https://github.com/Consensys/teku/pull/11068#pullrequestreview-4893565427) - 2026-08-10
+* [Review] [Review on: Validate voluntary exits using state fork](https://github.com/Consensys/teku/pull/11070#pullrequestreview-4893938188) - 2026-08-10
+* [Review] [Review on: Update CHANGELOG post 26.8.0 release](https://github.com/Consensys/teku/pull/11074#pullrequestreview-4902000823) - 2026-08-11
+* [Pull Request] [Initial implementation of block production for gloas](https://github.com/Consensys/teku/pull/11069) - 2026-08-10
+* [Review] [Review on: Initial implementation of block production for gloas](https://github.com/Consensys/teku/pull/11069#pullrequestreview-4893793529) - 2026-08-10
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

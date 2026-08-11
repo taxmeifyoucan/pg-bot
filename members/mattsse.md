@@ -245,6 +245,13 @@ Team: Reth
 * [Issue] [feat(txpool): add version-aware pooled transaction response preparation](https://github.com/paradigmxyz/reth/issues/26621) - 2026-08-07
 * [Pull Request] [fix(ci): resolve nightly Clippy failures](https://github.com/paradigmxyz/reth/pull/26625) - 2026-08-08
 * [Commit] [fix(ci): resolve nightly Clippy failures (#26625)](https://github.com/paradigmxyz/reth/commit/c7d94e622e0cd240961de7fa15d71d33ac900d07) - 2026-08-08
+* [Review] [Review on: fix(network): do check the ECIES id in hello](https://github.com/paradigmxyz/reth/pull/26639#pullrequestreview-4902110212) - 2026-08-11
+* [Pull Request] [ci: allow transitive bitmaps advisory](https://github.com/paradigmxyz/reth/pull/26638) - 2026-08-10
+* [Review] [Review on: feat(storage): add rocksdb BAL store](https://github.com/paradigmxyz/reth/pull/25476#pullrequestreview-4899836492) - 2026-08-10
+* [Pull Request] [chore: EIP - 8289 Warm Access Multiset Implementation In Reth](https://github.com/paradigmxyz/reth/pull/26637) - 2026-08-10
+* [Review] [Review on: fix(rpc): honor targetGasLimit in testing_buildBlockV1](https://github.com/paradigmxyz/reth/pull/26632#pullrequestreview-4898136033) - 2026-08-10
+* [Review] [Review on: feat(snapshots): resolve base url for static files](https://github.com/paradigmxyz/reth/pull/26576#pullrequestreview-4897659560) - 2026-08-10
+* [Commit] [ci: allow transitive bitmaps advisory (#26638)](https://github.com/paradigmxyz/reth/commit/ddb640bb3f75436e6e3f758e5e5c73785727fab1) - 2026-08-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

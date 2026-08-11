@@ -91,6 +91,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: handle 1st orphaned payload of blocks[0] in range sync](https://github.com/ChainSafe/lodestar/pull/9785) - 2026-08-07
 * [Commit] [feat: cache builder deposit signatures for gloas fork transition (#9727)](https://github.com/ChainSafe/lodestar/commit/49b1d65ffe0948868755ab3806e8807518c3a74c) - 2026-08-07
 * [Commit] [fix: handle 1st orphaned payload of blocks[0] in range sync (#9785)](https://github.com/ChainSafe/lodestar/commit/4da7a943baea8460a61f47c5c9b600de669c8bcf) - 2026-08-07
+* [Pull Request] [chore: track elapsed time for ptc and bid](https://github.com/ChainSafe/lodestar/pull/9796) - 2026-08-10
+* [Review] [Review on: feat: produce proposer slashings from observed equivocations](https://github.com/ChainSafe/lodestar/pull/9787#pullrequestreview-4893556791) - 2026-08-10
+* [Review] [Review on: feat: report parent_block_hash for safe/finalized post-Gloas](https://github.com/ChainSafe/lodestar/pull/9393#pullrequestreview-4894196011) - 2026-08-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

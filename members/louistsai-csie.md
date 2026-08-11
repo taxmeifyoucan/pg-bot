@@ -91,6 +91,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Issue] [Issue tracker for full benchmark test suite](https://github.com/ethereum/execution-specs/issues/3329) - 2026-08-06
 * [Review] [Review on: perf(test-forks): memoize per-fork gas costs](https://github.com/ethereum/execution-specs/pull/3303#pullrequestreview-4881507276) - 2026-08-07
 * [Commit] [refactor(test-rpc): unify batch request chunking (#3327)](https://github.com/ethereum/execution-specs/commit/4f17c37ad75b4224c4a0e80f665b65d02d4ccc9a) - 2026-08-07
+* [Review] [Review on: fix(tests): account for value in EIP-8070 transaction gas](https://github.com/ethereum/execution-specs/pull/3344#pullrequestreview-4895560681) - 2026-08-10
+* [Review] [Review on: feat(test-specs): Allow specs to fill same fixture format more than once, add `inclusion_test` marker](https://github.com/ethereum/execution-specs/pull/3337#pullrequestreview-4894232690) - 2026-08-10
+* [Review] [Review on: feat(test-benchmark): add stub account configuration, with state-actor example config](https://github.com/ethereum/execution-specs/pull/3203#pullrequestreview-4894688482) - 2026-08-10
+* [Review] [Review on: feat(test-logging,test-consume): add ms-precision lifecycle logging to consume enginex](https://github.com/ethereum/execution-specs/pull/3306#pullrequestreview-4894311336) - 2026-08-10
+* [Review] [Review on: refactor(test-rpc): unify batch request chunking [backport benchmarks/amsterdam]](https://github.com/ethereum/execution-specs/pull/3331#pullrequestreview-4893708340) - 2026-08-10
 ## Q2 2026
 
 

@@ -73,6 +73,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Handle transition tool exception and add slotnumber test (#4598)](https://github.com/status-im/nimbus-eth1/commit/cc2e43bf221965dec8574bfbd2443b11fe320a5c) - 2026-08-04
 * [Review] [Review on: fc time budgeting instead of capping](https://github.com/status-im/nimbus-eth1/pull/4588#pullrequestreview-4879432166) - 2026-08-07
 * [Review] [Review on: Use genesis block hash to validate network matches data directory](https://github.com/status-im/nimbus-eth1/pull/4622#pullrequestreview-4887784335) - 2026-08-08
+* [Pull Request] [Upgrade delete-artifact actions to v6](https://github.com/status-im/nimbus-eth1/pull/4627) - 2026-08-10
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

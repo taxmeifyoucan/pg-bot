@@ -181,6 +181,11 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Snap sync: reject storage range responses with unmatched slot lists (#12729)](https://github.com/NethermindEth/nethermind/commit/8934dc2229b0abc4dc66a4fe1da65340e9f78776) - 2026-08-07
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12751#pullrequestreview-4890952232) - 2026-08-09
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12752#pullrequestreview-4890950900) - 2026-08-09
+* [Review] [Review on: fix(simulate): route the EIP-7928 BAL path through the simulate tx adapter (#12692)](https://github.com/NethermindEth/nethermind/pull/12721#pullrequestreview-4895117833) - 2026-08-10
+* [Review] [Review on: Handle failed sender recovery](https://github.com/NethermindEth/nethermind/pull/12757#pullrequestreview-4896100472) - 2026-08-10
+* [Pull Request] [Fix flaky All_inserted_keys_retrievable_at_various_capacities cache test](https://github.com/NethermindEth/nethermind/pull/12756) - 2026-08-10
+* [Commit] [Return only the requested header from GetHeadBlockHeader (#12740)](https://github.com/NethermindEth/nethermind/commit/e91e71bc2a9c7289f2a4e693c99614d94c72e1ad) - 2026-08-10
+* [Commit] [Treat a null header answer as the block being absent (#12741)](https://github.com/NethermindEth/nethermind/commit/4d65fa1eabb977afecaa36be73d00c1a39cfdbfb) - 2026-08-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

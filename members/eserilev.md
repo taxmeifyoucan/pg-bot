@@ -79,6 +79,14 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Fix payload availability lookup using the parent block's slot (alpha.13)](https://github.com/sigp/lighthouse/pull/9761) - 2026-08-06
 * [Pull Request] [Skip EF tests below the top of a PR stack](https://github.com/sigp/lighthouse/pull/9765) - 2026-08-06
 * [Review] [Review on: Gloas alpha spec 12 changes](https://github.com/sigp/lighthouse/pull/9596#pullrequestreview-4871094190) - 2026-08-06
+* [Review] [Review on: Add inclusion list signature verification](https://github.com/sigp/lighthouse/pull/9743#pullrequestreview-4895994320) - 2026-08-10
+* [Review] [Review on: Add in-memory inclusion list store](https://github.com/sigp/lighthouse/pull/9744#pullrequestreview-4896283604) - 2026-08-10
+* [Review] [Review on: Add inclusion list committee derivation](https://github.com/sigp/lighthouse/pull/9742#pullrequestreview-4895181325) - 2026-08-10
+* [Review] [Review on: Rename max IL transactions bytes constant per spec change](https://github.com/sigp/lighthouse/pull/9741#pullrequestreview-4895795340) - 2026-08-10
+* [Review] [Review on: Tolerate empty sync aggregates in the basic simulator](https://github.com/sigp/lighthouse/pull/9781#pullrequestreview-4898738069) - 2026-08-10
+* [Review] [Review on: Deduplicate execution payload envelopes on gossip](https://github.com/sigp/lighthouse/pull/9775#pullrequestreview-4896929322) - 2026-08-10
+* [Review] [Review on: Add dependent root check to proposer preferences validation (alpha.13)](https://github.com/sigp/lighthouse/pull/9760#pullrequestreview-4895005394) - 2026-08-10
+* [Review] [Review on: Rename inclusion_list_committee_root to dependent_root per spec change](https://github.com/sigp/lighthouse/pull/9774#pullrequestreview-4895146299) - 2026-08-10
 ## Q2 2026
 
 

@@ -39,6 +39,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: release v1.46.0](https://github.com/ChainSafe/lodestar/pull/9788) - 2026-08-07
 * [Pull Request] [chore: bump libp2p-quic](https://github.com/ChainSafe/lodestar/pull/9784) - 2026-08-07
 * [Commit] [chore: bump libp2p-quic (#9784)](https://github.com/ChainSafe/lodestar/commit/8c06abb8771f3a87a3f59b0ba23690489c7c0196) - 2026-08-07
+* [Review] [Review on: test: update fast confirmation spec tests to v1.7.0-alpha.13](https://github.com/ChainSafe/lodestar/pull/9778#pullrequestreview-4901113118) - 2026-08-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

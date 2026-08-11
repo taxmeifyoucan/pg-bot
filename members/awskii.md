@@ -224,6 +224,14 @@ Team: Erigon
 * [Review] [Review on: [wip] execution/state: range-scan the destruct in versionedStateReader reads](https://github.com/erigontech/erigon/pull/23072#pullrequestreview-4879912349) - 2026-08-07
 * [Commit] [cl, db: caplin snapshot pre-fixes and CaplinSnapshots on BaseRoSnapshots (#22944)](https://github.com/erigontech/erigon/commit/30b64a9fc2ba393d0c754e15e4f3566725225418) - 2026-08-07
 * [Commit] [db/kv/rawdbv3: fix nil-cursor branch shadowing the cursor in MaxTxNum (#23076)](https://github.com/erigontech/erigon/commit/67b548097b835aa66a9304bc673a8ceeb5f33d8a) - 2026-08-07
+* [Review] [Review on: execution/commitment: fix wave-BFS livelock when a step budget fills exactly](https://github.com/erigontech/erigon/pull/23066#pullrequestreview-4895997552) - 2026-08-10
+* [Review] [Review on: execution/commitment: lower deepStorageThreshold to 128](https://github.com/erigontech/erigon/pull/23141#pullrequestreview-4896065386) - 2026-08-10
+* [Review] [Review on: all: enable and resolve uncheckedInlineErr, preferStringWriter, preferFprint, and deprecatedComment linter checks](https://github.com/erigontech/erigon/pull/23097#pullrequestreview-4897255472) - 2026-08-10
+* [Pull Request] [execution/stagedsync: drain block requests before the result that races them](https://github.com/erigontech/erigon/pull/23148) - 2026-08-10
+* [Review] [Review on: execution/stagedsync: drain block requests before the result that races them](https://github.com/erigontech/erigon/pull/23148#pullrequestreview-4897693998) - 2026-08-10
+* [Review] [Review on: [wip] execution/state: range-scan the destruct in versionedStateReader reads](https://github.com/erigontech/erigon/pull/23072#pullrequestreview-4897816447) - 2026-08-10
+* [Review] [Review on: execution/execmodule, node: remove the FCU background flush/commit path](https://github.com/erigontech/erigon/pull/23051#pullrequestreview-4895352061) - 2026-08-10
+* [Pull Request] [rpc/jsonrpc: debug_executionWitness for the binary trie](https://github.com/erigontech/erigon/pull/23136) - 2026-08-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

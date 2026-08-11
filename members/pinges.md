@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Commit] [Make checkpoint available in ThreadBesuNodeRunner (#10916)](https://github.com/besu-eth/besu/commit/ae185011d49fa1f826737510b96214c88f1c39c1) - 2026-07-31
 * [Commit] [Checkpoint cli option (#10874)](https://github.com/besu-eth/besu/commit/ed6d695d3f12eeedaffa847483cbad4173b6c66e) - 2026-07-30
 * [Pull Request] [CLI option for snap download headers to checkpoint only](https://github.com/besu-eth/besu/pull/10958) - 2026-08-03
+* [Review] [Review on: Do not start backward sync until initial sync is done](https://github.com/besu-eth/besu/pull/10944#pullrequestreview-4898118564) - 2026-08-10
 ## Q2 2026
 
 

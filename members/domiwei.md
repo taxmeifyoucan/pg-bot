@@ -65,6 +65,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/ssz, common/ssz, engineapi: add recursive SSZ offset and length validation](https://github.com/erigontech/erigon/pull/22988#pullrequestreview-4861701018) - 2026-08-05
 * [Commit] [cl: support Gloas alpha.12 progressive SSZ and spectests (#22912)](https://github.com/erigontech/erigon/commit/22ec7a495ee5be6a3e9092017b172fa3aeb13752) - 2026-08-05
 * [Review] [Review on: cl, db: caplin snapshot pre-fixes and CaplinSnapshots on BaseRoSnapshots](https://github.com/erigontech/erigon/pull/22944#pullrequestreview-4871731354) - 2026-08-06
+* [Pull Request] [cl/forkchoice: harden Gloas envelope persistence](https://github.com/erigontech/erigon/pull/23152) - 2026-08-10
+* [Pull Request] [cl/phase1: recover unverified Gloas payloads across forks](https://github.com/erigontech/erigon/pull/23151) - 2026-08-10
+* [Review] [Review on: cl/beacon: prime the execution layer before a slot this node proposes](https://github.com/erigontech/erigon/pull/23105#pullrequestreview-4895969566) - 2026-08-10
+* [Pull Request] [cl/beacon, cl/network: fix blob history backfill boundary](https://github.com/erigontech/erigon/pull/23138) - 2026-08-10
+* [Review] [Review on: db/kv/mdbx: embed mdbx.Cursor by value in MdbxCursor](https://github.com/erigontech/erigon/pull/23015#pullrequestreview-4894950017) - 2026-08-10
+* [Review] [Review on: cl/merkle_tree: add EIP-7495 ProgressiveContainer root](https://github.com/erigontech/erigon/pull/23130#pullrequestreview-4895607587) - 2026-08-10
+* [Review] [Review on: execution/vm: memoize InternAddress by stack word in a per-EVM cache](https://github.com/erigontech/erigon/pull/22900#pullrequestreview-4894950002) - 2026-08-10
+* [Review] [Review on: cl/beacon: don't refetch the execution client version after a race](https://github.com/erigontech/erigon/pull/22957#pullrequestreview-4894433222) - 2026-08-10
+* [Review] [Review on: cl/merkle_tree: add progressive byte list root](https://github.com/erigontech/erigon/pull/22783#pullrequestreview-4894433243) - 2026-08-10
 ## Q2 2026
 
 

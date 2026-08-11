@@ -74,6 +74,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add gossip domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8858#pullrequestreview-4883257242) - 2026-08-07
 * [Pull Request] [don't wait on futures which won't arrive](https://github.com/status-im/nimbus-eth2/pull/8854) - 2026-08-07
 * [Review] [Review on:  update gossip validation for v1.7.0-alpha.13](https://github.com/status-im/nimbus-eth2/pull/8860#pullrequestreview-4889801140) - 2026-08-08
+* [Review] [Review on: Syncing v3p6 (sync dag).](https://github.com/status-im/nimbus-eth2/pull/8869#pullrequestreview-4901453108) - 2026-08-10
+* [Review] [Review on: derive attestation index from payload status](https://github.com/status-im/nimbus-eth2/pull/8865#pullrequestreview-4899417528) - 2026-08-10
+* [Review] [Review on: track column verification state per `popSidecars`](https://github.com/status-im/nimbus-eth2/pull/8841#pullrequestreview-4899555092) - 2026-08-10
+* [Review] [Review on: nix: add light-client target to flake pkgs and to the nix CI](https://github.com/status-im/nimbus-eth2/pull/8868#pullrequestreview-4898902835) - 2026-08-10
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

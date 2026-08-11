@@ -65,6 +65,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: increased cache size to a more reasonable size for current mainnet state](https://github.com/Consensys/teku/pull/11051#pullrequestreview-4851068317) - 2026-08-04
 * [Commit] [Add execution payload provider into combined chain data (#11052)](https://github.com/Consensys/teku/commit/134c173d4d0e206e4d90c698d6371ada1abac451) - 2026-08-05
 * [Pull Request] [Remove --deposit-snapshot-enabled and bundled deposit tree snapshots](https://github.com/Consensys/teku/pull/11068) - 2026-08-06
+* [Review] [Review on: Remove --deposit-snapshot-enabled and bundled deposit tree snapshots](https://github.com/Consensys/teku/pull/11068#pullrequestreview-4893982640) - 2026-08-10
+* [Pull Request] [Validate voluntary exits using state fork](https://github.com/Consensys/teku/pull/11070) - 2026-08-10
 ## Q2 2026
 
 

@@ -49,6 +49,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #821 from ethpandaops/bbusa/el-bpo-schedule](https://github.com/ethpandaops/dora/commit/31be3fe48f41638c9ebd1856fd2617c91cadde07) - 2026-08-07
 * [Commit] [Merge branch 'master' into bbusa/el-bpo-schedule](https://github.com/ethpandaops/dora/commit/416fb0c545733d8c1be219139992277ccf82ff02) - 2026-08-07
 * [Commit] [Merge pull request #825 from ethpandaops/pk910/seen-rendering](https://github.com/ethpandaops/dora/commit/39a5e1656467f019ad8dad0aaf975683c74eea57) - 2026-08-07
+* [Pull Request] [fix(validators-summary): correct proposal accuracy; add separate payload delivery metric](https://github.com/ethpandaops/dora/pull/828) - 2026-08-10
+* [Commit] [Merge pull request #828 from ethpandaops/bbusa/fix-proposal-accuracy](https://github.com/ethpandaops/dora/commit/a58f318a2536906e77f703107f198553dafd388c) - 2026-08-10
+* [Commit] [Merge branch 'master' into bbusa/fix-proposal-accuracy](https://github.com/ethpandaops/dora/commit/8f5871fdde6b2e18df627db991baffd788a22a98) - 2026-08-10
+* [Commit] [Merge pull request #830 from ethpandaops/pk910/proposal-accuracy-rework](https://github.com/ethpandaops/dora/commit/fc2a994e0c1be3e6ef1eba002526825a0d737c5e) - 2026-08-10
+* [Commit] [chore: trigger docker image build](https://github.com/ethpandaops/dora/commit/5f6ff3f6964d5ebbad22972e3ef46224e87a118d) - 2026-08-10
+* [Commit] [feat(validators-summary): separate payload delivery metric (Gloas)](https://github.com/ethpandaops/dora/commit/ee1327bc5db4a235c8e9971e69b4d30c9a92a183) - 2026-08-10
+* [Commit] [fix(validators-summary): skip pruned slots, cap duties at epoch length](https://github.com/ethpandaops/dora/commit/3700f2c626675ed67dd6e638191af4fc3aaf4cef) - 2026-08-10
+* [Commit] [fix(validators-summary): correct proposal accuracy over-/undercounting](https://github.com/ethpandaops/dora/commit/e11e5b8232901bdeb7501c5e281bfbc95b482636) - 2026-08-10
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 

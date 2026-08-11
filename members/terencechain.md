@@ -170,6 +170,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: spectest alpha 12 compliance (spec pin bump and assorted fix commits)](https://github.com/OffchainLabs/prysm/pull/17310#pullrequestreview-4877582942) - 2026-08-06
 * [Review] [Review on: Move Gloas spec tests into their own packages](https://github.com/OffchainLabs/prysm/pull/17309#pullrequestreview-4877499821) - 2026-08-06
 * [Pull Request] [Recover initial sync when head is on a bad fork](https://github.com/OffchainLabs/prysm/pull/17324) - 2026-08-08
+* [Review] [Review on: Recover initial sync when head is on a bad fork](https://github.com/OffchainLabs/prysm/pull/17324#pullrequestreview-4897703393) - 2026-08-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

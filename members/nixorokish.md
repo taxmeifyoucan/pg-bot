@@ -51,6 +51,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Update EIP-8081: PFI EIP-8359](https://github.com/ethereum/EIPs/pull/12071#pullrequestreview-4879206393) - 2026-08-07
 * [Review] [Review on: Update EIP-8081: PFI EIP-8361](https://github.com/ethereum/EIPs/pull/12087#pullrequestreview-4889080116) - 2026-08-08
 * [Review] [Review on: Update EIP-7773: Add polar bear mascot](https://github.com/ethereum/EIPs/pull/12116#pullrequestreview-4889074510) - 2026-08-08
+* [Commit] [Update EIP-7666: Move to Draft](https://github.com/ethereum/EIPs/commit/002b27b5e70e97b4b86038636cdcb0d47ff8ba45) - 2026-08-11
 ## Q2 2026
 
 

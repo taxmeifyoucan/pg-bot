@@ -40,6 +40,11 @@ Team: Consensus R&D (EF)
 * [Review] [Review on: Update EIP-8297: store delegation indicators in the account header](https://github.com/ethereum/EIPs/pull/12114#pullrequestreview-4872617073) - 2026-08-06
 * [Commit] [Update EIP-8297: Add a small note on reserved fields in the header](https://github.com/ethereum/EIPs/commit/2c6da5e9c71d4df50556e217e265917d13c4ca78) - 2026-08-06
 * [Pull Request] [Update EIP-7709: Remove verkle wording](https://github.com/ethereum/EIPs/pull/12129) - 2026-08-07
+* [Review] [Review on: Update EIP-7666: Move to Draft](https://github.com/ethereum/EIPs/pull/12089#pullrequestreview-4902084211) - 2026-08-11
+* [Review] [Review on: Update EIP-7666: Add required PUSH0 EIP](https://github.com/ethereum/EIPs/pull/9165#pullrequestreview-4902095574) - 2026-08-11
+* [Pull Request] [Update EIP-7666: Add author](https://github.com/ethereum/EIPs/pull/12137) - 2026-08-11
+* [Commit] [Update EIP-7666: Add author](https://github.com/ethereum/EIPs/commit/17cf419a3413184e8bb75f11e1fa9c2b5bfde942) - 2026-08-11
+* [Commit] [Add EIP: Hash-Chain RANDAO](https://github.com/ethereum/EIPs/commit/bd90171e51aabafad9043b8b47acdb6e6eb724f6) - 2026-08-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14
@@ -100,6 +105,9 @@ Team: Consensus R&D (EF)
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [feat(hegota): Implement 7709](https://github.com/NethermindEth/nethermind/pull/12742) - 2026-08-07
 * [Review] [Review on: feat(hegota): Implement 7709](https://github.com/NethermindEth/nethermind/pull/12742#pullrequestreview-4886871541) - 2026-08-07
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896171742) - 2026-08-10
 ## Q2 2026
 
 

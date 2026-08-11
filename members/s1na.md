@@ -15,6 +15,9 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [cmd/utils: tune GOGC for large cache values (#34851)](https://github.com/ethereum/go-ethereum/commit/c3f28518726a1ffe0051282f66666abb88710d18) - 2026-07-14
 * [Pull Request] [.github: rm s1na from CODEOWNERS](https://github.com/ethereum/go-ethereum/pull/35365) - 2026-07-15
 * [Commit] [.github: rm s1na from CODEOWNERS (#35365)](https://github.com/ethereum/go-ethereum/commit/06b23b4293950d8c08b624b90f310d1e918048e8) - 2026-07-15
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Commit] [eth: add eth_subscribe and unsubscribe methods (#797)](https://github.com/ethereum/execution-apis/commit/ac29a940c2789577ef52fb054221a5e20c146948) - 2026-08-10
 ## Q2 2026
 
 

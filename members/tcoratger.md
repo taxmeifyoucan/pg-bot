@@ -95,6 +95,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: refactor(stir): cleanup crate and revamp prover/verifier](https://github.com/Plonky3/Plonky3/pull/1975#pullrequestreview-4858333496) - 2026-08-04
 * [Review] [Review on: feat(multi-stark): fractional gkr](https://github.com/Plonky3/Plonky3/pull/1974#pullrequestreview-4857306923) - 2026-08-04
 * [Review] [Review on: perf(stir): add a couple improvements to the STIR PCS](https://github.com/Plonky3/Plonky3/pull/1973#pullrequestreview-4857279489) - 2026-08-04
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
+* [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10
 ## Q2 2026
 
 

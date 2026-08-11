@@ -248,6 +248,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: prevent stale payload roots from starving payload sync](https://github.com/ChainSafe/lodestar/pull/9791) - 2026-08-09
 * [Commit] [deps: bump @chainsafe/libp2p-quic to 2.1.3 (#9792)](https://github.com/ChainSafe/lodestar/commit/de5f89eae1cc6bd80d62124de5defeb8e2182297) - 2026-08-09
 * [Commit] [fix: bound network worker termination so shutdown can complete (#9790)](https://github.com/ChainSafe/lodestar/commit/eabf12abae9573f593024adb76a501e78a2a610f) - 2026-08-09
+* [Review] [Review on: test: mimic http client error body in mockApiErrorResponse](https://github.com/ChainSafe/lodestar/pull/9798#pullrequestreview-4900062043) - 2026-08-10
+* [Pull Request] [fix: harden safe execution block hash handling](https://github.com/ChainSafe/lodestar/pull/9794) - 2026-08-10
+* [Pull Request] [chore: address block validation and equivocation follow-ups](https://github.com/ChainSafe/lodestar/pull/9795) - 2026-08-10
+* [Review] [Review on: chore: address block validation and equivocation follow-ups](https://github.com/ChainSafe/lodestar/pull/9795#pullrequestreview-4895005877) - 2026-08-10
+* [Review] [Review on: chore(deps): bump the actions group with 4 updates](https://github.com/ChainSafe/lodestar/pull/9797#pullrequestreview-4898241694) - 2026-08-10
+* [Review] [Review on: chore: track elapsed time for ptc and bid](https://github.com/ChainSafe/lodestar/pull/9796#pullrequestreview-4895891460) - 2026-08-10
+* [Review] [Review on: feat: produce proposer slashings from observed equivocations](https://github.com/ChainSafe/lodestar/pull/9787#pullrequestreview-4895027361) - 2026-08-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -295,6 +302,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Update EIP-8081: Propose EIP-8333 for inclusion](https://github.com/ethereum/EIPs/pull/12044#pullrequestreview-4829219200) - 2026-07-31
 * [Review] [Review on: Update EIP-8333: Clarify EIP-8333 boundary rationale](https://github.com/ethereum/EIPs/pull/12090#pullrequestreview-4857115320) - 2026-08-04
 * [Review] [Review on: Update EIP-8282: Move to Review](https://github.com/ethereum/EIPs/pull/12108#pullrequestreview-4864537143) - 2026-08-05
+* [Review] [Review on: Update EIP-1: allow links to sys-asm](https://github.com/ethereum/EIPs/pull/12021#pullrequestreview-4897800814) - 2026-08-10
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 

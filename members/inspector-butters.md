@@ -43,6 +43,9 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Issue] [Handle ActiveFields checks for > gloas forks in progressive methods](https://github.com/OffchainLabs/prysm/issues/17301) - 2026-08-05
 * [Issue] [Handle version checks for > gloas forks in progressive methods](https://github.com/OffchainLabs/prysm/issues/17300) - 2026-08-05
 * [Review] [Review on: Add proto/prysm/wrappers for proto-typed HTR helpers](https://github.com/OffchainLabs/prysm/pull/17304#pullrequestreview-4875100942) - 2026-08-06
+* [Review] [Review on: Cache progressive merkleization for state fields](https://github.com/OffchainLabs/prysm/pull/17306#pullrequestreview-4897762580) - 2026-08-10
+* [Pull Request] [optimize recomputeProgressiveOverlay hashing](https://github.com/OffchainLabs/prysm/pull/17330) - 2026-08-10
+* [Review] [Review on: `--beacon-db-pruning`: Prune state diff buckets when the `--enable-state-diff` flag is used.](https://github.com/OffchainLabs/prysm/pull/17289#pullrequestreview-4898099183) - 2026-08-10
 ## Q2 2026
 
 

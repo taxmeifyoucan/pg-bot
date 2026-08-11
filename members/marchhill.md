@@ -89,6 +89,19 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: EIP-8141: blob-pool routing, sidecar, and production budget for blob-carrying frame transactions](https://github.com/NethermindEth/nethermind/pull/12709#pullrequestreview-4878166940) - 2026-08-06
 * [Review] [Review on: EIP-8141: statically reject approval scope on atomic-batch frames](https://github.com/NethermindEth/nethermind/pull/12703#pullrequestreview-4878007204) - 2026-08-06
 * [Review] [Review on: EIP-8141: align SIGPARAM copy operand order with CALLDATACOPY](https://github.com/NethermindEth/nethermind/pull/12700#pullrequestreview-4877985885) - 2026-08-06
+* [Pull Request] [feat(eip8141): implement type-6 blob network wrapper and proof validation](https://github.com/NethermindEth/nethermind/pull/12758) - 2026-08-10
+* [Review] [Review on: feat(eip8141): implement type-6 blob network wrapper and proof validation](https://github.com/NethermindEth/nethermind/pull/12758#pullrequestreview-4896764859) - 2026-08-10
+* [Pull Request] [fix(cache): preserve live entries during racing AssociativeCache Clear()](https://github.com/NethermindEth/nethermind/pull/12767) - 2026-08-10
+* [Review] [Review on: fix(rpc): estimate a frame transaction against the budget its frames fix](https://github.com/NethermindEth/nethermind/pull/12733#pullrequestreview-4895633414) - 2026-08-10
+* [Review] [Review on: fix(consensus): install the EIP-8272 recent-root predeploy at activation](https://github.com/NethermindEth/nethermind/pull/12732#pullrequestreview-4895600846) - 2026-08-10
+* [Review] [Review on: fix(evm): report a frame transaction's state gas in the block's state dimension](https://github.com/NethermindEth/nethermind/pull/12746#pullrequestreview-4895877239) - 2026-08-10
+* [Review] [Review on: feat(rlp): decode the EIP-8272 recent-root references of a frame transaction](https://github.com/NethermindEth/nethermind/pull/12655#pullrequestreview-4898766820) - 2026-08-10
+* [Review] [Review on: fix(evm): report frame instructions to the tracer](https://github.com/NethermindEth/nethermind/pull/12736#pullrequestreview-4895697340) - 2026-08-10
+* [Review] [Review on: feat(rlp): decode the EIP-8250 keyed-nonce frame transaction envelope](https://github.com/NethermindEth/nethermind/pull/12653#pullrequestreview-4898500048) - 2026-08-10
+* [Pull Request] [feat(evm): add EIP-7906 TXTRACE/TXDIFF/EVENTDATACOPY opcodes](https://github.com/NethermindEth/nethermind/pull/12759) - 2026-08-10
+* [Review] [Review on: Specify the EIP-8272 RECENT_ROOT_CODE predeploy body](https://github.com/NethermindEth/nethermind/pull/12743#pullrequestreview-4895755823) - 2026-08-10
+* [Review] [Review on: fix(consensus): exempt frame transactions from the producer's sender-account checks](https://github.com/NethermindEth/nethermind/pull/12748#pullrequestreview-4895814076) - 2026-08-10
+* [Commit] [feat: add built-in portfolio viewer UI at /portfolio (#12360)](https://github.com/NethermindEth/nethermind/commit/76c7cdb4ca52c6ea2e3752064acb68499b2aba5f) - 2026-08-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -102,6 +115,12 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8141: pin the initial accessed_addresses set for frame transactions](https://github.com/ethereum/EIPs/pull/12113) - 2026-08-05
 * [Pull Request] [Update EIP-8141: statically disallow approval scope on atomic-batch frames](https://github.com/ethereum/EIPs/pull/12109) - 2026-08-05
 * [Commit] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/commit/115174e36f14c67a7cda1d54a37a4eae37885799) - 2026-08-05
+* [Pull Request] [Update EIP-7906: define `contracts_deployed` precisely and specify absent-topic halts](https://github.com/ethereum/EIPs/pull/12134) - 2026-08-10
+* [Pull Request] [Update EIP-7906: specify EIP-7928 recording of TXDIFF state reads](https://github.com/ethereum/EIPs/pull/12133) - 2026-08-10
+* [Pull Request] [Update EIP-7906: specify handling of reserved `must be 0` inputs](https://github.com/ethereum/EIPs/pull/12132) - 2026-08-10
+* [Commit] [Update EIP-7906: define `contracts_deployed` precisely and specify absent-topic halts](https://github.com/ethereum/EIPs/commit/4cb50077ebfedd47ea0473038c080b1d985108de) - 2026-08-10
+* [Commit] [Update EIP-7906: specify EIP-7928 recording of TXDIFF state reads](https://github.com/ethereum/EIPs/commit/5d4e0e613cdedc30733db6f382c47379ebb5c31c) - 2026-08-10
+* [Commit] [Update EIP-7906: specify handling of reserved `must be 0` inputs](https://github.com/ethereum/EIPs/commit/bf6b73a8cd122c70ff2404b9483107f37396210e) - 2026-08-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 * [Commit] [feat(tests): add EIP-8037 spill-refund accounting coverage (#3158)](https://github.com/ethereum/execution-specs/commit/610cd779baff95f99c85442dd2fa8cc8146260b2) - 2026-07-30

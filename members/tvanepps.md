@@ -8,6 +8,21 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 
 ## Contributions
 
+## Q3 2026
+
+
+[protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
+* [Pull Request] [Update 20260810-announcing-ACD-Fund-and-Nixo-Support.md](https://github.com/protocolguild/protocol-guild-site/pull/77) - 2026-08-10
+* [Pull Request] [Delete public/ACD-FUND.png](https://github.com/protocolguild/protocol-guild-site/pull/76) - 2026-08-10
+* [Pull Request] [Create 20260810-announcing-ACD-Fund-and-Nixo-Support.md](https://github.com/protocolguild/protocol-guild-site/pull/75) - 2026-08-10
+* [Commit] [Merge pull request #77 from protocolguild/tvanepps-patch-1](https://github.com/protocolguild/protocol-guild-site/commit/22f4cefe32fe6e7eca269dc4853c57756a4a4f09) - 2026-08-10
+* [Commit] [Update 20260810-announcing-ACD-Fund-and-Nixo-Support.md](https://github.com/protocolguild/protocol-guild-site/commit/c2d7d8f24909f742f561722aa4a8d045d40258f1) - 2026-08-10
+* [Commit] [Add files via upload](https://github.com/protocolguild/protocol-guild-site/commit/afe6eb00652fa6fbb64690eabc8eccc39477b310) - 2026-08-10
+* [Commit] [Merge pull request #76 from protocolguild/tvanepps-patch-1](https://github.com/protocolguild/protocol-guild-site/commit/6bdffe68e073ccd43378e1325c2dbeea86c359e8) - 2026-08-10
+* [Commit] [Delete public/ACD-FUND.png](https://github.com/protocolguild/protocol-guild-site/commit/8c15c9a5d6c8c4f02b38ea8b29d2b34813724ec6) - 2026-08-10
+* [Commit] [Merge pull request #75 from protocolguild/tvanepps-patch-1](https://github.com/protocolguild/protocol-guild-site/commit/c8e978a3d33d1ceb4f06ba9d4602b58b1497a449) - 2026-08-10
+* [Commit] [Create 20260810-announcing-ACD-Fund-and-Nixo-Support.md](https://github.com/protocolguild/protocol-guild-site/commit/bc8a450393bfb6f4d6601ec69d605f585fc59202) - 2026-08-10
+* [Commit] [add images for post](https://github.com/protocolguild/protocol-guild-site/commit/b637faa473ad8ebd91eb9d8db05795a11ebed4e8) - 2026-08-10
 ## Q4 2025
 
 

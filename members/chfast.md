@@ -107,6 +107,51 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Upgrade execution-specs to tests@v20.0.1 (#1579)](https://github.com/ipsilon/evmone/commit/a417e492d3ad49f37f82c05e036b90da86e12bd9) - 2026-08-09
 * [Commit] [state: Recover sender address from transaction signature (#1615)](https://github.com/ipsilon/evmone/commit/2a8217a4155e260498ed31a83bbc7382d491a0c1) - 2026-08-09
 * [Commit] [keccak: Rework absorption of the final input bytes (#1620)](https://github.com/ipsilon/evmone/commit/426c4da42916b4027d1f73fd4d9fe09f13892c38) - 2026-08-09
+* [Pull Request] [crypto: Multiply Fq2 with the Karatsuba method](https://github.com/ipsilon/evmone/pull/1644) - 2026-08-10
+* [Pull Request] [crypto: Tidy up small things in the bn254 precompiles](https://github.com/ipsilon/evmone/pull/1643) - 2026-08-10
+* [Pull Request] [crypto: Declare the pairing arithmetic noexcept](https://github.com/ipsilon/evmone/pull/1642) - 2026-08-10
+* [Pull Request] [crypto: Share the Fq12 accumulator across pairing pairs](https://github.com/ipsilon/evmone/pull/1638) - 2026-08-10
+* [Pull Request] [crypto: Share the seed addchain between the point and Fq12 powers](https://github.com/ipsilon/evmone/pull/1640) - 2026-08-10
+* [Pull Request] [crypto: Fold the pairing line coefficients into one function](https://github.com/ipsilon/evmone/pull/1639) - 2026-08-10
+* [Pull Request] [crypto: Express the G2 check's Frobenius powers directly](https://github.com/ipsilon/evmone/pull/1637) - 2026-08-10
+* [Pull Request] [crypto: Move the twisted curve's b coefficient onto E2](https://github.com/ipsilon/evmone/pull/1641) - 2026-08-10
+* [Pull Request] [crypto: Reuse V in the G2 point addition](https://github.com/ipsilon/evmone/pull/1636) - 2026-08-10
+* [Pull Request] [crypto: Use the generic ecc::dbl for G2 point doubling](https://github.com/ipsilon/evmone/pull/1635) - 2026-08-10
+* [Pull Request] [test: Recover the blockchain test transaction senders](https://github.com/ipsilon/evmone/pull/1634) - 2026-08-10
+* [Review] [Review on: test: Recover the blockchain test transaction senders](https://github.com/ipsilon/evmone/pull/1634#pullrequestreview-4900131553) - 2026-08-10
+* [Pull Request] [crypto: Drop unused ecc declarations](https://github.com/ipsilon/evmone/pull/1633) - 2026-08-10
+* [Pull Request] [crypto: Use a sliding window in modexp](https://github.com/ipsilon/evmone/pull/1631) - 2026-08-10
+* [Review] [Review on: crypto: Use a sliding window in modexp](https://github.com/ipsilon/evmone/pull/1631#pullrequestreview-4896525865) - 2026-08-10
+* [Pull Request] [test: Skip block reason checks for an unrecovered sender](https://github.com/ipsilon/evmone/pull/1632) - 2026-08-10
+* [Review] [Review on: test: Skip block reason checks for an unrecovered sender](https://github.com/ipsilon/evmone/pull/1632#pullrequestreview-4899675866) - 2026-08-10
+* [Review] [Review on: test: Check why a blockchain test block was rejected](https://github.com/ipsilon/evmone/pull/1623#pullrequestreview-4898715728) - 2026-08-10
+* [Review] [Review on: test: Check why a state test transaction was rejected](https://github.com/ipsilon/evmone/pull/1621#pullrequestreview-4897322619) - 2026-08-10
+* [Pull Request] [test: Pin storage-only account and create-rollback slot warmth](https://github.com/ipsilon/evmone/pull/1630) - 2026-08-10
+* [Pull Request] [test: Drop the duplicate transaction nonce load](https://github.com/ipsilon/evmone/pull/1629) - 2026-08-10
+* [Pull Request] [Name the CALL stipend constant](https://github.com/ipsilon/evmone/pull/1628) - 2026-08-10
+* [Pull Request] [test: Validate the block header's slot number presence (EIP-7843)](https://github.com/ipsilon/evmone/pull/1626) - 2026-08-10
+* [Review] [Review on: test: Validate the block header's slot number presence (EIP-7843)](https://github.com/ipsilon/evmone/pull/1626#pullrequestreview-4894874361) - 2026-08-10
+* [Pull Request] [crypto: Drop modexp comments that restate the code](https://github.com/ipsilon/evmone/pull/1627) - 2026-08-10
+* [Review] [Review on: crypto: Use fixed-window exponentiation in modexp](https://github.com/ipsilon/evmone/pull/1618#pullrequestreview-4894380524) - 2026-08-10
+* [Pull Request] [test: Use EEST error names](https://github.com/ipsilon/evmone/pull/1624) - 2026-08-10
+* [Review] [Review on: test: Use EEST error names](https://github.com/ipsilon/evmone/pull/1624#pullrequestreview-4894284172) - 2026-08-10
+* [Commit] [Implement EIP-7954: "Increase Maximum Contract Size" (#1575)](https://github.com/ipsilon/evmone/commit/d321ee4507a0a3a80587b3fc12ad9be857cdfd70) - 2026-08-10
+* [Commit] [crypto: Multiply Fq2 with the Karatsuba method (#1644)](https://github.com/ipsilon/evmone/commit/d3c2a75e20ad12516624ebbeda2ee8a8f99c47cf) - 2026-08-10
+* [Commit] [crypto: Tidy up small things in the bn254 precompiles (#1643)](https://github.com/ipsilon/evmone/commit/3050adf4728656e33988f79625dc148173fa4784) - 2026-08-10
+* [Commit] [crypto: Declare the pairing arithmetic noexcept (#1642)](https://github.com/ipsilon/evmone/commit/7693eeef95c41098ed4745465ea47712d49611d1) - 2026-08-10
+* [Commit] [crypto: Move the twisted curve's b coefficient onto E2 (#1641)](https://github.com/ipsilon/evmone/commit/519a1f47090774e3e30c67585a5a985af60e483f) - 2026-08-10
+* [Commit] [crypto: Reuse V in the G2 point addition (#1636)](https://github.com/ipsilon/evmone/commit/155eb66243bd12e050b11eaf7074bce8a699353a) - 2026-08-10
+* [Commit] [crypto: Use the generic ecc::dbl for G2 point doubling (#1635)](https://github.com/ipsilon/evmone/commit/98881638fe09238896bf06eb0fb66fbec7dc6967) - 2026-08-10
+* [Commit] [crypto: Drop unused ecc declarations (#1633)](https://github.com/ipsilon/evmone/commit/ce6ef36fbf2cc6e10818575b7a2943557a52ad14) - 2026-08-10
+* [Commit] [crypto: Use a sliding window in modexp (#1631)](https://github.com/ipsilon/evmone/commit/45ef6c6bb765140b407c4879295003beb6222685) - 2026-08-10
+* [Commit] [test: Skip block reason checks for an unrecovered sender (#1632)](https://github.com/ipsilon/evmone/commit/56808b677017e6629e6cf4be5e25829acb5e4d3a) - 2026-08-10
+* [Commit] [test: Check why a blockchain test block was rejected (#1623)](https://github.com/ipsilon/evmone/commit/22c6d373df15302fae24f55da4273911b1493f58) - 2026-08-10
+* [Commit] [test: Check why a state test transaction was rejected (#1621)](https://github.com/ipsilon/evmone/commit/8ec683f4e5ab9a32a6a662e66429e65d3f3801fc) - 2026-08-10
+* [Commit] [test: Pin storage-only account and create-rollback slot warmth (#1630)](https://github.com/ipsilon/evmone/commit/049d111fa7cf93f66fbd7e15de370053f598501f) - 2026-08-10
+* [Commit] [test: Drop the duplicate transaction nonce load (#1629)](https://github.com/ipsilon/evmone/commit/4a7d209a2229a2dfa81d3f0cc71833eb28e700d4) - 2026-08-10
+* [Commit] [Name the CALL stipend constant (#1628)](https://github.com/ipsilon/evmone/commit/70a4dad01e8ee35ea1c23bc620b5256817993405) - 2026-08-10
+* [Commit] [test: Validate the block header's slot number presence (EIP-7843) (#1626)](https://github.com/ipsilon/evmone/commit/6e6f56d03747574b2256b50863355dc406d09c90) - 2026-08-10
+* [Commit] [test: Use EEST error names (#1624)](https://github.com/ipsilon/evmone/commit/e73628d90140f210ba330f2367b2cadc0549ec78) - 2026-08-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

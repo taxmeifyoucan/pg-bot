@@ -18,6 +18,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs)
 
 [sigp/discv5](https://github.com/sigp/discv5)
 * [Review] [Review on: Fix clippy errors](https://github.com/sigp/discv5/pull/310#pullrequestreview-4842190346) - 2026-08-03
+* [Review] [Review on: fix: resend active WHOAREYOU challenge](https://github.com/sigp/discv5/pull/309#pullrequestreview-4895370122) - 2026-08-10
 ## Q2 2026
 
 

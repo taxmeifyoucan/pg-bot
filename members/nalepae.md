@@ -76,6 +76,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Add the hidden `--constantine` flag that uses the Constantine library instead of the c-kzg for KZG operations.](https://github.com/OffchainLabs/prysm/pull/17313) - 2026-08-06
 * [Review] [Review on: Move Gloas spec tests into their own packages](https://github.com/OffchainLabs/prysm/pull/17309#pullrequestreview-4881199588) - 2026-08-07
 * [Review] [Review on: REST VC: Make the SSZ publish path spec-conformant - fall back to JSON on 415](https://github.com/OffchainLabs/prysm/pull/17311#pullrequestreview-4881084003) - 2026-08-07
+* [Review] [Review on: Cache progressive merkleization for state fields](https://github.com/OffchainLabs/prysm/pull/17306#pullrequestreview-4896749065) - 2026-08-10
+* [Review] [Review on: `--beacon-db-pruning`: Prune state diff buckets when the `--enable-state-diff` flag is used.](https://github.com/OffchainLabs/prysm/pull/17289#pullrequestreview-4898719184) - 2026-08-10
+* [Review] [Review on: Kurtosis+E2E: Add Assertoor playbooks that will replace legacy E2E evaluators](https://github.com/OffchainLabs/prysm/pull/17239#pullrequestreview-4897735812) - 2026-08-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 ## Q2 2026

@@ -42,6 +42,7 @@ Team: Reth
 * [Review] [Review on: chore(rpc): fix IPC server formatting](https://github.com/paradigmxyz/reth/pull/26486#pullrequestreview-4763476238) - 2026-07-23
 * [Review] [Review on: chore(deps): bump the ci-weekly group with 4 updates](https://github.com/paradigmxyz/reth/pull/26501#pullrequestreview-4802962836) - 2026-07-29
 * [Review] [Review on: chore: bump revm to 42.0.1](https://github.com/paradigmxyz/reth/pull/26490#pullrequestreview-4829178872) - 2026-07-31
+* [Review] [Review on: fix(network): do check the ECIES id in hello](https://github.com/paradigmxyz/reth/pull/26639#pullrequestreview-4902011486) - 2026-08-11
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

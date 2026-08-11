@@ -46,6 +46,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [chore(deps): bump ruint to 1.20.0 for RUSTSEC-2026-0220](https://github.com/bluealloy/revm/pull/3845) - 2026-08-05
 * [Commit] [chore(deps): bump ruint to 1.20.0 for RUSTSEC-2026-0220 (#3845)](https://github.com/bluealloy/revm/commit/e4845467a2c55d0a0a622af52ee8c9143f6ea270) - 2026-08-05
 * [Commit] [feat(revme): validate receipt trie root in blockchain tests (#3841)](https://github.com/bluealloy/revm/commit/c9bcb97232d62e2061a53fd06ba4315ce0949fdf) - 2026-08-05
+* [Pull Request] [feat: glamsterdam devnet-8 gas repricing](https://github.com/bluealloy/revm/pull/3850) - 2026-08-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02
@@ -71,12 +72,14 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: chore(evm): update evm2](https://github.com/paradigmxyz/reth/pull/26481#pullrequestreview-4765115884) - 2026-07-23
 * [Review] [Review on: fix(txpool): enable EIP-2780 intrinsic gas rules](https://github.com/paradigmxyz/reth/pull/26536#pullrequestreview-4826817447) - 2026-07-31
 * [Commit] [chore: bump revm to 42.0.1 (#26490)](https://github.com/paradigmxyz/reth/commit/d2ede2c3a8428a3cf816157c687c57599fe168a2) - 2026-07-31
+* [Pull Request] [feat(glamsterdam-devnet-8): integrate revm gas repricing](https://github.com/paradigmxyz/reth/pull/26629) - 2026-08-10
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/revmc/pull/404) - 2026-07-14
 * [Pull Request] [chore: bump revm to 42.0.0](https://github.com/paradigmxyz/revmc/pull/406) - 2026-07-23
 * [Commit] [chore: bump revm to 42.0.0 (#406)](https://github.com/paradigmxyz/revmc/commit/79e3c8ca1980d98c856034558ec7c7a9f3f3dd7d) - 2026-07-23
 * [Pull Request] [chore: bump alloy-evm to 0.38.0, drop git patch](https://github.com/paradigmxyz/revmc/pull/407) - 2026-07-31
 * [Commit] [chore: bump alloy-evm to 0.38.0, drop git patch (#407)](https://github.com/paradigmxyz/revmc/commit/cf68a87f627299a9c49bcc333a8a317c9b312a3d) - 2026-07-31
+* [Pull Request] [glamsterdam devnet-8: bump revm](https://github.com/paradigmxyz/revmc/pull/409) - 2026-08-10
 ## Q2 2026
 
 

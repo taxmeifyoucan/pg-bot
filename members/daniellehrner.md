@@ -59,6 +59,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [EIP-8037/7928: restore state-gas accounting and block gas dimensions (#10907)](https://github.com/besu-eth/besu/commit/222574347a27c4620a76bfd2814bf412bbe3b3ce) - 2026-07-30
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4895974831) - 2026-08-10
 ## Q2 2026
 
 

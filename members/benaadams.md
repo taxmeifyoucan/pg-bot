@@ -179,6 +179,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [test(era): anchor accumulator tests to EIP-7643 vectors, remove unused GetProof (#12718)](https://github.com/NethermindEth/nethermind/commit/18fabc00dad5780431f50404476224f73ab736b0) - 2026-08-08
 * [Commit] [test: add hand-derived golden tests for eth/71 and snap serializers (#12699)](https://github.com/NethermindEth/nethermind/commit/bef9172ee9e0754716a5277aea7f52a71be3a1ad) - 2026-08-07
 * [Commit] [fix(jsonrpc): serialize receipt root as full-width DATA (#12706)](https://github.com/NethermindEth/nethermind/commit/5e16ef61188c0629e5fbe8c24bfb8672a774fd1c) - 2026-08-07
+* [Review] [Review on: Performance and FP improvement for the latest bflat](https://github.com/NethermindEth/nethermind/pull/12747#pullrequestreview-4896270626) - 2026-08-10
+* [Review] [Review on: feat: add built-in portfolio viewer UI at /portfolio](https://github.com/NethermindEth/nethermind/pull/12360#pullrequestreview-4896923447) - 2026-08-10
+* [Review] [Review on: Handle failed sender recovery](https://github.com/NethermindEth/nethermind/pull/12757#pullrequestreview-4896894751) - 2026-08-10
+* [Review] [Review on: Return only the requested header from GetHeadBlockHeader](https://github.com/NethermindEth/nethermind/pull/12740#pullrequestreview-4896340144) - 2026-08-10
+* [Review] [Review on: Treat a null header answer as the block being absent](https://github.com/NethermindEth/nethermind/pull/12741#pullrequestreview-4896349125) - 2026-08-10
+* [Commit] [test: Db tests assert stored state instead of smoke-calling empty methods (#12693)](https://github.com/NethermindEth/nethermind/commit/3ef244808d1fd76a4964fa807c3dd4f067ec6c09) - 2026-08-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

@@ -390,6 +390,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/state: make log Reset cost the transaction, not the block](https://github.com/erigontech/erigon/pull/23007#pullrequestreview-4881174596) - 2026-08-07
 * [Issue] [execution/execmodule: stop evicted builders with extended deadlines](https://github.com/erigontech/erigon/issues/23101) - 2026-08-07
 * [Issue] [Investigate how much RPC↔exec state sharing to keep: STATE_CACHE_FILLS default, RPC cache reads, and the SharedDomains overlay](https://github.com/erigontech/erigon/issues/23082) - 2026-08-07
+* [Review] [Review on: execution, db: bind cache views to state versions and file views](https://github.com/erigontech/erigon/pull/23095#pullrequestreview-4897373187) - 2026-08-10
+* [Review] [Review on: cl/beacon: prime the execution layer before a slot this node proposes](https://github.com/erigontech/erigon/pull/23105#pullrequestreview-4897083667) - 2026-08-10
+* [Review] [Review on: node/shards, db/downloader, execution/stagedsync: snapshot download progress in eth_syncing](https://github.com/erigontech/erigon/pull/22716#pullrequestreview-4895490754) - 2026-08-10
+* [Review] [Review on: rpc: resolve eth_feeHistory on the block overlay view](https://github.com/erigontech/erigon/pull/22987#pullrequestreview-4895366658) - 2026-08-10
+* [Review] [Review on: [r3.6] execution/stagedsync: skip the fee credit when the recorded set already carries it](https://github.com/erigontech/erigon/pull/23131#pullrequestreview-4895902478) - 2026-08-10
+* [Review] [Review on: execution/stagedsync: reclaim superseded fee-merge write sets off the apply loop](https://github.com/erigontech/erigon/pull/23106#pullrequestreview-4895148342) - 2026-08-10
+* [Issue] [execution/cache: avoid rebuilding cache views on direct reads](https://github.com/erigontech/erigon/issues/23145) - 2026-08-10
+* [Issue] [execution/cache: evaluate change-diff tombstones for selective unwind invalidation](https://github.com/erigontech/erigon/issues/23139) - 2026-08-10
+* [Issue] [execution/stagedsync: follow-ups for fee-merge write-set reclaim (#23099 / #23106)](https://github.com/erigontech/erigon/issues/23135) - 2026-08-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

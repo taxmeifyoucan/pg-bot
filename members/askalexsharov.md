@@ -762,11 +762,17 @@ Team: Erigon
 * [Review] [Review on: db/seg: collapse compression workers=1 case into batched workers flow](https://github.com/erigontech/erigon/pull/23058#pullrequestreview-4891811129) - 2026-08-09
 * [Review] [Review on: rpc embedded: add https flags to embedded rpc](https://github.com/erigontech/erigon/pull/23108#pullrequestreview-4890419479) - 2026-08-09
 * [Commit] [execution/stagedsync: hand the trace sets to the apply result instead of copying (#23092)](https://github.com/erigontech/erigon/commit/af146efbc6f8577f728ac38c31f42bd22a377943) - 2026-08-09
+* [Pull Request] [cl/beacon: don't refetch the execution client version after a race](https://github.com/erigontech/erigon/pull/22957) - 2026-08-10
+* [Commit] [execution/execmodule, node: remove the FCU background flush/commit path (#23051)](https://github.com/erigontech/erigon/commit/4d24e5e5e3b9c1d33539188fa4c9cb1a24743d4f) - 2026-08-10
+* [Commit] [db/kv/mdbx: embed mdbx.Cursor by value in MdbxCursor (#23015)](https://github.com/erigontech/erigon/commit/23a86a71989dda37d2cdf532cb2f1edb4c52d6d9) - 2026-08-10
+* [Commit] [execution/stagedsync: reclaim superseded fee-merge write sets off the apply loop (#23106)](https://github.com/erigontech/erigon/commit/f9cfae67925932e258f667106b16a72ea6d0361a) - 2026-08-10
+* [Commit] [cl/beacon: don't refetch the execution client version after a race (#22957)](https://github.com/erigontech/erigon/commit/46902b5f307c473813e649a1b43bc2f131f25935) - 2026-08-10
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Pull Request] [crypto: Use fixed-window exponentiation in modexp](https://github.com/ipsilon/evmone/pull/1618) - 2026-08-01
+* [Commit] [crypto: Use fixed-window exponentiation in modexp (#1618)](https://github.com/ipsilon/evmone/commit/6ce5a951eb785e935206bd15d8d5666a9ac9bf9e) - 2026-08-10
 ## Q2 2026
 
 

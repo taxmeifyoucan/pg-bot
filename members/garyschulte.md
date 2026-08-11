@@ -17,6 +17,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 
 * [Pull Request] [Remove ipa-multipoint from besu](https://github.com/besu-eth/besu/pull/10833) - 2026-07-21
 * [Commit] [Remove ipa-multipoint from besu (#10833)](https://github.com/besu-eth/besu/commit/7b1f0f2ecbff6b865a09b386f98ba1d100b90245) - 2026-07-22
+* [Pull Request] [Feature: minimal upgrade to vertx 5](https://github.com/besu-eth/besu/pull/11015) - 2026-08-10
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298#pullrequestreview-4664315207) - 2026-07-09
 * [Pull Request] [Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298) - 2026-07-20
@@ -26,6 +27,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Commit] [Static libs and jar artifact for boringssl (#298)](https://github.com/besu-eth/besu-native/commit/1bc1d0f8f3f12ba2565d960643220151e666cb58) - 2026-07-20
 * [Commit] [Static libs and jar artifact for secp256k1 (#297)](https://github.com/besu-eth/besu-native/commit/7caec07e83d77555237075e997896c67e7394873) - 2026-07-20
 * [Commit] [Graal gnark static libs and artifact (#292)](https://github.com/besu-eth/besu-native/commit/fcb0a079737f9f72727f7775918c84a9c9bed7f6) - 2026-07-20
+
+[Consensys/discovery](https://github.com/Consensys/discovery)
+* [Pull Request] [Feature: Remove vertx as a dependency / transitive deps via tuweni](https://github.com/Consensys/discovery/pull/238) - 2026-08-10
+
+[Consensys/tuweni](https://github.com/Consensys/tuweni)
+* [Pull Request] [Feature: Upgrade to vertx 5.1.6](https://github.com/Consensys/tuweni/pull/65) - 2026-08-10
 ## Q2 2026
 
 

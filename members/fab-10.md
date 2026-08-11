@@ -87,6 +87,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Revise COLD_STORAGE_ACCESS and ACCOUNT_WRITE values](https://github.com/besu-eth/besu/pull/10993) - 2026-08-06
 * [Review] [Review on: build: align Kotlin runtime dependencies to 2.4](https://github.com/besu-eth/besu/pull/10983#pullrequestreview-4873043620) - 2026-08-06
 * [Review] [Review on: Extract plugin-api storage module](https://github.com/besu-eth/besu/pull/10984#pullrequestreview-4872473217) - 2026-08-06
+* [Review] [Review on: Dockerfile: update ubuntu base image version](https://github.com/besu-eth/besu/pull/11008#pullrequestreview-4896423476) - 2026-08-10
+* [Review] [Review on: Do not start backward sync until initial sync is done](https://github.com/besu-eth/besu/pull/10944#pullrequestreview-4896286258) - 2026-08-10
+* [Pull Request] [Refactor `engine_exchangeCapabilities`, `engine_preparePayloadDebug`, `engine_getClientVersionV1` and `engine_exchangeTransitionConfigurationV1`](https://github.com/besu-eth/besu/pull/11010) - 2026-08-10
+* [Pull Request] [Remove custom `engine_preparePayload_debug`, replaced by `testing_buildBlockV1`](https://github.com/besu-eth/besu/pull/11011) - 2026-08-10
+* [Review] [Review on: Extract plugin-api txpool module](https://github.com/besu-eth/besu/pull/11007#pullrequestreview-4896665838) - 2026-08-10
+* [Review] [Review on: Restore structured health-check details in plugin readiness responses](https://github.com/besu-eth/besu/pull/10834#pullrequestreview-4895461132) - 2026-08-10
+* [Review] [Review on: Extract plugin-api p2p module](https://github.com/besu-eth/besu/pull/10995#pullrequestreview-4895532208) - 2026-08-10
+* [Commit] [Refactor engine_getPayloadBodiesBy*  into a sealed version hierarchy (#10968)](https://github.com/besu-eth/besu/commit/85fabd59bc78d3c8a269a06d19bd71a29c53de1d) - 2026-08-10
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 ## Q2 2026
 
 

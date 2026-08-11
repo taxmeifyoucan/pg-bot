@@ -87,6 +87,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Remove fork choice update from engine_newPayloadV*](https://github.com/besu-eth/besu/pull/10980) - 2026-08-05
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533) - 2026-08-10
 ## Q2 2026
 
 

@@ -15,9 +15,11 @@ Team: Codex DAS
 * [Commit] [eth: protect high-value peers from random dropping based on tx inclusion stats (#34702)](https://github.com/ethereum/go-ethereum/commit/111e7b8b48251aec734e2b361a60dbafd4fda42f) - 2026-07-09
 
 * [Review] [Review on: core/txpool: add blocked transaction size cap](https://github.com/ethereum/go-ethereum/pull/35367#pullrequestreview-4872652074) - 2026-08-06
+* [Pull Request] [eth, eth/peerstats: split peer quality aggregation out of txtracker](https://github.com/ethereum/go-ethereum/pull/35499) - 2026-08-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4818065623) - 2026-07-30
 * [Pull Request] [Add EIP: RowDAS - Distributed Blob Reconstruction](https://github.com/ethereum/EIPs/pull/12118) - 2026-08-06
+* [Commit] [Add EIP: RowDAS - Distributed Blob Reconstruction](https://github.com/ethereum/EIPs/commit/6e421f7412bd682116d3929dd023dba2256049bb) - 2026-08-11
 ## Q2 2026
 
 

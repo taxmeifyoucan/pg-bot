@@ -86,6 +86,11 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-1: allow links to sys-asm](https://github.com/ethereum/EIPs/pull/12021#pullrequestreview-4886118608) - 2026-08-07
 * [Review] [Review on: Update EIP-3298: Fix broken GasToken link](https://github.com/ethereum/EIPs/pull/11538#pullrequestreview-4881723282) - 2026-08-07
 * [Review] [Review on: Add EIP: Normalized state gas limit](https://github.com/ethereum/EIPs/pull/12119#pullrequestreview-4881468106) - 2026-08-07
+* [Review] [Review on: Add EIP: RowDAS - Distributed Blob Reconstruction](https://github.com/ethereum/EIPs/pull/12118#pullrequestreview-4902214939) - 2026-08-11
+* [Review] [Review on: Add EIP: Persist Warm Access Sets Across Reverts](https://github.com/ethereum/EIPs/pull/12128#pullrequestreview-4901682162) - 2026-08-10
+* [Review] [Review on: Update EIP-7666: Move to Draft](https://github.com/ethereum/EIPs/pull/12089#pullrequestreview-4901878407) - 2026-08-10
+* [Review] [Review on: Update EIP-7666: Add author](https://github.com/ethereum/EIPs/pull/12137#pullrequestreview-4901963324) - 2026-08-11
+* [Review] [Review on: Update EIP-1: allow links to sys-asm](https://github.com/ethereum/EIPs/pull/12021#pullrequestreview-4897780459) - 2026-08-10
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -120,6 +125,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [perf(test-forks): memoize per-fork gas costs](https://github.com/ethereum/execution-specs/pull/3303) - 2026-08-05
 * [Commit] [feat(tests): add eth_getTransactionReceipt batching (#3298)](https://github.com/ethereum/execution-specs/commit/07424a89ba0453709576830f6be33442ed8d102d) - 2026-08-05
 * [Review] [Review on: perf(test-forks): memoize per-fork gas costs](https://github.com/ethereum/execution-specs/pull/3303#pullrequestreview-4881832650) - 2026-08-07
+* [Pull Request] [perf(fill): fetch a block's receipts with one eth_getBlockReceipts](https://github.com/ethereum/execution-specs/pull/3345) - 2026-08-10
+* [Review] [Review on: perf(fill): fetch a block's receipts with one eth_getBlockReceipts](https://github.com/ethereum/execution-specs/pull/3345#pullrequestreview-4897662475) - 2026-08-10
+* [Pull Request] [fix(benchmark): split benchmark gas evenly: every tx can pay data floor](https://github.com/ethereum/execution-specs/pull/3348) - 2026-08-10
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 

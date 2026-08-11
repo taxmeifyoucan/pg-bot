@@ -116,12 +116,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [use timeout verify to mitigate flaky BackwardSyncAlgSpecTest (#10971)](https://github.com/besu-eth/besu/commit/7438d96c12f3206642084238a448186fc96ba186) - 2026-08-05
 * [Review] [Review on: Return 0x and empty structLogs for legacy transfers](https://github.com/besu-eth/besu/pull/10972#pullrequestreview-4878526054) - 2026-08-06
 * [Review] [Review on: simulation gas: do not apply EIP-7825 txGasLimitCap ](https://github.com/besu-eth/besu/pull/10885#pullrequestreview-4879875577) - 2026-08-07
+* [Pull Request] [Dockerfile: update ubuntu base image version](https://github.com/besu-eth/besu/pull/11008) - 2026-08-10
+* [Commit] [Dockerfile: update ubuntu base image version (#11008)](https://github.com/besu-eth/besu/commit/d80344dd277a3470ff7448601e87cd720ac14174) - 2026-08-11
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21
 * [Review] [Review on: Fixed `BLS` test comments](https://github.com/besu-eth/besu-native/pull/288#pullrequestreview-4740155206) - 2026-07-21
 * [Commit] [changelog and version bump for release 2.0.0 (#319)](https://github.com/besu-eth/besu-native/commit/75422ca126d9bf6f3c512ac27b82985e7a72ed99) - 2026-07-21
 * [Commit] [changelog and version bump post release 2.0.0 (#320)](https://github.com/besu-eth/besu-native/commit/2a3a58d88a42d58fc5ec30b3fd0ebdd063f86c39) - 2026-07-21
+
+[Consensys/discovery](https://github.com/Consensys/discovery)
+* [Review] [Review on: Feature: Remove vertx as a dependency / transitive deps via tuweni](https://github.com/Consensys/discovery/pull/238#pullrequestreview-4901985412) - 2026-08-11
 ## Q2 2026
 
 

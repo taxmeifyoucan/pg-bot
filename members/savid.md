@@ -16,6 +16,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [fix(agent): bound concurrent beacon state and bad block fetches](https://github.com/ethpandaops/tracoor/pull/64) - 2026-07-28
 * [Commit] [fix(agent): bound concurrent beacon state and bad block fetches (#64)](https://github.com/ethpandaops/tracoor/commit/566c09bb69b98a0dabc9939186985469afcc56b8) - 2026-07-28
+* [Pull Request] [Verified capture pipeline: dedup by content, stream everything, store what is distinct](https://github.com/ethpandaops/tracoor/pull/66) - 2026-08-10
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Review] [Review on: feat: Glamsterdam (gloas) support — fork registry, ePBS slot phases, payload lifecycle](https://github.com/ethpandaops/lab/pull/444#pullrequestreview-4719637144) - 2026-07-17
 

@@ -153,6 +153,17 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Replace remerkleable with `ssz-specs`](https://github.com/ethereum/consensus-specs/pull/5518) - 2026-08-06
 * [Pull Request] [Replace remerkleable with eth-ssz-specs](https://github.com/ethereum/consensus-specs/pull/5520) - 2026-08-07
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5521#pullrequestreview-4893025200) - 2026-08-10
+* [Pull Request] [Prefer named SSZ collection constructors](https://github.com/ethereum/consensus-specs/pull/5528) - 2026-08-10
+* [Pull Request] [Bump version to v1.7.0-alpha.14](https://github.com/ethereum/consensus-specs/pull/5530) - 2026-08-10
+* [Pull Request] [Remove unnecessary "Modifications in X" sections](https://github.com/ethereum/consensus-specs/pull/5532) - 2026-08-10
+* [Pull Request] [Run filtered tests in parallel by default](https://github.com/ethereum/consensus-specs/pull/5531) - 2026-08-10
+* [Pull Request] [Move optimistic sync into specs as a Bellatrix feature](https://github.com/ethereum/consensus-specs/pull/5529) - 2026-08-10
+* [Pull Request] [Bump the minimum Python version to 3.12](https://github.com/ethereum/consensus-specs/pull/5526) - 2026-08-10
+* [Pull Request] [Make uint arithmetic explicitly typed](https://github.com/ethereum/consensus-specs/pull/5527) - 2026-08-10
+* [Pull Request] [Remove SSZ specifications](https://github.com/ethereum/consensus-specs/pull/5523) - 2026-08-10
+* [Pull Request] [Introduce `get_set_bit_count` helper](https://github.com/ethereum/consensus-specs/pull/5525) - 2026-08-10
+* [Pull Request] [Remove SSZ generic tests](https://github.com/ethereum/consensus-specs/pull/5524) - 2026-08-10
+* [Commit] [Bump version to v1.7.0-alpha.14 (#5530)](https://github.com/ethereum/consensus-specs/commit/321eca5b71049fcac6c63c2d956e5c5d7b60d689) - 2026-08-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

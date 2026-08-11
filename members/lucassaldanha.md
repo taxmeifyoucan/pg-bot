@@ -29,6 +29,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Remove beaconchainutil from other test fixtures](https://github.com/Consensys/teku/pull/11030#pullrequestreview-4849252910) - 2026-08-03
 * [Review] [Review on: Remove getconstants from eth2networkconfig](https://github.com/Consensys/teku/pull/11048#pullrequestreview-4849336429) - 2026-08-03
 * [Review] [Review on: Add ROCKSDB_TREE as a database version](https://github.com/Consensys/teku/pull/10993#pullrequestreview-4850528156) - 2026-08-04
+* [Pull Request] [Update CHANGELOG post 26.8.0 release](https://github.com/Consensys/teku/pull/11074) - 2026-08-11
+* [Commit] [Update CHANGELOG (#11074)](https://github.com/Consensys/teku/commit/00914574c555a26c884ed04b77ae2b4c449e38dd) - 2026-08-11
 ## Q2 2026
 
 

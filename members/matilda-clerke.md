@@ -39,6 +39,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Change default values of builder circuit breaker options](https://github.com/Consensys/teku/pull/11062) - 2026-08-05
 * [Pull Request] [Legitimise --validators-external-signer-concurrent-limit](https://github.com/Consensys/teku/pull/11063) - 2026-08-05
 * [Review] [Review on: Remove deprecated methods from MiscHelpersFulu](https://github.com/Consensys/teku/pull/11059#pullrequestreview-4880060028) - 2026-08-07
+* [Commit] [Allow validator key directory to use single password file (#10990)](https://github.com/Consensys/teku/commit/64c1192cf9e6281a1da694ba4390ea29869902e8) - 2026-08-10
 ## Q2 2026
 
 

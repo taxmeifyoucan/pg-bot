@@ -28,6 +28,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Update EIP-8333: Clarify EIP-8333 boundary rationale](https://github.com/ethereum/EIPs/pull/12090#pullrequestreview-4857320250) - 2026-08-04
 * [Review] [Review on: Update EIP-8282: Move to Review](https://github.com/ethereum/EIPs/pull/12108#pullrequestreview-4864572266) - 2026-08-05
 * [Commit] [Update EIP-8081: Propose EIP-8333 for inclusion](https://github.com/ethereum/EIPs/commit/e18e618c4214bab35c755e7bbd00d7961816e251) - 2026-08-07
+* [Commit] [Update EIP-8282: Cleanup and Tweaks](https://github.com/ethereum/EIPs/commit/2d3c5e59e47103df15e51aafc815ba0b234e3388) - 2026-08-10
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
 
@@ -98,12 +99,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: cache builder deposit signatures for gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9727#pullrequestreview-4882994443) - 2026-08-07
 * [Review] [Review on: fix: handle 1st orphaned payload of blocks[0] in range sync](https://github.com/ChainSafe/lodestar/pull/9785#pullrequestreview-4883170796) - 2026-08-07
 * [Commit] [feat: report parent_block_hash for safe/finalized post-Gloas (#9393)](https://github.com/ChainSafe/lodestar/commit/3d8f7cf440881946dccf558db504407aaba9dfb1) - 2026-08-07
+* [Review] [Review on: test: update fast confirmation spec tests to v1.7.0-alpha.13](https://github.com/ChainSafe/lodestar/pull/9778#pullrequestreview-4901038451) - 2026-08-10
+* [Review] [Review on: fix: harden safe execution block hash handling](https://github.com/ChainSafe/lodestar/pull/9794#pullrequestreview-4901034249) - 2026-08-10
+* [Review] [Review on: chore: address block validation and equivocation follow-ups](https://github.com/ChainSafe/lodestar/pull/9795#pullrequestreview-4901013261) - 2026-08-10
+* [Review] [Review on: fix: harden range sync hashBlocks()](https://github.com/ChainSafe/lodestar/pull/9686#pullrequestreview-4899316776) - 2026-08-10
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
 * [Review] [Review on: Explicitly define types as classes](https://github.com/ethereum/consensus-specs/pull/5471#pullrequestreview-4773982938) - 2026-07-24
 * [Review] [Review on: Explicitly define types as classes](https://github.com/ethereum/consensus-specs/pull/5471#pullrequestreview-4820178703) - 2026-07-30
 * [Review] [Review on: Allow readers to ignore trailing bytes after declared SSZ bytes](https://github.com/ethereum/consensus-specs/pull/5511#pullrequestreview-4867587429) - 2026-08-05
+* [Review] [Review on: Prefer named SSZ collection constructors](https://github.com/ethereum/consensus-specs/pull/5528#pullrequestreview-4900990568) - 2026-08-10
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460#pullrequestreview-4639587158) - 2026-07-06
 * [Review] [Review on: fix: state transition binding exports](https://github.com/ChainSafe/lodestar-z/pull/456#pullrequestreview-4639596235) - 2026-07-06
@@ -152,6 +158,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bls): enforce 32-byte signing roots](https://github.com/ChainSafe/lodestar-z/pull/545#pullrequestreview-4885256560) - 2026-08-07
 * [Pull Request] [chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/544) - 2026-08-07
 * [Commit] [chore: avoid slow tests in AGENTS.md (#546)](https://github.com/ChainSafe/lodestar-z/commit/c60f2a9dae9b131b716e802e22c6d37c850d6dd8) - 2026-08-08
+* [Pull Request] [build(bls): consume upstream blst module](https://github.com/ChainSafe/lodestar-z/pull/554) - 2026-08-10
+* [Review] [Review on: fix(bls): make batch cardinality structural](https://github.com/ChainSafe/lodestar-z/pull/547#pullrequestreview-4897581143) - 2026-08-10
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

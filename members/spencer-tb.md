@@ -187,6 +187,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(test-tests): add engine payload attribute and genesis parity tests (#3309)](https://github.com/ethereum/execution-specs/commit/847f8857f843d95760882fd8d637d77a259636f2) - 2026-08-06
 * [Commit] [feat(tests): add EIP-2780 coverage gap tests (#3318)](https://github.com/ethereum/execution-specs/commit/1afd925ff8d2d080e0d979acde72bd2848d6291a) - 2026-08-06
 * [Commit] [fix(tests): enhance & un-skip Amsterdam ported static depth-recursion tests (Pt. 2a) (#3264)](https://github.com/ethereum/execution-specs/commit/343274cc0f43962ff39a648e2b2614bf227f8d1f) - 2026-08-08
+* [Pull Request] [chore(test-client-clis): update geth BAL exception mappings](https://github.com/ethereum/execution-specs/pull/3347) - 2026-08-10
+* [Pull Request] [chore(tests): derive blob tx gas from fork intrinsic cost](https://github.com/ethereum/execution-specs/pull/3346) - 2026-08-10
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -198,6 +200,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [cmd/evm, core: fixes for eels tests@v20.0.0 release (#35283)](https://github.com/ethereum/go-ethereum/commit/2ce0200762eb4ea77bb02a033004b4d9f75bec8c) - 2026-07-09
 * [Pull Request] [core/txpool/blobpool: fall back to pool in GetCells for blob-mode cache entries](https://github.com/ethereum/go-ethereum/pull/35439) - 2026-07-30
 * [Commit] [core/txpool/blobpool: fall back to pool in GetCells for blob-mode cache entries (#35439)](https://github.com/ethereum/go-ethereum/commit/7a1b11564c16f54dff0a2f578179c482d9f701bf) - 2026-07-30
+* [Pull Request] [core, eth/catalyst, beacon/engine: fix pre-fork field and BAL validation for devnet-8](https://github.com/ethereum/go-ethereum/pull/35502) - 2026-08-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4635413569) - 2026-07-06
 
@@ -212,6 +215,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [simulators/eels: fix `execute-blobs` simulator (#1365)](https://github.com/ethereum/hive/commit/dde4f59d04ff0ff8b6585670b08cea1b6c8ab65c) - 2026-07-30
 * [Pull Request] [hiveproxy: use GOPROXY "|" separator to fall back to direct on any proxy error](https://github.com/ethereum/hive/pull/1591) - 2026-08-06
 * [Commit] [hiveproxy: use GOPROXY "|" separator to fall back to direct on any proxy error (#1591)](https://github.com/ethereum/hive/commit/9657d0624005b13fb3d4bfc62a4036224dc54545) - 2026-08-06
+* [Review] [Review on: Use Geth-style genesis for Nethermind](https://github.com/ethereum/hive/pull/1593#pullrequestreview-4895076289) - 2026-08-10
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4806932985) - 2026-07-29
 * [Pull Request] [Update EIP-7773: SFI remaining Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12024) - 2026-07-29

@@ -52,6 +52,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Add SLOT_SCHEDULE for epoch based slot durations](https://github.com/OffchainLabs/prysm/pull/17260#pullrequestreview-4819669560) - 2026-07-30
 * [Review] [Review on: Verify weak subjectivity checkpoint against the finalized canonical chain](https://github.com/OffchainLabs/prysm/pull/17295#pullrequestreview-4856272867) - 2026-08-04
 * [Pull Request] [Fix Gloas backfill handling of withheld payload columns](https://github.com/OffchainLabs/prysm/pull/17302) - 2026-08-05
+* [Pull Request] [Update earliest_available_slot progressively as backfill imports durable block and data-column history](https://github.com/OffchainLabs/prysm/pull/17327) - 2026-08-10
 ## Q2 2026
 
 

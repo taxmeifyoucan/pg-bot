@@ -24,6 +24,7 @@ Team: Grandine
 * [Pull Request] [Add `validators.yml` validator definitions](https://github.com/grandinetech/grandine/pull/829) - 2026-07-24
 * [Review] [Review on: fork choice compliance tests v1.7.0 alpha.12](https://github.com/grandinetech/grandine/pull/831#pullrequestreview-4797028031) - 2026-07-28
 * [Commit] [Add `validators.yml` validator definitions](https://github.com/grandinetech/grandine/commit/eaf220e60699cd63d4223ad2481e42fd15f67802) - 2026-07-30
+* [Review] [Review on: Add a guard to justified active balance getter](https://github.com/grandinetech/grandine/pull/842#pullrequestreview-4897656601) - 2026-08-10
 ## Q2 2026
 
 

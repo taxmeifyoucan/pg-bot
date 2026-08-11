@@ -20,6 +20,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: update links to alpha 12](https://github.com/status-im/nimbus-eth2/pull/8812#pullrequestreview-4803413777) - 2026-07-29
 * [Pull Request] [track column verification state per `popSidecars`](https://github.com/status-im/nimbus-eth2/pull/8841) - 2026-08-03
 * [Pull Request] [add gossip domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8858) - 2026-08-07
+* [Review] [Review on: add gossip domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8858#pullrequestreview-4897906099) - 2026-08-10
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629505540) - 2026-07-04
 ## Q2 2026

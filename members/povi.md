@@ -51,6 +51,8 @@ Team: Grandine
 * [Review] [Review on: Add `validators.yml` validator definitions](https://github.com/grandinetech/grandine/pull/829#pullrequestreview-4818966407) - 2026-07-30
 * [Review] [Review on: feat: Add SSZ response support for validator_balances endpoints](https://github.com/grandinetech/grandine/pull/801#pullrequestreview-4816456532) - 2026-07-30
 * [Issue] [[Glamsterdam] Rebase Glamsterdam code on latest develop](https://github.com/grandinetech/grandine/issues/836) - 2026-07-30
+* [Review] [Review on: Gloas bid selection](https://github.com/grandinetech/grandine/pull/837#pullrequestreview-4898000890) - 2026-08-10
+* [Pull Request] [Add a guard to justified active balance getter](https://github.com/grandinetech/grandine/pull/842) - 2026-08-10
 ## Q2 2026
 
 
