@@ -74,6 +74,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: fc time budgeting instead of capping](https://github.com/status-im/nimbus-eth1/pull/4588#pullrequestreview-4879432166) - 2026-08-07
 * [Review] [Review on: Use genesis block hash to validate network matches data directory](https://github.com/status-im/nimbus-eth1/pull/4622#pullrequestreview-4887784335) - 2026-08-08
 * [Pull Request] [Upgrade delete-artifact actions to v6](https://github.com/status-im/nimbus-eth1/pull/4627) - 2026-08-10
+* [Pull Request] [Upgrade build docker actions to suppress Node.js 20 deprecation warning](https://github.com/status-im/nimbus-eth1/pull/4628) - 2026-08-11
+* [Commit] [Upgrade build docker actions to suppress Node.js 20 deprecation warning (#4628)](https://github.com/status-im/nimbus-eth1/commit/12e6afe1f424ec0c61c494c3b2cb900071203cf6) - 2026-08-11
+* [Commit] [Upgrade delete-artifact actions to v6 (#4627)](https://github.com/status-im/nimbus-eth1/commit/7d25cbb68c5d7a95fd2edb5cd36f9dd45f7a0b34) - 2026-08-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

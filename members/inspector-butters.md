@@ -46,6 +46,11 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Cache progressive merkleization for state fields](https://github.com/OffchainLabs/prysm/pull/17306#pullrequestreview-4897762580) - 2026-08-10
 * [Pull Request] [optimize recomputeProgressiveOverlay hashing](https://github.com/OffchainLabs/prysm/pull/17330) - 2026-08-10
 * [Review] [Review on: `--beacon-db-pruning`: Prune state diff buckets when the `--enable-state-diff` flag is used.](https://github.com/OffchainLabs/prysm/pull/17289#pullrequestreview-4898099183) - 2026-08-10
+* [Pull Request] [Prysm Version Upgrade Script](https://github.com/OffchainLabs/prysm/pull/15992) - 2026-08-11
+* [Pull Request] [add version checks to beacon state progressive HTR](https://github.com/OffchainLabs/prysm/pull/17336) - 2026-08-11
+* [Commit] [Prysm Version Upgrade Script (#15992)](https://github.com/OffchainLabs/prysm/commit/29554406e01bf08e396719c8c8b37bed54b61c5e) - 2026-08-11
+* [Commit] [add version checks to beacon state progressive HTR (#17336)](https://github.com/OffchainLabs/prysm/commit/d73fbf786ac8bfbf8e4138340b42f05661796d23) - 2026-08-11
+* [Commit] [optimize recomputeProgressiveOverlay hashing (#17330)](https://github.com/OffchainLabs/prysm/commit/4e078c7871db711a55a592f7478ec8e9700cb00d) - 2026-08-11
 ## Q2 2026
 
 

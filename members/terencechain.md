@@ -171,12 +171,17 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Move Gloas spec tests into their own packages](https://github.com/OffchainLabs/prysm/pull/17309#pullrequestreview-4877499821) - 2026-08-06
 * [Pull Request] [Recover initial sync when head is on a bad fork](https://github.com/OffchainLabs/prysm/pull/17324) - 2026-08-08
 * [Review] [Review on: Recover initial sync when head is on a bad fork](https://github.com/OffchainLabs/prysm/pull/17324#pullrequestreview-4897703393) - 2026-08-10
+* [Pull Request] [Add EIP-8261 gas limit schedule support](https://github.com/OffchainLabs/prysm/pull/17339) - 2026-08-11
+* [Review] [Review on: add version checks to beacon state progressive HTR](https://github.com/OffchainLabs/prysm/pull/17336#pullrequestreview-4907293940) - 2026-08-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4737853136) - 2026-07-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8015: Move to Draft](https://github.com/ethereum/EIPs/pull/11910#pullrequestreview-4678151626) - 2026-07-11
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4908444462) - 2026-08-11
 ## Q2 2026
 
 

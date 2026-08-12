@@ -73,6 +73,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [ConcurrentLruCache performance improvements (#4621)](https://github.com/status-im/nimbus-eth1/commit/1a6a221eefba2563158090f638c2d33461de3e71) - 2026-08-08
 * [Commit] [Use genesis block hash to validate network matches data directory (#4622)](https://github.com/status-im/nimbus-eth1/commit/7cd3c15bf41b9f20b2c91f829740895acbeee910) - 2026-08-09
 * [Pull Request] [Inline evm memory and stack helper functions](https://github.com/status-im/nimbus-eth1/pull/4626) - 2026-08-10
+* [Review] [Review on: unified client: close db properly](https://github.com/status-im/nimbus-eth1/pull/4630#pullrequestreview-4907061804) - 2026-08-11
 ## Q2 2026
 
 

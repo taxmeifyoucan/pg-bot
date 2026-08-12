@@ -97,6 +97,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests): enhance & un-skip Amsterdam ported static depth-recursion tests (Pt. 2a)](https://github.com/ethereum/execution-specs/pull/3264#pullrequestreview-4887393215) - 2026-08-08
 * [Pull Request] [feat(test-specs): Allow specs to fill same fixture format more than once, add `inclusion_test` marker](https://github.com/ethereum/execution-specs/pull/3337) - 2026-08-07
 * [Review] [Review on: perf(fill): fetch a block's receipts with one eth_getBlockReceipts](https://github.com/ethereum/execution-specs/pull/3345#pullrequestreview-4897185025) - 2026-08-10
+* [Review] [Review on: refactor(testing): capitalize SSZ in class names](https://github.com/ethereum/execution-specs/pull/3354#pullrequestreview-4911611298) - 2026-08-11
+* [Review] [Review on: chore(tests): mark memory heavy tests as bigmem](https://github.com/ethereum/execution-specs/pull/3360#pullrequestreview-4911601066) - 2026-08-11
+* [Review] [Review on: fix(tests): enhance & un-skip Amsterdam ported static create-OOG tests (Pt. 2b)](https://github.com/ethereum/execution-specs/pull/3320#pullrequestreview-4911492840) - 2026-08-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

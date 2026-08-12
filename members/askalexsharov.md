@@ -767,6 +767,35 @@ Team: Erigon
 * [Commit] [db/kv/mdbx: embed mdbx.Cursor by value in MdbxCursor (#23015)](https://github.com/erigontech/erigon/commit/23a86a71989dda37d2cdf532cb2f1edb4c52d6d9) - 2026-08-10
 * [Commit] [execution/stagedsync: reclaim superseded fee-merge write sets off the apply loop (#23106)](https://github.com/erigontech/erigon/commit/f9cfae67925932e258f667106b16a72ea6d0361a) - 2026-08-10
 * [Commit] [cl/beacon: don't refetch the execution client version after a race (#22957)](https://github.com/erigontech/erigon/commit/46902b5f307c473813e649a1b43bc2f131f25935) - 2026-08-10
+* [Review] [Review on: cl/beacon, cl/network: fix blob history backfill boundary](https://github.com/erigontech/erigon/pull/23138#pullrequestreview-4902631053) - 2026-08-11
+* [Review] [Review on: execution/commitment: drop redundant copies of HexToCompact results](https://github.com/erigontech/erigon/pull/23187#pullrequestreview-4906359293) - 2026-08-11
+* [Review] [Review on: execution/commitment: consolidate fragmented test files](https://github.com/erigontech/erigon/pull/23184#pullrequestreview-4906412840) - 2026-08-11
+* [Review] [Review on: [r3.6] rpc: resolve block tags in debug_getModifiedAccountsByNumber ](https://github.com/erigontech/erigon/pull/23167#pullrequestreview-4907873082) - 2026-08-11
+* [Review] [Review on: docs: August 2026 w33 — CLI reference gaps on release/3.5, dead checkpoint endpoint](https://github.com/erigontech/erigon/pull/23180#pullrequestreview-4907866074) - 2026-08-11
+* [Review] [Review on: [r3.5] go.mod: revert go-eth-kzg verifier optimization](https://github.com/erigontech/erigon/pull/23177#pullrequestreview-4905362143) - 2026-08-11
+* [Review] [Review on: docs: correct five flag defaults and the dead beaconstate.info endpoint](https://github.com/erigontech/erigon/pull/23182#pullrequestreview-4907866575) - 2026-08-11
+* [Review] [Review on: execution/commitment: size keyArena chunks from the subtree key count](https://github.com/erigontech/erigon/pull/23183#pullrequestreview-4906409310) - 2026-08-11
+* [Review] [Review on: execution/commitment: drop dead accessors and a vestigial parameter](https://github.com/erigontech/erigon/pull/23185#pullrequestreview-4906370874) - 2026-08-11
+* [Pull Request] [execution, cl: fix two unchecked integer overflows on untrusted input](https://github.com/erigontech/erigon/pull/23192) - 2026-08-11
+* [Review] [Review on: docs: August 2026 w33 — document the embedded HTTPS and IPC transports](https://github.com/erigontech/erigon/pull/23181#pullrequestreview-4907866473) - 2026-08-11
+* [Review] [Review on: execution/commitment: remove the streaming commitment mode](https://github.com/erigontech/erigon/pull/23191#pullrequestreview-4906430501) - 2026-08-11
+* [Review] [Review on: execution/commitment: remove TrieReader](https://github.com/erigontech/erigon/pull/23190#pullrequestreview-4906326906) - 2026-08-11
+* [Review] [Review on: execution/commitment: small cleanups in the parallel trie core](https://github.com/erigontech/erigon/pull/23186#pullrequestreview-4906366651) - 2026-08-11
+* [Review] [Review on: [r3.5] build(deps): bump x/text, x/net, webtransport-go, chi for security advisories](https://github.com/erigontech/erigon/pull/23178#pullrequestreview-4905596459) - 2026-08-11
+* [Review] [Review on: execution/commitment: arena-allocate prefixNode extensions](https://github.com/erigontech/erigon/pull/23188#pullrequestreview-4906456570) - 2026-08-11
+* [Review] [Review on: [r3.6] rpc/jsonrpc: return requested numeric selector in erigon_blockNumber](https://github.com/erigontech/erigon/pull/23175#pullrequestreview-4905253938) - 2026-08-11
+* [Review] [Review on: [r3.5] execution: build payloads until the slot they are for](https://github.com/erigontech/erigon/pull/23102#pullrequestreview-4905727714) - 2026-08-11
+* [Review] [Review on: all: enable makezero errchkjson noctx linters](https://github.com/erigontech/erigon/pull/23174#pullrequestreview-4906444746) - 2026-08-11
+* [Review] [Review on: execution/commitment: make the storage-branch cache route allocation-free](https://github.com/erigontech/erigon/pull/23189#pullrequestreview-4906333998) - 2026-08-11
+* [Pull Request] [common/dbg: disable adaptive trunk-pin by default](https://github.com/erigontech/erigon/pull/23169) - 2026-08-11
+* [Review] [Review on: cmd/evm: speed up TestEvmRun](https://github.com/erigontech/erigon/pull/23120#pullrequestreview-4902503566) - 2026-08-11
+* [Pull Request] [db/seg, db/seg/patricia: fix fuzz harness defects](https://github.com/erigontech/erigon/pull/23173) - 2026-08-11
+* [Issue] [TxPool: move validateBlobTx out of `global mutex` critical section](https://github.com/erigontech/erigon/issues/23163) - 2026-08-11
+* [Commit] [common/dbg: disable adaptive trunk-pin by default (#23169)](https://github.com/erigontech/erigon/commit/da82f8b6e59080e8fedfcfdd63cf5f768731ef91) - 2026-08-11
+* [Commit] [state_cache: 1g default for storage, 128mb defautl for accs, 32mb for codeHashes (#23157)](https://github.com/erigontech/erigon/commit/2589f51d3bd8ea05382acde45fadff84f7a0025d) - 2026-08-11
+* [Commit] [execution/commitment: pass the leaf value to completeLeafHash without boxing it (#23162)](https://github.com/erigontech/erigon/commit/df6bfe5b15c920fefa229bef0c89666353ef92e8) - 2026-08-11
+* [Commit] [execution/commitment: stop trace and branch-slot writes from heap-pinning locals (#23159)](https://github.com/erigontech/erigon/commit/833e45dec83ba437e9406133d4659aad623ca08a) - 2026-08-11
+* [Commit] [db/integrity, execution/commitment: guard IsComplete against short branch buffers (#23158)](https://github.com/erigontech/erigon/commit/dc2ebbcdb8b05e9d989ff0961e1c4a5fdb0e7a24) - 2026-08-11
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

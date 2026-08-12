@@ -26,6 +26,10 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278) - 2026-07-31
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4832633467) - 2026-07-31
 * [Pull Request] [fix(zkevm): preserve extra data in environment and update block artifact construction](https://github.com/ethereum/execution-specs/pull/3292) - 2026-08-04
+* [Pull Request] [feat(zkevm): replace SszList with ProgressiveList for state, codes, and public keys](https://github.com/ethereum/execution-specs/pull/3356) - 2026-08-11
+* [Review] [Review on: feat(zkevm): replace SszList with ProgressiveList for state, codes, and public keys](https://github.com/ethereum/execution-specs/pull/3356#pullrequestreview-4906642437) - 2026-08-11
+* [Review] [Review on: refactor(spec-specs): split _prepare_data out of _prepare_trie](https://github.com/ethereum/execution-specs/pull/3353#pullrequestreview-4908446784) - 2026-08-11
+* [Review] [Review on: fix(spec-specs): carry excess blob gas across fork transitions](https://github.com/ethereum/execution-specs/pull/3352#pullrequestreview-4908405169) - 2026-08-11
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12
@@ -70,6 +74,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Update EIP-8297.md](https://github.com/ethereum/EIPs/pull/11978#pullrequestreview-4754853085) - 2026-07-22
 
+* [Commit] [Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/commit/6a3b988b70552644b4c801dc55aa7be5edef20c2) - 2026-08-11
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: debug: add debug_executionWitness spec](https://github.com/ethereum/execution-apis/pull/847#pullrequestreview-4792119037) - 2026-07-27
 

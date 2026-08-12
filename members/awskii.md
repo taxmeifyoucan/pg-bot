@@ -232,11 +232,37 @@ Team: Erigon
 * [Review] [Review on: [wip] execution/state: range-scan the destruct in versionedStateReader reads](https://github.com/erigontech/erigon/pull/23072#pullrequestreview-4897816447) - 2026-08-10
 * [Review] [Review on: execution/execmodule, node: remove the FCU background flush/commit path](https://github.com/erigontech/erigon/pull/23051#pullrequestreview-4895352061) - 2026-08-10
 * [Pull Request] [rpc/jsonrpc: debug_executionWitness for the binary trie](https://github.com/erigontech/erigon/pull/23136) - 2026-08-10
+* [Pull Request] [execution/commitment: drop redundant copies of HexToCompact results](https://github.com/erigontech/erigon/pull/23187) - 2026-08-11
+* [Pull Request] [execution/commitment: consolidate fragmented test files](https://github.com/erigontech/erigon/pull/23184) - 2026-08-11
+* [Pull Request] [rpc: fix parity_listStorageKeys state version and gate eth_getProof on execution](https://github.com/erigontech/erigon/pull/23165) - 2026-08-11
+* [Review] [Review on: rpc: fix parity_listStorageKeys state version and gate eth_getProof on execution](https://github.com/erigontech/erigon/pull/23165#pullrequestreview-4903463151) - 2026-08-11
+* [Pull Request] [execution/commitment: size keyArena chunks from the subtree key count](https://github.com/erigontech/erigon/pull/23183) - 2026-08-11
+* [Pull Request] [execution/commitment: drop dead accessors and a vestigial parameter](https://github.com/erigontech/erigon/pull/23185) - 2026-08-11
+* [Review] [Review on: execution/commitment: drop dead accessors and a vestigial parameter](https://github.com/erigontech/erigon/pull/23185#pullrequestreview-4906796738) - 2026-08-11
+* [Pull Request] [execution/commitment: remove the streaming commitment mode](https://github.com/erigontech/erigon/pull/23191) - 2026-08-11
+* [Pull Request] [execution/commitment: remove TrieReader](https://github.com/erigontech/erigon/pull/23190) - 2026-08-11
+* [Pull Request] [execution/commitment: small cleanups in the parallel trie core](https://github.com/erigontech/erigon/pull/23186) - 2026-08-11
+* [Pull Request] [execution/commitment: arena-allocate prefixNode extensions](https://github.com/erigontech/erigon/pull/23188) - 2026-08-11
+* [Review] [Review on: execution/commitment: arena-allocate prefixNode extensions](https://github.com/erigontech/erigon/pull/23188#pullrequestreview-4906723794) - 2026-08-11
+* [Review] [Review on: rpc/jsonrpc: return requested numeric selector in erigon_blockNumber](https://github.com/erigontech/erigon/pull/23127#pullrequestreview-4903635154) - 2026-08-11
+* [Pull Request] [execution/commitment: make the storage-branch cache route allocation-free](https://github.com/erigontech/erigon/pull/23189) - 2026-08-11
+* [Review] [Review on: common/dbg: disable adaptive trunk-pin by default](https://github.com/erigontech/erigon/pull/23169#pullrequestreview-4905346201) - 2026-08-11
+* [Review] [Review on: cl/forkchoice: harden Gloas envelope persistence](https://github.com/erigontech/erigon/pull/23152#pullrequestreview-4904063797) - 2026-08-11
+* [Commit] [execution/commitment: drop redundant copies of HexToCompact results (#23187)](https://github.com/erigontech/erigon/commit/dd99b07c6301bab569f7cd5da0faa8707d065d92) - 2026-08-11
+* [Commit] [execution/commitment: consolidate fragmented test files (#23184)](https://github.com/erigontech/erigon/commit/05c9d3c2b7be179ce07a692b6ea95de7a5d1aee3) - 2026-08-11
+* [Commit] [rpc: fix parity_listStorageKeys state version and gate eth_getProof on execution (#23165)](https://github.com/erigontech/erigon/commit/5c2ac905c89f41fc466e4f8b573eea11ff1d8eb9) - 2026-08-11
+* [Commit] [execution/commitment: size keyArena chunks from the subtree key count (#23183)](https://github.com/erigontech/erigon/commit/865dada42844c82be725ef4eb2e8cd0e9b64c49e) - 2026-08-11
+* [Commit] [execution/commitment: remove TrieReader (#23190)](https://github.com/erigontech/erigon/commit/6895a5d47213f8ca746a3be048acf702c9986211) - 2026-08-11
+* [Commit] [execution/commitment: small cleanups in the parallel trie core (#23186)](https://github.com/erigontech/erigon/commit/cc4fbf4730d196eda726ef8b26052b14b7a99653) - 2026-08-11
+* [Commit] [execution/stagedsync: drain block requests before the result that races them (#23148)](https://github.com/erigontech/erigon/commit/2ab27fe9863ec8ddb98d85128824639dbb3400e0) - 2026-08-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05
 * [Pull Request] [binary(tests): vector cases for zero code chunks in the code zone](https://github.com/ethereum/execution-specs/pull/3305) - 2026-08-05
 * [Pull Request] [binary(tests): removal must keep overflow code a survivor shares](https://github.com/ethereum/execution-specs/pull/3315) - 2026-08-05
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Pull Request] [integration_test: debug_traceBlockByNumber(pending) now returns an error](https://github.com/erigontech/rpc-tests/pull/588) - 2026-08-11
 ## Q2 2026
 
 

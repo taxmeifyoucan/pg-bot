@@ -57,9 +57,17 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Only accept the requested header in FetchHeaderFromPeer](https://github.com/NethermindEth/nethermind/pull/12730#pullrequestreview-4885699841) - 2026-08-07
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12751#pullrequestreview-4892317381) - 2026-08-09
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12752#pullrequestreview-4892316931) - 2026-08-09
+* [Pull Request] [ci: add stateless execution output validation](https://github.com/NethermindEth/nethermind/pull/12779) - 2026-08-11
+* [Review] [Review on: ci: add stateless execution output validation](https://github.com/NethermindEth/nethermind/pull/12779#pullrequestreview-4910441900) - 2026-08-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03
+
+[ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
+* [Pull Request] [Fix YAML folding](https://github.com/ethereum/c-kzg-4844/pull/658) - 2026-08-11
+* [Pull Request] [Migrate to NuGet trusted publishing](https://github.com/ethereum/c-kzg-4844/pull/657) - 2026-08-11
+* [Commit] [Fix YAML folding (#658)](https://github.com/ethereum/c-kzg-4844/commit/b7e4098813e02c866d8def4e88524be8a6bedc7f) - 2026-08-11
+* [Commit] [Migrate to NuGet trusted publishing (#657)](https://github.com/ethereum/c-kzg-4844/commit/97449bc8c2c738d254b3085473e35a9d71a26b1c) - 2026-08-11
 ## Q2 2026
 
 

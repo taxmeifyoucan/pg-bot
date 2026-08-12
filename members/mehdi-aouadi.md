@@ -66,6 +66,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [update gossip validation logs (#11065)](https://github.com/Consensys/teku/commit/5c15c8a415b322c1e3509e1111fe9a04653a575f) - 2026-08-05
 * [Pull Request] [Merge branch master](https://github.com/Consensys/teku/pull/11072) - 2026-08-10
 * [Pull Request] [Document gossip validator log context](https://github.com/Consensys/teku/pull/11071) - 2026-08-10
+* [Pull Request] [limit block operations for progressive lists](https://github.com/Consensys/teku/pull/11084) - 2026-08-11
+* [Review] [Review on: add post proposer preferences](https://github.com/Consensys/teku/pull/11035#pullrequestreview-4908479553) - 2026-08-11
+* [Issue] [Gloas Block Packing Ignores Consensus Operation Limits](https://github.com/Consensys/teku/issues/11083) - 2026-08-11
 ## Q2 2026
 
 

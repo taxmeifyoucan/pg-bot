@@ -118,6 +118,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: simulation gas: do not apply EIP-7825 txGasLimitCap ](https://github.com/besu-eth/besu/pull/10885#pullrequestreview-4879875577) - 2026-08-07
 * [Pull Request] [Dockerfile: update ubuntu base image version](https://github.com/besu-eth/besu/pull/11008) - 2026-08-10
 * [Commit] [Dockerfile: update ubuntu base image version (#11008)](https://github.com/besu-eth/besu/commit/d80344dd277a3470ff7448601e87cd720ac14174) - 2026-08-11
+* [Pull Request] [Remove deprecated --Xmax-tracked-seen-txs-per-peer alias](https://github.com/besu-eth/besu/pull/11018) - 2026-08-11
+* [Pull Request] [Remove deprecated --min-block-occupancy-ratio CLI option](https://github.com/besu-eth/besu/pull/11017) - 2026-08-11
+* [Pull Request] [fix(acceptance-tests): use ephemeral ports for BFT nodes](https://github.com/besu-eth/besu/pull/11020) - 2026-08-11
+* [Review] [Review on: fix: defer eth_simulate nonce validation](https://github.com/besu-eth/besu/pull/10702#pullrequestreview-4903803581) - 2026-08-11
+* [Commit] [simulation gas: do not apply EIP-7825 txGasLimitCap (#10885)](https://github.com/besu-eth/besu/commit/1b96266a53e65e54781a81d3cd9ebedfe8c0da01) - 2026-08-11
+* [Commit] [deprecate(cli): --network=dev with warning message (#10836)](https://github.com/besu-eth/besu/commit/c568691bd6ad493d1086dc4f73d6b4aa603ac136) - 2026-08-11
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21
@@ -127,6 +133,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Review] [Review on: Feature: Remove vertx as a dependency / transitive deps via tuweni](https://github.com/Consensys/discovery/pull/238#pullrequestreview-4901985412) - 2026-08-11
+
+[Consensys/tuweni](https://github.com/Consensys/tuweni)
+* [Review] [Review on: GHA: bump and pin to SHA](https://github.com/Consensys/tuweni/pull/67#pullrequestreview-4911422563) - 2026-08-11
 ## Q2 2026
 
 

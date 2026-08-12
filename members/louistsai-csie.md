@@ -96,6 +96,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(test-benchmark): add stub account configuration, with state-actor example config](https://github.com/ethereum/execution-specs/pull/3203#pullrequestreview-4894688482) - 2026-08-10
 * [Review] [Review on: feat(test-logging,test-consume): add ms-precision lifecycle logging to consume enginex](https://github.com/ethereum/execution-specs/pull/3306#pullrequestreview-4894311336) - 2026-08-10
 * [Review] [Review on: refactor(test-rpc): unify batch request chunking [backport benchmarks/amsterdam]](https://github.com/ethereum/execution-specs/pull/3331#pullrequestreview-4893708340) - 2026-08-10
+* [Review] [Review on: feat(test-specs): Allow specs to fill same fixture format more than once, add `inclusion_test` marker](https://github.com/ethereum/execution-specs/pull/3337#pullrequestreview-4903234417) - 2026-08-11
+* [Review] [Review on: perf(test-rpc, test-fill): fetch a block's receipts with single `eth_getBlockReceipts`](https://github.com/ethereum/execution-specs/pull/3345#pullrequestreview-4903105482) - 2026-08-11
+* [Pull Request] [feat(test-benchmark): more worst case scenario](https://github.com/ethereum/execution-specs/pull/3349) - 2026-08-11
+* [Review] [Review on: chore(tests): derive blob tx gas from fork intrinsic cost](https://github.com/ethereum/execution-specs/pull/3346#pullrequestreview-4903006417) - 2026-08-11
+* [Review] [Review on: chore(test-client-clis): update geth BAL exception mappings](https://github.com/ethereum/execution-specs/pull/3347#pullrequestreview-4902972879) - 2026-08-11
 ## Q2 2026
 
 

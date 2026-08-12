@@ -87,6 +87,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Deduplicate execution payload envelopes on gossip](https://github.com/sigp/lighthouse/pull/9775#pullrequestreview-4896929322) - 2026-08-10
 * [Review] [Review on: Add dependent root check to proposer preferences validation (alpha.13)](https://github.com/sigp/lighthouse/pull/9760#pullrequestreview-4895005394) - 2026-08-10
 * [Review] [Review on: Rename inclusion_list_committee_root to dependent_root per spec change](https://github.com/sigp/lighthouse/pull/9774#pullrequestreview-4895146299) - 2026-08-10
+
+* [Pull Request] [Fix issue with atttester slashing](https://github.com/sigp/lighthouse/pull/9793) - 2026-08-11
+* [Review] [Review on: Use ProgressiveTransactions type for the IL transactions field](https://github.com/sigp/lighthouse/pull/9747#pullrequestreview-4905315667) - 2026-08-11
+* [Review] [Review on: Rename max IL transactions bytes constant per spec change](https://github.com/sigp/lighthouse/pull/9741#pullrequestreview-4904046865) - 2026-08-11
+* [Pull Request] [Gloas progressive merkle proofs](https://github.com/sigp/lighthouse/pull/9790) - 2026-08-11
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 ## Q2 2026
 
 

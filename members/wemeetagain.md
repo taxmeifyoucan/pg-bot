@@ -103,6 +103,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: harden safe execution block hash handling](https://github.com/ChainSafe/lodestar/pull/9794#pullrequestreview-4901034249) - 2026-08-10
 * [Review] [Review on: chore: address block validation and equivocation follow-ups](https://github.com/ChainSafe/lodestar/pull/9795#pullrequestreview-4901013261) - 2026-08-10
 * [Review] [Review on: fix: harden range sync hashBlocks()](https://github.com/ChainSafe/lodestar/pull/9686#pullrequestreview-4899316776) - 2026-08-10
+* [Review] [Review on: deps: bump discv5 to 12.0.2 and enr to 6.0.2](https://github.com/ChainSafe/lodestar/pull/9810#pullrequestreview-4910044794) - 2026-08-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -160,6 +161,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: avoid slow tests in AGENTS.md (#546)](https://github.com/ChainSafe/lodestar-z/commit/c60f2a9dae9b131b716e802e22c6d37c850d6dd8) - 2026-08-08
 * [Pull Request] [build(bls): consume upstream blst module](https://github.com/ChainSafe/lodestar-z/pull/554) - 2026-08-10
 * [Review] [Review on: fix(bls): make batch cardinality structural](https://github.com/ChainSafe/lodestar-z/pull/547#pullrequestreview-4897581143) - 2026-08-10
+* [Review] [Review on: feat(pubkeys): add getPubkeyBytes binding](https://github.com/ChainSafe/lodestar-z/pull/555#pullrequestreview-4910063651) - 2026-08-11
+* [Review] [Review on: docs(pkix): document load provenance requirement](https://github.com/ChainSafe/lodestar-z/pull/556#pullrequestreview-4906793978) - 2026-08-11
+* [Review] [Review on: fix(bls): bound randomized aggregation inputs](https://github.com/ChainSafe/lodestar-z/pull/548#pullrequestreview-4906746922) - 2026-08-11
+* [Review] [Review on: perf(bls): bypass worker queue for small batches](https://github.com/ChainSafe/lodestar-z/pull/553#pullrequestreview-4906703842) - 2026-08-11
+* [Commit] [build(bls): consume upstream blst module (#554)](https://github.com/ChainSafe/lodestar-z/commit/77a108c5ef18dc939089aaa21e7c5ed02932da86) - 2026-08-11
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

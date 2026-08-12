@@ -78,11 +78,17 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4646570170) - 2026-07-07
 
+* [Pull Request] [Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533) - 2026-08-11
+* [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4906318718) - 2026-08-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899) - 2026-07-08
 * [Commit] [Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/commit/554d3325e31c3f74078402d961355218ece16bee) - 2026-07-08
 
 * [Review] [Review on: Update EIP-8045: Move to Review](https://github.com/ethereum/EIPs/pull/11886#pullrequestreview-4808402094) - 2026-07-29
+* [Review] [Review on: Update EIP-8261: Clarify epoch-based activation](https://github.com/ethereum/EIPs/pull/12142#pullrequestreview-4906134783) - 2026-08-11
+* [Pull Request] [Update EIP-8261: Convert to Informational gas limit schedule recommendation](https://github.com/ethereum/EIPs/pull/12140) - 2026-08-11
+* [Review] [Review on: Update EIP-8261: Convert to Informational gas limit schedule recommendation](https://github.com/ethereum/EIPs/pull/12140#pullrequestreview-4904809275) - 2026-08-11
+* [Commit] [Update EIP-8261: Convert to Informational gas limit schedule recommendation](https://github.com/ethereum/EIPs/commit/9ca2423fdd381d79778743ece889a95d0cf1ec46) - 2026-08-11
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Commit] [Hetzner: cpx (new gen) defaults + capacity-aware placement (#166)](https://github.com/ethpandaops/template-devnets/commit/dc0f417b554f76339098eb2754eec9b1daf5ed41) - 2026-07-27
 

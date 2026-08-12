@@ -51,6 +51,9 @@ Team: Geth
 * [Review] [Review on: Config: Populate personal dictionary for markdown-spell](https://github.com/ethereum/EIPs/pull/12053#pullrequestreview-4829669050) - 2026-07-31
 * [Pull Request] [Update EIP-8282: only exit contract sets inhibitor](https://github.com/ethereum/EIPs/pull/12057) - 2026-07-31
 * [Review] [Review on: Update EIP-1: allow links to sys-asm](https://github.com/ethereum/EIPs/pull/12021#pullrequestreview-4898083431) - 2026-08-10
+* [Review] [Review on: Update EIP-8141: Add explicit second dimension for state gas to frames](https://github.com/ethereum/EIPs/pull/12062#pullrequestreview-4910399686) - 2026-08-11
+* [Review] [Review on: Update EIP-8141: link the first reference to each cited proposal](https://github.com/ethereum/EIPs/pull/12121#pullrequestreview-4910736807) - 2026-08-11
+* [Review] [Review on: Update EIP-8141: ban SLOTNUM during validation-prefix execution](https://github.com/ethereum/EIPs/pull/12066#pullrequestreview-4910724963) - 2026-08-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06
@@ -63,6 +66,8 @@ Team: Geth
 
 * [Review] [Review on: version: release v1.17.5](https://github.com/ethereum/go-ethereum/pull/35421#pullrequestreview-4783275640) - 2026-07-27
 * [Review] [Review on: core: update to newest parameters](https://github.com/ethereum/go-ethereum/pull/35454#pullrequestreview-4844006267) - 2026-08-03
+* [Review] [Review on: core, eth/catalyst, beacon/engine: update for glam8](https://github.com/ethereum/go-ethereum/pull/35514#pullrequestreview-4906434594) - 2026-08-11
+* [Review] [Review on: all: propagate rules into the stateDB](https://github.com/ethereum/go-ethereum/pull/35498#pullrequestreview-4906519425) - 2026-08-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4744394254) - 2026-07-21
 
@@ -70,9 +75,12 @@ Team: Geth
 * [Review] [Review on: tests: update test chain to osaka + bpo1/bpo2, regenerate fixtures](https://github.com/ethereum/execution-apis/pull/846#pullrequestreview-4755345629) - 2026-07-22
 
 * [Review] [Review on: spec: allow EIP-1898 block objects in BlockNumberOrTagOrHash](https://github.com/ethereum/execution-apis/pull/859#pullrequestreview-4898248554) - 2026-08-10
+* [Review] [Review on: testgen: fix duplicate test names and regenerate fixtures](https://github.com/ethereum/execution-apis/pull/858#pullrequestreview-4910081875) - 2026-08-11
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [fix(rpc-compat): support large fixture messages](https://github.com/ethereum/hive/pull/1583) - 2026-07-22
 * [Commit] [fix(rpc-compat): support large fixture messages (#1583)](https://github.com/ethereum/hive/commit/ce2a6785d5f7dbf45f24d2b9e7a2620c4716922a) - 2026-07-22
+* [Review] [Review on: simulators/ethereum/rpc-compat: tracer-aware schema selection for speconly tests](https://github.com/ethereum/hive/pull/1588#pullrequestreview-4908201648) - 2026-08-11
+* [Review] [Review on: cmd/hivechain: add calltree contract and tx mods for callTracer testing](https://github.com/ethereum/hive/pull/1587#pullrequestreview-4907654341) - 2026-08-11
 ## Q2 2026
 
 

@@ -20,6 +20,10 @@ Team: Codex DAS
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4818065623) - 2026-07-30
 * [Pull Request] [Add EIP: RowDAS - Distributed Blob Reconstruction](https://github.com/ethereum/EIPs/pull/12118) - 2026-08-06
 * [Commit] [Add EIP: RowDAS - Distributed Blob Reconstruction](https://github.com/ethereum/EIPs/commit/6e421f7412bd682116d3929dd023dba2256049bb) - 2026-08-11
+* [Pull Request] [Update EIP-8371: clarify individual blob retrieval aspect](https://github.com/ethereum/EIPs/pull/12143) - 2026-08-11
+* [Pull Request] [Update EIP-8371: role split, phased reconstruction, security analysis](https://github.com/ethereum/EIPs/pull/12138) - 2026-08-11
+* [Commit] [Update EIP-8371: clarify individual blob retrieval aspect](https://github.com/ethereum/EIPs/commit/169a65510927f58bdafdc67e840d53020e7a91ca) - 2026-08-11
+* [Commit] [Update EIP-8371: role split, phased reconstruction, security analysis](https://github.com/ethereum/EIPs/commit/b325d33d61f18c8bc9f5f2b9b9c59f8bf702141a) - 2026-08-11
 ## Q2 2026
 
 

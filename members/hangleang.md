@@ -42,6 +42,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [glamsterdam-devnet-8](https://github.com/grandinetech/grandine/issues/835) - 2026-07-30
 * [Pull Request] [Gloas bid selection](https://github.com/grandinetech/grandine/pull/837) - 2026-08-03
 * [Issue] [Builder blacklisting](https://github.com/grandinetech/grandine/issues/841) - 2026-08-10
+* [Pull Request] [Use genesis block root as dependent root for the first 2 epochs](https://github.com/grandinetech/grandine/pull/846) - 2026-08-11
+* [Pull Request] [Set attestation data index based on the payload status in the node fork-choice](https://github.com/grandinetech/grandine/pull/845) - 2026-08-11
+* [Pull Request] [Publish Gloas beacon block before data column sidecars](https://github.com/grandinetech/grandine/pull/844) - 2026-08-11
+* [Pull Request] [Add Gloas global circuit breaker](https://github.com/grandinetech/grandine/pull/843) - 2026-08-11
 ## Q2 2026
 
 

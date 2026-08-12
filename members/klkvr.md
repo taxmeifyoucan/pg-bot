@@ -45,6 +45,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [refactor: reuse evm for block-level tracing](https://github.com/paradigmxyz/reth/pull/26614) - 2026-08-06
 * [Pull Request] [refactor: reuse evm for block-level tracing](https://github.com/paradigmxyz/reth/pull/26613) - 2026-08-06
 * [Commit] [refactor: reuse evm for block-level tracing (#26614)](https://github.com/paradigmxyz/reth/commit/d229be69356313e5988e98db4183da194076a80c) - 2026-08-07
+* [Review] [Review on: fix(engine): adjust payload validation](https://github.com/paradigmxyz/reth/pull/26651#pullrequestreview-4908802485) - 2026-08-11
+* [Review] [Review on: fix(txpool): allow senders with empty code hash](https://github.com/paradigmxyz/reth/pull/26644#pullrequestreview-4906200316) - 2026-08-11
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

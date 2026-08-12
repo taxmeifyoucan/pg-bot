@@ -98,6 +98,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Update CHANGELOG post 26.8.0 release](https://github.com/Consensys/teku/pull/11074#pullrequestreview-4902000823) - 2026-08-11
 * [Pull Request] [Initial implementation of block production for gloas](https://github.com/Consensys/teku/pull/11069) - 2026-08-10
 * [Review] [Review on: Initial implementation of block production for gloas](https://github.com/Consensys/teku/pull/11069#pullrequestreview-4893793529) - 2026-08-10
+* [Review] [Review on: Legitimise --validators-external-signer-concurrent-limit](https://github.com/Consensys/teku/pull/11063#pullrequestreview-4904076192) - 2026-08-11
+* [Review] [Review on: Remove deprecated methods from MiscHelpersFulu](https://github.com/Consensys/teku/pull/11059#pullrequestreview-4910284350) - 2026-08-11
+* [Pull Request] [Remove startup branch node cache rebuild for tree state database](https://github.com/Consensys/teku/pull/11078) - 2026-08-11
+* [Review] [Review on: Initial implementation of block production for gloas](https://github.com/Consensys/teku/pull/11069#pullrequestreview-4910880776) - 2026-08-11
+* [Pull Request] [Fix Fulu fork-choice timeliness to be recorded post-DA, not at block body arrival](https://github.com/Consensys/teku/pull/11080) - 2026-08-11
+* [Review] [Review on: Fix Fulu fork-choice timeliness to be recorded post-DA, not at block body arrival](https://github.com/Consensys/teku/pull/11080#pullrequestreview-4910007633) - 2026-08-11
+* [Review] [Review on: Updated bouncy castle](https://github.com/Consensys/teku/pull/11076#pullrequestreview-4902393695) - 2026-08-11
+* [Commit] [Fix Fulu fork-choice timeliness to be recorded post-DA, not at block body arrival (#11080)](https://github.com/Consensys/teku/commit/81a995613f9838062e1c01d7fc195a34965a6a95) - 2026-08-11
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

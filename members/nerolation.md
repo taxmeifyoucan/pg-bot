@@ -46,6 +46,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8131: Highlight block-size cap upfront](https://github.com/ethereum/EIPs/commit/96507525affbe67a41d9b90ee6a7ebd45ee2a421) - 2026-08-07
 * [Commit] [Update EIP-8250: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/commit/c9d962f194b9b167e045b3b68a7a292cdc4cec7f) - 2026-08-08
 * [Commit] [Update EIP-8272: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/commit/a96bfaebd23ab7b9d00c63108bc65a2129c42952) - 2026-08-08
+* [Pull Request] [Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139) - 2026-08-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 
@@ -53,11 +54,16 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [fix(spec-specs, tests): apply calldata floor to block-level regular gas (#3144)](https://github.com/ethereum/execution-specs/commit/c74f1a67b63c7b34c2204bf2d5fd20b8fcabc981) - 2026-07-10
 * [Pull Request] [feat(spec-specs): add EIP-7997 deterministic factory deployment](https://github.com/ethereum/execution-specs/pull/3200) - 2026-07-20
 * [Pull Request] [feat(spec-specs): add EIP-7997 deterministic factory deployment](https://github.com/ethereum/execution-specs/pull/3198) - 2026-07-20
+* [Pull Request] [feat(spec-specs): add EIP-8279 block access list byte floo](https://github.com/ethereum/execution-specs/pull/3351) - 2026-08-11
+* [Pull Request] [feat(spec-specs): add EIP-8131 unified transaction content floor](https://github.com/ethereum/execution-specs/pull/3350) - 2026-08-11
 [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Add proposal for native UTXOs on Ethereum](https://github.com/nerolation/pglanding-nerolation/commit/6eda8a600eac2ec897055484efc1348b65e0246d) - 2026-07-08
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [eth/debug: specify block access list getter semantics](https://github.com/ethereum/execution-apis/pull/851) - 2026-07-18
+
+[ethereum/hive](https://github.com/ethereum/hive)
+* [Commit] [simulators/devp2p: add snap2 suite for EIP-8189 conformance tests (#1440)](https://github.com/ethereum/hive/commit/0434cf4601a334dfd342ac069e956749f36c8151) - 2026-08-11
 ## Q2 2026
 
 

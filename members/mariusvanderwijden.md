@@ -67,6 +67,7 @@ Team: Geth
 * [Review] [Review on: graphql: add slotNumber to block schema](https://github.com/ethereum/go-ethereum/pull/35469#pullrequestreview-4883562350) - 2026-08-07
 * [Review] [Review on: core: revert block validation optimization](https://github.com/ethereum/go-ethereum/pull/35490#pullrequestreview-4894174788) - 2026-08-10
 * [Review] [Review on: core/vm, params, tests: update gas price parameters](https://github.com/ethereum/go-ethereum/pull/35497#pullrequestreview-4894171390) - 2026-08-10
+* [Review] [Review on: core/vm: key the precompile cache on the input instead of its hash](https://github.com/ethereum/go-ethereum/pull/35473#pullrequestreview-4905530261) - 2026-08-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 

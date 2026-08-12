@@ -31,6 +31,16 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Add ROCKSDB_TREE as a database version](https://github.com/Consensys/teku/pull/10993#pullrequestreview-4850528156) - 2026-08-04
 * [Pull Request] [Update CHANGELOG post 26.8.0 release](https://github.com/Consensys/teku/pull/11074) - 2026-08-11
 * [Commit] [Update CHANGELOG (#11074)](https://github.com/Consensys/teku/commit/00914574c555a26c884ed04b77ae2b4c449e38dd) - 2026-08-11
+* [Review] [Review on: Remove startup branch node cache rebuild for tree state database](https://github.com/Consensys/teku/pull/11078#pullrequestreview-4911807649) - 2026-08-12
+* [Review] [Review on: Fix Fulu fork-choice timeliness to be recorded post-DA, not at block body arrival](https://github.com/Consensys/teku/pull/11080#pullrequestreview-4910200398) - 2026-08-11
+* [Pull Request] [Allow empty issuer when verifying X.509 certificates (p2p)](https://github.com/Consensys/teku/pull/11082) - 2026-08-11
+* [Pull Request] [Updated bouncy castle](https://github.com/Consensys/teku/pull/11076) - 2026-08-11
+* [Review] [Review on: Revert "Updated bouncy castle (#11076)"](https://github.com/Consensys/teku/pull/11081#pullrequestreview-4903504764) - 2026-08-11
+* [Pull Request] [Remove GitPOAP badge from README](https://github.com/Consensys/teku/pull/11077) - 2026-08-11
+* [Pull Request] [Remove GitPOAP badge from README](https://github.com/Consensys/teku/pull/11079) - 2026-08-11
+* [Commit] [Allow empty issuer when verifying X.509 certificates (p2p) (#11082)](https://github.com/Consensys/teku/commit/065c5eda40b278fcbfe8f9b14100bee6d573fce7) - 2026-08-11
+* [Commit] [Updated bouncy castle (#11076)](https://github.com/Consensys/teku/commit/6ce1e38114479d1809e961bb9c811534a2e9df7c) - 2026-08-11
+* [Commit] [Remove GitPOAP badge from README (#11079)](https://github.com/Consensys/teku/commit/a3a515cac8e73b643ebfe65ec461e20395b68619) - 2026-08-11
 ## Q2 2026
 
 

@@ -122,6 +122,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [chore(testing): delete or revive test_count_opcodes.py (never runnable since introduction)](https://github.com/ethereum/execution-specs/issues/3326) - 2026-08-06
 * [Commit] [fix(test-execute): register per-test hive test cases with the shared client (#3317)](https://github.com/ethereum/execution-specs/commit/b802df1fccd94e9c7054d61ea925503dddf7c855) - 2026-08-06
 * [Pull Request] [fix(consume): harden enginex hive reporting against connection errors](https://github.com/ethereum/execution-specs/pull/3335) - 2026-08-07
+* [Commit] [feat(consume): add ms-precision lifecycle logging to consume enginex (#3306)](https://github.com/ethereum/execution-specs/commit/5b2b22c75f69bda02615204396b70a91e00529e0) - 2026-08-11
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

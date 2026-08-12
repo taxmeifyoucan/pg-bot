@@ -67,6 +67,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Pull Request] [Remove --deposit-snapshot-enabled and bundled deposit tree snapshots](https://github.com/Consensys/teku/pull/11068) - 2026-08-06
 * [Review] [Review on: Remove --deposit-snapshot-enabled and bundled deposit tree snapshots](https://github.com/Consensys/teku/pull/11068#pullrequestreview-4893982640) - 2026-08-10
 * [Pull Request] [Validate voluntary exits using state fork](https://github.com/Consensys/teku/pull/11070) - 2026-08-10
+* [Pull Request] [Use state epoch to select the right validator for AttesterSlashing/ProposerSlashing](https://github.com/Consensys/teku/pull/11086) - 2026-08-12
+* [Review] [Review on: Allow empty issuer when verifying X.509 certificates (p2p)](https://github.com/Consensys/teku/pull/11082#pullrequestreview-4904169978) - 2026-08-11
+* [Review] [Review on: Updated bouncy castle](https://github.com/Consensys/teku/pull/11076#pullrequestreview-4902504741) - 2026-08-11
+* [Pull Request] [Revert "Updated bouncy castle (#11076)"](https://github.com/Consensys/teku/pull/11081) - 2026-08-11
+* [Review] [Review on: Remove GitPOAP badge from README](https://github.com/Consensys/teku/pull/11079#pullrequestreview-4902492297) - 2026-08-11
+* [Commit] [Validate voluntary exits using state fork (#11070)](https://github.com/Consensys/teku/commit/e369603f30e61cd73bc6141892382d16667cba00) - 2026-08-11
+* [Commit] [Remove --deposit-snapshot-enabled and bundled deposit tree snapshots (#11068)](https://github.com/Consensys/teku/commit/45193736e9d4873ace04341a7a1de8c83de45668) - 2026-08-11
 ## Q2 2026
 
 

@@ -189,6 +189,18 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(tests): enhance & un-skip Amsterdam ported static depth-recursion tests (Pt. 2a) (#3264)](https://github.com/ethereum/execution-specs/commit/343274cc0f43962ff39a648e2b2614bf227f8d1f) - 2026-08-08
 * [Pull Request] [chore(test-client-clis): update geth BAL exception mappings](https://github.com/ethereum/execution-specs/pull/3347) - 2026-08-10
 * [Pull Request] [chore(tests): derive blob tx gas from fork intrinsic cost](https://github.com/ethereum/execution-specs/pull/3346) - 2026-08-10
+* [Pull Request] [refactor(testing): capitalize SSZ in class names](https://github.com/ethereum/execution-specs/pull/3354) - 2026-08-11
+* [Pull Request] [chore(tests): mark memory heavy tests as bigmem](https://github.com/ethereum/execution-specs/pull/3360) - 2026-08-11
+* [Pull Request] [fix(tests): use well-formed versioned hashes in getBlobs negative tests](https://github.com/ethereum/execution-specs/pull/3359) - 2026-08-11
+* [Pull Request] [refactor(spec-specs): split _prepare_data out of _prepare_trie](https://github.com/ethereum/execution-specs/pull/3353) - 2026-08-11
+* [Pull Request] [fix(spec-specs): carry excess blob gas across fork transitions](https://github.com/ethereum/execution-specs/pull/3352) - 2026-08-11
+* [Pull Request] [fix(tests): accept gas-used divergence in BAL omitted-slot-change test](https://github.com/ethereum/execution-specs/pull/3357) - 2026-08-11
+* [Issue] [Proposal: Merge binary and zkevm to `forks/amsterdam|bogota`](https://github.com/ethereum/execution-specs/issues/3355) - 2026-08-11
+* [Commit] [refactor(testing): capitalize SSZ in class names (#3354)](https://github.com/ethereum/execution-specs/commit/6e4808927cb7140f05c43890b48630afcc368d91) - 2026-08-11
+* [Commit] [chore(tests): mark memory heavy tests as bigmem (#3360)](https://github.com/ethereum/execution-specs/commit/9496fa8a498d9bd4ce924b6e9c9ac789577f121b) - 2026-08-11
+* [Commit] [fix(tests): enhance & un-skip Amsterdam ported static create-OOG tests (Pt. 2b) (#3320)](https://github.com/ethereum/execution-specs/commit/db94367fc93fe5da7f9d43584c531d8c72f034e2) - 2026-08-11
+* [Commit] [refactor(tests): derive blob tx gas from fork intrinsic cost (#3346)](https://github.com/ethereum/execution-specs/commit/ae801932088ce87df0b37cb7237ca84c45b21ff8) - 2026-08-11
+* [Commit] [fix(test-client-clis): update geth BAL exception mappings (#3347)](https://github.com/ethereum/execution-specs/commit/46ba06183131f26cdfa52bb763a203591ce6b5b1) - 2026-08-11
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -201,6 +213,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [core/txpool/blobpool: fall back to pool in GetCells for blob-mode cache entries](https://github.com/ethereum/go-ethereum/pull/35439) - 2026-07-30
 * [Commit] [core/txpool/blobpool: fall back to pool in GetCells for blob-mode cache entries (#35439)](https://github.com/ethereum/go-ethereum/commit/7a1b11564c16f54dff0a2f578179c482d9f701bf) - 2026-07-30
 * [Pull Request] [core, eth/catalyst, beacon/engine: fix pre-fork field and BAL validation for devnet-8](https://github.com/ethereum/go-ethereum/pull/35502) - 2026-08-10
+* [Review] [Review on: core, eth/catalyst, beacon/engine: update for glam8](https://github.com/ethereum/go-ethereum/pull/35514#pullrequestreview-4907948151) - 2026-08-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4635413569) - 2026-07-06
 
@@ -216,6 +229,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [hiveproxy: use GOPROXY "|" separator to fall back to direct on any proxy error](https://github.com/ethereum/hive/pull/1591) - 2026-08-06
 * [Commit] [hiveproxy: use GOPROXY "|" separator to fall back to direct on any proxy error (#1591)](https://github.com/ethereum/hive/commit/9657d0624005b13fb3d4bfc62a4036224dc54545) - 2026-08-06
 * [Review] [Review on: Use Geth-style genesis for Nethermind](https://github.com/ethereum/hive/pull/1593#pullrequestreview-4895076289) - 2026-08-10
+* [Review] [Review on: simulators/devp2p: add snap2 suite for EIP-8189 conformance tests](https://github.com/ethereum/hive/pull/1440#pullrequestreview-4907575273) - 2026-08-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4806932985) - 2026-07-29
 * [Pull Request] [Update EIP-7773: SFI remaining Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12024) - 2026-07-29

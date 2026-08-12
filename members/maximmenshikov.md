@@ -16,6 +16,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Review] [Review on: ci: pin the zisk image to the last working digest](https://github.com/NethermindEth/nethermind/pull/12542#pullrequestreview-4752952049) - 2026-07-22
 * [Pull Request] [Draft: Performance improvements](https://github.com/NethermindEth/nethermind/pull/12688) - 2026-08-04
 * [Pull Request] [Performance and FP improvement for the latest bflat](https://github.com/NethermindEth/nethermind/pull/12747) - 2026-08-08
+* [Commit] [Performance and FP improvement for the latest bflat (#12747)](https://github.com/NethermindEth/nethermind/commit/5bdba6516aa8e4b1096d4172a8ddeab1e9223690) - 2026-08-11
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Pull Request] [Documentation improvements](https://github.com/NethermindEth/bflat-riscv64/pull/31) - 2026-07-02
 * [Commit] [README: condense the Zisk postprocessing section](https://github.com/NethermindEth/bflat-riscv64/commit/81022cbfd76183a0a27fa1318a59a2672e8360f1) - 2026-07-02
@@ -88,6 +89,56 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [zkvm_zisk: drop the snapshot restore feature](https://github.com/NethermindEth/bflat-riscv64/commit/22d64bc311307bfd7d348aad9002f0217c0b86f5) - 2026-08-06
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Minimal set of patches](https://github.com/NethermindEth/dotnet-riscv/pull/7) - 2026-07-26
+* [Commit] [tools/clang: match Runtime.*.dir objects as client code](https://github.com/NethermindEth/dotnet-riscv/commit/511edf6e28ee1172c5968632bcf454e5a7bc2ebf) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: drop net472 build tasks; widen the DLL dump](https://github.com/NethermindEth/dotnet-riscv/commit/7ce159dd6bff946d373f9b25ae9629151ae44bce) - 2026-08-11
+* [Commit] [fixup/10: drop perf/34_collapse_atomics, unify atomic gate on minimal/25](https://github.com/NethermindEth/dotnet-riscv/commit/92ed29ac4850ee550e34dbbe1add6387dc87dde3) - 2026-08-11
+* [Commit] [fixup/10/minimal: port the atomic-emission gate from .NET 11](https://github.com/NethermindEth/dotnet-riscv/commit/848f6ee40b011d104e53969b3e5edc0fa74c0e8a) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: ship the freshly built ILC, never the template](https://github.com/NethermindEth/dotnet-riscv/commit/f97611c8f83de8c3d2c4781e8a164130687d9bf4) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: pin NativeAOT runtime pack via RuntimeFrameworkVersion](https://github.com/NethermindEth/dotnet-riscv/commit/5b4df6352116285379db6672caa2df644373dd07) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: scope the framework-pack pin to riscv64](https://github.com/NethermindEth/dotnet-riscv/commit/7c1d0a5ec598ef2e7870cf2aed8b64d59df49ab8) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: pin framework packs via KnownFrameworkReference](https://github.com/NethermindEth/dotnet-riscv/commit/3c1f1bbc15249817567ddb8a113609ba5bd9c618) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: pin stage-one ProductVersion to the VMR's](https://github.com/NethermindEth/dotnet-riscv/commit/a9b4218dfb5f67d1c59401f69869709336d5cd40) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: register VMR feeds for the toolset restore](https://github.com/NethermindEth/dotnet-riscv/commit/636020bbd4b9bf125e1bcc41daaab6f4960d74ba) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: point stage-one restore at local VMR packs](https://github.com/NethermindEth/dotnet-riscv/commit/6250a258f4000c2f1efd5904244b4cc36b4c38dd) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: restore the decc348 approach](https://github.com/NethermindEth/dotnet-riscv/commit/3bddb4a677d047406368cf83c46dc30d19c46e7a) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: restore the known-good build.sh version](https://github.com/NethermindEth/dotnet-riscv/commit/2053dbb2771ae9812e63861c57be637db99df061) - 2026-08-11
+* [Commit] [Revert "pack_bflat_compiler_nupkg: drop the hanging build.sh, copy prebuilt ILCompiler"](https://github.com/NethermindEth/dotnet-riscv/commit/312f0fc15679ca94a65319d4f5596fdc639bd454) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: drop the hanging build.sh, copy prebuilt ILCompiler](https://github.com/NethermindEth/dotnet-riscv/commit/973db883843839fd455161c9a62977d07e2f0acd) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: reuse source-build ILCompiler, skip the restore](https://github.com/NethermindEth/dotnet-riscv/commit/c4f4ce18591eb217b227b6c63676b030e34cee50) - 2026-08-11
+* [Commit] [fixup/11: fix plain-atomic register lifetimes (cctor SIGSEGV)](https://github.com/NethermindEth/dotnet-riscv/commit/8ddf60adc930b086341533c7773fb058e1d914b1) - 2026-08-11
+* [Commit] [fixup/11: gate riscv64 compressed and atomic JIT emission for zkVM](https://github.com/NethermindEth/dotnet-riscv/commit/02330e8b8e3b3d2ef9f23d4ac7b1510d2b9a0aef) - 2026-08-11
+* [Commit] [pack_libs: overwrite the Alpine rv64gc libatomic with our rv64im one](https://github.com/NethermindEth/dotnet-riscv/commit/80a5846796fcbd86bea37663e1b960572d11f106) - 2026-08-11
+* [Commit] [libatomic: add the soft libatomic source that was missed](https://github.com/NethermindEth/dotnet-riscv/commit/56338a642a0ff603695dc2770fe1028d78c30315) - 2026-08-11
+* [Commit] [musl: point the post-build ISA gate at the renamed isa_scan.py](https://github.com/NethermindEth/dotnet-riscv/commit/fedb2f252c686fe1d1d631148629655d6008dc1c) - 2026-08-11
+* [Commit] [GnuRootfs: pack rv64im soft libatomic instead of the rv64gc one](https://github.com/NethermindEth/dotnet-riscv/commit/be1e9350e8355f53707db8d899cd9c1a08c89ceb) - 2026-08-11
+* [Commit] [libatomic: ship a soft rv64im libatomic for the zkVM guest](https://github.com/NethermindEth/dotnet-riscv/commit/079e652b0e8031f0a32e5c3338954284911ad7ba) - 2026-08-11
+* [Commit] [rootfs: rebuild musl for rv64im instead of the stock rv64gc package](https://github.com/NethermindEth/dotnet-riscv/commit/36bc08b395c3f73561d8cc87b2a2e20e7af3b063) - 2026-08-11
+* [Commit] [fixup/11: keep the dispatch cell address alive in RhpInterfaceDispatch](https://github.com/NethermindEth/dotnet-riscv/commit/e83f2cdbc173f3b0e419ec4638f6b96404bb41b9) - 2026-08-11
+* [Commit] [tools/clang: match ninja-relative object paths in client classification](https://github.com/NethermindEth/dotnet-riscv/commit/6f14be1d55bc94f42df8ab7b2c091c2c1471adb7) - 2026-08-11
+* [Commit] [tools/clang: register client static destructors via plain atexit](https://github.com/NethermindEth/dotnet-riscv/commit/5931bc7071dda27246f37592e944747a6c2cb02a) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: restore from the VMR-built package outputs](https://github.com/NethermindEth/dotnet-riscv/commit/1597bd7d75b5aa37bd7577c496d7638bc0b21d60) - 2026-08-11
+* [Commit] [pack_refs: select only the highest reference pack version](https://github.com/NethermindEth/dotnet-riscv/commit/38736e6aa9546d53a7cbaf27f857b2f311908aa6) - 2026-08-11
+* [Commit] [pack: version-agnostic globs for runtime pack and refs](https://github.com/NethermindEth/dotnet-riscv/commit/8a3f799d602684699850986b5ba9db4186fe09fb) - 2026-08-11
+* [Commit] [tools/clang: classify client compiles by source and output path only](https://github.com/NethermindEth/dotnet-riscv/commit/ac32bb69a56e2f3f033768b5ec83ef597ebb3a97) - 2026-08-11
+* [Commit] [tools/clang: silence -Watomic-alignment for rv64im compiles](https://github.com/NethermindEth/dotnet-riscv/commit/d96ef881fca79a02a96edcd1e3a6895466ab9241) - 2026-08-11
+* [Commit] [fixup/11: retarget to release/11.0.1xx-preview7](https://github.com/NethermindEth/dotnet-riscv/commit/531a2c6a47c05e92fbb8334d0d939a84d6027bc3) - 2026-08-11
+* [Commit] [fixup: version profiles per .NET major, port minimal set to .NET 11](https://github.com/NethermindEth/dotnet-riscv/commit/a8ab3f3130526c58baedbd5e53cf3df40db888ba) - 2026-08-11
+* [Commit] [guard against SDK-only VMR branches, default to release/10.0.1xx](https://github.com/NethermindEth/dotnet-riscv/commit/4ac6c4b9c3f59776a7ba9c4eb72bdd0f5b167e5d) - 2026-08-11
+* [Commit] [workflow: allow overriding the release tag](https://github.com/NethermindEth/dotnet-riscv/commit/cafd90c77be9199ed1b2a6b512a633d8e209b1c2) - 2026-08-11
+* [Commit] [add fixup profiles with CI toggle](https://github.com/NethermindEth/dotnet-riscv/commit/29a2da3cc069fc5db086510b3ed1a0f5acc54ae2) - 2026-08-11
+* [Commit] [tools/clang: link libatomic for rv64im __atomic_* calls](https://github.com/NethermindEth/dotnet-riscv/commit/be0ab9c5de7c08498e784495715f7c88a585c1bf) - 2026-08-11
+* [Commit] [riscv64: drop atomic instructions from client-bound natives](https://github.com/NethermindEth/dotnet-riscv/commit/b1a475ad24c78a7daa642135080eaf9ee2a76ca6) - 2026-08-11
+* [Commit] [tools/clang: compile only client-bound natives as rv64ima](https://github.com/NethermindEth/dotnet-riscv/commit/6fca8a2ca6653fb5be1f4d376a20ab3a25c94ddc) - 2026-08-11
+* [Commit] [bflat-runtime: drop riscv64 soft-float libunwind patch](https://github.com/NethermindEth/dotnet-riscv/commit/0130009ebc4802f3d6d6f6a23910e3fbe35283d8) - 2026-08-11
+* [Commit] [tools/clang: link soft-fp builtins from the rootfs compiler-rt package](https://github.com/NethermindEth/dotnet-riscv/commit/4a070890a52bab4759525de3863abd256d4d0389) - 2026-08-11
+* [Commit] [workflow: point apk at the azurelinux CA bundle for the rootfs build](https://github.com/NethermindEth/dotnet-riscv/commit/d86c4a4080392d5c35bf47c0ea4559b0e826c238) - 2026-08-11
+* [Commit] [rootfs: use stock Alpine userspace, compile riscv64 natives as rv64ima](https://github.com/NethermindEth/dotnet-riscv/commit/42f8a707add2a91285a9a67ad62e7fa9a6d80f2a) - 2026-08-11
+* [Commit] [tools/clang: retag riscv64 objects to soft-float ELF ABI at link time](https://github.com/NethermindEth/dotnet-riscv/commit/951b887ab10db6e7f98299edaaf6870051055154) - 2026-08-11
+* [Commit] [bflat-runtime: drop riscv64 soft-float ELF ABI patch](https://github.com/NethermindEth/dotnet-riscv/commit/24bad3a240f052ddaf21c96b2f54b2295a262e50) - 2026-08-11
+* [Commit] [bflat-runtime: add riscv64 soft-float ELF ABI patch](https://github.com/NethermindEth/dotnet-riscv/commit/bb64e41e27c3b25b0e79f5a1df8bf871a22099eb) - 2026-08-11
+* [Commit] [bflat-runtime: drop riscv64 soft-float workaround patches](https://github.com/NethermindEth/dotnet-riscv/commit/41f118217d8d5266cb13b5bb2280b26aca3f9959) - 2026-08-11
+* [Commit] [bflat-runtime: patch riscv64 StubDispatch tail call range](https://github.com/NethermindEth/dotnet-riscv/commit/51efcac7a9bf4b5154f8cbf532723121ce1cf649) - 2026-08-11
+* [Commit] [pack_bflat_compiler_nupkg: locate riscv64 cross JIT in NuGet cache](https://github.com/NethermindEth/dotnet-riscv/commit/24f4531bb1ec2d5385624c28c668965254359629) - 2026-08-11
 ## Q2 2026
 
 

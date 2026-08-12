@@ -164,6 +164,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Introduce `get_set_bit_count` helper](https://github.com/ethereum/consensus-specs/pull/5525) - 2026-08-10
 * [Pull Request] [Remove SSZ generic tests](https://github.com/ethereum/consensus-specs/pull/5524) - 2026-08-10
 * [Commit] [Bump version to v1.7.0-alpha.14 (#5530)](https://github.com/ethereum/consensus-specs/commit/321eca5b71049fcac6c63c2d956e5c5d7b60d689) - 2026-08-10
+* [Review] [Review on: Define recursive EIP-8025 execution proof guest](https://github.com/ethereum/consensus-specs/pull/5534#pullrequestreview-4911344138) - 2026-08-11
+* [Commit] [Bump the minimum Python version to 3.12 (#5526)](https://github.com/ethereum/consensus-specs/commit/6d0e95d972a90bbf79a356ded6a704d769bb67c0) - 2026-08-11
+* [Commit] [Run filtered tests in parallel by default (#5531)](https://github.com/ethereum/consensus-specs/commit/4ab8c1a34a0f1cf1da6eb9cf4b889386fd60f868) - 2026-08-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -194,6 +197,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Use `runTests()` instead of `runAllTests()` (#645)](https://github.com/ethereum/c-kzg-4844/commit/8857fe1b05848d08f850722eed89fca66dba0542) - 2026-07-09
 
 * [Review] [Review on: Bump the actions group with 9 updates](https://github.com/ethereum/c-kzg-4844/pull/656#pullrequestreview-4835747671) - 2026-08-01
+* [Review] [Review on: Fix YAML folding](https://github.com/ethereum/c-kzg-4844/pull/658#pullrequestreview-4908705964) - 2026-08-11
+* [Review] [Review on: Migrate to NuGet trusted publishing](https://github.com/ethereum/c-kzg-4844/pull/657#pullrequestreview-4907648088) - 2026-08-11
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #88, July 20, 2026](https://github.com/ethereum/pm/issues/2162) - 2026-07-16
 * [Issue] [All Core Devs - Testing (ACDT) #90, August 3, 2026](https://github.com/ethereum/pm/issues/2174) - 2026-07-27

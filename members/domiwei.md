@@ -74,6 +74,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/vm: memoize InternAddress by stack word in a per-EVM cache](https://github.com/erigontech/erigon/pull/22900#pullrequestreview-4894950002) - 2026-08-10
 * [Review] [Review on: cl/beacon: don't refetch the execution client version after a race](https://github.com/erigontech/erigon/pull/22957#pullrequestreview-4894433222) - 2026-08-10
 * [Review] [Review on: cl/merkle_tree: add progressive byte list root](https://github.com/erigontech/erigon/pull/22783#pullrequestreview-4894433243) - 2026-08-10
+* [Pull Request] [cl: harden blob backfill availability](https://github.com/erigontech/erigon/pull/23198) - 2026-08-11
+* [Pull Request] [cl/sentinel, cl/phase1/forkchoice: serve req/resp chain data from fork_graph, not forkchoice](https://github.com/erigontech/erigon/pull/23179) - 2026-08-11
+* [Review] [Review on: [r3.6] cl/beacon: publish fork-choice head before state copy](https://github.com/erigontech/erigon/pull/23172#pullrequestreview-4905191359) - 2026-08-11
+* [Review] [Review on: cl/forkchoice: harden Gloas envelope persistence](https://github.com/erigontech/erigon/pull/23152#pullrequestreview-4903515062) - 2026-08-11
 ## Q2 2026
 
 

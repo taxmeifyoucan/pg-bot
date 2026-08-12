@@ -252,6 +252,21 @@ Team: Reth
 * [Review] [Review on: fix(rpc): honor targetGasLimit in testing_buildBlockV1](https://github.com/paradigmxyz/reth/pull/26632#pullrequestreview-4898136033) - 2026-08-10
 * [Review] [Review on: feat(snapshots): resolve base url for static files](https://github.com/paradigmxyz/reth/pull/26576#pullrequestreview-4897659560) - 2026-08-10
 * [Commit] [ci: allow transitive bitmaps advisory (#26638)](https://github.com/paradigmxyz/reth/commit/ddb640bb3f75436e6e3f758e5e5c73785727fab1) - 2026-08-10
+* [Review] [Review on: fix(eth-wire): reject out-of-range subprotocol message IDs](https://github.com/paradigmxyz/reth/pull/26654#pullrequestreview-4910639454) - 2026-08-11
+* [Review] [Review on: chore(trie): implement `Clone` for `SparseStateTrie`](https://github.com/paradigmxyz/reth/pull/26656#pullrequestreview-4909590051) - 2026-08-11
+* [Pull Request] [fix(engine): adjust payload validation](https://github.com/paradigmxyz/reth/pull/26651) - 2026-08-11
+* [Review] [Review on: feat(network): allow configuring no-op client version](https://github.com/paradigmxyz/reth/pull/26652#pullrequestreview-4908221889) - 2026-08-11
+* [Pull Request] [feat(storage): re-enable RocksDB BAL storage](https://github.com/paradigmxyz/reth/pull/26653) - 2026-08-11
+* [Pull Request] [fix(storage): tolerate unknown RocksDB column families](https://github.com/paradigmxyz/reth/pull/26647) - 2026-08-11
+* [Pull Request] [fix(storage): roll back RocksDB BAL storage](https://github.com/paradigmxyz/reth/pull/26646) - 2026-08-11
+* [Pull Request] [fix(storage): canonicalize empty genesis code](https://github.com/paradigmxyz/reth/pull/26645) - 2026-08-11
+* [Pull Request] [fix(txpool): allow senders with empty code hash](https://github.com/paradigmxyz/reth/pull/26644) - 2026-08-11
+* [Review] [Review on: chore: expose blob cell availability on pooled transactions](https://github.com/paradigmxyz/reth/pull/26642#pullrequestreview-4905458192) - 2026-08-11
+* [Review] [Review on: feat(txpool): add PoolTransaction::extra_balance_cost hook](https://github.com/paradigmxyz/reth/pull/26056#pullrequestreview-4905426637) - 2026-08-11
+* [Commit] [fix(engine): adjust payload validation (#26651)](https://github.com/paradigmxyz/reth/commit/f3e49cc6a6e3e60a71404315e9f1e9196df90bad) - 2026-08-11
+* [Commit] [fix(storage): tolerate unknown RocksDB column families (#26647)](https://github.com/paradigmxyz/reth/commit/c7338897a27fe1306eb6566cd163445555a9f7b5) - 2026-08-11
+* [Commit] [fix(storage): roll back RocksDB BAL storage (#26646)](https://github.com/paradigmxyz/reth/commit/905058c56e8fbbb8c40f633a051460ce6db5ec00) - 2026-08-11
+* [Commit] [fix(txpool): allow senders with empty code hash (#26644)](https://github.com/paradigmxyz/reth/commit/62808bd060e4c7398e3fb6df93881950b1433b18) - 2026-08-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

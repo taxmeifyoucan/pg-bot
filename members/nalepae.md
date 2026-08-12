@@ -79,6 +79,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Cache progressive merkleization for state fields](https://github.com/OffchainLabs/prysm/pull/17306#pullrequestreview-4896749065) - 2026-08-10
 * [Review] [Review on: `--beacon-db-pruning`: Prune state diff buckets when the `--enable-state-diff` flag is used.](https://github.com/OffchainLabs/prysm/pull/17289#pullrequestreview-4898719184) - 2026-08-10
 * [Review] [Review on: Kurtosis+E2E: Add Assertoor playbooks that will replace legacy E2E evaluators](https://github.com/OffchainLabs/prysm/pull/17239#pullrequestreview-4897735812) - 2026-08-10
+* [Review] [Review on: Add genception, a Bazel-backed go/packages driver](https://github.com/OffchainLabs/prysm/pull/17307#pullrequestreview-4910520673) - 2026-08-11
+* [Pull Request] [[EIP-8148] Implement a POC](https://github.com/OffchainLabs/prysm/pull/17338) - 2026-08-11
+* [Pull Request] [Reconcile `SLOTS_DURATION_MS` and `SECONDS_PER_SLOT`.](https://github.com/OffchainLabs/prysm/pull/17335) - 2026-08-11
+* [Commit] [Reconcile `SLOTS_DURATION_MS` and `SECONDS_PER_SLOT`. (#17335)](https://github.com/OffchainLabs/prysm/commit/d9ff68f63b61df0c923b19c1604e9e0e7be6e790) - 2026-08-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 ## Q2 2026

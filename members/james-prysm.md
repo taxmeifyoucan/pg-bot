@@ -133,6 +133,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [ delay next epoch duties call for post gloas  (#17268)](https://github.com/OffchainLabs/prysm/commit/55c51bb4a1cd7321724cb08c8e232dabdea35e43) - 2026-08-07
 * [Review] [Review on: Add `GET`/`POST`/`DELETE /eth/v1/validator/{pubkey}/builders` keymanager endpoints](https://github.com/OffchainLabs/prysm/pull/17261#pullrequestreview-4897519786) - 2026-08-10
 * [Issue] [doppelganger clearing should use the head epoch](https://github.com/OffchainLabs/prysm/issues/17332) - 2026-08-10
+* [Review] [Review on: Add EIP-8261 gas limit schedule support](https://github.com/OffchainLabs/prysm/pull/17339#pullrequestreview-4910747977) - 2026-08-11
+* [Review] [Review on: Add `GET`/`POST`/`DELETE /eth/v1/validator/{pubkey}/builders` keymanager endpoints](https://github.com/OffchainLabs/prysm/pull/17261#pullrequestreview-4907632951) - 2026-08-11
+* [Review] [Review on: add version checks to beacon state progressive HTR](https://github.com/OffchainLabs/prysm/pull/17336#pullrequestreview-4907283633) - 2026-08-11
 ## Q2 2026
 
 

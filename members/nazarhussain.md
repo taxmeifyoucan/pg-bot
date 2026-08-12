@@ -64,6 +64,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [build: migrate to TypeScript 7.0 (#9575)](https://github.com/ChainSafe/lodestar/commit/f67563c74a5b29911d7cdbba5f4944f8e35f6285) - 2026-08-04
 * [Pull Request] [test: update fast confirmation spec tests to v1.7.0-alpha.13](https://github.com/ChainSafe/lodestar/pull/9778) - 2026-08-06
 * [Commit] [test: update fast confirmation spec tests to v1.7.0-alpha.13 (#9778)](https://github.com/ChainSafe/lodestar/commit/8bab23d909d60c3bf67943a120f5c1925d0a7ad4) - 2026-08-10
+* [Pull Request] [style(fork-choice): use .js extensions in relative imports](https://github.com/ChainSafe/lodestar/pull/9802) - 2026-08-11
+* [Pull Request] [feat: expose fast confirmation store variables via lodestar API](https://github.com/ChainSafe/lodestar/pull/9803) - 2026-08-11
+* [Commit] [style(fork-choice): use .js extensions in relative imports (#9802)](https://github.com/ChainSafe/lodestar/commit/713b21812905bb34e547ca85d5f630060179da67) - 2026-08-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

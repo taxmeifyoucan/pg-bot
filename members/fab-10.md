@@ -96,8 +96,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Extract plugin-api p2p module](https://github.com/besu-eth/besu/pull/10995#pullrequestreview-4895532208) - 2026-08-10
 * [Commit] [Refactor engine_getPayloadBodiesBy*  into a sealed version hierarchy (#10968)](https://github.com/besu-eth/besu/commit/85fabd59bc78d3c8a269a06d19bd71a29c53de1d) - 2026-08-10
 
+* [Review] [Review on: Upgrade spec tests to tests-glamsterdam-devnet@v8.1.0](https://github.com/besu-eth/besu/pull/11021#pullrequestreview-4904137200) - 2026-08-11
+* [Review] [Review on: Do not start backward sync until initial sync is done](https://github.com/besu-eth/besu/pull/10944#pullrequestreview-4904201521) - 2026-08-11
+* [Review] [Review on: Remove deprecated --Xmax-tracked-seen-txs-per-peer alias](https://github.com/besu-eth/besu/pull/11018#pullrequestreview-4904133270) - 2026-08-11
+* [Review] [Review on: Remove deprecated --min-block-occupancy-ratio CLI option](https://github.com/besu-eth/besu/pull/11017#pullrequestreview-4904128711) - 2026-08-11
+* [Commit] [Remove custom engine_preparePayload_debug, replaced by testing_buildBlockV1 (#11011)](https://github.com/besu-eth/besu/commit/745aadc11b5a3d86b06e4b5c91f43c21c961694a) - 2026-08-11
+* [Commit] [Do not start backward sync until initial sync is done (#10944)](https://github.com/besu-eth/besu/commit/03d1d45523b1c3c784c64369b08f095105ec2a9b) - 2026-08-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Review] [Review on: fix(tests): use well-formed versioned hashes in getBlobs negative tests](https://github.com/ethereum/execution-specs/pull/3359#pullrequestreview-4908454543) - 2026-08-11
 ## Q2 2026
 
 

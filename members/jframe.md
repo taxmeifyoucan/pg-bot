@@ -38,6 +38,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Bonsai Archive: eth_getProof diff encoding](https://github.com/besu-eth/besu/issues/10997) - 2026-08-07
 * [Issue] [Bonsai Archive: eth_getProof simple trie](https://github.com/besu-eth/besu/issues/10996) - 2026-08-07
 * [Pull Request] [Bonsai archive proofs simple trie](https://github.com/besu-eth/besu/pull/11016) - 2026-08-11
+* [Review] [Review on: Verify DNS discovery subtree hashes](https://github.com/besu-eth/besu/pull/10988#pullrequestreview-4902543609) - 2026-08-11
 ## Q2 2026
 
 

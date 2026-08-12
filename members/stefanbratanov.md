@@ -21,6 +21,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Set `blobDataAvailable` correctly for PTC](https://github.com/Consensys/teku/pull/10998#pullrequestreview-4806322846) - 2026-07-29
 * [Commit] [Set `blobDataAvailable` correctly for PTC (#10998)](https://github.com/Consensys/teku/commit/2cb0ff0f7fb47a2b0cf1c02eb5ff50e1e1429a06) - 2026-07-29
 * [Review] [Review on: Update ethspecify version](https://github.com/Consensys/teku/pull/11055#pullrequestreview-4855156554) - 2026-08-04
+* [Review] [Review on: Initial implementation of block production for gloas](https://github.com/Consensys/teku/pull/11069#pullrequestreview-4909901452) - 2026-08-11
+* [Pull Request] [Introduce builder config containers](https://github.com/Consensys/teku/pull/11085) - 2026-08-11
 ## Q2 2026
 
 

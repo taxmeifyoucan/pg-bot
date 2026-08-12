@@ -20,6 +20,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Issue] [All Core Devs - Execution (ACDE) #242, July 30, 2026](https://github.com/ethereum/pm/issues/2166) - 2026-07-20
 * [Issue] [All Core Devs - Consensus (ACDC) #184, August 6 2026](https://github.com/ethereum/pm/issues/2177) - 2026-07-30
 * [Issue] [All Core Devs - Execution (ACDE) #243, August 13, 2026](https://github.com/ethereum/pm/issues/2178) - 2026-07-30
+* [Issue] [All Core Devs - Consensus (ACDC) #185, August 20 2026](https://github.com/ethereum/pm/issues/2187) - 2026-08-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8081: PFI EIP-7862](https://github.com/ethereum/EIPs/pull/11934) - 2026-07-16
 * [Review] [Review on: Update EIP-8081: Add EIP-8304 as PFI](https://github.com/ethereum/EIPs/pull/11933#pullrequestreview-4710414761) - 2026-07-16

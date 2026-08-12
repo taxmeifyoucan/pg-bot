@@ -255,6 +255,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(deps): bump the actions group with 4 updates](https://github.com/ChainSafe/lodestar/pull/9797#pullrequestreview-4898241694) - 2026-08-10
 * [Review] [Review on: chore: track elapsed time for ptc and bid](https://github.com/ChainSafe/lodestar/pull/9796#pullrequestreview-4895891460) - 2026-08-10
 * [Review] [Review on: feat: produce proposer slashings from observed equivocations](https://github.com/ChainSafe/lodestar/pull/9787#pullrequestreview-4895027361) - 2026-08-10
+* [Pull Request] [deps: bump discv5 to 12.0.2 and enr to 6.0.2](https://github.com/ChainSafe/lodestar/pull/9810) - 2026-08-11
+* [Pull Request] [refactor: use builder boost factor for gloas block production](https://github.com/ChainSafe/lodestar/pull/9807) - 2026-08-11
+* [Review] [Review on: refactor: use builder boost factor for gloas block production](https://github.com/ChainSafe/lodestar/pull/9807#pullrequestreview-4908509866) - 2026-08-11
+* [Pull Request] [feat: support EIP-8261 gas limit schedule](https://github.com/ChainSafe/lodestar/pull/9808) - 2026-08-11
+* [Review] [Review on: feat: support EIP-8261 gas limit schedule](https://github.com/ChainSafe/lodestar/pull/9808#pullrequestreview-4906293383) - 2026-08-11
+* [Review] [Review on: style(fork-choice): use .js extensions in relative imports](https://github.com/ChainSafe/lodestar/pull/9802#pullrequestreview-4903426553) - 2026-08-11
+* [Review] [Review on: feat: expose fast confirmation store variables via lodestar API](https://github.com/ChainSafe/lodestar/pull/9803#pullrequestreview-4903299163) - 2026-08-11
+* [Commit] [deps: bump discv5 to 12.0.2 and enr to 6.0.2 (#9810)](https://github.com/ChainSafe/lodestar/commit/20c6ad786eaa0d9a7a3899bc51d2033cef353e53) - 2026-08-11
+* [Commit] [fix: harden safe execution block hash handling (#9794)](https://github.com/ChainSafe/lodestar/commit/673a1a944f6258464a03dd95cf901ab7b3bbc332) - 2026-08-11
+* [Commit] [chore: address block validation and equivocation follow-ups (#9795)](https://github.com/ChainSafe/lodestar/commit/31cbd91ccfec39267ccd30bf0fe5fdd4ec1e2360) - 2026-08-11
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -303,6 +313,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Update EIP-8333: Clarify EIP-8333 boundary rationale](https://github.com/ethereum/EIPs/pull/12090#pullrequestreview-4857115320) - 2026-08-04
 * [Review] [Review on: Update EIP-8282: Move to Review](https://github.com/ethereum/EIPs/pull/12108#pullrequestreview-4864537143) - 2026-08-05
 * [Review] [Review on: Update EIP-1: allow links to sys-asm](https://github.com/ethereum/EIPs/pull/12021#pullrequestreview-4897800814) - 2026-08-10
+* [Pull Request] [Update EIP-8261: Clarify epoch-based activation](https://github.com/ethereum/EIPs/pull/12142) - 2026-08-11
+* [Commit] [Update EIP-8261: Clarify epoch-based activation](https://github.com/ethereum/EIPs/commit/f6b4668ef37612feba85aef151303f4100b79360) - 2026-08-11
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 

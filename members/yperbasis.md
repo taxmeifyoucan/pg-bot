@@ -399,6 +399,17 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [execution/cache: avoid rebuilding cache views on direct reads](https://github.com/erigontech/erigon/issues/23145) - 2026-08-10
 * [Issue] [execution/cache: evaluate change-diff tombstones for selective unwind invalidation](https://github.com/erigontech/erigon/issues/23139) - 2026-08-10
 * [Issue] [execution/stagedsync: follow-ups for fee-merge write-set reclaim (#23099 / #23106)](https://github.com/erigontech/erigon/issues/23135) - 2026-08-10
+* [Review] [Review on: cl: stabilize Gloas sync with external execution clients](https://github.com/erigontech/erigon/pull/22683#pullrequestreview-4904860420) - 2026-08-11
+* [Pull Request] [execution/state: abort when a create consumes absence before the destructor's flush](https://github.com/erigontech/erigon/pull/23176) - 2026-08-11
+* [Review] [Review on: execution/state: abort when a create consumes absence before the destructor's flush](https://github.com/erigontech/erigon/pull/23176#pullrequestreview-4905525660) - 2026-08-11
+* [Review] [Review on: execution/stagedsync: skip the fee credit when the recorded set already carries it](https://github.com/erigontech/erigon/pull/23132#pullrequestreview-4907787675) - 2026-08-11
+* [Pull Request] [rpc: keep modified-account tags on committed view](https://github.com/erigontech/erigon/pull/23193) - 2026-08-11
+* [Review] [Review on: [3.6] CP: don't clear domain RAM under a published SharedDomains (#23046)](https://github.com/erigontech/erigon/pull/23164#pullrequestreview-4904620006) - 2026-08-11
+* [Review] [Review on: execution/vm: memoize InternAddress by stack word in a per-EVM cache](https://github.com/erigontech/erigon/pull/22900#pullrequestreview-4904492424) - 2026-08-11
+* [Review] [Review on: [r3.6] execution/stagedsync: skip the fee credit when the recorded set already carries it](https://github.com/erigontech/erigon/pull/23131#pullrequestreview-4904863925) - 2026-08-11
+* [Issue] [execution, db: simplify cache publication and hot-path plumbing](https://github.com/erigontech/erigon/issues/23200) - 2026-08-11
+* [Issue] [rpc: eth_getLogs and trace_filter resolve block tags on the overlay view but read data from the committed view](https://github.com/erigontech/erigon/issues/23194) - 2026-08-11
+* [Commit] [execution/state: abort when a create consumes absence before the destructor's flush (#23176)](https://github.com/erigontech/erigon/commit/9858d03a6693fe30a4ca356cdb0525b6506c0e02) - 2026-08-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

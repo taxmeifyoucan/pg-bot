@@ -118,6 +118,14 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [cmd/evm: speed up TestEvmRun](https://github.com/erigontech/erigon/pull/23120) - 2026-08-09
 * [Commit] [rpc embedded: add https flags to embedded rpc (#23108)](https://github.com/erigontech/erigon/commit/77f1c630aa7268f019f400e841f12d774e31cff3) - 2026-08-09
 * [Pull Request] [rpc/jsonrpc: make trace_get resolve the selector as a traceAddress path](https://github.com/erigontech/erigon/pull/23144) - 2026-08-10
+* [Review] [Review on: rpc: fix parity_listStorageKeys state version and gate eth_getProof on execution](https://github.com/erigontech/erigon/pull/23165#pullrequestreview-4904008374) - 2026-08-11
+* [Pull Request] [[3.6] CP: don't clear domain RAM under a published SharedDomains (#23046)](https://github.com/erigontech/erigon/pull/23164) - 2026-08-11
+* [Review] [Review on: cmd/evm: speed up TestEvmRun](https://github.com/erigontech/erigon/pull/23120#pullrequestreview-4903345464) - 2026-08-11
+* [Commit] [rpc/jsonrpc: make trace_get resolve the selector as a traceAddress path (#23144)](https://github.com/erigontech/erigon/commit/70cb10d490761eb058ff5ca5465c482b80b163e7) - 2026-08-11
+* [Commit] [cmd/evm: speed up TestEvmRun (#23120)](https://github.com/erigontech/erigon/commit/0d5f058781253f221de3d8bbbb46ebb64d592fa7) - 2026-08-11
+* [Commit] [rpc:  trace_callMany carry state to next call also when stateDiff not req (#23121)](https://github.com/erigontech/erigon/commit/11c9eefcfc91dec9809bbd676fcd729795733e35) - 2026-08-11
+* [Commit] [rpc/jsonrpc: add table-driven prune-mode endpoint availability test (#23119)](https://github.com/erigontech/erigon/commit/baa60073bb8224bd7c530a98ca24d3a9dab59218) - 2026-08-11
+* [Commit] [rpc/jsonrpc: replay originally failed txns in overlay_getLogs when state overrides are present (#23133)](https://github.com/erigontech/erigon/commit/aa8e95efb4a211beaba036774894c5b92bb99043) - 2026-08-11
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -129,6 +137,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [Fix flaky latest tests: concurrent dispatch and head classification](https://github.com/erigontech/rpc-tests/pull/586) - 2026-08-03
 * [Commit] [Fix flaky latest tests: concurrent dispatch and head classification (#586)](https://github.com/erigontech/rpc-tests/commit/b966633915d2d1daf8a70441959d9d58a98984f8) - 2026-08-07
 * [Pull Request] [integration-test: update expected results for traceAddress path semantics](https://github.com/erigontech/rpc-tests/pull/587) - 2026-08-10
+* [Commit] [update expected results for traceAddress path semantics (#587)](https://github.com/erigontech/rpc-tests/commit/1546242adc66781d1b4d1d9846e40ff8d60df143) - 2026-08-11
 ## Q2 2026
 
 

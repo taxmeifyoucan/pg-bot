@@ -102,6 +102,21 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Specify the EIP-8272 RECENT_ROOT_CODE predeploy body](https://github.com/NethermindEth/nethermind/pull/12743#pullrequestreview-4895755823) - 2026-08-10
 * [Review] [Review on: fix(consensus): exempt frame transactions from the producer's sender-account checks](https://github.com/NethermindEth/nethermind/pull/12748#pullrequestreview-4895814076) - 2026-08-10
 * [Commit] [feat: add built-in portfolio viewer UI at /portfolio (#12360)](https://github.com/NethermindEth/nethermind/commit/76c7cdb4ca52c6ea2e3752064acb68499b2aba5f) - 2026-08-10
+* [Pull Request] [EIP-8141: bound validation-prefix simulation work at admission](https://github.com/NethermindEth/nethermind/pull/12777) - 2026-08-11
+* [Review] [Review on: EIP-8141: bound validation-prefix simulation work at admission](https://github.com/NethermindEth/nethermind/pull/12777#pullrequestreview-4910330821) - 2026-08-11
+* [Pull Request] [EIP-8141: bring frame transactions onto the devnet-8 gas schedule](https://github.com/NethermindEth/nethermind/pull/12775) - 2026-08-11
+* [Review] [Review on: EIP-8141: bring frame transactions onto the devnet-8 gas schedule](https://github.com/NethermindEth/nethermind/pull/12775#pullrequestreview-4910140272) - 2026-08-11
+* [Pull Request] [EIP-8141: price per-payer exposure with the shared max_cost helper](https://github.com/NethermindEth/nethermind/pull/12776) - 2026-08-11
+* [Review] [Review on: EIP-8141: price per-payer exposure with the shared max_cost helper](https://github.com/NethermindEth/nethermind/pull/12776#pullrequestreview-4910177804) - 2026-08-11
+* [Pull Request] [EIP-8141: revalidate dependency-affected frame transactions on a new head](https://github.com/NethermindEth/nethermind/pull/12778) - 2026-08-11
+* [Review] [Review on: EIP-8141: revalidate dependency-affected frame transactions on a new head](https://github.com/NethermindEth/nethermind/pull/12778#pullrequestreview-4910418761) - 2026-08-11
+* [Review] [Review on: feat(evm): add EIP-7906 TXTRACE/TXDIFF/EVENTDATACOPY opcodes](https://github.com/NethermindEth/nethermind/pull/12759#pullrequestreview-4910275373) - 2026-08-11
+* [Pull Request] [EIP-8141: cap pending frame transactions per non-canonical paymaster](https://github.com/NethermindEth/nethermind/pull/12774) - 2026-08-11
+* [Review] [Review on: EIP-8141: cap pending frame transactions per non-canonical paymaster](https://github.com/NethermindEth/nethermind/pull/12774#pullrequestreview-4909952460) - 2026-08-11
+* [Review] [Review on: [WIP] EIP-8288 - Frame type for PQ sig and STARK aggregation](https://github.com/NethermindEth/nethermind/pull/12513#pullrequestreview-4910177945) - 2026-08-11
+* [Pull Request] [Forward-integration: EIP-7805 (FOCIL) into the EIP-8141 frame-tx base + EIP-8369 overlap](https://github.com/NethermindEth/nethermind/pull/12772) - 2026-08-11
+* [Review] [Review on: Forward-integration: EIP-7805 (FOCIL) into the EIP-8141 frame-tx base + EIP-8369 overlap](https://github.com/NethermindEth/nethermind/pull/12772#pullrequestreview-4907025652) - 2026-08-11
+* [Pull Request] [feat(eip8141): complete blob-carrying frame tx production, serve, and RPC path](https://github.com/NethermindEth/nethermind/pull/12770) - 2026-08-11
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

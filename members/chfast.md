@@ -152,6 +152,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Name the CALL stipend constant (#1628)](https://github.com/ipsilon/evmone/commit/70a4dad01e8ee35ea1c23bc620b5256817993405) - 2026-08-10
 * [Commit] [test: Validate the block header's slot number presence (EIP-7843) (#1626)](https://github.com/ipsilon/evmone/commit/6e6f56d03747574b2256b50863355dc406d09c90) - 2026-08-10
 * [Commit] [test: Use EEST error names (#1624)](https://github.com/ipsilon/evmone/commit/e73628d90140f210ba330f2367b2cadc0549ec78) - 2026-08-10
+* [Pull Request] [crypto: Spell out the BN254 ate loop schedule digits](https://github.com/ipsilon/evmone/pull/1646) - 2026-08-11
+* [Pull Request] [changelog: List changes for the 0.23.0 release](https://github.com/ipsilon/evmone/pull/1645) - 2026-08-11
+* [Review] [Review on: changelog: List changes for the 0.23.0 release](https://github.com/ipsilon/evmone/pull/1645#pullrequestreview-4904627207) - 2026-08-11
+* [Commit] [crypto: Spell out the BN254 ate loop schedule digits (#1646)](https://github.com/ipsilon/evmone/commit/fead50de3241bb739b3d9f6d38bbc92d7e041cee) - 2026-08-11
+* [Commit] [evmone 0.23.0](https://github.com/ipsilon/evmone/commit/2184b24461ae20398520f0bc5023cb7dcc0e003c) - 2026-08-11
+* [Commit] [changelog: List changes for the 0.23.0 release (#1645)](https://github.com/ipsilon/evmone/commit/e3bbf27ed26b6b07bc3277cb172c939278ef96da) - 2026-08-11
+* [Commit] [Implement EIP-7954: "Increase Maximum Contract Size" (#1575)](https://github.com/ipsilon/evmone/commit/87a0d056e3c76ea92ffcc41fd918d8ff4e2146f6) - 2026-08-11
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

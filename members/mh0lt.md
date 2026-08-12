@@ -63,6 +63,8 @@ Team: Erigon
 * [Commit] [ci, db/state: matrix-test serial vs parallel commitment across the test workflows (#22141)](https://github.com/erigontech/erigon/commit/fc00a6e6de29580a483f9bd5ec9711c9d93c59ee) - 2026-08-03
 * [Pull Request] [execution/commitment: lower deepStorageThreshold to 128](https://github.com/erigontech/erigon/pull/23141) - 2026-08-10
 * [Commit] [execution/commitment: lower deepStorageThreshold to 128 (#23141)](https://github.com/erigontech/erigon/commit/3f6910a2d6b821033fce1f9cbb461d952225d493) - 2026-08-10
+* [Review] [Review on: execution/state: abort when a create consumes absence before the destructor's flush](https://github.com/erigontech/erigon/pull/23176#pullrequestreview-4905559226) - 2026-08-11
+* [Commit] [execution: parallel-only ExecV3 + ephemeral single-block replay harness (#22733)](https://github.com/erigontech/erigon/commit/36e6f2d69670313a2d73e46f9a13a6d2715afe2a) - 2026-08-11
 ## Q2 2026
 
 

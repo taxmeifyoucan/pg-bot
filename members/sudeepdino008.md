@@ -139,6 +139,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [db/state: give CommitmentDomain its own lock in TemporalMemBatch](https://github.com/erigontech/erigon/pull/23137) - 2026-08-10
 * [Issue] [BlockStateCache vs StateCache](https://github.com/erigontech/erigon/issues/23140) - 2026-08-10
 * [Commit] [db/seg: collapse compression workers=1 case into batched workers flow (#23058)](https://github.com/erigontech/erigon/commit/c4fd34bbab8016c05a9ac9395c55f00f8274d482) - 2026-08-10
+* [Pull Request] [execution/state: drop the committed tier from BlockStateCache (#23140)](https://github.com/erigontech/erigon/pull/23171) - 2026-08-11
+* [Commit] [execution/state: make BlockStateCache committed storage reads lock-free (#23134)](https://github.com/erigontech/erigon/commit/2d85386d33839b3d3b1b01e8a34d0f5737472060) - 2026-08-11
+* [Commit] [publishable command: reject same snapshot range with different versions (#23019)](https://github.com/erigontech/erigon/commit/f862094356d1a45eafd6ee4353238b04d555b105) - 2026-08-11
 ## Q2 2026
 
 

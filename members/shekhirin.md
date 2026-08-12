@@ -46,6 +46,10 @@ Team: Reth
 * [Review] [Review on: perf(rpc): reuse a single EVM across transaction replay in tracing RPCs](https://github.com/paradigmxyz/reth/pull/26561#pullrequestreview-4845469207) - 2026-08-03
 * [Review] [Review on: feat(engine): build payloads on canonical ancestors above finality](https://github.com/paradigmxyz/reth/pull/26567#pullrequestreview-4855613819) - 2026-08-04
 * [Review] [Review on: fix(engine): defer persistence handoff during payload builds](https://github.com/paradigmxyz/reth/pull/26559#pullrequestreview-4853486687) - 2026-08-04
+* [Pull Request] [chore(trie): implement `Clone` for `SparseStateTrie`](https://github.com/paradigmxyz/reth/pull/26656) - 2026-08-11
+* [Review] [Review on: feat(network): allow configuring no-op client version](https://github.com/paradigmxyz/reth/pull/26652#pullrequestreview-4908174800) - 2026-08-11
+* [Pull Request] [chore: expose blob cell availability on pooled transactions](https://github.com/paradigmxyz/reth/pull/26642) - 2026-08-11
+* [Commit] [chore: expose blob cell availability on pooled transactions (#26642)](https://github.com/paradigmxyz/reth/commit/199387a02e0eeaab183cb602b47b391dcb616f8e) - 2026-08-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

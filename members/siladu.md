@@ -41,6 +41,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: add programmatic JMH runner with new schema](https://github.com/besu-eth/besu/pull/10868#pullrequestreview-4820882981) - 2026-07-30
 * [Pull Request] [Add slow-block execution metrics for BAL-enabled block import](https://github.com/besu-eth/besu/pull/10959) - 2026-08-03
 * [Review] [Review on: add JMH gas profiler and formulas](https://github.com/besu-eth/besu/pull/10807#pullrequestreview-4851780570) - 2026-08-04
+
+* [Review] [Review on: add JMH gas profiler and formulas](https://github.com/besu-eth/besu/pull/10807#pullrequestreview-4905555701) - 2026-08-11
+[Consensys/tuweni](https://github.com/Consensys/tuweni)
+* [Review] [Review on: 2.8.0 release version pr](https://github.com/Consensys/tuweni/pull/66#pullrequestreview-4908208335) - 2026-08-11
 ## Q2 2026
 
 

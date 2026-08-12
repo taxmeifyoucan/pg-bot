@@ -94,6 +94,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: track elapsed time for ptc and bid](https://github.com/ChainSafe/lodestar/pull/9796) - 2026-08-10
 * [Review] [Review on: feat: produce proposer slashings from observed equivocations](https://github.com/ChainSafe/lodestar/pull/9787#pullrequestreview-4893556791) - 2026-08-10
 * [Review] [Review on: feat: report parent_block_hash for safe/finalized post-Gloas](https://github.com/ChainSafe/lodestar/pull/9393#pullrequestreview-4894196011) - 2026-08-10
+* [Pull Request] [fix: process REPEAT_PROPOSAL block](https://github.com/ChainSafe/lodestar/pull/9805) - 2026-08-11
+* [Pull Request] [fix: trigger getBlobs in Unknown block sync](https://github.com/ChainSafe/lodestar/pull/9806) - 2026-08-11
+* [Review] [Review on: chore: address block validation and equivocation follow-ups](https://github.com/ChainSafe/lodestar/pull/9795#pullrequestreview-4902905142) - 2026-08-11
+* [Issue] [glamsterdam-devnet-7: cannot find peer with needed columns=[]](https://github.com/ChainSafe/lodestar/issues/9801) - 2026-08-11
+* [Issue] [glamsterdam-devnet-7: Import REPEAT_PROPOSAL blocks](https://github.com/ChainSafe/lodestar/issues/9799) - 2026-08-11
+* [Issue] [glamsterdam-devnet-7: Unknown block sync abused](https://github.com/ChainSafe/lodestar/issues/9800) - 2026-08-11
+* [Commit] [fix: harden range sync hashBlocks() (#9686)](https://github.com/ChainSafe/lodestar/commit/a03686d0dc4674da0a4637925bb0997e90a6d1d3) - 2026-08-11
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

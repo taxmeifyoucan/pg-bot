@@ -184,6 +184,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Handle failed sender recovery](https://github.com/NethermindEth/nethermind/pull/12757#pullrequestreview-4895694332) - 2026-08-10
 * [Pull Request] [Revalidate the txpool across fork boundaries](https://github.com/NethermindEth/nethermind/pull/12755) - 2026-08-10
 * [Commit] [Reject invalid fixed-size header RLP (#12579)](https://github.com/NethermindEth/nethermind/commit/bbe3b7e4ff83c7a6ea4c2d94808646644fd57971) - 2026-08-10
+* [Review] [Review on: Allow consensus-only ENRs in discv5 routing](https://github.com/NethermindEth/nethermind/pull/12613#pullrequestreview-4905268989) - 2026-08-11
+* [Pull Request] [Back off idle random-walk discovery once the routing table is full](https://github.com/NethermindEth/nethermind/pull/12771) - 2026-08-11
+* [Review] [Review on: Back off idle random-walk discovery once the routing table is full](https://github.com/NethermindEth/nethermind/pull/12771#pullrequestreview-4907093698) - 2026-08-11
+* [Review] [Review on: docs(xdc): rewrite Nethermind.Xdc README against current code](https://github.com/NethermindEth/nethermind/pull/12761#pullrequestreview-4905858924) - 2026-08-11
+* [Review] [Review on: Flush flat state on shutdown and survive a missing arena on load](https://github.com/NethermindEth/nethermind/pull/12769#pullrequestreview-4905293999) - 2026-08-11
+* [Commit] [Handle failed sender recovery (#12757)](https://github.com/NethermindEth/nethermind/commit/57ac0316bc2a9cd0adccd5f951b09c121b0106e1) - 2026-08-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -215,6 +221,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Preserve Nethermind genesis slot number](https://github.com/ethereum/hive/pull/1592) - 2026-08-06
 * [Pull Request] [Use Geth-style genesis for Nethermind](https://github.com/ethereum/hive/pull/1593) - 2026-08-06
 * [Commit] [clients/nethermind: use geth style genesis mapper (#1593)](https://github.com/ethereum/hive/commit/654c734f99d98344b17b8601e9979d9564146fa4) - 2026-08-10
+* [Pull Request] [clients/nethermind: only mark post-merge genesis when TTD is set](https://github.com/ethereum/hive/pull/1595) - 2026-08-11
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix(eth): isolate protocol traffic by connection](https://github.com/besu-eth/besu/pull/10841) - 2026-07-22
 * [Pull Request] [fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843) - 2026-07-22

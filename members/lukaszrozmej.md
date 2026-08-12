@@ -186,6 +186,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [Fix flaky All_inserted_keys_retrievable_at_various_capacities cache test](https://github.com/NethermindEth/nethermind/pull/12756) - 2026-08-10
 * [Commit] [Return only the requested header from GetHeadBlockHeader (#12740)](https://github.com/NethermindEth/nethermind/commit/e91e71bc2a9c7289f2a4e693c99614d94c72e1ad) - 2026-08-10
 * [Commit] [Treat a null header answer as the block being absent (#12741)](https://github.com/NethermindEth/nethermind/commit/4d65fa1eabb977afecaa36be73d00c1a39cfdbfb) - 2026-08-10
+* [Review] [Review on: refactor(evm): drop the unused EIP-8272 native recent-root write path](https://github.com/NethermindEth/nethermind/pull/12762#pullrequestreview-4904687265) - 2026-08-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

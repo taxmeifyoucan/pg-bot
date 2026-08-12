@@ -132,6 +132,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(bls): enforce 32-byte signing roots](https://github.com/ChainSafe/lodestar-z/pull/545#pullrequestreview-4896213314) - 2026-08-10
 * [Review] [Review on: fix(bls): make batch cardinality structural](https://github.com/ChainSafe/lodestar-z/pull/547#pullrequestreview-4894898285) - 2026-08-10
 * [Review] [Review on: perf(bindings): drop TS BLS comparison benches and report benchmarks on PRs](https://github.com/ChainSafe/lodestar-z/pull/552#pullrequestreview-4893516314) - 2026-08-10
+* [Pull Request] [feat(pubkeys): add getPubkeyBytes binding](https://github.com/ChainSafe/lodestar-z/pull/555) - 2026-08-11
+* [Review] [Review on: build(bls): consume upstream blst module](https://github.com/ChainSafe/lodestar-z/pull/554#pullrequestreview-4902575763) - 2026-08-11
 ## Q2 2026
 
 

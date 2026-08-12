@@ -27,6 +27,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: FFG-test payload-status variants individually in `filter_block_tree`](https://github.com/ethereum/consensus-specs/pull/5509#pullrequestreview-4852265721) - 2026-08-04
 * [Review] [Review on: FFG-test payload-status variants individually in `filter_block_tree`](https://github.com/ethereum/consensus-specs/pull/5509#pullrequestreview-4861499215) - 2026-08-05
 * [Review] [Review on: Use the genesis root as a dependent root for the first two epochs](https://github.com/ethereum/consensus-specs/pull/5515#pullrequestreview-4862651682) - 2026-08-05
+* [Review] [Review on: Run filtered tests in parallel by default](https://github.com/ethereum/consensus-specs/pull/5531#pullrequestreview-4903167551) - 2026-08-11
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Register `CN` for Caplin](https://github.com/ethereum/execution-apis/pull/844#pullrequestreview-4647866464) - 2026-07-07
 

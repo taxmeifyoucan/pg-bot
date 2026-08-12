@@ -45,6 +45,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [CI: Grab latest version of eipw. (#11916)](https://github.com/ethereum/EIPs/commit/00ba4223d681993d8da23b508194434ab1ebb1a2) - 2026-07-31
 * [Review] [Review on: Add EIP: Beacon Block Reporting Field](https://github.com/ethereum/EIPs/pull/12063#pullrequestreview-4833315953) - 2026-08-01
 * [Commit] [Update EIP-1: allow links to sys-asm](https://github.com/ethereum/EIPs/commit/d7f6f26dd7b183e3f58143b966fc61ee152b062b) - 2026-08-10
+* [Review] [Review on: Update EIP-8136: Move to Review](https://github.com/ethereum/EIPs/pull/12035#pullrequestreview-4908677621) - 2026-08-11
+* [Review] [Review on: Add EIP: Tapered Issuance Burn](https://github.com/ethereum/EIPs/pull/12081#pullrequestreview-4908265705) - 2026-08-11
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Leo Lara contributions: add execution-specs](https://github.com/protocolguild/documentation/pull/515#pullrequestreview-4652756505) - 2026-07-08
 ## Q2 2026
