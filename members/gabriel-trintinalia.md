@@ -26,6 +26,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: simulation gas: do not apply EIP-7825 txGasLimitCap ](https://github.com/besu-eth/besu/pull/10885#pullrequestreview-4878811889) - 2026-08-06
 
 * [Review] [Review on: simulation gas: do not apply EIP-7825 txGasLimitCap ](https://github.com/besu-eth/besu/pull/10885#pullrequestreview-4903411195) - 2026-08-11
+* [Review] [Review on: Fix --discovery-mode=BOTH/V5 peer-churn CPU regression](https://github.com/besu-eth/besu/pull/11027#pullrequestreview-4921824843) - 2026-08-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896055113) - 2026-08-10
 ## Q2 2026

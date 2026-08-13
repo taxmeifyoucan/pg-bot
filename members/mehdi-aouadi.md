@@ -69,6 +69,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [limit block operations for progressive lists](https://github.com/Consensys/teku/pull/11084) - 2026-08-11
 * [Review] [Review on: add post proposer preferences](https://github.com/Consensys/teku/pull/11035#pullrequestreview-4908479553) - 2026-08-11
 * [Issue] [Gloas Block Packing Ignores Consensus Operation Limits](https://github.com/Consensys/teku/issues/11083) - 2026-08-11
+* [Review] [Review on: limit block operations for progressive lists](https://github.com/Consensys/teku/pull/11084#pullrequestreview-4915242289) - 2026-08-12
+* [Commit] [limit block operations for progressive lists (#11084)](https://github.com/Consensys/teku/commit/cd16bf0b2f4f6f52b9b93f5d4c192117620145d2) - 2026-08-12
+* [Commit] [add post proposer preferences (#11035)](https://github.com/Consensys/teku/commit/52a9145328dbb10b104756868a288e5ada10e6f0) - 2026-08-12
 ## Q2 2026
 
 

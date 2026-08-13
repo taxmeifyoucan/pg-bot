@@ -57,6 +57,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(validators-summary): separate payload delivery metric (Gloas)](https://github.com/ethpandaops/dora/commit/ee1327bc5db4a235c8e9971e69b4d30c9a92a183) - 2026-08-10
 * [Commit] [fix(validators-summary): skip pruned slots, cap duties at epoch length](https://github.com/ethpandaops/dora/commit/3700f2c626675ed67dd6e638191af4fc3aaf4cef) - 2026-08-10
 * [Commit] [fix(validators-summary): correct proposal accuracy over-/undercounting](https://github.com/ethpandaops/dora/commit/e11e5b8232901bdeb7501c5e281bfbc95b482636) - 2026-08-10
+* [Review] [Review on: bump dynamic-ssz & go-eth2-client & regen ssz files](https://github.com/ethpandaops/dora/pull/831#pullrequestreview-4916501475) - 2026-08-12
+* [Review] [Review on: Preserve diverging fork duties and orphaned block bodies in blockdb](https://github.com/ethpandaops/dora/pull/827#pullrequestreview-4915980378) - 2026-08-12
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
@@ -97,6 +99,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: build(deps): bump actions/checkout from 7.0.0 to 7.0.1 in the actions group](https://github.com/ethpandaops/template-devnets/pull/182#pullrequestreview-4843606511) - 2026-08-03
 * [Review] [Review on: backport generic improvements from glamsterdam-devnets and bal-devnets](https://github.com/ethpandaops/template-devnets/pull/180#pullrequestreview-4843605081) - 2026-08-03
 * [Review] [Review on: playbook: deploy tysm canary configs from templates](https://github.com/ethpandaops/template-devnets/pull/183#pullrequestreview-4843391183) - 2026-08-03
+* [Pull Request] [backport generic improvements from glamsterdam-devnets (round 2)](https://github.com/ethpandaops/template-devnets/pull/184) - 2026-08-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Add version envelope to Gloas event stream events](https://github.com/status-im/nimbus-eth2/pull/8816) - 2026-07-28
 

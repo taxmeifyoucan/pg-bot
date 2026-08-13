@@ -54,6 +54,8 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: Add explicit second dimension for state gas to frames](https://github.com/ethereum/EIPs/pull/12062#pullrequestreview-4910399686) - 2026-08-11
 * [Review] [Review on: Update EIP-8141: link the first reference to each cited proposal](https://github.com/ethereum/EIPs/pull/12121#pullrequestreview-4910736807) - 2026-08-11
 * [Review] [Review on: Update EIP-8141: ban SLOTNUM during validation-prefix execution](https://github.com/ethereum/EIPs/pull/12066#pullrequestreview-4910724963) - 2026-08-11
+* [Review] [Review on: Update EIP-8141: Add explicit second dimension for state gas to frames](https://github.com/ethereum/EIPs/pull/12062#pullrequestreview-4917286689) - 2026-08-12
+* [Review] [Review on: Update EIP-8141: note that a frame receipt carries no transaction-level status](https://github.com/ethereum/EIPs/pull/12061#pullrequestreview-4916922576) - 2026-08-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

@@ -67,6 +67,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Remove default fields from the Store](https://github.com/ethereum/consensus-specs/pull/5519) - 2026-08-06
 * [Commit] [Remove default fields from the Store (#5519)](https://github.com/ethereum/consensus-specs/commit/e07aeee69ccbc0ebe5da500f3ff188f2e5c9602d) - 2026-08-06
 * [Commit] [Modify `on_inclusion_list` to handle ILs from req/resp (#5513)](https://github.com/ethereum/consensus-specs/commit/a08d8a6e2b45f0b8c0d379abc15583427c643689) - 2026-08-07
+* [Review] [Review on: Integrate optimistic sync specs into core specs](https://github.com/ethereum/consensus-specs/pull/5529#pullrequestreview-4914380309) - 2026-08-12
+* [Review] [Review on: Remove unnecessary "Modifications in X" sections](https://github.com/ethereum/consensus-specs/pull/5532#pullrequestreview-4914295169) - 2026-08-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

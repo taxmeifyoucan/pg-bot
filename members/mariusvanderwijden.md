@@ -68,6 +68,12 @@ Team: Geth
 * [Review] [Review on: core: revert block validation optimization](https://github.com/ethereum/go-ethereum/pull/35490#pullrequestreview-4894174788) - 2026-08-10
 * [Review] [Review on: core/vm, params, tests: update gas price parameters](https://github.com/ethereum/go-ethereum/pull/35497#pullrequestreview-4894171390) - 2026-08-10
 * [Review] [Review on: core/vm: key the precompile cache on the input instead of its hash](https://github.com/ethereum/go-ethereum/pull/35473#pullrequestreview-4905530261) - 2026-08-11
+* [Review] [Review on: core/state: unset the block-level accessList in Finalise ](https://github.com/ethereum/go-ethereum/pull/35498#pullrequestreview-4914768407) - 2026-08-12
+* [Review] [Review on: build, internal: add retry mechanism in package uploading](https://github.com/ethereum/go-ethereum/pull/35510#pullrequestreview-4914901941) - 2026-08-12
+* [Review] [Review on: p2p, node: report an error from admin_addPeer / admin_addTrustedPeer when the server has stopped](https://github.com/ethereum/go-ethereum/pull/35513#pullrequestreview-4914826797) - 2026-08-12
+* [Review] [Review on: cmd, core, eth, internal: deprecate state sizer](https://github.com/ethereum/go-ethereum/pull/35520#pullrequestreview-4914158618) - 2026-08-12
+* [Review] [Review on: core/vm: key the precompile cache on the input instead of its hash](https://github.com/ethereum/go-ethereum/pull/35473#pullrequestreview-4914116274) - 2026-08-12
+* [Review] [Review on: core, eth/catalyst, beacon/engine: update for glam8](https://github.com/ethereum/go-ethereum/pull/35514#pullrequestreview-4914045760) - 2026-08-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 

@@ -33,6 +33,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 [Consensys/discovery](https://github.com/Consensys/discovery)
 * [Pull Request] [Feature: Remove vertx as a dependency / transitive deps via tuweni](https://github.com/Consensys/discovery/pull/238) - 2026-08-10
 
+* [Pull Request] [Revert to identity comparison](https://github.com/Consensys/discovery/pull/239) - 2026-08-12
+* [Commit] [revert to identity comparison in NodeSessionManager cleanup. In this case .equals() and == are the same, and using the identity comparison better conveys intent (#239)](https://github.com/Consensys/discovery/commit/711207882cddef769b56853dd7206e2bcdf01402) - 2026-08-12
+* [Commit] [Feature: Remove vertx as a dependency / transitive deps via tuweni (#238)](https://github.com/Consensys/discovery/commit/876f93921f7b59ca1a9c99e9abd874d8cf6ca076) - 2026-08-12
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Pull Request] [Feature: Upgrade to vertx 5.1.6](https://github.com/Consensys/tuweni/pull/65) - 2026-08-10
 * [Pull Request] [GHA: bump and pin to SHA](https://github.com/Consensys/tuweni/pull/67) - 2026-08-11
@@ -41,6 +44,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Commit] [2.8.0 release version pr (#66)](https://github.com/Consensys/tuweni/commit/0ca07676494f384369241f841c60343bbf10bda4) - 2026-08-11
 * [Commit] [Feature: Upgrade to vertx 5.1.6 (#65)](https://github.com/Consensys/tuweni/commit/98d9e19a1d246cc7f77a9484bd038586943848ba) - 2026-08-11
 
+* [Pull Request] [prep rev for next snapshot builds](https://github.com/Consensys/tuweni/pull/68) - 2026-08-12
+* [Commit] [prep rev for next snapshot builds (#68)](https://github.com/Consensys/tuweni/commit/0ef7980a0e53acf7838be00ff3cf805ede59ac7c) - 2026-08-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4909895760) - 2026-08-11
 ## Q2 2026

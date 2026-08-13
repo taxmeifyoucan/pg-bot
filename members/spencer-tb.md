@@ -201,6 +201,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(tests): enhance & un-skip Amsterdam ported static create-OOG tests (Pt. 2b) (#3320)](https://github.com/ethereum/execution-specs/commit/db94367fc93fe5da7f9d43584c531d8c72f034e2) - 2026-08-11
 * [Commit] [refactor(tests): derive blob tx gas from fork intrinsic cost (#3346)](https://github.com/ethereum/execution-specs/commit/ae801932088ce87df0b37cb7237ca84c45b21ff8) - 2026-08-11
 * [Commit] [fix(test-client-clis): update geth BAL exception mappings (#3347)](https://github.com/ethereum/execution-specs/commit/46ba06183131f26cdfa52bb763a203591ce6b5b1) - 2026-08-11
+* [Pull Request] [miniproject - feat(spec-specs,tooling): run EELS under hive consume engine (amsterdam)](https://github.com/ethereum/execution-specs/pull/3363) - 2026-08-12
+* [Review] [Review on: feat(test-specs): Allow specs to fill same fixture format more than once, add `inclusion_test` marker](https://github.com/ethereum/execution-specs/pull/3337#pullrequestreview-4917505799) - 2026-08-12
+* [Review] [Review on: Frame Transactions (EIP-8141)](https://github.com/ethereum/execution-specs/pull/3047#pullrequestreview-4917621273) - 2026-08-12
+* [Commit] [fix(tests): use well-formed versioned hashes in getBlobs negative tests (#3359)](https://github.com/ethereum/execution-specs/commit/a2936ed61f8e8424d91acef49dbf27fe8c0cd09c) - 2026-08-12
+* [Commit] [fix(spec-specs): carry excess blob gas across fork transitions (#3352)](https://github.com/ethereum/execution-specs/commit/2867859a3c19b925f7dc47dae648cca9758f4f80) - 2026-08-12
+* [Commit] [refactor(spec-specs): split _prepare_data out of _prepare_trie (#3353)](https://github.com/ethereum/execution-specs/commit/124f2181d7bd97a25e69a77dce020abf8cefa867) - 2026-08-12
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -230,6 +236,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [hiveproxy: use GOPROXY "|" separator to fall back to direct on any proxy error (#1591)](https://github.com/ethereum/hive/commit/9657d0624005b13fb3d4bfc62a4036224dc54545) - 2026-08-06
 * [Review] [Review on: Use Geth-style genesis for Nethermind](https://github.com/ethereum/hive/pull/1593#pullrequestreview-4895076289) - 2026-08-10
 * [Review] [Review on: simulators/devp2p: add snap2 suite for EIP-8189 conformance tests](https://github.com/ethereum/hive/pull/1440#pullrequestreview-4907575273) - 2026-08-11
+* [Pull Request] [clients/eels: add EELS Engine API client (amsterdam only)](https://github.com/ethereum/hive/pull/1596) - 2026-08-12
+* [Review] [Review on: clients/nethermind: only mark post-merge genesis when TTD is set](https://github.com/ethereum/hive/pull/1595#pullrequestreview-4916904051) - 2026-08-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4806932985) - 2026-07-29
 * [Pull Request] [Update EIP-7773: SFI remaining Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12024) - 2026-07-29

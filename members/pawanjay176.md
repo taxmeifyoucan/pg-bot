@@ -50,6 +50,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Add dependent root check to proposer preferences validation (alpha.13)](https://github.com/sigp/lighthouse/pull/9760#pullrequestreview-4878590739) - 2026-08-06
 * [Review] [Review on: beacon_node/execution_layer: add traceparent header to engine API requests](https://github.com/sigp/lighthouse/pull/9402#pullrequestreview-4880489326) - 2026-08-07
 * [Review] [Review on: Enable partials by default on custom networks](https://github.com/sigp/lighthouse/pull/9773#pullrequestreview-4899768039) - 2026-08-10
+* [Review] [Review on: Fix issue with atttester slashing](https://github.com/sigp/lighthouse/pull/9793#pullrequestreview-4912298766) - 2026-08-12
+* [Review] [Review on: Add dependent root check to proposer preferences validation (alpha.13)](https://github.com/sigp/lighthouse/pull/9760#pullrequestreview-4921664160) - 2026-08-12
 ## Q2 2026
 
 

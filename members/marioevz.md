@@ -100,6 +100,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(testing): capitalize SSZ in class names](https://github.com/ethereum/execution-specs/pull/3354#pullrequestreview-4911611298) - 2026-08-11
 * [Review] [Review on: chore(tests): mark memory heavy tests as bigmem](https://github.com/ethereum/execution-specs/pull/3360#pullrequestreview-4911601066) - 2026-08-11
 * [Review] [Review on: fix(tests): enhance & un-skip Amsterdam ported static create-OOG tests (Pt. 2b)](https://github.com/ethereum/execution-specs/pull/3320#pullrequestreview-4911492840) - 2026-08-11
+* [Review] [Review on: fix(tests): use well-formed versioned hashes in getBlobs negative tests](https://github.com/ethereum/execution-specs/pull/3359#pullrequestreview-4921758949) - 2026-08-12
+* [Review] [Review on: feat(test-specs): Allow specs to fill same fixture format more than once, add `inclusion_test` marker](https://github.com/ethereum/execution-specs/pull/3337#pullrequestreview-4918526889) - 2026-08-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

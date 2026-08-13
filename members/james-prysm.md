@@ -136,6 +136,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Add EIP-8261 gas limit schedule support](https://github.com/OffchainLabs/prysm/pull/17339#pullrequestreview-4910747977) - 2026-08-11
 * [Review] [Review on: Add `GET`/`POST`/`DELETE /eth/v1/validator/{pubkey}/builders` keymanager endpoints](https://github.com/OffchainLabs/prysm/pull/17261#pullrequestreview-4907632951) - 2026-08-11
 * [Review] [Review on: add version checks to beacon state progressive HTR](https://github.com/OffchainLabs/prysm/pull/17336#pullrequestreview-4907283633) - 2026-08-11
+* [Review] [Review on: Collapse `iface.Validator`](https://github.com/OffchainLabs/prysm/pull/17337#pullrequestreview-4921079365) - 2026-08-12
 ## Q2 2026
 
 

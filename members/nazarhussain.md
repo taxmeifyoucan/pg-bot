@@ -36,6 +36,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bindings): free metrics writer on scrape failure](https://github.com/ChainSafe/lodestar-z/pull/529#pullrequestreview-4794947409) - 2026-07-28
 * [Review] [Review on: fix(bindings): clean up failed async BLS work](https://github.com/ChainSafe/lodestar-z/pull/527#pullrequestreview-4795652071) - 2026-07-28
 * [Review] [Review on: fix(bindings): harden random aggregate scalars](https://github.com/ChainSafe/lodestar-z/pull/528#pullrequestreview-4795111220) - 2026-07-28
+* [Review] [Review on: feat(pubkeys): add getPubkeyBytes binding](https://github.com/ChainSafe/lodestar-z/pull/555#pullrequestreview-4914564347) - 2026-08-12
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07
@@ -67,6 +68,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [style(fork-choice): use .js extensions in relative imports](https://github.com/ChainSafe/lodestar/pull/9802) - 2026-08-11
 * [Pull Request] [feat: expose fast confirmation store variables via lodestar API](https://github.com/ChainSafe/lodestar/pull/9803) - 2026-08-11
 * [Commit] [style(fork-choice): use .js extensions in relative imports (#9802)](https://github.com/ChainSafe/lodestar/commit/713b21812905bb34e547ca85d5f630060179da67) - 2026-08-11
+* [Review] [Review on: feat: expose fast confirmation store variables via lodestar API](https://github.com/ChainSafe/lodestar/pull/9803#pullrequestreview-4917383238) - 2026-08-12
+* [Commit] [feat: expose fast confirmation store variables via lodestar API (#9803)](https://github.com/ChainSafe/lodestar/commit/d9c16ea16f3a02e406e53e4e9e5da99e0950c9f7) - 2026-08-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

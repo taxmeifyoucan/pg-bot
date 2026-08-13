@@ -73,6 +73,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: follow up on #9390 on EIP-7688 changes (#9689)](https://github.com/ChainSafe/lodestar/commit/c50ba3579906b794f6ec8121ea72c59dad0d17f9) - 2026-08-04
 * [Commit] [fix: use payload request limit for envelope byPeer range quota (#9710)](https://github.com/ChainSafe/lodestar/commit/d9bad172a8c72d863401c5022617f37d199cb8f7) - 2026-08-04
 * [Commit] [feat: add heze fork definition and boilerplate (#9505)](https://github.com/ChainSafe/lodestar/commit/9be1d27b00f052061d80d6fadb5835b8d1b00c95) - 2026-08-05
+* [Review] [Review on: chore: address builder circuit breaker review follow-ups](https://github.com/ChainSafe/lodestar/pull/9780#pullrequestreview-4918732649) - 2026-08-12
+* [Pull Request] [fix: recompute head before proposer boost dependent root check](https://github.com/ChainSafe/lodestar/pull/9813) - 2026-08-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

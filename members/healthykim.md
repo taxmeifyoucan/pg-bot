@@ -33,8 +33,11 @@ Github: [@healthykim](https://github.com/healthykim)
 
 * [Review] [Review on: core/txpool/blobpool: fall back to pool in GetCells for blob-mode cache entries](https://github.com/ethereum/go-ethereum/pull/35439#pullrequestreview-4820237465) - 2026-07-30
 * [Review] [Review on: eth/downloader: implement BAL downloading](https://github.com/ethereum/go-ethereum/pull/35386#pullrequestreview-4873742406) - 2026-08-06
+* [Pull Request] [eth/fetcher: validate announced blob tx size against announcer's protocol version](https://github.com/ethereum/go-ethereum/pull/35524) - 2026-08-12
+* [Review] [Review on: core/txpool/blobpool, eth: don't read a blob pool that is still initialising](https://github.com/ethereum/go-ethereum/pull/35509#pullrequestreview-4917607604) - 2026-08-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4816824387) - 2026-07-30
+* [Review] [Review on: Update EIP-8070: Clarify custodyColumns `null` behavior](https://github.com/ethereum/EIPs/pull/12144#pullrequestreview-4916982296) - 2026-08-12
 ## Q2 2026
 
 

@@ -83,8 +83,18 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [[EIP-8148] Implement a POC](https://github.com/OffchainLabs/prysm/pull/17338) - 2026-08-11
 * [Pull Request] [Reconcile `SLOTS_DURATION_MS` and `SECONDS_PER_SLOT`.](https://github.com/OffchainLabs/prysm/pull/17335) - 2026-08-11
 * [Commit] [Reconcile `SLOTS_DURATION_MS` and `SECONDS_PER_SLOT`. (#17335)](https://github.com/OffchainLabs/prysm/commit/d9ff68f63b61df0c923b19c1604e9e0e7be6e790) - 2026-08-11
+* [Review] [Review on: Collapse `iface.Validator`](https://github.com/OffchainLabs/prysm/pull/17337#pullrequestreview-4916082522) - 2026-08-12
+* [Pull Request] [`make gen` generates the per-package `log.go` files.](https://github.com/OffchainLabs/prysm/pull/17342) - 2026-08-12
+* [Pull Request] [Add the `--disable-graffiti-client-append` flag.](https://github.com/OffchainLabs/prysm/pull/17341) - 2026-08-12
+* [Commit] [`getHeader`: Allow a user defined timeout value with the `--builder-header-timeout` flag (#17283)](https://github.com/OffchainLabs/prysm/commit/5025084b9993f9a102204ecb4c6dc70a5ade1e69) - 2026-08-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Allow setting the sweep threshold at deposit time](https://github.com/ethereum/consensus-specs/pull/5537) - 2026-08-12
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8148: Allow setting the sweep threshold at deposit time.](https://github.com/ethereum/EIPs/pull/12146) - 2026-08-12
 ## Q2 2026
 
 

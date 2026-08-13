@@ -104,6 +104,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: address block validation and equivocation follow-ups](https://github.com/ChainSafe/lodestar/pull/9795#pullrequestreview-4901013261) - 2026-08-10
 * [Review] [Review on: fix: harden range sync hashBlocks()](https://github.com/ChainSafe/lodestar/pull/9686#pullrequestreview-4899316776) - 2026-08-10
 * [Review] [Review on: deps: bump discv5 to 12.0.2 and enr to 6.0.2](https://github.com/ChainSafe/lodestar/pull/9810#pullrequestreview-4910044794) - 2026-08-11
+* [Review] [Review on: feat: expose fast confirmation store variables via lodestar API](https://github.com/ChainSafe/lodestar/pull/9803#pullrequestreview-4919826430) - 2026-08-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -166,6 +167,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bls): bound randomized aggregation inputs](https://github.com/ChainSafe/lodestar-z/pull/548#pullrequestreview-4906746922) - 2026-08-11
 * [Review] [Review on: perf(bls): bypass worker queue for small batches](https://github.com/ChainSafe/lodestar-z/pull/553#pullrequestreview-4906703842) - 2026-08-11
 * [Commit] [build(bls): consume upstream blst module (#554)](https://github.com/ChainSafe/lodestar-z/commit/77a108c5ef18dc939089aaa21e7c5ed02932da86) - 2026-08-11
+* [Pull Request] [docs: document security threat model](https://github.com/ChainSafe/lodestar-z/pull/557) - 2026-08-12
+* [Review] [Review on: docs: document security threat model](https://github.com/ChainSafe/lodestar-z/pull/557#pullrequestreview-4919730477) - 2026-08-12
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

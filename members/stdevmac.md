@@ -39,6 +39,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: ci: sync-validation timings dashboard on GitHub Pages](https://github.com/NethermindEth/nethermind/pull/12618#pullrequestreview-4818759388) - 2026-07-30
 * [Pull Request] [test: make prewarmer env-return assertion pool-hit independent](https://github.com/NethermindEth/nethermind/pull/12616) - 2026-07-30
 * [Commit] [test: make prewarmer env-return assertion pool-hit independent (#12616)](https://github.com/NethermindEth/nethermind/commit/adf7c228ea72e717713d771eb18201c5bdbcdd86) - 2026-08-03
+* [Pull Request] [Improve comment quality and flag comment slop during review](https://github.com/NethermindEth/nethermind/pull/12781) - 2026-08-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

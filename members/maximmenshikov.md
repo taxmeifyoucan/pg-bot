@@ -87,6 +87,16 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Small improvements](https://github.com/NethermindEth/bflat-riscv64/pull/35) - 2026-08-06
 * [Commit] [BuildCommand: add --no-unaligned-access for RISC-V 64](https://github.com/NethermindEth/bflat-riscv64/commit/b255bce5845177b61d7309454ea5817e47b53fad) - 2026-08-06
 * [Commit] [zkvm_zisk: drop the snapshot restore feature](https://github.com/NethermindEth/bflat-riscv64/commit/22d64bc311307bfd7d348aad9002f0217c0b86f5) - 2026-08-06
+* [Pull Request] [Improved documentation](https://github.com/NethermindEth/bflat-riscv64/pull/37) - 2026-08-12
+* [Pull Request] [Exception handling](https://github.com/NethermindEth/bflat-riscv64/pull/36) - 2026-08-12
+* [Commit] [docs: condense prose and sync pages with current module set](https://github.com/NethermindEth/bflat-riscv64/commit/9b73858bbe29b206a12ad2777daa366578344e4f) - 2026-08-12
+* [Commit] [docs: drop NuGet PAT setup, regroup local checks in BUILDING.md](https://github.com/NethermindEth/bflat-riscv64/commit/4de425a12bf5fe586d65d894f0e7ff76401b83dd) - 2026-08-12
+* [Commit] [docs: tighten prose around EH policies and drop historical asides](https://github.com/NethermindEth/bflat-riscv64/commit/a55fbcc0e4a9e96d8d6e3bc48fba2b787c6db04a) - 2026-08-12
+* [Commit] [docs: describe default managed EH and --remove-eh fail-fast policy](https://github.com/NethermindEth/bflat-riscv64/commit/cf55634f509975f3b394d7ccccde920543c8b1c5) - 2026-08-12
+* [Commit] [CI: add Frama-C proof job for the eh module](https://github.com/NethermindEth/bflat-riscv64/commit/5a1b18f4d0da897ada34ce2d206bc3d800b6c4bd) - 2026-08-12
+* [Commit] [variant.props: bump .NET 11 min runtime postfix to .x9](https://github.com/NethermindEth/bflat-riscv64/commit/4515ab8e5f67101bddac951e169dbb5ec287730b) - 2026-08-12
+* [Commit] [docs: document the eh module and its Frama-C proof](https://github.com/NethermindEth/bflat-riscv64/commit/d251a86a990de2f0452aee3507a67bcafa84a84e) - 2026-08-12
+* [Commit] [eh: enable managed exception handling with synthetic program headers](https://github.com/NethermindEth/bflat-riscv64/commit/5f065c3c4fc2458e2bf74c316d8cbc9622924ba6) - 2026-08-12
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Minimal set of patches](https://github.com/NethermindEth/dotnet-riscv/pull/7) - 2026-07-26
 * [Commit] [tools/clang: match Runtime.*.dir objects as client code](https://github.com/NethermindEth/dotnet-riscv/commit/511edf6e28ee1172c5968632bcf454e5a7bc2ebf) - 2026-08-11

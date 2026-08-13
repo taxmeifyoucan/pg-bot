@@ -265,6 +265,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [deps: bump discv5 to 12.0.2 and enr to 6.0.2 (#9810)](https://github.com/ChainSafe/lodestar/commit/20c6ad786eaa0d9a7a3899bc51d2033cef353e53) - 2026-08-11
 * [Commit] [fix: harden safe execution block hash handling (#9794)](https://github.com/ChainSafe/lodestar/commit/673a1a944f6258464a03dd95cf901ab7b3bbc332) - 2026-08-11
 * [Commit] [chore: address block validation and equivocation follow-ups (#9795)](https://github.com/ChainSafe/lodestar/commit/31cbd91ccfec39267ccd30bf0fe5fdd4ec1e2360) - 2026-08-11
+* [Review] [Review on: feat: support EIP-8261 gas limit schedule](https://github.com/ChainSafe/lodestar/pull/9808#pullrequestreview-4920210501) - 2026-08-12
+* [Review] [Review on: chore: address builder circuit breaker review follow-ups](https://github.com/ChainSafe/lodestar/pull/9780#pullrequestreview-4919089789) - 2026-08-12
+* [Review] [Review on: feat: expose fast confirmation store variables via lodestar API](https://github.com/ChainSafe/lodestar/pull/9803#pullrequestreview-4917284244) - 2026-08-12
+* [Review] [Review on: fix: process REPEAT_PROPOSAL block](https://github.com/ChainSafe/lodestar/pull/9805#pullrequestreview-4915924654) - 2026-08-12
+* [Review] [Review on: chore: update changelog authors mapping](https://github.com/ChainSafe/lodestar/pull/9812#pullrequestreview-4914766714) - 2026-08-12
+* [Review] [Review on: chore: release v1.46.0](https://github.com/ChainSafe/lodestar/pull/9788#pullrequestreview-4914388786) - 2026-08-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -300,6 +306,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Test parent payload availability before attestation rewards](https://github.com/ethereum/consensus-specs/pull/5514#pullrequestreview-4854722280) - 2026-08-04
 * [Commit] [Add compliance test generation smoke check (#5504)](https://github.com/ethereum/consensus-specs/commit/ca22f9c268d460afaf17ab51d01514fc545adaa5) - 2026-08-04
 * [Review] [Review on: Use the genesis root as a dependent root for the first two epochs](https://github.com/ethereum/consensus-specs/pull/5515#pullrequestreview-4862713966) - 2026-08-05
+* [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4918368979) - 2026-08-12
+* [Review] [Review on: Do not apply proposer boost to equivocated blocks in Gloas](https://github.com/ethereum/consensus-specs/pull/5535#pullrequestreview-4916170860) - 2026-08-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

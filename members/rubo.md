@@ -59,6 +59,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12752#pullrequestreview-4892316931) - 2026-08-09
 * [Pull Request] [ci: add stateless execution output validation](https://github.com/NethermindEth/nethermind/pull/12779) - 2026-08-11
 * [Review] [Review on: ci: add stateless execution output validation](https://github.com/NethermindEth/nethermind/pull/12779#pullrequestreview-4910441900) - 2026-08-11
+* [Pull Request] [chore: update .NET packages](https://github.com/NethermindEth/nethermind/pull/12791) - 2026-08-12
+* [Review] [Review on: chore: update .NET packages](https://github.com/NethermindEth/nethermind/pull/12791#pullrequestreview-4921945344) - 2026-08-12
+* [Commit] [ci: add stateless execution output validation (#12779)](https://github.com/NethermindEth/nethermind/commit/1bfad6d550b6945342a241918d7dff2a3a49926d) - 2026-08-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03

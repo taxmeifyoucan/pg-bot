@@ -47,6 +47,7 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [Update EIP-1: allow links to sys-asm](https://github.com/ethereum/EIPs/commit/d7f6f26dd7b183e3f58143b966fc61ee152b062b) - 2026-08-10
 * [Review] [Review on: Update EIP-8136: Move to Review](https://github.com/ethereum/EIPs/pull/12035#pullrequestreview-4908677621) - 2026-08-11
 * [Review] [Review on: Add EIP: Tapered Issuance Burn](https://github.com/ethereum/EIPs/pull/12081#pullrequestreview-4908265705) - 2026-08-11
+* [Pull Request] [Config: Update pull request template with new instructions](https://github.com/ethereum/EIPs/pull/12150) - 2026-08-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Update Leo Lara contributions: add execution-specs](https://github.com/protocolguild/documentation/pull/515#pullrequestreview-4652756505) - 2026-07-08
 ## Q2 2026

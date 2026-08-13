@@ -117,6 +117,21 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Forward-integration: EIP-7805 (FOCIL) into the EIP-8141 frame-tx base + EIP-8369 overlap](https://github.com/NethermindEth/nethermind/pull/12772) - 2026-08-11
 * [Review] [Review on: Forward-integration: EIP-7805 (FOCIL) into the EIP-8141 frame-tx base + EIP-8369 overlap](https://github.com/NethermindEth/nethermind/pull/12772#pullrequestreview-4907025652) - 2026-08-11
 * [Pull Request] [feat(eip8141): complete blob-carrying frame tx production, serve, and RPC path](https://github.com/NethermindEth/nethermind/pull/12770) - 2026-08-11
+* [Pull Request] [fix(evm): execute a precompile targeted by a frame](https://github.com/NethermindEth/nethermind/pull/12785) - 2026-08-12
+* [Review] [Review on: fix(evm): execute a precompile targeted by a frame](https://github.com/NethermindEth/nethermind/pull/12785#pullrequestreview-4915636281) - 2026-08-12
+* [Review] [Review on: feat(rlp): decode the EIP-8250 keyed-nonce frame transaction envelope](https://github.com/NethermindEth/nethermind/pull/12653#pullrequestreview-4915185967) - 2026-08-12
+* [Review] [Review on: feat(rlp): decode the EIP-8272 recent-root references of a frame transaction](https://github.com/NethermindEth/nethermind/pull/12655#pullrequestreview-4915227208) - 2026-08-12
+* [Pull Request] [fix(evm): charge a frame for resolving its target's delegation](https://github.com/NethermindEth/nethermind/pull/12786) - 2026-08-12
+* [Review] [Review on: fix(evm): charge a frame for resolving its target's delegation](https://github.com/NethermindEth/nethermind/pull/12786#pullrequestreview-4916154183) - 2026-08-12
+* [Review] [Review on: EIP-8141: cap pending frame transactions per non-canonical paymaster](https://github.com/NethermindEth/nethermind/pull/12774#pullrequestreview-4915754327) - 2026-08-12
+* [Pull Request] [test: map the frame-format exception for transaction tests](https://github.com/NethermindEth/nethermind/pull/12788) - 2026-08-12
+* [Review] [Review on: test: map the frame-format exception for transaction tests](https://github.com/NethermindEth/nethermind/pull/12788#pullrequestreview-4917677560) - 2026-08-12
+* [Review] [Review on: feat(eip8141): complete blob-carrying frame tx production, serve, and RPC path](https://github.com/NethermindEth/nethermind/pull/12770#pullrequestreview-4916730811) - 2026-08-12
+* [Review] [Review on: EIP-8141: bring frame transactions onto the devnet-8 gas schedule](https://github.com/NethermindEth/nethermind/pull/12775#pullrequestreview-4916494699) - 2026-08-12
+* [Review] [Review on: feat(evm): EIP-8272 reference-set validity](https://github.com/NethermindEth/nethermind/pull/12528#pullrequestreview-4915285757) - 2026-08-12
+* [Review] [Review on: test(rlp): pin the frame-transaction envelope against a foreign encoder's vector](https://github.com/NethermindEth/nethermind/pull/12658#pullrequestreview-4915258207) - 2026-08-12
+* [Pull Request] [fix(txpool): decode LightTxDecoder proof version as RLP scalar](https://github.com/NethermindEth/nethermind/pull/12782) - 2026-08-12
+* [Pull Request] [fix: honour engine fixture errorCode instead of accepting any RPC error](https://github.com/NethermindEth/nethermind/pull/12783) - 2026-08-12
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

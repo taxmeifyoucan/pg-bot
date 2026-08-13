@@ -78,6 +78,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/sentinel, cl/phase1/forkchoice: serve req/resp chain data from fork_graph, not forkchoice](https://github.com/erigontech/erigon/pull/23179) - 2026-08-11
 * [Review] [Review on: [r3.6] cl/beacon: publish fork-choice head before state copy](https://github.com/erigontech/erigon/pull/23172#pullrequestreview-4905191359) - 2026-08-11
 * [Review] [Review on: cl/forkchoice: harden Gloas envelope persistence](https://github.com/erigontech/erigon/pull/23152#pullrequestreview-4903515062) - 2026-08-11
+* [Pull Request] [cl/beacon: report pending blob backfill availability](https://github.com/erigontech/erigon/pull/23213) - 2026-08-12
+* [Review] [Review on: cl: stabilize Gloas sync with external execution clients](https://github.com/erigontech/erigon/pull/22683#pullrequestreview-4912927708) - 2026-08-12
+* [Review] [Review on: execution, cl, common/math: fix unchecked integer overflows on untrusted input](https://github.com/erigontech/erigon/pull/23192#pullrequestreview-4913263955) - 2026-08-12
 ## Q2 2026
 
 

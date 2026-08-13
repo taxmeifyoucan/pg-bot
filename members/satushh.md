@@ -54,6 +54,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Fix Gloas backfill handling of withheld payload columns](https://github.com/OffchainLabs/prysm/pull/17302) - 2026-08-05
 * [Pull Request] [Update earliest_available_slot progressively as backfill imports durable block and data-column history](https://github.com/OffchainLabs/prysm/pull/17327) - 2026-08-10
 * [Pull Request] [Add WithRPCClientDialer option to inject the execution node RPC client](https://github.com/OffchainLabs/prysm/pull/17334) - 2026-08-11
+* [Review] [Review on: Recover initial sync when head is on a bad fork](https://github.com/OffchainLabs/prysm/pull/17324#pullrequestreview-4918429729) - 2026-08-12
 ## Q2 2026
 
 

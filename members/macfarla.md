@@ -124,6 +124,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix: defer eth_simulate nonce validation](https://github.com/besu-eth/besu/pull/10702#pullrequestreview-4903803581) - 2026-08-11
 * [Commit] [simulation gas: do not apply EIP-7825 txGasLimitCap (#10885)](https://github.com/besu-eth/besu/commit/1b96266a53e65e54781a81d3cd9ebedfe8c0da01) - 2026-08-11
 * [Commit] [deprecate(cli): --network=dev with warning message (#10836)](https://github.com/besu-eth/besu/commit/c568691bd6ad493d1086dc4f73d6b4aa603ac136) - 2026-08-11
+* [Review] [Review on: fix: Bonsai full sync halt at block 10,094,566 — storage skipped for selfdestructed+recreated accounts](https://github.com/besu-eth/besu/pull/10979#pullrequestreview-4921827769) - 2026-08-12
+* [Commit] [fix(p2p): fix root cause of FramingException stack trace (#10912)](https://github.com/besu-eth/besu/commit/240d9c43a9a1185940e8c990621d1a28b661837d) - 2026-08-12
+* [Commit] [Remove deprecated --min-block-occupancy-ratio CLI option (#11017)](https://github.com/besu-eth/besu/commit/5ec5456605370eabba8473c1608d77947421337b) - 2026-08-12
+* [Commit] [Remove deprecated --Xmax-tracked-seen-txs-per-peer alias (#11018)](https://github.com/besu-eth/besu/commit/33b5b41e8d4a1a7eab4ac7308b01ae6fde0de819) - 2026-08-12
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

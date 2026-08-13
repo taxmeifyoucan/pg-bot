@@ -42,6 +42,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Release v8.2.1](https://github.com/sigp/lighthouse/pull/9670) - 2026-07-21
 * [Commit] [Release v8.2.1](https://github.com/sigp/lighthouse/commit/b263df596671a2bd42bf1034e1cdc8188ba8a9b0) - 2026-07-21
 * [Review] [Review on: Propagate EIP-8025 execution proofs on gossip behind a flag](https://github.com/sigp/lighthouse/pull/9659#pullrequestreview-4751445389) - 2026-07-22
+* [Review] [Review on: Enable Gloas FCR ef-tests and use parent-first safe hash](https://github.com/sigp/lighthouse/pull/9786#pullrequestreview-4921771654) - 2026-08-12
 ## Q2 2026
 
 

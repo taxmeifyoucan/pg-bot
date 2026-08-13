@@ -67,6 +67,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [e2e: Update lighthouse version in multiclient testing (#17221)](https://github.com/OffchainLabs/prysm/commit/39a19d268266e0b143fc4f4a269b4c2effb707ff) - 2026-07-22
 * [Review] [Review on: reduce state diff cache memory usage](https://github.com/OffchainLabs/prysm/pull/17227#pullrequestreview-4768226562) - 2026-07-23
 * [Review] [Review on: Prysm Version Upgrade Script](https://github.com/OffchainLabs/prysm/pull/15992#pullrequestreview-4909500493) - 2026-08-11
+* [Review] [Review on: Add genception, a Bazel-backed go/packages driver](https://github.com/OffchainLabs/prysm/pull/17307#pullrequestreview-4919210900) - 2026-08-12
+* [Review] [Review on: Add the `--disable-graffiti-client-append` flag.](https://github.com/OffchainLabs/prysm/pull/17341#pullrequestreview-4918857169) - 2026-08-12
+* [Review] [Review on: `getHeader`: Allow a user defined timeout value with the `--builder-header-timeout` flag](https://github.com/OffchainLabs/prysm/pull/17283#pullrequestreview-4918155499) - 2026-08-12
 ## Q2 2026
 
 

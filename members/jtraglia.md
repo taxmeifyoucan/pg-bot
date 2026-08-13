@@ -167,6 +167,16 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Define recursive EIP-8025 execution proof guest](https://github.com/ethereum/consensus-specs/pull/5534#pullrequestreview-4911344138) - 2026-08-11
 * [Commit] [Bump the minimum Python version to 3.12 (#5526)](https://github.com/ethereum/consensus-specs/commit/6d0e95d972a90bbf79a356ded6a704d769bb67c0) - 2026-08-11
 * [Commit] [Run filtered tests in parallel by default (#5531)](https://github.com/ethereum/consensus-specs/commit/4ab8c1a34a0f1cf1da6eb9cf4b889386fd60f868) - 2026-08-11
+* [Review] [Review on: Define recursive EIP-8025 execution proof guest](https://github.com/ethereum/consensus-specs/pull/5534#pullrequestreview-4918198513) - 2026-08-12
+* [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4918375009) - 2026-08-12
+* [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4918277775) - 2026-08-12
+* [Issue] [Add equivocating blocks to fork choice store](https://github.com/ethereum/consensus-specs/issues/5538) - 2026-08-12
+* [Commit] [Introduce `get_set_bit_count` helper (#5525)](https://github.com/ethereum/consensus-specs/commit/44d5b7eb4f5086c7055ee32efb36b4783de7360c) - 2026-08-12
+* [Commit] [Remove SSZ generic tests (#5524)](https://github.com/ethereum/consensus-specs/commit/71c78fd94cf1519c87e3bb5f24b606f5d427a3de) - 2026-08-12
+* [Commit] [Remove SSZ specifications (#5523)](https://github.com/ethereum/consensus-specs/commit/498449f83228304263b05cce1b052f44b7531d8c) - 2026-08-12
+* [Commit] [Prefer named SSZ collection constructors (#5528)](https://github.com/ethereum/consensus-specs/commit/802485ec74a6986542bd53bf153189623aab440c) - 2026-08-12
+* [Commit] [Integrate optimistic sync specs into core specs (#5529)](https://github.com/ethereum/consensus-specs/commit/9bbf22fa2a548a0bdae86c3ff629be3a09b3ad9f) - 2026-08-12
+* [Commit] [Remove unnecessary "Modifications in X" sections (#5532)](https://github.com/ethereum/consensus-specs/commit/3bef9d92761a2586352a2123b2d18137cf61297d) - 2026-08-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

@@ -92,8 +92,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Use ProgressiveTransactions type for the IL transactions field](https://github.com/sigp/lighthouse/pull/9747#pullrequestreview-4905315667) - 2026-08-11
 * [Review] [Review on: Rename max IL transactions bytes constant per spec change](https://github.com/sigp/lighthouse/pull/9741#pullrequestreview-4904046865) - 2026-08-11
 * [Pull Request] [Gloas progressive merkle proofs](https://github.com/sigp/lighthouse/pull/9790) - 2026-08-11
+* [Review] [Review on: Fix issue with atttester slashing](https://github.com/sigp/lighthouse/pull/9793#pullrequestreview-4913331380) - 2026-08-12
+* [Review] [Review on: Deduplicate execution payload envelopes on gossip](https://github.com/sigp/lighthouse/pull/9775#pullrequestreview-4913479963) - 2026-08-12
+* [Review] [Review on: Early-subscribe Gloas proposer_preferences and fix publish digest](https://github.com/sigp/lighthouse/pull/9794#pullrequestreview-4913996007) - 2026-08-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
+* [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12
 ## Q2 2026
 
 

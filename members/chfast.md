@@ -159,6 +159,15 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [evmone 0.23.0](https://github.com/ipsilon/evmone/commit/2184b24461ae20398520f0bc5023cb7dcc0e003c) - 2026-08-11
 * [Commit] [changelog: List changes for the 0.23.0 release (#1645)](https://github.com/ipsilon/evmone/commit/e3bbf27ed26b6b07bc3277cb172c939278ef96da) - 2026-08-11
 * [Commit] [Implement EIP-7954: "Increase Maximum Contract Size" (#1575)](https://github.com/ipsilon/evmone/commit/87a0d056e3c76ea92ffcc41fd918d8ff4e2146f6) - 2026-08-11
+* [Pull Request] [crypto: Pseudo-Mersenne field multiplication for secp256k1](https://github.com/ipsilon/evmone/pull/1649) - 2026-08-12
+* [Pull Request] [build: Upgrade blst to v0.3.17](https://github.com/ipsilon/evmone/pull/1651) - 2026-08-12
+* [Pull Request] [build: Upgrade libsecp256k1 to v0.8.0](https://github.com/ipsilon/evmone/pull/1650) - 2026-08-12
+* [Pull Request] [crypto: Specialize the Fq2 multiplication by ksi](https://github.com/ipsilon/evmone/pull/1648) - 2026-08-12
+* [Pull Request] [state: Extract the block body's transaction slices](https://github.com/ipsilon/evmone/pull/1647) - 2026-08-12
+* [Commit] [build: Upgrade blst to v0.3.17 (#1651)](https://github.com/ipsilon/evmone/commit/ebc25efd1ffcb8f161d1ad08e31ee1b345a40052) - 2026-08-12
+* [Commit] [build: Upgrade libsecp256k1 to v0.8.0 (#1650)](https://github.com/ipsilon/evmone/commit/fe9342766cc0c408d0c75027ad1737a0c1651638) - 2026-08-12
+* [Commit] [crypto: Express the G2 check's Frobenius powers directly (#1637)](https://github.com/ipsilon/evmone/commit/67422656b03e50248b854a3e92e436c3f2af01fd) - 2026-08-12
+* [Commit] [crypto: Share Fq12 squaring across pairs in BN254 Miller loop (#1544)](https://github.com/ipsilon/evmone/commit/6e4fc94d89ce74e05609c9cd36661b95f2426aa9) - 2026-08-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

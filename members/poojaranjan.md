@@ -66,6 +66,7 @@ Team: [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+p
 * [Commit] [Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/commit/7b761e3d176730c488bfc4f1e3b261e3d93898b8) - 2026-08-05
 * [Commit] [Update EIP-8133: Update EIP-8133 requirements and naming conventions](https://github.com/ethereum/EIPs/commit/5c1d1ee48602b65c25a1dadc60759c59250a4f37) - 2026-08-05
 * [Commit] [Update EIP-8136: Move to Review](https://github.com/ethereum/EIPs/commit/72c7fe56093b471a06f4ec857ce7a9d3c0ddd587) - 2026-08-11
+* [Pull Request] [Update CONTRIBUTING.md with new contributor guidelines](https://github.com/ethereum/EIPs/pull/12149) - 2026-08-12
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #105, July 7, 2026](https://github.com/ethereum/pm/issues/2150) - 2026-07-07
 * [Issue] [EIP Editing Office Hour (EIP + ERC ) Meeting #106, July 14, 2026](https://github.com/ethereum/pm/issues/2156) - 2026-07-13

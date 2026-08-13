@@ -41,6 +41,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Allow empty issuer when verifying X.509 certificates (p2p) (#11082)](https://github.com/Consensys/teku/commit/065c5eda40b278fcbfe8f9b14100bee6d573fce7) - 2026-08-11
 * [Commit] [Updated bouncy castle (#11076)](https://github.com/Consensys/teku/commit/6ce1e38114479d1809e961bb9c811534a2e9df7c) - 2026-08-11
 * [Commit] [Remove GitPOAP badge from README (#11079)](https://github.com/Consensys/teku/commit/a3a515cac8e73b643ebfe65ec461e20395b68619) - 2026-08-11
+* [Review] [Review on: Remove startup branch node cache rebuild for tree state database](https://github.com/Consensys/teku/pull/11078#pullrequestreview-4921541930) - 2026-08-12
+* [Review] [Review on: add post proposer preferences](https://github.com/Consensys/teku/pull/11035#pullrequestreview-4912501817) - 2026-08-12
+* [Review] [Review on: Use state epoch to select the right validator for AttesterSlashing/ProposerSlashing](https://github.com/Consensys/teku/pull/11086#pullrequestreview-4912523048) - 2026-08-12
+* [Review] [Review on: Remove deprecated methods from MiscHelpersFulu](https://github.com/Consensys/teku/pull/11059#pullrequestreview-4912544274) - 2026-08-12
+* [Review] [Review on: Add light client memory store](https://github.com/Consensys/teku/pull/11075#pullrequestreview-4912355955) - 2026-08-12
 ## Q2 2026
 
 

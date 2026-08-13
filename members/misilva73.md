@@ -54,6 +54,8 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Pull Request] [Add EIP: CPSB Recalibration for New Gas Limit](https://github.com/ethereum/EIPs/pull/12107) - 2026-08-05
 * [Pull Request] [Update EIP-8081: PFI EIP-8368](https://github.com/ethereum/EIPs/pull/12117) - 2026-08-06
 * [Commit] [Add EIP: CPSB Recalibration for New Gas Limit](https://github.com/ethereum/EIPs/commit/6d574460e3a424ce8386bcacd64e9546d6fb4950) - 2026-08-06
+* [Pull Request] [Update EIP-8368: author list](https://github.com/ethereum/EIPs/pull/12147) - 2026-08-12
+* [Commit] [Update EIP-8368: author list](https://github.com/ethereum/EIPs/commit/582684e2d7d372c09f45777be8ea603e485e9e9d) - 2026-08-12
 ## Q2 2026
 
 

@@ -39,6 +39,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [Bonsai Archive: eth_getProof simple trie](https://github.com/besu-eth/besu/issues/10996) - 2026-08-07
 * [Pull Request] [Bonsai archive proofs simple trie](https://github.com/besu-eth/besu/pull/11016) - 2026-08-11
 * [Review] [Review on: Verify DNS discovery subtree hashes](https://github.com/besu-eth/besu/pull/10988#pullrequestreview-4902543609) - 2026-08-11
+* [Review] [Review on: fix(p2p): fix root cause of FramingException stack trace](https://github.com/besu-eth/besu/pull/10912#pullrequestreview-4913375322) - 2026-08-12
+* [Pull Request] [Fix NPE in JSON-RPC timeout handler for batch requests](https://github.com/besu-eth/besu/pull/11023) - 2026-08-12
+* [Review] [Review on: Fix NPE in JSON-RPC timeout handler for batch requests](https://github.com/besu-eth/besu/pull/11023#pullrequestreview-4912815729) - 2026-08-12
 ## Q2 2026
 
 

@@ -75,6 +75,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Fix Fulu fork-choice timeliness to be recorded post-DA, not at block body arrival](https://github.com/Consensys/teku/pull/11080#pullrequestreview-4906374398) - 2026-08-11
 * [Review] [Review on: limit block operations for progressive lists](https://github.com/Consensys/teku/pull/11084#pullrequestreview-4909775260) - 2026-08-11
 * [Commit] [Remove CL permanent ban when cannot validate chain because of EL (#11064)](https://github.com/Consensys/teku/commit/29b9679457720fbdccd6577a2a69c610a07c61d3) - 2026-08-11
+* [Review] [Review on: limit block operations for progressive lists](https://github.com/Consensys/teku/pull/11084#pullrequestreview-4918503790) - 2026-08-12
+* [Pull Request] [EIP-8261 Scheduled Gas Limit](https://github.com/Consensys/teku/pull/11088) - 2026-08-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

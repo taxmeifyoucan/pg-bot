@@ -410,6 +410,19 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [execution, db: simplify cache publication and hot-path plumbing](https://github.com/erigontech/erigon/issues/23200) - 2026-08-11
 * [Issue] [rpc: eth_getLogs and trace_filter resolve block tags on the overlay view but read data from the committed view](https://github.com/erigontech/erigon/issues/23194) - 2026-08-11
 * [Commit] [execution/state: abort when a create consumes absence before the destructor's flush (#23176)](https://github.com/erigontech/erigon/commit/9858d03a6693fe30a4ca356cdb0525b6506c0e02) - 2026-08-11
+* [Review] [Review on: execution/stagedsync: skip the fee credit when the recorded set already carries it](https://github.com/erigontech/erigon/pull/23132#pullrequestreview-4918527031) - 2026-08-12
+* [Review] [Review on: execution/cache: prevent dead-fork StateCache fills across unwind](https://github.com/erigontech/erigon/pull/23005#pullrequestreview-4922061597) - 2026-08-12
+* [Pull Request] [rpc/rpchelper, txnprovider/shutter: fix silent log-event losses breaking shutter block building](https://github.com/erigontech/erigon/pull/23228) - 2026-08-12
+* [Pull Request] [execution: typed parallel-exec outcome instead of error-tree classification](https://github.com/erigontech/erigon/pull/23212) - 2026-08-12
+* [Review] [Review on: execution: typed parallel-exec outcome instead of error-tree classification](https://github.com/erigontech/erigon/pull/23212#pullrequestreview-4915633080) - 2026-08-12
+* [Pull Request] [execution/execmodule: propagate canonicality lookup errors](https://github.com/erigontech/erigon/pull/23227) - 2026-08-12
+* [Review] [Review on: [r3.6] execution/stagedsync: skip the fee credit when the recorded set already carries it](https://github.com/erigontech/erigon/pull/23131#pullrequestreview-4917815994) - 2026-08-12
+* [Pull Request] [execution/state: retry only live EIP-8246 absence conflicts](https://github.com/erigontech/erigon/pull/23218) - 2026-08-12
+* [Review] [Review on: execution/state: retry only live EIP-8246 absence conflicts](https://github.com/erigontech/erigon/pull/23218#pullrequestreview-4916037990) - 2026-08-12
+* [Review] [Review on: execution/vm: memoize InternAddress by stack word in a per-EVM cache](https://github.com/erigontech/erigon/pull/22900#pullrequestreview-4917536629) - 2026-08-12
+* [Issue] [execution/cache: avoid duplicate work when publishing StateCache batches](https://github.com/erigontech/erigon/issues/23226) - 2026-08-12
+* [Issue] [execution: classify rules-engine failures at source](https://github.com/erigontech/erigon/issues/23225) - 2026-08-12
+* [Commit] [rpc: keep modified-account tags on committed view (#23193)](https://github.com/erigontech/erigon/commit/4c6f1d39c0621bae3af7f75bc03f129f7ceb6345) - 2026-08-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

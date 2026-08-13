@@ -58,6 +58,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Commit] [EIP-2780/7702/8038: intrinsic gas, delegation accounting, fixtures v6.1.1 (#10908)](https://github.com/besu-eth/besu/commit/98b72450a38df589eb50c02e5530a7a0c1c4445c) - 2026-07-30
 * [Commit] [EIP-8037/7928: restore state-gas accounting and block gas dimensions (#10907)](https://github.com/besu-eth/besu/commit/222574347a27c4620a76bfd2814bf412bbe3b3ce) - 2026-07-30
 * [Pull Request] [Upgrade spec tests to tests-glamsterdam-devnet@v8.1.0](https://github.com/besu-eth/besu/pull/11021) - 2026-08-11
+* [Pull Request] [evmtool: add engine-test, replaying fixtures through the real Engine API](https://github.com/besu-eth/besu/pull/11030) - 2026-08-12
+* [Pull Request] [referencetests: engine fixture spec and devnet transition-fork schedules](https://github.com/besu-eth/besu/pull/11029) - 2026-08-12
+* [Pull Request] [evmtool: parallel workers, filtering and directory input for the test runners](https://github.com/besu-eth/besu/pull/11028) - 2026-08-12
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

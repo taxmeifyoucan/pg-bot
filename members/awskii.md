@@ -255,6 +255,12 @@ Team: Erigon
 * [Commit] [execution/commitment: remove TrieReader (#23190)](https://github.com/erigontech/erigon/commit/6895a5d47213f8ca746a3be048acf702c9986211) - 2026-08-11
 * [Commit] [execution/commitment: small cleanups in the parallel trie core (#23186)](https://github.com/erigontech/erigon/commit/cc4fbf4730d196eda726ef8b26052b14b7a99653) - 2026-08-11
 * [Commit] [execution/stagedsync: drain block requests before the result that races them (#23148)](https://github.com/erigontech/erigon/commit/2ab27fe9863ec8ddb98d85128824639dbb3400e0) - 2026-08-11
+* [Pull Request] [execution/commitment, common/maphash: close the pinned-entry counter race and keep the deep probe lock-free](https://github.com/erigontech/erigon/pull/23215) - 2026-08-12
+* [Issue] [Parallel exec keeps a self-destructed account's nonce on a same-block value-transfer revival](https://github.com/erigontech/erigon/issues/23206) - 2026-08-12
+* [Commit] [execution/commitment: remove the streaming commitment mode (#23191)](https://github.com/erigontech/erigon/commit/d1d1335ae4f190989107c41ffe61fc68f0bf6602) - 2026-08-12
+* [Commit] [execution/commitment: make the storage-branch cache route allocation-free (#23189)](https://github.com/erigontech/erigon/commit/f872bbd8eed4d32c9bcacc01d4f7c03d9e59b3eb) - 2026-08-12
+* [Commit] [execution/commitment: arena-allocate prefixNode extensions (#23188)](https://github.com/erigontech/erigon/commit/4f2bc597709f1464bb7688e636f1b905523476d4) - 2026-08-12
+* [Commit] [execution/commitment: drop dead accessors and a vestigial parameter (#23185)](https://github.com/erigontech/erigon/commit/f72b646b62e63f83a9ca38a2bd2a1080651123bc) - 2026-08-12
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

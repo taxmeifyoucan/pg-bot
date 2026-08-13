@@ -267,6 +267,22 @@ Team: Reth
 * [Commit] [fix(storage): tolerate unknown RocksDB column families (#26647)](https://github.com/paradigmxyz/reth/commit/c7338897a27fe1306eb6566cd163445555a9f7b5) - 2026-08-11
 * [Commit] [fix(storage): roll back RocksDB BAL storage (#26646)](https://github.com/paradigmxyz/reth/commit/905058c56e8fbbb8c40f633a051460ce6db5ec00) - 2026-08-11
 * [Commit] [fix(txpool): allow senders with empty code hash (#26644)](https://github.com/paradigmxyz/reth/commit/62808bd060e4c7398e3fb6df93881950b1433b18) - 2026-08-11
+* [Review] [Review on: refactor(network): assert negotiated protocol installation](https://github.com/paradigmxyz/reth/pull/26671#pullrequestreview-4921250951) - 2026-08-12
+* [Pull Request] [fix(net): make eth/72 announcements interoperable with geth](https://github.com/paradigmxyz/reth/pull/26670) - 2026-08-12
+* [Pull Request] [refactor(rpc): use Alloy trace chain result type](https://github.com/paradigmxyz/reth/pull/26669) - 2026-08-12
+* [Review] [Review on: feat(rpc): implement debug_traceChain subscription](https://github.com/paradigmxyz/reth/pull/26582#pullrequestreview-4913437719) - 2026-08-12
+* [Pull Request] [refactor(engine): merge StateProviderBuilder into OverlayStateProviderFactory](https://github.com/paradigmxyz/reth/pull/26661) - 2026-08-12
+* [Review] [Review on: refactor(engine): merge StateProviderBuilder into OverlayStateProviderFactory](https://github.com/paradigmxyz/reth/pull/26661#pullrequestreview-4917223302) - 2026-08-12
+* [Pull Request] [chore(deps): update Alloy to 2.4.0](https://github.com/paradigmxyz/reth/pull/26666) - 2026-08-12
+* [Review] [Review on: chore: bump reth version to 2.5.0](https://github.com/paradigmxyz/reth/pull/26663#pullrequestreview-4915395907) - 2026-08-12
+* [Pull Request] [chore(deps): patch Alloy dependencies to main](https://github.com/paradigmxyz/reth/pull/26664) - 2026-08-12
+* [Review] [Review on: ci(docker): build partial persistence nightly image](https://github.com/paradigmxyz/reth/pull/26662#pullrequestreview-4915515918) - 2026-08-12
+* [Review] [Review on: fix(engine): handle little-endian cell bitvectors](https://github.com/paradigmxyz/reth/pull/26650#pullrequestreview-4913942716) - 2026-08-12
+* [Review] [Review on: fix(network): missed on_bad_message call](https://github.com/paradigmxyz/reth/pull/26659#pullrequestreview-4913238006) - 2026-08-12
+* [Issue] [eth/72: blob transaction fetching via GetCells](https://github.com/paradigmxyz/reth/issues/26672) - 2026-08-12
+* [Commit] [refactor(rpc): use Alloy trace chain result type (#26669)](https://github.com/paradigmxyz/reth/commit/722628f965e7dbcebd7079bcb7db60c76761f2ff) - 2026-08-12
+* [Commit] [feat(storage): re-enable RocksDB BAL storage (#26653)](https://github.com/paradigmxyz/reth/commit/86963c9c30c58c36b72bde11aa969a257eedbb92) - 2026-08-12
+* [Commit] [chore(deps): update Alloy to 2.4.0 (#26666)](https://github.com/paradigmxyz/reth/commit/057a055c4e422de53798661c5ba21baced903932) - 2026-08-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

@@ -43,8 +43,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: add JMH gas profiler and formulas](https://github.com/besu-eth/besu/pull/10807#pullrequestreview-4851780570) - 2026-08-04
 
 * [Review] [Review on: add JMH gas profiler and formulas](https://github.com/besu-eth/besu/pull/10807#pullrequestreview-4905555701) - 2026-08-11
+* [Review] [Review on: Default --discovery-mode to V4](https://github.com/besu-eth/besu/pull/11026#pullrequestreview-4914084328) - 2026-08-12
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Review] [Review on: 2.8.0 release version pr](https://github.com/Consensys/tuweni/pull/66#pullrequestreview-4908208335) - 2026-08-11
+
+* [Review] [Review on: prep rev for next snapshot builds](https://github.com/Consensys/tuweni/pull/68#pullrequestreview-4920330641) - 2026-08-12
+[Consensys/discovery](https://github.com/Consensys/discovery)
+* [Review] [Review on: Revert to identity comparison](https://github.com/Consensys/discovery/pull/239#pullrequestreview-4920473915) - 2026-08-12
+* [Review] [Review on: Feature: Remove vertx as a dependency / transitive deps via tuweni](https://github.com/Consensys/discovery/pull/238#pullrequestreview-4918504686) - 2026-08-12
 ## Q2 2026
 
 

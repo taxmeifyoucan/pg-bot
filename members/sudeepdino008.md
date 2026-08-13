@@ -142,6 +142,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/state: drop the committed tier from BlockStateCache (#23140)](https://github.com/erigontech/erigon/pull/23171) - 2026-08-11
 * [Commit] [execution/state: make BlockStateCache committed storage reads lock-free (#23134)](https://github.com/erigontech/erigon/commit/2d85386d33839b3d3b1b01e8a34d0f5737472060) - 2026-08-11
 * [Commit] [publishable command: reject same snapshot range with different versions (#23019)](https://github.com/erigontech/erigon/commit/f862094356d1a45eafd6ee4353238b04d555b105) - 2026-08-11
+* [Review] [Review on: execution/stagedsync: skip the fee credit when the recorded set already carries it](https://github.com/erigontech/erigon/pull/23132#pullrequestreview-4913389540) - 2026-08-12
+* [Review] [Review on: [r3.6] execution/stagedsync: skip the fee credit when the recorded set already carries it](https://github.com/erigontech/erigon/pull/23131#pullrequestreview-4913389862) - 2026-08-12
+* [Review] [Review on: cmd/rpctest: split wide eth_getLogs filters in invariantsEthGetLogs](https://github.com/erigontech/erigon/pull/23211#pullrequestreview-4917229559) - 2026-08-12
+* [Pull Request] [node/eth: reuse the temporal db's aggregator (if available) in SetUpBlockReader](https://github.com/erigontech/erigon/pull/23209) - 2026-08-12
+* [Commit] [node/eth: reuse the temporal db's aggregator (if available) in SetUpBlockReader (#23209)](https://github.com/erigontech/erigon/commit/245d9ce148abe915d4332472d3eca59c8b2cc4ab) - 2026-08-12
 ## Q2 2026
 
 

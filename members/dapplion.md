@@ -43,6 +43,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: make historical backfill DB writes crash-safe](https://github.com/sigp/lighthouse/pull/9776#pullrequestreview-4897806385) - 2026-08-10
 * [Review] [Review on: engine_forkchoiceUpdatedV4: provide custody columns to the EL](https://github.com/sigp/lighthouse/pull/9547#pullrequestreview-4897780331) - 2026-08-10
 * [Review] [Review on: Fix incorrect discv5 NAT status in /lighthouse/nat](https://github.com/sigp/lighthouse/pull/9303#pullrequestreview-4897477810) - 2026-08-10
+* [Review] [Review on: Gloas partial data columns](https://github.com/sigp/lighthouse/pull/9325#pullrequestreview-4917987716) - 2026-08-12
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 ## Q2 2026

@@ -796,6 +796,31 @@ Team: Erigon
 * [Commit] [execution/commitment: pass the leaf value to completeLeafHash without boxing it (#23162)](https://github.com/erigontech/erigon/commit/df6bfe5b15c920fefa229bef0c89666353ef92e8) - 2026-08-11
 * [Commit] [execution/commitment: stop trace and branch-slot writes from heap-pinning locals (#23159)](https://github.com/erigontech/erigon/commit/833e45dec83ba437e9406133d4659aad623ca08a) - 2026-08-11
 * [Commit] [db/integrity, execution/commitment: guard IsComplete against short branch buffers (#23158)](https://github.com/erigontech/erigon/commit/dc2ebbcdb8b05e9d989ff0961e1c4a5fdb0e7a24) - 2026-08-11
+* [Pull Request] [rpc/jsonrpc: return hexutil.U256 from the eth_/erigon_ quantity getters](https://github.com/erigontech/erigon/pull/23216) - 2026-08-12
+* [Pull Request] [[r3.6] calcState: skip the commitment calculator's dead baseline read](https://github.com/erigontech/erigon/pull/23229) - 2026-08-13
+* [Pull Request] [.github: tell a CI-Gate timeout apart from a cancellation](https://github.com/erigontech/erigon/pull/23203) - 2026-08-12
+* [Review] [Review on: .github: tell a CI-Gate timeout apart from a cancellation](https://github.com/erigontech/erigon/pull/23203#pullrequestreview-4922218420) - 2026-08-13
+* [Review] [Review on: cl/network: fix blob history backfill boundary](https://github.com/erigontech/erigon/pull/23138#pullrequestreview-4913811536) - 2026-08-12
+* [Pull Request] [rpc/ethapi: migrate CallArgs and BlockOverrides quantity fields to hexutil.U256](https://github.com/erigontech/erigon/pull/23220) - 2026-08-12
+* [Pull Request] [db/kv/prune, cmd/integration: guard --prune.to, render distance sentinels by name](https://github.com/erigontech/erigon/pull/23221) - 2026-08-12
+* [Review] [Review on: rpc: keep modified-account tags on committed view](https://github.com/erigontech/erigon/pull/23193#pullrequestreview-4912400264) - 2026-08-12
+* [Pull Request] [db/snapshotsync: block reads require a tx-pinned block-files view](https://github.com/erigontech/erigon/pull/23208) - 2026-08-12
+* [Review] [Review on: execution/state: retry only live EIP-8246 absence conflicts](https://github.com/erigontech/erigon/pull/23218#pullrequestreview-4917002088) - 2026-08-12
+* [Pull Request] [cmd/rpctest: split wide eth_getLogs filters in invariantsEthGetLogs](https://github.com/erigontech/erigon/pull/23211) - 2026-08-12
+* [Review] [Review on: execution, cl, common/math: fix unchecked integer overflows on untrusted input](https://github.com/erigontech/erigon/pull/23192#pullrequestreview-4912400035) - 2026-08-12
+* [Review] [Review on: execution/commitment: make the storage-branch cache route allocation-free](https://github.com/erigontech/erigon/pull/23189#pullrequestreview-4914619978) - 2026-08-12
+* [Review] [Review on: all: enable makezero errchkjson noctx linters](https://github.com/erigontech/erigon/pull/23174#pullrequestreview-4913671959) - 2026-08-12
+* [Pull Request] [[do not merge] gosentry overflow-detection suppressions and run script](https://github.com/erigontech/erigon/pull/23202) - 2026-08-12
+* [Pull Request] [calcState: skip the commitment calculator's dead baseline read](https://github.com/erigontech/erigon/pull/23210) - 2026-08-12
+* [Review] [Review on: build(deps): bump nanoid from 3.3.16 to 3.3.18 in /docs/site](https://github.com/erigontech/erigon/pull/23217#pullrequestreview-4915528090) - 2026-08-12
+* [Pull Request] [rpc/jsonrpc: return hexutil.U256 from eth_getBalance](https://github.com/erigontech/erigon/pull/23219) - 2026-08-12
+* [Pull Request] [db/recsplit/eliasfano32: let the fuzzer pick the input size](https://github.com/erigontech/erigon/pull/23214) - 2026-08-12
+* [Review] [Review on: node/eth: reuse the temporal db's aggregator (if available) in SetUpBlockReader](https://github.com/erigontech/erigon/pull/23209#pullrequestreview-4913982580) - 2026-08-12
+* [Commit] [calcState: skip the commitment calculator's dead baseline read (#23210)](https://github.com/erigontech/erigon/commit/a422790083e58e61de0f5829be46470cd48d53bc) - 2026-08-12
+* [Commit] [apply `go fix` (#23201)](https://github.com/erigontech/erigon/commit/3236196bc9ff9d988e530c86767fcb42360ce34f) - 2026-08-12
+* [Commit] [db/downloader: keep the BT discovery tests off UDP (#23204)](https://github.com/erigontech/erigon/commit/fc4be5cb2572ba9d14eb1b759c2670f5f92cc7c2) - 2026-08-12
+* [Commit] [db/seg, db/seg/patricia: fix fuzz harness defects (#23173)](https://github.com/erigontech/erigon/commit/03c40a3183ade9fa9f9a6ae3af54a8f8421d1418) - 2026-08-12
+* [Commit] [exec: arena for parallel-path stateObjects (#22949)](https://github.com/erigontech/erigon/commit/cf496e130a504c44b7895bcae9bd105154ba0ffc) - 2026-08-12
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

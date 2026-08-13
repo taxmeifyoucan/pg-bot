@@ -190,6 +190,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: docs(xdc): rewrite Nethermind.Xdc README against current code](https://github.com/NethermindEth/nethermind/pull/12761#pullrequestreview-4905858924) - 2026-08-11
 * [Review] [Review on: Flush flat state on shutdown and survive a missing arena on load](https://github.com/NethermindEth/nethermind/pull/12769#pullrequestreview-4905293999) - 2026-08-11
 * [Commit] [Handle failed sender recovery (#12757)](https://github.com/NethermindEth/nethermind/commit/57ac0316bc2a9cd0adccd5f951b09c121b0106e1) - 2026-08-11
+* [Review] [Review on: chore: update .NET packages](https://github.com/NethermindEth/nethermind/pull/12791#pullrequestreview-4921941113) - 2026-08-12
+* [Review] [Review on: fix(frames): forward-port the 8141 frame-tx fixes onto devnet-8](https://github.com/NethermindEth/nethermind/pull/12790#pullrequestreview-4920279253) - 2026-08-12
+* [Review] [Review on: fix(xdc): resolve XDPoS committed/finalized state from the block tree, not the highest QC](https://github.com/NethermindEth/nethermind/pull/12773#pullrequestreview-4915997463) - 2026-08-12
+* [Pull Request] [Detect Geth genesis format independent of property order](https://github.com/NethermindEth/nethermind/pull/12784) - 2026-08-12
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -222,6 +226,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Use Geth-style genesis for Nethermind](https://github.com/ethereum/hive/pull/1593) - 2026-08-06
 * [Commit] [clients/nethermind: use geth style genesis mapper (#1593)](https://github.com/ethereum/hive/commit/654c734f99d98344b17b8601e9979d9564146fa4) - 2026-08-10
 * [Pull Request] [clients/nethermind: only mark post-merge genesis when TTD is set](https://github.com/ethereum/hive/pull/1595) - 2026-08-11
+* [Commit] [clients/nethermind: only mark post-merge genesis when TTD is set (#1595)](https://github.com/ethereum/hive/commit/3e3aeecc98c094357659cc5913c778aa063e1702) - 2026-08-12
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix(eth): isolate protocol traffic by connection](https://github.com/besu-eth/besu/pull/10841) - 2026-07-22
 * [Pull Request] [fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843) - 2026-07-22

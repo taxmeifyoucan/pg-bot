@@ -46,6 +46,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: bump libp2p-quic](https://github.com/ChainSafe/lodestar/pull/9784#pullrequestreview-4882372156) - 2026-08-07
 * [Review] [Review on: deps: bump @chainsafe/libp2p-quic to 2.1.3](https://github.com/ChainSafe/lodestar/pull/9792#pullrequestreview-4891106775) - 2026-08-09
 * [Review] [Review on: fix: bound network worker termination so shutdown can complete](https://github.com/ChainSafe/lodestar/pull/9790#pullrequestreview-4891067015) - 2026-08-09
+* [Review] [Review on: feat: support EIP-8261 gas limit schedule](https://github.com/ChainSafe/lodestar/pull/9808#pullrequestreview-4919603923) - 2026-08-12
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -134,6 +135,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: perf(bindings): drop TS BLS comparison benches and report benchmarks on PRs](https://github.com/ChainSafe/lodestar-z/pull/552#pullrequestreview-4893516314) - 2026-08-10
 * [Pull Request] [feat(pubkeys): add getPubkeyBytes binding](https://github.com/ChainSafe/lodestar-z/pull/555) - 2026-08-11
 * [Review] [Review on: build(bls): consume upstream blst module](https://github.com/ChainSafe/lodestar-z/pull/554#pullrequestreview-4902575763) - 2026-08-11
+* [Review] [Review on: feat(pubkeys): add getPubkeyBytes binding](https://github.com/ChainSafe/lodestar-z/pull/555#pullrequestreview-4914135205) - 2026-08-12
+* [Review] [Review on: feat: add readonly range reads for SSZ composite vectors](https://github.com/ChainSafe/lodestar-z/pull/476#pullrequestreview-4914305840) - 2026-08-12
 ## Q2 2026
 
 
