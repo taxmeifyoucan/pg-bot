@@ -47,6 +47,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore(deps): bump ruint to 1.20.0 for RUSTSEC-2026-0220 (#3845)](https://github.com/bluealloy/revm/commit/e4845467a2c55d0a0a622af52ee8c9143f6ea270) - 2026-08-05
 * [Commit] [feat(revme): validate receipt trie root in blockchain tests (#3841)](https://github.com/bluealloy/revm/commit/c9bcb97232d62e2061a53fd06ba4315ce0949fdf) - 2026-08-05
 * [Pull Request] [feat: glamsterdam devnet-8 gas repricing](https://github.com/bluealloy/revm/pull/3850) - 2026-08-10
+* [Commit] [feat: glamsterdam devnet-8 gas repricing (#3850)](https://github.com/bluealloy/revm/commit/45f05bd88fd09e32ea43cf5e94190759ea6ace7c) - 2026-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02

@@ -102,6 +102,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [glamsterdam-devnet-7: Unknown block sync abused](https://github.com/ChainSafe/lodestar/issues/9800) - 2026-08-11
 * [Commit] [fix: harden range sync hashBlocks() (#9686)](https://github.com/ChainSafe/lodestar/commit/a03686d0dc4674da0a4637925bb0997e90a6d1d3) - 2026-08-11
 * [Review] [Review on: fix: process REPEAT_PROPOSAL block](https://github.com/ChainSafe/lodestar/pull/9805#pullrequestreview-4912796176) - 2026-08-12
+* [Review] [Review on: fix: process REPEAT_PROPOSAL block](https://github.com/ChainSafe/lodestar/pull/9805#pullrequestreview-4923063813) - 2026-08-13
+* [Review] [Review on: refactor(blst): use lodestar-z pubkey cache](https://github.com/ChainSafe/lodestar/pull/9728#pullrequestreview-4924611407) - 2026-08-13
+* [Pull Request] [fix: differentiate ALREADY_KNOWN vs REPEAT_PROPOSAL seen block proposal](https://github.com/ChainSafe/lodestar/pull/9814) - 2026-08-13
+* [Commit] [fix: trigger getBlobs in Unknown block sync (#9806)](https://github.com/ChainSafe/lodestar/commit/25a4a1c65f68fa2b0c8a36c8c2a402befcf99ce4) - 2026-08-13
+* [Commit] [fix: process REPEAT_PROPOSAL block (#9805)](https://github.com/ChainSafe/lodestar/commit/36fc8329830d988e6a25e633911d945d14e80058) - 2026-08-13
+* [Commit] [fix: differentiate ALREADY_KNOWN vs REPEAT_PROPOSAL seen block proposal (#9814)](https://github.com/ChainSafe/lodestar/commit/ca6d994e0e19cae079af624ab4ddb015273bf069) - 2026-08-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02
@@ -112,6 +118,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: docs: more comprehensive AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/520#pullrequestreview-4733488478) - 2026-07-20
 * [Review] [Review on: fix(state-transition): group-check signature sets](https://github.com/ChainSafe/lodestar-z/pull/515#pullrequestreview-4733841830) - 2026-07-20
 * [Review] [Review on: feat(pubkeys): add getPubkeyBytes binding](https://github.com/ChainSafe/lodestar-z/pull/555#pullrequestreview-4912352995) - 2026-08-12
+* [Review] [Review on: [do not merge] feat(bindings): asyncAggregateWithRandomness by indices](https://github.com/ChainSafe/lodestar-z/pull/561#pullrequestreview-4925106997) - 2026-08-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix payload availability lookup for attestations to skipped slots](https://github.com/ethereum/consensus-specs/pull/5442#pullrequestreview-4710081193) - 2026-07-16
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot](https://github.com/ethereum/consensus-specs/pull/5473#pullrequestreview-4794777777) - 2026-07-28

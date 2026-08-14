@@ -30,6 +30,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [playbook: deploy tysm canary configs from templates](https://github.com/ethpandaops/template-devnets/pull/183) - 2026-08-03
 * [Review] [Review on: playbook: deploy tysm canary configs from templates](https://github.com/ethpandaops/template-devnets/pull/183#pullrequestreview-4843400718) - 2026-08-03
 
+* [Review] [Review on: fix(tf): spread DO regions and Hetzner locations by hostname hash](https://github.com/ethpandaops/template-devnets/pull/185#pullrequestreview-4925872934) - 2026-08-13
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Pull Request] [feat(server): promotion service — interesting-states corpus](https://github.com/ethpandaops/tracoor/pull/65) - 2026-08-04
 

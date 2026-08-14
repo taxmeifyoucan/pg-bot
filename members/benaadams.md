@@ -189,6 +189,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(simulate): default a no-gas eth_simulateV1 call to the block gas budget (#12692)](https://github.com/NethermindEth/nethermind/pull/12722#pullrequestreview-4907064642) - 2026-08-11
 * [Review] [Review on: Fix DB size metrics starving under continuous block processing](https://github.com/NethermindEth/nethermind/pull/12763#pullrequestreview-4903961721) - 2026-08-11
 * [Review] [Review on: Flush flat state on shutdown and survive a missing arena on load](https://github.com/NethermindEth/nethermind/pull/12769#pullrequestreview-4905662469) - 2026-08-11
+* [Review] [Review on: fix(flat): stop the trie warmer poisoning reads with a cached Unknown](https://github.com/NethermindEth/nethermind/pull/12793#pullrequestreview-4925855545) - 2026-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

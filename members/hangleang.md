@@ -46,6 +46,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Set attestation data index based on the payload status in the node fork-choice](https://github.com/grandinetech/grandine/pull/845) - 2026-08-11
 * [Pull Request] [Publish Gloas beacon block before data column sidecars](https://github.com/grandinetech/grandine/pull/844) - 2026-08-11
 * [Pull Request] [Add Gloas global circuit breaker](https://github.com/grandinetech/grandine/pull/843) - 2026-08-11
+* [Review] [Review on: builder_api: add Gloas Staked Builder API client](https://github.com/grandinetech/grandine/pull/819#pullrequestreview-4926611655) - 2026-08-13
 ## Q2 2026
 
 

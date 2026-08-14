@@ -101,6 +101,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(test-benchmark): more worst case scenario](https://github.com/ethereum/execution-specs/pull/3349) - 2026-08-11
 * [Review] [Review on: chore(tests): derive blob tx gas from fork intrinsic cost](https://github.com/ethereum/execution-specs/pull/3346#pullrequestreview-4903006417) - 2026-08-11
 * [Review] [Review on: chore(test-client-clis): update geth BAL exception mappings](https://github.com/ethereum/execution-specs/pull/3347#pullrequestreview-4902972879) - 2026-08-11
+* [Review] [Review on: fix(consume): emit genesis slotNumber as hex string like all other fields](https://github.com/ethereum/execution-specs/pull/3369#pullrequestreview-4927245389) - 2026-08-13
+* [Review] [Review on: fix(tests): accept gas-used divergence in BAL omitted-slot-change test](https://github.com/ethereum/execution-specs/pull/3357#pullrequestreview-4927119080) - 2026-08-13
 ## Q2 2026
 
 

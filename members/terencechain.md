@@ -175,6 +175,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: add version checks to beacon state progressive HTR](https://github.com/OffchainLabs/prysm/pull/17336#pullrequestreview-4907293940) - 2026-08-11
 * [Review] [Review on: Recover initial sync when head is on a bad fork](https://github.com/OffchainLabs/prysm/pull/17324#pullrequestreview-4919812856) - 2026-08-12
 * [Commit] [Add EIP-8261 gas limit schedule support (#17339)](https://github.com/OffchainLabs/prysm/commit/ae5ccd6596cf72cf622cb019a23163ff5b0496d3) - 2026-08-12
+* [Review] [Review on: Record Gloas data column KZG proof verification time](https://github.com/OffchainLabs/prysm/pull/17346#pullrequestreview-4927796972) - 2026-08-13
+* [Commit] [Recover initial sync when head is on a bad fork (#17324)](https://github.com/OffchainLabs/prysm/commit/61dc49f4033a69b7e6ac0bb3943e52b2e908c7f2) - 2026-08-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

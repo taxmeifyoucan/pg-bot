@@ -207,6 +207,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(tests): use well-formed versioned hashes in getBlobs negative tests (#3359)](https://github.com/ethereum/execution-specs/commit/a2936ed61f8e8424d91acef49dbf27fe8c0cd09c) - 2026-08-12
 * [Commit] [fix(spec-specs): carry excess blob gas across fork transitions (#3352)](https://github.com/ethereum/execution-specs/commit/2867859a3c19b925f7dc47dae648cca9758f4f80) - 2026-08-12
 * [Commit] [refactor(spec-specs): split _prepare_data out of _prepare_trie (#3353)](https://github.com/ethereum/execution-specs/commit/124f2181d7bd97a25e69a77dce020abf8cefa867) - 2026-08-12
+* [Pull Request] [fix(consume): map reth BAL account-miss and item-cost rejection messages](https://github.com/ethereum/execution-specs/pull/3371) - 2026-08-13
+* [Pull Request] [fix(consume): emit genesis slotNumber as hex string like all other fields](https://github.com/ethereum/execution-specs/pull/3369) - 2026-08-13
+* [Issue] [Test Release Tracker: `frames-devnet@v0.0.0`](https://github.com/ethereum/execution-specs/issues/3368) - 2026-08-13
+* [Commit] [fix(consume): emit genesis slotNumber as hex string like all other fields (#3369)](https://github.com/ethereum/execution-specs/commit/d2e6bd12f33f8fc8246356d26e4c41c1917ec940) - 2026-08-13
+* [Commit] [fix(tests): accept gas-used divergence in BAL omitted-slot-change test (#3357)](https://github.com/ethereum/execution-specs/commit/af1d40a9aa551daccb72b6ac6f275e81cbed8a0b) - 2026-08-13
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -238,10 +243,23 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: simulators/devp2p: add snap2 suite for EIP-8189 conformance tests](https://github.com/ethereum/hive/pull/1440#pullrequestreview-4907575273) - 2026-08-11
 * [Pull Request] [clients/eels: add EELS Engine API client (amsterdam only)](https://github.com/ethereum/hive/pull/1596) - 2026-08-12
 * [Review] [Review on: clients/nethermind: only mark post-merge genesis when TTD is set](https://github.com/ethereum/hive/pull/1595#pullrequestreview-4916904051) - 2026-08-12
+* [Pull Request] [clients/nimbus-el: pass genesis slotNumber through mapper (EIP-7843)](https://github.com/ethereum/hive/pull/1597) - 2026-08-13
+* [Commit] [clients/nimbus-el: pass genesis slotNumber through mapper (EIP-7843) (#1597)](https://github.com/ethereum/hive/commit/a9c021a7c90357aeabcf9e715a88c10e73bf51ae) - 2026-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4806932985) - 2026-07-29
 * [Pull Request] [Update EIP-7773: SFI remaining Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12024) - 2026-07-29
 * [Pull Request] [Update EIP-2780: charge delegation-target access on self-transfers](https://github.com/ethereum/EIPs/pull/12080) - 2026-08-04
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Fix genesis slotNumber parsing and require the header field from Amsterdam](https://github.com/besu-eth/besu/pull/11038) - 2026-08-13
+
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [fix(engine): reject undecodable block access list bytes as invalid params](https://github.com/paradigmxyz/reth/pull/26694) - 2026-08-13
+* [Pull Request] [fix(engine): consensus-correct verdicts for payloads that diverge from their BAL](https://github.com/paradigmxyz/reth/pull/26693) - 2026-08-13
+* [Pull Request] [chore(deps): pin alloy-evm with EIP-8282 empty-contract check](https://github.com/paradigmxyz/reth/pull/26695) - 2026-08-13
+* [Pull Request] [fix(stages): validate block access list hash on import path (EIP-7928)](https://github.com/paradigmxyz/reth/pull/26692) - 2026-08-13
+* [Pull Request] [fix(chainspec): honor genesis slotNumber instead of hardcoding 0 (EIP-7843)](https://github.com/paradigmxyz/reth/pull/26680) - 2026-08-13
+* [Commit] [fix(chainspec): honor genesis slotNumber instead of hardcoding 0 (EIP-7843) (#26680)](https://github.com/paradigmxyz/reth/commit/3641f10830f44f71c2469fdf7e818ccd4a4b0e76) - 2026-08-13
 ## Q2 2026
 
 

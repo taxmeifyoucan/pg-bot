@@ -47,6 +47,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: deps: bump @chainsafe/libp2p-quic to 2.1.3](https://github.com/ChainSafe/lodestar/pull/9792#pullrequestreview-4891106775) - 2026-08-09
 * [Review] [Review on: fix: bound network worker termination so shutdown can complete](https://github.com/ChainSafe/lodestar/pull/9790#pullrequestreview-4891067015) - 2026-08-09
 * [Review] [Review on: feat: support EIP-8261 gas limit schedule](https://github.com/ChainSafe/lodestar/pull/9808#pullrequestreview-4919603923) - 2026-08-12
+* [Review] [Review on: feat: support EIP-8261 gas limit schedule](https://github.com/ChainSafe/lodestar/pull/9808#pullrequestreview-4923494254) - 2026-08-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -137,6 +138,13 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: build(bls): consume upstream blst module](https://github.com/ChainSafe/lodestar-z/pull/554#pullrequestreview-4902575763) - 2026-08-11
 * [Review] [Review on: feat(pubkeys): add getPubkeyBytes binding](https://github.com/ChainSafe/lodestar-z/pull/555#pullrequestreview-4914135205) - 2026-08-12
 * [Review] [Review on: feat: add readonly range reads for SSZ composite vectors](https://github.com/ChainSafe/lodestar-z/pull/476#pullrequestreview-4914305840) - 2026-08-12
+
+* [Pull Request] [chore(docs): readme housekeeping](https://github.com/ChainSafe/lodestar-z/pull/560) - 2026-08-13
+* [Review] [Review on: refactor: move shuffle into swap_or_not_shuffle module](https://github.com/ChainSafe/lodestar-z/pull/558#pullrequestreview-4924249009) - 2026-08-13
+* [Pull Request] [[do not merge] feat(bindings): asyncAggregateWithRandomness by indices](https://github.com/ChainSafe/lodestar-z/pull/561) - 2026-08-13
+* [Commit] [feat(pubkeys): add getPubkeyBytes binding (#555)](https://github.com/ChainSafe/lodestar-z/commit/4ca51cf972ab0e1665e014afc7950a2edc85303c) - 2026-08-13
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026
 
 

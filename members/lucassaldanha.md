@@ -17,6 +17,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Gossipsub Backpressure: Size-Aware RPC Part Batching](https://github.com/libp2p/jvm-libp2p/pull/507#pullrequestreview-4823921537) - 2026-07-30
 * [Review] [Review on: Gossip backpressure: Prioritize Gossip RPC parts and route IDONTWANT through backpressure queue](https://github.com/libp2p/jvm-libp2p/pull/512#pullrequestreview-4859676872) - 2026-08-04
 * [Pull Request] [Fix/510 outbound publish admission](https://github.com/libp2p/jvm-libp2p/pull/511) - 2026-08-04
+* [Pull Request] [Bound the per-peer pending outbound RPC parts queue by default](https://github.com/libp2p/jvm-libp2p/pull/518) - 2026-08-13
+* [Issue] [dropLowPriority() doesn't reclaim state control parts, and queued subscriptions grow unbounded](https://github.com/libp2p/jvm-libp2p/issues/519) - 2026-08-13
+* [Commit] [Bound the per-peer pending outbound RPC parts queue by default (#518)](https://github.com/libp2p/jvm-libp2p/commit/e3c338c04aa8ab04946447175d84c04ce7f2cfef) - 2026-08-13
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28
@@ -46,6 +49,16 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Use state epoch to select the right validator for AttesterSlashing/ProposerSlashing](https://github.com/Consensys/teku/pull/11086#pullrequestreview-4912523048) - 2026-08-12
 * [Review] [Review on: Remove deprecated methods from MiscHelpersFulu](https://github.com/Consensys/teku/pull/11059#pullrequestreview-4912544274) - 2026-08-12
 * [Review] [Review on: Add light client memory store](https://github.com/Consensys/teku/pull/11075#pullrequestreview-4912355955) - 2026-08-12
+* [Review] [Review on: [chore] remove stale fixme](https://github.com/Consensys/teku/pull/11097#pullrequestreview-4932049880) - 2026-08-13
+* [Review] [Review on: Legitimise --validators-external-signer-concurrent-limit](https://github.com/Consensys/teku/pull/11063#pullrequestreview-4932667422) - 2026-08-14
+* [Pull Request] [Only write Gradle cache entries from master](https://github.com/Consensys/teku/pull/11098) - 2026-08-13
+* [Review] [Review on: use the head branch commit for artifacts](https://github.com/Consensys/teku/pull/11093#pullrequestreview-4932202722) - 2026-08-13
+* [Pull Request] [Remove BouncyCastle dependency update restriction](https://github.com/Consensys/teku/pull/11092) - 2026-08-13
+* [Review] [Review on: Remove BouncyCastle dependency update restriction](https://github.com/Consensys/teku/pull/11092#pullrequestreview-4931990170) - 2026-08-13
+* [Review] [Review on: Remove blinded execution payload envelope](https://github.com/Consensys/teku/pull/11091#pullrequestreview-4932082606) - 2026-08-13
+* [Review] [Review on: Fix state-root lookup returning 404 in prune/minimal storage mode](https://github.com/Consensys/teku/pull/11087#pullrequestreview-4922821730) - 2026-08-13
+* [Commit] [Only write Gradle cache entries from master (#11098)](https://github.com/Consensys/teku/commit/39e643450afae497fcc9be206922899a295a54a3) - 2026-08-13
+* [Commit] [Remove BouncyCastle dependency update restriction (#11092)](https://github.com/Consensys/teku/commit/46afbab7512de9842fd02aa7a02c16353114f13c) - 2026-08-13
 ## Q2 2026
 
 

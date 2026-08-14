@@ -141,6 +141,8 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [core/txpool/blobpool, eth: don't read a blob pool that is still initialising](https://github.com/ethereum/go-ethereum/pull/35509) - 2026-08-11
 * [Pull Request] [eth/catalyst: make `headBlock` reorging to `finalized` possible](https://github.com/ethereum/go-ethereum/pull/35519) - 2026-08-12
 * [Commit] [eth/catalyst: make `headBlock` reorging to `finalized` possible (#35519)](https://github.com/ethereum/go-ethereum/commit/8f1a3fee9fc50d932ac08fb21a2afe070d068b04) - 2026-08-12
+* [Review] [Review on: eth: don't read a blob pool that is still initialising](https://github.com/ethereum/go-ethereum/pull/35509#pullrequestreview-4924540917) - 2026-08-13
+* [Commit] [eth: don't read a blob pool that is still initialising (#35509)](https://github.com/ethereum/go-ethereum/commit/393555b0977c97d502fcf8c25685e5f6042142d7) - 2026-08-13
 ## Q2 2026
 
 

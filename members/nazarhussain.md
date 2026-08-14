@@ -37,6 +37,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bindings): clean up failed async BLS work](https://github.com/ChainSafe/lodestar-z/pull/527#pullrequestreview-4795652071) - 2026-07-28
 * [Review] [Review on: fix(bindings): harden random aggregate scalars](https://github.com/ChainSafe/lodestar-z/pull/528#pullrequestreview-4795111220) - 2026-07-28
 * [Review] [Review on: feat(pubkeys): add getPubkeyBytes binding](https://github.com/ChainSafe/lodestar-z/pull/555#pullrequestreview-4914564347) - 2026-08-12
+* [Pull Request] [feat: reference-parity swap_or_not_shuffle API and JS binding](https://github.com/ChainSafe/lodestar-z/pull/559) - 2026-08-13
+* [Pull Request] [refactor: move shuffle into swap_or_not_shuffle module](https://github.com/ChainSafe/lodestar-z/pull/558) - 2026-08-13
+* [Commit] [refactor: move shuffle into swap_or_not_shuffle module (#558)](https://github.com/ChainSafe/lodestar-z/commit/e56efb2ddf0577aefdd2102f06f81416972329ae) - 2026-08-13
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07

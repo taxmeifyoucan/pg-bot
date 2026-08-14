@@ -23,6 +23,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 * [Pull Request] [Narrow payload bid cache generics to EthSpec](https://github.com/sigp/lighthouse/pull/9645) - 2026-07-15
 * [Pull Request] [Gloas: external builder API (payload bid selection and block production)](https://github.com/sigp/lighthouse/pull/9757) - 2026-08-06
 * [Review] [Review on: Gloas: external builder API (payload bid selection and block production)](https://github.com/sigp/lighthouse/pull/9757#pullrequestreview-4918552241) - 2026-08-12
+* [Pull Request] [Migrate the validator client to the Gloas builder API (Gloas builder API 5/5)](https://github.com/sigp/lighthouse/pull/9807) - 2026-08-13
+* [Pull Request] [Convert produceBlockV4 to POST and round-trip Eth-Builder-Url (Gloas builder API 4/5)](https://github.com/sigp/lighthouse/pull/9806) - 2026-08-13
+* [Pull Request] [Add Gloas bid selection, block production, and bid gossip processing (Gloas builder API 3/5)](https://github.com/sigp/lighthouse/pull/9805) - 2026-08-13
+* [Pull Request] [Add Gloas Builder API client and adapt execution layer (Gloas builder API 2/5)](https://github.com/sigp/lighthouse/pull/9804) - 2026-08-13
+* [Pull Request] [Add builder API types, request-auth domain, and eth2 client methods (Gloas builder API 1/5)](https://github.com/sigp/lighthouse/pull/9803) - 2026-08-13
+* [Review] [Review on: Gloas: external builder API (payload bid selection and block production)](https://github.com/sigp/lighthouse/pull/9757#pullrequestreview-4930740361) - 2026-08-13
 ## Q2 2026
 
 

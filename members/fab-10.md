@@ -102,6 +102,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Remove deprecated --min-block-occupancy-ratio CLI option](https://github.com/besu-eth/besu/pull/11017#pullrequestreview-4904128711) - 2026-08-11
 * [Commit] [Remove custom engine_preparePayload_debug, replaced by testing_buildBlockV1 (#11011)](https://github.com/besu-eth/besu/commit/745aadc11b5a3d86b06e4b5c91f43c21c961694a) - 2026-08-11
 * [Commit] [Do not start backward sync until initial sync is done (#10944)](https://github.com/besu-eth/besu/commit/03d1d45523b1c3c784c64369b08f095105ec2a9b) - 2026-08-11
+* [Review] [Review on: increase account trie executor threads for glansterdam devnet 7 ](https://github.com/besu-eth/besu/pull/11036#pullrequestreview-4926571382) - 2026-08-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

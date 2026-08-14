@@ -55,6 +55,8 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Update earliest_available_slot progressively as backfill imports durable block and data-column history](https://github.com/OffchainLabs/prysm/pull/17327) - 2026-08-10
 * [Pull Request] [Add WithRPCClientDialer option to inject the execution node RPC client](https://github.com/OffchainLabs/prysm/pull/17334) - 2026-08-11
 * [Review] [Review on: Recover initial sync when head is on a bad fork](https://github.com/OffchainLabs/prysm/pull/17324#pullrequestreview-4918429729) - 2026-08-12
+* [Review] [Review on: Recover initial sync when head is on a bad fork](https://github.com/OffchainLabs/prysm/pull/17324#pullrequestreview-4927018240) - 2026-08-13
+* [Review] [Review on: Add the `--disable-graffiti-client-append` flag.](https://github.com/OffchainLabs/prysm/pull/17341#pullrequestreview-4926976796) - 2026-08-13
 ## Q2 2026
 
 

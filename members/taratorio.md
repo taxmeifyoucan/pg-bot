@@ -244,6 +244,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: block read aheader to return blocks with bals (#23096)](https://github.com/erigontech/erigon/commit/59729cae26e5c09d0cff089443489be7e569638c) - 2026-08-07
 * [Commit] [execution: pass around block and remove unnecessary block lookups in parallel exec  (#23069)](https://github.com/erigontech/erigon/commit/6f71f2be533314f8029ff5efdc9b06428ab46207) - 2026-08-07
 * [Commit] [ci: cache Kurtosis helper images (#23083)](https://github.com/erigontech/erigon/commit/fc191a7a93ee0fe9421a6de82ecf65468a0a8aca) - 2026-08-07
+* [Pull Request] [execution/cache: avoid lock contention during cache growth](https://github.com/erigontech/erigon/pull/23248) - 2026-08-13
+* [Commit] [execution: fix and optimise BAL warmup (#23081)](https://github.com/erigontech/erigon/commit/2fd0f23cdc90655dd31e12807395c242fb2dda6a) - 2026-08-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

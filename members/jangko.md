@@ -79,6 +79,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Upgrade delete-artifact actions to v6 (#4627)](https://github.com/status-im/nimbus-eth1/commit/7d25cbb68c5d7a95fd2edb5cd36f9dd45f7a0b34) - 2026-08-11
 * [Review] [Review on: make release nightly use the existing release pathway for better testing](https://github.com/status-im/nimbus-eth1/pull/4632#pullrequestreview-4922300477) - 2026-08-13
 * [Pull Request] [Do not call computeStateRoot when genesis have no accounts](https://github.com/status-im/nimbus-eth1/pull/4634) - 2026-08-12
+* [Pull Request] [Remove kvt TxFrame](https://github.com/status-im/nimbus-eth1/pull/4637) - 2026-08-13
+* [Pull Request] [focil devnet 0](https://github.com/status-im/nimbus-eth1/pull/4636) - 2026-08-13
+* [Review] [Review on: Inline evm memory and stack helper functions](https://github.com/status-im/nimbus-eth1/pull/4626#pullrequestreview-4922730261) - 2026-08-13
+* [Pull Request] [fcu handle empty finalizedBlockHash when headBlockHash is not latest](https://github.com/status-im/nimbus-eth1/pull/4635) - 2026-08-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

@@ -137,6 +137,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Add `GET`/`POST`/`DELETE /eth/v1/validator/{pubkey}/builders` keymanager endpoints](https://github.com/OffchainLabs/prysm/pull/17261#pullrequestreview-4907632951) - 2026-08-11
 * [Review] [Review on: add version checks to beacon state progressive HTR](https://github.com/OffchainLabs/prysm/pull/17336#pullrequestreview-4907283633) - 2026-08-11
 * [Review] [Review on: Collapse `iface.Validator`](https://github.com/OffchainLabs/prysm/pull/17337#pullrequestreview-4921079365) - 2026-08-12
+* [Review] [Review on: Support SSZ request body for `POST /eth/v2/validator/aggregate_and_proofs`](https://github.com/OffchainLabs/prysm/pull/17318#pullrequestreview-4931474034) - 2026-08-13
+* [Review] [Review on: REST VC: Native support for JSON fallback when `POST` SSZ fails from REST handler](https://github.com/OffchainLabs/prysm/pull/17256#pullrequestreview-4931274061) - 2026-08-13
+* [Review] [Review on: Dedup (un)marshal methods in `validator/client/iface/validator_client.go`](https://github.com/OffchainLabs/prysm/pull/17340#pullrequestreview-4928955980) - 2026-08-13
 ## Q2 2026
 
 

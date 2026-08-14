@@ -168,6 +168,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [build: Upgrade libsecp256k1 to v0.8.0 (#1650)](https://github.com/ipsilon/evmone/commit/fe9342766cc0c408d0c75027ad1737a0c1651638) - 2026-08-12
 * [Commit] [crypto: Express the G2 check's Frobenius powers directly (#1637)](https://github.com/ipsilon/evmone/commit/67422656b03e50248b854a3e92e436c3f2af01fd) - 2026-08-12
 * [Commit] [crypto: Share Fq12 squaring across pairs in BN254 Miller loop (#1544)](https://github.com/ipsilon/evmone/commit/6e4fc94d89ce74e05609c9cd36661b95f2426aa9) - 2026-08-12
+* [Pull Request] [test: Use the range-based loop in all benchmarks](https://github.com/ipsilon/evmone/pull/1655) - 2026-08-13
+* [Pull Request] [crypto: Keep the trimmed exponent bytes in a span](https://github.com/ipsilon/evmone/pull/1654) - 2026-08-13
+* [Pull Request] [crypto: Move evmmax into evmone::crypto](https://github.com/ipsilon/evmone/pull/1652) - 2026-08-13
+* [Commit] [crypto: Keep the trimmed exponent bytes in a span (#1654)](https://github.com/ipsilon/evmone/commit/25551f0dd4e7bd6ddd90c96a337a4b55bb3c18ad) - 2026-08-13
+* [Commit] [crypto: Move evmmax into evmone::crypto (#1652)](https://github.com/ipsilon/evmone/commit/2e86dd080b1bf667605613bcaf83b1fdc7d0024c) - 2026-08-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

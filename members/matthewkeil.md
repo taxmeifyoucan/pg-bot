@@ -42,6 +42,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: update fast confirmation spec tests to v1.7.0-alpha.13](https://github.com/ChainSafe/lodestar/pull/9778#pullrequestreview-4901113118) - 2026-08-10
 * [Commit] [chore: merge v1.46.0 back to unstable (#9811)](https://github.com/ChainSafe/lodestar/commit/d2f4b96574977316ce78b74701e81be1885c4521) - 2026-08-12
 * [Commit] [chore: release v1.46.0 (#9788)](https://github.com/ChainSafe/lodestar/commit/3873dd5b032d0ad82581fc3416e9628b4f6f2642) - 2026-08-12
+* [Review] [Review on: feat: support EIP-8261 gas limit schedule](https://github.com/ChainSafe/lodestar/pull/9808#pullrequestreview-4929556447) - 2026-08-13
+* [Review] [Review on: refactor: use builder boost factor for gloas block production](https://github.com/ChainSafe/lodestar/pull/9807#pullrequestreview-4925783151) - 2026-08-13
+* [Review] [Review on: chore: copy patches into development image](https://github.com/ChainSafe/lodestar/pull/9816#pullrequestreview-4927024290) - 2026-08-13
+* [Commit] [Merge branch 'unstable' of github.com:ChainSafe/lodestar into mkeil/fix-project-board-sweep-scope](https://github.com/ChainSafe/lodestar/commit/7a8fd842fcc5420e561107bb52192afe0e73f5ab) - 2026-08-13
+* [Commit] [fix: scope project board sweeps to managed lanes](https://github.com/ChainSafe/lodestar/commit/096d92de17cdf624371e18112cd9fefca2f70e1c) - 2026-08-13
+* [Commit] [feat: automate project board PR status transitions (#9732)](https://github.com/ChainSafe/lodestar/commit/742db200d10a83349d5e2a89b5132375b2300871) - 2026-08-13
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

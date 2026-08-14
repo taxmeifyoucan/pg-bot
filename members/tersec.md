@@ -82,6 +82,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Syncing v3p6 (sync dag).](https://github.com/status-im/nimbus-eth2/pull/8869#pullrequestreview-4902275876) - 2026-08-11
 * [Review] [Review on: add gossip domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8858#pullrequestreview-4902648660) - 2026-08-11
 * [Review] [Review on: extend circuit breaker to gloas](https://github.com/status-im/nimbus-eth2/pull/8873#pullrequestreview-4915058820) - 2026-08-12
+* [Review] [Review on: Gloas builder types and auth](https://github.com/status-im/nimbus-eth2/pull/8834#pullrequestreview-4932518171) - 2026-08-13
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

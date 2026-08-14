@@ -423,6 +423,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [execution/cache: avoid duplicate work when publishing StateCache batches](https://github.com/erigontech/erigon/issues/23226) - 2026-08-12
 * [Issue] [execution: classify rules-engine failures at source](https://github.com/erigontech/erigon/issues/23225) - 2026-08-12
 * [Commit] [rpc: keep modified-account tags on committed view (#23193)](https://github.com/erigontech/erigon/commit/4c6f1d39c0621bae3af7f75bc03f129f7ceb6345) - 2026-08-12
+* [Review] [Review on: node, rpc: replace the hand-rolled gzip middleware with klauspost gzhttp](https://github.com/erigontech/erigon/pull/23246#pullrequestreview-4928588660) - 2026-08-13
+* [Review] [Review on: execution/stagedsync: skip the fee credit when the recorded set already carries it](https://github.com/erigontech/erigon/pull/23132#pullrequestreview-4925713031) - 2026-08-13
+* [Pull Request] [[r3.6] execution/cache: prevent dead-fork StateCache fills across unwind](https://github.com/erigontech/erigon/pull/23260) - 2026-08-13
+* [Review] [Review on: rpc: resolve eth_feeHistory on the block overlay view](https://github.com/erigontech/erigon/pull/22987#pullrequestreview-4928143959) - 2026-08-13
+* [Review] [Review on: execution/cache: prevent dead-fork StateCache fills across unwind](https://github.com/erigontech/erigon/pull/23005#pullrequestreview-4925786274) - 2026-08-13
+* [Review] [Review on: execution: separate parallel-exec verdicts, failures, and exhaustion](https://github.com/erigontech/erigon/pull/23212#pullrequestreview-4925519683) - 2026-08-13
+* [Review] [Review on: [r3.6] calcState: skip the commitment calculator's dead baseline read](https://github.com/erigontech/erigon/pull/23229#pullrequestreview-4925604566) - 2026-08-13
+* [Review] [Review on: execution/state: make the past-transaction log check unconditional](https://github.com/erigontech/erigon/pull/23087#pullrequestreview-4926608182) - 2026-08-13
+* [Issue] [execution: block-finalize syscall closure re-appends earlier syscalls' logs (duplicated block-end logs on Gnosis and Polygon)](https://github.com/erigontech/erigon/issues/23255) - 2026-08-13
+* [Issue] [db/kv/membatchwithdb: synchronize MemoryMutation.UnderlyingTx](https://github.com/erigontech/erigon/issues/23254) - 2026-08-13
+* [Issue] [execution, db: simplify unwind read-ahead and overlay transaction plumbing](https://github.com/erigontech/erigon/issues/23257) - 2026-08-13
+* [Issue] [execution/commitment: reject BranchCache fills from staged-unwind reads](https://github.com/erigontech/erigon/issues/23253) - 2026-08-13
+* [Issue] [execution: FCU can publish uncommitted state changes to RPC caches](https://github.com/erigontech/erigon/issues/23240) - 2026-08-13
+* [Commit] [execution/cache: prevent dead-fork StateCache fills across unwind (#23005)](https://github.com/erigontech/erigon/commit/f7a391601a5b009c87a19d39a1475d32b63f1de1) - 2026-08-13
+* [Commit] [execution/execmodule: propagate canonicality lookup errors (#23227)](https://github.com/erigontech/erigon/commit/578698e2c4b95845e3745a2a1df9e4f6b9173a95) - 2026-08-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

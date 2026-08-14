@@ -81,6 +81,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/beacon: report pending blob backfill availability](https://github.com/erigontech/erigon/pull/23213) - 2026-08-12
 * [Review] [Review on: cl: stabilize Gloas sync with external execution clients](https://github.com/erigontech/erigon/pull/22683#pullrequestreview-4912927708) - 2026-08-12
 * [Review] [Review on: execution, cl, common/math: fix unchecked integer overflows on untrusted input](https://github.com/erigontech/erigon/pull/23192#pullrequestreview-4913263955) - 2026-08-12
+* [Review] [Review on: cl/antiquary: back off retirement steps that keep failing](https://github.com/erigontech/erigon/pull/23252#pullrequestreview-4929867577) - 2026-08-13
+* [Pull Request] [cl/p2p: accept Chiado libp2p bootstrap nodes](https://github.com/erigontech/erigon/pull/23243) - 2026-08-13
+* [Pull Request] [cl: preserve expanded Gloas lifecycle hardening](https://github.com/erigontech/erigon/pull/23249) - 2026-08-13
+* [Pull Request] [[r3.6] cl/p2p: accept Chiado libp2p bootstrap nodes](https://github.com/erigontech/erigon/pull/23245) - 2026-08-13
+* [Commit] [cl/p2p: accept Chiado libp2p bootstrap nodes (#23243)](https://github.com/erigontech/erigon/commit/64af074a1802e6cd94eba149dcc23a30caf7e4bc) - 2026-08-13
 ## Q2 2026
 
 

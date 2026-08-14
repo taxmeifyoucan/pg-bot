@@ -109,6 +109,11 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(rpc): cut eth_call overhead in memory, code stream, and tx parse](https://github.com/NethermindEth/nethermind/pull/12716) - 2026-08-06
 * [Review] [Review on: Selectable dotTrace profiling mode + dotnet-trace EventPipe sidecar for benchmark workflows](https://github.com/NethermindEth/nethermind/pull/12708#pullrequestreview-4875805249) - 2026-08-06
 * [Commit] [Selectable dotTrace profiling mode + dotnet-trace EventPipe sidecar for benchmark workflows (#12708)](https://github.com/NethermindEth/nethermind/commit/8274eb96c8df3b016f8626978da51c79124f65dd) - 2026-08-06
+* [Pull Request] [perf: experiment with SVE2 Keccak on ARM64](https://github.com/NethermindEth/nethermind/pull/12801) - 2026-08-13
+* [Review] [Review on: perf: experiment with SVE2 Keccak on ARM64](https://github.com/NethermindEth/nethermind/pull/12801#pullrequestreview-4928620333) - 2026-08-13
+* [Pull Request] [perf: accelerate EVM word byte swap on ARM64](https://github.com/NethermindEth/nethermind/pull/12798) - 2026-08-13
+* [Review] [Review on: perf: accelerate EVM word byte swap on ARM64](https://github.com/NethermindEth/nethermind/pull/12798#pullrequestreview-4928189570) - 2026-08-13
+* [Commit] [perf(rpc): cut eth_call overhead in memory, code stream, and tx parse (#12716)](https://github.com/NethermindEth/nethermind/commit/4b0d9a29533740916f631998b0ea0729f76f9251) - 2026-08-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

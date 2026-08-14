@@ -147,6 +147,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cmd/rpctest: split wide eth_getLogs filters in invariantsEthGetLogs](https://github.com/erigontech/erigon/pull/23211#pullrequestreview-4917229559) - 2026-08-12
 * [Pull Request] [node/eth: reuse the temporal db's aggregator (if available) in SetUpBlockReader](https://github.com/erigontech/erigon/pull/23209) - 2026-08-12
 * [Commit] [node/eth: reuse the temporal db's aggregator (if available) in SetUpBlockReader (#23209)](https://github.com/erigontech/erigon/commit/245d9ce148abe915d4332472d3eca59c8b2cc4ab) - 2026-08-12
+* [Pull Request] [execution/stagedsync: avoid quadratic held-back retry reinsertion](https://github.com/erigontech/erigon/pull/23236) - 2026-08-13
+* [Review] [Review on: [r3.6] db/seg: reclaim Compressor pattern workers in Close](https://github.com/erigontech/erigon/pull/23235#pullrequestreview-4923531425) - 2026-08-13
+* [Review] [Review on: db/seg: reclaim Compressor pattern workers in Close](https://github.com/erigontech/erigon/pull/23233#pullrequestreview-4923530949) - 2026-08-13
 ## Q2 2026
 
 

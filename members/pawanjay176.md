@@ -52,6 +52,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Enable partials by default on custom networks](https://github.com/sigp/lighthouse/pull/9773#pullrequestreview-4899768039) - 2026-08-10
 * [Review] [Review on: Fix issue with atttester slashing](https://github.com/sigp/lighthouse/pull/9793#pullrequestreview-4912298766) - 2026-08-12
 * [Review] [Review on: Add dependent root check to proposer preferences validation (alpha.13)](https://github.com/sigp/lighthouse/pull/9760#pullrequestreview-4921664160) - 2026-08-12
+* [Review] [Review on: Bump EF tests to v1.7.0-alpha.13](https://github.com/sigp/lighthouse/pull/9764#pullrequestreview-4922944209) - 2026-08-13
+* [Review] [Review on: Allow multiple bids compatible with the head view (alpha.13)](https://github.com/sigp/lighthouse/pull/9763#pullrequestreview-4922761200) - 2026-08-13
+* [Review] [Review on: Fix payload availability lookup using the parent block's slot (alpha.13)](https://github.com/sigp/lighthouse/pull/9761#pullrequestreview-4922630969) - 2026-08-13
 ## Q2 2026
 
 

@@ -112,6 +112,18 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Fix state-root lookup returning 404 in prune/minimal storage mode](https://github.com/Consensys/teku/pull/11087) - 2026-08-12
 * [Issue] [include_payload=false in produceBlockV4 documents non-existent caching/fetch flow](https://github.com/Consensys/teku/issues/11089) - 2026-08-12
 * [Commit] [Remove startup branch node cache rebuild for tree state database (#11078)](https://github.com/Consensys/teku/commit/585a93a3e57d7eba48c7088c717e53476711a9ee) - 2026-08-12
+* [Review] [Review on: Downgrade beaconNodeEventStreamConnectionError to debug](https://github.com/Consensys/teku/pull/11090#pullrequestreview-4922665514) - 2026-08-13
+* [Pull Request] [[chore] remove stale fixme](https://github.com/Consensys/teku/pull/11097) - 2026-08-13
+* [Review] [Review on: Legitimise --validators-external-signer-concurrent-limit](https://github.com/Consensys/teku/pull/11063#pullrequestreview-4922837993) - 2026-08-13
+* [Review] [Review on: Only write Gradle cache entries from master](https://github.com/Consensys/teku/pull/11098#pullrequestreview-4932401941) - 2026-08-13
+* [Pull Request] [Implement validator client support for eth/v4/validator/blocks/{slot}](https://github.com/Consensys/teku/pull/11096) - 2026-08-13
+* [Review] [Review on: Remove BouncyCastle dependency update restriction](https://github.com/Consensys/teku/pull/11092#pullrequestreview-4932164839) - 2026-08-13
+* [Review] [Review on: Introduce builder config containers](https://github.com/Consensys/teku/pull/11085#pullrequestreview-4930943822) - 2026-08-13
+* [Review] [Review on: Fix state-root lookup returning 404 in prune/minimal storage mode](https://github.com/Consensys/teku/pull/11087#pullrequestreview-4923073067) - 2026-08-13
+* [Issue] [[validator client] Gloas Validator Client — Implementation Gaps](https://github.com/Consensys/teku/issues/11099) - 2026-08-14
+* [Commit] [remove stale fixme (#11097)](https://github.com/Consensys/teku/commit/44bc05b91829c8f07e5da54efbf5655324b3416c) - 2026-08-13
+* [Commit] [Initial implementation of block production for gloas (#11069)](https://github.com/Consensys/teku/commit/a160aefd75cc1f1aadd3ee471a6ec641effdb21b) - 2026-08-13
+* [Commit] [Fix state-root lookup returning 404 in prune/minimal storage mode (#11087)](https://github.com/Consensys/teku/commit/af4cf9d49d3abfe2d9a26edfa7da190b642a9354) - 2026-08-13
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

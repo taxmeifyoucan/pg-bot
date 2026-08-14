@@ -82,6 +82,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4906318718) - 2026-08-11
+* [Commit] [Add gas limit schedule (EIP-8261) (#5533)](https://github.com/ethereum/consensus-specs/commit/2359a5e3444635ee2fc2acdea8a759e16391af90) - 2026-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899) - 2026-07-08
 * [Commit] [Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/commit/554d3325e31c3f74078402d961355218ece16bee) - 2026-07-08
@@ -91,6 +92,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Update EIP-8261: Convert to Informational gas limit schedule recommendation](https://github.com/ethereum/EIPs/pull/12140) - 2026-08-11
 * [Review] [Review on: Update EIP-8261: Convert to Informational gas limit schedule recommendation](https://github.com/ethereum/EIPs/pull/12140#pullrequestreview-4904809275) - 2026-08-11
 * [Commit] [Update EIP-8261: Convert to Informational gas limit schedule recommendation](https://github.com/ethereum/EIPs/commit/9ca2423fdd381d79778743ece889a95d0cf1ec46) - 2026-08-11
+* [Pull Request] [Update EIP-8261: Move to Review](https://github.com/ethereum/EIPs/pull/12164) - 2026-08-13
+* [Commit] [Update EIP-8261: Move to Review](https://github.com/ethereum/EIPs/commit/7e90a2efc0b00435fb898605dc0e342ad1045e83) - 2026-08-13
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Commit] [Hetzner: cpx (new gen) defaults + capacity-aware placement (#166)](https://github.com/ethpandaops/template-devnets/commit/dc0f417b554f76339098eb2754eec9b1daf5ed41) - 2026-07-27
 
@@ -100,6 +103,13 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: backport generic improvements from glamsterdam-devnets and bal-devnets](https://github.com/ethpandaops/template-devnets/pull/180#pullrequestreview-4843605081) - 2026-08-03
 * [Review] [Review on: playbook: deploy tysm canary configs from templates](https://github.com/ethpandaops/template-devnets/pull/183#pullrequestreview-4843391183) - 2026-08-03
 * [Pull Request] [backport generic improvements from glamsterdam-devnets (round 2)](https://github.com/ethpandaops/template-devnets/pull/184) - 2026-08-12
+* [Pull Request] [feat: authenticated docker pulls via bootstrap](https://github.com/ethpandaops/template-devnets/pull/187) - 2026-08-13
+* [Pull Request] [feat: egg 6.1.0 and unified genesis.json for besu/nethermind](https://github.com/ethpandaops/template-devnets/pull/186) - 2026-08-13
+* [Pull Request] [fix(tf): spread DO regions and Hetzner locations by hostname hash](https://github.com/ethpandaops/template-devnets/pull/185) - 2026-08-13
+* [Commit] [feat: authenticated docker pulls via bootstrap (#187)](https://github.com/ethpandaops/template-devnets/commit/8ed7a3b1bbfe635f5fd75a53dbf99e431f494457) - 2026-08-13
+* [Commit] [feat: egg 6.1.0 and unified genesis.json for besu/nethermind (#186)](https://github.com/ethpandaops/template-devnets/commit/088abe886fbe8072b8e3bf9d1e653b08dbabad2e) - 2026-08-13
+* [Commit] [fix(tf): spread DO regions and Hetzner locations by hostname hash (#185)](https://github.com/ethpandaops/template-devnets/commit/dd8eb1725d919e740bbb165e69a3bef935e4e51b) - 2026-08-13
+* [Commit] [backport generic improvements from glamsterdam-devnets (round 2) (#184)](https://github.com/ethpandaops/template-devnets/commit/854d6853f2c8ef53b2f8d0960ff492d6cffab40d) - 2026-08-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Add version envelope to Gloas event stream events](https://github.com/status-im/nimbus-eth2/pull/8816) - 2026-07-28
 

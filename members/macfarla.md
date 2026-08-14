@@ -128,6 +128,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [fix(p2p): fix root cause of FramingException stack trace (#10912)](https://github.com/besu-eth/besu/commit/240d9c43a9a1185940e8c990621d1a28b661837d) - 2026-08-12
 * [Commit] [Remove deprecated --min-block-occupancy-ratio CLI option (#11017)](https://github.com/besu-eth/besu/commit/5ec5456605370eabba8473c1608d77947421337b) - 2026-08-12
 * [Commit] [Remove deprecated --Xmax-tracked-seen-txs-per-peer alias (#11018)](https://github.com/besu-eth/besu/commit/33b5b41e8d4a1a7eab4ac7308b01ae6fde0de819) - 2026-08-12
+* [Pull Request] [Remove deprecated BFT genesis flag xemptyblockperiodseconds](https://github.com/besu-eth/besu/pull/11032) - 2026-08-13
+* [Pull Request] [remove unused and legacy config files](https://github.com/besu-eth/besu/pull/11033) - 2026-08-13
+* [Review] [Review on: perf(eth): avoid per-iteration allocation in reattemptPendingPeerRequests](https://github.com/besu-eth/besu/pull/10900#pullrequestreview-4922629158) - 2026-08-13
+* [Commit] [Remove deprecated BFT genesis flag xemptyblockperiodseconds (#11032)](https://github.com/besu-eth/besu/commit/a736412f26679f98da33e8195769944a4a9d8750) - 2026-08-13
+* [Commit] [[MINOR] replace inefficient method of checking for empty string (#10911)](https://github.com/besu-eth/besu/commit/272bf7e2628a553238064911e517fc33a924af33) - 2026-08-13
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

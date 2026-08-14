@@ -56,6 +56,8 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: ban SLOTNUM during validation-prefix execution](https://github.com/ethereum/EIPs/pull/12066#pullrequestreview-4910724963) - 2026-08-11
 * [Review] [Review on: Update EIP-8141: Add explicit second dimension for state gas to frames](https://github.com/ethereum/EIPs/pull/12062#pullrequestreview-4917286689) - 2026-08-12
 * [Review] [Review on: Update EIP-8141: note that a frame receipt carries no transaction-level status](https://github.com/ethereum/EIPs/pull/12061#pullrequestreview-4916922576) - 2026-08-12
+* [Review] [Review on: Update EIP-8261: Move to Review](https://github.com/ethereum/EIPs/pull/12164#pullrequestreview-4932016074) - 2026-08-13
+* [Commit] [Update EIP-8141: Add explicit second dimension for state gas to frames (#12062)](https://github.com/ethereum/EIPs/commit/328527d97aabd5993402a57141f85e7cafd0138a) - 2026-08-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06
@@ -83,6 +85,9 @@ Team: Geth
 * [Commit] [fix(rpc-compat): support large fixture messages (#1583)](https://github.com/ethereum/hive/commit/ce2a6785d5f7dbf45f24d2b9e7a2620c4716922a) - 2026-07-22
 * [Review] [Review on: simulators/ethereum/rpc-compat: tracer-aware schema selection for speconly tests](https://github.com/ethereum/hive/pull/1588#pullrequestreview-4908201648) - 2026-08-11
 * [Review] [Review on: cmd/hivechain: add calltree contract and tx mods for callTracer testing](https://github.com/ethereum/hive/pull/1587#pullrequestreview-4907654341) - 2026-08-11
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [Frame Transaction Breakout #2, August 25, 2026](https://github.com/ethereum/pm/issues/2191) - 2026-08-13
 ## Q2 2026
 
 

@@ -44,6 +44,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: engine_forkchoiceUpdatedV4: provide custody columns to the EL](https://github.com/sigp/lighthouse/pull/9547#pullrequestreview-4897780331) - 2026-08-10
 * [Review] [Review on: Fix incorrect discv5 NAT status in /lighthouse/nat](https://github.com/sigp/lighthouse/pull/9303#pullrequestreview-4897477810) - 2026-08-10
 * [Review] [Review on: Gloas partial data columns](https://github.com/sigp/lighthouse/pull/9325#pullrequestreview-4917987716) - 2026-08-12
+* [Pull Request] [Gate payload import on optional execution proofs](https://github.com/sigp/lighthouse/pull/9808) - 2026-08-13
+* [Review] [Review on: Eagerly sign sync committee messages on head events](https://github.com/sigp/lighthouse/pull/9675#pullrequestreview-4928716326) - 2026-08-13
+* [Pull Request] [Unify gossip verification error handling](https://github.com/sigp/lighthouse/pull/9801) - 2026-08-13
+* [Review] [Review on: Gloas partial data columns](https://github.com/sigp/lighthouse/pull/9325#pullrequestreview-4928254956) - 2026-08-13
+* [Review] [Review on: engine_forkchoiceUpdatedV4: provide custody columns to the EL](https://github.com/sigp/lighthouse/pull/9547#pullrequestreview-4928469404) - 2026-08-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 ## Q2 2026

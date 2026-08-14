@@ -75,6 +75,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: add heze fork definition and boilerplate (#9505)](https://github.com/ChainSafe/lodestar/commit/9be1d27b00f052061d80d6fadb5835b8d1b00c95) - 2026-08-05
 * [Review] [Review on: chore: address builder circuit breaker review follow-ups](https://github.com/ChainSafe/lodestar/pull/9780#pullrequestreview-4918732649) - 2026-08-12
 * [Pull Request] [fix: recompute head before proposer boost dependent root check](https://github.com/ChainSafe/lodestar/pull/9813) - 2026-08-12
+* [Review] [Review on: feat: add plataberget network option :polar_bear:](https://github.com/ChainSafe/lodestar/pull/9822#pullrequestreview-4930990167) - 2026-08-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09
@@ -87,6 +88,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [childless payload-status variants are never FFG-tested, so `get_head` can return a non-viable node](https://github.com/ethereum/consensus-specs/issues/5496) - 2026-07-30
 * [Commit] [Return early from `on_block` when the block is already known (#5495)](https://github.com/ethereum/consensus-specs/commit/3be5fe0e6b790b26a077a168358c3947459db634) - 2026-07-31
 * [Pull Request] [Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512) - 2026-08-04
+* [Commit] [Fold inclusion list timeliness into the stored entry (#5512)](https://github.com/ethereum/consensus-specs/commit/16e4cd01eb14088b0b7ca948ba0908756a10360d) - 2026-08-13
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [DataColumnsByRange decodes pre-fork sidecar with wrong fork at a skip-slot boundary](https://github.com/sigp/lighthouse/issues/9638) - 2026-07-15
 
@@ -97,6 +99,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Add EIP: Balance sunset for retired BLS validators](https://github.com/ethereum/EIPs/pull/12099) - 2026-08-05
 * [Review] [Review on: Add EIP: Balance sunset for retired BLS validators](https://github.com/ethereum/EIPs/pull/12099#pullrequestreview-4861964360) - 2026-08-05
 * [Pull Request] [Add EIP: BLS withdrawal credential retirement](https://github.com/ethereum/EIPs/pull/12097) - 2026-08-05
+* [Review] [Review on: Add EIP: Balance sunset for retired BLS validators](https://github.com/ethereum/EIPs/pull/12099#pullrequestreview-4924253397) - 2026-08-13
+* [Review] [Review on: Add EIP: BLS withdrawal credential retirement](https://github.com/ethereum/EIPs/pull/12097#pullrequestreview-4924277417) - 2026-08-13
 ## Q2 2026
 
 

@@ -87,6 +87,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [`make gen` generates the per-package `log.go` files.](https://github.com/OffchainLabs/prysm/pull/17342) - 2026-08-12
 * [Pull Request] [Add the `--disable-graffiti-client-append` flag.](https://github.com/OffchainLabs/prysm/pull/17341) - 2026-08-12
 * [Commit] [`getHeader`: Allow a user defined timeout value with the `--builder-header-timeout` flag (#17283)](https://github.com/OffchainLabs/prysm/commit/5025084b9993f9a102204ecb4c6dc70a5ade1e69) - 2026-08-12
+* [Pull Request] [[EIP-8148]: Implement https://github.com/ethereum/EIPs/pull/12146.](https://github.com/OffchainLabs/prysm/pull/17351) - 2026-08-13
+* [Review] [Review on: Fix flaky tests (`TestRetry_On_ConnectionError` & `Test_pruneAttsFromPool_Electra`)](https://github.com/OffchainLabs/prysm/pull/17349#pullrequestreview-4926795606) - 2026-08-13
+* [Commit] [Add the `--disable-graffiti-client-append` flag. (#17341)](https://github.com/OffchainLabs/prysm/commit/bc30e39d8c34a5dc2d08ac6688f47a34c188052c) - 2026-08-13
+* [Commit] [Remove Bazel: Phase 3/9 - Part 2 (#17134)](https://github.com/OffchainLabs/prysm/commit/68b761d84401b2b652e09a9e4915a8b884bd8841) - 2026-08-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 

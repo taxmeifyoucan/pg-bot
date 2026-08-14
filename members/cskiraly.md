@@ -16,6 +16,9 @@ Team: Codex DAS
 
 * [Review] [Review on: core/txpool: add blocked transaction size cap](https://github.com/ethereum/go-ethereum/pull/35367#pullrequestreview-4872652074) - 2026-08-06
 * [Pull Request] [eth, eth/peerstats: split peer quality aggregation out of txtracker](https://github.com/ethereum/go-ethereum/pull/35499) - 2026-08-10
+* [Pull Request] [crypto/kzg4844: add BlobsFromDataCells for zero-KZG blob reconstruction](https://github.com/ethereum/go-ethereum/pull/35528) - 2026-08-13
+* [Pull Request] [core/txpool/blobpool: extend fully-fetched blob transactions to the full cell set](https://github.com/ethereum/go-ethereum/pull/35531) - 2026-08-13
+* [Pull Request] [crypto/kzg4844: add RecoverCells with systematic fast path](https://github.com/ethereum/go-ethereum/pull/35529) - 2026-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4818065623) - 2026-07-30
 * [Pull Request] [Add EIP: RowDAS - Distributed Blob Reconstruction](https://github.com/ethereum/EIPs/pull/12118) - 2026-08-06

@@ -102,6 +102,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests): enhance & un-skip Amsterdam ported static create-OOG tests (Pt. 2b)](https://github.com/ethereum/execution-specs/pull/3320#pullrequestreview-4911492840) - 2026-08-11
 * [Review] [Review on: fix(tests): use well-formed versioned hashes in getBlobs negative tests](https://github.com/ethereum/execution-specs/pull/3359#pullrequestreview-4921758949) - 2026-08-12
 * [Review] [Review on: feat(test-specs): Allow specs to fill same fixture format more than once, add `inclusion_test` marker](https://github.com/ethereum/execution-specs/pull/3337#pullrequestreview-4918526889) - 2026-08-12
+* [Pull Request] [refactor(test-specs,tests): Refactor inclusion-list spec definitions, existing tests](https://github.com/ethereum/execution-specs/pull/3373) - 2026-08-14
+* [Review] [Review on: fix(tests,tools): make the EIP-7805 FOCIL tests fill on the current Amsterdam](https://github.com/ethereum/execution-specs/pull/3370#pullrequestreview-4931746590) - 2026-08-13
+* [Commit] [feat(test-specs): Allow specs to fill same fixture format more than once, add `inclusion_test` marker (#3337)](https://github.com/ethereum/execution-specs/commit/d56b40ba7e3272d40d0bb521537fd2f9db7ee0c3) - 2026-08-13
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

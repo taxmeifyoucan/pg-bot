@@ -72,6 +72,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: limit block operations for progressive lists](https://github.com/Consensys/teku/pull/11084#pullrequestreview-4915242289) - 2026-08-12
 * [Commit] [limit block operations for progressive lists (#11084)](https://github.com/Consensys/teku/commit/cd16bf0b2f4f6f52b9b93f5d4c192117620145d2) - 2026-08-12
 * [Commit] [add post proposer preferences (#11035)](https://github.com/Consensys/teku/commit/52a9145328dbb10b104756868a288e5ada10e6f0) - 2026-08-12
+* [Pull Request] [use the head branch commit for artifacts](https://github.com/Consensys/teku/pull/11093) - 2026-08-13
+* [Review] [Review on: use the head branch commit for artifacts](https://github.com/Consensys/teku/pull/11093#pullrequestreview-4929429091) - 2026-08-13
+* [Pull Request] [11083 merge into devnet 7](https://github.com/Consensys/teku/pull/11095) - 2026-08-13
+* [Pull Request] [11083 merge into devnet 7](https://github.com/Consensys/teku/pull/11094) - 2026-08-13
 ## Q2 2026
 
 

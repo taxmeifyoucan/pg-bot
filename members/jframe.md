@@ -42,6 +42,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: fix(p2p): fix root cause of FramingException stack trace](https://github.com/besu-eth/besu/pull/10912#pullrequestreview-4913375322) - 2026-08-12
 * [Pull Request] [Fix NPE in JSON-RPC timeout handler for batch requests](https://github.com/besu-eth/besu/pull/11023) - 2026-08-12
 * [Review] [Review on: Fix NPE in JSON-RPC timeout handler for batch requests](https://github.com/besu-eth/besu/pull/11023#pullrequestreview-4912815729) - 2026-08-12
+* [Review] [Review on: [MINOR] replace inefficient method of checking for empty string](https://github.com/besu-eth/besu/pull/10911#pullrequestreview-4923539212) - 2026-08-13
+* [Commit] [Fix NPE in JSON-RPC timeout handler for batch requests (#11023)](https://github.com/besu-eth/besu/commit/9b5222ea48c6b6e701d8c85d157d3785dc42ff65) - 2026-08-13
+* [Commit] [fix: Bonsai storage writes skipped for selfdestructed+recreated accounts with identical slot values](https://github.com/besu-eth/besu/commit/2c58e7d2f8ad2ef432f9a431d0dd5812afcba5a7) - 2026-08-13
 ## Q2 2026
 
 

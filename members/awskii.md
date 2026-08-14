@@ -261,6 +261,17 @@ Team: Erigon
 * [Commit] [execution/commitment: make the storage-branch cache route allocation-free (#23189)](https://github.com/erigontech/erigon/commit/f872bbd8eed4d32c9bcacc01d4f7c03d9e59b3eb) - 2026-08-12
 * [Commit] [execution/commitment: arena-allocate prefixNode extensions (#23188)](https://github.com/erigontech/erigon/commit/4f2bc597709f1464bb7688e636f1b905523476d4) - 2026-08-12
 * [Commit] [execution/commitment: drop dead accessors and a vestigial parameter (#23185)](https://github.com/erigontech/erigon/commit/f72b646b62e63f83a9ca38a2bd2a1080651123bc) - 2026-08-12
+* [Pull Request] [execution/stagedsync: replace the fee contribution, do not stack it](https://github.com/erigontech/erigon/pull/23244) - 2026-08-13
+* [Review] [Review on: node, rpc: replace the hand-rolled gzip middleware with klauspost gzhttp](https://github.com/erigontech/erigon/pull/23246#pullrequestreview-4927522392) - 2026-08-13
+* [Pull Request] [db/state: merge commitment shards during the rebuild](https://github.com/erigontech/erigon/pull/23259) - 2026-08-13
+* [Pull Request] [execution/commitment/trie: remove unused hack.go](https://github.com/erigontech/erigon/pull/23256) - 2026-08-13
+* [Review] [Review on: execution/commitment: bound keysCount in Fuzz_ProcessUpdates_ArbitraryUpdateCount2](https://github.com/erigontech/erigon/pull/23234#pullrequestreview-4924331259) - 2026-08-13
+* [Review] [Review on: common, rpc, execution: replace Hash.Big with Hash.U256 and migrate the getProof quantities](https://github.com/erigontech/erigon/pull/23230#pullrequestreview-4924301580) - 2026-08-13
+* [Issue] [parallel exec: a stale calcFees empty-account delete survives revalidation](https://github.com/erigontech/erigon/issues/23237) - 2026-08-13
+* [Issue] [EIP-8246: versionedReadCore wipes a preserved balance that applySubFieldWrites keeps](https://github.com/erigontech/erigon/issues/23238) - 2026-08-13
+* [Issue] [parallel exec: an invalidated destruct's Estimate BalancePath cell lets calcFees delete a live coinbase](https://github.com/erigontech/erigon/issues/23232) - 2026-08-13
+* [Commit] [db/state: merge commitment shards during the rebuild (#23259)](https://github.com/erigontech/erigon/commit/886a45013aa7a897810968ee09381d759e68bc9a) - 2026-08-14
+* [Commit] [execution/commitment/trie: remove unused hack.go (#23256)](https://github.com/erigontech/erigon/commit/2b35ffd1d270dbce3233baf03ab7f6fbff442439) - 2026-08-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

@@ -821,6 +821,38 @@ Team: Erigon
 * [Commit] [db/downloader: keep the BT discovery tests off UDP (#23204)](https://github.com/erigontech/erigon/commit/fc4be5cb2572ba9d14eb1b759c2670f5f92cc7c2) - 2026-08-12
 * [Commit] [db/seg, db/seg/patricia: fix fuzz harness defects (#23173)](https://github.com/erigontech/erigon/commit/03c40a3183ade9fa9f9a6ae3af54a8f8421d1418) - 2026-08-12
 * [Commit] [exec: arena for parallel-path stateObjects (#22949)](https://github.com/erigontech/erigon/commit/cf496e130a504c44b7895bcae9bd105154ba0ffc) - 2026-08-12
+* [Review] [Review on: docs(site): trim config comments to agents.md guidance](https://github.com/erigontech/erigon/pull/23258#pullrequestreview-4932660316) - 2026-08-14
+* [Pull Request] [node, rpc: replace the hand-rolled gzip middleware with klauspost gzhttp](https://github.com/erigontech/erigon/pull/23246) - 2026-08-13
+* [Review] [Review on: execution/stagedsync: skip the fee credit when the recorded set already carries it](https://github.com/erigontech/erigon/pull/23132#pullrequestreview-4932932734) - 2026-08-14
+* [Review] [Review on: rpc/ethapi: migrate CallArgs and BlockOverrides quantity fields to hexutil.U256](https://github.com/erigontech/erigon/pull/23220#pullrequestreview-4932919554) - 2026-08-14
+* [Review] [Review on: db/state: merge commitment shards during the rebuild](https://github.com/erigontech/erigon/pull/23259#pullrequestreview-4932659874) - 2026-08-14
+* [Review] [Review on: ci(docs): refresh the deployed docs daily so the install page tracks releases](https://github.com/erigontech/erigon/pull/23251#pullrequestreview-4932661661) - 2026-08-14
+* [Review] [Review on: [r3.6] execution/cache: prevent dead-fork StateCache fills across unwind](https://github.com/erigontech/erigon/pull/23260#pullrequestreview-4932655456) - 2026-08-14
+* [Review] [Review on: cl/antiquary: back off retirement steps that keep failing](https://github.com/erigontech/erigon/pull/23252#pullrequestreview-4927224489) - 2026-08-13
+* [Review] [Review on: execution/cache: prevent dead-fork StateCache fills across unwind](https://github.com/erigontech/erigon/pull/23005#pullrequestreview-4923913615) - 2026-08-13
+* [Review] [Review on: cl/p2p: accept Chiado libp2p bootstrap nodes](https://github.com/erigontech/erigon/pull/23243#pullrequestreview-4925169423) - 2026-08-13
+* [Review] [Review on: execution/commitment/trie: remove unused hack.go](https://github.com/erigontech/erigon/pull/23256#pullrequestreview-4927201410) - 2026-08-13
+* [Review] [Review on: docs(site): scope install-page version to this series, fail closed](https://github.com/erigontech/erigon/pull/23250#pullrequestreview-4926379239) - 2026-08-13
+* [Pull Request] [execution/vm: evmone v0.23.0, MODEXP routing and uint256 windowing](https://github.com/erigontech/erigon/pull/23231) - 2026-08-13
+* [Review] [Review on: `--prune.distance`: to print user-friendly advise in corner-cases](https://github.com/erigontech/erigon/pull/23221#pullrequestreview-4927378903) - 2026-08-13
+* [Pull Request] [execution/types: migrate txJSON and JsonAuthorization to hexutil.U256](https://github.com/erigontech/erigon/pull/23239) - 2026-08-13
+* [Review] [Review on: execution/types: migrate txJSON and JsonAuthorization to hexutil.U256](https://github.com/erigontech/erigon/pull/23239#pullrequestreview-4927321408) - 2026-08-13
+* [Review] [Review on: [r3.5] db/seg: reclaim Compressor pattern workers in Close](https://github.com/erigontech/erigon/pull/23247#pullrequestreview-4925238865) - 2026-08-13
+* [Review] [Review on: execution/stagedsync: avoid quadratic held-back retry reinsertion](https://github.com/erigontech/erigon/pull/23236#pullrequestreview-4923821189) - 2026-08-13
+* [Pull Request] [execution/commitment: bound keysCount in Fuzz_ProcessUpdates_ArbitraryUpdateCount2](https://github.com/erigontech/erigon/pull/23234) - 2026-08-13
+* [Pull Request] [common, rpc, execution: replace Hash.Big with Hash.U256 and migrate the getProof quantities](https://github.com/erigontech/erigon/pull/23230) - 2026-08-13
+* [Review] [Review on: [r3.6] cl/p2p: accept Chiado libp2p bootstrap nodes](https://github.com/erigontech/erigon/pull/23245#pullrequestreview-4925165871) - 2026-08-13
+* [Pull Request] [node: stream one-shot gzip responses above the pool cap](https://github.com/erigontech/erigon/pull/23242) - 2026-08-13
+* [Pull Request] [[r3.6] db/seg: reclaim Compressor pattern workers in Close](https://github.com/erigontech/erigon/pull/23235) - 2026-08-13
+* [Pull Request] [db/seg: reclaim Compressor pattern workers in Close](https://github.com/erigontech/erigon/pull/23233) - 2026-08-13
+* [Review] [Review on: execution/execmodule: propagate canonicality lookup errors](https://github.com/erigontech/erigon/pull/23227#pullrequestreview-4922861498) - 2026-08-13
+* [Review] [Review on: execution/state: retry only live EIP-8246 absence conflicts](https://github.com/erigontech/erigon/pull/23218#pullrequestreview-4922868513) - 2026-08-13
+* [Issue] [rpc: one-shot gzip buffers whole responses for a Content-Length that nginx, Caddy and net/http all drop](https://github.com/erigontech/erigon/issues/23241) - 2026-08-13
+* [Commit] [execution/state: make the past-transaction log check unconditional (#23087)](https://github.com/erigontech/erigon/commit/c84b07102c28986cd09c422b7bacb47c297bfc64) - 2026-08-13
+* [Commit] [common, rpc, execution: replace Hash.Big with Hash.U256 and migrate the getProof quantities (#23230)](https://github.com/erigontech/erigon/commit/c7d7765a2f6a4da950e2b7cddf644ef5889e2fde) - 2026-08-13
+* [Commit] [execution/commitment: bound keysCount in Fuzz_ProcessUpdates_ArbitraryUpdateCount2 (#23234)](https://github.com/erigontech/erigon/commit/7f86d46b6ca9691ca41ba6c1207e88b273c74c62) - 2026-08-13
+* [Commit] [execution, cl, common/math: fix unchecked integer overflows on untrusted input (#23192)](https://github.com/erigontech/erigon/commit/3a8f182db1799ca1b9c1f5702fdba51e4dd0e678) - 2026-08-13
+* [Commit] [db/seg: reclaim Compressor pattern workers in Close (#23233)](https://github.com/erigontech/erigon/commit/5edc6c19f383d705b9827ed17d55c0316c224634) - 2026-08-13
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

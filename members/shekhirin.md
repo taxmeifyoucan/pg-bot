@@ -50,6 +50,7 @@ Team: Reth
 * [Review] [Review on: feat(network): allow configuring no-op client version](https://github.com/paradigmxyz/reth/pull/26652#pullrequestreview-4908174800) - 2026-08-11
 * [Pull Request] [chore: expose blob cell availability on pooled transactions](https://github.com/paradigmxyz/reth/pull/26642) - 2026-08-11
 * [Commit] [chore: expose blob cell availability on pooled transactions (#26642)](https://github.com/paradigmxyz/reth/commit/199387a02e0eeaab183cb602b47b391dcb616f8e) - 2026-08-11
+* [Review] [Review on: refactor(txpool): return iterators from txs_by_sender accessors](https://github.com/paradigmxyz/reth/pull/26681#pullrequestreview-4927192098) - 2026-08-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

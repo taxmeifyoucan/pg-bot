@@ -31,6 +31,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: refactor(spec-specs): split _prepare_data out of _prepare_trie](https://github.com/ethereum/execution-specs/pull/3353#pullrequestreview-4908446784) - 2026-08-11
 * [Review] [Review on: fix(spec-specs): carry excess blob gas across fork transitions](https://github.com/ethereum/execution-specs/pull/3352#pullrequestreview-4908405169) - 2026-08-11
 * [Pull Request] [feat(zkevm): update geth branch for bench filling comparison](https://github.com/ethereum/execution-specs/pull/3366) - 2026-08-12
+* [Pull Request] [refactor(zkevm): align SSZ capitalization](https://github.com/ethereum/execution-specs/pull/3372) - 2026-08-13
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12

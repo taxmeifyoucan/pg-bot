@@ -23,6 +23,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Update ethspecify version](https://github.com/Consensys/teku/pull/11055#pullrequestreview-4855156554) - 2026-08-04
 * [Review] [Review on: Initial implementation of block production for gloas](https://github.com/Consensys/teku/pull/11069#pullrequestreview-4909901452) - 2026-08-11
 * [Pull Request] [Introduce builder config containers](https://github.com/Consensys/teku/pull/11085) - 2026-08-11
+* [Review] [Review on: Initial implementation of block production for gloas](https://github.com/Consensys/teku/pull/11069#pullrequestreview-4928061644) - 2026-08-13
+* [Review] [Review on: EIP-8261 Scheduled Gas Limit](https://github.com/Consensys/teku/pull/11088#pullrequestreview-4925878382) - 2026-08-13
+* [Commit] [Introduce builder config containers (#11085)](https://github.com/Consensys/teku/commit/a6802e9aa70c154f32ddd9a1806d3be22daf18c7) - 2026-08-13
 ## Q2 2026
 
 

@@ -271,6 +271,23 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: process REPEAT_PROPOSAL block](https://github.com/ChainSafe/lodestar/pull/9805#pullrequestreview-4915924654) - 2026-08-12
 * [Review] [Review on: chore: update changelog authors mapping](https://github.com/ChainSafe/lodestar/pull/9812#pullrequestreview-4914766714) - 2026-08-12
 * [Review] [Review on: chore: release v1.46.0](https://github.com/ChainSafe/lodestar/pull/9788#pullrequestreview-4914388786) - 2026-08-12
+* [Pull Request] [fix: count canonical FULL and EMPTY blocks in circuit breaker](https://github.com/ChainSafe/lodestar/pull/9815) - 2026-08-13
+* [Review] [Review on: fix: count canonical FULL and EMPTY blocks in circuit breaker](https://github.com/ChainSafe/lodestar/pull/9815#pullrequestreview-4928659828) - 2026-08-13
+* [Pull Request] [deathstar](https://github.com/ChainSafe/lodestar/pull/9823) - 2026-08-13
+* [Pull Request] [feat: add plataberget network option :polar_bear:](https://github.com/ChainSafe/lodestar/pull/9822) - 2026-08-13
+* [Review] [Review on: feat: add plataberget network option :polar_bear:](https://github.com/ChainSafe/lodestar/pull/9822#pullrequestreview-4930939494) - 2026-08-13
+* [Review] [Review on: feat: support EIP-8261 gas limit schedule](https://github.com/ChainSafe/lodestar/pull/9808#pullrequestreview-4927628516) - 2026-08-13
+* [Pull Request] [fix: reject repeat proposals in publish block API](https://github.com/ChainSafe/lodestar/pull/9818) - 2026-08-13
+* [Review] [Review on: fix: trigger getBlobs in Unknown block sync](https://github.com/ChainSafe/lodestar/pull/9806#pullrequestreview-4927575444) - 2026-08-13
+* [Pull Request] [deathstar](https://github.com/ChainSafe/lodestar/pull/9817) - 2026-08-13
+* [Review] [Review on: refactor: use builder boost factor for gloas block production](https://github.com/ChainSafe/lodestar/pull/9807#pullrequestreview-4926837019) - 2026-08-13
+* [Pull Request] [chore: copy patches into development image](https://github.com/ChainSafe/lodestar/pull/9816) - 2026-08-13
+* [Review] [Review on: fix: process REPEAT_PROPOSAL block](https://github.com/ChainSafe/lodestar/pull/9805#pullrequestreview-4924733342) - 2026-08-13
+* [Review] [Review on: fix: differentiate ALREADY_KNOWN vs REPEAT_PROPOSAL seen block proposal](https://github.com/ChainSafe/lodestar/pull/9814#pullrequestreview-4924752203) - 2026-08-13
+* [Commit] [feat: add plataberget network option :polar_bear: (#9822)](https://github.com/ChainSafe/lodestar/commit/a27526c22ada07519608a628d4a272d3b92cf616) - 2026-08-13
+* [Commit] [feat: support EIP-8261 gas limit schedule (#9808)](https://github.com/ChainSafe/lodestar/commit/b2cbfa50c2525f54644f799b9d682da86587092b) - 2026-08-13
+* [Commit] [refactor: use builder boost factor for gloas block production (#9807)](https://github.com/ChainSafe/lodestar/commit/0bcaaaebb5c7e8ba22b3bc927487e633f6b36b2e) - 2026-08-13
+* [Commit] [chore: copy patches into development image (#9816)](https://github.com/ChainSafe/lodestar/commit/268215c3daf076f2bed21e57bb3f2c87d17d9ea9) - 2026-08-13
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -308,6 +325,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Use the genesis root as a dependent root for the first two epochs](https://github.com/ethereum/consensus-specs/pull/5515#pullrequestreview-4862713966) - 2026-08-05
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4918368979) - 2026-08-12
 * [Review] [Review on: Do not apply proposer boost to equivocated blocks in Gloas](https://github.com/ethereum/consensus-specs/pull/5535#pullrequestreview-4916170860) - 2026-08-12
+* [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4924847305) - 2026-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

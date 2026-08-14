@@ -194,6 +194,15 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(frames): forward-port the 8141 frame-tx fixes onto devnet-8](https://github.com/NethermindEth/nethermind/pull/12790#pullrequestreview-4920279253) - 2026-08-12
 * [Review] [Review on: fix(xdc): resolve XDPoS committed/finalized state from the block tree, not the highest QC](https://github.com/NethermindEth/nethermind/pull/12773#pullrequestreview-4915997463) - 2026-08-12
 * [Pull Request] [Detect Geth genesis format independent of property order](https://github.com/NethermindEth/nethermind/pull/12784) - 2026-08-12
+* [Review] [Review on: feat(evm): expose the EIP-8250 keyed-nonce fields to executing code](https://github.com/NethermindEth/nethermind/pull/12662#pullrequestreview-4925588085) - 2026-08-13
+* [Pull Request] [Add plataberget testnet configuration](https://github.com/NethermindEth/nethermind/pull/12807) - 2026-08-13
+* [Review] [Review on: test(flat): make the arena allocated-bytes assertion page-size portable](https://github.com/NethermindEth/nethermind/pull/12794#pullrequestreview-4927044320) - 2026-08-13
+* [Pull Request] [Surface EIP-2780 runtime OOG from eth_call](https://github.com/NethermindEth/nethermind/pull/12806) - 2026-08-13
+* [Review] [Review on: Back off idle random-walk discovery once the routing table is full](https://github.com/NethermindEth/nethermind/pull/12771#pullrequestreview-4929207833) - 2026-08-13
+* [Review] [Review on: Detect Geth genesis format independent of property order](https://github.com/NethermindEth/nethermind/pull/12784#pullrequestreview-4929207587) - 2026-08-13
+* [Pull Request] [Align debug_traceCall base fee with Geth](https://github.com/NethermindEth/nethermind/pull/12804) - 2026-08-13
+* [Review] [Review on: fix(rpc): include beacon tip in eth_syncing highest block](https://github.com/NethermindEth/nethermind/pull/12739#pullrequestreview-4927317931) - 2026-08-13
+* [Review] [Review on: fix(sync): format SyncMode flags](https://github.com/NethermindEth/nethermind/pull/12795#pullrequestreview-4926729033) - 2026-08-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -227,6 +236,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [clients/nethermind: use geth style genesis mapper (#1593)](https://github.com/ethereum/hive/commit/654c734f99d98344b17b8601e9979d9564146fa4) - 2026-08-10
 * [Pull Request] [clients/nethermind: only mark post-merge genesis when TTD is set](https://github.com/ethereum/hive/pull/1595) - 2026-08-11
 * [Commit] [clients/nethermind: only mark post-merge genesis when TTD is set (#1595)](https://github.com/ethereum/hive/commit/3e3aeecc98c094357659cc5913c778aa063e1702) - 2026-08-12
+* [Pull Request] [simulators/devp2p: add dual-stack discovery orchestration](https://github.com/ethereum/hive/pull/1598) - 2026-08-13
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix(eth): isolate protocol traffic by connection](https://github.com/besu-eth/besu/pull/10841) - 2026-07-22
 * [Pull Request] [fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843) - 2026-07-22
@@ -239,6 +249,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(net): recover partial header responses](https://github.com/paradigmxyz/reth/pull/26482) - 2026-07-22
 * [Commit] [fix(net): recover partial header responses (#26482)](https://github.com/paradigmxyz/reth/commit/0bba0c6880c39aed47c9d689962ede7f944be7c5) - 2026-07-31
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [cmd/devp2p: add discovery endpoint tests](https://github.com/ethereum/go-ethereum/pull/35534) - 2026-08-13
 ## Q2 2026
 
 

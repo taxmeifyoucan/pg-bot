@@ -132,6 +132,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: test(rlp): pin the frame-transaction envelope against a foreign encoder's vector](https://github.com/NethermindEth/nethermind/pull/12658#pullrequestreview-4915258207) - 2026-08-12
 * [Pull Request] [fix(txpool): decode LightTxDecoder proof version as RLP scalar](https://github.com/NethermindEth/nethermind/pull/12782) - 2026-08-12
 * [Pull Request] [fix: honour engine fixture errorCode instead of accepting any RPC error](https://github.com/NethermindEth/nethermind/pull/12783) - 2026-08-12
+* [Review] [Review on: Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/12802#pullrequestreview-4927914077) - 2026-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -151,6 +152,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Update EIP-7906: define `contracts_deployed` precisely and specify absent-topic halts](https://github.com/ethereum/EIPs/commit/4cb50077ebfedd47ea0473038c080b1d985108de) - 2026-08-10
 * [Commit] [Update EIP-7906: specify EIP-7928 recording of TXDIFF state reads](https://github.com/ethereum/EIPs/commit/5d4e0e613cdedc30733db6f382c47379ebb5c31c) - 2026-08-10
 * [Commit] [Update EIP-7906: specify handling of reserved `must be 0` inputs](https://github.com/ethereum/EIPs/commit/bf6b73a8cd122c70ff2404b9483107f37396210e) - 2026-08-10
+* [Pull Request] [Update EIP-8141: dispatch a precompile targeted by a SENDER or DEFAULT frame](https://github.com/ethereum/EIPs/pull/12157) - 2026-08-13
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 * [Commit] [feat(tests): add EIP-8037 spill-refund accounting coverage (#3158)](https://github.com/ethereum/execution-specs/commit/610cd779baff95f99c85442dd2fa8cc8146260b2) - 2026-07-30

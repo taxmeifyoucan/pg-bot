@@ -75,6 +75,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Inline evm memory and stack helper functions](https://github.com/status-im/nimbus-eth1/pull/4626) - 2026-08-10
 * [Review] [Review on: unified client: close db properly](https://github.com/status-im/nimbus-eth1/pull/4630#pullrequestreview-4907061804) - 2026-08-11
 * [Pull Request] [Block access list pruning](https://github.com/status-im/nimbus-eth1/pull/4633) - 2026-08-12
+* [Commit] [Block access list pruning (#4633)](https://github.com/status-im/nimbus-eth1/commit/c158bf7dead7347fafe4e916d529f7c4281034f8) - 2026-08-13
+* [Commit] [Inline evm memory and stack helper functions (#4626)](https://github.com/status-im/nimbus-eth1/commit/ac06dbf4cb029c75aed4f9ef7468ef07f6271bde) - 2026-08-13
 ## Q2 2026
 
 

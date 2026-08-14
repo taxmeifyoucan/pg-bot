@@ -87,6 +87,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Remove fork choice update from engine_newPayloadV*](https://github.com/besu-eth/besu/pull/10980) - 2026-08-05
 * [Pull Request] [Remove bonsai database inconsistency healing](https://github.com/besu-eth/besu/pull/11019) - 2026-08-11
 * [Review] [Review on: snap/2 - BAL applier bug fixes](https://github.com/besu-eth/besu/pull/11004#pullrequestreview-4904909793) - 2026-08-11
+* [Pull Request] [increase account trie executor threads for glansterdam devnet 7 ](https://github.com/besu-eth/besu/pull/11036) - 2026-08-13
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

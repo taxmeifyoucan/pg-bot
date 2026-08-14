@@ -140,6 +140,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: simulators/eels: optionally consume pre-staged local fixtures](https://github.com/ethereum/hive/pull/1566#pullrequestreview-4704683217) - 2026-07-15
 * [Commit] [hiveview: exclude multi-test client contexts from listing counts (#1576)](https://github.com/ethereum/hive/commit/b512a9aafbe5b0e8e439e16d771ad30dfdba6f34) - 2026-07-16
 * [Review] [Review on: hiveproxy: use GOPROXY "|" separator to fall back to direct on any proxy error](https://github.com/ethereum/hive/pull/1591#pullrequestreview-4874335262) - 2026-08-06
+* [Review] [Review on: clients/nimbus-el: pass genesis slotNumber through mapper (EIP-7843)](https://github.com/ethereum/hive/pull/1597#pullrequestreview-4927945648) - 2026-08-13
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09

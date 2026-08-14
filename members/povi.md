@@ -53,6 +53,9 @@ Team: Grandine
 * [Issue] [[Glamsterdam] Rebase Glamsterdam code on latest develop](https://github.com/grandinetech/grandine/issues/836) - 2026-07-30
 * [Review] [Review on: Gloas bid selection](https://github.com/grandinetech/grandine/pull/837#pullrequestreview-4898000890) - 2026-08-10
 * [Pull Request] [Add a guard to justified active balance getter](https://github.com/grandinetech/grandine/pull/842) - 2026-08-10
+* [Review] [Review on: Set attestation data index based on the payload status in the node fork-choice](https://github.com/grandinetech/grandine/pull/845#pullrequestreview-4925191858) - 2026-08-13
+* [Review] [Review on: Add Gloas global circuit breaker](https://github.com/grandinetech/grandine/pull/843#pullrequestreview-4924836932) - 2026-08-13
+* [Review] [Review on: Use genesis block root as dependent root for the first 2 epochs](https://github.com/grandinetech/grandine/pull/846#pullrequestreview-4924936706) - 2026-08-13
 ## Q2 2026
 
 

@@ -177,6 +177,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Prefer named SSZ collection constructors (#5528)](https://github.com/ethereum/consensus-specs/commit/802485ec74a6986542bd53bf153189623aab440c) - 2026-08-12
 * [Commit] [Integrate optimistic sync specs into core specs (#5529)](https://github.com/ethereum/consensus-specs/commit/9bbf22fa2a548a0bdae86c3ff629be3a09b3ad9f) - 2026-08-12
 * [Commit] [Remove unnecessary "Modifications in X" sections (#5532)](https://github.com/ethereum/consensus-specs/commit/3bef9d92761a2586352a2123b2d18137cf61297d) - 2026-08-12
+* [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4927528743) - 2026-08-13
+* [Pull Request] [Add a few more deposit pubkey validation tests](https://github.com/ethereum/consensus-specs/pull/5541) - 2026-08-13
+* [Commit] [Add a few more deposit pubkey validation tests (#5541)](https://github.com/ethereum/consensus-specs/commit/6b5f9505b342e1cd8c275c6affcad391160ef5f1) - 2026-08-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

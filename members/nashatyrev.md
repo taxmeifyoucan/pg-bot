@@ -29,6 +29,7 @@ Team: [consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%
 * [Commit] [Gossip backpressure: Prioritize Gossip RPC parts and route IDONTWANT through backpressure queue (#512)](https://github.com/libp2p/jvm-libp2p/commit/761d06d4357e8ab714b72c3a7cce0ab748509198) - 2026-08-05
 * [Pull Request] [Refactor Gossip router peer state lifecycle](https://github.com/libp2p/jvm-libp2p/pull/515) - 2026-08-06
 * [Review] [Review on: Introduce a quic connection exception handler](https://github.com/libp2p/jvm-libp2p/pull/517#pullrequestreview-4882583383) - 2026-08-07
+* [Review] [Review on: Bound the per-peer pending outbound RPC parts queue by default](https://github.com/libp2p/jvm-libp2p/pull/518#pullrequestreview-4929822001) - 2026-08-13
 ## Q2 2026
 
 

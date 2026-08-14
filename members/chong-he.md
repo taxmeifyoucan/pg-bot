@@ -38,6 +38,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Gloas alpha spec 12 changes](https://github.com/sigp/lighthouse/pull/9596#pullrequestreview-4870065610) - 2026-08-06
 * [Review] [Review on: Add dependent root check to proposer preferences validation (alpha.13)](https://github.com/sigp/lighthouse/pull/9760#pullrequestreview-4893400088) - 2026-08-10
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot (alpha.13)](https://github.com/sigp/lighthouse/pull/9761#pullrequestreview-4895628942) - 2026-08-10
+* [Review] [Review on: Allow multiple bids compatible with the head view (alpha.13)](https://github.com/sigp/lighthouse/pull/9763#pullrequestreview-4924084395) - 2026-08-13
 ## Q2 2026
 
 

@@ -283,6 +283,35 @@ Team: Reth
 * [Commit] [refactor(rpc): use Alloy trace chain result type (#26669)](https://github.com/paradigmxyz/reth/commit/722628f965e7dbcebd7079bcb7db60c76761f2ff) - 2026-08-12
 * [Commit] [feat(storage): re-enable RocksDB BAL storage (#26653)](https://github.com/paradigmxyz/reth/commit/86963c9c30c58c36b72bde11aa969a257eedbb92) - 2026-08-12
 * [Commit] [chore(deps): update Alloy to 2.4.0 (#26666)](https://github.com/paradigmxyz/reth/commit/057a055c4e422de53798661c5ba21baced903932) - 2026-08-12
+* [Pull Request] [fix(engine): stop prewarm workers on terminate signal](https://github.com/paradigmxyz/reth/pull/26703) - 2026-08-14
+* [Review] [Review on: feat(network): ingress limits](https://github.com/paradigmxyz/reth/pull/26660#pullrequestreview-4932546472) - 2026-08-13
+* [Review] [Review on: fix(network): pace pings.](https://github.com/paradigmxyz/reth/pull/26702#pullrequestreview-4932500434) - 2026-08-13
+* [Pull Request] [perf(engine): reuse scratch buffer for BAL hash encoding](https://github.com/paradigmxyz/reth/pull/26701) - 2026-08-13
+* [Review] [Review on: fix(network): better checking of ping / pong](https://github.com/paradigmxyz/reth/pull/26698#pullrequestreview-4932128313) - 2026-08-13
+* [Pull Request] [chore(deps): bump alloy-eip7928 to 0.4.8](https://github.com/paradigmxyz/reth/pull/26700) - 2026-08-13
+* [Pull Request] [fix(stages): validate block access list hash on import path (EIP-7928)](https://github.com/paradigmxyz/reth/pull/26696) - 2026-08-13
+* [Review] [Review on: feat(rpc): add Bogota Engine API stubs](https://github.com/paradigmxyz/reth/pull/26691#pullrequestreview-4928962806) - 2026-08-13
+* [Review] [Review on: feat(chainspec): add Bogota hardfork support](https://github.com/paradigmxyz/reth/pull/26686#pullrequestreview-4927972063) - 2026-08-13
+* [Pull Request] [chore(deps): bump alloy to 2.4.1](https://github.com/paradigmxyz/reth/pull/26687) - 2026-08-13
+* [Pull Request] [chore(deps): bump alloy-hardforks to 0.4.8](https://github.com/paradigmxyz/reth/pull/26685) - 2026-08-13
+* [Pull Request] [refactor: default unspecified payload attributes](https://github.com/paradigmxyz/reth/pull/26684) - 2026-08-13
+* [Pull Request] [refactor(txpool): return iterators from txs_by_sender accessors](https://github.com/paradigmxyz/reth/pull/26681) - 2026-08-13
+* [Review] [Review on: feat(rpc): Add request decompression](https://github.com/paradigmxyz/reth/pull/20277#pullrequestreview-4926711283) - 2026-08-13
+* [Pull Request] [fix(txpool): include blob pool in queued transactions](https://github.com/paradigmxyz/reth/pull/26679) - 2026-08-13
+* [Pull Request] [feat(engine): add inclusion list rpc stub](https://github.com/paradigmxyz/reth/pull/26682) - 2026-08-13
+* [Review] [Review on: feat(rpc): allow selecting HTTP response compression algorithms](https://github.com/paradigmxyz/reth/pull/26668#pullrequestreview-4926794373) - 2026-08-13
+* [Review] [Review on: fix(txpool): count blob pool transactions in queued_transactions_count](https://github.com/paradigmxyz/reth/pull/26677#pullrequestreview-4925827602) - 2026-08-13
+* [Pull Request] [fix(txpool): include blob pool in queued transactions count](https://github.com/paradigmxyz/reth/pull/26678) - 2026-08-13
+* [Review] [Review on: feat(net): add outbound GetCells transaction client](https://github.com/paradigmxyz/reth/pull/26673#pullrequestreview-4925684000) - 2026-08-13
+* [Issue] [Tracking: FOCIL devnet-0 readiness](https://github.com/paradigmxyz/reth/issues/26683) - 2026-08-13
+* [Commit] [chore(deps): bump alloy-eip7928 to 0.4.8 (#26700)](https://github.com/paradigmxyz/reth/commit/4e6d0c29c0d76367b5a27a48d820ab7c00d0f4b6) - 2026-08-13
+* [Commit] [fix(stages): validate block access list hash on import path (EIP-7928) (#26696)](https://github.com/paradigmxyz/reth/commit/63810e8956288abe40eac903af7fff1a86a99fb4) - 2026-08-13
+* [Commit] [chore(deps): bump alloy to 2.4.1 (#26687)](https://github.com/paradigmxyz/reth/commit/5e2cf1c8af043b0355d82dd97231fb386e20736b) - 2026-08-13
+* [Commit] [chore(deps): bump alloy-hardforks to 0.4.8 (#26685)](https://github.com/paradigmxyz/reth/commit/6f8b3699d707ecbd4d3fdfee42ea308545612d89) - 2026-08-13
+* [Commit] [refactor: default unspecified payload attributes (#26684)](https://github.com/paradigmxyz/reth/commit/e2671fa888b7d56384b03b384c86dc55793c91e8) - 2026-08-13
+* [Commit] [refactor(txpool): return iterators from txs_by_sender accessors (#26681)](https://github.com/paradigmxyz/reth/commit/b5c38a7ef7aacf43df9c98419b04b58576e17447) - 2026-08-13
+* [Commit] [fix(txpool): include blob pool in queued transactions (#26679)](https://github.com/paradigmxyz/reth/commit/130ee0080a8ed115dcd3e527fe079d736e2a0768) - 2026-08-13
+* [Commit] [feat(engine): add inclusion list rpc stub (#26682)](https://github.com/paradigmxyz/reth/commit/6456156e97c032e89a85af9d3dd25ef50c7309a2) - 2026-08-13
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

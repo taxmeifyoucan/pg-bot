@@ -21,6 +21,8 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: vocab](https://github.com/ethereum/pm/commit/faf0ed2583750bbae37e7ce5d3eeefea64b5761d) - 2026-08-04
 * [Commit] [acdbot: add vocab, clean acdc 184](https://github.com/ethereum/pm/commit/b4d3f06d857aa959eefc1c19b140edc30c6d4a12) - 2026-08-07
 * [Commit] [acdbot: add to trusted list for zkevm](https://github.com/ethereum/pm/commit/b85f326103841b01d98f891c55ad98f57be8d7b4) - 2026-08-10
+* [Commit] [acdbot: new frame meeting id](https://github.com/ethereum/pm/commit/d3a48725df75b6ec5f3bbecf7682e2373a3517aa) - 2026-08-13
+* [Commit] [acdbot: rename frame tx call](https://github.com/ethereum/pm/commit/3a055be445d869db8375f7818b438f2eb0040275) - 2026-08-13
 ## Q2 2026
 
 
