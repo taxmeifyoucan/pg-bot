@@ -150,6 +150,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution/stagedsync: avoid quadratic held-back retry reinsertion](https://github.com/erigontech/erigon/pull/23236) - 2026-08-13
 * [Review] [Review on: [r3.6] db/seg: reclaim Compressor pattern workers in Close](https://github.com/erigontech/erigon/pull/23235#pullrequestreview-4923531425) - 2026-08-13
 * [Review] [Review on: db/seg: reclaim Compressor pattern workers in Close](https://github.com/erigontech/erigon/pull/23233#pullrequestreview-4923530949) - 2026-08-13
+* [Pull Request] [[r3.6] execution/stagedsync: avoid quadratic held-back retry reinsertion](https://github.com/erigontech/erigon/pull/23278) - 2026-08-14
+* [Pull Request] [[r3.6] execution/state: make BlockStateCache committed storage reads lock-free](https://github.com/erigontech/erigon/pull/23277) - 2026-08-14
+* [Review] [Review on: execution/stagedsync: avoid quadratic held-back retry reinsertion](https://github.com/erigontech/erigon/pull/23236#pullrequestreview-4934337379) - 2026-08-14
+* [Pull Request] [[r3.6] execution: BlockStateCache lock-free committed storage + non-quadratic held-back retry reinsertion](https://github.com/erigontech/erigon/pull/23275) - 2026-08-14
+* [Commit] [execution/stagedsync: avoid quadratic held-back retry reinsertion (#23236)](https://github.com/erigontech/erigon/commit/6043164024f22e3a0946df6946e4ab9049744a9f) - 2026-08-14
 ## Q2 2026
 
 

@@ -93,6 +93,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-1: allow links to sys-asm](https://github.com/ethereum/EIPs/pull/12021#pullrequestreview-4897780459) - 2026-08-10
 * [Review] [Review on: Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/pull/11587#pullrequestreview-4909291255) - 2026-08-11
 * [Review] [Review on: Update EIP-8261: Convert to Informational gas limit schedule recommendation](https://github.com/ethereum/EIPs/pull/12140#pullrequestreview-4904476635) - 2026-08-11
+* [Review] [Review on: Update EIP-8066: Move to Review](https://github.com/ethereum/EIPs/pull/12166#pullrequestreview-4937205960) - 2026-08-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -131,6 +132,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: perf(fill): fetch a block's receipts with one eth_getBlockReceipts](https://github.com/ethereum/execution-specs/pull/3345#pullrequestreview-4897662475) - 2026-08-10
 * [Pull Request] [fix(benchmark): split benchmark gas evenly: every tx can pay data floor](https://github.com/ethereum/execution-specs/pull/3348) - 2026-08-10
 * [Review] [Review on: refactor(test-benchmark): split stateful setup transactions across blocks](https://github.com/ethereum/execution-specs/pull/3282#pullrequestreview-4903514310) - 2026-08-11
+* [Pull Request] [perf(fill): stream fixture writes, cache pubkeys, and skip redundant BAL hash check, warn on opcode trace failure](https://github.com/ethereum/execution-specs/pull/3379) - 2026-08-14
+* [Commit] [perf(test-forks): memoize per-fork gas costs (#3303)](https://github.com/ethereum/execution-specs/commit/1162c61f17cab7fe134a4e74dff69530d01fa1ba) - 2026-08-14
+* [Commit] [perf(test-rpc, test-fill): fetch a block's receipts with single `eth_getBlockReceipts` (#3345)](https://github.com/ethereum/execution-specs/commit/253a46337b1c56736d1b1d46552220236d14e489) - 2026-08-14
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 

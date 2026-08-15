@@ -46,6 +46,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Commit] [Remove deprecated methods from MiscHelpersFulu (#11059)](https://github.com/Consensys/teku/commit/ced1a674c4f49c2d60e51fa53eba2621b9107dbb) - 2026-08-12
 * [Review] [Review on: Downgrade beaconNodeEventStreamConnectionError to debug](https://github.com/Consensys/teku/pull/11090#pullrequestreview-4923361584) - 2026-08-13
 * [Commit] [Legitimise --validators-external-signer-concurrent-limit (#11063)](https://github.com/Consensys/teku/commit/c1c55eaa0a725235e15791276ed94bcf38607f21) - 2026-08-14
+* [Commit] [Downgrade beaconNodeEventStreamConnectionError to debug (#11090)](https://github.com/Consensys/teku/commit/721464276bd43115c17053ac2f3bd200634ed9b5) - 2026-08-14
 ## Q2 2026
 
 

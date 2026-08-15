@@ -177,6 +177,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Add EIP-8261 gas limit schedule support (#17339)](https://github.com/OffchainLabs/prysm/commit/ae5ccd6596cf72cf622cb019a23163ff5b0496d3) - 2026-08-12
 * [Review] [Review on: Record Gloas data column KZG proof verification time](https://github.com/OffchainLabs/prysm/pull/17346#pullrequestreview-4927796972) - 2026-08-13
 * [Commit] [Recover initial sync when head is on a bad fork (#17324)](https://github.com/OffchainLabs/prysm/commit/61dc49f4033a69b7e6ac0bb3943e52b2e908c7f2) - 2026-08-13
+* [Review] [Review on: methodical codegen switch](https://github.com/OffchainLabs/prysm/pull/17308#pullrequestreview-4941303177) - 2026-08-14
+* [Review] [Review on: adding payload value query parameter](https://github.com/OffchainLabs/prysm/pull/17362#pullrequestreview-4939454281) - 2026-08-14
+* [Pull Request] [Bound parent block fetches from unknown-parent data column sidecars](https://github.com/OffchainLabs/prysm/pull/17353) - 2026-08-14
+* [Pull Request] [Glamsterdam devnet 8](https://github.com/OffchainLabs/prysm/pull/17354) - 2026-08-14
+* [Pull Request] [Reject gossip blocks whose slot is not higher than their parent's](https://github.com/OffchainLabs/prysm/pull/17352) - 2026-08-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

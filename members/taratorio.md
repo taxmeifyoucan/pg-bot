@@ -246,6 +246,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: cache Kurtosis helper images (#23083)](https://github.com/erigontech/erigon/commit/fc191a7a93ee0fe9421a6de82ecf65468a0a8aca) - 2026-08-07
 * [Pull Request] [execution/cache: avoid lock contention during cache growth](https://github.com/erigontech/erigon/pull/23248) - 2026-08-13
 * [Commit] [execution: fix and optimise BAL warmup (#23081)](https://github.com/erigontech/erigon/commit/2fd0f23cdc90655dd31e12807395c242fb2dda6a) - 2026-08-13
+* [Review] [Review on: [r3.6] txnprovider/txpool: reject trailing bytes after blob tx wrapper](https://github.com/erigontech/erigon/pull/23297#pullrequestreview-4937947394) - 2026-08-14
+* [Review] [Review on: `go test ./...` compiles many pkgs twice](https://github.com/erigontech/erigon/pull/23281#pullrequestreview-4938392466) - 2026-08-14
+* [Review] [Review on: txnprovider/txpool: reject trailing bytes after blob tx wrapper](https://github.com/erigontech/erigon/pull/23295#pullrequestreview-4937944471) - 2026-08-14
+* [Pull Request] [rpc: fix eth_getFilterLogs to match eth_getLogs with same criteria](https://github.com/erigontech/erigon/pull/23296) - 2026-08-14
+* [Pull Request] [rpc: fix eth_feeHistory panics for finalized/safe block markers](https://github.com/erigontech/erigon/pull/23290) - 2026-08-14
+* [Review] [Review on: `memdb` and `mdbxtest` pkgs merged in 1](https://github.com/erigontech/erigon/pull/23286#pullrequestreview-4936456535) - 2026-08-14
+* [Pull Request] [execution: move GetValSize to kv.TemporalTx interface](https://github.com/erigontech/erigon/pull/23287) - 2026-08-14
+* [Pull Request] [execution: optimise extcodesize cold reads](https://github.com/erigontech/erigon/pull/23276) - 2026-08-14
+* [Review] [Review on: `cmd/erigon` pkg avoid import `testing` pkg](https://github.com/erigontech/erigon/pull/23270#pullrequestreview-4935137310) - 2026-08-14
+* [Commit] [rpc: fix eth_feeHistory panics for finalized/safe block markers (#23290)](https://github.com/erigontech/erigon/commit/958931e9977de020fb527fafbcc31a2c29b8f1bb) - 2026-08-14
+* [Commit] [execution: move GetValSize to kv.TemporalTx interface (#23287)](https://github.com/erigontech/erigon/commit/ee118299268ca7c952b95754fa74e4f3c72fb3f1) - 2026-08-14
+* [Commit] [execution: optimise extcodesize cold reads (#23276)](https://github.com/erigontech/erigon/commit/f277db3c8d9d762d0ea1165021930aa52452d942) - 2026-08-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

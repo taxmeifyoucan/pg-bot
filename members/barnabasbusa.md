@@ -59,6 +59,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [fix(validators-summary): correct proposal accuracy over-/undercounting](https://github.com/ethpandaops/dora/commit/e11e5b8232901bdeb7501c5e281bfbc95b482636) - 2026-08-10
 * [Review] [Review on: bump dynamic-ssz & go-eth2-client & regen ssz files](https://github.com/ethpandaops/dora/pull/831#pullrequestreview-4916501475) - 2026-08-12
 * [Review] [Review on: Preserve diverging fork duties and orphaned block bodies in blockdb](https://github.com/ethpandaops/dora/pull/827#pullrequestreview-4915980378) - 2026-08-12
+* [Review] [Review on: show early regular builder deposits](https://github.com/ethpandaops/dora/pull/833#pullrequestreview-4938291304) - 2026-08-14
+* [Pull Request] [feat: ENS name search in the main search bar](https://github.com/ethpandaops/dora/pull/832) - 2026-08-14
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
@@ -113,9 +115,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Add version envelope to Gloas event stream events](https://github.com/status-im/nimbus-eth2/pull/8816) - 2026-07-28
 
+* [Pull Request] [rest: expose MAX_REQUEST_PAYLOADS in config/spec API](https://github.com/status-im/nimbus-eth2/pull/8882) - 2026-08-14
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(net): make discv5 follow --discovery.port](https://github.com/paradigmxyz/reth/pull/26532) - 2026-07-30
 
+* [Issue] [Engine API wedged 8-18s by synchronous changeset-cache miss fallback during payload building (proposals orphaned on Glamsterdam devnet-8)](https://github.com/paradigmxyz/reth/issues/26704) - 2026-08-14
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [Expose the node's ENR in admin_nodeInfo](https://github.com/NethermindEth/nethermind/pull/12631) - 2026-07-31
 
@@ -126,6 +130,16 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Issue] [PeerDAS: validator custody applied ~60s after startup; node advertises earliestAvailableSlot it cannot serve, leading to peer-score bans](https://github.com/OffchainLabs/prysm/issues/17312) - 2026-08-06
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Pull Request] [Add missing Gloas spec values to /eth/v1/config/spec](https://github.com/grandinetech/grandine/pull/847) - 2026-08-14
+
+[sigp/lighthouse](https://github.com/sigp/lighthouse)
+* [Pull Request] [Expose Gloas timing values and MAX_REQUEST_PAYLOADS on the config/spec API](https://github.com/sigp/lighthouse/pull/9812) - 2026-08-14
+
+[ethpandaops/lab](https://github.com/ethpandaops/lab)
+* [Pull Request] [feat(gas-profiler): update Glamsterdam preset to frozen devnet-8 repricing](https://github.com/ethpandaops/lab/pull/447) - 2026-08-14
+* [Review] [Review on: feat(gas-profiler): update Glamsterdam preset to frozen devnet-8 repricing](https://github.com/ethpandaops/lab/pull/447#pullrequestreview-4936642686) - 2026-08-14
 ## Q2 2026
 
 

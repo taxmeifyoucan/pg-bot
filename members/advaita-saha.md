@@ -84,6 +84,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [close db properly (#4630)](https://github.com/status-im/nimbus-eth1/commit/f787a74bb38e8bf4741719ebf853811d06159d6d) - 2026-08-11
 * [Commit] [time budgeting instead of capping (#4588)](https://github.com/status-im/nimbus-eth1/commit/80d94864ade5e0bb7819edc237cf0a7232904e37) - 2026-08-11
 * [Pull Request] [make release nightly use the existing release pathway for better testing](https://github.com/status-im/nimbus-eth1/pull/4632) - 2026-08-12
+* [Commit] [unified client shutdown hang fix (#4629)](https://github.com/status-im/nimbus-eth1/commit/618b0e548fcf56355178e4228ea627a97c6ef3f5) - 2026-08-14
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22

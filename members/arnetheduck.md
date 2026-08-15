@@ -31,6 +31,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Use $(CC) in makefile for light client tests](https://github.com/status-im/nimbus-eth2/pull/8794) - 2026-07-22
 * [Review] [Review on: Ensure sigsets are part of async env in batch validation](https://github.com/status-im/nimbus-eth2/pull/8804#pullrequestreview-4781265111) - 2026-07-26
 * [Pull Request] [Use cross-thread `callSoon` to simplify task completion logic](https://github.com/status-im/nimbus-eth2/pull/8853) - 2026-08-06
+* [Pull Request] [remove force build](https://github.com/status-im/nimbus-eth2/pull/8883) - 2026-08-14
 ## Q2 2026
 
 

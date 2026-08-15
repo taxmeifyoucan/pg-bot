@@ -56,6 +56,7 @@ Team: Grandine
 * [Review] [Review on: Set attestation data index based on the payload status in the node fork-choice](https://github.com/grandinetech/grandine/pull/845#pullrequestreview-4925191858) - 2026-08-13
 * [Review] [Review on: Add Gloas global circuit breaker](https://github.com/grandinetech/grandine/pull/843#pullrequestreview-4924836932) - 2026-08-13
 * [Review] [Review on: Use genesis block root as dependent root for the first 2 epochs](https://github.com/grandinetech/grandine/pull/846#pullrequestreview-4924936706) - 2026-08-13
+* [Review] [Review on: Add missing Gloas spec values to /eth/v1/config/spec](https://github.com/grandinetech/grandine/pull/847#pullrequestreview-4937446884) - 2026-08-14
 ## Q2 2026
 
 

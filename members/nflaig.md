@@ -288,6 +288,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: support EIP-8261 gas limit schedule (#9808)](https://github.com/ChainSafe/lodestar/commit/b2cbfa50c2525f54644f799b9d682da86587092b) - 2026-08-13
 * [Commit] [refactor: use builder boost factor for gloas block production (#9807)](https://github.com/ChainSafe/lodestar/commit/0bcaaaebb5c7e8ba22b3bc927487e633f6b36b2e) - 2026-08-13
 * [Commit] [chore: copy patches into development image (#9816)](https://github.com/ChainSafe/lodestar/commit/268215c3daf076f2bed21e57bb3f2c87d17d9ea9) - 2026-08-13
+* [Review] [Review on: chore(builder): abort signal in while loop + logging nits](https://github.com/ChainSafe/lodestar/pull/9827#pullrequestreview-4939181808) - 2026-08-14
+* [Pull Request] [feat: instrument builder onboarding at the gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9828) - 2026-08-14
+* [Review] [Review on: feat: instrument builder onboarding at the gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9828#pullrequestreview-4940206002) - 2026-08-14
+* [Review] [Review on: test: dedupe builder/validator apiStub helpers into @lodestar/test-utils](https://github.com/ChainSafe/lodestar/pull/9826#pullrequestreview-4939149647) - 2026-08-14
+* [Pull Request] [deps: patch @libp2p/tcp to fix network worker shutdown hang](https://github.com/ChainSafe/lodestar/pull/9825) - 2026-08-14
+* [Review] [Review on: deps: patch @libp2p/tcp to fix network worker shutdown hang](https://github.com/ChainSafe/lodestar/pull/9825#pullrequestreview-4935845778) - 2026-08-14
+* [Review] [Review on: perf(fork-choice): early-break window walk in getCanonicalPayloadCounts](https://github.com/ChainSafe/lodestar/pull/9824#pullrequestreview-4934925500) - 2026-08-14
+* [Commit] [deps: patch @libp2p/tcp to fix network worker shutdown hang (#9825)](https://github.com/ChainSafe/lodestar/commit/92bd4efe9bc88db47fd2d54a77e6b949e86b86b7) - 2026-08-14
+* [Commit] [fix: count canonical FULL and EMPTY blocks in circuit breaker (#9815)](https://github.com/ChainSafe/lodestar/commit/32aed648d27f31b634584dd116c7134a37e4a9bd) - 2026-08-14
+* [Commit] [chore: address builder circuit breaker review follow-ups (#9780)](https://github.com/ChainSafe/lodestar/commit/90204c280d8115237dc8c4750ffdc22b7c712366) - 2026-08-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

@@ -180,6 +180,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4927528743) - 2026-08-13
 * [Pull Request] [Add a few more deposit pubkey validation tests](https://github.com/ethereum/consensus-specs/pull/5541) - 2026-08-13
 * [Commit] [Add a few more deposit pubkey validation tests (#5541)](https://github.com/ethereum/consensus-specs/commit/6b5f9505b342e1cd8c275c6affcad391160ef5f1) - 2026-08-13
+* [Review] [Review on: Change IL store's keys to (slot, dependent root)](https://github.com/ethereum/consensus-specs/pull/5544#pullrequestreview-4937986236) - 2026-08-14
+* [Review] [Review on: Add casts to uint operations with different types](https://github.com/ethereum/consensus-specs/pull/5527#pullrequestreview-4938193611) - 2026-08-14
+* [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4940342134) - 2026-08-14
+* [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543#pullrequestreview-4938551248) - 2026-08-14
+* [Review] [Review on: Use FCR store in `get_safe_execution_block_hash` call](https://github.com/ethereum/consensus-specs/pull/5542#pullrequestreview-4938337636) - 2026-08-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

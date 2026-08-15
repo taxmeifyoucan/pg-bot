@@ -97,6 +97,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [variant.props: bump .NET 11 min runtime postfix to .x9](https://github.com/NethermindEth/bflat-riscv64/commit/4515ab8e5f67101bddac951e169dbb5ec287730b) - 2026-08-12
 * [Commit] [docs: document the eh module and its Frama-C proof](https://github.com/NethermindEth/bflat-riscv64/commit/d251a86a990de2f0452aee3507a67bcafa84a84e) - 2026-08-12
 * [Commit] [eh: enable managed exception handling with synthetic program headers](https://github.com/NethermindEth/bflat-riscv64/commit/5f065c3c4fc2458e2bf74c316d8cbc9622924ba6) - 2026-08-12
+* [Pull Request] [Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38) - 2026-08-14
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Minimal set of patches](https://github.com/NethermindEth/dotnet-riscv/pull/7) - 2026-07-26
 * [Commit] [tools/clang: match Runtime.*.dir objects as client code](https://github.com/NethermindEth/dotnet-riscv/commit/511edf6e28ee1172c5968632bcf454e5a7bc2ebf) - 2026-08-11

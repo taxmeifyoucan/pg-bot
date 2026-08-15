@@ -124,6 +124,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [remove stale fixme (#11097)](https://github.com/Consensys/teku/commit/44bc05b91829c8f07e5da54efbf5655324b3416c) - 2026-08-13
 * [Commit] [Initial implementation of block production for gloas (#11069)](https://github.com/Consensys/teku/commit/a160aefd75cc1f1aadd3ee471a6ec641effdb21b) - 2026-08-13
 * [Commit] [Fix state-root lookup returning 404 in prune/minimal storage mode (#11087)](https://github.com/Consensys/teku/commit/af4cf9d49d3abfe2d9a26edfa7da190b642a9354) - 2026-08-13
+* [Pull Request] [Read EPHEMERY_RESET_PERIOD from network config](https://github.com/Consensys/teku/pull/11103) - 2026-08-14
+* [Pull Request] [Ignore committee_index in attestation data production post-Electra](https://github.com/Consensys/teku/pull/11102) - 2026-08-14
+* [Pull Request] [[Chore] Ignore deprecated networking and Ephemery config keys](https://github.com/Consensys/teku/pull/11100) - 2026-08-14
+* [Commit] [Ignore deprecated networking and Ephemery config keys (#11100)](https://github.com/Consensys/teku/commit/9d8db3b61118e736fe26a0d0099bff41c343968c) - 2026-08-14
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

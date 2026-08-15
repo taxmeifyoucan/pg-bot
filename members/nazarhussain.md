@@ -40,6 +40,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: reference-parity swap_or_not_shuffle API and JS binding](https://github.com/ChainSafe/lodestar-z/pull/559) - 2026-08-13
 * [Pull Request] [refactor: move shuffle into swap_or_not_shuffle module](https://github.com/ChainSafe/lodestar-z/pull/558) - 2026-08-13
 * [Commit] [refactor: move shuffle into swap_or_not_shuffle module (#558)](https://github.com/ChainSafe/lodestar-z/commit/e56efb2ddf0577aefdd2102f06f81416972329ae) - 2026-08-13
+* [Pull Request] [feat: add PTC sampling from swap-or-not-shuffle#24](https://github.com/ChainSafe/lodestar-z/pull/563) - 2026-08-14
+* [Review] [Review on: feat: reference-parity swap_or_not_shuffle API and JS binding](https://github.com/ChainSafe/lodestar-z/pull/559#pullrequestreview-4934493635) - 2026-08-14
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07

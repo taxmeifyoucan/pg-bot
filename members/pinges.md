@@ -26,6 +26,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Commit] [Checkpoint cli option (#10874)](https://github.com/besu-eth/besu/commit/ed6d695d3f12eeedaffa847483cbad4173b6c66e) - 2026-07-30
 * [Pull Request] [CLI option for snap download headers to checkpoint only](https://github.com/besu-eth/besu/pull/10958) - 2026-08-03
 * [Review] [Review on: Do not start backward sync until initial sync is done](https://github.com/besu-eth/besu/pull/10944#pullrequestreview-4898118564) - 2026-08-10
+* [Pull Request] [Permissioning allowlist update event](https://github.com/besu-eth/besu/pull/11050) - 2026-08-14
+* [Pull Request] [Detect post merge at genesis](https://github.com/besu-eth/besu/pull/11047) - 2026-08-14
+* [Review] [Review on: Detect post merge at genesis](https://github.com/besu-eth/besu/pull/11047#pullrequestreview-4935728377) - 2026-08-14
+* [Commit] [Permissioning allowlist update event](https://github.com/besu-eth/besu/commit/5e7de1b08917d864f9c688ddff47ba8110a7bf9b) - 2026-08-14
 ## Q2 2026
 
 

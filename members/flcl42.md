@@ -203,6 +203,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Align debug_traceCall base fee with Geth](https://github.com/NethermindEth/nethermind/pull/12804) - 2026-08-13
 * [Review] [Review on: fix(rpc): include beacon tip in eth_syncing highest block](https://github.com/NethermindEth/nethermind/pull/12739#pullrequestreview-4927317931) - 2026-08-13
 * [Review] [Review on: fix(sync): format SyncMode flags](https://github.com/NethermindEth/nethermind/pull/12795#pullrequestreview-4926729033) - 2026-08-13
+* [Review] [Review on: Restore best-suggested pointers for non-canonical post-merge levels on block tree load](https://github.com/NethermindEth/nethermind/pull/12822#pullrequestreview-4939217217) - 2026-08-14
+* [Review] [Review on: fix(sync): format SyncMode flags](https://github.com/NethermindEth/nethermind/pull/12795#pullrequestreview-4936783076) - 2026-08-14
+* [Pull Request] [Expose EIP-8282 builder contracts in eth_config](https://github.com/NethermindEth/nethermind/pull/12815) - 2026-08-14
+* [Pull Request] [Serve pooled blob txs without materializing sidecars](https://github.com/NethermindEth/nethermind/pull/12823) - 2026-08-14
+* [Review] [Review on: Deflake RetryCacheTests.ExpiryQueue_ReleasesStorageAfterCumulativeChurn](https://github.com/NethermindEth/nethermind/pull/12820#pullrequestreview-4938185037) - 2026-08-14
+* [Review] [Review on: test(rlp): pin the frame-transaction envelope against a foreign encoder's vector](https://github.com/NethermindEth/nethermind/pull/12658#pullrequestreview-4936795831) - 2026-08-14
+* [Commit] [Add plataberget testnet configuration (#12807)](https://github.com/NethermindEth/nethermind/commit/41669e3b30e8bd65a254de60e872e5c34da547ab) - 2026-08-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

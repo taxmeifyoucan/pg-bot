@@ -103,6 +103,17 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: chore(test-client-clis): update geth BAL exception mappings](https://github.com/ethereum/execution-specs/pull/3347#pullrequestreview-4902972879) - 2026-08-11
 * [Review] [Review on: fix(consume): emit genesis slotNumber as hex string like all other fields](https://github.com/ethereum/execution-specs/pull/3369#pullrequestreview-4927245389) - 2026-08-13
 * [Review] [Review on: fix(tests): accept gas-used divergence in BAL omitted-slot-change test](https://github.com/ethereum/execution-specs/pull/3357#pullrequestreview-4927119080) - 2026-08-13
+* [Review] [Review on: refactor(test-benchmark): split stateful setup transactions across blocks](https://github.com/ethereum/execution-specs/pull/3282#pullrequestreview-4936180295) - 2026-08-14
+* [Pull Request] [refactor(test-benchmark): remove potential duplicated cases](https://github.com/ethereum/execution-specs/pull/3374) - 2026-08-14
+* [Review] [Review on: refactor(client-clis): bound the opcode-count trace time explicitly [backport benchmarks/amsterdam]](https://github.com/ethereum/execution-specs/pull/3378#pullrequestreview-4936056183) - 2026-08-14
+* [Review] [Review on: refactor(client-clis): bound the opcode-count trace time explicitly](https://github.com/ethereum/execution-specs/pull/3367#pullrequestreview-4935995495) - 2026-08-14
+* [Review] [Review on: perf(test-forks): memoize per-fork gas costs [backport benchmarks/amsterdam]](https://github.com/ethereum/execution-specs/pull/3377#pullrequestreview-4935577847) - 2026-08-14
+* [Review] [Review on: perf(test-rpc, test-fill): fetch a block's receipts with single `eth_getBlockReceipts` [backport benchmarks/amsterdam]](https://github.com/ethereum/execution-specs/pull/3376#pullrequestreview-4935331774) - 2026-08-14
+* [Review] [Review on: perf(test-forks): memoize per-fork gas costs](https://github.com/ethereum/execution-specs/pull/3303#pullrequestreview-4935265294) - 2026-08-14
+* [Review] [Review on: perf(test-rpc, test-fill): fetch a block's receipts with single `eth_getBlockReceipts`](https://github.com/ethereum/execution-specs/pull/3345#pullrequestreview-4934632875) - 2026-08-14
+* [Review] [Review on: fix(consume): map reth BAL account-miss and item-cost rejection messages](https://github.com/ethereum/execution-specs/pull/3371#pullrequestreview-4934260083) - 2026-08-14
+* [Issue] [Issue tracker to full benchmark test suite & glamsterdam-devnet-8 migration](https://github.com/ethereum/execution-specs/issues/3375) - 2026-08-14
+* [Commit] [refactor(test-benchmark): remove potential duplicated cases (#3374)](https://github.com/ethereum/execution-specs/commit/43e3cd1ec03dd550a2bd43746564b339e85fcd1d) - 2026-08-14
 ## Q2 2026
 
 

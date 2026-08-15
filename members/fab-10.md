@@ -103,6 +103,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Remove custom engine_preparePayload_debug, replaced by testing_buildBlockV1 (#11011)](https://github.com/besu-eth/besu/commit/745aadc11b5a3d86b06e4b5c91f43c21c961694a) - 2026-08-11
 * [Commit] [Do not start backward sync until initial sync is done (#10944)](https://github.com/besu-eth/besu/commit/03d1d45523b1c3c784c64369b08f095105ec2a9b) - 2026-08-11
 * [Review] [Review on: increase account trie executor threads for glansterdam devnet 7 ](https://github.com/besu-eth/besu/pull/11036#pullrequestreview-4926571382) - 2026-08-13
+* [Pull Request] [Execute Engine API methods concurrently except ordered forkchoiceUpdated](https://github.com/besu-eth/besu/pull/11053) - 2026-08-14
+* [Pull Request] [HTTP RPC: Demote timeout and closed connection exception to WARN](https://github.com/besu-eth/besu/pull/11054) - 2026-08-14
+* [Review] [Review on: Permissioning allowlist update event](https://github.com/besu-eth/besu/pull/11050#pullrequestreview-4938087111) - 2026-08-14
+* [Review] [Review on: Extract plugin-api sync module](https://github.com/besu-eth/besu/pull/11052#pullrequestreview-4936738296) - 2026-08-14
+* [Review] [Review on: Deprecate PoaQueryService and BftQueryService for removal](https://github.com/besu-eth/besu/pull/11051#pullrequestreview-4936169869) - 2026-08-14
+* [Commit] [Demote timeout and closed connection exception to WARN (#11054)](https://github.com/besu-eth/besu/commit/c2addd94244196d4713e38ea659be0d2581082e9) - 2026-08-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

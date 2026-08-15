@@ -76,6 +76,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: use the head branch commit for artifacts](https://github.com/Consensys/teku/pull/11093#pullrequestreview-4929429091) - 2026-08-13
 * [Pull Request] [11083 merge into devnet 7](https://github.com/Consensys/teku/pull/11095) - 2026-08-13
 * [Pull Request] [11083 merge into devnet 7](https://github.com/Consensys/teku/pull/11094) - 2026-08-13
+* [Pull Request] [add support for plataberget network](https://github.com/Consensys/teku/pull/11108) - 2026-08-14
+* [Review] [Review on: use the head branch commit for artifacts](https://github.com/Consensys/teku/pull/11093#pullrequestreview-4939726939) - 2026-08-14
+* [Pull Request] [add MAX_PARTIAL_DATA_COLUMN_SIDECAR_SIZE config parameter](https://github.com/Consensys/teku/pull/11104) - 2026-08-14
+* [Pull Request] [add domain builder deposit to get spec api](https://github.com/Consensys/teku/pull/11105) - 2026-08-14
+* [Issue] [Add plataberget network support](https://github.com/Consensys/teku/issues/11107) - 2026-08-14
 ## Q2 2026
 
 

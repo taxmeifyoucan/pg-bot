@@ -26,6 +26,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Initial implementation of block production for gloas](https://github.com/Consensys/teku/pull/11069#pullrequestreview-4928061644) - 2026-08-13
 * [Review] [Review on: EIP-8261 Scheduled Gas Limit](https://github.com/Consensys/teku/pull/11088#pullrequestreview-4925878382) - 2026-08-13
 * [Commit] [Introduce builder config containers (#11085)](https://github.com/Consensys/teku/commit/a6802e9aa70c154f32ddd9a1806d3be22daf18c7) - 2026-08-13
+* [Review] [Review on: add support for plataberget network](https://github.com/Consensys/teku/pull/11108#pullrequestreview-4940179998) - 2026-08-14
+* [Review] [Review on: EIP-8261 Scheduled Gas Limit](https://github.com/Consensys/teku/pull/11106#pullrequestreview-4940174037) - 2026-08-14
 ## Q2 2026
 
 

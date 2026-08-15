@@ -22,6 +22,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [add gossip domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8858) - 2026-08-07
 * [Review] [Review on: add gossip domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8858#pullrequestreview-4897906099) - 2026-08-10
 * [Pull Request] [req/resp domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8876) - 2026-08-12
+* [Pull Request] [more efficient getBlobs polling](https://github.com/status-im/nimbus-eth2/pull/8884) - 2026-08-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629505540) - 2026-07-04
 ## Q2 2026

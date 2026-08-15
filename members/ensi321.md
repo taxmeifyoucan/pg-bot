@@ -76,6 +76,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: address builder circuit breaker review follow-ups](https://github.com/ChainSafe/lodestar/pull/9780#pullrequestreview-4918732649) - 2026-08-12
 * [Pull Request] [fix: recompute head before proposer boost dependent root check](https://github.com/ChainSafe/lodestar/pull/9813) - 2026-08-12
 * [Review] [Review on: feat: add plataberget network option :polar_bear:](https://github.com/ChainSafe/lodestar/pull/9822#pullrequestreview-4930990167) - 2026-08-13
+* [Review] [Review on: perf(fork-choice): early-break window walk in getCanonicalPayloadCounts](https://github.com/ChainSafe/lodestar/pull/9824#pullrequestreview-4934290550) - 2026-08-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

@@ -51,6 +51,10 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [Prysm Version Upgrade Script (#15992)](https://github.com/OffchainLabs/prysm/commit/29554406e01bf08e396719c8c8b37bed54b61c5e) - 2026-08-11
 * [Commit] [add version checks to beacon state progressive HTR (#17336)](https://github.com/OffchainLabs/prysm/commit/d73fbf786ac8bfbf8e4138340b42f05661796d23) - 2026-08-11
 * [Commit] [optimize recomputeProgressiveOverlay hashing (#17330)](https://github.com/OffchainLabs/prysm/commit/4e078c7871db711a55a592f7478ec8e9700cb00d) - 2026-08-11
+* [Pull Request] [prefer subtests in agents.md](https://github.com/OffchainLabs/prysm/pull/17360) - 2026-08-14
+* [Pull Request] [add progressive state schema](https://github.com/OffchainLabs/prysm/pull/17358) - 2026-08-14
+* [Review] [Review on: `make gen` generates the per-package `log.go` files.](https://github.com/OffchainLabs/prysm/pull/17342#pullrequestreview-4936302216) - 2026-08-14
+* [Commit] [prefer subtests in agents.md (#17360)](https://github.com/OffchainLabs/prysm/commit/b86db8d314e1177d8e473a288a871fc3be6f6977) - 2026-08-14
 ## Q2 2026
 
 

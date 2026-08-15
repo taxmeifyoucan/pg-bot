@@ -15,6 +15,7 @@ Github: [@0xmushow](https://github.com/0xmushow)
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Update FCR function call in validator.md documentation](https://github.com/ethereum/consensus-specs/pull/5542) - 2026-08-13
 
+* [Commit] [Use FCR store in `get_safe_execution_block_hash` call (#5542)](https://github.com/ethereum/consensus-specs/commit/caeca85c6c4f60cfed3bf716afa571bfb0c72d59) - 2026-08-14
 [ethereum/protocol-security](https://github.com/ethereum/protocol-security)
 * [Review] [Review on: Add EIP-8282 audit report by Dedaub](https://github.com/ethereum/protocol-security/pull/57#pullrequestreview-4930308969) - 2026-08-13
 ## Q2 2026

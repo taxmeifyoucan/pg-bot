@@ -22,6 +22,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: feat(fill-stateful): add --extract-opcode-count opcode tracing](https://github.com/ethereum/execution-specs/pull/3124#pullrequestreview-4669693816) - 2026-07-10
 * [Commit] [feat(test-cli): add `--extract-opcode-count` opcode tracing (#3124)](https://github.com/ethereum/execution-specs/commit/e6382bc2a1a5a331234f39b82f71b3c659743199) - 2026-07-16
 * [Pull Request] [fix(client-clis): bound the opcode-count trace explicitly](https://github.com/ethereum/execution-specs/pull/3367) - 2026-08-13
+* [Commit] [refactor(client-clis): bound the opcode-count trace time explicitly (#3367)](https://github.com/ethereum/execution-specs/commit/26332146a768f7491287a45254d7bb05f78b4611) - 2026-08-14
 ## Q2 2026
 
 

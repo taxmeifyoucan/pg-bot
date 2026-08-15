@@ -16,6 +16,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aanto
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [Sync mode selector stuck in permanent snapshot-recalculation loop after DB catch-up completes (patricia/archive backend), block/header/chain difficulty never populate](https://github.com/NethermindEth/nethermind/issues/12803) - 2026-08-13
+* [Pull Request] [fix(sync): resolve permanent snapshot-recalculation loop on patricia/archive backend](https://github.com/NethermindEth/nethermind/pull/12824) - 2026-08-14
 ## Q2 2026
 
 

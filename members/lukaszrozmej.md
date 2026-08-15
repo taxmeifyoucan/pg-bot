@@ -187,6 +187,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Return only the requested header from GetHeadBlockHeader (#12740)](https://github.com/NethermindEth/nethermind/commit/e91e71bc2a9c7289f2a4e693c99614d94c72e1ad) - 2026-08-10
 * [Commit] [Treat a null header answer as the block being absent (#12741)](https://github.com/NethermindEth/nethermind/commit/4d65fa1eabb977afecaa36be73d00c1a39cfdbfb) - 2026-08-10
 * [Review] [Review on: refactor(evm): drop the unused EIP-8272 native recent-root write path](https://github.com/NethermindEth/nethermind/pull/12762#pullrequestreview-4904687265) - 2026-08-11
+* [Pull Request] [Restore best-suggested pointers for non-canonical post-merge levels on block tree load](https://github.com/NethermindEth/nethermind/pull/12822) - 2026-08-14
+* [Review] [Review on: Make snap request sizer test independent of the wall clock](https://github.com/NethermindEth/nethermind/pull/12821#pullrequestreview-4938423343) - 2026-08-14
+* [Pull Request] [Fix `admin_addPeer`/`admin_addTrustedPeer` dropping `persistent=true` for already-known peers](https://github.com/NethermindEth/nethermind/pull/12818) - 2026-08-14
+* [Review] [Review on: Fix `admin_addPeer`/`admin_addTrustedPeer` dropping `persistent=true` for already-known peers](https://github.com/NethermindEth/nethermind/pull/12818#pullrequestreview-4937429251) - 2026-08-14
+* [Review] [Review on: Raise mainnet ancient barriers to a 33024-epoch history window](https://github.com/NethermindEth/nethermind/pull/12808#pullrequestreview-4935646217) - 2026-08-14
+* [Review] [Review on: Expose EIP-8282 builder contracts in eth_config](https://github.com/NethermindEth/nethermind/pull/12815#pullrequestreview-4937120943) - 2026-08-14
+* [Pull Request] [Deflake RetryCacheTests.ExpiryQueue_ReleasesStorageAfterCumulativeChurn](https://github.com/NethermindEth/nethermind/pull/12820) - 2026-08-14
+* [Review] [Review on: Deflake RetryCacheTests.ExpiryQueue_ReleasesStorageAfterCumulativeChurn](https://github.com/NethermindEth/nethermind/pull/12820#pullrequestreview-4938272835) - 2026-08-14
+* [Commit] [Deflake RetryCacheTests.ExpiryQueue_ReleasesStorageAfterCumulativeChurn (#12820)](https://github.com/NethermindEth/nethermind/commit/8105e03263159fecc599a098ed96c3bfc39550e0) - 2026-08-14
+* [Commit] [Align eth_unsubscribe not-found handling with geth (#12819)](https://github.com/NethermindEth/nethermind/commit/e098202d7184e45e040b321ca8f10a15a04a6c42) - 2026-08-14
+* [Commit] [Simplify heavy-contract storage discovery: warm via prewarmer scopes (#12737)](https://github.com/NethermindEth/nethermind/commit/5a5185c8b0a68af19a8ed2571bfd316b27c9abfa) - 2026-08-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

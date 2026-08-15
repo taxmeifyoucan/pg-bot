@@ -45,6 +45,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: [MINOR] replace inefficient method of checking for empty string](https://github.com/besu-eth/besu/pull/10911#pullrequestreview-4923539212) - 2026-08-13
 * [Commit] [Fix NPE in JSON-RPC timeout handler for batch requests (#11023)](https://github.com/besu-eth/besu/commit/9b5222ea48c6b6e701d8c85d157d3785dc42ff65) - 2026-08-13
 * [Commit] [fix: Bonsai storage writes skipped for selfdestructed+recreated accounts with identical slot values](https://github.com/besu-eth/besu/commit/2c58e7d2f8ad2ef432f9a431d0dd5812afcba5a7) - 2026-08-13
+* [Review] [Review on: Make sure new transactions arriving during `emptyblockperiodseconds` are mined if the proposer has crashed](https://github.com/besu-eth/besu/pull/11031#pullrequestreview-4934708914) - 2026-08-14
+* [Review] [Review on: Bonsai archive proofs simple trie](https://github.com/besu-eth/besu/pull/11016#pullrequestreview-4934491403) - 2026-08-14
 ## Q2 2026
 
 

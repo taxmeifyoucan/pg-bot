@@ -48,6 +48,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Merge branch 'unstable' of github.com:ChainSafe/lodestar into mkeil/fix-project-board-sweep-scope](https://github.com/ChainSafe/lodestar/commit/7a8fd842fcc5420e561107bb52192afe0e73f5ab) - 2026-08-13
 * [Commit] [fix: scope project board sweeps to managed lanes](https://github.com/ChainSafe/lodestar/commit/096d92de17cdf624371e18112cd9fefca2f70e1c) - 2026-08-13
 * [Commit] [feat: automate project board PR status transitions (#9732)](https://github.com/ChainSafe/lodestar/commit/742db200d10a83349d5e2a89b5132375b2300871) - 2026-08-13
+* [Review] [Review on: deps: patch @libp2p/tcp to fix network worker shutdown hang](https://github.com/ChainSafe/lodestar/pull/9825#pullrequestreview-4935974715) - 2026-08-14
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

@@ -47,6 +47,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8250: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/commit/c9d962f194b9b167e045b3b68a7a292cdc4cec7f) - 2026-08-08
 * [Commit] [Update EIP-8272: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/commit/a96bfaebd23ab7b9d00c63108bc65a2129c42952) - 2026-08-08
 * [Pull Request] [Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139) - 2026-08-11
+* [Review] [Review on: Update EIP-8141: specify block inclusion gating and payer solvency](https://github.com/ethereum/EIPs/pull/12091#pullrequestreview-4935750459) - 2026-08-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 

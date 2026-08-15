@@ -96,6 +96,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Deduplicate execution payload envelopes on gossip](https://github.com/sigp/lighthouse/pull/9775#pullrequestreview-4913479963) - 2026-08-12
 * [Review] [Review on: Early-subscribe Gloas proposer_preferences and fix publish digest](https://github.com/sigp/lighthouse/pull/9794#pullrequestreview-4913996007) - 2026-08-12
 * [Review] [Review on: Allow multiple bids compatible with the head view (alpha.13)](https://github.com/sigp/lighthouse/pull/9763#pullrequestreview-4924120433) - 2026-08-13
+* [Review] [Review on: Add builder API types, request-auth domain, and eth2 client methods (Gloas builder API 1/5)](https://github.com/sigp/lighthouse/pull/9803#pullrequestreview-4934613585) - 2026-08-14
+* [Pull Request] [Add gossipsub topic score params for all forks](https://github.com/sigp/lighthouse/pull/9811) - 2026-08-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

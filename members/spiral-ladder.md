@@ -143,6 +143,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: refactor: move shuffle into swap_or_not_shuffle module](https://github.com/ChainSafe/lodestar-z/pull/558#pullrequestreview-4924249009) - 2026-08-13
 * [Pull Request] [[do not merge] feat(bindings): asyncAggregateWithRandomness by indices](https://github.com/ChainSafe/lodestar-z/pull/561) - 2026-08-13
 * [Commit] [feat(pubkeys): add getPubkeyBytes binding (#555)](https://github.com/ChainSafe/lodestar-z/commit/4ca51cf972ab0e1665e014afc7950a2edc85303c) - 2026-08-13
+* [Review] [Review on: perf(bls): add cache-aware signature verifier](https://github.com/ChainSafe/lodestar-z/pull/562#pullrequestreview-4937709649) - 2026-08-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

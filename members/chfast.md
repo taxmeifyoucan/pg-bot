@@ -173,6 +173,17 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [crypto: Move evmmax into evmone::crypto](https://github.com/ipsilon/evmone/pull/1652) - 2026-08-13
 * [Commit] [crypto: Keep the trimmed exponent bytes in a span (#1654)](https://github.com/ipsilon/evmone/commit/25551f0dd4e7bd6ddd90c96a337a4b55bb3c18ad) - 2026-08-13
 * [Commit] [crypto: Move evmmax into evmone::crypto (#1652)](https://github.com/ipsilon/evmone/commit/2e86dd080b1bf667605613bcaf83b1fdc7d0024c) - 2026-08-13
+* [Pull Request] [build: Fetch google/benchmark instead of using Hunter](https://github.com/ipsilon/evmone/pull/1661) - 2026-08-14
+* [Pull Request] [crypto: Extract the representation-independent modular operations](https://github.com/ipsilon/evmone/pull/1659) - 2026-08-14
+* [Pull Request] [build: Require CMake 3.25](https://github.com/ipsilon/evmone/pull/1660) - 2026-08-14
+* [Review] [Review on: ci: Add CodSpeed continuous benchmarking](https://github.com/ipsilon/evmone/pull/1653#pullrequestreview-4940005403) - 2026-08-14
+* [Pull Request] [crypto: Rename modinv to modinv_pow2](https://github.com/ipsilon/evmone/pull/1657) - 2026-08-14
+* [Pull Request] [test: Register the precompile benchmarks uniformly](https://github.com/ipsilon/evmone/pull/1658) - 2026-08-14
+* [Pull Request] [build: Upgrade googletest to v1.18.0](https://github.com/ipsilon/evmone/pull/1656) - 2026-08-14
+* [Commit] [build: Require CMake 3.25 (#1660)](https://github.com/ipsilon/evmone/commit/bda7c31ca078feb1dc051a04a6a3c108d285bccb) - 2026-08-14
+* [Commit] [crypto: Rename modinv to modinv_pow2 (#1657)](https://github.com/ipsilon/evmone/commit/44f18f824692a872e5a40f8ffd05310511f2b523) - 2026-08-14
+* [Commit] [test: Register the precompile benchmarks uniformly (#1658)](https://github.com/ipsilon/evmone/commit/fce32b25229562a8e9b598672ae78ad039fca603) - 2026-08-14
+* [Commit] [build: Upgrade googletest to v1.18.0 (#1656)](https://github.com/ipsilon/evmone/commit/81270e0e29fd181e0e74351ce78b67c714690aaa) - 2026-08-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

@@ -312,6 +312,27 @@ Team: Reth
 * [Commit] [refactor(txpool): return iterators from txs_by_sender accessors (#26681)](https://github.com/paradigmxyz/reth/commit/b5c38a7ef7aacf43df9c98419b04b58576e17447) - 2026-08-13
 * [Commit] [fix(txpool): include blob pool in queued transactions (#26679)](https://github.com/paradigmxyz/reth/commit/130ee0080a8ed115dcd3e527fe079d736e2a0768) - 2026-08-13
 * [Commit] [feat(engine): add inclusion list rpc stub (#26682)](https://github.com/paradigmxyz/reth/commit/6456156e97c032e89a85af9d3dd25ef50c7309a2) - 2026-08-13
+* [Pull Request] [fix(engine): derive precise validation errors for BAL path failures](https://github.com/paradigmxyz/reth/pull/26723) - 2026-08-14
+* [Pull Request] [fix(engine): adjudicate speculative BAL worker failures in transaction order](https://github.com/paradigmxyz/reth/pull/26721) - 2026-08-14
+* [Pull Request] [fix(engine): validate forkchoice state before committing new head](https://github.com/paradigmxyz/reth/pull/26722) - 2026-08-14
+* [Pull Request] [fix(engine): re-execute speculative BAL failures canonically in the ordered commit loop](https://github.com/paradigmxyz/reth/pull/26720) - 2026-08-14
+* [Pull Request] [fix(engine): enforce state-gas admission on the BAL execution path](https://github.com/paradigmxyz/reth/pull/26719) - 2026-08-14
+* [Pull Request] [fix(engine): enforce state-gas admission on the BAL execution path](https://github.com/paradigmxyz/reth/pull/26718) - 2026-08-14
+* [Pull Request] [fix(engine): enforce Bogota fork timeframe in engine method validation](https://github.com/paradigmxyz/reth/pull/26711) - 2026-08-14
+* [Review] [Review on: fix(engine): enforce Bogota fork timeframe in engine method validation](https://github.com/paradigmxyz/reth/pull/26711#pullrequestreview-4940259477) - 2026-08-14
+* [Review] [Review on: feat(engine): add Bogota Engine API method bodies](https://github.com/paradigmxyz/reth/pull/26706#pullrequestreview-4938357904) - 2026-08-14
+* [Pull Request] [fix(engine): keep messages responsive during pending handoff](https://github.com/paradigmxyz/reth/pull/26708) - 2026-08-14
+* [Review] [Review on: fix(engine): keep messages responsive during pending handoff](https://github.com/paradigmxyz/reth/pull/26708#pullrequestreview-4939025229) - 2026-08-14
+* [Review] [Review on: fix(engine): reject undecodable block access list bytes as invalid params](https://github.com/paradigmxyz/reth/pull/26694#pullrequestreview-4938640130) - 2026-08-14
+* [Pull Request] [fix(rpc): add Amsterdam system contracts to eth_config](https://github.com/paradigmxyz/reth/pull/26705) - 2026-08-14
+* [Review] [Review on: docs(engine): clarify BlockStatus::Valid does not imply canonical](https://github.com/paradigmxyz/reth/pull/26688#pullrequestreview-4933252751) - 2026-08-14
+* [Issue] [Bogota Engine API methods lack fork timeframe validation (newPayloadV6 / forkchoiceUpdatedV5)](https://github.com/paradigmxyz/reth/issues/26709) - 2026-08-14
+* [Issue] [Pending persisted handoff can be starved by replacement payload jobs](https://github.com/paradigmxyz/reth/issues/26710) - 2026-08-14
+* [Commit] [fix(engine): enforce Bogota fork timeframe in engine method validation (#26711)](https://github.com/paradigmxyz/reth/commit/2e5f4c09dbeb0a725d753fe23484f6f7f91b37c2) - 2026-08-14
+* [Commit] [fix(engine): keep messages responsive during pending handoff (#26708)](https://github.com/paradigmxyz/reth/commit/90ea46d0665408804e5fa24c6f05e06c09b232bb) - 2026-08-14
+* [Commit] [perf(engine): reuse scratch buffer for BAL hash encoding (#26701)](https://github.com/paradigmxyz/reth/commit/3e0847e1f688c4a7cae6460fd23c0896df39301e) - 2026-08-14
+* [Commit] [fix(rpc): add Amsterdam system contracts to eth_config (#26705)](https://github.com/paradigmxyz/reth/commit/1bd905027e45752cdb60a82560e1f69eee58264e) - 2026-08-14
+* [Commit] [fix(engine): stop prewarm workers on terminate signal (#26703)](https://github.com/paradigmxyz/reth/commit/c6e4cbf207f0d07931f4d3204eb4ad490f257831) - 2026-08-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -321,6 +342,9 @@ Team: Reth
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8070: clarify RLP empty-list encoding](https://github.com/ethereum/EIPs/pull/12079) - 2026-08-04
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [fix(consume): add missing reth exception mapper entries](https://github.com/ethereum/execution-specs/pull/3380) - 2026-08-14
 ## Q2 2026
 
 

@@ -86,6 +86,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl: preserve expanded Gloas lifecycle hardening](https://github.com/erigontech/erigon/pull/23249) - 2026-08-13
 * [Pull Request] [[r3.6] cl/p2p: accept Chiado libp2p bootstrap nodes](https://github.com/erigontech/erigon/pull/23245) - 2026-08-13
 * [Commit] [cl/p2p: accept Chiado libp2p bootstrap nodes (#23243)](https://github.com/erigontech/erigon/commit/64af074a1802e6cd94eba149dcc23a30caf7e4bc) - 2026-08-13
+* [Review] [Review on: execution, cl/phase1: stop discarding a payload that is already built](https://github.com/erigontech/erigon/pull/23289#pullrequestreview-4939837419) - 2026-08-14
+* [Review] [Review on: cl/beacon: report a failing payload poll once, and an unregistered fee recipient at all](https://github.com/erigontech/erigon/pull/23274#pullrequestreview-4936008366) - 2026-08-14
+* [Review] [Review on: execution: key builders by payload timestamp and give them a lifecycle](https://github.com/erigontech/erigon/pull/23272#pullrequestreview-4935819193) - 2026-08-14
+* [Review] [Review on: cl: reuse one converter between consensus and execution withdrawals](https://github.com/erigontech/erigon/pull/23271#pullrequestreview-4935775727) - 2026-08-14
+* [Review] [Review on: cl/phase1, execution: give the execution module a typed busy signal and the caller's context](https://github.com/erigontech/erigon/pull/23273#pullrequestreview-4935870016) - 2026-08-14
 ## Q2 2026
 
 

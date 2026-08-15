@@ -20,6 +20,8 @@ Team: Robust Incentives Group (RIG)
 * [Pull Request] [Update EIP-8372](https://github.com/ethereum/EIPs/pull/12159) - 2026-08-13
 * [Pull Request] [Minor fix](https://github.com/ethereum/EIPs/pull/12158) - 2026-08-13
 * [Commit] [Update EIP-8372: Minor fix](https://github.com/ethereum/EIPs/commit/4742786332d1c2dfc7d725a95292f8bdf11ff9c7) - 2026-08-13
+* [Pull Request] [Update EIP-7999: Update EIP-7999](https://github.com/ethereum/EIPs/pull/12170) - 2026-08-14
+* [Commit] [Update EIP-7999: Update EIP-7999](https://github.com/ethereum/EIPs/commit/6eae017eeae28e5f3c157885cbb689117c91008b) - 2026-08-14
 ## Q1 2026
 
 

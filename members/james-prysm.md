@@ -140,6 +140,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Support SSZ request body for `POST /eth/v2/validator/aggregate_and_proofs`](https://github.com/OffchainLabs/prysm/pull/17318#pullrequestreview-4931474034) - 2026-08-13
 * [Review] [Review on: REST VC: Native support for JSON fallback when `POST` SSZ fails from REST handler](https://github.com/OffchainLabs/prysm/pull/17256#pullrequestreview-4931274061) - 2026-08-13
 * [Review] [Review on: Dedup (un)marshal methods in `validator/client/iface/validator_client.go`](https://github.com/OffchainLabs/prysm/pull/17340#pullrequestreview-4928955980) - 2026-08-13
+* [Pull Request] [adding payload value query parameter](https://github.com/OffchainLabs/prysm/pull/17362) - 2026-08-14
+* [Review] [Review on: Reject gossip blocks whose slot is not higher than their parent's](https://github.com/OffchainLabs/prysm/pull/17352#pullrequestreview-4933234913) - 2026-08-14
+* [Commit] [adding payload value query parameter (#17362)](https://github.com/OffchainLabs/prysm/commit/f55261c15390e81c7a6f4c427935eb2ef988a657) - 2026-08-14
 ## Q2 2026
 
 

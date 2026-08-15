@@ -438,6 +438,28 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [execution: FCU can publish uncommitted state changes to RPC caches](https://github.com/erigontech/erigon/issues/23240) - 2026-08-13
 * [Commit] [execution/cache: prevent dead-fork StateCache fills across unwind (#23005)](https://github.com/erigontech/erigon/commit/f7a391601a5b009c87a19d39a1475d32b63f1de1) - 2026-08-13
 * [Commit] [execution/execmodule: propagate canonicality lookup errors (#23227)](https://github.com/erigontech/erigon/commit/578698e2c4b95845e3745a2a1df9e4f6b9173a95) - 2026-08-13
+* [Pull Request] [cl/forkchoice: defer Fulu blocks with unavailable columns](https://github.com/erigontech/erigon/pull/23292) - 2026-08-14
+* [Review] [Review on: execution, cl/phase1: stop discarding a payload that is already built](https://github.com/erigontech/erigon/pull/23289#pullrequestreview-4937544683) - 2026-08-14
+* [Review] [Review on: cl/beacon: resolve payload withdrawals in one place](https://github.com/erigontech/erigon/pull/23280#pullrequestreview-4937686248) - 2026-08-14
+* [Pull Request] [go.mod: update libsecp256k1 to v0.8.0](https://github.com/erigontech/erigon/pull/23291) - 2026-08-14
+* [Pull Request] [[r3.6] txnprovider/txpool: reject trailing bytes after blob tx wrapper](https://github.com/erigontech/erigon/pull/23297) - 2026-08-14
+* [Pull Request] [execution/builder: keep payload commitment on the builder snapshot](https://github.com/erigontech/erigon/pull/23301) - 2026-08-14
+* [Review] [Review on: cl/beacon: report a failing payload poll once, and an unregistered fee recipient at all](https://github.com/erigontech/erigon/pull/23274#pullrequestreview-4936086643) - 2026-08-14
+* [Review] [Review on: execution: key builders by payload timestamp and give them a lifecycle](https://github.com/erigontech/erigon/pull/23272#pullrequestreview-4935915603) - 2026-08-14
+* [Pull Request] [txnprovider/txpool: reject trailing bytes after blob tx wrapper](https://github.com/erigontech/erigon/pull/23295) - 2026-08-14
+* [Review] [Review on: rpc: fix eth_getFilterLogs to match eth_getLogs with same criteria](https://github.com/erigontech/erigon/pull/23296#pullrequestreview-4937811615) - 2026-08-14
+* [Review] [Review on: ci(docs): gate the docs deploy on DOCS_DEPLOY_BRANCH](https://github.com/erigontech/erigon/pull/23285#pullrequestreview-4937670801) - 2026-08-14
+* [Review] [Review on: docs(site): forward-port version resolution and retarget docs automation](https://github.com/erigontech/erigon/pull/23284#pullrequestreview-4937579661) - 2026-08-14
+* [Pull Request] [execution/stagedsync: don't stream account removal for nil unwind diffs](https://github.com/erigontech/erigon/pull/23298) - 2026-08-14
+* [Pull Request] [txnprovider/txpool: limit delegated sender transactions](https://github.com/erigontech/erigon/pull/23294) - 2026-08-14
+* [Review] [Review on: docs(site): prepare release/3.6 to become the docs deploy branch](https://github.com/erigontech/erigon/pull/23283#pullrequestreview-4936725650) - 2026-08-14
+* [Pull Request] [db/downloader: disable uTP to prevent peer-triggered abort](https://github.com/erigontech/erigon/pull/23293) - 2026-08-14
+* [Review] [Review on: [r3.6] execution/stagedsync: avoid quadratic held-back retry reinsertion](https://github.com/erigontech/erigon/pull/23278#pullrequestreview-4936381397) - 2026-08-14
+* [Pull Request] [ci: retry Kurtosis CLI installation](https://github.com/erigontech/erigon/pull/23288) - 2026-08-14
+* [Pull Request] [.github/actions: retry Go module downloads](https://github.com/erigontech/erigon/pull/23282) - 2026-08-14
+* [Review] [Review on: execution/vm: memoize InternAddress by stack word in a per-EVM cache](https://github.com/erigontech/erigon/pull/22900#pullrequestreview-4936274960) - 2026-08-14
+* [Commit] [go.mod: update libsecp256k1 to v0.8.0 (#23291)](https://github.com/erigontech/erigon/commit/f51dd5d3edfd6ad78a6baee45bf1998a32d115e6) - 2026-08-14
+* [Commit] [txnprovider/txpool: reject trailing bytes after blob tx wrapper (#23295)](https://github.com/erigontech/erigon/commit/2583896e31639f850e740ea6eed92013e5000569) - 2026-08-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

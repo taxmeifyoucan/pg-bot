@@ -272,6 +272,13 @@ Team: Erigon
 * [Issue] [parallel exec: an invalidated destruct's Estimate BalancePath cell lets calcFees delete a live coinbase](https://github.com/erigontech/erigon/issues/23232) - 2026-08-13
 * [Commit] [db/state: merge commitment shards during the rebuild (#23259)](https://github.com/erigontech/erigon/commit/886a45013aa7a897810968ee09381d759e68bc9a) - 2026-08-14
 * [Commit] [execution/commitment/trie: remove unused hack.go (#23256)](https://github.com/erigontech/erigon/commit/2b35ffd1d270dbce3233baf03ab7f6fbff442439) - 2026-08-13
+* [Pull Request] [execution/commitment: never close w.work, fix warmuper shutdown races](https://github.com/erigontech/erigon/pull/23266) - 2026-08-14
+* [Pull Request] [execution/commitment: reuse deferred-update pool buffers instead of cloning them](https://github.com/erigontech/erigon/pull/23265) - 2026-08-14
+* [Review] [Review on: execution/commitment: reuse deferred-update pool buffers instead of cloning them](https://github.com/erigontech/erigon/pull/23265#pullrequestreview-4933697032) - 2026-08-14
+* [Pull Request] [execution/commitment: cut comment bloat, keep only what the code can't say](https://github.com/erigontech/erigon/pull/23269) - 2026-08-14
+* [Commit] [execution/commitment: cut comment bloat, keep only what the code can't say (#23269)](https://github.com/erigontech/erigon/commit/7ad2ba1219972f0a39fa155e57541f757c561106) - 2026-08-14
+* [Commit] [execution/commitment: drop a dead store, an unused accessor, and a per-call scratch buffer (#23263)](https://github.com/erigontech/erigon/commit/1fa4090e26a989d827d9b1da99b5d707f70f60a6) - 2026-08-14
+* [Commit] [execution/commitment: reuse a scratch buffer for HexToCompact on the fold path (#23264)](https://github.com/erigontech/erigon/commit/ed949e117ebf919e99d3bc06c5622c89b4c62f14) - 2026-08-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

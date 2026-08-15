@@ -853,6 +853,23 @@ Team: Erigon
 * [Commit] [execution/commitment: bound keysCount in Fuzz_ProcessUpdates_ArbitraryUpdateCount2 (#23234)](https://github.com/erigontech/erigon/commit/7f86d46b6ca9691ca41ba6c1207e88b273c74c62) - 2026-08-13
 * [Commit] [execution, cl, common/math: fix unchecked integer overflows on untrusted input (#23192)](https://github.com/erigontech/erigon/commit/3a8f182db1799ca1b9c1f5702fdba51e4dd0e678) - 2026-08-13
 * [Commit] [db/seg: reclaim Compressor pattern workers in Close (#23233)](https://github.com/erigontech/erigon/commit/5edc6c19f383d705b9827ed17d55c0316c224634) - 2026-08-13
+* [Review] [Review on: execution/commitment: never close w.work, fix warmuper shutdown races](https://github.com/erigontech/erigon/pull/23266#pullrequestreview-4936589357) - 2026-08-14
+* [Review] [Review on: go.mod: update libsecp256k1 to v0.8.0](https://github.com/erigontech/erigon/pull/23291#pullrequestreview-4936792451) - 2026-08-14
+* [Pull Request] [`go test ./...` compiles many pkgs twice](https://github.com/erigontech/erigon/pull/23281) - 2026-08-14
+* [Review] [Review on: txnprovider/txpool: limit delegated sender transactions](https://github.com/erigontech/erigon/pull/23294#pullrequestreview-4936824486) - 2026-08-14
+* [Review] [Review on: rpc: fix eth_feeHistory panics for finalized/safe block markers](https://github.com/erigontech/erigon/pull/23290#pullrequestreview-4936795944) - 2026-08-14
+* [Pull Request] [`memdb` and `mdbxtest` pkgs merged in 1](https://github.com/erigontech/erigon/pull/23286) - 2026-08-14
+* [Review] [Review on: execution: move GetValSize to kv.TemporalTx interface](https://github.com/erigontech/erigon/pull/23287#pullrequestreview-4936616282) - 2026-08-14
+* [Review] [Review on: execution/commitment: cut comment bloat, keep only what the code can't say](https://github.com/erigontech/erigon/pull/23269#pullrequestreview-4936586839) - 2026-08-14
+* [Review] [Review on: execution: optimise extcodesize cold reads](https://github.com/erigontech/erigon/pull/23276#pullrequestreview-4936046812) - 2026-08-14
+* [Pull Request] [`cmd/erigon` pkg avoid import `testing` pkg](https://github.com/erigontech/erigon/pull/23270) - 2026-08-14
+* [Review] [Review on: `cmd/erigon` pkg avoid import `testing` pkg](https://github.com/erigontech/erigon/pull/23270#pullrequestreview-4936002174) - 2026-08-14
+* [Review] [Review on: [r3.6] execution/state: make BlockStateCache committed storage reads lock-free](https://github.com/erigontech/erigon/pull/23277#pullrequestreview-4935988353) - 2026-08-14
+* [Review] [Review on: execution/stagedsync: avoid quadratic held-back retry reinsertion](https://github.com/erigontech/erigon/pull/23236#pullrequestreview-4935083789) - 2026-08-14
+* [Commit] [`memdb` and `mdbxtest` pkgs merged in 1 (#23286)](https://github.com/erigontech/erigon/commit/a8771b73b0ce3ea9163ac2cc490f689cc4ba0f0f) - 2026-08-14
+* [Commit] [`cmd/erigon` pkg avoid import `testing` pkg (#23270)](https://github.com/erigontech/erigon/commit/bfe37bec41714fcc8d8769c262daeb54ee492d9d) - 2026-08-14
+* [Commit] [deps: update x/*, grpc, protobuf, mcp-go, roaring, kong (#23267)](https://github.com/erigontech/erigon/commit/ffd4b7acb5df9a0ec70e7666093b1ae101a426a1) - 2026-08-14
+* [Commit] [deps: update gnark-crypto to v0.21.0 (#23268)](https://github.com/erigontech/erigon/commit/f38087d231ed1047bea1db5cfeaa53cddc4a6d31) - 2026-08-14
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

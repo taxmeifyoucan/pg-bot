@@ -70,6 +70,10 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Integrate optimistic sync specs into core specs](https://github.com/ethereum/consensus-specs/pull/5529#pullrequestreview-4914380309) - 2026-08-12
 * [Review] [Review on: Remove unnecessary "Modifications in X" sections](https://github.com/ethereum/consensus-specs/pull/5532#pullrequestreview-4914295169) - 2026-08-12
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4925246603) - 2026-08-13
+* [Pull Request] [Change IL store's keys to (slot, dependent root)](https://github.com/ethereum/consensus-specs/pull/5544) - 2026-08-14
+* [Review] [Review on: Change IL store's keys to (slot, dependent root)](https://github.com/ethereum/consensus-specs/pull/5544#pullrequestreview-4938897777) - 2026-08-14
+* [Review] [Review on: Add casts to uint operations with different types](https://github.com/ethereum/consensus-specs/pull/5527#pullrequestreview-4937899100) - 2026-08-14
+* [Review] [Review on: Use FCR store in `get_safe_execution_block_hash` call](https://github.com/ethereum/consensus-specs/pull/5542#pullrequestreview-4934795534) - 2026-08-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
@@ -84,6 +88,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/pull/12029) - 2026-07-29
 * [Commit] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/commit/cff8e93347c8f6c5f30d5ae7e8875406f71179de) - 2026-07-29
 
+* [Pull Request] [Update EIP-8333: add helper to handle fork transition](https://github.com/ethereum/EIPs/pull/12172) - 2026-08-14
+* [Commit] [Update EIP-8333: add helper to handle fork transition](https://github.com/ethereum/EIPs/commit/3b82eabe076be68b6425f3973b1dc9a176cacd1c) - 2026-08-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [FOCIL Breakout #39, August 4, 2026](https://github.com/ethereum/pm/issues/2179) - 2026-08-03
 ## Q2 2026

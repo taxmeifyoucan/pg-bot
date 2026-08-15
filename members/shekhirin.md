@@ -51,6 +51,12 @@ Team: Reth
 * [Pull Request] [chore: expose blob cell availability on pooled transactions](https://github.com/paradigmxyz/reth/pull/26642) - 2026-08-11
 * [Commit] [chore: expose blob cell availability on pooled transactions (#26642)](https://github.com/paradigmxyz/reth/commit/199387a02e0eeaab183cb602b47b391dcb616f8e) - 2026-08-11
 * [Review] [Review on: refactor(txpool): return iterators from txs_by_sender accessors](https://github.com/paradigmxyz/reth/pull/26681#pullrequestreview-4927192098) - 2026-08-13
+* [Review] [Review on: fix(engine): keep messages responsive during pending handoff](https://github.com/paradigmxyz/reth/pull/26708#pullrequestreview-4938587260) - 2026-08-14
+* [Review] [Review on: fix(engine): reject undecodable block access list bytes as invalid params](https://github.com/paradigmxyz/reth/pull/26694#pullrequestreview-4938713877) - 2026-08-14
+* [Review] [Review on: perf(engine): reuse scratch buffer for BAL hash encoding](https://github.com/paradigmxyz/reth/pull/26701#pullrequestreview-4938398450) - 2026-08-14
+* [Pull Request] [fix(trie): construct witness from depth-first ordered nodes](https://github.com/paradigmxyz/reth/pull/26707) - 2026-08-14
+* [Review] [Review on: fix(rpc): add Amsterdam system contracts to eth_config](https://github.com/paradigmxyz/reth/pull/26705#pullrequestreview-4936881795) - 2026-08-14
+* [Commit] [fix(trie): construct witness from depth-first ordered nodes (#26707)](https://github.com/paradigmxyz/reth/commit/bbdaad9a157c69a2099674569af6d384e921a558) - 2026-08-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

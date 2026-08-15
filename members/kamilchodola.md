@@ -114,6 +114,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf: accelerate EVM word byte swap on ARM64](https://github.com/NethermindEth/nethermind/pull/12798) - 2026-08-13
 * [Review] [Review on: perf: accelerate EVM word byte swap on ARM64](https://github.com/NethermindEth/nethermind/pull/12798#pullrequestreview-4928189570) - 2026-08-13
 * [Commit] [perf(rpc): cut eth_call overhead in memory, code stream, and tx parse (#12716)](https://github.com/NethermindEth/nethermind/commit/4b0d9a29533740916f631998b0ea0729f76f9251) - 2026-08-13
+* [Pull Request] [ci: don't cancel in-progress sync-master-validation runs](https://github.com/NethermindEth/nethermind/pull/12817) - 2026-08-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

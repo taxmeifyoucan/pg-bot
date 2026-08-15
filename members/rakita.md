@@ -48,6 +48,11 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [feat(revme): validate receipt trie root in blockchain tests (#3841)](https://github.com/bluealloy/revm/commit/c9bcb97232d62e2061a53fd06ba4315ce0949fdf) - 2026-08-05
 * [Pull Request] [feat: glamsterdam devnet-8 gas repricing](https://github.com/bluealloy/revm/pull/3850) - 2026-08-10
 * [Commit] [feat: glamsterdam devnet-8 gas repricing (#3850)](https://github.com/bluealloy/revm/commit/45f05bd88fd09e32ea43cf5e94190759ea6ace7c) - 2026-08-13
+* [Pull Request] [bench(precompile): port benchmarkoor bls12-381 benches from #3766](https://github.com/bluealloy/revm/pull/3858) - 2026-08-14
+* [Pull Request] [chore: remove duplicate Amsterdam gas overrides and dead CPSB constants](https://github.com/bluealloy/revm/pull/3857) - 2026-08-14
+* [Commit] [bench(precompile): port benchmarkoor bls12-381 benches from #3766 (#3858)](https://github.com/bluealloy/revm/commit/3064c0901ce83a755f920f9c7749d0fec0ad7e67) - 2026-08-14
+* [Commit] [fix: check call depth in CREATE pre-access checks (EIP-8037) (#3829)](https://github.com/bluealloy/revm/commit/9cf5c535a5919bf84f2282f4c3cd116299a5e060) - 2026-08-14
+* [Commit] [chore: remove duplicate Amsterdam gas overrides and dead CPSB constants (#3857)](https://github.com/bluealloy/revm/commit/fac897fee1cb9989efbedc05fbac85094d762f5f) - 2026-08-14
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02

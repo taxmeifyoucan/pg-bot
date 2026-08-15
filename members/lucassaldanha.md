@@ -59,6 +59,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Fix state-root lookup returning 404 in prune/minimal storage mode](https://github.com/Consensys/teku/pull/11087#pullrequestreview-4922821730) - 2026-08-13
 * [Commit] [Only write Gradle cache entries from master (#11098)](https://github.com/Consensys/teku/commit/39e643450afae497fcc9be206922899a295a54a3) - 2026-08-13
 * [Commit] [Remove BouncyCastle dependency update restriction (#11092)](https://github.com/Consensys/teku/commit/46afbab7512de9842fd02aa7a02c16353114f13c) - 2026-08-13
+* [Review] [Review on: Update github/codeql-action digest to ff2f1c6](https://github.com/Consensys/teku/pull/11101#pullrequestreview-4933837217) - 2026-08-14
+* [Review] [Review on: [Chore] Ignore deprecated networking and Ephemery config keys](https://github.com/Consensys/teku/pull/11100#pullrequestreview-4933565434) - 2026-08-14
+* [Review] [Review on: Downgrade beaconNodeEventStreamConnectionError to debug](https://github.com/Consensys/teku/pull/11090#pullrequestreview-4933228447) - 2026-08-14
 ## Q2 2026
 
 

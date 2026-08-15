@@ -91,6 +91,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: Fix flaky tests (`TestRetry_On_ConnectionError` & `Test_pruneAttsFromPool_Electra`)](https://github.com/OffchainLabs/prysm/pull/17349#pullrequestreview-4926795606) - 2026-08-13
 * [Commit] [Add the `--disable-graffiti-client-append` flag. (#17341)](https://github.com/OffchainLabs/prysm/commit/bc30e39d8c34a5dc2d08ac6688f47a34c188052c) - 2026-08-13
 * [Commit] [Remove Bazel: Phase 3/9 - Part 2 (#17134)](https://github.com/OffchainLabs/prysm/commit/68b761d84401b2b652e09a9e4915a8b884bd8841) - 2026-08-13
+* [Review] [Review on: prefer subtests in agents.md](https://github.com/OffchainLabs/prysm/pull/17360#pullrequestreview-4937632210) - 2026-08-14
+* [Pull Request] [Add missing values in `/eth/v1/config/spec`.](https://github.com/OffchainLabs/prysm/pull/17357) - 2026-08-14
+* [Review] [Review on: `make gen` generates the per-package `log.go` files.](https://github.com/OffchainLabs/prysm/pull/17342#pullrequestreview-4937125573) - 2026-08-14
+* [Pull Request] [Remove Bazel: Phase 5/9](https://github.com/OffchainLabs/prysm/pull/17356) - 2026-08-14
+* [Commit] [Add missing values in `/eth/v1/config/spec`. (#17357)](https://github.com/OffchainLabs/prysm/commit/a82c633a2ddd640addde25b345602e8747364b30) - 2026-08-14
+* [Commit] [`make gen` generates the per-package `log.go` files. (#17342)](https://github.com/OffchainLabs/prysm/commit/423a4b6119baff10e6604d52da847124bc8081d0) - 2026-08-14
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 

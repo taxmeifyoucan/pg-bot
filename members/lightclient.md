@@ -58,6 +58,10 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: note that a frame receipt carries no transaction-level status](https://github.com/ethereum/EIPs/pull/12061#pullrequestreview-4916922576) - 2026-08-12
 * [Review] [Review on: Update EIP-8261: Move to Review](https://github.com/ethereum/EIPs/pull/12164#pullrequestreview-4932016074) - 2026-08-13
 * [Commit] [Update EIP-8141: Add explicit second dimension for state gas to frames (#12062)](https://github.com/ethereum/EIPs/commit/328527d97aabd5993402a57141f85e7cafd0138a) - 2026-08-13
+* [Review] [Review on: Update EIP-8141: statically disallow approval scope on atomic-batch frames](https://github.com/ethereum/EIPs/pull/12109#pullrequestreview-4941115408) - 2026-08-14
+* [Review] [Review on: Update EIP-8141: specify block inclusion gating and payer solvency](https://github.com/ethereum/EIPs/pull/12091#pullrequestreview-4936987322) - 2026-08-14
+* [Review] [Review on: Update EIP-8141: note that a frame receipt carries no transaction-level status](https://github.com/ethereum/EIPs/pull/12061#pullrequestreview-4937467787) - 2026-08-14
+* [Review] [Review on: Update EIP-8141: clarify floor repricing, signature validation, and frame.value gas](https://github.com/ethereum/EIPs/pull/12026#pullrequestreview-4937361891) - 2026-08-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

@@ -153,6 +153,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Update EIP-7906: specify EIP-7928 recording of TXDIFF state reads](https://github.com/ethereum/EIPs/commit/5d4e0e613cdedc30733db6f382c47379ebb5c31c) - 2026-08-10
 * [Commit] [Update EIP-7906: specify handling of reserved `must be 0` inputs](https://github.com/ethereum/EIPs/commit/bf6b73a8cd122c70ff2404b9483107f37396210e) - 2026-08-10
 * [Pull Request] [Update EIP-8141: dispatch a precompile targeted by a SENDER or DEFAULT frame](https://github.com/ethereum/EIPs/pull/12157) - 2026-08-13
+* [Pull Request] [Update EIP-8141: relax banned opcode list](https://github.com/ethereum/EIPs/pull/12167) - 2026-08-14
+* [Pull Request] [Update EIP-8141: Restrict SIGPARAM signer introspection to accounts with empty or delegated code](https://github.com/ethereum/EIPs/pull/12168) - 2026-08-14
+* [Pull Request] [Update EIP-8151: State the revoked-key invariant](https://github.com/ethereum/EIPs/pull/12169) - 2026-08-14
+* [Commit] [Update EIP-8141: statically disallow approval scope on atomic-batch frames (#12109)](https://github.com/ethereum/EIPs/commit/9c915ee494c05069945f4e1018fa0854e2d3fb38) - 2026-08-14
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 * [Commit] [feat(tests): add EIP-8037 spill-refund accounting coverage (#3158)](https://github.com/ethereum/execution-specs/commit/610cd779baff95f99c85442dd2fa8cc8146260b2) - 2026-07-30

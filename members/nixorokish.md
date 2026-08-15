@@ -56,6 +56,9 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Pull Request] [CI: delete duplicate jekyll build](https://github.com/ethereum/EIPs/pull/12165) - 2026-08-13
 * [Pull Request] [Update EIP-7773: Add EIP-8261 to Informational EIPs list](https://github.com/ethereum/EIPs/pull/12163) - 2026-08-13
 * [Commit] [Update EIP-7773: Add EIP-8261 to Informational EIPs list](https://github.com/ethereum/EIPs/commit/0287194c3065066d61d59fcc268aab2e9f5f8239) - 2026-08-13
+* [Pull Request] [Update EIP-7773: reorder & correct spelling](https://github.com/ethereum/EIPs/pull/12171) - 2026-08-14
+* [Review] [Review on: Update EIP-7773: Use Unicode emoji for mascot](https://github.com/ethereum/EIPs/pull/12152#pullrequestreview-4939248980) - 2026-08-14
+* [Commit] [Update EIP-7773: reorder & correct spelling](https://github.com/ethereum/EIPs/commit/af8bf83df29ae0ff9cfa197c0283e358932e3151) - 2026-08-14
 ## Q2 2026
 
 

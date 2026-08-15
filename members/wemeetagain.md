@@ -29,6 +29,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Update EIP-8282: Move to Review](https://github.com/ethereum/EIPs/pull/12108#pullrequestreview-4864572266) - 2026-08-05
 * [Commit] [Update EIP-8081: Propose EIP-8333 for inclusion](https://github.com/ethereum/EIPs/commit/e18e618c4214bab35c755e7bbd00d7961816e251) - 2026-08-07
 * [Commit] [Update EIP-8282: Cleanup and Tweaks](https://github.com/ethereum/EIPs/commit/2d3c5e59e47103df15e51aafc815ba0b234e3388) - 2026-08-10
+* [Review] [Review on: Update EIP-8333: add helper to handle fork transition](https://github.com/ethereum/EIPs/pull/12172#pullrequestreview-4939748358) - 2026-08-14
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: reuse container nodes in upgradeStateToGloas](https://github.com/ChainSafe/lodestar/pull/9601#pullrequestreview-4639646473) - 2026-07-06
 
@@ -106,6 +107,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: deps: bump discv5 to 12.0.2 and enr to 6.0.2](https://github.com/ChainSafe/lodestar/pull/9810#pullrequestreview-4910044794) - 2026-08-11
 * [Review] [Review on: feat: expose fast confirmation store variables via lodestar API](https://github.com/ChainSafe/lodestar/pull/9803#pullrequestreview-4919826430) - 2026-08-12
 * [Pull Request] [perf: verify BLS signature sets with lodestar-z](https://github.com/ChainSafe/lodestar/pull/9820) - 2026-08-13
+* [Review] [Review on: perf: verify BLS signature sets with lodestar-z](https://github.com/ChainSafe/lodestar/pull/9820#pullrequestreview-4940985505) - 2026-08-14
+* [Review] [Review on: feat: instrument builder onboarding at the gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9828#pullrequestreview-4940151557) - 2026-08-14
+* [Review] [Review on: test: dedupe builder/validator apiStub helpers into @lodestar/test-utils](https://github.com/ChainSafe/lodestar/pull/9826#pullrequestreview-4938501529) - 2026-08-14
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -174,6 +178,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: docs: document security threat model](https://github.com/ChainSafe/lodestar-z/pull/557#pullrequestreview-4928646253) - 2026-08-13
 * [Pull Request] [perf(bls): add cache-aware signature verifier](https://github.com/ChainSafe/lodestar-z/pull/562) - 2026-08-13
 * [Review] [Review on: perf(bls): add cache-aware signature verifier](https://github.com/ChainSafe/lodestar-z/pull/562#pullrequestreview-4928385388) - 2026-08-13
+* [Review] [Review on: perf(bls): add cache-aware signature verifier](https://github.com/ChainSafe/lodestar-z/pull/562#pullrequestreview-4937827549) - 2026-08-14
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026
