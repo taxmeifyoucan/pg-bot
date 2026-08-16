@@ -84,6 +84,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: extend circuit breaker to gloas](https://github.com/status-im/nimbus-eth2/pull/8873#pullrequestreview-4915058820) - 2026-08-12
 * [Review] [Review on: Gloas builder types and auth](https://github.com/status-im/nimbus-eth2/pull/8834#pullrequestreview-4932518171) - 2026-08-13
 * [Review] [Review on: Get all payload attestations in the pool](https://github.com/status-im/nimbus-eth2/pull/8881#pullrequestreview-4941747986) - 2026-08-14
+* [Review] [Review on: implement payload attestations pool endpoints](https://github.com/status-im/nimbus-eth2/pull/8886#pullrequestreview-4944879357) - 2026-08-15
+* [Review] [Review on: Gloas builder types and auth](https://github.com/status-im/nimbus-eth2/pull/8834#pullrequestreview-4944339253) - 2026-08-15
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

@@ -298,6 +298,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [deps: patch @libp2p/tcp to fix network worker shutdown hang (#9825)](https://github.com/ChainSafe/lodestar/commit/92bd4efe9bc88db47fd2d54a77e6b949e86b86b7) - 2026-08-14
 * [Commit] [fix: count canonical FULL and EMPTY blocks in circuit breaker (#9815)](https://github.com/ChainSafe/lodestar/commit/32aed648d27f31b634584dd116c7134a37e4a9bd) - 2026-08-14
 * [Commit] [chore: address builder circuit breaker review follow-ups (#9780)](https://github.com/ChainSafe/lodestar/commit/90204c280d8115237dc8c4750ffdc22b7c712366) - 2026-08-14
+* [Pull Request] [fix: preserve request content length](https://github.com/ChainSafe/lodestar/pull/9834) - 2026-08-15
+* [Pull Request] [feat: implement gloas builder api](https://github.com/ChainSafe/lodestar/pull/9832) - 2026-08-15
+* [Pull Request] [chore: clarify code comment guidance](https://github.com/ChainSafe/lodestar/pull/9833) - 2026-08-15
+* [Pull Request] [fix: prevent builder payment weight double count](https://github.com/ChainSafe/lodestar/pull/9830) - 2026-08-15
+* [Pull Request] [refactor: use Wei type for produce block values](https://github.com/ChainSafe/lodestar/pull/9831) - 2026-08-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -336,6 +341,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4918368979) - 2026-08-12
 * [Review] [Review on: Do not apply proposer boost to equivocated blocks in Gloas](https://github.com/ethereum/consensus-specs/pull/5535#pullrequestreview-4916170860) - 2026-08-12
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4924847305) - 2026-08-13
+* [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543#pullrequestreview-4944712507) - 2026-08-15
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

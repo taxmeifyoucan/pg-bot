@@ -75,6 +75,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [style(fork-choice): use .js extensions in relative imports (#9802)](https://github.com/ChainSafe/lodestar/commit/713b21812905bb34e547ca85d5f630060179da67) - 2026-08-11
 * [Review] [Review on: feat: expose fast confirmation store variables via lodestar API](https://github.com/ChainSafe/lodestar/pull/9803#pullrequestreview-4917383238) - 2026-08-12
 * [Commit] [feat: expose fast confirmation store variables via lodestar API (#9803)](https://github.com/ChainSafe/lodestar/commit/d9c16ea16f3a02e406e53e4e9e5da99e0950c9f7) - 2026-08-12
+* [Pull Request] [feat: use zig backedlodestar-z shuffle](https://github.com/ChainSafe/lodestar/pull/9829) - 2026-08-15
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

@@ -182,6 +182,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Bound parent block fetches from unknown-parent data column sidecars](https://github.com/OffchainLabs/prysm/pull/17353) - 2026-08-14
 * [Pull Request] [Glamsterdam devnet 8](https://github.com/OffchainLabs/prysm/pull/17354) - 2026-08-14
 * [Pull Request] [Reject gossip blocks whose slot is not higher than their parent's](https://github.com/OffchainLabs/prysm/pull/17352) - 2026-08-14
+* [Pull Request] [Fix builder payment weight double-count under target equivocation](https://github.com/OffchainLabs/prysm/pull/17365) - 2026-08-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

@@ -74,6 +74,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Change IL store's keys to (slot, dependent root)](https://github.com/ethereum/consensus-specs/pull/5544#pullrequestreview-4938897777) - 2026-08-14
 * [Review] [Review on: Add casts to uint operations with different types](https://github.com/ethereum/consensus-specs/pull/5527#pullrequestreview-4937899100) - 2026-08-14
 * [Review] [Review on: Use FCR store in `get_safe_execution_block_hash` call](https://github.com/ethereum/consensus-specs/pull/5542#pullrequestreview-4934795534) - 2026-08-14
+* [Review] [Review on: Add casts to uint operations with different types](https://github.com/ethereum/consensus-specs/pull/5527#pullrequestreview-4942765271) - 2026-08-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

@@ -870,6 +870,18 @@ Team: Erigon
 * [Commit] [`cmd/erigon` pkg avoid import `testing` pkg (#23270)](https://github.com/erigontech/erigon/commit/bfe37bec41714fcc8d8769c262daeb54ee492d9d) - 2026-08-14
 * [Commit] [deps: update x/*, grpc, protobuf, mcp-go, roaring, kong (#23267)](https://github.com/erigontech/erigon/commit/ffd4b7acb5df9a0ec70e7666093b1ae101a426a1) - 2026-08-14
 * [Commit] [deps: update gnark-crypto to v0.21.0 (#23268)](https://github.com/erigontech/erigon/commit/f38087d231ed1047bea1db5cfeaa53cddc4a6d31) - 2026-08-14
+* [Review] [Review on: rpc: fix eth_getFilterLogs to match eth_getLogs with same criteria](https://github.com/erigontech/erigon/pull/23296#pullrequestreview-4942544655) - 2026-08-15
+* [Review] [Review on: node, rpc: replace the hand-rolled gzip middleware with klauspost gzhttp](https://github.com/erigontech/erigon/pull/23246#pullrequestreview-4942797976) - 2026-08-15
+* [Review] [Review on: execution/commitment: never close w.work, fix warmuper shutdown races](https://github.com/erigontech/erigon/pull/23266#pullrequestreview-4942586920) - 2026-08-15
+* [Pull Request] [common/mmap: single mapping API (Ro/Rw), drop the in-tree mapper](https://github.com/erigontech/erigon/pull/23311) - 2026-08-15
+* [Pull Request] [mmap: modernize, drop the `*[MaxMapSize]byte` handle, remove `unsafe` use](https://github.com/erigontech/erigon/pull/23310) - 2026-08-15
+* [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.85.4 to 0.86.2](https://github.com/erigontech/erigon/pull/23309#pullrequestreview-4943141719) - 2026-08-15
+* [Review] [Review on: p2p/protocols/eth, execution/rlp: measure EncodeRLP itself, skip alloc assertions under -race](https://github.com/erigontech/erigon/pull/23262#pullrequestreview-4943165456) - 2026-08-15
+* [Pull Request] [chaindata: pageSize 16kb -> 4kb](https://github.com/erigontech/erigon/pull/23304) - 2026-08-15
+* [Review] [Review on: all: enable unused linter](https://github.com/erigontech/erigon/pull/23302#pullrequestreview-4942552259) - 2026-08-15
+* [Review] [Review on: `go test ./...` compiles many pkgs twice](https://github.com/erigontech/erigon/pull/23281#pullrequestreview-4942584343) - 2026-08-15
+* [Review] [Review on: .github: tell a CI-Gate timeout apart from a cancellation](https://github.com/erigontech/erigon/pull/23203#pullrequestreview-4942798997) - 2026-08-15
+* [Commit] [`go test ./...` compiles many pkgs twice (#23281)](https://github.com/erigontech/erigon/commit/b0a9671be5a37b32996db9270ac12e8e3fdd0a39) - 2026-08-15
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

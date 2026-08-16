@@ -279,6 +279,7 @@ Team: Erigon
 * [Commit] [execution/commitment: cut comment bloat, keep only what the code can't say (#23269)](https://github.com/erigontech/erigon/commit/7ad2ba1219972f0a39fa155e57541f757c561106) - 2026-08-14
 * [Commit] [execution/commitment: drop a dead store, an unused accessor, and a per-call scratch buffer (#23263)](https://github.com/erigontech/erigon/commit/1fa4090e26a989d827d9b1da99b5d707f70f60a6) - 2026-08-14
 * [Commit] [execution/commitment: reuse a scratch buffer for HexToCompact on the fold path (#23264)](https://github.com/erigontech/erigon/commit/ed949e117ebf919e99d3bc06c5622c89b4c62f14) - 2026-08-14
+* [Commit] [execution/commitment: never close w.work, fix warmuper shutdown races (#23266)](https://github.com/erigontech/erigon/commit/58aaf61c9ae0c735e42c4e23e03aa81d0d2cfd98) - 2026-08-15
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

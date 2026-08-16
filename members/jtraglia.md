@@ -185,6 +185,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4940342134) - 2026-08-14
 * [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543#pullrequestreview-4938551248) - 2026-08-14
 * [Review] [Review on: Use FCR store in `get_safe_execution_block_hash` call](https://github.com/ethereum/consensus-specs/pull/5542#pullrequestreview-4938337636) - 2026-08-14
+* [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543#pullrequestreview-4944700945) - 2026-08-15
+* [Review] [Review on: Add casts to uint operations with different types](https://github.com/ethereum/consensus-specs/pull/5527#pullrequestreview-4942857145) - 2026-08-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

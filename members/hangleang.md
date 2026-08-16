@@ -47,6 +47,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Publish Gloas beacon block before data column sidecars](https://github.com/grandinetech/grandine/pull/844) - 2026-08-11
 * [Pull Request] [Add Gloas global circuit breaker](https://github.com/grandinetech/grandine/pull/843) - 2026-08-11
 * [Review] [Review on: builder_api: add Gloas Staked Builder API client](https://github.com/grandinetech/grandine/pull/819#pullrequestreview-4926611655) - 2026-08-13
+* [Issue] [Slow EL blocks block proposal, resulting in orphaned block](https://github.com/grandinetech/grandine/issues/848) - 2026-08-15
 ## Q2 2026
 
 

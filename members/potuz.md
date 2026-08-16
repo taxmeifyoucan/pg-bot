@@ -84,6 +84,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Allow epoch boundary reorgs in Gloas](https://github.com/ethereum/consensus-specs/pull/5492) - 2026-07-28
 * [Pull Request] [Allow builders to bid on multiple branches](https://github.com/ethereum/consensus-specs/pull/5497) - 2026-07-30
 * [Commit] [Allow multiple bids compatible with the head view (#5497)](https://github.com/ethereum/consensus-specs/commit/f58c72dd6cb961008874eb9597bd4d4353780be7) - 2026-07-31
+* [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543#pullrequestreview-4943718562) - 2026-08-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629311315) - 2026-07-04
 

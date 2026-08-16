@@ -31,6 +31,7 @@ Team: EthereumJS
 * [Pull Request] [feat(genesis)!: lazy-load chain genesis states in getGenesis](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4353) - 2026-07-23
 * [Commit] [chore(scripts): exclude transitive external deps from bundle-size metric (#4352)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/20f986ca332860801d9d40db8f68ce03afb04bad) - 2026-07-23
 * [Commit] [evm/vm/tx/common: align Amsterdam gas schedule  (#4337)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/b3eed77a8e01c88c997216686eb4b531d226853a) - 2026-07-23
+* [Review] [Review on: fix(util): align BAL validation with numeric storage slot ordering](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4368#pullrequestreview-4944765506) - 2026-08-15
 ## Q2 2026
 
 

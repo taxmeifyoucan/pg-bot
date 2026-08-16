@@ -81,6 +81,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [add MAX_PARTIAL_DATA_COLUMN_SIDECAR_SIZE config parameter](https://github.com/Consensys/teku/pull/11104) - 2026-08-14
 * [Pull Request] [add domain builder deposit to get spec api](https://github.com/Consensys/teku/pull/11105) - 2026-08-14
 * [Issue] [Add plataberget network support](https://github.com/Consensys/teku/issues/11107) - 2026-08-14
+* [Review] [Review on: add support for plataberget network](https://github.com/Consensys/teku/pull/11108#pullrequestreview-4944087358) - 2026-08-15
 ## Q2 2026
 
 

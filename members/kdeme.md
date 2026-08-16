@@ -89,6 +89,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [engine_api: Return INVALID status on newPayload decode failure](https://github.com/status-im/nimbus-eth1/pull/4623) - 2026-08-08
 * [Commit] [engine_api: Return INVALID status on newPayload decode failure (#4623)](https://github.com/status-im/nimbus-eth1/commit/abf34e121b5bd77f2a3310a15e5b69f4e71f44b9) - 2026-08-08
 * [Pull Request] [engine_api: Restore -32602 for undecodable blockAccessList](https://github.com/status-im/nimbus-eth1/pull/4642) - 2026-08-14
+* [Commit] [engine_api: Restore -32602 for undecodable blockAccessList (#4642)](https://github.com/status-im/nimbus-eth1/commit/3498b6a21016874bb069ff9d665e1cf557a6bc1f) - 2026-08-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

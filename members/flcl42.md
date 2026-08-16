@@ -210,6 +210,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Deflake RetryCacheTests.ExpiryQueue_ReleasesStorageAfterCumulativeChurn](https://github.com/NethermindEth/nethermind/pull/12820#pullrequestreview-4938185037) - 2026-08-14
 * [Review] [Review on: test(rlp): pin the frame-transaction envelope against a foreign encoder's vector](https://github.com/NethermindEth/nethermind/pull/12658#pullrequestreview-4936795831) - 2026-08-14
 * [Commit] [Add plataberget testnet configuration (#12807)](https://github.com/NethermindEth/nethermind/commit/41669e3b30e8bd65a254de60e872e5c34da547ab) - 2026-08-14
+* [Review] [Review on: fix(state): omit no-op nonce change from block access list](https://github.com/NethermindEth/nethermind/pull/12830#pullrequestreview-4943680335) - 2026-08-15
+* [Review] [Review on: Reject legacy scalar-nonce frame transaction after EIP-8250](https://github.com/NethermindEth/nethermind/pull/12829#pullrequestreview-4943474851) - 2026-08-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

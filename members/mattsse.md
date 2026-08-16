@@ -333,6 +333,16 @@ Team: Reth
 * [Commit] [perf(engine): reuse scratch buffer for BAL hash encoding (#26701)](https://github.com/paradigmxyz/reth/commit/3e0847e1f688c4a7cae6460fd23c0896df39301e) - 2026-08-14
 * [Commit] [fix(rpc): add Amsterdam system contracts to eth_config (#26705)](https://github.com/paradigmxyz/reth/commit/1bd905027e45752cdb60a82560e1f69eee58264e) - 2026-08-14
 * [Commit] [fix(engine): stop prewarm workers on terminate signal (#26703)](https://github.com/paradigmxyz/reth/commit/c6e4cbf207f0d07931f4d3204eb4ad490f257831) - 2026-08-14
+* [Pull Request] [feat(rpc): implement debug_accountRange, debug_dumpBlock and debug_storageRangeAt](https://github.com/paradigmxyz/reth/pull/26736) - 2026-08-15
+* [Pull Request] [fix(metrics): collect storage metrics off the scrape path](https://github.com/paradigmxyz/reth/pull/26734) - 2026-08-15
+* [Pull Request] [docs(rpc): fix trace_rawTransaction example](https://github.com/paradigmxyz/reth/pull/26735) - 2026-08-15
+* [Review] [Review on: fix(network): bound pooled txn request decode](https://github.com/paradigmxyz/reth/pull/26714#pullrequestreview-4943540217) - 2026-08-15
+* [Review] [Review on: fix(network): bound pooled transaction hash announcement decoding](https://github.com/paradigmxyz/reth/pull/26715#pullrequestreview-4943509798) - 2026-08-15
+* [Review] [Review on: fix(network): bound pooled transaction request handling](https://github.com/paradigmxyz/reth/pull/26717#pullrequestreview-4943499080) - 2026-08-15
+* [Pull Request] [docs(rpc): document trace chain subscription](https://github.com/paradigmxyz/reth/pull/26732) - 2026-08-15
+* [Pull Request] [fix(rpc): report highest known sync block](https://github.com/paradigmxyz/reth/pull/26733) - 2026-08-15
+* [Commit] [docs(rpc): fix trace_rawTransaction example (#26735)](https://github.com/paradigmxyz/reth/commit/5327b68d5b91eaf69cf07a9737d605f562f771c7) - 2026-08-15
+* [Commit] [docs(rpc): document trace chain subscription (#26732)](https://github.com/paradigmxyz/reth/commit/d5bdb687eeb0d3471fe156174e08246bce9662a3) - 2026-08-15
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
