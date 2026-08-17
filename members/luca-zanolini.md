@@ -13,6 +13,7 @@ Team: [Research](https://github.com/luca-zanolini/research)
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543) - 2026-08-14
+* [Commit] [Fix builder payment weight double-count under target equivocation (#5543)](https://github.com/ethereum/consensus-specs/commit/8df397ab123d6c2ba04828c17f3762755bcd897b) - 2026-08-16
 ## Q2 2026
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)

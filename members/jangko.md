@@ -83,6 +83,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [focil devnet 0](https://github.com/status-im/nimbus-eth1/pull/4636) - 2026-08-13
 * [Review] [Review on: Inline evm memory and stack helper functions](https://github.com/status-im/nimbus-eth1/pull/4626#pullrequestreview-4922730261) - 2026-08-13
 * [Pull Request] [fcu handle empty finalizedBlockHash when headBlockHash is not latest](https://github.com/status-im/nimbus-eth1/pull/4635) - 2026-08-13
+* [Commit] [fcu handle empty finalizedBlockHash when headBlockHash is not latest (#4635)](https://github.com/status-im/nimbus-eth1/commit/d0b9de6f6e231e0aabdde33d2853a43a29e04bdd) - 2026-08-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

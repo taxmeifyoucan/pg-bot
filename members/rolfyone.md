@@ -128,6 +128,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Ignore committee_index in attestation data production post-Electra](https://github.com/Consensys/teku/pull/11102) - 2026-08-14
 * [Pull Request] [[Chore] Ignore deprecated networking and Ephemery config keys](https://github.com/Consensys/teku/pull/11100) - 2026-08-14
 * [Commit] [Ignore deprecated networking and Ephemery config keys (#11100)](https://github.com/Consensys/teku/commit/9d8db3b61118e736fe26a0d0099bff41c343968c) - 2026-08-14
+* [Pull Request] [Trigger peer search when sync committee publish has no peers](https://github.com/Consensys/teku/pull/11112) - 2026-08-16
+* [Issue] [Losing peers during Sync committee](https://github.com/Consensys/teku/issues/11110) - 2026-08-16
+* [Commit] [Ignore committee_index in attestation data production post-Electra (#11102)](https://github.com/Consensys/teku/commit/70c16ab2bd4e0a30fc30aa633f1c0352921e18c5) - 2026-08-16
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

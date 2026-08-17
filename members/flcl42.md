@@ -212,6 +212,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Add plataberget testnet configuration (#12807)](https://github.com/NethermindEth/nethermind/commit/41669e3b30e8bd65a254de60e872e5c34da547ab) - 2026-08-14
 * [Review] [Review on: fix(state): omit no-op nonce change from block access list](https://github.com/NethermindEth/nethermind/pull/12830#pullrequestreview-4943680335) - 2026-08-15
 * [Review] [Review on: Reject legacy scalar-nonce frame transaction after EIP-8250](https://github.com/NethermindEth/nethermind/pull/12829#pullrequestreview-4943474851) - 2026-08-15
+* [Review] [Review on: fix(frames): bound unpaid producer-side validation-prefix work with a retry budget](https://github.com/NethermindEth/nethermind/pull/12845#pullrequestreview-4946413912) - 2026-08-16
+* [Review] [Review on: feat(xdc): add the xdc/164 and xdc/165 wire protocols](https://github.com/NethermindEth/nethermind/pull/12814#pullrequestreview-4945941735) - 2026-08-16
+* [Commit] [Allow consensus-only ENRs in discv5 routing (#12613)](https://github.com/NethermindEth/nethermind/commit/7ba40f7a244fd42ebf1de0b0ae72d17b0a35909b) - 2026-08-16
+* [Commit] [Back off idle random-walk discovery once the routing table is full (#12771)](https://github.com/NethermindEth/nethermind/commit/cb43344f9ce3a3a4ed7938e9aa9e46ad72f9c070) - 2026-08-16
+* [Commit] [Expose EIP-8282 builder contracts in eth_config (#12815)](https://github.com/NethermindEth/nethermind/commit/0bbbf58648a639407cb72a2fca4f0f8c159ca02b) - 2026-08-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

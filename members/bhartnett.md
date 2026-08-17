@@ -78,6 +78,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Block access list pruning (#4633)](https://github.com/status-im/nimbus-eth1/commit/c158bf7dead7347fafe4e916d529f7c4281034f8) - 2026-08-13
 * [Commit] [Inline evm memory and stack helper functions (#4626)](https://github.com/status-im/nimbus-eth1/commit/ac06dbf4cb029c75aed4f9ef7468ef07f6271bde) - 2026-08-13
 * [Pull Request] [BAL read feasibility checks](https://github.com/status-im/nimbus-eth1/pull/4641) - 2026-08-14
+* [Pull Request] [Increase stateroot computation flush batch size](https://github.com/status-im/nimbus-eth1/pull/4645) - 2026-08-16
 ## Q2 2026
 
 

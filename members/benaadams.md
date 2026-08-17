@@ -190,6 +190,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix DB size metrics starving under continuous block processing](https://github.com/NethermindEth/nethermind/pull/12763#pullrequestreview-4903961721) - 2026-08-11
 * [Review] [Review on: Flush flat state on shutdown and survive a missing arena on load](https://github.com/NethermindEth/nethermind/pull/12769#pullrequestreview-4905662469) - 2026-08-11
 * [Review] [Review on: fix(flat): stop the trie warmer poisoning reads with a cached Unknown](https://github.com/NethermindEth/nethermind/pull/12793#pullrequestreview-4925855545) - 2026-08-13
+* [Pull Request] [perf(core): tune the AVX-512 Keccak-f[1600] permutation](https://github.com/NethermindEth/nethermind/pull/12844) - 2026-08-16
+* [Review] [Review on: perf(core): tune the AVX-512 Keccak-f[1600] permutation](https://github.com/NethermindEth/nethermind/pull/12844#pullrequestreview-4946185467) - 2026-08-16
+* [Pull Request] [Arm keccak](https://github.com/NethermindEth/nethermind/pull/12843) - 2026-08-16
+* [Commit] [test: give state/evm smoke tests real assertions (#12694)](https://github.com/NethermindEth/nethermind/commit/c35ce1b1abec4aea64dc4e2fd17cd68f0a4b19dc) - 2026-08-16
+* [Commit] [test: add JSON converter golden tests and fix public-key DATA width (#12705)](https://github.com/NethermindEth/nethermind/commit/790430ba90b10b6d25af56cd8fdca4c7e61702a1) - 2026-08-16
+* [Commit] [ci: run orphaned Nethermind test projects in the test matrix (#12689)](https://github.com/NethermindEth/nethermind/commit/f365bf742e1335950b6cb2d82ee1b544849cac9e) - 2026-08-16
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

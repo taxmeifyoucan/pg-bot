@@ -62,6 +62,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: Update github/codeql-action digest to ff2f1c6](https://github.com/Consensys/teku/pull/11101#pullrequestreview-4933837217) - 2026-08-14
 * [Review] [Review on: [Chore] Ignore deprecated networking and Ephemery config keys](https://github.com/Consensys/teku/pull/11100#pullrequestreview-4933565434) - 2026-08-14
 * [Review] [Review on: Downgrade beaconNodeEventStreamConnectionError to debug](https://github.com/Consensys/teku/pull/11090#pullrequestreview-4933228447) - 2026-08-14
+* [Pull Request] [Share one Gradle cache entry across CI jobs](https://github.com/Consensys/teku/pull/11111) - 2026-08-16
+* [Pull Request] [Resolve dependencies through a Maven Central mirror](https://github.com/Consensys/teku/pull/11113) - 2026-08-16
+* [Review] [Review on: Read EPHEMERY_RESET_PERIOD from network config](https://github.com/Consensys/teku/pull/11103#pullrequestreview-4947497074) - 2026-08-16
+* [Review] [Review on: add MAX_PARTIAL_DATA_COLUMN_SIDECAR_SIZE config parameter](https://github.com/Consensys/teku/pull/11104#pullrequestreview-4947505324) - 2026-08-16
+* [Review] [Review on: add support for plataberget network](https://github.com/Consensys/teku/pull/11108#pullrequestreview-4947503244) - 2026-08-16
+* [Review] [Review on: use the head branch commit for artifacts](https://github.com/Consensys/teku/pull/11093#pullrequestreview-4947502428) - 2026-08-16
+* [Review] [Review on: Ignore committee_index in attestation data production post-Electra](https://github.com/Consensys/teku/pull/11102#pullrequestreview-4947497487) - 2026-08-16
+* [Commit] [Resolve dependencies through a Maven Central mirror (#11113)](https://github.com/Consensys/teku/commit/f7a8494629cc02efa90da92ed8b6f7f886193322) - 2026-08-17
 ## Q2 2026
 
 

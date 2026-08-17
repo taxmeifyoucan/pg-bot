@@ -76,6 +76,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [Remove --deposit-snapshot-enabled and bundled deposit tree snapshots (#11068)](https://github.com/Consensys/teku/commit/45193736e9d4873ace04341a7a1de8c83de45668) - 2026-08-11
 * [Commit] [Use state epoch to select the right validator for AttesterSlashing/ProposerSlashing (#11086)](https://github.com/Consensys/teku/commit/2b8abe76c70743e54c5c26df1fee1027317a4703) - 2026-08-12
 * [Pull Request] [Remove blinded execution payload envelope](https://github.com/Consensys/teku/pull/11091) - 2026-08-13
+* [Review] [Review on: Resolve dependencies through a Maven Central mirror](https://github.com/Consensys/teku/pull/11113#pullrequestreview-4947729229) - 2026-08-17
 ## Q2 2026
 
 

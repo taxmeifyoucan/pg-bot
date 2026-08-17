@@ -303,6 +303,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: clarify code comment guidance](https://github.com/ChainSafe/lodestar/pull/9833) - 2026-08-15
 * [Pull Request] [fix: prevent builder payment weight double count](https://github.com/ChainSafe/lodestar/pull/9830) - 2026-08-15
 * [Pull Request] [refactor: use Wei type for produce block values](https://github.com/ChainSafe/lodestar/pull/9831) - 2026-08-15
+* [Review] [Review on: docs: explain why gloas ExecutionPayloadBid.value stays UintNum64](https://github.com/ChainSafe/lodestar/pull/9835#pullrequestreview-4946072036) - 2026-08-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

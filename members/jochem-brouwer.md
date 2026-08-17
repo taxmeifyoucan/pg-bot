@@ -94,6 +94,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/pull/11587#pullrequestreview-4909291255) - 2026-08-11
 * [Review] [Review on: Update EIP-8261: Convert to Informational gas limit schedule recommendation](https://github.com/ethereum/EIPs/pull/12140#pullrequestreview-4904476635) - 2026-08-11
 * [Review] [Review on: Update EIP-8066: Move to Review](https://github.com/ethereum/EIPs/pull/12166#pullrequestreview-4937205960) - 2026-08-14
+* [Review] [Review on: Update EIP-7773: Move to Review](https://github.com/ethereum/EIPs/pull/11855#pullrequestreview-4945162083) - 2026-08-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03

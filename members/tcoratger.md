@@ -98,6 +98,11 @@ Github: [@tcoratger](https://github.com/tcoratger)
 
 * [Review] [Review on: fix(p3-security): grade conjectured security per round and at the instance shape](https://github.com/Plonky3/Plonky3/pull/1978#pullrequestreview-4918613633) - 2026-08-12
 * [Review] [Review on: perf(p3-field): vectorize packed field](https://github.com/Plonky3/Plonky3/pull/1977#pullrequestreview-4918405555) - 2026-08-12
+* [Review] [Review on: feat(multi-stark): fractional gkr](https://github.com/Plonky3/Plonky3/pull/1974#pullrequestreview-4946709930) - 2026-08-16
+* [Review] [Review on: perf(stir): share grinds across STIR PCS height buckets](https://github.com/Plonky3/Plonky3/pull/1979#pullrequestreview-4946493141) - 2026-08-16
+* [Review] [Review on: perf(stir,sumcheck): batch verifier arithmetic, parallel SVO opens](https://github.com/Plonky3/Plonky3/pull/1980#pullrequestreview-4946464475) - 2026-08-16
+* [Commit] [perf(stir): share grinds across STIR PCS height buckets (#1979)](https://github.com/Plonky3/Plonky3/commit/3e517d70d9fd9dba6d4369f4e09f24b7174d57e3) - 2026-08-16
+* [Commit] [perf(stir,sumcheck): batch verifier arithmetic, parallel SVO opens (#1980)](https://github.com/Plonky3/Plonky3/commit/69df4bca012803e4cbc61d7c94c97845e406c167) - 2026-08-16
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

@@ -186,6 +186,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [build: Upgrade googletest to v1.18.0 (#1656)](https://github.com/ipsilon/evmone/commit/81270e0e29fd181e0e74351ce78b67c714690aaa) - 2026-08-14
 * [Review] [Review on: ci: Add CodSpeed continuous benchmarking](https://github.com/ipsilon/evmone/pull/1653#pullrequestreview-4943904290) - 2026-08-15
 * [Commit] [build: Fetch google/benchmark instead of using Hunter (#1661)](https://github.com/ipsilon/evmone/commit/d304ed6c33ae7ca25c284c4140dd83c9b7d121e4) - 2026-08-15
+* [Pull Request] [crypto: Reduce the exponent for the power-of-two modulus part](https://github.com/ipsilon/evmone/pull/1662) - 2026-08-16
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

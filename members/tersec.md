@@ -86,6 +86,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Get all payload attestations in the pool](https://github.com/status-im/nimbus-eth2/pull/8881#pullrequestreview-4941747986) - 2026-08-14
 * [Review] [Review on: implement payload attestations pool endpoints](https://github.com/status-im/nimbus-eth2/pull/8886#pullrequestreview-4944879357) - 2026-08-15
 * [Review] [Review on: Gloas builder types and auth](https://github.com/status-im/nimbus-eth2/pull/8834#pullrequestreview-4944339253) - 2026-08-15
+* [Pull Request] [pre-verify gloas builder deposits received before gloas fork](https://github.com/status-im/nimbus-eth2/pull/8887) - 2026-08-17
+* [Review] [Review on: implement payload attestations pool endpoints](https://github.com/status-im/nimbus-eth2/pull/8886#pullrequestreview-4947014879) - 2026-08-16
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

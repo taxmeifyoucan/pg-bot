@@ -47,6 +47,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Commit] [fix: Bonsai storage writes skipped for selfdestructed+recreated accounts with identical slot values](https://github.com/besu-eth/besu/commit/2c58e7d2f8ad2ef432f9a431d0dd5812afcba5a7) - 2026-08-13
 * [Review] [Review on: Make sure new transactions arriving during `emptyblockperiodseconds` are mined if the proposer has crashed](https://github.com/besu-eth/besu/pull/11031#pullrequestreview-4934708914) - 2026-08-14
 * [Review] [Review on: Bonsai archive proofs simple trie](https://github.com/besu-eth/besu/pull/11016#pullrequestreview-4934491403) - 2026-08-14
+* [Pull Request] [perf: eliminate O(N²) isClosed overhead in LayeredKeyValueStorage.get()](https://github.com/besu-eth/besu/pull/11071) - 2026-08-16
+* [Review] [Review on: Detect post merge at genesis](https://github.com/besu-eth/besu/pull/11047#pullrequestreview-4947540444) - 2026-08-16
+* [Review] [Review on: Bonsai archive proofs simple trie](https://github.com/besu-eth/besu/pull/11016#pullrequestreview-4947521633) - 2026-08-16
 ## Q2 2026
 
 

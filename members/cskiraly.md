@@ -29,6 +29,9 @@ Team: Codex DAS
 * [Pull Request] [Update EIP-8371: role split, phased reconstruction, security analysis](https://github.com/ethereum/EIPs/pull/12138) - 2026-08-11
 * [Commit] [Update EIP-8371: clarify individual blob retrieval aspect](https://github.com/ethereum/EIPs/commit/169a65510927f58bdafdc67e840d53020e7a91ca) - 2026-08-11
 * [Commit] [Update EIP-8371: role split, phased reconstruction, security analysis](https://github.com/ethereum/EIPs/commit/b325d33d61f18c8bc9f5f2b9b9c59f8bf702141a) - 2026-08-11
+
+[ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
+* [Pull Request] [perf(eip7594): recover cells ~4.7x faster](https://github.com/ethereum/c-kzg-4844/pull/659) - 2026-08-16
 ## Q2 2026
 
 

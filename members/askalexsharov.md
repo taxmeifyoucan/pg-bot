@@ -882,6 +882,20 @@ Team: Erigon
 * [Review] [Review on: `go test ./...` compiles many pkgs twice](https://github.com/erigontech/erigon/pull/23281#pullrequestreview-4942584343) - 2026-08-15
 * [Review] [Review on: .github: tell a CI-Gate timeout apart from a cancellation](https://github.com/erigontech/erigon/pull/23203#pullrequestreview-4942798997) - 2026-08-15
 * [Commit] [`go test ./...` compiles many pkgs twice (#23281)](https://github.com/erigontech/erigon/commit/b0a9671be5a37b32996db9270ac12e8e3fdd0a39) - 2026-08-15
+* [Review] [Review on: p2p/protocols/eth, execution/rlp: measure EncodeRLP itself, skip alloc assertions under -race](https://github.com/erigontech/erigon/pull/23262#pullrequestreview-4945825470) - 2026-08-16
+* [Review] [Review on: rpc/jsonrpc: gate receipts and logs on the data they actually read](https://github.com/erigontech/erigon/pull/23322#pullrequestreview-4946119532) - 2026-08-16
+* [Review] [Review on: [r3.6] cl/phase1, execution: give the execution module a typed busy signal and the caller's context](https://github.com/erigontech/erigon/pull/23321#pullrequestreview-4945981587) - 2026-08-16
+* [Review] [Review on: [r3.6] cl: reuse one converter between consensus and execution withdrawals](https://github.com/erigontech/erigon/pull/23320#pullrequestreview-4945981273) - 2026-08-16
+* [Pull Request] [common/crypto/blake2b: bound the rounds done in one assembly call](https://github.com/erigontech/erigon/pull/23317) - 2026-08-16
+* [Review] [Review on:  cmd/integration: add dump_state to export world state accounts to TSV](https://github.com/erigontech/erigon/pull/23314#pullrequestreview-4945298782) - 2026-08-16
+* [Pull Request] [mdbx: major release `0.14.3`](https://github.com/erigontech/erigon/pull/23319) - 2026-08-16
+* [Review] [Review on: [r3.6] deps: sync dependency versions with main](https://github.com/erigontech/erigon/pull/23313#pullrequestreview-4945307683) - 2026-08-16
+* [Review] [Review on: rpc: resolve eth_getLogs and trace_filter tags on the committed view](https://github.com/erigontech/erigon/pull/23279#pullrequestreview-4945390426) - 2026-08-16
+* [Pull Request] [cmd/integration: add dump_state to export world state accounts to TSV](https://github.com/erigontech/erigon/pull/23318) - 2026-08-16
+* [Pull Request] [`db/seg` Huffman decode: byte-at-a-time bitstream read blocks BCE](https://github.com/erigontech/erigon/pull/23316) - 2026-08-16
+* [Review] [Review on: cmd/rpctest: extract latestBlockNumber helper](https://github.com/erigontech/erigon/pull/23312#pullrequestreview-4945331165) - 2026-08-16
+* [Review] [Review on: db/downloader: disable uTP to prevent peer-triggered abort](https://github.com/erigontech/erigon/pull/23293#pullrequestreview-4945379705) - 2026-08-16
+* [Commit] [execution/types: migrate txJSON and JsonAuthorization to hexutil.U256 (#23239)](https://github.com/erigontech/erigon/commit/7125aa1e847bfb2b65c73bc0c9957b3273c2bcf2) - 2026-08-16
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

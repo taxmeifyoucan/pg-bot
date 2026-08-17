@@ -343,6 +343,8 @@ Team: Reth
 * [Pull Request] [fix(rpc): report highest known sync block](https://github.com/paradigmxyz/reth/pull/26733) - 2026-08-15
 * [Commit] [docs(rpc): fix trace_rawTransaction example (#26735)](https://github.com/paradigmxyz/reth/commit/5327b68d5b91eaf69cf07a9737d605f562f771c7) - 2026-08-15
 * [Commit] [docs(rpc): document trace chain subscription (#26732)](https://github.com/paradigmxyz/reth/commit/d5bdb687eeb0d3471fe156174e08246bce9662a3) - 2026-08-15
+* [Pull Request] [feat(txpool): add consensus encoding helper](https://github.com/paradigmxyz/reth/pull/26739) - 2026-08-16
+* [Review] [Review on: feat(engine): build FOCIL inclusion lists](https://github.com/paradigmxyz/reth/pull/26737#pullrequestreview-4945519485) - 2026-08-16
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

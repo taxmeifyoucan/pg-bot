@@ -130,6 +130,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc: resolve eth_getLogs and trace_filter tags on the committed view](https://github.com/erigontech/erigon/pull/23279) - 2026-08-14
 * [Review] [Review on: rpc: fix eth_getFilterLogs to match eth_getLogs with same criteria](https://github.com/erigontech/erigon/pull/23296#pullrequestreview-4944316861) - 2026-08-15
 * [Pull Request] [cmd/rpctest: extract latestBlockNumber helper](https://github.com/erigontech/erigon/pull/23312) - 2026-08-15
+* [Pull Request] [rpc/jsonrpc: gate receipts and logs on the data they actually read](https://github.com/erigontech/erigon/pull/23322) - 2026-08-16
+* [Review] [Review on: rpc/jsonrpc: gate receipts and logs on the data they actually read](https://github.com/erigontech/erigon/pull/23322#pullrequestreview-4946154292) - 2026-08-16
+* [Commit] [rpc: resolve eth_getLogs and trace_filter tags on the committed view (#23279)](https://github.com/erigontech/erigon/commit/d51c654022651046ec6b0ea33a8a58954cb520a7) - 2026-08-16
+* [Commit] [cmd/rpctest: extract latestBlockNumber helper (#23312)](https://github.com/erigontech/erigon/commit/cc86ff42753d29bb843fe06f064d7acc37faea37) - 2026-08-16
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
