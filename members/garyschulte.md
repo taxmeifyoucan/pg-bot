@@ -20,6 +20,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Pull Request] [Feature: minimal upgrade to vertx 5](https://github.com/besu-eth/besu/pull/11015) - 2026-08-10
 * [Review] [Review on: Remove bonsai database inconsistency healing](https://github.com/besu-eth/besu/pull/11019#pullrequestreview-4909686004) - 2026-08-11
 * [Review] [Review on: Execute Engine API methods concurrently except ordered forkchoiceUpdated](https://github.com/besu-eth/besu/pull/11053#pullrequestreview-4940082926) - 2026-08-14
+* [Review] [Review on: Feature: minimal upgrade to vertx 5](https://github.com/besu-eth/besu/pull/11015#pullrequestreview-4955035968) - 2026-08-17
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298#pullrequestreview-4664315207) - 2026-07-09
 * [Pull Request] [Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298) - 2026-07-20

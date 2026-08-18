@@ -37,6 +37,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: rlp: fast-path slice-backed streams in readFull, readByte and ViewBytes](https://github.com/erigontech/erigon/pull/22595#pullrequestreview-4762888729) - 2026-07-23
 * [Review] [Review on: [r3.6] db/snapshotsync: keep merge-spanning transaction segment](https://github.com/erigontech/erigon/pull/22725#pullrequestreview-4782275099) - 2026-07-26
 * [Review] [Review on: common: make common.Copy a func and inline it away](https://github.com/erigontech/erigon/pull/22741#pullrequestreview-4782274857) - 2026-07-26
+* [Review] [Review on: execution/state: make the hot IntraBlockState fast paths call-free](https://github.com/erigontech/erigon/pull/22750#pullrequestreview-4950408500) - 2026-08-17
 ## Q2 2026
 
 

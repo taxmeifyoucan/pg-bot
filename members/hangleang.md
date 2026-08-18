@@ -48,6 +48,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Add Gloas global circuit breaker](https://github.com/grandinetech/grandine/pull/843) - 2026-08-11
 * [Review] [Review on: builder_api: add Gloas Staked Builder API client](https://github.com/grandinetech/grandine/pull/819#pullrequestreview-4926611655) - 2026-08-13
 * [Issue] [Slow EL blocks block proposal, resulting in orphaned block](https://github.com/grandinetech/grandine/issues/848) - 2026-08-15
+* [Pull Request] [Fix dependent_root validation in proposer_preference](https://github.com/grandinetech/grandine/pull/853) - 2026-08-17
+* [Pull Request] [Measure payload envelope timeliness at arrival](https://github.com/grandinetech/grandine/pull/850) - 2026-08-17
+* [Issue] [Add gas limit schedule](https://github.com/grandinetech/grandine/issues/852) - 2026-08-17
 ## Q2 2026
 
 

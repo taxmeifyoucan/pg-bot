@@ -48,6 +48,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix: bound network worker termination so shutdown can complete](https://github.com/ChainSafe/lodestar/pull/9790#pullrequestreview-4891067015) - 2026-08-09
 * [Review] [Review on: feat: support EIP-8261 gas limit schedule](https://github.com/ChainSafe/lodestar/pull/9808#pullrequestreview-4919603923) - 2026-08-12
 * [Review] [Review on: feat: support EIP-8261 gas limit schedule](https://github.com/ChainSafe/lodestar/pull/9808#pullrequestreview-4923494254) - 2026-08-13
+* [Review] [Review on: chore: address BLS integration review feedback](https://github.com/ChainSafe/lodestar/pull/9837#pullrequestreview-4950249750) - 2026-08-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01

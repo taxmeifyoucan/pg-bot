@@ -133,6 +133,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: perf(eth): avoid per-iteration allocation in reattemptPendingPeerRequests](https://github.com/besu-eth/besu/pull/10900#pullrequestreview-4922629158) - 2026-08-13
 * [Commit] [Remove deprecated BFT genesis flag xemptyblockperiodseconds (#11032)](https://github.com/besu-eth/besu/commit/a736412f26679f98da33e8195769944a4a9d8750) - 2026-08-13
 * [Commit] [[MINOR] replace inefficient method of checking for empty string (#10911)](https://github.com/besu-eth/besu/commit/272bf7e2628a553238064911e517fc33a924af33) - 2026-08-13
+* [Pull Request] [Policies - fix broken links](https://github.com/besu-eth/besu/pull/11074) - 2026-08-17
+* [Pull Request] [Upgrade log4j to 2.25.5](https://github.com/besu-eth/besu/pull/11075) - 2026-08-18
+* [Review] [Review on: Backfill missing sources checksums for already-trusted verification-metadata components](https://github.com/besu-eth/besu/pull/11072#pullrequestreview-4950733180) - 2026-08-17
+* [Commit] [Policies - fix broken links (#11074)](https://github.com/besu-eth/besu/commit/226e38cea9eefc0edffe483a517d1cf73683ec67) - 2026-08-18
+* [Commit] [remove unused and legacy config files (#11033)](https://github.com/besu-eth/besu/commit/448ac14cc31c96daba9387dc02d8e9b40311444b) - 2026-08-17
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

@@ -131,6 +131,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Pull Request] [Trigger peer search when sync committee publish has no peers](https://github.com/Consensys/teku/pull/11112) - 2026-08-16
 * [Issue] [Losing peers during Sync committee](https://github.com/Consensys/teku/issues/11110) - 2026-08-16
 * [Commit] [Ignore committee_index in attestation data production post-Electra (#11102)](https://github.com/Consensys/teku/commit/70c16ab2bd4e0a30fc30aa633f1c0352921e18c5) - 2026-08-16
+* [Review] [Review on: Refactor/renames for BlockContents](https://github.com/Consensys/teku/pull/11109#pullrequestreview-4951103038) - 2026-08-17
+* [Pull Request] [Validate BeaconBlocksByRoot responses against requested roots](https://github.com/Consensys/teku/pull/11118) - 2026-08-17
+* [Issue] [[beacon-api] Use progressive list for payload attestation pool response](https://github.com/Consensys/teku/issues/11124) - 2026-08-17
+* [Issue] [[beacon-api] field name changes](https://github.com/Consensys/teku/issues/11119) - 2026-08-17
+* [Issue] [Actively maintain “wanted subnets”](https://github.com/Consensys/teku/issues/11117) - 2026-08-17
+* [Issue] [Protect useful subnet peers from pruning](https://github.com/Consensys/teku/issues/11116) - 2026-08-17
+* [Issue] [Improve observability of peers that are subscribed](https://github.com/Consensys/teku/issues/11114) - 2026-08-17
+* [Commit] [Implement validator client support for eth/v4/validator/blocks/{slot} (#11096)](https://github.com/Consensys/teku/commit/8a7d55701b5c1ecd35d254eedd30caa09996fc2e) - 2026-08-17
+* [Commit] [Read EPHEMERY_RESET_PERIOD from config in EphemerySlotValidationService (#11103)](https://github.com/Consensys/teku/commit/b508bfe2907ca75af02290181516e5657acbac5f) - 2026-08-17
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

@@ -32,6 +32,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: fix(spec-specs): carry excess blob gas across fork transitions](https://github.com/ethereum/execution-specs/pull/3352#pullrequestreview-4908405169) - 2026-08-11
 * [Pull Request] [feat(zkevm): update geth branch for bench filling comparison](https://github.com/ethereum/execution-specs/pull/3366) - 2026-08-12
 * [Pull Request] [refactor(zkevm): align SSZ capitalization](https://github.com/ethereum/execution-specs/pull/3372) - 2026-08-13
+* [Pull Request] [feat(zkevm): automate zkevm benchmark filling releases](https://github.com/ethereum/execution-specs/pull/3389) - 2026-08-17
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12
@@ -77,6 +78,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Review] [Review on: Update EIP-8297: Update EIP-8297.md](https://github.com/ethereum/EIPs/pull/11978#pullrequestreview-4754853085) - 2026-07-22
 
 * [Commit] [Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/commit/6a3b988b70552644b4c801dc55aa7be5edef20c2) - 2026-08-11
+* [Pull Request] [Update EIP-8025: Refresh execution layer section](https://github.com/ethereum/EIPs/pull/12186) - 2026-08-17
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: debug: add debug_executionWitness spec](https://github.com/ethereum/execution-apis/pull/847#pullrequestreview-4792119037) - 2026-07-27
 

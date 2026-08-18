@@ -198,6 +198,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Deflake RetryCacheTests.ExpiryQueue_ReleasesStorageAfterCumulativeChurn (#12820)](https://github.com/NethermindEth/nethermind/commit/8105e03263159fecc599a098ed96c3bfc39550e0) - 2026-08-14
 * [Commit] [Align eth_unsubscribe not-found handling with geth (#12819)](https://github.com/NethermindEth/nethermind/commit/e098202d7184e45e040b321ca8f10a15a04a6c42) - 2026-08-14
 * [Commit] [Simplify heavy-contract storage discovery: warm via prewarmer scopes (#12737)](https://github.com/NethermindEth/nethermind/commit/5a5185c8b0a68af19a8ed2571bfd316b27c9abfa) - 2026-08-14
+* [Review] [Review on: fix(docgen): honour System.Text.Json ignore conditions and property names](https://github.com/NethermindEth/nethermind/pull/12858#pullrequestreview-4952791358) - 2026-08-17
+* [Pull Request] [Fix flaky witness-capture bytecode test (tx pool head sync)](https://github.com/NethermindEth/nethermind/pull/12849) - 2026-08-17
+* [Review] [Review on: Fix flaky witness-capture bytecode test (tx pool head sync)](https://github.com/NethermindEth/nethermind/pull/12849#pullrequestreview-4949360889) - 2026-08-17
+* [Review] [Review on: fix(optimism): correct protocol version V0 wire layout](https://github.com/NethermindEth/nethermind/pull/12805#pullrequestreview-4950873769) - 2026-08-17
+* [Review] [Review on: ci: don't cancel in-progress sync-master-validation runs](https://github.com/NethermindEth/nethermind/pull/12817#pullrequestreview-4949079205) - 2026-08-17
+* [Review] [Review on: Detect Geth genesis format independent of property order](https://github.com/NethermindEth/nethermind/pull/12784#pullrequestreview-4949139079) - 2026-08-17
+* [Pull Request] [Fix flaky AssociativeCache retrievability test (hash-seed set skew)](https://github.com/NethermindEth/nethermind/pull/12848) - 2026-08-17
+* [Commit] [Restore best-suggested pointers for non-canonical post-merge levels on block tree load (#12822)](https://github.com/NethermindEth/nethermind/commit/ee209520c27ccd03e3e03bbc9cce0b6eeaf67102) - 2026-08-17
+* [Commit] [Fix flaky witness-capture bytecode test (tx pool head sync) (#12849)](https://github.com/NethermindEth/nethermind/commit/2edb7ab56a32012f36b149b7f298419cd53fbb84) - 2026-08-17
+* [Commit] [Fix `admin_addPeer`/`admin_addTrustedPeer` dropping `persistent=true` for already-known peers (#12818)](https://github.com/NethermindEth/nethermind/commit/1639c89b321f0f9b292a01b45e0e58f317e2cccd) - 2026-08-17
+* [Commit] [Fix flaky associative cache retrievability test with deterministic hashes (#12756)](https://github.com/NethermindEth/nethermind/commit/130c7baaab8c89dd74136b86818574840a21c5b0) - 2026-08-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

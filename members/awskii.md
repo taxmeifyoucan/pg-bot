@@ -282,6 +282,8 @@ Team: Erigon
 * [Commit] [execution/commitment: never close w.work, fix warmuper shutdown races (#23266)](https://github.com/erigontech/erigon/commit/58aaf61c9ae0c735e42c4e23e03aa81d0d2cfd98) - 2026-08-15
 * [Review] [Review on: p2p/protocols/eth, execution/rlp: measure EncodeRLP itself, skip alloc assertions under -race](https://github.com/erigontech/erigon/pull/23262#pullrequestreview-4945400134) - 2026-08-16
 * [Review] [Review on: execution/types: migrate txJSON and JsonAuthorization to hexutil.U256](https://github.com/erigontech/erigon/pull/23239#pullrequestreview-4945786164) - 2026-08-16
+* [Pull Request] [execution/state: trim comments from 4489 to 763 lines](https://github.com/erigontech/erigon/pull/23332) - 2026-08-17
+* [Review] [Review on: cmd/integration: add dump_state to export world state accounts to TSV](https://github.com/erigontech/erigon/pull/23318#pullrequestreview-4947870763) - 2026-08-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

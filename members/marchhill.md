@@ -133,6 +133,10 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [fix(txpool): decode LightTxDecoder proof version as RLP scalar](https://github.com/NethermindEth/nethermind/pull/12782) - 2026-08-12
 * [Pull Request] [fix: honour engine fixture errorCode instead of accepting any RPC error](https://github.com/NethermindEth/nethermind/pull/12783) - 2026-08-12
 * [Review] [Review on: Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/12802#pullrequestreview-4927914077) - 2026-08-13
+* [Pull Request] [test: harden the block-improvement wait against empty payloads](https://github.com/NethermindEth/nethermind/pull/12859) - 2026-08-17
+* [Pull Request] [EIP-8141: charge a frame's entry gas and its target's delegation access](https://github.com/NethermindEth/nethermind/pull/12856) - 2026-08-17
+* [Pull Request] [feat(txpool): enforce the EIP-8141 VERIFY-after-prefix and expiry-frame placement rules](https://github.com/NethermindEth/nethermind/pull/12855) - 2026-08-17
+* [Pull Request] [test: load the frame transaction fixtures by mapping their fork name](https://github.com/NethermindEth/nethermind/pull/12854) - 2026-08-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -157,6 +161,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8141: Restrict SIGPARAM signer introspection to accounts with empty or delegated code](https://github.com/ethereum/EIPs/pull/12168) - 2026-08-14
 * [Pull Request] [Update EIP-8151: State the revoked-key invariant](https://github.com/ethereum/EIPs/pull/12169) - 2026-08-14
 * [Commit] [Update EIP-8141: statically disallow approval scope on atomic-batch frames (#12109)](https://github.com/ethereum/EIPs/commit/9c915ee494c05069945f4e1018fa0854e2d3fb38) - 2026-08-14
+* [Commit] [Update EIP-8141: pin the initial accessed_addresses set for frame transactions (#12113)](https://github.com/ethereum/EIPs/commit/13d1b37672b8fb321c7e880b521cfe375683c9e4) - 2026-08-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 * [Commit] [feat(tests): add EIP-8037 spill-refund accounting coverage (#3158)](https://github.com/ethereum/execution-specs/commit/610cd779baff95f99c85442dd2fa8cc8146260b2) - 2026-07-30

@@ -896,12 +896,32 @@ Team: Erigon
 * [Review] [Review on: cmd/rpctest: extract latestBlockNumber helper](https://github.com/erigontech/erigon/pull/23312#pullrequestreview-4945331165) - 2026-08-16
 * [Review] [Review on: db/downloader: disable uTP to prevent peer-triggered abort](https://github.com/erigontech/erigon/pull/23293#pullrequestreview-4945379705) - 2026-08-16
 * [Commit] [execution/types: migrate txJSON and JsonAuthorization to hexutil.U256 (#23239)](https://github.com/erigontech/erigon/commit/7125aa1e847bfb2b65c73bc0c9957b3273c2bcf2) - 2026-08-16
+* [Review] [Review on: docs(site): make the llms.txt artifacts discoverable, and fix the landing-card parser](https://github.com/erigontech/erigon/pull/23336#pullrequestreview-4951155566) - 2026-08-17
+* [Review] [Review on: docs(site): prepare release/3.6 to become the docs deploy branch](https://github.com/erigontech/erigon/pull/23283#pullrequestreview-4951163900) - 2026-08-17
+* [Review] [Review on: docs: add a security policy and fix the reporting instructions](https://github.com/erigontech/erigon/pull/23168#pullrequestreview-4951206371) - 2026-08-17
+* [Review] [Review on: docs(site): make the llms.txt artifacts discoverable, and fix the landing-card parser](https://github.com/erigontech/erigon/pull/23335#pullrequestreview-4951156111) - 2026-08-17
+* [Review] [Review on: ci: fuzz — don't fail on the engine's end-of-fuzztime race, and persist the corpus](https://github.com/erigontech/erigon/pull/23334#pullrequestreview-4949951169) - 2026-08-17
+* [Review] [Review on: [SharovBot] cl/sentinel: downgrade 'Could not convert to peer info' log from Error to Warn](https://github.com/erigontech/erigon/pull/22306#pullrequestreview-4951212563) - 2026-08-17
+* [Review] [Review on: all: resolve errorlint linter findings](https://github.com/erigontech/erigon/pull/23303#pullrequestreview-4949382098) - 2026-08-17
+* [Review] [Review on: Re-enable uTP with fixes for peer-triggered abort](https://github.com/erigontech/erigon/pull/23329#pullrequestreview-4949036415) - 2026-08-17
+* [Review] [Review on: chaindata: pageSize 16kb -> 4kb](https://github.com/erigontech/erigon/pull/23304#pullrequestreview-4948221333) - 2026-08-17
+* [Review] [Review on: db/seg: reduce page cache misses for large unique code literal sections](https://github.com/erigontech/erigon/pull/23328#pullrequestreview-4948152531) - 2026-08-17
+* [Commit] [.github: tell a CI-Gate timeout apart from a cancellation (#23203)](https://github.com/erigontech/erigon/commit/e4a2923229f3ef1cdc903b6cbe1cc1eea4d0ce85) - 2026-08-17
+* [Commit] [rpc/ethapi: migrate CallArgs and BlockOverrides quantity fields to hexutil.U256 (#23220)](https://github.com/erigontech/erigon/commit/3c7841580e80b6b4cc37941ae0604e7560773c8a) - 2026-08-17
+* [Commit] [`db/seg` Huffman decode: byte-at-a-time bitstream read blocks BCE (#23316)](https://github.com/erigontech/erigon/commit/4e6bbd8a89d2bbe93b0a4a4ae3cae6f71f10874d) - 2026-08-17
+* [Commit] [chaindata: pageSize 16kb -> 4kb (#23304)](https://github.com/erigontech/erigon/commit/9e54927528e1d0629f9ca457c86c048a818dbfca) - 2026-08-17
+* [Commit] [cmd/integration: add dump_state to export world state accounts to TSV (#23318)](https://github.com/erigontech/erigon/commit/ef76bbba5663f6988f91bb3ca3bda56309bfcaf9) - 2026-08-17
+* [Commit] [mdbx: major release `0.14.3` (#23319)](https://github.com/erigontech/erigon/commit/2db9568175a726b988f9c9dde1806aff55d25feb) - 2026-08-17
+* [Commit] [db/recsplit/eliasfano32: let the fuzzer pick the input size (#23214)](https://github.com/erigontech/erigon/commit/c6dedcc3f770af97f1dc54eab00695d95287c9c5) - 2026-08-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 
 [ethereum/evmone](https://github.com/ethereum/evmone)
 * [Pull Request] [crypto: Use fixed-window exponentiation in modexp](https://github.com/ipsilon/evmone/pull/1618) - 2026-08-01
 * [Commit] [crypto: Use fixed-window exponentiation in modexp (#1618)](https://github.com/ipsilon/evmone/commit/6ce5a951eb785e935206bd15d8d5666a9ac9bf9e) - 2026-08-10
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [crypto/blake2b: bound input of assembly call](https://github.com/ethereum/go-ethereum/pull/35550) - 2026-08-17
 ## Q2 2026
 
 

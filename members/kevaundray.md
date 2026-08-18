@@ -47,6 +47,7 @@ Team: Consensus R&D (EF)
 * [Commit] [Add EIP: Hash-Chain RANDAO](https://github.com/ethereum/EIPs/commit/bd90171e51aabafad9043b8b47acdb6e6eb724f6) - 2026-08-10
 * [Pull Request] [Update EIP-7666: Add dependency on 3855](https://github.com/ethereum/EIPs/pull/12141) - 2026-08-11
 * [Commit] [Update EIP-7666: Add dependency on 3855](https://github.com/ethereum/EIPs/commit/3b0978c4df1736df0722c3a89881a91dd7e12516) - 2026-08-11
+* [Pull Request] [Add EIP: Reduce CL Block Retention Window](https://github.com/ethereum/EIPs/pull/12188) - 2026-08-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14

@@ -92,6 +92,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [engine_api: Restore -32602 for undecodable blockAccessList (#4642)](https://github.com/status-im/nimbus-eth1/commit/3498b6a21016874bb069ff9d665e1cf557a6bc1f) - 2026-08-15
 * [Pull Request] [stateless: Use progressive lists for witness state, codes and public …](https://github.com/status-im/nimbus-eth1/pull/4647) - 2026-08-16
 * [Pull Request] [stateless: Re-enable full stateless input and output comparison](https://github.com/status-im/nimbus-eth1/pull/4646) - 2026-08-16
+* [Pull Request] [engine_api: Return null latestValidHash on early newPayload rejections](https://github.com/status-im/nimbus-eth1/pull/4651) - 2026-08-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

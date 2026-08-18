@@ -86,6 +86,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [make release nightly use the existing release pathway for better testing](https://github.com/status-im/nimbus-eth1/pull/4632) - 2026-08-12
 * [Commit] [unified client shutdown hang fix (#4629)](https://github.com/status-im/nimbus-eth1/commit/618b0e548fcf56355178e4228ea627a97c6ef3f5) - 2026-08-14
 * [Review] [Review on: make release nightly use the existing release pathway for better testing](https://github.com/status-im/nimbus-eth1/pull/4632#pullrequestreview-4943272603) - 2026-08-15
+* [Review] [Review on: make release nightly use the existing release pathway for better testing](https://github.com/status-im/nimbus-eth1/pull/4632#pullrequestreview-4951322526) - 2026-08-17
+* [Pull Request] [txpool: drop blob lookup of the replaced tx, not the new one](https://github.com/status-im/nimbus-eth1/pull/4648) - 2026-08-17
+* [Commit] [txpool: drop blob lookup of the replaced tx, not the new one (#4648)](https://github.com/status-im/nimbus-eth1/commit/391e8efefc82b18f9afe98a5ec50d426184fb187) - 2026-08-17
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22

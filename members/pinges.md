@@ -30,6 +30,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Pull Request] [Detect post merge at genesis](https://github.com/besu-eth/besu/pull/11047) - 2026-08-14
 * [Review] [Review on: Detect post merge at genesis](https://github.com/besu-eth/besu/pull/11047#pullrequestreview-4935728377) - 2026-08-14
 * [Commit] [Permissioning allowlist update event](https://github.com/besu-eth/besu/commit/5e7de1b08917d864f9c688ddff47ba8110a7bf9b) - 2026-08-14
+* [Commit] [Detect post merge at genesis (#11047)](https://github.com/besu-eth/besu/commit/23ff56d025188599584b2ee8d7e6d8f452fa0f42) - 2026-08-17
 ## Q2 2026
 
 

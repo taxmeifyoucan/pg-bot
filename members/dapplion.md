@@ -49,6 +49,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Unify gossip verification error handling](https://github.com/sigp/lighthouse/pull/9801) - 2026-08-13
 * [Review] [Review on: Gloas partial data columns](https://github.com/sigp/lighthouse/pull/9325#pullrequestreview-4928254956) - 2026-08-13
 * [Review] [Review on: engine_forkchoiceUpdatedV4: provide custody columns to the EL](https://github.com/sigp/lighthouse/pull/9547#pullrequestreview-4928469404) - 2026-08-13
+* [Review] [Review on: Fix payload availability lookup using the parent block's slot (alpha.13)](https://github.com/sigp/lighthouse/pull/9761#pullrequestreview-4955872783) - 2026-08-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 ## Q2 2026

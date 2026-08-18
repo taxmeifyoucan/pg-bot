@@ -71,6 +71,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Gloas builder circuit breaker: single builder tracking](https://github.com/OffchainLabs/prysm/pull/17294#pullrequestreview-4864903423) - 2026-08-05
 * [Pull Request] [Parallelize per-element hash tree roots for large SSZ lists](https://github.com/OffchainLabs/prysm/pull/17317) - 2026-08-07
 * [Commit] [Parallelize per-element hash tree roots for large SSZ lists (#17317)](https://github.com/OffchainLabs/prysm/commit/e36548af5b6cd3ac78398355b62b2071d6690543) - 2026-08-07
+* [Commit] [Gloas builder circuit breaker: single builder tracking (#17294)](https://github.com/OffchainLabs/prysm/commit/f47292748c62ad1d3d91773f10e7b6faaf3ecb42) - 2026-08-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
@@ -85,6 +86,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Allow builders to bid on multiple branches](https://github.com/ethereum/consensus-specs/pull/5497) - 2026-07-30
 * [Commit] [Allow multiple bids compatible with the head view (#5497)](https://github.com/ethereum/consensus-specs/commit/f58c72dd6cb961008874eb9597bd4d4353780be7) - 2026-07-31
 * [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543#pullrequestreview-4943718562) - 2026-08-15
+* [Review] [Review on: Allow epoch boundary reorgs in Fulu](https://github.com/ethereum/consensus-specs/pull/5547#pullrequestreview-4954028479) - 2026-08-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629311315) - 2026-07-04
 

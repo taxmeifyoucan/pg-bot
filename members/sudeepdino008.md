@@ -155,6 +155,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/stagedsync: avoid quadratic held-back retry reinsertion](https://github.com/erigontech/erigon/pull/23236#pullrequestreview-4934337379) - 2026-08-14
 * [Pull Request] [[r3.6] execution: BlockStateCache lock-free committed storage + non-quadratic held-back retry reinsertion](https://github.com/erigontech/erigon/pull/23275) - 2026-08-14
 * [Commit] [execution/stagedsync: avoid quadratic held-back retry reinsertion (#23236)](https://github.com/erigontech/erigon/commit/6043164024f22e3a0946df6946e4ab9049744a9f) - 2026-08-14
+* [Review] [Review on: crypto/blake2b: bound input of assembly call](https://github.com/erigontech/erigon/pull/23317#pullrequestreview-4948717015) - 2026-08-17
+* [Review] [Review on: mmap: `mmap.Ro/Rw` typed objects](https://github.com/erigontech/erigon/pull/23311#pullrequestreview-4948703659) - 2026-08-17
+* [Review] [Review on: `db/seg` Huffman decode: byte-at-a-time bitstream read blocks BCE](https://github.com/erigontech/erigon/pull/23316#pullrequestreview-4948849868) - 2026-08-17
+* [Review] [Review on: chaindata: pageSize 16kb -> 4kb](https://github.com/erigontech/erigon/pull/23304#pullrequestreview-4948660644) - 2026-08-17
 ## Q2 2026
 
 

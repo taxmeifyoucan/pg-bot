@@ -460,6 +460,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/vm: memoize InternAddress by stack word in a per-EVM cache](https://github.com/erigontech/erigon/pull/22900#pullrequestreview-4936274960) - 2026-08-14
 * [Commit] [go.mod: update libsecp256k1 to v0.8.0 (#23291)](https://github.com/erigontech/erigon/commit/f51dd5d3edfd6ad78a6baee45bf1998a32d115e6) - 2026-08-14
 * [Commit] [txnprovider/txpool: reject trailing bytes after blob tx wrapper (#23295)](https://github.com/erigontech/erigon/commit/2583896e31639f850e740ea6eed92013e5000569) - 2026-08-14
+* [Review] [Review on: cl: enforce Fulu data availability across block imports](https://github.com/erigontech/erigon/pull/23292#pullrequestreview-4952408486) - 2026-08-17
+* [Pull Request] [execution/execmodule: reserve execution during startup](https://github.com/erigontech/erigon/pull/23342) - 2026-08-17
+* [Review] [Review on: txnprovider/txpool: wake a caller that goes away while waiting for a block](https://github.com/erigontech/erigon/pull/23343#pullrequestreview-4952258825) - 2026-08-17
+* [Review] [Review on: docs(site): make the llms.txt artifacts discoverable, and fix the landing-card parser](https://github.com/erigontech/erigon/pull/23336#pullrequestreview-4951025690) - 2026-08-17
+* [Review] [Review on: crypto/blake2b: bound input of assembly call](https://github.com/erigontech/erigon/pull/23317#pullrequestreview-4951515773) - 2026-08-17
+* [Review] [Review on: [r3.6] cl/beacon: resolve payload withdrawals in one place](https://github.com/erigontech/erigon/pull/23339#pullrequestreview-4951153737) - 2026-08-17
+* [Review] [Review on: rpc/ethapi: migrate CallArgs and BlockOverrides quantity fields to hexutil.U256](https://github.com/erigontech/erigon/pull/23220#pullrequestreview-4950143909) - 2026-08-17
+* [Review] [Review on: txnprovider/txpool: release the pool lock when a caller stops waiting for a block](https://github.com/erigontech/erigon/pull/23333#pullrequestreview-4950618620) - 2026-08-17
+* [Issue] [txnprovider/txpool: extract best's wait loop into a defer-locked helper](https://github.com/erigontech/erigon/issues/23338) - 2026-08-17
+* [Commit] [db/downloader: disable uTP to prevent peer-triggered abort (#23293)](https://github.com/erigontech/erigon/commit/901a00127a2f32a23a6bfc102f3f63affd160f8c) - 2026-08-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

@@ -43,6 +43,18 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Release v8.2.1](https://github.com/sigp/lighthouse/commit/b263df596671a2bd42bf1034e1cdc8188ba8a9b0) - 2026-07-21
 * [Review] [Review on: Propagate EIP-8025 execution proofs on gossip behind a flag](https://github.com/sigp/lighthouse/pull/9659#pullrequestreview-4751445389) - 2026-07-22
 * [Review] [Review on: Enable Gloas FCR ef-tests and use parent-first safe hash](https://github.com/sigp/lighthouse/pull/9786#pullrequestreview-4921771654) - 2026-08-12
+* [Pull Request] [Release v8.2.2](https://github.com/sigp/lighthouse/pull/9840) - 2026-08-17
+* [Review] [Review on: Eagerly sign sync committee messages on head events](https://github.com/sigp/lighthouse/pull/9675#pullrequestreview-4949491404) - 2026-08-17
+* [Review] [Review on: Initiate a shutdown if the node cannot recover from a diverged fork choice](https://github.com/sigp/lighthouse/pull/9819#pullrequestreview-4947838313) - 2026-08-17
+* [Review] [Review on: Remove the non-standard `late_head` SSE event](https://github.com/sigp/lighthouse/pull/9827#pullrequestreview-4949950196) - 2026-08-17
+* [Pull Request] [Use Gloas timings for aggregate attestations and sync committee messages](https://github.com/sigp/lighthouse/pull/9823) - 2026-08-17
+* [Review] [Review on: Use Gloas timings for aggregate attestations and sync committee messages](https://github.com/sigp/lighthouse/pull/9823#pullrequestreview-4948080425) - 2026-08-17
+* [Review] [Review on: Use branchless swaps in swap-or-not shuffling](https://github.com/sigp/lighthouse/pull/9630#pullrequestreview-4948921620) - 2026-08-17
+* [Review] [Review on: Expose Gloas timing values and MAX_REQUEST_PAYLOADS on the config/spec API](https://github.com/sigp/lighthouse/pull/9812#pullrequestreview-4947925631) - 2026-08-17
+* [Issue] [Renovate slot timer services to start in current slot when prior to deadline](https://github.com/sigp/lighthouse/issues/9826) - 2026-08-17
+* [Issue] [Delete non-standard `late_head` SSE](https://github.com/sigp/lighthouse/issues/9824) - 2026-08-17
+* [Issue] [Use Gloas BPS values from ChainSpec in BN and VC](https://github.com/sigp/lighthouse/issues/9821) - 2026-08-17
+* [Commit] [Release v8.2.2](https://github.com/sigp/lighthouse/commit/e423a66763bb1bd780492d635123f208d80c3538) - 2026-08-17
 ## Q2 2026
 
 

@@ -213,6 +213,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(consume): emit genesis slotNumber as hex string like all other fields (#3369)](https://github.com/ethereum/execution-specs/commit/d2e6bd12f33f8fc8246356d26e4c41c1917ec940) - 2026-08-13
 * [Commit] [fix(tests): accept gas-used divergence in BAL omitted-slot-change test (#3357)](https://github.com/ethereum/execution-specs/commit/af1d40a9aa551daccb72b6ac6f275e81cbed8a0b) - 2026-08-13
 * [Commit] [fix(consume): map reth BAL account-miss and item-cost rejection messages (#3371)](https://github.com/ethereum/execution-specs/commit/292fa9c1b88eac6fc587235e8f25600cc9a78186) - 2026-08-14
+* [Pull Request] [feat(specs): EIP-8146 block access list sidecar delivery](https://github.com/ethereum/execution-specs/pull/3387) - 2026-08-17
+* [Pull Request] [feat(spec-specs, tests): EIP-4758 deactivate SELFDESTRUCT (SENDALL)](https://github.com/ethereum/execution-specs/pull/3386) - 2026-08-17
+* [Pull Request] [feat(spec-specs, tests): implement EIP-8268 storage roots in block access lists](https://github.com/ethereum/execution-specs/pull/3388) - 2026-08-17
+* [Pull Request] [feat(ci): auto-draft scheduled mainnet fixture releases](https://github.com/ethereum/execution-specs/pull/3385) - 2026-08-17
+* [Pull Request] [chore(tooling): add devnet release skill](https://github.com/ethereum/execution-specs/pull/3384) - 2026-08-17
+* [Pull Request] [feat(tests): add BAL storage slot numeric ordering test](https://github.com/ethereum/execution-specs/pull/3382) - 2026-08-17
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

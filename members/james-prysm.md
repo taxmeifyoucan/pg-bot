@@ -143,6 +143,12 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [adding payload value query parameter](https://github.com/OffchainLabs/prysm/pull/17362) - 2026-08-14
 * [Review] [Review on: Reject gossip blocks whose slot is not higher than their parent's](https://github.com/OffchainLabs/prysm/pull/17352#pullrequestreview-4933234913) - 2026-08-14
 * [Commit] [adding payload value query parameter (#17362)](https://github.com/OffchainLabs/prysm/commit/f55261c15390e81c7a6f4c427935eb2ef988a657) - 2026-08-14
+* [Review] [Review on: Remove the remaining Eth1 bridge deposit transition from Fulu as per consensus-specs#4704](https://github.com/OffchainLabs/prysm/pull/17359#pullrequestreview-4952791571) - 2026-08-17
+* [Review] [Review on: Fix flaky tests (`TestTwoNodePartialColumnExchange` & `Test_notifyNewHeadEvent`)](https://github.com/OffchainLabs/prysm/pull/17361#pullrequestreview-4952599309) - 2026-08-17
+* [Review] [Review on: Send SSZ request body for `aggregate_and_proofs` using `PostSSZWithFallback`](https://github.com/OffchainLabs/prysm/pull/17355#pullrequestreview-4952601005) - 2026-08-17
+* [Issue] [Beacon node can deadlock at startup when bulk state deletion runs concurrently with a nested DB read](https://github.com/OffchainLabs/prysm/issues/17366) - 2026-08-17
+* [Commit] [Add `GET`/`POST`/`DELETE /eth/v1/validator/{pubkey}/builders` keymanager endpoints (#17261)](https://github.com/OffchainLabs/prysm/commit/93d31a2f2fddd379b677583fe6f3003eb86bf73d) - 2026-08-17
+* [Commit] [adding doppelganger rechecks mid epoch for key changes (#17285)](https://github.com/OffchainLabs/prysm/commit/b238f4e7fa3cf098f45409521bbadf0f8a6a6948) - 2026-08-17
 ## Q2 2026
 
 

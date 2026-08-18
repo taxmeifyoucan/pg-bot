@@ -103,6 +103,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(stir,sumcheck): batch verifier arithmetic, parallel SVO opens](https://github.com/Plonky3/Plonky3/pull/1980#pullrequestreview-4946464475) - 2026-08-16
 * [Commit] [perf(stir): share grinds across STIR PCS height buckets (#1979)](https://github.com/Plonky3/Plonky3/commit/3e517d70d9fd9dba6d4369f4e09f24b7174d57e3) - 2026-08-16
 * [Commit] [perf(stir,sumcheck): batch verifier arithmetic, parallel SVO opens (#1980)](https://github.com/Plonky3/Plonky3/commit/69df4bca012803e4cbc61d7c94c97845e406c167) - 2026-08-16
+* [Review] [Review on: feat(p3-security): const-fn fixed-point round budget for recursive verifiers](https://github.com/Plonky3/Plonky3/pull/1984#pullrequestreview-4953332152) - 2026-08-17
+* [Review] [Review on: test: add missing test file for vectorized field arithmetic](https://github.com/Plonky3/Plonky3/pull/1983#pullrequestreview-4951506292) - 2026-08-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

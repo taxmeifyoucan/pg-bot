@@ -183,6 +183,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Glamsterdam devnet 8](https://github.com/OffchainLabs/prysm/pull/17354) - 2026-08-14
 * [Pull Request] [Reject gossip blocks whose slot is not higher than their parent's](https://github.com/OffchainLabs/prysm/pull/17352) - 2026-08-14
 * [Pull Request] [Fix builder payment weight double-count under target equivocation](https://github.com/OffchainLabs/prysm/pull/17365) - 2026-08-15
+* [Commit] [Fix builder payment weight double-count under target equivocation (#17365)](https://github.com/OffchainLabs/prysm/commit/44a288d7a3a0277a590691461fbaa0535a73feef) - 2026-08-17
+* [Commit] [Reject gossip blocks whose slot is not higher than their parent's (#17352)](https://github.com/OffchainLabs/prysm/commit/5e54941ff0c0e66d6fc6ff67bcccab72b73e892e) - 2026-08-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

@@ -93,6 +93,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Commit] [Update EIP-8333: add helper to handle fork transition](https://github.com/ethereum/EIPs/commit/3b82eabe076be68b6425f3973b1dc9a176cacd1c) - 2026-08-14
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [FOCIL Breakout #39, August 4, 2026](https://github.com/ethereum/pm/issues/2179) - 2026-08-03
+* [Issue] [FOCIL Breakout #39, August 18, 2026](https://github.com/ethereum/pm/issues/2194) - 2026-08-17
 ## Q2 2026
 
 

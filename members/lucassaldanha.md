@@ -70,6 +70,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: use the head branch commit for artifacts](https://github.com/Consensys/teku/pull/11093#pullrequestreview-4947502428) - 2026-08-16
 * [Review] [Review on: Ignore committee_index in attestation data production post-Electra](https://github.com/Consensys/teku/pull/11102#pullrequestreview-4947497487) - 2026-08-16
 * [Commit] [Resolve dependencies through a Maven Central mirror (#11113)](https://github.com/Consensys/teku/commit/f7a8494629cc02efa90da92ed8b6f7f886193322) - 2026-08-17
+* [Pull Request] [add support for plataberget network (#11108)](https://github.com/Consensys/teku/pull/11125) - 2026-08-17
+* [Review] [Review on: fix publish to maven, fix api job and use github token](https://github.com/Consensys/teku/pull/11115#pullrequestreview-4948326464) - 2026-08-17
+* [Review] [Review on: Implement validator client support for eth/v4/validator/blocks/{slot}](https://github.com/Consensys/teku/pull/11096#pullrequestreview-4947890448) - 2026-08-17
+* [Commit] [Share one Gradle cache entry across CI jobs (#11111)](https://github.com/Consensys/teku/commit/c8f036de6fe7231088c98a58eb44d897df099841) - 2026-08-17
 ## Q2 2026
 
 

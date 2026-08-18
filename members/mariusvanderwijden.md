@@ -74,6 +74,8 @@ Team: Geth
 * [Review] [Review on: cmd, core, eth, internal: deprecate state sizer](https://github.com/ethereum/go-ethereum/pull/35520#pullrequestreview-4914158618) - 2026-08-12
 * [Review] [Review on: core/vm: key the precompile cache on the input instead of its hash](https://github.com/ethereum/go-ethereum/pull/35473#pullrequestreview-4914116274) - 2026-08-12
 * [Review] [Review on: core, eth/catalyst, beacon/engine: update for glam8](https://github.com/ethereum/go-ethereum/pull/35514#pullrequestreview-4914045760) - 2026-08-12
+* [Review] [Review on: crypto/kzg4844: add BlobsFromDataCells for zero-KZG blob reconstruction](https://github.com/ethereum/go-ethereum/pull/35528#pullrequestreview-4951694672) - 2026-08-17
+* [Review] [Review on: core, eth/catalyst, beacon/engine: update for glam8](https://github.com/ethereum/go-ethereum/pull/35514#pullrequestreview-4950026896) - 2026-08-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 

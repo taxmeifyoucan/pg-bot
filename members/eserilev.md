@@ -101,6 +101,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot (alpha.13)](https://github.com/sigp/lighthouse/pull/9761#pullrequestreview-4947078292) - 2026-08-16
 * [Pull Request] [Add tests to check for divergence between fork choice and the store](https://github.com/sigp/lighthouse/pull/9818) - 2026-08-16
 * [Pull Request] [Initiate a shutdown if the node cannot recover from a diverged fork choice](https://github.com/sigp/lighthouse/pull/9819) - 2026-08-16
+* [Review] [Review on: Fix payload availability lookup using the parent block's slot (alpha.13)](https://github.com/sigp/lighthouse/pull/9761#pullrequestreview-4950677252) - 2026-08-17
+* [Review] [Review on: Allow multiple bids compatible with the head view (alpha.13)](https://github.com/sigp/lighthouse/pull/9763#pullrequestreview-4954108736) - 2026-08-17
+* [Pull Request] [Align gloas proposer reorg weight logic w/ spec ](https://github.com/sigp/lighthouse/pull/9831) - 2026-08-17
+* [Pull Request] [Cache slashed justified balances](https://github.com/sigp/lighthouse/pull/9830) - 2026-08-17
+* [Pull Request] [Set parent payload availability bit for attestation packing and the attestation simulator](https://github.com/sigp/lighthouse/pull/9828) - 2026-08-17
+* [Review] [Review on: Use Gloas timings for aggregate attestations and sync committee messages](https://github.com/sigp/lighthouse/pull/9823#pullrequestreview-4950733103) - 2026-08-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

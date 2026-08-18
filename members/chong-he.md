@@ -39,6 +39,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Add dependent root check to proposer preferences validation (alpha.13)](https://github.com/sigp/lighthouse/pull/9760#pullrequestreview-4893400088) - 2026-08-10
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot (alpha.13)](https://github.com/sigp/lighthouse/pull/9761#pullrequestreview-4895628942) - 2026-08-10
 * [Review] [Review on: Allow multiple bids compatible with the head view (alpha.13)](https://github.com/sigp/lighthouse/pull/9763#pullrequestreview-4924084395) - 2026-08-13
+* [Review] [Review on: Bump EF tests to v1.7.0-alpha.13](https://github.com/sigp/lighthouse/pull/9764#pullrequestreview-4949783143) - 2026-08-17
+* [Review] [Review on: Add base support for Heze block production](https://github.com/sigp/lighthouse/pull/9714#pullrequestreview-4950239044) - 2026-08-17
 ## Q2 2026
 
 

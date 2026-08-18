@@ -187,6 +187,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: ci: Add CodSpeed continuous benchmarking](https://github.com/ipsilon/evmone/pull/1653#pullrequestreview-4943904290) - 2026-08-15
 * [Commit] [build: Fetch google/benchmark instead of using Hunter (#1661)](https://github.com/ipsilon/evmone/commit/d304ed6c33ae7ca25c284c4140dd83c9b7d121e4) - 2026-08-15
 * [Pull Request] [crypto: Reduce the exponent for the power-of-two modulus part](https://github.com/ipsilon/evmone/pull/1662) - 2026-08-16
+* [Pull Request] [test: Fix the modarith benchmarks measuring dead code](https://github.com/ipsilon/evmone/pull/1663) - 2026-08-17
+* [Commit] [crypto: Extract the representation-independent modular operations (#1659)](https://github.com/ipsilon/evmone/commit/325eb1fe1b1a1f48c99fd76ccc03f1c7f56fdb7c) - 2026-08-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

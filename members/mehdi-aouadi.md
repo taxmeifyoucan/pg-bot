@@ -82,6 +82,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [add domain builder deposit to get spec api](https://github.com/Consensys/teku/pull/11105) - 2026-08-14
 * [Issue] [Add plataberget network support](https://github.com/Consensys/teku/issues/11107) - 2026-08-14
 * [Review] [Review on: add support for plataberget network](https://github.com/Consensys/teku/pull/11108#pullrequestreview-4944087358) - 2026-08-15
+* [Issue] [Fix builder payment weight double-count under target equivocation](https://github.com/Consensys/teku/issues/11122) - 2026-08-17
+* [Commit] [use the head branch commit for artifacts (#11093)](https://github.com/Consensys/teku/commit/4d86366d17e7be9562b571745af160764ff76117) - 2026-08-17
+* [Commit] [add support for plataberget network (#11108)](https://github.com/Consensys/teku/commit/c8343bbcbf6105613599026cd4095d270fea536f) - 2026-08-17
+* [Commit] [add MAX_PARTIAL_DATA_COLUMN_SIDECAR_SIZE config parameter (#11104)](https://github.com/Consensys/teku/commit/0c9b0afbf7f474b2ab02fd03f5b04f3c8326dda8) - 2026-08-17
 ## Q2 2026
 
 

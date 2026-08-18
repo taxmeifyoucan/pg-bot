@@ -304,6 +304,23 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: prevent builder payment weight double count](https://github.com/ChainSafe/lodestar/pull/9830) - 2026-08-15
 * [Pull Request] [refactor: use Wei type for produce block values](https://github.com/ChainSafe/lodestar/pull/9831) - 2026-08-15
 * [Review] [Review on: docs: explain why gloas ExecutionPayloadBid.value stays UintNum64](https://github.com/ChainSafe/lodestar/pull/9835#pullrequestreview-4946072036) - 2026-08-16
+* [Review] [Review on: feat: allow proposer reorgs at epoch boundaries](https://github.com/ChainSafe/lodestar/pull/9769#pullrequestreview-4952847246) - 2026-08-17
+* [Review] [Review on: fix: preserve request content length](https://github.com/ChainSafe/lodestar/pull/9834#pullrequestreview-4953704488) - 2026-08-17
+* [Pull Request] [fix: use progressive payload attestation pool response](https://github.com/ChainSafe/lodestar/pull/9838) - 2026-08-17
+* [Review] [Review on: docs: explain why gloas ExecutionPayloadBid.value stays UintNum64](https://github.com/ChainSafe/lodestar/pull/9835#pullrequestreview-4950497702) - 2026-08-17
+* [Review] [Review on: chore(deps): bump the actions group with 6 updates](https://github.com/ChainSafe/lodestar/pull/9841#pullrequestreview-4952628831) - 2026-08-17
+* [Review] [Review on: perf: implement appendBuilderToRegistry()](https://github.com/ChainSafe/lodestar/pull/9840#pullrequestreview-4952769836) - 2026-08-17
+* [Review] [Review on: fix(builder): wait for Gloas fork and improve startup logging](https://github.com/ChainSafe/lodestar/pull/9839#pullrequestreview-4950858722) - 2026-08-17
+* [Review] [Review on: chore: clarify code comment guidance](https://github.com/ChainSafe/lodestar/pull/9833#pullrequestreview-4950622570) - 2026-08-17
+* [Review] [Review on: fix: prevent builder payment weight double count](https://github.com/ChainSafe/lodestar/pull/9830#pullrequestreview-4949515081) - 2026-08-17
+* [Review] [Review on: chore: track elapsed time for ptc and bid](https://github.com/ChainSafe/lodestar/pull/9796#pullrequestreview-4949547111) - 2026-08-17
+* [Commit] [fix: preserve request content length (#9834)](https://github.com/ChainSafe/lodestar/commit/1fd2d8bf0b415289fca578526be52b330cb155e9) - 2026-08-17
+* [Commit] [fix: use progressive payload attestation pool response (#9838)](https://github.com/ChainSafe/lodestar/commit/5e3aa1b476b9dc532049e61c5a3101c044d3d712) - 2026-08-17
+* [Commit] [chore: clarify code comment guidance (#9833)](https://github.com/ChainSafe/lodestar/commit/00891f27dade6870e26413d7f8844e48b695fdfb) - 2026-08-17
+* [Commit] [fix: prevent builder payment weight double count (#9830)](https://github.com/ChainSafe/lodestar/commit/89b25bab8a80426d669034c1a445a7a3e55826a4) - 2026-08-17
+* [Commit] [feat: instrument builder onboarding at the gloas fork transition (#9828)](https://github.com/ChainSafe/lodestar/commit/6325e4e1fec58e44959bf631bc9f162e5e6fadf4) - 2026-08-17
+* [Commit] [refactor: use Wei type for produce block values (#9831)](https://github.com/ChainSafe/lodestar/commit/9d19aee2e783058aa535dfb9b1663df019960b0c) - 2026-08-17
+* [Commit] [fix: reject repeat proposals in publish block API (#9818)](https://github.com/ChainSafe/lodestar/commit/5ba13935040dc5e757ad704e76f7f706746aec45) - 2026-08-17
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -343,6 +360,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Do not apply proposer boost to equivocated blocks in Gloas](https://github.com/ethereum/consensus-specs/pull/5535#pullrequestreview-4916170860) - 2026-08-12
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4924847305) - 2026-08-13
 * [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543#pullrequestreview-4944712507) - 2026-08-15
+* [Pull Request] [Allow epoch boundary reorgs in Fulu](https://github.com/ethereum/consensus-specs/pull/5547) - 2026-08-17
+* [Review] [Review on: Allow epoch boundary reorgs in Fulu](https://github.com/ethereum/consensus-specs/pull/5547#pullrequestreview-4954173692) - 2026-08-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

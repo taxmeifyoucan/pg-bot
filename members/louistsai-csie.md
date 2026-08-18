@@ -114,6 +114,7 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: fix(consume): map reth BAL account-miss and item-cost rejection messages](https://github.com/ethereum/execution-specs/pull/3371#pullrequestreview-4934260083) - 2026-08-14
 * [Issue] [Issue tracker to full benchmark test suite & glamsterdam-devnet-8 migration](https://github.com/ethereum/execution-specs/issues/3375) - 2026-08-14
 * [Commit] [refactor(test-benchmark): remove potential duplicated cases (#3374)](https://github.com/ethereum/execution-specs/commit/43e3cd1ec03dd550a2bd43746564b339e85fcd1d) - 2026-08-14
+* [Pull Request] [refactor(tests): EIP-8037 test gas calculation logic and post state verification](https://github.com/ethereum/execution-specs/pull/3383) - 2026-08-17
 ## Q2 2026
 
 

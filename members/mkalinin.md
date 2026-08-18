@@ -29,6 +29,7 @@ Team: [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io
 * [Review] [Review on: Use the genesis root as a dependent root for the first two epochs](https://github.com/ethereum/consensus-specs/pull/5515#pullrequestreview-4862651682) - 2026-08-05
 * [Review] [Review on: Run filtered tests in parallel by default](https://github.com/ethereum/consensus-specs/pull/5531#pullrequestreview-4903167551) - 2026-08-11
 * [Review] [Review on: Integrate optimistic sync specs into core specs](https://github.com/ethereum/consensus-specs/pull/5529#pullrequestreview-4912948802) - 2026-08-12
+* [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543#pullrequestreview-4948691356) - 2026-08-17
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Register `CN` for Caplin](https://github.com/ethereum/execution-apis/pull/844#pullrequestreview-4647866464) - 2026-07-07
 

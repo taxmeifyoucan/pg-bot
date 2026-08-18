@@ -109,6 +109,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Extract plugin-api sync module](https://github.com/besu-eth/besu/pull/11052#pullrequestreview-4936738296) - 2026-08-14
 * [Review] [Review on: Deprecate PoaQueryService and BftQueryService for removal](https://github.com/besu-eth/besu/pull/11051#pullrequestreview-4936169869) - 2026-08-14
 * [Commit] [Demote timeout and closed connection exception to WARN (#11054)](https://github.com/besu-eth/besu/commit/c2addd94244196d4713e38ea659be0d2581082e9) - 2026-08-14
+* [Review] [Review on: remove unused and legacy config files](https://github.com/besu-eth/besu/pull/11033#pullrequestreview-4951279304) - 2026-08-17
+* [Review] [Review on: Feature: minimal upgrade to vertx 5](https://github.com/besu-eth/besu/pull/11015#pullrequestreview-4951300485) - 2026-08-17
+* [Pull Request] [Focil devnet 8](https://github.com/besu-eth/besu/pull/11073) - 2026-08-17
+* [Review] [Review on: Extract plugin-api rpc module](https://github.com/besu-eth/besu/pull/11070#pullrequestreview-4951383618) - 2026-08-17
+* [Pull Request] [Backfill missing sources checksums for already-trusted verification-metadata components](https://github.com/besu-eth/besu/pull/11072) - 2026-08-17
+* [Commit] [Backfill missing sources checksums for already-trusted verification-metadata components (#11072)](https://github.com/besu-eth/besu/commit/6bb9b215d79a5bbdca878c2e042dd284b792adb9) - 2026-08-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

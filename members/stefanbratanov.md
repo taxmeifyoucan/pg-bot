@@ -29,6 +29,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: add support for plataberget network](https://github.com/Consensys/teku/pull/11108#pullrequestreview-4940179998) - 2026-08-14
 * [Review] [Review on: EIP-8261 Scheduled Gas Limit](https://github.com/Consensys/teku/pull/11106#pullrequestreview-4940174037) - 2026-08-14
 * [Pull Request] [Refactor/renames for BlockContents](https://github.com/Consensys/teku/pull/11109) - 2026-08-15
+* [Pull Request] [Fix builder payment weight double-count under target equivocation](https://github.com/Consensys/teku/pull/11123) - 2026-08-17
 ## Q2 2026
 
 

@@ -196,6 +196,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [test: give state/evm smoke tests real assertions (#12694)](https://github.com/NethermindEth/nethermind/commit/c35ce1b1abec4aea64dc4e2fd17cd68f0a4b19dc) - 2026-08-16
 * [Commit] [test: add JSON converter golden tests and fix public-key DATA width (#12705)](https://github.com/NethermindEth/nethermind/commit/790430ba90b10b6d25af56cd8fdca4c7e61702a1) - 2026-08-16
 * [Commit] [ci: run orphaned Nethermind test projects in the test matrix (#12689)](https://github.com/NethermindEth/nethermind/commit/f365bf742e1335950b6cb2d82ee1b544849cac9e) - 2026-08-16
+* [Review] [Review on: ci: don't cancel in-progress sync-master-validation runs](https://github.com/NethermindEth/nethermind/pull/12817#pullrequestreview-4950751333) - 2026-08-17
+* [Commit] [test: give vacuous size-extension and hint-cache tests real expectations (#12710)](https://github.com/NethermindEth/nethermind/commit/ab4f92ca33beabdb5f715a09e79f13010c95d2a3) - 2026-08-17
+* [Commit] [test: make decoder tests assert the decoded values (#12711)](https://github.com/NethermindEth/nethermind/commit/55357b19035e779aee359f0383405aec6be17913) - 2026-08-17
+* [Commit] [Quarantine hygiene: remove every uncategorised test retry, and the sync defects they hid (#12727)](https://github.com/NethermindEth/nethermind/commit/b92fec941b0ac38c6675ef403c304fa28a069b95) - 2026-08-17
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

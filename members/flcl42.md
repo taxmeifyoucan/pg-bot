@@ -217,6 +217,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Allow consensus-only ENRs in discv5 routing (#12613)](https://github.com/NethermindEth/nethermind/commit/7ba40f7a244fd42ebf1de0b0ae72d17b0a35909b) - 2026-08-16
 * [Commit] [Back off idle random-walk discovery once the routing table is full (#12771)](https://github.com/NethermindEth/nethermind/commit/cb43344f9ce3a3a4ed7938e9aa9e46ad72f9c070) - 2026-08-16
 * [Commit] [Expose EIP-8282 builder contracts in eth_config (#12815)](https://github.com/NethermindEth/nethermind/commit/0bbbf58648a639407cb72a2fca4f0f8c159ca02b) - 2026-08-16
+* [Review] [Review on: Let caches clear and code commit in background](https://github.com/NethermindEth/nethermind/pull/9012#pullrequestreview-4955703370) - 2026-08-18
+* [Review] [Review on: Improve Block caching and reduce lookup allocations](https://github.com/NethermindEth/nethermind/pull/8943#pullrequestreview-4951896747) - 2026-08-17
+* [Review] [Review on: feat(xdc): read XDPoS rewards as XDC amounts](https://github.com/NethermindEth/nethermind/pull/12852#pullrequestreview-4954884111) - 2026-08-17
+* [Review] [Review on: fix(sync): record snap progress per backend](https://github.com/NethermindEth/nethermind/pull/12857#pullrequestreview-4953818789) - 2026-08-17
+* [Review] [Review on: test(merge): give engine payload builds a CI-safe improvement budget](https://github.com/NethermindEth/nethermind/pull/12533#pullrequestreview-4953379597) - 2026-08-17
+* [Review] [Review on: feat(frames): two-dimensional gas limits per EIP-8141 (devnet-0)](https://github.com/NethermindEth/nethermind/pull/12850#pullrequestreview-4950385560) - 2026-08-17
+* [Review] [Review on: feat(frames): two-dimensional gas limits per EIP-8141](https://github.com/NethermindEth/nethermind/pull/12847#pullrequestreview-4948146574) - 2026-08-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

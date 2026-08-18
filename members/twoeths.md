@@ -108,6 +108,17 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: trigger getBlobs in Unknown block sync (#9806)](https://github.com/ChainSafe/lodestar/commit/25a4a1c65f68fa2b0c8a36c8c2a402befcf99ce4) - 2026-08-13
 * [Commit] [fix: process REPEAT_PROPOSAL block (#9805)](https://github.com/ChainSafe/lodestar/commit/36fc8329830d988e6a25e633911d945d14e80058) - 2026-08-13
 * [Commit] [fix: differentiate ALREADY_KNOWN vs REPEAT_PROPOSAL seen block proposal (#9814)](https://github.com/ChainSafe/lodestar/commit/ca6d994e0e19cae079af624ab4ddb015273bf069) - 2026-08-13
+* [Pull Request] [perf: implement appendBuilderToRegistry()](https://github.com/ChainSafe/lodestar/pull/9840) - 2026-08-17
+* [Review] [Review on: chore: clarify code comment guidance](https://github.com/ChainSafe/lodestar/pull/9833#pullrequestreview-4948011676) - 2026-08-17
+* [Review] [Review on: fix: prevent builder payment weight double count](https://github.com/ChainSafe/lodestar/pull/9830#pullrequestreview-4948003085) - 2026-08-17
+* [Pull Request] [fix: handle attributable peers on range sync](https://github.com/ChainSafe/lodestar/pull/9836) - 2026-08-17
+* [Review] [Review on: chore: track elapsed time for ptc and bid](https://github.com/ChainSafe/lodestar/pull/9796#pullrequestreview-4948150204) - 2026-08-17
+* [Review] [Review on: feat: instrument builder onboarding at the gloas fork transition](https://github.com/ChainSafe/lodestar/pull/9828#pullrequestreview-4948069779) - 2026-08-17
+* [Review] [Review on: refactor: use Wei type for produce block values](https://github.com/ChainSafe/lodestar/pull/9831#pullrequestreview-4948031262) - 2026-08-17
+* [Review] [Review on: fix: reject repeat proposals in publish block API](https://github.com/ChainSafe/lodestar/pull/9818#pullrequestreview-4948093921) - 2026-08-17
+* [Review] [Review on: feat: use zig backedlodestar-z shuffle](https://github.com/ChainSafe/lodestar/pull/9829#pullrequestreview-4948038055) - 2026-08-17
+* [Commit] [perf: implement appendBuilderToRegistry() (#9840)](https://github.com/ChainSafe/lodestar/commit/9087110398d327b631850c673f10cde5af744a93) - 2026-08-17
+* [Commit] [chore: track elapsed time for ptc and bid (#9796)](https://github.com/ChainSafe/lodestar/commit/7481aa585088fa0f87b0414f3feeac6a6c5482d2) - 2026-08-17
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

@@ -61,6 +61,15 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Review] [Review on: Preserve diverging fork duties and orphaned block bodies in blockdb](https://github.com/ethpandaops/dora/pull/827#pullrequestreview-4915980378) - 2026-08-12
 * [Review] [Review on: show early regular builder deposits](https://github.com/ethpandaops/dora/pull/833#pullrequestreview-4938291304) - 2026-08-14
 * [Pull Request] [feat: ENS name search in the main search bar](https://github.com/ethpandaops/dora/pull/832) - 2026-08-14
+* [Review] [Review on: multi network ENS resolver](https://github.com/ethpandaops/dora/pull/836#pullrequestreview-4954004761) - 2026-08-17
+* [Pull Request] [feat: reload chain spec values on force client refresh](https://github.com/ethpandaops/dora/pull/837) - 2026-08-17
+* [Review] [Review on: feat: reload chain spec values on force client refresh](https://github.com/ethpandaops/dora/pull/837#pullrequestreview-4951101500) - 2026-08-17
+* [Commit] [Merge pull request #836 from ethpandaops/pk910/ens-multi-network](https://github.com/ethpandaops/dora/commit/dd0234a1ef8b3a74e540aa6f4e8bf3059e37d958) - 2026-08-17
+* [Commit] [Merge branch 'master' into pk910/ens-multi-network](https://github.com/ethpandaops/dora/commit/56ab8b56a1b866bc23804df572ce281ee2440c8a) - 2026-08-17
+* [Commit] [Merge pull request #837 from ethpandaops/bbusa/force-refresh-specs](https://github.com/ethpandaops/dora/commit/6e19e099759978cf98662378d686c44051670908) - 2026-08-17
+* [Commit] [Merge branch 'master' into bbusa/force-refresh-specs](https://github.com/ethpandaops/dora/commit/83e3885e7191148107c871c2a6be7e7733f3a02a) - 2026-08-17
+* [Commit] [fix: address review findings](https://github.com/ethpandaops/dora/commit/1be878864f6d0b5e55bd9045e3408611a93cf68b) - 2026-08-17
+* [Commit] [feat: reload chain spec values on force client refresh](https://github.com/ethpandaops/dora/commit/dcfa2ebcb5b0f802d9e5cc22d31ab0956d16d8c0) - 2026-08-17
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
@@ -140,6 +149,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(gas-profiler): update Glamsterdam preset to frozen devnet-8 repricing](https://github.com/ethpandaops/lab/pull/447) - 2026-08-14
 * [Review] [Review on: feat(gas-profiler): update Glamsterdam preset to frozen devnet-8 repricing](https://github.com/ethpandaops/lab/pull/447#pullrequestreview-4936642686) - 2026-08-14
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Use topic fork schema for data_column_sidecar gossip decoding](https://github.com/Consensys/teku/pull/11121) - 2026-08-17
+* [Issue] [Gossip DataColumnSidecar decoding uses highest-supported-milestone schema — all Fulu column sidecars rejected when Gloas is scheduled](https://github.com/Consensys/teku/issues/11120) - 2026-08-17
+* [Commit] [Use topic fork schema for data_column_sidecar gossip decoding (#11121)](https://github.com/Consensys/teku/commit/81f28dc72bd6e2a6e0ab89ce61b44d279c8b4f58) - 2026-08-18
 ## Q2 2026
 
 

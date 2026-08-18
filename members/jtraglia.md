@@ -187,6 +187,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Use FCR store in `get_safe_execution_block_hash` call](https://github.com/ethereum/consensus-specs/pull/5542#pullrequestreview-4938337636) - 2026-08-14
 * [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543#pullrequestreview-4944700945) - 2026-08-15
 * [Review] [Review on: Add casts to uint operations with different types](https://github.com/ethereum/consensus-specs/pull/5527#pullrequestreview-4942857145) - 2026-08-15
+* [Review] [Review on: Allow epoch boundary reorgs in Fulu](https://github.com/ethereum/consensus-specs/pull/5547#pullrequestreview-4954387556) - 2026-08-17
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5546#pullrequestreview-4947916443) - 2026-08-17
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -219,6 +221,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Bump the actions group with 9 updates](https://github.com/ethereum/c-kzg-4844/pull/656#pullrequestreview-4835747671) - 2026-08-01
 * [Review] [Review on: Fix YAML folding](https://github.com/ethereum/c-kzg-4844/pull/658#pullrequestreview-4908705964) - 2026-08-11
 * [Review] [Review on: Migrate to NuGet trusted publishing](https://github.com/ethereum/c-kzg-4844/pull/657#pullrequestreview-4907648088) - 2026-08-11
+* [Pull Request] [Add function to recover cells (and not proofs) to bindings](https://github.com/ethereum/c-kzg-4844/pull/660) - 2026-08-17
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #88, July 20, 2026](https://github.com/ethereum/pm/issues/2162) - 2026-07-16
 * [Issue] [All Core Devs - Testing (ACDT) #90, August 3, 2026](https://github.com/ethereum/pm/issues/2174) - 2026-07-27

@@ -259,6 +259,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: move GetValSize to kv.TemporalTx interface (#23287)](https://github.com/erigontech/erigon/commit/ee118299268ca7c952b95754fa74e4f3c72fb3f1) - 2026-08-14
 * [Commit] [execution: optimise extcodesize cold reads (#23276)](https://github.com/erigontech/erigon/commit/f277db3c8d9d762d0ea1165021930aa52452d942) - 2026-08-14
 * [Pull Request] [db/seg: reduce page cache misses for large unique code literal sections](https://github.com/erigontech/erigon/pull/23328) - 2026-08-16
+* [Commit] [db/seg: reduce page cache misses for large unique code literal sections (#23328)](https://github.com/erigontech/erigon/commit/4e74e0e821b99c781bb7349436301d0e2d8fafc1) - 2026-08-17
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
