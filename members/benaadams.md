@@ -200,6 +200,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [test: give vacuous size-extension and hint-cache tests real expectations (#12710)](https://github.com/NethermindEth/nethermind/commit/ab4f92ca33beabdb5f715a09e79f13010c95d2a3) - 2026-08-17
 * [Commit] [test: make decoder tests assert the decoded values (#12711)](https://github.com/NethermindEth/nethermind/commit/55357b19035e779aee359f0383405aec6be17913) - 2026-08-17
 * [Commit] [Quarantine hygiene: remove every uncategorised test retry, and the sync defects they hid (#12727)](https://github.com/NethermindEth/nethermind/commit/b92fec941b0ac38c6675ef403c304fa28a069b95) - 2026-08-17
+* [Commit] [Optimize flat-state snapshot compaction and harden SortedMergeDictionary builds (#12864)](https://github.com/NethermindEth/nethermind/commit/881c45a096da225bad25b78fc2b6e7650505a524) - 2026-08-18
+* [Commit] [Avoid ArrayPool.Shared-only finally blocks (#12865)](https://github.com/NethermindEth/nethermind/commit/4c35f67c9ebe23ad9427f57ce60ac111bad73f40) - 2026-08-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

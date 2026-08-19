@@ -116,6 +116,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: use progressive payload attestation pool response](https://github.com/ChainSafe/lodestar/pull/9838#pullrequestreview-4953633370) - 2026-08-17
 * [Review] [Review on: perf: implement appendBuilderToRegistry()](https://github.com/ChainSafe/lodestar/pull/9840#pullrequestreview-4952763547) - 2026-08-17
 * [Review] [Review on: chore: address BLS integration review feedback](https://github.com/ChainSafe/lodestar/pull/9837#pullrequestreview-4952678120) - 2026-08-17
+* [Review] [Review on: fix(bls): bound worker signature packages](https://github.com/ChainSafe/lodestar/pull/9846#pullrequestreview-4964543768) - 2026-08-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -187,6 +188,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf(bls): add cache-aware signature verifier](https://github.com/ChainSafe/lodestar-z/pull/562#pullrequestreview-4937827549) - 2026-08-14
 * [Pull Request] [ci: publish dev bindings from main](https://github.com/ChainSafe/lodestar-z/pull/568) - 2026-08-17
 * [Review] [Review on: ci: publish dev bindings from main](https://github.com/ChainSafe/lodestar-z/pull/568#pullrequestreview-4954104826) - 2026-08-17
+* [Review] [Review on: feat: reference-parity swap_or_not_shuffle API and JS binding](https://github.com/ChainSafe/lodestar-z/pull/559#pullrequestreview-4962076383) - 2026-08-18
+* [Pull Request] [chore: update zapi to 4.0.0](https://github.com/ChainSafe/lodestar-z/pull/571) - 2026-08-18
+* [Review] [Review on: chore: update zapi to 4.0.0](https://github.com/ChainSafe/lodestar-z/pull/571#pullrequestreview-4965005293) - 2026-08-18
+* [Review] [Review on: chore(docs): add comments section in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/566#pullrequestreview-4962110314) - 2026-08-18
+* [Commit] [docs: document security threat model (#557)](https://github.com/ChainSafe/lodestar-z/commit/e678b87c81783f9318dbb692015318ed85f3e6f8) - 2026-08-18
+* [Commit] [ci: publish dev bindings from main (#568)](https://github.com/ChainSafe/lodestar-z/commit/dfe61b3e888b35610ce0718a1d38f2341b4489fd) - 2026-08-18
+* [Commit] [perf(bls): add cache-aware signature verifier (#562)](https://github.com/ChainSafe/lodestar-z/commit/063857ef108d758f246382afb418fe2c33cc47b6) - 2026-08-18
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

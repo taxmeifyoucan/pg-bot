@@ -55,6 +55,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Issue] [Delete non-standard `late_head` SSE](https://github.com/sigp/lighthouse/issues/9824) - 2026-08-17
 * [Issue] [Use Gloas BPS values from ChainSpec in BN and VC](https://github.com/sigp/lighthouse/issues/9821) - 2026-08-17
 * [Commit] [Release v8.2.2](https://github.com/sigp/lighthouse/commit/e423a66763bb1bd780492d635123f208d80c3538) - 2026-08-17
+* [Review] [Review on: Update h2 to fix RUSTSEC-2026-0258](https://github.com/sigp/lighthouse/pull/9850#pullrequestreview-4960344275) - 2026-08-18
+* [Review] [Review on: Back merge 8.2.2](https://github.com/sigp/lighthouse/pull/9851#pullrequestreview-4960323101) - 2026-08-18
 ## Q2 2026
 
 

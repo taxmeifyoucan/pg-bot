@@ -30,6 +30,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: EIP-8261 Scheduled Gas Limit](https://github.com/Consensys/teku/pull/11106#pullrequestreview-4940174037) - 2026-08-14
 * [Pull Request] [Refactor/renames for BlockContents](https://github.com/Consensys/teku/pull/11109) - 2026-08-15
 * [Pull Request] [Fix builder payment weight double-count under target equivocation](https://github.com/Consensys/teku/pull/11123) - 2026-08-17
+* [Pull Request] [Put `BuilderConfig` in request body when calling block v4](https://github.com/Consensys/teku/pull/11132) - 2026-08-18
+* [Review] [Review on: add domain builder deposit to get spec api](https://github.com/Consensys/teku/pull/11105#pullrequestreview-4962426001) - 2026-08-18
+* [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/Consensys/teku/pull/11123#pullrequestreview-4962249279) - 2026-08-18
+* [Commit] [Refactor/renames for BlockContents (#11109)](https://github.com/Consensys/teku/commit/fd3407390db916f80efeb6d9831645a2a4009193) - 2026-08-18
 ## Q2 2026
 
 

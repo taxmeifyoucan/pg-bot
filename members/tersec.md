@@ -93,6 +93,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [support Platåberget testnet](https://github.com/status-im/nimbus-eth2/pull/8893) - 2026-08-17
 * [Pull Request] [test with Nim 2.4](https://github.com/status-im/nimbus-eth2/pull/8888) - 2026-08-17
 * [Pull Request] [fix builder weight double-count under target equivocation](https://github.com/status-im/nimbus-eth2/pull/8889) - 2026-08-17
+* [Review] [Review on: Fix head payload status update](https://github.com/status-im/nimbus-eth2/pull/8903#pullrequestreview-4964140564) - 2026-08-18
+* [Review] [Review on: Add version envelope to Gloas event stream events](https://github.com/status-im/nimbus-eth2/pull/8816#pullrequestreview-4962917526) - 2026-08-18
+* [Review] [Review on: engine ssz rest api](https://github.com/status-im/nimbus-eth2/pull/8895#pullrequestreview-4957355863) - 2026-08-18
+* [Pull Request] [use Fulu genesis for mainnet local testnet](https://github.com/status-im/nimbus-eth2/pull/8899) - 2026-08-18
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -149,6 +153,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [bump nim-json-serialization and nim-stew to optimize newPayload JSON decoding (#4611)](https://github.com/status-im/nimbus-eth1/commit/28c59cd817ec0a1b0858c9d559cb80e0067d0e94) - 2026-08-07
 * [Review] [Review on: fc time budgeting instead of capping](https://github.com/status-im/nimbus-eth1/pull/4588#pullrequestreview-4906473314) - 2026-08-11
 * [Review] [Review on: make release nightly use the existing release pathway for better testing](https://github.com/status-im/nimbus-eth1/pull/4632#pullrequestreview-4951297756) - 2026-08-17
+* [Review] [Review on: Ssz rest](https://github.com/status-im/nimbus-eth1/pull/4653#pullrequestreview-4962233004) - 2026-08-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

@@ -23,6 +23,7 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: add to trusted list for zkevm](https://github.com/ethereum/pm/commit/b85f326103841b01d98f891c55ad98f57be8d7b4) - 2026-08-10
 * [Commit] [acdbot: new frame meeting id](https://github.com/ethereum/pm/commit/d3a48725df75b6ec5f3bbecf7682e2373a3517aa) - 2026-08-13
 * [Commit] [acdbot: rename frame tx call](https://github.com/ethereum/pm/commit/3a055be445d869db8375f7818b438f2eb0040275) - 2026-08-13
+* [Commit] [acdbot: sszengineapi bi-weekly](https://github.com/ethereum/pm/commit/d84f2adc5336cecc8f8e3dd9107ce9e1408384a0) - 2026-08-18
 ## Q2 2026
 
 

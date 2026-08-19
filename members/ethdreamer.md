@@ -30,6 +30,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 * [Pull Request] [Add builder API types, request-auth domain, and eth2 client methods (Gloas builder API 1/5)](https://github.com/sigp/lighthouse/pull/9803) - 2026-08-13
 * [Review] [Review on: Gloas: external builder API (payload bid selection and block production)](https://github.com/sigp/lighthouse/pull/9757#pullrequestreview-4930740361) - 2026-08-13
 * [Review] [Review on: Add builder API types, request-auth domain, and eth2 client methods (Gloas builder API 1/5)](https://github.com/sigp/lighthouse/pull/9803#pullrequestreview-4940092712) - 2026-08-14
+* [Review] [Review on: Add builder API types, request-auth domain, and eth2 client methods (Gloas builder API 1/5)](https://github.com/sigp/lighthouse/pull/9803#pullrequestreview-4964164486) - 2026-08-18
 ## Q2 2026
 
 

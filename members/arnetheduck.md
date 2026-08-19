@@ -23,6 +23,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Use wildcard for excluded packages](https://github.com/status-im/nimbus-eth1/pull/4539) - 2026-07-22
 * [Commit] [Use wildcard for excluded packages (#4539)](https://github.com/status-im/nimbus-eth1/commit/9b8f3d454e4efa0a18d00faa2ddc4bff90a76df5) - 2026-07-22
 * [Pull Request] [Use split compile/link build](https://github.com/status-im/nimbus-eth1/pull/4643) - 2026-08-15
+* [Pull Request] [n-b-s: rm pcre/rocksdb support](https://github.com/status-im/nimbus-eth1/pull/4657) - 2026-08-18
+* [Commit] [n-b-s: rm pcre/rocksdb support (#4657)](https://github.com/status-im/nimbus-eth1/commit/0c23c5f41fceea76dfd2a225f2599edef2d0fce6) - 2026-08-18
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8735) - 2026-07-08
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8734) - 2026-07-08
@@ -33,6 +35,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Ensure sigsets are part of async env in batch validation](https://github.com/status-im/nimbus-eth2/pull/8804#pullrequestreview-4781265111) - 2026-07-26
 * [Pull Request] [Use cross-thread `callSoon` to simplify task completion logic](https://github.com/status-im/nimbus-eth2/pull/8853) - 2026-08-06
 * [Pull Request] [remove force build](https://github.com/status-im/nimbus-eth2/pull/8883) - 2026-08-14
+* [Pull Request] [n-b-s: rm pcre/rocksdb support](https://github.com/status-im/nimbus-eth2/pull/8902) - 2026-08-18
 ## Q2 2026
 
 

@@ -79,6 +79,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Resolve dependencies through a Maven Central mirror](https://github.com/Consensys/teku/pull/11113#pullrequestreview-4947729229) - 2026-08-17
 * [Review] [Review on: Use topic fork schema for data_column_sidecar gossip decoding](https://github.com/Consensys/teku/pull/11121#pullrequestreview-4955658793) - 2026-08-18
 * [Review] [Review on: Share one Gradle cache entry across CI jobs](https://github.com/Consensys/teku/pull/11111#pullrequestreview-4947953160) - 2026-08-17
+* [Review] [Review on: Validate BeaconBlocksByRoot responses against requested roots](https://github.com/Consensys/teku/pull/11118#pullrequestreview-4957049026) - 2026-08-18
+* [Review] [Review on: Remove blinded execution payload envelope](https://github.com/Consensys/teku/pull/11091#pullrequestreview-4957070055) - 2026-08-18
+* [Review] [Review on: Add tests for data column sidecar gossip schema fork resolution](https://github.com/Consensys/teku/pull/11126#pullrequestreview-4957046097) - 2026-08-18
+* [Commit] [Remove blinded execution payload envelope (#11091)](https://github.com/Consensys/teku/commit/20764a029793d25887601cba5935f35cbfd6dbd2) - 2026-08-18
 ## Q2 2026
 
 

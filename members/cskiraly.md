@@ -34,6 +34,7 @@ Team: Codex DAS
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [perf(eip7594): recover cells ~4.7x faster](https://github.com/ethereum/c-kzg-4844/pull/659) - 2026-08-16
 * [Pull Request] [perf(fft): iterative in-place fr_fft with staged twiddle lookup](https://github.com/ethereum/c-kzg-4844/pull/661) - 2026-08-17
+* [Pull Request] [perf(eip7594): compute the extension with a half-size coset FFT](https://github.com/ethereum/c-kzg-4844/pull/663) - 2026-08-18
 ## Q2 2026
 
 

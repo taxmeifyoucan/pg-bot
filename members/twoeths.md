@@ -119,6 +119,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: use zig backedlodestar-z shuffle](https://github.com/ChainSafe/lodestar/pull/9829#pullrequestreview-4948038055) - 2026-08-17
 * [Commit] [perf: implement appendBuilderToRegistry() (#9840)](https://github.com/ChainSafe/lodestar/commit/9087110398d327b631850c673f10cde5af744a93) - 2026-08-17
 * [Commit] [chore: track elapsed time for ptc and bid (#9796)](https://github.com/ChainSafe/lodestar/commit/7481aa585088fa0f87b0414f3feeac6a6c5482d2) - 2026-08-17
+* [Review] [Review on: fix: recompute head before proposer boost dependent root check](https://github.com/ChainSafe/lodestar/pull/9813#pullrequestreview-4958316299) - 2026-08-18
+* [Review] [Review on: feat: allow proposer reorgs at epoch boundaries](https://github.com/ChainSafe/lodestar/pull/9769#pullrequestreview-4956396144) - 2026-08-18
+* [Issue] [Epoch boundary reorg preparation](https://github.com/ChainSafe/lodestar/issues/9843) - 2026-08-18
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

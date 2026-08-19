@@ -107,6 +107,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Cache slashed justified balances](https://github.com/sigp/lighthouse/pull/9830) - 2026-08-17
 * [Pull Request] [Set parent payload availability bit for attestation packing and the attestation simulator](https://github.com/sigp/lighthouse/pull/9828) - 2026-08-17
 * [Review] [Review on: Use Gloas timings for aggregate attestations and sync committee messages](https://github.com/sigp/lighthouse/pull/9823#pullrequestreview-4950733103) - 2026-08-17
+* [Review] [Review on: Bump EF tests to v1.7.0-alpha.13](https://github.com/sigp/lighthouse/pull/9764#pullrequestreview-4959950767) - 2026-08-18
+* [Review] [Review on: Gate payload import on optional execution proofs](https://github.com/sigp/lighthouse/pull/9808#pullrequestreview-4960429278) - 2026-08-18
+* [Pull Request] [Update h2 to fix RUSTSEC-2026-0258](https://github.com/sigp/lighthouse/pull/9850) - 2026-08-18
+* [Review] [Review on: Align gloas proposer reorg weight logic w/ spec ](https://github.com/sigp/lighthouse/pull/9831#pullrequestreview-4958682656) - 2026-08-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

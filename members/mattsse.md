@@ -346,6 +346,10 @@ Team: Reth
 * [Pull Request] [feat(txpool): add consensus encoding helper](https://github.com/paradigmxyz/reth/pull/26739) - 2026-08-16
 * [Review] [Review on: feat(engine): build FOCIL inclusion lists](https://github.com/paradigmxyz/reth/pull/26737#pullrequestreview-4945519485) - 2026-08-16
 * [Review] [Review on: fix(rpc): preserve gas limit in eth_sendTransaction](https://github.com/paradigmxyz/reth/pull/26743#pullrequestreview-4950887365) - 2026-08-17
+* [Pull Request] [fix(rpc): reject oversized raw transactions before decoding](https://github.com/paradigmxyz/reth/pull/26755) - 2026-08-18
+* [Pull Request] [chore(deps): bump h2 to 0.4.16](https://github.com/paradigmxyz/reth/pull/26753) - 2026-08-18
+* [Pull Request] [fix(provider): handle storage wipes in block persistence](https://github.com/paradigmxyz/reth/pull/26751) - 2026-08-18
+* [Commit] [chore(deps): bump h2 to 0.4.16 (#26753)](https://github.com/paradigmxyz/reth/commit/4e515276f219bdad941cf87b4f16a127305e97ea) - 2026-08-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -358,6 +362,8 @@ Team: Reth
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(consume): add missing reth exception mapper entries](https://github.com/ethereum/execution-specs/pull/3380) - 2026-08-14
+* [Pull Request] [fix(consume): map reth BAL slot-miss rejection](https://github.com/ethereum/execution-specs/pull/3392) - 2026-08-18
+* [Pull Request] [fix(consume): map Reth BAL gas limit rejection](https://github.com/ethereum/execution-specs/pull/3391) - 2026-08-18
 ## Q2 2026
 
 

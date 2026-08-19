@@ -59,6 +59,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Allow multiple bids compatible with the head view (alpha.13)](https://github.com/sigp/lighthouse/pull/9763#pullrequestreview-4940199847) - 2026-08-14
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot (alpha.13)](https://github.com/sigp/lighthouse/pull/9761#pullrequestreview-4953370870) - 2026-08-17
 * [Review] [Review on: Release v8.2.2](https://github.com/sigp/lighthouse/pull/9840#pullrequestreview-4955355686) - 2026-08-17
+* [Review] [Review on: Add builder API types, request-auth domain, and eth2 client methods (Gloas builder API 1/5)](https://github.com/sigp/lighthouse/pull/9803#pullrequestreview-4966665207) - 2026-08-18
 ## Q2 2026
 
 

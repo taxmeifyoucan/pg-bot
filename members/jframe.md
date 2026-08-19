@@ -50,6 +50,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [perf: eliminate O(N²) isClosed overhead in LayeredKeyValueStorage.get()](https://github.com/besu-eth/besu/pull/11071) - 2026-08-16
 * [Review] [Review on: Detect post merge at genesis](https://github.com/besu-eth/besu/pull/11047#pullrequestreview-4947540444) - 2026-08-16
 * [Review] [Review on: Bonsai archive proofs simple trie](https://github.com/besu-eth/besu/pull/11016#pullrequestreview-4947521633) - 2026-08-16
+* [Review] [Review on: Separate sync state observer monitor from `checkInSync()` lock](https://github.com/besu-eth/besu/pull/11041#pullrequestreview-4956813177) - 2026-08-18
+* [Review] [Review on: Make sure new transactions arriving during `emptyblockperiodseconds` are mined if the proposer has crashed](https://github.com/besu-eth/besu/pull/11031#pullrequestreview-4957701844) - 2026-08-18
+* [Review] [Review on: fix: fix validatorsArePaidBlockReward](https://github.com/besu-eth/besu/pull/11024#pullrequestreview-4957216976) - 2026-08-18
+* [Review] [Review on: Do not mark BFT protocol specs as PoS](https://github.com/besu-eth/besu/pull/11044#pullrequestreview-4956862623) - 2026-08-18
+* [Review] [Review on: Fix BFT block reward transitions misclassified as timestamp milestones](https://github.com/besu-eth/besu/pull/11014#pullrequestreview-4957122818) - 2026-08-18
 ## Q2 2026
 
 

@@ -42,6 +42,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [refactor: move shuffle into swap_or_not_shuffle module (#558)](https://github.com/ChainSafe/lodestar-z/commit/e56efb2ddf0577aefdd2102f06f81416972329ae) - 2026-08-13
 * [Pull Request] [feat: add PTC sampling from swap-or-not-shuffle#24](https://github.com/ChainSafe/lodestar-z/pull/563) - 2026-08-14
 * [Review] [Review on: feat: reference-parity swap_or_not_shuffle API and JS binding](https://github.com/ChainSafe/lodestar-z/pull/559#pullrequestreview-4934493635) - 2026-08-14
+* [Review] [Review on: feat: reference-parity swap_or_not_shuffle API and JS binding](https://github.com/ChainSafe/lodestar-z/pull/559#pullrequestreview-4960504244) - 2026-08-18
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07
@@ -76,6 +77,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: expose fast confirmation store variables via lodestar API](https://github.com/ChainSafe/lodestar/pull/9803#pullrequestreview-4917383238) - 2026-08-12
 * [Commit] [feat: expose fast confirmation store variables via lodestar API (#9803)](https://github.com/ChainSafe/lodestar/commit/d9c16ea16f3a02e406e53e4e9e5da99e0950c9f7) - 2026-08-12
 * [Pull Request] [feat: use zig backedlodestar-z shuffle](https://github.com/ChainSafe/lodestar/pull/9829) - 2026-08-15
+* [Review] [Review on: perf: verify BLS signature sets with lodestar-z](https://github.com/ChainSafe/lodestar/pull/9820#pullrequestreview-4962592896) - 2026-08-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

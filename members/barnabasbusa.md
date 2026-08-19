@@ -154,6 +154,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Use topic fork schema for data_column_sidecar gossip decoding](https://github.com/Consensys/teku/pull/11121) - 2026-08-17
 * [Issue] [Gossip DataColumnSidecar decoding uses highest-supported-milestone schema — all Fulu column sidecars rejected when Gloas is scheduled](https://github.com/Consensys/teku/issues/11120) - 2026-08-17
 * [Commit] [Use topic fork schema for data_column_sidecar gossip decoding (#11121)](https://github.com/Consensys/teku/commit/81f28dc72bd6e2a6e0ab89ce61b44d279c8b4f58) - 2026-08-18
+* [Pull Request] [Expose DOMAIN_BUILDER_DEPOSIT in config spec endpoint](https://github.com/Consensys/teku/pull/11131) - 2026-08-18
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [internal/ethapi: skip unconfigured forks when computing next fork in eth_config](https://github.com/ethereum/go-ethereum/pull/35553) - 2026-08-18
 ## Q2 2026
 
 

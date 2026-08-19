@@ -75,6 +75,10 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Add casts to uint operations with different types](https://github.com/ethereum/consensus-specs/pull/5527#pullrequestreview-4937899100) - 2026-08-14
 * [Review] [Review on: Use FCR store in `get_safe_execution_block_hash` call](https://github.com/ethereum/consensus-specs/pull/5542#pullrequestreview-4934795534) - 2026-08-14
 * [Review] [Review on: Add casts to uint operations with different types](https://github.com/ethereum/consensus-specs/pull/5527#pullrequestreview-4942765271) - 2026-08-15
+* [Review] [Review on: spec(eip8025): contain invalid proof gossip](https://github.com/ethereum/consensus-specs/pull/5502#pullrequestreview-4959536147) - 2026-08-18
+* [Review] [Review on: Rename sections for presets/configs](https://github.com/ethereum/consensus-specs/pull/5552#pullrequestreview-4963193375) - 2026-08-18
+* [Review] [Review on: Allow epoch boundary reorgs in Fulu](https://github.com/ethereum/consensus-specs/pull/5547#pullrequestreview-4958240996) - 2026-08-18
+* [Commit] [Change IL store's keys to (slot, dependent root) (#5544)](https://github.com/ethereum/consensus-specs/commit/7098ce676874012d851aeda7bbca1148221daf02) - 2026-08-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

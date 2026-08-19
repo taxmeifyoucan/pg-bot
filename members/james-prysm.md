@@ -149,6 +149,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Issue] [Beacon node can deadlock at startup when bulk state deletion runs concurrently with a nested DB read](https://github.com/OffchainLabs/prysm/issues/17366) - 2026-08-17
 * [Commit] [Add `GET`/`POST`/`DELETE /eth/v1/validator/{pubkey}/builders` keymanager endpoints (#17261)](https://github.com/OffchainLabs/prysm/commit/93d31a2f2fddd379b677583fe6f3003eb86bf73d) - 2026-08-17
 * [Commit] [adding doppelganger rechecks mid epoch for key changes (#17285)](https://github.com/OffchainLabs/prysm/commit/b238f4e7fa3cf098f45409521bbadf0f8a6a6948) - 2026-08-17
+* [Review] [Review on: Decouple builder request auth from the dial URL](https://github.com/OffchainLabs/prysm/pull/17373#pullrequestreview-4965219455) - 2026-08-18
+* [Pull Request] [mid epoch active pubkey duties](https://github.com/OffchainLabs/prysm/pull/17376) - 2026-08-18
+* [Review] [Review on: Align Gloas builder API request auth types and bid request headers with builder-specs](https://github.com/OffchainLabs/prysm/pull/17372#pullrequestreview-4964933198) - 2026-08-18
+* [Review] [Review on: Fix flaky tests (`TestTwoNodePartialColumnExchange` & `Test_notifyNewHeadEvent`)](https://github.com/OffchainLabs/prysm/pull/17361#pullrequestreview-4962428143) - 2026-08-18
+* [Pull Request] [removing TODO, and have wait for activation depend on health tracker](https://github.com/OffchainLabs/prysm/pull/17369) - 2026-08-18
 ## Q2 2026
 
 

@@ -81,6 +81,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Increase stateroot computation flush batch size](https://github.com/status-im/nimbus-eth1/pull/4645) - 2026-08-16
 * [Pull Request] [Parallel stateroot lock free merge keys](https://github.com/status-im/nimbus-eth1/pull/4652) - 2026-08-17
 * [Commit] [Increase stateroot computation flush batch size (#4645)](https://github.com/status-im/nimbus-eth1/commit/1443b9305eeed40d8cddbea2c4988122f5260525) - 2026-08-17
+* [Commit] [Parallel stateroot lock free merge keys (#4652)](https://github.com/status-im/nimbus-eth1/commit/c7811f41feb4c67fd953826eacc598dcc2be3a7b) - 2026-08-18
 ## Q2 2026
 
 

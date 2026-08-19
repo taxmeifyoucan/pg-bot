@@ -284,6 +284,11 @@ Team: Erigon
 * [Review] [Review on: execution/types: migrate txJSON and JsonAuthorization to hexutil.U256](https://github.com/erigontech/erigon/pull/23239#pullrequestreview-4945786164) - 2026-08-16
 * [Pull Request] [execution/state: trim comments from 4489 to 763 lines](https://github.com/erigontech/erigon/pull/23332) - 2026-08-17
 * [Review] [Review on: cmd/integration: add dump_state to export world state accounts to TSV](https://github.com/erigontech/erigon/pull/23318#pullrequestreview-4947870763) - 2026-08-17
+* [Pull Request] [db/snapshotsync, db/snaptype: caplin overlap-removal guards and review follow-ups](https://github.com/erigontech/erigon/pull/23374) - 2026-08-18
+* [Pull Request] [db/snaptype, db/snapshotsync: register caplin beacon-state types and put them on BaseRoSnapshots](https://github.com/erigontech/erigon/pull/23352) - 2026-08-18
+* [Review] [Review on: db/snaptype, db/snapshotsync: register caplin beacon-state types and put them on BaseRoSnapshots](https://github.com/erigontech/erigon/pull/23352#pullrequestreview-4959884436) - 2026-08-18
+* [Commit] [execution/commitment: reuse deferred-update pool buffers instead of cloning them (#23265)](https://github.com/erigontech/erigon/commit/0f0e7607fc6314b215266e07e26439ed9bea4508) - 2026-08-18
+* [Commit] [db/snaptype, db/snapshotsync: register caplin beacon-state types and put them on BaseRoSnapshots (#23352)](https://github.com/erigontech/erigon/commit/c8552b2bfd8497dd13aa159bdebaa785f214c891) - 2026-08-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

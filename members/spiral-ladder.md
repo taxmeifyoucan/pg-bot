@@ -49,6 +49,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat: support EIP-8261 gas limit schedule](https://github.com/ChainSafe/lodestar/pull/9808#pullrequestreview-4919603923) - 2026-08-12
 * [Review] [Review on: feat: support EIP-8261 gas limit schedule](https://github.com/ChainSafe/lodestar/pull/9808#pullrequestreview-4923494254) - 2026-08-13
 * [Review] [Review on: chore: address BLS integration review feedback](https://github.com/ChainSafe/lodestar/pull/9837#pullrequestreview-4950249750) - 2026-08-17
+* [Review] [Review on: perf: verify BLS signature sets with lodestar-z](https://github.com/ChainSafe/lodestar/pull/9820#pullrequestreview-4962777838) - 2026-08-18
+* [Pull Request] [feat(bls): update metrics for zig pk cache](https://github.com/ChainSafe/lodestar/pull/9844) - 2026-08-18
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -145,6 +147,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [[do not merge] feat(bindings): asyncAggregateWithRandomness by indices](https://github.com/ChainSafe/lodestar-z/pull/561) - 2026-08-13
 * [Commit] [feat(pubkeys): add getPubkeyBytes binding (#555)](https://github.com/ChainSafe/lodestar-z/commit/4ca51cf972ab0e1665e014afc7950a2edc85303c) - 2026-08-13
 * [Review] [Review on: perf(bls): add cache-aware signature verifier](https://github.com/ChainSafe/lodestar-z/pull/562#pullrequestreview-4937709649) - 2026-08-14
+* [Review] [Review on: feat: reference-parity swap_or_not_shuffle API and JS binding](https://github.com/ChainSafe/lodestar-z/pull/559#pullrequestreview-4961535018) - 2026-08-18
+* [Review] [Review on: ci: publish dev bindings from main](https://github.com/ChainSafe/lodestar-z/pull/568#pullrequestreview-4962103056) - 2026-08-18
+* [Pull Request] [chore(docs): add comments section in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/566) - 2026-08-18
+* [Commit] [chore(docs): add comments section in AGENTS.md (#566)](https://github.com/ChainSafe/lodestar-z/commit/0c0975098fd97ba02a447a8cdec736c91a3e806f) - 2026-08-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

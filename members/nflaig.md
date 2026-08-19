@@ -321,6 +321,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: instrument builder onboarding at the gloas fork transition (#9828)](https://github.com/ChainSafe/lodestar/commit/6325e4e1fec58e44959bf631bc9f162e5e6fadf4) - 2026-08-17
 * [Commit] [refactor: use Wei type for produce block values (#9831)](https://github.com/ChainSafe/lodestar/commit/9d19aee2e783058aa535dfb9b1663df019960b0c) - 2026-08-17
 * [Commit] [fix: reject repeat proposals in publish block API (#9818)](https://github.com/ChainSafe/lodestar/commit/5ba13935040dc5e757ad704e76f7f706746aec45) - 2026-08-17
+* [Review] [Review on: fix(fork-choice): preserve exact Gwei weights](https://github.com/ChainSafe/lodestar/pull/9821#pullrequestreview-4958583854) - 2026-08-18
+* [Pull Request] [fix: explicitly set bid fields when upgrading to gloas](https://github.com/ChainSafe/lodestar/pull/9847) - 2026-08-18
+* [Commit] [feat: allow proposer reorgs at epoch boundaries (#9769)](https://github.com/ChainSafe/lodestar/commit/1759dccc9c664eee2954f9c1136e7583da49ea4e) - 2026-08-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -362,6 +365,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543#pullrequestreview-4944712507) - 2026-08-15
 * [Pull Request] [Allow epoch boundary reorgs in Fulu](https://github.com/ethereum/consensus-specs/pull/5547) - 2026-08-17
 * [Review] [Review on: Allow epoch boundary reorgs in Fulu](https://github.com/ethereum/consensus-specs/pull/5547#pullrequestreview-4954173692) - 2026-08-17
+* [Review] [Review on: Use slot from header instead of bid](https://github.com/ethereum/consensus-specs/pull/5554#pullrequestreview-4963697310) - 2026-08-18
+* [Review] [Review on: Explicitly set bid fields when upgrading to Gloas](https://github.com/ethereum/consensus-specs/pull/5553#pullrequestreview-4963689375) - 2026-08-18
+* [Commit] [Allow epoch boundary reorgs in Fulu (#5547)](https://github.com/ethereum/consensus-specs/commit/0524372ef7a2d7878a3906ee642d82c1a8ca52b3) - 2026-08-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
@@ -395,6 +401,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: publish ARM64 musl bindings (#482)](https://github.com/ChainSafe/lodestar-z/commit/ac764c92c9fcb326e64c518c21880655f3efc8d9) - 2026-07-10
 * [Commit] [feat(bindings): configurable pubkey cache growth step (#481)](https://github.com/ChainSafe/lodestar-z/commit/133ef248a5e6dec11dac8f3dfd6879920e217834) - 2026-07-10
 * [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/544#pullrequestreview-4885090893) - 2026-08-07
+
+[Consensys/teku](https://github.com/Consensys/teku)
+* [Pull Request] [Return 404 for unknown keymanager validator keys](https://github.com/Consensys/teku/pull/11133) - 2026-08-18
+* [Commit] [Return 404 for unknown keymanager validator keys (#11133)](https://github.com/Consensys/teku/commit/93b41c1833441603b8272ddfec7a7fd7100508a5) - 2026-08-18
 ## Q2 2026
 
 

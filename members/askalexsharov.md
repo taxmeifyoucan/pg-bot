@@ -913,6 +913,28 @@ Team: Erigon
 * [Commit] [cmd/integration: add dump_state to export world state accounts to TSV (#23318)](https://github.com/erigontech/erigon/commit/ef76bbba5663f6988f91bb3ca3bda56309bfcaf9) - 2026-08-17
 * [Commit] [mdbx: major release `0.14.3` (#23319)](https://github.com/erigontech/erigon/commit/2db9568175a726b988f9c9dde1806aff55d25feb) - 2026-08-17
 * [Commit] [db/recsplit/eliasfano32: let the fuzzer pick the input size (#23214)](https://github.com/erigontech/erigon/commit/c6dedcc3f770af97f1dc54eab00695d95287c9c5) - 2026-08-17
+* [Review] [Review on: rpc/jsonrpc: gate receipts and logs on the data they actually read](https://github.com/erigontech/erigon/pull/23322#pullrequestreview-4956460980) - 2026-08-18
+* [Review] [Review on: ci: stop the Linux dependency step from consuming the whole job budget](https://github.com/erigontech/erigon/pull/23362#pullrequestreview-4961326189) - 2026-08-18
+* [Review] [Review on: [r3.6] execution/commitment: tolerate preload metric counter rounding](https://github.com/erigontech/erigon/pull/23363#pullrequestreview-4961314993) - 2026-08-18
+* [Pull Request] [exec: apply loop re-reads accounts the workers already read](https://github.com/erigontech/erigon/pull/23356) - 2026-08-18
+* [Review] [Review on: exec: apply loop re-reads accounts the workers already read](https://github.com/erigontech/erigon/pull/23356#pullrequestreview-4959816882) - 2026-08-18
+* [Pull Request] [`db/seg`: pattern-table slots hold a pointer per Huffman expansion entry](https://github.com/erigontech/erigon/pull/23378) - 2026-08-18
+* [Review] [Review on: [r3.5] txnprovider/txpool: release the pool lock and wake a caller that gives up waiting](https://github.com/erigontech/erigon/pull/23361#pullrequestreview-4961329633) - 2026-08-18
+* [Pull Request] [db/seg: copy dictionary patterns to heap, shrink codeword 40B -> 16B](https://github.com/erigontech/erigon/pull/23375) - 2026-08-18
+* [Pull Request] [`execution`: system calls build one EVM per call](https://github.com/erigontech/erigon/pull/23373) - 2026-08-18
+* [Review] [Review on: db/snapshotsync, db/snaptype: caplin overlap-removal guards and review follow-ups](https://github.com/erigontech/erigon/pull/23374#pullrequestreview-4962719087) - 2026-08-18
+* [Pull Request] [execution/exec: stop losing the real error on the historical block-end path](https://github.com/erigontech/erigon/pull/23366) - 2026-08-18
+* [Pull Request] [[r3.6] execution: read block-end syscall logs once after Finalize](https://github.com/erigontech/erigon/pull/23364) - 2026-08-18
+* [Pull Request] [execution: read block-end syscall logs once after Finalize](https://github.com/erigontech/erigon/pull/23347) - 2026-08-18
+* [Pull Request] [[r3.5] execution: read block-end syscall logs once after Finalize](https://github.com/erigontech/erigon/pull/23365) - 2026-08-18
+* [Pull Request] [db/downloader: keep local snapshot data once the initial download is complete](https://github.com/erigontech/erigon/pull/23350) - 2026-08-18
+* [Review] [Review on: db/downloader: keep local snapshot data once the initial download is complete](https://github.com/erigontech/erigon/pull/23350#pullrequestreview-4957204868) - 2026-08-18
+* [Review] [Review on: docs(site): address review on #23335 — describedby relation, guard hole, corpus claims](https://github.com/erigontech/erigon/pull/23341#pullrequestreview-4956428893) - 2026-08-18
+* [Review] [Review on: execution/commitment: reuse deferred-update pool buffers instead of cloning them](https://github.com/erigontech/erigon/pull/23265#pullrequestreview-4956505943) - 2026-08-18
+* [Review] [Review on: db/snaptype, db/snapshotsync: register caplin beacon-state types and put them on BaseRoSnapshots](https://github.com/erigontech/erigon/pull/23352#pullrequestreview-4961018017) - 2026-08-18
+* [Commit] [execution: read block-end syscall logs once after Finalize (#23347)](https://github.com/erigontech/erigon/commit/428eb15908b1a80f80723a0a55b738c9ac083c35) - 2026-08-18
+* [Commit] [mmap: `mmap.Ro/Rw` typed objects (#23311)](https://github.com/erigontech/erigon/commit/2fa64053f4794e8a34e208dc44481b616d53c3c1) - 2026-08-18
+* [Commit] [execution/vm: memoize InternAddress by stack word in a per-EVM cache (#22900)](https://github.com/erigontech/erigon/commit/ad2ece95e4dc0e5b6726d37f9466864d43b51481) - 2026-08-18
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

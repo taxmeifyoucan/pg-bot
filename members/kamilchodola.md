@@ -117,6 +117,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [ci: don't cancel in-progress sync-master-validation runs](https://github.com/NethermindEth/nethermind/pull/12817) - 2026-08-14
 * [Commit] [ci: don't cancel in-progress sync-master-validation runs (#12817)](https://github.com/NethermindEth/nethermind/commit/418972ba409a049d46586e8d0cd8cfb42a7eeb9f) - 2026-08-17
 * [Commit] [Suppress expected RPC overload warnings (#12609)](https://github.com/NethermindEth/nethermind/commit/67e0b5c010daeac01f60104f009e274195255abe) - 2026-08-17
+* [Pull Request] [perf(rpc): fix eth_call degradation under concurrent load (50→300 rps)](https://github.com/NethermindEth/nethermind/pull/12870) - 2026-08-18
+* [Commit] [Add timeout to create_a_runner in sync master validation (#12875)](https://github.com/NethermindEth/nethermind/commit/e2d251bd346453a1aac20ff467ca305ba453a30c) - 2026-08-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

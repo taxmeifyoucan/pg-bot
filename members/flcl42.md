@@ -224,6 +224,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: test(merge): give engine payload builds a CI-safe improvement budget](https://github.com/NethermindEth/nethermind/pull/12533#pullrequestreview-4953379597) - 2026-08-17
 * [Review] [Review on: feat(frames): two-dimensional gas limits per EIP-8141 (devnet-0)](https://github.com/NethermindEth/nethermind/pull/12850#pullrequestreview-4950385560) - 2026-08-17
 * [Review] [Review on: feat(frames): two-dimensional gas limits per EIP-8141](https://github.com/NethermindEth/nethermind/pull/12847#pullrequestreview-4948146574) - 2026-08-17
+* [Review] [Review on: Announce the stored range floor in BlockRangeUpdate instead of genesis](https://github.com/NethermindEth/nethermind/pull/12860#pullrequestreview-4960731793) - 2026-08-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

@@ -470,6 +470,26 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: txnprovider/txpool: release the pool lock when a caller stops waiting for a block](https://github.com/erigontech/erigon/pull/23333#pullrequestreview-4950618620) - 2026-08-17
 * [Issue] [txnprovider/txpool: extract best's wait loop into a defer-locked helper](https://github.com/erigontech/erigon/issues/23338) - 2026-08-17
 * [Commit] [db/downloader: disable uTP to prevent peer-triggered abort (#23293)](https://github.com/erigontech/erigon/commit/901a00127a2f32a23a6bfc102f3f63affd160f8c) - 2026-08-17
+* [Review] [Review on: rpc/jsonrpc: gate receipts and logs on the data they actually read](https://github.com/erigontech/erigon/pull/23322#pullrequestreview-4960082391) - 2026-08-18
+* [Pull Request] [execution, cl: harden payload builder edge cases from review](https://github.com/erigontech/erigon/pull/23376) - 2026-08-18
+* [Review] [Review on: ci: stop the Linux dependency step from consuming the whole job budget](https://github.com/erigontech/erigon/pull/23362#pullrequestreview-4961447353) - 2026-08-18
+* [Review] [Review on: docs(site): drop the v3.5 pruning migration note](https://github.com/erigontech/erigon/pull/23345#pullrequestreview-4961871207) - 2026-08-18
+* [Pull Request] [[r3.6] execution/commitment: tolerate preload metric counter rounding](https://github.com/erigontech/erigon/pull/23363) - 2026-08-18
+* [Review] [Review on: exec: apply loop re-reads accounts the workers already read](https://github.com/erigontech/erigon/pull/23356#pullrequestreview-4961839142) - 2026-08-18
+* [Review] [Review on: [r3.6] txnprovider/txpool: release the pool lock and wake a caller that gives up waiting](https://github.com/erigontech/erigon/pull/23360#pullrequestreview-4960615381) - 2026-08-18
+* [Review] [Review on: execution: remove code size getter interface](https://github.com/erigontech/erigon/pull/23358#pullrequestreview-4960895499) - 2026-08-18
+* [Pull Request] [builder, execmodule: identify abandoned builder waits](https://github.com/erigontech/erigon/pull/23367) - 2026-08-18
+* [Review] [Review on: [r3.6] execution: read block-end syscall logs once after Finalize](https://github.com/erigontech/erigon/pull/23364#pullrequestreview-4962628687) - 2026-08-18
+* [Review] [Review on: rpc: fix eth_getFilterLogs to match eth_getLogs with same criteria](https://github.com/erigontech/erigon/pull/23296#pullrequestreview-4959734807) - 2026-08-18
+* [Pull Request] [execution_client: reject payloads without blob bundles](https://github.com/erigontech/erigon/pull/23372) - 2026-08-18
+* [Pull Request] [engineapi, execmodule: preserve caller cancellation](https://github.com/erigontech/erigon/pull/23370) - 2026-08-18
+* [Pull Request] [cl: classify abandoned block production requests](https://github.com/erigontech/erigon/pull/23369) - 2026-08-18
+* [Pull Request] [execmodule, execution_client: distinguish busy from caller timeout](https://github.com/erigontech/erigon/pull/23368) - 2026-08-18
+* [Review] [Review on: execution: read block-end syscall logs once after Finalize](https://github.com/erigontech/erigon/pull/23347#pullrequestreview-4959622751) - 2026-08-18
+* [Review] [Review on: cl: enforce recent Fulu column availability across block imports](https://github.com/erigontech/erigon/pull/23292#pullrequestreview-4959653844) - 2026-08-18
+* [Review] [Review on: docs: document the state-cache env vars and changed defaults (v3.6)](https://github.com/erigontech/erigon/pull/23359#pullrequestreview-4960582952) - 2026-08-18
+* [Issue] [execution/engineapi: TestEngineApiReorgWithPruningInterference flakes on immediate transaction inclusion](https://github.com/erigontech/erigon/issues/23377) - 2026-08-18
+* [Issue] [cl/downloader: do not treat one empty block-range response as processed progress](https://github.com/erigontech/erigon/issues/23354) - 2026-08-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

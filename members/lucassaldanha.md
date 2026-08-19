@@ -74,6 +74,16 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: fix publish to maven, fix api job and use github token](https://github.com/Consensys/teku/pull/11115#pullrequestreview-4948326464) - 2026-08-17
 * [Review] [Review on: Implement validator client support for eth/v4/validator/blocks/{slot}](https://github.com/Consensys/teku/pull/11096#pullrequestreview-4947890448) - 2026-08-17
 * [Commit] [Share one Gradle cache entry across CI jobs (#11111)](https://github.com/Consensys/teku/commit/c8f036de6fe7231088c98a58eb44d897df099841) - 2026-08-17
+* [Pull Request] [Fix Spotless checks failing randomly](https://github.com/Consensys/teku/pull/11135) - 2026-08-19
+* [Review] [Review on: Trigger peer search when sync committee publish has no peers](https://github.com/Consensys/teku/pull/11112#pullrequestreview-4956352981) - 2026-08-18
+* [Pull Request] [Remove dependency on output streams on licenseCheck](https://github.com/Consensys/teku/pull/11129) - 2026-08-18
+* [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/Consensys/teku/pull/11123#pullrequestreview-4956424484) - 2026-08-18
+* [Review] [Review on: EIP-8261 Scheduled Gas Limit](https://github.com/Consensys/teku/pull/11106#pullrequestreview-4958912607) - 2026-08-18
+* [Review] [Review on: Remove blinded execution payload envelope](https://github.com/Consensys/teku/pull/11091#pullrequestreview-4956407301) - 2026-08-18
+* [Pull Request] [Use topic fork schema for data_column_sidecar gossip decoding (#11121)](https://github.com/Consensys/teku/pull/11128) - 2026-08-18
+* [Pull Request] [Add tests for data column sidecar gossip schema fork resolution](https://github.com/Consensys/teku/pull/11126) - 2026-08-18
+* [Commit] [fix Spotless checks](https://github.com/Consensys/teku/commit/3fa1bfe191ddaca0357998e797388da3aa8dcffc) - 2026-08-19
+* [Commit] [Add tests for data column sidecar gossip schema fork resolution (#11126)](https://github.com/Consensys/teku/commit/9c2eb825315ef8d80a0e602c1ee792a19031e685) - 2026-08-18
 ## Q2 2026
 
 

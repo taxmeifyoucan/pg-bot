@@ -72,6 +72,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Parallelize per-element hash tree roots for large SSZ lists](https://github.com/OffchainLabs/prysm/pull/17317) - 2026-08-07
 * [Commit] [Parallelize per-element hash tree roots for large SSZ lists (#17317)](https://github.com/OffchainLabs/prysm/commit/e36548af5b6cd3ac78398355b62b2071d6690543) - 2026-08-07
 * [Commit] [Gloas builder circuit breaker: single builder tracking (#17294)](https://github.com/OffchainLabs/prysm/commit/f47292748c62ad1d3d91773f10e7b6faaf3ecb42) - 2026-08-17
+* [Pull Request] [Do not migrate a cold state built from a reorged-out block](https://github.com/OffchainLabs/prysm/pull/17371) - 2026-08-18
+* [Pull Request] [Produce PTC attestations during the first two epochs](https://github.com/OffchainLabs/prysm/pull/17377) - 2026-08-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

@@ -209,6 +209,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [Fix flaky witness-capture bytecode test (tx pool head sync) (#12849)](https://github.com/NethermindEth/nethermind/commit/2edb7ab56a32012f36b149b7f298419cd53fbb84) - 2026-08-17
 * [Commit] [Fix `admin_addPeer`/`admin_addTrustedPeer` dropping `persistent=true` for already-known peers (#12818)](https://github.com/NethermindEth/nethermind/commit/1639c89b321f0f9b292a01b45e0e58f317e2cccd) - 2026-08-17
 * [Commit] [Fix flaky associative cache retrievability test with deterministic hashes (#12756)](https://github.com/NethermindEth/nethermind/commit/130c7baaab8c89dd74136b86818574840a21c5b0) - 2026-08-17
+* [Review] [Review on: perf: accelerate EVM word byte swap on ARM64](https://github.com/NethermindEth/nethermind/pull/12798#pullrequestreview-4964279138) - 2026-08-18
+* [Review] [Review on: Announce the stored range floor in BlockRangeUpdate instead of genesis](https://github.com/NethermindEth/nethermind/pull/12860#pullrequestreview-4960622618) - 2026-08-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

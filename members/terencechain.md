@@ -185,6 +185,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Fix builder payment weight double-count under target equivocation](https://github.com/OffchainLabs/prysm/pull/17365) - 2026-08-15
 * [Commit] [Fix builder payment weight double-count under target equivocation (#17365)](https://github.com/OffchainLabs/prysm/commit/44a288d7a3a0277a590691461fbaa0535a73feef) - 2026-08-17
 * [Commit] [Reject gossip blocks whose slot is not higher than their parent's (#17352)](https://github.com/OffchainLabs/prysm/commit/5e54941ff0c0e66d6fc6ff67bcccab72b73e892e) - 2026-08-17
+* [Pull Request] [Decouple builder request auth from the dial URL](https://github.com/OffchainLabs/prysm/pull/17373) - 2026-08-18
+* [Review] [Review on: Decouple builder request auth from the dial URL](https://github.com/OffchainLabs/prysm/pull/17373#pullrequestreview-4965940490) - 2026-08-18
+* [Pull Request] [Enforce per-builder bid limits from the block request](https://github.com/OffchainLabs/prysm/pull/17374) - 2026-08-18
+* [Review] [Review on: Produce PTC attestations during the first two epochs](https://github.com/OffchainLabs/prysm/pull/17377#pullrequestreview-4965862023) - 2026-08-18
+* [Pull Request] [Align Gloas builder API request auth types and bid request headers with builder-specs](https://github.com/OffchainLabs/prysm/pull/17372) - 2026-08-18
+* [Pull Request] [Set the slot of the upgraded execution payload bid](https://github.com/OffchainLabs/prysm/pull/17370) - 2026-08-18
+* [Review] [Review on: Use Gloas attestation deadline for determining block timeliness](https://github.com/OffchainLabs/prysm/pull/17368#pullrequestreview-4956616097) - 2026-08-18
+* [Commit] [Align Gloas builder API request auth types and bid request headers with builder-specs (#17372)](https://github.com/OffchainLabs/prysm/commit/ad03bcf961fe98fe59c38ec431371b4fcfaf6ece) - 2026-08-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

@@ -140,6 +140,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [Improve observability of peers that are subscribed](https://github.com/Consensys/teku/issues/11114) - 2026-08-17
 * [Commit] [Implement validator client support for eth/v4/validator/blocks/{slot} (#11096)](https://github.com/Consensys/teku/commit/8a7d55701b5c1ecd35d254eedd30caa09996fc2e) - 2026-08-17
 * [Commit] [Read EPHEMERY_RESET_PERIOD from config in EphemerySlotValidationService (#11103)](https://github.com/Consensys/teku/commit/b508bfe2907ca75af02290181516e5657acbac5f) - 2026-08-17
+* [Review] [Review on: Fix Spotless checks failing randomly](https://github.com/Consensys/teku/pull/11135#pullrequestreview-4967216878) - 2026-08-19
+* [Review] [Review on: Trigger peer search when sync committee publish has no peers](https://github.com/Consensys/teku/pull/11112#pullrequestreview-4956977992) - 2026-08-18
+* [Review] [Review on: Return 404 for unknown keymanager validator keys](https://github.com/Consensys/teku/pull/11133#pullrequestreview-4966834261) - 2026-08-18
+* [Review] [Review on: Fast confirmation: tracker scaffolding (disabled by default)](https://github.com/Consensys/teku/pull/11073#pullrequestreview-4966221292) - 2026-08-18
+* [Review] [Review on: Remove dependency on output streams on licenseCheck](https://github.com/Consensys/teku/pull/11129#pullrequestreview-4965977660) - 2026-08-18
+* [Review] [Review on: Implement head v2 events for validator clients](https://github.com/Consensys/teku/pull/11130#pullrequestreview-4965967701) - 2026-08-18
+* [Review] [Review on: Stop emitting duplicate head events for gloas](https://github.com/Consensys/teku/pull/11127#pullrequestreview-4957049379) - 2026-08-18
+* [Commit] [Trigger peer search when sync committee publish has no peers (#11112)](https://github.com/Consensys/teku/commit/51d74fc3bff91702a3029deccf971f8e8a2de8a9) - 2026-08-18
+* [Commit] [Validate BeaconBlocksByRoot responses against requested roots (#11118)](https://github.com/Consensys/teku/commit/1c6c8e75277c57cce76714426e3fee3624935301) - 2026-08-18
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

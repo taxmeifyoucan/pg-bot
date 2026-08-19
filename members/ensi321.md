@@ -78,6 +78,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: add plataberget network option :polar_bear:](https://github.com/ChainSafe/lodestar/pull/9822#pullrequestreview-4930990167) - 2026-08-13
 * [Review] [Review on: perf(fork-choice): early-break window walk in getCanonicalPayloadCounts](https://github.com/ChainSafe/lodestar/pull/9824#pullrequestreview-4934290550) - 2026-08-14
 * [Review] [Review on: fix: recompute head before proposer boost dependent root check](https://github.com/ChainSafe/lodestar/pull/9813#pullrequestreview-4955095870) - 2026-08-17
+* [Review] [Review on: fix(fork-choice): preserve exact Gwei weights](https://github.com/ChainSafe/lodestar/pull/9821#pullrequestreview-4958196667) - 2026-08-18
+* [Pull Request] [feat: focil-devnet-0](https://github.com/ChainSafe/lodestar/pull/9842) - 2026-08-18
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09
@@ -92,6 +94,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512) - 2026-08-04
 * [Commit] [Fold inclusion list timeliness into the stored entry (#5512)](https://github.com/ethereum/consensus-specs/commit/16e4cd01eb14088b0b7ca948ba0908756a10360d) - 2026-08-13
 * [Pull Request] [Add `custody_columns` parameter to `notify_forkchoice_updated`](https://github.com/ethereum/consensus-specs/pull/5549) - 2026-08-17
+* [Review] [Review on: Use slot from header instead of bid](https://github.com/ethereum/consensus-specs/pull/5554#pullrequestreview-4963684911) - 2026-08-18
+* [Pull Request] [Set the slot of the upgraded execution payload bid](https://github.com/ethereum/consensus-specs/pull/5550) - 2026-08-18
+* [Commit] [Set the slot of the upgraded execution payload bid (#5550)](https://github.com/ethereum/consensus-specs/commit/8bba62da506b9e1c71dbe7c866e70cb2e6fd0641) - 2026-08-18
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [DataColumnsByRange decodes pre-fork sidecar with wrong fork at a skip-slot boundary](https://github.com/sigp/lighthouse/issues/9638) - 2026-07-15
 

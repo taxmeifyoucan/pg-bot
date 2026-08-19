@@ -189,6 +189,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add casts to uint operations with different types](https://github.com/ethereum/consensus-specs/pull/5527#pullrequestreview-4942857145) - 2026-08-15
 * [Review] [Review on: Allow epoch boundary reorgs in Fulu](https://github.com/ethereum/consensus-specs/pull/5547#pullrequestreview-4954387556) - 2026-08-17
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5546#pullrequestreview-4947916443) - 2026-08-17
+* [Review] [Review on: spec(eip8025): contain invalid proof gossip](https://github.com/ethereum/consensus-specs/pull/5502#pullrequestreview-4964807475) - 2026-08-18
+* [Pull Request] [Use slot from header instead of bid](https://github.com/ethereum/consensus-specs/pull/5554) - 2026-08-18
+* [Review] [Review on: Use slot from header instead of bid](https://github.com/ethereum/consensus-specs/pull/5554#pullrequestreview-4964141403) - 2026-08-18
+* [Pull Request] [Explicitly set bid fields when upgrading to Gloas](https://github.com/ethereum/consensus-specs/pull/5553) - 2026-08-18
+* [Pull Request] [Rename sections for presets/configs](https://github.com/ethereum/consensus-specs/pull/5552) - 2026-08-18
+* [Review] [Review on: Set the slot of the upgraded execution payload bid](https://github.com/ethereum/consensus-specs/pull/5550#pullrequestreview-4962738456) - 2026-08-18
+* [Commit] [Rename sections for presets/configs (#5552)](https://github.com/ethereum/consensus-specs/commit/92e045897ea7a1997349eff36e186b0d8cbbf03d) - 2026-08-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

@@ -31,6 +31,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Detect post merge at genesis](https://github.com/besu-eth/besu/pull/11047#pullrequestreview-4935728377) - 2026-08-14
 * [Commit] [Permissioning allowlist update event](https://github.com/besu-eth/besu/commit/5e7de1b08917d864f9c688ddff47ba8110a7bf9b) - 2026-08-14
 * [Commit] [Detect post merge at genesis (#11047)](https://github.com/besu-eth/besu/commit/23ff56d025188599584b2ee8d7e6d8f452fa0f42) - 2026-08-17
+* [Review] [Review on: Upgrade log4j to 2.25.5](https://github.com/besu-eth/besu/pull/11075#pullrequestreview-4960471097) - 2026-08-18
+* [Review] [Review on: Fix --discovery-mode=BOTH/V5 peer-churn CPU regression](https://github.com/besu-eth/besu/pull/11027#pullrequestreview-4959438388) - 2026-08-18
 ## Q2 2026
 
 

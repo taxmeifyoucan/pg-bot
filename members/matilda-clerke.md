@@ -47,6 +47,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: Downgrade beaconNodeEventStreamConnectionError to debug](https://github.com/Consensys/teku/pull/11090#pullrequestreview-4923361584) - 2026-08-13
 * [Commit] [Legitimise --validators-external-signer-concurrent-limit (#11063)](https://github.com/Consensys/teku/commit/c1c55eaa0a725235e15791276ed94bcf38607f21) - 2026-08-14
 * [Commit] [Downgrade beaconNodeEventStreamConnectionError to debug (#11090)](https://github.com/Consensys/teku/commit/721464276bd43115c17053ac2f3bd200634ed9b5) - 2026-08-14
+* [Pull Request] [Include compRefTests](https://github.com/Consensys/teku/pull/11134) - 2026-08-18
+* [Pull Request] [Implement head v2 events for validator clients](https://github.com/Consensys/teku/pull/11130) - 2026-08-18
+* [Pull Request] [Stop emitting duplicate head events for gloas](https://github.com/Consensys/teku/pull/11127) - 2026-08-18
+* [Review] [Review on: Stop emitting duplicate head events for gloas](https://github.com/Consensys/teku/pull/11127#pullrequestreview-4957071172) - 2026-08-18
+* [Commit] [Remove getconstants from eth2networkconfig (#11048)](https://github.com/Consensys/teku/commit/5e65162264f6a2ba0fdf90673a14d30f0b8f771e) - 2026-08-18
 ## Q2 2026
 
 

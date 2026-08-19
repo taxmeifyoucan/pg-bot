@@ -138,6 +138,14 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Backfill missing sources checksums for already-trusted verification-metadata components](https://github.com/besu-eth/besu/pull/11072#pullrequestreview-4950733180) - 2026-08-17
 * [Commit] [Policies - fix broken links (#11074)](https://github.com/besu-eth/besu/commit/226e38cea9eefc0edffe483a517d1cf73683ec67) - 2026-08-18
 * [Commit] [remove unused and legacy config files (#11033)](https://github.com/besu-eth/besu/commit/448ac14cc31c96daba9387dc02d8e9b40311444b) - 2026-08-17
+* [Pull Request] [upgrade netty to 4.2.17.Final](https://github.com/besu-eth/besu/pull/11078) - 2026-08-19
+* [Review] [Review on: Fix --discovery-mode=BOTH/V5 peer-churn CPU regression](https://github.com/besu-eth/besu/pull/11027#pullrequestreview-4957116160) - 2026-08-18
+* [Review] [Review on: Refactor `engine_exchangeCapabilities`,`engine_getClientVersionV1` and `engine_exchangeTransitionConfigurationV1`](https://github.com/besu-eth/besu/pull/11010#pullrequestreview-4956526236) - 2026-08-18
+* [Review] [Review on: fix: return MIN_BLOB_GASPRICE in no-fee simulation path](https://github.com/besu-eth/besu/pull/10899#pullrequestreview-4957214894) - 2026-08-18
+* [Review] [Review on: Fix BFT block reward transitions misclassified as timestamp milestones](https://github.com/besu-eth/besu/pull/11014#pullrequestreview-4957057942) - 2026-08-18
+* [Review] [Review on: clique: handle nullable proposer seals during address recovery](https://github.com/besu-eth/besu/pull/10824#pullrequestreview-4956989136) - 2026-08-18
+* [Review] [Review on: Add `--include-bals` to `blocks export`](https://github.com/besu-eth/besu/pull/11042#pullrequestreview-4956779861) - 2026-08-18
+* [Commit] [Upgrade log4j to 2.25.5 (#11075)](https://github.com/besu-eth/besu/commit/4d3dcd1c34096187ebf882cb6228c46ebeadacca) - 2026-08-18
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

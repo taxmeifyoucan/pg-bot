@@ -81,6 +81,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [EIP-8261 Scheduled Gas Limit](https://github.com/Consensys/teku/pull/11106) - 2026-08-14
 * [Review] [Review on: Fast confirmation: tracker scaffolding (disabled by default)](https://github.com/Consensys/teku/pull/11073#pullrequestreview-4946191065) - 2026-08-16
 * [Review] [Review on: EIP-8261 Scheduled Gas Limit](https://github.com/Consensys/teku/pull/11106#pullrequestreview-4954486341) - 2026-08-17
+* [Commit] [EIP-8261 Scheduled Gas Limit (#11088) (#11106)](https://github.com/Consensys/teku/commit/e500d59d53c5d62b2232878664a81782c470ad22) - 2026-08-18
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

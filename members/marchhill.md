@@ -137,6 +137,29 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [EIP-8141: charge a frame's entry gas and its target's delegation access](https://github.com/NethermindEth/nethermind/pull/12856) - 2026-08-17
 * [Pull Request] [feat(txpool): enforce the EIP-8141 VERIFY-after-prefix and expiry-frame placement rules](https://github.com/NethermindEth/nethermind/pull/12855) - 2026-08-17
 * [Pull Request] [test: load the frame transaction fixtures by mapping their fork name](https://github.com/NethermindEth/nethermind/pull/12854) - 2026-08-17
+* [Pull Request] [fix(eip8250): round-trip nonce keys through the frame tx RPC view](https://github.com/NethermindEth/nethermind/pull/12883) - 2026-08-18
+* [Review] [Review on: fix(eip8250): round-trip nonce keys through the frame tx RPC view](https://github.com/NethermindEth/nethermind/pull/12883#pullrequestreview-4966660438) - 2026-08-18
+* [Pull Request] [fix(evm): gate POST_TX frames on the assertion fork in the processor](https://github.com/NethermindEth/nethermind/pull/12881) - 2026-08-18
+* [Review] [Review on: fix(evm): gate POST_TX frames on the assertion fork in the processor](https://github.com/NethermindEth/nethermind/pull/12881#pullrequestreview-4966657596) - 2026-08-18
+* [Pull Request] [Simulate validation prefixes that open with a deploy frame](https://github.com/NethermindEth/nethermind/pull/12874) - 2026-08-18
+* [Pull Request] [ci: gate on the EIP-8141 frame fixtures](https://github.com/NethermindEth/nethermind/pull/12888) - 2026-08-18
+* [Review] [Review on: ci: gate on the EIP-8141 frame fixtures](https://github.com/NethermindEth/nethermind/pull/12888#pullrequestreview-4966696349) - 2026-08-18
+* [Pull Request] [fix(consensus): install the expiry verifier predeploy without a nonce](https://github.com/NethermindEth/nethermind/pull/12887) - 2026-08-18
+* [Review] [Review on: fix(consensus): install the expiry verifier predeploy without a nonce](https://github.com/NethermindEth/nethermind/pull/12887#pullrequestreview-4966695267) - 2026-08-18
+* [Pull Request] [Release the payer exposure a blob frame transaction reserved](https://github.com/NethermindEth/nethermind/pull/12886) - 2026-08-18
+* [Review] [Review on: Release the payer exposure a blob frame transaction reserved](https://github.com/NethermindEth/nethermind/pull/12886#pullrequestreview-4966693941) - 2026-08-18
+* [Pull Request] [Assert the frame-tx mempool bookkeeping invariants in DEBUG](https://github.com/NethermindEth/nethermind/pull/12885) - 2026-08-18
+* [Review] [Review on: Assert the frame-tx mempool bookkeeping invariants in DEBUG](https://github.com/NethermindEth/nethermind/pull/12885#pullrequestreview-4966681361) - 2026-08-18
+* [Pull Request] [fix(txpool): carry nonce_keys on the light blob tx record](https://github.com/NethermindEth/nethermind/pull/12884) - 2026-08-18
+* [Review] [Review on: fix(txpool): carry nonce_keys on the light blob tx record](https://github.com/NethermindEth/nethermind/pull/12884#pullrequestreview-4966665926) - 2026-08-18
+* [Pull Request] [fix(core): do not price recent-root references before their fork](https://github.com/NethermindEth/nethermind/pull/12882) - 2026-08-18
+* [Review] [Review on: fix(core): do not price recent-root references before their fork](https://github.com/NethermindEth/nethermind/pull/12882#pullrequestreview-4966660217) - 2026-08-18
+* [Review] [Review on: fix(txpool): decode LightTxDecoder proof version as RLP scalar](https://github.com/NethermindEth/nethermind/pull/12782#pullrequestreview-4966646526) - 2026-08-18
+* [Pull Request] [Track the current zkEVM stateless input schema](https://github.com/NethermindEth/nethermind/pull/12889) - 2026-08-18
+* [Review] [Review on: feat(txpool): enforce the EIP-8141 VERIFY-after-prefix and expiry-frame placement rules](https://github.com/NethermindEth/nethermind/pull/12855#pullrequestreview-4963981287) - 2026-08-18
+* [Review] [Review on: test: load the frame transaction fixtures by mapping their fork name](https://github.com/NethermindEth/nethermind/pull/12854#pullrequestreview-4963892692) - 2026-08-18
+* [Pull Request] [docs: drop devnet divergence note from ExecuteDefaultVerifyCode](https://github.com/NethermindEth/nethermind/pull/12880) - 2026-08-18
+* [Review] [Review on: EIP-8141: charge a frame's entry gas and its target's delegation access](https://github.com/NethermindEth/nethermind/pull/12856#pullrequestreview-4963701690) - 2026-08-18
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -162,6 +185,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8151: State the revoked-key invariant](https://github.com/ethereum/EIPs/pull/12169) - 2026-08-14
 * [Commit] [Update EIP-8141: statically disallow approval scope on atomic-batch frames (#12109)](https://github.com/ethereum/EIPs/commit/9c915ee494c05069945f4e1018fa0854e2d3fb38) - 2026-08-14
 * [Commit] [Update EIP-8141: pin the initial accessed_addresses set for frame transactions (#12113)](https://github.com/ethereum/EIPs/commit/13d1b37672b8fb321c7e880b521cfe375683c9e4) - 2026-08-17
+* [Commit] [Update EIP-8141: relax banned opcode list (#12167)](https://github.com/ethereum/EIPs/commit/0603514569547869ae2531a4e5b2b62875888db3) - 2026-08-18
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 * [Commit] [feat(tests): add EIP-8037 spill-refund accounting coverage (#3158)](https://github.com/ethereum/execution-specs/commit/610cd779baff95f99c85442dd2fa8cc8146260b2) - 2026-07-30

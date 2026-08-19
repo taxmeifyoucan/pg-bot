@@ -110,6 +110,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(test-benchmark): remove potential duplicated cases](https://github.com/ethereum/execution-specs/pull/3374#pullrequestreview-4938379294) - 2026-08-14
 * [Pull Request] [feat(test-fill): Optimistic grouping flag](https://github.com/ethereum/execution-specs/pull/3390) - 2026-08-18
 * [Review] [Review on: feat(test-specs):add ssz model into the engine payload class](https://github.com/ethereum/execution-specs/pull/3294#pullrequestreview-4952810396) - 2026-08-17
+* [Pull Request] [bug(test-base-types): Conversion methods use `ValueError`](https://github.com/ethereum/execution-specs/pull/3394) - 2026-08-18
+* [Review] [Review on: feat(test-fill): Optimistic grouping flag](https://github.com/ethereum/execution-specs/pull/3390#pullrequestreview-4962937049) - 2026-08-18
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23
