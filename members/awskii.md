@@ -289,6 +289,23 @@ Team: Erigon
 * [Review] [Review on: db/snaptype, db/snapshotsync: register caplin beacon-state types and put them on BaseRoSnapshots](https://github.com/erigontech/erigon/pull/23352#pullrequestreview-4959884436) - 2026-08-18
 * [Commit] [execution/commitment: reuse deferred-update pool buffers instead of cloning them (#23265)](https://github.com/erigontech/erigon/commit/0f0e7607fc6314b215266e07e26439ed9bea4508) - 2026-08-18
 * [Commit] [db/snaptype, db/snapshotsync: register caplin beacon-state types and put them on BaseRoSnapshots (#23352)](https://github.com/erigontech/erigon/commit/c8552b2bfd8497dd13aa159bdebaa785f214c891) - 2026-08-18
+* [Review] [Review on: `db/seg`: less ram use by offsets array](https://github.com/erigontech/erigon/pull/23378#pullrequestreview-4968064802) - 2026-08-19
+* [Review] [Review on: `exec`: syscalls EVM re-use](https://github.com/erigontech/erigon/pull/23373#pullrequestreview-4968625644) - 2026-08-19
+* [Pull Request] [execution/commitment, execution/stagedsync: stop allocating an arena per block](https://github.com/erigontech/erigon/pull/23401) - 2026-08-19
+* [Review] [Review on: prune: txlookup mis-used startFrom parameter](https://github.com/erigontech/erigon/pull/23390#pullrequestreview-4970401325) - 2026-08-19
+* [Review] [Review on: [r3.6] execution/stagedsync: compute a tx's fee credit once, not on every revalidation](https://github.com/erigontech/erigon/pull/23381#pullrequestreview-4968627082) - 2026-08-19
+* [Review] [Review on: rpc/jsonrpc: fix debug_accountRange block tag resolution](https://github.com/erigontech/erigon/pull/23349#pullrequestreview-4968665635) - 2026-08-19
+* [Issue] [cl/persistence/blob_storage: blob and data-column stores duplicate each other and rescan every bucket per slot](https://github.com/erigontech/erigon/issues/23413) - 2026-08-19
+* [Issue] [db/snapshotsync: caplin snapshots never call RemoveOverlaps on the node path](https://github.com/erigontech/erigon/issues/23412) - 2026-08-19
+* [Issue] [cl: --caplin.columns-keep-slots network-aware default is unreachable, gnosis/chiado retain 2x](https://github.com/erigontech/erigon/issues/23411) - 2026-08-19
+* [Issue] [cl: caplin data-column pruning ignores --caplin.blobs-archive and --caplin.blobs-no-pruning](https://github.com/erigontech/erigon/issues/23410) - 2026-08-19
+* [Issue] [Caplin: start from a Gloas-at-genesis beacon state](https://github.com/erigontech/erigon/issues/23385) - 2026-08-19
+* [Issue] [Caplin: Gloas against an external execution client](https://github.com/erigontech/erigon/issues/23386) - 2026-08-19
+* [Issue] [Caplin: Gloas-at-genesis state shape (Lighthouse vs Teku)](https://github.com/erigontech/erigon/issues/23388) - 2026-08-19
+* [Issue] [Join the PBT devnet](https://github.com/erigontech/erigon/issues/23384) - 2026-08-19
+* [Issue] [Caplin as an ethereum-package cl_type on Gloas](https://github.com/erigontech/erigon/issues/23387) - 2026-08-19
+* [Issue] [EIP-8297 PBT: tracking](https://github.com/erigontech/erigon/issues/23389) - 2026-08-19
+* [Commit] [db/snapshotsync, db/snaptype: caplin overlap-removal guards and review follow-ups (#23374)](https://github.com/erigontech/erigon/commit/f7891d033d288e61cc6a485f2ca976f641af7256) - 2026-08-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05
@@ -297,6 +314,7 @@ Team: Erigon
 
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration_test: debug_traceBlockByNumber(pending) now returns an error](https://github.com/erigontech/rpc-tests/pull/588) - 2026-08-11
+* [Commit] [integration_test: debug_traceBlockByNumber(pending) now returns an error (#588)](https://github.com/erigontech/rpc-tests/commit/840478c42690b8566b61f71d9a5829532e05ab12) - 2026-08-19
 ## Q2 2026
 
 

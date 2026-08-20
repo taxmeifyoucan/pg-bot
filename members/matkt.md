@@ -88,11 +88,17 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Remove bonsai database inconsistency healing](https://github.com/besu-eth/besu/pull/11019) - 2026-08-11
 * [Review] [Review on: snap/2 - BAL applier bug fixes](https://github.com/besu-eth/besu/pull/11004#pullrequestreview-4904909793) - 2026-08-11
 * [Pull Request] [increase account trie executor threads for glansterdam devnet 7 ](https://github.com/besu-eth/besu/pull/11036) - 2026-08-13
+* [Review] [Review on: Remove bonsai database inconsistency healing](https://github.com/besu-eth/besu/pull/11019#pullrequestreview-4971546612) - 2026-08-19
+* [Commit] [Remove bonsai database inconsistency healing (#11019)](https://github.com/besu-eth/besu/commit/d0b80ea373a946ef716cf866bc6def633ba36323) - 2026-08-19
+* [Commit] [Stateroot refactoring   (#10804)](https://github.com/besu-eth/besu/commit/dad4e42a7fcd0e20db626bf62ca63de12655430d) - 2026-08-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533) - 2026-08-10
+
+[hyperledger/besu-stateless](https://github.com/hyperledger/besu-stateless)
+* [Pull Request] [Add partitioned binary trie](https://github.com/besu-eth/besu-stateless/pull/92) - 2026-08-19
 ## Q2 2026
 
 

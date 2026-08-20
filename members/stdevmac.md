@@ -41,6 +41,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Commit] [test: make prewarmer env-return assertion pool-hit independent (#12616)](https://github.com/NethermindEth/nethermind/commit/adf7c228ea72e717713d771eb18201c5bdbcdd86) - 2026-08-03
 * [Pull Request] [Improve comment quality and flag comment slop during review](https://github.com/NethermindEth/nethermind/pull/12781) - 2026-08-12
 * [Review] [Review on: ci: don't cancel in-progress sync-master-validation runs](https://github.com/NethermindEth/nethermind/pull/12817#pullrequestreview-4937279117) - 2026-08-14
+* [Review] [Review on: Reject deposit logs with noncanonical ABI offsets](https://github.com/NethermindEth/nethermind/pull/12895#pullrequestreview-4975004367) - 2026-08-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

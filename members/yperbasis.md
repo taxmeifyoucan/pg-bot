@@ -490,9 +490,36 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: docs: document the state-cache env vars and changed defaults (v3.6)](https://github.com/erigontech/erigon/pull/23359#pullrequestreview-4960582952) - 2026-08-18
 * [Issue] [execution/engineapi: TestEngineApiReorgWithPruningInterference flakes on immediate transaction inclusion](https://github.com/erigontech/erigon/issues/23377) - 2026-08-18
 * [Issue] [cl/downloader: do not treat one empty block-range response as processed progress](https://github.com/erigontech/erigon/issues/23354) - 2026-08-18
+* [Review] [Review on: rpc: keep RPC reads on one overlay or committed view](https://github.com/erigontech/erigon/pull/22533#pullrequestreview-4969851402) - 2026-08-19
+* [Review] [Review on: cl/beacon: prime the execution layer before a slot this node proposes](https://github.com/erigontech/erigon/pull/23399#pullrequestreview-4975355892) - 2026-08-19
+* [Review] [Review on: [r3.6] builder: cover Stop when completion and cancellation race](https://github.com/erigontech/erigon/pull/23420#pullrequestreview-4975686638) - 2026-08-19
+* [Review] [Review on: [r3.6] cl/phase1: report forkchoice timeouts and missing payload IDs](https://github.com/erigontech/erigon/pull/23409#pullrequestreview-4972913310) - 2026-08-19
+* [Review] [Review on: [r3.6] execution, cl/beacon: builder lifecycle and production reporting](https://github.com/erigontech/erigon/pull/23394#pullrequestreview-4970869139) - 2026-08-19
+* [Review] [Review on: [r3.6] docs: document the state-cache env vars and changed defaults](https://github.com/erigontech/erigon/pull/23359#pullrequestreview-4971438202) - 2026-08-19
+* [Review] [Review on: execution/commitment, execution/stagedsync: stop allocating an arena per block](https://github.com/erigontech/erigon/pull/23401#pullrequestreview-4972187178) - 2026-08-19
+* [Review] [Review on: merge: enable madv_sequential on own `mmap`](https://github.com/erigontech/erigon/pull/23382#pullrequestreview-4973357462) - 2026-08-19
+* [Review] [Review on: [r3.6] cl/antiquary: back off retirement steps that keep failing](https://github.com/erigontech/erigon/pull/23408#pullrequestreview-4972657528) - 2026-08-19
+* [Review] [Review on: docs(site): drop the v3.5 pruning migration note](https://github.com/erigontech/erigon/pull/23345#pullrequestreview-4969879956) - 2026-08-19
+* [Review] [Review on: docs(site): make the docs test script portable, drop the shell glob](https://github.com/erigontech/erigon/pull/23395#pullrequestreview-4972009947) - 2026-08-19
+* [Pull Request] [[r3.6] Re-enable uTP with fixes for peer-triggered abort](https://github.com/erigontech/erigon/pull/23406) - 2026-08-19
+* [Pull Request] [[r3.6] ci: bound apt setup in Kurtosis workflows](https://github.com/erigontech/erigon/pull/23405) - 2026-08-19
+* [Review] [Review on: cl/phase1: report forkchoice timeouts and missing payload IDs](https://github.com/erigontech/erigon/pull/23397#pullrequestreview-4971875486) - 2026-08-19
+* [Pull Request] [ci: bound apt setup in Kurtosis workflows](https://github.com/erigontech/erigon/pull/23400) - 2026-08-19
+* [Pull Request] [[r3.6] builder: cover Stop when completion and cancellation coincide](https://github.com/erigontech/erigon/pull/23404) - 2026-08-19
+* [Review] [Review on: execution/stagedsync, execution/state: reclaim superseded merge write sets per block](https://github.com/erigontech/erigon/pull/23348#pullrequestreview-4971395632) - 2026-08-19
+* [Review] [Review on: node, rpc: replace the hand-rolled gzip middleware with klauspost gzhttp](https://github.com/erigontech/erigon/pull/23246#pullrequestreview-4971310024) - 2026-08-19
+* [Pull Request] [cl/beacon: preserve actionable production failures](https://github.com/erigontech/erigon/pull/23393) - 2026-08-19
+* [Issue] [cl/beacon: add payload preparation reuse coverage and observability](https://github.com/erigontech/erigon/issues/23419) - 2026-08-19
+* [Issue] [qa: fix unreliable Gnosis tip-tracking migration on release/3.6](https://github.com/erigontech/erigon/issues/23418) - 2026-08-19
+* [Issue] [rpc: finish atomic read-view acquisition and propagation](https://github.com/erigontech/erigon/issues/23416) - 2026-08-19
+* [Commit] [ci: bound apt setup in Kurtosis workflows (#23400)](https://github.com/erigontech/erigon/commit/7732a647d23dc038ab298bb3d4422d97765dd95e) - 2026-08-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Pull Request] [integration_test: remove result from pending trace error](https://github.com/erigontech/rpc-tests/pull/590) - 2026-08-19
+* [Commit] [integration_test: remove result from pending trace error (#590)](https://github.com/erigontech/rpc-tests/commit/b0075b93357b17a2c557a82c1ec62cc294cb0418) - 2026-08-19
 ## Q2 2026
 
 

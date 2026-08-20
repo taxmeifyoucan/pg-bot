@@ -28,6 +28,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: simulation gas: do not apply EIP-7825 txGasLimitCap ](https://github.com/besu-eth/besu/pull/10885#pullrequestreview-4903411195) - 2026-08-11
 * [Review] [Review on: Fix --discovery-mode=BOTH/V5 peer-churn CPU regression](https://github.com/besu-eth/besu/pull/11027#pullrequestreview-4921824843) - 2026-08-12
 * [Pull Request] [feat(witness): EIP-8025  debug_executionWitness RPC](https://github.com/besu-eth/besu/pull/11034) - 2026-08-13
+* [Review] [Review on: Bonsai archive proofs simple trie](https://github.com/besu-eth/besu/pull/11016#pullrequestreview-4968339770) - 2026-08-19
+* [Review] [Review on: Amsterdam devnet-7 (1/4): EIP-8282 builder predeploy addresses](https://github.com/besu-eth/besu/pull/10929#pullrequestreview-4967438498) - 2026-08-19
+* [Review] [Review on: fix: return MIN_BLOB_GASPRICE in no-fee simulation path](https://github.com/besu-eth/besu/pull/10899#pullrequestreview-4968546231) - 2026-08-19
+* [Review] [Review on: fix: debug_getRawTransaction double-RLP typed txs](https://github.com/besu-eth/besu/pull/11083#pullrequestreview-4968411890) - 2026-08-19
+* [Review] [Review on: upgrade netty to 4.2.17.Final](https://github.com/besu-eth/besu/pull/11078#pullrequestreview-4967734240) - 2026-08-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896055113) - 2026-08-10
 ## Q2 2026

@@ -58,6 +58,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore(ci): split build and publish steps](https://github.com/ChainSafe/lodestar-z/pull/511#pullrequestreview-4742065327) - 2026-07-21
 * [Issue] [Review stale lodekeeper-z PRs](https://github.com/ChainSafe/lodestar-z/issues/532) - 2026-07-27
 * [Issue] [Fuzz Testing Setup](https://github.com/ChainSafe/lodestar-z/issues/533) - 2026-07-28
+* [Review] [Review on: chore: prepare 1.0.0 release](https://github.com/ChainSafe/lodestar-z/pull/576#pullrequestreview-4975876972) - 2026-08-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8282: Cleanup and Tweaks](https://github.com/ethereum/EIPs/pull/11869#pullrequestreview-4741559929) - 2026-07-21
 ## Q2 2026

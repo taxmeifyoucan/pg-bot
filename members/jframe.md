@@ -55,6 +55,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: fix: fix validatorsArePaidBlockReward](https://github.com/besu-eth/besu/pull/11024#pullrequestreview-4957216976) - 2026-08-18
 * [Review] [Review on: Do not mark BFT protocol specs as PoS](https://github.com/besu-eth/besu/pull/11044#pullrequestreview-4956862623) - 2026-08-18
 * [Review] [Review on: Fix BFT block reward transitions misclassified as timestamp milestones](https://github.com/besu-eth/besu/pull/11014#pullrequestreview-4957122818) - 2026-08-18
+* [Review] [Review on: Bonsai archive proofs simple trie](https://github.com/besu-eth/besu/pull/11016#pullrequestreview-4968928845) - 2026-08-19
+* [Review] [Review on: Do not mark BFT protocol specs as PoS](https://github.com/besu-eth/besu/pull/11044#pullrequestreview-4967733353) - 2026-08-19
+* [Review] [Review on: fix: fix validatorsArePaidBlockReward](https://github.com/besu-eth/besu/pull/11024#pullrequestreview-4968118341) - 2026-08-19
 ## Q2 2026
 
 

@@ -47,6 +47,7 @@ Team: Erigon
 * [Review] [Review on: QA: fix test race in case latest tests](https://github.com/erigontech/erigon/pull/22965#pullrequestreview-4881393376) - 2026-08-07
 * [Commit] [qa-tests: fix and improve snapshot retirement workflows (#23104)](https://github.com/erigontech/erigon/commit/4dbb8b65a47bfe6672a3f6962fee62e023005161) - 2026-08-08
 * [Pull Request] [qa-tests: update Lighthouse version to v8.2.2](https://github.com/erigontech/erigon/pull/23379) - 2026-08-18
+* [Commit] [qa-tests: update Lighthouse version to v8.2.2 (#23379)](https://github.com/erigontech/erigon/commit/1fd083effb3dd0377fba814a229e5f56f624cfc2) - 2026-08-19
 ## Q2 2026
 
 

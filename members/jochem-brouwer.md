@@ -96,6 +96,12 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-8066: Move to Review](https://github.com/ethereum/EIPs/pull/12166#pullrequestreview-4937205960) - 2026-08-14
 * [Review] [Review on: Update EIP-7773: Move to Review](https://github.com/ethereum/EIPs/pull/11855#pullrequestreview-4945162083) - 2026-08-16
 * [Pull Request] [Update EIP-7773: Remove EIP-7610 from Glamsterdam](https://github.com/ethereum/EIPs/pull/12189) - 2026-08-17
+* [Pull Request] [Update EIP-3298: Move to Draft](https://github.com/ethereum/EIPs/pull/12194) - 2026-08-19
+* [Pull Request] [Update EIP-5920: Move to Draft](https://github.com/ethereum/EIPs/pull/12196) - 2026-08-19
+* [Review] [Review on: Update EIP-5920: Add `isEmitLog` flag](https://github.com/ethereum/EIPs/pull/12197#pullrequestreview-4968710689) - 2026-08-19
+* [Review] [Review on: Add EIP: Persist Warm Access Sets Across Reverts](https://github.com/ethereum/EIPs/pull/12128#pullrequestreview-4968323596) - 2026-08-19
+* [Commit] [Update EIP-3298: Move to Draft](https://github.com/ethereum/EIPs/commit/548ebfb1e987ddb8dc260324e02ee9ec643525a1) - 2026-08-19
+* [Commit] [Update EIP-5920: Move to Draft](https://github.com/ethereum/EIPs/commit/5bd4adfc5fd13867ba1b46b0f7b65c8c5b4fa199) - 2026-08-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03

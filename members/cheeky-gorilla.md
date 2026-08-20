@@ -86,6 +86,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Remove Peter Vecchiarelli](https://github.com/protocolguild/documentation/commit/f29be1052d4b4e69c99b00a1c83261877e481a33) - 2026-08-05
 * [Commit] [Merge pull request #531 from 0xTylerHolmes/remove-tyler](https://github.com/protocolguild/documentation/commit/8f1998917373b4210b077abfe3ddf1de48ca20aa) - 2026-08-05
 * [Commit] [Add new nested safe](https://github.com/protocolguild/documentation/commit/69ed5424c078dc0c37ba08af1d3f83f2ddac4c10) - 2026-08-10
+* [Pull Request] [Rename "working groups" to "teams" and adjust categories](https://github.com/protocolguild/documentation/pull/534) - 2026-08-19
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/e6b14d7ca4339655efae86d7ad13a05fb14f43ee) - 2026-07-07
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/575f773fb569863447ec1e75d194b1ab0a05f41f) - 2026-07-07

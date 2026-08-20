@@ -202,6 +202,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Quarantine hygiene: remove every uncategorised test retry, and the sync defects they hid (#12727)](https://github.com/NethermindEth/nethermind/commit/b92fec941b0ac38c6675ef403c304fa28a069b95) - 2026-08-17
 * [Commit] [Optimize flat-state snapshot compaction and harden SortedMergeDictionary builds (#12864)](https://github.com/NethermindEth/nethermind/commit/881c45a096da225bad25b78fc2b6e7650505a524) - 2026-08-18
 * [Commit] [Avoid ArrayPool.Shared-only finally blocks (#12865)](https://github.com/NethermindEth/nethermind/commit/4c35f67c9ebe23ad9427f57ce60ac111bad73f40) - 2026-08-18
+* [Review] [Review on: fix(rpc): route browser POSTs past the trusted fast lane so CORS headers are emitted](https://github.com/NethermindEth/nethermind/pull/12900#pullrequestreview-4974216560) - 2026-08-19
+* [Review] [Review on: perf(rpc): apply eth_call state overrides without merkleizing them](https://github.com/NethermindEth/nethermind/pull/12904#pullrequestreview-4974722548) - 2026-08-19
+* [Commit] [perf(core): accelerate Keccak with AVX-512VL and batched hashes (#12844)](https://github.com/NethermindEth/nethermind/commit/e9f724c025ba898b04b739b70b30c9ab3eb6a067) - 2026-08-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

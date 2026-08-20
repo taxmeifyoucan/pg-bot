@@ -263,6 +263,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: remove code size getter interface](https://github.com/erigontech/erigon/pull/23358) - 2026-08-18
 * [Pull Request] [ci: run eest transaction test spec shards](https://github.com/erigontech/erigon/pull/23371) - 2026-08-18
 * [Commit] [execution: remove code size getter interface (#23358)](https://github.com/erigontech/erigon/commit/55e625aaa77b50e1d30065ca9041f5781a1c909e) - 2026-08-18
+* [Pull Request] [execution: optimise incoming bal encoding/decoding/validation path](https://github.com/erigontech/erigon/pull/23417) - 2026-08-19
+* [Review] [Review on: execution: optimise incoming bal encoding/decoding/validation path](https://github.com/erigontech/erigon/pull/23417#pullrequestreview-4973736134) - 2026-08-19
+* [Pull Request] [execution: remove MeteredGetter and MeteredGetterWithTxN](https://github.com/erigontech/erigon/pull/23421) - 2026-08-19
+* [Review] [Review on: ci: run eest transaction test spec shards](https://github.com/erigontech/erigon/pull/23371#pullrequestreview-4972130208) - 2026-08-19
+* [Commit] [ci: run eest transaction test spec shards (#23371)](https://github.com/erigontech/erigon/commit/be60ddfc88fef747f6c62c3ba9b850a17352c9ac) - 2026-08-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

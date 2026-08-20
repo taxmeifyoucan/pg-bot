@@ -159,6 +159,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: mmap: `mmap.Ro/Rw` typed objects](https://github.com/erigontech/erigon/pull/23311#pullrequestreview-4948703659) - 2026-08-17
 * [Review] [Review on: `db/seg` Huffman decode: byte-at-a-time bitstream read blocks BCE](https://github.com/erigontech/erigon/pull/23316#pullrequestreview-4948849868) - 2026-08-17
 * [Review] [Review on: chaindata: pageSize 16kb -> 4kb](https://github.com/erigontech/erigon/pull/23304#pullrequestreview-4948660644) - 2026-08-17
+* [Pull Request] [p2p: decode eth/68 Status TD as uint256 instead of big.Int](https://github.com/erigontech/erigon/pull/23402) - 2026-08-19
+* [Commit] [p2p: decode eth/68 Status TD as uint256 instead of big.Int (#23402)](https://github.com/erigontech/erigon/commit/e1ccd86e70765a4a007d4a40ad558bb59f84b8c7) - 2026-08-19
 ## Q2 2026
 
 

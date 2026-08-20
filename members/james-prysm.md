@@ -154,6 +154,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Align Gloas builder API request auth types and bid request headers with builder-specs](https://github.com/OffchainLabs/prysm/pull/17372#pullrequestreview-4964933198) - 2026-08-18
 * [Review] [Review on: Fix flaky tests (`TestTwoNodePartialColumnExchange` & `Test_notifyNewHeadEvent`)](https://github.com/OffchainLabs/prysm/pull/17361#pullrequestreview-4962428143) - 2026-08-18
 * [Pull Request] [removing TODO, and have wait for activation depend on health tracker](https://github.com/OffchainLabs/prysm/pull/17369) - 2026-08-18
+* [Review] [Review on: Enforce per-builder bid limits from the block request](https://github.com/OffchainLabs/prysm/pull/17374#pullrequestreview-4974087103) - 2026-08-19
+* [Pull Request] [renaming endpoints and function names to match keymanager api stuff](https://github.com/OffchainLabs/prysm/pull/17379) - 2026-08-19
+* [Review] [Review on: Decouple builder request auth from the dial URL](https://github.com/OffchainLabs/prysm/pull/17373#pullrequestreview-4968008197) - 2026-08-19
+* [Commit] [renaming endpoints and function names to match keymanager api stuff (#17379)](https://github.com/OffchainLabs/prysm/commit/2a164941d8d1e1402ac92764d642622bebba7f70) - 2026-08-19
 ## Q2 2026
 
 

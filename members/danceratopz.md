@@ -125,6 +125,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(consume): add ms-precision lifecycle logging to consume enginex (#3306)](https://github.com/ethereum/execution-specs/commit/5b2b22c75f69bda02615204396b70a91e00529e0) - 2026-08-11
 * [Pull Request] [feat(test-fill): make engine_x fixtures consumable via devp2p sync](https://github.com/ethereum/execution-specs/pull/3364) - 2026-08-12
 * [Pull Request] [feat(test-consume): add consume wirex, a devp2p full-sync simulator](https://github.com/ethereum/execution-specs/pull/3365) - 2026-08-12
+* [Review] [Review on: feat(test-fill): Optimistic grouping flag](https://github.com/ethereum/execution-specs/pull/3390#pullrequestreview-4973353065) - 2026-08-19
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

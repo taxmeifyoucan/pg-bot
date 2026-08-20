@@ -146,6 +146,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: clique: handle nullable proposer seals during address recovery](https://github.com/besu-eth/besu/pull/10824#pullrequestreview-4956989136) - 2026-08-18
 * [Review] [Review on: Add `--include-bals` to `blocks export`](https://github.com/besu-eth/besu/pull/11042#pullrequestreview-4956779861) - 2026-08-18
 * [Commit] [Upgrade log4j to 2.25.5 (#11075)](https://github.com/besu-eth/besu/commit/4d3dcd1c34096187ebf882cb6228c46ebeadacca) - 2026-08-18
+* [Pull Request] [Rotate changelog for 26.8.0](https://github.com/besu-eth/besu/pull/11089) - 2026-08-20
+* [Pull Request] [Bump Plugin API baseline to 26.8.0 and clear excludes](https://github.com/besu-eth/besu/pull/11088) - 2026-08-20
+* [Review] [Review on: evmtool: parallel workers, filtering and directory input for the test runners](https://github.com/besu-eth/besu/pull/11028#pullrequestreview-4967575763) - 2026-08-19
+* [Pull Request] [fix: debug_getRawTransaction double-RLP typed txs](https://github.com/besu-eth/besu/pull/11083) - 2026-08-19
+* [Review] [Review on: fix: debug_getRawTransaction double-RLP typed txs](https://github.com/besu-eth/besu/pull/11083#pullrequestreview-4968116891) - 2026-08-19
+* [Pull Request] [fix: eth_getProof returns storageProof entries for non-existent accounts](https://github.com/besu-eth/besu/pull/11082) - 2026-08-19
+* [Review] [Review on: fix: eth_getProof returns storageProof entries for non-existent accounts](https://github.com/besu-eth/besu/pull/11082#pullrequestreview-4968021312) - 2026-08-19
+* [Commit] [fix: debug_getRawTransaction double-RLP typed txs (#11083)](https://github.com/besu-eth/besu/commit/8147e6ca85619100f58e90c00ed1e6a038fff862) - 2026-08-19
+* [Commit] [upgrade netty to 4.2.17.Final (#11078)](https://github.com/besu-eth/besu/commit/a0bf6b2615bb269d02b001ee9df6fae6f471f665) - 2026-08-19
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

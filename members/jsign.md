@@ -79,6 +79,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 
 * [Commit] [Update EIP-7709: Move to Draft](https://github.com/ethereum/EIPs/commit/6a3b988b70552644b4c801dc55aa7be5edef20c2) - 2026-08-11
 * [Pull Request] [Update EIP-8025: Refresh execution layer section](https://github.com/ethereum/EIPs/pull/12186) - 2026-08-17
+* [Commit] [Update EIP-8025: Refresh execution layer section](https://github.com/ethereum/EIPs/commit/ec5fdb982e101ed0262f68742429d230ca960ca3) - 2026-08-19
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: debug: add debug_executionWitness spec](https://github.com/ethereum/execution-apis/pull/847#pullrequestreview-4792119037) - 2026-07-27
 

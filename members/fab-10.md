@@ -116,6 +116,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Backfill missing sources checksums for already-trusted verification-metadata components](https://github.com/besu-eth/besu/pull/11072) - 2026-08-17
 * [Commit] [Backfill missing sources checksums for already-trusted verification-metadata components (#11072)](https://github.com/besu-eth/besu/commit/6bb9b215d79a5bbdca878c2e042dd284b792adb9) - 2026-08-17
 * [Review] [Review on: Refactor `engine_exchangeCapabilities`,`engine_getClientVersionV1` and `engine_exchangeTransitionConfigurationV1`](https://github.com/besu-eth/besu/pull/11010#pullrequestreview-4960529895) - 2026-08-18
+* [Review] [Review on: Execute Engine API methods concurrently except ordered forkchoiceUpdated](https://github.com/besu-eth/besu/pull/11053#pullrequestreview-4971716292) - 2026-08-19
+* [Review] [Review on: Feature: minimal upgrade to vertx 5](https://github.com/besu-eth/besu/pull/11015#pullrequestreview-4974969777) - 2026-08-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

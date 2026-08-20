@@ -219,6 +219,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(ci): auto-draft scheduled mainnet fixture releases](https://github.com/ethereum/execution-specs/pull/3385) - 2026-08-17
 * [Pull Request] [chore(tooling): add devnet release skill](https://github.com/ethereum/execution-specs/pull/3384) - 2026-08-17
 * [Pull Request] [feat(tests): add BAL storage slot numeric ordering test](https://github.com/ethereum/execution-specs/pull/3382) - 2026-08-17
+* [Review] [Review on: refactor(test-specs,tests): Refactor inclusion-list spec definitions, existing tests](https://github.com/ethereum/execution-specs/pull/3373#pullrequestreview-4973569719) - 2026-08-19
+* [Review] [Review on: refactor(tests): EIP-8037 test gas calculation logic and post state verification](https://github.com/ethereum/execution-specs/pull/3383#pullrequestreview-4970899484) - 2026-08-19
+* [Commit] [feat(tests): add BAL storage slot numeric ordering test (#3382)](https://github.com/ethereum/execution-specs/commit/89f2f0499648532760c9893ffd34659517e95a87) - 2026-08-19
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

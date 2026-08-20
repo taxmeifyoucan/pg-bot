@@ -91,6 +91,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution: key builders by payload timestamp and give them a lifecycle](https://github.com/erigontech/erigon/pull/23272#pullrequestreview-4935819193) - 2026-08-14
 * [Review] [Review on: cl: reuse one converter between consensus and execution withdrawals](https://github.com/erigontech/erigon/pull/23271#pullrequestreview-4935775727) - 2026-08-14
 * [Review] [Review on: cl/phase1, execution: give the execution module a typed busy signal and the caller's context](https://github.com/erigontech/erigon/pull/23273#pullrequestreview-4935870016) - 2026-08-14
+* [Review] [Review on: cl/antiquary: back off retirement steps that keep failing](https://github.com/erigontech/erigon/pull/23252#pullrequestreview-4969490963) - 2026-08-19
 ## Q2 2026
 
 

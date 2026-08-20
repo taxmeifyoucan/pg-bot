@@ -48,6 +48,12 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8272: Highlight privacy benefit upfront](https://github.com/ethereum/EIPs/commit/a96bfaebd23ab7b9d00c63108bc65a2129c42952) - 2026-08-08
 * [Pull Request] [Update EIP-8077: define source and nonce for frame transactions](https://github.com/ethereum/EIPs/pull/12139) - 2026-08-11
 * [Review] [Review on: Update EIP-8141: specify block inclusion gating and payer solvency](https://github.com/ethereum/EIPs/pull/12091#pullrequestreview-4935750459) - 2026-08-14
+* [Pull Request] [Update EIP-8279: BAL floor independent from gas limit](https://github.com/ethereum/EIPs/pull/12201) - 2026-08-19
+* [Review] [Review on: Update EIP-8279: BAL floor independent from gas limit](https://github.com/ethereum/EIPs/pull/12201#pullrequestreview-4970586436) - 2026-08-19
+* [Pull Request] [Update EIP-8131: data floor independent from gas limit](https://github.com/ethereum/EIPs/pull/12200) - 2026-08-19
+* [Pull Request] [Update EIP-8141: make the expiry frame a new mode](https://github.com/ethereum/EIPs/pull/12198) - 2026-08-19
+* [Commit] [Update EIP-8279: BAL floor independent from gas limit](https://github.com/ethereum/EIPs/commit/f953c5ac6561268d2a14d91a869f3e44f672a345) - 2026-08-19
+* [Commit] [Update EIP-8131: data floor independent from gas limit](https://github.com/ethereum/EIPs/commit/f6fd28d34a94dee4fc5993f8fabb40fb0b50ed23) - 2026-08-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 

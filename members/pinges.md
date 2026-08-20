@@ -33,6 +33,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Commit] [Detect post merge at genesis (#11047)](https://github.com/besu-eth/besu/commit/23ff56d025188599584b2ee8d7e6d8f452fa0f42) - 2026-08-17
 * [Review] [Review on: Upgrade log4j to 2.25.5](https://github.com/besu-eth/besu/pull/11075#pullrequestreview-4960471097) - 2026-08-18
 * [Review] [Review on: Fix --discovery-mode=BOTH/V5 peer-churn CPU regression](https://github.com/besu-eth/besu/pull/11027#pullrequestreview-4959438388) - 2026-08-18
+* [Review] [Review on: CLI option for snap download headers to checkpoint only](https://github.com/besu-eth/besu/pull/10958#pullrequestreview-4969853809) - 2026-08-19
 ## Q2 2026
 
 

@@ -189,6 +189,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [crypto: Reduce the exponent for the power-of-two modulus part](https://github.com/ipsilon/evmone/pull/1662) - 2026-08-16
 * [Pull Request] [test: Fix the modarith benchmarks measuring dead code](https://github.com/ipsilon/evmone/pull/1663) - 2026-08-17
 * [Commit] [crypto: Extract the representation-independent modular operations (#1659)](https://github.com/ipsilon/evmone/commit/325eb1fe1b1a1f48c99fd76ccc03f1c7f56fdb7c) - 2026-08-17
+* [Pull Request] [crypto: Drop the runtime-modulus Montgomery arithmetic](https://github.com/ipsilon/evmone/pull/1664) - 2026-08-19
+* [Issue] [modexp optimizations](https://github.com/ipsilon/evmone/issues/1665) - 2026-08-19
+* [Commit] [test: Fix the modarith benchmarks measuring dead code (#1663)](https://github.com/ipsilon/evmone/commit/9344010dbd711b3af8a1253f4faf01b8b3beaadd) - 2026-08-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -233,6 +236,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): cover ModExp gas before EIP-2565](https://github.com/ethereum/execution-specs/pull/3237) - 2026-07-26
 * [Commit] [feat(tests): add ef_prefix deposit-halt mode to EIP-8037 state-gas test (#3233)](https://github.com/ethereum/execution-specs/commit/7c4177ace2fcabd6aaa86be043cbc813065c4bb7) - 2026-07-27
 * [Commit] [feat(tests): add dynamic-destination JUMP/JUMPI invalid-target tests (#3153)](https://github.com/ethereum/execution-specs/commit/ad970077a4d866b1d15cd171fa708de49760a4f6) - 2026-07-30
+* [Pull Request] [feat(tests): EIP-7928 - union reverted storage reads across transactions](https://github.com/ethereum/execution-specs/pull/3399) - 2026-08-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
@@ -243,6 +247,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [types: reject empty-string element in RLP transaction-list decode (#22514)](https://github.com/erigontech/erigon/commit/cc8fe456daef63f3938dcb0c51dbf323d620c2a2) - 2026-07-16
 * [Pull Request] [execution/types: reject truncated typed transactions in block-body decoding](https://github.com/erigontech/erigon/pull/23000) - 2026-08-04
 * [Commit] [execution/types: reject truncated typed transactions in block-body decoding (#23000)](https://github.com/erigontech/erigon/commit/2c50255829a8af4207c80abe09ce6d2375c3c2f6) - 2026-08-05
+* [Issue] [EIP-7928: different block_access_list_hash than other clients, valid block rejected](https://github.com/erigontech/erigon/issues/23407) - 2026-08-19
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Issue] [tests: validateHeader compares baseFeePerGas with reflect.DeepEqual, so a zero base fee always fails](https://github.com/ethereum/go-ethereum/issues/35555) - 2026-08-19
 ## Q2 2026
 
 

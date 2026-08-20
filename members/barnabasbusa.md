@@ -70,6 +70,14 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge branch 'master' into bbusa/force-refresh-specs](https://github.com/ethpandaops/dora/commit/83e3885e7191148107c871c2a6be7e7733f3a02a) - 2026-08-17
 * [Commit] [fix: address review findings](https://github.com/ethpandaops/dora/commit/1be878864f6d0b5e55bd9045e3408611a93cf68b) - 2026-08-17
 * [Commit] [feat: reload chain spec values on force client refresh](https://github.com/ethpandaops/dora/commit/dcfa2ebcb5b0f802d9e5cc22d31ab0956d16d8c0) - 2026-08-17
+* [Pull Request] [Extend execution clients search to enode, ENR, IP and peers](https://github.com/ethpandaops/dora/pull/839) - 2026-08-19
+* [Review] [Review on: Extend execution clients search to enode, ENR, IP and peers](https://github.com/ethpandaops/dora/pull/839#pullrequestreview-4971375602) - 2026-08-19
+* [Pull Request] [Add ENR fields to execution clients page](https://github.com/ethpandaops/dora/pull/838) - 2026-08-19
+* [Commit] [Merge pull request #839 from ethpandaops/bbusa/el-client-search](https://github.com/ethpandaops/dora/commit/48b304e96951f59c80ebb1273e14bff94bc86a90) - 2026-08-19
+* [Commit] [gate peer details server-side behind ShowSensitivePeerInfos](https://github.com/ethpandaops/dora/commit/293adf7adc64764a360715c4125da1e76813c605) - 2026-08-19
+* [Commit] [extend execution clients search to enode, ENR, IP and peers](https://github.com/ethpandaops/dora/commit/efa3dadcd63abdb6014afb5ea0fb8478f348aee6) - 2026-08-19
+* [Commit] [Merge pull request #838 from ethpandaops/bbusa/el-enr-fields](https://github.com/ethpandaops/dora/commit/6d65fcf6ee824faf29cf7f627634ccd3be8d7568) - 2026-08-19
+* [Commit] [add ENR fields to execution clients page](https://github.com/ethpandaops/dora/commit/bd4940ff7f61c3b14eeed968a56060a2afe73382) - 2026-08-19
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
@@ -137,6 +145,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [eth_syncing returns false during entire snap sync (block import + world state heal)](https://github.com/besu-eth/besu/issues/10961) - 2026-08-03
 
+* [Pull Request] [Enforce EIP-7843 slotNumber presence in Amsterdam header validation](https://github.com/besu-eth/besu/pull/11084) - 2026-08-19
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Issue] [PeerDAS: validator custody applied ~60s after startup; node advertises earliestAvailableSlot it cannot serve, leading to peer-score bans](https://github.com/OffchainLabs/prysm/issues/17312) - 2026-08-06
 
@@ -146,6 +155,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Expose Gloas timing values and MAX_REQUEST_PAYLOADS on the config/spec API](https://github.com/sigp/lighthouse/pull/9812) - 2026-08-14
 
+* [Pull Request] [Do not fatally ban peers for DataColumnsByRange ResourceUnavailable](https://github.com/sigp/lighthouse/pull/9874) - 2026-08-19
+* [Review] [Review on: Do not fatally ban peers for DataColumnsByRange ResourceUnavailable](https://github.com/sigp/lighthouse/pull/9874#pullrequestreview-4972611654) - 2026-08-19
+* [Issue] [PeerDAS: all-Lighthouse networks partition — data_column_sidecars_by_range ResourceUnavailable triggers a fatal peer ban](https://github.com/sigp/lighthouse/issues/9873) - 2026-08-19
 [ethpandaops/lab](https://github.com/ethpandaops/lab)
 * [Pull Request] [feat(gas-profiler): update Glamsterdam preset to frozen devnet-8 repricing](https://github.com/ethpandaops/lab/pull/447) - 2026-08-14
 * [Review] [Review on: feat(gas-profiler): update Glamsterdam preset to frozen devnet-8 repricing](https://github.com/ethpandaops/lab/pull/447#pullrequestreview-4936642686) - 2026-08-14

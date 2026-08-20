@@ -36,6 +36,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [Cache progressive merkleization for state fields (#17306)](https://github.com/OffchainLabs/prysm/commit/0a6b0a1327c3e97534425ad3783a78bd75a491b5) - 2026-08-10
 * [Review] [Review on: Add genception, a Bazel-backed go/packages driver](https://github.com/OffchainLabs/prysm/pull/17307#pullrequestreview-4920253852) - 2026-08-12
 * [Commit] [Add genception, a Bazel-backed go/packages driver (#17307)](https://github.com/OffchainLabs/prysm/commit/462e52404e3965fc0ed4bc1bf7717812d9dd3ef7) - 2026-08-14
+* [Review] [Review on: methodical codegen switch](https://github.com/OffchainLabs/prysm/pull/17308#pullrequestreview-4977820206) - 2026-08-19
 ## Q2 2026
 
 

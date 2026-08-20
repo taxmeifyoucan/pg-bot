@@ -350,6 +350,13 @@ Team: Reth
 * [Pull Request] [chore(deps): bump h2 to 0.4.16](https://github.com/paradigmxyz/reth/pull/26753) - 2026-08-18
 * [Pull Request] [fix(provider): handle storage wipes in block persistence](https://github.com/paradigmxyz/reth/pull/26751) - 2026-08-18
 * [Commit] [chore(deps): bump h2 to 0.4.16 (#26753)](https://github.com/paradigmxyz/reth/commit/4e515276f219bdad941cf87b4f16a127305e97ea) - 2026-08-18
+* [Review] [Review on: fix(dev): canonicalize mined blocks immediately](https://github.com/paradigmxyz/reth/pull/26761#pullrequestreview-4971906233) - 2026-08-19
+* [Review] [Review on: feat(payload): finalize pending build on resolve](https://github.com/paradigmxyz/reth/pull/26759#pullrequestreview-4971859439) - 2026-08-19
+* [Review] [Review on: fix(provider): handle storage wipes in batched persistence](https://github.com/paradigmxyz/reth/pull/26750#pullrequestreview-4972727463) - 2026-08-19
+* [Review] [Review on: refactor(chain-state): add trie data reference collectors](https://github.com/paradigmxyz/reth/pull/26752#pullrequestreview-4972258266) - 2026-08-19
+* [Pull Request] [feat(rpc): expose raw block transactions on auth server](https://github.com/paradigmxyz/reth/pull/26760) - 2026-08-19
+* [Commit] [feat(rpc): expose raw block transactions on auth server (#26760)](https://github.com/paradigmxyz/reth/commit/d7a5c943f9b9902258476ed1bc6dd2a72f8be86d) - 2026-08-19
+* [Commit] [fix(engine): enforce state-gas admission on the BAL execution path (#26719)](https://github.com/paradigmxyz/reth/commit/5e04902bfefb44eb80b1f5a2cd4ae218904bc1fb) - 2026-08-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -364,6 +371,7 @@ Team: Reth
 * [Pull Request] [fix(consume): add missing reth exception mapper entries](https://github.com/ethereum/execution-specs/pull/3380) - 2026-08-14
 * [Pull Request] [fix(consume): map reth BAL slot-miss rejection](https://github.com/ethereum/execution-specs/pull/3392) - 2026-08-18
 * [Pull Request] [fix(consume): map Reth BAL gas limit rejection](https://github.com/ethereum/execution-specs/pull/3391) - 2026-08-18
+* [Commit] [fix(consume): map reth BAL slot-miss rejection (#3392)](https://github.com/ethereum/execution-specs/commit/ce0509a90bdf7bdff68a90ba00b4ce956144e450) - 2026-08-19
 ## Q2 2026
 
 

@@ -34,6 +34,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: add domain builder deposit to get spec api](https://github.com/Consensys/teku/pull/11105#pullrequestreview-4962426001) - 2026-08-18
 * [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/Consensys/teku/pull/11123#pullrequestreview-4962249279) - 2026-08-18
 * [Commit] [Refactor/renames for BlockContents (#11109)](https://github.com/Consensys/teku/commit/fd3407390db916f80efeb6d9831645a2a4009193) - 2026-08-18
+* [Pull Request] [Block v4 changes + use include_payload in block creation](https://github.com/Consensys/teku/pull/11141) - 2026-08-19
+* [Review] [Review on: Block v4 changes + use include_payload in block creation](https://github.com/Consensys/teku/pull/11141#pullrequestreview-4974049482) - 2026-08-19
+* [Pull Request] [Explicitly set bid fields when upgrading to Gloas](https://github.com/Consensys/teku/pull/11142) - 2026-08-19
+* [Pull Request] [Use slot from header instead of bid](https://github.com/Consensys/teku/pull/11143) - 2026-08-19
+* [Review] [Review on: Put `BuilderConfig` in request body when calling block v4](https://github.com/Consensys/teku/pull/11132#pullrequestreview-4970161320) - 2026-08-19
+* [Commit] [Fix builder payment weight double-count under target equivocation (#11123)](https://github.com/Consensys/teku/commit/990295b9073d57ec18db1106aece7e395080d422) - 2026-08-19
 ## Q2 2026
 
 

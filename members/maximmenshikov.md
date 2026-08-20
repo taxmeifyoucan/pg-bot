@@ -17,6 +17,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Draft: Performance improvements](https://github.com/NethermindEth/nethermind/pull/12688) - 2026-08-04
 * [Pull Request] [Performance and FP improvement for the latest bflat](https://github.com/NethermindEth/nethermind/pull/12747) - 2026-08-08
 * [Commit] [Performance and FP improvement for the latest bflat (#12747)](https://github.com/NethermindEth/nethermind/commit/5bdba6516aa8e4b1096d4172a8ddeab1e9223690) - 2026-08-11
+* [Pull Request] [build(zisk): bump Zisk to 1.1.0-alpha](https://github.com/NethermindEth/nethermind/pull/12910) - 2026-08-19
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Pull Request] [Documentation improvements](https://github.com/NethermindEth/bflat-riscv64/pull/31) - 2026-07-02
 * [Commit] [README: condense the Zisk postprocessing section](https://github.com/NethermindEth/bflat-riscv64/commit/81022cbfd76183a0a27fa1318a59a2672e8360f1) - 2026-07-02

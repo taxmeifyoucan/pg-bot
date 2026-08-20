@@ -48,6 +48,11 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(engine): adjust payload validation](https://github.com/paradigmxyz/reth/pull/26651#pullrequestreview-4908802485) - 2026-08-11
 * [Review] [Review on: fix(txpool): allow senders with empty code hash](https://github.com/paradigmxyz/reth/pull/26644#pullrequestreview-4906200316) - 2026-08-11
 * [Review] [Review on: fix(engine): stop prewarm workers on terminate signal](https://github.com/paradigmxyz/reth/pull/26703#pullrequestreview-4936195405) - 2026-08-14
+* [Pull Request] [fix(dev): canonicalize mined blocks immediately](https://github.com/paradigmxyz/reth/pull/26761) - 2026-08-19
+* [Review] [Review on: fix(provider): handle storage wipes in batched persistence](https://github.com/paradigmxyz/reth/pull/26750#pullrequestreview-4973376793) - 2026-08-19
+* [Review] [Review on: refactor(chain-state): add trie data reference collectors](https://github.com/paradigmxyz/reth/pull/26752#pullrequestreview-4971923087) - 2026-08-19
+* [Review] [Review on: feat(rpc): expose raw block transactions on auth server](https://github.com/paradigmxyz/reth/pull/26760#pullrequestreview-4971947975) - 2026-08-19
+* [Commit] [fix(dev): canonicalize mined blocks immediately (#26761)](https://github.com/paradigmxyz/reth/commit/df69a6ac99af6e2f29461a5695b0b7df36919627) - 2026-08-19
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

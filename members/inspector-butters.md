@@ -55,6 +55,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [add progressive state schema](https://github.com/OffchainLabs/prysm/pull/17358) - 2026-08-14
 * [Review] [Review on: `make gen` generates the per-package `log.go` files.](https://github.com/OffchainLabs/prysm/pull/17342#pullrequestreview-4936302216) - 2026-08-14
 * [Commit] [prefer subtests in agents.md (#17360)](https://github.com/OffchainLabs/prysm/commit/b86db8d314e1177d8e473a288a871fc3be6f6977) - 2026-08-14
+* [Review] [Review on: Do not migrate a cold state built from a reorged-out block](https://github.com/OffchainLabs/prysm/pull/17371#pullrequestreview-4973274129) - 2026-08-19
+* [Review] [Review on: renaming endpoints and function names to match keymanager api stuff](https://github.com/OffchainLabs/prysm/pull/17379#pullrequestreview-4973375071) - 2026-08-19
 ## Q2 2026
 
 

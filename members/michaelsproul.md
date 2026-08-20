@@ -57,6 +57,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Commit] [Release v8.2.2](https://github.com/sigp/lighthouse/commit/e423a66763bb1bd780492d635123f208d80c3538) - 2026-08-17
 * [Review] [Review on: Update h2 to fix RUSTSEC-2026-0258](https://github.com/sigp/lighthouse/pull/9850#pullrequestreview-4960344275) - 2026-08-18
 * [Review] [Review on: Back merge 8.2.2](https://github.com/sigp/lighthouse/pull/9851#pullrequestreview-4960323101) - 2026-08-18
+* [Review] [Review on: Do not fatally ban peers for DataColumnsByRange ResourceUnavailable](https://github.com/sigp/lighthouse/pull/9874#pullrequestreview-4972580557) - 2026-08-19
+* [Review] [Review on: Use Gloas timings for aggregate attestations and sync committee messages](https://github.com/sigp/lighthouse/pull/9823#pullrequestreview-4967641508) - 2026-08-19
+* [Pull Request] [Update blst to 0.3.17](https://github.com/sigp/lighthouse/pull/9869) - 2026-08-19
 ## Q2 2026
 
 

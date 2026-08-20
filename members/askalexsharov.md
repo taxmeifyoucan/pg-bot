@@ -935,6 +935,24 @@ Team: Erigon
 * [Commit] [execution: read block-end syscall logs once after Finalize (#23347)](https://github.com/erigontech/erigon/commit/428eb15908b1a80f80723a0a55b738c9ac083c35) - 2026-08-18
 * [Commit] [mmap: `mmap.Ro/Rw` typed objects (#23311)](https://github.com/erigontech/erigon/commit/2fa64053f4794e8a34e208dc44481b616d53c3c1) - 2026-08-18
 * [Commit] [execution/vm: memoize InternAddress by stack word in a per-EVM cache (#22900)](https://github.com/erigontech/erigon/commit/ad2ece95e4dc0e5b6726d37f9466864d43b51481) - 2026-08-18
+* [Review] [Review on: `exec`: syscalls EVM re-use](https://github.com/erigontech/erigon/pull/23373#pullrequestreview-4968788365) - 2026-08-19
+* [Review] [Review on: execution/commitment, execution/stagedsync: stop allocating an arena per block](https://github.com/erigontech/erigon/pull/23401#pullrequestreview-4971924284) - 2026-08-19
+* [Review] [Review on: p2p: decode eth/68 Status TD as uint256 instead of big.Int](https://github.com/erigontech/erigon/pull/23402#pullrequestreview-4973024626) - 2026-08-19
+* [Pull Request] [merge: enable madv_sequential on own `mmap`](https://github.com/erigontech/erigon/pull/23382) - 2026-08-19
+* [Review] [Review on: [EPF-7] rpc/sszql: Initialize SSZ Query Language endpoint](https://github.com/erigontech/erigon/pull/22821#pullrequestreview-4973310137) - 2026-08-19
+* [Pull Request] [[r3.6] prune: txlookup mis-used startFrom parameter](https://github.com/erigontech/erigon/pull/23391) - 2026-08-19
+* [Pull Request] [[r3.5] prune: txlookup mis-used startFrom parameter](https://github.com/erigontech/erigon/pull/23392) - 2026-08-19
+* [Pull Request] [prune: txlookup mis-used startFrom parameter](https://github.com/erigontech/erigon/pull/23390) - 2026-08-19
+* [Review] [Review on: prune: txlookup mis-used startFrom parameter](https://github.com/erigontech/erigon/pull/23390#pullrequestreview-4969302874) - 2026-08-19
+* [Review] [Review on: ci: run eest transaction test spec shards](https://github.com/erigontech/erigon/pull/23371#pullrequestreview-4967846215) - 2026-08-19
+* [Pull Request] [[r3.6] execution/stagedsync: compute a tx's fee credit once, not on every revalidation](https://github.com/erigontech/erigon/pull/23381) - 2026-08-19
+* [Review] [Review on: [r3.6] execution/stagedsync: compute a tx's fee credit once, not on every revalidation](https://github.com/erigontech/erigon/pull/23381#pullrequestreview-4968826965) - 2026-08-19
+* [Review] [Review on: node, rpc: replace the hand-rolled gzip middleware with klauspost gzhttp](https://github.com/erigontech/erigon/pull/23246#pullrequestreview-4967796190) - 2026-08-19
+* [Issue] [stagedsync: `prune` means two things — split retention from removing data already copied to files](https://github.com/erigontech/erigon/issues/23396) - 2026-08-19
+* [Commit] [`db/seg`: less ram use by offsets array (#23378)](https://github.com/erigontech/erigon/commit/663d2bd0b96106ecd9f67a26b2065358171ab47c) - 2026-08-19
+* [Commit] [`exec`: syscalls EVM re-use (#23373)](https://github.com/erigontech/erigon/commit/7de81a666a75ae18b99673889a1127f15b2921da) - 2026-08-19
+* [Commit] [metrics: don't update metrics if nothing to merge (#23383)](https://github.com/erigontech/erigon/commit/e885577357c000c0c9cfaf27df63c418a44b4092) - 2026-08-19
+* [Commit] [execution/exec: stop losing the real error on the historical block-end path (#23366)](https://github.com/erigontech/erigon/commit/53faf6b39fd9bf37b1155570f581ad62fb99b4d9) - 2026-08-19
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

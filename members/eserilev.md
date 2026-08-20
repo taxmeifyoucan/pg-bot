@@ -111,10 +111,20 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Gate payload import on optional execution proofs](https://github.com/sigp/lighthouse/pull/9808#pullrequestreview-4960429278) - 2026-08-18
 * [Pull Request] [Update h2 to fix RUSTSEC-2026-0258](https://github.com/sigp/lighthouse/pull/9850) - 2026-08-18
 * [Review] [Review on: Align gloas proposer reorg weight logic w/ spec ](https://github.com/sigp/lighthouse/pull/9831#pullrequestreview-4958682656) - 2026-08-18
+* [Pull Request] [ Explicitly set bid fields when upgrading to Gloas](https://github.com/sigp/lighthouse/pull/9876) - 2026-08-19
+* [Review] [Review on:  Explicitly set bid fields when upgrading to Gloas](https://github.com/sigp/lighthouse/pull/9876#pullrequestreview-4975692676) - 2026-08-19
+* [Pull Request] [Fix builder payment weight double count under target equivocation](https://github.com/sigp/lighthouse/pull/9879) - 2026-08-19
+* [Pull Request] [glamsterdam-devnet-8](https://github.com/sigp/lighthouse/pull/9881) - 2026-08-19
+* [Pull Request] [Send out status message to peers after a CGC change](https://github.com/sigp/lighthouse/pull/9877) - 2026-08-19
+* [Pull Request] [Add gas limit schedule](https://github.com/sigp/lighthouse/pull/9878) - 2026-08-19
+* [Review] [Review on: Do not fatally ban peers for DataColumnsByRange ResourceUnavailable](https://github.com/sigp/lighthouse/pull/9874#pullrequestreview-4972526301) - 2026-08-19
+* [Review] [Review on: Update blst to 0.3.17](https://github.com/sigp/lighthouse/pull/9869#pullrequestreview-4970462894) - 2026-08-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4924780218) - 2026-08-13
+* [Review] [Review on: Use slot from header instead of bid](https://github.com/ethereum/consensus-specs/pull/5554#pullrequestreview-4970559891) - 2026-08-19
+* [Review] [Review on: Explicitly set bid fields when upgrading to Gloas](https://github.com/ethereum/consensus-specs/pull/5553#pullrequestreview-4970546333) - 2026-08-19
 ## Q2 2026
 
 

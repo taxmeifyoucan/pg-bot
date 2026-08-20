@@ -52,6 +52,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Pull Request] [Stop emitting duplicate head events for gloas](https://github.com/Consensys/teku/pull/11127) - 2026-08-18
 * [Review] [Review on: Stop emitting duplicate head events for gloas](https://github.com/Consensys/teku/pull/11127#pullrequestreview-4957071172) - 2026-08-18
 * [Commit] [Remove getconstants from eth2networkconfig (#11048)](https://github.com/Consensys/teku/commit/5e65162264f6a2ba0fdf90673a14d30f0b8f771e) - 2026-08-18
+* [Review] [Review on: Include compRefTests](https://github.com/Consensys/teku/pull/11134#pullrequestreview-4968014595) - 2026-08-19
 ## Q2 2026
 
 

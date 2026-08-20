@@ -55,6 +55,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: remove duplicate Amsterdam gas overrides and dead CPSB constants (#3857)](https://github.com/bluealloy/revm/commit/fac897fee1cb9989efbedc05fbac85094d762f5f) - 2026-08-14
 * [Pull Request] [feat(journal): finalize selfdestructed accounts in place from Cancun](https://github.com/bluealloy/revm/pull/3863) - 2026-08-18
 * [Pull Request] [refactor(gas): derive cold_storage_cost, make EIP-8038 warm-fold explicit in SSTORE](https://github.com/bluealloy/revm/pull/3861) - 2026-08-18
+* [Commit] [feat(journal): finalize selfdestructed accounts in place from Cancun (#3863)](https://github.com/bluealloy/revm/commit/44321b498097ab636a3ad8ed372370d838f51587) - 2026-08-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02

@@ -67,6 +67,7 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: pin the initial accessed_addresses set for frame transactions](https://github.com/ethereum/EIPs/pull/12113#pullrequestreview-4954301273) - 2026-08-17
 * [Review] [Review on: CI: delete duplicate jekyll build](https://github.com/ethereum/EIPs/pull/12165#pullrequestreview-4952626658) - 2026-08-17
 * [Commit] [8141: add sigdatacopy so that stack requirement for sigparam is static (#12187)](https://github.com/ethereum/EIPs/commit/ead1a36035513d65d0443710670f0c79e30d5b62) - 2026-08-18
+* [Review] [Review on: Add EIP: Deterministic sync committee aggregators](https://github.com/ethereum/EIPs/pull/12207#pullrequestreview-4976398792) - 2026-08-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

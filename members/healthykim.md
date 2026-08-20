@@ -38,6 +38,7 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [[Draft] p2p: add experimental quic transport](https://github.com/ethereum/go-ethereum/pull/35535) - 2026-08-13
 * [Review] [Review on: eth: don't read a blob pool that is still initialising](https://github.com/ethereum/go-ethereum/pull/35509#pullrequestreview-4926431859) - 2026-08-13
 * [Commit] [eth/fetcher: validate announced blob tx size against announcer's protocol version (#35524)](https://github.com/ethereum/go-ethereum/commit/aa1f2fcf512988eb8890d9352e601b898d6fdb2c) - 2026-08-13
+* [Review] [Review on: eth/protocols/eth: fix deadlock when re-requesting partial receipts](https://github.com/ethereum/go-ethereum/pull/35537#pullrequestreview-4972559206) - 2026-08-19
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4816824387) - 2026-07-30
 * [Review] [Review on: Update EIP-8070: Clarify custodyColumns `null` behavior](https://github.com/ethereum/EIPs/pull/12144#pullrequestreview-4916982296) - 2026-08-12

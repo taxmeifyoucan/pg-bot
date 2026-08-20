@@ -149,6 +149,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Stop emitting duplicate head events for gloas](https://github.com/Consensys/teku/pull/11127#pullrequestreview-4957049379) - 2026-08-18
 * [Commit] [Trigger peer search when sync committee publish has no peers (#11112)](https://github.com/Consensys/teku/commit/51d74fc3bff91702a3029deccf971f8e8a2de8a9) - 2026-08-18
 * [Commit] [Validate BeaconBlocksByRoot responses against requested roots (#11118)](https://github.com/Consensys/teku/commit/1c6c8e75277c57cce76714426e3fee3624935301) - 2026-08-18
+* [Pull Request] [Use included Gloas execution payload envelope for self-built payload duty](https://github.com/Consensys/teku/pull/11147) - 2026-08-19
+* [Review] [Review on: update jvm-libp2p to 1.3.6-RELEASE](https://github.com/Consensys/teku/pull/11138#pullrequestreview-4968663078) - 2026-08-19
+* [Review] [Review on: Put `BuilderConfig` in request body when calling block v4](https://github.com/Consensys/teku/pull/11132#pullrequestreview-4967621663) - 2026-08-19
+* [Review] [Review on: Stop emitting duplicate head events for gloas](https://github.com/Consensys/teku/pull/11127#pullrequestreview-4968248721) - 2026-08-19
+* [Pull Request] [Implement standalone VC PTC duties for Gloas](https://github.com/Consensys/teku/pull/11137) - 2026-08-19
+* [Issue] [implement ptc duties for the VC in gloas](https://github.com/Consensys/teku/issues/11136) - 2026-08-19
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

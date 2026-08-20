@@ -137,6 +137,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc/jsonrpc: fail trace_filter instead of mixing error objects into the result array](https://github.com/erigontech/erigon/pull/23346) - 2026-08-17
 * [Review] [Review on: rpc/jsonrpc: gate receipts and logs on the data they actually read](https://github.com/erigontech/erigon/pull/23322#pullrequestreview-4951902648) - 2026-08-17
 * [Review] [Review on: rpc/jsonrpc: gate receipts and logs on the data they actually read](https://github.com/erigontech/erigon/pull/23322#pullrequestreview-4965647504) - 2026-08-18
+* [Review] [Review on: rpc/jsonrpc: fail trace_filter instead of mixing error objects into the result array](https://github.com/erigontech/erigon/pull/23346#pullrequestreview-4975952534) - 2026-08-19
+* [Issue] [db/downloader: batch-owned download stats instead of one global sample](https://github.com/erigontech/erigon/issues/23415) - 2026-08-19
+* [Issue] [db/downloader, node/interfaces: report snapshot-download progress over the downloader RPC](https://github.com/erigontech/erigon/issues/23414) - 2026-08-19
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -150,6 +153,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration-test: update expected results for traceAddress path semantics](https://github.com/erigontech/rpc-tests/pull/587) - 2026-08-10
 * [Commit] [update expected results for traceAddress path semantics (#587)](https://github.com/erigontech/rpc-tests/commit/1546242adc66781d1b4d1d9846e40ff8d60df143) - 2026-08-11
 * [Review] [Review on: integration_test: debug_traceBlockByNumber(pending) now returns an error](https://github.com/erigontech/rpc-tests/pull/588#pullrequestreview-4962632949) - 2026-08-18
+* [Review] [Review on: fix: rename ErigonLog.Timestamp to BlockTimestamp](https://github.com/erigontech/rpc-tests/pull/589#pullrequestreview-4972186926) - 2026-08-19
 ## Q2 2026
 
 

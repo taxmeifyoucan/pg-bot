@@ -66,6 +66,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/12834#pullrequestreview-4946273805) - 2026-08-16
 * [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/12833#pullrequestreview-4946223124) - 2026-08-16
 * [Pull Request] [refactor(deps): replace RocksDB package](https://github.com/NethermindEth/nethermind/pull/12853) - 2026-08-17
+* [Pull Request] [feat(stateless): adopt tests-zkevm v0.8.2 and glamsterdam devnet-8](https://github.com/NethermindEth/nethermind/pull/12909) - 2026-08-19
+* [Review] [Review on: ci: disable .NET package caching again](https://github.com/NethermindEth/nethermind/pull/12901#pullrequestreview-4974012472) - 2026-08-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03

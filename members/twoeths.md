@@ -122,6 +122,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: recompute head before proposer boost dependent root check](https://github.com/ChainSafe/lodestar/pull/9813#pullrequestreview-4958316299) - 2026-08-18
 * [Review] [Review on: feat: allow proposer reorgs at epoch boundaries](https://github.com/ChainSafe/lodestar/pull/9769#pullrequestreview-4956396144) - 2026-08-18
 * [Issue] [Epoch boundary reorg preparation](https://github.com/ChainSafe/lodestar/issues/9843) - 2026-08-18
+* [Pull Request] [fix: prune prefinalized pending items in BlockInputSync](https://github.com/ChainSafe/lodestar/pull/9852) - 2026-08-19
+* [Review] [Review on: perf: resolve builder top-ups by index at the fork transition](https://github.com/ChainSafe/lodestar/pull/9861#pullrequestreview-4977928104) - 2026-08-20
+* [Review] [Review on: fix: handle attributable peers on range sync](https://github.com/ChainSafe/lodestar/pull/9836#pullrequestreview-4967918978) - 2026-08-19
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

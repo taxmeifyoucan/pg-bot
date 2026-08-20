@@ -58,6 +58,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(spec-tools,testing): move evm_tools into the testing package](https://github.com/ethereum/execution-specs/pull/3307#pullrequestreview-4927850924) - 2026-08-13
 * [Review] [Review on: Frame Transactions (EIP-8141)](https://github.com/ethereum/execution-specs/pull/3047#pullrequestreview-4924837213) - 2026-08-13
 * [Commit] [fix(spec-tools,testing): move evm_tools into the testing package (#3307)](https://github.com/ethereum/execution-specs/commit/56e8617b619c0ab22284b140b49cc5501e5e6227) - 2026-08-13
+* [Pull Request] [feat(specs,tests): update EIP-8141 implementation](https://github.com/ethereum/execution-specs/pull/3396) - 2026-08-19
+* [Review] [Review on: feat(spec-specs,tests): pin the EIP-8141 approval context across batches and reverts](https://github.com/ethereum/execution-specs/pull/3393#pullrequestreview-4970514677) - 2026-08-19
 ## Q2 2026
 
 

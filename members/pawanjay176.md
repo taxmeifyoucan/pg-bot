@@ -60,6 +60,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot (alpha.13)](https://github.com/sigp/lighthouse/pull/9761#pullrequestreview-4953370870) - 2026-08-17
 * [Review] [Review on: Release v8.2.2](https://github.com/sigp/lighthouse/pull/9840#pullrequestreview-4955355686) - 2026-08-17
 * [Review] [Review on: Add builder API types, request-auth domain, and eth2 client methods (Gloas builder API 1/5)](https://github.com/sigp/lighthouse/pull/9803#pullrequestreview-4966665207) - 2026-08-18
+* [Review] [Review on:  Explicitly set bid fields when upgrading to Gloas](https://github.com/sigp/lighthouse/pull/9876#pullrequestreview-4975481580) - 2026-08-19
+* [Review] [Review on: Fix builder payment weight double count under target equivocation](https://github.com/sigp/lighthouse/pull/9879#pullrequestreview-4975555730) - 2026-08-19
+* [Review] [Review on: Add Gloas Builder API client and adapt execution layer (Gloas builder API 2/5)](https://github.com/sigp/lighthouse/pull/9804#pullrequestreview-4967790116) - 2026-08-19
+* [Review] [Review on: Send out status message to peers after a CGC change](https://github.com/sigp/lighthouse/pull/9877#pullrequestreview-4975612325) - 2026-08-19
 ## Q2 2026
 
 

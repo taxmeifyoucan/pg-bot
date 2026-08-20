@@ -87,6 +87,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Commit] [add support for plataberget network (#11108)](https://github.com/Consensys/teku/commit/c8343bbcbf6105613599026cd4095d270fea536f) - 2026-08-17
 * [Commit] [add MAX_PARTIAL_DATA_COLUMN_SIDECAR_SIZE config parameter (#11104)](https://github.com/Consensys/teku/commit/0c9b0afbf7f474b2ab02fd03f5b04f3c8326dda8) - 2026-08-17
 * [Commit] [add domain builder deposit to get spec api (#11105)](https://github.com/Consensys/teku/commit/67eeac3ca3a946cfd429c3fbd370f41a5d93bf33) - 2026-08-18
+* [Pull Request] [add inclusion list store](https://github.com/Consensys/teku/pull/11144) - 2026-08-19
+* [Pull Request] [focil devnet 0 initial changes](https://github.com/Consensys/teku/pull/11139) - 2026-08-19
+* [Review] [Review on: focil devnet 0 initial changes](https://github.com/Consensys/teku/pull/11139#pullrequestreview-4971301101) - 2026-08-19
 ## Q2 2026
 
 

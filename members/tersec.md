@@ -97,6 +97,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Add version envelope to Gloas event stream events](https://github.com/status-im/nimbus-eth2/pull/8816#pullrequestreview-4962917526) - 2026-08-18
 * [Review] [Review on: engine ssz rest api](https://github.com/status-im/nimbus-eth2/pull/8895#pullrequestreview-4957355863) - 2026-08-18
 * [Pull Request] [use Fulu genesis for mainnet local testnet](https://github.com/status-im/nimbus-eth2/pull/8899) - 2026-08-18
+* [Review] [Review on: more efficient getBlobs polling](https://github.com/status-im/nimbus-eth2/pull/8884#pullrequestreview-4968135097) - 2026-08-19
+* [Pull Request] [use v1.7.0-alpha.14 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8912) - 2026-08-20
+* [Review] [Review on: Fix head payload status update](https://github.com/status-im/nimbus-eth2/pull/8903#pullrequestreview-4968580703) - 2026-08-19
+* [Pull Request] [rm unused compute_matrix() and recover_matrix()](https://github.com/status-im/nimbus-eth2/pull/8906) - 2026-08-19
+* [Review] [Review on: initial commit for partial messages](https://github.com/status-im/nimbus-eth2/pull/8905#pullrequestreview-4967868654) - 2026-08-19
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

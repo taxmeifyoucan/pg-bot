@@ -119,6 +119,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Suppress expected RPC overload warnings (#12609)](https://github.com/NethermindEth/nethermind/commit/67e0b5c010daeac01f60104f009e274195255abe) - 2026-08-17
 * [Pull Request] [perf(rpc): fix eth_call degradation under concurrent load (50→300 rps)](https://github.com/NethermindEth/nethermind/pull/12870) - 2026-08-18
 * [Commit] [Add timeout to create_a_runner in sync master validation (#12875)](https://github.com/NethermindEth/nethermind/commit/e2d251bd346453a1aac20ff467ca305ba453a30c) - 2026-08-18
+* [Pull Request] [perf(evm): front the EVM call pools with a per-thread free list](https://github.com/NethermindEth/nethermind/pull/12905) - 2026-08-19
+* [Pull Request] [ci: wait for the publish-docker run we dispatched, not any concurrent one](https://github.com/NethermindEth/nethermind/pull/12907) - 2026-08-19
+* [Pull Request] [perf(rpc): apply eth_call state overrides without merkleizing them](https://github.com/NethermindEth/nethermind/pull/12904) - 2026-08-19
+* [Pull Request] [ci: disable .NET package caching again](https://github.com/NethermindEth/nethermind/pull/12901) - 2026-08-19
+* [Review] [Review on: ci: disable .NET package caching again](https://github.com/NethermindEth/nethermind/pull/12901#pullrequestreview-4974239307) - 2026-08-19
+* [Pull Request] [ci(arm): stop RPC benchmarks from filling the runner's root disk](https://github.com/NethermindEth/nethermind/pull/12906) - 2026-08-19
+* [Commit] [perf(rpc): apply eth_call state overrides without merkleizing them (#12904)](https://github.com/NethermindEth/nethermind/commit/615eb31d55c25538e433ae933dd92e24c9dbd38b) - 2026-08-19
+* [Commit] [perf: accelerate EVM word byte swap on ARM64 (#12798)](https://github.com/NethermindEth/nethermind/commit/d30c63ea41c142cbca8d71d1394f0377228bc94e) - 2026-08-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

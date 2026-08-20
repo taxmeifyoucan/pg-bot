@@ -115,6 +115,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Issue] [Issue tracker to full benchmark test suite & glamsterdam-devnet-8 migration](https://github.com/ethereum/execution-specs/issues/3375) - 2026-08-14
 * [Commit] [refactor(test-benchmark): remove potential duplicated cases (#3374)](https://github.com/ethereum/execution-specs/commit/43e3cd1ec03dd550a2bd43746564b339e85fcd1d) - 2026-08-14
 * [Pull Request] [refactor(tests): EIP-8037 test gas calculation logic and post state verification](https://github.com/ethereum/execution-specs/pull/3383) - 2026-08-17
+* [Review] [Review on: chore(client-clis): map reth BAL slot-miss rejection](https://github.com/ethereum/execution-specs/pull/3392#pullrequestreview-4968134356) - 2026-08-19
+* [Review] [Review on: feat(tests): add BAL storage slot numeric ordering test](https://github.com/ethereum/execution-specs/pull/3382#pullrequestreview-4968107732) - 2026-08-19
+* [Review] [Review on: bug(test-base-types): Conversion methods use `ValueError`](https://github.com/ethereum/execution-specs/pull/3394#pullrequestreview-4968058236) - 2026-08-19
+* [Issue] [Issue tracker for performance improvement to `fill` & `fill-stateful`](https://github.com/ethereum/execution-specs/issues/3395) - 2026-08-19
 ## Q2 2026
 
 

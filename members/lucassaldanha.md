@@ -20,6 +20,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Bound the per-peer pending outbound RPC parts queue by default](https://github.com/libp2p/jvm-libp2p/pull/518) - 2026-08-13
 * [Issue] [dropLowPriority() doesn't reclaim state control parts, and queued subscriptions grow unbounded](https://github.com/libp2p/jvm-libp2p/issues/519) - 2026-08-13
 * [Commit] [Bound the per-peer pending outbound RPC parts queue by default (#518)](https://github.com/libp2p/jvm-libp2p/commit/e3c338c04aa8ab04946447175d84c04ce7f2cfef) - 2026-08-13
+* [Review] [Review on: Release 1.3.6](https://github.com/libp2p/jvm-libp2p/pull/520#pullrequestreview-4968347271) - 2026-08-19
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28
@@ -84,6 +85,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Add tests for data column sidecar gossip schema fork resolution](https://github.com/Consensys/teku/pull/11126) - 2026-08-18
 * [Commit] [fix Spotless checks](https://github.com/Consensys/teku/commit/3fa1bfe191ddaca0357998e797388da3aa8dcffc) - 2026-08-19
 * [Commit] [Add tests for data column sidecar gossip schema fork resolution (#11126)](https://github.com/Consensys/teku/commit/9c2eb825315ef8d80a0e602c1ee792a19031e685) - 2026-08-18
+* [Pull Request] [Update ethspecify for alpha.14](https://github.com/Consensys/teku/pull/11148) - 2026-08-20
+* [Review] [Review on: FCR reference tests ](https://github.com/Consensys/teku/pull/11146#pullrequestreview-4977065078) - 2026-08-19
+* [Review] [Review on: FCR event](https://github.com/Consensys/teku/pull/11145#pullrequestreview-4977053983) - 2026-08-19
+* [Pull Request] [update jvm-libp2p to 1.3.6-RELEASE](https://github.com/Consensys/teku/pull/11138) - 2026-08-19
+* [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/Consensys/teku/pull/11123#pullrequestreview-4970206296) - 2026-08-19
+* [Commit] [update jvm-libp2p to 1.3.6-RELEASE (#11138)](https://github.com/Consensys/teku/commit/a023bd050cd45ecfa2495eab2fb745473da2836e) - 2026-08-19
 ## Q2 2026
 
 

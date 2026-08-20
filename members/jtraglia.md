@@ -196,6 +196,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Rename sections for presets/configs](https://github.com/ethereum/consensus-specs/pull/5552) - 2026-08-18
 * [Review] [Review on: Set the slot of the upgraded execution payload bid](https://github.com/ethereum/consensus-specs/pull/5550#pullrequestreview-4962738456) - 2026-08-18
 * [Commit] [Rename sections for presets/configs (#5552)](https://github.com/ethereum/consensus-specs/commit/92e045897ea7a1997349eff36e186b0d8cbbf03d) - 2026-08-18
+* [Pull Request] [Define `sha256_hash` & `blake3_hash` functions](https://github.com/ethereum/consensus-specs/pull/5555) - 2026-08-19
+* [Review] [Review on: Add `custody_columns` parameter to `notify_forkchoice_updated`](https://github.com/ethereum/consensus-specs/pull/5549#pullrequestreview-4968037470) - 2026-08-19
+* [Review] [Review on: Use slot from header instead of bid](https://github.com/ethereum/consensus-specs/pull/5554#pullrequestreview-4973995163) - 2026-08-19
+* [Review] [Review on: Initialize anchor PTC vote arrays in `get_forkchoice_store`](https://github.com/ethereum/consensus-specs/pull/5545#pullrequestreview-4968155027) - 2026-08-19
+* [Commit] [Add casts to uint operations with different types (#5527)](https://github.com/ethereum/consensus-specs/commit/75d8c9258b6e52e122c41099fb7a610d106069c2) - 2026-08-19
+* [Commit] [Explicitly set bid fields when upgrading to Gloas (#5553)](https://github.com/ethereum/consensus-specs/commit/cb94bfb3a10d43511f2e351f793e190ec028b247) - 2026-08-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

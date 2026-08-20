@@ -33,6 +33,8 @@ Team: Nimbus
 * [Commit] [Beacon sync maint update (#4615)](https://github.com/status-im/nimbus-eth1/commit/a08f6a5cd0189652980a3511d4127180e15fa262) - 2026-08-07
 * [Pull Request] [Snap sync provide snap2](https://github.com/status-im/nimbus-eth1/pull/4644) - 2026-08-16
 * [Commit] [Snap sync provide snap2 (#4644)](https://github.com/status-im/nimbus-eth1/commit/324928cdd0657e90d7122814f8afd3eacc87b557) - 2026-08-16
+* [Pull Request] [Snap2 sync update fsa and workings](https://github.com/status-im/nimbus-eth1/pull/4661) - 2026-08-19
+* [Commit] [Snap2 sync update fsa and workings (#4661)](https://github.com/status-im/nimbus-eth1/commit/d187f1a28a324a4a79ead53a7553776aea4c7cfb) - 2026-08-19
 ## Q2 2026
 
 

@@ -193,6 +193,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Pull Request] [Set the slot of the upgraded execution payload bid](https://github.com/OffchainLabs/prysm/pull/17370) - 2026-08-18
 * [Review] [Review on: Use Gloas attestation deadline for determining block timeliness](https://github.com/OffchainLabs/prysm/pull/17368#pullrequestreview-4956616097) - 2026-08-18
 * [Commit] [Align Gloas builder API request auth types and bid request headers with builder-specs (#17372)](https://github.com/OffchainLabs/prysm/commit/ad03bcf961fe98fe59c38ec431371b4fcfaf6ece) - 2026-08-18
+* [Pull Request] [Bump consensus spec to v1.7.0-alpha.13](https://github.com/OffchainLabs/prysm/pull/17382) - 2026-08-19
+* [Pull Request] [Bump consensus spec to v1.7.0-alpha.14](https://github.com/OffchainLabs/prysm/pull/17383) - 2026-08-19
+* [Review] [Review on: Enforce per-builder bid limits from the block request](https://github.com/OffchainLabs/prysm/pull/17374#pullrequestreview-4976325223) - 2026-08-19
+* [Pull Request] [Generate SSZ with methodical-ssz instead of fastssz](https://github.com/OffchainLabs/prysm/pull/17384) - 2026-08-19
+* [Review] [Review on: renaming endpoints and function names to match keymanager api stuff](https://github.com/OffchainLabs/prysm/pull/17379#pullrequestreview-4973316444) - 2026-08-19
+* [Pull Request] [Explicitly set bid fields when upgrading to Gloas](https://github.com/OffchainLabs/prysm/pull/17380) - 2026-08-19
+* [Commit] [Decouple builder request auth from the dial URL (#17373)](https://github.com/OffchainLabs/prysm/commit/0a5c83fc380aa2db1b436baef718d4c28e561774) - 2026-08-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

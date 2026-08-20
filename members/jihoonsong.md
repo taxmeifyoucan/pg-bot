@@ -79,6 +79,9 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Rename sections for presets/configs](https://github.com/ethereum/consensus-specs/pull/5552#pullrequestreview-4963193375) - 2026-08-18
 * [Review] [Review on: Allow epoch boundary reorgs in Fulu](https://github.com/ethereum/consensus-specs/pull/5547#pullrequestreview-4958240996) - 2026-08-18
 * [Commit] [Change IL store's keys to (slot, dependent root) (#5544)](https://github.com/ethereum/consensus-specs/commit/7098ce676874012d851aeda7bbca1148221daf02) - 2026-08-18
+* [Review] [Review on: Add `custody_columns` parameter to `notify_forkchoice_updated`](https://github.com/ethereum/consensus-specs/pull/5549#pullrequestreview-4973616338) - 2026-08-19
+* [Review] [Review on: Add casts to uint operations with different types](https://github.com/ethereum/consensus-specs/pull/5527#pullrequestreview-4971200208) - 2026-08-19
+* [Review] [Review on: Initialize anchor PTC vote arrays in `get_forkchoice_store`](https://github.com/ethereum/consensus-specs/pull/5545#pullrequestreview-4973537033) - 2026-08-19
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

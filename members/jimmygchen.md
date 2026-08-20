@@ -27,6 +27,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: beacon_node/execution_layer: add traceparent header to engine API requests](https://github.com/sigp/lighthouse/pull/9402#pullrequestreview-4879533076) - 2026-08-07
 * [Pull Request] [Fix Phase0 nightly beacon chain tests](https://github.com/sigp/lighthouse/pull/9777) - 2026-08-10
 * [Review] [Review on: Tolerate empty sync aggregates in the basic simulator](https://github.com/sigp/lighthouse/pull/9781#pullrequestreview-4903516424) - 2026-08-11
+* [Pull Request] [Add per-validator builder configuration API](https://github.com/sigp/lighthouse/pull/9864) - 2026-08-19
 ## Q2 2026
 
 

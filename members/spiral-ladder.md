@@ -151,6 +151,12 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: ci: publish dev bindings from main](https://github.com/ChainSafe/lodestar-z/pull/568#pullrequestreview-4962103056) - 2026-08-18
 * [Pull Request] [chore(docs): add comments section in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/566) - 2026-08-18
 * [Commit] [chore(docs): add comments section in AGENTS.md (#566)](https://github.com/ChainSafe/lodestar-z/commit/0c0975098fd97ba02a447a8cdec736c91a3e806f) - 2026-08-18
+* [Pull Request] [chore: deprecate unused blst APIs](https://github.com/ChainSafe/lodestar-z/pull/575) - 2026-08-19
+* [Review] [Review on: fix(ssz): publish child cache entries after lookup](https://github.com/ChainSafe/lodestar-z/pull/565#pullrequestreview-4968487661) - 2026-08-19
+* [Review] [Review on: test: organize memory-safety checks by module](https://github.com/ChainSafe/lodestar-z/pull/572#pullrequestreview-4968469468) - 2026-08-19
+* [Review] [Review on: feat(shuffle): add swap-or-not shuffling module and binding](https://github.com/ChainSafe/lodestar-z/pull/559#pullrequestreview-4971623941) - 2026-08-19
+* [Review] [Review on: chore: update zapi to 4.0.0](https://github.com/ChainSafe/lodestar-z/pull/571#pullrequestreview-4968588064) - 2026-08-19
+* [Commit] [chore: deprecate unused blst APIs (#575)](https://github.com/ChainSafe/lodestar-z/commit/7b547fa29377a8f7f457448418b0c24ce57126af) - 2026-08-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

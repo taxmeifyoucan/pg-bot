@@ -70,6 +70,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Add genception, a Bazel-backed go/packages driver](https://github.com/OffchainLabs/prysm/pull/17307#pullrequestreview-4919210900) - 2026-08-12
 * [Review] [Review on: Add the `--disable-graffiti-client-append` flag.](https://github.com/OffchainLabs/prysm/pull/17341#pullrequestreview-4918857169) - 2026-08-12
 * [Review] [Review on: `getHeader`: Allow a user defined timeout value with the `--builder-header-timeout` flag](https://github.com/OffchainLabs/prysm/pull/17283#pullrequestreview-4918155499) - 2026-08-12
+* [Review] [Review on: Explicitly set bid fields when upgrading to Gloas](https://github.com/OffchainLabs/prysm/pull/17380#pullrequestreview-4974220765) - 2026-08-19
 ## Q2 2026
 
 

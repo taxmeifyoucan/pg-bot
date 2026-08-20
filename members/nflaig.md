@@ -324,6 +324,20 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(fork-choice): preserve exact Gwei weights](https://github.com/ChainSafe/lodestar/pull/9821#pullrequestreview-4958583854) - 2026-08-18
 * [Pull Request] [fix: explicitly set bid fields when upgrading to gloas](https://github.com/ChainSafe/lodestar/pull/9847) - 2026-08-18
 * [Commit] [feat: allow proposer reorgs at epoch boundaries (#9769)](https://github.com/ChainSafe/lodestar/commit/1759dccc9c664eee2954f9c1136e7583da49ea4e) - 2026-08-18
+* [Pull Request] [perf: resolve builder top-ups by index at the fork transition](https://github.com/ChainSafe/lodestar/pull/9861) - 2026-08-20
+* [Review] [Review on: test(builder): handler tests](https://github.com/ChainSafe/lodestar/pull/9860#pullrequestreview-4977644168) - 2026-08-19
+* [Pull Request] [test: run standalone SSZ spec tests](https://github.com/ChainSafe/lodestar/pull/9859) - 2026-08-19
+* [Review] [Review on: fix: fully initialize execution payload bid on gloas upgrade](https://github.com/ChainSafe/lodestar/pull/9847#pullrequestreview-4975783395) - 2026-08-19
+* [Review] [Review on: feat: add `block_hash` and `builder_index` to block event](https://github.com/ChainSafe/lodestar/pull/9854#pullrequestreview-4973789030) - 2026-08-19
+* [Review] [Review on: test: harden e2e child process cleanup](https://github.com/ChainSafe/lodestar/pull/9858#pullrequestreview-4975359197) - 2026-08-19
+* [Pull Request] [fix: optimize proposer boost dependent root check](https://github.com/ChainSafe/lodestar/pull/9853) - 2026-08-19
+* [Pull Request] [chore: restore pre-Fulu proposer shuffling check](https://github.com/ChainSafe/lodestar/pull/9850) - 2026-08-19
+* [Pull Request] [chore: skip unsupported pre-Fulu proposer head tests](https://github.com/ChainSafe/lodestar/pull/9851) - 2026-08-19
+* [Review] [Review on: feat(builder): add metrics to builder client](https://github.com/ChainSafe/lodestar/pull/9848#pullrequestreview-4970372115) - 2026-08-19
+* [Review] [Review on: fix: recompute head before proposer boost dependent root check](https://github.com/ChainSafe/lodestar/pull/9813#pullrequestreview-4970086869) - 2026-08-19
+* [Commit] [perf: resolve builder top-ups by index at the fork transition (#9861)](https://github.com/ChainSafe/lodestar/commit/e91bc3e8595499c4bff9b9eee7527c7c3b40af52) - 2026-08-20
+* [Commit] [fix: fully initialize execution payload bid on gloas upgrade (#9847)](https://github.com/ChainSafe/lodestar/commit/41653ebb93d8cddc82a8ce425b111f6e0f19f868) - 2026-08-19
+* [Commit] [chore: restore pre-Fulu proposer shuffling check (#9850)](https://github.com/ChainSafe/lodestar/commit/09607ce6d40a7880e45ab5e640e6efe58a8594cc) - 2026-08-19
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -402,6 +416,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat(bindings): configurable pubkey cache growth step (#481)](https://github.com/ChainSafe/lodestar-z/commit/133ef248a5e6dec11dac8f3dfd6879920e217834) - 2026-07-10
 * [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/544#pullrequestreview-4885090893) - 2026-08-07
 
+* [Review] [Review on: chore: prepare 1.0.0 release](https://github.com/ChainSafe/lodestar-z/pull/576#pullrequestreview-4975874039) - 2026-08-19
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Return 404 for unknown keymanager validator keys](https://github.com/Consensys/teku/pull/11133) - 2026-08-18
 * [Commit] [Return 404 for unknown keymanager validator keys (#11133)](https://github.com/Consensys/teku/commit/93b41c1833441603b8272ddfec7a7fd7100508a5) - 2026-08-18

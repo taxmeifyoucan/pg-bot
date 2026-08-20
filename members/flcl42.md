@@ -225,6 +225,14 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: feat(frames): two-dimensional gas limits per EIP-8141 (devnet-0)](https://github.com/NethermindEth/nethermind/pull/12850#pullrequestreview-4950385560) - 2026-08-17
 * [Review] [Review on: feat(frames): two-dimensional gas limits per EIP-8141](https://github.com/NethermindEth/nethermind/pull/12847#pullrequestreview-4948146574) - 2026-08-17
 * [Review] [Review on: Announce the stored range floor in BlockRangeUpdate instead of genesis](https://github.com/NethermindEth/nethermind/pull/12860#pullrequestreview-4960731793) - 2026-08-18
+* [Pull Request] [Reject deposit logs with noncanonical ABI offsets](https://github.com/NethermindEth/nethermind/pull/12895) - 2026-08-19
+* [Pull Request] [Fix RLPx/Snappy frame decoding correctness and DoS issues](https://github.com/NethermindEth/nethermind/pull/12896) - 2026-08-19
+* [Review] [Review on: Fix RLPx/Snappy frame decoding correctness and DoS issues](https://github.com/NethermindEth/nethermind/pull/12896#pullrequestreview-4976328540) - 2026-08-19
+* [Commit] [Detect Geth genesis format independent of property order (#12784)](https://github.com/NethermindEth/nethermind/commit/42215cf17f96eab7af001be4160f23d92400c60b) - 2026-08-19
+* [Commit] [Align debug_traceCall base fee with Geth (#12804)](https://github.com/NethermindEth/nethermind/commit/58ecde192d2fbee5f584bb81f6b15c5a90102ea3) - 2026-08-19
+* [Commit] [Surface EIP-2780 runtime OOG from eth_call (#12806)](https://github.com/NethermindEth/nethermind/commit/918332824faae7e292bc5ae437354cb6fbedd26d) - 2026-08-19
+* [Commit] [Handle IPv6 enode text endpoints (#12678)](https://github.com/NethermindEth/nethermind/commit/117af1d8abb6388fb6101db3edd290dee25a934e) - 2026-08-19
+* [Commit] [Restore eth/68 blob violation handling (#12605)](https://github.com/NethermindEth/nethermind/commit/18c66ac3c67b7cf51b9adee17429dc677349e4ea) - 2026-08-19
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
