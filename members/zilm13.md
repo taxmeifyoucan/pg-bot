@@ -86,6 +86,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [FCR event](https://github.com/Consensys/teku/pull/11145) - 2026-08-19
 * [Review] [Review on: Use slot from header instead of bid](https://github.com/Consensys/teku/pull/11143#pullrequestreview-4975210823) - 2026-08-19
 * [Commit] [Fast confirmation: tracker scaffolding (disabled by default) (#11073)](https://github.com/Consensys/teku/commit/5c05c5ff01ed423cbda2a7d4ec254a79994be121) - 2026-08-19
+* [Pull Request] [BatchSync Improvements](https://github.com/Consensys/teku/pull/11158) - 2026-08-20
+* [Review] [Review on: FCR reference tests ](https://github.com/Consensys/teku/pull/11146#pullrequestreview-4983975820) - 2026-08-20
+* [Pull Request] [Last parts of FCR](https://github.com/Consensys/teku/pull/11157) - 2026-08-20
+* [Review] [Review on: Hedge slow requests in SimpleSidecarRetriever](https://github.com/Consensys/teku/pull/11011#pullrequestreview-4982180476) - 2026-08-20
+* [Commit] [FCR reference tests  (#11146)](https://github.com/Consensys/teku/commit/8bf7e9ea81e4d7c87a47379f257128a4de09a8b8) - 2026-08-20
+* [Commit] [FCR event (#11145)](https://github.com/Consensys/teku/commit/96f232861100aadf5f125b4d81c0dd3a62c8e245) - 2026-08-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

@@ -126,6 +126,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(test-fill): make engine_x fixtures consumable via devp2p sync](https://github.com/ethereum/execution-specs/pull/3364) - 2026-08-12
 * [Pull Request] [feat(test-consume): add consume wirex, a devp2p full-sync simulator](https://github.com/ethereum/execution-specs/pull/3365) - 2026-08-12
 * [Review] [Review on: feat(test-fill): Optimistic grouping flag](https://github.com/ethereum/execution-specs/pull/3390#pullrequestreview-4973353065) - 2026-08-19
+* [Pull Request] [fix(evm-tools): restore state test compatibility](https://github.com/ethereum/execution-specs/pull/3409) - 2026-08-20
+* [Pull Request] [refactor(test-fill): use the shared sync-payload builder for sync fixtures](https://github.com/ethereum/execution-specs/pull/3405) - 2026-08-20
+* [Issue] [Audit pre-Cancun GeneralStateTest coverage in execution-specs](https://github.com/ethereum/execution-specs/issues/3404) - 2026-08-20
+* [Issue] [perf(test-benchmark): consider using pypy to fill benchmark releases](https://github.com/ethereum/execution-specs/issues/3402) - 2026-08-20
+* [Issue] [perf(test-fill): every engine_x t8n call copies and re-merklizes the whole merged pre-alloc group](https://github.com/ethereum/execution-specs/issues/3403) - 2026-08-20
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -142,6 +147,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [hiveview: exclude multi-test client contexts from listing counts (#1576)](https://github.com/ethereum/hive/commit/b512a9aafbe5b0e8e439e16d771ad30dfdba6f34) - 2026-07-16
 * [Review] [Review on: hiveproxy: use GOPROXY "|" separator to fall back to direct on any proxy error](https://github.com/ethereum/hive/pull/1591#pullrequestreview-4874335262) - 2026-08-06
 * [Review] [Review on: clients/nimbus-el: pass genesis slotNumber through mapper (EIP-7843)](https://github.com/ethereum/hive/pull/1597#pullrequestreview-4927945648) - 2026-08-13
+* [Pull Request] [internal/libhive: release the test-case mutex before removing containers](https://github.com/ethereum/hive/pull/1600) - 2026-08-20
+* [Commit] [internal/libhive: release the test-case mutex before removing containers (#1600)](https://github.com/ethereum/hive/commit/642a051b11a2085917a6e7dcafc09ab065a9db02) - 2026-08-20
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09

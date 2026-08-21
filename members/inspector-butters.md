@@ -57,6 +57,9 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [prefer subtests in agents.md (#17360)](https://github.com/OffchainLabs/prysm/commit/b86db8d314e1177d8e473a288a871fc3be6f6977) - 2026-08-14
 * [Review] [Review on: Do not migrate a cold state built from a reorged-out block](https://github.com/OffchainLabs/prysm/pull/17371#pullrequestreview-4973274129) - 2026-08-19
 * [Review] [Review on: renaming endpoints and function names to match keymanager api stuff](https://github.com/OffchainLabs/prysm/pull/17379#pullrequestreview-4973375071) - 2026-08-19
+* [Review] [Review on: fixing ux bug on default hosts log](https://github.com/OffchainLabs/prysm/pull/17388#pullrequestreview-4984389066) - 2026-08-20
+* [Pull Request] [Fix quadratic BLS signature verification during Gloas builder onboarding](https://github.com/OffchainLabs/prysm/pull/17387) - 2026-08-20
+* [Review] [Review on: Do not migrate a cold state built from a reorged-out block](https://github.com/OffchainLabs/prysm/pull/17371#pullrequestreview-4980481497) - 2026-08-20
 ## Q2 2026
 
 

@@ -26,6 +26,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: emit EL node records from mimicry sessions, add dial failure metrics (#876)](https://github.com/ethpandaops/xatu/commit/a83a609259acd353cc0d0625688964efdbc7c5c7) - 2026-07-13
 * [Pull Request] [feat: add gossipsub message payload event for raw wire-bytes capture](https://github.com/ethpandaops/xatu/pull/877) - 2026-07-16
 * [Commit] [feat: add gossipsub message payload event for raw wire-bytes capture (#877)](https://github.com/ethpandaops/xatu/commit/fc20a343a2974964e8c2c455973bbc65c3cde5cd) - 2026-07-17
+* [Pull Request] [feat: add typed ClickHouse read package (pkg/proto/clickhouse)](https://github.com/ethpandaops/xatu/pull/886) - 2026-08-20
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [telemetry: add OTLP traces pipeline](https://github.com/ethpandaops/template-devnets/pull/178) - 2026-07-06
 * [Commit] [xatu-sentry: ship to the per-devnet ingest pipeline](https://github.com/ethpandaops/template-devnets/commit/625d2c78cd2d9b4c985462134bc6986d677ee195) - 2026-07-06

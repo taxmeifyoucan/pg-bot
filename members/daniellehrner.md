@@ -64,6 +64,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: evmtool: parallel workers, filtering and directory input for the test runners](https://github.com/besu-eth/besu/pull/11028#pullrequestreview-4971350552) - 2026-08-19
 * [Commit] [evmtool: parallel workers, filtering and directory input for the test runners (#11028)](https://github.com/besu-eth/besu/commit/1b572e67e3479c3b8b6eea4a4227473e2490242b) - 2026-08-19
 * [Commit] [EIP-8282: move the builder request predeploys to their devnet-7 addresses (#10929)](https://github.com/besu-eth/besu/commit/c7770ac78e00f4a33c28f13902cf59b65a7eb3c2) - 2026-08-19
+* [Review] [Review on: Amsterdam devnet-7 (2/4): EIP-3120/8037/8038 calldata floor, CREATE liveness, SSTORE ordering](https://github.com/besu-eth/besu/pull/10930#pullrequestreview-4981583026) - 2026-08-20
+* [Review] [Review on: Fix CALLCODE state gas refund target](https://github.com/besu-eth/besu/pull/11107#pullrequestreview-4981411841) - 2026-08-20
+* [Commit] [Amsterdam devnet-7 (2/4): EIP-3120/8037/8038 calldata floor, CREATE liveness, SSTORE ordering (#10930)](https://github.com/besu-eth/besu/commit/a2da1185ad85c1f0c41341a4ed197a81cf93f17e) - 2026-08-20
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

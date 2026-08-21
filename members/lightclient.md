@@ -68,6 +68,9 @@ Team: Geth
 * [Review] [Review on: CI: delete duplicate jekyll build](https://github.com/ethereum/EIPs/pull/12165#pullrequestreview-4952626658) - 2026-08-17
 * [Commit] [8141: add sigdatacopy so that stack requirement for sigparam is static (#12187)](https://github.com/ethereum/EIPs/commit/ead1a36035513d65d0443710670f0c79e30d5b62) - 2026-08-18
 * [Review] [Review on: Add EIP: Deterministic sync committee aggregators](https://github.com/ethereum/EIPs/pull/12207#pullrequestreview-4976398792) - 2026-08-19
+* [Review] [Review on: Update EIP-8141: dispatch a precompile targeted by a frame](https://github.com/ethereum/EIPs/pull/12157#pullrequestreview-4987232340) - 2026-08-20
+* [Review] [Review on: Update EIP-8141: scope APPROVE failure modes to the current call frame](https://github.com/ethereum/EIPs/pull/12212#pullrequestreview-4987213939) - 2026-08-20
+* [Review] [Review on: Update EIP-8141: charge the resolved target's access at frame entry](https://github.com/ethereum/EIPs/pull/12211#pullrequestreview-4986985861) - 2026-08-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

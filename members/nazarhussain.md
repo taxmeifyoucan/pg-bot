@@ -45,6 +45,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: reference-parity swap_or_not_shuffle API and JS binding](https://github.com/ChainSafe/lodestar-z/pull/559#pullrequestreview-4960504244) - 2026-08-18
 * [Review] [Review on: feat(shuffle): add swap-or-not shuffling module and binding](https://github.com/ChainSafe/lodestar-z/pull/559#pullrequestreview-4972516890) - 2026-08-19
 * [Pull Request] [chore: upgrade zapi to v4.0.0](https://github.com/ChainSafe/lodestar-z/pull/573) - 2026-08-19
+* [Review] [Review on: feat(shuffle): add PTC sampling](https://github.com/ChainSafe/lodestar-z/pull/563#pullrequestreview-4986078417) - 2026-08-20
+* [Pull Request] [refactor(shuffle): drop JS signature comments and fix balance param name](https://github.com/ChainSafe/lodestar-z/pull/577) - 2026-08-20
+* [Pull Request] [fix(shuffle): reject out-of-range numbers instead of coercing](https://github.com/ChainSafe/lodestar-z/pull/580) - 2026-08-20
+* [Commit] [refactor(shuffle): drop JS signature comments and fix balance param name (#577)](https://github.com/ChainSafe/lodestar-z/commit/be598b1165a9e35892d9aa0eb024ef27d12ef07b) - 2026-08-20
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07

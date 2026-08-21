@@ -91,6 +91,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [update jvm-libp2p to 1.3.6-RELEASE](https://github.com/Consensys/teku/pull/11138) - 2026-08-19
 * [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/Consensys/teku/pull/11123#pullrequestreview-4970206296) - 2026-08-19
 * [Commit] [update jvm-libp2p to 1.3.6-RELEASE (#11138)](https://github.com/Consensys/teku/commit/a023bd050cd45ecfa2495eab2fb745473da2836e) - 2026-08-19
+* [Pull Request] [Set bid fields upgrade gloas + v1.7.0-alpha.14 fixes](https://github.com/Consensys/teku/pull/11152) - 2026-08-20
+* [Pull Request] [Last minute fixes for gloas](https://github.com/Consensys/teku/pull/11149) - 2026-08-20
+* [Issue] [Update reference tests to v1.7.0 alpha.14](https://github.com/Consensys/teku/issues/11151) - 2026-08-20
+* [Issue] [ProtoArray.addNode downgrades optimistic Gloas FULL nodes to VALID when payload block hash is zero](https://github.com/Consensys/teku/issues/11153) - 2026-08-20
+* [Issue] [Fulu: get_proposer_head still applies is_shuffling_stable (EIP-7917)](https://github.com/Consensys/teku/issues/11150) - 2026-08-20
+* [Commit] [Set bid fields upgrade gloas + v1.7.0-alpha.14 fixes (#11152)](https://github.com/Consensys/teku/commit/392a39df59c9adb6fdb7471270a96c1e6b746973) - 2026-08-20
 ## Q2 2026
 
 

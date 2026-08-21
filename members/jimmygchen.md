@@ -28,6 +28,11 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Fix Phase0 nightly beacon chain tests](https://github.com/sigp/lighthouse/pull/9777) - 2026-08-10
 * [Review] [Review on: Tolerate empty sync aggregates in the basic simulator](https://github.com/sigp/lighthouse/pull/9781#pullrequestreview-4903516424) - 2026-08-11
 * [Pull Request] [Add per-validator builder configuration API](https://github.com/sigp/lighthouse/pull/9864) - 2026-08-19
+
+* [Pull Request] [Gloas payload attributes use the wrong withdrawals after an empty parent](https://github.com/sigp/lighthouse/pull/9894) - 2026-08-20
+[paradigmxyz/reth](https://github.com/paradigmxyz/reth)
+* [Pull Request] [fix(engine): serve getBlobsV4 from Osaka](https://github.com/paradigmxyz/reth/pull/26768) - 2026-08-20
+* [Commit] [fix(engine): serve getBlobsV4 from Osaka (#26768)](https://github.com/paradigmxyz/reth/commit/69b94b4e89a593ddf38be2a21dcbb6b61b98a110) - 2026-08-20
 ## Q2 2026
 
 

@@ -202,6 +202,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Initialize anchor PTC vote arrays in `get_forkchoice_store`](https://github.com/ethereum/consensus-specs/pull/5545#pullrequestreview-4968155027) - 2026-08-19
 * [Commit] [Add casts to uint operations with different types (#5527)](https://github.com/ethereum/consensus-specs/commit/75d8c9258b6e52e122c41099fb7a610d106069c2) - 2026-08-19
 * [Commit] [Explicitly set bid fields when upgrading to Gloas (#5553)](https://github.com/ethereum/consensus-specs/commit/cb94bfb3a10d43511f2e351f793e190ec028b247) - 2026-08-19
+* [Pull Request] [Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559) - 2026-08-20
+* [Review] [Review on: Add withdrawal credentials preregistration (EIP-8205)](https://github.com/ethereum/consensus-specs/pull/5548#pullrequestreview-4987608475) - 2026-08-20
+* [Pull Request] [Expand `PTC` to `PayloadTimelinessCommittee` in type names](https://github.com/ethereum/consensus-specs/pull/5558) - 2026-08-20
+* [Commit] [Expand `PTC` to `PayloadTimelinessCommittee` in type names (#5558)](https://github.com/ethereum/consensus-specs/commit/64e8259418721e95a675aed1efd316f1d08d8885) - 2026-08-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -213,6 +217,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: fix: apply gossip clock disparity to execution payload bid slot validation](https://github.com/ChainSafe/lodestar/pull/9627#pullrequestreview-4663120196) - 2026-07-09
 
 * [Review] [Review on: fix: reject proposer preferences with dependent root at/after lookahead epoch](https://github.com/ChainSafe/lodestar/pull/9630#pullrequestreview-4671796423) - 2026-07-10
+* [Review] [Review on: fix: ignore proposer preferences for pre-gloas proposal slots](https://github.com/ChainSafe/lodestar/pull/9869#pullrequestreview-4987280069) - 2026-08-20
 [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844)
 * [Pull Request] [Bump version to v2.1.8](https://github.com/ethereum/c-kzg-4844/pull/652) - 2026-07-09
 * [Pull Request] [Update C# dependencies](https://github.com/ethereum/c-kzg-4844/pull/651) - 2026-07-09

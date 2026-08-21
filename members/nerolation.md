@@ -54,6 +54,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-8141: make the expiry frame a new mode](https://github.com/ethereum/EIPs/pull/12198) - 2026-08-19
 * [Commit] [Update EIP-8279: BAL floor independent from gas limit](https://github.com/ethereum/EIPs/commit/f953c5ac6561268d2a14d91a869f3e44f672a345) - 2026-08-19
 * [Commit] [Update EIP-8131: data floor independent from gas limit](https://github.com/ethereum/EIPs/commit/f6fd28d34a94dee4fc5993f8fabb40fb0b50ed23) - 2026-08-19
+* [Pull Request] [Update EIP-8146: CL must deliver the BAL to the EL before the payload](https://github.com/ethereum/EIPs/pull/12216) - 2026-08-20
+* [Commit] [Update EIP-8146: CL must deliver the BAL to the EL before the payload](https://github.com/ethereum/EIPs/commit/e664bdb05bf866d2cd5a0b9e188b0dcc9f1c17d9) - 2026-08-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 

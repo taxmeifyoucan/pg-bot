@@ -60,6 +60,14 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Commit] [fix(spec-tools,testing): move evm_tools into the testing package (#3307)](https://github.com/ethereum/execution-specs/commit/56e8617b619c0ab22284b140b49cc5501e5e6227) - 2026-08-13
 * [Pull Request] [feat(specs,tests): update EIP-8141 implementation](https://github.com/ethereum/execution-specs/pull/3396) - 2026-08-19
 * [Review] [Review on: feat(spec-specs,tests): pin the EIP-8141 approval context across batches and reverts](https://github.com/ethereum/execution-specs/pull/3393#pullrequestreview-4970514677) - 2026-08-19
+
+* [Review] [Review on: feat(tests): cover the signature-validation precompiles being absent from the block access list](https://github.com/ethereum/execution-specs/pull/3398#pullrequestreview-4982473259) - 2026-08-20
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Update EIP-8141: dispatch a precompile targeted by a frame](https://github.com/ethereum/EIPs/pull/12157#pullrequestreview-4980567794) - 2026-08-20
+* [Pull Request] [Update EIP-8141: scope APPROVE failure modes to the current call frame](https://github.com/ethereum/EIPs/pull/12212) - 2026-08-20
+* [Pull Request] [Update EIP-8141: charge the resolved target's access at frame entry](https://github.com/ethereum/EIPs/pull/12211) - 2026-08-20
+* [Commit] [Update EIP-8141: scope APPROVE failure modes to the current call frame](https://github.com/ethereum/EIPs/commit/b6b6f1cea0085e357bc80fb553d41896ac2a7fd0) - 2026-08-20
+* [Commit] [Update EIP-8141: charge the resolved target's access at frame entry](https://github.com/ethereum/EIPs/commit/b3e8cad3790cfe6e2e4c8120020582345e7520a9) - 2026-08-20
 ## Q2 2026
 
 

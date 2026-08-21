@@ -171,6 +171,19 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(eip8250): round-trip nonce keys through the frame tx RPC view](https://github.com/NethermindEth/nethermind/pull/12883#pullrequestreview-4972303307) - 2026-08-19
 * [Pull Request] [Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/12893) - 2026-08-19
 * [Pull Request] [Keep a frame transaction payer's mempool exposure across a restart](https://github.com/NethermindEth/nethermind/pull/12897) - 2026-08-19
+* [Pull Request] [Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/12931) - 2026-08-20
+* [Review] [Review on: Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/12931#pullrequestreview-4983498860) - 2026-08-20
+* [Pull Request] [Run the Bogota FOCIL engine fixtures against devnet-8](https://github.com/NethermindEth/nethermind/pull/12932) - 2026-08-20
+* [Pull Request] [fix(frames): unwind state gas with a discarded POST_TX body](https://github.com/NethermindEth/nethermind/pull/12934) - 2026-08-20
+* [Pull Request] [perf(frames): cut repeated work on the frame receipt and RPC paths](https://github.com/NethermindEth/nethermind/pull/12929) - 2026-08-20
+* [Pull Request] [perf(ssz): back stateless public keys with an inline-array vector](https://github.com/NethermindEth/nethermind/pull/12928) - 2026-08-20
+* [Pull Request] [test(frames): share the frame transaction builders and collapse duplicated fixtures](https://github.com/NethermindEth/nethermind/pull/12930) - 2026-08-20
+* [Pull Request] [fix(evm): dispatch a precompile a VERIFY frame targets](https://github.com/NethermindEth/nethermind/pull/12922) - 2026-08-20
+* [Pull Request] [chore(frames): cut EIP-8141 comments down and drop stale markers](https://github.com/NethermindEth/nethermind/pull/12921) - 2026-08-20
+* [Pull Request] [chore(frames): drop unused frame transaction helpers](https://github.com/NethermindEth/nethermind/pull/12927) - 2026-08-20
+* [Pull Request] [refactor(eip8141): drop the unread payer-resolution dependency snapshot](https://github.com/NethermindEth/nethermind/pull/12926) - 2026-08-20
+* [Pull Request] [fix(opt): stop the Optimism receipts tracer from bypassing shared receipt population](https://github.com/NethermindEth/nethermind/pull/12925) - 2026-08-20
+* [Pull Request] [fix(rpc): keep frame receipt fields when a receipt is read back from JSON](https://github.com/NethermindEth/nethermind/pull/12923) - 2026-08-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -198,9 +211,16 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [Update EIP-8141: pin the initial accessed_addresses set for frame transactions (#12113)](https://github.com/ethereum/EIPs/commit/13d1b37672b8fb321c7e880b521cfe375683c9e4) - 2026-08-17
 * [Commit] [Update EIP-8141: relax banned opcode list (#12167)](https://github.com/ethereum/EIPs/commit/0603514569547869ae2531a4e5b2b62875888db3) - 2026-08-18
 * [Pull Request] [Update EIP-8141: state that installing the expiry verifier leaves the nonce](https://github.com/ethereum/EIPs/pull/12203) - 2026-08-19
+* [Review] [Review on: Update EIP-8141: dispatch a precompile targeted by a frame](https://github.com/ethereum/EIPs/pull/12157#pullrequestreview-4981940109) - 2026-08-20
+* [Commit] [Update EIP-8141: dispatch a precompile targeted by a frame](https://github.com/ethereum/EIPs/commit/7d1f8857ad2483886827e01a7864684dbc34885f) - 2026-08-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 * [Commit] [feat(tests): add EIP-8037 spill-refund accounting coverage (#3158)](https://github.com/ethereum/execution-specs/commit/610cd779baff95f99c85442dd2fa8cc8146260b2) - 2026-07-30
+
+* [Pull Request] [fix(tests): clear rlp_modifier when building inclusion-list variants](https://github.com/ethereum/execution-specs/pull/3406) - 2026-08-20
+* [Pull Request] [feat(specs,tests): dispatch a precompile a VERIFY frame targets](https://github.com/ethereum/execution-specs/pull/3407) - 2026-08-20
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [engine: specify behaviour for an oversized aggregated inclusion list](https://github.com/ethereum/execution-apis/pull/864) - 2026-08-20
 ## Q2 2026
 
 

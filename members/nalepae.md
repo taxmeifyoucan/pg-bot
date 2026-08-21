@@ -105,6 +105,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8148: Allow setting the sweep threshold at deposit time.](https://github.com/ethereum/EIPs/pull/12146) - 2026-08-12
+* [Review] [Review on: Update EIP-8148: Allow setting the sweep threshold at deposit time and reduce `MIN_SWEEP_THRESHOLD` to 32 ETH](https://github.com/ethereum/EIPs/pull/12193#pullrequestreview-4979287865) - 2026-08-20
 ## Q2 2026
 
 

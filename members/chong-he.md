@@ -47,6 +47,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Delete stream_blocks_fallback and unused eth_getBlockByHash reconstru…](https://github.com/sigp/lighthouse/pull/9813#pullrequestreview-4957959765) - 2026-08-18
 * [Review] [Review on: Add 0x02 support to validator creation](https://github.com/sigp/lighthouse/pull/9702#pullrequestreview-4956788107) - 2026-08-18
 * [Review] [Review on: Sign payload attestations concurrently in the VC](https://github.com/sigp/lighthouse/pull/9756#pullrequestreview-4968194965) - 2026-08-19
+* [Review] [Review on: Sign payload attestations concurrently in the VC](https://github.com/sigp/lighthouse/pull/9756#pullrequestreview-4978167225) - 2026-08-20
 ## Q2 2026
 
 

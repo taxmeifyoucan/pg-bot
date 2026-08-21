@@ -57,6 +57,9 @@ Team: Reth
 * [Pull Request] [fix(trie): construct witness from depth-first ordered nodes](https://github.com/paradigmxyz/reth/pull/26707) - 2026-08-14
 * [Review] [Review on: fix(rpc): add Amsterdam system contracts to eth_config](https://github.com/paradigmxyz/reth/pull/26705#pullrequestreview-4936881795) - 2026-08-14
 * [Commit] [fix(trie): construct witness from depth-first ordered nodes (#26707)](https://github.com/paradigmxyz/reth/commit/bbdaad9a157c69a2099674569af6d384e921a558) - 2026-08-14
+* [Pull Request] [feat(node): testing node with persistent datadir](https://github.com/paradigmxyz/reth/pull/26774) - 2026-08-20
+* [Pull Request] [feat(storage): configure historical state root warning threshold](https://github.com/paradigmxyz/reth/pull/26773) - 2026-08-20
+* [Commit] [feat(node): testing node with persistent datadir (#26774)](https://github.com/paradigmxyz/reth/commit/dc83c609a8336c1d3e29b467ddbc9d896908bd14) - 2026-08-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

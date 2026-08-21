@@ -64,6 +64,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Fix builder payment weight double count under target equivocation](https://github.com/sigp/lighthouse/pull/9879#pullrequestreview-4975555730) - 2026-08-19
 * [Review] [Review on: Add Gloas Builder API client and adapt execution layer (Gloas builder API 2/5)](https://github.com/sigp/lighthouse/pull/9804#pullrequestreview-4967790116) - 2026-08-19
 * [Review] [Review on: Send out status message to peers after a CGC change](https://github.com/sigp/lighthouse/pull/9877#pullrequestreview-4975612325) - 2026-08-19
+* [Review] [Review on: Add Gloas Builder API client and adapt execution layer (Gloas builder API 2/5)](https://github.com/sigp/lighthouse/pull/9804#pullrequestreview-4988101199) - 2026-08-20
+* [Review] [Review on: Fix clippy lints for Rust 1.98](https://github.com/sigp/lighthouse/pull/9897#pullrequestreview-4986422553) - 2026-08-20
+* [Pull Request] [Gloas alpha 14 EF tests](https://github.com/sigp/lighthouse/pull/9884) - 2026-08-20
 ## Q2 2026
 
 

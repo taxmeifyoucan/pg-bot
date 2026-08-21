@@ -125,6 +125,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: prune prefinalized pending items in BlockInputSync](https://github.com/ChainSafe/lodestar/pull/9852) - 2026-08-19
 * [Review] [Review on: perf: resolve builder top-ups by index at the fork transition](https://github.com/ChainSafe/lodestar/pull/9861#pullrequestreview-4977928104) - 2026-08-20
 * [Review] [Review on: fix: handle attributable peers on range sync](https://github.com/ChainSafe/lodestar/pull/9836#pullrequestreview-4967918978) - 2026-08-19
+* [Review] [Review on: refactor(state-transition): use Lodestar-Z signature verifier](https://github.com/ChainSafe/lodestar/pull/9863#pullrequestreview-4979909899) - 2026-08-20
+* [Pull Request] [fix: recompute head after pulling up checkpoints](https://github.com/ChainSafe/lodestar/pull/9864) - 2026-08-20
+* [Review] [Review on: fix: recompute head after pulling up checkpoints](https://github.com/ChainSafe/lodestar/pull/9864#pullrequestreview-4980498824) - 2026-08-20
+* [Review] [Review on: fix: prune prefinalized pending items in BlockInputSync](https://github.com/ChainSafe/lodestar/pull/9852#pullrequestreview-4979635804) - 2026-08-20
+* [Issue] [Lodestar failed to produce block on glamsterdam-devnet-8](https://github.com/ChainSafe/lodestar/issues/9874) - 2026-08-20
+* [Issue] [Avoid epoch transition when validating gossip blocks](https://github.com/ChainSafe/lodestar/issues/9873) - 2026-08-20
+* [Issue] [gloas getBuildersSweepWithdrawals performance issue](https://github.com/ChainSafe/lodestar/issues/9866) - 2026-08-20
+* [Issue] [processInactivityUpdates performance issue](https://github.com/ChainSafe/lodestar/issues/9865) - 2026-08-20
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

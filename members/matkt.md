@@ -91,6 +91,9 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: Remove bonsai database inconsistency healing](https://github.com/besu-eth/besu/pull/11019#pullrequestreview-4971546612) - 2026-08-19
 * [Commit] [Remove bonsai database inconsistency healing (#11019)](https://github.com/besu-eth/besu/commit/d0b80ea373a946ef716cf866bc6def633ba36323) - 2026-08-19
 * [Commit] [Stateroot refactoring   (#10804)](https://github.com/besu-eth/besu/commit/dad4e42a7fcd0e20db626bf62ca63de12655430d) - 2026-08-19
+* [Pull Request] [Consolidate Bonsai trie-node read/write APIs into a single get/putTrieNode (2/2)](https://github.com/besu-eth/besu/pull/11113) - 2026-08-20
+* [Pull Request] [Merge PathBased trie classes into Bonsai (1/2)](https://github.com/besu-eth/besu/pull/11114) - 2026-08-20
+* [Pull Request] [Merge PathBased trie classes into Bonsai (1/2)](https://github.com/besu-eth/besu/pull/11112) - 2026-08-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

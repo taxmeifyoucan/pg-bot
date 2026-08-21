@@ -338,6 +338,20 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [perf: resolve builder top-ups by index at the fork transition (#9861)](https://github.com/ChainSafe/lodestar/commit/e91bc3e8595499c4bff9b9eee7527c7c3b40af52) - 2026-08-20
 * [Commit] [fix: fully initialize execution payload bid on gloas upgrade (#9847)](https://github.com/ChainSafe/lodestar/commit/41653ebb93d8cddc82a8ce425b111f6e0f19f868) - 2026-08-19
 * [Commit] [chore: restore pre-Fulu proposer shuffling check (#9850)](https://github.com/ChainSafe/lodestar/commit/09607ce6d40a7880e45ab5e640e6efe58a8594cc) - 2026-08-19
+* [Pull Request] [fix: rate limit repeated peer score penalties](https://github.com/ChainSafe/lodestar/pull/9878) - 2026-08-20
+* [Review] [Review on: fix: rate limit repeated peer score penalties](https://github.com/ChainSafe/lodestar/pull/9878#pullrequestreview-4988553496) - 2026-08-20
+* [Pull Request] [fix: ignore proposer preferences for pre-gloas proposal slots](https://github.com/ChainSafe/lodestar/pull/9869) - 2026-08-20
+* [Review] [Review on: fix: ignore proposer preferences for pre-gloas proposal slots](https://github.com/ChainSafe/lodestar/pull/9869#pullrequestreview-4982687803) - 2026-08-20
+* [Review] [Review on: feat(builder): add `included_execution_payload_bid` event](https://github.com/ChainSafe/lodestar/pull/9876#pullrequestreview-4985413179) - 2026-08-20
+* [Review] [Review on: feat(builder): add `bid_included` event](https://github.com/ChainSafe/lodestar/pull/9875#pullrequestreview-4983423633) - 2026-08-20
+* [Pull Request] [fix: treat dial timeouts as HighToleranceError for all methods](https://github.com/ChainSafe/lodestar/pull/9877) - 2026-08-20
+* [Pull Request] [fix: emit gloas events with the fork of the topic](https://github.com/ChainSafe/lodestar/pull/9870) - 2026-08-20
+* [Review] [Review on: fix: emit gloas events with the fork of the topic](https://github.com/ChainSafe/lodestar/pull/9870#pullrequestreview-4982679233) - 2026-08-20
+* [Pull Request] [fix: contain errors thrown while sending events to a client](https://github.com/ChainSafe/lodestar/pull/9871) - 2026-08-20
+* [Review] [Review on: fix: contain errors thrown while sending events to a client](https://github.com/ChainSafe/lodestar/pull/9871#pullrequestreview-4982725457) - 2026-08-20
+* [Pull Request] [fix: keep event stream alive if an event can not be serialized](https://github.com/ChainSafe/lodestar/pull/9872) - 2026-08-20
+* [Pull Request] [fix: keep event stream alive if an event can not be serialized](https://github.com/ChainSafe/lodestar/pull/9867) - 2026-08-20
+* [Review] [Review on: fix(builder): catch transient failures on getStateBuilders](https://github.com/ChainSafe/lodestar/pull/9868#pullrequestreview-4982256061) - 2026-08-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -382,6 +396,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Use slot from header instead of bid](https://github.com/ethereum/consensus-specs/pull/5554#pullrequestreview-4963697310) - 2026-08-18
 * [Review] [Review on: Explicitly set bid fields when upgrading to Gloas](https://github.com/ethereum/consensus-specs/pull/5553#pullrequestreview-4963689375) - 2026-08-18
 * [Commit] [Allow epoch boundary reorgs in Fulu (#5547)](https://github.com/ethereum/consensus-specs/commit/0524372ef7a2d7878a3906ee642d82c1a8ca52b3) - 2026-08-18
+* [Review] [Review on: Expand `PTC` to `PayloadTimelinessCommittee` in type names](https://github.com/ethereum/consensus-specs/pull/5558#pullrequestreview-4985031474) - 2026-08-20
+* [Review] [Review on: Initialize anchor PTC vote arrays in `get_forkchoice_store`](https://github.com/ethereum/consensus-specs/pull/5545#pullrequestreview-4981966138) - 2026-08-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
@@ -397,6 +413,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Update EIP-1: allow links to sys-asm](https://github.com/ethereum/EIPs/pull/12021#pullrequestreview-4897800814) - 2026-08-10
 * [Pull Request] [Update EIP-8261: Clarify epoch-based activation](https://github.com/ethereum/EIPs/pull/12142) - 2026-08-11
 * [Commit] [Update EIP-8261: Clarify epoch-based activation](https://github.com/ethereum/EIPs/commit/f6b4668ef37612feba85aef151303f4100b79360) - 2026-08-11
+* [Review] [Review on: Update EIP-8282: Sync specification with sys-asm@83f9801](https://github.com/ethereum/EIPs/pull/12120#pullrequestreview-4982920171) - 2026-08-20
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 
@@ -420,6 +437,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Return 404 for unknown keymanager validator keys](https://github.com/Consensys/teku/pull/11133) - 2026-08-18
 * [Commit] [Return 404 for unknown keymanager validator keys (#11133)](https://github.com/Consensys/teku/commit/93b41c1833441603b8272ddfec7a7fd7100508a5) - 2026-08-18
+
+[grandinetech/grandine](https://github.com/grandinetech/grandine)
+* [Issue] [Proposer preferences broadcast for pre-Gloas proposal slots in the epoch before the fork](https://github.com/grandinetech/grandine/issues/857) - 2026-08-20
 ## Q2 2026
 
 

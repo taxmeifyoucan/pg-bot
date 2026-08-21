@@ -21,6 +21,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Issue] [All Core Devs - Consensus (ACDC) #184, August 6 2026](https://github.com/ethereum/pm/issues/2177) - 2026-07-30
 * [Issue] [All Core Devs - Execution (ACDE) #243, August 13, 2026](https://github.com/ethereum/pm/issues/2178) - 2026-07-30
 * [Issue] [All Core Devs - Consensus (ACDC) #185, August 20 2026](https://github.com/ethereum/pm/issues/2187) - 2026-08-11
+* [Issue] [All Core Devs - Execution (ACDE) #244, August 27, 2026](https://github.com/ethereum/pm/issues/2197) - 2026-08-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8081: PFI EIP-7862](https://github.com/ethereum/EIPs/pull/11934) - 2026-07-16
 * [Review] [Review on: Update EIP-8081: Add EIP-8304 as PFI](https://github.com/ethereum/EIPs/pull/11933#pullrequestreview-4710414761) - 2026-07-16
@@ -60,6 +61,11 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Update EIP-7773: Use Unicode emoji for mascot](https://github.com/ethereum/EIPs/pull/12152#pullrequestreview-4939248980) - 2026-08-14
 * [Commit] [Update EIP-7773: reorder & correct spelling](https://github.com/ethereum/EIPs/commit/af8bf83df29ae0ff9cfa197c0283e358932e3151) - 2026-08-14
 * [Commit] [CI: delete duplicate jekyll build (#12165)](https://github.com/ethereum/EIPs/commit/8df0a5ec9bece43da876edbd6d02156a2913a4ce) - 2026-08-17
+* [Review] [Review on: Update EIP-8081: Add EIP-8355 to Hegotá PFI](https://github.com/ethereum/EIPs/pull/12059#pullrequestreview-4986604046) - 2026-08-20
+* [Review] [Review on: Update EIP-8081: EIP-8219 / Checked Arithmetic Opcodes](https://github.com/ethereum/EIPs/pull/11753#pullrequestreview-4986634183) - 2026-08-20
+* [Review] [Review on: Update EIP-8081: PFI EIP-8368](https://github.com/ethereum/EIPs/pull/12117#pullrequestreview-4986593287) - 2026-08-20
+* [Review] [Review on: Update EIP-8081: PFI EIP-5920 and EIP-7923](https://github.com/ethereum/EIPs/pull/12078#pullrequestreview-4986571049) - 2026-08-20
+* [Review] [Review on: Update EIP-7773: Remove EIP-7610 from Glamsterdam](https://github.com/ethereum/EIPs/pull/12189#pullrequestreview-4985183693) - 2026-08-20
 ## Q2 2026
 
 

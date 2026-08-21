@@ -33,6 +33,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: fix: return MIN_BLOB_GASPRICE in no-fee simulation path](https://github.com/besu-eth/besu/pull/10899#pullrequestreview-4968546231) - 2026-08-19
 * [Review] [Review on: fix: debug_getRawTransaction double-RLP typed txs](https://github.com/besu-eth/besu/pull/11083#pullrequestreview-4968411890) - 2026-08-19
 * [Review] [Review on: upgrade netty to 4.2.17.Final](https://github.com/besu-eth/besu/pull/11078#pullrequestreview-4967734240) - 2026-08-19
+* [Review] [Review on: Amsterdam devnet-7 (3/4): EIP-2780/7928 top-frame authorization charges, fixtures v7.2.0](https://github.com/besu-eth/besu/pull/10931#pullrequestreview-4983182478) - 2026-08-20
+* [Review] [Review on: Amsterdam devnet-7 (2/4): EIP-3120/8037/8038 calldata floor, CREATE liveness, SSTORE ordering](https://github.com/besu-eth/besu/pull/10930#pullrequestreview-4978779985) - 2026-08-20
+* [Review] [Review on: Changelog rotate for 26.8.0 ](https://github.com/besu-eth/besu/pull/11090#pullrequestreview-4979654501) - 2026-08-20
+* [Review] [Review on: Bonsai archive proofs simple trie](https://github.com/besu-eth/besu/pull/11016#pullrequestreview-4978753227) - 2026-08-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896055113) - 2026-08-10
 ## Q2 2026

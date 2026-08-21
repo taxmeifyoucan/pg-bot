@@ -127,6 +127,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [ci(arm): stop RPC benchmarks from filling the runner's root disk](https://github.com/NethermindEth/nethermind/pull/12906) - 2026-08-19
 * [Commit] [perf(rpc): apply eth_call state overrides without merkleizing them (#12904)](https://github.com/NethermindEth/nethermind/commit/615eb31d55c25538e433ae933dd92e24c9dbd38b) - 2026-08-19
 * [Commit] [perf: accelerate EVM word byte swap on ARM64 (#12798)](https://github.com/NethermindEth/nethermind/commit/d30c63ea41c142cbca8d71d1394f0377228bc94e) - 2026-08-19
+* [Pull Request] [ci(bench): restore the amd64 benchmark runner and select it by input](https://github.com/NethermindEth/nethermind/pull/12933) - 2026-08-20
+* [Pull Request] [ci: pin Go to 1.26 in the sedge sync workflows](https://github.com/NethermindEth/nethermind/pull/12915) - 2026-08-20
+* [Commit] [ci(bench): restore the amd64 benchmark runner and select it by input (#12933)](https://github.com/NethermindEth/nethermind/commit/cb995eb997f4743c1b9cf53d55161eba9c7dcbe4) - 2026-08-20
+* [Commit] [perf(evm): front the EVM call pools with a per-thread free list (#12905)](https://github.com/NethermindEth/nethermind/commit/1f04c45af9cb0c184070424b367e752b0fccdbc2) - 2026-08-20
+* [Commit] [Add private eth_call corpus mode to the RPC benchmark workflow (#12704)](https://github.com/NethermindEth/nethermind/commit/5972dc993550cba1ff60c9a8a08fb57f78aa8403) - 2026-08-20
+* [Commit] [ci: wait for the publish-docker run we dispatched, not any concurrent one (#12907)](https://github.com/NethermindEth/nethermind/commit/101a9a506dcab5f43f8e0a83e93e49ab1b54eae2) - 2026-08-20
+* [Commit] [ci: pin Go to 1.26 in the sedge sync workflows (#12915)](https://github.com/NethermindEth/nethermind/commit/a051b96705576d075bc9062cfeaa09b3ad94c636) - 2026-08-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

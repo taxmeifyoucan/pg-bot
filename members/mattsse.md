@@ -357,6 +357,7 @@ Team: Reth
 * [Pull Request] [feat(rpc): expose raw block transactions on auth server](https://github.com/paradigmxyz/reth/pull/26760) - 2026-08-19
 * [Commit] [feat(rpc): expose raw block transactions on auth server (#26760)](https://github.com/paradigmxyz/reth/commit/d7a5c943f9b9902258476ed1bc6dd2a72f8be86d) - 2026-08-19
 * [Commit] [fix(engine): enforce state-gas admission on the BAL execution path (#26719)](https://github.com/paradigmxyz/reth/commit/5e04902bfefb44eb80b1f5a2cd4ae218904bc1fb) - 2026-08-19
+* [Review] [Review on: fix(engine): serve getBlobsV4 from Osaka](https://github.com/paradigmxyz/reth/pull/26768#pullrequestreview-4979107858) - 2026-08-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

@@ -18,6 +18,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Pull Request] [Performance and FP improvement for the latest bflat](https://github.com/NethermindEth/nethermind/pull/12747) - 2026-08-08
 * [Commit] [Performance and FP improvement for the latest bflat (#12747)](https://github.com/NethermindEth/nethermind/commit/5bdba6516aa8e4b1096d4172a8ddeab1e9223690) - 2026-08-11
 * [Pull Request] [build(zisk): bump Zisk to 1.1.0-alpha](https://github.com/NethermindEth/nethermind/pull/12910) - 2026-08-19
+* [Commit] [build(zisk): bump Zisk to 1.1.0-alpha (#12910)](https://github.com/NethermindEth/nethermind/commit/cb56cc92c55ff6b4cda5c4c87e6c12f62b7deb1b) - 2026-08-20
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Pull Request] [Documentation improvements](https://github.com/NethermindEth/bflat-riscv64/pull/31) - 2026-07-02
 * [Commit] [README: condense the Zisk postprocessing section](https://github.com/NethermindEth/bflat-riscv64/commit/81022cbfd76183a0a27fa1318a59a2672e8360f1) - 2026-07-02
@@ -99,6 +100,9 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [docs: document the eh module and its Frama-C proof](https://github.com/NethermindEth/bflat-riscv64/commit/d251a86a990de2f0452aee3507a67bcafa84a84e) - 2026-08-12
 * [Commit] [eh: enable managed exception handling with synthetic program headers](https://github.com/NethermindEth/bflat-riscv64/commit/5f065c3c4fc2458e2bf74c316d8cbc9622924ba6) - 2026-08-12
 * [Pull Request] [Softfloat on riscv64](https://github.com/NethermindEth/bflat-riscv64/pull/38) - 2026-08-14
+* [Pull Request] [Zisk 1.1.0 alpha support](https://github.com/NethermindEth/bflat-riscv64/pull/39) - 2026-08-20
+* [Commit] [zkvm_zisk: place PROGBITS sections ahead of the TLS template](https://github.com/NethermindEth/bflat-riscv64/commit/acee0ec11a2bb2199e941380ae0336caa429cdea) - 2026-08-20
+* [Commit] [BuildCommand: fix ZisK memcmp idiom comment operands](https://github.com/NethermindEth/bflat-riscv64/commit/66064fcf3e25e013592689628d4174e141dd0b5f) - 2026-08-20
 [nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
 * [Pull Request] [Minimal set of patches](https://github.com/NethermindEth/dotnet-riscv/pull/7) - 2026-07-26
 * [Commit] [tools/clang: match Runtime.*.dir objects as client code](https://github.com/NethermindEth/dotnet-riscv/commit/511edf6e28ee1172c5968632bcf454e5a7bc2ebf) - 2026-08-11

@@ -118,6 +118,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Refactor `engine_exchangeCapabilities`,`engine_getClientVersionV1` and `engine_exchangeTransitionConfigurationV1`](https://github.com/besu-eth/besu/pull/11010#pullrequestreview-4960529895) - 2026-08-18
 * [Review] [Review on: Execute Engine API methods concurrently except ordered forkchoiceUpdated](https://github.com/besu-eth/besu/pull/11053#pullrequestreview-4971716292) - 2026-08-19
 * [Review] [Review on: Feature: minimal upgrade to vertx 5](https://github.com/besu-eth/besu/pull/11015#pullrequestreview-4974969777) - 2026-08-19
+* [Review] [Review on: Fixes: GHSA-xw6x-9526-6w9r Bound the DiscV4 inbound packet pipeline](https://github.com/besu-eth/besu/pull/11105#pullrequestreview-4980513533) - 2026-08-20
+* [Review] [Review on: Reject RLP-wrapped typed transactions in block-body opaque decoding](https://github.com/besu-eth/besu/pull/11103#pullrequestreview-4980483842) - 2026-08-20
+* [Review] [Review on: Fixes: GHSA-23rh-rrqg-wq82 Cap BFT round change number](https://github.com/besu-eth/besu/pull/11102#pullrequestreview-4980477480) - 2026-08-20
+* [Review] [Review on: crypto: bound r,s to [1,n) on signature recovery (EIP-7702)](https://github.com/besu-eth/besu/pull/11097#pullrequestreview-4980420270) - 2026-08-20
+* [Review] [Review on: Fixes: GHSA-6r9q-wjp4-34gh fix(p2p): bound pre-STATUS RLPx connections and close them on eviction](https://github.com/besu-eth/besu/pull/11096#pullrequestreview-4980407221) - 2026-08-20
+* [Review] [Review on: Fixes: GHSA-8g2r-qvch-4c9j Bound and cancel GraphQL blocks(from,to) range queries](https://github.com/besu-eth/besu/pull/11095#pullrequestreview-4980399523) - 2026-08-20
+* [Review] [Review on: Extract plugin-api chain module](https://github.com/besu-eth/besu/pull/11110#pullrequestreview-4982722585) - 2026-08-20
+* [Pull Request] [Fix invalid code delegations in txpool](https://github.com/besu-eth/besu/pull/11108) - 2026-08-20
+* [Review] [Review on: Fixes: GHSA-h552-3fxr-chmx Bound the storage sub-range split count in snap sync](https://github.com/besu-eth/besu/pull/11094#pullrequestreview-4980388739) - 2026-08-20
+* [Review] [Review on: fix(parallel): abort speculative futures on block-budget abort](https://github.com/besu-eth/besu/pull/11104#pullrequestreview-4980500552) - 2026-08-20
+* [Review] [Review on: Fixes: GHSA-4776-8c3f-fx7g Added server side limit for steps in debug_traceCall](https://github.com/besu-eth/besu/pull/11100#pullrequestreview-4980453621) - 2026-08-20
+* [Review] [Review on: Fixes: GHSA-pcv4-pxhv-99m7 Cap concurrent snap/1-2 GET_* requests scheduled onto EthScheduler](https://github.com/besu-eth/besu/pull/11101#pullrequestreview-4980469669) - 2026-08-20
+* [Review] [Review on: Fixes: GHSA-h594-ww62-rcxv fix logging issue with invalid discv4 packet](https://github.com/besu-eth/besu/pull/11093#pullrequestreview-4980179902) - 2026-08-20
+* [Review] [Review on: Fixes: GHSA-pr92-c4mc-x48r Remove System.out and System.err logging from P256VerifyPrecompile](https://github.com/besu-eth/besu/pull/11092#pullrequestreview-4979983352) - 2026-08-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

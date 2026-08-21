@@ -82,6 +82,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Parallel stateroot lock free merge keys](https://github.com/status-im/nimbus-eth1/pull/4652) - 2026-08-17
 * [Commit] [Increase stateroot computation flush batch size (#4645)](https://github.com/status-im/nimbus-eth1/commit/1443b9305eeed40d8cddbea2c4988122f5260525) - 2026-08-17
 * [Commit] [Parallel stateroot lock free merge keys (#4652)](https://github.com/status-im/nimbus-eth1/commit/c7811f41feb4c67fd953826eacc598dcc2be3a7b) - 2026-08-18
+* [Pull Request] [Fix devp2p BAL fetching](https://github.com/status-im/nimbus-eth1/pull/4665) - 2026-08-20
+* [Pull Request] [KVT block hashes cache](https://github.com/status-im/nimbus-eth1/pull/4662) - 2026-08-20
+* [Commit] [Fix devp2p BAL fetching (#4665)](https://github.com/status-im/nimbus-eth1/commit/7365dc1dd30aa827412bcb217277324dad29a2e8) - 2026-08-20
+* [Commit] [KVT block hashes cache (#4662)](https://github.com/status-im/nimbus-eth1/commit/e3c7ae3d427a416ba28466a1ce42eca7015dde15) - 2026-08-20
 ## Q2 2026
 
 

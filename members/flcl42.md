@@ -233,6 +233,14 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Surface EIP-2780 runtime OOG from eth_call (#12806)](https://github.com/NethermindEth/nethermind/commit/918332824faae7e292bc5ae437354cb6fbedd26d) - 2026-08-19
 * [Commit] [Handle IPv6 enode text endpoints (#12678)](https://github.com/NethermindEth/nethermind/commit/117af1d8abb6388fb6101db3edd290dee25a934e) - 2026-08-19
 * [Commit] [Restore eth/68 blob violation handling (#12605)](https://github.com/NethermindEth/nethermind/commit/18c66ac3c67b7cf51b9adee17429dc677349e4ea) - 2026-08-19
+* [Review] [Review on: feat(frames): catch frames-devnet-0 up to the EIP-8141 reference (execution-specs #3396)](https://github.com/NethermindEth/nethermind/pull/12918#pullrequestreview-4984986224) - 2026-08-20
+* [Review] [Review on: fix(xdc): start the archive node at the XDPoS v2 switch block](https://github.com/NethermindEth/nethermind/pull/12917#pullrequestreview-4983605832) - 2026-08-20
+* [Pull Request] [Remove EIP-7610 support](https://github.com/NethermindEth/nethermind/pull/12935) - 2026-08-20
+* [Review] [Review on: Fix false 'header < body' block tree corruption after ungraceful restart while beacon syncing](https://github.com/NethermindEth/nethermind/pull/12876#pullrequestreview-4982229935) - 2026-08-20
+* [Review] [Review on: fix(network): cap item counts on inbound RLP byte-list responses](https://github.com/NethermindEth/nethermind/pull/12914#pullrequestreview-4982912914) - 2026-08-20
+* [Issue] [Discovery](https://github.com/NethermindEth/nethermind/issues/12919) - 2026-08-20
+* [Commit] [Glamsterdam devnet 8 specific commits (#12719)](https://github.com/NethermindEth/nethermind/commit/942eabfdd1e614db6fe46c07e5cecaedc4e7f0b2) - 2026-08-20
+* [Commit] [Reject deposit logs with noncanonical ABI offsets (#12895)](https://github.com/NethermindEth/nethermind/commit/eb1b43b43fd518cbcad0d5b974d5978181ae9b9a) - 2026-08-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

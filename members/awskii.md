@@ -306,6 +306,12 @@ Team: Erigon
 * [Issue] [Caplin as an ethereum-package cl_type on Gloas](https://github.com/erigontech/erigon/issues/23387) - 2026-08-19
 * [Issue] [EIP-8297 PBT: tracking](https://github.com/erigontech/erigon/issues/23389) - 2026-08-19
 * [Commit] [db/snapshotsync, db/snaptype: caplin overlap-removal guards and review follow-ups (#23374)](https://github.com/erigontech/erigon/commit/f7891d033d288e61cc6a485f2ca976f641af7256) - 2026-08-19
+* [Review] [Review on: prune: txlookup mis-used startFrom parameter](https://github.com/erigontech/erigon/pull/23390#pullrequestreview-4978849815) - 2026-08-20
+* [Issue] [cl/persistence/blob_storage: GetSavedColumnIndex does 128 stat calls where one MDBX read would do](https://github.com/erigontech/erigon/issues/23433) - 2026-08-20
+* [Issue] [cl/persistence/blob_storage: pruned blobs leave their kzg-commitment index rows behind forever](https://github.com/erigontech/erigon/issues/23432) - 2026-08-20
+* [Issue] [cl/persistence/blob_storage: flat 10k-slot bucket directories reach 1.28M entries on a supernode](https://github.com/erigontech/erigon/issues/23426) - 2026-08-20
+* [Issue] [db/datadir: RenameOldVersions walks the caplin sidecar directories on every start for a prefix they cannot have](https://github.com/erigontech/erigon/issues/23429) - 2026-08-20
+* [Commit] [execution/commitment, execution/stagedsync: stop allocating an arena per block (#23401)](https://github.com/erigontech/erigon/commit/3d48dd24d6a88bef28d694bee37af0f0c36cb16e) - 2026-08-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

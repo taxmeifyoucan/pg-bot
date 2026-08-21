@@ -158,6 +158,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [renaming endpoints and function names to match keymanager api stuff](https://github.com/OffchainLabs/prysm/pull/17379) - 2026-08-19
 * [Review] [Review on: Decouple builder request auth from the dial URL](https://github.com/OffchainLabs/prysm/pull/17373#pullrequestreview-4968008197) - 2026-08-19
 * [Commit] [renaming endpoints and function names to match keymanager api stuff (#17379)](https://github.com/OffchainLabs/prysm/commit/2a164941d8d1e1402ac92764d642622bebba7f70) - 2026-08-19
+* [Pull Request] [adding changes to add the rest endpoints based on 630](https://github.com/OffchainLabs/prysm/pull/17392) - 2026-08-20
+* [Pull Request] [fixes found around stateless flows](https://github.com/OffchainLabs/prysm/pull/17391) - 2026-08-20
+* [Pull Request] [fixing builder preference push frequency](https://github.com/OffchainLabs/prysm/pull/17386) - 2026-08-20
+* [Pull Request] [stateless by default on multinode](https://github.com/OffchainLabs/prysm/pull/17390) - 2026-08-20
+* [Pull Request] [fixing ux bug on default hosts log](https://github.com/OffchainLabs/prysm/pull/17388) - 2026-08-20
+* [Commit] [fixes found around stateless flows (#17391)](https://github.com/OffchainLabs/prysm/commit/d490ed0ac83afb55c0ca9ea067a4e9fde778773f) - 2026-08-20
+* [Commit] [fixing ux bug on default hosts log (#17388)](https://github.com/OffchainLabs/prysm/commit/b7ca6823f0b898d25e66dbbd11743d0a4041eefa) - 2026-08-20
 ## Q2 2026
 
 

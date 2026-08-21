@@ -953,6 +953,18 @@ Team: Erigon
 * [Commit] [`exec`: syscalls EVM re-use (#23373)](https://github.com/erigontech/erigon/commit/7de81a666a75ae18b99673889a1127f15b2921da) - 2026-08-19
 * [Commit] [metrics: don't update metrics if nothing to merge (#23383)](https://github.com/erigontech/erigon/commit/e885577357c000c0c9cfaf27df63c418a44b4092) - 2026-08-19
 * [Commit] [execution/exec: stop losing the real error on the historical block-end path (#23366)](https://github.com/erigontech/erigon/commit/53faf6b39fd9bf37b1155570f581ad62fb99b4d9) - 2026-08-19
+* [Review] [Review on: execution: optimise incoming bal encoding/decoding/validation path](https://github.com/erigontech/erigon/pull/23417#pullrequestreview-4980834962) - 2026-08-20
+* [Pull Request] [cl, common: reuse snappy stream codecs from a pool](https://github.com/erigontech/erigon/pull/23423) - 2026-08-20
+* [Review] [Review on: [r3.6] cl/beacon: prime the execution layer before a slot this node proposes](https://github.com/erigontech/erigon/pull/23437#pullrequestreview-4982105639) - 2026-08-20
+* [Review] [Review on: execution: remove MeteredGetter and MeteredGetterWithTxN](https://github.com/erigontech/erigon/pull/23421#pullrequestreview-4978842440) - 2026-08-20
+* [Pull Request] [cl/persistence, db: pool zstd decoders, lower what zstd encoders hold](https://github.com/erigontech/erigon/pull/23435) - 2026-08-20
+* [Pull Request] [[r3.5] rpc: fix non-deterministic eth_estimateGas caused by stale cancel of shared EVM](https://github.com/erigontech/erigon/pull/23434) - 2026-08-20
+* [Review] [Review on: [r3.6] builder: cover Stop when completion and cancellation race](https://github.com/erigontech/erigon/pull/23420#pullrequestreview-4979571541) - 2026-08-20
+* [Review] [Review on: prune: txlookup mis-used startFrom parameter](https://github.com/erigontech/erigon/pull/23390#pullrequestreview-4978977567) - 2026-08-20
+* [Pull Request] [db/snapcfg: log preverified drops by reason instead of one warn for all](https://github.com/erigontech/erigon/pull/23422) - 2026-08-20
+* [Commit] [execution/stagedsync: compute a tx's fee credit once, not on every revalidation (#23132)](https://github.com/erigontech/erigon/commit/80dc4ad44d3a99d5ac9929454cf76e4c590b2f2c) - 2026-08-20
+* [Commit] [db/downloader: keep local snapshot data once the initial download is complete (#23350)](https://github.com/erigontech/erigon/commit/78fa717893ec97ce7760097fe6b9e6a9d8cd4d8a) - 2026-08-20
+* [Commit] [prune: txlookup mis-used startFrom parameter (#23390)](https://github.com/erigontech/erigon/commit/5ab3deb9e2ce538d68e59e9a7461e919b06e33b7) - 2026-08-20
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

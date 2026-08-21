@@ -103,6 +103,11 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Replace Calendly link](https://github.com/protocolguild/protocol-guild-site/commit/f372b337616b879abf93e1281e0b8157f0798a16) - 2026-07-23
 * [Commit] [Remove Discord + Farcaster from footer](https://github.com/protocolguild/protocol-guild-site/commit/0ac71f3e2089af1372d92f194726c499eca618a1) - 2026-07-23
 * [Commit] [Merge pull request #74 from jefag/jeff/add-holders](https://github.com/protocolguild/protocol-guild-site/commit/8f657620c0094fa6bc6343ea0b7aa08ed9efc3bc) - 2026-07-28
+* [Commit] [Delete public/20260821-aligned-donation/delete.txt](https://github.com/protocolguild/protocol-guild-site/commit/55b734b9a87e3127e4a422b4d86f2ce184a398ae) - 2026-08-20
+* [Commit] [Add files via upload](https://github.com/protocolguild/protocol-guild-site/commit/dcd6e4c9b51c2efa43f430385e0aab164c743421) - 2026-08-20
+* [Commit] [Create delete.txt](https://github.com/protocolguild/protocol-guild-site/commit/2ff22e0ad10464f6f5338dfe320bd1d46fedaf63) - 2026-08-20
+* [Commit] [Delete public/20260820-aligned-donation directory](https://github.com/protocolguild/protocol-guild-site/commit/fa4f9b2359d3709114fc143ebfec05f60ae9463f) - 2026-08-20
+* [Commit] [Create delete.txt](https://github.com/protocolguild/protocol-guild-site/commit/382726dc10f4ad201c4e0cd4f0949e86dee09362) - 2026-08-20
 ## Q2 2026
 
 

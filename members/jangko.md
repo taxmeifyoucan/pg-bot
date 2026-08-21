@@ -84,6 +84,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Review] [Review on: Inline evm memory and stack helper functions](https://github.com/status-im/nimbus-eth1/pull/4626#pullrequestreview-4922730261) - 2026-08-13
 * [Pull Request] [fcu handle empty finalizedBlockHash when headBlockHash is not latest](https://github.com/status-im/nimbus-eth1/pull/4635) - 2026-08-13
 * [Commit] [fcu handle empty finalizedBlockHash when headBlockHash is not latest (#4635)](https://github.com/status-im/nimbus-eth1/commit/d0b9de6f6e231e0aabdde33d2853a43a29e04bdd) - 2026-08-17
+* [Pull Request] [Add EIP-8070 Engine API extensions for Sparse Blobpool](https://github.com/status-im/nimbus-eth1/pull/4663) - 2026-08-20
+* [Pull Request] [eest_engine_test validate against errorCode](https://github.com/status-im/nimbus-eth1/pull/4666) - 2026-08-20
+* [Commit] [eest_engine_test validate against errorCode (#4666)](https://github.com/status-im/nimbus-eth1/commit/3aae2c7f924baa6247f6fbe4baad36890b57097a) - 2026-08-21
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

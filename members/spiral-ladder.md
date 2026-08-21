@@ -51,6 +51,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore: address BLS integration review feedback](https://github.com/ChainSafe/lodestar/pull/9837#pullrequestreview-4950249750) - 2026-08-17
 * [Review] [Review on: perf: verify BLS signature sets with lodestar-z](https://github.com/ChainSafe/lodestar/pull/9820#pullrequestreview-4962777838) - 2026-08-18
 * [Pull Request] [feat(bls): update metrics for zig pk cache](https://github.com/ChainSafe/lodestar/pull/9844) - 2026-08-18
+* [Review] [Review on: refactor(state-transition): use Lodestar-Z signature verifier](https://github.com/ChainSafe/lodestar/pull/9863#pullrequestreview-4979427439) - 2026-08-20
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01

@@ -83,6 +83,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Remove blinded execution payload envelope](https://github.com/Consensys/teku/pull/11091#pullrequestreview-4957070055) - 2026-08-18
 * [Review] [Review on: Add tests for data column sidecar gossip schema fork resolution](https://github.com/Consensys/teku/pull/11126#pullrequestreview-4957046097) - 2026-08-18
 * [Commit] [Remove blinded execution payload envelope (#11091)](https://github.com/Consensys/teku/commit/20764a029793d25887601cba5935f35cbfd6dbd2) - 2026-08-18
+* [Review] [Review on: Set bid fields upgrade gloas + v1.7.0-alpha.14 fixes](https://github.com/Consensys/teku/pull/11152#pullrequestreview-4979711341) - 2026-08-20
 ## Q2 2026
 
 

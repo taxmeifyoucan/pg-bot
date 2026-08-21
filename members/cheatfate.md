@@ -25,6 +25,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Syncing v3p6 (sync dag).](https://github.com/status-im/nimbus-eth2/pull/8869#pullrequestreview-4901641375) - 2026-08-10
 * [Review] [Review on: Monitor head event instead of block event in VC](https://github.com/status-im/nimbus-eth2/pull/8875#pullrequestreview-4914147572) - 2026-08-12
 * [Pull Request] [Syncing v3p7 (response check utilities).](https://github.com/status-im/nimbus-eth2/pull/8909) - 2026-08-19
+* [Review] [Review on: Syncing v3p7 (response check utilities).](https://github.com/status-im/nimbus-eth2/pull/8909#pullrequestreview-4985617378) - 2026-08-20
 ## Q2 2026
 
 

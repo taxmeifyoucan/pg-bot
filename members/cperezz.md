@@ -53,6 +53,8 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Review] [Review on: Update EIP-8297: store delegation indicators in the account header](https://github.com/ethereum/EIPs/pull/12114#pullrequestreview-4872331493) - 2026-08-06
 * [Commit] [Update EIP-8347: delegation indicators are header leaves](https://github.com/ethereum/EIPs/commit/dc1e76c2e238ad2f6caaf7cde6d4cfdf970d6961) - 2026-08-06
 * [Commit] [Update EIP-8297: store delegation indicators in the account header](https://github.com/ethereum/EIPs/commit/2f0a8bed002f527f6cec450edecb89887896ac87) - 2026-08-06
+* [Pull Request] [Update EIP-8347: hashed-key order and fixed-width preimage records](https://github.com/ethereum/EIPs/pull/12215) - 2026-08-20
+* [Commit] [Update EIP-8347: hashed-key order and fixed-width preimage records](https://github.com/ethereum/EIPs/commit/a08f51fec5b2b5da457adb05b8cffb487fb4f7de) - 2026-08-20
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436) - 2026-07-29
 ## Q2 2026

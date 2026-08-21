@@ -40,6 +40,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Pull Request] [Use slot from header instead of bid](https://github.com/Consensys/teku/pull/11143) - 2026-08-19
 * [Review] [Review on: Put `BuilderConfig` in request body when calling block v4](https://github.com/Consensys/teku/pull/11132#pullrequestreview-4970161320) - 2026-08-19
 * [Commit] [Fix builder payment weight double-count under target equivocation (#11123)](https://github.com/Consensys/teku/commit/990295b9073d57ec18db1106aece7e395080d422) - 2026-08-19
+* [Review] [Review on: FCR reference tests ](https://github.com/Consensys/teku/pull/11146#pullrequestreview-4984508719) - 2026-08-20
+* [Commit] [Block v4 changes + use include_payload in block creation (#11141)](https://github.com/Consensys/teku/commit/5ae53b4647375b98e67b059e511cd298404db3b4) - 2026-08-20
 ## Q2 2026
 
 

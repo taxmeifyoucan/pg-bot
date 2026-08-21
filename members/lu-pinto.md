@@ -23,6 +23,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: add JMH gas profiler and formulas](https://github.com/besu-eth/besu/pull/10807#pullrequestreview-4829159934) - 2026-07-31
 * [Review] [Review on: perf: UInt256.addMod fast path for power-of-two moduli](https://github.com/besu-eth/besu/pull/10623#pullrequestreview-4827468740) - 2026-07-31
 * [Review] [Review on: perf: UInt256.mulMod fast path for power-of-two moduli](https://github.com/besu-eth/besu/pull/10648#pullrequestreview-4839519760) - 2026-08-02
+* [Pull Request] [Implement Push and Pop opcodes in EVM v2](https://github.com/besu-eth/besu/pull/11116) - 2026-08-20
+* [Review] [Review on: Implement Push and Pop opcodes in EVM v2](https://github.com/besu-eth/besu/pull/11116#pullrequestreview-4985318371) - 2026-08-20
 ## Q2 2026
 
 

@@ -78,6 +78,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [extend execution clients search to enode, ENR, IP and peers](https://github.com/ethpandaops/dora/commit/efa3dadcd63abdb6014afb5ea0fb8478f348aee6) - 2026-08-19
 * [Commit] [Merge pull request #838 from ethpandaops/bbusa/el-enr-fields](https://github.com/ethpandaops/dora/commit/6d65fcf6ee824faf29cf7f627634ccd3be8d7568) - 2026-08-19
 * [Commit] [add ENR fields to execution clients page](https://github.com/ethpandaops/dora/commit/bd4940ff7f61c3b14eeed968a56060a2afe73382) - 2026-08-19
+* [Review] [Review on: Update state transition for spec `v1.7.0-alpha.14`](https://github.com/ethpandaops/dora/pull/841#pullrequestreview-4983475154) - 2026-08-20
+* [Pull Request] [fix(ui): include in-block request count in EIP-8282 queue fee calculation](https://github.com/ethpandaops/dora/pull/840) - 2026-08-20
+* [Commit] [Merge pull request #840 from ethpandaops/claude/dora-queue-fee-bug-fhev4k](https://github.com/ethpandaops/dora/commit/4c6c10fbcd5c4050b7ff698b10c797343c4f8887) - 2026-08-20
+* [Commit] [fix(ui): surface slot-1 read failure instead of silently quoting understated fee](https://github.com/ethpandaops/dora/commit/0b0d1527e53d67fca4f62a7ac7e26e9719357aae) - 2026-08-20
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
@@ -113,6 +117,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Update EIP-8261: Convert to Informational gas limit schedule recommendation](https://github.com/ethereum/EIPs/commit/9ca2423fdd381d79778743ece889a95d0cf1ec46) - 2026-08-11
 * [Pull Request] [Update EIP-8261: Move to Review](https://github.com/ethereum/EIPs/pull/12164) - 2026-08-13
 * [Commit] [Update EIP-8261: Move to Review](https://github.com/ethereum/EIPs/commit/7e90a2efc0b00435fb898605dc0e342ad1045e83) - 2026-08-13
+* [Review] [Review on: Update EIP-7773: Move to Review](https://github.com/ethereum/EIPs/pull/11855#pullrequestreview-4983828074) - 2026-08-20
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Commit] [Hetzner: cpx (new gen) defaults + capacity-aware placement (#166)](https://github.com/ethpandaops/template-devnets/commit/dc0f417b554f76339098eb2754eec9b1daf5ed41) - 2026-07-27
 
@@ -168,6 +173,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Use topic fork schema for data_column_sidecar gossip decoding (#11121)](https://github.com/Consensys/teku/commit/81f28dc72bd6e2a6e0ab89ce61b44d279c8b4f58) - 2026-08-18
 * [Pull Request] [Expose DOMAIN_BUILDER_DEPOSIT in config spec endpoint](https://github.com/Consensys/teku/pull/11131) - 2026-08-18
 
+* [Pull Request] [Avoid quadratic BLS verification onboarding builders at Gloas fork](https://github.com/Consensys/teku/pull/11155) - 2026-08-20
+* [Issue] [Gloas fork transition wedges: O(K²) BLS verifies in onboardBuildersFromPendingDeposits on large pending-deposit queue](https://github.com/Consensys/teku/issues/11154) - 2026-08-20
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [internal/ethapi: skip unconfigured forks when computing next fork in eth_config](https://github.com/ethereum/go-ethereum/pull/35553) - 2026-08-18
 ## Q2 2026

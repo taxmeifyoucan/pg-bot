@@ -76,6 +76,7 @@ Team: Geth
 * [Review] [Review on: core, eth/catalyst, beacon/engine: update for glam8](https://github.com/ethereum/go-ethereum/pull/35514#pullrequestreview-4914045760) - 2026-08-12
 * [Review] [Review on: crypto/kzg4844: add BlobsFromDataCells for zero-KZG blob reconstruction](https://github.com/ethereum/go-ethereum/pull/35528#pullrequestreview-4951694672) - 2026-08-17
 * [Review] [Review on: core, eth/catalyst, beacon/engine: update for glam8](https://github.com/ethereum/go-ethereum/pull/35514#pullrequestreview-4950026896) - 2026-08-17
+* [Review] [Review on: p2p, node: report an error from admin_addPeer / admin_addTrustedPeer when the server has stopped](https://github.com/ethereum/go-ethereum/pull/35513#pullrequestreview-4980111538) - 2026-08-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 

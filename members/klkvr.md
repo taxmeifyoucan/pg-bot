@@ -53,6 +53,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: refactor(chain-state): add trie data reference collectors](https://github.com/paradigmxyz/reth/pull/26752#pullrequestreview-4971923087) - 2026-08-19
 * [Review] [Review on: feat(rpc): expose raw block transactions on auth server](https://github.com/paradigmxyz/reth/pull/26760#pullrequestreview-4971947975) - 2026-08-19
 * [Commit] [fix(dev): canonicalize mined blocks immediately (#26761)](https://github.com/paradigmxyz/reth/commit/df69a6ac99af6e2f29461a5695b0b7df36919627) - 2026-08-19
+* [Review] [Review on: feat(node): testing node with persistent datadir](https://github.com/paradigmxyz/reth/pull/26774#pullrequestreview-4986846714) - 2026-08-20
+* [Review] [Review on: feat(payload): finalize pending build on resolve](https://github.com/paradigmxyz/reth/pull/26759#pullrequestreview-4980565463) - 2026-08-20
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

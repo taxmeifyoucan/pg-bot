@@ -222,6 +222,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(test-specs,tests): Refactor inclusion-list spec definitions, existing tests](https://github.com/ethereum/execution-specs/pull/3373#pullrequestreview-4973569719) - 2026-08-19
 * [Review] [Review on: refactor(tests): EIP-8037 test gas calculation logic and post state verification](https://github.com/ethereum/execution-specs/pull/3383#pullrequestreview-4970899484) - 2026-08-19
 * [Commit] [feat(tests): add BAL storage slot numeric ordering test (#3382)](https://github.com/ethereum/execution-specs/commit/89f2f0499648532760c9893ffd34659517e95a87) - 2026-08-19
+* [Pull Request] [feat(consume): check inclusionListSatisfied semantics and probe engine_getInclusionListV1](https://github.com/ethereum/execution-specs/pull/3410) - 2026-08-20
+* [Review] [Review on: feat(specs,tests): update EIP-8141 implementation](https://github.com/ethereum/execution-specs/pull/3396#pullrequestreview-4985072218) - 2026-08-20
+* [Review] [Review on: feat(specs,test-specs,tests): Update Engine API to latest Bogota spec, implement IL inclusion_test](https://github.com/ethereum/execution-specs/pull/3401#pullrequestreview-4982598655) - 2026-08-20
+* [Pull Request] [feat(test-forks): add the Bogota pseudo-fork for post-Amsterdam features](https://github.com/ethereum/execution-specs/pull/3408) - 2026-08-20
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -255,6 +259,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: clients/nethermind: only mark post-merge genesis when TTD is set](https://github.com/ethereum/hive/pull/1595#pullrequestreview-4916904051) - 2026-08-12
 * [Pull Request] [clients/nimbus-el: pass genesis slotNumber through mapper (EIP-7843)](https://github.com/ethereum/hive/pull/1597) - 2026-08-13
 * [Commit] [clients/nimbus-el: pass genesis slotNumber through mapper (EIP-7843) (#1597)](https://github.com/ethereum/hive/commit/a9c021a7c90357aeabcf9e715a88c10e73bf51ae) - 2026-08-13
+* [Review] [Review on: internal/libhive: release the test-case mutex before removing containers](https://github.com/ethereum/hive/pull/1600#pullrequestreview-4985064852) - 2026-08-20
+* [Pull Request] [clients: add bogota time to execution layer client mappers](https://github.com/ethereum/hive/pull/1601) - 2026-08-20
+* [Commit] [clients: add bogota time to execution layer client mappers (#1601)](https://github.com/ethereum/hive/commit/3330f39b2165134865abdaba5f43b3f85f66779e) - 2026-08-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4806932985) - 2026-07-29
 * [Pull Request] [Update EIP-7773: SFI remaining Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12024) - 2026-07-29

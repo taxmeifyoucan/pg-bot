@@ -119,6 +119,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Add gas limit schedule](https://github.com/sigp/lighthouse/pull/9878) - 2026-08-19
 * [Review] [Review on: Do not fatally ban peers for DataColumnsByRange ResourceUnavailable](https://github.com/sigp/lighthouse/pull/9874#pullrequestreview-4972526301) - 2026-08-19
 * [Review] [Review on: Update blst to 0.3.17](https://github.com/sigp/lighthouse/pull/9869#pullrequestreview-4970462894) - 2026-08-19
+* [Pull Request] [Set all ptc bits for validators appearing multiple times in ptc](https://github.com/sigp/lighthouse/pull/9899) - 2026-08-20
+* [Pull Request] [Do not advance state under fc lock](https://github.com/sigp/lighthouse/pull/9895) - 2026-08-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

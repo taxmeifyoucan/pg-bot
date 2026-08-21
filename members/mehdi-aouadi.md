@@ -90,6 +90,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [add inclusion list store](https://github.com/Consensys/teku/pull/11144) - 2026-08-19
 * [Pull Request] [focil devnet 0 initial changes](https://github.com/Consensys/teku/pull/11139) - 2026-08-19
 * [Review] [Review on: focil devnet 0 initial changes](https://github.com/Consensys/teku/pull/11139#pullrequestreview-4971301101) - 2026-08-19
+* [Pull Request] [align inclusion list store with Heze spec](https://github.com/Consensys/teku/pull/11156) - 2026-08-20
 ## Q2 2026
 
 

@@ -268,6 +268,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: remove MeteredGetter and MeteredGetterWithTxN](https://github.com/erigontech/erigon/pull/23421) - 2026-08-19
 * [Review] [Review on: ci: run eest transaction test spec shards](https://github.com/erigontech/erigon/pull/23371#pullrequestreview-4972130208) - 2026-08-19
 * [Commit] [ci: run eest transaction test spec shards (#23371)](https://github.com/erigontech/erigon/commit/be60ddfc88fef747f6c62c3ba9b850a17352c9ac) - 2026-08-19
+* [Pull Request] [db/seg: code multi page warmup followups  ](https://github.com/erigontech/erigon/pull/23443) - 2026-08-20
+* [Review] [Review on: ci: move Kurtosis install to its new apt repo, pin CLI 1.20.0](https://github.com/erigontech/erigon/pull/23439#pullrequestreview-4982566526) - 2026-08-20
+* [Review] [Review on: execution: remove MeteredGetter and MeteredGetterWithTxN](https://github.com/erigontech/erigon/pull/23421#pullrequestreview-4980592319) - 2026-08-20
+* [Commit] [execution: optimise incoming bal encoding/decoding/validation path (#23417)](https://github.com/erigontech/erigon/commit/1a2bd8726274c1b075c07c95a234639de03adb25) - 2026-08-20
+* [Commit] [execution: remove MeteredGetter and MeteredGetterWithTxN (#23421)](https://github.com/erigontech/erigon/commit/043dc4e4b7c6d8668ae7b7fc61565bfd695002d7) - 2026-08-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

@@ -15,6 +15,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [common/mclock: rename symbol to remove conflicts with other languages](https://github.com/ethereum/go-ethereum/pull/35460) - 2026-08-04
 * [Commit] [common/mclock: rename symbol to remove conflicts with other languages (#35460)](https://github.com/ethereum/go-ethereum/commit/e25efd2c62175e82b364c0344d77c882aa951f68) - 2026-08-04
 * [Pull Request] [build, .gitea: build rpm packages](https://github.com/ethereum/go-ethereum/pull/35557) - 2026-08-19
+* [Review] [Review on: core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436#pullrequestreview-4984482048) - 2026-08-20
 ## Q2 2026
 
 

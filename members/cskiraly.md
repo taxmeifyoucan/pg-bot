@@ -24,6 +24,8 @@ Team: Codex DAS
 * [Commit] [crypto/kzg4844: add BlobsFromDataCells for zero-KZG blob reconstruction (#35528)](https://github.com/ethereum/go-ethereum/commit/6017c756e2b07fc39a8b51af39c80dd6a4d8d185) - 2026-08-17
 * [Review] [Review on: crypto/kzg4844: add RecoverCells with systematic fast path](https://github.com/ethereum/go-ethereum/pull/35529#pullrequestreview-4971069345) - 2026-08-19
 * [Commit] [crypto/kzg4844: add RecoverCells with systematic fast path (#35529)](https://github.com/ethereum/go-ethereum/commit/35a016346f0d79bf0cf2e07b4f5d146d87fd95cb) - 2026-08-19
+* [Review] [Review on: core/txpool/blobpool: speed up serving pre eth/72 peers](https://github.com/ethereum/go-ethereum/pull/35543#pullrequestreview-4979382393) - 2026-08-20
+* [Commit] [p2p/discover: try to fix TestUDPv5_lookupE2E by using SetFallbackUDP (#35542)](https://github.com/ethereum/go-ethereum/commit/02b73d4ea7181464175e0a6cbecc0a3a2655a562) - 2026-08-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4818065623) - 2026-07-30
 * [Pull Request] [Add EIP: RowDAS - Distributed Blob Reconstruction](https://github.com/ethereum/EIPs/pull/12118) - 2026-08-06

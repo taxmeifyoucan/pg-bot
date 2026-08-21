@@ -192,6 +192,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [crypto: Drop the runtime-modulus Montgomery arithmetic](https://github.com/ipsilon/evmone/pull/1664) - 2026-08-19
 * [Issue] [modexp optimizations](https://github.com/ipsilon/evmone/issues/1665) - 2026-08-19
 * [Commit] [test: Fix the modarith benchmarks measuring dead code (#1663)](https://github.com/ipsilon/evmone/commit/9344010dbd711b3af8a1253f4faf01b8b3beaadd) - 2026-08-19
+* [Pull Request] [Mark the instruction error paths unlikely](https://github.com/ipsilon/evmone/pull/1670) - 2026-08-20
+* [Pull Request] [Use gas_left uniformly in halting instruction results](https://github.com/ipsilon/evmone/pull/1669) - 2026-08-20
+* [Pull Request] [Charge the state-independent CALL costs before accessing state](https://github.com/ipsilon/evmone/pull/1668) - 2026-08-20
+* [Pull Request] [t8n: Emit the real receipt status, root and logs](https://github.com/ipsilon/evmone/pull/1667) - 2026-08-20
+* [Pull Request] [crypto: Rename ModArith to MontgomeryArith](https://github.com/ipsilon/evmone/pull/1666) - 2026-08-20
+* [Commit] [t8n: Emit the real receipt status, root and logs (#1667)](https://github.com/ipsilon/evmone/commit/46ffdcef43a4289be83b6acb056c2d9d297f64fe) - 2026-08-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -237,6 +243,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): add ef_prefix deposit-halt mode to EIP-8037 state-gas test (#3233)](https://github.com/ethereum/execution-specs/commit/7c4177ace2fcabd6aaa86be043cbc813065c4bb7) - 2026-07-27
 * [Commit] [feat(tests): add dynamic-destination JUMP/JUMPI invalid-target tests (#3153)](https://github.com/ethereum/execution-specs/commit/ad970077a4d866b1d15cd171fa708de49760a4f6) - 2026-07-30
 * [Pull Request] [feat(tests): EIP-7928 - union reverted storage reads across transactions](https://github.com/ethereum/execution-specs/pull/3399) - 2026-08-19
+* [Commit] [feat(tests): EIP-7928 - union reverted storage reads across transactions (#3399)](https://github.com/ethereum/execution-specs/commit/3d473e865a6ff78321e8b7b015b0e9a4bb8da892) - 2026-08-20
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

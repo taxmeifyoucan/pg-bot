@@ -81,6 +81,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(fork-choice): preserve exact Gwei weights](https://github.com/ChainSafe/lodestar/pull/9821#pullrequestreview-4958196667) - 2026-08-18
 * [Pull Request] [feat: focil-devnet-0](https://github.com/ChainSafe/lodestar/pull/9842) - 2026-08-18
 * [Review] [Review on: fix: fully initialize execution payload bid on gloas upgrade](https://github.com/ChainSafe/lodestar/pull/9847#pullrequestreview-4975954058) - 2026-08-19
+* [Review] [Review on: fix: recompute head before proposer boost dependent root check](https://github.com/ChainSafe/lodestar/pull/9813#pullrequestreview-4978242260) - 2026-08-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

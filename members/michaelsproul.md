@@ -60,6 +60,9 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Do not fatally ban peers for DataColumnsByRange ResourceUnavailable](https://github.com/sigp/lighthouse/pull/9874#pullrequestreview-4972580557) - 2026-08-19
 * [Review] [Review on: Use Gloas timings for aggregate attestations and sync committee messages](https://github.com/sigp/lighthouse/pull/9823#pullrequestreview-4967641508) - 2026-08-19
 * [Pull Request] [Update blst to 0.3.17](https://github.com/sigp/lighthouse/pull/9869) - 2026-08-19
+* [Review] [Review on: Gloas payload attributes use the wrong withdrawals after an empty parent](https://github.com/sigp/lighthouse/pull/9894#pullrequestreview-4987551495) - 2026-08-20
+* [Review] [Review on: Gloas alpha 14 EF tests](https://github.com/sigp/lighthouse/pull/9884#pullrequestreview-4978958619) - 2026-08-20
+* [Review] [Review on:  Explicitly set bid fields when upgrading to Gloas](https://github.com/sigp/lighthouse/pull/9876#pullrequestreview-4978967541) - 2026-08-20
 ## Q2 2026
 
 

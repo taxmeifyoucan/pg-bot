@@ -37,6 +37,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Review] [Review on: Add genception, a Bazel-backed go/packages driver](https://github.com/OffchainLabs/prysm/pull/17307#pullrequestreview-4920253852) - 2026-08-12
 * [Commit] [Add genception, a Bazel-backed go/packages driver (#17307)](https://github.com/OffchainLabs/prysm/commit/462e52404e3965fc0ed4bc1bf7717812d9dd3ef7) - 2026-08-14
 * [Review] [Review on: methodical codegen switch](https://github.com/OffchainLabs/prysm/pull/17308#pullrequestreview-4977820206) - 2026-08-19
+* [Review] [Review on: Move Gloas spec tests into their own packages](https://github.com/OffchainLabs/prysm/pull/17309#pullrequestreview-4978100816) - 2026-08-20
 ## Q2 2026
 
 

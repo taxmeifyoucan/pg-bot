@@ -23,6 +23,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(rpc): report missing state in eth_getStorageAt gracefully](https://github.com/NethermindEth/nethermind/pull/12483#pullrequestreview-4726169964) - 2026-07-17
 * [Review] [Review on: Raise default TrieWarmer worker count from 1/2 to 3/4 of cores](https://github.com/NethermindEth/nethermind/pull/12479#pullrequestreview-4721555567) - 2026-07-17
 * [Review] [Review on: Raise mainnet ancient barriers to a 33024-epoch history window](https://github.com/NethermindEth/nethermind/pull/12808#pullrequestreview-4930481619) - 2026-08-13
+* [Review] [Review on: build(zisk): bump Zisk to 1.1.0-alpha](https://github.com/NethermindEth/nethermind/pull/12910#pullrequestreview-4980438741) - 2026-08-20
 ## Q2 2026
 
 

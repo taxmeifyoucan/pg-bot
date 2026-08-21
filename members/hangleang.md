@@ -54,6 +54,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 
 * [Pull Request] [Fix builder payment weight double-count under target equivocation](https://github.com/grandinetech/grandine/pull/855) - 2026-08-18
 * [Pull Request] [Add gas limit schedule config](https://github.com/grandinetech/grandine/pull/854) - 2026-08-18
+* [Pull Request] [Consensus spec alpha14](https://github.com/grandinetech/grandine/pull/856) - 2026-08-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 ## Q2 2026

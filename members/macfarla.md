@@ -155,6 +155,32 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix: eth_getProof returns storageProof entries for non-existent accounts](https://github.com/besu-eth/besu/pull/11082#pullrequestreview-4968021312) - 2026-08-19
 * [Commit] [fix: debug_getRawTransaction double-RLP typed txs (#11083)](https://github.com/besu-eth/besu/commit/8147e6ca85619100f58e90c00ed1e6a038fff862) - 2026-08-19
 * [Commit] [upgrade netty to 4.2.17.Final (#11078)](https://github.com/besu-eth/besu/commit/a0bf6b2615bb269d02b001ee9df6fae6f471f665) - 2026-08-19
+* [Pull Request] [Fixes: GHSA-xw6x-9526-6w9r Bound the DiscV4 inbound packet pipeline](https://github.com/besu-eth/besu/pull/11105) - 2026-08-20
+* [Pull Request] [Reject RLP-wrapped typed transactions in block-body opaque decoding](https://github.com/besu-eth/besu/pull/11103) - 2026-08-20
+* [Pull Request] [Fixes: GHSA-23rh-rrqg-wq82 Cap BFT round change number](https://github.com/besu-eth/besu/pull/11102) - 2026-08-20
+* [Pull Request] [crypto: bound r,s to [1,n) on signature recovery (EIP-7702)](https://github.com/besu-eth/besu/pull/11097) - 2026-08-20
+* [Pull Request] [Fixes: GHSA-6r9q-wjp4-34gh fix(p2p): bound pre-STATUS RLPx connections and close them on eviction](https://github.com/besu-eth/besu/pull/11096) - 2026-08-20
+* [Pull Request] [Fixes: GHSA-8g2r-qvch-4c9j Bound and cancel GraphQL blocks(from,to) range queries](https://github.com/besu-eth/besu/pull/11095) - 2026-08-20
+* [Pull Request] [Fixes: GHSA-h552-3fxr-chmx Bound the storage sub-range split count in snap sync](https://github.com/besu-eth/besu/pull/11094) - 2026-08-20
+* [Pull Request] [fix(parallel): abort speculative futures on block-budget abort](https://github.com/besu-eth/besu/pull/11104) - 2026-08-20
+* [Pull Request] [Fixes: GHSA-4776-8c3f-fx7g Added server side limit for steps in debug_traceCall](https://github.com/besu-eth/besu/pull/11100) - 2026-08-20
+* [Pull Request] [Fixes: GHSA-pcv4-pxhv-99m7 Cap concurrent snap/1-2 GET_* requests scheduled onto EthScheduler](https://github.com/besu-eth/besu/pull/11101) - 2026-08-20
+* [Pull Request] [Fixes: GHSA-h594-ww62-rcxv fix logging issue with invalid discv4 packet](https://github.com/besu-eth/besu/pull/11093) - 2026-08-20
+* [Pull Request] [Fixes: GHSA-9w9r-w3rf-j6vj enforce maxLogRange on eth_getFilterLogs and eth_newFilter](https://github.com/besu-eth/besu/pull/11099) - 2026-08-20
+* [Pull Request] [Don't materialize an unrewarded fee recipient in the optimistic parallel merge](https://github.com/besu-eth/besu/pull/11098) - 2026-08-20
+* [Pull Request] [Fixes: GHSA-pr92-c4mc-x48r Remove System.out and System.err logging from P256VerifyPrecompile](https://github.com/besu-eth/besu/pull/11092) - 2026-08-20
+* [Pull Request] [Changelog rotate for 26.8.0 ](https://github.com/besu-eth/besu/pull/11090) - 2026-08-20
+* [Review] [Review on: Changelog rotate for 26.8.0 ](https://github.com/besu-eth/besu/pull/11090#pullrequestreview-4978461986) - 2026-08-20
+* [Commit] [Fixes: GHSA-xw6x-9526-6w9r Bound the DiscV4 inbound packet pipeline (#11105)](https://github.com/besu-eth/besu/commit/6d731706cb6d9046085af182beacf6ef93eb6888) - 2026-08-20
+* [Commit] [Reject RLP-wrapped typed transactions in block-body opaque decoding (#11103)](https://github.com/besu-eth/besu/commit/afd749d8618b4b01b26e4f258abfa5fa4d757585) - 2026-08-20
+* [Commit] [Fixes: GHSA-23rh-rrqg-wq82 Cap BFT round change number (#11102)](https://github.com/besu-eth/besu/commit/118f8b1920f91dc883b9155d5226f634f75d4cff) - 2026-08-20
+* [Commit] [crypto: bound r,s to [1,n) on signature recovery (EIP-7702) (#11097)](https://github.com/besu-eth/besu/commit/009a9a4b6c2684c730a271a5e6217192e94ad96d) - 2026-08-20
+* [Commit] [Fixes: GHSA-6r9q-wjp4-34gh fix(p2p): bound pre-STATUS RLPx connections and close them on eviction (#11096)](https://github.com/besu-eth/besu/commit/e540ae23949525696c43420caffb864ed8c2b577) - 2026-08-20
+* [Commit] [Fixes: GHSA-8g2r-qvch-4c9j Bound and cancel GraphQL blocks(from,to) range queries (#11095)](https://github.com/besu-eth/besu/commit/46c2331986daab68bff97266da503efaf8ba19ad) - 2026-08-20
+* [Commit] [Fixes: GHSA-h552-3fxr-chmx Bound the storage sub-range split count in snap sync (#11094)](https://github.com/besu-eth/besu/commit/c3a15f960c94723dee1e3c14577da2e6c01c9f70) - 2026-08-20
+* [Commit] [Fixes: GHSA-h594-ww62-rcxv fix logging issue with invalid discv4 packet (#11093)](https://github.com/besu-eth/besu/commit/de54bf9be0aa37c057a5f9b9e924aa3f09c504b1) - 2026-08-20
+* [Commit] [Fixes: GHSA-pr92-c4mc-x48r Remove System.out and System.err logging from P256VerifyPrecompile (#11092)](https://github.com/besu-eth/besu/commit/fbfb5f9ecdecadb88eb9acd6407e33006afaac87) - 2026-08-20
+* [Commit] [Changelog rotate for 26.8.0 (#11090)](https://github.com/besu-eth/besu/commit/afb8b736bf0923c17966e31ae08b23e8b245538e) - 2026-08-20
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

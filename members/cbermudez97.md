@@ -29,6 +29,8 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Commit] [feat(metrics): durable sync-time and full-pruning duration metrics (#12590)](https://github.com/NethermindEth/nethermind/commit/999ec05107c2600090ad97b23da83e53afcef72c) - 2026-08-07
 * [Pull Request] [ci: migrate sync-test runners from Linode to GCP Spot](https://github.com/NethermindEth/nethermind/pull/12789) - 2026-08-12
 * [Review] [Review on: ci: migrate sync-test runners from Linode to GCP Spot](https://github.com/NethermindEth/nethermind/pull/12789#pullrequestreview-4920836464) - 2026-08-12
+* [Pull Request] [ci: give each sync network its own create/sync/teardown lifecycle](https://github.com/NethermindEth/nethermind/pull/12936) - 2026-08-20
+* [Review] [Review on: ci: give each sync network its own create/sync/teardown lifecycle](https://github.com/NethermindEth/nethermind/pull/12936#pullrequestreview-4984447685) - 2026-08-20
 ## Q2 2026
 
 

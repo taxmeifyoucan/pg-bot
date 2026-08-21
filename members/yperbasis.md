@@ -513,6 +513,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [qa: fix unreliable Gnosis tip-tracking migration on release/3.6](https://github.com/erigontech/erigon/issues/23418) - 2026-08-19
 * [Issue] [rpc: finish atomic read-view acquisition and propagation](https://github.com/erigontech/erigon/issues/23416) - 2026-08-19
 * [Commit] [ci: bound apt setup in Kurtosis workflows (#23400)](https://github.com/erigontech/erigon/commit/7732a647d23dc038ab298bb3d4422d97765dd95e) - 2026-08-19
+* [Review] [Review on: docs: fix bor_getVoteOnHash parameters and result type](https://github.com/erigontech/erigon/pull/23427#pullrequestreview-4984964709) - 2026-08-20
+* [Pull Request] [cl/beacon: refine payload preparation scheduling and execution coordination](https://github.com/erigontech/erigon/pull/23436) - 2026-08-20
+* [Review] [Review on: cl/beacon: refine payload preparation scheduling and execution coordination](https://github.com/erigontech/erigon/pull/23436#pullrequestreview-4981947361) - 2026-08-20
+* [Review] [Review on: merge: enable madv_sequential on own `mmap`](https://github.com/erigontech/erigon/pull/23382#pullrequestreview-4984955053) - 2026-08-20
+* [Review] [Review on: [r3.6] ci: move Kurtosis install to its new apt repo, pin CLI 1.20.0](https://github.com/erigontech/erigon/pull/23441#pullrequestreview-4984530803) - 2026-08-20
+* [Pull Request] [rpc: reject out-of-range debug transaction indexes](https://github.com/erigontech/erigon/pull/23431) - 2026-08-20
+* [Issue] [rpc: validate eth_callMany and debug_traceCallMany state contexts](https://github.com/erigontech/erigon/issues/23444) - 2026-08-20
+* [Issue] [rpc: resolve committed block targets and execution progress in one helper](https://github.com/erigontech/erigon/issues/23424) - 2026-08-20
+* [Issue] [rpc: centralize block-selector validation without changing endpoint errors](https://github.com/erigontech/erigon/issues/23428) - 2026-08-20
+* [Issue] [rpc: reuse snapshot-coherent state caches for committed replay](https://github.com/erigontech/erigon/issues/23425) - 2026-08-20
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

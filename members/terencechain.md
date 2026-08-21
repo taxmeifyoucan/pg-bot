@@ -200,6 +200,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: renaming endpoints and function names to match keymanager api stuff](https://github.com/OffchainLabs/prysm/pull/17379#pullrequestreview-4973316444) - 2026-08-19
 * [Pull Request] [Explicitly set bid fields when upgrading to Gloas](https://github.com/OffchainLabs/prysm/pull/17380) - 2026-08-19
 * [Commit] [Decouple builder request auth from the dial URL (#17373)](https://github.com/OffchainLabs/prysm/commit/0a5c83fc380aa2db1b436baef718d4c28e561774) - 2026-08-19
+* [Pull Request] [Only reject gossip blocks that build on an invalid parent payload](https://github.com/OffchainLabs/prysm/pull/17389) - 2026-08-20
+* [Review] [Review on: fixes found around stateless flows](https://github.com/OffchainLabs/prysm/pull/17391#pullrequestreview-4986318880) - 2026-08-20
+* [Commit] [Only reject gossip blocks that build on an invalid parent payload (#17389)](https://github.com/OffchainLabs/prysm/commit/026a39e9208682bd89ce14b4d0b2b7713577cad5) - 2026-08-20
+* [Commit] [Enforce per-builder bid limits from the block request (#17374)](https://github.com/OffchainLabs/prysm/commit/a0a4b7f0ccc80711fcd9fbf0345c7c753ad8043d) - 2026-08-20
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

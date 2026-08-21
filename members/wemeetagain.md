@@ -119,6 +119,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(bls): bound worker signature packages](https://github.com/ChainSafe/lodestar/pull/9846#pullrequestreview-4964543768) - 2026-08-18
 * [Review] [Review on: chore: restore pre-Fulu proposer shuffling check](https://github.com/ChainSafe/lodestar/pull/9850#pullrequestreview-4974235097) - 2026-08-19
 * [Review] [Review on: fix(bls): address scheduler metrics feedback](https://github.com/ChainSafe/lodestar/pull/9849#pullrequestreview-4972988759) - 2026-08-19
+* [Pull Request] [fix: fallback when native chacha20-poly1305 is unavailable](https://github.com/ChainSafe/lodestar/pull/9879) - 2026-08-20
+* [Review] [Review on: refactor(state-transition): use Lodestar-Z signature verifier](https://github.com/ChainSafe/lodestar/pull/9863#pullrequestreview-4985643046) - 2026-08-20
+* [Review] [Review on: fix: handle attributable peers on range sync](https://github.com/ChainSafe/lodestar/pull/9836#pullrequestreview-4985496706) - 2026-08-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 

@@ -8,6 +8,11 @@ Team: Robust Incentives Group (RIG)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8198: target 10-second slots and align with the reference specs](https://github.com/ethereum/EIPs/pull/12217) - 2026-08-20
 ## Q2 2026
 
 

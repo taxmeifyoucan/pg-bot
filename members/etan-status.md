@@ -44,6 +44,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Monitor head event instead of block event in VC](https://github.com/status-im/nimbus-eth2/pull/8875#pullrequestreview-4914852211) - 2026-08-12
 * [Pull Request] [Track latest attester / proposer dependent roots in VC](https://github.com/status-im/nimbus-eth2/pull/8877) - 2026-08-13
 * [Pull Request] [Implement EIP-8066 mascot for Gloas](https://github.com/status-im/nimbus-eth2/pull/8911) - 2026-08-19
+* [Pull Request] [Initialize ValidatorMonitor counter metrics to 0 on start](https://github.com/status-im/nimbus-eth2/pull/8915) - 2026-08-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630) - 2026-07-06
 * [Commit] [Forward compatible consensus data structures (EIP-7688) (#4630)](https://github.com/ethereum/consensus-specs/commit/bd6df5afe26d56e9ccf623071c3b574a76967ac9) - 2026-07-06

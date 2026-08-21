@@ -106,6 +106,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat(p3-security): const-fn fixed-point round budget for recursive verifiers](https://github.com/Plonky3/Plonky3/pull/1984#pullrequestreview-4953332152) - 2026-08-17
 * [Review] [Review on: test: add missing test file for vectorized field arithmetic](https://github.com/Plonky3/Plonky3/pull/1983#pullrequestreview-4951506292) - 2026-08-17
 * [Review] [Review on: fix(release): bump internal dep version pins when cutting an rc](https://github.com/Plonky3/Plonky3/pull/1986#pullrequestreview-4971117076) - 2026-08-19
+* [Review] [Review on: perf: fixed-width binary serialization for field elements](https://github.com/Plonky3/Plonky3/pull/1988#pullrequestreview-4982825343) - 2026-08-20
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10
