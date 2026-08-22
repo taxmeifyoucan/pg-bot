@@ -134,6 +134,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add private eth_call corpus mode to the RPC benchmark workflow (#12704)](https://github.com/NethermindEth/nethermind/commit/5972dc993550cba1ff60c9a8a08fb57f78aa8403) - 2026-08-20
 * [Commit] [ci: wait for the publish-docker run we dispatched, not any concurrent one (#12907)](https://github.com/NethermindEth/nethermind/commit/101a9a506dcab5f43f8e0a83e93e49ab1b54eae2) - 2026-08-20
 * [Commit] [ci: pin Go to 1.26 in the sedge sync workflows (#12915)](https://github.com/NethermindEth/nethermind/commit/a051b96705576d075bc9062cfeaa09b3ad94c636) - 2026-08-20
+* [Pull Request] [Add a perf profiling mode to the benchmark workflow](https://github.com/NethermindEth/nethermind/pull/12952) - 2026-08-21
+* [Pull Request] [ci(bench): stop auto-triggering RPC benchmarks on 'performance is good', shorten the corpus warm-up](https://github.com/NethermindEth/nethermind/pull/12949) - 2026-08-21
+* [Review] [Review on: ci(bench): stop auto-triggering RPC benchmarks on 'performance is good', shorten the corpus warm-up](https://github.com/NethermindEth/nethermind/pull/12949#pullrequestreview-4994875758) - 2026-08-21
+* [Pull Request] [perf(flat): publish the trie warmer's persistence reads into the transient](https://github.com/NethermindEth/nethermind/pull/12951) - 2026-08-21
+* [Review] [Review on: perf(flat): publish the trie warmer's persistence reads into the transient](https://github.com/NethermindEth/nethermind/pull/12951#pullrequestreview-4995880974) - 2026-08-21
+* [Commit] [perf: remove per-hit atomics from the shared counter, cache and DB hot paths (#12870)](https://github.com/NethermindEth/nethermind/commit/d2c452d93ee3d8563374c50ed4401217aa2916c2) - 2026-08-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

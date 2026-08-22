@@ -58,6 +58,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Review] [Review on: Recover initial sync when head is on a bad fork](https://github.com/OffchainLabs/prysm/pull/17324#pullrequestreview-4927018240) - 2026-08-13
 * [Review] [Review on: Add the `--disable-graffiti-client-append` flag.](https://github.com/OffchainLabs/prysm/pull/17341#pullrequestreview-4926976796) - 2026-08-13
 * [Pull Request] [Verify payload attestation signatures on RPC submission](https://github.com/OffchainLabs/prysm/pull/17363) - 2026-08-14
+* [Pull Request] [[WIP] Backfill Gloas execution payload envelopes alongside blocks](https://github.com/OffchainLabs/prysm/pull/17394) - 2026-08-21
 ## Q2 2026
 
 

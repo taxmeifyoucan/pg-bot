@@ -26,6 +26,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [n-b-s: rm pcre/rocksdb support](https://github.com/status-im/nimbus-eth1/pull/4657) - 2026-08-18
 * [Commit] [n-b-s: rm pcre/rocksdb support (#4657)](https://github.com/status-im/nimbus-eth1/commit/0c23c5f41fceea76dfd2a225f2599edef2d0fce6) - 2026-08-18
 * [Commit] [Use split compile/link build (#4643)](https://github.com/status-im/nimbus-eth1/commit/b743724648ed98c8cc40dbfaa4ee3492fd766695) - 2026-08-20
+* [Review] [Review on: KVT put and receipt root optimization](https://github.com/status-im/nimbus-eth1/pull/4671#pullrequestreview-4997859677) - 2026-08-21
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8735) - 2026-07-08
 * [Pull Request] [el: add support for RpcChannel-based web3 provider](https://github.com/status-im/nimbus-eth2/pull/8734) - 2026-07-08

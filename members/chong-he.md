@@ -48,6 +48,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Add 0x02 support to validator creation](https://github.com/sigp/lighthouse/pull/9702#pullrequestreview-4956788107) - 2026-08-18
 * [Review] [Review on: Sign payload attestations concurrently in the VC](https://github.com/sigp/lighthouse/pull/9756#pullrequestreview-4968194965) - 2026-08-19
 * [Review] [Review on: Sign payload attestations concurrently in the VC](https://github.com/sigp/lighthouse/pull/9756#pullrequestreview-4978167225) - 2026-08-20
+* [Review] [Review on: Convert produceBlockV4 to POST and round-trip Eth-Builder-Url (Gloas builder API 4/5)](https://github.com/sigp/lighthouse/pull/9806#pullrequestreview-4989181941) - 2026-08-21
 ## Q2 2026
 
 

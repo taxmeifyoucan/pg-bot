@@ -161,6 +161,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: chaindata: pageSize 16kb -> 4kb](https://github.com/erigontech/erigon/pull/23304#pullrequestreview-4948660644) - 2026-08-17
 * [Pull Request] [p2p: decode eth/68 Status TD as uint256 instead of big.Int](https://github.com/erigontech/erigon/pull/23402) - 2026-08-19
 * [Commit] [p2p: decode eth/68 Status TD as uint256 instead of big.Int (#23402)](https://github.com/erigontech/erigon/commit/e1ccd86e70765a4a007d4a40ad558bb59f84b8c7) - 2026-08-19
+* [Review] [Review on: execution/stagedsync: pin the txlookup prune bound check with a test](https://github.com/erigontech/erigon/pull/23457#pullrequestreview-4992363373) - 2026-08-21
+* [Review] [Review on: db/seg: keep the page decode buffer across PagedReader.Reset](https://github.com/erigontech/erigon/pull/23461#pullrequestreview-4992347790) - 2026-08-21
+* [Review] [Review on: db/state: flip InvIdxCfg.Disable to InvIdxCfg.Enabled](https://github.com/erigontech/erigon/pull/23447#pullrequestreview-4992411854) - 2026-08-21
+* [Review] [Review on: cl, common: reuse snappy stream codecs from a pool](https://github.com/erigontech/erigon/pull/23423#pullrequestreview-4992320675) - 2026-08-21
+* [Review] [Review on: cl/persistence, db: pool zstd decoders, lower what zstd encoders hold](https://github.com/erigontech/erigon/pull/23435#pullrequestreview-4992331917) - 2026-08-21
 ## Q2 2026
 
 

@@ -31,6 +31,7 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Review] [Review on: ci: migrate sync-test runners from Linode to GCP Spot](https://github.com/NethermindEth/nethermind/pull/12789#pullrequestreview-4920836464) - 2026-08-12
 * [Pull Request] [ci: give each sync network its own create/sync/teardown lifecycle](https://github.com/NethermindEth/nethermind/pull/12936) - 2026-08-20
 * [Review] [Review on: ci: give each sync network its own create/sync/teardown lifecycle](https://github.com/NethermindEth/nethermind/pull/12936#pullrequestreview-4984447685) - 2026-08-20
+* [Review] [Review on: ci(bench): stop auto-triggering RPC benchmarks on 'performance is good', shorten the corpus warm-up](https://github.com/NethermindEth/nethermind/pull/12949#pullrequestreview-4994970720) - 2026-08-21
 ## Q2 2026
 
 

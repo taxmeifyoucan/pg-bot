@@ -241,6 +241,12 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Issue] [Discovery](https://github.com/NethermindEth/nethermind/issues/12919) - 2026-08-20
 * [Commit] [Glamsterdam devnet 8 specific commits (#12719)](https://github.com/NethermindEth/nethermind/commit/942eabfdd1e614db6fe46c07e5cecaedc4e7f0b2) - 2026-08-20
 * [Commit] [Reject deposit logs with noncanonical ABI offsets (#12895)](https://github.com/NethermindEth/nethermind/commit/eb1b43b43fd518cbcad0d5b974d5978181ae9b9a) - 2026-08-20
+* [Review] [Review on: fix(optimism): validate the transaction offset table when decoding payloads](https://github.com/NethermindEth/nethermind/pull/12920#pullrequestreview-4990490900) - 2026-08-21
+* [Review] [Review on: Remove EIP-7610 support](https://github.com/NethermindEth/nethermind/pull/12935#pullrequestreview-4990099741) - 2026-08-21
+* [Review] [Review on: fix(xdc): start the archive node at the XDPoS v2 switch block](https://github.com/NethermindEth/nethermind/pull/12917#pullrequestreview-4991755329) - 2026-08-21
+* [Review] [Review on: fix(network): cap item counts on inbound RLP byte-list responses](https://github.com/NethermindEth/nethermind/pull/12914#pullrequestreview-4991717837) - 2026-08-21
+* [Review] [Review on: feat(stateless): adopt tests-zkevm v0.8.2 and glamsterdam devnet-8](https://github.com/NethermindEth/nethermind/pull/12909#pullrequestreview-4989777119) - 2026-08-21
+* [Pull Request] [Update Glamsterdam devnet EEST fixtures to v8.1.1](https://github.com/NethermindEth/nethermind/pull/12944) - 2026-08-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

@@ -60,6 +60,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: fixing ux bug on default hosts log](https://github.com/OffchainLabs/prysm/pull/17388#pullrequestreview-4984389066) - 2026-08-20
 * [Pull Request] [Fix quadratic BLS signature verification during Gloas builder onboarding](https://github.com/OffchainLabs/prysm/pull/17387) - 2026-08-20
 * [Review] [Review on: Do not migrate a cold state built from a reorged-out block](https://github.com/OffchainLabs/prysm/pull/17371#pullrequestreview-4980481497) - 2026-08-20
+* [Pull Request] [stream hdiff validator comparison](https://github.com/OffchainLabs/prysm/pull/17396) - 2026-08-21
+* [Pull Request] [fix sync committee duty bug for exited vals - pre gloas](https://github.com/OffchainLabs/prysm/pull/17395) - 2026-08-21
 ## Q2 2026
 
 

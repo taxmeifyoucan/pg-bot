@@ -122,6 +122,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: fallback when native chacha20-poly1305 is unavailable](https://github.com/ChainSafe/lodestar/pull/9879) - 2026-08-20
 * [Review] [Review on: refactor(state-transition): use Lodestar-Z signature verifier](https://github.com/ChainSafe/lodestar/pull/9863#pullrequestreview-4985643046) - 2026-08-20
 * [Review] [Review on: fix: handle attributable peers on range sync](https://github.com/ChainSafe/lodestar/pull/9836#pullrequestreview-4985496706) - 2026-08-20
+* [Review] [Review on: deps: bump ssz to 1.6.3](https://github.com/ChainSafe/lodestar/pull/9890#pullrequestreview-4997472418) - 2026-08-21
+* [Review] [Review on: fix: always add api attestations to the pool](https://github.com/ChainSafe/lodestar/pull/9886#pullrequestreview-4993569479) - 2026-08-21
+* [Review] [Review on: refactor(network): resolve zero peers publish policy per topic](https://github.com/ChainSafe/lodestar/pull/9887#pullrequestreview-4993589027) - 2026-08-21
+* [Review] [Review on: docs: add historical fork support matrix](https://github.com/ChainSafe/lodestar/pull/9855#pullrequestreview-4993685360) - 2026-08-21
+* [Review] [Review on: test: run standalone SSZ spec tests](https://github.com/ChainSafe/lodestar/pull/9859#pullrequestreview-4993617226) - 2026-08-21
+* [Review] [Review on: refactor: rename ethereumSszSpecsTests key to sszSpecTests](https://github.com/ChainSafe/lodestar/pull/9889#pullrequestreview-4993782913) - 2026-08-21
+* [Review] [Review on: fix: recompute head after pulling up checkpoints](https://github.com/ChainSafe/lodestar/pull/9864#pullrequestreview-4993652516) - 2026-08-21
+* [Review] [Review on: feat(bls): suggestion for bls metrics](https://github.com/ChainSafe/lodestar/pull/9885#pullrequestreview-4993413193) - 2026-08-21
+* [Review] [Review on: fix: treat dial timeouts as HighToleranceError for all methods](https://github.com/ChainSafe/lodestar/pull/9877#pullrequestreview-4993404642) - 2026-08-21
+* [Review] [Review on: fix: contain errors thrown while sending events to a client](https://github.com/ChainSafe/lodestar/pull/9871#pullrequestreview-4989026119) - 2026-08-21
+* [Review] [Review on: fix(state-transition): use shared pubkey cache in Gloas tests](https://github.com/ChainSafe/lodestar/pull/9880#pullrequestreview-4989002043) - 2026-08-21
+* [Commit] [fix: fallback when native chacha20-poly1305 is unavailable (#9879)](https://github.com/ChainSafe/lodestar/commit/ee197a8d7f1aa63d90c90abb48f9231a0fbcc87e) - 2026-08-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -209,6 +221,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: prepare 1.0.0 release (#576)](https://github.com/ChainSafe/lodestar-z/commit/20b657b34ee9f0b643590496e7c212481909d51d) - 2026-08-19
 * [Commit] [feat(shuffle): add swap-or-not shuffling module and binding (#559)](https://github.com/ChainSafe/lodestar-z/commit/c2db37ce1b405e2d39e6180b3f45a24d7c312ca4) - 2026-08-19
 * [Commit] [chore: update zapi to 4.0.0 (#571)](https://github.com/ChainSafe/lodestar-z/commit/de8e3fd1da17ab9e9feb8a2521c8027f284254a3) - 2026-08-19
+* [Review] [Review on: chore(docs): document bls/pk cache trust assumptions](https://github.com/ChainSafe/lodestar-z/pull/585#pullrequestreview-4994683302) - 2026-08-21
+* [Review] [Review on: refactor(pubkeys): drop deserialized lookup wrappers](https://github.com/ChainSafe/lodestar-z/pull/584#pullrequestreview-4994578371) - 2026-08-21
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

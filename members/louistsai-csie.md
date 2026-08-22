@@ -120,6 +120,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: bug(test-base-types): Conversion methods use `ValueError`](https://github.com/ethereum/execution-specs/pull/3394#pullrequestreview-4968058236) - 2026-08-19
 * [Issue] [Issue tracker for performance improvement to `fill` & `fill-stateful`](https://github.com/ethereum/execution-specs/issues/3395) - 2026-08-19
 * [Review] [Review on: feat(tests): EIP-7928 - union reverted storage reads across transactions](https://github.com/ethereum/execution-specs/pull/3399#pullrequestreview-4978602788) - 2026-08-20
+* [Review] [Review on: feat(test-benchmark): more worst case scenario](https://github.com/ethereum/execution-specs/pull/3349#pullrequestreview-4992237627) - 2026-08-21
+* [Pull Request] [refactor(test-benchmark): migrate benchmark suite to devnet-8](https://github.com/ethereum/execution-specs/pull/3411) - 2026-08-21
 ## Q2 2026
 
 

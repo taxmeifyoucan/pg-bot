@@ -87,6 +87,52 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #531 from 0xTylerHolmes/remove-tyler](https://github.com/protocolguild/documentation/commit/8f1998917373b4210b077abfe3ddf1de48ca20aa) - 2026-08-05
 * [Commit] [Add new nested safe](https://github.com/protocolguild/documentation/commit/69ed5424c078dc0c37ba08af1d3f83f2ddac4c10) - 2026-08-10
 * [Pull Request] [Rename "working groups" to "teams" and adjust categories](https://github.com/protocolguild/documentation/pull/534) - 2026-08-19
+* [Pull Request] [Add EthCoordinate team + remove Execution/Consensus Coordination](https://github.com/protocolguild/documentation/pull/548) - 2026-08-21
+* [Pull Request] [Add Post-Quantum (EF) team](https://github.com/protocolguild/documentation/pull/540) - 2026-08-21
+* [Pull Request] [Add EthLabs team (and remove RIG)](https://github.com/protocolguild/documentation/pull/539) - 2026-08-21
+* [Pull Request] [Update Independent / Uncategorized](https://github.com/protocolguild/documentation/pull/547) - 2026-08-21
+* [Pull Request] [Update Specs (EF) team](https://github.com/protocolguild/documentation/pull/546) - 2026-08-21
+* [Pull Request] [Update Devops team](https://github.com/protocolguild/documentation/pull/545) - 2026-08-21
+* [Pull Request] [Add Ethereum Cat Herders](https://github.com/protocolguild/documentation/pull/542) - 2026-08-21
+* [Pull Request] [Add TXRX](https://github.com/protocolguild/documentation/pull/544) - 2026-08-21
+* [Pull Request] [Remove EthereumJS](https://github.com/protocolguild/documentation/pull/543) - 2026-08-21
+* [Pull Request] [Update "Client Development" tables' formatting + split Nimbus into EL/CL](https://github.com/protocolguild/documentation/pull/541) - 2026-08-21
+* [Pull Request] [Update Finality team](https://github.com/protocolguild/documentation/pull/538) - 2026-08-21
+* [Pull Request] [Update Architecture team](https://github.com/protocolguild/documentation/pull/536) - 2026-08-21
+* [Pull Request] [Update Cryptography team](https://github.com/protocolguild/documentation/pull/535) - 2026-08-21
+* [Pull Request] [Remove Protocol Prototyping team + move Milos and Rahul to independent](https://github.com/protocolguild/documentation/pull/537) - 2026-08-21
+* [Commit] [Update Reth entity + fix member link](https://github.com/protocolguild/documentation/commit/7d97766ded3e8af92655b2ac68cd97f8434a010d) - 2026-08-21
+* [Commit] [Merge pull request #547 from protocolguild/cheeky-gorilla-patch-23](https://github.com/protocolguild/documentation/commit/aaca45c0dbd71fa8a1a385b8785b780d6a5dcfd4) - 2026-08-21
+* [Commit] [Update Independent / Uncategorized](https://github.com/protocolguild/documentation/commit/fba490bf4fd7ad3d9d95db4788c1be86e0e999b6) - 2026-08-21
+* [Commit] [Merge pull request #546 from protocolguild/cheeky-gorilla-patch-22](https://github.com/protocolguild/documentation/commit/0bfa78d8ce214c8fd0d44d5cca63ecfd856fe4ce) - 2026-08-21
+* [Commit] [Update Specs (EF) team](https://github.com/protocolguild/documentation/commit/0e44cc330cdd876bc6c092c3c82e8a00e158fb60) - 2026-08-21
+* [Commit] [Merge pull request #545 from protocolguild/cheeky-gorilla-patch-21](https://github.com/protocolguild/documentation/commit/61c5e9aef52a2469315d7ec13d24a7d21abbd744) - 2026-08-21
+* [Commit] [Update Devops team ](https://github.com/protocolguild/documentation/commit/fd57266db1b1e36b8b9658ea1349732807df1959) - 2026-08-21
+* [Commit] [Update formatting of PG Ops team](https://github.com/protocolguild/documentation/commit/938742fc81924ded1204e5ff5706b66fecfba87b) - 2026-08-21
+* [Commit] [Update formatting of Security team](https://github.com/protocolguild/documentation/commit/f44d7b4f13f71c6a1dbee47f3185b715f4ce095e) - 2026-08-21
+* [Commit] [Merge pull request #544 from protocolguild/cheeky-gorilla-patch-20](https://github.com/protocolguild/documentation/commit/d94b4d1a50eb8f047595cb7e5dfdf5b4f54b5edd) - 2026-08-21
+* [Commit] [Add TXRX](https://github.com/protocolguild/documentation/commit/6095eb730502444d894dce0fbb71177c3e8000b5) - 2026-08-21
+* [Commit] [Remove duplicate Pooja](https://github.com/protocolguild/documentation/commit/1393ecb52b34243f2dc0d37ea835225ce4c0d746) - 2026-08-21
+* [Commit] [Merge pull request #543 from protocolguild/cheeky-gorilla-patch-19](https://github.com/protocolguild/documentation/commit/fb9ffff3febdbffe96475e714823a7801056fc0f) - 2026-08-21
+* [Commit] [Remove EthereumJS](https://github.com/protocolguild/documentation/commit/458d3ca36fc80ba0688e9861709f1d838d948e8d) - 2026-08-21
+* [Commit] [Merge pull request #542 from protocolguild/cheeky-gorilla-patch-18](https://github.com/protocolguild/documentation/commit/2a6e5ae3f4aaa9b0a5492fd9ffefc8bd3d78d960) - 2026-08-21
+* [Commit] [Add Ethereum Cat Herders](https://github.com/protocolguild/documentation/commit/ded39a080a955b449f7b17b02e7d4de33c13b109) - 2026-08-21
+* [Commit] [Merge "Upgrade + Maintenance Support" tables](https://github.com/protocolguild/documentation/commit/6e94717cfbb41e4589ca02ab679de594179ba0aa) - 2026-08-21
+* [Commit] [Merge pull request #541 from protocolguild/cheeky-gorilla-patch-17](https://github.com/protocolguild/documentation/commit/4d65bc9181695d50d6cf9ca4b14f8cf180871b64) - 2026-08-21
+* [Commit] [Update Client Development tables' formatting + split Nimbus into EL and CL](https://github.com/protocolguild/documentation/commit/95b7400a3a549f1b4f507999eccd96c8b42284e6) - 2026-08-21
+* [Commit] [Merge pull request #538 from protocolguild/cheeky-gorilla-patch-14](https://github.com/protocolguild/documentation/commit/5ca454a7b50bde6f3bda852215f8fecd033edc47) - 2026-08-21
+* [Commit] [Update Finality team](https://github.com/protocolguild/documentation/commit/ace0b9deb54f945f55109fe0b90389f10c9f512f) - 2026-08-21
+* [Commit] [Merge pull request #537 from protocolguild/cheeky-gorilla-patch-13](https://github.com/protocolguild/documentation/commit/ed177cc54f8d00e46deb892c25a5a8683f2ee151) - 2026-08-21
+* [Commit] [Remove Protocol Prototyping team + move Milos and Rahul to independent](https://github.com/protocolguild/documentation/commit/6527b34d9eb331d0566fc2dd0533cdf49f0838a4) - 2026-08-21
+* [Commit] [Move Yoav to new Independent / Uncategorized category](https://github.com/protocolguild/documentation/commit/5c81a90ffe4db004f22b3e608eb7381f96da6eae) - 2026-08-21
+* [Commit] [Update Stateless count format](https://github.com/protocolguild/documentation/commit/33ee3ed63b45706fd46d5fa1e5acc63893d322fb) - 2026-08-21
+* [Commit] [Update zkEVM team count format](https://github.com/protocolguild/documentation/commit/91c8dcc348ed3f23f438515db45f4c4b93bf86d5) - 2026-08-21
+* [Commit] [Merge pull request #536 from protocolguild/cheeky-gorilla-patch-12](https://github.com/protocolguild/documentation/commit/5287f0c0440d1fd2688c4224429647e5228e9d9e) - 2026-08-21
+* [Commit] [Update Architecture team](https://github.com/protocolguild/documentation/commit/4804f45e8027c3c7f0102ad0788df573b440d707) - 2026-08-21
+* [Commit] [Update Networking team](https://github.com/protocolguild/documentation/commit/7e5b3841f4f4491155b1bcd26b1a0a0a9b71eb92) - 2026-08-21
+* [Commit] [Merge pull request #535 from protocolguild/cheeky-gorilla-patch-11](https://github.com/protocolguild/documentation/commit/50531dc890d9abf70e8a673a73975ed910affe40) - 2026-08-21
+* [Commit] [Update Cryptography team](https://github.com/protocolguild/documentation/commit/fb7b64811661fa094ad4387dc606d31d492ec9d1) - 2026-08-21
+* [Commit] [Merge pull request #534 from protocolguild/cheeky-gorilla-patch-10](https://github.com/protocolguild/documentation/commit/3aa65e3d5ffea94ac989df070aca83eede65c0a9) - 2026-08-21
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/e6b14d7ca4339655efae86d7ad13a05fb14f43ee) - 2026-07-07
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/575f773fb569863447ec1e75d194b1ab0a05f41f) - 2026-07-07

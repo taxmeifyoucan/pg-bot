@@ -312,6 +312,22 @@ Team: Erigon
 * [Issue] [cl/persistence/blob_storage: flat 10k-slot bucket directories reach 1.28M entries on a supernode](https://github.com/erigontech/erigon/issues/23426) - 2026-08-20
 * [Issue] [db/datadir: RenameOldVersions walks the caplin sidecar directories on every start for a prefix they cannot have](https://github.com/erigontech/erigon/issues/23429) - 2026-08-20
 * [Commit] [execution/commitment, execution/stagedsync: stop allocating an arena per block (#23401)](https://github.com/erigontech/erigon/commit/3d48dd24d6a88bef28d694bee37af0f0c36cb16e) - 2026-08-20
+* [Pull Request] [db/datadir: drop caplin sidecar dirs from the startup rename walks](https://github.com/erigontech/erigon/pull/23468) - 2026-08-21
+* [Pull Request] [cl/antiquary: remove overlapping caplin state segments after each dump](https://github.com/erigontech/erigon/pull/23471) - 2026-08-21
+* [Pull Request] [db/downloader: bound kept-snapshot seeding and make abandonment observable](https://github.com/erigontech/erigon/pull/23472) - 2026-08-21
+* [Pull Request] [cmd/utils/app: export preimages in EIP-8347 keccak256 hashed-key order](https://github.com/erigontech/erigon/pull/23473) - 2026-08-21
+* [Pull Request] [cl, cmd: collapse the caplin hot sidecar stores onto one bucket store](https://github.com/erigontech/erigon/pull/23451) - 2026-08-21
+* [Review] [Review on: cl, cmd: collapse the caplin hot sidecar stores onto one bucket store](https://github.com/erigontech/erigon/pull/23451#pullrequestreview-4992891115) - 2026-08-21
+* [Pull Request] [execution/chain: compare the timestamp forks in checkCompatible, not just the block ones](https://github.com/erigontech/erigon/pull/23466) - 2026-08-21
+* [Review] [Review on: db/snapcfg: log preverified drops by reason instead of one warn for all](https://github.com/erigontech/erigon/pull/23422#pullrequestreview-4991503979) - 2026-08-21
+* [Review] [Review on: [r3.5] prune: txlookup mis-used startFrom parameter](https://github.com/erigontech/erigon/pull/23392#pullrequestreview-4989925241) - 2026-08-21
+* [Pull Request] [execution: give the Amsterdam genesis header a slotNumber](https://github.com/erigontech/erigon/pull/23449) - 2026-08-21
+* [Issue] [db/snapshotsync: RemoveOverlaps deletes every .tmp in its dir, racing concurrent merges](https://github.com/erigontech/erigon/issues/23470) - 2026-08-21
+* [Issue] [db/snapshotsync: RemoveOverlaps cannot unlink caplin beacon-block overlaps, leaving them orphaned](https://github.com/erigontech/erigon/issues/23469) - 2026-08-21
+* [Issue] [cmd/caplin: OpenCaplinDatabase takes an ethClock it no longer uses](https://github.com/erigontech/erigon/issues/23450) - 2026-08-21
+* [Issue] [db/downloader: kept-snapshot seeding fans out unbounded and abandon() joins it uncancellably](https://github.com/erigontech/erigon/issues/23448) - 2026-08-21
+* [Commit] [cmd/utils/app: export preimages in EIP-8347 keccak256 hashed-key order (#23473)](https://github.com/erigontech/erigon/commit/fd1061bb4acfa36075a0a9cc4ab6c2258b1eafb0) - 2026-08-21
+* [Commit] [execution: give the Amsterdam genesis header a slotNumber (#23449)](https://github.com/erigontech/erigon/commit/70aff3c5b744258e4a4194353d4dfd5283577dba) - 2026-08-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

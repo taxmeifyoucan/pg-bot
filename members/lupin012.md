@@ -144,6 +144,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[r3.5] docs: fix bor_getVoteOnHash parameters and result type](https://github.com/erigontech/erigon/pull/23445) - 2026-08-20
 * [Pull Request] [docs: fix bor_getVoteOnHash parameters and result type](https://github.com/erigontech/erigon/pull/23427) - 2026-08-20
 * [Pull Request] [rpc/jsonrpc: erigon_getLogsByHash returns [] for zero-log receipts](https://github.com/erigontech/erigon/pull/23430) - 2026-08-20
+* [Review] [Review on: rpc/jsonrpc: erigon_getLogsByHash returns [] for zero-log receipts](https://github.com/erigontech/erigon/pull/23430#pullrequestreview-4992444286) - 2026-08-21
+* [Commit] [rpc/jsonrpc: erigon_getLogsByHash returns [] for zero-log receipts (#23430)](https://github.com/erigontech/erigon/commit/4e85d9eb8fa0f814cbd89e108080fc869df559e6) - 2026-08-21
+* [Commit] [docs: fix bor_getVoteOnHash parameters and result type (#23427)](https://github.com/erigontech/erigon/commit/da31ae700988af7a0633452402dbc245826aed2f) - 2026-08-21
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -159,6 +162,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: integration_test: debug_traceBlockByNumber(pending) now returns an error](https://github.com/erigontech/rpc-tests/pull/588#pullrequestreview-4962632949) - 2026-08-18
 * [Review] [Review on: fix: rename ErigonLog.Timestamp to BlockTimestamp](https://github.com/erigontech/rpc-tests/pull/589#pullrequestreview-4972186926) - 2026-08-19
 * [Pull Request] [erigon_getLogsByHash: expect [] instead of null for receipts with no logs](https://github.com/erigontech/rpc-tests/pull/591) - 2026-08-20
+* [Commit] [erigon_getLogsByHash: expect [] instead of null for receipts with no logs (#591)](https://github.com/erigontech/rpc-tests/commit/73992926bb41ecc29f9d48f4a93a8acddc3117ed) - 2026-08-21
 ## Q2 2026
 
 

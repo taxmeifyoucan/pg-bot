@@ -77,6 +77,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Only reject gossip blocks that build on an invalid parent payload](https://github.com/OffchainLabs/prysm/pull/17389#pullrequestreview-4985445079) - 2026-08-20
 * [Commit] [Produce PTC attestations during the first two epochs (#17377)](https://github.com/OffchainLabs/prysm/commit/749ee70577fa5164af737ac86b79d30c1e63aa4b) - 2026-08-20
 * [Commit] [Do not migrate a cold state built from a reorged-out block (#17371)](https://github.com/OffchainLabs/prysm/commit/91b97b6b3da72327638121eba14d2b76f1904ff2) - 2026-08-20
+* [Review] [Review on: stream hdiff validator comparison](https://github.com/OffchainLabs/prysm/pull/17396#pullrequestreview-4996725523) - 2026-08-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

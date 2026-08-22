@@ -58,6 +58,11 @@ Team: Grandine
 * [Review] [Review on: Use genesis block root as dependent root for the first 2 epochs](https://github.com/grandinetech/grandine/pull/846#pullrequestreview-4924936706) - 2026-08-13
 * [Review] [Review on: Add missing Gloas spec values to /eth/v1/config/spec](https://github.com/grandinetech/grandine/pull/847#pullrequestreview-4937446884) - 2026-08-14
 * [Review] [Review on: Consensus spec alpha14](https://github.com/grandinetech/grandine/pull/856#pullrequestreview-4980075126) - 2026-08-20
+* [Pull Request] [Updated SSZ spec runner](https://github.com/grandinetech/grandine/pull/858) - 2026-08-21
+* [Review] [Review on: Updated SSZ spec runner](https://github.com/grandinetech/grandine/pull/858#pullrequestreview-4992411510) - 2026-08-21
+* [Review] [Review on: Add gas limit schedule config](https://github.com/grandinetech/grandine/pull/854#pullrequestreview-4991272219) - 2026-08-21
+* [Issue] [Fix glamsterdam-devnet-8 branch build](https://github.com/grandinetech/grandine/issues/862) - 2026-08-21
+* [Issue] [Investigate Glamsterdam devnet 8 missing blocks](https://github.com/grandinetech/grandine/issues/861) - 2026-08-21
 ## Q2 2026
 
 

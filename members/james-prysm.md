@@ -165,6 +165,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [fixing ux bug on default hosts log](https://github.com/OffchainLabs/prysm/pull/17388) - 2026-08-20
 * [Commit] [fixes found around stateless flows (#17391)](https://github.com/OffchainLabs/prysm/commit/d490ed0ac83afb55c0ca9ea067a4e9fde778773f) - 2026-08-20
 * [Commit] [fixing ux bug on default hosts log (#17388)](https://github.com/OffchainLabs/prysm/commit/b7ca6823f0b898d25e66dbbd11743d0a4041eefa) - 2026-08-20
+* [Pull Request] [connecting validator client builder apis for gloas ](https://github.com/OffchainLabs/prysm/pull/17397) - 2026-08-21
 ## Q2 2026
 
 

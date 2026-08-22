@@ -352,6 +352,31 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [fix: keep event stream alive if an event can not be serialized](https://github.com/ChainSafe/lodestar/pull/9872) - 2026-08-20
 * [Pull Request] [fix: keep event stream alive if an event can not be serialized](https://github.com/ChainSafe/lodestar/pull/9867) - 2026-08-20
 * [Review] [Review on: fix(builder): catch transient failures on getStateBuilders](https://github.com/ChainSafe/lodestar/pull/9868#pullrequestreview-4982256061) - 2026-08-20
+* [Review] [Review on: refactor: assert BeaconEvent type in eventstream handler](https://github.com/ChainSafe/lodestar/pull/9894#pullrequestreview-4997602684) - 2026-08-21
+* [Pull Request] [test: cover malformed pubkeys in the batch deposit signature helper](https://github.com/ChainSafe/lodestar/pull/9891) - 2026-08-21
+* [Review] [Review on: test: cover malformed pubkeys in the batch deposit signature helper](https://github.com/ChainSafe/lodestar/pull/9891#pullrequestreview-4997359036) - 2026-08-21
+* [Pull Request] [deps: bump ssz to 1.6.3](https://github.com/ChainSafe/lodestar/pull/9890) - 2026-08-21
+* [Pull Request] [docs: correct pre-verify scanner capacity with measured throughput](https://github.com/ChainSafe/lodestar/pull/9892) - 2026-08-21
+* [Pull Request] [feat: add api submitted attestations to fork choice](https://github.com/ChainSafe/lodestar/pull/9888) - 2026-08-21
+* [Review] [Review on: fix: handle attributable peers on range sync](https://github.com/ChainSafe/lodestar/pull/9836#pullrequestreview-4995825228) - 2026-08-21
+* [Pull Request] [fix: always add api attestations to the pool](https://github.com/ChainSafe/lodestar/pull/9886) - 2026-08-21
+* [Review] [Review on: fix: always add api attestations to the pool](https://github.com/ChainSafe/lodestar/pull/9886#pullrequestreview-4993281192) - 2026-08-21
+* [Pull Request] [refactor(network): resolve zero peers publish policy per topic](https://github.com/ChainSafe/lodestar/pull/9887) - 2026-08-21
+* [Review] [Review on: refactor(network): resolve zero peers publish policy per topic](https://github.com/ChainSafe/lodestar/pull/9887#pullrequestreview-4993610437) - 2026-08-21
+* [Review] [Review on: fix: key payload attesters by slot](https://github.com/ChainSafe/lodestar/pull/9882#pullrequestreview-4991005650) - 2026-08-21
+* [Review] [Review on: docs: add historical fork support matrix](https://github.com/ChainSafe/lodestar/pull/9855#pullrequestreview-4993816199) - 2026-08-21
+* [Review] [Review on: test: run standalone SSZ spec tests](https://github.com/ChainSafe/lodestar/pull/9859#pullrequestreview-4993628659) - 2026-08-21
+* [Review] [Review on: fix: prune prefinalized pending items in BlockInputSync](https://github.com/ChainSafe/lodestar/pull/9852#pullrequestreview-4992830636) - 2026-08-21
+* [Review] [Review on: fix: ignore proposer preferences for pre-gloas proposal slots](https://github.com/ChainSafe/lodestar/pull/9869#pullrequestreview-4991116104) - 2026-08-21
+* [Review] [Review on: fix: contain errors thrown while sending events to a client](https://github.com/ChainSafe/lodestar/pull/9871#pullrequestreview-4990876232) - 2026-08-21
+* [Review] [Review on: fix: fallback when native chacha20-poly1305 is unavailable](https://github.com/ChainSafe/lodestar/pull/9879#pullrequestreview-4992122056) - 2026-08-21
+* [Commit] [deps: bump ssz to 1.6.3 (#9890)](https://github.com/ChainSafe/lodestar/commit/da8dfeabda3394a8d14ae167b3582881b451e293) - 2026-08-21
+* [Commit] [fix: always add api attestations to the pool (#9886)](https://github.com/ChainSafe/lodestar/commit/57f6ac1a8bc99d882c35586c4cc2f04242fe86a7) - 2026-08-21
+* [Commit] [refactor(network): resolve zero peers publish policy per topic (#9887)](https://github.com/ChainSafe/lodestar/commit/c746ec6a07a98a92c7bdb96bb410db307934f7b8) - 2026-08-21
+* [Commit] [test: run standalone SSZ spec tests (#9859)](https://github.com/ChainSafe/lodestar/commit/be9d5b774dbd441172cb55d9640538285757d7ba) - 2026-08-21
+* [Commit] [fix: treat dial timeouts as HighToleranceError for all methods (#9877)](https://github.com/ChainSafe/lodestar/commit/9c75ac2a0f9d89aa57dee63e9ddc9fa9e142fb42) - 2026-08-21
+* [Commit] [fix: ignore proposer preferences for pre-gloas proposal slots (#9869)](https://github.com/ChainSafe/lodestar/commit/a64cdf7144fb8f8556564f0e4703638cdf2a775d) - 2026-08-21
+* [Commit] [fix: contain errors thrown while sending events to a client (#9871)](https://github.com/ChainSafe/lodestar/commit/34f6f273fed31d36d3d9e76319b70fc5cae6c5e1) - 2026-08-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -398,6 +423,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Allow epoch boundary reorgs in Fulu (#5547)](https://github.com/ethereum/consensus-specs/commit/0524372ef7a2d7878a3906ee642d82c1a8ca52b3) - 2026-08-18
 * [Review] [Review on: Expand `PTC` to `PayloadTimelinessCommittee` in type names](https://github.com/ethereum/consensus-specs/pull/5558#pullrequestreview-4985031474) - 2026-08-20
 * [Review] [Review on: Initialize anchor PTC vote arrays in `get_forkchoice_store`](https://github.com/ethereum/consensus-specs/pull/5545#pullrequestreview-4981966138) - 2026-08-20
+* [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991156148) - 2026-08-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
@@ -440,6 +466,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Issue] [Proposer preferences broadcast for pre-Gloas proposal slots in the epoch before the fork](https://github.com/grandinetech/grandine/issues/857) - 2026-08-20
+
+[status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
+* [Issue] [VC always sends is_aggregator: false in beacon committee subscriptions](https://github.com/status-im/nimbus-eth2/issues/8923) - 2026-08-21
 ## Q2 2026
 
 

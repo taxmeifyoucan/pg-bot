@@ -181,6 +181,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Fixes: GHSA-h594-ww62-rcxv fix logging issue with invalid discv4 packet (#11093)](https://github.com/besu-eth/besu/commit/de54bf9be0aa37c057a5f9b9e924aa3f09c504b1) - 2026-08-20
 * [Commit] [Fixes: GHSA-pr92-c4mc-x48r Remove System.out and System.err logging from P256VerifyPrecompile (#11092)](https://github.com/besu-eth/besu/commit/fbfb5f9ecdecadb88eb9acd6407e33006afaac87) - 2026-08-20
 * [Commit] [Changelog rotate for 26.8.0 (#11090)](https://github.com/besu-eth/besu/commit/afb8b736bf0923c17966e31ae08b23e8b245538e) - 2026-08-20
+* [Review] [Review on: Fix invalid code delegations in txpool](https://github.com/besu-eth/besu/pull/11108#pullrequestreview-4989361494) - 2026-08-21
+* [Issue] [snap request metrics globalInFlightRequests edge cases](https://github.com/besu-eth/besu/issues/11122) - 2026-08-21
+* [Commit] [Fixes: GHSA-pcv4-pxhv-99m7 Cap concurrent snap/1-2 GET_* requests scheduled onto EthScheduler (#11101)](https://github.com/besu-eth/besu/commit/683880baa609111e6fee47ef1122dce7a76a154b) - 2026-08-21
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

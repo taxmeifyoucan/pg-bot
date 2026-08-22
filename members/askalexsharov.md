@@ -965,6 +965,40 @@ Team: Erigon
 * [Commit] [execution/stagedsync: compute a tx's fee credit once, not on every revalidation (#23132)](https://github.com/erigontech/erigon/commit/80dc4ad44d3a99d5ac9929454cf76e4c590b2f2c) - 2026-08-20
 * [Commit] [db/downloader: keep local snapshot data once the initial download is complete (#23350)](https://github.com/erigontech/erigon/commit/78fa717893ec97ce7760097fe6b9e6a9d8cd4d8a) - 2026-08-20
 * [Commit] [prune: txlookup mis-used startFrom parameter (#23390)](https://github.com/erigontech/erigon/commit/5ab3deb9e2ce538d68e59e9a7461e919b06e33b7) - 2026-08-20
+* [Review] [Review on: cmd/utils/app: export preimages in EIP-8347 keccak256 hashed-key order](https://github.com/erigontech/erigon/pull/23473#pullrequestreview-4993423926) - 2026-08-21
+* [Pull Request] [execution/tracing: stop materialising hex strings in the struct logger](https://github.com/erigontech/erigon/pull/23456) - 2026-08-21
+* [Review] [Review on: [r3.6] ChangeLog: 3.6.0 "Upstream Underbelly" release notes](https://github.com/erigontech/erigon/pull/23477#pullrequestreview-4993612595) - 2026-08-21
+* [Pull Request] [rpc/jsonstream: flush when the buffer fills, and stop discarding write errors](https://github.com/erigontech/erigon/pull/23481) - 2026-08-21
+* [Pull Request] [rpc: reset the IntraBlockState between CreateAccessList iterations](https://github.com/erigontech/erigon/pull/23454) - 2026-08-21
+* [Pull Request] [rpc: seed the next access-list tracer from the previous one](https://github.com/erigontech/erigon/pull/23455) - 2026-08-21
+* [Pull Request] [cmd/utils/app: address review on the hashed-order preimage export](https://github.com/erigontech/erigon/pull/23483) - 2026-08-21
+* [Pull Request] [node: serve zstd when the client asks for it](https://github.com/erigontech/erigon/pull/23482) - 2026-08-21
+* [Pull Request] [execution/stagedsync: pin the txlookup prune bound check with a test](https://github.com/erigontech/erigon/pull/23457) - 2026-08-21
+* [Pull Request] [db/seg: keep the page decode buffer across PagedReader.Reset](https://github.com/erigontech/erigon/pull/23461) - 2026-08-21
+* [Pull Request] [db/state: flip InvIdxCfg.Disable to InvIdxCfg.Enabled](https://github.com/erigontech/erigon/pull/23447) - 2026-08-21
+* [Review] [Review on: db/state: flip InvIdxCfg.Disable to InvIdxCfg.Enabled](https://github.com/erigontech/erigon/pull/23447#pullrequestreview-4990921696) - 2026-08-21
+* [Review] [Review on: cl, common: reuse snappy stream codecs from a pool](https://github.com/erigontech/erigon/pull/23423#pullrequestreview-4989609797) - 2026-08-21
+* [Pull Request] [db: high-level features unit-tests which cover PagedReader.Reset](https://github.com/erigontech/erigon/pull/23480) - 2026-08-21
+* [Review] [Review on: cl, cmd: collapse the caplin hot sidecar stores onto one bucket store](https://github.com/erigontech/erigon/pull/23451#pullrequestreview-4991073109) - 2026-08-21
+* [Pull Request] [vm: drop redundant return-data copy in CALL/CALLCODE/DELEGATECALL](https://github.com/erigontech/erigon/pull/23479) - 2026-08-21
+* [Review] [Review on: vm: drop redundant return-data copy in CALL/CALLCODE/DELEGATECALL](https://github.com/erigontech/erigon/pull/23479#pullrequestreview-4993415634) - 2026-08-21
+* [Pull Request] [rpc/jsonstream: flush when the buffer fills, not on the caller's schedule](https://github.com/erigontech/erigon/pull/23463) - 2026-08-21
+* [Pull Request] [execution/tracing: only read the stack for opcodes that use it](https://github.com/erigontech/erigon/pull/23467) - 2026-08-21
+* [Review] [Review on: skills: make benchmarkoor skill more generalised (e.g. state actor vs jochemnet style prepopulated snapshots)](https://github.com/erigontech/erigon/pull/23460#pullrequestreview-4991627196) - 2026-08-21
+* [Review] [Review on: [r3.5] prune: txlookup mis-used startFrom parameter](https://github.com/erigontech/erigon/pull/23392#pullrequestreview-4990966800) - 2026-08-21
+* [Pull Request] [db/downloader: bound kept-snapshot seeding and rebuild malformed metainfo](https://github.com/erigontech/erigon/pull/23459) - 2026-08-21
+* [Review] [Review on: execution: give the Amsterdam genesis header a slotNumber](https://github.com/erigontech/erigon/pull/23449#pullrequestreview-4991156235) - 2026-08-21
+* [Issue] [debug_traceTransaction with a negative limit emits invalid JSON](https://github.com/erigontech/erigon/issues/23478) - 2026-08-21
+* [Commit] [execution/tracing: stop materialising hex strings in the struct logger (#23456)](https://github.com/erigontech/erigon/commit/d7b1a3b59f77e8d9dde404572235acb74667dd1e) - 2026-08-21
+* [Commit] [rpc: seed the next access-list tracer from the previous one (#23455)](https://github.com/erigontech/erigon/commit/7b3d68baa59c97bf99dcce5dc18771011a872c24) - 2026-08-21
+* [Commit] [execution/stagedsync: pin the txlookup prune bound check with a test (#23457)](https://github.com/erigontech/erigon/commit/0cfcb616abf31ad5208fd7da1de0de46afcf6fe2) - 2026-08-21
+* [Commit] [db/seg: keep the page decode buffer across PagedReader.Reset (#23461)](https://github.com/erigontech/erigon/commit/ca4c0decf7874036422fb52880b5b1f2acb1374b) - 2026-08-21
+* [Commit] [db/state: flip InvIdxCfg.Disable to InvIdxCfg.Enabled (#23447)](https://github.com/erigontech/erigon/commit/43e35a4e447a60873641e1cc11fdf15fa228c9b0) - 2026-08-21
+* [Commit] [cl, common: reuse snappy stream codecs from a pool (#23423)](https://github.com/erigontech/erigon/commit/7a4cb808f7850aec23747d99921782551a4d015d) - 2026-08-21
+* [Commit] [db/snapcfg: log preverified drops by reason instead of one warn for all (#23422)](https://github.com/erigontech/erigon/commit/9e242308a9d08c1c2c62a407afe752c9fffe0260) - 2026-08-21
+* [Commit] [merge: enable madv_sequential on own `mmap` (#23382)](https://github.com/erigontech/erigon/commit/273b74506de15a1e16543b9e4d854c2712859aee) - 2026-08-21
+* [Commit] [crypto/blake2b: bound input of assembly call (#23317)](https://github.com/erigontech/erigon/commit/bbbf9d6b5e217eaeb3d2ea825efad2ac13c84a60) - 2026-08-21
+* [Commit] [node, rpc: replace the hand-rolled gzip middleware with klauspost gzhttp (#23246)](https://github.com/erigontech/erigon/commit/3075c26cd538a3bc6069b353f51fcbd677871504) - 2026-08-21
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

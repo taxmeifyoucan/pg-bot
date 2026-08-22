@@ -66,6 +66,8 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Update EIP-8081: PFI EIP-8368](https://github.com/ethereum/EIPs/pull/12117#pullrequestreview-4986593287) - 2026-08-20
 * [Review] [Review on: Update EIP-8081: PFI EIP-5920 and EIP-7923](https://github.com/ethereum/EIPs/pull/12078#pullrequestreview-4986571049) - 2026-08-20
 * [Review] [Review on: Update EIP-7773: Remove EIP-7610 from Glamsterdam](https://github.com/ethereum/EIPs/pull/12189#pullrequestreview-4985183693) - 2026-08-20
+* [Pull Request] [Update EIP-8081: remove 8268, add 8077, 8094, 8372](https://github.com/ethereum/EIPs/pull/12225) - 2026-08-21
+* [Commit] [Update EIP-8081: remove 8268, add 8077, 8094, 8372](https://github.com/ethereum/EIPs/commit/5578fa85212631cd59d9b2a53de99bda45b4b175) - 2026-08-21
 ## Q2 2026
 
 

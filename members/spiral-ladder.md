@@ -52,6 +52,13 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: perf: verify BLS signature sets with lodestar-z](https://github.com/ChainSafe/lodestar/pull/9820#pullrequestreview-4962777838) - 2026-08-18
 * [Pull Request] [feat(bls): update metrics for zig pk cache](https://github.com/ChainSafe/lodestar/pull/9844) - 2026-08-18
 * [Review] [Review on: refactor(state-transition): use Lodestar-Z signature verifier](https://github.com/ChainSafe/lodestar/pull/9863#pullrequestreview-4979427439) - 2026-08-20
+* [Review] [Review on: refactor(bls): avoid materializing cached pubkeys in tests](https://github.com/ChainSafe/lodestar/pull/9884#pullrequestreview-4990700323) - 2026-08-21
+* [Pull Request] [feat(bls): suggestion for bls metrics](https://github.com/ChainSafe/lodestar/pull/9885) - 2026-08-21
+* [Review] [Review on: fix: treat dial timeouts as HighToleranceError for all methods](https://github.com/ChainSafe/lodestar/pull/9877#pullrequestreview-4992268177) - 2026-08-21
+* [Review] [Review on: fix: ignore proposer preferences for pre-gloas proposal slots](https://github.com/ChainSafe/lodestar/pull/9869#pullrequestreview-4992470228) - 2026-08-21
+* [Review] [Review on: fix: contain errors thrown while sending events to a client](https://github.com/ChainSafe/lodestar/pull/9871#pullrequestreview-4992065487) - 2026-08-21
+* [Review] [Review on: fix: fallback when native chacha20-poly1305 is unavailable](https://github.com/ChainSafe/lodestar/pull/9879#pullrequestreview-4992083112) - 2026-08-21
+* [Commit] [feat(blst): use lodestar-z blst (#8900)](https://github.com/ChainSafe/lodestar/commit/931ecbec99db681a3c2e5749a41e1253e3842249) - 2026-08-21
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -158,6 +165,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: feat(shuffle): add swap-or-not shuffling module and binding](https://github.com/ChainSafe/lodestar-z/pull/559#pullrequestreview-4971623941) - 2026-08-19
 * [Review] [Review on: chore: update zapi to 4.0.0](https://github.com/ChainSafe/lodestar-z/pull/571#pullrequestreview-4968588064) - 2026-08-19
 * [Commit] [chore: deprecate unused blst APIs (#575)](https://github.com/ChainSafe/lodestar-z/commit/7b547fa29377a8f7f457448418b0c24ce57126af) - 2026-08-19
+* [Pull Request] [chore(docs): document bls/pk cache trust assumptions](https://github.com/ChainSafe/lodestar-z/pull/585) - 2026-08-21
+* [Review] [Review on: chore(docs): document bls/pk cache trust assumptions](https://github.com/ChainSafe/lodestar-z/pull/585#pullrequestreview-4990718581) - 2026-08-21
+* [Review] [Review on: refactor(pubkeys): drop deserialized lookup wrappers](https://github.com/ChainSafe/lodestar-z/pull/584#pullrequestreview-4990204528) - 2026-08-21
+* [Commit] [chore(docs): document bls/pk cache trust assumptions (#585)](https://github.com/ChainSafe/lodestar-z/commit/66ecb2315943f7a0ea2d1a718575be415a4328ae) - 2026-08-21
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

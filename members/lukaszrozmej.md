@@ -214,6 +214,8 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf(evm): front the EVM call pools with a per-thread free list](https://github.com/NethermindEth/nethermind/pull/12905#pullrequestreview-4980065366) - 2026-08-20
 * [Review] [Review on: build(zisk): bump Zisk to 1.1.0-alpha](https://github.com/NethermindEth/nethermind/pull/12910#pullrequestreview-4980440721) - 2026-08-20
 * [Commit] [perf: Iterators pool for archive index (#12813)](https://github.com/NethermindEth/nethermind/commit/2d1f2fc0ed7fdd6707dc0cb5d3a8e1a33b2d3e6c) - 2026-08-20
+* [Review] [Review on: fix(flat): isolate the trie warmer negative cache (InvalidStateRoot on Flat live-head sync)](https://github.com/NethermindEth/nethermind/pull/12924#pullrequestreview-4993057704) - 2026-08-21
+* [Review] [Review on: Add unit tests for IpcSocketMessageStream framing edge cases](https://github.com/NethermindEth/nethermind/pull/12898#pullrequestreview-4994703965) - 2026-08-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

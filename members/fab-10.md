@@ -132,6 +132,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Fixes: GHSA-pcv4-pxhv-99m7 Cap concurrent snap/1-2 GET_* requests scheduled onto EthScheduler](https://github.com/besu-eth/besu/pull/11101#pullrequestreview-4980469669) - 2026-08-20
 * [Review] [Review on: Fixes: GHSA-h594-ww62-rcxv fix logging issue with invalid discv4 packet](https://github.com/besu-eth/besu/pull/11093#pullrequestreview-4980179902) - 2026-08-20
 * [Review] [Review on: Fixes: GHSA-pr92-c4mc-x48r Remove System.out and System.err logging from P256VerifyPrecompile](https://github.com/besu-eth/besu/pull/11092#pullrequestreview-4979983352) - 2026-08-20
+* [Commit] [Fix invalid code delegations in txpool (#11108)](https://github.com/besu-eth/besu/commit/7d3157808be0c5180a7f189b4a44f3d36ff4612f) - 2026-08-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

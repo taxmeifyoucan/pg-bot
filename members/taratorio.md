@@ -273,6 +273,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution: remove MeteredGetter and MeteredGetterWithTxN](https://github.com/erigontech/erigon/pull/23421#pullrequestreview-4980592319) - 2026-08-20
 * [Commit] [execution: optimise incoming bal encoding/decoding/validation path (#23417)](https://github.com/erigontech/erigon/commit/1a2bd8726274c1b075c07c95a234639de03adb25) - 2026-08-20
 * [Commit] [execution: remove MeteredGetter and MeteredGetterWithTxN (#23421)](https://github.com/erigontech/erigon/commit/043dc4e4b7c6d8668ae7b7fc61565bfd695002d7) - 2026-08-20
+* [Review] [Review on: [r3.6] ChangeLog: 3.6.0 "Upstream Underbelly" release notes](https://github.com/erigontech/erigon/pull/23477#pullrequestreview-4994738224) - 2026-08-21
+* [Pull Request] [skills: make benchmarkoor skill more generalised (e.g. state actor vs jochemnet style prepopulated snapshots)](https://github.com/erigontech/erigon/pull/23460) - 2026-08-21
+* [Commit] [skills: make benchmarkoor skill more generalised (e.g. state actor vs jochemnet style prepopulated snapshots) (#23460)](https://github.com/erigontech/erigon/commit/cca0e976e40ecc6dd0b165a8219be1c37566ad1c) - 2026-08-21
+* [Commit] [db/seg: code multi page warmup followups   (#23443)](https://github.com/erigontech/erigon/commit/48c831c012a1ac861f82cad9d508a51e02ee18f4) - 2026-08-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

@@ -198,6 +198,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [t8n: Emit the real receipt status, root and logs](https://github.com/ipsilon/evmone/pull/1667) - 2026-08-20
 * [Pull Request] [crypto: Rename ModArith to MontgomeryArith](https://github.com/ipsilon/evmone/pull/1666) - 2026-08-20
 * [Commit] [t8n: Emit the real receipt status, root and logs (#1667)](https://github.com/ipsilon/evmone/commit/46ffdcef43a4289be83b6acb056c2d9d297f64fe) - 2026-08-20
+* [Commit] [Use gas_left uniformly in halting instruction results (#1669)](https://github.com/ipsilon/evmone/commit/afe75b50bfa95275a0cfe36b426d61895195dcdc) - 2026-08-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

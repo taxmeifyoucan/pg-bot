@@ -86,6 +86,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [KVT block hashes cache](https://github.com/status-im/nimbus-eth1/pull/4662) - 2026-08-20
 * [Commit] [Fix devp2p BAL fetching (#4665)](https://github.com/status-im/nimbus-eth1/commit/7365dc1dd30aa827412bcb217277324dad29a2e8) - 2026-08-20
 * [Commit] [KVT block hashes cache (#4662)](https://github.com/status-im/nimbus-eth1/commit/e3c7ae3d427a416ba28466a1ce42eca7015dde15) - 2026-08-20
+* [Pull Request] [KVT put and receipt root optimization](https://github.com/status-im/nimbus-eth1/pull/4671) - 2026-08-21
+* [Commit] [KVT put and receipt root optimization (#4671)](https://github.com/status-im/nimbus-eth1/commit/4e225c6169b0775c90e46c8097ccd7fa1676f2ac) - 2026-08-21
 ## Q2 2026
 
 

@@ -523,6 +523,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [rpc: resolve committed block targets and execution progress in one helper](https://github.com/erigontech/erigon/issues/23424) - 2026-08-20
 * [Issue] [rpc: centralize block-selector validation without changing endpoint errors](https://github.com/erigontech/erigon/issues/23428) - 2026-08-20
 * [Issue] [rpc: reuse snapshot-coherent state caches for committed replay](https://github.com/erigontech/erigon/issues/23425) - 2026-08-20
+* [Review] [Review on: rpc/jsonrpc: erigon_getLogsByHash returns [] for zero-log receipts](https://github.com/erigontech/erigon/pull/23430#pullrequestreview-4991962449) - 2026-08-21
+* [Review] [Review on: execution/tracing: stop materialising hex strings in the struct logger](https://github.com/erigontech/erigon/pull/23456#pullrequestreview-4992173556) - 2026-08-21
+* [Pull Request] [[r3.6] ChangeLog: 3.6.0 "Upstream Underbelly" release notes](https://github.com/erigontech/erigon/pull/23477) - 2026-08-21
+* [Pull Request] [rpc: keep eth_estimateGas on one selected view](https://github.com/erigontech/erigon/pull/23485) - 2026-08-21
+* [Review] [Review on: rpc: reset the IntraBlockState between CreateAccessList iterations](https://github.com/erigontech/erigon/pull/23454#pullrequestreview-4991832408) - 2026-08-21
+* [Review] [Review on: rpc: seed the next access-list tracer from the previous one](https://github.com/erigontech/erigon/pull/23455#pullrequestreview-4992413781) - 2026-08-21
+* [Pull Request] [docs(site): forward-port minimal theme-aware footer from #23070](https://github.com/erigontech/erigon/pull/23475) - 2026-08-21
+* [Review] [Review on: docs(site): forward-port minimal theme-aware footer from #23070](https://github.com/erigontech/erigon/pull/23475#pullrequestreview-4994349846) - 2026-08-21
+* [Pull Request] [docs: forward-port remaining operator guidance from #22919](https://github.com/erigontech/erigon/pull/23474) - 2026-08-21
+* [Review] [Review on: docs: fix bor_getVoteOnHash parameters and result type](https://github.com/erigontech/erigon/pull/23427#pullrequestreview-4992444957) - 2026-08-21
+* [Review] [Review on: execution/chain: compare the timestamp forks in checkCompatible, not just the block ones](https://github.com/erigontech/erigon/pull/23466#pullrequestreview-4992142169) - 2026-08-21
+* [Review] [Review on: execution/stagedsync, execution/state: reclaim superseded merge write sets per block](https://github.com/erigontech/erigon/pull/23348#pullrequestreview-4991452348) - 2026-08-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

@@ -87,6 +87,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Add EIP-8070 Engine API extensions for Sparse Blobpool](https://github.com/status-im/nimbus-eth1/pull/4663) - 2026-08-20
 * [Pull Request] [eest_engine_test validate against errorCode](https://github.com/status-im/nimbus-eth1/pull/4666) - 2026-08-20
 * [Commit] [eest_engine_test validate against errorCode (#4666)](https://github.com/status-im/nimbus-eth1/commit/3aae2c7f924baa6247f6fbe4baad36890b57097a) - 2026-08-21
+* [Pull Request] [Change client side custodyColumns from seq[byte] to FixedBytes[16]](https://github.com/status-im/nimbus-eth1/pull/4667) - 2026-08-21
+* [Commit] [Change client side custodyColumns from seq[byte] to FixedBytes[16] (#4667)](https://github.com/status-im/nimbus-eth1/commit/868cbb2abddcf6d10c24ae83928bf9f80932819a) - 2026-08-21
+* [Commit] [glamsterdam devnet 8 (#4556)](https://github.com/status-im/nimbus-eth1/commit/76832b66a23db8aa1aa32545dce5c5f8102838d5) - 2026-08-21
+* [Commit] [Add EIP-8070 Engine API extensions for Sparse Blobpool (#4663)](https://github.com/status-im/nimbus-eth1/commit/069ed52843dc52c1ca01cf1e134d70913203e174) - 2026-08-21
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

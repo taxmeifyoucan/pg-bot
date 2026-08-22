@@ -82,6 +82,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [fix(ui): include in-block request count in EIP-8282 queue fee calculation](https://github.com/ethpandaops/dora/pull/840) - 2026-08-20
 * [Commit] [Merge pull request #840 from ethpandaops/claude/dora-queue-fee-bug-fhev4k](https://github.com/ethpandaops/dora/commit/4c6c10fbcd5c4050b7ff698b10c797343c4f8887) - 2026-08-20
 * [Commit] [fix(ui): surface slot-1 read failure instead of silently quoting understated fee](https://github.com/ethpandaops/dora/commit/0b0d1527e53d67fca4f62a7ac7e26e9719357aae) - 2026-08-20
+* [Pull Request] [feat(ui): devnet deposit tooling - faucet, wallet-free submission, batching, builder top-ups, ENS](https://github.com/ethpandaops/dora/pull/845) - 2026-08-21
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 

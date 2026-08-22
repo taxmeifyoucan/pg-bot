@@ -206,6 +206,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Add withdrawal credentials preregistration (EIP-8205)](https://github.com/ethereum/consensus-specs/pull/5548#pullrequestreview-4987608475) - 2026-08-20
 * [Pull Request] [Expand `PTC` to `PayloadTimelinessCommittee` in type names](https://github.com/ethereum/consensus-specs/pull/5558) - 2026-08-20
 * [Commit] [Expand `PTC` to `PayloadTimelinessCommittee` in type names (#5558)](https://github.com/ethereum/consensus-specs/commit/64e8259418721e95a675aed1efd316f1d08d8885) - 2026-08-20
+* [Review] [Review on: Initialize anchor PTC vote arrays in `get_forkchoice_store`](https://github.com/ethereum/consensus-specs/pull/5545#pullrequestreview-4989773892) - 2026-08-21
+* [Commit] [Ignore proposer preferences for pre-Gloas slots (#5559)](https://github.com/ethereum/consensus-specs/commit/7f8e79a6b4803ad04acf7648b5dd7686645d98f6) - 2026-08-21
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

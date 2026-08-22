@@ -55,6 +55,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Commit] [fix(dev): canonicalize mined blocks immediately (#26761)](https://github.com/paradigmxyz/reth/commit/df69a6ac99af6e2f29461a5695b0b7df36919627) - 2026-08-19
 * [Review] [Review on: feat(node): testing node with persistent datadir](https://github.com/paradigmxyz/reth/pull/26774#pullrequestreview-4986846714) - 2026-08-20
 * [Review] [Review on: feat(payload): finalize pending build on resolve](https://github.com/paradigmxyz/reth/pull/26759#pullrequestreview-4980565463) - 2026-08-20
+* [Pull Request] [feat(download): expose prepared snapshot context](https://github.com/paradigmxyz/reth/pull/26777) - 2026-08-21
+* [Commit] [feat(download): expose prepared snapshot context (#26777)](https://github.com/paradigmxyz/reth/commit/d892c93b3abf15b7573ca600124024258cf888ec) - 2026-08-21
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

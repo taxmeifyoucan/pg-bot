@@ -184,6 +184,15 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [refactor(eip8141): drop the unread payer-resolution dependency snapshot](https://github.com/NethermindEth/nethermind/pull/12926) - 2026-08-20
 * [Pull Request] [fix(opt): stop the Optimism receipts tracer from bypassing shared receipt population](https://github.com/NethermindEth/nethermind/pull/12925) - 2026-08-20
 * [Pull Request] [fix(rpc): keep frame receipt fields when a receipt is read back from JSON](https://github.com/NethermindEth/nethermind/pull/12923) - 2026-08-20
+* [Pull Request] [fix(eip8141): sweep expired frame txs from the persistent broadcast pool](https://github.com/NethermindEth/nethermind/pull/12947) - 2026-08-21
+* [Review] [Review on: fix(eip8141): sweep expired frame txs from the persistent broadcast pool](https://github.com/NethermindEth/nethermind/pull/12947#pullrequestreview-4994702826) - 2026-08-21
+* [Review] [Review on: fix(evm): dispatch a precompile a VERIFY frame targets](https://github.com/NethermindEth/nethermind/pull/12922#pullrequestreview-4992607286) - 2026-08-21
+* [Review] [Review on: perf(frames): cut repeated work on the frame receipt and RPC paths](https://github.com/NethermindEth/nethermind/pull/12929#pullrequestreview-4993141513) - 2026-08-21
+* [Review] [Review on: fix(frames): unwind state gas with a discarded POST_TX body](https://github.com/NethermindEth/nethermind/pull/12934#pullrequestreview-4993036121) - 2026-08-21
+* [Review] [Review on: test(frames): share the frame transaction builders and collapse duplicated fixtures](https://github.com/NethermindEth/nethermind/pull/12930#pullrequestreview-4993379809) - 2026-08-21
+* [Review] [Review on: fix(opt): stop the Optimism receipts tracer from bypassing shared receipt population](https://github.com/NethermindEth/nethermind/pull/12925#pullrequestreview-4993310007) - 2026-08-21
+* [Review] [Review on: fix(rpc): keep frame receipt fields when a receipt is read back from JSON](https://github.com/NethermindEth/nethermind/pull/12923#pullrequestreview-4993204794) - 2026-08-21
+* [Pull Request] [fix(focil): keep blob-carrying frame txs out of the inclusion list](https://github.com/NethermindEth/nethermind/pull/12948) - 2026-08-21
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -213,6 +222,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Update EIP-8141: state that installing the expiry verifier leaves the nonce](https://github.com/ethereum/EIPs/pull/12203) - 2026-08-19
 * [Review] [Review on: Update EIP-8141: dispatch a precompile targeted by a frame](https://github.com/ethereum/EIPs/pull/12157#pullrequestreview-4981940109) - 2026-08-20
 * [Commit] [Update EIP-8141: dispatch a precompile targeted by a frame](https://github.com/ethereum/EIPs/commit/7d1f8857ad2483886827e01a7864684dbc34885f) - 2026-08-20
+* [Pull Request] [Update EIP-8141: bound chain_id to 2**64](https://github.com/ethereum/EIPs/pull/12223) - 2026-08-21
+* [Pull Request] [Update EIP-7805: skip IL transactions needing data the IL cannot carry](https://github.com/ethereum/EIPs/pull/12224) - 2026-08-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [Add EIP-8037 spill-refund accounting coverage](https://github.com/ethereum/execution-specs/pull/3158) - 2026-07-13
 * [Commit] [feat(tests): add EIP-8037 spill-refund accounting coverage (#3158)](https://github.com/ethereum/execution-specs/commit/610cd779baff95f99c85442dd2fa8cc8146260b2) - 2026-07-30

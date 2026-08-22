@@ -71,6 +71,7 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: dispatch a precompile targeted by a frame](https://github.com/ethereum/EIPs/pull/12157#pullrequestreview-4987232340) - 2026-08-20
 * [Review] [Review on: Update EIP-8141: scope APPROVE failure modes to the current call frame](https://github.com/ethereum/EIPs/pull/12212#pullrequestreview-4987213939) - 2026-08-20
 * [Review] [Review on: Update EIP-8141: charge the resolved target's access at frame entry](https://github.com/ethereum/EIPs/pull/12211#pullrequestreview-4986985861) - 2026-08-20
+* [Review] [Review on: Update EIP-8141: fix calldata floor to use EIP-7976 uniform token count](https://github.com/ethereum/EIPs/pull/12209#pullrequestreview-4996633565) - 2026-08-21
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

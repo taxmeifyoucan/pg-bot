@@ -57,6 +57,9 @@ Github: [@cperezz](https://github.com/cperezz)
 * [Commit] [Update EIP-8347: hashed-key order and fixed-width preimage records](https://github.com/ethereum/EIPs/commit/a08f51fec5b2b5da457adb05b8cffb487fb4f7de) - 2026-08-20
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436) - 2026-07-29
+
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Review] [Review on: cmd/utils/app: export preimages in EIP-8347 keccak256 hashed-key order](https://github.com/erigontech/erigon/pull/23473#pullrequestreview-4994264550) - 2026-08-21
 ## Q2 2026
 
 

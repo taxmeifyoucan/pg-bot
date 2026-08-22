@@ -133,6 +133,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Avoid epoch transition when validating gossip blocks](https://github.com/ChainSafe/lodestar/issues/9873) - 2026-08-20
 * [Issue] [gloas getBuildersSweepWithdrawals performance issue](https://github.com/ChainSafe/lodestar/issues/9866) - 2026-08-20
 * [Issue] [processInactivityUpdates performance issue](https://github.com/ChainSafe/lodestar/issues/9865) - 2026-08-20
+* [Review] [Review on: fix: handle attributable peers on range sync](https://github.com/ChainSafe/lodestar/pull/9836#pullrequestreview-4989642616) - 2026-08-21
+* [Review] [Review on: chore(bls): expose pubkey cache metrics](https://github.com/ChainSafe/lodestar/pull/9883#pullrequestreview-4989650309) - 2026-08-21
+* [Review] [Review on: refactor(bls): route remaining checks through verifier](https://github.com/ChainSafe/lodestar/pull/9881#pullrequestreview-4989306694) - 2026-08-21
+* [Review] [Review on: fix(state-transition): use shared pubkey cache in Gloas tests](https://github.com/ChainSafe/lodestar/pull/9880#pullrequestreview-4989000452) - 2026-08-21
+* [Commit] [fix: handle attributable peers on range sync (#9836)](https://github.com/ChainSafe/lodestar/commit/4546ac1229590e8558683421b7e079ddd129ee10) - 2026-08-21
+* [Commit] [fix: prune prefinalized pending items in BlockInputSync (#9852)](https://github.com/ChainSafe/lodestar/commit/f591cb177e959e48cf0d47467897dd4387926c9e) - 2026-08-21
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02
