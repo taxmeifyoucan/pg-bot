@@ -33,6 +33,7 @@ Team: EthereumJS
 * [Commit] [evm/vm/tx/common: align Amsterdam gas schedule  (#4337)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/b3eed77a8e01c88c997216686eb4b531d226853a) - 2026-07-23
 * [Review] [Review on: fix(util): align BAL validation with numeric storage slot ordering](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4368#pullrequestreview-4944765506) - 2026-08-15
 * [Pull Request] [deps: resolve open Dependabot security alerts](https://github.com/ethereumjs/ethereumjs-monorepo/pull/4373) - 2026-08-19
+* [Commit] [deps: resolve open Dependabot security alerts (#4373)](https://github.com/ethereumjs/ethereumjs-monorepo/commit/272509a9cdcef143c79e6788e67bf48df8abbaff) - 2026-08-22
 ## Q2 2026
 
 

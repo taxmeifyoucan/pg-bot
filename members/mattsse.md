@@ -360,6 +360,7 @@ Team: Reth
 * [Review] [Review on: fix(engine): serve getBlobsV4 from Osaka](https://github.com/paradigmxyz/reth/pull/26768#pullrequestreview-4979107858) - 2026-08-20
 * [Review] [Review on: fix(rpc): reject block timestamp overflow in eth_simulateV1](https://github.com/paradigmxyz/reth/pull/26767#pullrequestreview-4994329036) - 2026-08-21
 * [Review] [Review on: fix(rpc): stop cancelled blocking IO tasks](https://github.com/paradigmxyz/reth/pull/26776#pullrequestreview-4990719317) - 2026-08-21
+* [Pull Request] [fix(engine): honor cancellation in BAL prewarm and sparse trie task](https://github.com/paradigmxyz/reth/pull/26780) - 2026-08-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

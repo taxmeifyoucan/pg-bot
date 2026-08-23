@@ -207,6 +207,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(core): accelerate Keccak with AVX-512VL and batched hashes (#12844)](https://github.com/NethermindEth/nethermind/commit/e9f724c025ba898b04b739b70b30c9ab3eb6a067) - 2026-08-19
 * [Review] [Review on: Align EEST validation mappings and fixture coverage](https://github.com/NethermindEth/nethermind/pull/12717#pullrequestreview-4981842330) - 2026-08-20
 * [Review] [Review on: ci(bench): restore the amd64 benchmark runner and select it by input](https://github.com/NethermindEth/nethermind/pull/12933#pullrequestreview-4983720750) - 2026-08-20
+* [Pull Request] [perf(evm): skip redundant EVM memory zeroing on overwrites and fresh allocations](https://github.com/NethermindEth/nethermind/pull/12953) - 2026-08-22
+* [Review] [Review on: perf(evm): skip redundant EVM memory zeroing on overwrites and fresh allocations](https://github.com/NethermindEth/nethermind/pull/12953#pullrequestreview-4998753746) - 2026-08-22
+* [Review] [Review on: Add a perf profiling mode to the benchmark workflow](https://github.com/NethermindEth/nethermind/pull/12952#pullrequestreview-4999847058) - 2026-08-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

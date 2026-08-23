@@ -377,6 +377,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: treat dial timeouts as HighToleranceError for all methods (#9877)](https://github.com/ChainSafe/lodestar/commit/9c75ac2a0f9d89aa57dee63e9ddc9fa9e142fb42) - 2026-08-21
 * [Commit] [fix: ignore proposer preferences for pre-gloas proposal slots (#9869)](https://github.com/ChainSafe/lodestar/commit/a64cdf7144fb8f8556564f0e4703638cdf2a775d) - 2026-08-21
 * [Commit] [fix: contain errors thrown while sending events to a client (#9871)](https://github.com/ChainSafe/lodestar/commit/34f6f273fed31d36d3d9e76319b70fc5cae6c5e1) - 2026-08-21
+* [Review] [Review on: fix: keep event stream alive if an event can not be serialized](https://github.com/ChainSafe/lodestar/pull/9872#pullrequestreview-4999363487) - 2026-08-22
+* [Review] [Review on: refactor: assert BeaconEvent type in eventstream handler](https://github.com/ChainSafe/lodestar/pull/9894#pullrequestreview-4999216752) - 2026-08-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

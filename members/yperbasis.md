@@ -535,6 +535,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: docs: fix bor_getVoteOnHash parameters and result type](https://github.com/erigontech/erigon/pull/23427#pullrequestreview-4992444957) - 2026-08-21
 * [Review] [Review on: execution/chain: compare the timestamp forks in checkCompatible, not just the block ones](https://github.com/erigontech/erigon/pull/23466#pullrequestreview-4992142169) - 2026-08-21
 * [Review] [Review on: execution/stagedsync, execution/state: reclaim superseded merge write sets per block](https://github.com/erigontech/erigon/pull/23348#pullrequestreview-4991452348) - 2026-08-21
+* [Review] [Review on: cl: harden local payload preparation through Gloas](https://github.com/erigontech/erigon/pull/23436#pullrequestreview-4999575060) - 2026-08-22
+* [Issue] [rpc: apply eth_estimateGas state overrides to pre-execution checks](https://github.com/erigontech/erigon/issues/23502) - 2026-08-22
+* [Issue] [rpc: keep trace_callMany bundles on the parent state boundary](https://github.com/erigontech/erigon/issues/23501) - 2026-08-22
+* [Issue] [db: fall back when overlay in-memory history is disabled](https://github.com/erigontech/erigon/issues/23500) - 2026-08-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

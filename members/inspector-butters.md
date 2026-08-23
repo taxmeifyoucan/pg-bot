@@ -62,6 +62,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Do not migrate a cold state built from a reorged-out block](https://github.com/OffchainLabs/prysm/pull/17371#pullrequestreview-4980481497) - 2026-08-20
 * [Pull Request] [stream hdiff validator comparison](https://github.com/OffchainLabs/prysm/pull/17396) - 2026-08-21
 * [Pull Request] [fix sync committee duty bug for exited vals - pre gloas](https://github.com/OffchainLabs/prysm/pull/17395) - 2026-08-21
+* [Commit] [stream hdiff validator comparison (#17396)](https://github.com/OffchainLabs/prysm/commit/77f5dd1662a742e38e5e476480edf16876b57697) - 2026-08-22
 ## Q2 2026
 
 

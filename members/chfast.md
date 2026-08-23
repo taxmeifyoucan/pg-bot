@@ -199,6 +199,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [crypto: Rename ModArith to MontgomeryArith](https://github.com/ipsilon/evmone/pull/1666) - 2026-08-20
 * [Commit] [t8n: Emit the real receipt status, root and logs (#1667)](https://github.com/ipsilon/evmone/commit/46ffdcef43a4289be83b6acb056c2d9d297f64fe) - 2026-08-20
 * [Commit] [Use gas_left uniformly in halting instruction results (#1669)](https://github.com/ipsilon/evmone/commit/afe75b50bfa95275a0cfe36b426d61895195dcdc) - 2026-08-21
+* [Review] [Review on: Charge the state-independent CALL costs first](https://github.com/ipsilon/evmone/pull/1668#pullrequestreview-5000751971) - 2026-08-22
+* [Issue] [Modular arithmetic: compile-time modulus and per-modulus strategy selection](https://github.com/ipsilon/evmone/issues/1671) - 2026-08-22
+* [Commit] [Charge the state-independent CALL costs first (#1668)](https://github.com/ipsilon/evmone/commit/c8d67056420fb61ac89b811afae845f4ed79e2d5) - 2026-08-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -245,6 +248,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): add dynamic-destination JUMP/JUMPI invalid-target tests (#3153)](https://github.com/ethereum/execution-specs/commit/ad970077a4d866b1d15cd171fa708de49760a4f6) - 2026-07-30
 * [Pull Request] [feat(tests): EIP-7928 - union reverted storage reads across transactions](https://github.com/ethereum/execution-specs/pull/3399) - 2026-08-19
 * [Commit] [feat(tests): EIP-7928 - union reverted storage reads across transactions (#3399)](https://github.com/ethereum/execution-specs/commit/3d473e865a6ff78321e8b7b015b0e9a4bb8da892) - 2026-08-20
+* [Pull Request] [feat(tests): EIP-7702 - keep authority storage when clearing a delegation](https://github.com/ethereum/execution-specs/pull/3421) - 2026-08-22
+* [Pull Request] [feat(tests): EIP-7702 - precompile calls from a delegated frame](https://github.com/ethereum/execution-specs/pull/3420) - 2026-08-22
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
@@ -259,6 +264,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [tests: validateHeader compares baseFeePerGas with reflect.DeepEqual, so a zero base fee always fails](https://github.com/ethereum/go-ethereum/issues/35555) - 2026-08-19
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Issue] [Amsterdam: failing value-bearing CALLCODE to a precompile is charged no gas](https://github.com/besu-eth/besu/issues/11124) - 2026-08-22
 ## Q2 2026
 
 

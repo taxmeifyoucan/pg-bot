@@ -110,6 +110,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Fix publish signed execution payload envelope API ](https://github.com/status-im/nimbus-eth2/pull/8914#pullrequestreview-4989063999) - 2026-08-21
 * [Review] [Review on: Fix head payload status update](https://github.com/status-im/nimbus-eth2/pull/8903#pullrequestreview-4989677672) - 2026-08-21
 * [Pull Request] [add gloas column support to getBlobs and getDebugDataColumnSidecars](https://github.com/status-im/nimbus-eth2/pull/8919) - 2026-08-21
+* [Pull Request] [revert #8853](https://github.com/status-im/nimbus-eth2/pull/8927) - 2026-08-22
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

@@ -999,6 +999,26 @@ Team: Erigon
 * [Commit] [merge: enable madv_sequential on own `mmap` (#23382)](https://github.com/erigontech/erigon/commit/273b74506de15a1e16543b9e4d854c2712859aee) - 2026-08-21
 * [Commit] [crypto/blake2b: bound input of assembly call (#23317)](https://github.com/erigontech/erigon/commit/bbbf9d6b5e217eaeb3d2ea825efad2ac13c84a60) - 2026-08-21
 * [Commit] [node, rpc: replace the hand-rolled gzip middleware with klauspost gzhttp (#23246)](https://github.com/erigontech/erigon/commit/3075c26cd538a3bc6069b353f51fcbd677871504) - 2026-08-21
+* [Pull Request] [common/hexutil, execution/tracing: write traced stack values without allocating or escaping](https://github.com/erigontech/erigon/pull/23486) - 2026-08-22
+* [Pull Request] [execution/state: skip the create-time storage wipe when the address has no account](https://github.com/erigontech/erigon/pull/23506) - 2026-08-22
+* [Review] [Review on: execution/state: skip the create-time storage wipe when the address has no account](https://github.com/erigontech/erigon/pull/23506#pullrequestreview-5000528353) - 2026-08-22
+* [Review] [Review on: [r3.6] db/downloader: keep local snapshot data once the initial download is complete](https://github.com/erigontech/erigon/pull/23446#pullrequestreview-4999975108) - 2026-08-22
+* [Pull Request] [rpc: count responses the client never received](https://github.com/erigontech/erigon/pull/23498) - 2026-08-22
+* [Pull Request] [rpc/jsonstream: bound how much of a response is held in memory](https://github.com/erigontech/erigon/pull/23496) - 2026-08-22
+* [Review] [Review on: polygon: delete the Polygon tree, tables, protos and chain-config hooks](https://github.com/erigontech/erigon/pull/23497#pullrequestreview-4999789191) - 2026-08-22
+* [Review] [Review on: execution/state/genesiswrite: drop the inert bor section from the genesis test fixture](https://github.com/erigontech/erigon/pull/23505#pullrequestreview-4999570364) - 2026-08-22
+* [Review] [Review on: db, execution: drop Bor snapshots and the Bor block-reader interface methods](https://github.com/erigontech/erigon/pull/23494#pullrequestreview-4999472811) - 2026-08-22
+* [Review] [Review on: execution, txnprovider: remove Polygon fork tiers from the EVM and consensus paths](https://github.com/erigontech/erigon/pull/23495#pullrequestreview-4999572108) - 2026-08-22
+* [Pull Request] [rpc/jsonstream: drop Write, leaving WriteRawBytes as the only raw path](https://github.com/erigontech/erigon/pull/23504) - 2026-08-22
+* [Pull Request] [rpc: answer 503 when the DB gate rejects a request](https://github.com/erigontech/erigon/pull/23488) - 2026-08-22
+* [Pull Request] [rpc/jsonstream: bulk-copy strings that need no escaping](https://github.com/erigontech/erigon/pull/23493) - 2026-08-22
+* [Pull Request] [execution/tracing: write traced storage values without escaping](https://github.com/erigontech/erigon/pull/23490) - 2026-08-22
+* [Review] [Review on: db/datadir: drop caplin sidecar dirs from the startup rename walks](https://github.com/erigontech/erigon/pull/23468#pullrequestreview-4999576279) - 2026-08-22
+* [Pull Request] [rpc/jsonstream, execution/tracing: fuzz that a cut-short trace still parses](https://github.com/erigontech/erigon/pull/23499) - 2026-08-22
+* [Review] [Review on: cmd, db/integrity: drop Polygon wiring from the standalone tools](https://github.com/erigontech/erigon/pull/23492#pullrequestreview-4998978641) - 2026-08-22
+* [Review] [Review on: ci: cache spamoor and rpc-snooper](https://github.com/erigontech/erigon/pull/23465#pullrequestreview-4998808315) - 2026-08-22
+* [Commit] [cl/persistence, db: pool zstd decoders, lower what zstd encoders hold (#23435)](https://github.com/erigontech/erigon/commit/0f56fbeb4a165581fdce51f8ee0c171db03bd2ba) - 2026-08-22
+* [Commit] [rpc: reset the IntraBlockState between CreateAccessList iterations (#23454)](https://github.com/erigontech/erigon/commit/dc4bdcd3a53b5dc09f60231b0f6d40df7fdcf8dd) - 2026-08-22
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

@@ -247,6 +247,8 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(network): cap item counts on inbound RLP byte-list responses](https://github.com/NethermindEth/nethermind/pull/12914#pullrequestreview-4991717837) - 2026-08-21
 * [Review] [Review on: feat(stateless): adopt tests-zkevm v0.8.2 and glamsterdam devnet-8](https://github.com/NethermindEth/nethermind/pull/12909#pullrequestreview-4989777119) - 2026-08-21
 * [Pull Request] [Update Glamsterdam devnet EEST fixtures to v8.1.1](https://github.com/NethermindEth/nethermind/pull/12944) - 2026-08-21
+* [Review] [Review on: fix(optimism): decode CL payloads with the generated SSZ decoder](https://github.com/NethermindEth/nethermind/pull/12946#pullrequestreview-4999016447) - 2026-08-22
+* [Review] [Review on: fix(optimism): validate the transaction offset table when decoding payloads](https://github.com/NethermindEth/nethermind/pull/12920#pullrequestreview-4999015313) - 2026-08-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

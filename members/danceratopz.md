@@ -131,6 +131,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Audit pre-Cancun GeneralStateTest coverage in execution-specs](https://github.com/ethereum/execution-specs/issues/3404) - 2026-08-20
 * [Issue] [perf(test-benchmark): consider using pypy to fill benchmark releases](https://github.com/ethereum/execution-specs/issues/3402) - 2026-08-20
 * [Issue] [perf(test-fill): every engine_x t8n call copies and re-merklizes the whole merged pre-alloc group](https://github.com/ethereum/execution-specs/issues/3403) - 2026-08-20
+* [Commit] [fix(evm-tools): restore state test compatibility (#3409)](https://github.com/ethereum/execution-specs/commit/ac0bf4fbb0232a0f40eab6110e503b8e5c64b147) - 2026-08-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

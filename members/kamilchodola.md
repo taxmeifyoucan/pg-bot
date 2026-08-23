@@ -140,6 +140,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(flat): publish the trie warmer's persistence reads into the transient](https://github.com/NethermindEth/nethermind/pull/12951) - 2026-08-21
 * [Review] [Review on: perf(flat): publish the trie warmer's persistence reads into the transient](https://github.com/NethermindEth/nethermind/pull/12951#pullrequestreview-4995880974) - 2026-08-21
 * [Commit] [perf: remove per-hit atomics from the shared counter, cache and DB hot paths (#12870)](https://github.com/NethermindEth/nethermind/commit/d2c452d93ee3d8563374c50ed4401217aa2916c2) - 2026-08-21
+* [Pull Request] [perf(flat): refresh the carry-forward account cache on commit instead of evicting](https://github.com/NethermindEth/nethermind/pull/12960) - 2026-08-22
+* [Pull Request] [ci(bench): per-client snapshots and per-arm node flags in an RPC sweep](https://github.com/NethermindEth/nethermind/pull/12961) - 2026-08-22
+* [Pull Request] [perf(db): use LZ4 instead of Snappy for the default database codec (eth_call arm)](https://github.com/NethermindEth/nethermind/pull/12956) - 2026-08-22
+* [Pull Request] [perf(db): use LZ4 instead of Snappy for the default database codec](https://github.com/NethermindEth/nethermind/pull/12955) - 2026-08-22
+* [Pull Request] [perf(diag): make the cross-block state cache observable](https://github.com/NethermindEth/nethermind/pull/12958) - 2026-08-22
+* [Pull Request] [ci: reap stale expb overlay mounts on the arm benchmark runner](https://github.com/NethermindEth/nethermind/pull/12959) - 2026-08-22
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

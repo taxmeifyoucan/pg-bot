@@ -59,6 +59,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Only broadcast proposer preferences for post-Gloas slots](https://github.com/grandinetech/grandine/pull/859) - 2026-08-21
 * [Review] [Review on: Add gas limit schedule config](https://github.com/grandinetech/grandine/pull/854#pullrequestreview-4991573341) - 2026-08-21
 * [Issue] [Builder deposit cache](https://github.com/grandinetech/grandine/issues/860) - 2026-08-21
+* [Pull Request] [Delay data column sidecars until block imported](https://github.com/grandinetech/grandine/pull/863) - 2026-08-22
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

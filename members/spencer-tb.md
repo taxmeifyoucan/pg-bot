@@ -226,6 +226,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(specs,tests): update EIP-8141 implementation](https://github.com/ethereum/execution-specs/pull/3396#pullrequestreview-4985072218) - 2026-08-20
 * [Review] [Review on: feat(specs,test-specs,tests): Update Engine API to latest Bogota spec, implement IL inclusion_test](https://github.com/ethereum/execution-specs/pull/3401#pullrequestreview-4982598655) - 2026-08-20
 * [Pull Request] [feat(test-forks): add the Bogota pseudo-fork for post-Amsterdam features](https://github.com/ethereum/execution-specs/pull/3408) - 2026-08-20
+* [Pull Request] [chore(tests): remove EIP-7610 create collision tests](https://github.com/ethereum/execution-specs/pull/3417) - 2026-08-22
+* [Pull Request] [feat(ci): split the devnet release fill across fork ranges through Bogota](https://github.com/ethereum/execution-specs/pull/3418) - 2026-08-22
+* [Review] [Review on: feat(spec-specs,tests): dispatch a precompile a VERIFY frame targets](https://github.com/ethereum/execution-specs/pull/3407#pullrequestreview-5000023419) - 2026-08-22
+* [Review] [Review on: feat(specs,tests): charge a frame target's access at frame entry](https://github.com/ethereum/execution-specs/pull/3412#pullrequestreview-4999986708) - 2026-08-22
+* [Review] [Review on: feat(tests): map ethrex's frame-transaction rejection reasons](https://github.com/ethereum/execution-specs/pull/3413#pullrequestreview-4999835989) - 2026-08-22
+* [Review] [Review on: fix(test-evm-tools): restore state test compatibility](https://github.com/ethereum/execution-specs/pull/3409#pullrequestreview-4999841866) - 2026-08-22
+* [Issue] [chore(test-fill): make pre-alloc grouping safe for `ported_static` and remove the Engine X drift](https://github.com/ethereum/execution-specs/issues/3419) - 2026-08-22
+* [Issue] [Test Release Tracker: `frames-devnet@v0.1.0`](https://github.com/ethereum/execution-specs/issues/3415) - 2026-08-22
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

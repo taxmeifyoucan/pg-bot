@@ -157,6 +157,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [implement ptc duties for the VC in gloas](https://github.com/Consensys/teku/issues/11136) - 2026-08-19
 * [Review] [Review on: Block v4 changes + use include_payload in block creation](https://github.com/Consensys/teku/pull/11141#pullrequestreview-4978557304) - 2026-08-20
 * [Review] [Review on: Update ethspecify for alpha.14](https://github.com/Consensys/teku/pull/11148#pullrequestreview-4978381571) - 2026-08-20
+* [Review] [Review on: Implement light client collection layer](https://github.com/Consensys/teku/pull/11140#pullrequestreview-5001201746) - 2026-08-22
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

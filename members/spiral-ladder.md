@@ -59,6 +59,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix: contain errors thrown while sending events to a client](https://github.com/ChainSafe/lodestar/pull/9871#pullrequestreview-4992065487) - 2026-08-21
 * [Review] [Review on: fix: fallback when native chacha20-poly1305 is unavailable](https://github.com/ChainSafe/lodestar/pull/9879#pullrequestreview-4992083112) - 2026-08-21
 * [Commit] [feat(blst): use lodestar-z blst (#8900)](https://github.com/ChainSafe/lodestar/commit/931ecbec99db681a3c2e5749a41e1253e3842249) - 2026-08-21
+* [Review] [Review on: test: align benchmark pubkeys with lodestar-z global pubkey cache](https://github.com/ChainSafe/lodestar/pull/9893#pullrequestreview-4999376705) - 2026-08-22
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01

@@ -88,6 +88,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [KVT block hashes cache (#4662)](https://github.com/status-im/nimbus-eth1/commit/e3c7ae3d427a416ba28466a1ce42eca7015dde15) - 2026-08-20
 * [Pull Request] [KVT put and receipt root optimization](https://github.com/status-im/nimbus-eth1/pull/4671) - 2026-08-21
 * [Commit] [KVT put and receipt root optimization (#4671)](https://github.com/status-im/nimbus-eth1/commit/4e225c6169b0775c90e46c8097ccd7fa1676f2ac) - 2026-08-21
+* [Pull Request] [Hash transactions once and move receipt logs](https://github.com/status-im/nimbus-eth1/pull/4673) - 2026-08-22
+* [Review] [Review on: KVT put and receipt root optimization](https://github.com/status-im/nimbus-eth1/pull/4671#pullrequestreview-5000181080) - 2026-08-22
 ## Q2 2026
 
 

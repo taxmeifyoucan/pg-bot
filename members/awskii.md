@@ -328,6 +328,25 @@ Team: Erigon
 * [Issue] [db/downloader: kept-snapshot seeding fans out unbounded and abandon() joins it uncancellably](https://github.com/erigontech/erigon/issues/23448) - 2026-08-21
 * [Commit] [cmd/utils/app: export preimages in EIP-8347 keccak256 hashed-key order (#23473)](https://github.com/erigontech/erigon/commit/fd1061bb4acfa36075a0a9cc4ab6c2258b1eafb0) - 2026-08-21
 * [Commit] [execution: give the Amsterdam genesis header a slotNumber (#23449)](https://github.com/erigontech/erigon/commit/70aff3c5b744258e4a4194353d4dfd5283577dba) - 2026-08-21
+* [Review] [Review on: common/hexutil, execution/tracing: write traced stack values without allocating or escaping](https://github.com/erigontech/erigon/pull/23486#pullrequestreview-5001370765) - 2026-08-23
+* [Review] [Review on: [r3.6] db/downloader: keep local snapshot data once the initial download is complete](https://github.com/erigontech/erigon/pull/23446#pullrequestreview-4999650937) - 2026-08-22
+* [Pull Request] [polygon: delete the Polygon tree, tables, protos and chain-config hooks](https://github.com/erigontech/erigon/pull/23497) - 2026-08-22
+* [Pull Request] [execution/state/genesiswrite: drop the inert bor section from the genesis test fixture](https://github.com/erigontech/erigon/pull/23505) - 2026-08-22
+* [Pull Request] [db, execution: drop Bor snapshots and the Bor block-reader interface methods](https://github.com/erigontech/erigon/pull/23494) - 2026-08-22
+* [Pull Request] [execution, txnprovider: remove Polygon fork tiers from the EVM and consensus paths](https://github.com/erigontech/erigon/pull/23495) - 2026-08-22
+* [Review] [Review on: execution/chain: compare the timestamp forks in checkCompatible, not just the block ones](https://github.com/erigontech/erigon/pull/23466#pullrequestreview-4998721624) - 2026-08-22
+* [Review] [Review on: rpc/jsonrpc: fix debug_accountRange block tag resolution](https://github.com/erigontech/erigon/pull/23349#pullrequestreview-4999518489) - 2026-08-22
+* [Pull Request] [node, cmd: stop wiring Polygon services and drop the bor CLI flags](https://github.com/erigontech/erigon/pull/23491) - 2026-08-22
+* [Pull Request] [rpc, ethapi: remove the bor RPC namespace and Bor state-sync handling](https://github.com/erigontech/erigon/pull/23489) - 2026-08-22
+* [Pull Request] [chain, polygon, docs: de-register Polygon chains, drop Polygon docs and CI](https://github.com/erigontech/erigon/pull/23487) - 2026-08-22
+* [Pull Request] [cmd, db/integrity: drop Polygon wiring from the standalone tools](https://github.com/erigontech/erigon/pull/23492) - 2026-08-22
+* [Issue] [Epic: demote Polygon](https://github.com/erigontech/erigon/issues/23503) - 2026-08-22
+* [Commit] [polygon: delete the Polygon tree, tables, protos and chain-config hooks (#23497)](https://github.com/erigontech/erigon/commit/502f1ab94339e659016e66883e60734243e51432) - 2026-08-22
+* [Commit] [execution/state/genesiswrite: drop the inert bor section from the genesis test fixture (#23505)](https://github.com/erigontech/erigon/commit/e30fbec9cf8fbed2ea43fcaede3ac1d965571279) - 2026-08-22
+* [Commit] [db, execution: drop Bor snapshots and the Bor block-reader interface methods (#23494)](https://github.com/erigontech/erigon/commit/06c776441cf65cd47d84e05f09f61cee4fd3e381) - 2026-08-22
+* [Commit] [execution, txnprovider: remove Polygon fork tiers from the EVM and consensus paths (#23495)](https://github.com/erigontech/erigon/commit/f604e7a69f28edfffeab49ad801efeff9bb33ae5) - 2026-08-22
+* [Commit] [cmd, db/integrity: drop Polygon wiring from the standalone tools (#23492)](https://github.com/erigontech/erigon/commit/9d22875feb1f7ebf98f7ec36455a59153da1b155) - 2026-08-22
+* [Commit] [cl, cmd: collapse the caplin hot sidecar stores onto one bucket store (#23451)](https://github.com/erigontech/erigon/commit/3f4e9513780e78513c7c75857e5b9738814d6e7a) - 2026-08-22
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05
