@@ -1019,6 +1019,33 @@ Team: Erigon
 * [Review] [Review on: ci: cache spamoor and rpc-snooper](https://github.com/erigontech/erigon/pull/23465#pullrequestreview-4998808315) - 2026-08-22
 * [Commit] [cl/persistence, db: pool zstd decoders, lower what zstd encoders hold (#23435)](https://github.com/erigontech/erigon/commit/0f56fbeb4a165581fdce51f8ee0c171db03bd2ba) - 2026-08-22
 * [Commit] [rpc: reset the IntraBlockState between CreateAccessList iterations (#23454)](https://github.com/erigontech/erigon/commit/dc4bdcd3a53b5dc09f60231b0f6d40df7fdcf8dd) - 2026-08-22
+* [Pull Request] [[r3.5] txnprovider/txpool: load pool from db under p.lock](https://github.com/erigontech/erigon/pull/23512) - 2026-08-23
+* [Pull Request] [execution/cache: track GenericCache entry count in an atomic, not freelru's all-shard Len](https://github.com/erigontech/erigon/pull/23522) - 2026-08-23
+* [Pull Request] [db/state: stop apply-side DomainPut waiting on the commitment calculator](https://github.com/erigontech/erigon/pull/23520) - 2026-08-23
+* [Pull Request] [execution/cache: give growLRU the same atomic entry count](https://github.com/erigontech/erigon/pull/23523) - 2026-08-23
+* [Pull Request] [execution/cache: track GenericCache entry count in an atomic, not freelru's all-shard Len](https://github.com/erigontech/erigon/pull/23521) - 2026-08-23
+* [Pull Request] [db/etl: split the sortable buffer into pooled 1MB chunks](https://github.com/erigontech/erigon/pull/23518) - 2026-08-23
+* [Review] [Review on: db/etl: split the sortable buffer into pooled 1MB chunks](https://github.com/erigontech/erigon/pull/23518#pullrequestreview-5002137370) - 2026-08-23
+* [Pull Request] [[r3.6] db/etl: split the sortable buffer into pooled 1MB chunks](https://github.com/erigontech/erigon/pull/23519) - 2026-08-23
+* [Pull Request] [execution/stagedsync: cover the create-time storage wipe](https://github.com/erigontech/erigon/pull/23513) - 2026-08-23
+* [Pull Request] [db/etl: store sortable-buffer bytes in chunks so filling never reallocates](https://github.com/erigontech/erigon/pull/23517) - 2026-08-23
+* [Review] [Review on: db/etl: store sortable-buffer bytes in chunks so filling never reallocates](https://github.com/erigontech/erigon/pull/23517#pullrequestreview-5002033191) - 2026-08-23
+* [Pull Request] [[r3.6] execution/stagedsync: COMMITMENT_AFTER_EXEC flag to serialize commitment behind execution](https://github.com/erigontech/erigon/pull/23516) - 2026-08-23
+* [Pull Request] [execution/stagedsync: COMMITMENT_AFTER_EXEC flag to serialize commitment behind execution](https://github.com/erigontech/erigon/pull/23515) - 2026-08-23
+* [Pull Request] [[r3.6] execution/stagedsync: cover the create-time storage wipe](https://github.com/erigontech/erigon/pull/23514) - 2026-08-23
+* [Pull Request] [[r3.6] txnprovider/txpool: load pool from db under p.lock](https://github.com/erigontech/erigon/pull/23510) - 2026-08-23
+* [Review] [Review on: [r3.6] txnprovider/txpool: load pool from db under p.lock](https://github.com/erigontech/erigon/pull/23510#pullrequestreview-5001614476) - 2026-08-23
+* [Pull Request] [txnprovider/txpool: load pool from db under p.lock](https://github.com/erigontech/erigon/pull/23511) - 2026-08-23
+* [Review] [Review on: common/hexutil, execution/tracing: write traced stack values without allocating or escaping](https://github.com/erigontech/erigon/pull/23486#pullrequestreview-5001608681) - 2026-08-23
+* [Review] [Review on: rpc: erigon_getLogsByHash: propagate real errors and check canonicity before the receipts cache](https://github.com/erigontech/erigon/pull/23507#pullrequestreview-5001634721) - 2026-08-23
+* [Pull Request] [[r3.6] execution/state: skip the create-time storage wipe when the address has no account](https://github.com/erigontech/erigon/pull/23508) - 2026-08-23
+* [Review] [Review on: execution/vm: evmone v0.23.0, MODEXP routing and uint256 windowing](https://github.com/erigontech/erigon/pull/23231#pullrequestreview-5001623425) - 2026-08-23
+* [Review] [Review on: execution/tracing: only read the stack for opcodes that use it](https://github.com/erigontech/erigon/pull/23467#pullrequestreview-5001622263) - 2026-08-23
+* [Review] [Review on: rpc/jsonrpc: return hexutil.U256 from the eth_/erigon_ quantity getters](https://github.com/erigontech/erigon/pull/23216#pullrequestreview-5001618876) - 2026-08-23
+* [Issue] [race in txpool:](https://github.com/erigontech/erigon/issues/23509) - 2026-08-23
+* [Commit] [execution/stagedsync: cover the create-time storage wipe (#23513)](https://github.com/erigontech/erigon/commit/f20373b67af23d711983e93b2146b9e1004e6645) - 2026-08-23
+* [Commit] [common/hexutil, execution/tracing: write traced stack values without allocating or escaping (#23486)](https://github.com/erigontech/erigon/commit/0d4a82d716be549224d71694b9389d5d59f4f752) - 2026-08-23
+* [Commit] [execution/state: skip the create-time storage wipe when the address has no account (#23506)](https://github.com/erigontech/erigon/commit/72fcfc20fbef27add68746a868a42aa175f3f202) - 2026-08-23
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

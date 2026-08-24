@@ -184,6 +184,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Fix invalid code delegations in txpool](https://github.com/besu-eth/besu/pull/11108#pullrequestreview-4989361494) - 2026-08-21
 * [Issue] [snap request metrics globalInFlightRequests edge cases](https://github.com/besu-eth/besu/issues/11122) - 2026-08-21
 * [Commit] [Fixes: GHSA-pcv4-pxhv-99m7 Cap concurrent snap/1-2 GET_* requests scheduled onto EthScheduler (#11101)](https://github.com/besu-eth/besu/commit/683880baa609111e6fee47ef1122dce7a76a154b) - 2026-08-21
+* [Pull Request] [fix: apply serverStepLimit cap to trace_callMany](https://github.com/besu-eth/besu/pull/11132) - 2026-08-24
+* [Pull Request] [fix: guard worldStateArchive.getWorldState() against unexpected exceptions in txpool code-delegation reconciliation](https://github.com/besu-eth/besu/pull/11130) - 2026-08-23
+* [Review] [Review on: fix: guard worldStateArchive.getWorldState() against unexpected exceptions in txpool code-delegation reconciliation](https://github.com/besu-eth/besu/pull/11130#pullrequestreview-5003754881) - 2026-08-24
+* [Review] [Review on: fix(parallel): abort speculative futures on block-budget abort](https://github.com/besu-eth/besu/pull/11104#pullrequestreview-5003507112) - 2026-08-23
+* [Review] [Review on: Fixes: GHSA-4776-8c3f-fx7g Added server side limit for steps in debug_traceCall](https://github.com/besu-eth/besu/pull/11100#pullrequestreview-5003505045) - 2026-08-23
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

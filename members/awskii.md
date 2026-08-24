@@ -347,6 +347,14 @@ Team: Erigon
 * [Commit] [execution, txnprovider: remove Polygon fork tiers from the EVM and consensus paths (#23495)](https://github.com/erigontech/erigon/commit/f604e7a69f28edfffeab49ad801efeff9bb33ae5) - 2026-08-22
 * [Commit] [cmd, db/integrity: drop Polygon wiring from the standalone tools (#23492)](https://github.com/erigontech/erigon/commit/9d22875feb1f7ebf98f7ec36455a59153da1b155) - 2026-08-22
 * [Commit] [cl, cmd: collapse the caplin hot sidecar stores onto one bucket store (#23451)](https://github.com/erigontech/erigon/commit/3f4e9513780e78513c7c75857e5b9738814d6e7a) - 2026-08-22
+* [Review] [Review on: [r3.5] txnprovider/txpool: load pool from db under p.lock](https://github.com/erigontech/erigon/pull/23512#pullrequestreview-5001801979) - 2026-08-23
+* [Review] [Review on: execution/stagedsync: cover the create-time storage wipe](https://github.com/erigontech/erigon/pull/23513#pullrequestreview-5001793412) - 2026-08-23
+* [Review] [Review on: execution/tracing: write traced storage values without escaping](https://github.com/erigontech/erigon/pull/23490#pullrequestreview-5001898517) - 2026-08-23
+* [Review] [Review on: [r3.6] execution/stagedsync: cover the create-time storage wipe](https://github.com/erigontech/erigon/pull/23514#pullrequestreview-5001802426) - 2026-08-23
+* [Review] [Review on: [r3.6] txnprovider/txpool: load pool from db under p.lock](https://github.com/erigontech/erigon/pull/23510#pullrequestreview-5001801908) - 2026-08-23
+* [Review] [Review on: txnprovider/txpool: load pool from db under p.lock](https://github.com/erigontech/erigon/pull/23511#pullrequestreview-5001801516) - 2026-08-23
+* [Review] [Review on: [r3.6] execution/state: skip the create-time storage wipe when the address has no account](https://github.com/erigontech/erigon/pull/23508#pullrequestreview-5001553929) - 2026-08-23
+* [Review] [Review on: execution/state: skip the create-time storage wipe when the address has no account](https://github.com/erigontech/erigon/pull/23506#pullrequestreview-5001447575) - 2026-08-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

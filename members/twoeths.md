@@ -139,6 +139,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(state-transition): use shared pubkey cache in Gloas tests](https://github.com/ChainSafe/lodestar/pull/9880#pullrequestreview-4989000452) - 2026-08-21
 * [Commit] [fix: handle attributable peers on range sync (#9836)](https://github.com/ChainSafe/lodestar/commit/4546ac1229590e8558683421b7e079ddd129ee10) - 2026-08-21
 * [Commit] [fix: prune prefinalized pending items in BlockInputSync (#9852)](https://github.com/ChainSafe/lodestar/commit/f591cb177e959e48cf0d47467897dd4387926c9e) - 2026-08-21
+* [Pull Request] [feat: tiered pruning of persisted checkpoint states](https://github.com/ChainSafe/lodestar/pull/9898) - 2026-08-23
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

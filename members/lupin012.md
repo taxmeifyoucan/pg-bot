@@ -149,6 +149,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [docs: fix bor_getVoteOnHash parameters and result type (#23427)](https://github.com/erigontech/erigon/commit/da31ae700988af7a0633452402dbc245826aed2f) - 2026-08-21
 * [Pull Request] [rpc: erigon_getLogsByHash: propagate real errors and check canonicity before the receipts cache](https://github.com/erigontech/erigon/pull/23507) - 2026-08-22
 * [Review] [Review on: rpc/gasprice: truncate blob fee arrays with the rest of the fee history](https://github.com/erigontech/erigon/pull/23484#pullrequestreview-5000268534) - 2026-08-22
+* [Commit] [rpc: erigon_getLogsByHash: propagate real errors and check canonicity before the receipts cache (#23507)](https://github.com/erigontech/erigon/commit/070e66185c705fac5e949ae54980044b76637853) - 2026-08-23
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

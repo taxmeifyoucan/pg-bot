@@ -170,6 +170,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: chore(docs): document bls/pk cache trust assumptions](https://github.com/ChainSafe/lodestar-z/pull/585#pullrequestreview-4990718581) - 2026-08-21
 * [Review] [Review on: refactor(pubkeys): drop deserialized lookup wrappers](https://github.com/ChainSafe/lodestar-z/pull/584#pullrequestreview-4990204528) - 2026-08-21
 * [Commit] [chore(docs): document bls/pk cache trust assumptions (#585)](https://github.com/ChainSafe/lodestar-z/commit/66ecb2315943f7a0ea2d1a718575be415a4328ae) - 2026-08-21
+* [Review] [Review on: feat(STF): implement Gloas Fork  ](https://github.com/ChainSafe/lodestar-z/pull/462#pullrequestreview-5002542457) - 2026-08-23
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

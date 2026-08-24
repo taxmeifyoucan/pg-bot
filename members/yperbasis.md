@@ -539,6 +539,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [rpc: apply eth_estimateGas state overrides to pre-execution checks](https://github.com/erigontech/erigon/issues/23502) - 2026-08-22
 * [Issue] [rpc: keep trace_callMany bundles on the parent state boundary](https://github.com/erigontech/erigon/issues/23501) - 2026-08-22
 * [Issue] [db: fall back when overlay in-memory history is disabled](https://github.com/erigontech/erigon/issues/23500) - 2026-08-22
+* [Review] [Review on: rpc: fix eth_getFilterLogs to match eth_getLogs with same criteria](https://github.com/erigontech/erigon/pull/23296#pullrequestreview-5002185551) - 2026-08-23
+* [Review] [Review on: vm: drop redundant return-data copy in CALL/CALLCODE/DELEGATECALL](https://github.com/erigontech/erigon/pull/23479#pullrequestreview-5002174241) - 2026-08-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

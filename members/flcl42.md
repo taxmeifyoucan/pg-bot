@@ -249,6 +249,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Update Glamsterdam devnet EEST fixtures to v8.1.1](https://github.com/NethermindEth/nethermind/pull/12944) - 2026-08-21
 * [Review] [Review on: fix(optimism): decode CL payloads with the generated SSZ decoder](https://github.com/NethermindEth/nethermind/pull/12946#pullrequestreview-4999016447) - 2026-08-22
 * [Review] [Review on: fix(optimism): validate the transaction offset table when decoding payloads](https://github.com/NethermindEth/nethermind/pull/12920#pullrequestreview-4999015313) - 2026-08-22
+* [Pull Request] [fix(evm): burn credited state gas on EIP-8037 exceptional halt](https://github.com/NethermindEth/nethermind/pull/12965) - 2026-08-23
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -267,6 +268,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [feat(tests): cover noncanonical deposit ABI offsets in eip6110 (#3240)](https://github.com/ethereum/execution-specs/commit/6fe02904f959b72658d8c83e0c653ede14966dba) - 2026-07-30
 * [Pull Request] [fix(tests): account for value in EIP-8070 transaction gas](https://github.com/ethereum/execution-specs/pull/3344) - 2026-08-10
 * [Commit] [fix(tests): account for value in EIP-8070 transaction gas (#3344)](https://github.com/ethereum/execution-specs/commit/ccaaaba58c748c072ca0ef9a09e91f9e3dcd277a) - 2026-08-10
+* [Pull Request] [feat(tests): EIP-8037 burn subcall reversal-refund credit on top-level halt](https://github.com/ethereum/execution-specs/pull/3422) - 2026-08-23
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [p2p, engine: retry downloader and limit body batches](https://github.com/erigontech/erigon/pull/22679) - 2026-07-22
 

@@ -202,6 +202,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: Charge the state-independent CALL costs first](https://github.com/ipsilon/evmone/pull/1668#pullrequestreview-5000751971) - 2026-08-22
 * [Issue] [Modular arithmetic: compile-time modulus and per-modulus strategy selection](https://github.com/ipsilon/evmone/issues/1671) - 2026-08-22
 * [Commit] [Charge the state-independent CALL costs first (#1668)](https://github.com/ipsilon/evmone/commit/c8d67056420fb61ac89b811afae845f4ed79e2d5) - 2026-08-22
+* [Pull Request] [Implement EIP-8037: "State Creation Gas Cost Increase"](https://github.com/ipsilon/evmone/pull/1672) - 2026-08-23
+* [Pull Request] [test: Replace gtest assertions in the fixture runners](https://github.com/ipsilon/evmone/pull/1673) - 2026-08-23
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -267,6 +269,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Issue] [Amsterdam: failing value-bearing CALLCODE to a precompile is charged no gas](https://github.com/besu-eth/besu/issues/11124) - 2026-08-22
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Issue] [Amsterdam: spilled EIP-8037 state gas is credited back to the parent reservoir on halt](https://github.com/NethermindEth/nethermind/issues/12964) - 2026-08-23
 ## Q2 2026
 
 

@@ -166,6 +166,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db/state: flip InvIdxCfg.Disable to InvIdxCfg.Enabled](https://github.com/erigontech/erigon/pull/23447#pullrequestreview-4992411854) - 2026-08-21
 * [Review] [Review on: cl, common: reuse snappy stream codecs from a pool](https://github.com/erigontech/erigon/pull/23423#pullrequestreview-4992320675) - 2026-08-21
 * [Review] [Review on: cl/persistence, db: pool zstd decoders, lower what zstd encoders hold](https://github.com/erigontech/erigon/pull/23435#pullrequestreview-4992331917) - 2026-08-21
+* [Pull Request] [diagnostics/diskutils, node: warn when datadir is not on ext4 or XFS](https://github.com/erigontech/erigon/pull/23524) - 2026-08-23
 ## Q2 2026
 
 
