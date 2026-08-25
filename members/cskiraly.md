@@ -26,6 +26,9 @@ Team: Codex DAS
 * [Commit] [crypto/kzg4844: add RecoverCells with systematic fast path (#35529)](https://github.com/ethereum/go-ethereum/commit/35a016346f0d79bf0cf2e07b4f5d146d87fd95cb) - 2026-08-19
 * [Review] [Review on: core/txpool/blobpool: speed up serving pre eth/72 peers](https://github.com/ethereum/go-ethereum/pull/35543#pullrequestreview-4979382393) - 2026-08-20
 * [Commit] [p2p/discover: try to fix TestUDPv5_lookupE2E by using SetFallbackUDP (#35542)](https://github.com/ethereum/go-ethereum/commit/02b73d4ea7181464175e0a6cbecc0a3a2655a562) - 2026-08-20
+* [Commit] [common/lru: add metered lru cache variant (#33719)](https://github.com/ethereum/go-ethereum/commit/a83a42b397e91ad34e11491a55d14963456c1665) - 2026-08-24
+* [Commit] [cmd/devp2p: add more hive discv5 coverage (#34770)](https://github.com/ethereum/go-ethereum/commit/e991e6aafa928410800c1210ee35654c9a4296e9) - 2026-08-24
+* [Commit] [core/txpool/blobpool: speed up serving pre eth/72 peers (#35543)](https://github.com/ethereum/go-ethereum/commit/7da8016e9421c07c7c1e333b91d4ad402b7c939d) - 2026-08-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4818065623) - 2026-07-30
 * [Pull Request] [Add EIP: RowDAS - Distributed Blob Reconstruction](https://github.com/ethereum/EIPs/pull/12118) - 2026-08-06

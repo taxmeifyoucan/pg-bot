@@ -72,6 +72,8 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: scope APPROVE failure modes to the current call frame](https://github.com/ethereum/EIPs/pull/12212#pullrequestreview-4987213939) - 2026-08-20
 * [Review] [Review on: Update EIP-8141: charge the resolved target's access at frame entry](https://github.com/ethereum/EIPs/pull/12211#pullrequestreview-4986985861) - 2026-08-20
 * [Review] [Review on: Update EIP-8141: fix calldata floor to use EIP-7976 uniform token count](https://github.com/ethereum/EIPs/pull/12209#pullrequestreview-4996633565) - 2026-08-21
+* [Review] [Review on: Add EIP: Remove the Sync Committee](https://github.com/ethereum/EIPs/pull/12228#pullrequestreview-5004053264) - 2026-08-24
+* [Review] [Review on: Update EIP-8141: account block execution gas before refund (EIP-7778)](https://github.com/ethereum/EIPs/pull/12226#pullrequestreview-5004050703) - 2026-08-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06
@@ -100,6 +102,7 @@ Team: Geth
 * [Review] [Review on: simulators/ethereum/rpc-compat: tracer-aware schema selection for speconly tests](https://github.com/ethereum/hive/pull/1588#pullrequestreview-4908201648) - 2026-08-11
 * [Review] [Review on: cmd/hivechain: add calltree contract and tx mods for callTracer testing](https://github.com/ethereum/hive/pull/1587#pullrequestreview-4907654341) - 2026-08-11
 
+* [Review] [Review on: Add Glamsterdam support to hivechain](https://github.com/ethereum/hive/pull/1589#pullrequestreview-5011065847) - 2026-08-24
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Frame Transaction Breakout #2, August 25, 2026](https://github.com/ethereum/pm/issues/2191) - 2026-08-13
 ## Q2 2026

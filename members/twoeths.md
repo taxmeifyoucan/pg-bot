@@ -140,6 +140,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: handle attributable peers on range sync (#9836)](https://github.com/ChainSafe/lodestar/commit/4546ac1229590e8558683421b7e079ddd129ee10) - 2026-08-21
 * [Commit] [fix: prune prefinalized pending items in BlockInputSync (#9852)](https://github.com/ChainSafe/lodestar/commit/f591cb177e959e48cf0d47467897dd4387926c9e) - 2026-08-21
 * [Pull Request] [feat: tiered pruning of persisted checkpoint states](https://github.com/ChainSafe/lodestar/pull/9898) - 2026-08-23
+* [Pull Request] [fix: bound payload envelope seen cache](https://github.com/ChainSafe/lodestar/pull/9904) - 2026-08-24
+* [Review] [Review on: fix: bound payload envelope seen cache](https://github.com/ChainSafe/lodestar/pull/9904#pullrequestreview-5006079879) - 2026-08-24
+* [Review] [Review on: feat: tiered pruning of persisted checkpoint states](https://github.com/ChainSafe/lodestar/pull/9898#pullrequestreview-5004332970) - 2026-08-24
+* [Review] [Review on: fix: always add api attestations to the pool](https://github.com/ChainSafe/lodestar/pull/9886#pullrequestreview-5004394010) - 2026-08-24
+* [Review] [Review on: fix: prune prefinalized pending items in BlockInputSync](https://github.com/ChainSafe/lodestar/pull/9852#pullrequestreview-5004045441) - 2026-08-24
+* [Commit] [fix: recompute head after pulling up checkpoints (#9864)](https://github.com/ChainSafe/lodestar/commit/bd761ec9ea1d69657a99530e0c76f08f8e315da9) - 2026-08-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

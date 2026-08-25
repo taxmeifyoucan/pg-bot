@@ -193,6 +193,12 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(opt): stop the Optimism receipts tracer from bypassing shared receipt population](https://github.com/NethermindEth/nethermind/pull/12925#pullrequestreview-4993310007) - 2026-08-21
 * [Review] [Review on: fix(rpc): keep frame receipt fields when a receipt is read back from JSON](https://github.com/NethermindEth/nethermind/pull/12923#pullrequestreview-4993204794) - 2026-08-21
 * [Pull Request] [fix(focil): keep blob-carrying frame txs out of the inclusion list](https://github.com/NethermindEth/nethermind/pull/12948) - 2026-08-21
+* [Pull Request] [Implement EIP-7805 (FOCIL)](https://github.com/NethermindEth/nethermind/pull/8003) - 2026-08-24
+* [Review] [Review on: test(eip8141): cover APPROVE return data and drop the stale spec-gap marker](https://github.com/NethermindEth/nethermind/pull/12912#pullrequestreview-5008055865) - 2026-08-24
+* [Review] [Review on: test(eip8141): pin frame tx blob presence and drop the stale spec-gap marker](https://github.com/NethermindEth/nethermind/pull/12913#pullrequestreview-5007163132) - 2026-08-24
+* [Review] [Review on: test(eip8141): lock frame tx decode bounds and drop stale spec-gap markers](https://github.com/NethermindEth/nethermind/pull/12911#pullrequestreview-5007014373) - 2026-08-24
+* [Review] [Review on: fix(frames): decode pre-2D scalar gas_used in stored frame-tx receipts](https://github.com/NethermindEth/nethermind/pull/12957#pullrequestreview-5006793107) - 2026-08-24
+* [Commit] [Implement EIP-7805 (FOCIL) (#8003)](https://github.com/NethermindEth/nethermind/commit/d4ef4fd56e924550d4a6a0de5aa8507a124305d5) - 2026-08-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -230,6 +236,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 
 * [Pull Request] [fix(tests): clear rlp_modifier when building inclusion-list variants](https://github.com/ethereum/execution-specs/pull/3406) - 2026-08-20
 * [Pull Request] [feat(specs,tests): dispatch a precompile a VERIFY frame targets](https://github.com/ethereum/execution-specs/pull/3407) - 2026-08-20
+* [Pull Request] [fix(specs,tests): widen a frame transaction's chain id to 256 bits](https://github.com/ethereum/execution-specs/pull/3428) - 2026-08-24
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: specify behaviour for an oversized aggregated inclusion list](https://github.com/ethereum/execution-apis/pull/864) - 2026-08-20
 ## Q2 2026

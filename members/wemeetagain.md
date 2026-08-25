@@ -134,6 +134,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: contain errors thrown while sending events to a client](https://github.com/ChainSafe/lodestar/pull/9871#pullrequestreview-4989026119) - 2026-08-21
 * [Review] [Review on: fix(state-transition): use shared pubkey cache in Gloas tests](https://github.com/ChainSafe/lodestar/pull/9880#pullrequestreview-4989002043) - 2026-08-21
 * [Commit] [fix: fallback when native chacha20-poly1305 is unavailable (#9879)](https://github.com/ChainSafe/lodestar/commit/ee197a8d7f1aa63d90c90abb48f9231a0fbcc87e) - 2026-08-21
+* [Review] [Review on: fix: recompute head after pulling up checkpoints](https://github.com/ChainSafe/lodestar/pull/9864#pullrequestreview-5009716251) - 2026-08-24
+* [Review] [Review on: feat: defer voluntary exits with transient validation failures](https://github.com/ChainSafe/lodestar/pull/9216#pullrequestreview-5010143725) - 2026-08-24
+* [Review] [Review on: chore: use released libp2p tcp shutdown fix](https://github.com/ChainSafe/lodestar/pull/9899#pullrequestreview-5011422055) - 2026-08-24
+* [Review] [Review on: fix: keep event stream alive if an event can not be serialized](https://github.com/ChainSafe/lodestar/pull/9872#pullrequestreview-5010204434) - 2026-08-24
+* [Review] [Review on: docs(fork-choice): document checkpoint return values](https://github.com/ChainSafe/lodestar/pull/9908#pullrequestreview-5009990976) - 2026-08-24
+* [Review] [Review on: ci: cache perf-state interop pubkeys](https://github.com/ChainSafe/lodestar/pull/9906#pullrequestreview-5009317617) - 2026-08-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -223,6 +229,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: update zapi to 4.0.0 (#571)](https://github.com/ChainSafe/lodestar-z/commit/de8e3fd1da17ab9e9feb8a2521c8027f284254a3) - 2026-08-19
 * [Review] [Review on: chore(docs): document bls/pk cache trust assumptions](https://github.com/ChainSafe/lodestar-z/pull/585#pullrequestreview-4994683302) - 2026-08-21
 * [Review] [Review on: refactor(pubkeys): drop deserialized lookup wrappers](https://github.com/ChainSafe/lodestar-z/pull/584#pullrequestreview-4994578371) - 2026-08-21
+* [Review] [Review on: fix(ssz): make container commits failure-atomic](https://github.com/ChainSafe/lodestar-z/pull/567#pullrequestreview-5012255744) - 2026-08-24
+* [Review] [Review on: chore(docs): readme housekeeping + add contributing doc](https://github.com/ChainSafe/lodestar-z/pull/560#pullrequestreview-5012197751) - 2026-08-24
+* [Review] [Review on: feat(shuffle): add PTC sampling](https://github.com/ChainSafe/lodestar-z/pull/563#pullrequestreview-5008603123) - 2026-08-24
+* [Review] [Review on: fix(ssz): clean up partially initialized tree view values](https://github.com/ChainSafe/lodestar-z/pull/579#pullrequestreview-5011863941) - 2026-08-24
+* [Review] [Review on: chore: resolve conflicts on SSZ cleanup branch](https://github.com/ChainSafe/lodestar-z/pull/593#pullrequestreview-5011680902) - 2026-08-24
+* [Review] [Review on: fix(ssz): clean up recursive hasher initialization](https://github.com/ChainSafe/lodestar-z/pull/592#pullrequestreview-5011449047) - 2026-08-24
+* [Review] [Review on: chore(docs): add AI_POLICY](https://github.com/ChainSafe/lodestar-z/pull/590#pullrequestreview-5009697868) - 2026-08-24
+* [Review] [Review on: fix(ssz): make tree view publication atomic](https://github.com/ChainSafe/lodestar-z/pull/574#pullrequestreview-5009955791) - 2026-08-24
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

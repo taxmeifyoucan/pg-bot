@@ -210,6 +210,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Ignore proposer preferences for pre-Gloas slots (#5559)](https://github.com/ethereum/consensus-specs/commit/7f8e79a6b4803ad04acf7648b5dd7686645d98f6) - 2026-08-21
 * [Review] [Review on: Set sweep threshold when switching to 0x02 and cap effective balance](https://github.com/ethereum/consensus-specs/pull/5557#pullrequestreview-5000565204) - 2026-08-22
 * [Review] [Review on: Allow setting the sweep threshold at deposit time](https://github.com/ethereum/consensus-specs/pull/5537#pullrequestreview-5000383101) - 2026-08-22
+* [Pull Request] [Do not emit ssz-static tests above ProgressiveList soft limits](https://github.com/ethereum/consensus-specs/pull/5564) - 2026-08-25
+* [Pull Request] [Load gossip validation state from the store](https://github.com/ethereum/consensus-specs/pull/5563) - 2026-08-24
+* [Review] [Review on: Allow setting the sweep threshold at deposit time](https://github.com/ethereum/consensus-specs/pull/5537#pullrequestreview-5008026355) - 2026-08-24
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5561#pullrequestreview-5008009933) - 2026-08-24
+* [Issue] [Improve gossip checks for invalid payloads](https://github.com/ethereum/consensus-specs/issues/5562) - 2026-08-24
+* [Commit] [Define `sha256` & `blake3` spec functions (#5555)](https://github.com/ethereum/consensus-specs/commit/57eba76127345eae405cd19ec59f4a8d32b7692f) - 2026-08-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

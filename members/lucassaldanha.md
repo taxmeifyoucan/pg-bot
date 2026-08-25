@@ -99,6 +99,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Set bid fields upgrade gloas + v1.7.0-alpha.14 fixes (#11152)](https://github.com/Consensys/teku/commit/392a39df59c9adb6fdb7471270a96c1e6b746973) - 2026-08-20
 * [Review] [Review on: Avoid quadratic BLS verification onboarding builders at Gloas fork](https://github.com/Consensys/teku/pull/11155#pullrequestreview-5003733905) - 2026-08-24
 * [Review] [Review on: BatchSync Improvements](https://github.com/Consensys/teku/pull/11158#pullrequestreview-5003629423) - 2026-08-23
+* [Review] [Review on: fix publish to maven, fix api job and use github token](https://github.com/Consensys/teku/pull/11115#pullrequestreview-5013423148) - 2026-08-24
+* [Review] [Review on: BatchSync Improvements](https://github.com/Consensys/teku/pull/11158#pullrequestreview-5013389236) - 2026-08-24
+* [Review] [Review on: Implement standalone VC PTC duties for Gloas](https://github.com/Consensys/teku/pull/11137#pullrequestreview-5003954389) - 2026-08-24
 ## Q2 2026
 
 

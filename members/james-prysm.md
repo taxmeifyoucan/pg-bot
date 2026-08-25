@@ -166,6 +166,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [fixes found around stateless flows (#17391)](https://github.com/OffchainLabs/prysm/commit/d490ed0ac83afb55c0ca9ea067a4e9fde778773f) - 2026-08-20
 * [Commit] [fixing ux bug on default hosts log (#17388)](https://github.com/OffchainLabs/prysm/commit/b7ca6823f0b898d25e66dbbd11743d0a4041eefa) - 2026-08-20
 * [Pull Request] [connecting validator client builder apis for gloas ](https://github.com/OffchainLabs/prysm/pull/17397) - 2026-08-21
+* [Review] [Review on: Extract shared indexed-list decoders for beacon REST handlers](https://github.com/OffchainLabs/prysm/pull/17399#pullrequestreview-5012980274) - 2026-08-24
+* [Review] [Review on: Bound the payload envelope data column wait in envelope recovery paths](https://github.com/OffchainLabs/prysm/pull/17403#pullrequestreview-5011158322) - 2026-08-24
+* [Review] [Review on: builder beacon apis for gloas](https://github.com/OffchainLabs/prysm/pull/17392#pullrequestreview-5010430919) - 2026-08-24
+* [Review] [Review on: fixing builder preference push frequency](https://github.com/OffchainLabs/prysm/pull/17386#pullrequestreview-5009550250) - 2026-08-24
+* [Review] [Review on: Beacon API: Return `404` instead of `500` if state not found.](https://github.com/OffchainLabs/prysm/pull/17402#pullrequestreview-5008556570) - 2026-08-24
+* [Review] [Review on: stateless by default on multinode](https://github.com/OffchainLabs/prysm/pull/17390#pullrequestreview-5008608105) - 2026-08-24
+* [Review] [Review on: Compute correctly the `finalized` field value in a bunch of beacon API endpoints.](https://github.com/OffchainLabs/prysm/pull/17401#pullrequestreview-5008742839) - 2026-08-24
 ## Q2 2026
 
 

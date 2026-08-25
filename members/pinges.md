@@ -34,6 +34,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: Upgrade log4j to 2.25.5](https://github.com/besu-eth/besu/pull/11075#pullrequestreview-4960471097) - 2026-08-18
 * [Review] [Review on: Fix --discovery-mode=BOTH/V5 peer-churn CPU regression](https://github.com/besu-eth/besu/pull/11027#pullrequestreview-4959438388) - 2026-08-18
 * [Review] [Review on: CLI option for snap download headers to checkpoint only](https://github.com/besu-eth/besu/pull/10958#pullrequestreview-4969853809) - 2026-08-19
+* [Review] [Review on: CLI option for snap download headers to checkpoint only](https://github.com/besu-eth/besu/pull/10958#pullrequestreview-5010841370) - 2026-08-24
+* [Review] [Review on: Add EIP-8070 Engine API surface: engine_getBlobsV4 and custodyColumns](https://github.com/besu-eth/besu/pull/11141#pullrequestreview-5012562069) - 2026-08-24
 ## Q2 2026
 
 

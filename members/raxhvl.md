@@ -13,6 +13,7 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Move to Review](https://github.com/ethereum/EIPs/pull/11875#pullrequestreview-4646199390) - 2026-07-07
+* [Pull Request] [Update EIP-8141: Move mode section under Frame definition](https://github.com/ethereum/EIPs/pull/12236) - 2026-08-24
 ## Q2 2026
 
 

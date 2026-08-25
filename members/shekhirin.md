@@ -60,6 +60,7 @@ Team: Reth
 * [Pull Request] [feat(node): testing node with persistent datadir](https://github.com/paradigmxyz/reth/pull/26774) - 2026-08-20
 * [Pull Request] [feat(storage): configure historical state root warning threshold](https://github.com/paradigmxyz/reth/pull/26773) - 2026-08-20
 * [Commit] [feat(node): testing node with persistent datadir (#26774)](https://github.com/paradigmxyz/reth/commit/dc83c609a8336c1d3e29b467ddbc9d896908bd14) - 2026-08-20
+* [Review] [Review on: feat(txpool): add consensus encoding helper](https://github.com/paradigmxyz/reth/pull/26739#pullrequestreview-5007471222) - 2026-08-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

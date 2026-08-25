@@ -92,6 +92,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Hedge slow requests in SimpleSidecarRetriever](https://github.com/Consensys/teku/pull/11011#pullrequestreview-4982180476) - 2026-08-20
 * [Commit] [FCR reference tests  (#11146)](https://github.com/Consensys/teku/commit/8bf7e9ea81e4d7c87a47379f257128a4de09a8b8) - 2026-08-20
 * [Commit] [FCR event (#11145)](https://github.com/Consensys/teku/commit/96f232861100aadf5f125b4d81c0dd3a62c8e245) - 2026-08-20
+* [Review] [Review on: BatchSync Improvements](https://github.com/Consensys/teku/pull/11158#pullrequestreview-5005702194) - 2026-08-24
+* [Pull Request] [Other sync improvements](https://github.com/Consensys/teku/pull/11162) - 2026-08-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

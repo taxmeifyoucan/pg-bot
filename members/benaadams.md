@@ -210,6 +210,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(evm): skip redundant EVM memory zeroing on overwrites and fresh allocations](https://github.com/NethermindEth/nethermind/pull/12953) - 2026-08-22
 * [Review] [Review on: perf(evm): skip redundant EVM memory zeroing on overwrites and fresh allocations](https://github.com/NethermindEth/nethermind/pull/12953#pullrequestreview-4998753746) - 2026-08-22
 * [Review] [Review on: Add a perf profiling mode to the benchmark workflow](https://github.com/NethermindEth/nethermind/pull/12952#pullrequestreview-4999847058) - 2026-08-22
+* [Review] [Review on: fix(jsonrpc): return gas-minimal empty access list under EIP-7981](https://github.com/NethermindEth/nethermind/pull/12970#pullrequestreview-5007021472) - 2026-08-24
+* [Pull Request] [Release native list buffer when construction fails](https://github.com/NethermindEth/nethermind/pull/12975) - 2026-08-24
+* [Review] [Review on: Release native list buffer when construction fails](https://github.com/NethermindEth/nethermind/pull/12975#pullrequestreview-5009605216) - 2026-08-24
+* [Review] [Review on: fix(estimateGas): return exact minimum for value transfers that create the recipient](https://github.com/NethermindEth/nethermind/pull/12971#pullrequestreview-5006960670) - 2026-08-24
+* [Review] [Review on: fix(debug): honour the tracer's Execute↔Trace swap on the EIP-7928 BAL path](https://github.com/NethermindEth/nethermind/pull/12972#pullrequestreview-5007114595) - 2026-08-24
+* [Commit] [perf(evm): skip redundant EVM memory zeroing on overwrites and fresh allocations (#12953)](https://github.com/NethermindEth/nethermind/commit/55d6f3377f1a302edda4ebbbb266bc7356dc50ee) - 2026-08-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

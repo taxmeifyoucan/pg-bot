@@ -379,6 +379,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: contain errors thrown while sending events to a client (#9871)](https://github.com/ChainSafe/lodestar/commit/34f6f273fed31d36d3d9e76319b70fc5cae6c5e1) - 2026-08-21
 * [Review] [Review on: fix: keep event stream alive if an event can not be serialized](https://github.com/ChainSafe/lodestar/pull/9872#pullrequestreview-4999363487) - 2026-08-22
 * [Review] [Review on: refactor: assert BeaconEvent type in eventstream handler](https://github.com/ChainSafe/lodestar/pull/9894#pullrequestreview-4999216752) - 2026-08-22
+* [Review] [Review on: fix: recompute head after pulling up checkpoints](https://github.com/ChainSafe/lodestar/pull/9864#pullrequestreview-5010563400) - 2026-08-24
+* [Review] [Review on: fix: bound payload envelope seen cache](https://github.com/ChainSafe/lodestar/pull/9904#pullrequestreview-5011866472) - 2026-08-24
+* [Review] [Review on: chore: use released libp2p tcp shutdown fix](https://github.com/ChainSafe/lodestar/pull/9899#pullrequestreview-5011406809) - 2026-08-24
+* [Review] [Review on: chore(deps): bump the actions group with 4 updates](https://github.com/ChainSafe/lodestar/pull/9907#pullrequestreview-5009402220) - 2026-08-24
+* [Review] [Review on: ci: external contributor workflow error](https://github.com/ChainSafe/lodestar/pull/9905#pullrequestreview-5007537038) - 2026-08-24
+* [Review] [Review on: docs: fix broken gitpoap badge, add links to ES/Node version badges](https://github.com/ChainSafe/lodestar/pull/9901#pullrequestreview-5005665473) - 2026-08-24
+* [Commit] [fix: keep event stream alive if an event can not be serialized (#9872)](https://github.com/ChainSafe/lodestar/commit/1c8babbe6e9bafc861408f9314f05edec9d736be) - 2026-08-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -462,6 +469,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: avoid slow tests in AGENTS.md](https://github.com/ChainSafe/lodestar-z/pull/544#pullrequestreview-4885090893) - 2026-08-07
 
 * [Review] [Review on: chore: prepare 1.0.0 release](https://github.com/ChainSafe/lodestar-z/pull/576#pullrequestreview-4975874039) - 2026-08-19
+* [Review] [Review on: chore(docs): add AI_POLICY](https://github.com/ChainSafe/lodestar-z/pull/590#pullrequestreview-5005836566) - 2026-08-24
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Return 404 for unknown keymanager validator keys](https://github.com/Consensys/teku/pull/11133) - 2026-08-18
 * [Commit] [Return 404 for unknown keymanager validator keys (#11133)](https://github.com/Consensys/teku/commit/93b41c1833441603b8272ddfec7a7fd7100508a5) - 2026-08-18

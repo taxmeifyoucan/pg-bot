@@ -541,6 +541,18 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Issue] [db: fall back when overlay in-memory history is disabled](https://github.com/erigontech/erigon/issues/23500) - 2026-08-22
 * [Review] [Review on: rpc: fix eth_getFilterLogs to match eth_getLogs with same criteria](https://github.com/erigontech/erigon/pull/23296#pullrequestreview-5002185551) - 2026-08-23
 * [Review] [Review on: vm: drop redundant return-data copy in CALL/CALLCODE/DELEGATECALL](https://github.com/erigontech/erigon/pull/23479#pullrequestreview-5002174241) - 2026-08-23
+* [Review] [Review on: rpc/jsonrpc: fail trace_filter instead of mixing error objects into the result array](https://github.com/erigontech/erigon/pull/23346#pullrequestreview-5006718635) - 2026-08-24
+* [Pull Request] [execution, node: test RPC state across unwind phases](https://github.com/erigontech/erigon/pull/23543) - 2026-08-24
+* [Review] [Review on: execution/vm: build the trace Version inside the trace guard](https://github.com/erigontech/erigon/pull/23527#pullrequestreview-5006967795) - 2026-08-24
+* [Review] [Review on: rpc: allocate the access-list tracer's maps on first write](https://github.com/erigontech/erigon/pull/23453#pullrequestreview-5006528132) - 2026-08-24
+* [Review] [Review on: txnprovider/txpool: limit delegated sender transactions](https://github.com/erigontech/erigon/pull/23294#pullrequestreview-5008575729) - 2026-08-24
+* [Review] [Review on: devp2p: remove unused wit0 side protocol](https://github.com/erigontech/erigon/pull/23537#pullrequestreview-5007267040) - 2026-08-24
+* [Review] [Review on: execution/vm: benchmark deep call stacks and deep calls holding memory](https://github.com/erigontech/erigon/pull/23528#pullrequestreview-5006990501) - 2026-08-24
+* [Review] [Review on: vm: drop redundant return-data copy in CALL/CALLCODE/DELEGATECALL](https://github.com/erigontech/erigon/pull/23479#pullrequestreview-5007102536) - 2026-08-24
+* [Review] [Review on: rpc/jsonstream: drop Write, leaving WriteRawBytes as the only raw path](https://github.com/erigontech/erigon/pull/23504#pullrequestreview-5007078093) - 2026-08-24
+* [Review] [Review on: execution/chain: compare the timestamp forks in checkCompatible, not just the block ones](https://github.com/erigontech/erigon/pull/23466#pullrequestreview-5006843529) - 2026-08-24
+* [Review] [Review on: rpc/jsonrpc: return hexutil.U256 from the eth_/erigon_ quantity getters](https://github.com/erigontech/erigon/pull/23216#pullrequestreview-5006760067) - 2026-08-24
+* [Issue] [txnprovider/txpool: refresh stale state views after OnNewBlock overtakes admission](https://github.com/erigontech/erigon/issues/23540) - 2026-08-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

@@ -204,6 +204,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Charge the state-independent CALL costs first (#1668)](https://github.com/ipsilon/evmone/commit/c8d67056420fb61ac89b811afae845f4ed79e2d5) - 2026-08-22
 * [Pull Request] [Implement EIP-8037: "State Creation Gas Cost Increase"](https://github.com/ipsilon/evmone/pull/1672) - 2026-08-23
 * [Pull Request] [test: Replace gtest assertions in the fixture runners](https://github.com/ipsilon/evmone/pull/1673) - 2026-08-23
+* [Issue] [Try fancy compiler flags](https://github.com/ipsilon/evmone/issues/1674) - 2026-08-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -252,10 +253,16 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): EIP-7928 - union reverted storage reads across transactions (#3399)](https://github.com/ethereum/execution-specs/commit/3d473e865a6ff78321e8b7b015b0e9a4bb8da892) - 2026-08-20
 * [Pull Request] [feat(tests): EIP-7702 - keep authority storage when clearing a delegation](https://github.com/ethereum/execution-specs/pull/3421) - 2026-08-22
 * [Pull Request] [feat(tests): EIP-7702 - precompile calls from a delegated frame](https://github.com/ethereum/execution-specs/pull/3420) - 2026-08-22
+* [Pull Request] [feat(tests): EIP-8037 - consume spilled state gas along a halt chain](https://github.com/ethereum/execution-specs/pull/3423) - 2026-08-24
+* [Commit] [feat(tests): EIP-7702 - precompile calls from a delegated frame (#3420)](https://github.com/ethereum/execution-specs/commit/df93c004ab19c3f04350c5b29dc29df15cf5f26e) - 2026-08-24
+* [Commit] [feat(tests): EIP-7702 - keep authority storage when clearing a delegation (#3421)](https://github.com/ethereum/execution-specs/commit/7ae05827b0fc919377e90a5a1a98b99db9d0bef5) - 2026-08-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
 
+* [Pull Request] [Update EIP-8037: decouple SYSTEM_MAX_SSTORES_PER_CALL from request bounds](https://github.com/ethereum/EIPs/pull/12238) - 2026-08-24
+* [Pull Request] [Update EIP-8246: give a concrete example of L2 burn usage](https://github.com/ethereum/EIPs/pull/12237) - 2026-08-24
+* [Pull Request] [Update EIP-8246: note the CREATE2 redeploy of a funded remnant](https://github.com/ethereum/EIPs/pull/12234) - 2026-08-24
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22522#pullrequestreview-4717730901) - 2026-07-16
 * [Pull Request] [types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514) - 2026-07-16

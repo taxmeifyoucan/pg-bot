@@ -234,6 +234,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-evm-tools): restore state test compatibility](https://github.com/ethereum/execution-specs/pull/3409#pullrequestreview-4999841866) - 2026-08-22
 * [Issue] [chore(test-fill): make pre-alloc grouping safe for `ported_static` and remove the Engine X drift](https://github.com/ethereum/execution-specs/issues/3419) - 2026-08-22
 * [Issue] [Test Release Tracker: `frames-devnet@v0.1.0`](https://github.com/ethereum/execution-specs/issues/3415) - 2026-08-22
+* [Review] [Review on: feat(tests): EIP-8037 - consume spilled state gas along a halt chain](https://github.com/ethereum/execution-specs/pull/3423#pullrequestreview-5009149611) - 2026-08-24
+* [Pull Request] [feat(spec-specs, tests): implement EIP-8368 CPSB recalibration for a new gas limit](https://github.com/ethereum/execution-specs/pull/3434) - 2026-08-24
+* [Pull Request] [feat(tests): EIP-8037 - pin gas on the unasserted child-halt spill tests](https://github.com/ethereum/execution-specs/pull/3427) - 2026-08-24
+* [Review] [Review on: test(spec-specs): add unit tests for get_last_256_block_hashes](https://github.com/ethereum/execution-specs/pull/3397#pullrequestreview-5006585339) - 2026-08-24
+* [Review] [Review on: feat(tests): add genesis block header field test for BAL hash](https://github.com/ethereum/execution-specs/pull/3416#pullrequestreview-5006646517) - 2026-08-24
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

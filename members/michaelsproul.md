@@ -63,6 +63,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Gloas payload attributes use the wrong withdrawals after an empty parent](https://github.com/sigp/lighthouse/pull/9894#pullrequestreview-4987551495) - 2026-08-20
 * [Review] [Review on: Gloas alpha 14 EF tests](https://github.com/sigp/lighthouse/pull/9884#pullrequestreview-4978958619) - 2026-08-20
 * [Review] [Review on:  Explicitly set bid fields when upgrading to Gloas](https://github.com/sigp/lighthouse/pull/9876#pullrequestreview-4978967541) - 2026-08-20
+* [Review] [Review on: Enable Gloas FCR ef-tests and use parent-first safe hash](https://github.com/sigp/lighthouse/pull/9910#pullrequestreview-5006718585) - 2026-08-24
+* [Review] [Review on: Gloas payload attributes use the wrong withdrawals after an empty parent](https://github.com/sigp/lighthouse/pull/9894#pullrequestreview-5004844949) - 2026-08-24
+* [Review] [Review on: Align gloas proposer reorg weight logic w/ spec ](https://github.com/sigp/lighthouse/pull/9831#pullrequestreview-5005836195) - 2026-08-24
+* [Review] [Review on: Initiate a shutdown if the node cannot recover from a diverged fork choice](https://github.com/sigp/lighthouse/pull/9819#pullrequestreview-5005741997) - 2026-08-24
 ## Q2 2026
 
 

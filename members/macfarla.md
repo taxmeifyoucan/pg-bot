@@ -189,6 +189,25 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix: guard worldStateArchive.getWorldState() against unexpected exceptions in txpool code-delegation reconciliation](https://github.com/besu-eth/besu/pull/11130#pullrequestreview-5003754881) - 2026-08-24
 * [Review] [Review on: fix(parallel): abort speculative futures on block-budget abort](https://github.com/besu-eth/besu/pull/11104#pullrequestreview-5003507112) - 2026-08-23
 * [Review] [Review on: Fixes: GHSA-4776-8c3f-fx7g Added server side limit for steps in debug_traceCall](https://github.com/besu-eth/besu/pull/11100#pullrequestreview-5003505045) - 2026-08-23
+* [Review] [Review on: Clamp admin_generateLogBloomCache block bounds to the chain head](https://github.com/besu-eth/besu/pull/11135#pullrequestreview-5013825076) - 2026-08-25
+* [Review] [Review on: Amsterdam devnet-8: EIP-2780/8038 gas revisions and fixtures v8.1.1](https://github.com/besu-eth/besu/pull/11140#pullrequestreview-5013763834) - 2026-08-25
+* [Review] [Review on: rpc: support dynamic reorg tracking for transaction receipt logs](https://github.com/besu-eth/besu/pull/11076#pullrequestreview-5004330965) - 2026-08-24
+* [Pull Request] [fix: apply serverStepLimit cap to trace_callMany](https://github.com/besu-eth/besu/pull/11142) - 2026-08-24
+* [Review] [Review on: fix: apply serverStepLimit cap to trace_callMany](https://github.com/besu-eth/besu/pull/11142#pullrequestreview-5013184946) - 2026-08-24
+* [Review] [Review on: Enable NullAway for Ethereum permissioning](https://github.com/besu-eth/besu/pull/10943#pullrequestreview-5013381933) - 2026-08-24
+* [Review] [Review on: Fixes: GHSA-4776-8c3f-fx7g Added server side limit for steps in debug_traceCall](https://github.com/besu-eth/besu/pull/11100#pullrequestreview-5004324546) - 2026-08-24
+* [Review] [Review on: Remove RpcMethod constants for methods that no longer exist](https://github.com/besu-eth/besu/pull/11120#pullrequestreview-5003944692) - 2026-08-24
+* [Review] [Review on: Enable NullAway for config](https://github.com/besu-eth/besu/pull/10951#pullrequestreview-5004531316) - 2026-08-24
+* [Review] [Review on: Add `--include-bals` to `blocks export`](https://github.com/besu-eth/besu/pull/11042#pullrequestreview-5004450990) - 2026-08-24
+* [Review] [Review on: Remove parameter and result classes left by removed RPC methods](https://github.com/besu-eth/besu/pull/11121#pullrequestreview-5004077412) - 2026-08-24
+* [Review] [Review on: referencetests: engine fixture spec and devnet transition-fork schedules](https://github.com/besu-eth/besu/pull/11029#pullrequestreview-5004044428) - 2026-08-24
+* [Review] [Review on: Fix error type for eth_getTransactionByBlockHashAndIndex block hash parameter](https://github.com/besu-eth/besu/pull/11119#pullrequestreview-5004021952) - 2026-08-24
+* [Commit] [fix: apply serverStepLimit cap to trace_callMany (#11142)](https://github.com/besu-eth/besu/commit/e339b80a4fd8cb76053cf4cdce080946fd4a2849) - 2026-08-24
+* [Commit] [Fixes: GHSA-9w9r-w3rf-j6vj enforce maxLogRange on eth_getFilterLogs and eth_newFilter (#11099)](https://github.com/besu-eth/besu/commit/7c3a30b8a24c4e5d896d9230cc223962b61af4c1) - 2026-08-24
+* [Commit] [Don't materialize an unrewarded fee recipient in the optimistic parallel merge (#11098)](https://github.com/besu-eth/besu/commit/6d978a6d4514368d8f4c16e8842c979f388d52e6) - 2026-08-24
+* [Commit] [Fixes: GHSA-4776-8c3f-fx7g Added server side limit for steps in debug_traceCall (#11100)](https://github.com/besu-eth/besu/commit/47398b0e32c07fb7447087280abe955349da1d85) - 2026-08-24
+* [Commit] [fix(parallel): abort speculative futures on block-budget abort (#11104)](https://github.com/besu-eth/besu/commit/2ae506fa5875b82638123ee6ad29933b43a8d7bb) - 2026-08-24
+* [Commit] [fix: return MIN_BLOB_GASPRICE in no-fee simulation path (#10899)](https://github.com/besu-eth/besu/commit/0178a1650373cf0c855293cd2b73ae4691aa29e5) - 2026-08-24
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

@@ -146,6 +146,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [perf(db): use LZ4 instead of Snappy for the default database codec](https://github.com/NethermindEth/nethermind/pull/12955) - 2026-08-22
 * [Pull Request] [perf(diag): make the cross-block state cache observable](https://github.com/NethermindEth/nethermind/pull/12958) - 2026-08-22
 * [Pull Request] [ci: reap stale expb overlay mounts on the arm benchmark runner](https://github.com/NethermindEth/nethermind/pull/12959) - 2026-08-22
+* [Pull Request] [ci: fix sedge build on the sync runners (Go proxy 403 on redirected module zips)](https://github.com/NethermindEth/nethermind/pull/12976) - 2026-08-24
+* [Commit] [ci: fix sedge build on the sync runners (Go proxy 403 on redirected module zips) (#12976)](https://github.com/NethermindEth/nethermind/commit/c91d4eaeecb259e56ee008c562fa5f696a64f39a) - 2026-08-24
+* [Commit] [ci: disable .NET package caching again (#12901)](https://github.com/NethermindEth/nethermind/commit/e1a9298f61899ad379e421e79dcd404576c06e93) - 2026-08-24
+* [Commit] [ci(bench): stop auto-triggering RPC benchmarks on 'performance is good', shorten the corpus warm-up (#12949)](https://github.com/NethermindEth/nethermind/commit/aa490c4e0b18146ba094592deae5a3104026e3df) - 2026-08-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

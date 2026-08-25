@@ -63,6 +63,7 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [stream hdiff validator comparison](https://github.com/OffchainLabs/prysm/pull/17396) - 2026-08-21
 * [Pull Request] [fix sync committee duty bug for exited vals - pre gloas](https://github.com/OffchainLabs/prysm/pull/17395) - 2026-08-21
 * [Commit] [stream hdiff validator comparison (#17396)](https://github.com/OffchainLabs/prysm/commit/77f5dd1662a742e38e5e476480edf16876b57697) - 2026-08-22
+* [Review] [Review on: Compute correctly the `finalized` field value in a bunch of beacon API endpoints.](https://github.com/OffchainLabs/prysm/pull/17401#pullrequestreview-5007689883) - 2026-08-24
 ## Q2 2026
 
 

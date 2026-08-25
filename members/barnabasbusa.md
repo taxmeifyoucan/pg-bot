@@ -176,8 +176,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 * [Pull Request] [Avoid quadratic BLS verification onboarding builders at Gloas fork](https://github.com/Consensys/teku/pull/11155) - 2026-08-20
 * [Issue] [Gloas fork transition wedges: O(K²) BLS verifies in onboardBuildersFromPendingDeposits on large pending-deposit queue](https://github.com/Consensys/teku/issues/11154) - 2026-08-20
+* [Commit] [Avoid quadratic BLS verification onboarding builders at Gloas fork (#11155)](https://github.com/Consensys/teku/commit/0252cae21919424597f9f6c773235c9a6ab37877) - 2026-08-24
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [internal/ethapi: skip unconfigured forks when computing next fork in eth_config](https://github.com/ethereum/go-ethereum/pull/35553) - 2026-08-18
+* [Commit] [internal/ethapi: skip unconfigured forks when computing next fork in eth_config (#35553)](https://github.com/ethereum/go-ethereum/commit/e5566cea633266ab5fc0fdf1b88f2f7dfe800f03) - 2026-08-24
 ## Q2 2026
 
 

@@ -60,6 +60,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix: fallback when native chacha20-poly1305 is unavailable](https://github.com/ChainSafe/lodestar/pull/9879#pullrequestreview-4992083112) - 2026-08-21
 * [Commit] [feat(blst): use lodestar-z blst (#8900)](https://github.com/ChainSafe/lodestar/commit/931ecbec99db681a3c2e5749a41e1253e3842249) - 2026-08-21
 * [Review] [Review on: test: align benchmark pubkeys with lodestar-z global pubkey cache](https://github.com/ChainSafe/lodestar/pull/9893#pullrequestreview-4999376705) - 2026-08-22
+* [Review] [Review on: chore: use released libp2p tcp shutdown fix](https://github.com/ChainSafe/lodestar/pull/9899#pullrequestreview-5011349897) - 2026-08-24
+* [Review] [Review on: test(perf): populate appended load-state pubkeys](https://github.com/ChainSafe/lodestar/pull/9897#pullrequestreview-5006085170) - 2026-08-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -171,6 +173,12 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: refactor(pubkeys): drop deserialized lookup wrappers](https://github.com/ChainSafe/lodestar-z/pull/584#pullrequestreview-4990204528) - 2026-08-21
 * [Commit] [chore(docs): document bls/pk cache trust assumptions (#585)](https://github.com/ChainSafe/lodestar-z/commit/66ecb2315943f7a0ea2d1a718575be415a4328ae) - 2026-08-21
 * [Review] [Review on: feat(STF): implement Gloas Fork  ](https://github.com/ChainSafe/lodestar-z/pull/462#pullrequestreview-5002542457) - 2026-08-23
+* [Review] [Review on: chore(docs): readme housekeeping + add contributing doc](https://github.com/ChainSafe/lodestar-z/pull/560#pullrequestreview-5004887953) - 2026-08-24
+* [Review] [Review on: feat(shuffle): add PTC sampling](https://github.com/ChainSafe/lodestar-z/pull/563#pullrequestreview-5008883039) - 2026-08-24
+* [Review] [Review on: fix(ssz): clean up partially initialized tree view values](https://github.com/ChainSafe/lodestar-z/pull/579#pullrequestreview-5004493656) - 2026-08-24
+* [Pull Request] [chore(docs): add AI_POLICY](https://github.com/ChainSafe/lodestar-z/pull/590) - 2026-08-24
+* [Review] [Review on: chore(docs): add AI_POLICY](https://github.com/ChainSafe/lodestar-z/pull/590#pullrequestreview-5004737809) - 2026-08-24
+* [Issue] [reliable benchmarking](https://github.com/ChainSafe/lodestar-z/issues/591) - 2026-08-24
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

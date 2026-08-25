@@ -133,6 +133,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #535 from protocolguild/cheeky-gorilla-patch-11](https://github.com/protocolguild/documentation/commit/50531dc890d9abf70e8a673a73975ed910affe40) - 2026-08-21
 * [Commit] [Update Cryptography team](https://github.com/protocolguild/documentation/commit/fb7b64811661fa094ad4387dc606d31d492ec9d1) - 2026-08-21
 * [Commit] [Merge pull request #534 from protocolguild/cheeky-gorilla-patch-10](https://github.com/protocolguild/documentation/commit/3aa65e3d5ffea94ac989df070aca83eede65c0a9) - 2026-08-21
+* [Commit] [Add bridge multisigs for Arb, Base and Op](https://github.com/protocolguild/documentation/commit/fe44f09d50c8c768b4b084936610345c713396b6) - 2026-08-24
 [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site)
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/e6b14d7ca4339655efae86d7ad13a05fb14f43ee) - 2026-07-07
 * [Commit] [Update Splits URLs](https://github.com/protocolguild/protocol-guild-site/commit/575f773fb569863447ec1e75d194b1ab0a05f41f) - 2026-07-07
@@ -154,6 +155,7 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Create delete.txt](https://github.com/protocolguild/protocol-guild-site/commit/2ff22e0ad10464f6f5338dfe320bd1d46fedaf63) - 2026-08-20
 * [Commit] [Delete public/20260820-aligned-donation directory](https://github.com/protocolguild/protocol-guild-site/commit/fa4f9b2359d3709114fc143ebfec05f60ae9463f) - 2026-08-20
 * [Commit] [Create delete.txt](https://github.com/protocolguild/protocol-guild-site/commit/382726dc10f4ad201c4e0cd4f0949e86dee09362) - 2026-08-20
+* [Commit] [Add Aligned blog](https://github.com/protocolguild/protocol-guild-site/commit/295f3567e070dc0bf21efdc16948c32df1e258bb) - 2026-08-24
 ## Q2 2026
 
 

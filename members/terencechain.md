@@ -205,6 +205,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Only reject gossip blocks that build on an invalid parent payload (#17389)](https://github.com/OffchainLabs/prysm/commit/026a39e9208682bd89ce14b4d0b2b7713577cad5) - 2026-08-20
 * [Commit] [Enforce per-builder bid limits from the block request (#17374)](https://github.com/OffchainLabs/prysm/commit/a0a4b7f0ccc80711fcd9fbf0345c7c753ad8043d) - 2026-08-20
 * [Review] [Review on: Move Gloas spec tests into their own packages](https://github.com/OffchainLabs/prysm/pull/17309#pullrequestreview-4998147265) - 2026-08-21
+* [Pull Request] [Bound the payload envelope data column wait in envelope recovery paths](https://github.com/OffchainLabs/prysm/pull/17403) - 2026-08-24
+* [Review] [Review on: Bound the payload envelope data column wait in envelope recovery paths](https://github.com/OffchainLabs/prysm/pull/17403#pullrequestreview-5010992271) - 2026-08-24
+* [Commit] [Bound the payload envelope data column wait in envelope recovery paths (#17403)](https://github.com/OffchainLabs/prysm/commit/49f7a245129231413252afe731b642197d8a784a) - 2026-08-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

@@ -146,6 +146,13 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [perf(fill): stream fixture writes, cache pubkeys, and skip redundant BAL hash check, warn on opcode trace failure](https://github.com/ethereum/execution-specs/pull/3379) - 2026-08-14
 * [Commit] [perf(test-forks): memoize per-fork gas costs (#3303)](https://github.com/ethereum/execution-specs/commit/1162c61f17cab7fe134a4e74dff69530d01fa1ba) - 2026-08-14
 * [Commit] [perf(test-rpc, test-fill): fetch a block's receipts with single `eth_getBlockReceipts` (#3345)](https://github.com/ethereum/execution-specs/commit/253a46337b1c56736d1b1d46552220236d14e489) - 2026-08-14
+* [Review] [Review on: chore(tests): remove EIP-7610 create collision tests](https://github.com/ethereum/execution-specs/pull/3417#pullrequestreview-5005799709) - 2026-08-24
+* [Review] [Review on: feat(test-benchmark): add deployment script](https://github.com/ethereum/execution-specs/pull/3304#pullrequestreview-5004628868) - 2026-08-24
+* [Pull Request] [feat(tests): stream fixture writes](https://github.com/ethereum/execution-specs/pull/3429) - 2026-08-24
+* [Pull Request] [perf(test-type): cache ecrecover and optimize function calls to ecrecover](https://github.com/ethereum/execution-specs/pull/3431) - 2026-08-24
+* [Pull Request] [perf(test-client-cli): skip redundant BAL hash](https://github.com/ethereum/execution-specs/pull/3430) - 2026-08-24
+* [Commit] [perf(test-type): cache ecrecover and optimize function calls to ecrecover (#3431)](https://github.com/ethereum/execution-specs/commit/786c0d4a29c04ce68fc0216dded088d21970be79) - 2026-08-24
+* [Commit] [perf(test-client-cli): skip redundant BAL hash (#3430)](https://github.com/ethereum/execution-specs/commit/b6209f28e4254bbea71fc339e93d6c79b5e20c34) - 2026-08-24
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 

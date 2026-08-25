@@ -1046,6 +1046,31 @@ Team: Erigon
 * [Commit] [execution/stagedsync: cover the create-time storage wipe (#23513)](https://github.com/erigontech/erigon/commit/f20373b67af23d711983e93b2146b9e1004e6645) - 2026-08-23
 * [Commit] [common/hexutil, execution/tracing: write traced stack values without allocating or escaping (#23486)](https://github.com/erigontech/erigon/commit/0d4a82d716be549224d71694b9389d5d59f4f752) - 2026-08-23
 * [Commit] [execution/state: skip the create-time storage wipe when the address has no account (#23506)](https://github.com/erigontech/erigon/commit/72fcfc20fbef27add68746a868a42aa175f3f202) - 2026-08-23
+* [Pull Request] [execution/vm: build the trace Version inside the trace guard](https://github.com/erigontech/erigon/pull/23527) - 2026-08-24
+* [Review] [Review on: execution/cache: track GenericCache entry count in an atomic, not freelru's all-shard Len](https://github.com/erigontech/erigon/pull/23522#pullrequestreview-5007152606) - 2026-08-24
+* [Pull Request] [rpc: allocate the access-list tracer's maps on first write](https://github.com/erigontech/erigon/pull/23453) - 2026-08-24
+* [Review] [Review on: rpc: allocate the access-list tracer's maps on first write](https://github.com/erigontech/erigon/pull/23453#pullrequestreview-5007246700) - 2026-08-24
+* [Pull Request] [db/state: split TemporalMemBatch latestStateLock into per-domain mutexes](https://github.com/erigontech/erigon/pull/23535) - 2026-08-24
+* [Review] [Review on: db/state: split TemporalMemBatch latestStateLock into per-domain mutexes](https://github.com/erigontech/erigon/pull/23535#pullrequestreview-5006538563) - 2026-08-24
+* [Pull Request] [db/state: scope the calculator's changeset swap to CommitmentDomain](https://github.com/erigontech/erigon/pull/23538) - 2026-08-24
+* [Review] [Review on: devp2p: remove unused wit0 side protocol](https://github.com/erigontech/erigon/pull/23537#pullrequestreview-5007216658) - 2026-08-24
+* [Review] [Review on: docs(site): refresh disk sizes from 2026-08-23 sync](https://github.com/erigontech/erigon/pull/23530#pullrequestreview-5005025341) - 2026-08-24
+* [Review] [Review on: docs(site): refresh disk sizes from 2026-08-23 sync](https://github.com/erigontech/erigon/pull/23531#pullrequestreview-5005026070) - 2026-08-24
+* [Pull Request] [execution/vm: benchmark deep call stacks and deep calls holding memory](https://github.com/erigontech/erigon/pull/23528) - 2026-08-24
+* [Review] [Review on: vm: drop redundant return-data copy in CALL/CALLCODE/DELEGATECALL](https://github.com/erigontech/erigon/pull/23479#pullrequestreview-5005083226) - 2026-08-24
+* [Review] [Review on: rpc/jsonstream: bulk-copy strings that need no escaping](https://github.com/erigontech/erigon/pull/23493#pullrequestreview-5004974748) - 2026-08-24
+* [Review] [Review on: execution/stagedsync: COMMITMENT_AFTER_EXEC flag to serialize commitment behind execution](https://github.com/erigontech/erigon/pull/23515#pullrequestreview-5004393218) - 2026-08-24
+* [Review] [Review on: diagnostics/diskutils: warn when datadir is on filesystem outside recommended set](https://github.com/erigontech/erigon/pull/23524#pullrequestreview-5005202823) - 2026-08-24
+* [Pull Request] [execution/stagedsync: split nextResult's tail segment into finalize/send/flush](https://github.com/erigontech/erigon/pull/23533) - 2026-08-24
+* [Pull Request] [execution/vm: grow EVM memory in pages, then double](https://github.com/erigontech/erigon/pull/23526) - 2026-08-24
+* [Review] [Review on: node: serve zstd when the client asks for it](https://github.com/erigontech/erigon/pull/23482#pullrequestreview-5005110137) - 2026-08-24
+* [Commit] [execution/vm: build the trace Version inside the trace guard (#23527)](https://github.com/erigontech/erigon/commit/a66a0b0a65f05783f3f738c388e3b071ff143ba6) - 2026-08-24
+* [Commit] [rpc: allocate the access-list tracer's maps on first write (#23453)](https://github.com/erigontech/erigon/commit/93935e8d2cee90d4bc67c9c21dc63dcac47bf802) - 2026-08-24
+* [Commit] [db/state: split TemporalMemBatch latestStateLock into per-domain mutexes (#23535)](https://github.com/erigontech/erigon/commit/70fad7c4b84ff798169200690387bed6c5915bac) - 2026-08-24
+* [Commit] [sd: `SD.changesetMu` which must protect "field access" now get locked every DomainPut (#23520)](https://github.com/erigontech/erigon/commit/ceab9efc4beea3ab467a6243bf0854ef460a7557) - 2026-08-24
+* [Commit] [rpc: answer 503 when the DB gate rejects a request (#23488)](https://github.com/erigontech/erigon/commit/f209ccd0f257f1a0afe94dc4f9f2770607b36396) - 2026-08-24
+* [Commit] [execution/tracing: write traced storage values without escaping (#23490)](https://github.com/erigontech/erigon/commit/1f13c861bce663c6555135205285ef070baffb14) - 2026-08-24
+* [Commit] [txnprovider/txpool: load pool from db under p.lock (#23511)](https://github.com/erigontech/erigon/commit/3e06bfab40cbea418ad601a5efd1bf8823a24154) - 2026-08-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 
@@ -1055,6 +1080,9 @@ Team: Erigon
 
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [crypto/blake2b: bound input of assembly call](https://github.com/ethereum/go-ethereum/pull/35550) - 2026-08-17
+
+[OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree)
+* [Pull Request] [Bound how many chunks one HashtreeHash call takes](https://github.com/OffchainLabs/hashtree/pull/71) - 2026-08-24
 ## Q2 2026
 
 

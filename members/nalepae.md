@@ -97,6 +97,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Remove Bazel: Phase 5/9](https://github.com/OffchainLabs/prysm/pull/17356) - 2026-08-14
 * [Commit] [Add missing values in `/eth/v1/config/spec`. (#17357)](https://github.com/OffchainLabs/prysm/commit/a82c633a2ddd640addde25b345602e8747364b30) - 2026-08-14
 * [Commit] [`make gen` generates the per-package `log.go` files. (#17342)](https://github.com/OffchainLabs/prysm/commit/423a4b6119baff10e6604d52da847124bc8081d0) - 2026-08-14
+* [Review] [Review on: Remove Bazel: Phase 4/9](https://github.com/OffchainLabs/prysm/pull/17296#pullrequestreview-5007275737) - 2026-08-24
+* [Pull Request] [Beacon API: Return `404` instead of `500` if state not found.](https://github.com/OffchainLabs/prysm/pull/17402) - 2026-08-24
+* [Review] [Review on: stateless by default on multinode](https://github.com/OffchainLabs/prysm/pull/17390#pullrequestreview-5006040024) - 2026-08-24
+* [Pull Request] [Compute correctly the `finalized` field value in a bunch of beacon API endpoints.](https://github.com/OffchainLabs/prysm/pull/17401) - 2026-08-24
+* [Review] [Review on: removing TODO, and have wait for activation depend on health tracker](https://github.com/OffchainLabs/prysm/pull/17369#pullrequestreview-5005706240) - 2026-08-24
+* [Commit] [Beacon API: Return `404` instead of `500` if state not found. (#17402)](https://github.com/OffchainLabs/prysm/commit/f9baeeb390e6caba22c35c68fea761bf2ebd7716) - 2026-08-24
+* [Commit] [`--beacon-db-pruning`: Prune state diff buckets when the `--enable-state-diff` flag is used. (#17289)](https://github.com/OffchainLabs/prysm/commit/c3b260bc60ddca0fe000daa6d97187f276b18dc9) - 2026-08-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 
@@ -104,6 +111,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Pull Request] [Allow setting the sweep threshold at deposit time](https://github.com/ethereum/consensus-specs/pull/5537) - 2026-08-12
 
 * [Review] [Review on: Set sweep threshold when switching to 0x02 and cap effective balance](https://github.com/ethereum/consensus-specs/pull/5557#pullrequestreview-4995637335) - 2026-08-21
+* [Commit] [Allow setting the sweep threshold at deposit time (#5537)](https://github.com/ethereum/consensus-specs/commit/2037c871527535b1b698d805352417cbef7ba38d) - 2026-08-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8148: Allow setting the sweep threshold at deposit time.](https://github.com/ethereum/EIPs/pull/12146) - 2026-08-12
 * [Review] [Review on: Update EIP-8148: Allow setting the sweep threshold at deposit time and reduce `MIN_SWEEP_THRESHOLD` to 32 ETH](https://github.com/ethereum/EIPs/pull/12193#pullrequestreview-4979287865) - 2026-08-20

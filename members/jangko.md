@@ -91,9 +91,15 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Change client side custodyColumns from seq[byte] to FixedBytes[16] (#4667)](https://github.com/status-im/nimbus-eth1/commit/868cbb2abddcf6d10c24ae83928bf9f80932819a) - 2026-08-21
 * [Commit] [glamsterdam devnet 8 (#4556)](https://github.com/status-im/nimbus-eth1/commit/76832b66a23db8aa1aa32545dce5c5f8102838d5) - 2026-08-21
 * [Commit] [Add EIP-8070 Engine API extensions for Sparse Blobpool (#4663)](https://github.com/status-im/nimbus-eth1/commit/069ed52843dc52c1ca01cf1e134d70913203e174) - 2026-08-21
+* [Pull Request] [Fix engine_getBlobsV4 implementation](https://github.com/status-im/nimbus-eth1/pull/4674) - 2026-08-24
+* [Commit] [Fix engine_getBlobsV4 implementation (#4674)](https://github.com/status-im/nimbus-eth1/commit/7828c9627d853a1d506ab21c81a0595c002932c9) - 2026-08-24
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Issue] [blockchain_test_engine bugs in tests-focil-devnet@v0.2.0: IL transaction and blobGasUsed](https://github.com/ethereum/execution-specs/issues/3435) - 2026-08-24
+* [Issue] [blockchain_test_engine bugs in tests-focil-devnet@v0.2.0: inclusionListSatisfied appear with invalid payload](https://github.com/ethereum/execution-specs/issues/3436) - 2026-08-24
 ## Q2 2026
 
 

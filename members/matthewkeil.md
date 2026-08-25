@@ -50,6 +50,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: automate project board PR status transitions (#9732)](https://github.com/ChainSafe/lodestar/commit/742db200d10a83349d5e2a89b5132375b2300871) - 2026-08-13
 * [Review] [Review on: deps: patch @libp2p/tcp to fix network worker shutdown hang](https://github.com/ChainSafe/lodestar/pull/9825#pullrequestreview-4935974715) - 2026-08-14
 * [Review] [Review on: chore: clarify code comment guidance](https://github.com/ChainSafe/lodestar/pull/9833#pullrequestreview-4950586539) - 2026-08-17
+* [Pull Request] [ci: external contributor workflow error](https://github.com/ChainSafe/lodestar/pull/9905) - 2026-08-24
+* [Commit] [ci: external contributor workflow error (#9905)](https://github.com/ChainSafe/lodestar/commit/aa6eaee53a13d0664e51704a1664344adff84c62) - 2026-08-24
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

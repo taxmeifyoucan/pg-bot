@@ -117,6 +117,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [bug(test-base-types): Conversion methods use `ValueError` (#3394)](https://github.com/ethereum/execution-specs/commit/600a12087e9763d47f7bf62966196024f7e3ad30) - 2026-08-19
 * [Review] [Review on: feat(test-fill): Optimistic grouping flag](https://github.com/ethereum/execution-specs/pull/3390#pullrequestreview-4997750106) - 2026-08-21
 * [Pull Request] [refactor(cli-extract-config): Generate configs without hive](https://github.com/ethereum/execution-specs/pull/3414) - 2026-08-21
+* [Issue] [feat(test-execute): Allow `execute` to use `eth_estimateGas`](https://github.com/ethereum/execution-specs/issues/3437) - 2026-08-24
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

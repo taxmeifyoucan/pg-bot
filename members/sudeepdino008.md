@@ -167,6 +167,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl, common: reuse snappy stream codecs from a pool](https://github.com/erigontech/erigon/pull/23423#pullrequestreview-4992320675) - 2026-08-21
 * [Review] [Review on: cl/persistence, db: pool zstd decoders, lower what zstd encoders hold](https://github.com/erigontech/erigon/pull/23435#pullrequestreview-4992331917) - 2026-08-21
 * [Pull Request] [diagnostics/diskutils, node: warn when datadir is not on ext4 or XFS](https://github.com/erigontech/erigon/pull/23524) - 2026-08-23
+* [Review] [Review on: db/state: split TemporalMemBatch latestStateLock into per-domain mutexes](https://github.com/erigontech/erigon/pull/23535#pullrequestreview-5008510895) - 2026-08-24
+* [Issue] [EIP-2124 fork ID is checked too late, and never during discovery](https://github.com/erigontech/erigon/issues/23534) - 2026-08-24
 ## Q2 2026
 
 

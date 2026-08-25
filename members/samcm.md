@@ -27,6 +27,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat: add gossipsub message payload event for raw wire-bytes capture](https://github.com/ethpandaops/xatu/pull/877) - 2026-07-16
 * [Commit] [feat: add gossipsub message payload event for raw wire-bytes capture (#877)](https://github.com/ethpandaops/xatu/commit/fc20a343a2974964e8c2c455973bbc65c3cde5cd) - 2026-07-17
 * [Pull Request] [feat: add typed ClickHouse read package (pkg/proto/clickhouse)](https://github.com/ethpandaops/xatu/pull/886) - 2026-08-20
+* [Commit] [feat: add typed ClickHouse read package (pkg/proto/clickhouse) (#886)](https://github.com/ethpandaops/xatu/commit/619c572d19c3f49c9f456988051f8d35d526c61e) - 2026-08-24
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [telemetry: add OTLP traces pipeline](https://github.com/ethpandaops/template-devnets/pull/178) - 2026-07-06
 * [Commit] [xatu-sentry: ship to the per-devnet ingest pipeline](https://github.com/ethpandaops/template-devnets/commit/625d2c78cd2d9b4c985462134bc6986d677ee195) - 2026-07-06
@@ -50,6 +51,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat(ci): one-click releases that auto-trigger lab-backend (#445)](https://github.com/ethpandaops/lab/commit/47df0669e9a528dc1b69774e9d43b430e993d25e) - 2026-07-17
 [ethpandaops/tracoor](https://github.com/ethpandaops/tracoor)
 * [Pull Request] [feat: support glamsterdam (gloas) networks](https://github.com/ethpandaops/tracoor/pull/56) - 2026-07-16
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Pull Request] [feat(frontend): block propagation from Xatu](https://github.com/ethpandaops/dora/pull/846) - 2026-08-24
+* [Review] [Review on: feat(frontend): block propagation from Xatu](https://github.com/ethpandaops/dora/pull/846#pullrequestreview-5005730407) - 2026-08-24
 ## Q2 2026
 
 

@@ -41,6 +41,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Review] [Review on: Move Gloas spec tests into their own packages](https://github.com/OffchainLabs/prysm/pull/17309#pullrequestreview-4997992041) - 2026-08-21
 * [Review] [Review on: spectest alpha 12 compliance (spec pin bump and assorted fix commits)](https://github.com/OffchainLabs/prysm/pull/17310#pullrequestreview-4998010811) - 2026-08-21
 * [Commit] [methodical codegen switch (#17308)](https://github.com/OffchainLabs/prysm/commit/9fc622ad97a159da89d3596cf9d0238658bcbb89) - 2026-08-21
+* [Commit] [Move Gloas spec tests into their own packages (#17309)](https://github.com/OffchainLabs/prysm/commit/2c6415258da2dff4c076a09e02c758ddbf332d46) - 2026-08-24
 ## Q2 2026
 
 

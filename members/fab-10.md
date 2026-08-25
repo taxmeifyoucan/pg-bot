@@ -133,6 +133,19 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Fixes: GHSA-h594-ww62-rcxv fix logging issue with invalid discv4 packet](https://github.com/besu-eth/besu/pull/11093#pullrequestreview-4980179902) - 2026-08-20
 * [Review] [Review on: Fixes: GHSA-pr92-c4mc-x48r Remove System.out and System.err logging from P256VerifyPrecompile](https://github.com/besu-eth/besu/pull/11092#pullrequestreview-4979983352) - 2026-08-20
 * [Commit] [Fix invalid code delegations in txpool (#11108)](https://github.com/besu-eth/besu/commit/7d3157808be0c5180a7f189b4a44f3d36ff4612f) - 2026-08-21
+* [Pull Request] [Clamp admin_generateLogBloomCache block bounds to the chain head](https://github.com/besu-eth/besu/pull/11135) - 2026-08-24
+* [Review] [Review on: Clamp admin_generateLogBloomCache block bounds to the chain head](https://github.com/besu-eth/besu/pull/11135#pullrequestreview-5009145742) - 2026-08-24
+* [Review] [Review on: fix: guard worldStateArchive.getWorldState() against unexpected exceptions in txpool code-delegation reconciliation](https://github.com/besu-eth/besu/pull/11130#pullrequestreview-5006351014) - 2026-08-24
+* [Review] [Review on: Fixes: GHSA-9w9r-w3rf-j6vj enforce maxLogRange on eth_getFilterLogs and eth_newFilter](https://github.com/besu-eth/besu/pull/11099#pullrequestreview-5006190208) - 2026-08-24
+* [Review] [Review on: Don't materialize an unrewarded fee recipient in the optimistic parallel merge](https://github.com/besu-eth/besu/pull/11098#pullrequestreview-5006209001) - 2026-08-24
+* [Review] [Review on: Fixes: GHSA-4776-8c3f-fx7g Added server side limit for steps in debug_traceCall](https://github.com/besu-eth/besu/pull/11100#pullrequestreview-5006228842) - 2026-08-24
+* [Pull Request] [Add EIP-8070 Engine API surface: engine_getBlobsV4 and custodyColumns](https://github.com/besu-eth/besu/pull/11141) - 2026-08-24
+* [Review] [Review on: fix(parallel): abort speculative futures on block-budget abort](https://github.com/besu-eth/besu/pull/11104#pullrequestreview-5006244726) - 2026-08-24
+* [Review] [Review on: Amsterdam devnet-7 (4/4): remove the dead intrinsic state-gas plumbing](https://github.com/besu-eth/besu/pull/10932#pullrequestreview-5009762983) - 2026-08-24
+* [Pull Request] [Fix non-bootnode peer count drift in InsufficientPeersPermissioningProvider](https://github.com/besu-eth/besu/pull/11138) - 2026-08-24
+* [Review] [Review on: Extract plugin-api-worldstate-backend module](https://github.com/besu-eth/besu/pull/11118#pullrequestreview-5006617710) - 2026-08-24
+* [Review] [Review on: Extract plugin-api-worldstate module](https://github.com/besu-eth/besu/pull/11117#pullrequestreview-5006610029) - 2026-08-24
+* [Commit] [Execute Engine API methods concurrently except ordered forkchoiceUpdated (#11053)](https://github.com/besu-eth/besu/commit/8a4f8678aa9ba1397b3e24abd33e6c41eee5474e) - 2026-08-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

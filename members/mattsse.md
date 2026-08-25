@@ -361,6 +361,19 @@ Team: Reth
 * [Review] [Review on: fix(rpc): reject block timestamp overflow in eth_simulateV1](https://github.com/paradigmxyz/reth/pull/26767#pullrequestreview-4994329036) - 2026-08-21
 * [Review] [Review on: fix(rpc): stop cancelled blocking IO tasks](https://github.com/paradigmxyz/reth/pull/26776#pullrequestreview-4990719317) - 2026-08-21
 * [Pull Request] [fix(engine): honor cancellation in BAL prewarm and sparse trie task](https://github.com/paradigmxyz/reth/pull/26780) - 2026-08-22
+* [Review] [Review on: fix(rpc): reject a chainId that is not the node's](https://github.com/paradigmxyz/reth/pull/26782#pullrequestreview-5008434727) - 2026-08-24
+* [Review] [Review on: fix(rpc): refactor rpc blocking task model to avoid rpc stuck](https://github.com/paradigmxyz/reth/pull/26779#pullrequestreview-5007210266) - 2026-08-24
+* [Review] [Review on: feat(txpool): prepare pooled transactions for eth version](https://github.com/paradigmxyz/reth/pull/26622#pullrequestreview-5008417205) - 2026-08-24
+* [Pull Request] [Revert: "revert: "feat(storage): re-enable RocksDB BAL storage""](https://github.com/paradigmxyz/reth/pull/26789) - 2026-08-24
+* [Pull Request] [revert: "feat(storage): re-enable RocksDB BAL storage"](https://github.com/paradigmxyz/reth/pull/26788) - 2026-08-24
+* [Review] [Review on: chore(deps): bump the ci-weekly group with 4 updates](https://github.com/paradigmxyz/reth/pull/26785#pullrequestreview-5007153164) - 2026-08-24
+* [Review] [Review on: fix(rpc): stop cancelled blocking IO tasks](https://github.com/paradigmxyz/reth/pull/26776#pullrequestreview-5007124861) - 2026-08-24
+* [Review] [Review on: chore(deps): bump the cargo-weekly group across 1 directory with 37 updates](https://github.com/paradigmxyz/reth/pull/26772#pullrequestreview-5007156830) - 2026-08-24
+* [Issue] [feat(sync): best-effort download missing block access lists](https://github.com/paradigmxyz/reth/issues/26787) - 2026-08-24
+* [Issue] [feat(stages): use stored block access lists during historical execution](https://github.com/paradigmxyz/reth/issues/26786) - 2026-08-24
+* [Commit] [fix(net): make eth/72 announcements interoperable with geth (#26670)](https://github.com/paradigmxyz/reth/commit/5d3c60191ddc76a6af3591d2321beb2cdc64ca8f) - 2026-08-24
+* [Commit] [revert: "feat(storage): re-enable RocksDB BAL storage" (#26788)](https://github.com/paradigmxyz/reth/commit/2ea36ecf60f2647ea66b8174cb8c05629275fc4c) - 2026-08-24
+* [Commit] [feat(txpool): add consensus encoding helper (#26739)](https://github.com/paradigmxyz/reth/commit/97fba9d3d2320cf3ae3d3fa662c8d99259de1c66) - 2026-08-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -371,6 +384,7 @@ Team: Reth
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8070: clarify RLP empty-list encoding](https://github.com/ethereum/EIPs/pull/12079) - 2026-08-04
 
+* [Commit] [Update EIP-8070: clarify RLP empty-list encoding](https://github.com/ethereum/EIPs/commit/23664b952e844057bc9814cc7a81978b3b80435b) - 2026-08-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(consume): add missing reth exception mapper entries](https://github.com/ethereum/execution-specs/pull/3380) - 2026-08-14
 * [Pull Request] [fix(consume): map reth BAL slot-miss rejection](https://github.com/ethereum/execution-specs/pull/3392) - 2026-08-18

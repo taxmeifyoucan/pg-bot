@@ -278,6 +278,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [skills: make benchmarkoor skill more generalised (e.g. state actor vs jochemnet style prepopulated snapshots) (#23460)](https://github.com/erigontech/erigon/commit/cca0e976e40ecc6dd0b165a8219be1c37566ad1c) - 2026-08-21
 * [Commit] [db/seg: code multi page warmup followups   (#23443)](https://github.com/erigontech/erigon/commit/48c831c012a1ac861f82cad9d508a51e02ee18f4) - 2026-08-21
 * [Commit] [db/seg: clarify blocking asyncio terminology (#23458)](https://github.com/erigontech/erigon/commit/0d4eeaf4dc0e9986acf375a9ae731b1383509dfe) - 2026-08-22
+* [Pull Request] [execution: fix wrong BAL due to missing sstore storage slot read after selfdestruct](https://github.com/erigontech/erigon/pull/23541) - 2026-08-24
+* [Pull Request] [devp2p: remove unused wit0 side protocol](https://github.com/erigontech/erigon/pull/23537) - 2026-08-24
+* [Review] [Review on: devp2p: remove unused wit0 side protocol](https://github.com/erigontech/erigon/pull/23537#pullrequestreview-5007402891) - 2026-08-24
+* [Commit] [devp2p: remove unused wit0 side protocol (#23537)](https://github.com/erigontech/erigon/commit/f2a8ee81eb1662437ce12968f0081bad2bc3400d) - 2026-08-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

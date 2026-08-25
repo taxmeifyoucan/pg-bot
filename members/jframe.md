@@ -61,6 +61,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [Bonsai archive proofs diff encoding](https://github.com/besu-eth/besu/pull/11091) - 2026-08-20
 * [Review] [Review on: CLI option for snap download headers to checkpoint only](https://github.com/besu-eth/besu/pull/10958#pullrequestreview-4978824533) - 2026-08-20
 * [Commit] [Bonsai archive proofs simple trie (#11016)](https://github.com/besu-eth/besu/commit/adb99f16fe05d4f86d8fe771f65fe9eaa8b609ca) - 2026-08-20
+* [Pull Request] [Bonsai archive refactor move NodeLoader into trie node strategy](https://github.com/besu-eth/besu/pull/11133) - 2026-08-24
+* [Review] [Review on: Jump out of empty block period to handle QBFT votes](https://github.com/besu-eth/besu/pull/11111#pullrequestreview-5004009538) - 2026-08-24
 ## Q2 2026
 
 

@@ -50,6 +50,7 @@ Team: Consensus R&D (EF)
 * [Pull Request] [Add EIP: Reduce CL Block Retention Window](https://github.com/ethereum/EIPs/pull/12188) - 2026-08-17
 * [Pull Request] [Add EIP: Deterministic sync committee aggregators](https://github.com/ethereum/EIPs/pull/12207) - 2026-08-19
 * [Review] [Review on: Update EIP-8347: hashed-key order and fixed-width preimage records](https://github.com/ethereum/EIPs/pull/12215#pullrequestreview-4982463059) - 2026-08-20
+* [Pull Request] [Add EIP: Post-quantum-ready deposit contract](https://github.com/ethereum/EIPs/pull/12235) - 2026-08-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(deps): replace `coincurve` with `spec256k1`](https://github.com/ethereum/execution-specs/pull/2374) - 2026-07-14
 * [Commit] [refactor(deps): replace `coincurve` with `spec256k1` (#2374)](https://github.com/ethereum/execution-specs/commit/745fe1131f81846a3c08e9a2a9ee16fde67fa3a7) - 2026-07-14

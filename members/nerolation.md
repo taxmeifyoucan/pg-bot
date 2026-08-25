@@ -71,8 +71,15 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [eth/debug: specify block access list getter semantics](https://github.com/ethereum/execution-apis/pull/851) - 2026-07-18
 
+* [Commit] [eth/debug: specify block access list getter semantics (#851)](https://github.com/ethereum/execution-apis/commit/f82695cdd9ed0073a4705b6682159e828d316104) - 2026-08-24
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/devp2p: add snap2 suite for EIP-8189 conformance tests (#1440)](https://github.com/ethereum/hive/commit/0434cf4601a334dfd342ac069e956749f36c8151) - 2026-08-11
+
+[ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+* [Pull Request] [core: enforce block gas limit in parallel block execution](https://github.com/ethereum/go-ethereum/pull/35575) - 2026-08-24
+
+[hyperledger/besu](https://github.com/hyperledger/besu)
+* [Pull Request] [Fix CPU exhaustion from speculative execution after block rejection](https://github.com/besu-eth/besu/pull/11139) - 2026-08-24
 ## Q2 2026
 
 

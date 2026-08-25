@@ -122,6 +122,14 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): EIP-7928 - union reverted storage reads across transactions](https://github.com/ethereum/execution-specs/pull/3399#pullrequestreview-4978602788) - 2026-08-20
 * [Review] [Review on: feat(test-benchmark): more worst case scenario](https://github.com/ethereum/execution-specs/pull/3349#pullrequestreview-4992237627) - 2026-08-21
 * [Pull Request] [refactor(test-benchmark): migrate benchmark suite to devnet-8](https://github.com/ethereum/execution-specs/pull/3411) - 2026-08-21
+* [Review] [Review on: chore(tests): remove EIP-7610 create collision tests](https://github.com/ethereum/execution-specs/pull/3417#pullrequestreview-5004891635) - 2026-08-24
+* [Review] [Review on: perf(test-type): cache ecrecover and optimize function calls to ecrecover [backport benchmarks/amsterdam]](https://github.com/ethereum/execution-specs/pull/3433#pullrequestreview-5008015165) - 2026-08-24
+* [Review] [Review on: perf(test-client-cli): skip redundant BAL hash [backport benchmarks/amsterdam]](https://github.com/ethereum/execution-specs/pull/3432#pullrequestreview-5007882719) - 2026-08-24
+* [Review] [Review on: perf(test-type): cache ecrecover and optimize function calls to ecrecover](https://github.com/ethereum/execution-specs/pull/3431#pullrequestreview-5007903319) - 2026-08-24
+* [Review] [Review on: perf(test-client-cli): skip redundant BAL hash](https://github.com/ethereum/execution-specs/pull/3430#pullrequestreview-5007848037) - 2026-08-24
+* [Pull Request] [feat(tests, spec): implement eip-8304](https://github.com/ethereum/execution-specs/pull/3426) - 2026-08-24
+* [Review] [Review on: feat(tests): EIP-7702 - precompile calls from a delegated frame](https://github.com/ethereum/execution-specs/pull/3420#pullrequestreview-5004781876) - 2026-08-24
+* [Review] [Review on: feat(tests): EIP-7702 - keep authority storage when clearing a delegation](https://github.com/ethereum/execution-specs/pull/3421#pullrequestreview-5004772686) - 2026-08-24
 ## Q2 2026
 
 

@@ -250,6 +250,16 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(optimism): decode CL payloads with the generated SSZ decoder](https://github.com/NethermindEth/nethermind/pull/12946#pullrequestreview-4999016447) - 2026-08-22
 * [Review] [Review on: fix(optimism): validate the transaction offset table when decoding payloads](https://github.com/NethermindEth/nethermind/pull/12920#pullrequestreview-4999015313) - 2026-08-22
 * [Pull Request] [fix(evm): burn credited state gas on EIP-8037 exceptional halt](https://github.com/NethermindEth/nethermind/pull/12965) - 2026-08-23
+* [Review] [Review on: Release native list buffer when construction fails](https://github.com/NethermindEth/nethermind/pull/12975#pullrequestreview-5010902105) - 2026-08-24
+* [Review] [Review on: Don't treat configured FinalTotalDifficulty as TTD reached](https://github.com/NethermindEth/nethermind/pull/12555#pullrequestreview-5010292739) - 2026-08-24
+* [Pull Request] [Remove Taiko and Surge integration workflows](https://github.com/NethermindEth/nethermind/pull/12973) - 2026-08-24
+* [Review] [Review on: fix(estimateGas): return exact minimum for value transfers that create the recipient](https://github.com/NethermindEth/nethermind/pull/12971#pullrequestreview-5006857685) - 2026-08-24
+* [Review] [Review on: fix(evm): burn credited state gas on EIP-8037 exceptional halt](https://github.com/NethermindEth/nethermind/pull/12965#pullrequestreview-5004644859) - 2026-08-24
+* [Review] [Review on: fix(docgen): document nullable JSON-RPC result payloads (#12837)](https://github.com/NethermindEth/nethermind/pull/12866#pullrequestreview-5007129901) - 2026-08-24
+* [Review] [Review on: fix(t8n): serialize receipt root/status as mutually exclusive](https://github.com/NethermindEth/nethermind/pull/12867#pullrequestreview-5006843349) - 2026-08-24
+* [Review] [Review on: fix(docgen): probe member converters to document their real JSON kind](https://github.com/NethermindEth/nethermind/pull/12869#pullrequestreview-5006816998) - 2026-08-24
+* [Commit] [Remove Taiko and Surge integration workflows (#12973)](https://github.com/NethermindEth/nethermind/commit/4b8addd4b6770dcc1ab0efcccca8b8d149fbc222) - 2026-08-24
+* [Commit] [fix(evm): burn credited state gas on EIP-8037 exceptional halt (#12965)](https://github.com/NethermindEth/nethermind/commit/7150854c1fb0c9eb607353033eff140fbeaedbde) - 2026-08-24
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

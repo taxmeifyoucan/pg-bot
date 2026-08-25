@@ -22,6 +22,13 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Issue] [All Core Devs - Execution (ACDE) #243, August 13, 2026](https://github.com/ethereum/pm/issues/2178) - 2026-07-30
 * [Issue] [All Core Devs - Consensus (ACDC) #185, August 20 2026](https://github.com/ethereum/pm/issues/2187) - 2026-08-11
 * [Issue] [All Core Devs - Execution (ACDE) #244, August 27, 2026](https://github.com/ethereum/pm/issues/2197) - 2026-08-20
+* [Pull Request] [Add Ethrex client to mainnet plan](https://github.com/ethereum/pm/pull/2201) - 2026-08-24
+* [Pull Request] [add glamsterdam mainnet incident doc](https://github.com/ethereum/pm/pull/2200) - 2026-08-24
+* [Issue] [All Core Devs - Consensus (ACDC) #186, September 3 2026](https://github.com/ethereum/pm/issues/2199) - 2026-08-24
+* [Commit] [Merge pull request #2201 from ethereum/nixorokish-patch-8](https://github.com/ethereum/pm/commit/9425be32b58325c2af49e9409c8e6d4829ceb894) - 2026-08-24
+* [Commit] [Add Ethrex client to mainnet plan](https://github.com/ethereum/pm/commit/94dc4c09414b5d36dd68529d471c409caa3da073) - 2026-08-24
+* [Commit] [Merge pull request #2200 from ethereum/nixorokish-patch-7](https://github.com/ethereum/pm/commit/6e10d03e699d147f1c04277c83fd8e91eb654be1) - 2026-08-24
+* [Commit] [add glamsterdam mainnet incident doc](https://github.com/ethereum/pm/commit/8ab15505f81f18a32c85acdf02c89c39e572a981) - 2026-08-24
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8081: PFI EIP-7862](https://github.com/ethereum/EIPs/pull/11934) - 2026-07-16
 * [Review] [Review on: Update EIP-8081: Add EIP-8304 as PFI](https://github.com/ethereum/EIPs/pull/11933#pullrequestreview-4710414761) - 2026-07-16

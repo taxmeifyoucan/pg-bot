@@ -67,6 +67,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Amsterdam devnet-7 (2/4): EIP-3120/8037/8038 calldata floor, CREATE liveness, SSTORE ordering](https://github.com/besu-eth/besu/pull/10930#pullrequestreview-4981583026) - 2026-08-20
 * [Review] [Review on: Fix CALLCODE state gas refund target](https://github.com/besu-eth/besu/pull/11107#pullrequestreview-4981411841) - 2026-08-20
 * [Commit] [Amsterdam devnet-7 (2/4): EIP-3120/8037/8038 calldata floor, CREATE liveness, SSTORE ordering (#10930)](https://github.com/besu-eth/besu/commit/a2da1185ad85c1f0c41341a4ed197a81cf93f17e) - 2026-08-20
+* [Pull Request] [Amsterdam devnet-8: EIP-2780/8038 gas revisions and fixtures v8.1.1](https://github.com/besu-eth/besu/pull/11140) - 2026-08-24
+* [Pull Request] [devnet-8: payload validation](https://github.com/besu-eth/besu/pull/11136) - 2026-08-24
+* [Commit] [Remove the intrinsic state-gas plumbing the devnet-7 rework made dead (#10932)](https://github.com/besu-eth/besu/commit/d67be4866aa74c0d55c28369e8e854222ac7c147) - 2026-08-24
+* [Commit] [EIP-2780/7928: charge authorizations and dispatch entry at the top frame (#10931)](https://github.com/besu-eth/besu/commit/6cbb88023acd32423f31b8ce871694311f1a0a6a) - 2026-08-24
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

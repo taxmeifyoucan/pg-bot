@@ -355,6 +355,13 @@ Team: Erigon
 * [Review] [Review on: txnprovider/txpool: load pool from db under p.lock](https://github.com/erigontech/erigon/pull/23511#pullrequestreview-5001801516) - 2026-08-23
 * [Review] [Review on: [r3.6] execution/state: skip the create-time storage wipe when the address has no account](https://github.com/erigontech/erigon/pull/23508#pullrequestreview-5001553929) - 2026-08-23
 * [Review] [Review on: execution/state: skip the create-time storage wipe when the address has no account](https://github.com/erigontech/erigon/pull/23506#pullrequestreview-5001447575) - 2026-08-23
+* [Review] [Review on: execution/cache: track GenericCache entry count in an atomic, not freelru's all-shard Len](https://github.com/erigontech/erigon/pull/23522#pullrequestreview-5009169403) - 2026-08-24
+* [Review] [Review on: sd: `SD.changesetMu` which must protect "field access" now get locked every DomainPut](https://github.com/erigontech/erigon/pull/23520#pullrequestreview-5004592620) - 2026-08-24
+* [Review] [Review on: rpc/jsonstream: bulk-copy strings that need no escaping](https://github.com/erigontech/erigon/pull/23493#pullrequestreview-5004572277) - 2026-08-24
+* [Review] [Review on: execution/stagedsync: COMMITMENT_AFTER_EXEC flag to serialize commitment behind execution](https://github.com/erigontech/erigon/pull/23515#pullrequestreview-5004282681) - 2026-08-24
+* [Review] [Review on: node: serve zstd when the client asks for it](https://github.com/erigontech/erigon/pull/23482#pullrequestreview-5004571664) - 2026-08-24
+* [Review] [Review on: `--prune.distance`: to print user-friendly advise in corner-cases](https://github.com/erigontech/erigon/pull/23221#pullrequestreview-5004570603) - 2026-08-24
+* [Review] [Review on: rpc/jsonstream: bound how much of a response is held in memory](https://github.com/erigontech/erigon/pull/23496#pullrequestreview-5004777089) - 2026-08-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

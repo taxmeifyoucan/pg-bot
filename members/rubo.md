@@ -72,6 +72,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: build(zisk): bump Zisk to 1.1.0-alpha](https://github.com/NethermindEth/nethermind/pull/12910#pullrequestreview-4980441357) - 2026-08-20
 * [Commit] [feat(stateless): adopt tests-zkevm v0.8.2 and glamsterdam devnet-8 (#12909)](https://github.com/NethermindEth/nethermind/commit/f4def79685c8cc4816614b6d1d8a72e258104da1) - 2026-08-21
 * [Commit] [ci: add ZisK guest release workflow (#12941)](https://github.com/NethermindEth/nethermind/commit/c34d6934f257e00a94f23e4b1d637507dcc5d589) - 2026-08-21
+* [Review] [Review on: ci: disable .NET package caching again](https://github.com/NethermindEth/nethermind/pull/12901#pullrequestreview-5009602417) - 2026-08-24
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03
