@@ -553,6 +553,24 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/chain: compare the timestamp forks in checkCompatible, not just the block ones](https://github.com/erigontech/erigon/pull/23466#pullrequestreview-5006843529) - 2026-08-24
 * [Review] [Review on: rpc/jsonrpc: return hexutil.U256 from the eth_/erigon_ quantity getters](https://github.com/erigontech/erigon/pull/23216#pullrequestreview-5006760067) - 2026-08-24
 * [Issue] [txnprovider/txpool: refresh stale state views after OnNewBlock overtakes admission](https://github.com/erigontech/erigon/issues/23540) - 2026-08-24
+* [Review] [Review on: cl/services: share bounded pending-job queue implementation](https://github.com/erigontech/erigon/pull/22177#pullrequestreview-5017082775) - 2026-08-25
+* [Review] [Review on: rpc/jsonrpc: fail trace_filter instead of mixing error objects into the result array](https://github.com/erigontech/erigon/pull/23346#pullrequestreview-5018039217) - 2026-08-25
+* [Pull Request] [ci: auto-requeue merge-queue PRs evicted by runner-infra failures](https://github.com/erigontech/erigon/pull/23568) - 2026-08-25
+* [Review] [Review on: execution/commitment: compact the pbin branch record and convert pre-version datadirs](https://github.com/erigontech/erigon/pull/23564#pullrequestreview-5020066158) - 2026-08-25
+* [Review] [Review on: execution/chain: compare the timestamp forks in checkCompatible, not just the block ones](https://github.com/erigontech/erigon/pull/23466#pullrequestreview-5018645357) - 2026-08-25
+* [Review] [Review on: [r3.6] execution/chain: compare the timestamp forks in checkCompatible, not just the block ones](https://github.com/erigontech/erigon/pull/23561#pullrequestreview-5019550875) - 2026-08-25
+* [Review] [Review on: rpc/jsonstream: bulk-copy strings that need no escaping](https://github.com/erigontech/erigon/pull/23493#pullrequestreview-5019252149) - 2026-08-25
+* [Review] [Review on: [r3.6] ci: close the Kurtosis image-cache gaps (#23083, #23440, #23465)](https://github.com/erigontech/erigon/pull/23550#pullrequestreview-5018392589) - 2026-08-25
+* [Review] [Review on: execution/vm: grow EVM memory in pages, then double](https://github.com/erigontech/erigon/pull/23526#pullrequestreview-5018730439) - 2026-08-25
+* [Review] [Review on: rpc/jsonstream: drop Write, leaving WriteRawBytes as the only raw path](https://github.com/erigontech/erigon/pull/23504#pullrequestreview-5018111955) - 2026-08-25
+* [Review] [Review on: execution/vm: benchmark deep call stacks and deep calls holding memory](https://github.com/erigontech/erigon/pull/23528#pullrequestreview-5018084898) - 2026-08-25
+* [Review] [Review on: execution: fix wrong BAL due to missing sstore storage slot read after selfdestruct](https://github.com/erigontech/erigon/pull/23541#pullrequestreview-5018081246) - 2026-08-25
+* [Pull Request] [ChangeLog: port 3.6.0 release notes to main](https://github.com/erigontech/erigon/pull/23554) - 2026-08-25
+* [Issue] [ci: make Kurtosis image cache keys registry-aware](https://github.com/erigontech/erigon/issues/23562) - 2026-08-25
+* [Issue] [cl: enable Gloas FULL-parent payload preparation](https://github.com/erigontech/erigon/issues/23551) - 2026-08-25
+* [Commit] [txnprovider/txpool: limit delegated sender transactions (#23294)](https://github.com/erigontech/erigon/commit/42e0ac7d755268dcfbfb0f9d8940daad77a30ce7) - 2026-08-25
+* [Commit] [rpc: separate overlay-backed and committed read paths (#22533)](https://github.com/erigontech/erigon/commit/425f6962106187965fc8a1220814df35224d0f79) - 2026-08-25
+* [Commit] [ChangeLog: port 3.6.0 release notes to main (#23554)](https://github.com/erigontech/erigon/commit/098aca43f36b6cea51577276f1ccf59c62a7f7c1) - 2026-08-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

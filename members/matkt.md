@@ -94,6 +94,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Consolidate Bonsai trie-node read/write APIs into a single get/putTrieNode (2/2)](https://github.com/besu-eth/besu/pull/11113) - 2026-08-20
 * [Pull Request] [Merge PathBased trie classes into Bonsai (1/2)](https://github.com/besu-eth/besu/pull/11114) - 2026-08-20
 * [Pull Request] [Merge PathBased trie classes into Bonsai (1/2)](https://github.com/besu-eth/besu/pull/11112) - 2026-08-20
+* [Pull Request] [explore(parallel): disable whole-block serial fallback for BAL](https://github.com/besu-eth/besu/pull/11150) - 2026-08-25
+* [Pull Request] [fix(parallel): abort speculative futures on block-budget abort](https://github.com/besu-eth/besu/pull/11149) - 2026-08-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

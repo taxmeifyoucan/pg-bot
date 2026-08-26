@@ -130,6 +130,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [feat(tests, spec): implement eip-8304](https://github.com/ethereum/execution-specs/pull/3426) - 2026-08-24
 * [Review] [Review on: feat(tests): EIP-7702 - precompile calls from a delegated frame](https://github.com/ethereum/execution-specs/pull/3420#pullrequestreview-5004781876) - 2026-08-24
 * [Review] [Review on: feat(tests): EIP-7702 - keep authority storage when clearing a delegation](https://github.com/ethereum/execution-specs/pull/3421#pullrequestreview-5004772686) - 2026-08-24
+* [Review] [Review on: feat(tests): EIP-8037 - pin gas on the unasserted child-halt spill tests](https://github.com/ethereum/execution-specs/pull/3427#pullrequestreview-5018877774) - 2026-08-25
+* [Review] [Review on: refactor(tests): EIP-8037 test gas calculation logic and post state verification](https://github.com/ethereum/execution-specs/pull/3383#pullrequestreview-5016029456) - 2026-08-25
 ## Q2 2026
 
 

@@ -43,6 +43,15 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: FCR reference tests ](https://github.com/Consensys/teku/pull/11146#pullrequestreview-4984508719) - 2026-08-20
 * [Commit] [Block v4 changes + use include_payload in block creation (#11141)](https://github.com/Consensys/teku/commit/5ae53b4647375b98e67b059e511cd298404db3b4) - 2026-08-20
 * [Pull Request] [Pass `BuilderConfig` from VC to BN](https://github.com/Consensys/teku/pull/11161) - 2026-08-24
+* [Pull Request] [Cache the correct execution payload value for Gloas](https://github.com/Consensys/teku/pull/11170) - 2026-08-25
+* [Review] [Review on: Cache the correct execution payload value for Gloas](https://github.com/Consensys/teku/pull/11170#pullrequestreview-5022360152) - 2026-08-25
+* [Pull Request] [Implement GET /eth/v1/validator/execution_payload_envelope/...](https://github.com/Consensys/teku/pull/11172) - 2026-08-25
+* [Pull Request] [Change signature of `createUnsignedExecutionPayload`](https://github.com/Consensys/teku/pull/11169) - 2026-08-25
+* [Review] [Review on: Change signature of `createUnsignedExecutionPayload`](https://github.com/Consensys/teku/pull/11169#pullrequestreview-5019235183) - 2026-08-25
+* [Commit] [Cache the correct execution payload value for Gloas (#11170)](https://github.com/Consensys/teku/commit/d3de7da8d88eb5ced0f637d238e4b37afc7bacc1) - 2026-08-25
+* [Commit] [Change signature of `createUnsignedExecutionPayload` (#11169)](https://github.com/Consensys/teku/commit/2dc3e03092fb66c01af2256b91ff3535a1d1d524) - 2026-08-25
+* [Commit] [Pass `BuilderConfig` from VC to BN (#11161)](https://github.com/Consensys/teku/commit/b75eed086138f441b5d667d7dbc0e9eb72ef51b3) - 2026-08-25
+* [Commit] [Put `BuilderConfig` in request body when calling block v4 (#11132)](https://github.com/Consensys/teku/commit/d232e726bdb54fbfebaf8dab9f017b868b286c25) - 2026-08-25
 ## Q2 2026
 
 

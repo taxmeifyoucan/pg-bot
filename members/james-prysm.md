@@ -173,6 +173,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Beacon API: Return `404` instead of `500` if state not found.](https://github.com/OffchainLabs/prysm/pull/17402#pullrequestreview-5008556570) - 2026-08-24
 * [Review] [Review on: stateless by default on multinode](https://github.com/OffchainLabs/prysm/pull/17390#pullrequestreview-5008608105) - 2026-08-24
 * [Review] [Review on: Compute correctly the `finalized` field value in a bunch of beacon API endpoints.](https://github.com/OffchainLabs/prysm/pull/17401#pullrequestreview-5008742839) - 2026-08-24
+* [Review] [Review on: hooking up validator client to builder apis for gloas ](https://github.com/OffchainLabs/prysm/pull/17397#pullrequestreview-5024541715) - 2026-08-25
+* [Pull Request] [slashing protection up to date for keys added mid run](https://github.com/OffchainLabs/prysm/pull/17411) - 2026-08-25
+* [Review] [Review on: tentative fix to allow export of antislashing database for dynamic keys](https://github.com/OffchainLabs/prysm/pull/17409#pullrequestreview-5022214304) - 2026-08-25
+* [Commit] [stateless by default on multinode (#17390)](https://github.com/OffchainLabs/prysm/commit/255ff0688d61e22a5f0b35ffd906d571c3047949) - 2026-08-25
 ## Q2 2026
 
 

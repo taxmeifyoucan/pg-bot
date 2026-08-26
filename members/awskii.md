@@ -362,6 +362,16 @@ Team: Erigon
 * [Review] [Review on: node: serve zstd when the client asks for it](https://github.com/erigontech/erigon/pull/23482#pullrequestreview-5004571664) - 2026-08-24
 * [Review] [Review on: `--prune.distance`: to print user-friendly advise in corner-cases](https://github.com/erigontech/erigon/pull/23221#pullrequestreview-5004570603) - 2026-08-24
 * [Review] [Review on: rpc/jsonstream: bound how much of a response is held in memory](https://github.com/erigontech/erigon/pull/23496#pullrequestreview-5004777089) - 2026-08-24
+* [Pull Request] [execution/protocol/aa: map RIP-7560 executionStatus onto the EIP-658 receipt status](https://github.com/erigontech/erigon/pull/23569) - 2026-08-25
+* [Pull Request] [execution/types: wire the tx-type registry into the three receipt dispatch sites](https://github.com/erigontech/erigon/pull/23565) - 2026-08-25
+* [Review] [Review on: cl: seed the ENR custody group count instead of an empty entry](https://github.com/erigontech/erigon/pull/23560#pullrequestreview-5018715153) - 2026-08-25
+* [Pull Request] [execution/commitment: compact the pbin branch record and convert pre-version datadirs](https://github.com/erigontech/erigon/pull/23564) - 2026-08-25
+* [Review] [Review on: execution/chain: compare the timestamp forks in checkCompatible, not just the block ones](https://github.com/erigontech/erigon/pull/23466#pullrequestreview-5017855805) - 2026-08-25
+* [Pull Request] [[r3.6] execution/chain: compare the timestamp forks in checkCompatible, not just the block ones](https://github.com/erigontech/erigon/pull/23561) - 2026-08-25
+* [Review] [Review on: gitignore: ignore *.pprof dumps](https://github.com/erigontech/erigon/pull/23558#pullrequestreview-5018133042) - 2026-08-25
+* [Issue] [execution/state/genesiswrite: a block-fork conflict at block 0 is written silently](https://github.com/erigontech/erigon/issues/23563) - 2026-08-25
+* [Issue] [execution/state: the reader-side and EVM-side destruct scans use different lower bounds](https://github.com/erigontech/erigon/issues/23559) - 2026-08-25
+* [Commit] [execution/state: range-scan the destruct in versionedStateReader reads (#23072)](https://github.com/erigontech/erigon/commit/21790b44df304a8503cf06b5979a8e34ae45fe83) - 2026-08-25
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05
@@ -371,6 +381,10 @@ Team: Erigon
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [integration_test: debug_traceBlockByNumber(pending) now returns an error](https://github.com/erigontech/rpc-tests/pull/588) - 2026-08-11
 * [Commit] [integration_test: debug_traceBlockByNumber(pending) now returns an error (#588)](https://github.com/erigontech/rpc-tests/commit/840478c42690b8566b61f71d9a5829532e05ab12) - 2026-08-19
+
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8347: add EIP-7523 to requires](https://github.com/ethereum/EIPs/pull/12239) - 2026-08-25
+* [Commit] [Update EIP-8347: add EIP-7523 to requires](https://github.com/ethereum/EIPs/commit/21e1d9ec52cedce7647d1a5a37b729ab8a5917b4) - 2026-08-25
 ## Q2 2026
 
 

@@ -386,6 +386,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: ci: external contributor workflow error](https://github.com/ChainSafe/lodestar/pull/9905#pullrequestreview-5007537038) - 2026-08-24
 * [Review] [Review on: docs: fix broken gitpoap badge, add links to ES/Node version badges](https://github.com/ChainSafe/lodestar/pull/9901#pullrequestreview-5005665473) - 2026-08-24
 * [Commit] [fix: keep event stream alive if an event can not be serialized (#9872)](https://github.com/ChainSafe/lodestar/commit/1c8babbe6e9bafc861408f9314f05edec9d736be) - 2026-08-24
+* [Review] [Review on: feat: tiered pruning of persisted checkpoint states](https://github.com/ChainSafe/lodestar/pull/9898#pullrequestreview-5020388705) - 2026-08-25
+* [Review] [Review on: chore: more metrics for BlockInputSync](https://github.com/ChainSafe/lodestar/pull/9912#pullrequestreview-5017521247) - 2026-08-25
+* [Review] [Review on: chore: follow up PR 9904](https://github.com/ChainSafe/lodestar/pull/9909#pullrequestreview-5017366307) - 2026-08-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

@@ -79,6 +79,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Do not migrate a cold state built from a reorged-out block (#17371)](https://github.com/OffchainLabs/prysm/commit/91b97b6b3da72327638121eba14d2b76f1904ff2) - 2026-08-20
 * [Review] [Review on: stream hdiff validator comparison](https://github.com/OffchainLabs/prysm/pull/17396#pullrequestreview-4996725523) - 2026-08-21
 * [Review] [Review on: Bound the payload envelope data column wait in envelope recovery paths](https://github.com/OffchainLabs/prysm/pull/17403#pullrequestreview-5011114615) - 2026-08-24
+* [Review] [Review on: Verify bid gas limit against the payload at bid.parent_block_hash](https://github.com/OffchainLabs/prysm/pull/17405#pullrequestreview-5019611259) - 2026-08-25
+* [Review] [Review on: reduce state diff cache memory usage](https://github.com/OffchainLabs/prysm/pull/17227#pullrequestreview-5018528087) - 2026-08-25
+* [Issue] [Local building failure fallsback only to p2p bids](https://github.com/OffchainLabs/prysm/issues/17407) - 2026-08-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

@@ -159,6 +159,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Update ethspecify for alpha.14](https://github.com/Consensys/teku/pull/11148#pullrequestreview-4978381571) - 2026-08-20
 * [Review] [Review on: Implement light client collection layer](https://github.com/Consensys/teku/pull/11140#pullrequestreview-5001201746) - 2026-08-22
 * [Commit] [Implement standalone VC PTC duties for Gloas (#11137)](https://github.com/Consensys/teku/commit/0be4d6fb82c56dd440d107071f4d3fe521b3a7ab) - 2026-08-24
+* [Review] [Review on: Last parts of FCR](https://github.com/Consensys/teku/pull/11157#pullrequestreview-5025144951) - 2026-08-25
+* [Review] [Review on: Pass `BuilderConfig` from VC to BN](https://github.com/Consensys/teku/pull/11161#pullrequestreview-5017315120) - 2026-08-25
+* [Review] [Review on: Put `BuilderConfig` in request body when calling block v4](https://github.com/Consensys/teku/pull/11132#pullrequestreview-5017356366) - 2026-08-25
+* [Pull Request] [Remote validator client: use v2 proposer duties endpoint from Fulu](https://github.com/Consensys/teku/pull/11164) - 2026-08-25
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

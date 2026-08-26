@@ -150,6 +150,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [ci: fix sedge build on the sync runners (Go proxy 403 on redirected module zips) (#12976)](https://github.com/NethermindEth/nethermind/commit/c91d4eaeecb259e56ee008c562fa5f696a64f39a) - 2026-08-24
 * [Commit] [ci: disable .NET package caching again (#12901)](https://github.com/NethermindEth/nethermind/commit/e1a9298f61899ad379e421e79dcd404576c06e93) - 2026-08-24
 * [Commit] [ci(bench): stop auto-triggering RPC benchmarks on 'performance is good', shorten the corpus warm-up (#12949)](https://github.com/NethermindEth/nethermind/commit/aa490c4e0b18146ba094592deae5a3104026e3df) - 2026-08-24
+* [Pull Request] [fix(flat): harden the warmer resolution protocol (#12951 follow-ups)](https://github.com/NethermindEth/nethermind/pull/12980) - 2026-08-25
+* [Commit] [fix(flat): isolate warmer misses and safely publish verified reads (#12951)](https://github.com/NethermindEth/nethermind/commit/dc723731d6f35a91bca1b0aa024ac4ab49db87a5) - 2026-08-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

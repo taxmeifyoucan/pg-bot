@@ -1071,6 +1071,23 @@ Team: Erigon
 * [Commit] [rpc: answer 503 when the DB gate rejects a request (#23488)](https://github.com/erigontech/erigon/commit/f209ccd0f257f1a0afe94dc4f9f2770607b36396) - 2026-08-24
 * [Commit] [execution/tracing: write traced storage values without escaping (#23490)](https://github.com/erigontech/erigon/commit/1f13c861bce663c6555135205285ef070baffb14) - 2026-08-24
 * [Commit] [txnprovider/txpool: load pool from db under p.lock (#23511)](https://github.com/erigontech/erigon/commit/3e06bfab40cbea418ad601a5efd1bf8823a24154) - 2026-08-24
+* [Review] [Review on: agents.md, .claude/rules: note golangci-lint cache can report sibling-worktree paths](https://github.com/erigontech/erigon/pull/23556#pullrequestreview-5017186831) - 2026-08-25
+* [Review] [Review on: execution, node: test RPC state across unwind phases](https://github.com/erigontech/erigon/pull/23543#pullrequestreview-5014965007) - 2026-08-25
+* [Review] [Review on: cl: enable errcheck for beacon/cltypes/phase1/validator and fix violations](https://github.com/erigontech/erigon/pull/23476#pullrequestreview-5019477522) - 2026-08-25
+* [Pull Request] [lru: grow 1 shard at a time](https://github.com/erigontech/erigon/pull/23553) - 2026-08-25
+* [Review] [Review on: rpc/jsonstream: bulk-copy strings that need no escaping](https://github.com/erigontech/erigon/pull/23493#pullrequestreview-5014067727) - 2026-08-25
+* [Pull Request] [gitignore: ignore *.pprof dumps](https://github.com/erigontech/erigon/pull/23558) - 2026-08-25
+* [Pull Request] [lru: slab-elements instead of grow](https://github.com/erigontech/erigon/pull/23557) - 2026-08-25
+* [Pull Request] [db: drop `changesetMu` contention](https://github.com/erigontech/erigon/pull/23547) - 2026-08-25
+* [Review] [Review on: rpc/jsonstream: drop Write, leaving WriteRawBytes as the only raw path](https://github.com/erigontech/erigon/pull/23504#pullrequestreview-5014091765) - 2026-08-25
+* [Review] [Review on: execution: fix wrong BAL due to missing sstore storage slot read after selfdestruct](https://github.com/erigontech/erigon/pull/23541#pullrequestreview-5018034190) - 2026-08-25
+* [Review] [Review on: plugins/auth: enable errcheck and check PutToken error in test](https://github.com/erigontech/erigon/pull/23555#pullrequestreview-5017184788) - 2026-08-25
+* [Pull Request] [cmd/integration: stage_exec --limit flag, early-stop guard, and whole-run profiling](https://github.com/erigontech/erigon/pull/23544) - 2026-08-25
+* [Review] [Review on: rpc/jsonrpc: return hexutil.U256 from the eth_/erigon_ quantity getters](https://github.com/erigontech/erigon/pull/23216#pullrequestreview-5014161438) - 2026-08-25
+* [Review] [Review on: vm: drop redundant return-data copy in CALL/CALLCODE/DELEGATECALL](https://github.com/erigontech/erigon/pull/23479#pullrequestreview-5014043741) - 2026-08-25
+* [Commit] [gitignore: ignore *.pprof dumps (#23558)](https://github.com/erigontech/erigon/commit/0d3680545863d138fc2e8abb6d1d1c2d5e1326e6) - 2026-08-25
+* [Commit] [`--prune.distance`: to print user-friendly advise in corner-cases (#23221)](https://github.com/erigontech/erigon/commit/f4901a90e4bbc6e2ebcbdaeb435663995376b641) - 2026-08-25
+* [Commit] [rpc/jsonstream: bound how much of a response is held in memory (#23496)](https://github.com/erigontech/erigon/commit/073dcdc8e1dab114f91a75a6609bd3dd9528225f) - 2026-08-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

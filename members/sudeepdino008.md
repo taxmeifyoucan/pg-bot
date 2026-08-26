@@ -169,6 +169,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [diagnostics/diskutils, node: warn when datadir is not on ext4 or XFS](https://github.com/erigontech/erigon/pull/23524) - 2026-08-23
 * [Review] [Review on: db/state: split TemporalMemBatch latestStateLock into per-domain mutexes](https://github.com/erigontech/erigon/pull/23535#pullrequestreview-5008510895) - 2026-08-24
 * [Issue] [EIP-2124 fork ID is checked too late, and never during discovery](https://github.com/erigontech/erigon/issues/23534) - 2026-08-24
+* [Pull Request] [agents.md, .claude/rules: note golangci-lint cache can report sibling-worktree paths](https://github.com/erigontech/erigon/pull/23556) - 2026-08-25
+* [Pull Request] [plugins/auth: enable errcheck and check PutToken error in test](https://github.com/erigontech/erigon/pull/23555) - 2026-08-25
+* [Commit] [agents.md, .claude/rules: note golangci-lint cache can report sibling-worktree paths (#23556)](https://github.com/erigontech/erigon/commit/70efac34d94f5d730929fe6e20c9e2b68574fb97) - 2026-08-25
+* [Commit] [plugins/auth: enable errcheck and check PutToken error in test (#23555)](https://github.com/erigontech/erigon/commit/3ff76c08c9dc51fef003a5b3a6d40145474c8269) - 2026-08-25
 ## Q2 2026
 
 

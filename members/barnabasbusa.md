@@ -139,6 +139,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Add version envelope to Gloas event stream events](https://github.com/status-im/nimbus-eth2/pull/8816) - 2026-07-28
 
 * [Pull Request] [rest: expose MAX_REQUEST_PAYLOADS in config/spec API](https://github.com/status-im/nimbus-eth2/pull/8882) - 2026-08-14
+* [Pull Request] [Validate bid gas limit against the payload at bid.parent_block_hash](https://github.com/status-im/nimbus-eth2/pull/8941) - 2026-08-25
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(net): make discv5 follow --discovery.port](https://github.com/paradigmxyz/reth/pull/26532) - 2026-07-30
 
@@ -155,9 +156,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Issue] [PeerDAS: validator custody applied ~60s after startup; node advertises earliestAvailableSlot it cannot serve, leading to peer-score bans](https://github.com/OffchainLabs/prysm/issues/17312) - 2026-08-06
 
+* [Pull Request] [Verify bid gas limit against the payload at bid.parent_block_hash](https://github.com/OffchainLabs/prysm/pull/17405) - 2026-08-25
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Add missing Gloas spec values to /eth/v1/config/spec](https://github.com/grandinetech/grandine/pull/847) - 2026-08-14
 
+* [Pull Request] [Validate bid gas limit against the payload at bid.parent_block_hash](https://github.com/grandinetech/grandine/pull/864) - 2026-08-25
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Expose Gloas timing values and MAX_REQUEST_PAYLOADS on the config/spec API](https://github.com/sigp/lighthouse/pull/9812) - 2026-08-14
 

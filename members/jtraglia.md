@@ -216,6 +216,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5561#pullrequestreview-5008009933) - 2026-08-24
 * [Issue] [Improve gossip checks for invalid payloads](https://github.com/ethereum/consensus-specs/issues/5562) - 2026-08-24
 * [Commit] [Define `sha256` & `blake3` spec functions (#5555)](https://github.com/ethereum/consensus-specs/commit/57eba76127345eae405cd19ec59f4a8d32b7692f) - 2026-08-24
+* [Pull Request] [Add more builder onboarding tests](https://github.com/ethereum/consensus-specs/pull/5569) - 2026-08-25
+* [Pull Request] [Remove specs for EIP-6914](https://github.com/ethereum/consensus-specs/pull/5568) - 2026-08-25
+* [Commit] [Remove specs for EIP-6914 (#5568)](https://github.com/ethereum/consensus-specs/commit/cb41910f4acd21db85f0ccaa816ebb42a5299257) - 2026-08-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

@@ -96,6 +96,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [engine_api: return -38003 for wrong payloadAttributes version](https://github.com/status-im/nimbus-eth1/pull/4658) - 2026-08-18
 * [Commit] [engine_api: return -38003 for wrong payloadAttributes version (#4658)](https://github.com/status-im/nimbus-eth1/commit/882b9b2ecf68b176226e15dc9ce7e26b283bfb90) - 2026-08-18
 * [Commit] [engine_api: Return null latestValidHash on early newPayload rejections (#4651)](https://github.com/status-im/nimbus-eth1/commit/778323e00df1ff9adb35ca78c69668e466243576) - 2026-08-18
+* [Pull Request] [stateless: split JSON witness tests into a separate test module](https://github.com/status-im/nimbus-eth1/pull/4684) - 2026-08-25
+* [Commit] [stateless: split JSON witness tests into a separate test module (#4684)](https://github.com/status-im/nimbus-eth1/commit/b6a7bbc12c4aa32335efbeb47a3a5165e5a949db) - 2026-08-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

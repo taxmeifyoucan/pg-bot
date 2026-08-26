@@ -27,6 +27,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Review] [Review on: Implement Push and Pop opcodes in EVM v2](https://github.com/besu-eth/besu/pull/11116#pullrequestreview-4985318371) - 2026-08-20
 * [Review] [Review on: Amsterdam devnet-7 (4/4): remove the dead intrinsic state-gas plumbing](https://github.com/besu-eth/besu/pull/10932#pullrequestreview-5009766323) - 2026-08-24
 * [Pull Request] [reuse sar0 and shl0 for UInt256 byte shifts](https://github.com/besu-eth/besu/pull/11137) - 2026-08-24
+* [Review] [Review on: Implement Push and Pop opcodes in EVM v2](https://github.com/besu-eth/besu/pull/11116#pullrequestreview-5017547766) - 2026-08-25
 ## Q2 2026
 
 

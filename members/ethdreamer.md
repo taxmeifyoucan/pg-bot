@@ -34,6 +34,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 * [Review] [Review on: Add builder API types, request-auth domain, and eth2 client methods (Gloas builder API 1/5)](https://github.com/sigp/lighthouse/pull/9803#pullrequestreview-4976428113) - 2026-08-19
 * [Review] [Review on: Add Gloas Builder API client and adapt execution layer (Gloas builder API 2/5)](https://github.com/sigp/lighthouse/pull/9804#pullrequestreview-4987285121) - 2026-08-20
 * [Pull Request] [Fix clippy lints for Rust 1.98](https://github.com/sigp/lighthouse/pull/9897) - 2026-08-20
+* [Review] [Review on: Add Gloas bid selection, block production, and bid gossip processing (Gloas builder API 3/5)](https://github.com/sigp/lighthouse/pull/9805#pullrequestreview-5021636425) - 2026-08-25
 ## Q2 2026
 
 

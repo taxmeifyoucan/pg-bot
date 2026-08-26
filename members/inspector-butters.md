@@ -64,6 +64,11 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Pull Request] [fix sync committee duty bug for exited vals - pre gloas](https://github.com/OffchainLabs/prysm/pull/17395) - 2026-08-21
 * [Commit] [stream hdiff validator comparison (#17396)](https://github.com/OffchainLabs/prysm/commit/77f5dd1662a742e38e5e476480edf16876b57697) - 2026-08-22
 * [Review] [Review on: Compute correctly the `finalized` field value in a bunch of beacon API endpoints.](https://github.com/OffchainLabs/prysm/pull/17401#pullrequestreview-5007689883) - 2026-08-24
+* [Review] [Review on: Decouple `finalizedInfo.slot` with other fields in `finalizedInfo`](https://github.com/OffchainLabs/prysm/pull/17345#pullrequestreview-5018579576) - 2026-08-25
+* [Pull Request] [better manage mutexes](https://github.com/OffchainLabs/prysm/pull/17406) - 2026-08-25
+* [Review] [Review on: Compute correctly the `finalized` field value in a bunch of beacon API endpoints.](https://github.com/OffchainLabs/prysm/pull/17401#pullrequestreview-5018309606) - 2026-08-25
+* [Commit] [reduce state diff cache memory usage (#17227)](https://github.com/OffchainLabs/prysm/commit/7e87c61fa131f4a5e3a053d82e81a39e30cfcf5d) - 2026-08-25
+* [Commit] [fix sync committee duty bug for exited vals - pre gloas (#17395)](https://github.com/OffchainLabs/prysm/commit/286eca07eea4f865750399d5eef557cfb5a04f0a) - 2026-08-25
 ## Q2 2026
 
 

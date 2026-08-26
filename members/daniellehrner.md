@@ -71,6 +71,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [devnet-8: payload validation](https://github.com/besu-eth/besu/pull/11136) - 2026-08-24
 * [Commit] [Remove the intrinsic state-gas plumbing the devnet-7 rework made dead (#10932)](https://github.com/besu-eth/besu/commit/d67be4866aa74c0d55c28369e8e854222ac7c147) - 2026-08-24
 * [Commit] [EIP-2780/7928: charge authorizations and dispatch entry at the top frame (#10931)](https://github.com/besu-eth/besu/commit/6cbb88023acd32423f31b8ce871694311f1a0a6a) - 2026-08-24
+* [Review] [Review on: referencetests: engine fixture spec and devnet transition-fork schedules](https://github.com/besu-eth/besu/pull/11029#pullrequestreview-5017960039) - 2026-08-25
+* [Pull Request] [Size the engine API worker pool for concurrent engine calls](https://github.com/besu-eth/besu/pull/11148) - 2026-08-25
+* [Review] [Review on: fix(parallel): abort speculative futures on block-budget abort](https://github.com/besu-eth/besu/pull/11149#pullrequestreview-5019349828) - 2026-08-25
+* [Pull Request] [Abort JSON-RPC stream backpressure wait when the peer goes away](https://github.com/besu-eth/besu/pull/11146) - 2026-08-25
+* [Pull Request] [Glamsterdam: fixed payload validation edge cases](https://github.com/besu-eth/besu/pull/11143) - 2026-08-25
+* [Commit] [Amsterdam devnet-8: EIP-2780/8038 gas revisions and fixtures v8.1.1 (#11140)](https://github.com/besu-eth/besu/commit/3d2c62d20603550484069439234d4d439acd1e07) - 2026-08-25
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

@@ -111,6 +111,12 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: test(multi-stark): add WHIR proof-serialization compat fixture](https://github.com/Plonky3/Plonky3/pull/1996#pullrequestreview-5000763250) - 2026-08-22
 * [Review] [Review on: fix(whir): re-derive HVZK base case query/PoW budget from occupancy](https://github.com/Plonky3/Plonky3/pull/1995#pullrequestreview-5000762395) - 2026-08-22
 * [Commit] [fix(whir): re-derive HVZK base case query/PoW budget from occupancy (#1995)](https://github.com/Plonky3/Plonky3/commit/678534df1c458d085150369cb9f5b7b45bca459d) - 2026-08-22
+* [Review] [Review on: feat(binary-field): p3-binary-field crate — GF(2) through GF(2^128) tower fields](https://github.com/Plonky3/Plonky3/pull/2001#pullrequestreview-5024259689) - 2026-08-25
+* [Review] [Review on: feat(field): characteristic-agnostic groundwork for binary fields](https://github.com/Plonky3/Plonky3/pull/2000#pullrequestreview-5023941485) - 2026-08-25
+* [Review] [Review on: fix(stir): fallible config derivation & dedup eta-parameterized security formulas](https://github.com/Plonky3/Plonky3/pull/1998#pullrequestreview-5023569706) - 2026-08-25
+* [Review] [Review on: perf(stir): batch the OOD-sampling and degree-correction hot loops](https://github.com/Plonky3/Plonky3/pull/1992#pullrequestreview-5020185412) - 2026-08-25
+* [Review] [Review on: perf(stir): commit height classes on a shared domain, merge via Combine (§7)](https://github.com/Plonky3/Plonky3/pull/1990#pullrequestreview-5019410959) - 2026-08-25
+* [Commit] [feat(field): characteristic-agnostic groundwork for binary fields (#2000)](https://github.com/Plonky3/Plonky3/commit/d99a0c1444493641435b4264b0407a3d8f5c4848) - 2026-08-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

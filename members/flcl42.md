@@ -260,6 +260,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(docgen): probe member converters to document their real JSON kind](https://github.com/NethermindEth/nethermind/pull/12869#pullrequestreview-5006816998) - 2026-08-24
 * [Commit] [Remove Taiko and Surge integration workflows (#12973)](https://github.com/NethermindEth/nethermind/commit/4b8addd4b6770dcc1ab0efcccca8b8d149fbc222) - 2026-08-24
 * [Commit] [fix(evm): burn credited state gas on EIP-8037 exceptional halt (#12965)](https://github.com/NethermindEth/nethermind/commit/7150854c1fb0c9eb607353033eff140fbeaedbde) - 2026-08-24
+* [Pull Request] [Correct EIP-3155 state-test traces](https://github.com/NethermindEth/nethermind/pull/12981) - 2026-08-25
+* [Review] [Review on: Correct EIP-3155 state-test traces](https://github.com/NethermindEth/nethermind/pull/12981#pullrequestreview-5018454096) - 2026-08-25
+* [Review] [Review on: fix(docgen): document nullable JSON-RPC result payloads (#12837)](https://github.com/NethermindEth/nethermind/pull/12866#pullrequestreview-5019267474) - 2026-08-25
+* [Review] [Review on: fix(docgen): probe member converters to document their real JSON kind](https://github.com/NethermindEth/nethermind/pull/12869#pullrequestreview-5019266945) - 2026-08-25
+* [Pull Request] [Add dual-stack peer endpoints with per-family dial fallback](https://github.com/NethermindEth/nethermind/pull/12983) - 2026-08-25
+* [Pull Request] [Enable dual-stack RLPx and discv4/discv5 listeners](https://github.com/NethermindEth/nethermind/pull/12982) - 2026-08-25
+* [Review] [Review on: Downgrade discovery rate-limiting logs to Trace](https://github.com/NethermindEth/nethermind/pull/12978#pullrequestreview-5016396073) - 2026-08-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
@@ -295,6 +302,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [clients/nethermind: only mark post-merge genesis when TTD is set](https://github.com/ethereum/hive/pull/1595) - 2026-08-11
 * [Commit] [clients/nethermind: only mark post-merge genesis when TTD is set (#1595)](https://github.com/ethereum/hive/commit/3e3aeecc98c094357659cc5913c778aa063e1702) - 2026-08-12
 * [Pull Request] [simulators/devp2p: add dual-stack discovery orchestration](https://github.com/ethereum/hive/pull/1598) - 2026-08-13
+* [Commit] [Support Prague consensus fixtures and RPC gas target (#1585)](https://github.com/ethereum/hive/commit/6eb5d742079ecd5a64538d43d1ab742861583ffb) - 2026-08-25
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix(eth): isolate protocol traffic by connection](https://github.com/besu-eth/besu/pull/10841) - 2026-07-22
 * [Pull Request] [fix(sync): queue backward sync until peers are ready](https://github.com/besu-eth/besu/pull/10843) - 2026-07-22

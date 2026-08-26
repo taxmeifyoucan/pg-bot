@@ -29,6 +29,7 @@ Team: Codex DAS
 * [Commit] [common/lru: add metered lru cache variant (#33719)](https://github.com/ethereum/go-ethereum/commit/a83a42b397e91ad34e11491a55d14963456c1665) - 2026-08-24
 * [Commit] [cmd/devp2p: add more hive discv5 coverage (#34770)](https://github.com/ethereum/go-ethereum/commit/e991e6aafa928410800c1210ee35654c9a4296e9) - 2026-08-24
 * [Commit] [core/txpool/blobpool: speed up serving pre eth/72 peers (#35543)](https://github.com/ethereum/go-ethereum/commit/7da8016e9421c07c7c1e333b91d4ad402b7c939d) - 2026-08-24
+* [Review] [Review on: core/txpool/blobpool: extend fully-fetched blob transactions to the full cell set](https://github.com/ethereum/go-ethereum/pull/35531#pullrequestreview-5017161878) - 2026-08-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4818065623) - 2026-07-30
 * [Pull Request] [Add EIP: RowDAS - Distributed Blob Reconstruction](https://github.com/ethereum/EIPs/pull/12118) - 2026-08-06

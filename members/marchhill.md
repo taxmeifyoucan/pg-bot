@@ -199,6 +199,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: test(eip8141): lock frame tx decode bounds and drop stale spec-gap markers](https://github.com/NethermindEth/nethermind/pull/12911#pullrequestreview-5007014373) - 2026-08-24
 * [Review] [Review on: fix(frames): decode pre-2D scalar gas_used in stored frame-tx receipts](https://github.com/NethermindEth/nethermind/pull/12957#pullrequestreview-5006793107) - 2026-08-24
 * [Commit] [Implement EIP-7805 (FOCIL) (#8003)](https://github.com/NethermindEth/nethermind/commit/d4ef4fd56e924550d4a6a0de5aa8507a124305d5) - 2026-08-24
+* [Pull Request] [Integrate EIP-7805 (FOCIL) into the frame-transaction branch](https://github.com/NethermindEth/nethermind/pull/12977) - 2026-08-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

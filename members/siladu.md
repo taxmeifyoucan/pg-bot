@@ -46,6 +46,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Default --discovery-mode to V4](https://github.com/besu-eth/besu/pull/11026#pullrequestreview-4914084328) - 2026-08-12
 * [Review] [Review on: add JMH gas profiler and formulas](https://github.com/besu-eth/besu/pull/10807#pullrequestreview-4927175909) - 2026-08-13
 * [Review] [Review on: HTTP RPC: Demote timeout and closed connection exception to WARN](https://github.com/besu-eth/besu/pull/11054#pullrequestreview-4939356361) - 2026-08-14
+* [Review] [Review on: Add block creation timing to QBFT block building](https://github.com/besu-eth/besu/pull/11144#pullrequestreview-5018262570) - 2026-08-25
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Review] [Review on: 2.8.0 release version pr](https://github.com/Consensys/tuweni/pull/66#pullrequestreview-4908208335) - 2026-08-11
 

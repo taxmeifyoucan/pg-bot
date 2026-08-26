@@ -146,6 +146,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Extract plugin-api-worldstate-backend module](https://github.com/besu-eth/besu/pull/11118#pullrequestreview-5006617710) - 2026-08-24
 * [Review] [Review on: Extract plugin-api-worldstate module](https://github.com/besu-eth/besu/pull/11117#pullrequestreview-5006610029) - 2026-08-24
 * [Commit] [Execute Engine API methods concurrently except ordered forkchoiceUpdated (#11053)](https://github.com/besu-eth/besu/commit/8a4f8678aa9ba1397b3e24abd33e6c41eee5474e) - 2026-08-24
+* [Review] [Review on: Add EIP-8070 Engine API surface: engine_getBlobsV4 and custodyColumns](https://github.com/besu-eth/besu/pull/11141#pullrequestreview-5017251666) - 2026-08-25
+* [Commit] [Refactor `engine_exchangeCapabilities`,`engine_getClientVersionV1` and `engine_exchangeTransitionConfigurationV1` (#11010)](https://github.com/besu-eth/besu/commit/9e2d4d131a5a4ff5b30f7a25ee67b838f902faee) - 2026-08-25
+* [Commit] [Add EIP-8070 Engine API surface: engine_getBlobsV4 and custodyColumns (#10922) (#11141)](https://github.com/besu-eth/besu/commit/36f9b4f321ac61865cc2b78848b37a470dcd33cd) - 2026-08-25
+* [Commit] [Clamp admin_generateLogBloomCache block bounds to the chain head (#11135)](https://github.com/besu-eth/besu/commit/cfe0499e92483eb364797e63279bec0ab0a2e0c9) - 2026-08-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

@@ -20,6 +20,7 @@ Team: Erigon
 * [Review] [Review on: Fix flaky latest tests: concurrent dispatch and head classification](https://github.com/erigontech/rpc-tests/pull/586#pullrequestreview-4858964705) - 2026-08-04
 * [Review] [Review on: integration-test: update expected results for traceAddress path semantics](https://github.com/erigontech/rpc-tests/pull/587#pullrequestreview-4897642633) - 2026-08-10
 * [Review] [Review on: erigon_getLogsByHash: expect [] instead of null for receipts with no logs](https://github.com/erigontech/rpc-tests/pull/591#pullrequestreview-4991231274) - 2026-08-21
+* [Review] [Review on: gnosis: fix trace_call no vmtrace](https://github.com/erigontech/rpc-tests/pull/592#pullrequestreview-5024351418) - 2026-08-25
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: QA: increase timer sync verify with reference node](https://github.com/erigontech/erigon/pull/22279#pullrequestreview-4639179688) - 2026-07-06
 * [Review] [Review on: [3.5] QA: Modified default wait sync latest from 10 to 300](https://github.com/erigontech/erigon/pull/22280#pullrequestreview-4639577451) - 2026-07-06

@@ -151,6 +151,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: rpc/gasprice: truncate blob fee arrays with the rest of the fee history](https://github.com/erigontech/erigon/pull/23484#pullrequestreview-5000268534) - 2026-08-22
 * [Commit] [rpc: erigon_getLogsByHash: propagate real errors and check canonicity before the receipts cache (#23507)](https://github.com/erigontech/erigon/commit/070e66185c705fac5e949ae54980044b76637853) - 2026-08-23
 * [Review] [Review on: rpc/jsonrpc: fail trace_filter instead of mixing error objects into the result array](https://github.com/erigontech/erigon/pull/23346#pullrequestreview-5012849403) - 2026-08-24
+* [Pull Request] [rpc/jsonrpc: keep trace_call's unrequested trace empty and stop attaching the tracer for stateDiff](https://github.com/erigontech/erigon/pull/23572) - 2026-08-25
+* [Commit] [rpc/jsonrpc: fail trace_filter instead of mixing error objects into the result array (#23346)](https://github.com/erigontech/erigon/commit/d8994edae2bad2a61af379f287e04e4f52636969) - 2026-08-25
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -167,6 +169,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: fix: rename ErigonLog.Timestamp to BlockTimestamp](https://github.com/erigontech/rpc-tests/pull/589#pullrequestreview-4972186926) - 2026-08-19
 * [Pull Request] [erigon_getLogsByHash: expect [] instead of null for receipts with no logs](https://github.com/erigontech/rpc-tests/pull/591) - 2026-08-20
 * [Commit] [erigon_getLogsByHash: expect [] instead of null for receipts with no logs (#591)](https://github.com/erigontech/rpc-tests/commit/73992926bb41ecc29f9d48f4a93a8acddc3117ed) - 2026-08-21
+* [Pull Request] [gnosis: fix trace_call no vmtrace](https://github.com/erigontech/rpc-tests/pull/592) - 2026-08-25
 ## Q2 2026
 
 

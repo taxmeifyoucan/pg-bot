@@ -156,6 +156,10 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Delete public/20260820-aligned-donation directory](https://github.com/protocolguild/protocol-guild-site/commit/fa4f9b2359d3709114fc143ebfec05f60ae9463f) - 2026-08-20
 * [Commit] [Create delete.txt](https://github.com/protocolguild/protocol-guild-site/commit/382726dc10f4ad201c4e0cd4f0949e86dee09362) - 2026-08-20
 * [Commit] [Add Aligned blog](https://github.com/protocolguild/protocol-guild-site/commit/295f3567e070dc0bf21efdc16948c32df1e258bb) - 2026-08-24
+* [Commit] [Update #s](https://github.com/protocolguild/protocol-guild-site/commit/d5d85da8f6ae398c9581c48ecf6bf2b40c6ce1dc) - 2026-08-25
+* [Commit] [Update #s](https://github.com/protocolguild/protocol-guild-site/commit/98227b013c851c54661b1b50f46a09b897b4cb1f) - 2026-08-25
+* [Commit] [Update numbers](https://github.com/protocolguild/protocol-guild-site/commit/ab90809713047e696d3fcfa6e524b0cd27f7e450) - 2026-08-25
+* [Commit] [Update member scroll](https://github.com/protocolguild/protocol-guild-site/commit/1e022ae3cc02bc0d9a70ba75ab11399626e5ee5d) - 2026-08-25
 ## Q2 2026
 
 

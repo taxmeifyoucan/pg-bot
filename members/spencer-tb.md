@@ -239,6 +239,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): EIP-8037 - pin gas on the unasserted child-halt spill tests](https://github.com/ethereum/execution-specs/pull/3427) - 2026-08-24
 * [Review] [Review on: test(spec-specs): add unit tests for get_last_256_block_hashes](https://github.com/ethereum/execution-specs/pull/3397#pullrequestreview-5006585339) - 2026-08-24
 * [Review] [Review on: feat(tests): add genesis block header field test for BAL hash](https://github.com/ethereum/execution-specs/pull/3416#pullrequestreview-5006646517) - 2026-08-24
+* [Review] [Review on: feat(tests): expand create collision matrix and add balance-only cases](https://github.com/ethereum/execution-specs/pull/3425#pullrequestreview-5018291059) - 2026-08-25
+* [Commit] [chore(tests): remove EIP-7610 create collision tests (#3417)](https://github.com/ethereum/execution-specs/commit/2ce2191562f76ec6e64a82f82165d821e1c781fc) - 2026-08-25
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

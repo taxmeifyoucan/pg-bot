@@ -94,6 +94,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Commit] [FCR event (#11145)](https://github.com/Consensys/teku/commit/96f232861100aadf5f125b4d81c0dd3a62c8e245) - 2026-08-20
 * [Review] [Review on: BatchSync Improvements](https://github.com/Consensys/teku/pull/11158#pullrequestreview-5005702194) - 2026-08-24
 * [Pull Request] [Other sync improvements](https://github.com/Consensys/teku/pull/11162) - 2026-08-24
+* [Review] [Review on: Cache the correct execution payload value for Gloas](https://github.com/Consensys/teku/pull/11170#pullrequestreview-5020182500) - 2026-08-25
+* [Pull Request] [Move storage counter scans off the pruning thread and warn on slow pruning](https://github.com/Consensys/teku/pull/11171) - 2026-08-25
+* [Review] [Review on: Move storage counter scans off the pruning thread and warn on slow pruning](https://github.com/Consensys/teku/pull/11171#pullrequestreview-5021044330) - 2026-08-25
+* [Review] [Review on: Change signature of `createUnsignedExecutionPayload`](https://github.com/Consensys/teku/pull/11169#pullrequestreview-5019490822) - 2026-08-25
+* [Review] [Review on: Pass `BuilderConfig` from VC to BN](https://github.com/Consensys/teku/pull/11161#pullrequestreview-5018726333) - 2026-08-25
+* [Review] [Review on: BatchSync Improvements](https://github.com/Consensys/teku/pull/11158#pullrequestreview-5016371966) - 2026-08-25
+* [Review] [Review on: Enable aircompressor-v3 by default for gossip and RPC snappy encoding](https://github.com/Consensys/teku/pull/11167#pullrequestreview-5016491004) - 2026-08-25
+* [Commit] [Snappy benchmarks + introduce `aircompressor` (#10861)](https://github.com/Consensys/teku/commit/11094588e28e681cb844c9ea36cfc0a397c6bb93) - 2026-08-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

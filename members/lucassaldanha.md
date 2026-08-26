@@ -102,6 +102,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Review] [Review on: fix publish to maven, fix api job and use github token](https://github.com/Consensys/teku/pull/11115#pullrequestreview-5013423148) - 2026-08-24
 * [Review] [Review on: BatchSync Improvements](https://github.com/Consensys/teku/pull/11158#pullrequestreview-5013389236) - 2026-08-24
 * [Review] [Review on: Implement standalone VC PTC duties for Gloas](https://github.com/Consensys/teku/pull/11137#pullrequestreview-5003954389) - 2026-08-24
+* [Review] [Review on: fix for openapidoc](https://github.com/Consensys/teku/pull/11173#pullrequestreview-5025690845) - 2026-08-26
+* [Pull Request] [Enable aircompressor-v3 by default for gossip and RPC snappy encoding](https://github.com/Consensys/teku/pull/11167) - 2026-08-25
+* [Review] [Review on: Enable aircompressor-v3 by default for gossip and RPC snappy encoding](https://github.com/Consensys/teku/pull/11167#pullrequestreview-5014882702) - 2026-08-25
+* [Review] [Review on: Snappy benchmarks + introduce `aircompressor`](https://github.com/Consensys/teku/pull/10861#pullrequestreview-5014732574) - 2026-08-25
+* [Review] [Review on: fix publish to maven, fix api job and use github token](https://github.com/Consensys/teku/pull/11115#pullrequestreview-5014196773) - 2026-08-25
+* [Issue] [Enable aircompressor-v3 by default for gossip and RPC snappy encoding](https://github.com/Consensys/teku/issues/11166) - 2026-08-25
+* [Issue] [Remove snappy-java dependency and experimental aircompressor flags](https://github.com/Consensys/teku/issues/11165) - 2026-08-25
+* [Commit] [Enable aircompressor-v3 by default for gossip and RPC snappy encoding (#11167)](https://github.com/Consensys/teku/commit/28adab3d3851a421bd6d59ed28d3c1ea0739261b) - 2026-08-25
 ## Q2 2026
 
 

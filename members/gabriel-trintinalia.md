@@ -37,6 +37,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: Amsterdam devnet-7 (2/4): EIP-3120/8037/8038 calldata floor, CREATE liveness, SSTORE ordering](https://github.com/besu-eth/besu/pull/10930#pullrequestreview-4978779985) - 2026-08-20
 * [Review] [Review on: Changelog rotate for 26.8.0 ](https://github.com/besu-eth/besu/pull/11090#pullrequestreview-4979654501) - 2026-08-20
 * [Review] [Review on: Bonsai archive proofs simple trie](https://github.com/besu-eth/besu/pull/11016#pullrequestreview-4978753227) - 2026-08-20
+* [Review] [Review on: feat(witness): EIP-8025  debug_executionWitness RPC](https://github.com/besu-eth/besu/pull/11034#pullrequestreview-5025579061) - 2026-08-26
+* [Review] [Review on: Amsterdam devnet-8: EIP-2780/8038 gas revisions and fixtures v8.1.1](https://github.com/besu-eth/besu/pull/11140#pullrequestreview-5015024962) - 2026-08-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896055113) - 2026-08-10
 ## Q2 2026

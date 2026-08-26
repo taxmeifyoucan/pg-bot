@@ -43,6 +43,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Stateroot opti in glamsterdam devnet 8](https://github.com/besu-eth/besu/pull/10939#pullrequestreview-4841424137) - 2026-08-03
 * [Review] [Review on: Revert #10721 and #10725](https://github.com/besu-eth/besu/pull/10981#pullrequestreview-4863218519) - 2026-08-05
 * [Review] [Review on: Remove fork choice update from engine_newPayloadV*](https://github.com/besu-eth/besu/pull/10980#pullrequestreview-4862995445) - 2026-08-05
+* [Pull Request] [Add block creation timing to QBFT block building](https://github.com/besu-eth/besu/pull/11144) - 2026-08-25
+* [Review] [Review on: Add block creation timing to QBFT block building](https://github.com/besu-eth/besu/pull/11144#pullrequestreview-5018281085) - 2026-08-25
+* [Commit] [Add block creation timing to QBFT block building (#11144)](https://github.com/besu-eth/besu/commit/540f2bad72f10fd45bc494564e4276c4e7744057) - 2026-08-25
 ## Q2 2026
 
 

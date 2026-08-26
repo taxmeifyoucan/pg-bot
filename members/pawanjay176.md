@@ -67,6 +67,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Add Gloas Builder API client and adapt execution layer (Gloas builder API 2/5)](https://github.com/sigp/lighthouse/pull/9804#pullrequestreview-4988101199) - 2026-08-20
 * [Review] [Review on: Fix clippy lints for Rust 1.98](https://github.com/sigp/lighthouse/pull/9897#pullrequestreview-4986422553) - 2026-08-20
 * [Pull Request] [Gloas alpha 14 EF tests](https://github.com/sigp/lighthouse/pull/9884) - 2026-08-20
+* [Review] [Review on: Test all Gloas proposer preparation payload attributes](https://github.com/sigp/lighthouse/pull/9914#pullrequestreview-5024959087) - 2026-08-25
+* [Review] [Review on: Attempt to fix flaky fallback simulator test](https://github.com/sigp/lighthouse/pull/9908#pullrequestreview-5025036895) - 2026-08-25
+* [Review] [Review on: Set all ptc bits for validators appearing multiple times in ptc](https://github.com/sigp/lighthouse/pull/9899#pullrequestreview-5025184510) - 2026-08-25
+* [Review] [Review on: Convert produceBlockV4 to POST and round-trip Eth-Builder-Url (Gloas builder API 4/5)](https://github.com/sigp/lighthouse/pull/9806#pullrequestreview-5014493481) - 2026-08-25
 ## Q2 2026
 
 

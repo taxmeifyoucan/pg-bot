@@ -16,6 +16,9 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Commit] [common/mclock: rename symbol to remove conflicts with other languages (#35460)](https://github.com/ethereum/go-ethereum/commit/e25efd2c62175e82b364c0344d77c882aa951f68) - 2026-08-04
 * [Pull Request] [build, .gitea: build rpm packages](https://github.com/ethereum/go-ethereum/pull/35557) - 2026-08-19
 * [Review] [Review on: core, trie/bintrie, triedb: EIP-8297 partitioned binary tree (temporary, for discussion)](https://github.com/ethereum/go-ethereum/pull/35436#pullrequestreview-4984482048) - 2026-08-20
+* [Pull Request] [params: add chainspecs support](https://github.com/ethereum/go-ethereum/pull/35585) - 2026-08-25
+* [Pull Request] [core: support initcode in GenesisAlloc](https://github.com/ethereum/go-ethereum/pull/35584) - 2026-08-25
+* [Review] [Review on: core: honor ExecuteConfig.EnableTracer for the EVM-level tracing hooks](https://github.com/ethereum/go-ethereum/pull/35512#pullrequestreview-5020070646) - 2026-08-25
 ## Q2 2026
 
 

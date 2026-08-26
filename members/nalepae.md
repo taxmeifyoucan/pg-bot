@@ -104,6 +104,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae)
 * [Review] [Review on: removing TODO, and have wait for activation depend on health tracker](https://github.com/OffchainLabs/prysm/pull/17369#pullrequestreview-5005706240) - 2026-08-24
 * [Commit] [Beacon API: Return `404` instead of `500` if state not found. (#17402)](https://github.com/OffchainLabs/prysm/commit/f9baeeb390e6caba22c35c68fea761bf2ebd7716) - 2026-08-24
 * [Commit] [`--beacon-db-pruning`: Prune state diff buckets when the `--enable-state-diff` flag is used. (#17289)](https://github.com/OffchainLabs/prysm/commit/c3b260bc60ddca0fe000daa6d97187f276b18dc9) - 2026-08-24
+* [Review] [Review on: stateless by default on multinode](https://github.com/OffchainLabs/prysm/pull/17390#pullrequestreview-5017555233) - 2026-08-25
+* [Review] [Review on: fix sync committee duty bug for exited vals - pre gloas](https://github.com/OffchainLabs/prysm/pull/17395#pullrequestreview-5018298705) - 2026-08-25
+* [Commit] [Compute correctly the `finalized` field value in a bunch of beacon API endpoints. (#17401)](https://github.com/OffchainLabs/prysm/commit/153166621aa3ca08adfac8444a390a85f12fe4a7) - 2026-08-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Francesco Risitano](https://github.com/protocolguild/documentation/pull/524#pullrequestreview-4716848535) - 2026-07-16
 

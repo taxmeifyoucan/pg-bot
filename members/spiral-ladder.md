@@ -179,6 +179,13 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [chore(docs): add AI_POLICY](https://github.com/ChainSafe/lodestar-z/pull/590) - 2026-08-24
 * [Review] [Review on: chore(docs): add AI_POLICY](https://github.com/ChainSafe/lodestar-z/pull/590#pullrequestreview-5004737809) - 2026-08-24
 * [Issue] [reliable benchmarking](https://github.com/ChainSafe/lodestar-z/issues/591) - 2026-08-24
+* [Pull Request] [refactor(ssz): infallible variable element iteration](https://github.com/ChainSafe/lodestar-z/pull/598) - 2026-08-25
+* [Review] [Review on: refactor(ssz): infallible variable element iteration](https://github.com/ChainSafe/lodestar-z/pull/598#pullrequestreview-5018810429) - 2026-08-25
+* [Review] [Review on: chore(docs): readme housekeeping + add contributing doc](https://github.com/ChainSafe/lodestar-z/pull/560#pullrequestreview-5018225266) - 2026-08-25
+* [Review] [Review on: fix(ssz): clean up partially decoded blocks](https://github.com/ChainSafe/lodestar-z/pull/596#pullrequestreview-5019984689) - 2026-08-25
+* [Review] [Review on: fix(ssz): free variable list offsets on decode errors](https://github.com/ChainSafe/lodestar-z/pull/595#pullrequestreview-5017218933) - 2026-08-25
+* [Review] [Review on: fix(state-transition): clean up upgraded payload headers](https://github.com/ChainSafe/lodestar-z/pull/597#pullrequestreview-5017632818) - 2026-08-25
+* [Commit] [chore(docs): readme housekeeping + add contributing doc (#560)](https://github.com/ChainSafe/lodestar-z/commit/f7802080467fb2bde6f63a3a1d55d525d775b328) - 2026-08-25
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

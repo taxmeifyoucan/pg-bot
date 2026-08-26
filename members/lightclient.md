@@ -103,6 +103,7 @@ Team: Geth
 * [Review] [Review on: cmd/hivechain: add calltree contract and tx mods for callTracer testing](https://github.com/ethereum/hive/pull/1587#pullrequestreview-4907654341) - 2026-08-11
 
 * [Review] [Review on: Add Glamsterdam support to hivechain](https://github.com/ethereum/hive/pull/1589#pullrequestreview-5011065847) - 2026-08-24
+* [Review] [Review on: Support Prague consensus fixtures and RPC gas target](https://github.com/ethereum/hive/pull/1585#pullrequestreview-5019957029) - 2026-08-25
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Frame Transaction Breakout #2, August 25, 2026](https://github.com/ethereum/pm/issues/2191) - 2026-08-13
 ## Q2 2026

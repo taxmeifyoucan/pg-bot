@@ -55,6 +55,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethpandaops/dora](https://github.com/ethpandaops/dora)
 * [Pull Request] [feat(frontend): block propagation from Xatu](https://github.com/ethpandaops/dora/pull/846) - 2026-08-24
 * [Review] [Review on: feat(frontend): block propagation from Xatu](https://github.com/ethpandaops/dora/pull/846#pullrequestreview-5005730407) - 2026-08-24
+* [Pull Request] [Xatu-cbt slot panels: attestation wave and data column availability](https://github.com/ethpandaops/dora/pull/851) - 2026-08-25
 ## Q2 2026
 
 

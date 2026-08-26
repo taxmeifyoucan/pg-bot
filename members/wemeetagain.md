@@ -237,6 +237,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(ssz): clean up recursive hasher initialization](https://github.com/ChainSafe/lodestar-z/pull/592#pullrequestreview-5011449047) - 2026-08-24
 * [Review] [Review on: chore(docs): add AI_POLICY](https://github.com/ChainSafe/lodestar-z/pull/590#pullrequestreview-5009697868) - 2026-08-24
 * [Review] [Review on: fix(ssz): make tree view publication atomic](https://github.com/ChainSafe/lodestar-z/pull/574#pullrequestreview-5009955791) - 2026-08-24
+* [Review] [Review on: fix(ssz): clean up partially initialized tree view values](https://github.com/ChainSafe/lodestar-z/pull/579#pullrequestreview-5014493182) - 2026-08-25
+* [Review] [Review on: fix(ssz): clean up partially decoded blocks](https://github.com/ChainSafe/lodestar-z/pull/596#pullrequestreview-5019617921) - 2026-08-25
+* [Review] [Review on: fix(ssz): free variable list offsets on decode errors](https://github.com/ChainSafe/lodestar-z/pull/595#pullrequestreview-5019636660) - 2026-08-25
+* [Review] [Review on: fix(ssz): reclaim partial byte and bit vector trees](https://github.com/ChainSafe/lodestar-z/pull/594#pullrequestreview-5019627495) - 2026-08-25
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

@@ -374,6 +374,15 @@ Team: Reth
 * [Commit] [fix(net): make eth/72 announcements interoperable with geth (#26670)](https://github.com/paradigmxyz/reth/commit/5d3c60191ddc76a6af3591d2321beb2cdc64ca8f) - 2026-08-24
 * [Commit] [revert: "feat(storage): re-enable RocksDB BAL storage" (#26788)](https://github.com/paradigmxyz/reth/commit/2ea36ecf60f2647ea66b8174cb8c05629275fc4c) - 2026-08-24
 * [Commit] [feat(txpool): add consensus encoding helper (#26739)](https://github.com/paradigmxyz/reth/commit/97fba9d3d2320cf3ae3d3fa662c8d99259de1c66) - 2026-08-24
+* [Review] [Review on: fix(rocksdb): better max_open_files config](https://github.com/paradigmxyz/reth/pull/26812#pullrequestreview-5024796703) - 2026-08-25
+* [Review] [Review on: fix(trie): materialize destroyed storage trie nodes](https://github.com/paradigmxyz/reth/pull/26802#pullrequestreview-5019581615) - 2026-08-25
+* [Review] [Review on: feat(net): allow updating the fork filter at runtime](https://github.com/paradigmxyz/reth/pull/26794#pullrequestreview-5020094052) - 2026-08-25
+* [Review] [Review on: fix(downloader): address account range review feedback](https://github.com/paradigmxyz/reth/pull/26810#pullrequestreview-5020532916) - 2026-08-25
+* [Review] [Review on: feat(downloader): add snap account range downloader](https://github.com/paradigmxyz/reth/pull/26657#pullrequestreview-5019643531) - 2026-08-25
+* [Review] [Review on: feat(node): allow KZG warmup without EIP-4844 pool support](https://github.com/paradigmxyz/reth/pull/26808#pullrequestreview-5019244170) - 2026-08-25
+* [Review] [Review on: fix(fs-util): append .tmp suffix instead of replacing the extension](https://github.com/paradigmxyz/reth/pull/26781#pullrequestreview-5018758991) - 2026-08-25
+* [Review] [Review on: chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/26797#pullrequestreview-5018651667) - 2026-08-25
+* [Review] [Review on: feat(engine): remove partial persistence feature flag](https://github.com/paradigmxyz/reth/pull/26800#pullrequestreview-5018087936) - 2026-08-25
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

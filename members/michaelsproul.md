@@ -67,6 +67,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Gloas payload attributes use the wrong withdrawals after an empty parent](https://github.com/sigp/lighthouse/pull/9894#pullrequestreview-5004844949) - 2026-08-24
 * [Review] [Review on: Align gloas proposer reorg weight logic w/ spec ](https://github.com/sigp/lighthouse/pull/9831#pullrequestreview-5005836195) - 2026-08-24
 * [Review] [Review on: Initiate a shutdown if the node cannot recover from a diverged fork choice](https://github.com/sigp/lighthouse/pull/9819#pullrequestreview-5005741997) - 2026-08-24
+* [Review] [Review on: Set parent payload availability bit for attestation packing and the attestation simulator](https://github.com/sigp/lighthouse/pull/9828#pullrequestreview-5015974961) - 2026-08-25
+* [Review] [Review on: Use 600 permissions when writing engine API JWT secrets](https://github.com/sigp/lighthouse/pull/9867#pullrequestreview-5014228997) - 2026-08-25
 ## Q2 2026
 
 

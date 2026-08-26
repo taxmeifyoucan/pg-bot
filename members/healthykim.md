@@ -41,6 +41,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: eth/protocols/eth: fix deadlock when re-requesting partial receipts](https://github.com/ethereum/go-ethereum/pull/35537#pullrequestreview-4972559206) - 2026-08-19
 * [Review] [Review on: core, eth: improve the blob fetcher](https://github.com/ethereum/go-ethereum/pull/35572#pullrequestreview-5007765583) - 2026-08-24
 * [Review] [Review on: core/rawdb: fix head truncation below a diverged tail group](https://github.com/ethereum/go-ethereum/pull/35551#pullrequestreview-5007229912) - 2026-08-24
+* [Review] [Review on: core/txpool/blobpool: lock lookup when logging corrupt tx blobs](https://github.com/ethereum/go-ethereum/pull/35429#pullrequestreview-5020237728) - 2026-08-25
+* [Review] [Review on: core, eth: improve the blob fetcher](https://github.com/ethereum/go-ethereum/pull/35572#pullrequestreview-5017454810) - 2026-08-25
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4816824387) - 2026-07-30
 * [Review] [Review on: Update EIP-8070: Clarify custodyColumns `null` behavior](https://github.com/ethereum/EIPs/pull/12144#pullrequestreview-4916982296) - 2026-08-12

@@ -208,6 +208,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [Fixes: GHSA-4776-8c3f-fx7g Added server side limit for steps in debug_traceCall (#11100)](https://github.com/besu-eth/besu/commit/47398b0e32c07fb7447087280abe955349da1d85) - 2026-08-24
 * [Commit] [fix(parallel): abort speculative futures on block-budget abort (#11104)](https://github.com/besu-eth/besu/commit/2ae506fa5875b82638123ee6ad29933b43a8d7bb) - 2026-08-24
 * [Commit] [fix: return MIN_BLOB_GASPRICE in no-fee simulation path (#10899)](https://github.com/besu-eth/besu/commit/0178a1650373cf0c855293cd2b73ae4691aa29e5) - 2026-08-24
+* [Pull Request] [add testing_commitBlockV1 RPC method](https://github.com/besu-eth/besu/pull/11152) - 2026-08-26
+* [Review] [Review on: rpc: support dynamic reorg tracking for transaction receipt logs](https://github.com/besu-eth/besu/pull/11076#pullrequestreview-5025448040) - 2026-08-25
+* [Review] [Review on: referencetests: engine fixture spec and devnet transition-fork schedules](https://github.com/besu-eth/besu/pull/11029#pullrequestreview-5025158471) - 2026-08-25
+* [Review] [Review on: Refactor `engine_exchangeCapabilities`,`engine_getClientVersionV1` and `engine_exchangeTransitionConfigurationV1`](https://github.com/besu-eth/besu/pull/11010#pullrequestreview-5017074943) - 2026-08-25
+* [Review] [Review on: Add EIP-8070 Engine API surface: engine_getBlobsV4 and custodyColumns](https://github.com/besu-eth/besu/pull/11141#pullrequestreview-5013989657) - 2026-08-25
+* [Commit] [Bump Plugin API baseline to 26.8.0 (#11088)](https://github.com/besu-eth/besu/commit/9005fe099f90ab89e0c3c54e8b60678d34271278) - 2026-08-25
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

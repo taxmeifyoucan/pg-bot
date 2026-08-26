@@ -90,6 +90,8 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [txpool: drop blob lookup of the replaced tx, not the new one](https://github.com/status-im/nimbus-eth1/pull/4648) - 2026-08-17
 * [Commit] [txpool: drop blob lookup of the replaced tx, not the new one (#4648)](https://github.com/status-im/nimbus-eth1/commit/391e8efefc82b18f9afe98a5ec50d426184fb187) - 2026-08-17
 * [Commit] [make release nightly use the existing release pathway for better testing (#4632)](https://github.com/status-im/nimbus-eth1/commit/16596a93ab7da507da5b1ab627720f7eddb27a0d) - 2026-08-18
+* [Pull Request] [fix release builds](https://github.com/status-im/nimbus-eth1/pull/4682) - 2026-08-25
+* [Commit] [fix release builds (#4682)](https://github.com/status-im/nimbus-eth1/commit/ff84a4866bc54f1c5b02aeddcbdf62ac72e4a4fd) - 2026-08-25
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22
