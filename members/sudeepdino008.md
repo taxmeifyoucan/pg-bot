@@ -173,6 +173,10 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [plugins/auth: enable errcheck and check PutToken error in test](https://github.com/erigontech/erigon/pull/23555) - 2026-08-25
 * [Commit] [agents.md, .claude/rules: note golangci-lint cache can report sibling-worktree paths (#23556)](https://github.com/erigontech/erigon/commit/70efac34d94f5d730929fe6e20c9e2b68574fb97) - 2026-08-25
 * [Commit] [plugins/auth: enable errcheck and check PutToken error in test (#23555)](https://github.com/erigontech/erigon/commit/3ff76c08c9dc51fef003a5b3a6d40145474c8269) - 2026-08-25
+* [Review] [Review on: cmd/integration: stage_exec --limit flag, early-stop guard, and whole-run profiling](https://github.com/erigontech/erigon/pull/23544#pullrequestreview-5031763155) - 2026-08-26
+* [Review] [Review on: db: HistoryDump re-use zstd buf](https://github.com/erigontech/erigon/pull/23452#pullrequestreview-5031780902) - 2026-08-26
+* [Review] [Review on: db: high-level features unit-tests which cover PagedReader.Reset](https://github.com/erigontech/erigon/pull/23480#pullrequestreview-5031787281) - 2026-08-26
+* [Commit] [diagnostics/diskutils: warn when datadir is on filesystem outside recommended set (#23524)](https://github.com/erigontech/erigon/commit/1b63908533494ea01f342a748bcc48eba3dbd18a) - 2026-08-26
 ## Q2 2026
 
 

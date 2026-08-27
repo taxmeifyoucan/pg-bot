@@ -59,6 +59,7 @@ Github: [@misilva73](https://github.com/misilva73)
 * [Review] [Review on: Update EIP-8347: add EIP-7523 to requires](https://github.com/ethereum/EIPs/pull/12239#pullrequestreview-5018510465) - 2026-08-25
 * [Review] [Review on: Update EIP-8037: decouple SYSTEM_MAX_SSTORES_PER_CALL from request bounds](https://github.com/ethereum/EIPs/pull/12238#pullrequestreview-5018468213) - 2026-08-25
 * [Commit] [Update EIP-8081: PFI EIP-8368](https://github.com/ethereum/EIPs/commit/ac450a4ab2f37387385ee9c54b62f518d97e6cc9) - 2026-08-25
+* [Review] [Review on: Update EIP-8037: include non-zero balance to description of existent address](https://github.com/ethereum/EIPs/pull/12246#pullrequestreview-5032391189) - 2026-08-26
 ## Q2 2026
 
 

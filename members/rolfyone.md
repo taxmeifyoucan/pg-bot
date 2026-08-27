@@ -163,6 +163,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Pass `BuilderConfig` from VC to BN](https://github.com/Consensys/teku/pull/11161#pullrequestreview-5017315120) - 2026-08-25
 * [Review] [Review on: Put `BuilderConfig` in request body when calling block v4](https://github.com/Consensys/teku/pull/11132#pullrequestreview-5017356366) - 2026-08-25
 * [Pull Request] [Remote validator client: use v2 proposer duties endpoint from Fulu](https://github.com/Consensys/teku/pull/11164) - 2026-08-25
+* [Review] [Review on: Refactor `ExecutionPayloadBidManager`](https://github.com/Consensys/teku/pull/11179#pullrequestreview-5034603918) - 2026-08-26
+* [Review] [Review on: Hedge slow requests in SimpleSidecarRetriever](https://github.com/Consensys/teku/pull/11011#pullrequestreview-5034876974) - 2026-08-26
+* [Review] [Review on: Other sync improvements](https://github.com/Consensys/teku/pull/11162#pullrequestreview-5034857487) - 2026-08-26
+* [Review] [Review on: Implement GET `/eth/v1/validator/execution_payload_envelope/...`](https://github.com/Consensys/teku/pull/11172#pullrequestreview-5028921442) - 2026-08-26
+* [Issue] [Strict loading of slashing protection data](https://github.com/Consensys/teku/issues/11181) - 2026-08-26
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

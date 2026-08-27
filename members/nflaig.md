@@ -389,6 +389,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: tiered pruning of persisted checkpoint states](https://github.com/ChainSafe/lodestar/pull/9898#pullrequestreview-5020388705) - 2026-08-25
 * [Review] [Review on: chore: more metrics for BlockInputSync](https://github.com/ChainSafe/lodestar/pull/9912#pullrequestreview-5017521247) - 2026-08-25
 * [Review] [Review on: chore: follow up PR 9904](https://github.com/ChainSafe/lodestar/pull/9909#pullrequestreview-5017366307) - 2026-08-25
+* [Review] [Review on: feat: implement gloas builder api](https://github.com/ChainSafe/lodestar/pull/9832#pullrequestreview-5030937319) - 2026-08-26
+* [Pull Request] [fix: log local block value in gloas block selection](https://github.com/ChainSafe/lodestar/pull/9922) - 2026-08-26
+* [Review] [Review on: feat: prepare for epoch boundary reorg](https://github.com/ChainSafe/lodestar/pull/9915#pullrequestreview-5028100242) - 2026-08-26
+* [Issue] [Gloas payload-by-root sync retries forever when peer selection comes up empty](https://github.com/ChainSafe/lodestar/issues/9921) - 2026-08-26
+* [Issue] [Builder and proposer preferences are lost on beacon node restart](https://github.com/ChainSafe/lodestar/issues/9920) - 2026-08-26
+* [Issue] [Persisting proposer config with builder boost factor crashes on BigInt serialization](https://github.com/ChainSafe/lodestar/issues/9918) - 2026-08-26
+* [Issue] [Combine builder preferences and proposer preferences services](https://github.com/ChainSafe/lodestar/issues/9919) - 2026-08-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

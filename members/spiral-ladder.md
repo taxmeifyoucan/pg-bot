@@ -186,6 +186,10 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix(ssz): free variable list offsets on decode errors](https://github.com/ChainSafe/lodestar-z/pull/595#pullrequestreview-5017218933) - 2026-08-25
 * [Review] [Review on: fix(state-transition): clean up upgraded payload headers](https://github.com/ChainSafe/lodestar-z/pull/597#pullrequestreview-5017632818) - 2026-08-25
 * [Commit] [chore(docs): readme housekeeping + add contributing doc (#560)](https://github.com/ChainSafe/lodestar-z/commit/f7802080467fb2bde6f63a3a1d55d525d775b328) - 2026-08-25
+* [Review] [Review on: feat(shuffle): add PTC sampling](https://github.com/ChainSafe/lodestar-z/pull/563#pullrequestreview-5037552263) - 2026-08-27
+* [Review] [Review on: fix(pmt): reclaim grouped intermediate roots](https://github.com/ChainSafe/lodestar-z/pull/599#pullrequestreview-5027937117) - 2026-08-26
+* [Pull Request] [do not merge: fallible one-pass variable elem iteration](https://github.com/ChainSafe/lodestar-z/pull/605) - 2026-08-26
+* [Review] [Review on: do not merge: fallible one-pass variable elem iteration](https://github.com/ChainSafe/lodestar-z/pull/605#pullrequestreview-5031140445) - 2026-08-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

@@ -372,6 +372,22 @@ Team: Erigon
 * [Issue] [execution/state/genesiswrite: a block-fork conflict at block 0 is written silently](https://github.com/erigontech/erigon/issues/23563) - 2026-08-25
 * [Issue] [execution/state: the reader-side and EVM-side destruct scans use different lower bounds](https://github.com/erigontech/erigon/issues/23559) - 2026-08-25
 * [Commit] [execution/state: range-scan the destruct in versionedStateReader reads (#23072)](https://github.com/erigontech/erigon/commit/21790b44df304a8503cf06b5979a8e34ae45fe83) - 2026-08-25
+* [Review] [Review on: db/etl: store an entry as one packed offset](https://github.com/erigontech/erigon/pull/23576#pullrequestreview-5029088996) - 2026-08-26
+* [Pull Request] [execution/commitment: reuse branch buffers instead of cloning every read](https://github.com/erigontech/erigon/pull/23617) - 2026-08-27
+* [Review] [Review on: db/downloader: bound kept-snapshot seeding and make abandonment observable](https://github.com/erigontech/erigon/pull/23472#pullrequestreview-5037406962) - 2026-08-27
+* [Pull Request] [execution/commitment: commitment metrics as counters, round duration and branch IO bytes](https://github.com/erigontech/erigon/pull/23589) - 2026-08-26
+* [Review] [Review on: execution/vm: rules-keyed precompile providers and stateful precompiles](https://github.com/erigontech/erigon/pull/22217#pullrequestreview-5029582167) - 2026-08-26
+* [Pull Request] [db/integrity: report a truncated commitment file as referencing, and count cache-skipped files](https://github.com/erigontech/erigon/pull/23614) - 2026-08-27
+* [Review] [Review on: execution/cache: track GenericCache entry count in an atomic, not freelru's all-shard Len](https://github.com/erigontech/erigon/pull/23522#pullrequestreview-5027884557) - 2026-08-26
+* [Review] [Review on: execution/stagedsync: COMMITMENT_AFTER_EXEC flag to serialize commitment behind execution](https://github.com/erigontech/erigon/pull/23515#pullrequestreview-5027885783) - 2026-08-26
+* [Pull Request] [db/state: make COLLATE/MERGE/COMPRESS_WORKERS reach the aggregator](https://github.com/erigontech/erigon/pull/23615) - 2026-08-27
+* [Review] [Review on: execution/commitment: stabilize arena invariant test](https://github.com/erigontech/erigon/pull/23613#pullrequestreview-5036043498) - 2026-08-27
+* [Review] [Review on: cl/sentinel: reject invalid ping and status requests](https://github.com/erigontech/erigon/pull/23579#pullrequestreview-5028390087) - 2026-08-26
+* [Issue] [execution/chain, p2p/forkid: six encodings of the fork ladder, and a chain's own schedule reaches none of them](https://github.com/erigontech/erigon/issues/23602) - 2026-08-26
+* [Commit] [execution/chain: compare the timestamp forks in checkCompatible, not just the block ones (#23466)](https://github.com/erigontech/erigon/commit/33cb7902a5111523d878a560f92aba005f0cd4b9) - 2026-08-27
+* [Commit] [db/integrity: report a truncated commitment file as referencing, and count cache-skipped files (#23614)](https://github.com/erigontech/erigon/commit/645873b13983c8884fe300af50a028f7dec93594) - 2026-08-27
+* [Commit] [db/integrity: make CommitmentKvDeref report the keys it scanned (#23597)](https://github.com/erigontech/erigon/commit/758cfd647035a6c1282967a17d184806f032625a) - 2026-08-26
+* [Commit] [execution/commitment: make commit_* metrics report real numbers (#23588)](https://github.com/erigontech/erigon/commit/1ada42f0e8e7d23cf537628e60cf44d3ff1a2b75) - 2026-08-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05
@@ -385,6 +401,7 @@ Team: Erigon
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8347: add EIP-7523 to requires](https://github.com/ethereum/EIPs/pull/12239) - 2026-08-25
 * [Commit] [Update EIP-8347: add EIP-7523 to requires](https://github.com/ethereum/EIPs/commit/21e1d9ec52cedce7647d1a5a37b729ab8a5917b4) - 2026-08-25
+* [Pull Request] [Update EIP-8037: include non-zero balance to description of existent address](https://github.com/ethereum/EIPs/pull/12246) - 2026-08-26
 ## Q2 2026
 
 

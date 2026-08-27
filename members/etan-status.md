@@ -46,6 +46,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Implement EIP-8066 mascot for Gloas](https://github.com/status-im/nimbus-eth2/pull/8911) - 2026-08-19
 * [Pull Request] [Initialize ValidatorMonitor counter metrics to 0 on start](https://github.com/status-im/nimbus-eth2/pull/8915) - 2026-08-20
 * [Review] [Review on: Refresh VC duties when 'head' event reports new dependent roots](https://github.com/status-im/nimbus-eth2/pull/8877#pullrequestreview-5005265769) - 2026-08-24
+* [Pull Request] [Subscribe head_v2 post-Gloas](https://github.com/status-im/nimbus-eth2/pull/8949) - 2026-08-26
+* [Review] [Review on: Refresh VC duties when 'head' event reports new dependent roots](https://github.com/status-im/nimbus-eth2/pull/8877#pullrequestreview-5030312966) - 2026-08-26
+* [Pull Request] [Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946) - 2026-08-26
+* [Review] [Review on: Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946#pullrequestreview-5031028487) - 2026-08-26
+* [Pull Request] [Fix beacon node role documentation example](https://github.com/status-im/nimbus-eth2/pull/8945) - 2026-08-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630) - 2026-07-06
 * [Commit] [Forward compatible consensus data structures (EIP-7688) (#4630)](https://github.com/ethereum/consensus-specs/commit/bd6df5afe26d56e9ccf623071c3b574a76967ac9) - 2026-07-06

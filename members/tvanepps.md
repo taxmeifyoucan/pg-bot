@@ -24,6 +24,10 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Create 20260810-announcing-ACD-Fund-and-Nixo-Support.md](https://github.com/protocolguild/protocol-guild-site/commit/bc8a450393bfb6f4d6601ec69d605f585fc59202) - 2026-08-10
 * [Commit] [add images for post](https://github.com/protocolguild/protocol-guild-site/commit/b637faa473ad8ebd91eb9d8db05795a11ebed4e8) - 2026-08-10
 
+* [Pull Request] [Fix broken frontmatter on the two newest blog posts](https://github.com/protocolguild/protocol-guild-site/pull/79) - 2026-08-26
+* [Commit] [Merge pull request #79 from protocolguild/fix/blog-post-frontmatter](https://github.com/protocolguild/protocol-guild-site/commit/a8c3fa7609ff1fd570c4e347da004de1f99a8da9) - 2026-08-26
+* [Commit] [Fix broken frontmatter on the two newest blog posts](https://github.com/protocolguild/protocol-guild-site/commit/eeac9abc8d1259acd5cb390732ebcabeeaf0529a) - 2026-08-26
+* [Commit] [Merge pull request #78 from XRS-001/q3-quarterly-audit](https://github.com/protocolguild/protocol-guild-site/commit/48829231ce91ae21664c43f0f5949f6731d10fce) - 2026-08-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Rename "working groups" to "teams" and adjust categories](https://github.com/protocolguild/documentation/pull/534#pullrequestreview-4984929831) - 2026-08-20
 ## Q4 2025

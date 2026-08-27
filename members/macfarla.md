@@ -214,6 +214,17 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Refactor `engine_exchangeCapabilities`,`engine_getClientVersionV1` and `engine_exchangeTransitionConfigurationV1`](https://github.com/besu-eth/besu/pull/11010#pullrequestreview-5017074943) - 2026-08-25
 * [Review] [Review on: Add EIP-8070 Engine API surface: engine_getBlobsV4 and custodyColumns](https://github.com/besu-eth/besu/pull/11141#pullrequestreview-5013989657) - 2026-08-25
 * [Commit] [Bump Plugin API baseline to 26.8.0 (#11088)](https://github.com/besu-eth/besu/commit/9005fe099f90ab89e0c3c54e8b60678d34271278) - 2026-08-25
+* [Review] [Review on: codeowners for evm](https://github.com/besu-eth/besu/pull/11159#pullrequestreview-5037807679) - 2026-08-27
+* [Review] [Review on: Enable NullAway for services tasks](https://github.com/besu-eth/besu/pull/10936#pullrequestreview-5037777987) - 2026-08-27
+* [Review] [Review on: Fix non-JSON output in state test JSON mode](https://github.com/besu-eth/besu/pull/11128#pullrequestreview-5037729597) - 2026-08-27
+* [Pull Request] [fix: testing_buildBlockV1 gas limit one-step decrement when no targetGasLimit supplied](https://github.com/besu-eth/besu/pull/11166) - 2026-08-26
+* [Review] [Review on: fix: testing_buildBlockV1 gas limit one-step decrement when no targetGasLimit supplied](https://github.com/besu-eth/besu/pull/11166#pullrequestreview-5036837284) - 2026-08-27
+* [Review] [Review on: Enable NullAway for Ethereum permissioning](https://github.com/besu-eth/besu/pull/10943#pullrequestreview-5036238656) - 2026-08-27
+* [Review] [Review on: fix: accept block hash in debug_getRawReceipts](https://github.com/besu-eth/besu/pull/11156#pullrequestreview-5035425593) - 2026-08-26
+* [Issue] [Flaky test BftSyncAcceptanceTest](https://github.com/besu-eth/besu/issues/11167) - 2026-08-27
+* [Commit] [fix: testing_buildBlockV1 gas limit one-step decrement when no targetGasLimit supplied (#11166)](https://github.com/besu-eth/besu/commit/7c0a0761ebd5c1a12013528db5eaefffd044bd11) - 2026-08-27
+* [Commit] [fix(acceptance-tests): use ephemeral ports for BFT nodes (#11020)](https://github.com/besu-eth/besu/commit/37b34eb5abcdd3fa5c14a3944c5b454296c4d73f) - 2026-08-27
+* [Commit] [fix: guard worldStateArchive.getWorldState() against unexpected exceptions in txpool code-delegation reconciliation (#11130)](https://github.com/besu-eth/besu/commit/5487b66d0830e5a12349e80a80c59178812a596c) - 2026-08-26
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

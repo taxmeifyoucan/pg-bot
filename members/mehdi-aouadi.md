@@ -91,6 +91,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [focil devnet 0 initial changes](https://github.com/Consensys/teku/pull/11139) - 2026-08-19
 * [Review] [Review on: focil devnet 0 initial changes](https://github.com/Consensys/teku/pull/11139#pullrequestreview-4971301101) - 2026-08-19
 * [Pull Request] [align inclusion list store with Heze spec](https://github.com/Consensys/teku/pull/11156) - 2026-08-20
+* [Pull Request] [add ILs peer sync](https://github.com/Consensys/teku/pull/11180) - 2026-08-26
+* [Pull Request] [Focil merge master](https://github.com/Consensys/teku/pull/11178) - 2026-08-26
+* [Pull Request] [9697 il satisfaction](https://github.com/Consensys/teku/pull/11177) - 2026-08-26
+* [Review] [Review on: align inclusion list store with Heze spec](https://github.com/Consensys/teku/pull/11156#pullrequestreview-5028559403) - 2026-08-26
 ## Q2 2026
 
 

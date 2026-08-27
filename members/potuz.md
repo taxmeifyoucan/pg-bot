@@ -82,6 +82,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Verify bid gas limit against the payload at bid.parent_block_hash](https://github.com/OffchainLabs/prysm/pull/17405#pullrequestreview-5019611259) - 2026-08-25
 * [Review] [Review on: reduce state diff cache memory usage](https://github.com/OffchainLabs/prysm/pull/17227#pullrequestreview-5018528087) - 2026-08-25
 * [Issue] [Local building failure fallsback only to p2p bids](https://github.com/OffchainLabs/prysm/issues/17407) - 2026-08-25
+* [Pull Request] [Pack Electra attestations by marginal proposer reward](https://github.com/OffchainLabs/prysm/pull/17416) - 2026-08-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

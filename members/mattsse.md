@@ -383,6 +383,28 @@ Team: Reth
 * [Review] [Review on: fix(fs-util): append .tmp suffix instead of replacing the extension](https://github.com/paradigmxyz/reth/pull/26781#pullrequestreview-5018758991) - 2026-08-25
 * [Review] [Review on: chore: make clippy happy](https://github.com/paradigmxyz/reth/pull/26797#pullrequestreview-5018651667) - 2026-08-25
 * [Review] [Review on: feat(engine): remove partial persistence feature flag](https://github.com/paradigmxyz/reth/pull/26800#pullrequestreview-5018087936) - 2026-08-25
+* [Review] [Review on: feat(downloader): add authenticated snap storage ranges](https://github.com/paradigmxyz/reth/pull/26814#pullrequestreview-5035668667) - 2026-08-26
+* [Pull Request] [feat(rpc): add recovered block lookup with cached BAL](https://github.com/paradigmxyz/reth/pull/26832) - 2026-08-27
+* [Pull Request] [fix(engine): separate malformed input from fatal errors](https://github.com/paradigmxyz/reth/pull/26829) - 2026-08-26
+* [Review] [Review on: fix(engine): separate malformed input from fatal errors](https://github.com/paradigmxyz/reth/pull/26829#pullrequestreview-5033446227) - 2026-08-26
+* [Pull Request] [fix(engine): validate BALs for downloaded blocks](https://github.com/paradigmxyz/reth/pull/26831) - 2026-08-26
+* [Review] [Review on: fix(engine): validate BALs for downloaded blocks](https://github.com/paradigmxyz/reth/pull/26831#pullrequestreview-5032881459) - 2026-08-26
+* [Pull Request] [feat(net): advertise eth/70 and eth/71 by default](https://github.com/paradigmxyz/reth/pull/26824) - 2026-08-26
+* [Pull Request] [feat(engine): fetch BALs for downloaded blocks](https://github.com/paradigmxyz/reth/pull/26823) - 2026-08-26
+* [Review] [Review on: feat(engine): fetch BALs for downloaded blocks](https://github.com/paradigmxyz/reth/pull/26823#pullrequestreview-5032322935) - 2026-08-26
+* [Review] [Review on: fix(txpool): reject zero transaction batch size](https://github.com/paradigmxyz/reth/pull/26806#pullrequestreview-5030522490) - 2026-08-26
+* [Review] [Review on: perf(trie): lazily copy encoded witness bytes](https://github.com/paradigmxyz/reth/pull/26809#pullrequestreview-5030609543) - 2026-08-26
+* [Pull Request] [fix(rpc): avoid blocking task deadlocks (audit mirror)](https://github.com/paradigmxyz/reth/pull/26821) - 2026-08-26
+* [Review] [Review on: refactor(trie): remove unused multi key tracking](https://github.com/paradigmxyz/reth/pull/26822#pullrequestreview-5030393012) - 2026-08-26
+* [Review] [Review on: refactor(trie): remove storage wipe markers](https://github.com/paradigmxyz/reth/pull/26811#pullrequestreview-5029288194) - 2026-08-26
+* [Review] [Review on: fix(exex): support sparse WAL notification file IDs on startup](https://github.com/paradigmxyz/reth/pull/26817#pullrequestreview-5030299149) - 2026-08-26
+* [Review] [Review on: perf(engine): decode payload transactions once](https://github.com/paradigmxyz/reth/pull/26818#pullrequestreview-5030205570) - 2026-08-26
+* [Pull Request] [fix(exex): support sparse WAL file IDs](https://github.com/paradigmxyz/reth/pull/26819) - 2026-08-26
+* [Pull Request] [fix(exex): decode legacy trie wipe markers](https://github.com/paradigmxyz/reth/pull/26820) - 2026-08-26
+* [Commit] [feat(rpc): add recovered block lookup with cached BAL (#26832)](https://github.com/paradigmxyz/reth/commit/23305f9d98e2424da527fdd8a46f762a18d9de3f) - 2026-08-27
+* [Commit] [fix(engine): validate BALs for downloaded blocks (#26831)](https://github.com/paradigmxyz/reth/commit/24f7cd94b06421d375b8cfe27b45a8a86d107b56) - 2026-08-26
+* [Commit] [feat(net): advertise eth/70 and eth/71 by default (#26824)](https://github.com/paradigmxyz/reth/commit/4523fb457e985682fc7037f138ef5ca17b275310) - 2026-08-26
+* [Commit] [fix(exex): support sparse WAL file IDs (#26819)](https://github.com/paradigmxyz/reth/commit/8a8163e718f0d525bd731e6f22f16e4b0de31408) - 2026-08-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -399,6 +421,13 @@ Team: Reth
 * [Pull Request] [fix(consume): map reth BAL slot-miss rejection](https://github.com/ethereum/execution-specs/pull/3392) - 2026-08-18
 * [Pull Request] [fix(consume): map Reth BAL gas limit rejection](https://github.com/ethereum/execution-specs/pull/3391) - 2026-08-18
 * [Commit] [fix(consume): map reth BAL slot-miss rejection (#3392)](https://github.com/ethereum/execution-specs/commit/ce0509a90bdf7bdff68a90ba00b4ce956144e450) - 2026-08-19
+
+[bluealloy/revm](https://github.com/bluealloy/revm)
+* [Pull Request] [feat(interpreter): add delegate scheme helper](https://github.com/bluealloy/revm/pull/3883) - 2026-08-26
+
+[paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
+* [Pull Request] [chore: fix Clippy warnings](https://github.com/paradigmxyz/revmc/pull/411) - 2026-08-26
+* [Commit] [chore: fix Clippy warnings (#411)](https://github.com/paradigmxyz/revmc/commit/58e57c76c3d0658305dfee3b67178e36b74a4cce) - 2026-08-26
 ## Q2 2026
 
 

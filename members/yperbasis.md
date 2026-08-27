@@ -571,6 +571,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [txnprovider/txpool: limit delegated sender transactions (#23294)](https://github.com/erigontech/erigon/commit/42e0ac7d755268dcfbfb0f9d8940daad77a30ce7) - 2026-08-25
 * [Commit] [rpc: separate overlay-backed and committed read paths (#22533)](https://github.com/erigontech/erigon/commit/425f6962106187965fc8a1220814df35224d0f79) - 2026-08-25
 * [Commit] [ChangeLog: port 3.6.0 release notes to main (#23554)](https://github.com/erigontech/erigon/commit/098aca43f36b6cea51577276f1ccf59c62a7f7c1) - 2026-08-25
+* [Review] [Review on: cl: implement Gloas devnet 8](https://github.com/erigontech/erigon/pull/23548#pullrequestreview-5029696155) - 2026-08-26
+* [Review] [Review on: docs(site): forward-port the minimal theme-aware footer from #23070](https://github.com/erigontech/erigon/pull/23601#pullrequestreview-5031581028) - 2026-08-26
+* [Review] [Review on: execution/vm: benchmark deep call stacks and deep calls holding memory](https://github.com/erigontech/erigon/pull/23528#pullrequestreview-5029455328) - 2026-08-26
+* [Review] [Review on: rpc/jsonrpc: return hexutil.U256 from the eth_/erigon_ quantity getters](https://github.com/erigontech/erigon/pull/23216#pullrequestreview-5029720772) - 2026-08-26
+* [Pull Request] [rpc: validate log query limit when creating filters](https://github.com/erigontech/erigon/pull/23598) - 2026-08-26
+* [Review] [Review on: cl/sentinel: reject invalid ping and status requests](https://github.com/erigontech/erigon/pull/23579#pullrequestreview-5032356749) - 2026-08-26
+* [Commit] [docs(site): forward-port minimal theme-aware footer from #23070 (#23475)](https://github.com/erigontech/erigon/commit/776a380b1a64486f7839bd9ba7e6a291667c89c8) - 2026-08-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

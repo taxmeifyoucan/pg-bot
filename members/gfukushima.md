@@ -86,6 +86,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Review] [Review on: Set bid fields upgrade gloas + v1.7.0-alpha.14 fixes](https://github.com/Consensys/teku/pull/11152#pullrequestreview-4979711341) - 2026-08-20
 * [Pull Request] [Gossip new functions gloas](https://github.com/Consensys/teku/pull/11168) - 2026-08-25
 * [Review] [Review on: Update Renovatebot GHA Updates](https://github.com/Consensys/teku/pull/11163#pullrequestreview-5014747428) - 2026-08-25
+* [Pull Request] [refactor gossip test executor](https://github.com/Consensys/teku/pull/11175) - 2026-08-27
+* [Commit] [refactor some setup routine on gossip test executor and add some imporvements to gossip validator help (#11175)](https://github.com/Consensys/teku/commit/f5e1ba7181d61b3d417bd034dac37e049d2cafbc) - 2026-08-27
 ## Q2 2026
 
 

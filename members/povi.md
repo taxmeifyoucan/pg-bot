@@ -63,6 +63,7 @@ Team: Grandine
 * [Review] [Review on: Add gas limit schedule config](https://github.com/grandinetech/grandine/pull/854#pullrequestreview-4991272219) - 2026-08-21
 * [Issue] [Fix glamsterdam-devnet-8 branch build](https://github.com/grandinetech/grandine/issues/862) - 2026-08-21
 * [Issue] [Investigate Glamsterdam devnet 8 missing blocks](https://github.com/grandinetech/grandine/issues/861) - 2026-08-21
+* [Review] [Review on: Key attestation packer candidates by committee, not AttestationData alone](https://github.com/grandinetech/grandine/pull/865#pullrequestreview-5028297438) - 2026-08-26
 ## Q2 2026
 
 

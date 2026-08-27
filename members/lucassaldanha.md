@@ -21,6 +21,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [dropLowPriority() doesn't reclaim state control parts, and queued subscriptions grow unbounded](https://github.com/libp2p/jvm-libp2p/issues/519) - 2026-08-13
 * [Commit] [Bound the per-peer pending outbound RPC parts queue by default (#518)](https://github.com/libp2p/jvm-libp2p/commit/e3c338c04aa8ab04946447175d84c04ce7f2cfef) - 2026-08-13
 * [Review] [Review on: Release 1.3.6](https://github.com/libp2p/jvm-libp2p/pull/520#pullrequestreview-4968347271) - 2026-08-19
+* [Pull Request] [Bound control-plane size of inbound and outbound pubsub RPCs](https://github.com/libp2p/jvm-libp2p/pull/521) - 2026-08-26
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28

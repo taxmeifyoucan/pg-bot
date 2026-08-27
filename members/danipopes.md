@@ -51,6 +51,7 @@ Team: Reth
 * [Review] [Review on: chore: bump revm to 42.0.0](https://github.com/paradigmxyz/revmc/pull/406#pullrequestreview-4763820545) - 2026-07-23
 
 * [Review] [Review on: chore: bump alloy-evm to 0.38.0, drop git patch](https://github.com/paradigmxyz/revmc/pull/407#pullrequestreview-4827798700) - 2026-07-31
+* [Review] [Review on: chore: fix Clippy warnings](https://github.com/paradigmxyz/revmc/pull/411#pullrequestreview-5034029011) - 2026-08-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [feat: add async database fiber support (#3709)](https://github.com/bluealloy/revm/commit/ebdffc80d63ed7d58fcf240d578fcd19b71b0196) - 2026-07-24
 ## Q2 2026

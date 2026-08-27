@@ -77,6 +77,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Abort JSON-RPC stream backpressure wait when the peer goes away](https://github.com/besu-eth/besu/pull/11146) - 2026-08-25
 * [Pull Request] [Glamsterdam: fixed payload validation edge cases](https://github.com/besu-eth/besu/pull/11143) - 2026-08-25
 * [Commit] [Amsterdam devnet-8: EIP-2780/8038 gas revisions and fixtures v8.1.1 (#11140)](https://github.com/besu-eth/besu/commit/3d2c62d20603550484069439234d4d439acd1e07) - 2026-08-25
+* [Review] [Review on: Glamsterdam: fixed payload validation edge cases](https://github.com/besu-eth/besu/pull/11143#pullrequestreview-5028877282) - 2026-08-26
+* [Review] [Review on: explore(parallel): disable whole-block serial fallback for BAL](https://github.com/besu-eth/besu/pull/11150#pullrequestreview-5028029434) - 2026-08-26
+* [Commit] [Glamsterdam: fixed payload validation edge cases (#11143)](https://github.com/besu-eth/besu/commit/fdf1247c6d6431f0325a123ada37086ded17ce7e) - 2026-08-26
+* [Commit] [referencetests: engine fixture spec and devnet transition-fork schedules (#11029)](https://github.com/besu-eth/besu/commit/82464453c2100afe2f53b50521fa5e9dca723559) - 2026-08-26
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

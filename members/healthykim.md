@@ -43,6 +43,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: core/rawdb: fix head truncation below a diverged tail group](https://github.com/ethereum/go-ethereum/pull/35551#pullrequestreview-5007229912) - 2026-08-24
 * [Review] [Review on: core/txpool/blobpool: lock lookup when logging corrupt tx blobs](https://github.com/ethereum/go-ethereum/pull/35429#pullrequestreview-5020237728) - 2026-08-25
 * [Review] [Review on: core, eth: improve the blob fetcher](https://github.com/ethereum/go-ethereum/pull/35572#pullrequestreview-5017454810) - 2026-08-25
+* [Pull Request] [eth/protocols/eth, eth/downloader: reject empty partial receipt responses](https://github.com/ethereum/go-ethereum/pull/35593) - 2026-08-26
+* [Commit] [eth/protocols/eth, eth/downloader: reject empty partial receipt responses (#35593)](https://github.com/ethereum/go-ethereum/commit/596096afebd7004d514416a4dad426bfd5626159) - 2026-08-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4816824387) - 2026-07-30
 * [Review] [Review on: Update EIP-8070: Clarify custodyColumns `null` behavior](https://github.com/ethereum/EIPs/pull/12144#pullrequestreview-4916982296) - 2026-08-12

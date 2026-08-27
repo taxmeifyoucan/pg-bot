@@ -43,6 +43,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: ci: don't cancel in-progress sync-master-validation runs](https://github.com/NethermindEth/nethermind/pull/12817#pullrequestreview-4937279117) - 2026-08-14
 * [Review] [Review on: Reject deposit logs with noncanonical ABI offsets](https://github.com/NethermindEth/nethermind/pull/12895#pullrequestreview-4975004367) - 2026-08-19
 * [Review] [Review on: ci: wait for the publish-docker run we dispatched, not any concurrent one](https://github.com/NethermindEth/nethermind/pull/12907#pullrequestreview-4981378510) - 2026-08-20
+* [Issue] [Graceful shutdown always aborts the final flat flush — OperationCanceledException in FlushCache, exit code 1 (feature/flat-history-window)](https://github.com/NethermindEth/nethermind/issues/12991) - 2026-08-26
+* [Commit] [Improve comment quality and flag comment slop during review (#12781)](https://github.com/NethermindEth/nethermind/commit/8d9060417c671a8a3aa68876f1add25d81b8c87d) - 2026-08-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

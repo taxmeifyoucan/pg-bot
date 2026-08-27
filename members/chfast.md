@@ -207,6 +207,11 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [Try fancy compiler flags](https://github.com/ipsilon/evmone/issues/1674) - 2026-08-24
 * [Pull Request] [test: Move hex0x() to utils.hpp](https://github.com/ipsilon/evmone/pull/1675) - 2026-08-25
 * [Commit] [test: Move hex0x() to utils.hpp (#1675)](https://github.com/ipsilon/evmone/commit/203d093791faaf7a0cc5770acdb15af22bf2f695) - 2026-08-25
+* [Pull Request] [test: Move the fixture runners into evmone::testutils](https://github.com/ipsilon/evmone/pull/1676) - 2026-08-26
+* [Pull Request] [ci: Cache clang-tidy results with ctcache](https://github.com/ipsilon/evmone/pull/1677) - 2026-08-26
+* [Pull Request] [test: Cover the fixture runners' failure paths](https://github.com/ipsilon/evmone/pull/1678) - 2026-08-26
+* [Commit] [ci: Cache clang-tidy results with ctcache (#1677)](https://github.com/ipsilon/evmone/commit/6c20562b85688617e011f41a93d4b2c82882de02) - 2026-08-26
+* [Commit] [test: Replace gtest assertions in the fixture runners (#1673)](https://github.com/ipsilon/evmone/commit/471b3e7d566ac04667c1a85e2e20d77236e1254c) - 2026-08-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -260,6 +265,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): EIP-7702 - keep authority storage when clearing a delegation (#3421)](https://github.com/ethereum/execution-specs/commit/7ae05827b0fc919377e90a5a1a98b99db9d0bef5) - 2026-08-24
 * [Pull Request] [feat(test-benchmark): strengthen and consolidate TSTORE benchmark](https://github.com/ethereum/execution-specs/pull/3441) - 2026-08-25
 * [Pull Request] [refactor(test-benchmark): tidy SSTORE storage benchmark](https://github.com/ethereum/execution-specs/pull/3442) - 2026-08-25
+* [Commit] [refactor(test-benchmark): tidy SSTORE storage benchmark (#3442)](https://github.com/ethereum/execution-specs/commit/20f7f6271a720091e5fea0a82e7bc802866ae36a) - 2026-08-26
+* [Commit] [feat(tests): EIP-8037 - consume spilled state gas along a halt chain (#3423)](https://github.com/ethereum/execution-specs/commit/6711bfd3f661a54eda1bde89757228f986b828cc) - 2026-08-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

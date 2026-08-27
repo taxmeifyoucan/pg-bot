@@ -220,6 +220,21 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(jsonrpc): return gas-minimal empty access list under EIP-7981](https://github.com/NethermindEth/nethermind/pull/12970#pullrequestreview-5019242431) - 2026-08-25
 * [Review] [Review on: Release native list buffer when construction fails](https://github.com/NethermindEth/nethermind/pull/12975#pullrequestreview-5016569938) - 2026-08-25
 * [Commit] [Release native list buffer when construction fails (#12975)](https://github.com/NethermindEth/nethermind/commit/ba3f747ae720b13209959000121693287cea6d48) - 2026-08-25
+* [Pull Request] [Make stale blob replacement test deterministic](https://github.com/NethermindEth/nethermind/pull/13006) - 2026-08-27
+* [Review] [Review on: ci(hive): drop testing_buildBlockV1 build-block tests from known failures](https://github.com/NethermindEth/nethermind/pull/13005#pullrequestreview-5037625542) - 2026-08-27
+* [Pull Request] [Fix flaky NewPayloadV5 BAL golden-hash test](https://github.com/NethermindEth/nethermind/pull/13004) - 2026-08-27
+* [Review] [Review on: Fix flaky NewPayloadV5 BAL golden-hash test](https://github.com/NethermindEth/nethermind/pull/13004#pullrequestreview-5037537419) - 2026-08-27
+* [Pull Request] [Fix simulation head reset during deferred block persistence](https://github.com/NethermindEth/nethermind/pull/13003) - 2026-08-27
+* [Review] [Review on: Fix simulation head reset during deferred block persistence](https://github.com/NethermindEth/nethermind/pull/13003#pullrequestreview-5037417546) - 2026-08-27
+* [Review] [Review on: Use a conservative block-body transaction count limit](https://github.com/NethermindEth/nethermind/pull/12990#pullrequestreview-5033689999) - 2026-08-26
+* [Pull Request] [perf: streamline hot-path loops and collection updates](https://github.com/NethermindEth/nethermind/pull/13000) - 2026-08-26
+* [Review] [Review on: perf: streamline hot-path loops and collection updates](https://github.com/NethermindEth/nethermind/pull/13000#pullrequestreview-5035724158) - 2026-08-26
+* [Review] [Review on: build(zisk): bump zisk toolchain image and ZiskOS runtime](https://github.com/NethermindEth/nethermind/pull/13002#pullrequestreview-5036903902) - 2026-08-27
+* [Pull Request] [perf(state): unswitch tracing branches in commit loops](https://github.com/NethermindEth/nethermind/pull/12998) - 2026-08-26
+* [Commit] [perf: streamline hot-path loops and collection updates (#13000)](https://github.com/NethermindEth/nethermind/commit/01f5f249910239511fefe3081b0329a3aeda1375) - 2026-08-27
+* [Commit] [perf(state): unswitch tracing branches in commit loops (#12998)](https://github.com/NethermindEth/nethermind/commit/1722f3f3b4f121f7b691178da15d2ec5336d68e1) - 2026-08-26
+* [Commit] [perf(db): single-call RocksDB point reads via rocksdb_get_into_buffer (#12986)](https://github.com/NethermindEth/nethermind/commit/627f27c1c7739ba02c6595c0d83ff9d9ad3516a0) - 2026-08-26
+* [Commit] [Kute: replay captured JSON-RPC traces across a concurrency sweep (#12985)](https://github.com/NethermindEth/nethermind/commit/a8d2e58ade940cbdc09b10958240cb5fc7a2dc6d) - 2026-08-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

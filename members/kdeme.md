@@ -98,6 +98,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [engine_api: Return null latestValidHash on early newPayload rejections (#4651)](https://github.com/status-im/nimbus-eth1/commit/778323e00df1ff9adb35ca78c69668e466243576) - 2026-08-18
 * [Pull Request] [stateless: split JSON witness tests into a separate test module](https://github.com/status-im/nimbus-eth1/pull/4684) - 2026-08-25
 * [Commit] [stateless: split JSON witness tests into a separate test module (#4684)](https://github.com/status-im/nimbus-eth1/commit/b6a7bbc12c4aa32335efbeb47a3a5165e5a949db) - 2026-08-25
+* [Pull Request] [aristo: fix wrong state root when building with --threads:off](https://github.com/status-im/nimbus-eth1/pull/4690) - 2026-08-26
+* [Pull Request] [stateless: add zkVM I/O interface binding and guest entry point](https://github.com/status-im/nimbus-eth1/pull/4689) - 2026-08-26
+* [Commit] [aristo: fix wrong state root when building with --threads:off (#4690)](https://github.com/status-im/nimbus-eth1/commit/745f6483d6358afdd1e51e532c0933d50de1e132) - 2026-08-26
+* [Commit] [stateless: add zkVM I/O interface binding and guest entry point (#4689)](https://github.com/status-im/nimbus-eth1/commit/c5524fc81cf2400fdc227a2f9abeb08eb775ab44) - 2026-08-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

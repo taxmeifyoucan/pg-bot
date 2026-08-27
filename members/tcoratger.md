@@ -121,6 +121,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10
 * [Commit] [Add hash-chain RANDAO (EIP-8321) (#5522)](https://github.com/ethereum/consensus-specs/commit/81ce8fd6f88d1fd04299010f58266dd082110e9c) - 2026-08-18
+* [Review] [Review on: Replace remerkleable with eth-ssz-specs](https://github.com/ethereum/consensus-specs/pull/5520#pullrequestreview-5033278313) - 2026-08-26
 ## Q2 2026
 
 

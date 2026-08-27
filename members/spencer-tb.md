@@ -241,6 +241,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): add genesis block header field test for BAL hash](https://github.com/ethereum/execution-specs/pull/3416#pullrequestreview-5006646517) - 2026-08-24
 * [Review] [Review on: feat(tests): expand create collision matrix and add balance-only cases](https://github.com/ethereum/execution-specs/pull/3425#pullrequestreview-5018291059) - 2026-08-25
 * [Commit] [chore(tests): remove EIP-7610 create collision tests (#3417)](https://github.com/ethereum/execution-specs/commit/2ce2191562f76ec6e64a82f82165d821e1c781fc) - 2026-08-25
+* [Review] [Review on: feat(test-benchmark): more worst case scenario](https://github.com/ethereum/execution-specs/pull/3349#pullrequestreview-5030122984) - 2026-08-26
+* [Review] [Review on: refactor(test-benchmark): tidy SSTORE storage benchmark](https://github.com/ethereum/execution-specs/pull/3442#pullrequestreview-5029133609) - 2026-08-26
+* [Review] [Review on: refactor(test-benchmark): migrate benchmark suite to devnet-8](https://github.com/ethereum/execution-specs/pull/3411#pullrequestreview-5029974376) - 2026-08-26
+* [Review] [Review on: chore(tests): add genesis block header field BAL checklist](https://github.com/ethereum/execution-specs/pull/3416#pullrequestreview-5029489458) - 2026-08-26
+* [Review] [Review on: fix(evm-tools): accept empty hex transaction values](https://github.com/ethereum/execution-specs/pull/3424#pullrequestreview-5029158131) - 2026-08-26
+* [Review] [Review on: feat(ci): collect execute and consume tests on every PR](https://github.com/ethereum/execution-specs/pull/3451#pullrequestreview-5029126460) - 2026-08-26
+* [Review] [Review on: refactor(tests): EIP-8037 test gas calculation logic and post state verification](https://github.com/ethereum/execution-specs/pull/3383#pullrequestreview-5028924078) - 2026-08-26
+* [Review] [Review on: fix(test-execute): ignore tests/spec_tools during collection](https://github.com/ethereum/execution-specs/pull/3450#pullrequestreview-5028443939) - 2026-08-26
+* [Issue] [Test Release Tracker: `glamsterdam-devnet@v8.1.2`](https://github.com/ethereum/execution-specs/issues/3452) - 2026-08-26
+* [Commit] [feat(tests): EIP-8037 - pin gas on the unasserted child-halt spill tests (#3427)](https://github.com/ethereum/execution-specs/commit/e73282ee2911cc2f3d296324b1d3cb577c4a094e) - 2026-08-26
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

@@ -216,6 +216,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf: Iterators pool for archive index (#12813)](https://github.com/NethermindEth/nethermind/commit/2d1f2fc0ed7fdd6707dc0cb5d3a8e1a33b2d3e6c) - 2026-08-20
 * [Review] [Review on: fix(flat): isolate the trie warmer negative cache (InvalidStateRoot on Flat live-head sync)](https://github.com/NethermindEth/nethermind/pull/12924#pullrequestreview-4993057704) - 2026-08-21
 * [Review] [Review on: Add unit tests for IpcSocketMessageStream framing edge cases](https://github.com/NethermindEth/nethermind/pull/12898#pullrequestreview-4994703965) - 2026-08-21
+* [Review] [Review on: Use a conservative block-body transaction count limit](https://github.com/NethermindEth/nethermind/pull/12990#pullrequestreview-5031621471) - 2026-08-26
+* [Review] [Review on: perf: streamline hot-path loops and collection updates](https://github.com/NethermindEth/nethermind/pull/13000#pullrequestreview-5035799994) - 2026-08-26
+* [Review] [Review on: Support ENR bootnodes in discv4](https://github.com/NethermindEth/nethermind/pull/12992#pullrequestreview-5035808785) - 2026-08-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

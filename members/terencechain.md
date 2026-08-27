@@ -209,6 +209,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Bound the payload envelope data column wait in envelope recovery paths](https://github.com/OffchainLabs/prysm/pull/17403#pullrequestreview-5010992271) - 2026-08-24
 * [Commit] [Bound the payload envelope data column wait in envelope recovery paths (#17403)](https://github.com/OffchainLabs/prysm/commit/49f7a245129231413252afe731b642197d8a784a) - 2026-08-24
 * [Review] [Review on: spectest alpha 12 compliance (spec pin bump and assorted fix commits)](https://github.com/OffchainLabs/prysm/pull/17310#pullrequestreview-5018970586) - 2026-08-25
+* [Review] [Review on: hooking up validator client to builder apis for gloas ](https://github.com/OffchainLabs/prysm/pull/17397#pullrequestreview-5036860994) - 2026-08-27
+* [Review] [Review on: Apply parent execution payload before computing Gloas block rewards](https://github.com/OffchainLabs/prysm/pull/17415#pullrequestreview-5031058442) - 2026-08-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

@@ -150,6 +150,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Refactor `engine_exchangeCapabilities`,`engine_getClientVersionV1` and `engine_exchangeTransitionConfigurationV1` (#11010)](https://github.com/besu-eth/besu/commit/9e2d4d131a5a4ff5b30f7a25ee67b838f902faee) - 2026-08-25
 * [Commit] [Add EIP-8070 Engine API surface: engine_getBlobsV4 and custodyColumns (#10922) (#11141)](https://github.com/besu-eth/besu/commit/36f9b4f321ac61865cc2b78848b37a470dcd33cd) - 2026-08-25
 * [Commit] [Clamp admin_generateLogBloomCache block bounds to the chain head (#11135)](https://github.com/besu-eth/besu/commit/cfe0499e92483eb364797e63279bec0ab0a2e0c9) - 2026-08-25
+* [Review] [Review on: fix: guard worldStateArchive.getWorldState() against unexpected exceptions in txpool code-delegation reconciliation](https://github.com/besu-eth/besu/pull/11130#pullrequestreview-5030819978) - 2026-08-26
+* [Pull Request] [Focil devnet 0](https://github.com/besu-eth/besu/pull/11165) - 2026-08-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

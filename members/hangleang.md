@@ -60,6 +60,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Add gas limit schedule config](https://github.com/grandinetech/grandine/pull/854#pullrequestreview-4991573341) - 2026-08-21
 * [Issue] [Builder deposit cache](https://github.com/grandinetech/grandine/issues/860) - 2026-08-21
 * [Pull Request] [Delay data column sidecars until block imported](https://github.com/grandinetech/grandine/pull/863) - 2026-08-22
+* [Review] [Review on: Validate bid gas limit against the payload at bid.parent_block_hash](https://github.com/grandinetech/grandine/pull/864#pullrequestreview-5028883331) - 2026-08-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

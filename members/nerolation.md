@@ -78,6 +78,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [core: enforce block gas limit in parallel block execution](https://github.com/ethereum/go-ethereum/pull/35575) - 2026-08-24
 
+* [Commit] [core: enforce block gas limit in parallel block execution (#35575)](https://github.com/ethereum/go-ethereum/commit/e9e35a42f8213235da1fde4f9ac8f3e9ff666b87) - 2026-08-26
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix CPU exhaustion from speculative execution after block rejection](https://github.com/besu-eth/besu/pull/11139) - 2026-08-24
 ## Q2 2026

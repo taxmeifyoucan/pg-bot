@@ -102,6 +102,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: BatchSync Improvements](https://github.com/Consensys/teku/pull/11158#pullrequestreview-5016371966) - 2026-08-25
 * [Review] [Review on: Enable aircompressor-v3 by default for gossip and RPC snappy encoding](https://github.com/Consensys/teku/pull/11167#pullrequestreview-5016491004) - 2026-08-25
 * [Commit] [Snappy benchmarks + introduce `aircompressor` (#10861)](https://github.com/Consensys/teku/commit/11094588e28e681cb844c9ea36cfc0a397c6bb93) - 2026-08-25
+* [Review] [Review on: Refactor `ExecutionPayloadBidManager`](https://github.com/Consensys/teku/pull/11179#pullrequestreview-5033853127) - 2026-08-26
+* [Review] [Review on: Other sync improvements](https://github.com/Consensys/teku/pull/11162#pullrequestreview-5029133362) - 2026-08-26
+* [Commit] [Pruning improvements + long pruning warning (#11171)](https://github.com/Consensys/teku/commit/9638d1b62e24ac77ef23ae2fe976bca6c2baccd2) - 2026-08-26
+* [Commit] [Last parts of FCR (#11157)](https://github.com/Consensys/teku/commit/3de866b1c2ba7e4c7ff53a4413d0c4361f984bfe) - 2026-08-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

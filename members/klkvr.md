@@ -57,6 +57,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat(payload): finalize pending build on resolve](https://github.com/paradigmxyz/reth/pull/26759#pullrequestreview-4980565463) - 2026-08-20
 * [Pull Request] [feat(download): expose prepared snapshot context](https://github.com/paradigmxyz/reth/pull/26777) - 2026-08-21
 * [Commit] [feat(download): expose prepared snapshot context (#26777)](https://github.com/paradigmxyz/reth/commit/d892c93b3abf15b7573ca600124024258cf888ec) - 2026-08-21
+* [Review] [Review on: fix(engine): validate BALs for downloaded blocks](https://github.com/paradigmxyz/reth/pull/26831#pullrequestreview-5032940140) - 2026-08-26
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

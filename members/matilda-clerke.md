@@ -54,6 +54,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Commit] [Remove getconstants from eth2networkconfig (#11048)](https://github.com/Consensys/teku/commit/5e65162264f6a2ba0fdf90673a14d30f0b8f771e) - 2026-08-18
 * [Review] [Review on: Include compRefTests](https://github.com/Consensys/teku/pull/11134#pullrequestreview-4968014595) - 2026-08-19
 * [Review] [Review on: Include compRefTests](https://github.com/Consensys/teku/pull/11134#pullrequestreview-5013747791) - 2026-08-25
+* [Review] [Review on: Include compRefTests](https://github.com/Consensys/teku/pull/11134#pullrequestreview-5035686073) - 2026-08-26
 ## Q2 2026
 
 

@@ -177,6 +177,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [slashing protection up to date for keys added mid run](https://github.com/OffchainLabs/prysm/pull/17411) - 2026-08-25
 * [Review] [Review on: tentative fix to allow export of antislashing database for dynamic keys](https://github.com/OffchainLabs/prysm/pull/17409#pullrequestreview-5022214304) - 2026-08-25
 * [Commit] [stateless by default on multinode (#17390)](https://github.com/OffchainLabs/prysm/commit/255ff0688d61e22a5f0b35ffd906d571c3047949) - 2026-08-25
+* [Review] [Review on: builder beacon apis for gloas](https://github.com/OffchainLabs/prysm/pull/17392#pullrequestreview-5032890052) - 2026-08-26
+* [Review] [Review on: fixing builder preference push frequency](https://github.com/OffchainLabs/prysm/pull/17386#pullrequestreview-5031466084) - 2026-08-26
 ## Q2 2026
 
 

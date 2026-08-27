@@ -140,6 +140,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: keep event stream alive if an event can not be serialized](https://github.com/ChainSafe/lodestar/pull/9872#pullrequestreview-5010204434) - 2026-08-24
 * [Review] [Review on: docs(fork-choice): document checkpoint return values](https://github.com/ChainSafe/lodestar/pull/9908#pullrequestreview-5009990976) - 2026-08-24
 * [Review] [Review on: ci: cache perf-state interop pubkeys](https://github.com/ChainSafe/lodestar/pull/9906#pullrequestreview-5009317617) - 2026-08-24
+* [Review] [Review on: feat: implement EIP-8333 boundary checkpoint roots](https://github.com/ChainSafe/lodestar/pull/9698#pullrequestreview-5032606718) - 2026-08-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -241,6 +242,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(ssz): clean up partially decoded blocks](https://github.com/ChainSafe/lodestar-z/pull/596#pullrequestreview-5019617921) - 2026-08-25
 * [Review] [Review on: fix(ssz): free variable list offsets on decode errors](https://github.com/ChainSafe/lodestar-z/pull/595#pullrequestreview-5019636660) - 2026-08-25
 * [Review] [Review on: fix(ssz): reclaim partial byte and bit vector trees](https://github.com/ChainSafe/lodestar-z/pull/594#pullrequestreview-5019627495) - 2026-08-25
+* [Review] [Review on: feat(shuffle): add PTC sampling](https://github.com/ChainSafe/lodestar-z/pull/563#pullrequestreview-5034141399) - 2026-08-26
+* [Review] [Review on: fix(ssz): instantiate variable vector tree views](https://github.com/ChainSafe/lodestar-z/pull/600#pullrequestreview-5035332454) - 2026-08-26
+* [Review] [Review on: fix(ssz): reject invalid list growth lengths](https://github.com/ChainSafe/lodestar-z/pull/604#pullrequestreview-5034121438) - 2026-08-26
+* [Review] [Review on: fix(ssz): hash boolean lists as basic lists](https://github.com/ChainSafe/lodestar-z/pull/602#pullrequestreview-5033565945) - 2026-08-26
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

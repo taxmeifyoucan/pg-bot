@@ -28,6 +28,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Syncing v3p7 (response check utilities).](https://github.com/status-im/nimbus-eth2/pull/8909#pullrequestreview-4985617378) - 2026-08-20
 * [Review] [Review on: Syncing v3p7 (response check utilities).](https://github.com/status-im/nimbus-eth2/pull/8909#pullrequestreview-4993697760) - 2026-08-21
 * [Review] [Review on: Refresh VC duties when 'head' event reports new dependent roots](https://github.com/status-im/nimbus-eth2/pull/8877#pullrequestreview-5004766910) - 2026-08-24
+* [Review] [Review on: Refresh VC duties when 'head' event reports new dependent roots](https://github.com/status-im/nimbus-eth2/pull/8877#pullrequestreview-5030093765) - 2026-08-26
+* [Review] [Review on: Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946#pullrequestreview-5030995128) - 2026-08-26
 ## Q2 2026
 
 

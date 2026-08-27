@@ -94,6 +94,11 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/antiquary: back off retirement steps that keep failing](https://github.com/erigontech/erigon/pull/23252#pullrequestreview-4969490963) - 2026-08-19
 * [Commit] [cl: fix Gloas checkpoint sync with external execution clients (#22683)](https://github.com/erigontech/erigon/commit/15b396b8969334546090e7542423778ee50fd186) - 2026-08-23
 * [Pull Request] [cl: implement Gloas devnet 8](https://github.com/erigontech/erigon/pull/23548) - 2026-08-25
+* [Review] [Review on: cl: implement Gloas devnet 8](https://github.com/erigontech/erigon/pull/23548#pullrequestreview-5031836646) - 2026-08-26
+* [Pull Request] [execution/commitment: stabilize arena invariant test](https://github.com/erigontech/erigon/pull/23613) - 2026-08-26
+* [Pull Request] [cl/sentinel: reject invalid ping and status requests](https://github.com/erigontech/erigon/pull/23579) - 2026-08-26
+* [Review] [Review on: cl/sentinel: reject invalid ping and status requests](https://github.com/erigontech/erigon/pull/23579#pullrequestreview-5032016129) - 2026-08-26
+* [Commit] [execution/commitment: stabilize arena invariant test (#23613)](https://github.com/erigontech/erigon/commit/24c627d6a051785bcad4e7c8f558028df79a7f10) - 2026-08-27
 ## Q2 2026
 
 

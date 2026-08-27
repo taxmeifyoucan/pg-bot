@@ -1088,6 +1088,38 @@ Team: Erigon
 * [Commit] [gitignore: ignore *.pprof dumps (#23558)](https://github.com/erigontech/erigon/commit/0d3680545863d138fc2e8abb6d1d1c2d5e1326e6) - 2026-08-25
 * [Commit] [`--prune.distance`: to print user-friendly advise in corner-cases (#23221)](https://github.com/erigontech/erigon/commit/f4901a90e4bbc6e2ebcbdaeb435663995376b641) - 2026-08-25
 * [Commit] [rpc/jsonstream: bound how much of a response is held in memory (#23496)](https://github.com/erigontech/erigon/commit/073dcdc8e1dab114f91a75a6609bd3dd9528225f) - 2026-08-25
+* [Pull Request] [db/etl: move entry index inside chunk, so Put never re-alloc](https://github.com/erigontech/erigon/pull/23599) - 2026-08-26
+* [Review] [Review on: db/etl: move entry index inside chunk, so Put never re-alloc](https://github.com/erigontech/erigon/pull/23599#pullrequestreview-5036829379) - 2026-08-27
+* [Pull Request] [db/etl: stop the bufio read benchmarks allocating per field](https://github.com/erigontech/erigon/pull/23618) - 2026-08-27
+* [Pull Request] [db/etl: give both merges the prefix, the sift and the in-place advance](https://github.com/erigontech/erigon/pull/23616) - 2026-08-27
+* [Pull Request] [execution/commitment: let trie warmup borrow branch bytes instead of copying them](https://github.com/erigontech/erigon/pull/23585) - 2026-08-26
+* [Review] [Review on: db/downloader: bound kept-snapshot seeding and make abandonment observable](https://github.com/erigontech/erigon/pull/23472#pullrequestreview-5036723099) - 2026-08-27
+* [Review] [Review on: db/snapshotsync: don't return the wrong block when a frozen-height hash lookup misses](https://github.com/erigontech/erigon/pull/23590#pullrequestreview-5029614277) - 2026-08-26
+* [Review] [Review on: execution/commitment: commitment metrics as counters, round duration and branch IO bytes](https://github.com/erigontech/erigon/pull/23589#pullrequestreview-5037445737) - 2026-08-27
+* [Review] [Review on: cmd/integration: stage_exec --limit flag, early-stop guard, and whole-run profiling](https://github.com/erigontech/erigon/pull/23544#pullrequestreview-5028772810) - 2026-08-26
+* [Pull Request] [commitment: catch cases when parallel commitment not enabled](https://github.com/erigontech/erigon/pull/23596) - 2026-08-26
+* [Pull Request] [rpc: retry the setup dial in httpTestClient](https://github.com/erigontech/erigon/pull/23580) - 2026-08-26
+* [Review] [Review on: rpc: retry the setup dial in httpTestClient](https://github.com/erigontech/erigon/pull/23580#pullrequestreview-5028223505) - 2026-08-26
+* [Review] [Review on: db/integrity: report a truncated commitment file as referencing, and count cache-skipped files](https://github.com/erigontech/erigon/pull/23614#pullrequestreview-5036893344) - 2026-08-27
+* [Review] [Review on: execution/vm: benchmark deep call stacks and deep calls holding memory](https://github.com/erigontech/erigon/pull/23528#pullrequestreview-5029768046) - 2026-08-26
+* [Pull Request] [db: HistoryDump re-use zstd buf](https://github.com/erigontech/erigon/pull/23452) - 2026-08-27
+* [Review] [Review on: execution/stagedsync: COMMITMENT_AFTER_EXEC flag to serialize commitment behind execution](https://github.com/erigontech/erigon/pull/23515#pullrequestreview-5028173383) - 2026-08-26
+* [Pull Request] [execution/state: skip the self-destruct storage walk when the address has no account](https://github.com/erigontech/erigon/pull/23604) - 2026-08-26
+* [Review] [Review on: [r3.6] cl/beacon: report a syncing node as 503, not 500](https://github.com/erigontech/erigon/pull/23608#pullrequestreview-5036897659) - 2026-08-27
+* [Pull Request] [execution/stagedsync, execution/state: reclaim superseded merge write sets per block](https://github.com/erigontech/erigon/pull/23348) - 2026-08-26
+* [Commit] [vm: drop redundant return-data copy in CALL/CALLCODE/DELEGATECALL (#23479)](https://github.com/erigontech/erigon/commit/42e3fd29166c6d779f8a144cd95e37c42bbba2ba) - 2026-08-27
+* [Commit] [cmd/integration: stage_exec --limit flag, early-stop guard, and whole-run profiling (#23544)](https://github.com/erigontech/erigon/commit/3c1c76adca4cdd3bb3eb21d0b39c20bc6949db1c) - 2026-08-27
+* [Commit] [rpc: retry the setup dial in httpTestClient (#23580)](https://github.com/erigontech/erigon/commit/deceabd982ac3ab2a1cb8a457be082cf46cca95e) - 2026-08-27
+* [Commit] [db: HistoryDump re-use zstd buf (#23452)](https://github.com/erigontech/erigon/commit/656c93b4189499ae3f37ef4aad13bd9641456747) - 2026-08-27
+* [Commit] [execution/vm: benchmark deep call stacks and deep calls holding memory (#23528)](https://github.com/erigontech/erigon/commit/1b5c8a0dc5911fef390d70939fe89e753e4d4069) - 2026-08-27
+* [Commit] [execution/stagedsync, execution/state: reclaim superseded merge write sets per block (#23348)](https://github.com/erigontech/erigon/commit/1bc1cf7433fb4cf3b42cfa1de9a63c0425c3e2a0) - 2026-08-26
+* [Commit] [rpc/jsonrpc: return hexutil.U256 from the eth_/erigon_ quantity getters (#23216)](https://github.com/erigontech/erigon/commit/d32ecd2d02f7ac78f495cb898aab80203241d780) - 2026-08-26
+* [Commit] [db: high-level features unit-tests which cover PagedReader.Reset (#23480)](https://github.com/erigontech/erigon/commit/4157ee014a3fef0903944e1ddac8da52d7cf21f1) - 2026-08-26
+* [Commit] [rpc/jsonstream: drop Write, leaving WriteRawBytes as the only raw path (#23504)](https://github.com/erigontech/erigon/commit/464e4d545e6c8a4ba34bdd129c1746b7540b10af) - 2026-08-26
+* [Commit] [lru: grow 1 shard at a time (#23553)](https://github.com/erigontech/erigon/commit/0e5d9bf0210d59e25de7c0003ca8296eda0b58c4) - 2026-08-26
+* [Commit] [db/etl: split the sortable buffer into pooled 1MB chunks (#23518)](https://github.com/erigontech/erigon/commit/103a6b75be5e01905f9c734b6c1fc44a8b3ed25f) - 2026-08-26
+* [Commit] [execution/vm: grow EVM memory in pages, then double (#23526)](https://github.com/erigontech/erigon/commit/1fcbab973cec780069bae0111443a0345911575f) - 2026-08-26
+* [Commit] [rpc: answer with result:null when a streamed method writes nothing (#23574)](https://github.com/erigontech/erigon/commit/842a6aa6d7b9e0c27bd238c9270801432e7b0887) - 2026-08-26
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

@@ -153,6 +153,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: more metrics for BlockInputSync (#9912)](https://github.com/ChainSafe/lodestar/commit/c1d9395d5ed6c24ab09959d3154975e8f5f8ce75) - 2026-08-25
 * [Commit] [chore: follow up PR 9904 (#9909)](https://github.com/ChainSafe/lodestar/commit/beabd3a65c6f773e5ee59f845ef8b79655c5166c) - 2026-08-25
 * [Commit] [fix: bound payload envelope seen cache (#9904)](https://github.com/ChainSafe/lodestar/commit/7aa8c9c93ab90acd2f9b3e2781ce9e47e4dc10c0) - 2026-08-25
+* [Pull Request] [fix: feed peer sync meta to UnknownBlockPeerBalancer on subscribeToNetwork](https://github.com/ChainSafe/lodestar/pull/9924) - 2026-08-27
+* [Review] [Review on: fix: feed peer sync meta to UnknownBlockPeerBalancer on subscribeToNetwork](https://github.com/ChainSafe/lodestar/pull/9924#pullrequestreview-5037228011) - 2026-08-27
+* [Pull Request] [feat: prepare for epoch boundary reorg](https://github.com/ChainSafe/lodestar/pull/9915) - 2026-08-26
+* [Issue] [Enhance UnknownBlockPeerBalancer for gloas](https://github.com/ChainSafe/lodestar/issues/9923) - 2026-08-27
+* [Issue] [Penalize peers for sending REJECT gossip block](https://github.com/ChainSafe/lodestar/issues/9925) - 2026-08-27
+* [Issue] [Relax notWhileSyncing](https://github.com/ChainSafe/lodestar/issues/9916) - 2026-08-26
+* [Commit] [feat: prepare for epoch boundary reorg (#9915)](https://github.com/ChainSafe/lodestar/commit/aa8303e9a2007f80584d5eb6d914be0bb9012db8) - 2026-08-26
+* [Commit] [feat: tiered pruning of persisted checkpoint states (#9898)](https://github.com/ChainSafe/lodestar/commit/02d2dbea037af3e2c1c7854e3ee001058e2642b8) - 2026-08-26
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

@@ -58,6 +58,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [feat(journal): finalize selfdestructed accounts in place from Cancun (#3863)](https://github.com/bluealloy/revm/commit/44321b498097ab636a3ad8ed372370d838f51587) - 2026-08-19
 * [Pull Request] [chore(deps): replace unmaintained bincode with postcard in tests](https://github.com/bluealloy/revm/pull/3874) - 2026-08-20
 * [Commit] [chore(deps): replace unmaintained bincode with postcard in tests (#3874)](https://github.com/bluealloy/revm/commit/17a323dac0f893aef6a29d48692185495b366149) - 2026-08-20
+* [Pull Request] [chore: fix clippy for Rust 1.98](https://github.com/bluealloy/revm/pull/3884) - 2026-08-26
+* [Pull Request] [chore: release v116](https://github.com/bluealloy/revm/pull/3882) - 2026-08-26
+* [Commit] [chore: release v116 (#3882)](https://github.com/bluealloy/revm/commit/08c17c1629385a59902324409ed5167dbd1d1963) - 2026-08-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02
@@ -85,6 +88,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore: bump revm to 42.0.1 (#26490)](https://github.com/paradigmxyz/reth/commit/d2ede2c3a8428a3cf816157c687c57599fe168a2) - 2026-07-31
 * [Pull Request] [feat(glamsterdam-devnet-8): integrate revm gas repricing](https://github.com/paradigmxyz/reth/pull/26629) - 2026-08-10
 * [Review] [Review on: fix(engine): enforce state-gas admission on the BAL execution path](https://github.com/paradigmxyz/reth/pull/26719#pullrequestreview-4962119097) - 2026-08-18
+* [Review] [Review on: feat(net): advertise eth/70 and eth/71 by default](https://github.com/paradigmxyz/reth/pull/26824#pullrequestreview-5032071081) - 2026-08-26
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/revmc/pull/404) - 2026-07-14
 * [Pull Request] [chore: bump revm to 42.0.0](https://github.com/paradigmxyz/revmc/pull/406) - 2026-07-23

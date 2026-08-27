@@ -219,6 +219,13 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Add more builder onboarding tests](https://github.com/ethereum/consensus-specs/pull/5569) - 2026-08-25
 * [Pull Request] [Remove specs for EIP-6914](https://github.com/ethereum/consensus-specs/pull/5568) - 2026-08-25
 * [Commit] [Remove specs for EIP-6914 (#5568)](https://github.com/ethereum/consensus-specs/commit/cb41910f4acd21db85f0ccaa816ebb42a5299257) - 2026-08-25
+* [Review] [Review on: Load gossip validation state from the store](https://github.com/ethereum/consensus-specs/pull/5563#pullrequestreview-5033007876) - 2026-08-26
+* [Pull Request] [Add test for same-pubkey builder deposits after slot reuse](https://github.com/ethereum/consensus-specs/pull/5571) - 2026-08-26
+* [Review] [Review on: Test payload attributes after an empty Gloas parent](https://github.com/ethereum/consensus-specs/pull/5570#pullrequestreview-5031583984) - 2026-08-26
+* [Commit] [Use slot from header instead of bid (#5554)](https://github.com/ethereum/consensus-specs/commit/cf65c29a2590b8f5d43b6a26aee9f2293ed560f1) - 2026-08-26
+* [Commit] [Replace remerkleable with eth-ssz-specs (#5520)](https://github.com/ethereum/consensus-specs/commit/cf58354d92c43baabb5344d7f6dc2fefdc97dafe) - 2026-08-26
+* [Commit] [Add test for same-pubkey builder deposits after slot reuse (#5571)](https://github.com/ethereum/consensus-specs/commit/a5a1bc630401eedbe2f3d87934c99012578c113b) - 2026-08-26
+* [Commit] [Add more builder onboarding tests (#5569)](https://github.com/ethereum/consensus-specs/commit/0cb32b1299b7977adb129728459bc766ff202cb8) - 2026-08-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -256,6 +263,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #88, July 20, 2026](https://github.com/ethereum/pm/issues/2162) - 2026-07-16
 * [Issue] [All Core Devs - Testing (ACDT) #90, August 3, 2026](https://github.com/ethereum/pm/issues/2174) - 2026-07-27
+* [Issue] [All Core Devs - Testing (ACDT) #94, August 31, 2026](https://github.com/ethereum/pm/issues/2204) - 2026-08-26
 ## Q2 2026
 
 

@@ -83,6 +83,9 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Merge pull request #840 from ethpandaops/claude/dora-queue-fee-bug-fhev4k](https://github.com/ethpandaops/dora/commit/4c6c10fbcd5c4050b7ff698b10c797343c4f8887) - 2026-08-20
 * [Commit] [fix(ui): surface slot-1 read failure instead of silently quoting understated fee](https://github.com/ethpandaops/dora/commit/0b0d1527e53d67fca4f62a7ac7e26e9719357aae) - 2026-08-20
 * [Pull Request] [feat(ui): devnet deposit tooling - faucet, wallet-free submission, batching, builder top-ups, ENS](https://github.com/ethpandaops/dora/pull/845) - 2026-08-21
+* [Pull Request] [Link the builder payload icon to the builder page and show builder names](https://github.com/ethpandaops/dora/pull/852) - 2026-08-26
+* [Commit] [Merge pull request #852 from ethpandaops/bbusa/builder-icon-link-and-name](https://github.com/ethpandaops/dora/commit/80a8359e2b06f700d8a1c9ec035472b1c5f24d45) - 2026-08-26
+* [Commit] [Link the builder payload icon to the builder page and show builder names](https://github.com/ethpandaops/dora/commit/45b3c3b61cde74e27768ee5a2b5105c00744e6f2) - 2026-08-26
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
@@ -157,10 +160,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Issue] [PeerDAS: validator custody applied ~60s after startup; node advertises earliestAvailableSlot it cannot serve, leading to peer-score bans](https://github.com/OffchainLabs/prysm/issues/17312) - 2026-08-06
 
 * [Pull Request] [Verify bid gas limit against the payload at bid.parent_block_hash](https://github.com/OffchainLabs/prysm/pull/17405) - 2026-08-25
+* [Commit] [Verify bid gas limit against the payload at bid.parent_block_hash (#17405)](https://github.com/OffchainLabs/prysm/commit/ab315f0b2955850f92dce211fead778b88b9c41c) - 2026-08-26
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Add missing Gloas spec values to /eth/v1/config/spec](https://github.com/grandinetech/grandine/pull/847) - 2026-08-14
 
 * [Pull Request] [Validate bid gas limit against the payload at bid.parent_block_hash](https://github.com/grandinetech/grandine/pull/864) - 2026-08-25
+* [Pull Request] [Key attestation packer candidates by committee, not AttestationData alone](https://github.com/grandinetech/grandine/pull/865) - 2026-08-26
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Pull Request] [Expose Gloas timing values and MAX_REQUEST_PAYLOADS on the config/spec API](https://github.com/sigp/lighthouse/pull/9812) - 2026-08-14
 
@@ -183,6 +188,10 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [internal/ethapi: skip unconfigured forks when computing next fork in eth_config](https://github.com/ethereum/go-ethereum/pull/35553) - 2026-08-18
 * [Commit] [internal/ethapi: skip unconfigured forks when computing next fork in eth_config (#35553)](https://github.com/ethereum/go-ethereum/commit/e5566cea633266ab5fc0fdf1b88f2f7dfe800f03) - 2026-08-24
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [rpc: support the "pending" block tag](https://github.com/status-im/nimbus-eth1/pull/4687) - 2026-08-26
+* [Commit] [rpc: support the "pending" block tag (#4687)](https://github.com/status-im/nimbus-eth1/commit/f0f0a2481a4fbe2d2748ed5bbf1de43da1578c95) - 2026-08-26
 ## Q2 2026
 
 

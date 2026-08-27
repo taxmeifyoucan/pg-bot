@@ -33,6 +33,8 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): update geth branch for bench filling comparison](https://github.com/ethereum/execution-specs/pull/3366) - 2026-08-12
 * [Pull Request] [refactor(zkevm): align SSZ capitalization](https://github.com/ethereum/execution-specs/pull/3372) - 2026-08-13
 * [Pull Request] [feat(zkevm): automate zkevm benchmark filling releases](https://github.com/ethereum/execution-specs/pull/3389) - 2026-08-17
+* [Pull Request] [feat(zkevm): use annotated ssz to avoid type duplication](https://github.com/ethereum/execution-specs/pull/3455) - 2026-08-26
+* [Review] [Review on: feat(zkevm): use annotated ssz to avoid type duplication](https://github.com/ethereum/execution-specs/pull/3455#pullrequestreview-5032894554) - 2026-08-26
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12
@@ -64,6 +66,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat: remove zesu fork check since valid fixtures test byte-invalid inputs](https://github.com/eth-act/zkevm-benchmark-workload/pull/309) - 2026-07-30
 * [Review] [Review on: feat: update ere and ere-guests to v0.14.0](https://github.com/eth-act/zkevm-benchmark-workload/pull/308#pullrequestreview-4820718953) - 2026-07-30
 * [Commit] [feat: remove zesu fork check since valid fixtures test byte-invalid inputs (#309)](https://github.com/eth-act/zkevm-benchmark-workload/commit/228a9228b1424c2216c78352763558ce1a7a268c) - 2026-07-30
+* [Pull Request] [Update to tests-zkevm@v0.8.2](https://github.com/eth-act/zkevm-benchmark-workload/pull/310) - 2026-08-26
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Issue] [feat(EngineAPI): support engine_newPayloadWithWitnessVX](https://github.com/paradigmxyz/reth/issues/26415) - 2026-07-16
 

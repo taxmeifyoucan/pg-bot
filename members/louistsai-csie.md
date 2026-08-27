@@ -132,6 +132,9 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): EIP-7702 - keep authority storage when clearing a delegation](https://github.com/ethereum/execution-specs/pull/3421#pullrequestreview-5004772686) - 2026-08-24
 * [Review] [Review on: feat(tests): EIP-8037 - pin gas on the unasserted child-halt spill tests](https://github.com/ethereum/execution-specs/pull/3427#pullrequestreview-5018877774) - 2026-08-25
 * [Review] [Review on: refactor(tests): EIP-8037 test gas calculation logic and post state verification](https://github.com/ethereum/execution-specs/pull/3383#pullrequestreview-5016029456) - 2026-08-25
+* [Pull Request] [refactor(tests): enhance EIP-8037 test coverage part 2](https://github.com/ethereum/execution-specs/pull/3449) - 2026-08-26
+* [Review] [Review on: refactor(test-benchmark): tidy SSTORE storage benchmark](https://github.com/ethereum/execution-specs/pull/3442#pullrequestreview-5030368987) - 2026-08-26
+* [Commit] [refactor(tests): EIP-8037 test gas calculation logic and post state verification (#3383)](https://github.com/ethereum/execution-specs/commit/50f3df9ece9b3c448146c39e08dfadeaf21c7351) - 2026-08-26
 ## Q2 2026
 
 

@@ -103,6 +103,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Set the slot of the upgraded execution payload bid (#5550)](https://github.com/ethereum/consensus-specs/commit/8bba62da506b9e1c71dbe7c866e70cb2e6fd0641) - 2026-08-18
 * [Review] [Review on: Add `custody_columns` parameter to `notify_forkchoice_updated`](https://github.com/ethereum/consensus-specs/pull/5549#pullrequestreview-4976176571) - 2026-08-19
 * [Commit] [Add `custody_columns` parameter to `notify_forkchoice_updated` (#5549)](https://github.com/ethereum/consensus-specs/commit/0718095c4d5494d5a599e9cc71dac92a99796722) - 2026-08-19
+* [Pull Request] [Add `equivocation_delay` mutation to fork choice compliance tests](https://github.com/ethereum/consensus-specs/pull/5572) - 2026-08-26
 [sigp/lighthouse](https://github.com/sigp/lighthouse)
 * [Issue] [DataColumnsByRange decodes pre-fork sidecar with wrong fork at a skip-slot boundary](https://github.com/sigp/lighthouse/issues/9638) - 2026-07-15
 

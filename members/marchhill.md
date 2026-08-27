@@ -200,6 +200,15 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: fix(frames): decode pre-2D scalar gas_used in stored frame-tx receipts](https://github.com/NethermindEth/nethermind/pull/12957#pullrequestreview-5006793107) - 2026-08-24
 * [Commit] [Implement EIP-7805 (FOCIL) (#8003)](https://github.com/NethermindEth/nethermind/commit/d4ef4fd56e924550d4a6a0de5aa8507a124305d5) - 2026-08-24
 * [Pull Request] [Integrate EIP-7805 (FOCIL) into the frame-transaction branch](https://github.com/NethermindEth/nethermind/pull/12977) - 2026-08-25
+* [Review] [Review on: Use a conservative block-body transaction count limit](https://github.com/NethermindEth/nethermind/pull/12990#pullrequestreview-5032933902) - 2026-08-26
+* [Pull Request] [Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13001) - 2026-08-27
+* [Pull Request] [Charge the EIP-8141 frame-entry account access before dispatch](https://github.com/NethermindEth/nethermind/pull/12997) - 2026-08-26
+* [Review] [Review on: chore(frames): cut EIP-8141 comments down and drop stale markers](https://github.com/NethermindEth/nethermind/pull/12921#pullrequestreview-5036074511) - 2026-08-27
+* [Review] [Review on: fix(rpc): keep frame receipt fields when a receipt is read back from JSON](https://github.com/NethermindEth/nethermind/pull/12923#pullrequestreview-5035934414) - 2026-08-26
+* [Review] [Review on: EIP-8141: stop re-verifying frame signatures inside the validation-prefix simulator](https://github.com/NethermindEth/nethermind/pull/12903#pullrequestreview-5035988550) - 2026-08-26
+* [Pull Request] [ci: add the EIP-8141 frame-fixture nethtest lane](https://github.com/NethermindEth/nethermind/pull/12995) - 2026-08-26
+* [Pull Request] [fix(frames): report missing frames distinctly from a gas overflow in EstimateFrameTx](https://github.com/NethermindEth/nethermind/pull/12996) - 2026-08-26
+* [Pull Request] [docs(eip8141): correct the pre-activation gap list](https://github.com/NethermindEth/nethermind/pull/12994) - 2026-08-26
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

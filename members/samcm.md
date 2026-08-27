@@ -56,6 +56,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [feat(frontend): block propagation from Xatu](https://github.com/ethpandaops/dora/pull/846) - 2026-08-24
 * [Review] [Review on: feat(frontend): block propagation from Xatu](https://github.com/ethpandaops/dora/pull/846#pullrequestreview-5005730407) - 2026-08-24
 * [Pull Request] [Xatu-cbt slot panels: attestation wave and data column availability](https://github.com/ethpandaops/dora/pull/851) - 2026-08-25
+* [Pull Request] [Round the arrival timeline axis labels to whole milliseconds](https://github.com/ethpandaops/dora/pull/853) - 2026-08-27
+* [Commit] [Merge pull request #853 from ethpandaops/fix/arrival-axis-label](https://github.com/ethpandaops/dora/commit/7174f49f277be620741af69ce3ad2e768db3c016) - 2026-08-27
+* [Commit] [round the arrival timeline axis labels to whole milliseconds](https://github.com/ethpandaops/dora/commit/f7472e6128bae7cb9c7d5c7bc90539eb8bff628b) - 2026-08-27
+* [Commit] [Merge pull request #846 from ethpandaops/feat/xatu-block-arrival](https://github.com/ethpandaops/dora/commit/84bf52d96362ce0d9f59b1fa5b34093e29a8fbd9) - 2026-08-26
+* [Commit] [Add block/payload sort toggles to the timeline column](https://github.com/ethpandaops/dora/commit/f36f295200158b8c62ba590fdca01b7bc8182596) - 2026-08-26
 ## Q2 2026
 
 

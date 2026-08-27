@@ -137,6 +137,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): expand create collision matrix and add balance-only cases](https://github.com/ethereum/execution-specs/pull/3425) - 2026-08-24
 * [Pull Request] [fix(evm-tools): accept empty hex transaction values](https://github.com/ethereum/execution-specs/pull/3424) - 2026-08-24
 * [Review] [Review on: refactor(cli-extract-config): Generate configs without hive](https://github.com/ethereum/execution-specs/pull/3414#pullrequestreview-5016138569) - 2026-08-25
+* [Pull Request] [feat(ci): collect execute and consume tests on every PR](https://github.com/ethereum/execution-specs/pull/3451) - 2026-08-26
+* [Review] [Review on: feat(ci): collect execute and consume tests on every PR](https://github.com/ethereum/execution-specs/pull/3451#pullrequestreview-5028551577) - 2026-08-26
+* [Pull Request] [fix(test-execute): ignore tests/spec_tools during collection](https://github.com/ethereum/execution-specs/pull/3450) - 2026-08-26
+* [Commit] [fix(evm-tools): accept empty hex transaction values (#3424)](https://github.com/ethereum/execution-specs/commit/5a7cd6b00d3b78565a6aa4164505fa543fb39e85) - 2026-08-26
+* [Commit] [feat(tests): expand create collision matrix and add balance-only cases (#3425)](https://github.com/ethereum/execution-specs/commit/bd443d939acbefd9194ab8e6e2435b7fad152932) - 2026-08-26
+* [Commit] [fix(test-execute): ignore tests/spec_tools during collection (#3450)](https://github.com/ethereum/execution-specs/commit/74153f7093c7716834d2dac00db0087738072758) - 2026-08-26
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

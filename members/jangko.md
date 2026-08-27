@@ -97,6 +97,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Set Bogota blobSchedule](https://github.com/status-im/nimbus-eth1/pull/4680) - 2026-08-25
 * [Commit] [Top frame address collision must restore state gas to entry (#4681)](https://github.com/status-im/nimbus-eth1/commit/fd0ad03c9d49f1e98ad9e8e9cb11aeaf90ddb835) - 2026-08-25
 * [Commit] [Set Bogota blobSchedule (#4680)](https://github.com/status-im/nimbus-eth1/commit/13f52d09e45234130ccf5866620f38f98cd51281) - 2026-08-25
+* [Pull Request] [Update glamsterdam devnet fixtures to v8.1.2](https://github.com/status-im/nimbus-eth1/pull/4688) - 2026-08-26
+* [Pull Request] [TransactionObject.to should null/none when Transaction is a contract creation](https://github.com/status-im/nimbus-eth1/pull/4686) - 2026-08-26
+* [Commit] [Update glamsterdam devnet fixtures to v8.1.2 (#4688)](https://github.com/status-im/nimbus-eth1/commit/a46320353bdf3ea85992ac98ed5b8d59409d05a4) - 2026-08-27
+* [Commit] [TransactionObject.to should null/none when Transaction is a contract creation (#4686)](https://github.com/status-im/nimbus-eth1/commit/88d05da0e139000f9909200f097a915fcb308420) - 2026-08-27
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

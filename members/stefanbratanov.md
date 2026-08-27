@@ -52,6 +52,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Change signature of `createUnsignedExecutionPayload` (#11169)](https://github.com/Consensys/teku/commit/2dc3e03092fb66c01af2256b91ff3535a1d1d524) - 2026-08-25
 * [Commit] [Pass `BuilderConfig` from VC to BN (#11161)](https://github.com/Consensys/teku/commit/b75eed086138f441b5d667d7dbc0e9eb72ef51b3) - 2026-08-25
 * [Commit] [Put `BuilderConfig` in request body when calling block v4 (#11132)](https://github.com/Consensys/teku/commit/d232e726bdb54fbfebaf8dab9f017b868b286c25) - 2026-08-25
+* [Pull Request] [Upgrade gradle + windows commands in build.gradle](https://github.com/Consensys/teku/pull/11176) - 2026-08-26
+* [Pull Request] [Refactor `ExecutionPayloadBidManager`](https://github.com/Consensys/teku/pull/11179) - 2026-08-26
+* [Review] [Review on: Refactor `ExecutionPayloadBidManager`](https://github.com/Consensys/teku/pull/11179#pullrequestreview-5033217753) - 2026-08-26
+* [Review] [Review on: Implement GET `/eth/v1/validator/execution_payload_envelope/...`](https://github.com/Consensys/teku/pull/11172#pullrequestreview-5028998642) - 2026-08-26
+* [Commit] [Implement GET `/eth/v1/validator/execution_payload_envelope/...` (#11172)](https://github.com/Consensys/teku/commit/c8705442aa2f5e2acc9f824cf188e172c23a1537) - 2026-08-26
 ## Q2 2026
 
 

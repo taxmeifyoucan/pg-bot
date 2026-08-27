@@ -105,6 +105,12 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-7773: Move to Review](https://github.com/ethereum/EIPs/pull/11855#pullrequestreview-4985390121) - 2026-08-20
 * [Commit] [Update EIP-8081: PFI EIP-5920 and EIP-7923](https://github.com/ethereum/EIPs/commit/4e203d1911dc7728bf6edd548f545e120eb6675e) - 2026-08-20
 * [Commit] [Update EIP-7773: Remove EIP-7610 from Glamsterdam](https://github.com/ethereum/EIPs/commit/f9976e6848a26919b98369d5ed21dc2d5fd7aca1) - 2026-08-20
+* [Review] [Review on: Add EIP: Reduce CL Block Retention Window](https://github.com/ethereum/EIPs/pull/12188#pullrequestreview-5031173642) - 2026-08-26
+* [Pull Request] [Update EIP-5069: Add EIP Coordinator](https://github.com/ethereum/EIPs/pull/12243) - 2026-08-26
+* [Pull Request] [Update EIP-5069: rollback PR 12241](https://github.com/ethereum/EIPs/pull/12242) - 2026-08-26
+* [Pull Request] [Update EIP-5069: Add EIP coordinator](https://github.com/ethereum/EIPs/pull/12241) - 2026-08-26
+* [Commit] [Update EIP-5069: rollback PR 12241](https://github.com/ethereum/EIPs/commit/bd24704c59caa044b08218bf54e80b13b939c746) - 2026-08-26
+* [Commit] [Update EIP-5069: Add EIP coordinator](https://github.com/ethereum/EIPs/commit/b13fa6ba2517d50974de21811947a2f46b5dadff) - 2026-08-26
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -153,6 +159,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [perf(test-client-cli): skip redundant BAL hash](https://github.com/ethereum/execution-specs/pull/3430) - 2026-08-24
 * [Commit] [perf(test-type): cache ecrecover and optimize function calls to ecrecover (#3431)](https://github.com/ethereum/execution-specs/commit/786c0d4a29c04ce68fc0216dded088d21970be79) - 2026-08-24
 * [Commit] [perf(test-client-cli): skip redundant BAL hash (#3430)](https://github.com/ethereum/execution-specs/commit/b6209f28e4254bbea71fc339e93d6c79b5e20c34) - 2026-08-24
+* [Review] [Review on: feat(tests): expand create collision matrix and add balance-only cases](https://github.com/ethereum/execution-specs/pull/3425#pullrequestreview-5028538900) - 2026-08-26
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 

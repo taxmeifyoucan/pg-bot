@@ -69,6 +69,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Compute correctly the `finalized` field value in a bunch of beacon API endpoints.](https://github.com/OffchainLabs/prysm/pull/17401#pullrequestreview-5018309606) - 2026-08-25
 * [Commit] [reduce state diff cache memory usage (#17227)](https://github.com/OffchainLabs/prysm/commit/7e87c61fa131f4a5e3a053d82e81a39e30cfcf5d) - 2026-08-25
 * [Commit] [fix sync committee duty bug for exited vals - pre gloas (#17395)](https://github.com/OffchainLabs/prysm/commit/286eca07eea4f865750399d5eef557cfb5a04f0a) - 2026-08-25
+* [Review] [Review on: Accept empty `skip_randao_verification` for `/eth/v{3,4}/validator/blocks/{slot}` as per Beacon API](https://github.com/OffchainLabs/prysm/pull/17413#pullrequestreview-5029951339) - 2026-08-26
+* [Commit] [better manage mutexes (#17406)](https://github.com/OffchainLabs/prysm/commit/ac4fac1e6b6265f0221042b14d6de0e500925c3e) - 2026-08-27
 ## Q2 2026
 
 

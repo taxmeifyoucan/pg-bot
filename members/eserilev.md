@@ -124,6 +124,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Fix valid Gloas bids rejected with InvalidGasLimit after an empty parent](https://github.com/sigp/lighthouse/pull/9905#pullrequestreview-5003088742) - 2026-08-23
 * [Review] [Review on: Add Gloas bid selection, block production, and bid gossip processing (Gloas builder API 3/5)](https://github.com/sigp/lighthouse/pull/9805#pullrequestreview-5018992149) - 2026-08-25
 * [Review] [Review on: Fix valid Gloas bids rejected with InvalidGasLimit after an empty parent](https://github.com/sigp/lighthouse/pull/9905#pullrequestreview-5018131957) - 2026-08-25
+* [Review] [Review on: Add inclusion list committee derivation](https://github.com/sigp/lighthouse/pull/9742#pullrequestreview-5037791119) - 2026-08-27
+* [Review] [Review on: Wire the inclusion_list gossip topic](https://github.com/sigp/lighthouse/pull/9846#pullrequestreview-5037807678) - 2026-08-27
+* [Review] [Review on: Add base support for Heze block production](https://github.com/sigp/lighthouse/pull/9714#pullrequestreview-5031581252) - 2026-08-26
+* [Review] [Review on: Initiate a shutdown if the node cannot recover from a diverged fork choice](https://github.com/sigp/lighthouse/pull/9819#pullrequestreview-5030604005) - 2026-08-26
+* [Review] [Review on: Check withdrawals consistency between block prod and payload attributes](https://github.com/sigp/lighthouse/pull/9920#pullrequestreview-5027675555) - 2026-08-26
+* [Review] [Review on: Align gloas proposer reorg weight logic w/ spec ](https://github.com/sigp/lighthouse/pull/9831#pullrequestreview-5027600568) - 2026-08-26
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

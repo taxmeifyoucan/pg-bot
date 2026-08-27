@@ -51,6 +51,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Convert produceBlockV4 to POST and round-trip Eth-Builder-Url (Gloas builder API 4/5)](https://github.com/sigp/lighthouse/pull/9806#pullrequestreview-4989181941) - 2026-08-21
 * [Review] [Review on: Round floating-point values before logging](https://github.com/sigp/lighthouse/pull/9904#pullrequestreview-5005770931) - 2026-08-24
 * [Pull Request] [Attempt to fix flaky fallback simulator test](https://github.com/sigp/lighthouse/pull/9908) - 2026-08-24
+* [Review] [Review on: Add per-validator builder configuration API](https://github.com/sigp/lighthouse/pull/9864#pullrequestreview-5036296153) - 2026-08-27
 ## Q2 2026
 
 

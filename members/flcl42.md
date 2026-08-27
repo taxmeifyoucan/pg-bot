@@ -267,6 +267,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Add dual-stack peer endpoints with per-family dial fallback](https://github.com/NethermindEth/nethermind/pull/12983) - 2026-08-25
 * [Pull Request] [Enable dual-stack RLPx and discv4/discv5 listeners](https://github.com/NethermindEth/nethermind/pull/12982) - 2026-08-25
 * [Review] [Review on: Downgrade discovery rate-limiting logs to Trace](https://github.com/NethermindEth/nethermind/pull/12978#pullrequestreview-5016396073) - 2026-08-25
+* [Pull Request] [Use a conservative block-body transaction count limit](https://github.com/NethermindEth/nethermind/pull/12990) - 2026-08-26
+* [Review] [Review on: Use a conservative block-body transaction count limit](https://github.com/NethermindEth/nethermind/pull/12990#pullrequestreview-5031946255) - 2026-08-26
+* [Pull Request] [Support ENR bootnodes in discv4](https://github.com/NethermindEth/nethermind/pull/12992) - 2026-08-26
+* [Commit] [Use a conservative block-body transaction count limit (#12990)](https://github.com/NethermindEth/nethermind/commit/b92e2a471919a0b649d586c217c71b1c7f0ce054) - 2026-08-26
+* [Commit] [Add sparse blob pool (#11094)](https://github.com/NethermindEth/nethermind/commit/fff2a3fbde6b9dfc52e76d6ac538a8f9c3f3a4fa) - 2026-08-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08
