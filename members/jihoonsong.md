@@ -85,6 +85,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4988603826) - 2026-08-21
 * [Review] [Review on: Initialize anchor PTC vote arrays in `get_forkchoice_store`](https://github.com/ethereum/consensus-specs/pull/5545#pullrequestreview-4981917640) - 2026-08-20
 * [Review] [Review on: Load gossip validation state from the store](https://github.com/ethereum/consensus-specs/pull/5563#pullrequestreview-5032175446) - 2026-08-26
+* [Review] [Review on: Load gossip validation state from the store](https://github.com/ethereum/consensus-specs/pull/5563#pullrequestreview-5039818732) - 2026-08-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

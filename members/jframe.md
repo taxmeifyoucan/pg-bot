@@ -65,6 +65,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Jump out of empty block period to handle QBFT votes](https://github.com/besu-eth/besu/pull/11111#pullrequestreview-5004009538) - 2026-08-24
 * [Review] [Review on: Bonsai archive move NodeLoader into trie node strategy](https://github.com/besu-eth/besu/pull/11133#pullrequestreview-5014008458) - 2026-08-25
 * [Commit] [Bonsai archive move NodeLoader into trie node strategy (#11133)](https://github.com/besu-eth/besu/commit/fe923e88e5d746346823437693f966066086250a) - 2026-08-25
+* [Review] [Review on: Empty block metrics](https://github.com/besu-eth/besu/pull/11163#pullrequestreview-5048419786) - 2026-08-28
+* [Review] [Review on: Bonsai archive proofs diff encoding](https://github.com/besu-eth/besu/pull/11091#pullrequestreview-5046311183) - 2026-08-27
 ## Q2 2026
 
 

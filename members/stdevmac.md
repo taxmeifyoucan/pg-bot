@@ -45,6 +45,9 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: ci: wait for the publish-docker run we dispatched, not any concurrent one](https://github.com/NethermindEth/nethermind/pull/12907#pullrequestreview-4981378510) - 2026-08-20
 * [Issue] [Graceful shutdown always aborts the final flat flush — OperationCanceledException in FlushCache, exit code 1 (feature/flat-history-window)](https://github.com/NethermindEth/nethermind/issues/12991) - 2026-08-26
 * [Commit] [Improve comment quality and flag comment slop during review (#12781)](https://github.com/NethermindEth/nethermind/commit/8d9060417c671a8a3aa68876f1add25d81b8c87d) - 2026-08-26
+* [Review] [Review on: ci: send GCP machine types to the smoke-test dispatches](https://github.com/NethermindEth/nethermind/pull/13014#pullrequestreview-5045046962) - 2026-08-27
+* [Review] [Review on: Fix false 'header < body' block tree corruption after ungraceful restart while beacon syncing](https://github.com/NethermindEth/nethermind/pull/12876#pullrequestreview-5040925176) - 2026-08-27
+* [Review] [Review on: Fix peer update timer shutdown race](https://github.com/NethermindEth/nethermind/pull/13010#pullrequestreview-5040903110) - 2026-08-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

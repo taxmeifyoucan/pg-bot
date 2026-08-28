@@ -52,6 +52,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Round floating-point values before logging](https://github.com/sigp/lighthouse/pull/9904#pullrequestreview-5005770931) - 2026-08-24
 * [Pull Request] [Attempt to fix flaky fallback simulator test](https://github.com/sigp/lighthouse/pull/9908) - 2026-08-24
 * [Review] [Review on: Add per-validator builder configuration API](https://github.com/sigp/lighthouse/pull/9864#pullrequestreview-5036296153) - 2026-08-27
+* [Review] [Review on: Add attestations test with `payload_present` in op pool](https://github.com/sigp/lighthouse/pull/9531#pullrequestreview-5046948621) - 2026-08-28
+* [Review] [Review on: Add per-validator builder configuration API](https://github.com/sigp/lighthouse/pull/9864#pullrequestreview-5046900262) - 2026-08-28
 ## Q2 2026
 
 

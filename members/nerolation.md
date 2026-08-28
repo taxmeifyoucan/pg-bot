@@ -56,6 +56,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8131: data floor independent from gas limit](https://github.com/ethereum/EIPs/commit/f6fd28d34a94dee4fc5993f8fabb40fb0b50ed23) - 2026-08-19
 * [Pull Request] [Update EIP-8146: CL must deliver the BAL to the EL before the payload](https://github.com/ethereum/EIPs/pull/12216) - 2026-08-20
 * [Commit] [Update EIP-8146: CL must deliver the BAL to the EL before the payload](https://github.com/ethereum/EIPs/commit/e664bdb05bf866d2cd5a0b9e188b0dcc9f1c17d9) - 2026-08-20
+* [Pull Request] [Update EIP-8141: add valid_after to the expiry verifier frame](https://github.com/ethereum/EIPs/pull/12252) - 2026-08-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 
@@ -65,6 +66,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [feat(spec-specs): add EIP-7997 deterministic factory deployment](https://github.com/ethereum/execution-specs/pull/3198) - 2026-07-20
 * [Pull Request] [feat(spec-specs): add EIP-8279 block access list byte floo](https://github.com/ethereum/execution-specs/pull/3351) - 2026-08-11
 * [Pull Request] [feat(spec-specs): add EIP-8131 unified transaction content floor](https://github.com/ethereum/execution-specs/pull/3350) - 2026-08-11
+* [Pull Request] [fix(tests): undecodable BAL is an invalid payload](https://github.com/ethereum/execution-specs/pull/3463) - 2026-08-28
 [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Add proposal for native UTXOs on Ethereum](https://github.com/nerolation/pglanding-nerolation/commit/6eda8a600eac2ec897055484efc1348b65e0246d) - 2026-07-08
 
@@ -72,6 +74,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [eth/debug: specify block access list getter semantics](https://github.com/ethereum/execution-apis/pull/851) - 2026-07-18
 
 * [Commit] [eth/debug: specify block access list getter semantics (#851)](https://github.com/ethereum/execution-apis/commit/f82695cdd9ed0073a4705b6682159e828d316104) - 2026-08-24
+* [Pull Request] [engine: return INVALID for undecodable blockAccessList](https://github.com/ethereum/execution-apis/pull/869) - 2026-08-27
+* [Commit] [engine: return INVALID for undecodable blockAccessList (#869)](https://github.com/ethereum/execution-apis/commit/df75e230befef0de56ee8833322ed714bacb479c) - 2026-08-28
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Commit] [simulators/devp2p: add snap2 suite for EIP-8189 conformance tests (#1440)](https://github.com/ethereum/hive/commit/0434cf4601a334dfd342ac069e956749f36c8151) - 2026-08-11
 
@@ -81,6 +85,18 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [core: enforce block gas limit in parallel block execution (#35575)](https://github.com/ethereum/go-ethereum/commit/e9e35a42f8213235da1fde4f9ac8f3e9ff666b87) - 2026-08-26
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix CPU exhaustion from speculative execution after block rejection](https://github.com/besu-eth/besu/pull/11139) - 2026-08-24
+
+* [Pull Request] [return INVALID for undecodable blockAccessList](https://github.com/besu-eth/besu/pull/11177) - 2026-08-27
+* [Commit] [return INVALID for undecodable blockAccessList (#11177)](https://github.com/besu-eth/besu/commit/af61f5d064a46115ff094ce7100de2072670d9e5) - 2026-08-28
+[erigontech/erigon](https://github.com/erigontech/erigon)
+* [Pull Request] [execution/engineapi: return INVALID for undecodable blockAccessList](https://github.com/erigontech/erigon/pull/23633) - 2026-08-27
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Pull Request] [Return INVALID for a malformed block access list envelope](https://github.com/NethermindEth/nethermind/pull/13012) - 2026-08-27
+* [Commit] [Return INVALID for a malformed block access list envelope (#13012)](https://github.com/NethermindEth/nethermind/commit/7fcdee732920608454359b6a65a254cd84cff4a9) - 2026-08-27
+
+[status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
+* [Pull Request] [newPayloadV5: undecodable BAL is an invalid payload, not invalid params](https://github.com/status-im/nimbus-eth1/pull/4697) - 2026-08-27
 ## Q2 2026
 
 

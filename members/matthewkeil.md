@@ -52,6 +52,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: clarify code comment guidance](https://github.com/ChainSafe/lodestar/pull/9833#pullrequestreview-4950586539) - 2026-08-17
 * [Pull Request] [ci: external contributor workflow error](https://github.com/ChainSafe/lodestar/pull/9905) - 2026-08-24
 * [Commit] [ci: external contributor workflow error (#9905)](https://github.com/ChainSafe/lodestar/commit/aa6eaee53a13d0664e51704a1664344adff84c62) - 2026-08-24
+* [Pull Request] [chore: v1.47.0 release](https://github.com/ChainSafe/lodestar/pull/9934) - 2026-08-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

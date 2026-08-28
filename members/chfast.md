@@ -267,6 +267,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [refactor(test-benchmark): tidy SSTORE storage benchmark](https://github.com/ethereum/execution-specs/pull/3442) - 2026-08-25
 * [Commit] [refactor(test-benchmark): tidy SSTORE storage benchmark (#3442)](https://github.com/ethereum/execution-specs/commit/20f7f6271a720091e5fea0a82e7bc802866ae36a) - 2026-08-26
 * [Commit] [feat(tests): EIP-8037 - consume spilled state gas along a halt chain (#3423)](https://github.com/ethereum/execution-specs/commit/6711bfd3f661a54eda1bde89757228f986b828cc) - 2026-08-26
+* [Pull Request] [feat(tests): ECRECOVER - cover R == -G with u1 < u2 and u1 == u2](https://github.com/ethereum/execution-specs/pull/3459) - 2026-08-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
@@ -275,6 +276,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [Update EIP-8246: give a concrete example of L2 burn usage](https://github.com/ethereum/EIPs/pull/12237) - 2026-08-24
 * [Pull Request] [Update EIP-8246: note the CREATE2 redeploy of a funded remnant](https://github.com/ethereum/EIPs/pull/12234) - 2026-08-24
 * [Commit] [Update EIP-8037: decouple SYSTEM_MAX_SSTORES_PER_CALL from request bounds](https://github.com/ethereum/EIPs/commit/187336f46c2b54ae295ced6e8cffd48bf5989ba6) - 2026-08-25
+* [Pull Request] [Update EIP-8037: restore a frame's state-gas on rollback](https://github.com/ethereum/EIPs/pull/12256) - 2026-08-28
+* [Pull Request] [Update EIP-8037: refill state-gas for a SELFDESTRUCTed account](https://github.com/ethereum/EIPs/pull/12249) - 2026-08-27
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22522#pullrequestreview-4717730901) - 2026-07-16
 * [Pull Request] [types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514) - 2026-07-16

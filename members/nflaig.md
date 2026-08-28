@@ -396,6 +396,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Builder and proposer preferences are lost on beacon node restart](https://github.com/ChainSafe/lodestar/issues/9920) - 2026-08-26
 * [Issue] [Persisting proposer config with builder boost factor crashes on BigInt serialization](https://github.com/ChainSafe/lodestar/issues/9918) - 2026-08-26
 * [Issue] [Combine builder preferences and proposer preferences services](https://github.com/ChainSafe/lodestar/issues/9919) - 2026-08-26
+* [Review] [Review on: feat: flood publish execution payload bids](https://github.com/ChainSafe/lodestar/pull/9914#pullrequestreview-5042230501) - 2026-08-27
+* [Review] [Review on: chore: v1.47.0 release](https://github.com/ChainSafe/lodestar/pull/9934#pullrequestreview-5045431542) - 2026-08-27
+* [Pull Request] [feat: implement quick slots EIP-8198](https://github.com/ChainSafe/lodestar/pull/9933) - 2026-08-27
+* [Review] [Review on: feat: enhance UnknownBlockPeerBalancer for gloas](https://github.com/ChainSafe/lodestar/pull/9928#pullrequestreview-5040046325) - 2026-08-27
+* [Pull Request] [feat: reorg weak head when the proposer equivocated](https://github.com/ChainSafe/lodestar/pull/9929) - 2026-08-27
+* [Review] [Review on: feat: reorg weak head when the proposer equivocated](https://github.com/ChainSafe/lodestar/pull/9929#pullrequestreview-5039821095) - 2026-08-27
+* [Commit] [feat: implement gloas builder api (#9832)](https://github.com/ChainSafe/lodestar/commit/57572140f8b75ab72466a869bf7bdc0ad0db265e) - 2026-08-27
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

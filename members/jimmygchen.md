@@ -36,6 +36,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Fix valid Gloas bids rejected with InvalidGasLimit after an empty parent](https://github.com/sigp/lighthouse/pull/9905#pullrequestreview-5005265698) - 2026-08-24
 * [Pull Request] [Test all Gloas proposer preparation payload attributes](https://github.com/sigp/lighthouse/pull/9914) - 2026-08-25
 * [Review] [Review on: Add per-validator builder configuration API](https://github.com/sigp/lighthouse/pull/9864#pullrequestreview-5037382818) - 2026-08-27
+* [Pull Request] [Fix stale and incorrectly versioned builder preference submissions](https://github.com/sigp/lighthouse/pull/9929) - 2026-08-28
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(engine): serve getBlobsV4 from Osaka](https://github.com/paradigmxyz/reth/pull/26768) - 2026-08-20
 * [Commit] [fix(engine): serve getBlobsV4 from Osaka (#26768)](https://github.com/paradigmxyz/reth/commit/69b94b4e89a593ddf38be2a21dcbb6b61b98a110) - 2026-08-20

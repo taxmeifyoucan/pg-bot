@@ -8,6 +8,12 @@ Relevant work: [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://et
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Add gloas state transition comptests generator](https://github.com/ethereum/consensus-specs/pull/5573) - 2026-08-27
+* [Review] [Review on: Add `equivocation_delay` mutation to fork choice compliance tests](https://github.com/ethereum/consensus-specs/pull/5572#pullrequestreview-5049016353) - 2026-08-28
 ## Q2 2026
 
 

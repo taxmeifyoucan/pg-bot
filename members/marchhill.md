@@ -209,6 +209,12 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [ci: add the EIP-8141 frame-fixture nethtest lane](https://github.com/NethermindEth/nethermind/pull/12995) - 2026-08-26
 * [Pull Request] [fix(frames): report missing frames distinctly from a gas overflow in EstimateFrameTx](https://github.com/NethermindEth/nethermind/pull/12996) - 2026-08-26
 * [Pull Request] [docs(eip8141): correct the pre-activation gap list](https://github.com/NethermindEth/nethermind/pull/12994) - 2026-08-26
+* [Pull Request] [test(eip8141): map the frame-transaction exceptions for engine tests](https://github.com/NethermindEth/nethermind/pull/13009) - 2026-08-27
+* [Review] [Review on: test(eip8141): map the frame-transaction exceptions for engine tests](https://github.com/NethermindEth/nethermind/pull/13009#pullrequestreview-5047322809) - 2026-08-28
+* [Review] [Review on: perf(ssz): back stateless public keys with an inline-array vector](https://github.com/NethermindEth/nethermind/pull/12928#pullrequestreview-5047398067) - 2026-08-28
+* [Pull Request] [Make merged master code frame-transaction aware (#13001 follow-ups)](https://github.com/NethermindEth/nethermind/pull/13011) - 2026-08-27
+* [Review] [Review on: Make merged master code frame-transaction aware (#13001 follow-ups)](https://github.com/NethermindEth/nethermind/pull/13011#pullrequestreview-5046966910) - 2026-08-28
+* [Review] [Review on: fix(opt): stop the Optimism receipts tracer from bypassing shared receipt population](https://github.com/NethermindEth/nethermind/pull/12925#pullrequestreview-5040774049) - 2026-08-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

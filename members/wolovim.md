@@ -24,6 +24,7 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: new frame meeting id](https://github.com/ethereum/pm/commit/d3a48725df75b6ec5f3bbecf7682e2373a3517aa) - 2026-08-13
 * [Commit] [acdbot: rename frame tx call](https://github.com/ethereum/pm/commit/3a055be445d869db8375f7818b438f2eb0040275) - 2026-08-13
 * [Commit] [acdbot: sszengineapi bi-weekly](https://github.com/ethereum/pm/commit/d84f2adc5336cecc8f8e3dd9107ce9e1408384a0) - 2026-08-18
+* [Commit] [acdbot: refresh zoom token docs](https://github.com/ethereum/pm/commit/2e5dec1f8854cae633e5f40bf78f51dc2fdde15d) - 2026-08-28
 ## Q2 2026
 
 

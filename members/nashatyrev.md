@@ -30,6 +30,7 @@ Team: [consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%
 * [Pull Request] [Refactor Gossip router peer state lifecycle](https://github.com/libp2p/jvm-libp2p/pull/515) - 2026-08-06
 * [Review] [Review on: Introduce a quic connection exception handler](https://github.com/libp2p/jvm-libp2p/pull/517#pullrequestreview-4882583383) - 2026-08-07
 * [Review] [Review on: Bound the per-peer pending outbound RPC parts queue by default](https://github.com/libp2p/jvm-libp2p/pull/518#pullrequestreview-4929822001) - 2026-08-13
+* [Review] [Review on: Bound control-plane size of inbound and outbound pubsub RPCs](https://github.com/libp2p/jvm-libp2p/pull/521#pullrequestreview-5039002750) - 2026-08-27
 ## Q2 2026
 
 

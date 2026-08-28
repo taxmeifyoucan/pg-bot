@@ -226,6 +226,8 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Replace remerkleable with eth-ssz-specs (#5520)](https://github.com/ethereum/consensus-specs/commit/cf58354d92c43baabb5344d7f6dc2fefdc97dafe) - 2026-08-26
 * [Commit] [Add test for same-pubkey builder deposits after slot reuse (#5571)](https://github.com/ethereum/consensus-specs/commit/a5a1bc630401eedbe2f3d87934c99012578c113b) - 2026-08-26
 * [Commit] [Add more builder onboarding tests (#5569)](https://github.com/ethereum/consensus-specs/commit/0cb32b1299b7977adb129728459bc766ff202cb8) - 2026-08-26
+* [Review] [Review on: Simplify EIP-8025 execution proof handling](https://github.com/ethereum/consensus-specs/pull/5566#pullrequestreview-5045029838) - 2026-08-27
+* [Pull Request] [Replace mypy with ty](https://github.com/ethereum/consensus-specs/pull/5574) - 2026-08-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

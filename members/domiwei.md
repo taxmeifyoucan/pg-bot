@@ -99,6 +99,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl/sentinel: reject invalid ping and status requests](https://github.com/erigontech/erigon/pull/23579) - 2026-08-26
 * [Review] [Review on: cl/sentinel: reject invalid ping and status requests](https://github.com/erigontech/erigon/pull/23579#pullrequestreview-5032016129) - 2026-08-26
 * [Commit] [execution/commitment: stabilize arena invariant test (#23613)](https://github.com/erigontech/erigon/commit/24c627d6a051785bcad4e7c8f558028df79a7f10) - 2026-08-27
+* [Review] [Review on: cl: reject incomplete GetPayload responses](https://github.com/erigontech/erigon/pull/23575#pullrequestreview-5044491352) - 2026-08-27
+* [Commit] [cl/sentinel: reject invalid ping and status requests (#23579)](https://github.com/erigontech/erigon/commit/edd1bab8d4180e8b0612c8ed202991fe81161cb7) - 2026-08-28
+* [Commit] [cl: validate Fulu cell proof widths (#23578)](https://github.com/erigontech/erigon/commit/d27f8346029c79062624e0bd2da0360f9418795e) - 2026-08-27
 ## Q2 2026
 
 

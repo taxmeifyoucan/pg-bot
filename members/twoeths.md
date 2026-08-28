@@ -161,6 +161,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Relax notWhileSyncing](https://github.com/ChainSafe/lodestar/issues/9916) - 2026-08-26
 * [Commit] [feat: prepare for epoch boundary reorg (#9915)](https://github.com/ChainSafe/lodestar/commit/aa8303e9a2007f80584d5eb6d914be0bb9012db8) - 2026-08-26
 * [Commit] [feat: tiered pruning of persisted checkpoint states (#9898)](https://github.com/ChainSafe/lodestar/commit/02d2dbea037af3e2c1c7854e3ee001058e2642b8) - 2026-08-26
+* [Pull Request] [feat: enhance UnknownBlockPeerBalancer for gloas](https://github.com/ChainSafe/lodestar/pull/9928) - 2026-08-27
+* [Commit] [fix: feed peer sync meta to UnknownBlockPeerBalancer on subscribeToNetwork (#9924)](https://github.com/ChainSafe/lodestar/commit/e73f1f51653f1916fce6dd6a60eaed4a75e84b74) - 2026-08-27
+* [Commit] [feat: enhance UnknownBlockPeerBalancer for gloas (#9928)](https://github.com/ChainSafe/lodestar/commit/101e2c290d37fe37e1f785d41be56a5d76aec4c9) - 2026-08-27
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

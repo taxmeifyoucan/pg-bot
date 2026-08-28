@@ -578,6 +578,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [rpc: validate log query limit when creating filters](https://github.com/erigontech/erigon/pull/23598) - 2026-08-26
 * [Review] [Review on: cl/sentinel: reject invalid ping and status requests](https://github.com/erigontech/erigon/pull/23579#pullrequestreview-5032356749) - 2026-08-26
 * [Commit] [docs(site): forward-port minimal theme-aware footer from #23070 (#23475)](https://github.com/erigontech/erigon/commit/776a380b1a64486f7839bd9ba7e6a291667c89c8) - 2026-08-26
+* [Pull Request] [cl, execution: update Chiado bootnodes](https://github.com/erigontech/erigon/pull/23632) - 2026-08-27
+* [Pull Request] [[r3.6] p2p/discover: require bond for ping endpoint statements](https://github.com/erigontech/erigon/pull/23639) - 2026-08-28
+* [Review] [Review on: rpc/jsonrpc, docs: report base fee sub-pool transactions as pending](https://github.com/erigontech/erigon/pull/23624#pullrequestreview-5040590598) - 2026-08-27
+* [Review] [Review on: cl: reject incomplete GetPayload responses](https://github.com/erigontech/erigon/pull/23575#pullrequestreview-5039951881) - 2026-08-27
+* [Pull Request] [p2p/discover: require bond for ping endpoint statements](https://github.com/erigontech/erigon/pull/23609) - 2026-08-28
+* [Issue] [execution, db: bind StateCache and BranchCache to explicit state views](https://github.com/erigontech/erigon/issues/23641) - 2026-08-28
+* [Commit] [p2p/discover: require bond for ping endpoint statements (#23609)](https://github.com/erigontech/erigon/commit/c785adb7e1974c936a8d56786cb74026d4ec36c4) - 2026-08-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

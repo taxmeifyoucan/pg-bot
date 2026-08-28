@@ -64,6 +64,10 @@ Team: Grandine
 * [Issue] [Fix glamsterdam-devnet-8 branch build](https://github.com/grandinetech/grandine/issues/862) - 2026-08-21
 * [Issue] [Investigate Glamsterdam devnet 8 missing blocks](https://github.com/grandinetech/grandine/issues/861) - 2026-08-21
 * [Review] [Review on: Key attestation packer candidates by committee, not AttestationData alone](https://github.com/grandinetech/grandine/pull/865#pullrequestreview-5028297438) - 2026-08-26
+* [Commit] [Add cargo audit ignore](https://github.com/grandinetech/grandine/commit/507de8bf9774442e833bfb330b4188a77776cc93) - 2026-08-27
+* [Commit] [Update some dependencies](https://github.com/grandinetech/grandine/commit/506616fe687d6d7f8d67d1038deadef6f8efc23e) - 2026-08-27
+* [Commit] [Update `grandine-snapshot-tests`](https://github.com/grandinetech/grandine/commit/b12b01aad8e602b71aebb2b417bd0ab5f69e2022) - 2026-08-27
+* [Commit] [Updated SSZ spec runner](https://github.com/grandinetech/grandine/commit/41694cd9dfbc9c3b1998f58c432fbed40474a24b) - 2026-08-27
 ## Q2 2026
 
 

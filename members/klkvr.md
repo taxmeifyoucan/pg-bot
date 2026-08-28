@@ -58,6 +58,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [feat(download): expose prepared snapshot context](https://github.com/paradigmxyz/reth/pull/26777) - 2026-08-21
 * [Commit] [feat(download): expose prepared snapshot context (#26777)](https://github.com/paradigmxyz/reth/commit/d892c93b3abf15b7573ca600124024258cf888ec) - 2026-08-21
 * [Review] [Review on: fix(engine): validate BALs for downloaded blocks](https://github.com/paradigmxyz/reth/pull/26831#pullrequestreview-5032940140) - 2026-08-26
+* [Review] [Review on: feat(rpc): use cached BALs to position transaction replay state](https://github.com/paradigmxyz/reth/pull/26835#pullrequestreview-5041275179) - 2026-08-27
+* [Review] [Review on: fix(engine): classify invalid BAL input as malformed](https://github.com/paradigmxyz/reth/pull/26844#pullrequestreview-5040444301) - 2026-08-27
+* [Review] [Review on: fix(engine): separate malformed input from fatal errors](https://github.com/paradigmxyz/reth/pull/26829#pullrequestreview-5039385402) - 2026-08-27
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

@@ -39,6 +39,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: Bonsai archive proofs simple trie](https://github.com/besu-eth/besu/pull/11016#pullrequestreview-4978753227) - 2026-08-20
 * [Review] [Review on: feat(witness): EIP-8025  debug_executionWitness RPC](https://github.com/besu-eth/besu/pull/11034#pullrequestreview-5025579061) - 2026-08-26
 * [Review] [Review on: Amsterdam devnet-8: EIP-2780/8038 gas revisions and fixtures v8.1.1](https://github.com/besu-eth/besu/pull/11140#pullrequestreview-5015024962) - 2026-08-25
+* [Pull Request] [feat(witness): EIP-8025 engine_newPayloadWithWitnessV5](https://github.com/besu-eth/besu/pull/11181) - 2026-08-28
+* [Pull Request] [fix(test): fix post nonce decoding in NonceChange in reference tests](https://github.com/besu-eth/besu/pull/11180) - 2026-08-28
+* [Commit] [fix(test): fix post nonce decoding in NonceChange in reference tests (#11180)](https://github.com/besu-eth/besu/commit/305897eaf3374c9eca5c4c0a3a8c6824c340bf69) - 2026-08-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896055113) - 2026-08-10
 ## Q2 2026

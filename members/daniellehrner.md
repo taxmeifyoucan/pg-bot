@@ -81,6 +81,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: explore(parallel): disable whole-block serial fallback for BAL](https://github.com/besu-eth/besu/pull/11150#pullrequestreview-5028029434) - 2026-08-26
 * [Commit] [Glamsterdam: fixed payload validation edge cases (#11143)](https://github.com/besu-eth/besu/commit/fdf1247c6d6431f0325a123ada37086ded17ce7e) - 2026-08-26
 * [Commit] [referencetests: engine fixture spec and devnet transition-fork schedules (#11029)](https://github.com/besu-eth/besu/commit/82464453c2100afe2f53b50521fa5e9dca723559) - 2026-08-26
+* [Pull Request] [Fix incorrect SYNCING response from engine_newPayload after startup](https://github.com/besu-eth/besu/pull/11168) - 2026-08-28
+* [Pull Request] [Fix flaky DefaultP2PNetworkTest.checkMaintainedConnectionPeers_connectedPeer](https://github.com/besu-eth/besu/pull/11183) - 2026-08-28
+* [Pull Request] [Treat engine API uint64 timestamps as unsigned](https://github.com/besu-eth/besu/pull/11176) - 2026-08-27
+* [Commit] [Fix incorrect SYNCING response from engine_newPayload after startup (#11168)](https://github.com/besu-eth/besu/commit/aec57825f44bb3adbcff50b8cd5005833d382240) - 2026-08-28
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

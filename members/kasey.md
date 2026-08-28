@@ -44,6 +44,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey)
 * [Commit] [Move Gloas spec tests into their own packages (#17309)](https://github.com/OffchainLabs/prysm/commit/2c6415258da2dff4c076a09e02c758ddbf332d46) - 2026-08-24
 * [Pull Request] [Enforce ProgressiveList limits defined on STF during unmarshal](https://github.com/OffchainLabs/prysm/pull/17412) - 2026-08-25
 * [Review] [Review on: spectest alpha 12 compliance (spec pin bump and assorted fix commits)](https://github.com/OffchainLabs/prysm/pull/17310#pullrequestreview-5034479556) - 2026-08-26
+* [Commit] [spectest alpha 12 compliance (spec pin bump and assorted fix commits) (#17310)](https://github.com/OffchainLabs/prysm/commit/7b039cee1a3790635a28eb5a82f5242fb5c57a4f) - 2026-08-27
 ## Q2 2026
 
 

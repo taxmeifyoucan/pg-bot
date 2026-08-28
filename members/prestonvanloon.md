@@ -72,6 +72,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: `getHeader`: Allow a user defined timeout value with the `--builder-header-timeout` flag](https://github.com/OffchainLabs/prysm/pull/17283#pullrequestreview-4918155499) - 2026-08-12
 * [Review] [Review on: Explicitly set bid fields when upgrading to Gloas](https://github.com/OffchainLabs/prysm/pull/17380#pullrequestreview-4974220765) - 2026-08-19
 * [Review] [Review on: Remove Bazel: Phase 4/9](https://github.com/OffchainLabs/prysm/pull/17296#pullrequestreview-5012275144) - 2026-08-24
+* [Pull Request] [Update CODEOWNERS](https://github.com/OffchainLabs/prysm/pull/17420) - 2026-08-27
+* [Commit] [Update CODEOWNERS (#17420)](https://github.com/OffchainLabs/prysm/commit/43cc3c82c009cd401676152013c41c9497ca175e) - 2026-08-27
 ## Q2 2026
 
 

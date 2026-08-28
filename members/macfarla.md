@@ -225,6 +225,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [fix: testing_buildBlockV1 gas limit one-step decrement when no targetGasLimit supplied (#11166)](https://github.com/besu-eth/besu/commit/7c0a0761ebd5c1a12013528db5eaefffd044bd11) - 2026-08-27
 * [Commit] [fix(acceptance-tests): use ephemeral ports for BFT nodes (#11020)](https://github.com/besu-eth/besu/commit/37b34eb5abcdd3fa5c14a3944c5b454296c4d73f) - 2026-08-27
 * [Commit] [fix: guard worldStateArchive.getWorldState() against unexpected exceptions in txpool code-delegation reconciliation (#11130)](https://github.com/besu-eth/besu/commit/5487b66d0830e5a12349e80a80c59178812a596c) - 2026-08-26
+* [Review] [Review on: return INVALID for undecodable blockAccessList](https://github.com/besu-eth/besu/pull/11177#pullrequestreview-5048547245) - 2026-08-28
+* [Review] [Review on: fix: debug_traceCall accepts block hash as block parameter](https://github.com/besu-eth/besu/pull/11169#pullrequestreview-5048485555) - 2026-08-28
+* [Review] [Review on: eth_estimateGas: return exact gas for plain value transfers](https://github.com/besu-eth/besu/pull/11178#pullrequestreview-5048454951) - 2026-08-28
+* [Review] [Review on: fix(test): fix post nonce decoding in NonceChange in reference tests](https://github.com/besu-eth/besu/pull/11180#pullrequestreview-5047954414) - 2026-08-28
+* [Pull Request] [remove totalDifficulty from all block results](https://github.com/besu-eth/besu/pull/11179) - 2026-08-28
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

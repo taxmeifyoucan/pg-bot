@@ -57,6 +57,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Refactor `ExecutionPayloadBidManager`](https://github.com/Consensys/teku/pull/11179#pullrequestreview-5033217753) - 2026-08-26
 * [Review] [Review on: Implement GET `/eth/v1/validator/execution_payload_envelope/...`](https://github.com/Consensys/teku/pull/11172#pullrequestreview-5028998642) - 2026-08-26
 * [Commit] [Implement GET `/eth/v1/validator/execution_payload_envelope/...` (#11172)](https://github.com/Consensys/teku/commit/c8705442aa2f5e2acc9f824cf188e172c23a1537) - 2026-08-26
+* [Review] [Review on: Hedge slow requests in SimpleSidecarRetriever](https://github.com/Consensys/teku/pull/11011#pullrequestreview-5041868565) - 2026-08-27
+* [Commit] [Refactor `ExecutionPayloadBidManager` (#11179)](https://github.com/Consensys/teku/commit/75e39eb295b81a1e4a1be53ea0a560515c2d6517) - 2026-08-27
 ## Q2 2026
 
 

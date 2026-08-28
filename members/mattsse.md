@@ -405,6 +405,28 @@ Team: Reth
 * [Commit] [fix(engine): validate BALs for downloaded blocks (#26831)](https://github.com/paradigmxyz/reth/commit/24f7cd94b06421d375b8cfe27b45a8a86d107b56) - 2026-08-26
 * [Commit] [feat(net): advertise eth/70 and eth/71 by default (#26824)](https://github.com/paradigmxyz/reth/commit/4523fb457e985682fc7037f138ef5ca17b275310) - 2026-08-26
 * [Commit] [fix(exex): support sparse WAL file IDs (#26819)](https://github.com/paradigmxyz/reth/commit/8a8163e718f0d525bd731e6f22f16e4b0de31408) - 2026-08-26
+* [Pull Request] [refactor(rpc): narrow state cache provider requirements](https://github.com/paradigmxyz/reth/pull/26849) - 2026-08-27
+* [Pull Request] [refactor(rpc): simplify helper trait composition](https://github.com/paradigmxyz/reth/pull/26850) - 2026-08-27
+* [Review] [Review on: feat(engine): fetch BALs for downloaded blocks](https://github.com/paradigmxyz/reth/pull/26823#pullrequestreview-5040850076) - 2026-08-27
+* [Pull Request] [fix(overlay): discard execution-local account IDs](https://github.com/paradigmxyz/reth/pull/26848) - 2026-08-27
+* [Pull Request] [feat(rpc): use cached BALs to position transaction replay state](https://github.com/paradigmxyz/reth/pull/26835) - 2026-08-27
+* [Review] [Review on: feat(rpc): use cached BALs to position transaction replay state](https://github.com/paradigmxyz/reth/pull/26835#pullrequestreview-5040400195) - 2026-08-27
+* [Review] [Review on: feat(rpc): use cached BALs to position transaction replay state](https://github.com/paradigmxyz/reth/pull/23734#pullrequestreview-5039678432) - 2026-08-27
+* [Pull Request] [feat: DNM focil-devnet-0](https://github.com/paradigmxyz/reth/pull/26839) - 2026-08-27
+* [Review] [Review on: chore(deps): bump revm to 43.0.0](https://github.com/paradigmxyz/reth/pull/26830#pullrequestreview-5040965023) - 2026-08-27
+* [Review] [Review on: feat(downloader): add authenticated snap storage ranges](https://github.com/paradigmxyz/reth/pull/26814#pullrequestreview-5039661125) - 2026-08-27
+* [Pull Request] [fix(engine): classify invalid BAL input as malformed](https://github.com/paradigmxyz/reth/pull/26844) - 2026-08-27
+* [Pull Request] [fix(net): bound block access list response decoding](https://github.com/paradigmxyz/reth/pull/26841) - 2026-08-27
+* [Pull Request] [refactor(rpc): remove state provider wrapper](https://github.com/paradigmxyz/reth/pull/26837) - 2026-08-27
+* [Review] [Review on: fix(engine): separate malformed input from fatal errors](https://github.com/paradigmxyz/reth/pull/26829#pullrequestreview-5039488702) - 2026-08-27
+* [Pull Request] [refactor(rpc): remove dead header cache](https://github.com/paradigmxyz/reth/pull/26836) - 2026-08-27
+* [Review] [Review on: feat: focil devnet 0](https://github.com/paradigmxyz/reth/pull/26778#pullrequestreview-5039884099) - 2026-08-27
+* [Review] [Review on: fix(engine): base persistence threshold on in-memory chain](https://github.com/paradigmxyz/reth/pull/26827#pullrequestreview-5039435761) - 2026-08-27
+* [Commit] [feat(rpc): use cached BALs to position transaction replay state (#26835)](https://github.com/paradigmxyz/reth/commit/701b5a175a1aada7acb2f914327f481f8ab90a48) - 2026-08-27
+* [Commit] [fix(engine): classify invalid BAL input as malformed (#26844)](https://github.com/paradigmxyz/reth/commit/5ba8e25567b069f181a81677a73f4a6fff73ac8c) - 2026-08-27
+* [Commit] [refactor(rpc): remove state provider wrapper (#26837)](https://github.com/paradigmxyz/reth/commit/4ca70ab669a3474910072d665b13789e9ec6eed0) - 2026-08-27
+* [Commit] [refactor(rpc): remove dead header cache (#26836)](https://github.com/paradigmxyz/reth/commit/b77a6bfd901ad01b6d450e743872f29e9bd8c358) - 2026-08-27
+* [Commit] [fix(engine): separate malformed input from fatal errors (#26829)](https://github.com/paradigmxyz/reth/commit/e5094e1d68878a4d8bb9baefb96c1344c1435aa7) - 2026-08-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -425,6 +447,7 @@ Team: Reth
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [feat(interpreter): add delegate scheme helper](https://github.com/bluealloy/revm/pull/3883) - 2026-08-26
 
+* [Pull Request] [feat(database): support state overrides with BAL reads](https://github.com/bluealloy/revm/pull/3885) - 2026-08-27
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore: fix Clippy warnings](https://github.com/paradigmxyz/revmc/pull/411) - 2026-08-26
 * [Commit] [chore: fix Clippy warnings (#411)](https://github.com/paradigmxyz/revmc/commit/58e57c76c3d0658305dfee3b67178e36b74a4cce) - 2026-08-26

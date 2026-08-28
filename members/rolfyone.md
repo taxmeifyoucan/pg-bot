@@ -168,6 +168,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Other sync improvements](https://github.com/Consensys/teku/pull/11162#pullrequestreview-5034857487) - 2026-08-26
 * [Review] [Review on: Implement GET `/eth/v1/validator/execution_payload_envelope/...`](https://github.com/Consensys/teku/pull/11172#pullrequestreview-5028921442) - 2026-08-26
 * [Issue] [Strict loading of slashing protection data](https://github.com/Consensys/teku/issues/11181) - 2026-08-26
+* [Review] [Review on: Update contribution guidelines for pull requests](https://github.com/Consensys/teku/pull/11188#pullrequestreview-5048131757) - 2026-08-28
+* [Review] [Review on: Log dropped gossip RPC parts as expected peer churn, not an error](https://github.com/Consensys/teku/pull/11189#pullrequestreview-5048075502) - 2026-08-28
+* [Review] [Review on: Remote validator client: use v2 proposer duties endpoint from Fulu](https://github.com/Consensys/teku/pull/11164#pullrequestreview-5044694509) - 2026-08-27
+* [Review] [Review on: Enforce StrictNoSign key field in GossipWireValidator](https://github.com/Consensys/teku/pull/11185#pullrequestreview-5045809407) - 2026-08-27
+* [Issue] [change ephemery network loading to new standard locations](https://github.com/Consensys/teku/issues/11187) - 2026-08-27
+* [Commit] [Remote validator client: use v2 proposer duties endpoint from Fulu (#11164)](https://github.com/Consensys/teku/commit/4edec7fd59675daa71bfb3f5a179b1531811737f) - 2026-08-28
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

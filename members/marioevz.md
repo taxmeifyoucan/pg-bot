@@ -121,6 +121,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(tests): clear rlp_modifier when building inclusion-list variants](https://github.com/ethereum/execution-specs/pull/3406#pullrequestreview-5034804195) - 2026-08-26
 * [Issue] [feat: new test spec type, fixture format and consume simulator for `engine_getInclusionListV1` (EIP-7805)](https://github.com/ethereum/execution-specs/issues/3456) - 2026-08-26
 * [Commit] [feat(test-fill): Optimistic grouping flag (#3390)](https://github.com/ethereum/execution-specs/commit/abbe05777ab83fb94ce18c425daaa7ab79e779c1) - 2026-08-27
+* [Review] [Review on: feat(test-vm): implement placeholder for bytecode](https://github.com/ethereum/execution-specs/pull/2103#pullrequestreview-5045685739) - 2026-08-27
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

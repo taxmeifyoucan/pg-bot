@@ -32,6 +32,10 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Pull Request] [ci: give each sync network its own create/sync/teardown lifecycle](https://github.com/NethermindEth/nethermind/pull/12936) - 2026-08-20
 * [Review] [Review on: ci: give each sync network its own create/sync/teardown lifecycle](https://github.com/NethermindEth/nethermind/pull/12936#pullrequestreview-4984447685) - 2026-08-20
 * [Review] [Review on: ci(bench): stop auto-triggering RPC benchmarks on 'performance is good', shorten the corpus warm-up](https://github.com/NethermindEth/nethermind/pull/12949#pullrequestreview-4994970720) - 2026-08-21
+* [Pull Request] [ci: run gas benchmarks on a GCP spot runner](https://github.com/NethermindEth/nethermind/pull/13013) - 2026-08-27
+* [Review] [Review on: ci: run gas benchmarks on a GCP spot runner](https://github.com/NethermindEth/nethermind/pull/13013#pullrequestreview-5042673740) - 2026-08-27
+* [Pull Request] [ci: send GCP machine types to the smoke-test dispatches](https://github.com/NethermindEth/nethermind/pull/13014) - 2026-08-27
+* [Review] [Review on: ci: send GCP machine types to the smoke-test dispatches](https://github.com/NethermindEth/nethermind/pull/13014#pullrequestreview-5042674915) - 2026-08-27
 ## Q2 2026
 
 

@@ -179,6 +179,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Commit] [stateless by default on multinode (#17390)](https://github.com/OffchainLabs/prysm/commit/255ff0688d61e22a5f0b35ffd906d571c3047949) - 2026-08-25
 * [Review] [Review on: builder beacon apis for gloas](https://github.com/OffchainLabs/prysm/pull/17392#pullrequestreview-5032890052) - 2026-08-26
 * [Review] [Review on: fixing builder preference push frequency](https://github.com/OffchainLabs/prysm/pull/17386#pullrequestreview-5031466084) - 2026-08-26
+* [Review] [Review on: Extract shared indexed-list decoders for beacon REST handlers](https://github.com/OffchainLabs/prysm/pull/17399#pullrequestreview-5047392773) - 2026-08-28
+* [Review] [Review on: Pluralize `POST /eth/v1/builder/beacon_blocks` for builder client](https://github.com/OffchainLabs/prysm/pull/17417#pullrequestreview-5047332542) - 2026-08-28
+* [Review] [Review on: Release the read lock when no-keys early return for Keymanager `DeletePublicKeys` path](https://github.com/OffchainLabs/prysm/pull/17319#pullrequestreview-5047305917) - 2026-08-28
+* [Review] [Review on: hooking up validator client to builder apis for gloas ](https://github.com/OffchainLabs/prysm/pull/17397#pullrequestreview-5042867380) - 2026-08-27
+* [Pull Request] [fix web3signer account changes with debounce](https://github.com/OffchainLabs/prysm/pull/17421) - 2026-08-27
+* [Review] [Review on: Add `--submit-blacklisted-builder-bids` feature flag](https://github.com/OffchainLabs/prysm/pull/17419#pullrequestreview-5041804887) - 2026-08-27
+* [Commit] [builder beacon apis for gloas (#17392)](https://github.com/OffchainLabs/prysm/commit/393e9b3c8c7b58bee90da9ae03d0f89988427afb) - 2026-08-28
+* [Commit] [fixing builder preference push frequency (#17386)](https://github.com/OffchainLabs/prysm/commit/65b2b56367e3f70b5b14cdf30e1ea4da5665dc2e) - 2026-08-27
 ## Q2 2026
 
 

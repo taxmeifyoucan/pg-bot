@@ -135,6 +135,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Pull Request] [refactor(tests): enhance EIP-8037 test coverage part 2](https://github.com/ethereum/execution-specs/pull/3449) - 2026-08-26
 * [Review] [Review on: refactor(test-benchmark): tidy SSTORE storage benchmark](https://github.com/ethereum/execution-specs/pull/3442#pullrequestreview-5030368987) - 2026-08-26
 * [Commit] [refactor(tests): EIP-8037 test gas calculation logic and post state verification (#3383)](https://github.com/ethereum/execution-specs/commit/50f3df9ece9b3c448146c39e08dfadeaf21c7351) - 2026-08-26
+* [Pull Request] [feat(test-vm): implement placeholder for bytecode](https://github.com/ethereum/execution-specs/pull/2103) - 2026-08-27
+* [Commit] [feat(test-vm): implement placeholder for bytecode (#2103)](https://github.com/ethereum/execution-specs/commit/4add50378c9de7950f878676eada5819fbe80922) - 2026-08-27
 ## Q2 2026
 
 

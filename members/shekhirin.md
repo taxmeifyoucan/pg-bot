@@ -63,6 +63,8 @@ Team: Reth
 * [Review] [Review on: feat(txpool): add consensus encoding helper](https://github.com/paradigmxyz/reth/pull/26739#pullrequestreview-5007471222) - 2026-08-24
 * [Review] [Review on: feat(net): advertise eth/70 and eth/71 by default](https://github.com/paradigmxyz/reth/pull/26824#pullrequestreview-5032426541) - 2026-08-26
 * [Review] [Review on: fix(exex): support sparse WAL file IDs](https://github.com/paradigmxyz/reth/pull/26819#pullrequestreview-5029496848) - 2026-08-26
+* [Review] [Review on: refactor(rpc): remove state provider wrapper](https://github.com/paradigmxyz/reth/pull/26837#pullrequestreview-5040101564) - 2026-08-27
+* [Review] [Review on: refactor(rpc): remove dead header cache](https://github.com/paradigmxyz/reth/pull/26836#pullrequestreview-5040045054) - 2026-08-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

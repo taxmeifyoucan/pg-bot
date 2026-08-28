@@ -272,6 +272,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Pull Request] [Support ENR bootnodes in discv4](https://github.com/NethermindEth/nethermind/pull/12992) - 2026-08-26
 * [Commit] [Use a conservative block-body transaction count limit (#12990)](https://github.com/NethermindEth/nethermind/commit/b92e2a471919a0b649d586c217c71b1c7f0ce054) - 2026-08-26
 * [Commit] [Add sparse blob pool (#11094)](https://github.com/NethermindEth/nethermind/commit/fff2a3fbde6b9dfc52e76d6ac538a8f9c3f3a4fa) - 2026-08-26
+* [Review] [Review on: ci: send GCP machine types to the smoke-test dispatches](https://github.com/NethermindEth/nethermind/pull/13014#pullrequestreview-5045643425) - 2026-08-27
+* [Pull Request] [Preserve RIPEMD touch across nested reverts](https://github.com/NethermindEth/nethermind/pull/13016) - 2026-08-27
+* [Review] [Review on: chore(ci): enable stateless tests for glamsterdam devnet-8](https://github.com/NethermindEth/nethermind/pull/13015#pullrequestreview-5043791918) - 2026-08-27
+* [Review] [Review on: Return INVALID for a malformed block access list envelope](https://github.com/NethermindEth/nethermind/pull/13012#pullrequestreview-5043250138) - 2026-08-27
+* [Review] [Review on: Enable dual-stack RLPx and discv4/discv5 listeners](https://github.com/NethermindEth/nethermind/pull/12982#pullrequestreview-5042059066) - 2026-08-27
+* [Commit] [Fix RLPx/Snappy frame decoding correctness and DoS issues (#12896)](https://github.com/NethermindEth/nethermind/commit/8476e9f4339af4f3765e84ded7bf5e6aebe10247) - 2026-08-27
+* [Commit] [Remove EIP-7610 support (#12935)](https://github.com/NethermindEth/nethermind/commit/7a63aa02da9c5f261fe87cec7fbac1fe2fabcf74) - 2026-08-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

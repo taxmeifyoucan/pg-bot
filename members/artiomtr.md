@@ -19,6 +19,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Upgrade Nethermind plugin to 1.39.1 version](https://github.com/grandinetech/grandine/commit/38ec6e3bf3b5d5c1f8293b3543a31faf00f96551) - 2026-07-21
 * [Commit] [Fix nethermind plugin clean build](https://github.com/grandinetech/grandine/commit/7016cd6958c245b67fa90179789fa229ca6452a9) - 2026-07-21
 * [Pull Request] [Exclude bindings from windows CI run](https://github.com/grandinetech/grandine/pull/834) - 2026-07-29
+* [Review] [Review on: Updated SSZ spec runner](https://github.com/grandinetech/grandine/pull/858#pullrequestreview-5038956821) - 2026-08-27
 ## Q2 2026
 
 

@@ -235,6 +235,13 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(state): unswitch tracing branches in commit loops (#12998)](https://github.com/NethermindEth/nethermind/commit/1722f3f3b4f121f7b691178da15d2ec5336d68e1) - 2026-08-26
 * [Commit] [perf(db): single-call RocksDB point reads via rocksdb_get_into_buffer (#12986)](https://github.com/NethermindEth/nethermind/commit/627f27c1c7739ba02c6595c0d83ff9d9ad3516a0) - 2026-08-26
 * [Commit] [Kute: replay captured JSON-RPC traces across a concurrency sweep (#12985)](https://github.com/NethermindEth/nethermind/commit/a8d2e58ade940cbdc09b10958240cb5fc7a2dc6d) - 2026-08-26
+* [Review] [Review on: feat(xdc): add the missing XDC eth-namespace endpoints](https://github.com/NethermindEth/nethermind/pull/12950#pullrequestreview-5043935729) - 2026-08-27
+* [Review] [Review on: fix(discovery): handle shutdown cancellation in CallAndWaitForResponse](https://github.com/NethermindEth/nethermind/pull/12248#pullrequestreview-5043795816) - 2026-08-27
+* [Review] [Review on: Return INVALID for a malformed block access list envelope](https://github.com/NethermindEth/nethermind/pull/13012#pullrequestreview-5043213985) - 2026-08-27
+* [Pull Request] [Fix peer update timer shutdown race](https://github.com/NethermindEth/nethermind/pull/13010) - 2026-08-27
+* [Review] [Review on: Fix peer update timer shutdown race](https://github.com/NethermindEth/nethermind/pull/13010#pullrequestreview-5041004244) - 2026-08-27
+* [Commit] [Fix peer update timer shutdown race (#13010)](https://github.com/NethermindEth/nethermind/commit/ce889caade699931fee82bc774c3c5d0ee9ffcb0) - 2026-08-27
+* [Commit] [Fix simulation head reset during deferred block persistence (#13003)](https://github.com/NethermindEth/nethermind/commit/6315b402f61969accf2fa21e6b41ede7b7b16166) - 2026-08-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
@@ -245,6 +252,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653198356) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653197195) - 2026-07-08
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine: return INVALID for undecodable blockAccessList](https://github.com/ethereum/execution-apis/pull/869#pullrequestreview-5043226331) - 2026-08-27
 ## Q2 2026
 
 

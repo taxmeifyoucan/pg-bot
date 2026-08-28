@@ -106,6 +106,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Other sync improvements](https://github.com/Consensys/teku/pull/11162#pullrequestreview-5029133362) - 2026-08-26
 * [Commit] [Pruning improvements + long pruning warning (#11171)](https://github.com/Consensys/teku/commit/9638d1b62e24ac77ef23ae2fe976bca6c2baccd2) - 2026-08-26
 * [Commit] [Last parts of FCR (#11157)](https://github.com/Consensys/teku/commit/3de866b1c2ba7e4c7ff53a4413d0c4361f984bfe) - 2026-08-26
+* [Review] [Review on: Remote validator client: use v2 proposer duties endpoint from Fulu](https://github.com/Consensys/teku/pull/11164#pullrequestreview-5043237845) - 2026-08-27
+* [Pull Request] [Follow headV2 event spec: new emit on payload status change, no new emit for headV1](https://github.com/Consensys/teku/pull/11184) - 2026-08-27
+* [Pull Request] [1/2 sidecars storage on supernodes: RPC logging + more RPC tests](https://github.com/Consensys/teku/pull/11183) - 2026-08-27
+* [Review] [Review on: Hedge slow requests in SimpleSidecarRetriever](https://github.com/Consensys/teku/pull/11011#pullrequestreview-5041296670) - 2026-08-27
+* [Commit] [Hedge slow requests in SimpleSidecarRetriever (#11011)](https://github.com/Consensys/teku/commit/5d09359c707ef5ade32401c3db8a187fabcc084d) - 2026-08-27
+* [Commit] [Other sync improvements (#11162)](https://github.com/Consensys/teku/commit/04b5c526a9722d7fb4d62fb17bc8874369dc5caf) - 2026-08-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

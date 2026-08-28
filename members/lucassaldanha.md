@@ -22,6 +22,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Bound the per-peer pending outbound RPC parts queue by default (#518)](https://github.com/libp2p/jvm-libp2p/commit/e3c338c04aa8ab04946447175d84c04ce7f2cfef) - 2026-08-13
 * [Review] [Review on: Release 1.3.6](https://github.com/libp2p/jvm-libp2p/pull/520#pullrequestreview-4968347271) - 2026-08-19
 * [Pull Request] [Bound control-plane size of inbound and outbound pubsub RPCs](https://github.com/libp2p/jvm-libp2p/pull/521) - 2026-08-26
+* [Review] [Review on: Bound control-plane size of inbound and outbound pubsub RPCs](https://github.com/libp2p/jvm-libp2p/pull/521#pullrequestreview-5047176336) - 2026-08-28
+* [Issue] [gossipsub StrictNoSign check omits the key field → Teku relays the forbidden bytes](https://github.com/libp2p/jvm-libp2p/issues/522) - 2026-08-27
+* [Commit] [Update .gitignore to include .claude directory](https://github.com/libp2p/jvm-libp2p/commit/d0a6cd8db657e865fba2dfd3cd594139c13e5cea) - 2026-08-28
+* [Commit] [Merge pull request #521 from lucassaldanha/bound--control-bytes](https://github.com/libp2p/jvm-libp2p/commit/95ea259ae1353556911340395189207a3e8d1172) - 2026-08-28
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28
@@ -111,6 +115,14 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Enable aircompressor-v3 by default for gossip and RPC snappy encoding](https://github.com/Consensys/teku/issues/11166) - 2026-08-25
 * [Issue] [Remove snappy-java dependency and experimental aircompressor flags](https://github.com/Consensys/teku/issues/11165) - 2026-08-25
 * [Commit] [Enable aircompressor-v3 by default for gossip and RPC snappy encoding (#11167)](https://github.com/Consensys/teku/commit/28adab3d3851a421bd6d59ed28d3c1ea0739261b) - 2026-08-25
+* [Pull Request] [Update contribution guidelines for pull requests](https://github.com/Consensys/teku/pull/11188) - 2026-08-28
+* [Pull Request] [Log dropped gossip RPC parts as expected peer churn, not an error](https://github.com/Consensys/teku/pull/11189) - 2026-08-28
+* [Review] [Review on: Log dropped gossip RPC parts as expected peer churn, not an error](https://github.com/Consensys/teku/pull/11189#pullrequestreview-5047901297) - 2026-08-28
+* [Review] [Review on: Remote validator client: use v2 proposer duties endpoint from Fulu](https://github.com/Consensys/teku/pull/11164#pullrequestreview-5046457284) - 2026-08-27
+* [Pull Request] [Enforce StrictNoSign key field in GossipWireValidator](https://github.com/Consensys/teku/pull/11185) - 2026-08-27
+* [Issue] [gossipsub StrictNoSign check omits the key field and Teku relays the invalid message](https://github.com/Consensys/teku/issues/11186) - 2026-08-27
+* [Commit] [Log dropped gossip RPC parts as expected peer churn, not an error (#11189)](https://github.com/Consensys/teku/commit/23ba04bb6a8af8e7405b64505a44c4acbdc145cd) - 2026-08-28
+* [Commit] [Enforce StrictNoSign key field in GossipWireValidator (#11185)](https://github.com/Consensys/teku/commit/51f69f83abd19890269eff0d4b6eddb17d7b33d6) - 2026-08-27
 ## Q2 2026
 
 

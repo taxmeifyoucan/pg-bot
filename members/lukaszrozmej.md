@@ -219,6 +219,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: Use a conservative block-body transaction count limit](https://github.com/NethermindEth/nethermind/pull/12990#pullrequestreview-5031621471) - 2026-08-26
 * [Review] [Review on: perf: streamline hot-path loops and collection updates](https://github.com/NethermindEth/nethermind/pull/13000#pullrequestreview-5035799994) - 2026-08-26
 * [Review] [Review on: Support ENR bootnodes in discv4](https://github.com/NethermindEth/nethermind/pull/12992#pullrequestreview-5035808785) - 2026-08-26
+* [Review] [Review on: chore(ci): enable stateless tests for glamsterdam devnet-8](https://github.com/NethermindEth/nethermind/pull/13015#pullrequestreview-5044368109) - 2026-08-27
+* [Pull Request] [fix(eth72): restore announced cell mask and stop charging local backpressure to peers](https://github.com/NethermindEth/nethermind/pull/13007) - 2026-08-27
+* [Review] [Review on: fix(eth72): restore announced cell mask and stop charging local backpressure to peers](https://github.com/NethermindEth/nethermind/pull/13007#pullrequestreview-5039241831) - 2026-08-27
+* [Commit] [fix(eth72): restore announced cell mask and stop charging local backpressure to peers (#13007)](https://github.com/NethermindEth/nethermind/commit/be3a9760554b4029078609b093263118010ca85e) - 2026-08-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

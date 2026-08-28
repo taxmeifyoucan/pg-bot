@@ -61,6 +61,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [chore: fix clippy for Rust 1.98](https://github.com/bluealloy/revm/pull/3884) - 2026-08-26
 * [Pull Request] [chore: release v116](https://github.com/bluealloy/revm/pull/3882) - 2026-08-26
 * [Commit] [chore: release v116 (#3882)](https://github.com/bluealloy/revm/commit/08c17c1629385a59902324409ed5167dbd1d1963) - 2026-08-26
+* [Commit] [chore: fix clippy for Rust 1.98 (#3884)](https://github.com/bluealloy/revm/commit/8ca4052d2ecae40050dad8360e87e7214e510a70) - 2026-08-27
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02

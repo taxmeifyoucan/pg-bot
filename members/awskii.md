@@ -388,6 +388,17 @@ Team: Erigon
 * [Commit] [db/integrity: report a truncated commitment file as referencing, and count cache-skipped files (#23614)](https://github.com/erigontech/erigon/commit/645873b13983c8884fe300af50a028f7dec93594) - 2026-08-27
 * [Commit] [db/integrity: make CommitmentKvDeref report the keys it scanned (#23597)](https://github.com/erigontech/erigon/commit/758cfd647035a6c1282967a17d184806f032625a) - 2026-08-26
 * [Commit] [execution/commitment: make commit_* metrics report real numbers (#23588)](https://github.com/erigontech/erigon/commit/1ada42f0e8e7d23cf537628e60cf44d3ff1a2b75) - 2026-08-26
+* [Review] [Review on: [r3.6] db/downloader: keep local snapshot data once the initial download is complete](https://github.com/erigontech/erigon/pull/23446#pullrequestreview-5047797431) - 2026-08-28
+* [Review] [Review on: execution/state: skip the self-destruct storage walk when the address has no account](https://github.com/erigontech/erigon/pull/23604#pullrequestreview-5047813461) - 2026-08-28
+* [Review] [Review on: db/etl: move entry index inside chunk, so Put never re-alloc](https://github.com/erigontech/erigon/pull/23599#pullrequestreview-5047797254) - 2026-08-28
+* [Review] [Review on: db/etl: read a buffer with Next instead of Get(i)](https://github.com/erigontech/erigon/pull/23621#pullrequestreview-5047797101) - 2026-08-28
+* [Pull Request] [execution/tests, genesiswrite: pin the EIP-7610 storage-only CREATE2 collision](https://github.com/erigontech/erigon/pull/23600) - 2026-08-28
+* [Review] [Review on: commitment: catch cases when parallel commitment not enabled](https://github.com/erigontech/erigon/pull/23596#pullrequestreview-5047798835) - 2026-08-28
+* [Review] [Review on: tools: bound the 150M-gas EEST shards' heap so they stop OOMing the runner](https://github.com/erigontech/erigon/pull/23638#pullrequestreview-5048362083) - 2026-08-28
+* [Commit] [execution/commitment: reuse branch buffers instead of cloning every read (#23617)](https://github.com/erigontech/erigon/commit/22aba2a52f4b3c431e1d8f8f499e3a0231bc4b13) - 2026-08-28
+* [Commit] [db/downloader: bound kept-snapshot seeding and make abandonment observable (#23472)](https://github.com/erigontech/erigon/commit/d152aa603f58cd55574400f96d9670950c4f1d0e) - 2026-08-28
+* [Commit] [execution/tests, genesiswrite: pin the EIP-7610 storage-only CREATE2 collision (#23600)](https://github.com/erigontech/erigon/commit/7992c6a571e73f96895dcb6b9bba198f2106a467) - 2026-08-28
+* [Commit] [db/state: derive domain_prunable from the values table's prune progress, not the history keys table (#23622)](https://github.com/erigontech/erigon/commit/aa7165cb6cafc44624b88ef6c9dbbb702ade5810) - 2026-08-27
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

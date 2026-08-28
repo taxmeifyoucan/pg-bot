@@ -36,6 +36,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Review] [Review on: CLI option for snap download headers to checkpoint only](https://github.com/besu-eth/besu/pull/10958#pullrequestreview-4969853809) - 2026-08-19
 * [Review] [Review on: CLI option for snap download headers to checkpoint only](https://github.com/besu-eth/besu/pull/10958#pullrequestreview-5010841370) - 2026-08-24
 * [Review] [Review on: Add EIP-8070 Engine API surface: engine_getBlobsV4 and custodyColumns](https://github.com/besu-eth/besu/pull/11141#pullrequestreview-5012562069) - 2026-08-24
+* [Commit] [CLI option for snap download headers to checkpoint only (#10958)](https://github.com/besu-eth/besu/commit/403c97145912e31242a463d6fd238489168cc347) - 2026-08-28
 ## Q2 2026
 
 

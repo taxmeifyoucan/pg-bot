@@ -1120,6 +1120,28 @@ Team: Erigon
 * [Commit] [db/etl: split the sortable buffer into pooled 1MB chunks (#23518)](https://github.com/erigontech/erigon/commit/103a6b75be5e01905f9c734b6c1fc44a8b3ed25f) - 2026-08-26
 * [Commit] [execution/vm: grow EVM memory in pages, then double (#23526)](https://github.com/erigontech/erigon/commit/1fcbab973cec780069bae0111443a0345911575f) - 2026-08-26
 * [Commit] [rpc: answer with result:null when a streamed method writes nothing (#23574)](https://github.com/erigontech/erigon/commit/842a6aa6d7b9e0c27bd238c9270801432e7b0887) - 2026-08-26
+* [Pull Request] [exec: clear pooled objects (which hold bytecode ptr)](https://github.com/erigontech/erigon/pull/23642) - 2026-08-28
+* [Review] [Review on: execution: warm commitment branches from BAL](https://github.com/erigontech/erigon/pull/23627#pullrequestreview-5049260924) - 2026-08-28
+* [Pull Request] [tools: bound the heap on the 150M-gas EEST shards](https://github.com/erigontech/erigon/pull/23640) - 2026-08-28
+* [Review] [Review on: [r3.6] db/downloader: keep local snapshot data once the initial download is complete](https://github.com/erigontech/erigon/pull/23446#pullrequestreview-5047923753) - 2026-08-28
+* [Review] [Review on: execution/state: skip the self-destruct storage walk when the address has no account](https://github.com/erigontech/erigon/pull/23604#pullrequestreview-5047869184) - 2026-08-28
+* [Review] [Review on: db/etl: read a buffer with Next instead of Get(i)](https://github.com/erigontech/erigon/pull/23621#pullrequestreview-5047851848) - 2026-08-28
+* [Review] [Review on: execution/tests, genesiswrite: pin the EIP-7610 storage-only CREATE2 collision](https://github.com/erigontech/erigon/pull/23600#pullrequestreview-5041502563) - 2026-08-27
+* [Review] [Review on: rpc: use b.Loop in witness cache benchmarks](https://github.com/erigontech/erigon/pull/23634#pullrequestreview-5046740981) - 2026-08-28
+* [Review] [Review on: execution/engineapi: return INVALID for undecodable blockAccessList](https://github.com/erigontech/erigon/pull/23633#pullrequestreview-5047523011) - 2026-08-28
+* [Pull Request] [execution/state: BAL construction is quadratic in slots per account](https://github.com/erigontech/erigon/pull/23637) - 2026-08-28
+* [Review] [Review on: execution/state: BAL construction is quadratic in slots per account](https://github.com/erigontech/erigon/pull/23637#pullrequestreview-5048294145) - 2026-08-28
+* [Review] [Review on: p2p/discover: require bond for ping endpoint statements](https://github.com/erigontech/erigon/pull/23609#pullrequestreview-5047399700) - 2026-08-28
+* [Pull Request] [rpc/jsonstream: recycle streams through a sync.Pool](https://github.com/erigontech/erigon/pull/23636) - 2026-08-28
+* [Review] [Review on: commitment: catch cases when parallel commitment not enabled](https://github.com/erigontech/erigon/pull/23596#pullrequestreview-5047907827) - 2026-08-28
+* [Review] [Review on: ci: skip the QA and Kurtosis GLOAS suites on docs-only PRs](https://github.com/erigontech/erigon/pull/23626#pullrequestreview-5046805499) - 2026-08-28
+* [Review] [Review on: execution/commitment: reuse branch buffers instead of cloning every read](https://github.com/erigontech/erigon/pull/23617#pullrequestreview-5041349656) - 2026-08-27
+* [Pull Request] [tools: bound the 150M-gas EEST shards' heap so they stop OOMing the runner](https://github.com/erigontech/erigon/pull/23638) - 2026-08-28
+* [Review] [Review on: execution: support long reorgs in non-finality](https://github.com/erigontech/erigon/pull/23612#pullrequestreview-5041378430) - 2026-08-27
+* [Pull Request] [execution/tracing: separate a structLog by steps written, not by the prologue](https://github.com/erigontech/erigon/pull/23635) - 2026-08-28
+* [Commit] [commitment: catch cases when parallel commitment not enabled (#23596)](https://github.com/erigontech/erigon/commit/843ff9e5fb2825d8b44aa35abfe10c080d9f30a9) - 2026-08-28
+* [Commit] [db: drop `changesetMu` contention (#23547)](https://github.com/erigontech/erigon/commit/1ba09c3cde0e0b0ee491d84cd7c9179203f3ab62) - 2026-08-28
+* [Commit] [rpc: `AccessListTracer` only read the stack for opcodes that use it (#23467)](https://github.com/erigontech/erigon/commit/17a366af730f1ab0a72049889d5d63482e02a3af) - 2026-08-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

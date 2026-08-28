@@ -155,6 +155,12 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: fail trace_filter instead of mixing error objects into the result array (#23346)](https://github.com/erigontech/erigon/commit/d8994edae2bad2a61af379f287e04e4f52636969) - 2026-08-25
 * [Review] [Review on: rpc: retry the setup dial in httpTestClient](https://github.com/erigontech/erigon/pull/23580#pullrequestreview-5028701340) - 2026-08-26
 * [Commit] [docs: fix eth_getStorageValues parameters and result shape (#23581)](https://github.com/erigontech/erigon/commit/36cb9547bf891344d29ab2017a3b7a82da98d50e) - 2026-08-26
+* [Pull Request] [rpc/jsonrpc, docs: report base fee sub-pool transactions as pending](https://github.com/erigontech/erigon/pull/23624) - 2026-08-27
+* [Review] [Review on: rpc/jsonrpc, docs: report base fee sub-pool transactions as pending](https://github.com/erigontech/erigon/pull/23624#pullrequestreview-5043620695) - 2026-08-27
+* [Review] [Review on: rpc: `AccessListTracer` only read the stack for opcodes that use it](https://github.com/erigontech/erigon/pull/23467#pullrequestreview-5044974628) - 2026-08-27
+* [Commit] [rpc/jsonrpc: keep trace_call's unrequested trace empty and stop attaching the tracer for stateDiff (#23572)](https://github.com/erigontech/erigon/commit/d0514ffdaea1abb3214f5d2d3ec2af5765b247ee) - 2026-08-27
+* [Commit] [node/shards, db/downloader, execution/stagedsync: snapshot download progress in eth_syncing (#22716)](https://github.com/erigontech/erigon/commit/5dd0b9bd30fa3fa46effa1aef3f0d79b09175e4c) - 2026-08-27
+* [Commit] [execution/tracing, rpc/transactions: fix invalid structLogs JSON and reject a negative limit (#23620)](https://github.com/erigontech/erigon/commit/58de36a839d52dbd85d5ffa6ed668846497d23cb) - 2026-08-27
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

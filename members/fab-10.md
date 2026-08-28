@@ -152,6 +152,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Clamp admin_generateLogBloomCache block bounds to the chain head (#11135)](https://github.com/besu-eth/besu/commit/cfe0499e92483eb364797e63279bec0ab0a2e0c9) - 2026-08-25
 * [Review] [Review on: fix: guard worldStateArchive.getWorldState() against unexpected exceptions in txpool code-delegation reconciliation](https://github.com/besu-eth/besu/pull/11130#pullrequestreview-5030819978) - 2026-08-26
 * [Pull Request] [Focil devnet 0](https://github.com/besu-eth/besu/pull/11165) - 2026-08-26
+* [Pull Request] [Refactor engine_getBlobsV* into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/11174) - 2026-08-27
+* [Review] [Review on: Refactor engine_getBlobsV* into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/11174#pullrequestreview-5049376557) - 2026-08-28
+* [Review] [Review on: Fix incorrect SYNCING response from engine_newPayload after startup](https://github.com/besu-eth/besu/pull/11168#pullrequestreview-5039049764) - 2026-08-27
+* [Review] [Review on: Extract plugin-api-execution module](https://github.com/besu-eth/besu/pull/11172#pullrequestreview-5040464165) - 2026-08-27
+* [Pull Request] [Fix: fail on confirmed blob txs](https://github.com/besu-eth/besu/pull/11171) - 2026-08-27
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 
