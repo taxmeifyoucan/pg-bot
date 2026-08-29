@@ -102,6 +102,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl: reject incomplete GetPayload responses](https://github.com/erigontech/erigon/pull/23575#pullrequestreview-5044491352) - 2026-08-27
 * [Commit] [cl/sentinel: reject invalid ping and status requests (#23579)](https://github.com/erigontech/erigon/commit/edd1bab8d4180e8b0612c8ed202991fe81161cb7) - 2026-08-28
 * [Commit] [cl: validate Fulu cell proof widths (#23578)](https://github.com/erigontech/erigon/commit/d27f8346029c79062624e0bd2da0360f9418795e) - 2026-08-27
+* [Pull Request] [cl: reject incomplete GetPayload responses](https://github.com/erigontech/erigon/pull/23575) - 2026-08-28
+* [Commit] [cl/network: fix blob history backfill boundary and sparse-peer startup (#23138)](https://github.com/erigontech/erigon/commit/b26b8e4f29466e1ea9d37917a4c2b8f85aac58f7) - 2026-08-28
+* [Commit] [cl: reject incomplete GetPayload responses (#23575)](https://github.com/erigontech/erigon/commit/97f3b2e130faf5c2adf898accc226b22e45282fe) - 2026-08-28
 ## Q2 2026
 
 

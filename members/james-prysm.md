@@ -187,6 +187,10 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Add `--submit-blacklisted-builder-bids` feature flag](https://github.com/OffchainLabs/prysm/pull/17419#pullrequestreview-5041804887) - 2026-08-27
 * [Commit] [builder beacon apis for gloas (#17392)](https://github.com/OffchainLabs/prysm/commit/393e9b3c8c7b58bee90da9ae03d0f89988427afb) - 2026-08-28
 * [Commit] [fixing builder preference push frequency (#17386)](https://github.com/OffchainLabs/prysm/commit/65b2b56367e3f70b5b14cdf30e1ea4da5665dc2e) - 2026-08-27
+* [Review] [Review on: Fix data race on the shared err in the REST duties fetch](https://github.com/OffchainLabs/prysm/pull/17422#pullrequestreview-5054472049) - 2026-08-28
+* [Review] [Review on: Pack Electra attestations by marginal proposer reward](https://github.com/OffchainLabs/prysm/pull/17416#pullrequestreview-5055344957) - 2026-08-28
+* [Pull Request] [slot plan refactor](https://github.com/OffchainLabs/prysm/pull/17428) - 2026-08-28
+* [Review] [Review on: Extract shared indexed-list decoders for beacon REST handlers](https://github.com/OffchainLabs/prysm/pull/17399#pullrequestreview-5052603721) - 2026-08-28
 ## Q2 2026
 
 

@@ -74,6 +74,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Review] [Review on: Remove Bazel: Phase 4/9](https://github.com/OffchainLabs/prysm/pull/17296#pullrequestreview-5012275144) - 2026-08-24
 * [Pull Request] [Update CODEOWNERS](https://github.com/OffchainLabs/prysm/pull/17420) - 2026-08-27
 * [Commit] [Update CODEOWNERS (#17420)](https://github.com/OffchainLabs/prysm/commit/43cc3c82c009cd401676152013c41c9497ca175e) - 2026-08-27
+* [Pull Request] [hdiff: Use computed serialized size for slice capacity](https://github.com/OffchainLabs/prysm/pull/17427) - 2026-08-28
+* [Review] [Review on: hdiff: Use computed serialized size for slice capacity](https://github.com/OffchainLabs/prysm/pull/17427#pullrequestreview-5052362151) - 2026-08-28
 ## Q2 2026
 
 

@@ -85,6 +85,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Fix flaky DefaultP2PNetworkTest.checkMaintainedConnectionPeers_connectedPeer](https://github.com/besu-eth/besu/pull/11183) - 2026-08-28
 * [Pull Request] [Treat engine API uint64 timestamps as unsigned](https://github.com/besu-eth/besu/pull/11176) - 2026-08-27
 * [Commit] [Fix incorrect SYNCING response from engine_newPayload after startup (#11168)](https://github.com/besu-eth/besu/commit/aec57825f44bb3adbcff50b8cd5005833d382240) - 2026-08-28
+* [Review] [Review on: Run Hive tests via evmtool](https://github.com/besu-eth/besu/pull/11030#pullrequestreview-5053457042) - 2026-08-28
+* [Review] [Review on: Treat engine API uint64 timestamps as unsigned](https://github.com/besu-eth/besu/pull/11176#pullrequestreview-5052285714) - 2026-08-28
+* [Commit] [Treat engine API uint64 timestamps as unsigned (#11176)](https://github.com/besu-eth/besu/commit/50aeb403792ac874e2f1491a7a3899b0d3f15e5d) - 2026-08-28
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

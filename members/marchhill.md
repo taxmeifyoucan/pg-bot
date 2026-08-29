@@ -215,6 +215,36 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [Make merged master code frame-transaction aware (#13001 follow-ups)](https://github.com/NethermindEth/nethermind/pull/13011) - 2026-08-27
 * [Review] [Review on: Make merged master code frame-transaction aware (#13001 follow-ups)](https://github.com/NethermindEth/nethermind/pull/13011#pullrequestreview-5046966910) - 2026-08-28
 * [Review] [Review on: fix(opt): stop the Optimism receipts tracer from bypassing shared receipt population](https://github.com/NethermindEth/nethermind/pull/12925#pullrequestreview-5040774049) - 2026-08-27
+* [Pull Request] [test(eip8141): close three gaps in the frame exception fragments](https://github.com/NethermindEth/nethermind/pull/13037) - 2026-08-28
+* [Review] [Review on: test(eip8141): close three gaps in the frame exception fragments](https://github.com/NethermindEth/nethermind/pull/13037#pullrequestreview-5054232209) - 2026-08-28
+* [Pull Request] [test(eip8141): map the recent-root spec gate and drop the duplicated cap](https://github.com/NethermindEth/nethermind/pull/13029) - 2026-08-28
+* [Review] [Review on: test(eip8141): map the recent-root spec gate and drop the duplicated cap](https://github.com/NethermindEth/nethermind/pull/13029#pullrequestreview-5054325883) - 2026-08-28
+* [Pull Request] [test(frames): map GAS_LIMIT_EXCEEDS_MAXIMUM in the transaction-test exception table](https://github.com/NethermindEth/nethermind/pull/13028) - 2026-08-28
+* [Pull Request] [fix: skip corrupt light blob tx records instead of aborting pool restore](https://github.com/NethermindEth/nethermind/pull/13032) - 2026-08-28
+* [Review] [Review on: fix: skip corrupt light blob tx records instead of aborting pool restore](https://github.com/NethermindEth/nethermind/pull/13032#pullrequestreview-5052912442) - 2026-08-28
+* [Pull Request] [test(eip8141): extract the shared frame tx payload skeleton](https://github.com/NethermindEth/nethermind/pull/13030) - 2026-08-28
+* [Review] [Review on: test(eip8141): extract the shared frame tx payload skeleton](https://github.com/NethermindEth/nethermind/pull/13030#pullrequestreview-5052754880) - 2026-08-28
+* [Review] [Review on: perf(ssz): back stateless public keys with an inline-array vector](https://github.com/NethermindEth/nethermind/pull/12928#pullrequestreview-5049840879) - 2026-08-28
+* [Review] [Review on: Simulate validation prefixes that open with a deploy frame](https://github.com/NethermindEth/nethermind/pull/12874#pullrequestreview-5051827479) - 2026-08-28
+* [Pull Request] [fix(txpool): skip corrupt light blob tx records instead of aborting restore](https://github.com/NethermindEth/nethermind/pull/13034) - 2026-08-28
+* [Pull Request] [chore: remove unused System.Threading using in ExecutionPayload](https://github.com/NethermindEth/nethermind/pull/13035) - 2026-08-28
+* [Pull Request] [chore: make Nethermind.Stateless.Executor lint clean](https://github.com/NethermindEth/nethermind/pull/13031) - 2026-08-28
+* [Review] [Review on: chore: make Nethermind.Stateless.Executor lint clean](https://github.com/NethermindEth/nethermind/pull/13031#pullrequestreview-5052956665) - 2026-08-28
+* [Review] [Review on: fix: honour engine fixture errorCode instead of accepting any RPC error](https://github.com/NethermindEth/nethermind/pull/12783#pullrequestreview-5051702876) - 2026-08-28
+* [Pull Request] [test(txpool): reuse the shared frame builders in the paymaster fixture](https://github.com/NethermindEth/nethermind/pull/13024) - 2026-08-28
+* [Pull Request] [refactor(test): drop dead intrinsic-gas cap regex mapping](https://github.com/NethermindEth/nethermind/pull/13033) - 2026-08-28
+* [Pull Request] [fix(evm): resolve a frame delegation's precompile through the repository](https://github.com/NethermindEth/nethermind/pull/13026) - 2026-08-28
+* [Review] [Review on: fix(evm): resolve a frame delegation's precompile through the repository](https://github.com/NethermindEth/nethermind/pull/13026#pullrequestreview-5051447790) - 2026-08-28
+* [Review] [Review on: refactor(txpool): assign accept-result ids from declaration order](https://github.com/NethermindEth/nethermind/pull/12894#pullrequestreview-5052428496) - 2026-08-28
+* [Review] [Review on: fix(txpool): decode LightTxDecoder proof version as RLP scalar](https://github.com/NethermindEth/nethermind/pull/12782#pullrequestreview-5051792055) - 2026-08-28
+* [Pull Request] [test(eip8141): pin frame tx blob presence](https://github.com/NethermindEth/nethermind/pull/12913) - 2026-08-28
+* [Pull Request] [test(eip8141): cover APPROVE return data](https://github.com/NethermindEth/nethermind/pull/12912) - 2026-08-28
+* [Review] [Review on: test(eip8141): cover APPROVE return data](https://github.com/NethermindEth/nethermind/pull/12912#pullrequestreview-5051885266) - 2026-08-28
+* [Review] [Review on: test: harden the block-improvement wait against empty payloads](https://github.com/NethermindEth/nethermind/pull/12859#pullrequestreview-5051866037) - 2026-08-28
+* [Pull Request] [test(eip8141): lock frame tx decode bounds and drop stale spec-gap markers](https://github.com/NethermindEth/nethermind/pull/12911) - 2026-08-28
+* [Pull Request] [fix(rpc): carry frame receipts through debug_insertReceipts](https://github.com/NethermindEth/nethermind/pull/13025) - 2026-08-28
+* [Review] [Review on: fix(rpc): carry frame receipts through debug_insertReceipts](https://github.com/NethermindEth/nethermind/pull/13025#pullrequestreview-5051857126) - 2026-08-28
+* [Commit] [perf(ssz): back stateless public keys with an inline-array vector (#12928)](https://github.com/NethermindEth/nethermind/commit/740ea7c3e73b725931205a00fa460b822560a94e) - 2026-08-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -253,6 +283,7 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [fix(tests): clear rlp_modifier when building inclusion-list variants](https://github.com/ethereum/execution-specs/pull/3406) - 2026-08-20
 * [Pull Request] [feat(specs,tests): dispatch a precompile a VERIFY frame targets](https://github.com/ethereum/execution-specs/pull/3407) - 2026-08-20
 * [Pull Request] [fix(specs,tests): widen a frame transaction's chain id to 256 bits](https://github.com/ethereum/execution-specs/pull/3428) - 2026-08-24
+* [Pull Request] [fix(client-clis): map frame transaction rejections in the Nethermind mapper](https://github.com/ethereum/execution-specs/pull/3467) - 2026-08-28
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: specify behaviour for an oversized aggregated inclusion list](https://github.com/ethereum/execution-apis/pull/864) - 2026-08-20
 ## Q2 2026

@@ -585,6 +585,20 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [p2p/discover: require bond for ping endpoint statements](https://github.com/erigontech/erigon/pull/23609) - 2026-08-28
 * [Issue] [execution, db: bind StateCache and BranchCache to explicit state views](https://github.com/erigontech/erigon/issues/23641) - 2026-08-28
 * [Commit] [p2p/discover: require bond for ping endpoint statements (#23609)](https://github.com/erigontech/erigon/commit/c785adb7e1974c936a8d56786cb74026d4ec36c4) - 2026-08-28
+* [Pull Request] [execution/commitment: use installed reader for branch child counts](https://github.com/erigontech/erigon/pull/23649) - 2026-08-28
+* [Pull Request] [rpc/jsonrpc: restore concurrent log subscription coverage](https://github.com/erigontech/erigon/pull/23650) - 2026-08-28
+* [Review] [Review on: lru: accounting per-key overhead](https://github.com/erigontech/erigon/pull/23552#pullrequestreview-5050388190) - 2026-08-28
+* [Pull Request] [cl/services: share pending queue for payload gossip](https://github.com/erigontech/erigon/pull/23643) - 2026-08-28
+* [Review] [Review on: [r3.6] rpc/jsonrpc, docs: report base fee sub-pool transactions as pending](https://github.com/erigontech/erigon/pull/23647#pullrequestreview-5050296230) - 2026-08-28
+* [Review] [Review on: ci: update to latest eest stable fixtures](https://github.com/erigontech/erigon/pull/23648#pullrequestreview-5050820114) - 2026-08-28
+* [Review] [Review on: cl: reject incomplete GetPayload responses](https://github.com/erigontech/erigon/pull/23575#pullrequestreview-5050154329) - 2026-08-28
+* [Pull Request] [cl/beacon: report pool syncing as unavailable](https://github.com/erigontech/erigon/pull/23619) - 2026-08-28
+* [Commit] [execution/commitment: use installed reader for branch child counts (#23649)](https://github.com/erigontech/erigon/commit/ad897a650a8c4ca437ba1858a530980e648c9671) - 2026-08-29
+* [Commit] [rpc/jsonrpc: restore concurrent log subscription coverage (#23650)](https://github.com/erigontech/erigon/commit/827b37022ec469ab423bc2f7e72e49a163c1f841) - 2026-08-29
+* [Commit] [cl/beacon: report pool syncing as unavailable (#23619)](https://github.com/erigontech/erigon/commit/ad938cee483f4a89d96073c0d614c7546d98ebac) - 2026-08-28
+* [Commit] [cl, execution: update Chiado bootnodes (#23632)](https://github.com/erigontech/erigon/commit/5b09f5c8df3f69fbf31b4a339d89483b1110ccd0) - 2026-08-28
+* [Commit] [execution, node: test RPC state across unwind phases (#23543)](https://github.com/erigontech/erigon/commit/3012cdeb2967e282c861dcef46d031d3dde1671f) - 2026-08-28
+* [Commit] [rpc/jsonrpc: keep request commitment reads off shared BranchCache (#22198)](https://github.com/erigontech/erigon/commit/7466775f80bde5e71fe596ee04f4550565cced33) - 2026-08-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

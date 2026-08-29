@@ -212,6 +212,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [test: Cover the fixture runners' failure paths](https://github.com/ipsilon/evmone/pull/1678) - 2026-08-26
 * [Commit] [ci: Cache clang-tidy results with ctcache (#1677)](https://github.com/ipsilon/evmone/commit/6c20562b85688617e011f41a93d4b2c82882de02) - 2026-08-26
 * [Commit] [test: Replace gtest assertions in the fixture runners (#1673)](https://github.com/ipsilon/evmone/commit/471b3e7d566ac04667c1a85e2e20d77236e1254c) - 2026-08-26
+* [Pull Request] [test: Collect the test files in one place](https://github.com/ipsilon/evmone/pull/1680) - 2026-08-28
+* [Pull Request] [ci: Build without testing in the min-compiler jobs](https://github.com/ipsilon/evmone/pull/1679) - 2026-08-28
+* [Commit] [ci: Build without testing in the min-compiler jobs (#1679)](https://github.com/ipsilon/evmone/commit/aa9ca5122a58ca520721872a035775595da3aec2) - 2026-08-28
+* [Commit] [test: Move the fixture runners into evmone::testutils (#1676)](https://github.com/ipsilon/evmone/commit/37d490bfaa23408f8a2f7b3fb609c48bd9b87a6a) - 2026-08-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

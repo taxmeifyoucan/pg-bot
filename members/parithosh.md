@@ -17,6 +17,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Consensus (ACDC) #182, July 9 2026](https://github.com/ethereum/pm/issues/2152) - 2026-07-08
 
+* [Pull Request] [Propose Glamsterdam activation times for Sepolia and Hoodi](https://github.com/ethereum/pm/pull/2205) - 2026-08-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: re-add CFI/restore EIP-8136/EIP-8189 status](https://github.com/ethereum/EIPs/pull/11917#pullrequestreview-4684346410) - 2026-07-13
 * [Review] [Review on: Update EIP-7773: Update upgrade stages](https://github.com/ethereum/EIPs/pull/11853#pullrequestreview-4682481995) - 2026-07-13

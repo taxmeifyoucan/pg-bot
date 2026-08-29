@@ -61,6 +61,8 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: feat(rpc): use cached BALs to position transaction replay state](https://github.com/paradigmxyz/reth/pull/26835#pullrequestreview-5041275179) - 2026-08-27
 * [Review] [Review on: fix(engine): classify invalid BAL input as malformed](https://github.com/paradigmxyz/reth/pull/26844#pullrequestreview-5040444301) - 2026-08-27
 * [Review] [Review on: fix(engine): separate malformed input from fatal errors](https://github.com/paradigmxyz/reth/pull/26829#pullrequestreview-5039385402) - 2026-08-27
+* [Review] [Review on: test: add post-Cancun selfdestruct e2e suite across hardforks](https://github.com/paradigmxyz/reth/pull/26865#pullrequestreview-5051083053) - 2026-08-28
+* [Review] [Review on: fix(txpool): enforce minimum priority fee for local transactions](https://github.com/paradigmxyz/reth/pull/26861#pullrequestreview-5050385184) - 2026-08-28
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

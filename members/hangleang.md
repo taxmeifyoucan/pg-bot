@@ -63,6 +63,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Validate bid gas limit against the payload at bid.parent_block_hash](https://github.com/grandinetech/grandine/pull/864#pullrequestreview-5028883331) - 2026-08-26
 * [Pull Request] [Replay persisted execution payload envelopes at restart](https://github.com/grandinetech/grandine/pull/887) - 2026-08-27
 * [Issue] [Insert execution payload location after applying payload envelope](https://github.com/grandinetech/grandine/issues/888) - 2026-08-28
+* [Pull Request] [Move execution payload location insertion to when the payload envelope arrives](https://github.com/grandinetech/grandine/pull/890) - 2026-08-28
+* [Commit] [Measure payload envelope timeliness at arrival](https://github.com/grandinetech/grandine/commit/135aa00563866aa7e0b0be4a4b9a5603cf882504) - 2026-08-28
+* [Commit] [Fix dependent_root validation in proposer_preference](https://github.com/grandinetech/grandine/commit/b21c68c45716e877d1dcf5b83bda9988f0f08ff7) - 2026-08-28
+* [Commit] [Only broadcast proposer preferences for post-Gloas slots](https://github.com/grandinetech/grandine/commit/92e92bd58af0c38c60c11808a38c3e430328a117) - 2026-08-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

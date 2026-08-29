@@ -157,6 +157,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Fix incorrect SYNCING response from engine_newPayload after startup](https://github.com/besu-eth/besu/pull/11168#pullrequestreview-5039049764) - 2026-08-27
 * [Review] [Review on: Extract plugin-api-execution module](https://github.com/besu-eth/besu/pull/11172#pullrequestreview-5040464165) - 2026-08-27
 * [Pull Request] [Fix: fail on confirmed blob txs](https://github.com/besu-eth/besu/pull/11171) - 2026-08-27
+* [Pull Request] [Delete unused `TransactionSmartContractPermissioningController` class](https://github.com/besu-eth/besu/pull/11187) - 2026-08-28
+* [Review] [Review on: fix: reject invalid eth_feeHistory reward percentiles](https://github.com/besu-eth/besu/pull/11173#pullrequestreview-5051929587) - 2026-08-28
+* [Review] [Review on: Run Hive tests via evmtool](https://github.com/besu-eth/besu/pull/11030#pullrequestreview-5052153175) - 2026-08-28
+* [Pull Request] [Compare the cached Engine API JWT with MessageDigest.isEqual](https://github.com/besu-eth/besu/pull/11189) - 2026-08-28
+* [Review] [Review on: Compare the cached Engine API JWT with MessageDigest.isEqual](https://github.com/besu-eth/besu/pull/11189#pullrequestreview-5052777716) - 2026-08-28
+* [Review] [Review on: Update ENR fork ID on first block crossing a timestamp fork](https://github.com/besu-eth/besu/pull/10914#pullrequestreview-5052598962) - 2026-08-28
+* [Review] [Review on: Fix non-bootnode peer count drift in InsufficientPeersPermissioningProvider](https://github.com/besu-eth/besu/pull/11138#pullrequestreview-5051315272) - 2026-08-28
+* [Review] [Review on: Treat engine API uint64 timestamps as unsigned](https://github.com/besu-eth/besu/pull/11176#pullrequestreview-5051281973) - 2026-08-28
+* [Review] [Review on: Deprecate unreachable plugin-api types for removal](https://github.com/besu-eth/besu/pull/11186#pullrequestreview-5051043662) - 2026-08-28
+* [Review] [Review on: fix: log peer identity on PeerTaskExecutor timeout](https://github.com/besu-eth/besu/pull/11155#pullrequestreview-5051236145) - 2026-08-28
+* [Pull Request] [Treat an omitted or null GraphQL logs topics filter as matching any topic](https://github.com/besu-eth/besu/pull/11188) - 2026-08-28
+* [Review] [Review on: Extract plugin-api-blockproduction module](https://github.com/besu-eth/besu/pull/11182#pullrequestreview-5051020591) - 2026-08-28
+* [Pull Request] [Fix engine_getInclusionListV1 response format](https://github.com/besu-eth/besu/pull/11185) - 2026-08-28
+* [Commit] [Fix non-bootnode peer count drift in InsufficientPeersPermissioningProvider (#11138)](https://github.com/besu-eth/besu/commit/b5968ce50899ce89bc9f0a5f3b0da3994014c6dc) - 2026-08-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

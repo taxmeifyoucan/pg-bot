@@ -86,6 +86,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Add `--submit-blacklisted-builder-bids` feature flag](https://github.com/OffchainLabs/prysm/pull/17419) - 2026-08-27
 * [Review] [Review on: Add `--submit-blacklisted-builder-bids` feature flag](https://github.com/OffchainLabs/prysm/pull/17419#pullrequestreview-5041743827) - 2026-08-27
 * [Commit] [Add `--submit-blacklisted-builder-bids` feature flag (#17419)](https://github.com/OffchainLabs/prysm/commit/596e497f642a8f796e086f925634452217682417) - 2026-08-27
+* [Review] [Review on: Bump consensus spec to v1.7.0-alpha.13](https://github.com/OffchainLabs/prysm/pull/17382#pullrequestreview-5050713833) - 2026-08-28
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

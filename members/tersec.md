@@ -121,6 +121,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: BN: New syncing algorithm](https://github.com/status-im/nimbus-eth2/pull/7921#pullrequestreview-5034963693) - 2026-08-26
 * [Review] [Review on: track column verification state per `popSidecars`](https://github.com/status-im/nimbus-eth2/pull/8841#pullrequestreview-5029506221) - 2026-08-26
 * [Pull Request] [fix same-pubkey builder deposits after slot reuse](https://github.com/status-im/nimbus-eth2/pull/8955) - 2026-08-27
+* [Review] [Review on: req/resp domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8876#pullrequestreview-5056296998) - 2026-08-29
+* [Pull Request] [switch remaining unsafeAddr to addr](https://github.com/status-im/nimbus-eth2/pull/8959) - 2026-08-28
+* [Pull Request] [early exit on excessive column by range req/resp](https://github.com/status-im/nimbus-eth2/pull/8958) - 2026-08-28
+* [Commit] [version v26.8.0](https://github.com/status-im/nimbus-eth2/commit/404a0001561d1d83c5b5bf35dcbedbcb5fb86572) - 2026-08-28
+* [Commit] [early exit on excessive column by range req/resp (#8958)](https://github.com/status-im/nimbus-eth2/commit/2747aadb7aee22a298712648be995195e0a0c4f9) - 2026-08-28
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -178,6 +183,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fc time budgeting instead of capping](https://github.com/status-im/nimbus-eth1/pull/4588#pullrequestreview-4906473314) - 2026-08-11
 * [Review] [Review on: make release nightly use the existing release pathway for better testing](https://github.com/status-im/nimbus-eth1/pull/4632#pullrequestreview-4951297756) - 2026-08-17
 * [Review] [Review on: Ssz rest](https://github.com/status-im/nimbus-eth1/pull/4653#pullrequestreview-4962233004) - 2026-08-18
+* [Review] [Review on: make BoringSSL optional for the sha256 and P256VERIFY precompiles](https://github.com/status-im/nimbus-eth1/pull/4705#pullrequestreview-5056787609) - 2026-08-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

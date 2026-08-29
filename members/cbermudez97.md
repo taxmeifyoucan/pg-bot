@@ -36,6 +36,9 @@ Team: [NethermindEth contributions](https://github.com/cbermudez97?org=Nethermin
 * [Review] [Review on: ci: run gas benchmarks on a GCP spot runner](https://github.com/NethermindEth/nethermind/pull/13013#pullrequestreview-5042673740) - 2026-08-27
 * [Pull Request] [ci: send GCP machine types to the smoke-test dispatches](https://github.com/NethermindEth/nethermind/pull/13014) - 2026-08-27
 * [Review] [Review on: ci: send GCP machine types to the smoke-test dispatches](https://github.com/NethermindEth/nethermind/pull/13014#pullrequestreview-5042674915) - 2026-08-27
+* [Commit] [ci: run gas benchmarks on a GCP spot runner (#13013)](https://github.com/NethermindEth/nethermind/commit/2c07eef7bd3ad9f4458030300b5a2ec47f056b30) - 2026-08-28
+* [Commit] [ci: give each sync network its own create/sync/teardown lifecycle (#12936)](https://github.com/NethermindEth/nethermind/commit/6672375219051cf785b474c78301f172a6fa29dd) - 2026-08-28
+* [Commit] [ci: migrate sync-test runners from Linode to GCP Spot (#12789)](https://github.com/NethermindEth/nethermind/commit/b90f785a02acb98f2d54a7a5e907c4e73d24fa0b) - 2026-08-28
 ## Q2 2026
 
 

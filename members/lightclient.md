@@ -74,6 +74,7 @@ Team: Geth
 * [Review] [Review on: Update EIP-8141: fix calldata floor to use EIP-7976 uniform token count](https://github.com/ethereum/EIPs/pull/12209#pullrequestreview-4996633565) - 2026-08-21
 * [Review] [Review on: Add EIP: Remove the Sync Committee](https://github.com/ethereum/EIPs/pull/12228#pullrequestreview-5004053264) - 2026-08-24
 * [Review] [Review on: Update EIP-8141: account block execution gas before refund (EIP-7778)](https://github.com/ethereum/EIPs/pull/12226#pullrequestreview-5004050703) - 2026-08-24
+* [Review] [Review on: Update EIP-4444: Move to Draft](https://github.com/ethereum/EIPs/pull/12257#pullrequestreview-5051275509) - 2026-08-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06

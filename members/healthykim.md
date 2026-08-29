@@ -46,6 +46,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Pull Request] [eth/protocols/eth, eth/downloader: reject empty partial receipt responses](https://github.com/ethereum/go-ethereum/pull/35593) - 2026-08-26
 * [Commit] [eth/protocols/eth, eth/downloader: reject empty partial receipt responses (#35593)](https://github.com/ethereum/go-ethereum/commit/596096afebd7004d514416a4dad426bfd5626159) - 2026-08-27
 * [Commit] [core/txpool: add blocked transaction size cap (#35367)](https://github.com/ethereum/go-ethereum/commit/f054905efaf0ce0701c9f6ae32f65105f3e3a845) - 2026-08-27
+* [Review] [Review on: eth/protocols/eth: avoid announcing sparse blob txs to legacy peers](https://github.com/ethereum/go-ethereum/pull/35589#pullrequestreview-5050530774) - 2026-08-28
+* [Review] [Review on: cmd/devp2p/internal/ethtest: add eth/71 (EIP-8159) tests](https://github.com/ethereum/go-ethereum/pull/35389#pullrequestreview-5051197212) - 2026-08-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4816824387) - 2026-07-30
 * [Review] [Review on: Update EIP-8070: Clarify custodyColumns `null` behavior](https://github.com/ethereum/EIPs/pull/12144#pullrequestreview-4916982296) - 2026-08-12

@@ -399,6 +399,11 @@ Team: Erigon
 * [Commit] [db/downloader: bound kept-snapshot seeding and make abandonment observable (#23472)](https://github.com/erigontech/erigon/commit/d152aa603f58cd55574400f96d9670950c4f1d0e) - 2026-08-28
 * [Commit] [execution/tests, genesiswrite: pin the EIP-7610 storage-only CREATE2 collision (#23600)](https://github.com/erigontech/erigon/commit/7992c6a571e73f96895dcb6b9bba198f2106a467) - 2026-08-28
 * [Commit] [db/state: derive domain_prunable from the values table's prune progress, not the history keys table (#23622)](https://github.com/erigontech/erigon/commit/aa7165cb6cafc44624b88ef6c9dbbb702ade5810) - 2026-08-27
+* [Review] [Review on: execution/state: skip the self-destruct storage walk when the address has no account](https://github.com/erigontech/erigon/pull/23604#pullrequestreview-5049161442) - 2026-08-28
+* [Review] [Review on: execution: warm commitment branches from BAL](https://github.com/erigontech/erigon/pull/23627#pullrequestreview-5049519136) - 2026-08-28
+* [Review] [Review on: db/etl: read a buffer with Next instead of Get(i)](https://github.com/erigontech/erigon/pull/23621#pullrequestreview-5049161282) - 2026-08-28
+* [Review] [Review on: exec, commitment, cl/beacon: clear pooled objects (which hold bytecode ptr)](https://github.com/erigontech/erigon/pull/23642#pullrequestreview-5049426254) - 2026-08-28
+* [Commit] [db/state: make COLLATE/MERGE/COMPRESS_WORKERS reach the aggregator (#23615)](https://github.com/erigontech/erigon/commit/e39091348de17c5566a83aed43de020736e04fd9) - 2026-08-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

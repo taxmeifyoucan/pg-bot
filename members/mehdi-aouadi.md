@@ -96,6 +96,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [9697 il satisfaction](https://github.com/Consensys/teku/pull/11177) - 2026-08-26
 * [Review] [Review on: align inclusion list store with Heze spec](https://github.com/Consensys/teku/pull/11156#pullrequestreview-5028559403) - 2026-08-26
 * [Review] [Review on: add ILs peer sync](https://github.com/Consensys/teku/pull/11180#pullrequestreview-5039704395) - 2026-08-27
+* [Pull Request] [add max signed IL size param](https://github.com/Consensys/teku/pull/11200) - 2026-08-28
+* [Review] [Review on: Reject inclusion lists containing an empty transaction](https://github.com/Consensys/teku/pull/11192#pullrequestreview-5052365567) - 2026-08-28
+* [Pull Request] [Derive the genesis duty dependent root from the state's latest block header (#11196)](https://github.com/Consensys/teku/pull/11197) - 2026-08-28
+* [Review] [Review on: Derive the genesis duty dependent root from the state's latest block header](https://github.com/Consensys/teku/pull/11196#pullrequestreview-5051297164) - 2026-08-28
+* [Pull Request] [Focil merge master](https://github.com/Consensys/teku/pull/11193) - 2026-08-28
+* [Review] [Review on: Embed latest execution payload bid in Gloas genesis block body](https://github.com/Consensys/teku/pull/11190#pullrequestreview-5050164436) - 2026-08-28
+* [Issue] [Add MAX_SIGNED_INCLUSION_LIST_SIZE](https://github.com/Consensys/teku/issues/11199) - 2026-08-28
 ## Q2 2026
 
 

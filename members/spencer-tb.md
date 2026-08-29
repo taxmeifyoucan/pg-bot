@@ -251,6 +251,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-execute): ignore tests/spec_tools during collection](https://github.com/ethereum/execution-specs/pull/3450#pullrequestreview-5028443939) - 2026-08-26
 * [Issue] [Test Release Tracker: `glamsterdam-devnet@v8.1.2`](https://github.com/ethereum/execution-specs/issues/3452) - 2026-08-26
 * [Commit] [feat(tests): EIP-8037 - pin gas on the unasserted child-halt spill tests (#3427)](https://github.com/ethereum/execution-specs/commit/e73282ee2911cc2f3d296324b1d3cb577c4a094e) - 2026-08-26
+* [Commit] [fix(tests): enhance & un-skip Amsterdam ported static SSTORE, refund & misc tests (Pt. 2c) (#3321)](https://github.com/ethereum/execution-specs/commit/241f6a80da5458443325b5ac8fb56a0754a3ec38) - 2026-08-28
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

@@ -137,6 +137,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [refactor(tests): EIP-8037 test gas calculation logic and post state verification (#3383)](https://github.com/ethereum/execution-specs/commit/50f3df9ece9b3c448146c39e08dfadeaf21c7351) - 2026-08-26
 * [Pull Request] [feat(test-vm): implement placeholder for bytecode](https://github.com/ethereum/execution-specs/pull/2103) - 2026-08-27
 * [Commit] [feat(test-vm): implement placeholder for bytecode (#2103)](https://github.com/ethereum/execution-specs/commit/4add50378c9de7950f878676eada5819fbe80922) - 2026-08-27
+* [Review] [Review on: feat(test-benchmark): more worst case scenario](https://github.com/ethereum/execution-specs/pull/3349#pullrequestreview-5049631352) - 2026-08-28
+* [Commit] [refactor(tests): enhance EIP-8037 test coverage part 2 (#3449)](https://github.com/ethereum/execution-specs/commit/c4deda5b3cfc5c1c8429dcd9159a6fb5636d8486) - 2026-08-28
 ## Q2 2026
 
 

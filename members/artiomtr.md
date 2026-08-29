@@ -20,6 +20,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Commit] [Fix nethermind plugin clean build](https://github.com/grandinetech/grandine/commit/7016cd6958c245b67fa90179789fa229ca6452a9) - 2026-07-21
 * [Pull Request] [Exclude bindings from windows CI run](https://github.com/grandinetech/grandine/pull/834) - 2026-07-29
 * [Review] [Review on: Updated SSZ spec runner](https://github.com/grandinetech/grandine/pull/858#pullrequestreview-5038956821) - 2026-08-27
+* [Pull Request] [Fix CI build](https://github.com/grandinetech/grandine/pull/892) - 2026-08-28
+* [Commit] [Fix zkvm build](https://github.com/grandinetech/grandine/commit/1467bb1160562badc2b13b972c88c5de52e9b94a) - 2026-08-28
+* [Commit] [Handle gloas containers properly in C bindings](https://github.com/grandinetech/grandine/commit/7f1bf33719a75e186f25c257968e0b14f65b647f) - 2026-08-28
 ## Q2 2026
 
 

@@ -228,6 +228,15 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Add more builder onboarding tests (#5569)](https://github.com/ethereum/consensus-specs/commit/0cb32b1299b7977adb129728459bc766ff202cb8) - 2026-08-26
 * [Review] [Review on: Simplify EIP-8025 execution proof handling](https://github.com/ethereum/consensus-specs/pull/5566#pullrequestreview-5045029838) - 2026-08-27
 * [Pull Request] [Replace mypy with ty](https://github.com/ethereum/consensus-specs/pull/5574) - 2026-08-27
+* [Pull Request] [Revamp the README](https://github.com/ethereum/consensus-specs/pull/5581) - 2026-08-28
+* [Pull Request] [Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580) - 2026-08-28
+* [Review] [Review on: Move seen check to the top in proposer preferences gossip check](https://github.com/ethereum/consensus-specs/pull/5579#pullrequestreview-5054540561) - 2026-08-28
+* [Review] [Review on: Add Gloas bid gas limit test after an empty parent](https://github.com/ethereum/consensus-specs/pull/5567#pullrequestreview-5053971527) - 2026-08-28
+* [Review] [Review on: Fix some inconsistency in executable p2p's messages](https://github.com/ethereum/consensus-specs/pull/5578#pullrequestreview-5053782531) - 2026-08-28
+* [Review] [Review on: Derive MAX_SIGNED_INCLUSION_LIST_SIZE from transaction byte bound](https://github.com/ethereum/consensus-specs/pull/5576#pullrequestreview-5053007840) - 2026-08-28
+* [Review] [Review on: Reorder Seen's proposer preferences's key](https://github.com/ethereum/consensus-specs/pull/5577#pullrequestreview-5052144555) - 2026-08-28
+* [Commit] [Revamp the README (#5581)](https://github.com/ethereum/consensus-specs/commit/3434cc69d695604ea52253e31486f46ba0e36901) - 2026-08-28
+* [Commit] [Load gossip validation state from the store (#5563)](https://github.com/ethereum/consensus-specs/commit/e524a5830d03b5974d878d66358079a045b7ac36) - 2026-08-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

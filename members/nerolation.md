@@ -67,6 +67,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [feat(spec-specs): add EIP-8279 block access list byte floo](https://github.com/ethereum/execution-specs/pull/3351) - 2026-08-11
 * [Pull Request] [feat(spec-specs): add EIP-8131 unified transaction content floor](https://github.com/ethereum/execution-specs/pull/3350) - 2026-08-11
 * [Pull Request] [fix(tests): undecodable BAL is an invalid payload](https://github.com/ethereum/execution-specs/pull/3463) - 2026-08-28
+* [Commit] [fix(tests): undecodable BAL is an invalid payload (#3463)](https://github.com/ethereum/execution-specs/commit/d9bc249acc4b6edb21475357e9b8080243e1ec53) - 2026-08-28
 [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Add proposal for native UTXOs on Ethereum](https://github.com/nerolation/pglanding-nerolation/commit/6eda8a600eac2ec897055484efc1348b65e0246d) - 2026-07-08
 

@@ -427,6 +427,27 @@ Team: Reth
 * [Commit] [refactor(rpc): remove state provider wrapper (#26837)](https://github.com/paradigmxyz/reth/commit/4ca70ab669a3474910072d665b13789e9ec6eed0) - 2026-08-27
 * [Commit] [refactor(rpc): remove dead header cache (#26836)](https://github.com/paradigmxyz/reth/commit/b77a6bfd901ad01b6d450e743872f29e9bd8c358) - 2026-08-27
 * [Commit] [fix(engine): separate malformed input from fatal errors (#26829)](https://github.com/paradigmxyz/reth/commit/e5094e1d68878a4d8bb9baefb96c1344c1435aa7) - 2026-08-27
+* [Pull Request] [test: add post-Cancun selfdestruct e2e suite across hardforks](https://github.com/paradigmxyz/reth/pull/26865) - 2026-08-28
+* [Review] [Review on: fix(overlay): preserve storage wipes in execution overlays](https://github.com/paradigmxyz/reth/pull/26872#pullrequestreview-5052196145) - 2026-08-28
+* [Pull Request] [fix(rpc): track batch entries in a dedicated call counter](https://github.com/paradigmxyz/reth/pull/26866) - 2026-08-28
+* [Pull Request] [chore(rpc): fix unused ChainBlockTraceResult import warning](https://github.com/paradigmxyz/reth/pull/26869) - 2026-08-28
+* [Pull Request] [docs(tasks): document worker access reentrancy](https://github.com/paradigmxyz/reth/pull/26873) - 2026-08-28
+* [Review] [Review on: fix(overlay): run computations on dedicated workers](https://github.com/paradigmxyz/reth/pull/26871#pullrequestreview-5052064836) - 2026-08-28
+* [Review] [Review on: feat(overlay): add overlay state providers](https://github.com/paradigmxyz/reth/pull/26862#pullrequestreview-5051564864) - 2026-08-28
+* [Review] [Review on: feat(downloader): select accounts with storage for snap storage requests](https://github.com/paradigmxyz/reth/pull/26852#pullrequestreview-5051552792) - 2026-08-28
+* [Review] [Review on: feat(overlay): build execution overlays](https://github.com/paradigmxyz/reth/pull/26838#pullrequestreview-5050451518) - 2026-08-28
+* [Pull Request] [fix(txpool): enforce minimum priority fee for local transactions](https://github.com/paradigmxyz/reth/pull/26861) - 2026-08-28
+* [Review] [Review on: fix(txpool): enforce minimum priority fee for local transactions](https://github.com/paradigmxyz/reth/pull/26861#pullrequestreview-5050191132) - 2026-08-28
+* [Pull Request] [fix(overlay): reject immediate execution overlays](https://github.com/paradigmxyz/reth/pull/26864) - 2026-08-28
+* [Review] [Review on: fix(cli): parse RPC transaction fee cap exactly](https://github.com/paradigmxyz/reth/pull/26845#pullrequestreview-5050434728) - 2026-08-28
+* [Review] [Review on: fix(rpc): avoid warming moved precompiles ](https://github.com/paradigmxyz/reth/pull/26855#pullrequestreview-5050429722) - 2026-08-28
+* [Review] [Review on: feat(overlay): cache execution overlays in manager](https://github.com/paradigmxyz/reth/pull/26834#pullrequestreview-5050252897) - 2026-08-28
+* [Pull Request] [revert: "chore(deps): bump revm to 43.0.0"](https://github.com/paradigmxyz/reth/pull/26858) - 2026-08-28
+* [Commit] [test: add post-Cancun selfdestruct e2e suite across hardforks (#26865)](https://github.com/paradigmxyz/reth/commit/3bc71d43f7101f772bbb4f9e15d3cdd58f60e958) - 2026-08-28
+* [Commit] [fix(rpc): track batch entries in a dedicated call counter (#26866)](https://github.com/paradigmxyz/reth/commit/fa9635290b9232ab5d2ebc6ae6abd70b68caec88) - 2026-08-28
+* [Commit] [docs(tasks): document worker access reentrancy (#26873)](https://github.com/paradigmxyz/reth/commit/f55ba955cd9ed40f6d1e69479cc6ed10c03545a9) - 2026-08-28
+* [Commit] [fix(txpool): enforce minimum priority fee for local transactions (#26861)](https://github.com/paradigmxyz/reth/commit/74ce7f1b2be659f4deb9ec8946e9e606368209f5) - 2026-08-28
+* [Commit] [revert: "chore(deps): bump revm to 43.0.0" (#26858)](https://github.com/paradigmxyz/reth/commit/66a08aba2274d3446caf5d8849fda9b6a0e2f770) - 2026-08-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

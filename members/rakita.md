@@ -62,6 +62,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [chore: release v116](https://github.com/bluealloy/revm/pull/3882) - 2026-08-26
 * [Commit] [chore: release v116 (#3882)](https://github.com/bluealloy/revm/commit/08c17c1629385a59902324409ed5167dbd1d1963) - 2026-08-26
 * [Commit] [chore: fix clippy for Rust 1.98 (#3884)](https://github.com/bluealloy/revm/commit/8ca4052d2ecae40050dad8360e87e7214e510a70) - 2026-08-27
+* [Pull Request] [chore: release v117](https://github.com/bluealloy/revm/pull/3888) - 2026-08-28
+* [Commit] [chore: release v117 (#3888)](https://github.com/bluealloy/revm/commit/6014612c86f3690e4e9173a8c4deade396af398d) - 2026-08-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02
@@ -90,6 +92,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [feat(glamsterdam-devnet-8): integrate revm gas repricing](https://github.com/paradigmxyz/reth/pull/26629) - 2026-08-10
 * [Review] [Review on: fix(engine): enforce state-gas admission on the BAL execution path](https://github.com/paradigmxyz/reth/pull/26719#pullrequestreview-4962119097) - 2026-08-18
 * [Review] [Review on: feat(net): advertise eth/70 and eth/71 by default](https://github.com/paradigmxyz/reth/pull/26824#pullrequestreview-5032071081) - 2026-08-26
+* [Pull Request] [chore(deps): reapply revm 43 update](https://github.com/paradigmxyz/reth/pull/26859) - 2026-08-28
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/revmc/pull/404) - 2026-07-14
 * [Pull Request] [chore: bump revm to 42.0.0](https://github.com/paradigmxyz/revmc/pull/406) - 2026-07-23

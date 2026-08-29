@@ -223,6 +223,9 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Pull Request] [fix(eth72): restore announced cell mask and stop charging local backpressure to peers](https://github.com/NethermindEth/nethermind/pull/13007) - 2026-08-27
 * [Review] [Review on: fix(eth72): restore announced cell mask and stop charging local backpressure to peers](https://github.com/NethermindEth/nethermind/pull/13007#pullrequestreview-5039241831) - 2026-08-27
 * [Commit] [fix(eth72): restore announced cell mask and stop charging local backpressure to peers (#13007)](https://github.com/NethermindEth/nethermind/commit/be3a9760554b4029078609b093263118010ca85e) - 2026-08-27
+* [Review] [Review on: fix(xdc): stop advertising eth versions with no handler](https://github.com/NethermindEth/nethermind/pull/13018#pullrequestreview-5049423385) - 2026-08-28
+* [Review] [Review on: perf(evm): prefer bytecode interpreter on ARM64](https://github.com/NethermindEth/nethermind/pull/12999#pullrequestreview-5049462021) - 2026-08-28
+* [Pull Request] [fix(engine): align SSZ-REST surface with execution-apis#793](https://github.com/NethermindEth/nethermind/pull/13023) - 2026-08-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

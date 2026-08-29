@@ -289,6 +289,16 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [execution: warm commitment branches from BAL](https://github.com/erigontech/erigon/pull/23627) - 2026-08-27
 * [Review] [Review on: execution: support long reorgs in non-finality](https://github.com/erigontech/erigon/pull/23612#pullrequestreview-5040692997) - 2026-08-27
 * [Commit] [execution: support long reorgs in non-finality (#23612)](https://github.com/erigontech/erigon/commit/de2a956ab07ce4a2c9040acd8a299f1d27e41617) - 2026-08-28
+* [Pull Request] [execution: introduce finality context](https://github.com/erigontech/erigon/pull/23651) - 2026-08-28
+* [Review] [Review on: execution: warm commitment branches from BAL](https://github.com/erigontech/erigon/pull/23627#pullrequestreview-5050540548) - 2026-08-28
+* [Pull Request] [ci: update to latest eest stable fixtures](https://github.com/erigontech/erigon/pull/23648) - 2026-08-28
+* [Review] [Review on: ci: update to latest eest stable fixtures](https://github.com/erigontech/erigon/pull/23648#pullrequestreview-5050620298) - 2026-08-28
+* [Review] [Review on: execution/state: BAL construction is quadratic in slots per account](https://github.com/erigontech/erigon/pull/23637#pullrequestreview-5050708791) - 2026-08-28
+* [Review] [Review on: execution: support long reorgs in non-finality](https://github.com/erigontech/erigon/pull/23612#pullrequestreview-5051192695) - 2026-08-28
+* [Commit] [execution: introduce finality context (#23651)](https://github.com/erigontech/erigon/commit/d05478a8233d1bfe867f03809340f944055d8307) - 2026-08-29
+* [Commit] [execution: warm commitment branches from BAL (#23627)](https://github.com/erigontech/erigon/commit/63fdd627767bf1eb4d535dc2cb69a7d7d9e3824c) - 2026-08-28
+* [Commit] [ci: update to latest eest stable fixtures (#23648)](https://github.com/erigontech/erigon/commit/200879fc8fc1e798f1004911e0296faf5623ded4) - 2026-08-28
+* [Commit] [db/mdbx: add env var for chaindata readahead (#23629)](https://github.com/erigontech/erigon/commit/edae11b92999044e48132492ca89778d8a31a638) - 2026-08-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

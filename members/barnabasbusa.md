@@ -91,9 +91,15 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Bump go-eth2-client to master (heze alpha.14 merged)](https://github.com/ethpandaops/dora/commit/6aedcf6d5d05abc16d669dd3e34c3881ff9efe12) - 2026-08-27
 * [Commit] [Bump go-eth2-client to the heze-alpha.14 branch head](https://github.com/ethpandaops/dora/commit/352aea0359e3f2eb912ab4c2c67415923e0d0aaa) - 2026-08-27
 * [Commit] [Rename inclusion list committee root to dependent root for consensus-specs alpha.14](https://github.com/ethpandaops/dora/commit/1505f388b5de8b183f5a210b28db566fdb605195) - 2026-08-27
+* [Pull Request] [Use Gloas activation/exit churn limits for queue churn display](https://github.com/ethpandaops/dora/pull/856) - 2026-08-28
+* [Review] [Review on: Raise submit page gas limits for EIP-8037 state costs](https://github.com/ethpandaops/dora/pull/857#pullrequestreview-5053490637) - 2026-08-28
+* [Commit] [Merge pull request #856 from ethpandaops/bbusa/gloas-churn-tooltip](https://github.com/ethpandaops/dora/commit/db2e57bc028b007923d20cb2cae35f76b456825d) - 2026-08-28
+* [Commit] [Use Gloas activation/exit churn limits for queue churn display](https://github.com/ethpandaops/dora/commit/437d9da7b0c57e094e50f3519daa26c4a25a13ac) - 2026-08-28
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Commit] [fix: share in-flight payload envelope import promise to prevent sync spin loop (#9501)](https://github.com/ChainSafe/lodestar/commit/29704bdb26d59d2e834640a69426e5a3cd890cd3) - 2026-07-04
 
+* [Pull Request] [fix(heze): raise MAX_SIGNED_INCLUSION_LIST_SIZE to the derived bound and reject empty transactions](https://github.com/ChainSafe/lodestar/pull/9936) - 2026-08-28
+* [Pull Request] [fix(heze): key inclusion lists by dependent_root per consensus-specs v1.7.0-alpha.14](https://github.com/ChainSafe/lodestar/pull/9935) - 2026-08-28
 [ethpandaops/assertoor](https://github.com/ethpandaops/assertoor)
 * [Pull Request] [change builder withdrawal prefix from 0x03 to 0xB0](https://github.com/ethpandaops/assertoor/pull/206) - 2026-07-06
 * [Commit] [Merge pull request #206 from ethpandaops/bbusa/builder-prefix-0xb0](https://github.com/ethpandaops/assertoor/commit/853b69636c42c6e656f2ff3f7687d0a45be6bcd4) - 2026-07-06
@@ -115,6 +121,8 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Pull Request] [Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4906318718) - 2026-08-11
 * [Commit] [Add gas limit schedule (EIP-8261) (#5533)](https://github.com/ethereum/consensus-specs/commit/2359a5e3444635ee2fc2acdea8a759e16391af90) - 2026-08-13
+* [Pull Request] [Derive MAX_SIGNED_INCLUSION_LIST_SIZE from transaction byte bound](https://github.com/ethereum/consensus-specs/pull/5576) - 2026-08-28
+* [Issue] [Heze: MAX_SIGNED_INCLUSION_LIST_SIZE (8348) only fits a single-transaction inclusion list](https://github.com/ethereum/consensus-specs/issues/5575) - 2026-08-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899) - 2026-07-08
 * [Commit] [Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/commit/554d3325e31c3f74078402d961355218ece16bee) - 2026-07-08
@@ -162,6 +170,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Issue] [eth_syncing returns false during entire snap sync (block import + world state heal)](https://github.com/besu-eth/besu/issues/10961) - 2026-08-03
 
 * [Pull Request] [Enforce EIP-7843 slotNumber presence in Amsterdam header validation](https://github.com/besu-eth/besu/pull/11084) - 2026-08-19
+* [Pull Request] [Return hex-encoded transactions from engine_getInclusionListV1](https://github.com/besu-eth/besu/pull/11184) - 2026-08-28
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Issue] [PeerDAS: validator custody applied ~60s after startup; node advertises earliestAvailableSlot it cannot serve, leading to peer-score bans](https://github.com/OffchainLabs/prysm/issues/17312) - 2026-08-06
 
@@ -194,6 +203,11 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Issue] [Gloas fork transition wedges: O(K²) BLS verifies in onboardBuildersFromPendingDeposits on large pending-deposit queue](https://github.com/Consensys/teku/issues/11154) - 2026-08-20
 * [Commit] [Avoid quadratic BLS verification onboarding builders at Gloas fork (#11155)](https://github.com/Consensys/teku/commit/0252cae21919424597f9f6c773235c9a6ab37877) - 2026-08-24
 * [Pull Request] [Embed latest execution payload bid in Gloas genesis block body](https://github.com/Consensys/teku/pull/11190) - 2026-08-28
+* [Pull Request] [Reject inclusion lists containing an empty transaction](https://github.com/Consensys/teku/pull/11192) - 2026-08-28
+* [Pull Request] [Derive the genesis duty dependent root from the state's latest block header](https://github.com/Consensys/teku/pull/11196) - 2026-08-28
+* [Review] [Review on: Embed latest execution payload bid in Gloas genesis block body](https://github.com/Consensys/teku/pull/11190#pullrequestreview-5050073134) - 2026-08-28
+* [Commit] [Derive the genesis duty dependent root from the state's latest block header (#11196)](https://github.com/Consensys/teku/commit/f9e62f6465d6c92b78a6bcf44dfb78716bd1e62c) - 2026-08-28
+* [Commit] [Embed latest execution payload bid in Gloas genesis block body (#11190)](https://github.com/Consensys/teku/commit/d66a4c849c4b944125109d567455f6069cf16f59) - 2026-08-28
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Pull Request] [internal/ethapi: skip unconfigured forks when computing next fork in eth_config](https://github.com/ethereum/go-ethereum/pull/35553) - 2026-08-18
 * [Commit] [internal/ethapi: skip unconfigured forks when computing next fork in eth_config (#35553)](https://github.com/ethereum/go-ethereum/commit/e5566cea633266ab5fc0fdf1b88f2f7dfe800f03) - 2026-08-24
@@ -201,6 +215,12 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rpc: support the "pending" block tag](https://github.com/status-im/nimbus-eth1/pull/4687) - 2026-08-26
 * [Commit] [rpc: support the "pending" block tag (#4687)](https://github.com/status-im/nimbus-eth1/commit/f0f0a2481a4fbe2d2748ed5bbf1de43da1578c95) - 2026-08-26
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Pull Request] [engine: bound engine_getInclusionListV1 result by the consensus-layer transaction byte measure](https://github.com/ethereum/execution-apis/pull/870) - 2026-08-28
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [fix(consume): map geth empty system contract rejection to SYSTEM_CONTRACT_EMPTY](https://github.com/ethereum/execution-specs/pull/3465) - 2026-08-28
 ## Q2 2026
 
 

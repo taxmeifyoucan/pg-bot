@@ -161,6 +161,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/jsonrpc: keep trace_call's unrequested trace empty and stop attaching the tracer for stateDiff (#23572)](https://github.com/erigontech/erigon/commit/d0514ffdaea1abb3214f5d2d3ec2af5765b247ee) - 2026-08-27
 * [Commit] [node/shards, db/downloader, execution/stagedsync: snapshot download progress in eth_syncing (#22716)](https://github.com/erigontech/erigon/commit/5dd0b9bd30fa3fa46effa1aef3f0d79b09175e4c) - 2026-08-27
 * [Commit] [execution/tracing, rpc/transactions: fix invalid structLogs JSON and reject a negative limit (#23620)](https://github.com/erigontech/erigon/commit/58de36a839d52dbd85d5ffa6ed668846497d23cb) - 2026-08-27
+* [Pull Request] [[r3.6] rpc/jsonrpc, docs: report base fee sub-pool transactions as pending](https://github.com/erigontech/erigon/pull/23647) - 2026-08-28
+* [Pull Request] [rpc: apply eth_estimateGas state overrides to pre-execution checks](https://github.com/erigontech/erigon/pull/23655) - 2026-08-28
+* [Commit] [rpc/jsonrpc, docs: report base fee sub-pool transactions as pending (#23624)](https://github.com/erigontech/erigon/commit/8f32ad3b40a5c9c57df6b1af4b4ddfa9345f38fc) - 2026-08-28
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -178,6 +181,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [erigon_getLogsByHash: expect [] instead of null for receipts with no logs](https://github.com/erigontech/rpc-tests/pull/591) - 2026-08-20
 * [Commit] [erigon_getLogsByHash: expect [] instead of null for receipts with no logs (#591)](https://github.com/erigontech/rpc-tests/commit/73992926bb41ecc29f9d48f4a93a8acddc3117ed) - 2026-08-21
 * [Pull Request] [gnosis: fix trace_call no vmtrace](https://github.com/erigontech/rpc-tests/pull/592) - 2026-08-25
+* [Pull Request] [integration-test: eth_estimateGas update expected test 17/28 for state Override](https://github.com/erigontech/rpc-tests/pull/593) - 2026-08-28
 ## Q2 2026
 
 

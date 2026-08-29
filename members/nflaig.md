@@ -450,6 +450,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Expand `PTC` to `PayloadTimelinessCommittee` in type names](https://github.com/ethereum/consensus-specs/pull/5558#pullrequestreview-4985031474) - 2026-08-20
 * [Review] [Review on: Initialize anchor PTC vote arrays in `get_forkchoice_store`](https://github.com/ethereum/consensus-specs/pull/5545#pullrequestreview-4981966138) - 2026-08-20
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991156148) - 2026-08-21
+* [Review] [Review on: Load gossip validation state from the store](https://github.com/ethereum/consensus-specs/pull/5563#pullrequestreview-5052317139) - 2026-08-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

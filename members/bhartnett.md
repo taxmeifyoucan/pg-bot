@@ -92,6 +92,10 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: KVT put and receipt root optimization](https://github.com/status-im/nimbus-eth1/pull/4671#pullrequestreview-5000181080) - 2026-08-22
 * [Commit] [Hash transactions once and move receipt logs (#4673)](https://github.com/status-im/nimbus-eth1/commit/741f55fced7daea0705e11c885af9b6a78f599f2) - 2026-08-24
 * [Pull Request] [Update nim-rocksdb to v11.1.2.0](https://github.com/status-im/nimbus-eth1/pull/4699) - 2026-08-28
+* [Pull Request] [Revert "Ledger: differentiate accountExists and accountAlive (#4701)"](https://github.com/status-im/nimbus-eth1/pull/4704) - 2026-08-28
+* [Review] [Review on: Ledger: differentiate accountExists and accountAlive](https://github.com/status-im/nimbus-eth1/pull/4701#pullrequestreview-5052397251) - 2026-08-28
+* [Commit] [Update nim-rocksdb to v11.1.2.0 (#4699)](https://github.com/status-im/nimbus-eth1/commit/330d55c7e16449d8a153f7cee1ef2784ebfd2848) - 2026-08-28
+* [Commit] [Revert "Ledger: differentiate accountExists and accountAlive (#4701)" (#4704)](https://github.com/status-im/nimbus-eth1/commit/df33ce4859dc8586a959aa2ed42d838a173ca932) - 2026-08-28
 ## Q2 2026
 
 

@@ -103,6 +103,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [TransactionObject.to should null/none when Transaction is a contract creation (#4686)](https://github.com/status-im/nimbus-eth1/commit/88d05da0e139000f9909200f097a915fcb308420) - 2026-08-27
 * [Pull Request] [Ledger: differentiate accountExists and accountAlive](https://github.com/status-im/nimbus-eth1/pull/4701) - 2026-08-28
 * [Pull Request] [Update EEST mainnet fixtures to v20.0.2](https://github.com/status-im/nimbus-eth1/pull/4698) - 2026-08-28
+* [Pull Request] [Remove unused isNewAccount from callCodeOp/delegateCallOp/staticCallOp](https://github.com/status-im/nimbus-eth1/pull/4706) - 2026-08-29
+* [Commit] [Remove unused isNewAccount from callCodeOp/delegateCallOp/staticCallOp (#4706)](https://github.com/status-im/nimbus-eth1/commit/c4bfecfbf6a92e4fac564d0b01b9452880582bf4) - 2026-08-29
+* [Commit] [Ledger: differentiate accountExists and accountAlive (#4701)](https://github.com/status-im/nimbus-eth1/commit/99070f7dc3ebd8c657421e2b1fe84ab367c5ded2) - 2026-08-28
+* [Commit] [Update EEST mainnet fixtures to v20.0.2 (#4698)](https://github.com/status-im/nimbus-eth1/commit/1a09e2c47a62e33d6bd2daa7cefde35250c64e6d) - 2026-08-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

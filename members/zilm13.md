@@ -112,6 +112,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Hedge slow requests in SimpleSidecarRetriever](https://github.com/Consensys/teku/pull/11011#pullrequestreview-5041296670) - 2026-08-27
 * [Commit] [Hedge slow requests in SimpleSidecarRetriever (#11011)](https://github.com/Consensys/teku/commit/5d09359c707ef5ade32401c3db8a187fabcc084d) - 2026-08-27
 * [Commit] [Other sync improvements (#11162)](https://github.com/Consensys/teku/commit/04b5c526a9722d7fb4d62fb17bc8874369dc5caf) - 2026-08-27
+* [Pull Request] [Avoid duplicate metric events in FCR](https://github.com/Consensys/teku/pull/11198) - 2026-08-28
+* [Review] [Review on: Embed latest execution payload bid in Gloas genesis block body](https://github.com/Consensys/teku/pull/11190#pullrequestreview-5050028161) - 2026-08-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

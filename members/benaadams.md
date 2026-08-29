@@ -242,6 +242,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: Fix peer update timer shutdown race](https://github.com/NethermindEth/nethermind/pull/13010#pullrequestreview-5041004244) - 2026-08-27
 * [Commit] [Fix peer update timer shutdown race (#13010)](https://github.com/NethermindEth/nethermind/commit/ce889caade699931fee82bc774c3c5d0ee9ffcb0) - 2026-08-27
 * [Commit] [Fix simulation head reset during deferred block persistence (#13003)](https://github.com/NethermindEth/nethermind/commit/6315b402f61969accf2fa21e6b41ede7b7b16166) - 2026-08-27
+* [Pull Request] [fix(txpool): harden fork-boundary revalidation](https://github.com/NethermindEth/nethermind/pull/13038) - 2026-08-28
+* [Review] [Review on: fix(txpool): harden fork-boundary revalidation](https://github.com/NethermindEth/nethermind/pull/13038#pullrequestreview-5053661988) - 2026-08-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

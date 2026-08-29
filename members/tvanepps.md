@@ -30,6 +30,9 @@ Team: [protocolguild/documentation](https://github.com/protocolguild/documentati
 * [Commit] [Merge pull request #78 from XRS-001/q3-quarterly-audit](https://github.com/protocolguild/protocol-guild-site/commit/48829231ce91ae21664c43f0f5949f6731d10fce) - 2026-08-26
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Rename "working groups" to "teams" and adjust categories](https://github.com/protocolguild/documentation/pull/534#pullrequestreview-4984929831) - 2026-08-20
+* [Pull Request] [Add Aligned x Protocol Guild Space to resources](https://github.com/protocolguild/documentation/pull/549) - 2026-08-28
+* [Commit] [Merge pull request #549 from tvanepps/add-aligned-space-aug-2026](https://github.com/protocolguild/documentation/commit/7682e7c2e01ff6fbcf5fa0c20a57a21474cd5521) - 2026-08-28
+* [Commit] [Add Aligned x Protocol Guild Space to resources](https://github.com/protocolguild/documentation/commit/9203ebd24707b8da0ea5f2459a1ca51191362921) - 2026-08-28
 ## Q4 2025
 
 

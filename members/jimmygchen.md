@@ -37,6 +37,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Test all Gloas proposer preparation payload attributes](https://github.com/sigp/lighthouse/pull/9914) - 2026-08-25
 * [Review] [Review on: Add per-validator builder configuration API](https://github.com/sigp/lighthouse/pull/9864#pullrequestreview-5037382818) - 2026-08-27
 * [Pull Request] [Fix stale and incorrectly versioned builder preference submissions](https://github.com/sigp/lighthouse/pull/9929) - 2026-08-28
+* [Pull Request] [Fix slot lookup immediately after a head event](https://github.com/sigp/lighthouse/pull/9931) - 2026-08-28
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(engine): serve getBlobsV4 from Osaka](https://github.com/paradigmxyz/reth/pull/26768) - 2026-08-20
 * [Commit] [fix(engine): serve getBlobsV4 from Osaka (#26768)](https://github.com/paradigmxyz/reth/commit/69b94b4e89a593ddf38be2a21dcbb6b61b98a110) - 2026-08-20
@@ -45,6 +46,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Add Gloas bid gas limit test after an empty parent](https://github.com/ethereum/consensus-specs/pull/5567) - 2026-08-25
 * [Pull Request] [Test payload attributes after an empty Gloas parent](https://github.com/ethereum/consensus-specs/pull/5570) - 2026-08-26
 * [Commit] [Test payload attributes after an empty Gloas parent (#5570)](https://github.com/ethereum/consensus-specs/commit/a1bd81a40c0935eb533b00e67ecc99a6df3f892c) - 2026-08-26
+* [Commit] [Add Gloas bid gas limit test after an empty parent (#5567)](https://github.com/ethereum/consensus-specs/commit/939afbc7abc6b1e971a54c5699eabbf4c14e6a79) - 2026-08-28
 ## Q2 2026
 
 

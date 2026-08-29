@@ -68,6 +68,12 @@ Team: Grandine
 * [Commit] [Update some dependencies](https://github.com/grandinetech/grandine/commit/506616fe687d6d7f8d67d1038deadef6f8efc23e) - 2026-08-27
 * [Commit] [Update `grandine-snapshot-tests`](https://github.com/grandinetech/grandine/commit/b12b01aad8e602b71aebb2b417bd0ab5f69e2022) - 2026-08-27
 * [Commit] [Updated SSZ spec runner](https://github.com/grandinetech/grandine/commit/41694cd9dfbc9c3b1998f58c432fbed40474a24b) - 2026-08-27
+* [Review] [Review on: Fix CI build](https://github.com/grandinetech/grandine/pull/892#pullrequestreview-5052152372) - 2026-08-28
+* [Pull Request] [Check dependent roots of attestation targets for pool inclusion without performing slot processing](https://github.com/grandinetech/grandine/pull/891) - 2026-08-28
+* [Review] [Review on: Measure payload envelope timeliness at arrival](https://github.com/grandinetech/grandine/pull/850#pullrequestreview-5050416138) - 2026-08-28
+* [Review] [Review on: Fix dependent_root validation in proposer_preference](https://github.com/grandinetech/grandine/pull/853#pullrequestreview-5050743379) - 2026-08-28
+* [Review] [Review on: Only broadcast proposer preferences for post-Gloas slots](https://github.com/grandinetech/grandine/pull/859#pullrequestreview-5050385338) - 2026-08-28
+* [Commit] [Updated `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/127d6fd490bda5625df39fb07f3a213c5745dbc6) - 2026-08-28
 ## Q2 2026
 
 

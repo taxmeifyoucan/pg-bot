@@ -59,6 +59,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Implement GET `/eth/v1/validator/execution_payload_envelope/...` (#11172)](https://github.com/Consensys/teku/commit/c8705442aa2f5e2acc9f824cf188e172c23a1537) - 2026-08-26
 * [Review] [Review on: Hedge slow requests in SimpleSidecarRetriever](https://github.com/Consensys/teku/pull/11011#pullrequestreview-5041868565) - 2026-08-27
 * [Commit] [Refactor `ExecutionPayloadBidManager` (#11179)](https://github.com/Consensys/teku/commit/75e39eb295b81a1e4a1be53ea0a560515c2d6517) - 2026-08-27
+* [Issue] [Validate a bid coming from an external builder](https://github.com/Consensys/teku/issues/11191) - 2026-08-28
+* [Issue] [Builder API Implementation Gaps](https://github.com/Consensys/teku/issues/11194) - 2026-08-28
+* [Issue] [Adapt proposer config for Gloas](https://github.com/Consensys/teku/issues/11195) - 2026-08-28
 ## Q2 2026
 
 

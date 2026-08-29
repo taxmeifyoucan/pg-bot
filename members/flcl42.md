@@ -279,6 +279,11 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Enable dual-stack RLPx and discv4/discv5 listeners](https://github.com/NethermindEth/nethermind/pull/12982#pullrequestreview-5042059066) - 2026-08-27
 * [Commit] [Fix RLPx/Snappy frame decoding correctness and DoS issues (#12896)](https://github.com/NethermindEth/nethermind/commit/8476e9f4339af4f3765e84ded7bf5e6aebe10247) - 2026-08-27
 * [Commit] [Remove EIP-7610 support (#12935)](https://github.com/NethermindEth/nethermind/commit/7a63aa02da9c5f261fe87cec7fbac1fe2fabcf74) - 2026-08-27
+* [Review] [Review on: fix(xdc): stop advertising eth versions with no handler](https://github.com/NethermindEth/nethermind/pull/13018#pullrequestreview-5050513834) - 2026-08-28
+* [Review] [Review on: fix(engine): align SSZ-REST surface with execution-apis#793](https://github.com/NethermindEth/nethermind/pull/13023#pullrequestreview-5050343326) - 2026-08-28
+* [Commit] [Revalidate the txpool across fork boundaries (#12755)](https://github.com/NethermindEth/nethermind/commit/8b11a3f8be315a0ea3b238d01b5750777e838ecb) - 2026-08-28
+* [Commit] [Add standalone bootnode tool (#12601)](https://github.com/NethermindEth/nethermind/commit/348c1ce182927a21d7fd18b5c11fa8218279faa9) - 2026-08-28
+* [Commit] [Preserve RIPEMD touch across nested reverts (#13016)](https://github.com/NethermindEth/nethermind/commit/3bc542ed2a06a773347e6e94e1ea2b411d3919c6) - 2026-08-28
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

@@ -1142,6 +1142,30 @@ Team: Erigon
 * [Commit] [commitment: catch cases when parallel commitment not enabled (#23596)](https://github.com/erigontech/erigon/commit/843ff9e5fb2825d8b44aa35abfe10c080d9f30a9) - 2026-08-28
 * [Commit] [db: drop `changesetMu` contention (#23547)](https://github.com/erigontech/erigon/commit/1ba09c3cde0e0b0ee491d84cd7c9179203f3ab62) - 2026-08-28
 * [Commit] [rpc: `AccessListTracer` only read the stack for opcodes that use it (#23467)](https://github.com/erigontech/erigon/commit/17a366af730f1ab0a72049889d5d63482e02a3af) - 2026-08-28
+* [Review] [Review on: execution/commitment: use installed reader for branch child counts](https://github.com/erigontech/erigon/pull/23649#pullrequestreview-5056882023) - 2026-08-29
+* [Review] [Review on: rpc/jsonrpc: restore concurrent log subscription coverage](https://github.com/erigontech/erigon/pull/23650#pullrequestreview-5056878901) - 2026-08-29
+* [Pull Request] [build, db, execution, cl, rpc: enable staticcheck's SA checks and fix what they found](https://github.com/erigontech/erigon/pull/23652) - 2026-08-28
+* [Review] [Review on: build, db, execution, cl, rpc: enable staticcheck's SA checks and fix what they found](https://github.com/erigontech/erigon/pull/23652#pullrequestreview-5051850978) - 2026-08-28
+* [Review] [Review on: lru: accounting per-key overhead](https://github.com/erigontech/erigon/pull/23552#pullrequestreview-5051574861) - 2026-08-28
+* [Review] [Review on: cl: fix Gloas bid selection, validation and publication](https://github.com/erigontech/erigon/pull/23583#pullrequestreview-5056906330) - 2026-08-29
+* [Review] [Review on: execution/types: wire the tx-type registry into the three receipt dispatch sites](https://github.com/erigontech/erigon/pull/23565#pullrequestreview-5056941827) - 2026-08-29
+* [Review] [Review on: cl/services: share pending queue for payload gossip](https://github.com/erigontech/erigon/pull/23643#pullrequestreview-5056911725) - 2026-08-29
+* [Review] [Review on: execution: introduce finality context](https://github.com/erigontech/erigon/pull/23651#pullrequestreview-5056823957) - 2026-08-29
+* [Review] [Review on: [r3.6] p2p/discover: require bond for ping endpoint statements](https://github.com/erigontech/erigon/pull/23639#pullrequestreview-5056902097) - 2026-08-29
+* [Review] [Review on: execution/state: skip the self-destruct storage walk when the address has no account](https://github.com/erigontech/erigon/pull/23604#pullrequestreview-5050149117) - 2026-08-28
+* [Pull Request] [execution/commitment: derive the account hashed key only when it is used](https://github.com/erigontech/erigon/pull/23654) - 2026-08-28
+* [Pull Request] [db/downloader: a kept local snapshot cannot upload](https://github.com/erigontech/erigon/pull/23653) - 2026-08-28
+* [Pull Request] [execution/stagedsync: fold only the new range at a mid-block step checkpoint](https://github.com/erigontech/erigon/pull/23657) - 2026-08-29
+* [Pull Request] [execution/stagedsync: drop a step checkpoint's dirty keys once it has folded](https://github.com/erigontech/erigon/pull/23656) - 2026-08-28
+* [Pull Request] [db/etl: read a buffer with Next instead of Get(i)](https://github.com/erigontech/erigon/pull/23621) - 2026-08-28
+* [Review] [Review on: db/etl: read a buffer with Next instead of Get(i)](https://github.com/erigontech/erigon/pull/23621#pullrequestreview-5050166136) - 2026-08-28
+* [Review] [Review on: cl: reject incomplete GetPayload responses](https://github.com/erigontech/erigon/pull/23575#pullrequestreview-5050319917) - 2026-08-28
+* [Review] [Review on: exec, commitment, cl/beacon: clear pooled objects (which hold bytecode ptr)](https://github.com/erigontech/erigon/pull/23642#pullrequestreview-5050211695) - 2026-08-28
+* [Commit] [execution/state: BAL construction is quadratic in slots per account (#23637)](https://github.com/erigontech/erigon/commit/1e70fce84484e7dfe540e2b18b19c2f915dcf8aa) - 2026-08-28
+* [Commit] [rpc/jsonstream: bulk-copy strings that need no escaping (#23493)](https://github.com/erigontech/erigon/commit/1ea36344c83283849179941edcfb7ae760ab314c) - 2026-08-28
+* [Commit] [db/etl: read a buffer with Next instead of Get(i) (#23621)](https://github.com/erigontech/erigon/commit/e3aa338b87c4723920bba1d190874e2b9825b1d7) - 2026-08-28
+* [Commit] [exec, commitment, cl/beacon: clear pooled objects (which hold bytecode ptr) (#23642)](https://github.com/erigontech/erigon/commit/f83ae829a167591c9a43d3154471d702b8dd8dea) - 2026-08-28
+* [Commit] [tools: bound the heap on the 150M-gas EEST shards (#23640)](https://github.com/erigontech/erigon/commit/32cb348bd503121b09e67c432b204ad160cd24a8) - 2026-08-28
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

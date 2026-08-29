@@ -86,6 +86,11 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Initialize anchor PTC vote arrays in `get_forkchoice_store`](https://github.com/ethereum/consensus-specs/pull/5545#pullrequestreview-4981917640) - 2026-08-20
 * [Review] [Review on: Load gossip validation state from the store](https://github.com/ethereum/consensus-specs/pull/5563#pullrequestreview-5032175446) - 2026-08-26
 * [Review] [Review on: Load gossip validation state from the store](https://github.com/ethereum/consensus-specs/pull/5563#pullrequestreview-5039818732) - 2026-08-27
+* [Pull Request] [Move seen check to the top in proposer preferences gossip check](https://github.com/ethereum/consensus-specs/pull/5579) - 2026-08-28
+* [Pull Request] [Fix some inconsistency in executable p2p's messages](https://github.com/ethereum/consensus-specs/pull/5578) - 2026-08-28
+* [Pull Request] [Reorder Seen's proposer preferences's key](https://github.com/ethereum/consensus-specs/pull/5577) - 2026-08-28
+* [Commit] [Fix some inconsistency in executable p2p's messages (#5578)](https://github.com/ethereum/consensus-specs/commit/33d0f4242b1c383a1e31884f9a95f37ed4d1ffcf) - 2026-08-28
+* [Commit] [Reorder Seen's proposer preferences's key (#5577)](https://github.com/ethereum/consensus-specs/commit/6bc66159a8530cef209028a5ae7739f94433ffc4) - 2026-08-28
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
@@ -96,6 +101,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 
 * [Pull Request] [Add initial FOCIL spec](https://github.com/ethereum/execution-apis/pull/609) - 2026-08-03
 * [Commit] [Add initial FOCIL spec (#609)](https://github.com/ethereum/execution-apis/commit/bf20b4083284e677db19e7f3871bd669b88354a6) - 2026-08-03
+* [Pull Request] [fix: rename max IL transactions bytes constants](https://github.com/ethereum/execution-apis/pull/871) - 2026-08-28
+* [Commit] [fix: rename max IL transactions bytes constants (#871)](https://github.com/ethereum/execution-apis/commit/739f9e00806003d2204adca7595f704849b9be30) - 2026-08-28
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/pull/12029) - 2026-07-29
 * [Commit] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/commit/cff8e93347c8f6c5f30d5ae7e8875406f71179de) - 2026-07-29
