@@ -106,6 +106,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [make BoringSSL optional for the sha256 and P256VERIFY precompiles](https://github.com/status-im/nimbus-eth1/pull/4705) - 2026-08-28
 * [Pull Request] [Makefile: share the zkVM guest build flags across guest targets](https://github.com/status-im/nimbus-eth1/pull/4703) - 2026-08-28
 * [Commit] [Makefile: share the zkVM guest build flags across guest targets (#4703)](https://github.com/status-im/nimbus-eth1/commit/3b8fe9d06b330b168a19b47aaeb98c9f80308fa6) - 2026-08-28
+* [Review] [Review on: make BoringSSL optional for the sha256 and P256VERIFY precompiles](https://github.com/status-im/nimbus-eth1/pull/4705#pullrequestreview-5057422576) - 2026-08-29
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

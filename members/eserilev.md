@@ -130,6 +130,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Initiate a shutdown if the node cannot recover from a diverged fork choice](https://github.com/sigp/lighthouse/pull/9819#pullrequestreview-5030604005) - 2026-08-26
 * [Review] [Review on: Check withdrawals consistency between block prod and payload attributes](https://github.com/sigp/lighthouse/pull/9920#pullrequestreview-5027675555) - 2026-08-26
 * [Review] [Review on: Align gloas proposer reorg weight logic w/ spec ](https://github.com/sigp/lighthouse/pull/9831#pullrequestreview-5027600568) - 2026-08-26
+* [Review] [Review on: Cache pending deposit signatures for builder onboarding at the gloas fork](https://github.com/sigp/lighthouse/pull/9817#pullrequestreview-5057660036) - 2026-08-29
+* [Review] [Review on: Fix valid Gloas bids rejected with InvalidGasLimit after an empty parent](https://github.com/sigp/lighthouse/pull/9905#pullrequestreview-5058742523) - 2026-08-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

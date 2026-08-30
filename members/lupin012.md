@@ -164,6 +164,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [[r3.6] rpc/jsonrpc, docs: report base fee sub-pool transactions as pending](https://github.com/erigontech/erigon/pull/23647) - 2026-08-28
 * [Pull Request] [rpc: apply eth_estimateGas state overrides to pre-execution checks](https://github.com/erigontech/erigon/pull/23655) - 2026-08-28
 * [Commit] [rpc/jsonrpc, docs: report base fee sub-pool transactions as pending (#23624)](https://github.com/erigontech/erigon/commit/8f32ad3b40a5c9c57df6b1af4b4ddfa9345f38fc) - 2026-08-28
+* [Pull Request] [rpc/rpchelper: stop mutating the log shared with subscribers](https://github.com/erigontech/erigon/pull/23665) - 2026-08-29
+* [Pull Request] [execution/types, rpc/jsonrpc: drop ErigonLog in favour of RPCLog](https://github.com/erigontech/erigon/pull/23667) - 2026-08-29
+* [Pull Request] [rpc: reject null for required positional arguments](https://github.com/erigontech/erigon/pull/23668) - 2026-08-29
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

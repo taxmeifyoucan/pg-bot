@@ -91,6 +91,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Reorder Seen's proposer preferences's key](https://github.com/ethereum/consensus-specs/pull/5577) - 2026-08-28
 * [Commit] [Fix some inconsistency in executable p2p's messages (#5578)](https://github.com/ethereum/consensus-specs/commit/33d0f4242b1c383a1e31884f9a95f37ed4d1ffcf) - 2026-08-28
 * [Commit] [Reorder Seen's proposer preferences's key (#5577)](https://github.com/ethereum/consensus-specs/commit/6bc66159a8530cef209028a5ae7739f94433ffc4) - 2026-08-28
+* [Pull Request] [Support Gloas genesis in proposer preferences gossip](https://github.com/ethereum/consensus-specs/pull/5582) - 2026-08-29
+* [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5058010345) - 2026-08-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

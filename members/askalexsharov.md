@@ -1166,6 +1166,25 @@ Team: Erigon
 * [Commit] [db/etl: read a buffer with Next instead of Get(i) (#23621)](https://github.com/erigontech/erigon/commit/e3aa338b87c4723920bba1d190874e2b9825b1d7) - 2026-08-28
 * [Commit] [exec, commitment, cl/beacon: clear pooled objects (which hold bytecode ptr) (#23642)](https://github.com/erigontech/erigon/commit/f83ae829a167591c9a43d3154471d702b8dd8dea) - 2026-08-28
 * [Commit] [tools: bound the heap on the 150M-gas EEST shards (#23640)](https://github.com/erigontech/erigon/commit/32cb348bd503121b09e67c432b204ad160cd24a8) - 2026-08-28
+* [Review] [Review on: common, cl: enable errcheck across common/* and resolve #23577 review follow-ups](https://github.com/erigontech/erigon/pull/23669#pullrequestreview-5058000000) - 2026-08-29
+* [Pull Request] [cache: don't copy when moving values from `kv.TemporalMemBatch` to `lru`](https://github.com/erigontech/erigon/pull/23664) - 2026-08-29
+* [Review] [Review on: cache: don't copy when moving values from `kv.TemporalMemBatch` to `lru`](https://github.com/erigontech/erigon/pull/23664#pullrequestreview-5057403018) - 2026-08-29
+* [Pull Request] [cache: remove CodeStore's cache](https://github.com/erigontech/erigon/pull/23666) - 2026-08-29
+* [Review] [Review on: cache: remove CodeStore's cache](https://github.com/erigontech/erigon/pull/23666#pullrequestreview-5057696080) - 2026-08-29
+* [Review] [Review on: rpc/rpchelper: stop mutating the log shared with subscribers](https://github.com/erigontech/erigon/pull/23665#pullrequestreview-5057789395) - 2026-08-29
+* [Review] [Review on: execution/types, rpc/jsonrpc: drop ErigonLog in favour of RPCLog](https://github.com/erigontech/erigon/pull/23667#pullrequestreview-5057785730) - 2026-08-29
+* [Review] [Review on: build, db, execution, cl, p2p, rpc, txnprovider: enable staticcheck (SA + S1) and fix what it found](https://github.com/erigontech/erigon/pull/23652#pullrequestreview-5057359132) - 2026-08-29
+* [Pull Request] [db/kv/stream: fix limit bypass on an empty side, pagination truncation](https://github.com/erigontech/erigon/pull/23663) - 2026-08-29
+* [Review] [Review on: db/kv/stream: fix limit bypass on an empty side, pagination truncation](https://github.com/erigontech/erigon/pull/23663#pullrequestreview-5057354213) - 2026-08-29
+* [Review] [Review on: execution/commitment: compact the pbin branch record and convert pre-version datadirs](https://github.com/erigontech/erigon/pull/23564#pullrequestreview-5057163155) - 2026-08-29
+* [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.86.2 to 0.87.3](https://github.com/erigontech/erigon/pull/23660#pullrequestreview-5057302864) - 2026-08-29
+* [Pull Request] [go.mod: up deps before 3.7 release](https://github.com/erigontech/erigon/pull/23661) - 2026-08-29
+* [Review] [Review on: cmd: enable errcheck across cmd/* CLI tooling and fix violations](https://github.com/erigontech/erigon/pull/23630#pullrequestreview-5057166821) - 2026-08-29
+* [Review] [Review on: rpc/rpchelper, txnprovider/shutter: fix silent event losses breaking shutter block building](https://github.com/erigontech/erigon/pull/23228#pullrequestreview-5057037758) - 2026-08-29
+* [Pull Request] [rpc/rpchelper, engineapitester: unblock receipts reconnect, check hash before receipt](https://github.com/erigontech/erigon/pull/23659) - 2026-08-29
+* [Pull Request] [rpc/rpchelper, engineapitester: unblock receipts reconnect, check hash before receipt](https://github.com/erigontech/erigon/pull/23658) - 2026-08-29
+* [Issue] [execution/tests: EEST 150M-gas unchunkified_bytecode peaks at 16-17 GB RSS](https://github.com/erigontech/erigon/issues/23662) - 2026-08-29
+* [Commit] [execution/state: skip the self-destruct storage walk when the address has no account (#23604)](https://github.com/erigontech/erigon/commit/d4f729257d0642cb38924c568534123cc8101526) - 2026-08-29
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

@@ -38,6 +38,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Add per-validator builder configuration API](https://github.com/sigp/lighthouse/pull/9864#pullrequestreview-5037382818) - 2026-08-27
 * [Pull Request] [Fix stale and incorrectly versioned builder preference submissions](https://github.com/sigp/lighthouse/pull/9929) - 2026-08-28
 * [Pull Request] [Fix slot lookup immediately after a head event](https://github.com/sigp/lighthouse/pull/9931) - 2026-08-28
+* [Pull Request] [Fix Gloas envelope lookups failing with MissingBid](https://github.com/sigp/lighthouse/pull/9940) - 2026-08-30
+* [Pull Request] [Validator client publishes legacy registrations after Gloas](https://github.com/sigp/lighthouse/pull/9939) - 2026-08-29
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(engine): serve getBlobsV4 from Osaka](https://github.com/paradigmxyz/reth/pull/26768) - 2026-08-20
 * [Commit] [fix(engine): serve getBlobsV4 from Osaka (#26768)](https://github.com/paradigmxyz/reth/commit/69b94b4e89a593ddf38be2a21dcbb6b61b98a110) - 2026-08-20

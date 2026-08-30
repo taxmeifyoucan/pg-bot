@@ -404,6 +404,8 @@ Team: Erigon
 * [Review] [Review on: db/etl: read a buffer with Next instead of Get(i)](https://github.com/erigontech/erigon/pull/23621#pullrequestreview-5049161282) - 2026-08-28
 * [Review] [Review on: exec, commitment, cl/beacon: clear pooled objects (which hold bytecode ptr)](https://github.com/erigontech/erigon/pull/23642#pullrequestreview-5049426254) - 2026-08-28
 * [Commit] [db/state: make COLLATE/MERGE/COMPRESS_WORKERS reach the aggregator (#23615)](https://github.com/erigontech/erigon/commit/e39091348de17c5566a83aed43de020736e04fd9) - 2026-08-28
+* [Commit] [execution/commitment: commitment metrics as counters, round duration and branch IO bytes (#23589)](https://github.com/erigontech/erigon/commit/34c3792cdd7ccbf3184c5b003c0ad924361aea8d) - 2026-08-29
+* [Commit] [execution/types: wire the tx-type registry into the three receipt dispatch sites (#23565)](https://github.com/erigontech/erigon/commit/a5e8d5a21ac2bd4c4e02d75e90bb6bce3cb169dc) - 2026-08-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

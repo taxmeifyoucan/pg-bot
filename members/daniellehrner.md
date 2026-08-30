@@ -88,6 +88,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Run Hive tests via evmtool](https://github.com/besu-eth/besu/pull/11030#pullrequestreview-5053457042) - 2026-08-28
 * [Review] [Review on: Treat engine API uint64 timestamps as unsigned](https://github.com/besu-eth/besu/pull/11176#pullrequestreview-5052285714) - 2026-08-28
 * [Commit] [Treat engine API uint64 timestamps as unsigned (#11176)](https://github.com/besu-eth/besu/commit/50aeb403792ac874e2f1491a7a3899b0d3f15e5d) - 2026-08-28
+* [Pull Request] [Remove eip7610 logic and update to latest reference tests](https://github.com/besu-eth/besu/pull/11191) - 2026-08-29
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

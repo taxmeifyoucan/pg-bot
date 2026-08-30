@@ -37,6 +37,8 @@ Team: Nimbus
 * [Commit] [Snap2 sync update fsa and workings (#4661)](https://github.com/status-im/nimbus-eth1/commit/d187f1a28a324a4a79ead53a7553776aea4c7cfb) - 2026-08-19
 * [Pull Request] [Snap2 sync maint update](https://github.com/status-im/nimbus-eth1/pull/4672) - 2026-08-21
 * [Commit] [Snap2 sync maint update (#4672)](https://github.com/status-im/nimbus-eth1/commit/7e573f7ce6380af6414febc30ff70ff0f816db81) - 2026-08-21
+* [Pull Request] [Snap2 sync update download modules](https://github.com/status-im/nimbus-eth1/pull/4708) - 2026-08-29
+* [Commit] [Snap2 sync update download modules (#4708)](https://github.com/status-im/nimbus-eth1/commit/36e75fb4f19bcb40761b5b8a11767967603e7a50) - 2026-08-29
 ## Q2 2026
 
 

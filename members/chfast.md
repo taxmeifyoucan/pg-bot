@@ -216,6 +216,14 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [ci: Build without testing in the min-compiler jobs](https://github.com/ipsilon/evmone/pull/1679) - 2026-08-28
 * [Commit] [ci: Build without testing in the min-compiler jobs (#1679)](https://github.com/ipsilon/evmone/commit/aa9ca5122a58ca520721872a035775595da3aec2) - 2026-08-28
 * [Commit] [test: Move the fixture runners into evmone::testutils (#1676)](https://github.com/ipsilon/evmone/commit/37d490bfaa23408f8a2f7b3fb609c48bd9b87a6a) - 2026-08-28
+* [Pull Request] [test: Add --ignore and --collect-only and use them in CI](https://github.com/ipsilon/evmone/pull/1683) - 2026-08-29
+* [Review] [Review on: test: Add --ignore and --collect-only and use them in CI](https://github.com/ipsilon/evmone/pull/1683#pullrequestreview-5058825970) - 2026-08-29
+* [Pull Request] [ci: Upgrade execution-specs tests](https://github.com/ipsilon/evmone/pull/1682) - 2026-08-29
+* [Pull Request] [test: Give BlockHeader's scalars default initializers](https://github.com/ipsilon/evmone/pull/1681) - 2026-08-29
+* [Commit] [test: Add --ignore and --collect-only and use them in CI (#1683)](https://github.com/ipsilon/evmone/commit/01d0e0f1e87145081bdc103b75d6d1eb440d6fb5) - 2026-08-29
+* [Commit] [ci: Upgrade execution-specs tests (#1682)](https://github.com/ipsilon/evmone/commit/14ed4adacb6bc43b32ff4a0f3a99e2bf545403ef) - 2026-08-29
+* [Commit] [test: Collect the test files in one place (#1680)](https://github.com/ipsilon/evmone/commit/2efd762975c29f665397a7de2121c7f314bd2fb7) - 2026-08-29
+* [Commit] [test: Give BlockHeader's scalars default initializers (#1681)](https://github.com/ipsilon/evmone/commit/009d9504c270dc6b51c1c8dee813b01da245c757) - 2026-08-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -282,6 +290,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Update EIP-8037: decouple SYSTEM_MAX_SSTORES_PER_CALL from request bounds](https://github.com/ethereum/EIPs/commit/187336f46c2b54ae295ced6e8cffd48bf5989ba6) - 2026-08-25
 * [Pull Request] [Update EIP-8037: restore a frame's state-gas on rollback](https://github.com/ethereum/EIPs/pull/12256) - 2026-08-28
 * [Pull Request] [Update EIP-8037: refill state-gas for a SELFDESTRUCTed account](https://github.com/ethereum/EIPs/pull/12249) - 2026-08-27
+* [Pull Request] [Update EIP-8037: return state-gas to gas_left when a child merges](https://github.com/ethereum/EIPs/pull/12265) - 2026-08-29
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22522#pullrequestreview-4717730901) - 2026-07-16
 * [Pull Request] [types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514) - 2026-07-16
@@ -290,6 +299,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [execution/types: reject truncated typed transactions in block-body decoding (#23000)](https://github.com/erigontech/erigon/commit/2c50255829a8af4207c80abe09ce6d2375c3c2f6) - 2026-08-05
 * [Issue] [EIP-7928: different block_access_list_hash than other clients, valid block rejected](https://github.com/erigontech/erigon/issues/23407) - 2026-08-19
 
+* [Issue] [EIP-7928: BAL omits a touched RIPEMD-160 (0x03), valid block rejected](https://github.com/erigontech/erigon/issues/23670) - 2026-08-29
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [tests: validateHeader compares baseFeePerGas with reflect.DeepEqual, so a zero base fee always fails](https://github.com/ethereum/go-ethereum/issues/35555) - 2026-08-19
 

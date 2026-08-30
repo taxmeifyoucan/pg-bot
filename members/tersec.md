@@ -126,6 +126,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [early exit on excessive column by range req/resp](https://github.com/status-im/nimbus-eth2/pull/8958) - 2026-08-28
 * [Commit] [version v26.8.0](https://github.com/status-im/nimbus-eth2/commit/404a0001561d1d83c5b5bf35dcbedbcb5fb86572) - 2026-08-28
 * [Commit] [early exit on excessive column by range req/resp (#8958)](https://github.com/status-im/nimbus-eth2/commit/2747aadb7aee22a298712648be995195e0a0c4f9) - 2026-08-28
+* [Review] [Review on: req/resp domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8876#pullrequestreview-5056824558) - 2026-08-29
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

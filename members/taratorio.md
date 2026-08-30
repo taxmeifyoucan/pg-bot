@@ -299,6 +299,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: warm commitment branches from BAL (#23627)](https://github.com/erigontech/erigon/commit/63fdd627767bf1eb4d535dc2cb69a7d7d9e3824c) - 2026-08-28
 * [Commit] [ci: update to latest eest stable fixtures (#23648)](https://github.com/erigontech/erigon/commit/200879fc8fc1e798f1004911e0296faf5623ded4) - 2026-08-28
 * [Commit] [db/mdbx: add env var for chaindata readahead (#23629)](https://github.com/erigontech/erigon/commit/edae11b92999044e48132492ca89778d8a31a638) - 2026-08-28
+* [Commit] [execution: fix wrong BAL due to missing sstore storage slot read after selfdestruct (#23541)](https://github.com/erigontech/erigon/commit/8920943aed8f432e860581ff47434ac585d82254) - 2026-08-29
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

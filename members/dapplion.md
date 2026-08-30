@@ -51,6 +51,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Review] [Review on: engine_forkchoiceUpdatedV4: provide custody columns to the EL](https://github.com/sigp/lighthouse/pull/9547#pullrequestreview-4928469404) - 2026-08-13
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot (alpha.13)](https://github.com/sigp/lighthouse/pull/9761#pullrequestreview-4955872783) - 2026-08-18
 * [Pull Request] [Add tree sync spec](https://github.com/sigp/lighthouse/pull/9913) - 2026-08-24
+* [Pull Request] [Re-enable optimistic sync for Gloas payload envelopes](https://github.com/sigp/lighthouse/pull/9934) - 2026-08-29
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 
