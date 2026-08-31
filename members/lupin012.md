@@ -167,6 +167,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc/rpchelper: stop mutating the log shared with subscribers](https://github.com/erigontech/erigon/pull/23665) - 2026-08-29
 * [Pull Request] [execution/types, rpc/jsonrpc: drop ErigonLog in favour of RPCLog](https://github.com/erigontech/erigon/pull/23667) - 2026-08-29
 * [Pull Request] [rpc: reject null for required positional arguments](https://github.com/erigontech/erigon/pull/23668) - 2026-08-29
+* [Review] [Review on: execution/types, rpc/jsonrpc: drop ErigonLog in favour of RPCLog](https://github.com/erigontech/erigon/pull/23667#pullrequestreview-5061911866) - 2026-08-30
+* [Review] [Review on: rpc/rpchelper: stop mutating the log shared with subscribers](https://github.com/erigontech/erigon/pull/23665#pullrequestreview-5061771372) - 2026-08-30
+* [Commit] [rpc/jsonrpc: gate receipts and logs on the data they actually read (#23322)](https://github.com/erigontech/erigon/commit/47f107ee638152c62342c682f945db42974dae5e) - 2026-08-30
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -185,6 +188,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [erigon_getLogsByHash: expect [] instead of null for receipts with no logs (#591)](https://github.com/erigontech/rpc-tests/commit/73992926bb41ecc29f9d48f4a93a8acddc3117ed) - 2026-08-21
 * [Pull Request] [gnosis: fix trace_call no vmtrace](https://github.com/erigontech/rpc-tests/pull/592) - 2026-08-25
 * [Pull Request] [integration-test: eth_estimateGas update expected test 17/28 for state Override](https://github.com/erigontech/rpc-tests/pull/593) - 2026-08-28
+* [Commit] [update_eth_estimateGas_stateOverride (#593)](https://github.com/erigontech/rpc-tests/commit/dbcb8722b13d766bce6c0c63db569359441500ef) - 2026-08-30
 ## Q2 2026
 
 

@@ -448,6 +448,7 @@ Team: Reth
 * [Commit] [docs(tasks): document worker access reentrancy (#26873)](https://github.com/paradigmxyz/reth/commit/f55ba955cd9ed40f6d1e69479cc6ed10c03545a9) - 2026-08-28
 * [Commit] [fix(txpool): enforce minimum priority fee for local transactions (#26861)](https://github.com/paradigmxyz/reth/commit/74ce7f1b2be659f4deb9ec8946e9e606368209f5) - 2026-08-28
 * [Commit] [revert: "chore(deps): bump revm to 43.0.0" (#26858)](https://github.com/paradigmxyz/reth/commit/66a08aba2274d3446caf5d8849fda9b6a0e2f770) - 2026-08-28
+* [Pull Request] [fix(rpc): converge generated access lists](https://github.com/paradigmxyz/reth/pull/26878) - 2026-08-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

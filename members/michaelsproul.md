@@ -73,6 +73,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924#pullrequestreview-5037347995) - 2026-08-27
 * [Pull Request] [Check withdrawals consistency between block prod and payload attributes](https://github.com/sigp/lighthouse/pull/9920) - 2026-08-26
 * [Review] [Review on: Align gloas proposer reorg weight logic w/ spec ](https://github.com/sigp/lighthouse/pull/9831#pullrequestreview-5027617909) - 2026-08-26
+* [Review] [Review on: Add check for `--disable-proposer-reorg` flag](https://github.com/sigp/lighthouse/pull/9926#pullrequestreview-5062587315) - 2026-08-31
 ## Q2 2026
 
 

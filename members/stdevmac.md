@@ -48,6 +48,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: ci: send GCP machine types to the smoke-test dispatches](https://github.com/NethermindEth/nethermind/pull/13014#pullrequestreview-5045046962) - 2026-08-27
 * [Review] [Review on: Fix false 'header < body' block tree corruption after ungraceful restart while beacon syncing](https://github.com/NethermindEth/nethermind/pull/12876#pullrequestreview-5040925176) - 2026-08-27
 * [Review] [Review on: Fix peer update timer shutdown race](https://github.com/NethermindEth/nethermind/pull/13010#pullrequestreview-5040903110) - 2026-08-27
+* [Pull Request] [fix: don't log expected shutdown cancellation/teardown as error/warning](https://github.com/NethermindEth/nethermind/pull/13046) - 2026-08-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

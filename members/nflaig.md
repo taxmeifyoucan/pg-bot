@@ -403,6 +403,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat: reorg weak head when the proposer equivocated](https://github.com/ChainSafe/lodestar/pull/9929) - 2026-08-27
 * [Review] [Review on: feat: reorg weak head when the proposer equivocated](https://github.com/ChainSafe/lodestar/pull/9929#pullrequestreview-5039821095) - 2026-08-27
 * [Commit] [feat: implement gloas builder api (#9832)](https://github.com/ChainSafe/lodestar/commit/57572140f8b75ab72466a869bf7bdc0ad0db265e) - 2026-08-27
+* [Review] [Review on: feat: flood publish execution payload bids](https://github.com/ChainSafe/lodestar/pull/9914#pullrequestreview-5060502828) - 2026-08-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

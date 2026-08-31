@@ -89,6 +89,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Review] [Review on: Treat engine API uint64 timestamps as unsigned](https://github.com/besu-eth/besu/pull/11176#pullrequestreview-5052285714) - 2026-08-28
 * [Commit] [Treat engine API uint64 timestamps as unsigned (#11176)](https://github.com/besu-eth/besu/commit/50aeb403792ac874e2f1491a7a3899b0d3f15e5d) - 2026-08-28
 * [Pull Request] [Remove eip7610 logic and update to latest reference tests](https://github.com/besu-eth/besu/pull/11191) - 2026-08-29
+* [Pull Request] [Check the EIP-7928 item budget after execution only, not on the supplied BAL](https://github.com/besu-eth/besu/pull/11195) - 2026-08-30
+* [Pull Request] [engine: check an execution request's length before its type byte](https://github.com/besu-eth/besu/pull/11194) - 2026-08-30
+* [Pull Request] [Reject an empty EIP-7702 authorization list in validation, not in decoding](https://github.com/besu-eth/besu/pull/11193) - 2026-08-30
+* [Pull Request] [engine: name executionRequests in the unsupported-request-type error](https://github.com/besu-eth/besu/pull/11192) - 2026-08-30
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

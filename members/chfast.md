@@ -224,6 +224,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [ci: Upgrade execution-specs tests (#1682)](https://github.com/ipsilon/evmone/commit/14ed4adacb6bc43b32ff4a0f3a99e2bf545403ef) - 2026-08-29
 * [Commit] [test: Collect the test files in one place (#1680)](https://github.com/ipsilon/evmone/commit/2efd762975c29f665397a7de2121c7f314bd2fb7) - 2026-08-29
 * [Commit] [test: Give BlockHeader's scalars default initializers (#1681)](https://github.com/ipsilon/evmone/commit/009d9504c270dc6b51c1c8dee813b01da245c757) - 2026-08-29
+* [Pull Request] [test: Replace gtest with a test driver in the test tools](https://github.com/ipsilon/evmone/pull/1684) - 2026-08-30
+* [Commit] [test: Replace gtest with a test driver in the test tools (#1684)](https://github.com/ipsilon/evmone/commit/ab7e49b8211e7f0a35a1502ac82de3f5d732de7a) - 2026-08-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

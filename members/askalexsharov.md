@@ -1185,6 +1185,9 @@ Team: Erigon
 * [Pull Request] [rpc/rpchelper, engineapitester: unblock receipts reconnect, check hash before receipt](https://github.com/erigontech/erigon/pull/23658) - 2026-08-29
 * [Issue] [execution/tests: EEST 150M-gas unchunkified_bytecode peaks at 16-17 GB RSS](https://github.com/erigontech/erigon/issues/23662) - 2026-08-29
 * [Commit] [execution/state: skip the self-destruct storage walk when the address has no account (#23604)](https://github.com/erigontech/erigon/commit/d4f729257d0642cb38924c568534123cc8101526) - 2026-08-29
+* [Pull Request] [execution/exec: stop retries from consuming the fresh-task dispatch budget](https://github.com/erigontech/erigon/pull/23671) - 2026-08-30
+* [Review] [Review on: execution/exec: stop retries from consuming the fresh-task dispatch budget](https://github.com/erigontech/erigon/pull/23671#pullrequestreview-5060034519) - 2026-08-30
+* [Review] [Review on: db/downloader: bound kept-snapshot seeding and rebuild malformed metainfo](https://github.com/erigontech/erigon/pull/23459#pullrequestreview-5060038047) - 2026-08-30
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

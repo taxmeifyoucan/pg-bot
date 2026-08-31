@@ -191,6 +191,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Pack Electra attestations by marginal proposer reward](https://github.com/OffchainLabs/prysm/pull/17416#pullrequestreview-5055344957) - 2026-08-28
 * [Pull Request] [slot plan refactor](https://github.com/OffchainLabs/prysm/pull/17428) - 2026-08-28
 * [Review] [Review on: Extract shared indexed-list decoders for beacon REST handlers](https://github.com/OffchainLabs/prysm/pull/17399#pullrequestreview-5052603721) - 2026-08-28
+* [Review] [Review on: hooking up validator client to builder apis for gloas ](https://github.com/OffchainLabs/prysm/pull/17397#pullrequestreview-5062762267) - 2026-08-31
 ## Q2 2026
 
 

@@ -230,6 +230,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: eth_estimateGas: return exact gas for plain value transfers](https://github.com/besu-eth/besu/pull/11178#pullrequestreview-5048454951) - 2026-08-28
 * [Review] [Review on: fix(test): fix post nonce decoding in NonceChange in reference tests](https://github.com/besu-eth/besu/pull/11180#pullrequestreview-5047954414) - 2026-08-28
 * [Pull Request] [remove totalDifficulty from all block results](https://github.com/besu-eth/besu/pull/11179) - 2026-08-28
+* [Review] [Review on: Treat an omitted or null GraphQL logs topics filter as matching any topic](https://github.com/besu-eth/besu/pull/11188#pullrequestreview-5062736161) - 2026-08-31
+* [Review] [Review on: Compare the cached Engine API JWT with MessageDigest.isEqual](https://github.com/besu-eth/besu/pull/11189#pullrequestreview-5060071609) - 2026-08-30
+* [Commit] [Update ENR fork ID on first block crossing a timestamp fork (#10914)](https://github.com/besu-eth/besu/commit/ba5a012bcc9b94908f2580193fce204189183a74) - 2026-08-31
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

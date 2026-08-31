@@ -601,6 +601,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [rpc/jsonrpc: keep request commitment reads off shared BranchCache (#22198)](https://github.com/erigontech/erigon/commit/7466775f80bde5e71fe596ee04f4550565cced33) - 2026-08-28
 * [Review] [Review on: feat(unwind): log reorg paths that bypass the on-disk unwind](https://github.com/erigontech/erigon/pull/23071#pullrequestreview-5057376892) - 2026-08-29
 * [Commit] [cl/services: share pending queue for payload gossip (#23643)](https://github.com/erigontech/erigon/commit/1d3367e27e08f16ca7c3f934b96b5244e0043e44) - 2026-08-29
+* [Commit] [rpc/rpchelper, txnprovider/shutter: fix silent event losses breaking shutter block building (#23228)](https://github.com/erigontech/erigon/commit/67da19c18e77b24b58ed4deb7f1c8f2596d65217) - 2026-08-30
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

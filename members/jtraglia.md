@@ -237,6 +237,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Reorder Seen's proposer preferences's key](https://github.com/ethereum/consensus-specs/pull/5577#pullrequestreview-5052144555) - 2026-08-28
 * [Commit] [Revamp the README (#5581)](https://github.com/ethereum/consensus-specs/commit/3434cc69d695604ea52253e31486f46ba0e36901) - 2026-08-28
 * [Commit] [Load gossip validation state from the store (#5563)](https://github.com/ethereum/consensus-specs/commit/e524a5830d03b5974d878d66358079a045b7ac36) - 2026-08-28
+* [Review] [Review on: Support Gloas genesis in proposer preferences gossip](https://github.com/ethereum/consensus-specs/pull/5582#pullrequestreview-5062217456) - 2026-08-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

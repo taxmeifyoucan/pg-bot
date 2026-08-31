@@ -166,6 +166,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: enhance UnknownBlockPeerBalancer for gloas (#9928)](https://github.com/ChainSafe/lodestar/commit/101e2c290d37fe37e1f785d41be56a5d76aec4c9) - 2026-08-27
 * [Review] [Review on: feat: enhance UnknownBlockPeerBalancer for gloas](https://github.com/ChainSafe/lodestar/pull/9928#pullrequestreview-5050917573) - 2026-08-28
 * [Issue] [engine_newPayload dispatched ~300ms after block receipt delays head votes on heavy blocks](https://github.com/ChainSafe/lodestar/issues/9939) - 2026-08-30
+* [Pull Request] [feat: track queue time of gossipsub messages](https://github.com/ChainSafe/lodestar/pull/9940) - 2026-08-30
+* [Issue] [Gossip message received to validation latency](https://github.com/ChainSafe/lodestar/issues/9942) - 2026-08-30
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

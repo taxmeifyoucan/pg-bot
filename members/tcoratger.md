@@ -117,6 +117,8 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: perf(stir): batch the OOD-sampling and degree-correction hot loops](https://github.com/Plonky3/Plonky3/pull/1992#pullrequestreview-5020185412) - 2026-08-25
 * [Review] [Review on: perf(stir): commit height classes on a shared domain, merge via Combine (§7)](https://github.com/Plonky3/Plonky3/pull/1990#pullrequestreview-5019410959) - 2026-08-25
 * [Commit] [feat(field): characteristic-agnostic groundwork for binary fields (#2000)](https://github.com/Plonky3/Plonky3/commit/d99a0c1444493641435b4264b0407a3d8f5c4848) - 2026-08-25
+* [Review] [Review on: feat(binary-dft): additive NTT and the Encoder abstraction](https://github.com/Plonky3/Plonky3/pull/2003#pullrequestreview-5061511799) - 2026-08-30
+* [Review] [Review on: feat(binary-field): GF(2) through GF(2^128) tower fields](https://github.com/Plonky3/Plonky3/pull/2001#pullrequestreview-5061468282) - 2026-08-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

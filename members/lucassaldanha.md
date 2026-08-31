@@ -26,6 +26,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [gossipsub StrictNoSign check omits the key field → Teku relays the forbidden bytes](https://github.com/libp2p/jvm-libp2p/issues/522) - 2026-08-27
 * [Commit] [Update .gitignore to include .claude directory](https://github.com/libp2p/jvm-libp2p/commit/d0a6cd8db657e865fba2dfd3cd594139c13e5cea) - 2026-08-28
 * [Commit] [Merge pull request #521 from lucassaldanha/bound--control-bytes](https://github.com/libp2p/jvm-libp2p/commit/95ea259ae1353556911340395189207a3e8d1172) - 2026-08-28
+* [Pull Request] [fix(quic): run delegated TLS tasks inline, not on shared workerGroup](https://github.com/libp2p/jvm-libp2p/pull/524) - 2026-08-31
+* [Issue] [Teku crashes unexpectedly while handling QUIC connections](https://github.com/libp2p/jvm-libp2p/issues/523) - 2026-08-31
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28

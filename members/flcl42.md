@@ -284,6 +284,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Commit] [Revalidate the txpool across fork boundaries (#12755)](https://github.com/NethermindEth/nethermind/commit/8b11a3f8be315a0ea3b238d01b5750777e838ecb) - 2026-08-28
 * [Commit] [Add standalone bootnode tool (#12601)](https://github.com/NethermindEth/nethermind/commit/348c1ce182927a21d7fd18b5c11fa8218279faa9) - 2026-08-28
 * [Commit] [Preserve RIPEMD touch across nested reverts (#13016)](https://github.com/NethermindEth/nethermind/commit/3bc542ed2a06a773347e6e94e1ea2b411d3919c6) - 2026-08-28
+* [Review] [Review on: fix(engine): align SSZ-REST surface with execution-apis#793](https://github.com/NethermindEth/nethermind/pull/13023#pullrequestreview-5060251794) - 2026-08-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

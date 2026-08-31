@@ -226,6 +226,7 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(xdc): stop advertising eth versions with no handler](https://github.com/NethermindEth/nethermind/pull/13018#pullrequestreview-5049423385) - 2026-08-28
 * [Review] [Review on: perf(evm): prefer bytecode interpreter on ARM64](https://github.com/NethermindEth/nethermind/pull/12999#pullrequestreview-5049462021) - 2026-08-28
 * [Pull Request] [fix(engine): align SSZ-REST surface with execution-apis#793](https://github.com/NethermindEth/nethermind/pull/13023) - 2026-08-28
+* [Commit] [fix(engine): align SSZ-REST surface with execution-apis#793 (#13023)](https://github.com/NethermindEth/nethermind/commit/f0a29b888b34aa19d1ef12213a3fba3e76d18cdb) - 2026-08-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

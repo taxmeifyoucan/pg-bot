@@ -163,6 +163,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [internal/libhive: release the test-case mutex before removing containers](https://github.com/ethereum/hive/pull/1600) - 2026-08-20
 * [Commit] [internal/libhive: release the test-case mutex before removing containers (#1600)](https://github.com/ethereum/hive/commit/642a051b11a2085917a6e7dcafc09ab065a9db02) - 2026-08-20
 * [Pull Request] [clients/go-ethereum: update git dockerfile to golang 1.25](https://github.com/ethereum/hive/pull/1605) - 2026-08-28
+* [Commit] [clients/go-ethereum: update git dockerfile to golang 1.25 (#1605)](https://github.com/ethereum/hive/commit/b3534fdd9d4ba904ef3f1c688ac27f985e6136eb) - 2026-08-30
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09

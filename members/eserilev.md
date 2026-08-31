@@ -132,6 +132,10 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Align gloas proposer reorg weight logic w/ spec ](https://github.com/sigp/lighthouse/pull/9831#pullrequestreview-5027600568) - 2026-08-26
 * [Review] [Review on: Cache pending deposit signatures for builder onboarding at the gloas fork](https://github.com/sigp/lighthouse/pull/9817#pullrequestreview-5057660036) - 2026-08-29
 * [Review] [Review on: Fix valid Gloas bids rejected with InvalidGasLimit after an empty parent](https://github.com/sigp/lighthouse/pull/9905#pullrequestreview-5058742523) - 2026-08-29
+* [Review] [Review on: Fix blob retrieval for Gloas blocks](https://github.com/sigp/lighthouse/pull/9937#pullrequestreview-5060185850) - 2026-08-30
+* [Review] [Review on: Cache pending deposit signatures for builder onboarding at the gloas fork](https://github.com/sigp/lighthouse/pull/9817#pullrequestreview-5060220737) - 2026-08-30
+* [Issue] [Ensure `GET /eth/v1/beacon/blobs/{block_id}` endpoint conforms to spec](https://github.com/sigp/lighthouse/issues/9941) - 2026-08-30
+* [Issue] [Gloas builder deposit cache seeds the whole pending deposit queue](https://github.com/sigp/lighthouse/issues/9943) - 2026-08-30
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

@@ -171,6 +171,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Extract plugin-api-blockproduction module](https://github.com/besu-eth/besu/pull/11182#pullrequestreview-5051020591) - 2026-08-28
 * [Pull Request] [Fix engine_getInclusionListV1 response format](https://github.com/besu-eth/besu/pull/11185) - 2026-08-28
 * [Commit] [Fix non-bootnode peer count drift in InsufficientPeersPermissioningProvider (#11138)](https://github.com/besu-eth/besu/commit/b5968ce50899ce89bc9f0a5f3b0da3994014c6dc) - 2026-08-28
+* [Commit] [Delete unused `TransactionSmartContractPermissioningController` class (#11187)](https://github.com/besu-eth/besu/commit/0c7f3019c133a9a0ac050ffc3a9a1c44ac6e96a5) - 2026-08-30
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 
