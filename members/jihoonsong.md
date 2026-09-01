@@ -94,6 +94,8 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [Support Gloas genesis in proposer preferences gossip](https://github.com/ethereum/consensus-specs/pull/5582) - 2026-08-29
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5058010345) - 2026-08-29
 * [Commit] [Support Gloas genesis in proposer preferences gossip (#5582)](https://github.com/ethereum/consensus-specs/commit/8ca466dc147a1a5ed9e4727b1c1369cef8070640) - 2026-08-31
+* [Review] [Review on: Increase `MAX_SIGNED_INCLUSION_LIST_SIZE` to the worst-case size](https://github.com/ethereum/consensus-specs/pull/5576#pullrequestreview-5068596059) - 2026-08-31
+* [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5068548897) - 2026-08-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
@@ -115,6 +117,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [FOCIL Breakout #39, August 4, 2026](https://github.com/ethereum/pm/issues/2179) - 2026-08-03
 * [Issue] [FOCIL Breakout #39, August 18, 2026](https://github.com/ethereum/pm/issues/2194) - 2026-08-17
+* [Issue] [FOCIL Breakout #41, September 1, 2026](https://github.com/ethereum/pm/issues/2208) - 2026-08-31
 ## Q2 2026
 
 

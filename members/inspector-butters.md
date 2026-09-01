@@ -71,6 +71,10 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Commit] [fix sync committee duty bug for exited vals - pre gloas (#17395)](https://github.com/OffchainLabs/prysm/commit/286eca07eea4f865750399d5eef557cfb5a04f0a) - 2026-08-25
 * [Review] [Review on: Accept empty `skip_randao_verification` for `/eth/v{3,4}/validator/blocks/{slot}` as per Beacon API](https://github.com/OffchainLabs/prysm/pull/17413#pullrequestreview-5029951339) - 2026-08-26
 * [Commit] [better manage mutexes (#17406)](https://github.com/OffchainLabs/prysm/commit/ac4fac1e6b6265f0221042b14d6de0e500925c3e) - 2026-08-27
+* [Review] [Review on: hdiff: Use computed serialized size for slice capacity](https://github.com/OffchainLabs/prysm/pull/17427#pullrequestreview-5065388100) - 2026-08-31
+* [Review] [Review on: Use read-only states in validator RPC calls for duties](https://github.com/OffchainLabs/prysm/pull/17430#pullrequestreview-5065434857) - 2026-08-31
+* [Review] [Review on: Use read-only `BeaconState` for direct head state readers](https://github.com/OffchainLabs/prysm/pull/17424#pullrequestreview-5065263444) - 2026-08-31
+* [Review] [Review on: Use read-only states in caches (`CheckpointStateCache` & `SyncCommitteeHeadStateCache`)](https://github.com/OffchainLabs/prysm/pull/17425#pullrequestreview-5065282183) - 2026-08-31
 ## Q2 2026
 
 

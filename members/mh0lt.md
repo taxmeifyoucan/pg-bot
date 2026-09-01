@@ -66,6 +66,8 @@ Team: Erigon
 * [Review] [Review on: execution/state: abort when a create consumes absence before the destructor's flush](https://github.com/erigontech/erigon/pull/23176#pullrequestreview-4905559226) - 2026-08-11
 * [Commit] [execution: parallel-only ExecV3 + ephemeral single-block replay harness (#22733)](https://github.com/erigontech/erigon/commit/36e6f2d69670313a2d73e46f9a13a6d2715afe2a) - 2026-08-11
 * [Review] [Review on: calcState: skip the commitment calculator's dead baseline read](https://github.com/erigontech/erigon/pull/23210#pullrequestreview-4915546490) - 2026-08-12
+* [Review] [Review on: ci: set devnet spec tests max failures to 0](https://github.com/erigontech/erigon/pull/23688#pullrequestreview-5067643534) - 2026-08-31
+* [Review] [Review on: ci: update eest devnet fixtures to v8.1.2](https://github.com/erigontech/erigon/pull/23681#pullrequestreview-5066598229) - 2026-08-31
 ## Q2 2026
 
 

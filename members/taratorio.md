@@ -302,6 +302,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [execution: fix wrong BAL due to missing sstore storage slot read after selfdestruct (#23541)](https://github.com/erigontech/erigon/commit/8920943aed8f432e860581ff47434ac585d82254) - 2026-08-29
 * [Review] [Review on: execution/engineapi: return INVALID for undecodable blockAccessList](https://github.com/erigontech/erigon/pull/23633#pullrequestreview-5062102374) - 2026-08-30
 * [Commit] [[gd8] execution: EIP-2780 merge transfer log cost into tx value cost (#22916)](https://github.com/erigontech/erigon/commit/b8119d489561f9fe606086c330a77bf5dcf562c6) - 2026-08-30
+* [Pull Request] [ci: set devnet spec tests max failures to 0](https://github.com/erigontech/erigon/pull/23688) - 2026-08-31
+* [Pull Request] [ci: update eest devnet fixtures to v8.1.2](https://github.com/erigontech/erigon/pull/23681) - 2026-08-31
+* [Review] [Review on: cache: remove CodeStore's cache](https://github.com/erigontech/erigon/pull/23666#pullrequestreview-5066640335) - 2026-08-31
+* [Issue] [do we need 1 GB TblCodeCache in MDBX vs just a 512MB LRU in-mem?](https://github.com/erigontech/erigon/issues/23682) - 2026-08-31
+* [Commit] [ci: set devnet spec tests max failures to 0 (#23688)](https://github.com/erigontech/erigon/commit/5d7cd18d15a9ec1f25fe3fe1a9099d96ad76fb2e) - 2026-08-31
+* [Commit] [ci: update eest devnet fixtures to v8.1.2 (#23681)](https://github.com/erigontech/erigon/commit/fe6121110a456f77233f74b0ba530d77c98b1137) - 2026-08-31
+* [Commit] [[gd8] execution: EIP-8038 access list cost cold minus warm (#22926)](https://github.com/erigontech/erigon/commit/02d28d22c0bfee8325ebc9deb7fcc506cf9d36a0) - 2026-08-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
@@ -313,6 +320,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [erigon: raise MAX_REORG_DEPTH for enginex runs (#1568)](https://github.com/ethereum/hive/commit/086c7556b09aa200d578cbf39e3e3cf26c8ac3eb) - 2026-07-08
 * [Pull Request] [simulators/eels: optionally consume pre-staged local fixtures tar.gz](https://github.com/ethereum/hive/pull/1577) - 2026-07-17
 * [Commit] [simulators/eels: optionally consume pre-staged local fixtures tar.gz (#1577)](https://github.com/ethereum/hive/commit/47b7e79aef6adf0961ca3dcdac966d9e15b9ee2b) - 2026-07-20
+* [Pull Request] [simulators/ethereum/engine: apply withdrawals CL mock config](https://github.com/ethereum/hive/pull/1604) - 2026-08-31
+* [Commit] [simulators/ethereum/engine: apply withdrawals CL mock config (#1604)](https://github.com/ethereum/hive/commit/43ea47bef5761351e3da7b726050ea80ab362c52) - 2026-08-31
 ## Q2 2026
 
 

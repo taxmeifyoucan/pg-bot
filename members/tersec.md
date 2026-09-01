@@ -129,6 +129,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: req/resp domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8876#pullrequestreview-5056824558) - 2026-08-29
 * [Pull Request] [align default PAYLOAD_DUE_BPS with gloas defaults](https://github.com/status-im/nimbus-eth2/pull/8964) - 2026-08-30
 * [Pull Request] [implement getProposerDutiesV2](https://github.com/status-im/nimbus-eth2/pull/8963) - 2026-08-30
+* [Review] [Review on: config: load networking overrides from RuntimeConfig](https://github.com/status-im/nimbus-eth2/pull/8943#pullrequestreview-5065908690) - 2026-08-31
+* [Review] [Review on: bump nim-web3, add getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/8971#pullrequestreview-5072626347) - 2026-08-31
+* [Pull Request] [fix Gloas fork transition builder deposit handling](https://github.com/status-im/nimbus-eth2/pull/8965) - 2026-08-31
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

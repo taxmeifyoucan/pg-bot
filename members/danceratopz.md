@@ -144,6 +144,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(tests): expand create collision matrix and add balance-only cases (#3425)](https://github.com/ethereum/execution-specs/commit/bd443d939acbefd9194ab8e6e2435b7fad152932) - 2026-08-26
 * [Commit] [fix(test-execute): ignore tests/spec_tools during collection (#3450)](https://github.com/ethereum/execution-specs/commit/74153f7093c7716834d2dac00db0087738072758) - 2026-08-26
 * [Review] [Review on: fix(test-cli): ignore tests/json_loader and tests/spec_tools during collection](https://github.com/ethereum/execution-specs/pull/3461#pullrequestreview-5048864608) - 2026-08-28
+* [Pull Request] [chore(doc): remove broken GitPOAP badge](https://github.com/ethereum/execution-specs/pull/3474) - 2026-08-31
+* [Review] [Review on: feat(ci): auto-publish mainnet fixture patch releases from the nightly fill](https://github.com/ethereum/execution-specs/pull/3385#pullrequestreview-5065259200) - 2026-08-31
+* [Pull Request] [chore(deps): bump ethereum-hive to v0.1.0](https://github.com/ethereum/execution-specs/pull/3472) - 2026-08-31
+* [Review] [Review on: feat(ci): collect execute, consume and check_eip_versions tests on every PR](https://github.com/ethereum/execution-specs/pull/3451#pullrequestreview-5064363710) - 2026-08-31
+* [Commit] [fix(test-consume): better xdist detection for enginex (#2793)](https://github.com/ethereum/execution-specs/commit/6a2a98b761d08cbe4107a6e00c07d21d965e473e) - 2026-08-31
+* [Commit] [feat(test-cli): add JSON output and optimization analysis to `groupstats` (#3308)](https://github.com/ethereum/execution-specs/commit/3e59e29e41589bc3c2d6a0276fcc445531550a6b) - 2026-08-31
+* [Commit] [fix(doc): remove broken GitPOAP badge (#3474)](https://github.com/ethereum/execution-specs/commit/41e599935247b5312b818e603703c98dce3534db) - 2026-08-31
+* [Commit] [chore(deps): bump ethereum-hive to v0.1.0 (#3472)](https://github.com/ethereum/execution-specs/commit/2ae4255ac5c59957653e154cd6e7e12182cb9013) - 2026-08-31
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -164,6 +172,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [internal/libhive: release the test-case mutex before removing containers (#1600)](https://github.com/ethereum/hive/commit/642a051b11a2085917a6e7dcafc09ab065a9db02) - 2026-08-20
 * [Pull Request] [clients/go-ethereum: update git dockerfile to golang 1.25](https://github.com/ethereum/hive/pull/1605) - 2026-08-28
 * [Commit] [clients/go-ethereum: update git dockerfile to golang 1.25 (#1605)](https://github.com/ethereum/hive/commit/b3534fdd9d4ba904ef3f1c688ac27f985e6136eb) - 2026-08-30
+* [Review] [Review on: clients: wire HIVE_TARGET_GAS_LIMIT for besu, erigon, reth, ethrex](https://github.com/ethereum/hive/pull/1603#pullrequestreview-5064571517) - 2026-08-31
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09
@@ -175,6 +184,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [eth/catalyst, eth/ethconfig, cmd: make engine API max reorg depth configurable (#35335)](https://github.com/ethereum/go-ethereum/commit/abfb2de5749ca059c368a1c000271378dc6b7bb5) - 2026-07-14
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(trie): bound tail changeset revert reads to the database tip](https://github.com/paradigmxyz/reth/pull/26352) - 2026-07-10
+
+[ethereum/pm](https://github.com/ethereum/pm)
+* [Issue] [All Core Devs - Testing (ACDT) #95, September 7th, 2026](https://github.com/ethereum/pm/issues/2209) - 2026-08-31
 ## Q2 2026
 
 

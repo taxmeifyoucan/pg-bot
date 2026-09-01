@@ -30,6 +30,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Refresh VC duties when 'head' event reports new dependent roots](https://github.com/status-im/nimbus-eth2/pull/8877#pullrequestreview-5004766910) - 2026-08-24
 * [Review] [Review on: Refresh VC duties when 'head' event reports new dependent roots](https://github.com/status-im/nimbus-eth2/pull/8877#pullrequestreview-5030093765) - 2026-08-26
 * [Review] [Review on: Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946#pullrequestreview-5030995128) - 2026-08-26
+* [Review] [Review on: Subscribe head_v2 post-Gloas](https://github.com/status-im/nimbus-eth2/pull/8949#pullrequestreview-5066211934) - 2026-08-31
 ## Q2 2026
 
 

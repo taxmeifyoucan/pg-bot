@@ -144,6 +144,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat(state-transition): add forkSeq to IBeaconStateView](https://github.com/ChainSafe/lodestar/pull/9927#pullrequestreview-5044175614) - 2026-08-27
 * [Review] [Review on: fix: feed peer sync meta to UnknownBlockPeerBalancer on subscribeToNetwork](https://github.com/ChainSafe/lodestar/pull/9924#pullrequestreview-5044221866) - 2026-08-27
 * [Review] [Review on: feat: enhance UnknownBlockPeerBalancer for gloas](https://github.com/ChainSafe/lodestar/pull/9928#pullrequestreview-5044201243) - 2026-08-27
+* [Review] [Review on: docs: clarify gloas builder configuration](https://github.com/ChainSafe/lodestar/pull/9949#pullrequestreview-5068362852) - 2026-08-31
+* [Review] [Review on: feat: log builder configuration at startup](https://github.com/ChainSafe/lodestar/pull/9946#pullrequestreview-5068425573) - 2026-08-31
+* [Review] [Review on: chore: builder log levels and value formatting](https://github.com/ChainSafe/lodestar/pull/9948#pullrequestreview-5068370206) - 2026-08-31
+* [Pull Request] [chore: remove unused async shuffling code](https://github.com/ChainSafe/lodestar/pull/9953) - 2026-08-31
+* [Review] [Review on: refactor(bindings): split computeNewStateRoot computation](https://github.com/ChainSafe/lodestar/pull/9945#pullrequestreview-5068485115) - 2026-08-31
+* [Review] [Review on: feat(state-transition): add forkSeq to IBeaconStateView](https://github.com/ChainSafe/lodestar/pull/9927#pullrequestreview-5067092969) - 2026-08-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 

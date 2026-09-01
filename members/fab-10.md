@@ -172,6 +172,16 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Pull Request] [Fix engine_getInclusionListV1 response format](https://github.com/besu-eth/besu/pull/11185) - 2026-08-28
 * [Commit] [Fix non-bootnode peer count drift in InsufficientPeersPermissioningProvider (#11138)](https://github.com/besu-eth/besu/commit/b5968ce50899ce89bc9f0a5f3b0da3994014c6dc) - 2026-08-28
 * [Commit] [Delete unused `TransactionSmartContractPermissioningController` class (#11187)](https://github.com/besu-eth/besu/commit/0c7f3019c133a9a0ac050ffc3a9a1c44ac6e96a5) - 2026-08-30
+* [Pull Request] [Cleanup after the Engine API methods refactor](https://github.com/besu-eth/besu/pull/11205) - 2026-08-31
+* [Pull Request] [Complete refactor of engine_getBlobsV* methods](https://github.com/besu-eth/besu/pull/11204) - 2026-08-31
+* [Review] [Review on: Complete refactor of engine_getBlobsV* methods](https://github.com/besu-eth/besu/pull/11204#pullrequestreview-5067979130) - 2026-08-31
+* [Review] [Review on: Refactor engine_getBlobsV* into a sealed version hierarchy](https://github.com/besu-eth/besu/pull/11174#pullrequestreview-5066118762) - 2026-08-31
+* [Review] [Review on: fix: log peer identity on PeerTaskExecutor timeout](https://github.com/besu-eth/besu/pull/11155#pullrequestreview-5065389375) - 2026-08-31
+* [Review] [Review on: Run Hive tests via evmtool](https://github.com/besu-eth/besu/pull/11030#pullrequestreview-5064678252) - 2026-08-31
+* [Review] [Review on: Announce upcoming plugin API breaking changes in the changelog](https://github.com/besu-eth/besu/pull/11190#pullrequestreview-5064652710) - 2026-08-31
+* [Commit] [Refactor engine_getBlobsV* into a sealed version hierarchy (#11174)](https://github.com/besu-eth/besu/commit/ddf068238d0065276d022d18fd4f2dcb76716327) - 2026-08-31
+* [Commit] [Treat an omitted or null GraphQL logs topics filter as matching any topic (#11188)](https://github.com/besu-eth/besu/commit/b3c22a9b7c56f026fc4117eedbc50e9ae569101b) - 2026-08-31
+* [Commit] [Compare the cached Engine API JWT with MessageDigest.isEqual (#11189)](https://github.com/besu-eth/besu/commit/255eb0ebc77d181ee25ff2f9348f0cc1871db241) - 2026-08-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

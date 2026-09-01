@@ -406,6 +406,11 @@ Team: Erigon
 * [Commit] [db/state: make COLLATE/MERGE/COMPRESS_WORKERS reach the aggregator (#23615)](https://github.com/erigontech/erigon/commit/e39091348de17c5566a83aed43de020736e04fd9) - 2026-08-28
 * [Commit] [execution/commitment: commitment metrics as counters, round duration and branch IO bytes (#23589)](https://github.com/erigontech/erigon/commit/34c3792cdd7ccbf3184c5b003c0ad924361aea8d) - 2026-08-29
 * [Commit] [execution/types: wire the tx-type registry into the three receipt dispatch sites (#23565)](https://github.com/erigontech/erigon/commit/a5e8d5a21ac2bd4c4e02d75e90bb6bce3cb169dc) - 2026-08-29
+* [Pull Request] [cl/beacon/handler: reject a missing withdrawals list instead of dereferencing it](https://github.com/erigontech/erigon/pull/23693) - 2026-09-01
+* [Review] [Review on: db/downloader: a kept local snapshot cannot upload](https://github.com/erigontech/erigon/pull/23653#pullrequestreview-5073232444) - 2026-09-01
+* [Review] [Review on: db/downloader: bound kept-snapshot seeding and rebuild malformed metainfo](https://github.com/erigontech/erigon/pull/23459#pullrequestreview-5073231182) - 2026-09-01
+* [Review] [Review on: node: serve zstd when the client asks for it](https://github.com/erigontech/erigon/pull/23482#pullrequestreview-5073229911) - 2026-09-01
+* [Review] [Review on: execution/commitment: derive the account hashed key only when it is used](https://github.com/erigontech/erigon/pull/23654#pullrequestreview-5072977904) - 2026-09-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05
@@ -420,6 +425,7 @@ Team: Erigon
 * [Pull Request] [Update EIP-8347: add EIP-7523 to requires](https://github.com/ethereum/EIPs/pull/12239) - 2026-08-25
 * [Commit] [Update EIP-8347: add EIP-7523 to requires](https://github.com/ethereum/EIPs/commit/21e1d9ec52cedce7647d1a5a37b729ab8a5917b4) - 2026-08-25
 * [Pull Request] [Update EIP-8037: include non-zero balance to description of existent address](https://github.com/ethereum/EIPs/pull/12246) - 2026-08-26
+* [Commit] [Update EIP-8037: include non-zero balance to description of existent address](https://github.com/ethereum/EIPs/commit/aa02d9934056b252768d673eafd2b668725cb138) - 2026-08-31
 ## Q2 2026
 
 

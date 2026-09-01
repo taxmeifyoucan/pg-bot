@@ -53,6 +53,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [feat(shuffle): add ./shuffle subpath export](https://github.com/ChainSafe/lodestar-z/pull/612) - 2026-08-27
 * [Commit] [feat(shuffle): add ./shuffle subpath export (#612)](https://github.com/ChainSafe/lodestar-z/commit/c9655c41176a0f657384f0ada9342be51d76ee74) - 2026-08-27
 * [Commit] [feat(shuffle): add PTC sampling (#563)](https://github.com/ChainSafe/lodestar-z/commit/ab56ddfb2f50d3a97aae23e82e4ede0df279a9f0) - 2026-08-27
+* [Review] [Review on: test(ssz): make OOM regressions deterministic](https://github.com/ChainSafe/lodestar-z/pull/611#pullrequestreview-5066290681) - 2026-08-31
 [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar)
 * [Review] [Review on: perf: memoize fast confirmation total active balance](https://github.com/ChainSafe/lodestar/pull/9572#pullrequestreview-4645120810) - 2026-07-07
 * [Review] [Review on: fix: advance equivocation cursor for slashed validators with no live vote](https://github.com/ChainSafe/lodestar/pull/9597#pullrequestreview-4643261724) - 2026-07-07

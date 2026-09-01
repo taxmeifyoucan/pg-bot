@@ -252,6 +252,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Test Release Tracker: `glamsterdam-devnet@v8.1.2`](https://github.com/ethereum/execution-specs/issues/3452) - 2026-08-26
 * [Commit] [feat(tests): EIP-8037 - pin gas on the unasserted child-halt spill tests (#3427)](https://github.com/ethereum/execution-specs/commit/e73282ee2911cc2f3d296324b1d3cb577c4a094e) - 2026-08-26
 * [Commit] [fix(tests): enhance & un-skip Amsterdam ported static SSTORE, refund & misc tests (Pt. 2c) (#3321)](https://github.com/ethereum/execution-specs/commit/241f6a80da5458443325b5ac8fb56a0754a3ec38) - 2026-08-28
+* [Pull Request] [fix(test-forks): model the pre-Berlin gas and refund schedules](https://github.com/ethereum/execution-specs/pull/3480) - 2026-08-31
+* [Pull Request] [feat(spec-specs, tests): repay spilled state gas from the reservoir when a child merges](https://github.com/ethereum/execution-specs/pull/3478) - 2026-08-31
+* [Pull Request] [chore(tooling): forbid Claude session links in commits and PRs](https://github.com/ethereum/execution-specs/pull/3481) - 2026-08-31
+* [Review] [Review on: feat(tests): EIP-7928 - storage reads of a recreated destroyed account](https://github.com/ethereum/execution-specs/pull/3475#pullrequestreview-5068443636) - 2026-08-31
+* [Pull Request] [feat(tests): probe EIP-161 emptiness after same-tx precompile touches](https://github.com/ethereum/execution-specs/pull/3477) - 2026-08-31
+* [Review] [Review on: fix(test-consume): better xdist detection for enginex](https://github.com/ethereum/execution-specs/pull/2793#pullrequestreview-5064489275) - 2026-08-31
+* [Review] [Review on: feat(test-cli): add JSON output and optimization analysis to `groupstats`](https://github.com/ethereum/execution-specs/pull/3308#pullrequestreview-5066798134) - 2026-08-31
+* [Review] [Review on: chore(deps): bump ethereum-hive to v0.1.0](https://github.com/ethereum/execution-specs/pull/3472#pullrequestreview-5064245204) - 2026-08-31
+* [Issue] [Test Release Tracker: `glamsterdam-devnet@v8.1.3`](https://github.com/ethereum/execution-specs/issues/3479) - 2026-08-31
+* [Commit] [fix(test-forks): model the pre-Berlin gas and refund schedules (#3480)](https://github.com/ethereum/execution-specs/commit/e5b6e3b5ccd68eb47f2cba35da16cd2b240cb8b8) - 2026-09-01
+* [Commit] [chore(tooling): forbid Claude session links in commits and PRs (#3481)](https://github.com/ethereum/execution-specs/commit/c563375f6892f0ea879e497ba6fe461d4eb54310) - 2026-08-31
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -288,11 +299,14 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: internal/libhive: release the test-case mutex before removing containers](https://github.com/ethereum/hive/pull/1600#pullrequestreview-4985064852) - 2026-08-20
 * [Pull Request] [clients: add bogota time to execution layer client mappers](https://github.com/ethereum/hive/pull/1601) - 2026-08-20
 * [Commit] [clients: add bogota time to execution layer client mappers (#1601)](https://github.com/ethereum/hive/commit/3330f39b2165134865abdaba5f43b3f85f66779e) - 2026-08-20
+* [Review] [Review on: simulators/ethereum/engine: apply withdrawals CL mock config](https://github.com/ethereum/hive/pull/1604#pullrequestreview-5066866136) - 2026-08-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4806932985) - 2026-07-29
 * [Pull Request] [Update EIP-7773: SFI remaining Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12024) - 2026-07-29
 * [Pull Request] [Update EIP-2780: charge delegation-target access on self-transfers](https://github.com/ethereum/EIPs/pull/12080) - 2026-08-04
 
+* [Review] [Review on: Update EIP-8037: return state-gas to gas_left when a child merges](https://github.com/ethereum/EIPs/pull/12265#pullrequestreview-5067349350) - 2026-08-31
+* [Review] [Review on: Update EIP-8037: restore a frame's state-gas on rollback](https://github.com/ethereum/EIPs/pull/12256#pullrequestreview-5067749682) - 2026-08-31
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix genesis slotNumber parsing and require the header field from Amsterdam](https://github.com/besu-eth/besu/pull/11038) - 2026-08-13
 

@@ -62,6 +62,11 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: test: align benchmark pubkeys with lodestar-z global pubkey cache](https://github.com/ChainSafe/lodestar/pull/9893#pullrequestreview-4999376705) - 2026-08-22
 * [Review] [Review on: chore: use released libp2p tcp shutdown fix](https://github.com/ChainSafe/lodestar/pull/9899#pullrequestreview-5011349897) - 2026-08-24
 * [Review] [Review on: test(perf): populate appended load-state pubkeys](https://github.com/ChainSafe/lodestar/pull/9897#pullrequestreview-5006085170) - 2026-08-24
+* [Review] [Review on: fix(beacon-node): skip empty Gloas payloads during range sync](https://github.com/ChainSafe/lodestar/pull/9937#pullrequestreview-5066531891) - 2026-08-31
+* [Pull Request] [refactor(bindings): split computeNewStateRoot computation](https://github.com/ChainSafe/lodestar/pull/9945) - 2026-08-31
+* [Review] [Review on: refactor(bindings): split computeNewStateRoot computation](https://github.com/ChainSafe/lodestar/pull/9945#pullrequestreview-5063685038) - 2026-08-31
+* [Review] [Review on: chore: stop registering validators with external builders post-gloas](https://github.com/ChainSafe/lodestar/pull/9950#pullrequestreview-5066642044) - 2026-08-31
+* [Commit] [refactor(bindings): split computeNewStateRoot computation (#9945)](https://github.com/ChainSafe/lodestar/commit/4c05b800340e647d45a1dd2786f5241c88c25850) - 2026-08-31
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01

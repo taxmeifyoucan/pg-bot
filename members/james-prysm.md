@@ -192,6 +192,11 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Pull Request] [slot plan refactor](https://github.com/OffchainLabs/prysm/pull/17428) - 2026-08-28
 * [Review] [Review on: Extract shared indexed-list decoders for beacon REST handlers](https://github.com/OffchainLabs/prysm/pull/17399#pullrequestreview-5052603721) - 2026-08-28
 * [Review] [Review on: hooking up validator client to builder apis for gloas ](https://github.com/OffchainLabs/prysm/pull/17397#pullrequestreview-5062762267) - 2026-08-31
+* [Review] [Review on: Pack Electra attestations by marginal proposer reward](https://github.com/OffchainLabs/prysm/pull/17416#pullrequestreview-5071349398) - 2026-08-31
+* [Review] [Review on: Bump consensus spec to v1.7.0-alpha.13](https://github.com/OffchainLabs/prysm/pull/17382#pullrequestreview-5070467186) - 2026-08-31
+* [Review] [Review on: Implement key sets for Web3Signer public keys](https://github.com/OffchainLabs/prysm/pull/17326#pullrequestreview-5069692554) - 2026-08-31
+* [Review] [Review on: Rename gloas builder request auth types](https://github.com/OffchainLabs/prysm/pull/17432#pullrequestreview-5067725371) - 2026-08-31
+* [Commit] [hooking up validator client to builder apis for gloas  (#17397)](https://github.com/OffchainLabs/prysm/commit/84c111db45441ad9488419a4b623ccaec5b6338a) - 2026-08-31
 ## Q2 2026
 
 

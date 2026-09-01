@@ -170,6 +170,13 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Review] [Review on: execution/types, rpc/jsonrpc: drop ErigonLog in favour of RPCLog](https://github.com/erigontech/erigon/pull/23667#pullrequestreview-5061911866) - 2026-08-30
 * [Review] [Review on: rpc/rpchelper: stop mutating the log shared with subscribers](https://github.com/erigontech/erigon/pull/23665#pullrequestreview-5061771372) - 2026-08-30
 * [Commit] [rpc/jsonrpc: gate receipts and logs on the data they actually read (#23322)](https://github.com/erigontech/erigon/commit/47f107ee638152c62342c682f945db42974dae5e) - 2026-08-30
+* [Pull Request] [rpc/jsonrpc, db/snapshotsync: seven review follow-ups from #23322](https://github.com/erigontech/erigon/pull/23690) - 2026-08-31
+* [Pull Request] [rpc/jsonrpc: make the debug_traceCall block parameter optional](https://github.com/erigontech/erigon/pull/23683) - 2026-08-31
+* [Commit] [rpc/jsonrpc: make the debug_traceCall block parameter optional (#23683)](https://github.com/erigontech/erigon/commit/2610c84b6754f969998f1b9c883c327b7a2b6bf4) - 2026-08-31
+* [Commit] [rpc/rpchelper: stop mutating the log shared with subscribers (#23665)](https://github.com/erigontech/erigon/commit/940a5536adfe6f95fc3fbdc9fc4f6ad4eb462e74) - 2026-08-31
+* [Commit] [execution/types, rpc/jsonrpc: drop ErigonLog in favour of RPCLog (#23667)](https://github.com/erigontech/erigon/commit/9d0f6ce34ad545865f2f39e1dc09ac359172f494) - 2026-08-31
+* [Commit] [rpc: reject null for required positional arguments (#23668)](https://github.com/erigontech/erigon/commit/516e7e107d3bb88423e77aac7cd6fd3cf2900cc3) - 2026-08-31
+* [Commit] [rpc: apply eth_estimateGas state overrides to pre-execution checks (#23655)](https://github.com/erigontech/erigon/commit/4c500a9a0cb6649100b112ce052bceeb9358806a) - 2026-08-31
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

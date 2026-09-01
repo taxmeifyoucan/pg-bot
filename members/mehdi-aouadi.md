@@ -103,6 +103,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [Focil merge master](https://github.com/Consensys/teku/pull/11193) - 2026-08-28
 * [Review] [Review on: Embed latest execution payload bid in Gloas genesis block body](https://github.com/Consensys/teku/pull/11190#pullrequestreview-5050164436) - 2026-08-28
 * [Issue] [Add MAX_SIGNED_INCLUSION_LIST_SIZE](https://github.com/Consensys/teku/issues/11199) - 2026-08-28
+* [Pull Request] [enforce ILs transactions size in Fork Choice](https://github.com/Consensys/teku/pull/11206) - 2026-08-31
+* [Review] [Review on: add max signed IL size param](https://github.com/Consensys/teku/pull/11200#pullrequestreview-5064920396) - 2026-08-31
+* [Pull Request] [Fix GossipTestContext for FOCIL](https://github.com/Consensys/teku/pull/11205) - 2026-08-31
 ## Q2 2026
 
 

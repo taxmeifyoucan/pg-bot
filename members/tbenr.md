@@ -89,6 +89,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: Fix ROCKSDB_TREE storage for Gloas progressive container states](https://github.com/Consensys/teku/pull/11061#pullrequestreview-4865281478) - 2026-08-05
 * [Review] [Review on: Fix fork choice equivocating votes update](https://github.com/Consensys/teku/pull/11058#pullrequestreview-4862635036) - 2026-08-05
 * [Review] [Review on: update gossip validation logs](https://github.com/Consensys/teku/pull/11065#pullrequestreview-4865127748) - 2026-08-05
+* [Review] [Review on: Update contribution guidelines for pull requests](https://github.com/Consensys/teku/pull/11188#pullrequestreview-5064944250) - 2026-08-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07
@@ -108,6 +109,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Introduce a quic connection exception handler](https://github.com/libp2p/jvm-libp2p/pull/517) - 2026-08-07
 * [Issue] [exception on QUIC](https://github.com/libp2p/jvm-libp2p/issues/516) - 2026-08-07
 * [Commit] [introduce a quic connection exception handler (#517)](https://github.com/libp2p/jvm-libp2p/commit/7c7e0a231268a8e32148a23fb4dfed74fd75fd79) - 2026-08-07
+* [Review] [Review on: fix(quic): run delegated TLS tasks inline, not on shared workerGroup](https://github.com/libp2p/jvm-libp2p/pull/524#pullrequestreview-5065265776) - 2026-08-31
 ## Q2 2026
 
 

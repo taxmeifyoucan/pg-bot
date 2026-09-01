@@ -57,6 +57,8 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [Update EIP-8146: CL must deliver the BAL to the EL before the payload](https://github.com/ethereum/EIPs/pull/12216) - 2026-08-20
 * [Commit] [Update EIP-8146: CL must deliver the BAL to the EL before the payload](https://github.com/ethereum/EIPs/commit/e664bdb05bf866d2cd5a0b9e188b0dcc9f1c17d9) - 2026-08-20
 * [Pull Request] [Update EIP-8141: add valid_after to the expiry verifier frame](https://github.com/ethereum/EIPs/pull/12252) - 2026-08-27
+* [Pull Request] [Update EIP-8146: restructure and simplify](https://github.com/ethereum/EIPs/pull/12274) - 2026-08-31
+* [Commit] [Update EIP-8146: restructure and simplify](https://github.com/ethereum/EIPs/commit/b6d3f2c65aad65bb09856db6db50ae612b8bf8aa) - 2026-08-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 

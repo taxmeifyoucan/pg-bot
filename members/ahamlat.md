@@ -46,6 +46,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Pull Request] [Add block creation timing to QBFT block building](https://github.com/besu-eth/besu/pull/11144) - 2026-08-25
 * [Review] [Review on: Add block creation timing to QBFT block building](https://github.com/besu-eth/besu/pull/11144#pullrequestreview-5018281085) - 2026-08-25
 * [Commit] [Add block creation timing to QBFT block building (#11144)](https://github.com/besu-eth/besu/commit/540f2bad72f10fd45bc494564e4276c4e7744057) - 2026-08-25
+* [Pull Request] [Fix SSTORE regression](https://github.com/besu-eth/besu/pull/11202) - 2026-08-31
+* [Review] [Review on: Fix SSTORE regression](https://github.com/besu-eth/besu/pull/11202#pullrequestreview-5065578960) - 2026-08-31
+* [Commit] [Fix SSTORE regression (#11202)](https://github.com/besu-eth/besu/commit/3f61fda38fc81ada7a0a9ce9408d5f1510c69a45) - 2026-08-31
 ## Q2 2026
 
 

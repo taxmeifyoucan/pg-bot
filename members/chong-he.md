@@ -55,6 +55,11 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Add attestations test with `payload_present` in op pool](https://github.com/sigp/lighthouse/pull/9531#pullrequestreview-5046948621) - 2026-08-28
 * [Review] [Review on: Add per-validator builder configuration API](https://github.com/sigp/lighthouse/pull/9864#pullrequestreview-5046900262) - 2026-08-28
 * [Review] [Review on: fix: auto-pull latest Nethermind version in EL test](https://github.com/sigp/lighthouse/pull/9282#pullrequestreview-5049767829) - 2026-08-28
+* [Pull Request] [Fix validator is not aggregator when VC is in DVT mode involving middleware](https://github.com/sigp/lighthouse/pull/9947) - 2026-08-31
+* [Review] [Review on: Fix blob ordering when filtering blobs by versioned hash](https://github.com/sigp/lighthouse/pull/9944#pullrequestreview-5065161079) - 2026-08-31
+* [Review] [Review on: Migrate the validator client to the Gloas builder API (Gloas builder API 5/5)](https://github.com/sigp/lighthouse/pull/9807#pullrequestreview-5065540463) - 2026-08-31
+* [Pull Request] [Add check for `--disable-proposer-reorg` flag](https://github.com/sigp/lighthouse/pull/9926) - 2026-08-31
+* [Issue] [Blob data generated in tests are identical](https://github.com/sigp/lighthouse/issues/9951) - 2026-08-31
 ## Q2 2026
 
 

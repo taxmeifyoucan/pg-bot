@@ -67,6 +67,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Commit] [Measure payload envelope timeliness at arrival](https://github.com/grandinetech/grandine/commit/135aa00563866aa7e0b0be4a4b9a5603cf882504) - 2026-08-28
 * [Commit] [Fix dependent_root validation in proposer_preference](https://github.com/grandinetech/grandine/commit/b21c68c45716e877d1dcf5b83bda9988f0f08ff7) - 2026-08-28
 * [Commit] [Only broadcast proposer preferences for post-Gloas slots](https://github.com/grandinetech/grandine/commit/92e92bd58af0c38c60c11808a38c3e430328a117) - 2026-08-28
+* [Issue] [Add gloas builder beacon API](https://github.com/grandinetech/grandine/issues/893) - 2026-08-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

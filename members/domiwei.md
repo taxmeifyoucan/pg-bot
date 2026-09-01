@@ -105,6 +105,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [cl: reject incomplete GetPayload responses](https://github.com/erigontech/erigon/pull/23575) - 2026-08-28
 * [Commit] [cl/network: fix blob history backfill boundary and sparse-peer startup (#23138)](https://github.com/erigontech/erigon/commit/b26b8e4f29466e1ea9d37917a4c2b8f85aac58f7) - 2026-08-28
 * [Commit] [cl: reject incomplete GetPayload responses (#23575)](https://github.com/erigontech/erigon/commit/97f3b2e130faf5c2adf898accc226b22e45282fe) - 2026-08-28
+* [Review] [Review on: cl/beacon/handler: reject a nil BlobsBundle instead of dereferencing it](https://github.com/erigontech/erigon/pull/23586#pullrequestreview-5063624537) - 2026-08-31
 ## Q2 2026
 
 

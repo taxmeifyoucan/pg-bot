@@ -8,6 +8,14 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 
 ## Contributions
 
+## Q3 2026
+
+
+[ethereum/execution-specs](https://github.com/ethereum/execution-specs)
+* [Pull Request] [feat(tests): EIP-7928 max nonce boundary check for BAL; update refspec](https://github.com/ethereum/execution-specs/pull/3482) - 2026-08-31
+* [Review] [Review on: chore(tooling): forbid Claude session links in commits and PRs](https://github.com/ethereum/execution-specs/pull/3481#pullrequestreview-5068835898) - 2026-08-31
+* [Review] [Review on: feat(tests): EIP-7928 - storage reads of a recreated destroyed account](https://github.com/ethereum/execution-specs/pull/3475#pullrequestreview-5068614668) - 2026-08-31
+* [Commit] [feat(tests): EIP-7928 max nonce boundary check for BAL; update refspec (#3482)](https://github.com/ethereum/execution-specs/commit/6eb68ed3e611a25c8d96292ec61e0aee37f894b4) - 2026-08-31
 ## Q2 2026
 
 

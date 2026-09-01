@@ -74,6 +74,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Pull Request] [Check withdrawals consistency between block prod and payload attributes](https://github.com/sigp/lighthouse/pull/9920) - 2026-08-26
 * [Review] [Review on: Align gloas proposer reorg weight logic w/ spec ](https://github.com/sigp/lighthouse/pull/9831#pullrequestreview-5027617909) - 2026-08-26
 * [Review] [Review on: Add check for `--disable-proposer-reorg` flag](https://github.com/sigp/lighthouse/pull/9926#pullrequestreview-5062587315) - 2026-08-31
+
+* [Review] [Review on: Fix blob ordering when filtering blobs by versioned hash](https://github.com/sigp/lighthouse/pull/9944#pullrequestreview-5073352667) - 2026-09-01
+* [Review] [Review on: Add Gloas bid selection, block production, and bid gossip processing (Gloas builder API 3/5)](https://github.com/sigp/lighthouse/pull/9805#pullrequestreview-5063244756) - 2026-08-31
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
+* [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31
 ## Q2 2026
 
 

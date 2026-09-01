@@ -139,6 +139,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Commit] [feat(test-vm): implement placeholder for bytecode (#2103)](https://github.com/ethereum/execution-specs/commit/4add50378c9de7950f878676eada5819fbe80922) - 2026-08-27
 * [Review] [Review on: feat(test-benchmark): more worst case scenario](https://github.com/ethereum/execution-specs/pull/3349#pullrequestreview-5049631352) - 2026-08-28
 * [Commit] [refactor(tests): enhance EIP-8037 test coverage part 2 (#3449)](https://github.com/ethereum/execution-specs/commit/c4deda5b3cfc5c1c8429dcd9159a6fb5636d8486) - 2026-08-28
+* [Review] [Review on: chore(doc): remove broken GitPOAP badge](https://github.com/ethereum/execution-specs/pull/3474#pullrequestreview-5065390895) - 2026-08-31
+* [Review] [Review on: feat(tests): add precompile as block coinbase coverage](https://github.com/ethereum/execution-specs/pull/3462#pullrequestreview-5063792533) - 2026-08-31
+* [Review] [Review on: feat(tests): ECRECOVER that covers R == -G with u1 < u2 and u1 == u2](https://github.com/ethereum/execution-specs/pull/3459#pullrequestreview-5063684041) - 2026-08-31
+* [Review] [Review on: refactor(client-clis): map geth empty system contract rejection to `SYSTEM_CONTRACT_EMPTY`](https://github.com/ethereum/execution-specs/pull/3465#pullrequestreview-5063583639) - 2026-08-31
 ## Q2 2026
 
 

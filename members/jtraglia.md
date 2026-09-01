@@ -238,6 +238,12 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Revamp the README (#5581)](https://github.com/ethereum/consensus-specs/commit/3434cc69d695604ea52253e31486f46ba0e36901) - 2026-08-28
 * [Commit] [Load gossip validation state from the store (#5563)](https://github.com/ethereum/consensus-specs/commit/e524a5830d03b5974d878d66358079a045b7ac36) - 2026-08-28
 * [Review] [Review on: Support Gloas genesis in proposer preferences gossip](https://github.com/ethereum/consensus-specs/pull/5582#pullrequestreview-5062217456) - 2026-08-30
+* [Pull Request] [Move seen checks to the top of gossip validation functions](https://github.com/ethereum/consensus-specs/pull/5586) - 2026-08-31
+* [Pull Request] [Bump version to v1.7.0-beta.0](https://github.com/ethereum/consensus-specs/pull/5585) - 2026-08-31
+* [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5067176927) - 2026-08-31
+* [Commit] [Do not emit ssz-static tests above ProgressiveList soft limits (#5564)](https://github.com/ethereum/consensus-specs/commit/721cc37193d0321fef6519119c9dc9d34a79dd57) - 2026-08-31
+* [Commit] [Bump version to v1.7.0-beta.0 (#5585)](https://github.com/ethereum/consensus-specs/commit/b2a450953fe580ef49e09d2b7837a415f484589c) - 2026-08-31
+* [Commit] [Reject bids from builders exited by the parent's payload (#5580)](https://github.com/ethereum/consensus-specs/commit/0c68a7e9469bb84ed6be393be1a29394f4e8547b) - 2026-08-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -276,6 +282,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Issue] [All Core Devs - Testing (ACDT) #88, July 20, 2026](https://github.com/ethereum/pm/issues/2162) - 2026-07-16
 * [Issue] [All Core Devs - Testing (ACDT) #90, August 3, 2026](https://github.com/ethereum/pm/issues/2174) - 2026-07-27
 * [Issue] [All Core Devs - Testing (ACDT) #94, August 31, 2026](https://github.com/ethereum/pm/issues/2204) - 2026-08-26
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Review] [Review on: engine: bound engine_getInclusionListV1 result by the consensus-layer transaction byte measure](https://github.com/ethereum/execution-apis/pull/870#pullrequestreview-5067286014) - 2026-08-31
 ## Q2 2026
 
 

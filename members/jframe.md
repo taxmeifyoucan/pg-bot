@@ -68,6 +68,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Empty block metrics](https://github.com/besu-eth/besu/pull/11163#pullrequestreview-5048419786) - 2026-08-28
 * [Review] [Review on: Bonsai archive proofs diff encoding](https://github.com/besu-eth/besu/pull/11091#pullrequestreview-5046311183) - 2026-08-27
 * [Review] [Review on: fix: incremental frontierRootHash to avoid O(N²) on pre-Byzantium blocks](https://github.com/besu-eth/besu/pull/10220#pullrequestreview-5062069313) - 2026-08-30
+* [Review] [Review on: fix(bft): serialize BftMiningCoordinator lifecycle transitions](https://github.com/besu-eth/besu/pull/10887#pullrequestreview-5062951963) - 2026-08-31
+* [Issue] [History expiry: Update to use 33024 retention window](https://github.com/besu-eth/besu/issues/11208) - 2026-09-01
 ## Q2 2026
 
 

@@ -125,6 +125,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(tests): enhance EIP-8037 test coverage part 2](https://github.com/ethereum/execution-specs/pull/3449#pullrequestreview-5055795812) - 2026-08-28
 * [Review] [Review on: fix(tests): undecodable BAL is an invalid payload](https://github.com/ethereum/execution-specs/pull/3463#pullrequestreview-5054810621) - 2026-08-28
 * [Review] [Review on: fix(tests): enhance & un-skip Amsterdam ported static SSTORE, refund & misc tests (Pt. 2c)](https://github.com/ethereum/execution-specs/pull/3321#pullrequestreview-5054781459) - 2026-08-28
+* [Pull Request] [feat(tests): EIP-6110 maximum CL deposits test](https://github.com/ethereum/execution-specs/pull/3483) - 2026-09-01
+* [Review] [Review on: fix(test-forks): model the pre-Berlin gas and refund schedules](https://github.com/ethereum/execution-specs/pull/3480#pullrequestreview-5072874451) - 2026-09-01
+* [Review] [Review on: feat(tests): EIP-7928 max nonce boundary check for BAL; update refspec](https://github.com/ethereum/execution-specs/pull/3482#pullrequestreview-5071985369) - 2026-08-31
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

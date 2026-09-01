@@ -74,6 +74,7 @@ Team: Grandine
 * [Review] [Review on: Fix dependent_root validation in proposer_preference](https://github.com/grandinetech/grandine/pull/853#pullrequestreview-5050743379) - 2026-08-28
 * [Review] [Review on: Only broadcast proposer preferences for post-Gloas slots](https://github.com/grandinetech/grandine/pull/859#pullrequestreview-5050385338) - 2026-08-28
 * [Commit] [Updated `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/127d6fd490bda5625df39fb07f3a213c5745dbc6) - 2026-08-28
+* [Commit] [Check dependent roots of attestation targets for pool inclusion without performing slot processing](https://github.com/grandinetech/grandine/commit/9dc532a7031ce33dc70d42763ad028092d50d393) - 2026-08-31
 ## Q2 2026
 
 

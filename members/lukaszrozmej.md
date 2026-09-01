@@ -227,6 +227,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: perf(evm): prefer bytecode interpreter on ARM64](https://github.com/NethermindEth/nethermind/pull/12999#pullrequestreview-5049462021) - 2026-08-28
 * [Pull Request] [fix(engine): align SSZ-REST surface with execution-apis#793](https://github.com/NethermindEth/nethermind/pull/13023) - 2026-08-28
 * [Commit] [fix(engine): align SSZ-REST surface with execution-apis#793 (#13023)](https://github.com/NethermindEth/nethermind/commit/f0a29b888b34aa19d1ef12213a3fba3e76d18cdb) - 2026-08-30
+* [Review] [Review on: fix: don't log expected shutdown cancellation/teardown as error/warning](https://github.com/NethermindEth/nethermind/pull/13046#pullrequestreview-5066673251) - 2026-08-31
+* [Review] [Review on: fix(eth72): announce the blob-elided network size, not the consensus size](https://github.com/NethermindEth/nethermind/pull/13049#pullrequestreview-5066670071) - 2026-08-31
+* [Review] [Review on: fix(aura): preserve existing accounts in BAL preprocessing](https://github.com/NethermindEth/nethermind/pull/13047#pullrequestreview-5066437974) - 2026-08-31
+* [Review] [Review on: fix(simulate): keep traceTransfers synthetic log under EIP-7708](https://github.com/NethermindEth/nethermind/pull/13048#pullrequestreview-5064707533) - 2026-08-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

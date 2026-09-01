@@ -449,6 +449,16 @@ Team: Reth
 * [Commit] [fix(txpool): enforce minimum priority fee for local transactions (#26861)](https://github.com/paradigmxyz/reth/commit/74ce7f1b2be659f4deb9ec8946e9e606368209f5) - 2026-08-28
 * [Commit] [revert: "chore(deps): bump revm to 43.0.0" (#26858)](https://github.com/paradigmxyz/reth/commit/66a08aba2274d3446caf5d8849fda9b6a0e2f770) - 2026-08-28
 * [Pull Request] [fix(rpc): converge generated access lists](https://github.com/paradigmxyz/reth/pull/26878) - 2026-08-30
+* [Pull Request] [fix(rpc): guard block access list replay](https://github.com/paradigmxyz/reth/pull/26895) - 2026-08-31
+* [Review] [Review on: fix(rpc): return used gas from the basic transfer estimate shortcut](https://github.com/paradigmxyz/reth/pull/26875#pullrequestreview-5067935178) - 2026-08-31
+* [Review] [Review on: fix(rpc): return invalid params error for eth_getLogs fromBlock beyond head](https://github.com/paradigmxyz/reth/pull/26891#pullrequestreview-5067568578) - 2026-08-31
+* [Review] [Review on: fix(rpc): align block access list getter semantics](https://github.com/paradigmxyz/reth/pull/26882#pullrequestreview-5065714573) - 2026-08-31
+* [Pull Request] [fix(engine): return invalid for undecodable block access lists](https://github.com/paradigmxyz/reth/pull/26889) - 2026-08-31
+* [Review] [Review on: feat(overlay): Use OverlayStateProvider for most StateProviders in hot paths](https://github.com/paradigmxyz/reth/pull/26616#pullrequestreview-5065689333) - 2026-08-31
+* [Review] [Review on: chore(docker): configure nightly persistence thresholds](https://github.com/paradigmxyz/reth/pull/26888#pullrequestreview-5065291343) - 2026-08-31
+* [Pull Request] [chore: apply latest nightly rustfmt](https://github.com/paradigmxyz/reth/pull/26887) - 2026-08-31
+* [Commit] [fix(rpc): guard block access list replay (#26895)](https://github.com/paradigmxyz/reth/commit/3a1cc31f02060e8689f06b5247eeaac296a55aeb) - 2026-08-31
+* [Commit] [chore: apply latest nightly rustfmt (#26887)](https://github.com/paradigmxyz/reth/commit/8decdbeaeee054b7855fefe83ae9bac6a16d0146) - 2026-08-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

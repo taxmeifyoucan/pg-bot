@@ -63,6 +63,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: fix(engine): separate malformed input from fatal errors](https://github.com/paradigmxyz/reth/pull/26829#pullrequestreview-5039385402) - 2026-08-27
 * [Review] [Review on: test: add post-Cancun selfdestruct e2e suite across hardforks](https://github.com/paradigmxyz/reth/pull/26865#pullrequestreview-5051083053) - 2026-08-28
 * [Review] [Review on: fix(txpool): enforce minimum priority fee for local transactions](https://github.com/paradigmxyz/reth/pull/26861#pullrequestreview-5050385184) - 2026-08-28
+* [Review] [Review on: fix(rpc): return used gas from the basic transfer estimate shortcut](https://github.com/paradigmxyz/reth/pull/26875#pullrequestreview-5068178522) - 2026-08-31
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

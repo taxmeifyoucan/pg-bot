@@ -89,6 +89,8 @@ Team: Geth
 * [Review] [Review on: core: update to newest parameters](https://github.com/ethereum/go-ethereum/pull/35454#pullrequestreview-4844006267) - 2026-08-03
 * [Review] [Review on: core, eth/catalyst, beacon/engine: update for glam8](https://github.com/ethereum/go-ethereum/pull/35514#pullrequestreview-4906434594) - 2026-08-11
 * [Review] [Review on: all: propagate rules into the stateDB](https://github.com/ethereum/go-ethereum/pull/35498#pullrequestreview-4906519425) - 2026-08-11
+* [Review] [Review on: ethclient: return NotFound when block tx count is nil](https://github.com/ethereum/go-ethereum/pull/35605#pullrequestreview-5071340366) - 2026-08-31
+* [Review] [Review on: eth/fetcher: correct the comment on announced-size peer drops](https://github.com/ethereum/go-ethereum/pull/35620#pullrequestreview-5071293163) - 2026-08-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4744394254) - 2026-07-21
 

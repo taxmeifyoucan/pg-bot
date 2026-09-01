@@ -1188,6 +1188,15 @@ Team: Erigon
 * [Pull Request] [execution/exec: stop retries from consuming the fresh-task dispatch budget](https://github.com/erigontech/erigon/pull/23671) - 2026-08-30
 * [Review] [Review on: execution/exec: stop retries from consuming the fresh-task dispatch budget](https://github.com/erigontech/erigon/pull/23671#pullrequestreview-5060034519) - 2026-08-30
 * [Review] [Review on: db/downloader: bound kept-snapshot seeding and rebuild malformed metainfo](https://github.com/erigontech/erigon/pull/23459#pullrequestreview-5060038047) - 2026-08-30
+* [Pull Request] [`erigon db compact`: tool to compact all mdbx's in datadir](https://github.com/erigontech/erigon/pull/23677) - 2026-08-31
+* [Review] [Review on: rpc/jsonrpc: make the debug_traceCall block parameter optional](https://github.com/erigontech/erigon/pull/23683#pullrequestreview-5066896867) - 2026-08-31
+* [Pull Request] [[r3.6] sd: `SD.changesetMu` which must protect "field access" now get locked every DomainPut](https://github.com/erigontech/erigon/pull/23680) - 2026-08-31
+* [Pull Request] [cache, db/kv: remove the code-store MDBX table](https://github.com/erigontech/erigon/pull/23684) - 2026-08-31
+* [Review] [Review on: rpc/rpchelper: stop mutating the log shared with subscribers](https://github.com/erigontech/erigon/pull/23665#pullrequestreview-5065235832) - 2026-08-31
+* [Review] [Review on: rpc: reject null for required positional arguments](https://github.com/erigontech/erigon/pull/23668#pullrequestreview-5065222051) - 2026-08-31
+* [Review] [Review on: rpc: apply eth_estimateGas state overrides to pre-execution checks](https://github.com/erigontech/erigon/pull/23655#pullrequestreview-5065300469) - 2026-08-31
+* [Review] [Review on: build, db, execution, cl, p2p, rpc, txnprovider: enable staticcheck (SA + S1) and fix what it found](https://github.com/erigontech/erigon/pull/23652#pullrequestreview-5065258718) - 2026-08-31
+* [Pull Request] [db/downloader: close the file VerifyFileFailFast opens](https://github.com/erigontech/erigon/pull/23678) - 2026-08-31
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

@@ -96,6 +96,13 @@ Github: [@matkt](https://github.com/matkt)
 * [Pull Request] [Merge PathBased trie classes into Bonsai (1/2)](https://github.com/besu-eth/besu/pull/11112) - 2026-08-20
 * [Pull Request] [explore(parallel): disable whole-block serial fallback for BAL](https://github.com/besu-eth/besu/pull/11150) - 2026-08-25
 * [Pull Request] [fix(parallel): abort speculative futures on block-budget abort](https://github.com/besu-eth/besu/pull/11149) - 2026-08-25
+* [Review] [Review on: feat(witness): EIP-8025  debug_executionWitness RPC](https://github.com/besu-eth/besu/pull/11034#pullrequestreview-5063305544) - 2026-08-31
+* [Issue] [snap/2 - Verify Snap2 Compatibility with Bonsai Archive](https://github.com/besu-eth/besu/issues/11201) - 2026-08-31
+* [Issue] [snap/2 - Verify and Improve Snap2 Performance with BAL](https://github.com/besu-eth/besu/issues/11200) - 2026-08-31
+* [Issue] [snap/2 - Add Forest Compatibility](https://github.com/besu-eth/besu/issues/11199) - 2026-08-31
+* [Issue] [snap/2 - Increase Test Coverage for Full Implementation Testing](https://github.com/besu-eth/besu/issues/11198) - 2026-08-31
+* [Issue] [snap/2 - Stress Test with Local Besu/Besu and Besu/Geth Devnets](https://github.com/besu-eth/besu/issues/11197) - 2026-08-31
+* [Issue] [snap/2 - Participate in Next Test Devnet](https://github.com/besu-eth/besu/issues/11196) - 2026-08-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

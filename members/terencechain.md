@@ -213,6 +213,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Apply parent execution payload before computing Gloas block rewards](https://github.com/OffchainLabs/prysm/pull/17415#pullrequestreview-5031058442) - 2026-08-26
 * [Review] [Review on: Persist execution payload envelope before emitting execution_payload_available](https://github.com/OffchainLabs/prysm/pull/17418#pullrequestreview-5041495705) - 2026-08-27
 * [Review] [Review on: Don't wait on gossip sidecars for a slot that has already passed](https://github.com/OffchainLabs/prysm/pull/17429#pullrequestreview-5059330301) - 2026-08-29
+* [Review] [Review on: Bump consensus spec to v1.7.0-alpha.13](https://github.com/OffchainLabs/prysm/pull/17382#pullrequestreview-5070872908) - 2026-08-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

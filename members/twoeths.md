@@ -168,6 +168,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [engine_newPayload dispatched ~300ms after block receipt delays head votes on heavy blocks](https://github.com/ChainSafe/lodestar/issues/9939) - 2026-08-30
 * [Pull Request] [feat: track queue time of gossipsub messages](https://github.com/ChainSafe/lodestar/pull/9940) - 2026-08-30
 * [Issue] [Gossip message received to validation latency](https://github.com/ChainSafe/lodestar/issues/9942) - 2026-08-30
+* [Pull Request] [fix: avoid epoch transition when validating gossip block](https://github.com/ChainSafe/lodestar/pull/9959) - 2026-09-01
+* [Review] [Review on: fix(beacon-node): skip empty Gloas payloads during range sync](https://github.com/ChainSafe/lodestar/pull/9937#pullrequestreview-5063901447) - 2026-08-31
+* [Review] [Review on: refactor(bindings): split computeNewStateRoot computation](https://github.com/ChainSafe/lodestar/pull/9945#pullrequestreview-5064619046) - 2026-08-31
+* [Review] [Review on: feat: reorg weak head when the proposer equivocated](https://github.com/ChainSafe/lodestar/pull/9929#pullrequestreview-5064394712) - 2026-08-31
+* [Pull Request] [fix: allow proposer boost reorg bid over epoch transition](https://github.com/ChainSafe/lodestar/pull/9944) - 2026-08-31
+* [Review] [Review on: feat: track queue time of gossipsub messages](https://github.com/ChainSafe/lodestar/pull/9940#pullrequestreview-5063909978) - 2026-08-31
+* [Commit] [fix: allow proposer boost reorg bid over epoch transition (#9944)](https://github.com/ChainSafe/lodestar/commit/1d09a4c954b68b963565f8d7c42be655a551eca2) - 2026-08-31
+* [Commit] [feat: track queue time of gossipsub messages (#9940)](https://github.com/ChainSafe/lodestar/commit/56250f4ab6b9839ad5d34fd25fec54169bf54c96) - 2026-08-31
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

@@ -19,6 +19,11 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Pull Request] [params: add chainspecs support](https://github.com/ethereum/go-ethereum/pull/35585) - 2026-08-25
 * [Pull Request] [core: support initcode in GenesisAlloc](https://github.com/ethereum/go-ethereum/pull/35584) - 2026-08-25
 * [Review] [Review on: core: honor ExecuteConfig.EnableTracer for the EVM-level tracing hooks](https://github.com/ethereum/go-ethereum/pull/35512#pullrequestreview-5020070646) - 2026-08-25
+* [Pull Request] [go.mod: remove a few dependencies](https://github.com/ethereum/go-ethereum/pull/35622) - 2026-08-31
+* [Review] [Review on: go.mod: remove a few dependencies](https://github.com/ethereum/go-ethereum/pull/35622#pullrequestreview-5070991696) - 2026-08-31
+
+[protocolguild/documentation](https://github.com/protocolguild/documentation)
+* [Pull Request] [Change Guillaume Ballet's weight to half-time](https://github.com/protocolguild/documentation/pull/550) - 2026-08-31
 ## Q2 2026
 
 

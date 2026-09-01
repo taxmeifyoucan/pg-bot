@@ -49,6 +49,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Review] [Review on: Fix false 'header < body' block tree corruption after ungraceful restart while beacon syncing](https://github.com/NethermindEth/nethermind/pull/12876#pullrequestreview-5040925176) - 2026-08-27
 * [Review] [Review on: Fix peer update timer shutdown race](https://github.com/NethermindEth/nethermind/pull/13010#pullrequestreview-5040903110) - 2026-08-27
 * [Pull Request] [fix: don't log expected shutdown cancellation/teardown as error/warning](https://github.com/NethermindEth/nethermind/pull/13046) - 2026-08-30
+* [Pull Request] [fix(portfolio): scan available window before the retained-receipts floor](https://github.com/NethermindEth/nethermind/pull/13052) - 2026-08-31
+* [Issue] [PortfolioViewer: first token/NFT detection scan returns empty (complete:true) on a snap-synced node](https://github.com/NethermindEth/nethermind/issues/13051) - 2026-08-31
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

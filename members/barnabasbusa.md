@@ -221,6 +221,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(consume): map geth empty system contract rejection to SYSTEM_CONTRACT_EMPTY](https://github.com/ethereum/execution-specs/pull/3465) - 2026-08-28
+* [Commit] [fix(consume): map geth empty system contract rejection to SYSTEM_CONTRACT_EMPTY (#3465)](https://github.com/ethereum/execution-specs/commit/e8e994812dd06cc2ecb2098991ae952365cc12b5) - 2026-08-31
 ## Q2 2026
 
 

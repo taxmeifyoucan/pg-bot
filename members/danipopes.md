@@ -46,6 +46,7 @@ Team: Reth
 * [Review] [Review on: chore(deps): bump the ci-weekly group across 1 directory with 4 updates](https://github.com/paradigmxyz/reth/pull/26745#pullrequestreview-4950902251) - 2026-08-17
 * [Review] [Review on: ci(hive): install ripgrep for failure logs](https://github.com/paradigmxyz/reth/pull/26757#pullrequestreview-4965264654) - 2026-08-18
 * [Review] [Review on: fix(overlay): run computations on dedicated workers](https://github.com/paradigmxyz/reth/pull/26871#pullrequestreview-5051975038) - 2026-08-28
+* [Review] [Review on: chore(deps): bump the ci-weekly group with 3 updates](https://github.com/paradigmxyz/reth/pull/26886#pullrequestreview-5065762911) - 2026-08-31
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

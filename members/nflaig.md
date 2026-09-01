@@ -404,6 +404,26 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: reorg weak head when the proposer equivocated](https://github.com/ChainSafe/lodestar/pull/9929#pullrequestreview-5039821095) - 2026-08-27
 * [Commit] [feat: implement gloas builder api (#9832)](https://github.com/ChainSafe/lodestar/commit/57572140f8b75ab72466a869bf7bdc0ad0db265e) - 2026-08-27
 * [Review] [Review on: feat: flood publish execution payload bids](https://github.com/ChainSafe/lodestar/pull/9914#pullrequestreview-5060502828) - 2026-08-30
+* [Pull Request] [refactor: read parent slot from latest block header instead of bid](https://github.com/ChainSafe/lodestar/pull/9955) - 2026-08-31
+* [Review] [Review on: fix(beacon-node): skip empty Gloas payloads during range sync](https://github.com/ChainSafe/lodestar/pull/9937#pullrequestreview-5070416786) - 2026-08-31
+* [Pull Request] [fix: ignore bids from builders exiting in the parent payload](https://github.com/ChainSafe/lodestar/pull/9954) - 2026-08-31
+* [Review] [Review on: fix: ignore bids from builders exiting in the parent payload](https://github.com/ChainSafe/lodestar/pull/9954#pullrequestreview-5069772217) - 2026-08-31
+* [Pull Request] [fix: pre-establish builder connections before requesting bids](https://github.com/ChainSafe/lodestar/pull/9947) - 2026-08-31
+* [Review] [Review on: fix: pre-establish builder connections before requesting bids](https://github.com/ChainSafe/lodestar/pull/9947#pullrequestreview-5069069040) - 2026-08-31
+* [Pull Request] [docs: clarify gloas builder configuration](https://github.com/ChainSafe/lodestar/pull/9949) - 2026-08-31
+* [Pull Request] [feat: log builder configuration at startup](https://github.com/ChainSafe/lodestar/pull/9946) - 2026-08-31
+* [Pull Request] [chore: builder log levels and value formatting](https://github.com/ChainSafe/lodestar/pull/9948) - 2026-08-31
+* [Review] [Review on: refactor(bindings): split computeNewStateRoot computation](https://github.com/ChainSafe/lodestar/pull/9945#pullrequestreview-5068671628) - 2026-08-31
+* [Review] [Review on: chore(deps): bump the actions group with 3 updates](https://github.com/ChainSafe/lodestar/pull/9952#pullrequestreview-5067983343) - 2026-08-31
+* [Pull Request] [chore: stop registering validators with external builders post-gloas](https://github.com/ChainSafe/lodestar/pull/9950) - 2026-08-31
+* [Review] [Review on: fix: allow proposer boost reorg bid over epoch transition](https://github.com/ChainSafe/lodestar/pull/9944#pullrequestreview-5064447423) - 2026-08-31
+* [Review] [Review on: feat: track queue time of gossipsub messages](https://github.com/ChainSafe/lodestar/pull/9940#pullrequestreview-5064298728) - 2026-08-31
+* [Issue] [Builder api clients are never evicted, removed builders keep being pinged](https://github.com/ChainSafe/lodestar/issues/9951) - 2026-08-31
+* [Commit] [docs: clarify gloas builder configuration (#9949)](https://github.com/ChainSafe/lodestar/commit/d79d81f9949fed9f1681645061659871240823b2) - 2026-08-31
+* [Commit] [feat: log builder configuration at startup (#9946)](https://github.com/ChainSafe/lodestar/commit/20e14f189cca6a68754aea41fbb0df514704aafc) - 2026-08-31
+* [Commit] [chore: builder log levels and value formatting (#9948)](https://github.com/ChainSafe/lodestar/commit/5ab071e6e2b063a17b5f46210a979f14f7ded90c) - 2026-08-31
+* [Commit] [chore: stop registering validators with external builders post-gloas (#9950)](https://github.com/ChainSafe/lodestar/commit/92b9ec6e8bb85e747a9dcd3685be683c98936e3f) - 2026-08-31
+* [Commit] [feat: reorg weak head when the proposer equivocated (#9929)](https://github.com/ChainSafe/lodestar/commit/59d71c272a63f541f6a12b06b5f4bd4271163caf) - 2026-08-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -452,6 +472,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Initialize anchor PTC vote arrays in `get_forkchoice_store`](https://github.com/ethereum/consensus-specs/pull/5545#pullrequestreview-4981966138) - 2026-08-20
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991156148) - 2026-08-21
 * [Review] [Review on: Load gossip validation state from the store](https://github.com/ethereum/consensus-specs/pull/5563#pullrequestreview-5052317139) - 2026-08-28
+* [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066970375) - 2026-08-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

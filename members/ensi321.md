@@ -85,6 +85,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: handle attributable peers on range sync](https://github.com/ChainSafe/lodestar/pull/9836#pullrequestreview-4989615752) - 2026-08-21
 * [Review] [Review on: fix: recompute head after pulling up checkpoints](https://github.com/ChainSafe/lodestar/pull/9864#pullrequestreview-5013854369) - 2026-08-25
 * [Commit] [feat: implement should_apply_proposer_boost for gloas (#9233)](https://github.com/ChainSafe/lodestar/commit/2fba076c28f14f171f5f933c59750715bc87db73) - 2026-08-27
+* [Pull Request] [chore: remove blob related code](https://github.com/ChainSafe/lodestar/pull/9957) - 2026-09-01
+* [Issue] [blob endpoint removal after gloas](https://github.com/ChainSafe/lodestar/issues/9956) - 2026-08-31
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

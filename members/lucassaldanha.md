@@ -125,6 +125,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [gossipsub StrictNoSign check omits the key field and Teku relays the invalid message](https://github.com/Consensys/teku/issues/11186) - 2026-08-27
 * [Commit] [Log dropped gossip RPC parts as expected peer churn, not an error (#11189)](https://github.com/Consensys/teku/commit/23ba04bb6a8af8e7405b64505a44c4acbdc145cd) - 2026-08-28
 * [Commit] [Enforce StrictNoSign key field in GossipWireValidator (#11185)](https://github.com/Consensys/teku/commit/51f69f83abd19890269eff0d4b6eddb17d7b33d6) - 2026-08-27
+* [Pull Request] [Replace modulo test sharding with timing-based shard planning](https://github.com/Consensys/teku/pull/11204) - 2026-08-31
+* [Commit] [Replace modulo test sharding with timing-based shard planning (#11204)](https://github.com/Consensys/teku/commit/5c471f32a4c282a5f432cdcf31c5f073cff00367) - 2026-09-01
 ## Q2 2026
 
 

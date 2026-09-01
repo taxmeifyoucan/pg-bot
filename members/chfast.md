@@ -226,6 +226,14 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Give BlockHeader's scalars default initializers (#1681)](https://github.com/ipsilon/evmone/commit/009d9504c270dc6b51c1c8dee813b01da245c757) - 2026-08-29
 * [Pull Request] [test: Replace gtest with a test driver in the test tools](https://github.com/ipsilon/evmone/pull/1684) - 2026-08-30
 * [Commit] [test: Replace gtest with a test driver in the test tools (#1684)](https://github.com/ipsilon/evmone/commit/ab7e49b8211e7f0a35a1502ac82de3f5d732de7a) - 2026-08-30
+* [Pull Request] [test: Add the evmone test command](https://github.com/ipsilon/evmone/pull/1685) - 2026-08-31
+* [Pull Request] [ci: Add a native riscv64 build on GitHub Actions](https://github.com/ipsilon/evmone/pull/1689) - 2026-08-31
+* [Pull Request] [test: Cover what a fixture file's broken cases do to it](https://github.com/ipsilon/evmone/pull/1688) - 2026-08-31
+* [Pull Request] [test: Fail a test run which verified nothing](https://github.com/ipsilon/evmone/pull/1687) - 2026-08-31
+* [Pull Request] [test: Build one fixture test from its JSON value](https://github.com/ipsilon/evmone/pull/1686) - 2026-08-31
+* [Commit] [test: Cover what a fixture file's broken cases do to it (#1688)](https://github.com/ipsilon/evmone/commit/001414dc59c2fcee1f327481d5589f1244b607de) - 2026-08-31
+* [Commit] [test: Fail a test run which verified nothing (#1687)](https://github.com/ipsilon/evmone/commit/6a177635fb0b4210eacda649f3003df99ae4e7c4) - 2026-08-31
+* [Commit] [test: Build one fixture test from its JSON value (#1686)](https://github.com/ipsilon/evmone/commit/88fbf4488163e467e8a7e31464fbbf59b93b0d32) - 2026-08-31
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -282,6 +290,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [refactor(test-benchmark): tidy SSTORE storage benchmark (#3442)](https://github.com/ethereum/execution-specs/commit/20f7f6271a720091e5fea0a82e7bc802866ae36a) - 2026-08-26
 * [Commit] [feat(tests): EIP-8037 - consume spilled state gas along a halt chain (#3423)](https://github.com/ethereum/execution-specs/commit/6711bfd3f661a54eda1bde89757228f986b828cc) - 2026-08-26
 * [Pull Request] [feat(tests): ECRECOVER - cover R == -G with u1 < u2 and u1 == u2](https://github.com/ethereum/execution-specs/pull/3459) - 2026-08-27
+* [Pull Request] [feat(tests): EIP-7928 - storage reads of a recreated destroyed account](https://github.com/ethereum/execution-specs/pull/3475) - 2026-08-31
+* [Commit] [feat(tests): EIP-7928 - storage reads of a recreated destroyed account (#3475)](https://github.com/ethereum/execution-specs/commit/c7691a64b4ebdde033f1e27fe2932e71f6a22eb2) - 2026-08-31
+* [Commit] [test(tests): ECRECOVER - cover R == -G with u1 < u2 and u1 == u2 (#3459)](https://github.com/ethereum/execution-specs/commit/aee3eb2b02e49adf3c52b77c415907006e3d8a34) - 2026-08-31
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07

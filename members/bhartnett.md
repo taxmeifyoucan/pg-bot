@@ -97,6 +97,8 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Commit] [Update nim-rocksdb to v11.1.2.0 (#4699)](https://github.com/status-im/nimbus-eth1/commit/330d55c7e16449d8a153f7cee1ef2784ebfd2848) - 2026-08-28
 * [Commit] [Revert "Ledger: differentiate accountExists and accountAlive (#4701)" (#4704)](https://github.com/status-im/nimbus-eth1/commit/df33ce4859dc8586a959aa2ed42d838a173ca932) - 2026-08-28
 * [Review] [Review on: accountExists and accountAlive take 2](https://github.com/status-im/nimbus-eth1/pull/4707#pullrequestreview-5060000444) - 2026-08-30
+* [Pull Request] [Use multiGet to fetch branch keys in stateroot computation](https://github.com/status-im/nimbus-eth1/pull/4709) - 2026-08-31
+* [Commit] [Use multiGet to fetch branch keys in stateroot computation (#4709)](https://github.com/status-im/nimbus-eth1/commit/2c3baf53e0131f28cd9728e40547e7631896c89f) - 2026-08-31
 ## Q2 2026
 
 

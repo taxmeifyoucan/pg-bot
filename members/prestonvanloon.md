@@ -76,6 +76,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvan
 * [Commit] [Update CODEOWNERS (#17420)](https://github.com/OffchainLabs/prysm/commit/43cc3c82c009cd401676152013c41c9497ca175e) - 2026-08-27
 * [Pull Request] [hdiff: Use computed serialized size for slice capacity](https://github.com/OffchainLabs/prysm/pull/17427) - 2026-08-28
 * [Review] [Review on: hdiff: Use computed serialized size for slice capacity](https://github.com/OffchainLabs/prysm/pull/17427#pullrequestreview-5052362151) - 2026-08-28
+* [Commit] [hdiff: Use computed serialized size for slice capacity (#17427)](https://github.com/OffchainLabs/prysm/commit/163586bc23bcea575faad1c686df983789f400b9) - 2026-08-31
 ## Q2 2026
 
 
