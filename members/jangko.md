@@ -109,6 +109,11 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Update EEST mainnet fixtures to v20.0.2 (#4698)](https://github.com/status-im/nimbus-eth1/commit/1a09e2c47a62e33d6bd2daa7cefde35250c64e6d) - 2026-08-28
 * [Pull Request] [accountExists and accountAlive take 2](https://github.com/status-im/nimbus-eth1/pull/4707) - 2026-08-29
 * [Commit] [accountExists and accountAlive take 2 (#4707)](https://github.com/status-im/nimbus-eth1/commit/8e2e94531a891aae201d484e29b5900bcedfe1d3) - 2026-08-31
+* [Pull Request] [Bump nim-web3](https://github.com/status-im/nimbus-eth1/pull/4719) - 2026-09-02
+* [Pull Request] [Update glamsterdam devnet fixtures to v8.1.3](https://github.com/status-im/nimbus-eth1/pull/4715) - 2026-09-01
+* [Pull Request] [evmstate parse and validate receipt](https://github.com/status-im/nimbus-eth1/pull/4713) - 2026-09-01
+* [Commit] [Update glamsterdam devnet fixtures to v8.1.3 (#4715)](https://github.com/status-im/nimbus-eth1/commit/dbc7450edb7fcae7a36019e617c00fa2c770c208) - 2026-09-02
+* [Commit] [evmstate parse and validate receipt (#4713)](https://github.com/status-im/nimbus-eth1/commit/3230683d6135e7ecf3543eb376b25eccba8ea2c8) - 2026-09-01
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

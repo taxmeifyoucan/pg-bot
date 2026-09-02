@@ -75,6 +75,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Use read-only states in validator RPC calls for duties](https://github.com/OffchainLabs/prysm/pull/17430#pullrequestreview-5065434857) - 2026-08-31
 * [Review] [Review on: Use read-only `BeaconState` for direct head state readers](https://github.com/OffchainLabs/prysm/pull/17424#pullrequestreview-5065263444) - 2026-08-31
 * [Review] [Review on: Use read-only states in caches (`CheckpointStateCache` & `SyncCommitteeHeadStateCache`)](https://github.com/OffchainLabs/prysm/pull/17425#pullrequestreview-5065282183) - 2026-08-31
+* [Review] [Review on: adding lock to fix data race between file and api](https://github.com/OffchainLabs/prysm/pull/17439#pullrequestreview-5083426362) - 2026-09-01
+* [Review] [Review on: slashing protection up to date for keys added mid run](https://github.com/OffchainLabs/prysm/pull/17411#pullrequestreview-5080041241) - 2026-09-01
 ## Q2 2026
 
 

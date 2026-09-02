@@ -29,6 +29,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [reuse sar0 and shl0 for UInt256 byte shifts](https://github.com/besu-eth/besu/pull/11137) - 2026-08-24
 * [Review] [Review on: Implement Push and Pop opcodes in EVM v2](https://github.com/besu-eth/besu/pull/11116#pullrequestreview-5017547766) - 2026-08-25
 * [Review] [Review on: Fix SSTORE regression](https://github.com/besu-eth/besu/pull/11202#pullrequestreview-5065214553) - 2026-08-31
+* [Review] [Review on: Implement Push and Pop opcodes in EVM v2](https://github.com/besu-eth/besu/pull/11116#pullrequestreview-5080645614) - 2026-09-01
 ## Q2 2026
 
 

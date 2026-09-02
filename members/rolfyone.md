@@ -175,6 +175,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Issue] [change ephemery network loading to new standard locations](https://github.com/Consensys/teku/issues/11187) - 2026-08-27
 * [Commit] [Remote validator client: use v2 proposer duties endpoint from Fulu (#11164)](https://github.com/Consensys/teku/commit/4edec7fd59675daa71bfb3f5a179b1531811737f) - 2026-08-28
 * [Review] [Review on: Staked Builder API REST Client](https://github.com/Consensys/teku/pull/11026#pullrequestreview-5070717825) - 2026-08-31
+* [Review] [Review on: Update actions/setup-java action to v6](https://github.com/Consensys-Incorporated/teku/pull/11207#pullrequestreview-5082517197) - 2026-09-01
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

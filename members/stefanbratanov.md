@@ -62,6 +62,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Issue] [Validate a bid coming from an external builder](https://github.com/Consensys/teku/issues/11191) - 2026-08-28
 * [Issue] [Builder API Implementation Gaps](https://github.com/Consensys/teku/issues/11194) - 2026-08-28
 * [Issue] [Adapt proposer config for Gloas](https://github.com/Consensys/teku/issues/11195) - 2026-08-28
+* [Pull Request] [Consider builder bids during block production](https://github.com/Consensys-Incorporated/teku/pull/11209) - 2026-09-01
+* [Review] [Review on: Consider builder bids during block production](https://github.com/Consensys-Incorporated/teku/pull/11209#pullrequestreview-5079029884) - 2026-09-01
+* [Pull Request] [Staked Builder API REST Client](https://github.com/Consensys-Incorporated/teku/pull/11026) - 2026-09-01
+* [Commit] [Staked Builder API REST Client (#11026)](https://github.com/Consensys-Incorporated/teku/commit/1ef46b9bb2d4757e315eebc31ac852976ec45d62) - 2026-09-01
 ## Q2 2026
 
 

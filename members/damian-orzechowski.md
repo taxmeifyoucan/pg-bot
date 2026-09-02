@@ -13,6 +13,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4703197771) - 2026-07-15
+
+[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/13043#pullrequestreview-5079516726) - 2026-09-01
 ## Q2 2026
 
 

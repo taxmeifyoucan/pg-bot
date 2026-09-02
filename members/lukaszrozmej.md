@@ -231,12 +231,43 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix(eth72): announce the blob-elided network size, not the consensus size](https://github.com/NethermindEth/nethermind/pull/13049#pullrequestreview-5066670071) - 2026-08-31
 * [Review] [Review on: fix(aura): preserve existing accounts in BAL preprocessing](https://github.com/NethermindEth/nethermind/pull/13047#pullrequestreview-5066437974) - 2026-08-31
 * [Review] [Review on: fix(simulate): keep traceTransfers synthetic log under EIP-7708](https://github.com/NethermindEth/nethermind/pull/13048#pullrequestreview-5064707533) - 2026-08-31
+* [Pull Request] [perf(zkevm): jumpdest scan, nibble ops, static init, branch RLP, and constant loads](https://github.com/NethermindEth/nethermind/pull/13091) - 2026-09-02
+* [Pull Request] [perf(zkevm): presized witness stores, dense dispatch, cheaper word swaps, sha256f merkleization](https://github.com/NethermindEth/nethermind/pull/13090) - 2026-09-02
+* [Pull Request] [perf(evm): widen the program counter to nint](https://github.com/NethermindEth/nethermind/pull/13079) - 2026-09-01
+* [Review] [Review on: perf(evm): widen the program counter to nint](https://github.com/NethermindEth/nethermind/pull/13079#pullrequestreview-5080913310) - 2026-09-01
+* [Pull Request] [perf(zkevm): build with -Ot and drop single-thread locks from TrieNode](https://github.com/NethermindEth/nethermind/pull/13086) - 2026-09-01
+* [Pull Request] [test: stop the deadlock guard from ending the blocked blob update](https://github.com/NethermindEth/nethermind/pull/13089) - 2026-09-01
+* [Pull Request] [ci: fall back to the base EVM benchmark harness when the PR harness will not compile](https://github.com/NethermindEth/nethermind/pull/13088) - 2026-09-01
+* [Review] [Review on: ci: fall back to the base EVM benchmark harness when the PR harness will not compile](https://github.com/NethermindEth/nethermind/pull/13088#pullrequestreview-5083727985) - 2026-09-01
+* [Pull Request] [test: deflake the peer session-conflict agreement test](https://github.com/NethermindEth/nethermind/pull/13087) - 2026-09-01
+* [Pull Request] [perf(zkevm): cut guest hot paths — keccak wrapper, trie buffers, branch RLP](https://github.com/NethermindEth/nethermind/pull/13084) - 2026-09-01
+* [Review] [Review on: perf(zkevm): cut guest hot paths — keccak wrapper, trie buffers, branch RLP](https://github.com/NethermindEth/nethermind/pull/13084#pullrequestreview-5083373574) - 2026-09-01
+* [Pull Request] [Drop reverted CREATE code before it reaches CodeDb](https://github.com/NethermindEth/nethermind/pull/13074) - 2026-09-01
+* [Review] [Review on: Drop reverted CREATE code before it reaches CodeDb](https://github.com/NethermindEth/nethermind/pull/13074#pullrequestreview-5079728469) - 2026-09-01
+* [Pull Request] [test(zkevm): lock the guest metric-primitive no-op contract](https://github.com/NethermindEth/nethermind/pull/13080) - 2026-09-01
+* [Pull Request] [fix(rpc): omit `to` on failed top-level CREATE frames in callTracer](https://github.com/NethermindEth/nethermind/pull/13078) - 2026-09-01
+* [Pull Request] [perf(zkevm): compile the guest's metric counters away](https://github.com/NethermindEth/nethermind/pull/13077) - 2026-09-01
+* [Pull Request] [perf(zkevm): stop incrementing trie metrics in the guest](https://github.com/NethermindEth/nethermind/pull/13075) - 2026-09-01
+* [Pull Request] [perf(zkevm): stop copying witness elements into the guest databases](https://github.com/NethermindEth/nethermind/pull/13076) - 2026-09-01
+* [Review] [Review on: perf(zkevm): stop copying witness elements into the guest databases](https://github.com/NethermindEth/nethermind/pull/13076#pullrequestreview-5079744217) - 2026-09-01
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/13043#pullrequestreview-5077817561) - 2026-09-01
+* [Review] [Review on: chore: add svlachakis to CODEOWNERS for flat history and history pruning](https://github.com/NethermindEth/nethermind/pull/13072#pullrequestreview-5079254403) - 2026-09-01
+* [Review] [Review on: fix(sync): stop a malformed header response from stalling fast-headers sync](https://github.com/NethermindEth/nethermind/pull/13019#pullrequestreview-5077514614) - 2026-09-01
+* [Commit] [test: deflake the peer session-conflict agreement test (#13087)](https://github.com/NethermindEth/nethermind/commit/2bd0aa170ca2b3d9fcfedeea053e79c3874f5cff) - 2026-09-01
+* [Commit] [perf(zkevm): cut guest hot paths — keccak wrapper, trie buffers, branch RLP (#13084)](https://github.com/NethermindEth/nethermind/commit/b282589ef75c3bf85810986c505f4c96ef8b6de6) - 2026-09-01
+* [Commit] [Drop reverted CREATE code before it reaches CodeDb (#13074)](https://github.com/NethermindEth/nethermind/commit/c90595d3d71277ffb775bbfd8680a97beb1a5267) - 2026-09-01
+* [Commit] [fix(rpc): omit `to` on failed top-level CREATE frames in callTracer (#13078)](https://github.com/NethermindEth/nethermind/commit/5112c19fd3381a91b7fd3b04141cfa1babd272d6) - 2026-09-01
+* [Commit] [perf(zkevm): compile the guest's metric counters away (#13077)](https://github.com/NethermindEth/nethermind/commit/0f81d48f0237142dcd7cdf72ae6c98071b700a9b) - 2026-09-01
+* [Commit] [perf(zkevm): stop copying witness elements into the guest databases (#13076)](https://github.com/NethermindEth/nethermind/commit/57ff4693784c431d5600e00ca99feaf12dc10867) - 2026-09-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652808935) - 2026-07-08
 * [Pull Request] [Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4652875753) - 2026-07-08
+
+[NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
+* [Issue] [riscv64 codegen: constant rematerialization, redundant width conversions, and memory round-trips measured on the ZisK guest](https://github.com/NethermindEth/bflat-riscv64/issues/40) - 2026-09-02
 ## Q2 2026
 
 

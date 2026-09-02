@@ -261,6 +261,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(pmt): reject empty compact proof leaves](https://github.com/ChainSafe/lodestar-z/pull/610#pullrequestreview-5044366550) - 2026-08-27
 * [Review] [Review on: feat(shuffle): add ./shuffle subpath export](https://github.com/ChainSafe/lodestar-z/pull/612#pullrequestreview-5041454608) - 2026-08-27
 * [Review] [Review on: fix(bench): stabilize committee benchmark inputs](https://github.com/ChainSafe/lodestar-z/pull/606#pullrequestreview-5041412858) - 2026-08-27
+* [Review] [Review on: refactor(pmt): make node pool non-growable](https://github.com/ChainSafe/lodestar-z/pull/617#pullrequestreview-5079260202) - 2026-09-01
+* [Review] [Review on: refactor(ssz): simplify progressive bit list type](https://github.com/ChainSafe/lodestar-z/pull/618#pullrequestreview-5079275658) - 2026-09-01
+* [Issue] [Fix STF error observability](https://github.com/ChainSafe/lodestar-z/issues/622) - 2026-09-01
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

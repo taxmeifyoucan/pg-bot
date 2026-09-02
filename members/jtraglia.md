@@ -244,6 +244,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Commit] [Do not emit ssz-static tests above ProgressiveList soft limits (#5564)](https://github.com/ethereum/consensus-specs/commit/721cc37193d0321fef6519119c9dc9d34a79dd57) - 2026-08-31
 * [Commit] [Bump version to v1.7.0-beta.0 (#5585)](https://github.com/ethereum/consensus-specs/commit/b2a450953fe580ef49e09d2b7837a415f484589c) - 2026-08-31
 * [Commit] [Reject bids from builders exited by the parent's payload (#5580)](https://github.com/ethereum/consensus-specs/commit/0c68a7e9469bb84ed6be393be1a29394f4e8547b) - 2026-08-31
+* [Review] [Review on: Increase `MAX_SIGNED_INCLUSION_LIST_SIZE` to the worst-case size](https://github.com/ethereum/consensus-specs/pull/5576#pullrequestreview-5080026086) - 2026-09-01
+* [Review] [Review on: Hex-encode only literal `ProgressiveList[Byte]` in reference tests](https://github.com/ethereum/consensus-specs/pull/5587#pullrequestreview-5078109760) - 2026-09-01
+* [Commit] [Replace mypy with ty (#5574)](https://github.com/ethereum/consensus-specs/commit/3be9b686efd106133aec0559d9f00b7cb75c1bc3) - 2026-09-01
+* [Commit] [Move seen checks to the top of gossip validation functions (#5586)](https://github.com/ethereum/consensus-specs/commit/4962a4b1ff0e113863f219bcb57d7e446a8ba924) - 2026-09-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -278,6 +282,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Fix YAML folding](https://github.com/ethereum/c-kzg-4844/pull/658#pullrequestreview-4908705964) - 2026-08-11
 * [Review] [Review on: Migrate to NuGet trusted publishing](https://github.com/ethereum/c-kzg-4844/pull/657#pullrequestreview-4907648088) - 2026-08-11
 * [Pull Request] [Add function to recover cells (and not proofs) to bindings](https://github.com/ethereum/c-kzg-4844/pull/660) - 2026-08-17
+* [Review] [Review on: Bump the actions group with 3 updates](https://github.com/ethereum/c-kzg-4844/pull/664#pullrequestreview-5083335442) - 2026-09-01
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #88, July 20, 2026](https://github.com/ethereum/pm/issues/2162) - 2026-07-16
 * [Issue] [All Core Devs - Testing (ACDT) #90, August 3, 2026](https://github.com/ethereum/pm/issues/2174) - 2026-07-27

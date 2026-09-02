@@ -182,6 +182,12 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Refactor engine_getBlobsV* into a sealed version hierarchy (#11174)](https://github.com/besu-eth/besu/commit/ddf068238d0065276d022d18fd4f2dcb76716327) - 2026-08-31
 * [Commit] [Treat an omitted or null GraphQL logs topics filter as matching any topic (#11188)](https://github.com/besu-eth/besu/commit/b3c22a9b7c56f026fc4117eedbc50e9ae569101b) - 2026-08-31
 * [Commit] [Compare the cached Engine API JWT with MessageDigest.isEqual (#11189)](https://github.com/besu-eth/besu/commit/255eb0ebc77d181ee25ff2f9348f0cc1871db241) - 2026-08-31
+* [Review] [Review on: plugin baseline for 26.8.1](https://github.com/besu-eth/besu/pull/11212#pullrequestreview-5075239742) - 2026-09-01
+* [Review] [Review on: Reconciliation from 26.8.1](https://github.com/besu-eth/besu/pull/11214#pullrequestreview-5075263786) - 2026-09-01
+* [Review] [Review on: changelog for 26.8.1](https://github.com/besu-eth/besu/pull/11209#pullrequestreview-5080244592) - 2026-09-01
+* [Review] [Review on: Cleanup after the Engine API methods refactor](https://github.com/besu-eth/besu/pull/11205#pullrequestreview-5075649796) - 2026-09-01
+* [Review] [Review on: Revert "return INVALID for undecodable blockAccessList (#11177)"](https://github.com/besu-eth/besu/pull/11219#pullrequestreview-5076750726) - 2026-09-01
+* [Commit] [Set a limit to accepted tx max size in bytes (#74)](https://github.com/besu-eth/besu/commit/3ec1bce7ed77de097b6237f7a83be1122a164b3a) - 2026-09-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

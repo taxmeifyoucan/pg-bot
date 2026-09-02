@@ -263,6 +263,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Test Release Tracker: `glamsterdam-devnet@v8.1.3`](https://github.com/ethereum/execution-specs/issues/3479) - 2026-08-31
 * [Commit] [fix(test-forks): model the pre-Berlin gas and refund schedules (#3480)](https://github.com/ethereum/execution-specs/commit/e5b6e3b5ccd68eb47f2cba35da16cd2b240cb8b8) - 2026-09-01
 * [Commit] [chore(tooling): forbid Claude session links in commits and PRs (#3481)](https://github.com/ethereum/execution-specs/commit/c563375f6892f0ea879e497ba6fe461d4eb54310) - 2026-08-31
+* [Pull Request] [fix(test-specs,test-types): drop env fields a fork's header lacks from state fixture envs](https://github.com/ethereum/execution-specs/pull/3488) - 2026-09-01
+* [Pull Request] [feat(tests): pin cross-frame state gas refund placement and settlement](https://github.com/ethereum/execution-specs/pull/3490) - 2026-09-01
+* [Review] [Review on: feat(test-benchmark): more worst case scenario](https://github.com/ethereum/execution-specs/pull/3349#pullrequestreview-5077039726) - 2026-09-01
+* [Commit] [feat(tests): pin cross-frame state gas refund placement and settlement (#3490)](https://github.com/ethereum/execution-specs/commit/70c3511ba1b454c6f0458e1e1b949cf383a6894e) - 2026-09-01
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

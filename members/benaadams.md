@@ -247,6 +247,16 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(txpool): harden fork-boundary revalidation (#13038)](https://github.com/NethermindEth/nethermind/commit/b7fdae843bb40a803b0d69d7355c4e978ea1cc20) - 2026-08-29
 * [Pull Request] [Fix atomic blob transaction persistence after revalidation](https://github.com/NethermindEth/nethermind/pull/13045) - 2026-08-30
 * [Review] [Review on: Fix atomic blob transaction persistence after revalidation](https://github.com/NethermindEth/nethermind/pull/13045#pullrequestreview-5060865110) - 2026-08-30
+* [Review] [Review on: test: deflake the peer session-conflict agreement test](https://github.com/NethermindEth/nethermind/pull/13087#pullrequestreview-5083872850) - 2026-09-01
+* [Review] [Review on: fix(rpc): omit `to` on failed top-level CREATE frames in callTracer](https://github.com/NethermindEth/nethermind/pull/13078#pullrequestreview-5083069402) - 2026-09-01
+* [Pull Request] [Reduce routine debug logging noise](https://github.com/NethermindEth/nethermind/pull/13085) - 2026-09-01
+* [Review] [Review on: Reduce routine debug logging noise](https://github.com/NethermindEth/nethermind/pull/13085#pullrequestreview-5082880297) - 2026-09-01
+* [Review] [Review on: perf(zkevm): compile the guest's metric counters away](https://github.com/NethermindEth/nethermind/pull/13077#pullrequestreview-5079947151) - 2026-09-01
+* [Review] [Review on: perf(zkevm): stop copying witness elements into the guest databases](https://github.com/NethermindEth/nethermind/pull/13076#pullrequestreview-5079935192) - 2026-09-01
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/13043#pullrequestreview-5079923924) - 2026-09-01
+* [Review] [Review on: chore: add svlachakis to CODEOWNERS for flat history and history pruning](https://github.com/NethermindEth/nethermind/pull/13072#pullrequestreview-5079252986) - 2026-09-01
+* [Commit] [Use unbound generic types in nameof (#13056)](https://github.com/NethermindEth/nethermind/commit/466a8b9196f78444b9b03b7864e06f90e9dd1947) - 2026-09-01
+* [Commit] [Fix atomic blob transaction persistence after revalidation (#13045)](https://github.com/NethermindEth/nethermind/commit/c1c046ffc5d7c8a129ad0a397ed917866bfe01d3) - 2026-09-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

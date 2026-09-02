@@ -77,6 +77,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 
 * [Review] [Review on: Fix blob ordering when filtering blobs by versioned hash](https://github.com/sigp/lighthouse/pull/9944#pullrequestreview-5073352667) - 2026-09-01
 * [Review] [Review on: Add Gloas bid selection, block production, and bid gossip processing (Gloas builder API 3/5)](https://github.com/sigp/lighthouse/pull/9805#pullrequestreview-5063244756) - 2026-08-31
+* [Review] [Review on: Fix quadratic pending-validator scan in Gloas builder onboarding](https://github.com/sigp/lighthouse/pull/9954#pullrequestreview-5084229637) - 2026-09-01
+* [Review] [Review on: disable mplex by default](https://github.com/sigp/lighthouse/pull/9522#pullrequestreview-5078898518) - 2026-09-01
+* [Review] [Review on: Fix Gloas envelope lookups failing with MissingBid](https://github.com/sigp/lighthouse/pull/9940#pullrequestreview-5073847751) - 2026-09-01
+* [Review] [Review on: Validator client publishes legacy registrations after Gloas](https://github.com/sigp/lighthouse/pull/9939#pullrequestreview-5073855015) - 2026-09-01
+* [Review] [Review on: Fix slot lookup immediately after a head event](https://github.com/sigp/lighthouse/pull/9931#pullrequestreview-5073875980) - 2026-09-01
+* [Review] [Review on: Fix false peer penalties during Gloas custody backfill](https://github.com/sigp/lighthouse/pull/9953#pullrequestreview-5073717199) - 2026-09-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31

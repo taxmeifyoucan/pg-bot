@@ -75,6 +75,7 @@ Team: Geth
 * [Review] [Review on: Add EIP: Remove the Sync Committee](https://github.com/ethereum/EIPs/pull/12228#pullrequestreview-5004053264) - 2026-08-24
 * [Review] [Review on: Update EIP-8141: account block execution gas before refund (EIP-7778)](https://github.com/ethereum/EIPs/pull/12226#pullrequestreview-5004050703) - 2026-08-24
 * [Review] [Review on: Update EIP-4444: Move to Draft](https://github.com/ethereum/EIPs/pull/12257#pullrequestreview-5051275509) - 2026-08-28
+* [Review] [Review on: Update EIP-8141: Remove a redundant check for frame's state gas limit](https://github.com/ethereum/EIPs/pull/12276#pullrequestreview-5081112121) - 2026-09-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [feat(specs): implement frame tx](https://github.com/ethereum/execution-specs/pull/3114) - 2026-07-06
 * [Pull Request] [fork(bogota): add bogota fork](https://github.com/ethereum/execution-specs/pull/3113) - 2026-07-06
@@ -91,6 +92,7 @@ Team: Geth
 * [Review] [Review on: all: propagate rules into the stateDB](https://github.com/ethereum/go-ethereum/pull/35498#pullrequestreview-4906519425) - 2026-08-11
 * [Review] [Review on: ethclient: return NotFound when block tx count is nil](https://github.com/ethereum/go-ethereum/pull/35605#pullrequestreview-5071340366) - 2026-08-31
 * [Review] [Review on: eth/fetcher: correct the comment on announced-size peer drops](https://github.com/ethereum/go-ethereum/pull/35620#pullrequestreview-5071293163) - 2026-08-31
+* [Review] [Review on: eth/tracers: fix test flaking on 0xEF block hashes](https://github.com/ethereum/go-ethereum/pull/35629#pullrequestreview-5083696762) - 2026-09-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4744394254) - 2026-07-21
 

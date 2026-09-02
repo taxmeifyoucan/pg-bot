@@ -123,6 +123,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [Add gas limit schedule (EIP-8261) (#5533)](https://github.com/ethereum/consensus-specs/commit/2359a5e3444635ee2fc2acdea8a759e16391af90) - 2026-08-13
 * [Pull Request] [Derive MAX_SIGNED_INCLUSION_LIST_SIZE from transaction byte bound](https://github.com/ethereum/consensus-specs/pull/5576) - 2026-08-28
 * [Issue] [Heze: MAX_SIGNED_INCLUSION_LIST_SIZE (8348) only fits a single-transaction inclusion list](https://github.com/ethereum/consensus-specs/issues/5575) - 2026-08-28
+* [Commit] [Increase `MAX_SIGNED_INCLUSION_LIST_SIZE` to the worst-case size (#5576)](https://github.com/ethereum/consensus-specs/commit/77dc8d77038013e83d3dc7d9e26da55972e16445) - 2026-09-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/pull/11899) - 2026-07-08
 * [Commit] [Update EIP-8282: set predeploy addresses from current reference bytecode](https://github.com/ethereum/EIPs/commit/554d3325e31c3f74078402d961355218ece16bee) - 2026-07-08

@@ -99,6 +99,7 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Review] [Review on: accountExists and accountAlive take 2](https://github.com/status-im/nimbus-eth1/pull/4707#pullrequestreview-5060000444) - 2026-08-30
 * [Pull Request] [Use multiGet to fetch branch keys in stateroot computation](https://github.com/status-im/nimbus-eth1/pull/4709) - 2026-08-31
 * [Commit] [Use multiGet to fetch branch keys in stateroot computation (#4709)](https://github.com/status-im/nimbus-eth1/commit/2c3baf53e0131f28cd9728e40547e7631896c89f) - 2026-08-31
+* [Review] [Review on: Bump nim-json-rpc to `d783a9e`](https://github.com/status-im/nimbus-eth1/pull/4691#pullrequestreview-5073667664) - 2026-09-01
 ## Q2 2026
 
 

@@ -53,6 +53,7 @@ Team: Erigon
 * [Commit] [qa-tests: update Lighthouse version to v8.2.2 (#23379)](https://github.com/erigontech/erigon/commit/1fd083effb3dd0377fba814a229e5f56f624cfc2) - 2026-08-19
 * [Pull Request] [qa-tests: add exec from zero test](https://github.com/erigontech/erigon/pull/23687) - 2026-08-31
 * [Review] [Review on: qa-tests: add exec from zero test](https://github.com/erigontech/erigon/pull/23687#pullrequestreview-5067623168) - 2026-08-31
+* [Commit] [qa-tests: add exec from zero test (#23687)](https://github.com/erigontech/erigon/commit/20424659be77b51122a3c1543c34ba19d2e4c38d) - 2026-09-01
 ## Q2 2026
 
 

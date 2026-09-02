@@ -214,6 +214,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Persist execution payload envelope before emitting execution_payload_available](https://github.com/OffchainLabs/prysm/pull/17418#pullrequestreview-5041495705) - 2026-08-27
 * [Review] [Review on: Don't wait on gossip sidecars for a slot that has already passed](https://github.com/OffchainLabs/prysm/pull/17429#pullrequestreview-5059330301) - 2026-08-29
 * [Review] [Review on: Bump consensus spec to v1.7.0-alpha.13](https://github.com/OffchainLabs/prysm/pull/17382#pullrequestreview-5070872908) - 2026-08-31
+* [Pull Request] [Use head state for next-epoch attestation target states](https://github.com/OffchainLabs/prysm/pull/17441) - 2026-09-01
+* [Review] [Review on: Bump consensus spec to v1.7.0-alpha.13](https://github.com/OffchainLabs/prysm/pull/17382#pullrequestreview-5079131811) - 2026-09-01
+* [Commit] [Use head state for next-epoch attestation target states (#17441)](https://github.com/OffchainLabs/prysm/commit/6a8ba2dcc1d7fb7d90177cf162082d1bd4972b05) - 2026-09-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

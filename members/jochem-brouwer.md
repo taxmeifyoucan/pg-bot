@@ -111,6 +111,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Pull Request] [Update EIP-5069: Add EIP coordinator](https://github.com/ethereum/EIPs/pull/12241) - 2026-08-26
 * [Commit] [Update EIP-5069: rollback PR 12241](https://github.com/ethereum/EIPs/commit/bd24704c59caa044b08218bf54e80b13b939c746) - 2026-08-26
 * [Commit] [Update EIP-5069: Add EIP coordinator](https://github.com/ethereum/EIPs/commit/b13fa6ba2517d50974de21811947a2f46b5dadff) - 2026-08-26
+* [Review] [Review on: Update EIP-867: Move to Draft](https://github.com/ethereum/EIPs/pull/9594#pullrequestreview-5084966421) - 2026-09-02
+* [Review] [Review on: Update EIP-7784: Move to Last Call](https://github.com/ethereum/EIPs/pull/9992#pullrequestreview-5084935036) - 2026-09-02
+* [Review] [Review on: Add EIP: Top-up Sync](https://github.com/ethereum/EIPs/pull/12154#pullrequestreview-5084882552) - 2026-09-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03

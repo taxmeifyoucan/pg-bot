@@ -70,6 +70,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: fix: incremental frontierRootHash to avoid O(N²) on pre-Byzantium blocks](https://github.com/besu-eth/besu/pull/10220#pullrequestreview-5062069313) - 2026-08-30
 * [Review] [Review on: fix(bft): serialize BftMiningCoordinator lifecycle transitions](https://github.com/besu-eth/besu/pull/10887#pullrequestreview-5062951963) - 2026-08-31
 * [Issue] [History expiry: Update to use 33024 retention window](https://github.com/besu-eth/besu/issues/11208) - 2026-09-01
+* [Review] [Review on: Remove SavePreMergeHeaderStep and test class](https://github.com/besu-eth/besu/pull/11210#pullrequestreview-5073895905) - 2026-09-01
+* [Commit] [fix(qbft/ibft2): bound prepares/round-change lists at decode](https://github.com/besu-eth/besu/commit/dd4101c9ec92716fcc22cdd825c258c67969e781) - 2026-09-01
 ## Q2 2026
 
 

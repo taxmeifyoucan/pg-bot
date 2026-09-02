@@ -177,6 +177,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [execution/types, rpc/jsonrpc: drop ErigonLog in favour of RPCLog (#23667)](https://github.com/erigontech/erigon/commit/9d0f6ce34ad545865f2f39e1dc09ac359172f494) - 2026-08-31
 * [Commit] [rpc: reject null for required positional arguments (#23668)](https://github.com/erigontech/erigon/commit/516e7e107d3bb88423e77aac7cd6fd3cf2900cc3) - 2026-08-31
 * [Commit] [rpc: apply eth_estimateGas state overrides to pre-execution checks (#23655)](https://github.com/erigontech/erigon/commit/4c500a9a0cb6649100b112ce052bceeb9358806a) - 2026-08-31
+* [Commit] [rpc/jsonrpc, db/snapshotsync: seven review follow-ups from #23322 (#23690)](https://github.com/erigontech/erigon/commit/5ebf96f24141650b30d7e8439e8a9529856104d9) - 2026-09-01
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

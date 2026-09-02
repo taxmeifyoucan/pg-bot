@@ -609,6 +609,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cl/services: harden shared pending queue and migrate bids](https://github.com/erigontech/erigon/pull/23644#pullrequestreview-5065524256) - 2026-08-31
 * [Issue] [cl/epbs: retain fallback bids after production-time eviction](https://github.com/erigontech/erigon/issues/23689) - 2026-08-31
 * [Issue] [cl/beacon: implement spec-compliant ProduceBlockV4 BuilderConfig](https://github.com/erigontech/erigon/issues/23686) - 2026-08-31
+* [Review] [Review on: ci: update hive to latest commit on ethereum/hive repo](https://github.com/erigontech/erigon/pull/23707#pullrequestreview-5077681063) - 2026-09-01
+* [Review] [Review on: execution: remove EIP-7610](https://github.com/erigontech/erigon/pull/23706#pullrequestreview-5076889144) - 2026-09-01
+* [Pull Request] [db: align full retention with CL block request window](https://github.com/erigontech/erigon/pull/23708) - 2026-09-01
+* [Review] [Review on: db: align full retention with CL block request window](https://github.com/erigontech/erigon/pull/23708#pullrequestreview-5078815353) - 2026-09-01
+* [Pull Request] [execution/p2p: bound BlockBodies response decoding](https://github.com/erigontech/erigon/pull/23712) - 2026-09-01
+* [Review] [Review on: ci: pin the glamsterdam-devnet eels simulator to its fixtures tag](https://github.com/erigontech/erigon/pull/23705#pullrequestreview-5076655418) - 2026-09-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

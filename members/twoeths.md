@@ -176,6 +176,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: feat: track queue time of gossipsub messages](https://github.com/ChainSafe/lodestar/pull/9940#pullrequestreview-5063909978) - 2026-08-31
 * [Commit] [fix: allow proposer boost reorg bid over epoch transition (#9944)](https://github.com/ChainSafe/lodestar/commit/1d09a4c954b68b963565f8d7c42be655a551eca2) - 2026-08-31
 * [Commit] [feat: track queue time of gossipsub messages (#9940)](https://github.com/ChainSafe/lodestar/commit/56250f4ab6b9839ad5d34fd25fec54169bf54c96) - 2026-08-31
+* [Review] [Review on: fix: ignore bids from builders exiting in the parent payload](https://github.com/ChainSafe/lodestar/pull/9954#pullrequestreview-5077614740) - 2026-09-01
+* [Review] [Review on: fix: pre-establish builder connections before requesting bids](https://github.com/ChainSafe/lodestar/pull/9947#pullrequestreview-5077766748) - 2026-09-01
+* [Pull Request] [fix: only track ACCEPT message job time](https://github.com/ChainSafe/lodestar/pull/9961) - 2026-09-01
+* [Review] [Review on: fix: only track ACCEPT message job time](https://github.com/ChainSafe/lodestar/pull/9961#pullrequestreview-5076105461) - 2026-09-01
+* [Review] [Review on: fix: avoid epoch transition when validating gossip block](https://github.com/ChainSafe/lodestar/pull/9959#pullrequestreview-5073738284) - 2026-09-01
+* [Review] [Review on: perf(state-transition): batch inactivity score updates](https://github.com/ChainSafe/lodestar/pull/9911#pullrequestreview-5073689734) - 2026-09-01
+* [Issue] [Performance issue validation payload_attestation_message](https://github.com/ChainSafe/lodestar/issues/9960) - 2026-09-01
+* [Issue] [Fix queue time metric in Indexed Gossip Queue of networking dashboard](https://github.com/ChainSafe/lodestar/issues/9962) - 2026-09-01
+* [Commit] [fix: only track ACCEPT message job time (#9961)](https://github.com/ChainSafe/lodestar/commit/d477ac6ef71229e0746bd488a230df9fece77392) - 2026-09-01
+* [Commit] [fix: avoid epoch transition when validating gossip block (#9959)](https://github.com/ChainSafe/lodestar/commit/a3a363b2f7c724bba121d71b7d11d160d8af16a2) - 2026-09-01
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

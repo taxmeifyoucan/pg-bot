@@ -60,6 +60,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Migrate the validator client to the Gloas builder API (Gloas builder API 5/5)](https://github.com/sigp/lighthouse/pull/9807#pullrequestreview-5065540463) - 2026-08-31
 * [Pull Request] [Add check for `--disable-proposer-reorg` flag](https://github.com/sigp/lighthouse/pull/9926) - 2026-08-31
 * [Issue] [Blob data generated in tests are identical](https://github.com/sigp/lighthouse/issues/9951) - 2026-08-31
+* [Review] [Review on: Don't block block notifications on next-epoch proposer duties](https://github.com/sigp/lighthouse/pull/9952#pullrequestreview-5074792069) - 2026-09-01
+* [Review] [Review on: Fix false peer penalties during Gloas custody backfill](https://github.com/sigp/lighthouse/pull/9953#pullrequestreview-5073806282) - 2026-09-01
 ## Q2 2026
 
 

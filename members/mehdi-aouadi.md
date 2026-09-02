@@ -106,6 +106,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [enforce ILs transactions size in Fork Choice](https://github.com/Consensys/teku/pull/11206) - 2026-08-31
 * [Review] [Review on: add max signed IL size param](https://github.com/Consensys/teku/pull/11200#pullrequestreview-5064920396) - 2026-08-31
 * [Pull Request] [Fix GossipTestContext for FOCIL](https://github.com/Consensys/teku/pull/11205) - 2026-08-31
+* [Pull Request] [merge master into focil](https://github.com/Consensys-Incorporated/teku/pull/11213) - 2026-09-01
+* [Pull Request] [preserve inclusion list payload attributes during block production](https://github.com/Consensys-Incorporated/teku/pull/11211) - 2026-09-01
+* [Issue] [Preserve inclusion list payload attributes during block production](https://github.com/Consensys-Incorporated/teku/issues/11210) - 2026-09-01
 ## Q2 2026
 
 

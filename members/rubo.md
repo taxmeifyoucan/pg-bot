@@ -76,6 +76,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: build(zisk): bump zisk toolchain image and ZiskOS runtime](https://github.com/NethermindEth/nethermind/pull/13002#pullrequestreview-5039745556) - 2026-08-27
 * [Pull Request] [chore(ci): enable stateless tests for glamsterdam devnet-8](https://github.com/NethermindEth/nethermind/pull/13015) - 2026-08-27
 * [Commit] [chore(ci): enable stateless tests for glamsterdam devnet-8 (#13015)](https://github.com/NethermindEth/nethermind/commit/a7885a322bb7be346a142bfd3e1449b38172d811) - 2026-08-27
+* [Review] [Review on: perf(zkevm): cut guest hot paths — keccak wrapper, trie buffers, branch RLP](https://github.com/NethermindEth/nethermind/pull/13084#pullrequestreview-5082905346) - 2026-09-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03

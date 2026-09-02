@@ -64,6 +64,9 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Pull Request] [updated boringssl](https://github.com/besu-eth/besu-native/pull/318) - 2026-07-20
 * [Review] [Review on: Bump gnark to resolve CVEs](https://github.com/besu-eth/besu-native/pull/317#pullrequestreview-4736019336) - 2026-07-20
 * [Commit] [updated boringssl (#318)](https://github.com/besu-eth/besu-native/commit/5af3d18c182691b10aae3a772c55e409433bd30b) - 2026-07-20
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Increase `MAX_SIGNED_INCLUSION_LIST_SIZE` to the worst-case size](https://github.com/ethereum/consensus-specs/pull/5576#pullrequestreview-5078554915) - 2026-09-01
 ## Q2 2026
 
 

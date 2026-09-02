@@ -90,6 +90,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukus
 * [Commit] [refactor some setup routine on gossip test executor and add some imporvements to gossip validator help (#11175)](https://github.com/Consensys/teku/commit/f5e1ba7181d61b3d417bd034dac37e049d2cafbc) - 2026-08-27
 * [Review] [Review on: Replace modulo test sharding with timing-based shard planning](https://github.com/Consensys/teku/pull/11204#pullrequestreview-5073337721) - 2026-09-01
 * [Pull Request] [Remove shuffling stable from fulu onwards](https://github.com/Consensys/teku/pull/11203) - 2026-08-31
+* [Pull Request] [update ephemery references to the "standardized format"](https://github.com/Consensys-Incorporated/teku/pull/11216) - 2026-09-02
+* [Review] [Review on: Rename test-suite caller job keys to avoid colliding with check names](https://github.com/Consensys-Incorporated/teku/pull/11208#pullrequestreview-5073853789) - 2026-09-01
 ## Q2 2026
 
 

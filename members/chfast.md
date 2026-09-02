@@ -234,6 +234,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Cover what a fixture file's broken cases do to it (#1688)](https://github.com/ipsilon/evmone/commit/001414dc59c2fcee1f327481d5589f1244b607de) - 2026-08-31
 * [Commit] [test: Fail a test run which verified nothing (#1687)](https://github.com/ipsilon/evmone/commit/6a177635fb0b4210eacda649f3003df99ae4e7c4) - 2026-08-31
 * [Commit] [test: Build one fixture test from its JSON value (#1686)](https://github.com/ipsilon/evmone/commit/88fbf4488163e467e8a7e31464fbbf59b93b0d32) - 2026-08-31
+* [Pull Request] [tooling: Run one command per invocation](https://github.com/ipsilon/evmone/pull/1691) - 2026-09-01
+* [Pull Request] [test: Run one blockchain test at a time](https://github.com/ipsilon/evmone/pull/1690) - 2026-09-01
+* [Commit] [tooling: Run one command per invocation (#1691)](https://github.com/ipsilon/evmone/commit/c2447d078e3acd6e4a59e8ee09b9d3dcf684919b) - 2026-09-01
+* [Commit] [test: Run one blockchain test at a time (#1690)](https://github.com/ipsilon/evmone/commit/c79507667690f391fd6ee42af62dd674b46adfb3) - 2026-09-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -293,6 +297,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [feat(tests): EIP-7928 - storage reads of a recreated destroyed account](https://github.com/ethereum/execution-specs/pull/3475) - 2026-08-31
 * [Commit] [feat(tests): EIP-7928 - storage reads of a recreated destroyed account (#3475)](https://github.com/ethereum/execution-specs/commit/c7691a64b4ebdde033f1e27fe2932e71f6a22eb2) - 2026-08-31
 * [Commit] [test(tests): ECRECOVER - cover R == -G with u1 < u2 and u1 == u2 (#3459)](https://github.com/ethereum/execution-specs/commit/aee3eb2b02e49adf3c52b77c415907006e3d8a34) - 2026-08-31
+* [Commit] [feat(tests): add type-0 transaction RLP validity tests (#3156)](https://github.com/ethereum/execution-specs/commit/2909015e4275d047cebfc119653c0e123c8689cd) - 2026-09-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
@@ -313,6 +318,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [EIP-7928: different block_access_list_hash than other clients, valid block rejected](https://github.com/erigontech/erigon/issues/23407) - 2026-08-19
 
 * [Issue] [EIP-7928: BAL omits a touched RIPEMD-160 (0x03), valid block rejected](https://github.com/erigontech/erigon/issues/23670) - 2026-08-29
+* [Pull Request] [execution/vm: return state-gas to gas_left when a child merges](https://github.com/erigontech/erigon/pull/23718) - 2026-09-01
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [tests: validateHeader compares baseFeePerGas with reflect.DeepEqual, so a zero base fee always fails](https://github.com/ethereum/go-ethereum/issues/35555) - 2026-08-19
 

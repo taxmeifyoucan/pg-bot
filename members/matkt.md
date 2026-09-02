@@ -103,6 +103,8 @@ Github: [@matkt](https://github.com/matkt)
 * [Issue] [snap/2 - Increase Test Coverage for Full Implementation Testing](https://github.com/besu-eth/besu/issues/11198) - 2026-08-31
 * [Issue] [snap/2 - Stress Test with Local Besu/Besu and Besu/Geth Devnets](https://github.com/besu-eth/besu/issues/11197) - 2026-08-31
 * [Issue] [snap/2 - Participate in Next Test Devnet](https://github.com/besu-eth/besu/issues/11196) - 2026-08-31
+* [Pull Request] [Revert "return INVALID for undecodable blockAccessList (#11177)"](https://github.com/besu-eth/besu/pull/11219) - 2026-09-01
+* [Commit] [Revert return INVALID for undecodable blockAccessList (#11219)](https://github.com/besu-eth/besu/commit/c34b0a908abf34f5342a317b1e37a8775b646772) - 2026-09-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

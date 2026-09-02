@@ -1197,6 +1197,38 @@ Team: Erigon
 * [Review] [Review on: rpc: apply eth_estimateGas state overrides to pre-execution checks](https://github.com/erigontech/erigon/pull/23655#pullrequestreview-5065300469) - 2026-08-31
 * [Review] [Review on: build, db, execution, cl, p2p, rpc, txnprovider: enable staticcheck (SA + S1) and fix what it found](https://github.com/erigontech/erigon/pull/23652#pullrequestreview-5065258718) - 2026-08-31
 * [Pull Request] [db/downloader: close the file VerifyFileFailFast opens](https://github.com/erigontech/erigon/pull/23678) - 2026-08-31
+* [Pull Request] [exec: rewrite the fee credit in place](https://github.com/erigontech/erigon/pull/23703) - 2026-09-01
+* [Review] [Review on: exec: rewrite the fee credit in place](https://github.com/erigontech/erigon/pull/23703#pullrequestreview-5084938171) - 2026-09-02
+* [Pull Request] [cache: remove CodeStore's cache](https://github.com/erigontech/erigon/pull/23701) - 2026-09-01
+* [Pull Request] [execution/cache: bound the code LRU by measured bytes, not an average estimate](https://github.com/erigontech/erigon/pull/23713) - 2026-09-01
+* [Review] [Review on: execution/commitment: fill the account fields a partial update leaves out instead of zeroing them](https://github.com/erigontech/erigon/pull/23709#pullrequestreview-5084896052) - 2026-09-02
+* [Review] [Review on: agents: add guidance to separate benches from tests](https://github.com/erigontech/erigon/pull/23710#pullrequestreview-5078350605) - 2026-09-01
+* [Review] [Review on: execution/execfinality: do not gate collation on the MaxTxNum floor](https://github.com/erigontech/erigon/pull/23704#pullrequestreview-5076703245) - 2026-09-01
+* [Review] [Review on: go.mod: up deps before 3.7 release](https://github.com/erigontech/erigon/pull/23661#pullrequestreview-5073939544) - 2026-09-01
+* [Review] [Review on: rpc/jsonrpc, db/snapshotsync: seven review follow-ups from #23322](https://github.com/erigontech/erigon/pull/23690#pullrequestreview-5078341891) - 2026-09-01
+* [Review] [Review on: `erigon db compact`: tool to compact all mdbx's in datadir](https://github.com/erigontech/erigon/pull/23677#pullrequestreview-5074526105) - 2026-09-01
+* [Pull Request] [exec: scope the stale fee-write drop to the fee addresses](https://github.com/erigontech/erigon/pull/23698) - 2026-09-01
+* [Review] [Review on: PORTING OF PRs #23359, #23587, #23593, #23595, #23625 to main](https://github.com/erigontech/erigon/pull/23676#pullrequestreview-5073968799) - 2026-09-01
+* [Review] [Review on: agents: add guidelines on small, well scoped PR and stacked PRs](https://github.com/erigontech/erigon/pull/23715#pullrequestreview-5078729749) - 2026-09-01
+* [Review] [Review on: agents: add code review guidance to not bloat scope](https://github.com/erigontech/erigon/pull/23714#pullrequestreview-5078727360) - 2026-09-01
+* [Review] [Review on: node: serve zstd when the client asks for it](https://github.com/erigontech/erigon/pull/23482#pullrequestreview-5073936507) - 2026-09-01
+* [Pull Request] [common/log: remove the unused vendored term package](https://github.com/erigontech/erigon/pull/23702) - 2026-09-01
+* [Review] [Review on: agents: clarify tdd usefulness so it is not overused](https://github.com/erigontech/erigon/pull/23711#pullrequestreview-5078276836) - 2026-09-01
+* [Pull Request] [common, execution, rpc: drop five wrappers over stdlib and existing deps](https://github.com/erigontech/erigon/pull/23699) - 2026-09-01
+* [Review] [Review on: db/downloader: a kept local snapshot cannot upload](https://github.com/erigontech/erigon/pull/23653#pullrequestreview-5073938200) - 2026-09-01
+* [Review] [Review on: qa-tests: add exec from zero test](https://github.com/erigontech/erigon/pull/23687#pullrequestreview-5074028486) - 2026-09-01
+* [Review] [Review on: PORTING OF PR #22919 to main](https://github.com/erigontech/erigon/pull/23675#pullrequestreview-5073971276) - 2026-09-01
+* [Review] [Review on: cache: don't copy when moving values from `kv.TemporalMemBatch` to `lru`](https://github.com/erigontech/erigon/pull/23664#pullrequestreview-5074506721) - 2026-09-01
+* [Review] [Review on: db/downloader: bound kept-snapshot seeding and rebuild malformed metainfo](https://github.com/erigontech/erigon/pull/23459#pullrequestreview-5073934633) - 2026-09-01
+* [Pull Request] [ci: pin the glamsterdam-devnet eels simulator to its fixtures tag](https://github.com/erigontech/erigon/pull/23705) - 2026-09-01
+* [Pull Request] [execution/state: thread the resolved AddressEntry through ValidateVersion](https://github.com/erigontech/erigon/pull/23697) - 2026-09-01
+* [Commit] [`erigon db compact`: tool to compact all mdbx's in datadir (#23677)](https://github.com/erigontech/erigon/commit/8f908fba3846122b84d8d9abaa07043386f6449a) - 2026-09-01
+* [Commit] [exec: scope the stale fee-write drop to the fee addresses (#23698)](https://github.com/erigontech/erigon/commit/9067e4a24b7c112c4d12b4c71b1b4db15861e7d2) - 2026-09-01
+* [Commit] [node: serve zstd when the client asks for it (#23482)](https://github.com/erigontech/erigon/commit/19730795e93aa56f833e2e0c359fd8ec517d8b9b) - 2026-09-01
+* [Commit] [common/log: remove the unused vendored term package (#23702)](https://github.com/erigontech/erigon/commit/95ca5e47cf47b10e3b2bddbb9474f01f824f9733) - 2026-09-01
+* [Commit] [common, execution, rpc: drop five wrappers over stdlib and existing deps (#23699)](https://github.com/erigontech/erigon/commit/c7513d35f1514e5f01abd23839613de4958e324d) - 2026-09-01
+* [Commit] [db/downloader: a kept local snapshot cannot upload (#23653)](https://github.com/erigontech/erigon/commit/6a4fc61618e56e46f6495d2278e89486d0e00441) - 2026-09-01
+* [Commit] [ci: pin the glamsterdam-devnet eels simulator to its fixtures tag (#23705)](https://github.com/erigontech/erigon/commit/82dffe829f5b377ffce97b677045e078d712e457) - 2026-09-01
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

@@ -92,6 +92,9 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Pack Electra attestations by marginal proposer reward](https://github.com/OffchainLabs/prysm/pull/17416#pullrequestreview-5058072372) - 2026-08-29
 * [Commit] [Don't wait on gossip sidecars for a slot that has already passed (#17429)](https://github.com/OffchainLabs/prysm/commit/57403b05dc449cae5a66b450c3588a90b04b7f44) - 2026-08-30
 * [Pull Request] [Cap self-built payload envelopes at one per valid proposer per slot](https://github.com/OffchainLabs/prysm/pull/17433) - 2026-08-31
+* [Review] [Review on: Use head state for next-epoch attestation target states](https://github.com/OffchainLabs/prysm/pull/17441#pullrequestreview-5082267848) - 2026-09-01
+* [Pull Request] [Pre-warm pending deposit signatures before the Gloas fork](https://github.com/OffchainLabs/prysm/pull/17440) - 2026-09-01
+* [Review] [Review on: Pre-warm pending deposit signatures before the Gloas fork](https://github.com/OffchainLabs/prysm/pull/17440#pullrequestreview-5081940635) - 2026-09-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

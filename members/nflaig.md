@@ -424,6 +424,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: builder log levels and value formatting (#9948)](https://github.com/ChainSafe/lodestar/commit/5ab071e6e2b063a17b5f46210a979f14f7ded90c) - 2026-08-31
 * [Commit] [chore: stop registering validators with external builders post-gloas (#9950)](https://github.com/ChainSafe/lodestar/commit/92b9ec6e8bb85e747a9dcd3685be683c98936e3f) - 2026-08-31
 * [Commit] [feat: reorg weak head when the proposer equivocated (#9929)](https://github.com/ChainSafe/lodestar/commit/59d71c272a63f541f6a12b06b5f4bd4271163caf) - 2026-08-31
+* [Pull Request] [chore: rank and identify builder bid candidates in log](https://github.com/ChainSafe/lodestar/pull/9966) - 2026-09-01
+* [Review] [Review on: chore: rank and identify builder bid candidates in log](https://github.com/ChainSafe/lodestar/pull/9966#pullrequestreview-5082184070) - 2026-09-01
+* [Pull Request] [fix: keep event stream alive if an event can not be processed](https://github.com/ChainSafe/lodestar/pull/9964) - 2026-09-01
+* [Review] [Review on: fix: ignore bids from builders exiting in the parent payload](https://github.com/ChainSafe/lodestar/pull/9954#pullrequestreview-5077745959) - 2026-09-01
+* [Review] [Review on: fix: only track ACCEPT message job time](https://github.com/ChainSafe/lodestar/pull/9961#pullrequestreview-5076166608) - 2026-09-01
+* [Review] [Review on: fix: avoid epoch transition when validating gossip block](https://github.com/ChainSafe/lodestar/pull/9959#pullrequestreview-5075873357) - 2026-09-01
+* [Commit] [fix: ignore bids from builders exiting in the parent payload (#9954)](https://github.com/ChainSafe/lodestar/commit/9ba9a5ce851f7f32f43bdf52b9bf9dd052110a5b) - 2026-09-01
+* [Commit] [fix: pre-establish builder connections before requesting bids (#9947)](https://github.com/ChainSafe/lodestar/commit/f0f26cd2b640bc43f038f1835620ecd886070350) - 2026-09-01
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -473,6 +481,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991156148) - 2026-08-21
 * [Review] [Review on: Load gossip validation state from the store](https://github.com/ethereum/consensus-specs/pull/5563#pullrequestreview-5052317139) - 2026-08-28
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066970375) - 2026-08-31
+* [Pull Request] [Hex-encode only literal `ProgressiveList[Byte]` in reference tests](https://github.com/ethereum/consensus-specs/pull/5587) - 2026-09-01
+* [Commit] [Hex-encode only literal `ProgressiveList[Byte]` in reference tests (#5587)](https://github.com/ethereum/consensus-specs/commit/4813cf1f6dc9f4accf6ea43a731f4b4030388518) - 2026-09-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
@@ -510,6 +520,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 * [Review] [Review on: chore: prepare 1.0.0 release](https://github.com/ChainSafe/lodestar-z/pull/576#pullrequestreview-4975874039) - 2026-08-19
 * [Review] [Review on: chore(docs): add AI_POLICY](https://github.com/ChainSafe/lodestar-z/pull/590#pullrequestreview-5005836566) - 2026-08-24
+* [Review] [Review on: fix: reject withdrawal count mismatches](https://github.com/ChainSafe/lodestar-z/pull/619#pullrequestreview-5075712838) - 2026-09-01
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Return 404 for unknown keymanager validator keys](https://github.com/Consensys/teku/pull/11133) - 2026-08-18
 * [Commit] [Return 404 for unknown keymanager validator keys (#11133)](https://github.com/Consensys/teku/commit/93b41c1833441603b8272ddfec7a7fd7100508a5) - 2026-08-18

@@ -53,6 +53,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [ci: external contributor workflow error](https://github.com/ChainSafe/lodestar/pull/9905) - 2026-08-24
 * [Commit] [ci: external contributor workflow error (#9905)](https://github.com/ChainSafe/lodestar/commit/aa6eaee53a13d0664e51704a1664344adff84c62) - 2026-08-24
 * [Pull Request] [chore: v1.47.0 release](https://github.com/ChainSafe/lodestar/pull/9934) - 2026-08-27
+* [Review] [Review on: fix: ignore bids from builders exiting in the parent payload](https://github.com/ChainSafe/lodestar/pull/9954#pullrequestreview-5077886350) - 2026-09-01
+* [Review] [Review on: fix: pre-establish builder connections before requesting bids](https://github.com/ChainSafe/lodestar/pull/9947#pullrequestreview-5077817150) - 2026-09-01
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

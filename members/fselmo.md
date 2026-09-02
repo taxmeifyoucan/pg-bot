@@ -16,6 +16,14 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(tooling): forbid Claude session links in commits and PRs](https://github.com/ethereum/execution-specs/pull/3481#pullrequestreview-5068835898) - 2026-08-31
 * [Review] [Review on: feat(tests): EIP-7928 - storage reads of a recreated destroyed account](https://github.com/ethereum/execution-specs/pull/3475#pullrequestreview-5068614668) - 2026-08-31
 * [Commit] [feat(tests): EIP-7928 max nonce boundary check for BAL; update refspec (#3482)](https://github.com/ethereum/execution-specs/commit/6eb68ed3e611a25c8d96292ec61e0aee37f894b4) - 2026-08-31
+
+* [Pull Request] [feat(tests): Add more tests for early validation invariant check](https://github.com/ethereum/execution-specs/pull/3484) - 2026-09-01
+* [Review] [Review on: feat(tests): Add more tests for early validation invariant check](https://github.com/ethereum/execution-specs/pull/3484#pullrequestreview-5083457841) - 2026-09-01
+* [Review] [Review on: feat(tests): pin cross-frame state gas refund placement and settlement](https://github.com/ethereum/execution-specs/pull/3490#pullrequestreview-5081410560) - 2026-09-01
+* [Pull Request] [chore(tests): clean up EIP-7928 spec.py ``Spec`` class](https://github.com/ethereum/execution-specs/pull/3496) - 2026-09-01
+* [Commit] [chore(tests): clean up EIP-7928 spec.py ``Spec`` class (#3496)](https://github.com/ethereum/execution-specs/commit/ef914fe55dd252b60a718fec013ae2a6ee15054e) - 2026-09-01
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 ## Q2 2026
 
 

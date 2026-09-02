@@ -240,6 +240,23 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: ibftlegacy: nullable and guard proposer address recovery](https://github.com/besu-eth/besu/pull/10643#pullrequestreview-5062925345) - 2026-08-31
 * [Review] [Review on: Enable NullAway for metrics RocksDB](https://github.com/besu-eth/besu/pull/10934#pullrequestreview-5062870073) - 2026-08-31
 * [Commit] [fix: log peer identity on PeerTaskExecutor timeout (#11155)](https://github.com/besu-eth/besu/commit/993b0eb87bc05adf5bc490eb4eb9a999ceb7a96c) - 2026-08-31
+* [Pull Request] [plugin baseline for 26.8.1](https://github.com/besu-eth/besu/pull/11212) - 2026-09-01
+* [Review] [Review on: plugin baseline for 26.8.1](https://github.com/besu-eth/besu/pull/11212#pullrequestreview-5083459052) - 2026-09-01
+* [Pull Request] [Reconciliation from 26.8.1](https://github.com/besu-eth/besu/pull/11214) - 2026-09-01
+* [Pull Request] [changelog for 26.8.1](https://github.com/besu-eth/besu/pull/11209) - 2026-09-01
+* [Review] [Review on: changelog for 26.8.1](https://github.com/besu-eth/besu/pull/11209#pullrequestreview-5073835947) - 2026-09-01
+* [Pull Request] [Reconciliation from 26.8.1](https://github.com/besu-eth/besu/pull/11213) - 2026-09-01
+* [Review] [Review on: Reconciliation from 26.8.1](https://github.com/besu-eth/besu/pull/11213#pullrequestreview-5074865675) - 2026-09-01
+* [Commit] [plugin baseline for 26.8.1 (#11212)](https://github.com/besu-eth/besu/commit/8ad51700d394f4c0d66f63404504ff3da1781cee) - 2026-09-01
+* [Commit] [changelog for 26.8.1 (#11209)](https://github.com/besu-eth/besu/commit/e1e74b20ca15091499ffa702bc433b67c110f656) - 2026-09-01
+* [Commit] [Merge pull request #11214 from macfarla/release-26.8.1](https://github.com/besu-eth/besu/commit/21f794ca848b7cfa1a8efab709a29e07e96ce264) - 2026-09-01
+* [Commit] [Merge branch 'main' into release-26.8.1](https://github.com/besu-eth/besu/commit/ec855a076948c74557cd3b124eb2379c83b8ff0e) - 2026-09-01
+* [Commit] [fix(auth): reject HMAC algorithm when public key file is supplied (#116)](https://github.com/besu-eth/besu/commit/cfb976dfedf682143635ef7d99e28b497406e4e8) - 2026-09-01
+* [Commit] [fix(validation): use unsigned comparison for EIP-7825 transaction gas limit cap (#117)](https://github.com/besu-eth/besu/commit/54125c4805864aaa0c38045f1d2f6c9f9efdf298) - 2026-09-01
+* [Commit] [Fixes: GHSA-f429-4669-7rpx fix(auth): fail when ephemeral Engine API JWT key cannot be persisted (#115)](https://github.com/besu-eth/besu/commit/90028d364996c5807ad69e8a4f1af43039114f7e) - 2026-09-01
+* [Commit] [fix(graphql): cap logs(filter) block range to prevent unauthenticated DoS (#114)](https://github.com/besu-eth/besu/commit/09c990476deb19163d2b21181d85e55e0a799996) - 2026-09-01
+* [Commit] [Fixes: GHSA-p6f8-q9mp-7mj9 Cap log filter addresses and apply bloom pre-filter on block import (#104)](https://github.com/besu-eth/besu/commit/dc62887182c51d186df2dca031618e8b1a460331) - 2026-09-01
+* [Commit] [Fixes: GHSA-p4h2-gvh4-pv6j reject non-empty withdrawals in BFT NotApplicableWithdrawals validator (#120)](https://github.com/besu-eth/besu/commit/ffe8104ee2c381cfe21901f70e77eca61ff9fcd3) - 2026-09-01
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

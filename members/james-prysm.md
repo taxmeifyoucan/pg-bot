@@ -197,6 +197,14 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Implement key sets for Web3Signer public keys](https://github.com/OffchainLabs/prysm/pull/17326#pullrequestreview-5069692554) - 2026-08-31
 * [Review] [Review on: Rename gloas builder request auth types](https://github.com/OffchainLabs/prysm/pull/17432#pullrequestreview-5067725371) - 2026-08-31
 * [Commit] [hooking up validator client to builder apis for gloas  (#17397)](https://github.com/OffchainLabs/prysm/commit/84c111db45441ad9488419a4b623ccaec5b6338a) - 2026-08-31
+* [Review] [Review on: Initialize the keymanager once per validator runner](https://github.com/OffchainLabs/prysm/pull/17435#pullrequestreview-5079268357) - 2026-09-01
+* [Review] [Review on: Pre-warm pending deposit signatures before the Gloas fork](https://github.com/OffchainLabs/prysm/pull/17440#pullrequestreview-5083407733) - 2026-09-01
+* [Pull Request] [adding lock to fix data race between file and api](https://github.com/OffchainLabs/prysm/pull/17439) - 2026-09-01
+* [Pull Request] [poc](https://github.com/OffchainLabs/prysm/pull/17436) - 2026-09-01
+* [Review] [Review on: slashing protection up to date for keys added mid run](https://github.com/OffchainLabs/prysm/pull/17411#pullrequestreview-5080383627) - 2026-09-01
+* [Review] [Review on: Bump consensus spec to v1.7.0-alpha.13](https://github.com/OffchainLabs/prysm/pull/17382#pullrequestreview-5079700902) - 2026-09-01
+* [Review] [Review on: Pack Electra attestations by marginal proposer reward](https://github.com/OffchainLabs/prysm/pull/17416#pullrequestreview-5073457322) - 2026-09-01
+* [Commit] [adding lock to fix data race between file and api (#17439)](https://github.com/OffchainLabs/prysm/commit/402fdb1b25270037fd9ab8547841a3564770c430) - 2026-09-01
 ## Q2 2026
 
 

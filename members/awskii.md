@@ -411,6 +411,15 @@ Team: Erigon
 * [Review] [Review on: db/downloader: bound kept-snapshot seeding and rebuild malformed metainfo](https://github.com/erigontech/erigon/pull/23459#pullrequestreview-5073231182) - 2026-09-01
 * [Review] [Review on: node: serve zstd when the client asks for it](https://github.com/erigontech/erigon/pull/23482#pullrequestreview-5073229911) - 2026-09-01
 * [Review] [Review on: execution/commitment: derive the account hashed key only when it is used](https://github.com/erigontech/erigon/pull/23654#pullrequestreview-5072977904) - 2026-09-01
+* [Pull Request] [execution/commitment: fill the account fields a partial update leaves out instead of zeroing them](https://github.com/erigontech/erigon/pull/23709) - 2026-09-01
+* [Review] [Review on: execution/commitment: persist zero-update commitment progress](https://github.com/erigontech/erigon/pull/23719#pullrequestreview-5084889127) - 2026-09-02
+* [Pull Request] [execution/execfinality: do not gate collation on the MaxTxNum floor](https://github.com/erigontech/erigon/pull/23704) - 2026-09-01
+* [Pull Request] [execution/commitment: verify branch-cache prefix on Get](https://github.com/erigontech/erigon/pull/23721) - 2026-09-02
+* [Pull Request] [commitment: parallel fold workers read the caller's snapshot](https://github.com/erigontech/erigon/pull/23722) - 2026-09-02
+* [Review] [Review on: db/snapshotsync: block reads require a tx-pinned block-files view](https://github.com/erigontech/erigon/pull/23208#pullrequestreview-5074490699) - 2026-09-01
+* [Review] [Review on: `erigon db compact`: tool to compact all mdbx's in datadir](https://github.com/erigontech/erigon/pull/23677#pullrequestreview-5074482304) - 2026-09-01
+* [Review] [Review on: exec: scope the stale fee-write drop to the fee addresses](https://github.com/erigontech/erigon/pull/23698#pullrequestreview-5074844202) - 2026-09-01
+* [Review] [Review on: cache: don't copy when moving values from `kv.TemporalMemBatch` to `lru`](https://github.com/erigontech/erigon/pull/23664#pullrequestreview-5074441706) - 2026-09-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

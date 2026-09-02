@@ -29,6 +29,7 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Commit] [Add Ethrex client to mainnet plan](https://github.com/ethereum/pm/commit/94dc4c09414b5d36dd68529d471c409caa3da073) - 2026-08-24
 * [Commit] [Merge pull request #2200 from ethereum/nixorokish-patch-7](https://github.com/ethereum/pm/commit/6e10d03e699d147f1c04277c83fd8e91eb654be1) - 2026-08-24
 * [Commit] [add glamsterdam mainnet incident doc](https://github.com/ethereum/pm/commit/8ab15505f81f18a32c85acdf02c89c39e572a981) - 2026-08-24
+* [Issue] [All Core Devs - Execution (ACDE) #245, September 10, 2026](https://github.com/ethereum/pm/issues/2211) - 2026-09-01
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8081: PFI EIP-7862](https://github.com/ethereum/EIPs/pull/11934) - 2026-07-16
 * [Review] [Review on: Update EIP-8081: Add EIP-8304 as PFI](https://github.com/ethereum/EIPs/pull/11933#pullrequestreview-4710414761) - 2026-07-16
@@ -78,6 +79,8 @@ Github: [@nixorokish](https://github.com/nixorokish)
 * [Review] [Review on: Update EIP-7773: Move to Review](https://github.com/ethereum/EIPs/pull/11855#pullrequestreview-5045095467) - 2026-08-27
 * [Pull Request] [Update EIP-8081: SFI EIP-8141](https://github.com/ethereum/EIPs/pull/12251) - 2026-08-27
 * [Commit] [Update EIP-8081: SFI EIP-8141](https://github.com/ethereum/EIPs/commit/e400af2874d6728bfd369f1851c24f250c8825f7) - 2026-08-27
+* [Pull Request] [Update EIP-8081: Add new EIPs to the list in eip-8081.md](https://github.com/ethereum/EIPs/pull/12278) - 2026-09-02
+* [Commit] [Update EIP-8081: Add new EIPs to the list in eip-8081.md](https://github.com/ethereum/EIPs/commit/84cc044fe46b063d4efcbd81d229e03312f726cc) - 2026-09-02
 ## Q2 2026
 
 

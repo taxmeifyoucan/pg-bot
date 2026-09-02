@@ -66,6 +66,8 @@ Team: Reth
 * [Review] [Review on: refactor(rpc): remove state provider wrapper](https://github.com/paradigmxyz/reth/pull/26837#pullrequestreview-5040101564) - 2026-08-27
 * [Review] [Review on: refactor(rpc): remove dead header cache](https://github.com/paradigmxyz/reth/pull/26836#pullrequestreview-5040045054) - 2026-08-27
 * [Review] [Review on: chore(docker): configure nightly persistence thresholds](https://github.com/paradigmxyz/reth/pull/26888#pullrequestreview-5065345886) - 2026-08-31
+* [Review] [Review on: feat(rpc): make V2 multiproofs the default](https://github.com/paradigmxyz/reth/pull/26851#pullrequestreview-5077446726) - 2026-09-01
+* [Review] [Review on: fix(engine): return invalid for undecodable block access lists](https://github.com/paradigmxyz/reth/pull/26889#pullrequestreview-5075973694) - 2026-09-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

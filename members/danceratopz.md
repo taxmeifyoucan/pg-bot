@@ -152,6 +152,13 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [feat(test-cli): add JSON output and optimization analysis to `groupstats` (#3308)](https://github.com/ethereum/execution-specs/commit/3e59e29e41589bc3c2d6a0276fcc445531550a6b) - 2026-08-31
 * [Commit] [fix(doc): remove broken GitPOAP badge (#3474)](https://github.com/ethereum/execution-specs/commit/41e599935247b5312b818e603703c98dce3534db) - 2026-08-31
 * [Commit] [chore(deps): bump ethereum-hive to v0.1.0 (#3472)](https://github.com/ethereum/execution-specs/commit/2ae4255ac5c59957653e154cd6e7e12182cb9013) - 2026-08-31
+* [Pull Request] [feat(spec-tests): validate transaction test fixtures against EELS](https://github.com/ethereum/execution-specs/pull/3494) - 2026-09-01
+* [Pull Request] [feat(test-fixtures): resolve implicit transaction test gas limits](https://github.com/ethereum/execution-specs/pull/3493) - 2026-09-01
+* [Pull Request] [feat(spec-specs): expose state-independent transaction validation](https://github.com/ethereum/execution-specs/pull/3492) - 2026-09-01
+* [Review] [Review on: feat(tests): add type-0 transaction RLP validity tests](https://github.com/ethereum/execution-specs/pull/3156#pullrequestreview-5079861219) - 2026-09-01
+* [Pull Request] [fix(test-specs): calculate transaction fixture gas from context](https://github.com/ethereum/execution-specs/pull/3491) - 2026-09-01
+* [Issue] [Resolve implicit gas limits in transaction tests](https://github.com/ethereum/execution-specs/issues/3489) - 2026-09-01
+* [Commit] [fix(test-specs): calculate transaction fixture gas from context (#3491)](https://github.com/ethereum/execution-specs/commit/459872749ad4a7449fa0fc7c366b771d9e8c2740) - 2026-09-01
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

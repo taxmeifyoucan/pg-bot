@@ -14,6 +14,8 @@ Team: EF Protocol Prototyping [raxhvl/pglanding-raxhvl](https://github.com/raxhv
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7928: Move to Review](https://github.com/ethereum/EIPs/pull/11875#pullrequestreview-4646199390) - 2026-07-07
 * [Pull Request] [Update EIP-8141: Move mode section under Frame definition](https://github.com/ethereum/EIPs/pull/12236) - 2026-08-24
+* [Pull Request] [Update EIP-8141: Remove a redundant check for frame's state gas limit](https://github.com/ethereum/EIPs/pull/12276) - 2026-09-01
+* [Commit] [Update EIP-8141: Remove a redundant check for frame's state gas limit](https://github.com/ethereum/EIPs/commit/b75cbe61150f09a44c38843be916417283d5b7bf) - 2026-09-01
 ## Q2 2026
 
 

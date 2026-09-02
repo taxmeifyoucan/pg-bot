@@ -51,6 +51,8 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Pull Request] [fix: don't log expected shutdown cancellation/teardown as error/warning](https://github.com/NethermindEth/nethermind/pull/13046) - 2026-08-30
 * [Pull Request] [fix(portfolio): scan available window before the retained-receipts floor](https://github.com/NethermindEth/nethermind/pull/13052) - 2026-08-31
 * [Issue] [PortfolioViewer: first token/NFT detection scan returns empty (complete:true) on a snap-synced node](https://github.com/NethermindEth/nethermind/issues/13051) - 2026-08-31
+* [Pull Request] [Update release/2.0.0-rc with #13036, #13038, #13046](https://github.com/NethermindEth/nethermind/pull/13081) - 2026-09-01
+* [Commit] [fix: don't log expected shutdown cancellation/teardown as error/warning (#13046)](https://github.com/NethermindEth/nethermind/commit/80ce6a4da2b24ccd4fc3429e40274104982b7d2f) - 2026-09-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

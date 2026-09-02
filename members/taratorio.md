@@ -309,6 +309,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: set devnet spec tests max failures to 0 (#23688)](https://github.com/erigontech/erigon/commit/5d7cd18d15a9ec1f25fe3fe1a9099d96ad76fb2e) - 2026-08-31
 * [Commit] [ci: update eest devnet fixtures to v8.1.2 (#23681)](https://github.com/erigontech/erigon/commit/fe6121110a456f77233f74b0ba530d77c98b1137) - 2026-08-31
 * [Commit] [[gd8] execution: EIP-8038 access list cost cold minus warm (#22926)](https://github.com/erigontech/erigon/commit/02d28d22c0bfee8325ebc9deb7fcc506cf9d36a0) - 2026-08-31
+* [Pull Request] [agents: add guidance to separate benches from tests](https://github.com/erigontech/erigon/pull/23710) - 2026-09-01
+* [Pull Request] [agents: add guidelines on small, well scoped PR and stacked PRs](https://github.com/erigontech/erigon/pull/23715) - 2026-09-01
+* [Pull Request] [ci: update hive to latest commit on ethereum/hive repo](https://github.com/erigontech/erigon/pull/23707) - 2026-09-01
+* [Pull Request] [wip post eip-7610 removal legacy tests fixes ](https://github.com/erigontech/erigon/pull/23716) - 2026-09-01
+* [Pull Request] [agents: add code review guidance to not bloat scope](https://github.com/erigontech/erigon/pull/23714) - 2026-09-01
+* [Review] [Review on: common/log: remove the unused vendored term package](https://github.com/erigontech/erigon/pull/23702#pullrequestreview-5076464168) - 2026-09-01
+* [Pull Request] [execution: remove EIP-7610](https://github.com/erigontech/erigon/pull/23706) - 2026-09-01
+* [Pull Request] [agents: clarify tdd usefulness so it is not overused](https://github.com/erigontech/erigon/pull/23711) - 2026-09-01
+* [Review] [Review on: common, execution, rpc: drop five wrappers over stdlib and existing deps](https://github.com/erigontech/erigon/pull/23699#pullrequestreview-5076489953) - 2026-09-01
+* [Review] [Review on: execution/commitment: let trie warmup borrow branch bytes instead of copying them](https://github.com/erigontech/erigon/pull/23585#pullrequestreview-5078247577) - 2026-09-01
+* [Review] [Review on: ci: pin the glamsterdam-devnet eels simulator to its fixtures tag](https://github.com/erigontech/erigon/pull/23705#pullrequestreview-5076845017) - 2026-09-01
+* [Commit] [ci: update hive to latest commit on ethereum/hive repo (#23707)](https://github.com/erigontech/erigon/commit/76e19a58827864d84919726b5cacf205ee39543f) - 2026-09-01
+* [Commit] [agents: add guidelines on small, well scoped PR and stacked PRs (#23715)](https://github.com/erigontech/erigon/commit/cf8692a98c8c7f821302a4c85f1132e3950e5672) - 2026-09-01
+* [Commit] [agents: add code review guidance to not bloat scope (#23714)](https://github.com/erigontech/erigon/commit/8e5bba9dad86bda137ed93ae89de69ade3efd20c) - 2026-09-01
+* [Commit] [agents: clarify tdd usefulness so it is not overused (#23711)](https://github.com/erigontech/erigon/commit/3df22775c37c666fc053be78b7ed72d38720591b) - 2026-09-01
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

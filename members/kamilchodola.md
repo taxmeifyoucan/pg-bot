@@ -157,6 +157,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [Fix false 'header < body' block tree corruption after ungraceful restart while beacon syncing](https://github.com/NethermindEth/nethermind/pull/12876) - 2026-08-27
 * [Commit] [Fix false 'header < body' block tree corruption after ungraceful restart while beacon syncing (#12876)](https://github.com/NethermindEth/nethermind/commit/661f08b143e5221ecde6b7de2140382f07f07419) - 2026-08-27
 * [Review] [Review on: perf(evm): prefer bytecode interpreter on ARM64](https://github.com/NethermindEth/nethermind/pull/12999#pullrequestreview-5054001312) - 2026-08-28
+* [Pull Request] [Add Plataberget archive config, chainspec bootnodes and CI support](https://github.com/NethermindEth/nethermind/pull/13073) - 2026-09-01
+* [Commit] [ci: reap stale expb overlay mounts on the arm benchmark runner (#12959)](https://github.com/NethermindEth/nethermind/commit/6134ea6f41f09172a0ed674da7c82c21df8e7968) - 2026-09-01
+* [Commit] [Add a perf profiling mode to the benchmark workflow (#12952)](https://github.com/NethermindEth/nethermind/commit/3e3927ded4da50ea8f6acdea951b8906b941cb49) - 2026-09-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

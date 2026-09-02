@@ -459,6 +459,29 @@ Team: Reth
 * [Pull Request] [chore: apply latest nightly rustfmt](https://github.com/paradigmxyz/reth/pull/26887) - 2026-08-31
 * [Commit] [fix(rpc): guard block access list replay (#26895)](https://github.com/paradigmxyz/reth/commit/3a1cc31f02060e8689f06b5247eeaac296a55aeb) - 2026-08-31
 * [Commit] [chore: apply latest nightly rustfmt (#26887)](https://github.com/paradigmxyz/reth/commit/8decdbeaeee054b7855fefe83ae9bac6a16d0146) - 2026-08-31
+* [Review] [Review on: fix(bench): suppress storage overlay OTLP logs](https://github.com/paradigmxyz/reth/pull/26908#pullrequestreview-5083656327) - 2026-09-01
+* [Pull Request] [fix(net): bound block bodies decode memory](https://github.com/paradigmxyz/reth/pull/26913) - 2026-09-01
+* [Review] [Review on: rpc: drop size from eth_getHeaderBy* responses](https://github.com/paradigmxyz/reth/pull/26912#pullrequestreview-5083601349) - 2026-09-01
+* [Pull Request] [fix(engine): flush state before backfill sync](https://github.com/paradigmxyz/reth/pull/26911) - 2026-09-01
+* [Review] [Review on: fix(engine): flush state before backfill sync](https://github.com/paradigmxyz/reth/pull/26911#pullrequestreview-5082017553) - 2026-09-01
+* [Review] [Review on: chore(deps): reapply revm 43 update](https://github.com/paradigmxyz/reth/pull/26859#pullrequestreview-5082045649) - 2026-09-01
+* [Pull Request] [fix(stages): log bad block hash](https://github.com/paradigmxyz/reth/pull/26909) - 2026-09-01
+* [Review] [Review on: fix(overlay): avoid materializing historical execution state](https://github.com/paradigmxyz/reth/pull/26907#pullrequestreview-5081311546) - 2026-09-01
+* [Review] [Review on: feat(net): add authenticated snap block access list downloader](https://github.com/paradigmxyz/reth/pull/26885#pullrequestreview-5077172659) - 2026-09-01
+* [Review] [Review on: feat(provider): implement multiproof_v2 on OverlayStateProvider](https://github.com/paradigmxyz/reth/pull/26906#pullrequestreview-5079338984) - 2026-09-01
+* [Review] [Review on: fix(txpool): hold sidecar permit until conversion completes](https://github.com/paradigmxyz/reth/pull/26847#pullrequestreview-5079145058) - 2026-09-01
+* [Pull Request] [fix(engine): keep tree alive on invalid downloads](https://github.com/paradigmxyz/reth/pull/26901) - 2026-09-01
+* [Review] [Review on: fix(engine): keep tree alive on invalid downloads](https://github.com/paradigmxyz/reth/pull/26901#pullrequestreview-5076986737) - 2026-09-01
+* [Review] [Review on: refactor(provider): remove historical state factory methods](https://github.com/paradigmxyz/reth/pull/26903#pullrequestreview-5077649867) - 2026-09-01
+* [Review] [Review on: Focil il validation fixes](https://github.com/paradigmxyz/reth/pull/26884#pullrequestreview-5077719144) - 2026-09-01
+* [Review] [Review on: refactor(engine): remove unused state provider builder](https://github.com/paradigmxyz/reth/pull/26902#pullrequestreview-5077489523) - 2026-09-01
+* [Pull Request] [perf(prune): only read history shards that pruning can affect](https://github.com/paradigmxyz/reth/pull/26900) - 2026-09-01
+* [Review] [Review on: feat(engine): expose BalPrewarmPool](https://github.com/paradigmxyz/reth/pull/26769#pullrequestreview-5075754991) - 2026-09-01
+* [Commit] [fix(stages): log bad block hash (#26909)](https://github.com/paradigmxyz/reth/commit/0b3475a83e0712beb3d1f639ea467c55c5117412) - 2026-09-01
+* [Commit] [feat(engine): fetch BALs for downloaded blocks (#26823)](https://github.com/paradigmxyz/reth/commit/9d315f28dcb5142e26c2b7d623f3bab390157d67) - 2026-09-01
+* [Commit] [fix(engine): keep tree alive on invalid downloads (#26901)](https://github.com/paradigmxyz/reth/commit/00d9e9e1cf654c8aa5cdf4acc5be3ea549a45b4b) - 2026-09-01
+* [Commit] [chore(rpc): fix unused ChainBlockTraceResult import warning (#26869)](https://github.com/paradigmxyz/reth/commit/498847cb2e2847c8740d2e9f4a35ea4c67f09a5c) - 2026-09-01
+* [Commit] [fix(engine): return invalid for undecodable block access lists (#26889)](https://github.com/paradigmxyz/reth/commit/8ead4dc94857a5f3d152ee6f7611e755dde3947e) - 2026-09-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

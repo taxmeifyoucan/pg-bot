@@ -128,6 +128,12 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): EIP-6110 maximum CL deposits test](https://github.com/ethereum/execution-specs/pull/3483) - 2026-09-01
 * [Review] [Review on: fix(test-forks): model the pre-Berlin gas and refund schedules](https://github.com/ethereum/execution-specs/pull/3480#pullrequestreview-5072874451) - 2026-09-01
 * [Review] [Review on: feat(tests): EIP-7928 max nonce boundary check for BAL; update refspec](https://github.com/ethereum/execution-specs/pull/3482#pullrequestreview-5071985369) - 2026-08-31
+* [Pull Request] [feat(test-tools): Implement `GasConsumer`](https://github.com/ethereum/execution-specs/pull/3497) - 2026-09-01
+* [Review] [Review on: refactor(tests): enhance EIP-8037 test coverage part 3](https://github.com/ethereum/execution-specs/pull/3485#pullrequestreview-5084146255) - 2026-09-01
+* [Review] [Review on: fix(tests): assert zero-amount withdrawal post-state](https://github.com/ethereum/execution-specs/pull/3476#pullrequestreview-5082822991) - 2026-09-01
+* [Review] [Review on: fix(test-specs,test-types): drop env fields a fork's header lacks from state fixture envs](https://github.com/ethereum/execution-specs/pull/3488#pullrequestreview-5082699818) - 2026-09-01
+* [Review] [Review on: feat(tests): pin cross-frame state gas refund placement and settlement](https://github.com/ethereum/execution-specs/pull/3490#pullrequestreview-5081817043) - 2026-09-01
+* [Review] [Review on: chore(tests): clean up EIP-7928 spec.py ``Spec`` class](https://github.com/ethereum/execution-specs/pull/3496#pullrequestreview-5081212322) - 2026-09-01
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

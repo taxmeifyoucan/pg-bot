@@ -132,6 +132,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: config: load networking overrides from RuntimeConfig](https://github.com/status-im/nimbus-eth2/pull/8943#pullrequestreview-5065908690) - 2026-08-31
 * [Review] [Review on: bump nim-web3, add getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/8971#pullrequestreview-5072626347) - 2026-08-31
 * [Pull Request] [fix Gloas fork transition builder deposit handling](https://github.com/status-im/nimbus-eth2/pull/8965) - 2026-08-31
+* [Review] [Review on: dedup PTC gossip votes by (slot, validator_index)](https://github.com/status-im/nimbus-eth2/pull/8977#pullrequestreview-5079528747) - 2026-09-01
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -190,6 +191,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: make release nightly use the existing release pathway for better testing](https://github.com/status-im/nimbus-eth1/pull/4632#pullrequestreview-4951297756) - 2026-08-17
 * [Review] [Review on: Ssz rest](https://github.com/status-im/nimbus-eth1/pull/4653#pullrequestreview-4962233004) - 2026-08-18
 * [Review] [Review on: make BoringSSL optional for the sha256 and P256VERIFY precompiles](https://github.com/status-im/nimbus-eth1/pull/4705#pullrequestreview-5056787609) - 2026-08-29
+* [Review] [Review on: make BoringSSL optional for the sha256 and P256VERIFY precompiles](https://github.com/status-im/nimbus-eth1/pull/4705#pullrequestreview-5077479090) - 2026-09-01
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

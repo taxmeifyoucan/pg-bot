@@ -73,6 +73,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Convert produceBlockV4 to POST and round-trip Eth-Builder-Url (Gloas builder API 4/5)](https://github.com/sigp/lighthouse/pull/9806#pullrequestreview-5014493481) - 2026-08-25
 * [Pull Request] [Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924) - 2026-08-26
 * [Review] [Review on: Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924#pullrequestreview-5035588950) - 2026-08-26
+* [Review] [Review on: Fix quadratic pending-validator scan in Gloas builder onboarding](https://github.com/sigp/lighthouse/pull/9954#pullrequestreview-5074962230) - 2026-09-01
 ## Q2 2026
 
 
