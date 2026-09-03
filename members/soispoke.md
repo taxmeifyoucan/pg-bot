@@ -50,6 +50,12 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Review] [Review on: Update EIP-8250: move TXPARAM_LEGACY_NONCE off 0x0C](https://github.com/ethereum/EIPs/pull/12219#pullrequestreview-5064379652) - 2026-08-31
 * [Review] [Review on: Update EIP-8272: move RECENTROOTREFLOAD off 0xB5](https://github.com/ethereum/EIPs/pull/12220#pullrequestreview-5064358452) - 2026-08-31
 * [Commit] [Add EIP: VOPS Profiles for FOCIL Eligibility](https://github.com/ethereum/EIPs/commit/8f1fe737929d0816743c66fd334710de9af7384a) - 2026-09-01
+* [Pull Request] [Update EIP-8250: charge keyed nonce first use as state gas](https://github.com/ethereum/EIPs/pull/12279) - 2026-09-02
+* [Review] [Review on: Update EIP-8250: charge keyed nonce first use as state gas](https://github.com/ethereum/EIPs/pull/12279#pullrequestreview-5089660784) - 2026-09-02
+* [Pull Request] [Update EIP-8272: verify recent roots with a canonical frame](https://github.com/ethereum/EIPs/pull/12281) - 2026-09-02
+* [Pull Request] [Update EIP-8369: Clarify EIP-8369 review follow-ups](https://github.com/ethereum/EIPs/pull/12280) - 2026-09-02
+* [Commit] [Update EIP-8250: charge keyed nonce first use as state gas](https://github.com/ethereum/EIPs/commit/94f5a3e3c146c28625d9ab2f8a7c0a848530a13a) - 2026-09-02
+* [Commit] [Update EIP-8369: Clarify EIP-8369 review follow-ups](https://github.com/ethereum/EIPs/commit/51dc7b939adae83369e1bf37b9ad71a3b190cd00) - 2026-09-02
 ## Q2 2026
 
 

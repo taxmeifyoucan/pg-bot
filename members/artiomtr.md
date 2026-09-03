@@ -23,6 +23,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Fix CI build](https://github.com/grandinetech/grandine/pull/892) - 2026-08-28
 * [Commit] [Fix zkvm build](https://github.com/grandinetech/grandine/commit/1467bb1160562badc2b13b972c88c5de52e9b94a) - 2026-08-28
 * [Commit] [Handle gloas containers properly in C bindings](https://github.com/grandinetech/grandine/commit/7f1bf33719a75e186f25c257968e0b14f65b647f) - 2026-08-28
+* [Pull Request] [Raise limits for progressive containers](https://github.com/grandinetech/grandine/pull/900) - 2026-09-02
+* [Review] [Review on: Builder deposit cache](https://github.com/grandinetech/grandine/pull/898#pullrequestreview-5089796350) - 2026-09-02
+* [Commit] [Raise limits for progressive containers](https://github.com/grandinetech/grandine/commit/1a91038971f43c768d2c626c0f7276cc9cdfc1df) - 2026-09-02
 ## Q2 2026
 
 

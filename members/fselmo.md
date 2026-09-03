@@ -22,6 +22,12 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(tests): pin cross-frame state gas refund placement and settlement](https://github.com/ethereum/execution-specs/pull/3490#pullrequestreview-5081410560) - 2026-09-01
 * [Pull Request] [chore(tests): clean up EIP-7928 spec.py ``Spec`` class](https://github.com/ethereum/execution-specs/pull/3496) - 2026-09-01
 * [Commit] [chore(tests): clean up EIP-7928 spec.py ``Spec`` class (#3496)](https://github.com/ethereum/execution-specs/commit/ef914fe55dd252b60a718fec013ae2a6ee15054e) - 2026-09-01
+* [Pull Request] [chore(test-specs): avoid silent mistakes when writing tests](https://github.com/ethereum/execution-specs/pull/3510) - 2026-09-02
+* [Review] [Review on: chore(test-specs): avoid silent mistakes when writing tests](https://github.com/ethereum/execution-specs/pull/3510#pullrequestreview-5095535243) - 2026-09-02
+* [Review] [Review on: feat(tests): probe EIP-161 emptiness after same-tx precompile touches](https://github.com/ethereum/execution-specs/pull/3477#pullrequestreview-5094734604) - 2026-09-02
+* [Review] [Review on: feat(tests,test-specs): EIP-7928 - reject non-minimally encoded BAL scalars](https://github.com/ethereum/execution-specs/pull/3486#pullrequestreview-5092872096) - 2026-09-02
+* [Review] [Review on: fix(test-specs): refuse RLP blockchain fixtures for engine-payload-only block overrides](https://github.com/ethereum/execution-specs/pull/3501#pullrequestreview-5090350599) - 2026-09-02
+* [Commit] [chore(test-specs): avoid silent mistakes when writing tests (#3510)](https://github.com/ethereum/execution-specs/commit/fc701a463b2b15f9e2791af291c47ebe0efa37f2) - 2026-09-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 ## Q2 2026

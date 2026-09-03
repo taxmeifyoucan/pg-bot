@@ -107,6 +107,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Makefile: share the zkVM guest build flags across guest targets](https://github.com/status-im/nimbus-eth1/pull/4703) - 2026-08-28
 * [Commit] [Makefile: share the zkVM guest build flags across guest targets (#4703)](https://github.com/status-im/nimbus-eth1/commit/3b8fe9d06b330b168a19b47aaeb98c9f80308fa6) - 2026-08-28
 * [Review] [Review on: make BoringSSL optional for the sha256 and P256VERIFY precompiles](https://github.com/status-im/nimbus-eth1/pull/4705#pullrequestreview-5057422576) - 2026-08-29
+* [Pull Request] [stateless: Update EEST zkevm test fixtures to v0.8.3](https://github.com/status-im/nimbus-eth1/pull/4730) - 2026-09-02
+* [Pull Request] [Bump nim-eth vendor module](https://github.com/status-im/nimbus-eth1/pull/4729) - 2026-09-02
+* [Commit] [stateless: Update EEST zkevm test fixtures to v0.8.3 (#4730)](https://github.com/status-im/nimbus-eth1/commit/497d3378a03aa145aba72af94f3c74a19487cf12) - 2026-09-02
+* [Commit] [Bump nim-eth vendor module (#4729)](https://github.com/status-im/nimbus-eth1/commit/bd3796391509411e312ca058c15cde210be074cf) - 2026-09-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 
@@ -115,6 +119,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 
 * [Pull Request] [Update --discovery to --discv5 flag for EL in el nodes script](https://github.com/status-im/nimbus-eth2/pull/8763) - 2026-07-14
 * [Pull Request] [Support compiling buildinfo on/for bare metal](https://github.com/status-im/nimbus-eth2/pull/8792) - 2026-07-21
+* [Pull Request] [Bump nim-eth vendor module](https://github.com/status-im/nimbus-eth2/pull/8983) - 2026-09-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672183323) - 2026-07-10
 

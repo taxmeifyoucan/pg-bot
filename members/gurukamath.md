@@ -67,6 +67,8 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): pin frame-tx spent gas across a refill rollback](https://github.com/ethereum/execution-specs/pull/3487#pullrequestreview-5080834245) - 2026-09-01
 * [Review] [Review on: fix(eip-8141): account block execution gas before refund](https://github.com/ethereum/execution-specs/pull/3443#pullrequestreview-5078022010) - 2026-09-01
 * [Review] [Review on: fix(test-specs): calculate transaction fixture gas from context](https://github.com/ethereum/execution-specs/pull/3491#pullrequestreview-5079818163) - 2026-09-01
+* [Pull Request] [feat(tests): wrap earlier transaction types into frames where possible](https://github.com/ethereum/execution-specs/pull/3500) - 2026-09-02
+* [Review] [Review on: fix(client-clis): map frame transaction rejections in the Nethermind mapper](https://github.com/ethereum/execution-specs/pull/3467#pullrequestreview-5090341370) - 2026-09-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8141: dispatch a precompile targeted by a frame](https://github.com/ethereum/EIPs/pull/12157#pullrequestreview-4980567794) - 2026-08-20
 * [Pull Request] [Update EIP-8141: scope APPROVE failure modes to the current call frame](https://github.com/ethereum/EIPs/pull/12212) - 2026-08-20

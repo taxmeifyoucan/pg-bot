@@ -150,6 +150,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: remove unused async shuffling code](https://github.com/ChainSafe/lodestar/pull/9953) - 2026-08-31
 * [Review] [Review on: refactor(bindings): split computeNewStateRoot computation](https://github.com/ChainSafe/lodestar/pull/9945#pullrequestreview-5068485115) - 2026-08-31
 * [Review] [Review on: feat(state-transition): add forkSeq to IBeaconStateView](https://github.com/ChainSafe/lodestar/pull/9927#pullrequestreview-5067092969) - 2026-08-31
+* [Review] [Review on: fix: minor improvement on ptc message gossip validation](https://github.com/ChainSafe/lodestar/pull/9969#pullrequestreview-5091172533) - 2026-09-02
+* [Review] [Review on: chore: fix sync dashboard](https://github.com/ChainSafe/lodestar/pull/9967#pullrequestreview-5091715452) - 2026-09-02
+* [Review] [Review on: fix: reject bids with block_hash equal to parent_block_hash](https://github.com/ChainSafe/lodestar/pull/9972#pullrequestreview-5095361203) - 2026-09-02
+* [Review] [Review on: test: fail spec tests expecting an error if none is thrown](https://github.com/ChainSafe/lodestar/pull/9986#pullrequestreview-5095294334) - 2026-09-02
+* [Review] [Review on: fix: run cheap bid rejects before expensive validation](https://github.com/ChainSafe/lodestar/pull/9984#pullrequestreview-5094285199) - 2026-09-02
+* [Review] [Review on: docs: update historical fork support boundaries](https://github.com/ChainSafe/lodestar/pull/9983#pullrequestreview-5092955345) - 2026-09-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -264,6 +270,15 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: refactor(pmt): make node pool non-growable](https://github.com/ChainSafe/lodestar-z/pull/617#pullrequestreview-5079260202) - 2026-09-01
 * [Review] [Review on: refactor(ssz): simplify progressive bit list type](https://github.com/ChainSafe/lodestar-z/pull/618#pullrequestreview-5079275658) - 2026-09-01
 * [Issue] [Fix STF error observability](https://github.com/ChainSafe/lodestar-z/issues/622) - 2026-09-01
+* [Pull Request] [refactor: extract bulky tests into _test.zig files and add a tidy lint](https://github.com/ChainSafe/lodestar-z/pull/625) - 2026-09-02
+* [Review] [Review on: refactor: extract bulky tests into _test.zig files and add a tidy lint](https://github.com/ChainSafe/lodestar-z/pull/625#pullrequestreview-5094911117) - 2026-09-02
+* [Review] [Review on: refactor(ssz): infallible variable element iteration](https://github.com/ChainSafe/lodestar-z/pull/598#pullrequestreview-5091926194) - 2026-09-02
+* [Review] [Review on: fix(ssz): validate bit list length before hashing](https://github.com/ChainSafe/lodestar-z/pull/608#pullrequestreview-5091822998) - 2026-09-02
+* [Review] [Review on: fix(ssz): keep clone destinations deinit-safe](https://github.com/ChainSafe/lodestar-z/pull/614#pullrequestreview-5091810864) - 2026-09-02
+* [Review] [Review on: fix: reject withdrawal count mismatches](https://github.com/ChainSafe/lodestar-z/pull/619#pullrequestreview-5091777815) - 2026-09-02
+* [Review] [Review on: fix(stf): keep expected withdrawals query read-only](https://github.com/ChainSafe/lodestar-z/pull/620#pullrequestreview-5091767195) - 2026-09-02
+* [Review] [Review on: fix(stf): treat Capella as post-merge](https://github.com/ChainSafe/lodestar-z/pull/624#pullrequestreview-5091052865) - 2026-09-02
+* [Review] [Review on: fix(stf): justify exact two-thirds participation](https://github.com/ChainSafe/lodestar-z/pull/623#pullrequestreview-5091045867) - 2026-09-02
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

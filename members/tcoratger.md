@@ -120,6 +120,10 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat(binary-dft): additive NTT and the Encoder abstraction](https://github.com/Plonky3/Plonky3/pull/2003#pullrequestreview-5061511799) - 2026-08-30
 * [Review] [Review on: feat(binary-field): GF(2) through GF(2^128) tower fields](https://github.com/Plonky3/Plonky3/pull/2001#pullrequestreview-5061468282) - 2026-08-30
 * [Review] [Review on: feat(binary-dft): additive NTT and the Encoder abstraction](https://github.com/Plonky3/Plonky3/pull/2003#pullrequestreview-5066077012) - 2026-08-31
+* [Pull Request] [refactor(stir): typed InvalidProofShape errors](https://github.com/Plonky3/Plonky3/pull/2012) - 2026-09-02
+* [Review] [Review on: feat(sumcheck): ring switching over an arbitrary field extension](https://github.com/Plonky3/Plonky3/pull/2006#pullrequestreview-5090276873) - 2026-09-02
+* [Review] [Review on: perf(stir): bucket committed heights into several bounded-spread shared domains](https://github.com/Plonky3/Plonky3/pull/2005#pullrequestreview-5089885206) - 2026-09-02
+* [Review] [Review on: fix(security): account for out-of-domain point count in budget's OOD round](https://github.com/Plonky3/Plonky3/pull/2007#pullrequestreview-5089882384) - 2026-09-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

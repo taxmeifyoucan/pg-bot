@@ -248,6 +248,10 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Hex-encode only literal `ProgressiveList[Byte]` in reference tests](https://github.com/ethereum/consensus-specs/pull/5587#pullrequestreview-5078109760) - 2026-09-01
 * [Commit] [Replace mypy with ty (#5574)](https://github.com/ethereum/consensus-specs/commit/3be9b686efd106133aec0559d9f00b7cb75c1bc3) - 2026-09-01
 * [Commit] [Move seen checks to the top of gossip validation functions (#5586)](https://github.com/ethereum/consensus-specs/commit/4962a4b1ff0e113863f219bcb57d7e446a8ba924) - 2026-09-01
+* [Review] [Review on: Add quick slots (EIP-8198)](https://github.com/ethereum/consensus-specs/pull/5592#pullrequestreview-5091003223) - 2026-09-02
+* [Review] [Review on: Reject bids with `block_hash` equal to `parent_block_hash`](https://github.com/ethereum/consensus-specs/pull/5594#pullrequestreview-5092037720) - 2026-09-02
+* [Pull Request] [Remove unnecessary casts](https://github.com/ethereum/consensus-specs/pull/5588) - 2026-09-02
+* [Commit] [Remove unnecessary casts (#5588)](https://github.com/ethereum/consensus-specs/commit/566e1ebae6b1af273a70b157ed7cdd32d91be684) - 2026-09-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

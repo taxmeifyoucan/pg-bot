@@ -186,6 +186,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [Fix queue time metric in Indexed Gossip Queue of networking dashboard](https://github.com/ChainSafe/lodestar/issues/9962) - 2026-09-01
 * [Commit] [fix: only track ACCEPT message job time (#9961)](https://github.com/ChainSafe/lodestar/commit/d477ac6ef71229e0746bd488a230df9fece77392) - 2026-09-01
 * [Commit] [fix: avoid epoch transition when validating gossip block (#9959)](https://github.com/ChainSafe/lodestar/commit/a3a363b2f7c724bba121d71b7d11d160d8af16a2) - 2026-09-01
+* [Pull Request] [fix: fix Switch gossip subscriptions panel of Sync dashboard](https://github.com/ChainSafe/lodestar/pull/9987) - 2026-09-03
+* [Pull Request] [fix: minor improvement on ptc message gossip validation](https://github.com/ChainSafe/lodestar/pull/9969) - 2026-09-02
+* [Review] [Review on: fix: minor improvement on ptc message gossip validation](https://github.com/ChainSafe/lodestar/pull/9969#pullrequestreview-5088851085) - 2026-09-02
+* [Pull Request] [chore: fix sync dashboard](https://github.com/ChainSafe/lodestar/pull/9967) - 2026-09-02
+* [Review] [Review on: chore: fix sync dashboard](https://github.com/ChainSafe/lodestar/pull/9967#pullrequestreview-5096912250) - 2026-09-03
+* [Review] [Review on: chore: v1.47.0 release](https://github.com/ChainSafe/lodestar/pull/9934#pullrequestreview-5087493369) - 2026-09-02
+* [Commit] [chore: fix sync dashboard (#9967)](https://github.com/ChainSafe/lodestar/commit/84285dbabf0e10d44a8affbcfc2e14050b599403) - 2026-09-02
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

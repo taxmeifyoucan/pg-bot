@@ -23,6 +23,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 
 [ethpandaops/xatu](https://github.com/ethpandaops/xatu)
 * [Pull Request] [fix(clickhouse): nullable builder_index and storage_key for Gloas ePBS tables](https://github.com/ethpandaops/xatu/pull/879) - 2026-07-27
+* [Pull Request] [fix(sinks): rate-limit per-event sink failure logs](https://github.com/ethpandaops/xatu/pull/887) - 2026-09-02
 ## Q2 2026
 
 

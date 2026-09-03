@@ -96,6 +96,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Pull Request] [fix pruned db rpc fetch request](https://github.com/status-im/nimbus-eth1/pull/4716) - 2026-09-01
 * [Issue] [new base images required](https://github.com/status-im/nimbus-eth1/issues/4717) - 2026-09-01
 * [Commit] [update base image (#4718)](https://github.com/status-im/nimbus-eth1/commit/4f3e5bff951ff7916ba640d3c3ad6d27b4b6af44) - 2026-09-01
+* [Review] [Review on: Update base images](https://github.com/status-im/nimbus-eth1/pull/4727#pullrequestreview-5090193115) - 2026-09-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22

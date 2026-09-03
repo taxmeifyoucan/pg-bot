@@ -257,6 +257,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: chore: add svlachakis to CODEOWNERS for flat history and history pruning](https://github.com/NethermindEth/nethermind/pull/13072#pullrequestreview-5079252986) - 2026-09-01
 * [Commit] [Use unbound generic types in nameof (#13056)](https://github.com/NethermindEth/nethermind/commit/466a8b9196f78444b9b03b7864e06f90e9dd1947) - 2026-09-01
 * [Commit] [Fix atomic blob transaction persistence after revalidation (#13045)](https://github.com/NethermindEth/nethermind/commit/c1c046ffc5d7c8a129ad0a397ed917866bfe01d3) - 2026-09-01
+* [Pull Request] [perf: carry pre-block account and storage caches across blocks](https://github.com/NethermindEth/nethermind/pull/13100) - 2026-09-02
+* [Review] [Review on: perf: carry pre-block account and storage caches across blocks](https://github.com/NethermindEth/nethermind/pull/13100#pullrequestreview-5091232859) - 2026-09-02
+* [Review] [Review on: perf(zkevm): build with -Ot and drop single-thread locks from TrieNode](https://github.com/NethermindEth/nethermind/pull/13086#pullrequestreview-5088263434) - 2026-09-02
+* [Commit] [Reduce routine debug logging noise (#13085)](https://github.com/NethermindEth/nethermind/commit/24b28b2e05e74b06e62196fffd6665e449484379) - 2026-09-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

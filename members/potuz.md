@@ -95,6 +95,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Review] [Review on: Use head state for next-epoch attestation target states](https://github.com/OffchainLabs/prysm/pull/17441#pullrequestreview-5082267848) - 2026-09-01
 * [Pull Request] [Pre-warm pending deposit signatures before the Gloas fork](https://github.com/OffchainLabs/prysm/pull/17440) - 2026-09-01
 * [Review] [Review on: Pre-warm pending deposit signatures before the Gloas fork](https://github.com/OffchainLabs/prysm/pull/17440#pullrequestreview-5081940635) - 2026-09-01
+* [Pull Request] [Reject bids with equal blockhash and parent blockhash](https://github.com/OffchainLabs/prysm/pull/17443) - 2026-09-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03
@@ -110,6 +111,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Commit] [Allow multiple bids compatible with the head view (#5497)](https://github.com/ethereum/consensus-specs/commit/f58c72dd6cb961008874eb9597bd4d4353780be7) - 2026-07-31
 * [Review] [Review on: Fix builder payment weight double-count under target equivocation](https://github.com/ethereum/consensus-specs/pull/5543#pullrequestreview-4943718562) - 2026-08-15
 * [Review] [Review on: Allow epoch boundary reorgs in Fulu](https://github.com/ethereum/consensus-specs/pull/5547#pullrequestreview-4954028479) - 2026-08-17
+* [Review] [Review on: Reject bids with `block_hash` equal to `parent_block_hash`](https://github.com/ethereum/consensus-specs/pull/5594#pullrequestreview-5093046179) - 2026-09-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629311315) - 2026-07-04
 

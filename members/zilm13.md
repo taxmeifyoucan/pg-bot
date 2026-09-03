@@ -119,6 +119,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Pull Request] [Switch to cheaper getStateByRoot in validators](https://github.com/Consensys-Incorporated/teku/pull/11215) - 2026-09-01
 * [Pull Request] [FCR Optimization part1: Speed up fast confirmation with memoization and one-pass chain scoring](https://github.com/Consensys-Incorporated/teku/pull/11212) - 2026-09-01
 * [Pull Request] [FCR optimization part2:  Reuse cached checkpoint states and parallelize fast confirmation scoring](https://github.com/Consensys-Incorporated/teku/pull/11214) - 2026-09-01
+* [Pull Request] [Fix dropping from SYNCING to IN_SYNC while far behind the head](https://github.com/Consensys-Incorporated/teku/pull/11219) - 2026-09-02
+* [Review] [Review on: bids with equal block hash and parent block hash are invalid](https://github.com/Consensys-Incorporated/teku/pull/11221#pullrequestreview-5091695527) - 2026-09-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

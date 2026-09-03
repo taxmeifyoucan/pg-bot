@@ -267,6 +267,17 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [feat(tests): pin cross-frame state gas refund placement and settlement](https://github.com/ethereum/execution-specs/pull/3490) - 2026-09-01
 * [Review] [Review on: feat(test-benchmark): more worst case scenario](https://github.com/ethereum/execution-specs/pull/3349#pullrequestreview-5077039726) - 2026-09-01
 * [Commit] [feat(tests): pin cross-frame state gas refund placement and settlement (#3490)](https://github.com/ethereum/execution-specs/commit/70c3511ba1b454c6f0458e1e1b949cf383a6894e) - 2026-09-01
+* [Review] [Review on: feat(tests): EIP-6110 maximum CL deposits test](https://github.com/ethereum/execution-specs/pull/3483#pullrequestreview-5091175353) - 2026-09-02
+* [Review] [Review on: feat(tests,test-specs): EIP-7928 - reject non-minimally encoded BAL scalars](https://github.com/ethereum/execution-specs/pull/3486#pullrequestreview-5089819635) - 2026-09-02
+* [Pull Request] [fix(spec-specs): wipe pre-existing storage on contract creation from Cancun onward](https://github.com/ethereum/execution-specs/pull/3508) - 2026-09-02
+* [Review] [Review on: feat(tests): sweep the refund merge over every call and create opcode](https://github.com/ethereum/execution-specs/pull/3506#pullrequestreview-5091524405) - 2026-09-02
+* [Review] [Review on: feat(test-benchmark): strengthen and consolidate TSTORE benchmark](https://github.com/ethereum/execution-specs/pull/3441#pullrequestreview-5091110212) - 2026-09-02
+* [Review] [Review on: feat(tests): add precompile as block coinbase coverage](https://github.com/ethereum/execution-specs/pull/3462#pullrequestreview-5091030829) - 2026-09-02
+* [Pull Request] [fix(test-specs): refuse RLP blockchain fixtures for engine-payload-only block overrides](https://github.com/ethereum/execution-specs/pull/3501) - 2026-09-02
+* [Review] [Review on: feat(tests): cover a cross-frame state gas refund with a funded reservoir](https://github.com/ethereum/execution-specs/pull/3498#pullrequestreview-5089529356) - 2026-09-02
+* [Review] [Review on: feat(tests): cover a cross-frame state gas refund after a delegation spill](https://github.com/ethereum/execution-specs/pull/3499#pullrequestreview-5089403331) - 2026-09-02
+* [Commit] [fix(test-specs): fail loudly if a test sets env fields not supported by the target fork (#3488)](https://github.com/ethereum/execution-specs/commit/1e7d0e74d588eb382e289c9dd50a60d7a6185297) - 2026-09-02
+* [Commit] [fix(test-specs): refuse RLP blockchain fixtures for engine-payload-only block overrides (#3501)](https://github.com/ethereum/execution-specs/commit/76910d3138a2dcdfee5d69d93a7b6a7d827ffbfe) - 2026-09-02
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -311,6 +322,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 
 * [Review] [Review on: Update EIP-8037: return state-gas to gas_left when a child merges](https://github.com/ethereum/EIPs/pull/12265#pullrequestreview-5067349350) - 2026-08-31
 * [Review] [Review on: Update EIP-8037: restore a frame's state-gas on rollback](https://github.com/ethereum/EIPs/pull/12256#pullrequestreview-5067749682) - 2026-08-31
+* [Pull Request] [Update EIP-8037: note that gas_left can increase within a frame](https://github.com/ethereum/EIPs/pull/12285) - 2026-09-02
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix genesis slotNumber parsing and require the header field from Amsterdam](https://github.com/besu-eth/besu/pull/11038) - 2026-08-13
 

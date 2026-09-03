@@ -134,6 +134,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: fix(test-specs,test-types): drop env fields a fork's header lacks from state fixture envs](https://github.com/ethereum/execution-specs/pull/3488#pullrequestreview-5082699818) - 2026-09-01
 * [Review] [Review on: feat(tests): pin cross-frame state gas refund placement and settlement](https://github.com/ethereum/execution-specs/pull/3490#pullrequestreview-5081817043) - 2026-09-01
 * [Review] [Review on: chore(tests): clean up EIP-7928 spec.py ``Spec`` class](https://github.com/ethereum/execution-specs/pull/3496#pullrequestreview-5081212322) - 2026-09-01
+* [Review] [Review on: feat(tests): EIP-6110 maximum CL deposits test](https://github.com/ethereum/execution-specs/pull/3483#pullrequestreview-5096412076) - 2026-09-02
+* [Review] [Review on: chore(test-specs): avoid silent mistakes when writing tests](https://github.com/ethereum/execution-specs/pull/3510#pullrequestreview-5095019741) - 2026-09-02
+* [Review] [Review on: feat(tests): wrap earlier transaction types into frames where possible](https://github.com/ethereum/execution-specs/pull/3500#pullrequestreview-5093882397) - 2026-09-02
+* [Review] [Review on: feat(test-fill): make engine_x fixtures consumable via devp2p sync](https://github.com/ethereum/execution-specs/pull/3364#pullrequestreview-5092581860) - 2026-09-02
+* [Commit] [feat(tests): EIP-6110 maximum CL deposits test (#3483)](https://github.com/ethereum/execution-specs/commit/1855bb169fdf8b29ff7fb1eb6396e855549c9d7e) - 2026-09-03
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

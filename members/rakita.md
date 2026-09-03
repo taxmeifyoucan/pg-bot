@@ -93,6 +93,7 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Review] [Review on: fix(engine): enforce state-gas admission on the BAL execution path](https://github.com/paradigmxyz/reth/pull/26719#pullrequestreview-4962119097) - 2026-08-18
 * [Review] [Review on: feat(net): advertise eth/70 and eth/71 by default](https://github.com/paradigmxyz/reth/pull/26824#pullrequestreview-5032071081) - 2026-08-26
 * [Pull Request] [chore(deps): reapply revm 43 update](https://github.com/paradigmxyz/reth/pull/26859) - 2026-08-28
+* [Commit] [chore(deps): reapply revm 43 update (#26859)](https://github.com/paradigmxyz/reth/commit/9571dec6ea3c1ad7a857214ec24ceaa0b0c9d89b) - 2026-09-02
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/revmc/pull/404) - 2026-07-14
 * [Pull Request] [chore: bump revm to 42.0.0](https://github.com/paradigmxyz/revmc/pull/406) - 2026-07-23

@@ -71,6 +71,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [fix(tests): undecodable BAL is an invalid payload](https://github.com/ethereum/execution-specs/pull/3463) - 2026-08-28
 * [Commit] [fix(tests): undecodable BAL is an invalid payload (#3463)](https://github.com/ethereum/execution-specs/commit/d9bc249acc4b6edb21475357e9b8080243e1ec53) - 2026-08-28
 * [Pull Request] [feat(tests,test-specs): EIP-7928 - reject non-minimally encoded BAL scalars](https://github.com/ethereum/execution-specs/pull/3486) - 2026-09-01
+* [Commit] [feat(tests,test-specs): EIP-7928 - reject non-minimally encoded BAL scalars (#3486)](https://github.com/ethereum/execution-specs/commit/0d9d91946f41d6a82850705204a22aa66185f576) - 2026-09-02
 [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Add proposal for native UTXOs on Ethereum](https://github.com/nerolation/pglanding-nerolation/commit/6eda8a600eac2ec897055484efc1348b65e0246d) - 2026-07-08
 
@@ -96,6 +97,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [execution/engineapi: return INVALID for undecodable blockAccessList](https://github.com/erigontech/erigon/pull/23633) - 2026-08-27
 
+* [Commit] [execution/engineapi: return INVALID for undecodable blockAccessList (#23633)](https://github.com/erigontech/erigon/commit/6f79e3e731a3d894d1da5fa95d401c9b8cc29b1f) - 2026-09-02
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Pull Request] [Return INVALID for a malformed block access list envelope](https://github.com/NethermindEth/nethermind/pull/13012) - 2026-08-27
 * [Commit] [Return INVALID for a malformed block access list envelope (#13012)](https://github.com/NethermindEth/nethermind/commit/7fcdee732920608454359b6a65a254cd84cff4a9) - 2026-08-27

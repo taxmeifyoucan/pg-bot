@@ -25,6 +25,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [more efficient getBlobs polling](https://github.com/status-im/nimbus-eth2/pull/8884) - 2026-08-14
 * [Pull Request] [initial commit for partial messages](https://github.com/status-im/nimbus-eth2/pull/8905) - 2026-08-18
 * [Pull Request] [bump nim-web3, add getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/8971) - 2026-08-31
+* [Pull Request] [reduce blob polling to EL](https://github.com/status-im/nimbus-eth2/pull/8982) - 2026-09-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4629505540) - 2026-07-04
 ## Q2 2026

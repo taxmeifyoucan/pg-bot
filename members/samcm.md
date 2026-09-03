@@ -28,6 +28,7 @@ Team: [ethPandaOps](https://github.com/ethpandaops)
 * [Commit] [feat: add gossipsub message payload event for raw wire-bytes capture (#877)](https://github.com/ethpandaops/xatu/commit/fc20a343a2974964e8c2c455973bbc65c3cde5cd) - 2026-07-17
 * [Pull Request] [feat: add typed ClickHouse read package (pkg/proto/clickhouse)](https://github.com/ethpandaops/xatu/pull/886) - 2026-08-20
 * [Commit] [feat: add typed ClickHouse read package (pkg/proto/clickhouse) (#886)](https://github.com/ethpandaops/xatu/commit/619c572d19c3f49c9f456988051f8d35d526c61e) - 2026-08-24
+* [Review] [Review on: fix(sinks): rate-limit per-event sink failure logs](https://github.com/ethpandaops/xatu/pull/887#pullrequestreview-5085668468) - 2026-09-02
 [ethpandaops/template-devnets](https://github.com/ethpandaops/template-devnets)
 * [Pull Request] [telemetry: add OTLP traces pipeline](https://github.com/ethpandaops/template-devnets/pull/178) - 2026-07-06
 * [Commit] [xatu-sentry: ship to the per-devnet ingest pipeline](https://github.com/ethpandaops/template-devnets/commit/625d2c78cd2d9b4c985462134bc6986d677ee195) - 2026-07-06

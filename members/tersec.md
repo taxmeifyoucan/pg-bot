@@ -133,6 +133,9 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: bump nim-web3, add getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/8971#pullrequestreview-5072626347) - 2026-08-31
 * [Pull Request] [fix Gloas fork transition builder deposit handling](https://github.com/status-im/nimbus-eth2/pull/8965) - 2026-08-31
 * [Review] [Review on: dedup PTC gossip votes by (slot, validator_index)](https://github.com/status-im/nimbus-eth2/pull/8977#pullrequestreview-5079528747) - 2026-09-01
+* [Review] [Review on: req/resp domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8876#pullrequestreview-5087279844) - 2026-09-02
+* [Pull Request] [rm some pre-fulu blob infrastructure](https://github.com/status-im/nimbus-eth2/pull/8978) - 2026-09-02
+* [Review] [Review on: dedup PTC gossip votes by (slot, validator_index)](https://github.com/status-im/nimbus-eth2/pull/8977#pullrequestreview-5085178368) - 2026-09-02
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

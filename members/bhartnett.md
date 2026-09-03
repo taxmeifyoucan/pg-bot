@@ -100,6 +100,12 @@ Team: [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pu
 * [Pull Request] [Use multiGet to fetch branch keys in stateroot computation](https://github.com/status-im/nimbus-eth1/pull/4709) - 2026-08-31
 * [Commit] [Use multiGet to fetch branch keys in stateroot computation (#4709)](https://github.com/status-im/nimbus-eth1/commit/2c3baf53e0131f28cd9728e40547e7631896c89f) - 2026-08-31
 * [Review] [Review on: Bump nim-json-rpc to `d783a9e`](https://github.com/status-im/nimbus-eth1/pull/4691#pullrequestreview-5073667664) - 2026-09-01
+* [Pull Request] [Update base images](https://github.com/status-im/nimbus-eth1/pull/4727) - 2026-09-02
+* [Review] [Review on: Update base images](https://github.com/status-im/nimbus-eth1/pull/4727#pullrequestreview-5090356420) - 2026-09-02
+* [Pull Request] [Update nim-rocksdb to v11.8.1.0](https://github.com/status-im/nimbus-eth1/pull/4724) - 2026-09-02
+* [Review] [Review on: Update nim-rocksdb to v11.8.1.0](https://github.com/status-im/nimbus-eth1/pull/4724#pullrequestreview-5086278055) - 2026-09-02
+* [Commit] [Update base images (#4727)](https://github.com/status-im/nimbus-eth1/commit/62e1c1a3900ad1d2307e2b25c735f1200861c158) - 2026-09-02
+* [Commit] [Update nim-rocksdb to v11.8.1.0 (#4724)](https://github.com/status-im/nimbus-eth1/commit/a76e9688628f6080bc9314c4fd7d56db2f50aa27) - 2026-09-02
 ## Q2 2026
 
 

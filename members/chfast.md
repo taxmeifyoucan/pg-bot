@@ -238,6 +238,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [test: Run one blockchain test at a time](https://github.com/ipsilon/evmone/pull/1690) - 2026-09-01
 * [Commit] [tooling: Run one command per invocation (#1691)](https://github.com/ipsilon/evmone/commit/c2447d078e3acd6e4a59e8ee09b9d3dcf684919b) - 2026-09-01
 * [Commit] [test: Run one blockchain test at a time (#1690)](https://github.com/ipsilon/evmone/commit/c79507667690f391fd6ee42af62dd674b46adfb3) - 2026-09-01
+* [Pull Request] [evm: Improve readability of SELFDESTRUCT refund](https://github.com/ipsilon/evmone/pull/1694) - 2026-09-02
+* [Pull Request] [test: Count outcomes from the notes](https://github.com/ipsilon/evmone/pull/1693) - 2026-09-02
+* [Pull Request] [test: Rename test_files to test_collector](https://github.com/ipsilon/evmone/pull/1692) - 2026-09-02
+* [Commit] [evm: Improve readability of SELFDESTRUCT refund (#1694)](https://github.com/ipsilon/evmone/commit/af66b3d0c283d5b76fa93f6eef868c5dcd00615e) - 2026-09-02
+* [Commit] [test: Count outcomes from the notes (#1693)](https://github.com/ipsilon/evmone/commit/a203f55f606cc1e8a4d715099432de4f311f952b) - 2026-09-02
+* [Commit] [test: Rename test_files to test_collector (#1692)](https://github.com/ipsilon/evmone/commit/28f3aaf3e9e7d860064cbdcfda9a355e59e8b94e) - 2026-09-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -298,6 +304,12 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): EIP-7928 - storage reads of a recreated destroyed account (#3475)](https://github.com/ethereum/execution-specs/commit/c7691a64b4ebdde033f1e27fe2932e71f6a22eb2) - 2026-08-31
 * [Commit] [test(tests): ECRECOVER - cover R == -G with u1 < u2 and u1 == u2 (#3459)](https://github.com/ethereum/execution-specs/commit/aee3eb2b02e49adf3c52b77c415907006e3d8a34) - 2026-08-31
 * [Commit] [feat(tests): add type-0 transaction RLP validity tests (#3156)](https://github.com/ethereum/execution-specs/commit/2909015e4275d047cebfc119653c0e123c8689cd) - 2026-09-01
+* [Pull Request] [feat(tests): sweep the refund merge over every call and create opcode](https://github.com/ethereum/execution-specs/pull/3506) - 2026-09-02
+* [Pull Request] [feat(tests): cover a cross-frame state gas refund with a funded reservoir](https://github.com/ethereum/execution-specs/pull/3498) - 2026-09-02
+* [Pull Request] [feat(tests): cover a cross-frame state gas refund after a delegation spill](https://github.com/ethereum/execution-specs/pull/3499) - 2026-09-02
+* [Commit] [feat(tests): sweep the refund merge over every call and create opcode (#3506)](https://github.com/ethereum/execution-specs/commit/ad1952495186496c24721f4da2a265b1cd9ccb1c) - 2026-09-02
+* [Commit] [feat(tests): cover a cross-frame state gas refund with a funded reservoir (#3498)](https://github.com/ethereum/execution-specs/commit/8faf36a445d46a8f40ab1f4d274edcbe5a75ba17) - 2026-09-02
+* [Commit] [feat(tests): cover a cross-frame state gas refund after a delegation spill (#3499)](https://github.com/ethereum/execution-specs/commit/814b31327b2f1f139fe5ffd7fd1c2e91e8f9e7e4) - 2026-09-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
@@ -309,6 +321,10 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [Update EIP-8037: restore a frame's state-gas on rollback](https://github.com/ethereum/EIPs/pull/12256) - 2026-08-28
 * [Pull Request] [Update EIP-8037: refill state-gas for a SELFDESTRUCTed account](https://github.com/ethereum/EIPs/pull/12249) - 2026-08-27
 * [Pull Request] [Update EIP-8037: return state-gas to gas_left when a child merges](https://github.com/ethereum/EIPs/pull/12265) - 2026-08-29
+* [Review] [Review on: Update EIP-8037: note that gas_left can increase within a frame](https://github.com/ethereum/EIPs/pull/12285#pullrequestreview-5089137234) - 2026-09-02
+* [Pull Request] [Update EIP-8037: correct the general state-gas charge timing](https://github.com/ethereum/EIPs/pull/12284) - 2026-09-02
+* [Pull Request] [Update EIP-8037: remove the duplicated calldata floor note](https://github.com/ethereum/EIPs/pull/12283) - 2026-09-02
+* [Pull Request] [Update EIP-8037: remove unused evm_execution_gas_used counter](https://github.com/ethereum/EIPs/pull/12282) - 2026-09-02
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22522#pullrequestreview-4717730901) - 2026-07-16
 * [Pull Request] [types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514) - 2026-07-16
@@ -319,6 +335,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 * [Issue] [EIP-7928: BAL omits a touched RIPEMD-160 (0x03), valid block rejected](https://github.com/erigontech/erigon/issues/23670) - 2026-08-29
 * [Pull Request] [execution/vm: return state-gas to gas_left when a child merges](https://github.com/erigontech/erigon/pull/23718) - 2026-09-01
+* [Review] [Review on: execution/vm: evmone_precompiles v0.23.0](https://github.com/erigontech/erigon/pull/23231#pullrequestreview-5090811790) - 2026-09-02
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [tests: validateHeader compares baseFeePerGas with reflect.DeepEqual, so a zero base fee always fails](https://github.com/ethereum/go-ethereum/issues/35555) - 2026-08-19
 
@@ -327,6 +344,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [Amsterdam: spilled EIP-8037 state gas is credited back to the parent reservoir on halt](https://github.com/NethermindEth/nethermind/issues/12964) - 2026-08-23
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Review] [Review on: eth_simulateV1: update test_28 to remove EIP-7610 check ](https://github.com/erigontech/rpc-tests/pull/594#pullrequestreview-5091016403) - 2026-09-02
 ## Q2 2026
 
 

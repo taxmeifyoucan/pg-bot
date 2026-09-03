@@ -78,11 +78,20 @@ Team: Geth
 * [Review] [Review on: core, eth/catalyst, beacon/engine: update for glam8](https://github.com/ethereum/go-ethereum/pull/35514#pullrequestreview-4950026896) - 2026-08-17
 * [Review] [Review on: p2p, node: report an error from admin_addPeer / admin_addTrustedPeer when the server has stopped](https://github.com/ethereum/go-ethereum/pull/35513#pullrequestreview-4980111538) - 2026-08-20
 * [Review] [Review on: build, tests: update test fixture](https://github.com/ethereum/go-ethereum/pull/35601#pullrequestreview-5080225631) - 2026-09-01
+* [Review] [Review on: core/state, core/types: improve post-execution commit](https://github.com/ethereum/go-ethereum/pull/35595#pullrequestreview-5087874741) - 2026-09-02
+* [Review] [Review on: rpc: start connection faults after client setup](https://github.com/ethereum/go-ethereum/pull/35634#pullrequestreview-5088273978) - 2026-09-02
+* [Review] [Review on: internal/ethapi: avoid duplicate transfer logs in eth_simulateV1 post-Amsterdam](https://github.com/ethereum/go-ethereum/pull/35617#pullrequestreview-5088644553) - 2026-09-02
+* [Review] [Review on: core/filtermaps: fix panic when a reorg shortens the chain onto the rendered block](https://github.com/ethereum/go-ethereum/pull/35619#pullrequestreview-5088630604) - 2026-09-02
+* [Review] [Review on: docs: update mainnet storage requirements](https://github.com/ethereum/go-ethereum/pull/35624#pullrequestreview-5087943340) - 2026-09-02
+* [Review] [Review on: core/vm: repay the outstanding debt first after absorbing child frame](https://github.com/ethereum/go-ethereum/pull/35633#pullrequestreview-5087735697) - 2026-09-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 
 [ethereum/protocol-security](https://github.com/ethereum/protocol-security)
 * [Review] [Review on: Update team page](https://github.com/ethereum/protocol-security/pull/55#pullrequestreview-4875928661) - 2026-08-06
+
+[ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+* [Commit] [engine: add Rest-SSZ spec (#793)](https://github.com/ethereum/execution-apis/commit/22e87b3c689f4fd1696baf40328d3c94c02275dd) - 2026-09-02
 ## Q2 2026
 
 

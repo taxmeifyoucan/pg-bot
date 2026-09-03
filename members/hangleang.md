@@ -70,6 +70,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Issue] [Add gloas builder beacon API](https://github.com/grandinetech/grandine/issues/893) - 2026-08-31
 * [Pull Request] [Prepare next slot execution payload again after PTC votes](https://github.com/grandinetech/grandine/pull/895) - 2026-09-01
 * [Issue] [Investigate Grandine build on late payload](https://github.com/grandinetech/grandine/issues/894) - 2026-09-01
+* [Pull Request] [Prepare next slot execution payload after PTC votes and payload reveal](https://github.com/grandinetech/grandine/pull/899) - 2026-09-02
+* [Review] [Review on: Prepare next slot execution payload again after PTC votes](https://github.com/grandinetech/grandine/pull/895#pullrequestreview-5089866003) - 2026-09-02
+* [Pull Request] [Resolve commitments through Gloas block](https://github.com/grandinetech/grandine/pull/897) - 2026-09-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

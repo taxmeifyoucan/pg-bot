@@ -98,6 +98,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5068548897) - 2026-08-31
 * [Review] [Review on: Increase `MAX_SIGNED_INCLUSION_LIST_SIZE` to the worst-case size](https://github.com/ethereum/consensus-specs/pull/5576#pullrequestreview-5079908247) - 2026-09-01
 * [Review] [Review on: Move seen checks to the top of gossip validation functions](https://github.com/ethereum/consensus-specs/pull/5586#pullrequestreview-5076721275) - 2026-09-01
+* [Review] [Review on: Remove unnecessary casts](https://github.com/ethereum/consensus-specs/pull/5588#pullrequestreview-5087354048) - 2026-09-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
@@ -111,6 +112,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Pull Request] [fix: rename max IL transactions bytes constants](https://github.com/ethereum/execution-apis/pull/871) - 2026-08-28
 * [Commit] [fix: rename max IL transactions bytes constants (#871)](https://github.com/ethereum/execution-apis/commit/739f9e00806003d2204adca7595f704849b9be30) - 2026-08-28
 * [Pull Request] [Add non-zero requirements to getInclusionListV1's response](https://github.com/ethereum/execution-apis/pull/878) - 2026-09-01
+* [Review] [Review on: Add non-zero requirements to getInclusionListV1's response](https://github.com/ethereum/execution-apis/pull/878#pullrequestreview-5088044127) - 2026-09-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/pull/12029) - 2026-07-29
 * [Commit] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/commit/cff8e93347c8f6c5f30d5ae7e8875406f71179de) - 2026-07-29

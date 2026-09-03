@@ -432,6 +432,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: avoid epoch transition when validating gossip block](https://github.com/ChainSafe/lodestar/pull/9959#pullrequestreview-5075873357) - 2026-09-01
 * [Commit] [fix: ignore bids from builders exiting in the parent payload (#9954)](https://github.com/ChainSafe/lodestar/commit/9ba9a5ce851f7f32f43bdf52b9bf9dd052110a5b) - 2026-09-01
 * [Commit] [fix: pre-establish builder connections before requesting bids (#9947)](https://github.com/ChainSafe/lodestar/commit/f0f26cd2b640bc43f038f1835620ecd886070350) - 2026-09-01
+* [Review] [Review on: fix: minor improvement on ptc message gossip validation](https://github.com/ChainSafe/lodestar/pull/9969#pullrequestreview-5094986059) - 2026-09-02
+* [Review] [Review on: chore: fix sync dashboard](https://github.com/ChainSafe/lodestar/pull/9967#pullrequestreview-5088916040) - 2026-09-02
+* [Pull Request] [fix: reject bids with block_hash equal to parent_block_hash](https://github.com/ChainSafe/lodestar/pull/9972) - 2026-09-02
+* [Pull Request] [test: fail spec tests expecting an error if none is thrown](https://github.com/ChainSafe/lodestar/pull/9986) - 2026-09-02
+* [Review] [Review on: test: fail spec tests expecting an error if none is thrown](https://github.com/ChainSafe/lodestar/pull/9986#pullrequestreview-5094934323) - 2026-09-02
+* [Review] [Review on: chore(deps): bump qs from 6.15.2 to 6.16.0](https://github.com/ChainSafe/lodestar/pull/9985#pullrequestreview-5094799803) - 2026-09-02
+* [Pull Request] [fix: run cheap bid rejects before expensive validation](https://github.com/ChainSafe/lodestar/pull/9984) - 2026-09-02
+* [Review] [Review on: fix: run cheap bid rejects before expensive validation](https://github.com/ChainSafe/lodestar/pull/9984#pullrequestreview-5093735197) - 2026-09-02
+* [Review] [Review on: chore(deps): bump fastify from 5.8.5 to 5.12.1](https://github.com/ChainSafe/lodestar/pull/9977#pullrequestreview-5092903287) - 2026-09-02
+* [Commit] [test: fail spec tests expecting an error if none is thrown (#9986)](https://github.com/ChainSafe/lodestar/commit/d55b13cf5e5f282eb378de2b7aad1c2b794bfa7c) - 2026-09-02
+* [Commit] [fix: run cheap bid rejects before expensive validation (#9984)](https://github.com/ChainSafe/lodestar/commit/d00b8296c9dc88d2e3c6c01fe7c3b494d4a81149) - 2026-09-02
+* [Commit] [fix: keep event stream alive if an event can not be processed (#9964)](https://github.com/ChainSafe/lodestar/commit/7d85330f928c015202341da63624f6b00c420c43) - 2026-09-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -483,6 +495,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066970375) - 2026-08-31
 * [Pull Request] [Hex-encode only literal `ProgressiveList[Byte]` in reference tests](https://github.com/ethereum/consensus-specs/pull/5587) - 2026-09-01
 * [Commit] [Hex-encode only literal `ProgressiveList[Byte]` in reference tests (#5587)](https://github.com/ethereum/consensus-specs/commit/4813cf1f6dc9f4accf6ea43a731f4b4030388518) - 2026-09-01
+* [Pull Request] [Reject bids with `block_hash` equal to `parent_block_hash`](https://github.com/ethereum/consensus-specs/pull/5594) - 2026-09-02
+* [Review] [Review on: Reject bids with `block_hash` equal to `parent_block_hash`](https://github.com/ethereum/consensus-specs/pull/5594#pullrequestreview-5092295689) - 2026-09-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

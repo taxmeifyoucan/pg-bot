@@ -32,6 +32,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946#pullrequestreview-5030995128) - 2026-08-26
 * [Review] [Review on: Subscribe head_v2 post-Gloas](https://github.com/status-im/nimbus-eth2/pull/8949#pullrequestreview-5066211934) - 2026-08-31
 * [Review] [Review on: add payload attestation service to validator client](https://github.com/status-im/nimbus-eth2/pull/8947#pullrequestreview-5080315694) - 2026-09-01
+* [Review] [Review on: Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946#pullrequestreview-5087670469) - 2026-09-02
 ## Q2 2026
 
 

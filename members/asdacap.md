@@ -183,6 +183,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(flatdb): paced GC + gen0 fission to cut read-path GC pauses at gigagas scale](https://github.com/NethermindEth/nethermind/pull/12402#pullrequestreview-4787009033) - 2026-07-27
 * [Commit] [Batch RocksDB full enumerations (#12564)](https://github.com/NethermindEth/nethermind/commit/a335421325a8ce99ef9b3aeb7e1dc30a80c25d08) - 2026-07-27
 * [Review] [Review on: Archive(sync) : Increase receipts blocks write buffer](https://github.com/NethermindEth/nethermind/pull/12604#pullrequestreview-4808056348) - 2026-07-29
+* [Review] [Review on: test: stop the deadlock guard from ending the blocked blob update](https://github.com/NethermindEth/nethermind/pull/13089#pullrequestreview-5090200405) - 2026-09-02
+* [Pull Request] [Dispose sync peer allocations with using](https://github.com/NethermindEth/nethermind/pull/13094) - 2026-09-02
+* [Review] [Review on: Dispose sync peer allocations with using](https://github.com/NethermindEth/nethermind/pull/13094#pullrequestreview-5087771256) - 2026-09-02
 ## Q2 2026
 
 

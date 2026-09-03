@@ -55,6 +55,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [chore: v1.47.0 release](https://github.com/ChainSafe/lodestar/pull/9934) - 2026-08-27
 * [Review] [Review on: fix: ignore bids from builders exiting in the parent payload](https://github.com/ChainSafe/lodestar/pull/9954#pullrequestreview-5077886350) - 2026-09-01
 * [Review] [Review on: fix: pre-establish builder connections before requesting bids](https://github.com/ChainSafe/lodestar/pull/9947#pullrequestreview-5077817150) - 2026-09-01
+* [Commit] [chore: merge v1.47.0 back to unstable (#9971)](https://github.com/ChainSafe/lodestar/commit/67344272c007f00ab8b69417aa7fb06209c02ab4) - 2026-09-02
+* [Commit] [chore: v1.47.0 release (#9934)](https://github.com/ChainSafe/lodestar/commit/450996b13ab305b860acd131c87f799fdbfbabf0) - 2026-09-02
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: feat: grow pubkey cache by a calculated headroom](https://github.com/ChainSafe/lodestar-z/pull/480#pullrequestreview-4672499071) - 2026-07-10
 * [Review] [Review on: feat: publish ARM64 musl bindings](https://github.com/ChainSafe/lodestar-z/pull/482#pullrequestreview-4673093198) - 2026-07-10

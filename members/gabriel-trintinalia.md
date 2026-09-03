@@ -43,6 +43,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Pull Request] [fix(test): fix post nonce decoding in NonceChange in reference tests](https://github.com/besu-eth/besu/pull/11180) - 2026-08-28
 * [Commit] [fix(test): fix post nonce decoding in NonceChange in reference tests (#11180)](https://github.com/besu-eth/besu/commit/305897eaf3374c9eca5c4c0a3a8c6824c340bf69) - 2026-08-28
 * [Review] [Review on: Delete unused `TransactionSmartContractPermissioningController` class](https://github.com/besu-eth/besu/pull/11187#pullrequestreview-5056750628) - 2026-08-29
+* [Pull Request] [feat: debug_executionWitness - Simplified EIP-8025 execution witness](https://github.com/besu-eth/besu/pull/11224) - 2026-09-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896055113) - 2026-08-10
 ## Q2 2026

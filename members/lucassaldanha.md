@@ -131,6 +131,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Replace modulo test sharding with timing-based shard planning (#11204)](https://github.com/Consensys/teku/commit/5c471f32a4c282a5f432cdcf31c5f073cff00367) - 2026-09-01
 * [Pull Request] [Rename test-suite caller job keys to avoid colliding with check names](https://github.com/Consensys-Incorporated/teku/pull/11208) - 2026-09-01
 * [Commit] [Rename test-suite caller job keys to avoid colliding with check names (#11208)](https://github.com/Consensys-Incorporated/teku/commit/807a5ef5690dd7b64aedde39b8774b256310beb6) - 2026-09-01
+* [Pull Request] [Update security contact email to teku-security@consensys.com](https://github.com/Consensys-Incorporated/teku/pull/11222) - 2026-09-03
+* [Review] [Review on: Remove shuffling stable from fulu onwards](https://github.com/Consensys-Incorporated/teku/pull/11203#pullrequestreview-5085491267) - 2026-09-02
+* [Commit] [Update security contact email to teku-security@consensys.com (#11222)](https://github.com/Consensys-Incorporated/teku/commit/49029e26746796ebc63340b4ef18b90185d19efc) - 2026-09-03
 ## Q2 2026
 
 

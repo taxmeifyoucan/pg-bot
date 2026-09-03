@@ -159,6 +159,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [fix(test-specs): calculate transaction fixture gas from context](https://github.com/ethereum/execution-specs/pull/3491) - 2026-09-01
 * [Issue] [Resolve implicit gas limits in transaction tests](https://github.com/ethereum/execution-specs/issues/3489) - 2026-09-01
 * [Commit] [fix(test-specs): calculate transaction fixture gas from context (#3491)](https://github.com/ethereum/execution-specs/commit/459872749ad4a7449fa0fc7c366b771d9e8c2740) - 2026-09-01
+* [Review] [Review on: fix(tests,test-fill): fix Engine X fills on BAL forks and rebuild the drift check](https://github.com/ethereum/execution-specs/pull/3265#pullrequestreview-5089564485) - 2026-09-02
+* [Review] [Review on: fix(test-specs): fail loudly if a test sets env fields not supported by the target fork](https://github.com/ethereum/execution-specs/pull/3488#pullrequestreview-5089914799) - 2026-09-02
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

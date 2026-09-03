@@ -77,6 +77,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: Use read-only states in caches (`CheckpointStateCache` & `SyncCommitteeHeadStateCache`)](https://github.com/OffchainLabs/prysm/pull/17425#pullrequestreview-5065282183) - 2026-08-31
 * [Review] [Review on: adding lock to fix data race between file and api](https://github.com/OffchainLabs/prysm/pull/17439#pullrequestreview-5083426362) - 2026-09-01
 * [Review] [Review on: slashing protection up to date for keys added mid run](https://github.com/OffchainLabs/prysm/pull/17411#pullrequestreview-5080041241) - 2026-09-01
+* [Review] [Review on: add progressive state schema](https://github.com/OffchainLabs/prysm/pull/17358#pullrequestreview-5092228517) - 2026-09-02
+* [Pull Request] [progressive merkle proof generation ](https://github.com/OffchainLabs/prysm/pull/17444) - 2026-09-02
 ## Q2 2026
 
 

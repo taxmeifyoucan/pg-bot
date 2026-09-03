@@ -257,6 +257,10 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [fix(graphql): cap logs(filter) block range to prevent unauthenticated DoS (#114)](https://github.com/besu-eth/besu/commit/09c990476deb19163d2b21181d85e55e0a799996) - 2026-09-01
 * [Commit] [Fixes: GHSA-p6f8-q9mp-7mj9 Cap log filter addresses and apply bloom pre-filter on block import (#104)](https://github.com/besu-eth/besu/commit/dc62887182c51d186df2dca031618e8b1a460331) - 2026-09-01
 * [Commit] [Fixes: GHSA-p4h2-gvh4-pv6j reject non-empty withdrawals in BFT NotApplicableWithdrawals validator (#120)](https://github.com/besu-eth/besu/commit/ffe8104ee2c381cfe21901f70e77eca61ff9fcd3) - 2026-09-01
+* [Pull Request] [fix(validation): reject post-Shanghai blocks with withdrawalsRoot but absent body withdrawals](https://github.com/besu-eth/besu/pull/11229) - 2026-09-03
+* [Review] [Review on: fix(validation): reject post-Shanghai blocks with withdrawalsRoot but absent body withdrawals](https://github.com/besu-eth/besu/pull/11229#pullrequestreview-5096949459) - 2026-09-03
+* [Review] [Review on: Cleanup after the Engine API methods refactor](https://github.com/besu-eth/besu/pull/11205#pullrequestreview-5086774912) - 2026-09-02
+* [Review] [Review on: Complete refactor of engine_getBlobsV* methods](https://github.com/besu-eth/besu/pull/11204#pullrequestreview-5086828009) - 2026-09-02
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

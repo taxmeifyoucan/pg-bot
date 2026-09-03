@@ -72,6 +72,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [History expiry: Update to use 33024 retention window](https://github.com/besu-eth/besu/issues/11208) - 2026-09-01
 * [Review] [Review on: Remove SavePreMergeHeaderStep and test class](https://github.com/besu-eth/besu/pull/11210#pullrequestreview-5073895905) - 2026-09-01
 * [Commit] [fix(qbft/ibft2): bound prepares/round-change lists at decode](https://github.com/besu-eth/besu/commit/dd4101c9ec92716fcc22cdd825c258c67969e781) - 2026-09-01
+* [Review] [Review on: Bonsai archive proofs diff encoding](https://github.com/besu-eth/besu/pull/11091#pullrequestreview-5085129251) - 2026-09-02
 ## Q2 2026
 
 

@@ -75,6 +75,11 @@ Team: Grandine
 * [Review] [Review on: Only broadcast proposer preferences for post-Gloas slots](https://github.com/grandinetech/grandine/pull/859#pullrequestreview-5050385338) - 2026-08-28
 * [Commit] [Updated `eth2_libp2p`](https://github.com/grandinetech/grandine/commit/127d6fd490bda5625df39fb07f3a213c5745dbc6) - 2026-08-28
 * [Commit] [Check dependent roots of attestation targets for pool inclusion without performing slot processing](https://github.com/grandinetech/grandine/commit/9dc532a7031ce33dc70d42763ad028092d50d393) - 2026-08-31
+* [Review] [Review on: Raise limits for progressive containers](https://github.com/grandinetech/grandine/pull/900#pullrequestreview-5093174216) - 2026-09-02
+* [Review] [Review on: Prepare next slot execution payload again after PTC votes](https://github.com/grandinetech/grandine/pull/895#pullrequestreview-5088590037) - 2026-09-02
+* [Pull Request] [Builder deposit cache](https://github.com/grandinetech/grandine/pull/898) - 2026-09-02
+* [Review] [Review on: Resolve commitments through Gloas block](https://github.com/grandinetech/grandine/pull/897#pullrequestreview-5088371714) - 2026-09-02
+* [Commit] [Builder deposit cache](https://github.com/grandinetech/grandine/commit/272975377a7e085152092cf04141ba46b7946ce2) - 2026-09-02
 ## Q2 2026
 
 

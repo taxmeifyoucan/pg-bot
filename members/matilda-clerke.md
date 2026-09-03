@@ -55,6 +55,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMa
 * [Review] [Review on: Include compRefTests](https://github.com/Consensys/teku/pull/11134#pullrequestreview-4968014595) - 2026-08-19
 * [Review] [Review on: Include compRefTests](https://github.com/Consensys/teku/pull/11134#pullrequestreview-5013747791) - 2026-08-25
 * [Review] [Review on: Include compRefTests](https://github.com/Consensys/teku/pull/11134#pullrequestreview-5035686073) - 2026-08-26
+* [Review] [Review on: Update security contact email to teku-security@consensys.com](https://github.com/Consensys-Incorporated/teku/pull/11222#pullrequestreview-5096553806) - 2026-09-03
 ## Q2 2026
 
 

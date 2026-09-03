@@ -324,6 +324,21 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [agents: add guidelines on small, well scoped PR and stacked PRs (#23715)](https://github.com/erigontech/erigon/commit/cf8692a98c8c7f821302a4c85f1132e3950e5672) - 2026-09-01
 * [Commit] [agents: add code review guidance to not bloat scope (#23714)](https://github.com/erigontech/erigon/commit/8e5bba9dad86bda137ed93ae89de69ade3efd20c) - 2026-09-01
 * [Commit] [agents: clarify tdd usefulness so it is not overused (#23711)](https://github.com/erigontech/erigon/commit/3df22775c37c666fc053be78b7ed72d38720591b) - 2026-09-01
+* [Review] [Review on: all: upgrade minimum Go version to 1.26](https://github.com/erigontech/erigon/pull/23735#pullrequestreview-5088413162) - 2026-09-02
+* [Review] [Review on: execution/vm: evmone_precompiles v0.23.0](https://github.com/erigontech/erigon/pull/23231#pullrequestreview-5088434438) - 2026-09-02
+* [Review] [Review on: execution/types: add Bloom.AppendText](https://github.com/erigontech/erigon/pull/23736#pullrequestreview-5088418953) - 2026-09-02
+* [Pull Request] [db: less direct usages of agg for collation, state snaps, steps](https://github.com/erigontech/erigon/pull/23762) - 2026-09-02
+* [Pull Request] [ci: set hive eest devnet v8.1.3 max failures to 0](https://github.com/erigontech/erigon/pull/23750) - 2026-09-02
+* [Review] [Review on: execution: remove EIP-7610](https://github.com/erigontech/erigon/pull/23706#pullrequestreview-5091393518) - 2026-09-02
+* [Pull Request] [db/state: pass db to aggregator via funcs](https://github.com/erigontech/erigon/pull/23751) - 2026-09-02
+* [Pull Request] [ci: pin Geth used by Hive DevP2P](https://github.com/erigontech/erigon/pull/23756) - 2026-09-02
+* [Pull Request] [ci: pin Geth used by Hive DevP2P](https://github.com/erigontech/erigon/pull/23755) - 2026-09-02
+* [Commit] [ci: set hive eest devnet v8.1.3 max failures to 0 (#23750)](https://github.com/erigontech/erigon/commit/c28bf41a8e5f27b49f304714de4b68145e4067e7) - 2026-09-02
+* [Commit] [db/state: pass db to aggregator via funcs (#23751)](https://github.com/erigontech/erigon/commit/d286351c873ec5669c4f309fe12750d686f4e648) - 2026-09-02
+* [Commit] [ci: pin Geth used by Hive DevP2P (#23756)](https://github.com/erigontech/erigon/commit/541a3a62abecbe25f2a3e7ccdd7968b5fefb2eff) - 2026-09-02
+* [Commit] [ci: bump eest devnet fixtures to v8.1.3 (#23727)](https://github.com/erigontech/erigon/commit/6eb923c99b47c0a774b89ab80f4e4d969f85c8cb) - 2026-09-02
+* [Commit] [execution: follow up tidy bench guideline (#23729)](https://github.com/erigontech/erigon/commit/77f2907d6bba1fdb61486fa07f378ed5440a4bb3) - 2026-09-02
+* [Commit] [agents: add guidance to separate benches from tests (#23710)](https://github.com/erigontech/erigon/commit/a2be21f253ba0b3ab247cd055acf82b12b8b7c28) - 2026-09-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
@@ -337,6 +352,9 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [simulators/eels: optionally consume pre-staged local fixtures tar.gz (#1577)](https://github.com/ethereum/hive/commit/47b7e79aef6adf0961ca3dcdac966d9e15b9ee2b) - 2026-07-20
 * [Pull Request] [simulators/ethereum/engine: apply withdrawals CL mock config](https://github.com/ethereum/hive/pull/1604) - 2026-08-31
 * [Commit] [simulators/ethereum/engine: apply withdrawals CL mock config (#1604)](https://github.com/ethereum/hive/commit/43ea47bef5761351e3da7b726050ea80ab362c52) - 2026-08-31
+
+[erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
+* [Pull Request] [eth_simulateV1: update test_28 to remove EIP-7610 check ](https://github.com/erigontech/rpc-tests/pull/594) - 2026-09-02
 ## Q2 2026
 
 

@@ -1229,6 +1229,28 @@ Team: Erigon
 * [Commit] [common, execution, rpc: drop five wrappers over stdlib and existing deps (#23699)](https://github.com/erigontech/erigon/commit/c7513d35f1514e5f01abd23839613de4958e324d) - 2026-09-01
 * [Commit] [db/downloader: a kept local snapshot cannot upload (#23653)](https://github.com/erigontech/erigon/commit/6a4fc61618e56e46f6495d2278e89486d0e00441) - 2026-09-01
 * [Commit] [ci: pin the glamsterdam-devnet eels simulator to its fixtures tag (#23705)](https://github.com/erigontech/erigon/commit/82dffe829f5b377ffce97b677045e078d712e457) - 2026-09-01
+* [Pull Request] [execution/tracing/tracers: omit callTracer `to` on a failed CREATE](https://github.com/erigontech/erigon/pull/23765) - 2026-09-03
+* [Pull Request] [rpc: encode result into stream instead of a fresh buffer](https://github.com/erigontech/erigon/pull/23753) - 2026-09-02
+* [Pull Request] [all: upgrade minimum Go version to 1.26](https://github.com/erigontech/erigon/pull/23735) - 2026-09-02
+* [Pull Request] [downloader: report kept-local seeding dropped by shutdown](https://github.com/erigontech/erigon/pull/23745) - 2026-09-02
+* [Pull Request] [jsonstream: write a large raw payload straight to underlying writer](https://github.com/erigontech/erigon/pull/23739) - 2026-09-02
+* [Review] [Review on: jsonstream: write a large raw payload straight to underlying writer](https://github.com/erigontech/erigon/pull/23739#pullrequestreview-5097047384) - 2026-09-03
+* [Review] [Review on: db/kv/prune: check the progress-log ticker every 1024 keys, not per key](https://github.com/erigontech/erigon/pull/23741#pullrequestreview-5089698268) - 2026-09-02
+* [Review] [Review on: execution/vm: evmone_precompiles v0.23.0](https://github.com/erigontech/erigon/pull/23231#pullrequestreview-5088730261) - 2026-09-02
+* [Review] [Review on: execution/stagedsync: at a step boundary, rehash only the accounts changed since the previous one](https://github.com/erigontech/erigon/pull/23657#pullrequestreview-5097049357) - 2026-09-03
+* [Review] [Review on: execution/commitment: let trie warmup borrow branch bytes instead of copying them](https://github.com/erigontech/erigon/pull/23585#pullrequestreview-5086924827) - 2026-09-02
+* [Pull Request] [execution/types: add Bloom.AppendText](https://github.com/erigontech/erigon/pull/23736) - 2026-09-02
+* [Review] [Review on: ci: set hive eest devnet v8.1.3 max failures to 0](https://github.com/erigontech/erigon/pull/23750#pullrequestreview-5090598296) - 2026-09-02
+* [Review] [Review on: db/state: pass db to aggregator via funcs](https://github.com/erigontech/erigon/pull/23751#pullrequestreview-5090603521) - 2026-09-02
+* [Pull Request] [node/debug: derive GOMEMLIMIT from the cgroup limit when unset](https://github.com/erigontech/erigon/pull/23757) - 2026-09-02
+* [Pull Request] [db/kv/mdbx: io_uring warmup for multi-page values](https://github.com/erigontech/erigon/pull/23743) - 2026-09-02
+* [Issue] [rpc: JSON-RPC divergences from geth and reth](https://github.com/erigontech/erigon/issues/23733) - 2026-09-02
+* [Commit] [db/downloader: bound kept-snapshot seeding and rebuild malformed metainfo (#23459)](https://github.com/erigontech/erigon/commit/8353a4dacfd444d54c1330398c812276cb806fec) - 2026-09-02
+* [Commit] [cache: don't copy when moving values from `kv.TemporalMemBatch` to `lru` (#23664)](https://github.com/erigontech/erigon/commit/887805538996794d89cba4664444d55fd1995bb1) - 2026-09-02
+* [Commit] [go.mod: up deps before 3.7 release (#23661)](https://github.com/erigontech/erigon/commit/2d4c38685aa05f2f67f30bfc10fa7e0603fcc90f) - 2026-09-02
+* [Commit] [build, db, execution, cl, p2p, rpc, txnprovider: enable staticcheck (SA + S1) and fix what it found (#23652)](https://github.com/erigontech/erigon/commit/073bc04f0da7d4b6f2e18ca240ded5c9deb0d7d6) - 2026-09-02
+* [Commit] [exec: rewrite the fee credit in place (#23703)](https://github.com/erigontech/erigon/commit/3c92e306e138ea5ec45d30817a1d78bc9bcf505c) - 2026-09-02
+* [Commit] [experiments: `USE_CODE_STORE=false` to solve OOM of unit-tests (#23666)](https://github.com/erigontech/erigon/commit/5ac68c629e9a25131fa4629001645b400f3bfb4b) - 2026-09-02
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

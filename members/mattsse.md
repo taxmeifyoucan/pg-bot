@@ -482,6 +482,60 @@ Team: Reth
 * [Commit] [fix(engine): keep tree alive on invalid downloads (#26901)](https://github.com/paradigmxyz/reth/commit/00d9e9e1cf654c8aa5cdf4acc5be3ea549a45b4b) - 2026-09-01
 * [Commit] [chore(rpc): fix unused ChainBlockTraceResult import warning (#26869)](https://github.com/paradigmxyz/reth/commit/498847cb2e2847c8740d2e9f4a35ea4c67f09a5c) - 2026-09-01
 * [Commit] [fix(engine): return invalid for undecodable block access lists (#26889)](https://github.com/paradigmxyz/reth/commit/8ead4dc94857a5f3d152ee6f7611e755dde3947e) - 2026-09-01
+* [Pull Request] [perf(storage): resolve history visible tip lazily](https://github.com/paradigmxyz/reth/pull/26948) - 2026-09-02
+* [Review] [Review on: perf(storage): resolve history visible tip lazily](https://github.com/paradigmxyz/reth/pull/26948#pullrequestreview-5097150810) - 2026-09-03
+* [Pull Request] [fix(txpool): correct stale state flags on fee updates](https://github.com/paradigmxyz/reth/pull/26974) - 2026-09-03
+* [Pull Request] [fix(txpool): park pending blob txs when the blob fee rises and the base fee falls](https://github.com/paradigmxyz/reth/pull/26962) - 2026-09-03
+* [Review] [Review on: fix(txpool): park pending blob txs when the blob fee rises and the base fee falls](https://github.com/paradigmxyz/reth/pull/26962#pullrequestreview-5096984891) - 2026-09-03
+* [Pull Request] [perf(txpool): use a binary heap for the independent tx set](https://github.com/paradigmxyz/reth/pull/26957) - 2026-09-02
+* [Review] [Review on: perf(txpool): use a binary heap for the independent tx set](https://github.com/paradigmxyz/reth/pull/26957#pullrequestreview-5097023938) - 2026-09-03
+* [Pull Request] [chore(trie): remove redundant clone flagged by nightly clippy](https://github.com/paradigmxyz/reth/pull/26979) - 2026-09-03
+* [Pull Request] [perf(txpool): track highest nonce per sender on fee rebuild](https://github.com/paradigmxyz/reth/pull/26978) - 2026-09-03
+* [Pull Request] [perf(engine): block on serial fallback instead of sleep-polling](https://github.com/paradigmxyz/reth/pull/26966) - 2026-09-03
+* [Review] [Review on: perf(engine): block on serial fallback instead of sleep-polling](https://github.com/paradigmxyz/reth/pull/26966#pullrequestreview-5096945118) - 2026-09-03
+* [Pull Request] [perf(provider): avoid hash map for dense sender range](https://github.com/paradigmxyz/reth/pull/26976) - 2026-09-03
+* [Pull Request] [perf(trie): evaluate should_retain once per committed proof child](https://github.com/paradigmxyz/reth/pull/26973) - 2026-09-03
+* [Pull Request] [perf(rpc): build txpool_contentFrom from the sender's transactions](https://github.com/paradigmxyz/reth/pull/26969) - 2026-09-03
+* [Review] [Review on: perf(rpc): build txpool_contentFrom from the sender's transactions](https://github.com/paradigmxyz/reth/pull/26969#pullrequestreview-5096940616) - 2026-09-03
+* [Pull Request] [perf(net): avoid quadratic cells sizing and presize responses](https://github.com/paradigmxyz/reth/pull/26965) - 2026-09-03
+* [Review] [Review on: perf(net): avoid quadratic cells sizing and presize responses](https://github.com/paradigmxyz/reth/pull/26965#pullrequestreview-5096940565) - 2026-09-03
+* [Pull Request] [perf(nippy-jar): allocate cursor scratch buffer lazily](https://github.com/paradigmxyz/reth/pull/26975) - 2026-09-03
+* [Pull Request] [perf(txpool): use next_back to find the highest remaining nonce](https://github.com/paradigmxyz/reth/pull/26964) - 2026-09-03
+* [Review] [Review on: perf(txpool): use next_back to find the highest remaining nonce](https://github.com/paradigmxyz/reth/pull/26964#pullrequestreview-5096929493) - 2026-09-03
+* [Pull Request] [perf(rpc): update eth cache gauges once per drained batch](https://github.com/paradigmxyz/reth/pull/26968) - 2026-09-03
+* [Review] [Review on: perf(rpc): update eth cache gauges once per drained batch](https://github.com/paradigmxyz/reth/pull/26968#pullrequestreview-5096892604) - 2026-09-03
+* [Pull Request] [fix(dns): keep rechecking a tree whose root did not change](https://github.com/paradigmxyz/reth/pull/26937) - 2026-09-02
+* [Review] [Review on: fix(dns): keep rechecking a tree whose root did not change](https://github.com/paradigmxyz/reth/pull/26937#pullrequestreview-5096887520) - 2026-09-03
+* [Pull Request] [perf(ipc): avoid copying IPC subscription payloads](https://github.com/paradigmxyz/reth/pull/26972) - 2026-09-03
+* [Pull Request] [perf(static-file): amortize cursor creation in fetch_range_iter](https://github.com/paradigmxyz/reth/pull/26970) - 2026-09-03
+* [Pull Request] [perf(rpc): bound getLogs range header capacity by remaining headers](https://github.com/paradigmxyz/reth/pull/26971) - 2026-09-03
+* [Pull Request] [perf(db): use FxHashMap for cached MDBX dbi lookups](https://github.com/paradigmxyz/reth/pull/26967) - 2026-09-03
+* [Pull Request] [perf(trie): reuse one empty prefix set per state root walk](https://github.com/paradigmxyz/reth/pull/26963) - 2026-09-03
+* [Pull Request] [perf(trie): preallocate branch node hashes vec](https://github.com/paradigmxyz/reth/pull/26961) - 2026-09-03
+* [Pull Request] [perf(trie): keep changed leaf values inline in LeafUpdate](https://github.com/paradigmxyz/reth/pull/26954) - 2026-09-02
+* [Pull Request] [perf(txpool): only visit changed senders when the fees did not move](https://github.com/paradigmxyz/reth/pull/26956) - 2026-09-02
+* [Pull Request] [perf(engine): track drained storage tries instead of rescanning](https://github.com/paradigmxyz/reth/pull/26958) - 2026-09-02
+* [Pull Request] [perf(engine): batch BAL prewarm slot dispatch](https://github.com/paradigmxyz/reth/pull/26955) - 2026-09-02
+* [Pull Request] [perf(evm): derive newPayload tx hash from the raw bytes](https://github.com/paradigmxyz/reth/pull/26952) - 2026-09-02
+* [Pull Request] [perf(stages): avoid cloning ExecutionOutcome for ExEx notification](https://github.com/paradigmxyz/reth/pull/26947) - 2026-09-02
+* [Pull Request] [perf(tracing): avoid allocating formatted log fields](https://github.com/paradigmxyz/reth/pull/26953) - 2026-09-02
+* [Pull Request] [perf(static-files): return jar rows without allocating](https://github.com/paradigmxyz/reth/pull/26951) - 2026-09-02
+* [Pull Request] [perf(stages): use fast hasher for history index caches](https://github.com/paradigmxyz/reth/pull/26950) - 2026-09-02
+* [Pull Request] [perf(engine): skip prewarm tx clones when nothing consumes them](https://github.com/paradigmxyz/reth/pull/26944) - 2026-09-02
+* [Pull Request] [perf(exex): buffer WAL notification serialization](https://github.com/paradigmxyz/reth/pull/26949) - 2026-09-02
+* [Pull Request] [perf(rpc): bloom-filter blocks in log subscriptions and getLogs by hash](https://github.com/paradigmxyz/reth/pull/26946) - 2026-09-02
+* [Pull Request] [perf(net): skip per-peer propagation tracking without pool listeners](https://github.com/paradigmxyz/reth/pull/26945) - 2026-09-02
+* [Review] [Review on: perf(net): skip per-peer propagation tracking without pool listeners](https://github.com/paradigmxyz/reth/pull/26945#pullrequestreview-5097197075) - 2026-09-03
+* [Pull Request] [perf(static-files): use btree range lookup for block index](https://github.com/paradigmxyz/reth/pull/26943) - 2026-09-02
+* [Pull Request] [perf(rpc): store fee history entries behind Arc](https://github.com/paradigmxyz/reth/pull/26942) - 2026-09-02
+* [Pull Request] [perf(db): use TSC-backed clock for transaction start time](https://github.com/paradigmxyz/reth/pull/26941) - 2026-09-02
+* [Pull Request] [perf(trie): reuse address hash across storage changeset rows](https://github.com/paradigmxyz/reth/pull/26940) - 2026-09-02
+* [Pull Request] [perf(evm): reuse receipt blooms for the block logs bloom](https://github.com/paradigmxyz/reth/pull/26939) - 2026-09-02
+* [Pull Request] [perf(trie): avoid formatting storage root for disabled span](https://github.com/paradigmxyz/reth/pull/26938) - 2026-09-02
+* [Pull Request] [perf(discv4): read the discovery socket from several tasks](https://github.com/paradigmxyz/reth/pull/26936) - 2026-09-02
+* [Issue] [txpool: blob-pool transactions keep a stale ENOUGH_BLOB_FEE_CAP_BLOCK when the blob fee rises](https://github.com/paradigmxyz/reth/issues/26977) - 2026-09-03
+* [Issue] [txpool: base fee rise clears ENOUGH_FEE_CAP_BLOCK on dependents that satisfy the fee](https://github.com/paradigmxyz/reth/issues/26960) - 2026-09-03
+* [Issue] [txpool: blob fee rise is skipped when the base fee falls in the same block](https://github.com/paradigmxyz/reth/issues/26959) - 2026-09-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

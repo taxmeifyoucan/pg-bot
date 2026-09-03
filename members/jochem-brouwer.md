@@ -114,6 +114,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-867: Move to Draft](https://github.com/ethereum/EIPs/pull/9594#pullrequestreview-5084966421) - 2026-09-02
 * [Review] [Review on: Update EIP-7784: Move to Last Call](https://github.com/ethereum/EIPs/pull/9992#pullrequestreview-5084935036) - 2026-09-02
 * [Review] [Review on: Add EIP: Top-up Sync](https://github.com/ethereum/EIPs/pull/12154#pullrequestreview-5084882552) - 2026-09-02
+* [Review] [Review on: Add EIP: Top-up Sync](https://github.com/ethereum/EIPs/pull/12154#pullrequestreview-5093431747) - 2026-09-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03
@@ -163,6 +164,9 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Commit] [perf(test-type): cache ecrecover and optimize function calls to ecrecover (#3431)](https://github.com/ethereum/execution-specs/commit/786c0d4a29c04ce68fc0216dded088d21970be79) - 2026-08-24
 * [Commit] [perf(test-client-cli): skip redundant BAL hash (#3430)](https://github.com/ethereum/execution-specs/commit/b6209f28e4254bbea71fc339e93d6c79b5e20c34) - 2026-08-24
 * [Review] [Review on: feat(tests): expand create collision matrix and add balance-only cases](https://github.com/ethereum/execution-specs/pull/3425#pullrequestreview-5028538900) - 2026-08-26
+* [Pull Request] [fix(fill): re-anchor start_block under `--no-reset-between-tests`](https://github.com/ethereum/execution-specs/pull/3507) - 2026-09-02
+* [Pull Request] [fix(fill): warn and discard a partial opcode trace instead of reporting it](https://github.com/ethereum/execution-specs/pull/3505) - 2026-09-02
+* [Pull Request] [fix(execute): derive the EOA start key instead of randomising it](https://github.com/ethereum/execution-specs/pull/3504) - 2026-09-02
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Add testing_commitBlockV1 RPC Method](https://github.com/ethereum/execution-apis/pull/787#pullrequestreview-4780467449) - 2026-07-25
 

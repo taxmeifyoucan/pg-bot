@@ -205,6 +205,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: Bump consensus spec to v1.7.0-alpha.13](https://github.com/OffchainLabs/prysm/pull/17382#pullrequestreview-5079700902) - 2026-09-01
 * [Review] [Review on: Pack Electra attestations by marginal proposer reward](https://github.com/OffchainLabs/prysm/pull/17416#pullrequestreview-5073457322) - 2026-09-01
 * [Commit] [adding lock to fix data race between file and api (#17439)](https://github.com/OffchainLabs/prysm/commit/402fdb1b25270037fd9ab8547841a3564770c430) - 2026-09-01
+* [Pull Request] [add explicit payload envelope checks](https://github.com/OffchainLabs/prysm/pull/17445) - 2026-09-02
+* [Review] [Review on: removing TODO, and have wait for activation depend on health tracker](https://github.com/OffchainLabs/prysm/pull/17369#pullrequestreview-5095217071) - 2026-09-02
 ## Q2 2026
 
 

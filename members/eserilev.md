@@ -136,6 +136,12 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Cache pending deposit signatures for builder onboarding at the gloas fork](https://github.com/sigp/lighthouse/pull/9817#pullrequestreview-5060220737) - 2026-08-30
 * [Issue] [Ensure `GET /eth/v1/beacon/blobs/{block_id}` endpoint conforms to spec](https://github.com/sigp/lighthouse/issues/9941) - 2026-08-30
 * [Issue] [Gloas builder deposit cache seeds the whole pending deposit queue](https://github.com/sigp/lighthouse/issues/9943) - 2026-08-30
+* [Review] [Review on: Add IL committee duties polling to the VC](https://github.com/sigp/lighthouse/pull/9799#pullrequestreview-5095082213) - 2026-09-02
+* [Review] [Review on: Fix false peer penalties during Gloas custody backfill](https://github.com/sigp/lighthouse/pull/9953#pullrequestreview-5094744341) - 2026-09-02
+* [Review] [Review on: Fix blob ordering when filtering blobs by versioned hash](https://github.com/sigp/lighthouse/pull/9944#pullrequestreview-5094995258) - 2026-09-02
+* [Review] [Review on: Add support for engine_getInclusionListV1](https://github.com/sigp/lighthouse/pull/9749#pullrequestreview-5094910523) - 2026-09-02
+* [Review] [Review on: fork choice compliance tests](https://github.com/sigp/lighthouse/pull/9710#pullrequestreview-5093227935) - 2026-09-02
+* [Pull Request] [Clean up fork choice ef tests](https://github.com/sigp/lighthouse/pull/9965) - 2026-09-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

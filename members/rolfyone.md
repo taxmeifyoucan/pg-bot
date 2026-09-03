@@ -176,6 +176,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Commit] [Remote validator client: use v2 proposer duties endpoint from Fulu (#11164)](https://github.com/Consensys/teku/commit/4edec7fd59675daa71bfb3f5a179b1531811737f) - 2026-08-28
 * [Review] [Review on: Staked Builder API REST Client](https://github.com/Consensys/teku/pull/11026#pullrequestreview-5070717825) - 2026-08-31
 * [Review] [Review on: Update actions/setup-java action to v6](https://github.com/Consensys-Incorporated/teku/pull/11207#pullrequestreview-5082517197) - 2026-09-01
+* [Review] [Review on: Update security contact email to teku-security@consensys.com](https://github.com/Consensys-Incorporated/teku/pull/11222#pullrequestreview-5096687422) - 2026-09-03
+* [Review] [Review on: Fix dropping from SYNCING to IN_SYNC while far behind the head](https://github.com/Consensys-Incorporated/teku/pull/11219#pullrequestreview-5096087362) - 2026-09-02
+* [Review] [Review on: update ephemery references to the "standardized format"](https://github.com/Consensys-Incorporated/teku/pull/11216#pullrequestreview-5096080419) - 2026-09-02
+* [Review] [Review on: update: chiado bootnodes](https://github.com/Consensys-Incorporated/teku/pull/11218#pullrequestreview-5095942702) - 2026-09-02
+* [Review] [Review on: Switch to cheaper getStateByRoot in validators](https://github.com/Consensys-Incorporated/teku/pull/11215#pullrequestreview-5085178235) - 2026-09-02
+* [Review] [Review on: update for the runners](https://github.com/Consensys-Incorporated/teku/pull/11217#pullrequestreview-5086452580) - 2026-09-02
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

@@ -615,6 +615,15 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db: align full retention with CL block request window](https://github.com/erigontech/erigon/pull/23708#pullrequestreview-5078815353) - 2026-09-01
 * [Pull Request] [execution/p2p: bound BlockBodies response decoding](https://github.com/erigontech/erigon/pull/23712) - 2026-09-01
 * [Review] [Review on: ci: pin the glamsterdam-devnet eels simulator to its fixtures tag](https://github.com/erigontech/erigon/pull/23705#pullrequestreview-5076655418) - 2026-09-01
+* [Review] [Review on: execution/vm: evmone_precompiles v0.23.0](https://github.com/erigontech/erigon/pull/23231#pullrequestreview-5090495009) - 2026-09-02
+* [Review] [Review on: execution/execmodule: benchmark the engine_newPayload validation window](https://github.com/erigontech/erigon/pull/23738#pullrequestreview-5091204903) - 2026-09-02
+* [Pull Request] [cl/clparams: honor MIN_EPOCHS_FOR_BLOCK_REQUESTS](https://github.com/erigontech/erigon/pull/23761) - 2026-09-02
+* [Review] [Review on: execution/p2p: validate BlockBodies before materialization](https://github.com/erigontech/erigon/pull/23712#pullrequestreview-5089456053) - 2026-09-02
+* [Review] [Review on: execution: remove EIP-7610](https://github.com/erigontech/erigon/pull/23706#pullrequestreview-5089686220) - 2026-09-02
+* [Review] [Review on: db, rpc: align default prune window with CL block requests](https://github.com/erigontech/erigon/pull/23708#pullrequestreview-5090438271) - 2026-09-02
+* [Review] [Review on: [r3.6] cl/network: fix blob history backfill boundary and sparse-peer startup](https://github.com/erigontech/erigon/pull/23732#pullrequestreview-5090586401) - 2026-09-02
+* [Review] [Review on: cl/forkchoice: reuse Gloas contribution capacity](https://github.com/erigontech/erigon/pull/23731#pullrequestreview-5090453705) - 2026-09-02
+* [Issue] [cl/blob_storage: pruning rejects writes inside the non-archive backfill window](https://github.com/erigontech/erigon/issues/23752) - 2026-09-02
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

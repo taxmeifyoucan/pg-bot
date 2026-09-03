@@ -287,6 +287,13 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(engine): align SSZ-REST surface with execution-apis#793](https://github.com/NethermindEth/nethermind/pull/13023#pullrequestreview-5060251794) - 2026-08-30
 * [Review] [Review on: fix(eth72): announce the blob-elided network size, not the consensus size](https://github.com/NethermindEth/nethermind/pull/13049#pullrequestreview-5066772554) - 2026-08-31
 * [Review] [Review on: fix(engine): enforce MaxBlobsRequest in GetBlobs SSZ handlers](https://github.com/NethermindEth/nethermind/pull/13050#pullrequestreview-5066757502) - 2026-08-31
+* [Pull Request] [Enable nullables in EVM, Trie, and State](https://github.com/NethermindEth/nethermind/pull/13099) - 2026-09-02
+* [Review] [Review on: Enable nullables in EVM, Trie, and State](https://github.com/NethermindEth/nethermind/pull/13099#pullrequestreview-5090539412) - 2026-09-02
+* [Pull Request] [Align Bootnode releases with Nethermind versions](https://github.com/NethermindEth/nethermind/pull/13103) - 2026-09-02
+* [Review] [Review on: Align Bootnode releases with Nethermind versions](https://github.com/NethermindEth/nethermind/pull/13103#pullrequestreview-5090769196) - 2026-09-02
+* [Review] [Review on: chore: make Nethermind.Stateless.Executor lint clean](https://github.com/NethermindEth/nethermind/pull/13031#pullrequestreview-5089387211) - 2026-09-02
+* [Commit] [Enable nullables in 7 foundation projects (#12155)](https://github.com/NethermindEth/nethermind/commit/01638962f229f533dddc61232db9788bb444da70) - 2026-09-02
+* [Commit] [Support dual-stack ENR advertisement (#12679)](https://github.com/NethermindEth/nethermind/commit/0b1dfebc58c6e9fd947d8d57c3a9e1a44a6df2c7) - 2026-09-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

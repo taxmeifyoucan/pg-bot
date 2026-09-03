@@ -60,6 +60,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Verify payload attestation signatures on RPC submission](https://github.com/OffchainLabs/prysm/pull/17363) - 2026-08-14
 * [Pull Request] [[WIP] Backfill Gloas execution payload envelopes alongside blocks](https://github.com/OffchainLabs/prysm/pull/17394) - 2026-08-21
 * [Pull Request] [Use value slices for epoch-precompute validators and Altair attestation deltas](https://github.com/OffchainLabs/prysm/pull/17438) - 2026-09-01
+* [Pull Request] [Fix activation and exit queue ordering in GetValidatorQueue](https://github.com/OffchainLabs/prysm/pull/17442) - 2026-09-02
 ## Q2 2026
 
 

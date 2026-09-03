@@ -259,6 +259,10 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [fix(rpc): omit `to` on failed top-level CREATE frames in callTracer (#13078)](https://github.com/NethermindEth/nethermind/commit/5112c19fd3381a91b7fd3b04141cfa1babd272d6) - 2026-09-01
 * [Commit] [perf(zkevm): compile the guest's metric counters away (#13077)](https://github.com/NethermindEth/nethermind/commit/0f81d48f0237142dcd7cdf72ae6c98071b700a9b) - 2026-09-01
 * [Commit] [perf(zkevm): stop copying witness elements into the guest databases (#13076)](https://github.com/NethermindEth/nethermind/commit/57ff4693784c431d5600e00ca99feaf12dc10867) - 2026-09-01
+* [Review] [Review on: perf(zkevm): build with -Ot and drop single-thread locks from TrieNode](https://github.com/NethermindEth/nethermind/pull/13086#pullrequestreview-5087798016) - 2026-09-02
+* [Review] [Review on: test: stop the deadlock guard from ending the blocked blob update](https://github.com/NethermindEth/nethermind/pull/13089#pullrequestreview-5087719971) - 2026-09-02
+* [Commit] [test: stop the deadlock guard from ending the blocked blob update (#13089)](https://github.com/NethermindEth/nethermind/commit/f435962c81866c9cd96d2bf1097dcbe28cd61639) - 2026-09-02
+* [Commit] [ci: fall back to the base EVM benchmark harness when the PR harness will not compile (#13088)](https://github.com/NethermindEth/nethermind/commit/53712a7f9290f7f1379df1c57993b2171e163d2d) - 2026-09-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08
@@ -268,6 +272,15 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 
 [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64)
 * [Issue] [riscv64 codegen: constant rematerialization, redundant width conversions, and memory round-trips measured on the ZisK guest](https://github.com/NethermindEth/bflat-riscv64/issues/40) - 2026-09-02
+
+* [Issue] [dotnet-riscv v10.0.0.p4 blobs: musl/toolchain archives ship compressed+atomic instructions; guest measures ~1.8% slower than p3](https://github.com/NethermindEth/bflat-riscv64/issues/41) - 2026-09-02
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Pull Request] [Update EIP-8025: require seeded container hashing in the guest](https://github.com/ethereum/EIPs/pull/12289) - 2026-09-02
+* [Pull Request] [Update EIP-8025: require seeded container hashing in the guest](https://github.com/ethereum/EIPs/pull/12288) - 2026-09-02
+* [Pull Request] [Update EIP-8025: add a prover-supplied hash seed to StatelessInput](https://github.com/ethereum/EIPs/pull/12286) - 2026-09-02
+
+[nethermindeth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv)
+* [Pull Request] [perf(riscv64): elide provably redundant extension casts (fixups 36 + 37)](https://github.com/NethermindEth/dotnet-riscv/pull/8) - 2026-09-02
 ## Q2 2026
 
 

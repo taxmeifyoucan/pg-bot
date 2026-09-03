@@ -83,6 +83,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Validator client publishes legacy registrations after Gloas](https://github.com/sigp/lighthouse/pull/9939#pullrequestreview-5073855015) - 2026-09-01
 * [Review] [Review on: Fix slot lookup immediately after a head event](https://github.com/sigp/lighthouse/pull/9931#pullrequestreview-5073875980) - 2026-09-01
 * [Review] [Review on: Fix false peer penalties during Gloas custody backfill](https://github.com/sigp/lighthouse/pull/9953#pullrequestreview-5073717199) - 2026-09-01
+* [Review] [Review on: Re-enable optimistic sync for Gloas payload envelopes](https://github.com/sigp/lighthouse/pull/9934#pullrequestreview-5088002253) - 2026-09-02
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31

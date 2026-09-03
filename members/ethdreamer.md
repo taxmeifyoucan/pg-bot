@@ -36,6 +36,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethD
 * [Pull Request] [Fix clippy lints for Rust 1.98](https://github.com/sigp/lighthouse/pull/9897) - 2026-08-20
 * [Review] [Review on: Add Gloas bid selection, block production, and bid gossip processing (Gloas builder API 3/5)](https://github.com/sigp/lighthouse/pull/9805#pullrequestreview-5021636425) - 2026-08-25
 * [Review] [Review on: Add Gloas bid selection, block production, and bid gossip processing (Gloas builder API 3/5)](https://github.com/sigp/lighthouse/pull/9805#pullrequestreview-5034962304) - 2026-08-26
+* [Review] [Review on: Add Gloas bid selection, block production, and bid gossip processing (Gloas builder API 3/5)](https://github.com/sigp/lighthouse/pull/9805#pullrequestreview-5092391987) - 2026-09-02
 ## Q2 2026
 
 

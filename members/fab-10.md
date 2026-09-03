@@ -188,6 +188,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Review] [Review on: Cleanup after the Engine API methods refactor](https://github.com/besu-eth/besu/pull/11205#pullrequestreview-5075649796) - 2026-09-01
 * [Review] [Review on: Revert "return INVALID for undecodable blockAccessList (#11177)"](https://github.com/besu-eth/besu/pull/11219#pullrequestreview-5076750726) - 2026-09-01
 * [Commit] [Set a limit to accepted tx max size in bytes (#74)](https://github.com/besu-eth/besu/commit/3ec1bce7ed77de097b6237f7a83be1122a164b3a) - 2026-09-01
+* [Review] [Review on: Complete refactor of engine_getBlobsV* methods](https://github.com/besu-eth/besu/pull/11204#pullrequestreview-5087122104) - 2026-09-02
+* [Commit] [Cleanup after the Engine API methods refactor (#11205)](https://github.com/besu-eth/besu/commit/260f602a318160159ab43e591f9a5a60b19c71ee) - 2026-09-02
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

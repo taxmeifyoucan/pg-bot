@@ -245,6 +245,21 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [fix(rpc): carry frame receipts through debug_insertReceipts](https://github.com/NethermindEth/nethermind/pull/13025) - 2026-08-28
 * [Review] [Review on: fix(rpc): carry frame receipts through debug_insertReceipts](https://github.com/NethermindEth/nethermind/pull/13025#pullrequestreview-5051857126) - 2026-08-28
 * [Commit] [perf(ssz): back stateless public keys with an inline-array vector (#12928)](https://github.com/NethermindEth/nethermind/commit/740ea7c3e73b725931205a00fa460b822560a94e) - 2026-08-28
+* [Pull Request] [Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13096) - 2026-09-02
+* [Review] [Review on: Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13096#pullrequestreview-5089345440) - 2026-09-02
+* [Pull Request] [fix(engine): apply custody columns on forkchoiceUpdatedV5](https://github.com/NethermindEth/nethermind/pull/13109) - 2026-09-02
+* [Pull Request] [Keep a frame transaction's paymaster across a restart](https://github.com/NethermindEth/nethermind/pull/13107) - 2026-09-02
+* [Review] [Review on: Keep a frame transaction's paymaster across a restart](https://github.com/NethermindEth/nethermind/pull/13107#pullrequestreview-5092476540) - 2026-09-02
+* [Pull Request] [refactor(txpool): spell the prefix frame gas and pay frame one way](https://github.com/NethermindEth/nethermind/pull/13108) - 2026-09-02
+* [Pull Request] [fix(focil): accept the parent block hash on engine_getInclusionListV1](https://github.com/NethermindEth/nethermind/pull/13097) - 2026-09-02
+* [Review] [Review on: fix(focil): accept the parent block hash on engine_getInclusionListV1](https://github.com/NethermindEth/nethermind/pull/13097#pullrequestreview-5089172954) - 2026-09-02
+* [Pull Request] [test(sync): let Retry absorb an E2E sync timeout](https://github.com/NethermindEth/nethermind/pull/13105) - 2026-09-02
+* [Review] [Review on: test(sync): let Retry absorb an E2E sync timeout](https://github.com/NethermindEth/nethermind/pull/13105#pullrequestreview-5092481245) - 2026-09-02
+* [Review] [Review on: fix: honour engine fixture errorCode instead of accepting any RPC error](https://github.com/NethermindEth/nethermind/pull/12783#pullrequestreview-5091364069) - 2026-09-02
+* [Pull Request] [Drop the gap marker from the frame receipt derivation note](https://github.com/NethermindEth/nethermind/pull/13106) - 2026-09-02
+* [Review] [Review on: Keep a frame transaction payer's mempool exposure across a restart](https://github.com/NethermindEth/nethermind/pull/12897#pullrequestreview-5089585809) - 2026-09-02
+* [Commit] [chore: make Nethermind.Stateless.Executor lint clean (#13031)](https://github.com/NethermindEth/nethermind/commit/9cbbdadc15af044d2bda18a35be507d296a6c3d6) - 2026-09-02
+* [Commit] [fix: skip corrupt light blob tx records instead of aborting pool restore (#13032)](https://github.com/NethermindEth/nethermind/commit/a267a72c79845de63ace3709d124df6d9085fe01) - 2026-09-02
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 
@@ -284,6 +299,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [feat(specs,tests): dispatch a precompile a VERIFY frame targets](https://github.com/ethereum/execution-specs/pull/3407) - 2026-08-20
 * [Pull Request] [fix(specs,tests): widen a frame transaction's chain id to 256 bits](https://github.com/ethereum/execution-specs/pull/3428) - 2026-08-24
 * [Pull Request] [fix(client-clis): map frame transaction rejections in the Nethermind mapper](https://github.com/ethereum/execution-specs/pull/3467) - 2026-08-28
+* [Pull Request] [fix(tests): skip inclusion-list variants whose entry cannot fit a list](https://github.com/ethereum/execution-specs/pull/3502) - 2026-09-02
+* [Pull Request] [fix(tests): stop test_tx_gas_limit opting into an inclusion-list variant](https://github.com/ethereum/execution-specs/pull/3503) - 2026-09-02
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Pull Request] [engine: specify behaviour for an oversized aggregated inclusion list](https://github.com/ethereum/execution-apis/pull/864) - 2026-08-20
 ## Q2 2026
