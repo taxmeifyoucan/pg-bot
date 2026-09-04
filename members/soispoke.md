@@ -56,6 +56,7 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Pull Request] [Update EIP-8369: Clarify EIP-8369 review follow-ups](https://github.com/ethereum/EIPs/pull/12280) - 2026-09-02
 * [Commit] [Update EIP-8250: charge keyed nonce first use as state gas](https://github.com/ethereum/EIPs/commit/94f5a3e3c146c28625d9ab2f8a7c0a848530a13a) - 2026-09-02
 * [Commit] [Update EIP-8369: Clarify EIP-8369 review follow-ups](https://github.com/ethereum/EIPs/commit/51dc7b939adae83369e1bf37b9ad71a3b190cd00) - 2026-09-02
+* [Pull Request] [Update EIP-8272: Add lightclient as a co-author](https://github.com/ethereum/EIPs/pull/12294) - 2026-09-03
 ## Q2 2026
 
 

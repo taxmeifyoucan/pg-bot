@@ -161,6 +161,11 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Commit] [fix(test-specs): calculate transaction fixture gas from context (#3491)](https://github.com/ethereum/execution-specs/commit/459872749ad4a7449fa0fc7c366b771d9e8c2740) - 2026-09-01
 * [Review] [Review on: fix(tests,test-fill): fix Engine X fills on BAL forks and rebuild the drift check](https://github.com/ethereum/execution-specs/pull/3265#pullrequestreview-5089564485) - 2026-09-02
 * [Review] [Review on: fix(test-specs): fail loudly if a test sets env fields not supported by the target fork](https://github.com/ethereum/execution-specs/pull/3488#pullrequestreview-5089914799) - 2026-09-02
+* [Pull Request] [fix(ci): authenticate simulator-build clones with `github.token`](https://github.com/ethereum/execution-specs/pull/3516) - 2026-09-03
+* [Review] [Review on: ✨ feat(fw,fill): Hive genesis format](https://github.com/ethereum/execution-specs/pull/2511#pullrequestreview-5101481607) - 2026-09-03
+* [Review] [Review on: feat(ci): test `execute`, `consume` and `check_eip_versions` via collect-only](https://github.com/ethereum/execution-specs/pull/3451#pullrequestreview-5100093313) - 2026-09-03
+* [Review] [Review on: feat(tooling): share agent skills across Codex and Claude](https://github.com/ethereum/execution-specs/pull/3514#pullrequestreview-5100226058) - 2026-09-03
+* [Review] [Review on: fix(tests,test-fill): fix Engine X fills on BAL forks and rebuild the drift check](https://github.com/ethereum/execution-specs/pull/3265#pullrequestreview-5099988645) - 2026-09-03
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02
@@ -182,6 +187,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [clients/go-ethereum: update git dockerfile to golang 1.25](https://github.com/ethereum/hive/pull/1605) - 2026-08-28
 * [Commit] [clients/go-ethereum: update git dockerfile to golang 1.25 (#1605)](https://github.com/ethereum/hive/commit/b3534fdd9d4ba904ef3f1c688ac27f985e6136eb) - 2026-08-30
 * [Review] [Review on: clients: wire HIVE_TARGET_GAS_LIMIT for besu, erigon, reth, ethrex](https://github.com/ethereum/hive/pull/1603#pullrequestreview-5064571517) - 2026-08-31
+* [Pull Request] [internal/libhive,simulators/ethereum/eels: support optional authenticated GitHub clones, redact token from recorded commands](https://github.com/ethereum/hive/pull/1606) - 2026-09-03
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784) - 2026-07-09
 * [Review] [Review on: fix: return INVALID from engine_newPayload for legacy tx with invalid v](https://github.com/besu-eth/besu/pull/10784#pullrequestreview-4662881640) - 2026-07-09

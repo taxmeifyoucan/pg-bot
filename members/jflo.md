@@ -53,6 +53,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Issue] [2026-08-05 Contributor Call](https://github.com/besu-eth/besu/issues/10965) - 2026-08-03
 * [Review] [Review on: Fix non-bootnode peer count drift in InsufficientPeersPermissioningProvider](https://github.com/besu-eth/besu/pull/11138#pullrequestreview-5051457669) - 2026-08-28
 * [Issue] [2024-09-01 Contributor Call](https://github.com/besu-eth/besu/issues/11207) - 2026-08-31
+* [Pull Request] [proposed update to user guidance on security issues](https://github.com/besu-eth/besu/pull/11239) - 2026-09-03
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [Encrypt The Mempool #7, July 22, 2026](https://github.com/ethereum/pm/issues/2165) - 2026-07-20
 

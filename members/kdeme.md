@@ -111,6 +111,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Bump nim-eth vendor module](https://github.com/status-im/nimbus-eth1/pull/4729) - 2026-09-02
 * [Commit] [stateless: Update EEST zkevm test fixtures to v0.8.3 (#4730)](https://github.com/status-im/nimbus-eth1/commit/497d3378a03aa145aba72af94f3c74a19487cf12) - 2026-09-02
 * [Commit] [Bump nim-eth vendor module (#4729)](https://github.com/status-im/nimbus-eth1/commit/bd3796391509411e312ca058c15cde210be074cf) - 2026-09-02
+* [Pull Request] [stateless: build the guest natively + add in CI](https://github.com/status-im/nimbus-eth1/pull/4735) - 2026-09-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

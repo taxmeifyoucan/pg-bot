@@ -62,6 +62,8 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Issue] [Blob data generated in tests are identical](https://github.com/sigp/lighthouse/issues/9951) - 2026-08-31
 * [Review] [Review on: Don't block block notifications on next-epoch proposer duties](https://github.com/sigp/lighthouse/pull/9952#pullrequestreview-5074792069) - 2026-09-01
 * [Review] [Review on: Fix false peer penalties during Gloas custody backfill](https://github.com/sigp/lighthouse/pull/9953#pullrequestreview-5073806282) - 2026-09-01
+* [Review] [Review on: Apply Beacon API amendments to payload attestation data endpoint](https://github.com/sigp/lighthouse/pull/9959#pullrequestreview-5108332318) - 2026-09-04
+* [Review] [Review on: Add 0x02 support to validator creation](https://github.com/sigp/lighthouse/pull/9702#pullrequestreview-5099978192) - 2026-09-03
 ## Q2 2026
 
 

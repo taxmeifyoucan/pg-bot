@@ -27,6 +27,7 @@ Github: [@wolovim](https://github.com/wolovim)
 * [Commit] [acdbot: refresh zoom token docs](https://github.com/ethereum/pm/commit/2e5dec1f8854cae633e5f40bf78f51dc2fdde15d) - 2026-08-28
 * [Issue] [Frame Transaction Breakout #3, Sep 1, 2026](https://github.com/ethereum/pm/issues/2206) - 2026-08-29
 * [Commit] [acdbot: aa cadence tweak](https://github.com/ethereum/pm/commit/4256d261de3a8dd76d10ea36118a837ff992b0a3) - 2026-08-29
+* [Issue] [Frame Transaction Breakout #4, Sep 8, 2026](https://github.com/ethereum/pm/issues/2212) - 2026-09-03
 ## Q2 2026
 
 

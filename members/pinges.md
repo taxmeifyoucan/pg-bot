@@ -39,6 +39,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Api
 * [Commit] [CLI option for snap download headers to checkpoint only (#10958)](https://github.com/besu-eth/besu/commit/403c97145912e31242a463d6fd238489168cc347) - 2026-08-28
 * [Pull Request] [Remove SavePreMergeHeaderStep and test class](https://github.com/besu-eth/besu/pull/11210) - 2026-09-01
 * [Commit] [remove SavePreMergeHeaderStep (#11210)](https://github.com/besu-eth/besu/commit/143d44573a6925937ce03f3f373f5495b591f077) - 2026-09-01
+* [Review] [Review on: fix(snap): track global inflight gauge without cap](https://github.com/besu-eth/besu/pull/11123#pullrequestreview-5108551267) - 2026-09-04
 ## Q2 2026
 
 

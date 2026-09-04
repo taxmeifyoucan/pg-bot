@@ -260,6 +260,25 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Keep a frame transaction payer's mempool exposure across a restart](https://github.com/NethermindEth/nethermind/pull/12897#pullrequestreview-5089585809) - 2026-09-02
 * [Commit] [chore: make Nethermind.Stateless.Executor lint clean (#13031)](https://github.com/NethermindEth/nethermind/commit/9cbbdadc15af044d2bda18a35be507d296a6c3d6) - 2026-09-02
 * [Commit] [fix: skip corrupt light blob tx records instead of aborting pool restore (#13032)](https://github.com/NethermindEth/nethermind/commit/a267a72c79845de63ace3709d124df6d9085fe01) - 2026-09-02
+* [Review] [Review on: Reduce Kademlia discovery traffic on healthy tables](https://github.com/NethermindEth/nethermind/pull/13124#pullrequestreview-5103204394) - 2026-09-03
+* [Pull Request] [fix(eip8141): reject a VERIFY frame behind an unrecognized validation prefix](https://github.com/NethermindEth/nethermind/pull/13120) - 2026-09-03
+* [Review] [Review on: fix(eip8141): reject a VERIFY frame behind an unrecognized validation prefix](https://github.com/NethermindEth/nethermind/pull/13120#pullrequestreview-5101772642) - 2026-09-03
+* [Pull Request] [test(eip8141): pin payer exposure, the paymaster cap and the prefix trace rules](https://github.com/NethermindEth/nethermind/pull/13121) - 2026-09-03
+* [Review] [Review on: test(eip8141): pin payer exposure, the paymaster cap and the prefix trace rules](https://github.com/NethermindEth/nethermind/pull/13121#pullrequestreview-5102854980) - 2026-09-03
+* [Pull Request] [test(eip8141): pin the structural and ordering rules of frame transaction admission](https://github.com/NethermindEth/nethermind/pull/13117) - 2026-09-03
+* [Review] [Review on: test(eip8141): pin the structural and ordering rules of frame transaction admission](https://github.com/NethermindEth/nethermind/pull/13117#pullrequestreview-5101778055) - 2026-09-03
+* [Pull Request] [test(eip8141): cover the frame expiry filter and the reloaded deadline](https://github.com/NethermindEth/nethermind/pull/13118) - 2026-09-03
+* [Review] [Review on: test(eip8141): cover the frame expiry filter and the reloaded deadline](https://github.com/NethermindEth/nethermind/pull/13118#pullrequestreview-5102820750) - 2026-09-03
+* [Review] [Review on: fix(engine): apply custody columns on forkchoiceUpdatedV5](https://github.com/NethermindEth/nethermind/pull/13109#pullrequestreview-5101611526) - 2026-09-03
+* [Pull Request] [fix(eip8141): keep a restored frame tx counting against its sponsor](https://github.com/NethermindEth/nethermind/pull/13119) - 2026-09-03
+* [Review] [Review on: fix(test): align TrieReassemblerTests with non-nullable IDb.GetAll](https://github.com/NethermindEth/nethermind/pull/13113#pullrequestreview-5100822305) - 2026-09-03
+* [Pull Request] [fix(build): align TrieReassembler test loops with non-nullable IDb.GetAll](https://github.com/NethermindEth/nethermind/pull/13116) - 2026-09-03
+* [Commit] [fix(focil): accept the parent block hash on engine_getInclusionListV1 (#13097)](https://github.com/NethermindEth/nethermind/commit/cb4bc38fa64b0757d88141b9eea5fde847a09075) - 2026-09-03
+* [Commit] [fix(engine): apply custody columns on forkchoiceUpdatedV5 (#13109)](https://github.com/NethermindEth/nethermind/commit/7a16e60c49edc4b857dcb0ca198f36ef16d13730) - 2026-09-03
+* [Commit] [test: harden the block-improvement wait against empty payloads (#12859)](https://github.com/NethermindEth/nethermind/commit/9f4aaa20a76f898175614efacf910b5d22be90dc) - 2026-09-03
+* [Commit] [fix: honour engine fixture errorCode instead of accepting any RPC error (#12783)](https://github.com/NethermindEth/nethermind/commit/1e0ab67662984891a63a9a05c3fc8db976395bf1) - 2026-09-03
+* [Commit] [fix: enter world-state scope in EVM benchmark setup (#12561)](https://github.com/NethermindEth/nethermind/commit/990aa6726ca4a2a61c7eede4a63ac57865456825) - 2026-09-03
+* [Commit] [test(sync): let Retry absorb an E2E sync timeout (#13105)](https://github.com/NethermindEth/nethermind/commit/087c0e398d2e6a24a3a7e76500c7f40e240adb96) - 2026-09-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

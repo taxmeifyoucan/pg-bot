@@ -156,6 +156,12 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: fail spec tests expecting an error if none is thrown](https://github.com/ChainSafe/lodestar/pull/9986#pullrequestreview-5095294334) - 2026-09-02
 * [Review] [Review on: fix: run cheap bid rejects before expensive validation](https://github.com/ChainSafe/lodestar/pull/9984#pullrequestreview-5094285199) - 2026-09-02
 * [Review] [Review on: docs: update historical fork support boundaries](https://github.com/ChainSafe/lodestar/pull/9983#pullrequestreview-5092955345) - 2026-09-02
+* [Pull Request] [fix: reject attestation source epochs below the min-span lookback](https://github.com/ChainSafe/lodestar/pull/9999) - 2026-09-03
+* [Review] [Review on: fix: reject attestation source epochs below the min-span lookback](https://github.com/ChainSafe/lodestar/pull/9999#pullrequestreview-5106902386) - 2026-09-03
+* [Review] [Review on: fix: reject bids with block_hash equal to parent_block_hash](https://github.com/ChainSafe/lodestar/pull/9972#pullrequestreview-5103481895) - 2026-09-03
+* [Review] [Review on: chore: fix Switch gossip subscriptions panel of Sync dashboard](https://github.com/ChainSafe/lodestar/pull/9987#pullrequestreview-5097427156) - 2026-09-03
+* [Review] [Review on: fix: minor improvement on ptc message gossip validation](https://github.com/ChainSafe/lodestar/pull/9969#pullrequestreview-5097423680) - 2026-09-03
+* [Issue] [Interchange import is not atomic, a rejected file leaves partial slashing protection state](https://github.com/ChainSafe/lodestar/issues/10001) - 2026-09-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -279,6 +285,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(stf): keep expected withdrawals query read-only](https://github.com/ChainSafe/lodestar-z/pull/620#pullrequestreview-5091767195) - 2026-09-02
 * [Review] [Review on: fix(stf): treat Capella as post-merge](https://github.com/ChainSafe/lodestar-z/pull/624#pullrequestreview-5091052865) - 2026-09-02
 * [Review] [Review on: fix(stf): justify exact two-thirds participation](https://github.com/ChainSafe/lodestar-z/pull/623#pullrequestreview-5091045867) - 2026-09-02
+* [Review] [Review on: feat(napi): expose forkSeq on BeaconStateView binding](https://github.com/ChainSafe/lodestar-z/pull/635#pullrequestreview-5102868197) - 2026-09-03
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

@@ -252,6 +252,17 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Reject bids with `block_hash` equal to `parent_block_hash`](https://github.com/ethereum/consensus-specs/pull/5594#pullrequestreview-5092037720) - 2026-09-02
 * [Pull Request] [Remove unnecessary casts](https://github.com/ethereum/consensus-specs/pull/5588) - 2026-09-02
 * [Commit] [Remove unnecessary casts (#5588)](https://github.com/ethereum/consensus-specs/commit/566e1ebae6b1af273a70b157ed7cdd32d91be684) - 2026-09-02
+* [Review] [Review on: Bound the bid's gas limit against the parent execution payload](https://github.com/ethereum/consensus-specs/pull/5598#pullrequestreview-5106198366) - 2026-09-03
+* [Review] [Review on: Add missing dependent block checks to `on_inclusion_list`](https://github.com/ethereum/consensus-specs/pull/5599#pullrequestreview-5106267187) - 2026-09-03
+* [Review] [Review on: Use `is_future_epoch` in BLS to execution change gossip](https://github.com/ethereum/consensus-specs/pull/5600#pullrequestreview-5106383332) - 2026-09-03
+* [Review] [Review on: Use `.copy()` consistently](https://github.com/ethereum/consensus-specs/pull/5601#pullrequestreview-5106611602) - 2026-09-03
+* [Review] [Review on: Refine EIP-8025 `ProofData` type and gossip validation logic](https://github.com/ethereum/consensus-specs/pull/5593#pullrequestreview-5106664221) - 2026-09-03
+* [Review] [Review on: Add quick slots (EIP-8198)](https://github.com/ethereum/consensus-specs/pull/5592#pullrequestreview-5103413028) - 2026-09-03
+* [Review] [Review on: Test PTC data-unavailable parent fallback](https://github.com/ethereum/consensus-specs/pull/5595#pullrequestreview-5104879709) - 2026-09-03
+* [Review] [Review on: Update all dependencies](https://github.com/ethereum/consensus-specs/pull/5597#pullrequestreview-5104790117) - 2026-09-03
+* [Pull Request] [Check the voluntary exit epoch against the wall clock](https://github.com/ethereum/consensus-specs/pull/5596) - 2026-09-03
+* [Review] [Review on: Check the voluntary exit epoch against the wall clock](https://github.com/ethereum/consensus-specs/pull/5596#pullrequestreview-5104643334) - 2026-09-03
+* [Commit] [Check the voluntary exit epoch against the wall clock (#5596)](https://github.com/ethereum/consensus-specs/commit/798c551b211da9cfb4e90520441c997598fddbb0) - 2026-09-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

@@ -48,6 +48,13 @@ Team: Reth
 * [Review] [Review on: fix(overlay): run computations on dedicated workers](https://github.com/paradigmxyz/reth/pull/26871#pullrequestreview-5051975038) - 2026-08-28
 * [Review] [Review on: chore(deps): bump the ci-weekly group with 3 updates](https://github.com/paradigmxyz/reth/pull/26886#pullrequestreview-5065762911) - 2026-08-31
 * [Review] [Review on: fix(stages): log bad block hash](https://github.com/paradigmxyz/reth/pull/26909#pullrequestreview-5081428784) - 2026-09-01
+* [Review] [Review on: perf(engine): batch BAL prewarm slot dispatch](https://github.com/paradigmxyz/reth/pull/26955#pullrequestreview-5106105725) - 2026-09-03
+* [Review] [Review on: perf(exex): buffer WAL notification serialization](https://github.com/paradigmxyz/reth/pull/26949#pullrequestreview-5107041853) - 2026-09-03
+* [Review] [Review on: perf(db): use TSC-backed clock for transaction start time](https://github.com/paradigmxyz/reth/pull/26941#pullrequestreview-5104466868) - 2026-09-03
+* [Review] [Review on: perf(tracing): avoid allocating formatted log fields](https://github.com/paradigmxyz/reth/pull/26953#pullrequestreview-5104674427) - 2026-09-03
+* [Review] [Review on: refactor(db): use FastInstant alias for metrics](https://github.com/paradigmxyz/reth/pull/26992#pullrequestreview-5104506277) - 2026-09-03
+* [Review] [Review on: perf(rpc): bloom-filter blocks in log subscriptions and getLogs by hash](https://github.com/paradigmxyz/reth/pull/26946#pullrequestreview-5104123224) - 2026-09-03
+* [Review] [Review on: perf(static-files): return jar rows without allocating](https://github.com/paradigmxyz/reth/pull/26951#pullrequestreview-5103883452) - 2026-09-03
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

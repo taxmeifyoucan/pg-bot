@@ -18,6 +18,10 @@ Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix CALLCODE state gas refund target](https://github.com/besu-eth/besu/pull/11107) - 2026-08-20
 * [Commit] [Fix CALLCODE state gas refund target (#11107)](https://github.com/besu-eth/besu/commit/33c9f20e31a860da8479bdb5246a85d1fd09532a) - 2026-08-20
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Pull Request] [Test PTC data-unavailable parent fallback](https://github.com/ethereum/consensus-specs/pull/5595) - 2026-09-03
+* [Commit] [Test PTC data-unavailable parent fallback (#5595)](https://github.com/ethereum/consensus-specs/commit/756f49cf53c3ebfca603089cb440fe6f8b738aaa) - 2026-09-03
 ## Q2 2026
 
 

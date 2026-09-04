@@ -190,6 +190,20 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Set a limit to accepted tx max size in bytes (#74)](https://github.com/besu-eth/besu/commit/3ec1bce7ed77de097b6237f7a83be1122a164b3a) - 2026-09-01
 * [Review] [Review on: Complete refactor of engine_getBlobsV* methods](https://github.com/besu-eth/besu/pull/11204#pullrequestreview-5087122104) - 2026-09-02
 * [Commit] [Cleanup after the Engine API methods refactor (#11205)](https://github.com/besu-eth/besu/commit/260f602a318160159ab43e591f9a5a60b19c71ee) - 2026-09-02
+* [Pull Request] [fix(eth): stop flaky failures in transactionOfEncodedSize helper](https://github.com/besu-eth/besu/pull/11236) - 2026-09-03
+* [Pull Request] [Remove unreachable ACCEPTED branch from engine_newPayload](https://github.com/besu-eth/besu/pull/11237) - 2026-09-03
+* [Review] [Review on: Remove unreachable ACCEPTED branch from engine_newPayload](https://github.com/besu-eth/besu/pull/11237#pullrequestreview-5103033919) - 2026-09-03
+* [Review] [Review on: fix: announce the pooled representation of a locally submitted blob transaction](https://github.com/besu-eth/besu/pull/11203#pullrequestreview-5103629661) - 2026-09-03
+* [Review] [Review on: Run the BFT soak test on a daily schedule; log recent commits when it fails](https://github.com/besu-eth/besu/pull/11228#pullrequestreview-5102824455) - 2026-09-03
+* [Pull Request] [fix(tests): use a dedicated executor for DebugTraceTransactionStepFactory.createAsync](https://github.com/besu-eth/besu/pull/11235) - 2026-09-03
+* [Review] [Review on: fix(tests): use a dedicated executor for DebugTraceTransactionStepFactory.createAsync](https://github.com/besu-eth/besu/pull/11235#pullrequestreview-5101820592) - 2026-09-03
+* [Pull Request] [Update tests-glamsterdam-devnet to v8.1.3](https://github.com/besu-eth/besu/pull/11233) - 2026-09-03
+* [Review] [Review on: fix(discv4): reduce logging level of invalid packet handling](https://github.com/besu-eth/besu/pull/11232#pullrequestreview-5100341439) - 2026-09-03
+* [Review] [Review on: Extract plugin-api-validation module](https://github.com/besu-eth/besu/pull/11227#pullrequestreview-5099542584) - 2026-09-03
+* [Commit] [fix(eth): stop flaky failures in transactionOfEncodedSize helper (#11236)](https://github.com/besu-eth/besu/commit/73a6fc15cd62fec8765bfc4d4aecb75719531150) - 2026-09-04
+* [Commit] [Remove unreachable ACCEPTED branch from engine_newPayload (#11237)](https://github.com/besu-eth/besu/commit/6298195af06f8036b489d383acfc7e84429e26fe) - 2026-09-03
+* [Commit] [Update tests-glamsterdam-devnet to v8.1.3 (#11233)](https://github.com/besu-eth/besu/commit/55c7d60e325bfcdd69b1c59d95235e11956ecf1e) - 2026-09-03
+* [Commit] [Complete refactor of engine_getBlobsV* methods (#11204)](https://github.com/besu-eth/besu/commit/10cf6ffe169d2b2f96654c56769a2052785a54a4) - 2026-09-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

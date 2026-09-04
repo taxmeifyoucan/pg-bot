@@ -26,6 +26,7 @@ Team: Grandine
 * [Commit] [Add `validators.yml` validator definitions](https://github.com/grandinetech/grandine/commit/eaf220e60699cd63d4223ad2481e42fd15f67802) - 2026-07-30
 * [Review] [Review on: Add a guard to justified active balance getter](https://github.com/grandinetech/grandine/pull/842#pullrequestreview-4897656601) - 2026-08-10
 * [Review] [Review on: Check dependent roots of attestation targets for pool inclusion without performing slot processing](https://github.com/grandinetech/grandine/pull/891#pullrequestreview-5064054498) - 2026-08-31
+* [Review] [Review on: Gloas fork boundary envelope sync fix](https://github.com/grandinetech/grandine/pull/903#pullrequestreview-5102557144) - 2026-09-03
 ## Q2 2026
 
 

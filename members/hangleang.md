@@ -73,6 +73,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Prepare next slot execution payload after PTC votes and payload reveal](https://github.com/grandinetech/grandine/pull/899) - 2026-09-02
 * [Review] [Review on: Prepare next slot execution payload again after PTC votes](https://github.com/grandinetech/grandine/pull/895#pullrequestreview-5089866003) - 2026-09-02
 * [Pull Request] [Resolve commitments through Gloas block](https://github.com/grandinetech/grandine/pull/897) - 2026-09-02
+* [Review] [Review on: Gloas fork boundary envelope sync fix](https://github.com/grandinetech/grandine/pull/903#pullrequestreview-5101729113) - 2026-09-03
+* [Pull Request] [Build envelope full with their preset limits](https://github.com/grandinetech/grandine/pull/902) - 2026-09-03
+* [Commit] [Prepare next slot execution payload after PTC votes and payload reveal](https://github.com/grandinetech/grandine/commit/a740b9ccfa2828ae117f213dff5876c84bc71658) - 2026-09-03
+* [Commit] [Build envelope full with their preset limits](https://github.com/grandinetech/grandine/commit/921748513bdf8048ba0535c893f694794cbc59f9) - 2026-09-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

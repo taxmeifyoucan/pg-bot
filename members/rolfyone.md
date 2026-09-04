@@ -182,6 +182,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: update: chiado bootnodes](https://github.com/Consensys-Incorporated/teku/pull/11218#pullrequestreview-5095942702) - 2026-09-02
 * [Review] [Review on: Switch to cheaper getStateByRoot in validators](https://github.com/Consensys-Incorporated/teku/pull/11215#pullrequestreview-5085178235) - 2026-09-02
 * [Review] [Review on: update for the runners](https://github.com/Consensys-Incorporated/teku/pull/11217#pullrequestreview-5086452580) - 2026-09-02
+* [Review] [Review on: Implement `eth/v1/beacon/light_client/updates`](https://github.com/Consensys-Incorporated/teku/pull/11202#pullrequestreview-5097430828) - 2026-09-03
+* [Review] [Review on: FCR Optimization part1: Speed up fast confirmation with memoization and one-pass chain scoring](https://github.com/Consensys-Incorporated/teku/pull/11212#pullrequestreview-5097394485) - 2026-09-03
+* [Review] [Review on: Compare gossip payload size against the compressed bound](https://github.com/Consensys-Incorporated/teku/pull/11223#pullrequestreview-5097805055) - 2026-09-03
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

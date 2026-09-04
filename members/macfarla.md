@@ -261,6 +261,15 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: fix(validation): reject post-Shanghai blocks with withdrawalsRoot but absent body withdrawals](https://github.com/besu-eth/besu/pull/11229#pullrequestreview-5096949459) - 2026-09-03
 * [Review] [Review on: Cleanup after the Engine API methods refactor](https://github.com/besu-eth/besu/pull/11205#pullrequestreview-5086774912) - 2026-09-02
 * [Review] [Review on: Complete refactor of engine_getBlobsV* methods](https://github.com/besu-eth/besu/pull/11204#pullrequestreview-5086828009) - 2026-09-02
+* [Review] [Review on: admin_logsRemoveCache: do not report success when removal is skipped](https://github.com/besu-eth/besu/pull/11080#pullrequestreview-5097690779) - 2026-09-03
+* [Review] [Review on: fix(eth): stop flaky failures in transactionOfEncodedSize helper](https://github.com/besu-eth/besu/pull/11236#pullrequestreview-5107634073) - 2026-09-03
+* [Review] [Review on: Fix ECIES decrypt length guard to use MAC output size](https://github.com/besu-eth/besu/pull/11218#pullrequestreview-5097674788) - 2026-09-03
+* [Review] [Review on: feat(api): add eth_getRawTransactionByHash JSON-RPC method](https://github.com/besu-eth/besu/pull/11170#pullrequestreview-5097707135) - 2026-09-03
+* [Review] [Review on: fix: enable strict balance checking in debug_traceCall](https://github.com/besu-eth/besu/pull/11230#pullrequestreview-5097815776) - 2026-09-03
+* [Review] [Review on: fix: announce the pooled representation of a locally submitted blob transaction](https://github.com/besu-eth/besu/pull/11203#pullrequestreview-5097844207) - 2026-09-03
+* [Review] [Review on: Update tests-glamsterdam-devnet to v8.1.3](https://github.com/besu-eth/besu/pull/11233#pullrequestreview-5100566982) - 2026-09-03
+* [Review] [Review on: Complete refactor of engine_getBlobsV* methods](https://github.com/besu-eth/besu/pull/11204#pullrequestreview-5097331681) - 2026-09-03
+* [Commit] [fix(validation): reject post-Shanghai blocks with withdrawalsRoot but absent body withdrawals (#11229)](https://github.com/besu-eth/besu/commit/b7f1387cb431455511ef157384022e513abda0bb) - 2026-09-04
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

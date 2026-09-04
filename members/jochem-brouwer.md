@@ -115,6 +115,7 @@ Team: [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-
 * [Review] [Review on: Update EIP-7784: Move to Last Call](https://github.com/ethereum/EIPs/pull/9992#pullrequestreview-5084935036) - 2026-09-02
 * [Review] [Review on: Add EIP: Top-up Sync](https://github.com/ethereum/EIPs/pull/12154#pullrequestreview-5084882552) - 2026-09-02
 * [Review] [Review on: Add EIP: Top-up Sync](https://github.com/ethereum/EIPs/pull/12154#pullrequestreview-5093431747) - 2026-09-02
+* [Review] [Review on: Add EIP: Top-up Sync](https://github.com/ethereum/EIPs/pull/12154#pullrequestreview-5107248486) - 2026-09-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: fix(tooling): honor exported `DOCC_SKIP_DIFFS` in `docs-spec` recipe](https://github.com/ethereum/execution-specs/pull/3074#pullrequestreview-4606003815) - 2026-07-01
 * [Review] [Review on: chore: update pr template](https://github.com/ethereum/execution-specs/pull/3089#pullrequestreview-4624091659) - 2026-07-03

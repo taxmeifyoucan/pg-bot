@@ -624,6 +624,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: [r3.6] cl/network: fix blob history backfill boundary and sparse-peer startup](https://github.com/erigontech/erigon/pull/23732#pullrequestreview-5090586401) - 2026-09-02
 * [Review] [Review on: cl/forkchoice: reuse Gloas contribution capacity](https://github.com/erigontech/erigon/pull/23731#pullrequestreview-5090453705) - 2026-09-02
 * [Issue] [cl/blob_storage: pruning rejects writes inside the non-archive backfill window](https://github.com/erigontech/erigon/issues/23752) - 2026-09-02
+* [Pull Request] [cl: fix Gloas bid selection, validation and publication](https://github.com/erigontech/erigon/pull/23583) - 2026-09-03
+* [Pull Request] [rpc, db: gate historical requests by physical availability](https://github.com/erigontech/erigon/pull/23776) - 2026-09-03
+* [Review] [Review on: node: enable `persist receipts` by default](https://github.com/erigontech/erigon/pull/23774#pullrequestreview-5100339200) - 2026-09-03
+* [Review] [Review on: rpc/jsonrpc: acquire the tx and overlay atomically in eth_call](https://github.com/erigontech/erigon/pull/23775#pullrequestreview-5099555877) - 2026-09-03
+* [Issue] [cl/epbs: support concurrent same-slot self-build envelopes](https://github.com/erigontech/erigon/issues/23781) - 2026-09-03
+* [Commit] [cl: fix Gloas bid selection, validation and publication (#23583)](https://github.com/erigontech/erigon/commit/b84c5842520a337a61151fa13bf2b36f7239851f) - 2026-09-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

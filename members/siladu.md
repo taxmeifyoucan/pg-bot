@@ -53,6 +53,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asi
 * [Review] [Review on: Fix SSTORE regression](https://github.com/besu-eth/besu/pull/11202#pullrequestreview-5064646627) - 2026-08-31
 * [Review] [Review on: wire remaining opcode gas benchmarks](https://github.com/besu-eth/besu/pull/11211#pullrequestreview-5094758866) - 2026-09-02
 * [Review] [Review on: reuse sar0 and shl0 for UInt256 byte shifts](https://github.com/besu-eth/besu/pull/11137#pullrequestreview-5092009673) - 2026-09-02
+* [Review] [Review on: wire remaining opcode gas benchmarks](https://github.com/besu-eth/besu/pull/11211#pullrequestreview-5097741797) - 2026-09-03
 [Consensys/tuweni](https://github.com/Consensys/tuweni)
 * [Review] [Review on: 2.8.0 release version pr](https://github.com/Consensys/tuweni/pull/66#pullrequestreview-4908208335) - 2026-08-11
 

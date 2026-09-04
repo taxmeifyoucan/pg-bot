@@ -186,6 +186,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test: stop the deadlock guard from ending the blocked blob update](https://github.com/NethermindEth/nethermind/pull/13089#pullrequestreview-5090200405) - 2026-09-02
 * [Pull Request] [Dispose sync peer allocations with using](https://github.com/NethermindEth/nethermind/pull/13094) - 2026-09-02
 * [Review] [Review on: Dispose sync peer allocations with using](https://github.com/NethermindEth/nethermind/pull/13094#pullrequestreview-5087771256) - 2026-09-02
+* [Pull Request] [fix(flat): give prewarmer trie warmups an owned session](https://github.com/NethermindEth/nethermind/pull/13126) - 2026-09-03
+* [Review] [Review on: fix(flat): verify warmer reads in flat adapters (#12951 follow-up)](https://github.com/NethermindEth/nethermind/pull/12980#pullrequestreview-5098865141) - 2026-09-03
+* [Review] [Review on: perf(evm): disable the stream interpreter by default](https://github.com/NethermindEth/nethermind/pull/12999#pullrequestreview-5098834291) - 2026-09-03
+* [Review] [Review on: test(sync): let Retry absorb an E2E sync timeout](https://github.com/NethermindEth/nethermind/pull/13105#pullrequestreview-5099426334) - 2026-09-03
+* [Review] [Review on: fix(rpc): keep the module rented until a streamed result has been written](https://github.com/NethermindEth/nethermind/pull/13095#pullrequestreview-5099416139) - 2026-09-03
+* [Review] [Review on: fix(sync): stop a malformed header response from stalling fast-headers sync](https://github.com/NethermindEth/nethermind/pull/13019#pullrequestreview-5098813831) - 2026-09-03
 ## Q2 2026
 
 

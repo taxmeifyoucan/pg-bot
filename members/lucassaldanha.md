@@ -30,6 +30,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Issue] [Teku crashes unexpectedly while handling QUIC connections](https://github.com/libp2p/jvm-libp2p/issues/523) - 2026-08-31
 * [Pull Request] [Consolidate per type counters on gossip](https://github.com/libp2p/jvm-libp2p/pull/525) - 2026-09-01
 * [Commit] [Merge pull request #524 from lucassaldanha/fix/quic-ssl-task-executor-race](https://github.com/libp2p/jvm-libp2p/commit/da462a6d5744c9e73cbb1b0ac642f07d731eefbf) - 2026-09-01
+* [Review] [Review on: Consolidate per type counters on gossip](https://github.com/libp2p/jvm-libp2p/pull/525#pullrequestreview-5097555927) - 2026-09-03
+* [Issue] [Cross-impl gossipsub: direction-dependent silent stream drop in P2PServiceSemiDuplex (subscription/GRAFT lost vs go-libp2p)](https://github.com/libp2p/jvm-libp2p/issues/526) - 2026-09-03
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28
@@ -134,6 +136,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Pull Request] [Update security contact email to teku-security@consensys.com](https://github.com/Consensys-Incorporated/teku/pull/11222) - 2026-09-03
 * [Review] [Review on: Remove shuffling stable from fulu onwards](https://github.com/Consensys-Incorporated/teku/pull/11203#pullrequestreview-5085491267) - 2026-09-02
 * [Commit] [Update security contact email to teku-security@consensys.com (#11222)](https://github.com/Consensys-Incorporated/teku/commit/49029e26746796ebc63340b4ef18b90185d19efc) - 2026-09-03
+* [Pull Request] [Compare gossip payload size against the compressed bound](https://github.com/Consensys-Incorporated/teku/pull/11223) - 2026-09-03
+* [Commit] [Compare gossip payload size against the compressed bound (#11223)](https://github.com/Consensys-Incorporated/teku/commit/20846ead95c8ab080cd9803c28d9d24d52be35bd) - 2026-09-03
 ## Q2 2026
 
 

@@ -435,6 +435,12 @@ Team: Erigon
 * [Issue] [db/downloader: a malformed .torrent aborts AddTorrentsFromDisk and skips every later snapshot](https://github.com/erigontech/erigon/issues/23754) - 2026-09-02
 * [Commit] [db/kv/prune: check the progress-log ticker every 1024 keys, not per key (#23741)](https://github.com/erigontech/erigon/commit/417c8285608e4bf6fd5a2291d7fda15c7425d1f9) - 2026-09-03
 * [Commit] [execution/execfinality: do not gate collation on the MaxTxNum floor (#23704)](https://github.com/erigontech/erigon/commit/bef283d1beb94ac1299684ebcce779fb1f66b0f1) - 2026-09-02
+* [Pull Request] [execution/commitment: make the split-point primitives depth-agnostic](https://github.com/erigontech/erigon/pull/23783) - 2026-09-04
+* [Review] [Review on: execution/commitment: make the split-point primitives depth-agnostic](https://github.com/erigontech/erigon/pull/23783#pullrequestreview-5108602220) - 2026-09-04
+* [Review] [Review on: tracing: put the wire types on callFrame, drop gencodec](https://github.com/erigontech/erigon/pull/23766#pullrequestreview-5098139496) - 2026-09-03
+* [Issue] [execution/commitment: v3 edge-record format and the hoodi 1M v2/v3 run](https://github.com/erigontech/erigon/issues/23773) - 2026-09-03
+* [Commit] [execution/execmodule: benchmark the engine_newPayload validation window (#23738)](https://github.com/erigontech/erigon/commit/fe0e9e02287f8265b347f1e2ea3c3a36bc94ce44) - 2026-09-03
+* [Commit] [execution/stagedsync: calcState walks a per-block dirty list (#23737)](https://github.com/erigontech/erigon/commit/e2deafdfd29f34403a1d51a2c873861491ae70f0) - 2026-09-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

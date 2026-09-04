@@ -74,6 +74,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Pull Request] [Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924) - 2026-08-26
 * [Review] [Review on: Gloas gossip handlers](https://github.com/sigp/lighthouse/pull/9924#pullrequestreview-5035588950) - 2026-08-26
 * [Review] [Review on: Fix quadratic pending-validator scan in Gloas builder onboarding](https://github.com/sigp/lighthouse/pull/9954#pullrequestreview-5074962230) - 2026-09-01
+* [Review] [Review on: Reject bids whose block hash equals the parent block hash](https://github.com/sigp/lighthouse/pull/9970#pullrequestreview-5106825062) - 2026-09-03
 ## Q2 2026
 
 

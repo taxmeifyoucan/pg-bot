@@ -261,6 +261,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf: carry pre-block account and storage caches across blocks](https://github.com/NethermindEth/nethermind/pull/13100#pullrequestreview-5091232859) - 2026-09-02
 * [Review] [Review on: perf(zkevm): build with -Ot and drop single-thread locks from TrieNode](https://github.com/NethermindEth/nethermind/pull/13086#pullrequestreview-5088263434) - 2026-09-02
 * [Commit] [Reduce routine debug logging noise (#13085)](https://github.com/NethermindEth/nethermind/commit/24b28b2e05e74b06e62196fffd6665e449484379) - 2026-09-02
+* [Pull Request] [perf(evm): replace interpreter loop with tail-call chain dispatch](https://github.com/NethermindEth/nethermind/pull/13128) - 2026-09-03
+* [Review] [Review on: perf(evm): replace interpreter loop with tail-call chain dispatch](https://github.com/NethermindEth/nethermind/pull/13128#pullrequestreview-5105256264) - 2026-09-03
+* [Review] [Review on: chore: bump Nethermind.Numerics.Int256 to 1.7.0](https://github.com/NethermindEth/nethermind/pull/13127#pullrequestreview-5104024855) - 2026-09-03
+* [Review] [Review on: perf(zkevm): presized witness stores, dense dispatch, cheaper word swaps, sha256f merkleization](https://github.com/NethermindEth/nethermind/pull/13090#pullrequestreview-5101360223) - 2026-09-03
+* [Review] [Review on: fix(test): align TrieReassemblerTests with non-nullable IDb.GetAll](https://github.com/NethermindEth/nethermind/pull/13113#pullrequestreview-5100552654) - 2026-09-03
+* [Commit] [perf: carry pre-block account and storage caches across blocks (#13100)](https://github.com/NethermindEth/nethermind/commit/9e891b182a2b5f78b961e6bcbef05186ae723e33) - 2026-09-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

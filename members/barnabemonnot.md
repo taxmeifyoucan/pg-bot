@@ -16,6 +16,7 @@ Team: Robust Incentives Group (RIG)
 
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add quick slots (EIP-8198)](https://github.com/ethereum/consensus-specs/pull/5592) - 2026-09-02
+* [Review] [Review on: Add quick slots (EIP-8198)](https://github.com/ethereum/consensus-specs/pull/5592#pullrequestreview-5102599466) - 2026-09-03
 ## Q2 2026
 
 

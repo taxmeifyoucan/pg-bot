@@ -94,6 +94,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Pull Request] [return INVALID for undecodable blockAccessList](https://github.com/besu-eth/besu/pull/11177) - 2026-08-27
 * [Commit] [return INVALID for undecodable blockAccessList (#11177)](https://github.com/besu-eth/besu/commit/af61f5d064a46115ff094ce7100de2072670d9e5) - 2026-08-28
 * [Pull Request] [fix(bal): decode block access list uint256 fields as minimal scalars](https://github.com/besu-eth/besu/pull/11216) - 2026-09-01
+* [Pull Request] [fix(bal): decode block access list uint256 fields as minimal scalars](https://github.com/besu-eth/besu/pull/11234) - 2026-09-03
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Pull Request] [execution/engineapi: return INVALID for undecodable blockAccessList](https://github.com/erigontech/erigon/pull/23633) - 2026-08-27
 

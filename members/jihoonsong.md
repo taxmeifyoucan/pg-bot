@@ -99,6 +99,14 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Review] [Review on: Increase `MAX_SIGNED_INCLUSION_LIST_SIZE` to the worst-case size](https://github.com/ethereum/consensus-specs/pull/5576#pullrequestreview-5079908247) - 2026-09-01
 * [Review] [Review on: Move seen checks to the top of gossip validation functions](https://github.com/ethereum/consensus-specs/pull/5586#pullrequestreview-5076721275) - 2026-09-01
 * [Review] [Review on: Remove unnecessary casts](https://github.com/ethereum/consensus-specs/pull/5588#pullrequestreview-5087354048) - 2026-09-02
+* [Pull Request] [Add missing dependent block checks to `on_inclusion_list`](https://github.com/ethereum/consensus-specs/pull/5599) - 2026-09-03
+* [Review] [Review on: Add missing dependent block checks to `on_inclusion_list`](https://github.com/ethereum/consensus-specs/pull/5599#pullrequestreview-5106636615) - 2026-09-03
+* [Pull Request] [Use `is_future_epoch` in BLS to execution change gossip](https://github.com/ethereum/consensus-specs/pull/5600) - 2026-09-03
+* [Pull Request] [Use `.copy()` consistently](https://github.com/ethereum/consensus-specs/pull/5601) - 2026-09-03
+* [Review] [Review on: Check the voluntary exit epoch against the wall clock](https://github.com/ethereum/consensus-specs/pull/5596#pullrequestreview-5103664647) - 2026-09-03
+* [Commit] [Add missing dependent block checks to `on_inclusion_list` (#5599)](https://github.com/ethereum/consensus-specs/commit/09c77a4a74c2a21bea143486f06163581b4f5563) - 2026-09-03
+* [Commit] [Use `is_future_epoch` in BLS to execution change gossip (#5600)](https://github.com/ethereum/consensus-specs/commit/c467ca45c0b3fc1926901dcec4b0619b9539d1d9) - 2026-09-03
+* [Commit] [Use `.copy()` consistently (#5601)](https://github.com/ethereum/consensus-specs/commit/b87f78fe128fc7e954291c5ff0804238d2a040b3) - 2026-09-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03

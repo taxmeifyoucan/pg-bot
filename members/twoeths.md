@@ -193,6 +193,18 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: fix sync dashboard](https://github.com/ChainSafe/lodestar/pull/9967#pullrequestreview-5096912250) - 2026-09-03
 * [Review] [Review on: chore: v1.47.0 release](https://github.com/ChainSafe/lodestar/pull/9934#pullrequestreview-5087493369) - 2026-09-02
 * [Commit] [chore: fix sync dashboard (#9967)](https://github.com/ChainSafe/lodestar/commit/84285dbabf0e10d44a8affbcfc2e14050b599403) - 2026-09-02
+* [Review] [Review on: fix: serve closest head state if head block post-state is not available](https://github.com/ChainSafe/lodestar/pull/10003#pullrequestreview-5108620635) - 2026-09-04
+* [Review] [Review on: chore: fix typo in persisted keys comment](https://github.com/ChainSafe/lodestar/pull/10000#pullrequestreview-5108595879) - 2026-09-04
+* [Review] [Review on: perf(state-transition): batch inactivity score updates](https://github.com/ChainSafe/lodestar/pull/9911#pullrequestreview-5100189764) - 2026-09-03
+* [Review] [Review on: feat: add compliance test for gloas](https://github.com/ChainSafe/lodestar/pull/9761#pullrequestreview-5099971727) - 2026-09-03
+* [Pull Request] [feat: track late canonical blocks](https://github.com/ChainSafe/lodestar/pull/9968) - 2026-09-03
+* [Pull Request] [fix: defer gossip handler to the next event loop](https://github.com/ChainSafe/lodestar/pull/9990) - 2026-09-03
+* [Review] [Review on: fix: defer gossip handler to the next event loop](https://github.com/ChainSafe/lodestar/pull/9990#pullrequestreview-5099174508) - 2026-09-03
+* [Issue] [Track stateTransition time in metrics](https://github.com/ChainSafe/lodestar/issues/9989) - 2026-09-03
+* [Issue] [Lodestar runs state transition before forwarding block](https://github.com/ChainSafe/lodestar/issues/9988) - 2026-09-03
+* [Commit] [feat: track late canonical blocks (#9968)](https://github.com/ChainSafe/lodestar/commit/47e42cba028a7b520cfb6a7edae07e838184da93) - 2026-09-03
+* [Commit] [chore: fix Switch gossip subscriptions panel of Sync dashboard (#9987)](https://github.com/ChainSafe/lodestar/commit/6eb37b381104871e4256346e66cff5d8c07e2c50) - 2026-09-03
+* [Commit] [fix: minor improvement on ptc message gossip validation (#9969)](https://github.com/ChainSafe/lodestar/commit/b24dce51bf0653036f60b3be32cf6b42996b5a61) - 2026-09-03
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

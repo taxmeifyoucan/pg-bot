@@ -67,6 +67,8 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: refactor(bindings): split computeNewStateRoot computation](https://github.com/ChainSafe/lodestar/pull/9945#pullrequestreview-5063685038) - 2026-08-31
 * [Review] [Review on: chore: stop registering validators with external builders post-gloas](https://github.com/ChainSafe/lodestar/pull/9950#pullrequestreview-5066642044) - 2026-08-31
 * [Commit] [refactor(bindings): split computeNewStateRoot computation (#9945)](https://github.com/ChainSafe/lodestar/commit/4c05b800340e647d45a1dd2786f5241c88c25850) - 2026-08-31
+* [Pull Request] [fix(lightclient): serve bootstrap for the checkpoint-sync anchor block](https://github.com/ChainSafe/lodestar/pull/9991) - 2026-09-03
+* [Commit] [feat: gloas lc support (#9687)](https://github.com/ChainSafe/lodestar/commit/0dbea0de1b39ab8d2064660dd074900ad04b3334) - 2026-09-03
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -197,6 +199,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: do not merge: fallible one-pass variable elem iteration](https://github.com/ChainSafe/lodestar-z/pull/605#pullrequestreview-5031140445) - 2026-08-26
 * [Review] [Review on: refactor(ssz): simplify progressive bit list type](https://github.com/ChainSafe/lodestar-z/pull/618#pullrequestreview-5085589851) - 2026-09-02
 * [Review] [Review on: refactor(pmt): make node pool non-growable](https://github.com/ChainSafe/lodestar-z/pull/617#pullrequestreview-5085595836) - 2026-09-02
+* [Pull Request] [fix(bindings): support blinded state transitions](https://github.com/ChainSafe/lodestar-z/pull/628) - 2026-09-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

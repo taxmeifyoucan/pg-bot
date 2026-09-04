@@ -1251,6 +1251,36 @@ Team: Erigon
 * [Commit] [build, db, execution, cl, p2p, rpc, txnprovider: enable staticcheck (SA + S1) and fix what it found (#23652)](https://github.com/erigontech/erigon/commit/073bc04f0da7d4b6f2e18ca240ded5c9deb0d7d6) - 2026-09-02
 * [Commit] [exec: rewrite the fee credit in place (#23703)](https://github.com/erigontech/erigon/commit/3c92e306e138ea5ec45d30817a1d78bc9bcf505c) - 2026-09-02
 * [Commit] [experiments: `USE_CODE_STORE=false` to solve OOM of unit-tests (#23666)](https://github.com/erigontech/erigon/commit/5ac68c629e9a25131fa4629001645b400f3bfb4b) - 2026-09-02
+* [Pull Request] [lint: enable `shadow` linter for `./db` pkgs](https://github.com/erigontech/erigon/pull/23779) - 2026-09-03
+* [Review] [Review on: rpc/gasprice, rpc/jsonrpc: three review follow-ups from #22987](https://github.com/erigontech/erigon/pull/23771#pullrequestreview-5108347248) - 2026-09-04
+* [Pull Request] [rpc: stop walking a request once per layer](https://github.com/erigontech/erigon/pull/23780) - 2026-09-03
+* [Review] [Review on: rpc: stop walking a request once per layer](https://github.com/erigontech/erigon/pull/23780#pullrequestreview-5103161706) - 2026-09-03
+* [Review] [Review on: rpc/jsonrpc, rpc/gasprice: gate block-data and replay endpoints on the data they read](https://github.com/erigontech/erigon/pull/23760#pullrequestreview-5108503634) - 2026-09-04
+* [Pull Request] [tracing: put the wire types on the flat call frames too](https://github.com/erigontech/erigon/pull/23769) - 2026-09-03
+* [Review] [Review on: tracing: put the wire types on the flat call frames too](https://github.com/erigontech/erigon/pull/23769#pullrequestreview-5104296827) - 2026-09-03
+* [Review] [Review on: rpc: cover the response envelope](https://github.com/erigontech/erigon/pull/23753#pullrequestreview-5097855403) - 2026-09-03
+* [Review] [Review on: rpc/jsonrpc: two review follow-ups from #23322](https://github.com/erigontech/erigon/pull/23759#pullrequestreview-5098180851) - 2026-09-03
+* [Review] [Review on: execution/finality: do not pass db via options but instead always via funcs](https://github.com/erigontech/erigon/pull/23782#pullrequestreview-5103950338) - 2026-09-03
+* [Pull Request] [cache: tune avg code size](https://github.com/erigontech/erigon/pull/23770) - 2026-09-03
+* [Pull Request] [tracing: put the wire types on callFrame, drop gencodec](https://github.com/erigontech/erigon/pull/23766) - 2026-09-03
+* [Review] [Review on: tracing: put the wire types on callFrame, drop gencodec](https://github.com/erigontech/erigon/pull/23766#pullrequestreview-5098137416) - 2026-09-03
+* [Pull Request] [node: enable `persist receipts` by default](https://github.com/erigontech/erigon/pull/23774) - 2026-09-03
+* [Review] [Review on: build(deps): bump fast-uri from 3.1.5 to 3.1.7 in /docs/site](https://github.com/erigontech/erigon/pull/23758#pullrequestreview-5102179088) - 2026-09-03
+* [Review] [Review on: db: less direct usages of agg for collation, state snaps, steps](https://github.com/erigontech/erigon/pull/23762#pullrequestreview-5101395932) - 2026-09-03
+* [Pull Request] [rpc: cover the response envelope](https://github.com/erigontech/erigon/pull/23778) - 2026-09-03
+* [Pull Request] [tracing: put the wire types on the prestate account](https://github.com/erigontech/erigon/pull/23772) - 2026-09-03
+* [Review] [Review on: execution/commitment: verify branch-cache prefix on Get](https://github.com/erigontech/erigon/pull/23721#pullrequestreview-5097612734) - 2026-09-03
+* [Pull Request] [rpc/jsonrpc: acquire the tx and overlay atomically in eth_call](https://github.com/erigontech/erigon/pull/23775) - 2026-09-03
+* [Commit] [tracing: put the wire types on the flat call frames too (#23769)](https://github.com/erigontech/erigon/commit/0c88980b5b3e483772e444ddfcdbf1f1ad3c12e6) - 2026-09-04
+* [Commit] [rpc: cover the response envelope (#23753)](https://github.com/erigontech/erigon/commit/ad076ab65519c88857a065d3aa3fe112fc72145e) - 2026-09-04
+* [Commit] [tracing: put the wire types on callFrame, drop gencodec (#23766)](https://github.com/erigontech/erigon/commit/646aeeaac11774dcaa5f420ee75efcb8a85edfae) - 2026-09-03
+* [Commit] [tracing: put the wire types on the prestate account (#23772)](https://github.com/erigontech/erigon/commit/feae70cef6b8ba5a31ba11a757a9fd280cb2835d) - 2026-09-03
+* [Commit] [rpc/jsonrpc: acquire the tx and overlay atomically in eth_call (#23775)](https://github.com/erigontech/erigon/commit/8bcff984184418f6ae302ecde174ea0c52daeb4c) - 2026-09-03
+* [Commit] [jsonstream: write a large raw payload straight to underlying writer (#23739)](https://github.com/erigontech/erigon/commit/bfb4aa68b2c49c59fb81311e3b46b4e46fc72412) - 2026-09-03
+* [Commit] [tracing: omit callTracer `to` on a failed CREATE (#23765)](https://github.com/erigontech/erigon/commit/1b311056da63752978e2789e035109706a615474) - 2026-09-03
+* [Commit] [tracing: separate a structLog by steps written, not by the prologue (#23635)](https://github.com/erigontech/erigon/commit/2cf604de842c59891fab873fbc67e0c585b8aefe) - 2026-09-03
+* [Commit] [all: upgrade minimum Go version to 1.26 (#23735)](https://github.com/erigontech/erigon/commit/c59c11643dfc8fab5947eb90dd9fa08e755d4499) - 2026-09-03
+* [Commit] [execution/types: add Bloom.AppendText (#23736)](https://github.com/erigontech/erigon/commit/bec14aed0fbce87203789c4b4648810e9dae26ad) - 2026-09-03
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

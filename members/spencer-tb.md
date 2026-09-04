@@ -278,6 +278,19 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(tests): cover a cross-frame state gas refund after a delegation spill](https://github.com/ethereum/execution-specs/pull/3499#pullrequestreview-5089403331) - 2026-09-02
 * [Commit] [fix(test-specs): fail loudly if a test sets env fields not supported by the target fork (#3488)](https://github.com/ethereum/execution-specs/commit/1e7d0e74d588eb382e289c9dd50a60d7a6185297) - 2026-09-02
 * [Commit] [fix(test-specs): refuse RLP blockchain fixtures for engine-payload-only block overrides (#3501)](https://github.com/ethereum/execution-specs/commit/76910d3138a2dcdfee5d69d93a7b6a7d827ffbfe) - 2026-09-02
+* [Review] [Review on: fix(ci): authenticate simulator-build clones with `github.token`](https://github.com/ethereum/execution-specs/pull/3516#pullrequestreview-5104619968) - 2026-09-03
+* [Review] [Review on: feat(tests): wrap earlier transaction types into frames where possible](https://github.com/ethereum/execution-specs/pull/3500#pullrequestreview-5104576865) - 2026-09-03
+* [Review] [Review on: refactor(tests): enhance EIP-8037 test coverage part 4](https://github.com/ethereum/execution-specs/pull/3511#pullrequestreview-5104419878) - 2026-09-03
+* [Pull Request] [chore(tests): improve EIP-2780 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3515) - 2026-09-03
+* [Pull Request] [feat(tests): pin gas growth and forwarding after repayment in eip-8037](https://github.com/ethereum/execution-specs/pull/3519) - 2026-09-03
+* [Review] [Review on: feat(ci): test `execute`, `consume` and `check_eip_versions` via collect-only](https://github.com/ethereum/execution-specs/pull/3451#pullrequestreview-5100238993) - 2026-09-03
+* [Pull Request] [feat(tooling): share agent skills across Codex and Claude](https://github.com/ethereum/execution-specs/pull/3514) - 2026-09-03
+* [Pull Request] [feat(spec-specs, tests): implement EIP-8253 nonce bump](https://github.com/ethereum/execution-specs/pull/3513) - 2026-09-03
+* [Review] [Review on: refactor(tests): separate the gas window and receipt tests](https://github.com/ethereum/execution-specs/pull/3512#pullrequestreview-5100087697) - 2026-09-03
+* [Review] [Review on: feat(tests): probe EIP-161 emptiness after same-tx precompile touches](https://github.com/ethereum/execution-specs/pull/3477#pullrequestreview-5099922341) - 2026-09-03
+* [Issue] [Test Release Tracker: `glamsterdam-devnet@v8.1.4`](https://github.com/ethereum/execution-specs/issues/3518) - 2026-09-03
+* [Commit] [feat(tooling): share agent skills across Codex and Claude (#3514)](https://github.com/ethereum/execution-specs/commit/1d340aa183b5902873fdbeb99b43bd3e1b3f6d3a) - 2026-09-03
+* [Commit] [fix(tests,test-fill): fix enginex fills for BAL forks and improve the enginex consistency check (#3265)](https://github.com/ethereum/execution-specs/commit/947ef52d8230215a42c0a3347458e3249e2c804c) - 2026-09-03
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -315,6 +328,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Pull Request] [clients: add bogota time to execution layer client mappers](https://github.com/ethereum/hive/pull/1601) - 2026-08-20
 * [Commit] [clients: add bogota time to execution layer client mappers (#1601)](https://github.com/ethereum/hive/commit/3330f39b2165134865abdaba5f43b3f85f66779e) - 2026-08-20
 * [Review] [Review on: simulators/ethereum/engine: apply withdrawals CL mock config](https://github.com/ethereum/hive/pull/1604#pullrequestreview-5066866136) - 2026-08-31
+* [Review] [Review on: internal/libhive,simulators/ethereum/eels: support optional authenticated GitHub clones, redact token from recorded commands](https://github.com/ethereum/hive/pull/1606#pullrequestreview-5104086408) - 2026-09-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7773: Promote CFI to SFI](https://github.com/ethereum/EIPs/pull/12022#pullrequestreview-4806932985) - 2026-07-29
 * [Pull Request] [Update EIP-7773: SFI remaining Glamsterdam EIPs](https://github.com/ethereum/EIPs/pull/12024) - 2026-07-29

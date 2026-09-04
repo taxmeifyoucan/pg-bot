@@ -109,6 +109,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Pull Request] [[r3.6] cl/network: fix blob history backfill boundary and sparse-peer startup](https://github.com/erigontech/erigon/pull/23732) - 2026-09-02
 * [Pull Request] [cl/forkchoice: reuse Gloas contribution capacity](https://github.com/erigontech/erigon/pull/23731) - 2026-09-02
 * [Issue] [cl/forkchoice: prevent exponential Gloas contribution slice growth](https://github.com/erigontech/erigon/issues/23728) - 2026-09-02
+* [Review] [Review on: tracing: put the wire types on the flat call frames too](https://github.com/erigontech/erigon/pull/23769#pullrequestreview-5099727642) - 2026-09-03
+* [Review] [Review on: rpc: cover the response envelope](https://github.com/erigontech/erigon/pull/23753#pullrequestreview-5098232761) - 2026-09-03
+* [Review] [Review on: tracing: put the wire types on callFrame, drop gencodec](https://github.com/erigontech/erigon/pull/23766#pullrequestreview-5098232779) - 2026-09-03
+* [Review] [Review on: tracing: put the wire types on the prestate account](https://github.com/erigontech/erigon/pull/23772#pullrequestreview-5099727631) - 2026-09-03
+* [Review] [Review on: rpc/jsonrpc: acquire the tx and overlay atomically in eth_call](https://github.com/erigontech/erigon/pull/23775#pullrequestreview-5099627462) - 2026-09-03
+* [Commit] [cl/forkchoice: reuse Gloas contribution capacity (#23731)](https://github.com/erigontech/erigon/commit/b294aed7873297ecd160c5ed98aadd9c0187ee6c) - 2026-09-03
 ## Q2 2026
 
 

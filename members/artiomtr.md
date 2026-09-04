@@ -26,6 +26,7 @@ Team: [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://g
 * [Pull Request] [Raise limits for progressive containers](https://github.com/grandinetech/grandine/pull/900) - 2026-09-02
 * [Review] [Review on: Builder deposit cache](https://github.com/grandinetech/grandine/pull/898#pullrequestreview-5089796350) - 2026-09-02
 * [Commit] [Raise limits for progressive containers](https://github.com/grandinetech/grandine/commit/1a91038971f43c768d2c626c0f7276cc9cdfc1df) - 2026-09-02
+* [Pull Request] [Delta database implementation](https://github.com/grandinetech/grandine/pull/906) - 2026-09-03
 ## Q2 2026
 
 

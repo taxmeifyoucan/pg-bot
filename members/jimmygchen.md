@@ -45,6 +45,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Pull Request] [Fix false peer penalties during Gloas custody backfill](https://github.com/sigp/lighthouse/pull/9953) - 2026-08-31
 * [Review] [Review on: Add Gloas bid selection, block production, and bid gossip processing (Gloas builder API 3/5)](https://github.com/sigp/lighthouse/pull/9805#pullrequestreview-5063543548) - 2026-08-31
 * [Issue] [Next-epoch duty requests can delay block proposals](https://github.com/sigp/lighthouse/issues/9949) - 2026-08-31
+* [Issue] [Gloas block import race causes peer disconnects](https://github.com/sigp/lighthouse/issues/9975) - 2026-09-04
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(engine): serve getBlobsV4 from Osaka](https://github.com/paradigmxyz/reth/pull/26768) - 2026-08-20
 * [Commit] [fix(engine): serve getBlobsV4 from Osaka (#26768)](https://github.com/paradigmxyz/reth/commit/69b94b4e89a593ddf38be2a21dcbb6b61b98a110) - 2026-08-20

@@ -53,6 +53,7 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [PortfolioViewer: first token/NFT detection scan returns empty (complete:true) on a snap-synced node](https://github.com/NethermindEth/nethermind/issues/13051) - 2026-08-31
 * [Pull Request] [Update release/2.0.0-rc with #13036, #13038, #13046](https://github.com/NethermindEth/nethermind/pull/13081) - 2026-09-01
 * [Commit] [fix: don't log expected shutdown cancellation/teardown as error/warning (#13046)](https://github.com/NethermindEth/nethermind/commit/80ce6a4da2b24ccd4fc3429e40274104982b7d2f) - 2026-09-01
+* [Issue] [trace_block / trace_replayBlockTransactions corrupt their responses under concurrency: "Previous overridable world scope was not closed"](https://github.com/NethermindEth/nethermind/issues/13130) - 2026-09-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

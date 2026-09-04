@@ -162,6 +162,15 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Add a perf profiling mode to the benchmark workflow (#12952)](https://github.com/NethermindEth/nethermind/commit/3e3927ded4da50ea8f6acdea951b8906b941cb49) - 2026-09-01
 * [Pull Request] [Optimize flat-state reads with native RocksDB batching](https://github.com/NethermindEth/nethermind/pull/13104) - 2026-09-02
 * [Commit] [Add Plataberget archive config and CI support (#13073)](https://github.com/NethermindEth/nethermind/commit/c676882f36c56e86ba84095037f734cf7839cf8a) - 2026-09-02
+* [Pull Request] [chore: bump Nethermind.Numerics.Int256 to 1.7.0](https://github.com/NethermindEth/nethermind/pull/13127) - 2026-09-03
+* [Review] [Review on: chore: bump Nethermind.Numerics.Int256 to 1.7.0](https://github.com/NethermindEth/nethermind/pull/13127#pullrequestreview-5104085472) - 2026-09-03
+* [Review] [Review on: fix(flat): verify warmer reads in flat adapters (#12951 follow-up)](https://github.com/NethermindEth/nethermind/pull/12980#pullrequestreview-5102823588) - 2026-09-03
+* [Pull Request] [perf(state): auto-scale flat block cache with system memory](https://github.com/NethermindEth/nethermind/pull/13115) - 2026-09-03
+* [Pull Request] [fix(rpc): keep the module rented until a streamed result has been written](https://github.com/NethermindEth/nethermind/pull/13095) - 2026-09-03
+* [Issue] [Json RPC Streaming - decide if should be completely removed](https://github.com/NethermindEth/nethermind/issues/13114) - 2026-09-03
+* [Commit] [chore: bump Nethermind.Numerics.Int256 to 1.7.0 (#13127)](https://github.com/NethermindEth/nethermind/commit/d7a432f76f2c4e0a3e25012f96ab38ad08a98118) - 2026-09-03
+* [Commit] [perf(evm): disable the stream interpreter by default (#12999)](https://github.com/NethermindEth/nethermind/commit/8da3c763debeefc81f90959b107a5d5edf196ce5) - 2026-09-03
+* [Commit] [fix(rpc): keep the module rented until a streamed result has been written (#13095)](https://github.com/NethermindEth/nethermind/commit/19556949b0165e738fe957d3c47b6d9c1efd9030) - 2026-09-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

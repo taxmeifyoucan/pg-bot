@@ -536,6 +536,51 @@ Team: Reth
 * [Issue] [txpool: blob-pool transactions keep a stale ENOUGH_BLOB_FEE_CAP_BLOCK when the blob fee rises](https://github.com/paradigmxyz/reth/issues/26977) - 2026-09-03
 * [Issue] [txpool: base fee rise clears ENOUGH_FEE_CAP_BLOCK on dependents that satisfy the fee](https://github.com/paradigmxyz/reth/issues/26960) - 2026-09-03
 * [Issue] [txpool: blob fee rise is skipped when the base fee falls in the same block](https://github.com/paradigmxyz/reth/issues/26959) - 2026-09-03
+* [Pull Request] [fix(rpc): reject eth_getLogs queries over pruned receipts](https://github.com/paradigmxyz/reth/pull/27002) - 2026-09-04
+* [Pull Request] [fix(rpc): resolve a pending toBlock in eth_getLogs to the head](https://github.com/paradigmxyz/reth/pull/27001) - 2026-09-04
+* [Pull Request] [test(rpc): e2e coverage and tooling for eth_getLogs and poll filters](https://github.com/paradigmxyz/reth/pull/27003) - 2026-09-04
+* [Pull Request] [perf(rpc): scan eth_getLogs ranges window by window](https://github.com/paradigmxyz/reth/pull/27000) - 2026-09-04
+* [Pull Request] [fix(rpc): hold a blocking IO permit for eth_getLogs range scans](https://github.com/paradigmxyz/reth/pull/26999) - 2026-09-04
+* [Pull Request] [fix(rpc): return only new logs from eth_getFilterChanges](https://github.com/paradigmxyz/reth/pull/26998) - 2026-09-04
+* [Review] [Review on: fix(txpool): park pending blob txs when the blob fee rises and the base fee falls](https://github.com/paradigmxyz/reth/pull/26962#pullrequestreview-5101195687) - 2026-09-03
+* [Review] [Review on: fix(metrics): collect storage metrics off the scrape path](https://github.com/paradigmxyz/reth/pull/26734#pullrequestreview-5103050106) - 2026-09-03
+* [Review] [Review on: perf(engine): batch BAL prewarm slot dispatch](https://github.com/paradigmxyz/reth/pull/26955#pullrequestreview-5104235178) - 2026-09-03
+* [Pull Request] [perf(engine): batch BAL prewarm targets across accounts](https://github.com/paradigmxyz/reth/pull/26996) - 2026-09-03
+* [Review] [Review on: perf(rpc): store fee history entries behind Arc](https://github.com/paradigmxyz/reth/pull/26942#pullrequestreview-5097223292) - 2026-09-03
+* [Review] [Review on: perf(net): avoid quadratic cells sizing and presize responses](https://github.com/paradigmxyz/reth/pull/26965#pullrequestreview-5105128583) - 2026-09-03
+* [Pull Request] [fix(nippy-jar): return an error for empty offsets files](https://github.com/paradigmxyz/reth/pull/26995) - 2026-09-03
+* [Pull Request] [test(txpool): assert per-sender side map contents in pending pool](https://github.com/paradigmxyz/reth/pull/26989) - 2026-09-03
+* [Review] [Review on: perf(static-files): return jar rows without allocating](https://github.com/paradigmxyz/reth/pull/26951#pullrequestreview-5103854839) - 2026-09-03
+* [Review] [Review on: perf(rpc): build txpool_contentFrom from the sender's transactions](https://github.com/paradigmxyz/reth/pull/26969#pullrequestreview-5102761722) - 2026-09-03
+* [Review] [Review on: perf(prune): only read history shards that pruning can affect](https://github.com/paradigmxyz/reth/pull/26900#pullrequestreview-5102306175) - 2026-09-03
+* [Issue] [eth/72: bound KZG work when serving GetCells](https://github.com/paradigmxyz/reth/issues/26994) - 2026-09-03
+* [Commit] [fix(metrics): collect storage metrics off the scrape path (#26734)](https://github.com/paradigmxyz/reth/commit/b4cdc0e4fde16a5351d02769c046b90f1b068da0) - 2026-09-03
+* [Commit] [perf(exex): buffer WAL notification serialization (#26949)](https://github.com/paradigmxyz/reth/commit/bcb9d9c612fdbeafbb4294eb4545718ee47f3a30) - 2026-09-03
+* [Commit] [perf(engine): batch BAL prewarm slot dispatch (#26955)](https://github.com/paradigmxyz/reth/commit/fcaed49efbcb465a9d62712e847d8465c69f7bd9) - 2026-09-03
+* [Commit] [perf(rpc): store fee history entries behind Arc (#26942)](https://github.com/paradigmxyz/reth/commit/6005ebc9796e8eea5358b9d403a32de378f41e9c) - 2026-09-03
+* [Commit] [perf(net): avoid quadratic cells sizing and presize responses (#26965)](https://github.com/paradigmxyz/reth/commit/032cafc63fae3e1253825954634b21c60ff679f6) - 2026-09-03
+* [Commit] [perf(db): use TSC-backed clock for transaction start time (#26941)](https://github.com/paradigmxyz/reth/commit/c29ab4319891d14aa1800eb4759fd05da9a6a9ee) - 2026-09-03
+* [Commit] [perf(tracing): avoid allocating formatted log fields (#26953)](https://github.com/paradigmxyz/reth/commit/972ad6194e63527c0eaa0edf393a23110ce50349) - 2026-09-03
+* [Commit] [perf(rpc): bloom-filter blocks in log subscriptions and getLogs by hash (#26946)](https://github.com/paradigmxyz/reth/commit/1ca1201167f61ea7eec099c7d1ea59e828d0d515) - 2026-09-03
+* [Commit] [test(txpool): assert per-sender side map contents in pending pool (#26989)](https://github.com/paradigmxyz/reth/commit/2e6e838b938f636409bcbb88454d2b1c3e0b06a1) - 2026-09-03
+* [Commit] [perf(static-files): return jar rows without allocating (#26951)](https://github.com/paradigmxyz/reth/commit/c05b6fbf47be50d6968d38570b34bc789b503ee6) - 2026-09-03
+* [Commit] [perf(engine): skip prewarm tx clones when nothing consumes them (#26944)](https://github.com/paradigmxyz/reth/commit/46474854ab6a86d76a8119d70d1dee23dcd0811a) - 2026-09-03
+* [Commit] [perf(evm): reuse receipt blooms for the block logs bloom (#26939)](https://github.com/paradigmxyz/reth/commit/cfd72a3a25994801c07630a3604c8fe376252125) - 2026-09-03
+* [Commit] [perf(txpool): track highest nonce per sender on fee rebuild (#26978)](https://github.com/paradigmxyz/reth/commit/acc1197b75c1c0130154f2204f1cf02c87e837cf) - 2026-09-03
+* [Commit] [perf(nippy-jar): allocate cursor scratch buffer lazily (#26975)](https://github.com/paradigmxyz/reth/commit/053703f7e27899dbc4a4363eec82a5bc1e1bc5e8) - 2026-09-03
+* [Commit] [perf(db): use FxHashMap for cached MDBX dbi lookups (#26967)](https://github.com/paradigmxyz/reth/commit/dfd976930ce5805f6046300294393bf6dfc49fa0) - 2026-09-03
+* [Commit] [perf(trie): preallocate branch node hashes vec (#26961)](https://github.com/paradigmxyz/reth/commit/d9762c8d6bd45ce25ba83012f9b989663a84a59a) - 2026-09-03
+* [Commit] [perf(txpool): use next_back to find the highest remaining nonce (#26964)](https://github.com/paradigmxyz/reth/commit/41717ed7b3df8235be5417b43b73c6f75518a9c7) - 2026-09-03
+* [Commit] [perf(ipc): avoid copying IPC subscription payloads (#26972)](https://github.com/paradigmxyz/reth/commit/c50390456733fbac617ec7b201a02393a39ec6b1) - 2026-09-03
+* [Commit] [perf(static-files): use btree range lookup for block index (#26943)](https://github.com/paradigmxyz/reth/commit/70e776bfe588056b582077acf466bf57570842fd) - 2026-09-03
+* [Commit] [perf(stages): use fast hasher for history index caches (#26950)](https://github.com/paradigmxyz/reth/commit/89964d320896f1b609572f8be2162b8b5461bc79) - 2026-09-03
+* [Commit] [perf(trie): avoid formatting storage root for disabled span (#26938)](https://github.com/paradigmxyz/reth/commit/3fba6ad70a18f870669a8cc5078b65d3ffc01251) - 2026-09-03
+* [Commit] [chore(trie): remove redundant clone flagged by nightly clippy (#26979)](https://github.com/paradigmxyz/reth/commit/6d708031eb7fd3d31b83c5a03a1bb336cb7c9b56) - 2026-09-03
+* [Commit] [perf(rpc): bound getLogs range header capacity by remaining headers (#26971)](https://github.com/paradigmxyz/reth/commit/5475a47a718b32a15cf3386e76f6d25a08f6e943) - 2026-09-03
+* [Commit] [fix(dns): keep rechecking a tree whose root did not change (#26937)](https://github.com/paradigmxyz/reth/commit/ac411120c3f2d93c1599401931d112a4c66ebcb3) - 2026-09-03
+* [Commit] [perf(discv5): don't block startup on boot node ENR requests (#26929)](https://github.com/paradigmxyz/reth/commit/5124a584a0c5ac324c9a35ce3dbbe1befad4b479) - 2026-09-03
+* [Commit] [chore: fix latest nightly clippy lints (#26985)](https://github.com/paradigmxyz/reth/commit/fac89a4a723f77e7575f5374f3213678a61ab543) - 2026-09-03
+* [Commit] [perf(rpc): update eth cache gauges once per drained batch (#26968)](https://github.com/paradigmxyz/reth/commit/ca6b1cb89bbff701d68f4be945c5170677cd38af) - 2026-09-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

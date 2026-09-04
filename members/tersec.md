@@ -136,6 +136,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: req/resp domain for inclusion lists](https://github.com/status-im/nimbus-eth2/pull/8876#pullrequestreview-5087279844) - 2026-09-02
 * [Pull Request] [rm some pre-fulu blob infrastructure](https://github.com/status-im/nimbus-eth2/pull/8978) - 2026-09-02
 * [Review] [Review on: dedup PTC gossip votes by (slot, validator_index)](https://github.com/status-im/nimbus-eth2/pull/8977#pullrequestreview-5085178368) - 2026-09-02
+* [Pull Request] [rm electra REST API proposal support](https://github.com/status-im/nimbus-eth2/pull/8989) - 2026-09-04
+* [Review] [Review on: bump nim-web3, add getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/8971#pullrequestreview-5097798796) - 2026-09-03
+* [Review] [Review on: fix `payload_present` to reflect payload deadline decision](https://github.com/status-im/nimbus-eth2/pull/8972#pullrequestreview-5099266303) - 2026-09-03
+* [Pull Request] [rm electra remote signer support](https://github.com/status-im/nimbus-eth2/pull/8987) - 2026-09-03
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

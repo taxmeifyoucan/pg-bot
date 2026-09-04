@@ -80,6 +80,11 @@ Team: Grandine
 * [Pull Request] [Builder deposit cache](https://github.com/grandinetech/grandine/pull/898) - 2026-09-02
 * [Review] [Review on: Resolve commitments through Gloas block](https://github.com/grandinetech/grandine/pull/897#pullrequestreview-5088371714) - 2026-09-02
 * [Commit] [Builder deposit cache](https://github.com/grandinetech/grandine/commit/272975377a7e085152092cf04141ba46b7946ce2) - 2026-09-02
+* [Pull Request] [Gloas fork boundary envelope sync fix](https://github.com/grandinetech/grandine/pull/903) - 2026-09-03
+* [Review] [Review on: Gloas fork boundary envelope sync fix](https://github.com/grandinetech/grandine/pull/903#pullrequestreview-5102458496) - 2026-09-03
+* [Review] [Review on: Prepare next slot execution payload after PTC votes and payload reveal](https://github.com/grandinetech/grandine/pull/899#pullrequestreview-5100682862) - 2026-09-03
+* [Review] [Review on: Build envelope full with their preset limits](https://github.com/grandinetech/grandine/pull/902#pullrequestreview-5100655308) - 2026-09-03
+* [Commit] [Fix for issue with sync service getting stalled because it waits for envelope it won't ever receive. Cap max sync batch retries.](https://github.com/grandinetech/grandine/commit/fc2b4a48069e8a216677eaadcda5f503f881c027) - 2026-09-03
 ## Q2 2026
 
 

@@ -263,6 +263,12 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: test: stop the deadlock guard from ending the blocked blob update](https://github.com/NethermindEth/nethermind/pull/13089#pullrequestreview-5087719971) - 2026-09-02
 * [Commit] [test: stop the deadlock guard from ending the blocked blob update (#13089)](https://github.com/NethermindEth/nethermind/commit/f435962c81866c9cd96d2bf1097dcbe28cd61639) - 2026-09-02
 * [Commit] [ci: fall back to the base EVM benchmark harness when the PR harness will not compile (#13088)](https://github.com/NethermindEth/nethermind/commit/53712a7f9290f7f1379df1c57993b2171e163d2d) - 2026-09-02
+* [Pull Request] [refactor(evm): one exit test per opcode in the dispatch loops](https://github.com/NethermindEth/nethermind/pull/13123) - 2026-09-03
+* [Review] [Review on: refactor(evm): one exit test per opcode in the dispatch loops](https://github.com/NethermindEth/nethermind/pull/13123#pullrequestreview-5104797018) - 2026-09-03
+* [Review] [Review on: [WIP] - feat(eip8141): implement frame transactions](https://github.com/NethermindEth/nethermind/pull/12526#pullrequestreview-5105250278) - 2026-09-03
+* [Commit] [perf(zkevm): presized witness stores, dense dispatch, cheaper word swaps, sha256f merkleization (#13090)](https://github.com/NethermindEth/nethermind/commit/57edf733d21c442da3c8f47f76532516e55b1e3b) - 2026-09-03
+* [Commit] [perf(zkevm): build with -Ot and drop single-thread locks from TrieNode (#13086)](https://github.com/NethermindEth/nethermind/commit/d9278c3749ff9b9ada55343aa09dbb2ceb1cc247) - 2026-09-03
+* [Commit] [perf(evm): widen the program counter to nint (#13079)](https://github.com/NethermindEth/nethermind/commit/d69d11c91543abee3f8ffaff0fc43591cb910765) - 2026-09-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

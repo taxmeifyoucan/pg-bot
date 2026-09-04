@@ -73,6 +73,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Remove SavePreMergeHeaderStep and test class](https://github.com/besu-eth/besu/pull/11210#pullrequestreview-5073895905) - 2026-09-01
 * [Commit] [fix(qbft/ibft2): bound prepares/round-change lists at decode](https://github.com/besu-eth/besu/commit/dd4101c9ec92716fcc22cdd825c258c67969e781) - 2026-09-01
 * [Review] [Review on: Bonsai archive proofs diff encoding](https://github.com/besu-eth/besu/pull/11091#pullrequestreview-5085129251) - 2026-09-02
+* [Review] [Review on: fix(validation): reject post-Shanghai blocks with withdrawalsRoot but absent body withdrawals](https://github.com/besu-eth/besu/pull/11229#pullrequestreview-5097472020) - 2026-09-03
+* [Review] [Review on: Empty block metrics](https://github.com/besu-eth/besu/pull/11163#pullrequestreview-5098005221) - 2026-09-03
 ## Q2 2026
 
 

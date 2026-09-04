@@ -244,6 +244,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [evm: Improve readability of SELFDESTRUCT refund (#1694)](https://github.com/ipsilon/evmone/commit/af66b3d0c283d5b76fa93f6eef868c5dcd00615e) - 2026-09-02
 * [Commit] [test: Count outcomes from the notes (#1693)](https://github.com/ipsilon/evmone/commit/a203f55f606cc1e8a4d715099432de4f311f952b) - 2026-09-02
 * [Commit] [test: Rename test_files to test_collector (#1692)](https://github.com/ipsilon/evmone/commit/28f3aaf3e9e7d860064cbdcfda9a355e59e8b94e) - 2026-09-02
+* [Pull Request] [test: Group the integration tests by the command they run](https://github.com/ipsilon/evmone/pull/1695) - 2026-09-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -310,6 +311,8 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [feat(tests): sweep the refund merge over every call and create opcode (#3506)](https://github.com/ethereum/execution-specs/commit/ad1952495186496c24721f4da2a265b1cd9ccb1c) - 2026-09-02
 * [Commit] [feat(tests): cover a cross-frame state gas refund with a funded reservoir (#3498)](https://github.com/ethereum/execution-specs/commit/8faf36a445d46a8f40ab1f4d274edcbe5a75ba17) - 2026-09-02
 * [Commit] [feat(tests): cover a cross-frame state gas refund after a delegation spill (#3499)](https://github.com/ethereum/execution-specs/commit/814b31327b2f1f139fe5ffd7fd1c2e91e8f9e7e4) - 2026-09-02
+* [Pull Request] [refactor(tests): separate the gas window and receipt tests](https://github.com/ethereum/execution-specs/pull/3512) - 2026-09-03
+* [Commit] [refactor(tests): separate the gas window and receipt tests (#3512)](https://github.com/ethereum/execution-specs/commit/b462ba26e94f743511ec749754352d374838769b) - 2026-09-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/pull/11858) - 2026-07-03
 * [Commit] [Update EIP-8037: charge account creation conditionally at access](https://github.com/ethereum/EIPs/commit/a4801f3bb1d1380ecc7db5f988b222684ae098eb) - 2026-07-07
@@ -347,6 +350,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Review] [Review on: eth_simulateV1: update test_28 to remove EIP-7610 check ](https://github.com/erigontech/rpc-tests/pull/594#pullrequestreview-5091016403) - 2026-09-02
+* [Review] [Review on: eth_simulateV1: update test_28 to remove EIP-7610 check ](https://github.com/erigontech/rpc-tests/pull/594#pullrequestreview-5099586793) - 2026-09-03
 ## Q2 2026
 
 

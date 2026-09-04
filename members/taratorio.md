@@ -339,6 +339,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [ci: bump eest devnet fixtures to v8.1.3 (#23727)](https://github.com/erigontech/erigon/commit/6eb923c99b47c0a774b89ab80f4e4d969f85c8cb) - 2026-09-02
 * [Commit] [execution: follow up tidy bench guideline (#23729)](https://github.com/erigontech/erigon/commit/77f2907d6bba1fdb61486fa07f378ed5440a4bb3) - 2026-09-02
 * [Commit] [agents: add guidance to separate benches from tests (#23710)](https://github.com/erigontech/erigon/commit/a2be21f253ba0b3ab247cd055acf82b12b8b7c28) - 2026-09-02
+* [Pull Request] [execution/finality: do not pass db via options but instead always via funcs](https://github.com/erigontech/erigon/pull/23782) - 2026-09-03
+* [Review] [Review on: execution/finality: do not pass db via options but instead always via funcs](https://github.com/erigontech/erigon/pull/23782#pullrequestreview-5104091743) - 2026-09-03
+* [Review] [Review on: cache: tune avg code size](https://github.com/erigontech/erigon/pull/23770#pullrequestreview-5103881809) - 2026-09-03
+* [Review] [Review on: execution/p2p: validate BlockBodies before materialization](https://github.com/erigontech/erigon/pull/23712#pullrequestreview-5099100881) - 2026-09-03
+* [Commit] [execution/finality: do not pass db via options but instead always via funcs (#23782)](https://github.com/erigontech/erigon/commit/3e5d4d4d3bbc4e12844ba417aa4b8fbd747c6db6) - 2026-09-03
+* [Commit] [db: less direct usages of agg for collation, state snaps, steps (#23762)](https://github.com/erigontech/erigon/commit/fa93ec13970e34226150e7cb1c4a4ccc51d23b25) - 2026-09-03
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

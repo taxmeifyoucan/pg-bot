@@ -50,6 +50,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aah
 * [Review] [Review on: Fix SSTORE regression](https://github.com/besu-eth/besu/pull/11202#pullrequestreview-5065578960) - 2026-08-31
 * [Commit] [Fix SSTORE regression (#11202)](https://github.com/besu-eth/besu/commit/3f61fda38fc81ada7a0a9ce9408d5f1510c69a45) - 2026-08-31
 * [Review] [Review on: increase account trie executor threads for glamsterdam devnet 8](https://github.com/besu-eth/besu/pull/11222#pullrequestreview-5089614423) - 2026-09-02
+* [Review] [Review on: reuse sar0 and shl0 for UInt256 byte shifts](https://github.com/besu-eth/besu/pull/11137#pullrequestreview-5103194584) - 2026-09-03
 ## Q2 2026
 
 

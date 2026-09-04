@@ -444,6 +444,26 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [test: fail spec tests expecting an error if none is thrown (#9986)](https://github.com/ChainSafe/lodestar/commit/d55b13cf5e5f282eb378de2b7aad1c2b794bfa7c) - 2026-09-02
 * [Commit] [fix: run cheap bid rejects before expensive validation (#9984)](https://github.com/ChainSafe/lodestar/commit/d00b8296c9dc88d2e3c6c01fe7c3b494d4a81149) - 2026-09-02
 * [Commit] [fix: keep event stream alive if an event can not be processed (#9964)](https://github.com/ChainSafe/lodestar/commit/7d85330f928c015202341da63624f6b00c420c43) - 2026-09-02
+* [Pull Request] [fix: serve closest head state if head block post-state is not available](https://github.com/ChainSafe/lodestar/pull/10003) - 2026-09-03
+* [Review] [Review on: fix: serve closest head state if head block post-state is not available](https://github.com/ChainSafe/lodestar/pull/10003#pullrequestreview-5107922071) - 2026-09-04
+* [Pull Request] [chore: fix typo in persisted keys comment](https://github.com/ChainSafe/lodestar/pull/10000) - 2026-09-03
+* [Pull Request] [fix: handle orphaned parent payload envelope in range sync batches](https://github.com/ChainSafe/lodestar/pull/10002) - 2026-09-03
+* [Review] [Review on: fix: handle orphaned parent payload envelope in range sync batches](https://github.com/ChainSafe/lodestar/pull/10002#pullrequestreview-5107802717) - 2026-09-03
+* [Review] [Review on: perf(state-transition): batch inactivity score updates](https://github.com/ChainSafe/lodestar/pull/9911#pullrequestreview-5100431437) - 2026-09-03
+* [Review] [Review on: test: enable is_one_confirmed deposit vectors](https://github.com/ChainSafe/lodestar/pull/9917#pullrequestreview-5101064930) - 2026-09-03
+* [Review] [Review on: fix(api): require Fulu for v3 block production](https://github.com/ChainSafe/lodestar/pull/9993#pullrequestreview-5101322824) - 2026-09-03
+* [Review] [Review on: chore: remove bid pool addition via api path](https://github.com/ChainSafe/lodestar/pull/9998#pullrequestreview-5102302996) - 2026-09-03
+* [Review] [Review on: fix: enforce proposer preferences on the bid publish API and at bid selection](https://github.com/ChainSafe/lodestar/pull/9996#pullrequestreview-5102247321) - 2026-09-03
+* [Review] [Review on: chore: make dashboard ad hoc filters usable outside our own Grafana](https://github.com/ChainSafe/lodestar/pull/9995#pullrequestreview-5101941249) - 2026-09-03
+* [Review] [Review on: docs: update historical fork support boundaries](https://github.com/ChainSafe/lodestar/pull/9983#pullrequestreview-5101002159) - 2026-09-03
+* [Review] [Review on: chore: add forkSeq to IBeaconStateView](https://github.com/ChainSafe/lodestar/pull/9927#pullrequestreview-5101044396) - 2026-09-03
+* [Review] [Review on: refactor: rename getLcExecutionRoot to getLightClientExecutionRoot](https://github.com/ChainSafe/lodestar/pull/9992#pullrequestreview-5100568223) - 2026-09-03
+* [Review] [Review on: feat: track late canonical blocks](https://github.com/ChainSafe/lodestar/pull/9968#pullrequestreview-5099110122) - 2026-09-03
+* [Review] [Review on: fix: defer gossip handler to the next event loop](https://github.com/ChainSafe/lodestar/pull/9990#pullrequestreview-5099087425) - 2026-09-03
+* [Review] [Review on: fix(lightclient): serve bootstrap for the checkpoint-sync anchor block](https://github.com/ChainSafe/lodestar/pull/9991#pullrequestreview-5099053823) - 2026-09-03
+* [Review] [Review on: chore: fix Switch gossip subscriptions panel of Sync dashboard](https://github.com/ChainSafe/lodestar/pull/9987#pullrequestreview-5098999957) - 2026-09-03
+* [Review] [Review on: fix: minor improvement on ptc message gossip validation](https://github.com/ChainSafe/lodestar/pull/9969#pullrequestreview-5098987550) - 2026-09-03
+* [Commit] [fix: reject bids with block_hash equal to parent_block_hash (#9972)](https://github.com/ChainSafe/lodestar/commit/76b167bf36918ae5f811427850587734e556e319) - 2026-09-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -497,6 +517,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [Hex-encode only literal `ProgressiveList[Byte]` in reference tests (#5587)](https://github.com/ethereum/consensus-specs/commit/4813cf1f6dc9f4accf6ea43a731f4b4030388518) - 2026-09-01
 * [Pull Request] [Reject bids with `block_hash` equal to `parent_block_hash`](https://github.com/ethereum/consensus-specs/pull/5594) - 2026-09-02
 * [Review] [Review on: Reject bids with `block_hash` equal to `parent_block_hash`](https://github.com/ethereum/consensus-specs/pull/5594#pullrequestreview-5092295689) - 2026-09-02
+* [Review] [Review on: Bound the bid's gas limit against the parent execution payload](https://github.com/ethereum/consensus-specs/pull/5598#pullrequestreview-5107180260) - 2026-09-03
+* [Commit] [Reject bids with `block_hash` equal to `parent_block_hash` (#5594)](https://github.com/ethereum/consensus-specs/commit/54e69320a74019573cc4036528322c34a9fcb28b) - 2026-09-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
@@ -535,6 +557,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: prepare 1.0.0 release](https://github.com/ChainSafe/lodestar-z/pull/576#pullrequestreview-4975874039) - 2026-08-19
 * [Review] [Review on: chore(docs): add AI_POLICY](https://github.com/ChainSafe/lodestar-z/pull/590#pullrequestreview-5005836566) - 2026-08-24
 * [Review] [Review on: fix: reject withdrawal count mismatches](https://github.com/ChainSafe/lodestar-z/pull/619#pullrequestreview-5075712838) - 2026-09-01
+* [Review] [Review on: feat(napi): expose forkSeq on BeaconStateView binding](https://github.com/ChainSafe/lodestar-z/pull/635#pullrequestreview-5101605757) - 2026-09-03
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Pull Request] [Return 404 for unknown keymanager validator keys](https://github.com/Consensys/teku/pull/11133) - 2026-08-18
 * [Commit] [Return 404 for unknown keymanager validator keys (#11133)](https://github.com/Consensys/teku/commit/93b41c1833441603b8272ddfec7a7fd7100508a5) - 2026-08-18

@@ -66,6 +66,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Consider builder bids during block production](https://github.com/Consensys-Incorporated/teku/pull/11209#pullrequestreview-5079029884) - 2026-09-01
 * [Pull Request] [Staked Builder API REST Client](https://github.com/Consensys-Incorporated/teku/pull/11026) - 2026-09-01
 * [Commit] [Staked Builder API REST Client (#11026)](https://github.com/Consensys-Incorporated/teku/commit/1ef46b9bb2d4757e315eebc31ac852976ec45d62) - 2026-09-01
+* [Pull Request] [Submit proposer preferences VC -> BN](https://github.com/Consensys-Incorporated/teku/pull/11227) - 2026-09-03
+* [Pull Request] [Disable beacon proposer and validator registrations in Gloas](https://github.com/Consensys-Incorporated/teku/pull/11226) - 2026-09-03
 ## Q2 2026
 
 

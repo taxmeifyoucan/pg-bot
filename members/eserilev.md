@@ -142,6 +142,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Review] [Review on: Add support for engine_getInclusionListV1](https://github.com/sigp/lighthouse/pull/9749#pullrequestreview-5094910523) - 2026-09-02
 * [Review] [Review on: fork choice compliance tests](https://github.com/sigp/lighthouse/pull/9710#pullrequestreview-5093227935) - 2026-09-02
 * [Pull Request] [Clean up fork choice ef tests](https://github.com/sigp/lighthouse/pull/9965) - 2026-09-02
+* [Pull Request] [Add IL prop tests](https://github.com/sigp/lighthouse/pull/9969) - 2026-09-03
+* [Pull Request] [Reject bids whose block hash equals the parent block hash](https://github.com/sigp/lighthouse/pull/9970) - 2026-09-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

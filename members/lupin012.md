@@ -182,6 +182,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [rpc/jsonrpc: two review follow-ups from #23322](https://github.com/erigontech/erigon/pull/23759) - 2026-09-02
 * [Commit] [rpc: pin gas-oracle requests to one overlay view (#22987)](https://github.com/erigontech/erigon/commit/44170cb31daf4341853c1e2767b906878b1235a4) - 2026-09-02
 * [Commit] [rpc/jsonrpc: trim the over-engineering left by #23690 (#23725)](https://github.com/erigontech/erigon/commit/610102138ffe1773fe53197ec91e20799995df1a) - 2026-09-02
+* [Pull Request] [rpc/gasprice, rpc/jsonrpc: three review follow-ups from #22987](https://github.com/erigontech/erigon/pull/23771) - 2026-09-03
+* [Review] [Review on: rpc/jsonrpc, rpc/gasprice: gate block-data and replay endpoints on the data they read](https://github.com/erigontech/erigon/pull/23760#pullrequestreview-5105451495) - 2026-09-03
+* [Commit] [rpc/gasprice, rpc/jsonrpc: three review follow-ups from #22987 (#23771)](https://github.com/erigontech/erigon/commit/3fe094cc44d3324c2a14019008632f5f35bb9587) - 2026-09-04
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

@@ -56,6 +56,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Pull Request] [Use BN --graffiti if VC doesn't specify one](https://github.com/status-im/nimbus-eth2/pull/8984) - 2026-09-03
 * [Pull Request] [Avoid redundant hash_tree_root when sub-roots also needed](https://github.com/status-im/nimbus-eth2/pull/8979) - 2026-09-02
 * [Review] [Review on: Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946#pullrequestreview-5087755509) - 2026-09-02
+* [Review] [Review on: Use EL and CL identifiers in default graffiti](https://github.com/status-im/nimbus-eth2/pull/8620#pullrequestreview-5100537973) - 2026-09-03
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Forward compatible consensus data structures (EIP-7688)](https://github.com/ethereum/consensus-specs/pull/4630) - 2026-07-06
 * [Commit] [Forward compatible consensus data structures (EIP-7688) (#4630)](https://github.com/ethereum/consensus-specs/commit/bd6df5afe26d56e9ccf623071c3b574a76967ac9) - 2026-07-06

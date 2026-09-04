@@ -50,6 +50,8 @@ Github: [@healthykim](https://github.com/healthykim)
 * [Review] [Review on: cmd/devp2p/internal/ethtest: add eth/71 (EIP-8159) tests](https://github.com/ethereum/go-ethereum/pull/35389#pullrequestreview-5051197212) - 2026-08-28
 * [Review] [Review on: eth/fetcher: correct the comment on announced-size peer drops](https://github.com/ethereum/go-ethereum/pull/35620#pullrequestreview-5066888118) - 2026-08-31
 * [Commit] [cmd/devp2p/internal/ethtest: add osaka testdata and eth/72 tests (#35368)](https://github.com/ethereum/go-ethereum/commit/e4db964e75063adcc4ab55ad3bd3589458aedad4) - 2026-09-02
+* [Pull Request] [cmd/devp2p/internal/ethtest: fix concurrent reads in readAnyFrom](https://github.com/ethereum/go-ethereum/pull/35648) - 2026-09-03
+* [Pull Request] [cmd/devp2p: skip eth72 test](https://github.com/ethereum/go-ethereum/pull/35647) - 2026-09-03
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8070: Move to Review](https://github.com/ethereum/EIPs/pull/12034#pullrequestreview-4816824387) - 2026-07-30
 * [Review] [Review on: Update EIP-8070: Clarify custodyColumns `null` behavior](https://github.com/ethereum/EIPs/pull/12144#pullrequestreview-4916982296) - 2026-08-12

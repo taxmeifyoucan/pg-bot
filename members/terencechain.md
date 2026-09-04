@@ -218,6 +218,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Bump consensus spec to v1.7.0-alpha.13](https://github.com/OffchainLabs/prysm/pull/17382#pullrequestreview-5079131811) - 2026-09-01
 * [Commit] [Use head state for next-epoch attestation target states (#17441)](https://github.com/OffchainLabs/prysm/commit/6a8ba2dcc1d7fb7d90177cf162082d1bd4972b05) - 2026-09-01
 * [Review] [Review on: Gate `getFFG()` precompute for epoch start & "already-head" case](https://github.com/OffchainLabs/prysm/pull/17434#pullrequestreview-5085230922) - 2026-09-02
+* [Issue] [Expose a payload-content aware IsOptimistic for gloas](https://github.com/OffchainLabs/prysm/issues/17451) - 2026-09-03
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

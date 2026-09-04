@@ -148,6 +148,8 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: refactor(test-benchmark): migrate benchmark suite to devnet-8](https://github.com/ethereum/execution-specs/pull/3411#pullrequestreview-5075818814) - 2026-09-01
 * [Commit] [refactor(tests): enhance EIP-8037 test coverage part 3 (#3485)](https://github.com/ethereum/execution-specs/commit/3d3d43b618ca52b27aba4af93ca9bf92f721e56a) - 2026-09-01
 * [Review] [Review on: feat(tests): add precompile as block coinbase coverage](https://github.com/ethereum/execution-specs/pull/3462#pullrequestreview-5091024413) - 2026-09-02
+* [Review] [Review on: fix(ci): authenticate simulator-build clones with `github.token`](https://github.com/ethereum/execution-specs/pull/3516#pullrequestreview-5101963400) - 2026-09-03
+* [Pull Request] [refactor(tests): enhance EIP-8037 test coverage part 4](https://github.com/ethereum/execution-specs/pull/3511) - 2026-09-03
 ## Q2 2026
 
 
