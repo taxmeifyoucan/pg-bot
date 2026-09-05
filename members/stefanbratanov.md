@@ -68,6 +68,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Commit] [Staked Builder API REST Client (#11026)](https://github.com/Consensys-Incorporated/teku/commit/1ef46b9bb2d4757e315eebc31ac852976ec45d62) - 2026-09-01
 * [Pull Request] [Submit proposer preferences VC -> BN](https://github.com/Consensys-Incorporated/teku/pull/11227) - 2026-09-03
 * [Pull Request] [Disable beacon proposer and validator registrations in Gloas](https://github.com/Consensys-Incorporated/teku/pull/11226) - 2026-09-03
+* [Pull Request] [Clean-up empty overrides (ValidatorTimingChannel)](https://github.com/Consensys-Incorporated/teku/pull/11230) - 2026-09-04
+* [Review] [Review on: Submit proposer preferences VC -> BN](https://github.com/Consensys-Incorporated/teku/pull/11227#pullrequestreview-5110595055) - 2026-09-04
+* [Commit] [Disable beacon proposer and validator registrations in Gloas (#11226)](https://github.com/Consensys-Incorporated/teku/commit/835e7f553d247e62d006c7523b0c346f93dab16c) - 2026-09-04
+* [Commit] [Submit proposer preferences VC -> BN (#11227)](https://github.com/Consensys-Incorporated/teku/commit/0e24ff55f5178979e3e2b315d8bd4b8fe4b2e0ca) - 2026-09-04
 ## Q2 2026
 
 

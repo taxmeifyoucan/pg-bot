@@ -68,6 +68,8 @@ Team: Reth
 * [Review] [Review on: chore(docker): configure nightly persistence thresholds](https://github.com/paradigmxyz/reth/pull/26888#pullrequestreview-5065345886) - 2026-08-31
 * [Review] [Review on: feat(rpc): make V2 multiproofs the default](https://github.com/paradigmxyz/reth/pull/26851#pullrequestreview-5077446726) - 2026-09-01
 * [Review] [Review on: fix(engine): return invalid for undecodable block access lists](https://github.com/paradigmxyz/reth/pull/26889#pullrequestreview-5075973694) - 2026-09-01
+* [Pull Request] [Add deterministic testing support across core components](https://github.com/paradigmxyz/reth/pull/27017) - 2026-09-04
+* [Review] [Review on: perf(stages): avoid cloning ExecutionOutcome for ExEx notification](https://github.com/paradigmxyz/reth/pull/26947#pullrequestreview-5115431069) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

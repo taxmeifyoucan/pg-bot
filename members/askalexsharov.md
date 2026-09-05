@@ -1281,6 +1281,23 @@ Team: Erigon
 * [Commit] [tracing: separate a structLog by steps written, not by the prologue (#23635)](https://github.com/erigontech/erigon/commit/2cf604de842c59891fab873fbc67e0c585b8aefe) - 2026-09-03
 * [Commit] [all: upgrade minimum Go version to 1.26 (#23735)](https://github.com/erigontech/erigon/commit/c59c11643dfc8fab5947eb90dd9fa08e755d4499) - 2026-09-03
 * [Commit] [execution/types: add Bloom.AppendText (#23736)](https://github.com/erigontech/erigon/commit/bec14aed0fbce87203789c4b4648810e9dae26ad) - 2026-09-03
+* [Pull Request] [db: decode Code to re-usable buffer and return to caller cached copy](https://github.com/erigontech/erigon/pull/23798) - 2026-09-04
+* [Review] [Review on: node: enable `persist receipts` by default](https://github.com/erigontech/erigon/pull/23774#pullrequestreview-5108825108) - 2026-09-04
+* [Pull Request] [db/state/changeset, execution/rlp: grow buffers with slices.Grow](https://github.com/erigontech/erigon/pull/23794) - 2026-09-04
+* [Pull Request] [db/seg: stop zeroing the word buffer in Getter.Next](https://github.com/erigontech/erigon/pull/23793) - 2026-09-04
+* [Pull Request] [cl, p2p/rlpx: grow reused buffers with slices.Grow](https://github.com/erigontech/erigon/pull/23795) - 2026-09-04
+* [Review] [Review on: rpc: stop walking a request once per layer](https://github.com/erigontech/erigon/pull/23780#pullrequestreview-5108820764) - 2026-09-04
+* [Pull Request] [mcp: fix log stats, tail memory and rpc.url discovery; drop dead code](https://github.com/erigontech/erigon/pull/23786) - 2026-09-04
+* [Pull Request] [cmd/capcli: migrate from kong to urfave/cli/v3](https://github.com/erigontech/erigon/pull/23789) - 2026-09-04
+* [Pull Request] [db/seg: drop dead code, fix the ParseFileCompression stub](https://github.com/erigontech/erigon/pull/23788) - 2026-09-04
+* [Pull Request] [.claude: document what a benchmarkoor fixture's MGas/s actually measures](https://github.com/erigontech/erigon/pull/23792) - 2026-09-04
+* [Pull Request] [execution/cache: bound the code cache by bytes, not an assumed average](https://github.com/erigontech/erigon/pull/23790) - 2026-09-04
+* [Review] [Review on: cl/beacon/handler: reject a missing withdrawals list instead of dereferencing it](https://github.com/erigontech/erigon/pull/23693#pullrequestreview-5109157218) - 2026-09-04
+* [Review] [Review on: mem: derive `GOMEMLIMIT` from the `cgroup` limit ](https://github.com/erigontech/erigon/pull/23757#pullrequestreview-5109030292) - 2026-09-04
+* [Review] [Review on: execution/commitment: deep-fold storage whose account record is not in the round](https://github.com/erigontech/erigon/pull/23749#pullrequestreview-5109144433) - 2026-09-04
+* [Review] [Review on: cl/clparams: honor MIN_EPOCHS_FOR_BLOCK_REQUESTS](https://github.com/erigontech/erigon/pull/23761#pullrequestreview-5108681346) - 2026-09-04
+* [Pull Request] [execution/cache: pin the step and generation cost formulas together](https://github.com/erigontech/erigon/pull/23784) - 2026-09-04
+* [Issue] [files: format and packing changes for the next file generation](https://github.com/erigontech/erigon/issues/23787) - 2026-09-04
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

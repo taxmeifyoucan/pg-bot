@@ -205,6 +205,14 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [feat: track late canonical blocks (#9968)](https://github.com/ChainSafe/lodestar/commit/47e42cba028a7b520cfb6a7edae07e838184da93) - 2026-09-03
 * [Commit] [chore: fix Switch gossip subscriptions panel of Sync dashboard (#9987)](https://github.com/ChainSafe/lodestar/commit/6eb37b381104871e4256346e66cff5d8c07e2c50) - 2026-09-03
 * [Commit] [fix: minor improvement on ptc message gossip validation (#9969)](https://github.com/ChainSafe/lodestar/commit/b24dce51bf0653036f60b3be32cf6b42996b5a61) - 2026-09-03
+* [Pull Request] [chore: log peer client serving orphaned payloads](https://github.com/ChainSafe/lodestar/pull/10009) - 2026-09-04
+* [Review] [Review on: fix: import payload envelopes of known blocks in range sync batches](https://github.com/ChainSafe/lodestar/pull/10006#pullrequestreview-5110826781) - 2026-09-04
+* [Review] [Review on: fix: do not import orphaned payload envelopes of old blocks in range sync](https://github.com/ChainSafe/lodestar/pull/10005#pullrequestreview-5110343781) - 2026-09-04
+* [Pull Request] [chore: track persisted checkpoint states and epochs on Grafana](https://github.com/ChainSafe/lodestar/pull/10007) - 2026-09-04
+* [Review] [Review on: fix: handle orphaned parent payload envelope in range sync batches](https://github.com/ChainSafe/lodestar/pull/10002#pullrequestreview-5110119219) - 2026-09-04
+* [Commit] [chore: log peer client serving orphaned payloads (#10009)](https://github.com/ChainSafe/lodestar/commit/605fa5a360a07388125c62c19bc56d8d681dd3a4) - 2026-09-04
+* [Commit] [chore: track persisted checkpoint states and epochs on Grafana (#10007)](https://github.com/ChainSafe/lodestar/commit/670525e1f2340ee056564aa6ed430505ce7b43b8) - 2026-09-04
+* [Commit] [fix: defer gossip handler to the next event loop (#9990)](https://github.com/ChainSafe/lodestar/commit/b228e400d13bab074036c5912d5b248710021b01) - 2026-09-04
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

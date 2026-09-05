@@ -91,6 +91,19 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Review] [Review on: update gossip validation logs](https://github.com/Consensys/teku/pull/11065#pullrequestreview-4865127748) - 2026-08-05
 * [Review] [Review on: Update contribution guidelines for pull requests](https://github.com/Consensys/teku/pull/11188#pullrequestreview-5064944250) - 2026-08-31
 * [Pull Request] [bids with equal block hash and parent block hash are invalid](https://github.com/Consensys-Incorporated/teku/pull/11221) - 2026-09-02
+* [Review] [Review on: key proposer preferences by slot and dependent root](https://github.com/Consensys-Incorporated/teku/pull/11242#pullrequestreview-5114996304) - 2026-09-04
+* [Review] [Review on: Don't mark block as invalid when exception is unknown](https://github.com/Consensys-Incorporated/teku/pull/11231#pullrequestreview-5111539333) - 2026-09-04
+* [Issue] [Reject bids with block_hash equal to parent_block_hash](https://github.com/Consensys-Incorporated/teku/issues/11238) - 2026-09-04
+* [Issue] [support "blocks" field in Gossip testing metadata](https://github.com/Consensys-Incorporated/teku/issues/11229) - 2026-09-04
+* [Issue] [update ethspecify](https://github.com/Consensys-Incorporated/teku/issues/11240) - 2026-09-04
+* [Issue] [Reorder Seen's proposer preferences's key](https://github.com/Consensys-Incorporated/teku/issues/11236) - 2026-09-04
+* [Issue] [Reject bids from builders exited](https://github.com/Consensys-Incorporated/teku/issues/11233) - 2026-09-04
+* [Issue] [Fix some inconsistency in executable p2p's messages](https://github.com/Consensys-Incorporated/teku/issues/11237) - 2026-09-04
+* [Issue] [Expand PTC to PayloadTimelinessCommittee in type names](https://github.com/Consensys-Incorporated/teku/issues/11235) - 2026-09-04
+* [Issue] [Use slot from header instead of bid](https://github.com/Consensys-Incorporated/teku/issues/11234) - 2026-09-04
+* [Issue] [fix GossipProposerPreferences reference tests](https://github.com/Consensys-Incorporated/teku/issues/11232) - 2026-09-04
+* [Issue] [spec 1.7.0-beta.0](https://github.com/Consensys-Incorporated/teku/issues/11228) - 2026-09-04
+* [Commit] [bids with equal block hash and parent block hash are invalid (#11221)](https://github.com/Consensys-Incorporated/teku/commit/82925a34b4a9c0a7cb00b54e97f6e6d7c898cd1d) - 2026-09-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

@@ -279,6 +279,17 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Commit] [fix: honour engine fixture errorCode instead of accepting any RPC error (#12783)](https://github.com/NethermindEth/nethermind/commit/1e0ab67662984891a63a9a05c3fc8db976395bf1) - 2026-09-03
 * [Commit] [fix: enter world-state scope in EVM benchmark setup (#12561)](https://github.com/NethermindEth/nethermind/commit/990aa6726ca4a2a61c7eede4a63ac57865456825) - 2026-09-03
 * [Commit] [test(sync): let Retry absorb an E2E sync timeout (#13105)](https://github.com/NethermindEth/nethermind/commit/087c0e398d2e6a24a3a7e76500c7f40e240adb96) - 2026-09-03
+* [Pull Request] [fix(rlp): classify a truncated frame transaction as a truncation](https://github.com/NethermindEth/nethermind/pull/13163) - 2026-09-04
+* [Pull Request] [Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13157) - 2026-09-04
+* [Review] [Review on: Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13157#pullrequestreview-5116374093) - 2026-09-04
+* [Pull Request] [test(eip8141): cover frame transactions through real block production](https://github.com/NethermindEth/nethermind/pull/13143) - 2026-09-04
+* [Review] [Review on: test(eip8141): cover frame transactions through real block production](https://github.com/NethermindEth/nethermind/pull/13143#pullrequestreview-5115254850) - 2026-09-04
+* [Pull Request] [fix(eip8250): stop the block producer gating keyed frame transactions on the account nonce](https://github.com/NethermindEth/nethermind/pull/13142) - 2026-09-04
+* [Review] [Review on: fix(eip8250): stop the block producer gating keyed frame transactions on the account nonce](https://github.com/NethermindEth/nethermind/pull/13142#pullrequestreview-5115250624) - 2026-09-04
+* [Review] [Review on: Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13125#pullrequestreview-5112009011) - 2026-09-04
+* [Pull Request] [test(eip8141): pin why the validation prefix walks deliberately disagree](https://github.com/NethermindEth/nethermind/pull/13134) - 2026-09-04
+* [Review] [Review on: test(eip8141): pin why the validation prefix walks deliberately disagree](https://github.com/NethermindEth/nethermind/pull/13134#pullrequestreview-5112323834) - 2026-09-04
+* [Review] [Review on: Clear frame-tx receipt carry-over per transaction](https://github.com/NethermindEth/nethermind/pull/13137#pullrequestreview-5112314704) - 2026-09-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

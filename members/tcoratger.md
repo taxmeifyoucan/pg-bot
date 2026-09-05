@@ -131,6 +131,28 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: feat(sumcheck): ring switching over an arbitrary field extension](https://github.com/Plonky3/Plonky3/pull/2006#pullrequestreview-5100730465) - 2026-09-03
 * [Review] [Review on: perf(stir): bucket committed heights into several bounded-spread shared domains](https://github.com/Plonky3/Plonky3/pull/2005#pullrequestreview-5100723350) - 2026-09-03
 * [Commit] [refactor(stir)!: replace the catch-all InvalidProofShape with typed variants (#2012)](https://github.com/Plonky3/Plonky3/commit/4178f0e530994760e81e68f9bbc0cb2978751321) - 2026-09-03
+* [Pull Request] [feat(binary-field): Ghash128, GF(2^128) in the polynomial basis, with SIMD packings](https://github.com/Plonky3/Plonky3/pull/2030) - 2026-09-04
+* [Review] [Review on: feat(multi-stark): add multilinear lookups](https://github.com/Plonky3/Plonky3/pull/1968#pullrequestreview-5115620933) - 2026-09-04
+* [Pull Request] [ci: fail on unused dependencies, and drop the ones already there](https://github.com/Plonky3/Plonky3/pull/2029) - 2026-09-04
+* [Pull Request] [refactor(binary-dft): hoist the twiddle increments out of the stage loop](https://github.com/Plonky3/Plonky3/pull/2027) - 2026-09-04
+* [Pull Request] [refactor(merkle-tree): make the opening shape check self-contained](https://github.com/Plonky3/Plonky3/pull/2026) - 2026-09-04
+* [Pull Request] [test(binary-field): check the vector kernel's algebra on every target](https://github.com/Plonky3/Plonky3/pull/2028) - 2026-09-04
+* [Review] [Review on: perf(binary-field): Karatsuba fallback, vector-native GF(2^128) mul, Frobenius conjugation, table squaring](https://github.com/Plonky3/Plonky3/pull/2016#pullrequestreview-5116735449) - 2026-09-04
+* [Pull Request] [test(fri): pin the fused quotient LDE for the bit-reversed DFT backend](https://github.com/Plonky3/Plonky3/pull/2025) - 2026-09-04
+* [Review] [Review on: perf(binary-dft): chain butterfly twiddles instead of rebuilding each one](https://github.com/Plonky3/Plonky3/pull/2017#pullrequestreview-5116632787) - 2026-09-04
+* [Review] [Review on: perf(multi-stark): precomputed alpha powers, coefficient-wise windows, packed accumulators](https://github.com/Plonky3/Plonky3/pull/2014#pullrequestreview-5115147086) - 2026-09-04
+* [Review] [Review on: perf(fri): closed-form fold_row, in-place fold_matrix, hoisted verifier alpha ladder, fused hiding LDE](https://github.com/Plonky3/Plonky3/pull/2015#pullrequestreview-5116502719) - 2026-09-04
+* [Pull Request] [feat(sumcheck)!: drive the generic-degree transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2024) - 2026-09-04
+* [Review] [Review on: feat(sumcheck)!: drive the generic-degree transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2024#pullrequestreview-5114451918) - 2026-09-04
+* [Review] [Review on: fix(ci): retry release-plz on rate limiting](https://github.com/Plonky3/Plonky3/pull/2023#pullrequestreview-5113241503) - 2026-09-04
+* [Review] [Review on: perf(stir): sub-coset virtual oracle, cheaper multiplies, barycentric Ans check](https://github.com/Plonky3/Plonky3/pull/2013#pullrequestreview-5111843926) - 2026-09-04
+* [Review] [Review on: chore: release v0.7.0](https://github.com/Plonky3/Plonky3/pull/2022#pullrequestreview-5112734651) - 2026-09-04
+* [Review] [Review on: perf(whir): parallelize HVZK OOD evaluation and weight scaling, algebraic claim increment](https://github.com/Plonky3/Plonky3/pull/2020#pullrequestreview-5112044988) - 2026-09-04
+* [Commit] [ci: fail on unused dependencies, and drop the ones already there (#2029)](https://github.com/Plonky3/Plonky3/commit/0df3bdcf5a951a25d03dfba0d7caaf0ebef5622b) - 2026-09-04
+* [Commit] [refactor(binary-dft): hoist the twiddle increments out of the stage loop (#2027)](https://github.com/Plonky3/Plonky3/commit/6e0ddf64dc8c3ca22cc04359e8c1c1f97cd76d58) - 2026-09-04
+* [Commit] [refactor(merkle-tree): make the opening shape check self-contained (#2026)](https://github.com/Plonky3/Plonky3/commit/2f31ac17893b1ea981606eb8f240b0fa5d770e46) - 2026-09-04
+* [Commit] [test(fri): pin the fused quotient LDE for the bit-reversed DFT backend (#2025)](https://github.com/Plonky3/Plonky3/commit/a3070d86962dc80142cfe1f8b49a70aba58eefdd) - 2026-09-04
+* [Commit] [feat(challenger): typed Fiat-Shamir transcript layer (DSFS / IETF draft) (#1603)](https://github.com/Plonky3/Plonky3/commit/0819adb5519fda5234cf76c11f59348ec356d8a5) - 2026-09-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

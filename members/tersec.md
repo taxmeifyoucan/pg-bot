@@ -140,6 +140,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: bump nim-web3, add getBlobsV4](https://github.com/status-im/nimbus-eth2/pull/8971#pullrequestreview-5097798796) - 2026-09-03
 * [Review] [Review on: fix `payload_present` to reflect payload deadline decision](https://github.com/status-im/nimbus-eth2/pull/8972#pullrequestreview-5099266303) - 2026-09-03
 * [Pull Request] [rm electra remote signer support](https://github.com/status-im/nimbus-eth2/pull/8987) - 2026-09-03
+* [Pull Request] [use v1.7.0-beta.0 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8990) - 2026-09-04
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

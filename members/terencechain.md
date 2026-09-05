@@ -219,6 +219,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Commit] [Use head state for next-epoch attestation target states (#17441)](https://github.com/OffchainLabs/prysm/commit/6a8ba2dcc1d7fb7d90177cf162082d1bd4972b05) - 2026-09-01
 * [Review] [Review on: Gate `getFFG()` precompute for epoch start & "already-head" case](https://github.com/OffchainLabs/prysm/pull/17434#pullrequestreview-5085230922) - 2026-09-02
 * [Issue] [Expose a payload-content aware IsOptimistic for gloas](https://github.com/OffchainLabs/prysm/issues/17451) - 2026-09-03
+* [Review] [Review on: Add fake BLS backend for `bls_setting: 2` spectest cases](https://github.com/OffchainLabs/prysm/pull/17281#pullrequestreview-5117771651) - 2026-09-04
+* [Pull Request] [Regenerate attestation pre-states one at a time](https://github.com/OffchainLabs/prysm/pull/17456) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

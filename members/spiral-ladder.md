@@ -200,6 +200,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: refactor(ssz): simplify progressive bit list type](https://github.com/ChainSafe/lodestar-z/pull/618#pullrequestreview-5085589851) - 2026-09-02
 * [Review] [Review on: refactor(pmt): make node pool non-growable](https://github.com/ChainSafe/lodestar-z/pull/617#pullrequestreview-5085595836) - 2026-09-02
 * [Pull Request] [fix(bindings): support blinded state transitions](https://github.com/ChainSafe/lodestar-z/pull/628) - 2026-09-03
+* [Commit] [refactor(ssz): rewrite offset iteration for variable element iteration (#598)](https://github.com/ChainSafe/lodestar-z/commit/af63364e1c3cf968508a32dfd2a68f33d38e8ac4) - 2026-09-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

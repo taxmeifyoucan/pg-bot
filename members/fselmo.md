@@ -30,6 +30,7 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Commit] [chore(test-specs): avoid silent mistakes when writing tests (#3510)](https://github.com/ethereum/execution-specs/commit/fc701a463b2b15f9e2791af291c47ebe0efa37f2) - 2026-09-02
 * [Review] [Review on: feat(test-tools): Implement `GasConsumer`](https://github.com/ethereum/execution-specs/pull/3497#pullrequestreview-5105080368) - 2026-09-03
 * [Review] [Review on: feat(tests): assert `SYSTEM_ADDRESS` is absent from BAL for EIP-7708 Transfer logs](https://github.com/ethereum/execution-specs/pull/3520#pullrequestreview-5104662469) - 2026-09-03
+* [Pull Request] [feat(tests): EIP-8246 checklist, focus on #3217 items](https://github.com/ethereum/execution-specs/pull/3533) - 2026-09-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 ## Q2 2026

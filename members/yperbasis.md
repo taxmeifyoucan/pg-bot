@@ -630,6 +630,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: rpc/jsonrpc: acquire the tx and overlay atomically in eth_call](https://github.com/erigontech/erigon/pull/23775#pullrequestreview-5099555877) - 2026-09-03
 * [Issue] [cl/epbs: support concurrent same-slot self-build envelopes](https://github.com/erigontech/erigon/issues/23781) - 2026-09-03
 * [Commit] [cl: fix Gloas bid selection, validation and publication (#23583)](https://github.com/erigontech/erigon/commit/b84c5842520a337a61151fa13bf2b36f7239851f) - 2026-09-03
+* [Pull Request] [execution/p2p: validate BlockBodies commitments before decoding](https://github.com/erigontech/erigon/pull/23800) - 2026-09-04
+* [Review] [Review on: execution/p2p: validate BlockBodies commitments before decoding](https://github.com/erigontech/erigon/pull/23800#pullrequestreview-5115242109) - 2026-09-04
+* [Review] [Review on: docs(site): make the llms.txt artifacts discoverable](https://github.com/erigontech/erigon/pull/23799#pullrequestreview-5114169288) - 2026-09-04
+* [Review] [Review on: docs(site): raise the installation prerequisite to Go 1.26](https://github.com/erigontech/erigon/pull/23791#pullrequestreview-5111873173) - 2026-09-04
+* [Review] [Review on: db/state/changeset, execution/rlp: grow buffers with slices.Grow](https://github.com/erigontech/erigon/pull/23794#pullrequestreview-5112447377) - 2026-09-04
+* [Commit] [cl/clparams: honor MIN_EPOCHS_FOR_BLOCK_REQUESTS (#23761)](https://github.com/erigontech/erigon/commit/fcdcc190e6442efabdfab37ffc7bfadf89627642) - 2026-09-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(test-rpc): bound JSON-RPC requests with a default timeout](https://github.com/ethereum/execution-specs/pull/3107) - 2026-07-06
 * [Commit] [fix(test-rpc): bound JSON-RPC requests with a default timeout (#3107)](https://github.com/ethereum/execution-specs/commit/d43487d1c3c0f29bd71bad40d1f4c6cff104454e) - 2026-07-06

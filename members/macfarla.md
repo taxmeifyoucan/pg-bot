@@ -270,6 +270,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Review] [Review on: Update tests-glamsterdam-devnet to v8.1.3](https://github.com/besu-eth/besu/pull/11233#pullrequestreview-5100566982) - 2026-09-03
 * [Review] [Review on: Complete refactor of engine_getBlobsV* methods](https://github.com/besu-eth/besu/pull/11204#pullrequestreview-5097331681) - 2026-09-03
 * [Commit] [fix(validation): reject post-Shanghai blocks with withdrawalsRoot but absent body withdrawals (#11229)](https://github.com/besu-eth/besu/commit/b7f1387cb431455511ef157384022e513abda0bb) - 2026-09-04
+* [Pull Request] [add guava source metadata](https://github.com/besu-eth/besu/pull/11240) - 2026-09-04
+* [Review] [Review on: Enable NullAway for Ethereum block creation](https://github.com/besu-eth/besu/pull/10945#pullrequestreview-5109579469) - 2026-09-04
+* [Review] [Review on: feat(api): add eth_getRawTransactionByHash JSON-RPC method](https://github.com/besu-eth/besu/pull/11170#pullrequestreview-5109284788) - 2026-09-04
+* [Review] [Review on: admin_logsRemoveCache: do not report success when removal is skipped](https://github.com/besu-eth/besu/pull/11080#pullrequestreview-5108699827) - 2026-09-04
+* [Commit] [add guava source metadata (#11240)](https://github.com/besu-eth/besu/commit/6933fa29f65267054df9f0160c409ba6aeea198e) - 2026-09-05
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

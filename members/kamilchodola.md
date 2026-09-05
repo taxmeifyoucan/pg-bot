@@ -171,6 +171,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [chore: bump Nethermind.Numerics.Int256 to 1.7.0 (#13127)](https://github.com/NethermindEth/nethermind/commit/d7a432f76f2c4e0a3e25012f96ab38ad08a98118) - 2026-09-03
 * [Commit] [perf(evm): disable the stream interpreter by default (#12999)](https://github.com/NethermindEth/nethermind/commit/8da3c763debeefc81f90959b107a5d5edf196ce5) - 2026-09-03
 * [Commit] [fix(rpc): keep the module rented until a streamed result has been written (#13095)](https://github.com/NethermindEth/nethermind/commit/19556949b0165e738fe957d3c47b6d9c1efd9030) - 2026-09-03
+* [Pull Request] [perf(evm): trim per-instruction overhead in eth_call](https://github.com/NethermindEth/nethermind/pull/13141) - 2026-09-04
+* [Review] [Review on: perf(evm): trim per-instruction overhead in eth_call](https://github.com/NethermindEth/nethermind/pull/13141#pullrequestreview-5115903562) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

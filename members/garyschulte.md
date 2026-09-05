@@ -25,6 +25,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Commit] [Feature: minimal upgrade to vertx 5 (#11015)](https://github.com/besu-eth/besu/commit/5615e2d9566a326c140fbd439a5c750d9c15ad45) - 2026-08-27
 * [Review] [Review on: Remove unreachable ACCEPTED branch from engine_newPayload](https://github.com/besu-eth/besu/pull/11237#pullrequestreview-5105048525) - 2026-09-03
 * [Issue] [engine api does not correctly handle parent world state unavailable](https://github.com/besu-eth/besu/issues/11238) - 2026-09-03
+* [Pull Request] [newPayload SYNCING response when parent worldstate is not present](https://github.com/besu-eth/besu/pull/11242) - 2026-09-04
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298#pullrequestreview-4664315207) - 2026-07-09
 * [Pull Request] [Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298) - 2026-07-20

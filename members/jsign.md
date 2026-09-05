@@ -35,6 +35,7 @@ Team: [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%
 * [Pull Request] [feat(zkevm): automate zkevm benchmark filling releases](https://github.com/ethereum/execution-specs/pull/3389) - 2026-08-17
 * [Pull Request] [feat(zkevm): use annotated ssz to avoid type duplication](https://github.com/ethereum/execution-specs/pull/3455) - 2026-08-26
 * [Review] [Review on: feat(zkevm): use annotated ssz to avoid type duplication](https://github.com/ethereum/execution-specs/pull/3455#pullrequestreview-5032894554) - 2026-08-26
+* [Pull Request] [feat(zkevm): Reject noncanonical SSZ and catch guest validation errors](https://github.com/ethereum/execution-specs/pull/3531) - 2026-09-04
 [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload)
 * [Pull Request] [Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296) - 2026-07-12
 * [Review] [Review on: Update to ere-guests v0.13](https://github.com/eth-act/zkevm-benchmark-workload/pull/296#pullrequestreview-4680188283) - 2026-07-12

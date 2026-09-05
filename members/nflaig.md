@@ -464,6 +464,27 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: fix Switch gossip subscriptions panel of Sync dashboard](https://github.com/ChainSafe/lodestar/pull/9987#pullrequestreview-5098999957) - 2026-09-03
 * [Review] [Review on: fix: minor improvement on ptc message gossip validation](https://github.com/ChainSafe/lodestar/pull/9969#pullrequestreview-5098987550) - 2026-09-03
 * [Commit] [fix: reject bids with block_hash equal to parent_block_hash (#9972)](https://github.com/ChainSafe/lodestar/commit/76b167bf36918ae5f811427850587734e556e319) - 2026-09-03
+* [Review] [Review on: refactor: read parent slot from header for v1.7.0-beta.0](https://github.com/ChainSafe/lodestar/pull/9955#pullrequestreview-5116904770) - 2026-09-04
+* [Pull Request] [fix: pin confirmed root to finalized when its block is pruned](https://github.com/ChainSafe/lodestar/pull/10011) - 2026-09-04
+* [Review] [Review on: fix: pin confirmed root to finalized when its block is pruned](https://github.com/ChainSafe/lodestar/pull/10011#pullrequestreview-5115396908) - 2026-09-04
+* [Review] [Review on: fix(network): skip impossible payload envelope sync targets](https://github.com/ChainSafe/lodestar/pull/9994#pullrequestreview-5112793082) - 2026-09-04
+* [Review] [Review on: chore: log peer client serving orphaned payloads](https://github.com/ChainSafe/lodestar/pull/10009#pullrequestreview-5112343611) - 2026-09-04
+* [Pull Request] [fix: import payload envelopes of known blocks in range sync batches](https://github.com/ChainSafe/lodestar/pull/10006) - 2026-09-04
+* [Review] [Review on: fix: import payload envelopes of known blocks in range sync batches](https://github.com/ChainSafe/lodestar/pull/10006#pullrequestreview-5109525446) - 2026-09-04
+* [Pull Request] [fix: do not import orphaned payload envelopes of old blocks in range sync](https://github.com/ChainSafe/lodestar/pull/10005) - 2026-09-04
+* [Review] [Review on: fix: do not import orphaned payload envelopes of old blocks in range sync](https://github.com/ChainSafe/lodestar/pull/10005#pullrequestreview-5109525229) - 2026-09-04
+* [Review] [Review on: chore: track persisted checkpoint states and epochs on Grafana](https://github.com/ChainSafe/lodestar/pull/10007#pullrequestreview-5111718705) - 2026-09-04
+* [Review] [Review on: fix: handle orphaned parent payload envelope in range sync batches](https://github.com/ChainSafe/lodestar/pull/10002#pullrequestreview-5111032023) - 2026-09-04
+* [Review] [Review on: fix: serve closest head state if head block post-state is not available](https://github.com/ChainSafe/lodestar/pull/10003#pullrequestreview-5110228593) - 2026-09-04
+* [Review] [Review on: fix: omit GAS_LIMIT_SCHEDULE from getSpec until Gloas](https://github.com/ChainSafe/lodestar/pull/10004#pullrequestreview-5108830399) - 2026-09-04
+* [Review] [Review on: fix: defer gossip handler to the next event loop](https://github.com/ChainSafe/lodestar/pull/9990#pullrequestreview-5110131884) - 2026-09-04
+* [Issue] [range sync still imports the orphaned payload envelope of the last block in a batch](https://github.com/ChainSafe/lodestar/issues/10008) - 2026-09-04
+* [Commit] [refactor: read parent slot from header for v1.7.0-beta.0 (#9955)](https://github.com/ChainSafe/lodestar/commit/6e29d52cb9bbcb17c956881d6f3213a92dc958b8) - 2026-09-04
+* [Commit] [fix: import payload envelopes of known blocks in range sync batches (#10006)](https://github.com/ChainSafe/lodestar/commit/3211c1bdd4b97fa1b40bfc5910fcba52da948526) - 2026-09-04
+* [Commit] [fix: do not import orphaned payload envelopes of old blocks in range sync (#10005)](https://github.com/ChainSafe/lodestar/commit/7c6505e8e62339ab0022455ad107b59929e81632) - 2026-09-04
+* [Commit] [fix: serve closest head state if head block post-state is not available (#10003)](https://github.com/ChainSafe/lodestar/commit/67df6eac67e2fe581e2b1be1d9f1fe4faf4e2967) - 2026-09-04
+* [Commit] [chore: fix typo in persisted keys comment (#10000)](https://github.com/ChainSafe/lodestar/commit/b5f4a8f2c698031427c35c950645b081c4a0d9af) - 2026-09-04
+* [Commit] [fix: handle orphaned parent payload envelope in range sync batches (#10002)](https://github.com/ChainSafe/lodestar/commit/71f5df05ba3cc3d7d274fd4f9d3f3943011af028) - 2026-09-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03

@@ -140,6 +140,9 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(test-fill): make engine_x fixtures consumable via devp2p sync](https://github.com/ethereum/execution-specs/pull/3364#pullrequestreview-5092581860) - 2026-09-02
 * [Commit] [feat(tests): EIP-6110 maximum CL deposits test (#3483)](https://github.com/ethereum/execution-specs/commit/1855bb169fdf8b29ff7fb1eb6396e855549c9d7e) - 2026-09-03
 * [Pull Request] [feat(tests): Finalize EIP-7778](https://github.com/ethereum/execution-specs/pull/3522) - 2026-09-03
+* [Review] [Review on: feat(tests): Finalize EIP-7778](https://github.com/ethereum/execution-specs/pull/3522#pullrequestreview-5113184042) - 2026-09-04
+* [Commit] [feat(tests): Implement missing EIP-7778 checklist items](https://github.com/ethereum/execution-specs/commit/903b48f152c932f6e47a615f0f7f009c56f1d92b) - 2026-09-04
+* [Commit] [feat(test-specs): Implement `gas_used` transaction receipt check](https://github.com/ethereum/execution-specs/commit/bf21c5d06b96352498d152b81fb49cf2afa0743b) - 2026-09-04
 [ethereum/pm](https://github.com/ethereum/pm)
 * [Issue] [All Core Devs - Testing (ACDT) #87, July 13, 2026](https://github.com/ethereum/pm/issues/2151) - 2026-07-07
 * [Issue] [All Core Devs - Testing (ACDT) #89, July 27, 2026](https://github.com/ethereum/pm/issues/2170) - 2026-07-23

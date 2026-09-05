@@ -267,6 +267,10 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(zkevm): presized witness stores, dense dispatch, cheaper word swaps, sha256f merkleization](https://github.com/NethermindEth/nethermind/pull/13090#pullrequestreview-5101360223) - 2026-09-03
 * [Review] [Review on: fix(test): align TrieReassemblerTests with non-nullable IDb.GetAll](https://github.com/NethermindEth/nethermind/pull/13113#pullrequestreview-5100552654) - 2026-09-03
 * [Commit] [perf: carry pre-block account and storage caches across blocks (#13100)](https://github.com/NethermindEth/nethermind/commit/9e891b182a2b5f78b961e6bcbef05186ae723e33) - 2026-09-03
+* [Review] [Review on: perf: stop copying code out of the code db](https://github.com/NethermindEth/nethermind/pull/13160#pullrequestreview-5118143833) - 2026-09-04
+* [Pull Request] [fix(evm): repay EIP-8037 spill after child merge](https://github.com/NethermindEth/nethermind/pull/13140) - 2026-09-04
+* [Review] [Review on: fix(evm): repay EIP-8037 spill after child merge](https://github.com/NethermindEth/nethermind/pull/13140#pullrequestreview-5113199658) - 2026-09-04
+* [Commit] [fix(evm): repay EIP-8037 spill after child merge (#13140)](https://github.com/NethermindEth/nethermind/commit/f7e5afeb5ccd4eadb2e0e0b2e310addc8da0fa76) - 2026-09-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

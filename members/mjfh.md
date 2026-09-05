@@ -41,6 +41,8 @@ Team: Nimbus
 * [Commit] [Snap2 sync update download modules (#4708)](https://github.com/status-im/nimbus-eth1/commit/36e75fb4f19bcb40761b5b8a11767967603e7a50) - 2026-08-29
 * [Pull Request] [Snap2 sync lock while downloading](https://github.com/status-im/nimbus-eth1/pull/4728) - 2026-09-02
 * [Commit] [Snap2 sync lock while downloading (#4728)](https://github.com/status-im/nimbus-eth1/commit/a22c4e908ca75ad180e4b56327d230c8e0d7b3b0) - 2026-09-02
+* [Pull Request] [Snap2 sync provide coredb importer](https://github.com/status-im/nimbus-eth1/pull/4747) - 2026-09-04
+* [Commit] [Snap2 sync provide coredb importer (#4747)](https://github.com/status-im/nimbus-eth1/commit/bf5b488b49507c3d95d74ef52ca27d21ce0c3be8) - 2026-09-04
 ## Q2 2026
 
 

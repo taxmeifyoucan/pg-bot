@@ -269,6 +269,35 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf(zkevm): presized witness stores, dense dispatch, cheaper word swaps, sha256f merkleization (#13090)](https://github.com/NethermindEth/nethermind/commit/57edf733d21c442da3c8f47f76532516e55b1e3b) - 2026-09-03
 * [Commit] [perf(zkevm): build with -Ot and drop single-thread locks from TrieNode (#13086)](https://github.com/NethermindEth/nethermind/commit/d9278c3749ff9b9ada55343aa09dbb2ceb1cc247) - 2026-09-03
 * [Commit] [perf(evm): widen the program counter to nint (#13079)](https://github.com/NethermindEth/nethermind/commit/d69d11c91543abee3f8ffaff0fc43591cb910765) - 2026-09-03
+* [Pull Request] [perf: stop copying code out of the code db](https://github.com/NethermindEth/nethermind/pull/13160) - 2026-09-04
+* [Review] [Review on: perf: stop copying code out of the code db](https://github.com/NethermindEth/nethermind/pull/13160#pullrequestreview-5117643698) - 2026-09-04
+* [Pull Request] [perf: encode a branch node in one pass](https://github.com/NethermindEth/nethermind/pull/13167) - 2026-09-05
+* [Pull Request] [perf(zkevm): walk the guest jumpdest scan as a moving reference](https://github.com/NethermindEth/nethermind/pull/13146) - 2026-09-04
+* [Review] [Review on: perf(zkevm): walk the guest jumpdest scan as a moving reference](https://github.com/NethermindEth/nethermind/pull/13146#pullrequestreview-5118460338) - 2026-09-04
+* [Pull Request] [perf(zkevm): install the hash seed instead of initialising it](https://github.com/NethermindEth/nethermind/pull/13166) - 2026-09-04
+* [Pull Request] [perf(zkevm): pack nibbles a word at a time](https://github.com/NethermindEth/nethermind/pull/13164) - 2026-09-04
+* [Pull Request] [perf(zkevm): expand nibbles from a whole word](https://github.com/NethermindEth/nethermind/pull/13165) - 2026-09-04
+* [Pull Request] [perf(zkevm): reach Address.GetHashCode without a vtable dispatch](https://github.com/NethermindEth/nethermind/pull/13161) - 2026-09-04
+* [Pull Request] [perf(zkevm): key the witness node store on the node hash](https://github.com/NethermindEth/nethermind/pull/13159) - 2026-09-04
+* [Pull Request] [fix(sync): look up receipt bodies by number and hash](https://github.com/NethermindEth/nethermind/pull/13139) - 2026-09-04
+* [Pull Request] [perf(zkevm): compute stack slot offsets pointer-wide](https://github.com/NethermindEth/nethermind/pull/13147) - 2026-09-04
+* [Pull Request] [perf(zkevm): compare 32-byte values as whole words](https://github.com/NethermindEth/nethermind/pull/13144) - 2026-09-04
+* [Review] [Review on: perf(zkevm): compare 32-byte values as whole words](https://github.com/NethermindEth/nethermind/pull/13144#pullrequestreview-5114488120) - 2026-09-04
+* [Pull Request] [perf: OR and XOR byte spans a word at a time in the scalar fallback](https://github.com/NethermindEth/nethermind/pull/13145) - 2026-09-04
+* [Review] [Review on: perf: OR and XOR byte spans a word at a time in the scalar fallback](https://github.com/NethermindEth/nethermind/pull/13145#pullrequestreview-5115337727) - 2026-09-04
+* [Pull Request] [docs: write down the zkVM guest rules](https://github.com/NethermindEth/nethermind/pull/13151) - 2026-09-04
+* [Pull Request] [fix(rlp): break the Rlp/TxDecoder type initializer cycle](https://github.com/NethermindEth/nethermind/pull/13158) - 2026-09-04
+* [Review] [Review on: fix(rlp): break the Rlp/TxDecoder type initializer cycle](https://github.com/NethermindEth/nethermind/pull/13158#pullrequestreview-5116274079) - 2026-09-04
+* [Pull Request] [perf(zkevm): absorb keccak's first rate block by assignment](https://github.com/NethermindEth/nethermind/pull/13152) - 2026-09-04
+* [Pull Request] [ci: capture a dump when a test host hangs](https://github.com/NethermindEth/nethermind/pull/13149) - 2026-09-04
+* [Review] [Review on: ci: capture a dump when a test host hangs](https://github.com/NethermindEth/nethermind/pull/13149#pullrequestreview-5116104087) - 2026-09-04
+* [Pull Request] [perf: compare storage slots through UInt256's own equality](https://github.com/NethermindEth/nethermind/pull/13150) - 2026-09-04
+* [Review] [Review on: perf: compare storage slots through UInt256's own equality](https://github.com/NethermindEth/nethermind/pull/13150#pullrequestreview-5114780166) - 2026-09-04
+* [Review] [Review on: Reduce Bootnode memory and Nethermind discovery traffic](https://github.com/NethermindEth/nethermind/pull/13122#pullrequestreview-5110520720) - 2026-09-04
+* [Pull Request] [perf: skip whole RLP items with the cursor in a local](https://github.com/NethermindEth/nethermind/pull/13148) - 2026-09-04
+* [Review] [Review on: fix: eth_maxPriorityFeePerGas returned a gas price](https://github.com/NethermindEth/nethermind/pull/13129#pullrequestreview-5110677348) - 2026-09-04
+* [Commit] [perf: stop copying code out of the code db (#13160)](https://github.com/NethermindEth/nethermind/commit/b644740ec8e8d48d4a42b6758aab859e3817944d) - 2026-09-05
+* [Commit] [perf(zkevm): jumpdest scan, nibble ops, static init, branch RLP, and constant loads (#13091)](https://github.com/NethermindEth/nethermind/commit/3bb480775478a96e2e801af91ba2c3e744928a72) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

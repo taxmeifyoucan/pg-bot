@@ -126,6 +126,13 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: bids with equal block hash and parent block hash are invalid](https://github.com/Consensys-Incorporated/teku/pull/11221#pullrequestreview-5105044419) - 2026-09-03
 * [Review] [Review on: FCR Optimization part1: Speed up fast confirmation with memoization and one-pass chain scoring](https://github.com/Consensys-Incorporated/teku/pull/11212#pullrequestreview-5102289143) - 2026-09-03
 * [Commit] [Switch to cheaper getStateByRoot in validations (#11215)](https://github.com/Consensys-Incorporated/teku/commit/9e51aa5e3b9d082501a208b9a4bd901e3ef0881c) - 2026-09-03
+* [Review] [Review on: ignore bid from excited builders](https://github.com/Consensys-Incorporated/teku/pull/11239#pullrequestreview-5116808829) - 2026-09-04
+* [Review] [Review on: Clean-up empty overrides (ValidatorTimingChannel)](https://github.com/Consensys-Incorporated/teku/pull/11230#pullrequestreview-5116713775) - 2026-09-04
+* [Review] [Review on: bids with equal block hash and parent block hash are invalid](https://github.com/Consensys-Incorporated/teku/pull/11221#pullrequestreview-5114359968) - 2026-09-04
+* [Pull Request] [Don't mark block as invalid when exception is unknown](https://github.com/Consensys-Incorporated/teku/pull/11231) - 2026-09-04
+* [Review] [Review on: Don't mark block as invalid when exception is unknown](https://github.com/Consensys-Incorporated/teku/pull/11231#pullrequestreview-5114879834) - 2026-09-04
+* [Pull Request] [Fix: OOM didn't force Teku to quit](https://github.com/Consensys-Incorporated/teku/pull/11241) - 2026-09-04
+* [Review] [Review on: Disable beacon proposer and validator registrations in Gloas](https://github.com/Consensys-Incorporated/teku/pull/11226#pullrequestreview-5111194484) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

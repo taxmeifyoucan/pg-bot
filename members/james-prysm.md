@@ -209,6 +209,13 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prys
 * [Review] [Review on: removing TODO, and have wait for activation depend on health tracker](https://github.com/OffchainLabs/prysm/pull/17369#pullrequestreview-5095217071) - 2026-09-02
 * [Pull Request] [ validate alternate blocks before recording equivocation](https://github.com/OffchainLabs/prysm/pull/17452) - 2026-09-03
 * [Pull Request] [ preserve monotonic weak-head weight](https://github.com/OffchainLabs/prysm/pull/17453) - 2026-09-03
+* [Pull Request] [add grace period to REST ptc endpoint](https://github.com/OffchainLabs/prysm/pull/17457) - 2026-09-04
+* [Pull Request] [gloas checkpoint sync withheld payload fix](https://github.com/OffchainLabs/prysm/pull/17458) - 2026-09-04
+* [Review] [Review on: Remove unused `SetProposerSettings` in favor of `UpdateProposerSettings`](https://github.com/OffchainLabs/prysm/pull/17450#pullrequestreview-5115649397) - 2026-09-04
+* [Review] [Review on: Keep `--suggested-fee-recipient` as default when settings file has no `default_config`](https://github.com/OffchainLabs/prysm/pull/17454#pullrequestreview-5115249586) - 2026-09-04
+* [Commit] [add grace period to REST ptc endpoint (#17457)](https://github.com/OffchainLabs/prysm/commit/eec5e793ef4e3d7caad010fb4798eafd680e72c3) - 2026-09-04
+* [Commit] [removing TODO, and have wait for activation depend on health tracker (#17369)](https://github.com/OffchainLabs/prysm/commit/902b650cfeed1de72519c8e1081ba37e38305c39) - 2026-09-04
+* [Commit] [remote signer gloas (#16852)](https://github.com/OffchainLabs/prysm/commit/6c7106c668091b55a81d66417adc8dc79c3be187) - 2026-09-04
 ## Q2 2026
 
 

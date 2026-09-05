@@ -45,6 +45,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGa
 * [Review] [Review on: Delete unused `TransactionSmartContractPermissioningController` class](https://github.com/besu-eth/besu/pull/11187#pullrequestreview-5056750628) - 2026-08-29
 * [Pull Request] [feat: debug_executionWitness - Simplified EIP-8025 execution witness](https://github.com/besu-eth/besu/pull/11224) - 2026-09-02
 * [Review] [Review on: feat: debug_executionWitness - Simplified EIP-8025 execution witness](https://github.com/besu-eth/besu/pull/11224#pullrequestreview-5101727685) - 2026-09-03
+* [Commit] [feat: debug_executionWitness - Simplified EIP-8025 execution witness (#11224)](https://github.com/besu-eth/besu/commit/efa817c5abc989ef8bb82de14920518ce2a41173) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896055113) - 2026-08-10
 ## Q2 2026

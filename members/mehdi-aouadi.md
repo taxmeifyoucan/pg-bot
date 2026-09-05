@@ -110,6 +110,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Pull Request] [preserve inclusion list payload attributes during block production](https://github.com/Consensys-Incorporated/teku/pull/11211) - 2026-09-01
 * [Issue] [Preserve inclusion list payload attributes during block production](https://github.com/Consensys-Incorporated/teku/issues/11210) - 2026-09-01
 * [Issue] [Reject bids from builders exited by the parent's payload](https://github.com/Consensys-Incorporated/teku/issues/11220) - 2026-09-02
+* [Pull Request] [ignore bid from excited builders](https://github.com/Consensys-Incorporated/teku/pull/11239) - 2026-09-04
+* [Pull Request] [key proposer preferences by slot and dependent root](https://github.com/Consensys-Incorporated/teku/pull/11242) - 2026-09-04
 ## Q2 2026
 
 

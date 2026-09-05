@@ -581,6 +581,33 @@ Team: Reth
 * [Commit] [perf(discv5): don't block startup on boot node ENR requests (#26929)](https://github.com/paradigmxyz/reth/commit/5124a584a0c5ac324c9a35ce3dbbe1befad4b479) - 2026-09-03
 * [Commit] [chore: fix latest nightly clippy lints (#26985)](https://github.com/paradigmxyz/reth/commit/fac89a4a723f77e7575f5374f3213678a61ab543) - 2026-09-03
 * [Commit] [perf(rpc): update eth cache gauges once per drained batch (#26968)](https://github.com/paradigmxyz/reth/commit/ca6b1cb89bbff701d68f4be945c5170677cd38af) - 2026-09-03
+* [Pull Request] [fix(rpc): return -32000 for unknown filter ids](https://github.com/paradigmxyz/reth/pull/27020) - 2026-09-05
+* [Pull Request] [refactor(net): simplify transaction announcement handling](https://github.com/paradigmxyz/reth/pull/27021) - 2026-09-05
+* [Review] [Review on: fix(rpc): return only new logs from eth_getFilterChanges](https://github.com/paradigmxyz/reth/pull/26998#pullrequestreview-5118763313) - 2026-09-04
+* [Review] [Review on: perf(txpool): only visit changed senders when the fees did not move](https://github.com/paradigmxyz/reth/pull/26956#pullrequestreview-5118207502) - 2026-09-04
+* [Pull Request] [test(cli): cover snapshot downloads with a mock HTTP server](https://github.com/paradigmxyz/reth/pull/27009) - 2026-09-04
+* [Review] [Review on: chore(net): trace duplicate discovery packets](https://github.com/paradigmxyz/reth/pull/26933#pullrequestreview-5116358243) - 2026-09-04
+* [Pull Request] [perf(discv4): reject duplicate and unknown packets before recovering the key](https://github.com/paradigmxyz/reth/pull/26935) - 2026-09-04
+* [Review] [Review on: fix(transaction-pool): release receiver lock before validating](https://github.com/paradigmxyz/reth/pull/27015#pullrequestreview-5115490038) - 2026-09-04
+* [Review] [Review on: fix(rpc): reject eth_getLogs queries over pruned receipts](https://github.com/paradigmxyz/reth/pull/27002#pullrequestreview-5114491733) - 2026-09-04
+* [Pull Request] [chore(storage-api): remove unused provider trait methods](https://github.com/paradigmxyz/reth/pull/27010) - 2026-09-04
+* [Pull Request] [chore(node-builder): remove unused builder and launch helpers](https://github.com/paradigmxyz/reth/pull/27013) - 2026-09-04
+* [Pull Request] [test(node): wait for dev finality updates](https://github.com/paradigmxyz/reth/pull/27014) - 2026-09-04
+* [Review] [Review on: perf(trie): avoid changesets for read-only overlays](https://github.com/paradigmxyz/reth/pull/26986#pullrequestreview-5114439419) - 2026-09-04
+* [Pull Request] [chore(provider): remove dead code and orphaned writer tests](https://github.com/paradigmxyz/reth/pull/27011) - 2026-09-04
+* [Pull Request] [chore(node-core): remove unused NodeConfig and dirs helpers](https://github.com/paradigmxyz/reth/pull/27012) - 2026-09-04
+* [Commit] [fix(rpc): return -32000 for unknown filter ids (#27020)](https://github.com/paradigmxyz/reth/commit/f5648cfd953c1d4d8a48552e292c361f0f41f3f5) - 2026-09-05
+* [Commit] [test(cli): cover snapshot downloads with a mock HTTP server (#27009)](https://github.com/paradigmxyz/reth/commit/9c4573f0963c99b5b13f5c0f1b9750b46f10aed5) - 2026-09-04
+* [Commit] [perf(discv4): reject duplicate and unknown packets before recovering the key (#26935)](https://github.com/paradigmxyz/reth/commit/bef4922b92be2185dc0b010608f5a5ece735d112) - 2026-09-04
+* [Commit] [perf(rpc): build txpool_contentFrom from the sender's transactions (#26969)](https://github.com/paradigmxyz/reth/commit/b4c4775946edcf3943399e39c2ef5e8879550af3) - 2026-09-04
+* [Commit] [perf(stages): avoid cloning ExecutionOutcome for ExEx notification (#26947)](https://github.com/paradigmxyz/reth/commit/279b758f4d91f09b9cb10686cca787b6e2d4103e) - 2026-09-04
+* [Commit] [fix(rpc): reject eth_getLogs queries over pruned receipts (#27002)](https://github.com/paradigmxyz/reth/commit/d5cd94331e030f7dbd40ce9d42afa5b1951fe132) - 2026-09-04
+* [Commit] [test(node): wait for dev finality updates (#27014)](https://github.com/paradigmxyz/reth/commit/95e1aa0858f9b7d470f04c7c77cc37059751f0ed) - 2026-09-04
+* [Commit] [fix(rpc): resolve a pending toBlock in eth_getLogs to the head (#27001)](https://github.com/paradigmxyz/reth/commit/f8740008d618aa3ee5d88ea145cfc6989b5c2339) - 2026-09-04
+* [Commit] [perf(prune): only read history shards that pruning can affect (#26900)](https://github.com/paradigmxyz/reth/commit/8fce12d1ee3ffabac19cdc702c0df486e6754607) - 2026-09-04
+* [Commit] [perf(rpc): scan eth_getLogs ranges window by window (#27000)](https://github.com/paradigmxyz/reth/commit/055fafc723d1df096e551a14a80e76d2483e97fa) - 2026-09-04
+* [Commit] [fix(rpc): hold a blocking IO permit for eth_getLogs range scans (#26999)](https://github.com/paradigmxyz/reth/commit/1f94488d1e42866d3f8280702a546d42a7b288af) - 2026-09-04
+* [Commit] [perf(trie): reuse address hash across storage changeset rows (#26940)](https://github.com/paradigmxyz/reth/commit/eadb887f1c1698e7bd932f60a0c654dccccd081f) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

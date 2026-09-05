@@ -112,6 +112,11 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Commit] [stateless: Update EEST zkevm test fixtures to v0.8.3 (#4730)](https://github.com/status-im/nimbus-eth1/commit/497d3378a03aa145aba72af94f3c74a19487cf12) - 2026-09-02
 * [Commit] [Bump nim-eth vendor module (#4729)](https://github.com/status-im/nimbus-eth1/commit/bd3796391509411e312ca058c15cde210be074cf) - 2026-09-02
 * [Pull Request] [stateless: build the guest natively + add in CI](https://github.com/status-im/nimbus-eth1/pull/4735) - 2026-09-03
+* [Pull Request] [config: allow riscv stateless guest targets to set their own ISA](https://github.com/status-im/nimbus-eth1/pull/4742) - 2026-09-04
+* [Pull Request] [stateless: Update EEST zkevm test fixtures to v0.8.4](https://github.com/status-im/nimbus-eth1/pull/4743) - 2026-09-04
+* [Commit] [config: allow riscv stateless guest targets to set their own ISA (#4742)](https://github.com/status-im/nimbus-eth1/commit/afb5eafecb88258016f8ad59f34694985abf79bb) - 2026-09-04
+* [Commit] [stateless: Update EEST zkevm test fixtures to v0.8.4 (#4743)](https://github.com/status-im/nimbus-eth1/commit/2350d64c6f6d312219397f7300bcc8acb1d38578) - 2026-09-04
+* [Commit] [stateless: build the guest natively + add in CI (#4735)](https://github.com/status-im/nimbus-eth1/commit/89c6184441ad4cde9de73e6e055ad0b51d38f8a0) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Caleb](https://github.com/protocolguild/documentation/pull/508#pullrequestreview-4634051643) - 2026-07-06
 

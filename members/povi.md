@@ -85,6 +85,10 @@ Team: Grandine
 * [Review] [Review on: Prepare next slot execution payload after PTC votes and payload reveal](https://github.com/grandinetech/grandine/pull/899#pullrequestreview-5100682862) - 2026-09-03
 * [Review] [Review on: Build envelope full with their preset limits](https://github.com/grandinetech/grandine/pull/902#pullrequestreview-5100655308) - 2026-09-03
 * [Commit] [Fix for issue with sync service getting stalled because it waits for envelope it won't ever receive. Cap max sync batch retries.](https://github.com/grandinetech/grandine/commit/fc2b4a48069e8a216677eaadcda5f503f881c027) - 2026-09-03
+* [Review] [Review on: Replay persisted execution payload envelopes at restart](https://github.com/grandinetech/grandine/pull/887#pullrequestreview-5114023000) - 2026-09-04
+* [Pull Request] [Batched attestation handlers for performance reasons](https://github.com/grandinetech/grandine/pull/908) - 2026-09-04
+* [Commit] [Avoid deep cloning seen gossip attesters and aggregators](https://github.com/grandinetech/grandine/commit/2c05ff3a53894aa72eae60a148ba356fb63a488a) - 2026-09-04
+* [Commit] [Batch attestation and payload attestation handlers for performance reasons](https://github.com/grandinetech/grandine/commit/713420c47a6adaf078cf77c1c4b21111c6a5e9f5) - 2026-09-04
 ## Q2 2026
 
 

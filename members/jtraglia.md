@@ -263,6 +263,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Check the voluntary exit epoch against the wall clock](https://github.com/ethereum/consensus-specs/pull/5596) - 2026-09-03
 * [Review] [Review on: Check the voluntary exit epoch against the wall clock](https://github.com/ethereum/consensus-specs/pull/5596#pullrequestreview-5104643334) - 2026-09-03
 * [Commit] [Check the voluntary exit epoch against the wall clock (#5596)](https://github.com/ethereum/consensus-specs/commit/798c551b211da9cfb4e90520441c997598fddbb0) - 2026-09-03
+* [Review] [Review on: Add executable gossip validation functions for heze](https://github.com/ethereum/consensus-specs/pull/5605#pullrequestreview-5116283159) - 2026-09-04
+* [Review] [Review on: Add a test when a dependent block is the head](https://github.com/ethereum/consensus-specs/pull/5603#pullrequestreview-5116440082) - 2026-09-04
+* [Pull Request] [Replace AGENTS.md with simplified CLAUDE.md file](https://github.com/ethereum/consensus-specs/pull/5604) - 2026-09-04
+* [Review] [Review on: Introduce `compute_shuffling_lookahead_start_slot` helper](https://github.com/ethereum/consensus-specs/pull/5602#pullrequestreview-5114542592) - 2026-09-04
+* [Commit] [Replace AGENTS.md with simplified CLAUDE.md file (#5604)](https://github.com/ethereum/consensus-specs/commit/ffa61848861ef88931da7e4d2e3968de1ede57ff) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

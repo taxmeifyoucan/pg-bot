@@ -19,6 +19,8 @@ Team: [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEt
 
 * [Pull Request] [feat(engine): EIP-7805 fork-choice enforced inclusion lists (EL side)](https://github.com/NethermindEth/nethermind/pull/12262) - 2026-07-04
 * [Pull Request] [feat(engine): EIP-8146 block access list sidecars (EL side)](https://github.com/NethermindEth/nethermind/pull/12261) - 2026-07-04
+* [Review] [Review on: perf: stop copying code out of the code db](https://github.com/NethermindEth/nethermind/pull/13160#pullrequestreview-5117939520) - 2026-09-04
+* [Review] [Review on: docs: write down the zkVM guest rules](https://github.com/NethermindEth/nethermind/pull/13151#pullrequestreview-5117931092) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626342085) - 2026-07-03
 ## Q2 2026

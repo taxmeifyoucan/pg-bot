@@ -115,6 +115,12 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [Update glamsterdam devnet fixtures to v8.1.3 (#4715)](https://github.com/status-im/nimbus-eth1/commit/dbc7450edb7fcae7a36019e617c00fa2c770c208) - 2026-09-02
 * [Commit] [evmstate parse and validate receipt (#4713)](https://github.com/status-im/nimbus-eth1/commit/3230683d6135e7ecf3543eb376b25eccba8ea2c8) - 2026-09-01
 * [Commit] [Bump nim-web3 (#4719)](https://github.com/status-im/nimbus-eth1/commit/05ea01293ef8f65ccc7185832556dfcb30e84688) - 2026-09-02
+* [Review] [Review on: fix pruned db rpc fetch request](https://github.com/status-im/nimbus-eth1/pull/4716#pullrequestreview-5113627100) - 2026-09-04
+* [Pull Request] [EVM system call now using SysCallParams](https://github.com/status-im/nimbus-eth1/pull/4737) - 2026-09-04
+* [Pull Request] [Update glamsterdam devnet fixtures to v8.1.4 ](https://github.com/status-im/nimbus-eth1/pull/4736) - 2026-09-04
+* [Commit] [Do not call computeStateRoot when genesis have no accounts (#4634)](https://github.com/status-im/nimbus-eth1/commit/5671d7854a8b849200c340933419bda91a4ae623) - 2026-09-04
+* [Commit] [EVM system call now using SysCallParams (#4737)](https://github.com/status-im/nimbus-eth1/commit/653266203551aa05c0bf9ce44c8ce8a76601cbdc) - 2026-09-04
+* [Commit] [Update glamsterdam devnet fixtures to v8.1.4  (#4736)](https://github.com/status-im/nimbus-eth1/commit/eb9c0a236e6205fdec920b9de0556b70b0445beb) - 2026-09-04
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

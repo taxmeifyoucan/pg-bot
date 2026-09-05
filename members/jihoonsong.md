@@ -107,6 +107,12 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Commit] [Add missing dependent block checks to `on_inclusion_list` (#5599)](https://github.com/ethereum/consensus-specs/commit/09c77a4a74c2a21bea143486f06163581b4f5563) - 2026-09-03
 * [Commit] [Use `is_future_epoch` in BLS to execution change gossip (#5600)](https://github.com/ethereum/consensus-specs/commit/c467ca45c0b3fc1926901dcec4b0619b9539d1d9) - 2026-09-03
 * [Commit] [Use `.copy()` consistently (#5601)](https://github.com/ethereum/consensus-specs/commit/b87f78fe128fc7e954291c5ff0804238d2a040b3) - 2026-09-03
+* [Pull Request] [Add executable gossip validation functions for heze](https://github.com/ethereum/consensus-specs/pull/5605) - 2026-09-04
+* [Pull Request] [Add a test when a dependent block is the head](https://github.com/ethereum/consensus-specs/pull/5603) - 2026-09-04
+* [Pull Request] [Introduce `compute_shuffling_lookahead_start_slot` helper](https://github.com/ethereum/consensus-specs/pull/5602) - 2026-09-04
+* [Review] [Review on: Introduce `compute_shuffling_lookahead_start_slot` helper](https://github.com/ethereum/consensus-specs/pull/5602#pullrequestreview-5115384873) - 2026-09-04
+* [Commit] [Add a test when a dependent block is the head (#5603)](https://github.com/ethereum/consensus-specs/commit/6805f6a66e831f909f468fa595782e5cc8e5bd9f) - 2026-09-04
+* [Commit] [Introduce `compute_shuffling_lookahead_start_slot` helper (#5602)](https://github.com/ethereum/consensus-specs/commit/46a14d62de66d45441d7e4f3db68733b3a19cfec) - 2026-09-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
@@ -121,6 +127,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Commit] [fix: rename max IL transactions bytes constants (#871)](https://github.com/ethereum/execution-apis/commit/739f9e00806003d2204adca7595f704849b9be30) - 2026-08-28
 * [Pull Request] [Add non-zero requirements to getInclusionListV1's response](https://github.com/ethereum/execution-apis/pull/878) - 2026-09-01
 * [Review] [Review on: Add non-zero requirements to getInclusionListV1's response](https://github.com/ethereum/execution-apis/pull/878#pullrequestreview-5088044127) - 2026-09-02
+* [Commit] [Add non-zero requirements to getInclusionListV1's response (#878)](https://github.com/ethereum/execution-apis/commit/2ab543851a206ec2836cb387b3aa9cb33c646938) - 2026-09-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/pull/12029) - 2026-07-29
 * [Commit] [Update EIP-8333: use the attestation deadline, not a specific fraction of a slot](https://github.com/ethereum/EIPs/commit/cff8e93347c8f6c5f30d5ae7e8875406f71179de) - 2026-07-29

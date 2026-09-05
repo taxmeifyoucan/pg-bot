@@ -345,6 +345,12 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: execution/p2p: validate BlockBodies before materialization](https://github.com/erigontech/erigon/pull/23712#pullrequestreview-5099100881) - 2026-09-03
 * [Commit] [execution/finality: do not pass db via options but instead always via funcs (#23782)](https://github.com/erigontech/erigon/commit/3e5d4d4d3bbc4e12844ba417aa4b8fbd747c6db6) - 2026-09-03
 * [Commit] [db: less direct usages of agg for collation, state snaps, steps (#23762)](https://github.com/erigontech/erigon/commit/fa93ec13970e34226150e7cb1c4a4ccc51d23b25) - 2026-09-03
+* [Review] [Review on: execution/vm: return state-gas to gas_left when a child merges](https://github.com/erigontech/erigon/pull/23718#pullrequestreview-5111443176) - 2026-09-04
+* [Pull Request] [ci: update eest devnet fixtures to v8.1.4](https://github.com/erigontech/erigon/pull/23796) - 2026-09-04
+* [Review] [Review on: db/seg: stop zeroing the word buffer in Getter.Next](https://github.com/erigontech/erigon/pull/23793#pullrequestreview-5111674230) - 2026-09-04
+* [Review] [Review on: cmd/capcli: migrate from kong to urfave/cli/v3](https://github.com/erigontech/erigon/pull/23789#pullrequestreview-5111661024) - 2026-09-04
+* [Review] [Review on: db/seg: drop dead code, fix the ParseFileCompression stub](https://github.com/erigontech/erigon/pull/23788#pullrequestreview-5111641679) - 2026-09-04
+* [Commit] [ci: update eest devnet fixtures to v8.1.4 (#23796)](https://github.com/erigontech/erigon/commit/6bdd2561f78e6e94a5614f39310d1ee442b05881) - 2026-09-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06
@@ -361,6 +367,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Pull Request] [eth_simulateV1: update test_28 to remove EIP-7610 check ](https://github.com/erigontech/rpc-tests/pull/594) - 2026-09-02
+* [Review] [Review on: integration: add tests for callTracer `to` omitted on a failed CREATE](https://github.com/erigontech/rpc-tests/pull/596#pullrequestreview-5112385134) - 2026-09-04
+* [Commit] [eth_simulateV1: update test_28 to remove EIP-7610 check and fallback to EIP-684 + yellow paper storage clearing on new account (#594)](https://github.com/erigontech/rpc-tests/commit/60ed34671cf189294b971e1a7f17008d53a27464) - 2026-09-04
 ## Q2 2026
 
 

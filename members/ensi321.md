@@ -89,6 +89,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Issue] [blob endpoint removal after gloas](https://github.com/ChainSafe/lodestar/issues/9956) - 2026-08-31
 * [Review] [Review on: fix: serve closest head state if head block post-state is not available](https://github.com/ChainSafe/lodestar/pull/10003#pullrequestreview-5108041026) - 2026-09-04
 * [Review] [Review on: fix: handle orphaned parent payload envelope in range sync batches](https://github.com/ChainSafe/lodestar/pull/10002#pullrequestreview-5108172681) - 2026-09-04
+* [Review] [Review on: feat: add compliance test for gloas](https://github.com/ChainSafe/lodestar/pull/9761#pullrequestreview-5119165531) - 2026-09-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

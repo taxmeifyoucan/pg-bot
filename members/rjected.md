@@ -28,6 +28,7 @@ Team: Reth
 * [Review] [Review on: fix(cli): download enough history when the final snapshot chunk is partial](https://github.com/paradigmxyz/reth/pull/26607#pullrequestreview-4878496986) - 2026-08-06
 * [Review] [Review on: fix(dns): skip unrelated TXT records](https://github.com/paradigmxyz/reth/pull/26603#pullrequestreview-4876424329) - 2026-08-06
 * [Pull Request] [fix(cli): use configured minimal download defaults](https://github.com/paradigmxyz/reth/pull/26934) - 2026-09-02
+* [Commit] [fix(cli): use configured minimal download defaults (#26934)](https://github.com/paradigmxyz/reth/commit/e423a23d8132d02997f73a2a55c197807688f301) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626673741) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626672497) - 2026-07-03

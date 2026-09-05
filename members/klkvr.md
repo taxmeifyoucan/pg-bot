@@ -68,6 +68,9 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Review] [Review on: perf(evm): reuse receipt blooms for the block logs bloom](https://github.com/paradigmxyz/reth/pull/26939#pullrequestreview-5103713348) - 2026-09-03
 * [Review] [Review on: perf(txpool): track highest nonce per sender on fee rebuild](https://github.com/paradigmxyz/reth/pull/26978#pullrequestreview-5102693603) - 2026-09-03
 * [Commit] [fix(engine): finalize pipeline sync target after backfill (#26983)](https://github.com/paradigmxyz/reth/commit/d71913364273b092e33f8da52f5994ba5f4674b6) - 2026-09-03
+* [Review] [Review on: test(cli): cover snapshot downloads with a mock HTTP server](https://github.com/paradigmxyz/reth/pull/27009#pullrequestreview-5116530224) - 2026-09-04
+* [Pull Request] [fix(cli): use configured minimal download defaults](https://github.com/paradigmxyz/reth/pull/27005) - 2026-09-04
+* [Review] [Review on: fix(cli): use configured minimal download defaults](https://github.com/paradigmxyz/reth/pull/27006#pullrequestreview-5112684025) - 2026-09-04
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

@@ -72,6 +72,10 @@ Team: [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): wrap earlier transaction types into frames where possible](https://github.com/ethereum/execution-specs/pull/3500#pullrequestreview-5101621836) - 2026-09-03
 * [Issue] [Test Release Tracker: `frames-devnet@v0.2.0`](https://github.com/ethereum/execution-specs/issues/3521) - 2026-09-03
 * [Issue] [Create tests to replicate common mainnet contract patterns](https://github.com/ethereum/execution-specs/issues/3517) - 2026-09-03
+* [Review] [Review on: feat(tests): cover EIP-8037 system gas and code-deposit boundaries](https://github.com/ethereum/execution-specs/pull/3524#pullrequestreview-5114252145) - 2026-09-04
+* [Review] [Review on: feat(spec-specs, tests): repay spilled state gas from the reservoir when a child merges](https://github.com/ethereum/execution-specs/pull/3478#pullrequestreview-5111379871) - 2026-09-04
+* [Review] [Review on: refactor(spec-specs,tests): clarify top-frame gas and derive `CALL_VALUE`](https://github.com/ethereum/execution-specs/pull/3527#pullrequestreview-5112070484) - 2026-09-04
+* [Issue] [Test Release Tracker: `frames-devnet@v0.3.0`](https://github.com/ethereum/execution-specs/issues/3532) - 2026-09-04
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8141: dispatch a precompile targeted by a frame](https://github.com/ethereum/EIPs/pull/12157#pullrequestreview-4980567794) - 2026-08-20
 * [Pull Request] [Update EIP-8141: scope APPROVE failure modes to the current call frame](https://github.com/ethereum/EIPs/pull/12212) - 2026-08-20

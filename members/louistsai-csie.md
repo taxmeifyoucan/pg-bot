@@ -150,6 +150,11 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: feat(tests): add precompile as block coinbase coverage](https://github.com/ethereum/execution-specs/pull/3462#pullrequestreview-5091024413) - 2026-09-02
 * [Review] [Review on: fix(ci): authenticate simulator-build clones with `github.token`](https://github.com/ethereum/execution-specs/pull/3516#pullrequestreview-5101963400) - 2026-09-03
 * [Pull Request] [refactor(tests): enhance EIP-8037 test coverage part 4](https://github.com/ethereum/execution-specs/pull/3511) - 2026-09-03
+* [Review] [Review on: feat(tests): Finalize EIP-7778](https://github.com/ethereum/execution-specs/pull/3522#pullrequestreview-5109478885) - 2026-09-04
+* [Review] [Review on: refactor(tests): enhance EIP-8037 test coverage part 4](https://github.com/ethereum/execution-specs/pull/3511#pullrequestreview-5110222071) - 2026-09-04
+* [Review] [Review on: refactor(spec-specs): add `OPCODE_SELFBALANCE`, `OPCODE_TLOAD` and `OPCODE_TSTORE`](https://github.com/ethereum/execution-specs/pull/3464#pullrequestreview-5110396380) - 2026-09-04
+* [Review] [Review on: feat(test-tools): Implement `GasConsumer`](https://github.com/ethereum/execution-specs/pull/3497#pullrequestreview-5109277702) - 2026-09-04
+* [Commit] [refactor(tests): enhance EIP-8037 test coverage part 4 (#3511)](https://github.com/ethereum/execution-specs/commit/e4a1fb6faf150425da9c1d9afb9005c2dd82eee3) - 2026-09-04
 ## Q2 2026
 
 

@@ -159,6 +159,7 @@ Github: [@maximmenshikov](https://github.com/maximmenshikov)
 * [Commit] [bflat-runtime: drop riscv64 soft-float workaround patches](https://github.com/NethermindEth/dotnet-riscv/commit/41f118217d8d5266cb13b5bb2280b26aca3f9959) - 2026-08-11
 * [Commit] [bflat-runtime: patch riscv64 StubDispatch tail call range](https://github.com/NethermindEth/dotnet-riscv/commit/51efcac7a9bf4b5154f8cbf532723121ce1cf649) - 2026-08-11
 * [Commit] [pack_bflat_compiler_nupkg: locate riscv64 cross JIT in NuGet cache](https://github.com/NethermindEth/dotnet-riscv/commit/24f4531bb1ec2d5385624c28c668965254359629) - 2026-08-11
+* [Commit] [fixup/10/perf: rewrite 32_release_inline_knobs for upstream submission](https://github.com/NethermindEth/dotnet-riscv/commit/5a0f91f0b1f08d9424af3ac0c5b2aaf22c6a0d81) - 2026-09-04
 ## Q2 2026
 
 

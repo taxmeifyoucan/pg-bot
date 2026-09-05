@@ -162,6 +162,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: fix Switch gossip subscriptions panel of Sync dashboard](https://github.com/ChainSafe/lodestar/pull/9987#pullrequestreview-5097427156) - 2026-09-03
 * [Review] [Review on: fix: minor improvement on ptc message gossip validation](https://github.com/ChainSafe/lodestar/pull/9969#pullrequestreview-5097423680) - 2026-09-03
 * [Issue] [Interchange import is not atomic, a rejected file leaves partial slashing protection state](https://github.com/ChainSafe/lodestar/issues/10001) - 2026-09-03
+* [Pull Request] [refactor: select experimental native state transition during setup](https://github.com/ChainSafe/lodestar/pull/10014) - 2026-09-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -286,6 +287,23 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(stf): treat Capella as post-merge](https://github.com/ChainSafe/lodestar-z/pull/624#pullrequestreview-5091052865) - 2026-09-02
 * [Review] [Review on: fix(stf): justify exact two-thirds participation](https://github.com/ChainSafe/lodestar-z/pull/623#pullrequestreview-5091045867) - 2026-09-02
 * [Review] [Review on: feat(napi): expose forkSeq on BeaconStateView binding](https://github.com/ChainSafe/lodestar-z/pull/635#pullrequestreview-5102868197) - 2026-09-03
+* [Pull Request] [fix(bindings): make native STF setup and memory ownership safe](https://github.com/ChainSafe/lodestar-z/pull/648) - 2026-09-05
+* [Pull Request] [perf(ssz): avoid scratch allocation in chunked list serialization](https://github.com/ChainSafe/lodestar-z/pull/642) - 2026-09-04
+* [Review] [Review on: refactor(ssz): rewrite offset iteration for variable element iteration](https://github.com/ChainSafe/lodestar-z/pull/598#pullrequestreview-5118028247) - 2026-09-04
+* [Pull Request] [refactor(pmt): bound lazy root hashing with iterative traversal](https://github.com/ChainSafe/lodestar-z/pull/647) - 2026-09-04
+* [Pull Request] [fix(ssz): preserve container view state after failed child reads](https://github.com/ChainSafe/lodestar-z/pull/646) - 2026-09-04
+* [Pull Request] [fix(ssz): reject noncanonical booleans in list and vector trees](https://github.com/ChainSafe/lodestar-z/pull/645) - 2026-09-04
+* [Pull Request] [refactor(pmt): compute proof descriptors with integer paths](https://github.com/ChainSafe/lodestar-z/pull/644) - 2026-09-04
+* [Pull Request] [fix: preserve participation view ownership on rotation failure](https://github.com/ChainSafe/lodestar-z/pull/643) - 2026-09-04
+* [Pull Request] [perf(ssz): size progressive fixed lists without materializing values](https://github.com/ChainSafe/lodestar-z/pull/641) - 2026-09-04
+* [Review] [Review on: refactor(ssz): simplify progressive bit list type](https://github.com/ChainSafe/lodestar-z/pull/637#pullrequestreview-5116244902) - 2026-09-04
+* [Review] [Review on: fix(state_transition): reuse shared shuffled index cache](https://github.com/ChainSafe/lodestar-z/pull/638#pullrequestreview-5116277252) - 2026-09-04
+* [Review] [Review on: fix(stf): allocate epoch cache clone before refs](https://github.com/ChainSafe/lodestar-z/pull/639#pullrequestreview-5114551786) - 2026-09-04
+* [Pull Request] [docs: add PR title and description guidelines](https://github.com/ChainSafe/lodestar-z/pull/640) - 2026-09-04
+* [Review] [Review on: docs: add PR title and description guidelines](https://github.com/ChainSafe/lodestar-z/pull/640#pullrequestreview-5113634371) - 2026-09-04
+* [Review] [Review on: fix(stf): safe pending withdrawal map reads with get](https://github.com/ChainSafe/lodestar-z/pull/630#pullrequestreview-5114159937) - 2026-09-04
+* [Review] [Review on: fix(stf): fix epochshuffling slot committee slice leaks](https://github.com/ChainSafe/lodestar-z/pull/636#pullrequestreview-5114091317) - 2026-09-04
+* [Commit] [refactor: extract tests to _test.zig, add tidy lint (#625)](https://github.com/ChainSafe/lodestar-z/commit/bb485bbc02714bb0e53ade32302952c75a50a794) - 2026-09-04
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

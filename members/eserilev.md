@@ -144,6 +144,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeser
 * [Pull Request] [Clean up fork choice ef tests](https://github.com/sigp/lighthouse/pull/9965) - 2026-09-02
 * [Pull Request] [Add IL prop tests](https://github.com/sigp/lighthouse/pull/9969) - 2026-09-03
 * [Pull Request] [Reject bids whose block hash equals the parent block hash](https://github.com/sigp/lighthouse/pull/9970) - 2026-09-03
+* [Pull Request] [Revert `fork_choice::payload_received` when envelope db write fails](https://github.com/sigp/lighthouse/pull/9978) - 2026-09-04
+* [Review] [Review on: Fix empty BlocksByRoot responses during Gloas column publish](https://github.com/sigp/lighthouse/pull/9976#pullrequestreview-5117914055) - 2026-09-04
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fold inclusion list timeliness into the stored entry](https://github.com/ethereum/consensus-specs/pull/5512#pullrequestreview-4903657386) - 2026-08-11
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4913385109) - 2026-08-12

@@ -441,6 +441,7 @@ Team: Erigon
 * [Issue] [execution/commitment: v3 edge-record format and the hoodi 1M v2/v3 run](https://github.com/erigontech/erigon/issues/23773) - 2026-09-03
 * [Commit] [execution/execmodule: benchmark the engine_newPayload validation window (#23738)](https://github.com/erigontech/erigon/commit/fe0e9e02287f8265b347f1e2ea3c3a36bc94ce44) - 2026-09-03
 * [Commit] [execution/stagedsync: calcState walks a per-block dirty list (#23737)](https://github.com/erigontech/erigon/commit/e2deafdfd29f34403a1d51a2c873861491ae70f0) - 2026-09-03
+* [Commit] [execution/commitment: deep-fold storage whose account record is not in the round (#23749)](https://github.com/erigontech/erigon/commit/66472df990499d91005e235bf9a2c040ee4b76d7) - 2026-09-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

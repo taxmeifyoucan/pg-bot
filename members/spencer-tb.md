@@ -291,6 +291,16 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Issue] [Test Release Tracker: `glamsterdam-devnet@v8.1.4`](https://github.com/ethereum/execution-specs/issues/3518) - 2026-09-03
 * [Commit] [feat(tooling): share agent skills across Codex and Claude (#3514)](https://github.com/ethereum/execution-specs/commit/1d340aa183b5902873fdbeb99b43bd3e1b3f6d3a) - 2026-09-03
 * [Commit] [fix(tests,test-fill): fix enginex fills for BAL forks and improve the enginex consistency check (#3265)](https://github.com/ethereum/execution-specs/commit/947ef52d8230215a42c0a3347458e3249e2c804c) - 2026-09-03
+* [Pull Request] [feat(tests): cover EIP-8037 system gas and code-deposit boundaries](https://github.com/ethereum/execution-specs/pull/3524) - 2026-09-04
+* [Pull Request] [chore(tests): refresh EIP-8037 reference pin and coverage evidence](https://github.com/ethereum/execution-specs/pull/3529) - 2026-09-04
+* [Pull Request] [refactor(tests): size gas-boundary cases with fork calculators](https://github.com/ethereum/execution-specs/pull/3530) - 2026-09-04
+* [Pull Request] [feat(test-execute): validate implicit gas limits with eth_estimateGas](https://github.com/ethereum/execution-specs/pull/3528) - 2026-09-04
+* [Pull Request] [feat(tooling): measure full block-validation coverage](https://github.com/ethereum/execution-specs/pull/3526) - 2026-09-04
+* [Pull Request] [refactor(spec-specs,tests): clarify top-frame gas and derive `CALL_VALUE`](https://github.com/ethereum/execution-specs/pull/3527) - 2026-09-04
+* [Pull Request] [feat(tests): cover EIP-8037 static-call reservoirs and block activation](https://github.com/ethereum/execution-specs/pull/3525) - 2026-09-04
+* [Review] [Review on: refactor(tests): enhance EIP-8037 test coverage part 4](https://github.com/ethereum/execution-specs/pull/3511#pullrequestreview-5110305531) - 2026-09-04
+* [Commit] [feat(spec-specs, tests): repay spilled state gas from the reservoir when a child merges (#3478)](https://github.com/ethereum/execution-specs/commit/132d1149a257c5174dfd2f38f8cf1cb521780f06) - 2026-09-04
+* [Commit] [refactor(spec-specs,tests): clarify top-frame gas and derive CALL_VALUE (#3527)](https://github.com/ethereum/execution-specs/commit/39e8810f76eee73fb7a8166abd1929298846c3f2) - 2026-09-04
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 
@@ -337,6 +347,8 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: Update EIP-8037: return state-gas to gas_left when a child merges](https://github.com/ethereum/EIPs/pull/12265#pullrequestreview-5067349350) - 2026-08-31
 * [Review] [Review on: Update EIP-8037: restore a frame's state-gas on rollback](https://github.com/ethereum/EIPs/pull/12256#pullrequestreview-5067749682) - 2026-08-31
 * [Pull Request] [Update EIP-8037: note that gas_left can increase within a frame](https://github.com/ethereum/EIPs/pull/12285) - 2026-09-02
+* [Pull Request] [Update EIP-8037: remove stale EIP-7610 collision rules](https://github.com/ethereum/EIPs/pull/12296) - 2026-09-04
+* [Commit] [Update EIP-2780: align runtime charging and reference cases](https://github.com/ethereum/EIPs/commit/7243c92ba812437c64bae9fc6524ee269b29daa9) - 2026-09-04
 [hyperledger/besu](https://github.com/hyperledger/besu)
 * [Pull Request] [Fix genesis slotNumber parsing and require the header field from Amsterdam](https://github.com/besu-eth/besu/pull/11038) - 2026-08-13
 

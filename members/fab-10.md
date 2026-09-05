@@ -204,6 +204,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Remove unreachable ACCEPTED branch from engine_newPayload (#11237)](https://github.com/besu-eth/besu/commit/6298195af06f8036b489d383acfc7e84429e26fe) - 2026-09-03
 * [Commit] [Update tests-glamsterdam-devnet to v8.1.3 (#11233)](https://github.com/besu-eth/besu/commit/55c7d60e325bfcdd69b1c59d95235e11956ecf1e) - 2026-09-03
 * [Commit] [Complete refactor of engine_getBlobsV* methods (#11204)](https://github.com/besu-eth/besu/commit/10cf6ffe169d2b2f96654c56769a2052785a54a4) - 2026-09-03
+* [Review] [Review on: add guava source metadata](https://github.com/besu-eth/besu/pull/11240#pullrequestreview-5110505371) - 2026-09-04
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

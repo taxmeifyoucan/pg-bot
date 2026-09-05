@@ -245,6 +245,14 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [test: Count outcomes from the notes (#1693)](https://github.com/ipsilon/evmone/commit/a203f55f606cc1e8a4d715099432de4f311f952b) - 2026-09-02
 * [Commit] [test: Rename test_files to test_collector (#1692)](https://github.com/ipsilon/evmone/commit/28f3aaf3e9e7d860064cbdcfda9a355e59e8b94e) - 2026-09-02
 * [Pull Request] [test: Group the integration tests by the command they run](https://github.com/ipsilon/evmone/pull/1695) - 2026-09-03
+* [Pull Request] [test: Make a fixture file the only kind of test](https://github.com/ipsilon/evmone/pull/1699) - 2026-09-04
+* [Pull Request] [test: Report a file's fixtures one result each](https://github.com/ipsilon/evmone/pull/1700) - 2026-09-04
+* [Pull Request] [t8n: Report the block gas used that apply_block computes](https://github.com/ipsilon/evmone/pull/1698) - 2026-09-04
+* [Review] [Review on: test: Group the integration tests by the command they run](https://github.com/ipsilon/evmone/pull/1695#pullrequestreview-5112286642) - 2026-09-04
+* [Pull Request] [ci: Ask CodSpeed for allocation measurements too](https://github.com/ipsilon/evmone/pull/1697) - 2026-09-04
+* [Pull Request] [Convert keccak.c to C++](https://github.com/ipsilon/evmone/pull/1696) - 2026-09-04
+* [Commit] [t8n: Report the block gas used that apply_block computes (#1698)](https://github.com/ipsilon/evmone/commit/13ec12d93c4be244f70bcd751b24bb7409a1b64d) - 2026-09-04
+* [Commit] [test: Group the integration tests by the command they run (#1695)](https://github.com/ipsilon/evmone/commit/25e59e2104c61cfa640ecee37671d5f6a4d928d2) - 2026-09-04
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -328,6 +336,14 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [Update EIP-8037: correct the general state-gas charge timing](https://github.com/ethereum/EIPs/pull/12284) - 2026-09-02
 * [Pull Request] [Update EIP-8037: remove the duplicated calldata floor note](https://github.com/ethereum/EIPs/pull/12283) - 2026-09-02
 * [Pull Request] [Update EIP-8037: remove unused evm_execution_gas_used counter](https://github.com/ethereum/EIPs/pull/12282) - 2026-09-02
+* [Pull Request] [Update EIP-8246: Move to Last Call](https://github.com/ethereum/EIPs/pull/12297) - 2026-09-04
+* [Commit] [Update EIP-8246: give a concrete example of L2 burn usage](https://github.com/ethereum/EIPs/commit/9207c6011f526bd40abd79649484a1a342585bd4) - 2026-09-04
+* [Commit] [Update EIP-8246: note the CREATE2 redeploy of a funded remnant](https://github.com/ethereum/EIPs/commit/9388239ee5205f341d948a73bf8eb109f761b167) - 2026-09-04
+* [Commit] [Update EIP-8037: remove unused evm_execution_gas_used counter](https://github.com/ethereum/EIPs/commit/052029f3625328d6f51dec8e62a7090201e66f17) - 2026-09-04
+* [Commit] [Update EIP-8037: return state-gas to gas_left when a child merges](https://github.com/ethereum/EIPs/commit/3ff5cff17a11ab31273ee14ebea0df8bbc4f4aef) - 2026-09-04
+* [Commit] [Update EIP-8037: correct the general state-gas charge timing](https://github.com/ethereum/EIPs/commit/c406bdb2ffbf2fbf9d85698e97b3b2e8b6e79112) - 2026-09-04
+* [Commit] [Update EIP-8037: remove the duplicated calldata floor note](https://github.com/ethereum/EIPs/commit/58596a9911b945fc855caa80a904c5b3f4c4f254) - 2026-09-04
+* [Commit] [Update EIP-8037: restore a frame's state-gas on rollback](https://github.com/ethereum/EIPs/commit/65d177d431638639d35897d6e869301a5ea8a02c) - 2026-09-04
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22522#pullrequestreview-4717730901) - 2026-07-16
 * [Pull Request] [types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514) - 2026-07-16
@@ -339,6 +355,9 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [EIP-7928: BAL omits a touched RIPEMD-160 (0x03), valid block rejected](https://github.com/erigontech/erigon/issues/23670) - 2026-08-29
 * [Pull Request] [execution/vm: return state-gas to gas_left when a child merges](https://github.com/erigontech/erigon/pull/23718) - 2026-09-01
 * [Review] [Review on: execution/vm: evmone_precompiles v0.23.0](https://github.com/erigontech/erigon/pull/23231#pullrequestreview-5090811790) - 2026-09-02
+* [Review] [Review on: execution/vm: return state-gas to gas_left when a child merges](https://github.com/erigontech/erigon/pull/23718#pullrequestreview-5111455686) - 2026-09-04
+* [Review] [Review on: ci: update eest devnet fixtures to v8.1.4](https://github.com/erigontech/erigon/pull/23796#pullrequestreview-5112344637) - 2026-09-04
+* [Commit] [execution/vm: return state-gas to gas_left when a child merges (#23718)](https://github.com/erigontech/erigon/commit/ecb849c4415f51505148fc901cbff7b447edb03e) - 2026-09-04
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [tests: validateHeader compares baseFeePerGas with reflect.DeepEqual, so a zero base fee always fails](https://github.com/ethereum/go-ethereum/issues/35555) - 2026-08-19
 
