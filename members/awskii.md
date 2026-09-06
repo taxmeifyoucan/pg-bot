@@ -442,6 +442,23 @@ Team: Erigon
 * [Commit] [execution/execmodule: benchmark the engine_newPayload validation window (#23738)](https://github.com/erigontech/erigon/commit/fe0e9e02287f8265b347f1e2ea3c3a36bc94ce44) - 2026-09-03
 * [Commit] [execution/stagedsync: calcState walks a per-block dirty list (#23737)](https://github.com/erigontech/erigon/commit/e2deafdfd29f34403a1d51a2c873861491ae70f0) - 2026-09-03
 * [Commit] [execution/commitment: deep-fold storage whose account record is not in the round (#23749)](https://github.com/erigontech/erigon/commit/66472df990499d91005e235bf9a2c040ee4b76d7) - 2026-09-04
+* [Review] [Review on: mem: set default `GOMEMLIMIT` to 80% of total ram (cgroup-aware)](https://github.com/erigontech/erigon/pull/23757#pullrequestreview-5120404201) - 2026-09-05
+* [Review] [Review on: rpc: stop walking a request once per layer](https://github.com/erigontech/erigon/pull/23780#pullrequestreview-5120260690) - 2026-09-05
+* [Review] [Review on: mcp: fix log stats, tail memory and rpc.url discovery; drop dead code](https://github.com/erigontech/erigon/pull/23786#pullrequestreview-5120259810) - 2026-09-05
+* [Review] [Review on: lint: enable `shadow` linter for `./db` pkgs (step 1)](https://github.com/erigontech/erigon/pull/23779#pullrequestreview-5120261546) - 2026-09-05
+* [Review] [Review on: cl, p2p/rlpx: grow reused buffers with slices.Grow](https://github.com/erigontech/erigon/pull/23795#pullrequestreview-5120261474) - 2026-09-05
+* [Pull Request] [execution/types: pin RegisterTxType's nil spec.New guard](https://github.com/erigontech/erigon/pull/23808) - 2026-09-05
+* [Review] [Review on: cl/phase1/forkchoice: don't hold the fork-choice lock across blocking EL calls in OnBlock](https://github.com/erigontech/erigon/pull/23691#pullrequestreview-5120260439) - 2026-09-05
+* [Review] [Review on: db: MPH-false-positives check without key decompression](https://github.com/erigontech/erigon/pull/23802#pullrequestreview-5120201903) - 2026-09-05
+* [Review] [Review on: downloader: report kept-local seeding dropped by shutdown](https://github.com/erigontech/erigon/pull/23745#pullrequestreview-5120261704) - 2026-09-05
+* [Review] [Review on: db: decode Code to re-usable buf and return to caller cached copy](https://github.com/erigontech/erigon/pull/23798#pullrequestreview-5120312953) - 2026-09-05
+* [Review] [Review on: cl/services: harden shared pending queue and migrate bids](https://github.com/erigontech/erigon/pull/23644#pullrequestreview-5120260757) - 2026-09-05
+* [Review] [Review on: execution: remove EIP-7610](https://github.com/erigontech/erigon/pull/23706#pullrequestreview-5120260524) - 2026-09-05
+* [Review] [Review on: execution/cache: pin the step and generation cost formulas together](https://github.com/erigontech/erigon/pull/23784#pullrequestreview-5120198689) - 2026-09-05
+* [Commit] [cl/beacon/handler: reject a missing withdrawals list instead of dereferencing it (#23693)](https://github.com/erigontech/erigon/commit/c599a14afec3f49adcf298b9566a5aceb9249464) - 2026-09-05
+* [Commit] [db/etl: size a pooled buffer to the collector's last fill (#23742)](https://github.com/erigontech/erigon/commit/fee0d393dba6204c944f73c4c6dcb59815a770ca) - 2026-09-05
+* [Commit] [execution/commitment: scale the deep-fold storage threshold with the round size (#23747)](https://github.com/erigontech/erigon/commit/1e683cfe240f022f18c812ac9fb634a9e2a916f4) - 2026-09-05
+* [Commit] [execution/types: pin RegisterTxType's nil spec.New guard (#23808)](https://github.com/erigontech/erigon/commit/98c48a17b84314c5a4fb0636d8664f08445aacca) - 2026-09-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

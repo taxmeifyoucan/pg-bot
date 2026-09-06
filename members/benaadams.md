@@ -271,6 +271,9 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Pull Request] [fix(evm): repay EIP-8037 spill after child merge](https://github.com/NethermindEth/nethermind/pull/13140) - 2026-09-04
 * [Review] [Review on: fix(evm): repay EIP-8037 spill after child merge](https://github.com/NethermindEth/nethermind/pull/13140#pullrequestreview-5113199658) - 2026-09-04
 * [Commit] [fix(evm): repay EIP-8037 spill after child merge (#13140)](https://github.com/NethermindEth/nethermind/commit/f7e5afeb5ccd4eadb2e0e0b2e310addc8da0fa76) - 2026-09-04
+* [Review] [Review on: fix(rlp): break the Rlp/TxDecoder type initializer cycle](https://github.com/NethermindEth/nethermind/pull/13158#pullrequestreview-5120496460) - 2026-09-05
+* [Review] [Review on: ci: capture a dump when a test host hangs](https://github.com/NethermindEth/nethermind/pull/13149#pullrequestreview-5120498978) - 2026-09-05
+* [Commit] [perf(evm): replace interpreter loop with tail-call chain dispatch (#13128)](https://github.com/NethermindEth/nethermind/commit/a29564ae5e2fefb95c90feb56435642ac363322c) - 2026-09-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

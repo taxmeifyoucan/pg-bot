@@ -221,6 +221,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Issue] [Expose a payload-content aware IsOptimistic for gloas](https://github.com/OffchainLabs/prysm/issues/17451) - 2026-09-03
 * [Review] [Review on: Add fake BLS backend for `bls_setting: 2` spectest cases](https://github.com/OffchainLabs/prysm/pull/17281#pullrequestreview-5117771651) - 2026-09-04
 * [Pull Request] [Regenerate attestation pre-states one at a time](https://github.com/OffchainLabs/prysm/pull/17456) - 2026-09-04
+* [Review] [Review on: Add fake BLS backend for `bls_setting: 2` spectest cases](https://github.com/OffchainLabs/prysm/pull/17281#pullrequestreview-5119807793) - 2026-09-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

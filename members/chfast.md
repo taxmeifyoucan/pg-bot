@@ -253,6 +253,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Pull Request] [Convert keccak.c to C++](https://github.com/ipsilon/evmone/pull/1696) - 2026-09-04
 * [Commit] [t8n: Report the block gas used that apply_block computes (#1698)](https://github.com/ipsilon/evmone/commit/13ec12d93c4be244f70bcd751b24bb7409a1b64d) - 2026-09-04
 * [Commit] [test: Group the integration tests by the command they run (#1695)](https://github.com/ipsilon/evmone/commit/25e59e2104c61cfa640ecee37671d5f6a4d928d2) - 2026-09-04
+* [Review] [Review on: test: Make a fixture file the only kind of test](https://github.com/ipsilon/evmone/pull/1699#pullrequestreview-5120384257) - 2026-09-05
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01

@@ -300,6 +300,7 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: Use independent version line for Bootnode releases](https://github.com/NethermindEth/nethermind/pull/13103#pullrequestreview-5100167680) - 2026-09-03
 * [Review] [Review on: fix(sync): look up receipt bodies by number and hash](https://github.com/NethermindEth/nethermind/pull/13139#pullrequestreview-5112738635) - 2026-09-04
 * [Pull Request] [Reject undersized ECIES ciphertexts with controlled exceptions](https://github.com/NethermindEth/nethermind/pull/13135) - 2026-09-04
+* [Review] [Review on: fix(rlp): break the Rlp/TxDecoder type initializer cycle](https://github.com/NethermindEth/nethermind/pull/13158#pullrequestreview-5122739414) - 2026-09-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

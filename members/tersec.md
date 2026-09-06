@@ -141,6 +141,10 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix `payload_present` to reflect payload deadline decision](https://github.com/status-im/nimbus-eth2/pull/8972#pullrequestreview-5099266303) - 2026-09-03
 * [Pull Request] [rm electra remote signer support](https://github.com/status-im/nimbus-eth2/pull/8987) - 2026-09-03
 * [Pull Request] [use v1.7.0-beta.0 consensus reference tests](https://github.com/status-im/nimbus-eth2/pull/8990) - 2026-09-04
+* [Pull Request] [rm Fulu partial column quarantine](https://github.com/status-im/nimbus-eth2/pull/8996) - 2026-09-05
+* [Review] [Review on: fix `payload_present` to reflect payload deadline decision](https://github.com/status-im/nimbus-eth2/pull/8972#pullrequestreview-5121893191) - 2026-09-05
+* [Pull Request] [rm fulu partial column quarantine tests](https://github.com/status-im/nimbus-eth2/pull/8995) - 2026-09-05
+* [Review] [Review on: Add getBuilderConfig api](https://github.com/status-im/nimbus-eth2/pull/8994#pullrequestreview-5121175537) - 2026-09-05
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

@@ -153,6 +153,18 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [refactor(merkle-tree): make the opening shape check self-contained (#2026)](https://github.com/Plonky3/Plonky3/commit/2f31ac17893b1ea981606eb8f240b0fa5d770e46) - 2026-09-04
 * [Commit] [test(fri): pin the fused quotient LDE for the bit-reversed DFT backend (#2025)](https://github.com/Plonky3/Plonky3/commit/a3070d86962dc80142cfe1f8b49a70aba58eefdd) - 2026-09-04
 * [Commit] [feat(challenger): typed Fiat-Shamir transcript layer (DSFS / IETF draft) (#1603)](https://github.com/Plonky3/Plonky3/commit/0819adb5519fda5234cf76c11f59348ec356d8a5) - 2026-09-04
+* [Pull Request] [refactor(stir): share the commitment absorption between challenger backends](https://github.com/Plonky3/Plonky3/pull/2040) - 2026-09-05
+* [Review] [Review on: Wire STIR into the full proving pipeline](https://github.com/Plonky3/Plonky3/pull/2037#pullrequestreview-5122893613) - 2026-09-05
+* [Pull Request] [perf(maybe-rayon): size parallel tasks from a cost model](https://github.com/Plonky3/Plonky3/pull/2039) - 2026-09-05
+* [Pull Request] [perf(sumcheck): bind and measure in one pass in the hiding driver](https://github.com/Plonky3/Plonky3/pull/2038) - 2026-09-05
+* [Pull Request] [perf(sumcheck): bind and measure in one pass](https://github.com/Plonky3/Plonky3/pull/2036) - 2026-09-05
+* [Review] [Review on: feat(binary-field): Ghash128, GF(2^128) in the polynomial basis, with SIMD packings](https://github.com/Plonky3/Plonky3/pull/2030#pullrequestreview-5121901680) - 2026-09-05
+* [Pull Request] [feat(fri)!: drive the FRI transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2035) - 2026-09-05
+* [Review] [Review on: feat(binary-pcs): multilinear commitment over binary tower fields](https://github.com/Plonky3/Plonky3/pull/2032#pullrequestreview-5121924167) - 2026-09-05
+* [Pull Request] [refactor(binary-pcs): query at pair granularity, fold without copying](https://github.com/Plonky3/Plonky3/pull/2034) - 2026-09-05
+* [Pull Request] [fix(fri)!: derive the folding schedule instead of accepting the prover's](https://github.com/Plonky3/Plonky3/pull/2033) - 2026-09-05
+* [Review] [Review on: fix(whir): draw independent STIR query samples](https://github.com/Plonky3/Plonky3/pull/2031#pullrequestreview-5121860492) - 2026-09-05
+* [Commit] [feat(binary-field): Ghash128, GF(2^128) in the polynomial basis, with SIMD packings (#2030)](https://github.com/Plonky3/Plonky3/commit/7cd95329347f61383c7a892e4ebf18191330e71c) - 2026-09-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

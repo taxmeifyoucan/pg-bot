@@ -1298,6 +1298,26 @@ Team: Erigon
 * [Review] [Review on: cl/clparams: honor MIN_EPOCHS_FOR_BLOCK_REQUESTS](https://github.com/erigontech/erigon/pull/23761#pullrequestreview-5108681346) - 2026-09-04
 * [Pull Request] [execution/cache: pin the step and generation cost formulas together](https://github.com/erigontech/erigon/pull/23784) - 2026-09-04
 * [Issue] [files: format and packing changes for the next file generation](https://github.com/erigontech/erigon/issues/23787) - 2026-09-04
+* [Review] [Review on: db: enable errcheck across db/*](https://github.com/erigontech/erigon/pull/23804#pullrequestreview-5121665396) - 2026-09-05
+* [Pull Request] [db/seg: bound the capacity of an uncompressed word](https://github.com/erigontech/erigon/pull/23810) - 2026-09-05
+* [Review] [Review on: mem: set default `GOMEMLIMIT` to 80% of total ram (cgroup-aware)](https://github.com/erigontech/erigon/pull/23757#pullrequestreview-5120429943) - 2026-09-05
+* [Pull Request] [execution/cache: shard the two addr-keyed code caches](https://github.com/erigontech/erigon/pull/23809) - 2026-09-05
+* [Review] [Review on: db/etl: size a pooled buffer to the collector's last fill](https://github.com/erigontech/erigon/pull/23742#pullrequestreview-5120901985) - 2026-09-05
+* [Review] [Review on: execution/commitment: scale the deep-fold storage threshold with the round size](https://github.com/erigontech/erigon/pull/23747#pullrequestreview-5120742824) - 2026-09-05
+* [Review] [Review on: mcp: fix log stats, tail memory and rpc.url discovery; drop dead code](https://github.com/erigontech/erigon/pull/23786#pullrequestreview-5120612051) - 2026-09-05
+* [Review] [Review on: execution/types: pin RegisterTxType's nil spec.New guard](https://github.com/erigontech/erigon/pull/23808#pullrequestreview-5120603050) - 2026-09-05
+* [Pull Request] [db: MPH-false-positives check without key decompression](https://github.com/erigontech/erigon/pull/23802) - 2026-09-05
+* [Review] [Review on: build(deps): bump github/gh-aw/actions/setup from 0.87.3 to 0.88.2](https://github.com/erigontech/erigon/pull/23807#pullrequestreview-5120601970) - 2026-09-05
+* [Review] [Review on: build(deps): bump gacts/run-and-post-run from 1.4.4 to 1.4.5](https://github.com/erigontech/erigon/pull/23806#pullrequestreview-5120601744) - 2026-09-05
+* [Review] [Review on: build(deps): bump docker/setup-qemu-action from 4.2.0 to 4.3.0](https://github.com/erigontech/erigon/pull/23805#pullrequestreview-5120601417) - 2026-09-05
+* [Review] [Review on: db: decode Code to re-usable buf and return to caller cached copy](https://github.com/erigontech/erigon/pull/23798#pullrequestreview-5120361657) - 2026-09-05
+* [Pull Request] [db: read code as an owned value instead of cloning it into the cache](https://github.com/erigontech/erigon/pull/23801) - 2026-09-05
+* [Pull Request] [execution/cache: stop filling the code layer when it is not hitting](https://github.com/erigontech/erigon/pull/23803) - 2026-09-05
+* [Commit] [rpc: stop walking a request once per layer (#23780)](https://github.com/erigontech/erigon/commit/5eb307a8ef658530ec670515c9884846251d1869) - 2026-09-05
+* [Commit] [lint: enable `shadow` linter for `./db` pkgs (step 1) (#23779)](https://github.com/erigontech/erigon/commit/51030a1577efcf2390a5f55a51a4b05658bb4d07) - 2026-09-05
+* [Commit] [cl, p2p/rlpx: grow reused buffers with slices.Grow (#23795)](https://github.com/erigontech/erigon/commit/043156c3d430971be03a9b3fd7b5f455b675b663) - 2026-09-05
+* [Commit] [db: MPH-false-positives check without key decompression (#23802)](https://github.com/erigontech/erigon/commit/453f42f51bab76947645fe0e5b68e15f314070a6) - 2026-09-05
+* [Commit] [downloader: report kept-local seeding dropped by shutdown (#23745)](https://github.com/erigontech/erigon/commit/ef44b554731cfbc2eaac4434a2b9ab9483194a90) - 2026-09-05
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

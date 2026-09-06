@@ -298,6 +298,17 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: fix: eth_maxPriorityFeePerGas returned a gas price](https://github.com/NethermindEth/nethermind/pull/13129#pullrequestreview-5110677348) - 2026-09-04
 * [Commit] [perf: stop copying code out of the code db (#13160)](https://github.com/NethermindEth/nethermind/commit/b644740ec8e8d48d4a42b6758aab859e3817944d) - 2026-09-05
 * [Commit] [perf(zkevm): jumpdest scan, nibble ops, static init, branch RLP, and constant loads (#13091)](https://github.com/NethermindEth/nethermind/commit/3bb480775478a96e2e801af91ba2c3e744928a72) - 2026-09-04
+* [Review] [Review on: fix(rlp): break the Rlp/TxDecoder type initializer cycle](https://github.com/NethermindEth/nethermind/pull/13158#pullrequestreview-5122973743) - 2026-09-05
+* [Pull Request] [perf(zkevm): keep the stack pointer and code length at native width](https://github.com/NethermindEth/nethermind/pull/13177) - 2026-09-05
+* [Pull Request] [perf: thread the RLP cursor through decode chains in registers](https://github.com/NethermindEth/nethermind/pull/13173) - 2026-09-05
+* [Pull Request] [test(evm): cover jumpdest scanning at the vector block boundaries](https://github.com/NethermindEth/nethermind/pull/13176) - 2026-09-05
+* [Pull Request] [perf(zkevm): convert stack slots with the shared-mask swap](https://github.com/NethermindEth/nethermind/pull/13174) - 2026-09-05
+* [Pull Request] [perf(zkevm): order stack words in place for LT, GT, SLT and SGT](https://github.com/NethermindEth/nethermind/pull/13172) - 2026-09-05
+* [Pull Request] [perf(zkevm): byte-swap a word without going through a vector](https://github.com/NethermindEth/nethermind/pull/13171) - 2026-09-05
+* [Pull Request] [perf(zkevm): zero only the keccak state the first absorb misses](https://github.com/NethermindEth/nethermind/pull/13170) - 2026-09-05
+* [Review] [Review on: chore(tests): bump up zkEVM tests to v0.8.4](https://github.com/NethermindEth/nethermind/pull/13169#pullrequestreview-5120416500) - 2026-09-05
+* [Commit] [fix(rlp): break the Rlp/TxDecoder type initializer cycle (#13158)](https://github.com/NethermindEth/nethermind/commit/2d554f663460b6b6d2a2358e57026b100f64c100) - 2026-09-05
+* [Commit] [ci: capture a dump when a test host hangs (#13149)](https://github.com/NethermindEth/nethermind/commit/0cb351c98cc39208d9519e5ace32be7acce7c005) - 2026-09-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

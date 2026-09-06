@@ -268,6 +268,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Replace AGENTS.md with simplified CLAUDE.md file](https://github.com/ethereum/consensus-specs/pull/5604) - 2026-09-04
 * [Review] [Review on: Introduce `compute_shuffling_lookahead_start_slot` helper](https://github.com/ethereum/consensus-specs/pull/5602#pullrequestreview-5114542592) - 2026-09-04
 * [Commit] [Replace AGENTS.md with simplified CLAUDE.md file (#5604)](https://github.com/ethereum/consensus-specs/commit/ffa61848861ef88931da7e4d2e3968de1ede57ff) - 2026-09-04
+* [Review] [Review on: Remove remaining type casts](https://github.com/ethereum/consensus-specs/pull/5606#pullrequestreview-5123243589) - 2026-09-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

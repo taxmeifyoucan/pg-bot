@@ -187,6 +187,9 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Commit] [rpc/gasprice, rpc/jsonrpc: three review follow-ups from #22987 (#23771)](https://github.com/erigontech/erigon/commit/3fe094cc44d3324c2a14019008632f5f35bb9587) - 2026-09-04
 * [Pull Request] [tracing: number callTracer logs over the whole block](https://github.com/erigontech/erigon/pull/23797) - 2026-09-04
 * [Commit] [rpc/jsonrpc: two review follow-ups from #23322 (#23759)](https://github.com/erigontech/erigon/commit/613a394ff338848fbff637e2c77aa25a9a0d252c) - 2026-09-04
+* [Pull Request] [db/snapshotsync, rpc/jsonrpc: three review follow-ups from #23322](https://github.com/erigontech/erigon/pull/23812) - 2026-09-05
+* [Pull Request] [QA: add rpc tets for callTracer with failed creation](https://github.com/erigontech/erigon/pull/23811) - 2026-09-05
+* [Commit] [rpc/jsonrpc, rpc/gasprice: gate block-data and replay endpoints on the data they read (#23760)](https://github.com/erigontech/erigon/commit/f7d1c9c823665ee2d2a8a483a0153c33aeadabe3) - 2026-09-05
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -210,6 +213,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [add callTracer withLog tests for debug_trace* APIs](https://github.com/erigontech/rpc-tests/pull/597) - 2026-09-04
 * [Pull Request] [integration_test: fix compare json](https://github.com/erigontech/rpc-tests/pull/595) - 2026-09-04
 * [Commit] [fix compare json (#595)](https://github.com/erigontech/rpc-tests/commit/eb21ac065319e52dbf81e1ee98cc9e6a89ad5f6f) - 2026-09-04
+* [Commit] [integration: add tests for callTracer `to` omitted on a failed CREATE (#596)](https://github.com/erigontech/rpc-tests/commit/494e848fc6e2bb77158fc73bc6b2d9f52ddbf6ab) - 2026-09-05
 ## Q2 2026
 
 

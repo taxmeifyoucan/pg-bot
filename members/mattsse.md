@@ -608,6 +608,24 @@ Team: Reth
 * [Commit] [perf(rpc): scan eth_getLogs ranges window by window (#27000)](https://github.com/paradigmxyz/reth/commit/055fafc723d1df096e551a14a80e76d2483e97fa) - 2026-09-04
 * [Commit] [fix(rpc): hold a blocking IO permit for eth_getLogs range scans (#26999)](https://github.com/paradigmxyz/reth/commit/1f94488d1e42866d3f8280702a546d42a7b288af) - 2026-09-04
 * [Commit] [perf(trie): reuse address hash across storage changeset rows (#26940)](https://github.com/paradigmxyz/reth/commit/eadb887f1c1698e7bd932f60a0c654dccccd081f) - 2026-09-04
+* [Pull Request] [perf(rpc): skip hooks for noop and state gas tracers](https://github.com/paradigmxyz/reth/pull/27032) - 2026-09-06
+* [Pull Request] [perf(rpc): convert trace_get results lazily](https://github.com/paradigmxyz/reth/pull/27031) - 2026-09-06
+* [Pull Request] [refactor(engine): use Alloy REST-SSZ wire types](https://github.com/paradigmxyz/reth/pull/27029) - 2026-09-05
+* [Pull Request] [refactor(engine): simplify SSZ transport and reuse witness buffers](https://github.com/paradigmxyz/reth/pull/27028) - 2026-09-05
+* [Review] [Review on: feat(engine): add SSZ payload witness endpoint](https://github.com/paradigmxyz/reth/pull/26406#pullrequestreview-5120086391) - 2026-09-05
+* [Review] [Review on: feat(engine): install SSZ proxy by default](https://github.com/paradigmxyz/reth/pull/26254#pullrequestreview-5120085365) - 2026-09-05
+* [Review] [Review on: feat(engine): add SSZ payload bodies endpoints](https://github.com/paradigmxyz/reth/pull/26394#pullrequestreview-5120083681) - 2026-09-05
+* [Pull Request] [fix(txpool): align devnet inclusion list transaction byte accounting](https://github.com/paradigmxyz/reth/pull/27025) - 2026-09-05
+* [Pull Request] [fix(engine): count inclusion list transaction bytes without RLP framing](https://github.com/paradigmxyz/reth/pull/27024) - 2026-09-05
+* [Pull Request] [fix(rpc): include simulated block BAL hash](https://github.com/paradigmxyz/reth/pull/27023) - 2026-09-05
+* [Pull Request] [fix(rpc): return tracing error for missing trace call blocks](https://github.com/paradigmxyz/reth/pull/27022) - 2026-09-05
+* [Review] [Review on: test(rpc): add non-empty V2 blob validation fixtures](https://github.com/paradigmxyz/reth/pull/26997#pullrequestreview-5119571679) - 2026-09-05
+* [Review] [Review on: chore(node-core): remove unused NodeConfig and dirs helpers](https://github.com/paradigmxyz/reth/pull/27012#pullrequestreview-5119480724) - 2026-09-05
+* [Review] [Review on: fix(rpc): return only new logs from eth_getFilterChanges](https://github.com/paradigmxyz/reth/pull/26998#pullrequestreview-5119447387) - 2026-09-05
+* [Commit] [refactor(engine): simplify SSZ transport and reuse witness buffers (#27028)](https://github.com/paradigmxyz/reth/commit/b9cd22bae84a5e53e7c4706d358c8d8cb6ac3242) - 2026-09-05
+* [Commit] [fix(engine): count inclusion list transaction bytes without RLP framing (#27024)](https://github.com/paradigmxyz/reth/commit/c216789600c814cc6864e5098a4bfe5263f1fd57) - 2026-09-05
+* [Commit] [fix(rpc): include simulated block BAL hash (#27023)](https://github.com/paradigmxyz/reth/commit/4f99d25508c3c3b8164e832a4cf1e664ff88c480) - 2026-09-05
+* [Commit] [fix(rpc): return tracing error for missing trace call blocks (#27022)](https://github.com/paradigmxyz/reth/commit/5d6634a6f1aef5f770ce9ccba7009be111efdfb8) - 2026-09-05
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

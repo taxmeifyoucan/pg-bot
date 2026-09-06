@@ -485,6 +485,10 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: serve closest head state if head block post-state is not available (#10003)](https://github.com/ChainSafe/lodestar/commit/67df6eac67e2fe581e2b1be1d9f1fe4faf4e2967) - 2026-09-04
 * [Commit] [chore: fix typo in persisted keys comment (#10000)](https://github.com/ChainSafe/lodestar/commit/b5f4a8f2c698031427c35c950645b081c4a0d9af) - 2026-09-04
 * [Commit] [fix: handle orphaned parent payload envelope in range sync batches (#10002)](https://github.com/ChainSafe/lodestar/commit/71f5df05ba3cc3d7d274fd4f9d3f3943011af028) - 2026-09-04
+* [Review] [Review on: fix: omit GAS_LIMIT_SCHEDULE from getSpec until Gloas](https://github.com/ChainSafe/lodestar/pull/10004#pullrequestreview-5122975669) - 2026-09-05
+* [Review] [Review on: test: gossip validation spec tests through electra](https://github.com/ChainSafe/lodestar/pull/9372#pullrequestreview-5120499015) - 2026-09-05
+* [Pull Request] [test: enable payload attestation spec tests](https://github.com/ChainSafe/lodestar/pull/10015) - 2026-09-05
+* [Review] [Review on: test: enable payload attestation spec tests](https://github.com/ChainSafe/lodestar/pull/10015#pullrequestreview-5120309550) - 2026-09-05
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
