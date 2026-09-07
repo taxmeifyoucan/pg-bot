@@ -1318,6 +1318,20 @@ Team: Erigon
 * [Commit] [cl, p2p/rlpx: grow reused buffers with slices.Grow (#23795)](https://github.com/erigontech/erigon/commit/043156c3d430971be03a9b3fd7b5f455b675b663) - 2026-09-05
 * [Commit] [db: MPH-false-positives check without key decompression (#23802)](https://github.com/erigontech/erigon/commit/453f42f51bab76947645fe0e5b68e15f314070a6) - 2026-09-05
 * [Commit] [downloader: report kept-local seeding dropped by shutdown (#23745)](https://github.com/erigontech/erigon/commit/ef44b554731cfbc2eaac4434a2b9ab9483194a90) - 2026-09-05
+* [Pull Request] [lint: enable `shadow` linter for `./db` pkgs (step 3)](https://github.com/erigontech/erigon/pull/23816) - 2026-09-06
+* [Review] [Review on: lint: enable `shadow` linter for `./db` pkgs (step 2)](https://github.com/erigontech/erigon/pull/23785#pullrequestreview-5124447656) - 2026-09-06
+* [Pull Request] [execution/cache: copy code only once the fill is admitted](https://github.com/erigontech/erigon/pull/23813) - 2026-09-06
+* [Pull Request] [`go.mod`: move `golangci-lint` to a dedicated `.mod`](https://github.com/erigontech/erigon/pull/23821) - 2026-09-06
+* [Pull Request] [common/autoprocs: size GOMAXPROCS from the major-fault burst rate](https://github.com/erigontech/erigon/pull/23817) - 2026-09-06
+* [Pull Request] [db/snapshotsync: gofmt snapshots_test.go](https://github.com/erigontech/erigon/pull/23820) - 2026-09-06
+* [Pull Request] [mcp: move to `urfave/cli`](https://github.com/erigontech/erigon/pull/23819) - 2026-09-06
+* [Pull Request] [commitment: workers amount to base on `GOMAXPROCS` instead of `NumCPU`](https://github.com/erigontech/erigon/pull/23814) - 2026-09-06
+* [Pull Request] [execution/engineapi, rpc/requests: wait for a poke to be pending before building](https://github.com/erigontech/erigon/pull/23818) - 2026-09-06
+* [Review] [Review on: db: enable errcheck across db/*](https://github.com/erigontech/erigon/pull/23804#pullrequestreview-5124457353) - 2026-09-06
+* [Review] [Review on: db/snapshotsync, rpc/jsonrpc: three review follow-ups from #23322](https://github.com/erigontech/erigon/pull/23812#pullrequestreview-5124433893) - 2026-09-06
+* [Review] [Review on: QA: add rpc tets for callTracer with failed creation](https://github.com/erigontech/erigon/pull/23811#pullrequestreview-5124436988) - 2026-09-06
+* [Pull Request] [db/seg: fault mapped pages in from C so the read releases its P](https://github.com/erigontech/erigon/pull/23815) - 2026-09-06
+* [Review] [Review on: db/seg: stop ReadFrom decoding into the file mapping](https://github.com/erigontech/erigon/pull/23810#pullrequestreview-5124066837) - 2026-09-06
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

@@ -489,6 +489,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: gossip validation spec tests through electra](https://github.com/ChainSafe/lodestar/pull/9372#pullrequestreview-5120499015) - 2026-09-05
 * [Pull Request] [test: enable payload attestation spec tests](https://github.com/ChainSafe/lodestar/pull/10015) - 2026-09-05
 * [Review] [Review on: test: enable payload attestation spec tests](https://github.com/ChainSafe/lodestar/pull/10015#pullrequestreview-5120309550) - 2026-09-05
+* [Review] [Review on: fix: do not treat sibling payload variants as non-canonical blocks](https://github.com/ChainSafe/lodestar/pull/10017#pullrequestreview-5125075267) - 2026-09-06
+* [Review] [Review on: chore: copy packages/builder/package.json in Dockerfile.dev](https://github.com/ChainSafe/lodestar/pull/10019#pullrequestreview-5125791322) - 2026-09-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -592,6 +594,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [VC always sends is_aggregator: false in beacon committee subscriptions](https://github.com/status-im/nimbus-eth2/issues/8923) - 2026-08-21
+* [Review] [Review on: fix(vc): decode GAS_LIMIT_SCHEDULE arrays in getSpec](https://github.com/status-im/nimbus-eth2/pull/8997#pullrequestreview-5125087255) - 2026-09-06
 ## Q2 2026
 
 

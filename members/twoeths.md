@@ -213,6 +213,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [chore: log peer client serving orphaned payloads (#10009)](https://github.com/ChainSafe/lodestar/commit/605fa5a360a07388125c62c19bc56d8d681dd3a4) - 2026-09-04
 * [Commit] [chore: track persisted checkpoint states and epochs on Grafana (#10007)](https://github.com/ChainSafe/lodestar/commit/670525e1f2340ee056564aa6ed430505ce7b43b8) - 2026-09-04
 * [Commit] [fix: defer gossip handler to the next event loop (#9990)](https://github.com/ChainSafe/lodestar/commit/b228e400d13bab074036c5912d5b248710021b01) - 2026-09-04
+* [Review] [Review on: feat: add compliance test for gloas](https://github.com/ChainSafe/lodestar/pull/9761#pullrequestreview-5127425514) - 2026-09-07
+* [Issue] [[glamsterdam-devnet-8] Unknown sync gave up before gossip block came](https://github.com/ChainSafe/lodestar/issues/10018) - 2026-09-06
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02

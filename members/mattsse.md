@@ -626,6 +626,21 @@ Team: Reth
 * [Commit] [fix(engine): count inclusion list transaction bytes without RLP framing (#27024)](https://github.com/paradigmxyz/reth/commit/c216789600c814cc6864e5098a4bfe5263f1fd57) - 2026-09-05
 * [Commit] [fix(rpc): include simulated block BAL hash (#27023)](https://github.com/paradigmxyz/reth/commit/4f99d25508c3c3b8164e832a4cf1e664ff88c480) - 2026-09-05
 * [Commit] [fix(rpc): return tracing error for missing trace call blocks (#27022)](https://github.com/paradigmxyz/reth/commit/5d6634a6f1aef5f770ce9ccba7009be111efdfb8) - 2026-09-05
+* [Pull Request] [chore(ci): build only e2e test targets](https://github.com/paradigmxyz/reth/pull/27043) - 2026-09-06
+* [Pull Request] [chore(ci): cache test dependency artifacts](https://github.com/paradigmxyz/reth/pull/27040) - 2026-09-06
+* [Pull Request] [chore(ci): cancel superseded PR lint runs](https://github.com/paradigmxyz/reth/pull/27042) - 2026-09-06
+* [Pull Request] [feat(download): allow retry delay overrides](https://github.com/paradigmxyz/reth/pull/27048) - 2026-09-06
+* [Pull Request] [test: signal background metrics hook completion](https://github.com/paradigmxyz/reth/pull/27047) - 2026-09-06
+* [Pull Request] [test: skip wall-clock waits in peer tick test](https://github.com/paradigmxyz/reth/pull/27045) - 2026-09-06
+* [Pull Request] [test: index legacy proof reference nodes](https://github.com/paradigmxyz/reth/pull/27046) - 2026-09-06
+* [Pull Request] [test(e2e): await payload builds instead of sleeping](https://github.com/paradigmxyz/reth/pull/27041) - 2026-09-06
+* [Review] [Review on: feat(cli): add --authrpc.jwtsecret-hex](https://github.com/paradigmxyz/reth/pull/27034#pullrequestreview-5125113236) - 2026-09-06
+* [Review] [Review on: fix(engine): correct the EIP-7805 appendability check against the spec](https://github.com/paradigmxyz/reth/pull/27033#pullrequestreview-5125233783) - 2026-09-06
+* [Commit] [chore(ci): build only e2e test targets (#27043)](https://github.com/paradigmxyz/reth/commit/ed4fee7e54a301bdc055748ecf70b395d28dff03) - 2026-09-07
+* [Commit] [chore(ci): cache test dependency artifacts (#27040)](https://github.com/paradigmxyz/reth/commit/d98f4475ed1057d05d57d04b5f000368876a5337) - 2026-09-07
+* [Commit] [chore(ci): cancel superseded PR lint runs (#27042)](https://github.com/paradigmxyz/reth/commit/315d04c0b4bf7644bffe06db21cdccb887c9339d) - 2026-09-07
+* [Commit] [test(e2e): await payload builds instead of sleeping (#27041)](https://github.com/paradigmxyz/reth/commit/88815425c194309c934144d77dee6cd65633346e) - 2026-09-06
+* [Commit] [perf(rpc): convert trace_get results lazily (#27031)](https://github.com/paradigmxyz/reth/commit/b3dbb065d31a5db941cf4b803d412f73cdae36a6) - 2026-09-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

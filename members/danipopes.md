@@ -55,6 +55,9 @@ Team: Reth
 * [Review] [Review on: refactor(db): use FastInstant alias for metrics](https://github.com/paradigmxyz/reth/pull/26992#pullrequestreview-5104506277) - 2026-09-03
 * [Review] [Review on: perf(rpc): bloom-filter blocks in log subscriptions and getLogs by hash](https://github.com/paradigmxyz/reth/pull/26946#pullrequestreview-5104123224) - 2026-09-03
 * [Review] [Review on: perf(static-files): return jar rows without allocating](https://github.com/paradigmxyz/reth/pull/26951#pullrequestreview-5103883452) - 2026-09-03
+* [Review] [Review on: chore(ci): build only e2e test targets](https://github.com/paradigmxyz/reth/pull/27043#pullrequestreview-5127113108) - 2026-09-07
+* [Review] [Review on: chore(ci): cache test dependency artifacts](https://github.com/paradigmxyz/reth/pull/27040#pullrequestreview-5127112686) - 2026-09-07
+* [Review] [Review on: chore(ci): cancel superseded PR lint runs](https://github.com/paradigmxyz/reth/pull/27042#pullrequestreview-5127112073) - 2026-09-07
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13
@@ -62,6 +65,10 @@ Team: Reth
 
 * [Review] [Review on: chore: bump alloy-evm to 0.38.0, drop git patch](https://github.com/paradigmxyz/revmc/pull/407#pullrequestreview-4827798700) - 2026-07-31
 * [Review] [Review on: chore: fix Clippy warnings](https://github.com/paradigmxyz/revmc/pull/411#pullrequestreview-5034029011) - 2026-08-26
+* [Pull Request] [fix: filter changelog commits by crate](https://github.com/paradigmxyz/revmc/pull/413) - 2026-09-06
+* [Pull Request] [fix: preserve changelog history during releases](https://github.com/paradigmxyz/revmc/pull/412) - 2026-09-06
+* [Commit] [fix: filter changelog commits by crate (#413)](https://github.com/paradigmxyz/revmc/commit/3559a9dd8583598e76aaa8d942a908bfaa564535) - 2026-09-06
+* [Commit] [fix: preserve changelog history during releases (#412)](https://github.com/paradigmxyz/revmc/commit/72fa5bd5981bcb5829364cdcb2d122c819f772ce) - 2026-09-06
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Commit] [feat: add async database fiber support (#3709)](https://github.com/bluealloy/revm/commit/ebdffc80d63ed7d58fcf240d578fcd19b71b0196) - 2026-07-24
 ## Q2 2026

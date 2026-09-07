@@ -86,6 +86,7 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(zkevm): pack nibbles a word at a time](https://github.com/NethermindEth/nethermind/pull/13164#pullrequestreview-5120590045) - 2026-09-05
 * [Review] [Review on: perf(zkevm): key the witness node store on the node hash](https://github.com/NethermindEth/nethermind/pull/13159#pullrequestreview-5120585334) - 2026-09-05
 * [Commit] [chore(tests): bump up zkEVM tests to v0.8.4 (#13169)](https://github.com/NethermindEth/nethermind/commit/764922e8450d2e05286b02c8b1f15d92c8591da1) - 2026-09-05
+* [Review] [Review on: build(zkevm): drop the stack-trace table and symbol tables from the guest](https://github.com/NethermindEth/nethermind/pull/13182#pullrequestreview-5125202636) - 2026-09-06
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(zkevm): simplify ChainConfig and provide more structure to SCHEMA_ID](https://github.com/ethereum/execution-specs/pull/3138#pullrequestreview-4672212052) - 2026-07-10
 * [Review] [Review on: feat: update stateless validation to include schema fork index and refactor chain config handling](https://github.com/ethereum/execution-specs/pull/3278#pullrequestreview-4845186640) - 2026-08-03

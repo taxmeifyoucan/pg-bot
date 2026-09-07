@@ -165,6 +165,7 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Pull Request] [fix(fri)!: derive the folding schedule instead of accepting the prover's](https://github.com/Plonky3/Plonky3/pull/2033) - 2026-09-05
 * [Review] [Review on: fix(whir): draw independent STIR query samples](https://github.com/Plonky3/Plonky3/pull/2031#pullrequestreview-5121860492) - 2026-09-05
 * [Commit] [feat(binary-field): Ghash128, GF(2^128) in the polynomial basis, with SIMD packings (#2030)](https://github.com/Plonky3/Plonky3/commit/7cd95329347f61383c7a892e4ebf18191330e71c) - 2026-09-05
+* [Review] [Review on: perf(stir): committed round-0 oracle with single-row input openings](https://github.com/Plonky3/Plonky3/pull/2041#pullrequestreview-5126621168) - 2026-09-06
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

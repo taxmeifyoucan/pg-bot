@@ -84,6 +84,8 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Fix slot lookup immediately after a head event](https://github.com/sigp/lighthouse/pull/9931#pullrequestreview-5073875980) - 2026-09-01
 * [Review] [Review on: Fix false peer penalties during Gloas custody backfill](https://github.com/sigp/lighthouse/pull/9953#pullrequestreview-5073717199) - 2026-09-01
 * [Review] [Review on: Re-enable optimistic sync for Gloas payload envelopes](https://github.com/sigp/lighthouse/pull/9934#pullrequestreview-5088002253) - 2026-09-02
+* [Review] [Review on: Revert `fork_choice::payload_received` when envelope db write fails](https://github.com/sigp/lighthouse/pull/9978#pullrequestreview-5127111913) - 2026-09-07
+* [Issue] [Gloas `filter_voluntary_exits_for_parent_execution_requests` needs to account for partial withdrawals](https://github.com/sigp/lighthouse/issues/9981) - 2026-09-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31

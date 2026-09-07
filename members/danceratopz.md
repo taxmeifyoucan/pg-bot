@@ -166,6 +166,7 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: feat(ci): test `execute`, `consume` and `check_eip_versions` via collect-only](https://github.com/ethereum/execution-specs/pull/3451#pullrequestreview-5100093313) - 2026-09-03
 * [Review] [Review on: feat(tooling): share agent skills across Codex and Claude](https://github.com/ethereum/execution-specs/pull/3514#pullrequestreview-5100226058) - 2026-09-03
 * [Review] [Review on: fix(tests,test-fill): fix Engine X fills on BAL forks and rebuild the drift check](https://github.com/ethereum/execution-specs/pull/3265#pullrequestreview-5099988645) - 2026-09-03
+* [Commit] [feat(ci): test `execute`, `consume` and `check_eip_versions` via collect-only (#3451)](https://github.com/ethereum/execution-specs/commit/2b14816ba80796c1835b1aee3b7437467d6e5e84) - 2026-09-06
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Pull Request] [chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326) - 2026-07-02
 * [Commit] [chore(docs): update README for archive (#2326)](https://github.com/ethereum/execution-spec-tests/commit/10eaa63d5da2f50b63d4359968f36542212f9f50) - 2026-07-02

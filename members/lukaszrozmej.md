@@ -309,6 +309,37 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Review] [Review on: chore(tests): bump up zkEVM tests to v0.8.4](https://github.com/NethermindEth/nethermind/pull/13169#pullrequestreview-5120416500) - 2026-09-05
 * [Commit] [fix(rlp): break the Rlp/TxDecoder type initializer cycle (#13158)](https://github.com/NethermindEth/nethermind/commit/2d554f663460b6b6d2a2358e57026b100f64c100) - 2026-09-05
 * [Commit] [ci: capture a dump when a test host hangs (#13149)](https://github.com/NethermindEth/nethermind/commit/0cb351c98cc39208d9519e5ace32be7acce7c005) - 2026-09-05
+* [Review] [Review on: perf(zkevm): install the hash seed from the payload root](https://github.com/NethermindEth/nethermind/pull/13166#pullrequestreview-5126291124) - 2026-09-06
+* [Pull Request] [perf(evm): answer precompile membership from a bitmask on the spec](https://github.com/NethermindEth/nethermind/pull/13183) - 2026-09-06
+* [Pull Request] [test: drive request-sizer latency from a ManualTimeProvider](https://github.com/NethermindEth/nethermind/pull/13192) - 2026-09-06
+* [Review] [Review on: test: drive request-sizer latency from a ManualTimeProvider](https://github.com/NethermindEth/nethermind/pull/13192#pullrequestreview-5127053934) - 2026-09-06
+* [Review] [Review on: perf: encode a branch node in one pass](https://github.com/NethermindEth/nethermind/pull/13167#pullrequestreview-5126369248) - 2026-09-06
+* [Review] [Review on: Add background scheduler stats](https://github.com/NethermindEth/nethermind/pull/9956#pullrequestreview-5126138260) - 2026-09-06
+* [Pull Request] [fix(crypto): reject Keccak output sizes the sponge cannot serve](https://github.com/NethermindEth/nethermind/pull/13187) - 2026-09-06
+* [Review] [Review on: fix(crypto): reject Keccak output sizes the sponge cannot serve](https://github.com/NethermindEth/nethermind/pull/13187#pullrequestreview-5125517313) - 2026-09-06
+* [Review] [Review on: perf: thread the RLP cursor through decode chains in registers](https://github.com/NethermindEth/nethermind/pull/13173#pullrequestreview-5126369606) - 2026-09-06
+* [Pull Request] [refactor(test): replace stacked [TestCase] attributes with [Values]](https://github.com/NethermindEth/nethermind/pull/13190) - 2026-09-06
+* [Review] [Review on: Update OP Superchain chains](https://github.com/NethermindEth/nethermind/pull/13179#pullrequestreview-5126283190) - 2026-09-06
+* [Review] [Review on: Auto-update fast sync settings](https://github.com/NethermindEth/nethermind/pull/13180#pullrequestreview-5126282353) - 2026-09-06
+* [Review] [Review on: perf(zkevm): zero only the keccak state the first absorb misses](https://github.com/NethermindEth/nethermind/pull/13170#pullrequestreview-5125378876) - 2026-09-06
+* [Review] [Review on: perf(zkevm): compare 32-byte values as whole words](https://github.com/NethermindEth/nethermind/pull/13144#pullrequestreview-5124817827) - 2026-09-06
+* [Review] [Review on: fix(sync): look up receipt bodies by number and hash](https://github.com/NethermindEth/nethermind/pull/13139#pullrequestreview-5124820968) - 2026-09-06
+* [Review] [Review on: build(zkevm): drop the stack-trace table and symbol tables from the guest](https://github.com/NethermindEth/nethermind/pull/13182#pullrequestreview-5125217957) - 2026-09-06
+* [Review] [Review on: test(evm): cover jumpdest scanning at the vector block boundaries](https://github.com/NethermindEth/nethermind/pull/13176#pullrequestreview-5125242730) - 2026-09-06
+* [Commit] [fix(crypto): reject Keccak output sizes the sponge cannot serve (#13187)](https://github.com/NethermindEth/nethermind/commit/2f4fa60546c5141ca69f5f4a84f9a82d5e2ddf7c) - 2026-09-06
+* [Commit] [perf(zkevm): expand nibbles from a whole word (#13165)](https://github.com/NethermindEth/nethermind/commit/e25c80d28e748518dbbda8040507ccfe9c1e5115) - 2026-09-06
+* [Commit] [perf(zkevm): zero only the keccak state the first absorb misses (#13170)](https://github.com/NethermindEth/nethermind/commit/13a8178aff638e6433075d6002c6543e92847207) - 2026-09-06
+* [Commit] [perf(zkevm): reach Address.GetHashCode without a vtable dispatch (#13161)](https://github.com/NethermindEth/nethermind/commit/7fea9892bd87f1de9e14a16a4ffea2678b667266) - 2026-09-06
+* [Commit] [perf(zkevm): compare 32-byte values as whole words (#13144)](https://github.com/NethermindEth/nethermind/commit/6f1784b43047906236d8c31160eaa15b943454af) - 2026-09-06
+* [Commit] [fix(sync): look up receipt bodies by number and hash (#13139)](https://github.com/NethermindEth/nethermind/commit/30172de17f9673b81a192e2619a09cf502133a7b) - 2026-09-06
+* [Commit] [perf(zkevm): key the witness node store on the node hash (#13159)](https://github.com/NethermindEth/nethermind/commit/187451a934a2c21cead140be79f82ee517b22929) - 2026-09-06
+* [Commit] [perf(zkevm): pack nibbles a word at a time (#13164)](https://github.com/NethermindEth/nethermind/commit/35e16a633693be0e9d16ffa6446e81d33086039e) - 2026-09-06
+* [Commit] [test(evm): cover jumpdest scanning at the vector block boundaries (#13176)](https://github.com/NethermindEth/nethermind/commit/a7e1cb0794355e308e24a6871c7a2e29f0e48da6) - 2026-09-06
+* [Commit] [perf(zkevm): absorb keccak's first rate block by assignment (#13152)](https://github.com/NethermindEth/nethermind/commit/b45fcfb4f555dc70a7ca7183917944366f7cdd26) - 2026-09-06
+* [Commit] [perf: skip whole RLP items with the cursor in a local (#13148)](https://github.com/NethermindEth/nethermind/commit/dbbd1cc55fd5c7ed376cf9ec007c8bdd8a0dd7d1) - 2026-09-06
+* [Commit] [test(evm): a guest-build test project, covering the scalar jumpdest scan (#13146)](https://github.com/NethermindEth/nethermind/commit/394f7bcb64030909c5c4a6692e97ae0dc26e9a4f) - 2026-09-06
+* [Commit] [perf: OR and XOR byte spans a word at a time in the scalar fallback (#13145)](https://github.com/NethermindEth/nethermind/commit/adf726561f6e962c419a234d26bbef162bd3897d) - 2026-09-06
+* [Commit] [perf: compare storage slots through UInt256's own equality (#13150)](https://github.com/NethermindEth/nethermind/commit/75b18b762b0d3f9d633d3d4822f3d8b91c27fb58) - 2026-09-06
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

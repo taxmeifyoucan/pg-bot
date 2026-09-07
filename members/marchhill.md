@@ -290,6 +290,8 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [test(eip8141): pin why the validation prefix walks deliberately disagree](https://github.com/NethermindEth/nethermind/pull/13134) - 2026-09-04
 * [Review] [Review on: test(eip8141): pin why the validation prefix walks deliberately disagree](https://github.com/NethermindEth/nethermind/pull/13134#pullrequestreview-5112323834) - 2026-09-04
 * [Review] [Review on: Clear frame-tx receipt carry-over per transaction](https://github.com/NethermindEth/nethermind/pull/13137#pullrequestreview-5112314704) - 2026-09-04
+* [Pull Request] [Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13193) - 2026-09-06
+* [Review] [Review on: fix(eip8250): stop the block producer gating keyed frame transactions on the account nonce](https://github.com/NethermindEth/nethermind/pull/13142#pullrequestreview-5126819866) - 2026-09-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

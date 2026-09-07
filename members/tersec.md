@@ -145,6 +145,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: fix `payload_present` to reflect payload deadline decision](https://github.com/status-im/nimbus-eth2/pull/8972#pullrequestreview-5121893191) - 2026-09-05
 * [Pull Request] [rm fulu partial column quarantine tests](https://github.com/status-im/nimbus-eth2/pull/8995) - 2026-09-05
 * [Review] [Review on: Add getBuilderConfig api](https://github.com/status-im/nimbus-eth2/pull/8994#pullrequestreview-5121175537) - 2026-09-05
+* [Pull Request] [test with sync committee message and contribution reference gossip test vectors](https://github.com/status-im/nimbus-eth2/pull/9000) - 2026-09-07
+* [Pull Request] [use some consensus-specs gossip validation reference test vectors](https://github.com/status-im/nimbus-eth2/pull/8999) - 2026-09-06
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01

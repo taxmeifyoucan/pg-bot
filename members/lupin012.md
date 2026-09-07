@@ -190,6 +190,10 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [db/snapshotsync, rpc/jsonrpc: three review follow-ups from #23322](https://github.com/erigontech/erigon/pull/23812) - 2026-09-05
 * [Pull Request] [QA: add rpc tets for callTracer with failed creation](https://github.com/erigontech/erigon/pull/23811) - 2026-09-05
 * [Commit] [rpc/jsonrpc, rpc/gasprice: gate block-data and replay endpoints on the data they read (#23760)](https://github.com/erigontech/erigon/commit/f7d1c9c823665ee2d2a8a483a0153c33aeadabe3) - 2026-09-05
+* [Pull Request] [rpc/jsonrpc: acquire the overlay atomically in the block, tx, receipt, uncle and txpool getters](https://github.com/erigontech/erigon/pull/23824) - 2026-09-06
+* [Pull Request] [common/concurrent, db/snapshotsync: drop three review leftovers from #23812](https://github.com/erigontech/erigon/pull/23822) - 2026-09-06
+* [Commit] [db/snapshotsync, rpc/jsonrpc: three review follow-ups from #23322 (#23812)](https://github.com/erigontech/erigon/commit/bff7e25f6ac78b5077a67ef3210f527f0e7bf803) - 2026-09-06
+* [Commit] [QA: add rpc tets for callTracer with failed creation (#23811)](https://github.com/erigontech/erigon/commit/42b2cfe4ecc53fe31231014744dca823c6d8a3b3) - 2026-09-06
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05
@@ -214,6 +218,8 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [integration_test: fix compare json](https://github.com/erigontech/rpc-tests/pull/595) - 2026-09-04
 * [Commit] [fix compare json (#595)](https://github.com/erigontech/rpc-tests/commit/eb21ac065319e52dbf81e1ee98cc9e6a89ad5f6f) - 2026-09-04
 * [Commit] [integration: add tests for callTracer `to` omitted on a failed CREATE (#596)](https://github.com/erigontech/rpc-tests/commit/494e848fc6e2bb77158fc73bc6b2d9f52ddbf6ab) - 2026-09-05
+* [Pull Request] [integration: ignore the tracer error field on debug_traceBlockByNumber latest tests](https://github.com/erigontech/rpc-tests/pull/598) - 2026-09-06
+* [Commit] [add callTracer withLog tests for debug_trace* APIs (#597)](https://github.com/erigontech/rpc-tests/commit/2375b7fe3e881586470588dfc596e25dfc32d7c9) - 2026-09-06
 ## Q2 2026
 
 

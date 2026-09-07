@@ -75,6 +75,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajf
 * [Review] [Review on: Bonsai archive proofs diff encoding](https://github.com/besu-eth/besu/pull/11091#pullrequestreview-5085129251) - 2026-09-02
 * [Review] [Review on: fix(validation): reject post-Shanghai blocks with withdrawalsRoot but absent body withdrawals](https://github.com/besu-eth/besu/pull/11229#pullrequestreview-5097472020) - 2026-09-03
 * [Review] [Review on: Empty block metrics](https://github.com/besu-eth/besu/pull/11163#pullrequestreview-5098005221) - 2026-09-03
+* [Review] [Review on: snap/2 - reorg handling acceptance test](https://github.com/besu-eth/besu/pull/10957#pullrequestreview-5127419422) - 2026-09-07
 ## Q2 2026
 
 

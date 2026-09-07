@@ -274,6 +274,25 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(rlp): break the Rlp/TxDecoder type initializer cycle](https://github.com/NethermindEth/nethermind/pull/13158#pullrequestreview-5120496460) - 2026-09-05
 * [Review] [Review on: ci: capture a dump when a test host hangs](https://github.com/NethermindEth/nethermind/pull/13149#pullrequestreview-5120498978) - 2026-09-05
 * [Commit] [perf(evm): replace interpreter loop with tail-call chain dispatch (#13128)](https://github.com/NethermindEth/nethermind/commit/a29564ae5e2fefb95c90feb56435642ac363322c) - 2026-09-06
+* [Pull Request] [Reduce EVM opcode dispatch and call-frame overhead](https://github.com/NethermindEth/nethermind/pull/13189) - 2026-09-06
+* [Review] [Review on: Reduce EVM opcode dispatch and call-frame overhead](https://github.com/NethermindEth/nethermind/pull/13189#pullrequestreview-5126103152) - 2026-09-06
+* [Review] [Review on: perf(evm): answer precompile membership from a bitmask on the spec](https://github.com/NethermindEth/nethermind/pull/13183#pullrequestreview-5125315143) - 2026-09-06
+* [Pull Request] [perf(zkevm): fold the guest's fork rules and threading out of the image](https://github.com/NethermindEth/nethermind/pull/13188) - 2026-09-06
+* [Review] [Review on: perf(zkevm): fold the guest's fork rules and threading out of the image](https://github.com/NethermindEth/nethermind/pull/13188#pullrequestreview-5125808478) - 2026-09-06
+* [Review] [Review on: fix(crypto): reject Keccak output sizes the sponge cannot serve](https://github.com/NethermindEth/nethermind/pull/13187#pullrequestreview-5125778709) - 2026-09-06
+* [Review] [Review on: perf(zkevm): expand nibbles from a whole word](https://github.com/NethermindEth/nethermind/pull/13165#pullrequestreview-5125700452) - 2026-09-06
+* [Review] [Review on: perf(zkevm): reach Address.GetHashCode without a vtable dispatch](https://github.com/NethermindEth/nethermind/pull/13161#pullrequestreview-5125155944) - 2026-09-06
+* [Review] [Review on: perf(zkevm): compare 32-byte values as whole words](https://github.com/NethermindEth/nethermind/pull/13144#pullrequestreview-5125151810) - 2026-09-06
+* [Review] [Review on: perf(zkevm): key the witness node store on the node hash](https://github.com/NethermindEth/nethermind/pull/13159#pullrequestreview-5125344110) - 2026-09-06
+* [Review] [Review on: perf(zkevm): pack nibbles a word at a time](https://github.com/NethermindEth/nethermind/pull/13164#pullrequestreview-5125350569) - 2026-09-06
+* [Pull Request] [build(zkevm): drop the stack-trace table and symbol tables from the guest](https://github.com/NethermindEth/nethermind/pull/13182) - 2026-09-06
+* [Review] [Review on: build(zkevm): drop the stack-trace table and symbol tables from the guest](https://github.com/NethermindEth/nethermind/pull/13182#pullrequestreview-5125229987) - 2026-09-06
+* [Review] [Review on: test(evm): cover jumpdest scanning at the vector block boundaries](https://github.com/NethermindEth/nethermind/pull/13176#pullrequestreview-5124974542) - 2026-09-06
+* [Review] [Review on: perf(zkevm): keep the stack pointer and code length at native width](https://github.com/NethermindEth/nethermind/pull/13177#pullrequestreview-5125201003) - 2026-09-06
+* [Review] [Review on: perf(zkevm): absorb keccak's first rate block by assignment](https://github.com/NethermindEth/nethermind/pull/13152#pullrequestreview-5125154004) - 2026-09-06
+* [Commit] [perf(zkevm): fold the guest's fork rules and threading out of the image (#13188)](https://github.com/NethermindEth/nethermind/commit/b42c7bda6f521fea9441a08f22fc6f3e67b8bdab) - 2026-09-06
+* [Commit] [build(zkevm): drop the stack-trace table and symbol tables from the guest (#13182)](https://github.com/NethermindEth/nethermind/commit/90dbfaf6112fced17071a2a3ce068d3c787fe48d) - 2026-09-06
+* [Commit] [perf(zkevm): leave the embedded chainspecs out of the guest build (#13181)](https://github.com/NethermindEth/nethermind/commit/3a0a311702315a340da4571d95289078e19da806) - 2026-09-06
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07
