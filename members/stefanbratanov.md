@@ -72,6 +72,12 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefan
 * [Review] [Review on: Submit proposer preferences VC -> BN](https://github.com/Consensys-Incorporated/teku/pull/11227#pullrequestreview-5110595055) - 2026-09-04
 * [Commit] [Disable beacon proposer and validator registrations in Gloas (#11226)](https://github.com/Consensys-Incorporated/teku/commit/835e7f553d247e62d006c7523b0c346f93dab16c) - 2026-09-04
 * [Commit] [Submit proposer preferences VC -> BN (#11227)](https://github.com/Consensys-Incorporated/teku/commit/0e24ff55f5178979e3e2b315d8bd4b8fe4b2e0ca) - 2026-09-04
+* [Pull Request] [Add `Eth-Builder-Url` header and pass it during block production](https://github.com/Consensys-Incorporated/teku/pull/11248) - 2026-09-07
+* [Review] [Review on: Add `Eth-Builder-Url` header and pass it during block production](https://github.com/Consensys-Incorporated/teku/pull/11248#pullrequestreview-5134588697) - 2026-09-07
+* [Review] [Review on: Consider builder bids during block production](https://github.com/Consensys-Incorporated/teku/pull/11209#pullrequestreview-5132091459) - 2026-09-07
+* [Issue] [Cast `payload_attestion` vote earlier](https://github.com/Consensys-Incorporated/teku/issues/11249) - 2026-09-07
+* [Commit] [Consider builder bids during block production (#11209)](https://github.com/Consensys-Incorporated/teku/commit/e96cdac46e0fa79d42c7aa7bd5f5a58f8782f4e9) - 2026-09-07
+* [Commit] [Clean-up empty overrides (ValidatorTimingChannel) (#11230)](https://github.com/Consensys-Incorporated/teku/commit/ed63e99fc0bc29eb6b4efe3c52f8107a2bce6ccd) - 2026-09-07
 ## Q2 2026
 
 

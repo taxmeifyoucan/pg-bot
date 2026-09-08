@@ -110,6 +110,7 @@ Github: [@matkt](https://github.com/matkt)
 * [Review] [Review on: feat: debug_executionWitness - Simplified EIP-8025 execution witness](https://github.com/besu-eth/besu/pull/11224#pullrequestreview-5088939982) - 2026-09-02
 * [Review] [Review on: fix(bal): decode block access list uint256 fields as minimal scalars](https://github.com/besu-eth/besu/pull/11234#pullrequestreview-5102090552) - 2026-09-03
 * [Review] [Review on: feat: debug_executionWitness - Simplified EIP-8025 execution witness](https://github.com/besu-eth/besu/pull/11224#pullrequestreview-5102128622) - 2026-09-03
+* [Pull Request] [Fix/chain pruning fresh sync](https://github.com/besu-eth/besu/pull/11250) - 2026-09-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-8297: Delete leaves on zeroization](https://github.com/ethereum/EIPs/pull/12043#pullrequestreview-4826251214) - 2026-07-31
 

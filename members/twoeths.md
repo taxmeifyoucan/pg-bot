@@ -215,6 +215,11 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Commit] [fix: defer gossip handler to the next event loop (#9990)](https://github.com/ChainSafe/lodestar/commit/b228e400d13bab074036c5912d5b248710021b01) - 2026-09-04
 * [Review] [Review on: feat: add compliance test for gloas](https://github.com/ChainSafe/lodestar/pull/9761#pullrequestreview-5127425514) - 2026-09-07
 * [Issue] [[glamsterdam-devnet-8] Unknown sync gave up before gossip block came](https://github.com/ChainSafe/lodestar/issues/10018) - 2026-09-06
+* [Pull Request] [fix: ignore future slot gossip messages](https://github.com/ChainSafe/lodestar/pull/10023) - 2026-09-07
+* [Review] [Review on: fix: ignore future slot gossip messages](https://github.com/ChainSafe/lodestar/pull/10023#pullrequestreview-5130062614) - 2026-09-07
+* [Pull Request] [chore: log orphaned payload source in range sync](https://github.com/ChainSafe/lodestar/pull/10021) - 2026-09-07
+* [Commit] [fix: ignore future slot gossip messages (#10023)](https://github.com/ChainSafe/lodestar/commit/baa28132d248203178c8c8266561384b2ddcf29a) - 2026-09-07
+* [Commit] [chore: log orphaned payload source in range sync (#10021)](https://github.com/ChainSafe/lodestar/commit/84db2dcfe43d272644378dfd88d58fbc81610981) - 2026-09-07
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Review] [Review on: fix: slashing never committing child state tree](https://github.com/ChainSafe/lodestar-z/pull/458#pullrequestreview-4615415393) - 2026-07-02
 * [Review] [Review on: fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459#pullrequestreview-4615349396) - 2026-07-02
@@ -226,6 +231,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(state-transition): group-check signature sets](https://github.com/ChainSafe/lodestar-z/pull/515#pullrequestreview-4733841830) - 2026-07-20
 * [Review] [Review on: feat(pubkeys): add getPubkeyBytes binding](https://github.com/ChainSafe/lodestar-z/pull/555#pullrequestreview-4912352995) - 2026-08-12
 * [Review] [Review on: [do not merge] feat(bindings): asyncAggregateWithRandomness by indices](https://github.com/ChainSafe/lodestar-z/pull/561#pullrequestreview-4925106997) - 2026-08-13
+* [Review] [Review on: fix(bindings): expose explicit state view disposal](https://github.com/ChainSafe/lodestar-z/pull/649#pullrequestreview-5129502168) - 2026-09-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Fix payload availability lookup for attestations to skipped slots](https://github.com/ethereum/consensus-specs/pull/5442#pullrequestreview-4710081193) - 2026-07-16
 * [Review] [Review on: Fix payload availability lookup using the parent block's slot](https://github.com/ethereum/consensus-specs/pull/5473#pullrequestreview-4794777777) - 2026-07-28

@@ -59,6 +59,8 @@ Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 * [Pull Request] [Update EIP-8272: Add lightclient as a co-author](https://github.com/ethereum/EIPs/pull/12294) - 2026-09-03
 * [Commit] [Update EIP-8272: Add lightclient as a co-author](https://github.com/ethereum/EIPs/commit/fe87e741f2ebf1d73a808fe5f245481740a77736) - 2026-09-04
 * [Commit] [Update EIP-8272: verify recent roots with a canonical frame](https://github.com/ethereum/EIPs/commit/20fb52b9b2c370b6964c59e4f998f63a14803122) - 2026-09-04
+* [Pull Request] [Update EIP-8272: count recent root verification gas](https://github.com/ethereum/EIPs/pull/12302) - 2026-09-07
+* [Commit] [Update EIP-8272: count recent root verification gas](https://github.com/ethereum/EIPs/commit/824cbc0b0e459ea6b105d8b96420a5d46abf0806) - 2026-09-07
 ## Q2 2026
 
 

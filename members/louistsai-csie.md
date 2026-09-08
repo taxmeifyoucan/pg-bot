@@ -155,6 +155,14 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: refactor(spec-specs): add `OPCODE_SELFBALANCE`, `OPCODE_TLOAD` and `OPCODE_TSTORE`](https://github.com/ethereum/execution-specs/pull/3464#pullrequestreview-5110396380) - 2026-09-04
 * [Review] [Review on: feat(test-tools): Implement `GasConsumer`](https://github.com/ethereum/execution-specs/pull/3497#pullrequestreview-5109277702) - 2026-09-04
 * [Commit] [refactor(tests): enhance EIP-8037 test coverage part 4 (#3511)](https://github.com/ethereum/execution-specs/commit/e4a1fb6faf150425da9c1d9afb9005c2dd82eee3) - 2026-09-04
+* [Review] [Review on: refactor(spec-specs): move `REFUND_AUTH` and `TX_MAX_GAS_LIMIT` into GasCosts](https://github.com/ethereum/execution-specs/pull/3534#pullrequestreview-5128310811) - 2026-09-07
+* [Review] [Review on: chore(tests): improve EIP-2780 coverage, checklist, and ref-spec pin](https://github.com/ethereum/execution-specs/pull/3515#pullrequestreview-5130811346) - 2026-09-07
+* [Review] [Review on: feat(tests): cover EIP-8037 system gas and code-deposit boundaries](https://github.com/ethereum/execution-specs/pull/3524#pullrequestreview-5130355150) - 2026-09-07
+* [Review] [Review on: feat(test-tools): Implement `GasConsumer`](https://github.com/ethereum/execution-specs/pull/3497#pullrequestreview-5129739673) - 2026-09-07
+* [Review] [Review on: feat(tests): cover EIP-8037 static-call reservoirs and block activation](https://github.com/ethereum/execution-specs/pull/3525#pullrequestreview-5130110213) - 2026-09-07
+* [Review] [Review on: refactor(tests): size gas-boundary cases with fork calculators](https://github.com/ethereum/execution-specs/pull/3530#pullrequestreview-5129557555) - 2026-09-07
+* [Review] [Review on: feat(tests): EIP-8246 checklist, focus on #3217 items](https://github.com/ethereum/execution-specs/pull/3533#pullrequestreview-5129200993) - 2026-09-07
+* [Issue] [Refactor tests to use `gasConsumer` helper](https://github.com/ethereum/execution-specs/issues/3538) - 2026-09-07
 ## Q2 2026
 
 

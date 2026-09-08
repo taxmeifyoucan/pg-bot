@@ -641,6 +641,23 @@ Team: Reth
 * [Commit] [chore(ci): cancel superseded PR lint runs (#27042)](https://github.com/paradigmxyz/reth/commit/315d04c0b4bf7644bffe06db21cdccb887c9339d) - 2026-09-07
 * [Commit] [test(e2e): await payload builds instead of sleeping (#27041)](https://github.com/paradigmxyz/reth/commit/88815425c194309c934144d77dee6cd65633346e) - 2026-09-06
 * [Commit] [perf(rpc): convert trace_get results lazily (#27031)](https://github.com/paradigmxyz/reth/commit/b3dbb065d31a5db941cf4b803d412f73cdae36a6) - 2026-09-06
+* [Review] [Review on: refactor(net): rewrite transaction fetcher](https://github.com/paradigmxyz/reth/pull/26924#pullrequestreview-5132001886) - 2026-09-07
+* [Pull Request] [fix(download): restore custom static files directory handling](https://github.com/paradigmxyz/reth/pull/27065) - 2026-09-07
+* [Pull Request] [perf(txpool): reuse subpool update buffer](https://github.com/paradigmxyz/reth/pull/27060) - 2026-09-07
+* [Pull Request] [perf(txpool): process insertion updates with one iterator](https://github.com/paradigmxyz/reth/pull/27064) - 2026-09-07
+* [Pull Request] [perf(txpool): cache pooled transaction in-memory size](https://github.com/paradigmxyz/reth/pull/27061) - 2026-09-07
+* [Review] [Review on: perf(txpool): cache pooled transaction in-memory size](https://github.com/paradigmxyz/reth/pull/27061#pullrequestreview-5132257993) - 2026-09-07
+* [Review] [Review on: fix(rpc): return only new logs from eth_getFilterChanges](https://github.com/paradigmxyz/reth/pull/26998#pullrequestreview-5132386019) - 2026-09-07
+* [Review] [Review on: perf(rpc): compute oversized block RLP length once](https://github.com/paradigmxyz/reth/pull/27037#pullrequestreview-5131625173) - 2026-09-07
+* [Review] [Review on: fix(rpc): reject raw BidTrace mismatches before KZG](https://github.com/paradigmxyz/reth/pull/27026#pullrequestreview-5131580976) - 2026-09-07
+* [Commit] [perf(txpool): only visit changed senders when the fees did not move (#26956)](https://github.com/paradigmxyz/reth/commit/280a76318d7ab933f4a1536d1942ffeb4c742d1a) - 2026-09-07
+* [Commit] [perf(txpool): reuse subpool update buffer (#27060)](https://github.com/paradigmxyz/reth/commit/14ab693f534a478d3249ef40245c383e65d8fa43) - 2026-09-07
+* [Commit] [perf(txpool): process insertion updates with one iterator (#27064)](https://github.com/paradigmxyz/reth/commit/fc272b49bca40cb46c85db6df2fc58a5e67599a0) - 2026-09-07
+* [Commit] [perf(txpool): cache pooled transaction in-memory size (#27061)](https://github.com/paradigmxyz/reth/commit/842a0fbf2d6186c6186d259f7122a8cf436107be) - 2026-09-07
+* [Commit] [fix(engine): flush state before backfill sync (#26911)](https://github.com/paradigmxyz/reth/commit/0b30d58c3471be5cf40d4c6afd67efa40a328d38) - 2026-09-07
+* [Commit] [feat(download): allow retry delay overrides (#27048)](https://github.com/paradigmxyz/reth/commit/0297d4f9d076d7edc7e330020da6825928c85a9d) - 2026-09-07
+* [Commit] [test: skip wall-clock waits in peer tick test (#27045)](https://github.com/paradigmxyz/reth/commit/ad3929fdf10f399055a4e9340fff697b70687195) - 2026-09-07
+* [Commit] [test: signal background metrics hook completion (#27047)](https://github.com/paradigmxyz/reth/commit/abba04f89c706c5363e2ea24267f8625d2bfe59a) - 2026-09-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03

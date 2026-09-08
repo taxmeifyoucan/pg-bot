@@ -84,6 +84,11 @@ Team: Geth
 * [Review] [Review on: core/filtermaps: fix panic when a reorg shortens the chain onto the rendered block](https://github.com/ethereum/go-ethereum/pull/35619#pullrequestreview-5088630604) - 2026-09-02
 * [Review] [Review on: docs: update mainnet storage requirements](https://github.com/ethereum/go-ethereum/pull/35624#pullrequestreview-5087943340) - 2026-09-02
 * [Review] [Review on: core/vm: repay the outstanding debt first after absorbing child frame](https://github.com/ethereum/go-ethereum/pull/35633#pullrequestreview-5087735697) - 2026-09-02
+* [Review] [Review on: build: upgrade -dlgo version to Go 1.27.1](https://github.com/ethereum/go-ethereum/pull/35656#pullrequestreview-5130404693) - 2026-09-07
+* [Review] [Review on: internal/ethapi: don't fail eth_createAccessList on unaffordable fee defaults](https://github.com/ethereum/go-ethereum/pull/35397#pullrequestreview-5130514993) - 2026-09-07
+* [Review] [Review on: core: fix gas tracer and gas measurement](https://github.com/ethereum/go-ethereum/pull/35646#pullrequestreview-5130344938) - 2026-09-07
+* [Review] [Review on: core, eth: optimize chain segment insertion](https://github.com/ethereum/go-ethereum/pull/35652#pullrequestreview-5130468454) - 2026-09-07
+* [Review] [Review on: beacon, eth: fix hive failure](https://github.com/ethereum/go-ethereum/pull/35664#pullrequestreview-5130234442) - 2026-09-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7997: clarify nonce for irregular state transition](https://github.com/ethereum/EIPs/pull/11850#pullrequestreview-4615358661) - 2026-07-02
 
@@ -92,6 +97,7 @@ Team: Geth
 
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Commit] [engine: add Rest-SSZ spec (#793)](https://github.com/ethereum/execution-apis/commit/22e87b3c689f4fd1696baf40328d3c94c02275dd) - 2026-09-02
+* [Review] [Review on: schemas: treat unresolvable safe and finalized tags as unknown blocks](https://github.com/ethereum/execution-apis/pull/879#pullrequestreview-5133599329) - 2026-09-07
 ## Q2 2026
 
 

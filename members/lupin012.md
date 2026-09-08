@@ -194,6 +194,7 @@ Team: [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=autho
 * [Pull Request] [common/concurrent, db/snapshotsync: drop three review leftovers from #23812](https://github.com/erigontech/erigon/pull/23822) - 2026-09-06
 * [Commit] [db/snapshotsync, rpc/jsonrpc: three review follow-ups from #23322 (#23812)](https://github.com/erigontech/erigon/commit/bff7e25f6ac78b5077a67ef3210f527f0e7bf803) - 2026-09-06
 * [Commit] [QA: add rpc tets for callTracer with failed creation (#23811)](https://github.com/erigontech/erigon/commit/42b2cfe4ecc53fe31231014744dca823c6d8a3b3) - 2026-09-06
+* [Commit] [common/concurrent, db/snapshotsync: drop three review leftovers from #23812 (#23822)](https://github.com/erigontech/erigon/commit/78b1b1cfb10d390c20b205f3a8a81dbd4466ce4e) - 2026-09-07
 [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests)
 * [Commit] [remove result in debug_traceCall with error (#582)](https://github.com/erigontech/rpc-tests/commit/d2558b2c6efc35ed5416f8f4a6b7a9b9f4bc64cb) - 2026-07-01
 * [Pull Request] [integration_test: fix prestate noStorage (debug_traceTransaction, debug_traceBlockByNumber)](https://github.com/erigontech/rpc-tests/pull/583) - 2026-07-05

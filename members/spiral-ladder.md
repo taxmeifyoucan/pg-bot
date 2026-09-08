@@ -69,6 +69,7 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Commit] [refactor(bindings): split computeNewStateRoot computation (#9945)](https://github.com/ChainSafe/lodestar/commit/4c05b800340e647d45a1dd2786f5241c88c25850) - 2026-08-31
 * [Pull Request] [fix(lightclient): serve bootstrap for the checkpoint-sync anchor block](https://github.com/ChainSafe/lodestar/pull/9991) - 2026-09-03
 * [Commit] [feat: gloas lc support (#9687)](https://github.com/ChainSafe/lodestar/commit/0dbea0de1b39ab8d2064660dd074900ad04b3334) - 2026-09-03
+* [Pull Request] [fix(archive): prune by block and payload level data](https://github.com/ChainSafe/lodestar/pull/10022) - 2026-09-07
 [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z)
 * [Pull Request] [fix: missing deinits in loadOtherState](https://github.com/ChainSafe/lodestar-z/pull/459) - 2026-07-01
 * [Pull Request] [fix(bindings): accept `dontTransferCache` in processSlots for backward compatibility](https://github.com/ChainSafe/lodestar-z/pull/460) - 2026-07-01
@@ -204,6 +205,15 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Pull Request] [fix(bindings): expose explicit state view disposal](https://github.com/ChainSafe/lodestar-z/pull/649) - 2026-09-05
 * [Pull Request] [fix: split tests in variable element iterator](https://github.com/ChainSafe/lodestar-z/pull/650) - 2026-09-05
 * [Commit] [fix: split tests in variable element iterator (#650)](https://github.com/ChainSafe/lodestar-z/commit/747b321cd138357a75a6f15f7e713403ecc51886) - 2026-09-05
+* [Review] [Review on: fix: use integer square root for Phase0 rewards](https://github.com/ChainSafe/lodestar-z/pull/654#pullrequestreview-5134481919) - 2026-09-07
+* [Review] [Review on: refactor(ssz): simplify progressive bit list type](https://github.com/ChainSafe/lodestar-z/pull/637#pullrequestreview-5134455449) - 2026-09-07
+* [Review] [Review on: fix: reject short seed validator bytes](https://github.com/ChainSafe/lodestar-z/pull/653#pullrequestreview-5134451516) - 2026-09-07
+* [Review] [Review on: perf(ssz): avoid scratch allocation in chunked list serialization](https://github.com/ChainSafe/lodestar-z/pull/642#pullrequestreview-5134354580) - 2026-09-07
+* [Review] [Review on: fix(ssz): preserve container view state after failed child reads](https://github.com/ChainSafe/lodestar-z/pull/646#pullrequestreview-5131652102) - 2026-09-07
+* [Review] [Review on: fix(ssz): keep clone destinations deinit-safe](https://github.com/ChainSafe/lodestar-z/pull/614#pullrequestreview-5131516100) - 2026-09-07
+* [Review] [Review on: fix: preserve sync committee ownership on rotation OOM](https://github.com/ChainSafe/lodestar-z/pull/652#pullrequestreview-5130771630) - 2026-09-07
+* [Commit] [fix(bindings): expose explicit state view disposal (#649)](https://github.com/ChainSafe/lodestar-z/commit/cb42fa061f44d78371ea14eafc6caf2cc924e6d8) - 2026-09-07
+* [Commit] [fix(bindings): support blinded state transitions (#628)](https://github.com/ChainSafe/lodestar-z/commit/3fdb5aabf98552d809532e790bbbd8c4ec3a283c) - 2026-09-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

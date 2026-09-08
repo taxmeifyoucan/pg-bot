@@ -54,9 +54,19 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapp
 * [Pull Request] [Re-enable optimistic sync for Gloas payload envelopes](https://github.com/sigp/lighthouse/pull/9934) - 2026-08-29
 * [Review] [Review on: Fix quadratic pending-validator scan in Gloas builder onboarding](https://github.com/sigp/lighthouse/pull/9954#pullrequestreview-5083433844) - 2026-09-01
 * [Pull Request] [Enable FCR test cases](https://github.com/sigp/lighthouse/pull/9964) - 2026-09-02
+* [Pull Request] [Recover evicted payload bids instead of failing with MissingBid](https://github.com/sigp/lighthouse/pull/9993) - 2026-09-07
+* [Review] [Review on: Recover evicted payload bids instead of failing with MissingBid](https://github.com/sigp/lighthouse/pull/9993#pullrequestreview-5133574916) - 2026-09-07
+* [Pull Request] [Aggregate real public keys in the fake_crypto backend](https://github.com/sigp/lighthouse/pull/9990) - 2026-09-07
+* [Review] [Review on: Update Docker builder to Debian Bookworm](https://github.com/sigp/lighthouse/pull/9984#pullrequestreview-5132673777) - 2026-09-07
+* [Pull Request] [Default EL safe tag to finalized when FCR is enabled](https://github.com/sigp/lighthouse/pull/9992) - 2026-09-07
+* [Pull Request] [Stop promoting completed pending payload entries to most-recently-used](https://github.com/sigp/lighthouse/pull/9988) - 2026-09-07
+* [Pull Request] [Standardise FCR metrics](https://github.com/sigp/lighthouse/pull/9987) - 2026-09-07
+* [Issue] [Reserved - 10k](https://github.com/sigp/lighthouse/issues/10000) - 2026-09-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [p2p: allow readers to ignore trailing bytes after the SSZ payload](https://github.com/ethereum/consensus-specs/pull/5511) - 2026-08-04
 
+* [Pull Request] [Spec FCR behavior on node restart](https://github.com/ethereum/consensus-specs/pull/5610) - 2026-09-07
+* [Review] [Review on: Spec FCR behavior on node restart](https://github.com/ethereum/consensus-specs/pull/5610#pullrequestreview-5134468660) - 2026-09-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Add EIP: Remove the Sync Committee](https://github.com/ethereum/EIPs/pull/12228) - 2026-08-22
 * [Commit] [Add EIP: Remove the Sync Committee](https://github.com/ethereum/EIPs/commit/432053151fc6498519e0f118b38bac4f07b6b5ae) - 2026-08-24

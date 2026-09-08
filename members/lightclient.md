@@ -94,6 +94,7 @@ Team: Geth
 * [Review] [Review on: eth/fetcher: correct the comment on announced-size peer drops](https://github.com/ethereum/go-ethereum/pull/35620#pullrequestreview-5071293163) - 2026-08-31
 * [Review] [Review on: eth/tracers: fix test flaking on 0xEF block hashes](https://github.com/ethereum/go-ethereum/pull/35629#pullrequestreview-5083696762) - 2026-09-01
 * [Review] [Review on: cmd/evm: test missing London base fee config](https://github.com/ethereum/go-ethereum/pull/35636#pullrequestreview-5094687581) - 2026-09-02
+* [Pull Request] [core: implement eip-8141 frames tx](https://github.com/ethereum/go-ethereum/pull/35666) - 2026-09-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Ben Edgington from Protocol Consensus](https://github.com/protocolguild/documentation/pull/526#pullrequestreview-4744394254) - 2026-07-21
 

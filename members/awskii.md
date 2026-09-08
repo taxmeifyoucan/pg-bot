@@ -459,6 +459,10 @@ Team: Erigon
 * [Commit] [db/etl: size a pooled buffer to the collector's last fill (#23742)](https://github.com/erigontech/erigon/commit/fee0d393dba6204c944f73c4c6dcb59815a770ca) - 2026-09-05
 * [Commit] [execution/commitment: scale the deep-fold storage threshold with the round size (#23747)](https://github.com/erigontech/erigon/commit/1e683cfe240f022f18c812ac9fb634a9e2a916f4) - 2026-09-05
 * [Commit] [execution/types: pin RegisterTxType's nil spec.New guard (#23808)](https://github.com/erigontech/erigon/commit/98c48a17b84314c5a4fb0636d8664f08445aacca) - 2026-09-05
+* [Review] [Review on: cl/antiquary: remove overlapping caplin state segments after each dump](https://github.com/erigontech/erigon/pull/23471#pullrequestreview-5132605232) - 2026-09-07
+* [Pull Request] [db/datastruct/btindex: prefix-seed bs(), cache offsets, interpolate in Seek](https://github.com/erigontech/erigon/pull/23841) - 2026-09-07
+* [Review] [Review on: db/datastruct/btindex: prefix-seed bs(), cache offsets, interpolate in Seek](https://github.com/erigontech/erigon/pull/23841#pullrequestreview-5130921991) - 2026-09-07
+* [Commit] [db/state, cmd: enable parallel commitment by default (#23831)](https://github.com/erigontech/erigon/commit/6735182f6ce4bf633a9a9f0c679609529b466d0e) - 2026-09-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

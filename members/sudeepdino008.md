@@ -177,6 +177,7 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: db: HistoryDump re-use zstd buf](https://github.com/erigontech/erigon/pull/23452#pullrequestreview-5031780902) - 2026-08-26
 * [Review] [Review on: db: high-level features unit-tests which cover PagedReader.Reset](https://github.com/erigontech/erigon/pull/23480#pullrequestreview-5031787281) - 2026-08-26
 * [Commit] [diagnostics/diskutils: warn when datadir is on filesystem outside recommended set (#23524)](https://github.com/erigontech/erigon/commit/1b63908533494ea01f342a748bcc48eba3dbd18a) - 2026-08-26
+* [Commit] [cmd/integration: add `history duplicates` to find redundant history values (#22450)](https://github.com/erigontech/erigon/commit/3fdc356fd1b6862b2090a7403cdca3678b1b24a2) - 2026-09-07
 ## Q2 2026
 
 

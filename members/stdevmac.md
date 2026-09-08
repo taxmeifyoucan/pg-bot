@@ -70,6 +70,10 @@ Github: [@stdevmac](https://github.com/stdevmac)
 * [Issue] [JSON-RPC: an empty string for a required non-nullable parameter binds null and throws NullReferenceException (-32603) instead of returning -32602](https://github.com/NethermindEth/nethermind/issues/13196) - 2026-09-06
 * [Issue] [JSON-RPC over HTTP: a chunked request with chunk-size >= 0x80000000 returns HTTP 500 with an empty body (bare IOException from Kestrel escapes the body-read boundary)](https://github.com/NethermindEth/nethermind/issues/13195) - 2026-09-06
 * [Issue] [JSON-RPC: invalid UTF-8 or a lone surrogate in the method name escapes as InvalidOperationException, returning HTTP 500 with a zero-length body](https://github.com/NethermindEth/nethermind/issues/13194) - 2026-09-06
+* [Pull Request] [fix(rpc): stop unauthenticated input causing unhandled exceptions, empty 500s, leaked traces and WARN floods (#13194, #13195, #13197, #13198, #13156)](https://github.com/NethermindEth/nethermind/pull/13251) - 2026-09-08
+* [Pull Request] [fix(sync): shutdown segfault, snap large-storage stall, full-pruning thrash and OP forced-pivot livelock (#13154, #13155, #13199, #13200)](https://github.com/NethermindEth/nethermind/pull/13252) - 2026-09-08
+* [Issue] [JsonRpcSocketsClientTests binds a fixed port (1337), so concurrent runs fail or hang](https://github.com/NethermindEth/nethermind/issues/13249) - 2026-09-07
+* [Issue] [Snap sync gives no Info-level or default-metric signal when it stops making progress](https://github.com/NethermindEth/nethermind/issues/13248) - 2026-09-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4654673685) - 2026-07-08
 ## Q2 2026

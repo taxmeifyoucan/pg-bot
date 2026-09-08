@@ -108,6 +108,9 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [newPayloadV5: undecodable BAL is an invalid payload, not invalid params](https://github.com/status-im/nimbus-eth1/pull/4697) - 2026-08-27
+
+[ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+* [Review] [Review on: Bound the bid's gas limit against the parent execution payload](https://github.com/ethereum/consensus-specs/pull/5598#pullrequestreview-5128332053) - 2026-09-07
 ## Q2 2026
 
 

@@ -70,6 +70,9 @@ Team: Reth
 * [Review] [Review on: fix(engine): return invalid for undecodable block access lists](https://github.com/paradigmxyz/reth/pull/26889#pullrequestreview-5075973694) - 2026-09-01
 * [Pull Request] [Add deterministic testing support across core components](https://github.com/paradigmxyz/reth/pull/27017) - 2026-09-04
 * [Review] [Review on: perf(stages): avoid cloning ExecutionOutcome for ExEx notification](https://github.com/paradigmxyz/reth/pull/26947#pullrequestreview-5115431069) - 2026-09-04
+* [Review] [Review on: perf(txpool): cache pooled transaction in-memory size](https://github.com/paradigmxyz/reth/pull/27061#pullrequestreview-5132274507) - 2026-09-07
+* [Pull Request] [test: run native reth node under hermit](https://github.com/paradigmxyz/reth/pull/27059) - 2026-09-07
+* [Pull Request] [test: run native reth node under hermit](https://github.com/paradigmxyz/reth/pull/27058) - 2026-09-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507) - 2026-07-03
 * [Pull Request] [Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509) - 2026-07-03

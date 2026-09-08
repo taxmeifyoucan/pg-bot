@@ -304,6 +304,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(stf): safe pending withdrawal map reads with get](https://github.com/ChainSafe/lodestar-z/pull/630#pullrequestreview-5114159937) - 2026-09-04
 * [Review] [Review on: fix(stf): fix epochshuffling slot committee slice leaks](https://github.com/ChainSafe/lodestar-z/pull/636#pullrequestreview-5114091317) - 2026-09-04
 * [Commit] [refactor: extract tests to _test.zig, add tidy lint (#625)](https://github.com/ChainSafe/lodestar-z/commit/bb485bbc02714bb0e53ade32302952c75a50a794) - 2026-09-04
+* [Review] [Review on: perf(ssz): avoid scratch allocation in chunked list serialization](https://github.com/ChainSafe/lodestar-z/pull/642#pullrequestreview-5131946501) - 2026-09-07
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

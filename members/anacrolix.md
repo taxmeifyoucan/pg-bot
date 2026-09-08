@@ -16,6 +16,7 @@ Github: [@anacrolix](https://github.com/anacrolix)
 * [Pull Request] [Re-enable uTP with fixes for peer-triggered abort](https://github.com/erigontech/erigon/pull/23329) - 2026-08-17
 * [Commit] [Re-enable uTP with fixes for peer-triggered abort (#23329)](https://github.com/erigontech/erigon/commit/f811cc13bb436dbd3aed49ce5cd65c642b7e5467) - 2026-08-17
 * [Review] [Review on: [r3.6] Re-enable uTP with fixes for peer-triggered abort](https://github.com/erigontech/erigon/pull/23406#pullrequestreview-4972270631) - 2026-08-19
+* [Pull Request] [db/downloader: drop direct go-libutp dependency](https://github.com/erigontech/erigon/pull/23856) - 2026-09-08
 ## Q2 2026
 
 

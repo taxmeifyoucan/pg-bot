@@ -166,6 +166,34 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Review] [Review on: fix(whir): draw independent STIR query samples](https://github.com/Plonky3/Plonky3/pull/2031#pullrequestreview-5121860492) - 2026-09-05
 * [Commit] [feat(binary-field): Ghash128, GF(2^128) in the polynomial basis, with SIMD packings (#2030)](https://github.com/Plonky3/Plonky3/commit/7cd95329347f61383c7a892e4ebf18191330e71c) - 2026-09-05
 * [Review] [Review on: perf(stir): committed round-0 oracle with single-row input openings](https://github.com/Plonky3/Plonky3/pull/2041#pullrequestreview-5126621168) - 2026-09-06
+* [Pull Request] [perf(sumcheck): fuse bind and measure across single-round calls and under suffix order](https://github.com/Plonky3/Plonky3/pull/2055) - 2026-09-07
+* [Pull Request] [perf(binary-field): vectorize the polynomial-basis butterflies with a split twiddle](https://github.com/Plonky3/Plonky3/pull/2054) - 2026-09-07
+* [Pull Request] [perf(binary-dft): fuse long-stride stages through a staging tile](https://github.com/Plonky3/Plonky3/pull/2052) - 2026-09-07
+* [Pull Request] [perf(merkle-tree): reach the vectorized Keccak from the Merkle tree](https://github.com/Plonky3/Plonky3/pull/2051) - 2026-09-07
+* [Pull Request] [perf(field): route the self-algebra mixed dot product to the type's own dot product](https://github.com/Plonky3/Plonky3/pull/2050) - 2026-09-07
+* [Pull Request] [perf(binary-pcs): fold the codeword packed in the polynomial basis](https://github.com/Plonky3/Plonky3/pull/2053) - 2026-09-07
+* [Pull Request] [chore: expose the parallel feature on every crate that uses rayon](https://github.com/Plonky3/Plonky3/pull/2049) - 2026-09-07
+* [Review] [Review on: feat(fri)!: drive the FRI transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2035#pullrequestreview-5131351359) - 2026-09-07
+* [Review] [Review on: fix(security,fri): accounting and grinding hygiene fixes](https://github.com/Plonky3/Plonky3/pull/2048#pullrequestreview-5133327863) - 2026-09-07
+* [Review] [Review on: fix(circle): account for transition selectors in quotient sizing](https://github.com/Plonky3/Plonky3/pull/2046#pullrequestreview-5133318390) - 2026-09-07
+* [Review] [Review on: feat(multi-stark): wire binary fields and PCS end to end](https://github.com/Plonky3/Plonky3/pull/2047#pullrequestreview-5133143046) - 2026-09-07
+* [Review] [Review on: perf(maybe-rayon): size parallel tasks from a cost model](https://github.com/Plonky3/Plonky3/pull/2039#pullrequestreview-5130536682) - 2026-09-07
+* [Review] [Review on: doc: update README](https://github.com/Plonky3/Plonky3/pull/2045#pullrequestreview-5131560473) - 2026-09-07
+* [Review] [Review on: feat(sumcheck)!: drive the generic-degree transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2024#pullrequestreview-5130235129) - 2026-09-07
+* [Review] [Review on: perf(binary-dft): incremental twiddles, tiled stages, and fused kernels](https://github.com/Plonky3/Plonky3/pull/2043#pullrequestreview-5130756346) - 2026-09-07
+* [Review] [Review on: perf(binary-field): squaring, Frobenius, dot products, and buffer reuse](https://github.com/Plonky3/Plonky3/pull/2042#pullrequestreview-5130594373) - 2026-09-07
+* [Review] [Review on: fix(binary-pcs): query at pair granularity, fold without copying](https://github.com/Plonky3/Plonky3/pull/2034#pullrequestreview-5130277575) - 2026-09-07
+* [Review] [Review on: perf(sumcheck): bind and measure in one pass in the hiding driver](https://github.com/Plonky3/Plonky3/pull/2038#pullrequestreview-5130023488) - 2026-09-07
+* [Review] [Review on: fix(fri)!: derive the folding schedule instead of accepting the prover's](https://github.com/Plonky3/Plonky3/pull/2033#pullrequestreview-5130011263) - 2026-09-07
+* [Review] [Review on: perf(sumcheck): bind and measure in one pass](https://github.com/Plonky3/Plonky3/pull/2036#pullrequestreview-5129981633) - 2026-09-07
+* [Commit] [chore: expose the parallel feature on every crate that uses rayon (#2049)](https://github.com/Plonky3/Plonky3/commit/7230fc572870436e6651762f35c6c3f3f48960d2) - 2026-09-07
+* [Commit] [refactor(stir): share the commitment absorption between challenger backends (#2040)](https://github.com/Plonky3/Plonky3/commit/c239716c288f6327bb3406e520021770a8cd4e2a) - 2026-09-07
+* [Commit] [feat(sumcheck)!: drive the generic-degree transcript through the typed Fiat-Shamir layer (#2024)](https://github.com/Plonky3/Plonky3/commit/7f69bad0635972189bc27debeddf9438b43f014f) - 2026-09-07
+* [Commit] [fix(binary-pcs): query at pair granularity, fold without copying (#2034)](https://github.com/Plonky3/Plonky3/commit/11e80a26d61af2a5753c72f75269d31ac5720682) - 2026-09-07
+* [Commit] [perf(sumcheck): bind and measure in one pass in the hiding driver (#2038)](https://github.com/Plonky3/Plonky3/commit/82dcb051e28ddafc3fe11af7feb57f59f1a00842) - 2026-09-07
+* [Commit] [fix(fri)!: derive the folding schedule instead of accepting the prover's (#2033)](https://github.com/Plonky3/Plonky3/commit/96d42f45098cd28ae9e1856214685433406601dc) - 2026-09-07
+* [Commit] [perf(sumcheck): bind and measure in one pass (#2036)](https://github.com/Plonky3/Plonky3/commit/f3f8d57f761b154d22c43c00f9a2564565dfb580) - 2026-09-07
+* [Commit] [test(binary-field): check the vector kernel's algebra on every target (#2028)](https://github.com/Plonky3/Plonky3/commit/9e7c7658205401186f3e25c84a9c2f0a5641f09c) - 2026-09-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

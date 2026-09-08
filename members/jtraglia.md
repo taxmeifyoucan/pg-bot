@@ -269,6 +269,9 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Review] [Review on: Introduce `compute_shuffling_lookahead_start_slot` helper](https://github.com/ethereum/consensus-specs/pull/5602#pullrequestreview-5114542592) - 2026-09-04
 * [Commit] [Replace AGENTS.md with simplified CLAUDE.md file (#5604)](https://github.com/ethereum/consensus-specs/commit/ffa61848861ef88931da7e4d2e3968de1ede57ff) - 2026-09-04
 * [Review] [Review on: Remove remaining type casts](https://github.com/ethereum/consensus-specs/pull/5606#pullrequestreview-5123243589) - 2026-09-05
+* [Pull Request] [Compute max `DataColumnSidecar` size based on blob schedule](https://github.com/ethereum/consensus-specs/pull/5613) - 2026-09-08
+* [Review] [Review on: Only serve canonical payload envelopes by range](https://github.com/ethereum/consensus-specs/pull/5608#pullrequestreview-5136345584) - 2026-09-08
+* [Review] [Review on: Update dependency zensical to v0.0.59](https://github.com/ethereum/consensus-specs/pull/5607#pullrequestreview-5128014641) - 2026-09-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07
@@ -309,6 +312,7 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Issue] [All Core Devs - Testing (ACDT) #90, August 3, 2026](https://github.com/ethereum/pm/issues/2174) - 2026-07-27
 * [Issue] [All Core Devs - Testing (ACDT) #94, August 31, 2026](https://github.com/ethereum/pm/issues/2204) - 2026-08-26
 
+* [Issue] [All Core Devs - Testing (ACDT) #96, September 14, 2026](https://github.com/ethereum/pm/issues/2217) - 2026-09-07
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: engine: bound engine_getInclusionListV1 result by the consensus-layer transaction byte measure](https://github.com/ethereum/execution-apis/pull/870#pullrequestreview-5067286014) - 2026-08-31
 ## Q2 2026

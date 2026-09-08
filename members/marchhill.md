@@ -292,6 +292,30 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Review] [Review on: Clear frame-tx receipt carry-over per transaction](https://github.com/NethermindEth/nethermind/pull/13137#pullrequestreview-5112314704) - 2026-09-04
 * [Pull Request] [Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13193) - 2026-09-06
 * [Review] [Review on: fix(eip8250): stop the block producer gating keyed frame transactions on the account nonce](https://github.com/NethermindEth/nethermind/pull/13142#pullrequestreview-5126819866) - 2026-09-06
+* [Pull Request] [test(eip8141): own the flood generator's thread and wire the producer rig from production](https://github.com/NethermindEth/nethermind/pull/13242) - 2026-09-07
+* [Review] [Review on: test(eip8141): own the flood generator's thread and wire the producer rig from production](https://github.com/NethermindEth/nethermind/pull/13242#pullrequestreview-5134916637) - 2026-09-07
+* [Pull Request] [EIP-8141: apply APPROVE during execution and journal its context](https://github.com/NethermindEth/nethermind/pull/13245) - 2026-09-07
+* [Review] [Review on: EIP-8141: apply APPROVE during execution and journal its context](https://github.com/NethermindEth/nethermind/pull/13245#pullrequestreview-5134780440) - 2026-09-07
+* [Pull Request] [Pin the IReleaseSpec extension contract for new fork flags](https://github.com/NethermindEth/nethermind/pull/13240) - 2026-09-07
+* [Review] [Review on: Pin the IReleaseSpec extension contract for new fork flags](https://github.com/NethermindEth/nethermind/pull/13240#pullrequestreview-5134606338) - 2026-09-07
+* [Pull Request] [fix(txpool): stop revalidation recreating an evicted frame tx's index entry](https://github.com/NethermindEth/nethermind/pull/13238) - 2026-09-07
+* [Review] [Review on: fix(txpool): stop revalidation recreating an evicted frame tx's index entry](https://github.com/NethermindEth/nethermind/pull/13238#pullrequestreview-5134664164) - 2026-09-07
+* [Pull Request] [fix(eip8141): derive the frame signature decode guards from the block gas limit](https://github.com/NethermindEth/nethermind/pull/13243) - 2026-09-07
+* [Review] [Review on: fix(eip8141): derive the frame signature decode guards from the block gas limit](https://github.com/NethermindEth/nethermind/pull/13243#pullrequestreview-5134936103) - 2026-09-07
+* [Review] [Review on: perf: inline the small RlpReader members and drop dead hash compares](https://github.com/NethermindEth/nethermind/pull/13215#pullrequestreview-5134615928) - 2026-09-07
+* [Review] [Review on: Reject undersized ECIES ciphertexts with controlled exceptions](https://github.com/NethermindEth/nethermind/pull/13135#pullrequestreview-5134618767) - 2026-09-07
+* [Pull Request] [test(eip8141): share frame-test setup and group independent assertions](https://github.com/NethermindEth/nethermind/pull/13244) - 2026-09-07
+* [Review] [Review on: test(eip8141): share frame-test setup and group independent assertions](https://github.com/NethermindEth/nethermind/pull/13244#pullrequestreview-5134916900) - 2026-09-07
+* [Review] [Review on: fix(eip8141): close the flood-harness gaps flagged on #13041](https://github.com/NethermindEth/nethermind/pull/13231#pullrequestreview-5134640651) - 2026-09-07
+* [Pull Request] [Merge master into eip8141-frame-txs-devnet7](https://github.com/NethermindEth/nethermind/pull/13236) - 2026-09-07
+* [Pull Request] [ci(nethtest): align the frame lane floor comment with the check it describes](https://github.com/NethermindEth/nethermind/pull/13247) - 2026-09-07
+* [Review] [Review on: fix(precompiles): check BN254 Add/Mul input length in release builds](https://github.com/NethermindEth/nethermind/pull/13208#pullrequestreview-5134602057) - 2026-09-07
+* [Pull Request] [frames devnet genesis fork-label alias (Don't merge)](https://github.com/NethermindEth/nethermind/pull/13239) - 2026-09-07
+* [Pull Request] [fix(eip8141): bound the frame-tx gas estimate per gas dimension](https://github.com/NethermindEth/nethermind/pull/13241) - 2026-09-07
+* [Review] [Review on: fix(eip8141): bound the frame-tx gas estimate per gas dimension](https://github.com/NethermindEth/nethermind/pull/13241#pullrequestreview-5134607213) - 2026-09-07
+* [Pull Request] [ci(nethtest): raise the frame lane case floors to the pinned release](https://github.com/NethermindEth/nethermind/pull/13229) - 2026-09-07
+* [Review] [Review on: ci(nethtest): raise the frame lane case floors to the pinned release](https://github.com/NethermindEth/nethermind/pull/13229#pullrequestreview-5134665162) - 2026-09-07
+* [Review] [Review on: perf: remove per-child and per-call overhead from the RLP encode path](https://github.com/NethermindEth/nethermind/pull/13226#pullrequestreview-5134598496) - 2026-09-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

@@ -185,6 +185,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyo
 * [Review] [Review on: Implement `eth/v1/beacon/light_client/updates`](https://github.com/Consensys-Incorporated/teku/pull/11202#pullrequestreview-5097430828) - 2026-09-03
 * [Review] [Review on: FCR Optimization part1: Speed up fast confirmation with memoization and one-pass chain scoring](https://github.com/Consensys-Incorporated/teku/pull/11212#pullrequestreview-5097394485) - 2026-09-03
 * [Review] [Review on: Compare gossip payload size against the compressed bound](https://github.com/Consensys-Incorporated/teku/pull/11223#pullrequestreview-5097805055) - 2026-09-03
+* [Pull Request] [ Add EIP-8198 quick slots scaffolding as new SpecMilestone after Heze](https://github.com/Consensys-Incorporated/teku/pull/11245) - 2026-09-07
+* [Pull Request] [Add EIP-8359 reporting field to Heze BeaconBlockBody (POC)](https://github.com/Consensys-Incorporated/teku/pull/11244) - 2026-09-07
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [Updated client identification code to NE](https://github.com/status-im/nimbus-eth1/pull/4447) - 2026-07-09
 

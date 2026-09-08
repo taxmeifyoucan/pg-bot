@@ -96,6 +96,7 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [
 * [Pull Request] [Pre-warm pending deposit signatures before the Gloas fork](https://github.com/OffchainLabs/prysm/pull/17440) - 2026-09-01
 * [Review] [Review on: Pre-warm pending deposit signatures before the Gloas fork](https://github.com/OffchainLabs/prysm/pull/17440#pullrequestreview-5081940635) - 2026-09-01
 * [Pull Request] [Reject bids with equal blockhash and parent blockhash](https://github.com/OffchainLabs/prysm/pull/17443) - 2026-09-02
+* [Pull Request] [Retry payload attestation data at the PTC deadline](https://github.com/OffchainLabs/prysm/pull/17468) - 2026-09-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Set payload deadline to 6 seconds into the slot](https://github.com/ethereum/consensus-specs/pull/5414) - 2026-07-02
 * [Pull Request] [Add allowed and reserved list of builder versions](https://github.com/ethereum/consensus-specs/pull/5422) - 2026-07-03

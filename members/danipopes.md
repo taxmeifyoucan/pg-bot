@@ -58,6 +58,9 @@ Team: Reth
 * [Review] [Review on: chore(ci): build only e2e test targets](https://github.com/paradigmxyz/reth/pull/27043#pullrequestreview-5127113108) - 2026-09-07
 * [Review] [Review on: chore(ci): cache test dependency artifacts](https://github.com/paradigmxyz/reth/pull/27040#pullrequestreview-5127112686) - 2026-09-07
 * [Review] [Review on: chore(ci): cancel superseded PR lint runs](https://github.com/paradigmxyz/reth/pull/27042#pullrequestreview-5127112073) - 2026-09-07
+* [Review] [Review on: chore(ci): remove separate benchmark hosting repository](https://github.com/paradigmxyz/reth/pull/27069#pullrequestreview-5135050047) - 2026-09-07
+* [Review] [Review on: perf(txpool): reuse subpool update buffer](https://github.com/paradigmxyz/reth/pull/27060#pullrequestreview-5132809436) - 2026-09-07
+* [Review] [Review on: perf(txpool): process insertion updates with one iterator](https://github.com/paradigmxyz/reth/pull/27064#pullrequestreview-5132797067) - 2026-09-07
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

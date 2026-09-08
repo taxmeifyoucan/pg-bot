@@ -351,6 +351,13 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Review] [Review on: cmd/capcli: migrate from kong to urfave/cli/v3](https://github.com/erigontech/erigon/pull/23789#pullrequestreview-5111661024) - 2026-09-04
 * [Review] [Review on: db/seg: drop dead code, fix the ParseFileCompression stub](https://github.com/erigontech/erigon/pull/23788#pullrequestreview-5111641679) - 2026-09-04
 * [Commit] [ci: update eest devnet fixtures to v8.1.4 (#23796)](https://github.com/erigontech/erigon/commit/6bdd2561f78e6e94a5614f39310d1ee442b05881) - 2026-09-04
+* [Review] [Review on: .claude: document what a benchmarkoor fixture's MGas/s actually measures](https://github.com/erigontech/erigon/pull/23792#pullrequestreview-5133983077) - 2026-09-07
+* [Review] [Review on: [r3.6] exec: rewrite the fee credit in place](https://github.com/erigontech/erigon/pull/23826#pullrequestreview-5134096984) - 2026-09-07
+* [Review] [Review on: [r3.6] exec: scope the stale fee-write drop to the fee addresses](https://github.com/erigontech/erigon/pull/23825#pullrequestreview-5133957383) - 2026-09-07
+* [Review] [Review on: `go.mod`: move `golangci-lint` to a dedicated `.mod`](https://github.com/erigontech/erigon/pull/23821#pullrequestreview-5133970942) - 2026-09-07
+* [Review] [Review on: commitment: workers amount to base on `GOMAXPROCS` instead of `NumCPU`](https://github.com/erigontech/erigon/pull/23814#pullrequestreview-5133989616) - 2026-09-07
+* [Review] [Review on: [r3.6] p2p/enode: fix flaky TestFairMixRemoveSource](https://github.com/erigontech/erigon/pull/23828#pullrequestreview-5133952861) - 2026-09-07
+* [Commit] [execution: remove EIP-7610 (#23706)](https://github.com/erigontech/erigon/commit/63c85db33d457e5c28d276c5cf20d883259be23f) - 2026-09-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [chore(test-client-clis): map erigon INVALID_SIGNATURE_VRS exception](https://github.com/ethereum/execution-specs/pull/3105) - 2026-07-06
 * [Commit] [fix(consume): map erigon INVALID_SIGNATURE_VRS exception (#3105)](https://github.com/ethereum/execution-specs/commit/e0e4abc744fda937ccb4da26b9d5c4bdd1e74bc5) - 2026-07-06

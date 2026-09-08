@@ -34,6 +34,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: add payload attestation service to validator client](https://github.com/status-im/nimbus-eth2/pull/8947#pullrequestreview-5080315694) - 2026-09-01
 * [Review] [Review on: Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946#pullrequestreview-5087670469) - 2026-09-02
 * [Review] [Review on: Allow modifying BN list / roles while validator client is running](https://github.com/status-im/nimbus-eth2/pull/8946#pullrequestreview-5102220869) - 2026-09-03
+* [Review] [Review on: add PTC duty tracking to VC](https://github.com/status-im/nimbus-eth2/pull/8924#pullrequestreview-5132957479) - 2026-09-07
 ## Q2 2026
 
 

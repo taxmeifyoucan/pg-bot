@@ -222,6 +222,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Add fake BLS backend for `bls_setting: 2` spectest cases](https://github.com/OffchainLabs/prysm/pull/17281#pullrequestreview-5117771651) - 2026-09-04
 * [Pull Request] [Regenerate attestation pre-states one at a time](https://github.com/OffchainLabs/prysm/pull/17456) - 2026-09-04
 * [Review] [Review on: Add fake BLS backend for `bls_setting: 2` spectest cases](https://github.com/OffchainLabs/prysm/pull/17281#pullrequestreview-5119807793) - 2026-09-05
+* [Review] [Review on: Revert "Update bls mock for spec tests touching deposits"](https://github.com/OffchainLabs/prysm/pull/17467#pullrequestreview-5133435437) - 2026-09-07
+* [Commit] [Implement fast confirmation rule  (#17122)](https://github.com/OffchainLabs/prysm/commit/e038e27ca823917b52f19f0aece3140abc21a8cf) - 2026-09-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

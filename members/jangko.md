@@ -122,6 +122,9 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Commit] [EVM system call now using SysCallParams (#4737)](https://github.com/status-im/nimbus-eth1/commit/653266203551aa05c0bf9ce44c8ce8a76601cbdc) - 2026-09-04
 * [Commit] [Update glamsterdam devnet fixtures to v8.1.4  (#4736)](https://github.com/status-im/nimbus-eth1/commit/eb9c0a236e6205fdec920b9de0556b70b0445beb) - 2026-09-04
 * [Review] [Review on: Nimbus light flavour](https://github.com/status-im/nimbus-eth1/pull/4357#pullrequestreview-5123804275) - 2026-09-06
+* [Pull Request] [Refactor CallParams and TxContext](https://github.com/status-im/nimbus-eth1/pull/4758) - 2026-09-07
+* [Review] [Review on: Refactor CallParams and TxContext](https://github.com/status-im/nimbus-eth1/pull/4758#pullrequestreview-5133031202) - 2026-09-07
+* [Review] [Review on: fix: peer overload in mainnet](https://github.com/status-im/nimbus-eth1/pull/4748#pullrequestreview-5127970575) - 2026-09-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

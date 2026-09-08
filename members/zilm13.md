@@ -133,6 +133,11 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Don't mark block as invalid when exception is unknown](https://github.com/Consensys-Incorporated/teku/pull/11231#pullrequestreview-5114879834) - 2026-09-04
 * [Pull Request] [Fix: OOM didn't force Teku to quit](https://github.com/Consensys-Incorporated/teku/pull/11241) - 2026-09-04
 * [Review] [Review on: Disable beacon proposer and validator registrations in Gloas](https://github.com/Consensys-Incorporated/teku/pull/11226#pullrequestreview-5111194484) - 2026-09-04
+* [Pull Request] [1/2 sidecars storage on supernodes: RPC logging + more RPC tests](https://github.com/Consensys-Incorporated/teku/pull/11183) - 2026-09-07
+* [Review] [Review on: Avoid duplicate metric events in FCR](https://github.com/Consensys-Incorporated/teku/pull/11198#pullrequestreview-5134508316) - 2026-09-07
+* [Review] [Review on: Consider builder bids during block production](https://github.com/Consensys-Incorporated/teku/pull/11209#pullrequestreview-5131575193) - 2026-09-07
+* [Review] [Review on: Clean-up empty overrides (ValidatorTimingChannel)](https://github.com/Consensys-Incorporated/teku/pull/11230#pullrequestreview-5130547850) - 2026-09-07
+* [Commit] [DataColumnSidecars RPC logging + more tests (#11183)](https://github.com/Consensys-Incorporated/teku/commit/c1d0237867f959e38d11ceca87876b53e7a64cd0) - 2026-09-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

@@ -63,6 +63,11 @@ Github: [@satushh](https://github.com/satushh)
 * [Pull Request] [Fix activation and exit queue ordering in GetValidatorQueue](https://github.com/OffchainLabs/prysm/pull/17442) - 2026-09-02
 * [Commit] [Use value slices for epoch-precompute validators and Altair attestation deltas (#17438)](https://github.com/OffchainLabs/prysm/commit/ed91a0cb80b35ff12cabcea1f799c884ef30a1ab) - 2026-09-03
 * [Review] [Review on: add grace period to REST ptc endpoint](https://github.com/OffchainLabs/prysm/pull/17457#pullrequestreview-5118046480) - 2026-09-04
+
+* [Review] [Review on: `POST graffiti`: Respond with `202` instead of `200` as per spec](https://github.com/OffchainLabs/prysm/pull/17449#pullrequestreview-5131143048) - 2026-09-07
+* [Commit] [Fix activation and exit queue ordering in GetValidatorQueue (#17442)](https://github.com/OffchainLabs/prysm/commit/fc4e5dfed7f24b7b62050c86d38bcae696022f0e) - 2026-09-07
+[ethereum/eips](https://github.com/ethereum/eips)
+* [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5134245722) - 2026-09-07
 ## Q2 2026
 
 

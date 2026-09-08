@@ -91,6 +91,7 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: perf: verify BLS signature sets with lodestar-z](https://github.com/ChainSafe/lodestar/pull/9820#pullrequestreview-4962592896) - 2026-08-18
 * [Pull Request] [test: enable is_one_confirmed deposit vectors](https://github.com/ChainSafe/lodestar/pull/9917) - 2026-08-26
 * [Review] [Review on: test: enable is_one_confirmed deposit vectors](https://github.com/ChainSafe/lodestar/pull/9917#pullrequestreview-5029815276) - 2026-08-26
+* [Pull Request] [fix: keep confirmed root pinned to finality while paused](https://github.com/ChainSafe/lodestar/pull/10027) - 2026-09-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Apply attester slashing before tick in FCR slashed validator tests](https://github.com/ethereum/consensus-specs/pull/5490) - 2026-07-28
 * [Pull Request] [Compute real aggregate pubkeys when BLS verification is disabled](https://github.com/ethereum/consensus-specs/pull/5489) - 2026-07-28

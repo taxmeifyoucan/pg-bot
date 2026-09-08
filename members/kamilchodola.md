@@ -173,6 +173,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [fix(rpc): keep the module rented until a streamed result has been written (#13095)](https://github.com/NethermindEth/nethermind/commit/19556949b0165e738fe957d3c47b6d9c1efd9030) - 2026-09-03
 * [Pull Request] [perf(evm): trim per-instruction overhead in eth_call](https://github.com/NethermindEth/nethermind/pull/13141) - 2026-09-04
 * [Review] [Review on: perf(evm): trim per-instruction overhead in eth_call](https://github.com/NethermindEth/nethermind/pull/13141#pullrequestreview-5115903562) - 2026-09-04
+* [Pull Request] [perf(evm): port the remaining #13141 trims onto optimize-vm](https://github.com/NethermindEth/nethermind/pull/13233) - 2026-09-07
+* [Review] [Review on: perf(evm): port the remaining #13141 trims onto optimize-vm](https://github.com/NethermindEth/nethermind/pull/13233#pullrequestreview-5133804675) - 2026-09-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

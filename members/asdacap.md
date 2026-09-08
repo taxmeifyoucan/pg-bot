@@ -192,6 +192,8 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: test(sync): let Retry absorb an E2E sync timeout](https://github.com/NethermindEth/nethermind/pull/13105#pullrequestreview-5099426334) - 2026-09-03
 * [Review] [Review on: fix(rpc): keep the module rented until a streamed result has been written](https://github.com/NethermindEth/nethermind/pull/13095#pullrequestreview-5099416139) - 2026-09-03
 * [Review] [Review on: fix(sync): stop a malformed header response from stalling fast-headers sync](https://github.com/NethermindEth/nethermind/pull/13019#pullrequestreview-5098813831) - 2026-09-03
+* [Review] [Review on: Reduce Kademlia discovery traffic on healthy tables](https://github.com/NethermindEth/nethermind/pull/13124#pullrequestreview-5131466797) - 2026-09-07
+* [Pull Request] [chore(db): demote RocksDbMem log from info to debug](https://github.com/NethermindEth/nethermind/pull/13219) - 2026-09-07
 ## Q2 2026
 
 

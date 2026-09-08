@@ -77,6 +77,9 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Pull Request] [Build envelope full with their preset limits](https://github.com/grandinetech/grandine/pull/902) - 2026-09-03
 * [Commit] [Prepare next slot execution payload after PTC votes and payload reveal](https://github.com/grandinetech/grandine/commit/a740b9ccfa2828ae117f213dff5876c84bc71658) - 2026-09-03
 * [Commit] [Build envelope full with their preset limits](https://github.com/grandinetech/grandine/commit/921748513bdf8048ba0535c893f694794cbc59f9) - 2026-09-03
+* [Review] [Review on: Replay persisted execution payload envelopes at restart](https://github.com/grandinetech/grandine/pull/887#pullrequestreview-5128909832) - 2026-09-07
+* [Issue] [Update ssz-specs to v0.1.0](https://github.com/grandinetech/grandine/issues/911) - 2026-09-07
+* [Issue] [Update consensus specs to v1.7.0-beta.0](https://github.com/grandinetech/grandine/issues/910) - 2026-09-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

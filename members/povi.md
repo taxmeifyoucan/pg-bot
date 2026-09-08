@@ -89,6 +89,9 @@ Team: Grandine
 * [Pull Request] [Batched attestation handlers for performance reasons](https://github.com/grandinetech/grandine/pull/908) - 2026-09-04
 * [Commit] [Avoid deep cloning seen gossip attesters and aggregators](https://github.com/grandinetech/grandine/commit/2c05ff3a53894aa72eae60a148ba356fb63a488a) - 2026-09-04
 * [Commit] [Batch attestation and payload attestation handlers for performance reasons](https://github.com/grandinetech/grandine/commit/713420c47a6adaf078cf77c1c4b21111c6a5e9f5) - 2026-09-04
+* [Pull Request] [Update builder deposit cache so it handles some edge cases](https://github.com/grandinetech/grandine/pull/913) - 2026-09-07
+* [Review] [Review on: Replay persisted execution payload envelopes at restart](https://github.com/grandinetech/grandine/pull/887#pullrequestreview-5130659830) - 2026-09-07
+* [Issue] [[Glamsterdam] Investigate slow serving of payloads](https://github.com/grandinetech/grandine/issues/909) - 2026-09-07
 ## Q2 2026
 
 

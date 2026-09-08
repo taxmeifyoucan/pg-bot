@@ -301,6 +301,10 @@ Team: [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec
 * [Review] [Review on: refactor(tests): enhance EIP-8037 test coverage part 4](https://github.com/ethereum/execution-specs/pull/3511#pullrequestreview-5110305531) - 2026-09-04
 * [Commit] [feat(spec-specs, tests): repay spilled state gas from the reservoir when a child merges (#3478)](https://github.com/ethereum/execution-specs/commit/132d1149a257c5174dfd2f38f8cf1cb521780f06) - 2026-09-04
 * [Commit] [refactor(spec-specs,tests): clarify top-frame gas and derive CALL_VALUE (#3527)](https://github.com/ethereum/execution-specs/commit/39e8810f76eee73fb7a8166abd1929298846c3f2) - 2026-09-04
+* [Pull Request] [test(tests): cover block state budget after authorization preparation rollback](https://github.com/ethereum/execution-specs/pull/3540) - 2026-09-07
+* [Commit] [chore(tests): improve EIP-2780 coverage, checklist, and ref-spec pin (#3515)](https://github.com/ethereum/execution-specs/commit/086963a6ac04e6002b917fa4b419877aeefb8d9e) - 2026-09-07
+* [Commit] [feat(tests): cover EIP-8037 static-call reservoirs and block activation (#3525)](https://github.com/ethereum/execution-specs/commit/645df047e16663e90076d411b0980b5bc637b489) - 2026-09-07
+* [Commit] [refactor(tests): size gas-boundary cases with fork calculators (#3530)](https://github.com/ethereum/execution-specs/commit/80edd401acd32611d9c98a77a999c42d4952476f) - 2026-09-07
 [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: chore(docs): update README for archive](https://github.com/ethereum/execution-spec-tests/pull/2326#pullrequestreview-4616919116) - 2026-07-02
 

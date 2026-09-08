@@ -94,6 +94,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ada
 * [Pull Request] [Reject an empty EIP-7702 authorization list in validation, not in decoding](https://github.com/besu-eth/besu/pull/11193) - 2026-08-30
 * [Pull Request] [engine: name executionRequests in the unsupported-request-type error](https://github.com/besu-eth/besu/pull/11192) - 2026-08-30
 * [Commit] [Run Hive tests via evmtool (#11030)](https://github.com/besu-eth/besu/commit/79e04eee5d7ce24e7e85262dba91eca03df179c0) - 2026-08-31
+* [Pull Request] [Stop callTracer forcing full EVM memory capture on every opcode](https://github.com/besu-eth/besu/pull/11251) - 2026-09-07
 [ethereum/hive](https://github.com/ethereum/hive)
 * [Pull Request] [clients/besu: remove incorrect EIP-8282 builder request contract addresses](https://github.com/ethereum/hive/pull/1575) - 2026-07-15
 

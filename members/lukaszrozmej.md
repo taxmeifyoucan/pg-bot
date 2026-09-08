@@ -340,6 +340,22 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [test(evm): a guest-build test project, covering the scalar jumpdest scan (#13146)](https://github.com/NethermindEth/nethermind/commit/394f7bcb64030909c5c4a6692e97ae0dc26e9a4f) - 2026-09-06
 * [Commit] [perf: OR and XOR byte spans a word at a time in the scalar fallback (#13145)](https://github.com/NethermindEth/nethermind/commit/adf726561f6e962c419a234d26bbef162bd3897d) - 2026-09-06
 * [Commit] [perf: compare storage slots through UInt256's own equality (#13150)](https://github.com/NethermindEth/nethermind/commit/75b18b762b0d3f9d633d3d4822f3d8b91c27fb58) - 2026-09-06
+* [Review] [Review on: fix(evm): fail loud on violated EIP-8037 state-gas invariants (F-38)](https://github.com/NethermindEth/nethermind/pull/13178#pullrequestreview-5134353735) - 2026-09-07
+* [Pull Request] [perf: inline the small RlpReader members and drop dead hash compares](https://github.com/NethermindEth/nethermind/pull/13215) - 2026-09-07
+* [Review] [Review on: perf: inline the small RlpReader members and drop dead hash compares](https://github.com/NethermindEth/nethermind/pull/13215#pullrequestreview-5132776627) - 2026-09-07
+* [Review] [Review on: Reject undersized ECIES ciphertexts with controlled exceptions](https://github.com/NethermindEth/nethermind/pull/13135#pullrequestreview-5134425384) - 2026-09-07
+* [Review] [Review on: fix(precompiles): check BN254 Add/Mul input length in release builds](https://github.com/NethermindEth/nethermind/pull/13208#pullrequestreview-5134523792) - 2026-09-07
+* [Review] [Review on: chore(db): demote RocksDbMem log from info to debug](https://github.com/NethermindEth/nethermind/pull/13219#pullrequestreview-5134315944) - 2026-09-07
+* [Review] [Review on: fix(rpc): reject a missing-argument marker on a required parameter](https://github.com/NethermindEth/nethermind/pull/13235#pullrequestreview-5134399756) - 2026-09-07
+* [Pull Request] [fix: dispose the improvement context that replaces a retrieved payload](https://github.com/NethermindEth/nethermind/pull/13206) - 2026-09-07
+* [Pull Request] [perf: remove per-child and per-call overhead from the RLP encode path](https://github.com/NethermindEth/nethermind/pull/13226) - 2026-09-07
+* [Commit] [test(merge): deflake the FCU ancestry-walk assertion (#13234)](https://github.com/NethermindEth/nethermind/commit/f8c7dee484615e543b76b8148dd54b6f825c2abf) - 2026-09-07
+* [Commit] [refactor(test): replace stacked [TestCase] attributes with [Values] (#13190)](https://github.com/NethermindEth/nethermind/commit/b175e19c6014390e57bfa2634d8ac531d50431e7) - 2026-09-07
+* [Commit] [test: wait for the pre-fork revalidation before resubmitting the evicted tx (#13207)](https://github.com/NethermindEth/nethermind/commit/cfba88728f6c94a08146143469c05f0dc6dc397c) - 2026-09-07
+* [Commit] [perf(evm): answer precompile membership from a bitmask on the spec (#13183)](https://github.com/NethermindEth/nethermind/commit/93f62c88ac436b0ed0c83171ed5106ebff239e4c) - 2026-09-07
+* [Commit] [perf: encode a branch node in one pass (#13167)](https://github.com/NethermindEth/nethermind/commit/25a750d4e272b4ce8b9176da9c83aad98ef1fd96) - 2026-09-07
+* [Commit] [Add background scheduler stats (#9956)](https://github.com/NethermindEth/nethermind/commit/e5d24d912f301c32152d35b2e93cba6450af0a14) - 2026-09-07
+* [Commit] [test: drive request-sizer latency from a ManualTimeProvider (#13192)](https://github.com/NethermindEth/nethermind/commit/527de8a542085cb4140d8046de832258ab635bfd) - 2026-09-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

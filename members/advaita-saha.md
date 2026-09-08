@@ -101,6 +101,10 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=a
 * [Commit] [fix pruned db rpc fetch request (#4716)](https://github.com/status-im/nimbus-eth1/commit/c78423a22377a06cab6bbf9ef52ffb1670ddeb46) - 2026-09-04
 * [Pull Request] [fix: peer overload in mainnet](https://github.com/status-im/nimbus-eth1/pull/4748) - 2026-09-06
 * [Review] [Review on: Nimbus light flavour](https://github.com/status-im/nimbus-eth1/pull/4357#pullrequestreview-5124770198) - 2026-09-06
+* [Pull Request] [transition `SeenObject` to seq[NodeId] from hashtable](https://github.com/status-im/nimbus-eth1/pull/4753) - 2026-09-07
+* [Review] [Review on: fix: peer overload in mainnet](https://github.com/status-im/nimbus-eth1/pull/4748#pullrequestreview-5129075777) - 2026-09-07
+* [Commit] [transition to seq[NodeId] from hashtable (#4753)](https://github.com/status-im/nimbus-eth1/commit/f81b344dafe4a69a73819c54c41e7ef20948ad4d) - 2026-09-07
+* [Commit] [Nimbus light flavour (#4357)](https://github.com/status-im/nimbus-eth1/commit/b8611dcd6d2be0bc0ea930651980daeecd19f4de) - 2026-09-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785) - 2026-07-19
 * [Review] [Review on: split the LC startup for use in unified client](https://github.com/status-im/nimbus-eth2/pull/8785#pullrequestreview-4753183436) - 2026-07-22

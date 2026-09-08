@@ -1332,6 +1332,36 @@ Team: Erigon
 * [Review] [Review on: QA: add rpc tets for callTracer with failed creation](https://github.com/erigontech/erigon/pull/23811#pullrequestreview-5124436988) - 2026-09-06
 * [Pull Request] [db/seg: fault mapped pages in from C so the read releases its P](https://github.com/erigontech/erigon/pull/23815) - 2026-09-06
 * [Review] [Review on: db/seg: stop ReadFrom decoding into the file mapping](https://github.com/erigontech/erigon/pull/23810#pullrequestreview-5124066837) - 2026-09-06
+* [Pull Request] [db/state: replace the .vi perfect hash with two Elias-Fano sequences (40.11GB -> 549MB)](https://github.com/erigontech/erigon/pull/23844) - 2026-09-07
+* [Review] [Review on: db/state: replace the .vi perfect hash with two Elias-Fano sequences (40.11GB -> 549MB)](https://github.com/erigontech/erigon/pull/23844#pullrequestreview-5136530100) - 2026-09-08
+* [Review] [Review on: rpc/jsonrpc: acquire the overlay atomically in the block, tx, receipt, uncle and txpool getters](https://github.com/erigontech/erigon/pull/23824#pullrequestreview-5136420878) - 2026-09-08
+* [Review] [Review on: [r3.6] ci: backport dependabot action bumps from main](https://github.com/erigontech/erigon/pull/23850#pullrequestreview-5132599734) - 2026-09-07
+* [Pull Request] [[r3.6] exec: rewrite the fee credit in place](https://github.com/erigontech/erigon/pull/23826) - 2026-09-07
+* [Pull Request] [[r3.6] exec: scope the stale fee-write drop to the fee addresses](https://github.com/erigontech/erigon/pull/23825) - 2026-09-07
+* [Pull Request] [cl/network: widen the slow-probe rotation test window](https://github.com/erigontech/erigon/pull/23857) - 2026-09-08
+* [Pull Request] [node/debug: raise GOMAXPROCS by 2 for IO overlap](https://github.com/erigontech/erigon/pull/23843) - 2026-09-07
+* [Pull Request] [cl/phase1/forkchoice: bound badBlocks so a peer cannot grow it without limit](https://github.com/erigontech/erigon/pull/23830) - 2026-09-07
+* [Review] [Review on: cl/phase1/forkchoice: bound badBlocks so a peer cannot grow it without limit](https://github.com/erigontech/erigon/pull/23830#pullrequestreview-5136326401) - 2026-09-08
+* [Pull Request] [cl/cltypes: size Gloas execution-request decode guards by the chunk limit](https://github.com/erigontech/erigon/pull/23829) - 2026-09-07
+* [Review] [Review on: cl/cltypes: size Gloas execution-request decode guards by the chunk limit](https://github.com/erigontech/erigon/pull/23829#pullrequestreview-5136321968) - 2026-09-08
+* [Pull Request] [cl/services: claim the attestation seen slot only after signature verification](https://github.com/erigontech/erigon/pull/23832) - 2026-09-07
+* [Review] [Review on: cl/services: claim the attestation seen slot only after signature verification](https://github.com/erigontech/erigon/pull/23832#pullrequestreview-5136311343) - 2026-09-08
+* [Pull Request] [cl/services: ignore, and retry, a block the execution layer did not answer for](https://github.com/erigontech/erigon/pull/23836) - 2026-09-07
+* [Review] [Review on: cl/services: ignore, and retry, a block the execution layer did not answer for](https://github.com/erigontech/erigon/pull/23836#pullrequestreview-5136301105) - 2026-09-08
+* [Pull Request] [cl/network: do not ban a peer for an empty BeaconBlocksByRange response](https://github.com/erigontech/erigon/pull/23837) - 2026-09-07
+* [Review] [Review on: cl/network: do not ban a peer for an empty BeaconBlocksByRange response](https://github.com/erigontech/erigon/pull/23837#pullrequestreview-5136294562) - 2026-09-08
+* [Pull Request] [db: make ResetNextSalt actually reset](https://github.com/erigontech/erigon/pull/23853) - 2026-09-07
+* [Pull Request] [db/recsplit: spill Enums=true offsets as gaps, read them back streamed](https://github.com/erigontech/erigon/pull/23846) - 2026-09-07
+* [Pull Request] [[r3.6] p2p/enode: fix flaky TestFairMixRemoveSource](https://github.com/erigontech/erigon/pull/23828) - 2026-09-07
+* [Review] [Review on: [r3.6] cl, cmd/utils: derive the column retention window from the chain config](https://github.com/erigontech/erigon/pull/23851#pullrequestreview-5132601011) - 2026-09-07
+* [Review] [Review on: ci: bump docker builder image to golang:1.27-trixie](https://github.com/erigontech/erigon/pull/23849#pullrequestreview-5131956448) - 2026-09-07
+* [Commit] [.claude: document what a benchmarkoor fixture's MGas/s actually measures (#23792)](https://github.com/erigontech/erigon/commit/9d1e60b5604bd24bf4776e13d89f03fd7fecd0d3) - 2026-09-08
+* [Commit] [`go.mod`: move `golangci-lint` to a dedicated `.mod` (#23821)](https://github.com/erigontech/erigon/commit/0b5f1054ae65de69dc7202a4ce1c7d80a487b7c3) - 2026-09-08
+* [Commit] [commitment: workers amount to base on `GOMAXPROCS` instead of `NumCPU` (#23814)](https://github.com/erigontech/erigon/commit/ca92051f14fb64f85aa8abbdce2f3a7260090771) - 2026-09-07
+* [Commit] [db: decode Code to re-usable buf and return to caller cached copy (#23798)](https://github.com/erigontech/erigon/commit/1aedddd1629aebba6c92f19f3ae3b1d045070287) - 2026-09-07
+* [Commit] [mem: set default `GOMEMLIMIT` to 80% of total ram (cgroup-aware) (#23757)](https://github.com/erigontech/erigon/commit/a32f6474662238e82b2492f003f544653975bc38) - 2026-09-07
+* [Commit] [lru: accounting per-key overhead (#23552)](https://github.com/erigontech/erigon/commit/b7aef0061f56d8b67352598fa08fda210221fd75) - 2026-09-07
+* [Commit] [mcp: fix log stats, tail memory and rpc.url discovery; drop dead code (#23786)](https://github.com/erigontech/erigon/commit/fdcd61eab54fcac94ff8074082bfe1ac0319384f) - 2026-09-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Review] [Review on: Skip zero ports when building peer dial addresses](https://github.com/status-im/nimbus-eth2/pull/8710#pullrequestreview-4642078787) - 2026-07-07
 

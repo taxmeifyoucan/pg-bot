@@ -86,6 +86,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Re-enable optimistic sync for Gloas payload envelopes](https://github.com/sigp/lighthouse/pull/9934#pullrequestreview-5088002253) - 2026-09-02
 * [Review] [Review on: Revert `fork_choice::payload_received` when envelope db write fails](https://github.com/sigp/lighthouse/pull/9978#pullrequestreview-5127111913) - 2026-09-07
 * [Issue] [Gloas `filter_voluntary_exits_for_parent_execution_requests` needs to account for partial withdrawals](https://github.com/sigp/lighthouse/issues/9981) - 2026-09-07
+* [Review] [Review on: Add `engine_getPayloadBodiesByHashV2` support](https://github.com/sigp/lighthouse/pull/9980#pullrequestreview-5136227242) - 2026-09-08
+* [Pull Request] [Remove buggy parent_root calculations from Gloas block production](https://github.com/sigp/lighthouse/pull/9997) - 2026-09-08
+* [Pull Request] [Ignore exits for all withdrawing validators in Gloas block prod](https://github.com/sigp/lighthouse/pull/9983) - 2026-09-07
+* [Pull Request] [Update Docker builder to Debian Bookworm](https://github.com/sigp/lighthouse/pull/9984) - 2026-09-07
+* [Review] [Review on: Implement `engine_getPayloadBodiesByHashV2`](https://github.com/sigp/lighthouse/pull/9982#pullrequestreview-5127608982) - 2026-09-07
+* [Issue] [Flaky test](https://github.com/sigp/lighthouse/issues/9999) - 2026-09-08
+* [Issue] [Delete code for `get_payload_bodies_by_range` (V1)](https://github.com/sigp/lighthouse/issues/9996) - 2026-09-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31

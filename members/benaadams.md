@@ -293,6 +293,24 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [perf(zkevm): fold the guest's fork rules and threading out of the image (#13188)](https://github.com/NethermindEth/nethermind/commit/b42c7bda6f521fea9441a08f22fc6f3e67b8bdab) - 2026-09-06
 * [Commit] [build(zkevm): drop the stack-trace table and symbol tables from the guest (#13182)](https://github.com/NethermindEth/nethermind/commit/90dbfaf6112fced17071a2a3ce068d3c787fe48d) - 2026-09-06
 * [Commit] [perf(zkevm): leave the embedded chainspecs out of the guest build (#13181)](https://github.com/NethermindEth/nethermind/commit/3a0a311702315a340da4571d95289078e19da806) - 2026-09-06
+* [Review] [Review on: test(eip8141): own the flood generator's thread and wire the producer rig from production](https://github.com/NethermindEth/nethermind/pull/13242#pullrequestreview-5135661321) - 2026-09-07
+* [Review] [Review on: fix(rpc): resolve block tags in debug_traceTransactionByBlockAndIndex](https://github.com/NethermindEth/nethermind/pull/13138#pullrequestreview-5134956103) - 2026-09-07
+* [Review] [Review on: fix(eth72): announce the blob-elided network size, not the consensus size](https://github.com/NethermindEth/nethermind/pull/13049#pullrequestreview-5135524266) - 2026-09-07
+* [Review] [Review on: fix(evm): fail loud on violated EIP-8037 state-gas invariants (F-38)](https://github.com/NethermindEth/nethermind/pull/13178#pullrequestreview-5134738640) - 2026-09-07
+* [Review] [Review on: perf: inline the small RlpReader members and drop dead hash compares](https://github.com/NethermindEth/nethermind/pull/13215#pullrequestreview-5134446773) - 2026-09-07
+* [Review] [Review on: Reduce Kademlia discovery traffic on healthy tables](https://github.com/NethermindEth/nethermind/pull/13124#pullrequestreview-5135074640) - 2026-09-07
+* [Review] [Review on: fix(jsonrpc): frame a malformed chunked body as an invalid request](https://github.com/NethermindEth/nethermind/pull/13246#pullrequestreview-5134621574) - 2026-09-07
+* [Review] [Review on: fix(rpc): stop unauthenticated callers flooding the log with -32602](https://github.com/NethermindEth/nethermind/pull/13175#pullrequestreview-5134923980) - 2026-09-07
+* [Review] [Review on: fix(eip8141): close the flood-harness gaps flagged on #13041](https://github.com/NethermindEth/nethermind/pull/13231#pullrequestreview-5134700853) - 2026-09-07
+* [Review] [Review on: chore(db): demote RocksDbMem log from info to debug](https://github.com/NethermindEth/nethermind/pull/13219#pullrequestreview-5134690800) - 2026-09-07
+* [Review] [Review on: fix(rpc): reject a missing-argument marker on a required parameter](https://github.com/NethermindEth/nethermind/pull/13235#pullrequestreview-5134462114) - 2026-09-07
+* [Review] [Review on: fix: dispose the improvement context that replaces a retrieved payload](https://github.com/NethermindEth/nethermind/pull/13206#pullrequestreview-5134527788) - 2026-09-07
+* [Pull Request] [fix(flatdb): prune finalized forks from persisted snapshots](https://github.com/NethermindEth/nethermind/pull/13230) - 2026-09-07
+* [Review] [Review on: fix(flatdb): prune finalized forks from persisted snapshots](https://github.com/NethermindEth/nethermind/pull/13230#pullrequestreview-5133450533) - 2026-09-07
+* [Review] [Review on: perf: remove per-child and per-call overhead from the RLP encode path](https://github.com/NethermindEth/nethermind/pull/13226#pullrequestreview-5134491025) - 2026-09-07
+* [Commit] [Reduce EVM opcode dispatch and call-frame overhead (#13189)](https://github.com/NethermindEth/nethermind/commit/014462bff656b2846792bed8bcd345cc3a4a2a0e) - 2026-09-07
+* [Commit] [fix(flatdb): release compacted snapshots after base conversion (#13223)](https://github.com/NethermindEth/nethermind/commit/5f3f59ee082b3fbe2ffb1c85f7c0f742113d7689) - 2026-09-07
+* [Commit] [fix(jsonrpc): do not format the request when logging an OutOfMemoryException (#13225)](https://github.com/NethermindEth/nethermind/commit/221dff270347dcf1676e0927e5c0368aa5ede485) - 2026-09-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

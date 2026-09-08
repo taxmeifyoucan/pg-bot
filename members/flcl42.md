@@ -301,6 +301,9 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix(sync): look up receipt bodies by number and hash](https://github.com/NethermindEth/nethermind/pull/13139#pullrequestreview-5112738635) - 2026-09-04
 * [Pull Request] [Reject undersized ECIES ciphertexts with controlled exceptions](https://github.com/NethermindEth/nethermind/pull/13135) - 2026-09-04
 * [Review] [Review on: fix(rlp): break the Rlp/TxDecoder type initializer cycle](https://github.com/NethermindEth/nethermind/pull/13158#pullrequestreview-5122739414) - 2026-09-05
+* [Review] [Review on: fix: dispose the improvement context that replaces a retrieved payload](https://github.com/NethermindEth/nethermind/pull/13206#pullrequestreview-5131701103) - 2026-09-07
+* [Review] [Review on: perf: remove per-child and per-call overhead from the RLP encode path](https://github.com/NethermindEth/nethermind/pull/13226#pullrequestreview-5133450266) - 2026-09-07
+* [Commit] [Enable nullables in EVM, Trie, and State (#13099)](https://github.com/NethermindEth/nethermind/commit/53ea862f650c2e1ae32e22e7781a1fd1a9976789) - 2026-09-07
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

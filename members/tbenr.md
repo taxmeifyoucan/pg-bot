@@ -104,6 +104,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Issue] [fix GossipProposerPreferences reference tests](https://github.com/Consensys-Incorporated/teku/issues/11232) - 2026-09-04
 * [Issue] [spec 1.7.0-beta.0](https://github.com/Consensys-Incorporated/teku/issues/11228) - 2026-09-04
 * [Commit] [bids with equal block hash and parent block hash are invalid (#11221)](https://github.com/Consensys-Incorporated/teku/commit/82925a34b4a9c0a7cb00b54e97f6e6d7c898cd1d) - 2026-09-04
+* [Pull Request] [Revalidate future blocks on slot replay](https://github.com/Consensys-Incorporated/teku/pull/11247) - 2026-09-07
+* [Review] [Review on: Revalidate future blocks on slot replay](https://github.com/Consensys-Incorporated/teku/pull/11247#pullrequestreview-5134474742) - 2026-09-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07
@@ -113,6 +115,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Pull Request] [Test parent payload availability before attestation rewards](https://github.com/ethereum/consensus-specs/pull/5514) - 2026-08-04
 * [Commit] [Test parent payload availability before attestation rewards (#5514)](https://github.com/ethereum/consensus-specs/commit/46d3d35132209b5a0af531eabba8a73db328d14b) - 2026-08-04
 * [Review] [Review on: Reject bids with `block_hash` equal to `parent_block_hash`](https://github.com/ethereum/consensus-specs/pull/5594#pullrequestreview-5092347730) - 2026-09-02
+* [Review] [Review on: Only serve canonical payload envelopes by range](https://github.com/ethereum/consensus-specs/pull/5608#pullrequestreview-5134073982) - 2026-09-07
 [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p)
 * [Pull Request] [QUIC memory leak fix](https://github.com/libp2p/jvm-libp2p/pull/504) - 2026-07-15
 * [Review] [Review on: Support backpressure in P2PService (Gossipsub base class)](https://github.com/libp2p/jvm-libp2p/pull/505#pullrequestreview-4767982333) - 2026-07-23

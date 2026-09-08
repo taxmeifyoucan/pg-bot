@@ -32,6 +32,10 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Alucass
 * [Commit] [Merge pull request #524 from lucassaldanha/fix/quic-ssl-task-executor-race](https://github.com/libp2p/jvm-libp2p/commit/da462a6d5744c9e73cbb1b0ac642f07d731eefbf) - 2026-09-01
 * [Review] [Review on: Consolidate per type counters on gossip](https://github.com/libp2p/jvm-libp2p/pull/525#pullrequestreview-5097555927) - 2026-09-03
 * [Issue] [Cross-impl gossipsub: direction-dependent silent stream drop in P2PServiceSemiDuplex (subscription/GRAFT lost vs go-libp2p)](https://github.com/libp2p/jvm-libp2p/issues/526) - 2026-09-03
+* [Pull Request] [fix(gossip): open a single outbound stream per peer](https://github.com/libp2p/jvm-libp2p/pull/528) - 2026-09-07
+* [Issue] [hanvleIWant ignores IDONTWANT, so we send messages go-libp2p and rust-libp2p would skip](https://github.com/libp2p/jvm-libp2p/issues/527) - 2026-09-07
+* [Commit] [Merge pull request #525 from lucassaldanha/wortree/consolidate-per-type-counters](https://github.com/libp2p/jvm-libp2p/commit/1871b08e7f127fa706c9d3277b4e183ec837fce7) - 2026-09-07
+* [Commit] [test(gossip): cover IWANT response amplification](https://github.com/libp2p/jvm-libp2p/commit/574f1b4d8a731cee0d6cf98bf95b2f1321695b74) - 2026-09-07
 [Consensys/teku](https://github.com/Consensys/teku)
 * [Review] [Review on: Remove web3j from production](https://github.com/Consensys/teku/pull/11000#pullrequestreview-4792434839) - 2026-07-27
 * [Review] [Review on: fix for jreleaser](https://github.com/Consensys/teku/pull/11016#pullrequestreview-4792520792) - 2026-07-28

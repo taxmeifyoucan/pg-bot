@@ -254,6 +254,13 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [t8n: Report the block gas used that apply_block computes (#1698)](https://github.com/ipsilon/evmone/commit/13ec12d93c4be244f70bcd751b24bb7409a1b64d) - 2026-09-04
 * [Commit] [test: Group the integration tests by the command they run (#1695)](https://github.com/ipsilon/evmone/commit/25e59e2104c61cfa640ecee37671d5f6a4d928d2) - 2026-09-04
 * [Review] [Review on: test: Make a fixture file the only kind of test](https://github.com/ipsilon/evmone/pull/1699#pullrequestreview-5120384257) - 2026-09-05
+* [Review] [Review on: test: Add the evmone test command](https://github.com/ipsilon/evmone/pull/1685#pullrequestreview-5132098592) - 2026-09-07
+* [Pull Request] [test: Collect test files as plain paths](https://github.com/ipsilon/evmone/pull/1701) - 2026-09-07
+* [Review] [Review on: test: Collect test files as plain paths](https://github.com/ipsilon/evmone/pull/1701#pullrequestreview-5130917775) - 2026-09-07
+* [Issue] [evmone test: count -k deselected fixtures separately from skipped](https://github.com/ipsilon/evmone/issues/1703) - 2026-09-07
+* [Issue] [evmone test: add a --verbose flag to name each fixture as it runs](https://github.com/ipsilon/evmone/issues/1702) - 2026-09-07
+* [Commit] [test: Make a fixture file the only kind of test (#1699)](https://github.com/ipsilon/evmone/commit/20c5b225e45f28560a2f8bab6d7e2e14b82a0086) - 2026-09-07
+* [Commit] [test: Collect test files as plain paths (#1701)](https://github.com/ipsilon/evmone/commit/ab3d68edd375cef04609f69dea90d3f71c3bf187) - 2026-09-07
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -345,6 +352,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Commit] [Update EIP-8037: correct the general state-gas charge timing](https://github.com/ethereum/EIPs/commit/c406bdb2ffbf2fbf9d85698e97b3b2e8b6e79112) - 2026-09-04
 * [Commit] [Update EIP-8037: remove the duplicated calldata floor note](https://github.com/ethereum/EIPs/commit/58596a9911b945fc855caa80a904c5b3f4c4f254) - 2026-09-04
 * [Commit] [Update EIP-8037: restore a frame's state-gas on rollback](https://github.com/ethereum/EIPs/commit/65d177d431638639d35897d6e869301a5ea8a02c) - 2026-09-04
+* [Pull Request] [Update EIP-8037: keep pre-execution state-gas out of the frame rollback](https://github.com/ethereum/EIPs/pull/12303) - 2026-09-07
 [erigontech/erigon](https://github.com/erigontech/erigon)
 * [Review] [Review on: types: reject legacy transactions in typed envelopes](https://github.com/erigontech/erigon/pull/22522#pullrequestreview-4717730901) - 2026-07-16
 * [Pull Request] [types: reject empty-string element in RLP transaction-list decode](https://github.com/erigontech/erigon/pull/22514) - 2026-07-16

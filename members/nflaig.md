@@ -491,6 +491,23 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: test: enable payload attestation spec tests](https://github.com/ChainSafe/lodestar/pull/10015#pullrequestreview-5120309550) - 2026-09-05
 * [Review] [Review on: fix: do not treat sibling payload variants as non-canonical blocks](https://github.com/ChainSafe/lodestar/pull/10017#pullrequestreview-5125075267) - 2026-09-06
 * [Review] [Review on: chore: copy packages/builder/package.json in Dockerfile.dev](https://github.com/ChainSafe/lodestar/pull/10019#pullrequestreview-5125791322) - 2026-09-06
+* [Review] [Review on: chore: rank and identify builder bid candidates in log](https://github.com/ChainSafe/lodestar/pull/9966#pullrequestreview-5135346816) - 2026-09-07
+* [Pull Request] [fix: check the parent envelope block root in chain segment assertion](https://github.com/ChainSafe/lodestar/pull/10033) - 2026-09-07
+* [Review] [Review on: chore(deps): bump softprops/action-gh-release from 3.0.2 to 3.0.3 in the actions group](https://github.com/ChainSafe/lodestar/pull/10032#pullrequestreview-5133696432) - 2026-09-07
+* [Pull Request] [feat: surface range sync batches that fail after max attempts](https://github.com/ChainSafe/lodestar/pull/10029) - 2026-09-07
+* [Review] [Review on: feat: surface range sync batches that fail after max attempts](https://github.com/ChainSafe/lodestar/pull/10029#pullrequestreview-5132005701) - 2026-09-07
+* [Review] [Review on: fix: keep confirmed root pinned to finality while paused](https://github.com/ChainSafe/lodestar/pull/10027#pullrequestreview-5132967833) - 2026-09-07
+* [Pull Request] [chore: log block and payload import errors by severity](https://github.com/ChainSafe/lodestar/pull/10030) - 2026-09-07
+* [Review] [Review on: chore: log block and payload import errors by severity](https://github.com/ChainSafe/lodestar/pull/10030#pullrequestreview-5132032290) - 2026-09-07
+* [Pull Request] [fix: prune rejected blocks from the seen cache in range sync](https://github.com/ChainSafe/lodestar/pull/10028) - 2026-09-07
+* [Review] [Review on: fix: prune rejected blocks from the seen cache in range sync](https://github.com/ChainSafe/lodestar/pull/10028#pullrequestreview-5131990053) - 2026-09-07
+* [Pull Request] [fix: prune rejected payload envelopes from the seen cache in range sync](https://github.com/ChainSafe/lodestar/pull/10025) - 2026-09-07
+* [Pull Request] [fix: do not abort validator monitor epoch summaries on unknown block roots](https://github.com/ChainSafe/lodestar/pull/10026) - 2026-09-07
+* [Review] [Review on: fix: ignore future slot gossip messages](https://github.com/ChainSafe/lodestar/pull/10023#pullrequestreview-5129609229) - 2026-09-07
+* [Review] [Review on: feat: add compliance test for gloas](https://github.com/ChainSafe/lodestar/pull/9761#pullrequestreview-5128406362) - 2026-09-07
+* [Review] [Review on: chore: log orphaned payload source in range sync](https://github.com/ChainSafe/lodestar/pull/10021#pullrequestreview-5128466030) - 2026-09-07
+* [Issue] [Range sync bans peers when the execution client wrongly returns INVALID](https://github.com/ChainSafe/lodestar/issues/10031) - 2026-09-07
+* [Issue] [gloas block processing is ~5x slower than pre-gloas with a 4M-validator state (1M active)](https://github.com/ChainSafe/lodestar/issues/10024) - 2026-09-07
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -546,6 +563,9 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: Reject bids with `block_hash` equal to `parent_block_hash`](https://github.com/ethereum/consensus-specs/pull/5594#pullrequestreview-5092295689) - 2026-09-02
 * [Review] [Review on: Bound the bid's gas limit against the parent execution payload](https://github.com/ethereum/consensus-specs/pull/5598#pullrequestreview-5107180260) - 2026-09-03
 * [Commit] [Reject bids with `block_hash` equal to `parent_block_hash` (#5594)](https://github.com/ethereum/consensus-specs/commit/54e69320a74019573cc4036528322c34a9fcb28b) - 2026-09-03
+* [Pull Request] [Only serve canonical payload envelopes by range](https://github.com/ethereum/consensus-specs/pull/5608) - 2026-09-07
+* [Pull Request] [Clarify when to broadcast payload attestation messages](https://github.com/ethereum/consensus-specs/pull/5612) - 2026-09-07
+* [Review] [Review on: Bound the bid's gas limit against the parent execution payload](https://github.com/ethereum/consensus-specs/pull/5598#pullrequestreview-5130210461) - 2026-09-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06
@@ -565,6 +585,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
 * [Commit] [Count PTC votes from duplicated validators (#17028)](https://github.com/OffchainLabs/prysm/commit/02680e16b3c24a756d6a93e9ecd7fd95b8ea6267) - 2026-07-07
 
+* [Issue] [gRPC VC never receives execution_payload_available, PTC votes always wait for the deadline](https://github.com/OffchainLabs/prysm/issues/17465) - 2026-09-07
+* [Issue] [VC skips the PTC vote entirely when the envelope arrives between PAYLOAD_DUE and PAYLOAD_ATTESTATION_DUE](https://github.com/OffchainLabs/prysm/issues/17464) - 2026-09-07
 [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
 * [Review] [Review on: Added code for Nimbus EL identification](https://github.com/ethereum/execution-apis/pull/848#pullrequestreview-4659808095) - 2026-07-09
 
@@ -589,12 +611,20 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Return 404 for unknown keymanager validator keys](https://github.com/Consensys/teku/pull/11133) - 2026-08-18
 * [Commit] [Return 404 for unknown keymanager validator keys (#11133)](https://github.com/Consensys/teku/commit/93b41c1833441603b8272ddfec7a7fd7100508a5) - 2026-08-18
 
+* [Issue] [ExecutionPayloadEnvelopesByRange returns envelopes of payloads the chain did not build on](https://github.com/Consensys-Incorporated/teku/issues/11246) - 2026-09-07
 [grandinetech/grandine](https://github.com/grandinetech/grandine)
 * [Issue] [Proposer preferences broadcast for pre-Gloas proposal slots in the epoch before the fork](https://github.com/grandinetech/grandine/issues/857) - 2026-08-20
 
+* [Issue] [Validator tick schedule is a fixed 16-way slot split, *_DUE_BPS config values are not used for duty timing](https://github.com/grandinetech/grandine/issues/912) - 2026-09-07
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Issue] [VC always sends is_aggregator: false in beacon committee subscriptions](https://github.com/status-im/nimbus-eth2/issues/8923) - 2026-08-21
 * [Review] [Review on: fix(vc): decode GAS_LIMIT_SCHEDULE arrays in getSpec](https://github.com/status-im/nimbus-eth2/pull/8997#pullrequestreview-5125087255) - 2026-09-06
+* [Issue] [Payload attestation waits for EL validation of the envelope instead of its arrival](https://github.com/status-im/nimbus-eth2/issues/9011) - 2026-09-07
+* [Issue] [Validator client has no payload timeliness committee duties](https://github.com/status-im/nimbus-eth2/issues/9009) - 2026-09-07
+* [Issue] [Payload attestation for an absent payload is sent at PAYLOAD_DUE with blob_data_available evaluated 3s early](https://github.com/status-im/nimbus-eth2/issues/9008) - 2026-09-07
+
+[ethpandaops/dora](https://github.com/ethpandaops/dora)
+* [Pull Request] [fix: use distinct PTC validators as the slot waves denominator](https://github.com/ethpandaops/dora/pull/866) - 2026-09-07
 ## Q2 2026
 
 
