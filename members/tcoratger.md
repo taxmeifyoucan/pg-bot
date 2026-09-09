@@ -194,6 +194,63 @@ Github: [@tcoratger](https://github.com/tcoratger)
 * [Commit] [fix(fri)!: derive the folding schedule instead of accepting the prover's (#2033)](https://github.com/Plonky3/Plonky3/commit/96d42f45098cd28ae9e1856214685433406601dc) - 2026-09-07
 * [Commit] [perf(sumcheck): bind and measure in one pass (#2036)](https://github.com/Plonky3/Plonky3/commit/f3f8d57f761b154d22c43c00f9a2564565dfb580) - 2026-09-07
 * [Commit] [test(binary-field): check the vector kernel's algebra on every target (#2028)](https://github.com/Plonky3/Plonky3/commit/9e7c7658205401186f3e25c84a9c2f0a5641f09c) - 2026-09-07
+* [Pull Request] [feat(multi-stark)!: drive the multi-STARK transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2093) - 2026-09-08
+* [Pull Request] [feat(batch-stark)!: drive the batch-STARK transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2091) - 2026-09-08
+* [Pull Request] [feat(uni-stark)!: drive the uni-STARK transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2090) - 2026-09-08
+* [Pull Request] [feat(whir)!: seed the WHIR transcript through the shared Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2089) - 2026-09-08
+* [Review] [Review on: feat(whir)!: seed the WHIR transcript through the shared Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2089#pullrequestreview-5145618765) - 2026-09-08
+* [Review] [Review on: perf(binary-pcs): expose proving phases and speed ARM basis conversion](https://github.com/Plonky3/Plonky3/pull/2094#pullrequestreview-5146922460) - 2026-09-08
+* [Pull Request] [feat(stir)!: drive the STIR transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2088) - 2026-09-08
+* [Pull Request] [feat(circle)!: drive the Circle PCS transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2087) - 2026-09-08
+* [Pull Request] [feat(fri)!: type the PCS transcript above the FRI low-degree test](https://github.com/Plonky3/Plonky3/pull/2086) - 2026-09-08
+* [Review] [Review on: test: share PCS opening contracts and batch fixtures](https://github.com/Plonky3/Plonky3/pull/2061#pullrequestreview-5142325703) - 2026-09-08
+* [Review] [Review on: refactor(commit): separate core PCS and STARK capabilities](https://github.com/Plonky3/Plonky3/pull/2059#pullrequestreview-5142329794) - 2026-09-08
+* [Pull Request] [feat(whir)!: seed the WHIR transcript through the shared Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2080) - 2026-09-08
+* [Pull Request] [feat(stir)!: drive the STIR transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2079) - 2026-09-08
+* [Pull Request] [feat(circle)!: drive the Circle PCS transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2078) - 2026-09-08
+* [Pull Request] [feat(batch-stark)!: drive the batch-STARK transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2074) - 2026-09-08
+* [Pull Request] [feat(whir)!: seed the WHIR transcript through the shared Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2073) - 2026-09-08
+* [Pull Request] [feat(circle)!: drive the Circle PCS transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2072) - 2026-09-08
+* [Pull Request] [feat(stir)!: drive the STIR transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2071) - 2026-09-08
+* [Pull Request] [feat(uni-stark)!: drive the uni-STARK transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2070) - 2026-09-08
+* [Pull Request] [feat(fri)!: type the PCS transcript above the FRI low-degree test](https://github.com/Plonky3/Plonky3/pull/2068) - 2026-09-08
+* [Pull Request] [feat(whir)!: seed the WHIR transcript through the shared Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2084) - 2026-09-08
+* [Pull Request] [feat(stir)!: drive the STIR transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2083) - 2026-09-08
+* [Pull Request] [feat(circle)!: drive the Circle PCS transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2082) - 2026-09-08
+* [Pull Request] [feat(uni-stark)!: drive the uni-STARK transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2076) - 2026-09-08
+* [Pull Request] [feat(fri)!: type the PCS transcript above the FRI low-degree test](https://github.com/Plonky3/Plonky3/pull/2075) - 2026-09-08
+* [Pull Request] [feat(batch-stark)!: drive the batch-STARK transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2077) - 2026-09-08
+* [Pull Request] [feat(sumcheck)!: drive the quadratic sumcheck transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2081) - 2026-09-08
+* [Pull Request] [docs(merkle-tree): state the real bound on the staged row buffer](https://github.com/Plonky3/Plonky3/pull/2069) - 2026-09-08
+* [Review] [Review on: perf(merkle-tree): optimize same-height multi-matrix hashing](https://github.com/Plonky3/Plonky3/pull/2057#pullrequestreview-5142343495) - 2026-09-08
+* [Pull Request] [fix(scripts): let the shared check command pin the target features a leg names](https://github.com/Plonky3/Plonky3/pull/2066) - 2026-09-08
+* [Review] [Review on: fix(scripts): let the shared check command pin the target features a leg names](https://github.com/Plonky3/Plonky3/pull/2066#pullrequestreview-5143002177) - 2026-09-08
+* [Pull Request] [fix(stir): reject the compact answer encoding in the default representation](https://github.com/Plonky3/Plonky3/pull/2065) - 2026-09-08
+* [Review] [Review on: feat(security): integrate legacy conjectured regime](https://github.com/Plonky3/Plonky3/pull/2064#pullrequestreview-5142316726) - 2026-09-08
+* [Review] [Review on: perf(maybe-rayon): size parallel tasks from a cost model](https://github.com/Plonky3/Plonky3/pull/2039#pullrequestreview-5141163222) - 2026-09-08
+* [Review] [Review on: perf(binary-field): vectorize the polynomial-basis butterflies with a split twiddle](https://github.com/Plonky3/Plonky3/pull/2054#pullrequestreview-5142251927) - 2026-09-08
+* [Review] [Review on: perf(sumcheck)!: fuse bind and measure across single-round calls and under suffix order](https://github.com/Plonky3/Plonky3/pull/2055#pullrequestreview-5141177584) - 2026-09-08
+* [Review] [Review on: refactor(lookup): remove univariate STARK dependency](https://github.com/Plonky3/Plonky3/pull/2060#pullrequestreview-5141931918) - 2026-09-08
+* [Review] [Review on: feat(fri)!: drive the FRI transcript through the typed Fiat-Shamir layer](https://github.com/Plonky3/Plonky3/pull/2035#pullrequestreview-5141316643) - 2026-09-08
+* [Review] [Review on: perf(stir): reduce prover work and add opt-in smaller proofs](https://github.com/Plonky3/Plonky3/pull/2056#pullrequestreview-5142358833) - 2026-09-08
+* [Review] [Review on: chore: share local and CI check commands](https://github.com/Plonky3/Plonky3/pull/2062#pullrequestreview-5142303541) - 2026-09-08
+* [Review] [Review on: perf(merkle-tree): reach the vectorized Keccak from the Merkle tree](https://github.com/Plonky3/Plonky3/pull/2051#pullrequestreview-5141332047) - 2026-09-08
+* [Review] [Review on: perf(binary-dft): fuse long-stride stages through a staging tile](https://github.com/Plonky3/Plonky3/pull/2052#pullrequestreview-5141238102) - 2026-09-08
+* [Review] [Review on: perf(binary-pcs): fold the codeword packed in the polynomial basis](https://github.com/Plonky3/Plonky3/pull/2053#pullrequestreview-5141172761) - 2026-09-08
+* [Review] [Review on: perf(field): route the self-algebra mixed dot product to the type's own dot product](https://github.com/Plonky3/Plonky3/pull/2050#pullrequestreview-5141125541) - 2026-09-08
+* [Review] [Review on: refactor: rename fixtures according to versioning](https://github.com/Plonky3/Plonky3/pull/2058#pullrequestreview-5140868134) - 2026-09-08
+* [Commit] [feat(uni-stark)!: drive the uni-STARK transcript through the typed Fiat-Shamir layer (#2090)](https://github.com/Plonky3/Plonky3/commit/3823086b63ca8796bfd354949e591a23a2c276d5) - 2026-09-08
+* [Commit] [feat(whir)!: seed the WHIR transcript through the shared Fiat-Shamir layer (#2089)](https://github.com/Plonky3/Plonky3/commit/9a30180648829a8b799bae7807c6109d352ce4b0) - 2026-09-08
+* [Commit] [feat(stir)!: drive the STIR transcript through the typed Fiat-Shamir layer (#2088)](https://github.com/Plonky3/Plonky3/commit/43cbdd45a41eed373839314eb394b443bb1c21d0) - 2026-09-08
+* [Commit] [feat(circle)!: drive the Circle PCS transcript through the typed Fiat-Shamir layer (#2087)](https://github.com/Plonky3/Plonky3/commit/b215181e157321e29f84afc9405755d3ea232ce9) - 2026-09-08
+* [Commit] [feat(fri)!: drive the FRI PCS transcript through the typed Fiat-Shamir layer (#2086)](https://github.com/Plonky3/Plonky3/commit/7fa32fa56ba04c6bbae912e3c7bedb2a047093e7) - 2026-09-08
+* [Commit] [fix(scripts): let the shared check command pin the target features a leg names (#2066)](https://github.com/Plonky3/Plonky3/commit/df6a0edab79c401abe32ae022b1bbff4e26b8cd5) - 2026-09-08
+* [Commit] [fix(stir): reject the compact answer encoding in the default representation (#2065)](https://github.com/Plonky3/Plonky3/commit/f1c6acf366e8831048e7e883647406cd036cf525) - 2026-09-08
+* [Commit] [feat(fri)!: drive the FRI transcript through the typed Fiat-Shamir layer (#2035)](https://github.com/Plonky3/Plonky3/commit/6a3386f0b0cd062b3d3840107b6515acb72fc579) - 2026-09-08
+* [Commit] [perf(merkle-tree): reach the vectorized Keccak from the Merkle tree (#2051)](https://github.com/Plonky3/Plonky3/commit/06c9212a796de51016f5cf9c03a7fb29dc2e4393) - 2026-09-08
+* [Commit] [perf(binary-dft): fuse long-stride stages through a staging tile (#2052)](https://github.com/Plonky3/Plonky3/commit/77ebf1f608f12dba3a874042f990dd764ba4ce87) - 2026-09-08
+* [Commit] [perf(binary-pcs): fold the codeword packed in the polynomial basis (#2053)](https://github.com/Plonky3/Plonky3/commit/e3e9e9b26a6280287dbc1576fe1720672ea9408b) - 2026-09-08
+* [Commit] [perf(field): route the self-algebra mixed dot product to the type's own dot product (#2050)](https://github.com/Plonky3/Plonky3/commit/92e7079d99c0500e799dbab06b7ff7be18bbec19) - 2026-09-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522) - 2026-08-10
 * [Review] [Review on: Add hash-chain RANDAO (EIP-8321)](https://github.com/ethereum/consensus-specs/pull/5522#pullrequestreview-4896691251) - 2026-08-10

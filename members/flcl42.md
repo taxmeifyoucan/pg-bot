@@ -304,6 +304,10 @@ Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)
 * [Review] [Review on: fix: dispose the improvement context that replaces a retrieved payload](https://github.com/NethermindEth/nethermind/pull/13206#pullrequestreview-5131701103) - 2026-09-07
 * [Review] [Review on: perf: remove per-child and per-call overhead from the RLP encode path](https://github.com/NethermindEth/nethermind/pull/13226#pullrequestreview-5133450266) - 2026-09-07
 * [Commit] [Enable nullables in EVM, Trie, and State (#13099)](https://github.com/NethermindEth/nethermind/commit/53ea862f650c2e1ae32e22e7781a1fd1a9976789) - 2026-09-07
+* [Review] [Review on: fix(rpc): stop unauthenticated input causing unhandled exceptions, empty 500s, leaked traces and WARN floods (#13194, #13195, #13197, #13198, #13156)](https://github.com/NethermindEth/nethermind/pull/13251#pullrequestreview-5138211812) - 2026-09-08
+* [Review] [Review on: Dispose the pooled lists that trie path recovery abandons](https://github.com/NethermindEth/nethermind/pull/13266#pullrequestreview-5140890492) - 2026-09-08
+* [Commit] [Use independent version line for Bootnode releases (#13103)](https://github.com/NethermindEth/nethermind/commit/611da0941c0dd182840460a2953d77ab3016436f) - 2026-09-08
+* [Commit] [Reduce Bootnode memory and Nethermind discovery traffic (#13122)](https://github.com/NethermindEth/nethermind/commit/e47cf8b905dd9b7706b86f982325545d5702deb6) - 2026-09-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4653169715) - 2026-07-08
 * [Review] [Review on: Add Daniil Ankushin from Nethermind](https://github.com/protocolguild/documentation/pull/517#pullrequestreview-4653170371) - 2026-07-08

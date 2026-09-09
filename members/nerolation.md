@@ -61,6 +61,7 @@ Team: [research](https://github.com/nerolation/pglanding-nerolation)
 * [Commit] [Update EIP-8146: restructure and simplify](https://github.com/ethereum/EIPs/commit/b6d3f2c65aad65bb09856db6db50ae612b8bf8aa) - 2026-08-31
 * [Review] [Review on: Update EIP-8272: verify recent roots with a canonical frame](https://github.com/ethereum/EIPs/pull/12281#pullrequestreview-5110296682) - 2026-09-04
 * [Review] [Review on: Update EIP-8272: Add lightclient as a co-author](https://github.com/ethereum/EIPs/pull/12294#pullrequestreview-5112407699) - 2026-09-04
+* [Review] [Review on: Update EIP-7716: Move to Draft](https://github.com/ethereum/EIPs/pull/11962#pullrequestreview-5141559575) - 2026-09-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [fix(specs,tests): check SSTORE access cost before the implicit read](https://github.com/ethereum/execution-specs/pull/3111) - 2026-07-06
 

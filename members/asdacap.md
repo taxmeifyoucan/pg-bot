@@ -194,6 +194,12 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: fix(sync): stop a malformed header response from stalling fast-headers sync](https://github.com/NethermindEth/nethermind/pull/13019#pullrequestreview-5098813831) - 2026-09-03
 * [Review] [Review on: Reduce Kademlia discovery traffic on healthy tables](https://github.com/NethermindEth/nethermind/pull/13124#pullrequestreview-5131466797) - 2026-09-07
 * [Pull Request] [chore(db): demote RocksDbMem log from info to debug](https://github.com/NethermindEth/nethermind/pull/13219) - 2026-09-07
+* [Review] [Review on: test(jsonrpc): make Nethermind.JsonRpc.Test safe to run twice at once (#13204, #13249)](https://github.com/NethermindEth/nethermind/pull/13256#pullrequestreview-5138541464) - 2026-09-08
+* [Review] [Review on: feat(sync): make a stalled snap sync visible at default log level (#13248)](https://github.com/NethermindEth/nethermind/pull/13257#pullrequestreview-5138451033) - 2026-09-08
+* [Review] [Review on: fix(rpc): stop unauthenticated input causing unhandled exceptions, empty 500s, leaked traces and WARN floods (#13194, #13195, #13197, #13198, #13156)](https://github.com/NethermindEth/nethermind/pull/13251#pullrequestreview-5138847098) - 2026-09-08
+* [Review] [Review on: Select flat Account index search automatically](https://github.com/NethermindEth/nethermind/pull/13260#pullrequestreview-5139624413) - 2026-09-08
+* [Commit] [chore(db): demote RocksDbMem log from info to debug (#13219)](https://github.com/NethermindEth/nethermind/commit/9396ea90bfd010999fff78dee7746c06fd6a8ccf) - 2026-09-08
+* [Commit] [Dispose sync peer allocations with using (#13094)](https://github.com/NethermindEth/nethermind/commit/232e6afa64c39d985bedbaf8f2e5a099c181f78f) - 2026-09-08
 ## Q2 2026
 
 

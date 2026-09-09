@@ -80,6 +80,10 @@ Team: [Grandine](https://github.com/grandinetech/grandine)
 * [Review] [Review on: Replay persisted execution payload envelopes at restart](https://github.com/grandinetech/grandine/pull/887#pullrequestreview-5128909832) - 2026-09-07
 * [Issue] [Update ssz-specs to v0.1.0](https://github.com/grandinetech/grandine/issues/911) - 2026-09-07
 * [Issue] [Update consensus specs to v1.7.0-beta.0](https://github.com/grandinetech/grandine/issues/910) - 2026-09-07
+* [Review] [Review on: Replay persisted execution payload envelopes at restart](https://github.com/grandinetech/grandine/pull/887#pullrequestreview-5139849871) - 2026-09-08
+* [Pull Request] [Feature/consensus specs v1.7.0 beta.0](https://github.com/grandinetech/grandine/pull/914) - 2026-09-08
+* [Commit] [Add gas limit schedule config](https://github.com/grandinetech/grandine/commit/a31369259a0a5e2daa4777a12767015edeb577ca) - 2026-09-08
+* [Commit] [Resolve commitments through Gloas block](https://github.com/grandinetech/grandine/commit/1b5f706cdf461e8d4a7f9ad28ba51f8ab7f7edac) - 2026-09-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Fix proposer preferences gossip for genesis dependent block](https://github.com/ethereum/consensus-specs/pull/5551) - 2026-08-18
 * [Review] [Review on: Ignore proposer preferences for pre-Gloas slots](https://github.com/ethereum/consensus-specs/pull/5559#pullrequestreview-4991632334) - 2026-08-21

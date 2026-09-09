@@ -117,6 +117,8 @@ Team: [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3A
 * [Commit] [cl/forkchoice: reuse Gloas contribution capacity (#23731)](https://github.com/erigontech/erigon/commit/b294aed7873297ecd160c5ed98aadd9c0187ee6c) - 2026-09-03
 * [Review] [Review on: cl/sentinel: build one peers.Pool for the whole test package](https://github.com/erigontech/erigon/pull/23847#pullrequestreview-5134894331) - 2026-09-07
 * [Review] [Review on: [r3.5] cl, cmd/utils: derive the column retention window from the chain config](https://github.com/erigontech/erigon/pull/23852#pullrequestreview-5134894342) - 2026-09-07
+* [Review] [Review on: cl, cmd/capcli: fail the chain download when blobs are not fully stored](https://github.com/erigontech/erigon/pull/23868#pullrequestreview-5147355679) - 2026-09-08
+* [Review] [Review on: [r3.5] cl, cmd/utils: derive the column retention window from the chain config](https://github.com/erigontech/erigon/pull/23852#pullrequestreview-5140655755) - 2026-09-08
 ## Q2 2026
 
 

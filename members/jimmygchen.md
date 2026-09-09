@@ -49,6 +49,7 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimm
 * [Review] [Review on: Add `engine_getPayloadBodiesByHashV2` support](https://github.com/sigp/lighthouse/pull/9980#pullrequestreview-5136162623) - 2026-09-08
 * [Pull Request] [Avoid walking already indexed validators in the monitor](https://github.com/sigp/lighthouse/pull/9995) - 2026-09-08
 * [Review] [Review on: Convert produceBlockV4 to POST and round-trip Eth-Builder-Url (Gloas builder API 4/5)](https://github.com/sigp/lighthouse/pull/9806#pullrequestreview-5134764938) - 2026-09-07
+* [Review] [Review on: Fix flaky unknown block test](https://github.com/sigp/lighthouse/pull/10001#pullrequestreview-5141659530) - 2026-09-08
 [paradigmxyz/reth](https://github.com/paradigmxyz/reth)
 * [Pull Request] [fix(engine): serve getBlobsV4 from Osaka](https://github.com/paradigmxyz/reth/pull/26768) - 2026-08-20
 * [Commit] [fix(engine): serve getBlobsV4 from Osaka (#26768)](https://github.com/paradigmxyz/reth/commit/69b94b4e89a593ddf38be2a21dcbb6b61b98a110) - 2026-08-20

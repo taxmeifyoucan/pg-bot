@@ -23,6 +23,7 @@ Team: [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%
 * [Review] [Review on: go.mod: remove a few dependencies](https://github.com/ethereum/go-ethereum/pull/35622#pullrequestreview-5070991696) - 2026-08-31
 
 * [Pull Request] [accounts: remove dead code parseURL, UnmarshalJSON and Wallet](https://github.com/ethereum/go-ethereum/pull/35626) - 2026-09-01
+* [Pull Request] [core/vm, params: make EIP-170 activation explicit](https://github.com/ethereum/go-ethereum/pull/35675) - 2026-09-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Change Guillaume Ballet's weight to half-time](https://github.com/protocolguild/documentation/pull/550) - 2026-08-31
 ## Q2 2026

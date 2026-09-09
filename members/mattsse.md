@@ -658,6 +658,41 @@ Team: Reth
 * [Commit] [feat(download): allow retry delay overrides (#27048)](https://github.com/paradigmxyz/reth/commit/0297d4f9d076d7edc7e330020da6825928c85a9d) - 2026-09-07
 * [Commit] [test: skip wall-clock waits in peer tick test (#27045)](https://github.com/paradigmxyz/reth/commit/ad3929fdf10f399055a4e9340fff697b70687195) - 2026-09-07
 * [Commit] [test: signal background metrics hook completion (#27047)](https://github.com/paradigmxyz/reth/commit/abba04f89c706c5363e2ea24267f8625d2bfe59a) - 2026-09-07
+* [Pull Request] [fix(rpc): suppress synthetic transfer logs when EIP-7708 is active](https://github.com/paradigmxyz/reth/pull/27110) - 2026-09-08
+* [Review] [Review on: fix(rpc): reject raw BidTrace mismatches before KZG](https://github.com/paradigmxyz/reth/pull/27026#pullrequestreview-5141507939) - 2026-09-08
+* [Pull Request] [perf(engine): retry storage leaves only after applied updates](https://github.com/paradigmxyz/reth/pull/27101) - 2026-09-08
+* [Pull Request] [perf(engine): retry storage leaves after relevant changes](https://github.com/paradigmxyz/reth/pull/27088) - 2026-09-08
+* [Pull Request] [perf(engine): retry account leaves after relevant changes](https://github.com/paradigmxyz/reth/pull/27100) - 2026-09-08
+* [Review] [Review on: chore(deps): bump the cargo-weekly group across 1 directory with 42 updates](https://github.com/paradigmxyz/reth/pull/27027#pullrequestreview-5145268026) - 2026-09-08
+* [Pull Request] [feat(txpool): add cell-backed blob sidecar primitives](https://github.com/paradigmxyz/reth/pull/27103) - 2026-09-08
+* [Pull Request] [feat(net): prepare eth72 pooled responses and announcement sizes](https://github.com/paradigmxyz/reth/pull/27102) - 2026-09-08
+* [Pull Request] [perf(engine): prioritize early BAL transaction recovery](https://github.com/paradigmxyz/reth/pull/27077) - 2026-09-08
+* [Review] [Review on: chore(deps): bump revm to 43.0.1](https://github.com/paradigmxyz/reth/pull/27096#pullrequestreview-5144633775) - 2026-09-08
+* [Pull Request] [perf(engine): start trie proofs with an early update batch](https://github.com/paradigmxyz/reth/pull/27093) - 2026-09-08
+* [Pull Request] [perf(engine): reveal ready proofs before applying trie updates](https://github.com/paradigmxyz/reth/pull/27094) - 2026-09-08
+* [Pull Request] [fix(engine): stop transaction recovery on channel disconnection](https://github.com/paradigmxyz/reth/pull/27092) - 2026-09-08
+* [Pull Request] [perf(net): amortize gossip recovery scheduling](https://github.com/paradigmxyz/reth/pull/27098) - 2026-09-08
+* [Pull Request] [feat(txpool): support eth72 sparse blobpool](https://github.com/paradigmxyz/reth/pull/27097) - 2026-09-08
+* [Pull Request] [fix(net): flatten eth72 cell packet fields](https://github.com/paradigmxyz/reth/pull/27095) - 2026-09-08
+* [Pull Request] [fix(net): decode wire bitvectors into typed blob cell masks](https://github.com/paradigmxyz/reth/pull/27089) - 2026-09-08
+* [Pull Request] [perf(trie): move blocked leaf updates back into pending maps](https://github.com/paradigmxyz/reth/pull/27091) - 2026-09-08
+* [Pull Request] [fix(net): preserve cell masks when coalescing ETH/72 announcements](https://github.com/paradigmxyz/reth/pull/27090) - 2026-09-08
+* [Pull Request] [fix(test): stabilize gossip disconnect and testing RPC tests](https://github.com/paradigmxyz/reth/pull/27087) - 2026-09-08
+* [Pull Request] [perf(engine): skip unused pool cleanup on BAL path](https://github.com/paradigmxyz/reth/pull/27074) - 2026-09-08
+* [Pull Request] [feat(engine): trace BAL transaction execution and commit](https://github.com/paradigmxyz/reth/pull/27076) - 2026-09-08
+* [Pull Request] [perf(engine): dispatch full BAL worker sets locally](https://github.com/paradigmxyz/reth/pull/27081) - 2026-09-08
+* [Pull Request] [perf(engine): leave BAL pool capacity for state streaming](https://github.com/paradigmxyz/reth/pull/27084) - 2026-09-08
+* [Pull Request] [fix(net): count all pending hashes against the search budget](https://github.com/paradigmxyz/reth/pull/27082) - 2026-09-08
+* [Pull Request] [fix(engine): abort BAL state streaming on parent read errors](https://github.com/paradigmxyz/reth/pull/27072) - 2026-09-08
+* [Pull Request] [perf(engine): reserve canonical BAL account capacity](https://github.com/paradigmxyz/reth/pull/27079) - 2026-09-08
+* [Commit] [fix(engine): stop transaction recovery on channel disconnection (#27092)](https://github.com/paradigmxyz/reth/commit/fc8c4fc6b84e5e2812fa89ec5f589b9ea8a28be1) - 2026-09-08
+* [Commit] [fix(net): decode wire bitvectors into typed blob cell masks (#27089)](https://github.com/paradigmxyz/reth/commit/ea10653e2ca33216bdc0ee044fa7d44a6ee7c69a) - 2026-09-08
+* [Commit] [fix(test): stabilize gossip disconnect and testing RPC tests (#27087)](https://github.com/paradigmxyz/reth/commit/2e812318c81253449fe5cd417476eefd399f25c9) - 2026-09-08
+* [Commit] [perf(engine): skip unused pool cleanup on BAL path (#27074)](https://github.com/paradigmxyz/reth/commit/a8e0ae87961f759a1a0b78c82324156e53c3f4be) - 2026-09-08
+* [Commit] [perf(engine): reserve canonical BAL account capacity (#27079)](https://github.com/paradigmxyz/reth/commit/8be978802474e643d1a154c184da3deaeb8175f5) - 2026-09-08
+* [Commit] [perf(trie): avoid staging drained storage addresses (#27080)](https://github.com/paradigmxyz/reth/commit/fb659d7c5ed3d3bb11f2be74cc74f176bb9532e1) - 2026-09-08
+* [Commit] [perf(trie): evaluate should_retain once per committed proof child (#26973)](https://github.com/paradigmxyz/reth/commit/a01f93dee0c9e984a144fb28e10e8022164268c4) - 2026-09-08
+* [Commit] [chore(deps): bump alloy to 2.4.2 (#27073)](https://github.com/paradigmxyz/reth/commit/3d62abaa172092552adf04720dfa701968429b2c) - 2026-09-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Sergei Shulepov from Reth](https://github.com/protocolguild/documentation/pull/507#pullrequestreview-4626449992) - 2026-07-03
 * [Review] [Review on: Add Emma Jamieson-Hoare from Reth](https://github.com/protocolguild/documentation/pull/509#pullrequestreview-4626450941) - 2026-07-03
@@ -679,6 +714,9 @@ Team: Reth
 * [Pull Request] [feat(interpreter): add delegate scheme helper](https://github.com/bluealloy/revm/pull/3883) - 2026-08-26
 
 * [Pull Request] [feat(database): support state overrides with BAL reads](https://github.com/bluealloy/revm/pull/3885) - 2026-08-27
+* [Pull Request] [perf(state): size BAL storage vectors by partition](https://github.com/bluealloy/revm/pull/3898) - 2026-09-08
+* [Pull Request] [feat(database): add apply and try_apply to StateBuilder](https://github.com/bluealloy/revm/pull/3900) - 2026-09-08
+* [Pull Request] [feat(database): add BAL builder capacity configuration](https://github.com/bluealloy/revm/pull/3899) - 2026-09-08
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [chore: fix Clippy warnings](https://github.com/paradigmxyz/revmc/pull/411) - 2026-08-26
 * [Commit] [chore: fix Clippy warnings (#411)](https://github.com/paradigmxyz/revmc/commit/58e57c76c3d0658305dfee3b67178e36b74a4cce) - 2026-08-26

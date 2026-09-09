@@ -138,6 +138,9 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13
 * [Review] [Review on: Consider builder bids during block production](https://github.com/Consensys-Incorporated/teku/pull/11209#pullrequestreview-5131575193) - 2026-09-07
 * [Review] [Review on: Clean-up empty overrides (ValidatorTimingChannel)](https://github.com/Consensys-Incorporated/teku/pull/11230#pullrequestreview-5130547850) - 2026-09-07
 * [Commit] [DataColumnSidecars RPC logging + more tests (#11183)](https://github.com/Consensys-Incorporated/teku/commit/c1d0237867f959e38d11ceca87876b53e7a64cd0) - 2026-09-07
+* [Pull Request] [Add archiveSidecarsProofs to Database: persist KZG proofs and drop extension columns](https://github.com/Consensys-Incorporated/teku/pull/11250) - 2026-09-08
+* [Pull Request] [Avoid duplicate metric events in FCR](https://github.com/Consensys-Incorporated/teku/pull/11198) - 2026-09-08
+* [Commit] [Avoid duplicate metric events in FCR (#11198)](https://github.com/Consensys-Incorporated/teku/commit/c48f0225cc34203a39ed7c3c13dbcdc9a511902f) - 2026-09-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Move Matilda Clerke from Besu to Teku](https://github.com/protocolguild/documentation/pull/512) - 2026-07-07
 ## Q2 2026

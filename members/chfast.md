@@ -261,6 +261,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Issue] [evmone test: add a --verbose flag to name each fixture as it runs](https://github.com/ipsilon/evmone/issues/1702) - 2026-09-07
 * [Commit] [test: Make a fixture file the only kind of test (#1699)](https://github.com/ipsilon/evmone/commit/20c5b225e45f28560a2f8bab6d7e2e14b82a0086) - 2026-09-07
 * [Commit] [test: Collect test files as plain paths (#1701)](https://github.com/ipsilon/evmone/commit/ab3d68edd375cef04609f69dea90d3f71c3bf187) - 2026-09-07
+* [Commit] [test: Add the evmone test command (#1685)](https://github.com/ipsilon/evmone/commit/f52b1c1222da9ccc362960beb146f5ed0d757973) - 2026-09-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Review] [Review on: feat(tests): EIP-8037 SELFDESTRUCT new-account state gas spill and refill](https://github.com/ethereum/execution-specs/pull/3069#pullrequestreview-4610030364) - 2026-07-01
 * [Pull Request] [feat(tests): EIP-8037 reject tx exceeding remaining block state gas](https://github.com/ethereum/execution-specs/pull/3081) - 2026-07-01
@@ -367,6 +368,7 @@ Team: [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast
 * [Review] [Review on: execution/vm: return state-gas to gas_left when a child merges](https://github.com/erigontech/erigon/pull/23718#pullrequestreview-5111455686) - 2026-09-04
 * [Review] [Review on: ci: update eest devnet fixtures to v8.1.4](https://github.com/erigontech/erigon/pull/23796#pullrequestreview-5112344637) - 2026-09-04
 * [Commit] [execution/vm: return state-gas to gas_left when a child merges (#23718)](https://github.com/erigontech/erigon/commit/ecb849c4415f51505148fc901cbff7b447edb03e) - 2026-09-04
+* [Pull Request] [build: give C++ deps the same cgo flags as C](https://github.com/erigontech/erigon/pull/23874) - 2026-09-08
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 * [Issue] [tests: validateHeader compares baseFeePerGas with reflect.DeepEqual, so a zero base fee always fails](https://github.com/ethereum/go-ethereum/issues/35555) - 2026-08-19
 

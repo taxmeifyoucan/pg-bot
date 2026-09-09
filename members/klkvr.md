@@ -72,6 +72,7 @@ Team: [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr)
 * [Pull Request] [fix(cli): use configured minimal download defaults](https://github.com/paradigmxyz/reth/pull/27005) - 2026-09-04
 * [Review] [Review on: fix(cli): use configured minimal download defaults](https://github.com/paradigmxyz/reth/pull/27006#pullrequestreview-5112684025) - 2026-09-04
 * [Review] [Review on: perf(txpool): only visit changed senders when the fees did not move](https://github.com/paradigmxyz/reth/pull/26956#pullrequestreview-5132149552) - 2026-09-07
+* [Review] [Review on: fix(engine): stop transaction recovery on channel disconnection](https://github.com/paradigmxyz/reth/pull/27092#pullrequestreview-5143300259) - 2026-09-08
 [bluealloy/revm](https://github.com/bluealloy/revm)
 * [Pull Request] [refactor(handler): validate state before tracking gas](https://github.com/bluealloy/revm/pull/3815) - 2026-07-22
 * [Commit] [refactor(handler): validate state before tracking gas (#3815)](https://github.com/bluealloy/revm/commit/bb518a0ee6d92fe6191b31294adadaaf89c690db) - 2026-07-22

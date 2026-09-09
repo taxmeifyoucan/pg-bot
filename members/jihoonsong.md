@@ -115,6 +115,9 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Commit] [Introduce `compute_shuffling_lookahead_start_slot` helper (#5602)](https://github.com/ethereum/consensus-specs/commit/46a14d62de66d45441d7e4f3db68733b3a19cfec) - 2026-09-04
 * [Review] [Review on: Add executable gossip validation functions for heze](https://github.com/ethereum/consensus-specs/pull/5605#pullrequestreview-5122512090) - 2026-09-05
 * [Pull Request] [Remove remaining type casts](https://github.com/ethereum/consensus-specs/pull/5606) - 2026-09-05
+* [Pull Request] [Extend existing tests to cover Heze](https://github.com/ethereum/consensus-specs/pull/5615) - 2026-09-08
+* [Pull Request] [Use block's slot to validate max blobs in gossip](https://github.com/ethereum/consensus-specs/pull/5614) - 2026-09-08
+* [Commit] [Use block's slot to validate max blobs in gossip (#5614)](https://github.com/ethereum/consensus-specs/commit/636d2c9f3dc00e1bc1048f9374195b9e60175e29) - 2026-09-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field - part 2](https://github.com/ethereum/execution-specs/pull/3095) - 2026-07-03
 * [Pull Request] [refactor(spec-specs): rename `inclusion_list_satisfied` field](https://github.com/ethereum/execution-specs/pull/3092) - 2026-07-03
@@ -140,6 +143,7 @@ Github: [@jihoonsong](https://github.com/jihoonsong)
 * [Issue] [FOCIL Breakout #39, August 4, 2026](https://github.com/ethereum/pm/issues/2179) - 2026-08-03
 * [Issue] [FOCIL Breakout #39, August 18, 2026](https://github.com/ethereum/pm/issues/2194) - 2026-08-17
 * [Issue] [FOCIL Breakout #41, September 1, 2026](https://github.com/ethereum/pm/issues/2208) - 2026-08-31
+* [Issue] [FOCIL Breakout #42, September 15, 2026](https://github.com/ethereum/pm/issues/2218) - 2026-09-08
 ## Q2 2026
 
 

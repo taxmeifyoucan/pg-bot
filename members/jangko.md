@@ -125,6 +125,7 @@ Team: [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?a
 * [Pull Request] [Refactor CallParams and TxContext](https://github.com/status-im/nimbus-eth1/pull/4758) - 2026-09-07
 * [Review] [Review on: Refactor CallParams and TxContext](https://github.com/status-im/nimbus-eth1/pull/4758#pullrequestreview-5133031202) - 2026-09-07
 * [Review] [Review on: fix: peer overload in mainnet](https://github.com/status-im/nimbus-eth1/pull/4748#pullrequestreview-5127970575) - 2026-09-07
+* [Commit] [Refactor CallParams and TxContext (#4758)](https://github.com/status-im/nimbus-eth1/commit/688e3a58bfd938ba5a4f89c37490fcda32474953) - 2026-09-08
 [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2)
 * [Pull Request] [Bump nim-web3: Rename ForkchoiceUpdatedResponse to ForkchoiceUpdatedResponseV1](https://github.com/status-im/nimbus-eth2/pull/8722) - 2026-07-08
 * [Pull Request] [Bump nim-web3 to 2c56b2afbd84f4a67e397f47548f25802849a30d](https://github.com/status-im/nimbus-eth2/pull/8717) - 2026-07-07

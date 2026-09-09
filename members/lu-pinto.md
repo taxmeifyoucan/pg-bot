@@ -35,6 +35,8 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu
 * [Pull Request] [EIP-8037: Settle child frame reservoir refills on parent's gas spilled](https://github.com/besu-eth/besu/pull/11243) - 2026-09-05
 * [Review] [Review on: EIP-8037: Settle child frame reservoir refills on parent's gas spilled](https://github.com/besu-eth/besu/pull/11243#pullrequestreview-5129961392) - 2026-09-07
 * [Commit] [EIP-8037: Settle child frame reservoir refills on parent's gas spilled (#11243)](https://github.com/besu-eth/besu/commit/7c97708c1abdb80f59c0f50b04282c0f1499de08) - 2026-09-07
+* [Review] [Review on: Make size primitive and initialized at build time](https://github.com/besu-eth/besu/pull/11258#pullrequestreview-5143034442) - 2026-09-08
+* [Review] [Review on: ci(dco): replace tim-actions/dco with actions/github-script](https://github.com/besu-eth/besu/pull/11257#pullrequestreview-5142949930) - 2026-09-08
 ## Q2 2026
 
 

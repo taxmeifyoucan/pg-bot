@@ -80,6 +80,8 @@ Github: [@inspector-butters](https://github.com/inspector-butters)
 * [Review] [Review on: add progressive state schema](https://github.com/OffchainLabs/prysm/pull/17358#pullrequestreview-5092228517) - 2026-09-02
 * [Pull Request] [progressive merkle proof generation ](https://github.com/OffchainLabs/prysm/pull/17444) - 2026-09-02
 * [Review] [Review on: add progressive state schema](https://github.com/OffchainLabs/prysm/pull/17358#pullrequestreview-5103143725) - 2026-09-03
+* [Review] [Review on: slashing protection up to date for keys added mid run](https://github.com/OffchainLabs/prysm/pull/17411#pullrequestreview-5144551846) - 2026-09-08
+* [Commit] [add progressive state schema (#17358)](https://github.com/OffchainLabs/prysm/commit/e8eadd9b90d123e0f909ba1162bbcdd061257b7a) - 2026-09-08
 ## Q2 2026
 
 

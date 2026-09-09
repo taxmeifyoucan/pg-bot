@@ -283,6 +283,11 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ama
 * [Commit] [jwt stale token: do not log attributes (#11252)](https://github.com/besu-eth/besu/commit/efb9cb9ee5993eca4fe6d0da09cf640840c18525) - 2026-09-08
 * [Commit] [update download artifact gha to v22 (#11253)](https://github.com/besu-eth/besu/commit/b7369754decd92f4834a6193063c1e3b48f85d4d) - 2026-09-08
 * [Commit] [update download artifact action to v6 (#11249)](https://github.com/besu-eth/besu/commit/fb602272debf4d5cd3faf1404041eaefa6be126f) - 2026-09-07
+* [Review] [Review on: fix: enable strict balance checking in debug_traceCall](https://github.com/besu-eth/besu/pull/11230#pullrequestreview-5147939564) - 2026-09-08
+* [Review] [Review on: proposed update to user guidance on security issues](https://github.com/besu-eth/besu/pull/11239#pullrequestreview-5140807092) - 2026-09-08
+* [Pull Request] [only run AT timing task on merge to main, not PRs](https://github.com/besu-eth/besu/pull/11255) - 2026-09-08
+* [Pull Request] [fix(simulate): inherit parent block gasLimit in eth_simulateV1](https://github.com/besu-eth/besu/pull/11254) - 2026-09-08
+* [Review] [Review on: fix(simulate): inherit parent block gasLimit in eth_simulateV1](https://github.com/besu-eth/besu/pull/11254#pullrequestreview-5137154825) - 2026-09-08
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Pull Request] [changelog and version bump post release 2.0.0](https://github.com/besu-eth/besu-native/pull/320) - 2026-07-21
 * [Pull Request] [changelog and version bump for release 2.0.0](https://github.com/besu-eth/besu-native/pull/319) - 2026-07-21

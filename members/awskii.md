@@ -463,6 +463,22 @@ Team: Erigon
 * [Pull Request] [db/datastruct/btindex: prefix-seed bs(), cache offsets, interpolate in Seek](https://github.com/erigontech/erigon/pull/23841) - 2026-09-07
 * [Review] [Review on: db/datastruct/btindex: prefix-seed bs(), cache offsets, interpolate in Seek](https://github.com/erigontech/erigon/pull/23841#pullrequestreview-5130921991) - 2026-09-07
 * [Commit] [db/state, cmd: enable parallel commitment by default (#23831)](https://github.com/erigontech/erigon/commit/6735182f6ce4bf633a9a9f0c679609529b466d0e) - 2026-09-07
+* [Review] [Review on: cl/services: drop the blob-sidecar pending map that nothing drains](https://github.com/erigontech/erigon/pull/23834#pullrequestreview-5144066377) - 2026-09-08
+* [Review] [Review on: cl/network: do not ban a peer for an empty BeaconBlocksByRange response](https://github.com/erigontech/erigon/pull/23837#pullrequestreview-5144067438) - 2026-09-08
+* [Review] [Review on: cl/services: ignore, and retry, a block the execution layer did not answer for](https://github.com/erigontech/erigon/pull/23836#pullrequestreview-5144067095) - 2026-09-08
+* [Review] [Review on: p2p/discover: relay-check the discv5 handshake record before adding it to the table](https://github.com/erigontech/erigon/pull/23833#pullrequestreview-5144065890) - 2026-09-08
+* [Review] [Review on: txnprovider/txpool: release sender ids for remote txns that reach no sub-pool](https://github.com/erigontech/erigon/pull/23835#pullrequestreview-5144066704) - 2026-09-08
+* [Review] [Review on: cl/services: claim the attestation seen slot only after signature verification](https://github.com/erigontech/erigon/pull/23832#pullrequestreview-5144065576) - 2026-09-08
+* [Review] [Review on: cl/phase1/forkchoice: bound badBlocks so a peer cannot grow it without limit](https://github.com/erigontech/erigon/pull/23830#pullrequestreview-5144065159) - 2026-09-08
+* [Review] [Review on: cl/cltypes: size Gloas execution-request decode guards by the chunk limit](https://github.com/erigontech/erigon/pull/23829#pullrequestreview-5144064677) - 2026-09-08
+* [Review] [Review on: [r3.6] cl/sentinel: honour the peer ban on inbound connections](https://github.com/erigontech/erigon/pull/23866#pullrequestreview-5142298717) - 2026-09-08
+* [Review] [Review on: [r3.5] ci: pin the Geth used by the DevP2P simulator](https://github.com/erigontech/erigon/pull/23864#pullrequestreview-5142192069) - 2026-09-08
+* [Review] [Review on: db/state: replace the .vi perfect hash with two Elias-Fano sequences (40.11GB -> 549MB)](https://github.com/erigontech/erigon/pull/23844#pullrequestreview-5138763916) - 2026-09-08
+* [Review] [Review on: lint: enable `shadow` linter for `./db` pkgs (step 3)](https://github.com/erigontech/erigon/pull/23816#pullrequestreview-5138982751) - 2026-09-08
+* [Review] [Review on: lint: enable `shadow` linter for `./db` pkgs (step 2)](https://github.com/erigontech/erigon/pull/23785#pullrequestreview-5138980993) - 2026-09-08
+* [Review] [Review on: [r3.6] db/downloader: keep local snapshot data once the initial download is complete](https://github.com/erigontech/erigon/pull/23859#pullrequestreview-5137496713) - 2026-09-08
+* [Commit] [cl/antiquary: remove overlapping caplin state segments after each dump (#23471)](https://github.com/erigontech/erigon/commit/7923e7f117efd47c898312c6b7222c52195e2c6d) - 2026-09-08
+* [Commit] [execution/vm: rules-keyed precompile providers (#22217)](https://github.com/erigontech/erigon/commit/ebe3c028474d30ea3c6cc79f684869d47f7de085) - 2026-09-08
 [ethereum/execution-specs](https://github.com/ethereum/execution-specs)
 * [Pull Request] [tests(binary_tree): witness cost of reading chunked code](https://github.com/ethereum/execution-specs/pull/3286) - 2026-08-03
 * [Pull Request] [binary(tests): consecutive deploys into a shared code zone](https://github.com/ethereum/execution-specs/pull/3316) - 2026-08-05

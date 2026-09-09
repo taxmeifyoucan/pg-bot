@@ -311,6 +311,22 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Commit] [Reduce EVM opcode dispatch and call-frame overhead (#13189)](https://github.com/NethermindEth/nethermind/commit/014462bff656b2846792bed8bcd345cc3a4a2a0e) - 2026-09-07
 * [Commit] [fix(flatdb): release compacted snapshots after base conversion (#13223)](https://github.com/NethermindEth/nethermind/commit/5f3f59ee082b3fbe2ffb1c85f7c0f742113d7689) - 2026-09-07
 * [Commit] [fix(jsonrpc): do not format the request when logging an OutOfMemoryException (#13225)](https://github.com/NethermindEth/nethermind/commit/221dff270347dcf1676e0927e5c0368aa5ede485) - 2026-09-07
+* [Review] [Review on: refactor(rpc): decompose JsonRpcProcessor into decoder, batch source and diagnostics](https://github.com/NethermindEth/nethermind/pull/13290#pullrequestreview-5149054050) - 2026-09-09
+* [Review] [Review on: chore(deps): update Nethermind.Crypto.SecP256k1 package](https://github.com/NethermindEth/nethermind/pull/13289#pullrequestreview-5148977412) - 2026-09-09
+* [Pull Request] [fix(flatdb): bound sibling snapshots under a pinned head and re-execute pruned blocks](https://github.com/NethermindEth/nethermind/pull/13282) - 2026-09-08
+* [Review] [Review on: fix(flatdb): bound sibling snapshots under a pinned head and re-execute pruned blocks](https://github.com/NethermindEth/nethermind/pull/13282#pullrequestreview-5144158814) - 2026-09-08
+* [Review] [Review on: fix(rpc): stop unauthenticated input causing unhandled exceptions, empty 500s, leaked traces and WARN floods (#13194, #13195, #13197, #13198, #13156)](https://github.com/NethermindEth/nethermind/pull/13251#pullrequestreview-5139573727) - 2026-09-08
+* [Review] [Review on: Build a sparse block bodies response body's transaction trie once](https://github.com/NethermindEth/nethermind/pull/13268#pullrequestreview-5144473865) - 2026-09-08
+* [Review] [Review on: Precreate RocksDB WAL files asynchronously](https://github.com/NethermindEth/nethermind/pull/13262#pullrequestreview-5140280304) - 2026-09-08
+* [Review] [Review on: Defer eligible RocksDB cleanup I/O to background workers](https://github.com/NethermindEth/nethermind/pull/13261#pullrequestreview-5140196608) - 2026-09-08
+* [Review] [Review on: Reserve one receipt slot per parallel worker tracer](https://github.com/NethermindEth/nethermind/pull/13267#pullrequestreview-5140870811) - 2026-09-08
+* [Review] [Review on: Select flat Account index search automatically](https://github.com/NethermindEth/nethermind/pull/13260#pullrequestreview-5140147898) - 2026-09-08
+* [Pull Request] [Retain resolved warmer children in shared parent slots](https://github.com/NethermindEth/nethermind/pull/13277) - 2026-09-08
+* [Review] [Review on: Retain resolved warmer children in shared parent slots](https://github.com/NethermindEth/nethermind/pull/13277#pullrequestreview-5143297517) - 2026-09-08
+* [Pull Request] [fix(flat): prevent warmer misses escaping through shared trie children](https://github.com/NethermindEth/nethermind/pull/13272) - 2026-09-08
+* [Review] [Review on: fix(flat): prevent warmer misses escaping through shared trie children](https://github.com/NethermindEth/nethermind/pull/13272#pullrequestreview-5142046772) - 2026-09-08
+* [Commit] [fix(flat): prevent warmer misses escaping through shared trie children (#13272)](https://github.com/NethermindEth/nethermind/commit/221c144bffbde4d68ef3e52fc3fb0b3a48879fe6) - 2026-09-08
+* [Commit] [perf(evm): name opcode handlers for profiler attribution (#13253)](https://github.com/NethermindEth/nethermind/commit/de52a92e43b217ca12ff361f933d51a39b055611) - 2026-09-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Update EIP-7954: Move to Review](https://github.com/ethereum/EIPs/pull/11876#pullrequestreview-4640669111) - 2026-07-07
 * [Review] [Review on: Update EIP-7778: Move to Review](https://github.com/ethereum/EIPs/pull/11874#pullrequestreview-4640666939) - 2026-07-07

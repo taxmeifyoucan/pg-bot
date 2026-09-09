@@ -26,6 +26,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aga
 * [Review] [Review on: Remove unreachable ACCEPTED branch from engine_newPayload](https://github.com/besu-eth/besu/pull/11237#pullrequestreview-5105048525) - 2026-09-03
 * [Issue] [engine api does not correctly handle parent world state unavailable](https://github.com/besu-eth/besu/issues/11238) - 2026-09-03
 * [Pull Request] [newPayload SYNCING response when parent worldstate is not present](https://github.com/besu-eth/besu/pull/11242) - 2026-09-04
+* [Review] [Review on: engine API: check an execution request's length before its type byte](https://github.com/besu-eth/besu/pull/11194#pullrequestreview-5144890918) - 2026-09-08
 [hyperledger/besu-native](https://github.com/hyperledger/besu-native)
 * [Review] [Review on: Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298#pullrequestreview-4664315207) - 2026-07-09
 * [Pull Request] [Static libs and jar artifact for boringssl](https://github.com/besu-eth/besu-native/pull/298) - 2026-07-20

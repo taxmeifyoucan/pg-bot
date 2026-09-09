@@ -106,6 +106,7 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr)
 * [Commit] [bids with equal block hash and parent block hash are invalid (#11221)](https://github.com/Consensys-Incorporated/teku/commit/82925a34b4a9c0a7cb00b54e97f6e6d7c898cd1d) - 2026-09-04
 * [Pull Request] [Revalidate future blocks on slot replay](https://github.com/Consensys-Incorporated/teku/pull/11247) - 2026-09-07
 * [Review] [Review on: Revalidate future blocks on slot replay](https://github.com/Consensys-Incorporated/teku/pull/11247#pullrequestreview-5134474742) - 2026-09-07
+* [Review] [Review on: Fix: OOM didn't force Teku to quit](https://github.com/Consensys-Incorporated/teku/pull/11241#pullrequestreview-5143280013) - 2026-09-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Require imported payload for `index == 1` attestation gossip (#5355)](https://github.com/ethereum/consensus-specs/commit/85cf7ea66d012d1378c607ab4dedac60822435b5) - 2026-07-06
 * [Review] [Review on: Restrict builder withdrawal prefixes](https://github.com/ethereum/consensus-specs/pull/5435#pullrequestreview-4643901916) - 2026-07-07

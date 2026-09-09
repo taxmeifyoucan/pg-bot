@@ -64,6 +64,7 @@ Github: [@chong-he](https://github.com/chong-he)
 * [Review] [Review on: Fix false peer penalties during Gloas custody backfill](https://github.com/sigp/lighthouse/pull/9953#pullrequestreview-5073806282) - 2026-09-01
 * [Review] [Review on: Apply Beacon API amendments to payload attestation data endpoint](https://github.com/sigp/lighthouse/pull/9959#pullrequestreview-5108332318) - 2026-09-04
 * [Review] [Review on: Add 0x02 support to validator creation](https://github.com/sigp/lighthouse/pull/9702#pullrequestreview-5099978192) - 2026-09-03
+* [Review] [Review on: Apply Beacon API amendments to payload attestation data endpoint](https://github.com/sigp/lighthouse/pull/9959#pullrequestreview-5138520857) - 2026-09-08
 ## Q2 2026
 
 

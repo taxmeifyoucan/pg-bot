@@ -115,6 +115,8 @@ Team: [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-
 * [Review] [Review on: 1/2 sidecars storage on supernodes: RPC logging + more RPC tests](https://github.com/Consensys-Incorporated/teku/pull/11183#pullrequestreview-5132400022) - 2026-09-07
 * [Review] [Review on: Avoid duplicate metric events in FCR](https://github.com/Consensys-Incorporated/teku/pull/11198#pullrequestreview-5132479868) - 2026-09-07
 * [Review] [Review on: Revalidate future blocks on slot replay](https://github.com/Consensys-Incorporated/teku/pull/11247#pullrequestreview-5134248079) - 2026-09-07
+* [Review] [Review on: Avoid duplicate metric events in FCR](https://github.com/Consensys-Incorporated/teku/pull/11198#pullrequestreview-5139909107) - 2026-09-08
+* [Review] [Review on: Revalidate future blocks on slot replay](https://github.com/Consensys-Incorporated/teku/pull/11247#pullrequestreview-5144631235) - 2026-09-08
 ## Q2 2026
 
 

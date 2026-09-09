@@ -90,6 +90,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: serve closest head state if head block post-state is not available](https://github.com/ChainSafe/lodestar/pull/10003#pullrequestreview-5108041026) - 2026-09-04
 * [Review] [Review on: fix: handle orphaned parent payload envelope in range sync batches](https://github.com/ChainSafe/lodestar/pull/10002#pullrequestreview-5108172681) - 2026-09-04
 * [Review] [Review on: feat: add compliance test for gloas](https://github.com/ChainSafe/lodestar/pull/9761#pullrequestreview-5119165531) - 2026-09-05
+* [Pull Request] [fix: emit finalized_checkpoint event from fork choice finalized callback](https://github.com/ChainSafe/lodestar/pull/10035) - 2026-09-08
+* [Pull Request] [fix: emit payload_attributes before EL payload preparation](https://github.com/ChainSafe/lodestar/pull/10037) - 2026-09-08
+* [Review] [Review on: fix: emit payload_attributes before EL payload preparation](https://github.com/ChainSafe/lodestar/pull/10037#pullrequestreview-5148310800) - 2026-09-09
+* [Pull Request] [fix: emit head event when fork choice head changes on clock tick](https://github.com/ChainSafe/lodestar/pull/10036) - 2026-09-08
+* [Review] [Review on: feat: add compliance test for gloas](https://github.com/ChainSafe/lodestar/pull/9761#pullrequestreview-5136948921) - 2026-09-08
+* [Review] [Review on: test: enable payload attestation spec tests](https://github.com/ChainSafe/lodestar/pull/10015#pullrequestreview-5137313589) - 2026-09-08
+* [Issue] [Attestation data can use a stale cached head on empty slots](https://github.com/ChainSafe/lodestar/issues/10038) - 2026-09-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Restrict builder deposits to payload builders](https://github.com/ethereum/consensus-specs/pull/5439#pullrequestreview-4648124980) - 2026-07-07
 * [Pull Request] [Add fork-choice tests for `should_apply_proposer_boost`](https://github.com/ethereum/consensus-specs/pull/5441) - 2026-07-09

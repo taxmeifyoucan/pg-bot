@@ -93,6 +93,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amich
 * [Review] [Review on: Implement `engine_getPayloadBodiesByHashV2`](https://github.com/sigp/lighthouse/pull/9982#pullrequestreview-5127608982) - 2026-09-07
 * [Issue] [Flaky test](https://github.com/sigp/lighthouse/issues/9999) - 2026-09-08
 * [Issue] [Delete code for `get_payload_bodies_by_range` (V1)](https://github.com/sigp/lighthouse/issues/9996) - 2026-09-08
+* [Review] [Review on: Add attestations test with `payload_present` in op pool](https://github.com/sigp/lighthouse/pull/9531#pullrequestreview-5137849125) - 2026-09-08
+* [Review] [Review on: Gloas spec beta 0](https://github.com/sigp/lighthouse/pull/10014#pullrequestreview-5148685838) - 2026-09-09
+* [Review] [Review on: Initiate a shutdown if the node cannot recover from a diverged fork choice](https://github.com/sigp/lighthouse/pull/9819#pullrequestreview-5137836886) - 2026-09-08
+* [Pull Request] [Fix flaky unknown block test](https://github.com/sigp/lighthouse/pull/10001) - 2026-09-08
+* [Review] [Review on: Fix flaky unknown block test](https://github.com/sigp/lighthouse/pull/10001#pullrequestreview-5142497415) - 2026-09-08
+* [Review] [Review on: Fix order of fields in `PartialDataColumnGroupId`](https://github.com/sigp/lighthouse/pull/9977#pullrequestreview-5137772295) - 2026-09-08
+* [Review] [Review on: Add tests to check for divergence between fork choice and the store](https://github.com/sigp/lighthouse/pull/9818#pullrequestreview-5137799574) - 2026-09-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Reject bids from builders exited by the parent's payload](https://github.com/ethereum/consensus-specs/pull/5580#pullrequestreview-5066375110) - 2026-08-31
 * [Issue] [Gloas: initially valid bids can be made invalid by application of the parent payload](https://github.com/ethereum/consensus-specs/issues/5583) - 2026-08-31

@@ -77,6 +77,13 @@ Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawa
 * [Review] [Review on: Reject bids whose block hash equals the parent block hash](https://github.com/sigp/lighthouse/pull/9970#pullrequestreview-5106825062) - 2026-09-03
 * [Pull Request] [Load bids from db if bid is missing](https://github.com/sigp/lighthouse/pull/9979) - 2026-09-05
 * [Review] [Review on: Fix Gloas nodes failing to resume sync after restart](https://github.com/sigp/lighthouse/pull/9940#pullrequestreview-5119231492) - 2026-09-05
+* [Review] [Review on: Ignore exits for all withdrawing validators in Gloas block prod](https://github.com/sigp/lighthouse/pull/9983#pullrequestreview-5148936096) - 2026-09-09
+* [Review] [Review on: Remove buggy parent_root calculations from Gloas block production](https://github.com/sigp/lighthouse/pull/9997#pullrequestreview-5148842278) - 2026-09-09
+* [Review] [Review on: Avoid walking already indexed validators in the monitor](https://github.com/sigp/lighthouse/pull/9995#pullrequestreview-5145208907) - 2026-09-08
+* [Review] [Review on: Convert produceBlockV4 to POST and round-trip Eth-Builder-Url (Gloas builder API 4/5)](https://github.com/sigp/lighthouse/pull/9806#pullrequestreview-5144879528) - 2026-09-08
+* [Review] [Review on: `engine_getBlobsV4`](https://github.com/sigp/lighthouse/pull/9438#pullrequestreview-5145291609) - 2026-09-08
+* [Review] [Review on: Enable partials by default on custom networks](https://github.com/sigp/lighthouse/pull/9773#pullrequestreview-5145146535) - 2026-09-08
+* [Review] [Review on: Delete unused `engine_getPayloadBodiesByRange` client code](https://github.com/sigp/lighthouse/pull/10007#pullrequestreview-5145075889) - 2026-09-08
 ## Q2 2026
 
 

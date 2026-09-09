@@ -214,6 +214,15 @@ Github: [@spiral-ladder](https://github.com/spiral-ladder)
 * [Review] [Review on: fix: preserve sync committee ownership on rotation OOM](https://github.com/ChainSafe/lodestar-z/pull/652#pullrequestreview-5130771630) - 2026-09-07
 * [Commit] [fix(bindings): expose explicit state view disposal (#649)](https://github.com/ChainSafe/lodestar-z/commit/cb42fa061f44d78371ea14eafc6caf2cc924e6d8) - 2026-09-07
 * [Commit] [fix(bindings): support blinded state transitions (#628)](https://github.com/ChainSafe/lodestar-z/commit/3fdb5aabf98552d809532e790bbbd8c4ec3a283c) - 2026-09-07
+* [Review] [Review on: docs: add PR title and description guidelines](https://github.com/ChainSafe/lodestar-z/pull/640#pullrequestreview-5139278604) - 2026-09-08
+* [Pull Request] [refactor(metrics): drop SSZ node-cache metrics](https://github.com/ChainSafe/lodestar-z/pull/666) - 2026-09-08
+* [Pull Request] [feat(metrics): record exported but unset state transition gauges](https://github.com/ChainSafe/lodestar-z/pull/662) - 2026-09-08
+* [Pull Request] [feat(metrics): record external hash tree root timings](https://github.com/ChainSafe/lodestar-z/pull/664) - 2026-09-08
+* [Review] [Review on: perf: fill reusable participation buffers directly](https://github.com/ChainSafe/lodestar-z/pull/660#pullrequestreview-5139248720) - 2026-09-08
+* [Review] [Review on: fix: report proposer rewards from block transitions](https://github.com/ChainSafe/lodestar-z/pull/655#pullrequestreview-5139138808) - 2026-09-08
+* [Review] [Review on: perf(ssz): hash dirty basic field roots directly](https://github.com/ChainSafe/lodestar-z/pull/615#pullrequestreview-5137048340) - 2026-09-08
+* [Review] [Review on: fix(shuffle): reject out-of-range numbers instead of coercing](https://github.com/ChainSafe/lodestar-z/pull/580#pullrequestreview-5136955611) - 2026-09-08
+* [Issue] [state transition metrics](https://github.com/ChainSafe/lodestar-z/issues/663) - 2026-09-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Review] [Review on: Add gas limit schedule (EIP-8261)](https://github.com/ethereum/consensus-specs/pull/5533#pullrequestreview-4923524448) - 2026-08-13
 ## Q2 2026

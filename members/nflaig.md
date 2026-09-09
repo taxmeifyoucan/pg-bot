@@ -508,6 +508,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: chore: log orphaned payload source in range sync](https://github.com/ChainSafe/lodestar/pull/10021#pullrequestreview-5128466030) - 2026-09-07
 * [Issue] [Range sync bans peers when the execution client wrongly returns INVALID](https://github.com/ChainSafe/lodestar/issues/10031) - 2026-09-07
 * [Issue] [gloas block processing is ~5x slower than pre-gloas with a 4M-validator state (1M active)](https://github.com/ChainSafe/lodestar/issues/10024) - 2026-09-07
+* [Review] [Review on: fix: emit finalized_checkpoint event from fork choice finalized callback](https://github.com/ChainSafe/lodestar/pull/10035#pullrequestreview-5140570142) - 2026-09-08
+* [Review] [Review on: fix: emit payload_attributes before EL payload preparation](https://github.com/ChainSafe/lodestar/pull/10037#pullrequestreview-5140342152) - 2026-09-08
+* [Review] [Review on: deps: integrate ssz 1.7.0 progressive list limits](https://github.com/ChainSafe/lodestar/pull/10042#pullrequestreview-5146671572) - 2026-09-08
+* [Review] [Review on: fix(reqresp): floor rate-limiter request cost to at least 1 token](https://github.com/ChainSafe/lodestar/pull/10034#pullrequestreview-5147182884) - 2026-09-08
+* [Review] [Review on: test: accept zero finalizedBlockHash in mock execution engine](https://github.com/ChainSafe/lodestar/pull/10044#pullrequestreview-5147104151) - 2026-09-08
+* [Review] [Review on: fix: emit head event when fork choice head changes on clock tick](https://github.com/ChainSafe/lodestar/pull/10036#pullrequestreview-5140414003) - 2026-09-08
+* [Review] [Review on: feat: add compliance test for gloas](https://github.com/ChainSafe/lodestar/pull/9761#pullrequestreview-5140520133) - 2026-09-08
+* [Commit] [fix: do not abort validator monitor epoch summaries on unknown block roots (#10026)](https://github.com/ChainSafe/lodestar/commit/b4a608e68fee95cd2c9d66708925fdb051a27be8) - 2026-09-08
+* [Commit] [fix: check the parent envelope block root in chain segment assertion (#10033)](https://github.com/ChainSafe/lodestar/commit/b71ab45af3ff80a338533e82e628c7a8cf4145c3) - 2026-09-08
+* [Commit] [test: enable payload attestation spec tests (#10015)](https://github.com/ChainSafe/lodestar/commit/e25eb75f31210433e914ab09d98a6710c1565e44) - 2026-09-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Pull Request] [Reject instead of ignore incompatible gas limit bids](https://github.com/ethereum/consensus-specs/pull/5428) - 2026-07-03
 * [Pull Request] [Reduce `MIN_BUILDER_WITHDRAWABILITY_DELAY` to 64 epochs](https://github.com/ethereum/consensus-specs/pull/5426) - 2026-07-03
@@ -566,6 +576,8 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Pull Request] [Only serve canonical payload envelopes by range](https://github.com/ethereum/consensus-specs/pull/5608) - 2026-09-07
 * [Pull Request] [Clarify when to broadcast payload attestation messages](https://github.com/ethereum/consensus-specs/pull/5612) - 2026-09-07
 * [Review] [Review on: Bound the bid's gas limit against the parent execution payload](https://github.com/ethereum/consensus-specs/pull/5598#pullrequestreview-5130210461) - 2026-09-07
+* [Commit] [Clarify when to broadcast payload attestation messages (#5612)](https://github.com/ethereum/consensus-specs/commit/ad0058fd0d34c5dcf504fa51ea2f4f11077b9996) - 2026-09-08
+* [Commit] [Only serve canonical payload envelopes by range (#5608)](https://github.com/ethereum/consensus-specs/commit/aadfa06646c1e9c4ac9a7982507f40d1532fe9f6) - 2026-09-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/pull/11859) - 2026-07-03
 * [Commit] [Update EIP-8282: Sync with gloas spec](https://github.com/ethereum/EIPs/commit/20e77b2b621041e8a82a8d0cec3beb889e589fab) - 2026-07-06

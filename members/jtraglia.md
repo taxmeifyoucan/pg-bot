@@ -272,6 +272,11 @@ Team: [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3A
 * [Pull Request] [Compute max `DataColumnSidecar` size based on blob schedule](https://github.com/ethereum/consensus-specs/pull/5613) - 2026-09-08
 * [Review] [Review on: Only serve canonical payload envelopes by range](https://github.com/ethereum/consensus-specs/pull/5608#pullrequestreview-5136345584) - 2026-09-08
 * [Review] [Review on: Update dependency zensical to v0.0.59](https://github.com/ethereum/consensus-specs/pull/5607#pullrequestreview-5128014641) - 2026-09-07
+* [Pull Request] [Preserve packaged tests for release upload retries](https://github.com/ethereum/consensus-specs/pull/5616) - 2026-09-08
+* [Review] [Review on: Extend existing tests to cover Heze](https://github.com/ethereum/consensus-specs/pull/5615#pullrequestreview-5143468118) - 2026-09-08
+* [Review] [Review on: Clarify when to broadcast payload attestation messages](https://github.com/ethereum/consensus-specs/pull/5612#pullrequestreview-5144349375) - 2026-09-08
+* [Review] [Review on: Compute max `DataColumnSidecar` size based on blob schedule](https://github.com/ethereum/consensus-specs/pull/5613#pullrequestreview-5143921516) - 2026-09-08
+* [Review] [Review on: Use block's slot to validate max blobs in gossip](https://github.com/ethereum/consensus-specs/pull/5614#pullrequestreview-5143667389) - 2026-09-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4636464911) - 2026-07-06
 * [Pull Request] [Remove Andrés Jiménez Láinez](https://github.com/protocolguild/documentation/pull/514) - 2026-07-07

@@ -205,6 +205,7 @@ Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afa
 * [Commit] [Update tests-glamsterdam-devnet to v8.1.3 (#11233)](https://github.com/besu-eth/besu/commit/55c7d60e325bfcdd69b1c59d95235e11956ecf1e) - 2026-09-03
 * [Commit] [Complete refactor of engine_getBlobsV* methods (#11204)](https://github.com/besu-eth/besu/commit/10cf6ffe169d2b2f96654c56769a2052785a54a4) - 2026-09-03
 * [Review] [Review on: add guava source metadata](https://github.com/besu-eth/besu/pull/11240#pullrequestreview-5110505371) - 2026-09-04
+* [Review] [Review on: only run AT timing task on merge to main, not PRs](https://github.com/besu-eth/besu/pull/11255#pullrequestreview-5139583468) - 2026-09-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Miroslav Kovář to Besu ](https://github.com/protocolguild/documentation/pull/533#pullrequestreview-4896436485) - 2026-08-10
 

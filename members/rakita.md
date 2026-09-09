@@ -69,6 +69,8 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Pull Request] [chore: batch Dependabot updates](https://github.com/bluealloy/revm/pull/3896) - 2026-09-07
 * [Commit] [chore: batch Dependabot updates (#3896)](https://github.com/bluealloy/revm/commit/fe7c5f6e6a5739eb9376f771d184a971343d6197) - 2026-09-07
 * [Commit] [fix: reconcile sibling state gas refills (#3893)](https://github.com/bluealloy/revm/commit/d23bb3a4b0c384b17adf060917016c3c9db1abe8) - 2026-09-07
+* [Pull Request] [chore: release v118](https://github.com/bluealloy/revm/pull/3901) - 2026-09-08
+* [Commit] [chore: release v118 (#3901)](https://github.com/bluealloy/revm/commit/30e94e471766ace1ed1c7457bf243e282aa51104) - 2026-09-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-2780: warm-access floor intrinsic, cold surcharge at runtime](https://github.com/ethereum/EIPs/pull/11844) - 2026-07-01
 * [Review] [Review on: Update EIP-2780: move state-dependent charges to runtime (cold surcharge, new-account state gas)](https://github.com/ethereum/EIPs/pull/11844#pullrequestreview-4618635842) - 2026-07-02
@@ -101,6 +103,9 @@ Team: [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita)
 * [Commit] [chore(deps): reapply revm 43 update (#26859)](https://github.com/paradigmxyz/reth/commit/9571dec6ea3c1ad7a857214ec24ceaa0b0c9d89b) - 2026-09-02
 * [Review] [Review on: chore(ci): orchestrate nightly dependency branches](https://github.com/paradigmxyz/reth/pull/26905#pullrequestreview-5105125121) - 2026-09-03
 * [Pull Request] [chore(deps): patch revm to main](https://github.com/paradigmxyz/reth/pull/27067) - 2026-09-07
+* [Pull Request] [chore(deps): bump revm to 43.0.1](https://github.com/paradigmxyz/reth/pull/27096) - 2026-09-08
+* [Pull Request] [test(evm): bump EEST fixtures to Glamsterdam v8.1.4](https://github.com/paradigmxyz/reth/pull/27099) - 2026-09-08
+* [Commit] [chore(deps): bump revm to 43.0.1 (#27096)](https://github.com/paradigmxyz/reth/commit/db702b511a9dfe5a80ef76685dd93652ffe37cc5) - 2026-09-08
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [feat: glamsterdam-devnet-7](https://github.com/paradigmxyz/revmc/pull/404) - 2026-07-14
 * [Pull Request] [chore: bump revm to 42.0.0](https://github.com/paradigmxyz/revmc/pull/406) - 2026-07-23

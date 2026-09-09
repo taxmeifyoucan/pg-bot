@@ -61,6 +61,8 @@ Team: Reth
 * [Review] [Review on: chore(ci): remove separate benchmark hosting repository](https://github.com/paradigmxyz/reth/pull/27069#pullrequestreview-5135050047) - 2026-09-07
 * [Review] [Review on: perf(txpool): reuse subpool update buffer](https://github.com/paradigmxyz/reth/pull/27060#pullrequestreview-5132809436) - 2026-09-07
 * [Review] [Review on: perf(txpool): process insertion updates with one iterator](https://github.com/paradigmxyz/reth/pull/27064#pullrequestreview-5132797067) - 2026-09-07
+* [Review] [Review on: perf(engine): skip unused pool cleanup on BAL path](https://github.com/paradigmxyz/reth/pull/27074#pullrequestreview-5140780804) - 2026-09-08
+* [Review] [Review on: perf(engine): reserve canonical BAL account capacity](https://github.com/paradigmxyz/reth/pull/27079#pullrequestreview-5141015532) - 2026-09-08
 [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc)
 * [Pull Request] [perf: initialize only native LLVM target](https://github.com/paradigmxyz/revmc/pull/403) - 2026-07-13
 * [Commit] [perf: initialize only native LLVM target (#403)](https://github.com/paradigmxyz/revmc/commit/520462a463523a3bcd0a47226ddbc3200d62232e) - 2026-07-13

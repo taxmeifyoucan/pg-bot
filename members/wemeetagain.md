@@ -163,6 +163,13 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix: minor improvement on ptc message gossip validation](https://github.com/ChainSafe/lodestar/pull/9969#pullrequestreview-5097423680) - 2026-09-03
 * [Issue] [Interchange import is not atomic, a rejected file leaves partial slashing protection state](https://github.com/ChainSafe/lodestar/issues/10001) - 2026-09-03
 * [Pull Request] [refactor: select experimental native state transition during setup](https://github.com/ChainSafe/lodestar/pull/10014) - 2026-09-05
+* [Review] [Review on: fix: emit finalized_checkpoint event from fork choice finalized callback](https://github.com/ChainSafe/lodestar/pull/10035#pullrequestreview-5147040222) - 2026-09-08
+* [Pull Request] [deps: integrate ssz 1.7.0 progressive list limits](https://github.com/ChainSafe/lodestar/pull/10042) - 2026-09-08
+* [Review] [Review on: deps: integrate ssz 1.7.0 progressive list limits](https://github.com/ChainSafe/lodestar/pull/10042#pullrequestreview-5146665145) - 2026-09-08
+* [Review] [Review on: fix: derive earliestAvailableSlot from DB instead of freezing at anchor slot](https://github.com/ChainSafe/lodestar/pull/10012#pullrequestreview-5147408137) - 2026-09-08
+* [Review] [Review on: fix(reqresp): floor rate-limiter request cost to at least 1 token](https://github.com/ChainSafe/lodestar/pull/10034#pullrequestreview-5147078334) - 2026-09-08
+* [Review] [Review on: fix: do not abort validator monitor epoch summaries on unknown block roots](https://github.com/ChainSafe/lodestar/pull/10026#pullrequestreview-5147095327) - 2026-09-08
+* [Review] [Review on: fix: check the parent envelope block root in chain segment assertion](https://github.com/ChainSafe/lodestar/pull/10033#pullrequestreview-5147027870) - 2026-09-08
 [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
 * [Commit] [Mandate QUIC as primary transport (#5330)](https://github.com/ethereum/consensus-specs/commit/801a38e1524a4945e30105a281ae693e3355d5ad) - 2026-07-06
 
@@ -305,6 +312,16 @@ Team: [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%
 * [Review] [Review on: fix(stf): fix epochshuffling slot committee slice leaks](https://github.com/ChainSafe/lodestar-z/pull/636#pullrequestreview-5114091317) - 2026-09-04
 * [Commit] [refactor: extract tests to _test.zig, add tidy lint (#625)](https://github.com/ChainSafe/lodestar-z/commit/bb485bbc02714bb0e53ade32302952c75a50a794) - 2026-09-04
 * [Review] [Review on: perf(ssz): avoid scratch allocation in chunked list serialization](https://github.com/ChainSafe/lodestar-z/pull/642#pullrequestreview-5131946501) - 2026-09-07
+* [Review] [Review on: perf(ssz): avoid scratch allocation in chunked list serialization](https://github.com/ChainSafe/lodestar-z/pull/642#pullrequestreview-5142908928) - 2026-09-08
+* [Review] [Review on: feat: partial validator monitor](https://github.com/ChainSafe/lodestar-z/pull/475#pullrequestreview-5146246568) - 2026-09-08
+* [Review] [Review on: perf: allocate epoch scratch buffers on demand](https://github.com/ChainSafe/lodestar-z/pull/665#pullrequestreview-5146229815) - 2026-09-08
+* [Review] [Review on: fix(state-transition): prevent next-shuffling ownership corruption on decision-root failure](https://github.com/ChainSafe/lodestar-z/pull/634#pullrequestreview-5144332318) - 2026-09-08
+* [Review] [Review on: fix(ssz): keep clone destinations deinit-safe](https://github.com/ChainSafe/lodestar-z/pull/614#pullrequestreview-5144297277) - 2026-09-08
+* [Review] [Review on: refactor(ssz): simplify progressive bit list type](https://github.com/ChainSafe/lodestar-z/pull/637#pullrequestreview-5144278883) - 2026-09-08
+* [Review] [Review on: fix: avoid duplicate phase0 pending-attestation participants](https://github.com/ChainSafe/lodestar-z/pull/659#pullrequestreview-5144273755) - 2026-09-08
+* [Review] [Review on: feat(metrics): record exported but unset state transition gauges](https://github.com/ChainSafe/lodestar-z/pull/662#pullrequestreview-5143276781) - 2026-09-08
+* [Review] [Review on: perf: use branchless swaps in shuffle](https://github.com/ChainSafe/lodestar-z/pull/661#pullrequestreview-5143130639) - 2026-09-08
+* [Review] [Review on: perf: fill reusable participation buffers directly](https://github.com/ChainSafe/lodestar-z/pull/660#pullrequestreview-5142927404) - 2026-09-08
 [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 * [Issue] [eth/70 receipt sync rejects valid EIP-2780 receipts below 21,000 gas](https://github.com/NethermindEth/nethermind/issues/12461) - 2026-07-15
 ## Q2 2026

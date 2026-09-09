@@ -316,6 +316,24 @@ Team: [NethermindEth contributions](https://github.com/Marchhill?org=NethermindE
 * [Pull Request] [ci(nethtest): raise the frame lane case floors to the pinned release](https://github.com/NethermindEth/nethermind/pull/13229) - 2026-09-07
 * [Review] [Review on: ci(nethtest): raise the frame lane case floors to the pinned release](https://github.com/NethermindEth/nethermind/pull/13229#pullrequestreview-5134665162) - 2026-09-07
 * [Review] [Review on: perf: remove per-child and per-call overhead from the RLP encode path](https://github.com/NethermindEth/nethermind/pull/13226#pullrequestreview-5134598496) - 2026-09-07
+* [Review] [Review on: Enable flat DB by default; flip CI backend coverage](https://github.com/NethermindEth/nethermind/pull/11931#pullrequestreview-5142771176) - 2026-09-08
+* [Pull Request] [fix(txpool): price a frame transaction's fee against its payer, not its sender](https://github.com/NethermindEth/nethermind/pull/13280) - 2026-09-08
+* [Review] [Review on: fix(txpool): price a frame transaction's fee against its payer, not its sender](https://github.com/NethermindEth/nethermind/pull/13280#pullrequestreview-5144826486) - 2026-09-08
+* [Pull Request] [fix(rlp): derive the receipt log limit from the block gas ceiling](https://github.com/NethermindEth/nethermind/pull/13288) - 2026-09-08
+* [Review] [Review on: fix(rlp): derive the receipt log limit from the block gas ceiling](https://github.com/NethermindEth/nethermind/pull/13288#pullrequestreview-5146097240) - 2026-09-08
+* [Pull Request] [EIP-8141: correct four frame transaction admission and selection bounds](https://github.com/NethermindEth/nethermind/pull/13283) - 2026-09-08
+* [Review] [Review on: EIP-8141: correct four frame transaction admission and selection bounds](https://github.com/NethermindEth/nethermind/pull/13283#pullrequestreview-5144698097) - 2026-09-08
+* [Pull Request] [EIP-8141: address the P3 review round on the frame transaction tests](https://github.com/NethermindEth/nethermind/pull/13286) - 2026-09-08
+* [Review] [Review on: EIP-8141: address the P3 review round on the frame transaction tests](https://github.com/NethermindEth/nethermind/pull/13286#pullrequestreview-5144705000) - 2026-09-08
+* [Pull Request] [fix(rpc): bound frame signature verification by the gas cap and map a signature-free envelope](https://github.com/NethermindEth/nethermind/pull/13279) - 2026-09-08
+* [Review] [Review on: fix(rpc): bound frame signature verification by the gas cap and map a signature-free envelope](https://github.com/NethermindEth/nethermind/pull/13279#pullrequestreview-5144268891) - 2026-09-08
+* [Pull Request] [test(eip8141): make four frame-transaction tests prove what they claim](https://github.com/NethermindEth/nethermind/pull/13284) - 2026-09-08
+* [Review] [Review on: test(eip8141): make four frame-transaction tests prove what they claim](https://github.com/NethermindEth/nethermind/pull/13284#pullrequestreview-5144729629) - 2026-09-08
+* [Pull Request] [fix(eth/69): carry the frame receipt payload over the wire](https://github.com/NethermindEth/nethermind/pull/13281) - 2026-09-08
+* [Review] [Review on: fix(eth/69): carry the frame receipt payload over the wire](https://github.com/NethermindEth/nethermind/pull/13281#pullrequestreview-5144427793) - 2026-09-08
+* [Pull Request] [fix(cl): credit deposits committed by a successful frame](https://github.com/NethermindEth/nethermind/pull/13278) - 2026-09-08
+* [Review] [Review on: fix(cl): credit deposits committed by a successful frame](https://github.com/NethermindEth/nethermind/pull/13278#pullrequestreview-5144340104) - 2026-09-08
+* [Pull Request] [refactor(rlp): share the EIP-8141 frame receipt codec](https://github.com/NethermindEth/nethermind/pull/13287) - 2026-09-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7843: Move to Review](https://github.com/ethereum/EIPs/pull/11867) - 2026-07-06
 

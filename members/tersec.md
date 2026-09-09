@@ -150,6 +150,8 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: Add getBuilderConfig api](https://github.com/status-im/nimbus-eth2/pull/8994#pullrequestreview-5130092988) - 2026-09-07
 * [Review] [Review on: add PTC duty tracking to VC](https://github.com/status-im/nimbus-eth2/pull/8924#pullrequestreview-5135540173) - 2026-09-07
 * [Pull Request] [use consensus specs execution payload envelope gossip tests](https://github.com/status-im/nimbus-eth2/pull/9001) - 2026-09-07
+* [Pull Request] [update to Nim 2.2.12](https://github.com/status-im/nimbus-eth2/pull/9015) - 2026-09-08
+* [Review] [Review on: use payload_attestation_deadline for blob data availaibility](https://github.com/status-im/nimbus-eth2/pull/9010#pullrequestreview-5136861896) - 2026-09-08
 [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1)
 * [Pull Request] [rm unnecessary import in verified proxy](https://github.com/status-im/nimbus-eth1/pull/4389) - 2026-07-02
 * [Pull Request] [update to nimbus-eth2 v26.6.2](https://github.com/status-im/nimbus-eth1/pull/4384) - 2026-07-01
@@ -210,6 +212,7 @@ Team: [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=a
 * [Review] [Review on: make BoringSSL optional for the sha256 and P256VERIFY precompiles](https://github.com/status-im/nimbus-eth1/pull/4705#pullrequestreview-5056787609) - 2026-08-29
 * [Review] [Review on: make BoringSSL optional for the sha256 and P256VERIFY precompiles](https://github.com/status-im/nimbus-eth1/pull/4705#pullrequestreview-5077479090) - 2026-09-01
 * [Review] [Review on: fix: peer overload in mainnet](https://github.com/status-im/nimbus-eth1/pull/4748#pullrequestreview-5127997070) - 2026-09-07
+* [Pull Request] [update to Nim 2.2.12](https://github.com/status-im/nimbus-eth1/pull/4761) - 2026-09-09
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Pull Request] [Add Caleb](https://github.com/protocolguild/documentation/pull/508) - 2026-07-03
 

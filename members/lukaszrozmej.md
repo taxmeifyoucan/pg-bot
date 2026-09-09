@@ -356,6 +356,24 @@ Team: [NethermindEth contributions](https://github.com/LukaszRozmej?org=Nethermi
 * [Commit] [perf: encode a branch node in one pass (#13167)](https://github.com/NethermindEth/nethermind/commit/25a750d4e272b4ce8b9176da9c83aad98ef1fd96) - 2026-09-07
 * [Commit] [Add background scheduler stats (#9956)](https://github.com/NethermindEth/nethermind/commit/e5d24d912f301c32152d35b2e93cba6450af0a14) - 2026-09-07
 * [Commit] [test: drive request-sizer latency from a ManualTimeProvider (#13192)](https://github.com/NethermindEth/nethermind/commit/527de8a542085cb4140d8046de832258ab635bfd) - 2026-09-07
+* [Pull Request] [refactor(rpc): decompose JsonRpcProcessor into decoder, batch source and diagnostics](https://github.com/NethermindEth/nethermind/pull/13290) - 2026-09-08
+* [Review] [Review on: refactor(rpc): decompose JsonRpcProcessor into decoder, batch source and diagnostics](https://github.com/NethermindEth/nethermind/pull/13290#pullrequestreview-5147384159) - 2026-09-08
+* [Review] [Review on: chore(deps): update Nethermind.Crypto.SecP256k1 package](https://github.com/NethermindEth/nethermind/pull/13289#pullrequestreview-5146955192) - 2026-09-08
+* [Pull Request] [perf(zkevm): swap 64 bits at a time with masks the preinitialiser cannot fold](https://github.com/NethermindEth/nethermind/pull/13291) - 2026-09-09
+* [Pull Request] [Dispose the pooled lists that trie path recovery abandons](https://github.com/NethermindEth/nethermind/pull/13266) - 2026-09-08
+* [Review] [Review on: Dispose the pooled lists that trie path recovery abandons](https://github.com/NethermindEth/nethermind/pull/13266#pullrequestreview-5142282693) - 2026-09-08
+* [Pull Request] [Build a sparse block bodies response body's transaction trie once](https://github.com/NethermindEth/nethermind/pull/13268) - 2026-09-08
+* [Review] [Review on: Build a sparse block bodies response body's transaction trie once](https://github.com/NethermindEth/nethermind/pull/13268#pullrequestreview-5140796128) - 2026-09-08
+* [Pull Request] [Reserve one receipt slot per parallel worker tracer](https://github.com/NethermindEth/nethermind/pull/13267) - 2026-09-08
+* [Review] [Review on: Reserve one receipt slot per parallel worker tracer](https://github.com/NethermindEth/nethermind/pull/13267#pullrequestreview-5140734967) - 2026-09-08
+* [Pull Request] [perf: cut the zkVM guest jumpdest scan to four instructions per byte](https://github.com/NethermindEth/nethermind/pull/13216) - 2026-09-08
+* [Review] [Review on: fix(trie): record inlined nodes as ambiguous when tracking past keys](https://github.com/NethermindEth/nethermind/pull/13274#pullrequestreview-5143127451) - 2026-09-08
+* [Commit] [Dispose the pooled lists that trie path recovery abandons (#13266)](https://github.com/NethermindEth/nethermind/commit/52082592bdf3f5453fc08e9acbcfebcb9e37c778) - 2026-09-08
+* [Commit] [Reserve one receipt slot per parallel worker tracer (#13267)](https://github.com/NethermindEth/nethermind/commit/5eb12227e2f6c045eae257cc591e4daeb9997588) - 2026-09-08
+* [Commit] [Build a sparse block bodies response body's transaction trie once (#13268)](https://github.com/NethermindEth/nethermind/commit/7e700b7cdffca2f1c9a320d6dc8169e4e054bbd4) - 2026-09-08
+* [Commit] [perf(zkevm): install the hash seed from the payload root (#13166)](https://github.com/NethermindEth/nethermind/commit/b2461eccc5c8949cd8c87b73abd93eb8a850a38a) - 2026-09-08
+* [Commit] [perf: cut the zkVM guest jumpdest scan to four instructions per byte (#13216)](https://github.com/NethermindEth/nethermind/commit/4ff834691058a5c2e0b1529d468a69d2e6c485ce) - 2026-09-08
+* [Commit] [perf: inline the small RlpReader members and drop dead hash compares (#13215)](https://github.com/NethermindEth/nethermind/commit/df289112a36a9174de329fc9aff785d7d9099d40) - 2026-09-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Remove Ahmad Bitar](https://github.com/protocolguild/documentation/pull/506#pullrequestreview-4626324874) - 2026-07-03
 * [Pull Request] [Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516) - 2026-07-08

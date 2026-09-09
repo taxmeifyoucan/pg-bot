@@ -224,6 +224,8 @@ Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencecha
 * [Review] [Review on: Add fake BLS backend for `bls_setting: 2` spectest cases](https://github.com/OffchainLabs/prysm/pull/17281#pullrequestreview-5119807793) - 2026-09-05
 * [Review] [Review on: Revert "Update bls mock for spec tests touching deposits"](https://github.com/OffchainLabs/prysm/pull/17467#pullrequestreview-5133435437) - 2026-09-07
 * [Commit] [Implement fast confirmation rule  (#17122)](https://github.com/OffchainLabs/prysm/commit/e038e27ca823917b52f19f0aece3140abc21a8cf) - 2026-09-07
+* [Review] [Review on: add progressive state schema](https://github.com/OffchainLabs/prysm/pull/17358#pullrequestreview-5142891513) - 2026-09-08
+* [Review] [Review on: Use `go-version-file` instead of pinned go version in Github Actions](https://github.com/OffchainLabs/prysm/pull/17466#pullrequestreview-5137257031) - 2026-09-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Huaifeng from Protocol Security](https://github.com/protocolguild/documentation/pull/510#pullrequestreview-4637648031) - 2026-07-06
 

@@ -32,6 +32,8 @@ Team: [STEEL](https://github.com/ethereum/execution-spec-tests)
 * [Review] [Review on: feat(tests): assert `SYSTEM_ADDRESS` is absent from BAL for EIP-7708 Transfer logs](https://github.com/ethereum/execution-specs/pull/3520#pullrequestreview-5104662469) - 2026-09-03
 * [Pull Request] [feat(tests): EIP-8246 checklist, focus on #3217 items](https://github.com/ethereum/execution-specs/pull/3533) - 2026-09-04
 * [Commit] [feat(tests): EIP-8246 checklist, focus on #3217 items (#3533)](https://github.com/ethereum/execution-specs/commit/e5dc2e0ba79e5b62bce00379b1e0d56a392a8f0d) - 2026-09-07
+* [Review] [Review on: feat(tests): EIP-7928 - reject BALs that omit system-phase accesses](https://github.com/ethereum/execution-specs/pull/3551#pullrequestreview-5146047836) - 2026-09-08
+* [Review] [Review on: chore(tests): drop stale EIP-8037 fork split in BAL insufficient-funds test](https://github.com/ethereum/execution-specs/pull/3545#pullrequestreview-5144254344) - 2026-09-08
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Pull Request] [Update EIP-7928: Remove the storage-read gas-feasibility check](https://github.com/ethereum/EIPs/pull/12277) - 2026-09-01
 ## Q2 2026

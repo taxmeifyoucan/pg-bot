@@ -163,6 +163,10 @@ Github: [@louistsai-csie](https://github.com/louistsai-csie)
 * [Review] [Review on: refactor(tests): size gas-boundary cases with fork calculators](https://github.com/ethereum/execution-specs/pull/3530#pullrequestreview-5129557555) - 2026-09-07
 * [Review] [Review on: feat(tests): EIP-8246 checklist, focus on #3217 items](https://github.com/ethereum/execution-specs/pull/3533#pullrequestreview-5129200993) - 2026-09-07
 * [Issue] [Refactor tests to use `gasConsumer` helper](https://github.com/ethereum/execution-specs/issues/3538) - 2026-09-07
+* [Review] [Review on: feat(test-benchmark): more worst case scenario [backport benchmarks/amsterdam]](https://github.com/ethereum/execution-specs/pull/3548#pullrequestreview-5138939265) - 2026-09-08
+* [Pull Request] [feat(tests): close out eip-7954 checklist](https://github.com/ethereum/execution-specs/pull/3546) - 2026-09-08
+* [Issue] [`test_memory_*` benchmark refactor](https://github.com/ethereum/execution-specs/issues/3547) - 2026-09-08
+* [Commit] [feat(test-benchmark): more worst case scenario (#3349)](https://github.com/ethereum/execution-specs/commit/4d9544d8b11f4f04ed6a3fb8ab8c4e084354198c) - 2026-09-08
 ## Q2 2026
 
 

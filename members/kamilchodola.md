@@ -175,6 +175,14 @@ Team: [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pul
 * [Review] [Review on: perf(evm): trim per-instruction overhead in eth_call](https://github.com/NethermindEth/nethermind/pull/13141#pullrequestreview-5115903562) - 2026-09-04
 * [Pull Request] [perf(evm): port the remaining #13141 trims onto optimize-vm](https://github.com/NethermindEth/nethermind/pull/13233) - 2026-09-07
 * [Review] [Review on: perf(evm): port the remaining #13141 trims onto optimize-vm](https://github.com/NethermindEth/nethermind/pull/13233#pullrequestreview-5133804675) - 2026-09-07
+* [Review] [Review on: Enable flat DB by default; flip CI backend coverage](https://github.com/NethermindEth/nethermind/pull/11931#pullrequestreview-5142730090) - 2026-09-08
+* [Pull Request] [fix(history): create the history pruner before the block processor starts](https://github.com/NethermindEth/nethermind/pull/13285) - 2026-09-08
+* [Review] [Review on: fix(history): create the history pruner before the block processor starts](https://github.com/NethermindEth/nethermind/pull/13285#pullrequestreview-5145602603) - 2026-09-08
+* [Pull Request] [Precreate RocksDB WAL files asynchronously](https://github.com/NethermindEth/nethermind/pull/13262) - 2026-09-08
+* [Pull Request] [Defer eligible RocksDB cleanup I/O to background workers](https://github.com/NethermindEth/nethermind/pull/13261) - 2026-09-08
+* [Pull Request] [Select flat Account index search automatically](https://github.com/NethermindEth/nethermind/pull/13260) - 2026-09-08
+* [Pull Request] [fix(trie): record inlined nodes as ambiguous when tracking past keys](https://github.com/NethermindEth/nethermind/pull/13274) - 2026-09-08
+* [Commit] [Fix BAL fetcher after peer allocation disposal migration (#13264)](https://github.com/NethermindEth/nethermind/commit/d66cfd50e0b6f492d8bc5d6b99be22e1821a55e4) - 2026-09-08
 [protocolguild/documentation](https://github.com/protocolguild/documentation)
 * [Review] [Review on: Add Stavros Vlachakis from Nethermind](https://github.com/protocolguild/documentation/pull/516#pullrequestreview-4652856645) - 2026-07-08
 

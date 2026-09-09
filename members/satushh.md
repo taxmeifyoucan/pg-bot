@@ -68,6 +68,7 @@ Github: [@satushh](https://github.com/satushh)
 * [Commit] [Fix activation and exit queue ordering in GetValidatorQueue (#17442)](https://github.com/OffchainLabs/prysm/commit/fc4e5dfed7f24b7b62050c86d38bcae696022f0e) - 2026-09-07
 [ethereum/eips](https://github.com/ethereum/eips)
 * [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5134245722) - 2026-09-07
+* [Review] [Review on: Add EIP: Fast Execution Payload Broadcast](https://github.com/ethereum/EIPs/pull/12299#pullrequestreview-5145276946) - 2026-09-08
 ## Q2 2026
 
 
